@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 16:44",
+  "updated_at": "2026-10-26 17:41",
   "taiwan": [
     {
       "rank": 1,
@@ -40,6 +40,38 @@
     },
     {
       "rank": 2,
+      "title": "日本前首相福田康夫享壽90歲　引退後仍致力改善日中關係",
+      "summary": [
+        "經濟日報：日本前首相福田康夫享壽90歲　引退後仍致力改善日中關係",
+        "自由時報：日本前首相福田康夫逝世 高市發表宣告全文曝光",
+        "上報：日本前首相福田康夫逝世 賴清德發文哀悼"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "日本前首相福田康夫享壽90歲　引退後仍致力改善日中關係",
+          "url": "https://money.udn.com/money/story/5599/9837674"
+        },
+        {
+          "source": "自由時報",
+          "title": "日本前首相福田康夫逝世 高市發表宣告全文曝光",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5619156"
+        },
+        {
+          "source": "上報",
+          "title": "日本前首相福田康夫逝世 賴清德發文哀悼",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EeTl1czhDSlBZWGFQQW04dldrbHNLdDVrdXlDTjNTWFlRX0hJV3JDdW8zVmh1bEhJY011Z3F0em1HQWRqLXZ6NHhpZUVqWUxrZjE5Rm1qUGtsMW8?oc=5"
+        },
+        {
+          "source": "新頭殼",
+          "title": "日本前首相福田康夫辭世   賴清德X發文哀悼",
+          "url": "https://newtalk.tw/news/view/2026-10-26/1067527"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "巴西總統大選首輪贏230萬票竟翻車！波索納洛之子拒認敗選喊選舉無效",
       "summary": [
         "自由時報：巴西總統大選首輪贏230萬票竟翻車！波索納洛之子拒認敗選喊選舉無效",
@@ -66,7 +98,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "蔡康永現身蔣萬安競總大會！ 脫黑色外套露白襯衫 不發一語與蔣無互動",
       "summary": [
         "自由時報：蔡康永現身蔣萬安競總大會！ 脫黑色外套露白襯衫 不發一語與蔣無互動",
@@ -89,27 +121,6 @@
           "source": "新頭殼",
           "title": "（影）蔡康永來了！脫下黑西裝　穿白襯衫響應蔣萬安競總成立",
           "url": "https://newtalk.tw/news/view/2026-10-26/1067514"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "日本前首相福田康夫享壽90歲　引退後仍致力改善日中關係",
-      "summary": [
-        "經濟日報：日本前首相福田康夫享壽90歲　引退後仍致力改善日中關係",
-        "自由時報：日本前首相福田康夫逝世 高市發表宣告全文曝光"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "日本前首相福田康夫享壽90歲　引退後仍致力改善日中關係",
-          "url": "https://money.udn.com/money/story/5599/9837674"
-        },
-        {
-          "source": "自由時報",
-          "title": "日本前首相福田康夫逝世 高市發表宣告全文曝光",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5619156"
         }
       ]
     },
@@ -220,16 +231,22 @@
     },
     {
       "rank": 10,
-      "title": "薔琵減弱為溫帶氣旋 日本和歌山縣淹大水｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+      "title": "特斯拉時速113km撞上！　老翁突穿越馬路「倒地又遭輾」當場身亡",
       "summary": [
-        "TVBS新聞：薔琵減弱為溫帶氣旋 日本和歌山縣淹大水｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+        "ETtoday：特斯拉時速113km撞上！　老翁突穿越馬路「倒地又遭輾」當場身亡",
+        "鏡週刊：加州公路深夜驚魂！特斯拉開輔助自動駕駛撞死行人　老翁倒地再遭後車輾過"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "TVBS新聞",
-          "title": "薔琵減弱為溫帶氣旋 日本和歌山縣淹大水｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcTQwaTJnZ1RBb0hoN3N3cXN5VkpwcFo4c1g4dnBpUEZoYVhrOG9GVDRHMDlPOG5obmZWSWtrVHZNMDFPLW1kTmJaOGxlSFBiOWtfNzdB?oc=5"
+          "source": "ETtoday",
+          "title": "特斯拉時速113km撞上！　老翁突穿越馬路「倒地又遭輾」當場身亡",
+          "url": "https://www.ettoday.net/news/20261026/3261056.htm"
+        },
+        {
+          "source": "鏡週刊",
+          "title": "加州公路深夜驚魂！特斯拉開輔助自動駕駛撞死行人　老翁倒地再遭後車輾過",
+          "url": "https://www.mirrormedia.mg/story/20261026edi061"
         }
       ]
     }
@@ -470,16 +487,22 @@
     },
     {
       "rank": 10,
-      "title": "朝媒大篇幅報道金正恩訪問丹東 彰顯朝中血盟關係",
+      "title": "Chinese wind turbine maker builds European firewall from Beijing",
       "summary": [
-        "韓聯社：朝媒大篇幅報道金正恩訪問丹東 彰顯朝中血盟關係"
+        "Financial Times：Chinese wind turbine maker builds European firewall from Beijing",
+        "FT中文網：中國風電製造商為歐洲業務架設“防火牆”"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "韓聯社",
-          "title": "朝媒大篇幅報道金正恩訪問丹東 彰顯朝中血盟關係",
-          "url": "https://cn.yna.co.kr/view/ACK20261025001200881"
+          "source": "Financial Times",
+          "title": "Chinese wind turbine maker builds European firewall from Beijing",
+          "url": "https://www.ft.com/content/fa2bdd53-29dc-4e3f-bbd2-5510da3cd88c?syn-25a6b1a6=1"
+        },
+        {
+          "source": "FT中文網",
+          "title": "中國風電製造商為歐洲業務架設“防火牆”",
+          "url": "https://www.ftchinese.com/story/001111199"
         }
       ]
     }
