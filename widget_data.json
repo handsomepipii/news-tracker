@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 00:48",
+  "updated_at": "2026-10-27 01:37",
   "taiwan": [
     {
       "rank": 1,
@@ -264,6 +264,33 @@
     },
     {
       "rank": 9,
+      "title": "李在明：韓國在他任內不太可能加入CPTPP",
+      "summary": [
+        "經濟日報：李在明：韓國在他任內不太可能加入CPTPP",
+        "ETtoday：南韓暫不申請加入CPTPP！李在明曝「不會連任」　農漁民疑慮成關鍵",
+        "自由時報：李在明：韓國在他任內不太可能加入CPTPP"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "李在明：韓國在他任內不太可能加入CPTPP",
+          "url": "https://money.udn.com/money/story/5599/9837898"
+        },
+        {
+          "source": "ETtoday",
+          "title": "南韓暫不申請加入CPTPP！李在明曝「不會連任」　農漁民疑慮成關鍵",
+          "url": "https://www.ettoday.net/news/20261026/3261079.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "李在明：韓國在他任內不太可能加入CPTPP",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5619312"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "金鐘61／不斷更新！第61屆金鐘獎戲劇類得獎名單即時更新　《如果我不曾見過太陽》蔡喬菲獲戲劇節目最具潛力新人獎",
       "summary": [
         "鏡週刊：金鐘61／不斷更新！第61屆金鐘獎戲劇類得獎名單即時更新　《如果我不曾見過太陽》蔡喬菲獲戲劇節目最具潛力新人獎",
@@ -286,33 +313,6 @@
           "source": "新頭殼",
           "title": "金鐘61》《我們與惡的距離 II》奪戲劇節目獎！完整得獎名單一次看",
           "url": "https://newtalk.tw/news/view/2026-10-27/1067551"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "壞人不準拿 iPhone！蘋果對影視作品要求超多  加拿大影集乾脆用三星手機",
-      "summary": [
-        "自由時報：壞人不準拿 iPhone！蘋果對影視作品要求超多  加拿大影集乾脆用三星手機",
-        "鏡週刊：好市多iPhone Duo展示機「關鍵功能」被封印！　網友一語道破：怕一支變兩支",
-        "鉅亨網：iPhone Duo螢幕出包 鴻海人士：實際生產未受影響"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "壞人不準拿 iPhone！蘋果對影視作品要求超多  加拿大影集乾脆用三星手機",
-          "url": "https://3c.ltn.com.tw/news/68070"
-        },
-        {
-          "source": "鏡週刊",
-          "title": "好市多iPhone Duo展示機「關鍵功能」被封印！　網友一語道破：怕一支變兩支",
-          "url": "https://www.mirrormedia.mg/story/20261026edi055"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "iPhone Duo螢幕出包 鴻海人士：實際生產未受影響",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzWVBkUU15Vy1hclNkdlFtUGdhUjhsV1A4RXZCRWJfN2xuQkduUVBCM0Z4N0RwbDRHWkZZVExLZkh1QzRXQ0EtOXF3RDBXZk0?oc=5"
         }
       ]
     }
