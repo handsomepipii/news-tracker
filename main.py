@@ -207,6 +207,7 @@ def fetch_all_feeds(conn):
                         new_articles.append({
                             "link": link,
                             "title": title,
+                            "raw_title": raw_title,
                             "source": source,
                             "category": category
                         })
@@ -225,7 +226,11 @@ def check_keywords(new_articles):
         return
 
     for a in new_articles:
-        matched = [kw for kw in keywords if kw.lower() in a["title"].lower()]
+        raw_t = a.get("raw_title", a["title"]).lower()
+        zh_t = a["title"].lower()
+        
+        # 只要關鍵字出現在原始標題 OR 翻譯後標題，皆算命中
+        matched = [kw for kw in keywords if kw.lower() in raw_t or kw.lower() in zh_t]
         if matched:
             zh_title = translate_to_zh_tw(a['title'])
             msg = (
