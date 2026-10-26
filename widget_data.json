@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 01:37",
+  "updated_at": "2026-10-27 02:41",
   "taiwan": [
     {
       "rank": 1,
@@ -27,14 +27,14 @@
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RVVdiZl94UHZwLXBfRlZja2lqNTg5X3JZT2t5bktHdFRrQXZyQXVNZ1NvMkdMN0dteVV2UkZzUDgwQVJQT19UNkVSbjlaSjRIRGRndFVFdldvZFk?oc=5"
         },
         {
+          "source": "鏡週刊",
+          "title": "臺灣大賽G5達滿場四萬人　中信兄弟4:3贏味全龍拿下系列賽第二勝（含各局重點）",
+          "url": "https://www.mirrormedia.mg/story/20261025-158pol-145805"
+        },
+        {
           "source": "TVBS新聞",
           "title": "武嶺車宿之旅 李多慧「攀壁.炊煮」遭檢舉｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nSWJiUE9LNkVGQ284MFpkU0pGZmxDdXIxN3pVaTdCLWFBcDFqY0RuM1pyd2JYZHAxcVhFMW4yVndaVzdyN0lhaXZicmdLbXRwY2VoWDRn?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "李四川競辦批「遭深坑主委言語恐嚇」不實抹黑 陳乃瑜：不思改進爛透了",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5619231"
         }
       ]
     },
@@ -448,6 +448,60 @@
     },
     {
       "rank": 5,
+      "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+      "summary": [
+        "BBC World：Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+        "Al Jazeera：How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
+        "The Guardian：How Lula beat far-right Bolsonaro in Brazil – The Latest"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+          "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
+          "url": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss"
+        },
+        {
+          "source": "The Guardian",
+          "title": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
+          "url": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+      "summary": [
+        "The Guardian：UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+        "Sky News：UK sanctions senior Sudanese commanders 'implicated in rape campaign'",
+        "Al Jazeera：Britain sanctions Sudanese commanders over weaponised rape"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+          "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of"
+        },
+        {
+          "source": "Sky News",
+          "title": "UK sanctions senior Sudanese commanders 'implicated in rape campaign'",
+          "url": "https://news.sky.com/story/senior-sudanese-commanders-sanctioned-after-being-implicated-in-rape-campaign-says-uk-government-13603953"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Britain sanctions Sudanese commanders over weaponised rape",
+          "url": "https://www.aljazeera.com/news/2026/10/26/britain-sanctions-sudanese-commanders-over-weaponised-rape?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Microsoft offers voluntary buyouts to 60,000 employees",
       "summary": [
         "CNBC World：Microsoft offers voluntary buyouts to 60,000 employees",
@@ -474,7 +528,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "沢村賞 阪神の高橋遙人投手が初受賞 16勝5完投",
       "summary": [
         "NHK新聞：沢村賞 阪神の高橋遙人投手が初受賞 16勝5完投",
@@ -495,7 +549,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Israel’s election: Five key things to know",
       "summary": [
         "Al Jazeera：Israel’s election: Five key things to know",
@@ -516,7 +570,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "塞爾維亞提前立法選舉：武契奇承認敗選 ”學生名單“贏得勝利",
       "summary": [
         "法廣RFI：塞爾維亞提前立法選舉：武契奇承認敗選 ”學生名單“贏得勝利",
@@ -533,48 +587,6 @@
           "source": "德國之聲",
           "title": "武契奇承認敗選　塞爾維亞學生運動贏得議會選舉",
           "url": "https://www.dw.com/zh/武契奇承认败选　塞尔维亚学生运动赢得议会选举/a-79760776?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "【子午播報】2026年10月24日",
-      "summary": [
-        "聯合國新聞：【子午播報】2026年10月24日",
-        "韓聯社：2026年10月26日韓聯社要聞簡報"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "聯合國新聞",
-          "title": "【子午播報】2026年10月24日",
-          "url": "https://news.un.org/feed/view/zh/story/2026/10/1143064"
-        },
-        {
-          "source": "韓聯社",
-          "title": "2026年10月26日韓聯社要聞簡報",
-          "url": "https://cn.yna.co.kr/view/ACK20261026003800881"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "剛果（金）埃博拉疫情持續蔓延，肯亞加強防控措施",
-      "summary": [
-        "聯合國新聞：剛果（金）埃博拉疫情持續蔓延，肯亞加強防控措施",
-        "The Guardian：Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "聯合國新聞",
-          "title": "剛果（金）埃博拉疫情持續蔓延，肯亞加強防控措施",
-          "url": "https://news.un.org/feed/view/zh/story/2026/10/1143059"
-        },
-        {
-          "source": "The Guardian",
-          "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
-          "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread"
         }
       ]
     }
