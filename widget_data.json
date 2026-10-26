@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-10-26 14:55",
+  "updated_at": "2026-10-26 15:19",
   "taiwan": [
     {
       "rank": 1,
-      "title": "巴西總統大選首輪贏230萬票竟翻車！波索納洛之子",
+      "title": "巴西總統大選首輪贏230萬票竟翻車！波索納洛之子拒認敗選喊選舉無效",
       "summary": [
         "自由時報：巴西總統大選首輪贏230萬票竟翻車！波索納洛之子拒認敗選喊選舉無效",
-        "經濟日報：巴西總統決選敗給魯拉　小波索納洛揚言將提選舉作廢"
+        "經濟日報：巴西總統決選敗給魯拉　小波索納洛揚言將提選舉作廢",
+        "鉅亨網：巴西總統大選結果出爐！魯拉擊敗波索納洛之子連任、面臨保守派國會與債務挑戰"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "自由時報",
@@ -19,12 +20,38 @@
           "source": "經濟日報",
           "title": "巴西總統決選敗給魯拉　小波索納洛揚言將提選舉作廢",
           "url": "https://money.udn.com/money/story/5599/9837484"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "巴西總統大選結果出爐！魯拉擊敗波索納洛之子連任、面臨保守派國會與債務挑戰",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BeHVuamRMdEo1SnN0VGFMM1oyTUk1VzJIeVZUd0kydC1UeEQ5Mm9zSHRxbE11RHlVQjE3QWV2cENONzBlMm9UdTBsOWU5bHM?oc=5"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "臺灣大賽》兄弟G6不上場名單公告！連拿2勝的菲力",
+      "title": "快訊／蔡康永現身蔣萬安競總成立大會 針對微博發文問題不發一語",
+      "summary": [
+        "上報：快訊／蔡康永現身蔣萬安競總成立大會 針對微博發文問題不發一語",
+        "TVBS新聞：武嶺車宿之旅 李多慧「攀壁.炊煮」遭檢舉｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "上報",
+          "title": "快訊／蔡康永現身蔣萬安競總成立大會 針對微博發文問題不發一語",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RVVdiZl94UHZwLXBfRlZja2lqNTg5X3JZT2t5bktHdFRrQXZyQXVNZ1NvMkdMN0dteVV2UkZzUDgwQVJQT19UNkVSbjlaSjRIRGRndFVFdldvZFk?oc=5"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "武嶺車宿之旅 李多慧「攀壁.炊煮」遭檢舉｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nSWJiUE9LNkVGQ284MFpkU0pGZmxDdXIxN3pVaTdCLWFBcDFqY0RuM1pyd2JYZHAxcVhFMW4yVndaVzdyN0lhaXZicmdLbXRwY2VoWDRn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "臺灣大賽》兄弟G6不上場名單公告！連拿2勝的菲力士今可上陣",
       "summary": [
         "自由時報：臺灣大賽》兄弟G6不上場名單公告！連拿2勝的菲力士今可上陣",
         "ETtoday：快訊／再贏就逼出G7！兄弟G6打線出爐　勝騎士領銜挑戰歷史逆轉"
@@ -44,7 +71,64 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "魯拉逆轉勝　巴西首位4度當選總統擋下拉美右傾潮",
+      "summary": [
+        "經濟日報：魯拉逆轉勝　巴西首位4度當選總統擋下拉美右傾潮",
+        "上報：巴西左派總統「逆轉勝」贏得第四任期 跛腳執政、國債飆升挑戰多"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "魯拉逆轉勝　巴西首位4度當選總統擋下拉美右傾潮",
+          "url": "https://money.udn.com/money/story/5599/9837485"
+        },
+        {
+          "source": "上報",
+          "title": "巴西左派總統「逆轉勝」贏得第四任期 跛腳執政、國債飆升挑戰多",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ITVhfcDRySzRzZ3dfdmZWVnRkUEJvYzk3TE1lRGhveEVsM3RVTDMxSGY0M1FvbXlkX252bENCcUgzM3FEM2R4a3AzQkxRMUNXV2NubmxQWXhTZ25JcWY4NnVOTGctaW8?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "習近平要戰狼變可愛？既自信又不安，中國外交的弔詭兩難",
+      "summary": [
+        "天下雜誌：習近平要戰狼變可愛？既自信又不安，中國外交的弔詭兩難",
+        "自由時報：揭北京對臺灣真正恐懼！美學者籲川普握緊「1張王牌」 反制習近平"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "天下雜誌",
+          "title": "習近平要戰狼變可愛？既自信又不安，中國外交的弔詭兩難",
+          "url": "https://www.cw.com.tw/article/5115427?utm_source=rss&utm_medium=referral&utm_campaign=Daily"
+        },
+        {
+          "source": "自由時報",
+          "title": "揭北京對臺灣真正恐懼！美學者籲川普握緊「1張王牌」 反制習近平",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5618994"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "薔琵減弱為溫帶氣旋 日本和歌山縣淹大水｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+      "summary": [
+        "TVBS新聞：薔琵減弱為溫帶氣旋 日本和歌山縣淹大水｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "薔琵減弱為溫帶氣旋 日本和歌山縣淹大水｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcTQwaTJnZ1RBb0hoN3N3cXN5VkpwcFo4c1g4dnBpUEZoYVhrOG9GVDRHMDlPOG5obmZWSWtrVHZNMDFPLW1kTmJaOGxlSFBiOWtfNzdB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "新臺幣繼續衝 早盤再度飆漲逾1元衝上29元",
       "summary": [
         "中央社：新臺幣繼續衝 早盤再度飆漲逾1元衝上29元"
@@ -59,8 +143,8 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "日本前首相福田康夫享壽90歲　引退後仍致力改善日",
+      "rank": 8,
+      "title": "日本前首相福田康夫享壽90歲　引退後仍致力改善日中關係",
       "summary": [
         "經濟日報：日本前首相福田康夫享壽90歲　引退後仍致力改善日中關係"
       ],
@@ -74,92 +158,32 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "早安世界》本週2波鋒面接力晴雨交替 6、7日各地",
-      "summary": [
-        "中央社：早安世界》本週2波鋒面接力晴雨交替 6、7日各地恐有大雨"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "中央社",
-          "title": "早安世界》本週2波鋒面接力晴雨交替 6、7日各地恐有大雨",
-          "url": "https://www.cna.com.tw/news/ahel/202505055001.aspx"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "「包山包海」部長盧比歐 傳統共和黨人從MAGA世",
-      "summary": [
-        "中央社：「包山包海」部長盧比歐 傳統共和黨人從MAGA世界崛起"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "中央社",
-          "title": "「包山包海」部長盧比歐 傳統共和黨人從MAGA世界崛起",
-          "url": "https://www.cna.com.tw/news/aopl/202505050014.aspx"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "美眾院將表決涉臺法案 解除交往限制、釐清聯大決議",
-      "summary": [
-        "中央社：美眾院將表決涉臺法案 解除交往限制、釐清聯大決議"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "中央社",
-          "title": "美眾院將表決涉臺法案 解除交往限制、釐清聯大決議",
-          "url": "https://www.cna.com.tw/news/aipl/202505050013.aspx"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "川普：聯準會主席鮑爾明年5月任期結束 不會提前開",
-      "summary": [
-        "中央社：川普：聯準會主席鮑爾明年5月任期結束 不會提前開除"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "中央社",
-          "title": "川普：聯準會主席鮑爾明年5月任期結束 不會提前開除",
-          "url": "https://www.cna.com.tw/news/aopl/202505050008.aspx"
-        }
-      ]
-    },
-    {
       "rank": 9,
-      "title": "遭騙10萬網路找追討管道 又險遭假律師詐10萬",
+      "title": "雲林颱風農損逾1.2億 大蒜、落花生受損逾400公頃｜20261026 公視午間新聞",
       "summary": [
-        "自由時報：遭騙10萬網路找追討管道 又險遭假律師詐10萬"
+        "公視新聞：雲林颱風農損逾1.2億 大蒜、落花生受損逾400公頃｜20261026 公視午間新聞"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "自由時報",
-          "title": "遭騙10萬網路找追討管道 又險遭假律師詐10萬",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5619113"
+          "source": "公視新聞",
+          "title": "雲林颱風農損逾1.2億 大蒜、落花生受損逾400公頃｜20261026 公視午間新聞",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FTXdZZFVpSVdObzhXelRYZjllT1RZakZkbS1QRHgyTmpmRHFObnFjSFU4Y3ZnT3NPZGY3UzJWOGdjR3BmR01EVGc4RQ?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "「黃阿瑪」重返基隆港 「洋流號」今晚首抵基隆",
+      "title": "研究揭編織不僅紓壓 還可降低失智風險｜20261026 公視早安新聞",
       "summary": [
-        "自由時報：「黃阿瑪」重返基隆港 「洋流號」今晚首抵基隆"
+        "公視新聞：研究揭編織不僅紓壓 還可降低失智風險｜20261026 公視早安新聞"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "自由時報",
-          "title": "「黃阿瑪」重返基隆港 「洋流號」今晚首抵基隆",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5619045"
+          "source": "公視新聞",
+          "title": "研究揭編織不僅紓壓 還可降低失智風險｜20261026 公視早安新聞",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4Ulk5MDc0UG9PVUZrTUJKWTBhSS1UaGd6OEd0Y1FtV3pNNlZwMjBUZFhmWFhrTGU0UGhvSC0zRjdHcElaUFZuaFdDQQ?oc=5"
         }
       ]
     }
@@ -167,10 +191,48 @@
   "global": [
     {
       "rank": 1,
-      "title": "法國再爆大規模示威逾1300人被捕，警民衝突致5",
+      "title": "Brazil runoff live updates: Lula supporters celebrate historic election win as Bolsonaro refuses to concede",
+      "summary": [
+        "The Guardian：Brazil runoff live updates: Lula supporters celebrate historic election win as Bolsonaro refuses to concede",
+        "Al Jazeera：Brazil election results 2026: Key takeaways from Lula’s historic win",
+        "NPR World：Brazil's left-wing President Lula elected for fourth term"
+      ],
+      "media_count": 6,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "Brazil runoff live updates: Lula supporters celebrate historic election win as Bolsonaro refuses to concede",
+          "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Brazil election results 2026: Key takeaways from Lula’s historic win",
+          "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss"
+        },
+        {
+          "source": "NPR World",
+          "title": "Brazil's left-wing President Lula elected for fourth term",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election"
+        },
+        {
+          "source": "Financial Times",
+          "title": "FirstFT: Brazil re-elects Lula as president",
+          "url": "https://www.ft.com/content/7d8f8969-7bef-4776-8e32-54249f8d3d61?syn-25a6b1a6=1"
+        },
+        {
+          "source": "CNBC World",
+          "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+          "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "法國再爆大規模示威逾1300人被捕，警民衝突致53警受傷",
       "summary": [
         "BBC中文：法國再爆大規模示威逾1300人被捕，警民衝突致53警受傷",
-        "德國之聲：法國抗議活動持續 千餘人被捕"
+        "德國之聲：法國抗議活動持續 千餘人被捕",
+        "法廣RFI：法國10.24示威活動41萬人參加 1314人被捕 53名執法人員受傷"
       ],
       "media_count": 4,
       "links": [
@@ -197,13 +259,14 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Exiled opposition leader",
+      "rank": 3,
+      "title": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
       "summary": [
         "The Guardian：Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
-        "BBC World：Venezuelan opposition leader María Machado returns after months in exile"
+        "BBC World：Venezuelan opposition leader María Machado returns after months in exile",
+        "NPR World：Venezuela's opposition leader María Corina Machado returns after months in exile"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "The Guardian",
@@ -219,37 +282,43 @@
           "source": "NPR World",
           "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
           "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Lula wins fourth term as",
-      "summary": [
-        "The Guardian：Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
-        "NPR World：Brazil's left-wing President Lula elected for fourth term"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
-          "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election"
         },
         {
-          "source": "NPR World",
-          "title": "Brazil's left-wing President Lula elected for fourth term",
-          "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election"
-        },
-        {
-          "source": "Financial Times",
-          "title": "FirstFT: Brazil re-elects Lula as president",
-          "url": "https://www.ft.com/content/7d8f8969-7bef-4776-8e32-54249f8d3d61?syn-25a6b1a6=1"
+          "source": "Washington Post",
+          "title": "Opposition leader María Corina Machado returns to Venezuela to push for elections",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNakhSY1dNbkt5X3ctRUR2WXVnUk96QlJ1bGVFUTJnVEhYNENCZWlITjdGb2xPMnhlamVncHFJdUxvNHZ3QkdPdGtQemVuVERyVmJDYlZfRmhJN2pyaXZNRnpIZFlhQlhtd1UzbjVtS2ZuSHFUZ0NEQnNhSFlKWi0wSjQ4VVFTMUkxem5qZW1hVjBITzFfZ3BoMzNLYVhBYVRRc29KY0g1NWFBazZTWll6MjhWX0tuRWZkZXk2RQ?oc=5"
         }
       ]
     },
     {
       "rank": 4,
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "summary": [
+        "BBC World：Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+        "NPR World：Musk says SpaceX did restrict Starlink, as Ukraine says the tech has been restored",
+        "Washington Post：Elon Musk says SpaceX was behind restrictions to Ukraine’s Starlink access"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NPR World",
+          "title": "Musk says SpaceX did restrict Starlink, as Ukraine says the tech has been restored",
+          "url": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions"
+        },
+        {
+          "source": "Washington Post",
+          "title": "Elon Musk says SpaceX was behind restrictions to Ukraine’s Starlink access",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWl82WHg4VTJVUThiR0d5ejZaZ0lRaXhBTWZma3dMUXVkQkY5SGstT3BWNnBGY0RCdjVMX2Q4OVFlWFZoLWJZQW9pa3JXdnFZREEzTjdKeTEzLWJtU3U5Z1NuT1llelFqLTFLMkZxYmF2V2VYbFUtLVB2RktGX25nU2lpaHhLNjRTeUZ1Q0lDeDZGUUtBQV9CTndkU1VrS3JSb0xJbTdRZUJ0Smx5R0o1YjF4cDh2NkI2UlJv?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "剛果（金）埃博拉疫情持續蔓延，肯亞加強防控措施",
       "summary": [
         "聯合國新聞：剛果（金）埃博拉疫情持續蔓延，肯亞加強防控措施",
@@ -270,7 +339,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "美國中選舉前夕，奧巴馬抨擊特朗普政府",
       "summary": [
         "BBC中文：美國中選舉前夕，奧巴馬抨擊特朗普政府",
@@ -291,7 +360,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "以色列將在大選日關閉所有約旦河西岸口岸",
       "summary": [
         "德國之聲：以色列將在大選日關閉所有約旦河西岸口岸",
@@ -312,44 +381,23 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Brazil election 2026: Fu",
-      "summary": [
-        "The Guardian：Brazil election 2026: Full second round results as Lula wins comeback against Flávio Bolsonaro",
-        "Al Jazeera：Brazil election results 2026: Key takeaways from Lula’s historic win"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "Brazil election 2026: Full second round results as Lula wins comeback against Flávio Bolsonaro",
-          "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Brazil election results 2026: Key takeaways from Lula’s historic win",
-          "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss"
-        }
-      ]
-    },
-    {
       "rank": 8,
-      "title": "Musk says SpaceX restric",
+      "title": "金正恩經新鴨綠江大橋抵達中國 王滬寧陪同訪問丹東",
       "summary": [
-        "BBC World：Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-        "NPR World：Musk says SpaceX did restrict Starlink, as Ukraine says the tech has been restored"
+        "德國之聲：金正恩經新鴨綠江大橋抵達中國 王滬寧陪同訪問丹東",
+        "紐約時報中文：金正恩取道新鴨綠江大橋突訪丹東，與王滬寧會晤- 紐約時報中文網"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "BBC World",
-          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+          "source": "德國之聲",
+          "title": "金正恩經新鴨綠江大橋抵達中國 王滬寧陪同訪問丹東",
+          "url": "https://www.dw.com/zh/金正恩经新鸭绿江大桥抵达中国-王沪宁陪同访问丹东/a-79749922?maca=chi-rss-chi-all-1127-rdf"
         },
         {
-          "source": "NPR World",
-          "title": "Musk says SpaceX did restrict Starlink, as Ukraine says the tech has been restored",
-          "url": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions"
+          "source": "紐約時報中文",
+          "title": "金正恩取道新鴨綠江大橋突訪丹東，與王滬寧會晤- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSjVwR3E5UGVPbWJXUHhBT2lGa052dENnQUZlMEszb1FsSVJNM3ZaeFRRTm1DRFFkMlQyWExJOWRRS0hSLTJpZXlhYjhkel9pelR4OGY0aVpzMDJRT1JyT29ZVW04UDJmbHdqX2J6RkJLRFBNQzhmNzFkWk13ZU1rQWFjQmJFcDRpWkU4?oc=5"
         }
       ]
     },
