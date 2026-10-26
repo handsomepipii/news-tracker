@@ -1,0 +1,6 @@
+feedparser
+httpx
+sentence-transformers
+scikit-learn
+numpy
+google-genai
