@@ -1,8 +1,45 @@
 {
-  "updated_at": "2026-10-26 18:39",
+  "updated_at": "2026-10-26 19:41",
   "taiwan": [
     {
       "rank": 1,
+      "title": "巴西總統大選首輪贏230萬票竟翻車！波索納洛之子拒認敗選喊選舉無效",
+      "summary": [
+        "自由時報：巴西總統大選首輪贏230萬票竟翻車！波索納洛之子拒認敗選喊選舉無效",
+        "經濟日報：魯拉逆轉勝　巴西首位4度當選總統擋下拉美右傾潮",
+        "上報：巴西左派總統「逆轉勝」贏得第四任期 跛腳執政、國債飆升挑戰多"
+      ],
+      "media_count": 6,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "巴西總統大選首輪贏230萬票竟翻車！波索納洛之子拒認敗選喊選舉無效",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5619059"
+        },
+        {
+          "source": "經濟日報",
+          "title": "魯拉逆轉勝　巴西首位4度當選總統擋下拉美右傾潮",
+          "url": "https://money.udn.com/money/story/5599/9837485"
+        },
+        {
+          "source": "上報",
+          "title": "巴西左派總統「逆轉勝」贏得第四任期 跛腳執政、國債飆升挑戰多",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ITVhfcDRySzRzZ3dfdmZWVnRkUEJvYzk3TE1lRGhveEVsM3RVTDMxSGY0M1FvbXlkX252bENCcUgzM3FEM2R4a3AzQkxRMUNXV2NubmxQWXhTZ25JcWY4NnVOTGctaW8?oc=5"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "巴西總統大選結果出爐！魯拉擊敗波索納洛之子連任、面臨保守派國會與債務挑戰",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BeHVuamRMdEo1SnN0VGFMM1oyTUk1VzJIeVZUd0kydC1UeEQ5Mm9zSHRxbE11RHlVQjE3QWV2cENONzBlMm9UdTBsOWU5bHM?oc=5"
+        },
+        {
+          "source": "風傳媒",
+          "title": "巴西前總統特赦夢碎！魯拉逆轉擊敗小波索納洛，迎接個人「第四任總統」 | 李靖棠 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1TmpjRDFaWC03VmxmV3YyblpoUERJUURwWXVwQ3lVamJDcS1LajQyVWdfTHFUSzdEMHFqMWFNT2otVjM3c0JHdUpyaEFVQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "駁深坑主委恐嚇陳乃瑜　李四川競辦：蘇陣營不該隨意拿地方人士開刀",
       "summary": [
         "ETtoday：駁深坑主委恐嚇陳乃瑜　李四川競辦：蘇陣營不該隨意拿地方人士開刀",
@@ -39,7 +76,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "日本前首相福田康夫享壽90歲　引退後仍致力改善日中關係",
       "summary": [
         "經濟日報：日本前首相福田康夫享壽90歲　引退後仍致力改善日中關係",
@@ -76,14 +113,14 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "蔡康永微博道歉稱沒支援臺獨　胡錫進點破關鍵「少了這句話」：他在告別粉絲",
       "summary": [
         "鏡週刊：蔡康永微博道歉稱沒支援臺獨　胡錫進點破關鍵「少了這句話」：他在告別粉絲",
         "新頭殼：蔡康永突發文喊「沒有支援臺獨」！ 胡錫進跳腳批差遠了：沒道歉也沒認錯",
         "風傳媒：蔡康永為何選這時間道歉？胡採蘋揭背後關鍵：這種手法大家看多了 | 蔣季容 | 新聞"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
           "source": "鏡週刊",
@@ -104,33 +141,11 @@
           "source": "自由時報",
           "title": "蔡康永微博發文藏玄機  他看到「這1句」嘆：不像道歉更像道別！",
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5619252"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "巴西總統大選首輪贏230萬票竟翻車！波索納洛之子拒認敗選喊選舉無效",
-      "summary": [
-        "自由時報：巴西總統大選首輪贏230萬票竟翻車！波索納洛之子拒認敗選喊選舉無效",
-        "經濟日報：巴西總統決選敗給魯拉　小波索納洛揚言將提選舉作廢",
-        "鉅亨網：巴西總統大選結果出爐！魯拉擊敗波索納洛之子連任、面臨保守派國會與債務挑戰"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "巴西總統大選首輪贏230萬票竟翻車！波索納洛之子拒認敗選喊選舉無效",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5619059"
         },
         {
-          "source": "經濟日報",
-          "title": "巴西總統決選敗給魯拉　小波索納洛揚言將提選舉作廢",
-          "url": "https://money.udn.com/money/story/5599/9837484"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "巴西總統大選結果出爐！魯拉擊敗波索納洛之子連任、面臨保守派國會與債務挑戰",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BeHVuamRMdEo1SnN0VGFMM1oyTUk1VzJIeVZUd0kydC1UeEQ5Mm9zSHRxbE11RHlVQjE3QWV2cENONzBlMm9UdTBsOWU5bHM?oc=5"
+          "source": "上報",
+          "title": "蔡康永讚蔣萬安演講有感情 微博發文「跟大陸粉絲道謝、道歉、道別」",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPTExldHdQMlVKMUZCVzgxZ1B0SkdfRXF3cFZQdzJZcFJJVEd1eUUwcDNBSFRKT3dtTnBTLWxyT3RDM0JfRnJjd3NNQTlsT3pBcUJkaWtfZDhYLVE?oc=5"
         }
       ]
     },
@@ -163,6 +178,48 @@
     },
     {
       "rank": 6,
+      "title": "薔琵減弱為溫帶氣旋 日本和歌山縣淹大水｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+      "summary": [
+        "TVBS新聞：薔琵減弱為溫帶氣旋 日本和歌山縣淹大水｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "公視新聞：20261026 公視AI手語天氣報導 ｜東半部、恆春有雨 午後嘉義以南防區域性陣雨 ｜ 公視新聞網 PNN"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "薔琵減弱為溫帶氣旋 日本和歌山縣淹大水｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcTQwaTJnZ1RBb0hoN3N3cXN5VkpwcFo4c1g4dnBpUEZoYVhrOG9GVDRHMDlPOG5obmZWSWtrVHZNMDFPLW1kTmJaOGxlSFBiOWtfNzdB?oc=5"
+        },
+        {
+          "source": "公視新聞",
+          "title": "20261026 公視AI手語天氣報導 ｜東半部、恆春有雨 午後嘉義以南防區域性陣雨 ｜ 公視新聞網 PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRUUJrTXR6aTBPd2psa0R4QlhjNDBqd3RGUFVJd21keWRKX2NtMFJfM2dpOXgtaWw0dmZhckdudjJRV0ZYaEZ5cGNxRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "金鐘61》王渝萱黑色亮片Bra辣翻紅毯！裙子一掀竟藏這個亮點",
+      "summary": [
+        "自由時報：金鐘61》王渝萱黑色亮片Bra辣翻紅毯！裙子一掀竟藏這個亮點",
+        "新頭殼：金鐘61》雙料入圍女配角！於子育披30萬排灣族服現身 攜母走紅毯求好運"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "金鐘61》王渝萱黑色亮片Bra辣翻紅毯！裙子一掀竟藏這個亮點",
+          "url": "https://istyle.ltn.com.tw/article/41439"
+        },
+        {
+          "source": "新頭殼",
+          "title": "金鐘61》雙料入圍女配角！於子育披30萬排灣族服現身 攜母走紅毯求好運",
+          "url": "https://newtalk.tw/news/view/2026-10-26/1067531"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "臺灣大賽》兄弟G6不上場名單公告！連拿2勝的菲力士今可上陣",
       "summary": [
         "自由時報：臺灣大賽》兄弟G6不上場名單公告！連拿2勝的菲力士今可上陣",
@@ -183,7 +240,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "女租客搬來2天就死亡！房產淪「凶宅」屋主怒告　父母判賠106萬",
       "summary": [
         "ETtoday：女租客搬來2天就死亡！房產淪「凶宅」屋主怒告　父母判賠106萬",
@@ -204,28 +261,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "魯拉逆轉勝　巴西首位4度當選總統擋下拉美右傾潮",
-      "summary": [
-        "經濟日報：魯拉逆轉勝　巴西首位4度當選總統擋下拉美右傾潮",
-        "上報：巴西左派總統「逆轉勝」贏得第四任期 跛腳執政、國債飆升挑戰多"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "魯拉逆轉勝　巴西首位4度當選總統擋下拉美右傾潮",
-          "url": "https://money.udn.com/money/story/5599/9837485"
-        },
-        {
-          "source": "上報",
-          "title": "巴西左派總統「逆轉勝」贏得第四任期 跛腳執政、國債飆升挑戰多",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ITVhfcDRySzRzZ3dfdmZWVnRkUEJvYzk3TE1lRGhveEVsM3RVTDMxSGY0M1FvbXlkX252bENCcUgzM3FEM2R4a3AzQkxRMUNXV2NubmxQWXhTZ25JcWY4NnVOTGctaW8?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "習近平要戰狼變可愛？既自信又不安，中國外交的弔詭兩難",
       "summary": [
         "天下雜誌：習近平要戰狼變可愛？既自信又不安，中國外交的弔詭兩難",
@@ -242,27 +278,6 @@
           "source": "自由時報",
           "title": "揭北京對臺灣真正恐懼！美學者籲川普握緊「1張王牌」 反制習近平",
           "url": "https://ec.ltn.com.tw/article/breakingnews/5618994"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "天王周杰倫讚「這市長很給力」影片被翻出！吸14萬人瀏覽　蔣萬安幽默回應了",
-      "summary": [
-        "鏡週刊：天王周杰倫讚「這市長很給力」影片被翻出！吸14萬人瀏覽　蔣萬安幽默回應了",
-        "ETtoday：周杰倫昔誇「這市長很給力」！蔣萬安幽默神回：哎唷不錯喔"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "鏡週刊",
-          "title": "天王周杰倫讚「這市長很給力」影片被翻出！吸14萬人瀏覽　蔣萬安幽默回應了",
-          "url": "https://www.mirrormedia.mg/story/20261026edi029"
-        },
-        {
-          "source": "ETtoday",
-          "title": "周杰倫昔誇「這市長很給力」！蔣萬安幽默神回：哎唷不錯喔",
-          "url": "https://www.ettoday.net/news/20261026/3261097.htm"
         }
       ]
     }
@@ -419,6 +434,27 @@
     },
     {
       "rank": 6,
+      "title": "沢村賞 阪神の高橋遙人投手が初受賞 16勝5完投",
+      "summary": [
+        "NHK新聞：沢村賞 阪神の高橋遙人投手が初受賞 16勝5完投",
+        "法廣RFI：中共二十大五中全會：強化治理措施 為習近平第四任期鋪路？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "沢村賞 阪神の高橋遙人投手が初受賞 16勝5完投",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261026de65836"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "中共二十大五中全會：強化治理措施 為習近平第四任期鋪路？",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261026-%E4%B8%AD%E5%85%B1%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%BA%94%E4%B8%AD%E5%85%A8%E6%9C%83-%E5%BC%B7%E5%8C%96%E6%B2%BB%E7%90%86%E6%8E%AA%E6%96%BD-%E7%82%BA%E7%BF%92%E8%BF%91%E5%B9%B3%E7%AC%AC%E5%9B%9B%E4%BB%BB%E6%9C%9F%E9%8B%AA%E8%B7%AF"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "塞爾維亞提前立法選舉：武契奇承認敗選 ”學生名單“贏得勝利",
       "summary": [
         "法廣RFI：塞爾維亞提前立法選舉：武契奇承認敗選 ”學生名單“贏得勝利",
@@ -439,7 +475,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "剛果（金）埃博拉疫情持續蔓延，肯亞加強防控措施",
       "summary": [
         "聯合國新聞：剛果（金）埃博拉疫情持續蔓延，肯亞加強防控措施",
@@ -460,7 +496,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Israel’s election: Five key things to know",
       "summary": [
         "Al Jazeera：Israel’s election: Five key things to know",
@@ -481,44 +517,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "美國中選舉前夕，奧巴馬抨擊特朗普政府",
-      "summary": [
-        "BBC中文：美國中選舉前夕，奧巴馬抨擊特朗普政府",
-        "BBC World：Obama attacks Trump as he campaigns for Democrats ahead of midterm elections"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "美國中選舉前夕，奧巴馬抨擊特朗普政府",
-          "url": "https://www.bbc.com/zhongwen/articles/cm4g13j5jg5ko/trad?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-          "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "以色列將在大選日關閉所有約旦河西岸口岸",
+      "title": "Jordan arrests three suspects in deadly church attack",
       "summary": [
-        "德國之聲：以色列將在大選日關閉所有約旦河西岸口岸",
-        "BBC World：Israel to close West Bank crossings on election day as crackdown escalates"
+        "Al Jazeera：Jordan arrests three suspects in deadly church attack",
+        "Sky News：Three men arrested in shootout after deadly attack on church in Jordan"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "以色列將在大選日關閉所有約旦河西岸口岸",
-          "url": "https://www.dw.com/zh/以色列将在大选日关闭所有约旦河西岸口岸/a-79756249?maca=chi-rss-chi-all-1127-rdf"
+          "source": "Al Jazeera",
+          "title": "Jordan arrests three suspects in deadly church attack",
+          "url": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-in-deadly-church-attack?traffic_source=rss"
         },
         {
-          "source": "BBC World",
-          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-          "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+          "source": "Sky News",
+          "title": "Three men arrested in shootout after deadly attack on church in Jordan",
+          "url": "https://news.sky.com/story/three-men-arrested-in-shootout-after-deadly-attack-on-church-in-jordan-13603900"
         }
       ]
     }
