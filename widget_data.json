@@ -1,9 +1,82 @@
 {
-  "updated_at": "2026-10-26 13:42",
+  "updated_at": "2026-10-26 14:39",
   "taiwan": [
     {
       "rank": 1,
-      "title": "亞帕運奪4金7銀9銅 賴清德感謝李洋：據理力爭、捍衛國格",
+      "title": "蔡康永道歉稱「沒支援過臺獨」 公督盟：中共在逼臺",
+      "summary": [
+        "自由時報：蔡康永道歉稱「沒支援過臺獨」 公督盟：中共在逼臺灣人閉嘴",
+        "鏡週刊：蔡康永微博道歉稱沒支援臺獨　胡錫進點破關鍵「少了這句話」：他在告別粉絲"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "蔡康永道歉稱「沒支援過臺獨」 公督盟：中共在逼臺灣人閉嘴",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5619016"
+        },
+        {
+          "source": "鏡週刊",
+          "title": "蔡康永微博道歉稱沒支援臺獨　胡錫進點破關鍵「少了這句話」：他在告別粉絲",
+          "url": "https://www.mirrormedia.mg/story/20261026edi041"
+        },
+        {
+          "source": "新頭殼",
+          "title": "蔡康永深夜微博致歉 吳欣岱喊話蔣萬安為民主自由硬槓中國",
+          "url": "https://newtalk.tw/news/view/2026-10-26/1067495"
+        },
+        {
+          "source": "ETtoday",
+          "title": "駁深坑主委恐嚇陳乃瑜　李四川競辦：蘇陣營不該隨意拿地方人士開刀",
+          "url": "https://www.ettoday.net/news/20261026/3261038.htm"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "巴西總統決選敗給魯拉　小波索納洛揚言將提選舉作廢",
+      "summary": [
+        "經濟日報：巴西總統決選敗給魯拉　小波索納洛揚言將提選舉作廢",
+        "自由時報：巴西總統大選首輪贏230萬票竟翻車！波索納洛之子拒認敗選喊選舉無效"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "巴西總統決選敗給魯拉　小波索納洛揚言將提選舉作廢",
+          "url": "https://money.udn.com/money/story/5599/9837484"
+        },
+        {
+          "source": "自由時報",
+          "title": "巴西總統大選首輪贏230萬票竟翻車！波索納洛之子拒認敗選喊選舉無效",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5619059"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "日本前首相福田康夫逝世 享耆壽90歲",
+      "summary": [
+        "自由時報：日本前首相福田康夫逝世 享耆壽90歲",
+        "經濟日報：日本前首相福田康夫享壽90歲　引退後仍致力改善日中關係"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "日本前首相福田康夫逝世 享耆壽90歲",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5619054"
+        },
+        {
+          "source": "經濟日報",
+          "title": "日本前首相福田康夫享壽90歲　引退後仍致力改善日中關係",
+          "url": "https://money.udn.com/money/story/5599/9837674"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "亞帕運奪4金7銀9銅 賴清德感謝李洋：據理力爭、",
       "summary": [
         "自由時報：亞帕運奪4金7銀9銅 賴清德感謝李洋：據理力爭、捍衛國格",
         "新頭殼：亞帕運勇奪4金7銀9銅  賴清德接見代表團：以大家為榮、點名感謝李洋"
@@ -23,17 +96,17 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "阿美麻糬董座余國基車禍身亡  結拜兄弟傅崐萁不捨",
+      "rank": 5,
+      "title": "阿美麻糬董座餘國基車禍身亡  結拜兄弟傅崐萁不捨",
       "summary": [
-        "自由時報：阿美麻糬董座余國基車禍身亡  結拜兄弟傅崐萁不捨",
+        "自由時報：阿美麻糬董座餘國基車禍身亡  結拜兄弟傅崐萁不捨",
         "鏡週刊：阿美麻糬董座「離奇墜橋身亡」　多年好友傅崐萁趕赴靈堂：花蓮的一大損失"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "阿美麻糬董座余國基車禍身亡  結拜兄弟傅崐萁不捨",
+          "title": "阿美麻糬董座餘國基車禍身亡  結拜兄弟傅崐萁不捨",
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5618991"
         },
         {
@@ -44,38 +117,44 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "新台幣繼續衝 早盤再度飆漲逾1元衝上29元",
+      "rank": 6,
+      "title": "造勢釀巨響害社群跳電！居民嗆「選來糟蹋自己」　3",
       "summary": [
-        "中央社：新台幣繼續衝 早盤再度飆漲逾1元衝上29元"
+        "鏡週刊：造勢釀巨響害社群跳電！居民嗆「選來糟蹋自己」　31歲最美民代道歉了",
+        "ETtoday：造勢彩帶害社群跳電！居民嗆「選來糟蹋自己」　31歲最美民代道歉了"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "鏡週刊",
+          "title": "造勢釀巨響害社群跳電！居民嗆「選來糟蹋自己」　31歲最美民代道歉了",
+          "url": "https://www.mirrormedia.mg/story/20261026edi012"
+        },
+        {
+          "source": "ETtoday",
+          "title": "造勢彩帶害社群跳電！居民嗆「選來糟蹋自己」　31歲最美民代道歉了",
+          "url": "https://www.ettoday.net/news/20261026/3261017.htm"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "新臺幣繼續衝 早盤再度飆漲逾1元衝上29元",
+      "summary": [
+        "中央社：新臺幣繼續衝 早盤再度飆漲逾1元衝上29元"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "中央社",
-          "title": "新台幣繼續衝 早盤再度飆漲逾1元衝上29元",
+          "title": "新臺幣繼續衝 早盤再度飆漲逾1元衝上29元",
           "url": "https://www.cna.com.tw/news/afe/202505055002.aspx"
         }
       ]
     },
     {
-      "rank": 4,
-      "title": "巴西總統決選敗給魯拉　小波索納洛揚言將提選舉作廢",
-      "summary": [
-        "經濟日報：巴西總統決選敗給魯拉　小波索納洛揚言將提選舉作廢"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "巴西總統決選敗給魯拉　小波索納洛揚言將提選舉作廢",
-          "url": "https://money.udn.com/money/story/5599/9837484"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "早安世界》本週2波鋒面接力晴雨交替 6、7日各地恐有大雨",
+      "rank": 8,
+      "title": "早安世界》本週2波鋒面接力晴雨交替 6、7日各地",
       "summary": [
         "中央社：早安世界》本週2波鋒面接力晴雨交替 6、7日各地恐有大雨"
       ],
@@ -89,8 +168,8 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "「包山包海」部長盧比歐 傳統共和黨人從MAGA世界崛起",
+      "rank": 9,
+      "title": "「包山包海」部長盧比歐 傳統共和黨人從MAGA世",
       "summary": [
         "中央社：「包山包海」部長盧比歐 傳統共和黨人從MAGA世界崛起"
       ],
@@ -104,62 +183,17 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "美眾院將表決涉台法案 解除交往限制、釐清聯大決議",
-      "summary": [
-        "中央社：美眾院將表決涉台法案 解除交往限制、釐清聯大決議"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "中央社",
-          "title": "美眾院將表決涉台法案 解除交往限制、釐清聯大決議",
-          "url": "https://www.cna.com.tw/news/aipl/202505050013.aspx"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "川普：聯準會主席鮑爾明年5月任期結束 不會提前開除",
-      "summary": [
-        "中央社：川普：聯準會主席鮑爾明年5月任期結束 不會提前開除"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "中央社",
-          "title": "川普：聯準會主席鮑爾明年5月任期結束 不會提前開除",
-          "url": "https://www.cna.com.tw/news/aopl/202505050008.aspx"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "台灣名次揭曉！全球「科學信任度」國家排名出爐 第3、第4",
-      "summary": [
-        "自由時報：台灣名次揭曉！全球「科學信任度」國家排名出爐 第3、第4名出乎意料"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "台灣名次揭曉！全球「科學信任度」國家排名出爐 第3、第4名出乎意料",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5619036"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "快評》用選票給蔡康永撐腰",
+      "title": "美眾院將表決涉臺法案 解除交往限制、釐清聯大決議",
       "summary": [
-        "自由時報：快評》用選票給蔡康永撐腰"
+        "中央社：美眾院將表決涉臺法案 解除交往限制、釐清聯大決議"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "自由時報",
-          "title": "快評》用選票給蔡康永撐腰",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5619039"
+          "source": "中央社",
+          "title": "美眾院將表決涉臺法案 解除交往限制、釐清聯大決議",
+          "url": "https://www.cna.com.tw/news/aipl/202505050013.aspx"
         }
       ]
     }
@@ -167,11 +201,10 @@
   "global": [
     {
       "rank": 1,
-      "title": "法國再爆大規模示威逾1300人被捕，警民衝突致53警受傷",
+      "title": "法國再爆大規模示威逾1300人被捕，警民衝突致5",
       "summary": [
         "BBC中文：法國再爆大規模示威逾1300人被捕，警民衝突致53警受傷",
-        "德國之聲：法国抗议活动持续 千余人被捕",
-        "法廣RFI：法國10.24示威活動41萬人參加 1314人被捕 53名執法人員受傷"
+        "德國之聲：法國抗議活動持續 千餘人被捕"
       ],
       "media_count": 4,
       "links": [
@@ -182,7 +215,7 @@
         },
         {
           "source": "德國之聲",
-          "title": "法国抗议活动持续 千余人被捕",
+          "title": "法國抗議活動持續 千餘人被捕",
           "url": "https://www.dw.com/zh/法国抗议活动持续-千余人被捕/a-79755023?maca=chi-rss-chi-all-1127-rdf"
         },
         {
@@ -199,11 +232,10 @@
     },
     {
       "rank": 2,
-      "title": "Lula wins fourth term as Bra",
+      "title": "Lula wins fourth term as",
       "summary": [
         "The Guardian：Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
-        "NPR World：Brazil's left-wing President Lula elected for fourth term",
-        "Financial Times：FirstFT: Brazil re-elects Lula as president"
+        "NPR World：Brazil's left-wing President Lula elected for fourth term"
       ],
       "media_count": 4,
       "links": [
@@ -231,11 +263,10 @@
     },
     {
       "rank": 3,
-      "title": "Exiled opposition leader Mar",
+      "title": "Exiled opposition leader",
       "summary": [
         "The Guardian：Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
-        "BBC World：Venezuelan opposition leader María Machado returns after months in exile",
-        "NPR World：Venezuela's opposition leader María Corina Machado returns after months in exile"
+        "BBC World：Venezuelan opposition leader María Machado returns after months in exile"
       ],
       "media_count": 4,
       "links": [
@@ -263,16 +294,16 @@
     },
     {
       "rank": 4,
-      "title": "刚果（金）埃博拉疫情持续蔓延，肯尼亚加强防控措施",
+      "title": "剛果（金）埃博拉疫情持續蔓延，肯亞加強防控措施",
       "summary": [
-        "聯合國新聞：刚果（金）埃博拉疫情持续蔓延，肯尼亚加强防控措施",
+        "聯合國新聞：剛果（金）埃博拉疫情持續蔓延，肯亞加強防控措施",
         "The Guardian：Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "聯合國新聞",
-          "title": "刚果（金）埃博拉疫情持续蔓延，肯尼亚加强防控措施",
+          "title": "剛果（金）埃博拉疫情持續蔓延，肯亞加強防控措施",
           "url": "https://news.un.org/feed/view/zh/story/2026/10/1143059"
         },
         {
@@ -305,16 +336,16 @@
     },
     {
       "rank": 6,
-      "title": "以色列将在大选日关闭所有约旦河西岸口岸",
+      "title": "以色列將在大選日關閉所有約旦河西岸口岸",
       "summary": [
-        "德國之聲：以色列将在大选日关闭所有约旦河西岸口岸",
+        "德國之聲：以色列將在大選日關閉所有約旦河西岸口岸",
         "BBC World：Israel to close West Bank crossings on election day as crackdown escalates"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "德國之聲",
-          "title": "以色列将在大选日关闭所有约旦河西岸口岸",
+          "title": "以色列將在大選日關閉所有約旦河西岸口岸",
           "url": "https://www.dw.com/zh/以色列将在大选日关闭所有约旦河西岸口岸/a-79756249?maca=chi-rss-chi-all-1127-rdf"
         },
         {
@@ -326,7 +357,7 @@
     },
     {
       "rank": 7,
-      "title": "Brazil election 2026: Full s",
+      "title": "Brazil election 2026: Fu",
       "summary": [
         "The Guardian：Brazil election 2026: Full second round results as Lula wins comeback against Flávio Bolsonaro",
         "Al Jazeera：Brazil election results 2026: Key takeaways from Lula’s historic win"
@@ -347,7 +378,7 @@
     },
     {
       "rank": 8,
-      "title": "Musk says SpaceX restricted ",
+      "title": "Musk says SpaceX restric",
       "summary": [
         "BBC World：Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
         "NPR World：Musk says SpaceX did restrict Starlink, as Ukraine says the tech has been restored"
@@ -368,30 +399,30 @@
     },
     {
       "rank": 9,
-      "title": "2026年10月26日韩国主要报纸头条新闻",
+      "title": "2026年10月26日韓國主要報紙頭條新聞",
       "summary": [
-        "韓聯社：2026年10月26日韩国主要报纸头条新闻"
+        "韓聯社：2026年10月26日韓國主要報紙頭條新聞"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "韓聯社",
-          "title": "2026年10月26日韩国主要报纸头条新闻",
+          "title": "2026年10月26日韓國主要報紙頭條新聞",
           "url": "https://cn.yna.co.kr/view/ACK20261026000100881"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "朝媒大篇幅报道金正恩访问丹东 彰显朝中血盟关系",
+      "title": "朝媒大篇幅報道金正恩訪問丹東 彰顯朝中血盟關係",
       "summary": [
-        "韓聯社：朝媒大篇幅报道金正恩访问丹东 彰显朝中血盟关系"
+        "韓聯社：朝媒大篇幅報道金正恩訪問丹東 彰顯朝中血盟關係"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "韓聯社",
-          "title": "朝媒大篇幅报道金正恩访问丹东 彰显朝中血盟关系",
+          "title": "朝媒大篇幅報道金正恩訪問丹東 彰顯朝中血盟關係",
           "url": "https://cn.yna.co.kr/view/ACK20261025001200881"
         }
       ]
