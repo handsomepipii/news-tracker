@@ -40,7 +40,7 @@ TW_FEEDS = {
     "科技新報": "https://technews.tw/feed/",
     "報導者": "https://www.twreporter.org/a/rss2.xml",
     "關鍵評論網": "https://news.google.com/rss/search?q=site:thenewslens.com+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-    "轉角國際": "https://news.google.com/rss/search?q=site:global.udn.com+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    "轉角國際": "https://news.google.com/rss/search?q=site:global.udn.com+when:3d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     "風傳媒": "https://news.google.com/rss/search?q=site:storm.mg+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     "上報": "https://news.google.com/rss/search?q=site:upmedia.mg+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     "鏡週刊": "https://www.mirrormedia.mg/rss/rss.xml",
@@ -57,7 +57,7 @@ INTL_FEEDS = {
     "紐約時報中文": "https://news.google.com/rss/search?q=site:cn.nytimes.com+when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     "德國之聲": "https://rss.dw.com/rdf/rss-chi-all",
     "法廣RFI": "https://www.rfi.fr/tw/rss",
-    "NHK新聞": "https://news.google.com/rss/search?q=site:nhk.or.jp+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    "NHK新聞": "https://www.nhk.or.jp/rss/news/cat0.xml",
     "韓聯社": "https://cn.yna.co.kr/RSS/news.xml",
     "FT中文網": "https://www.ftchinese.com/rss/feed",
     "聯合國新聞": "https://news.un.org/feed/subscribe/zh/news/all/rss.xml",
@@ -90,10 +90,12 @@ def send_tg_message(text):
         print(f"Telegram 推播失敗: {e}")
 
 def is_mostly_english(text):
-    # 若沒有半個中文字，或英文字母超過 12 個且中文字少於 4 個，判定為外文標題
+    # 偵測是否包含日文平假名 (\u3040-\u309f) 或片假名 (\u30a0-\u30ff)
+    jp_chars = sum(1 for ch in text if '\u3040' <= ch <= '\u30ff')
     zh_chars = sum(1 for ch in text if '\u4e00' <= ch <= '\u9fff')
     en_chars = sum(1 for ch in text if 'a' <= ch.lower() <= 'z')
-    return zh_chars == 0 or (en_chars > 12 and zh_chars < 4)
+    return jp_chars > 0 or zh_chars == 0 or (en_chars > 12 and zh_chars < 4)
+
 
 def ensure_traditional_chinese(text):
     text = text.strip()
