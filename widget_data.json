@@ -1,16 +1,26 @@
 {
-  "updated_at": "2026-10-26 15:51",
+  "updated_at": "2026-10-26 16:44",
   "taiwan": [
     {
       "rank": 1,
-      "title": "快訊／蔡康永現身蔣萬安競總成立大會 針對微博發文問題不發一語",
+      "title": "駁深坑主委恐嚇陳乃瑜　李四川競辦：蘇陣營不該隨意拿地方人士開刀",
       "summary": [
-        "上報：快訊／蔡康永現身蔣萬安競總成立大會 針對微博發文問題不發一語",
-        "TVBS新聞：武嶺車宿之旅 李多慧「攀壁.炊煮」遭檢舉｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-        "新頭殼：高市青年局培育電競賽評主播　4專班新秀直攻今年全國賽"
+        "ETtoday：駁深坑主委恐嚇陳乃瑜　李四川競辦：蘇陣營不該隨意拿地方人士開刀",
+        "新頭殼：蔡康永深夜微博致歉 吳欣岱喊話蔣萬安為民主自由硬槓中國",
+        "上報：快訊／蔡康永現身蔣萬安競總成立大會 針對微博發文問題不發一語"
       ],
-      "media_count": 3,
+      "media_count": 5,
       "links": [
+        {
+          "source": "ETtoday",
+          "title": "駁深坑主委恐嚇陳乃瑜　李四川競辦：蘇陣營不該隨意拿地方人士開刀",
+          "url": "https://www.ettoday.net/news/20261026/3261038.htm"
+        },
+        {
+          "source": "新頭殼",
+          "title": "蔡康永深夜微博致歉 吳欣岱喊話蔣萬安為民主自由硬槓中國",
+          "url": "https://newtalk.tw/news/view/2026-10-26/1067495"
+        },
         {
           "source": "上報",
           "title": "快訊／蔡康永現身蔣萬安競總成立大會 針對微博發文問題不發一語",
@@ -22,9 +32,9 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nSWJiUE9LNkVGQ284MFpkU0pGZmxDdXIxN3pVaTdCLWFBcDFqY0RuM1pyd2JYZHAxcVhFMW4yVndaVzdyN0lhaXZicmdLbXRwY2VoWDRn?oc=5"
         },
         {
-          "source": "新頭殼",
-          "title": "高市青年局培育電競賽評主播　4專班新秀直攻今年全國賽",
-          "url": "https://newtalk.tw/news/view/2026-10-26/1067511"
+          "source": "自由時報",
+          "title": "李四川競辦批「遭深坑主委言語恐嚇」不實抹黑 陳乃瑜：不思改進爛透了",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5619231"
         }
       ]
     },
@@ -57,6 +67,33 @@
     },
     {
       "rank": 3,
+      "title": "蔡康永現身蔣萬安競總大會！ 脫黑色外套露白襯衫 不發一語與蔣無互動",
+      "summary": [
+        "自由時報：蔡康永現身蔣萬安競總大會！ 脫黑色外套露白襯衫 不發一語與蔣無互動",
+        "鏡週刊：蔡康永現身蔣萬安競總成立大會　脫黑西裝外套露白色襯衫",
+        "新頭殼：（影）蔡康永來了！脫下黑西裝　穿白襯衫響應蔣萬安競總成立"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "蔡康永現身蔣萬安競總大會！ 脫黑色外套露白襯衫 不發一語與蔣無互動",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5619175"
+        },
+        {
+          "source": "鏡週刊",
+          "title": "蔡康永現身蔣萬安競總成立大會　脫黑西裝外套露白色襯衫",
+          "url": "https://www.mirrormedia.mg/story/20261026edi020"
+        },
+        {
+          "source": "新頭殼",
+          "title": "（影）蔡康永來了！脫下黑西裝　穿白襯衫響應蔣萬安競總成立",
+          "url": "https://newtalk.tw/news/view/2026-10-26/1067514"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "日本前首相福田康夫享壽90歲　引退後仍致力改善日中關係",
       "summary": [
         "經濟日報：日本前首相福田康夫享壽90歲　引退後仍致力改善日中關係",
@@ -77,7 +114,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "臺灣大賽》兄弟G6不上場名單公告！連拿2勝的菲力士今可上陣",
       "summary": [
         "自由時報：臺灣大賽》兄弟G6不上場名單公告！連拿2勝的菲力士今可上陣",
@@ -98,7 +135,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "女租客搬來2天就死亡！房產淪「凶宅」屋主怒告　父母判賠106萬",
       "summary": [
         "ETtoday：女租客搬來2天就死亡！房產淪「凶宅」屋主怒告　父母判賠106萬",
@@ -119,7 +156,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "魯拉逆轉勝　巴西首位4度當選總統擋下拉美右傾潮",
       "summary": [
         "經濟日報：魯拉逆轉勝　巴西首位4度當選總統擋下拉美右傾潮",
@@ -140,7 +177,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "習近平要戰狼變可愛？既自信又不安，中國外交的弔詭兩難",
       "summary": [
         "天下雜誌：習近平要戰狼變可愛？既自信又不安，中國外交的弔詭兩難",
@@ -161,28 +198,28 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "蔡康永現身蔣萬安競總大會！ 脫黑色外套露白襯衫 不發一語與蔣無互動",
+      "rank": 9,
+      "title": "天王周杰倫讚「這市長很給力」影片被翻出！吸14萬人瀏覽　蔣萬安幽默回應了",
       "summary": [
-        "自由時報：蔡康永現身蔣萬安競總大會！ 脫黑色外套露白襯衫 不發一語與蔣無互動",
-        "鏡週刊：蔡康永現身蔣萬安競總成立大會　脫黑西裝外套露白色襯衫"
+        "鏡週刊：天王周杰倫讚「這市長很給力」影片被翻出！吸14萬人瀏覽　蔣萬安幽默回應了",
+        "ETtoday：周杰倫昔誇「這市長很給力」！蔣萬安幽默神回：哎唷不錯喔"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "蔡康永現身蔣萬安競總大會！ 脫黑色外套露白襯衫 不發一語與蔣無互動",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5619175"
+          "source": "鏡週刊",
+          "title": "天王周杰倫讚「這市長很給力」影片被翻出！吸14萬人瀏覽　蔣萬安幽默回應了",
+          "url": "https://www.mirrormedia.mg/story/20261026edi029"
         },
         {
-          "source": "鏡週刊",
-          "title": "蔡康永現身蔣萬安競總成立大會　脫黑西裝外套露白色襯衫",
-          "url": "https://www.mirrormedia.mg/story/20261026edi020"
+          "source": "ETtoday",
+          "title": "周杰倫昔誇「這市長很給力」！蔣萬安幽默神回：哎唷不錯喔",
+          "url": "https://www.ettoday.net/news/20261026/3261097.htm"
         }
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "薔琵減弱為溫帶氣旋 日本和歌山縣淹大水｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：薔琵減弱為溫帶氣旋 日本和歌山縣淹大水｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
@@ -193,21 +230,6 @@
           "source": "TVBS新聞",
           "title": "薔琵減弱為溫帶氣旋 日本和歌山縣淹大水｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcTQwaTJnZ1RBb0hoN3N3cXN5VkpwcFo4c1g4dnBpUEZoYVhrOG9GVDRHMDlPOG5obmZWSWtrVHZNMDFPLW1kTmJaOGxlSFBiOWtfNzdB?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "新臺幣繼續衝 早盤再度飆漲逾1元衝上29元",
-      "summary": [
-        "中央社：新臺幣繼續衝 早盤再度飆漲逾1元衝上29元"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "中央社",
-          "title": "新臺幣繼續衝 早盤再度飆漲逾1元衝上29元",
-          "url": "https://www.cna.com.tw/news/afe/202505055002.aspx"
         }
       ]
     }
@@ -343,6 +365,27 @@
     },
     {
       "rank": 5,
+      "title": "2026年10月26日韓國主要報紙頭條新聞",
+      "summary": [
+        "韓聯社：2026年10月26日韓國主要報紙頭條新聞",
+        "聯合國新聞：【子午播報】2026年10月24日"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "2026年10月26日韓國主要報紙頭條新聞",
+          "url": "https://cn.yna.co.kr/view/ACK20261026000100881"
+        },
+        {
+          "source": "聯合國新聞",
+          "title": "【子午播報】2026年10月24日",
+          "url": "https://news.un.org/feed/view/zh/story/2026/10/1143064"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "剛果（金）埃博拉疫情持續蔓延，肯亞加強防控措施",
       "summary": [
         "聯合國新聞：剛果（金）埃博拉疫情持續蔓延，肯亞加強防控措施",
@@ -363,7 +406,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "美國中選舉前夕，奧巴馬抨擊特朗普政府",
       "summary": [
         "BBC中文：美國中選舉前夕，奧巴馬抨擊特朗普政府",
@@ -384,7 +427,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "以色列將在大選日關閉所有約旦河西岸口岸",
       "summary": [
         "德國之聲：以色列將在大選日關閉所有約旦河西岸口岸",
@@ -405,7 +448,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "金正恩經新鴨綠江大橋抵達中國 王滬寧陪同訪問丹東",
       "summary": [
         "德國之聲：金正恩經新鴨綠江大橋抵達中國 王滬寧陪同訪問丹東",
@@ -426,32 +469,17 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "德語媒體：德國應當學習“中國模式”？",
-      "summary": [
-        "德國之聲：德語媒體：德國應當學習“中國模式”？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "德語媒體：德國應當學習“中國模式”？",
-          "url": "https://www.dw.com/zh/德语媒体：德国应当学习-中国模式-？/a-79745059?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "2026年10月26日韓國主要報紙頭條新聞",
+      "title": "朝媒大篇幅報道金正恩訪問丹東 彰顯朝中血盟關係",
       "summary": [
-        "韓聯社：2026年10月26日韓國主要報紙頭條新聞"
+        "韓聯社：朝媒大篇幅報道金正恩訪問丹東 彰顯朝中血盟關係"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "韓聯社",
-          "title": "2026年10月26日韓國主要報紙頭條新聞",
-          "url": "https://cn.yna.co.kr/view/ACK20261026000100881"
+          "title": "朝媒大篇幅報道金正恩訪問丹東 彰顯朝中血盟關係",
+          "url": "https://cn.yna.co.kr/view/ACK20261025001200881"
         }
       ]
     }
