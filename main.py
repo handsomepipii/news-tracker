@@ -1,4 +1,5 @@
 import os
+import re
 import time
 import json
 import sqlite3
@@ -8,51 +9,55 @@ import feedparser
 import httpx
 import numpy as np
 from opencc import OpenCC
+from deep_translator import GoogleTranslator
 from sentence_transformers import SentenceTransformer
 from sklearn.cluster import DBSCAN
 from google import genai
 
-# 環境變數
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN")
-TG_CHAT_ID = os.environ.get("TG_CHAT_ID")
+# 讀取環境變數並去除可能誤複製的空白換行
+GEMINI_API_KEY = (os.environ.get("GEMINI_API_KEY") or "").strip()
+TG_BOT_TOKEN = (os.environ.get("TG_BOT_TOKEN") or "").strip()
+TG_CHAT_ID = (os.environ.get("TG_CHAT_ID") or "").strip()
 
 DB_PATH = "news.db"
 KEYWORDS_PATH = "keywords.json"
 WIDGET_JSON_PATH = "widget_data.json"
 
-# 初始化簡轉繁轉換器 (s2twp: 簡體到台灣正體並轉換慣用詞彙)
+# 簡轉繁與英翻中工具
 cc = OpenCC('s2twp')
+en_translator = GoogleTranslator(source='auto', target='zh-TW')
 
+# 台灣 20 家主流媒體 RSS (針對阻擋機房 IP 或失效的來源改走 Google News 網域通道)
 TW_FEEDS = {
     "中央社": "https://feeds.feedburner.com/cnaFirstNews",
-    "公視新聞": "https://news.pts.org.tw/xml/rssnews.xml",
+    "公視新聞": "https://news.google.com/rss/search?q=site:news.pts.org.tw+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     "聯合新聞": "https://udn.com/rssfeed/news/2/6638?ch=news",
     "自由時報": "https://news.ltn.com.tw/rss/all.xml",
-    "中時新聞": "https://www.chinatimes.com/rss/realtimenews.xml",
+    "中時新聞": "https://news.google.com/rss/search?q=site:chinatimes.com+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     "ETtoday": "https://feeds.feedburner.com/ettoday/realtime",
     "經濟日報": "https://money.udn.com/rssfeed/news/1001/5588",
-    "數位時代": "https://www.bnext.com.tw/rss",
+    "數位時代": "https://news.google.com/rss/search?q=site:bnext.com.tw+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     "科技新報": "https://technews.tw/feed/",
     "報導者": "https://www.twreporter.org/a/rss2.xml",
-    "關鍵評論網": "https://www.thenewslens.com/rss",
-    "轉角國際": "https://global.udn.com/rssfeed/news/8662/8663",
-    "風傳媒": "https://www.storm.mg/feeds/all",
-    "上報": "https://www.upmedia.mg/rss/news_all.php",
+    "關鍵評論網": "https://news.google.com/rss/search?q=site:thenewslens.com+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    "轉角國際": "https://news.google.com/rss/search?q=site:global.udn.com+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    "風傳媒": "https://news.google.com/rss/search?q=site:storm.mg+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    "上報": "https://news.google.com/rss/search?q=site:upmedia.mg+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     "鏡週刊": "https://www.mirrormedia.mg/rss/rss.xml",
-    "鉅亨網": "https://news.cnyes.com/api/v1/news/rss/headline",
+    "鉅亨網": "https://news.google.com/rss/search?q=site:news.cnyes.com+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     "新頭殼": "https://newtalk.tw/rss/all",
     "天下雜誌": "https://www.cw.com.tw/RSS/cw_content.xml",
-    "環境資訊中心": "https://e-info.org.tw/taxonomy/term/258/all/feed",
+    "TVBS新聞": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     "iThome": "https://www.ithome.com.tw/rss"
 }
 
+# 國際 20 家主流媒體 RSS
 INTL_FEEDS = {
     "BBC中文": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml",
-    "紐約時報中文": "https://cn.nytimes.com/rss/zh-hant.xml",
+    "紐約時報中文": "https://news.google.com/rss/search?q=site:cn.nytimes.com+when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     "德國之聲": "https://rss.dw.com/rdf/rss-chi-all",
     "法廣RFI": "https://www.rfi.fr/tw/rss",
-    "NHK華語": "https://www3.nhk.or.jp/nhkworld/zh/news/rss/",
+    "NHK新聞": "https://news.google.com/rss/search?q=site:nhk.or.jp+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     "韓聯社": "https://cn.yna.co.kr/RSS/news.xml",
     "FT中文網": "https://www.ftchinese.com/rss/feed",
     "聯合國新聞": "https://news.un.org/feed/subscribe/zh/news/all/rss.xml",
@@ -60,8 +65,8 @@ INTL_FEEDS = {
     "The Guardian": "https://www.theguardian.com/world/rss",
     "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
-    "CNBC World": "https://search.cnbc.com/rs/search/combinedlist/view.xml?partnerId=wrss01&id=100727362",
-    "Washington Post": "https://feeds.washingtonpost.com/rss/world",
+    "CNBC World": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+    "Washington Post": "https://news.google.com/rss/search?q=site:washingtonpost.com+when:1d&hl=en-US&gl=US&ceid=US:en",
     "NPR World": "https://feeds.npr.org/1004/rss.xml",
     "TechCrunch": "https://techcrunch.com/feed/",
     "The Verge": "https://www.theverge.com/rss/index.xml",
@@ -84,6 +89,32 @@ def send_tg_message(text):
     except Exception as e:
         print(f"Telegram 推播失敗: {e}")
 
+def is_mostly_english(text):
+    # 若沒有半個中文字，或英文字母超過 12 個且中文字少於 4 個，判定為外文標題
+    zh_chars = sum(1 for ch in text if '\u4e00' <= ch <= '\u9fff')
+    en_chars = sum(1 for ch in text if 'a' <= ch.lower() <= 'z')
+    return zh_chars == 0 or (en_chars > 12 and zh_chars < 4)
+
+def ensure_traditional_chinese(text):
+    text = text.strip()
+    if not text:
+        return text
+    if is_mostly_english(text):
+        try:
+            translated = en_translator.translate(text)
+            if translated:
+                text = translated
+        except Exception as e:
+            print(f"翻譯備援失敗: {e}")
+    return cc.convert(text)
+
+def clean_rss_title(raw_title, is_google_news=False):
+    title = raw_title.strip()
+    # 移除 Google News RSS 尾端附帶的「 - 媒體名稱」
+    if is_google_news and " - " in title:
+        title = title.rsplit(" - ", 1)[0].strip()
+    return ensure_traditional_chinese(title)
+
 def init_db():
     conn = sqlite3.connect(DB_PATH)
     c = conn.cursor()
@@ -102,11 +133,23 @@ def init_db():
                     translated_links TEXT,
                     created_at TIMESTAMP
                 )''')
-    # 相容舊資料表結構：若無 translated_links 欄位則自動新增
     try:
         c.execute("ALTER TABLE summary_cache ADD COLUMN translated_links TEXT")
     except sqlite3.OperationalError:
         pass
+
+    # 自動修復舊資料庫中尚未翻譯的英文標題，並清除殘留英文的舊快取
+    c.execute("SELECT link, title FROM articles")
+    for link, title in c.fetchall():
+        if is_mostly_english(title):
+            zh_title = ensure_traditional_chinese(title)
+            c.execute("UPDATE articles SET title = ? WHERE link = ?", (zh_title, link))
+
+    c.execute("SELECT cluster_id, headline FROM summary_cache")
+    for cid, headline in c.fetchall():
+        if is_mostly_english(headline):
+            c.execute("DELETE FROM summary_cache WHERE cluster_id = ?", (cid,))
+
     conn.commit()
     return conn
 
@@ -116,12 +159,16 @@ def fetch_all_feeds(conn):
     new_articles = []
     error_logs = []
 
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+        "Accept": "application/rss+xml, application/xml, text/xml, */*"
+    }
 
     for category, feed_dict in [("tw", TW_FEEDS), ("intl", INTL_FEEDS)]:
         for source, url in feed_dict.items():
             try:
-                resp = httpx.get(url, headers=headers, timeout=12.0, follow_redirects=True)
+                is_gn = "news.google.com" in url
+                resp = httpx.get(url, headers=headers, timeout=15.0, follow_redirects=True)
                 if resp.status_code >= 400:
                     error_logs.append(f"• <b>{source}</b>: HTTP {resp.status_code}")
                     continue
@@ -130,17 +177,16 @@ def fetch_all_feeds(conn):
                     error_logs.append(f"• <b>{source}</b>: 解析無文章")
                     continue
 
-                for entry in feed.entries[:20]:
+                for entry in feed.entries[:15]:
                     link = entry.get("link", "").strip()
                     raw_title = entry.get("title", "").strip()
                     if not link or not raw_title:
                         continue
-                    
-                    # 入庫前統一將簡體中文轉為台灣繁體中文
-                    title = cc.convert(raw_title)
 
                     c.execute("SELECT 1 FROM articles WHERE link = ?", (link,))
                     if not c.fetchone():
+                        # 入庫前即完成「外文翻譯 + 簡轉繁」
+                        title = clean_rss_title(raw_title, is_google_news=is_gn)
                         c.execute(
                             "INSERT INTO articles (link, title, source, category, fetched_at) VALUES (?, ?, ?, ?, ?)",
                             (link, title, source, category, now.isoformat())
@@ -176,11 +222,6 @@ def check_keywords(new_articles):
             )
             send_tg_message(msg)
 
-def has_english(text):
-    # 判斷標題是否包含大量英文字母（用於過濾之前快取失敗的英文標題）
-    ascii_letters = sum(1 for ch in text if 'a' <= ch.lower() <= 'z')
-    return ascii_letters > 8
-
 def find_cached_summary(conn, current_links):
     c = conn.cursor()
     cutoff = (datetime.now(timezone.utc) - timedelta(hours=12)).isoformat()
@@ -189,8 +230,7 @@ def find_cached_summary(conn, current_links):
 
     curr_set = set(current_links)
     for row_links_json, headline, bullets_json, trans_links_json in rows:
-        # 若快取中的標題含有未翻譯的英文，視為無效快取，重新交由 Gemini 翻譯
-        if has_english(headline):
+        if is_mostly_english(headline):
             continue
         cached_set = set(json.loads(row_links_json))
         intersection = len(curr_set & cached_set)
@@ -221,10 +261,6 @@ def save_summary_cache(conn, current_links, headline, bullets, translated_links)
     conn.commit()
 
 def batch_summarize_with_gemini(client, conn, clusters):
-    """
-    將需要摘要與翻譯的多個新聞群集「打包成單一請求」送給 Gemini，
-    避免逐筆呼叫觸發 429 RPM 速率限制，同時確保所有外文標題 100% 翻譯為繁體中文！
-    """
     final_results = [None] * len(clusters)
     pending_items = []
 
@@ -232,12 +268,11 @@ def batch_summarize_with_gemini(client, conn, clusters):
         links = [a["link"] for a in cluster["articles"]]
         cached = find_cached_summary(conn, links)
         if cached:
-            print(f"[Cache Hit] 沿用繁中摘要: {cached['headline']}")
             final_results[idx] = {
                 "headline": cached["headline"],
                 "bullets": cached["bullets"],
                 "links": cached["translated_links"] or [
-                    {"source": a["source"], "title": cc.convert(a["title"]), "url": a["link"]}
+                    {"source": a["source"], "title": a["title"], "url": a["link"]}
                     for a in cluster["articles"][:5]
                 ]
             }
@@ -250,70 +285,68 @@ def batch_summarize_with_gemini(client, conn, clusters):
     if not pending_items:
         return final_results
 
-    # 準備批次 Prompt 資料
-    prompt_payload = []
-    for item in pending_items:
-        prompt_payload.append({
+    prompt_payload = [
+        {
             "id": item["index"],
             "reports": [{"source": a["source"], "title": a["title"]} for a in item["articles"]]
-        })
+        }
+        for item in pending_items
+    ]
 
     prompt = f"""
-你是一位專業的台灣新聞總編輯。以下提供 {len(prompt_payload)} 組新聞事件群集（包含多家國內外媒體的報導標題）：
+你是一位專業的台灣新聞總編輯。以下提供 {len(prompt_payload)} 組新聞事件群集：
 {json.dumps(prompt_payload, ensure_ascii=False, indent=2)}
 
-請針對每一組事件（依 `id` 對應），嚴格以「台灣繁體中文（台灣慣用詞彙，如：川普、歐巴馬、魯拉、馬斯克、北韓）」輸出：
-1. `headline`：用一句話精確總結該事件核心標題（**必須為全繁體中文，嚴格禁止出現英文句子**，字數控制在 18~24 字內，完整不斷句）。
-2. `bullets`：用 2 點列出此事件的關鍵重點或背景細節（**全繁體中文**，每點約 20~35 字）。
-3. `translated_titles`：將該組 `reports` 中的每一則原始標題翻譯為「台灣繁體中文」（依原本順序排列的字串陣列）。
+請針對每一組事件（依 `id` 數字對應），嚴格以「台灣繁體中文（台灣慣用詞彙）」輸出：
+1. `headline`：用一句話精確總結該事件核心標題（全繁體中文，約 18~25 字，語意完整不斷句）。
+2. `bullets`：用 2 點列出此事件的關鍵重點或背景細節（全繁體中文，每點約 20~35 字）。
 
-請嚴格輸出 JSON Array 格式，範例如下：
+請嚴格輸出 JSON Array 格式：
 [
   {{
     "id": 0,
-    "headline": "巴西大選魯拉險勝連任，展開第四度總統任期",
-    "bullets": [
-      "巴西左翼總統魯拉於第二輪決選中擊敗右翼對手波索納洛。",
-      "多國領袖致電祝賀，市場關注後續財政與環保政策走向。"
-    ],
-    "translated_titles": [
-      "魯拉於歷史性決選勝出，第四度當選巴西總統",
-      "巴西左翼總統魯拉成功連任第四個任期"
-    ]
+    "headline": "事件核心總結標題",
+    "bullets": ["重點1", "重點2"]
   }}
 ]
 """
 
-    # 具備自動重試機制的 API 呼叫
-    for attempt in range(3):
+    for model_name in ["gemini-2.5-flash", "gemini-2.0-flash"]:
         try:
             resp = client.models.generate_content(
-                model="gemini-2.5-flash",
+                model=model_name,
                 contents=prompt,
                 config={"response_mime_type": "application/json"}
             )
-            parsed_list = json.loads(resp.text)
-            parsed_map = {item["id"]: item for item in parsed_list if isinstance(item, dict) and "id" in item}
+            raw_json = json.loads(resp.text)
+            # 相容 Gemini 回傳 List 或包在 Dict 內的情況
+            if isinstance(raw_json, dict):
+                for v in raw_json.values():
+                    if isinstance(v, list):
+                        raw_json = v
+                        break
+
+            parsed_map = {}
+            if isinstance(raw_json, list):
+                for item in raw_json:
+                    if isinstance(item, dict) and "id" in item:
+                        try:
+                            parsed_map[int(item["id"])] = item
+                        except ValueError:
+                            pass
 
             for item in pending_items:
                 idx = item["index"]
                 arts = item["articles"]
                 all_links = [a["link"] for a in clusters[idx]["articles"]]
+                formatted_links = [{"source": a["source"], "title": a["title"], "url": a["link"]} for a in arts]
 
                 if idx in parsed_map:
                     g_data = parsed_map[idx]
-                    headline = cc.convert(g_data.get("headline", arts[0]["title"]))
-                    bullets = [cc.convert(b) for b in g_data.get("bullets", [])]
-                    trans_titles = g_data.get("translated_titles", [])
-
-                    formatted_links = []
-                    for i, a in enumerate(arts):
-                        t_title = cc.convert(trans_titles[i]) if i < len(trans_titles) else cc.convert(a["title"])
-                        formatted_links.append({
-                            "source": a["source"],
-                            "title": t_title,
-                            "url": a["link"]
-                        })
+                    headline = ensure_traditional_chinese(g_data.get("headline", arts[0]["title"]))
+                    bullets = [ensure_traditional_chinese(b) for b in g_data.get("bullets", [])]
+                    if not bullets:
+                        bullets = [f"{a['source']}：{a['title']}" for a in arts[:2]]
 
                     save_summary_cache(conn, all_links, headline, bullets, formatted_links)
                     final_results[idx] = {
@@ -323,17 +356,17 @@ def batch_summarize_with_gemini(client, conn, clusters):
                     }
             break
         except Exception as e:
-            print(f"Gemini 批次呼叫第 {attempt+1} 次失敗: {e}")
-            time.sleep(6 * (attempt + 1))
+            print(f"Gemini ({model_name}) 呼叫失敗: {e}")
+            time.sleep(4)
 
-    # 若仍有未成功項目之最終安全備援
+    # 最終安全備援（因為文章入庫時已翻成繁中，且不硬切 24 字，備援同樣是完整繁體中文！）
     for idx, res in enumerate(final_results):
         if res is None:
             arts = clusters[idx]["articles"][:5]
             final_results[idx] = {
-                "headline": cc.convert(arts[0]["title"][:24]),
-                "bullets": [f"{a['source']}：{cc.convert(a['title'])}" for a in arts[:2]],
-                "links": [{"source": a["source"], "title": cc.convert(a["title"]), "url": a["link"]} for a in arts]
+                "headline": ensure_traditional_chinese(arts[0]["title"]),
+                "bullets": [f"{a['source']}：{ensure_traditional_chinese(a['title'])}" for a in arts[:3]],
+                "links": [{"source": a["source"], "title": ensure_traditional_chinese(a["title"]), "url": a["link"]} for a in arts]
             }
 
     return final_results
@@ -346,7 +379,7 @@ def cluster_and_rank(conn, embed_model, gemini_client, category, top_k=10):
     if not rows:
         return []
 
-    articles = [{"link": r[0], "title": cc.convert(r[1]), "source": r[2]} for r in rows]
+    articles = [{"link": r[0], "title": r[1], "source": r[2]} for r in rows]
     titles = [a["title"] for a in articles]
 
     embeddings = embed_model.encode(titles, normalize_embeddings=True)
@@ -371,7 +404,6 @@ def cluster_and_rank(conn, embed_model, gemini_client, category, top_k=10):
     ranked.sort(key=lambda x: (x["unique_source_count"], len(x["all_articles"])), reverse=True)
     top_clusters = ranked[:top_k]
 
-    # 一次性批次交由 Gemini 進行繁中統整與翻譯
     summarized_list = batch_summarize_with_gemini(gemini_client, conn, top_clusters)
 
     results = []
@@ -409,7 +441,7 @@ def main():
     gemini_client = genai.Client(api_key=GEMINI_API_KEY)
 
     tw_top10 = cluster_and_rank(conn, embed_model, gemini_client, "tw", top_k=10)
-    time.sleep(3) # 緩衝 3 秒再處理國際新聞
+    time.sleep(3)
     intl_top10 = cluster_and_rank(conn, embed_model, gemini_client, "intl", top_k=10)
 
     tw_tz = timezone(timedelta(hours=8))
