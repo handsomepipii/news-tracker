@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-10-27 04:30",
+  "updated_at": "2026-10-27 05:08",
   "taiwan": [
     {
       "rank": 1,
-      "title": "李四川競辦批「遭深坑主委言語恐嚇」不實抹黑 陳乃瑜：不思改進爛透了",
+      "title": "藍營竹縣造勢 徐欣瑩：AI治理、解決塞車、每胎10萬元補助 吳旭智：竹北超越臺北",
       "summary": [
-        "自由時報：李四川競辦批「遭深坑主委言語恐嚇」不實抹黑 陳乃瑜：不思改進爛透了",
-        "ETtoday：李競辦反咬抹黑沒恐嚇　陳乃瑜：李四川68歲也要這樣恐嚇他人？",
-        "上報：藍營竹縣造勢 徐欣瑩：AI治理、解決塞車、每胎10萬元補助 吳旭智：竹北超越臺北"
+        "上報：藍營竹縣造勢 徐欣瑩：AI治理、解決塞車、每胎10萬元補助 吳旭智：竹北超越臺北",
+        "自由時報：臺灣大賽》勇奪雙料MVP 梅賽鍶烙中文：大家辛苦了",
+        "ETtoday：快訊／兄弟奇蹟之路遭終結！味全龍6比0霸氣封王　隊史第6座總冠軍"
       ],
       "media_count": 7,
       "links": [
         {
-          "source": "自由時報",
-          "title": "李四川競辦批「遭深坑主委言語恐嚇」不實抹黑 陳乃瑜：不思改進爛透了",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5619231"
-        },
-        {
-          "source": "ETtoday",
-          "title": "李競辦反咬抹黑沒恐嚇　陳乃瑜：李四川68歲也要這樣恐嚇他人？",
-          "url": "https://www.ettoday.net/news/20261026/3261095.htm"
-        },
-        {
           "source": "上報",
           "title": "藍營竹縣造勢 徐欣瑩：AI治理、解決塞車、每胎10萬元補助 吳旭智：竹北超越臺北",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56ZkI5T2o3NndheC1KWVlwM2VJMzJvcHVfa3F1RnhYaHBRT3l0LXJBNS1xTGVFbWtVQnRDdHZGSlRiT3JheU5ma1R5ZkZic20tc2YzTW01bFlGUWdHV0E?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "臺灣大賽》勇奪雙料MVP 梅賽鍶烙中文：大家辛苦了",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5619377"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／兄弟奇蹟之路遭終結！味全龍6比0霸氣封王　隊史第6座總冠軍",
+          "url": "https://sports.ettoday.net/news/3261142"
         },
         {
           "source": "新頭殼",
@@ -77,38 +77,6 @@
     },
     {
       "rank": 3,
-      "title": "日本前首相福田康夫逝世 賴總統以日文發文致哀",
-      "summary": [
-        "自由時報：日本前首相福田康夫逝世 賴總統以日文發文致哀",
-        "上報：日本前首相福田康夫逝世 賴清德發文哀悼",
-        "新頭殼：日本前首相福田康夫辭世   賴清德X發文哀悼"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "日本前首相福田康夫逝世 賴總統以日文發文致哀",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5619236"
-        },
-        {
-          "source": "上報",
-          "title": "日本前首相福田康夫逝世 賴清德發文哀悼",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EeTl1czhDSlBZWGFQQW04dldrbHNLdDVrdXlDTjNTWFlRX0hJV3JDdW8zVmh1bEhJY011Z3F0em1HQWRqLXZ6NHhpZUVqWUxrZjE5Rm1qUGtsMW8?oc=5"
-        },
-        {
-          "source": "新頭殼",
-          "title": "日本前首相福田康夫辭世   賴清德X發文哀悼",
-          "url": "https://newtalk.tw/news/view/2026-10-26/1067527"
-        },
-        {
-          "source": "ETtoday",
-          "title": "日本前首相福田康夫辭世　賴清德哀悼：向家屬及日本各界致上慰問",
-          "url": "https://www.ettoday.net/news/20261026/3261144.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "蔡康永微博發文藏玄機  他看到「這1句」嘆：不像道歉更像道別！",
       "summary": [
         "自由時報：蔡康永微博發文藏玄機  他看到「這1句」嘆：不像道歉更像道別！",
@@ -140,7 +108,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "巴西前總統特赦夢碎！魯拉逆轉擊敗小波索納洛，迎接個人「第四任總統」 | 李靖棠 | 新聞",
       "summary": [
         "風傳媒：巴西前總統特赦夢碎！魯拉逆轉擊敗小波索納洛，迎接個人「第四任總統」 | 李靖棠 | 新聞",
@@ -172,7 +140,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "李在明：韓國在他任內不太可能加入CPTPP",
       "summary": [
         "經濟日報：李在明：韓國在他任內不太可能加入CPTPP",
@@ -199,7 +167,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "金鐘61／不斷更新！第61屆金鐘獎戲劇類得獎名單即時更新　《如果我不曾見過太陽》蔡喬菲獲戲劇節目最具潛力新人獎",
       "summary": [
         "鏡週刊：金鐘61／不斷更新！第61屆金鐘獎戲劇類得獎名單即時更新　《如果我不曾見過太陽》蔡喬菲獲戲劇節目最具潛力新人獎",
@@ -226,34 +194,34 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "金鐘61／莎莎、鬼鬼紅毯雙雙獲肯定！姚元浩也奪「最帥」　笑喊這就是心中的首獎",
+      "rank": 7,
+      "title": "日本前首相福田康夫逝世 賴清德發文哀悼",
       "summary": [
-        "鏡週刊：金鐘61／莎莎、鬼鬼紅毯雙雙獲肯定！姚元浩也奪「最帥」　笑喊這就是心中的首獎",
-        "ETtoday：金鐘獎／柯佳嬿三爭視後「坤達連續2年親接送」！　超甜合照閃瞎全網",
-        "新頭殼：(影)金鐘61》入圍6次今年終於圓夢！楊祐寧奪最佳男配 淚崩喊：把獎項獻給爸爸"
+        "上報：日本前首相福田康夫逝世 賴清德發文哀悼",
+        "新頭殼：日本前首相福田康夫辭世   賴清德X發文哀悼",
+        "ETtoday：日本前首相福田康夫辭世　賴清德哀悼：向家屬及日本各界致上慰問"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "鏡週刊",
-          "title": "金鐘61／莎莎、鬼鬼紅毯雙雙獲肯定！姚元浩也奪「最帥」　笑喊這就是心中的首獎",
-          "url": "https://www.mirrormedia.mg/story/20261026-196ent-153950"
-        },
-        {
-          "source": "ETtoday",
-          "title": "金鐘獎／柯佳嬿三爭視後「坤達連續2年親接送」！　超甜合照閃瞎全網",
-          "url": "https://star.ettoday.net/news/3260674"
+          "source": "上報",
+          "title": "日本前首相福田康夫逝世 賴清德發文哀悼",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EeTl1czhDSlBZWGFQQW04dldrbHNLdDVrdXlDTjNTWFlRX0hJV3JDdW8zVmh1bEhJY011Z3F0em1HQWRqLXZ6NHhpZUVqWUxrZjE5Rm1qUGtsMW8?oc=5"
         },
         {
           "source": "新頭殼",
-          "title": "(影)金鐘61》入圍6次今年終於圓夢！楊祐寧奪最佳男配 淚崩喊：把獎項獻給爸爸",
-          "url": "https://newtalk.tw/news/view/2026-10-26/1067552"
+          "title": "日本前首相福田康夫辭世   賴清德X發文哀悼",
+          "url": "https://newtalk.tw/news/view/2026-10-26/1067527"
+        },
+        {
+          "source": "ETtoday",
+          "title": "日本前首相福田康夫辭世　賴清德哀悼：向家屬及日本各界致上慰問",
+          "url": "https://www.ettoday.net/news/20261026/3261144.htm"
         }
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "好市多iPhone Duo展示機「關鍵功能」被封印！　網友一語道破：怕一支變兩支",
       "summary": [
         "鏡週刊：好市多iPhone Duo展示機「關鍵功能」被封印！　網友一語道破：怕一支變兩支",
@@ -280,7 +248,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "金鐘／唐從聖金鐘獎奪獎淚謝亡父！擺脫諧星宿命想休息了",
       "summary": [
         "ETtoday：金鐘／唐從聖金鐘獎奪獎淚謝亡父！擺脫諧星宿命想休息了",
@@ -299,45 +267,39 @@
           "url": "https://newtalk.tw/news/view/2026-10-26/1067546"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "開工日北部轉濕涼！連3波東北季風報到  煙花最快明升級強颱",
+      "summary": [
+        "自由時報：開工日北部轉濕涼！連3波東北季風報到  煙花最快明升級強颱",
+        "TVBS新聞：【TVBS18氣象站】颱風煙花挑戰強颱 預估對臺日無影響 本週2波東北季風 北宜涼整週 週日回溫大"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "開工日北部轉濕涼！連3波東北季風報到  煙花最快明升級強颱",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5619272"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "【TVBS18氣象站】颱風煙花挑戰強颱 預估對臺日無影響 本週2波東北季風 北宜涼整週 週日回溫大",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmcFU0bEpUN0JlLURaR3VUZW1KblJVSEN0OG4zX29SYklET252UFBxYzQ5QndfTkR6SmgtTlJtaXRNNjJHbi1YSmUwd0hhSDN1SjN0aHJn?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Lula is re-elected Brazil’s president in knife-edge vote",
-      "summary": [
-        "Financial Times：Lula is re-elected Brazil’s president in knife-edge vote",
-        "BBC World：Lula wins fourth term in dramatic Brazil election comeback",
-        "CNBC World：Lula wins Brazil runoff after prediction markets favored Bolsonaro"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "Lula is re-elected Brazil’s president in knife-edge vote",
-          "url": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1"
-        },
-        {
-          "source": "BBC World",
-          "title": "Lula wins fourth term in dramatic Brazil election comeback",
-          "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CNBC World",
-          "title": "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
-          "url": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
       "summary": [
         "BBC World：Watch: How President Lula turned it around to beat Flávio Bolsonaro",
-        "Al Jazeera：How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
-        "The Guardian：How Lula beat far-right Bolsonaro in Brazil – The Latest"
+        "法廣RFI：巴西：盧拉逆轉獲勝第四次連任  對手拒絕承認敗選",
+        "Al Jazeera：How did Lula beat Bolsonaro after losing Brazil’s first-round election?"
       ],
-      "media_count": 3,
+      "media_count": 7,
       "links": [
         {
           "source": "BBC World",
@@ -345,19 +307,93 @@
           "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "source": "法廣RFI",
+          "title": "巴西：盧拉逆轉獲勝第四次連任  對手拒絕承認敗選",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E8%A7%A3%E8%AA%AA/20261026-%E5%B7%B4%E8%A5%BF-%E7%9B%A7%E6%8B%89%E9%80%86%E8%BD%89%E7%8D%B2%E5%8B%9D%E7%AC%AC%E5%9B%9B%E6%AC%A1%E9%80%A3%E4%BB%BB-%E5%B0%8D%E6%89%8B%E6%8B%92%E7%B5%95%E6%89%BF%E8%AA%8D%E6%95%97%E9%81%B8"
+        },
+        {
           "source": "Al Jazeera",
           "title": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
           "url": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss"
         },
         {
+          "source": "Financial Times",
+          "title": "Update: Lula pulls off election win in Brazil",
+          "url": "https://www.ft.com/content/c222b937-6351-4d21-b7cc-ae6fe21693f4?syn-25a6b1a6=1"
+        },
+        {
           "source": "The Guardian",
-          "title": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
-          "url": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest"
+          "title": "‘Democracy always’: Lula vows no return to dictatorship in Brazil after election win",
+          "url": "https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Microsoft offers voluntary buyouts to 60,000 employees",
+      "summary": [
+        "CNBC World：Microsoft offers voluntary buyouts to 60,000 employees",
+        "TechCrunch：Microsoft offers buyouts to around 60,000 employees, reports say",
+        "The Verge：Microsoft offers buyouts to 60,000 employees"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "CNBC World",
+          "title": "Microsoft offers voluntary buyouts to 60,000 employees",
+          "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Microsoft offers buyouts to around 60,000 employees, reports say",
+          "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
+        },
+        {
+          "source": "The Verge",
+          "title": "Microsoft offers buyouts to 60,000 employees",
+          "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible"
+        },
+        {
+          "source": "Financial Times",
+          "title": "Microsoft offers buyouts to 60,000 staff",
+          "url": "https://www.ft.com/content/2ef29406-f2f8-413f-81f6-5ae098c97569?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 3,
+      "title": "Trump administration illegally fired Maurene Comey, judge rules",
+      "summary": [
+        "Financial Times：Trump administration illegally fired Maurene Comey, judge rules",
+        "BBC World：Trump administration illegally fired James Comey's daughter, judge rules",
+        "Washington Post：DOJ unlawfully fired Maurene Comey, daughter of former FBI director, judge rules"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "Trump administration illegally fired Maurene Comey, judge rules",
+          "url": "https://www.ft.com/content/627ed704-f736-4fa2-91c9-67e53577fb7f?syn-25a6b1a6=1"
+        },
+        {
+          "source": "BBC World",
+          "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+          "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Washington Post",
+          "title": "DOJ unlawfully fired Maurene Comey, daughter of former FBI director, judge rules",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTTMtckpXeHZoTDRfcTJ2YmJhbzZ3cmlKN05EZ3NHTm9TcW9KMnZjMEZGRlRab0YwcHp3S3RrWW00Qm5sS0VKNTM2VW1YRjJFcTJRZW5FQkFqRnIyZFZJMXpqbnlDNE9SYnpVdGpJUUp6ekt0ZnFsRFpVaTdoRjROZXR1cUh0am1wY3BIQ0ZZMzBkWG80clBQU1lYbEpYXzBXRGNSbkdMVWxBbC1hbjIyT3JWMHhVNFRGWlZTcnlNMk1HQ3VKOXJEbU1NRXgyNGFJTGc?oc=5"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US court rules daughter of Trump critic James Comey was illegally fired",
+          "url": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
       "summary": [
         "The Guardian：UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
@@ -384,82 +420,28 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Microsoft offers voluntary buyouts to 60,000 employees",
-      "summary": [
-        "CNBC World：Microsoft offers voluntary buyouts to 60,000 employees",
-        "TechCrunch：Microsoft offers buyouts to around 60,000 employees, reports say",
-        "The Verge：Microsoft offers buyouts to 60,000 employees"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "CNBC World",
-          "title": "Microsoft offers voluntary buyouts to 60,000 employees",
-          "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Microsoft offers buyouts to around 60,000 employees, reports say",
-          "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
-        },
-        {
-          "source": "The Verge",
-          "title": "Microsoft offers buyouts to 60,000 employees",
-          "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "Trump administration illegally fired Maurene Comey, judge rules",
+      "title": "中共二十大五中全會：強化治理措施 為習近平第四任期鋪路？",
       "summary": [
-        "Financial Times：Trump administration illegally fired Maurene Comey, judge rules",
-        "BBC World：Trump administration illegally fired James Comey's daughter, judge rules",
-        "Washington Post：DOJ unlawfully fired Maurene Comey, daughter of former FBI director, judge rules"
+        "法廣RFI：中共二十大五中全會：強化治理措施 為習近平第四任期鋪路？",
+        "NHK新聞：巨人 松井秀喜新監督に元監督の堀內恆夫さん「長期政権を」"
       ],
-      "media_count": 3,
+      "media_count": 2,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "Trump administration illegally fired Maurene Comey, judge rules",
-          "url": "https://www.ft.com/content/627ed704-f736-4fa2-91c9-67e53577fb7f?syn-25a6b1a6=1"
+          "source": "法廣RFI",
+          "title": "中共二十大五中全會：強化治理措施 為習近平第四任期鋪路？",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261026-%E4%B8%AD%E5%85%B1%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%BA%94%E4%B8%AD%E5%85%A8%E6%9C%83-%E5%BC%B7%E5%8C%96%E6%B2%BB%E7%90%86%E6%8E%AA%E6%96%BD-%E7%82%BA%E7%BF%92%E8%BF%91%E5%B9%B3%E7%AC%AC%E5%9B%9B%E4%BB%BB%E6%9C%9F%E9%8B%AA%E8%B7%AF"
         },
         {
-          "source": "BBC World",
-          "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-          "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Washington Post",
-          "title": "DOJ unlawfully fired Maurene Comey, daughter of former FBI director, judge rules",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTTMtckpXeHZoTDRfcTJ2YmJhbzZ3cmlKN05EZ3NHTm9TcW9KMnZjMEZGRlRab0YwcHp3S3RrWW00Qm5sS0VKNTM2VW1YRjJFcTJRZW5FQkFqRnIyZFZJMXpqbnlDNE9SYnpVdGpJUUp6ekt0ZnFsRFpVaTdoRjROZXR1cUh0am1wY3BIQ0ZZMzBkWG80clBQU1lYbEpYXzBXRGNSbkdMVWxBbC1hbjIyT3JWMHhVNFRGWlZTcnlNMk1HQ3VKOXJEbU1NRXgyNGFJTGc?oc=5"
+          "source": "NHK新聞",
+          "title": "巨人 松井秀喜新監督に元監督の堀內恆夫さん「長期政権を」",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261026de65951"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "沢村賞 阪神の高橋遙人投手が初受賞 16勝5完投",
-      "summary": [
-        "NHK新聞：沢村賞 阪神の高橋遙人投手が初受賞 16勝5完投",
-        "法廣RFI：中共二十大五中全會：強化治理措施 為習近平第四任期鋪路？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "沢村賞 阪神の高橋遙人投手が初受賞 16勝5完投",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261026de65836"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "中共二十大五中全會：強化治理措施 為習近平第四任期鋪路？",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261026-%E4%B8%AD%E5%85%B1%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%BA%94%E4%B8%AD%E5%85%A8%E6%9C%83-%E5%BC%B7%E5%8C%96%E6%B2%BB%E7%90%86%E6%8E%AA%E6%96%BD-%E7%82%BA%E7%BF%92%E8%BF%91%E5%B9%B3%E7%AC%AC%E5%9B%9B%E4%BB%BB%E6%9C%9F%E9%8B%AA%E8%B7%AF"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Algeria’s military deployment to Niger: What’s behind the move?",
       "summary": [
         "Al Jazeera：Algeria’s military deployment to Niger: What’s behind the move?",
@@ -480,7 +462,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Jordan arrests three suspects over church attack in dawn raid: What to know",
       "summary": [
         "Al Jazeera：Jordan arrests three suspects over church attack in dawn raid: What to know",
@@ -501,28 +483,7 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "福田康夫元首相が死去 90歳",
-      "summary": [
-        "NHK新聞：福田康夫元首相が死去 90歳",
-        "BBC中文：福田康夫逝世享年90歲 長期親華的「短暫」日本首相"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "福田康夫元首相が死去 90歳",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261026de65501"
-        },
-        {
-          "source": "BBC中文",
-          "title": "福田康夫逝世享年90歲 長期親華的「短暫」日本首相",
-          "url": "https://www.bbc.com/zhongwen/articles/cm4g149yw14lo/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "title": "日本前首相福田康夫逝世  中國在第一時間表示沉痛哀悼",
       "summary": [
         "法廣RFI：日本前首相福田康夫逝世  中國在第一時間表示沉痛哀悼",
@@ -539,6 +500,48 @@
           "source": "德國之聲",
           "title": "“中國人民的老朋友”日本前首相福田康夫去世",
           "url": "https://www.dw.com/zh/中国人民的老朋友-日本前首相福田康夫去世/a-79765385?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Crowds welcome Venezuela's María Machado after months in exile",
+      "summary": [
+        "BBC World：Crowds welcome Venezuela's María Machado after months in exile",
+        "Al Jazeera：Thousands greet opposition leader Maria Machado upon return to Caracas"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Crowds welcome Venezuela's María Machado after months in exile",
+          "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Thousands greet opposition leader Maria Machado upon return to Caracas",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "武契奇承認敗選　塞爾維亞學生運動贏得議會選舉",
+      "summary": [
+        "德國之聲：武契奇承認敗選　塞爾維亞學生運動贏得議會選舉",
+        "法廣RFI：塞爾維亞提前立法選舉：武契奇承認敗選 ”學生名單“贏得勝利"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "武契奇承認敗選　塞爾維亞學生運動贏得議會選舉",
+          "url": "https://www.dw.com/zh/武契奇承认败选　塞尔维亚学生运动赢得议会选举/a-79760776?maca=chi-rss-chi-all-1127-rdf"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "塞爾維亞提前立法選舉：武契奇承認敗選 ”學生名單“贏得勝利",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261025-%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E6%8F%90%E5%89%8D%E7%AB%8B%E6%B3%95%E9%81%B8%E8%88%89-%E6%AD%A6%E5%A5%91%E5%A5%87%E6%89%BF%E8%AA%8D%E6%95%97%E9%81%B8-%E5%AD%B8%E7%94%9F%E5%90%8D%E5%96%AE-%E8%B4%8F%E5%BE%97%E5%8B%9D%E5%88%A9"
         }
       ]
     }
