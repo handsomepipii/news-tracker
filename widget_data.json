@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 17:41",
+  "updated_at": "2026-10-26 18:39",
   "taiwan": [
     {
       "rank": 1,
@@ -46,7 +46,7 @@
         "自由時報：日本前首相福田康夫逝世 高市發表宣告全文曝光",
         "上報：日本前首相福田康夫逝世 賴清德發文哀悼"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
           "source": "經濟日報",
@@ -67,11 +67,48 @@
           "source": "新頭殼",
           "title": "日本前首相福田康夫辭世   賴清德X發文哀悼",
           "url": "https://newtalk.tw/news/view/2026-10-26/1067527"
+        },
+        {
+          "source": "ETtoday",
+          "title": "日本前首相福田康夫辭世　賴清德哀悼：向家屬及日本各界致上慰問",
+          "url": "https://www.ettoday.net/news/20261026/3261144.htm"
         }
       ]
     },
     {
       "rank": 3,
+      "title": "蔡康永微博道歉稱沒支援臺獨　胡錫進點破關鍵「少了這句話」：他在告別粉絲",
+      "summary": [
+        "鏡週刊：蔡康永微博道歉稱沒支援臺獨　胡錫進點破關鍵「少了這句話」：他在告別粉絲",
+        "新頭殼：蔡康永突發文喊「沒有支援臺獨」！ 胡錫進跳腳批差遠了：沒道歉也沒認錯",
+        "風傳媒：蔡康永為何選這時間道歉？胡採蘋揭背後關鍵：這種手法大家看多了 | 蔣季容 | 新聞"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "鏡週刊",
+          "title": "蔡康永微博道歉稱沒支援臺獨　胡錫進點破關鍵「少了這句話」：他在告別粉絲",
+          "url": "https://www.mirrormedia.mg/story/20261026edi041"
+        },
+        {
+          "source": "新頭殼",
+          "title": "蔡康永突發文喊「沒有支援臺獨」！ 胡錫進跳腳批差遠了：沒道歉也沒認錯",
+          "url": "https://newtalk.tw/news/view/2026-10-26/1067503"
+        },
+        {
+          "source": "風傳媒",
+          "title": "蔡康永為何選這時間道歉？胡採蘋揭背後關鍵：這種手法大家看多了 | 蔣季容 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yQlp4VUx6OHBGT0pFSFhHbDRwaHluLUdDVHhKS1dLQ0hLYzRtM2g4Xzd2ZU05elUzXzk4c3Fjam5jODFHYV9SZ0hFUVd5Zw?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "蔡康永微博發文藏玄機  他看到「這1句」嘆：不像道歉更像道別！",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5619252"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "巴西總統大選首輪贏230萬票竟翻車！波索納洛之子拒認敗選喊選舉無效",
       "summary": [
         "自由時報：巴西總統大選首輪贏230萬票竟翻車！波索納洛之子拒認敗選喊選舉無效",
@@ -98,7 +135,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "蔡康永現身蔣萬安競總大會！ 脫黑色外套露白襯衫 不發一語與蔣無互動",
       "summary": [
         "自由時報：蔡康永現身蔣萬安競總大會！ 脫黑色外套露白襯衫 不發一語與蔣無互動",
@@ -125,7 +162,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "臺灣大賽》兄弟G6不上場名單公告！連拿2勝的菲力士今可上陣",
       "summary": [
         "自由時報：臺灣大賽》兄弟G6不上場名單公告！連拿2勝的菲力士今可上陣",
@@ -146,7 +183,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "女租客搬來2天就死亡！房產淪「凶宅」屋主怒告　父母判賠106萬",
       "summary": [
         "ETtoday：女租客搬來2天就死亡！房產淪「凶宅」屋主怒告　父母判賠106萬",
@@ -167,7 +204,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "魯拉逆轉勝　巴西首位4度當選總統擋下拉美右傾潮",
       "summary": [
         "經濟日報：魯拉逆轉勝　巴西首位4度當選總統擋下拉美右傾潮",
@@ -188,7 +225,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "習近平要戰狼變可愛？既自信又不安，中國外交的弔詭兩難",
       "summary": [
         "天下雜誌：習近平要戰狼變可愛？既自信又不安，中國外交的弔詭兩難",
@@ -209,7 +246,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "天王周杰倫讚「這市長很給力」影片被翻出！吸14萬人瀏覽　蔣萬安幽默回應了",
       "summary": [
         "鏡週刊：天王周杰倫讚「這市長很給力」影片被翻出！吸14萬人瀏覽　蔣萬安幽默回應了",
@@ -226,27 +263,6 @@
           "source": "ETtoday",
           "title": "周杰倫昔誇「這市長很給力」！蔣萬安幽默神回：哎唷不錯喔",
           "url": "https://www.ettoday.net/news/20261026/3261097.htm"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "特斯拉時速113km撞上！　老翁突穿越馬路「倒地又遭輾」當場身亡",
-      "summary": [
-        "ETtoday：特斯拉時速113km撞上！　老翁突穿越馬路「倒地又遭輾」當場身亡",
-        "鏡週刊：加州公路深夜驚魂！特斯拉開輔助自動駕駛撞死行人　老翁倒地再遭後車輾過"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "特斯拉時速113km撞上！　老翁突穿越馬路「倒地又遭輾」當場身亡",
-          "url": "https://www.ettoday.net/news/20261026/3261056.htm"
-        },
-        {
-          "source": "鏡週刊",
-          "title": "加州公路深夜驚魂！特斯拉開輔助自動駕駛撞死行人　老翁倒地再遭後車輾過",
-          "url": "https://www.mirrormedia.mg/story/20261026edi061"
         }
       ]
     }
@@ -403,6 +419,27 @@
     },
     {
       "rank": 6,
+      "title": "塞爾維亞提前立法選舉：武契奇承認敗選 ”學生名單“贏得勝利",
+      "summary": [
+        "法廣RFI：塞爾維亞提前立法選舉：武契奇承認敗選 ”學生名單“贏得勝利",
+        "德國之聲：武契奇承認敗選　塞爾維亞學生運動贏得議會選舉"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "塞爾維亞提前立法選舉：武契奇承認敗選 ”學生名單“贏得勝利",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261025-%E5%A1%9E%E7%88%BE%E7%B6%AD%E4%BA%9E%E6%8F%90%E5%89%8D%E7%AB%8B%E6%B3%95%E9%81%B8%E8%88%89-%E6%AD%A6%E5%A5%91%E5%A5%87%E6%89%BF%E8%AA%8D%E6%95%97%E9%81%B8-%E5%AD%B8%E7%94%9F%E9%81%8B%E5%8B%95%E8%B4%8F%E5%BE%97%E5%8B%9D%E5%88%A9"
+        },
+        {
+          "source": "德國之聲",
+          "title": "武契奇承認敗選　塞爾維亞學生運動贏得議會選舉",
+          "url": "https://www.dw.com/zh/武契奇承认败选　塞尔维亚学生运动赢得议会选举/a-79760776?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "剛果（金）埃博拉疫情持續蔓延，肯亞加強防控措施",
       "summary": [
         "聯合國新聞：剛果（金）埃博拉疫情持續蔓延，肯亞加強防控措施",
@@ -423,7 +460,28 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "Israel’s election: Five key things to know",
+      "summary": [
+        "Al Jazeera：Israel’s election: Five key things to know",
+        "CNBC World：How war, security and coalition math are shaping the Israeli election"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Al Jazeera",
+          "title": "Israel’s election: Five key things to know",
+          "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss"
+        },
+        {
+          "source": "CNBC World",
+          "title": "How war, security and coalition math are shaping the Israeli election",
+          "url": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "美國中選舉前夕，奧巴馬抨擊特朗普政府",
       "summary": [
         "BBC中文：美國中選舉前夕，奧巴馬抨擊特朗普政府",
@@ -444,7 +502,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "以色列將在大選日關閉所有約旦河西岸口岸",
       "summary": [
         "德國之聲：以色列將在大選日關閉所有約旦河西岸口岸",
@@ -461,48 +519,6 @@
           "source": "BBC World",
           "title": "Israel to close West Bank crossings on election day as crackdown escalates",
           "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "金正恩經新鴨綠江大橋抵達中國 王滬寧陪同訪問丹東",
-      "summary": [
-        "德國之聲：金正恩經新鴨綠江大橋抵達中國 王滬寧陪同訪問丹東",
-        "紐約時報中文：金正恩取道新鴨綠江大橋突訪丹東，與王滬寧會晤- 紐約時報中文網"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "金正恩經新鴨綠江大橋抵達中國 王滬寧陪同訪問丹東",
-          "url": "https://www.dw.com/zh/金正恩经新鸭绿江大桥抵达中国-王沪宁陪同访问丹东/a-79749922?maca=chi-rss-chi-all-1127-rdf"
-        },
-        {
-          "source": "紐約時報中文",
-          "title": "金正恩取道新鴨綠江大橋突訪丹東，與王滬寧會晤- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSjVwR3E5UGVPbWJXUHhBT2lGa052dENnQUZlMEszb1FsSVJNM3ZaeFRRTm1DRFFkMlQyWExJOWRRS0hSLTJpZXlhYjhkel9pelR4OGY0aVpzMDJRT1JyT29ZVW04UDJmbHdqX2J6RkJLRFBNQzhmNzFkWk13ZU1rQWFjQmJFcDRpWkU4?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Chinese wind turbine maker builds European firewall from Beijing",
-      "summary": [
-        "Financial Times：Chinese wind turbine maker builds European firewall from Beijing",
-        "FT中文網：中國風電製造商為歐洲業務架設“防火牆”"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "Chinese wind turbine maker builds European firewall from Beijing",
-          "url": "https://www.ft.com/content/fa2bdd53-29dc-4e3f-bbd2-5510da3cd88c?syn-25a6b1a6=1"
-        },
-        {
-          "source": "FT中文網",
-          "title": "中國風電製造商為歐洲業務架設“防火牆”",
-          "url": "https://www.ftchinese.com/story/001111199"
         }
       ]
     }
