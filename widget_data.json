@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 05:18",
+  "updated_at": "2026-10-28 06:17",
   "taiwan": [
     {
       "rank": 1,
@@ -253,69 +253,6 @@
     },
     {
       "rank": 2,
-      "title": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
-      "summary": [
-        "CNBC：Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
-        "Yahoo Finance：Nvidia to invest $3 bln in Meta share offering as part of bigger AI partnership"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
-          "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Nvidia to invest $3 bln in Meta share offering as part of bigger AI partnership",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVDFRaFdjWmM0emZvWHhiTGN0OWFkZGxZTEVGNXVsRGxqUXZ1TnJYNzFlYnhkLVgzaGxOSDZJZ1pMVHRSNHJyV1d3RVg3Z2h3NTF3TFdwRTJGWTBfR3NKSEtjY2JZbFppNnhMU3hPVHJXRkhBaWV1RGJVZGZIbFRpbXZEalhybGdfLXg4dG9LSGkyUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Israel heads to polls for pivotal election defined by security and democracy",
-      "summary": [
-        "BBC World：Israel heads to polls for pivotal election defined by security and democracy",
-        "Washington Post：Israelis head to the polls, with nation’s future and Netanyahu’s fate on the line"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "Israel heads to polls for pivotal election defined by security and democracy",
-          "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Washington Post",
-          "title": "Israelis head to the polls, with nation’s future and Netanyahu’s fate on the line",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlhqbzVQSTlhY3I2N01SQ3QwRWlGRGJTbGtrc3FCU1VEQ0ZjVjFudFJITU9OY3hXVy1zbktyQ2pDakN3cWVlWFc1cjQ1VjVBNDBxa3ZtZVVrY0w4dzk0YURyU1d4OW9RaEhKRkhXcGo4TDdBUnVNdDBocG9lU0x6bnF3cW1LbUFud1dXQUc5NC1EWGdGMF9SQjdjb0pKZnNsYkdDUUVkY0NuOUZNUkJ6VGlzanJNZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
-      "summary": [
-        "Bloomberg Markets：Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
-        "Financial Times：Pop Mart sales fall up to 50% as Labubu fever ebbs"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-27/pop-mart-s-quarterly-sales-drop-on-high-base-sluggish-demand"
-        },
-        {
-          "source": "Financial Times",
-          "title": "Pop Mart sales fall up to 50% as Labubu fever ebbs",
-          "url": "https://www.ft.com/content/0025f8af-d34a-4170-bbae-31dce32e45c6?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Russia and Ukraine begin local ceasefire in frontline city",
       "summary": [
         "Financial Times：Russia and Ukraine begin local ceasefire in frontline city",
@@ -336,7 +273,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 3,
       "title": "GM will switch to Nasdaq from the NYSE on Nov. 17",
       "summary": [
         "CNBC：GM will switch to Nasdaq from the NYSE on Nov. 17",
@@ -357,7 +294,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "The risk that AI wakes up and other warnings in Anthropic’s unusual IPO filing",
       "summary": [
         "Washington Post：The risk that AI wakes up and other warnings in Anthropic’s unusual IPO filing",
@@ -378,7 +315,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "Putin speaks with Norwegian and Finnish leaders",
       "summary": [
         "Financial Times：Putin speaks with Norwegian and Finnish leaders",
@@ -399,7 +336,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
       "summary": [
         "Bloomberg Markets：SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
@@ -420,7 +357,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
       "summary": [
         "Bloomberg Tech：Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
@@ -437,6 +374,57 @@
           "source": "Investing.com",
           "title": "Crusoe CEO defends CoreWeave amid selloff",
           "url": "https://www.investing.com/news/stock-market-news/crusoe-ceo-defends-coreweave-amid-selloff-4976608"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
+      "summary": [
+        "Bloomberg Tech：Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
+        "Investing.com：Anduril, Qualcomm partner on new line of US-made laptops"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-27/anduril-and-qualcomm-plan-to-build-us-laptop-video"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Anduril, Qualcomm partner on new line of US-made laptops",
+          "url": "https://www.investing.com/news/stock-market-news/anduril-qualcomm-partner-on-new-line-of-usmade-laptops-4976680"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Why is CommVault stock sliding today?",
+      "summary": [
+        "Investing.com：Why is CommVault stock sliding today?"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Why is CommVault stock sliding today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-commvault-stock-sliding-today-93CH-4975251"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "西高東低の冬型に 北日本 新潟は暴風警戒 北海道では雪も",
+      "summary": [
+        "NHK新聞：西高東低の冬型に 北日本 新潟は暴風警戒 北海道では雪も"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "西高東低の冬型に 北日本 新潟は暴風警戒 北海道では雪も",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261027de66581"
         }
       ]
     }
