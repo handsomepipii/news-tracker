@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 04:19",
+  "updated_at": "2026-10-28 05:18",
   "taiwan": [
     {
       "rank": 1,
@@ -77,27 +77,6 @@
     },
     {
       "rank": 4,
-      "title": "河口湖命案疑殺妻詐保　網嘆「4人被金錢誘惑」：根本底層悲劇",
-      "summary": [
-        "ETtoday：河口湖命案疑殺妻詐保　網嘆「4人被金錢誘惑」：根本底層悲劇",
-        "自由時報：河口湖命案狠夫疑為詐保險金買兇殺妻 「殺人魔」詐領保費殺6人最駭人聽聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "河口湖命案疑殺妻詐保　網嘆「4人被金錢誘惑」：根本底層悲劇",
-          "url": "https://www.ettoday.net/news/20261027/3261558.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "河口湖命案狠夫疑為詐保險金買兇殺妻 「殺人魔」詐領保費殺6人最駭人聽聞",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5620825"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Anthropic 提交 IPO 重振市場信心，日韓股市領漲亞股",
       "summary": [
         "科技新報：Anthropic 提交 IPO 重振市場信心，日韓股市領漲亞股",
@@ -118,7 +97,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "輝達投資Meta近1000億元　深化個人AI代理Muse合作",
       "summary": [
         "經濟日報：輝達投資Meta近1000億元　深化個人AI代理Muse合作",
@@ -139,7 +118,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "反映Z世代追求極致心態 「maxxing」獲選線上詞典年度代表字",
       "summary": [
         "自由時報：反映Z世代追求極致心態 「maxxing」獲選線上詞典年度代表字",
@@ -160,7 +139,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "賴士葆找財源要求普發2萬 卓榮泰：政府預算全砍 發10萬也可以！",
       "summary": [
         "中時新聞：賴士葆找財源要求普發2萬 卓榮泰：政府預算全砍 發10萬也可以！",
@@ -181,7 +160,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "河口湖命案　日媒訪店員：嫌犯購刀時神色異常",
       "summary": [
         "經濟日報：河口湖命案　日媒訪店員：嫌犯購刀時神色異常",
@@ -202,7 +181,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "遠傳攜手Elveo Mobile 正式佈局手機直連衛星- 產業",
       "summary": [
         "工商時報：遠傳攜手Elveo Mobile 正式佈局手機直連衛星- 產業",
@@ -219,6 +198,27 @@
           "source": "ETtoday",
           "title": "遠傳拋重磅「攜手Elveo Mobile」　積極拓展手機連衛星商機",
           "url": "https://www.ettoday.net/news/20261028/3261810.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "塞爾維亞政壇變天　中國一帶一路相關工程事故成導火線",
+      "summary": [
+        "經濟日報：塞爾維亞政壇變天　中國一帶一路相關工程事故成導火線",
+        "自由時報：塞爾維亞政壇變天 中國一帶一路相關工程事故成導火線"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "塞爾維亞政壇變天　中國一帶一路相關工程事故成導火線",
+          "url": "https://money.udn.com/money/story/5599/9840701"
+        },
+        {
+          "source": "自由時報",
+          "title": "塞爾維亞政壇變天 中國一帶一路相關工程事故成導火線",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620791"
         }
       ]
     }
@@ -358,6 +358,48 @@
     },
     {
       "rank": 7,
+      "title": "The risk that AI wakes up and other warnings in Anthropic’s unusual IPO filing",
+      "summary": [
+        "Washington Post：The risk that AI wakes up and other warnings in Anthropic’s unusual IPO filing",
+        "Bloomberg Markets：Catastrophe, Rogue AI and Other Anthropic IPO Risks"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "The risk that AI wakes up and other warnings in Anthropic’s unusual IPO filing",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkhmVGUzeUdLR0pBUUEwV2IwM2lRdVlWRDRSMk5yR2kzR1NDeWlMOFJpSVlNZDhZTGROLXVILWFEaXJtREI5LWpPQTM0Sll4YVBCZkhOUWE4cXNRZUtORFdMVE5mREFnYTF3ZlEzZlI4b1dZdG50SXFXVENfLXhfMWhMT2FfX0VZRlpkRlB2VlR2d0NsNi13aF9oOWtjcFJOOVpWSExENXVKbWp6UlBSeUpKZFpfMW9X?oc=5"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "Catastrophe, Rogue AI and Other Anthropic IPO Risks",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-27/catastrophe-rogue-ai-and-other-anthropic-ipo-risks-video"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Putin speaks with Norwegian and Finnish leaders",
+      "summary": [
+        "Financial Times：Putin speaks with Norwegian and Finnish leaders",
+        "NHK新聞：フィンランドとノルウェーの首脳がプーチン大統領と電話會談"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "Putin speaks with Norwegian and Finnish leaders",
+          "url": "https://www.ft.com/content/a384acd1-c90c-4b71-bf7d-6c6e00bf9822?syn-25a6b1a6=1"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "フィンランドとノルウェーの首脳がプーチン大統領と電話會談",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261028de66723"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
       "summary": [
         "Bloomberg Markets：SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
@@ -378,7 +420,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
       "summary": [
         "Bloomberg Tech：Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
@@ -395,42 +437,6 @@
           "source": "Investing.com",
           "title": "Crusoe CEO defends CoreWeave amid selloff",
           "url": "https://www.investing.com/news/stock-market-news/crusoe-ceo-defends-coreweave-amid-selloff-4976608"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
-      "summary": [
-        "Bloomberg Tech：Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
-        "Investing.com：Anduril, Qualcomm partner on new line of US-made laptops"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-27/anduril-and-qualcomm-plan-to-build-us-laptop-video"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Anduril, Qualcomm partner on new line of US-made laptops",
-          "url": "https://www.investing.com/news/stock-market-news/anduril-qualcomm-partner-on-new-line-of-usmade-laptops-4976680"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Why is Standard Chartered stock sliding today?",
-      "summary": [
-        "Investing.com：Why is Standard Chartered stock sliding today?"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Why is Standard Chartered stock sliding today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-standard-chartered-stock-sliding-today-93CH-4974510"
         }
       ]
     }
