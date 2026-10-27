@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 15:31",
+  "updated_at": "2026-10-27 16:22",
   "taiwan": [
     {
       "rank": 1,
@@ -40,19 +40,41 @@
     },
     {
       "rank": 2,
-      "title": "傳福斯考慮將中國車用軟體匯入歐洲",
+      "title": "金鐘61／周渝民1票擦身金鐘影帝！楊貴媚氣場強大擊敗謝欣穎　評審曝評選關鍵",
       "summary": [
-        "自由時報：傳福斯考慮將中國車用軟體匯入歐洲",
-        "經濟日報：傳福斯考慮將中國車用軟體匯入歐洲",
-        "ETtoday：福斯傳出　考慮將中國電動車軟體匯入歐洲"
+        "鏡週刊：金鐘61／周渝民1票擦身金鐘影帝！楊貴媚氣場強大擊敗謝欣穎　評審曝評選關鍵",
+        "ETtoday：快訊／嘉義縣長候選人號次揭曉　吳品叡1號、蔡易餘2號",
+        "公開資訊觀測站：【重訊】5013 強新：公告本公司副董事長逝世"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
         {
-          "source": "自由時報",
-          "title": "傳福斯考慮將中國車用軟體匯入歐洲",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5619645"
+          "source": "鏡週刊",
+          "title": "金鐘61／周渝民1票擦身金鐘影帝！楊貴媚氣場強大擊敗謝欣穎　評審曝評選關鍵",
+          "url": "https://www.mirrormedia.mg/story/20261026ent021"
         },
+        {
+          "source": "ETtoday",
+          "title": "快訊／嘉義縣長候選人號次揭曉　吳品叡1號、蔡易餘2號",
+          "url": "https://www.ettoday.net/news/20261027/3261381.htm"
+        },
+        {
+          "source": "公開資訊觀測站",
+          "title": "【重訊】5013 強新：公告本公司副董事長逝世",
+          "url": "https://mops.twse.com.tw/mops/web/t05sr01_1#mops-5013-34ff6cf20d2b"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "傳福斯考慮將中國車用軟體匯入歐洲",
+      "summary": [
+        "經濟日報：傳福斯考慮將中國車用軟體匯入歐洲",
+        "ETtoday：福斯傳出　考慮將中國電動車軟體匯入歐洲",
+        "科技新報：傳福斯考慮將中國車用軟體匯入歐洲"
+      ],
+      "media_count": 3,
+      "links": [
         {
           "source": "經濟日報",
           "title": "傳福斯考慮將中國車用軟體匯入歐洲",
@@ -71,7 +93,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "iPhone Duo螢幕破裂災情！蘋果證實少數有問題  可申請換機",
       "summary": [
         "自由時報：iPhone Duo螢幕破裂災情！蘋果證實少數有問題  可申請換機",
@@ -98,7 +120,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Anthropic募資估逾千億美元　阿莫戴：偉大歷史機遇",
       "summary": [
         "經濟日報：Anthropic募資估逾千億美元　阿莫戴：偉大歷史機遇",
@@ -125,7 +147,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "快訊》臺北市長候選人號次出爐！沈伯洋3號「臺北靠3」、蔣萬安5號「5告讚」",
       "summary": [
         "新頭殼：快訊》臺北市長候選人號次出爐！沈伯洋3號「臺北靠3」、蔣萬安5號「5告讚」",
@@ -152,7 +174,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "OpenAI推出GPT-6.1 Terra！電腦操作快3倍、API價格直接砍半",
       "summary": [
         "ETtoday：OpenAI推出GPT-6.1 Terra！電腦操作快3倍、API價格直接砍半",
@@ -179,7 +201,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "第8代iPad mini登場，2.3萬元起OLED螢幕、A20 Pro處理器、自研無線晶片一次到位",
       "summary": [
         "癮科技Cool3c：第8代iPad mini登場，2.3萬元起OLED螢幕、A20 Pro處理器、自研無線晶片一次到位",
@@ -206,7 +228,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
       "summary": [
         "ETtoday：諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
@@ -229,27 +251,6 @@
           "source": "自由時報",
           "title": "川普因沒拿到諾貝爾和平獎痛罵 挪威外長反擊",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5620039"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "快訊／臺南深夜聯結車火燒車　後輪離奇起火",
-      "summary": [
-        "ETtoday：快訊／臺南深夜聯結車火燒車　後輪離奇起火",
-        "自由時報：「府中奇幻城」萬聖節登場 新北警10/31封街交管"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／臺南深夜聯結車火燒車　後輪離奇起火",
-          "url": "https://www.ettoday.net/news/20261027/3261255.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "「府中奇幻城」萬聖節登場 新北警10/31封街交管",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5620211"
         }
       ]
     },
@@ -396,6 +397,33 @@
     },
     {
       "rank": 5,
+      "title": "Chinese Brands Drop Soccer Star Mbappé as Online Backlash Grows",
+      "summary": [
+        "Bloomberg Tech：Chinese Brands Drop Soccer Star Mbappé as Online Backlash Grows",
+        "BBC World：Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+        "Nikkei Asia：Chinese brands drop soccer star Kylian Mbappe for 'offending' nation"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Chinese Brands Drop Soccer Star Mbappé as Online Backlash Grows",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-27/kylian-mbappe-mao-zedong-eastroc-beverage-china-mengniu-dairy-online-backlash"
+        },
+        {
+          "source": "BBC World",
+          "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+          "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "Chinese brands drop soccer star Kylian Mbappe for 'offending' nation",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVIycFhJd2JnQ091NDY4QXFhdUlYZlQ0UGN5WnR3eVltb21vaXY3S0Z5UFpsZEhEb09rNFJjNWg3WW1nRnlnT3Z0R0Zib3hKNEVIQjVhY3hsekJkWEg5bkpwbHdQVzI4OXVncmVGY1c5UVBleGx2eXhNZE1peW9HOWxWOFFWcmJKaURKMHcwN296SnFwTDlET1MzLXBxY1ZCSGQ0YS1DU2Vnc3M?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "CDC’s deputy director to leave Trump administration after six months",
       "summary": [
         "Washington Post：CDC’s deputy director to leave Trump administration after six months",
@@ -416,49 +444,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-      "summary": [
-        "BBC World：Trump administration illegally fired James Comey's daughter, judge rules",
-        "Al Jazeera：US court rules daughter of Trump critic James Comey was illegally fired"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-          "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "US court rules daughter of Trump critic James Comey was illegally fired",
-          "url": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss"
-        }
-      ]
-    },
-    {
       "rank": 7,
-      "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
-      "summary": [
-        "CNBC World：Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
-        "Yahoo Finance：Apple’s Foldable iPhone Duo Draws Early Complaints of the Screen Cracking"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC World",
-          "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
-          "url": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Apple’s Foldable iPhone Duo Draws Early Complaints of the Screen Cracking",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVEzQUFrT0pObEtJUGpzZWdoRU4wdFM2U0MtelNFUlJQYnBoaGZuVllvV3NBNnNrZ21jdDdoNWVsaE9tSjJtMXp1WTliaHUxTlZRbThIcDNNRHJrOFBQbTR3bmtJOEpIMTgwc1ZVREs4X0NsOUJ0a3A0aXViUXBmZlBxcVpaaFgzYno2SUNaMVBvdXVvTU04?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
       "summary": [
         "Financial Times：EU loan to Airbus threatens trade truce with US, Trump trade official warns",
@@ -479,7 +465,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
       "summary": [
         "BBC World：Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
@@ -500,7 +486,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
       "summary": [
         "CNBC：Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
@@ -517,6 +503,27 @@
           "source": "Yahoo Finance",
           "title": "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV1NyNS1zejVOVGJGN2lpNFRDbnRBajBKbi10NDFjNWtKWWJjNUpYdzNVTjB2cl9Cd0ZyLXJkS0tfTzFlTjBaT0YyS1d0YnJ0Q3RLYnNyaFZUd3QwS3V5Q3g1cWNrRmdEVXhobElocmVwbUg0c0FGTld3ZE53N2FqcVRfcWFMb1pVZTd5U3I2X1hVTkJIX20yOXdscGNIV21IRzNheXFtRENiZ2lhSTFQaFZzMDdILUZGWkc2NWYwOTNPcWlfbnU5SzJmUWtXMlJLTktfMVh1bzZLU0FXRHl1VHZCLWlzb0Z4RTRaMnp5MmY2eU9KSk5j?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+      "summary": [
+        "Wired：Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+        "Yahoo Finance：Inside Anthropic's massive — and wild — IPO prospectus"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Wired",
+          "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+          "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Inside Anthropic's massive — and wild — IPO prospectus",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY2trMXJ3ZlJoWEluNmxXOVFmNll2b0lsYW1SVjFIZTBaQjFjWXVNNjZJYV9yS1gzRnU5Uk1VMmI1RE94Vmo0d3U1RFlHenRVSkpYeVFJUlhsUGhURndKV1EzVThuY3FuM3NMSnRoTGRZbzl6RmZtTnpzTEFRUUJGZl84Tk5mUnhNU09sVW5aczRXdXVhX0pic2xQZEJXYjg?oc=5"
         }
       ]
     }
