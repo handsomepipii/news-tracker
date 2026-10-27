@@ -1,21 +1,16 @@
 {
-  "updated_at": "2026-10-27 22:29",
+  "updated_at": "2026-10-27 23:29",
   "taiwan": [
     {
       "rank": 1,
-      "title": "快訊／嘉義縣長候選人號次揭曉　吳品叡1號、蔡易餘2號",
+      "title": "【重訊】5013 強新：公告本公司副董事長逝世",
       "summary": [
-        "ETtoday：快訊／嘉義縣長候選人號次揭曉　吳品叡1號、蔡易餘2號",
         "公開資訊觀測站：【重訊】5013 強新：公告本公司副董事長逝世",
-        "自由時報：「府中奇幻城」萬聖節登場 新北警10/31封街交管"
+        "自由時報：「府中奇幻城」萬聖節登場 新北警10/31封街交管",
+        "MoneyDJ理財網：隨叫隨到生活控股有限公司"
       ],
-      "media_count": 5,
+      "media_count": 4,
       "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／嘉義縣長候選人號次揭曉　吳品叡1號、蔡易餘2號",
-          "url": "https://www.ettoday.net/news/20261027/3261381.htm"
-        },
         {
           "source": "公開資訊觀測站",
           "title": "【重訊】5013 強新：公告本公司副董事長逝世",
@@ -28,8 +23,8 @@
         },
         {
           "source": "MoneyDJ理財網",
-          "title": "宏達電推個人AI新品VIVEE 搶攻AI陪伴商機- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT191V09GcEh3R3RYUVp1ZklRZ3gzWllKU1RBSVFoMW5FbTNHcURZb2x0OERyUGFJZU9WM09lMHVQQ2ZtZ1NsekYxd3phR0dpNXQ1b0lzSlpZNlJzN3k5aXBlNDhXeS1Dc3FrQlZMSnhOaUptNzZqZkstUmJnSm1ROGZfVy11bEEzNjVJQjY1MW9vdw?oc=5"
+          "title": "隨叫隨到生活控股有限公司",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMWg0eVhQMFp2ZkhPUDBIMG5WZ2tPdTR4bFBVYnpWUVZ5R0VrVlh5YWJBbUdRM1czM2w5NHFfS1JvdVpOeVFzRUN5d3FGRDJKbGNzRWJmcDVjUWhNQk5NYmpiS0g4eEJIbkJRVXlxVlhlMm0zOEp6eElURWhHY2VlWnVkelBncUlEeXhZWFFSNzMtNE9oTno4?oc=5"
         },
         {
           "source": "今周刊",
@@ -40,19 +35,14 @@
     },
     {
       "rank": 2,
-      "title": "微軟向6萬名員工提出自願離職方案，涵蓋全球27%人力",
+      "title": "AI太燒錢！微軟擴大自願離職方案 6萬名員工符合資格、佔全球人力近3成",
       "summary": [
-        "iThome：微軟向6萬名員工提出自願離職方案，涵蓋全球27%人力",
         "工商時報：AI太燒錢！微軟擴大自願離職方案 6萬名員工符合資格、佔全球人力近3成",
-        "數位時代：微軟啟動大規模精簡！向6萬員工發放「自願離職」方案，佔總人力1/4"
+        "數位時代：微軟啟動大規模精簡！向6萬員工發放「自願離職」方案，佔總人力1/4",
+        "科技新報：微軟自願離職方案 6 萬人適用，AI 投資下的成本大瘦身"
       ],
-      "media_count": 5,
+      "media_count": 4,
       "links": [
-        {
-          "source": "iThome",
-          "title": "微軟向6萬名員工提出自願離職方案，涵蓋全球27%人力",
-          "url": "https://www.ithome.com.tw/news/179960"
-        },
         {
           "source": "工商時報",
           "title": "AI太燒錢！微軟擴大自願離職方案 6萬名員工符合資格、佔全球人力近3成",
@@ -77,38 +67,6 @@
     },
     {
       "rank": 3,
-      "title": "OpenAI推出GPT-6.1 Terra！電腦操作快3倍、API價格直接砍半",
-      "summary": [
-        "ETtoday：OpenAI推出GPT-6.1 Terra！電腦操作快3倍、API價格直接砍半",
-        "鉅亨網：OpenAI釋出電腦操作強者GPT-6.1 Terra：API價格砍半Token效率為Opus 5.5三倍、價格僅四分之一",
-        "科技新報：OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "OpenAI推出GPT-6.1 Terra！電腦操作快3倍、API價格直接砍半",
-          "url": "https://ai.ettoday.net/news/3261367"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "OpenAI釋出電腦操作強者GPT-6.1 Terra：API價格砍半Token效率為Opus 5.5三倍、價格僅四分之一",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14ZjdQWlhWVXpjeEs3VEU3WkpvM2MzT3JUSTVRUzA2OUpnakRUTEVMYVdlOENGUGtNWUV0c3hOemJCaHoyQkYtSDlvczFxdHc?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半",
-          "url": "https://technews.tw/2026/10/27/openai-introduces-gpt-6-1-terra/"
-        },
-        {
-          "source": "iThome",
-          "title": "OpenAI新模型GPT-6.1 Terra強化視覺與電腦操作，API價格僅Sol一半",
-          "url": "https://www.ithome.com.tw/news/179985"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "河口湖命案主嫌分身帳號曝！赫見沈伯洋在好友名單",
       "summary": [
         "ETtoday：河口湖命案主嫌分身帳號曝！赫見沈伯洋在好友名單",
@@ -135,34 +93,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "第8代iPad mini登場，2.3萬元起OLED螢幕、A20 Pro處理器、自研無線晶片一次到位",
-      "summary": [
-        "癮科技Cool3c：第8代iPad mini登場，2.3萬元起OLED螢幕、A20 Pro處理器、自研無線晶片一次到位",
-        "財訊：蘋果突襲發表iPad mini大改款！首搭8.5吋OLED、A20 Pro晶片 22900元起、11/6開賣",
-        "今周刊：iPad mini有感升級！8.5吋OLED螢幕、A20 Pro晶片…還有哪些亮點？售價、開賣時間、Apple iPad全系列整理"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "癮科技Cool3c",
-          "title": "第8代iPad mini登場，2.3萬元起OLED螢幕、A20 Pro處理器、自研無線晶片一次到位",
-          "url": "https://www.cool3c.com/article/253425"
-        },
-        {
-          "source": "財訊",
-          "title": "蘋果突襲發表iPad mini大改款！首搭8.5吋OLED、A20 Pro晶片 22900元起、11/6開賣",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRYmxIeEI3a1c1aU9zZG5PT21QbzlLMC1DZUJIZF9PSm11dFd5Z1Q0cGFjd1dhVl9yQzI3cmZQa215WWNXUUV2a2tmV1cxLW5mMk5IdXU5WHdibG1mRGhTLU9hRG83NlVURnhGMWZZZEc3dzVCcmFIR0I2UQ?oc=5"
-        },
-        {
-          "source": "今周刊",
-          "title": "iPad mini有感升級！8.5吋OLED螢幕、A20 Pro晶片…還有哪些亮點？售價、開賣時間、Apple iPad全系列整理",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTW1panlIRVlLX0FJRTlSdTU5d1ozYXQ1RXV1MU53TVR0UnQ3bDNlck9fdURITjh0blMtMVFIOTFFYlRSLW5MY2VFekV6NE8xSUdNc0d6aFdTcDhyS3NaUGY4cHRjTmFsUE1NMUxCc3BsQy1LX2QwelFLQ3hiOWdpMQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
       "summary": [
         "ETtoday：諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
@@ -189,28 +120,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "半導體需求強勁，韓國第三季經濟成長超乎預期",
-      "summary": [
-        "科技新報：半導體需求強勁，韓國第三季經濟成長超乎預期",
-        "經濟日報：半導體需求強勁　韓國第3季經濟成長超乎預期"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "半導體需求強勁，韓國第三季經濟成長超乎預期",
-          "url": "https://technews.tw/2026/10/27/south-koreas-chip-boom-fuels-forecast-beating-third-quarter-growth/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "半導體需求強勁　韓國第3季經濟成長超乎預期",
-          "url": "https://money.udn.com/money/story/5599/9839092"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "title": "臺通緝犯在泰國遭槍殺 ！ 遞槍小弟周昱帆助殺人 高院更一審維持判7年",
       "summary": [
         "自由時報：臺通緝犯在泰國遭槍殺 ！ 遞槍小弟周昱帆助殺人 高院更一審維持判7年",
@@ -231,44 +141,107 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "巴西總統大選上演逆轉勝大戲 魯拉經濟逆境只有更嚴峻",
+      "rank": 6,
+      "title": "世紀民生大健康佈局出海 朝和生醫攜翁立友攻大馬 雲頂萬人演唱會加場",
       "summary": [
-        "經濟日報：巴西總統大選上演逆轉勝大戲 魯拉經濟逆境只有更嚴峻",
-        "今周刊：巴西大選／80歲魯拉4度當選總統、逆轉擊敗川普盟友！追蹤巴西股市ETF重挫逾13%，貨幣恐貶5%怎麼面對"
+        "財訊：世紀民生大健康佈局出海 朝和生醫攜翁立友攻大馬 雲頂萬人演唱會加場",
+        "商業周刊：世紀民生大健康佈局出海朝和生醫攜翁立友攻大馬 雲頂萬人演唱會加場"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "財訊",
+          "title": "世紀民生大健康佈局出海 朝和生醫攜翁立友攻大馬 雲頂萬人演唱會加場",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TaVZfdFd5SThULV9zUU5hNUJsSWNoV3E3bWRuMzhsZVJyWFdfQ2FmbzMtU1ExSnp6M0tJcjhlWUYwY0hDbUJhYTh6enNZNWw1dGsxT2p2Q2xyYkt0TWw5VmdUbVZLbzlYalI2V2pOZlhUQ3Y5M2EwTWFQQQ?oc=5"
+        },
+        {
+          "source": "商業周刊",
+          "title": "世紀民生大健康佈局出海朝和生醫攜翁立友攻大馬 雲頂萬人演唱會加場",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxeGwyMVNqUEFjOTlDWWxkeko1eFZ3bTc4ZGRENmc3d0kyYjZ6WE54MjJPZ0lJNG9KS3NuX0ZzQ3BvTlBjSDhYMk1OYlNkclJDLVVEMlNpMXBad0VUMHFfQWRGMA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "CNBC：日銀擬維持利率　但未來升息機率高",
+      "summary": [
+        "經濟日報：CNBC：日銀擬維持利率　但未來升息機率高",
+        "科技新報：CNBC：日銀擬維持利率，但未來升息機率高"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "經濟日報",
-          "title": "巴西總統大選上演逆轉勝大戲 魯拉經濟逆境只有更嚴峻",
-          "url": "https://money.udn.com/money/story/122381/9838997"
+          "title": "CNBC：日銀擬維持利率　但未來升息機率高",
+          "url": "https://money.udn.com/money/story/5599/9839350"
         },
         {
-          "source": "今周刊",
-          "title": "巴西大選／80歲魯拉4度當選總統、逆轉擊敗川普盟友！追蹤巴西股市ETF重挫逾13%，貨幣恐貶5%怎麼面對",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNTd2SVZLMUdhWWEwelNPaTl2QzcybVN2Q3NNN3hRNXVPNXZPWTVreEh4dWJZRTR6YlQyYXN6R2lzVGlzMURuLXI5TFViX3dPdVJhQ0hiTWFJNC1wZUtLbDR1VGR2VDJjcFhtWkQySnFoYVQwYlRZNThwNzJpbV9wcw?oc=5"
+          "source": "科技新報",
+          "title": "CNBC：日銀擬維持利率，但未來升息機率高",
+          "url": "https://finance.technews.tw/2026/10/27/bank-of-japan-is-expected-to-hold-rates-this-week/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "iPhone Duo扛過7.5萬次摺疊測試　沒想到最後「輕輕放下就壞了」",
+      "summary": [
+        "ETtoday：iPhone Duo扛過7.5萬次摺疊測試　沒想到最後「輕輕放下就壞了」",
+        "自由時報：iPhone Duo人手摺疊7.5萬次都沒事！5公分摔落螢幕竟壞了"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "iPhone Duo扛過7.5萬次摺疊測試　沒想到最後「輕輕放下就壞了」",
+          "url": "https://www.ettoday.net/news/20261027/3261492.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "iPhone Duo人手摺疊7.5萬次都沒事！5公分摔落螢幕竟壞了",
+          "url": "https://3c.ltn.com.tw/news/68088"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "日本漫畫巨匠千葉徹彌87歲逝世　「小拳王」寫下經典",
+      "summary": [
+        "經濟日報：日本漫畫巨匠千葉徹彌87歲逝世　「小拳王」寫下經典",
+        "ETtoday：日本漫畫大師殞落！《小拳王》作者千葉徹彌逝世...享壽87歲"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "日本漫畫巨匠千葉徹彌87歲逝世　「小拳王」寫下經典",
+          "url": "https://money.udn.com/money/story/5599/9839573"
+        },
+        {
+          "source": "ETtoday",
+          "title": "日本漫畫大師殞落！《小拳王》作者千葉徹彌逝世...享壽87歲",
+          "url": "https://star.ettoday.net/news/3261564"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "澳洲稱AI威脅前所未見　惡意活動警告年增8成",
+      "title": "OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半",
       "summary": [
-        "經濟日報：澳洲稱AI威脅前所未見　惡意活動警告年增8成",
-        "科技新報：澳洲稱 AI 威脅前所未見，惡意活動警告年增 8 成"
+        "科技新報：OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半",
+        "iThome：OpenAI新模型GPT-6.1 Terra強化視覺與電腦操作，API價格僅Sol一半"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "澳洲稱AI威脅前所未見　惡意活動警告年增8成",
-          "url": "https://money.udn.com/money/story/5599/9838881"
+          "source": "科技新報",
+          "title": "OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半",
+          "url": "https://technews.tw/2026/10/27/openai-introduces-gpt-6-1-terra/"
         },
         {
-          "source": "科技新報",
-          "title": "澳洲稱 AI 威脅前所未見，惡意活動警告年增 8 成",
-          "url": "https://infosecu.technews.tw/2026/10/27/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise/"
+          "source": "iThome",
+          "title": "OpenAI新模型GPT-6.1 Terra強化視覺與電腦操作，API價格僅Sol一半",
+          "url": "https://www.ithome.com.tw/news/179985"
         }
       ]
     }
@@ -303,33 +276,6 @@
     },
     {
       "rank": 2,
-      "title": "Microsoft offers buyouts to 60,000 employees as AI spending mounts",
-      "summary": [
-        "Nikkei Asia：Microsoft offers buyouts to 60,000 employees as AI spending mounts",
-        "Yahoo Finance：Microsoft offers voluntary buyout to 60,000 employees",
-        "Tom's Hardware：60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "Microsoft offers buyouts to 60,000 employees as AI spending mounts",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOTl3d0VSZGF4NHdNektaWTY4YTdoQmczQWZpeU96bVRkSGU2eFl3eTFwVUJJQ19yVjMwUXl0M1NDWjloaUpxd2hJVFRTYU5laW4yOHZjVmlJdHp1LVd3cERpMlNfTExtLWpQa1N6YVNHZ0czOVhvc3J3UWswWGcxa2g3bHF3bFNXbERjXzBJX1J3eldLS0xVVFFaMnNOWWM1WjM2ZmZRbWhPNEVfYldVR3BhQjRxczVGMGdOOGtTOGZteEU2dEdnQk1acDIzSWc?oc=5"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Microsoft offers voluntary buyout to 60,000 employees",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWlMcnRsRmpDZ2dvdUJwSHozZVJYZzVMY21SakNwd3ZKWUFMX25xX19wVjVUQnh1NkllWEN4RjZXYTVMR2JUVEoxczlfeVRlbGRpY2Y0bDczYUotQXJacVJHNS1FT0FfTXBFVXRPNGk3VG50SGszb2c3MHNvQnRHVE5BcHBETzc4dFVzaU1GTm5oMTU3X2NOUElCWGxNa2tjUGVpVk4zUGRXSi1QMGNsRVln?oc=5"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite",
-          "url": "https://www.tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "HSBC Quarterly Profit Growth Misses, Sets $1 Billion Buyback",
       "summary": [
         "Bloomberg Markets：HSBC Quarterly Profit Growth Misses, Sets $1 Billion Buyback",
@@ -356,7 +302,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Chinese Brands Drop Soccer Star Mbappé as Online Backlash Grows",
       "summary": [
         "Bloomberg Tech：Chinese Brands Drop Soccer Star Mbappé as Online Backlash Grows",
@@ -383,7 +329,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Israelis go to the polls in historic election",
       "summary": [
         "Financial Times：Israelis go to the polls in historic election",
@@ -410,7 +356,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "CDC’s deputy director to leave Trump administration after six months",
       "summary": [
         "Washington Post：CDC’s deputy director to leave Trump administration after six months",
@@ -431,70 +377,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
-      "summary": [
-        "BBC World：Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
-        "Washington Post：Syria says five killed after Jordan retaliates for church attack with airstrikes"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
-          "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Washington Post",
-          "title": "Syria says five killed after Jordan retaliates for church attack with airstrikes",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc0ZUazktcjB2WElwZmE1ZTNfS1l4T2lPQWxabkFrUTQtQTJBY1RWelRIQXk5cU5mclhTeVNpMlh1QjNlU1c0dHpCcWtVUXkxUmJZYlE2ZEJ1WlhNMk9KakVheU5GYkNqajBnaDZQNXlULTlzT2NIVWhTakwteFJINVFXS0tTblpCT2NjVE54UW1zb2p5UkE0S1Z0WFNCN0RsR19lR0MyaVE3bHZKOWhFN3N6TmJudDFXMnNFVGpFVGVCYUU?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Anthropic's IPO filing shows explosive growth, risks and staggering costs",
-      "summary": [
-        "Nikkei Asia：Anthropic's IPO filing shows explosive growth, risks and staggering costs",
-        "CNBC：Anthropic's IPO is risky business"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "Anthropic's IPO filing shows explosive growth, risks and staggering costs",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT2dpbWdwQ2xUZGg1N0hoUDFuRGdEU0VHNDE0V3habEY0RExKSzduTXlQZkJ0RFR5UjU1eVdkX1FKZnlRMm50dzJUM0RvOEVfQ0JjeGJKZTZ5VjRmdXU4eG8tTGVIUkZCc0FWRVhOWEU2SWVOOUhOTHloWjJzekdWMnZZN2pQbGN5c3R0bzhyZEs2THdqUGJRYWhQTmpmdXlYZEVBdkQ0TVotSzJPSlFMUjlEV3lvbTBD?oc=5"
-        },
-        {
-          "source": "CNBC",
-          "title": "Anthropic's IPO is risky business",
-          "url": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-      "summary": [
-        "Wired：Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-        "Yahoo Finance：Inside Anthropic's massive — and wild — IPO prospectus"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Wired",
-          "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-          "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Inside Anthropic's massive — and wild — IPO prospectus",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY2trMXJ3ZlJoWEluNmxXOVFmNll2b0lsYW1SVjFIZTBaQjFjWXVNNjZJYV9yS1gzRnU5Uk1VMmI1RE94Vmo0d3U1RFlHenRVSkpYeVFJUlhsUGhURndKV1EzVThuY3FuM3NMSnRoTGRZbzl6RmZtTnpzTEFRUUJGZl84Tk5mUnhNU09sVW5aczRXdXVhX0pic2xQZEJXYjg?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 6,
       "title": "Anthropic's IPO filing reveals $430 billion in locked-in AI computing: Chart of the Day",
       "summary": [
         "Yahoo Finance：Anthropic's IPO filing reveals $430 billion in locked-in AI computing: Chart of the Day",
@@ -511,6 +394,90 @@
           "source": "Bloomberg Tech",
           "title": "Anthropic IPO Filing Reveals $417 Billion in Future AI Spending",
           "url": "https://www.bloomberg.com/news/newsletters/2026-10-27/anthropic-ipo-filing-reveals-417-billion-in-future-ai-spending"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Microsoft offers voluntary buyout to 60,000 employees",
+      "summary": [
+        "Yahoo Finance：Microsoft offers voluntary buyout to 60,000 employees",
+        "Tom's Hardware：60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "Microsoft offers voluntary buyout to 60,000 employees",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWlMcnRsRmpDZ2dvdUJwSHozZVJYZzVMY21SakNwd3ZKWUFMX25xX19wVjVUQnh1NkllWEN4RjZXYTVMR2JUVEoxczlfeVRlbGRpY2Y0bDczYUotQXJacVJHNS1FT0FfTXBFVXRPNGk3VG50SGszb2c3MHNvQnRHVE5BcHBETzc4dFVzaU1GTm5oMTU3X2NOUElCWGxNa2tjUGVpVk4zUGRXSi1QMGNsRVln?oc=5"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
+      "summary": [
+        "Yahoo Finance：Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
+        "CNBC：Fed expected to hold rates steady, but Warsh may point way to more hikes"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV1NyNS1zejVOVGJGN2lpNFRDbnRBajBKbi10NDFjNWtKWWJjNUpYdzNVTjB2cl9Cd0ZyLXJkS0tfTzFlTjBaT0YyS1d0YnJ0Q3RLYnNyaFZUd3QwS3V5Q3g1cWNrRmdEVXhobElocmVwbUg0c0FGTld3ZE53N2FqcVRfcWFMb1pVZTd5U3I2X1hVTkJIX20yOXdscGNIV21IRzNheXFtRENiZ2lhSTFQaFZzMDdILUZGWkc2NWYwOTNPcWlfbnU5SzJmUWtXMlJLTktfMVh1bzZLU0FXRHl1VHZCLWlzb0Z4RTRaMnp5MmY2eU9KSk5j?oc=5"
+        },
+        {
+          "source": "CNBC",
+          "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+          "url": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Anthropic IPO Reignites AI Trade in Asia",
+      "summary": [
+        "Bloomberg Markets：Anthropic IPO Reignites AI Trade in Asia",
+        "Bloomberg Tech：What Anthropic's IPO Means for the AI Trade"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic IPO Reignites AI Trade in Asia",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-27/insight-with-haslinda-amin-10-27-2026-video"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "What Anthropic's IPO Means for the AI Trade",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-27/what-anthropic-s-ipo-means-for-the-ai-trade-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Porsche profit rebounds in nine-month period after restructuring costs",
+      "summary": [
+        "Investing.com：Porsche profit rebounds in nine-month period after restructuring costs",
+        "CNBC：Porsche profit rebounds as luxury carmaker reduces exposure to China"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Porsche profit rebounds in nine-month period after restructuring costs",
+          "url": "https://www.investing.com/news/stock-market-news/porsche-profit-rebounds-in-ninemonth-period-after-restructuring-costs-4974263"
+        },
+        {
+          "source": "CNBC",
+          "title": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
+          "url": "https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html"
         }
       ]
     }
