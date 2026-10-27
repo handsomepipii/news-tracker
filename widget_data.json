@@ -1,30 +1,25 @@
 {
-  "updated_at": "2026-10-27 14:18",
+  "updated_at": "2026-10-27 15:31",
   "taiwan": [
     {
       "rank": 1,
-      "title": "微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
+      "title": "微軟重金佈局AI同步削減成本　「自願離職方案」6萬員工符合資格",
       "summary": [
-        "自由時報：微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
-        "經濟日報：微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
-        "ETtoday：微軟重金佈局AI同步削減成本　「自願離職方案」6萬員工符合資格"
+        "ETtoday：微軟重金佈局AI同步削減成本　「自願離職方案」6萬員工符合資格",
+        "經濟日報：為 AI 攢錢！微軟開放6萬員工「自願離職」層級達副總 涵蓋全球1/4人力",
+        "iThome：微軟向6萬名員工提出自願離職方案，涵蓋全球27%人力"
       ],
       "media_count": 5,
       "links": [
         {
-          "source": "自由時報",
-          "title": "微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5619635"
-        },
-        {
-          "source": "經濟日報",
-          "title": "微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
-          "url": "https://money.udn.com/money/story/5599/9838621"
-        },
-        {
           "source": "ETtoday",
           "title": "微軟重金佈局AI同步削減成本　「自願離職方案」6萬員工符合資格",
           "url": "https://www.ettoday.net/news/20261027/3261287.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "為 AI 攢錢！微軟開放6萬員工「自願離職」層級達副總 涵蓋全球1/4人力",
+          "url": "https://money.udn.com/money/story/5599/9838747"
         },
         {
           "source": "iThome",
@@ -35,6 +30,11 @@
           "source": "工商時報",
           "title": "AI太燒錢！微軟擴大自願離職方案 6萬名員工符合資格、佔全球人力近3成",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtMk9LRGdYWTV1QTV6WlhNaHZoWGcxVDlXM2lLZFFwTEdQWmVBMUgtdFlDNXJ1eW53ZUhrMlNtSWNDQUJBdHZIQk50YUw1VjlJTWxwNU5FWXlWX0lvUzZB?oc=5"
+        },
+        {
+          "source": "數位時代",
+          "title": "微軟啟動大規模精簡！向6萬員工發放「自願離職」方案，佔總人力1/4",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZllQR1RVQzdZdHV4MEVuZGtwZmp2ZG1NcnZCUnR3ZTJNQzUzemxlTmhuWWstemVXdmN4ZnpRaEZ2XzRmWjdLR1J5dm0zcUx3bUFwV0RmX1E2NnNJaEFOUUF4cmFlNU9xNERMcEpJUmdydlUyc2I2dXhUSlNzb21uYUNlZExJdVJCZVdMOVdn?oc=5"
         }
       ]
     },
@@ -180,6 +180,33 @@
     },
     {
       "rank": 7,
+      "title": "第8代iPad mini登場，2.3萬元起OLED螢幕、A20 Pro處理器、自研無線晶片一次到位",
+      "summary": [
+        "癮科技Cool3c：第8代iPad mini登場，2.3萬元起OLED螢幕、A20 Pro處理器、自研無線晶片一次到位",
+        "財訊：蘋果突襲發表iPad mini大改款！首搭8.5吋OLED、A20 Pro晶片 22900元起、11/6開賣",
+        "今周刊：iPad mini有感升級！8.5吋OLED螢幕、A20 Pro晶片…還有哪些亮點？售價、開賣時間、Apple iPad全系列整理"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "癮科技Cool3c",
+          "title": "第8代iPad mini登場，2.3萬元起OLED螢幕、A20 Pro處理器、自研無線晶片一次到位",
+          "url": "https://www.cool3c.com/article/253425"
+        },
+        {
+          "source": "財訊",
+          "title": "蘋果突襲發表iPad mini大改款！首搭8.5吋OLED、A20 Pro晶片 22900元起、11/6開賣",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRYmxIeEI3a1c1aU9zZG5PT21QbzlLMC1DZUJIZF9PSm11dFd5Z1Q0cGFjd1dhVl9yQzI3cmZQa215WWNXUUV2a2tmV1cxLW5mMk5IdXU5WHdibG1mRGhTLU9hRG83NlVURnhGMWZZZEc3dzVCcmFIR0I2UQ?oc=5"
+        },
+        {
+          "source": "今周刊",
+          "title": "iPad mini有感升級！8.5吋OLED螢幕、A20 Pro晶片…還有哪些亮點？售價、開賣時間、Apple iPad全系列整理",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTW1panlIRVlLX0FJRTlSdTU5d1ozYXQ1RXV1MU53TVR0UnQ3bDNlck9fdURITjh0blMtMVFIOTFFYlRSLW5MY2VFekV6NE8xSUdNc0d6aFdTcDhyS3NaUGY4cHRjTmFsUE1NMUxCc3BsQy1LX2QwelFLQ3hiOWdpMQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
       "summary": [
         "ETtoday：諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
@@ -206,7 +233,28 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "快訊／臺南深夜聯結車火燒車　後輪離奇起火",
+      "summary": [
+        "ETtoday：快訊／臺南深夜聯結車火燒車　後輪離奇起火",
+        "自由時報：「府中奇幻城」萬聖節登場 新北警10/31封街交管"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／臺南深夜聯結車火燒車　後輪離奇起火",
+          "url": "https://www.ettoday.net/news/20261027/3261255.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "「府中奇幻城」萬聖節登場 新北警10/31封街交管",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5620211"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "臺通緝犯在泰國遭槍殺 ！ 遞槍小弟周昱帆助殺人 高院更一審維持判7年",
       "summary": [
         "自由時報：臺通緝犯在泰國遭槍殺 ！ 遞槍小弟周昱帆助殺人 高院更一審維持判7年",
@@ -223,48 +271,6 @@
           "source": "ETtoday",
           "title": "通緝犯石茂強在泰國遭爆頭亡　遞槍共犯更一審仍判7年",
           "url": "https://www.ettoday.net/news/20261027/3261465.htm"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "味全龍6：0完封兄弟奪隊史第6冠 梅賽鍶勇奪臺灣大賽MVP",
-      "summary": [
-        "上報：味全龍6：0完封兄弟奪隊史第6冠 梅賽鍶勇奪臺灣大賽MVP",
-        "鏡週刊：金鐘61／周渝民1票擦身金鐘影帝！楊貴媚氣場強大擊敗謝欣穎　評審曝評選關鍵"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "上報",
-          "title": "味全龍6：0完封兄弟奪隊史第6冠 梅賽鍶勇奪臺灣大賽MVP",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DR3RmbTNRVTJXaGcza0JmcnVLYzdRbm9ZSDRyd1BtamtFZ0lmMVpXZlpDUExiRVpZVURzNjZ0WHRneGxXdzBGSkZGV1lmM2xicFBzSktTSQ?oc=5"
-        },
-        {
-          "source": "鏡週刊",
-          "title": "金鐘61／周渝民1票擦身金鐘影帝！楊貴媚氣場強大擊敗謝欣穎　評審曝評選關鍵",
-          "url": "https://www.mirrormedia.mg/story/20261026ent021"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "教宗良十四世術後復原佳　按照計畫11月出訪南美",
-      "summary": [
-        "自由時報：教宗良十四世術後復原佳　按照計畫11月出訪南美",
-        "經濟日報：教宗良十四世術後復原佳　按照計畫11月出訪南美"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "教宗良十四世術後復原佳　按照計畫11月出訪南美",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5619642"
-        },
-        {
-          "source": "經濟日報",
-          "title": "教宗良十四世術後復原佳　按照計畫11月出訪南美",
-          "url": "https://money.udn.com/money/story/5599/9838632"
         }
       ]
     }
@@ -411,48 +417,6 @@
     },
     {
       "rank": 6,
-      "title": "Trump administration illegally fired Maurene Comey, judge rules",
-      "summary": [
-        "Financial Times：Trump administration illegally fired Maurene Comey, judge rules",
-        "Washington Post：DOJ unlawfully fired Maurene Comey, daughter of former FBI director, judge rules"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "Trump administration illegally fired Maurene Comey, judge rules",
-          "url": "https://www.ft.com/content/627ed704-f736-4fa2-91c9-67e53577fb7f?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Washington Post",
-          "title": "DOJ unlawfully fired Maurene Comey, daughter of former FBI director, judge rules",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTTMtckpXeHZoTDRfcTJ2YmJhbzZ3cmlKN05EZ3NHTm9TcW9KMnZjMEZGRlRab0YwcHp3S3RrWW00Qm5sS0VKNTM2VW1YRjJFcTJRZW5FQkFqRnIyZFZJMXpqbnlDNE9SYnpVdGpJUUp6ekt0ZnFsRFpVaTdoRjROZXR1cUh0am1wY3BIQ0ZZMzBkWG80clBQU1lYbEpYXzBXRGNSbkdMVWxBbC1hbjIyT3JWMHhVNFRGWlZTcnlNMk1HQ3VKOXJEbU1NRXgyNGFJTGc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Pope in 'good health' and trip to South America will go ahead as planned",
-      "summary": [
-        "Sky News：Pope in 'good health' and trip to South America will go ahead as planned",
-        "BBC World：Pope's South American trip to go ahead as planned after lung cancer surgery"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Sky News",
-          "title": "Pope in 'good health' and trip to South America will go ahead as planned",
-          "url": "https://news.sky.com/story/pope-in-good-health-and-trip-to-south-america-will-go-ahead-as-planned-vatican-says-13604112"
-        },
-        {
-          "source": "BBC World",
-          "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
-          "url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Trump administration illegally fired James Comey's daughter, judge rules",
       "summary": [
         "BBC World：Trump administration illegally fired James Comey's daughter, judge rules",
@@ -473,7 +437,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
       "summary": [
         "CNBC World：Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
@@ -494,7 +458,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
       "summary": [
         "Financial Times：EU loan to Airbus threatens trade truce with US, Trump trade official warns",
@@ -511,6 +475,48 @@
           "source": "Investing.com",
           "title": "USTR Greer tells EU that loan to Airbus threatens trade truce on aircraft financing",
           "url": "https://www.investing.com/news/stock-market-news/ustr-greer-tells-eu-that-loan-to-airbus-threatens-trade-truce-on-aircraft-financing-4974169"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
+      "summary": [
+        "BBC World：Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
+        "Washington Post：Syria says five killed after Jordan retaliates for church attack with airstrikes"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Washington Post",
+          "title": "Syria says five killed after Jordan retaliates for church attack with airstrikes",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc0ZUazktcjB2WElwZmE1ZTNfS1l4T2lPQWxabkFrUTQtQTJBY1RWelRIQXk5cU5mclhTeVNpMlh1QjNlU1c0dHpCcWtVUXkxUmJZYlE2ZEJ1WlhNMk9KakVheU5GYkNqajBnaDZQNXlULTlzT2NIVWhTakwteFJINVFXS0tTblpCT2NjVE54UW1zb2p5UkE0S1Z0WFNCN0RsR19lR0MyaVE3bHZKOWhFN3N6TmJudDFXMnNFVGpFVGVCYUU?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+      "summary": [
+        "CNBC：Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+        "Yahoo Finance：Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+          "url": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV1NyNS1zejVOVGJGN2lpNFRDbnRBajBKbi10NDFjNWtKWWJjNUpYdzNVTjB2cl9Cd0ZyLXJkS0tfTzFlTjBaT0YyS1d0YnJ0Q3RLYnNyaFZUd3QwS3V5Q3g1cWNrRmdEVXhobElocmVwbUg0c0FGTld3ZE53N2FqcVRfcWFMb1pVZTd5U3I2X1hVTkJIX20yOXdscGNIV21IRzNheXFtRENiZ2lhSTFQaFZzMDdILUZGWkc2NWYwOTNPcWlfbnU5SzJmUWtXMlJLTktfMVh1bzZLU0FXRHl1VHZCLWlzb0Z4RTRaMnp5MmY2eU9KSk5j?oc=5"
         }
       ]
     }
