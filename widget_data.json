@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 18:20",
+  "updated_at": "2026-10-27 19:20",
   "taiwan": [
     {
       "rank": 1,
@@ -40,19 +40,14 @@
     },
     {
       "rank": 2,
-      "title": "王文洋摔床骨折2／呂安妮爆新戀情！男方身分曝光　11字斷開與王文洋師生戀",
+      "title": "快訊／嘉義縣長候選人號次揭曉　吳品叡1號、蔡易餘2號",
       "summary": [
-        "鏡週刊：王文洋摔床骨折2／呂安妮爆新戀情！男方身分曝光　11字斷開與王文洋師生戀",
         "ETtoday：快訊／嘉義縣長候選人號次揭曉　吳品叡1號、蔡易餘2號",
-        "公開資訊觀測站：【重訊】5013 強新：公告本公司副董事長逝世"
+        "公開資訊觀測站：【重訊】5013 強新：公告本公司副董事長逝世",
+        "自由時報：「府中奇幻城」萬聖節登場 新北警10/31封街交管"
       ],
       "media_count": 5,
       "links": [
-        {
-          "source": "鏡週刊",
-          "title": "王文洋摔床骨折2／呂安妮爆新戀情！男方身分曝光　11字斷開與王文洋師生戀",
-          "url": "https://www.mirrormedia.mg/story/20261026ent007"
-        },
         {
           "source": "ETtoday",
           "title": "快訊／嘉義縣長候選人號次揭曉　吳品叡1號、蔡易餘2號",
@@ -67,6 +62,11 @@
           "source": "自由時報",
           "title": "「府中奇幻城」萬聖節登場 新北警10/31封街交管",
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5620211"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "宏達電推個人AI新品VIVEE 搶攻AI陪伴商機- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT191V09GcEh3R3RYUVp1ZklRZ3gzWllKU1RBSVFoMW5FbTNHcURZb2x0OERyUGFJZU9WM09lMHVQQ2ZtZ1NsekYxd3phR0dpNXQ1b0lzSlpZNlJzN3k5aXBlNDhXeS1Dc3FrQlZMSnhOaUptNzZqZkstUmJnSm1ROGZfVy11bEEzNjVJQjY1MW9vdw?oc=5"
         },
         {
           "source": "今周刊",
@@ -265,22 +265,22 @@
     },
     {
       "rank": 10,
-      "title": "AI交易回暖提振大盤　美國股市收高",
+      "title": "福斯傳出　考慮將中國電動車軟體匯入歐洲",
       "summary": [
-        "經濟日報：AI交易回暖提振大盤　美國股市收高",
-        "新頭殼：AI交易回暖提振大盤！美股主指全部收漲 費半漲近3%、臺積電ADR漲1.4％"
+        "ETtoday：福斯傳出　考慮將中國電動車軟體匯入歐洲",
+        "科技新報：傳福斯考慮將中國車用軟體匯入歐洲"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "AI交易回暖提振大盤　美國股市收高",
-          "url": "https://money.udn.com/money/story/123398/9838705"
+          "source": "ETtoday",
+          "title": "福斯傳出　考慮將中國電動車軟體匯入歐洲",
+          "url": "https://www.ettoday.net/news/20261027/3261293.htm"
         },
         {
-          "source": "新頭殼",
-          "title": "AI交易回暖提振大盤！美股主指全部收漲 費半漲近3%、臺積電ADR漲1.4％",
-          "url": "https://newtalk.tw/news/view/2026-10-27/1067571"
+          "source": "科技新報",
+          "title": "傳福斯考慮將中國車用軟體匯入歐洲",
+          "url": "https://technews.tw/2026/10/27/volkswagen-considers-using-chinese-software-for-europe/"
         }
       ]
     }
@@ -288,70 +288,33 @@
   "global": [
     {
       "rank": 1,
-      "title": "Former FBI director James Comey hit with third set of charges under Trump",
+      "title": "Microsoft offers buyouts to 60,000 employees as AI spending mounts",
       "summary": [
-        "Al Jazeera：Former FBI director James Comey hit with third set of charges under Trump",
-        "Washington Post：Justice Dept. charges James Comey, ex-FBI director, for a third time",
-        "Financial Times：US charges ex-FBI chief James Comey for third time"
+        "Nikkei Asia：Microsoft offers buyouts to 60,000 employees as AI spending mounts",
+        "Yahoo Finance：Microsoft offers voluntary buyout to 60,000 employees",
+        "Tom's Hardware：60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite"
       ],
-      "media_count": 5,
+      "media_count": 3,
       "links": [
         {
-          "source": "Al Jazeera",
-          "title": "Former FBI director James Comey hit with third set of charges under Trump",
-          "url": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss"
+          "source": "Nikkei Asia",
+          "title": "Microsoft offers buyouts to 60,000 employees as AI spending mounts",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOTl3d0VSZGF4NHdNektaWTY4YTdoQmczQWZpeU96bVRkSGU2eFl3eTFwVUJJQ19yVjMwUXl0M1NDWjloaUpxd2hJVFRTYU5laW4yOHZjVmlJdHp1LVd3cERpMlNfTExtLWpQa1N6YVNHZ0czOVhvc3J3UWswWGcxa2g3bHF3bFNXbERjXzBJX1J3eldLS0xVVFFaMnNOWWM1WjM2ZmZRbWhPNEVfYldVR3BhQjRxczVGMGdOOGtTOGZteEU2dEdnQk1acDIzSWc?oc=5"
         },
         {
-          "source": "Washington Post",
-          "title": "Justice Dept. charges James Comey, ex-FBI director, for a third time",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzdJRjlYeWlIdUotMk1xdXA1Mk9IZnI3UkRXVlZ3MzFsUW1ua0NJNWpWSTRXYk5sY0JZWkx1WkswLWx5ekpGZFBVa1RoVm9pa3RlN2hXYkZQRm1RbU0tN092NlA2U0lXSlpKZ3ZfS3BpZWYtVERVMzZDUUF5OWYzaGQ2UjhudVRsblcyRWRZMHI4Tm00TVdjUlAxbmNGRmtmTkUwcGJ5NFNQM1ZfbnhlNE9IQmxrcjVNZ0FLZw?oc=5"
+          "source": "Yahoo Finance",
+          "title": "Microsoft offers voluntary buyout to 60,000 employees",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWlMcnRsRmpDZ2dvdUJwSHozZVJYZzVMY21SakNwd3ZKWUFMX25xX19wVjVUQnh1NkllWEN4RjZXYTVMR2JUVEoxczlfeVRlbGRpY2Y0bDczYUotQXJacVJHNS1FT0FfTXBFVXRPNGk3VG50SGszb2c3MHNvQnRHVE5BcHBETzc4dFVzaU1GTm5oMTU3X2NOUElCWGxNa2tjUGVpVk4zUGRXSi1QMGNsRVln?oc=5"
         },
         {
-          "source": "Financial Times",
-          "title": "US charges ex-FBI chief James Comey for third time",
-          "url": "https://www.ft.com/content/6b669a41-b629-47ce-8f68-c1ab1bd1320b?syn-25a6b1a6=1"
-        },
-        {
-          "source": "BBC World",
-          "title": "Ex-FBI chief James Comey faces federal charges for third time",
-          "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Ex-FBI chief Comey faces third prosecution attempt by Trump Justice Department",
-          "url": "https://www.investing.com/news/stock-market-news/exfbi-director-comey-charged-again-by-us-justice-department-nbc-news-reports-4973795"
+          "source": "Tom's Hardware",
+          "title": "60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "England captain Harry Kane wins Ballon d’Or",
-      "summary": [
-        "Financial Times：England captain Harry Kane wins Ballon d’Or",
-        "Sky News：Harry Kane ends England's 25-year wait to win men's Ballon d'Or",
-        "Al Jazeera：Harry Kane wins Ballon d’Or, ending England’s 25-year wait"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "England captain Harry Kane wins Ballon d’Or",
-          "url": "https://www.ft.com/content/0139bf89-1906-460b-a976-663a36010889?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Sky News",
-          "title": "Harry Kane ends England's 25-year wait to win men's Ballon d'Or",
-          "url": "https://news.sky.com/story/harry-kane-ends-englands-25-year-wait-for-ballon-dor-13604077"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Harry Kane wins Ballon d’Or, ending England’s 25-year wait",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "HSBC Quarterly Profit Growth Misses, Sets $1 Billion Buyback",
       "summary": [
         "Bloomberg Markets：HSBC Quarterly Profit Growth Misses, Sets $1 Billion Buyback",
@@ -378,7 +341,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Chinese Brands Drop Soccer Star Mbappé as Online Backlash Grows",
       "summary": [
         "Bloomberg Tech：Chinese Brands Drop Soccer Star Mbappé as Online Backlash Grows",
@@ -405,7 +368,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Nvidia to invest $3 bln in Meta share offering as part of bigger AI partnership",
       "summary": [
         "Investing.com：Nvidia to invest $3 bln in Meta share offering as part of bigger AI partnership",
@@ -432,7 +395,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Jordan launches air strikes in Syria in response to a fatal church shooting",
       "summary": [
         "Al Jazeera：Jordan launches air strikes in Syria in response to a fatal church shooting",
@@ -453,7 +416,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "CDC’s deputy director to leave Trump administration after six months",
       "summary": [
         "Washington Post：CDC’s deputy director to leave Trump administration after six months",
@@ -474,28 +437,28 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
+      "rank": 7,
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
       "summary": [
-        "Financial Times：EU loan to Airbus threatens trade truce with US, Trump trade official warns",
-        "Investing.com：USTR Greer tells EU that loan to Airbus threatens trade truce on aircraft financing"
+        "BBC World：Ex-FBI chief James Comey faces federal charges for third time",
+        "Investing.com：Ex-FBI chief Comey faces third prosecution attempt by Trump Justice Department"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
-          "url": "https://www.ft.com/content/f989f4aa-a986-4ced-ba51-fa85f396f06d?syn-25a6b1a6=1"
+          "source": "BBC World",
+          "title": "Ex-FBI chief James Comey faces federal charges for third time",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Investing.com",
-          "title": "USTR Greer tells EU that loan to Airbus threatens trade truce on aircraft financing",
-          "url": "https://www.investing.com/news/stock-market-news/ustr-greer-tells-eu-that-loan-to-airbus-threatens-trade-truce-on-aircraft-financing-4974169"
+          "title": "Ex-FBI chief Comey faces third prosecution attempt by Trump Justice Department",
+          "url": "https://www.investing.com/news/stock-market-news/exfbi-director-comey-charged-again-by-us-justice-department-nbc-news-reports-4973795"
         }
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
       "summary": [
         "BBC World：Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
@@ -516,23 +479,44 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+      "rank": 9,
+      "title": "Anthropic's IPO filing shows explosive growth, risks and staggering costs",
       "summary": [
-        "CNBC：Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
-        "Yahoo Finance：Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking"
+        "Nikkei Asia：Anthropic's IPO filing shows explosive growth, risks and staggering costs",
+        "CNBC：Anthropic's IPO is risky business"
       ],
       "media_count": 2,
       "links": [
         {
+          "source": "Nikkei Asia",
+          "title": "Anthropic's IPO filing shows explosive growth, risks and staggering costs",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT2dpbWdwQ2xUZGg1N0hoUDFuRGdEU0VHNDE0V3habEY0RExKSzduTXlQZkJ0RFR5UjU1eVdkX1FKZnlRMm50dzJUM0RvOEVfQ0JjeGJKZTZ5VjRmdXU4eG8tTGVIUkZCc0FWRVhOWEU2SWVOOUhOTHloWjJzekdWMnZZN2pQbGN5c3R0bzhyZEs2THdqUGJRYWhQTmpmdXlYZEVBdkQ0TVotSzJPSlFMUjlEV3lvbTBD?oc=5"
+        },
+        {
           "source": "CNBC",
-          "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
-          "url": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html"
+          "title": "Anthropic's IPO is risky business",
+          "url": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+      "summary": [
+        "Wired：Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+        "Yahoo Finance：Inside Anthropic's massive — and wild — IPO prospectus"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Wired",
+          "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+          "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV1NyNS1zejVOVGJGN2lpNFRDbnRBajBKbi10NDFjNWtKWWJjNUpYdzNVTjB2cl9Cd0ZyLXJkS0tfTzFlTjBaT0YyS1d0YnJ0Q3RLYnNyaFZUd3QwS3V5Q3g1cWNrRmdEVXhobElocmVwbUg0c0FGTld3ZE53N2FqcVRfcWFMb1pVZTd5U3I2X1hVTkJIX20yOXdscGNIV21IRzNheXFtRENiZ2lhSTFQaFZzMDdILUZGWkc2NWYwOTNPcWlfbnU5SzJmUWtXMlJLTktfMVh1bzZLU0FXRHl1VHZCLWlzb0Z4RTRaMnp5MmY2eU9KSk5j?oc=5"
+          "title": "Inside Anthropic's massive — and wild — IPO prospectus",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY2trMXJ3ZlJoWEluNmxXOVFmNll2b0lsYW1SVjFIZTBaQjFjWXVNNjZJYV9yS1gzRnU5Uk1VMmI1RE94Vmo0d3U1RFlHenRVSkpYeVFJUlhsUGhURndKV1EzVThuY3FuM3NMSnRoTGRZbzl6RmZtTnpzTEFRUUJGZl84Tk5mUnhNU09sVW5aczRXdXVhX0pic2xQZEJXYjg?oc=5"
         }
       ]
     }
