@@ -9,10 +9,13 @@ import feedparser
 import httpx
 import numpy as np
 from opencc import OpenCC
+from deep_translator import GoogleTranslator
 from sentence_transformers import SentenceTransformer
-from sklearn.cluster import DBSCAN
+from sklearn.cluster import AgglomerativeClustering
+from sklearn.metrics.pairwise import cosine_distances
 from google import genai
 
+# 讀取環境變數
 GEMINI_API_KEY = (os.environ.get("GEMINI_API_KEY") or "").strip()
 TG_BOT_TOKEN = (os.environ.get("TG_BOT_TOKEN") or "").strip()
 TG_CHAT_ID = (os.environ.get("TG_CHAT_ID") or "").strip()
@@ -21,58 +24,74 @@ DB_PATH = "news.db"
 KEYWORDS_PATH = "keywords.json"
 WIDGET_JSON_PATH = "widget_data.json"
 
+# 簡轉繁與多語系翻譯工具
 cc = OpenCC('s2twp')
+en_translator = GoogleTranslator(source='auto', target='zh-TW')
 
-# 垃圾目錄文與無意義彙整標題黑名單（直接攔截韓聯社報紙頭條等目錄文）
-JUNK_PATTERNS = [
-    "主要報紙頭條", "報紙頭條新聞", "主要报纸头条", "新聞提要", "新闻提要","頭條新聞","各報重點",
-    "今日頭條新聞", "每日新聞摘要", "新聞早報", "新聞晚報", "一周新聞", "一週新聞", "韓國歷史上的今天"
-]
-
+# 台灣主流與科技財經媒體 RSS (擴充科技與財經來源)
 TW_FEEDS = {
+    # --- 綜合主流頭條 ---
     "中央社": "https://feeds.feedburner.com/cnaFirstNews",
     "公視新聞": "https://news.google.com/rss/search?q=site:news.pts.org.tw+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     "聯合新聞": "https://udn.com/rssfeed/news/2/6638?ch=news",
     "自由時報": "https://news.ltn.com.tw/rss/all.xml",
     "中時新聞": "https://news.google.com/rss/search?q=site:chinatimes.com+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     "ETtoday": "https://feeds.feedburner.com/ettoday/realtime",
-    "經濟日報": "https://money.udn.com/rssfeed/news/1001/5588",
-    "數位時代": "https://news.google.com/rss/search?q=site:bnext.com.tw+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-    "科技新報": "https://technews.tw/feed/",
-    "報導者": "https://www.twreporter.org/a/rss2.xml",
     "關鍵評論網": "https://news.google.com/rss/search?q=site:thenewslens.com+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     "轉角國際": "https://news.google.com/rss/search?q=site:global.udn.com+when:3d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     "風傳媒": "https://news.google.com/rss/search?q=site:storm.mg+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-    "上報": "https://news.google.com/rss/search?q=site:upmedia.mg+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-    "鏡週刊": "https://www.mirrormedia.mg/rss/rss.xml",
-    "鉅亨網": "https://news.google.com/rss/search?q=site:news.cnyes.com+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-    "新頭殼": "https://newtalk.tw/rss/all",
-    "天下雜誌": "https://www.cw.com.tw/RSS/cw_content.xml",
     "TVBS新聞": "https://news.google.com/rss/search?q=site:news.tvbs.com.tw+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
-    "iThome": "https://www.ithome.com.tw/rss"
+    # --- 台灣科技與半導體媒體 ---
+    "科技新報": "https://technews.tw/feed/",
+    "財經新報": "https://finance.technews.tw/feed/",
+    "數位時代": "https://news.google.com/rss/search?q=site:bnext.com.tw+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    "iThome": "https://www.ithome.com.tw/rss",
+    "INSIDE硬塞": "https://www.inside.com.tw/feed/rss",
+    "科技報橘": "https://buzzorange.com/techorange/feed/",
+    "癮科技Cool3c": "https://www.cool3c.com/rss",
+    # --- 台灣財經與產業媒體 ---
+    "經濟日報": "https://money.udn.com/rssfeed/news/1001/5588",
+    "工商時報": "https://news.google.com/rss/search?q=site:ctee.com.tw+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    "鉅亨網": "https://news.google.com/rss/search?q=site:news.cnyes.com+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    "MoneyDJ理財網": "https://news.google.com/rss/search?q=site:moneydj.com+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    "天下雜誌": "https://www.cw.com.tw/RSS/cw_content.xml",
+    "商業周刊": "https://news.google.com/rss/search?q=site:businessweekly.com.tw+when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    "今周刊": "https://news.google.com/rss/search?q=site:businesstoday.com.tw+when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+    "財訊": "https://news.google.com/rss/search?q=site:wealth.com.tw+when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
 }
 
+# 國際主流與科技財經媒體 RSS (擴充全球財經、美股與硬體科技來源)
 INTL_FEEDS = {
+    # --- 國際綜合主流 ---
     "BBC中文": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml",
     "紐約時報中文": "https://news.google.com/rss/search?q=site:cn.nytimes.com+when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     "德國之聲": "https://rss.dw.com/rdf/rss-chi-all",
     "法廣RFI": "https://www.rfi.fr/tw/rss",
     "NHK新聞": "https://www.nhk.or.jp/rss/news/cat0.xml",
     "韓聯社": "https://cn.yna.co.kr/RSS/news.xml",
-    "FT中文網": "https://www.ftchinese.com/rss/feed",
-    "聯合國新聞": "https://news.un.org/feed/subscribe/zh/news/all/rss.xml",
+    "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "CNN World": "http://rss.cnn.com/rss/edition_world.rss",
     "The Guardian": "https://www.theguardian.com/world/rss",
-    "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
-    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
-    "CNBC World": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
     "Washington Post": "https://news.google.com/rss/search?q=site:washingtonpost.com+when:1d&hl=en-US&gl=US&ceid=US:en",
-    "NPR World": "https://feeds.npr.org/1004/rss.xml",
+    # --- 國際財經與美股權威 ---
+    "FT中文網": "https://www.ftchinese.com/rss/feed",
+    "Financial Times": "https://www.ft.com/world?format=rss",
+    "Bloomberg Markets": "https://feeds.bloomberg.com/markets/news.rss",
+    "Bloomberg Tech": "https://feeds.bloomberg.com/technology/news.rss",
+    "WSJ Markets": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+    "CNBC": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "MarketWatch": "https://feeds.marketwatch.com/marketwatch/topstories",
+    "Yahoo Finance": "https://finance.yahoo.com/news/rssindex",
+    "Investing.com": "https://www.investing.com/rss/news_25.rss",
+    "Nikkei Asia": "https://news.google.com/rss/search?q=site:asia.nikkei.com+when:1d&hl=en-US&gl=US&ceid=US:en",
+    # --- 國際科技、AI 與半導體硬體 ---
     "TechCrunch": "https://techcrunch.com/feed/",
     "The Verge": "https://www.theverge.com/rss/index.xml",
     "Ars Technica": "https://feeds.arstechnica.com/arstechnica/index",
-    "Financial Times": "https://www.ft.com/world?format=rss",
-    "Sky News": "https://feeds.skynews.com/feeds/rss/world.xml"
+    "Wired": "https://www.wired.com/feed/rss",
+    "VentureBeat": "https://venturebeat.com/feed/",
+    "Tom's Hardware": "https://www.tomshardware.com/feeds/all",
+    "Wccftech": "https://wccftech.com/feed/"
 }
 
 def send_tg_message(text):
@@ -89,42 +108,69 @@ def send_tg_message(text):
     except Exception as e:
         print(f"Telegram 推播失敗: {e}")
 
-def is_junk_title(title):
-    return any(pat in title for pat in JUNK_PATTERNS)
-
-def is_foreign_text(text):
-    # 包含日文假名，或中文字少於 4 個字、或英文字母超過 10 個字，即判定需翻譯
+def is_mostly_english(text):
+    # 偵測是否包含日文平假名 (\u3040-\u309f)、片假名 (\u30a0-\u30ff) 或外文為主
     jp_chars = sum(1 for ch in text if '\u3040' <= ch <= '\u30ff')
     zh_chars = sum(1 for ch in text if '\u4e00' <= ch <= '\u9fff')
     en_chars = sum(1 for ch in text if 'a' <= ch.lower() <= 'z')
-    return jp_chars > 0 or zh_chars < 4 or (en_chars > 10 and en_chars > zh_chars)
+    return jp_chars > 0 or zh_chars == 0 or (en_chars > 12 and zh_chars < 4)
 
-def translate_to_zh_tw(text):
-    """使用 Google 官方極速 GTX JSON 通道翻譯，穩定不擋 IP"""
+def ensure_traditional_chinese(text):
     text = text.strip()
     if not text:
         return text
-    # 移除常見無意義英文前綴
-    text = re.sub(r'^(Live updates|Breaking news|Watch live|Video)\s*[:：\-]\s*', '', text, flags=re.IGNORECASE)
-    if is_foreign_text(text):
+    if is_mostly_english(text):
         try:
-            url = "https://translate.googleapis.com/translate_a/single"
-            params = {"client": "gtx", "sl": "auto", "tl": "zh-TW", "dt": "t", "q": text}
-            r = httpx.get(url, params=params, timeout=8.0)
-            if r.status_code == 200:
-                data = r.json()
-                translated = "".join(seg[0] for seg in data[0] if seg[0])
-                if translated:
-                    text = translated
+            translated = en_translator.translate(text)
+            if translated:
+                text = translated
         except Exception as e:
-            print(f"GTX 翻譯失敗: {e}")
+            print(f"翻譯備援失敗: {e}")
     return cc.convert(text)
 
 def clean_rss_title(raw_title, is_google_news=False):
     title = raw_title.strip()
     if is_google_news and " - " in title:
         title = title.rsplit(" - ", 1)[0].strip()
-    return cc.convert(title)
+    return ensure_traditional_chinese(title)
+
+# --- 防誤分群第二道防線：字面關鍵詞交集檢查 ---
+STOPWORDS_CHARS = set("的了在是與及或將為對從向被把讓給比跟和但而卻又也還更最很太都只就才已曾正要會能可好大中小上下前後裡外內高低長短新舊多少全各每某該此其之以為於與及等後前月日年時分秒週今明昨")
+
+def extract_key_tokens(title):
+    """提取標題中的中文雙字詞 (2-grams)、英文專有名詞與關鍵實字"""
+    zh_chunks = re.findall(r'[\u4e00-\u9fff]+', title)
+    bigrams = set()
+    chars = set()
+    for chunk in zh_chunks:
+        for ch in chunk:
+            if ch not in STOPWORDS_CHARS:
+                chars.add(ch)
+        for i in range(len(chunk) - 1):
+            bg = chunk[i:i+2]
+            if not (bg[0] in STOPWORDS_CHARS and bg[1] in STOPWORDS_CHARS):
+                bigrams.add(bg)
+    # 提取至少 2 字元以上的英文/數字專有名詞 (如 AI, TSMC, iPhone, Q3)
+    en_tokens = set(re.findall(r'[a-zA-Z]{2,}[0-9]*', title.lower()))
+    return bigrams, en_tokens, chars
+
+def is_truly_related(title1, title2, cos_dist):
+    """
+    判斷兩則新聞是否真的在講同一件事：
+    1. 若向量距離極近 (< 0.12)，直接放行
+    2. 否則必須具備：至少 1 個共同中文雙字詞、或 1 個共同英文專有名詞、或至少 2 個共同核心中文字
+    """
+    if cos_dist < 0.12:
+        return True
+    bg1, en1, ch1 = extract_key_tokens(title1)
+    bg2, en2, ch2 = extract_key_tokens(title2)
+    if len(bg1 & bg2) >= 1:
+        return True
+    if len(en1 & en2) >= 1:
+        return True
+    if len(ch1 & ch2) >= 2 and cos_dist < 0.18:
+        return True
+    return False
 
 def init_db():
     conn = sqlite3.connect(DB_PATH)
@@ -149,16 +195,15 @@ def init_db():
     except sqlite3.OperationalError:
         pass
 
-    # 清除資料庫中既有的韓聯社報紙頭條等垃圾目錄文
     c.execute("SELECT link, title FROM articles")
     for link, title in c.fetchall():
-        if is_junk_title(title):
-            c.execute("DELETE FROM articles WHERE link = ?", (link,))
+        if is_mostly_english(title):
+            zh_title = ensure_traditional_chinese(title)
+            c.execute("UPDATE articles SET title = ? WHERE link = ?", (zh_title, link))
 
-    # 清除舊快取中殘留外文或垃圾標題的紀錄
     c.execute("SELECT cluster_id, headline FROM summary_cache")
     for cid, headline in c.fetchall():
-        if is_foreign_text(headline) or is_junk_title(headline):
+        if is_mostly_english(headline):
             c.execute("DELETE FROM summary_cache WHERE cluster_id = ?", (cid,))
 
     conn.commit()
@@ -194,12 +239,9 @@ def fetch_all_feeds(conn):
                     if not link or not raw_title:
                         continue
 
-                    title = clean_rss_title(raw_title, is_google_news=is_gn)
-                    if is_junk_title(title):
-                        continue
-
                     c.execute("SELECT 1 FROM articles WHERE link = ?", (link,))
                     if not c.fetchone():
+                        title = clean_rss_title(raw_title, is_google_news=is_gn)
                         c.execute(
                             "INSERT INTO articles (link, title, source, category, fetched_at) VALUES (?, ?, ?, ?, ?)",
                             (link, title, source, category, now.isoformat())
@@ -228,14 +270,11 @@ def check_keywords(new_articles):
     for a in new_articles:
         raw_t = a.get("raw_title", a["title"]).lower()
         zh_t = a["title"].lower()
-        
-        # 只要關鍵字出現在原始標題 OR 翻譯後標題，皆算命中
         matched = [kw for kw in keywords if kw.lower() in raw_t or kw.lower() in zh_t]
         if matched:
-            zh_title = translate_to_zh_tw(a['title'])
             msg = (
                 f"🚨 <b>關鍵字命中：{', '.join(matched)}</b>\n\n"
-                f"📰 {zh_title}\n"
+                f"📰 {a['title']}\n"
                 f"🏢 來源：{a['source']}\n"
                 f"🔗 <a href='{a['link']}'>點此閱讀報導</a>"
             )
@@ -249,11 +288,11 @@ def find_cached_summary(conn, current_links):
 
     curr_set = set(current_links)
     for row_links_json, headline, bullets_json, trans_links_json in rows:
-        if is_foreign_text(headline) or is_junk_title(headline):
+        if is_mostly_english(headline):
             continue
         cached_set = set(json.loads(row_links_json))
         intersection = len(curr_set & cached_set)
-        if curr_set == cached_set or (intersection >= 2) or (intersection / max(len(curr_set), 1) >= 0.5):
+        if curr_set == cached_set or (intersection >= 2 and intersection / max(len(curr_set), 1) >= 0.6):
             return {
                 "headline": cc.convert(headline),
                 "bullets": [cc.convert(b) for b in json.loads(bullets_json)],
@@ -287,26 +326,20 @@ def batch_summarize_with_gemini(client, conn, clusters):
         links = [a["link"] for a in cluster["articles"]]
         cached = find_cached_summary(conn, links)
         if cached:
+            valid_links = cached["translated_links"] or [
+                {"source": a["source"], "title": a["title"], "url": a["link"]}
+                for a in cluster["articles"][:5]
+            ]
             final_results[idx] = {
                 "headline": cached["headline"],
                 "bullets": cached["bullets"],
-                "links": cached["translated_links"] or [
-                    {"source": a["source"], "title": translate_to_zh_tw(a["title"]), "url": a["link"]}
-                    for a in cluster["articles"][:5]
-                ]
+                "links": valid_links,
+                "media_count": len(set(l["source"] for l in valid_links))
             }
         else:
-            # 送給 Gemini 前，先將入選 Top 10 的外文標題全部翻成繁體中文！
-            translated_arts = []
-            for a in cluster["articles"][:5]:
-                translated_arts.append({
-                    "source": a["source"],
-                    "title": translate_to_zh_tw(a["title"]),
-                    "link": a["link"]
-                })
             pending_items.append({
                 "index": idx,
-                "articles": translated_arts
+                "articles": cluster["articles"][:5]
             })
 
     if not pending_items:
@@ -315,7 +348,10 @@ def batch_summarize_with_gemini(client, conn, clusters):
     prompt_payload = [
         {
             "id": item["index"],
-            "reports": [{"source": a["source"], "title": a["title"]} for a in item["articles"]]
+            "reports": [
+                {"report_idx": r_i, "source": a["source"], "title": a["title"]}
+                for r_i, a in enumerate(item["articles"])
+            ]
         }
         for item in pending_items
     ]
@@ -325,30 +361,29 @@ def batch_summarize_with_gemini(client, conn, clusters):
 {json.dumps(prompt_payload, ensure_ascii=False, indent=2)}
 
 請針對每一組事件（依 `id` 數字對應），嚴格以「台灣繁體中文（台灣慣用詞彙）」輸出：
-1. `headline`：用一句話精確總結該事件核心標題（全繁體中文，約 18~25 字，語意完整）。
-2. `bullets`：用 2 點列出此事件的關鍵重點或背景細節（全繁體中文，每點約 20~35 字）。
+1. `valid_report_indices`：檢查該組 `reports` 中所有標題，以第 0 則（或多數派主題）為核心，若裡面混入了「完全不同事件」的無關新聞，請將無關新聞的 `report_idx` 剔除，僅回傳真正相關的 `report_idx` 整數陣列（例如 `[0, 1]` 或 `[0]`）。
+2. `headline`：針對相關報導，用一句話精確總結該事件核心標題（全繁體中文，約 18~25 字，語意完整不斷句）。
+3. `bullets`：針對相關報導，用 2 點列出此事件的關鍵重點或背景細節（全繁體中文，每點約 20~35 字，禁止直接照抄「媒體名稱：標題」）。
 
 請嚴格輸出 JSON Array 格式：
 [
   {{
     "id": 0,
+    "valid_report_indices": [0, 1],
     "headline": "事件核心總結標題",
     "bullets": ["重點1", "重點2"]
   }}
 ]
 """
 
-    for model_name in ["gemini-2.5-flash", "gemini-2.0-flash"]:
+    for model_name in ["gemini-2.5-flash", "gemini-2.5-flash-lite"]:
         try:
             resp = client.models.generate_content(
                 model=model_name,
                 contents=prompt,
                 config={"response_mime_type": "application/json"}
             )
-            raw_text = resp.text.strip()
-            if raw_text.startswith("```"):
-                raw_text = re.sub(r"^```(?:json)?|```$", "", raw_text, flags=re.MULTILINE).strip()
-            raw_json = json.loads(raw_text)
+            raw_json = json.loads(resp.text)
             if isinstance(raw_json, dict):
                 for v in raw_json.values():
                     if isinstance(v, list):
@@ -367,39 +402,42 @@ def batch_summarize_with_gemini(client, conn, clusters):
             for item in pending_items:
                 idx = item["index"]
                 arts = item["articles"]
-                all_links = [a["link"] for a in clusters[idx]["articles"]]
-                formatted_links = [{"source": a["source"], "title": a["title"], "url": a["link"]} for a in arts]
 
                 if idx in parsed_map:
                     g_data = parsed_map[idx]
-                    headline = translate_to_zh_tw(g_data.get("headline", arts[0]["title"]))
-                    bullets = [translate_to_zh_tw(b) for b in g_data.get("bullets", [])]
-                    if not bullets:
-                        bullets = [f"{a['source']}：{a['title']}" for a in arts[:2]]
+                    valid_idxs = g_data.get("valid_report_indices", list(range(len(arts))))
+                    filtered_arts = [arts[i] for i in valid_idxs if isinstance(i, int) and 0 <= i < len(arts)]
+                    if not filtered_arts:
+                        filtered_arts = [arts[0]]
 
-                    save_summary_cache(conn, all_links, headline, bullets, formatted_links)
+                    formatted_links = [{"source": a["source"], "title": a["title"], "url": a["link"]} for a in filtered_arts]
+                    all_valid_links = [a["link"] for a in filtered_arts]
+
+                    headline = ensure_traditional_chinese(g_data.get("headline", filtered_arts[0]["title"]))
+                    bullets = [ensure_traditional_chinese(b) for b in g_data.get("bullets", [])]
+                    if not bullets:
+                        bullets = [f"{a['source']}：{a['title']}" for a in filtered_arts[:2]]
+
+                    save_summary_cache(conn, all_valid_links, headline, bullets, formatted_links)
                     final_results[idx] = {
                         "headline": headline,
                         "bullets": bullets,
-                        "links": formatted_links
+                        "links": formatted_links,
+                        "media_count": len(set(a["source"] for a in filtered_arts))
                     }
             break
         except Exception as e:
             print(f"Gemini ({model_name}) 呼叫失敗: {e}")
-            time.sleep(3)
+            time.sleep(4)
 
-    # 最終安全備援（因為 item["articles"] 已經過 translate_to_zh_tw 翻譯，備援 100% 是繁體中文）
-    pending_map = {item["index"]: item["articles"] for item in pending_items}
     for idx, res in enumerate(final_results):
         if res is None:
-            arts = pending_map.get(idx) or [
-                {"source": a["source"], "title": translate_to_zh_tw(a["title"]), "link": a["link"]}
-                for a in clusters[idx]["articles"][:5]
-            ]
+            arts = clusters[idx]["articles"][:5]
             final_results[idx] = {
-                "headline": arts[0]["title"],
-                "bullets": [f"{a['source']}：{a['title']}" for a in arts[:3]],
-                "links": [{"source": a["source"], "title": a["title"], "url": a["link"]} for a in arts]
+                "headline": ensure_traditional_chinese(arts[0]["title"]),
+                "bullets": [f"{a['source']}：{ensure_traditional_chinese(a['title'])}" for a in arts[:3]],
+                "links": [{"source": a["source"], "title": ensure_traditional_chinese(a["title"]), "url": a["link"]} for a in arts],
+                "media_count": len(set(a["source"] for a in arts))
             }
 
     return final_results
@@ -412,20 +450,51 @@ def cluster_and_rank(conn, embed_model, gemini_client, category, top_k=10):
     if not rows:
         return []
 
-    articles = [{"link": r[0], "title": r[1], "source": r[2]} for r in rows if not is_junk_title(r[1])]
-    if not articles:
-        return []
+    articles = [{"link": r[0], "title": r[1], "source": r[2]} for r in rows]
+    if len(articles) == 1:
+        raw_clusters = {0: [0]}
+        dist_matrix = np.zeros((1, 1))
+    else:
+        titles = [a["title"] for a in articles]
+        embeddings = embed_model.encode(titles, normalize_embeddings=True)
+        dist_matrix = cosine_distances(embeddings)
 
-    titles = [a["title"] for a in articles]
-    embeddings = embed_model.encode(titles, normalize_embeddings=True)
-    clustering = DBSCAN(eps=0.24, min_samples=1, metric="cosine").fit(embeddings)
+        # 第一道防線：使用平均連結階層分群 (Average Linkage)，徹底消滅 DBSCAN 單點連鎖誤判
+        clustering = AgglomerativeClustering(
+            n_clusters=None,
+            distance_threshold=0.20,
+            metric="precomputed",
+            linkage="average"
+        ).fit(dist_matrix)
 
-    clusters = {}
-    for idx, label in enumerate(clustering.labels_):
-        clusters.setdefault(label, []).append(articles[idx])
+        raw_clusters = {}
+        for idx, label in enumerate(clustering.labels_):
+            raw_clusters.setdefault(label, []).append(idx)
+
+    # 第二道防線：字面雙字詞/實體交集驗證，將誤混入的無關新聞拆出
+    verified_groups = []
+    for label, idx_list in raw_clusters.items():
+        if len(idx_list) == 1:
+            verified_groups.append([articles[idx_list[0]]])
+            continue
+
+        anchor_idx = idx_list[0]
+        anchor_title = articles[anchor_idx]["title"]
+        main_group = [articles[anchor_idx]]
+
+        for member_idx in idx_list[1:]:
+            member_title = articles[member_idx]["title"]
+            cos_dist = dist_matrix[anchor_idx][member_idx]
+            if is_truly_related(anchor_title, member_title, cos_dist):
+                main_group.append(articles[member_idx])
+            else:
+                # 若字面毫無關聯，將其拆回獨立單篇事件，絕不硬湊
+                verified_groups.append([articles[member_idx]])
+
+        verified_groups.append(main_group)
 
     ranked = []
-    for label, group in clusters.items():
+    for group in verified_groups:
         unique_sources = {}
         for item in group:
             if item["source"] not in unique_sources:
@@ -447,7 +516,7 @@ def cluster_and_rank(conn, embed_model, gemini_client, category, top_k=10):
             "rank": idx,
             "title": summary_data["headline"],
             "summary": summary_data["bullets"],
-            "media_count": cluster["unique_source_count"],
+            "media_count": summary_data.get("media_count", cluster["unique_source_count"]),
             "links": summary_data["links"]
         })
     return results
@@ -468,6 +537,8 @@ def main():
 
     if error_logs:
         err_msg = "⚠️ <b>RSS 媒體讀取異常報告</b>\n" + "\n".join(error_logs[:15])
+        if len(error_logs) > 15:
+            err_msg += f"\n...及其他 {len(error_logs)-15} 個錯誤"
         send_tg_message(err_msg)
 
     embed_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
