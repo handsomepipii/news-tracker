@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 03:30",
+  "updated_at": "2026-10-28 04:19",
   "taiwan": [
     {
       "rank": 1,
@@ -203,22 +203,22 @@
     },
     {
       "rank": 10,
-      "title": "塞爾維亞政壇變天　中國一帶一路相關工程事故成導火線",
+      "title": "遠傳攜手Elveo Mobile 正式佈局手機直連衛星- 產業",
       "summary": [
-        "經濟日報：塞爾維亞政壇變天　中國一帶一路相關工程事故成導火線",
-        "自由時報：塞爾維亞政壇變天 中國一帶一路相關工程事故成導火線"
+        "工商時報：遠傳攜手Elveo Mobile 正式佈局手機直連衛星- 產業",
+        "ETtoday：遠傳拋重磅「攜手Elveo Mobile」　積極拓展手機連衛星商機"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "塞爾維亞政壇變天　中國一帶一路相關工程事故成導火線",
-          "url": "https://money.udn.com/money/story/5599/9840701"
+          "source": "工商時報",
+          "title": "遠傳攜手Elveo Mobile 正式佈局手機直連衛星- 產業",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCSWkzWmczMmlVdUZTbDBubXRxd3F1a21MdDRZaVBmdzNuUTNlc2pnQXFBRHRESXhZaHJYUDd1a0JzWURqQ1k2YUNHdDF3OGFYSzlGanU5UEl3eFB4cXBj?oc=5"
         },
         {
-          "source": "自由時報",
-          "title": "塞爾維亞政壇變天 中國一帶一路相關工程事故成導火線",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620791"
+          "source": "ETtoday",
+          "title": "遠傳拋重磅「攜手Elveo Mobile」　積極拓展手機連衛星商機",
+          "url": "https://www.ettoday.net/news/20261028/3261810.htm"
         }
       ]
     }
@@ -226,6 +226,33 @@
   "global": [
     {
       "rank": 1,
+      "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
+      "summary": [
+        "BBC World：Flávio Bolsonaro's passports cancelled after he fails to surrender them",
+        "Financial Times：Flávio Bolsonaro’s passport cancelled as reports say he has fled Brazil",
+        "Washington Post：Flávio Bolsonaro fails to turn in passports as Brazilians question his whereabouts"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Financial Times",
+          "title": "Flávio Bolsonaro’s passport cancelled as reports say he has fled Brazil",
+          "url": "https://www.ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Washington Post",
+          "title": "Flávio Bolsonaro fails to turn in passports as Brazilians question his whereabouts",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdTN4OHhtN2JLNm4wR29xdDZXS0xyQllDLXFoZ1lQWUZhMUlfVGFSa3FQcWxacTdlaWREMno1R1pWbUJkWlJRd3ZLdjU3YzY5WXJuajI3V3N0amR3bEg2SkhDMW1UMDZ4UEowaVRCU3B0eF9xQmtmSnNMQ2lwdFdWcElmNHMyRF9ydzFWU1NQckJiSC1ET0hOVVIzNXhvTTEteWtXbEFoaTdldXR3MVR5YlZDQnJ2ejdhRk5LTHN3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
       "summary": [
         "CNBC：Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
@@ -246,7 +273,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Israel heads to polls for pivotal election defined by security and democracy",
       "summary": [
         "BBC World：Israel heads to polls for pivotal election defined by security and democracy",
@@ -267,7 +294,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
       "summary": [
         "Bloomberg Markets：Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
@@ -288,7 +315,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Russia and Ukraine begin local ceasefire in frontline city",
       "summary": [
         "Financial Times：Russia and Ukraine begin local ceasefire in frontline city",
@@ -309,7 +336,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "GM will switch to Nasdaq from the NYSE on Nov. 17",
       "summary": [
         "CNBC：GM will switch to Nasdaq from the NYSE on Nov. 17",
@@ -326,27 +353,6 @@
           "source": "Financial Times",
           "title": "GM to switch listing from NYSE to Nasdaq as it accelerates AI push",
           "url": "https://www.ft.com/content/01467514-66c1-4375-9906-45a47b949270?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
-      "summary": [
-        "BBC World：Flávio Bolsonaro's passports cancelled after he fails to surrender them",
-        "Financial Times：Flávio Bolsonaro’s passport cancelled as reports say he has fled Brazil"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
-          "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Financial Times",
-          "title": "Flávio Bolsonaro’s passport cancelled as reports say he has fled Brazil",
-          "url": "https://www.ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1"
         }
       ]
     },
@@ -394,6 +400,27 @@
     },
     {
       "rank": 9,
+      "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
+      "summary": [
+        "Bloomberg Tech：Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
+        "Investing.com：Anduril, Qualcomm partner on new line of US-made laptops"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-27/anduril-and-qualcomm-plan-to-build-us-laptop-video"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Anduril, Qualcomm partner on new line of US-made laptops",
+          "url": "https://www.investing.com/news/stock-market-news/anduril-qualcomm-partner-on-new-line-of-usmade-laptops-4976680"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Why is Standard Chartered stock sliding today?",
       "summary": [
         "Investing.com：Why is Standard Chartered stock sliding today?"
@@ -404,21 +431,6 @@
           "source": "Investing.com",
           "title": "Why is Standard Chartered stock sliding today?",
           "url": "https://www.investing.com/news/stock-market-news/why-is-standard-chartered-stock-sliding-today-93CH-4974510"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRTdXVmNBYVg4RlI5cnZxR0xrWm5IOHFpNlR2eE1WbFljSm9YclVrTkUzMXFreFAycl9uUjZTVjB1dGI1dkwyZk5uQ0Zycng2WEItUUJRTVY0QXVOdUtpM3FlbWpsT1pDY1MtSm1OdDF3NnN5M2VBdmE5Y2FscWJqU1lVaklydHZLWWtOOVlhRmo1RTZYY0RaQmw1bTBpcXJIQk1NWFYxaHY3SVBm?oc=5"
         }
       ]
     }
