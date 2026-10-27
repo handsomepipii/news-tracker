@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 16:22",
+  "updated_at": "2026-10-27 17:21",
   "taiwan": [
     {
       "rank": 1,
@@ -40,18 +40,23 @@
     },
     {
       "rank": 2,
-      "title": "金鐘61／周渝民1票擦身金鐘影帝！楊貴媚氣場強大擊敗謝欣穎　評審曝評選關鍵",
+      "title": "中共五中全會登場 中國北大等校學生 促廢國家主席無限任期制",
       "summary": [
-        "鏡週刊：金鐘61／周渝民1票擦身金鐘影帝！楊貴媚氣場強大擊敗謝欣穎　評審曝評選關鍵",
-        "ETtoday：快訊／嘉義縣長候選人號次揭曉　吳品叡1號、蔡易餘2號",
-        "公開資訊觀測站：【重訊】5013 強新：公告本公司副董事長逝世"
+        "自由時報：中共五中全會登場 中國北大等校學生 促廢國家主席無限任期制",
+        "鏡週刊：王文洋摔床骨折2／呂安妮爆新戀情！男方身分曝光　11字斷開與王文洋師生戀",
+        "ETtoday：快訊／嘉義縣長候選人號次揭曉　吳品叡1號、蔡易餘2號"
       ],
-      "media_count": 3,
+      "media_count": 5,
       "links": [
         {
+          "source": "自由時報",
+          "title": "中共五中全會登場 中國北大等校學生 促廢國家主席無限任期制",
+          "url": "https://news.ltn.com.tw/news/politics/paper/1776086"
+        },
+        {
           "source": "鏡週刊",
-          "title": "金鐘61／周渝民1票擦身金鐘影帝！楊貴媚氣場強大擊敗謝欣穎　評審曝評選關鍵",
-          "url": "https://www.mirrormedia.mg/story/20261026ent021"
+          "title": "王文洋摔床骨折2／呂安妮爆新戀情！男方身分曝光　11字斷開與王文洋師生戀",
+          "url": "https://www.mirrormedia.mg/story/20261026ent007"
         },
         {
           "source": "ETtoday",
@@ -62,33 +67,43 @@
           "source": "公開資訊觀測站",
           "title": "【重訊】5013 強新：公告本公司副董事長逝世",
           "url": "https://mops.twse.com.tw/mops/web/t05sr01_1#mops-5013-34ff6cf20d2b"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "隨叫隨到生活控股有限公司",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMWg0eVhQMFp2ZkhPUDBIMG5WZ2tPdTR4bFBVYnpWUVZ5R0VrVlh5YWJBbUdRM1czM2w5NHFfS1JvdVpOeVFzRUN5d3FGRDJKbGNzRWJmcDVjUWhNQk5NYmpiS0g4eEJIbkJRVXlxVlhlMm0zOEp6eElURWhHY2VlWnVkelBncUlEeXhZWFFSNzMtNE9oTno4?oc=5"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "傳福斯考慮將中國車用軟體匯入歐洲",
+      "title": "OpenAI推出GPT-6.1 Terra！電腦操作快3倍、API價格直接砍半",
       "summary": [
-        "經濟日報：傳福斯考慮將中國車用軟體匯入歐洲",
-        "ETtoday：福斯傳出　考慮將中國電動車軟體匯入歐洲",
-        "科技新報：傳福斯考慮將中國車用軟體匯入歐洲"
+        "ETtoday：OpenAI推出GPT-6.1 Terra！電腦操作快3倍、API價格直接砍半",
+        "鉅亨網：OpenAI釋出電腦操作強者GPT-6.1 Terra：API價格砍半Token效率為Opus 5.5三倍、價格僅四分之一",
+        "科技新報：OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "傳福斯考慮將中國車用軟體匯入歐洲",
-          "url": "https://money.udn.com/money/story/5599/9838639"
+          "source": "ETtoday",
+          "title": "OpenAI推出GPT-6.1 Terra！電腦操作快3倍、API價格直接砍半",
+          "url": "https://ai.ettoday.net/news/3261367"
         },
         {
-          "source": "ETtoday",
-          "title": "福斯傳出　考慮將中國電動車軟體匯入歐洲",
-          "url": "https://www.ettoday.net/news/20261027/3261293.htm"
+          "source": "鉅亨網",
+          "title": "OpenAI釋出電腦操作強者GPT-6.1 Terra：API價格砍半Token效率為Opus 5.5三倍、價格僅四分之一",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14ZjdQWlhWVXpjeEs3VEU3WkpvM2MzT3JUSTVRUzA2OUpnakRUTEVMYVdlOENGUGtNWUV0c3hOemJCaHoyQkYtSDlvczFxdHc?oc=5"
         },
         {
           "source": "科技新報",
-          "title": "傳福斯考慮將中國車用軟體匯入歐洲",
-          "url": "https://technews.tw/2026/10/27/volkswagen-considers-using-chinese-software-for-europe/"
+          "title": "OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半",
+          "url": "https://technews.tw/2026/10/27/openai-introduces-gpt-6-1-terra/"
+        },
+        {
+          "source": "iThome",
+          "title": "OpenAI新模型GPT-6.1 Terra強化視覺與電腦操作，API價格僅Sol一半",
+          "url": "https://www.ithome.com.tw/news/179985"
         }
       ]
     },
@@ -175,33 +190,6 @@
     },
     {
       "rank": 7,
-      "title": "OpenAI推出GPT-6.1 Terra！電腦操作快3倍、API價格直接砍半",
-      "summary": [
-        "ETtoday：OpenAI推出GPT-6.1 Terra！電腦操作快3倍、API價格直接砍半",
-        "鉅亨網：OpenAI釋出電腦操作強者GPT-6.1 Terra：API價格砍半Token效率為Opus 5.5三倍、價格僅四分之一",
-        "科技新報：OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "OpenAI推出GPT-6.1 Terra！電腦操作快3倍、API價格直接砍半",
-          "url": "https://ai.ettoday.net/news/3261367"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "OpenAI釋出電腦操作強者GPT-6.1 Terra：API價格砍半Token效率為Opus 5.5三倍、價格僅四分之一",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14ZjdQWlhWVXpjeEs3VEU3WkpvM2MzT3JUSTVRUzA2OUpnakRUTEVMYVdlOENGUGtNWUV0c3hOemJCaHoyQkYtSDlvczFxdHc?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半",
-          "url": "https://technews.tw/2026/10/27/openai-introduces-gpt-6-1-terra/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "第8代iPad mini登場，2.3萬元起OLED螢幕、A20 Pro處理器、自研無線晶片一次到位",
       "summary": [
         "癮科技Cool3c：第8代iPad mini登場，2.3萬元起OLED螢幕、A20 Pro處理器、自研無線晶片一次到位",
@@ -228,7 +216,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
       "summary": [
         "ETtoday：諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
@@ -255,7 +243,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "臺通緝犯在泰國遭槍殺 ！ 遞槍小弟周昱帆助殺人 高院更一審維持判7年",
       "summary": [
         "自由時報：臺通緝犯在泰國遭槍殺 ！ 遞槍小弟周昱帆助殺人 高院更一審維持判7年",
@@ -272,6 +260,27 @@
           "source": "ETtoday",
           "title": "通緝犯石茂強在泰國遭爆頭亡　遞槍共犯更一審仍判7年",
           "url": "https://www.ettoday.net/news/20261027/3261465.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "中東局勢升溫疑慮有所緩解　國際油價下滑",
+      "summary": [
+        "自由時報：中東局勢升溫疑慮有所緩解　國際油價下滑",
+        "經濟日報：中東局勢升溫疑慮有所緩解　國際油價下滑"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "中東局勢升溫疑慮有所緩解　國際油價下滑",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5619654"
+        },
+        {
+          "source": "經濟日報",
+          "title": "中東局勢升溫疑慮有所緩解　國際油價下滑",
+          "url": "https://money.udn.com/money/story/5599/9838672"
         }
       ]
     }
@@ -316,33 +325,6 @@
     },
     {
       "rank": 2,
-      "title": "Microsoft offers buyouts to 60,000 staff",
-      "summary": [
-        "Financial Times：Microsoft offers buyouts to 60,000 staff",
-        "Nikkei Asia：Microsoft offers buyouts to 60,000 employees as AI spending mounts",
-        "Yahoo Finance：Microsoft offers voluntary buyout to 60,000 employees"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "Microsoft offers buyouts to 60,000 staff",
-          "url": "https://www.ft.com/content/2ef29406-f2f8-413f-81f6-5ae098c97569?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "Microsoft offers buyouts to 60,000 employees as AI spending mounts",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOTl3d0VSZGF4NHdNektaWTY4YTdoQmczQWZpeU96bVRkSGU2eFl3eTFwVUJJQ19yVjMwUXl0M1NDWjloaUpxd2hJVFRTYU5laW4yOHZjVmlJdHp1LVd3cERpMlNfTExtLWpQa1N6YVNHZ0czOVhvc3J3UWswWGcxa2g3bHF3bFNXbERjXzBJX1J3eldLS0xVVFFaMnNOWWM1WjM2ZmZRbWhPNEVfYldVR3BhQjRxczVGMGdOOGtTOGZteEU2dEdnQk1acDIzSWc?oc=5"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Microsoft offers voluntary buyout to 60,000 employees",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWlMcnRsRmpDZ2dvdUJwSHozZVJYZzVMY21SakNwd3ZKWUFMX25xX19wVjVUQnh1NkllWEN4RjZXYTVMR2JUVEoxczlfeVRlbGRpY2Y0bDczYUotQXJacVJHNS1FT0FfTXBFVXRPNGk3VG50SGszb2c3MHNvQnRHVE5BcHBETzc4dFVzaU1GTm5oMTU3X2NOUElCWGxNa2tjUGVpVk4zUGRXSi1QMGNsRVln?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "England captain Harry Kane wins Ballon d’Or",
       "summary": [
         "Financial Times：England captain Harry Kane wins Ballon d’Or",
@@ -369,7 +351,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "HSBC Quarterly Profit Growth Misses, Sets $1 Billion Buyback",
       "summary": [
         "Bloomberg Markets：HSBC Quarterly Profit Growth Misses, Sets $1 Billion Buyback",
@@ -396,7 +378,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Chinese Brands Drop Soccer Star Mbappé as Online Backlash Grows",
       "summary": [
         "Bloomberg Tech：Chinese Brands Drop Soccer Star Mbappé as Online Backlash Grows",
@@ -419,6 +401,33 @@
           "source": "Nikkei Asia",
           "title": "Chinese brands drop soccer star Kylian Mbappe for 'offending' nation",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVIycFhJd2JnQ091NDY4QXFhdUlYZlQ0UGN5WnR3eVltb21vaXY3S0Z5UFpsZEhEb09rNFJjNWg3WW1nRnlnT3Z0R0Zib3hKNEVIQjVhY3hsekJkWEg5bkpwbHdQVzI4OXVncmVGY1c5UVBleGx2eXhNZE1peW9HOWxWOFFWcmJKaURKMHcwN296SnFwTDlET1MzLXBxY1ZCSGQ0YS1DU2Vnc3M?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Nvidia to invest $3 bln in Meta share offering as part of bigger AI partnership",
+      "summary": [
+        "Investing.com：Nvidia to invest $3 bln in Meta share offering as part of bigger AI partnership",
+        "CNBC：Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
+        "Yahoo Finance：Nvidia to invest $3 bln in Meta share offering as part of bigger AI partnership"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Nvidia to invest $3 bln in Meta share offering as part of bigger AI partnership",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-to-invest-3-bln-in-meta-share-offering-as-part-of-bigger-ai-partnership-4974236"
+        },
+        {
+          "source": "CNBC",
+          "title": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
+          "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Nvidia to invest $3 bln in Meta share offering as part of bigger AI partnership",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVDFRaFdjWmM0emZvWHhiTGN0OWFkZGxZTEVGNXVsRGxqUXZ1TnJYNzFlYnhkLVgzaGxOSDZJZ1pMVHRSNHJyV1d3RVg3Z2h3NTF3TFdwRTJGWTBfR3NKSEtjY2JZbFppNnhMU3hPVHJXRkhBaWV1RGJVZGZIbFRpbXZEalhybGdfLXg4dG9LSGkyUQ?oc=5"
         }
       ]
     },
@@ -508,22 +517,22 @@
     },
     {
       "rank": 10,
-      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+      "title": "Microsoft offers buyouts to 60,000 employees as AI spending mounts",
       "summary": [
-        "Wired：Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-        "Yahoo Finance：Inside Anthropic's massive — and wild — IPO prospectus"
+        "Nikkei Asia：Microsoft offers buyouts to 60,000 employees as AI spending mounts",
+        "Yahoo Finance：Microsoft offers voluntary buyout to 60,000 employees"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Wired",
-          "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-          "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/"
+          "source": "Nikkei Asia",
+          "title": "Microsoft offers buyouts to 60,000 employees as AI spending mounts",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOTl3d0VSZGF4NHdNektaWTY4YTdoQmczQWZpeU96bVRkSGU2eFl3eTFwVUJJQ19yVjMwUXl0M1NDWjloaUpxd2hJVFRTYU5laW4yOHZjVmlJdHp1LVd3cERpMlNfTExtLWpQa1N6YVNHZ0czOVhvc3J3UWswWGcxa2g3bHF3bFNXbERjXzBJX1J3eldLS0xVVFFaMnNOWWM1WjM2ZmZRbWhPNEVfYldVR3BhQjRxczVGMGdOOGtTOGZteEU2dEdnQk1acDIzSWc?oc=5"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Inside Anthropic's massive — and wild — IPO prospectus",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY2trMXJ3ZlJoWEluNmxXOVFmNll2b0lsYW1SVjFIZTBaQjFjWXVNNjZJYV9yS1gzRnU5Uk1VMmI1RE94Vmo0d3U1RFlHenRVSkpYeVFJUlhsUGhURndKV1EzVThuY3FuM3NMSnRoTGRZbzl6RmZtTnpzTEFRUUJGZl84Tk5mUnhNU09sVW5aczRXdXVhX0pic2xQZEJXYjg?oc=5"
+          "title": "Microsoft offers voluntary buyout to 60,000 employees",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWlMcnRsRmpDZ2dvdUJwSHozZVJYZzVMY21SakNwd3ZKWUFMX25xX19wVjVUQnh1NkllWEN4RjZXYTVMR2JUVEoxczlfeVRlbGRpY2Y0bDczYUotQXJacVJHNS1FT0FfTXBFVXRPNGk3VG50SGszb2c3MHNvQnRHVE5BcHBETzc4dFVzaU1GTm5oMTU3X2NOUElCWGxNa2tjUGVpVk4zUGRXSi1QMGNsRVln?oc=5"
         }
       ]
     }
