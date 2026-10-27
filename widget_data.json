@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 12:15",
+  "updated_at": "2026-10-27 13:14",
   "taiwan": [
     {
       "rank": 1,
@@ -148,6 +148,33 @@
     },
     {
       "rank": 6,
+      "title": "諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
+      "summary": [
+        "ETtoday：諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
+        "經濟日報：沒拿諾貝爾和平獎氣炸！川普怒轟「屎坑國家」挪威回應了",
+        "自由時報：川普因沒拿到諾貝爾和平獎痛罵 挪威外長反擊"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
+          "url": "https://www.ettoday.net/news/20261027/3261377.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "沒拿諾貝爾和平獎氣炸！川普怒轟「屎坑國家」挪威回應了",
+          "url": "https://money.udn.com/money/story/5599/9839371"
+        },
+        {
+          "source": "自由時報",
+          "title": "川普因沒拿到諾貝爾和平獎痛罵 挪威外長反擊",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620039"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "國際油價小幅回落　歐洲股市收盤揚升",
       "summary": [
         "經濟日報：國際油價小幅回落　歐洲股市收盤揚升",
@@ -168,7 +195,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "豐田汽車部署機器人軍團 對抗特斯拉與大陸勁敵",
       "summary": [
         "經濟日報：豐田汽車部署機器人軍團 對抗特斯拉與大陸勁敵",
@@ -189,7 +216,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "味全龍6：0完封兄弟奪隊史第6冠 梅賽鍶勇奪臺灣大賽MVP",
       "summary": [
         "上報：味全龍6：0完封兄弟奪隊史第6冠 梅賽鍶勇奪臺灣大賽MVP",
@@ -210,7 +237,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "教宗良十四世術後復原佳　按照計畫11月出訪南美",
       "summary": [
         "自由時報：教宗良十四世術後復原佳　按照計畫11月出訪南美",
@@ -229,27 +256,6 @@
           "url": "https://money.udn.com/money/story/5599/9838632"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "選舉後恐再打伊朗！官員曝美軍已完成準備　川普若下令96小時可出擊",
-      "summary": [
-        "ETtoday：選舉後恐再打伊朗！官員曝美軍已完成準備　川普若下令96小時可出擊",
-        "上報：美軍備妥攻伊朗計畫！川普若下令96小時內開打 美以聯手恐等期中選舉後"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "選舉後恐再打伊朗！官員曝美軍已完成準備　川普若下令96小時可出擊",
-          "url": "https://www.ettoday.net/news/20261027/3261244.htm"
-        },
-        {
-          "source": "上報",
-          "title": "美軍備妥攻伊朗計畫！川普若下令96小時內開打 美以聯手恐等期中選舉後",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xNEJyLUsxR2RTUldRYnAxNFFnU3kyaGI2dG9sT19PY3NzaEowb3BLMkhSU3QzN2hyWU5RaG9HRXplajJFdjhxTWlrT2djVExraDNpdW4xUG9BZkM2Vno0VlFhamhTNzQ?oc=5"
-        }
-      ]
     }
   ],
   "global": [
@@ -261,7 +267,7 @@
         "Washington Post：Justice Dept. charges James Comey, ex-FBI director, for a third time",
         "Financial Times：US charges ex-FBI chief James Comey for third time"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
           "source": "Al Jazeera",
@@ -282,6 +288,11 @@
           "source": "BBC World",
           "title": "Ex-FBI chief James Comey faces federal charges for third time",
           "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Ex-FBI chief Comey faces third prosecution attempt by Trump Justice Department",
+          "url": "https://www.investing.com/news/stock-market-news/exfbi-director-comey-charged-again-by-us-justice-department-nbc-news-reports-4973795"
         }
       ]
     },
@@ -368,48 +379,33 @@
     },
     {
       "rank": 5,
-      "title": "Tens of thousands of Israelis fly home for pivotal election",
+      "title": "HSBC Quarterly Profit Growth Misses, Sets $1 Billion Buyback",
       "summary": [
-        "Financial Times：Tens of thousands of Israelis fly home for pivotal election",
-        "CNBC World：Israeli election draws tens of thousands of citizens flying back to vote"
+        "Bloomberg Markets：HSBC Quarterly Profit Growth Misses, Sets $1 Billion Buyback",
+        "WSJ Markets：HSBC Quarterly Profit Climbs, Plans $1 Billion Buyback",
+        "CNBC：HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "Tens of thousands of Israelis fly home for pivotal election",
-          "url": "https://www.ft.com/content/4fb0c89f-a620-4d5f-bee5-9ff9164ca679"
+          "source": "Bloomberg Markets",
+          "title": "HSBC Quarterly Profit Growth Misses, Sets $1 Billion Buyback",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-27/hsbc-1-billion-buyback-third-quarter-earnings-profit-growth-misses-estimates"
         },
         {
-          "source": "CNBC World",
-          "title": "Israeli election draws tens of thousands of citizens flying back to vote",
-          "url": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html"
+          "source": "WSJ Markets",
+          "title": "HSBC Quarterly Profit Climbs, Plans $1 Billion Buyback",
+          "url": "https://www.wsj.com/finance/banking/hsbc-quarterly-profit-climbs-plans-1-billion-buyback-1551a999?mod=rss_markets_main"
+        },
+        {
+          "source": "CNBC",
+          "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
+          "url": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "UK sanctions senior Sudanese commanders 'implicated in rape campaign'",
-      "summary": [
-        "Sky News：UK sanctions senior Sudanese commanders 'implicated in rape campaign'",
-        "Al Jazeera：Britain sanctions Sudanese commanders over weaponised rape"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Sky News",
-          "title": "UK sanctions senior Sudanese commanders 'implicated in rape campaign'",
-          "url": "https://news.sky.com/story/senior-sudanese-commanders-sanctioned-after-being-implicated-in-rape-campaign-says-uk-government-13603953"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Britain sanctions Sudanese commanders over weaponised rape",
-          "url": "https://www.aljazeera.com/news/2026/10/26/britain-sanctions-sudanese-commanders-over-weaponised-rape?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Anthropic’s IPO filing shows explosive growth, risks and staggering costs",
       "summary": [
         "Al Jazeera：Anthropic’s IPO filing shows explosive growth, risks and staggering costs",
@@ -430,7 +426,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
       "summary": [
         "The Verge：Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
@@ -451,7 +447,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Nigeria evacuates Ebola patient to Switzerland",
       "summary": [
         "Financial Times：Nigeria evacuates Ebola patient to Switzerland",
@@ -472,7 +468,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Trump administration illegally fired Maurene Comey, judge rules",
       "summary": [
         "Financial Times：Trump administration illegally fired Maurene Comey, judge rules",
@@ -489,6 +485,27 @@
           "source": "Washington Post",
           "title": "DOJ unlawfully fired Maurene Comey, daughter of former FBI director, judge rules",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTTMtckpXeHZoTDRfcTJ2YmJhbzZ3cmlKN05EZ3NHTm9TcW9KMnZjMEZGRlRab0YwcHp3S3RrWW00Qm5sS0VKNTM2VW1YRjJFcTJRZW5FQkFqRnIyZFZJMXpqbnlDNE9SYnpVdGpJUUp6ekt0ZnFsRFpVaTdoRjROZXR1cUh0am1wY3BIQ0ZZMzBkWG80clBQU1lYbEpYXzBXRGNSbkdMVWxBbC1hbjIyT3JWMHhVNFRGWlZTcnlNMk1HQ3VKOXJEbU1NRXgyNGFJTGc?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Pope in 'good health' and trip to South America will go ahead as planned",
+      "summary": [
+        "Sky News：Pope in 'good health' and trip to South America will go ahead as planned",
+        "BBC World：Pope's South American trip to go ahead as planned after lung cancer surgery"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Sky News",
+          "title": "Pope in 'good health' and trip to South America will go ahead as planned",
+          "url": "https://news.sky.com/story/pope-in-good-health-and-trip-to-south-america-will-go-ahead-as-planned-vatican-says-13604112"
+        },
+        {
+          "source": "BBC World",
+          "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
+          "url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
