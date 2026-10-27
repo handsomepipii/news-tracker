@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 02:22",
+  "updated_at": "2026-10-28 03:30",
   "taiwan": [
     {
       "rank": 1,
@@ -35,54 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "宏達電推個人AI新品VIVEE 搶攻AI陪伴商機- 新聞",
-      "summary": [
-        "MoneyDJ理財網：宏達電推個人AI新品VIVEE 搶攻AI陪伴商機- 新聞",
-        "工商時報：強茂、臺半、德微卡位AI電源升級潮- 日報",
-        "自由時報：明華園重返屏東 孫翠鳳領軍演出《李靖斬龍》"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "宏達電推個人AI新品VIVEE 搶攻AI陪伴商機- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT191V09GcEh3R3RYUVp1ZklRZ3gzWllKU1RBSVFoMW5FbTNHcURZb2x0OERyUGFJZU9WM09lMHVQQ2ZtZ1NsekYxd3phR0dpNXQ1b0lzSlpZNlJzN3k5aXBlNDhXeS1Dc3FrQlZMSnhOaUptNzZqZkstUmJnSm1ROGZfVy11bEEzNjVJQjY1MW9vdw?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "強茂、臺半、德微卡位AI電源升級潮- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ydDlwOXFTVkJjOHdscUFlMEVLMFZzNVlmbm5nRzk5VXZpb1UzWFJSQ2hQVUFHM1ZLYzU0REhEUFB1Y3BsTXRodFQ0czByRndKMmJ0TjhVcktBRS1YN29v?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "明華園重返屏東 孫翠鳳領軍演出《李靖斬龍》",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5620626"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "以色列大選登場　選民對尼坦雅胡及右傾走向表態",
-      "summary": [
-        "經濟日報：以色列大選登場　選民對尼坦雅胡及右傾走向表態",
-        "風傳媒：以色列大選：納坦雅胡主打「恐懼牌」，頭號對手是兒子戰死加薩的前以軍參謀總長 | 李忠謙 | 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "以色列大選登場　選民對尼坦雅胡及右傾走向表態",
-          "url": "https://money.udn.com/money/story/5599/9839848"
-        },
-        {
-          "source": "風傳媒",
-          "title": "以色列大選：納坦雅胡主打「恐懼牌」，頭號對手是兒子戰死加薩的前以軍參謀總長 | 李忠謙 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fa2ZZRVRJWVN3enV4UW1uS1pWWE5mNlFvbzJWNVdVN0F1SnF2UWlEZ3FpUnk5dW9BV1VTX2hQN1NBMVFPVUpBWDh1T0lsUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "葉門青年運動：發射飛彈擊中沙烏地最大煉油廠",
       "summary": [
         "經濟日報：葉門青年運動：發射飛彈擊中沙烏地最大煉油廠",
@@ -103,70 +55,28 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "搶攻量子運算！英特爾收購以色列新創 Classiq，打造軟硬體全堆疊平臺",
+      "rank": 3,
+      "title": "以色列國會大選激戰 投票率創49年同期紀錄",
       "summary": [
-        "科技新報：搶攻量子運算！英特爾收購以色列新創 Classiq，打造軟硬體全堆疊平臺",
-        "INSIDE硬塞：Intel 宣佈收購量子軟體公司 Classiq，推進全端量子運算平臺"
+        "自由時報：以色列國會大選激戰 投票率創49年同期紀錄",
+        "經濟日報：以色列大選投票率破紀錄　對尼坦雅胡戰時表現作評斷"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "科技新報",
-          "title": "搶攻量子運算！英特爾收購以色列新創 Classiq，打造軟硬體全堆疊平臺",
-          "url": "https://technews.tw/2026/10/27/intel-buy-quantum-computing-startup-classiq/"
+          "source": "自由時報",
+          "title": "以色列國會大選激戰 投票率創49年同期紀錄",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620788"
         },
-        {
-          "source": "INSIDE硬塞",
-          "title": "Intel 宣佈收購量子軟體公司 Classiq，推進全端量子運算平臺",
-          "url": "https://www.inside.com.tw/article/42742-intel-to-acquire-classiq-full-stack-quantum-computing-platform"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "AI 需求暴增 1 萬倍！Pat Gelsinger：AI 非泡沫，產業迎 20 年超級週期",
-      "summary": [
-        "科技新報：AI 需求暴增 1 萬倍！Pat Gelsinger：AI 非泡沫，產業迎 20 年超級週期",
-        "科技報橘：季辛格：AI 運算效率得提升萬倍，下一代運算如何突破實體限制？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "AI 需求暴增 1 萬倍！Pat Gelsinger：AI 非泡沫，產業迎 20 年超級週期",
-          "url": "https://technews.tw/2026/10/27/2026-playground-pat-gelsinger/"
-        },
-        {
-          "source": "科技報橘",
-          "title": "季辛格：AI 運算效率得提升萬倍，下一代運算如何突破實體限制？",
-          "url": "https://techorange.com/2026/10/27/playground-global-pat-gelsinger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "GMO拒付駭客百萬美元　籲使用者關閉裝置電源",
-      "summary": [
-        "經濟日報：GMO拒付駭客百萬美元　籲使用者關閉裝置電源",
-        "科技新報：GMO 拒付駭客百萬美元，籲使用者關閉裝置電源"
-      ],
-      "media_count": 2,
-      "links": [
         {
           "source": "經濟日報",
-          "title": "GMO拒付駭客百萬美元　籲使用者關閉裝置電源",
-          "url": "https://money.udn.com/money/story/5599/9839897"
-        },
-        {
-          "source": "科技新報",
-          "title": "GMO 拒付駭客百萬美元，籲使用者關閉裝置電源",
-          "url": "https://infosecu.technews.tw/2026/10/27/gmo-refuses-pay-hackers-millions-urges-users-power-off-devices/"
+          "title": "以色列大選投票率破紀錄　對尼坦雅胡戰時表現作評斷",
+          "url": "https://money.udn.com/money/story/5599/9841022"
         }
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
       "title": "河口湖命案疑殺妻詐保　網嘆「4人被金錢誘惑」：根本底層悲劇",
       "summary": [
         "ETtoday：河口湖命案疑殺妻詐保　網嘆「4人被金錢誘惑」：根本底層悲劇",
@@ -187,7 +97,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "Anthropic 提交 IPO 重振市場信心，日韓股市領漲亞股",
       "summary": [
         "科技新報：Anthropic 提交 IPO 重振市場信心，日韓股市領漲亞股",
@@ -208,7 +118,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "輝達投資Meta近1000億元　深化個人AI代理Muse合作",
       "summary": [
         "經濟日報：輝達投資Meta近1000億元　深化個人AI代理Muse合作",
@@ -227,24 +137,102 @@
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5620559"
         }
       ]
+    },
+    {
+      "rank": 7,
+      "title": "反映Z世代追求極致心態 「maxxing」獲選線上詞典年度代表字",
+      "summary": [
+        "自由時報：反映Z世代追求極致心態 「maxxing」獲選線上詞典年度代表字",
+        "經濟日報：Z世代追求極致成潮流　Maxxing入選字典網站年度代表字"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "反映Z世代追求極致心態 「maxxing」獲選線上詞典年度代表字",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620474"
+        },
+        {
+          "source": "經濟日報",
+          "title": "Z世代追求極致成潮流　Maxxing入選字典網站年度代表字",
+          "url": "https://money.udn.com/money/story/5599/9840950"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "賴士葆找財源要求普發2萬 卓榮泰：政府預算全砍 發10萬也可以！",
+      "summary": [
+        "中時新聞：賴士葆找財源要求普發2萬 卓榮泰：政府預算全砍 發10萬也可以！",
+        "工商時報：普發現金2萬元朝野交鋒！卓榮泰反嗆：預算全砍發10萬元也可以- 要聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "賴士葆找財源要求普發2萬 卓榮泰：政府預算全砍 發10萬也可以！",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SNURJbUJuazBDTm1RdUNQeHlWX0tlb2lqNnE4cmxRRWlTNjJhejhwYWhaRFIyLS15dGtWSGR5SUI4Zm9DNE9hTTVST3FRV3c2WmdUYUpZMmZwbG80VWZJTkh0X0Zfai1CVnMwY2l3?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "普發現金2萬元朝野交鋒！卓榮泰反嗆：預算全砍發10萬元也可以- 要聞",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhYU5hNmEzOHFiSXF0NEVRVXlpZjJZbXJyTXNEZlVxMS1WWHowZTV0WWVaXzAyUVlWaUVQN0VjRXRBZWV6Y1NzcXhCcXJpdlVmOUIwZUszbnppTWRKUkk0?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "河口湖命案　日媒訪店員：嫌犯購刀時神色異常",
+      "summary": [
+        "經濟日報：河口湖命案　日媒訪店員：嫌犯購刀時神色異常",
+        "自由時報：河口湖命案 日媒訪店員：嫌犯購刀時神色異常"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "河口湖命案　日媒訪店員：嫌犯購刀時神色異常",
+          "url": "https://money.udn.com/money/story/5599/9840656"
+        },
+        {
+          "source": "自由時報",
+          "title": "河口湖命案 日媒訪店員：嫌犯購刀時神色異常",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5620767"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "塞爾維亞政壇變天　中國一帶一路相關工程事故成導火線",
+      "summary": [
+        "經濟日報：塞爾維亞政壇變天　中國一帶一路相關工程事故成導火線",
+        "自由時報：塞爾維亞政壇變天 中國一帶一路相關工程事故成導火線"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "塞爾維亞政壇變天　中國一帶一路相關工程事故成導火線",
+          "url": "https://money.udn.com/money/story/5599/9840701"
+        },
+        {
+          "source": "自由時報",
+          "title": "塞爾維亞政壇變天 中國一帶一路相關工程事故成導火線",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620791"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Nvidia, Meta partner on Muse agent as Nvidia invests $3 billion",
+      "title": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
       "summary": [
-        "Investing.com：Nvidia, Meta partner on Muse agent as Nvidia invests $3 billion",
         "CNBC：Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
         "Yahoo Finance：Nvidia to invest $3 bln in Meta share offering as part of bigger AI partnership"
       ],
-      "media_count": 3,
+      "media_count": 2,
       "links": [
-        {
-          "source": "Investing.com",
-          "title": "Nvidia, Meta partner on Muse agent as Nvidia invests $3 billion",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-meta-partner-on-muse-agent-as-nvidia-invests-3-billion-4974243"
-        },
         {
           "source": "CNBC",
           "title": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
@@ -259,69 +247,6 @@
     },
     {
       "rank": 2,
-      "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
-      "summary": [
-        "BBC World：Major Chinese brands drop Mbappé as backlash grows over Mao joke",
-        "Nikkei Asia：Chinese brands drop soccer star Kylian Mbappe for 'offending' nation"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
-          "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "Chinese brands drop soccer star Kylian Mbappe for 'offending' nation",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVIycFhJd2JnQ091NDY4QXFhdUlYZlQ0UGN5WnR3eVltb21vaXY3S0Z5UFpsZEhEb09rNFJjNWg3WW1nRnlnT3Z0R0Zib3hKNEVIQjVhY3hsekJkWEg5bkpwbHdQVzI4OXVncmVGY1c5UVBleGx2eXhNZE1peW9HOWxWOFFWcmJKaURKMHcwN296SnFwTDlET1MzLXBxY1ZCSGQ0YS1DU2Vnc3M?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Anthropic IPO Reignites AI Trade in Asia",
-      "summary": [
-        "Bloomberg Markets：Anthropic IPO Reignites AI Trade in Asia",
-        "Bloomberg Tech：What Anthropic's IPO Means for the AI Trade"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic IPO Reignites AI Trade in Asia",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-27/insight-with-haslinda-amin-10-27-2026-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "What Anthropic's IPO Means for the AI Trade",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-27/what-anthropic-s-ipo-means-for-the-ai-trade-video"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Porsche profit rebounds in nine-month period after restructuring costs",
-      "summary": [
-        "Investing.com：Porsche profit rebounds in nine-month period after restructuring costs",
-        "CNBC：Porsche profit rebounds as luxury carmaker reduces exposure to China"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Porsche profit rebounds in nine-month period after restructuring costs",
-          "url": "https://www.investing.com/news/stock-market-news/porsche-profit-rebounds-in-ninemonth-period-after-restructuring-costs-4974263"
-        },
-        {
-          "source": "CNBC",
-          "title": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
-          "url": "https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Israel heads to polls for pivotal election defined by security and democracy",
       "summary": [
         "BBC World：Israel heads to polls for pivotal election defined by security and democracy",
@@ -342,7 +267,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 3,
       "title": "Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
       "summary": [
         "Bloomberg Markets：Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
@@ -363,7 +288,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "Russia and Ukraine begin local ceasefire in frontline city",
       "summary": [
         "Financial Times：Russia and Ukraine begin local ceasefire in frontline city",
@@ -384,7 +309,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "GM will switch to Nasdaq from the NYSE on Nov. 17",
       "summary": [
         "CNBC：GM will switch to Nasdaq from the NYSE on Nov. 17",
@@ -405,7 +330,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
       "summary": [
         "BBC World：Flávio Bolsonaro's passports cancelled after he fails to surrender them",
@@ -426,7 +351,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
       "summary": [
         "Bloomberg Markets：SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
@@ -443,6 +368,57 @@
           "source": "Investing.com",
           "title": "SEC’s Atkins seeks changes to crowdfunding regulations",
           "url": "https://www.investing.com/news/stock-market-news/secs-atkins-seeks-changes-to-crowdfunding-regulations-4976569"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
+      "summary": [
+        "Bloomberg Tech：Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
+        "Investing.com：Crusoe CEO defends CoreWeave amid selloff"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-27/crusoe-ceo-defends-rival-coreweave-calls-selloff-overblown"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Crusoe CEO defends CoreWeave amid selloff",
+          "url": "https://www.investing.com/news/stock-market-news/crusoe-ceo-defends-coreweave-amid-selloff-4976608"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Why is Standard Chartered stock sliding today?",
+      "summary": [
+        "Investing.com：Why is Standard Chartered stock sliding today?"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Why is Standard Chartered stock sliding today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-standard-chartered-stock-sliding-today-93CH-4974510"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRTdXVmNBYVg4RlI5cnZxR0xrWm5IOHFpNlR2eE1WbFljSm9YclVrTkUzMXFreFAycl9uUjZTVjB1dGI1dkwyZk5uQ0Zycng2WEItUUJRTVY0QXVOdUtpM3FlbWpsT1pDY1MtSm1OdDF3NnN5M2VBdmE5Y2FscWJqU1lVaklydHZLWWtOOVlhRmo1RTZYY0RaQmw1bTBpcXJIQk1NWFYxaHY3SVBm?oc=5"
         }
       ]
     }
