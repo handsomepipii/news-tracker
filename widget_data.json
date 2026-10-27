@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 23:29",
+  "updated_at": "2026-10-28 00:27",
   "taiwan": [
     {
       "rank": 1,
@@ -35,38 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "AI太燒錢！微軟擴大自願離職方案 6萬名員工符合資格、佔全球人力近3成",
-      "summary": [
-        "工商時報：AI太燒錢！微軟擴大自願離職方案 6萬名員工符合資格、佔全球人力近3成",
-        "數位時代：微軟啟動大規模精簡！向6萬員工發放「自願離職」方案，佔總人力1/4",
-        "科技新報：微軟自願離職方案 6 萬人適用，AI 投資下的成本大瘦身"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "AI太燒錢！微軟擴大自願離職方案 6萬名員工符合資格、佔全球人力近3成",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtMk9LRGdYWTV1QTV6WlhNaHZoWGcxVDlXM2lLZFFwTEdQWmVBMUgtdFlDNXJ1eW53ZUhrMlNtSWNDQUJBdHZIQk50YUw1VjlJTWxwNU5FWXlWX0lvUzZB?oc=5"
-        },
-        {
-          "source": "數位時代",
-          "title": "微軟啟動大規模精簡！向6萬員工發放「自願離職」方案，佔總人力1/4",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZllQR1RVQzdZdHV4MEVuZGtwZmp2ZG1NcnZCUnR3ZTJNQzUzemxlTmhuWWstemVXdmN4ZnpRaEZ2XzRmWjdLR1J5dm0zcUx3bUFwV0RmX1E2NnNJaEFOUUF4cmFlNU9xNERMcEpJUmdydlUyc2I2dXhUSlNzb21uYUNlZExJdVJCZVdMOVdn?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "微軟自願離職方案 6 萬人適用，AI 投資下的成本大瘦身",
-          "url": "https://technews.tw/2026/10/27/microsoft-plans-buyout-offers-for-60000-workers-as-it-seeks-to-cut-costs/"
-        },
-        {
-          "source": "科技報橘",
-          "title": "微軟向 6 萬名員工提出自願離職方案：一邊控制成本、一邊加碼 AI 資料中心",
-          "url": "https://techorange.com/2026/10/27/microsoft-buyout-ai-layoff-xbox/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "河口湖命案主嫌分身帳號曝！赫見沈伯洋在好友名單",
       "summary": [
         "ETtoday：河口湖命案主嫌分身帳號曝！赫見沈伯洋在好友名單",
@@ -93,97 +61,49 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
+      "rank": 3,
+      "title": "以色列大選登場　選民對尼坦雅胡及右傾走向表態",
       "summary": [
-        "ETtoday：諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
-        "經濟日報：沒拿諾貝爾和平獎氣炸！川普怒轟「屎坑國家」挪威回應了",
-        "自由時報：川普因沒拿到諾貝爾和平獎痛罵 挪威外長反擊"
+        "經濟日報：以色列大選登場　選民對尼坦雅胡及右傾走向表態",
+        "風傳媒：以色列大選：納坦雅胡主打「恐懼牌」，頭號對手是兒子戰死加薩的前以軍參謀總長 | 李忠謙 | 新聞"
       ],
-      "media_count": 3,
+      "media_count": 2,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
-          "url": "https://www.ettoday.net/news/20261027/3261377.htm"
+          "source": "經濟日報",
+          "title": "以色列大選登場　選民對尼坦雅胡及右傾走向表態",
+          "url": "https://money.udn.com/money/story/5599/9839848"
         },
         {
+          "source": "風傳媒",
+          "title": "以色列大選：納坦雅胡主打「恐懼牌」，頭號對手是兒子戰死加薩的前以軍參謀總長 | 李忠謙 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fa2ZZRVRJWVN3enV4UW1uS1pWWE5mNlFvbzJWNVdVN0F1SnF2UWlEZ3FpUnk5dW9BV1VTX2hQN1NBMVFPVUpBWDh1T0lsUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "葉門青年運動：發射飛彈擊中沙烏地最大煉油廠",
+      "summary": [
+        "經濟日報：葉門青年運動：發射飛彈擊中沙烏地最大煉油廠",
+        "自由時報：葉門叛軍青年運動宣稱飛彈襲沙國煉油廠！沙烏地當局尚未證實"
+      ],
+      "media_count": 2,
+      "links": [
+        {
           "source": "經濟日報",
-          "title": "沒拿諾貝爾和平獎氣炸！川普怒轟「屎坑國家」挪威回應了",
-          "url": "https://money.udn.com/money/story/5599/9839371"
+          "title": "葉門青年運動：發射飛彈擊中沙烏地最大煉油廠",
+          "url": "https://money.udn.com/money/story/5599/9840699"
         },
         {
           "source": "自由時報",
-          "title": "川普因沒拿到諾貝爾和平獎痛罵 挪威外長反擊",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620039"
+          "title": "葉門叛軍青年運動宣稱飛彈襲沙國煉油廠！沙烏地當局尚未證實",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620802"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "臺通緝犯在泰國遭槍殺 ！ 遞槍小弟周昱帆助殺人 高院更一審維持判7年",
-      "summary": [
-        "自由時報：臺通緝犯在泰國遭槍殺 ！ 遞槍小弟周昱帆助殺人 高院更一審維持判7年",
-        "ETtoday：通緝犯石茂強在泰國遭爆頭亡　遞槍共犯更一審仍判7年"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "臺通緝犯在泰國遭槍殺 ！ 遞槍小弟周昱帆助殺人 高院更一審維持判7年",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5619807"
-        },
-        {
-          "source": "ETtoday",
-          "title": "通緝犯石茂強在泰國遭爆頭亡　遞槍共犯更一審仍判7年",
-          "url": "https://www.ettoday.net/news/20261027/3261465.htm"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "世紀民生大健康佈局出海 朝和生醫攜翁立友攻大馬 雲頂萬人演唱會加場",
-      "summary": [
-        "財訊：世紀民生大健康佈局出海 朝和生醫攜翁立友攻大馬 雲頂萬人演唱會加場",
-        "商業周刊：世紀民生大健康佈局出海朝和生醫攜翁立友攻大馬 雲頂萬人演唱會加場"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "財訊",
-          "title": "世紀民生大健康佈局出海 朝和生醫攜翁立友攻大馬 雲頂萬人演唱會加場",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TaVZfdFd5SThULV9zUU5hNUJsSWNoV3E3bWRuMzhsZVJyWFdfQ2FmbzMtU1ExSnp6M0tJcjhlWUYwY0hDbUJhYTh6enNZNWw1dGsxT2p2Q2xyYkt0TWw5VmdUbVZLbzlYalI2V2pOZlhUQ3Y5M2EwTWFQQQ?oc=5"
-        },
-        {
-          "source": "商業周刊",
-          "title": "世紀民生大健康佈局出海朝和生醫攜翁立友攻大馬 雲頂萬人演唱會加場",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxeGwyMVNqUEFjOTlDWWxkeko1eFZ3bTc4ZGRENmc3d0kyYjZ6WE54MjJPZ0lJNG9KS3NuX0ZzQ3BvTlBjSDhYMk1OYlNkclJDLVVEMlNpMXBad0VUMHFfQWRGMA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "CNBC：日銀擬維持利率　但未來升息機率高",
-      "summary": [
-        "經濟日報：CNBC：日銀擬維持利率　但未來升息機率高",
-        "科技新報：CNBC：日銀擬維持利率，但未來升息機率高"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "CNBC：日銀擬維持利率　但未來升息機率高",
-          "url": "https://money.udn.com/money/story/5599/9839350"
-        },
-        {
-          "source": "科技新報",
-          "title": "CNBC：日銀擬維持利率，但未來升息機率高",
-          "url": "https://finance.technews.tw/2026/10/27/bank-of-japan-is-expected-to-hold-rates-this-week/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "iPhone Duo扛過7.5萬次摺疊測試　沒想到最後「輕輕放下就壞了」",
       "summary": [
         "ETtoday：iPhone Duo扛過7.5萬次摺疊測試　沒想到最後「輕輕放下就壞了」",
@@ -204,7 +124,28 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
+      "title": "微軟自願離職方案 6 萬人適用，AI 投資下的成本大瘦身",
+      "summary": [
+        "科技新報：微軟自願離職方案 6 萬人適用，AI 投資下的成本大瘦身",
+        "科技報橘：微軟向 6 萬名員工提出自願離職方案：一邊控制成本、一邊加碼 AI 資料中心"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "微軟自願離職方案 6 萬人適用，AI 投資下的成本大瘦身",
+          "url": "https://technews.tw/2026/10/27/microsoft-plans-buyout-offers-for-60000-workers-as-it-seeks-to-cut-costs/"
+        },
+        {
+          "source": "科技報橘",
+          "title": "微軟向 6 萬名員工提出自願離職方案：一邊控制成本、一邊加碼 AI 資料中心",
+          "url": "https://techorange.com/2026/10/27/microsoft-buyout-ai-layoff-xbox/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "日本漫畫巨匠千葉徹彌87歲逝世　「小拳王」寫下經典",
       "summary": [
         "經濟日報：日本漫畫巨匠千葉徹彌87歲逝世　「小拳王」寫下經典",
@@ -225,7 +166,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半",
       "summary": [
         "科技新報：OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半",
@@ -242,6 +183,48 @@
           "source": "iThome",
           "title": "OpenAI新模型GPT-6.1 Terra強化視覺與電腦操作，API價格僅Sol一半",
           "url": "https://www.ithome.com.tw/news/179985"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "iPhone Duo 災情致新日興股價重挫，後續關注良率",
+      "summary": [
+        "科技新報：iPhone Duo 災情致新日興股價重挫，後續關注良率",
+        "MoneyDJ理財網：iPhone Duo災情致新日興股價重挫，後續關注良率- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "iPhone Duo 災情致新日興股價重挫，後續關注良率",
+          "url": "https://technews.tw/2026/10/27/iphone-duo-screen-issues-send-szs-shares-tumbling/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "iPhone Duo災情致新日興股價重挫，後續關注良率- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGVjTFc4dGNFa20tZ3JLOEY3cW9FcjNQTE1BUjhVR0pXaUlwNnJYaG9lNzVENmJzeF9FbjNhbjI3SnNoSmNINkdhVXVZb0pOSW1oTEloYTFaMktBdHd5SFd6RVRGT29aX1pKYUlmbk5COEZ4aFlGY2lLWU5nYU5DOHF1R090X1pwekpWZnNBdlI2Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "搶攻量子運算！英特爾收購以色列新創 Classiq，打造軟硬體全堆疊平臺",
+      "summary": [
+        "科技新報：搶攻量子運算！英特爾收購以色列新創 Classiq，打造軟硬體全堆疊平臺",
+        "INSIDE硬塞：Intel 宣佈收購量子軟體公司 Classiq，推進全端量子運算平臺"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "搶攻量子運算！英特爾收購以色列新創 Classiq，打造軟硬體全堆疊平臺",
+          "url": "https://technews.tw/2026/10/27/intel-buy-quantum-computing-startup-classiq/"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "Intel 宣佈收購量子軟體公司 Classiq，推進全端量子運算平臺",
+          "url": "https://www.inside.com.tw/article/42742-intel-to-acquire-classiq-full-stack-quantum-computing-platform"
         }
       ]
     }
@@ -357,90 +340,6 @@
     },
     {
       "rank": 5,
-      "title": "CDC’s deputy director to leave Trump administration after six months",
-      "summary": [
-        "Washington Post：CDC’s deputy director to leave Trump administration after six months",
-        "Investing.com：CDC deputy director to leave Trump administration, paper says"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "CDC’s deputy director to leave Trump administration after six months",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnlWOGs4V2F4Mm8xQ2p0Ul9OaHlWMW41ZlFsMmwxLVZfa3B6RmdabF9oLW4wb2phNWczd1RMeXJ1RC14NlVwVGgxX0hwTzJfSVBZdFFWQ3JEQlppekRVOHp4ZnlBTVFSM1RpSUstc3hvU2sxYktSTVVLN1hjUUFxWElOVFR5NnF5QklTMmloMFE3MVhVMHZYMGJFMDVUTUducl9WR2hEbGdydmVmeFhVRWxDcHRfUDBpck9J?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "CDC deputy director to leave Trump administration, paper says",
-          "url": "https://www.investing.com/news/stock-market-news/cdc-deputy-director-jennifer-shuford-to-leave-trump-administration-washington-post-reports-4974147"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Anthropic's IPO filing reveals $430 billion in locked-in AI computing: Chart of the Day",
-      "summary": [
-        "Yahoo Finance：Anthropic's IPO filing reveals $430 billion in locked-in AI computing: Chart of the Day",
-        "Bloomberg Tech：Anthropic IPO Filing Reveals $417 Billion in Future AI Spending"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Anthropic's IPO filing reveals $430 billion in locked-in AI computing: Chart of the Day",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbE51NDUwd0ppb0ctckJ1TEkzV0Z4aUJXcEQ5Rk9MQlJiZVY0M1RYTTZSOWhUb0dGQzV3NHVwY0pXaDNkWnhzVzdLNTF1elZuUHVXMDNNaW0wUE1FVHJFZG9pVEowaUNpMWpVQS15VDROQ0RzWUFnOFc0VnB1eXJLeFNBeWdLeHprZUJnZjFnMUlVT0gtUDlWam8tMkVSZXZiYWplWUlWaWhxQ2MxWVhYNjVjVzVlY2lKU1cxZ1R0Nm9GM2hJc3ZxR213b0NoQ1BwTjlrV29Ba0c?oc=5"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic IPO Filing Reveals $417 Billion in Future AI Spending",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-10-27/anthropic-ipo-filing-reveals-417-billion-in-future-ai-spending"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Microsoft offers voluntary buyout to 60,000 employees",
-      "summary": [
-        "Yahoo Finance：Microsoft offers voluntary buyout to 60,000 employees",
-        "Tom's Hardware：60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Microsoft offers voluntary buyout to 60,000 employees",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWlMcnRsRmpDZ2dvdUJwSHozZVJYZzVMY21SakNwd3ZKWUFMX25xX19wVjVUQnh1NkllWEN4RjZXYTVMR2JUVEoxczlfeVRlbGRpY2Y0bDczYUotQXJacVJHNS1FT0FfTXBFVXRPNGk3VG50SGszb2c3MHNvQnRHVE5BcHBETzc4dFVzaU1GTm5oMTU3X2NOUElCWGxNa2tjUGVpVk4zUGRXSi1QMGNsRVln?oc=5"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite",
-          "url": "https://www.tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
-      "summary": [
-        "Yahoo Finance：Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
-        "CNBC：Fed expected to hold rates steady, but Warsh may point way to more hikes"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV1NyNS1zejVOVGJGN2lpNFRDbnRBajBKbi10NDFjNWtKWWJjNUpYdzNVTjB2cl9Cd0ZyLXJkS0tfTzFlTjBaT0YyS1d0YnJ0Q3RLYnNyaFZUd3QwS3V5Q3g1cWNrRmdEVXhobElocmVwbUg0c0FGTld3ZE53N2FqcVRfcWFMb1pVZTd5U3I2X1hVTkJIX20yOXdscGNIV21IRzNheXFtRENiZ2lhSTFQaFZzMDdILUZGWkc2NWYwOTNPcWlfbnU5SzJmUWtXMlJLTktfMVh1bzZLU0FXRHl1VHZCLWlzb0Z4RTRaMnp5MmY2eU9KSk5j?oc=5"
-        },
-        {
-          "source": "CNBC",
-          "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-          "url": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Anthropic IPO Reignites AI Trade in Asia",
       "summary": [
         "Bloomberg Markets：Anthropic IPO Reignites AI Trade in Asia",
@@ -461,7 +360,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "Porsche profit rebounds in nine-month period after restructuring costs",
       "summary": [
         "Investing.com：Porsche profit rebounds in nine-month period after restructuring costs",
@@ -478,6 +377,84 @@
           "source": "CNBC",
           "title": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
           "url": "https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
+      "summary": [
+        "Bloomberg Markets：Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
+        "Financial Times：Pop Mart sales fall up to 50% as Labubu fever ebbs"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-27/pop-mart-s-quarterly-sales-drop-on-high-base-sluggish-demand"
+        },
+        {
+          "source": "Financial Times",
+          "title": "Pop Mart sales fall up to 50% as Labubu fever ebbs",
+          "url": "https://www.ft.com/content/0025f8af-d34a-4170-bbae-31dce32e45c6?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Russia and Ukraine begin local ceasefire in frontline city",
+      "summary": [
+        "Financial Times：Russia and Ukraine begin local ceasefire in frontline city",
+        "CNBC：Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "Russia and Ukraine begin local ceasefire in frontline city",
+          "url": "https://www.ft.com/content/9aedc2d9-dc92-4412-bc5a-d5ffecf4d8d9"
+        },
+        {
+          "source": "CNBC",
+          "title": "Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine",
+          "url": "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "GM will switch to Nasdaq from the NYSE on Nov. 17",
+      "summary": [
+        "CNBC：GM will switch to Nasdaq from the NYSE on Nov. 17",
+        "Financial Times：GM to switch listing from NYSE to Nasdaq as it accelerates AI push"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "GM will switch to Nasdaq from the NYSE on Nov. 17",
+          "url": "https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html"
+        },
+        {
+          "source": "Financial Times",
+          "title": "GM to switch listing from NYSE to Nasdaq as it accelerates AI push",
+          "url": "https://www.ft.com/content/01467514-66c1-4375-9906-45a47b949270?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORDhIV1BOcDFicXVFMEc1dFotYVRMdVpEczlTek5kaTJpZ2cwTExjUDFJQTh4TnA0VUxIajRHTEZhOTcwbGpnVUlUb0psVE5XczM5V3FHNmEwZXk1TDRHVzlkOUtSc2ZrVlJzZnZiLTdDOHlqNVE4eC03NkMycjdvR2JlLUpLaFBqMGtN?oc=5"
         }
       ]
     }
