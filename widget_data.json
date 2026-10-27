@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 11:41",
+  "updated_at": "2026-10-27 12:15",
   "taiwan": [
     {
       "rank": 1,
@@ -40,70 +40,6 @@
     },
     {
       "rank": 2,
-      "title": "南崁五福宮喜迎365週年 宋坤傳藝10/31廟埕演出《酬神》",
-      "summary": [
-        "自由時報：南崁五福宮喜迎365週年 宋坤傳藝10/31廟埕演出《酬神》",
-        "新頭殼：臺中市長選戰交鋒　江啟臣主打安全、何欣純推青年局",
-        "鏡週刊：王文洋摔床骨折2／呂安妮爆新戀情！男方身分曝光　11字斷開與王文洋師生戀"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "南崁五福宮喜迎365週年 宋坤傳藝10/31廟埕演出《酬神》",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5619544"
-        },
-        {
-          "source": "新頭殼",
-          "title": "臺中市長選戰交鋒　江啟臣主打安全、何欣純推青年局",
-          "url": "https://newtalk.tw/news/view/2026-10-26/1067560"
-        },
-        {
-          "source": "鏡週刊",
-          "title": "王文洋摔床骨折2／呂安妮爆新戀情！男方身分曝光　11字斷開與王文洋師生戀",
-          "url": "https://www.mirrormedia.mg/story/20261026ent007"
-        },
-        {
-          "source": "ETtoday",
-          "title": "80週年賀禮化作公益　IEAT與熊本縣商工會議所傳愛體惠育幼院",
-          "url": "https://finance.ettoday.net/news/3261380"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "金鐘獎／莊凱勛淚奪視帝高喊：我是臺灣演員！　3聲道超暖致詞感動全場",
-      "summary": [
-        "ETtoday：金鐘獎／莊凱勛淚奪視帝高喊：我是臺灣演員！　3聲道超暖致詞感動全場",
-        "鏡週刊：金鐘61／莊凱勛《都市開基祖》奪金鐘影帝　臺語喊「我是臺灣的演員」",
-        "新頭殼：(影)金鐘61》莊凱勛奪影帝三聲道致詞！霸氣高喊「我是臺灣演員」網狂讚：帥炸"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "金鐘獎／莊凱勛淚奪視帝高喊：我是臺灣演員！　3聲道超暖致詞感動全場",
-          "url": "https://star.ettoday.net/news/3260659"
-        },
-        {
-          "source": "鏡週刊",
-          "title": "金鐘61／莊凱勛《都市開基祖》奪金鐘影帝　臺語喊「我是臺灣的演員」",
-          "url": "https://www.mirrormedia.mg/story/20261026ent019"
-        },
-        {
-          "source": "新頭殼",
-          "title": "(影)金鐘61》莊凱勛奪影帝三聲道致詞！霸氣高喊「我是臺灣演員」網狂讚：帥炸",
-          "url": "https://newtalk.tw/news/view/2026-10-26/1067557"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "金鐘61／睽違11年再封帝! 莊凱勛奪戲劇視帝高喊「我是臺灣演員」｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtT2pQcmprQ3hTUTBIZFpNMEhOX1dESGppZ0NGOWxvWnZHQklXQUowTWFTVkNpMkZBWGxNeHM2YjItVm5nWnp2T3lkb0kycFhjSElFcjh3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "傳福斯考慮將中國車用軟體匯入歐洲",
       "summary": [
         "自由時報：傳福斯考慮將中國車用軟體匯入歐洲",
@@ -130,7 +66,34 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "title": "iPhone Duo螢幕破裂災情！蘋果證實少數有問題  可申請換機",
+      "summary": [
+        "自由時報：iPhone Duo螢幕破裂災情！蘋果證實少數有問題  可申請換機",
+        "科技新報：蘋果證實 iPhone Duo 螢幕異常災情，受影響者可申請更換",
+        "經濟日報：蘋果承認少數iPhone Duo螢幕異常　將為受影響使用者換機"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "iPhone Duo螢幕破裂災情！蘋果證實少數有問題  可申請換機",
+          "url": "https://3c.ltn.com.tw/news/68082"
+        },
+        {
+          "source": "科技新報",
+          "title": "蘋果證實 iPhone Duo 螢幕異常災情，受影響者可申請更換",
+          "url": "https://technews.tw/2026/10/27/apple-confirms-iphone-duo-broken-display-issues/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "蘋果承認少數iPhone Duo螢幕異常　將為受影響使用者換機",
+          "url": "https://money.udn.com/money/story/123398/9839373"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Anthropic募資估逾千億美元　阿莫戴：偉大歷史機遇",
       "summary": [
         "經濟日報：Anthropic募資估逾千億美元　阿莫戴：偉大歷史機遇",
@@ -157,7 +120,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "快訊》臺北市長候選人號次出爐！沈伯洋3號「臺北靠3」、蔣萬安5號「5告讚」",
       "summary": [
         "新頭殼：快訊》臺北市長候選人號次出爐！沈伯洋3號「臺北靠3」、蔣萬安5號「5告讚」",
@@ -184,70 +147,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "北京大學等10校學生發宣告　籲廢除中國國家主席無限期延任制",
-      "summary": [
-        "ETtoday：北京大學等10校學生發宣告　籲廢除中國國家主席無限期延任制",
-        "鏡週刊：中共五中全會首日傳北大等10多校學生連署　發公開信要求廢除習近平無限期連任"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "北京大學等10校學生發宣告　籲廢除中國國家主席無限期延任制",
-          "url": "https://www.ettoday.net/news/20261026/3261223.htm"
-        },
-        {
-          "source": "鏡週刊",
-          "title": "中共五中全會首日傳北大等10多校學生連署　發公開信要求廢除習近平無限期連任",
-          "url": "https://www.mirrormedia.mg/story/20261027edi003"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "以色列大選聚焦5大議題　形同對尼坦雅胡領導力公投",
-      "summary": [
-        "經濟日報：以色列大選聚焦5大議題　形同對尼坦雅胡領導力公投",
-        "自由時報：以色列大選聚焦5大議題 形同對尼坦雅胡領導力公投"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "以色列大選聚焦5大議題　形同對尼坦雅胡領導力公投",
-          "url": "https://money.udn.com/money/story/5599/9838510"
-        },
-        {
-          "source": "自由時報",
-          "title": "以色列大選聚焦5大議題 形同對尼坦雅胡領導力公投",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5619615"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "AI熱潮助攻　ASML今年對荷蘭經濟貢獻估達1.6%",
-      "summary": [
-        "經濟日報：AI熱潮助攻　ASML今年對荷蘭經濟貢獻估達1.6%",
-        "科技新報：AI 熱潮助攻，ASML 今年對荷蘭經濟貢獻估達 1.6%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "AI熱潮助攻　ASML今年對荷蘭經濟貢獻估達1.6%",
-          "url": "https://money.udn.com/money/story/5599/9838437"
-        },
-        {
-          "source": "科技新報",
-          "title": "AI 熱潮助攻，ASML 今年對荷蘭經濟貢獻估達 1.6%",
-          "url": "https://technews.tw/2026/10/27/asml-may-account-for-up-to-1-6-of-dutch-economy-in-2026/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 6,
       "title": "國際油價小幅回落　歐洲股市收盤揚升",
       "summary": [
         "經濟日報：國際油價小幅回落　歐洲股市收盤揚升",
@@ -266,48 +166,95 @@
           "url": "https://ec.ltn.com.tw/article/breakingnews/5619630"
         }
       ]
+    },
+    {
+      "rank": 7,
+      "title": "豐田汽車部署機器人軍團 對抗特斯拉與大陸勁敵",
+      "summary": [
+        "經濟日報：豐田汽車部署機器人軍團 對抗特斯拉與大陸勁敵",
+        "科技新報：進軍人型機器人領域，豐田迎戰特斯拉與中國"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "豐田汽車部署機器人軍團 對抗特斯拉與大陸勁敵",
+          "url": "https://money.udn.com/money/story/5599/9838427"
+        },
+        {
+          "source": "科技新報",
+          "title": "進軍人型機器人領域，豐田迎戰特斯拉與中國",
+          "url": "https://technews.tw/2026/10/27/toyota-takes-on-tesla-and-china-in-humanoid-robot-race/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "味全龍6：0完封兄弟奪隊史第6冠 梅賽鍶勇奪臺灣大賽MVP",
+      "summary": [
+        "上報：味全龍6：0完封兄弟奪隊史第6冠 梅賽鍶勇奪臺灣大賽MVP",
+        "鏡週刊：金鐘61／周渝民1票擦身金鐘影帝！楊貴媚氣場強大擊敗謝欣穎　評審曝評選關鍵"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "上報",
+          "title": "味全龍6：0完封兄弟奪隊史第6冠 梅賽鍶勇奪臺灣大賽MVP",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DR3RmbTNRVTJXaGcza0JmcnVLYzdRbm9ZSDRyd1BtamtFZ0lmMVpXZlpDUExiRVpZVURzNjZ0WHRneGxXdzBGSkZGV1lmM2xicFBzSktTSQ?oc=5"
+        },
+        {
+          "source": "鏡週刊",
+          "title": "金鐘61／周渝民1票擦身金鐘影帝！楊貴媚氣場強大擊敗謝欣穎　評審曝評選關鍵",
+          "url": "https://www.mirrormedia.mg/story/20261026ent021"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "教宗良十四世術後復原佳　按照計畫11月出訪南美",
+      "summary": [
+        "自由時報：教宗良十四世術後復原佳　按照計畫11月出訪南美",
+        "經濟日報：教宗良十四世術後復原佳　按照計畫11月出訪南美"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "教宗良十四世術後復原佳　按照計畫11月出訪南美",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5619642"
+        },
+        {
+          "source": "經濟日報",
+          "title": "教宗良十四世術後復原佳　按照計畫11月出訪南美",
+          "url": "https://money.udn.com/money/story/5599/9838632"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "選舉後恐再打伊朗！官員曝美軍已完成準備　川普若下令96小時可出擊",
+      "summary": [
+        "ETtoday：選舉後恐再打伊朗！官員曝美軍已完成準備　川普若下令96小時可出擊",
+        "上報：美軍備妥攻伊朗計畫！川普若下令96小時內開打 美以聯手恐等期中選舉後"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "選舉後恐再打伊朗！官員曝美軍已完成準備　川普若下令96小時可出擊",
+          "url": "https://www.ettoday.net/news/20261027/3261244.htm"
+        },
+        {
+          "source": "上報",
+          "title": "美軍備妥攻伊朗計畫！川普若下令96小時內開打 美以聯手恐等期中選舉後",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xNEJyLUsxR2RTUldRYnAxNFFnU3kyaGI2dG9sT19PY3NzaEowb3BLMkhSU3QzN2hyWU5RaG9HRXplajJFdjhxTWlrT2djVExraDNpdW4xUG9BZkM2Vno0VlFhamhTNzQ?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Microsoft offers voluntary buyouts to 60,000 employees",
-      "summary": [
-        "CNBC World：Microsoft offers voluntary buyouts to 60,000 employees",
-        "TechCrunch：Microsoft offers buyouts to around 60,000 employees, reports say",
-        "The Verge：Microsoft offers buyouts to 60,000 employees"
-      ],
-      "media_count": 5,
-      "links": [
-        {
-          "source": "CNBC World",
-          "title": "Microsoft offers voluntary buyouts to 60,000 employees",
-          "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Microsoft offers buyouts to around 60,000 employees, reports say",
-          "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
-        },
-        {
-          "source": "The Verge",
-          "title": "Microsoft offers buyouts to 60,000 employees",
-          "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible"
-        },
-        {
-          "source": "Financial Times",
-          "title": "Microsoft offers buyouts to 60,000 staff",
-          "url": "https://www.ft.com/content/2ef29406-f2f8-413f-81f6-5ae098c97569?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "Microsoft offers buyouts to 60,000 employees as AI spending mounts",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOTl3d0VSZGF4NHdNektaWTY4YTdoQmczQWZpeU96bVRkSGU2eFl3eTFwVUJJQ19yVjMwUXl0M1NDWjloaUpxd2hJVFRTYU5laW4yOHZjVmlJdHp1LVd3cERpMlNfTExtLWpQa1N6YVNHZ0czOVhvc3J3UWswWGcxa2g3bHF3bFNXbERjXzBJX1J3eldLS0xVVFFaMnNOWWM1WjM2ZmZRbWhPNEVfYldVR3BhQjRxczVGMGdOOGtTOGZteEU2dEdnQk1acDIzSWc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Former FBI director James Comey hit with third set of charges under Trump",
       "summary": [
         "Al Jazeera：Former FBI director James Comey hit with third set of charges under Trump",
@@ -339,29 +286,56 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+      "rank": 2,
+      "title": "Five weird details from Anthropic’s IPO filing",
       "summary": [
-        "The Guardian：UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-        "Sky News：UK sanctions senior Sudanese commanders 'implicated in rape campaign'",
-        "Al Jazeera：Britain sanctions Sudanese commanders over weaponised rape"
+        "The Verge：Five weird details from Anthropic’s IPO filing",
+        "Wired：Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+        "Yahoo Finance：Inside Anthropic's massive — and wild — IPO prospectus"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "The Guardian",
-          "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-          "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of"
+          "source": "The Verge",
+          "title": "Five weird details from Anthropic’s IPO filing",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details"
         },
         {
-          "source": "Sky News",
-          "title": "UK sanctions senior Sudanese commanders 'implicated in rape campaign'",
-          "url": "https://news.sky.com/story/senior-sudanese-commanders-sanctioned-after-being-implicated-in-rape-campaign-says-uk-government-13603953"
+          "source": "Wired",
+          "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+          "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/"
         },
         {
-          "source": "Al Jazeera",
-          "title": "Britain sanctions Sudanese commanders over weaponised rape",
-          "url": "https://www.aljazeera.com/news/2026/10/26/britain-sanctions-sudanese-commanders-over-weaponised-rape?traffic_source=rss"
+          "source": "Yahoo Finance",
+          "title": "Inside Anthropic's massive — and wild — IPO prospectus",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY2trMXJ3ZlJoWEluNmxXOVFmNll2b0lsYW1SVjFIZTBaQjFjWXVNNjZJYV9yS1gzRnU5Uk1VMmI1RE94Vmo0d3U1RFlHenRVSkpYeVFJUlhsUGhURndKV1EzVThuY3FuM3NMSnRoTGRZbzl6RmZtTnpzTEFRUUJGZl84Tk5mUnhNU09sVW5aczRXdXVhX0pic2xQZEJXYjg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Microsoft offers buyouts to 60,000 staff",
+      "summary": [
+        "Financial Times：Microsoft offers buyouts to 60,000 staff",
+        "Nikkei Asia：Microsoft offers buyouts to 60,000 employees as AI spending mounts",
+        "Yahoo Finance：Microsoft offers voluntary buyout to 60,000 employees"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "Microsoft offers buyouts to 60,000 staff",
+          "url": "https://www.ft.com/content/2ef29406-f2f8-413f-81f6-5ae098c97569?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "Microsoft offers buyouts to 60,000 employees as AI spending mounts",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOTl3d0VSZGF4NHdNektaWTY4YTdoQmczQWZpeU96bVRkSGU2eFl3eTFwVUJJQ19yVjMwUXl0M1NDWjloaUpxd2hJVFRTYU5laW4yOHZjVmlJdHp1LVd3cERpMlNfTExtLWpQa1N6YVNHZ0czOVhvc3J3UWswWGcxa2g3bHF3bFNXbERjXzBJX1J3eldLS0xVVFFaMnNOWWM1WjM2ZmZRbWhPNEVfYldVR3BhQjRxczVGMGdOOGtTOGZteEU2dEdnQk1acDIzSWc?oc=5"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Microsoft offers voluntary buyout to 60,000 employees",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWlMcnRsRmpDZ2dvdUJwSHozZVJYZzVMY21SakNwd3ZKWUFMX25xX19wVjVUQnh1NkllWEN4RjZXYTVMR2JUVEoxczlfeVRlbGRpY2Y0bDczYUotQXJacVJHNS1FT0FfTXBFVXRPNGk3VG50SGszb2c3MHNvQnRHVE5BcHBETzc4dFVzaU1GTm5oMTU3X2NOUElCWGxNa2tjUGVpVk4zUGRXSi1QMGNsRVln?oc=5"
         }
       ]
     },
@@ -394,27 +368,6 @@
     },
     {
       "rank": 5,
-      "title": "How 'Lula's Army' WhatsApp chat helped turn Brazil election around",
-      "summary": [
-        "BBC World：How 'Lula's Army' WhatsApp chat helped turn Brazil election around",
-        "Al Jazeera：How a WhatsApp channel helped Lula win Brazil’s election"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "How 'Lula's Army' WhatsApp chat helped turn Brazil election around",
-          "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "How a WhatsApp channel helped Lula win Brazil’s election",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Tens of thousands of Israelis fly home for pivotal election",
       "summary": [
         "Financial Times：Tens of thousands of Israelis fly home for pivotal election",
@@ -431,6 +384,27 @@
           "source": "CNBC World",
           "title": "Israeli election draws tens of thousands of citizens flying back to vote",
           "url": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "UK sanctions senior Sudanese commanders 'implicated in rape campaign'",
+      "summary": [
+        "Sky News：UK sanctions senior Sudanese commanders 'implicated in rape campaign'",
+        "Al Jazeera：Britain sanctions Sudanese commanders over weaponised rape"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Sky News",
+          "title": "UK sanctions senior Sudanese commanders 'implicated in rape campaign'",
+          "url": "https://news.sky.com/story/senior-sudanese-commanders-sanctioned-after-being-implicated-in-rape-campaign-says-uk-government-13603953"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Britain sanctions Sudanese commanders over weaponised rape",
+          "url": "https://www.aljazeera.com/news/2026/10/26/britain-sanctions-sudanese-commanders-over-weaponised-rape?traffic_source=rss"
         }
       ]
     },
