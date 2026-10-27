@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 09:41",
+  "updated_at": "2026-10-27 10:29",
   "taiwan": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
         "新頭殼：金鐘61》《忘了我記得》2小時奪6獎！劉若英代秦漢抱回迷你劇男主角",
         "自由時報：南崁五福宮喜迎365週年 宋坤傳藝10/31廟埕演出《酬神》"
       ],
-      "media_count": 7,
+      "media_count": 9,
       "links": [
         {
           "source": "中時新聞",
@@ -40,6 +40,38 @@
     },
     {
       "rank": 2,
+      "title": "微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
+      "summary": [
+        "自由時報：微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
+        "經濟日報：微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
+        "ETtoday：微軟重金佈局AI同步削減成本　「自願離職方案」6萬員工符合資格"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5619635"
+        },
+        {
+          "source": "經濟日報",
+          "title": "微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
+          "url": "https://money.udn.com/money/story/5599/9838621"
+        },
+        {
+          "source": "ETtoday",
+          "title": "微軟重金佈局AI同步削減成本　「自願離職方案」6萬員工符合資格",
+          "url": "https://www.ettoday.net/news/20261027/3261287.htm"
+        },
+        {
+          "source": "iThome",
+          "title": "微軟向6萬名員工提出自願離職方案，涵蓋全球27%人力",
+          "url": "https://www.ithome.com.tw/news/179960"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "蔣萬安競總大會借地敦化國中「秒復原」　鍾沛君曬照網讚：完整善後",
       "summary": [
         "ETtoday：蔣萬安競總大會借地敦化國中「秒復原」　鍾沛君曬照網讚：完整善後",
@@ -62,33 +94,6 @@
           "source": "鏡週刊",
           "title": "魏應交慶功宴失言「葉總精心策劃」　蔡其昌：榮景得來不易、盼各界細心呵護",
           "url": "https://www.mirrormedia.mg/story/20261027edi002"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
-      "summary": [
-        "自由時報：微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
-        "經濟日報：微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
-        "ETtoday：微軟重金佈局AI同步削減成本　「自願離職方案」6萬員工符合資格"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5619635"
-        },
-        {
-          "source": "經濟日報",
-          "title": "微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
-          "url": "https://money.udn.com/money/story/5599/9838621"
-        },
-        {
-          "source": "ETtoday",
-          "title": "微軟重金佈局AI同步削減成本　「自願離職方案」6萬員工符合資格",
-          "url": "https://www.ettoday.net/news/20261027/3261287.htm"
         }
       ]
     },
@@ -175,6 +180,33 @@
     },
     {
       "rank": 7,
+      "title": "AI投資回報惹疑慮！高盛：趨勢型避險基金創2024年來最差一週",
+      "summary": [
+        "鉅亨網：AI投資回報惹疑慮！高盛：趨勢型避險基金創2024年來最差一週",
+        "科技新報：AI 錢潮未止＋潛在政策利多  光通訊強彈",
+        "經濟日報：高盛：對沖基金以兩年來最快速度拋售科技股 AI 交易信念面臨考驗"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "鉅亨網",
+          "title": "AI投資回報惹疑慮！高盛：趨勢型避險基金創2024年來最差一週",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53T0NickNfUnhOLUR1d0Zzbzc3ck1VZEo4RjZ1VU1KUEhxWHJidUxqQW9xcFEwUkZWXy0xYlk5a3lmZkFNWWpMOHZiVlJXMGs?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "AI 錢潮未止＋潛在政策利多  光通訊強彈",
+          "url": "https://finance.technews.tw/2026/10/27/why-lumentums-stock-led-the-sp-500-higher-on-monday/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "高盛：對沖基金以兩年來最快速度拋售科技股 AI 交易信念面臨考驗",
+          "url": "https://money.udn.com/money/story/5599/9838643"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Anthropic募資估逾千億美元　阿莫戴：偉大歷史機遇",
       "summary": [
         "經濟日報：Anthropic募資估逾千億美元　阿莫戴：偉大歷史機遇",
@@ -201,65 +233,50 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "阻斷拉美右翼浪潮！巴西大選魯拉險勝 牽制川普掌控西半球",
+      "rank": 9,
+      "title": "韓國瑜嗆不副署讓民主腎虛 卓榮泰反擊：先天條件不良才需補藥",
       "summary": [
-        "自由時報：阻斷拉美右翼浪潮！巴西大選魯拉險勝 牽制川普掌控西半球",
-        "經濟日報：右翼盟友敗選　川普批巴西總統大選遭操縱"
+        "自由時報：韓國瑜嗆不副署讓民主腎虛 卓榮泰反擊：先天條件不良才需補藥",
+        "新頭殼：韓國瑜批臺灣民主「腎虛」  卓榮泰：請韓院長提補藥來補",
+        "ETtoday：韓國瑜再嗆政院不副署讓國家「腎虛」　卓榮泰：請提其他補藥來補"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "自由時報",
-          "title": "阻斷拉美右翼浪潮！巴西大選魯拉險勝 牽制川普掌控西半球",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5619568"
+          "title": "韓國瑜嗆不副署讓民主腎虛 卓榮泰反擊：先天條件不良才需補藥",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5619757"
         },
         {
-          "source": "經濟日報",
-          "title": "右翼盟友敗選　川普批巴西總統大選遭操縱",
-          "url": "https://money.udn.com/money/story/5599/9838699"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "蘋果再突襲發表新品！iPad mini史上最大升級　絕美兩色登場",
-      "summary": [
-        "ETtoday：蘋果再突襲發表新品！iPad mini史上最大升級　絕美兩色登場",
-        "自由時報：iPad mini只是開胃菜！傳蘋果連3天發新品　觸控MacBook壓軸"
-      ],
-      "media_count": 2,
-      "links": [
+          "source": "新頭殼",
+          "title": "韓國瑜批臺灣民主「腎虛」  卓榮泰：請韓院長提補藥來補",
+          "url": "https://newtalk.tw/news/view/2026-10-27/1067589"
+        },
         {
           "source": "ETtoday",
-          "title": "蘋果再突襲發表新品！iPad mini史上最大升級　絕美兩色登場",
-          "url": "https://www.ettoday.net/news/20261026/3261227.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "iPad mini只是開胃菜！傳蘋果連3天發新品　觸控MacBook壓軸",
-          "url": "https://3c.ltn.com.tw/news/68076"
+          "title": "韓國瑜再嗆政院不副署讓國家「腎虛」　卓榮泰：請提其他補藥來補",
+          "url": "https://www.ettoday.net/news/20261027/3261391.htm"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "河口湖兇殺內幕1／入職2個月為4百萬嫁老闆　井雲蓉生前驚爆丈夫意圖詐保行兇",
+      "title": "Anthropic公開IPO遞件　那斯達克上市股票程式碼ANT",
       "summary": [
-        "鏡週刊：河口湖兇殺內幕1／入職2個月為4百萬嫁老闆　井雲蓉生前驚爆丈夫意圖詐保行兇",
-        "ETtoday：河口湖喪命「臺女」明知會被詐保卻不離婚　原因曝光"
+        "經濟日報：Anthropic公開IPO遞件　那斯達克上市股票程式碼ANT",
+        "科技新報：Anthropic 公開 IPO 遞件，那斯達克上市股票程式碼 ANT"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "鏡週刊",
-          "title": "河口湖兇殺內幕1／入職2個月為4百萬嫁老闆　井雲蓉生前驚爆丈夫意圖詐保行兇",
-          "url": "https://www.mirrormedia.mg/story/20261026soc008"
+          "source": "經濟日報",
+          "title": "Anthropic公開IPO遞件　那斯達克上市股票程式碼ANT",
+          "url": "https://money.udn.com/money/story/123398/9838336"
         },
         {
-          "source": "ETtoday",
-          "title": "河口湖喪命「臺女」明知會被詐保卻不離婚　原因曝光",
-          "url": "https://www.ettoday.net/news/20261027/3261292.htm"
+          "source": "科技新報",
+          "title": "Anthropic 公開 IPO 遞件，那斯達克上市股票程式碼 ANT",
+          "url": "https://finance.technews.tw/2026/10/27/anthropic-files-s-1-with-the-sec-for-proposed-initial-public-offering/"
         }
       ]
     }
@@ -304,6 +321,43 @@
     },
     {
       "rank": 2,
+      "title": "DOJ charges ex-FBI Director James Comey in new case",
+      "summary": [
+        "CNBC World：DOJ charges ex-FBI Director James Comey in new case",
+        "Al Jazeera：Former FBI director James Comey hit with third set of charges under Trump",
+        "Washington Post：Justice Dept. charges James Comey, ex-FBI director, for a third time"
+      ],
+      "media_count": 5,
+      "links": [
+        {
+          "source": "CNBC World",
+          "title": "DOJ charges ex-FBI Director James Comey in new case",
+          "url": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "Former FBI director James Comey hit with third set of charges under Trump",
+          "url": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss"
+        },
+        {
+          "source": "Washington Post",
+          "title": "Justice Dept. charges James Comey, ex-FBI director, for a third time",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzdJRjlYeWlIdUotMk1xdXA1Mk9IZnI3UkRXVlZ3MzFsUW1ua0NJNWpWSTRXYk5sY0JZWkx1WkswLWx5ekpGZFBVa1RoVm9pa3RlN2hXYkZQRm1RbU0tN092NlA2U0lXSlpKZ3ZfS3BpZWYtVERVMzZDUUF5OWYzaGQ2UjhudVRsblcyRWRZMHI4Tm00TVdjUlAxbmNGRmtmTkUwcGJ5NFNQM1ZfbnhlNE9IQmxrcjVNZ0FLZw?oc=5"
+        },
+        {
+          "source": "Financial Times",
+          "title": "US charges ex-FBI chief James Comey for third time",
+          "url": "https://www.ft.com/content/6b669a41-b629-47ce-8f68-c1ab1bd1320b?syn-25a6b1a6=1"
+        },
+        {
+          "source": "BBC World",
+          "title": "Ex-FBI chief James Comey faces federal charges for third time",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Microsoft offers voluntary buyouts to 60,000 employees",
       "summary": [
         "CNBC World：Microsoft offers voluntary buyouts to 60,000 employees",
@@ -335,7 +389,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Trump administration illegally fired Maurene Comey, judge rules",
       "summary": [
         "Financial Times：Trump administration illegally fired Maurene Comey, judge rules",
@@ -363,38 +417,6 @@
           "source": "Al Jazeera",
           "title": "US court rules daughter of Trump critic James Comey was illegally fired",
           "url": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "DOJ charges ex-FBI Director James Comey in new case",
-      "summary": [
-        "CNBC World：DOJ charges ex-FBI Director James Comey in new case",
-        "Al Jazeera：Former FBI director James Comey hit with third set of charges under Trump",
-        "Washington Post：Justice Dept. charges James Comey, ex-FBI director, for a third time"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "CNBC World",
-          "title": "DOJ charges ex-FBI Director James Comey in new case",
-          "url": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html"
-        },
-        {
-          "source": "Al Jazeera",
-          "title": "Former FBI director James Comey hit with third set of charges under Trump",
-          "url": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss"
-        },
-        {
-          "source": "Washington Post",
-          "title": "Justice Dept. charges James Comey, ex-FBI director, for a third time",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzdJRjlYeWlIdUotMk1xdXA1Mk9IZnI3UkRXVlZ3MzFsUW1ua0NJNWpWSTRXYk5sY0JZWkx1WkswLWx5ekpGZFBVa1RoVm9pa3RlN2hXYkZQRm1RbU0tN092NlA2U0lXSlpKZ3ZfS3BpZWYtVERVMzZDUUF5OWYzaGQ2UjhudVRsblcyRWRZMHI4Tm00TVdjUlAxbmNGRmtmTkUwcGJ5NFNQM1ZfbnhlNE9IQmxrcjVNZ0FLZw?oc=5"
-        },
-        {
-          "source": "Financial Times",
-          "title": "US charges ex-FBI chief James Comey for third time",
-          "url": "https://www.ft.com/content/6b669a41-b629-47ce-8f68-c1ab1bd1320b?syn-25a6b1a6=1"
         }
       ]
     },
