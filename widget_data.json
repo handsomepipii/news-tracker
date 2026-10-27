@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 11:15",
+  "updated_at": "2026-10-27 11:41",
   "taiwan": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
         "經濟日報：微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
         "ETtoday：微軟重金佈局AI同步削減成本　「自願離職方案」6萬員工符合資格"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
           "source": "自由時報",
@@ -30,6 +30,11 @@
           "source": "iThome",
           "title": "微軟向6萬名員工提出自願離職方案，涵蓋全球27%人力",
           "url": "https://www.ithome.com.tw/news/179960"
+        },
+        {
+          "source": "工商時報",
+          "title": "AI太燒錢！微軟擴大自願離職方案 6萬名員工符合資格、佔全球人力近3成",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtMk9LRGdYWTV1QTV6WlhNaHZoWGcxVDlXM2lLZFFwTEdQWmVBMUgtdFlDNXJ1eW53ZUhrMlNtSWNDQUJBdHZIQk50YUw1VjlJTWxwNU5FWXlWX0lvUzZB?oc=5"
         }
       ]
     },
