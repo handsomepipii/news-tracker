@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 00:27",
+  "updated_at": "2026-10-28 01:30",
   "taiwan": [
     {
       "rank": 1,
@@ -41,7 +41,7 @@
         "中時新聞：河口湖命案李嫌分身臉書曝光！ 「沈伯洋」竟出現好友清單- 社會",
         "TVBS新聞：河口湖命案／主嫌臉書曝光驚見「名列好友圈」 沈伯洋回應了"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "ETtoday",
@@ -57,6 +57,11 @@
           "source": "TVBS新聞",
           "title": "河口湖命案／主嫌臉書曝光驚見「名列好友圈」 沈伯洋回應了",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fZXd5Z3REWEZaVnQwaURHakNqTEVhYkNpNWt1eFFIekxkZm1tclphSVc1T0lsTnNkNGxqUjBZRTdEc3dBR3liNzlBWWN4YTA?oc=5"
+        },
+        {
+          "source": "風傳媒",
+          "title": "河口湖命案主嫌「竟是臉書好友」！沈伯洋親揭2人關係 | 蔣季容 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVVmxpOFZoRU5EMWl5R3FReFZ0UkV4Zy1PRlhQX0UxTjlrSHllVzBXa1g3ck9TQi1VSzJXYTRPSjdtYTZNMkFNUGFINzlnUQ?oc=5"
         }
       ]
     },
@@ -104,69 +109,6 @@
     },
     {
       "rank": 5,
-      "title": "iPhone Duo扛過7.5萬次摺疊測試　沒想到最後「輕輕放下就壞了」",
-      "summary": [
-        "ETtoday：iPhone Duo扛過7.5萬次摺疊測試　沒想到最後「輕輕放下就壞了」",
-        "自由時報：iPhone Duo人手摺疊7.5萬次都沒事！5公分摔落螢幕竟壞了"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "iPhone Duo扛過7.5萬次摺疊測試　沒想到最後「輕輕放下就壞了」",
-          "url": "https://www.ettoday.net/news/20261027/3261492.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "iPhone Duo人手摺疊7.5萬次都沒事！5公分摔落螢幕竟壞了",
-          "url": "https://3c.ltn.com.tw/news/68088"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "微軟自願離職方案 6 萬人適用，AI 投資下的成本大瘦身",
-      "summary": [
-        "科技新報：微軟自願離職方案 6 萬人適用，AI 投資下的成本大瘦身",
-        "科技報橘：微軟向 6 萬名員工提出自願離職方案：一邊控制成本、一邊加碼 AI 資料中心"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "微軟自願離職方案 6 萬人適用，AI 投資下的成本大瘦身",
-          "url": "https://technews.tw/2026/10/27/microsoft-plans-buyout-offers-for-60000-workers-as-it-seeks-to-cut-costs/"
-        },
-        {
-          "source": "科技報橘",
-          "title": "微軟向 6 萬名員工提出自願離職方案：一邊控制成本、一邊加碼 AI 資料中心",
-          "url": "https://techorange.com/2026/10/27/microsoft-buyout-ai-layoff-xbox/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "日本漫畫巨匠千葉徹彌87歲逝世　「小拳王」寫下經典",
-      "summary": [
-        "經濟日報：日本漫畫巨匠千葉徹彌87歲逝世　「小拳王」寫下經典",
-        "ETtoday：日本漫畫大師殞落！《小拳王》作者千葉徹彌逝世...享壽87歲"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "日本漫畫巨匠千葉徹彌87歲逝世　「小拳王」寫下經典",
-          "url": "https://money.udn.com/money/story/5599/9839573"
-        },
-        {
-          "source": "ETtoday",
-          "title": "日本漫畫大師殞落！《小拳王》作者千葉徹彌逝世...享壽87歲",
-          "url": "https://star.ettoday.net/news/3261564"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半",
       "summary": [
         "科技新報：OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半",
@@ -187,7 +129,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "iPhone Duo 災情致新日興股價重挫，後續關注良率",
       "summary": [
         "科技新報：iPhone Duo 災情致新日興股價重挫，後續關注良率",
@@ -208,7 +150,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "搶攻量子運算！英特爾收購以色列新創 Classiq，打造軟硬體全堆疊平臺",
       "summary": [
         "科技新報：搶攻量子運算！英特爾收購以色列新創 Classiq，打造軟硬體全堆疊平臺",
@@ -225,6 +167,69 @@
           "source": "INSIDE硬塞",
           "title": "Intel 宣佈收購量子軟體公司 Classiq，推進全端量子運算平臺",
           "url": "https://www.inside.com.tw/article/42742-intel-to-acquire-classiq-full-stack-quantum-computing-platform"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "AI 需求暴增 1 萬倍！Pat Gelsinger：AI 非泡沫，產業迎 20 年超級週期",
+      "summary": [
+        "科技新報：AI 需求暴增 1 萬倍！Pat Gelsinger：AI 非泡沫，產業迎 20 年超級週期",
+        "科技報橘：季辛格：AI 運算效率得提升萬倍，下一代運算如何突破實體限制？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "AI 需求暴增 1 萬倍！Pat Gelsinger：AI 非泡沫，產業迎 20 年超級週期",
+          "url": "https://technews.tw/2026/10/27/2026-playground-pat-gelsinger/"
+        },
+        {
+          "source": "科技報橘",
+          "title": "季辛格：AI 運算效率得提升萬倍，下一代運算如何突破實體限制？",
+          "url": "https://techorange.com/2026/10/27/playground-global-pat-gelsinger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "GMO拒付駭客百萬美元　籲使用者關閉裝置電源",
+      "summary": [
+        "經濟日報：GMO拒付駭客百萬美元　籲使用者關閉裝置電源",
+        "科技新報：GMO 拒付駭客百萬美元，籲使用者關閉裝置電源"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "GMO拒付駭客百萬美元　籲使用者關閉裝置電源",
+          "url": "https://money.udn.com/money/story/5599/9839897"
+        },
+        {
+          "source": "科技新報",
+          "title": "GMO 拒付駭客百萬美元，籲使用者關閉裝置電源",
+          "url": "https://infosecu.technews.tw/2026/10/27/gmo-refuses-pay-hackers-millions-urges-users-power-off-devices/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "河口湖命案疑殺妻詐保　網嘆「4人被金錢誘惑」：根本底層悲劇",
+      "summary": [
+        "ETtoday：河口湖命案疑殺妻詐保　網嘆「4人被金錢誘惑」：根本底層悲劇",
+        "自由時報：河口湖命案狠夫疑為詐保險金買兇殺妻 「殺人魔」詐領保費殺6人最駭人聽聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "河口湖命案疑殺妻詐保　網嘆「4人被金錢誘惑」：根本底層悲劇",
+          "url": "https://www.ettoday.net/news/20261027/3261558.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "河口湖命案狠夫疑為詐保險金買兇殺妻 「殺人魔」詐領保費殺6人最駭人聽聞",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5620825"
         }
       ]
     }
@@ -259,60 +264,6 @@
     },
     {
       "rank": 2,
-      "title": "HSBC Quarterly Profit Growth Misses, Sets $1 Billion Buyback",
-      "summary": [
-        "Bloomberg Markets：HSBC Quarterly Profit Growth Misses, Sets $1 Billion Buyback",
-        "WSJ Markets：HSBC Quarterly Profit Climbs, Plans $1 Billion Buyback",
-        "CNBC：HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "HSBC Quarterly Profit Growth Misses, Sets $1 Billion Buyback",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-27/hsbc-1-billion-buyback-third-quarter-earnings-profit-growth-misses-estimates"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "HSBC Quarterly Profit Climbs, Plans $1 Billion Buyback",
-          "url": "https://www.wsj.com/finance/banking/hsbc-quarterly-profit-climbs-plans-1-billion-buyback-1551a999?mod=rss_markets_main"
-        },
-        {
-          "source": "CNBC",
-          "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
-          "url": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Chinese Brands Drop Soccer Star Mbappé as Online Backlash Grows",
-      "summary": [
-        "Bloomberg Tech：Chinese Brands Drop Soccer Star Mbappé as Online Backlash Grows",
-        "BBC World：Major Chinese brands drop Mbappé as backlash grows over Mao joke",
-        "Nikkei Asia：Chinese brands drop soccer star Kylian Mbappe for 'offending' nation"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Chinese Brands Drop Soccer Star Mbappé as Online Backlash Grows",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-27/kylian-mbappe-mao-zedong-eastroc-beverage-china-mengniu-dairy-online-backlash"
-        },
-        {
-          "source": "BBC World",
-          "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
-          "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "Chinese brands drop soccer star Kylian Mbappe for 'offending' nation",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVIycFhJd2JnQ091NDY4QXFhdUlYZlQ0UGN5WnR3eVltb21vaXY3S0Z5UFpsZEhEb09rNFJjNWg3WW1nRnlnT3Z0R0Zib3hKNEVIQjVhY3hsekJkWEg5bkpwbHdQVzI4OXVncmVGY1c5UVBleGx2eXhNZE1peW9HOWxWOFFWcmJKaURKMHcwN296SnFwTDlET1MzLXBxY1ZCSGQ0YS1DU2Vnc3M?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Israelis go to the polls in historic election",
       "summary": [
         "Financial Times：Israelis go to the polls in historic election",
@@ -339,7 +290,28 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+      "summary": [
+        "BBC World：Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+        "Nikkei Asia：Chinese brands drop soccer star Kylian Mbappe for 'offending' nation"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+          "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "Chinese brands drop soccer star Kylian Mbappe for 'offending' nation",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVIycFhJd2JnQ091NDY4QXFhdUlYZlQ0UGN5WnR3eVltb21vaXY3S0Z5UFpsZEhEb09rNFJjNWg3WW1nRnlnT3Z0R0Zib3hKNEVIQjVhY3hsekJkWEg5bkpwbHdQVzI4OXVncmVGY1c5UVBleGx2eXhNZE1peW9HOWxWOFFWcmJKaURKMHcwN296SnFwTDlET1MzLXBxY1ZCSGQ0YS1DU2Vnc3M?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Anthropic IPO Reignites AI Trade in Asia",
       "summary": [
         "Bloomberg Markets：Anthropic IPO Reignites AI Trade in Asia",
@@ -360,7 +332,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Porsche profit rebounds in nine-month period after restructuring costs",
       "summary": [
         "Investing.com：Porsche profit rebounds in nine-month period after restructuring costs",
@@ -381,7 +353,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
       "summary": [
         "Bloomberg Markets：Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
@@ -402,7 +374,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Russia and Ukraine begin local ceasefire in frontline city",
       "summary": [
         "Financial Times：Russia and Ukraine begin local ceasefire in frontline city",
@@ -423,7 +395,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "GM will switch to Nasdaq from the NYSE on Nov. 17",
       "summary": [
         "CNBC：GM will switch to Nasdaq from the NYSE on Nov. 17",
@@ -444,17 +416,32 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "- 紐約時報中文網",
+      "rank": 9,
+      "title": "Why is Standard Chartered stock sliding today?",
       "summary": [
-        "紐約時報中文：- 紐約時報中文網"
+        "Investing.com：Why is Standard Chartered stock sliding today?"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "紐約時報中文",
-          "title": "- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORDhIV1BOcDFicXVFMEc1dFotYVRMdVpEczlTek5kaTJpZ2cwTExjUDFJQTh4TnA0VUxIajRHTEZhOTcwbGpnVUlUb0psVE5XczM5V3FHNmEwZXk1TDRHVzlkOUtSc2ZrVlJzZnZiLTdDOHlqNVE4eC03NkMycjdvR2JlLUpLaFBqMGtN?oc=5"
+          "source": "Investing.com",
+          "title": "Why is Standard Chartered stock sliding today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-standard-chartered-stock-sliding-today-93CH-4974510"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Why is CITIC Securities stock sliding today?",
+      "summary": [
+        "Investing.com：Why is CITIC Securities stock sliding today?"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Why is CITIC Securities stock sliding today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-citic-securities-stock-sliding-today-93CH-4974194"
         }
       ]
     }
