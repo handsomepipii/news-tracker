@@ -1,21 +1,16 @@
 {
-  "updated_at": "2026-10-28 06:17",
+  "updated_at": "2026-10-28 07:18",
   "taiwan": [
     {
       "rank": 1,
-      "title": "河口湖命案主嫌分身帳號曝！赫見沈伯洋在好友名單",
+      "title": "河口湖命案李嫌分身臉書曝光！ 「沈伯洋」竟出現好友清單- 社會",
       "summary": [
-        "ETtoday：河口湖命案主嫌分身帳號曝！赫見沈伯洋在好友名單",
         "中時新聞：河口湖命案李嫌分身臉書曝光！ 「沈伯洋」竟出現好友清單- 社會",
-        "TVBS新聞：河口湖命案／主嫌臉書曝光驚見「名列好友圈」 沈伯洋回應了"
+        "TVBS新聞：河口湖命案／主嫌臉書曝光驚見「名列好友圈」 沈伯洋回應了",
+        "風傳媒：河口湖命案主嫌「竟是臉書好友」！沈伯洋親揭2人關係 | 蔣季容 | 新聞"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
-        {
-          "source": "ETtoday",
-          "title": "河口湖命案主嫌分身帳號曝！赫見沈伯洋在好友名單",
-          "url": "https://www.ettoday.net/news/20261027/3261744.htm"
-        },
         {
           "source": "中時新聞",
           "title": "河口湖命案李嫌分身臉書曝光！ 「沈伯洋」竟出現好友清單- 社會",
@@ -35,6 +30,60 @@
     },
     {
       "rank": 2,
+      "title": "美軍東太平洋打擊疑似運毒船　5人喪生",
+      "summary": [
+        "自由時報：美軍東太平洋打擊疑似運毒船　5人喪生",
+        "經濟日報：美軍東太平洋打擊疑似運毒船　5人喪生",
+        "ETtoday：美軍東太平洋打擊疑似運毒船釀5死　累計至少235人喪命"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美軍東太平洋打擊疑似運毒船　5人喪生",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620859"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美軍東太平洋打擊疑似運毒船　5人喪生",
+          "url": "https://money.udn.com/money/story/5599/9841028"
+        },
+        {
+          "source": "ETtoday",
+          "title": "美軍東太平洋打擊疑似運毒船釀5死　累計至少235人喪命",
+          "url": "https://www.ettoday.net/news/20261028/3261889.htm"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "路透：小波索納洛拒交護照　巴西大選落敗後赴美",
+      "summary": [
+        "自由時報：路透：小波索納洛拒交護照　巴西大選落敗後赴美",
+        "經濟日報：路透：小波索納洛拒交護照　巴西大選落敗後赴美",
+        "ETtoday：巴西大選落敗陷洗錢風波　小波索納洛拒交護照傳逃往美國"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "路透：小波索納洛拒交護照　巴西大選落敗後赴美",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620864"
+        },
+        {
+          "source": "經濟日報",
+          "title": "路透：小波索納洛拒交護照　巴西大選落敗後赴美",
+          "url": "https://money.udn.com/money/story/5599/9841039"
+        },
+        {
+          "source": "ETtoday",
+          "title": "巴西大選落敗陷洗錢風波　小波索納洛拒交護照傳逃往美國",
+          "url": "https://www.ettoday.net/news/20261028/3261885.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "葉門青年運動：發射飛彈擊中沙烏地最大煉油廠",
       "summary": [
         "經濟日報：葉門青年運動：發射飛彈擊中沙烏地最大煉油廠",
@@ -55,7 +104,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "以色列國會大選激戰 投票率創49年同期紀錄",
       "summary": [
         "自由時報：以色列國會大選激戰 投票率創49年同期紀錄",
@@ -72,48 +121,6 @@
           "source": "經濟日報",
           "title": "以色列大選投票率破紀錄　對尼坦雅胡戰時表現作評斷",
           "url": "https://money.udn.com/money/story/5599/9841022"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Anthropic 提交 IPO 重振市場信心，日韓股市領漲亞股",
-      "summary": [
-        "科技新報：Anthropic 提交 IPO 重振市場信心，日韓股市領漲亞股",
-        "經濟日報：Anthropic提交IPO重振市場信心　日韓股市領漲亞股"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "Anthropic 提交 IPO 重振市場信心，日韓股市領漲亞股",
-          "url": "https://finance.technews.tw/2026/10/27/anthropic-ipo-boosts-market-confidence-japan-korea-stocks-lead-asia/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "Anthropic提交IPO重振市場信心　日韓股市領漲亞股",
-          "url": "https://money.udn.com/money/story/5599/9840323"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "輝達投資Meta近1000億元　深化個人AI代理Muse合作",
-      "summary": [
-        "經濟日報：輝達投資Meta近1000億元　深化個人AI代理Muse合作",
-        "自由時報：輝達投資Meta近1000億元 深化個人AI代理Muse合作"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "輝達投資Meta近1000億元　深化個人AI代理Muse合作",
-          "url": "https://money.udn.com/money/story/123398/9840264"
-        },
-        {
-          "source": "自由時報",
-          "title": "輝達投資Meta近1000億元 深化個人AI代理Muse合作",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5620559"
         }
       ]
     },
@@ -253,22 +260,22 @@
     },
     {
       "rank": 2,
-      "title": "Russia and Ukraine begin local ceasefire in frontline city",
+      "title": "Apple refreshes the iMac with M6 chips",
       "summary": [
-        "Financial Times：Russia and Ukraine begin local ceasefire in frontline city",
-        "CNBC：Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine"
+        "The Verge：Apple refreshes the iMac with M6 chips",
+        "Ars Technica：Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "Russia and Ukraine begin local ceasefire in frontline city",
-          "url": "https://www.ft.com/content/9aedc2d9-dc92-4412-bc5a-d5ffecf4d8d9"
+          "source": "The Verge",
+          "title": "Apple refreshes the iMac with M6 chips",
+          "url": "https://www.theverge.com/tech/1018467/apple-imac-m6-chip-announced-price-release"
         },
         {
-          "source": "CNBC",
-          "title": "Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine",
-          "url": "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html"
+          "source": "Ars Technica",
+          "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+          "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
         }
       ]
     },
@@ -415,16 +422,16 @@
     },
     {
       "rank": 10,
-      "title": "西高東低の冬型に 北日本 新潟は暴風警戒 北海道では雪も",
+      "title": "Anduril and Qualcomm Plan to Build Laptop With US Supply Chain",
       "summary": [
-        "NHK新聞：西高東低の冬型に 北日本 新潟は暴風警戒 北海道では雪も"
+        "Bloomberg Tech：Anduril and Qualcomm Plan to Build Laptop With US Supply Chain"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "西高東低の冬型に 北日本 新潟は暴風警戒 北海道では雪も",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261027de66581"
+          "source": "Bloomberg Tech",
+          "title": "Anduril and Qualcomm Plan to Build Laptop With US Supply Chain",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-27/anduril-and-qualcomm-plan-to-build-laptop-with-us-supply-chain"
         }
       ]
     }
