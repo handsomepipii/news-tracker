@@ -1,45 +1,8 @@
 {
-  "updated_at": "2026-10-27 20:17",
+  "updated_at": "2026-10-27 21:33",
   "taiwan": [
     {
       "rank": 1,
-      "title": "為 AI 攢錢！微軟開放6萬員工「自願離職」層級達副總 涵蓋全球1/4人力",
-      "summary": [
-        "經濟日報：為 AI 攢錢！微軟開放6萬員工「自願離職」層級達副總 涵蓋全球1/4人力",
-        "iThome：微軟向6萬名員工提出自願離職方案，涵蓋全球27%人力",
-        "工商時報：AI太燒錢！微軟擴大自願離職方案 6萬名員工符合資格、佔全球人力近3成"
-      ],
-      "media_count": 5,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "為 AI 攢錢！微軟開放6萬員工「自願離職」層級達副總 涵蓋全球1/4人力",
-          "url": "https://money.udn.com/money/story/5599/9838747"
-        },
-        {
-          "source": "iThome",
-          "title": "微軟向6萬名員工提出自願離職方案，涵蓋全球27%人力",
-          "url": "https://www.ithome.com.tw/news/179960"
-        },
-        {
-          "source": "工商時報",
-          "title": "AI太燒錢！微軟擴大自願離職方案 6萬名員工符合資格、佔全球人力近3成",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtMk9LRGdYWTV1QTV6WlhNaHZoWGcxVDlXM2lLZFFwTEdQWmVBMUgtdFlDNXJ1eW53ZUhrMlNtSWNDQUJBdHZIQk50YUw1VjlJTWxwNU5FWXlWX0lvUzZB?oc=5"
-        },
-        {
-          "source": "數位時代",
-          "title": "微軟啟動大規模精簡！向6萬員工發放「自願離職」方案，佔總人力1/4",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZllQR1RVQzdZdHV4MEVuZGtwZmp2ZG1NcnZCUnR3ZTJNQzUzemxlTmhuWWstemVXdmN4ZnpRaEZ2XzRmWjdLR1J5dm0zcUx3bUFwV0RmX1E2NnNJaEFOUUF4cmFlNU9xNERMcEpJUmdydlUyc2I2dXhUSlNzb21uYUNlZExJdVJCZVdMOVdn?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "微軟自願離職方案 6 萬人適用，AI 投資下的成本大瘦身",
-          "url": "https://technews.tw/2026/10/27/microsoft-plans-buyout-offers-for-60000-workers-as-it-seeks-to-cut-costs/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "快訊／嘉義縣長候選人號次揭曉　吳品叡1號、蔡易餘2號",
       "summary": [
         "ETtoday：快訊／嘉義縣長候選人號次揭曉　吳品叡1號、蔡易餘2號",
@@ -72,6 +35,43 @@
           "source": "今周刊",
           "title": "打造學子安全上學路！桃園通學廊道第100校竣工",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVlkwRE5sYWg2S2ZlME05YWdpV0ZGUUJLazVGczg5ZmY2RnRxeUIwemRUSG5qX1kycE54RDAyMThQUDJtNkdYQ19Vc2VRVVV4TU1wRDMzMUNTM181a0hGTWkyNUZlN3Q2T2ZUN04yUURrUkZXVUZUSkVLZExoSktYVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "微軟向6萬名員工提出自願離職方案，涵蓋全球27%人力",
+      "summary": [
+        "iThome：微軟向6萬名員工提出自願離職方案，涵蓋全球27%人力",
+        "工商時報：AI太燒錢！微軟擴大自願離職方案 6萬名員工符合資格、佔全球人力近3成",
+        "數位時代：微軟啟動大規模精簡！向6萬員工發放「自願離職」方案，佔總人力1/4"
+      ],
+      "media_count": 5,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "微軟向6萬名員工提出自願離職方案，涵蓋全球27%人力",
+          "url": "https://www.ithome.com.tw/news/179960"
+        },
+        {
+          "source": "工商時報",
+          "title": "AI太燒錢！微軟擴大自願離職方案 6萬名員工符合資格、佔全球人力近3成",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtMk9LRGdYWTV1QTV6WlhNaHZoWGcxVDlXM2lLZFFwTEdQWmVBMUgtdFlDNXJ1eW53ZUhrMlNtSWNDQUJBdHZIQk50YUw1VjlJTWxwNU5FWXlWX0lvUzZB?oc=5"
+        },
+        {
+          "source": "數位時代",
+          "title": "微軟啟動大規模精簡！向6萬員工發放「自願離職」方案，佔總人力1/4",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZllQR1RVQzdZdHV4MEVuZGtwZmp2ZG1NcnZCUnR3ZTJNQzUzemxlTmhuWWstemVXdmN4ZnpRaEZ2XzRmWjdLR1J5dm0zcUx3bUFwV0RmX1E2NnNJaEFOUUF4cmFlNU9xNERMcEpJUmdydlUyc2I2dXhUSlNzb21uYUNlZExJdVJCZVdMOVdn?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "微軟自願離職方案 6 萬人適用，AI 投資下的成本大瘦身",
+          "url": "https://technews.tw/2026/10/27/microsoft-plans-buyout-offers-for-60000-workers-as-it-seeks-to-cut-costs/"
+        },
+        {
+          "source": "科技報橘",
+          "title": "微軟向 6 萬名員工提出自願離職方案：一邊控制成本、一邊加碼 AI 資料中心",
+          "url": "https://techorange.com/2026/10/27/microsoft-buyout-ai-layoff-xbox/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
         }
       ]
     },
@@ -109,60 +109,6 @@
     },
     {
       "rank": 4,
-      "title": "iPhone Duo螢幕破裂災情！蘋果證實少數有問題  可申請換機",
-      "summary": [
-        "自由時報：iPhone Duo螢幕破裂災情！蘋果證實少數有問題  可申請換機",
-        "科技新報：蘋果證實 iPhone Duo 螢幕異常災情，受影響者可申請更換",
-        "經濟日報：蘋果承認少數iPhone Duo螢幕異常　將為受影響使用者換機"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "iPhone Duo螢幕破裂災情！蘋果證實少數有問題  可申請換機",
-          "url": "https://3c.ltn.com.tw/news/68082"
-        },
-        {
-          "source": "科技新報",
-          "title": "蘋果證實 iPhone Duo 螢幕異常災情，受影響者可申請更換",
-          "url": "https://technews.tw/2026/10/27/apple-confirms-iphone-duo-broken-display-issues/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "蘋果承認少數iPhone Duo螢幕異常　將為受影響使用者換機",
-          "url": "https://money.udn.com/money/story/123398/9839373"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Anthropic募資估逾千億美元　阿莫戴：偉大歷史機遇",
-      "summary": [
-        "經濟日報：Anthropic募資估逾千億美元　阿莫戴：偉大歷史機遇",
-        "新頭殼：Anthropic募資估逾千億美元　阿莫戴：偉大歷史機遇",
-        "科技新報：Anthropic 募資估逾千億美元，執行長阿莫迪：偉大歷史機遇"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "Anthropic募資估逾千億美元　阿莫戴：偉大歷史機遇",
-          "url": "https://money.udn.com/money/story/123398/9838750"
-        },
-        {
-          "source": "新頭殼",
-          "title": "Anthropic募資估逾千億美元　阿莫戴：偉大歷史機遇",
-          "url": "https://newtalk.tw/news/view/2026-10-27/1067572"
-        },
-        {
-          "source": "科技新報",
-          "title": "Anthropic 募資估逾千億美元，執行長阿莫迪：偉大歷史機遇",
-          "url": "https://finance.technews.tw/2026/10/27/anthropic-fundraising-valued-over-100-billion-ceo-amodei-great-historical-opportunity/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "快訊》臺北市長候選人號次出爐！沈伯洋3號「臺北靠3」、蔣萬安5號「5告讚」",
       "summary": [
         "新頭殼：快訊》臺北市長候選人號次出爐！沈伯洋3號「臺北靠3」、蔣萬安5號「5告讚」",
@@ -189,7 +135,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "第8代iPad mini登場，2.3萬元起OLED螢幕、A20 Pro處理器、自研無線晶片一次到位",
       "summary": [
         "癮科技Cool3c：第8代iPad mini登場，2.3萬元起OLED螢幕、A20 Pro處理器、自研無線晶片一次到位",
@@ -216,7 +162,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
       "summary": [
         "ETtoday：諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
@@ -243,7 +189,34 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "title": "河口湖命案主嫌分身帳號曝！赫見沈伯洋在好友名單",
+      "summary": [
+        "ETtoday：河口湖命案主嫌分身帳號曝！赫見沈伯洋在好友名單",
+        "中時新聞：河口湖命案李嫌分身臉書曝光！ 「沈伯洋」竟出現好友清單- 社會",
+        "TVBS新聞：河口湖命案／主嫌臉書曝光驚見「名列好友圈」 沈伯洋回應了"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "河口湖命案主嫌分身帳號曝！赫見沈伯洋在好友名單",
+          "url": "https://www.ettoday.net/news/20261027/3261744.htm"
+        },
+        {
+          "source": "中時新聞",
+          "title": "河口湖命案李嫌分身臉書曝光！ 「沈伯洋」竟出現好友清單- 社會",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qSU9zQXdzMzlKbXcwVy11OG5NUXUySDFBWXA2bE1Fd2ZYbWhoMkhwdEVpM0NzbHdPZHRTbTRTMHl2SEVvWjV3bjRMSGNTbG5DaWltcjVxdHRIN2tlSWQyQThEaE9LQmlZVUpzQWdR?oc=5"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "河口湖命案／主嫌臉書曝光驚見「名列好友圈」 沈伯洋回應了",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fZXd5Z3REWEZaVnQwaURHakNqTEVhYkNpNWt1eFFIekxkZm1tclphSVc1T0lsTnNkNGxqUjBZRTdEc3dBR3liNzlBWWN4YTA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "臺通緝犯在泰國遭槍殺 ！ 遞槍小弟周昱帆助殺人 高院更一審維持判7年",
       "summary": [
         "自由時報：臺通緝犯在泰國遭槍殺 ！ 遞槍小弟周昱帆助殺人 高院更一審維持判7年",
@@ -264,23 +237,44 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "路透：越南首座晶片廠難達明年試產目標，未敲定 ASML 裝置採購",
+      "rank": 9,
+      "title": "博通攜手華爾街巨人！敲定630億美元融資案 助 Anthropic 買晶片擴建 AI",
       "summary": [
-        "科技新報：路透：越南首座晶片廠難達明年試產目標，未敲定 ASML 裝置採購",
-        "工商時報：要開天窗？越南首座半導體廠明年試產難未敲定ASML裝置採購- 國際"
+        "經濟日報：博通攜手華爾街巨人！敲定630億美元融資案 助 Anthropic 買晶片擴建 AI",
+        "科技新報：博通攜華爾街籌資 630 億美元，為 Anthropic 採購 AI 晶片提供資金"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "科技新報",
-          "title": "路透：越南首座晶片廠難達明年試產目標，未敲定 ASML 裝置採購",
-          "url": "https://technews.tw/2026/10/27/vietnams-first-chip-plant-unlikely-to-meet-2027-target/"
+          "source": "經濟日報",
+          "title": "博通攜手華爾街巨人！敲定630億美元融資案 助 Anthropic 買晶片擴建 AI",
+          "url": "https://money.udn.com/money/story/5599/9838846"
         },
         {
-          "source": "工商時報",
-          "title": "要開天窗？越南首座半導體廠明年試產難未敲定ASML裝置採購- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PN3M4TGJxV1lXQWlMUERWSUJlemxzcmVjYnR4VWszMWNITHctSjdwRXZINVVmcE9zSktVWTJOS3N5LTh3YjFpSWlkdFdESGZ0V3JwRTBRdXBVRVhaNjlV?oc=5"
+          "source": "科技新報",
+          "title": "博通攜華爾街籌資 630 億美元，為 Anthropic 採購 AI 晶片提供資金",
+          "url": "https://technews.tw/2026/10/27/broadcom-anthropic-deal/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Anthropic IPO檔案揭密　營收、風險與治理一次看",
+      "summary": [
+        "經濟日報：Anthropic IPO檔案揭密　營收、風險與治理一次看",
+        "科技新報：Anthropic IPO 檔案揭密，營收、風險與治理一次看"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "Anthropic IPO檔案揭密　營收、風險與治理一次看",
+          "url": "https://money.udn.com/money/story/123398/9838799"
+        },
+        {
+          "source": "科技新報",
+          "title": "Anthropic IPO 檔案揭密，營收、風險與治理一次看",
+          "url": "https://finance.technews.tw/2026/10/27/anthropic-files-for-its-ipo/"
         }
       ]
     }
@@ -396,27 +390,6 @@
     },
     {
       "rank": 5,
-      "title": "Jordan launches air strikes in Syria in response to a fatal church shooting",
-      "summary": [
-        "Al Jazeera：Jordan launches air strikes in Syria in response to a fatal church shooting",
-        "Financial Times：Jordan launches air strikes in Syria after church attack"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Al Jazeera",
-          "title": "Jordan launches air strikes in Syria in response to a fatal church shooting",
-          "url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss"
-        },
-        {
-          "source": "Financial Times",
-          "title": "Jordan launches air strikes in Syria after church attack",
-          "url": "https://www.ft.com/content/de1f5ce6-f432-4e7b-9cb5-9fa87bd08cf9?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "CDC’s deputy director to leave Trump administration after six months",
       "summary": [
         "Washington Post：CDC’s deputy director to leave Trump administration after six months",
@@ -437,7 +410,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Ex-FBI chief James Comey faces federal charges for third time",
       "summary": [
         "BBC World：Ex-FBI chief James Comey faces federal charges for third time",
@@ -458,7 +431,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
       "summary": [
         "BBC World：Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
@@ -479,7 +452,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Anthropic's IPO filing shows explosive growth, risks and staggering costs",
       "summary": [
         "Nikkei Asia：Anthropic's IPO filing shows explosive growth, risks and staggering costs",
@@ -500,7 +473,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
       "summary": [
         "Wired：Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
@@ -517,6 +490,27 @@
           "source": "Yahoo Finance",
           "title": "Inside Anthropic's massive — and wild — IPO prospectus",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY2trMXJ3ZlJoWEluNmxXOVFmNll2b0lsYW1SVjFIZTBaQjFjWXVNNjZJYV9yS1gzRnU5Uk1VMmI1RE94Vmo0d3U1RFlHenRVSkpYeVFJUlhsUGhURndKV1EzVThuY3FuM3NMSnRoTGRZbzl6RmZtTnpzTEFRUUJGZl84Tk5mUnhNU09sVW5aczRXdXVhX0pic2xQZEJXYjg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Anthropic's IPO filing reveals $430 billion in locked-in AI computing: Chart of the Day",
+      "summary": [
+        "Yahoo Finance：Anthropic's IPO filing reveals $430 billion in locked-in AI computing: Chart of the Day",
+        "Bloomberg Tech：Anthropic IPO Filing Reveals $417 Billion in Future AI Spending"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "Anthropic's IPO filing reveals $430 billion in locked-in AI computing: Chart of the Day",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbE51NDUwd0ppb0ctckJ1TEkzV0Z4aUJXcEQ5Rk9MQlJiZVY0M1RYTTZSOWhUb0dGQzV3NHVwY0pXaDNkWnhzVzdLNTF1elZuUHVXMDNNaW0wUE1FVHJFZG9pVEowaUNpMWpVQS15VDROQ0RzWUFnOFc0VnB1eXJLeFNBeWdLeHprZUJnZjFnMUlVT0gtUDlWam8tMkVSZXZiYWplWUlWaWhxQ2MxWVhYNjVjVzVlY2lKU1cxZ1R0Nm9GM2hJc3ZxR213b0NoQ1BwTjlrV29Ba0c?oc=5"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic IPO Filing Reveals $417 Billion in Future AI Spending",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-27/anthropic-ipo-filing-reveals-417-billion-in-future-ai-spending"
         }
       ]
     }
