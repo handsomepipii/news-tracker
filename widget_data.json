@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 13:14",
+  "updated_at": "2026-10-27 14:18",
   "taiwan": [
     {
       "rank": 1,
@@ -46,7 +46,7 @@
         "經濟日報：傳福斯考慮將中國車用軟體匯入歐洲",
         "ETtoday：福斯傳出　考慮將中國電動車軟體匯入歐洲"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "自由時報",
@@ -62,6 +62,11 @@
           "source": "ETtoday",
           "title": "福斯傳出　考慮將中國電動車軟體匯入歐洲",
           "url": "https://www.ettoday.net/news/20261027/3261293.htm"
+        },
+        {
+          "source": "科技新報",
+          "title": "傳福斯考慮將中國車用軟體匯入歐洲",
+          "url": "https://technews.tw/2026/10/27/volkswagen-considers-using-chinese-software-for-europe/"
         }
       ]
     },
@@ -148,6 +153,33 @@
     },
     {
       "rank": 6,
+      "title": "OpenAI推出GPT-6.1 Terra！電腦操作快3倍、API價格直接砍半",
+      "summary": [
+        "ETtoday：OpenAI推出GPT-6.1 Terra！電腦操作快3倍、API價格直接砍半",
+        "鉅亨網：OpenAI釋出電腦操作強者GPT-6.1 Terra：API價格砍半Token效率為Opus 5.5三倍、價格僅四分之一",
+        "科技新報：OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "OpenAI推出GPT-6.1 Terra！電腦操作快3倍、API價格直接砍半",
+          "url": "https://ai.ettoday.net/news/3261367"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "OpenAI釋出電腦操作強者GPT-6.1 Terra：API價格砍半Token效率為Opus 5.5三倍、價格僅四分之一",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14ZjdQWlhWVXpjeEs3VEU3WkpvM2MzT3JUSTVRUzA2OUpnakRUTEVMYVdlOENGUGtNWUV0c3hOemJCaHoyQkYtSDlvczFxdHc?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半",
+          "url": "https://technews.tw/2026/10/27/openai-introduces-gpt-6-1-terra/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
       "summary": [
         "ETtoday：諾貝爾和平獎落空！川普怒罵「爛國家」　挪威發聲",
@@ -174,44 +206,23 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "國際油價小幅回落　歐洲股市收盤揚升",
+      "rank": 8,
+      "title": "臺通緝犯在泰國遭槍殺 ！ 遞槍小弟周昱帆助殺人 高院更一審維持判7年",
       "summary": [
-        "經濟日報：國際油價小幅回落　歐洲股市收盤揚升",
-        "自由時報：國際油價小幅回落　歐洲股市收盤揚升"
+        "自由時報：臺通緝犯在泰國遭槍殺 ！ 遞槍小弟周昱帆助殺人 高院更一審維持判7年",
+        "ETtoday：通緝犯石茂強在泰國遭爆頭亡　遞槍共犯更一審仍判7年"
       ],
       "media_count": 2,
       "links": [
-        {
-          "source": "經濟日報",
-          "title": "國際油價小幅回落　歐洲股市收盤揚升",
-          "url": "https://money.udn.com/money/story/5599/9838602"
-        },
         {
           "source": "自由時報",
-          "title": "國際油價小幅回落　歐洲股市收盤揚升",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5619630"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "豐田汽車部署機器人軍團 對抗特斯拉與大陸勁敵",
-      "summary": [
-        "經濟日報：豐田汽車部署機器人軍團 對抗特斯拉與大陸勁敵",
-        "科技新報：進軍人型機器人領域，豐田迎戰特斯拉與中國"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "豐田汽車部署機器人軍團 對抗特斯拉與大陸勁敵",
-          "url": "https://money.udn.com/money/story/5599/9838427"
+          "title": "臺通緝犯在泰國遭槍殺 ！ 遞槍小弟周昱帆助殺人 高院更一審維持判7年",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5619807"
         },
         {
-          "source": "科技新報",
-          "title": "進軍人型機器人領域，豐田迎戰特斯拉與中國",
-          "url": "https://technews.tw/2026/10/27/toyota-takes-on-tesla-and-china-in-humanoid-robot-race/"
+          "source": "ETtoday",
+          "title": "通緝犯石茂強在泰國遭爆頭亡　遞槍共犯更一審仍判7年",
+          "url": "https://www.ettoday.net/news/20261027/3261465.htm"
         }
       ]
     },
@@ -298,33 +309,6 @@
     },
     {
       "rank": 2,
-      "title": "Five weird details from Anthropic’s IPO filing",
-      "summary": [
-        "The Verge：Five weird details from Anthropic’s IPO filing",
-        "Wired：Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-        "Yahoo Finance：Inside Anthropic's massive — and wild — IPO prospectus"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "Five weird details from Anthropic’s IPO filing",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details"
-        },
-        {
-          "source": "Wired",
-          "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-          "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Inside Anthropic's massive — and wild — IPO prospectus",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY2trMXJ3ZlJoWEluNmxXOVFmNll2b0lsYW1SVjFIZTBaQjFjWXVNNjZJYV9yS1gzRnU5Uk1VMmI1RE94Vmo0d3U1RFlHenRVSkpYeVFJUlhsUGhURndKV1EzVThuY3FuM3NMSnRoTGRZbzl6RmZtTnpzTEFRUUJGZl84Tk5mUnhNU09sVW5aczRXdXVhX0pic2xQZEJXYjg?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Microsoft offers buyouts to 60,000 staff",
       "summary": [
         "Financial Times：Microsoft offers buyouts to 60,000 staff",
@@ -351,7 +335,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "England captain Harry Kane wins Ballon d’Or",
       "summary": [
         "Financial Times：England captain Harry Kane wins Ballon d’Or",
@@ -378,7 +362,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "HSBC Quarterly Profit Growth Misses, Sets $1 Billion Buyback",
       "summary": [
         "Bloomberg Markets：HSBC Quarterly Profit Growth Misses, Sets $1 Billion Buyback",
@@ -405,70 +389,28 @@
       ]
     },
     {
+      "rank": 5,
+      "title": "CDC’s deputy director to leave Trump administration after six months",
+      "summary": [
+        "Washington Post：CDC’s deputy director to leave Trump administration after six months",
+        "Investing.com：CDC deputy director to leave Trump administration, paper says"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "CDC’s deputy director to leave Trump administration after six months",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnlWOGs4V2F4Mm8xQ2p0Ul9OaHlWMW41ZlFsMmwxLVZfa3B6RmdabF9oLW4wb2phNWczd1RMeXJ1RC14NlVwVGgxX0hwTzJfSVBZdFFWQ3JEQlppekRVOHp4ZnlBTVFSM1RpSUstc3hvU2sxYktSTVVLN1hjUUFxWElOVFR5NnF5QklTMmloMFE3MVhVMHZYMGJFMDVUTUducl9WR2hEbGdydmVmeFhVRWxDcHRfUDBpck9J?oc=5"
+        },
+        {
+          "source": "Investing.com",
+          "title": "CDC deputy director to leave Trump administration, paper says",
+          "url": "https://www.investing.com/news/stock-market-news/cdc-deputy-director-jennifer-shuford-to-leave-trump-administration-washington-post-reports-4974147"
+        }
+      ]
+    },
+    {
       "rank": 6,
-      "title": "Anthropic’s IPO filing shows explosive growth, risks and staggering costs",
-      "summary": [
-        "Al Jazeera：Anthropic’s IPO filing shows explosive growth, risks and staggering costs",
-        "Nikkei Asia：Anthropic's IPO filing shows explosive growth, risks and staggering costs"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Al Jazeera",
-          "title": "Anthropic’s IPO filing shows explosive growth, risks and staggering costs",
-          "url": "https://www.aljazeera.com/economy/2026/10/26/anthropics-ipo-filing-shows-explosive-growth-risks-and-staggering-costs?traffic_source=rss"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "Anthropic's IPO filing shows explosive growth, risks and staggering costs",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT2dpbWdwQ2xUZGg1N0hoUDFuRGdEU0VHNDE0V3habEY0RExKSzduTXlQZkJ0RFR5UjU1eVdkX1FKZnlRMm50dzJUM0RvOEVfQ0JjeGJKZTZ5VjRmdXU4eG8tTGVIUkZCc0FWRVhOWEU2SWVOOUhOTHloWjJzekdWMnZZN2pQbGN5c3R0bzhyZEs2THdqUGJRYWhQTmpmdXlYZEVBdkQ0TVotSzJPSlFMUjlEV3lvbTBD?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
-      "summary": [
-        "The Verge：Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
-        "CNBC World：Apple responds to user reports of broken iPhone Duo screens on new foldable phone"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
-          "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack"
-        },
-        {
-          "source": "CNBC World",
-          "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
-          "url": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Nigeria evacuates Ebola patient to Switzerland",
-      "summary": [
-        "Financial Times：Nigeria evacuates Ebola patient to Switzerland",
-        "Sky News：Woman treated for Ebola in Nigeria is evacuated to Switzerland"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "Nigeria evacuates Ebola patient to Switzerland",
-          "url": "https://www.ft.com/content/083251a0-d5ab-48be-8295-41c9860963fd?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Sky News",
-          "title": "Woman treated for Ebola in Nigeria is evacuated to Switzerland",
-          "url": "https://news.sky.com/story/woman-treated-for-ebola-in-nigeria-is-evacuated-to-switzerland-13604127"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Trump administration illegally fired Maurene Comey, judge rules",
       "summary": [
         "Financial Times：Trump administration illegally fired Maurene Comey, judge rules",
@@ -489,7 +431,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "Pope in 'good health' and trip to South America will go ahead as planned",
       "summary": [
         "Sky News：Pope in 'good health' and trip to South America will go ahead as planned",
@@ -506,6 +448,69 @@
           "source": "BBC World",
           "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
           "url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "summary": [
+        "BBC World：Trump administration illegally fired James Comey's daughter, judge rules",
+        "Al Jazeera：US court rules daughter of Trump critic James Comey was illegally fired"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+          "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "title": "US court rules daughter of Trump critic James Comey was illegally fired",
+          "url": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
+      "summary": [
+        "CNBC World：Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
+        "Yahoo Finance：Apple’s Foldable iPhone Duo Draws Early Complaints of the Screen Cracking"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC World",
+          "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
+          "url": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Apple’s Foldable iPhone Duo Draws Early Complaints of the Screen Cracking",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVEzQUFrT0pObEtJUGpzZWdoRU4wdFM2U0MtelNFUlJQYnBoaGZuVllvV3NBNnNrZ21jdDdoNWVsaE9tSjJtMXp1WTliaHUxTlZRbThIcDNNRHJrOFBQbTR3bmtJOEpIMTgwc1ZVREs4X0NsOUJ0a3A0aXViUXBmZlBxcVpaaFgzYno2SUNaMVBvdXVvTU04?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
+      "summary": [
+        "Financial Times：EU loan to Airbus threatens trade truce with US, Trump trade official warns",
+        "Investing.com：USTR Greer tells EU that loan to Airbus threatens trade truce on aircraft financing"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
+          "url": "https://www.ft.com/content/f989f4aa-a986-4ced-ba51-fa85f396f06d?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "USTR Greer tells EU that loan to Airbus threatens trade truce on aircraft financing",
+          "url": "https://www.investing.com/news/stock-market-news/ustr-greer-tells-eu-that-loan-to-airbus-threatens-trade-truce-on-aircraft-financing-4974169"
         }
       ]
     }
