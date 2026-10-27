@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 08:00",
+  "updated_at": "2026-10-27 08:42",
   "taiwan": [
     {
       "rank": 1,
@@ -40,6 +40,33 @@
     },
     {
       "rank": 2,
+      "title": "「給兄弟一點機會」惹議！魏應交封王致詞提葉總「精心策劃」挨批",
+      "summary": [
+        "ETtoday：「給兄弟一點機會」惹議！魏應交封王致詞提葉總「精心策劃」挨批",
+        "自由時報：自由日日Shoot》蔡康永突致歉 強調「沒支援過臺獨」 沈伯洋痛心：臺灣人自由不應被中國幹預",
+        "鏡週刊：魏應交慶功宴失言「葉總精心策劃」　蔡其昌：榮景得來不易、盼各界細心呵護"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "「給兄弟一點機會」惹議！魏應交封王致詞提葉總「精心策劃」挨批",
+          "url": "https://sports.ettoday.net/news/3261199"
+        },
+        {
+          "source": "自由時報",
+          "title": "自由日日Shoot》蔡康永突致歉 強調「沒支援過臺獨」 沈伯洋痛心：臺灣人自由不應被中國幹預",
+          "url": "https://news.ltn.com.tw/news/politics/paper/1776085"
+        },
+        {
+          "source": "鏡週刊",
+          "title": "魏應交慶功宴失言「葉總精心策劃」　蔡其昌：榮景得來不易、盼各界細心呵護",
+          "url": "https://www.mirrormedia.mg/story/20261027edi002"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "金鐘／唐從聖金鐘獎奪獎淚謝亡父！擺脫諧星宿命想休息了",
       "summary": [
         "ETtoday：金鐘／唐從聖金鐘獎奪獎淚謝亡父！擺脫諧星宿命想休息了",
@@ -66,7 +93,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
       "summary": [
         "自由時報：微軟推自願離職方案約6萬人符合資格　佔員工總數1/4",
@@ -93,7 +120,34 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "iPhone Duo螢幕出包 鴻海人士：實際生產未受影響",
+      "summary": [
+        "鉅亨網：iPhone Duo螢幕出包 鴻海人士：實際生產未受影響",
+        "ETtoday：iPhone Duo才開關20次就裂了？蘋果早公佈官方指南揭5大異常",
+        "自由時報：iPhone Duo螢幕破裂災情！蘋果證實少數有問題  可申請換機"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "鉅亨網",
+          "title": "iPhone Duo螢幕出包 鴻海人士：實際生產未受影響",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzWVBkUU15Vy1hclNkdlFtUGdhUjhsV1A4RXZCRWJfN2xuQkduUVBCM0Z4N0RwbDRHWkZZVExLZkh1QzRXQ0EtOXF3RDBXZk0?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "iPhone Duo才開關20次就裂了？蘋果早公佈官方指南揭5大異常",
+          "url": "https://www.ettoday.net/news/20261027/3261245.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "iPhone Duo螢幕破裂災情！蘋果證實少數有問題  可申請換機",
+          "url": "https://3c.ltn.com.tw/news/68082"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "傳福斯考慮將中國車用軟體匯入歐洲",
       "summary": [
         "自由時報：傳福斯考慮將中國車用軟體匯入歐洲",
@@ -120,7 +174,34 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "title": "美股收盤》AI概念股回神領漲、四大主指全收紅 臺積電ADR漲1.40％",
+      "summary": [
+        "自由時報：美股收盤》AI概念股回神領漲、四大主指全收紅 臺積電ADR漲1.40％",
+        "經濟日報：AI交易回暖提振大盤　美國股市收高",
+        "新頭殼：AI交易回暖提振大盤！美股主指全部收漲 費半漲近3%、臺積電ADR漲1.4％"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美股收盤》AI概念股回神領漲、四大主指全收紅 臺積電ADR漲1.40％",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5619657"
+        },
+        {
+          "source": "經濟日報",
+          "title": "AI交易回暖提振大盤　美國股市收高",
+          "url": "https://money.udn.com/money/story/123398/9838705"
+        },
+        {
+          "source": "新頭殼",
+          "title": "AI交易回暖提振大盤！美股主指全部收漲 費半漲近3%、臺積電ADR漲1.4％",
+          "url": "https://newtalk.tw/news/view/2026-10-27/1067571"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "頭條新聞",
       "summary": [
         "鉅亨網：頭條新聞",
@@ -141,7 +222,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 9,
       "title": "阻斷拉美右翼浪潮！巴西大選魯拉險勝 牽制川普掌控西半球",
       "summary": [
         "自由時報：阻斷拉美右翼浪潮！巴西大選魯拉險勝 牽制川普掌控西半球",
@@ -162,86 +243,23 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "河口湖兇殺內幕1／入職2個月為4百萬嫁老闆　井雲蓉生前驚爆丈夫意圖詐保行兇",
+      "rank": 10,
+      "title": "蘋果再突襲發表新品！iPad mini史上最大升級　絕美兩色登場",
       "summary": [
-        "鏡週刊：河口湖兇殺內幕1／入職2個月為4百萬嫁老闆　井雲蓉生前驚爆丈夫意圖詐保行兇",
-        "ETtoday：河口湖喪命「臺女」明知會被詐保卻不離婚　原因曝光"
+        "ETtoday：蘋果再突襲發表新品！iPad mini史上最大升級　絕美兩色登場",
+        "自由時報：iPad mini只是開胃菜！傳蘋果連3天發新品　觸控MacBook壓軸"
       ],
       "media_count": 2,
       "links": [
-        {
-          "source": "鏡週刊",
-          "title": "河口湖兇殺內幕1／入職2個月為4百萬嫁老闆　井雲蓉生前驚爆丈夫意圖詐保行兇",
-          "url": "https://www.mirrormedia.mg/story/20261026soc008"
-        },
         {
           "source": "ETtoday",
-          "title": "河口湖喪命「臺女」明知會被詐保卻不離婚　原因曝光",
-          "url": "https://www.ettoday.net/news/20261027/3261292.htm"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "拘提回臺東 前縣長吳俊立上銬狼狽喊：我就死在裡面！",
-      "summary": [
-        "自由時報：拘提回臺東 前縣長吳俊立上銬狼狽喊：我就死在裡面！",
-        "ETtoday：前縣長吳俊立住院還是被拘提！　上銬押回臺東喊「我就死在裡面」"
-      ],
-      "media_count": 2,
-      "links": [
+          "title": "蘋果再突襲發表新品！iPad mini史上最大升級　絕美兩色登場",
+          "url": "https://www.ettoday.net/news/20261026/3261227.htm"
+        },
         {
           "source": "自由時報",
-          "title": "拘提回臺東 前縣長吳俊立上銬狼狽喊：我就死在裡面！",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5619511"
-        },
-        {
-          "source": "ETtoday",
-          "title": "前縣長吳俊立住院還是被拘提！　上銬押回臺東喊「我就死在裡面」",
-          "url": "https://www.ettoday.net/news/20261027/3261247.htm"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "金鐘61／張詩盈首度叩關金鐘就雙料入圍！　拿下迷你劇集女配角獎感言致敬天下媽媽",
-      "summary": [
-        "鏡週刊：金鐘61／張詩盈首度叩關金鐘就雙料入圍！　拿下迷你劇集女配角獎感言致敬天下媽媽",
-        "ETtoday：金鐘／瑞瑪席丹前一刻打呵欠　下一秒爆冷奪女主角獎"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "鏡週刊",
-          "title": "金鐘61／張詩盈首度叩關金鐘就雙料入圍！　拿下迷你劇集女配角獎感言致敬天下媽媽",
-          "url": "https://www.mirrormedia.mg/story/20261026ent016"
-        },
-        {
-          "source": "ETtoday",
-          "title": "金鐘／瑞瑪席丹前一刻打呵欠　下一秒爆冷奪女主角獎",
-          "url": "https://star.ettoday.net/news/3261232"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "金鐘61／金鐘紅毯放大招！謝盈萱帥氣西裝藏不住　深V造型辣翻全場",
-      "summary": [
-        "鏡週刊：金鐘61／金鐘紅毯放大招！謝盈萱帥氣西裝藏不住　深V造型辣翻全場",
-        "中時新聞：金鐘61》邵雨薇拚視後！黑豔禮服仙氣爆棚腰間閃鑽洩超辣曲線- 娛樂"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "鏡週刊",
-          "title": "金鐘61／金鐘紅毯放大招！謝盈萱帥氣西裝藏不住　深V造型辣翻全場",
-          "url": "https://www.mirrormedia.mg/story/20261026ent014"
-        },
-        {
-          "source": "中時新聞",
-          "title": "金鐘61》邵雨薇拚視後！黑豔禮服仙氣爆棚腰間閃鑽洩超辣曲線- 娛樂",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxUVo0cGZKV3BNTnYyOFYtalU0a1BhWkdFUmN6djRxckUyN2hxRnV2aWZjZUNLZXpoeFdGMHhleWdjUUQ2RnU3T2lrelpvYmNGLWd5QXhZbk9aQXBtMUJzT1hDZTdUWDRrSGhSdlVn?oc=5"
+          "title": "iPad mini只是開胃菜！傳蘋果連3天發新品　觸控MacBook壓軸",
+          "url": "https://3c.ltn.com.tw/news/68076"
         }
       ]
     }
@@ -484,6 +502,27 @@
     },
     {
       "rank": 9,
+      "title": "Meta announces $95 billion stock offering to fund AI expansion",
+      "summary": [
+        "CNBC World：Meta announces $95 billion stock offering to fund AI expansion",
+        "FT中文網：Meta擬發股籌集950億美元AI投資資金"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC World",
+          "title": "Meta announces $95 billion stock offering to fund AI expansion",
+          "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html"
+        },
+        {
+          "source": "FT中文網",
+          "title": "Meta擬發股籌集950億美元AI投資資金",
+          "url": "https://www.ftchinese.com/story/001111205"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
       "summary": [
         "BBC World：Algeria to send troops to Niger in first foreign deployment since 1973",
@@ -500,27 +539,6 @@
           "source": "Al Jazeera",
           "title": "Algeria’s president orders troop deployment to neighbouring Niger",
           "url": "https://www.aljazeera.com/news/2026/10/26/algerias-president-orders-troop-deployment-to-neighbouring-niger?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "歐洲多國青年抗議潮：Z世代的聲音能否被傾聽？",
-      "summary": [
-        "法廣RFI：歐洲多國青年抗議潮：Z世代的聲音能否被傾聽？",
-        "Washington Post：Fueling Europe’s fiery protests, a young generation’s angry malaise"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "歐洲多國青年抗議潮：Z世代的聲音能否被傾聽？",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E4%BB%8A%E6%97%A5%E6%AD%90%E6%B4%B2/20261026-%E6%AD%90%E6%B4%B2%E5%A4%9A%E5%9C%8B%E9%9D%92%E5%B9%B4%E6%8A%97%E8%AD%B0%E6%BD%AE-z%E4%B8%96%E4%BB%A3%E7%9A%84%E8%81%B2%E9%9F%B3%E8%83%BD%E5%90%A6%E5%BE%97%E5%88%B0%E5%82%BE%E8%81%BD"
-        },
-        {
-          "source": "Washington Post",
-          "title": "Fueling Europe’s fiery protests, a young generation’s angry malaise",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZTBMYUJsV3hVbHI4MTl0aW4ybzFSUE94YkxLRlh5dmdVMk8wWVM1WVIxNUhKTDRId19UUC1kRURMSnlrbjYxQzJTTU9WZTRUVHc3ajdQanpWTW96S2ZPbWxNbldxcEpEa25GWXpvaGs1ZEtKb1FWUzhxelJTV0JHU2xvbUVuRWRUSkFHbVJNRHNSa19EQmQ2bGRfMEYtTU9waGxVRFdsMEZ0dnJJN2RNRl8tUDVBaEJGN1RyLTFiVDFYcGRBQ1Z3?oc=5"
         }
       ]
     }
