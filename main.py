@@ -15,7 +15,7 @@ from sklearn.cluster import AgglomerativeClustering
 from sklearn.metrics.pairwise import cosine_distances
 from google import genai
 
-# 讀取環境變數
+# 讀取環境變數並去除空白換行
 GEMINI_API_KEY = (os.environ.get("GEMINI_API_KEY") or "").strip()
 TG_BOT_TOKEN = (os.environ.get("TG_BOT_TOKEN") or "").strip()
 TG_CHAT_ID = (os.environ.get("TG_CHAT_ID") or "").strip()
@@ -28,8 +28,63 @@ WIDGET_JSON_PATH = "widget_data.json"
 cc = OpenCC('s2twp')
 en_translator = GoogleTranslator(source='auto', target='zh-TW')
 
-# 台灣主流與科技財經媒體 RSS (擴充科技與財經來源)
+# ==============================================================================
+# 🗑️ 無用標題過濾表單 (JUNK_PATTERNS) — 同時套用於國內 (tw) 與國際 (intl) 新聞
+# 支援正則表達式 (Regex) 與一般關鍵字，命中即直接丟棄不入庫、不推播
+# ==============================================================================
+JUNK_PATTERNS = [
+    # --- 韓聯社 (Yonhap) 常見無效簡訊、無標題圖輯與導覽列 ---
+    r"^\[?韓聯社(快訊|速報|今日要聞|新聞|圖片|照片|視頻)\]?[:：\s]*$",
+    r"^(快訊|速報|詳訊|簡訊|最新)[:：\s]*$",
+    r"韓聯社今日要聞",
+    r"韓聯社新聞列表",
+    r"^\[?(圖|圖片|組圖|照片|視頻|影音|圖輯|畫報)\]?[:：\s]*$",
+    # --- 國內外媒體常見無意義彙整頁、廣播與廣告標題 ---
+    r"即時新聞(總覽|彙整|一覽)",
+    r"(今日|每日|晨間|晚間)?(新聞|頭條|焦點)(總覽|彙整|早報|晚報|懶人包)",
+    r"熱門(新聞|文章|點閱)排行",
+    r"^Morning Briefing[:：\s]*$",
+    r"^Evening Briefing[:：\s]*$",
+    r"^News Quiz[:：\s]*",
+    r"^Podcast[:：\s]*",
+    r"^Watch Live[:：\s]*",
+    r"^(今日|本週)運勢",
+    r"^(中獎|開獎)號碼",
+]
+
+# 用於計算有效字數時，先剝除的媒體標籤前綴（例如「[圖] 韓聯社：」剝除後若無實質內容即過濾）
+JUNK_PREFIX_STRIP = re.compile(
+    r"^(\s*(\[[^\]]{1,8}\]|【[^】]{1,8}】|\([^)]{1,8}\)|（[^）]{1,8}）|韓聯社(快訊|速報)?|快訊|速報|詳訊|最新|圖輯|組圖|影音|視頻)\s*[:：\-—]*\s*)+",
+    re.IGNORECASE
+)
+
+def is_junk_title(title):
+    """檢查標題是否命中 JUNK_PATTERNS 表單，或剝除標籤後無實質內容（國內外新聞皆適用）"""
+    if not title or not title.strip():
+        return True
+    t = title.strip()
+    t_trad = cc.convert(t)
+
+    # 1. 檢查是否命中 JUNK_PATTERNS 表單中的任何規則
+    for pattern in JUNK_PATTERNS:
+        if re.search(pattern, t, re.IGNORECASE) or re.search(pattern, t_trad, re.IGNORECASE):
+            return True
+
+    # 2. 剝除「[圖]」、「【快訊】」、「韓聯社快訊：」等前綴與標點符號後，檢查剩餘有效字數
+    cleaned = JUNK_PREFIX_STRIP.sub("", t_trad).strip()
+    meaningful_chars = re.sub(r"[\W_]+", "", cleaned)
+    # 若剝除標籤與標點後少於 5 個字（例如只剩「韓聯社」或「今日新聞」），視為無效標題
+    if len(meaningful_chars) < 5:
+        return True
+
+    return False
+
+# ==============================================================================
+# 📡 台灣與國際媒體 RSS 清單 (含科技、財經擴充與公開資訊觀測站重訊)
+# ==============================================================================
 TW_FEEDS = {
+    # --- 上市櫃公開資訊觀測站重大訊息 (Google News 備援通道) ---
+    "公開資訊觀測站重訊": "https://news.google.com/rss/search?q=%22公開資訊觀測站%22+OR+%22重大訊息%22+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
     # --- 綜合主流頭條 ---
     "中央社": "https://feeds.feedburner.com/cnaFirstNews",
     "公視新聞": "https://news.google.com/rss/search?q=site:news.pts.org.tw+when:1d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
@@ -60,7 +115,6 @@ TW_FEEDS = {
     "財訊": "https://news.google.com/rss/search?q=site:wealth.com.tw+when:2d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
 }
 
-# 國際主流與科技財經媒體 RSS (擴充全球財經、美股與硬體科技來源)
 INTL_FEEDS = {
     # --- 國際綜合主流 ---
     "BBC中文": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml",
@@ -138,7 +192,6 @@ def clean_rss_title(raw_title, is_google_news=False):
 STOPWORDS_CHARS = set("的了在是與及或將為對從向被把讓給比跟和但而卻又也還更最很太都只就才已曾正要會能可好大中小上下前後裡外內高低長短新舊多少全各每某該此其之以為於與及等後前月日年時分秒週今明昨")
 
 def extract_key_tokens(title):
-    """提取標題中的中文雙字詞 (2-grams)、英文專有名詞與關鍵實字"""
     zh_chunks = re.findall(r'[\u4e00-\u9fff]+', title)
     bigrams = set()
     chars = set()
@@ -150,16 +203,10 @@ def extract_key_tokens(title):
             bg = chunk[i:i+2]
             if not (bg[0] in STOPWORDS_CHARS and bg[1] in STOPWORDS_CHARS):
                 bigrams.add(bg)
-    # 提取至少 2 字元以上的英文/數字專有名詞 (如 AI, TSMC, iPhone, Q3)
     en_tokens = set(re.findall(r'[a-zA-Z]{2,}[0-9]*', title.lower()))
     return bigrams, en_tokens, chars
 
 def is_truly_related(title1, title2, cos_dist):
-    """
-    判斷兩則新聞是否真的在講同一件事：
-    1. 若向量距離極近 (< 0.12)，直接放行
-    2. 否則必須具備：至少 1 個共同中文雙字詞、或 1 個共同英文專有名詞、或至少 2 個共同核心中文字
-    """
     if cos_dist < 0.12:
         return True
     bg1, en1, ch1 = extract_key_tokens(title1)
@@ -195,19 +242,90 @@ def init_db():
     except sqlite3.OperationalError:
         pass
 
+    # 1. 自動清除資料庫中符合 JUNK_PATTERNS 的國內外無用文章，並翻譯殘留外文標題
     c.execute("SELECT link, title FROM articles")
     for link, title in c.fetchall():
-        if is_mostly_english(title):
+        if is_junk_title(title):
+            c.execute("DELETE FROM articles WHERE link = ?", (link,))
+        elif is_mostly_english(title):
             zh_title = ensure_traditional_chinese(title)
-            c.execute("UPDATE articles SET title = ? WHERE link = ?", (zh_title, link))
+            if is_junk_title(zh_title):
+                c.execute("DELETE FROM articles WHERE link = ?", (link,))
+            else:
+                c.execute("UPDATE articles SET title = ? WHERE link = ?", (zh_title, link))
 
+    # 2. 自動清除快取中符合 JUNK_PATTERNS 或未翻譯的舊摘要
     c.execute("SELECT cluster_id, headline FROM summary_cache")
     for cid, headline in c.fetchall():
-        if is_mostly_english(headline):
+        if is_junk_title(headline) or is_mostly_english(headline):
             c.execute("DELETE FROM summary_cache WHERE cluster_id = ?", (cid,))
 
     conn.commit()
     return conn
+
+def fetch_mops_announcements(conn, headers):
+    """
+    直接串接證交所 (上市) 與櫃買中心 (上櫃) 官方 OpenAPI，取得公開資訊觀測站最新重大訊息
+    """
+    c = conn.cursor()
+    now = datetime.now(timezone.utc)
+    mops_articles = []
+
+    mops_apis = [
+        ("公開資訊觀測站(上市)", "https://openapi.twse.com.tw/v1/opendata/t187ap04_L"),
+        ("公開資訊觀測站(上櫃)", "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap04_O")
+    ]
+
+    for source_name, api_url in mops_apis:
+        try:
+            resp = httpx.get(api_url, headers=headers, timeout=15.0, follow_redirects=True)
+            if resp.status_code != 200:
+                continue
+            data = resp.json()
+            if not isinstance(data, list):
+                continue
+
+            # 取最新 30 筆重大訊息
+            for item in data[-30:]:
+                if not isinstance(item, dict):
+                    continue
+                code = (item.get("公司代號") or item.get("SecuritiesCompanyCode") or "").strip()
+                name = (item.get("公司簡稱") or item.get("CompanyName") or "").strip()
+                subject = (item.get("主旨") or item.get("Subject") or "").strip()
+                date_str = (item.get("發言日期") or item.get("Date") or "").strip()
+                time_str = (item.get("發言時間") or item.get("Time") or "").strip()
+
+                if not code or not subject:
+                    continue
+
+                # 整理成清晰易讀的標題，方便關鍵字比對（支援股票代號與公司名稱）
+                clean_subject = " ".join(subject.split())
+                title = cc.convert(f"【重訊】{code} {name}：{clean_subject}")
+                if is_junk_title(title):
+                    continue
+
+                # 產生唯一識別連結（指向公開資訊觀測站即時重訊頁面）
+                uid = hashlib.md5(f"{code}_{date_str}_{time_str}_{clean_subject[:30]}".encode("utf-8")).hexdigest()[:12]
+                link = f"https://mops.twse.com.tw/mops/web/t05sr01_1#mops-{code}-{uid}"
+
+                c.execute("SELECT 1 FROM articles WHERE link = ?", (link,))
+                if not c.fetchone():
+                    c.execute(
+                        "INSERT INTO articles (link, title, source, category, fetched_at) VALUES (?, ?, ?, ?, ?)",
+                        (link, title, "公開資訊觀測站", "tw", now.isoformat())
+                    )
+                    mops_articles.append({
+                        "link": link,
+                        "title": title,
+                        "raw_title": title,
+                        "source": "公開資訊觀測站",
+                        "category": "tw"
+                    })
+        except Exception as e:
+            print(f"{source_name} OpenAPI 讀取略過: {e}")
+
+    conn.commit()
+    return mops_articles
 
 def fetch_all_feeds(conn):
     c = conn.cursor()
@@ -217,9 +335,14 @@ def fetch_all_feeds(conn):
 
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-        "Accept": "application/rss+xml, application/xml, text/xml, */*"
+        "Accept": "application/rss+xml, application/xml, text/xml, application/json, */*"
     }
 
+    # 1. 先抓取台灣上市櫃公開資訊觀測站 (MOPS) 官方 OpenAPI 重大訊息
+    mops_new = fetch_mops_announcements(conn, headers)
+    new_articles.extend(mops_new)
+
+    # 2. 抓取國內 (tw) 與國際 (intl) 所有 RSS 媒體，並同步套用 JUNK_PATTERNS 過濾
     for category, feed_dict in [("tw", TW_FEEDS), ("intl", INTL_FEEDS)]:
         for source, url in feed_dict.items():
             try:
@@ -239,9 +362,18 @@ def fetch_all_feeds(conn):
                     if not link or not raw_title:
                         continue
 
+                    # 【第一重垃圾過濾】：翻譯前檢查原始標題 (同時過濾國內 tw 與國際 intl)
+                    if is_junk_title(raw_title):
+                        continue
+
                     c.execute("SELECT 1 FROM articles WHERE link = ?", (link,))
                     if not c.fetchone():
                         title = clean_rss_title(raw_title, is_google_news=is_gn)
+
+                        # 【第二重垃圾過濾】：翻譯轉繁中後再次檢查 (確保外文無效標題翻成中文後也被攔截)
+                        if is_junk_title(title):
+                            continue
+
                         c.execute(
                             "INSERT INTO articles (link, title, source, category, fetched_at) VALUES (?, ?, ?, ?, ?)",
                             (link, title, source, category, now.isoformat())
@@ -288,7 +420,7 @@ def find_cached_summary(conn, current_links):
 
     curr_set = set(current_links)
     for row_links_json, headline, bullets_json, trans_links_json in rows:
-        if is_mostly_english(headline):
+        if is_mostly_english(headline) or is_junk_title(headline):
             continue
         cached_set = set(json.loads(row_links_json))
         intersection = len(curr_set & cached_set)
@@ -450,7 +582,11 @@ def cluster_and_rank(conn, embed_model, gemini_client, category, top_k=10):
     if not rows:
         return []
 
-    articles = [{"link": r[0], "title": r[1], "source": r[2]} for r in rows]
+    # 讀取時再次確保過濾掉任何符合 JUNK_PATTERNS 的國內外文章
+    articles = [{"link": r[0], "title": r[1], "source": r[2]} for r in rows if not is_junk_title(r[1])]
+    if not articles:
+        return []
+
     if len(articles) == 1:
         raw_clusters = {0: [0]}
         dist_matrix = np.zeros((1, 1))
@@ -459,7 +595,7 @@ def cluster_and_rank(conn, embed_model, gemini_client, category, top_k=10):
         embeddings = embed_model.encode(titles, normalize_embeddings=True)
         dist_matrix = cosine_distances(embeddings)
 
-        # 第一道防線：使用平均連結階層分群 (Average Linkage)，徹底消滅 DBSCAN 單點連鎖誤判
+        # 第一道防線：使用平均連結階層分群 (Average Linkage)
         clustering = AgglomerativeClustering(
             n_clusters=None,
             distance_threshold=0.20,
@@ -471,7 +607,7 @@ def cluster_and_rank(conn, embed_model, gemini_client, category, top_k=10):
         for idx, label in enumerate(clustering.labels_):
             raw_clusters.setdefault(label, []).append(idx)
 
-    # 第二道防線：字面雙字詞/實體交集驗證，將誤混入的無關新聞拆出
+    # 第二道防線：字面雙字詞/實體交集驗證
     verified_groups = []
     for label, idx_list in raw_clusters.items():
         if len(idx_list) == 1:
@@ -488,7 +624,6 @@ def cluster_and_rank(conn, embed_model, gemini_client, category, top_k=10):
             if is_truly_related(anchor_title, member_title, cos_dist):
                 main_group.append(articles[member_idx])
             else:
-                # 若字面毫無關聯，將其拆回獨立單篇事件，絕不硬湊
                 verified_groups.append([articles[member_idx]])
 
         verified_groups.append(main_group)
