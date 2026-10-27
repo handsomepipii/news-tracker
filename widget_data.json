@@ -1,40 +1,8 @@
 {
-  "updated_at": "2026-10-28 01:30",
+  "updated_at": "2026-10-28 02:22",
   "taiwan": [
     {
       "rank": 1,
-      "title": "【重訊】5013 強新：公告本公司副董事長逝世",
-      "summary": [
-        "公開資訊觀測站：【重訊】5013 強新：公告本公司副董事長逝世",
-        "自由時報：「府中奇幻城」萬聖節登場 新北警10/31封街交管",
-        "MoneyDJ理財網：隨叫隨到生活控股有限公司"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "公開資訊觀測站",
-          "title": "【重訊】5013 強新：公告本公司副董事長逝世",
-          "url": "https://mops.twse.com.tw/mops/web/t05sr01_1#mops-5013-34ff6cf20d2b"
-        },
-        {
-          "source": "自由時報",
-          "title": "「府中奇幻城」萬聖節登場 新北警10/31封街交管",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5620211"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "隨叫隨到生活控股有限公司",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMWg0eVhQMFp2ZkhPUDBIMG5WZ2tPdTR4bFBVYnpWUVZ5R0VrVlh5YWJBbUdRM1czM2w5NHFfS1JvdVpOeVFzRUN5d3FGRDJKbGNzRWJmcDVjUWhNQk5NYmpiS0g4eEJIbkJRVXlxVlhlMm0zOEp6eElURWhHY2VlWnVkelBncUlEeXhZWFFSNzMtNE9oTno4?oc=5"
-        },
-        {
-          "source": "今周刊",
-          "title": "打造學子安全上學路！桃園通學廊道第100校竣工",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVlkwRE5sYWg2S2ZlME05YWdpV0ZGUUJLazVGczg5ZmY2RnRxeUIwemRUSG5qX1kycE54RDAyMThQUDJtNkdYQ19Vc2VRVVV4TU1wRDMzMUNTM181a0hGTWkyNUZlN3Q2T2ZUN04yUURrUkZXVUZUSkVLZExoSktYVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "河口湖命案主嫌分身帳號曝！赫見沈伯洋在好友名單",
       "summary": [
         "ETtoday：河口湖命案主嫌分身帳號曝！赫見沈伯洋在好友名單",
@@ -62,6 +30,33 @@
           "source": "風傳媒",
           "title": "河口湖命案主嫌「竟是臉書好友」！沈伯洋親揭2人關係 | 蔣季容 | 新聞",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVVmxpOFZoRU5EMWl5R3FReFZ0UkV4Zy1PRlhQX0UxTjlrSHllVzBXa1g3ck9TQi1VSzJXYTRPSjdtYTZNMkFNUGFINzlnUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "宏達電推個人AI新品VIVEE 搶攻AI陪伴商機- 新聞",
+      "summary": [
+        "MoneyDJ理財網：宏達電推個人AI新品VIVEE 搶攻AI陪伴商機- 新聞",
+        "工商時報：強茂、臺半、德微卡位AI電源升級潮- 日報",
+        "自由時報：明華園重返屏東 孫翠鳳領軍演出《李靖斬龍》"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "宏達電推個人AI新品VIVEE 搶攻AI陪伴商機- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT191V09GcEh3R3RYUVp1ZklRZ3gzWllKU1RBSVFoMW5FbTNHcURZb2x0OERyUGFJZU9WM09lMHVQQ2ZtZ1NsekYxd3phR0dpNXQ1b0lzSlpZNlJzN3k5aXBlNDhXeS1Dc3FrQlZMSnhOaUptNzZqZkstUmJnSm1ROGZfVy11bEEzNjVJQjY1MW9vdw?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "強茂、臺半、德微卡位AI電源升級潮- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ydDlwOXFTVkJjOHdscUFlMEVLMFZzNVlmbm5nRzk5VXZpb1UzWFJSQ2hQVUFHM1ZLYzU0REhEUFB1Y3BsTXRodFQ0czByRndKMmJ0TjhVcktBRS1YN29v?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "明華園重返屏東 孫翠鳳領軍演出《李靖斬龍》",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5620626"
         }
       ]
     },
@@ -109,48 +104,6 @@
     },
     {
       "rank": 5,
-      "title": "OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半",
-      "summary": [
-        "科技新報：OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半",
-        "iThome：OpenAI新模型GPT-6.1 Terra強化視覺與電腦操作，API價格僅Sol一半"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半",
-          "url": "https://technews.tw/2026/10/27/openai-introduces-gpt-6-1-terra/"
-        },
-        {
-          "source": "iThome",
-          "title": "OpenAI新模型GPT-6.1 Terra強化視覺與電腦操作，API價格僅Sol一半",
-          "url": "https://www.ithome.com.tw/news/179985"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "iPhone Duo 災情致新日興股價重挫，後續關注良率",
-      "summary": [
-        "科技新報：iPhone Duo 災情致新日興股價重挫，後續關注良率",
-        "MoneyDJ理財網：iPhone Duo災情致新日興股價重挫，後續關注良率- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "iPhone Duo 災情致新日興股價重挫，後續關注良率",
-          "url": "https://technews.tw/2026/10/27/iphone-duo-screen-issues-send-szs-shares-tumbling/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "iPhone Duo災情致新日興股價重挫，後續關注良率- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGVjTFc4dGNFa20tZ3JLOEY3cW9FcjNQTE1BUjhVR0pXaUlwNnJYaG9lNzVENmJzeF9FbjNhbjI3SnNoSmNINkdhVXVZb0pOSW1oTEloYTFaMktBdHd5SFd6RVRGT29aX1pKYUlmbk5COEZ4aFlGY2lLWU5nYU5DOHF1R090X1pwekpWZnNBdlI2Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "搶攻量子運算！英特爾收購以色列新創 Classiq，打造軟硬體全堆疊平臺",
       "summary": [
         "科技新報：搶攻量子運算！英特爾收購以色列新創 Classiq，打造軟硬體全堆疊平臺",
@@ -171,7 +124,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "AI 需求暴增 1 萬倍！Pat Gelsinger：AI 非泡沫，產業迎 20 年超級週期",
       "summary": [
         "科技新報：AI 需求暴增 1 萬倍！Pat Gelsinger：AI 非泡沫，產業迎 20 年超級週期",
@@ -192,7 +145,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "GMO拒付駭客百萬美元　籲使用者關閉裝置電源",
       "summary": [
         "經濟日報：GMO拒付駭客百萬美元　籲使用者關閉裝置電源",
@@ -213,7 +166,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "河口湖命案疑殺妻詐保　網嘆「4人被金錢誘惑」：根本底層悲劇",
       "summary": [
         "ETtoday：河口湖命案疑殺妻詐保　網嘆「4人被金錢誘惑」：根本底層悲劇",
@@ -230,6 +183,48 @@
           "source": "自由時報",
           "title": "河口湖命案狠夫疑為詐保險金買兇殺妻 「殺人魔」詐領保費殺6人最駭人聽聞",
           "url": "https://news.ltn.com.tw/news/society/breakingnews/5620825"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Anthropic 提交 IPO 重振市場信心，日韓股市領漲亞股",
+      "summary": [
+        "科技新報：Anthropic 提交 IPO 重振市場信心，日韓股市領漲亞股",
+        "經濟日報：Anthropic提交IPO重振市場信心　日韓股市領漲亞股"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "Anthropic 提交 IPO 重振市場信心，日韓股市領漲亞股",
+          "url": "https://finance.technews.tw/2026/10/27/anthropic-ipo-boosts-market-confidence-japan-korea-stocks-lead-asia/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "Anthropic提交IPO重振市場信心　日韓股市領漲亞股",
+          "url": "https://money.udn.com/money/story/5599/9840323"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "輝達投資Meta近1000億元　深化個人AI代理Muse合作",
+      "summary": [
+        "經濟日報：輝達投資Meta近1000億元　深化個人AI代理Muse合作",
+        "自由時報：輝達投資Meta近1000億元 深化個人AI代理Muse合作"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "輝達投資Meta近1000億元　深化個人AI代理Muse合作",
+          "url": "https://money.udn.com/money/story/123398/9840264"
+        },
+        {
+          "source": "自由時報",
+          "title": "輝達投資Meta近1000億元 深化個人AI代理Muse合作",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5620559"
         }
       ]
     }
@@ -264,33 +259,6 @@
     },
     {
       "rank": 2,
-      "title": "Israelis go to the polls in historic election",
-      "summary": [
-        "Financial Times：Israelis go to the polls in historic election",
-        "BBC World：Israel heads to polls for pivotal election defined by security and democracy",
-        "Washington Post：Israelis head to the polls, with nation’s future and Netanyahu’s fate on the line"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "Israelis go to the polls in historic election",
-          "url": "https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1"
-        },
-        {
-          "source": "BBC World",
-          "title": "Israel heads to polls for pivotal election defined by security and democracy",
-          "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Washington Post",
-          "title": "Israelis head to the polls, with nation’s future and Netanyahu’s fate on the line",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlhqbzVQSTlhY3I2N01SQ3QwRWlGRGJTbGtrc3FCU1VEQ0ZjVjFudFJITU9OY3hXVy1zbktyQ2pDakN3cWVlWFc1cjQ1VjVBNDBxa3ZtZVVrY0w4dzk0YURyU1d4OW9RaEhKRkhXcGo4TDdBUnVNdDBocG9lU0x6bnF3cW1LbUFud1dXQUc5NC1EWGdGMF9SQjdjb0pKZnNsYkdDUUVkY0NuOUZNUkJ6VGlzanJNZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
       "summary": [
         "BBC World：Major Chinese brands drop Mbappé as backlash grows over Mao joke",
@@ -311,7 +279,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Anthropic IPO Reignites AI Trade in Asia",
       "summary": [
         "Bloomberg Markets：Anthropic IPO Reignites AI Trade in Asia",
@@ -332,7 +300,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Porsche profit rebounds in nine-month period after restructuring costs",
       "summary": [
         "Investing.com：Porsche profit rebounds in nine-month period after restructuring costs",
@@ -349,6 +317,27 @@
           "source": "CNBC",
           "title": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
           "url": "https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Israel heads to polls for pivotal election defined by security and democracy",
+      "summary": [
+        "BBC World：Israel heads to polls for pivotal election defined by security and democracy",
+        "Washington Post：Israelis head to the polls, with nation’s future and Netanyahu’s fate on the line"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Israel heads to polls for pivotal election defined by security and democracy",
+          "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Washington Post",
+          "title": "Israelis head to the polls, with nation’s future and Netanyahu’s fate on the line",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlhqbzVQSTlhY3I2N01SQ3QwRWlGRGJTbGtrc3FCU1VEQ0ZjVjFudFJITU9OY3hXVy1zbktyQ2pDakN3cWVlWFc1cjQ1VjVBNDBxa3ZtZVVrY0w4dzk0YURyU1d4OW9RaEhKRkhXcGo4TDdBUnVNdDBocG9lU0x6bnF3cW1LbUFud1dXQUc5NC1EWGdGMF9SQjdjb0pKZnNsYkdDUUVkY0NuOUZNUkJ6VGlzanJNZw?oc=5"
         }
       ]
     },
@@ -417,31 +406,43 @@
     },
     {
       "rank": 9,
-      "title": "Why is Standard Chartered stock sliding today?",
+      "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
       "summary": [
-        "Investing.com：Why is Standard Chartered stock sliding today?"
+        "BBC World：Flávio Bolsonaro's passports cancelled after he fails to surrender them",
+        "Financial Times：Flávio Bolsonaro’s passport cancelled as reports say he has fled Brazil"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "Why is Standard Chartered stock sliding today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-standard-chartered-stock-sliding-today-93CH-4974510"
+          "source": "BBC World",
+          "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Financial Times",
+          "title": "Flávio Bolsonaro’s passport cancelled as reports say he has fled Brazil",
+          "url": "https://www.ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "Why is CITIC Securities stock sliding today?",
+      "title": "SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
       "summary": [
-        "Investing.com：Why is CITIC Securities stock sliding today?"
+        "Bloomberg Markets：SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
+        "Investing.com：SEC’s Atkins seeks changes to crowdfunding regulations"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
+          "source": "Bloomberg Markets",
+          "title": "SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-27/sec-weighing-overhaul-to-crowdfunding-rules-atkins-says"
+        },
+        {
           "source": "Investing.com",
-          "title": "Why is CITIC Securities stock sliding today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-citic-securities-stock-sliding-today-93CH-4974194"
+          "title": "SEC’s Atkins seeks changes to crowdfunding regulations",
+          "url": "https://www.investing.com/news/stock-market-news/secs-atkins-seeks-changes-to-crowdfunding-regulations-4976569"
         }
       ]
     }
