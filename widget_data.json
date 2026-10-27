@@ -1,21 +1,16 @@
 {
-  "updated_at": "2026-10-27 19:20",
+  "updated_at": "2026-10-27 20:17",
   "taiwan": [
     {
       "rank": 1,
-      "title": "微軟重金佈局AI同步削減成本　「自願離職方案」6萬員工符合資格",
+      "title": "為 AI 攢錢！微軟開放6萬員工「自願離職」層級達副總 涵蓋全球1/4人力",
       "summary": [
-        "ETtoday：微軟重金佈局AI同步削減成本　「自願離職方案」6萬員工符合資格",
         "經濟日報：為 AI 攢錢！微軟開放6萬員工「自願離職」層級達副總 涵蓋全球1/4人力",
-        "iThome：微軟向6萬名員工提出自願離職方案，涵蓋全球27%人力"
+        "iThome：微軟向6萬名員工提出自願離職方案，涵蓋全球27%人力",
+        "工商時報：AI太燒錢！微軟擴大自願離職方案 6萬名員工符合資格、佔全球人力近3成"
       ],
       "media_count": 5,
       "links": [
-        {
-          "source": "ETtoday",
-          "title": "微軟重金佈局AI同步削減成本　「自願離職方案」6萬員工符合資格",
-          "url": "https://www.ettoday.net/news/20261027/3261287.htm"
-        },
         {
           "source": "經濟日報",
           "title": "為 AI 攢錢！微軟開放6萬員工「自願離職」層級達副總 涵蓋全球1/4人力",
@@ -35,6 +30,11 @@
           "source": "數位時代",
           "title": "微軟啟動大規模精簡！向6萬員工發放「自願離職」方案，佔總人力1/4",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZllQR1RVQzdZdHV4MEVuZGtwZmp2ZG1NcnZCUnR3ZTJNQzUzemxlTmhuWWstemVXdmN4ZnpRaEZ2XzRmWjdLR1J5dm0zcUx3bUFwV0RmX1E2NnNJaEFOUUF4cmFlNU9xNERMcEpJUmdydlUyc2I2dXhUSlNzb21uYUNlZExJdVJCZVdMOVdn?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "微軟自願離職方案 6 萬人適用，AI 投資下的成本大瘦身",
+          "url": "https://technews.tw/2026/10/27/microsoft-plans-buyout-offers-for-60000-workers-as-it-seeks-to-cut-costs/"
         }
       ]
     },
@@ -265,22 +265,22 @@
     },
     {
       "rank": 10,
-      "title": "福斯傳出　考慮將中國電動車軟體匯入歐洲",
+      "title": "路透：越南首座晶片廠難達明年試產目標，未敲定 ASML 裝置採購",
       "summary": [
-        "ETtoday：福斯傳出　考慮將中國電動車軟體匯入歐洲",
-        "科技新報：傳福斯考慮將中國車用軟體匯入歐洲"
+        "科技新報：路透：越南首座晶片廠難達明年試產目標，未敲定 ASML 裝置採購",
+        "工商時報：要開天窗？越南首座半導體廠明年試產難未敲定ASML裝置採購- 國際"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "福斯傳出　考慮將中國電動車軟體匯入歐洲",
-          "url": "https://www.ettoday.net/news/20261027/3261293.htm"
+          "source": "科技新報",
+          "title": "路透：越南首座晶片廠難達明年試產目標，未敲定 ASML 裝置採購",
+          "url": "https://technews.tw/2026/10/27/vietnams-first-chip-plant-unlikely-to-meet-2027-target/"
         },
         {
-          "source": "科技新報",
-          "title": "傳福斯考慮將中國車用軟體匯入歐洲",
-          "url": "https://technews.tw/2026/10/27/volkswagen-considers-using-chinese-software-for-europe/"
+          "source": "工商時報",
+          "title": "要開天窗？越南首座半導體廠明年試產難未敲定ASML裝置採購- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PN3M4TGJxV1lXQWlMUERWSUJlemxzcmVjYnR4VWszMWNITHctSjdwRXZINVVmcE9zSktVWTJOS3N5LTh3YjFpSWlkdFdESGZ0V3JwRTBRdXBVRVhaNjlV?oc=5"
         }
       ]
     }
