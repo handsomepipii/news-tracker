@@ -135,7 +135,7 @@ INTL_FEEDS = {
     "WSJ Markets": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
     "CNBC": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
     "MarketWatch": "https://feeds.marketwatch.com/marketwatch/topstories",
-    "Yahoo Finance": "https://finance.yahoo.com/news/rssindex",
+    "Yahoo Finance": "https://news.google.com/rss/search?q=site:finance.yahoo.com+when:1d&hl=en-US&gl=US&ceid=US:en",
     "Investing.com": "https://www.investing.com/rss/news_25.rss",
     "Nikkei Asia": "https://news.google.com/rss/search?q=site:asia.nikkei.com+when:1d&hl=en-US&gl=US&ceid=US:en",
     # --- 國際科技、AI 與半導體硬體 ---
@@ -143,7 +143,7 @@ INTL_FEEDS = {
     "The Verge": "https://www.theverge.com/rss/index.xml",
     "Ars Technica": "https://feeds.arstechnica.com/arstechnica/index",
     "Wired": "https://www.wired.com/feed/rss",
-    "VentureBeat": "https://venturebeat.com/feed/",
+    "VentureBeat": "https://news.google.com/rss/search?q=site:venturebeat.com+when:1d&hl=en-US&gl=US&ceid=US:en",
     "Tom's Hardware": "https://www.tomshardware.com/feeds/all",
     "Wccftech": "https://wccftech.com/feed/"
 }
