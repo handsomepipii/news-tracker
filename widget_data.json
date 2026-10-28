@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-10-28 23:05",
+  "updated_at": "2026-10-29 00:00",
   "taiwan": [
     {
       "rank": 1,
+      "title": "增至46死！西班牙高鐵追撞慘況曝　男目睹「乘客瞬間拋飛」",
+      "summary": [
+        "ETtoday：增至46死！西班牙高鐵追撞慘況曝　男目睹「乘客瞬間拋飛」",
+        "經濟日報：西班牙高鐵追撞暴增至64死　BBC：該國10年來最慘鐵路事故",
+        "自由時報：西班牙驚傳高鐵追撞！兩車廂脫軌至少64死120多傷 驚悚畫面曝"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "增至46死！西班牙高鐵追撞慘況曝　男目睹「乘客瞬間拋飛」",
+          "url": "https://www.ettoday.net/news/20261028/3262415.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "西班牙高鐵追撞暴增至64死　BBC：該國10年來最慘鐵路事故",
+          "url": "https://money.udn.com/money/story/5599/9843260"
+        },
+        {
+          "source": "自由時報",
+          "title": "西班牙驚傳高鐵追撞！兩車廂脫軌至少64死120多傷 驚悚畫面曝",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5621721"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "以色列大選陷入僵局　尼坦雅胡繼續執掌政權面臨考驗",
       "summary": [
         "經濟日報：以色列大選陷入僵局　尼坦雅胡繼續執掌政權面臨考驗",
@@ -23,7 +50,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "西班牙2列高鐵相撞 至少10人死亡",
       "summary": [
         "經濟日報：西班牙2列高鐵相撞 至少10人死亡",
@@ -44,154 +71,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "路透：全球高通膨恐持續至2027年　物價壓力難消",
-      "summary": [
-        "經濟日報：路透：全球高通膨恐持續至2027年　物價壓力難消",
-        "科技新報：路透：全球高通膨恐持續至 2027 年，物價壓力難消"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "路透：全球高通膨恐持續至2027年　物價壓力難消",
-          "url": "https://money.udn.com/money/story/5599/9841585"
-        },
-        {
-          "source": "科技新報",
-          "title": "路透：全球高通膨恐持續至 2027 年，物價壓力難消",
-          "url": "https://technews.tw/2026/10/28/global-inflation-may-persist-through-2027/"
-        }
-      ]
-    },
-    {
       "rank": 4,
-      "title": "醫師公會稱護理師加薪3到5萬 護師公會不滿：說明要精確",
-      "summary": [
-        "自由時報：醫師公會稱護理師加薪3到5萬 護師公會不滿：說明要精確",
-        "ETtoday：護理師「加薪3至5萬」？醫師公會讚賴政府惹議　第一線也怒了"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "醫師公會稱護理師加薪3到5萬 護師公會不滿：說明要精確",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5621175"
-        },
-        {
-          "source": "ETtoday",
-          "title": "護理師「加薪3至5萬」？醫師公會讚賴政府惹議　第一線也怒了",
-          "url": "https://www.ettoday.net/news/20261028/3262410.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Google 發表 Genie 4 世界模型，支援即時改寫場景與原生音訊生成",
-      "summary": [
-        "科技新報：Google 發表 Genie 4 世界模型，支援即時改寫場景與原生音訊生成",
-        "科技報橘：Google 推 Genie 4 邁向「混合世界模型」：從即時互動、聲音生成到 Gemini 參與模擬"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "Google 發表 Genie 4 世界模型，支援即時改寫場景與原生音訊生成",
-          "url": "https://technews.tw/2026/10/28/google-deepmind-announces-genie-4/"
-        },
-        {
-          "source": "科技報橘",
-          "title": "Google 推 Genie 4 邁向「混合世界模型」：從即時互動、聲音生成到 Gemini 參與模擬",
-          "url": "https://techorange.com/2026/10/28/google-deepmind-genie-4-world-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "挪威遭駭得逞次數一年增至3倍　當局示警AI助攻",
-      "summary": [
-        "經濟日報：挪威遭駭得逞次數一年增至3倍　當局示警AI助攻",
-        "科技新報：挪威遭駭得逞次數一年增至 3 倍，當局示警 AI 助攻"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "挪威遭駭得逞次數一年增至3倍　當局示警AI助攻",
-          "url": "https://money.udn.com/money/story/5599/9841684"
-        },
-        {
-          "source": "科技新報",
-          "title": "挪威遭駭得逞次數一年增至 3 倍，當局示警 AI 助攻",
-          "url": "https://infosecu.technews.tw/2026/10/28/successful-cyberattacks-norway-tripled-year-authorities-warn-ai-assistance/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "川普稱將禁用人工智慧一詞　改採超級智慧更準確",
-      "summary": [
-        "經濟日報：川普稱將禁用人工智慧一詞　改採超級智慧更準確",
-        "科技新報：川普嫌 AI 用詞不當  揚言「將全面禁用、改稱 SI」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普稱將禁用人工智慧一詞　改採超級智慧更準確",
-          "url": "https://money.udn.com/money/story/5599/9841680"
-        },
-        {
-          "source": "科技新報",
-          "title": "川普嫌 AI 用詞不當  揚言「將全面禁用、改稱 SI」",
-          "url": "https://technews.tw/2026/10/28/trump-again-threatens-to-stop-using-ai-and-rename-it-si/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "AI算力需求激增　OpenAI擬採購Google AI晶片",
-      "summary": [
-        "經濟日報：AI算力需求激增　OpenAI擬採購Google AI晶片",
-        "INSIDE硬塞：打破 NVIDIA 獨大？傳 OpenAI 有意採購 Google AI 晶片深化雙方合作"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "AI算力需求激增　OpenAI擬採購Google AI晶片",
-          "url": "https://money.udn.com/money/story/5599/9841619"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "打破 NVIDIA 獨大？傳 OpenAI 有意採購 Google AI 晶片深化雙方合作",
-          "url": "https://www.inside.com.tw/article/42755-openai-longtime-nvidia-customer-plans-buy-googles-ai-chips"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "選錯人的代價！謝金河：巴西大選引爆股匯債三殺 富豪財富一天蒸發140億美元",
-      "summary": [
-        "財訊：選錯人的代價！謝金河：巴西大選引爆股匯債三殺 富豪財富一天蒸發140億美元",
-        "今周刊：巴西親中派魯拉連任，股匯債三殺！謝金河嘆「選錯人的代價」籲臺灣借鏡：政治是影響經濟的核心"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "財訊",
-          "title": "選錯人的代價！謝金河：巴西大選引爆股匯債三殺 富豪財富一天蒸發140億美元",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LNXNFVWFlVnBvV2Vya1ZablNCYU5MaWFCWTdMVjZLOTV0OGRELVpZWkJpSW5aMW5fVjByS1dQMXZjemxfYlNZSk52SVI5RDJZbDJTbWlNTHhRdHYxeWdJS2g1bFVHOXo1bzB2elFVTFliQmtIcUJ3bTkwdw?oc=5"
-        },
-        {
-          "source": "今周刊",
-          "title": "巴西親中派魯拉連任，股匯債三殺！謝金河嘆「選錯人的代價」籲臺灣借鏡：政治是影響經濟的核心",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPanRIWDJBenU3Yi1SeG8yWDRzSmJWMHVoYmY5a2tycmNWS0hzdExrU1pfOXVCNWlLeE1zVi1oUXNuN1U2dVVSNzhRZUVuVFl6YlZfb2dJeHZrNlB0RUVXSU5kZXpFeUxJdDFwODlwSXFEQ0plS3pSaTFkeUpVc1NINw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "疑視線死角！樹林公車左轉輾婦人「雙腿開放性骨折」",
       "summary": [
         "自由時報：疑視線死角！樹林公車左轉輾婦人「雙腿開放性骨折」",
@@ -208,6 +88,132 @@
           "source": "TVBS新聞",
           "title": "有片／驚悚！樹林公車未禮讓猛撞行人！婦雙腿遭輾斷趴地哀嚎",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lYnlpQ204SFVJaGxqdWc3SldQSE96Sm1IZHNOaVVMM19VSTJFcVg3LVNWdWZlb1hOYkF5MjdWZENIRzkwS1NEZjNvRkJFSjg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "快訊／新竹「嘉晶電子」陷火海！黑煙竄天際 火舌狂冒警消急灌救",
+      "summary": [
+        "TVBS新聞：快訊／新竹「嘉晶電子」陷火海！黑煙竄天際 火舌狂冒警消急灌救",
+        "公開資訊觀測站重訊：嘉晶新竹創新廠火警 濃煙竄天！ 公司重訊回應了"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "快訊／新竹「嘉晶電子」陷火海！黑煙竄天際 火舌狂冒警消急灌救",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10c0dyTHl4YTRvc2k4V1dkWFowOW81amFza3BqR2dsTmZFV05oS1FyOUhsVWhPdEdBWTJDVUpoRUlkelN6MzFsbnpjLXNCcHc?oc=5"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "嘉晶新竹創新廠火警 濃煙竄天！ 公司重訊回應了",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MUUhwd29iN2N5MlZSbEZCNlJJZnhNWEZIbzJBUHFMSEJNMlZucDdKNks3Q2NjTEFRWmZMZ2E1eTYtbGFiMEJVemxWR21tcWVSWmRXM0hSRVAwUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Anthropic 估值上看 2 兆美元，7 名創辦人將成億萬富豪",
+      "summary": [
+        "科技新報：Anthropic 估值上看 2 兆美元，7 名創辦人將成億萬富豪",
+        "經濟日報：Anthropic估值上看2兆美元　7名創辦人將成億萬富豪"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "Anthropic 估值上看 2 兆美元，7 名創辦人將成億萬富豪",
+          "url": "https://finance.technews.tw/2026/10/28/anthropic-valuation-reach-2-trillion-7-founders-billionaires/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "Anthropic估值上看2兆美元　7名創辦人將成億萬富豪",
+          "url": "https://money.udn.com/money/story/123398/9841768"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "日本將徵 5 年反傾銷稅，鎖定臺灣與中國產鋼材",
+      "summary": [
+        "科技新報：日本將徵 5 年反傾銷稅，鎖定臺灣與中國產鋼材",
+        "經濟日報：日本將徵5年反傾銷稅　鎖定臺灣與中國產鋼材"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "日本將徵 5 年反傾銷稅，鎖定臺灣與中國產鋼材",
+          "url": "https://technews.tw/2026/10/28/japan-impose-5-year-anti-dumping-duties-steel-taiwan-china/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "日本將徵5年反傾銷稅　鎖定臺灣與中國產鋼材",
+          "url": "https://money.udn.com/money/story/5599/9841771"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "韓國金融業再傳資安事件　3業者通報資料外洩",
+      "summary": [
+        "經濟日報：韓國金融業再傳資安事件　3業者通報資料外洩",
+        "科技新報：韓國金融業再傳資安事件，3 業者通報資料外洩"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "韓國金融業再傳資安事件　3業者通報資料外洩",
+          "url": "https://money.udn.com/money/story/5599/9841939"
+        },
+        {
+          "source": "科技新報",
+          "title": "韓國金融業再傳資安事件，3 業者通報資料外洩",
+          "url": "https://infosecu.technews.tw/2026/10/28/south-korean-financial-industry-another-cybersecurity-incident-3-firms-data-breaches/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "電巴市佔穩居全臺前三  創奕能源預計明年登入興櫃",
+      "summary": [
+        "自由時報：電巴市佔穩居全臺前三  創奕能源預計明年登入興櫃",
+        "科技新報：創奕能源電巴市佔穩居全臺前三！董座黃振聲喊力拚明年登入興櫃"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "電巴市佔穩居全臺前三  創奕能源預計明年登入興櫃",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5621489"
+        },
+        {
+          "source": "科技新報",
+          "title": "創奕能源電巴市佔穩居全臺前三！董座黃振聲喊力拚明年登入興櫃",
+          "url": "https://finance.technews.tw/2026/10/28/electric-bus-market-share/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "恩智浦財測遜、估營收成長放緩  盤後跳水",
+      "summary": [
+        "科技新報：恩智浦財測遜、估營收成長放緩  盤後跳水",
+        "MoneyDJ理財網：恩智浦財測遜、估營收成長放緩盤後跳水- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "恩智浦財測遜、估營收成長放緩  盤後跳水",
+          "url": "https://finance.technews.tw/2026/10/28/nxp-q4-outlook-disappoints-as-revenue-growth-expected-to-slow/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "恩智浦財測遜、估營收成長放緩盤後跳水- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd1M1YlVrZllWUjIzNFdWbWxqNjBoZFFnbjNxUFR4LTdDYTRZcmdnMFFIOUI2aEtadDYtV0F5WVU2bjJrMWlLSlFaTnl6UktndG0yNlc3M1Joa3dZMGxDZUVDbUxMczZabDVKMjkzdUN5ckVFQmV0ajhPYUtLSVdZVGZrXzhNb3Z6UTZ0Njd2azU3Zw?oc=5"
         }
       ]
     }
@@ -368,6 +374,27 @@
     },
     {
       "rank": 8,
+      "title": "Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
+      "summary": [
+        "The Guardian：Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
+        "Washington Post：Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
+          "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
+        },
+        {
+          "source": "Washington Post",
+          "title": "Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS200OVFWbk5QSmRLRnpfZlJmM0NIV1FUOGNQd0FNakZKcXJmc29FSWZaMXkwdUJfWlRVZVJKLWVvVmVzcjhrWDhJc0VQVUxCZWZ0U2syLTUwZ1J1bVMzOXdMZGVKMHM5X1phdndEY19qTm45a1I0cmdIMjV3NkFXZlR6RXFycGU4MFJPTXhvMm5yN1FpUkNZUS1CLVotZGVOd3dsendTb0NJdjNLWi1kdTJHd0ctOHpRMUE0RGpB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Aftermath of Spanish Train Crash Near Madrid",
       "summary": [
         "Bloomberg Markets：Aftermath of Spanish Train Crash Near Madrid",
@@ -388,7 +415,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
       "summary": [
         "WSJ Markets：Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
@@ -405,27 +432,6 @@
           "source": "Investing.com",
           "title": "Trian Fund Management offers to buy Wendy’s for $1.4 billion, WSJ reports",
           "url": "https://www.investing.com/news/stock-market-news/trian-fund-management-offers-to-buy-wendys-for-14-billion-wsj-reports-4979065"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Wendy’s shares surge 15% on $1.4 billion takeover bid by Nelson Peltz’s Trian Fund",
-      "summary": [
-        "Investing.com：Wendy’s shares surge 15% on $1.4 billion takeover bid by Nelson Peltz’s Trian Fund",
-        "CNBC：Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Wendy’s shares surge 15% on $1.4 billion takeover bid by Nelson Peltz’s Trian Fund",
-          "url": "https://www.investing.com/news/stock-market-news/wendys-shares-surge-16-on-14-billion-takeover-bid-by-nelson-peltzs-trian-fund-4978904"
-        },
-        {
-          "source": "CNBC",
-          "title": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain",
-          "url": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html"
         }
       ]
     }
