@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-10-28 14:56",
+  "updated_at": "2026-10-28 16:08",
   "taiwan": [
     {
       "rank": 1,
-      "title": "美軍東太平洋打擊疑似運毒船　5人喪生",
-      "summary": [
-        "自由時報：美軍東太平洋打擊疑似運毒船　5人喪生",
-        "經濟日報：美軍東太平洋打擊疑似運毒船　5人喪生",
-        "ETtoday：美軍東太平洋打擊疑似運毒船釀5死　累計至少235人喪命"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美軍東太平洋打擊疑似運毒船　5人喪生",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620859"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美軍東太平洋打擊疑似運毒船　5人喪生",
-          "url": "https://money.udn.com/money/story/5599/9841028"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美軍東太平洋打擊疑似運毒船釀5死　累計至少235人喪命",
-          "url": "https://www.ettoday.net/news/20261028/3261889.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "路透：小波索納洛拒交護照　巴西大選落敗後赴美",
       "summary": [
         "自由時報：路透：小波索納洛拒交護照　巴西大選落敗後赴美",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "從救災到醫療照護 ！「AI智慧城市 x 有感生活」論壇展現跨域應用與產業新商機",
       "summary": [
         "INSIDE硬塞：從救災到醫療照護 ！「AI智慧城市 x 有感生活」論壇展現跨域應用與產業新商機",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "重啟外交化解中東衝突　國際油價下滑",
       "summary": [
         "自由時報：重啟外交化解中東衝突　國際油價下滑",
@@ -104,7 +77,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "美國期中選舉前一週　聯邦選委會網站遭駭系統中斷",
       "summary": [
         "自由時報：美國期中選舉前一週　聯邦選委會網站遭駭系統中斷",
@@ -125,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "不只輝達可選！甲骨文雲端納入Google、OpenAI晶片 支援AI運算",
       "summary": [
         "鉅亨網：不只輝達可選！甲骨文雲端納入Google、OpenAI晶片 支援AI運算",
@@ -146,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "路透：全球高通膨恐持續至2027年　物價壓力難消",
       "summary": [
         "經濟日報：路透：全球高通膨恐持續至2027年　物價壓力難消",
@@ -167,49 +140,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "輸了就落跑？涉洗錢又將失保護傘 巴西大選落敗者小波索納洛傳逃亡美國",
-      "summary": [
-        "自由時報：輸了就落跑？涉洗錢又將失保護傘 巴西大選落敗者小波索納洛傳逃亡美國",
-        "經濟日報：巴西大選敗選者抗命逃亡美國！川普政府認了伸援手 波索納洛步父後塵"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "輸了就落跑？涉洗錢又將失保護傘 巴西大選落敗者小波索納洛傳逃亡美國",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620860"
-        },
-        {
-          "source": "經濟日報",
-          "title": "巴西大選敗選者抗命逃亡美國！川普政府認了伸援手 波索納洛步父後塵",
-          "url": "https://money.udn.com/money/story/5599/9841172"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "以色列大選投票率破紀錄　對尼坦雅胡戰時表現作評斷",
-      "summary": [
-        "自由時報：以色列大選投票率破紀錄　對尼坦雅胡戰時表現作評斷",
-        "經濟日報：以色列大選投票率破紀錄　對尼坦雅胡戰時表現作評斷"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "以色列大選投票率破紀錄　對尼坦雅胡戰時表現作評斷",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620856"
-        },
-        {
-          "source": "經濟日報",
-          "title": "以色列大選投票率破紀錄　對尼坦雅胡戰時表現作評斷",
-          "url": "https://money.udn.com/money/story/5599/9841022"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 7,
       "title": "美期中選舉在即　川普：若選舉廉潔不論結果如何都尊重",
       "summary": [
         "自由時報：美期中選舉在即　川普：若選舉廉潔不論結果如何都尊重",
@@ -226,6 +157,69 @@
           "source": "經濟日報",
           "title": "美期中選舉在即　川普：若選舉廉潔不論結果如何都尊重",
           "url": "https://money.udn.com/money/story/5599/9841038"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票",
+      "summary": [
+        "自由時報：控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票",
+        "經濟日報：控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620862"
+        },
+        {
+          "source": "經濟日報",
+          "title": "控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票",
+          "url": "https://money.udn.com/money/story/5599/9841035"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "八里騎士轉彎與直行機車碰撞！1命危、1骨折送醫",
+      "summary": [
+        "自由時報：八里騎士轉彎與直行機車碰撞！1命危、1骨折送醫",
+        "ETtoday：八里深夜重大車禍！騎士直撞違規左轉機車　1命危1骨折"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "八里騎士轉彎與直行機車碰撞！1命危、1骨折送醫",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5620848"
+        },
+        {
+          "source": "ETtoday",
+          "title": "八里深夜重大車禍！騎士直撞違規左轉機車　1命危1骨折",
+          "url": "https://www.ettoday.net/news/20261028/3261890.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "投資人對AI類股重燃熱情　美股收紅",
+      "summary": [
+        "自由時報：投資人對AI類股重燃熱情　美股收紅",
+        "經濟日報：投資人對AI類股重燃熱情　美股收紅"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "投資人對AI類股重燃熱情　美股收紅",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5620868"
+        },
+        {
+          "source": "經濟日報",
+          "title": "投資人對AI類股重燃熱情　美股收紅",
+          "url": "https://money.udn.com/money/story/123398/9841078"
         }
       ]
     }
@@ -275,27 +269,6 @@
     },
     {
       "rank": 3,
-      "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
-      "summary": [
-        "Bloomberg Tech：Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
-        "Investing.com：Anduril, Qualcomm partner on new line of US-made laptops"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-27/anduril-and-qualcomm-plan-to-build-us-laptop-video"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Anduril, Qualcomm partner on new line of US-made laptops",
-          "url": "https://www.investing.com/news/stock-market-news/anduril-qualcomm-partner-on-new-line-of-usmade-laptops-4976680"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "為俄烏停戰芬蘭總統與挪威首相首次與普京通話",
       "summary": [
         "法廣RFI：為俄烏停戰芬蘭總統與挪威首相首次與普京通話",
@@ -316,7 +289,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "敗選的博索納羅（Flávio Bolsonaro）離境前往美國",
       "summary": [
         "法廣RFI：敗選的博索納羅（Flávio Bolsonaro）離境前往美國",
@@ -337,7 +310,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
       "summary": [
         "Bloomberg Markets：Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
@@ -358,7 +331,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Ambani’s Jio Surges in Debut After India-Record IPO",
       "summary": [
         "Bloomberg Markets：Ambani’s Jio Surges in Debut After India-Record IPO",
@@ -379,7 +352,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
       "summary": [
         "TechCrunch：Jio shares surge 21% in market debut after blockbuster India IPO",
@@ -396,6 +369,21 @@
           "source": "Investing.com",
           "title": "Jio shares surge over 20% in blockbuster market debut",
           "url": "https://www.investing.com/news/stock-market-news/jio-shares-surge-over-20-in-blockbuster-market-debut-4977495"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "2026年10月28日韓國主要報紙頭條新聞",
+      "summary": [
+        "韓聯社：2026年10月28日韓國主要報紙頭條新聞"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "2026年10月28日韓國主要報紙頭條新聞",
+          "url": "https://cn.yna.co.kr/view/ACK20261028000100881"
         }
       ]
     },
