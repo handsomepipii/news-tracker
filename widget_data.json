@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 00:59",
+  "updated_at": "2026-10-29 01:56",
   "taiwan": [
     {
       "rank": 1,
@@ -30,27 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "以色列大選陷入僵局　尼坦雅胡繼續執掌政權面臨考驗",
-      "summary": [
-        "經濟日報：以色列大選陷入僵局　尼坦雅胡繼續執掌政權面臨考驗",
-        "轉角國際：以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "以色列大選陷入僵局　尼坦雅胡繼續執掌政權面臨考驗",
-          "url": "https://money.udn.com/money/story/5599/9842098"
-        },
-        {
-          "source": "轉角國際",
-          "title": "以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13R283ZWY5SXZsT0sxcER6amtHWG5NZnBSbWlHa21wU1VKdko5ZmlaYThzNlVERkxiRUVKa0daV2VhcndJaWttbmdFcEJoNmltbkNJTEpYY1VEbFBHZmpsQ1hxY0haeXZCOTNR0gFrQVVfeXFMTXdHbzdlZjlJdmxPSzFwRHpqa0dYbk1mcFJtaUdrbXBTVUp2SjlmaVphOHM2VURGTGJFRUprR1pXZWFyd0lpa21uZ0VwQmg2aW1uQ0lMSlhjVURsUEdmamxDWHFjSFp5dkI5M1E?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "西班牙2列高鐵相撞 至少10人死亡",
       "summary": [
         "經濟日報：西班牙2列高鐵相撞 至少10人死亡",
@@ -71,7 +50,49 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗",
+      "summary": [
+        "轉角國際：以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗",
+        "經濟日報：以色列大選難分勝負 組閣前景充滿挑戰"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "轉角國際",
+          "title": "以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13R283ZWY5SXZsT0sxcER6amtHWG5NZnBSbWlHa21wU1VKdko5ZmlaYThzNlVERkxiRUVKa0daV2VhcndJaWttbmdFcEJoNmltbkNJTEpYY1VEbFBHZmpsQ1hxY0haeXZCOTNR0gFrQVVfeXFMTXdHbzdlZjlJdmxPSzFwRHpqa0dYbk1mcFJtaUdrbXBTVUp2SjlmaVphOHM2VURGTGJFRUprR1pXZWFyd0lpa21uZ0VwQmg2aW1uQ0lMSlhjVURsUEdmamxDWHFjSFp5dkI5M1E?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "以色列大選難分勝負 組閣前景充滿挑戰",
+          "url": "https://money.udn.com/money/story/5599/9841306"
+        }
+      ]
+    },
+    {
       "rank": 4,
+      "title": "首見針對臺灣商業航班封鎖！巴基斯坦禁我國籍航空飛越領空 華航長榮被迫改道",
+      "summary": [
+        "自由時報：首見針對臺灣商業航班封鎖！巴基斯坦禁我國籍航空飛越領空 華航長榮被迫改道",
+        "ETtoday：巴基斯坦挺一中禁臺航班飛越領空　外交部痛斥：將空域政治化"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "首見針對臺灣商業航班封鎖！巴基斯坦禁我國籍航空飛越領空 華航長榮被迫改道",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5621905"
+        },
+        {
+          "source": "ETtoday",
+          "title": "巴基斯坦挺一中禁臺航班飛越領空　外交部痛斥：將空域政治化",
+          "url": "https://www.ettoday.net/news/20261028/3262515.htm"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "西班牙列車追撞至少64死 運輸部長：號誌系統故障",
       "summary": [
         "經濟日報：西班牙列車追撞至少64死 運輸部長：號誌系統故障",
@@ -88,27 +109,6 @@
           "source": "自由時報",
           "title": "西班牙高鐵追撞至少68死　交通部長：排程中心下錯指令",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5622067"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "韓國金融業再傳資安事件　3業者通報資料外洩",
-      "summary": [
-        "經濟日報：韓國金融業再傳資安事件　3業者通報資料外洩",
-        "科技新報：韓國金融業再傳資安事件，3 業者通報資料外洩"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "韓國金融業再傳資安事件　3業者通報資料外洩",
-          "url": "https://money.udn.com/money/story/5599/9841939"
-        },
-        {
-          "source": "科技新報",
-          "title": "韓國金融業再傳資安事件，3 業者通報資料外洩",
-          "url": "https://infosecu.technews.tw/2026/10/28/south-korean-financial-industry-another-cybersecurity-incident-3-firms-data-breaches/"
         }
       ]
     },
@@ -135,6 +135,27 @@
     },
     {
       "rank": 7,
+      "title": "拚民進黨首位屏東市長 梁育慈邀資深在地人談百年阿緱",
+      "summary": [
+        "自由時報：拚民進黨首位屏東市長 梁育慈邀資深在地人談百年阿緱",
+        "TVBS新聞：【LIVE主播+立委線上聊】 北市選戰熱! 沈伯洋民調落後翻轉 鍾佳濱:洋流也吹到屏東"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "拚民進黨首位屏東市長 梁育慈邀資深在地人談百年阿緱",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5621457"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "【LIVE主播+立委線上聊】 北市選戰熱! 沈伯洋民調落後翻轉 鍾佳濱:洋流也吹到屏東",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBneDFtWGNaYkZWeVhCT1NnOHkxMUZMUHNfTk50aHFUemREN09mN0xhZ3ppN3RtUWhCS1M1Q0I4c1Ffelpmc0laZGhoYlhDSkZ3QXdYQlNR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "恩智浦財測遜、估營收成長放緩  盤後跳水",
       "summary": [
         "科技新報：恩智浦財測遜、估營收成長放緩  盤後跳水",
@@ -155,7 +176,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "路透：長鑫將生產 HBM3E！良率僅20%仍硬撐 凸顯中國 AI 記憶體短缺",
       "summary": [
         "經濟日報：路透：長鑫將生產 HBM3E！良率僅20%仍硬撐 凸顯中國 AI 記憶體短缺",
@@ -176,7 +197,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "稱毛澤東獨裁者遭中國抵制法球星姆巴佩多語言發文致歉｜20261028 公視早安新聞｜ 公視新聞PNN",
       "summary": [
         "公視新聞：稱毛澤東獨裁者遭中國抵制法球星姆巴佩多語言發文致歉｜20261028 公視早安新聞｜ 公視新聞PNN",
@@ -193,27 +214,6 @@
           "source": "ETtoday",
           "title": "姆巴佩捲入「辱華」風波　中國外交部：重視當事人道歉",
           "url": "https://sports.ettoday.net/news/3262469"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "拔樁成功！侯友宜競選主委、前藍委倒戈　力挺蘇巧慧「高票當選」",
-      "summary": [
-        "ETtoday：拔樁成功！侯友宜競選主委、前藍委倒戈　力挺蘇巧慧「高票當選」",
-        "自由時報：蔣萬安、沈伯洋民調拉鋸 主委盧秀燕喊「有信心勝選」曝原因"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "拔樁成功！侯友宜競選主委、前藍委倒戈　力挺蘇巧慧「高票當選」",
-          "url": "https://www.ettoday.net/news/20261028/3262252.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "蔣萬安、沈伯洋民調拉鋸 主委盧秀燕喊「有信心勝選」曝原因",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5621847"
         }
       ]
     }
@@ -248,6 +248,60 @@
     },
     {
       "rank": 2,
+      "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+      "summary": [
+        "CNBC：Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+        "The Verge：Hands-on with Apple’s touchscreen MacBook Pro",
+        "Wired：The Inside Story of Why Apple Finally Brought a Touch Display to the Mac"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+          "url": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html"
+        },
+        {
+          "source": "The Verge",
+          "title": "Hands-on with Apple’s touchscreen MacBook Pro",
+          "url": "https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on"
+        },
+        {
+          "source": "Wired",
+          "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac",
+          "url": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Apple launches its new touchscreen MacBook Pro",
+      "summary": [
+        "TechCrunch：Apple launches its new touchscreen MacBook Pro",
+        "The Verge：Apple announces its first touchscreen MacBook Pro",
+        "Tom's Hardware：Apple launches new MacBook with touchscreen and OLED — starts at $2,899"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "Apple launches its new touchscreen MacBook Pro",
+          "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/"
+        },
+        {
+          "source": "The Verge",
+          "title": "Apple announces its first touchscreen MacBook Pro",
+          "url": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "Apple launches new MacBook with touchscreen and OLED — starts at $2,899",
+          "url": "https://www.tomshardware.com/laptops/apple-launches-new-macbook-with-touchscreen-and-oled-starts-at-usd2-899"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Aftermath of Spanish Train Crash Near Madrid",
       "summary": [
         "Bloomberg Markets：Aftermath of Spanish Train Crash Near Madrid",
@@ -268,7 +322,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
       "summary": [
         "Financial Times：Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
@@ -289,91 +343,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Israel’s election: What happens next?",
-      "summary": [
-        "Financial Times：Israel’s election: What happens next?",
-        "BBC World：Watch: What happens now after close vote in Israeli election?"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "Israel’s election: What happens next?",
-          "url": "https://www.ft.com/content/4f122702-3765-4e9f-a94f-4b786bc2af15"
-        },
-        {
-          "source": "BBC World",
-          "title": "Watch: What happens now after close vote in Israeli election?",
-          "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Ambani’s Jio Surges in Debut After India-Record IPO",
-      "summary": [
-        "Bloomberg Markets：Ambani’s Jio Surges in Debut After India-Record IPO",
-        "Bloomberg Tech：Ambani's Jio Surges in Debut After India's Biggest IPO"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Ambani’s Jio Surges in Debut After India-Record IPO",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/ambani-s-jio-surges-in-debut-after-india-record-ipo-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Ambani's Jio Surges in Debut After India's Biggest IPO",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/ambani-s-jio-surges-in-debut-after-india-s-biggest-ipo-video"
-        }
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Exclusive-Rio Tinto proposes 56% pay jump for CEO as mining sector fights for talent",
-      "summary": [
-        "Investing.com：Exclusive-Rio Tinto proposes 56% pay jump for CEO as mining sector fights for talent",
-        "Financial Times：Rio Tinto proposes 56% pay bump for CEO"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Exclusive-Rio Tinto proposes 56% pay jump for CEO as mining sector fights for talent",
-          "url": "https://www.investing.com/news/stock-market-news/exclusiverio-tinto-proposes-56-pay-jump-for-ceo-as-mining-sector-fights-for-talent-4977483"
-        },
-        {
-          "source": "Financial Times",
-          "title": "Rio Tinto proposes 56% pay bump for CEO",
-          "url": "https://www.ft.com/content/294a4479-a7ae-4a6b-aa34-fabc5df5352c?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-      "summary": [
-        "TechCrunch：Jio shares surge 21% in market debut after blockbuster India IPO",
-        "Investing.com：Jio shares surge over 20% in blockbuster market debut"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-          "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Jio shares surge over 20% in blockbuster market debut",
-          "url": "https://www.investing.com/news/stock-market-news/jio-shares-surge-over-20-in-blockbuster-market-debut-4977495"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
       "summary": [
         "CNBC：Ten people confirmed dead in high-speed Spain train crash, local media report",
@@ -394,7 +364,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
       "summary": [
         "Bloomberg Markets：Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
@@ -415,7 +385,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
       "summary": [
         "The Guardian：Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
@@ -432,6 +402,48 @@
           "source": "Washington Post",
           "title": "Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS200OVFWbk5QSmRLRnpfZlJmM0NIV1FUOGNQd0FNakZKcXJmc29FSWZaMXkwdUJfWlRVZVJKLWVvVmVzcjhrWDhJc0VQVUxCZWZ0U2syLTUwZ1J1bVMzOXdMZGVKMHM5X1phdndEY19qTm45a1I0cmdIMjV3NkFXZlR6RXFycGU4MFJPTXhvMm5yN1FpUkNZUS1CLVotZGVOd3dsendTb0NJdjNLWi1kdTJHd0ctOHpRMUE0RGpB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
+      "summary": [
+        "WSJ Markets：Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
+        "Investing.com：Trian Fund Management offers to buy Wendy’s for $1.4 billion, WSJ reports"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "WSJ Markets",
+          "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
+          "url": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1?mod=rss_markets_main"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Trian Fund Management offers to buy Wendy’s for $1.4 billion, WSJ reports",
+          "url": "https://www.investing.com/news/stock-market-news/trian-fund-management-offers-to-buy-wendys-for-14-billion-wsj-reports-4979065"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Wendy’s shares surge 15% on $1.4 billion takeover bid by Nelson Peltz’s Trian Fund",
+      "summary": [
+        "Investing.com：Wendy’s shares surge 15% on $1.4 billion takeover bid by Nelson Peltz’s Trian Fund",
+        "CNBC：Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Wendy’s shares surge 15% on $1.4 billion takeover bid by Nelson Peltz’s Trian Fund",
+          "url": "https://www.investing.com/news/stock-market-news/wendys-shares-surge-16-on-14-billion-takeover-bid-by-nelson-peltzs-trian-fund-4978904"
+        },
+        {
+          "source": "CNBC",
+          "title": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain",
+          "url": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html"
         }
       ]
     }
