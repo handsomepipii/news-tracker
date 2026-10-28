@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 02:57",
+  "updated_at": "2026-10-29 04:00",
   "taiwan": [
     {
       "rank": 1,
@@ -227,14 +227,19 @@
   "global": [
     {
       "rank": 1,
-      "title": "Apple launches its new touchscreen MacBook Pro",
+      "title": "Apple Unveils Touch-Screen MacBook Pro, Reversing Longheld Jobs Stance",
       "summary": [
+        "Bloomberg Tech：Apple Unveils Touch-Screen MacBook Pro, Reversing Longheld Jobs Stance",
         "TechCrunch：Apple launches its new touchscreen MacBook Pro",
-        "The Verge：Apple announces its first touchscreen MacBook Pro",
-        "Tom's Hardware：Apple launches new MacBook with touchscreen and OLED — starts at $2,899"
+        "The Verge：Apple announces its first touchscreen MacBook Pro"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Apple Unveils Touch-Screen MacBook Pro, Reversing Longheld Jobs Stance",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-28/apple-unveils-touch-screen-macbook-pro-reversing-longheld-jobs-stance"
+        },
         {
           "source": "TechCrunch",
           "title": "Apple launches its new touchscreen MacBook Pro",
@@ -259,6 +264,33 @@
     },
     {
       "rank": 2,
+      "title": "Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
+      "summary": [
+        "The Guardian：Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
+        "Washington Post：Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss",
+        "BBC World：Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
+          "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
+        },
+        {
+          "source": "Washington Post",
+          "title": "Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS200OVFWbk5QSmRLRnpfZlJmM0NIV1FUOGNQd0FNakZKcXJmc29FSWZaMXkwdUJfWlRVZVJKLWVvVmVzcjhrWDhJc0VQVUxCZWZ0U2syLTUwZ1J1bVMzOXdMZGVKMHM5X1phdndEY19qTm45a1I0cmdIMjV3NkFXZlR6RXFycGU4MFJPTXhvMm5yN1FpUkNZUS1CLVotZGVOd3dsendTb0NJdjNLWi1kdTJHd0ctOHpRMUE0RGpB?oc=5"
+        },
+        {
+          "source": "BBC World",
+          "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+          "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Amazon Unveils New Echo Show 16, Alexa Speakers, Smart Clock and Photo Frame",
       "summary": [
         "Bloomberg Tech：Amazon Unveils New Echo Show 16, Alexa Speakers, Smart Clock and Photo Frame",
@@ -285,7 +317,34 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "西班牙列車相撞至少64死：我們目前已知甚麼？",
+      "summary": [
+        "BBC中文：西班牙列車相撞至少64死：我們目前已知甚麼？",
+        "德國之聲：西班牙高鐵再釀慘劇  追尾脫軌至少64人遇難",
+        "NHK新聞：スペイン高速鉄道衝突事故 これまでに68人死亡 後続列車が追突"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "西班牙列車相撞至少64死：我們目前已知甚麼？",
+          "url": "https://www.bbc.com/zhongwen/articles/c50mejwyrypno/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "德國之聲",
+          "title": "西班牙高鐵再釀慘劇  追尾脫軌至少64人遇難",
+          "url": "https://www.dw.com/zh/西班牙高铁再酿惨剧-追尾脱轨至少64人遇难/a-79789821?maca=chi-rss-chi-all-1127-rdf"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "スペイン高速鉄道衝突事故 これまでに68人死亡 後続列車が追突",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261029de67453"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
       "summary": [
         "CNBC：Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
@@ -312,7 +371,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Aftermath of Spanish Train Crash Near Madrid",
       "summary": [
         "Bloomberg Markets：Aftermath of Spanish Train Crash Near Madrid",
@@ -333,7 +392,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
       "summary": [
         "Financial Times：Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
@@ -354,7 +413,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
       "summary": [
         "CNBC：Ten people confirmed dead in high-speed Spain train crash, local media report",
@@ -375,7 +434,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
       "summary": [
         "Bloomberg Markets：Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
@@ -396,28 +455,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
-      "summary": [
-        "The Guardian：Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
-        "Washington Post：Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
-          "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
-        },
-        {
-          "source": "Washington Post",
-          "title": "Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS200OVFWbk5QSmRLRnpfZlJmM0NIV1FUOGNQd0FNakZKcXJmc29FSWZaMXkwdUJfWlRVZVJKLWVvVmVzcjhrWDhJc0VQVUxCZWZ0U2syLTUwZ1J1bVMzOXdMZGVKMHM5X1phdndEY19qTm45a1I0cmdIMjV3NkFXZlR6RXFycGU4MFJPTXhvMm5yN1FpUkNZUS1CLVotZGVOd3dsendTb0NJdjNLWi1kdTJHd0ctOHpRMUE0RGpB?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
       "summary": [
         "WSJ Markets：Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
@@ -434,27 +472,6 @@
           "source": "Investing.com",
           "title": "Trian Fund Management offers to buy Wendy’s for $1.4 billion, WSJ reports",
           "url": "https://www.investing.com/news/stock-market-news/trian-fund-management-offers-to-buy-wendys-for-14-billion-wsj-reports-4979065"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Wendy’s shares surge 15% on $1.4 billion takeover bid by Nelson Peltz’s Trian Fund",
-      "summary": [
-        "Investing.com：Wendy’s shares surge 15% on $1.4 billion takeover bid by Nelson Peltz’s Trian Fund",
-        "CNBC：Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Wendy’s shares surge 15% on $1.4 billion takeover bid by Nelson Peltz’s Trian Fund",
-          "url": "https://www.investing.com/news/stock-market-news/wendys-shares-surge-16-on-14-billion-takeover-bid-by-nelson-peltzs-trian-fund-4978904"
-        },
-        {
-          "source": "CNBC",
-          "title": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain",
-          "url": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html"
         }
       ]
     }
