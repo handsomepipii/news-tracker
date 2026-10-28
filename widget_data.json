@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 04:54",
+  "updated_at": "2026-10-29 05:51",
   "taiwan": [
     {
       "rank": 1,
@@ -147,48 +147,27 @@
     },
     {
       "rank": 7,
-      "title": "彭博：巴基斯坦以「一個中國」政策為由 對臺灣航空公司關閉領空",
+      "title": "美期中選舉前　聯準會利率按兵不動",
       "summary": [
-        "經濟日報：彭博：巴基斯坦以「一個中國」政策為由 對臺灣航空公司關閉領空",
-        "自由時報：「這國」禁止臺灣航空公司飛越領空 外媒酸拍中國馬屁！連北京也沒這樣做"
+        "自由時報：美期中選舉前　聯準會利率按兵不動",
+        "經濟日報：美期中選舉前　聯準會利率按兵不動"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "彭博：巴基斯坦以「一個中國」政策為由 對臺灣航空公司關閉領空",
-          "url": "https://money.udn.com/money/story/5599/9842602"
+          "source": "自由時報",
+          "title": "美期中選舉前　聯準會利率按兵不動",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5622080"
         },
         {
-          "source": "自由時報",
-          "title": "「這國」禁止臺灣航空公司飛越領空 外媒酸拍中國馬屁！連北京也沒這樣做",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5622007"
+          "source": "經濟日報",
+          "title": "美期中選舉前　聯準會利率按兵不動",
+          "url": "https://money.udn.com/money/story/5599/9843548"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "臺積電進駐效益龐大　九州金融集團：3縣近14兆日圓",
-      "summary": [
-        "經濟日報：臺積電進駐效益龐大　九州金融集團：3縣近14兆日圓",
-        "科技新報：臺積電進駐帶動投資生產，九州金融集團估熊本等三縣獲益近 14 兆日圓"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "臺積電進駐效益龐大　九州金融集團：3縣近14兆日圓",
-          "url": "https://money.udn.com/money/story/5599/9842580"
-        },
-        {
-          "source": "科技新報",
-          "title": "臺積電進駐帶動投資生產，九州金融集團估熊本等三縣獲益近 14 兆日圓",
-          "url": "https://finance.technews.tw/2026/10/28/tsmc-entry-drives-investment-production-kyushu-financial-group-estimates-kumamoto-3-prefectures-14-trillion-yen-gain/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗",
       "summary": [
         "轉角國際：以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗",
@@ -209,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "日美同意合作建立第一島鏈防衛體系　強化「拒止型防衛能力」",
       "summary": [
         "經濟日報：日美同意合作建立第一島鏈防衛體系　強化「拒止型防衛能力」",
@@ -226,6 +205,27 @@
           "source": "科技新報",
           "title": "日美同意合作建立第一島鏈防衛體系，強化「拒止型防衛能力」",
           "url": "https://technews.tw/2026/10/28/japan-us-cooperate-first-island-chain-defense-system-strengthen-denial-defense-capabilities/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "北市議員陳重文陽明山辦餐會涉賄選  檢調搜尋約談21人到案",
+      "summary": [
+        "自由時報：北市議員陳重文陽明山辦餐會涉賄選  檢調搜尋約談21人到案",
+        "公視新聞：遭控陽明山辦餐會涉賄選北市議員陳重文被檢調搜尋｜20261028 公視晚間新聞｜ 公視新聞PNN"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "北市議員陳重文陽明山辦餐會涉賄選  檢調搜尋約談21人到案",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5621812"
+        },
+        {
+          "source": "公視新聞",
+          "title": "遭控陽明山辦餐會涉賄選北市議員陳重文被檢調搜尋｜20261028 公視晚間新聞｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFbE5jbmo3eUd1YzlSNm1aN21UcDQ1ZXJ4NzB6RHd1UEFWWjE2RFdtYU1pSnQwVGxpOVhxcTlObFE0VEk4Tk5IMEY4TQ?oc=5"
         }
       ]
     }
