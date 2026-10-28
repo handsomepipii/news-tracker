@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 16:58",
+  "updated_at": "2026-10-28 17:54",
   "taiwan": [
     {
       "rank": 1,
@@ -30,48 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "重啟外交化解中東衝突　國際油價下滑",
-      "summary": [
-        "自由時報：重啟外交化解中東衝突　國際油價下滑",
-        "經濟日報：重啟外交化解中東衝突　國際油價下滑"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "重啟外交化解中東衝突　國際油價下滑",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5620866"
-        },
-        {
-          "source": "經濟日報",
-          "title": "重啟外交化解中東衝突　國際油價下滑",
-          "url": "https://money.udn.com/money/story/5599/9841060"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "美國期中選舉前一週　聯邦選委會網站遭駭系統中斷",
-      "summary": [
-        "自由時報：美國期中選舉前一週　聯邦選委會網站遭駭系統中斷",
-        "經濟日報：美國期中選舉前一週　聯邦選委會網站遭駭系統中斷"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美國期中選舉前一週　聯邦選委會網站遭駭系統中斷",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620865"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美國期中選舉前一週　聯邦選委會網站遭駭系統中斷",
-          "url": "https://money.udn.com/money/story/5599/9841057"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "ASIC 再添利多！OpenAI 傳擬採購 Google AI 晶片",
       "summary": [
         "經濟日報：ASIC 再添利多！OpenAI 傳擬採購 Google AI 晶片",
@@ -92,7 +50,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "路透：全球高通膨恐持續至2027年　物價壓力難消",
       "summary": [
         "經濟日報：路透：全球高通膨恐持續至2027年　物價壓力難消",
@@ -113,7 +71,28 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "title": "以色列大選陷入僵局　尼坦雅胡繼續執掌政權面臨考驗",
+      "summary": [
+        "經濟日報：以色列大選陷入僵局　尼坦雅胡繼續執掌政權面臨考驗",
+        "轉角國際：以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "以色列大選陷入僵局　尼坦雅胡繼續執掌政權面臨考驗",
+          "url": "https://money.udn.com/money/story/5599/9842098"
+        },
+        {
+          "source": "轉角國際",
+          "title": "以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13R283ZWY5SXZsT0sxcER6amtHWG5NZnBSbWlHa21wU1VKdko5ZmlaYThzNlVERkxiRUVKa0daV2VhcndJaWttbmdFcEJoNmltbkNJTEpYY1VEbFBHZmpsQ1hxY0haeXZCOTNR0gFrQVVfeXFMTXdHbzdlZjlJdmxPSzFwRHpqa0dYbk1mcFJtaUdrbXBTVUp2SjlmaVphOHM2VURGTGJFRUprR1pXZWFyd0lpa21uZ0VwQmg2aW1uQ0lMSlhjVURsUEdmamxDWHFjSFp5dkI5M1E?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "八里騎士轉彎與直行機車碰撞！1命危、1骨折送醫",
       "summary": [
         "自由時報：八里騎士轉彎與直行機車碰撞！1命危、1骨折送醫",
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "投資人對AI類股重燃熱情　美股收紅",
       "summary": [
         "自由時報：投資人對AI類股重燃熱情　美股收紅",
@@ -155,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "網球》仙鶴裝粉墨登場！前球后大坂直美重返東京旗開得勝",
       "summary": [
         "自由時報：網球》仙鶴裝粉墨登場！前球后大坂直美重返東京旗開得勝",
@@ -176,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "以色列大選出口民調出爐　反對派領先納坦雅胡陣營但未過半",
       "summary": [
         "ETtoday：以色列大選出口民調出爐　反對派領先納坦雅胡陣營但未過半",
@@ -197,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "以色列國會大選激戰！反對派取得領先 執政聯盟席次恐重挫",
       "summary": [
         "自由時報：以色列國會大選激戰！反對派取得領先 執政聯盟席次恐重挫",
@@ -216,32 +195,32 @@
           "url": "https://money.udn.com/money/story/5599/9841197"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "慢遊嘉義「雲海季」11月2日登場 集章抽好禮",
+      "summary": [
+        "自由時報：慢遊嘉義「雲海季」11月2日登場 集章抽好禮",
+        "工商時報：藤井風演唱會10／31登場高雄世運大道交管措施出爐- 生活"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "慢遊嘉義「雲海季」11月2日登場 集章抽好禮",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5620894"
+        },
+        {
+          "source": "工商時報",
+          "title": "藤井風演唱會10／31登場高雄世運大道交管措施出爐- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ga051ckZsTks2RWk5RHEwWGxlUG1pTkdSYXZrdEZ4Z2QzLXdCQVRzX1R3YWJGdjE2bUpiTmtRQ1VLblJuX1NVZG9YQjZtM1hDN0JrUVRuS0FmYVFjTjFJ?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "No clear winner in Israeli parliamentary election, exit polls suggest",
-      "summary": [
-        "Financial Times：No clear winner in Israeli parliamentary election, exit polls suggest",
-        "CNBC：Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "No clear winner in Israeli parliamentary election, exit polls suggest",
-          "url": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1"
-        },
-        {
-          "source": "CNBC",
-          "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
-          "url": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out",
       "summary": [
         "Bloomberg Tech：OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out",
@@ -262,28 +241,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "敗選的博索納羅（Flávio Bolsonaro）離境前往美國",
-      "summary": [
-        "法廣RFI：敗選的博索納羅（Flávio Bolsonaro）離境前往美國",
-        "Financial Times：Bolsonaro lands in US after fleeing Brazil following election defeat"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "敗選的博索納羅（Flávio Bolsonaro）離境前往美國",
-          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261027-%E6%95%97%E9%81%B8%E7%9A%84%E5%8D%9A%E7%B4%A2%E7%B4%8D%E7%BE%85-fl%C3%A1vio-bolsonaro-%E9%9B%A2%E5%A2%83%E5%89%8D%E5%BE%80%E7%BE%8E%E5%9C%8B"
-        },
-        {
-          "source": "Financial Times",
-          "title": "Bolsonaro lands in US after fleeing Brazil following election defeat",
-          "url": "https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "title": "Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
       "summary": [
         "Bloomberg Markets：Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
@@ -304,7 +262,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "Israel’s election: What happens next?",
       "summary": [
         "Financial Times：Israel’s election: What happens next?",
@@ -325,7 +283,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "Ambani’s Jio Surges in Debut After India-Record IPO",
       "summary": [
         "Bloomberg Markets：Ambani’s Jio Surges in Debut After India-Record IPO",
@@ -346,7 +304,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "Exclusive-Rio Tinto proposes 56% pay jump for CEO as mining sector fights for talent",
       "summary": [
         "Investing.com：Exclusive-Rio Tinto proposes 56% pay jump for CEO as mining sector fights for talent",
@@ -367,7 +325,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
       "summary": [
         "TechCrunch：Jio shares surge 21% in market debut after blockbuster India IPO",
@@ -388,7 +346,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "2026年10月28日韓國主要報紙頭條新聞",
       "summary": [
         "韓聯社：2026年10月28日韓國主要報紙頭條新聞"
@@ -403,7 +361,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網",
       "summary": [
         "紐約時報中文：「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網"
@@ -414,6 +372,36 @@
           "source": "紐約時報中文",
           "title": "「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHc0YzBPb0NROGJ5OXpIRTY1M214eDM5LTlSaE85T0N2aXFFam1MWTNxMjhhdExXUFdGemd1V3h4a21tZ2J1bm1McVlGWlBtajFmeFBxYkxDMzROdFZlOGhMZHloMWoxWGF0dFNtUXZiVU9TUHdqUmt0a0NCbndaN2ZiNDZGVjJw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "詳訊：SK海力士三季度營業利潤同比大增632%",
+      "summary": [
+        "韓聯社：詳訊：SK海力士三季度營業利潤同比大增632%"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "詳訊：SK海力士三季度營業利潤同比大增632%",
+          "url": "https://cn.yna.co.kr/view/ACK20261028000600881"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "「國家隊」救市不靈了？中國股市頹勢折射經濟困境- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：「國家隊」救市不靈了？中國股市頹勢折射經濟困境- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "「國家隊」救市不靈了？中國股市頹勢折射經濟困境- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVZTalJCeHZ6V2J4Nl9kY2JDVHAzaU8tNEZCc0xhRWs0Z2VBb2xqWVpFdEd4R2RhMGQ0MHNiQkM1NlVrMmVNdEVkdDZVSFZQaF9rSzNzV0dlRXlXYjQyblgzeVFHMDR4anlqc2l2OWF4QmoxeUhXRm92NU44c3pPRWZBQzJMZzNmQldoV3hScGY2dUF1Q2dTNA?oc=5"
         }
       ]
     }
