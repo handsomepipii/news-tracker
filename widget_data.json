@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 10:06",
+  "updated_at": "2026-10-28 10:56",
   "taiwan": [
     {
       "rank": 1,
@@ -57,27 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "葉門青年運動：發射飛彈擊中沙烏地最大煉油廠",
-      "summary": [
-        "經濟日報：葉門青年運動：發射飛彈擊中沙烏地最大煉油廠",
-        "自由時報：葉門叛軍青年運動宣稱飛彈襲沙國煉油廠！沙烏地當局尚未證實"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "葉門青年運動：發射飛彈擊中沙烏地最大煉油廠",
-          "url": "https://money.udn.com/money/story/5599/9840699"
-        },
-        {
-          "source": "自由時報",
-          "title": "葉門叛軍青年運動宣稱飛彈襲沙國煉油廠！沙烏地當局尚未證實",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620802"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "以色列國會大選激戰 投票率創49年同期紀錄",
       "summary": [
         "自由時報：以色列國會大選激戰 投票率創49年同期紀錄",
@@ -98,7 +77,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "重啟外交化解中東衝突　國際油價下滑",
       "summary": [
         "自由時報：重啟外交化解中東衝突　國際油價下滑",
@@ -119,49 +98,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "河口湖命案主嫌臉書好友名單有他！沈伯洋回應了- 政治",
-      "summary": [
-        "中時新聞：河口湖命案主嫌臉書好友名單有他！沈伯洋回應了- 政治",
-        "風傳媒：河口湖命案主嫌「竟是臉書好友」！沈伯洋親揭2人關係 | 蔣季容 | 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "河口湖命案主嫌臉書好友名單有他！沈伯洋回應了- 政治",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rdnJBVjhTRXJ5N1hpTHFvdGYwclEwd3BWSFpqeXllODNBZi1CaF9yX0JqZFN2U2REV1lpYm9WNTMzS2FZQVVGUVNyLXNadFozNmFXYVB2MXBjMGlrd0tTeUYwMUNFZWJ5UWp4LWd3?oc=5"
-        },
-        {
-          "source": "風傳媒",
-          "title": "河口湖命案主嫌「竟是臉書好友」！沈伯洋親揭2人關係 | 蔣季容 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVVmxpOFZoRU5EMWl5R3FReFZ0UkV4Zy1PRlhQX0UxTjlrSHllVzBXa1g3ck9TQi1VSzJXYTRPSjdtYTZNMkFNUGFINzlnUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "塞爾維亞政壇變天　中國一帶一路相關工程事故成導火線",
-      "summary": [
-        "經濟日報：塞爾維亞政壇變天　中國一帶一路相關工程事故成導火線",
-        "自由時報：塞爾維亞政壇變天 中國一帶一路相關工程事故成導火線"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "塞爾維亞政壇變天　中國一帶一路相關工程事故成導火線",
-          "url": "https://money.udn.com/money/story/5599/9840701"
-        },
-        {
-          "source": "自由時報",
-          "title": "塞爾維亞政壇變天 中國一帶一路相關工程事故成導火線",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620791"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "title": "費時5小時清點！彰化南瑤宮數錢實境秀來了 5個月香油錢總額曝光",
       "summary": [
         "自由時報：費時5小時清點！彰化南瑤宮數錢實境秀來了 5個月香油錢總額曝光",
@@ -182,7 +119,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "河口湖命案 日媒訪店員：嫌犯購刀時神色異常",
       "summary": [
         "自由時報：河口湖命案 日媒訪店員：嫌犯購刀時神色異常",
@@ -203,7 +140,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "62歲日劇知名綠葉宣佈結婚！　娶小33歲嬌妻甜喊：要活得長長久久",
       "summary": [
         "ETtoday：62歲日劇知名綠葉宣佈結婚！　娶小33歲嬌妻甜喊：要活得長長久久",
@@ -222,38 +159,74 @@
           "url": "https://ent.ltn.com.tw/news/breakingnews/5620879"
         }
       ]
+    },
+    {
+      "rank": 8,
+      "title": "Z世代追求極致成潮流　Maxxing入選字典網站年度代表字",
+      "summary": [
+        "經濟日報：Z世代追求極致成潮流　Maxxing入選字典網站年度代表字",
+        "科技新報：Z 世代追求極致成潮流，Maxxing 入選字典網站年度代表字"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "Z世代追求極致成潮流　Maxxing入選字典網站年度代表字",
+          "url": "https://money.udn.com/money/story/5599/9840950"
+        },
+        {
+          "source": "科技新報",
+          "title": "Z 世代追求極致成潮流，Maxxing 入選字典網站年度代表字",
+          "url": "https://technews.tw/2026/10/28/maxxing-selected-as-dictionary-com-word-of-the-year/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "市場權衡歐洲企業財報　歐股收盤走勢不一",
+      "summary": [
+        "自由時報：市場權衡歐洲企業財報　歐股收盤走勢不一",
+        "經濟日報：市場權衡歐洲企業財報　歐股收盤走勢不一"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "市場權衡歐洲企業財報　歐股收盤走勢不一",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5620845"
+        },
+        {
+          "source": "經濟日報",
+          "title": "市場權衡歐洲企業財報　歐股收盤走勢不一",
+          "url": "https://money.udn.com/money/story/5599/9841006"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "輝達投資Meta近1000億元 深化個人AI代理Muse合作",
+      "summary": [
+        "自由時報：輝達投資Meta近1000億元 深化個人AI代理Muse合作",
+        "科技新報：輝達投資 Meta 近 1,000 億元，深化個人 AI 代理 Muse 合作"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "輝達投資Meta近1000億元 深化個人AI代理Muse合作",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5620559"
+        },
+        {
+          "source": "科技新報",
+          "title": "輝達投資 Meta 近 1,000 億元，深化個人 AI 代理 Muse 合作",
+          "url": "https://technews.tw/2026/10/28/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth/"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "立場轉變？芬蘭與挪威領導人和普京通電話",
-      "summary": [
-        "德國之聲：立場轉變？芬蘭與挪威領導人和普京通電話",
-        "法廣RFI：為俄烏停戰芬蘭總統與挪威首相首次與普京通話",
-        "NHK新聞：フィンランドとノルウェーの首脳がプーチン大統領と電話會談"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "立場轉變？芬蘭與挪威領導人和普京通電話",
-          "url": "https://www.dw.com/zh/立场转变？芬兰与挪威领导人和普京通电话/a-79777069?maca=chi-rss-chi-all-1127-rdf"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "為俄烏停戰芬蘭總統與挪威首相首次與普京通話",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E5%88%86%E6%9E%90/20261027-%E7%82%BA%E4%BF%84%E7%83%8F%E5%81%9C%E6%88%B0%E8%8A%AC%E8%98%AD%E7%B8%BD%E7%B5%B1%E8%88%87%E6%8C%AA%E5%A8%81%E9%A6%96%E7%9B%B8%E9%A6%96%E6%AC%A1%E8%88%87%E6%99%AE%E4%BA%AC%E9%80%9A%E8%A9%B1"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "フィンランドとノルウェーの首脳がプーチン大統領と電話會談",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261028de66723"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
       "summary": [
         "BBC World：Flávio Bolsonaro's passports cancelled after he fails to surrender them",
@@ -280,112 +253,28 @@
       ]
     },
     {
+      "rank": 2,
+      "title": "No clear winner in Israeli parliamentary election, exit polls suggest",
+      "summary": [
+        "Financial Times：No clear winner in Israeli parliamentary election, exit polls suggest",
+        "CNBC：Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "No clear winner in Israeli parliamentary election, exit polls suggest",
+          "url": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1"
+        },
+        {
+          "source": "CNBC",
+          "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+          "url": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html"
+        }
+      ]
+    },
+    {
       "rank": 3,
-      "title": "Apple launches new MacBook Pro, iMac as it continues to refresh product lines",
-      "summary": [
-        "Yahoo Finance：Apple launches new MacBook Pro, iMac as it continues to refresh product lines",
-        "Ars Technica：Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Apple launches new MacBook Pro, iMac as it continues to refresh product lines",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZE4xZ3FadnpwM0JuSnAtY1NwZ1R6bVFmN0Z0QmFwNUFfYlllUGpTbXU4MzdRTG9rN1h0eWliT0FkZ1VDb1JFSWhwcjZXWktTNmZEX3pCUVk3eWJfZTlEWTljeGsycWNFX3VMN0V2SjBXZU5jdXlROTFCQ19XTUtNOXR1OURzZW1md2tIc2lvcGRwOWJHMnhvVC1xUXVrUDBZS0xQRl9WMHJJXy1DUmdNT3BKajJPX01lNmlvWEEyYmk4ODRUQjlPX29FYlBTcVZPWGc?oc=5"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-          "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
-      "summary": [
-        "Bloomberg Markets：SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
-        "Investing.com：SEC’s Atkins seeks changes to crowdfunding regulations"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-27/sec-weighing-overhaul-to-crowdfunding-rules-atkins-says"
-        },
-        {
-          "source": "Investing.com",
-          "title": "SEC’s Atkins seeks changes to crowdfunding regulations",
-          "url": "https://www.investing.com/news/stock-market-news/secs-atkins-seeks-changes-to-crowdfunding-regulations-4976569"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
-      "summary": [
-        "Bloomberg Tech：Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
-        "Investing.com：Crusoe CEO defends CoreWeave amid selloff"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-27/crusoe-ceo-defends-rival-coreweave-calls-selloff-overblown"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Crusoe CEO defends CoreWeave amid selloff",
-          "url": "https://www.investing.com/news/stock-market-news/crusoe-ceo-defends-coreweave-amid-selloff-4976608"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
-      "summary": [
-        "Bloomberg Tech：Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
-        "Investing.com：Anduril, Qualcomm partner on new line of US-made laptops"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-27/anduril-and-qualcomm-plan-to-build-us-laptop-video"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Anduril, Qualcomm partner on new line of US-made laptops",
-          "url": "https://www.investing.com/news/stock-market-news/anduril-qualcomm-partner-on-new-line-of-usmade-laptops-4976680"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
-      "summary": [
-        "Bloomberg Markets：Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
-        "Investing.com：Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-said-to-pick-jpmorgan-to-lead-ipo-s-us-retail-offering"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports",
-          "url": "https://www.investing.com/news/stock-market-news/anthropic-taps-jpmorgan-to-lead-ipos-us-retail-sales-bloomberg-reports-4977334"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out",
       "summary": [
         "Bloomberg Tech：OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out",
@@ -406,7 +295,133 @@
       ]
     },
     {
+      "rank": 4,
+      "title": "Apple launches new MacBook Pro, iMac as it continues to refresh product lines",
+      "summary": [
+        "Yahoo Finance：Apple launches new MacBook Pro, iMac as it continues to refresh product lines",
+        "Ars Technica：Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "Apple launches new MacBook Pro, iMac as it continues to refresh product lines",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZE4xZ3FadnpwM0JuSnAtY1NwZ1R6bVFmN0Z0QmFwNUFfYlllUGpTbXU4MzdRTG9rN1h0eWliT0FkZ1VDb1JFSWhwcjZXWktTNmZEX3pCUVk3eWJfZTlEWTljeGsycWNFX3VMN0V2SjBXZU5jdXlROTFCQ19XTUtNOXR1OURzZW1md2tIc2lvcGRwOWJHMnhvVC1xUXVrUDBZS0xQRl9WMHJJXy1DUmdNT3BKajJPX01lNmlvWEEyYmk4ODRUQjlPX29FYlBTcVZPWGc?oc=5"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+          "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
+      "summary": [
+        "Bloomberg Markets：SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
+        "Investing.com：SEC’s Atkins seeks changes to crowdfunding regulations"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-27/sec-weighing-overhaul-to-crowdfunding-rules-atkins-says"
+        },
+        {
+          "source": "Investing.com",
+          "title": "SEC’s Atkins seeks changes to crowdfunding regulations",
+          "url": "https://www.investing.com/news/stock-market-news/secs-atkins-seeks-changes-to-crowdfunding-regulations-4976569"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
+      "summary": [
+        "Bloomberg Tech：Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
+        "Investing.com：Crusoe CEO defends CoreWeave amid selloff"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-27/crusoe-ceo-defends-rival-coreweave-calls-selloff-overblown"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Crusoe CEO defends CoreWeave amid selloff",
+          "url": "https://www.investing.com/news/stock-market-news/crusoe-ceo-defends-coreweave-amid-selloff-4976608"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
+      "summary": [
+        "Bloomberg Tech：Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
+        "Investing.com：Anduril, Qualcomm partner on new line of US-made laptops"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-27/anduril-and-qualcomm-plan-to-build-us-laptop-video"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Anduril, Qualcomm partner on new line of US-made laptops",
+          "url": "https://www.investing.com/news/stock-market-news/anduril-qualcomm-partner-on-new-line-of-usmade-laptops-4976680"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "為俄烏停戰芬蘭總統與挪威首相首次與普京通話",
+      "summary": [
+        "法廣RFI：為俄烏停戰芬蘭總統與挪威首相首次與普京通話",
+        "NHK新聞：フィンランドとノルウェーの首脳がプーチン大統領と電話會談"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "為俄烏停戰芬蘭總統與挪威首相首次與普京通話",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E5%88%86%E6%9E%90/20261027-%E7%82%BA%E4%BF%84%E7%83%8F%E5%81%9C%E6%88%B0%E8%8A%AC%E8%98%AD%E7%B8%BD%E7%B5%B1%E8%88%87%E6%8C%AA%E5%A8%81%E9%A6%96%E7%9B%B8%E9%A6%96%E6%AC%A1%E8%88%87%E6%99%AE%E4%BA%AC%E9%80%9A%E8%A9%B1"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "フィンランドとノルウェーの首脳がプーチン大統領と電話會談",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261028de66723"
+        }
+      ]
+    },
+    {
       "rank": 9,
+      "title": "Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
+      "summary": [
+        "Bloomberg Markets：Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
+        "Investing.com：Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-said-to-pick-jpmorgan-to-lead-ipo-s-us-retail-offering"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports",
+          "url": "https://www.investing.com/news/stock-market-news/anthropic-taps-jpmorgan-to-lead-ipos-us-retail-sales-bloomberg-reports-4977334"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "2026年10月28日韓國歷史上的今天",
       "summary": [
         "韓聯社：2026年10月28日韓國歷史上的今天"
@@ -417,21 +432,6 @@
           "source": "韓聯社",
           "title": "2026年10月28日韓國歷史上的今天",
           "url": "https://cn.yna.co.kr/view/ACK20261007004400881"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "No clear winner in Israeli parliamentary election, exit polls suggest",
-      "summary": [
-        "Financial Times：No clear winner in Israeli parliamentary election, exit polls suggest"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "No clear winner in Israeli parliamentary election, exit polls suggest",
-          "url": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1"
         }
       ]
     }
