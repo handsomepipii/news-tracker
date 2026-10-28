@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 19:49",
+  "updated_at": "2026-10-28 20:57",
   "taiwan": [
     {
       "rank": 1,
@@ -114,69 +114,6 @@
     },
     {
       "rank": 6,
-      "title": "以色列國會大選激戰！反對派取得領先 執政聯盟席次恐重挫",
-      "summary": [
-        "自由時報：以色列國會大選激戰！反對派取得領先 執政聯盟席次恐重挫",
-        "經濟日報：以色列大選變天？出口民調：內唐亞胡陣營未過半 反對派宣佈勝利"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "以色列國會大選激戰！反對派取得領先 執政聯盟席次恐重挫",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620881"
-        },
-        {
-          "source": "經濟日報",
-          "title": "以色列大選變天？出口民調：內唐亞胡陣營未過半 反對派宣佈勝利",
-          "url": "https://money.udn.com/money/story/5599/9841197"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "慢遊嘉義「雲海季」11月2日登場 集章抽好禮",
-      "summary": [
-        "自由時報：慢遊嘉義「雲海季」11月2日登場 集章抽好禮",
-        "工商時報：藤井風演唱會10／31登場高雄世運大道交管措施出爐- 生活"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "慢遊嘉義「雲海季」11月2日登場 集章抽好禮",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5620894"
-        },
-        {
-          "source": "工商時報",
-          "title": "藤井風演唱會10／31登場高雄世運大道交管措施出爐- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ga051ckZsTks2RWk5RHEwWGxlUG1pTkdSYXZrdEZ4Z2QzLXdCQVRzX1R3YWJGdjE2bUpiTmtRQ1VLblJuX1NVZG9YQjZtM1hDN0JrUVRuS0FmYVFjTjFJ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "巴西大選敗選者抗命逃亡美國！川普政府認了伸援手 波索納洛步父後塵",
-      "summary": [
-        "經濟日報：巴西大選敗選者抗命逃亡美國！川普政府認了伸援手 波索納洛步父後塵",
-        "自由時報：巴西小波索納洛總統敗選跑了  川普：贊成他到美國"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "巴西大選敗選者抗命逃亡美國！川普政府認了伸援手 波索納洛步父後塵",
-          "url": "https://money.udn.com/money/story/5599/9841172"
-        },
-        {
-          "source": "自由時報",
-          "title": "巴西小波索納洛總統敗選跑了  川普：贊成他到美國",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5621808"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "波音財報遜、737 Max 增產落後  股價崩 10%",
       "summary": [
         "科技新報：波音財報遜、737 Max 增產落後  股價崩 10%",
@@ -197,7 +134,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "長鑫與韓廠差距大？韓媒：中國 AI 巨頭搶簽 10 年約",
       "summary": [
         "科技新報：長鑫與韓廠差距大？韓媒：中國 AI 巨頭搶簽 10 年約",
@@ -214,6 +151,69 @@
           "source": "MoneyDJ理財網",
           "title": "長鑫與韓廠差距大？韓媒：中國AI巨頭搶簽10年約- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHB3T1FyZ3AwbG1mM0R4LWhCWjNlcjhiUS1PTmVlOTNDT3BrYnMzXzRoUXhDc1RlNVd3TUVaWFdhRk5JdkFMOG1jRlpTR253Z2xLZ254WXUwNG9sVmJrYkFmYUZFejB5SGs4VWxScmRRT0pTVmlCZ01Hd2pNNExQUEYyU3dpQjFtOHpGSHZINDBTZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "再度嫌棄「AI」不準確！川普發文宣佈全面禁用 都要改稱「SI」",
+      "summary": [
+        "經濟日報：再度嫌棄「AI」不準確！川普發文宣佈全面禁用 都要改稱「SI」",
+        "科技新報：川普嫌 AI 用詞不當  揚言「將全面禁用、改稱 SI」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "再度嫌棄「AI」不準確！川普發文宣佈全面禁用 都要改稱「SI」",
+          "url": "https://money.udn.com/money/story/5599/9841295"
+        },
+        {
+          "source": "科技新報",
+          "title": "川普嫌 AI 用詞不當  揚言「將全面禁用、改稱 SI」",
+          "url": "https://technews.tw/2026/10/28/trump-again-threatens-to-stop-using-ai-and-rename-it-si/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "天良接獲消費者反映個資疑似外洩，委外平臺資料庫遭自動化攻擊",
+      "summary": [
+        "公開資訊觀測站重訊：天良接獲消費者反映個資疑似外洩，委外平臺資料庫遭自動化攻擊",
+        "iThome：天良接獲消費者反映個資疑似外洩，委外平臺資料庫遭自動化攻擊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "天良接獲消費者反映個資疑似外洩，委外平臺資料庫遭自動化攻擊",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oV3hjUGxSV0VKcTV3eUFJMHVDYVIwUUhSX1ZIbi1mX1dfNkxUSWxmN19Lb3N4ZFpCM3ZQRlpxbW05eDNRdUpfZ0VOVjktZw?oc=5"
+        },
+        {
+          "source": "iThome",
+          "title": "天良接獲消費者反映個資疑似外洩，委外平臺資料庫遭自動化攻擊",
+          "url": "https://www.ithome.com.tw/news/180010"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "高林購物網站委由91APP建置的系統遭自動化攻擊，會員訂單資料恐被擷取",
+      "summary": [
+        "公開資訊觀測站重訊：高林購物網站委由91APP建置的系統遭自動化攻擊，會員訂單資料恐被擷取",
+        "iThome：高林購物網站委由91APP建置的系統遭自動化攻擊，會員訂單資料恐被擷取"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "高林購物網站委由91APP建置的系統遭自動化攻擊，會員訂單資料恐被擷取",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80RXdJVndWeXFOdUtmckJvMmFJY1E2VHVUWE02aWJORDJfNGY2UEhwWXRfUU5CTkhPMkNUcFItWXhCTTJyb014TUxLQ3R2QQ?oc=5"
+        },
+        {
+          "source": "iThome",
+          "title": "高林購物網站委由91APP建置的系統遭自動化攻擊，會員訂單資料恐被擷取",
+          "url": "https://www.ithome.com.tw/news/180007"
         }
       ]
     }
@@ -368,21 +368,48 @@
     },
     {
       "rank": 8,
-      "title": "2026年10月28日韓國主要報紙頭條新聞",
+      "title": "Amazon Unveils New Echo Show 16, Alexa Speakers, Smart Clock and Photo Frame",
       "summary": [
-        "韓聯社：2026年10月28日韓國主要報紙頭條新聞"
+        "Bloomberg Tech：Amazon Unveils New Echo Show 16, Alexa Speakers, Smart Clock and Photo Frame",
+        "Wired：Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "韓聯社",
-          "title": "2026年10月28日韓國主要報紙頭條新聞",
-          "url": "https://cn.yna.co.kr/view/ACK20261028000100881"
+          "source": "Bloomberg Tech",
+          "title": "Amazon Unveils New Echo Show 16, Alexa Speakers, Smart Clock and Photo Frame",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-28/amazon-unveils-new-echo-show-16-alexa-speakers-smart-clock-and-photo-frame"
+        },
+        {
+          "source": "Wired",
+          "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
+          "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/"
         }
       ]
     },
     {
       "rank": 9,
+      "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
+      "summary": [
+        "WSJ Markets：Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
+        "Investing.com：Trian Fund Management offers to buy Wendy’s for $1.4 billion, WSJ reports"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "WSJ Markets",
+          "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
+          "url": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1?mod=rss_markets_main"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Trian Fund Management offers to buy Wendy’s for $1.4 billion, WSJ reports",
+          "url": "https://www.investing.com/news/stock-market-news/trian-fund-management-offers-to-buy-wendys-for-14-billion-wsj-reports-4979065"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網",
       "summary": [
         "紐約時報中文：「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網"
@@ -393,21 +420,6 @@
           "source": "紐約時報中文",
           "title": "「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHc0YzBPb0NROGJ5OXpIRTY1M214eDM5LTlSaE85T0N2aXFFam1MWTNxMjhhdExXUFdGemd1V3h4a21tZ2J1bm1McVlGWlBtajFmeFBxYkxDMzROdFZlOGhMZHloMWoxWGF0dFNtUXZiVU9TUHdqUmt0a0NCbndaN2ZiNDZGVjJw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "詳訊：SK海力士三季度營業利潤同比大增632%",
-      "summary": [
-        "韓聯社：詳訊：SK海力士三季度營業利潤同比大增632%"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "詳訊：SK海力士三季度營業利潤同比大增632%",
-          "url": "https://cn.yna.co.kr/view/ACK20261028000600881"
         }
       ]
     }
