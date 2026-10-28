@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 17:54",
+  "updated_at": "2026-10-28 18:53",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,27 @@
     },
     {
       "rank": 2,
+      "title": "Anduril攜手高通推美國製筆電，力拚重建本土電腦供應鏈",
+      "summary": [
+        "iThome：Anduril攜手高通推美國製筆電，力拚重建本土電腦供應鏈",
+        "經濟日報：Anduril 攜手高通推「美國製造筆電」晶片由臺積電美國廠生產"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "Anduril攜手高通推美國製筆電，力拚重建本土電腦供應鏈",
+          "url": "https://www.ithome.com.tw/news/180008"
+        },
+        {
+          "source": "經濟日報",
+          "title": "Anduril 攜手高通推「美國製造筆電」晶片由臺積電美國廠生產",
+          "url": "https://money.udn.com/money/story/5599/9841414"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "ASIC 再添利多！OpenAI 傳擬採購 Google AI 晶片",
       "summary": [
         "經濟日報：ASIC 再添利多！OpenAI 傳擬採購 Google AI 晶片",
@@ -50,7 +71,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "路透：全球高通膨恐持續至2027年　物價壓力難消",
       "summary": [
         "經濟日報：路透：全球高通膨恐持續至2027年　物價壓力難消",
@@ -71,7 +92,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "以色列大選陷入僵局　尼坦雅胡繼續執掌政權面臨考驗",
       "summary": [
         "經濟日報：以色列大選陷入僵局　尼坦雅胡繼續執掌政權面臨考驗",
@@ -92,49 +113,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "八里騎士轉彎與直行機車碰撞！1命危、1骨折送醫",
-      "summary": [
-        "自由時報：八里騎士轉彎與直行機車碰撞！1命危、1骨折送醫",
-        "ETtoday：八里深夜重大車禍！騎士直撞違規左轉機車　1命危1骨折"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "八里騎士轉彎與直行機車碰撞！1命危、1骨折送醫",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5620848"
-        },
-        {
-          "source": "ETtoday",
-          "title": "八里深夜重大車禍！騎士直撞違規左轉機車　1命危1骨折",
-          "url": "https://www.ettoday.net/news/20261028/3261890.htm"
-        }
-      ]
-    },
-    {
       "rank": 6,
-      "title": "投資人對AI類股重燃熱情　美股收紅",
-      "summary": [
-        "自由時報：投資人對AI類股重燃熱情　美股收紅",
-        "經濟日報：投資人對AI類股重燃熱情　美股收紅"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "投資人對AI類股重燃熱情　美股收紅",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5620868"
-        },
-        {
-          "source": "經濟日報",
-          "title": "投資人對AI類股重燃熱情　美股收紅",
-          "url": "https://money.udn.com/money/story/123398/9841078"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "網球》仙鶴裝粉墨登場！前球后大坂直美重返東京旗開得勝",
       "summary": [
         "自由時報：網球》仙鶴裝粉墨登場！前球后大坂直美重返東京旗開得勝",
@@ -155,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "以色列大選出口民調出爐　反對派領先納坦雅胡陣營但未過半",
       "summary": [
         "ETtoday：以色列大選出口民調出爐　反對派領先納坦雅胡陣營但未過半",
@@ -176,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "以色列國會大選激戰！反對派取得領先 執政聯盟席次恐重挫",
       "summary": [
         "自由時報：以色列國會大選激戰！反對派取得領先 執政聯盟席次恐重挫",
@@ -197,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "慢遊嘉義「雲海季」11月2日登場 集章抽好禮",
       "summary": [
         "自由時報：慢遊嘉義「雲海季」11月2日登場 集章抽好禮",
@@ -214,6 +193,27 @@
           "source": "工商時報",
           "title": "藤井風演唱會10／31登場高雄世運大道交管措施出爐- 生活",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ga051ckZsTks2RWk5RHEwWGxlUG1pTkdSYXZrdEZ4Z2QzLXdCQVRzX1R3YWJGdjE2bUpiTmtRQ1VLblJuX1NVZG9YQjZtM1hDN0JrUVRuS0FmYVFjTjFJ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "巴西大選敗選者抗命逃亡美國！川普政府認了伸援手 波索納洛步父後塵",
+      "summary": [
+        "經濟日報：巴西大選敗選者抗命逃亡美國！川普政府認了伸援手 波索納洛步父後塵",
+        "自由時報：巴西小波索納洛總統敗選跑了  川普：贊成他到美國"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "巴西大選敗選者抗命逃亡美國！川普政府認了伸援手 波索納洛步父後塵",
+          "url": "https://money.udn.com/money/story/5599/9841172"
+        },
+        {
+          "source": "自由時報",
+          "title": "巴西小波索納洛總統敗選跑了  川普：贊成他到美國",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5621808"
         }
       ]
     }
@@ -347,6 +347,27 @@
     },
     {
       "rank": 7,
+      "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
+      "summary": [
+        "CNBC：Ten people confirmed dead in high-speed Spain train crash, local media report",
+        "Financial Times：At least 10 killed in collision of high-speed trains in Spain"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
+          "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html"
+        },
+        {
+          "source": "Financial Times",
+          "title": "At least 10 killed in collision of high-speed trains in Spain",
+          "url": "https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "2026年10月28日韓國主要報紙頭條新聞",
       "summary": [
         "韓聯社：2026年10月28日韓國主要報紙頭條新聞"
@@ -361,7 +382,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網",
       "summary": [
         "紐約時報中文：「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網"
@@ -376,7 +397,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "詳訊：SK海力士三季度營業利潤同比大增632%",
       "summary": [
         "韓聯社：詳訊：SK海力士三季度營業利潤同比大增632%"
@@ -387,21 +408,6 @@
           "source": "韓聯社",
           "title": "詳訊：SK海力士三季度營業利潤同比大增632%",
           "url": "https://cn.yna.co.kr/view/ACK20261028000600881"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "「國家隊」救市不靈了？中國股市頹勢折射經濟困境- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：「國家隊」救市不靈了？中國股市頹勢折射經濟困境- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "「國家隊」救市不靈了？中國股市頹勢折射經濟困境- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVZTalJCeHZ6V2J4Nl9kY2JDVHAzaU8tNEZCc0xhRWs0Z2VBb2xqWVpFdEd4R2RhMGQ0MHNiQkM1NlVrMmVNdEVkdDZVSFZQaF9rSzNzV0dlRXlXYjQyblgzeVFHMDR4anlqc2l2OWF4QmoxeUhXRm92NU44c3pPRWZBQzJMZzNmQldoV3hScGY2dUF1Q2dTNA?oc=5"
         }
       ]
     }
