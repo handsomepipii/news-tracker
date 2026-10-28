@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 12:53",
+  "updated_at": "2026-10-28 13:51",
   "taiwan": [
     {
       "rank": 1,
@@ -126,48 +126,27 @@
     },
     {
       "rank": 6,
-      "title": "市場權衡歐洲企業財報　歐股收盤走勢不一",
+      "title": "路透：全球高通膨恐持續至2027年　物價壓力難消",
       "summary": [
-        "自由時報：市場權衡歐洲企業財報　歐股收盤走勢不一",
-        "經濟日報：市場權衡歐洲企業財報　歐股收盤走勢不一"
+        "經濟日報：路透：全球高通膨恐持續至2027年　物價壓力難消",
+        "科技新報：路透：全球高通膨恐持續至 2027 年，物價壓力難消"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "市場權衡歐洲企業財報　歐股收盤走勢不一",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5620845"
+          "source": "經濟日報",
+          "title": "路透：全球高通膨恐持續至2027年　物價壓力難消",
+          "url": "https://money.udn.com/money/story/5599/9841585"
         },
         {
-          "source": "經濟日報",
-          "title": "市場權衡歐洲企業財報　歐股收盤走勢不一",
-          "url": "https://money.udn.com/money/story/5599/9841006"
+          "source": "科技新報",
+          "title": "路透：全球高通膨恐持續至 2027 年，物價壓力難消",
+          "url": "https://technews.tw/2026/10/28/global-inflation-may-persist-through-2027/"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "輝達投資Meta近1000億元 深化個人AI代理Muse合作",
-      "summary": [
-        "自由時報：輝達投資Meta近1000億元 深化個人AI代理Muse合作",
-        "科技新報：輝達投資 Meta 近 1,000 億元，深化個人 AI 代理 Muse 合作"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "輝達投資Meta近1000億元 深化個人AI代理Muse合作",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5620559"
-        },
-        {
-          "source": "科技新報",
-          "title": "輝達投資 Meta 近 1,000 億元，深化個人 AI 代理 Muse 合作",
-          "url": "https://technews.tw/2026/10/28/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "輸了就落跑？涉洗錢又將失保護傘 巴西大選落敗者小波索納洛傳逃亡美國",
       "summary": [
         "自由時報：輸了就落跑？涉洗錢又將失保護傘 巴西大選落敗者小波索納洛傳逃亡美國",
@@ -188,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "以色列大選投票率破紀錄　對尼坦雅胡戰時表現作評斷",
       "summary": [
         "自由時報：以色列大選投票率破紀錄　對尼坦雅胡戰時表現作評斷",
@@ -209,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美期中選舉在即　川普：若選舉廉潔不論結果如何都尊重",
       "summary": [
         "自由時報：美期中選舉在即　川普：若選舉廉潔不論結果如何都尊重",
@@ -228,38 +207,32 @@
           "url": "https://money.udn.com/money/story/5599/9841038"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票",
+      "summary": [
+        "自由時報：控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票",
+        "經濟日報：控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620862"
+        },
+        {
+          "source": "經濟日報",
+          "title": "控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票",
+          "url": "https://money.udn.com/money/story/5599/9841035"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
-      "summary": [
-        "BBC World：Flávio Bolsonaro's passports cancelled after he fails to surrender them",
-        "Financial Times：Flávio Bolsonaro’s passport cancelled as reports say he has fled Brazil",
-        "Washington Post：Flávio Bolsonaro fails to turn in passports as Brazilians question his whereabouts"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
-          "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Financial Times",
-          "title": "Flávio Bolsonaro’s passport cancelled as reports say he has fled Brazil",
-          "url": "https://www.ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Washington Post",
-          "title": "Flávio Bolsonaro fails to turn in passports as Brazilians question his whereabouts",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdTN4OHhtN2JLNm4wR29xdDZXS0xyQllDLXFoZ1lQWUZhMUlfVGFSa3FQcWxacTdlaWREMno1R1pWbUJkWlJRd3ZLdjU3YzY5WXJuajI3V3N0amR3bEg2SkhDMW1UMDZ4UEowaVRCU3B0eF9xQmtmSnNMQ2lwdFdWcElmNHMyRF9ydzFWU1NQckJiSC1ET0hOVVIzNXhvTTEteWtXbEFoaTdldXR3MVR5YlZDQnJ2ejdhRk5LTHN3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "No clear winner in Israeli parliamentary election, exit polls suggest",
       "summary": [
         "Financial Times：No clear winner in Israeli parliamentary election, exit polls suggest",
@@ -280,7 +253,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out",
       "summary": [
         "Bloomberg Tech：OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out",
@@ -301,28 +274,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
-      "summary": [
-        "Bloomberg Markets：SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
-        "Investing.com：SEC’s Atkins seeks changes to crowdfunding regulations"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-27/sec-weighing-overhaul-to-crowdfunding-rules-atkins-says"
-        },
-        {
-          "source": "Investing.com",
-          "title": "SEC’s Atkins seeks changes to crowdfunding regulations",
-          "url": "https://www.investing.com/news/stock-market-news/secs-atkins-seeks-changes-to-crowdfunding-regulations-4976569"
-        }
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "title": "Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
       "summary": [
         "Bloomberg Tech：Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
@@ -343,7 +295,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
       "summary": [
         "Bloomberg Tech：Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
@@ -364,7 +316,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "為俄烏停戰芬蘭總統與挪威首相首次與普京通話",
       "summary": [
         "法廣RFI：為俄烏停戰芬蘭總統與挪威首相首次與普京通話",
@@ -385,7 +337,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "敗選的博索納羅（Flávio Bolsonaro）離境前往美國",
       "summary": [
         "法廣RFI：敗選的博索納羅（Flávio Bolsonaro）離境前往美國",
@@ -406,7 +358,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
       "summary": [
         "Bloomberg Markets：Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
@@ -427,7 +379,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網",
       "summary": [
         "紐約時報中文：「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網"
@@ -438,6 +390,36 @@
           "source": "紐約時報中文",
           "title": "「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHc0YzBPb0NROGJ5OXpIRTY1M214eDM5LTlSaE85T0N2aXFFam1MWTNxMjhhdExXUFdGemd1V3h4a21tZ2J1bm1McVlGWlBtajFmeFBxYkxDMzROdFZlOGhMZHloMWoxWGF0dFNtUXZiVU9TUHdqUmt0a0NCbndaN2ZiNDZGVjJw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "詳訊：SK海力士三季度營業利潤同比大增632%",
+      "summary": [
+        "韓聯社：詳訊：SK海力士三季度營業利潤同比大增632%"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "詳訊：SK海力士三季度營業利潤同比大增632%",
+          "url": "https://cn.yna.co.kr/view/ACK20261028000600881"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "「國家隊」救市不靈了？中國股市頹勢折射經濟困境- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：「國家隊」救市不靈了？中國股市頹勢折射經濟困境- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "「國家隊」救市不靈了？中國股市頹勢折射經濟困境- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVZTalJCeHZ6V2J4Nl9kY2JDVHAzaU8tNEZCc0xhRWs0Z2VBb2xqWVpFdEd4R2RhMGQ0MHNiQkM1NlVrMmVNdEVkdDZVSFZQaF9rSzNzV0dlRXlXYjQyblgzeVFHMDR4anlqc2l2OWF4QmoxeUhXRm92NU44c3pPRWZBQzJMZzNmQldoV3hScGY2dUF1Q2dTNA?oc=5"
         }
       ]
     }
