@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 13:51",
+  "updated_at": "2026-10-28 14:56",
   "taiwan": [
     {
       "rank": 1,
@@ -105,6 +105,27 @@
     },
     {
       "rank": 5,
+      "title": "美國期中選舉前一週　聯邦選委會網站遭駭系統中斷",
+      "summary": [
+        "自由時報：美國期中選舉前一週　聯邦選委會網站遭駭系統中斷",
+        "經濟日報：美國期中選舉前一週　聯邦選委會網站遭駭系統中斷"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美國期中選舉前一週　聯邦選委會網站遭駭系統中斷",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620865"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美國期中選舉前一週　聯邦選委會網站遭駭系統中斷",
+          "url": "https://money.udn.com/money/story/5599/9841057"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "不只輝達可選！甲骨文雲端納入Google、OpenAI晶片 支援AI運算",
       "summary": [
         "鉅亨網：不只輝達可選！甲骨文雲端納入Google、OpenAI晶片 支援AI運算",
@@ -125,7 +146,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "路透：全球高通膨恐持續至2027年　物價壓力難消",
       "summary": [
         "經濟日報：路透：全球高通膨恐持續至2027年　物價壓力難消",
@@ -146,7 +167,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "輸了就落跑？涉洗錢又將失保護傘 巴西大選落敗者小波索納洛傳逃亡美國",
       "summary": [
         "自由時報：輸了就落跑？涉洗錢又將失保護傘 巴西大選落敗者小波索納洛傳逃亡美國",
@@ -167,7 +188,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "以色列大選投票率破紀錄　對尼坦雅胡戰時表現作評斷",
       "summary": [
         "自由時報：以色列大選投票率破紀錄　對尼坦雅胡戰時表現作評斷",
@@ -188,7 +209,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "美期中選舉在即　川普：若選舉廉潔不論結果如何都尊重",
       "summary": [
         "自由時報：美期中選舉在即　川普：若選舉廉潔不論結果如何都尊重",
@@ -205,27 +226,6 @@
           "source": "經濟日報",
           "title": "美期中選舉在即　川普：若選舉廉潔不論結果如何都尊重",
           "url": "https://money.udn.com/money/story/5599/9841038"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票",
-      "summary": [
-        "自由時報：控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票",
-        "經濟日報：控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620862"
-        },
-        {
-          "source": "經濟日報",
-          "title": "控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票",
-          "url": "https://money.udn.com/money/story/5599/9841035"
         }
       ]
     }
@@ -275,27 +275,6 @@
     },
     {
       "rank": 3,
-      "title": "Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
-      "summary": [
-        "Bloomberg Tech：Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
-        "Investing.com：Crusoe CEO defends CoreWeave amid selloff"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-27/crusoe-ceo-defends-rival-coreweave-calls-selloff-overblown"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Crusoe CEO defends CoreWeave amid selloff",
-          "url": "https://www.investing.com/news/stock-market-news/crusoe-ceo-defends-coreweave-amid-selloff-4976608"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
       "summary": [
         "Bloomberg Tech：Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
@@ -316,7 +295,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "為俄烏停戰芬蘭總統與挪威首相首次與普京通話",
       "summary": [
         "法廣RFI：為俄烏停戰芬蘭總統與挪威首相首次與普京通話",
@@ -337,7 +316,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "敗選的博索納羅（Flávio Bolsonaro）離境前往美國",
       "summary": [
         "法廣RFI：敗選的博索納羅（Flávio Bolsonaro）離境前往美國",
@@ -358,7 +337,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
       "summary": [
         "Bloomberg Markets：Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
@@ -379,7 +358,49 @@
       ]
     },
     {
+      "rank": 7,
+      "title": "Ambani’s Jio Surges in Debut After India-Record IPO",
+      "summary": [
+        "Bloomberg Markets：Ambani’s Jio Surges in Debut After India-Record IPO",
+        "Bloomberg Tech：Ambani's Jio Surges in Debut After India's Biggest IPO"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Ambani’s Jio Surges in Debut After India-Record IPO",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-28/ambani-s-jio-surges-in-debut-after-india-record-ipo-video"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Ambani's Jio Surges in Debut After India's Biggest IPO",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-28/ambani-s-jio-surges-in-debut-after-india-s-biggest-ipo-video"
+        }
+      ]
+    },
+    {
       "rank": 8,
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "summary": [
+        "TechCrunch：Jio shares surge 21% in market debut after blockbuster India IPO",
+        "Investing.com：Jio shares surge over 20% in blockbuster market debut"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+          "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Jio shares surge over 20% in blockbuster market debut",
+          "url": "https://www.investing.com/news/stock-market-news/jio-shares-surge-over-20-in-blockbuster-market-debut-4977495"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網",
       "summary": [
         "紐約時報中文：「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網"
@@ -394,7 +415,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "詳訊：SK海力士三季度營業利潤同比大增632%",
       "summary": [
         "韓聯社：詳訊：SK海力士三季度營業利潤同比大增632%"
@@ -405,21 +426,6 @@
           "source": "韓聯社",
           "title": "詳訊：SK海力士三季度營業利潤同比大增632%",
           "url": "https://cn.yna.co.kr/view/ACK20261028000600881"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "「國家隊」救市不靈了？中國股市頹勢折射經濟困境- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：「國家隊」救市不靈了？中國股市頹勢折射經濟困境- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "「國家隊」救市不靈了？中國股市頹勢折射經濟困境- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVZTalJCeHZ6V2J4Nl9kY2JDVHAzaU8tNEZCc0xhRWs0Z2VBb2xqWVpFdEd4R2RhMGQ0MHNiQkM1NlVrMmVNdEVkdDZVSFZQaF9rSzNzV0dlRXlXYjQyblgzeVFHMDR4anlqc2l2OWF4QmoxeUhXRm92NU44c3pPRWZBQzJMZzNmQldoV3hScGY2dUF1Q2dTNA?oc=5"
         }
       ]
     }
