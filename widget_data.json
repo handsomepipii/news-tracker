@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-10-29 01:56",
+  "updated_at": "2026-10-29 02:57",
   "taiwan": [
     {
       "rank": 1,
+      "title": "西班牙列車追撞至少64死 運輸部長：號誌系統故障",
+      "summary": [
+        "經濟日報：西班牙列車追撞至少64死 運輸部長：號誌系統故障",
+        "自由時報：西班牙高鐵追撞至少68死　交通部長：排程中心下錯指令",
+        "ETtoday：西班牙高鐵相撞68死　交長：控制中心下了莫名其妙的錯誤指令"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "西班牙列車追撞至少64死 運輸部長：號誌系統故障",
+          "url": "https://money.udn.com/money/story/5599/9843271"
+        },
+        {
+          "source": "自由時報",
+          "title": "西班牙高鐵追撞至少68死　交通部長：排程中心下錯指令",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5622067"
+        },
+        {
+          "source": "ETtoday",
+          "title": "西班牙高鐵相撞68死　交長：控制中心下了莫名其妙的錯誤指令",
+          "url": "https://www.ettoday.net/news/20261029/3262532.htm"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "增至46死！西班牙高鐵追撞慘況曝　男目睹「乘客瞬間拋飛」",
       "summary": [
         "ETtoday：增至46死！西班牙高鐵追撞慘況曝　男目睹「乘客瞬間拋飛」",
@@ -29,7 +56,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "西班牙2列高鐵相撞 至少10人死亡",
       "summary": [
         "經濟日報：西班牙2列高鐵相撞 至少10人死亡",
@@ -46,27 +73,6 @@
           "source": "公視新聞",
           "title": "西班牙高鐵列車相撞已知10死 馬德里至安達魯西亞交通中斷",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5c3g3MGNLenRPRkF1cGlWZFVXcDVFa19ITWZjZVI4emFjVWpTS25qUDh3cmN2dGtwMzZYeWJHVTdnN1Z6aWNfd2hIVzItNGs?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗",
-      "summary": [
-        "轉角國際：以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗",
-        "經濟日報：以色列大選難分勝負 組閣前景充滿挑戰"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "轉角國際",
-          "title": "以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13R283ZWY5SXZsT0sxcER6amtHWG5NZnBSbWlHa21wU1VKdko5ZmlaYThzNlVERkxiRUVKa0daV2VhcndJaWttbmdFcEJoNmltbkNJTEpYY1VEbFBHZmpsQ1hxY0haeXZCOTNR0gFrQVVfeXFMTXdHbzdlZjlJdmxPSzFwRHpqa0dYbk1mcFJtaUdrbXBTVUp2SjlmaVphOHM2VURGTGJFRUprR1pXZWFyd0lpa21uZ0VwQmg2aW1uQ0lMSlhjVURsUEdmamxDWHFjSFp5dkI5M1E?oc=5"
-        },
-        {
-          "source": "經濟日報",
-          "title": "以色列大選難分勝負 組閣前景充滿挑戰",
-          "url": "https://money.udn.com/money/story/5599/9841306"
         }
       ]
     },
@@ -93,111 +99,27 @@
     },
     {
       "rank": 5,
-      "title": "西班牙列車追撞至少64死 運輸部長：號誌系統故障",
+      "title": "曾奪坎城金棕櫚獎！伊朗異議名導賈法潘納希 遭判刑5年",
       "summary": [
-        "經濟日報：西班牙列車追撞至少64死 運輸部長：號誌系統故障",
-        "自由時報：西班牙高鐵追撞至少68死　交通部長：排程中心下錯指令"
+        "自由時報：曾奪坎城金棕櫚獎！伊朗異議名導賈法潘納希 遭判刑5年",
+        "經濟日報：人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "西班牙列車追撞至少64死 運輸部長：號誌系統故障",
-          "url": "https://money.udn.com/money/story/5599/9843271"
+          "source": "自由時報",
+          "title": "曾奪坎城金棕櫚獎！伊朗異議名導賈法潘納希 遭判刑5年",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5622034"
         },
         {
-          "source": "自由時報",
-          "title": "西班牙高鐵追撞至少68死　交通部長：排程中心下錯指令",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5622067"
+          "source": "經濟日報",
+          "title": "人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑",
+          "url": "https://money.udn.com/money/story/5599/9843543"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "電巴市佔穩居全臺前三  創奕能源預計明年登入興櫃",
-      "summary": [
-        "自由時報：電巴市佔穩居全臺前三  創奕能源預計明年登入興櫃",
-        "科技新報：創奕能源電巴市佔穩居全臺前三！董座黃振聲喊力拚明年登入興櫃"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "電巴市佔穩居全臺前三  創奕能源預計明年登入興櫃",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5621489"
-        },
-        {
-          "source": "科技新報",
-          "title": "創奕能源電巴市佔穩居全臺前三！董座黃振聲喊力拚明年登入興櫃",
-          "url": "https://finance.technews.tw/2026/10/28/electric-bus-market-share/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "拚民進黨首位屏東市長 梁育慈邀資深在地人談百年阿緱",
-      "summary": [
-        "自由時報：拚民進黨首位屏東市長 梁育慈邀資深在地人談百年阿緱",
-        "TVBS新聞：【LIVE主播+立委線上聊】 北市選戰熱! 沈伯洋民調落後翻轉 鍾佳濱:洋流也吹到屏東"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "拚民進黨首位屏東市長 梁育慈邀資深在地人談百年阿緱",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5621457"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "【LIVE主播+立委線上聊】 北市選戰熱! 沈伯洋民調落後翻轉 鍾佳濱:洋流也吹到屏東",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBneDFtWGNaYkZWeVhCT1NnOHkxMUZMUHNfTk50aHFUemREN09mN0xhZ3ppN3RtUWhCS1M1Q0I4c1Ffelpmc0laZGhoYlhDSkZ3QXdYQlNR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "恩智浦財測遜、估營收成長放緩  盤後跳水",
-      "summary": [
-        "科技新報：恩智浦財測遜、估營收成長放緩  盤後跳水",
-        "MoneyDJ理財網：恩智浦財測遜、估營收成長放緩盤後跳水- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "恩智浦財測遜、估營收成長放緩  盤後跳水",
-          "url": "https://finance.technews.tw/2026/10/28/nxp-q4-outlook-disappoints-as-revenue-growth-expected-to-slow/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "恩智浦財測遜、估營收成長放緩盤後跳水- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd1M1YlVrZllWUjIzNFdWbWxqNjBoZFFnbjNxUFR4LTdDYTRZcmdnMFFIOUI2aEtadDYtV0F5WVU2bjJrMWlLSlFaTnl6UktndG0yNlc3M1Joa3dZMGxDZUVDbUxMczZabDVKMjkzdUN5ckVFQmV0ajhPYUtLSVdZVGZrXzhNb3Z6UTZ0Njd2azU3Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "路透：長鑫將生產 HBM3E！良率僅20%仍硬撐 凸顯中國 AI 記憶體短缺",
-      "summary": [
-        "經濟日報：路透：長鑫將生產 HBM3E！良率僅20%仍硬撐 凸顯中國 AI 記憶體短缺",
-        "自由時報：傳長鑫HBM3E良率20％仍擬生產  中國AI記憶體短缺程度浮現"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "路透：長鑫將生產 HBM3E！良率僅20%仍硬撐 凸顯中國 AI 記憶體短缺",
-          "url": "https://money.udn.com/money/story/5599/9842127"
-        },
-        {
-          "source": "自由時報",
-          "title": "傳長鑫HBM3E良率20％仍擬生產  中國AI記憶體短缺程度浮現",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5621574"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "稱毛澤東獨裁者遭中國抵制法球星姆巴佩多語言發文致歉｜20261028 公視早安新聞｜ 公視新聞PNN",
       "summary": [
         "公視新聞：稱毛澤東獨裁者遭中國抵制法球星姆巴佩多語言發文致歉｜20261028 公視早安新聞｜ 公視新聞PNN",
@@ -216,11 +138,127 @@
           "url": "https://sports.ettoday.net/news/3262469"
         }
       ]
+    },
+    {
+      "rank": 7,
+      "title": "拔樁成功！侯友宜競選主委、前藍委倒戈　力挺蘇巧慧「高票當選」",
+      "summary": [
+        "ETtoday：拔樁成功！侯友宜競選主委、前藍委倒戈　力挺蘇巧慧「高票當選」",
+        "自由時報：蔣萬安、沈伯洋民調拉鋸 主委盧秀燕喊「有信心勝選」曝原因"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "拔樁成功！侯友宜競選主委、前藍委倒戈　力挺蘇巧慧「高票當選」",
+          "url": "https://www.ettoday.net/news/20261028/3262252.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "蔣萬安、沈伯洋民調拉鋸 主委盧秀燕喊「有信心勝選」曝原因",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5621847"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "以色列大選膠著 總理大位花落誰家？門面總統說了算",
+      "summary": [
+        "經濟日報：以色列大選膠著 總理大位花落誰家？門面總統說了算",
+        "關鍵評論網：以色列大選：納坦雅胡失去國會多數，為何看守總理反成他的續命符？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "以色列大選膠著 總理大位花落誰家？門面總統說了算",
+          "url": "https://money.udn.com/money/story/5599/9842405"
+        },
+        {
+          "source": "關鍵評論網",
+          "title": "以色列大選：納坦雅胡失去國會多數，為何看守總理反成他的續命符？",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlbmdDdWNIUVVCaFVINGdOU1hjeExOa0djR3NRM3Y2R2lHbVBCVEVTLUEtM0dIZ2FwZDNQNzczZ2w0aHJoeXV1d0trVEtFNUdTU3hZSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "彭博：巴基斯坦以「一個中國」政策為由 對臺灣航空公司關閉領空",
+      "summary": [
+        "經濟日報：彭博：巴基斯坦以「一個中國」政策為由 對臺灣航空公司關閉領空",
+        "自由時報：「這國」禁止臺灣航空公司飛越領空 外媒酸拍中國馬屁！連北京也沒這樣做"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "彭博：巴基斯坦以「一個中國」政策為由 對臺灣航空公司關閉領空",
+          "url": "https://money.udn.com/money/story/5599/9842602"
+        },
+        {
+          "source": "自由時報",
+          "title": "「這國」禁止臺灣航空公司飛越領空 外媒酸拍中國馬屁！連北京也沒這樣做",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5622007"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "臺積電進駐效益龐大　九州金融集團：3縣近14兆日圓",
+      "summary": [
+        "經濟日報：臺積電進駐效益龐大　九州金融集團：3縣近14兆日圓",
+        "科技新報：臺積電進駐帶動投資生產，九州金融集團估熊本等三縣獲益近 14 兆日圓"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "臺積電進駐效益龐大　九州金融集團：3縣近14兆日圓",
+          "url": "https://money.udn.com/money/story/5599/9842580"
+        },
+        {
+          "source": "科技新報",
+          "title": "臺積電進駐帶動投資生產，九州金融集團估熊本等三縣獲益近 14 兆日圓",
+          "url": "https://finance.technews.tw/2026/10/28/tsmc-entry-drives-investment-production-kyushu-financial-group-estimates-kumamoto-3-prefectures-14-trillion-yen-gain/"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "Apple launches its new touchscreen MacBook Pro",
+      "summary": [
+        "TechCrunch：Apple launches its new touchscreen MacBook Pro",
+        "The Verge：Apple announces its first touchscreen MacBook Pro",
+        "Tom's Hardware：Apple launches new MacBook with touchscreen and OLED — starts at $2,899"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "Apple launches its new touchscreen MacBook Pro",
+          "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/"
+        },
+        {
+          "source": "The Verge",
+          "title": "Apple announces its first touchscreen MacBook Pro",
+          "url": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "Apple launches new MacBook with touchscreen and OLED — starts at $2,899",
+          "url": "https://www.tomshardware.com/laptops/apple-launches-new-macbook-with-touchscreen-and-oled-starts-at-usd2-899"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "Apple announces touchscreen MacBook Pro with OLED display",
+          "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Amazon Unveils New Echo Show 16, Alexa Speakers, Smart Clock and Photo Frame",
       "summary": [
         "Bloomberg Tech：Amazon Unveils New Echo Show 16, Alexa Speakers, Smart Clock and Photo Frame",
@@ -247,7 +285,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
       "summary": [
         "CNBC：Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
@@ -270,33 +308,6 @@
           "source": "Wired",
           "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac",
           "url": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Apple launches its new touchscreen MacBook Pro",
-      "summary": [
-        "TechCrunch：Apple launches its new touchscreen MacBook Pro",
-        "The Verge：Apple announces its first touchscreen MacBook Pro",
-        "Tom's Hardware：Apple launches new MacBook with touchscreen and OLED — starts at $2,899"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "Apple launches its new touchscreen MacBook Pro",
-          "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/"
-        },
-        {
-          "source": "The Verge",
-          "title": "Apple announces its first touchscreen MacBook Pro",
-          "url": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "Apple launches new MacBook with touchscreen and OLED — starts at $2,899",
-          "url": "https://www.tomshardware.com/laptops/apple-launches-new-macbook-with-touchscreen-and-oled-starts-at-usd2-899"
         }
       ]
     },
