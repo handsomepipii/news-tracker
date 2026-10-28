@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 18:53",
+  "updated_at": "2026-10-28 19:49",
   "taiwan": [
     {
       "rank": 1,
@@ -114,48 +114,6 @@
     },
     {
       "rank": 6,
-      "title": "網球》仙鶴裝粉墨登場！前球后大坂直美重返東京旗開得勝",
-      "summary": [
-        "自由時報：網球》仙鶴裝粉墨登場！前球后大坂直美重返東京旗開得勝",
-        "ETtoday：大坂直美「仙鶴裝」華麗回歸！　東京賽首戰告捷"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "網球》仙鶴裝粉墨登場！前球后大坂直美重返東京旗開得勝",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5620857"
-        },
-        {
-          "source": "ETtoday",
-          "title": "大坂直美「仙鶴裝」華麗回歸！　東京賽首戰告捷",
-          "url": "https://sports.ettoday.net/news/3262089"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "以色列大選出口民調出爐　反對派領先納坦雅胡陣營但未過半",
-      "summary": [
-        "ETtoday：以色列大選出口民調出爐　反對派領先納坦雅胡陣營但未過半",
-        "經濟日報：以色列大選首波出口民調出爐　反對派微幅領先未過半"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "以色列大選出口民調出爐　反對派領先納坦雅胡陣營但未過半",
-          "url": "https://www.ettoday.net/news/20261028/3261891.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "以色列大選首波出口民調出爐　反對派微幅領先未過半",
-          "url": "https://money.udn.com/money/story/5599/9841086"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "以色列國會大選激戰！反對派取得領先 執政聯盟席次恐重挫",
       "summary": [
         "自由時報：以色列國會大選激戰！反對派取得領先 執政聯盟席次恐重挫",
@@ -176,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "慢遊嘉義「雲海季」11月2日登場 集章抽好禮",
       "summary": [
         "自由時報：慢遊嘉義「雲海季」11月2日登場 集章抽好禮",
@@ -197,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "巴西大選敗選者抗命逃亡美國！川普政府認了伸援手 波索納洛步父後塵",
       "summary": [
         "經濟日報：巴西大選敗選者抗命逃亡美國！川普政府認了伸援手 波索納洛步父後塵",
@@ -214,6 +172,48 @@
           "source": "自由時報",
           "title": "巴西小波索納洛總統敗選跑了  川普：贊成他到美國",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5621808"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "波音財報遜、737 Max 增產落後  股價崩 10%",
+      "summary": [
+        "科技新報：波音財報遜、737 Max 增產落後  股價崩 10%",
+        "MoneyDJ理財網：波音財報遜、737 Max增產落後 股價崩10%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "波音財報遜、737 Max 增產落後  股價崩 10%",
+          "url": "https://finance.technews.tw/2026/10/28/boeing-reports-third-quarter-results/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "波音財報遜、737 Max增產落後 股價崩10%",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRllFdHhLOXo2UjMtdUhGMGlkZ2pEeEFrNFJxNVQwOGtWMV93LU5YNDRpOTl4aVZ0OE5IVW9pQXZjcmtaYU9nYjBVeWpNdWNQTFNNTTM2bG5DR0pxcFRFZ3NMQWdNT0ctY0lCaTZHTmduX0Y1UnFHMG1rbWZlcWcweVU2YW9TUnZGZ09od05ucW1BQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "長鑫與韓廠差距大？韓媒：中國 AI 巨頭搶簽 10 年約",
+      "summary": [
+        "科技新報：長鑫與韓廠差距大？韓媒：中國 AI 巨頭搶簽 10 年約",
+        "MoneyDJ理財網：長鑫與韓廠差距大？韓媒：中國AI巨頭搶簽10年約- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "長鑫與韓廠差距大？韓媒：中國 AI 巨頭搶簽 10 年約",
+          "url": "https://technews.tw/2026/10/28/chinese-big-tech-in-a-rush-lets-sign-long-term-dram-contracts/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "長鑫與韓廠差距大？韓媒：中國AI巨頭搶簽10年約- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHB3T1FyZ3AwbG1mM0R4LWhCWjNlcjhiUS1PTmVlOTNDT3BrYnMzXzRoUXhDc1RlNVd3TUVaWFdhRk5JdkFMOG1jRlpTR253Z2xLZ254WXUwNG9sVmJrYkFmYUZFejB5SGs4VWxScmRRT0pTVmlCZ01Hd2pNNExQUEYyU3dpQjFtOHpGSHZINDBTZw?oc=5"
         }
       ]
     }
