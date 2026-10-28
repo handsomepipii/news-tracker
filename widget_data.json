@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 00:00",
+  "updated_at": "2026-10-29 00:59",
   "taiwan": [
     {
       "rank": 1,
@@ -72,90 +72,27 @@
     },
     {
       "rank": 4,
-      "title": "疑視線死角！樹林公車左轉輾婦人「雙腿開放性骨折」",
+      "title": "西班牙列車追撞至少64死 運輸部長：號誌系統故障",
       "summary": [
-        "自由時報：疑視線死角！樹林公車左轉輾婦人「雙腿開放性骨折」",
-        "TVBS新聞：有片／驚悚！樹林公車未禮讓猛撞行人！婦雙腿遭輾斷趴地哀嚎"
+        "經濟日報：西班牙列車追撞至少64死 運輸部長：號誌系統故障",
+        "自由時報：西班牙高鐵追撞至少68死　交通部長：排程中心下錯指令"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "疑視線死角！樹林公車左轉輾婦人「雙腿開放性骨折」",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5621306"
+          "source": "經濟日報",
+          "title": "西班牙列車追撞至少64死 運輸部長：號誌系統故障",
+          "url": "https://money.udn.com/money/story/5599/9843271"
         },
         {
-          "source": "TVBS新聞",
-          "title": "有片／驚悚！樹林公車未禮讓猛撞行人！婦雙腿遭輾斷趴地哀嚎",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lYnlpQ204SFVJaGxqdWc3SldQSE96Sm1IZHNOaVVMM19VSTJFcVg3LVNWdWZlb1hOYkF5MjdWZENIRzkwS1NEZjNvRkJFSjg?oc=5"
+          "source": "自由時報",
+          "title": "西班牙高鐵追撞至少68死　交通部長：排程中心下錯指令",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5622067"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "快訊／新竹「嘉晶電子」陷火海！黑煙竄天際 火舌狂冒警消急灌救",
-      "summary": [
-        "TVBS新聞：快訊／新竹「嘉晶電子」陷火海！黑煙竄天際 火舌狂冒警消急灌救",
-        "公開資訊觀測站重訊：嘉晶新竹創新廠火警 濃煙竄天！ 公司重訊回應了"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "快訊／新竹「嘉晶電子」陷火海！黑煙竄天際 火舌狂冒警消急灌救",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10c0dyTHl4YTRvc2k4V1dkWFowOW81amFza3BqR2dsTmZFV05oS1FyOUhsVWhPdEdBWTJDVUpoRUlkelN6MzFsbnpjLXNCcHc?oc=5"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "嘉晶新竹創新廠火警 濃煙竄天！ 公司重訊回應了",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MUUhwd29iN2N5MlZSbEZCNlJJZnhNWEZIbzJBUHFMSEJNMlZucDdKNks3Q2NjTEFRWmZMZ2E1eTYtbGFiMEJVemxWR21tcWVSWmRXM0hSRVAwUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Anthropic 估值上看 2 兆美元，7 名創辦人將成億萬富豪",
-      "summary": [
-        "科技新報：Anthropic 估值上看 2 兆美元，7 名創辦人將成億萬富豪",
-        "經濟日報：Anthropic估值上看2兆美元　7名創辦人將成億萬富豪"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "Anthropic 估值上看 2 兆美元，7 名創辦人將成億萬富豪",
-          "url": "https://finance.technews.tw/2026/10/28/anthropic-valuation-reach-2-trillion-7-founders-billionaires/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "Anthropic估值上看2兆美元　7名創辦人將成億萬富豪",
-          "url": "https://money.udn.com/money/story/123398/9841768"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "日本將徵 5 年反傾銷稅，鎖定臺灣與中國產鋼材",
-      "summary": [
-        "科技新報：日本將徵 5 年反傾銷稅，鎖定臺灣與中國產鋼材",
-        "經濟日報：日本將徵5年反傾銷稅　鎖定臺灣與中國產鋼材"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "日本將徵 5 年反傾銷稅，鎖定臺灣與中國產鋼材",
-          "url": "https://technews.tw/2026/10/28/japan-impose-5-year-anti-dumping-duties-steel-taiwan-china/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "日本將徵5年反傾銷稅　鎖定臺灣與中國產鋼材",
-          "url": "https://money.udn.com/money/story/5599/9841771"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "韓國金融業再傳資安事件　3業者通報資料外洩",
       "summary": [
         "經濟日報：韓國金融業再傳資安事件　3業者通報資料外洩",
@@ -176,7 +113,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "電巴市佔穩居全臺前三  創奕能源預計明年登入興櫃",
       "summary": [
         "自由時報：電巴市佔穩居全臺前三  創奕能源預計明年登入興櫃",
@@ -197,7 +134,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "恩智浦財測遜、估營收成長放緩  盤後跳水",
       "summary": [
         "科技新報：恩智浦財測遜、估營收成長放緩  盤後跳水",
@@ -214,6 +151,69 @@
           "source": "MoneyDJ理財網",
           "title": "恩智浦財測遜、估營收成長放緩盤後跳水- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd1M1YlVrZllWUjIzNFdWbWxqNjBoZFFnbjNxUFR4LTdDYTRZcmdnMFFIOUI2aEtadDYtV0F5WVU2bjJrMWlLSlFaTnl6UktndG0yNlc3M1Joa3dZMGxDZUVDbUxMczZabDVKMjkzdUN5ckVFQmV0ajhPYUtLSVdZVGZrXzhNb3Z6UTZ0Njd2azU3Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "路透：長鑫將生產 HBM3E！良率僅20%仍硬撐 凸顯中國 AI 記憶體短缺",
+      "summary": [
+        "經濟日報：路透：長鑫將生產 HBM3E！良率僅20%仍硬撐 凸顯中國 AI 記憶體短缺",
+        "自由時報：傳長鑫HBM3E良率20％仍擬生產  中國AI記憶體短缺程度浮現"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "路透：長鑫將生產 HBM3E！良率僅20%仍硬撐 凸顯中國 AI 記憶體短缺",
+          "url": "https://money.udn.com/money/story/5599/9842127"
+        },
+        {
+          "source": "自由時報",
+          "title": "傳長鑫HBM3E良率20％仍擬生產  中國AI記憶體短缺程度浮現",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5621574"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "稱毛澤東獨裁者遭中國抵制法球星姆巴佩多語言發文致歉｜20261028 公視早安新聞｜ 公視新聞PNN",
+      "summary": [
+        "公視新聞：稱毛澤東獨裁者遭中國抵制法球星姆巴佩多語言發文致歉｜20261028 公視早安新聞｜ 公視新聞PNN",
+        "ETtoday：姆巴佩捲入「辱華」風波　中國外交部：重視當事人道歉"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公視新聞",
+          "title": "稱毛澤東獨裁者遭中國抵制法球星姆巴佩多語言發文致歉｜20261028 公視早安新聞｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TWWlqQTZIQlJOUVlqaVd2MlktZzcxc3Uyc3lnY1RZbUtMV2NLVTBXODJPVDlvZ0ptUEJDelg1eXIxbjYtTTVPcFFqVQ?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "姆巴佩捲入「辱華」風波　中國外交部：重視當事人道歉",
+          "url": "https://sports.ettoday.net/news/3262469"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "拔樁成功！侯友宜競選主委、前藍委倒戈　力挺蘇巧慧「高票當選」",
+      "summary": [
+        "ETtoday：拔樁成功！侯友宜競選主委、前藍委倒戈　力挺蘇巧慧「高票當選」",
+        "自由時報：蔣萬安、沈伯洋民調拉鋸 主委盧秀燕喊「有信心勝選」曝原因"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "拔樁成功！侯友宜競選主委、前藍委倒戈　力挺蘇巧慧「高票當選」",
+          "url": "https://www.ettoday.net/news/20261028/3262252.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "蔣萬安、沈伯洋民調拉鋸 主委盧秀燕喊「有信心勝選」曝原因",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5621847"
         }
       ]
     }
@@ -248,153 +248,6 @@
     },
     {
       "rank": 2,
-      "title": "Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
-      "summary": [
-        "Financial Times：Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
-        "Bloomberg Markets：Peltz’s Trian Offers to Take Wendy’s Private in All-Cash Deal"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
-          "url": "https://www.ft.com/content/9cf40241-94df-403d-b93f-ac6c09728627?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "Peltz’s Trian Offers to Take Wendy’s Private in All-Cash Deal",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/trian-offers-to-take-wendy-s-private-in-all-cash-deal-video"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Israel’s election: What happens next?",
-      "summary": [
-        "Financial Times：Israel’s election: What happens next?",
-        "BBC World：Watch: What happens now after close vote in Israeli election?"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "Israel’s election: What happens next?",
-          "url": "https://www.ft.com/content/4f122702-3765-4e9f-a94f-4b786bc2af15"
-        },
-        {
-          "source": "BBC World",
-          "title": "Watch: What happens now after close vote in Israeli election?",
-          "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Ambani’s Jio Surges in Debut After India-Record IPO",
-      "summary": [
-        "Bloomberg Markets：Ambani’s Jio Surges in Debut After India-Record IPO",
-        "Bloomberg Tech：Ambani's Jio Surges in Debut After India's Biggest IPO"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Ambani’s Jio Surges in Debut After India-Record IPO",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/ambani-s-jio-surges-in-debut-after-india-record-ipo-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Ambani's Jio Surges in Debut After India's Biggest IPO",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/ambani-s-jio-surges-in-debut-after-india-s-biggest-ipo-video"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Exclusive-Rio Tinto proposes 56% pay jump for CEO as mining sector fights for talent",
-      "summary": [
-        "Investing.com：Exclusive-Rio Tinto proposes 56% pay jump for CEO as mining sector fights for talent",
-        "Financial Times：Rio Tinto proposes 56% pay bump for CEO"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Exclusive-Rio Tinto proposes 56% pay jump for CEO as mining sector fights for talent",
-          "url": "https://www.investing.com/news/stock-market-news/exclusiverio-tinto-proposes-56-pay-jump-for-ceo-as-mining-sector-fights-for-talent-4977483"
-        },
-        {
-          "source": "Financial Times",
-          "title": "Rio Tinto proposes 56% pay bump for CEO",
-          "url": "https://www.ft.com/content/294a4479-a7ae-4a6b-aa34-fabc5df5352c?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-      "summary": [
-        "TechCrunch：Jio shares surge 21% in market debut after blockbuster India IPO",
-        "Investing.com：Jio shares surge over 20% in blockbuster market debut"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-          "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Jio shares surge over 20% in blockbuster market debut",
-          "url": "https://www.investing.com/news/stock-market-news/jio-shares-surge-over-20-in-blockbuster-market-debut-4977495"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
-      "summary": [
-        "CNBC：Ten people confirmed dead in high-speed Spain train crash, local media report",
-        "Financial Times：At least 10 killed in collision of high-speed trains in Spain"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
-          "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html"
-        },
-        {
-          "source": "Financial Times",
-          "title": "At least 10 killed in collision of high-speed trains in Spain",
-          "url": "https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
-      "summary": [
-        "The Guardian：Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
-        "Washington Post：Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
-          "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
-        },
-        {
-          "source": "Washington Post",
-          "title": "Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS200OVFWbk5QSmRLRnpfZlJmM0NIV1FUOGNQd0FNakZKcXJmc29FSWZaMXkwdUJfWlRVZVJKLWVvVmVzcjhrWDhJc0VQVUxCZWZ0U2syLTUwZ1J1bVMzOXdMZGVKMHM5X1phdndEY19qTm45a1I0cmdIMjV3NkFXZlR6RXFycGU4MFJPTXhvMm5yN1FpUkNZUS1CLVotZGVOd3dsendTb0NJdjNLWi1kdTJHd0ctOHpRMUE0RGpB?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Aftermath of Spanish Train Crash Near Madrid",
       "summary": [
         "Bloomberg Markets：Aftermath of Spanish Train Crash Near Madrid",
@@ -415,23 +268,170 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
+      "rank": 3,
+      "title": "Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
       "summary": [
-        "WSJ Markets：Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
-        "Investing.com：Trian Fund Management offers to buy Wendy’s for $1.4 billion, WSJ reports"
+        "Financial Times：Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
+        "Bloomberg Markets：Peltz’s Trian Offers to Take Wendy’s Private in All-Cash Deal"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "WSJ Markets",
-          "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
-          "url": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1?mod=rss_markets_main"
+          "source": "Financial Times",
+          "title": "Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
+          "url": "https://www.ft.com/content/9cf40241-94df-403d-b93f-ac6c09728627?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "Peltz’s Trian Offers to Take Wendy’s Private in All-Cash Deal",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-28/trian-offers-to-take-wendy-s-private-in-all-cash-deal-video"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Israel’s election: What happens next?",
+      "summary": [
+        "Financial Times：Israel’s election: What happens next?",
+        "BBC World：Watch: What happens now after close vote in Israeli election?"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "Israel’s election: What happens next?",
+          "url": "https://www.ft.com/content/4f122702-3765-4e9f-a94f-4b786bc2af15"
+        },
+        {
+          "source": "BBC World",
+          "title": "Watch: What happens now after close vote in Israeli election?",
+          "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Ambani’s Jio Surges in Debut After India-Record IPO",
+      "summary": [
+        "Bloomberg Markets：Ambani’s Jio Surges in Debut After India-Record IPO",
+        "Bloomberg Tech：Ambani's Jio Surges in Debut After India's Biggest IPO"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Ambani’s Jio Surges in Debut After India-Record IPO",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-28/ambani-s-jio-surges-in-debut-after-india-record-ipo-video"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Ambani's Jio Surges in Debut After India's Biggest IPO",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-28/ambani-s-jio-surges-in-debut-after-india-s-biggest-ipo-video"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Exclusive-Rio Tinto proposes 56% pay jump for CEO as mining sector fights for talent",
+      "summary": [
+        "Investing.com：Exclusive-Rio Tinto proposes 56% pay jump for CEO as mining sector fights for talent",
+        "Financial Times：Rio Tinto proposes 56% pay bump for CEO"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Exclusive-Rio Tinto proposes 56% pay jump for CEO as mining sector fights for talent",
+          "url": "https://www.investing.com/news/stock-market-news/exclusiverio-tinto-proposes-56-pay-jump-for-ceo-as-mining-sector-fights-for-talent-4977483"
+        },
+        {
+          "source": "Financial Times",
+          "title": "Rio Tinto proposes 56% pay bump for CEO",
+          "url": "https://www.ft.com/content/294a4479-a7ae-4a6b-aa34-fabc5df5352c?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "summary": [
+        "TechCrunch：Jio shares surge 21% in market debut after blockbuster India IPO",
+        "Investing.com：Jio shares surge over 20% in blockbuster market debut"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+          "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/"
         },
         {
           "source": "Investing.com",
-          "title": "Trian Fund Management offers to buy Wendy’s for $1.4 billion, WSJ reports",
-          "url": "https://www.investing.com/news/stock-market-news/trian-fund-management-offers-to-buy-wendys-for-14-billion-wsj-reports-4979065"
+          "title": "Jio shares surge over 20% in blockbuster market debut",
+          "url": "https://www.investing.com/news/stock-market-news/jio-shares-surge-over-20-in-blockbuster-market-debut-4977495"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
+      "summary": [
+        "CNBC：Ten people confirmed dead in high-speed Spain train crash, local media report",
+        "Financial Times：At least 10 killed in collision of high-speed trains in Spain"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
+          "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html"
+        },
+        {
+          "source": "Financial Times",
+          "title": "At least 10 killed in collision of high-speed trains in Spain",
+          "url": "https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
+      "summary": [
+        "Bloomberg Markets：Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
+        "Yahoo Finance：Wall Street’s AI Debt Machine Is Starting to Choke on Supply"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-28/wall-street-s-ai-debt-machine-is-starting-to-choke-on-supply"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbTdoTUVsQ2ZONENzU0Z1X0dUSjV3Ri1ONm5UTVkzbzNVa2RPQVJQT0JFMEo3Zjlabm45MlNXV0Q1OUNRSFpsUzEzZ1JZV24tRTlGUVZZQzk5S1VucTN5VVliNXBVRVlzZFlWY2JHaXFBNDR0Y1J4MjhVbkZyb3NmeGZHOGVQYjliRGx3S2dtR3phNTduTEE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
+      "summary": [
+        "The Guardian：Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
+        "Washington Post：Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
+          "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
+        },
+        {
+          "source": "Washington Post",
+          "title": "Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS200OVFWbk5QSmRLRnpfZlJmM0NIV1FUOGNQd0FNakZKcXJmc29FSWZaMXkwdUJfWlRVZVJKLWVvVmVzcjhrWDhJc0VQVUxCZWZ0U2syLTUwZ1J1bVMzOXdMZGVKMHM5X1phdndEY19qTm45a1I0cmdIMjV3NkFXZlR6RXFycGU4MFJPTXhvMm5yN1FpUkNZUS1CLVotZGVOd3dsendTb0NJdjNLWi1kdTJHd0ctOHpRMUE0RGpB?oc=5"
         }
       ]
     }
