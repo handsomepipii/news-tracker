@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 10:56",
+  "updated_at": "2026-10-28 11:51",
   "taiwan": [
     {
       "rank": 1,
@@ -57,27 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "以色列國會大選激戰 投票率創49年同期紀錄",
-      "summary": [
-        "自由時報：以色列國會大選激戰 投票率創49年同期紀錄",
-        "經濟日報：以色列大選投票率破紀錄　對尼坦雅胡戰時表現作評斷"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "以色列國會大選激戰 投票率創49年同期紀錄",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620788"
-        },
-        {
-          "source": "經濟日報",
-          "title": "以色列大選投票率破紀錄　對尼坦雅胡戰時表現作評斷",
-          "url": "https://money.udn.com/money/story/5599/9841022"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "重啟外交化解中東衝突　國際油價下滑",
       "summary": [
         "自由時報：重啟外交化解中東衝突　國際油價下滑",
@@ -94,6 +73,27 @@
           "source": "經濟日報",
           "title": "重啟外交化解中東衝突　國際油價下滑",
           "url": "https://money.udn.com/money/story/5599/9841060"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "不只輝達可選！甲骨文雲端納入Google、OpenAI晶片 支援AI運算",
+      "summary": [
+        "鉅亨網：不只輝達可選！甲骨文雲端納入Google、OpenAI晶片 支援AI運算",
+        "經濟日報：ASIC 再添利多！OpenAI 傳擬採購 Google AI 晶片"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "鉅亨網",
+          "title": "不只輝達可選！甲骨文雲端納入Google、OpenAI晶片 支援AI運算",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQZWRMNHdCSjZ2VTZZTW95YWVDT1VtU0s1d19UTW1DVmdLWUhXamxrRzhQdU5zVjRickJPRzRpWTJxSHVxWjhvUEpRWjlTTW8?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "ASIC 再添利多！OpenAI 傳擬採購 Google AI 晶片",
+          "url": "https://money.udn.com/money/story/5599/9841472"
         }
       ]
     },
@@ -162,6 +162,27 @@
     },
     {
       "rank": 8,
+      "title": "Apple 新品週連發，M6 MacBook Pro 與 iMac 領銜，iPad mini 首度搭載 OLED 螢幕",
+      "summary": [
+        "INSIDE硬塞：Apple 新品週連發，M6 MacBook Pro 與 iMac 領銜，iPad mini 首度搭載 OLED 螢幕",
+        "iThome：蘋果擴大M6產品線，推出新款MacBook Pro與iMac"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "INSIDE硬塞",
+          "title": "Apple 新品週連發，M6 MacBook Pro 與 iMac 領銜，iPad mini 首度搭載 OLED 螢幕",
+          "url": "https://www.inside.com.tw/article/42747-apple-pro-and-tell-m6-macbook-pro-imac-ipad-mini"
+        },
+        {
+          "source": "iThome",
+          "title": "蘋果擴大M6產品線，推出新款MacBook Pro與iMac",
+          "url": "https://www.ithome.com.tw/news/180013"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Z世代追求極致成潮流　Maxxing入選字典網站年度代表字",
       "summary": [
         "經濟日報：Z世代追求極致成潮流　Maxxing入選字典網站年度代表字",
@@ -182,7 +203,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "市場權衡歐洲企業財報　歐股收盤走勢不一",
       "summary": [
         "自由時報：市場權衡歐洲企業財報　歐股收盤走勢不一",
@@ -199,27 +220,6 @@
           "source": "經濟日報",
           "title": "市場權衡歐洲企業財報　歐股收盤走勢不一",
           "url": "https://money.udn.com/money/story/5599/9841006"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "輝達投資Meta近1000億元 深化個人AI代理Muse合作",
-      "summary": [
-        "自由時報：輝達投資Meta近1000億元 深化個人AI代理Muse合作",
-        "科技新報：輝達投資 Meta 近 1,000 億元，深化個人 AI 代理 Muse 合作"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "輝達投資Meta近1000億元 深化個人AI代理Muse合作",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5620559"
-        },
-        {
-          "source": "科技新報",
-          "title": "輝達投資 Meta 近 1,000 億元，深化個人 AI 代理 Muse 合作",
-          "url": "https://technews.tw/2026/10/28/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth/"
         }
       ]
     }
@@ -296,27 +296,6 @@
     },
     {
       "rank": 4,
-      "title": "Apple launches new MacBook Pro, iMac as it continues to refresh product lines",
-      "summary": [
-        "Yahoo Finance：Apple launches new MacBook Pro, iMac as it continues to refresh product lines",
-        "Ars Technica：Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Apple launches new MacBook Pro, iMac as it continues to refresh product lines",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZE4xZ3FadnpwM0JuSnAtY1NwZ1R6bVFmN0Z0QmFwNUFfYlllUGpTbXU4MzdRTG9rN1h0eWliT0FkZ1VDb1JFSWhwcjZXWktTNmZEX3pCUVk3eWJfZTlEWTljeGsycWNFX3VMN0V2SjBXZU5jdXlROTFCQ19XTUtNOXR1OURzZW1md2tIc2lvcGRwOWJHMnhvVC1xUXVrUDBZS0xQRl9WMHJJXy1DUmdNT3BKajJPX01lNmlvWEEyYmk4ODRUQjlPX29FYlBTcVZPWGc?oc=5"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-          "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
       "summary": [
         "Bloomberg Markets：SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
@@ -337,7 +316,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
       "summary": [
         "Bloomberg Tech：Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
@@ -358,7 +337,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
       "summary": [
         "Bloomberg Tech：Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
@@ -379,7 +358,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "為俄烏停戰芬蘭總統與挪威首相首次與普京通話",
       "summary": [
         "法廣RFI：為俄烏停戰芬蘭總統與挪威首相首次與普京通話",
@@ -396,6 +375,27 @@
           "source": "NHK新聞",
           "title": "フィンランドとノルウェーの首脳がプーチン大統領と電話會談",
           "url": "https://news.web.nhk/newsweb/na/nd-20261028de66723"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "敗選的博索納羅（Flávio Bolsonaro）離境前往美國",
+      "summary": [
+        "法廣RFI：敗選的博索納羅（Flávio Bolsonaro）離境前往美國",
+        "Financial Times：Bolsonaro lands in US after fleeing Brazil following election defeat"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "敗選的博索納羅（Flávio Bolsonaro）離境前往美國",
+          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261027-%E6%95%97%E9%81%B8%E7%9A%84%E5%8D%9A%E7%B4%A2%E7%B4%8D%E7%BE%85-fl%C3%A1vio-bolsonaro-%E9%9B%A2%E5%A2%83%E5%89%8D%E5%BE%80%E7%BE%8E%E5%9C%8B"
+        },
+        {
+          "source": "Financial Times",
+          "title": "Bolsonaro lands in US after fleeing Brazil following election defeat",
+          "url": "https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1"
         }
       ]
     },
@@ -422,16 +422,16 @@
     },
     {
       "rank": 10,
-      "title": "2026年10月28日韓國歷史上的今天",
+      "title": "「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網",
       "summary": [
-        "韓聯社：2026年10月28日韓國歷史上的今天"
+        "紐約時報中文：「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "韓聯社",
-          "title": "2026年10月28日韓國歷史上的今天",
-          "url": "https://cn.yna.co.kr/view/ACK20261007004400881"
+          "source": "紐約時報中文",
+          "title": "「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHc0YzBPb0NROGJ5OXpIRTY1M214eDM5LTlSaE85T0N2aXFFam1MWTNxMjhhdExXUFdGemd1V3h4a21tZ2J1bm1McVlGWlBtajFmeFBxYkxDMzROdFZlOGhMZHloMWoxWGF0dFNtUXZiVU9TUHdqUmt0a0NCbndaN2ZiNDZGVjJw?oc=5"
         }
       ]
     }
