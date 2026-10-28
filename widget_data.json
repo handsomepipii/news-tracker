@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-10-28 16:08",
+  "updated_at": "2026-10-28 16:58",
   "taiwan": [
     {
       "rank": 1,
-      "title": "路透：小波索納洛拒交護照　巴西大選落敗後赴美",
-      "summary": [
-        "自由時報：路透：小波索納洛拒交護照　巴西大選落敗後赴美",
-        "經濟日報：路透：小波索納洛拒交護照　巴西大選落敗後赴美",
-        "ETtoday：巴西大選落敗陷洗錢風波　小波索納洛拒交護照傳逃往美國"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "路透：小波索納洛拒交護照　巴西大選落敗後赴美",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620864"
-        },
-        {
-          "source": "經濟日報",
-          "title": "路透：小波索納洛拒交護照　巴西大選落敗後赴美",
-          "url": "https://money.udn.com/money/story/5599/9841039"
-        },
-        {
-          "source": "ETtoday",
-          "title": "巴西大選落敗陷洗錢風波　小波索納洛拒交護照傳逃往美國",
-          "url": "https://www.ettoday.net/news/20261028/3261885.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "從救災到醫療照護 ！「AI智慧城市 x 有感生活」論壇展現跨域應用與產業新商機",
       "summary": [
         "INSIDE硬塞：從救災到醫療照護 ！「AI智慧城市 x 有感生活」論壇展現跨域應用與產業新商機",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "重啟外交化解中東衝突　國際油價下滑",
       "summary": [
         "自由時報：重啟外交化解中東衝突　國際油價下滑",
@@ -77,7 +50,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "美國期中選舉前一週　聯邦選委會網站遭駭系統中斷",
       "summary": [
         "自由時報：美國期中選舉前一週　聯邦選委會網站遭駭系統中斷",
@@ -98,28 +71,28 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "不只輝達可選！甲骨文雲端納入Google、OpenAI晶片 支援AI運算",
+      "rank": 4,
+      "title": "ASIC 再添利多！OpenAI 傳擬採購 Google AI 晶片",
       "summary": [
-        "鉅亨網：不只輝達可選！甲骨文雲端納入Google、OpenAI晶片 支援AI運算",
-        "經濟日報：ASIC 再添利多！OpenAI 傳擬採購 Google AI 晶片"
+        "經濟日報：ASIC 再添利多！OpenAI 傳擬採購 Google AI 晶片",
+        "INSIDE硬塞：打破 NVIDIA 獨大？傳 OpenAI 有意採購 Google AI 晶片深化雙方合作"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "鉅亨網",
-          "title": "不只輝達可選！甲骨文雲端納入Google、OpenAI晶片 支援AI運算",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQZWRMNHdCSjZ2VTZZTW95YWVDT1VtU0s1d19UTW1DVmdLWUhXamxrRzhQdU5zVjRickJPRzRpWTJxSHVxWjhvUEpRWjlTTW8?oc=5"
-        },
-        {
           "source": "經濟日報",
           "title": "ASIC 再添利多！OpenAI 傳擬採購 Google AI 晶片",
           "url": "https://money.udn.com/money/story/5599/9841472"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "打破 NVIDIA 獨大？傳 OpenAI 有意採購 Google AI 晶片深化雙方合作",
+          "url": "https://www.inside.com.tw/article/42755-openai-longtime-nvidia-customer-plans-buy-googles-ai-chips"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "路透：全球高通膨恐持續至2027年　物價壓力難消",
       "summary": [
         "經濟日報：路透：全球高通膨恐持續至2027年　物價壓力難消",
@@ -140,49 +113,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "美期中選舉在即　川普：若選舉廉潔不論結果如何都尊重",
-      "summary": [
-        "自由時報：美期中選舉在即　川普：若選舉廉潔不論結果如何都尊重",
-        "經濟日報：美期中選舉在即　川普：若選舉廉潔不論結果如何都尊重"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美期中選舉在即　川普：若選舉廉潔不論結果如何都尊重",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620863"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美期中選舉在即　川普：若選舉廉潔不論結果如何都尊重",
-          "url": "https://money.udn.com/money/story/5599/9841038"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票",
-      "summary": [
-        "自由時報：控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票",
-        "經濟日報：控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620862"
-        },
-        {
-          "source": "經濟日報",
-          "title": "控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票",
-          "url": "https://money.udn.com/money/story/5599/9841035"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "八里騎士轉彎與直行機車碰撞！1命危、1骨折送醫",
       "summary": [
         "自由時報：八里騎士轉彎與直行機車碰撞！1命危、1骨折送醫",
@@ -203,7 +134,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "投資人對AI類股重燃熱情　美股收紅",
       "summary": [
         "自由時報：投資人對AI類股重燃熱情　美股收紅",
@@ -220,6 +151,69 @@
           "source": "經濟日報",
           "title": "投資人對AI類股重燃熱情　美股收紅",
           "url": "https://money.udn.com/money/story/123398/9841078"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "網球》仙鶴裝粉墨登場！前球后大坂直美重返東京旗開得勝",
+      "summary": [
+        "自由時報：網球》仙鶴裝粉墨登場！前球后大坂直美重返東京旗開得勝",
+        "ETtoday：大坂直美「仙鶴裝」華麗回歸！　東京賽首戰告捷"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "網球》仙鶴裝粉墨登場！前球后大坂直美重返東京旗開得勝",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5620857"
+        },
+        {
+          "source": "ETtoday",
+          "title": "大坂直美「仙鶴裝」華麗回歸！　東京賽首戰告捷",
+          "url": "https://sports.ettoday.net/news/3262089"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "以色列大選出口民調出爐　反對派領先納坦雅胡陣營但未過半",
+      "summary": [
+        "ETtoday：以色列大選出口民調出爐　反對派領先納坦雅胡陣營但未過半",
+        "經濟日報：以色列大選首波出口民調出爐　反對派微幅領先未過半"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "以色列大選出口民調出爐　反對派領先納坦雅胡陣營但未過半",
+          "url": "https://www.ettoday.net/news/20261028/3261891.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "以色列大選首波出口民調出爐　反對派微幅領先未過半",
+          "url": "https://money.udn.com/money/story/5599/9841086"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "以色列國會大選激戰！反對派取得領先 執政聯盟席次恐重挫",
+      "summary": [
+        "自由時報：以色列國會大選激戰！反對派取得領先 執政聯盟席次恐重挫",
+        "經濟日報：以色列大選變天？出口民調：內唐亞胡陣營未過半 反對派宣佈勝利"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "以色列國會大選激戰！反對派取得領先 執政聯盟席次恐重挫",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620881"
+        },
+        {
+          "source": "經濟日報",
+          "title": "以色列大選變天？出口民調：內唐亞胡陣營未過半 反對派宣佈勝利",
+          "url": "https://money.udn.com/money/story/5599/9841197"
         }
       ]
     }
@@ -269,27 +263,6 @@
     },
     {
       "rank": 3,
-      "title": "為俄烏停戰芬蘭總統與挪威首相首次與普京通話",
-      "summary": [
-        "法廣RFI：為俄烏停戰芬蘭總統與挪威首相首次與普京通話",
-        "NHK新聞：フィンランドとノルウェーの首脳がプーチン大統領と電話會談"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "為俄烏停戰芬蘭總統與挪威首相首次與普京通話",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E5%88%86%E6%9E%90/20261027-%E7%82%BA%E4%BF%84%E7%83%8F%E5%81%9C%E6%88%B0%E8%8A%AC%E8%98%AD%E7%B8%BD%E7%B5%B1%E8%88%87%E6%8C%AA%E5%A8%81%E9%A6%96%E7%9B%B8%E9%A6%96%E6%AC%A1%E8%88%87%E6%99%AE%E4%BA%AC%E9%80%9A%E8%A9%B1"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "フィンランドとノルウェーの首脳がプーチン大統領と電話會談",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261028de66723"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "敗選的博索納羅（Flávio Bolsonaro）離境前往美國",
       "summary": [
         "法廣RFI：敗選的博索納羅（Flávio Bolsonaro）離境前往美國",
@@ -310,7 +283,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
       "summary": [
         "Bloomberg Markets：Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
@@ -327,6 +300,27 @@
           "source": "Investing.com",
           "title": "Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports",
           "url": "https://www.investing.com/news/stock-market-news/anthropic-taps-jpmorgan-to-lead-ipos-us-retail-sales-bloomberg-reports-4977334"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Israel’s election: What happens next?",
+      "summary": [
+        "Financial Times：Israel’s election: What happens next?",
+        "BBC World：Watch: What happens now after close vote in Israeli election?"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "Israel’s election: What happens next?",
+          "url": "https://www.ft.com/content/4f122702-3765-4e9f-a94f-4b786bc2af15"
+        },
+        {
+          "source": "BBC World",
+          "title": "Watch: What happens now after close vote in Israeli election?",
+          "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -353,6 +347,27 @@
     },
     {
       "rank": 7,
+      "title": "Exclusive-Rio Tinto proposes 56% pay jump for CEO as mining sector fights for talent",
+      "summary": [
+        "Investing.com：Exclusive-Rio Tinto proposes 56% pay jump for CEO as mining sector fights for talent",
+        "Financial Times：Rio Tinto proposes 56% pay bump for CEO"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Exclusive-Rio Tinto proposes 56% pay jump for CEO as mining sector fights for talent",
+          "url": "https://www.investing.com/news/stock-market-news/exclusiverio-tinto-proposes-56-pay-jump-for-ceo-as-mining-sector-fights-for-talent-4977483"
+        },
+        {
+          "source": "Financial Times",
+          "title": "Rio Tinto proposes 56% pay bump for CEO",
+          "url": "https://www.ft.com/content/294a4479-a7ae-4a6b-aa34-fabc5df5352c?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
       "summary": [
         "TechCrunch：Jio shares surge 21% in market debut after blockbuster India IPO",
@@ -373,7 +388,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "2026年10月28日韓國主要報紙頭條新聞",
       "summary": [
         "韓聯社：2026年10月28日韓國主要報紙頭條新聞"
@@ -388,7 +403,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網",
       "summary": [
         "紐約時報中文：「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網"
@@ -399,21 +414,6 @@
           "source": "紐約時報中文",
           "title": "「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHc0YzBPb0NROGJ5OXpIRTY1M214eDM5LTlSaE85T0N2aXFFam1MWTNxMjhhdExXUFdGemd1V3h4a21tZ2J1bm1McVlGWlBtajFmeFBxYkxDMzROdFZlOGhMZHloMWoxWGF0dFNtUXZiVU9TUHdqUmt0a0NCbndaN2ZiNDZGVjJw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "詳訊：SK海力士三季度營業利潤同比大增632%",
-      "summary": [
-        "韓聯社：詳訊：SK海力士三季度營業利潤同比大增632%"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "詳訊：SK海力士三季度營業利潤同比大增632%",
-          "url": "https://cn.yna.co.kr/view/ACK20261028000600881"
         }
       ]
     }
