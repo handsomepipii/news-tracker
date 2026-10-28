@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-10-28 20:57",
+  "updated_at": "2026-10-28 22:10",
   "taiwan": [
     {
       "rank": 1,
-      "title": "從救災到醫療照護 ！「AI智慧城市 x 有感生活」論壇展現跨域應用與產業新商機",
-      "summary": [
-        "INSIDE硬塞：從救災到醫療照護 ！「AI智慧城市 x 有感生活」論壇展現跨域應用與產業新商機",
-        "癮科技Cool3c：從救災到醫療照護 ！「AI智慧城市 x 有感生活」論壇展現跨域應用與產業新商機",
-        "關鍵評論網：從救災到醫療照護 ！「AI智慧城市 x 有感生活」論壇展現跨域應用與產業新商機"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "INSIDE硬塞",
-          "title": "從救災到醫療照護 ！「AI智慧城市 x 有感生活」論壇展現跨域應用與產業新商機",
-          "url": "https://www.inside.com.tw/article/42746-ASVA202611"
-        },
-        {
-          "source": "癮科技Cool3c",
-          "title": "從救災到醫療照護 ！「AI智慧城市 x 有感生活」論壇展現跨域應用與產業新商機",
-          "url": "https://www.cool3c.com/article/253462"
-        },
-        {
-          "source": "關鍵評論網",
-          "title": "從救災到醫療照護 ！「AI智慧城市 x 有感生活」論壇展現跨域應用與產業新商機",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hZGEtN3kzN0ttaDNZdTl2dy1yMlZ0c0p1R0NpUG1CWGdlN2RNMW5RZ01xYmtkc0hkam5HRlZtNGhIQ2s4MFRFZnRuYnpadE1pNnE3Ug?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Anduril攜手高通推美國製筆電，力拚重建本土電腦供應鏈",
       "summary": [
         "iThome：Anduril攜手高通推美國製筆電，力拚重建本土電腦供應鏈",
@@ -50,7 +23,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "ASIC 再添利多！OpenAI 傳擬採購 Google AI 晶片",
       "summary": [
         "經濟日報：ASIC 再添利多！OpenAI 傳擬採購 Google AI 晶片",
@@ -71,7 +44,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "路透：全球高通膨恐持續至2027年　物價壓力難消",
       "summary": [
         "經濟日報：路透：全球高通膨恐持續至2027年　物價壓力難消",
@@ -92,7 +65,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "以色列大選陷入僵局　尼坦雅胡繼續執掌政權面臨考驗",
       "summary": [
         "經濟日報：以色列大選陷入僵局　尼坦雅胡繼續執掌政權面臨考驗",
@@ -113,70 +86,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "波音財報遜、737 Max 增產落後  股價崩 10%",
-      "summary": [
-        "科技新報：波音財報遜、737 Max 增產落後  股價崩 10%",
-        "MoneyDJ理財網：波音財報遜、737 Max增產落後 股價崩10%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "波音財報遜、737 Max 增產落後  股價崩 10%",
-          "url": "https://finance.technews.tw/2026/10/28/boeing-reports-third-quarter-results/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "波音財報遜、737 Max增產落後 股價崩10%",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRllFdHhLOXo2UjMtdUhGMGlkZ2pEeEFrNFJxNVQwOGtWMV93LU5YNDRpOTl4aVZ0OE5IVW9pQXZjcmtaYU9nYjBVeWpNdWNQTFNNTTM2bG5DR0pxcFRFZ3NMQWdNT0ctY0lCaTZHTmduX0Y1UnFHMG1rbWZlcWcweVU2YW9TUnZGZ09od05ucW1BQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "長鑫與韓廠差距大？韓媒：中國 AI 巨頭搶簽 10 年約",
-      "summary": [
-        "科技新報：長鑫與韓廠差距大？韓媒：中國 AI 巨頭搶簽 10 年約",
-        "MoneyDJ理財網：長鑫與韓廠差距大？韓媒：中國AI巨頭搶簽10年約- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "長鑫與韓廠差距大？韓媒：中國 AI 巨頭搶簽 10 年約",
-          "url": "https://technews.tw/2026/10/28/chinese-big-tech-in-a-rush-lets-sign-long-term-dram-contracts/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "長鑫與韓廠差距大？韓媒：中國AI巨頭搶簽10年約- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHB3T1FyZ3AwbG1mM0R4LWhCWjNlcjhiUS1PTmVlOTNDT3BrYnMzXzRoUXhDc1RlNVd3TUVaWFdhRk5JdkFMOG1jRlpTR253Z2xLZ254WXUwNG9sVmJrYkFmYUZFejB5SGs4VWxScmRRT0pTVmlCZ01Hd2pNNExQUEYyU3dpQjFtOHpGSHZINDBTZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "再度嫌棄「AI」不準確！川普發文宣佈全面禁用 都要改稱「SI」",
-      "summary": [
-        "經濟日報：再度嫌棄「AI」不準確！川普發文宣佈全面禁用 都要改稱「SI」",
-        "科技新報：川普嫌 AI 用詞不當  揚言「將全面禁用、改稱 SI」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "再度嫌棄「AI」不準確！川普發文宣佈全面禁用 都要改稱「SI」",
-          "url": "https://money.udn.com/money/story/5599/9841295"
-        },
-        {
-          "source": "科技新報",
-          "title": "川普嫌 AI 用詞不當  揚言「將全面禁用、改稱 SI」",
-          "url": "https://technews.tw/2026/10/28/trump-again-threatens-to-stop-using-ai-and-rename-it-si/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 5,
       "title": "天良接獲消費者反映個資疑似外洩，委外平臺資料庫遭自動化攻擊",
       "summary": [
         "公開資訊觀測站重訊：天良接獲消費者反映個資疑似外洩，委外平臺資料庫遭自動化攻擊",
@@ -197,7 +107,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "高林購物網站委由91APP建置的系統遭自動化攻擊，會員訂單資料恐被擷取",
       "summary": [
         "公開資訊觀測站重訊：高林購物網站委由91APP建置的系統遭自動化攻擊，會員訂單資料恐被擷取",
@@ -216,53 +126,116 @@
           "url": "https://www.ithome.com.tw/news/180007"
         }
       ]
+    },
+    {
+      "rank": 7,
+      "title": "姆巴佩、西甲接連道歉還不夠！中國《央視》還要他「痛改前非」",
+      "summary": [
+        "自由時報：姆巴佩、西甲接連道歉還不夠！中國《央視》還要他「痛改前非」",
+        "ETtoday：姆巴佩捲入「辱華」風波　中國外交部：重視當事人道歉"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "姆巴佩、西甲接連道歉還不夠！中國《央視》還要他「痛改前非」",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5620960"
+        },
+        {
+          "source": "ETtoday",
+          "title": "姆巴佩捲入「辱華」風波　中國外交部：重視當事人道歉",
+          "url": "https://sports.ettoday.net/news/3262469"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Google發表世界模型Genie 4，強化物理模擬與即時互動能力",
+      "summary": [
+        "iThome：Google發表世界模型Genie 4，強化物理模擬與即時互動能力",
+        "數位時代：Google世界模型Genie 4登場！懂物理、能對話，輸入文字就能即時生成「可互動世界」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "Google發表世界模型Genie 4，強化物理模擬與即時互動能力",
+          "url": "https://www.ithome.com.tw/news/180009"
+        },
+        {
+          "source": "數位時代",
+          "title": "Google世界模型Genie 4登場！懂物理、能對話，輸入文字就能即時生成「可互動世界」",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtbDlPQVBWQV9mMHRUdjdEUVNLYUxETmMtMFo4TWpIZjB4T0VpV0NJUnU0NzhYRG1BRDVOLW1pdEdkX05MY2RjZTZSQi1ucXJ1YVhON1QxT3FWdlg0N1JfM004MVlldW5IMG9xOU5rQWJoXzZVQVE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "醫師公會稱護理師加薪3到5萬 護師公會不滿：說明要精確",
+      "summary": [
+        "自由時報：醫師公會稱護理師加薪3到5萬 護師公會不滿：說明要精確",
+        "ETtoday：護理師「加薪3至5萬」？醫師公會讚賴政府惹議　第一線也怒了"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "醫師公會稱護理師加薪3到5萬 護師公會不滿：說明要精確",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5621175"
+        },
+        {
+          "source": "ETtoday",
+          "title": "護理師「加薪3至5萬」？醫師公會讚賴政府惹議　第一線也怒了",
+          "url": "https://www.ettoday.net/news/20261028/3262410.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Google 發表 Genie 4 世界模型，支援即時改寫場景與原生音訊生成",
+      "summary": [
+        "科技新報：Google 發表 Genie 4 世界模型，支援即時改寫場景與原生音訊生成",
+        "科技報橘：Google 推 Genie 4 邁向「混合世界模型」：從即時互動、聲音生成到 Gemini 參與模擬"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "Google 發表 Genie 4 世界模型，支援即時改寫場景與原生音訊生成",
+          "url": "https://technews.tw/2026/10/28/google-deepmind-announces-genie-4/"
+        },
+        {
+          "source": "科技報橘",
+          "title": "Google 推 Genie 4 邁向「混合世界模型」：從即時互動、聲音生成到 Gemini 參與模擬",
+          "url": "https://techorange.com/2026/10/28/google-deepmind-genie-4-world-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out",
+      "title": "Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
       "summary": [
-        "Bloomberg Tech：OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out",
-        "Investing.com：OpenAI plans to buy Google’s AI chips, The Information reports"
+        "Financial Times：Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
+        "Bloomberg Markets：Peltz’s Trian Offers to Take Wendy’s Private in All-Cash Deal"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-28/openai-plans-to-buy-google-s-chips-as-part-of-its-ai-build-out"
+          "source": "Financial Times",
+          "title": "Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
+          "url": "https://www.ft.com/content/9cf40241-94df-403d-b93f-ac6c09728627?syn-25a6b1a6=1"
         },
         {
-          "source": "Investing.com",
-          "title": "OpenAI plans to buy Google’s AI chips, The Information reports",
-          "url": "https://www.investing.com/news/stock-market-news/openai-plans-to-buy-googles-ai-chips-the-information-reports-4977342"
+          "source": "Bloomberg Markets",
+          "title": "Peltz’s Trian Offers to Take Wendy’s Private in All-Cash Deal",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-28/trian-offers-to-take-wendy-s-private-in-all-cash-deal-video"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
-      "summary": [
-        "Bloomberg Markets：Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
-        "Investing.com：Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-said-to-pick-jpmorgan-to-lead-ipo-s-us-retail-offering"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports",
-          "url": "https://www.investing.com/news/stock-market-news/anthropic-taps-jpmorgan-to-lead-ipos-us-retail-sales-bloomberg-reports-4977334"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Israel’s election: What happens next?",
       "summary": [
         "Financial Times：Israel’s election: What happens next?",
@@ -283,7 +256,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Ambani’s Jio Surges in Debut After India-Record IPO",
       "summary": [
         "Bloomberg Markets：Ambani’s Jio Surges in Debut After India-Record IPO",
@@ -304,7 +277,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Exclusive-Rio Tinto proposes 56% pay jump for CEO as mining sector fights for talent",
       "summary": [
         "Investing.com：Exclusive-Rio Tinto proposes 56% pay jump for CEO as mining sector fights for talent",
@@ -325,7 +298,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
       "summary": [
         "TechCrunch：Jio shares surge 21% in market debut after blockbuster India IPO",
@@ -346,7 +319,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
       "summary": [
         "CNBC：Ten people confirmed dead in high-speed Spain train crash, local media report",
@@ -363,6 +336,27 @@
           "source": "Financial Times",
           "title": "At least 10 killed in collision of high-speed trains in Spain",
           "url": "https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Aftermath of Spanish Train Crash Near Madrid",
+      "summary": [
+        "Bloomberg Markets：Aftermath of Spanish Train Crash Near Madrid",
+        "BBC World：What we know so far about deadly Spain train crash"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Aftermath of Spanish Train Crash Near Madrid",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-28/aftermath-of-spanish-train-crash-near-madrid-video"
+        },
+        {
+          "source": "BBC World",
+          "title": "What we know so far about deadly Spain train crash",
+          "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -410,16 +404,22 @@
     },
     {
       "rank": 10,
-      "title": "「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網",
+      "title": "Wendy’s shares surge 15% on $1.4 billion takeover bid by Nelson Peltz’s Trian Fund",
       "summary": [
-        "紐約時報中文：「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網"
+        "Investing.com：Wendy’s shares surge 15% on $1.4 billion takeover bid by Nelson Peltz’s Trian Fund",
+        "CNBC：Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "紐約時報中文",
-          "title": "「機器人健身房」：歐洲在機器人領域追趕中國- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHc0YzBPb0NROGJ5OXpIRTY1M214eDM5LTlSaE85T0N2aXFFam1MWTNxMjhhdExXUFdGemd1V3h4a21tZ2J1bm1McVlGWlBtajFmeFBxYkxDMzROdFZlOGhMZHloMWoxWGF0dFNtUXZiVU9TUHdqUmt0a0NCbndaN2ZiNDZGVjJw?oc=5"
+          "source": "Investing.com",
+          "title": "Wendy’s shares surge 15% on $1.4 billion takeover bid by Nelson Peltz’s Trian Fund",
+          "url": "https://www.investing.com/news/stock-market-news/wendys-shares-surge-16-on-14-billion-takeover-bid-by-nelson-peltzs-trian-fund-4978904"
+        },
+        {
+          "source": "CNBC",
+          "title": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain",
+          "url": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html"
         }
       ]
     }
