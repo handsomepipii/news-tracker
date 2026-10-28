@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 05:51",
+  "updated_at": "2026-10-29 06:52",
   "taiwan": [
     {
       "rank": 1,
@@ -168,48 +168,6 @@
     },
     {
       "rank": 8,
-      "title": "以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗",
-      "summary": [
-        "轉角國際：以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗",
-        "經濟日報：以色列大選難分勝負 組閣前景充滿挑戰"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "轉角國際",
-          "title": "以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GdW5MU1pSaGlnTGhtM1l1Y1lxTlFEMldqbGswZGRocjFrTm5LT3lsbVNhNDJZYnlaZ0J0eWllZGtQOWpFc1hFcDdiQjg0MlhIRzRNamtBWDd1OVZtd2x2c3JNMFRUZ9IBa0FVX3lxTE13R283ZWY5SXZsT0sxcER6amtHWG5NZnBSbWlHa21wU1VKdko5ZmlaYThzNlVERkxiRUVKa0daV2VhcndJaWttbmdFcEJoNmltbkNJTEpYY1VEbFBHZmpsQ1hxY0haeXZCOTNR?oc=5"
-        },
-        {
-          "source": "經濟日報",
-          "title": "以色列大選難分勝負 組閣前景充滿挑戰",
-          "url": "https://money.udn.com/money/story/5599/9841306"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "日美同意合作建立第一島鏈防衛體系　強化「拒止型防衛能力」",
-      "summary": [
-        "經濟日報：日美同意合作建立第一島鏈防衛體系　強化「拒止型防衛能力」",
-        "科技新報：日美同意合作建立第一島鏈防衛體系，強化「拒止型防衛能力」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "日美同意合作建立第一島鏈防衛體系　強化「拒止型防衛能力」",
-          "url": "https://money.udn.com/money/story/5599/9842693"
-        },
-        {
-          "source": "科技新報",
-          "title": "日美同意合作建立第一島鏈防衛體系，強化「拒止型防衛能力」",
-          "url": "https://technews.tw/2026/10/28/japan-us-cooperate-first-island-chain-defense-system-strengthen-denial-defense-capabilities/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "北市議員陳重文陽明山辦餐會涉賄選  檢調搜尋約談21人到案",
       "summary": [
         "自由時報：北市議員陳重文陽明山辦餐會涉賄選  檢調搜尋約談21人到案",
@@ -226,6 +184,48 @@
           "source": "公視新聞",
           "title": "遭控陽明山辦餐會涉賄選北市議員陳重文被檢調搜尋｜20261028 公視晚間新聞｜ 公視新聞PNN",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFbE5jbmo3eUd1YzlSNm1aN21UcDQ1ZXJ4NzB6RHd1UEFWWjE2RFdtYU1pSnQwVGxpOVhxcTlObFE0VEk4Tk5IMEY4TQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "今年颱風偏多又偏強！氣象署：超強聖嬰現象特徵",
+      "summary": [
+        "自由時報：今年颱風偏多又偏強！氣象署：超強聖嬰現象特徵",
+        "ETtoday：超強聖嬰發威？氣象署揭今年強颱特別多　「生成點」都有1特徵"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "今年颱風偏多又偏強！氣象署：超強聖嬰現象特徵",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5621863"
+        },
+        {
+          "source": "ETtoday",
+          "title": "超強聖嬰發威？氣象署揭今年強颱特別多　「生成點」都有1特徵",
+          "url": "https://www.ettoday.net/news/20261029/3262526.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "青龍獎入圍》趙寅成、具教煥爆狂紀錄「影帝＋男配」雙料提名",
+      "summary": [
+        "自由時報：青龍獎入圍》趙寅成、具教煥爆狂紀錄「影帝＋男配」雙料提名",
+        "工商時報：佳格、統一燕麥飲熱銷- 日報"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "青龍獎入圍》趙寅成、具教煥爆狂紀錄「影帝＋男配」雙料提名",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5621930"
+        },
+        {
+          "source": "工商時報",
+          "title": "佳格、統一燕麥飲熱銷- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByaUE2cVktQlBuTGdsdjdHbmtXUzhpMDEtU0M3YTFxVEd5azFYYzRmRGYyNS1WZ3p3dWxyNHZzMDJvb255cjR2ZmtnMFNpM1h3Mmx6Q0VoS2tfTXRVRjk4?oc=5"
         }
       ]
     }
@@ -447,43 +447,43 @@
     },
     {
       "rank": 9,
-      "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
+      "title": "Fed Leaves Rates Unchanged, Cook and Hammack Dissent",
       "summary": [
-        "CNBC：Ten people confirmed dead in high-speed Spain train crash, local media report",
-        "Financial Times：At least 10 killed in collision of high-speed trains in Spain"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
-          "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html"
-        },
-        {
-          "source": "Financial Times",
-          "title": "At least 10 killed in collision of high-speed trains in Spain",
-          "url": "https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
-      "summary": [
-        "Bloomberg Markets：Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
-        "Yahoo Finance：Wall Street’s AI Debt Machine Is Starting to Choke on Supply"
+        "Bloomberg Markets：Fed Leaves Rates Unchanged, Cook and Hammack Dissent",
+        "WSJ Markets：Fed Leaves Rates Unchanged, Oil Tops $115"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-28/wall-street-s-ai-debt-machine-is-starting-to-choke-on-supply"
+          "title": "Fed Leaves Rates Unchanged, Cook and Hammack Dissent",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-28/fed-leaves-rates-unchanged-cook-and-hammack-dissent-video"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbTdoTUVsQ2ZONENzU0Z1X0dUSjV3Ri1ONm5UTVkzbzNVa2RPQVJQT0JFMEo3Zjlabm45MlNXV0Q1OUNRSFpsUzEzZ1JZV24tRTlGUVZZQzk5S1VucTN5VVliNXBVRVlzZFlWY2JHaXFBNDR0Y1J4MjhVbkZyb3NmeGZHOGVQYjliRGx3S2dtR3phNTduTEE?oc=5"
+          "source": "WSJ Markets",
+          "title": "Fed Leaves Rates Unchanged, Oil Tops $115",
+          "url": "https://www.wsj.com/finance/fed-leaves-rates-unchanged-oil-tops-115-f922556e?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
+      "summary": [
+        "WSJ Markets：Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
+        "Investing.com：Trian Fund Management offers to buy Wendy’s for $1.4 billion, WSJ reports"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "WSJ Markets",
+          "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
+          "url": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1?mod=rss_markets_main"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Trian Fund Management offers to buy Wendy’s for $1.4 billion, WSJ reports",
+          "url": "https://www.investing.com/news/stock-market-news/trian-fund-management-offers-to-buy-wendys-for-14-billion-wsj-reports-4979065"
         }
       ]
     }
