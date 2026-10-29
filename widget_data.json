@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 21:02",
+  "updated_at": "2026-10-29 22:15",
   "taiwan": [
     {
       "rank": 1,
@@ -35,19 +35,14 @@
     },
     {
       "rank": 2,
-      "title": "Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高",
+      "title": "主攻安全防禦，Google 發表 Gemini 4 Carbon 重新整理基準測試紀錄",
       "summary": [
-        "iThome：Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高",
         "科技新報：主攻安全防禦，Google 發表 Gemini 4 Carbon 重新整理基準測試紀錄",
-        "INSIDE硬塞：新高階模型！Google 發表 Gemini 4 Carbon，主打資安與長時間任務，先開放給資安防禦者"
+        "INSIDE硬塞：新高階模型！Google 發表 Gemini 4 Carbon，主打資安與長時間任務，先開放給資安防禦者",
+        "自由時報：Google 推 Gemini 4 Carbon 奪 AI 評測榜首，強化資安漏洞偵測"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
-        {
-          "source": "iThome",
-          "title": "Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高",
-          "url": "https://www.ithome.com.tw/news/180049"
-        },
         {
           "source": "科技新報",
           "title": "主攻安全防禦，Google 發表 Gemini 4 Carbon 重新整理基準測試紀錄",
@@ -67,9 +62,9 @@
     },
     {
       "rank": 3,
-      "title": "川普貼文搶快看！彭博等三家公司傳已訂閱 月付最高300萬元",
+      "title": "路透社：彭博等3家公司同意付費真實社群　搶先取得川普貼文",
       "summary": [
-        "經濟日報：川普貼文搶快看！彭博等三家公司傳已訂閱 月付最高300萬元",
+        "經濟日報：路透社：彭博等3家公司同意付費真實社群　搶先取得川普貼文",
         "自由時報：路透：彭博等3家公司同意付費真實社群搶先取得川普貼文",
         "科技新報：路透社：彭博等三家公司同意付費真實社群，搶先取得川普貼文"
       ],
@@ -77,8 +72,8 @@
       "links": [
         {
           "source": "經濟日報",
-          "title": "川普貼文搶快看！彭博等三家公司傳已訂閱 月付最高300萬元",
-          "url": "https://money.udn.com/money/story/5599/9843849"
+          "title": "路透社：彭博等3家公司同意付費真實社群　搶先取得川普貼文",
+          "url": "https://money.udn.com/money/story/5599/9844697"
         },
         {
           "source": "自由時報",
@@ -115,48 +110,27 @@
     },
     {
       "rank": 5,
-      "title": "Fed按兵不動!美股4大指數收紅 費半漲1.75%｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+      "title": "今晨急凍剩16度！ 賈新興：明起變天三波東北季風接力",
       "summary": [
-        "TVBS新聞：Fed按兵不動!美股4大指數收紅 費半漲1.75%｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-        "財訊：Fed利率按兵不動！美股3指數連3漲 甲骨文、SK海力士ADR飆逾10%"
+        "自由時報：今晨急凍剩16度！ 賈新興：明起變天三波東北季風接力",
+        "今周刊：天氣／低溫準備下探17度，「這天」轉濕冷！冷空氣開始活躍、煙花颱風最新路徑會撲臺？10日報先看"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "TVBS新聞",
-          "title": "Fed按兵不動!美股4大指數收紅 費半漲1.75%｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EaFA4VkRHdUpSOEFoWHgwV29JaUszT3Q2czJRQ0ZyUHUzNUMyek1vTHhhSVQ5Q3BmdkE3ejdaVk1oeTJkX2IwNFpzR2EyUG9mY1BlbFl3?oc=5"
+          "source": "自由時報",
+          "title": "今晨急凍剩16度！ 賈新興：明起變天三波東北季風接力",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5622237"
         },
         {
-          "source": "財訊",
-          "title": "Fed利率按兵不動！美股3指數連3漲 甲骨文、SK海力士ADR飆逾10%",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wQWNYREs2a0p5UFhyMUozOXkwTHA5Y1VEVHJzV3dCUFJkUHJIVjRuWldTODN6c29MRnJPb1piQ2ZYZzBIcEoxa0FPMDN1eTJ2Uk13TTBtZnozX1JGSFZiTHZKTUtHQVdaM0RULXh6YjJySmZ5SzNCZS1FNA?oc=5"
+          "source": "今周刊",
+          "title": "天氣／低溫準備下探17度，「這天」轉濕冷！冷空氣開始活躍、煙花颱風最新路徑會撲臺？10日報先看",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeFFROExQcFFaTGRSTUVPaDhrN2xYSE5DS3VhRkJKbkwwWGl1QThvTHdBb2x1eWpvd0p1TGFwWEpuY0hfaUFldm9RWklHRjVWUzJKZXktVER5X0JYUVpESHJkaWUzUmN1V0I4OU9iSlc3ZGdsblpqcjBtT1pzQnZURg?oc=5"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "美國防科技公司高層示警：AI 競賽恐促使習近平奪臺",
-      "summary": [
-        "科技新報：美國防科技公司高層示警：AI 競賽恐促使習近平奪臺",
-        "經濟日報：美前議員示警：AI 競賽恐促習近平奪臺 拿臺積電挾持全球"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "美國防科技公司高層示警：AI 競賽恐促使習近平奪臺",
-          "url": "https://technews.tw/2026/10/29/palantirs-defense-chief-sees-china-threat-to-taiwan-over-ai/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美前議員示警：AI 競賽恐促習近平奪臺 拿臺積電挾持全球",
-          "url": "https://money.udn.com/money/story/5599/9844081"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Anthropic 研究：專業分析師 86% 的決策跟著 AI 走，卻幾乎沒人察覺",
       "summary": [
         "科技新報：Anthropic 研究：專業分析師 86% 的決策跟著 AI 走，卻幾乎沒人察覺",
@@ -177,7 +151,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "輝達推出免費開源語音模型 Nemotron 3.5 Transcribe，轉錄、翻譯、辨識語者一次搞定",
       "summary": [
         "科技新報：輝達推出免費開源語音模型 Nemotron 3.5 Transcribe，轉錄、翻譯、辨識語者一次搞定",
@@ -198,7 +172,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "駭客宣稱竊走美國土安全部員工資料超過4萬筆",
       "summary": [
         "iThome：駭客宣稱竊走美國土安全部員工資料超過4萬筆",
@@ -219,7 +193,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "10月29日掛牌上市》009832 全臺首檔美國黃金礦業ETF",
       "summary": [
         "工商時報：10月29日掛牌上市》009832 全臺首檔美國黃金礦業ETF",
@@ -238,11 +212,64 @@
           "url": "https://ec.ltn.com.tw/article/breakingnews/5622421"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "揪心！臺中消防分隊長車禍命危 救護員驚「是同仁」集氣祈福",
+      "summary": [
+        "自由時報：揪心！臺中消防分隊長車禍命危 救護員驚「是同仁」集氣祈福",
+        "ETtoday：消防分隊長被撞命危！救護人員驚「是我長官」　車禍瞬間畫面曝"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "揪心！臺中消防分隊長車禍命危 救護員驚「是同仁」集氣祈福",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5622417"
+        },
+        {
+          "source": "ETtoday",
+          "title": "消防分隊長被撞命危！救護人員驚「是我長官」　車禍瞬間畫面曝",
+          "url": "https://www.ettoday.net/news/20261029/3262663.htm"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "DoorDash to acquire Instacart for $17bn",
+      "summary": [
+        "Financial Times：DoorDash to acquire Instacart for $17bn",
+        "The Verge：DoorDash is acquiring Instacart for $17 billion",
+        "Yahoo Finance：DoorDash acquires Instacart for $17 billion, doubling down on hyper-local delivery"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "DoorDash to acquire Instacart for $17bn",
+          "url": "https://www.ft.com/content/d84d7db1-d18d-49ce-9f60-e42c07a3d67a?syn-25a6b1a6=1"
+        },
+        {
+          "source": "The Verge",
+          "title": "DoorDash is acquiring Instacart for $17 billion",
+          "url": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "DoorDash acquires Instacart for $17 billion, doubling down on hyper-local delivery",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb1EzOEQzaEN2LUVIalowbG1HNGFDMElhSS12X1ZTZk1aSTNvSUl4TEdvVTNodlJXYjFTWHFoV3pjUXhIMkktQkVmb0p3ZGUtdURUeDVCTXkxNXJXdjNmZXJZNmJ1TW94RHROalZZZE1VdC1Fcm5fcFAyMHVvNlM4dDFVNEpoQURVNWpyNERtVkJOaGVpakNydkdodnVFTTZ4VWlPMV9uV2RlWHR1UDZHQzM1S0s5M1RZQUR3X3ZpQko1RGtFV1RvdFg2cTVWQy1pTGFnQllLUE44WGxl?oc=5"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "DoorDash to acquire Instacart for $17B",
+          "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Christine Lagarde to step down as ECB president in February",
       "summary": [
         "Financial Times：Christine Lagarde to step down as ECB president in February",
@@ -269,50 +296,23 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "DoorDash to Buy Rival Instacart in $17 Billion Deal",
-      "summary": [
-        "Bloomberg Tech：DoorDash to Buy Rival Instacart in $17 Billion Deal",
-        "Financial Times：DoorDash to acquire Instacart for $17bn",
-        "The Verge：DoorDash is acquiring Instacart for $17 billion"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "DoorDash to Buy Rival Instacart in $17 Billion Deal",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-29/doordash-to-buy-instacart-in-17-billion-deal"
-        },
-        {
-          "source": "Financial Times",
-          "title": "DoorDash to acquire Instacart for $17bn",
-          "url": "https://www.ft.com/content/d84d7db1-d18d-49ce-9f60-e42c07a3d67a?syn-25a6b1a6=1"
-        },
-        {
-          "source": "The Verge",
-          "title": "DoorDash is acquiring Instacart for $17 billion",
-          "url": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement"
-        }
-      ]
-    },
-    {
       "rank": 3,
-      "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
+      "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
       "summary": [
-        "CNBC：Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
-        "Investing.com：Samsung posts record profit in Q3 on AI chip boom"
+        "Wired：Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
+        "TechCrunch：Bluesky blocks links to leaked DHS employee data as government seeks takedowns"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "CNBC",
-          "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
-          "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html"
+          "source": "Wired",
+          "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/"
         },
         {
-          "source": "Investing.com",
-          "title": "Samsung posts record profit in Q3 on AI chip boom",
-          "url": "https://www.investing.com/news/stock-market-news/samsung-posts-record-profit-in-q3-on-ai-chip-boom-4981289"
+          "source": "TechCrunch",
+          "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
+          "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/"
         }
       ]
     },
@@ -444,16 +444,22 @@
     },
     {
       "rank": 10,
-      "title": "- 紐約時報中文網",
+      "title": "Alphabet spells out more AI capex, China+1 doesn’t add up",
       "summary": [
-        "紐約時報中文：- 紐約時報中文網"
+        "Financial Times：Alphabet spells out more AI capex, China+1 doesn’t add up",
+        "Nikkei Asia：Alphabet spells out more AI capex, China+1 doesn't add up"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "紐約時報中文",
-          "title": "- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONk96WlRnYWFfdGQycjdZRzhEVkEtODdraVpMdThEbFBvNjNpRlJUalVodUNzYjBsWl9DMU1GVWZ6VzIydVVTelp6T1Vfd09yZW5kcFZvekU1OEJTeE5HMDV6T0c0ZjB5aF96TF9KcEhoSzUtaWJsODdObUFHVjA3OGRYcGJUZ1p4X29kLThoeVY?oc=5"
+          "source": "Financial Times",
+          "title": "Alphabet spells out more AI capex, China+1 doesn’t add up",
+          "url": "https://www.ft.com/content/f499d3e6-dca1-4595-9fdf-8479122ca412?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "Alphabet spells out more AI capex, China+1 doesn't add up",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMF9RU2lsU1hmSGRuMDdDaDNmZXBnblc3cjRuRnlvVTF2bnhJZmpHc0FIZmRma3d1MzhRUjNrTnlIdkhFcXpEVk9MczIzMkFLc1NpdUVHSG5mcUxZR2VjUnlLbEN5VHJKTkRFci1aNWdyb3RySWNPLTNyUGsybDNQOWlFQUktSF9VcDNmQWU5Y3gwS0k?oc=5"
         }
       ]
     }
