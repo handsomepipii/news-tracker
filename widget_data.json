@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 15:01",
+  "updated_at": "2026-10-29 16:10",
   "taiwan": [
     {
       "rank": 1,
@@ -62,6 +62,33 @@
     },
     {
       "rank": 3,
+      "title": "川普貼文搶快看！彭博等三家公司傳已訂閱 月付最高300萬元",
+      "summary": [
+        "經濟日報：川普貼文搶快看！彭博等三家公司傳已訂閱 月付最高300萬元",
+        "自由時報：路透：彭博等3家公司同意付費真實社群搶先取得川普貼文",
+        "科技新報：路透社：彭博等三家公司同意付費真實社群，搶先取得川普貼文"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普貼文搶快看！彭博等三家公司傳已訂閱 月付最高300萬元",
+          "url": "https://money.udn.com/money/story/5599/9843849"
+        },
+        {
+          "source": "自由時報",
+          "title": "路透：彭博等3家公司同意付費真實社群搶先取得川普貼文",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5622661"
+        },
+        {
+          "source": "科技新報",
+          "title": "路透社：彭博等三家公司同意付費真實社群，搶先取得川普貼文",
+          "url": "https://technews.tw/2026/10/29/reuters-bloomberg-two-other-firms-pay-truth-social-early-access-trump-posts/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "西班牙高鐵列車相撞 2車廂脫軌已釀39死｜20261028 公視晚間新聞 ｜ 公視新聞 PNN",
       "summary": [
         "公視新聞：西班牙高鐵列車相撞 2車廂脫軌已釀39死｜20261028 公視晚間新聞 ｜ 公視新聞 PNN",
@@ -88,7 +115,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "蔣萬安細數任內政策 陳智菡嗆「全是柯文哲政績」盼還公道",
       "summary": [
         "中時新聞：蔣萬安細數任內政策 陳智菡嗆「全是柯文哲政績」盼還公道",
@@ -115,28 +142,28 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "佳格、統一燕麥飲熱銷- 日報",
+      "rank": 6,
+      "title": "狂客音樂祭11/7、11/8屏東登場 金曲歌王歌后領軍開唱",
       "summary": [
-        "工商時報：佳格、統一燕麥飲熱銷- 日報",
-        "自由時報：狂客音樂祭11/7、11/8屏東登場 金曲歌王歌后領軍開唱"
+        "自由時報：狂客音樂祭11/7、11/8屏東登場 金曲歌王歌后領軍開唱",
+        "ETtoday：送電影票／《名偵探柯南第30號殺人事件》臺灣首映登場"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "工商時報",
-          "title": "佳格、統一燕麥飲熱銷- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByaUE2cVktQlBuTGdsdjdHbmtXUzhpMDEtU0M3YTFxVEd5azFYYzRmRGYyNS1WZ3p3dWxyNHZzMDJvb255cjR2ZmtnMFNpM1h3Mmx6Q0VoS2tfTXRVRjk4?oc=5"
-        },
-        {
           "source": "自由時報",
           "title": "狂客音樂祭11/7、11/8屏東登場 金曲歌王歌后領軍開唱",
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5622124"
+        },
+        {
+          "source": "ETtoday",
+          "title": "送電影票／《名偵探柯南第30號殺人事件》臺灣首映登場",
+          "url": "https://star.ettoday.net/news/3262042"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "防中國犯臺　美國太平洋陸軍司令：戴維森視窗威脅仍成立",
       "summary": [
         "自由時報：防中國犯臺　美國太平洋陸軍司令：戴維森視窗威脅仍成立",
@@ -157,7 +184,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "美國期中選舉廣告鋪天蓋地　選民厭煩盼早日落幕",
       "summary": [
         "自由時報：美國期中選舉廣告鋪天蓋地　選民厭煩盼早日落幕",
@@ -178,7 +205,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "聯準會維持利率不變　美股收高",
       "summary": [
         "自由時報：聯準會維持利率不變　美股收高",
@@ -199,7 +226,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Fed 決策／聯準會暫停升息 市場不敢鬆口氣 AI熱潮、油價牽動12月決策",
       "summary": [
         "經濟日報：Fed 決策／聯準會暫停升息 市場不敢鬆口氣 AI熱潮、油價牽動12月決策",
@@ -218,74 +245,11 @@
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzTjhKZ2k5MVVwZFZvS0NoMDBkNGY5ZHl6eXVCanY1ZFl1WnpST3JCWHhoUVVpbjFROE8zbXBvNTUxSUJkcjk2X2taY2dhc3lWVUhQdkFqdzdYOFVHT200?oc=5"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "期貨最新報價10／28期交所夜盤行情- 證券",
-      "summary": [
-        "工商時報：期貨最新報價10／28期交所夜盤行情- 證券",
-        "MoneyDJ理財網：美股指數期貨最新報價 11:37-臺股"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "期貨最新報價10／28期交所夜盤行情- 證券",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMRmlOb0xSQUw0X0RZdmZKMjMtMGxlNGE3ZTRhX2N6YWw0SWtlSlMxWmVVMDNxeWxYVXhwSEJhckRUUGpqSnZLazRiYi1qZDBrYS10XzZOdmZITmU5cTQw?oc=5"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "美股指數期貨最新報價 11:37-臺股",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTWhzSkE4S3I5bU56VWRKQmo1TTFROXlSRWRPWHd1aEU1RDBISUJYcXdiRHc1VkF5b1l4aUx2Q204blBkNGxxTmJLeWxoX3Rac0kyVTdHaGRyVEk3blg4NG9nZWRmY0hxY2YwcVdvYmN2Z2RyX0hiZmM3RUY1cXdqRkxQQU1NQzE2X3c?oc=5"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "How did Flávio Bolsonaro end up in Miami?",
-      "summary": [
-        "BBC World：How did Flávio Bolsonaro end up in Miami?",
-        "Financial Times：How Flávio Bolsonaro fled Brazil"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "How did Flávio Bolsonaro end up in Miami?",
-          "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Financial Times",
-          "title": "How Flávio Bolsonaro fled Brazil",
-          "url": "https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "DOJ Inquires About Nvidia’s Hugging Face Deal, Reuters Says",
-      "summary": [
-        "Bloomberg Tech：DOJ Inquires About Nvidia’s Hugging Face Deal, Reuters Says",
-        "CNBC：Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "DOJ Inquires About Nvidia’s Hugging Face Deal, Reuters Says",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-28/doj-inquires-about-nvidia-s-hugging-face-deal-reuters-says"
-        },
-        {
-          "source": "CNBC",
-          "title": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
-          "url": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
       "summary": [
         "TechCrunch：Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
@@ -306,7 +270,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
       "summary": [
         "The Verge：Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
@@ -327,7 +291,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
       "summary": [
         "The Verge：Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
@@ -348,7 +312,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "Fed mantiene tasas sin dar muchas pistas sobre diciembre",
       "summary": [
         "Bloomberg Markets：Fed mantiene tasas sin dar muchas pistas sobre diciembre",
@@ -369,7 +333,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "Why is Fortinet stock plunging today?",
       "summary": [
         "Investing.com：Why is Fortinet stock plunging today?",
@@ -390,7 +354,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "Australia’s corporate regulator probes Firmus IPO bankers, The Australian reports",
       "summary": [
         "Investing.com：Australia’s corporate regulator probes Firmus IPO bankers, The Australian reports",
@@ -411,7 +375,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
       "summary": [
         "CNBC：Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
@@ -432,7 +396,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Tech Rally Stalls as Alphabet, Samsung Disappoint",
       "summary": [
         "Bloomberg Markets：Tech Rally Stalls as Alphabet, Samsung Disappoint",
@@ -449,6 +413,42 @@
           "source": "Bloomberg Tech",
           "title": "Tech Rally Stalls as Alphabet, Samsung Disappoint",
           "url": "https://www.bloomberg.com/news/videos/2026-10-29/tech-rally-stalls-as-alphabet-samsung-disappoint-video"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+      "summary": [
+        "BBC World：Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+        "The Guardian：Hello Kitty company cuts ties with Japanese spy show after China outcry"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+          "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "title": "Hello Kitty company cuts ties with Japanese spy show after China outcry",
+          "url": "https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONk96WlRnYWFfdGQycjdZRzhEVkEtODdraVpMdThEbFBvNjNpRlJUalVodUNzYjBsWl9DMU1GVWZ6VzIydVVTelp6T1Vfd09yZW5kcFZvekU1OEJTeE5HMDV6T0c0ZjB5aF96TF9KcEhoSzUtaWJsODdObUFHVjA3OGRYcGJUZ1p4X29kLThoeVY?oc=5"
         }
       ]
     }
