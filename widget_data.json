@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 07:48",
+  "updated_at": "2026-10-29 08:25",
   "taiwan": [
     {
       "rank": 1,
@@ -33,8 +33,8 @@
       "title": "西班牙高鐵追撞已39死 4節車廂脫軌 死傷慘重｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：西班牙高鐵追撞已39死 4節車廂脫軌 死傷慘重｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-        "經濟日報：西班牙高鐵追撞暴增至64死　BBC：該國10年來最慘鐵路事故",
-        "自由時報：西班牙驚傳高鐵追撞！兩車廂脫軌至少64死120多傷 驚悚畫面曝"
+        "經濟日報：西班牙高鐵追撞至少30死　同路線一年內第2起重大事故",
+        "公視新聞：西班牙高鐵列車相撞 2車廂脫軌已釀39死"
       ],
       "media_count": 3,
       "links": [
@@ -45,27 +45,6 @@
         },
         {
           "source": "經濟日報",
-          "title": "西班牙高鐵追撞暴增至64死　BBC：該國10年來最慘鐵路事故",
-          "url": "https://money.udn.com/money/story/5599/9843260"
-        },
-        {
-          "source": "自由時報",
-          "title": "西班牙驚傳高鐵追撞！兩車廂脫軌至少64死120多傷 驚悚畫面曝",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5621721"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "西班牙高鐵追撞至少30死　同路線一年內第2起重大事故",
-      "summary": [
-        "經濟日報：西班牙高鐵追撞至少30死　同路線一年內第2起重大事故",
-        "公視新聞：西班牙高鐵列車相撞 2車廂脫軌已釀39死"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
           "title": "西班牙高鐵追撞至少30死　同路線一年內第2起重大事故",
           "url": "https://money.udn.com/money/story/5599/9843018"
         },
@@ -73,6 +52,27 @@
           "source": "公視新聞",
           "title": "西班牙高鐵列車相撞 2車廂脫軌已釀39死",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5relAyVHg4RzdpV1pTM3A5azhweDJuODdEckM3NERlOTl2ZHpFcENoV3ZvVU5MUXZnRk4tak0wYlgxcTN2aldaUS04ZVktd3M?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "青龍獎入圍》趙寅成、具教煥爆狂紀錄「影帝＋男配」雙料提名",
+      "summary": [
+        "自由時報：青龍獎入圍》趙寅成、具教煥爆狂紀錄「影帝＋男配」雙料提名",
+        "工商時報：佳格、統一燕麥飲熱銷- 日報"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "青龍獎入圍》趙寅成、具教煥爆狂紀錄「影帝＋男配」雙料提名",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5621930"
+        },
+        {
+          "source": "工商時報",
+          "title": "佳格、統一燕麥飲熱銷- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByaUE2cVktQlBuTGdsdjdHbmtXUzhpMDEtU0M3YTFxVEd5azFYYzRmRGYyNS1WZ3p3dWxyNHZzMDJvb255cjR2ZmtnMFNpM1h3Mmx6Q0VoS2tfTXRVRjk4?oc=5"
         }
       ]
     },
@@ -99,6 +99,27 @@
     },
     {
       "rank": 5,
+      "title": "西班牙高鐵追撞暴增至64死　BBC：該國10年來最慘鐵路事故",
+      "summary": [
+        "經濟日報：西班牙高鐵追撞暴增至64死　BBC：該國10年來最慘鐵路事故",
+        "自由時報：西班牙驚傳高鐵追撞！兩車廂脫軌至少64死120多傷 驚悚畫面曝"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "西班牙高鐵追撞暴增至64死　BBC：該國10年來最慘鐵路事故",
+          "url": "https://money.udn.com/money/story/5599/9843260"
+        },
+        {
+          "source": "自由時報",
+          "title": "西班牙驚傳高鐵追撞！兩車廂脫軌至少64死120多傷 驚悚畫面曝",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5621721"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "曾奪坎城金棕櫚獎！伊朗異議名導賈法潘納希 遭判刑5年",
       "summary": [
         "自由時報：曾奪坎城金棕櫚獎！伊朗異議名導賈法潘納希 遭判刑5年",
@@ -119,7 +140,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "美期中選舉前　聯準會利率按兵不動",
       "summary": [
         "自由時報：美期中選舉前　聯準會利率按兵不動",
@@ -140,49 +161,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "今年颱風偏多又偏強！氣象署：超強聖嬰現象特徵",
-      "summary": [
-        "自由時報：今年颱風偏多又偏強！氣象署：超強聖嬰現象特徵",
-        "ETtoday：超強聖嬰發威？氣象署揭今年強颱特別多　「生成點」都有1特徵"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "今年颱風偏多又偏強！氣象署：超強聖嬰現象特徵",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5621863"
-        },
-        {
-          "source": "ETtoday",
-          "title": "超強聖嬰發威？氣象署揭今年強颱特別多　「生成點」都有1特徵",
-          "url": "https://www.ettoday.net/news/20261029/3262526.htm"
-        }
-      ]
-    },
-    {
       "rank": 8,
-      "title": "青龍獎入圍》趙寅成、具教煥爆狂紀錄「影帝＋男配」雙料提名",
-      "summary": [
-        "自由時報：青龍獎入圍》趙寅成、具教煥爆狂紀錄「影帝＋男配」雙料提名",
-        "工商時報：佳格、統一燕麥飲熱銷- 日報"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "青龍獎入圍》趙寅成、具教煥爆狂紀錄「影帝＋男配」雙料提名",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5621930"
-        },
-        {
-          "source": "工商時報",
-          "title": "佳格、統一燕麥飲熱銷- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByaUE2cVktQlBuTGdsdjdHbmtXUzhpMDEtU0M3YTFxVEd5azFYYzRmRGYyNS1WZ3p3dWxyNHZzMDJvb255cjR2ZmtnMFNpM1h3Mmx6Q0VoS2tfTXRVRjk4?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "西班牙兩列高速列車相撞 已造成至少10人死亡",
       "summary": [
         "經濟日報：西班牙兩列高速列車相撞 已造成至少10人死亡",
@@ -199,6 +178,27 @@
           "source": "公視新聞",
           "title": "西班牙高鐵列車相撞已知10死 馬德里至安達魯西亞交通中斷",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5c3g3MGNLenRPRkF1cGlWZFVXcDVFa19ITWZjZVI4emFjVWpTS25qUDh3cmN2dGtwMzZYeWJHVTdnN1Z6aWNfd2hIVzItNGs?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "涉洗錢遭禁出境！巴西小波索納洛大選落敗 密逃美國抵邁阿密",
+      "summary": [
+        "自由時報：涉洗錢遭禁出境！巴西小波索納洛大選落敗 密逃美國抵邁阿密",
+        "經濟日報：巴西總統大選輸了不認！波索納洛逃往美國 自稱合法領導人"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "涉洗錢遭禁出境！巴西小波索納洛大選落敗 密逃美國抵邁阿密",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5622017"
+        },
+        {
+          "source": "經濟日報",
+          "title": "巴西總統大選輸了不認！波索納洛逃往美國 自稱合法領導人",
+          "url": "https://money.udn.com/money/story/5599/9843725"
         }
       ]
     },
@@ -264,33 +264,6 @@
     },
     {
       "rank": 2,
-      "title": "Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
-      "summary": [
-        "The Guardian：Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
-        "Washington Post：Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss",
-        "BBC World：Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "Flávio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
-          "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
-        },
-        {
-          "source": "Washington Post",
-          "title": "Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS200OVFWbk5QSmRLRnpfZlJmM0NIV1FUOGNQd0FNakZKcXJmc29FSWZaMXkwdUJfWlRVZVJKLWVvVmVzcjhrWDhJc0VQVUxCZWZ0U2syLTUwZ1J1bVMzOXdMZGVKMHM5X1phdndEY19qTm45a1I0cmdIMjV3NkFXZlR6RXFycGU4MFJPTXhvMm5yN1FpUkNZUS1CLVotZGVOd3dsendTb0NJdjNLWi1kdTJHd0ctOHpRMUE0RGpB?oc=5"
-        },
-        {
-          "source": "BBC World",
-          "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-          "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Amazon Unveils New Echo Show 16, Alexa Speakers, Smart Clock and Photo Frame",
       "summary": [
         "Bloomberg Tech：Amazon Unveils New Echo Show 16, Alexa Speakers, Smart Clock and Photo Frame",
@@ -317,7 +290,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "西班牙列車相撞至少64死：我們目前已知甚麼？",
       "summary": [
         "BBC中文：西班牙列車相撞至少64死：我們目前已知甚麼？",
@@ -344,7 +317,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Exclusive-US DOJ is inquiring about Nvidia’s purchase of Hugging Face, sources say",
       "summary": [
         "Investing.com：Exclusive-US DOJ is inquiring about Nvidia’s purchase of Hugging Face, sources say",
@@ -371,7 +344,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
       "summary": [
         "Investing.com：Google launches Gemini 4 Carbon AI model with cybersecurity focus",
@@ -398,7 +371,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Aftermath of Spanish Train Crash Near Madrid",
       "summary": [
         "Bloomberg Markets：Aftermath of Spanish Train Crash Near Madrid",
@@ -419,7 +392,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
       "summary": [
         "Financial Times：Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
@@ -436,6 +409,27 @@
           "source": "Bloomberg Markets",
           "title": "Peltz’s Trian Offers to Take Wendy’s Private in All-Cash Deal",
           "url": "https://www.bloomberg.com/news/videos/2026-10-28/trian-offers-to-take-wendy-s-private-in-all-cash-deal-video"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss",
+      "summary": [
+        "Washington Post：Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss",
+        "BBC World：What we know as Flávio Bolsonaro lands in US after Brazil election loss"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS200OVFWbk5QSmRLRnpfZlJmM0NIV1FUOGNQd0FNakZKcXJmc29FSWZaMXkwdUJfWlRVZVJKLWVvVmVzcjhrWDhJc0VQVUxCZWZ0U2syLTUwZ1J1bVMzOXdMZGVKMHM5X1phdndEY19qTm45a1I0cmdIMjV3NkFXZlR6RXFycGU4MFJPTXhvMm5yN1FpUkNZUS1CLVotZGVOd3dsendTb0NJdjNLWi1kdTJHd0ctOHpRMUE0RGpB?oc=5"
+        },
+        {
+          "source": "BBC World",
+          "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
+          "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
