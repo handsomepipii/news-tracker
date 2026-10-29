@@ -1,21 +1,48 @@
 {
-  "updated_at": "2026-10-29 13:57",
+  "updated_at": "2026-10-29 15:01",
   "taiwan": [
     {
       "rank": 1,
-      "title": "西班牙高鐵相撞68死　交長：控制中心下了莫名其妙的錯誤指令",
+      "title": "Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高",
       "summary": [
-        "ETtoday：西班牙高鐵相撞68死　交長：控制中心下了莫名其妙的錯誤指令",
-        "自由時報：西班牙高鐵追撞至少68死80傷！交通部長：排程中心下達離譜指令",
-        "經濟日報：西班牙高鐵追撞增至68死！鋼軌刺穿車廂畫面曝 倖存乘客憶驚恐瞬間"
+        "iThome：Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高",
+        "科技新報：主攻安全防禦，Google 發表 Gemini 4 Carbon 重新整理基準測試紀錄",
+        "INSIDE硬塞：新高階模型！Google 發表 Gemini 4 Carbon，主打資安與長時間任務，先開放給資安防禦者"
       ],
       "media_count": 4,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "西班牙高鐵相撞68死　交長：控制中心下了莫名其妙的錯誤指令",
-          "url": "https://www.ettoday.net/news/20261029/3262532.htm"
+          "source": "iThome",
+          "title": "Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高",
+          "url": "https://www.ithome.com.tw/news/180049"
         },
+        {
+          "source": "科技新報",
+          "title": "主攻安全防禦，Google 發表 Gemini 4 Carbon 重新整理基準測試紀錄",
+          "url": "https://infosecu.technews.tw/2026/10/29/google-introduces-gemini-4-carbon/"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "新高階模型！Google 發表 Gemini 4 Carbon，主打資安與長時間任務，先開放給資安防禦者",
+          "url": "https://www.inside.com.tw/article/42758-google-gemini-4-carbon-cybersecurity-long-horizon-fairwind"
+        },
+        {
+          "source": "自由時報",
+          "title": "Google 推 Gemini 4 Carbon 奪 AI 評測榜首，強化資安漏洞偵測",
+          "url": "https://news.ltn.com.tw/news/aichannel/breakingnews/5622513"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "西班牙高鐵追撞至少68死80傷！交通部長：排程中心下達離譜指令",
+      "summary": [
+        "自由時報：西班牙高鐵追撞至少68死80傷！交通部長：排程中心下達離譜指令",
+        "經濟日報：西班牙高鐵追撞增至68死！鋼軌刺穿車廂畫面曝 倖存乘客憶驚恐瞬間",
+        "TVBS新聞：西班牙高鐵追撞68死80傷! 乘客拋飛半空中.孕婦坐車尾倖存｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 3,
+      "links": [
         {
           "source": "自由時報",
           "title": "西班牙高鐵追撞至少68死80傷！交通部長：排程中心下達離譜指令",
@@ -34,7 +61,34 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "西班牙高鐵列車相撞 2車廂脫軌已釀39死｜20261028 公視晚間新聞 ｜ 公視新聞 PNN",
+      "summary": [
+        "公視新聞：西班牙高鐵列車相撞 2車廂脫軌已釀39死｜20261028 公視晚間新聞 ｜ 公視新聞 PNN",
+        "風傳媒：西班牙鐵路發生慘劇！兩列車相撞釀64死，同路線一年內二度重大事故 | 李靖棠 | 新聞",
+        "轉角國際：失落的西班牙榮耀？高鐵追撞事故已68死，2026年第二起重大鐵路傷亡慘案"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "公視新聞",
+          "title": "西班牙高鐵列車相撞 2車廂脫軌已釀39死｜20261028 公視晚間新聞 ｜ 公視新聞 PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zVEZTV1NoRDhhRUNxRk1uQ1JoR19ucXIxU1J2NEM0MTJrRTF2bi1yVnhqQ184TElsazRZQ2NDOGNNVVloRTJaMjZ1WQ?oc=5"
+        },
+        {
+          "source": "風傳媒",
+          "title": "西班牙鐵路發生慘劇！兩列車相撞釀64死，同路線一年內二度重大事故 | 李靖棠 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPTGtQNE5maU44Vi02ODJCdTREMWJnWXQ3YUEybDdicEk3QlBGVjlJUmlPbkYwdkU4YmdGa0dpOHRyYmV6ZEEzYjQ3cWduUQ?oc=5"
+        },
+        {
+          "source": "轉角國際",
+          "title": "失落的西班牙榮耀？高鐵追撞事故已68死，2026年第二起重大鐵路傷亡慘案",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGWTgtRGF6M3NaRWdGUVlDWlkwblFzQkMxR1dkX082VnlYdHZIZXBXQkc4WUE4UGFEdjVuY0VOUUpIZEJLbklsWE1XV05fQWY5eUp3UFhzNmpjbjZ3eTR1bmJST3lTai14LVhn0gFrQVVfeXFMUEZZOC1EYXozc1pFZ0ZRWUNaWTBuUXNCQzFHV2RfTzZWeVh0dkhlcFdCRzhZQThQYUR2NW5jRU5RSkhkQktuSWxYTVdXTl9BZjl5SndQWHM2amNuNnd5NHVuYlJPeVNqLXgtWGc?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "蔣萬安細數任內政策 陳智菡嗆「全是柯文哲政績」盼還公道",
       "summary": [
         "中時新聞：蔣萬安細數任內政策 陳智菡嗆「全是柯文哲政績」盼還公道",
@@ -61,54 +115,6 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高",
-      "summary": [
-        "iThome：Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高",
-        "科技新報：主攻安全防禦，Google 發表 Gemini 4 Carbon 重新整理基準測試紀錄",
-        "INSIDE硬塞：新高階模型！Google 發表 Gemini 4 Carbon，主打資安與長時間任務，先開放給資安防禦者"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高",
-          "url": "https://www.ithome.com.tw/news/180049"
-        },
-        {
-          "source": "科技新報",
-          "title": "主攻安全防禦，Google 發表 Gemini 4 Carbon 重新整理基準測試紀錄",
-          "url": "https://infosecu.technews.tw/2026/10/29/google-introduces-gemini-4-carbon/"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "新高階模型！Google 發表 Gemini 4 Carbon，主打資安與長時間任務，先開放給資安防禦者",
-          "url": "https://www.inside.com.tw/article/42758-google-gemini-4-carbon-cybersecurity-long-horizon-fairwind"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "美期中選舉前　聯準會利率按兵不動",
-      "summary": [
-        "自由時報：美期中選舉前　聯準會利率按兵不動",
-        "經濟日報：美期中選舉前　聯準會利率按兵不動"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美期中選舉前　聯準會利率按兵不動",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5622080"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美期中選舉前　聯準會利率按兵不動",
-          "url": "https://money.udn.com/money/story/5599/9843548"
-        }
-      ]
-    },
-    {
       "rank": 5,
       "title": "佳格、統一燕麥飲熱銷- 日報",
       "summary": [
@@ -131,106 +137,106 @@
     },
     {
       "rank": 6,
-      "title": "蘋果首款觸控MacBook Pro來了！匯入動態島　近10萬元起跳",
+      "title": "防中國犯臺　美國太平洋陸軍司令：戴維森視窗威脅仍成立",
       "summary": [
-        "自由時報：蘋果首款觸控MacBook Pro來了！匯入動態島　近10萬元起跳",
-        "iThome：蘋果推出首款觸控MacBook Pro，售價2,899美元起"
+        "自由時報：防中國犯臺　美國太平洋陸軍司令：戴維森視窗威脅仍成立",
+        "經濟日報：防中國犯臺　美國太平洋陸軍司令：戴維森視窗威脅仍成立"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "蘋果首款觸控MacBook Pro來了！匯入動態島　近10萬元起跳",
-          "url": "https://3c.ltn.com.tw/news/68104"
+          "title": "防中國犯臺　美國太平洋陸軍司令：戴維森視窗威脅仍成立",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5622086"
         },
         {
-          "source": "iThome",
-          "title": "蘋果推出首款觸控MacBook Pro，售價2,899美元起",
-          "url": "https://www.ithome.com.tw/news/180050"
+          "source": "經濟日報",
+          "title": "防中國犯臺　美國太平洋陸軍司令：戴維森視窗威脅仍成立",
+          "url": "https://money.udn.com/money/story/5599/9843599"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑",
+      "title": "美國期中選舉廣告鋪天蓋地　選民厭煩盼早日落幕",
       "summary": [
-        "自由時報：人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑",
-        "經濟日報：人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑"
+        "自由時報：美國期中選舉廣告鋪天蓋地　選民厭煩盼早日落幕",
+        "經濟日報：美國期中選舉廣告鋪天蓋地　選民厭煩盼早日落幕"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5622079"
+          "title": "美國期中選舉廣告鋪天蓋地　選民厭煩盼早日落幕",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5622085"
         },
         {
           "source": "經濟日報",
-          "title": "人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑",
-          "url": "https://money.udn.com/money/story/5599/9843543"
+          "title": "美國期中選舉廣告鋪天蓋地　選民厭煩盼早日落幕",
+          "url": "https://money.udn.com/money/story/5599/9843595"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "川普德州造勢　暗示委內瑞拉可能成美國第51州",
+      "title": "聯準會維持利率不變　美股收高",
       "summary": [
-        "自由時報：川普德州造勢　暗示委內瑞拉可能成美國第51州",
-        "經濟日報：川普德州造勢　暗示委內瑞拉可能成美國第51州"
+        "自由時報：聯準會維持利率不變　美股收高",
+        "經濟日報：聯準會維持利率不變　美股收高"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "川普德州造勢　暗示委內瑞拉可能成美國第51州",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5622078"
+          "title": "聯準會維持利率不變　美股收高",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5622089"
         },
         {
           "source": "經濟日報",
-          "title": "川普德州造勢　暗示委內瑞拉可能成美國第51州",
-          "url": "https://money.udn.com/money/story/5599/9843540"
+          "title": "聯準會維持利率不變　美股收高",
+          "url": "https://money.udn.com/money/story/123398/9843618"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "Apple 全新可觸控 MacBook Pro 發表，發光蘋果標誌也跟著回歸",
+      "title": "Fed 決策／聯準會暫停升息 市場不敢鬆口氣 AI熱潮、油價牽動12月決策",
       "summary": [
-        "INSIDE硬塞：Apple 全新可觸控 MacBook Pro 發表，發光蘋果標誌也跟著回歸",
-        "自由時報：蘋果經典發光 Logo 睽違 10 年回歸！觸控 MacBook Pro 率先搭載"
+        "經濟日報：Fed 決策／聯準會暫停升息 市場不敢鬆口氣 AI熱潮、油價牽動12月決策",
+        "工商時報：Fed會議重點一文掌握》暫停升息、未排除12月行動、明年推重大機制改革- 國際"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "INSIDE硬塞",
-          "title": "Apple 全新可觸控 MacBook Pro 發表，發光蘋果標誌也跟著回歸",
-          "url": "https://www.inside.com.tw/article/42757-apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display"
+          "source": "經濟日報",
+          "title": "Fed 決策／聯準會暫停升息 市場不敢鬆口氣 AI熱潮、油價牽動12月決策",
+          "url": "https://money.udn.com/money/story/5599/9843662"
         },
         {
-          "source": "自由時報",
-          "title": "蘋果經典發光 Logo 睽違 10 年回歸！觸控 MacBook Pro 率先搭載",
-          "url": "https://3c.ltn.com.tw/news/68105"
+          "source": "工商時報",
+          "title": "Fed會議重點一文掌握》暫停升息、未排除12月行動、明年推重大機制改革- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzTjhKZ2k5MVVwZFZvS0NoMDBkNGY5ZHl6eXVCanY1ZFl1WnpST3JCWHhoUVVpbjFROE8zbXBvNTUxSUJkcjk2X2taY2dhc3lWVUhQdkFqdzdYOFVHT200?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "西班牙高鐵列車相撞 2車廂脫軌已釀39死｜20261028 公視晚間新聞 ｜ 公視新聞 PNN",
+      "title": "期貨最新報價10／28期交所夜盤行情- 證券",
       "summary": [
-        "公視新聞：西班牙高鐵列車相撞 2車廂脫軌已釀39死｜20261028 公視晚間新聞 ｜ 公視新聞 PNN",
-        "風傳媒：西班牙鐵路發生慘劇！兩列車相撞釀64死，同路線一年內二度重大事故 | 李靖棠 | 新聞"
+        "工商時報：期貨最新報價10／28期交所夜盤行情- 證券",
+        "MoneyDJ理財網：美股指數期貨最新報價 11:37-臺股"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "公視新聞",
-          "title": "西班牙高鐵列車相撞 2車廂脫軌已釀39死｜20261028 公視晚間新聞 ｜ 公視新聞 PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zVEZTV1NoRDhhRUNxRk1uQ1JoR19ucXIxU1J2NEM0MTJrRTF2bi1yVnhqQ184TElsazRZQ2NDOGNNVVloRTJaMjZ1WQ?oc=5"
+          "source": "工商時報",
+          "title": "期貨最新報價10／28期交所夜盤行情- 證券",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMRmlOb0xSQUw0X0RZdmZKMjMtMGxlNGE3ZTRhX2N6YWw0SWtlSlMxWmVVMDNxeWxYVXhwSEJhckRUUGpqSnZLazRiYi1qZDBrYS10XzZOdmZITmU5cTQw?oc=5"
         },
         {
-          "source": "風傳媒",
-          "title": "西班牙鐵路發生慘劇！兩列車相撞釀64死，同路線一年內二度重大事故 | 李靖棠 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPTGtQNE5maU44Vi02ODJCdTREMWJnWXQ3YUEybDdicEk3QlBGVjlJUmlPbkYwdkU4YmdGa0dpOHRyYmV6ZEEzYjQ3cWduUQ?oc=5"
+          "source": "MoneyDJ理財網",
+          "title": "美股指數期貨最新報價 11:37-臺股",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTWhzSkE4S3I5bU56VWRKQmo1TTFROXlSRWRPWHd1aEU1RDBISUJYcXdiRHc1VkF5b1l4aUx2Q204blBkNGxxTmJLeWxoX3Rac0kyVTdHaGRyVEk3blg4NG9nZWRmY0hxY2YwcVdvYmN2Z2RyX0hiZmM3RUY1cXdqRkxQQU1NQzE2X3c?oc=5"
         }
       ]
     }
@@ -238,19 +244,34 @@
   "global": [
     {
       "rank": 1,
-      "title": "Exclusive-US DOJ is inquiring about Nvidia’s purchase of Hugging Face, sources say",
+      "title": "How did Flávio Bolsonaro end up in Miami?",
       "summary": [
-        "Investing.com：Exclusive-US DOJ is inquiring about Nvidia’s purchase of Hugging Face, sources say",
+        "BBC World：How did Flávio Bolsonaro end up in Miami?",
+        "Financial Times：How Flávio Bolsonaro fled Brazil"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "How did Flávio Bolsonaro end up in Miami?",
+          "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Financial Times",
+          "title": "How Flávio Bolsonaro fled Brazil",
+          "url": "https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "DOJ Inquires About Nvidia’s Hugging Face Deal, Reuters Says",
+      "summary": [
         "Bloomberg Tech：DOJ Inquires About Nvidia’s Hugging Face Deal, Reuters Says",
         "CNBC：Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny"
       ],
-      "media_count": 3,
+      "media_count": 2,
       "links": [
-        {
-          "source": "Investing.com",
-          "title": "Exclusive-US DOJ is inquiring about Nvidia’s purchase of Hugging Face, sources say",
-          "url": "https://www.investing.com/news/stock-market-news/exclusiveus-doj-is-inquiring-about-nvidias-purchase-of-hugging-face-sources-say-4980450"
-        },
         {
           "source": "Bloomberg Tech",
           "title": "DOJ Inquires About Nvidia’s Hugging Face Deal, Reuters Says",
@@ -264,139 +285,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
-      "summary": [
-        "Investing.com：Google launches Gemini 4 Carbon AI model with cybersecurity focus",
-        "The Verge：Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-        "Ars Technica：Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
-          "url": "https://www.investing.com/news/stock-market-news/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus-4980426"
-        },
-        {
-          "source": "The Verge",
-          "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-          "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
-        }
-      ]
-    },
-    {
       "rank": 3,
-      "title": "Fed Leaves Rates Unchanged, Cook and Hammack Dissent",
-      "summary": [
-        "Bloomberg Markets：Fed Leaves Rates Unchanged, Cook and Hammack Dissent",
-        "WSJ Markets：Fed Leaves Rates Unchanged, Oil Tops $115"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Fed Leaves Rates Unchanged, Cook and Hammack Dissent",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/fed-leaves-rates-unchanged-cook-and-hammack-dissent-video"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "Fed Leaves Rates Unchanged, Oil Tops $115",
-          "url": "https://www.wsj.com/finance/fed-leaves-rates-unchanged-oil-tops-115-f922556e?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Apple announces touchscreen MacBook Pro with OLED display",
-      "summary": [
-        "Ars Technica：Apple announces touchscreen MacBook Pro with OLED display",
-        "Bloomberg Tech：Apple Unveils Touch-Screen MacBook Pro"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Ars Technica",
-          "title": "Apple announces touchscreen MacBook Pro with OLED display",
-          "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Apple Unveils Touch-Screen MacBook Pro",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/apple-unveils-touch-screen-macbook-pro-video"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Fed holds rates as expected and upgrades view on economy",
-      "summary": [
-        "Financial Times：Fed holds rates as expected and upgrades view on economy",
-        "Bloomberg Tech：Fed Holds Rates With a Hawkish Edge"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "Fed holds rates as expected and upgrades view on economy",
-          "url": "https://www.ft.com/content/b6900d10-6b9c-4d9b-984b-14284eef2f20"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Fed Holds Rates With a Hawkish Edge",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/the-close-10-28-2026-video"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Bolsonaro huye a Miami y desata ola de memes en Brasil",
-      "summary": [
-        "Bloomberg Markets：Bolsonaro huye a Miami y desata ola de memes en Brasil",
-        "Financial Times：How Flávio Bolsonaro fled Brazil"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Bolsonaro huye a Miami y desata ola de memes en Brasil",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/bolsonaro-huye-a-miami-y-desata-ola-de-memes-en-brasil-video"
-        },
-        {
-          "source": "Financial Times",
-          "title": "How Flávio Bolsonaro fled Brazil",
-          "url": "https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Lionsgate in Investor Talks for Rare Film Library-Backed Bonds",
-      "summary": [
-        "Bloomberg Markets：Lionsgate in Investor Talks for Rare Film Library-Backed Bonds",
-        "Yahoo Finance：Lionsgate in Investor Talks for Rare Film Library-Backed Bonds"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Lionsgate in Investor Talks for Rare Film Library-Backed Bonds",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-28/lionsgate-in-investor-talks-for-rare-film-library-backed-bonds"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Lionsgate in Investor Talks for Rare Film Library-Backed Bonds",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkIwZ05TbjlIbnNyMUp4TkhoWXcwR09aeGdPNEE3dFM0SmtXX2tzODNLWE1zakNmMTdIWW5HTHJqVXc0SXk2aWlValZYWU1fWkRZUjg2c3VUWHRCakZQOExwZzRXQVMyNXJyZFNPM3gtcVdiTVdCT19CWk8tNG8wandid0dmZ2x4T0VPNHpMbVBIRnU2OWhOaUJJbVlweTBmckd5Ug?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
       "summary": [
         "TechCrunch：Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
@@ -417,7 +306,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 4,
       "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
       "summary": [
         "The Verge：Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
@@ -438,7 +327,28 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 5,
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "summary": [
+        "The Verge：Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+        "Ars Technica：Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+          "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Fed mantiene tasas sin dar muchas pistas sobre diciembre",
       "summary": [
         "Bloomberg Markets：Fed mantiene tasas sin dar muchas pistas sobre diciembre",
@@ -455,6 +365,90 @@
           "source": "Nikkei Asia",
           "title": "Fed holds rates steady less than week before US midterm elections",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEN1NkZCanpwSVltUEZISGduTXZJb1p4X0lGdWNSZHNCT3hsbjVwM2d3NUdzRDNKS1NfQ1lRQzBETmNjdGlrc1BIUWpHR3V1UDFWYTF3U1Bvd2tBcGlVMXUyLUx2R2ZYTlFaNjNrLVBkTDRyVE9vVmt4WlppaU9GNDNac1VsaUtJc0JDSzZwNUNKUlFuR2JLeHh4YkVKQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Why is Fortinet stock plunging today?",
+      "summary": [
+        "Investing.com：Why is Fortinet stock plunging today?",
+        "MarketWatch：Fortinet’s stock is taking a dive after earnings. Here’s why."
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Why is Fortinet stock plunging today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-fortinet-stock-plunging-today-93CH-4980914"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+          "url": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Australia’s corporate regulator probes Firmus IPO bankers, The Australian reports",
+      "summary": [
+        "Investing.com：Australia’s corporate regulator probes Firmus IPO bankers, The Australian reports",
+        "Bloomberg Markets：Bankers in Failed Firmus IPO Probed by Australian Regulator"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Australia’s corporate regulator probes Firmus IPO bankers, The Australian reports",
+          "url": "https://www.investing.com/news/stock-market-news/australias-corporate-regulator-probes-firmus-ipo-bankers-the-australian-reports-4981201"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "Bankers in Failed Firmus IPO Probed by Australian Regulator",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-28/bankers-in-failed-firmus-ipo-probed-by-australian-regulator-asic"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
+      "summary": [
+        "CNBC：Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
+        "Investing.com：Samsung posts record profit in Q3 on AI chip boom"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
+          "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Samsung posts record profit in Q3 on AI chip boom",
+          "url": "https://www.investing.com/news/stock-market-news/samsung-posts-record-profit-in-q3-on-ai-chip-boom-4981289"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Tech Rally Stalls as Alphabet, Samsung Disappoint",
+      "summary": [
+        "Bloomberg Markets：Tech Rally Stalls as Alphabet, Samsung Disappoint",
+        "Bloomberg Tech：Tech Rally Stalls as Alphabet, Samsung Disappoint"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Tech Rally Stalls as Alphabet, Samsung Disappoint",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-29/the-asia-trade-10-29-2026-video"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Tech Rally Stalls as Alphabet, Samsung Disappoint",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-29/tech-rally-stalls-as-alphabet-samsung-disappoint-video"
         }
       ]
     }
