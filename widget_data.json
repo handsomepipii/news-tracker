@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 17:05",
+  "updated_at": "2026-10-29 18:01",
   "taiwan": [
     {
       "rank": 1,
@@ -110,48 +110,6 @@
     },
     {
       "rank": 5,
-      "title": "聯準會維持利率不變　美股收高",
-      "summary": [
-        "自由時報：聯準會維持利率不變　美股收高",
-        "經濟日報：聯準會維持利率不變　美股收高"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "聯準會維持利率不變　美股收高",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5622089"
-        },
-        {
-          "source": "經濟日報",
-          "title": "聯準會維持利率不變　美股收高",
-          "url": "https://money.udn.com/money/story/123398/9843618"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "中選會出大包 1573候選人身分證字號 竟外洩",
-      "summary": [
-        "自由時報：中選會出大包 1573候選人身分證字號 竟外洩",
-        "TVBS新聞：中選會出包！ 1573名候選人身分證外洩 數發部揭調查結果"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "中選會出大包 1573候選人身分證字號 竟外洩",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1776305"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "中選會出包！ 1573名候選人身分證外洩 數發部揭調查結果",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTMm5vLVRhNW1EZjFWaUZiUUtBVll1LVVKMXRFS2c0bmxFWjRTQ3FCdG1lU1RRREhrSUs5Um5uVHAwcjZHTFk4dDVOSnRIWXh1NmY4?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Fed 決策／聯準會暫停升息 市場不敢鬆口氣 AI熱潮、油價牽動12月決策",
       "summary": [
         "經濟日報：Fed 決策／聯準會暫停升息 市場不敢鬆口氣 AI熱潮、油價牽動12月決策",
@@ -172,7 +130,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "期貨最新報價10／28期交所夜盤行情- 證券",
       "summary": [
         "工商時報：期貨最新報價10／28期交所夜盤行情- 證券",
@@ -193,7 +151,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "震撼光通訊業界！邁威爾傳下週宣佈收購 Lumentum 盤後股價劇烈反應",
       "summary": [
         "經濟日報：震撼光通訊業界！邁威爾傳下週宣佈收購 Lumentum 盤後股價劇烈反應",
@@ -214,7 +172,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "力晶投控啟動 10 億元庫藏股回購！2 天已成功回購逾 440 萬股",
       "summary": [
         "科技新報：力晶投控啟動 10 億元庫藏股回購！2 天已成功回購逾 440 萬股",
@@ -233,53 +191,53 @@
           "url": "https://ec.ltn.com.tw/article/breakingnews/5622330"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "聯準會3大重點：兩委員反對維持利率、力抗通膨、會議安排調整",
+      "summary": [
+        "經濟日報：聯準會3大重點：兩委員反對維持利率、力抗通膨、會議安排調整",
+        "科技新報：聯準會 3 大重點：兩委員反對維持利率、力抗通膨、會議安排調整"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "聯準會3大重點：兩委員反對維持利率、力抗通膨、會議安排調整",
+          "url": "https://money.udn.com/money/story/5599/9843760"
+        },
+        {
+          "source": "科技新報",
+          "title": "聯準會 3 大重點：兩委員反對維持利率、力抗通膨、會議安排調整",
+          "url": "https://technews.tw/2026/10/29/federal-reserve-3-key-points-two-members-oppose-rate-hold-fighting-inflation-meeting-adjustments/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "微軟與Alphabet公佈業績　投資人關注公司現金流",
+      "summary": [
+        "經濟日報：微軟與Alphabet公佈業績　投資人關注公司現金流",
+        "科技新報：微軟與 Alphabet 公佈業績，投資人關注公司現金流"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "微軟與Alphabet公佈業績　投資人關注公司現金流",
+          "url": "https://money.udn.com/money/story/123398/9843735"
+        },
+        {
+          "source": "科技新報",
+          "title": "微軟與 Alphabet 公佈業績，投資人關注公司現金流",
+          "url": "https://finance.technews.tw/2026/10/29/microsoft-alphabet-earnings-investors-cash-flow/"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Fed mantiene tasas sin dar muchas pistas sobre diciembre",
-      "summary": [
-        "Bloomberg Markets：Fed mantiene tasas sin dar muchas pistas sobre diciembre",
-        "Nikkei Asia：Fed holds rates steady less than week before US midterm elections"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Fed mantiene tasas sin dar muchas pistas sobre diciembre",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/fed-mantiene-tasas-sin-dar-muchas-pistas-sobre-diciembre-video"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "Fed holds rates steady less than week before US midterm elections",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEN1NkZCanpwSVltUEZISGduTXZJb1p4X0lGdWNSZHNCT3hsbjVwM2d3NUdzRDNKS1NfQ1lRQzBETmNjdGlrc1BIUWpHR3V1UDFWYTF3U1Bvd2tBcGlVMXUyLUx2R2ZYTlFaNjNrLVBkTDRyVE9vVmt4WlppaU9GNDNac1VsaUtJc0JDSzZwNUNKUlFuR2JLeHh4YkVKQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Why is Fortinet stock plunging today?",
-      "summary": [
-        "Investing.com：Why is Fortinet stock plunging today?",
-        "MarketWatch：Fortinet’s stock is taking a dive after earnings. Here’s why."
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Why is Fortinet stock plunging today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-fortinet-stock-plunging-today-93CH-4980914"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
-          "url": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Australia’s corporate regulator probes Firmus IPO bankers, The Australian reports",
       "summary": [
         "Investing.com：Australia’s corporate regulator probes Firmus IPO bankers, The Australian reports",
@@ -300,7 +258,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
       "summary": [
         "CNBC：Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
@@ -321,7 +279,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "Tech Rally Stalls as Alphabet, Samsung Disappoint",
       "summary": [
         "Bloomberg Markets：Tech Rally Stalls as Alphabet, Samsung Disappoint",
@@ -342,7 +300,28 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+      "summary": [
+        "BBC World：Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+        "CNBC：Putin praises Elon Musk as a ‘real genius’ as Russia develops Starlink alternative"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+          "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "CNBC",
+          "title": "Putin praises Elon Musk as a ‘real genius’ as Russia develops Starlink alternative",
+          "url": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
       "summary": [
         "BBC World：Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
@@ -363,7 +342,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "What Wall Street Really Thanks About the AI Trade (Podcast)",
       "summary": [
         "Bloomberg Markets：What Wall Street Really Thanks About the AI Trade (Podcast)",
@@ -384,7 +363,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "- 紐約時報中文網",
       "summary": [
         "紐約時報中文：- 紐約時報中文網"
@@ -399,7 +378,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "西班牙港口城市熱情擁抱中國投資，經濟機遇背後暗藏隱憂- 紐約時報中文網",
       "summary": [
         "紐約時報中文：西班牙港口城市熱情擁抱中國投資，經濟機遇背後暗藏隱憂- 紐約時報中文網"
@@ -414,7 +393,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美國將中國基因組學公司華大列入貿易黑名單- 紐約時報中文網",
       "summary": [
         "紐約時報中文：美國將中國基因組學公司華大列入貿易黑名單- 紐約時報中文網"
@@ -425,6 +404,21 @@
           "source": "紐約時報中文",
           "title": "美國將中國基因組學公司華大列入貿易黑名單- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORDVwY2ViSnhHRDR6V1I5MkVoaUkta0hVNi1ORkFDN3Z0UDZFQVBXaVpINkRhOGszOTRFekR1bVRSdC0wREZOSmxYbjNwbGRzOUZtWnBkRF91Q2diNUFIcWZwbk9VMjdwdlRwd3ZWcjByY2xMa0xWcjVKcVZnUk1BRjZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "快訊：三星電子三季度營業利潤同比增783.1%",
+      "summary": [
+        "韓聯社：快訊：三星電子三季度營業利潤同比增783.1%"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "快訊：三星電子三季度營業利潤同比增783.1%",
+          "url": "https://cn.yna.co.kr/view/ACK20261029000900881"
         }
       ]
     }
