@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-29 11:00",
+  "updated_at": "2026-10-29 12:00",
   "taiwan": [
     {
       "rank": 1,
-      "title": "西班牙列車追撞至少64死 運輸部長：號誌系統故障",
+      "title": "西班牙高鐵追撞至少68死　交通部長：排程中心下錯指令",
       "summary": [
-        "經濟日報：西班牙列車追撞至少64死 運輸部長：號誌系統故障",
         "自由時報：西班牙高鐵追撞至少68死　交通部長：排程中心下錯指令",
+        "經濟日報：西班牙高鐵追撞至少68死　交通部長：排程中心下錯指令",
         "ETtoday：西班牙高鐵相撞68死　交長：控制中心下了莫名其妙的錯誤指令"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "西班牙列車追撞至少64死 運輸部長：號誌系統故障",
-          "url": "https://money.udn.com/money/story/5599/9843271"
-        },
-        {
           "source": "自由時報",
           "title": "西班牙高鐵追撞至少68死　交通部長：排程中心下錯指令",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5622067"
+        },
+        {
+          "source": "經濟日報",
+          "title": "西班牙高鐵追撞至少68死　交通部長：排程中心下錯指令",
+          "url": "https://money.udn.com/money/story/5599/9843518"
         },
         {
           "source": "ETtoday",
@@ -30,48 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "西班牙高鐵追撞暴增至64死　BBC：該國10年來最慘鐵路事故",
-      "summary": [
-        "經濟日報：西班牙高鐵追撞暴增至64死　BBC：該國10年來最慘鐵路事故",
-        "自由時報：西班牙驚傳高鐵追撞！兩車廂脫軌至少64死120多傷 驚悚畫面曝"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "西班牙高鐵追撞暴增至64死　BBC：該國10年來最慘鐵路事故",
-          "url": "https://money.udn.com/money/story/5599/9843260"
-        },
-        {
-          "source": "自由時報",
-          "title": "西班牙驚傳高鐵追撞！兩車廂脫軌至少64死120多傷 驚悚畫面曝",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5621721"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "曾奪坎城金棕櫚獎！伊朗異議名導賈法潘納希 遭判刑5年",
-      "summary": [
-        "自由時報：曾奪坎城金棕櫚獎！伊朗異議名導賈法潘納希 遭判刑5年",
-        "經濟日報：人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "曾奪坎城金棕櫚獎！伊朗異議名導賈法潘納希 遭判刑5年",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5622034"
-        },
-        {
-          "source": "經濟日報",
-          "title": "人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑",
-          "url": "https://money.udn.com/money/story/5599/9843543"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "美期中選舉前　聯準會利率按兵不動",
       "summary": [
         "自由時報：美期中選舉前　聯準會利率按兵不動",
@@ -92,70 +50,28 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "涉洗錢遭禁出境！巴西小波索納洛大選落敗 密逃美國抵邁阿密",
+      "rank": 3,
+      "title": "佳格、統一燕麥飲熱銷- 日報",
       "summary": [
-        "自由時報：涉洗錢遭禁出境！巴西小波索納洛大選落敗 密逃美國抵邁阿密",
-        "經濟日報：巴西總統大選輸了不認！波索納洛逃往美國 自稱合法領導人"
+        "工商時報：佳格、統一燕麥飲熱銷- 日報",
+        "自由時報：狂客音樂祭11/7、11/8屏東登場 金曲歌王歌后領軍開唱"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "涉洗錢遭禁出境！巴西小波索納洛大選落敗 密逃美國抵邁阿密",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5622017"
-        },
-        {
-          "source": "經濟日報",
-          "title": "巴西總統大選輸了不認！波索納洛逃往美國 自稱合法領導人",
-          "url": "https://money.udn.com/money/story/5599/9843725"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "傳巴基斯坦髮夾彎 重新允許臺灣航空公司飛越領空",
-      "summary": [
-        "經濟日報：傳巴基斯坦髮夾彎 重新允許臺灣航空公司飛越領空",
-        "自由時報：不禁臺灣了！巴基斯坦突恢復長榮、華航飛航領空許可權"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "傳巴基斯坦髮夾彎 重新允許臺灣航空公司飛越領空",
-          "url": "https://money.udn.com/money/story/5599/9843284"
+          "source": "工商時報",
+          "title": "佳格、統一燕麥飲熱銷- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByaUE2cVktQlBuTGdsdjdHbmtXUzhpMDEtU0M3YTFxVEd5azFYYzRmRGYyNS1WZ3p3dWxyNHZzMDJvb255cjR2ZmtnMFNpM1h3Mmx6Q0VoS2tfTXRVRjk4?oc=5"
         },
         {
           "source": "自由時報",
-          "title": "不禁臺灣了！巴基斯坦突恢復長榮、華航飛航領空許可權",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5622035"
+          "title": "狂客音樂祭11/7、11/8屏東登場 金曲歌王歌后領軍開唱",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5622124"
         }
       ]
     },
     {
-      "rank": 7,
-      "title": "不因「一個中國」禁臺灣班機　印度：我們與巴基斯坦看法不同",
-      "summary": [
-        "經濟日報：不因「一個中國」禁臺灣班機　印度：我們與巴基斯坦看法不同",
-        "ETtoday：巴基斯坦「支援一中」只准中航空公司！印度不禁臺班機：看法不同"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "不因「一個中國」禁臺灣班機　印度：我們與巴基斯坦看法不同",
-          "url": "https://money.udn.com/money/story/5599/9843415"
-        },
-        {
-          "source": "ETtoday",
-          "title": "巴基斯坦「支援一中」只准中航空公司！印度不禁臺班機：看法不同",
-          "url": "https://www.ettoday.net/news/20261029/3262525.htm"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "title": "市場靜待聯準會利率決策　歐股多收高",
       "summary": [
         "自由時報：市場靜待聯準會利率決策　歐股多收高",
@@ -176,7 +92,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "中東戰事加劇市場疑慮　歐洲天然氣價格升破100歐元",
       "summary": [
         "自由時報：中東戰事加劇市場疑慮　歐洲天然氣價格升破100歐元",
@@ -197,7 +113,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "蘋果首款觸控MacBook Pro來了！匯入動態島　近10萬元起跳",
       "summary": [
         "自由時報：蘋果首款觸控MacBook Pro來了！匯入動態島　近10萬元起跳",
@@ -214,6 +130,90 @@
           "source": "iThome",
           "title": "蘋果推出首款觸控MacBook Pro，售價2,899美元起",
           "url": "https://www.ithome.com.tw/news/180050"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑",
+      "summary": [
+        "自由時報：人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑",
+        "經濟日報：人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5622079"
+        },
+        {
+          "source": "經濟日報",
+          "title": "人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑",
+          "url": "https://money.udn.com/money/story/5599/9843543"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "川普德州造勢　暗示委內瑞拉可能成美國第51州",
+      "summary": [
+        "自由時報：川普德州造勢　暗示委內瑞拉可能成美國第51州",
+        "經濟日報：川普德州造勢　暗示委內瑞拉可能成美國第51州"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川普德州造勢　暗示委內瑞拉可能成美國第51州",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5622078"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普德州造勢　暗示委內瑞拉可能成美國第51州",
+          "url": "https://money.udn.com/money/story/5599/9843540"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Apple 全新可觸控 MacBook Pro 發表，發光蘋果標誌也跟著回歸",
+      "summary": [
+        "INSIDE硬塞：Apple 全新可觸控 MacBook Pro 發表，發光蘋果標誌也跟著回歸",
+        "自由時報：蘋果經典發光 Logo 睽違 10 年回歸！觸控 MacBook Pro 率先搭載"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "INSIDE硬塞",
+          "title": "Apple 全新可觸控 MacBook Pro 發表，發光蘋果標誌也跟著回歸",
+          "url": "https://www.inside.com.tw/article/42757-apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display"
+        },
+        {
+          "source": "自由時報",
+          "title": "蘋果經典發光 Logo 睽違 10 年回歸！觸控 MacBook Pro 率先搭載",
+          "url": "https://3c.ltn.com.tw/news/68105"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "西班牙高鐵列車相撞 2車廂脫軌已釀39死｜20261028 公視晚間新聞 ｜ 公視新聞 PNN",
+      "summary": [
+        "公視新聞：西班牙高鐵列車相撞 2車廂脫軌已釀39死｜20261028 公視晚間新聞 ｜ 公視新聞 PNN",
+        "風傳媒：西班牙鐵路發生慘劇！兩列車相撞釀64死，同路線一年內二度重大事故 | 李靖棠 | 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公視新聞",
+          "title": "西班牙高鐵列車相撞 2車廂脫軌已釀39死｜20261028 公視晚間新聞 ｜ 公視新聞 PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zVEZTV1NoRDhhRUNxRk1uQ1JoR19ucXIxU1J2NEM0MTJrRTF2bi1yVnhqQ184TElsazRZQ2NDOGNNVVloRTJaMjZ1WQ?oc=5"
+        },
+        {
+          "source": "風傳媒",
+          "title": "西班牙鐵路發生慘劇！兩列車相撞釀64死，同路線一年內二度重大事故 | 李靖棠 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPTGtQNE5maU44Vi02ODJCdTREMWJnWXQ3YUEybDdicEk3QlBGVjlJUmlPbkYwdkU4YmdGa0dpOHRyYmV6ZEEzYjQ3cWduUQ?oc=5"
         }
       ]
     }
@@ -258,33 +258,6 @@
     },
     {
       "rank": 2,
-      "title": "西班牙列車相撞至少64死：我們目前已知甚麼？",
-      "summary": [
-        "BBC中文：西班牙列車相撞至少64死：我們目前已知甚麼？",
-        "德國之聲：西班牙高鐵再釀慘劇  追尾脫軌至少64人遇難",
-        "NHK新聞：スペイン高速鉄道衝突事故 これまでに68人死亡 後続列車が追突"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "西班牙列車相撞至少64死：我們目前已知甚麼？",
-          "url": "https://www.bbc.com/zhongwen/articles/c50mejwyrypno/trad?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "德國之聲",
-          "title": "西班牙高鐵再釀慘劇  追尾脫軌至少64人遇難",
-          "url": "https://www.dw.com/zh/西班牙高铁再酿惨剧-追尾脱轨至少64人遇难/a-79789821?maca=chi-rss-chi-all-1127-rdf"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "スペイン高速鉄道衝突事故 これまでに68人死亡 後続列車が追突",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261029de67453"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Exclusive-US DOJ is inquiring about Nvidia’s purchase of Hugging Face, sources say",
       "summary": [
         "Investing.com：Exclusive-US DOJ is inquiring about Nvidia’s purchase of Hugging Face, sources say",
@@ -311,7 +284,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
       "summary": [
         "Investing.com：Google launches Gemini 4 Carbon AI model with cybersecurity focus",
@@ -338,28 +311,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss",
-      "summary": [
-        "Washington Post：Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss",
-        "BBC World：What we know as Flávio Bolsonaro lands in US after Brazil election loss"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "Flávio Bolsonaro lands in Miami after fleeing Brazil following election loss",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS200OVFWbk5QSmRLRnpfZlJmM0NIV1FUOGNQd0FNakZKcXJmc29FSWZaMXkwdUJfWlRVZVJKLWVvVmVzcjhrWDhJc0VQVUxCZWZ0U2syLTUwZ1J1bVMzOXdMZGVKMHM5X1phdndEY19qTm45a1I0cmdIMjV3NkFXZlR6RXFycGU4MFJPTXhvMm5yN1FpUkNZUS1CLVotZGVOd3dsendTb0NJdjNLWi1kdTJHd0ctOHpRMUE0RGpB?oc=5"
-        },
-        {
-          "source": "BBC World",
-          "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
-          "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "Fed Leaves Rates Unchanged, Cook and Hammack Dissent",
       "summary": [
         "Bloomberg Markets：Fed Leaves Rates Unchanged, Cook and Hammack Dissent",
@@ -380,7 +332,28 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "title": "西班牙今年第二起火車事故至少68人遇難 首相：“整個國家都在悲痛中”",
+      "summary": [
+        "法廣RFI：西班牙今年第二起火車事故至少68人遇難 首相：“整個國家都在悲痛中”",
+        "NHK新聞：スペイン高速鉄道衝突事故 これまでに68人死亡 後続列車が追突"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "西班牙今年第二起火車事故至少68人遇難 首相：“整個國家都在悲痛中”",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261028-%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BB%8A%E5%B9%B4%E7%AC%AC%E4%BA%8C%E8%B5%B7%E7%81%AB%E8%BB%8A%E4%BA%8B%E6%95%85%E8%87%B3%E5%B0%9168%E4%BA%BA%E9%81%87%E9%9B%A3-%E7%B8%BD%E7%90%86-%E6%95%B4%E5%80%8B%E5%9C%8B%E5%AE%B6%E9%83%BD%E5%9C%A8%E6%82%B2%E7%97%9B%E4%B8%AD"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "スペイン高速鉄道衝突事故 これまでに68人死亡 後続列車が追突",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261029de67453"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
       "summary": [
         "TechCrunch：Reddit is the latest platform to embrace the ‘For You’ feed",
@@ -401,7 +374,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Anthropic Is Said to Plan UK Share Offering Via RetailBook",
       "summary": [
         "Bloomberg Markets：Anthropic Is Said to Plan UK Share Offering Via RetailBook",
@@ -422,28 +395,7 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Spanish Train Crash Kills at Least 68 People South of Madrid",
-      "summary": [
-        "Bloomberg Markets：Spanish Train Crash Kills at Least 68 People South of Madrid",
-        "BBC World：High-speed train crash kills at least 68 people in Spain"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Spanish Train Crash Kills at Least 68 People South of Madrid",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/spanish-train-crash-kills-at-least-64-people-south-of-madrid"
-        },
-        {
-          "source": "BBC World",
-          "title": "High-speed train crash kills at least 68 people in Spain",
-          "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
       "summary": [
         "CNBC：Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
@@ -460,6 +412,48 @@
           "source": "Wired",
           "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac",
           "url": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "summary": [
+        "TechCrunch：Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+        "The Verge：Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+          "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
+        },
+        {
+          "source": "The Verge",
+          "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+          "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Hands-on with Apple’s touchscreen MacBook Pro",
+      "summary": [
+        "The Verge：Hands-on with Apple’s touchscreen MacBook Pro",
+        "CNBC：Hands-on with Apple's first touchscreen laptop: Touch is totally optional"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "Hands-on with Apple’s touchscreen MacBook Pro",
+          "url": "https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on"
+        },
+        {
+          "source": "CNBC",
+          "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
+          "url": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html"
         }
       ]
     }
