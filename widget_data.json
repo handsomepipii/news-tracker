@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 09:47",
+  "updated_at": "2026-10-29 11:00",
   "taiwan": [
     {
       "rank": 1,
@@ -30,27 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "首見針對臺灣商業航班封鎖！巴基斯坦禁我國籍航空飛越領空 華航長榮被迫改道",
-      "summary": [
-        "自由時報：首見針對臺灣商業航班封鎖！巴基斯坦禁我國籍航空飛越領空 華航長榮被迫改道",
-        "ETtoday：巴基斯坦挺一中禁臺航班飛越領空　外交部痛斥：將空域政治化"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "首見針對臺灣商業航班封鎖！巴基斯坦禁我國籍航空飛越領空 華航長榮被迫改道",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5621905"
-        },
-        {
-          "source": "ETtoday",
-          "title": "巴基斯坦挺一中禁臺航班飛越領空　外交部痛斥：將空域政治化",
-          "url": "https://www.ettoday.net/news/20261028/3262515.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "西班牙高鐵追撞暴增至64死　BBC：該國10年來最慘鐵路事故",
       "summary": [
         "經濟日報：西班牙高鐵追撞暴增至64死　BBC：該國10年來最慘鐵路事故",
@@ -71,7 +50,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "曾奪坎城金棕櫚獎！伊朗異議名導賈法潘納希 遭判刑5年",
       "summary": [
         "自由時報：曾奪坎城金棕櫚獎！伊朗異議名導賈法潘納希 遭判刑5年",
@@ -92,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "美期中選舉前　聯準會利率按兵不動",
       "summary": [
         "自由時報：美期中選舉前　聯準會利率按兵不動",
@@ -113,49 +92,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "谷歌蘋果涉App市場不公平行為　遭韓國開罰逾15億元",
-      "summary": [
-        "經濟日報：谷歌蘋果涉App市場不公平行為　遭韓國開罰逾15億元",
-        "科技新報：Google、蘋果涉 App 市場不公平行為，遭韓國開罰逾 15 億元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "谷歌蘋果涉App市場不公平行為　遭韓國開罰逾15億元",
-          "url": "https://money.udn.com/money/story/5599/9843184"
-        },
-        {
-          "source": "科技新報",
-          "title": "Google、蘋果涉 App 市場不公平行為，遭韓國開罰逾 15 億元",
-          "url": "https://technews.tw/2026/10/29/south-korea-fines-google-and-apple-over-unfair-app-market-practices/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "聯電2027年展望樂觀；AI營收佔比2029年拚逾25%",
-      "summary": [
-        "MoneyDJ理財網：聯電2027年展望樂觀；AI營收佔比2029年拚逾25%",
-        "科技新報：外資看好聯電 2029 年 AI 營收比重至 25%，本業營運穩健外資最高目標價達 188 元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "聯電2027年展望樂觀；AI營收佔比2029年拚逾25%",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRDUtMnhRN0FSLXRrNFVJWjJFdnNYX0ttNlM1ZFlYb0tSMmZtMXBud0FJUjhyS19jdmNRZk1DdHVhaHA2NEphSU1vcHNwb0dLZXoxdTNuTUlhbEdsYTI3Z2NBOS1fb2tJTEZDUlBtNzZ2eFJZS0tEUGtBTC1XaU5YVC1zeE5ZSGVNZFRJT0JtOF9IQQ?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "外資看好聯電 2029 年 AI 營收比重至 25%，本業營運穩健外資最高目標價達 188 元",
-          "url": "https://finance.technews.tw/2026/10/29/foreign-investors-are-optimistic-about-umcs-ai-revenue-expecting-it-to-account-for-25-of-total-revenue-by-2029/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "title": "涉洗錢遭禁出境！巴西小波索納洛大選落敗 密逃美國抵邁阿密",
       "summary": [
         "自由時報：涉洗錢遭禁出境！巴西小波索納洛大選落敗 密逃美國抵邁阿密",
@@ -176,7 +113,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "傳巴基斯坦髮夾彎 重新允許臺灣航空公司飛越領空",
       "summary": [
         "經濟日報：傳巴基斯坦髮夾彎 重新允許臺灣航空公司飛越領空",
@@ -197,7 +134,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "不因「一個中國」禁臺灣班機　印度：我們與巴基斯坦看法不同",
       "summary": [
         "經濟日報：不因「一個中國」禁臺灣班機　印度：我們與巴基斯坦看法不同",
@@ -214,6 +151,69 @@
           "source": "ETtoday",
           "title": "巴基斯坦「支援一中」只准中航空公司！印度不禁臺班機：看法不同",
           "url": "https://www.ettoday.net/news/20261029/3262525.htm"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "市場靜待聯準會利率決策　歐股多收高",
+      "summary": [
+        "自由時報：市場靜待聯準會利率決策　歐股多收高",
+        "經濟日報：市場靜待聯準會利率決策　歐股多收高"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "市場靜待聯準會利率決策　歐股多收高",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5622075"
+        },
+        {
+          "source": "經濟日報",
+          "title": "市場靜待聯準會利率決策　歐股多收高",
+          "url": "https://money.udn.com/money/story/5599/9843532"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "中東戰事加劇市場疑慮　歐洲天然氣價格升破100歐元",
+      "summary": [
+        "自由時報：中東戰事加劇市場疑慮　歐洲天然氣價格升破100歐元",
+        "經濟日報：中東戰事加劇市場疑慮　歐洲天然氣價格升破100歐元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "中東戰事加劇市場疑慮　歐洲天然氣價格升破100歐元",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5622073"
+        },
+        {
+          "source": "經濟日報",
+          "title": "中東戰事加劇市場疑慮　歐洲天然氣價格升破100歐元",
+          "url": "https://money.udn.com/money/story/5599/9843529"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "蘋果首款觸控MacBook Pro來了！匯入動態島　近10萬元起跳",
+      "summary": [
+        "自由時報：蘋果首款觸控MacBook Pro來了！匯入動態島　近10萬元起跳",
+        "iThome：蘋果推出首款觸控MacBook Pro，售價2,899美元起"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "蘋果首款觸控MacBook Pro來了！匯入動態島　近10萬元起跳",
+          "url": "https://3c.ltn.com.tw/news/68104"
+        },
+        {
+          "source": "iThome",
+          "title": "蘋果推出首款觸控MacBook Pro，售價2,899美元起",
+          "url": "https://www.ithome.com.tw/news/180050"
         }
       ]
     }
@@ -258,6 +258,33 @@
     },
     {
       "rank": 2,
+      "title": "西班牙列車相撞至少64死：我們目前已知甚麼？",
+      "summary": [
+        "BBC中文：西班牙列車相撞至少64死：我們目前已知甚麼？",
+        "德國之聲：西班牙高鐵再釀慘劇  追尾脫軌至少64人遇難",
+        "NHK新聞：スペイン高速鉄道衝突事故 これまでに68人死亡 後続列車が追突"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "西班牙列車相撞至少64死：我們目前已知甚麼？",
+          "url": "https://www.bbc.com/zhongwen/articles/c50mejwyrypno/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "德國之聲",
+          "title": "西班牙高鐵再釀慘劇  追尾脫軌至少64人遇難",
+          "url": "https://www.dw.com/zh/西班牙高铁再酿惨剧-追尾脱轨至少64人遇难/a-79789821?maca=chi-rss-chi-all-1127-rdf"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "スペイン高速鉄道衝突事故 これまでに68人死亡 後続列車が追突",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261029de67453"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Exclusive-US DOJ is inquiring about Nvidia’s purchase of Hugging Face, sources say",
       "summary": [
         "Investing.com：Exclusive-US DOJ is inquiring about Nvidia’s purchase of Hugging Face, sources say",
@@ -284,7 +311,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
       "summary": [
         "Investing.com：Google launches Gemini 4 Carbon AI model with cybersecurity focus",
@@ -307,27 +334,6 @@
           "source": "Ars Technica",
           "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
           "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
-      "summary": [
-        "Financial Times：Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
-        "Bloomberg Markets：Peltz’s Trian Offers to Take Wendy’s Private in All-Cash Deal"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
-          "url": "https://www.ft.com/content/9cf40241-94df-403d-b93f-ac6c09728627?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "Peltz’s Trian Offers to Take Wendy’s Private in All-Cash Deal",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/trian-offers-to-take-wendy-s-private-in-all-cash-deal-video"
         }
       ]
     },
