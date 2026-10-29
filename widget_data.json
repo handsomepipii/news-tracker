@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 02:01",
+  "updated_at": "2026-10-30 03:00",
   "taiwan": [
     {
       "rank": 1,
@@ -116,6 +116,33 @@
     },
     {
       "rank": 5,
+      "title": "田馥甄當場哭了！直播到一半「心碎談這件事」 鏡頭前突哽咽落淚",
+      "summary": [
+        "自由時報：田馥甄當場哭了！直播到一半「心碎談這件事」 鏡頭前突哽咽落淚",
+        "ETtoday：田馥甄直播一半突然哭了！　為1件事罕見崩潰落淚：太丟臉",
+        "中時新聞：田馥甄直播到一半哭了！為「這件事」罕見落淚：太丟臉了- 娛樂"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "田馥甄當場哭了！直播到一半「心碎談這件事」 鏡頭前突哽咽落淚",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5623011"
+        },
+        {
+          "source": "ETtoday",
+          "title": "田馥甄直播一半突然哭了！　為1件事罕見崩潰落淚：太丟臉",
+          "url": "https://star.ettoday.net/news/3263091"
+        },
+        {
+          "source": "中時新聞",
+          "title": "田馥甄直播到一半哭了！為「這件事」罕見落淚：太丟臉了- 娛樂",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zUjgwdGY1TzljZjE5TWd6UkhkRGdXVHlpRmZEQm9YempXNmlralZyWmxtSGZPR1dJSlF5VUE2WFk5Um5rM2ZEWUxnUTJvd1lGdC1vNlJiaHptckZXa3dZZ0FfeDVhMjZ6RXlrYWNB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Chipotle 走出低谷？財報現復甦跡象、盤後跳高",
       "summary": [
         "科技新報：Chipotle 走出低谷？財報現復甦跡象、盤後跳高",
@@ -136,7 +163,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "iPhone Duo 在中國首銷亮眼，傳 4 天銷量近 20 萬支",
       "summary": [
         "科技新報：iPhone Duo 在中國首銷亮眼，傳 4 天銷量近 20 萬支",
@@ -157,7 +184,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "韓媒：PHP防火牆遭入侵　發現疑似中國駭客蹤跡",
       "summary": [
         "經濟日報：韓媒：PHP防火牆遭入侵　發現疑似中國駭客蹤跡",
@@ -174,27 +201,6 @@
           "source": "科技新報",
           "title": "韓媒：臺美日韓 PHP 防火牆遭入侵，發現疑似中國駭客蹤跡",
           "url": "https://infosecu.technews.tw/2026/10/29/korean-media-taiwan-us-japan-south-korea-php-firewalls-hacked-chinese-hackers-suspected/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "田馥甄當場哭了！直播到一半「心碎談這件事」 鏡頭前突哽咽落淚",
-      "summary": [
-        "自由時報：田馥甄當場哭了！直播到一半「心碎談這件事」 鏡頭前突哽咽落淚",
-        "ETtoday：田馥甄直播一半突然哭了！　為1件事罕見崩潰落淚：太丟臉"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "田馥甄當場哭了！直播到一半「心碎談這件事」 鏡頭前突哽咽落淚",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5623011"
-        },
-        {
-          "source": "ETtoday",
-          "title": "田馥甄直播一半突然哭了！　為1件事罕見崩潰落淚：太丟臉",
-          "url": "https://star.ettoday.net/news/3263091"
         }
       ]
     },
@@ -244,6 +250,38 @@
   "global": [
     {
       "rank": 1,
+      "title": "DoorDash to Buy Rival Instacart in $17 Billion Deal",
+      "summary": [
+        "Bloomberg Tech：DoorDash to Buy Rival Instacart in $17 Billion Deal",
+        "Investing.com：DoorDash strikes $17 billion deal for US rival Instacart in bets on grocery delivery",
+        "Bloomberg Markets：DoorDash to Buy Rival Instacart in $17 Billion Deal"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "DoorDash to Buy Rival Instacart in $17 Billion Deal",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/doordash-to-buy-instacart-in-17-billion-deal"
+        },
+        {
+          "source": "Investing.com",
+          "title": "DoorDash strikes $17 billion deal for US rival Instacart in bets on grocery delivery",
+          "url": "https://www.investing.com/news/stock-market-news/doordash-strikes-17-billion-deal-for-us-rival-instacart-in-bets-on-grocery-delivery-4983482"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "DoorDash to Buy Rival Instacart in $17 Billion Deal",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-29/doordash-to-buy-rival-instacart-in-17-billion-deal-video"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "DoorDash strikes $17 billion deal for US rival Instacart in bets on grocery delivery",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOXEwS0phU05EdnR5ZE1pSW5BYjEzTk1FejVuWGJZVWloYnl4WHJjV09xMGZJYXVXTWxmRFlpdEYzaVNubm8wSFBNall5ZEhabWwzbGVSZWd2WURlRXZPUnpmeXc4dG8xSHQ4a0lOVXpFN1BqZFJvS2hrOG9sNGYtNFVsX3FUZ2kwc3h3RVpuZVJRWUtTUFo5WkdyZ0cyZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "DoorDash to acquire Instacart for $17bn",
       "summary": [
         "Financial Times：DoorDash to acquire Instacart for $17bn",
@@ -275,7 +313,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Christine Lagarde to step down as ECB president in February",
       "summary": [
         "Financial Times：Christine Lagarde to step down as ECB president in February",
@@ -302,55 +340,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "DoorDash to Buy Rival Instacart in $17 Billion Deal",
-      "summary": [
-        "Bloomberg Tech：DoorDash to Buy Rival Instacart in $17 Billion Deal",
-        "Investing.com：DoorDash strikes $17 billion deal for US rival Instacart in bets on grocery delivery",
-        "Bloomberg Markets：DoorDash to Buy Rival Instacart in $17 Billion Deal"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "DoorDash to Buy Rival Instacart in $17 Billion Deal",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-29/doordash-to-buy-instacart-in-17-billion-deal"
-        },
-        {
-          "source": "Investing.com",
-          "title": "DoorDash strikes $17 billion deal for US rival Instacart in bets on grocery delivery",
-          "url": "https://www.investing.com/news/stock-market-news/doordash-strikes-17-billion-deal-for-us-rival-instacart-in-bets-on-grocery-delivery-4983482"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "DoorDash to Buy Rival Instacart in $17 Billion Deal",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-29/doordash-to-buy-rival-instacart-in-17-billion-deal-video"
-        }
-      ]
-    },
-    {
       "rank": 4,
-      "title": "Tech Rally Stalls as Alphabet, Samsung Disappoint",
-      "summary": [
-        "Bloomberg Markets：Tech Rally Stalls as Alphabet, Samsung Disappoint",
-        "Bloomberg Tech：Tech Rally Stalls as Alphabet, Samsung Disappoint"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Tech Rally Stalls as Alphabet, Samsung Disappoint",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-29/the-asia-trade-10-29-2026-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Tech Rally Stalls as Alphabet, Samsung Disappoint",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-29/tech-rally-stalls-as-alphabet-samsung-disappoint-video"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
       "summary": [
         "BBC World：Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
@@ -371,7 +361,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
       "summary": [
         "BBC World：Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
@@ -392,11 +382,11 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Hong Kong leader apologises after devastating fire",
       "summary": [
         "Financial Times：Hong Kong leader apologises after devastating fire",
-        "Bloomberg Markets：Hong Kong leader apologizes over deadly Tai Po blaze"
+        "The Guardian：Hong Kong’s leader apologises for residential fire that killed 168 people"
       ],
       "media_count": 2,
       "links": [
@@ -406,14 +396,14 @@
           "url": "https://www.ft.com/content/7f8eb778-80bc-446a-8e03-4c694bca2240?syn-25a6b1a6=1"
         },
         {
-          "source": "Bloomberg Markets",
-          "title": "Hong Kong leader apologizes over deadly Tai Po blaze",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-29/hong-kong-leader-apologizes-over-deadly-tai-po-blaze-video"
+          "source": "The Guardian",
+          "title": "Hong Kong’s leader apologises for residential fire that killed 168 people",
+          "url": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people"
         }
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "What Wall Street Really Thanks About the AI Trade (Podcast)",
       "summary": [
         "Bloomberg Markets：What Wall Street Really Thanks About the AI Trade (Podcast)",
@@ -434,7 +424,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "香港宏福苑大火報告公開：特首率官員鞠躬道歉，房屋局長請辭",
       "summary": [
         "BBC中文：香港宏福苑大火報告公開：特首率官員鞠躬道歉，房屋局長請辭",
@@ -455,7 +445,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Alphabet spells out more AI capex, China+1 doesn’t add up",
       "summary": [
         "Financial Times：Alphabet spells out more AI capex, China+1 doesn’t add up",
@@ -472,6 +462,27 @@
           "source": "Nikkei Asia",
           "title": "Alphabet spells out more AI capex, China+1 doesn't add up",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMF9RU2lsU1hmSGRuMDdDaDNmZXBnblc3cjRuRnlvVTF2bnhJZmpHc0FIZmRma3d1MzhRUjNrTnlIdkhFcXpEVk9MczIzMkFLc1NpdUVHSG5mcUxZR2VjUnlLbEN5VHJKTkRFci1aNWdyb3RySWNPLTNyUGsybDNQOWlFQUktSF9VcDNmQWU5Y3gwS0k?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "日劇《別班》被指“抹黑中國” 三麗鷗登公告道歉",
+      "summary": [
+        "法廣RFI：日劇《別班》被指“抹黑中國” 三麗鷗登公告道歉",
+        "德國之聲：中國官媒連番炮轟  Hello Kitty母公司也為\"辱華\"道歉"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "日劇《別班》被指“抹黑中國” 三麗鷗登公告道歉",
+          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261029-%E6%97%A5%E5%8A%87-%E5%88%A5%E7%8F%AD-%E8%A2%AB%E6%8C%87-%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9C%8B-%E4%B8%89%E9%BA%97%E9%B7%97%E7%99%BB%E5%85%AC%E5%91%8A%E9%81%93%E6%AD%89"
+        },
+        {
+          "source": "德國之聲",
+          "title": "中國官媒連番炮轟  Hello Kitty母公司也為\"辱華\"道歉",
+          "url": "https://www.dw.com/zh/中国官媒连番炮轰-hello-kitty母公司也为-辱华-道歉/a-79796271?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     }
