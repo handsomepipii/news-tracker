@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 06:50",
+  "updated_at": "2026-10-30 07:46",
   "taiwan": [
     {
       "rank": 1,
@@ -57,6 +57,33 @@
     },
     {
       "rank": 3,
+      "title": "東京銀座噴灑刺激物案30人不適　留學生落網",
+      "summary": [
+        "自由時報：東京銀座噴灑刺激物案30人不適　留學生落網",
+        "經濟日報：東京銀座噴灑刺激物案30人不適　留學生落網",
+        "ETtoday：24歲中國留學生落網！　東京銀座噴防身噴霧30人不適"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "東京銀座噴灑刺激物案30人不適　留學生落網",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623385"
+        },
+        {
+          "source": "經濟日報",
+          "title": "東京銀座噴灑刺激物案30人不適　留學生落網",
+          "url": "https://money.udn.com/money/story/5599/9846039"
+        },
+        {
+          "source": "ETtoday",
+          "title": "24歲中國留學生落網！　東京銀座噴防身噴霧30人不適",
+          "url": "https://www.ettoday.net/news/20261030/3263143.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "歐洲央行決議維持利率2.5%不變",
       "summary": [
         "經濟日報：歐洲央行決議維持利率2.5%不變",
@@ -77,91 +104,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "一週迎3波東北季風「低溫探20度」　北東濕涼",
-      "summary": [
-        "ETtoday：一週迎3波東北季風「低溫探20度」　北東濕涼",
-        "TVBS新聞：天氣/一週天氣3變週五微弱東北季風北東偶雨高溫降白天26~28度下週東北季風再增強北臺灣濕涼有感｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "一週迎3波東北季風「低溫探20度」　北東濕涼",
-          "url": "https://www.ettoday.net/news/20261029/3263030.htm"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "天氣/一週天氣3變週五微弱東北季風北東偶雨高溫降白天26~28度下週東北季風再增強北臺灣濕涼有感｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9waVRuLXZvVjF4VzktZmNHdEZiMUU2QmFXMlRVM2ZKNVp0cjVmdm9rODE1eWVOSlJMRHJIN09uckF5c21JRjBfckN3Qm1Dc2lwWWg2WnJ3?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "有片／水泥車右轉撞雙載機車！後座乘客遭輾亡 夫妻天人永隔",
-      "summary": [
-        "TVBS新聞：有片／水泥車右轉撞雙載機車！後座乘客遭輾亡 夫妻天人永隔",
-        "自由時報：出門雙載天人永隔！小貨車迴轉撞倒夫輾過拖行 妻子骨折目睹悲劇"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "有片／水泥車右轉撞雙載機車！後座乘客遭輾亡 夫妻天人永隔",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TVXpSanI4c3BDV1JsdEFkZjZERWR2Mm1yTmU4cWVWYU9EdG00dnJPU3NJY0x1VElEckFzaUJ3eTBjUWVhcnlSV0N4RUFmRTA?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "出門雙載天人永隔！小貨車迴轉撞倒夫輾過拖行 妻子骨折目睹悲劇",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5623124"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "福斯汽車第三季虧損擴大至 2,100 億，中國交車量大跌四成",
-      "summary": [
-        "科技新報：福斯汽車第三季虧損擴大至 2,100 億，中國交車量大跌四成",
-        "經濟日報：福斯汽車第3季虧損擴大至2100億　中國交車量大跌4成"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "福斯汽車第三季虧損擴大至 2,100 億，中國交車量大跌四成",
-          "url": "https://finance.technews.tw/2026/10/29/volkswagen-third-quarter-loss-widens-210-billion-china-deliveries-plummet-40-percent/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "福斯汽車第3季虧損擴大至2100億　中國交車量大跌4成",
-          "url": "https://money.udn.com/money/story/5599/9845316"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "外資賣超擴大688億！狂砍聯電12萬張、00406A排第二提款機，友達群創華邦電…買賣超前10名一表看",
-      "summary": [
-        "今周刊：外資賣超擴大688億！狂砍聯電12萬張、00406A排第二提款機，友達群創華邦電…買賣超前10名一表看",
-        "鉅亨網：外資倒貨688億元 狂砍聯電12.9萬張 友達、群創也難逃"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "今周刊",
-          "title": "外資賣超擴大688億！狂砍聯電12萬張、00406A排第二提款機，友達群創華邦電…買賣超前10名一表看",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNDUxZWRvNUp0MUU3cG90X1JkVDNlTzdYamNKMGE2SFBrZHFZVDhDUk1sUHNFTnpzQ2hwUFdpZGpGaGh3MkJxeE82X2VjZDgxY1V4ZmRBcUZMbm92akMwMDVnTE93SUhvdDkyVzVHcERwVzRFcHhDeWlXMjU4OXMzUw?oc=5"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "外資倒貨688億元 狂砍聯電12.9萬張 友達、群創也難逃",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XT21BNERGRHBrSmp3elBKRmtoRXhoWkN2SUhjUHZEenA0b3d2SUx3ZTVlVlF4dzlPX1Z3OXVPU2xBbXJRcTQ3bC12NlBobnM?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "黃仁勳身邊有中國美女間諜！紐時爆美方監控內幕 川普早知情卻未行動",
       "summary": [
         "經濟日報：黃仁勳身邊有中國美女間諜！紐時爆美方監控內幕 川普早知情卻未行動",
@@ -182,7 +125,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "紐時：中國女主管與黃仁勳密切往來 美認定情蒐川普知情未行動",
       "summary": [
         "經濟日報：紐時：中國女主管與黃仁勳密切往來 美認定情蒐川普知情未行動",
@@ -203,7 +146,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "義大利偵結李老師遭跟監威脅案 中國僑領被控銜命跨國鎮壓",
       "summary": [
         "經濟日報：義大利偵結李老師遭跟監威脅案 中國僑領被控銜命跨國鎮壓",
@@ -220,6 +163,69 @@
           "source": "自由時報",
           "title": "中國維權人士李老師遭跟監、恐嚇案 義檢方控中國僑領銜命跨國鎮壓",
           "url": "https://news.ltn.com.tw/news/politics/paper/1776501"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "田馥甄直播一半突然哭了！　為1件事罕見崩潰落淚：太丟臉",
+      "summary": [
+        "ETtoday：田馥甄直播一半突然哭了！　為1件事罕見崩潰落淚：太丟臉",
+        "中時新聞：田馥甄直播到一半哭了！為「這件事」罕見落淚：太丟臉了- 娛樂"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "田馥甄直播一半突然哭了！　為1件事罕見崩潰落淚：太丟臉",
+          "url": "https://star.ettoday.net/news/3263091"
+        },
+        {
+          "source": "中時新聞",
+          "title": "田馥甄直播到一半哭了！為「這件事」罕見落淚：太丟臉了- 娛樂",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zUjgwdGY1TzljZjE5TWd6UkhkRGdXVHlpRmZEQm9YempXNmlralZyWmxtSGZPR1dJSlF5VUE2WFk5Um5rM2ZEWUxnUTJvd1lGdC1vNlJiaHptckZXa3dZZ0FfeDVhMjZ6RXlrYWNB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "土耳其「精靈煙囪」觀光熱區巖柱崩塌 2人遭砸死",
+      "summary": [
+        "自由時報：土耳其「精靈煙囪」觀光熱區巖柱崩塌 2人遭砸死",
+        "經濟日報：土耳其中部「精靈煙囪」觀光熱區巖柱崩塌 2人死亡"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "土耳其「精靈煙囪」觀光熱區巖柱崩塌 2人遭砸死",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623341"
+        },
+        {
+          "source": "經濟日報",
+          "title": "土耳其中部「精靈煙囪」觀光熱區巖柱崩塌 2人死亡",
+          "url": "https://money.udn.com/money/story/5599/9845885"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "巴基斯坦一度對臺關閉領空　歐盟強調維護飛越自由",
+      "summary": [
+        "經濟日報：巴基斯坦一度對臺關閉領空　歐盟強調維護飛越自由",
+        "ETtoday：巴基斯坦一度拒臺進出領空　歐盟說話了「支援維持臺海現狀」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "巴基斯坦一度對臺關閉領空　歐盟強調維護飛越自由",
+          "url": "https://money.udn.com/money/story/5599/9845860"
+        },
+        {
+          "source": "ETtoday",
+          "title": "巴基斯坦一度拒臺進出領空　歐盟說話了「支援維持臺海現狀」",
+          "url": "https://www.ettoday.net/news/20261030/3263121.htm"
         }
       ]
     }
@@ -291,33 +297,6 @@
     },
     {
       "rank": 3,
-      "title": "Christine Lagarde to step down as ECB president in February",
-      "summary": [
-        "Financial Times：Christine Lagarde to step down as ECB president in February",
-        "Bloomberg Markets：Lagarde to Step Down as ECB President on Feb. 7",
-        "CNBC：President of the European Central Bank Christine Lagarde to step down in February"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "Christine Lagarde to step down as ECB president in February",
-          "url": "https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "Lagarde to Step Down as ECB President on Feb. 7",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-29/lagarde-to-step-down-as-ecb-president-on-feb-7-video"
-        },
-        {
-          "source": "CNBC",
-          "title": "President of the European Central Bank Christine Lagarde to step down in February",
-          "url": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Microsoft Looks to Raise at Least $25 Billion From US Bond Sale",
       "summary": [
         "Bloomberg Tech：Microsoft Looks to Raise at Least $25 Billion From US Bond Sale",
@@ -344,28 +323,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "日劇《別班》被指“抹黑中國” 三麗鷗登公告道歉",
-      "summary": [
-        "法廣RFI：日劇《別班》被指“抹黑中國” 三麗鷗登公告道歉",
-        "德國之聲：中國官媒連番炮轟  Hello Kitty母公司也為\"辱華\"道歉"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "日劇《別班》被指“抹黑中國” 三麗鷗登公告道歉",
-          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261029-%E6%97%A5%E5%8A%87-%E5%88%A5%E7%8F%AD-%E8%A2%AB%E6%8C%87-%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9C%8B-%E4%B8%89%E9%BA%97%E9%B7%97%E7%99%BB%E5%85%AC%E5%91%8A%E9%81%93%E6%AD%89"
-        },
-        {
-          "source": "德國之聲",
-          "title": "中國官媒連番炮轟  Hello Kitty母公司也為\"辱華\"道歉",
-          "url": "https://www.dw.com/zh/中国官媒连番炮轰-hello-kitty母公司也为-辱华-道歉/a-79796271?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
       "summary": [
         "CNBC：Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
@@ -386,7 +344,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "ECB holds rates as Lagarde announces early departure",
       "summary": [
         "Financial Times：ECB holds rates as Lagarde announces early departure",
@@ -407,7 +365,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "Kushner’s Thrive Holdings to Buy ADT for $7.6 Billion in Cash",
       "summary": [
         "Bloomberg Tech：Kushner’s Thrive Holdings to Buy ADT for $7.6 Billion in Cash",
@@ -428,7 +386,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Nvidia CEO Jensen Huang may have been the target of a spy plot through 'Chinese intelligence asset,' report claims",
       "summary": [
         "Tom's Hardware：Nvidia CEO Jensen Huang may have been the target of a spy plot through 'Chinese intelligence asset,' report claims",
@@ -449,7 +407,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Aon CEO warns AI data center insurance risks could threaten financing",
       "summary": [
         "CNBC：Aon CEO warns AI data center insurance risks could threaten financing",
@@ -466,6 +424,48 @@
           "source": "Investing.com",
           "title": "Aon CEO warns AI data center carry insurance risks",
           "url": "https://www.investing.com/news/stock-market-news/aon-ceo-warns-ai-data-center-carry-insurance-risks-4984832"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Polymarket reports outage on international exchange, halts trading",
+      "summary": [
+        "CNBC：Polymarket reports outage on international exchange, halts trading",
+        "Investing.com：Polymarket reports major outage, suspends trading actions"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "Polymarket reports outage on international exchange, halts trading",
+          "url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Polymarket reports major outage, suspends trading actions",
+          "url": "https://www.investing.com/news/stock-market-news/polymarket-reports-major-outage-suspends-trading-actions-4984887"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Polymarket Trading Halted After Reports of Stolen Funds",
+      "summary": [
+        "Bloomberg Tech：Polymarket Trading Halted After Reports of Stolen Funds",
+        "Wired：Polymarket Halted International Trading After Hackers Drained Accounts"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Polymarket Trading Halted After Reports of Stolen Funds",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/polymarket-halts-trading-after-reports-of-customers-losing-money"
+        },
+        {
+          "source": "Wired",
+          "title": "Polymarket Halted International Trading After Hackers Drained Accounts",
+          "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/"
         }
       ]
     }
