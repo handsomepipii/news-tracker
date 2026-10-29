@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 22:15",
+  "updated_at": "2026-10-29 23:09",
   "taiwan": [
     {
       "rank": 1,
@@ -35,33 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "主攻安全防禦，Google 發表 Gemini 4 Carbon 重新整理基準測試紀錄",
-      "summary": [
-        "科技新報：主攻安全防禦，Google 發表 Gemini 4 Carbon 重新整理基準測試紀錄",
-        "INSIDE硬塞：新高階模型！Google 發表 Gemini 4 Carbon，主打資安與長時間任務，先開放給資安防禦者",
-        "自由時報：Google 推 Gemini 4 Carbon 奪 AI 評測榜首，強化資安漏洞偵測"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "主攻安全防禦，Google 發表 Gemini 4 Carbon 重新整理基準測試紀錄",
-          "url": "https://infosecu.technews.tw/2026/10/29/google-introduces-gemini-4-carbon/"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "新高階模型！Google 發表 Gemini 4 Carbon，主打資安與長時間任務，先開放給資安防禦者",
-          "url": "https://www.inside.com.tw/article/42758-google-gemini-4-carbon-cybersecurity-long-horizon-fairwind"
-        },
-        {
-          "source": "自由時報",
-          "title": "Google 推 Gemini 4 Carbon 奪 AI 評測榜首，強化資安漏洞偵測",
-          "url": "https://news.ltn.com.tw/news/aichannel/breakingnews/5622513"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "路透社：彭博等3家公司同意付費真實社群　搶先取得川普貼文",
       "summary": [
         "經濟日報：路透社：彭博等3家公司同意付費真實社群　搶先取得川普貼文",
@@ -88,133 +61,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "政面交鋒3-3》接棒侯友宜端牛肉政見 李四川催生樹林板橋雙蛋、建AI廊帶",
-      "summary": [
-        "自由時報：政面交鋒3-3》接棒侯友宜端牛肉政見 李四川催生樹林板橋雙蛋、建AI廊帶",
-        "中時新聞：楊繡惠動念請辭《綜藝新時代》！李雅英苦吐「被欺負」真相曝光"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "政面交鋒3-3》接棒侯友宜端牛肉政見 李四川催生樹林板橋雙蛋、建AI廊帶",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5622127"
-        },
-        {
-          "source": "中時新聞",
-          "title": "楊繡惠動念請辭《綜藝新時代》！李雅英苦吐「被欺負」真相曝光",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCUDhNQlpURFdJUmRUZE0xMmcxb0MtZEtPRmh2aHozS25XZ1ZNQi1YZllYb2VFdnJtYzZhR21MWlFqS1dZMkhZcTgzVUpmUW15N3R4OFU0NzVYUG93cXB0QVM2WjA2cEpaeUNlVmx3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "今晨急凍剩16度！ 賈新興：明起變天三波東北季風接力",
-      "summary": [
-        "自由時報：今晨急凍剩16度！ 賈新興：明起變天三波東北季風接力",
-        "今周刊：天氣／低溫準備下探17度，「這天」轉濕冷！冷空氣開始活躍、煙花颱風最新路徑會撲臺？10日報先看"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "今晨急凍剩16度！ 賈新興：明起變天三波東北季風接力",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5622237"
-        },
-        {
-          "source": "今周刊",
-          "title": "天氣／低溫準備下探17度，「這天」轉濕冷！冷空氣開始活躍、煙花颱風最新路徑會撲臺？10日報先看",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeFFROExQcFFaTGRSTUVPaDhrN2xYSE5DS3VhRkJKbkwwWGl1QThvTHdBb2x1eWpvd0p1TGFwWEpuY0hfaUFldm9RWklHRjVWUzJKZXktVER5X0JYUVpESHJkaWUzUmN1V0I4OU9iSlc3ZGdsblpqcjBtT1pzQnZURg?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Anthropic 研究：專業分析師 86% 的決策跟著 AI 走，卻幾乎沒人察覺",
-      "summary": [
-        "科技新報：Anthropic 研究：專業分析師 86% 的決策跟著 AI 走，卻幾乎沒人察覺",
-        "INSIDE硬塞：Anthropic 實驗 50 位分析師使用 Claude Code，86% 分析決策跟著 AI 暗中設定的立場走"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "Anthropic 研究：專業分析師 86% 的決策跟著 AI 走，卻幾乎沒人察覺",
-          "url": "https://technews.tw/2026/10/29/ai-secretly-manipulating-human-decisions-truth/"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "Anthropic 實驗 50 位分析師使用 Claude Code，86% 分析決策跟著 AI 暗中設定的立場走",
-          "url": "https://www.inside.com.tw/article/42764-anthropic-ai-agents-expert-judgment-study"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "輝達推出免費開源語音模型 Nemotron 3.5 Transcribe，轉錄、翻譯、辨識語者一次搞定",
-      "summary": [
-        "科技新報：輝達推出免費開源語音模型 Nemotron 3.5 Transcribe，轉錄、翻譯、辨識語者一次搞定",
-        "iThome：Nvidia釋出Nemotron 3.5語音模型，整合轉錄、翻譯與講者辨識"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "輝達推出免費開源語音模型 Nemotron 3.5 Transcribe，轉錄、翻譯、辨識語者一次搞定",
-          "url": "https://technews.tw/2026/10/29/nvidia-releases-new-open-transcription-model/"
-        },
-        {
-          "source": "iThome",
-          "title": "Nvidia釋出Nemotron 3.5語音模型，整合轉錄、翻譯與講者辨識",
-          "url": "https://www.ithome.com.tw/news/180065"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "駭客宣稱竊走美國土安全部員工資料超過4萬筆",
-      "summary": [
-        "iThome：駭客宣稱竊走美國土安全部員工資料超過4萬筆",
-        "經濟日報：美國土安全部遭駭　逾4.1萬員工個資外洩"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "駭客宣稱竊走美國土安全部員工資料超過4萬筆",
-          "url": "https://www.ithome.com.tw/news/180054"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美國土安全部遭駭　逾4.1萬員工個資外洩",
-          "url": "https://money.udn.com/money/story/5599/9844373"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "10月29日掛牌上市》009832 全臺首檔美國黃金礦業ETF",
-      "summary": [
-        "工商時報：10月29日掛牌上市》009832 全臺首檔美國黃金礦業ETF",
-        "自由時報：全臺首檔「美國黃金礦業ETF」今掛牌  走勢逆勢抗跌受矚目"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "10月29日掛牌上市》009832 全臺首檔美國黃金礦業ETF",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMQ05tQW42clRVVVpUQ05iTEdPQy15R1RmekNMWXlnMmlFZ1psMjE4UDZUZjhaNGtMODNUek9pN2JNVC11b2NnS1lLUlF2X2U3OWpRSzVSRVZaOE4wRVVF?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "全臺首檔「美國黃金礦業ETF」今掛牌  走勢逆勢抗跌受矚目",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5622421"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 3,
       "title": "揪心！臺中消防分隊長車禍命危 救護員驚「是同仁」集氣祈福",
       "summary": [
         "自由時報：揪心！臺中消防分隊長車禍命危 救護員驚「是同仁」集氣祈福",
@@ -231,6 +78,153 @@
           "source": "ETtoday",
           "title": "消防分隊長被撞命危！救護人員驚「是我長官」　車禍瞬間畫面曝",
           "url": "https://www.ettoday.net/news/20261029/3262663.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "被趙少康爆多次羞辱侯友宜　柯文哲酸提油救火：民進黨派來的？",
+      "summary": [
+        "ETtoday：被趙少康爆多次羞辱侯友宜　柯文哲酸提油救火：民進黨派來的？",
+        "風傳媒：酸趙少康是民進黨派來奸細！柯文哲曝藍白合「洗臉侯友宜」真相：趙在提油救火 | 李瑋萱 | 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "被趙少康爆多次羞辱侯友宜　柯文哲酸提油救火：民進黨派來的？",
+          "url": "https://www.ettoday.net/news/20261029/3262687.htm"
+        },
+        {
+          "source": "風傳媒",
+          "title": "酸趙少康是民進黨派來奸細！柯文哲曝藍白合「洗臉侯友宜」真相：趙在提油救火 | 李瑋萱 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wMEw0MWR2Vkw1ekhqcmo0Q2ZGX25CNGpHUzJvM1JGSzZJUTJON21RZzVUQkxwbTNLU3c3ZlVSaVhRWVJyaHlJR05idzNkUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "西班牙鐵路發生慘劇！兩列車相撞釀64死，同路線一年內二度重大事故 | 李靖棠 | 新聞",
+      "summary": [
+        "風傳媒：西班牙鐵路發生慘劇！兩列車相撞釀64死，同路線一年內二度重大事故 | 李靖棠 | 新聞",
+        "公視新聞：西班牙今年第2起重大高鐵事故 控制中心錯放列車釀追撞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "西班牙鐵路發生慘劇！兩列車相撞釀64死，同路線一年內二度重大事故 | 李靖棠 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPTGtQNE5maU44Vi02ODJCdTREMWJnWXQ3YUEybDdicEk3QlBGVjlJUmlPbkYwdkU4YmdGa0dpOHRyYmV6ZEEzYjQ3cWduUQ?oc=5"
+        },
+        {
+          "source": "公視新聞",
+          "title": "西班牙今年第2起重大高鐵事故 控制中心錯放列車釀追撞",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pZEpzamFNRkhlNjVpa0RBd05LY1BTMU53ZFV6bDQ1V0lLT2o1M0dmNDJMYk9Hc2M1b3BBRS0xUDhuckdlU1o2SW9DMXhKaWc?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "AI 需求爆發，三星電子第三季營業利益大增 783% 創新高",
+      "summary": [
+        "科技新報：AI 需求爆發，三星電子第三季營業利益大增 783% 創新高",
+        "經濟日報：AI需求爆發　三星電子第3季營業利益大增783%創新高"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "AI 需求爆發，三星電子第三季營業利益大增 783% 創新高",
+          "url": "https://finance.technews.tw/2026/10/29/samsung-electronics-3q26-earnings-conference-call/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "AI需求爆發　三星電子第3季營業利益大增783%創新高",
+          "url": "https://money.udn.com/money/story/5599/9844110"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "日本晶片裝置銷售旺  首破「6千億」、重新整理歷史新高",
+      "summary": [
+        "科技新報：日本晶片裝置銷售旺  首破「6千億」、重新整理歷史新高",
+        "MoneyDJ理財網：日本晶片裝置銷售旺首破\"6千億\"、重新整理歷史新高- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "日本晶片裝置銷售旺  首破「6千億」、重新整理歷史新高",
+          "url": "https://technews.tw/2026/10/29/japan-chip-equipment-sales-top-600-billion-yen-for-the-first-time/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "日本晶片裝置銷售旺首破\"6千億\"、重新整理歷史新高- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWdhZDdESzBhZG1aT0VkOExfT19hMFJrX0hEUzllMzFHcmg5U2tfdzh1cjdyUjRZTXFOTXZjTU41NXFVTDFLSy01akpZMUZ5c3pxc3JVTmloRmFFLWJYeUh1Y2dVclFybEtXazR5eGE3QUtScEJOUFJsZGE0T3F3OTRvTFItc3pMcHV5cWhKUGVMQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "非洲首富擬投資埃及逾百億美元 海灣金援外新出路",
+      "summary": [
+        "經濟日報：非洲首富擬投資埃及逾百億美元 海灣金援外新出路",
+        "科技新報：非洲首富擬投資埃及逾百億美元，海灣金援外新出路"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "非洲首富擬投資埃及逾百億美元 海灣金援外新出路",
+          "url": "https://money.udn.com/money/story/5599/9844278"
+        },
+        {
+          "source": "科技新報",
+          "title": "非洲首富擬投資埃及逾百億美元，海灣金援外新出路",
+          "url": "https://finance.technews.tw/2026/10/29/africas-richest-man-invests-10-billion-egypt-new-gulf-aid-alternative/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "俄發展自有衛星網　普丁讚馬斯克「確實是天才」",
+      "summary": [
+        "經濟日報：俄發展自有衛星網　普丁讚馬斯克「確實是天才」",
+        "科技新報：俄發展自有衛星網，普丁讚馬斯克「確實是天才」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "俄發展自有衛星網　普丁讚馬斯克「確實是天才」",
+          "url": "https://money.udn.com/money/story/5599/9844174"
+        },
+        {
+          "source": "科技新報",
+          "title": "俄發展自有衛星網，普丁讚馬斯克「確實是天才」",
+          "url": "https://technews.tw/2026/10/29/russia-develops-own-satellite-network-putin-praises-musk-genius/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美核設施驚傳火警　當局啟動緊急應變機制",
+      "summary": [
+        "經濟日報：美核設施驚傳火警　當局啟動緊急應變機制",
+        "TVBS新聞：美核設施爆火警！放射物質外洩 進入緊急狀態"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美核設施驚傳火警　當局啟動緊急應變機制",
+          "url": "https://money.udn.com/money/story/5599/9844086"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "美核設施爆火警！放射物質外洩 進入緊急狀態",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HZWxHSkRvTUVROWx2VjJ1RXRLNFhocld5R1QzcDFoaUhtUDdWV0NlRnBIVmJTUk5saGRwdExSMlhPZjM2MTVjVTJYVnlUMHc?oc=5"
         }
       ]
     }
