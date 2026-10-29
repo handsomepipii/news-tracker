@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 12:00",
+  "updated_at": "2026-10-29 12:57",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高",
+      "summary": [
+        "iThome：Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高",
+        "科技新報：主攻安全防禦，Google 發表 Gemini 4 Carbon 重新整理基準測試紀錄",
+        "INSIDE硬塞：新高階模型！Google 發表 Gemini 4 Carbon，主打資安與長時間任務，先開放給資安防禦者"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高",
+          "url": "https://www.ithome.com.tw/news/180049"
+        },
+        {
+          "source": "科技新報",
+          "title": "主攻安全防禦，Google 發表 Gemini 4 Carbon 重新整理基準測試紀錄",
+          "url": "https://infosecu.technews.tw/2026/10/29/google-introduces-gemini-4-carbon/"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "新高階模型！Google 發表 Gemini 4 Carbon，主打資安與長時間任務，先開放給資安防禦者",
+          "url": "https://www.inside.com.tw/article/42758-google-gemini-4-carbon-cybersecurity-long-horizon-fairwind"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "美期中選舉前　聯準會利率按兵不動",
       "summary": [
         "自由時報：美期中選舉前　聯準會利率按兵不動",
@@ -50,7 +77,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "佳格、統一燕麥飲熱銷- 日報",
       "summary": [
         "工商時報：佳格、統一燕麥飲熱銷- 日報",
@@ -71,7 +98,28 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "政策急轉彎！巴基斯坦解除臺灣航班禁飛令 華航長榮獲準通行至明年3月",
+      "summary": [
+        "自由時報：政策急轉彎！巴基斯坦解除臺灣航班禁飛令 華航長榮獲準通行至明年3月",
+        "鉅亨網：巴基斯坦髮夾彎！彭博：改口允許臺灣航空公司飛越領空"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "政策急轉彎！巴基斯坦解除臺灣航班禁飛令 華航長榮獲準通行至明年3月",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5622051"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "巴基斯坦髮夾彎！彭博：改口允許臺灣航空公司飛越領空",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GNlF6QUQzNXN0ZEhpUmF4SlF1MVJTNy1PMWhCWmdQZVMyaEt5VXl5TjlmRWc4M01BeVhjbi1vYVpPbUFzUGdSVjJ1MWxsRkE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "市場靜待聯準會利率決策　歐股多收高",
       "summary": [
         "自由時報：市場靜待聯準會利率決策　歐股多收高",
@@ -92,7 +140,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "中東戰事加劇市場疑慮　歐洲天然氣價格升破100歐元",
       "summary": [
         "自由時報：中東戰事加劇市場疑慮　歐洲天然氣價格升破100歐元",
@@ -113,7 +161,28 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "title": "巴基斯坦挺一中禁臺航班飛越領空　外交部痛斥：將空域政治化",
+      "summary": [
+        "ETtoday：巴基斯坦挺一中禁臺航班飛越領空　外交部痛斥：將空域政治化",
+        "經濟日報：巴基斯坦對臺禁飛令急轉彎！長榮客機首架飛越領空 其他航班仍繞道"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "巴基斯坦挺一中禁臺航班飛越領空　外交部痛斥：將空域政治化",
+          "url": "https://www.ettoday.net/news/20261028/3262515.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "巴基斯坦對臺禁飛令急轉彎！長榮客機首架飛越領空 其他航班仍繞道",
+          "url": "https://money.udn.com/money/story/5599/9844365"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "蘋果首款觸控MacBook Pro來了！匯入動態島　近10萬元起跳",
       "summary": [
         "自由時報：蘋果首款觸控MacBook Pro來了！匯入動態島　近10萬元起跳",
@@ -134,7 +203,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑",
       "summary": [
         "自由時報：人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑",
@@ -151,69 +220,6 @@
           "source": "經濟日報",
           "title": "人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑",
           "url": "https://money.udn.com/money/story/5599/9843543"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "川普德州造勢　暗示委內瑞拉可能成美國第51州",
-      "summary": [
-        "自由時報：川普德州造勢　暗示委內瑞拉可能成美國第51州",
-        "經濟日報：川普德州造勢　暗示委內瑞拉可能成美國第51州"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "川普德州造勢　暗示委內瑞拉可能成美國第51州",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5622078"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普德州造勢　暗示委內瑞拉可能成美國第51州",
-          "url": "https://money.udn.com/money/story/5599/9843540"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Apple 全新可觸控 MacBook Pro 發表，發光蘋果標誌也跟著回歸",
-      "summary": [
-        "INSIDE硬塞：Apple 全新可觸控 MacBook Pro 發表，發光蘋果標誌也跟著回歸",
-        "自由時報：蘋果經典發光 Logo 睽違 10 年回歸！觸控 MacBook Pro 率先搭載"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "INSIDE硬塞",
-          "title": "Apple 全新可觸控 MacBook Pro 發表，發光蘋果標誌也跟著回歸",
-          "url": "https://www.inside.com.tw/article/42757-apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display"
-        },
-        {
-          "source": "自由時報",
-          "title": "蘋果經典發光 Logo 睽違 10 年回歸！觸控 MacBook Pro 率先搭載",
-          "url": "https://3c.ltn.com.tw/news/68105"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "西班牙高鐵列車相撞 2車廂脫軌已釀39死｜20261028 公視晚間新聞 ｜ 公視新聞 PNN",
-      "summary": [
-        "公視新聞：西班牙高鐵列車相撞 2車廂脫軌已釀39死｜20261028 公視晚間新聞 ｜ 公視新聞 PNN",
-        "風傳媒：西班牙鐵路發生慘劇！兩列車相撞釀64死，同路線一年內二度重大事故 | 李靖棠 | 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公視新聞",
-          "title": "西班牙高鐵列車相撞 2車廂脫軌已釀39死｜20261028 公視晚間新聞 ｜ 公視新聞 PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zVEZTV1NoRDhhRUNxRk1uQ1JoR19ucXIxU1J2NEM0MTJrRTF2bi1yVnhqQ184TElsazRZQ2NDOGNNVVloRTJaMjZ1WQ?oc=5"
-        },
-        {
-          "source": "風傳媒",
-          "title": "西班牙鐵路發生慘劇！兩列車相撞釀64死，同路線一年內二度重大事故 | 李靖棠 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPTGtQNE5maU44Vi02ODJCdTREMWJnWXQ3YUEybDdicEk3QlBGVjlJUmlPbkYwdkU4YmdGa0dpOHRyYmV6ZEEzYjQ3cWduUQ?oc=5"
         }
       ]
     }
