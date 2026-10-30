@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 09:51",
+  "updated_at": "2026-10-30 11:00",
   "taiwan": [
     {
       "rank": 1,
@@ -104,6 +104,27 @@
     },
     {
       "rank": 5,
+      "title": "快訊／佀廣洋疑涉賄選！檢方諭知12萬交保　被問委屈嗎全程不語",
+      "summary": [
+        "ETtoday：快訊／佀廣洋疑涉賄選！檢方諭知12萬交保　被問委屈嗎全程不語",
+        "自由時報：棒球》桃園亞洲職棒交流賽  劉致榮、安佑鎮參戰！"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／佀廣洋疑涉賄選！檢方諭知12萬交保　被問委屈嗎全程不語",
+          "url": "https://www.ettoday.net/news/20261029/3263095.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "棒球》桃園亞洲職棒交流賽  劉致榮、安佑鎮參戰！",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5623570"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "黃仁勳身邊出現中國美女間諜！紐時曝「美方監控」內幕",
       "summary": [
         "ETtoday：黃仁勳身邊出現中國美女間諜！紐時曝「美方監控」內幕",
@@ -124,7 +145,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "土耳其「精靈煙囪」觀光熱區巖柱崩塌 2人遭砸死",
       "summary": [
         "自由時報：土耳其「精靈煙囪」觀光熱區巖柱崩塌 2人遭砸死",
@@ -145,7 +166,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "巴基斯坦一度對臺關閉領空　歐盟強調維護飛越自由",
       "summary": [
         "經濟日報：巴基斯坦一度對臺關閉領空　歐盟強調維護飛越自由",
@@ -166,7 +187,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "臺南火車站鋼琴不能隨便彈？臺鐵突貼公告 市府協調：演奏免申請",
       "summary": [
         "自由時報：臺南火車站鋼琴不能隨便彈？臺鐵突貼公告 市府協調：演奏免申請",
@@ -187,7 +208,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "法國萬聖夜將迎來新一波示威　內政部長要求加強維安部署",
       "summary": [
         "自由時報：法國萬聖夜將迎來新一波示威　內政部長要求加強維安部署",
@@ -204,27 +225,6 @@
           "source": "經濟日報",
           "title": "法國萬聖夜將迎來新一波示威　內政部長要求加強維安部署",
           "url": "https://money.udn.com/money/story/5599/9845999"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "日本議員揭露李琴峰隱私　東京地院勒令賠償",
-      "summary": [
-        "自由時報：日本議員揭露李琴峰隱私　東京地院勒令賠償",
-        "經濟日報：日本議員揭露李琴峰隱私　東京地院勒令賠償"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "日本議員揭露李琴峰隱私　東京地院勒令賠償",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623374"
-        },
-        {
-          "source": "經濟日報",
-          "title": "日本議員揭露李琴峰隱私　東京地院勒令賠償",
-          "url": "https://money.udn.com/money/story/5599/9845997"
         }
       ]
     }
@@ -259,80 +259,17 @@
     },
     {
       "rank": 2,
-      "title": "ECB holds rates as Lagarde announces early departure",
+      "title": "Nvidia CEO reportedly targeted by Chinese spy",
       "summary": [
-        "Financial Times：ECB holds rates as Lagarde announces early departure",
-        "Bloomberg Markets：ECB Holds Rates as Lagarde Announces Early Resignation"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "ECB holds rates as Lagarde announces early departure",
-          "url": "https://www.ft.com/content/c7c8c7b4-eab7-4ffc-a6bf-f4f79358aa00"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "ECB Holds Rates as Lagarde Announces Early Resignation",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-29/ecb-holds-rates-as-lagarde-announces-early-resignation-video"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Kushner’s Thrive Holdings to Buy ADT for $7.6 Billion in Cash",
-      "summary": [
-        "Bloomberg Tech：Kushner’s Thrive Holdings to Buy ADT for $7.6 Billion in Cash",
-        "The Verge：Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Kushner’s Thrive Holdings to Buy ADT for $7.6 Billion in Cash",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-29/kushner-s-thrive-holdings-to-buy-adt-for-7-6-billion-in-cash"
-        },
-        {
-          "source": "The Verge",
-          "title": "Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion",
-          "url": "https://www.theverge.com/tech/1022295/joshua-kushner-thrive-holdings-adt-acquisition"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "DoorDash acquires Instacart for $17 billion, doubling down on hyper-local delivery",
-      "summary": [
-        "Yahoo Finance：DoorDash acquires Instacart for $17 billion, doubling down on hyper-local delivery",
-        "TechCrunch：DoorDash to acquire Instacart for $17B"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "DoorDash acquires Instacart for $17 billion, doubling down on hyper-local delivery",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb1EzOEQzaEN2LUVIalowbG1HNGFDMElhSS12X1ZTZk1aSTNvSUl4TEdvVTNodlJXYjFTWHFoV3pjUXhIMkktQkVmb0p3ZGUtdURUeDVCTXkxNXJXdjNmZXJZNmJ1TW94RHROalZZZE1VdC1Fcm5fcFAyMHVvNlM4dDFVNEpoQURVNWpyNERtVkJOaGVpakNydkdodnVFTTZ4VWlPMV9uV2RlWHR1UDZHQzM1S0s5M1RZQUR3X3ZpQko1RGtFV1RvdFg2cTVWQy1pTGFnQllLUE44WGxl?oc=5"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "DoorDash to acquire Instacart for $17B",
-          "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Nvidia CEO Jensen Huang may have been the target of a spy plot through 'Chinese intelligence asset,' report claims",
-      "summary": [
-        "Tom's Hardware：Nvidia CEO Jensen Huang may have been the target of a spy plot through 'Chinese intelligence asset,' report claims",
+        "The Guardian：Nvidia CEO reportedly targeted by Chinese spy",
         "TechCrunch：U.S. investigated Chinese spy plot aimed at Nvidia CEO"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Tom's Hardware",
-          "title": "Nvidia CEO Jensen Huang may have been the target of a spy plot through 'Chinese intelligence asset,' report claims",
-          "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-spy-plot-through-chinese-intelligence-asset-report-claims-exec-from-firm-under-investigation-for-smuggling-banned-ai-chips-to-china-accused-of-being-a-spy-was-also-feeding-information-to-beijing"
+          "source": "The Guardian",
+          "title": "Nvidia CEO reportedly targeted by Chinese spy",
+          "url": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy"
         },
         {
           "source": "TechCrunch",
@@ -342,7 +279,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 3,
       "title": "DoorDash to Buy Rival Instacart in $17 Billion Deal",
       "summary": [
         "Bloomberg Markets：DoorDash to Buy Rival Instacart in $17 Billion Deal",
@@ -363,7 +300,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "Aon CEO warns AI data center insurance risks could threaten financing",
       "summary": [
         "CNBC：Aon CEO warns AI data center insurance risks could threaten financing",
@@ -384,7 +321,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "Polymarket reports outage on international exchange, halts trading",
       "summary": [
         "CNBC：Polymarket reports outage on international exchange, halts trading",
@@ -405,7 +342,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "Polymarket Trading Halted After Reports of Stolen Funds",
       "summary": [
         "Bloomberg Tech：Polymarket Trading Halted After Reports of Stolen Funds",
@@ -426,7 +363,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "GM to pay $220 million to resolve claims it sold driving habits data",
       "summary": [
         "The Verge：GM to pay $220 million to resolve claims it sold driving habits data",
@@ -443,6 +380,69 @@
           "source": "TechCrunch",
           "title": "GM reaches $220M settlement over selling drivers’ private data",
           "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "The R2 SUV is already Rivian’s best-selling vehicle",
+      "summary": [
+        "TechCrunch：The R2 SUV is already Rivian’s best-selling vehicle",
+        "The Verge：Rivian’s R2 is officially its best-selling vehicle"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "The R2 SUV is already Rivian’s best-selling vehicle",
+          "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/"
+        },
+        {
+          "source": "The Verge",
+          "title": "Rivian’s R2 is officially its best-selling vehicle",
+          "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Patrick Stewart has died at age 86",
+      "summary": [
+        "The Verge：Patrick Stewart has died at age 86",
+        "Wccftech：Sir Patrick Stewart dies aged 86"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "Patrick Stewart has died at age 86",
+          "url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death"
+        },
+        {
+          "source": "Wccftech",
+          "title": "Sir Patrick Stewart dies aged 86",
+          "url": "https://wccftech.com/sir-patrick-stewart-dies-aged-86/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國中期選舉：一個被削弱的選舉程式",
+      "summary": [
+        "法廣RFI：美國中期選舉：一個被削弱的選舉程式",
+        "BBC中文：美國中期選舉：選舉有何影響、為何重要？七個關鍵問題解析"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "美國中期選舉：一個被削弱的選舉程式",
+          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261030-%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E4%B8%80%E5%80%8B%E8%A2%AB%E5%89%8A%E5%BC%B1%E7%9A%84%E9%81%B8%E8%88%89%E9%80%B2%E7%A8%8B"
+        },
+        {
+          "source": "BBC中文",
+          "title": "美國中期選舉：選舉有何影響、為何重要？七個關鍵問題解析",
+          "url": "https://www.bbc.com/zhongwen/articles/cmx2qg1nn1wlo/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
