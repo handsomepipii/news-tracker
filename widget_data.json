@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 03:06",
+  "updated_at": "2026-10-31 03:59",
   "taiwan": [
     {
       "rank": 1,
@@ -253,6 +253,27 @@
     },
     {
       "rank": 2,
+      "title": "Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist",
+      "summary": [
+        "Bloomberg Tech：Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist",
+        "CNBC：Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-30/binance-suffers-6-3-bln-hack-in-crypto-s-biggest-heist-video"
+        },
+        {
+          "source": "CNBC",
+          "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
+          "url": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Nasdaq futures tumble as Amazon, Intel results deepen AI spending woes",
       "summary": [
         "Investing.com：Nasdaq futures tumble as Amazon, Intel results deepen AI spending woes",
@@ -273,7 +294,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "NatWest shares fall as impairments nearly double, UK bank surcharge doubles",
       "summary": [
         "Investing.com：NatWest shares fall as impairments nearly double, UK bank surcharge doubles",
@@ -294,7 +315,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea",
       "summary": [
         "WSJ Markets：Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea",
@@ -315,7 +336,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Intel plummets over 28% as weak forecast overshadows earnings beat",
       "summary": [
         "Investing.com：Intel plummets over 28% as weak forecast overshadows earnings beat",
@@ -336,7 +357,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Amazon Taps $80 Billion Supplier Loan Facility to Help Fund AI",
       "summary": [
         "Bloomberg Tech：Amazon Taps $80 Billion Supplier Loan Facility to Help Fund AI",
@@ -357,7 +378,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
       "summary": [
         "CNBC：Class action lawsuit blames Trump officials for student loan forgiveness delays",
@@ -378,7 +399,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "CD&R pursues buyout of $40 billion payments processor Global Payments, FT reports",
       "summary": [
         "Investing.com：CD&R pursues buyout of $40 billion payments processor Global Payments, FT reports",
@@ -395,21 +416,6 @@
           "source": "Financial Times",
           "title": "CD&R pursues buyout of $40bn card processor Global Payments",
           "url": "https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist",
-      "summary": [
-        "Bloomberg Tech：Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-30/binance-suffers-6-3-bln-hack-in-crypto-s-biggest-heist-video"
         }
       ]
     },
