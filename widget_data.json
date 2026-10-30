@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 13:56",
+  "updated_at": "2026-10-30 15:01",
   "taiwan": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
         "TVBS新聞：臺股大屠殺! 大盤.臺積電摜破半年線聯發科失守4千.臺達電觸跌停｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
         "經濟日報：華爾街日報：Anthropic上市有利臺灣國安"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "工商時報",
@@ -25,6 +25,11 @@
           "source": "經濟日報",
           "title": "華爾街日報：Anthropic上市有利臺灣國安",
           "url": "https://money.udn.com/money/story/123398/9846856"
+        },
+        {
+          "source": "科技新報",
+          "title": "華爾街日報：Anthropic 上市有利臺灣國安",
+          "url": "https://technews.tw/2026/10/30/wall-street-journal-anthropic-ipo-benefits-taiwan-national-security/"
         }
       ]
     },
@@ -84,69 +89,6 @@
     },
     {
       "rank": 4,
-      "title": "法國萬聖夜將迎來新一波示威　內政部長要求加強維安部署",
-      "summary": [
-        "自由時報：法國萬聖夜將迎來新一波示威　內政部長要求加強維安部署",
-        "經濟日報：法國萬聖夜將迎來新一波示威　內政部長要求加強維安部署"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "法國萬聖夜將迎來新一波示威　內政部長要求加強維安部署",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623375"
-        },
-        {
-          "source": "經濟日報",
-          "title": "法國萬聖夜將迎來新一波示威　內政部長要求加強維安部署",
-          "url": "https://money.udn.com/money/story/5599/9845999"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "日本議員揭露李琴峰隱私　東京地院勒令賠償",
-      "summary": [
-        "自由時報：日本議員揭露李琴峰隱私　東京地院勒令賠償",
-        "經濟日報：日本議員揭露李琴峰隱私　東京地院勒令賠償"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "日本議員揭露李琴峰隱私　東京地院勒令賠償",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623374"
-        },
-        {
-          "source": "經濟日報",
-          "title": "日本議員揭露李琴峰隱私　東京地院勒令賠償",
-          "url": "https://money.udn.com/money/story/5599/9845997"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "聯準會與歐洲央行維持利率不變　歐股收高",
-      "summary": [
-        "自由時報：聯準會與歐洲央行維持利率不變　歐股收高",
-        "經濟日報：聯準會與歐洲央行維持利率不變　歐股收高"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "聯準會與歐洲央行維持利率不變　歐股收高",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5623372"
-        },
-        {
-          "source": "經濟日報",
-          "title": "聯準會與歐洲央行維持利率不變　歐股收高",
-          "url": "https://money.udn.com/money/story/5599/9845995"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "全球能源價格高漲　歐洲12國承諾釋出4260萬桶戰略儲油",
       "summary": [
         "自由時報：全球能源價格高漲　歐洲12國承諾釋出4260萬桶戰略儲油",
@@ -167,7 +109,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "日本警方查河口湖命案　嫌稱「不慎刺中對方」",
       "summary": [
         "自由時報：日本警方查河口湖命案　嫌稱「不慎刺中對方」",
@@ -188,7 +130,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "美伊和談希望緩解供應疑慮　國際油價下跌",
       "summary": [
         "自由時報：美伊和談希望緩解供應疑慮　國際油價下跌",
@@ -209,7 +151,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "走過近140年　芬蘭通訊社將停止新聞及照片服務",
       "summary": [
         "自由時報：走過近140年　芬蘭通訊社將停止新聞及照片服務",
@@ -228,38 +170,74 @@
           "url": "https://money.udn.com/money/story/5599/9846030"
         }
       ]
+    },
+    {
+      "rank": 8,
+      "title": "快訊》蔡康永鬆口：「不在乎身敗名裂」 陷政治風暴表態了",
+      "summary": [
+        "中時新聞：快訊》蔡康永鬆口：「不在乎身敗名裂」 陷政治風暴表態了",
+        "ETtoday：蔡康永捲政治風暴揭同志使命！昔出櫃吐孤單心聲　淚喊：我們不是妖怪"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "快訊》蔡康永鬆口：「不在乎身敗名裂」 陷政治風暴表態了",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vNVRjbTRNOUYzcktmMmgyQ3BROGFTcnkwYUVpdVlvRC15NHUyRkVrcDV4cTZKekdvbnZELUtNUG4xMkQ4RG82ZE5tck1QQ1VUNGRhMVhHSDk0V1B4NC05OGpnbHZKb2dodnJjVTNn?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "蔡康永捲政治風暴揭同志使命！昔出櫃吐孤單心聲　淚喊：我們不是妖怪",
+          "url": "https://star.ettoday.net/news/3263134"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "AI 太燒錢 字母現金流缺口擴大 市場對「變現」疑慮再起",
+      "summary": [
+        "經濟日報：AI 太燒錢 字母現金流缺口擴大 市場對「變現」疑慮再起",
+        "鉅亨網：AI燒錢潮撞融資天花板 華爾街信貸市場開始擔憂「吃不消」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "AI 太燒錢 字母現金流缺口擴大 市場對「變現」疑慮再起",
+          "url": "https://money.udn.com/money/story/123398/9845838"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "AI燒錢潮撞融資天花板 華爾街信貸市場開始擔憂「吃不消」",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SN1BtOVFPTlNIVE1XMUY5WUJQUWNyVmpENVAxdzNuSkNvSUFmMlVFNUM3WnpHQ0otNVNESVp5eFBrSTk2dUFyblk3ODRWOUE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "西班牙高鐵追撞至少68死：我們目前知道些什麼？ | BBC News 中文 | 新聞",
+      "summary": [
+        "風傳媒：西班牙高鐵追撞至少68死：我們目前知道些什麼？ | BBC News 中文 | 新聞",
+        "自由時報：西班牙高鐵相撞釀69死！同路線今年1月出事奪46命 外媒分析原因"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "西班牙高鐵追撞至少68死：我們目前知道些什麼？ | BBC News 中文 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PQTNCcnFRMjllZDhaRy1RZ2NENzM5dzZrVzZ2OGFyRFJjS3NtQzltbVVsYU9UOFlORVFUb215bHJPLWFPX2I0WTdTdjJMZw?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "西班牙高鐵相撞釀69死！同路線今年1月出事奪46命 外媒分析原因",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623626"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Microsoft expects to raise $25 billion in US bond sale, source says",
-      "summary": [
-        "Investing.com：Microsoft expects to raise $25 billion in US bond sale, source says",
-        "MarketWatch：Microsoft to raise up to $25 billion in bond market as investors get pickier about AI debt binge",
-        "CNBC：Microsoft plans to raise $25 billion in debt as it pursues AI buildout"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Microsoft expects to raise $25 billion in US bond sale, source says",
-          "url": "https://www.investing.com/news/stock-market-news/microsoft-expects-to-raise-25-billion-in-us-bond-sale-source-says-4984856"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "Microsoft to raise up to $25 billion in bond market as investors get pickier about AI debt binge",
-          "url": "https://www.marketwatch.com/story/microsoft-to-raise-up-to-25-billion-in-bond-market-as-investors-get-pickier-about-ai-debt-binge-7c6ae777?mod=mw_rss_topstories"
-        },
-        {
-          "source": "CNBC",
-          "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
-          "url": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Binance probes possible $5.7 billion crypto hack, possibly the biggest in history",
       "summary": [
         "Yahoo Finance：Binance probes possible $5.7 billion crypto hack, possibly the biggest in history",
@@ -286,70 +264,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Aon CEO warns AI data center insurance risks could threaten financing",
-      "summary": [
-        "CNBC：Aon CEO warns AI data center insurance risks could threaten financing",
-        "Investing.com：Aon CEO warns AI data center carry insurance risks"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "Aon CEO warns AI data center insurance risks could threaten financing",
-          "url": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Aon CEO warns AI data center carry insurance risks",
-          "url": "https://www.investing.com/news/stock-market-news/aon-ceo-warns-ai-data-center-carry-insurance-risks-4984832"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Polymarket reports outage on international exchange, halts trading",
-      "summary": [
-        "CNBC：Polymarket reports outage on international exchange, halts trading",
-        "Investing.com：Polymarket reports major outage, suspends trading actions"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "Polymarket reports outage on international exchange, halts trading",
-          "url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Polymarket reports major outage, suspends trading actions",
-          "url": "https://www.investing.com/news/stock-market-news/polymarket-reports-major-outage-suspends-trading-actions-4984887"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Report: Trump did nothing with intel that China planted spy close to Nvidia CEO",
-      "summary": [
-        "Ars Technica：Report: Trump did nothing with intel that China planted spy close to Nvidia CEO",
-        "Yahoo Finance：Trump knew a year ago Nvidia’s billionaire CEO had a close relationship with a Chinese spy and did nothing, report says"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Ars Technica",
-          "title": "Report: Trump did nothing with intel that China planted spy close to Nvidia CEO",
-          "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Trump knew a year ago Nvidia’s billionaire CEO had a close relationship with a Chinese spy and did nothing, report says",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeHJETkttREw2ZUgyc1RLS0FOSFZrajlIbllZYXE0QzVsdkxGUzNySjdIdmhIVlJ0ZGRKMjNOZ2hXX2tSck56TThFTl9UYTBOeUxJWTZZTDRxdjJYX19OUDM2OXN2NTVISkZKQS0xelVJcFFIaXU2cFZXVzRuenhJc21PMUl5TDU4XzM3Zl90bEpxa0c1VmdvN2d0bTlLdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 2,
       "title": "Polymarket Trading Halted After Reports of Stolen Funds",
       "summary": [
         "Bloomberg Tech：Polymarket Trading Halted After Reports of Stolen Funds",
@@ -370,7 +285,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 3,
       "title": "GM to pay $220 million to resolve claims it sold driving habits data",
       "summary": [
         "The Verge：GM to pay $220 million to resolve claims it sold driving habits data",
@@ -391,7 +306,28 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
+      "title": "Microsoft to raise up to $25 billion in bond market as investors get pickier about AI debt binge",
+      "summary": [
+        "MarketWatch：Microsoft to raise up to $25 billion in bond market as investors get pickier about AI debt binge",
+        "CNBC：Microsoft plans to raise $25 billion in debt as it pursues AI buildout"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MarketWatch",
+          "title": "Microsoft to raise up to $25 billion in bond market as investors get pickier about AI debt binge",
+          "url": "https://www.marketwatch.com/story/microsoft-to-raise-up-to-25-billion-in-bond-market-as-investors-get-pickier-about-ai-debt-binge-7c6ae777?mod=mw_rss_topstories"
+        },
+        {
+          "source": "CNBC",
+          "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+          "url": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "The R2 SUV is already Rivian’s best-selling vehicle",
       "summary": [
         "TechCrunch：The R2 SUV is already Rivian’s best-selling vehicle",
@@ -412,7 +348,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "Patrick Stewart has died at age 86",
       "summary": [
         "The Verge：Patrick Stewart has died at age 86",
@@ -433,7 +369,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "美國中期選舉：一個被削弱的選舉程式",
       "summary": [
         "法廣RFI：美國中期選舉：一個被削弱的選舉程式",
@@ -450,6 +386,51 @@
           "source": "BBC中文",
           "title": "美國中期選舉：選舉有何影響、為何重要？七個關鍵問題解析",
           "url": "https://www.bbc.com/zhongwen/articles/cmx2qg1nn1wlo/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "愛知 安城の水道管工事現場で土砂に埋まり作業中の親子2人死亡",
+      "summary": [
+        "NHK新聞：愛知 安城の水道管工事現場で土砂に埋まり作業中の親子2人死亡"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "愛知 安城の水道管工事現場で土砂に埋まり作業中の親子2人死亡",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261030de68166"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "PCE inflation: Prices ticked higher in September, keeping expectations for a year-end Fed hike",
+      "summary": [
+        "Yahoo Finance：PCE inflation: Prices ticked higher in September, keeping expectations for a year-end Fed hike"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "PCE inflation: Prices ticked higher in September, keeping expectations for a year-end Fed hike",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdjd1bFkyUjV5TXdRMEtqbXV1THZGelRhekxHQlNqc3pQZHdZNmFOcG1HUi02SmxPOVNPMlFWYldVNWZsRUxkaG5sTVVKWGZNbmJ0NnBGTThSWm9Cbl8zMWxMY2JhMW0zY28zSGtZdmdsNHFYckRQU3JTV2ZqSTlEUkUtVzU2S1BVSGhhMTJBSmxIZE5fMW0zVjloMVBIazdCOV9YU2tqMkZBa0hud3VOZWVfY0xjSnlqVTRKTm1WNHY4X3pqUmllUDcxQjFNb01JZ04wVg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勛被認為是中國間諜行動的目標- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：黃仁勛被認為是中國間諜行動的目標- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "黃仁勛被認為是中國間諜行動的目標- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ05HWkxIMjI2cUhxdldDUHpyLWlvYUNlX2ZSRmNuWUpIWG5XcWpWU2xxS1l2UEFsczBHeE1vWmFodDRPOWxIdDJ6azZRYTlPVVdtMDF5ckkxVjJzeE8xWmFsNEJ5UTJsc3JLSVVWUFoxekYzNVR3Yi13VmFPRnpHQWhB?oc=5"
         }
       ]
     }
