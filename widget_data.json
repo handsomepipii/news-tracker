@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-10-30 16:11",
+  "updated_at": "2026-10-30 17:03",
   "taiwan": [
     {
       "rank": 1,
-      "title": "東京銀座噴灑刺激物案30人不適　留學生落網",
-      "summary": [
-        "自由時報：東京銀座噴灑刺激物案30人不適　留學生落網",
-        "經濟日報：東京銀座噴灑刺激物案30人不適　留學生落網",
-        "ETtoday：24歲中國留學生落網！　東京銀座噴防身噴霧30人不適"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "東京銀座噴灑刺激物案30人不適　留學生落網",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623385"
-        },
-        {
-          "source": "經濟日報",
-          "title": "東京銀座噴灑刺激物案30人不適　留學生落網",
-          "url": "https://money.udn.com/money/story/5599/9846039"
-        },
-        {
-          "source": "ETtoday",
-          "title": "24歲中國留學生落網！　東京銀座噴防身噴霧30人不適",
-          "url": "https://www.ettoday.net/news/20261030/3263143.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "紐時揭身邊有中國間諜？黃仁勳親回應：與對方往來正常",
       "summary": [
         "經濟日報：紐時揭身邊有中國間諜？黃仁勳親回應：與對方往來正常",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "棒球》桃園亞洲職棒交流賽  劉致榮、安佑鎮參戰！",
       "summary": [
         "自由時報：棒球》桃園亞洲職棒交流賽  劉致榮、安佑鎮參戰！",
@@ -77,91 +50,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "美伊和談希望緩解供應疑慮　國際油價下跌",
-      "summary": [
-        "自由時報：美伊和談希望緩解供應疑慮　國際油價下跌",
-        "經濟日報：美伊和談希望緩解供應疑慮　國際油價下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美伊和談希望緩解供應疑慮　國際油價下跌",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5623382"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美伊和談希望緩解供應疑慮　國際油價下跌",
-          "url": "https://money.udn.com/money/story/5599/9846031"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "走過近140年　芬蘭通訊社將停止新聞及照片服務",
-      "summary": [
-        "自由時報：走過近140年　芬蘭通訊社將停止新聞及照片服務",
-        "經濟日報：走過近140年　芬蘭通訊社將停止新聞及照片服務"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "走過近140年　芬蘭通訊社將停止新聞及照片服務",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623381"
-        },
-        {
-          "source": "經濟日報",
-          "title": "走過近140年　芬蘭通訊社將停止新聞及照片服務",
-          "url": "https://money.udn.com/money/story/5599/9846030"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "快訊》蔡康永鬆口：「不在乎身敗名裂」 陷政治風暴表態了",
-      "summary": [
-        "中時新聞：快訊》蔡康永鬆口：「不在乎身敗名裂」 陷政治風暴表態了",
-        "ETtoday：蔡康永捲政治風暴揭同志使命！昔出櫃吐孤單心聲　淚喊：我們不是妖怪"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "快訊》蔡康永鬆口：「不在乎身敗名裂」 陷政治風暴表態了",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vNVRjbTRNOUYzcktmMmgyQ3BROGFTcnkwYUVpdVlvRC15NHUyRkVrcDV4cTZKekdvbnZELUtNUG4xMkQ4RG82ZE5tck1QQ1VUNGRhMVhHSDk0V1B4NC05OGpnbHZKb2dodnJjVTNn?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "蔡康永捲政治風暴揭同志使命！昔出櫃吐孤單心聲　淚喊：我們不是妖怪",
-          "url": "https://star.ettoday.net/news/3263134"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "AI 太燒錢 字母現金流缺口擴大 市場對「變現」疑慮再起",
-      "summary": [
-        "經濟日報：AI 太燒錢 字母現金流缺口擴大 市場對「變現」疑慮再起",
-        "鉅亨網：AI燒錢潮撞融資天花板 華爾街信貸市場開始擔憂「吃不消」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "AI 太燒錢 字母現金流缺口擴大 市場對「變現」疑慮再起",
-          "url": "https://money.udn.com/money/story/123398/9845838"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "AI燒錢潮撞融資天花板 華爾街信貸市場開始擔憂「吃不消」",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SN1BtOVFPTlNIVE1XMUY5WUJQUWNyVmpENVAxdzNuSkNvSUFmMlVFNUM3WnpHQ0otNVNESVp5eFBrSTk2dUFyblk3ODRWOUE?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 3,
       "title": "西班牙高鐵追撞至少68死：我們目前知道些什麼？ | BBC News 中文 | 新聞",
       "summary": [
         "風傳媒：西班牙高鐵追撞至少68死：我們目前知道些什麼？ | BBC News 中文 | 新聞",
@@ -182,7 +71,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 4,
       "title": "東京著名商店街再傳竊案　歹徒帶走近千萬元名錶",
       "summary": [
         "經濟日報：東京著名商店街再傳竊案　歹徒帶走近千萬元名錶",
@@ -203,7 +92,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 5,
       "title": "不只1兆美元！Alphabet再揭985億美元潛在負擔 AI風險有多大？",
       "summary": [
         "鉅亨網：不只1兆美元！Alphabet再揭985億美元潛在負擔 AI風險有多大？",
@@ -222,6 +111,111 @@
           "url": "https://money.udn.com/money/story/122381/9846621"
         }
       ]
+    },
+    {
+      "rank": 6,
+      "title": "不押誰的AI最強！華爾街搶當房東 靠科技巨頭長約收租",
+      "summary": [
+        "鉅亨網：不押誰的AI最強！華爾街搶當房東 靠科技巨頭長約收租",
+        "INSIDE硬塞：不押誰的 AI 最強！華爾街搶當房東，靠科技巨頭長約收租"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "鉅亨網",
+          "title": "不押誰的AI最強！華爾街搶當房東 靠科技巨頭長約收租",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJaDFQbk5lLXV6TGhsXzVEZDBtZnBZc3VvQXBMREUtdVllV2Z0b1FCek9wdFE4YmpCRlZDLVVSNEdFTGdvNnRqM2ZHa1pMYlk?oc=5"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "不押誰的 AI 最強！華爾街搶當房東，靠科技巨頭長約收租",
+          "url": "https://www.inside.com.tw/article/42774-wall-street-ai-data-center-landlords-long-term-leases"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "「X教授」派崔克史都華辭世 享壽86歲",
+      "summary": [
+        "自由時報：「X教授」派崔克史都華辭世 享壽86歲",
+        "經濟日報：「X教授」派崔克史都華逝世享壽86歲！「復仇者聯盟5」成人生遺作"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "「X教授」派崔克史都華辭世 享壽86歲",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623406"
+        },
+        {
+          "source": "經濟日報",
+          "title": "「X教授」派崔克史都華逝世享壽86歲！「復仇者聯盟5」成人生遺作",
+          "url": "https://money.udn.com/money/story/5599/9846105"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "紐時爆「陸女間諜鎖定黃仁勳」 川普早知情未採行動｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+      "summary": [
+        "TVBS新聞：紐時爆「陸女間諜鎖定黃仁勳」 川普早知情未採行動｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "工商時報：黃仁勳身邊藏大陸女間諜！紐時爆兩人關係川普早知情未出手- 國際"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "紐時爆「陸女間諜鎖定黃仁勳」 川普早知情未採行動｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43RVpSU2Z2d0FJU2JTWnhWcmR2bDFnMW45M2loRGJNOFZpY2FVN3ZPMzZqU0FkVC1Yb2VQX3VqTHhPejc0QUdmM1BLaXkxV2lhY0NrOUxB?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "黃仁勳身邊藏大陸女間諜！紐時爆兩人關係川普早知情未出手- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVZXg4V3BmRXROZ1Z1c3p2TkFzcVZlSEJEU0lRS3dtcGpLOHp5Mkh4RXpqbGptT3NBSm5UeUVXVXJjdVFvNXFjMUtmSEw4c2tYMEd5LU52NVlkSk5jdWJZ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "河口湖命案女嫌最新供詞曝光！稱想自殺遭阻止 刀子卻刺中死者",
+      "summary": [
+        "經濟日報：河口湖命案女嫌最新供詞曝光！稱想自殺遭阻止 刀子卻刺中死者",
+        "自由時報：河口湖命案嫌犯有新供詞  稱自殺遭阻才意外刺死對方"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "河口湖命案女嫌最新供詞曝光！稱想自殺遭阻止 刀子卻刺中死者",
+          "url": "https://money.udn.com/money/story/5599/9846289"
+        },
+        {
+          "source": "自由時報",
+          "title": "河口湖命案嫌犯有新供詞  稱自殺遭阻才意外刺死對方",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623521"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "AI 籌資也看財力 微軟發債250億美元吸4.6倍認購 高負債業者望塵莫及",
+      "summary": [
+        "經濟日報：AI 籌資也看財力 微軟發債250億美元吸4.6倍認購 高負債業者望塵莫及",
+        "科技新報：微軟發債 250 億美元籌 AI 資金  超額認購逾三倍"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "AI 籌資也看財力 微軟發債250億美元吸4.6倍認購 高負債業者望塵莫及",
+          "url": "https://money.udn.com/money/story/123398/9846210"
+        },
+        {
+          "source": "科技新報",
+          "title": "微軟發債 250 億美元籌 AI 資金  超額認購逾三倍",
+          "url": "https://finance.technews.tw/2026/10/30/microsoft-expects-to-raise-25-billion-in-us-bond-sale/"
+        }
+      ]
     }
   ],
   "global": [
@@ -233,7 +227,7 @@
         "Investing.com：Factbox-Where Binance’s $6.3 billion breach ranks in crypto’s biggest hacks and heists",
         "Bloomberg Markets：Estimated $6.3 Billion Hacked in Binance Security Breach"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "Yahoo Finance",
@@ -249,74 +243,16 @@
           "source": "Bloomberg Markets",
           "title": "Estimated $6.3 Billion Hacked in Binance Security Breach",
           "url": "https://www.bloomberg.com/news/videos/2026-10-30/estimated-6-3-billion-hacked-in-binance-security-breach-video"
+        },
+        {
+          "source": "CNBC",
+          "title": "Binance's $6.3 billion hack: What we know and what comes next",
+          "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "Microsoft to raise up to $25 billion in bond market as investors get pickier about AI debt binge",
-      "summary": [
-        "MarketWatch：Microsoft to raise up to $25 billion in bond market as investors get pickier about AI debt binge",
-        "CNBC：Microsoft plans to raise $25 billion in debt as it pursues AI buildout"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MarketWatch",
-          "title": "Microsoft to raise up to $25 billion in bond market as investors get pickier about AI debt binge",
-          "url": "https://www.marketwatch.com/story/microsoft-to-raise-up-to-25-billion-in-bond-market-as-investors-get-pickier-about-ai-debt-binge-7c6ae777?mod=mw_rss_topstories"
-        },
-        {
-          "source": "CNBC",
-          "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
-          "url": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "The R2 SUV is already Rivian’s best-selling vehicle",
-      "summary": [
-        "TechCrunch：The R2 SUV is already Rivian’s best-selling vehicle",
-        "The Verge：Rivian’s R2 is officially its best-selling vehicle"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "The R2 SUV is already Rivian’s best-selling vehicle",
-          "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/"
-        },
-        {
-          "source": "The Verge",
-          "title": "Rivian’s R2 is officially its best-selling vehicle",
-          "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Patrick Stewart has died at age 86",
-      "summary": [
-        "The Verge：Patrick Stewart has died at age 86",
-        "Wccftech：Sir Patrick Stewart dies aged 86"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "Patrick Stewart has died at age 86",
-          "url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death"
-        },
-        {
-          "source": "Wccftech",
-          "title": "Sir Patrick Stewart dies aged 86",
-          "url": "https://wccftech.com/sir-patrick-stewart-dies-aged-86/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "美國中期選舉：一個被削弱的選舉程式",
       "summary": [
         "法廣RFI：美國中期選舉：一個被削弱的選舉程式",
@@ -337,7 +273,22 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "title": "Why is Gilead Sciences stock surging today?",
+      "summary": [
+        "Investing.com：Why is Gilead Sciences stock surging today?"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Why is Gilead Sciences stock surging today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-gilead-sciences-stock-surging-today-93CH-4985390"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "黃仁勛被認為是中國間諜行動的目標- 紐約時報中文網",
       "summary": [
         "紐約時報中文：黃仁勛被認為是中國間諜行動的目標- 紐約時報中文網"
@@ -352,7 +303,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "習近平清洗行動繼續：中共宣佈33名高官被開除黨籍- 紐約時報中文網",
       "summary": [
         "紐約時報中文：習近平清洗行動繼續：中共宣佈33名高官被開除黨籍- 紐約時報中文網"
@@ -367,7 +318,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "Bayer wins Roundup weedkiller cancer trial while awaiting settlement ruling",
       "summary": [
         "Investing.com：Bayer wins Roundup weedkiller cancer trial while awaiting settlement ruling"
@@ -382,7 +333,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "川普幫助博索納羅逃離巴西前往美國- 紐約時報中文網",
       "summary": [
         "紐約時報中文：川普幫助博索納羅逃離巴西前往美國- 紐約時報中文網"
@@ -397,7 +348,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "玻璃摩天大樓：壯麗的城市天際線有多「熱」？",
       "summary": [
         "紐約時報中文：玻璃摩天大樓：壯麗的城市天際線有多「熱」？"
@@ -408,6 +359,36 @@
           "source": "紐約時報中文",
           "title": "玻璃摩天大樓：壯麗的城市天際線有多「熱」？",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3dKel9KQXB3cmJHZG16cW9VM2xWcVE5cjYwYkMza2lnS083VloxeFJwNFVCbzBGdkppT0lCNGxXbUVLaGRIR3h1SmE3UlJnQlN5ZUJfWnhHQVBGaXBGS2FGUlJoOGlmbWlHUjlRMzY5Uk5NTXZUU0stVlIyd05vRnVNRXlqR3lZRnlBNGs4OA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "松屋フーズ 不正アクセスで個人情報237萬件餘漏えい",
+      "summary": [
+        "NHK新聞：松屋フーズ 不正アクセスで個人情報237萬件餘漏えい"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "松屋フーズ 不正アクセスで個人情報237萬件餘漏えい",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261030de68425"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Why is AIA Group stock rising today?",
+      "summary": [
+        "Investing.com：Why is AIA Group stock rising today?"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Why is AIA Group stock rising today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-aia-group-stock-rising-today-93CH-4985821"
         }
       ]
     }
