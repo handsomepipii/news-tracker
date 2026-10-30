@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 17:03",
+  "updated_at": "2026-10-30 18:02",
   "taiwan": [
     {
       "rank": 1,
@@ -51,27 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "西班牙高鐵追撞至少68死：我們目前知道些什麼？ | BBC News 中文 | 新聞",
-      "summary": [
-        "風傳媒：西班牙高鐵追撞至少68死：我們目前知道些什麼？ | BBC News 中文 | 新聞",
-        "自由時報：西班牙高鐵相撞釀69死！同路線今年1月出事奪46命 外媒分析原因"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "風傳媒",
-          "title": "西班牙高鐵追撞至少68死：我們目前知道些什麼？ | BBC News 中文 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PQTNCcnFRMjllZDhaRy1RZ2NENzM5dzZrVzZ2OGFyRFJjS3NtQzltbVVsYU9UOFlORVFUb215bHJPLWFPX2I0WTdTdjJMZw?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "西班牙高鐵相撞釀69死！同路線今年1月出事奪46命 外媒分析原因",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623626"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "東京著名商店街再傳竊案　歹徒帶走近千萬元名錶",
       "summary": [
         "經濟日報：東京著名商店街再傳竊案　歹徒帶走近千萬元名錶",
@@ -92,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "不只1兆美元！Alphabet再揭985億美元潛在負擔 AI風險有多大？",
       "summary": [
         "鉅亨網：不只1兆美元！Alphabet再揭985億美元潛在負擔 AI風險有多大？",
@@ -113,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "不押誰的AI最強！華爾街搶當房東 靠科技巨頭長約收租",
       "summary": [
         "鉅亨網：不押誰的AI最強！華爾街搶當房東 靠科技巨頭長約收租",
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "「X教授」派崔克史都華辭世 享壽86歲",
       "summary": [
         "自由時報：「X教授」派崔克史都華辭世 享壽86歲",
@@ -151,6 +130,27 @@
           "source": "經濟日報",
           "title": "「X教授」派崔克史都華逝世享壽86歲！「復仇者聯盟5」成人生遺作",
           "url": "https://money.udn.com/money/story/5599/9846105"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "失落的西班牙榮耀？高鐵追撞事故已68死，2026年第二起重大鐵路傷亡慘案",
+      "summary": [
+        "轉角國際：失落的西班牙榮耀？高鐵追撞事故已68死，2026年第二起重大鐵路傷亡慘案",
+        "自由時報：西班牙高鐵相撞釀69死！同路線今年1月出事奪46命 外媒分析原因"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "轉角國際",
+          "title": "失落的西班牙榮耀？高鐵追撞事故已68死，2026年第二起重大鐵路傷亡慘案",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xMWMtQW9HeDZrTkt6WGZSeDRjUUV5Z1BGc3Z4dUJ2X0JXemFXWnNUbXZoLWZZa3J1UmNOM2ItNXUwSEdmQ3NGNWxvXy12bnVabnRvQy1sWjZJM2NLdW1oNWFaQzg5cWZnZWpGV1NwbzQtbjlkZktr0gFrQVVfeXFMUEZZOC1EYXozc1pFZ0ZRWUNaWTBuUXNCQzFHV2RfTzZWeVh0dkhlcFdCRzhZQThQYUR2NW5jRU5RSkhkQktuSWxYTVdXTl9BZjl5SndQWHM2amNuNnd5NHVuYlJPeVNqLXgtWGc?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "西班牙高鐵相撞釀69死！同路線今年1月出事奪46命 外媒分析原因",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623626"
         }
       ]
     },
@@ -227,7 +227,7 @@
         "Investing.com：Factbox-Where Binance’s $6.3 billion breach ranks in crypto’s biggest hacks and heists",
         "Bloomberg Markets：Estimated $6.3 Billion Hacked in Binance Security Breach"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
           "source": "Yahoo Finance",
@@ -248,6 +248,11 @@
           "source": "CNBC",
           "title": "Binance's $6.3 billion hack: What we know and what comes next",
           "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-30/binance-suffers-6-3-bln-hack-in-crypto-s-biggest-heist-video"
         }
       ]
     },
@@ -274,16 +279,22 @@
     },
     {
       "rank": 3,
-      "title": "Why is Gilead Sciences stock surging today?",
+      "title": "Binance Freezes Assets After Suspected Hack",
       "summary": [
-        "Investing.com：Why is Gilead Sciences stock surging today?"
+        "Bloomberg Markets：Binance Freezes Assets After Suspected Hack",
+        "Yahoo Finance：Binance freezes assets after $6.3 billion heist, crypto industry's biggest"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "Why is Gilead Sciences stock surging today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-gilead-sciences-stock-surging-today-93CH-4985390"
+          "source": "Bloomberg Markets",
+          "title": "Binance Freezes Assets After Suspected Hack",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-30/the-asia-trade-10-30-2026-video"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Binance freezes assets after $6.3 billion heist, crypto industry's biggest",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUk91M0NvMWF6S2xLUktmbkcxQ1VBVDBDSnRZSVZZcjJxNVJ3a3VLZ3RxaWFTYWNlRE16bTRnV0VFRnM5b09LUnIzTVV5Slk2VDRaZ0Q5alFvclowelhHWUFXcXNwRUs3RmlxTkNDS0dBeHRCM2FyOXJtRmZicmJWSWZhNnR3QUJwWHU5UWU0OVZIY25S?oc=5"
         }
       ]
     },
@@ -349,6 +360,21 @@
     },
     {
       "rank": 8,
+      "title": "大選未產生明確獲勝者，誰能最終成為以色列總理？",
+      "summary": [
+        "紐約時報中文：大選未產生明確獲勝者，誰能最終成為以色列總理？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "大選未產生明確獲勝者，誰能最終成為以色列總理？",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWdDWWRreUxBckUtRDNkejVCTmRXMzJJOVBHeUxwWUJZN2ZhRkgtcGVPUl9kZU1rRExyUTY3Mk9nblNxOTRkek9ZeGlIR1puaUtOZHpxcHJTYTVFNGlRMURYaWFKMTNpWnJ5aHFKM3BRejZrMUFLUFdybkx5SDNZaUkwLXVkeUhM?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "玻璃摩天大樓：壯麗的城市天際線有多「熱」？",
       "summary": [
         "紐約時報中文：玻璃摩天大樓：壯麗的城市天際線有多「熱」？"
@@ -363,7 +389,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "松屋フーズ 不正アクセスで個人情報237萬件餘漏えい",
       "summary": [
         "NHK新聞：松屋フーズ 不正アクセスで個人情報237萬件餘漏えい"
@@ -374,21 +400,6 @@
           "source": "NHK新聞",
           "title": "松屋フーズ 不正アクセスで個人情報237萬件餘漏えい",
           "url": "https://news.web.nhk/newsweb/na/nd-20261030de68425"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Why is AIA Group stock rising today?",
-      "summary": [
-        "Investing.com：Why is AIA Group stock rising today?"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Why is AIA Group stock rising today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-aia-group-stock-rising-today-93CH-4985821"
         }
       ]
     }
