@@ -1,40 +1,8 @@
 {
-  "updated_at": "2026-10-30 15:01",
+  "updated_at": "2026-10-30 16:11",
   "taiwan": [
     {
       "rank": 1,
-      "title": "臺積電 HPC需求強- 日報",
-      "summary": [
-        "工商時報：臺積電 HPC需求強- 日報",
-        "TVBS新聞：臺股大屠殺! 大盤.臺積電摜破半年線聯發科失守4千.臺達電觸跌停｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-        "經濟日報：華爾街日報：Anthropic上市有利臺灣國安"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "臺積電 HPC需求強- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SYlpDay1PWlZweGhOS0NFT2ZlVTJtWE5DbVQyczlvMkN0bUFTUUs1bUdVdmlld0RIejM1QVdkTHZrZ1NEbzJPWkZPeHNBQnRNclY4SVpkTjVGVlBBUGZr?oc=5"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "臺股大屠殺! 大盤.臺積電摜破半年線聯發科失守4千.臺達電觸跌停｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5naTBaR3UyblBHdmJnUHdQRXRGbDE5b1VQQi1mUWJlQmZDYjlCN29pWVBqVGtlNlgtcmFaVjY1Y28xbEw3U3h0SXp0dHhzT3gyYnhEXzBB?oc=5"
-        },
-        {
-          "source": "經濟日報",
-          "title": "華爾街日報：Anthropic上市有利臺灣國安",
-          "url": "https://money.udn.com/money/story/123398/9846856"
-        },
-        {
-          "source": "科技新報",
-          "title": "華爾街日報：Anthropic 上市有利臺灣國安",
-          "url": "https://technews.tw/2026/10/30/wall-street-journal-anthropic-ipo-benefits-taiwan-national-security/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "東京銀座噴灑刺激物案30人不適　留學生落網",
       "summary": [
         "自由時報：東京銀座噴灑刺激物案30人不適　留學生落網",
@@ -61,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "紐時揭身邊有中國間諜？黃仁勳親回應：與對方往來正常",
       "summary": [
         "經濟日報：紐時揭身邊有中國間諜？黃仁勳親回應：與對方往來正常",
@@ -88,49 +56,28 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "棒球》桃園亞洲職棒交流賽  劉致榮、安佑鎮參戰！",
+      "summary": [
+        "自由時報：棒球》桃園亞洲職棒交流賽  劉致榮、安佑鎮參戰！",
+        "TVBS新聞：河口湖命案! 楊嫌稱赴日輕生誤殺井女高大成打臉:脫罪奧步｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "棒球》桃園亞洲職棒交流賽  劉致榮、安佑鎮參戰！",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5623570"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "河口湖命案! 楊嫌稱赴日輕生誤殺井女高大成打臉:脫罪奧步｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aRDNwdVhJTG84OHVXQTA3WTRlOEtWRWg2cXF0b1pFZ1U3eGk5dWE3WG8yQ1VXNVV0VjVkR2R5eWZBN3JSc0xOUDc0SDNkdEs2ZjN0M0tB?oc=5"
+        }
+      ]
+    },
+    {
       "rank": 4,
-      "title": "全球能源價格高漲　歐洲12國承諾釋出4260萬桶戰略儲油",
-      "summary": [
-        "自由時報：全球能源價格高漲　歐洲12國承諾釋出4260萬桶戰略儲油",
-        "經濟日報：全球能源價格高漲　歐洲12國承諾釋出4260萬桶戰略儲油"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "全球能源價格高漲　歐洲12國承諾釋出4260萬桶戰略儲油",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5623380"
-        },
-        {
-          "source": "經濟日報",
-          "title": "全球能源價格高漲　歐洲12國承諾釋出4260萬桶戰略儲油",
-          "url": "https://money.udn.com/money/story/5599/9846024"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "日本警方查河口湖命案　嫌稱「不慎刺中對方」",
-      "summary": [
-        "自由時報：日本警方查河口湖命案　嫌稱「不慎刺中對方」",
-        "經濟日報：日本警方查河口湖命案　嫌稱「不慎刺中對方」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "日本警方查河口湖命案　嫌稱「不慎刺中對方」",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623379"
-        },
-        {
-          "source": "經濟日報",
-          "title": "日本警方查河口湖命案　嫌稱「不慎刺中對方」",
-          "url": "https://money.udn.com/money/story/5599/9846023"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "美伊和談希望緩解供應疑慮　國際油價下跌",
       "summary": [
         "自由時報：美伊和談希望緩解供應疑慮　國際油價下跌",
@@ -151,7 +98,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "走過近140年　芬蘭通訊社將停止新聞及照片服務",
       "summary": [
         "自由時報：走過近140年　芬蘭通訊社將停止新聞及照片服務",
@@ -172,7 +119,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "快訊》蔡康永鬆口：「不在乎身敗名裂」 陷政治風暴表態了",
       "summary": [
         "中時新聞：快訊》蔡康永鬆口：「不在乎身敗名裂」 陷政治風暴表態了",
@@ -193,7 +140,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "AI 太燒錢 字母現金流缺口擴大 市場對「變現」疑慮再起",
       "summary": [
         "經濟日報：AI 太燒錢 字母現金流缺口擴大 市場對「變現」疑慮再起",
@@ -214,7 +161,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "西班牙高鐵追撞至少68死：我們目前知道些什麼？ | BBC News 中文 | 新聞",
       "summary": [
         "風傳媒：西班牙高鐵追撞至少68死：我們目前知道些什麼？ | BBC News 中文 | 新聞",
@@ -231,6 +178,48 @@
           "source": "自由時報",
           "title": "西班牙高鐵相撞釀69死！同路線今年1月出事奪46命 外媒分析原因",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5623626"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "東京著名商店街再傳竊案　歹徒帶走近千萬元名錶",
+      "summary": [
+        "經濟日報：東京著名商店街再傳竊案　歹徒帶走近千萬元名錶",
+        "自由時報：東京著名商店街再傳竊案 歹徒帶走近千萬元名錶"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "東京著名商店街再傳竊案　歹徒帶走近千萬元名錶",
+          "url": "https://money.udn.com/money/story/5599/9846071"
+        },
+        {
+          "source": "自由時報",
+          "title": "東京著名商店街再傳竊案 歹徒帶走近千萬元名錶",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623392"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "不只1兆美元！Alphabet再揭985億美元潛在負擔 AI風險有多大？",
+      "summary": [
+        "鉅亨網：不只1兆美元！Alphabet再揭985億美元潛在負擔 AI風險有多大？",
+        "經濟日報：AI 支出7,500億美元不討喜 科技巨人面臨現金考驗 晶片股榮景撐多久？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "鉅亨網",
+          "title": "不只1兆美元！Alphabet再揭985億美元潛在負擔 AI風險有多大？",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qZWhGT0FYaEUtZEFrZ2pzQzVrX2VUNG9rREJzejdpcjNCX2lldF95YVN4LWN0Sl91dkNKUkpvSjl3SlM3RkVaekc2N2FFd1U?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "AI 支出7,500億美元不討喜 科技巨人面臨現金考驗 晶片股榮景撐多久？",
+          "url": "https://money.udn.com/money/story/122381/9846621"
         }
       ]
     }
@@ -265,48 +254,6 @@
     },
     {
       "rank": 2,
-      "title": "Polymarket Trading Halted After Reports of Stolen Funds",
-      "summary": [
-        "Bloomberg Tech：Polymarket Trading Halted After Reports of Stolen Funds",
-        "Wired：Polymarket Halted International Trading After Hackers Drained Accounts"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Polymarket Trading Halted After Reports of Stolen Funds",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-29/polymarket-halts-trading-after-reports-of-customers-losing-money"
-        },
-        {
-          "source": "Wired",
-          "title": "Polymarket Halted International Trading After Hackers Drained Accounts",
-          "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "GM to pay $220 million to resolve claims it sold driving habits data",
-      "summary": [
-        "The Verge：GM to pay $220 million to resolve claims it sold driving habits data",
-        "TechCrunch：GM reaches $220M settlement over selling drivers’ private data"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "GM to pay $220 million to resolve claims it sold driving habits data",
-          "url": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "GM reaches $220M settlement over selling drivers’ private data",
-          "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Microsoft to raise up to $25 billion in bond market as investors get pickier about AI debt binge",
       "summary": [
         "MarketWatch：Microsoft to raise up to $25 billion in bond market as investors get pickier about AI debt binge",
@@ -327,7 +274,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "The R2 SUV is already Rivian’s best-selling vehicle",
       "summary": [
         "TechCrunch：The R2 SUV is already Rivian’s best-selling vehicle",
@@ -348,7 +295,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "Patrick Stewart has died at age 86",
       "summary": [
         "The Verge：Patrick Stewart has died at age 86",
@@ -369,7 +316,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "美國中期選舉：一個被削弱的選舉程式",
       "summary": [
         "法廣RFI：美國中期選舉：一個被削弱的選舉程式",
@@ -390,37 +337,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "愛知 安城の水道管工事現場で土砂に埋まり作業中の親子2人死亡",
-      "summary": [
-        "NHK新聞：愛知 安城の水道管工事現場で土砂に埋まり作業中の親子2人死亡"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "愛知 安城の水道管工事現場で土砂に埋まり作業中の親子2人死亡",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261030de68166"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "PCE inflation: Prices ticked higher in September, keeping expectations for a year-end Fed hike",
-      "summary": [
-        "Yahoo Finance：PCE inflation: Prices ticked higher in September, keeping expectations for a year-end Fed hike"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "PCE inflation: Prices ticked higher in September, keeping expectations for a year-end Fed hike",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdjd1bFkyUjV5TXdRMEtqbXV1THZGelRhekxHQlNqc3pQZHdZNmFOcG1HUi02SmxPOVNPMlFWYldVNWZsRUxkaG5sTVVKWGZNbmJ0NnBGTThSWm9Cbl8zMWxMY2JhMW0zY28zSGtZdmdsNHFYckRQU3JTV2ZqSTlEUkUtVzU2S1BVSGhhMTJBSmxIZE5fMW0zVjloMVBIazdCOV9YU2tqMkZBa0hud3VOZWVfY0xjSnlqVTRKTm1WNHY4X3pqUmllUDcxQjFNb01JZ04wVg?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 6,
       "title": "黃仁勛被認為是中國間諜行動的目標- 紐約時報中文網",
       "summary": [
         "紐約時報中文：黃仁勛被認為是中國間諜行動的目標- 紐約時報中文網"
@@ -431,6 +348,66 @@
           "source": "紐約時報中文",
           "title": "黃仁勛被認為是中國間諜行動的目標- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ05HWkxIMjI2cUhxdldDUHpyLWlvYUNlX2ZSRmNuWUpIWG5XcWpWU2xxS1l2UEFsczBHeE1vWmFodDRPOWxIdDJ6azZRYTlPVVdtMDF5ckkxVjJzeE8xWmFsNEJ5UTJsc3JLSVVWUFoxekYzNVR3Yi13VmFPRnpHQWhB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "習近平清洗行動繼續：中共宣佈33名高官被開除黨籍- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：習近平清洗行動繼續：中共宣佈33名高官被開除黨籍- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "習近平清洗行動繼續：中共宣佈33名高官被開除黨籍- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNlR1dHFhWDhQRVFibjlTc1ROVVBZRHhFcXVwRm5GVk9hQzcyODNYSmJ0LWZETld4enJpalM0ZlRPc0xxQU1lYldsNWlZVk9fOWMta205dk1aMk55Tlc2a2M5SDBmbEF0dUtNWVN1dHVWVlBlVlRsUHBrdWtmZ1pXSg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Bayer wins Roundup weedkiller cancer trial while awaiting settlement ruling",
+      "summary": [
+        "Investing.com：Bayer wins Roundup weedkiller cancer trial while awaiting settlement ruling"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Bayer wins Roundup weedkiller cancer trial while awaiting settlement ruling",
+          "url": "https://www.investing.com/news/stock-market-news/bayer-wins-roundup-weedkiller-cancer-trial-while-awaiting-settlement-ruling-4985676"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普幫助博索納羅逃離巴西前往美國- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：川普幫助博索納羅逃離巴西前往美國- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "川普幫助博索納羅逃離巴西前往美國- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUk4tZW84TURGLUNjc1JDR1MtalY4ek11emNzWEhPdURSaWZOZkE3TW5GZUpyS0pJeFlHZGl0Nml0NVB4R2RQRlhyc2VMdkN4QkJBRmgxTElfR0g3bkNOMnU1a1RzY2tQcHBRZmthOS1rQm5QN2V5UkFieW1EU0xjY1JPdlFqUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "玻璃摩天大樓：壯麗的城市天際線有多「熱」？",
+      "summary": [
+        "紐約時報中文：玻璃摩天大樓：壯麗的城市天際線有多「熱」？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "玻璃摩天大樓：壯麗的城市天際線有多「熱」？",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3dKel9KQXB3cmJHZG16cW9VM2xWcVE5cjYwYkMza2lnS083VloxeFJwNFVCbzBGdkppT0lCNGxXbUVLaGRIR3h1SmE3UlJnQlN5ZUJfWnhHQVBGaXBGS2FGUlJoOGlmbWlHUjlRMzY5Uk5NTXZUU0stVlIyd05vRnVNRXlqR3lZRnlBNGs4OA?oc=5"
         }
       ]
     }
