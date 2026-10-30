@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-10-30 19:49",
+  "updated_at": "2026-10-30 21:02",
   "taiwan": [
     {
       "rank": 1,
-      "title": "紐時揭身邊有中國間諜？黃仁勳親回應：與對方往來正常",
+      "title": "Oracle宣佈2027年秋季將Arm AGI CPU匯入OCI雲端基礎設施，強化通運雲端負載與代理AI需求",
       "summary": [
-        "經濟日報：紐時揭身邊有中國間諜？黃仁勳親回應：與對方往來正常",
-        "自由時報：與中國女共諜往來密切？黃仁勳：互動正常、每顆晶片都清點過",
-        "ETtoday：身邊藏中國間諜？　黃仁勳親回「往來很正常」：每顆晶片都算過"
+        "癮科技Cool3c：Oracle宣佈2027年秋季將Arm AGI CPU匯入OCI雲端基礎設施，強化通運雲端負載與代理AI需求",
+        "科技新報：強化 AI 代理服務！Oracle 明年秋季將 Arm AGI CPU 匯入 OCI 雲端基礎設施",
+        "經濟日報：甲骨文雲端架構 2027年秋季將匯入Arm AGI CPU"
       ],
       "media_count": 3,
       "links": [
         {
+          "source": "癮科技Cool3c",
+          "title": "Oracle宣佈2027年秋季將Arm AGI CPU匯入OCI雲端基礎設施，強化通運雲端負載與代理AI需求",
+          "url": "https://www.cool3c.com/article/253580"
+        },
+        {
+          "source": "科技新報",
+          "title": "強化 AI 代理服務！Oracle 明年秋季將 Arm AGI CPU 匯入 OCI 雲端基礎設施",
+          "url": "https://technews.tw/2026/10/30/arm-oracle-arm-agi-cpu/"
+        },
+        {
           "source": "經濟日報",
-          "title": "紐時揭身邊有中國間諜？黃仁勳親回應：與對方往來正常",
-          "url": "https://money.udn.com/money/story/5599/9846145"
-        },
-        {
-          "source": "自由時報",
-          "title": "與中國女共諜往來密切？黃仁勳：互動正常、每顆晶片都清點過",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5623446"
-        },
-        {
-          "source": "ETtoday",
-          "title": "身邊藏中國間諜？　黃仁勳親回「往來很正常」：每顆晶片都算過",
-          "url": "https://www.ettoday.net/news/20261030/3263170.htm"
+          "title": "甲骨文雲端架構 2027年秋季將匯入Arm AGI CPU",
+          "url": "https://money.udn.com/money/story/5599/9847783"
         }
       ]
     },
@@ -51,6 +51,27 @@
     },
     {
       "rank": 3,
+      "title": "「X教授」派崔克史都華逝世享壽86歲！「復仇者聯盟5」成人生遺作",
+      "summary": [
+        "經濟日報：「X教授」派崔克史都華逝世享壽86歲！「復仇者聯盟5」成人生遺作",
+        "轉角國際：勇踏前人未至之境：派屈克．史都華86歲病逝，永別畢凱艦長與X教授（1940－2026）"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "「X教授」派崔克史都華逝世享壽86歲！「復仇者聯盟5」成人生遺作",
+          "url": "https://money.udn.com/money/story/5599/9846105"
+        },
+        {
+          "source": "轉角國際",
+          "title": "勇踏前人未至之境：派屈克．史都華86歲病逝，永別畢凱艦長與X教授（1940－2026）",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DTWJYVzFDUjJlQ2dJSl9BYnRoS3ViLU1GczlTTlA1U01lVTlrUWxNaEJBVjdVQ0l6XzRobXBkSmlyZGdwckxNRng2TnpHWmtBSWdjM3ZiaG1JQWszbHdkWUxZU05hc21nTXRR0gFrQVVfeXFMTUNNYlhXMUNSMmVDZ0lKX0FidGhLdWItTUZzOVNOUDVTTWVVOWtRbE1oQkFWN1VDSXpfNGhtcGRKaXJkZ3ByTE1GeDZOekdaa0FJZ2MzdmJobUlBazNsd2RZTFlTTmFzbWdNdFE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "外媒爆與黃仁勳密切往來！中國女間諜履歷超狂　跨媒體金融界",
       "summary": [
         "ETtoday：外媒爆與黃仁勳密切往來！中國女間諜履歷超狂　跨媒體金融界",
@@ -71,44 +92,23 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "「X教授」派崔克史都華辭世 享壽86歲",
-      "summary": [
-        "自由時報：「X教授」派崔克史都華辭世 享壽86歲",
-        "經濟日報：「X教授」派崔克史都華逝世享壽86歲！「復仇者聯盟5」成人生遺作"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "「X教授」派崔克史都華辭世 享壽86歲",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623406"
-        },
-        {
-          "source": "經濟日報",
-          "title": "「X教授」派崔克史都華逝世享壽86歲！「復仇者聯盟5」成人生遺作",
-          "url": "https://money.udn.com/money/story/5599/9846105"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "失落的西班牙榮耀？高鐵追撞事故已68死，2026年第二起重大鐵路傷亡慘案",
+      "title": "與中國女共諜往來密切？黃仁勳：互動正常、每顆晶片都清點過",
       "summary": [
-        "轉角國際：失落的西班牙榮耀？高鐵追撞事故已68死，2026年第二起重大鐵路傷亡慘案",
-        "自由時報：西班牙高鐵相撞釀69死！同路線今年1月出事奪46命 外媒分析原因"
+        "自由時報：與中國女共諜往來密切？黃仁勳：互動正常、每顆晶片都清點過",
+        "ETtoday：身邊藏中國間諜？　黃仁勳親回「往來很正常」：每顆晶片都算過"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "轉角國際",
-          "title": "失落的西班牙榮耀？高鐵追撞事故已68死，2026年第二起重大鐵路傷亡慘案",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xMWMtQW9HeDZrTkt6WGZSeDRjUUV5Z1BGc3Z4dUJ2X0JXemFXWnNUbXZoLWZZa3J1UmNOM2ItNXUwSEdmQ3NGNWxvXy12bnVabnRvQy1sWjZJM2NLdW1oNWFaQzg5cWZnZWpGV1NwbzQtbjlkZktr0gFrQVVfeXFMUEZZOC1EYXozc1pFZ0ZRWUNaWTBuUXNCQzFHV2RfTzZWeVh0dkhlcFdCRzhZQThQYUR2NW5jRU5RSkhkQktuSWxYTVdXTl9BZjl5SndQWHM2amNuNnd5NHVuYlJPeVNqLXgtWGc?oc=5"
+          "source": "自由時報",
+          "title": "與中國女共諜往來密切？黃仁勳：互動正常、每顆晶片都清點過",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5623446"
         },
         {
-          "source": "自由時報",
-          "title": "西班牙高鐵相撞釀69死！同路線今年1月出事奪46命 外媒分析原因",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623626"
+          "source": "ETtoday",
+          "title": "身邊藏中國間諜？　黃仁勳親回「往來很正常」：每顆晶片都算過",
+          "url": "https://www.ettoday.net/news/20261030/3263170.htm"
         }
       ]
     },
@@ -258,22 +258,22 @@
     },
     {
       "rank": 2,
-      "title": "PAG Agrees to Buy China Evergrande Unit for $514 Million",
+      "title": "黃仁勛被認為是中國間諜行動的目標- 紐約時報中文網",
       "summary": [
-        "Bloomberg Markets：PAG Agrees to Buy China Evergrande Unit for $514 Million",
-        "Nikkei Asia：PAG to buy 51% of China Evergrande services arm for $510m"
+        "紐約時報中文：黃仁勛被認為是中國間諜行動的目標- 紐約時報中文網",
+        "德國之聲：《紐約時報》：一名中國女情報人員同黃仁勳關係密切"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "PAG Agrees to Buy China Evergrande Unit for $514 Million",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-29/pag-agrees-to-buy-china-evergrande-unit-for-514-million"
+          "source": "紐約時報中文",
+          "title": "黃仁勛被認為是中國間諜行動的目標- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ05HWkxIMjI2cUhxdldDUHpyLWlvYUNlX2ZSRmNuWUpIWG5XcWpWU2xxS1l2UEFsczBHeE1vWmFodDRPOWxIdDJ6azZRYTlPVVdtMDF5ckkxVjJzeE8xWmFsNEJ5UTJsc3JLSVVWUFoxekYzNVR3Yi13VmFPRnpHQWhB?oc=5"
         },
         {
-          "source": "Nikkei Asia",
-          "title": "PAG to buy 51% of China Evergrande services arm for $510m",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMXRBdmF6eEFoS0Y3MXVQZWRObEJyU2RaS1RwbTRNaEJJVU9sQkRKX1UxY2Z3UTFBVllXdGgyQlBuNEo2T2Jfb3BLalJucEh1bzNYTEtSR0lDY3hnOWRXbzFaWWNIUGozRUhkM2dPM2lTVHZSRGkwY05nR0ViWjRIbFVtWEMxbDEtLTNkUXBfX2RsY3JNQ0FnS01LUWxmaFRkdmlDSDlQYkpFTGFobUJ4UU9RcUc?oc=5"
+          "source": "德國之聲",
+          "title": "《紐約時報》：一名中國女情報人員同黃仁勳關係密切",
+          "url": "https://www.dw.com/zh/《纽约时报》：一名中国女情报人员同黄仁勋关系密切/a-79805202?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
@@ -342,21 +342,6 @@
     },
     {
       "rank": 6,
-      "title": "黃仁勛被認為是中國間諜行動的目標- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：黃仁勛被認為是中國間諜行動的目標- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "黃仁勛被認為是中國間諜行動的目標- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ05HWkxIMjI2cUhxdldDUHpyLWlvYUNlX2ZSRmNuWUpIWG5XcWpWU2xxS1l2UEFsczBHeE1vWmFodDRPOWxIdDJ6azZRYTlPVVdtMDF5ckkxVjJzeE8xWmFsNEJ5UTJsc3JLSVVWUFoxekYzNVR3Yi13VmFPRnpHQWhB?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "習近平清洗行動繼續：中共宣佈33名高官被開除黨籍- 紐約時報中文網",
       "summary": [
         "紐約時報中文：習近平清洗行動繼續：中共宣佈33名高官被開除黨籍- 紐約時報中文網"
@@ -371,7 +356,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Bayer wins Roundup weedkiller cancer trial while awaiting settlement ruling",
       "summary": [
         "Investing.com：Bayer wins Roundup weedkiller cancer trial while awaiting settlement ruling"
@@ -386,7 +371,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "川普幫助博索納羅逃離巴西前往美國- 紐約時報中文網",
       "summary": [
         "紐約時報中文：川普幫助博索納羅逃離巴西前往美國- 紐約時報中文網"
@@ -401,7 +386,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "大選未產生明確獲勝者，誰能最終成為以色列總理？",
       "summary": [
         "紐約時報中文：大選未產生明確獲勝者，誰能最終成為以色列總理？"
@@ -412,6 +397,21 @@
           "source": "紐約時報中文",
           "title": "大選未產生明確獲勝者，誰能最終成為以色列總理？",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWdDWWRreUxBckUtRDNkejVCTmRXMzJJOVBHeUxwWUJZN2ZhRkgtcGVPUl9kZU1rRExyUTY3Mk9nblNxOTRkek9ZeGlIR1puaUtOZHpxcHJTYTVFNGlRMURYaWFKMTNpWnJ5aHFKM3BRejZrMUFLUFdybkx5SDNZaUkwLXVkeUhM?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "孫悟空愛上林黛玉：中國AI短劇怎麼成了「不當婚戀」",
+      "summary": [
+        "紐約時報中文：孫悟空愛上林黛玉：中國AI短劇怎麼成了「不當婚戀」"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "孫悟空愛上林黛玉：中國AI短劇怎麼成了「不當婚戀」",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdEJsaFR3WFdLWWVwYjFOUFVFc25BaWRzVmNCUGZXRHc5T2FQdHJrWkJiX1pyMTdXUmZHM3JLOWpFVFRPSUZOY0s5b1RKLTNvb0JnSzZEMU1SaFFmcjB0Q2ZtVHRmNEJjcV9RQndWa0V6S1dRa1JoM2dCaHFuUFR0ZWVQc3ZuTlExQ3VN?oc=5"
         }
       ]
     }
