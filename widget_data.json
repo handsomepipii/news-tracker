@@ -1,21 +1,42 @@
 {
-  "updated_at": "2026-10-31 01:56",
+  "updated_at": "2026-10-31 03:06",
   "taiwan": [
     {
       "rank": 1,
-      "title": "外媒爆與黃仁勳密切往來！中國女間諜履歷超狂　跨媒體金融界",
+      "title": "日本退稅新制一定要逐件開箱？ 綠燈5秒可直接通關",
       "summary": [
-        "ETtoday：外媒爆與黃仁勳密切往來！中國女間諜履歷超狂　跨媒體金融界",
-        "經濟日報：與黃仁勳關係密切！中國女高管疑是間諜 美媒起底驚人履歷",
-        "自由時報：黃仁勳身邊藏「女共諜」 中國女主管驚人履歷美媒起底"
+        "經濟日報：日本退稅新制一定要逐件開箱？ 綠燈5秒可直接通關",
+        "科技新報：日本退稅新制一定要逐件開箱？綠燈 5 秒可直接通關",
+        "ETtoday：日本退稅新制明上路！一定要逐件開箱？綠燈5秒可直接通關"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "外媒爆與黃仁勳密切往來！中國女間諜履歷超狂　跨媒體金融界",
-          "url": "https://www.ettoday.net/news/20261030/3263384.htm"
+          "source": "經濟日報",
+          "title": "日本退稅新制一定要逐件開箱？ 綠燈5秒可直接通關",
+          "url": "https://money.udn.com/money/story/5599/9847190"
         },
+        {
+          "source": "科技新報",
+          "title": "日本退稅新制一定要逐件開箱？綠燈 5 秒可直接通關",
+          "url": "https://finance.technews.tw/2026/10/30/japan-new-tax-refund-system-unboxing-required-5-second-green-light-clearance/"
+        },
+        {
+          "source": "ETtoday",
+          "title": "日本退稅新制明上路！一定要逐件開箱？綠燈5秒可直接通關",
+          "url": "https://www.ettoday.net/news/20261031/3263720.htm"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "與黃仁勳關係密切！中國女高管疑是間諜 美媒起底驚人履歷",
+      "summary": [
+        "經濟日報：與黃仁勳關係密切！中國女高管疑是間諜 美媒起底驚人履歷",
+        "自由時報：黃仁勳身邊藏「女共諜」 中國女主管驚人履歷美媒起底"
+      ],
+      "media_count": 2,
+      "links": [
         {
           "source": "經濟日報",
           "title": "與黃仁勳關係密切！中國女高管疑是間諜 美媒起底驚人履歷",
@@ -29,49 +50,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "【重訊】4304 勝昱：公告本公司董事辭任",
-      "summary": [
-        "公開資訊觀測站：【重訊】4304 勝昱：公告本公司董事辭任",
-        "MoneyDJ理財網：智賦科公告本公司董事長辭任- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公開資訊觀測站",
-          "title": "【重訊】4304 勝昱：公告本公司董事辭任",
-          "url": "https://mops.twse.com.tw/mops/web/t05sr01_1#mops-4304-10c356f81dbc"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "智賦科公告本公司董事長辭任- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmpDdTgtaGFDYzFmS3VUTGl5cVhPMC0wbUc5dWd0QnBFeVY3RVVKX3Zxa3QxNnU0ZHU3THRxSDY5aXN1VE0tdW53ZTY2eE50dmdoWlNhUXMzVEFFbmk2WVBoVE1kQlRsNW9pLVRqeVNzdHFlWE56czl6c0FXc3QyakF3OEtvNmpMaFFzOEZhMVRQUQ?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 3,
-      "title": "AXT 磷化銦訂單爆棚、高層直呼擴產仍跟不上需求",
-      "summary": [
-        "科技新報：AXT 磷化銦訂單爆棚、高層直呼擴產仍跟不上需求",
-        "MoneyDJ理財網：AXT磷化銦訂單爆棚、高層直呼擴產仍跟不上需求- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "AXT 磷化銦訂單爆棚、高層直呼擴產仍跟不上需求",
-          "url": "https://finance.technews.tw/2026/10/30/axt-struggles-to-keep-up-with-indium-phosphide-demand-despite-expansion/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "AXT磷化銦訂單爆棚、高層直呼擴產仍跟不上需求- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMDBnUXh2MDc1WFpWZ2YyZXplZFhuTDBQdGE2TFBuelFEd252Z1NiMkdkX280eXd3QlVyalZjMzBTOGtHTU91MEo4RVJSMUozcW1NemJnT0ZNSll6UVVaUEo1RUJNdDVHUUdiUFNrME9hWV8ycmFicl9mTGtqU0YyZW9mV29iLXkwMUxnNkd2clRVZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "破除ASIC延後雜音！聯發科：ASIC業務明年營收衝160億美元",
       "summary": [
         "自由時報：破除ASIC延後雜音！聯發科：ASIC業務明年營收衝160億美元",
@@ -92,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "船艙裝置「氨氣外洩」 3外籍漁工昏迷送醫｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：船艙裝置「氨氣外洩」 3外籍漁工昏迷送醫｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -113,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "全家行動購部分會員資料遭非法擷取，起因是委外廠商91APP資料庫遭自動化攻擊",
       "summary": [
         "iThome：全家行動購部分會員資料遭非法擷取，起因是委外廠商91APP資料庫遭自動化攻擊",
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "TRM Labs：幣安被駭63億美元遭竊　北韓駭客涉嫌犯案",
       "summary": [
         "經濟日報：TRM Labs：幣安被駭63億美元遭竊　北韓駭客涉嫌犯案",
@@ -155,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "日本退稅新制衝擊買氣？ 業界估年底前恐有適應期",
       "summary": [
         "經濟日報：日本退稅新制衝擊買氣？ 業界估年底前恐有適應期",
@@ -176,28 +155,7 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "日本退稅新制一定要逐件開箱？ 綠燈5秒可直接通關",
-      "summary": [
-        "經濟日報：日本退稅新制一定要逐件開箱？ 綠燈5秒可直接通關",
-        "科技新報：日本退稅新制一定要逐件開箱？綠燈 5 秒可直接通關"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "日本退稅新制一定要逐件開箱？ 綠燈5秒可直接通關",
-          "url": "https://money.udn.com/money/story/5599/9847190"
-        },
-        {
-          "source": "科技新報",
-          "title": "日本退稅新制一定要逐件開箱？綠燈 5 秒可直接通關",
-          "url": "https://finance.technews.tw/2026/10/30/japan-new-tax-refund-system-unboxing-required-5-second-green-light-clearance/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "title": "日本退稅新制11月上路 防堵逃稅兼顧購物便利",
       "summary": [
         "經濟日報：日本退稅新制11月上路 防堵逃稅兼顧購物便利",
@@ -214,6 +172,48 @@
           "source": "科技新報",
           "title": "日本退稅新制 11 月上路，防堵逃稅兼顧購物便利",
           "url": "https://finance.technews.tw/2026/10/30/japan-new-tax-refund-system-november-prevent-evasion-shopping-convenience/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "科技股財報暴雷！臺股狂瀉逾1600點失守45K 權值股、AI股受挫",
+      "summary": [
+        "財訊：科技股財報暴雷！臺股狂瀉逾1600點失守45K 權值股、AI股受挫",
+        "工商時報：臺股重挫1,156點！AI供應鏈血洗、46檔千金股全倒失守半年線- 證券"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "財訊",
+          "title": "科技股財報暴雷！臺股狂瀉逾1600點失守45K 權值股、AI股受挫",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4LU5MSEphU1dEQ1ljbHFzc090TDVUTmJ6aWFrOTdZSW40b052RWpnbFg2eVVwdmloeWtMVUJ5ek4xM3dRRUliV1g3VzZTVXRVdGpkcWloZFVIR2tYR1BjZGtybEZuWmtvYUVHaXFNc1FOWGxVYWpfYzgzUQ?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "臺股重挫1,156點！AI供應鏈血洗、46檔千金股全倒失守半年線- 證券",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OM1EzbVhURUZuTUJicUlmTzRYLVJIaXMtS0NKb3oxcjVWTXdXcE5sQ2pKa0gwNkM2OURmZ0kwYUJ3V0pfRHNBWnRkblAxaXVoZERaLXFHWllmekR4cDVj?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "​國3北上三鶯段3車連撞佔道 車流嚴重回堵",
+      "summary": [
+        "自由時報：​國3北上三鶯段3車連撞佔道 車流嚴重回堵",
+        "ETtoday：快訊／國3北向土城段事故！2貨車1轎車連環撞　車流嚴重回堵"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "​國3北上三鶯段3車連撞佔道 車流嚴重回堵",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5624038"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／國3北向土城段事故！2貨車1轎車連環撞　車流嚴重回堵",
+          "url": "https://www.ettoday.net/news/20261030/3263579.htm"
         }
       ]
     }
@@ -415,16 +415,16 @@
     },
     {
       "rank": 10,
-      "title": "Spotify eyes early 2027 launch for AI powered remix service - report",
+      "title": "2026年10月30日韓聯社要聞簡報",
       "summary": [
-        "Investing.com：Spotify eyes early 2027 launch for AI powered remix service - report"
+        "韓聯社：2026年10月30日韓聯社要聞簡報"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "Spotify eyes early 2027 launch for AI powered remix service - report",
-          "url": "https://www.investing.com/news/stock-market-news/spotify-eyes-early-2027-launch-for-ai-powered-remix-service--report-93CH-4985850"
+          "source": "韓聯社",
+          "title": "2026年10月30日韓聯社要聞簡報",
+          "url": "https://cn.yna.co.kr/view/ACK20261030002600881"
         }
       ]
     }
