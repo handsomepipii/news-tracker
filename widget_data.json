@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-10-31 01:00",
+  "updated_at": "2026-10-31 01:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "河口湖命案! 楊嫌稱赴日輕生誤殺井女高大成打臉:脫罪奧步｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-      "summary": [
-        "TVBS新聞：河口湖命案! 楊嫌稱赴日輕生誤殺井女高大成打臉:脫罪奧步｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-        "自由時報：輝達落腳北士科功勞算蔣萬安？林右昌曝實情「先選擇臺灣」才有臺北",
-        "MoneyDJ理財網：智賦科公告本公司總經理辭任- 新聞"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "河口湖命案! 楊嫌稱赴日輕生誤殺井女高大成打臉:脫罪奧步｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aRDNwdVhJTG84OHVXQTA3WTRlOEtWRWg2cXF0b1pFZ1U3eGk5dWE3WG8yQ1VXNVV0VjVkR2R5eWZBN3JSc0xOUDc0SDNkdEs2ZjN0M0tB?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "輝達落腳北士科功勞算蔣萬安？林右昌曝實情「先選擇臺灣」才有臺北",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5624182"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "智賦科公告本公司總經理辭任- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU08wMHRIT0RuS2NqY2FnMmpSTFFrS2k0dmdxLVl0M1N2cmdtTHcwa05jM1d4Tms5SkFmZzZXM1BrNlJxZkpxUXpLNEltRUVpbXRoNENFQU42dmlad2xnWmZFcDNraE0wbnN6b2pDdXQzRjU5UVRyX1dnd0xKMldZS2FpUEIyVEIxQ05ZbWNpUlVxZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "外媒爆與黃仁勳密切往來！中國女間諜履歷超狂　跨媒體金融界",
       "summary": [
         "ETtoday：外媒爆與黃仁勳密切往來！中國女間諜履歷超狂　跨媒體金融界",
@@ -56,28 +29,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "歐洲央行總裁拉加德坦言無法再保持中立　將提前卸任",
-      "summary": [
-        "經濟日報：歐洲央行總裁拉加德坦言無法再保持中立　將提前卸任",
-        "科技新報：歐洲央行總裁拉加德坦言無法再保持中立，將提前卸任"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "歐洲央行總裁拉加德坦言無法再保持中立　將提前卸任",
-          "url": "https://money.udn.com/money/story/5599/9846927"
-        },
-        {
-          "source": "科技新報",
-          "title": "歐洲央行總裁拉加德坦言無法再保持中立，將提前卸任",
-          "url": "https://finance.technews.tw/2026/10/30/christine-lagarde-says-she-can-no-longer-remain-neutral-and-will-step-down-early/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "title": "【重訊】4304 勝昱：公告本公司董事辭任",
       "summary": [
         "公開資訊觀測站：【重訊】4304 勝昱：公告本公司董事辭任",
@@ -98,7 +50,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "AXT 磷化銦訂單爆棚、高層直呼擴產仍跟不上需求",
       "summary": [
         "科技新報：AXT 磷化銦訂單爆棚、高層直呼擴產仍跟不上需求",
@@ -119,7 +71,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "破除ASIC延後雜音！聯發科：ASIC業務明年營收衝160億美元",
       "summary": [
         "自由時報：破除ASIC延後雜音！聯發科：ASIC業務明年營收衝160億美元",
@@ -140,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "船艙裝置「氨氣外洩」 3外籍漁工昏迷送醫｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：船艙裝置「氨氣外洩」 3外籍漁工昏迷送醫｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -161,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "全家行動購部分會員資料遭非法擷取，起因是委外廠商91APP資料庫遭自動化攻擊",
       "summary": [
         "iThome：全家行動購部分會員資料遭非法擷取，起因是委外廠商91APP資料庫遭自動化攻擊",
@@ -182,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "TRM Labs：幣安被駭63億美元遭竊　北韓駭客涉嫌犯案",
       "summary": [
         "經濟日報：TRM Labs：幣安被駭63億美元遭竊　北韓駭客涉嫌犯案",
@@ -203,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "日本退稅新制衝擊買氣？ 業界估年底前恐有適應期",
       "summary": [
         "經濟日報：日本退稅新制衝擊買氣？ 業界估年底前恐有適應期",
@@ -222,6 +174,48 @@
           "url": "https://finance.technews.tw/2026/10/30/japan-new-tax-refund-system-affect-sales-industry-estimates-adaptation-period-year-end/"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "日本退稅新制一定要逐件開箱？ 綠燈5秒可直接通關",
+      "summary": [
+        "經濟日報：日本退稅新制一定要逐件開箱？ 綠燈5秒可直接通關",
+        "科技新報：日本退稅新制一定要逐件開箱？綠燈 5 秒可直接通關"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "日本退稅新制一定要逐件開箱？ 綠燈5秒可直接通關",
+          "url": "https://money.udn.com/money/story/5599/9847190"
+        },
+        {
+          "source": "科技新報",
+          "title": "日本退稅新制一定要逐件開箱？綠燈 5 秒可直接通關",
+          "url": "https://finance.technews.tw/2026/10/30/japan-new-tax-refund-system-unboxing-required-5-second-green-light-clearance/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "日本退稅新制11月上路 防堵逃稅兼顧購物便利",
+      "summary": [
+        "經濟日報：日本退稅新制11月上路 防堵逃稅兼顧購物便利",
+        "科技新報：日本退稅新制 11 月上路，防堵逃稅兼顧購物便利"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "日本退稅新制11月上路 防堵逃稅兼顧購物便利",
+          "url": "https://money.udn.com/money/story/5599/9847188"
+        },
+        {
+          "source": "科技新報",
+          "title": "日本退稅新制 11 月上路，防堵逃稅兼顧購物便利",
+          "url": "https://finance.technews.tw/2026/10/30/japan-new-tax-refund-system-november-prevent-evasion-shopping-convenience/"
+        }
+      ]
     }
   ],
   "global": [
@@ -233,7 +227,7 @@
         "The Verge：Binance hackers stole $6.3 billion in record-breaking crypto heist",
         "Ars Technica：Hackers steal $6.3 billion from Binance in record crypto heist"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "Tom's Hardware",
@@ -249,32 +243,16 @@
           "source": "Ars Technica",
           "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
           "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
+        },
+        {
+          "source": "BBC World",
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "Estimated $6.3 Billion Hacked in Binance Security Breach",
-      "summary": [
-        "Bloomberg Markets：Estimated $6.3 Billion Hacked in Binance Security Breach",
-        "Bloomberg Tech：Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Estimated $6.3 Billion Hacked in Binance Security Breach",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-30/estimated-6-3-billion-hacked-in-binance-security-breach-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-30/binance-suffers-6-3-bln-hack-in-crypto-s-biggest-heist-video"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Nasdaq futures tumble as Amazon, Intel results deepen AI spending woes",
       "summary": [
         "Investing.com：Nasdaq futures tumble as Amazon, Intel results deepen AI spending woes",
@@ -295,7 +273,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "NatWest shares fall as impairments nearly double, UK bank surcharge doubles",
       "summary": [
         "Investing.com：NatWest shares fall as impairments nearly double, UK bank surcharge doubles",
@@ -312,6 +290,27 @@
           "source": "WSJ Markets",
           "title": "NatWest Shares Fall After Bank’s Interest Income Guidance Disappoints",
           "url": "https://www.wsj.com/business/earnings/natwest-earnings-boosted-by-higher-net-interest-income-20ebc371?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea",
+      "summary": [
+        "WSJ Markets：Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea",
+        "The Guardian：How crypto hacking funds isolated North Korea’s nuclear programme"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "WSJ Markets",
+          "title": "Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea",
+          "url": "https://www.wsj.com/finance/clues-point-to-familiar-culprit-in-massive-binance-crypto-heist-north-korea-d1fd887d?mod=rss_markets_main"
+        },
+        {
+          "source": "The Guardian",
+          "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
+          "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme"
         }
       ]
     },
@@ -380,46 +379,52 @@
     },
     {
       "rank": 8,
-      "title": "玻璃摩天大樓：壯麗的城市天際線有多「熱」？",
+      "title": "CD&R pursues buyout of $40 billion payments processor Global Payments, FT reports",
       "summary": [
-        "紐約時報中文：玻璃摩天大樓：壯麗的城市天際線有多「熱」？"
+        "Investing.com：CD&R pursues buyout of $40 billion payments processor Global Payments, FT reports",
+        "Financial Times：CD&R pursues buyout of $40bn card processor Global Payments"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "紐約時報中文",
-          "title": "玻璃摩天大樓：壯麗的城市天際線有多「熱」？",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3dKel9KQXB3cmJHZG16cW9VM2xWcVE5cjYwYkMza2lnS083VloxeFJwNFVCbzBGdkppT0lCNGxXbUVLaGRIR3h1SmE3UlJnQlN5ZUJfWnhHQVBGaXBGS2FGUlJoOGlmbWlHUjlRMzY5Uk5NTXZUU0stVlIyd05vRnVNRXlqR3lZRnlBNGs4OA?oc=5"
+          "source": "Investing.com",
+          "title": "CD&R pursues buyout of $40 billion payments processor Global Payments, FT reports",
+          "url": "https://www.investing.com/news/stock-market-news/cdr-pursues-buyout-of-40-billion-payments-processor-global-payments-ft-reports-4988379"
+        },
+        {
+          "source": "Financial Times",
+          "title": "CD&R pursues buyout of $40bn card processor Global Payments",
+          "url": "https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "松屋フーズ 不正アクセスで個人情報237萬件餘漏えい",
+      "title": "Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist",
       "summary": [
-        "NHK新聞：松屋フーズ 不正アクセスで個人情報237萬件餘漏えい"
+        "Bloomberg Tech：Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "松屋フーズ 不正アクセスで個人情報237萬件餘漏えい",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261030de68425"
+          "source": "Bloomberg Tech",
+          "title": "Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-30/binance-suffers-6-3-bln-hack-in-crypto-s-biggest-heist-video"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "Why is AIA Group stock rising today?",
+      "title": "Spotify eyes early 2027 launch for AI powered remix service - report",
       "summary": [
-        "Investing.com：Why is AIA Group stock rising today?"
+        "Investing.com：Spotify eyes early 2027 launch for AI powered remix service - report"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Investing.com",
-          "title": "Why is AIA Group stock rising today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-aia-group-stock-rising-today-93CH-4985821"
+          "title": "Spotify eyes early 2027 launch for AI powered remix service - report",
+          "url": "https://www.investing.com/news/stock-market-news/spotify-eyes-early-2027-launch-for-ai-powered-remix-service--report-93CH-4985850"
         }
       ]
     }
