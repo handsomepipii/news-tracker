@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 00:01",
+  "updated_at": "2026-10-31 01:00",
   "taiwan": [
     {
       "rank": 1,
@@ -57,69 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "SpaceX 客戶集中風險曝？傳 Anthropic 佔逾 3 成營收",
-      "summary": [
-        "科技新報：SpaceX 客戶集中風險曝？傳 Anthropic 佔逾 3 成營收",
-        "經濟日報：Anthropic 成為 SpaceX 最大單一客戶 每月貢獻或高達約30億美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "SpaceX 客戶集中風險曝？傳 Anthropic 佔逾 3 成營收",
-          "url": "https://finance.technews.tw/2026/10/30/spacexs-largest-3-billion-a-month-customer-b-is-anthropic/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "Anthropic 成為 SpaceX 最大單一客戶 每月貢獻或高達約30億美元",
-          "url": "https://money.udn.com/money/story/5599/9846130"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "AWS 創近五年最快成長！Amazon 卻因 AI 支出過高，股價盤後重挫 7%",
-      "summary": [
-        "INSIDE硬塞：AWS 創近五年最快成長！Amazon 卻因 AI 支出過高，股價盤後重挫 7%",
-        "科技報橘：AWS 創近五年最快成長、Google Cloud 營收翻倍，股價卻下跌：華爾街為何擔心 AI 燒錢？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "INSIDE硬塞",
-          "title": "AWS 創近五年最快成長！Amazon 卻因 AI 支出過高，股價盤後重挫 7%",
-          "url": "https://www.inside.com.tw/article/42777-amazon-aws-fastest-growth-ai-spending-stock-drop"
-        },
-        {
-          "source": "科技報橘",
-          "title": "AWS 創近五年最快成長、Google Cloud 營收翻倍，股價卻下跌：華爾街為何擔心 AI 燒錢？",
-          "url": "https://techorange.com/2026/10/30/amazon-alphabet-ai-capex-cloud-cash-flow/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "路透：美軍基地冷凍裝置接連故障　五角大廈懷疑遭網攻",
-      "summary": [
-        "經濟日報：路透：美軍基地冷凍裝置接連故障　五角大廈懷疑遭網攻",
-        "科技新報：路透：美軍基地冷凍裝置接連故障，五角大廈懷疑遭網攻"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "路透：美軍基地冷凍裝置接連故障　五角大廈懷疑遭網攻",
-          "url": "https://money.udn.com/money/story/5599/9846835"
-        },
-        {
-          "source": "科技新報",
-          "title": "路透：美軍基地冷凍裝置接連故障，五角大廈懷疑遭網攻",
-          "url": "https://infosecu.technews.tw/2026/10/30/pentagon-suspects-cyberattack-us-military-bases-refrigeration-failures/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "歐洲央行總裁拉加德坦言無法再保持中立　將提前卸任",
       "summary": [
         "經濟日報：歐洲央行總裁拉加德坦言無法再保持中立　將提前卸任",
@@ -140,7 +77,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "【重訊】4304 勝昱：公告本公司董事辭任",
       "summary": [
         "公開資訊觀測站：【重訊】4304 勝昱：公告本公司董事辭任",
@@ -161,7 +98,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "AXT 磷化銦訂單爆棚、高層直呼擴產仍跟不上需求",
       "summary": [
         "科技新報：AXT 磷化銦訂單爆棚、高層直呼擴產仍跟不上需求",
@@ -182,7 +119,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "破除ASIC延後雜音！聯發科：ASIC業務明年營收衝160億美元",
       "summary": [
         "自由時報：破除ASIC延後雜音！聯發科：ASIC業務明年營收衝160億美元",
@@ -203,7 +140,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "船艙裝置「氨氣外洩」 3外籍漁工昏迷送醫｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：船艙裝置「氨氣外洩」 3外籍漁工昏迷送醫｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -222,48 +159,74 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GOHowTTdBSVJJMjdwbGh5ZFFUN3BzMGtGRkROX2N1VXVCc3FVM1ZNcG5ybDc2VG1IT2NSU3ViWnktOUdzcDZnR2lrWE81c0k?oc=5"
         }
       ]
+    },
+    {
+      "rank": 8,
+      "title": "全家行動購部分會員資料遭非法擷取，起因是委外廠商91APP資料庫遭自動化攻擊",
+      "summary": [
+        "iThome：全家行動購部分會員資料遭非法擷取，起因是委外廠商91APP資料庫遭自動化攻擊",
+        "公開資訊觀測站重訊：全家行動購部分會員資料遭非法擷取，委外廠商91APP資料庫遭自動化攻擊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "全家行動購部分會員資料遭非法擷取，起因是委外廠商91APP資料庫遭自動化攻擊",
+          "url": "https://www.ithome.com.tw/news/180105"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "全家行動購部分會員資料遭非法擷取，委外廠商91APP資料庫遭自動化攻擊",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XSGhVa2VnQ3YxS0pzQ3NrMUV3UTVwdzNzMHQzSVNCOU1JLWpZdktvUURwZktmRTF0WngycWs1Z3dCRlB1T3BidGdLQzJoZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "TRM Labs：幣安被駭63億美元遭竊　北韓駭客涉嫌犯案",
+      "summary": [
+        "經濟日報：TRM Labs：幣安被駭63億美元遭竊　北韓駭客涉嫌犯案",
+        "科技新報：TRM Labs：幣安被駭 63 億美元遭竊，北韓駭客涉嫌犯案"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "TRM Labs：幣安被駭63億美元遭竊　北韓駭客涉嫌犯案",
+          "url": "https://money.udn.com/money/story/5599/9847263"
+        },
+        {
+          "source": "科技新報",
+          "title": "TRM Labs：幣安被駭 63 億美元遭竊，北韓駭客涉嫌犯案",
+          "url": "https://infosecu.technews.tw/2026/10/30/trm-labs-binance-hacked-6-3-billion-stolen-north-korean-hackers-suspected/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "日本退稅新制衝擊買氣？ 業界估年底前恐有適應期",
+      "summary": [
+        "經濟日報：日本退稅新制衝擊買氣？ 業界估年底前恐有適應期",
+        "科技新報：日本退稅新制衝擊買氣？業界估年底前恐有適應期"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "日本退稅新制衝擊買氣？ 業界估年底前恐有適應期",
+          "url": "https://money.udn.com/money/story/5599/9847220"
+        },
+        {
+          "source": "科技新報",
+          "title": "日本退稅新制衝擊買氣？業界估年底前恐有適應期",
+          "url": "https://finance.technews.tw/2026/10/30/japan-new-tax-refund-system-affect-sales-industry-estimates-adaptation-period-year-end/"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Binance probes possible $5.7 billion crypto hack, possibly the biggest in history",
-      "summary": [
-        "Yahoo Finance：Binance probes possible $5.7 billion crypto hack, possibly the biggest in history",
-        "Investing.com：Factbox-Where Binance’s $6.3 billion breach ranks in crypto’s biggest hacks and heists",
-        "Bloomberg Markets：Estimated $6.3 Billion Hacked in Binance Security Breach"
-      ],
-      "media_count": 5,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Binance probes possible $5.7 billion crypto hack, possibly the biggest in history",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0dhb1Y0cU9ZT05FaWk4NWlBYkk0Vl9yOUhCOFJPcmthcmIyTDg1MnA5ZjJIQWRBakdjWERGbkp3N2tIbVlxV3diUlg4WkNsQ0U5TUpqODlMd3JKZXJ2TFBWOE5Cb19KVVVDa0xSLU5xSlY1dVBZZVFtZGFUVUIxenEybzUxQWl3alUyY2lmVEZwYjdqM0pJ?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Factbox-Where Binance’s $6.3 billion breach ranks in crypto’s biggest hacks and heists",
-          "url": "https://www.investing.com/news/stock-market-news/factboxwhere-binances-63-billion-breach-ranks-in-cryptos-biggest-hacks-and-heists-4985786"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "Estimated $6.3 Billion Hacked in Binance Security Breach",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-30/estimated-6-3-billion-hacked-in-binance-security-breach-video"
-        },
-        {
-          "source": "CNBC",
-          "title": "Binance's $6.3 billion hack: What we know and what comes next",
-          "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-30/binance-suffers-6-3-bln-hack-in-crypto-s-biggest-heist-video"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Suspected North Korean hackers steal $5.6 billion in crypto in record-breaking cryptocurrency heist, Binance withdrawals frozen",
       "summary": [
         "Tom's Hardware：Suspected North Korean hackers steal $5.6 billion in crypto in record-breaking cryptocurrency heist, Binance withdrawals frozen",
@@ -290,6 +253,27 @@
       ]
     },
     {
+      "rank": 2,
+      "title": "Estimated $6.3 Billion Hacked in Binance Security Breach",
+      "summary": [
+        "Bloomberg Markets：Estimated $6.3 Billion Hacked in Binance Security Breach",
+        "Bloomberg Tech：Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Estimated $6.3 Billion Hacked in Binance Security Breach",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-30/estimated-6-3-billion-hacked-in-binance-security-breach-video"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-30/binance-suffers-6-3-bln-hack-in-crypto-s-biggest-heist-video"
+        }
+      ]
+    },
+    {
       "rank": 3,
       "title": "Nasdaq futures tumble as Amazon, Intel results deepen AI spending woes",
       "summary": [
@@ -312,27 +296,6 @@
     },
     {
       "rank": 4,
-      "title": "Binance Freezes Assets After Suspected Hack",
-      "summary": [
-        "Bloomberg Markets：Binance Freezes Assets After Suspected Hack",
-        "Yahoo Finance：Binance freezes assets after $6.3 billion heist, crypto industry's biggest"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Binance Freezes Assets After Suspected Hack",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-30/the-asia-trade-10-30-2026-video"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Binance freezes assets after $6.3 billion heist, crypto industry's biggest",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUk91M0NvMWF6S2xLUktmbkcxQ1VBVDBDSnRZSVZZcjJxNVJ3a3VLZ3RxaWFTYWNlRE16bTRnV0VFRnM5b09LUnIzTVV5Slk2VDRaZ0Q5alFvclowelhHWUFXcXNwRUs3RmlxTkNDS0dBeHRCM2FyOXJtRmZicmJWSWZhNnR3QUJwWHU5UWU0OVZIY25S?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "NatWest shares fall as impairments nearly double, UK bank surcharge doubles",
       "summary": [
         "Investing.com：NatWest shares fall as impairments nearly double, UK bank surcharge doubles",
@@ -353,7 +316,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Intel plummets over 28% as weak forecast overshadows earnings beat",
       "summary": [
         "Investing.com：Intel plummets over 28% as weak forecast overshadows earnings beat",
@@ -374,17 +337,44 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "孫悟空愛上林黛玉：中國AI短劇怎麼成了「不當婚戀」",
+      "rank": 6,
+      "title": "Amazon Taps $80 Billion Supplier Loan Facility to Help Fund AI",
       "summary": [
-        "紐約時報中文：孫悟空愛上林黛玉：中國AI短劇怎麼成了「不當婚戀」"
+        "Bloomberg Tech：Amazon Taps $80 Billion Supplier Loan Facility to Help Fund AI",
+        "Investing.com：Amazon sets up $80 billion supplier financing for AI hardware"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "紐約時報中文",
-          "title": "孫悟空愛上林黛玉：中國AI短劇怎麼成了「不當婚戀」",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdEJsaFR3WFdLWWVwYjFOUFVFc25BaWRzVmNCUGZXRHc5T2FQdHJrWkJiX1pyMTdXUmZHM3JLOWpFVFRPSUZOY0s5b1RKLTNvb0JnSzZEMU1SaFFmcjB0Q2ZtVHRmNEJjcV9RQndWa0V6S1dRa1JoM2dCaHFuUFR0ZWVQc3ZuTlExQ3VN?oc=5"
+          "source": "Bloomberg Tech",
+          "title": "Amazon Taps $80 Billion Supplier Loan Facility to Help Fund AI",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/amazon-taps-80-billion-supplier-loan-facility-to-help-fund-ai"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Amazon sets up $80 billion supplier financing for AI hardware",
+          "url": "https://www.investing.com/news/stock-market-news/amazon-sets-up-80-billion-supplier-financing-for-ai-hardware-4988386"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
+      "summary": [
+        "CNBC：Class action lawsuit blames Trump officials for student loan forgiveness delays",
+        "MarketWatch：Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
+          "url": "https://www.cnbc.com/2026/10/30/lawsuit-blames-trump-officials-for-student-loan-forgiveness-delays.html"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
+          "url": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories"
         }
       ]
     },
