@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 23:06",
+  "updated_at": "2026-10-31 00:01",
   "taiwan": [
     {
       "rank": 1,
@@ -30,39 +30,13 @@
     },
     {
       "rank": 2,
-      "title": "Oracle宣佈2027年秋季將Arm AGI CPU匯入OCI雲端基礎設施，強化通運雲端負載與代理AI需求",
-      "summary": [
-        "癮科技Cool3c：Oracle宣佈2027年秋季將Arm AGI CPU匯入OCI雲端基礎設施，強化通運雲端負載與代理AI需求",
-        "科技新報：強化 AI 代理服務！Oracle 明年秋季將 Arm AGI CPU 匯入 OCI 雲端基礎設施",
-        "經濟日報：甲骨文雲端架構 2027年秋季將匯入Arm AGI CPU"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "癮科技Cool3c",
-          "title": "Oracle宣佈2027年秋季將Arm AGI CPU匯入OCI雲端基礎設施，強化通運雲端負載與代理AI需求",
-          "url": "https://www.cool3c.com/article/253580"
-        },
-        {
-          "source": "科技新報",
-          "title": "強化 AI 代理服務！Oracle 明年秋季將 Arm AGI CPU 匯入 OCI 雲端基礎設施",
-          "url": "https://technews.tw/2026/10/30/arm-oracle-arm-agi-cpu/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "甲骨文雲端架構 2027年秋季將匯入Arm AGI CPU",
-          "url": "https://money.udn.com/money/story/5599/9847783"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "外媒爆與黃仁勳密切往來！中國女間諜履歷超狂　跨媒體金融界",
       "summary": [
         "ETtoday：外媒爆與黃仁勳密切往來！中國女間諜履歷超狂　跨媒體金融界",
-        "經濟日報：與黃仁勳關係密切！中國女高管疑是間諜 美媒起底驚人履歷"
+        "經濟日報：與黃仁勳關係密切！中國女高管疑是間諜 美媒起底驚人履歷",
+        "自由時報：黃仁勳身邊藏「女共諜」 中國女主管驚人履歷美媒起底"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "ETtoday",
@@ -73,74 +47,16 @@
           "source": "經濟日報",
           "title": "與黃仁勳關係密切！中國女高管疑是間諜 美媒起底驚人履歷",
           "url": "https://money.udn.com/money/story/5599/9847197"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "【新新聞】賴清德為何不愛蓋社宅？彭揚凱：從臺南市長時代就如此",
-      "summary": [
-        "風傳媒：【新新聞】賴清德為何不愛蓋社宅？彭揚凱：從臺南市長時代就如此",
-        "TVBS新聞：青森路像「輕生路」! 臺南新路名惹議弘前路又被嫌像黃泉路｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "風傳媒",
-          "title": "【新新聞】賴清德為何不愛蓋社宅？彭揚凱：從臺南市長時代就如此",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiNUlRQ09WV2tXVEZ0MkVNRTVqaHJacHJ1XzlXTXpyUFFnbzVfcFJLU2FseEJhcFlpTGxKWFkxVlFUTjlYLWh5cXZ0YWE1UQ?oc=5"
         },
         {
-          "source": "TVBS新聞",
-          "title": "青森路像「輕生路」! 臺南新路名惹議弘前路又被嫌像黃泉路｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UWHRfZGlpbUtqTU9WcE9LTUxna2VhUnlVbVN2VHdZYktYUW01bzBhbmZDQ1pfYTZRNEktODBnZ01xaWtjdFZhSk9uS0dvSHE5VGtGV3hR?oc=5"
+          "source": "自由時報",
+          "title": "黃仁勳身邊藏「女共諜」 中國女主管驚人履歷美媒起底",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5624247"
         }
       ]
     },
     {
-      "rank": 5,
-      "title": "史上最大加密幣竊案？幣安疑遭駭  比特幣失守 8 萬",
-      "summary": [
-        "科技新報：史上最大加密幣竊案？幣安疑遭駭  比特幣失守 8 萬",
-        "經濟日報：最大加密盜竊之一波及63億美元 幣安證實遭複雜攻擊現多處漏洞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "史上最大加密幣竊案？幣安疑遭駭  比特幣失守 8 萬",
-          "url": "https://infosecu.technews.tw/2026/10/30/binance-suspected-hack-sends-bitcoin-below-80000/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "最大加密盜竊之一波及63億美元 幣安證實遭複雜攻擊現多處漏洞",
-          "url": "https://money.udn.com/money/story/5599/9847762"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "科技巨頭燒錢超出本業獲利　AI軍備競賽引爆市場焦慮",
-      "summary": [
-        "經濟日報：科技巨頭燒錢超出本業獲利　AI軍備競賽引爆市場焦慮",
-        "科技新報：科技巨頭燒錢超出本業獲利，AI 軍備競賽引爆市場焦慮"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "科技巨頭燒錢超出本業獲利　AI軍備競賽引爆市場焦慮",
-          "url": "https://money.udn.com/money/story/123398/9846584"
-        },
-        {
-          "source": "科技新報",
-          "title": "科技巨頭燒錢超出本業獲利，AI 軍備競賽引爆市場焦慮",
-          "url": "https://finance.technews.tw/2026/10/30/tech-giants-burning-cash-beyond-core-profits-ai-arms-race-market-anxiety/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 3,
       "title": "SpaceX 客戶集中風險曝？傳 Anthropic 佔逾 3 成營收",
       "summary": [
         "科技新報：SpaceX 客戶集中風險曝？傳 Anthropic 佔逾 3 成營收",
@@ -161,7 +77,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
       "title": "AWS 創近五年最快成長！Amazon 卻因 AI 支出過高，股價盤後重挫 7%",
       "summary": [
         "INSIDE硬塞：AWS 創近五年最快成長！Amazon 卻因 AI 支出過高，股價盤後重挫 7%",
@@ -182,7 +98,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "路透：美軍基地冷凍裝置接連故障　五角大廈懷疑遭網攻",
       "summary": [
         "經濟日報：路透：美軍基地冷凍裝置接連故障　五角大廈懷疑遭網攻",
@@ -203,7 +119,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "歐洲央行總裁拉加德坦言無法再保持中立　將提前卸任",
       "summary": [
         "經濟日報：歐洲央行總裁拉加德坦言無法再保持中立　將提前卸任",
@@ -220,6 +136,90 @@
           "source": "科技新報",
           "title": "歐洲央行總裁拉加德坦言無法再保持中立，將提前卸任",
           "url": "https://finance.technews.tw/2026/10/30/christine-lagarde-says-she-can-no-longer-remain-neutral-and-will-step-down-early/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "【重訊】4304 勝昱：公告本公司董事辭任",
+      "summary": [
+        "公開資訊觀測站：【重訊】4304 勝昱：公告本公司董事辭任",
+        "MoneyDJ理財網：智賦科公告本公司董事長辭任- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公開資訊觀測站",
+          "title": "【重訊】4304 勝昱：公告本公司董事辭任",
+          "url": "https://mops.twse.com.tw/mops/web/t05sr01_1#mops-4304-10c356f81dbc"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "智賦科公告本公司董事長辭任- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmpDdTgtaGFDYzFmS3VUTGl5cVhPMC0wbUc5dWd0QnBFeVY3RVVKX3Zxa3QxNnU0ZHU3THRxSDY5aXN1VE0tdW53ZTY2eE50dmdoWlNhUXMzVEFFbmk2WVBoVE1kQlRsNW9pLVRqeVNzdHFlWE56czl6c0FXc3QyakF3OEtvNmpMaFFzOEZhMVRQUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "AXT 磷化銦訂單爆棚、高層直呼擴產仍跟不上需求",
+      "summary": [
+        "科技新報：AXT 磷化銦訂單爆棚、高層直呼擴產仍跟不上需求",
+        "MoneyDJ理財網：AXT磷化銦訂單爆棚、高層直呼擴產仍跟不上需求- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "AXT 磷化銦訂單爆棚、高層直呼擴產仍跟不上需求",
+          "url": "https://finance.technews.tw/2026/10/30/axt-struggles-to-keep-up-with-indium-phosphide-demand-despite-expansion/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "AXT磷化銦訂單爆棚、高層直呼擴產仍跟不上需求- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMDBnUXh2MDc1WFpWZ2YyZXplZFhuTDBQdGE2TFBuelFEd252Z1NiMkdkX280eXd3QlVyalZjMzBTOGtHTU91MEo4RVJSMUozcW1NemJnT0ZNSll6UVVaUEo1RUJNdDVHUUdiUFNrME9hWV8ycmFicl9mTGtqU0YyZW9mV29iLXkwMUxnNkd2clRVZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "破除ASIC延後雜音！聯發科：ASIC業務明年營收衝160億美元",
+      "summary": [
+        "自由時報：破除ASIC延後雜音！聯發科：ASIC業務明年營收衝160億美元",
+        "MoneyDJ理財網：聯發科AI ASIC明年營收拚160億美元，第2款後年量產- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "破除ASIC延後雜音！聯發科：ASIC業務明年營收衝160億美元",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5623967"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "聯發科AI ASIC明年營收拚160億美元，第2款後年量產- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNek9hd05PeEh3VnNhQ1RQdVhUNVZPS2pfMkJQWE8tdGFBaDdxUERFV0ltTG9xS1RvdXpjc3E1ekRQWUgyalFjWmxEZl9MODVBc0tFS0dKVjdnVUIxdmFLTVgwV0F1WEhkNkhrU1RpQnl2RXpnSUFHVUNQLU5xRmVIZnBEUTVZcVhxU0NNN3puV09pUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "船艙裝置「氨氣外洩」 3外籍漁工昏迷送醫｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+      "summary": [
+        "TVBS新聞：船艙裝置「氨氣外洩」 3外籍漁工昏迷送醫｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "公視新聞：南方澳漁港疑漁船氨氣外洩 3漁工昏迷船艙送醫"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "船艙裝置「氨氣外洩」 3外籍漁工昏迷送醫｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HSG9RLUItNE5aWnJPdU1HQl9xUzVyN0tYOUI1SnZHNVAzM0IyMnJrbUlWd3dsQjVXRDI4dDRvMzhsNk5Pc09jcjFUaFhyTFc0ZWNlS2xR?oc=5"
+        },
+        {
+          "source": "公視新聞",
+          "title": "南方澳漁港疑漁船氨氣外洩 3漁工昏迷船艙送醫",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GOHowTTdBSVJJMjdwbGh5ZFFUN3BzMGtGRkROX2N1VXVCc3FVM1ZNcG5ybDc2VG1IT2NSU3ViWnktOUdzcDZnR2lrWE81c0k?oc=5"
         }
       ]
     }
@@ -375,21 +375,6 @@
     },
     {
       "rank": 7,
-      "title": "大選未產生明確獲勝者，誰能最終成為以色列總理？",
-      "summary": [
-        "紐約時報中文：大選未產生明確獲勝者，誰能最終成為以色列總理？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "大選未產生明確獲勝者，誰能最終成為以色列總理？",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWdDWWRreUxBckUtRDNkejVCTmRXMzJJOVBHeUxwWUJZN2ZhRkgtcGVPUl9kZU1rRExyUTY3Mk9nblNxOTRkek9ZeGlIR1puaUtOZHpxcHJTYTVFNGlRMURYaWFKMTNpWnJ5aHFKM3BRejZrMUFLUFdybkx5SDNZaUkwLXVkeUhM?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "孫悟空愛上林黛玉：中國AI短劇怎麼成了「不當婚戀」",
       "summary": [
         "紐約時報中文：孫悟空愛上林黛玉：中國AI短劇怎麼成了「不當婚戀」"
@@ -404,7 +389,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "玻璃摩天大樓：壯麗的城市天際線有多「熱」？",
       "summary": [
         "紐約時報中文：玻璃摩天大樓：壯麗的城市天際線有多「熱」？"
@@ -419,7 +404,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "松屋フーズ 不正アクセスで個人情報237萬件餘漏えい",
       "summary": [
         "NHK新聞：松屋フーズ 不正アクセスで個人情報237萬件餘漏えい"
@@ -430,6 +415,21 @@
           "source": "NHK新聞",
           "title": "松屋フーズ 不正アクセスで個人情報237萬件餘漏えい",
           "url": "https://news.web.nhk/newsweb/na/nd-20261030de68425"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Why is AIA Group stock rising today?",
+      "summary": [
+        "Investing.com：Why is AIA Group stock rising today?"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Why is AIA Group stock rising today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-aia-group-stock-rising-today-93CH-4985821"
         }
       ]
     }
