@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 18:02",
+  "updated_at": "2026-10-30 18:58",
   "taiwan": [
     {
       "rank": 1,
@@ -51,27 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "東京著名商店街再傳竊案　歹徒帶走近千萬元名錶",
-      "summary": [
-        "經濟日報：東京著名商店街再傳竊案　歹徒帶走近千萬元名錶",
-        "自由時報：東京著名商店街再傳竊案 歹徒帶走近千萬元名錶"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "東京著名商店街再傳竊案　歹徒帶走近千萬元名錶",
-          "url": "https://money.udn.com/money/story/5599/9846071"
-        },
-        {
-          "source": "自由時報",
-          "title": "東京著名商店街再傳竊案 歹徒帶走近千萬元名錶",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623392"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "不只1兆美元！Alphabet再揭985億美元潛在負擔 AI風險有多大？",
       "summary": [
         "鉅亨網：不只1兆美元！Alphabet再揭985億美元潛在負擔 AI風險有多大？",
@@ -92,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "不押誰的AI最強！華爾街搶當房東 靠科技巨頭長約收租",
       "summary": [
         "鉅亨網：不押誰的AI最強！華爾街搶當房東 靠科技巨頭長約收租",
@@ -113,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "「X教授」派崔克史都華辭世 享壽86歲",
       "summary": [
         "自由時報：「X教授」派崔克史都華辭世 享壽86歲",
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "失落的西班牙榮耀？高鐵追撞事故已68死，2026年第二起重大鐵路傷亡慘案",
       "summary": [
         "轉角國際：失落的西班牙榮耀？高鐵追撞事故已68死，2026年第二起重大鐵路傷亡慘案",
@@ -155,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "紐時爆「陸女間諜鎖定黃仁勳」 川普早知情未採行動｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：紐時爆「陸女間諜鎖定黃仁勳」 川普早知情未採行動｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -176,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "河口湖命案女嫌最新供詞曝光！稱想自殺遭阻止 刀子卻刺中死者",
       "summary": [
         "經濟日報：河口湖命案女嫌最新供詞曝光！稱想自殺遭阻止 刀子卻刺中死者",
@@ -197,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "AI 籌資也看財力 微軟發債250億美元吸4.6倍認購 高負債業者望塵莫及",
       "summary": [
         "經濟日報：AI 籌資也看財力 微軟發債250億美元吸4.6倍認購 高負債業者望塵莫及",
@@ -214,6 +193,27 @@
           "source": "科技新報",
           "title": "微軟發債 250 億美元籌 AI 資金  超額認購逾三倍",
           "url": "https://finance.technews.tw/2026/10/30/microsoft-expects-to-raise-25-billion-in-us-bond-sale/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "以色列大選組閣陷僵局！納坦雅胡陣營「未過半」　揭4種政局走向",
+      "summary": [
+        "ETtoday：以色列大選組閣陷僵局！納坦雅胡陣營「未過半」　揭4種政局走向",
+        "轉角國際：以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "以色列大選組閣陷僵局！納坦雅胡陣營「未過半」　揭4種政局走向",
+          "url": "https://www.ettoday.net/news/20261030/3263227.htm"
+        },
+        {
+          "source": "轉角國際",
+          "title": "以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GdW5MU1pSaGlnTGhtM1l1Y1lxTlFEMldqbGswZGRocjFrTm5LT3lsbVNhNDJZYnlaZ0J0eWllZGtQOWpFc1hFcDdiQjg0MlhIRzRNamtBWDd1OVZtd2x2c3JNMFRUZ9IBa0FVX3lxTE13R283ZWY5SXZsT0sxcER6amtHWG5NZnBSbWlHa21wU1VKdko5ZmlaYThzNlVERkxiRUVKa0daV2VhcndJaWttbmdFcEJoNmltbkNJTEpYY1VEbFBHZmpsQ1hxY0haeXZCOTNR?oc=5"
         }
       ]
     }
@@ -375,6 +375,21 @@
     },
     {
       "rank": 9,
+      "title": "孫悟空愛上林黛玉：中國AI短劇怎麼成了「不當婚戀」",
+      "summary": [
+        "紐約時報中文：孫悟空愛上林黛玉：中國AI短劇怎麼成了「不當婚戀」"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "孫悟空愛上林黛玉：中國AI短劇怎麼成了「不當婚戀」",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdEJsaFR3WFdLWWVwYjFOUFVFc25BaWRzVmNCUGZXRHc5T2FQdHJrWkJiX1pyMTdXUmZHM3JLOWpFVFRPSUZOY0s5b1RKLTNvb0JnSzZEMU1SaFFmcjB0Q2ZtVHRmNEJjcV9RQndWa0V6S1dRa1JoM2dCaHFuUFR0ZWVQc3ZuTlExQ3VN?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "玻璃摩天大樓：壯麗的城市天際線有多「熱」？",
       "summary": [
         "紐約時報中文：玻璃摩天大樓：壯麗的城市天際線有多「熱」？"
@@ -385,21 +400,6 @@
           "source": "紐約時報中文",
           "title": "玻璃摩天大樓：壯麗的城市天際線有多「熱」？",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3dKel9KQXB3cmJHZG16cW9VM2xWcVE5cjYwYkMza2lnS083VloxeFJwNFVCbzBGdkppT0lCNGxXbUVLaGRIR3h1SmE3UlJnQlN5ZUJfWnhHQVBGaXBGS2FGUlJoOGlmbWlHUjlRMzY5Uk5NTXZUU0stVlIyd05vRnVNRXlqR3lZRnlBNGs4OA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "松屋フーズ 不正アクセスで個人情報237萬件餘漏えい",
-      "summary": [
-        "NHK新聞：松屋フーズ 不正アクセスで個人情報237萬件餘漏えい"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "松屋フーズ 不正アクセスで個人情報237萬件餘漏えい",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261030de68425"
         }
       ]
     }
