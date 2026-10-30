@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-10-30 12:57",
+  "updated_at": "2026-10-30 13:56",
   "taiwan": [
     {
       "rank": 1,
+      "title": "臺積電 HPC需求強- 日報",
+      "summary": [
+        "工商時報：臺積電 HPC需求強- 日報",
+        "TVBS新聞：臺股大屠殺! 大盤.臺積電摜破半年線聯發科失守4千.臺達電觸跌停｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "經濟日報：華爾街日報：Anthropic上市有利臺灣國安"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "工商時報",
+          "title": "臺積電 HPC需求強- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SYlpDay1PWlZweGhOS0NFT2ZlVTJtWE5DbVQyczlvMkN0bUFTUUs1bUdVdmlld0RIejM1QVdkTHZrZ1NEbzJPWkZPeHNBQnRNclY4SVpkTjVGVlBBUGZr?oc=5"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "臺股大屠殺! 大盤.臺積電摜破半年線聯發科失守4千.臺達電觸跌停｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5naTBaR3UyblBHdmJnUHdQRXRGbDE5b1VQQi1mUWJlQmZDYjlCN29pWVBqVGtlNlgtcmFaVjY1Y28xbEw3U3h0SXp0dHhzT3gyYnhEXzBB?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "華爾街日報：Anthropic上市有利臺灣國安",
+          "url": "https://money.udn.com/money/story/123398/9846856"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "東京銀座噴灑刺激物案30人不適　留學生落網",
       "summary": [
         "自由時報：東京銀座噴灑刺激物案30人不適　留學生落網",
@@ -29,7 +56,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "紐時揭身邊有中國間諜？黃仁勳親回應：與對方往來正常",
       "summary": [
         "經濟日報：紐時揭身邊有中國間諜？黃仁勳親回應：與對方往來正常",
@@ -56,49 +83,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "西班牙高鐵追撞悲劇釀68死：控制中心疑「錯誤放行」，導致後車高速撞擊前車 | 李靖棠 | 新聞",
-      "summary": [
-        "風傳媒：西班牙高鐵追撞悲劇釀68死：控制中心疑「錯誤放行」，導致後車高速撞擊前車 | 李靖棠 | 新聞",
-        "轉角國際：失落的西班牙榮耀？高鐵追撞事故已68死，2026年第二起重大鐵路傷亡慘案"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "風傳媒",
-          "title": "西班牙高鐵追撞悲劇釀68死：控制中心疑「錯誤放行」，導致後車高速撞擊前車 | 李靖棠 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EakRSVWwyR3lCcXdtZVFiNjRUdWNhanJCNEVrN1BfeENoYmJyQWJzcVhCWmc2TDA1bnpieEZSU1pPXzI3UWgxcmF6V1FEdw?oc=5"
-        },
-        {
-          "source": "轉角國際",
-          "title": "失落的西班牙榮耀？高鐵追撞事故已68死，2026年第二起重大鐵路傷亡慘案",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xMWMtQW9HeDZrTkt6WGZSeDRjUUV5Z1BGc3Z4dUJ2X0JXemFXWnNUbXZoLWZZa3J1UmNOM2ItNXUwSEdmQ3NGNWxvXy12bnVabnRvQy1sWjZJM2NLdW1oNWFaQzg5cWZnZWpGV1NwbzQtbjlkZktr0gFrQVVfeXFMUEZZOC1EYXozc1pFZ0ZRWUNaWTBuUXNCQzFHV2RfTzZWeVh0dkhlcFdCRzhZQThQYUR2NW5jRU5RSkhkQktuSWxYTVdXTl9BZjl5SndQWHM2amNuNnd5NHVuYlJPeVNqLXgtWGc?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 4,
-      "title": "臺南火車站鋼琴不能隨便彈？臺鐵突貼公告 市府協調：演奏免申請",
-      "summary": [
-        "自由時報：臺南火車站鋼琴不能隨便彈？臺鐵突貼公告 市府協調：演奏免申請",
-        "ETtoday：臺南火車站突公告：禁止未經申請樂器演奏　市府出面協調"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "臺南火車站鋼琴不能隨便彈？臺鐵突貼公告 市府協調：演奏免申請",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5623358"
-        },
-        {
-          "source": "ETtoday",
-          "title": "臺南火車站突公告：禁止未經申請樂器演奏　市府出面協調",
-          "url": "https://www.ettoday.net/news/20261030/3263179.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "法國萬聖夜將迎來新一波示威　內政部長要求加強維安部署",
       "summary": [
         "自由時報：法國萬聖夜將迎來新一波示威　內政部長要求加強維安部署",
@@ -119,7 +104,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "日本議員揭露李琴峰隱私　東京地院勒令賠償",
       "summary": [
         "自由時報：日本議員揭露李琴峰隱私　東京地院勒令賠償",
@@ -140,7 +125,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "聯準會與歐洲央行維持利率不變　歐股收高",
       "summary": [
         "自由時報：聯準會與歐洲央行維持利率不變　歐股收高",
@@ -161,7 +146,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "全球能源價格高漲　歐洲12國承諾釋出4260萬桶戰略儲油",
       "summary": [
         "自由時報：全球能源價格高漲　歐洲12國承諾釋出4260萬桶戰略儲油",
@@ -182,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "日本警方查河口湖命案　嫌稱「不慎刺中對方」",
       "summary": [
         "自由時報：日本警方查河口湖命案　嫌稱「不慎刺中對方」",
@@ -203,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美伊和談希望緩解供應疑慮　國際油價下跌",
       "summary": [
         "自由時報：美伊和談希望緩解供應疑慮　國際油價下跌",
@@ -220,6 +205,27 @@
           "source": "經濟日報",
           "title": "美伊和談希望緩解供應疑慮　國際油價下跌",
           "url": "https://money.udn.com/money/story/5599/9846031"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "走過近140年　芬蘭通訊社將停止新聞及照片服務",
+      "summary": [
+        "自由時報：走過近140年　芬蘭通訊社將停止新聞及照片服務",
+        "經濟日報：走過近140年　芬蘭通訊社將停止新聞及照片服務"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "走過近140年　芬蘭通訊社將停止新聞及照片服務",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5623381"
+        },
+        {
+          "source": "經濟日報",
+          "title": "走過近140年　芬蘭通訊社將停止新聞及照片服務",
+          "url": "https://money.udn.com/money/story/5599/9846030"
         }
       ]
     }
@@ -254,22 +260,28 @@
     },
     {
       "rank": 2,
-      "title": "DoorDash to Buy Rival Instacart in $17 Billion Deal",
+      "title": "Binance probes possible $5.7 billion crypto hack, possibly the biggest in history",
       "summary": [
-        "Bloomberg Markets：DoorDash to Buy Rival Instacart in $17 Billion Deal",
-        "Yahoo Finance：DoorDash strikes $17 billion deal for US rival Instacart in bets on grocery delivery"
+        "Yahoo Finance：Binance probes possible $5.7 billion crypto hack, possibly the biggest in history",
+        "Investing.com：Factbox-Where Binance’s $6.3 billion breach ranks in crypto’s biggest hacks and heists",
+        "Bloomberg Markets：Estimated $6.3 Billion Hacked in Binance Security Breach"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "DoorDash to Buy Rival Instacart in $17 Billion Deal",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-29/doordash-to-buy-rival-instacart-in-17-billion-deal-video"
+          "source": "Yahoo Finance",
+          "title": "Binance probes possible $5.7 billion crypto hack, possibly the biggest in history",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0dhb1Y0cU9ZT05FaWk4NWlBYkk0Vl9yOUhCOFJPcmthcmIyTDg1MnA5ZjJIQWRBakdjWERGbkp3N2tIbVlxV3diUlg4WkNsQ0U5TUpqODlMd3JKZXJ2TFBWOE5Cb19KVVVDa0xSLU5xSlY1dVBZZVFtZGFUVUIxenEybzUxQWl3alUyY2lmVEZwYjdqM0pJ?oc=5"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "DoorDash strikes $17 billion deal for US rival Instacart in bets on grocery delivery",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOXEwS0phU05EdnR5ZE1pSW5BYjEzTk1FejVuWGJZVWloYnl4WHJjV09xMGZJYXVXTWxmRFlpdEYzaVNubm8wSFBNall5ZEhabWwzbGVSZWd2WURlRXZPUnpmeXc4dG8xSHQ4a0lOVXpFN1BqZFJvS2hrOG9sNGYtNFVsX3FUZ2kwc3h3RVpuZVJRWUtTUFo5WkdyZ0cyZw?oc=5"
+          "source": "Investing.com",
+          "title": "Factbox-Where Binance’s $6.3 billion breach ranks in crypto’s biggest hacks and heists",
+          "url": "https://www.investing.com/news/stock-market-news/factboxwhere-binances-63-billion-breach-ranks-in-cryptos-biggest-hacks-and-heists-4985786"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "Estimated $6.3 Billion Hacked in Binance Security Breach",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-30/estimated-6-3-billion-hacked-in-binance-security-breach-video"
         }
       ]
     },
