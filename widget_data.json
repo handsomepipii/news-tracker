@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 02:12",
+  "updated_at": "2026-11-01 02:55",
   "taiwan": [
     {
       "rank": 1,
@@ -253,6 +253,27 @@
     },
     {
       "rank": 2,
+      "title": "Binance says 90% of stolen assets replenished",
+      "summary": [
+        "Investing.com：Binance says 90% of stolen assets replenished",
+        "The Verge：Binance CEO says 90 percent of stolen assets have been ‘replenished’"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Binance says 90% of stolen assets replenished",
+          "url": "https://www.investing.com/news/stock-market-news/binance-says-90-of-stolen-assets-replenished-4989287"
+        },
+        {
+          "source": "The Verge",
+          "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+          "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
       "summary": [
         "CNBC：Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
@@ -273,7 +294,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "波蘭憲法法院上演“宮鬥”?警方包圍法院大樓",
       "summary": [
         "德國之聲：波蘭憲法法院上演“宮鬥”?警方包圍法院大樓",
@@ -294,7 +315,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "- 紐約時報中文網",
       "summary": [
         "紐約時報中文：- 紐約時報中文網"
@@ -309,7 +330,22 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "Business, Politics, Economy and Tech News & Analysis",
+      "summary": [
+        "Nikkei Asia：Business, Politics, Economy and Tech News & Analysis"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Business, Politics, Economy and Tech News & Analysis",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUDQ4UGl1OXc5elJmODU0Z2RpY0QwZE9ISDdlUHFIWFdjZ1l4c2ltNlRiZnp3a2tvYmlicXJoU3dCRUtaWl9aZTRWMHJRcnh0eF8xUnQ5LWVhYV9SQ3BJN2RTNHdrTEY2THVnZHVCLXNuUzAxNll5Mml3MmE0dUZpV1hpcGZsMzhtb2NkMWVaQTdtYUtVZUZhcy1XbFZFY3I1QlFtZ1JDWUZsek43QVNEVHZiWkxFQUcxVjBhLWZn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "“梅拉尼婭應獲諾貝爾和平獎” ：赫爾松在72小時停火中暫獲安寧",
       "summary": [
         "法廣RFI：“梅拉尼婭應獲諾貝爾和平獎” ：赫爾松在72小時停火中暫獲安寧"
@@ -324,7 +360,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
       "summary": [
         "Yahoo Finance：Apple Overtakes Nvidia to Become World’s Most Valuable Company"
@@ -339,7 +375,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Meta builds humanoid robot with Chinese startup Fourier, The Information says",
       "summary": [
         "Investing.com：Meta builds humanoid robot with Chinese startup Fourier, The Information says"
@@ -354,7 +390,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "フィギュアGPシリーズ第2戦 中田璃士が首位発進 友野一希は3位",
       "summary": [
         "NHK新聞：フィギュアGPシリーズ第2戦 中田璃士が首位発進 友野一希は3位"
@@ -365,36 +401,6 @@
           "source": "NHK新聞",
           "title": "フィギュアGPシリーズ第2戦 中田璃士が首位発進 友野一希は3位",
           "url": "https://news.web.nhk/newsweb/na/nd-20261031de68918"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
-      "summary": [
-        "Bloomberg Tech：OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "This German Energy Giant Is an Overlooked AI Bargain",
-      "summary": [
-        "WSJ Markets：This German Energy Giant Is an Overlooked AI Bargain"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "WSJ Markets",
-          "title": "This German Energy Giant Is an Overlooked AI Bargain",
-          "url": "https://www.wsj.com/finance/this-german-energy-giant-is-an-overlooked-ai-bargain-c190ee76?mod=rss_markets_main"
         }
       ]
     }
