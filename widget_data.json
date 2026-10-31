@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 17:46",
+  "updated_at": "2026-10-31 18:43",
   "taiwan": [
     {
       "rank": 1,
@@ -135,6 +135,27 @@
     },
     {
       "rank": 7,
+      "title": "【重訊】4304 勝昱：公告本公司董事辭任",
+      "summary": [
+        "公開資訊觀測站：【重訊】4304 勝昱：公告本公司董事辭任",
+        "MoneyDJ理財網：勝昱公告本公司董事辭任- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公開資訊觀測站",
+          "title": "【重訊】4304 勝昱：公告本公司董事辭任",
+          "url": "https://mops.twse.com.tw/mops/web/t05sr01_1#mops-4304-bcb0d8bb22d0"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "勝昱公告本公司董事辭任- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHFOdkRYT181aFYwWDA0WXNnR082WGtpVjU3WkloV3lKaGJIRXBVQ3FIbjFjRDBibS01RHRQZHpjalNacGxIdmVpbnVjLVdiWTZvMzdNNzFCWnh0SW8zRC1kUGlqNFRNVS05TUhSYnRVeDQ5NU9mcGFkeTJpYjBxdEk3dVkwYmpWU3ZZblpnd3NwZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "景碩董事會透過新增資本支出預算專案，預計投資約598億元",
       "summary": [
         "公開資訊觀測站重訊：景碩董事會透過新增資本支出預算專案，預計投資約598億元",
@@ -155,7 +176,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "中國承認全程監控赴臺海避颱日本巡視船控政治挑釁臺海巡：日本避風符合人道精神| 溫芳瑜 | 新聞",
       "summary": [
         "風傳媒：中國承認全程監控赴臺海避颱日本巡視船控政治挑釁臺海巡：日本避風符合人道精神| 溫芳瑜 | 新聞",
@@ -176,7 +197,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "女共諜接近黃仁勳！美媒：臺灣曾調查及派員監控",
       "summary": [
         "自由時報：女共諜接近黃仁勳！美媒：臺灣曾調查及派員監控",
@@ -195,74 +216,11 @@
           "url": "https://www.ettoday.net/news/20261031/3263743.htm"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "不要命！酒後騎機車上國道還逆向 累犯加重判刑",
-      "summary": [
-        "自由時報：不要命！酒後騎機車上國道還逆向 累犯加重判刑",
-        "ETtoday：男麵攤喝啤酒「騎機車上國道」還逆向　酒駕累犯這下慘了"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "不要命！酒後騎機車上國道還逆向 累犯加重判刑",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5624488"
-        },
-        {
-          "source": "ETtoday",
-          "title": "男麵攤喝啤酒「騎機車上國道」還逆向　酒駕累犯這下慘了",
-          "url": "https://www.ettoday.net/news/20261031/3263812.htm"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "S&P Global revises outlook on Meta to negative on cashflow concerns",
-      "summary": [
-        "Investing.com：S&P Global revises outlook on Meta to negative on cashflow concerns",
-        "CNBC：Meta outlook revised downward by S&P on cash flow and capex concerns"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "S&P Global revises outlook on Meta to negative on cashflow concerns",
-          "url": "https://www.investing.com/news/stock-market-news/sp-global-revises-outlook-on-meta-to-negative-on-cashflow-concerns-4988756"
-        },
-        {
-          "source": "CNBC",
-          "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
-          "url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "S&P cuts Meta outlook to negative amid capex concerns",
-      "summary": [
-        "Investing.com：S&P cuts Meta outlook to negative amid capex concerns",
-        "Bloomberg Tech：Meta’s Rating Outlook Cut to Negative by S&P on Spending Surge"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "S&P cuts Meta outlook to negative amid capex concerns",
-          "url": "https://www.investing.com/news/stock-market-news/sp-global-cuts-meta-outlook-to-negative-amid-capex-concerns-4988733"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Meta’s Rating Outlook Cut to Negative by S&P on Spending Surge",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-30/meta-s-credit-rating-outlook-downgraded-to-negative-by-s-p"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
       "summary": [
         "Financial Times：OpenAI slashes funding target by $10bn as tech anxieties mount",
@@ -283,7 +241,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "紐約時報中文網",
       "summary": [
         "紐約時報中文：紐約時報中文網"
@@ -298,7 +256,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "'Sentiment will take a hit': Binance $6.3 billion hack rattles bitcoin, crypto market",
       "summary": [
         "Yahoo Finance：'Sentiment will take a hit': Binance $6.3 billion hack rattles bitcoin, crypto market"
@@ -313,7 +271,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "Business, Politics, Economy and Tech News & Analysis",
       "summary": [
         "Nikkei Asia：Business, Politics, Economy and Tech News & Analysis"
@@ -328,62 +286,92 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "5年ぶり日ロ外相會談 茂木外相 北海道新聞記者の即時解放要請",
+      "rank": 5,
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
       "summary": [
-        "NHK新聞：5年ぶり日ロ外相會談 茂木外相 北海道新聞記者の即時解放要請"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "5年ぶり日ロ外相會談 茂木外相 北海道新聞記者の即時解放要請",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261031de68824"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "“過去最大級被害”暗號資産大手バイナンス 複雑な攻撃あった",
-      "summary": [
-        "NHK新聞：“過去最大級被害”暗號資産大手バイナンス 複雑な攻撃あった"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "“過去最大級被害”暗號資産大手バイナンス 複雑な攻撃あった",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261031de68827"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "G20外相會合が開幕 茂木外相“G20各國が連攜・協調を”",
-      "summary": [
-        "NHK新聞：G20外相會合が開幕 茂木外相“G20各國が連攜・協調を”"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "G20外相會合が開幕 茂木外相“G20各國が連攜・協調を”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261031de68825"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Police deployed during stand-off over control of Poland's top court",
-      "summary": [
-        "BBC World：Police deployed during stand-off over control of Poland's top court"
+        "BBC World：US approves sale of 500 Patriot missiles to Ukraine"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "BBC World",
-          "title": "Police deployed during stand-off over control of Poland's top court",
-          "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
+          "title": "US approves sale of 500 Patriot missiles to Ukraine",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Opinion | Avoid whole-wheat bread? RFK Jr.’s warning would be harmful — and costly.",
+      "summary": [
+        "Washington Post：Opinion | Avoid whole-wheat bread? RFK Jr.’s warning would be harmful — and costly."
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "Opinion | Avoid whole-wheat bread? RFK Jr.’s warning would be harmful — and costly.",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjI1N3NzYUJEcFVPRXNIYWFnMU5xNk1fVFJCZ0NwVmVNWVR2cVR3T2gwTk9oV2l5dS13SGFJdmtNZ3l5SWQzeXpXeWNCZjVHMVJTcjZMSmF6RHJTQlBSdktsQUpwbTh1TGFaZDQ4VnN6YWJFZU5Vc2pycmFJcXdkbU51TTFyQ0cyMEtkaV9jX3VMMXkxbjNueGRLRE9KaXJhZlRoQXZ4cGxZTWhzVlNMNS01dURJZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Chocolate Price Spook Families for Halloween",
+      "summary": [
+        "Bloomberg Markets：Chocolate Price Spook Families for Halloween"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Chocolate Price Spook Families for Halloween",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-30/chocolate-price-spook-families-for-halloween-video"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Crypto Hack Reignites Regulatory Debate",
+      "summary": [
+        "Bloomberg Markets：Crypto Hack Reignites Regulatory Debate"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Crypto Hack Reignites Regulatory Debate",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-30/crypto-hack-reignites-regulatory-debate-video"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Lonnie Ali & Marc Rosen on New Muhammad Ali Amazon Show",
+      "summary": [
+        "Bloomberg Markets：Lonnie Ali & Marc Rosen on New Muhammad Ali Amazon Show"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Lonnie Ali & Marc Rosen on New Muhammad Ali Amazon Show",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-30/lonnie-ali-marc-rosen-on-new-muhammad-ali-amazon-show-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Bloomberg Screentime: Streaming, AI & Creators",
+      "summary": [
+        "Bloomberg Markets：Bloomberg Screentime: Streaming, AI & Creators"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Bloomberg Screentime: Streaming, AI & Creators",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-screentime-streaming-ai-creators-video"
         }
       ]
     }
