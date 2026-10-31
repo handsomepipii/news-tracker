@@ -52,6 +52,7 @@ JUNK_PATTERNS = [
     r"^(中獎|開獎)號碼",
     r"Stock Price.*News.*Quote.*History",
     r"韓國主要報紙頭條新聞",
+    r"META_TITLE_QUOTE",
 ]
 
 # 用於計算有效字數時，先剝除的媒體標籤前綴（例如「[圖] 韓聯社：」剝除後若無實質內容即過濾）
