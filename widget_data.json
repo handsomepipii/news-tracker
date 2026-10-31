@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-10-31 07:47",
+  "updated_at": "2026-10-31 08:23",
   "taiwan": [
     {
       "rank": 1,
-      "title": "中國女主管與黃仁勳密切往來疑為北京間諜　美媒揭驚人履歷",
+      "title": "黃仁勳身邊藏「女共諜」 中國女主管驚人履歷美媒起底",
       "summary": [
-        "經濟日報：中國女主管與黃仁勳密切往來疑為北京間諜　美媒揭驚人履歷",
         "自由時報：黃仁勳身邊藏「女共諜」 中國女主管驚人履歷美媒起底",
         "ETtoday：黃仁勳身邊藏中國女間諜　美媒：美星臺官員憂洩密"
       ],
-      "media_count": 3,
+      "media_count": 2,
       "links": [
-        {
-          "source": "經濟日報",
-          "title": "中國女主管與黃仁勳密切往來疑為北京間諜　美媒揭驚人履歷",
-          "url": "https://money.udn.com/money/story/5599/9847694"
-        },
         {
           "source": "自由時報",
           "title": "黃仁勳身邊藏「女共諜」 中國女主管驚人履歷美媒起底",
@@ -30,90 +24,6 @@
     },
     {
       "rank": 2,
-      "title": "同志大遊行明登場！蔡康永、炎亞綸確定不出席",
-      "summary": [
-        "自由時報：同志大遊行明登場！蔡康永、炎亞綸確定不出席",
-        "ETtoday：10萬交保遭翻盤！澎湖千萬發票案　男改遭收押禁見"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "同志大遊行明登場！蔡康永、炎亞綸確定不出席",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5624268"
-        },
-        {
-          "source": "ETtoday",
-          "title": "10萬交保遭翻盤！澎湖千萬發票案　男改遭收押禁見",
-          "url": "https://www.ettoday.net/news/20261031/3263713.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "LIVE - 賴瑞隆VS.柯志恩 高雄市長候選人辯論會",
-      "summary": [
-        "自由時報：LIVE - 賴瑞隆VS.柯志恩 高雄市長候選人辯論會",
-        "ETtoday：LIVE／柯志恩交鋒賴瑞隆！　高雄市長候選人首場辯論20:00登場"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "LIVE - 賴瑞隆VS.柯志恩 高雄市長候選人辯論會",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5624070"
-        },
-        {
-          "source": "ETtoday",
-          "title": "LIVE／柯志恩交鋒賴瑞隆！　高雄市長候選人首場辯論20:00登場",
-          "url": "https://www.ettoday.net/news/20261030/3263405.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "麻吉大哥又翻車了！6小時爆倉8次  帳戶一度慘剩1.5美元",
-      "summary": [
-        "自由時報：麻吉大哥又翻車了！6小時爆倉8次  帳戶一度慘剩1.5美元",
-        "ETtoday：又爆倉了！麻吉大哥6小時被清算8次　一覺醒來帳戶只剩1.5美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "麻吉大哥又翻車了！6小時爆倉8次  帳戶一度慘剩1.5美元",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5624260"
-        },
-        {
-          "source": "ETtoday",
-          "title": "又爆倉了！麻吉大哥6小時被清算8次　一覺醒來帳戶只剩1.5美元",
-          "url": "https://finance.ettoday.net/news/3263694"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "歐元區第3季經濟成長0.4%　優於市場預期",
-      "summary": [
-        "經濟日報：歐元區第3季經濟成長0.4%　優於市場預期",
-        "自由時報：歐元區第3季經濟成長0.4％ 優於市場預期"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "歐元區第3季經濟成長0.4%　優於市場預期",
-          "url": "https://money.udn.com/money/story/5599/9847693"
-        },
-        {
-          "source": "自由時報",
-          "title": "歐元區第3季經濟成長0.4％ 優於市場預期",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5624246"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "臺達電Q3營收1971億元、EPS 9.04元！AI與液冷續為核心動能鄭平：Q4營收一定成長| 魏鑫陽 | 財經",
       "summary": [
         "風傳媒：臺達電Q3營收1971億元、EPS 9.04元！AI與液冷續為核心動能鄭平：Q4營收一定成長| 魏鑫陽 | 財經",
@@ -134,7 +44,28 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 3,
+      "title": "《開端》男星被爆隱婚生子！　2天後曬全家福大方認「我們仨」",
+      "summary": [
+        "ETtoday：《開端》男星被爆隱婚生子！　2天後曬全家福大方認「我們仨」",
+        "自由時報：《開端》男星爆隱婚生子！突曬全家福認已婚當爸親吐「我們仨」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "《開端》男星被爆隱婚生子！　2天後曬全家福大方認「我們仨」",
+          "url": "https://star.ettoday.net/news/3263668"
+        },
+        {
+          "source": "自由時報",
+          "title": "《開端》男星爆隱婚生子！突曬全家福認已婚當爸親吐「我們仨」",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5624470"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "沈伯洋遭AI造假音檔控收軍購回扣！本人赴調查局製作筆錄",
       "summary": [
         "ETtoday：沈伯洋遭AI造假音檔控收軍購回扣！本人赴調查局製作筆錄",
@@ -155,7 +86,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "【TVBS18氣象站】週末天氣暖如夏 週日重回30度 下週2波東北季風 煙花這天北轉",
       "summary": [
         "TVBS新聞：【TVBS18氣象站】週末天氣暖如夏 週日重回30度 下週2波東北季風 煙花這天北轉",
@@ -176,7 +107,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "黃仁勳與中籍女高層關係密切　美媒：美星臺官員憂向中國提供情報",
       "summary": [
         "經濟日報：黃仁勳與中籍女高層關係密切　美媒：美星臺官員憂向中國提供情報",
@@ -197,7 +128,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "科技股賣壓沉重　歐股多數收黑",
       "summary": [
         "自由時報：科技股賣壓沉重　歐股多數收黑",
@@ -216,38 +147,74 @@
           "url": "https://money.udn.com/money/story/5599/9848156"
         }
       ]
+    },
+    {
+      "rank": 8,
+      "title": "美期中選舉提前投票人數創新高　民主黨選民佔比領先",
+      "summary": [
+        "自由時報：美期中選舉提前投票人數創新高　民主黨選民佔比領先",
+        "經濟日報：美期中選舉提前投票人數創新高　民主黨選民佔比領先"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美期中選舉提前投票人數創新高　民主黨選民佔比領先",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5624472"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美期中選舉提前投票人數創新高　民主黨選民佔比領先",
+          "url": "https://money.udn.com/money/story/5599/9848181"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "幣安遇駭 比特幣嚇跌 盤中摔破77,000美元",
+      "summary": [
+        "經濟日報：幣安遇駭 比特幣嚇跌 盤中摔破77,000美元",
+        "科技新報：遭駭損失 63 億美元！幣安緊急暫停提款、承諾承擔損失，比特幣跌破 7.7 萬美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "幣安遇駭 比特幣嚇跌 盤中摔破77,000美元",
+          "url": "https://money.udn.com/money/story/5599/9847951"
+        },
+        {
+          "source": "科技新報",
+          "title": "遭駭損失 63 億美元！幣安緊急暫停提款、承諾承擔損失，比特幣跌破 7.7 萬美元",
+          "url": "https://technews.tw/2026/10/31/binance-6-3bn-hack/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "郭彥均從剩518元到擁5間房！他嘆太晚買0050 達人搭配0056、00878、00919拚年領105萬",
+      "summary": [
+        "工商時報：郭彥均從剩518元到擁5間房！他嘆太晚買0050 達人搭配0056、00878、00919拚年領105萬",
+        "今周刊：郭彥均賣飛景碩、國巨套牢...繞一圈才懂0050好！從戶頭剩500元到擁5間房，下一步拚錢滾錢：月領50萬策略曝光"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "工商時報",
+          "title": "郭彥均從剩518元到擁5間房！他嘆太晚買0050 達人搭配0056、00878、00919拚年領105萬",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrM2JoU2xMWm1CVTlILUViWmxJSG1scUFNdEVQcEpONndpUmlxQmhxOW9RTWJnMC1WZlR2SDNJVmdFa19NdzhDcWt0M0dwRm5HVjFMNENNTkpPNmxhNlJJ?oc=5"
+        },
+        {
+          "source": "今周刊",
+          "title": "郭彥均賣飛景碩、國巨套牢...繞一圈才懂0050好！從戶頭剩500元到擁5間房，下一步拚錢滾錢：月領50萬策略曝光",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYW5FcFdpQzZLQ1JscWJoZnpOS2JESF9GY1FpS2hPS3RMaEViTWhTVW4xdlk5VjBhbEUwUUVsUWUwaF9jVTdFSTN0b2M3Y191RG9CY1pMLXlzWktHYm10dExFZVRRUlhkbnpkeEVhaVJkZG85blMwV2ZLOEdRa1Fjdw?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
-      "summary": [
-        "The Verge：Binance hackers stole $6.3 billion in record-breaking crypto heist",
-        "Ars Technica：Hackers steal $6.3 billion from Binance in record crypto heist",
-        "BBC World：Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
-          "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
-          "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
-        },
-        {
-          "source": "BBC World",
-          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Binance Estimates $6.3 Billion Hacked in Crypto’s Largest Heist",
       "summary": [
         "Bloomberg Tech：Binance Estimates $6.3 Billion Hacked in Crypto’s Largest Heist",
@@ -268,7 +235,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "US approves $2.1 billion Patriot missile sale to Ukraine",
       "summary": [
         "Investing.com：US approves $2.1 billion Patriot missile sale to Ukraine",
@@ -289,7 +256,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea",
       "summary": [
         "WSJ Markets：Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea",
@@ -310,7 +277,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Nasdaq set for sharp drop as Amazon, Intel amplify AI spending worries",
       "summary": [
         "Yahoo Finance：Nasdaq set for sharp drop as Amazon, Intel amplify AI spending worries",
@@ -331,7 +298,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Intel plummets over 28% as weak forecast overshadows earnings beat",
       "summary": [
         "Investing.com：Intel plummets over 28% as weak forecast overshadows earnings beat",
@@ -348,6 +315,27 @@
           "source": "Yahoo Finance",
           "title": "Intel stock plunges nearly 30%, on pace for its worst day since 1974",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVzZhNDBiSG10QXlBZHhLRlc0OWNfamlJM2hsUnNxamNqT0pVQ3oyMnhWSEhZUmlxYndJUGo4bzRQb200djJHcmt3ZWd0ZnpxVnRRUEo2Y2VxN0lFM0NuN1BfVVAyWFBWS0RSdDFhcmlmRm01UXBQZG1UVmtFU0N1Y0djcEZpYjIwX0NueDc2UTdFMlc1eWJGSnNYVmpySWNZVUd5NWlQLXJHVmthS2x4aTVYYjdzRUxyQVdEMnhNOW4?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+      "summary": [
+        "Ars Technica：Hackers steal $6.3 billion from Binance in record crypto heist",
+        "BBC World：Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Ars Technica",
+          "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+          "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
+        },
+        {
+          "source": "BBC World",
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
