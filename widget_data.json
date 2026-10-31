@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 20:17",
+  "updated_at": "2026-10-31 21:37",
   "taiwan": [
     {
       "rank": 1,
@@ -57,33 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "英特爾股價暴跌3成蒸發4.57兆元　創半世紀最大跌幅",
-      "summary": [
-        "經濟日報：英特爾股價暴跌3成蒸發4.57兆元　創半世紀最大跌幅",
-        "科技新報：英特爾股價大崩 30%！恐創史上最大單日跌幅，全球晶片股跟著下殺",
-        "今周刊：英特爾股價暴跌近30%，半世紀以來單日最慘！美政府+輝達持股帳面一夕蒸發170億美元⋯陳立武揭3迫切問題"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "英特爾股價暴跌3成蒸發4.57兆元　創半世紀最大跌幅",
-          "url": "https://money.udn.com/money/story/123398/9848278"
-        },
-        {
-          "source": "科技新報",
-          "title": "英特爾股價大崩 30%！恐創史上最大單日跌幅，全球晶片股跟著下殺",
-          "url": "https://finance.technews.tw/2026/10/31/intel-stock-chip/"
-        },
-        {
-          "source": "今周刊",
-          "title": "英特爾股價暴跌近30%，半世紀以來單日最慘！美政府+輝達持股帳面一夕蒸發170億美元⋯陳立武揭3迫切問題",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0dPbmtVRnNIN1UyMzhwc29pVDVuNGJPM2xRcWFsMUFDMmFRWTdSMjJhSXNlQmlPc0JUMDV4eXR1T0FzLXFOV0YyMGdodXc2RFhEdS1rakR0ZU9tZU53cnJ2V2FYSjVWR2tGWkMzLVk5UDhuaVgyU0s2SlhYcTRnYw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "美大選教宗良十四世透過郵寄投票　創歷史先例",
       "summary": [
         "經濟日報：美大選教宗良十四世透過郵寄投票　創歷史先例",
@@ -110,28 +83,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "川普深信最後一擊能逼伊朗談判！美媒：最快期中選舉隔天再轟伊朗",
-      "summary": [
-        "經濟日報：川普深信最後一擊能逼伊朗談判！美媒：最快期中選舉隔天再轟伊朗",
-        "自由時報：美媒：川普擬期中選舉隔日再攻伊朗 盼結束戰事"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普深信最後一擊能逼伊朗談判！美媒：最快期中選舉隔天再轟伊朗",
-          "url": "https://money.udn.com/money/story/5599/9848277"
-        },
-        {
-          "source": "自由時報",
-          "title": "美媒：川普擬期中選舉隔日再攻伊朗 盼結束戰事",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5624804"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "同志遊行前夕急徵巨大彩虹旗  賈永婕：想掛在臺北101",
       "summary": [
         "自由時報：同志遊行前夕急徵巨大彩虹旗  賈永婕：想掛在臺北101",
@@ -152,7 +104,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "美科技股大幅下修　蘋果超越輝達成全球最大企業",
       "summary": [
         "經濟日報：美科技股大幅下修　蘋果超越輝達成全球最大企業",
@@ -173,7 +125,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "聯發科董事會透過取得營業裝置案，預計投資34億元",
       "summary": [
         "公開資訊觀測站重訊：聯發科董事會透過取得營業裝置案，預計投資34億元",
@@ -194,7 +146,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "【重訊】5438 東友：公告本公司公司治理主管異動",
       "summary": [
         "公開資訊觀測站：【重訊】5438 東友：公告本公司公司治理主管異動",
@@ -215,7 +167,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "【重訊】4304 勝昱：公告本公司董事辭任",
       "summary": [
         "公開資訊觀測站：【重訊】4304 勝昱：公告本公司董事辭任",
@@ -232,6 +184,48 @@
           "source": "MoneyDJ理財網",
           "title": "勝昱公告本公司董事辭任- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHFOdkRYT181aFYwWDA0WXNnR082WGtpVjU3WkloV3lKaGJIRXBVQ3FIbjFjRDBibS01RHRQZHpjalNacGxIdmVpbnVjLVdiWTZvMzdNNzFCWnh0SW8zRC1kUGlqNFRNVS05TUhSYnRVeDQ5NU9mcGFkeTJpYjBxdEk3dVkwYmpWU3ZZblpnd3NwZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "英特爾股價大崩 30%！恐創史上最大單日跌幅，全球晶片股跟著下殺",
+      "summary": [
+        "科技新報：英特爾股價大崩 30%！恐創史上最大單日跌幅，全球晶片股跟著下殺",
+        "今周刊：英特爾股價暴跌近30%，半世紀以來單日最慘！美政府+輝達持股帳面一夕蒸發170億美元⋯陳立武揭3迫切問題"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "英特爾股價大崩 30%！恐創史上最大單日跌幅，全球晶片股跟著下殺",
+          "url": "https://finance.technews.tw/2026/10/31/intel-stock-chip/"
+        },
+        {
+          "source": "今周刊",
+          "title": "英特爾股價暴跌近30%，半世紀以來單日最慘！美政府+輝達持股帳面一夕蒸發170億美元⋯陳立武揭3迫切問題",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0dPbmtVRnNIN1UyMzhwc29pVDVuNGJPM2xRcWFsMUFDMmFRWTdSMjJhSXNlQmlPc0JUMDV4eXR1T0FzLXFOV0YyMGdodXc2RFhEdS1rakR0ZU9tZU53cnJ2V2FYSjVWR2tGWkMzLVk5UDhuaVgyU0s2SlhYcTRnYw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普晶片製造大夢悄悄瓦解？臺積電前首席科學家點出癥結",
+      "summary": [
+        "經濟日報：川普晶片製造大夢悄悄瓦解？臺積電前首席科學家點出癥結",
+        "自由時報：川普晶片夢恐踢鐵板？臺積電前首席科學家揭殘酷真相"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普晶片製造大夢悄悄瓦解？臺積電前首席科學家點出癥結",
+          "url": "https://money.udn.com/money/story/5599/9848355"
+        },
+        {
+          "source": "自由時報",
+          "title": "川普晶片夢恐踢鐵板？臺積電前首席科學家揭殘酷真相",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5624852"
         }
       ]
     }
@@ -305,51 +299,6 @@
     },
     {
       "rank": 5,
-      "title": "Opinion | Collins is the clear choice for Maine. Will it matter?",
-      "summary": [
-        "Washington Post：Opinion | Collins is the clear choice for Maine. Will it matter?"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "Opinion | Collins is the clear choice for Maine. Will it matter?",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbFl0Nzg4MnFka3dtSnpkWURmWDhCNUd5eEJ1anQ1M25mb2hoQVg3S0RVTFB0OERjUl9HUDBCT2c3TWdydURQbWZrbDNWNURYSUpGX1hBTkZ4MURwZ05fdFhYbllnSmVoNGRldFpKR2NnWUpGWE5wa0FtOXBsRms1b19FOWlvRENRbjNsV1A2V0NDV0R3b0JrbjgwVGdkNVV0R3c?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Alaska Air to cut 200 jobs as fuel costs threaten $700 million annual loss",
-      "summary": [
-        "Investing.com：Alaska Air to cut 200 jobs as fuel costs threaten $700 million annual loss"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Alaska Air to cut 200 jobs as fuel costs threaten $700 million annual loss",
-          "url": "https://www.investing.com/news/stock-market-news/alaska-air-to-cut-200-jobs-as-fuel-costs-threaten-700-million-annual-loss-4988943"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Think you can save the Hubble Space Telescope? NASA wants to know.",
-      "summary": [
-        "Ars Technica：Think you can save the Hubble Space Telescope? NASA wants to know."
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Ars Technica",
-          "title": "Think you can save the Hubble Space Telescope? NASA wants to know.",
-          "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "習近平不斷發起清洗，暴露出他對中國共產黨的不滿與失望",
       "summary": [
         "法廣RFI：習近平不斷發起清洗，暴露出他對中國共產黨的不滿與失望"
@@ -364,7 +313,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "歐洲港口碼頭工人罷工，反對港口越來越軍事化",
       "summary": [
         "法廣RFI：歐洲港口碼頭工人罷工，反對港口越來越軍事化"
@@ -379,7 +328,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "日米韓外相“3か國の結束は地域の要” 協力のすそ野拡大へ",
       "summary": [
         "NHK新聞：日米韓外相“3か國の結束は地域の要” 協力のすそ野拡大へ"
@@ -390,6 +339,51 @@
           "source": "NHK新聞",
           "title": "日米韓外相“3か國の結束は地域の要” 協力のすそ野拡大へ",
           "url": "https://news.web.nhk/newsweb/na/nd-20261031de68857"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "トランプ政権 ウクライナに迎撃ミサイルなど売卻へ 21億ドル",
+      "summary": [
+        "NHK新聞：トランプ政権 ウクライナに迎撃ミサイルなど売卻へ 21億ドル"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "トランプ政権 ウクライナに迎撃ミサイルなど売卻へ 21億ドル",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261031de68846"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "ロシア獨立系新聞が編集部閉鎖へ ノーベル委員會「深く憂慮」",
+      "summary": [
+        "NHK新聞：ロシア獨立系新聞が編集部閉鎖へ ノーベル委員會「深く憂慮」"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "ロシア獨立系新聞が編集部閉鎖へ ノーベル委員會「深く憂慮」",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261031de68828"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Global nature talks reach deal but money remains an issue",
+      "summary": [
+        "BBC World：Global nature talks reach deal but money remains an issue"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Global nature talks reach deal but money remains an issue",
+          "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
