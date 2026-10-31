@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 16:53",
+  "updated_at": "2026-10-31 17:46",
   "taiwan": [
     {
       "rank": 1,
@@ -114,22 +114,22 @@
     },
     {
       "rank": 6,
-      "title": "沙烏地聯軍稱攔截無人機及飛彈　美下令撤離非緊急人員",
+      "title": "【重訊】5438 東友：公告本公司公司治理主管異動",
       "summary": [
-        "自由時報：沙烏地聯軍稱攔截無人機及飛彈　美下令撤離非緊急人員",
-        "經濟日報：沙烏地聯軍稱攔截無人機及飛彈　美下令撤離非緊急人員"
+        "公開資訊觀測站：【重訊】5438 東友：公告本公司公司治理主管異動",
+        "MoneyDJ理財網：光耀公告本公司法人董事代表人異動- 新聞"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "沙烏地聯軍稱攔截無人機及飛彈　美下令撤離非緊急人員",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5624477"
+          "source": "公開資訊觀測站",
+          "title": "【重訊】5438 東友：公告本公司公司治理主管異動",
+          "url": "https://mops.twse.com.tw/mops/web/t05sr01_1#mops-5438-26e47f54521c"
         },
         {
-          "source": "經濟日報",
-          "title": "沙烏地聯軍稱攔截無人機及飛彈　美下令撤離非緊急人員",
-          "url": "https://money.udn.com/money/story/5599/9848207"
+          "source": "MoneyDJ理財網",
+          "title": "光耀公告本公司法人董事代表人異動- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSEN2SjlGdnZmVWlFZmRiamZ2U1hUX0pBWDY0S0lpb2lwT0VvQnE5STVNQU1QWmNPeWs4MEh3ejRsYnMwd1JtOG5xSWZmcnRDa2txRFZkRm1aWk1TRXNMczlrcU1kdTctSkIwazdVSEo3bDBkOXFvZ0pBdlpTdkxQa19PWHI5ZXZaV1Vwa2tBb09mZw?oc=5"
         }
       ]
     },
@@ -221,27 +221,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
-      "summary": [
-        "Bloomberg Markets：Apple Overtakes Nvidia to Become World’s Most Valuable Company",
-        "Investing.com：Apple overtakes Nvidia to become world’s most valuable company amid tech selloff"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-30/apple-overtakes-nvidia-to-become-world-s-most-valuable-company"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Apple overtakes Nvidia to become world’s most valuable company amid tech selloff",
-          "url": "https://www.investing.com/news/stock-market-news/apple-overtakes-nvidia-to-become-worlds-most-valuable-company-amid-tech-selloff-4988752"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "S&P Global revises outlook on Meta to negative on cashflow concerns",
       "summary": [
         "Investing.com：S&P Global revises outlook on Meta to negative on cashflow concerns",
@@ -262,7 +241,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "S&P cuts Meta outlook to negative amid capex concerns",
       "summary": [
         "Investing.com：S&P cuts Meta outlook to negative amid capex concerns",
@@ -283,7 +262,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
       "summary": [
         "Financial Times：OpenAI slashes funding target by $10bn as tech anxieties mount",
@@ -304,7 +283,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "紐約時報中文網",
       "summary": [
         "紐約時報中文：紐約時報中文網"
@@ -319,7 +298,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "'Sentiment will take a hit': Binance $6.3 billion hack rattles bitcoin, crypto market",
       "summary": [
         "Yahoo Finance：'Sentiment will take a hit': Binance $6.3 billion hack rattles bitcoin, crypto market"
@@ -334,7 +313,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Business, Politics, Economy and Tech News & Analysis",
       "summary": [
         "Nikkei Asia：Business, Politics, Economy and Tech News & Analysis"
@@ -349,47 +328,62 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "日銀 物価2％到達で定著に軸足移す 利上げどう進めるか焦點",
+      "rank": 7,
+      "title": "5年ぶり日ロ外相會談 茂木外相 北海道新聞記者の即時解放要請",
       "summary": [
-        "NHK新聞：日銀 物価2％到達で定著に軸足移す 利上げどう進めるか焦點"
+        "NHK新聞：5年ぶり日ロ外相會談 茂木外相 北海道新聞記者の即時解放要請"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "日銀 物価2％到達で定著に軸足移す 利上げどう進めるか焦點",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261031de68799"
+          "title": "5年ぶり日ロ外相會談 茂木外相 北海道新聞記者の即時解放要請",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261031de68824"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "“過去最大級被害”暗號資産大手バイナンス 複雑な攻撃あった",
+      "summary": [
+        "NHK新聞：“過去最大級被害”暗號資産大手バイナンス 複雑な攻撃あった"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "“過去最大級被害”暗號資産大手バイナンス 複雑な攻撃あった",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261031de68827"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "北海道 特急列車とクマが衝突 現場に停止し運転再開めど立たず",
+      "title": "G20外相會合が開幕 茂木外相“G20各國が連攜・協調を”",
       "summary": [
-        "NHK新聞：北海道 特急列車とクマが衝突 現場に停止し運転再開めど立たず"
+        "NHK新聞：G20外相會合が開幕 茂木外相“G20各國が連攜・協調を”"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "北海道 特急列車とクマが衝突 現場に停止し運転再開めど立たず",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261031de68820"
+          "title": "G20外相會合が開幕 茂木外相“G20各國が連攜・協調を”",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261031de68825"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "消費稅減稅法案 與黨 採決日程探る 野黨“高市首相出席を”",
+      "title": "Police deployed during stand-off over control of Poland's top court",
       "summary": [
-        "NHK新聞：消費稅減稅法案 與黨 採決日程探る 野黨“高市首相出席を”"
+        "BBC World：Police deployed during stand-off over control of Poland's top court"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "消費稅減稅法案 與黨 採決日程探る 野黨“高市首相出席を”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261031de68800"
+          "source": "BBC World",
+          "title": "Police deployed during stand-off over control of Poland's top court",
+          "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
