@@ -1,8 +1,62 @@
 {
-  "updated_at": "2026-10-31 19:22",
+  "updated_at": "2026-10-31 20:17",
   "taiwan": [
     {
       "rank": 1,
+      "title": "跨越2000公里青春羈絆  清水高中國中部赴日10天入校共學譜出臺日交流動人樂章",
+      "summary": [
+        "自由時報：跨越2000公里青春羈絆  清水高中國中部赴日10天入校共學譜出臺日交流動人樂章",
+        "ETtoday：中信兄弟赴日參與歐力士猛牛秋訓！休賽季持續精進",
+        "中時新聞：臺南「阿明豬心冬粉」無限期歇業粉專曝老闆娘車禍離世- 生活"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "跨越2000公里青春羈絆  清水高中國中部赴日10天入校共學譜出臺日交流動人樂章",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5624556"
+        },
+        {
+          "source": "ETtoday",
+          "title": "中信兄弟赴日參與歐力士猛牛秋訓！休賽季持續精進",
+          "url": "https://sports.ettoday.net/news/3264006"
+        },
+        {
+          "source": "中時新聞",
+          "title": "臺南「阿明豬心冬粉」無限期歇業粉專曝老闆娘車禍離世- 生活",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tb2RORnp6eUZyZXk0eVpKdEZCS1F4YWRhX1M2NXdWeU9scHdCcXlTZU5YM2ZidUxDRERkblBEOUZIbDI1VVNaaUFMV2d2R0ZSZ2NHVDNJT3NyY090dF96UjZKZ0wxMy1lMHltc1V3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "波蘭總理總統鬥法　憲法法院法官罷黜院長重點一次看",
+      "summary": [
+        "經濟日報：波蘭總理總統鬥法　憲法法院法官罷黜院長重點一次看",
+        "自由時報：憲法法庭院長停職引爆政爭 波蘭總統召集各黨派緊急會商化解危機",
+        "公視新聞：波蘭憲法法庭院長遭停職右翼陣營控總理圖斯克政變｜20261031 公視晚間新聞｜ 公視新聞PNN"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "波蘭總理總統鬥法　憲法法院法官罷黜院長重點一次看",
+          "url": "https://money.udn.com/money/story/5599/9848901"
+        },
+        {
+          "source": "自由時報",
+          "title": "憲法法庭院長停職引爆政爭 波蘭總統召集各黨派緊急會商化解危機",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5625136"
+        },
+        {
+          "source": "公視新聞",
+          "title": "波蘭憲法法庭院長遭停職右翼陣營控總理圖斯克政變｜20261031 公視晚間新聞｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03d0VLZXZkS2ozWTRpOTBiNkdWVkc2UXIyX1p5QnpIaUFVcEIyenhpV3JBMW1JUXZSckp2SUFHaHZYMXZ4M0xEdmNWWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "英特爾股價暴跌3成蒸發4.57兆元　創半世紀最大跌幅",
       "summary": [
         "經濟日報：英特爾股價暴跌3成蒸發4.57兆元　創半世紀最大跌幅",
@@ -29,7 +83,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "美大選教宗良十四世透過郵寄投票　創歷史先例",
       "summary": [
         "經濟日報：美大選教宗良十四世透過郵寄投票　創歷史先例",
@@ -56,7 +110,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "川普深信最後一擊能逼伊朗談判！美媒：最快期中選舉隔天再轟伊朗",
       "summary": [
         "經濟日報：川普深信最後一擊能逼伊朗談判！美媒：最快期中選舉隔天再轟伊朗",
@@ -77,7 +131,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "同志遊行前夕急徵巨大彩虹旗  賈永婕：想掛在臺北101",
       "summary": [
         "自由時報：同志遊行前夕急徵巨大彩虹旗  賈永婕：想掛在臺北101",
@@ -98,7 +152,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "美科技股大幅下修　蘋果超越輝達成全球最大企業",
       "summary": [
         "經濟日報：美科技股大幅下修　蘋果超越輝達成全球最大企業",
@@ -119,7 +173,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "聯發科董事會透過取得營業裝置案，預計投資34億元",
       "summary": [
         "公開資訊觀測站重訊：聯發科董事會透過取得營業裝置案，預計投資34億元",
@@ -140,7 +194,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "【重訊】5438 東友：公告本公司公司治理主管異動",
       "summary": [
         "公開資訊觀測站：【重訊】5438 東友：公告本公司公司治理主管異動",
@@ -161,7 +215,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "【重訊】4304 勝昱：公告本公司董事辭任",
       "summary": [
         "公開資訊觀測站：【重訊】4304 勝昱：公告本公司董事辭任",
@@ -178,48 +232,6 @@
           "source": "MoneyDJ理財網",
           "title": "勝昱公告本公司董事辭任- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHFOdkRYT181aFYwWDA0WXNnR082WGtpVjU3WkloV3lKaGJIRXBVQ3FIbjFjRDBibS01RHRQZHpjalNacGxIdmVpbnVjLVdiWTZvMzdNNzFCWnh0SW8zRC1kUGlqNFRNVS05TUhSYnRVeDQ5NU9mcGFkeTJpYjBxdEk3dVkwYmpWU3ZZblpnd3NwZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "女共諜接近黃仁勳！美媒：臺灣曾調查及派員監控",
-      "summary": [
-        "自由時報：女共諜接近黃仁勳！美媒：臺灣曾調查及派員監控",
-        "ETtoday：黃仁勳身邊藏中國女間諜　美媒：美星臺官員憂洩密"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "女共諜接近黃仁勳！美媒：臺灣曾調查及派員監控",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5624492"
-        },
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳身邊藏中國女間諜　美媒：美星臺官員憂洩密",
-          "url": "https://www.ettoday.net/news/20261031/3263743.htm"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "不要命！酒後騎機車上國道還逆向 累犯加重判刑",
-      "summary": [
-        "自由時報：不要命！酒後騎機車上國道還逆向 累犯加重判刑",
-        "ETtoday：男麵攤喝啤酒「騎機車上國道」還逆向　酒駕累犯這下慘了"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "不要命！酒後騎機車上國道還逆向 累犯加重判刑",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5624488"
-        },
-        {
-          "source": "ETtoday",
-          "title": "男麵攤喝啤酒「騎機車上國道」還逆向　酒駕累犯這下慘了",
-          "url": "https://www.ettoday.net/news/20261031/3263812.htm"
         }
       ]
     }
@@ -263,16 +275,16 @@
     },
     {
       "rank": 3,
-      "title": "'Sentiment will take a hit': Binance $6.3 billion hack rattles bitcoin, crypto market",
+      "title": "SpaceX has lost more than $400 billion in market value in less than a month",
       "summary": [
-        "Yahoo Finance：'Sentiment will take a hit': Binance $6.3 billion hack rattles bitcoin, crypto market"
+        "Yahoo Finance：SpaceX has lost more than $400 billion in market value in less than a month"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "'Sentiment will take a hit': Binance $6.3 billion hack rattles bitcoin, crypto market",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdXEteERGNzZqUkNkZnl6WkJCamVlMExXMWlVWkh6blllVnJJVHg1a0tFdWFBR3N4a2VUZmUwY0cybDhDRGtPbm1tT3lzcHZKRVN4VHRwS1dsM0J5VUJnS0trd1dpX292VWJtUlZINW0xeVBjZUpldG10dUdHQ0txNGdRclRtbW1GRE1RWUVPdERCRmdvS055S3dQRlpiRm12RWR1UWtJUU1qd180Qk1KY1FLSnFtM0NyQ05sN0FnV2JIZTY3b0RydkdLeUJCNnItbVJlc0tXeV80dWZpblhIc2U1dnB2VkZLMHZwMFZ2MEQ?oc=5"
+          "title": "SpaceX has lost more than $400 billion in market value in less than a month",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdzAyUGxpa25Fbk9obUUtMzg3eTFLX1VhajMxWWVpcVRWaTB5dUlrVTNxYVl2VXh1eGRvTmlsU3h2eXN3eWFJMDlIODNFU3BwTy1MWFFFUXF4WGFwLTRnRWhlOFhGbWNDWEZPYlZaLV9rZktRZEZvcDhrUVFwTklpaWRGRlkwYzk2cmpnNHFKWTduY3U4cjBVMklycWpkLWppMGVmZUxhU1NTcU1yZ01wZ2I1cW82RFlvMlk4OUFGQkZGZGMwRzFoTUxmbw?oc=5"
         }
       ]
     },
@@ -293,91 +305,91 @@
     },
     {
       "rank": 5,
-      "title": "法國正嚴陣以待，準備迎接第三波週末抗議活動",
+      "title": "Opinion | Collins is the clear choice for Maine. Will it matter?",
       "summary": [
-        "法廣RFI：法國正嚴陣以待，準備迎接第三波週末抗議活動"
+        "Washington Post：Opinion | Collins is the clear choice for Maine. Will it matter?"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "法國正嚴陣以待，準備迎接第三波週末抗議活動",
-          "url": "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20261030-%E6%B3%95%E5%9C%8B%E6%AD%A3%E5%9A%B4%E9%99%A3%E4%BB%A5%E5%BE%85%EF%BC%8C%E6%BA%96%E5%82%99%E8%BF%8E%E6%8E%A5%E7%AC%AC%E4%B8%89%E6%B3%A2%E5%91%A8%E6%9C%AB%E6%8A%97%E8%AD%B0%E6%B4%BB%E5%8B%95"
+          "source": "Washington Post",
+          "title": "Opinion | Collins is the clear choice for Maine. Will it matter?",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbFl0Nzg4MnFka3dtSnpkWURmWDhCNUd5eEJ1anQ1M25mb2hoQVg3S0RVTFB0OERjUl9HUDBCT2c3TWdydURQbWZrbDNWNURYSUpGX1hBTkZ4MURwZ05fdFhYbllnSmVoNGRldFpKR2NnWUpGWE5wa0FtOXBsRms1b19FOWlvRENRbjNsV1A2V0NDV0R3b0JrbjgwVGdkNVV0R3c?oc=5"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "法國經濟“陷入停滯”，讓預算形勢更趨複雜",
+      "title": "Alaska Air to cut 200 jobs as fuel costs threaten $700 million annual loss",
       "summary": [
-        "法廣RFI：法國經濟“陷入停滯”，讓預算形勢更趨複雜"
+        "Investing.com：Alaska Air to cut 200 jobs as fuel costs threaten $700 million annual loss"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "法國經濟“陷入停滯”，讓預算形勢更趨複雜",
-          "url": "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20261030-%E6%B3%95%E5%9C%8B%E7%B6%93%E6%BF%9F-%E9%99%B7%E5%85%A5%E5%81%9C%E6%BB%AF-%EF%BC%8C%E8%AE%93%E9%A0%90%E7%AE%97%E5%BD%A2%E5%8B%A2%E6%9B%B4%E8%B6%A8%E8%A4%87%E9%9B%9C"
+          "source": "Investing.com",
+          "title": "Alaska Air to cut 200 jobs as fuel costs threaten $700 million annual loss",
+          "url": "https://www.investing.com/news/stock-market-news/alaska-air-to-cut-200-jobs-as-fuel-costs-threaten-700-million-annual-loss-4988943"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "歐盟與加拿大週五宣佈建立聯盟， 對付特朗普對美國和傳統夥伴關係的破壞",
+      "title": "Think you can save the Hubble Space Telescope? NASA wants to know.",
       "summary": [
-        "法廣RFI：歐盟與加拿大週五宣佈建立聯盟， 對付特朗普對美國和傳統夥伴關係的破壞"
+        "Ars Technica：Think you can save the Hubble Space Telescope? NASA wants to know."
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "歐盟與加拿大週五宣佈建立聯盟， 對付特朗普對美國和傳統夥伴關係的破壞",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261030-%E6%AD%90%E7%9B%9F%E8%88%87%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%91%A8%E4%BA%94%E5%AE%A3%E5%B8%83%E5%BB%BA%E7%AB%8B%E8%81%AF%E7%9B%9F%EF%BC%8C-%E5%B0%8D%E4%BB%98%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8D%E7%BE%8E%E5%9C%8B%E5%92%8C%E5%82%B3%E7%B5%B1%E5%A4%A5%E4%BC%B4%E9%97%9C%E4%BF%82%E7%9A%84%E7%A0%B4%E5%A3%9E"
+          "source": "Ars Technica",
+          "title": "Think you can save the Hubble Space Telescope? NASA wants to know.",
+          "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "美國中期選舉：被問是不是吃不消了後，特朗普把取消的堪薩斯州和愛荷華州的活動又恢復了",
+      "title": "習近平不斷發起清洗，暴露出他對中國共產黨的不滿與失望",
       "summary": [
-        "法廣RFI：美國中期選舉：被問是不是吃不消了後，特朗普把取消的堪薩斯州和愛荷華州的活動又恢復了"
+        "法廣RFI：習近平不斷發起清洗，暴露出他對中國共產黨的不滿與失望"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "美國中期選舉：被問是不是吃不消了後，特朗普把取消的堪薩斯州和愛荷華州的活動又恢復了",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261030-%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E8%A2%AB%E5%95%8F%E6%98%AF%E4%B8%8D%E6%98%AF%E5%90%83%E4%B8%8D%E6%B6%88%E4%BA%86%E5%BE%8C%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E5%8F%96%E6%B6%88%E7%9A%84%E5%A0%AA%E8%96%A9%E6%96%AF%E5%B7%9E%E5%92%8C%E6%84%9B%E8%8D%B7%E8%8F%AF%E5%B7%9E%E7%9A%84%E6%B4%BB%E5%8B%95%E5%8F%88%E6%81%A2%E5%BE%A9%E4%BA%86"
+          "title": "習近平不斷發起清洗，暴露出他對中國共產黨的不滿與失望",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E6%B3%95%E5%9C%8B%E4%B8%96%E7%95%8C%E5%A0%B1/20261031-%E7%BF%92%E8%BF%91%E5%B9%B3%E4%B8%8D%E6%96%B7%E7%99%BC%E8%B5%B7%E6%B8%85%E6%B4%97%EF%BC%8C%E6%9A%B4%E9%9C%B2%E5%87%BA%E4%BB%96%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%85%B1%E7%94%A2%E9%BB%A8%E7%9A%84%E4%B8%8D%E6%BB%BF%E8%88%87%E5%A4%B1%E6%9C%9B"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "ウクライナ情勢 局地停戦で住民退避も攻撃応酬続く",
+      "title": "歐洲港口碼頭工人罷工，反對港口越來越軍事化",
       "summary": [
-        "NHK新聞：ウクライナ情勢 局地停戦で住民退避も攻撃応酬続く"
+        "法廣RFI：歐洲港口碼頭工人罷工，反對港口越來越軍事化"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "ウクライナ情勢 局地停戦で住民退避も攻撃応酬続く",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261031de68816"
+          "source": "法廣RFI",
+          "title": "歐洲港口碼頭工人罷工，反對港口越來越軍事化",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261031-%E6%AD%90%E6%B4%B2%E6%B8%AF%E5%8F%A3%E7%A2%BC%E9%A0%AD%E5%B7%A5%E4%BA%BA%E7%BD%B7%E5%B7%A5%EF%BC%8C%E5%8F%8D%E5%B0%8D%E6%B8%AF%E5%8F%A3%E8%B6%8A%E4%BE%86%E8%B6%8A%E8%BB%8D%E4%BA%8B%E5%8C%96"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "一週韓娛：韓元老演員崔佛巖離世 ENHYPEN下月推新輯",
+      "title": "日米韓外相“3か國の結束は地域の要” 協力のすそ野拡大へ",
       "summary": [
-        "韓聯社：一週韓娛：韓元老演員崔佛巖離世 ENHYPEN下月推新輯"
+        "NHK新聞：日米韓外相“3か國の結束は地域の要” 協力のすそ野拡大へ"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "韓聯社",
-          "title": "一週韓娛：韓元老演員崔佛巖離世 ENHYPEN下月推新輯",
-          "url": "https://cn.yna.co.kr/view/ACK20261030001300881"
+          "source": "NHK新聞",
+          "title": "日米韓外相“3か國の結束は地域の要” 協力のすそ野拡大へ",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261031de68857"
         }
       ]
     }
