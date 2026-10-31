@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 12:53",
+  "updated_at": "2026-10-31 13:51",
   "taiwan": [
     {
       "rank": 1,
@@ -51,6 +51,27 @@
     },
     {
       "rank": 3,
+      "title": "川普深信最後一擊能逼伊朗談判！美媒：最快期中選舉隔天再轟伊朗",
+      "summary": [
+        "經濟日報：川普深信最後一擊能逼伊朗談判！美媒：最快期中選舉隔天再轟伊朗",
+        "自由時報：美媒：川普擬期中選舉隔日再攻伊朗 盼結束戰事"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普深信最後一擊能逼伊朗談判！美媒：最快期中選舉隔天再轟伊朗",
+          "url": "https://money.udn.com/money/story/5599/9848277"
+        },
+        {
+          "source": "自由時報",
+          "title": "美媒：川普擬期中選舉隔日再攻伊朗 盼結束戰事",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5624804"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "同志遊行前夕急徵巨大彩虹旗  賈永婕：想掛在臺北101",
       "summary": [
         "自由時報：同志遊行前夕急徵巨大彩虹旗  賈永婕：想掛在臺北101",
@@ -67,27 +88,6 @@
           "source": "ETtoday",
           "title": "賈永婕同志遊行前求助！急尋巨大彩虹旗「想掛臺北101」網讚超狂",
           "url": "https://star.ettoday.net/news/3263775"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "黃仁勳與中籍女高層關係密切　美媒：美星臺官員憂向中國提供情報",
-      "summary": [
-        "經濟日報：黃仁勳與中籍女高層關係密切　美媒：美星臺官員憂向中國提供情報",
-        "自由時報：黃仁勳與中籍女高層關係密切 美媒：美星臺官員憂向中國提供情報"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳與中籍女高層關係密切　美媒：美星臺官員憂向中國提供情報",
-          "url": "https://money.udn.com/money/story/5599/9848116"
-        },
-        {
-          "source": "自由時報",
-          "title": "黃仁勳與中籍女高層關係密切 美媒：美星臺官員憂向中國提供情報",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5624453"
         }
       ]
     },
@@ -242,90 +242,6 @@
     },
     {
       "rank": 2,
-      "title": "Amazon Taps $80 Billion Supplier Loan Facility to Help Fund AI",
-      "summary": [
-        "Bloomberg Tech：Amazon Taps $80 Billion Supplier Loan Facility to Help Fund AI",
-        "Investing.com：Amazon sets up $80 billion supplier financing for AI hardware"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Amazon Taps $80 Billion Supplier Loan Facility to Help Fund AI",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-30/amazon-taps-80-billion-supplier-loan-facility-to-help-fund-ai"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Amazon sets up $80 billion supplier financing for AI hardware",
-          "url": "https://www.investing.com/news/stock-market-news/amazon-sets-up-80-billion-supplier-financing-for-ai-hardware-4988386"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Binance Heist Shows Power of Suspected North Korean Hackers",
-      "summary": [
-        "Bloomberg Tech：Binance Heist Shows Power of Suspected North Korean Hackers",
-        "BBC World：Why North Korea's 'elite' hackers are the prime suspect in major Binance hack"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Binance Heist Shows Power of Suspected North Korean Hackers",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-30/binance-heist-shows-power-of-suspected-north-korean-hackers"
-        },
-        {
-          "source": "BBC World",
-          "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
-      "summary": [
-        "CNBC：Class action lawsuit blames Trump officials for student loan forgiveness delays",
-        "MarketWatch：Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
-          "url": "https://www.cnbc.com/2026/10/30/lawsuit-blames-trump-officials-for-student-loan-forgiveness-delays.html"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
-          "url": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "CD&R pursues buyout of $40 billion payments processor Global Payments, FT reports",
-      "summary": [
-        "Investing.com：CD&R pursues buyout of $40 billion payments processor Global Payments, FT reports",
-        "Financial Times：CD&R pursues buyout of $40bn card processor Global Payments"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "CD&R pursues buyout of $40 billion payments processor Global Payments, FT reports",
-          "url": "https://www.investing.com/news/stock-market-news/cdr-pursues-buyout-of-40-billion-payments-processor-global-payments-ft-reports-4988379"
-        },
-        {
-          "source": "Financial Times",
-          "title": "CD&R pursues buyout of $40bn card processor Global Payments",
-          "url": "https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
       "summary": [
         "Bloomberg Markets：Apple Overtakes Nvidia to Become World’s Most Valuable Company",
@@ -346,7 +262,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 3,
       "title": "S&P Global revises outlook on Meta to negative on cashflow concerns",
       "summary": [
         "Investing.com：S&P Global revises outlook on Meta to negative on cashflow concerns",
@@ -367,7 +283,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
       "title": "S&P cuts Meta outlook to negative amid capex concerns",
       "summary": [
         "Investing.com：S&P cuts Meta outlook to negative amid capex concerns",
@@ -388,7 +304,28 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
+      "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+      "summary": [
+        "Financial Times：OpenAI slashes funding target by $10bn as tech anxieties mount",
+        "Bloomberg Tech：OpenAI Funding Target Cut by $10 Billion as AI Slumps, FT Says"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+          "url": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "OpenAI Funding Target Cut by $10 Billion as AI Slumps, FT Says",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-31/openai-funding-goal-cut-by-10-billion-as-ai-stocks-dip-ft-says"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "'Sentiment will take a hit': Binance $6.3 billion hack rattles bitcoin, crypto market",
       "summary": [
         "Yahoo Finance：'Sentiment will take a hit': Binance $6.3 billion hack rattles bitcoin, crypto market"
@@ -403,7 +340,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "紐約時報中文網",
       "summary": [
         "紐約時報中文：紐約時報中文網"
@@ -414,6 +351,51 @@
           "source": "紐約時報中文",
           "title": "紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15ZllYLUlJc2RnVFY0T192SU1hR3U1LXRucGktMnBEZXNYNWpzVlp6UzZVNzhlWGtsd05Pc1k4MDU2b3AzaVhtRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "中國在與菲律賓爭議海域黃巖島淺灘周邊開展戰備巡邏",
+      "summary": [
+        "法廣RFI：中國在與菲律賓爭議海域黃巖島淺灘周邊開展戰備巡邏"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "中國在與菲律賓爭議海域黃巖島淺灘周邊開展戰備巡邏",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261030-%E4%B8%AD%E5%9C%8B%E5%9C%A8%E8%88%87%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%88%AD%E8%AD%B0%E6%B5%B7%E5%9F%9F%E9%BB%83%E5%B2%A9%E5%B3%B6%E6%B7%BA%E7%81%98%E5%91%A8%E9%82%8A%E9%96%8B%E5%B1%95%E6%88%B0%E5%82%99%E5%B7%A1%E9%82%8F"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "G20外長會議盧比奧接待同行，因衝突蒙上陰影",
+      "summary": [
+        "法廣RFI：G20外長會議盧比奧接待同行，因衝突蒙上陰影"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "G20外長會議盧比奧接待同行，因衝突蒙上陰影",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261030-g20%E5%A4%96%E9%95%B7%E6%9C%83%E8%AD%B0%E7%9B%A7%E6%AF%94%E5%A5%A7%E6%8E%A5%E5%BE%85%E5%90%8C%E8%A1%8C%EF%BC%8C%E5%9B%A0%E8%A1%9D%E7%AA%81%E8%92%99%E4%B8%8A%E9%99%B0%E5%BD%B1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "summary": [
+        "BBC World：Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
