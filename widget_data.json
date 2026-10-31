@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-10-31 09:49",
+  "updated_at": "2026-10-31 10:56",
   "taiwan": [
     {
       "rank": 1,
+      "title": "英特爾股價崩近30%恐創最大單日降幅　掀科技股跌勢",
+      "summary": [
+        "經濟日報：英特爾股價崩近30%恐創最大單日降幅　掀科技股跌勢",
+        "科技新報：英特爾股價大崩 30%！恐創史上最大單日跌幅，全球晶片股跟著下殺",
+        "今周刊：英特爾股價暴跌近30%，半世紀以來單日最慘！美政府+輝達持股帳面一夕蒸發170億美元⋯陳立武揭3迫切問題"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "英特爾股價崩近30%恐創最大單日降幅　掀科技股跌勢",
+          "url": "https://money.udn.com/money/story/123398/9848068"
+        },
+        {
+          "source": "科技新報",
+          "title": "英特爾股價大崩 30%！恐創史上最大單日跌幅，全球晶片股跟著下殺",
+          "url": "https://finance.technews.tw/2026/10/31/intel-stock-chip/"
+        },
+        {
+          "source": "今周刊",
+          "title": "英特爾股價暴跌近30%，半世紀以來單日最慘！美政府+輝達持股帳面一夕蒸發170億美元⋯陳立武揭3迫切問題",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0dPbmtVRnNIN1UyMzhwc29pVDVuNGJPM2xRcWFsMUFDMmFRWTdSMjJhSXNlQmlPc0JUMDV4eXR1T0FzLXFOV0YyMGdodXc2RFhEdS1rakR0ZU9tZU53cnJ2V2FYSjVWR2tGWkMzLVk5UDhuaVgyU0s2SlhYcTRnYw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "黃仁勳身邊藏「女共諜」 中國女主管驚人履歷美媒起底",
       "summary": [
         "自由時報：黃仁勳身邊藏「女共諜」 中國女主管驚人履歷美媒起底",
@@ -23,91 +50,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "《開端》男星被爆隱婚生子！　2天後曬全家福大方認「我們仨」",
-      "summary": [
-        "ETtoday：《開端》男星被爆隱婚生子！　2天後曬全家福大方認「我們仨」",
-        "自由時報：《開端》男星爆隱婚生子！突曬全家福認已婚當爸親吐「我們仨」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "《開端》男星被爆隱婚生子！　2天後曬全家福大方認「我們仨」",
-          "url": "https://star.ettoday.net/news/3263668"
-        },
-        {
-          "source": "自由時報",
-          "title": "《開端》男星爆隱婚生子！突曬全家福認已婚當爸親吐「我們仨」",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5624470"
-        }
-      ]
-    },
-    {
       "rank": 3,
-      "title": "沈伯洋遭AI造假音檔控收軍購回扣！本人赴調查局製作筆錄",
-      "summary": [
-        "ETtoday：沈伯洋遭AI造假音檔控收軍購回扣！本人赴調查局製作筆錄",
-        "自由時報：沈伯洋遭造謠軍購收回扣 調查局鑑識證實「AI合成假音檔」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "沈伯洋遭AI造假音檔控收軍購回扣！本人赴調查局製作筆錄",
-          "url": "https://www.ettoday.net/news/20261030/3263669.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "沈伯洋遭造謠軍購收回扣 調查局鑑識證實「AI合成假音檔」",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5624454"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "【TVBS18氣象站】週末天氣暖如夏 週日重回30度 下週2波東北季風 煙花這天北轉",
-      "summary": [
-        "TVBS新聞：【TVBS18氣象站】週末天氣暖如夏 週日重回30度 下週2波東北季風 煙花這天北轉",
-        "ETtoday：今白天熱飆34度　下週2波東北季風變天"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "【TVBS18氣象站】週末天氣暖如夏 週日重回30度 下週2波東北季風 煙花這天北轉",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02YURHdU82T2czRE5PTy1qeGY2OGJjSmtFUnpXNFN0eG5ZRHR1aXVnQnBIVVNKTGRhN1k4djlSNFZiMk84eGNGQmdIN1Q0aFVhYW1BOGF3?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "今白天熱飆34度　下週2波東北季風變天",
-          "url": "https://www.ettoday.net/news/20261031/3263742.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "英特爾股價崩近30%恐創最大單日降幅　掀科技股跌勢",
-      "summary": [
-        "經濟日報：英特爾股價崩近30%恐創最大單日降幅　掀科技股跌勢",
-        "科技新報：英特爾股價大崩 30%！恐創史上最大單日跌幅，全球晶片股跟著下殺"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "英特爾股價崩近30%恐創最大單日降幅　掀科技股跌勢",
-          "url": "https://money.udn.com/money/story/123398/9848068"
-        },
-        {
-          "source": "科技新報",
-          "title": "英特爾股價大崩 30%！恐創史上最大單日跌幅，全球晶片股跟著下殺",
-          "url": "https://finance.technews.tw/2026/10/31/intel-stock-chip/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "黃仁勳與中籍女高層關係密切　美媒：美星臺官員憂向中國提供情報",
       "summary": [
         "經濟日報：黃仁勳與中籍女高層關係密切　美媒：美星臺官員憂向中國提供情報",
@@ -128,7 +71,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "科技股賣壓沉重　歐股多數收黑",
       "summary": [
         "自由時報：科技股賣壓沉重　歐股多數收黑",
@@ -149,7 +92,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "美期中選舉提前投票人數創新高　民主黨選民佔比領先",
       "summary": [
         "自由時報：美期中選舉提前投票人數創新高　民主黨選民佔比領先",
@@ -170,7 +113,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "幣安遇駭 比特幣嚇跌 盤中摔破77,000美元",
       "summary": [
         "經濟日報：幣安遇駭 比特幣嚇跌 盤中摔破77,000美元",
@@ -191,7 +134,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "郭彥均從剩518元到擁5間房！他嘆太晚買0050 達人搭配0056、00878、00919拚年領105萬",
       "summary": [
         "工商時報：郭彥均從剩518元到擁5間房！他嘆太晚買0050 達人搭配0056、00878、00919拚年領105萬",
@@ -210,32 +153,74 @@
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYW5FcFdpQzZLQ1JscWJoZnpOS2JESF9GY1FpS2hPS3RMaEViTWhTVW4xdlk5VjBhbEUwUUVsUWUwaF9jVTdFSTN0b2M3Y191RG9CY1pMLXlzWktHYm10dExFZVRRUlhkbnpkeEVhaVJkZG85blMwV2ZLOEdRa1Fjdw?oc=5"
         }
       ]
+    },
+    {
+      "rank": 8,
+      "title": "沙烏地聯軍稱攔截無人機及飛彈　美下令撤離非緊急人員",
+      "summary": [
+        "自由時報：沙烏地聯軍稱攔截無人機及飛彈　美下令撤離非緊急人員",
+        "經濟日報：沙烏地聯軍稱攔截無人機及飛彈　美下令撤離非緊急人員"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "沙烏地聯軍稱攔截無人機及飛彈　美下令撤離非緊急人員",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5624477"
+        },
+        {
+          "source": "經濟日報",
+          "title": "沙烏地聯軍稱攔截無人機及飛彈　美下令撤離非緊急人員",
+          "url": "https://money.udn.com/money/story/5599/9848207"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "景碩董事會透過新增資本支出預算專案，預計投資約598億元",
+      "summary": [
+        "公開資訊觀測站重訊：景碩董事會透過新增資本支出預算專案，預計投資約598億元",
+        "MoneyDJ理財網：景碩董事會透過新增資本支出預算專案，預計投資約598億元- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "景碩董事會透過新增資本支出預算專案，預計投資約598億元",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR1pGYWdYcGM5dmJqUUVaV3doNjRZX0JEY2pVZXI2cEtwREh0WkItZFlqNUZxR3VTbF9PNEU0ZG8zVnZHUXBVcGJYWVpIWTZXT0NyXzhhbHVPUEpKZmdMa1F6YWNTc1ZPaEMyLXFhVlhUbkFQOTFpOHJLRDQyS1MtUFNFd0dBV2FheU1NQ24xSGJoQQ?oc=5"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "景碩董事會透過新增資本支出預算專案，預計投資約598億元- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONjZXSTNvSVVxREt3QXNTd0V0WUl3dXE5TFdIMmh2LUE1ZkVOSDg0cVNLUFNYSHozRE45WGg2STExMnFjYkR3OXhvdHNXb1FaZVZvREFXdHBYb3ctekFidk5qN3JKekpEWTVNMV91a3EtM2lUbFNJUEEzTGhnZkVZamxZMmlDRDJtNDBkaXdGZUMyQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "中國承認全程監控赴臺海避颱日本巡視船控政治挑釁臺海巡：日本避風符合人道精神| 溫芳瑜 | 新聞",
+      "summary": [
+        "風傳媒：中國承認全程監控赴臺海避颱日本巡視船控政治挑釁臺海巡：日本避風符合人道精神| 溫芳瑜 | 新聞",
+        "經濟日報：中國研究船密集測繪臺海！美媒揭恐助封鎖臺灣、阻美軍介入"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "中國承認全程監控赴臺海避颱日本巡視船控政治挑釁臺海巡：日本避風符合人道精神| 溫芳瑜 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjazcxQmp0ZnpPYlpKZlNFTUMwVVBqajE1RDQwNmt6QXc5THNjNjZLZVFaanJBYVNjNGdncGg4WWtRd2k5cU9jUm90Z0dtdw?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "中國研究船密集測繪臺海！美媒揭恐助封鎖臺灣、阻美軍介入",
+          "url": "https://money.udn.com/money/story/5599/9848308"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Intel plummets over 28% as weak forecast overshadows earnings beat",
-      "summary": [
-        "Investing.com：Intel plummets over 28% as weak forecast overshadows earnings beat",
-        "Yahoo Finance：Intel stock plunges nearly 30%, on pace for its worst day since 1974"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Intel plummets over 28% as weak forecast overshadows earnings beat",
-          "url": "https://www.investing.com/news/stock-market-news/intel-plunges-20-as-weak-q4-forecast-overshadows-earnings-beat-4984988"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Intel stock plunges nearly 30%, on pace for its worst day since 1974",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVzZhNDBiSG10QXlBZHhLRlc0OWNfamlJM2hsUnNxamNqT0pVQ3oyMnhWSEhZUmlxYndJUGo4bzRQb200djJHcmt3ZWd0ZnpxVnRRUEo2Y2VxN0lFM0NuN1BfVVAyWFBWS0RSdDFhcmlmRm01UXBQZG1UVmtFU0N1Y0djcEZpYjIwX0NueDc2UTdFMlc1eWJGSnNYVmpySWNZVUd5NWlQLXJHVmthS2x4aTVYYjdzRUxyQVdEMnhNOW4?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "US approves $2.1 billion Patriot missile sale to Ukraine",
       "summary": [
         "Investing.com：US approves $2.1 billion Patriot missile sale to Ukraine",
@@ -256,70 +241,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "俄羅斯獨立報紙《新報》宣佈在當局壓力下停刊",
-      "summary": [
-        "法廣RFI：俄羅斯獨立報紙《新報》宣佈在當局壓力下停刊",
-        "NHK新聞：ロシア獨立系新聞が編集部閉鎖へ ノーベル委員會「深く憂慮」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "俄羅斯獨立報紙《新報》宣佈在當局壓力下停刊",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261030-%E4%BF%84%E7%BE%85%E6%96%AF%E7%8D%A8%E7%AB%8B%E5%A0%B1%E7%B4%99-%E6%96%B0%E5%A0%B1-%E5%AE%A3%E5%B8%83%E5%9C%A8%E7%95%B6%E5%B1%80%E5%A3%93%E5%8A%9B%E4%B8%8B%E5%81%9C%E5%88%8A"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "ロシア獨立系新聞が編集部閉鎖へ ノーベル委員會「深く憂慮」",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261031de68828"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Nasdaq set for sharp drop as Amazon, Intel amplify AI spending worries",
-      "summary": [
-        "Yahoo Finance：Nasdaq set for sharp drop as Amazon, Intel amplify AI spending worries",
-        "Investing.com：Nasdaq tumbles at open as Amazon, Intel add to AI spending woes"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Nasdaq set for sharp drop as Amazon, Intel amplify AI spending worries",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUTZNOWZiRzFmQUxta25VWEhIT0dYTFVnZ2VLUWlNTDlleE9hTmF6ODNaeXRCSnRXMEdOVENiTVQtNndFUUNWZDdmY0M0UUVaUVR6c0tMdktWcmxJMDItT3dPbl8tcGhSSm0wZ2lRa0RjLW81Ri1RTUlRX0tOUDRHakNwUDdIVFZIc1hMUVBrVi1CY0RRNU9xZmZVU202QQ?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Nasdaq tumbles at open as Amazon, Intel add to AI spending woes",
-          "url": "https://www.investing.com/news/stock-market-news/nasdaq-tumbles-at-open-as-amazon-intel-add-to-ai-spending-woes-4988016"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
-      "summary": [
-        "Ars Technica：Hackers steal $6.3 billion from Binance in record crypto heist",
-        "BBC World：Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Ars Technica",
-          "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
-          "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
-        },
-        {
-          "source": "BBC World",
-          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 2,
       "title": "Amazon Taps $80 Billion Supplier Loan Facility to Help Fund AI",
       "summary": [
         "Bloomberg Tech：Amazon Taps $80 Billion Supplier Loan Facility to Help Fund AI",
@@ -340,7 +262,28 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 3,
+      "title": "Binance Heist Shows Power of Suspected North Korean Hackers",
+      "summary": [
+        "Bloomberg Tech：Binance Heist Shows Power of Suspected North Korean Hackers",
+        "BBC World：Why North Korea's 'elite' hackers are the prime suspect in major Binance hack"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Binance Heist Shows Power of Suspected North Korean Hackers",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/binance-heist-shows-power-of-suspected-north-korean-hackers"
+        },
+        {
+          "source": "BBC World",
+          "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
       "summary": [
         "CNBC：Class action lawsuit blames Trump officials for student loan forgiveness delays",
@@ -361,7 +304,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "CD&R pursues buyout of $40 billion payments processor Global Payments, FT reports",
       "summary": [
         "Investing.com：CD&R pursues buyout of $40 billion payments processor Global Payments, FT reports",
@@ -382,7 +325,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
       "summary": [
         "Bloomberg Markets：Apple Overtakes Nvidia to Become World’s Most Valuable Company",
@@ -403,7 +346,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "S&P Global revises outlook on Meta to negative on cashflow concerns",
       "summary": [
         "Investing.com：S&P Global revises outlook on Meta to negative on cashflow concerns",
@@ -420,6 +363,57 @@
           "source": "CNBC",
           "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
           "url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "S&P cuts Meta outlook to negative amid capex concerns",
+      "summary": [
+        "Investing.com：S&P cuts Meta outlook to negative amid capex concerns",
+        "Bloomberg Tech：Meta’s Rating Outlook Cut to Negative by S&P on Spending Surge"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "S&P cuts Meta outlook to negative amid capex concerns",
+          "url": "https://www.investing.com/news/stock-market-news/sp-global-cuts-meta-outlook-to-negative-amid-capex-concerns-4988733"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Meta’s Rating Outlook Cut to Negative by S&P on Spending Surge",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/meta-s-credit-rating-outlook-downgraded-to-negative-by-s-p"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Intel stock plunges nearly 30%, on pace for its worst day since 1974",
+      "summary": [
+        "Yahoo Finance：Intel stock plunges nearly 30%, on pace for its worst day since 1974"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "Intel stock plunges nearly 30%, on pace for its worst day since 1974",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVzZhNDBiSG10QXlBZHhLRlc0OWNfamlJM2hsUnNxamNqT0pVQ3oyMnhWSEhZUmlxYndJUGo4bzRQb200djJHcmt3ZWd0ZnpxVnRRUEo2Y2VxN0lFM0NuN1BfVVAyWFBWS0RSdDFhcmlmRm01UXBQZG1UVmtFU0N1Y0djcEZpYjIwX0NueDc2UTdFMlc1eWJGSnNYVmpySWNZVUd5NWlQLXJHVmthS2x4aTVYYjdzRUxyQVdEMnhNOW4?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Intel's stock drop shaves about $10 billion off the US government's equity stake. It's still up 3X.",
+      "summary": [
+        "Yahoo Finance：Intel's stock drop shaves about $10 billion off the US government's equity stake. It's still up 3X."
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "Intel's stock drop shaves about $10 billion off the US government's equity stake. It's still up 3X.",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNd0xwbVI3RDZscnBHUFVsZlBSMFNmNVVpLWlicGRLc0tiajMyT2NzbXV6SUJhbG9kaUppV0Y1a1ljZ0hITzJMalVhbUxXWERWYUw4NExMblhTWWo2S0VNMkJBWTNON2Q5YW1TcjNIaTBKMkpUWldBLWtiRjhsc1JhVmY5anFWVjBncDNzdnp6dUZDazJfdFI2MHFGZUFDdzVpWWluY05BU3ZxUmVUOTJ2T2ZXLVJfMWxUWXE4Qkl2NWVSTGdaTjc5RkxTUGpWcTFsajNGM0YzT1hZUTAwZTlvNXJ0ajJXWnB5Ry1DRDVR?oc=5"
         }
       ]
     }
