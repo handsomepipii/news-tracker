@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 11:55",
+  "updated_at": "2026-10-31 12:53",
   "taiwan": [
     {
       "rank": 1,
-      "title": "英特爾股價崩近30%恐創最大單日降幅　掀科技股跌勢",
+      "title": "英特爾股價暴跌3成蒸發4.57兆元　創半世紀最大跌幅",
       "summary": [
-        "經濟日報：英特爾股價崩近30%恐創最大單日降幅　掀科技股跌勢",
+        "經濟日報：英特爾股價暴跌3成蒸發4.57兆元　創半世紀最大跌幅",
         "科技新報：英特爾股價大崩 30%！恐創史上最大單日跌幅，全球晶片股跟著下殺",
         "今周刊：英特爾股價暴跌近30%，半世紀以來單日最慘！美政府+輝達持股帳面一夕蒸發170億美元⋯陳立武揭3迫切問題"
       ],
@@ -13,8 +13,8 @@
       "links": [
         {
           "source": "經濟日報",
-          "title": "英特爾股價崩近30%恐創最大單日降幅　掀科技股跌勢",
-          "url": "https://money.udn.com/money/story/123398/9848068"
+          "title": "英特爾股價暴跌3成蒸發4.57兆元　創半世紀最大跌幅",
+          "url": "https://money.udn.com/money/story/123398/9848278"
         },
         {
           "source": "科技新報",
@@ -30,27 +30,48 @@
     },
     {
       "rank": 2,
-      "title": "黃仁勳身邊藏「女共諜」 中國女主管驚人履歷美媒起底",
+      "title": "10萬交保遭翻盤！澎湖千萬發票案　男改遭收押禁見",
       "summary": [
-        "自由時報：黃仁勳身邊藏「女共諜」 中國女主管驚人履歷美媒起底",
-        "ETtoday：黃仁勳身邊藏中國女間諜　美媒：美星臺官員憂洩密"
+        "ETtoday：10萬交保遭翻盤！澎湖千萬發票案　男改遭收押禁見",
+        "自由時報：僑智國小舊校舍轉身！屏東客青基地動土 打造青年創業、育兒新天地"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "黃仁勳身邊藏「女共諜」 中國女主管驚人履歷美媒起底",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5624247"
+          "source": "ETtoday",
+          "title": "10萬交保遭翻盤！澎湖千萬發票案　男改遭收押禁見",
+          "url": "https://www.ettoday.net/news/20261031/3263713.htm"
         },
         {
-          "source": "ETtoday",
-          "title": "黃仁勳身邊藏中國女間諜　美媒：美星臺官員憂洩密",
-          "url": "https://www.ettoday.net/news/20261031/3263743.htm"
+          "source": "自由時報",
+          "title": "僑智國小舊校舍轉身！屏東客青基地動土 打造青年創業、育兒新天地",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5624770"
         }
       ]
     },
     {
       "rank": 3,
+      "title": "同志遊行前夕急徵巨大彩虹旗  賈永婕：想掛在臺北101",
+      "summary": [
+        "自由時報：同志遊行前夕急徵巨大彩虹旗  賈永婕：想掛在臺北101",
+        "ETtoday：賈永婕同志遊行前求助！急尋巨大彩虹旗「想掛臺北101」網讚超狂"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "同志遊行前夕急徵巨大彩虹旗  賈永婕：想掛在臺北101",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5624572"
+        },
+        {
+          "source": "ETtoday",
+          "title": "賈永婕同志遊行前求助！急尋巨大彩虹旗「想掛臺北101」網讚超狂",
+          "url": "https://star.ettoday.net/news/3263775"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "黃仁勳與中籍女高層關係密切　美媒：美星臺官員憂向中國提供情報",
       "summary": [
         "經濟日報：黃仁勳與中籍女高層關係密切　美媒：美星臺官員憂向中國提供情報",
@@ -71,7 +92,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "科技股賣壓沉重　歐股多數收黑",
       "summary": [
         "自由時報：科技股賣壓沉重　歐股多數收黑",
@@ -92,7 +113,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "美期中選舉提前投票人數創新高　民主黨選民佔比領先",
       "summary": [
         "自由時報：美期中選舉提前投票人數創新高　民主黨選民佔比領先",
@@ -113,7 +134,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "幣安遇駭 比特幣嚇跌 盤中摔破77,000美元",
       "summary": [
         "經濟日報：幣安遇駭 比特幣嚇跌 盤中摔破77,000美元",
@@ -134,7 +155,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "郭彥均從剩518元到擁5間房！他嘆太晚買0050 達人搭配0056、00878、00919拚年領105萬",
       "summary": [
         "工商時報：郭彥均從剩518元到擁5間房！他嘆太晚買0050 達人搭配0056、00878、00919拚年領105萬",
@@ -155,7 +176,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "沙烏地聯軍稱攔截無人機及飛彈　美下令撤離非緊急人員",
       "summary": [
         "自由時報：沙烏地聯軍稱攔截無人機及飛彈　美下令撤離非緊急人員",
@@ -176,7 +197,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "景碩董事會透過新增資本支出預算專案，預計投資約598億元",
       "summary": [
         "公開資訊觀測站重訊：景碩董事會透過新增資本支出預算專案，預計投資約598億元",
@@ -193,27 +214,6 @@
           "source": "MoneyDJ理財網",
           "title": "景碩董事會透過新增資本支出預算專案，預計投資約598億元- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONjZXSTNvSVVxREt3QXNTd0V0WUl3dXE5TFdIMmh2LUE1ZkVOSDg0cVNLUFNYSHozRE45WGg2STExMnFjYkR3OXhvdHNXb1FaZVZvREFXdHBYb3ctekFidk5qN3JKekpEWTVNMV91a3EtM2lUbFNJUEEzTGhnZkVZamxZMmlDRDJtNDBkaXdGZUMyQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "中國承認全程監控赴臺海避颱日本巡視船控政治挑釁臺海巡：日本避風符合人道精神| 溫芳瑜 | 新聞",
-      "summary": [
-        "風傳媒：中國承認全程監控赴臺海避颱日本巡視船控政治挑釁臺海巡：日本避風符合人道精神| 溫芳瑜 | 新聞",
-        "經濟日報：中國研究船密集測繪臺海！美媒揭恐助封鎖臺灣、阻美軍介入"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "風傳媒",
-          "title": "中國承認全程監控赴臺海避颱日本巡視船控政治挑釁臺海巡：日本避風符合人道精神| 溫芳瑜 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjazcxQmp0ZnpPYlpKZlNFTUMwVVBqajE1RDQwNmt6QXc5THNjNjZLZVFaanJBYVNjNGdncGg4WWtRd2k5cU9jUm90Z0dtdw?oc=5"
-        },
-        {
-          "source": "經濟日報",
-          "title": "中國研究船密集測繪臺海！美媒揭恐助封鎖臺灣、阻美軍介入",
-          "url": "https://money.udn.com/money/story/5599/9848308"
         }
       ]
     }
@@ -389,21 +389,6 @@
     },
     {
       "rank": 9,
-      "title": "Intel's stock drop shaves about $10 billion off the US government's equity stake. It's still up 3X.",
-      "summary": [
-        "Yahoo Finance：Intel's stock drop shaves about $10 billion off the US government's equity stake. It's still up 3X."
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Intel's stock drop shaves about $10 billion off the US government's equity stake. It's still up 3X.",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNd0xwbVI3RDZscnBHUFVsZlBSMFNmNVVpLWlicGRLc0tiajMyT2NzbXV6SUJhbG9kaUppV0Y1a1ljZ0hITzJMalVhbUxXWERWYUw4NExMblhTWWo2S0VNMkJBWTNON2Q5YW1TcjNIaTBKMkpUWldBLWtiRjhsc1JhVmY5anFWVjBncDNzdnp6dUZDazJfdFI2MHFGZUFDdzVpWWluY05BU3ZxUmVUOTJ2T2ZXLVJfMWxUWXE4Qkl2NWVSTGdaTjc5RkxTUGpWcTFsajNGM0YzT1hZUTAwZTlvNXJ0ajJXWnB5Ry1DRDVR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "'Sentiment will take a hit': Binance $6.3 billion hack rattles bitcoin, crypto market",
       "summary": [
         "Yahoo Finance：'Sentiment will take a hit': Binance $6.3 billion hack rattles bitcoin, crypto market"
@@ -414,6 +399,21 @@
           "source": "Yahoo Finance",
           "title": "'Sentiment will take a hit': Binance $6.3 billion hack rattles bitcoin, crypto market",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdXEteERGNzZqUkNkZnl6WkJCamVlMExXMWlVWkh6blllVnJJVHg1a0tFdWFBR3N4a2VUZmUwY0cybDhDRGtPbm1tT3lzcHZKRVN4VHRwS1dsM0J5VUJnS0trd1dpX292VWJtUlZINW0xeVBjZUpldG10dUdHQ0txNGdRclRtbW1GRE1RWUVPdERCRmdvS055S3dQRlpiRm12RWR1UWtJUU1qd180Qk1KY1FLSnFtM0NyQ05sN0FnV2JIZTY3b0RydkdLeUJCNnItbVJlc0tXeV80dWZpblhIc2U1dnB2VkZLMHZwMFZ2MEQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "紐約時報中文網",
+      "summary": [
+        "紐約時報中文：紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15ZllYLUlJc2RnVFY0T192SU1hR3U1LXRucGktMnBEZXNYNWpzVlp6UzZVNzhlWGtsd05Pc1k4MDU2b3AzaVhtRQ?oc=5"
         }
       ]
     }
