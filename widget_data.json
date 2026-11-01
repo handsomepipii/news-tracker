@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 16:51",
+  "updated_at": "2026-11-01 17:48",
   "taiwan": [
     {
       "rank": 1,
@@ -231,9 +231,9 @@
       "summary": [
         "BBC World：Crypto firm Binance covers 90% of losses after $6.3bn hack",
         "The Guardian：Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
-        "CNBC：Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday"
+        "Nikkei Asia：Binance says it has covered 90% of losses from $6.3bn hack"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
         {
           "source": "BBC World",
@@ -244,11 +244,6 @@
           "source": "The Guardian",
           "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
           "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
-        },
-        {
-          "source": "CNBC",
-          "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-          "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
         },
         {
           "source": "Nikkei Asia",
@@ -343,21 +338,6 @@
     },
     {
       "rank": 6,
-      "title": "德國青年抗議活動    多個城市出現騷亂",
-      "summary": [
-        "法廣RFI：德國青年抗議活動    多個城市出現騷亂"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "德國青年抗議活動    多個城市出現騷亂",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261031-%E5%BE%B7%E5%9C%8B%E9%9D%92%E5%B9%B4%E6%8A%97%E8%AD%B0%E6%B4%BB%E5%8B%95-%E5%A4%9A%E5%80%8B%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8F%BE%E9%A8%B7%E4%BA%82"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "法國32萬人參與第三輪示威，抗議期間發生了衝突",
       "summary": [
         "法廣RFI：法國32萬人參與第三輪示威，抗議期間發生了衝突"
@@ -372,7 +352,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美國國務卿盧比奧與俄羅斯外長拉夫羅夫討論了特朗普和普京下個月進行互動的可能",
       "summary": [
         "法廣RFI：美國國務卿盧比奧與俄羅斯外長拉夫羅夫討論了特朗普和普京下個月進行互動的可能"
@@ -387,7 +367,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "中期選舉前，美國承認20國集團外長會議在達成共識方面存在困難",
       "summary": [
         "法廣RFI：中期選舉前，美國承認20國集團外長會議在達成共識方面存在困難"
@@ -402,7 +382,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅",
       "summary": [
         "BBC中文：「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅"
@@ -413,6 +393,21 @@
           "source": "BBC中文",
           "title": "「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅",
           "url": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "韓美日外長會談商定持續推進韓半島無核化",
+      "summary": [
+        "韓聯社：韓美日外長會談商定持續推進韓半島無核化"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "韓美日外長會談商定持續推進韓半島無核化",
+          "url": "https://cn.yna.co.kr/view/ACK20261101000100881"
         }
       ]
     }
