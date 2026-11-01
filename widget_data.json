@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 11:56",
+  "updated_at": "2026-11-01 13:51",
   "taiwan": [
     {
       "rank": 1,
@@ -57,27 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "四方外長關切經濟脅迫與產能過剩　暗批中國",
-      "summary": [
-        "自由時報：四方外長關切經濟脅迫與產能過剩　暗批中國",
-        "經濟日報：四方外長關切經濟脅迫與產能過剩　暗批中國"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "四方外長關切經濟脅迫與產能過剩　暗批中國",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5625366"
-        },
-        {
-          "source": "經濟日報",
-          "title": "四方外長關切經濟脅迫與產能過剩　暗批中國",
-          "url": "https://money.udn.com/money/story/5599/9849580"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "俄烏區域性人道停火　俄佔城鎮居民：靠吃草活命",
       "summary": [
         "自由時報：俄烏區域性人道停火　俄佔城鎮居民：靠吃草活命",
@@ -98,7 +77,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "圖解》英特爾股價一日崩跌三成！單季獲利明明優於預期，竟被一份財測拖累 | 國際中心 | 新聞",
       "summary": [
         "風傳媒：圖解》英特爾股價一日崩跌三成！單季獲利明明優於預期，竟被一份財測拖累 | 國際中心 | 新聞",
@@ -119,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "法國數十萬人抗議生活成本　萬聖節變裝上街",
       "summary": [
         "自由時報：法國數十萬人抗議生活成本　萬聖節變裝上街",
@@ -140,7 +119,49 @@
       ]
     },
     {
+      "rank": 6,
+      "title": "臺北市長辯論蔣沈4議題交鋒- 日報",
+      "summary": [
+        "工商時報：臺北市長辯論蔣沈4議題交鋒- 日報",
+        "自由時報：新北市長選戰11月辯論 李四川：會好好準備、說明方向願景"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "工商時報",
+          "title": "臺北市長辯論蔣沈4議題交鋒- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoaUwxdGZlbGxfNmV6RTVxNG1zZWJIaGRrb3VjYUktNGlHOU1lS1R4OUF2eWU3NHdhaGVKQkQtV2ljVDhsTnN5QWVoZzBqajZpUGhDd2tSVVRoTE9HbVlz?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "新北市長選戰11月辯論 李四川：會好好準備、說明方向願景",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5625639"
+        }
+      ]
+    },
+    {
       "rank": 7,
+      "title": "淡蘭百年山徑邁入十週年　北北基宜攜手推動山海文化傳承",
+      "summary": [
+        "ETtoday：淡蘭百年山徑邁入十週年　北北基宜攜手推動山海文化傳承",
+        "風傳媒：百年古道從艋舺再出發！淡蘭入口意象啟用北北基宜會師迎十週年集章探索山海風華| 楊艾喬 | 地方新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "淡蘭百年山徑邁入十週年　北北基宜攜手推動山海文化傳承",
+          "url": "https://www.ettoday.net/news/20261101/3264136.htm"
+        },
+        {
+          "source": "風傳媒",
+          "title": "百年古道從艋舺再出發！淡蘭入口意象啟用北北基宜會師迎十週年集章探索山海風華| 楊艾喬 | 地方新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3bnUtd3ZjTmFNSy00MDJzZDBvVzcwY0prZFR3NEVEUzd3LUx6cllINXdfb0VQbnhKY3ViaHREQThXQ3QwRXNLSl9FeUFVZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "中國2海警船闖東部海域誆稱執法 海巡艦全程緊盯破除認知作戰",
       "summary": [
         "自由時報：中國2海警船闖東部海域誆稱執法 海巡艦全程緊盯破除認知作戰",
@@ -161,7 +182,28 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "大洋流車掃 小水滴激喊：臺北勇者沈伯洋",
+      "summary": [
+        "自由時報：大洋流車掃 小水滴激喊：臺北勇者沈伯洋",
+        "ETtoday：看「臺北大洋流」感動了！臺大前院長李源德：臺灣要年輕世代"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "大洋流車掃 小水滴激喊：臺北勇者沈伯洋",
+          "url": "https://news.ltn.com.tw/news/politics/paper/1776773"
+        },
+        {
+          "source": "ETtoday",
+          "title": "看「臺北大洋流」感動了！臺大前院長李源德：臺灣要年輕世代",
+          "url": "https://www.ettoday.net/news/20261101/3264338.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "加密貨幣史上最大竊案！幣安被轉走2千億資金矛頭指向北韓駭客- 新聞",
       "summary": [
         "MoneyDJ理財網：加密貨幣史上最大竊案！幣安被轉走2千億資金矛頭指向北韓駭客- 新聞",
@@ -180,127 +222,32 @@
           "url": "https://money.udn.com/money/story/5599/9849633"
         }
       ]
-    },
-    {
-      "rank": 9,
-      "title": "金居：COTECH DEVELOPMEN (PENANG)取得土地使用權資產，計約7770萬馬幣",
-      "summary": [
-        "公開資訊觀測站重訊：金居：COTECH DEVELOPMEN (PENANG)取得土地使用權資產，計約7770萬馬幣",
-        "MoneyDJ理財網：金居：COTECH DEVELOPMEN (PENANG)取得土地使用權資產，計約7770萬馬幣- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "金居：COTECH DEVELOPMEN (PENANG)取得土地使用權資產，計約7770萬馬幣",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3VxMTJzTTFuLWxDbFhPZVZuNDRJTGtwX0wtN0pHZFN4S3JuZEZONWFOOWJ2QjFmTVpwcGFTMGt6UzBSQTc3bnk1SDVUZlViaTllRTZYVVllenFmMktFajVVaFAzb1NMSk9hanVoS1QyQzlDUkFIX1lJVi1XUk16WVZ1UkMzNk12bGN3c0RfY3NQQQ?oc=5"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "金居：COTECH DEVELOPMEN (PENANG)取得土地使用權資產，計約7770萬馬幣- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWtNZzhfLXlUZW15Rzl6RVlPU2xkajY0dUpOTjVuR2QtajBwdlV1enZrTEVXZ1kzVDhTdWNETld6ZVB0b3gzYU94UGxYbHM2NDl0ZC1zLXE1Q056Q1g0ajdvSWtlWEN5ZHVBQ21PREZMNkdxcUc1cm9FMjB4cjNTeHBiYjFOSjZHZ1Z1YkROUTc5QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "德國34城市Z世代抗議變騷亂  法蘭克福商店遭蒙面暴徒洗劫",
-      "summary": [
-        "自由時報：德國34城市Z世代抗議變騷亂  法蘭克福商店遭蒙面暴徒洗劫",
-        "TVBS新聞：德國Z世代34城示威 抗議變調洗劫金融中心｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "德國34城市Z世代抗議變騷亂  法蘭克福商店遭蒙面暴徒洗劫",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5625411"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "德國Z世代34城示威 抗議變調洗劫金融中心｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9abnhSTi1VazVGUlFCYmFXbEJELVhNSkJRQVhkMHRzR3FET1BmQUZ1b091ZWhqOWx2cFU2MVRiZ2VtcGQ1MWtoN21QeWJuZXlwUDlHaExn?oc=5"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
       "summary": [
-        "CNBC：Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-        "BBC World：Crypto firm Binance covers 90% of losses after $6.3bn hack",
-        "Nikkei Asia：Binance says it has covered 90% of losses from $6.3bn hack"
+        "BBC World：'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+        "BBC中文：「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說"
       ],
-      "media_count": 4,
+      "media_count": 2,
       "links": [
         {
-          "source": "CNBC",
-          "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-          "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
-        },
-        {
           "source": "BBC World",
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+          "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Nikkei Asia",
-          "title": "Binance says it has covered 90% of losses from $6.3bn hack",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkVpU2RpVnRzWFFnUHhudWdJZGhja1lzOFF6V2VzSFFzaGVqb2pHUWpDLXk4VW5kX2tld21vMGFJelI3XzNyR0xHZjR4djMyNmR6RU5IejlDLUUtWUVZYi1HeTEtV01yQjE2ZHZXeHR0Y0dvT3BXeFc4eWZmcXVNTHNrTUUwZnVmR1lIUHdabElCdDNGWS1aZEZfOGp1ZXBQYXVfZWRJRmpkWjA?oc=5"
-        },
-        {
-          "source": "The Guardian",
-          "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
-          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+          "source": "BBC中文",
+          "title": "「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
+          "url": "https://www.bbc.com/zhongwen/articles/cwn8dkzrm8lvo/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "波蘭憲法法院上演“宮鬥”?警方包圍法院大樓",
-      "summary": [
-        "德國之聲：波蘭憲法法院上演“宮鬥”?警方包圍法院大樓",
-        "法廣RFI：波蘭憲法法院爭奪白熱化：防爆警察封鎖法院 總統出訪緊急折返"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "波蘭憲法法院上演“宮鬥”?警方包圍法院大樓",
-          "url": "https://www.dw.com/zh/波兰宪法法院上演-宫斗-警方包围法院大楼/a-79817226?maca=chi-rss-chi-all-1127-rdf"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "波蘭憲法法院爭奪白熱化：防爆警察封鎖法院 總統出訪緊急折返",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261031-%E6%B3%A2%E8%98%AD%E6%86%B2%E6%B3%95%E6%B3%95%E9%99%A2%E7%88%AD%E5%A5%AA%E7%99%BD%E7%86%B1%E5%8C%96-%E9%98%B2%E7%88%86%E8%AD%A6%E5%AF%9F%E5%B0%81%E9%8E%96%E6%B3%95%E9%99%A2-%E7%B8%BD%E7%B5%B1%E5%87%BA%E8%A8%AA%E7%B7%8A%E6%80%A5%E6%8A%98%E8%BF%94"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed",
-      "summary": [
-        "Tom's Hardware：French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed",
-        "Yahoo Finance：France Approves Proposal for €0.055 Tax per GB of Internet Traffic: RIP Gaming and Streaming"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Tom's Hardware",
-          "title": "French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed",
-          "url": "https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "France Approves Proposal for €0.055 Tax per GB of Internet Traffic: RIP Gaming and Streaming",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZDM2SVBpZlJaTUNBaldQQUNGYVZhRnZ0TjhuSENLWVZnQUhqS25vZ2NqZ1V0b2EwUHFJYUh1U21XWUNTRkVLakZaaWlXdllJVG1LclNrdnZwOEFuY05kNkJJOENtUkVmTmVxMzR3T3FfLUxxWEZtcGNBQUxNQUVxYVVwQ3BwNWdEbF91WHZuUThNQlBMcmxYWEVrRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "フランスで再び大規模デモ 32萬人參加 一部で治安部隊と衝突も",
       "summary": [
         "NHK新聞：フランスで再び大規模デモ 32萬人參加 一部で治安部隊と衝突も",
@@ -321,7 +268,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
       "summary": [
         "Bloomberg Tech：FBI Blames North Korea for $6 Billion Binance Crypto Hack",
@@ -342,77 +289,113 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
+      "rank": 4,
+      "title": "Binance says it has covered 90% of losses from $6.3bn hack",
       "summary": [
-        "Yahoo Finance：Apple Overtakes Nvidia to Become World’s Most Valuable Company"
+        "Nikkei Asia：Binance says it has covered 90% of losses from $6.3bn hack",
+        "The Guardian：Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Binance says it has covered 90% of losses from $6.3bn hack",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkVpU2RpVnRzWFFnUHhudWdJZGhja1lzOFF6V2VzSFFzaGVqb2pHUWpDLXk4VW5kX2tld21vMGFJelI3XzNyR0xHZjR4djMyNmR6RU5IejlDLUUtWUVZYi1HeTEtV01yQjE2ZHZXeHR0Y0dvT3BXeFc4eWZmcXVNTHNrTUUwZnVmR1lIUHdabElCdDNGWS1aZEZfOGp1ZXBQYXVfZWRJRmpkWjA?oc=5"
+        },
+        {
+          "source": "The Guardian",
+          "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "巴西前總統博索納羅之子敗給盧拉後，為何飛往美國？",
+      "summary": [
+        "BBC中文：巴西前總統博索納羅之子敗給盧拉後，為何飛往美國？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG83dG41Y0RpLXc2dTNRVkVDY1hSU0Y5UWhWTU5IX2RDUi1MdWNBY3pSY1d6aUVEM2MxOF83c0R0UUlYSG5iR3RvWHR2TVVSTkFrZFhjSU1DU1NFYld4cUlLOG5jbmVGUWdlbFloLXdwdkpNWG1Ba2g2X0xTclpCNXF6Yl9TMG51ejBTQ2VCWWlNNlIxWEFIM1pITm9IcVdCWlE?oc=5"
+          "source": "BBC中文",
+          "title": "巴西前總統博索納羅之子敗給盧拉後，為何飛往美國？",
+          "url": "https://www.bbc.com/zhongwen/articles/cx5ynjr6q6gzo/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "波蘭憲法法院爭奪白熱化：防爆警察封鎖法院 總統出訪緊急折返",
+      "summary": [
+        "法廣RFI：波蘭憲法法院爭奪白熱化：防爆警察封鎖法院 總統出訪緊急折返"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "波蘭憲法法院爭奪白熱化：防爆警察封鎖法院 總統出訪緊急折返",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261031-%E6%B3%A2%E8%98%AD%E6%86%B2%E6%B3%95%E6%B3%95%E9%99%A2%E7%88%AD%E5%A5%AA%E7%99%BD%E7%86%B1%E5%8C%96-%E9%98%B2%E7%88%86%E8%AD%A6%E5%AF%9F%E5%B0%81%E9%8E%96%E6%B3%95%E9%99%A2-%E7%B8%BD%E7%B5%B1%E5%87%BA%E8%A8%AA%E7%B7%8A%E6%80%A5%E6%8A%98%E8%BF%94"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "Meta builds humanoid robot with Chinese startup Fourier, The Information says",
+      "title": "She spoke about her husband’s ICE custody death. Now she could face deportation.",
       "summary": [
-        "Investing.com：Meta builds humanoid robot with Chinese startup Fourier, The Information says"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Meta builds humanoid robot with Chinese startup Fourier, The Information says",
-          "url": "https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinese-startup-fourier-the-information-says-4989297"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "俄非峰會閉幕　普京稱俄非為\"天然盟友\"",
-      "summary": [
-        "德國之聲：俄非峰會閉幕　普京稱俄非為\"天然盟友\""
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "俄非峰會閉幕　普京稱俄非為\"天然盟友\"",
-          "url": "https://www.dw.com/zh/俄非峰会闭幕　普京称俄非为-天然盟友/a-79798490?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "默茨韓國之行：“我們深知生活在一個分裂的國家是多麼痛苦”",
-      "summary": [
-        "德國之聲：默茨韓國之行：“我們深知生活在一個分裂的國家是多麼痛苦”"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "默茨韓國之行：“我們深知生活在一個分裂的國家是多麼痛苦”",
-          "url": "https://www.dw.com/zh/默茨韩国之行：-我们深知生活在一个分裂的国家是多么痛苦/a-79798077?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Trump administration imposes new sanctions on Rwanda over war in Congo",
-      "summary": [
-        "Washington Post：Trump administration imposes new sanctions on Rwanda over war in Congo"
+        "Washington Post：She spoke about her husband’s ICE custody death. Now she could face deportation."
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Washington Post",
-          "title": "Trump administration imposes new sanctions on Rwanda over war in Congo",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1NYMDZseDEzaUFfR19oZjNYdzdIVXJxODhDWV8weHlFeFkxaW5rWmtkQm1BQUhuODkwWlJLb0RhbzhhemFtU244S2t6T2l6TG9YVjJWNjJpeDVPMFB3Qjljci11UVRPVmdlT3ZjMjRpTXBEWks3MWRDWXRkOUZFcEk4NG1OYkJGYWVsWWtoT1daZDZQanNTY2lrc2hwNjNHWGJCMnFOcnFvRTdocWxSX3RVYw?oc=5"
+          "title": "She spoke about her husband’s ICE custody death. Now she could face deportation.",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUlUSmhLRmR6QnJvLTFMQjg1ZHVVeWw1LTg2ZHRCMzZ2blJJVkdGbkwwWFF5bDBaTzJLeVlScmlIdmRTYnI0RDJveUdqazBzM0w5X28yRTg3M1ZSdGRORVo4UTc1RVVoTVdONENGYTZvaG9iZ2NicWE1dWRqVEdLQ195aWNNZms5cDNNLUlSWldLaWdHWmJhMlBBWndWbUQ2bTFtc05xcHdqd1hCVXdqdGVoY0JWVDEzVjZXWk5COV84b0tJd1dBaw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+      "summary": [
+        "MarketWatch：Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "MarketWatch",
+          "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+          "url": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Alphabet Is in Talks to Join Trump’s Golden Dome Defense Program",
+      "summary": [
+        "Yahoo Finance：Alphabet Is in Talks to Join Trump’s Golden Dome Defense Program"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "Alphabet Is in Talks to Join Trump’s Golden Dome Defense Program",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONy1uZlM3SWx4T2FlMWhFMm9wNWNmdm5SNjU0ekV2WmpDckxidTlzMGVyamhHVHlRVFNSV1dYU1lRVEJYNy15UGpEbGwzSS1PaGRtUHRjd3daUjRZWi1iTnlaWmU0SHdhMlJ2RHYwQ3U5SnZPbkY3c3dQY242TW9SUGo1S3FhZ2dQWmxTWEZKZUdJU1JwT0ZtQ0xjajM?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "SpaceX's Shotwell says 2 million shares to be gifted to children's Trump Accounts",
+      "summary": [
+        "Yahoo Finance：SpaceX's Shotwell says 2 million shares to be gifted to children's Trump Accounts"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "SpaceX's Shotwell says 2 million shares to be gifted to children's Trump Accounts",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0cwc1NhTXJzZzJCYl9KUmNYZ3VzLUVNeEJtYU5hOWRFbUVsV2VwVWtRenQ5UnZJVnNtZVRPendSTmJCOTFlR1MybU5xLWlmM0E3MmpIaWc0cU9wMS1oQlkzNFA5REVMbC1vZ3Vvd3RjbzI3cTN5Q2YzcXZZUm9qazNaSVItempfUV9YYjNGNklLMmRvaU9sakJOYzQ?oc=5"
         }
       ]
     }
