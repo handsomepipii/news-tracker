@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 05:18",
+  "updated_at": "2026-11-02 06:13",
   "taiwan": [
     {
       "rank": 1,
@@ -30,69 +30,33 @@
     },
     {
       "rank": 2,
-      "title": "快訊／《霸王別姬》嚴厲戲班「關師傅」證實過世　享嵩壽101歲！",
+      "title": "川普若輸期中選舉　路透：白宮規劃不靠國會施政路徑",
       "summary": [
-        "ETtoday：快訊／《霸王別姬》嚴厲戲班「關師傅」證實過世　享嵩壽101歲！",
-        "自由時報：《霸王別姬》老戲骨驚傳辭世  「關師傅」呂齊享嵩壽101歲"
+        "經濟日報：川普若輸期中選舉　路透：白宮規劃不靠國會施政路徑",
+        "自由時報：川普若輸期中選舉 路透：白宮規劃不靠國會施政路徑",
+        "ETtoday：川普若期中選舉輸掉國會　白宮傳已擬定不須國會同意的施政路徑"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "快訊／《霸王別姬》嚴厲戲班「關師傅」證實過世　享嵩壽101歲！",
-          "url": "https://star.ettoday.net/news/3264471"
+          "source": "經濟日報",
+          "title": "川普若輸期中選舉　路透：白宮規劃不靠國會施政路徑",
+          "url": "https://money.udn.com/money/story/10511/9850618"
         },
         {
           "source": "自由時報",
-          "title": "《霸王別姬》老戲骨驚傳辭世  「關師傅」呂齊享嵩壽101歲",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5625975"
+          "title": "川普若輸期中選舉 路透：白宮規劃不靠國會施政路徑",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5626081"
+        },
+        {
+          "source": "ETtoday",
+          "title": "川普若期中選舉輸掉國會　白宮傳已擬定不須國會同意的施政路徑",
+          "url": "https://www.ettoday.net/news/20261102/3264582.htm"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "明後天降雨機率增　北臺灣低溫探21度",
-      "summary": [
-        "ETtoday：明後天降雨機率增　北臺灣低溫探21度",
-        "自由時報：2波東北季風報到 未來一週迎風面轉雨 北臺灣白天降至25度"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "明後天降雨機率增　北臺灣低溫探21度",
-          "url": "https://www.ettoday.net/news/20261101/3264469.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "2波東北季風報到 未來一週迎風面轉雨 北臺灣白天降至25度",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5625919"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "波斯灣船隻再遇襲　卡達天然氣油輪遭不明物體攻擊",
-      "summary": [
-        "經濟日報：波斯灣船隻再遇襲　卡達天然氣油輪遭不明物體攻擊",
-        "自由時報：波斯灣船隻再遇襲！卡達天然氣油輪遭不明物體攻擊"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "波斯灣船隻再遇襲　卡達天然氣油輪遭不明物體攻擊",
-          "url": "https://money.udn.com/money/story/5599/9850340"
-        },
-        {
-          "source": "自由時報",
-          "title": "波斯灣船隻再遇襲！卡達天然氣油輪遭不明物體攻擊",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5625847"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "林口祖師廟過火意外 逾20人腳底燙傷送醫",
       "summary": [
         "公視新聞：林口祖師廟過火意外 逾20人腳底燙傷送醫",
@@ -113,7 +77,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "宗教團體後援會聚集上千人 張嘉郡要結合宮廟民俗與經濟雙贏",
       "summary": [
         "自由時報：宗教團體後援會聚集上千人 張嘉郡要結合宮廟民俗與經濟雙贏",
@@ -134,7 +98,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "PLG》打到抽筋！林秉聖首秀23分洋基惜敗 獵鷹開季豪取3連勝",
       "summary": [
         "自由時報：PLG》打到抽筋！林秉聖首秀23分洋基惜敗 獵鷹開季豪取3連勝",
@@ -155,7 +119,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "舉重世錦賽》郭婞淳挺舉差1公斤無緣頒獎臺 但6次試舉全過關",
       "summary": [
         "自由時報：舉重世錦賽》郭婞淳挺舉差1公斤無緣頒獎臺 但6次試舉全過關",
@@ -176,7 +140,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "美期中選舉民主黨若勝　川普關稅政策恐仍難推翻",
       "summary": [
         "經濟日報：美期中選舉民主黨若勝　川普關稅政策恐仍難推翻",
@@ -197,23 +161,59 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "川普若輸期中選舉　路透：白宮規劃不靠國會施政路徑",
+      "rank": 8,
+      "title": "保加利亞總統決選出口民調：代理總統約託娃勝出",
       "summary": [
-        "經濟日報：川普若輸期中選舉　路透：白宮規劃不靠國會施政路徑",
-        "自由時報：川普若輸期中選舉 路透：白宮規劃不靠國會施政路徑"
+        "自由時報：保加利亞總統決選出口民調：代理總統約託娃勝出",
+        "經濟日報：保加利亞總統決選出口民調：代理總統約託娃勝出"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "川普若輸期中選舉　路透：白宮規劃不靠國會施政路徑",
-          "url": "https://money.udn.com/money/story/10511/9850618"
+          "source": "自由時報",
+          "title": "保加利亞總統決選出口民調：代理總統約託娃勝出",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5626159"
         },
         {
+          "source": "經濟日報",
+          "title": "保加利亞總統決選出口民調：代理總統約託娃勝出",
+          "url": "https://money.udn.com/money/story/5599/9850938"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "阿拉斯加州參議員選戰撞名風波　川普政府提起訴訟遭駁回",
+      "summary": [
+        "自由時報：阿拉斯加州參議員選戰撞名風波　川普政府提起訴訟遭駁回",
+        "經濟日報：阿拉斯加州參議員選戰撞名風波　川普政府提起訴訟遭駁回"
+      ],
+      "media_count": 2,
+      "links": [
+        {
           "source": "自由時報",
-          "title": "川普若輸期中選舉 路透：白宮規劃不靠國會施政路徑",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5626081"
+          "title": "阿拉斯加州參議員選戰撞名風波　川普政府提起訴訟遭駁回",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5626162"
+        },
+        {
+          "source": "經濟日報",
+          "title": "阿拉斯加州參議員選戰撞名風波　川普政府提起訴訟遭駁回",
+          "url": "https://money.udn.com/money/story/10511/9850954"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "債券操盤手集體按下暫停鍵 靜待期中選舉結果出爐",
+      "summary": [
+        "經濟日報：債券操盤手集體按下暫停鍵 靜待期中選舉結果出爐"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "債券操盤手集體按下暫停鍵 靜待期中選舉結果出爐",
+          "url": "https://money.udn.com/money/story/123398/9850555"
         }
       ]
     }
@@ -274,27 +274,6 @@
     },
     {
       "rank": 3,
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "summary": [
-        "BBC World：Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-        "Washington Post：Judge tosses Trump’s lawsuit over Wall Street Journal’s Epstein article"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-          "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Washington Post",
-          "title": "Judge tosses Trump’s lawsuit over Wall Street Journal’s Epstein article",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWxidk9abngtS1IyYmpxZ1lHM0dGYW9uT0NwazJJZ3dWT0F0aVNkcElHNVplQkhzNWttMDViUFF1bzBGZHNXODFMNXdrQ0pMb1N4NTJzZ2JFU3pvcXp6emJXNEpWN0Y1RldBNFB5aTNtbUZYMFJ4WEsyREFuMl9Wd0dvUFYyWnVPRXdCeENScEZzbEFjemtIeFdrdTUwWDhVeTBHdHUzYmpRTEg0NW5OZFA5TnhSZkpYQzNrdElB?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
       "summary": [
         "Washington Post：Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
@@ -315,92 +294,107 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "美國擬為\"影子艦隊\"鬆綁？專家警告莫削弱對俄製裁",
+      "rank": 4,
+      "title": "「見鬼了」：為什麼我們會產生超自然體驗？",
       "summary": [
-        "德國之聲：美國擬為\"影子艦隊\"鬆綁？專家警告莫削弱對俄製裁"
+        "BBC中文：「見鬼了」：為什麼我們會產生超自然體驗？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "美國擬為\"影子艦隊\"鬆綁？專家警告莫削弱對俄製裁",
-          "url": "https://www.dw.com/zh/美国拟为-影子舰队-松绑？专家警告莫削弱对俄制裁/a-79806146?maca=chi-rss-chi-all-1127-rdf"
+          "source": "BBC中文",
+          "title": "「見鬼了」：為什麼我們會產生超自然體驗？",
+          "url": "https://www.bbc.com/zhongwen/articles/cm3vqy5g204vo/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "仁川國際機場網路發生故障 出境手續嚴重延誤",
+      "summary": [
+        "韓聯社：仁川國際機場網路發生故障 出境手續嚴重延誤"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "仁川國際機場網路發生故障 出境手續嚴重延誤",
+          "url": "https://cn.yna.co.kr/view/ACK20261030003200881"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "牆外文摘：33人被開除黨籍，為什麼問責到不了習近平？",
+      "title": "香港PE集團收購恒大物業控股權",
       "summary": [
-        "德國之聲：牆外文摘：33人被開除黨籍，為什麼問責到不了習近平？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "牆外文摘：33人被開除黨籍，為什麼問責到不了習近平？",
-          "url": "https://www.dw.com/zh/墙外文摘：33人被开除党籍，为什么问责到不了习近平？/a-79820930?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "日本外務省遭網路攻擊 或有3600件個人資訊外洩",
-      "summary": [
-        "法廣RFI：日本外務省遭網路攻擊 或有3600件個人資訊外洩"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "日本外務省遭網路攻擊 或有3600件個人資訊外洩",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261101-%E6%97%A5%E6%9C%AC%E5%A4%96%E5%8B%99%E7%9C%81%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E6%88%96%E6%9C%893600%E4%BB%B6%E5%80%8B%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%A4%96%E6%B3%84"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "臺灣稱中國海警在東部海域巡邏期間騷擾船隻 臺方派船監視",
-      "summary": [
-        "法廣RFI：臺灣稱中國海警在東部海域巡邏期間騷擾船隻 臺方派船監視"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "臺灣稱中國海警在東部海域巡邏期間騷擾船隻 臺方派船監視",
-          "url": "https://www.rfi.fr/tw/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261101-%E5%8F%B0%E7%81%A3%E7%A8%B1%E4%B8%AD%E5%9C%8B%E6%B5%B7%E8%AD%A6%E5%9C%A8%E6%9D%B1%E9%83%A8%E6%B5%B7%E5%9F%9F%E5%B7%A1%E9%82%8F%E6%9C%9F%E9%96%93%E9%A8%B7%E6%93%BE%E8%88%B9%E9%9A%BB-%E5%8F%B0%E6%96%B9%E6%B4%BE%E8%88%B9%E7%9B%A3%E8%A6%96"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "莫迪政府再遭挑戰：因審查選民資訊，印度反對黨及“蟑螂黨”舉行抗議活動",
-      "summary": [
-        "法廣RFI：莫迪政府再遭挑戰：因審查選民資訊，印度反對黨及“蟑螂黨”舉行抗議活動"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "莫迪政府再遭挑戰：因審查選民資訊，印度反對黨及“蟑螂黨”舉行抗議活動",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261101-%E8%8E%AB%E8%BF%AA%E6%94%BF%E5%BA%9C%E5%86%8D%E9%81%AD%E6%8C%91%E6%88%B0-%E5%9B%A0%E5%AF%A9%E6%9F%A5%E9%81%B8%E6%B0%91%E4%BF%A1%E6%81%AF%EF%BC%8C%E5%8D%B0%E5%BA%A6%E5%8F%8D%E5%B0%8D%E9%BB%A8%E5%8F%8A-%E8%9F%91%E8%9E%82%E9%BB%A8-%E8%88%89%E8%A1%8C%E6%8A%97%E8%AD%B0%E6%B4%BB%E5%8B%95"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "當孔子學院成為大國競爭的符號",
-      "summary": [
-        "FT中文網：當孔子學院成為大國競爭的符號"
+        "FT中文網：香港PE集團收購恒大物業控股權"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "FT中文網",
-          "title": "當孔子學院成為大國競爭的符號",
-          "url": "https://www.ftchinese.com/story/001111239"
+          "title": "香港PE集團收購恒大物業控股權",
+          "url": "https://www.ftchinese.com/story/001111241"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "新北市長選戰：「政二代」還是「專業副手」能拿下關鍵一城？",
+      "summary": [
+        "BBC中文：新北市長選戰：「政二代」還是「專業副手」能拿下關鍵一城？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "新北市長選戰：「政二代」還是「專業副手」能拿下關鍵一城？",
+          "url": "https://www.bbc.com/zhongwen/articles/cm9wzeg8ql22o/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "彼得•湯姆森：海洋母親教會我如何看待我們的未來",
+      "summary": [
+        "FT中文網：彼得•湯姆森：海洋母親教會我如何看待我們的未來"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "FT中文網",
+          "title": "彼得•湯姆森：海洋母親教會我如何看待我們的未來",
+          "url": "https://www.ftchinese.com/story/001111237"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "不願進入“位元組時間”的網際網路巨頭",
+      "summary": [
+        "FT中文網：不願進入“位元組時間”的網際網路巨頭"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "FT中文網",
+          "title": "不願進入“位元組時間”的網際網路巨頭",
+          "url": "https://www.ftchinese.com/story/001111249"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "《給阿嬤的情書》之外的真實下南洋",
+      "summary": [
+        "FT中文網：《給阿嬤的情書》之外的真實下南洋"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "FT中文網",
+          "title": "《給阿嬤的情書》之外的真實下南洋",
+          "url": "https://www.ftchinese.com/story/001111246"
         }
       ]
     }
