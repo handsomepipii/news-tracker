@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 13:51",
+  "updated_at": "2026-11-01 14:59",
   "taiwan": [
     {
       "rank": 1,
@@ -57,48 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "俄烏區域性人道停火　俄佔城鎮居民：靠吃草活命",
-      "summary": [
-        "自由時報：俄烏區域性人道停火　俄佔城鎮居民：靠吃草活命",
-        "經濟日報：俄烏區域性人道停火　俄佔城鎮居民：靠吃草活命"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "俄烏區域性人道停火　俄佔城鎮居民：靠吃草活命",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5625369"
-        },
-        {
-          "source": "經濟日報",
-          "title": "俄烏區域性人道停火　俄佔城鎮居民：靠吃草活命",
-          "url": "https://money.udn.com/money/story/5599/9849588"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "圖解》英特爾股價一日崩跌三成！單季獲利明明優於預期，竟被一份財測拖累 | 國際中心 | 新聞",
-      "summary": [
-        "風傳媒：圖解》英特爾股價一日崩跌三成！單季獲利明明優於預期，竟被一份財測拖累 | 國際中心 | 新聞",
-        "工商時報：英特爾股價慘崩近3成！陸行之點出致命困境：與臺積電差在3件事- 國際"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "風傳媒",
-          "title": "圖解》英特爾股價一日崩跌三成！單季獲利明明優於預期，竟被一份財測拖累 | 國際中心 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pbFYweENRQWFRd3dEWDU3T0lKSjVPZnhOMk5mdlV3alFIUWhjY205YmZfOVhhMllqR0VsWjRUcjVGZE5iVlJ4Tzd6NG9ldw?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "英特爾股價慘崩近3成！陸行之點出致命困境：與臺積電差在3件事- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yZllJOFJSWVpRcUhoWkFZbzJnTDFGNmsxLXdwc0RIRDExQXBVcXJHZm5OTUtkZGM2NWRaMm5pOHJpdUVaQjhDc2VGdTdFZGdRNkhpLV9VQ3ZSYkhjQmhz?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "法國數十萬人抗議生活成本　萬聖節變裝上街",
       "summary": [
         "自由時報：法國數十萬人抗議生活成本　萬聖節變裝上街",
@@ -119,7 +77,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "臺北市長辯論蔣沈4議題交鋒- 日報",
       "summary": [
         "工商時報：臺北市長辯論蔣沈4議題交鋒- 日報",
@@ -140,7 +98,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "淡蘭百年山徑邁入十週年　北北基宜攜手推動山海文化傳承",
       "summary": [
         "ETtoday：淡蘭百年山徑邁入十週年　北北基宜攜手推動山海文化傳承",
@@ -161,7 +119,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "中國2海警船闖東部海域誆稱執法 海巡艦全程緊盯破除認知作戰",
       "summary": [
         "自由時報：中國2海警船闖東部海域誆稱執法 海巡艦全程緊盯破除認知作戰",
@@ -182,7 +140,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "大洋流車掃 小水滴激喊：臺北勇者沈伯洋",
       "summary": [
         "自由時報：大洋流車掃 小水滴激喊：臺北勇者沈伯洋",
@@ -203,7 +161,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "加密貨幣史上最大竊案！幣安被轉走2千億資金矛頭指向北韓駭客- 新聞",
       "summary": [
         "MoneyDJ理財網：加密貨幣史上最大竊案！幣安被轉走2千億資金矛頭指向北韓駭客- 新聞",
@@ -220,6 +178,48 @@
           "source": "經濟日報",
           "title": "幣安逾60億美元資產遭竊　FBI指北韓所為",
           "url": "https://money.udn.com/money/story/5599/9849633"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "加州萬聖節商店爆槍擊1孕婦身亡！　6人輕重傷",
+      "summary": [
+        "ETtoday：加州萬聖節商店爆槍擊1孕婦身亡！　6人輕重傷",
+        "MoneyDJ理財網：萬聖節染血！美加州購物中心驚傳槍響 1孕婦身亡、3命危3受傷"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "加州萬聖節商店爆槍擊1孕婦身亡！　6人輕重傷",
+          "url": "https://www.ettoday.net/news/20261101/3264182.htm"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "萬聖節染血！美加州購物中心驚傳槍響 1孕婦身亡、3命危3受傷",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc0hLYnhaempTWGVDbFJSdDVHSmlhVVpQbmtaVmptV0xXMV92ZXdFVDhaOHUwbnNvU1llTFN2MFlZTHBVcWs4QXpXVWZNWDN0SGEtY1hJa3dxNTQ0dS1jV0NMR0RNeWNrb2I3LXNJM25HZVhNNHhQdWd5cnNUcXhHY3BMcUNZQlFxQ0hIaTREbWhvZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "金居：COTECH DEVELOPMEN (PENANG)取得土地使用權資產，計約7770萬馬幣",
+      "summary": [
+        "公開資訊觀測站重訊：金居：COTECH DEVELOPMEN (PENANG)取得土地使用權資產，計約7770萬馬幣",
+        "MoneyDJ理財網：金居：COTECH DEVELOPMEN (PENANG)取得土地使用權資產，計約7770萬馬幣- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "金居：COTECH DEVELOPMEN (PENANG)取得土地使用權資產，計約7770萬馬幣",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3VxMTJzTTFuLWxDbFhPZVZuNDRJTGtwX0wtN0pHZFN4S3JuZEZONWFOOWJ2QjFmTVpwcGFTMGt6UzBSQTc3bnk1SDVUZlViaTllRTZYVVllenFmMktFajVVaFAzb1NMSk9hanVoS1QyQzlDUkFIX1lJVi1XUk16WVZ1UkMzNk12bGN3c0RfY3NQQQ?oc=5"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "金居：COTECH DEVELOPMEN (PENANG)取得土地使用權資產，計約7770萬馬幣- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWtNZzhfLXlUZW15Rzl6RVlPU2xkajY0dUpOTjVuR2QtajBwdlV1enZrTEVXZ1kzVDhTdWNETld6ZVB0b3gzYU94UGxYbHM2NDl0ZC1zLXE1Q056Q1g0ajdvSWtlWEN5ZHVBQ21PREZMNkdxcUc1cm9FMjB4cjNTeHBiYjFOSjZHZ1Z1YkROUTc5QQ?oc=5"
         }
       ]
     }
@@ -311,91 +311,91 @@
     },
     {
       "rank": 5,
-      "title": "巴西前總統博索納羅之子敗給盧拉後，為何飛往美國？",
+      "title": "Kennedy Center leaders threatened payroll to push Trump naming, lawmaker alleges",
       "summary": [
-        "BBC中文：巴西前總統博索納羅之子敗給盧拉後，為何飛往美國？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "巴西前總統博索納羅之子敗給盧拉後，為何飛往美國？",
-          "url": "https://www.bbc.com/zhongwen/articles/cx5ynjr6q6gzo/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "波蘭憲法法院爭奪白熱化：防爆警察封鎖法院 總統出訪緊急折返",
-      "summary": [
-        "法廣RFI：波蘭憲法法院爭奪白熱化：防爆警察封鎖法院 總統出訪緊急折返"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "波蘭憲法法院爭奪白熱化：防爆警察封鎖法院 總統出訪緊急折返",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261031-%E6%B3%A2%E8%98%AD%E6%86%B2%E6%B3%95%E6%B3%95%E9%99%A2%E7%88%AD%E5%A5%AA%E7%99%BD%E7%86%B1%E5%8C%96-%E9%98%B2%E7%88%86%E8%AD%A6%E5%AF%9F%E5%B0%81%E9%8E%96%E6%B3%95%E9%99%A2-%E7%B8%BD%E7%B5%B1%E5%87%BA%E8%A8%AA%E7%B7%8A%E6%80%A5%E6%8A%98%E8%BF%94"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "She spoke about her husband’s ICE custody death. Now she could face deportation.",
-      "summary": [
-        "Washington Post：She spoke about her husband’s ICE custody death. Now she could face deportation."
+        "Washington Post：Kennedy Center leaders threatened payroll to push Trump naming, lawmaker alleges"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Washington Post",
-          "title": "She spoke about her husband’s ICE custody death. Now she could face deportation.",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUlUSmhLRmR6QnJvLTFMQjg1ZHVVeWw1LTg2ZHRCMzZ2blJJVkdGbkwwWFF5bDBaTzJLeVlScmlIdmRTYnI0RDJveUdqazBzM0w5X28yRTg3M1ZSdGRORVo4UTc1RVVoTVdONENGYTZvaG9iZ2NicWE1dWRqVEdLQ195aWNNZms5cDNNLUlSWldLaWdHWmJhMlBBWndWbUQ2bTFtc05xcHdqd1hCVXdqdGVoY0JWVDEzVjZXWk5COV84b0tJd1dBaw?oc=5"
+          "title": "Kennedy Center leaders threatened payroll to push Trump naming, lawmaker alleges",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRHRtMnd2MGlYTDMwTnZsdUhYTmsyOGlHR1lPTGZrQm82dUNkOFhvY1JMN3NsZjdTYWZvRmRKSTFFOGxwNFo0Q1FPaDd5NEFsWmVxMktNTVlya09HMHdFQWdUcUZTNndENXFhazd5TGZtSVpwVFdhYkxNbEZpdVF0WGV3U1NPbGdER09mNzFEck1ubkZodkwtdzJlQnBZM0hHb0V3UWpydHhoelh4M2FDY1A5SnViWU8wMzlYQW5tQkcySWM?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Column | Husband’s ex won’t let my teen stepdaughter see me while he’s away",
+      "summary": [
+        "Washington Post：Column | Husband’s ex won’t let my teen stepdaughter see me while he’s away"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "Column | Husband’s ex won’t let my teen stepdaughter see me while he’s away",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQXB6b21VczAySDdfRUxaV1Z3YVZYeUszV0NrZUZlb0RhUTg5MG1HQV82dkpCdUp1elllWklpaTRkS1c0Qm9FbmhjLU1ncjlMeEdWc3ZxWUxuTzhaSUxYVmlOdnhNQXhrNHpzOGRlMl9WWV9IbFkyblF0UFRsYWlZanpGaTVxeHc3VjI2WU1ULVBzenEwTFBUZlRsN294eUNZWUR4M1hQT2hRMlhGUnFnd1lHRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+      "summary": [
+        "CNBC：SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+          "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+      "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
       "summary": [
-        "MarketWatch：Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services"
+        "MarketWatch：‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "MarketWatch",
-          "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
-          "url": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories"
+          "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
+          "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "Alphabet Is in Talks to Join Trump’s Golden Dome Defense Program",
+      "title": "Cracks are emerging in the AI spending boom",
       "summary": [
-        "Yahoo Finance：Alphabet Is in Talks to Join Trump’s Golden Dome Defense Program"
+        "Yahoo Finance：Cracks are emerging in the AI spending boom"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "Alphabet Is in Talks to Join Trump’s Golden Dome Defense Program",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONy1uZlM3SWx4T2FlMWhFMm9wNWNmdm5SNjU0ekV2WmpDckxidTlzMGVyamhHVHlRVFNSV1dYU1lRVEJYNy15UGpEbGwzSS1PaGRtUHRjd3daUjRZWi1iTnlaWmU0SHdhMlJ2RHYwQ3U5SnZPbkY3c3dQY242TW9SUGo1S3FhZ2dQWmxTWEZKZUdJU1JwT0ZtQ0xjajM?oc=5"
+          "title": "Cracks are emerging in the AI spending boom",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaTN4RDlFMk4taFlSNEdBcHJnXy02cXl3UDliQ01pT3pZQjA5UDI4Z1lxN2FubzMtRXlRV1FNNGhxbEVGaTZXQ1cwNFUyLTVPZkxvSmNLTkxaTlktMnFjSmVoYW1mTS1laEkyRW1leHpCVmtua0phNXBNT2JEcHBhZXdKbXlmM0FkcVZZWTZJcE5rMkZYdnhVa1pmREM?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "SpaceX's Shotwell says 2 million shares to be gifted to children's Trump Accounts",
+      "title": "Why the sell-off in French bonds is a warning for global governments",
       "summary": [
-        "Yahoo Finance：SpaceX's Shotwell says 2 million shares to be gifted to children's Trump Accounts"
+        "Investing.com：Why the sell-off in French bonds is a warning for global governments"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "SpaceX's Shotwell says 2 million shares to be gifted to children's Trump Accounts",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0cwc1NhTXJzZzJCYl9KUmNYZ3VzLUVNeEJtYU5hOWRFbUVsV2VwVWtRenQ5UnZJVnNtZVRPendSTmJCOTFlR1MybU5xLWlmM0E3MmpIaWc0cU9wMS1oQlkzNFA5REVMbC1vZ3Vvd3RjbzI3cTN5Q2YzcXZZUm9qazNaSVItempfUV9YYjNGNklLMmRvaU9sakJOYzQ?oc=5"
+          "source": "Investing.com",
+          "title": "Why the sell-off in French bonds is a warning for global governments",
+          "url": "https://www.investing.com/news/stock-market-news/why-the-selloff-in-french-bonds-is-a-warning-for-global-governments-4989316"
         }
       ]
     }
