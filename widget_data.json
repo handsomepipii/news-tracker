@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 02:08",
+  "updated_at": "2026-11-02 02:51",
   "taiwan": [
     {
       "rank": 1,
@@ -296,6 +296,48 @@
     },
     {
       "rank": 4,
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "summary": [
+        "BBC World：Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+        "Washington Post：Judge tosses Trump’s lawsuit over Wall Street Journal’s Epstein article"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Washington Post",
+          "title": "Judge tosses Trump’s lawsuit over Wall Street Journal’s Epstein article",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWxidk9abngtS1IyYmpxZ1lHM0dGYW9uT0NwazJJZ3dWT0F0aVNkcElHNVplQkhzNWttMDViUFF1bzBGZHNXODFMNXdrQ0pMb1N4NTJzZ2JFU3pvcXp6emJXNEpWN0Y1RldBNFB5aTNtbUZYMFJ4WEsyREFuMl9Wd0dvUFYyWnVPRXdCeENScEZzbEFjemtIeFdrdTUwWDhVeTBHdHUzYmpRTEg0NW5OZFA5TnhSZkpYQzNrdElB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Sen. Chris Murphy hospitalized for stroke, his office says",
+      "summary": [
+        "Washington Post：Sen. Chris Murphy hospitalized for stroke, his office says",
+        "CNBC：Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "Sen. Chris Murphy hospitalized for stroke, his office says",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZC1FLW8wYndWZjJyYl9IbTZLY3IxdzZEU1dodVA5eWR2WndWQUg1dnU0WnFlWjdsRUVOR08wNmtCbjhnb0s3Q0VxZFRTTm1jNk4yYjF5X1h6T2g1NzgzaEZwbzk1NUlzd3MyekdiQ2s1ZmlQTDE5VlNtM0N0NXk3X1NBdkdDU1FfbWkyM3ROLWdTUQ?oc=5"
+        },
+        {
+          "source": "CNBC",
+          "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
+          "url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Opinion | Why daylight saving time should be eliminated entirely",
       "summary": [
         "Washington Post：Opinion | Why daylight saving time should be eliminated entirely",
@@ -316,22 +358,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "2026年11月2日韓國歷史上的今天",
-      "summary": [
-        "韓聯社：2026年11月2日韓國歷史上的今天"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "2026年11月2日韓國歷史上的今天",
-          "url": "https://cn.yna.co.kr/view/ACK20261019003700881"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "title": "李在明將發表施政演說籲國會透過明年預算案",
       "summary": [
         "韓聯社：李在明將發表施政演說籲國會透過明年預算案"
@@ -346,7 +373,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "「我不希望它成為我的身份」：BBC專訪Hyrox失禁選手",
       "summary": [
         "BBC中文：「我不希望它成為我的身份」：BBC專訪Hyrox失禁選手"
@@ -361,7 +388,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "調研：歐洲的數字依賴日益嚴重",
       "summary": [
         "德國之聲：調研：歐洲的數字依賴日益嚴重"
@@ -376,7 +403,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "韓國安高官會見瑞士外長卡西斯 聽取其訪朝成果",
       "summary": [
         "韓聯社：韓國安高官會見瑞士外長卡西斯 聽取其訪朝成果"
@@ -387,21 +414,6 @@
           "source": "韓聯社",
           "title": "韓國安高官會見瑞士外長卡西斯 聽取其訪朝成果",
           "url": "https://cn.yna.co.kr/view/ACK20261101000700881"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "大選後，“金磚之父”奧尼爾如何看巴西前景？",
-      "summary": [
-        "FT中文網：大選後，“金磚之父”奧尼爾如何看巴西前景？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "FT中文網",
-          "title": "大選後，“金磚之父”奧尼爾如何看巴西前景？",
-          "url": "https://www.ftchinese.com/story/001111238"
         }
       ]
     }
