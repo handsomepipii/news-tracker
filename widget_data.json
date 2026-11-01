@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 17:48",
+  "updated_at": "2026-11-01 18:41",
   "taiwan": [
     {
       "rank": 1,
@@ -57,48 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "中國2海警船闖東部海域誆稱執法 海巡艦全程緊盯破除認知作戰",
-      "summary": [
-        "自由時報：中國2海警船闖東部海域誆稱執法 海巡艦全程緊盯破除認知作戰",
-        "ETtoday：中國海警闖東部海域稱「執法」　海巡吉安艦緊盯"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "中國2海警船闖東部海域誆稱執法 海巡艦全程緊盯破除認知作戰",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5625379"
-        },
-        {
-          "source": "ETtoday",
-          "title": "中國海警闖東部海域稱「執法」　海巡吉安艦緊盯",
-          "url": "https://www.ettoday.net/news/20261101/3264195.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "加密貨幣史上最大竊案！幣安被轉走2千億資金矛頭指向北韓駭客- 新聞",
-      "summary": [
-        "MoneyDJ理財網：加密貨幣史上最大竊案！幣安被轉走2千億資金矛頭指向北韓駭客- 新聞",
-        "今周刊：幣安2千億加密貨幣30分鐘被竊，FBI：北韓幹的！公司喊回補9成⋯趙長鵬為「一個表情符號」槓馬斯克？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "加密貨幣史上最大竊案！幣安被轉走2千億資金矛頭指向北韓駭客- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV2RBOWRua3l5UkM1OXc0dUNKbWkyaHoxQ3lyNEFjUmtvWERLMXRYRlhTVV95M0M5UjJpOGpuaDBFTm01RDlJVFN6emdSekJIQll1VG5GWWVxM0kzcFlEQm9PSy02Z1pSUEc5TkxhWHVEcEoyWVF2b1c0UjZJM0lfTHdFR1I4a0p1RWNKZzNqU290dw?oc=5"
-        },
-        {
-          "source": "今周刊",
-          "title": "幣安2千億加密貨幣30分鐘被竊，FBI：北韓幹的！公司喊回補9成⋯趙長鵬為「一個表情符號」槓馬斯克？",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbm12Sjk5QVJWNVByZjE1emJBT3BxeDVhQXVyaFVqOGUwM2xpQWljR0pnNkZVWlJLQXVmSnJaWFdLNHkzSGpNbW91eDBuSTVGaDFHcW5VSlBudzJqZ28wVkp0Ykp3eFJibEpJUmN1OTFnS21waXV6SE1RWnBoQ1liNA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "加州萬聖節商店爆槍擊1孕婦身亡！　6人輕重傷",
       "summary": [
         "ETtoday：加州萬聖節商店爆槍擊1孕婦身亡！　6人輕重傷",
@@ -119,7 +77,28 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "title": "幣安逾60億美元資產遭竊　FBI指北韓所為",
+      "summary": [
+        "經濟日報：幣安逾60億美元資產遭竊　FBI指北韓所為",
+        "財經新報：TRM Labs：幣安被駭 63 億美元遭竊，北韓駭客涉嫌犯案"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "幣安逾60億美元資產遭竊　FBI指北韓所為",
+          "url": "https://money.udn.com/money/story/5599/9849633"
+        },
+        {
+          "source": "財經新報",
+          "title": "TRM Labs：幣安被駭 63 億美元遭竊，北韓駭客涉嫌犯案",
+          "url": "https://infosecu.technews.tw/2026/10/30/trm-labs-binance-hacked-6-3-billion-stolen-north-korean-hackers-suspected/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "金居：COTECH DEVELOPMEN (PENANG)取得土地使用權資產，計約7770萬馬幣",
       "summary": [
         "公開資訊觀測站重訊：金居：COTECH DEVELOPMEN (PENANG)取得土地使用權資產，計約7770萬馬幣",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "德國34城市Z世代抗議變騷亂  法蘭克福商店遭蒙面暴徒洗劫",
       "summary": [
         "自由時報：德國34城市Z世代抗議變騷亂  法蘭克福商店遭蒙面暴徒洗劫",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "返家被未熄火轎車擋路 林美貞罕動怒報警",
       "summary": [
         "自由時報：返家被未熄火轎車擋路 林美貞罕動怒報警",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "終身雲端空間撿便宜 pCloud 雙 11 方案 不怕 iPhone 18 Pro 漲價",
       "summary": [
         "關鍵評論網：終身雲端空間撿便宜 pCloud 雙 11 方案 不怕 iPhone 18 Pro 漲價",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "臺灣藝術家520顆警示燈點亮「原慾」驚豔六本木藝術之夜",
       "summary": [
         "自由時報：臺灣藝術家520顆警示燈點亮「原慾」驚豔六本木藝術之夜",
@@ -220,6 +199,27 @@
           "source": "經濟日報",
           "title": "臺灣藝術家前進六本木藝術之夜　520盞警示燈打造吸睛裝置",
           "url": "https://money.udn.com/money/story/5599/9850080"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "玻利維亞旱災洪患齊發　政府宣佈進入緊急狀態",
+      "summary": [
+        "經濟日報：玻利維亞旱災洪患齊發　政府宣佈進入緊急狀態",
+        "ETtoday：玻利維亞全境緊急狀態！乾旱、洪水齊發　聖嬰現象釀雙重災難"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "玻利維亞旱災洪患齊發　政府宣佈進入緊急狀態",
+          "url": "https://money.udn.com/money/story/5599/9850011"
+        },
+        {
+          "source": "ETtoday",
+          "title": "玻利維亞全境緊急狀態！乾旱、洪水齊發　聖嬰現象釀雙重災難",
+          "url": "https://www.ettoday.net/news/20261101/3264366.htm"
         }
       ]
     }
@@ -296,6 +296,27 @@
     },
     {
       "rank": 4,
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "summary": [
+        "BBC World：Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+        "Investing.com：Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
+          "url": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "France Approves Proposal for €0.055 Tax per GB of Internet Traffic: RIP Gaming and Streaming",
       "summary": [
         "Yahoo Finance：France Approves Proposal for €0.055 Tax per GB of Internet Traffic: RIP Gaming and Streaming",
@@ -316,7 +337,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
       "summary": [
         "Ars Technica：Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
@@ -337,7 +358,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "法國32萬人參與第三輪示威，抗議期間發生了衝突",
       "summary": [
         "法廣RFI：法國32萬人參與第三輪示威，抗議期間發生了衝突"
@@ -352,7 +373,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "美國國務卿盧比奧與俄羅斯外長拉夫羅夫討論了特朗普和普京下個月進行互動的可能",
       "summary": [
         "法廣RFI：美國國務卿盧比奧與俄羅斯外長拉夫羅夫討論了特朗普和普京下個月進行互動的可能"
@@ -367,7 +388,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "中期選舉前，美國承認20國集團外長會議在達成共識方面存在困難",
       "summary": [
         "法廣RFI：中期選舉前，美國承認20國集團外長會議在達成共識方面存在困難"
@@ -382,7 +403,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅",
       "summary": [
         "BBC中文：「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅"
@@ -393,21 +414,6 @@
           "source": "BBC中文",
           "title": "「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅",
           "url": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "韓美日外長會談商定持續推進韓半島無核化",
-      "summary": [
-        "韓聯社：韓美日外長會談商定持續推進韓半島無核化"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "韓美日外長會談商定持續推進韓半島無核化",
-          "url": "https://cn.yna.co.kr/view/ACK20261101000100881"
         }
       ]
     }
