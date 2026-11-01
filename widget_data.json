@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 02:51",
+  "updated_at": "2026-11-02 03:43",
   "taiwan": [
     {
       "rank": 1,
@@ -51,27 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "現場畫面曝光！川普豪宅突部署2套復仇者飛彈 特勤局揭原因",
-      "summary": [
-        "經濟日報：現場畫面曝光！川普豪宅突部署2套復仇者飛彈 特勤局揭原因",
-        "ETtoday：川普豪宅「海湖莊園」突部署2套復仇者飛彈！　特勤局證實"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "現場畫面曝光！川普豪宅突部署2套復仇者飛彈 特勤局揭原因",
-          "url": "https://money.udn.com/money/story/5599/9850167"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普豪宅「海湖莊園」突部署2套復仇者飛彈！　特勤局證實",
-          "url": "https://www.ettoday.net/news/20261101/3264462.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "獲利強強滾！金融三業前三季暴賺近1.3兆元重新整理史上新高紀錄- 金融",
       "summary": [
         "工商時報：獲利強強滾！金融三業前三季暴賺近1.3兆元重新整理史上新高紀錄- 金融",
@@ -92,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "南韓首宗GPU融資案登場！Brookfield斥資12.6兆韓元建AI算力，創當地最大聯貸主辦紀錄",
       "summary": [
         "鉅亨網：南韓首宗GPU融資案登場！Brookfield斥資12.6兆韓元建AI算力，創當地最大聯貸主辦紀錄",
@@ -113,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "石舫亙社子市場掃街出現持槍男？  警攔查原來是MP3",
       "summary": [
         "自由時報：石舫亙社子市場掃街出現持槍男？  警攔查原來是MP3",
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "48年沒喝水！　96歲巴菲特「驚人養生法」：每天灌5罐可樂",
       "summary": [
         "ETtoday：48年沒喝水！　96歲巴菲特「驚人養生法」：每天灌5罐可樂",
@@ -155,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Meta 與中國傅利葉智慧合作開發人形機器人？網傳 Max 僅 48 公斤、3 個月打造",
       "summary": [
         "INSIDE硬塞：Meta 與中國傅利葉智慧合作開發人形機器人？網傳 Max 僅 48 公斤、3 個月打造",
@@ -176,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "快訊／《霸王別姬》嚴厲戲班「關師傅」證實過世　享嵩壽101歲！",
       "summary": [
         "ETtoday：快訊／《霸王別姬》嚴厲戲班「關師傅」證實過世　享嵩壽101歲！",
@@ -197,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "明後天降雨機率增　北臺灣低溫探21度",
       "summary": [
         "ETtoday：明後天降雨機率增　北臺灣低溫探21度",
@@ -216,11 +195,64 @@
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5625919"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "波斯灣船隻再遇襲　卡達天然氣油輪遭不明物體攻擊",
+      "summary": [
+        "經濟日報：波斯灣船隻再遇襲　卡達天然氣油輪遭不明物體攻擊",
+        "自由時報：波斯灣船隻再遇襲！卡達天然氣油輪遭不明物體攻擊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "波斯灣船隻再遇襲　卡達天然氣油輪遭不明物體攻擊",
+          "url": "https://money.udn.com/money/story/5599/9850340"
+        },
+        {
+          "source": "自由時報",
+          "title": "波斯灣船隻再遇襲！卡達天然氣油輪遭不明物體攻擊",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5625847"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "Binance resumes customer withdrawals after record $6.3bn hack",
+      "summary": [
+        "The Guardian：Binance resumes customer withdrawals after record $6.3bn hack",
+        "CNBC：Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+        "Yahoo Finance：Binance says resuming withdrawals after major hack"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "Binance resumes customer withdrawals after record $6.3bn hack",
+          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+        },
+        {
+          "source": "CNBC",
+          "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+          "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Binance says resuming withdrawals after major hack",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzl1TE9YTS1nMnBUenZ5X185WjBkMG1fZm9JSEJXM1lDV2hDTHI3bWFLS1hxaEo1ZHA5ZXNiYVQ0d2E5cTMzWmZQRkYzVDItTml5cTlwd0lzcG5ZZG5pcW9iTUZHajdLc2JLTjNJRUhNc3c3ZlZCTEowUFVZN1JPYWNRV3lDOGNEOWhWUkY0bFdlcDZQd1FGRy0xa3FYY3BiTUNtUWJoSQ?oc=5"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Binance resumes withdrawals following $6.3 billion breach",
+          "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "美FBI認定朝鮮駭客組織實施幣安加密貨幣盜竊案",
       "summary": [
         "韓聯社：美FBI認定朝鮮駭客組織實施幣安加密貨幣盜竊案",
@@ -243,33 +275,6 @@
           "source": "德國之聲",
           "title": "交易所逾60億美元加密資產遭竊 FBI：朝鮮應對此負責",
           "url": "https://www.dw.com/zh/交易所逾60亿美元加密资产遭窃-fbi：朝鲜应对此负责/a-79821894?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Binance resumes customer withdrawals after record $6.3bn hack",
-      "summary": [
-        "The Guardian：Binance resumes customer withdrawals after record $6.3bn hack",
-        "CNBC：Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
-        "TechCrunch：Binance resumes withdrawals following $6.3 billion breach"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "Binance resumes customer withdrawals after record $6.3bn hack",
-          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
-        },
-        {
-          "source": "CNBC",
-          "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
-          "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Binance resumes withdrawals following $6.3 billion breach",
-          "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
         }
       ]
     },
@@ -317,63 +322,6 @@
     },
     {
       "rank": 5,
-      "title": "Sen. Chris Murphy hospitalized for stroke, his office says",
-      "summary": [
-        "Washington Post：Sen. Chris Murphy hospitalized for stroke, his office says",
-        "CNBC：Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "Sen. Chris Murphy hospitalized for stroke, his office says",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZC1FLW8wYndWZjJyYl9IbTZLY3IxdzZEU1dodVA5eWR2WndWQUg1dnU0WnFlWjdsRUVOR08wNmtCbjhnb0s3Q0VxZFRTTm1jNk4yYjF5X1h6T2g1NzgzaEZwbzk1NUlzd3MyekdiQ2s1ZmlQTDE5VlNtM0N0NXk3X1NBdkdDU1FfbWkyM3ROLWdTUQ?oc=5"
-        },
-        {
-          "source": "CNBC",
-          "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-          "url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Opinion | Why daylight saving time should be eliminated entirely",
-      "summary": [
-        "Washington Post：Opinion | Why daylight saving time should be eliminated entirely",
-        "Bloomberg Markets：The Political Debate on Daylight Saving Time"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "Opinion | Why daylight saving time should be eliminated entirely",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSjJBNl8wNDhpWjFyTk12dVVBN0N5a3F4bThtLTlsRVBZdGd5Z0xJeXJMbk8weU1hVEpDNnNxVzc0dTlWamtCOWRfdnMwU1FzaHUyLWpEUTE3LUZtdEFTVmx1R00tdUNHYkRKUHQwOWVUeXptd0kwd1NXaHgweG5rS290RUxNaVBIY1hfY1hha3pWNXBNYmdSYm1qSWs4Sm1SUDdRQl9vcUFVQXpQRXgw?oc=5"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "The Political Debate on Daylight Saving Time",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-01/the-political-debate-on-daylight-saving-time-video"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "李在明將發表施政演說籲國會透過明年預算案",
-      "summary": [
-        "韓聯社：李在明將發表施政演說籲國會透過明年預算案"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "李在明將發表施政演說籲國會透過明年預算案",
-          "url": "https://cn.yna.co.kr/view/ACK20261101000600881"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "「我不希望它成為我的身份」：BBC專訪Hyrox失禁選手",
       "summary": [
         "BBC中文：「我不希望它成為我的身份」：BBC專訪Hyrox失禁選手"
@@ -388,7 +336,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "調研：歐洲的數字依賴日益嚴重",
       "summary": [
         "德國之聲：調研：歐洲的數字依賴日益嚴重"
@@ -403,7 +351,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "韓國安高官會見瑞士外長卡西斯 聽取其訪朝成果",
       "summary": [
         "韓聯社：韓國安高官會見瑞士外長卡西斯 聽取其訪朝成果"
@@ -414,6 +362,51 @@
           "source": "韓聯社",
           "title": "韓國安高官會見瑞士外長卡西斯 聽取其訪朝成果",
           "url": "https://cn.yna.co.kr/view/ACK20261101000700881"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "大選後，“金磚之父”奧尼爾如何看巴西前景？",
+      "summary": [
+        "FT中文網：大選後，“金磚之父”奧尼爾如何看巴西前景？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "FT中文網",
+          "title": "大選後，“金磚之父”奧尼爾如何看巴西前景？",
+          "url": "https://www.ftchinese.com/story/001111238"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "美國擬為\"影子艦隊\"鬆綁？專家警告莫削弱對俄製裁",
+      "summary": [
+        "德國之聲：美國擬為\"影子艦隊\"鬆綁？專家警告莫削弱對俄製裁"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "美國擬為\"影子艦隊\"鬆綁？專家警告莫削弱對俄製裁",
+          "url": "https://www.dw.com/zh/美国拟为-影子舰队-松绑？专家警告莫削弱对俄制裁/a-79806146?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "牆外文摘：33人被開除黨籍，為什麼問責到不了習近平？",
+      "summary": [
+        "德國之聲：牆外文摘：33人被開除黨籍，為什麼問責到不了習近平？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "牆外文摘：33人被開除黨籍，為什麼問責到不了習近平？",
+          "url": "https://www.dw.com/zh/墙外文摘：33人被开除党籍，为什么问责到不了习近平？/a-79820930?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     }
