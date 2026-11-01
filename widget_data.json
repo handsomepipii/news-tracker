@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-02 01:14",
+  "updated_at": "2026-11-02 02:08",
   "taiwan": [
     {
       "rank": 1,
-      "title": "看「臺北大洋流」感動了！臺大前院長李源德：臺灣要年輕世代",
+      "title": "時尚名人一週間》臺灣第一名模與名媛比美！林志玲仙女禮服PK孫芸芸火辣透視裝",
       "summary": [
-        "ETtoday：看「臺北大洋流」感動了！臺大前院長李源德：臺灣要年輕世代",
         "自由時報：時尚名人一週間》臺灣第一名模與名媛比美！林志玲仙女禮服PK孫芸芸火辣透視裝",
+        "ETtoday：快訊／高雄男墜樓亡！疑是人氣麵店前老闆　保全驚見趴臥中庭",
         "中時新聞：桃園全新大龍門古道品牌登場！7大主題路線與深度地圖公開- 瘋臺灣"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "看「臺北大洋流」感動了！臺大前院長李源德：臺灣要年輕世代",
-          "url": "https://www.ettoday.net/news/20261101/3264338.htm"
-        },
-        {
           "source": "自由時報",
           "title": "時尚名人一週間》臺灣第一名模與名媛比美！林志玲仙女禮服PK孫芸芸火辣透視裝",
           "url": "https://istyle.ltn.com.tw/article/41496"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／高雄男墜樓亡！疑是人氣麵店前老闆　保全驚見趴臥中庭",
+          "url": "https://www.ettoday.net/news/20261101/3264431.htm"
         },
         {
           "source": "中時新聞",
@@ -51,48 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "臺灣藝術家520顆警示燈點亮「原慾」驚豔六本木藝術之夜",
-      "summary": [
-        "自由時報：臺灣藝術家520顆警示燈點亮「原慾」驚豔六本木藝術之夜",
-        "經濟日報：臺灣藝術家前進六本木藝術之夜　520盞警示燈打造吸睛裝置"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "臺灣藝術家520顆警示燈點亮「原慾」驚豔六本木藝術之夜",
-          "url": "https://news.ltn.com.tw/news/art/breakingnews/5625586"
-        },
-        {
-          "source": "經濟日報",
-          "title": "臺灣藝術家前進六本木藝術之夜　520盞警示燈打造吸睛裝置",
-          "url": "https://money.udn.com/money/story/5599/9850080"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "玻利維亞旱災洪患齊發　政府宣佈進入緊急狀態",
-      "summary": [
-        "經濟日報：玻利維亞旱災洪患齊發　政府宣佈進入緊急狀態",
-        "ETtoday：玻利維亞全境緊急狀態！乾旱、洪水齊發　聖嬰現象釀雙重災難"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "玻利維亞旱災洪患齊發　政府宣佈進入緊急狀態",
-          "url": "https://money.udn.com/money/story/5599/9850011"
-        },
-        {
-          "source": "ETtoday",
-          "title": "玻利維亞全境緊急狀態！乾旱、洪水齊發　聖嬰現象釀雙重災難",
-          "url": "https://www.ettoday.net/news/20261101/3264366.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "現場畫面曝光！川普豪宅突部署2套復仇者飛彈 特勤局揭原因",
       "summary": [
         "經濟日報：現場畫面曝光！川普豪宅突部署2套復仇者飛彈 特勤局揭原因",
@@ -113,7 +71,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "獲利強強滾！金融三業前三季暴賺近1.3兆元重新整理史上新高紀錄- 金融",
       "summary": [
         "工商時報：獲利強強滾！金融三業前三季暴賺近1.3兆元重新整理史上新高紀錄- 金融",
@@ -134,7 +92,28 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "title": "南韓首宗GPU融資案登場！Brookfield斥資12.6兆韓元建AI算力，創當地最大聯貸主辦紀錄",
+      "summary": [
+        "鉅亨網：南韓首宗GPU融資案登場！Brookfield斥資12.6兆韓元建AI算力，創當地最大聯貸主辦紀錄",
+        "經濟日報：首樁 GPU 融資額 南韓史上最大聯貸案"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "鉅亨網",
+          "title": "南韓首宗GPU融資案登場！Brookfield斥資12.6兆韓元建AI算力，創當地最大聯貸主辦紀錄",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlTk00X1h6WDJyWVQwOWRUYTgtQTVXc2JYc0tSZ05tTFlTUVlVVDh1WUFqYUxBZ2xYREJDaWU2bWNKOW1iX2hFVVJhRjZKN2s?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "首樁 GPU 融資額 南韓史上最大聯貸案",
+          "url": "https://money.udn.com/money/story/5599/9850778"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "石舫亙社子市場掃街出現持槍男？  警攔查原來是MP3",
       "summary": [
         "自由時報：石舫亙社子市場掃街出現持槍男？  警攔查原來是MP3",
@@ -155,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "48年沒喝水！　96歲巴菲特「驚人養生法」：每天灌5罐可樂",
       "summary": [
         "ETtoday：48年沒喝水！　96歲巴菲特「驚人養生法」：每天灌5罐可樂",
@@ -176,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Meta 與中國傅利葉智慧合作開發人形機器人？網傳 Max 僅 48 公斤、3 個月打造",
       "summary": [
         "INSIDE硬塞：Meta 與中國傅利葉智慧合作開發人形機器人？網傳 Max 僅 48 公斤、3 個月打造",
@@ -197,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "快訊／《霸王別姬》嚴厲戲班「關師傅」證實過世　享嵩壽101歲！",
       "summary": [
         "ETtoday：快訊／《霸王別姬》嚴厲戲班「關師傅」證實過世　享嵩壽101歲！",
@@ -214,6 +193,27 @@
           "source": "自由時報",
           "title": "《霸王別姬》老戲骨驚傳辭世  「關師傅」呂齊享嵩壽101歲",
           "url": "https://ent.ltn.com.tw/news/breakingnews/5625975"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "明後天降雨機率增　北臺灣低溫探21度",
+      "summary": [
+        "ETtoday：明後天降雨機率增　北臺灣低溫探21度",
+        "自由時報：2波東北季風報到 未來一週迎風面轉雨 北臺灣白天降至25度"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "明後天降雨機率增　北臺灣低溫探21度",
+          "url": "https://www.ettoday.net/news/20261101/3264469.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "2波東北季風報到 未來一週迎風面轉雨 北臺灣白天降至25度",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5625919"
         }
       ]
     }
@@ -275,27 +275,6 @@
     },
     {
       "rank": 3,
-      "title": "「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
-      "summary": [
-        "BBC中文：「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
-        "BBC World：'We came back from hell', say Ukrainians after years in Russia-occupied front-line city"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
-          "url": "https://www.bbc.com/zhongwen/articles/cwn8dkzrm8lvo/trad?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-          "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "summary": [
         "BBC World：Crypto firm Binance covers 90% of losses after $6.3bn hack",
@@ -316,7 +295,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Opinion | Why daylight saving time should be eliminated entirely",
       "summary": [
         "Washington Post：Opinion | Why daylight saving time should be eliminated entirely",
@@ -337,7 +316,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "2026年11月2日韓國歷史上的今天",
       "summary": [
         "韓聯社：2026年11月2日韓國歷史上的今天"
@@ -352,37 +331,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "為什麼歐洲各國年輕人走上街頭？背後的共同訴求和暴力隱憂",
-      "summary": [
-        "BBC中文：為什麼歐洲各國年輕人走上街頭？背後的共同訴求和暴力隱憂"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "為什麼歐洲各國年輕人走上街頭？背後的共同訴求和暴力隱憂",
-          "url": "https://www.bbc.com/zhongwen/articles/cv8ez8w9edzxo/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "朝鮮曾預告上月啟動對韓廣播 至今仍無行動",
-      "summary": [
-        "韓聯社：朝鮮曾預告上月啟動對韓廣播 至今仍無行動"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "朝鮮曾預告上月啟動對韓廣播 至今仍無行動",
-          "url": "https://cn.yna.co.kr/view/ACK20261101000500881"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "李在明將發表施政演說籲國會透過明年預算案",
       "summary": [
         "韓聯社：李在明將發表施政演說籲國會透過明年預算案"
@@ -397,7 +346,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "「我不希望它成為我的身份」：BBC專訪Hyrox失禁選手",
       "summary": [
         "BBC中文：「我不希望它成為我的身份」：BBC專訪Hyrox失禁選手"
@@ -408,6 +357,51 @@
           "source": "BBC中文",
           "title": "「我不希望它成為我的身份」：BBC專訪Hyrox失禁選手",
           "url": "https://www.bbc.com/zhongwen/articles/cmy932qe3wx3o/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "調研：歐洲的數字依賴日益嚴重",
+      "summary": [
+        "德國之聲：調研：歐洲的數字依賴日益嚴重"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "調研：歐洲的數字依賴日益嚴重",
+          "url": "https://www.dw.com/zh/调研：欧洲的数字依赖日益严重/a-79806283?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "韓國安高官會見瑞士外長卡西斯 聽取其訪朝成果",
+      "summary": [
+        "韓聯社：韓國安高官會見瑞士外長卡西斯 聽取其訪朝成果"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "韓國安高官會見瑞士外長卡西斯 聽取其訪朝成果",
+          "url": "https://cn.yna.co.kr/view/ACK20261101000700881"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "大選後，“金磚之父”奧尼爾如何看巴西前景？",
+      "summary": [
+        "FT中文網：大選後，“金磚之父”奧尼爾如何看巴西前景？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "FT中文網",
+          "title": "大選後，“金磚之父”奧尼爾如何看巴西前景？",
+          "url": "https://www.ftchinese.com/story/001111238"
         }
       ]
     }
