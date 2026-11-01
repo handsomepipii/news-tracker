@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 00:13",
+  "updated_at": "2026-11-02 01:14",
   "taiwan": [
     {
       "rank": 1,
@@ -248,6 +248,33 @@
     },
     {
       "rank": 2,
+      "title": "Binance resumes customer withdrawals after record $6.3bn hack",
+      "summary": [
+        "The Guardian：Binance resumes customer withdrawals after record $6.3bn hack",
+        "CNBC：Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+        "TechCrunch：Binance resumes withdrawals following $6.3 billion breach"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "Binance resumes customer withdrawals after record $6.3bn hack",
+          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+        },
+        {
+          "source": "CNBC",
+          "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+          "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Binance resumes withdrawals following $6.3 billion breach",
+          "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
       "summary": [
         "BBC中文：「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
@@ -268,7 +295,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "summary": [
         "BBC World：Crypto firm Binance covers 90% of losses after $6.3bn hack",
@@ -289,28 +316,43 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Binance resumes customer withdrawals after record $6.3bn hack",
+      "rank": 5,
+      "title": "Opinion | Why daylight saving time should be eliminated entirely",
       "summary": [
-        "The Guardian：Binance resumes customer withdrawals after record $6.3bn hack",
-        "CNBC：Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered"
+        "Washington Post：Opinion | Why daylight saving time should be eliminated entirely",
+        "Bloomberg Markets：The Political Debate on Daylight Saving Time"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "The Guardian",
-          "title": "Binance resumes customer withdrawals after record $6.3bn hack",
-          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+          "source": "Washington Post",
+          "title": "Opinion | Why daylight saving time should be eliminated entirely",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSjJBNl8wNDhpWjFyTk12dVVBN0N5a3F4bThtLTlsRVBZdGd5Z0xJeXJMbk8weU1hVEpDNnNxVzc0dTlWamtCOWRfdnMwU1FzaHUyLWpEUTE3LUZtdEFTVmx1R00tdUNHYkRKUHQwOWVUeXptd0kwd1NXaHgweG5rS290RUxNaVBIY1hfY1hha3pWNXBNYmdSYm1qSWs4Sm1SUDdRQl9vcUFVQXpQRXgw?oc=5"
         },
         {
-          "source": "CNBC",
-          "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
-          "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
+          "source": "Bloomberg Markets",
+          "title": "The Political Debate on Daylight Saving Time",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-01/the-political-debate-on-daylight-saving-time-video"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "2026年11月2日韓國歷史上的今天",
+      "summary": [
+        "韓聯社：2026年11月2日韓國歷史上的今天"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "2026年11月2日韓國歷史上的今天",
+          "url": "https://cn.yna.co.kr/view/ACK20261019003700881"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "為什麼歐洲各國年輕人走上街頭？背後的共同訴求和暴力隱憂",
       "summary": [
         "BBC中文：為什麼歐洲各國年輕人走上街頭？背後的共同訴求和暴力隱憂"
@@ -325,7 +367,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "朝鮮曾預告上月啟動對韓廣播 至今仍無行動",
       "summary": [
         "韓聯社：朝鮮曾預告上月啟動對韓廣播 至今仍無行動"
@@ -340,7 +382,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "李在明將發表施政演說籲國會透過明年預算案",
       "summary": [
         "韓聯社：李在明將發表施政演說籲國會透過明年預算案"
@@ -355,7 +397,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "「我不希望它成為我的身份」：BBC專訪Hyrox失禁選手",
       "summary": [
         "BBC中文：「我不希望它成為我的身份」：BBC專訪Hyrox失禁選手"
@@ -366,36 +408,6 @@
           "source": "BBC中文",
           "title": "「我不希望它成為我的身份」：BBC專訪Hyrox失禁選手",
           "url": "https://www.bbc.com/zhongwen/articles/cmy932qe3wx3o/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "調研：歐洲的數字依賴日益嚴重",
-      "summary": [
-        "德國之聲：調研：歐洲的數字依賴日益嚴重"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "調研：歐洲的數字依賴日益嚴重",
-          "url": "https://www.dw.com/zh/调研：欧洲的数字依赖日益严重/a-79806283?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "韓國安高官會見瑞士外長卡西斯 聽取其訪朝成果",
-      "summary": [
-        "韓聯社：韓國安高官會見瑞士外長卡西斯 聽取其訪朝成果"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "韓國安高官會見瑞士外長卡西斯 聽取其訪朝成果",
-          "url": "https://cn.yna.co.kr/view/ACK20261101000700881"
         }
       ]
     }
