@@ -386,7 +386,7 @@ def fetch_all_feeds(conn):
                         continue
 
                     # 第一關：剝除尾綴後先檢查是否為空殼標題或無用標題 (如 "- 紐約時報中文網")
-                     stripped_raw = strip_media_suffixes(raw_title, is_google_news=is_gn)
+                    stripped_raw = strip_media_suffixes(raw_title, is_google_news=is_gn)
                     if is_junk_title(raw_title, stripped_raw, source):
                         continue
 
@@ -552,7 +552,7 @@ def batch_summarize_with_gemini(client, conn, clusters):
                 contents=prompt,
                 config={"response_mime_type": "application/json"}
             )
-            text_ cleaned = resp.text.strip()
+            text_cleaned = resp.text.strip()
             text_cleaned = re.sub(r"^```(?:json)?\s*|\s*```$", "", text_cleaned, flags=re.MULTILINE).strip()
             raw_json = json.loads(text_cleaned)
 
