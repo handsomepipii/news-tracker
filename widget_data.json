@@ -1,8 +1,29 @@
 {
-  "updated_at": "2026-11-01 22:20",
+  "updated_at": "2026-11-01 23:15",
   "taiwan": [
     {
       "rank": 1,
+      "title": "林口祖師廟過火出事了！21人腳底燒燙傷送醫",
+      "summary": [
+        "自由時報：林口祖師廟過火出事了！21人腳底燒燙傷送醫",
+        "公視新聞：林口祖師廟過火意外 逾20人腳底燙傷送醫"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "林口祖師廟過火出事了！21人腳底燒燙傷送醫",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5625825"
+        },
+        {
+          "source": "公視新聞",
+          "title": "林口祖師廟過火意外 逾20人腳底燙傷送醫",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sLTVlYmhxMmlGZ3NuSmptUXhVeDhkTVF2TnREWUNENkNYZGxYXzZ0bXFCdlRSbEFpRUoyallTREJpVTZITmU3SlZ6UmlyXzg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "今天改講脫口秀 沈伯洋：昨辯論一直被「問A答B」很沮喪",
       "summary": [
         "自由時報：今天改講脫口秀 沈伯洋：昨辯論一直被「問A答B」很沮喪",
@@ -23,7 +44,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "王金平未開唱被請下臺惹議！賴瑞隆稱訝異　柯志恩：別見縫插針",
       "summary": [
         "ETtoday：王金平未開唱被請下臺惹議！賴瑞隆稱訝異　柯志恩：別見縫插針",
@@ -44,7 +65,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "日本美女主播Cos《藥師少女》貓貓！神還原照片驚豔網：壬氏看呆",
       "summary": [
         "ETtoday：日本美女主播Cos《藥師少女》貓貓！神還原照片驚豔網：壬氏看呆",
@@ -65,7 +86,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "臺灣藝術家520顆警示燈點亮「原慾」驚豔六本木藝術之夜",
       "summary": [
         "自由時報：臺灣藝術家520顆警示燈點亮「原慾」驚豔六本木藝術之夜",
@@ -86,7 +107,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "玻利維亞旱災洪患齊發　政府宣佈進入緊急狀態",
       "summary": [
         "經濟日報：玻利維亞旱災洪患齊發　政府宣佈進入緊急狀態",
@@ -107,7 +128,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "現場畫面曝光！川普豪宅突部署2套復仇者飛彈 特勤局揭原因",
       "summary": [
         "經濟日報：現場畫面曝光！川普豪宅突部署2套復仇者飛彈 特勤局揭原因",
@@ -128,7 +149,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "獲利強強滾！金融三業前三季暴賺近1.3兆元重新整理史上新高紀錄- 金融",
       "summary": [
         "工商時報：獲利強強滾！金融三業前三季暴賺近1.3兆元重新整理史上新高紀錄- 金融",
@@ -149,7 +170,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "石舫亙社子市場掃街出現持槍男？  警攔查原來是MP3",
       "summary": [
         "自由時報：石舫亙社子市場掃街出現持槍男？  警攔查原來是MP3",
@@ -166,27 +187,6 @@
           "source": "ETtoday",
           "title": "石舫亙社子市場掃街　男疑帶器械遭攔查...「手槍型MP3」虛驚",
           "url": "https://www.ettoday.net/news/20261101/3264456.htm"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "林口祖師廟過火出事了！21人腳底燒燙傷送醫",
-      "summary": [
-        "自由時報：林口祖師廟過火出事了！21人腳底燒燙傷送醫",
-        "公視新聞：林口祖師廟過火意外 逾20人腳底燙傷送醫"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "林口祖師廟過火出事了！21人腳底燒燙傷送醫",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5625825"
-        },
-        {
-          "source": "公視新聞",
-          "title": "林口祖師廟過火意外 逾20人腳底燙傷送醫",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sLTVlYmhxMmlGZ3NuSmptUXhVeDhkTVF2TnREWUNENkNYZGxYXzZ0bXFCdlRSbEFpRUoyallTREJpVTZITmU3SlZ6UmlyXzg?oc=5"
         }
       ]
     },
@@ -347,67 +347,61 @@
     },
     {
       "rank": 7,
-      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+      "title": "美國中期選舉：選舉有何影響、為何重要？七個關鍵問題解析",
       "summary": [
-        "Ars Technica：Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
-        "Tom's Hardware：'Ghost Students' using AI to apply for student loans with stolen identities, DOJ's Operation Ghostbusters busts $200 million ring"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Ars Technica",
-          "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
-          "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "'Ghost Students' using AI to apply for student loans with stolen identities, DOJ's Operation Ghostbusters busts $200 million ring",
-          "url": "https://www.tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "中國施壓下姆巴佩道歉，但許多人仍不知道他究竟說了什麼",
-      "summary": [
-        "BBC中文：中國施壓下姆巴佩道歉，但許多人仍不知道他究竟說了什麼"
+        "BBC中文：美國中期選舉：選舉有何影響、為何重要？七個關鍵問題解析"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "BBC中文",
-          "title": "中國施壓下姆巴佩道歉，但許多人仍不知道他究竟說了什麼",
-          "url": "https://www.bbc.com/zhongwen/articles/ck4g18ql0vj9o/trad?at_medium=RSS&at_campaign=rss"
+          "title": "美國中期選舉：選舉有何影響、為何重要？七個關鍵問題解析",
+          "url": "https://www.bbc.com/zhongwen/articles/cmx2qg1nn1wlo/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "特朗普重返白宮後，如何從五方面改變美國移民政策？",
+      "summary": [
+        "BBC中文：特朗普重返白宮後，如何從五方面改變美國移民政策？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "特朗普重返白宮後，如何從五方面改變美國移民政策？",
+          "url": "https://www.bbc.com/zhongwen/articles/cmy83lne67zqo/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "習近平清洗行動繼續：中共宣佈33名高官被開除黨籍- 紐約時報中文網",
+      "title": "特朗普治下，美國經濟的真實表現如何？",
       "summary": [
-        "紐約時報中文：習近平清洗行動繼續：中共宣佈33名高官被開除黨籍- 紐約時報中文網"
+        "BBC中文：特朗普治下，美國經濟的真實表現如何？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "紐約時報中文",
-          "title": "習近平清洗行動繼續：中共宣佈33名高官被開除黨籍- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNlR1dHFhWDhQRVFibjlTc1ROVVBZRHhFcXVwRm5GVk9hQzcyODNYSmJ0LWZETld4enJpalM0ZlRPc0xxQU1lYldsNWlZVk9fOWMta205dk1aMk55Tlc2a2M5SDBmbEF0dUtNWVN1dHVWVlBlVlRsUHBrdWtmZ1pXSg?oc=5"
+          "source": "BBC中文",
+          "title": "特朗普治下，美國經濟的真實表現如何？",
+          "url": "https://www.bbc.com/zhongwen/articles/cqkgke5j6yego/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "朝鮮進行戰術彈道導彈集束彈頭威力評估試驗",
+      "title": "美國中期選舉2026：贏會贏在哪裡，輸會輸在哪裡？",
       "summary": [
-        "韓聯社：朝鮮進行戰術彈道導彈集束彈頭威力評估試驗"
+        "BBC中文：美國中期選舉2026：贏會贏在哪裡，輸會輸在哪裡？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "韓聯社",
-          "title": "朝鮮進行戰術彈道導彈集束彈頭威力評估試驗",
-          "url": "https://cn.yna.co.kr/view/ACK20261101000400881"
+          "source": "BBC中文",
+          "title": "美國中期選舉2026：贏會贏在哪裡，輸會輸在哪裡？",
+          "url": "https://www.bbc.com/zhongwen/articles/c6lyezge4xywo/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
