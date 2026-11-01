@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 19:37",
+  "updated_at": "2026-11-01 20:13",
   "taiwan": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
         "ETtoday：看「臺北大洋流」感動了！臺大前院長李源德：臺灣要年輕世代",
         "自由時報：時尚名人一週間》臺灣第一名模與名媛比美！林志玲仙女禮服PK孫芸芸火辣透視裝"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "TVBS新聞",
@@ -25,6 +25,11 @@
           "source": "自由時報",
           "title": "時尚名人一週間》臺灣第一名模與名媛比美！林志玲仙女禮服PK孫芸芸火辣透視裝",
           "url": "https://istyle.ltn.com.tw/article/41496"
+        },
+        {
+          "source": "中時新聞",
+          "title": "桃園全新大龍門古道品牌登場！7大主題路線與深度地圖公開- 瘋臺灣",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LY0tqcFB0V3hpXzBxYURab2pheTFfUTVKQTNVbktPS1JhY3V4RnNMRGZlNnhoNGU5VC1kcWNES2RjZHZRazk3YVRrV2xSNGxfZGtQOVRsMjRtcEpLcmpiRDM4V3FfZFdURUJqYQ?oc=5"
         }
       ]
     },
@@ -221,33 +226,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "summary": [
-        "BBC World：Crypto firm Binance covers 90% of losses after $6.3bn hack",
-        "The Guardian：Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
-        "Nikkei Asia：Binance says it has covered 90% of losses from $6.3bn hack"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
-          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "Binance says it has covered 90% of losses from $6.3bn hack",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkVpU2RpVnRzWFFnUHhudWdJZGhja1lzOFF6V2VzSFFzaGVqb2pHUWpDLXk4VW5kX2tld21vMGFJelI3XzNyR0xHZjR4djMyNmR6RU5IejlDLUUtWUVZYi1HeTEtV01yQjE2ZHZXeHR0Y0dvT3BXeFc4eWZmcXVNTHNrTUUwZnVmR1lIUHdabElCdDNGWS1aZEZfOGp1ZXBQYXVfZWRJRmpkWjA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
       "summary": [
         "BBC中文：「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
@@ -268,7 +246,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "美FBI認定朝鮮駭客組織實施幣安加密貨幣盜竊案",
       "summary": [
         "韓聯社：美FBI認定朝鮮駭客組織實施幣安加密貨幣盜竊案",
@@ -289,7 +267,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
       "summary": [
         "BBC World：Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
@@ -310,7 +288,49 @@
       ]
     },
     {
+      "rank": 4,
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "summary": [
+        "BBC World：Crypto firm Binance covers 90% of losses after $6.3bn hack",
+        "Nikkei Asia：Binance says it has covered 90% of losses from $6.3bn hack"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "Binance says it has covered 90% of losses from $6.3bn hack",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkVpU2RpVnRzWFFnUHhudWdJZGhja1lzOFF6V2VzSFFzaGVqb2pHUWpDLXk4VW5kX2tld21vMGFJelI3XzNyR0xHZjR4djMyNmR6RU5IejlDLUUtWUVZYi1HeTEtV01yQjE2ZHZXeHR0Y0dvT3BXeFc4eWZmcXVNTHNrTUUwZnVmR1lIUHdabElCdDNGWS1aZEZfOGp1ZXBQYXVfZWRJRmpkWjA?oc=5"
+        }
+      ]
+    },
+    {
       "rank": 5,
+      "title": "Binance resumes customer withdrawals after record $6.3bn hack",
+      "summary": [
+        "The Guardian：Binance resumes customer withdrawals after record $6.3bn hack",
+        "CNBC：Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "Binance resumes customer withdrawals after record $6.3bn hack",
+          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+        },
+        {
+          "source": "CNBC",
+          "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+          "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Germany fails to meet winter gas storage target",
       "summary": [
         "Financial Times：Germany fails to meet winter gas storage target",
@@ -331,7 +351,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "France Approves Proposal for €0.055 Tax per GB of Internet Traffic: RIP Gaming and Streaming",
       "summary": [
         "Yahoo Finance：France Approves Proposal for €0.055 Tax per GB of Internet Traffic: RIP Gaming and Streaming",
@@ -352,7 +372,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
       "summary": [
         "Ars Technica：Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
@@ -369,21 +389,6 @@
           "source": "Tom's Hardware",
           "title": "'Ghost Students' using AI to apply for student loans with stolen identities, DOJ's Operation Ghostbusters busts $200 million ring",
           "url": "https://www.tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅",
-      "summary": [
-        "BBC中文：「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅",
-          "url": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
