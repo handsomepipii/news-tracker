@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 14:59",
+  "updated_at": "2026-11-01 15:58",
   "taiwan": [
     {
       "rank": 1,
@@ -57,48 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "法國數十萬人抗議生活成本　萬聖節變裝上街",
-      "summary": [
-        "自由時報：法國數十萬人抗議生活成本　萬聖節變裝上街",
-        "經濟日報：法國數十萬人抗議生活成本　萬聖節變裝上街"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "法國數十萬人抗議生活成本　萬聖節變裝上街",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5625373"
-        },
-        {
-          "source": "經濟日報",
-          "title": "法國數十萬人抗議生活成本　萬聖節變裝上街",
-          "url": "https://money.udn.com/money/story/5599/9849592"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "臺北市長辯論蔣沈4議題交鋒- 日報",
-      "summary": [
-        "工商時報：臺北市長辯論蔣沈4議題交鋒- 日報",
-        "自由時報：新北市長選戰11月辯論 李四川：會好好準備、說明方向願景"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "臺北市長辯論蔣沈4議題交鋒- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoaUwxdGZlbGxfNmV6RTVxNG1zZWJIaGRrb3VjYUktNGlHOU1lS1R4OUF2eWU3NHdhaGVKQkQtV2ljVDhsTnN5QWVoZzBqajZpUGhDd2tSVVRoTE9HbVlz?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "新北市長選戰11月辯論 李四川：會好好準備、說明方向願景",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5625639"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "淡蘭百年山徑邁入十週年　北北基宜攜手推動山海文化傳承",
       "summary": [
         "ETtoday：淡蘭百年山徑邁入十週年　北北基宜攜手推動山海文化傳承",
@@ -119,7 +77,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "中國2海警船闖東部海域誆稱執法 海巡艦全程緊盯破除認知作戰",
       "summary": [
         "自由時報：中國2海警船闖東部海域誆稱執法 海巡艦全程緊盯破除認知作戰",
@@ -140,7 +98,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "大洋流車掃 小水滴激喊：臺北勇者沈伯洋",
       "summary": [
         "自由時報：大洋流車掃 小水滴激喊：臺北勇者沈伯洋",
@@ -161,7 +119,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "加密貨幣史上最大竊案！幣安被轉走2千億資金矛頭指向北韓駭客- 新聞",
       "summary": [
         "MoneyDJ理財網：加密貨幣史上最大竊案！幣安被轉走2千億資金矛頭指向北韓駭客- 新聞",
@@ -182,7 +140,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "加州萬聖節商店爆槍擊1孕婦身亡！　6人輕重傷",
       "summary": [
         "ETtoday：加州萬聖節商店爆槍擊1孕婦身亡！　6人輕重傷",
@@ -203,7 +161,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "金居：COTECH DEVELOPMEN (PENANG)取得土地使用權資產，計約7770萬馬幣",
       "summary": [
         "公開資訊觀測站重訊：金居：COTECH DEVELOPMEN (PENANG)取得土地使用權資產，計約7770萬馬幣",
@@ -222,44 +180,220 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWtNZzhfLXlUZW15Rzl6RVlPU2xkajY0dUpOTjVuR2QtajBwdlV1enZrTEVXZ1kzVDhTdWNETld6ZVB0b3gzYU94UGxYbHM2NDl0ZC1zLXE1Q056Q1g0ajdvSWtlWEN5ZHVBQ21PREZMNkdxcUc1cm9FMjB4cjNTeHBiYjFOSjZHZ1Z1YkROUTc5QQ?oc=5"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "德國34城市Z世代抗議變騷亂  法蘭克福商店遭蒙面暴徒洗劫",
+      "summary": [
+        "自由時報：德國34城市Z世代抗議變騷亂  法蘭克福商店遭蒙面暴徒洗劫",
+        "TVBS新聞：德國Z世代34城示威 抗議變調洗劫金融中心｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "德國34城市Z世代抗議變騷亂  法蘭克福商店遭蒙面暴徒洗劫",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5625411"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "德國Z世代34城示威 抗議變調洗劫金融中心｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9abnhSTi1VazVGUlFCYmFXbEJELVhNSkJRQVhkMHRzR3FET1BmQUZ1b091ZWhqOWx2cFU2MVRiZ2VtcGQ1MWtoN21QeWJuZXlwUDlHaExn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "返家被未熄火轎車擋路 林美貞罕動怒報警",
+      "summary": [
+        "自由時報：返家被未熄火轎車擋路 林美貞罕動怒報警",
+        "ETtoday：林美貞罕見動怒！返家遭「未熄火轎車」擋道　吹風苦等45分氣報警"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "返家被未熄火轎車擋路 林美貞罕動怒報警",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5625386"
+        },
+        {
+          "source": "ETtoday",
+          "title": "林美貞罕見動怒！返家遭「未熄火轎車」擋道　吹風苦等45分氣報警",
+          "url": "https://star.ettoday.net/news/3264196"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "summary": [
-        "BBC World：'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
-        "BBC中文：「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說"
+        "BBC World：Crypto firm Binance covers 90% of losses after $6.3bn hack",
+        "The Guardian：Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+        "CNBC：Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday"
       ],
-      "media_count": 2,
+      "media_count": 4,
       "links": [
         {
           "source": "BBC World",
-          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
-          "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "BBC中文",
-          "title": "「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
-          "url": "https://www.bbc.com/zhongwen/articles/cwn8dkzrm8lvo/trad?at_medium=RSS&at_campaign=rss"
+          "source": "The Guardian",
+          "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+        },
+        {
+          "source": "CNBC",
+          "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+          "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "Binance says it has covered 90% of losses from $6.3bn hack",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkVpU2RpVnRzWFFnUHhudWdJZGhja1lzOFF6V2VzSFFzaGVqb2pHUWpDLXk4VW5kX2tld21vMGFJelI3XzNyR0xHZjR4djMyNmR6RU5IejlDLUUtWUVZYi1HeTEtV01yQjE2ZHZXeHR0Y0dvT3BXeFc4eWZmcXVNTHNrTUUwZnVmR1lIUHdabElCdDNGWS1aZEZfOGp1ZXBQYXVfZWRJRmpkWjA?oc=5"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "フランスで再び大規模デモ 32萬人參加 一部で治安部隊と衝突も",
+      "title": "「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
       "summary": [
-        "NHK新聞：フランスで再び大規模デモ 32萬人參加 一部で治安部隊と衝突も",
-        "法廣RFI：法國32萬人參與第三輪示威，抗議期間發生了衝突"
+        "BBC中文：「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
+        "BBC World：'We came back from hell', say Ukrainians after years in Russia-occupied front-line city"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
+          "url": "https://www.bbc.com/zhongwen/articles/cwn8dkzrm8lvo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+          "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "暗號資産大手バイナンスへのサイバー攻撃 FBI“北朝鮮が関與”",
+      "summary": [
+        "NHK新聞：暗號資産大手バイナンスへのサイバー攻撃 FBI“北朝鮮が関與”",
+        "韓聯社：美FBI認定朝鮮駭客組織實施幣安加密貨幣盜竊案"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "フランスで再び大規模デモ 32萬人參加 一部で治安部隊と衝突も",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261101de69060"
+          "title": "暗號資産大手バイナンスへのサイバー攻撃 FBI“北朝鮮が関與”",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261101de69102"
         },
+        {
+          "source": "韓聯社",
+          "title": "美FBI認定朝鮮駭客組織實施幣安加密貨幣盜竊案",
+          "url": "https://cn.yna.co.kr/view/ACK20261101000800881"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "France Approves Proposal for €0.055 Tax per GB of Internet Traffic: RIP Gaming and Streaming",
+      "summary": [
+        "Yahoo Finance：France Approves Proposal for €0.055 Tax per GB of Internet Traffic: RIP Gaming and Streaming",
+        "Tom's Hardware：French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "France Approves Proposal for €0.055 Tax per GB of Internet Traffic: RIP Gaming and Streaming",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZDM2SVBpZlJaTUNBaldQQUNGYVZhRnZ0TjhuSENLWVZnQUhqS25vZ2NqZ1V0b2EwUHFJYUh1U21XWUNTRkVLakZaaWlXdllJVG1LclNrdnZwOEFuY05kNkJJOENtUkVmTmVxMzR3T3FfLUxxWEZtcGNBQUxNQUVxYVVwQ3BwNWdEbF91WHZuUThNQlBMcmxYWEVrRQ?oc=5"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed",
+          "url": "https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+      "summary": [
+        "Ars Technica：Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+        "Tom's Hardware：'Ghost Students' using AI to apply for student loans with stolen identities, DOJ's Operation Ghostbusters busts $200 million ring"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Ars Technica",
+          "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+          "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "'Ghost Students' using AI to apply for student loans with stolen identities, DOJ's Operation Ghostbusters busts $200 million ring",
+          "url": "https://www.tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "德語媒體：“普特習”聯盟並不可怕",
+      "summary": [
+        "德國之聲：德語媒體：“普特習”聯盟並不可怕"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "德語媒體：“普特習”聯盟並不可怕",
+          "url": "https://www.dw.com/zh/德语媒体：-普特习-联盟并不可怕/a-79799002?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "四方安全對話外長聯合宣告　未點名劍指中國經濟政策",
+      "summary": [
+        "法廣RFI：四方安全對話外長聯合宣告　未點名劍指中國經濟政策"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "四方安全對話外長聯合宣告　未點名劍指中國經濟政策",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261031-%E5%9B%9B%E6%96%B9%E5%AE%89%E5%85%A8%E5%B0%8D%E8%A9%B1%E5%A4%96%E9%95%B7%E8%81%AF%E5%90%88%E8%81%B2%E6%98%8E-%E6%9C%AA%E9%BB%9E%E5%90%8D%E5%8A%8D%E6%8C%87%E4%B8%AD%E5%9C%8B%E7%B6%93%E6%BF%9F%E6%94%BF%E7%AD%96"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "德國青年抗議活動    多個城市出現騷亂",
+      "summary": [
+        "法廣RFI：德國青年抗議活動    多個城市出現騷亂"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "德國青年抗議活動    多個城市出現騷亂",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261031-%E5%BE%B7%E5%9C%8B%E9%9D%92%E5%B9%B4%E6%8A%97%E8%AD%B0%E6%B4%BB%E5%8B%95-%E5%A4%9A%E5%80%8B%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8F%BE%E9%A8%B7%E4%BA%82"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "法國32萬人參與第三輪示威，抗議期間發生了衝突",
+      "summary": [
+        "法廣RFI：法國32萬人參與第三輪示威，抗議期間發生了衝突"
+      ],
+      "media_count": 1,
+      "links": [
         {
           "source": "法廣RFI",
           "title": "法國32萬人參與第三輪示威，抗議期間發生了衝突",
@@ -268,134 +402,17 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
-      "summary": [
-        "Bloomberg Tech：FBI Blames North Korea for $6 Billion Binance Crypto Hack",
-        "NHK新聞：暗號資産大手バイナンスへのサイバー攻撃 FBI“北朝鮮が関與”"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "暗號資産大手バイナンスへのサイバー攻撃 FBI“北朝鮮が関與”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261101de69102"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Binance says it has covered 90% of losses from $6.3bn hack",
-      "summary": [
-        "Nikkei Asia：Binance says it has covered 90% of losses from $6.3bn hack",
-        "The Guardian：Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "Binance says it has covered 90% of losses from $6.3bn hack",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkVpU2RpVnRzWFFnUHhudWdJZGhja1lzOFF6V2VzSFFzaGVqb2pHUWpDLXk4VW5kX2tld21vMGFJelI3XzNyR0xHZjR4djMyNmR6RU5IejlDLUUtWUVZYi1HeTEtV01yQjE2ZHZXeHR0Y0dvT3BXeFc4eWZmcXVNTHNrTUUwZnVmR1lIUHdabElCdDNGWS1aZEZfOGp1ZXBQYXVfZWRJRmpkWjA?oc=5"
-        },
-        {
-          "source": "The Guardian",
-          "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
-          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Kennedy Center leaders threatened payroll to push Trump naming, lawmaker alleges",
-      "summary": [
-        "Washington Post：Kennedy Center leaders threatened payroll to push Trump naming, lawmaker alleges"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "Kennedy Center leaders threatened payroll to push Trump naming, lawmaker alleges",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRHRtMnd2MGlYTDMwTnZsdUhYTmsyOGlHR1lPTGZrQm82dUNkOFhvY1JMN3NsZjdTYWZvRmRKSTFFOGxwNFo0Q1FPaDd5NEFsWmVxMktNTVlya09HMHdFQWdUcUZTNndENXFhazd5TGZtSVpwVFdhYkxNbEZpdVF0WGV3U1NPbGdER09mNzFEck1ubkZodkwtdzJlQnBZM0hHb0V3UWpydHhoelh4M2FDY1A5SnViWU8wMzlYQW5tQkcySWM?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Column | Husband’s ex won’t let my teen stepdaughter see me while he’s away",
-      "summary": [
-        "Washington Post：Column | Husband’s ex won’t let my teen stepdaughter see me while he’s away"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "Column | Husband’s ex won’t let my teen stepdaughter see me while he’s away",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQXB6b21VczAySDdfRUxaV1Z3YVZYeUszV0NrZUZlb0RhUTg5MG1HQV82dkpCdUp1elllWklpaTRkS1c0Qm9FbmhjLU1ncjlMeEdWc3ZxWUxuTzhaSUxYVmlOdnhNQXhrNHpzOGRlMl9WWV9IbFkyblF0UFRsYWlZanpGaTVxeHc3VjI2WU1ULVBzenEwTFBUZlRsN294eUNZWUR4M1hQT2hRMlhGUnFnd1lHRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-      "summary": [
-        "CNBC：SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-          "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
-      "summary": [
-        "MarketWatch：‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "MarketWatch",
-          "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
-          "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Cracks are emerging in the AI spending boom",
-      "summary": [
-        "Yahoo Finance：Cracks are emerging in the AI spending boom"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Cracks are emerging in the AI spending boom",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaTN4RDlFMk4taFlSNEdBcHJnXy02cXl3UDliQ01pT3pZQjA5UDI4Z1lxN2FubzMtRXlRV1FNNGhxbEVGaTZXQ1cwNFUyLTVPZkxvSmNLTkxaTlktMnFjSmVoYW1mTS1laEkyRW1leHpCVmtua0phNXBNT2JEcHBhZXdKbXlmM0FkcVZZWTZJcE5rMkZYdnhVa1pmREM?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Why the sell-off in French bonds is a warning for global governments",
+      "title": "美國國務卿盧比奧與俄羅斯外長拉夫羅夫討論了特朗普和普京下個月進行互動的可能",
       "summary": [
-        "Investing.com：Why the sell-off in French bonds is a warning for global governments"
+        "法廣RFI：美國國務卿盧比奧與俄羅斯外長拉夫羅夫討論了特朗普和普京下個月進行互動的可能"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "Why the sell-off in French bonds is a warning for global governments",
-          "url": "https://www.investing.com/news/stock-market-news/why-the-selloff-in-french-bonds-is-a-warning-for-global-governments-4989316"
+          "source": "法廣RFI",
+          "title": "美國國務卿盧比奧與俄羅斯外長拉夫羅夫討論了特朗普和普京下個月進行互動的可能",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261031-%E7%BE%8E%E5%9C%8B%E5%9C%8B%E5%8B%99%E5%8D%BF%E7%9B%A7%E6%AF%94%E5%A5%A7%E8%88%87%E4%BF%84%E7%BE%85%E6%96%AF%E5%A4%96%E9%95%B7%E6%8B%89%E5%A4%AB%E7%BE%85%E5%A4%AB%E8%A8%8E%E8%AB%96%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E6%99%AE%E4%BA%AC%E4%B8%8B%E5%80%8B%E6%9C%88%E9%80%B2%E8%A1%8C%E4%BA%92%E5%8B%95%E7%9A%84%E5%8F%AF%E8%83%BD"
         }
       ]
     }
