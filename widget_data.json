@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 11:01",
+  "updated_at": "2026-11-01 11:56",
   "taiwan": [
     {
       "rank": 1,
@@ -259,27 +259,6 @@
     },
     {
       "rank": 2,
-      "title": "Binance says 90% of stolen assets replenished",
-      "summary": [
-        "Investing.com：Binance says 90% of stolen assets replenished",
-        "The Verge：Binance CEO says 90 percent of stolen assets have been ‘replenished’"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Binance says 90% of stolen assets replenished",
-          "url": "https://www.investing.com/news/stock-market-news/binance-says-90-of-stolen-assets-replenished-4989287"
-        },
-        {
-          "source": "The Verge",
-          "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-          "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "波蘭憲法法院上演“宮鬥”?警方包圍法院大樓",
       "summary": [
         "德國之聲：波蘭憲法法院上演“宮鬥”?警方包圍法院大樓",
@@ -300,7 +279,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed",
       "summary": [
         "Tom's Hardware：French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed",
@@ -321,7 +300,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "フランスで再び大規模デモ 32萬人參加 一部で治安部隊と衝突も",
       "summary": [
         "NHK新聞：フランスで再び大規模デモ 32萬人參加 一部で治安部隊と衝突も",
@@ -342,7 +321,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
       "summary": [
         "Bloomberg Tech：FBI Blames North Korea for $6 Billion Binance Crypto Hack",
@@ -363,7 +342,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
       "summary": [
         "Yahoo Finance：Apple Overtakes Nvidia to Become World’s Most Valuable Company"
@@ -378,7 +357,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Meta builds humanoid robot with Chinese startup Fourier, The Information says",
       "summary": [
         "Investing.com：Meta builds humanoid robot with Chinese startup Fourier, The Information says"
@@ -393,32 +372,47 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "中共五中全會閉幕：出席委員較本屆初減少四分之一 張升民罕見增選入政治局",
+      "rank": 8,
+      "title": "俄非峰會閉幕　普京稱俄非為\"天然盟友\"",
       "summary": [
-        "BBC中文：中共五中全會閉幕：出席委員較本屆初減少四分之一 張升民罕見增選入政治局"
+        "德國之聲：俄非峰會閉幕　普京稱俄非為\"天然盟友\""
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "BBC中文",
-          "title": "中共五中全會閉幕：出席委員較本屆初減少四分之一 張升民罕見增選入政治局",
-          "url": "https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad?at_medium=RSS&at_campaign=rss"
+          "source": "德國之聲",
+          "title": "俄非峰會閉幕　普京稱俄非為\"天然盟友\"",
+          "url": "https://www.dw.com/zh/俄非峰会闭幕　普京称俄非为-天然盟友/a-79798490?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "默茨韓國之行：“我們深知生活在一個分裂的國家是多麼痛苦”",
+      "summary": [
+        "德國之聲：默茨韓國之行：“我們深知生活在一個分裂的國家是多麼痛苦”"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "默茨韓國之行：“我們深知生活在一個分裂的國家是多麼痛苦”",
+          "url": "https://www.dw.com/zh/默茨韩国之行：-我们深知生活在一个分裂的国家是多么痛苦/a-79798077?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "中國10月製造業再跌到榮枯線下 四個月來第三次出現萎縮",
+      "title": "Trump administration imposes new sanctions on Rwanda over war in Congo",
       "summary": [
-        "法廣RFI：中國10月製造業再跌到榮枯線下 四個月來第三次出現萎縮"
+        "Washington Post：Trump administration imposes new sanctions on Rwanda over war in Congo"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "中國10月製造業再跌到榮枯線下 四個月來第三次出現萎縮",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261031-%E4%B8%AD%E5%9C%8B10%E6%9C%88%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%86%8D%E8%B7%8C%E5%88%B0%E6%A6%AE%E6%9E%AF%E7%B7%9A%E4%B8%8B-%E5%9B%9B%E5%80%8B%E6%9C%88%E4%BE%86%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%87%BA%E7%8F%BE%E8%90%8E%E7%B8%AE"
+          "source": "Washington Post",
+          "title": "Trump administration imposes new sanctions on Rwanda over war in Congo",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1NYMDZseDEzaUFfR19oZjNYdzdIVXJxODhDWV8weHlFeFkxaW5rWmtkQm1BQUhuODkwWlJLb0RhbzhhemFtU244S2t6T2l6TG9YVjJWNjJpeDVPMFB3Qjljci11UVRPVmdlT3ZjMjRpTXBEWks3MWRDWXRkOUZFcEk4NG1OYkJGYWVsWWtoT1daZDZQanNTY2lrc2hwNjNHWGJCMnFOcnFvRTdocWxSX3RVYw?oc=5"
         }
       ]
     }
