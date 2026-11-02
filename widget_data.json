@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-02 09:49",
+  "updated_at": "2026-11-02 10:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "川普若輸期中選舉　路透：白宮規劃不靠國會施政路徑",
-      "summary": [
-        "經濟日報：川普若輸期中選舉　路透：白宮規劃不靠國會施政路徑",
-        "自由時報：川普若輸期中選舉 路透：白宮規劃不靠國會施政路徑",
-        "ETtoday：川普若期中選舉輸掉國會　白宮傳已擬定不須國會同意的施政路徑"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普若輸期中選舉　路透：白宮規劃不靠國會施政路徑",
-          "url": "https://money.udn.com/money/story/10511/9850618"
-        },
-        {
-          "source": "自由時報",
-          "title": "川普若輸期中選舉 路透：白宮規劃不靠國會施政路徑",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5626081"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普若期中選舉輸掉國會　白宮傳已擬定不須國會同意的施政路徑",
-          "url": "https://www.ettoday.net/news/20261102/3264582.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "明華園《李靖斬龍》屏東登場 孫翠鳳領軍吸爆滿人潮",
       "summary": [
         "自由時報：明華園《李靖斬龍》屏東登場 孫翠鳳領軍吸爆滿人潮",
@@ -50,70 +23,28 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "舉重世錦賽》郭婞淳挺舉差1公斤無緣頒獎臺 但6次試舉全過關",
+      "rank": 2,
+      "title": "川普若輸期中選舉 路透：白宮規劃不靠國會施政路徑",
       "summary": [
-        "自由時報：舉重世錦賽》郭婞淳挺舉差1公斤無緣頒獎臺 但6次試舉全過關",
-        "ETtoday：可惜！6次試舉全過關　郭婞淳差1公斤世錦賽無緣獎牌"
+        "自由時報：川普若輸期中選舉 路透：白宮規劃不靠國會施政路徑",
+        "ETtoday：川普若期中選舉輸掉國會　白宮傳已擬定不須國會同意的施政路徑"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "舉重世錦賽》郭婞淳挺舉差1公斤無緣頒獎臺 但6次試舉全過關",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5626065"
+          "title": "川普若輸期中選舉 路透：白宮規劃不靠國會施政路徑",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5626081"
         },
         {
           "source": "ETtoday",
-          "title": "可惜！6次試舉全過關　郭婞淳差1公斤世錦賽無緣獎牌",
-          "url": "https://sports.ettoday.net/news/3264541"
+          "title": "川普若期中選舉輸掉國會　白宮傳已擬定不須國會同意的施政路徑",
+          "url": "https://www.ettoday.net/news/20261102/3264582.htm"
         }
       ]
     },
     {
-      "rank": 4,
-      "title": "美期中選舉民主黨若勝　川普關稅政策恐仍難推翻",
-      "summary": [
-        "經濟日報：美期中選舉民主黨若勝　川普關稅政策恐仍難推翻",
-        "自由時報：美期中選舉民主黨若勝 川普關稅政策恐仍難推翻"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美期中選舉民主黨若勝　川普關稅政策恐仍難推翻",
-          "url": "https://money.udn.com/money/story/5599/9850633"
-        },
-        {
-          "source": "自由時報",
-          "title": "美期中選舉民主黨若勝 川普關稅政策恐仍難推翻",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5626089"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "日本GMO遭駭或與北韓有關　攻擊者疑刻意混入海外痕跡",
-      "summary": [
-        "經濟日報：日本GMO遭駭或與北韓有關　攻擊者疑刻意混入海外痕跡",
-        "科技新報：日本 GMO 遭駭或與北韓有關，攻擊者疑刻意混入海外痕跡"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "日本GMO遭駭或與北韓有關　攻擊者疑刻意混入海外痕跡",
-          "url": "https://money.udn.com/money/story/5599/9850606"
-        },
-        {
-          "source": "科技新報",
-          "title": "日本 GMO 遭駭或與北韓有關，攻擊者疑刻意混入海外痕跡",
-          "url": "https://infosecu.technews.tw/2026/11/02/north-korea-hackers-behind-japans-massive-gmo-data-leak/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "title": "川普預告民主黨若奪國會多數將成「否決先生」！揚言否決法案逼朝野協商",
       "summary": [
         "鉅亨網：川普預告民主黨若奪國會多數將成「否決先生」！揚言否決法案逼朝野協商",
@@ -134,7 +65,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "保加利亞總統決選出口民調：代理總統約託娃勝出",
       "summary": [
         "自由時報：保加利亞總統決選出口民調：代理總統約託娃勝出",
@@ -155,7 +86,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "阿拉斯加州參議員選戰撞名風波　川普政府提起訴訟遭駁回",
       "summary": [
         "自由時報：阿拉斯加州參議員選戰撞名風波　川普政府提起訴訟遭駁回",
@@ -176,7 +107,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "北臺灣今降溫！迎風面越晚雨越大 本週2波東北季風報到",
       "summary": [
         "自由時報：北臺灣今降溫！迎風面越晚雨越大 本週2波東北季風報到",
@@ -197,7 +128,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "佛州噴射客機俯衝墜毀爆出大火球  驚駭瞬間影片曝光",
       "summary": [
         "自由時報：佛州噴射客機俯衝墜毀爆出大火球  驚駭瞬間影片曝光",
@@ -214,6 +145,69 @@
           "source": "ETtoday",
           "title": "快訊／美佛州私人飛機墜毀！燃巨大火球「全數罹難」　急墜8230公尺",
           "url": "https://www.ettoday.net/news/20261102/3264603.htm"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "讓 AI 代理拿假金鑰辦事，機密管理新創 Infisical 完成 4 千萬美元 B 輪募資",
+      "summary": [
+        "科技新報：讓 AI 代理拿假金鑰辦事，機密管理新創 Infisical 完成 4 千萬美元 B 輪募資",
+        "iThome：Infisical募資4,000萬美元，擴充套件AI代理憑證保護與存取管理"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "讓 AI 代理拿假金鑰辦事，機密管理新創 Infisical 完成 4 千萬美元 B 輪募資",
+          "url": "https://finance.technews.tw/2026/11/02/this-600-million-startup-is-helping-keep-company-secrets-away-from-ai-agents/"
+        },
+        {
+          "source": "iThome",
+          "title": "Infisical募資4,000萬美元，擴充套件AI代理憑證保護與存取管理",
+          "url": "https://www.ithome.com.tw/news/180098"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "AI回報疑慮衝擊 OpenAI融資目標大縮水百億美元-新聞內容-基金",
+      "summary": [
+        "MoneyDJ理財網：AI回報疑慮衝擊 OpenAI融資目標大縮水百億美元-新聞內容-基金",
+        "科技新報：AI 回報疑慮衝擊  OpenAI 融資目標大縮水百億美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "AI回報疑慮衝擊 OpenAI融資目標大縮水百億美元-新聞內容-基金",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRWFWOW1fRlR5R21HemVzM3M2WXpKMnFrTHdQb3pwNm03UVNzcW54NHA3NlNpbUFVNjFHNTVvbTR2WnJHTWRSdUx1eUQ3R2pNWjJNbnR3Nkt0ekNkYkxFM1JJS05uNng0cnNMek9EQ3BuMFJnMG8xUk5GNjhlcjVNWUVWMGhoNEtPYWFFWFdzWHo?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "AI 回報疑慮衝擊  OpenAI 融資目標大縮水百億美元",
+          "url": "https://finance.technews.tw/2026/11/02/openai-slashes-funding-target-by-10bn-as-tech-anxieties-mount/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "傳美以領袖討論伊朗局勢 納坦雅胡促川普大選後立即動武",
+      "summary": [
+        "自由時報：傳美以領袖討論伊朗局勢 納坦雅胡促川普大選後立即動武",
+        "經濟日報：美以領導人通話討論伊朗戰事　以方促期中選舉後立即攻擊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "傳美以領袖討論伊朗局勢 納坦雅胡促川普大選後立即動武",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5626208"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美以領導人通話討論伊朗戰事　以方促期中選舉後立即攻擊",
+          "url": "https://money.udn.com/money/story/5599/9851135"
         }
       ]
     }
@@ -311,6 +305,21 @@
     },
     {
       "rank": 5,
+      "title": "詳訊：李在明施政演說強調實現平衡發展造福全民",
+      "summary": [
+        "韓聯社：詳訊：李在明施政演說強調實現平衡發展造福全民"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "詳訊：李在明施政演說強調實現平衡發展造福全民",
+          "url": "https://cn.yna.co.kr/view/ACK20261102001800881"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
       "summary": [
         "Financial Times：Gulf braced for escalation of war between US-Israel alliance and Iran"
@@ -325,52 +334,22 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "交易所逾60億美元加密資產遭竊 FBI：朝鮮應對此負責",
-      "summary": [
-        "德國之聲：交易所逾60億美元加密資產遭竊 FBI：朝鮮應對此負責"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "交易所逾60億美元加密資產遭竊 FBI：朝鮮應對此負責",
-          "url": "https://www.dw.com/zh/交易所逾60亿美元加密资产遭窃-fbi：朝鲜应对此负责/a-79821894?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
       "rank": 7,
-      "title": "德國青年示威夜間變調：多地爆發暴力騷亂",
+      "title": "Why is Agricultural Bank of China stock climbing today?",
       "summary": [
-        "德國之聲：德國青年示威夜間變調：多地爆發暴力騷亂"
+        "Investing.com：Why is Agricultural Bank of China stock climbing today?"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "德國青年示威夜間變調：多地爆發暴力騷亂",
-          "url": "https://www.dw.com/zh/德国青年示威夜间变调：多地爆发暴力骚乱/a-79821506?maca=chi-rss-chi-all-1127-rdf"
+          "source": "Investing.com",
+          "title": "Why is Agricultural Bank of China stock climbing today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-agricultural-bank-of-china-stock-climbing-today-93CH-4989811"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "歐盟繼對小包裹徵稅後 今起加徵2歐元處理費",
-      "summary": [
-        "法廣RFI：歐盟繼對小包裹徵稅後 今起加徵2歐元處理費"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "歐盟繼對小包裹徵稅後 今起加徵2歐元處理費",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261101-%E6%AD%90%E7%9B%9F%E7%B9%BC%E5%B0%8D%E5%B0%8F%E5%8C%85%E8%A3%B9%E5%BE%B5%E7%A8%85%E5%BE%8C-%E4%BB%8A%E8%B5%B7%E5%8A%A0%E5%BE%812%E6%AD%90%E5%85%83%E8%99%95%E7%90%86%E8%B2%BB"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變官場？",
       "summary": [
         "BBC中文：中共五中全會「空椅子」背後：常態化高壓反腐如何改變官場？"
@@ -385,7 +364,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "德國總統施泰因邁爾：聽聞“三方峰會” 習近平面露困惑",
       "summary": [
         "德國之聲：德國總統施泰因邁爾：聽聞“三方峰會” 習近平面露困惑"
@@ -396,6 +375,21 @@
           "source": "德國之聲",
           "title": "德國總統施泰因邁爾：聽聞“三方峰會” 習近平面露困惑",
           "url": "https://www.dw.com/zh/德国总统施泰因迈尔：听闻-三方峰会-习近平面露困惑/a-79822988?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國駐俄使館因恐襲線索釋出預警",
+      "summary": [
+        "德國之聲：美國駐俄使館因恐襲線索釋出預警"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "美國駐俄使館因恐襲線索釋出預警",
+          "url": "https://www.dw.com/zh/美国驻俄使馆因恐袭线索发布预警/a-79823025?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     }
