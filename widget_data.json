@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 15:21",
+  "updated_at": "2026-11-02 16:49",
   "taiwan": [
     {
       "rank": 1,
@@ -24,6 +24,27 @@
     },
     {
       "rank": 2,
+      "title": "臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
+      "summary": [
+        "iThome：臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
+        "公開資訊觀測站重訊：臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
+          "url": "https://www.ithome.com.tw/news/180137"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DQVNIVnQ2ajhnYUVfZWpvN1pHazdYeXhhSE9Ici1JVzUxd2RUTXNpWGNHdm5QN3F1V1A3VXlGZUtxUzRwWU9PTVA5X2JMZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "保加利亞總統決選出口民調：代理總統約託娃勝出",
       "summary": [
         "自由時報：保加利亞總統決選出口民調：代理總統約託娃勝出",
@@ -44,7 +65,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "阿拉斯加州參議員選戰撞名風波　川普政府提起訴訟遭駁回",
       "summary": [
         "自由時報：阿拉斯加州參議員選戰撞名風波　川普政府提起訴訟遭駁回",
@@ -65,7 +86,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "北臺灣今降溫！迎風面越晚雨越大 本週2波東北季風報到",
       "summary": [
         "自由時報：北臺灣今降溫！迎風面越晚雨越大 本週2波東北季風報到",
@@ -86,7 +107,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "佛州噴射客機俯衝墜毀爆出大火球  驚駭瞬間影片曝光",
       "summary": [
         "自由時報：佛州噴射客機俯衝墜毀爆出大火球  驚駭瞬間影片曝光",
@@ -107,7 +128,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "讓 AI 代理拿假金鑰辦事，機密管理新創 Infisical 完成 4 千萬美元 B 輪募資",
       "summary": [
         "科技新報：讓 AI 代理拿假金鑰辦事，機密管理新創 Infisical 完成 4 千萬美元 B 輪募資",
@@ -128,7 +149,28 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "罕見坦承恐敗選？川普：若民主黨贏國會 我就必須當「否決先生」",
+      "summary": [
+        "經濟日報：罕見坦承恐敗選？川普：若民主黨贏國會 我就必須當「否決先生」",
+        "關鍵評論網：民主黨有望贏得國會多數，白宮研擬繞過國會，川普：我會成為否決先生！"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "罕見坦承恐敗選？川普：若民主黨贏國會 我就必須當「否決先生」",
+          "url": "https://money.udn.com/money/story/5599/9851011"
+        },
+        {
+          "source": "關鍵評論網",
+          "title": "民主黨有望贏得國會多數，白宮研擬繞過國會，川普：我會成為否決先生！",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zYXh6cjFrMDl1eEktT2JPcThOeEVYNFB0T3JUa2JTOE5lZHNwMEpXcjlpUmlJTVpEQlVma3lsVzJwRkxESDNjcnJZT1NpOTlqYVEwRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "AI回報疑慮衝擊 OpenAI融資目標大縮水百億美元-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：AI回報疑慮衝擊 OpenAI融資目標大縮水百億美元-新聞內容-基金",
@@ -149,7 +191,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "傳美以領袖討論伊朗局勢 納坦雅胡促川普大選後立即動武",
       "summary": [
         "自由時報：傳美以領袖討論伊朗局勢 納坦雅胡促川普大選後立即動武",
@@ -168,80 +210,11 @@
           "url": "https://money.udn.com/money/story/5599/9851135"
         }
       ]
-    },
-    {
-      "rank": 9,
-      "title": "烏克蘭空襲警報App遇駭！全國突收「核戰警告」　稱極音速飛彈來襲",
-      "summary": [
-        "ETtoday：烏克蘭空襲警報App遇駭！全國突收「核戰警告」　稱極音速飛彈來襲",
-        "經濟日報：烏克蘭空軍：空襲警報系統遭敵對勢力幹擾"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "烏克蘭空襲警報App遇駭！全國突收「核戰警告」　稱極音速飛彈來襲",
-          "url": "https://www.ettoday.net/news/20261102/3264608.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "烏克蘭空軍：空襲警報系統遭敵對勢力幹擾",
-          "url": "https://money.udn.com/money/story/5599/9851021"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "冰島藍湖溫泉業者11月擬上市　估募資36.4億元",
-      "summary": [
-        "經濟日報：冰島藍湖溫泉業者11月擬上市　估募資36.4億元",
-        "科技新報：冰島藍湖溫泉業者 11 月擬上市，估募資 36.4 億元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "冰島藍湖溫泉業者11月擬上市　估募資36.4億元",
-          "url": "https://money.udn.com/money/story/5599/9851180"
-        },
-        {
-          "source": "科技新報",
-          "title": "冰島藍湖溫泉業者 11 月擬上市，估募資 36.4 億元",
-          "url": "https://finance.technews.tw/2026/11/02/blue-lagoon-owner-plans-to-float-as-icelandic-tourism-booms/"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Binance resumes customer withdrawals after record $6.3bn hack",
-      "summary": [
-        "The Guardian：Binance resumes customer withdrawals after record $6.3bn hack",
-        "Yahoo Finance：Binance says resuming withdrawals after major hack",
-        "TechCrunch：Binance resumes withdrawals following $6.3 billion breach"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "Binance resumes customer withdrawals after record $6.3bn hack",
-          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Binance says resuming withdrawals after major hack",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzl1TE9YTS1nMnBUenZ5X185WjBkMG1fZm9JSEJXM1lDV2hDTHI3bWFLS1hxaEo1ZHA5ZXNiYVQ0d2E5cTMzWmZQRkYzVDItTml5cTlwd0lzcG5ZZG5pcW9iTUZHajdLc2JLTjNJRUhNc3c3ZlZCTEowUFVZN1JPYWNRV3lDOGNEOWhWUkY0bFdlcDZQd1FGRy0xa3FYY3BiTUNtUWJoSQ?oc=5"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Binance resumes withdrawals following $6.3 billion breach",
-          "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
       "summary": [
         "BBC World：Binance users withdraw $3.6bn after largest-ever crypto hack",
@@ -258,6 +231,27 @@
           "source": "WSJ Markets",
           "title": "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
           "url": "https://www.wsj.com/finance/currencies/binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-11d1900f?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Binance resumes customer withdrawals after record $6.3bn hack",
+      "summary": [
+        "The Guardian：Binance resumes customer withdrawals after record $6.3bn hack",
+        "TechCrunch：Binance resumes withdrawals following $6.3 billion breach"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "Binance resumes customer withdrawals after record $6.3bn hack",
+          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Binance resumes withdrawals following $6.3 billion breach",
+          "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
         }
       ]
     },
@@ -320,6 +314,21 @@
     },
     {
       "rank": 6,
+      "title": "日劇《Vivant》被指「辱華」，三麗鷗取消聯名合作- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：日劇《Vivant》被指「辱華」，三麗鷗取消聯名合作- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "日劇《Vivant》被指「辱華」，三麗鷗取消聯名合作- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHpwczJvUW9BdEJfVm9CNE03NXZucV9jajdfWEJZZkI2T1FKNjR3Z0l6NFN1ZklUNUhRR0tIT3JDLXV6dUNXTVo3dmRJaUFFMDVYQWx6cm5kejQtZXNkN21PdVh2SUVrbW4zTFpqTFpwekxFSGppYldGSkVULTZ4QW5PVGkyb1V2?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "中國前副總理劉延東去世：躋身共產黨高層的少數女性之一- 紐約時報中文網",
       "summary": [
         "紐約時報中文：中國前副總理劉延東去世：躋身共產黨高層的少數女性之一- 紐約時報中文網"
@@ -334,7 +343,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "詳訊：李在明施政演說強調實現平衡發展造福全民",
       "summary": [
         "韓聯社：詳訊：李在明施政演說強調實現平衡發展造福全民"
@@ -349,7 +358,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "幣安63億美元駭客攻擊事件始末- 紐約時報中文網",
       "summary": [
         "紐約時報中文：幣安63億美元駭客攻擊事件始末- 紐約時報中文網"
@@ -364,32 +373,17 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Oaktree’s Howard Marks Says AI Stumbles Boosted Skepticism",
-      "summary": [
-        "Bloomberg Tech：Oaktree’s Howard Marks Says AI Stumbles Boosted Skepticism"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Oaktree’s Howard Marks Says AI Stumbles Boosted Skepticism",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-02/oaktree-s-howard-marks-says-ai-stumbles-have-boosted-skepticism"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Why is POSCO stock rallying today?",
+      "title": "在天安門屠殺現場，我目睹了中國人民非凡的勇氣- 紐約時報中文網",
       "summary": [
-        "Investing.com：Why is POSCO stock rallying today?"
+        "紐約時報中文：在天安門屠殺現場，我目睹了中國人民非凡的勇氣- 紐約時報中文網"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "Why is POSCO stock rallying today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-posco-stock-rallying-today-93CH-4989982"
+          "source": "紐約時報中文",
+          "title": "在天安門屠殺現場，我目睹了中國人民非凡的勇氣- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQODFOVERfNm1GRWgzN24wNmtOdlNKTmxZeEVrbXhyWUdQZG41R2N3cTduYWxGNWdqNWtOUmhQN1pyckVhbUFDYS1HdWFZS3JXVm92YzRLY1NlSS04ejVWa0oxekpDVHlad0FHa1daWktlcURRaklocnlSZWhSaW5UZA?oc=5"
         }
       ]
     }
