@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 23:32",
+  "updated_at": "2026-11-03 00:40",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "不滿政府改革方案力道不足 法國學生重啟封鎖校園抗議",
+      "summary": [
+        "公視新聞：不滿政府改革方案力道不足 法國學生重啟封鎖校園抗議",
+        "經濟日報：法國學生示威逾月　不滿訴求未獲滿足再封鎖數十所高中",
+        "自由時報：示威逾1個月！法國學生不滿意政府回應 再封鎖數十所高中"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "公視新聞",
+          "title": "不滿政府改革方案力道不足 法國學生重啟封鎖校園抗議",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DVmJoNWoyZFR3a29sdVg0R1RKeHRlR0JCNnVFY2NjWnVQQUZVUEhkTzdXYWt6SVF6cHNjd1lmUUI4cENROGpIazN3bmVUVlU?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "法國學生示威逾月　不滿訴求未獲滿足再封鎖數十所高中",
+          "url": "https://money.udn.com/money/story/5599/9852935"
+        },
+        {
+          "source": "自由時報",
+          "title": "示威逾1個月！法國學生不滿意政府回應 再封鎖數十所高中",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5627187"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
       "summary": [
         "iThome：91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
@@ -50,7 +77,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
       "summary": [
         "iThome：臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
@@ -71,112 +98,28 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "鳳中家長會長鄭景文功成身退  轉任漢民國小續傳教育薪火",
-      "summary": [
-        "自由時報：鳳中家長會長鄭景文功成身退  轉任漢民國小續傳教育薪火",
-        "TVBS新聞：臺股失守4萬5「最深逾800點」 聯發科.鴻海翻紅 臺達電股價腰斬｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "鳳中家長會長鄭景文功成身退  轉任漢民國小續傳教育薪火",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5626430"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "臺股失守4萬5「最深逾800點」 聯發科.鴻海翻紅 臺達電股價腰斬｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mN2dGXzhkZEZLdmhVYVdXcGYtU1NUV3pjc3AxX0V6ODZHckRLZDBKQjZUaUxjWWlFUHJTdnA3dFVsa3E4RFNDbmJweTI5UW1RQ0RuY0xB?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "川普狂語「一週打贏越戰」！稱炸翻胡志明市 歷史大烏龍遭打臉",
+      "title": "臺中和平區代表涉詐2450元貪汙起訴　「衝臺東陳抗」一審判無罪",
       "summary": [
-        "自由時報：川普狂語「一週打贏越戰」！稱炸翻胡志明市 歷史大烏龍遭打臉",
-        "經濟日報：川普喊美國本可以「一週內打贏越戰」想炸胡志明市 慘被網友打臉"
+        "ETtoday：臺中和平區代表涉詐2450元貪汙起訴　「衝臺東陳抗」一審判無罪",
+        "自由時報：臺中和平區代吳天祐遭控詐領出席費貪汙 「這原因」一審判無罪"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "川普狂語「一週打贏越戰」！稱炸翻胡志明市 歷史大烏龍遭打臉",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5626327"
+          "source": "ETtoday",
+          "title": "臺中和平區代表涉詐2450元貪汙起訴　「衝臺東陳抗」一審判無罪",
+          "url": "https://www.ettoday.net/news/20261102/3264788.htm"
         },
         {
-          "source": "經濟日報",
-          "title": "川普喊美國本可以「一週內打贏越戰」想炸胡志明市 慘被網友打臉",
-          "url": "https://money.udn.com/money/story/5599/9852225"
+          "source": "自由時報",
+          "title": "臺中和平區代吳天祐遭控詐領出席費貪汙 「這原因」一審判無罪",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5627198"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "違法公開收購股權？力晶投控怒告「揪團賣股」，籲嚴查金流合法性",
-      "summary": [
-        "科技新報：違法公開收購股權？力晶投控怒告「揪團賣股」，籲嚴查金流合法性",
-        "工商時報：力晶投控出手了！提告違法公開收購股權籲請政府嚴查鉅額金流合法性- 產業"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "違法公開收購股權？力晶投控怒告「揪團賣股」，籲嚴查金流合法性",
-          "url": "https://finance.technews.tw/2026/11/02/pihc-stock-5/"
-        },
-        {
-          "source": "工商時報",
-          "title": "力晶投控出手了！提告違法公開收購股權籲請政府嚴查鉅額金流合法性- 產業",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HQl9RQ3dRNi1oemg0WXU5NFkzRldEX1pjaTlKaF9hQlV1Ylh3R2pjZVJCdlh5bWIySkVhZVpoY0NvV0lVb1hEWlAxUDk1MzE4YXpoTDhhYmlSN3VyU1g0?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "助攻未來火星任務　NASA太空人隔離378天後首踏出模擬艙",
-      "summary": [
-        "經濟日報：助攻未來火星任務　NASA太空人隔離378天後首踏出模擬艙",
-        "科技新報：助攻未來火星任務，NASA 太空人隔離 378 天後首踏出模擬艙"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "助攻未來火星任務　NASA太空人隔離378天後首踏出模擬艙",
-          "url": "https://money.udn.com/money/story/5599/9851429"
-        },
-        {
-          "source": "科技新報",
-          "title": "助攻未來火星任務，NASA 太空人隔離 378 天後首踏出模擬艙",
-          "url": "https://technews.tw/2026/11/02/chapea-mission-2-egress/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "韓國2027預算案規模20兆創新高　聚焦民生、AI及國防",
-      "summary": [
-        "經濟日報：韓國2027預算案規模20兆創新高　聚焦民生、AI及國防",
-        "科技新報：韓國 2027 預算案規模 20 兆創新高，聚焦民生、AI 及國防"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "韓國2027預算案規模20兆創新高　聚焦民生、AI及國防",
-          "url": "https://money.udn.com/money/story/5599/9851346"
-        },
-        {
-          "source": "科技新報",
-          "title": "韓國 2027 預算案規模 20 兆創新高，聚焦民生、AI 及國防",
-          "url": "https://finance.technews.tw/2026/11/02/south-korea-2027-budget-record-20-trillion-public-welfare-ai-defense/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "總理與總統大鬥法！停職院長被擋門外、總統府要告法官波蘭憲法法院3日將抽籤組懲戒庭| 國際中心| 新聞",
       "summary": [
         "風傳媒：總理與總統大鬥法！停職院長被擋門外、總統府要告法官波蘭憲法法院3日將抽籤組懲戒庭| 國際中心| 新聞",
@@ -197,7 +140,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "MLCC 旺  被動元件廠 TDK 獲利破紀錄、上修財測",
       "summary": [
         "科技新報：MLCC 旺  被動元件廠 TDK 獲利破紀錄、上修財測",
@@ -214,6 +157,69 @@
           "source": "MoneyDJ理財網",
           "title": "MLCC旺被動元件廠TDK獲利破紀錄、上修財測- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWnZPZmxUYXYtbEJHMC0wYWlBS1dWQ1c2RHNLQ2pwc1lmMFZPY1gyNk8wdEtzTnNTb21sUW1zOW1sRXNIS01PWldrLUNHczM3N0toRkJMSWREUHhPQUNZUEZHOVpkd2tuTFlMQTVwRmtPcGdhM29jTjUyd0QxV3J6aXVGQjV2RGRTUmxia2NSUzU1dw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "美對越南智財調查將截止　特斯拉三星表態反對新關稅",
+      "summary": [
+        "經濟日報：美對越南智財調查將截止　特斯拉三星表態反對新關稅",
+        "科技新報：美對越南智財調查將截止，特斯拉三星表態反對新關稅"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美對越南智財調查將截止　特斯拉三星表態反對新關稅",
+          "url": "https://money.udn.com/money/story/5599/9851580"
+        },
+        {
+          "source": "科技新報",
+          "title": "美對越南智財調查將截止，特斯拉三星表態反對新關稅",
+          "url": "https://technews.tw/2026/11/02/tesla-samsung-oppose-new-us-tariffs-on-vietnam-as-probe-deadline-nears/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "需求激增三井金屬提前擴產AI DC用銅箔- 新聞",
+      "summary": [
+        "MoneyDJ理財網：需求激增三井金屬提前擴產AI DC用銅箔- 新聞",
+        "科技新報：需求激增  三井金屬提前擴產 AI DC 用銅箔"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "需求激增三井金屬提前擴產AI DC用銅箔- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMVU5YTdWeDZBWWJhemRpVkgyTzBrQ0NqWS1SR1FKWnpMbldrM0p4amdIZ1hJTnRLZlpVZkhKZU5DT2EtdHBGdDVOTG1zTVJGZFVtWHM4Nkp1NDFHZWNmOWRtLUpvZjZsM2hkeDFSdkxoQzBtZWVTdFRUeXczRV9UcW5QS01pWWx4T21TZFVCRER5Zw?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "需求激增  三井金屬提前擴產 AI DC 用銅箔",
+          "url": "https://technews.tw/2026/11/02/mitsui-kinzoku-accelerates-capacity-expansion-for-ai-data-center-copper-foil/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "小米手機遭爆偷傳使用者App清單！甚至會錄下螢幕畫面上傳雲端",
+      "summary": [
+        "ETtoday：小米手機遭爆偷傳使用者App清單！甚至會錄下螢幕畫面上傳雲端",
+        "自由時報：小米又爆資安隱私疑慮！偷傳使用者App清單還會螢幕錄影"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "小米手機遭爆偷傳使用者App清單！甚至會錄下螢幕畫面上傳雲端",
+          "url": "https://ai.ettoday.net/news/3264866"
+        },
+        {
+          "source": "自由時報",
+          "title": "小米又爆資安隱私疑慮！偷傳使用者App清單還會螢幕錄影",
+          "url": "https://3c.ltn.com.tw/news/68135"
         }
       ]
     }
@@ -248,6 +254,27 @@
     },
     {
       "rank": 2,
+      "title": "Marvell to Buy Lumentum in $115 Billion Deal",
+      "summary": [
+        "Bloomberg Tech：Marvell to Buy Lumentum in $115 Billion Deal",
+        "Yahoo Finance：Marvell to purchase Lumentum for $115 billion in record-breaking tech deal"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Marvell to Buy Lumentum in $115 Billion Deal",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-02/marvell-to-buy-lumentum-in-115-billion-deal-video"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Marvell to purchase Lumentum for $115 billion in record-breaking tech deal",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWxRNVQxYzItQzBISTcwM2FVN2szd2w3dlZfVnp0eWxLb2RHOEM2RzR1SnVLczBYVWRDSzV3a3FxN0VscjZ2OGZPbTR5aWYwLUpIdVprU1ZOV1lRSTVGM1RRSTVPSDNYTDM3TTdDaVhoaXhBeEE5eXFqV2V6SzBUNkdxTUJYNXJGVjFzQ1VvRVR2Rk0zVGVlUGczb3M5ZlZkLUxBZFhJWFBLOEtucW5ncHFBd2N1SFoydlE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "中國化工品出口飆升，或引發新的貿易爭端",
       "summary": [
         "FT中文網：中國化工品出口飆升，或引發新的貿易爭端",
@@ -268,7 +295,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Shop freezers in seven European countries hit by cyber-attack",
       "summary": [
         "BBC World：Shop freezers in seven European countries hit by cyber-attack",
@@ -285,27 +312,6 @@
           "source": "Bloomberg Tech",
           "title": "Supermarkets in Belgium, Ireland, Sweden, Finland Hit by Suspected Freezer Hack",
           "url": "https://www.bloomberg.com/news/articles/2026-11-02/belgian-swedish-supermarkets-report-new-suspected-freezer-hack"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-      "summary": [
-        "BBC World：Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-        "CNBC：Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-          "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CNBC",
-          "title": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
-          "url": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html"
         }
       ]
     },
@@ -332,27 +338,6 @@
     },
     {
       "rank": 6,
-      "title": "Sen. Dan Sullivan says he will accept Alaska’s election results even if he doesn’t win",
-      "summary": [
-        "Washington Post：Sen. Dan Sullivan says he will accept Alaska’s election results even if he doesn’t win",
-        "CNBC：Alaska Sen. Sullivan says he'll accept election results, slams Peltola campaign’s reported recruitment of 2nd Sullivan"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "Sen. Dan Sullivan says he will accept Alaska’s election results even if he doesn’t win",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa3JGdC1tTWNhN2xsS2gxYU00VXJNT3pTeXA0Vm43clBiQkRNRWRKZ214REFtNFRYYkZFa1FSMXpjUXAybWRSRDJua0pZUlNTVG9mektaQjJseHpadjlEWFlGOVR1cDN3bkRHTTZHT3Fieklsd1M1UTBfbk02YkJxTjhmMTZuT1NpV09IQURIX3ZlNU5ZZXY3WHllS0hiaFJOX3RrdEt3cU5YU3hmVmU2VFl0MTRqa0pJZDlxOVZkOGMwcy1lWkR2THQ2am4zZFFS?oc=5"
-        },
-        {
-          "source": "CNBC",
-          "title": "Alaska Sen. Sullivan says he'll accept election results, slams Peltola campaign’s reported recruitment of 2nd Sullivan",
-          "url": "https://www.cnbc.com/2026/11/01/alaska-senate-election-dan-sullivan-peltola.html"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Scientists have what they say is one of the oldest Mars meteorites",
       "summary": [
         "Washington Post：Scientists have what they say is one of the oldest Mars meteorites",
@@ -373,7 +358,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
       "summary": [
         "Washington Post：Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
@@ -394,44 +379,47 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Marvell Reaches $115 Billion Deal for Lumentum Holdings",
+      "rank": 8,
+      "title": "在天安門屠殺現場，我目睹了中國人民非凡的勇氣- 紐約時報中文網",
       "summary": [
-        "Bloomberg Tech：Marvell Reaches $115 Billion Deal for Lumentum Holdings",
-        "Yahoo Finance：Marvell to purchase Lumentum for $115 billion in record-breaking tech deal"
+        "紐約時報中文：在天安門屠殺現場，我目睹了中國人民非凡的勇氣- 紐約時報中文網"
       ],
-      "media_count": 2,
+      "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "Marvell Reaches $115 Billion Deal for Lumentum Holdings",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings"
-        },
+          "source": "紐約時報中文",
+          "title": "在天安門屠殺現場，我目睹了中國人民非凡的勇氣- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQODFOVERfNm1GRWgzN24wNmtOdlNKTmxZeEVrbXhyWUdQZG41R2N3cTduYWxGNWdqNWtOUmhQN1pyckVhbUFDYS1HdWFZS3JXVm92YzRLY1NlSS04ejVWa0oxekpDVHlad0FHa1daWktlcURRaklocnlSZWhSaW5UZA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "GMO 不正アクセス問題 熊谷社長ら記者會見【詳細】",
+      "summary": [
+        "NHK新聞：GMO 不正アクセス問題 熊谷社長ら記者會見【詳細】"
+      ],
+      "media_count": 1,
+      "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "Marvell to purchase Lumentum for $115 billion in record-breaking tech deal",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWxRNVQxYzItQzBISTcwM2FVN2szd2w3dlZfVnp0eWxLb2RHOEM2RzR1SnVLczBYVWRDSzV3a3FxN0VscjZ2OGZPbTR5aWYwLUpIdVprU1ZOV1lRSTVGM1RRSTVPSDNYTDM3TTdDaVhoaXhBeEE5eXFqV2V6SzBUNkdxTUJYNXJGVjFzQ1VvRVR2Rk0zVGVlUGczb3M5ZlZkLUxBZFhJWFBLOEtucW5ncHFBd2N1SFoydlE?oc=5"
+          "source": "NHK新聞",
+          "title": "GMO 不正アクセス問題 熊谷社長ら記者會見【詳細】",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261102de69492"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "Oracle’s stock falls as the company details plan to raise $20 billion",
+      "title": "ノジマ 不正アクセスで約700萬件の個人情報漏えい",
       "summary": [
-        "MarketWatch：Oracle’s stock falls as the company details plan to raise $20 billion",
-        "Yahoo Finance：Oracle shares fall after $10 billion stock offering"
+        "NHK新聞：ノジマ 不正アクセスで約700萬件の個人情報漏えい"
       ],
-      "media_count": 2,
+      "media_count": 1,
       "links": [
         {
-          "source": "MarketWatch",
-          "title": "Oracle’s stock falls as the company details plan to raise $20 billion",
-          "url": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Oracle shares fall after $10 billion stock offering",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWRhdExoNWxfVGx3Z0loX3ozN21oMjhUY3ZEd1o5MmRyUHJGVVYyTlFfRG55a1k3ZkZlNXlkV2xEdnlZdm5MY2wtZXZhNFJndmVfTVFsc1VtTFg1UWZoYnBpNm95UEdxeWxGeEp2TE9vSEZROVFZejJrZmoyTlJKOU13WEd0OUxuSHZGRTNKX091ams2aFJNRVJ3?oc=5"
+          "source": "NHK新聞",
+          "title": "ノジマ 不正アクセスで約700萬件の個人情報漏えい",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261102de69780"
         }
       ]
     }
