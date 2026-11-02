@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 10:56",
+  "updated_at": "2026-11-02 11:59",
   "taiwan": [
     {
       "rank": 1,
@@ -305,6 +305,42 @@
     },
     {
       "rank": 5,
+      "title": "Business jet crashes in Florida, killing all nine on board",
+      "summary": [
+        "Washington Post：Business jet crashes in Florida, killing all nine on board",
+        "Financial Times：Nine killed as business jet crashes in Florida"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "Business jet crashes in Florida, killing all nine on board",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnRBcWd0S294U3RpR25LbnY3SktPZU51bXR6MlpCbFBucWdhSGo0UWdKRThucWprbE4xdUJlbkIwQ01vUndCVTRHdTRaUDVlT0VTTnBzMEhjR2VsWVJjSTFrZ0p0YjhmZjBMc3hmQXJNbG42LVpVYlVUdURvdmRIRVR0SVp4SERNQ00yQ2pwRTRzMHdleW5pZjBveWlZWjNSbDJn?oc=5"
+        },
+        {
+          "source": "Financial Times",
+          "title": "Nine killed as business jet crashes in Florida",
+          "url": "https://www.ft.com/content/2bd1e339-98b2-43a9-a0e6-812736abedf8?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Why is China Construction Bank stock climbing today?",
+      "summary": [
+        "Investing.com：Why is China Construction Bank stock climbing today?"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Why is China Construction Bank stock climbing today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-china-construction-bank-stock-climbing-today-93CH-4989820"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "詳訊：李在明施政演說強調實現平衡發展造福全民",
       "summary": [
         "韓聯社：詳訊：李在明施政演說強調實現平衡發展造福全民"
@@ -319,7 +355,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
       "summary": [
         "Financial Times：Gulf braced for escalation of war between US-Israel alliance and Iran"
@@ -334,62 +370,32 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Why is Agricultural Bank of China stock climbing today?",
-      "summary": [
-        "Investing.com：Why is Agricultural Bank of China stock climbing today?"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Why is Agricultural Bank of China stock climbing today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-agricultural-bank-of-china-stock-climbing-today-93CH-4989811"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變官場？",
-      "summary": [
-        "BBC中文：中共五中全會「空椅子」背後：常態化高壓反腐如何改變官場？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變官場？",
-          "url": "https://www.bbc.com/zhongwen/articles/c3j47p5gwj5lo/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
       "rank": 9,
-      "title": "德國總統施泰因邁爾：聽聞“三方峰會” 習近平面露困惑",
+      "title": "Howard Marks Says AI Stumbles Have Boosted Skepticism",
       "summary": [
-        "德國之聲：德國總統施泰因邁爾：聽聞“三方峰會” 習近平面露困惑"
+        "Bloomberg Tech：Howard Marks Says AI Stumbles Have Boosted Skepticism"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "德國總統施泰因邁爾：聽聞“三方峰會” 習近平面露困惑",
-          "url": "https://www.dw.com/zh/德国总统施泰因迈尔：听闻-三方峰会-习近平面露困惑/a-79822988?maca=chi-rss-chi-all-1127-rdf"
+          "source": "Bloomberg Tech",
+          "title": "Howard Marks Says AI Stumbles Have Boosted Skepticism",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-02/howard-marks-says-ai-stumbles-have-boosted-skepticism-video"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "美國駐俄使館因恐襲線索釋出預警",
+      "title": "施泰因邁爾：當被問及是否將就烏克蘭問題舉行中美俄峰會? 習近平面露不悅之色",
       "summary": [
-        "德國之聲：美國駐俄使館因恐襲線索釋出預警"
+        "法廣RFI：施泰因邁爾：當被問及是否將就烏克蘭問題舉行中美俄峰會? 習近平面露不悅之色"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "美國駐俄使館因恐襲線索釋出預警",
-          "url": "https://www.dw.com/zh/美国驻俄使馆因恐袭线索发布预警/a-79823025?maca=chi-rss-chi-all-1127-rdf"
+          "source": "法廣RFI",
+          "title": "施泰因邁爾：當被問及是否將就烏克蘭問題舉行中美俄峰會? 習近平面露不悅之色",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261101-%E6%96%BD%E6%B3%B0%E5%9B%A0%E9%82%81%E7%88%BE-%E7%95%B6%E8%A2%AB%E5%95%8F%E5%8F%8A%E6%98%AF%E5%90%A6%E5%B0%87%E5%B0%B1%E7%83%8F%E5%85%8B%E8%98%AD%E5%95%8F%E9%A1%8C%E8%88%89%E8%A1%8C%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%B3%B0%E6%9C%83-%E7%BF%92%E8%BF%91%E5%B9%B3%E9%9D%A2%E9%9C%B2%E4%B8%8D%E6%82%85%E4%B9%8B%E8%89%B2"
         }
       ]
     }
