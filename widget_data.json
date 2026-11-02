@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 02:34",
+  "updated_at": "2026-11-03 03:36",
   "taiwan": [
     {
       "rank": 1,
@@ -30,153 +30,33 @@
     },
     {
       "rank": 2,
-      "title": "臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
+      "title": "黃仁勳疑遭中國女間諜滲透  新加坡否認調查",
       "summary": [
-        "iThome：臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
-        "公開資訊觀測站重訊：臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密"
+        "自由時報：黃仁勳疑遭中國女間諜滲透  新加坡否認調查",
+        "經濟日報：與黃仁勳關係密切中國女主管涉間諜疑雲　新加坡否認調查",
+        "ETtoday：黃仁勳遭爆女間諜涉中國情報　新加坡內政部發聲"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "iThome",
-          "title": "臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
-          "url": "https://www.ithome.com.tw/news/180137"
+          "source": "自由時報",
+          "title": "黃仁勳疑遭中國女間諜滲透  新加坡否認調查",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5627155"
         },
         {
-          "source": "公開資訊觀測站重訊",
-          "title": "臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DQVNIVnQ2ajhnYUVfZWpvN1pHazdYeXhhSE9Ici1JVzUxd2RUTXNpWGNHdm5QN3F1V1A3VXlGZUtxUzRwWU9PTVA5X2JMZw?oc=5"
+          "source": "經濟日報",
+          "title": "與黃仁勳關係密切中國女主管涉間諜疑雲　新加坡否認調查",
+          "url": "https://money.udn.com/money/story/5599/9852883"
+        },
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳遭爆女間諜涉中國情報　新加坡內政部發聲",
+          "url": "https://www.ettoday.net/news/20261103/3265203.htm"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "臺股失守4萬5「最深逾800點」 聯發科.鴻海翻紅 臺達電股價腰斬｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-      "summary": [
-        "TVBS新聞：臺股失守4萬5「最深逾800點」 聯發科.鴻海翻紅 臺達電股價腰斬｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-        "今周刊：臺達化（1309）公告獨立董事魏永篤逝世 缺額將依法辦理"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "臺股失守4萬5「最深逾800點」 聯發科.鴻海翻紅 臺達電股價腰斬｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mN2dGXzhkZEZLdmhVYVdXcGYtU1NUV3pjc3AxX0V6ODZHckRLZDBKQjZUaUxjWWlFUHJTdnA3dFVsa3E4RFNDbmJweTI5UW1RQ0RuY0xB?oc=5"
-        },
-        {
-          "source": "今周刊",
-          "title": "臺達化（1309）公告獨立董事魏永篤逝世 缺額將依法辦理",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeS01R1ZPRlIxZ0ZDeDU5bnBXVS05ZzVYME10S1RkdzliN2FndkFmZHBqa3gzWl80Nm85QkZnT3JsbnFiSDVUUnRacV85RXFLRWhPeVhIRkF3N3pwa2tsUHNSejVET0NsUjhCd1RhNVNHa2ZqQmVHZjBDVE1UalRpRg?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "小米手機遭爆偷傳使用者App清單！甚至會錄下螢幕畫面上傳雲端",
-      "summary": [
-        "ETtoday：小米手機遭爆偷傳使用者App清單！甚至會錄下螢幕畫面上傳雲端",
-        "自由時報：小米又爆資安隱私疑慮！偷傳使用者App清單還會螢幕錄影"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "小米手機遭爆偷傳使用者App清單！甚至會錄下螢幕畫面上傳雲端",
-          "url": "https://ai.ettoday.net/news/3264866"
-        },
-        {
-          "source": "自由時報",
-          "title": "小米又爆資安隱私疑慮！偷傳使用者App清單還會螢幕錄影",
-          "url": "https://3c.ltn.com.tw/news/68135"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "5件魚產品驗出禁用藥物　午仔魚、黃花魚、龍虎斑都違規",
-      "summary": [
-        "ETtoday：5件魚產品驗出禁用藥物　午仔魚、黃花魚、龍虎斑都違規",
-        "風傳媒：全聯「龍虎斑」、金門漁會「五魚」爆違規 食藥署檢出禁用抗菌劑 | 黃天如 | 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "5件魚產品驗出禁用藥物　午仔魚、黃花魚、龍虎斑都違規",
-          "url": "https://health.ettoday.net/news/3264880"
-        },
-        {
-          "source": "風傳媒",
-          "title": "全聯「龍虎斑」、金門漁會「五魚」爆違規 食藥署檢出禁用抗菌劑 | 黃天如 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoRlBQTVljVDROYWNsVU5Na2k4UkYwenBRSFZoaGEwd0phTXNIRUlLenFqdC1qWnNKTGlZMkZ4cnhaOFZXNGVmOGZEanB5Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "OpenAI預計12月起合併ChatGPT與Codex使用額度，依Token計算用量",
-      "summary": [
-        "iThome：OpenAI預計12月起合併ChatGPT與Codex使用額度，依Token計算用量",
-        "INSIDE硬塞：OpenAI 宣佈 12 月起 ChatGPT 與 Codex 共用同一份用量額度，改以 token 計算"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "OpenAI預計12月起合併ChatGPT與Codex使用額度，依Token計算用量",
-          "url": "https://www.ithome.com.tw/news/180133"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "OpenAI 宣佈 12 月起 ChatGPT 與 Codex 共用同一份用量額度，改以 token 計算",
-          "url": "https://www.inside.com.tw/article/42798-openai-chatgpt-codex-shared-usage-allowance-december-2026"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "衛生用品廠商康那香線上平臺委外服務廠商91APP遭駭，電商平臺訂單資料恐外洩",
-      "summary": [
-        "iThome：衛生用品廠商康那香線上平臺委外服務廠商91APP遭駭，電商平臺訂單資料恐外洩",
-        "公開資訊觀測站重訊：衛生用品廠商康那香線上平臺委外服務廠商91APP遭駭，電商平臺訂單資料恐外洩"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "衛生用品廠商康那香線上平臺委外服務廠商91APP遭駭，電商平臺訂單資料恐外洩",
-          "url": "https://www.ithome.com.tw/news/180135"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "衛生用品廠商康那香線上平臺委外服務廠商91APP遭駭，電商平臺訂單資料恐外洩",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DZFdqUk9uWHhWN01Ed2ZtYzl0Q3dQTndDX05DbXl2WHowcnd3UEhKMVZua3dVOFRKcXNua3dxVWRiUENxVzZhdmsxMU42QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "美期中選舉牽動財政與AI走向　債市巨頭暫觀望",
-      "summary": [
-        "經濟日報：美期中選舉牽動財政與AI走向　債市巨頭暫觀望",
-        "工商時報：美期中選舉牽動市場AI淘汰賽比體質- 理財"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美期中選舉牽動財政與AI走向　債市巨頭暫觀望",
-          "url": "https://money.udn.com/money/story/5599/9851889"
-        },
-        {
-          "source": "工商時報",
-          "title": "美期中選舉牽動市場AI淘汰賽比體質- 理財",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMN3ZERjFTSDlIdTBmWHhFdWRzQnZKS19hZENfS0tCcFBVVlkwVGRlaTBTMHVZZF94WFo1MGNDVkxPamt5MXE5cnd1dTI0U0ZwMFRKNnNUbm1qT0l4ZTdN?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "第12屆臺日交流峰會名古屋登場 主辦方為亞運對臺「失禮」致歉",
       "summary": [
         "自由時報：第12屆臺日交流峰會名古屋登場 主辦方為亞運對臺「失禮」致歉",
@@ -197,7 +77,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 4,
       "title": "民主黨有望贏得國會多數，白宮研擬繞過國會，川普：我會成為否決先生！",
       "summary": [
         "關鍵評論網：民主黨有望贏得國會多數，白宮研擬繞過國會，川普：我會成為否決先生！",
@@ -216,6 +96,132 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Jazc4RlY4Y1pId1hCV0lwRVhPWHBmZ3dBcTNXdFZqVXVmQmNLU2xVNXVuZDYyeHJIaGZqV09UX3VJVG41ODlDQi1XcFRhdlk?oc=5"
         }
       ]
+    },
+    {
+      "rank": 5,
+      "title": "蘋果 CEO 特納斯迎首場財報考驗，記憶體成本飆漲成焦點",
+      "summary": [
+        "科技新報：蘋果 CEO 特納斯迎首場財報考驗，記憶體成本飆漲成焦點",
+        "經濟日報：蘋果CEO特納斯迎首場財報考驗　記憶體成本飆漲成焦點"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "蘋果 CEO 特納斯迎首場財報考驗，記憶體成本飆漲成焦點",
+          "url": "https://technews.tw/2026/11/02/apples-new-ceo-ternus-to-face-first-earnings-test-as-memory-costs-surge/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "蘋果CEO特納斯迎首場財報考驗　記憶體成本飆漲成焦點",
+          "url": "https://money.udn.com/money/story/123398/9852254"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "鑫傳及子公司遭駭客攻擊，部分檔案無法解密，影響內部作業系統運作",
+      "summary": [
+        "iThome：鑫傳及子公司遭駭客攻擊，部分檔案無法解密，影響內部作業系統運作",
+        "公開資訊觀測站重訊：鑫傳及子公司遭駭客攻擊，部分檔案無法解密，影響內部作業系統運作"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "鑫傳及子公司遭駭客攻擊，部分檔案無法解密，影響內部作業系統運作",
+          "url": "https://www.ithome.com.tw/news/180138"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "鑫傳及子公司遭駭客攻擊，部分檔案無法解密，影響內部作業系統運作",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0OWxWeU9nb3hUVnB2M0dtMlN4YWVWOTM2MldvdE80RktIdndnQXdDWnM1NW9KY1U4UGJfRmxhZ2l2YURNTjVoazJvNTR4QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "史上最大加密貨幣竊案：FBI 指北韓盜走幣安逾 60 億美元，私鑰未外洩為何仍失守？",
+      "summary": [
+        "科技報橘：史上最大加密貨幣竊案：FBI 指北韓盜走幣安逾 60 億美元，私鑰未外洩為何仍失守？",
+        "iThome：【資安日報】11月2日，Binance遭竊約63億美元加密貨幣，創史上最大竊案，調查指向北韓駭客"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技報橘",
+          "title": "史上最大加密貨幣竊案：FBI 指北韓盜走幣安逾 60 億美元，私鑰未外洩為何仍失守？",
+          "url": "https://techorange.com/2026/11/02/binance-hack-north-korea-attack-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+        },
+        {
+          "source": "iThome",
+          "title": "【資安日報】11月2日，Binance遭竊約63億美元加密貨幣，創史上最大竊案，調查指向北韓駭客",
+          "url": "https://www.ithome.com.tw/news/180134"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Anthropic將在美IPO　擬向日本募資1144億元",
+      "summary": [
+        "經濟日報：Anthropic將在美IPO　擬向日本募資1144億元",
+        "科技新報：Anthropic 將在美 IPO，擬向日本募資 1,144 億元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "Anthropic將在美IPO　擬向日本募資1144億元",
+          "url": "https://money.udn.com/money/story/5599/9852178"
+        },
+        {
+          "source": "科技新報",
+          "title": "Anthropic 將在美 IPO，擬向日本募資 1,144 億元",
+          "url": "https://finance.technews.tw/2026/11/02/anthropic-us-ipo-japan-fundraising-114-4-billion-jpy/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "德國多個城市夜間爆發暴力衝突當局控遊行遭滲透導致變調｜#公視新聞網#Shorts ｜ 公視新聞PNN",
+      "summary": [
+        "公視新聞：德國多個城市夜間爆發暴力衝突當局控遊行遭滲透導致變調｜#公視新聞網#Shorts ｜ 公視新聞PNN",
+        "經濟日報：德國多地爆發抗議活動 示威者與警方發生衝突"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公視新聞",
+          "title": "德國多個城市夜間爆發暴力衝突當局控遊行遭滲透導致變調｜#公視新聞網#Shorts ｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kVndjS3VEcVp4eXk0eDgxclpwYW56RWM5YXNkemVxal83NzhadGExc2YtMkIzVXVXSmhXZnVtdGxiSXZOamRRMERBTQ?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "德國多地爆發抗議活動 示威者與警方發生衝突",
+          "url": "https://money.udn.com/money/story/5599/9851211"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "中職》冠軍遊擊手行程滿檔！張政禹拿完獎隔天回日本秋訓",
+      "summary": [
+        "自由時報：中職》冠軍遊擊手行程滿檔！張政禹拿完獎隔天回日本秋訓",
+        "ETtoday：張政禹快閃領雙獎！今返臺、明再飛日本　讚軟銀秋訓待遇好"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "中職》冠軍遊擊手行程滿檔！張政禹拿完獎隔天回日本秋訓",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5626916"
+        },
+        {
+          "source": "ETtoday",
+          "title": "張政禹快閃領雙獎！今返臺、明再飛日本　讚軟銀秋訓待遇好",
+          "url": "https://sports.ettoday.net/news/3265095"
+        }
+      ]
     }
   ],
   "global": [
@@ -224,7 +230,7 @@
       "title": "Marvell to Acquire Lumentum in Historic $115 Billion Tech Deal",
       "summary": [
         "Bloomberg Tech：Marvell to Acquire Lumentum in Historic $115 Billion Tech Deal",
-        "Yahoo Finance：Marvell to purchase Lumentum for $115 billion in record-breaking tech deal",
+        "Yahoo Finance：Marvell to purchase Lumentum for $115 billion in record-breaking AI tech deal, both stocks tank",
         "TechCrunch：In one of the largest deals in tech history, Marvell buys Lumentum for $115B"
       ],
       "media_count": 3,
@@ -236,7 +242,7 @@
         },
         {
           "source": "Yahoo Finance",
-          "title": "Marvell to purchase Lumentum for $115 billion in record-breaking tech deal",
+          "title": "Marvell to purchase Lumentum for $115 billion in record-breaking AI tech deal, both stocks tank",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWxRNVQxYzItQzBISTcwM2FVN2szd2w3dlZfVnp0eWxLb2RHOEM2RzR1SnVLczBYVWRDSzV3a3FxN0VscjZ2OGZPbTR5aWYwLUpIdVprU1ZOV1lRSTVGM1RRSTVPSDNYTDM3TTdDaVhoaXhBeEE5eXFqV2V6SzBUNkdxTUJYNXJGVjFzQ1VvRVR2Rk0zVGVlUGczb3M5ZlZkLUxBZFhJWFBLOEtucW5ncHFBd2N1SFoydlE?oc=5"
         },
         {
@@ -251,8 +257,8 @@
       "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
       "summary": [
         "BBC World：Binance users withdraw $3.6bn after largest-ever crypto hack",
-        "Yahoo Finance：Binance sees more than $4.6 billion in withdrawals after largest crypto hack in history",
-        "Investing.com：Binance clients pull $4.7 billion after hack as crypto world studies fallout"
+        "WSJ Markets：Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
+        "Yahoo Finance：Binance sees more than $4.6 billion in withdrawals after largest crypto hack in history"
       ],
       "media_count": 3,
       "links": [
@@ -262,14 +268,14 @@
           "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "source": "WSJ Markets",
+          "title": "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
+          "url": "https://www.wsj.com/finance/currencies/binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-11d1900f?mod=rss_markets_main"
+        },
+        {
           "source": "Yahoo Finance",
           "title": "Binance sees more than $4.6 billion in withdrawals after largest crypto hack in history",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEJpbTZXY0ZyOUlFeVlMQzJXcThlNXctOFpCcDFfYmx5bXk5UTA5bUN5OEpOQ0ZldU9wQnpFV1pBTVdpSTk5MWZlQVVBbUtiWmdNWDJjRkttV3RKZ3FlN05zeVhjamVKZGtjeE5zNDFXV1A3b25GdjJXUFNmcUNKN21OWkU2Mzd6Qm9yb0luWHVsR1VqcVQ1U2VFNXVJeDV6eHFfMzhacmpGV2lMdHBNQ0YzLXlvYXFhdWRUX0tmRXZwdExKYm9PZDVycFhpUzBvSkJiMGJjazZLQQ?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Binance clients pull $4.7 billion after hack as crypto world studies fallout",
-          "url": "https://www.investing.com/news/stock-market-news/binance-sees-outflows-stabilising-as-exchange-returns-online-after-63-billionheist-4989802"
         }
       ]
     },
@@ -317,105 +323,69 @@
     },
     {
       "rank": 5,
-      "title": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
+      "title": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
       "summary": [
-        "Washington Post：Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
-        "CNBC：Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election"
+        "Bloomberg Markets：Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
+        "MarketWatch：Oracle wants $20 billion to fund its AI future — and its stock is paying the price"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Washington Post",
-          "title": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV2VIWjBwNWdIYU1xNlFMQU5TazlOcnNhLS0tcG5aRjVrTVE4azlZUm1YRVJKTzRTSEE1UUZhX2NhLUtnTlVGbjJLREFPS1BYVlJnQWszZklmNndnV2R5MU1LRmg2RVV4dWVsSUFpZGRHT3FSYjVWeS1fS3ZWMVdvaXdMOHdNV0FJeElqMnJfNHlyQ1FXMlRoQ2REQmpzY3BERmRVTjIwLTJhSFp1dVY1SWM1Mk9xTGVvdUNrak9BQWVWZw?oc=5"
+          "source": "Bloomberg Markets",
+          "title": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds"
         },
         {
-          "source": "CNBC",
-          "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
-          "url": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html"
+          "source": "MarketWatch",
+          "title": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
+          "url": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "Meta Eyes at Least $20 Billion From Potential Bond Offerings",
+      "title": "Web host Squarespace lays off 19% of its employees",
       "summary": [
-        "Bloomberg Tech：Meta Eyes at Least $20 Billion From Potential Bond Offerings",
-        "Investing.com：Meta eyes at least $20 billion from potential bond offerings, Bloomberg News reports"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Meta Eyes at Least $20 Billion From Potential Bond Offerings",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-02/meta-readies-cross-border-investment-bond-offering"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Meta eyes at least $20 billion from potential bond offerings, Bloomberg News reports",
-          "url": "https://www.investing.com/news/stock-market-news/meta-eyes-at-least-20-billion-from-potential-bond-offerings-bloomberg-news-reports-4992542"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "DeepSeek Boosts AI Agent Offering With New Creator Mode",
-      "summary": [
-        "Bloomberg Tech：DeepSeek Boosts AI Agent Offering With New Creator Mode",
-        "Investing.com：DeepSeek adds creator mode to boost AI agent tools"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "DeepSeek Boosts AI Agent Offering With New Creator Mode",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode"
-        },
-        {
-          "source": "Investing.com",
-          "title": "DeepSeek adds creator mode to boost AI agent tools",
-          "url": "https://www.investing.com/news/stock-market-news/deepseek-adds-creator-mode-to-boost-ai-agent-tools-93CH-4992533"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
-      "summary": [
-        "TechCrunch：SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
-        "The Verge：SpaceX could buy Boost Mobile as part of its big mobile carrier plans"
+        "TechCrunch：Web host Squarespace lays off 19% of its employees",
+        "The Verge：Squarespace is laying off 19 percent of employees"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "TechCrunch",
-          "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
-          "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/"
+          "title": "Web host Squarespace lays off 19% of its employees",
+          "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/"
         },
         {
           "source": "The Verge",
-          "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
-          "url": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report"
+          "title": "Squarespace is laying off 19 percent of employees",
+          "url": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent"
         }
       ]
     },
     {
-      "rank": 9,
-      "title": "在天安門屠殺現場，我目睹了中國人民非凡的勇氣- 紐約時報中文網",
+      "rank": 7,
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
       "summary": [
-        "紐約時報中文：在天安門屠殺現場，我目睹了中國人民非凡的勇氣- 紐約時報中文網"
+        "TechCrunch：New York Times and other outlets sue web browser Brave over alleged content scraping",
+        "The Verge：The New York Times sues Brave web browser for AI scraping and bypassing paywalls"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "紐約時報中文",
-          "title": "在天安門屠殺現場，我目睹了中國人民非凡的勇氣- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQODFOVERfNm1GRWgzN24wNmtOdlNKTmxZeEVrbXhyWUdQZG41R2N3cTduYWxGNWdqNWtOUmhQN1pyckVhbUFDYS1HdWFZS3JXVm92YzRLY1NlSS04ejVWa0oxekpDVHlad0FHa1daWktlcURRaklocnlSZWhSaW5UZA?oc=5"
+          "source": "TechCrunch",
+          "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+          "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+        },
+        {
+          "source": "The Verge",
+          "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
         }
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "GMO 不正アクセス問題 熊谷社長ら記者會見【詳細】",
       "summary": [
         "NHK新聞：GMO 不正アクセス問題 熊谷社長ら記者會見【詳細】"
@@ -426,6 +396,36 @@
           "source": "NHK新聞",
           "title": "GMO 不正アクセス問題 熊谷社長ら記者會見【詳細】",
           "url": "https://news.web.nhk/newsweb/na/nd-20261102de69492"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "ノジマ 不正アクセスで約700萬件の個人情報漏えい",
+      "summary": [
+        "NHK新聞：ノジマ 不正アクセスで約700萬件の個人情報漏えい"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "ノジマ 不正アクセスで約700萬件の個人情報漏えい",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261102de69780"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "日劇《Vivant》被指「辱華」，三麗鷗取消聯名合作- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：日劇《Vivant》被指「辱華」，三麗鷗取消聯名合作- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "日劇《Vivant》被指「辱華」，三麗鷗取消聯名合作- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYmZGU1AtY1BkdWNqOWxRY0M4OUlJY2pjZUVnYmkzdGtsbjVoZnRfT1JIbmxPSUlSRXltT19Ja0JTeUk5LUtjN2xYSUJYVGtUZE8ybXhBQzRwUlc5TGk2OEpSMjJNcWdNX0xGZXRia1VwblVlZm4zX0NuQVREMm5sR1BJYW1yZEhtRlBfYTRqZw?oc=5"
         }
       ]
     }
