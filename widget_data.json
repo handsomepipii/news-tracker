@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 03:36",
+  "updated_at": "2026-11-03 04:25",
   "taiwan": [
     {
       "rank": 1,
@@ -227,33 +227,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "Marvell to Acquire Lumentum in Historic $115 Billion Tech Deal",
-      "summary": [
-        "Bloomberg Tech：Marvell to Acquire Lumentum in Historic $115 Billion Tech Deal",
-        "Yahoo Finance：Marvell to purchase Lumentum for $115 billion in record-breaking AI tech deal, both stocks tank",
-        "TechCrunch：In one of the largest deals in tech history, Marvell buys Lumentum for $115B"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Marvell to Acquire Lumentum in Historic $115 Billion Tech Deal",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Marvell to purchase Lumentum for $115 billion in record-breaking AI tech deal, both stocks tank",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWxRNVQxYzItQzBISTcwM2FVN2szd2w3dlZfVnp0eWxLb2RHOEM2RzR1SnVLczBYVWRDSzV3a3FxN0VscjZ2OGZPbTR5aWYwLUpIdVprU1ZOV1lRSTVGM1RRSTVPSDNYTDM3TTdDaVhoaXhBeEE5eXFqV2V6SzBUNkdxTUJYNXJGVjFzQ1VvRVR2Rk0zVGVlUGczb3M5ZlZkLUxBZFhJWFBLOEtucW5ncHFBd2N1SFoydlE?oc=5"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-          "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
       "summary": [
         "BBC World：Binance users withdraw $3.6bn after largest-ever crypto hack",
@@ -276,6 +249,33 @@
           "source": "Yahoo Finance",
           "title": "Binance sees more than $4.6 billion in withdrawals after largest crypto hack in history",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEJpbTZXY0ZyOUlFeVlMQzJXcThlNXctOFpCcDFfYmx5bXk5UTA5bUN5OEpOQ0ZldU9wQnpFV1pBTVdpSTk5MWZlQVVBbUtiWmdNWDJjRkttV3RKZ3FlN05zeVhjamVKZGtjeE5zNDFXV1A3b25GdjJXUFNmcUNKN21OWkU2Mzd6Qm9yb0luWHVsR1VqcVQ1U2VFNXVJeDV6eHFfMzhacmpGV2lMdHBNQ0YzLXlvYXFhdWRUX0tmRXZwdExKYm9PZDVycFhpUzBvSkJiMGJjazZLQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Marvell to Acquire Lumentum in Historic $115 Billion Tech Deal",
+      "summary": [
+        "Bloomberg Tech：Marvell to Acquire Lumentum in Historic $115 Billion Tech Deal",
+        "Yahoo Finance：Marvell to purchase Lumentum for $115 billion in record-breaking AI tech deal, both stocks tank",
+        "TechCrunch：In one of the largest deals in tech history, Marvell buys Lumentum for $115B"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Marvell to Acquire Lumentum in Historic $115 Billion Tech Deal",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Marvell to purchase Lumentum for $115 billion in record-breaking AI tech deal, both stocks tank",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWxRNVQxYzItQzBISTcwM2FVN2szd2w3dlZfVnp0eWxLb2RHOEM2RzR1SnVLczBYVWRDSzV3a3FxN0VscjZ2OGZPbTR5aWYwLUpIdVprU1ZOV1lRSTVGM1RRSTVPSDNYTDM3TTdDaVhoaXhBeEE5eXFqV2V6SzBUNkdxTUJYNXJGVjFzQ1VvRVR2Rk0zVGVlUGczb3M5ZlZkLUxBZFhJWFBLOEtucW5ncHFBd2N1SFoydlE?oc=5"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+          "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/"
         }
       ]
     },
@@ -323,22 +323,22 @@
     },
     {
       "rank": 5,
-      "title": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
+      "title": "Germany warns politicians their iPhones may be hacked",
       "summary": [
-        "Bloomberg Markets：Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
-        "MarketWatch：Oracle wants $20 billion to fund its AI future — and its stock is paying the price"
+        "Financial Times：Germany warns politicians their iPhones may be hacked",
+        "TechCrunch：Germany says lawmakers’ iPhones may have been hacked with spyware"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds"
+          "source": "Financial Times",
+          "title": "Germany warns politicians their iPhones may be hacked",
+          "url": "https://www.ft.com/content/77626f75-01e9-4123-8510-a095b2231861?syn-25a6b1a6=1"
         },
         {
-          "source": "MarketWatch",
-          "title": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
-          "url": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories"
+          "source": "TechCrunch",
+          "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+          "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/"
         }
       ]
     },
@@ -386,21 +386,6 @@
     },
     {
       "rank": 8,
-      "title": "GMO 不正アクセス問題 熊谷社長ら記者會見【詳細】",
-      "summary": [
-        "NHK新聞：GMO 不正アクセス問題 熊谷社長ら記者會見【詳細】"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "GMO 不正アクセス問題 熊谷社長ら記者會見【詳細】",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261102de69492"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "ノジマ 不正アクセスで約700萬件の個人情報漏えい",
       "summary": [
         "NHK新聞：ノジマ 不正アクセスで約700萬件の個人情報漏えい"
@@ -415,7 +400,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "日劇《Vivant》被指「辱華」，三麗鷗取消聯名合作- 紐約時報中文網",
       "summary": [
         "紐約時報中文：日劇《Vivant》被指「辱華」，三麗鷗取消聯名合作- 紐約時報中文網"
@@ -426,6 +411,21 @@
           "source": "紐約時報中文",
           "title": "日劇《Vivant》被指「辱華」，三麗鷗取消聯名合作- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYmZGU1AtY1BkdWNqOWxRY0M4OUlJY2pjZUVnYmkzdGtsbjVoZnRfT1JIbmxPSUlSRXltT19Ja0JTeUk5LUtjN2xYSUJYVGtUZE8ybXhBQzRwUlc5TGk2OEpSMjJNcWdNX0xGZXRia1VwblVlZm4zX0NuQVREMm5sR1BJYW1yZEhtRlBfYTRqZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "在天安門屠殺現場，我目睹了中國人民非凡的勇氣- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：在天安門屠殺現場，我目睹了中國人民非凡的勇氣- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "在天安門屠殺現場，我目睹了中國人民非凡的勇氣- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tdmV6M3E0ZllRZDRfMUZsQUpvenQ3MkZ1VjJGd3J0TEdVWHEyalY2U2VYaGhhRTlqa1dkRzctUkUtY285ZEVvUHN1bG0xZ0c5dkZCc2lXamtJNlpyNlNMV3BHR1NSb2VTZGstYmxleExfVzV5NFMtNA?oc=5"
         }
       ]
     }
