@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 06:22",
+  "updated_at": "2026-11-03 07:23",
   "taiwan": [
     {
       "rank": 1,
@@ -51,27 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "不只發平板！臺南推6冊數位教學攻略　免費分享全國教師",
-      "summary": [
-        "ETtoday：不只發平板！臺南推6冊數位教學攻略　免費分享全國教師",
-        "自由時報：臺南首創數位差異化教學全攻略 6冊電子書提供全國教師共享"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "不只發平板！臺南推6冊數位教學攻略　免費分享全國教師",
-          "url": "https://www.ettoday.net/news/20261102/3265088.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "臺南首創數位差異化教學全攻略 6冊電子書提供全國教師共享",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5626975"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "證實中國以電子郵件寄送APEC邀請函　林佳龍：已抗議、不放棄出席",
       "summary": [
         "ETtoday：證實中國以電子郵件寄送APEC邀請函　林佳龍：已抗議、不放棄出席",
@@ -92,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "摩根士丹利首席美股策略師稱無論誰贏得期中選舉 都應逢低買進股票",
       "summary": [
         "經濟日報：摩根士丹利首席美股策略師稱無論誰贏得期中選舉 都應逢低買進股票",
@@ -113,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "美期中選舉11/3登場　美媒判定勝負機制一次看懂",
       "summary": [
         "經濟日報：美期中選舉11/3登場　美媒判定勝負機制一次看懂",
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "波蘭憲政危機升溫 歐盟強調國會有權任命憲法法官",
       "summary": [
         "自由時報：波蘭憲政危機升溫 歐盟強調國會有權任命憲法法官",
@@ -155,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "英國徒步冒險家布希比返抵家鄉 結束28年5萬公里史詩級旅程",
       "summary": [
         "自由時報：英國徒步冒險家布希比返抵家鄉 結束28年5萬公里史詩級旅程",
@@ -176,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "中職》年度MVP揭曉！味全王牌蔣銲拿下年度最大獎",
       "summary": [
         "自由時報：中職》年度MVP揭曉！味全王牌蔣銲拿下年度最大獎",
@@ -193,6 +172,27 @@
           "source": "TVBS新聞",
           "title": "蔣銲奪中職年度MVP 抱走4獎成最大贏家｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92U0kxdjZzVXZ2T2prZVZOa3FVQ0Z6QWlVU24wNkwxRGdaX3p5N0dDbXlrVXY4SEs3Qk1LblNFTDVTQTB2X2hkM3ZucGl6TG9iTDZ3SDdB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "大同華映案37.5億和解　公司重訊：預期可回沖百億損失",
+      "summary": [
+        "ETtoday：大同華映案37.5億和解　公司重訊：預期可回沖百億損失",
+        "財訊：大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "大同華映案37.5億和解　公司重訊：預期可回沖百億損失",
+          "url": "https://finance.ettoday.net/news/3265148"
+        },
+        {
+          "source": "財訊",
+          "title": "大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00VHY5dTJ5c01INVpEUklXWEtBdi1FT1hSRDdjX1ZoTVBFaGRDYmYwaTJkcDFhUXZ0S1JuNUJuZVctVUg0eHBaWGVacEE1RXV6WXQyUHlCV1JqVFVsQk5UMV9RVmxvNEMzNkRZUzU3M1pQanJrYW1sM3RvUQ?oc=5"
         }
       ]
     },
@@ -290,48 +290,27 @@
     },
     {
       "rank": 4,
-      "title": "New cyberattack on supermarket fridges sweeps across Europe",
+      "title": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
       "summary": [
-        "Investing.com：New cyberattack on supermarket fridges sweeps across Europe",
-        "TechCrunch：A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries"
+        "Bloomberg Markets：Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
+        "Investing.com：Oracle taps investors for $20 billion to finance AI expansion"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "New cyberattack on supermarket fridges sweeps across Europe",
-          "url": "https://www.investing.com/news/stock-market-news/cyberattack-on-fridges-hits-supermarkets-across-europe-4991995"
+          "source": "Bloomberg Markets",
+          "title": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds"
         },
         {
-          "source": "TechCrunch",
-          "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
-          "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/"
+          "source": "Investing.com",
+          "title": "Oracle taps investors for $20 billion to finance AI expansion",
+          "url": "https://www.investing.com/news/stock-market-news/oracle-to-offer-10-billion-in-bonds-4991687"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "summary": [
-        "TechCrunch：New York Times and other outlets sue web browser Brave over alleged content scraping",
-        "The Verge：The New York Times sues Brave web browser for AI scraping and bypassing paywalls"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-          "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
-        },
-        {
-          "source": "The Verge",
-          "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "FirstFT: Big majority of US voters disapprove of Trump’s handling of inflation, according to FT poll",
       "summary": [
         "Financial Times：FirstFT: Big majority of US voters disapprove of Trump’s handling of inflation, according to FT poll"
@@ -346,37 +325,37 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Apple Sales Meet Estimates, Though China Is a Weak Spot",
+      "rank": 6,
+      "title": "Apple Sales Meet Estimates, China Is a Weak Spot",
       "summary": [
-        "Bloomberg Tech：Apple Sales Meet Estimates, Though China Is a Weak Spot"
+        "Bloomberg Tech：Apple Sales Meet Estimates, China Is a Weak Spot"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "Apple Sales Meet Estimates, Though China Is a Weak Spot",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-02/apple-growth-decelerates-with-china-sales-missing-estimates"
+          "title": "Apple Sales Meet Estimates, China Is a Weak Spot",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-meet-estimates-china-is-a-weak-spot-video"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "The Intel stock collapse is getting worse — and the $3.5 trillion chip rout is spreading",
+      "summary": [
+        "Yahoo Finance：The Intel stock collapse is getting worse — and the $3.5 trillion chip rout is spreading"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "The Intel stock collapse is getting worse — and the $3.5 trillion chip rout is spreading",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQVcyRUhyVlBfYVd2dVB4ZkdtWndTS0tNX3pNNWVfaVhlRlZhWmw2U2F2dWtlSktXNmVCZ1VXVEtYc1JSQVlla010VHJrb25BU3UwRWtWZXpLaHVCSG9fTlZVSFRCMjFxMGp4cUtQNzVQNzRkOTF5TVR3SWR0R1VEQlpIUld6U0NzTnFEbzZJOF9DcktCSjQtdWM2SDBseEJITG1UcWw4ZnZHenQzcUNnZS1nUl9IdFM4QTRjYjFmT1kxZDdNb3YtTWpGTS1GX1JvbVpvMXludGl4Zw?oc=5"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "美國中期選舉：民調顯示民主黨將取得勝利，但預測還準確嗎？",
-      "summary": [
-        "BBC中文：美國中期選舉：民調顯示民主黨將取得勝利，但預測還準確嗎？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "美國中期選舉：民調顯示民主黨將取得勝利，但預測還準確嗎？",
-          "url": "https://www.bbc.com/zhongwen/articles/cqy7l48vnv8ro/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "建交後阿曼蘇丹首次訪華 習近平：中東不應成為大國博弈角鬥場",
       "summary": [
         "德國之聲：建交後阿曼蘇丹首次訪華 習近平：中東不應成為大國博弈角鬥場"
@@ -391,7 +370,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "加拿大總理接受DW專訪：我們過度依賴美國",
       "summary": [
         "德國之聲：加拿大總理接受DW專訪：我們過度依賴美國"
@@ -402,6 +381,21 @@
           "source": "德國之聲",
           "title": "加拿大總理接受DW專訪：我們過度依賴美國",
           "url": "https://www.dw.com/zh/加拿大总理接受dw专访：我们过度依赖美国/a-79815000?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "韓國慶州地標瞻星臺雕塑在友好城市西安落成",
+      "summary": [
+        "韓聯社：韓國慶州地標瞻星臺雕塑在友好城市西安落成"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "韓國慶州地標瞻星臺雕塑在友好城市西安落成",
+          "url": "https://cn.yna.co.kr/view/ACK20261102004000881"
         }
       ]
     }
