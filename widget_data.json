@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 01:38",
+  "updated_at": "2026-11-03 02:34",
   "taiwan": [
     {
       "rank": 1,
@@ -221,6 +221,33 @@
   "global": [
     {
       "rank": 1,
+      "title": "Marvell to Acquire Lumentum in Historic $115 Billion Tech Deal",
+      "summary": [
+        "Bloomberg Tech：Marvell to Acquire Lumentum in Historic $115 Billion Tech Deal",
+        "Yahoo Finance：Marvell to purchase Lumentum for $115 billion in record-breaking tech deal",
+        "TechCrunch：In one of the largest deals in tech history, Marvell buys Lumentum for $115B"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Marvell to Acquire Lumentum in Historic $115 Billion Tech Deal",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Marvell to purchase Lumentum for $115 billion in record-breaking tech deal",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWxRNVQxYzItQzBISTcwM2FVN2szd2w3dlZfVnp0eWxLb2RHOEM2RzR1SnVLczBYVWRDSzV3a3FxN0VscjZ2OGZPbTR5aWYwLUpIdVprU1ZOV1lRSTVGM1RRSTVPSDNYTDM3TTdDaVhoaXhBeEE5eXFqV2V6SzBUNkdxTUJYNXJGVjFzQ1VvRVR2Rk0zVGVlUGczb3M5ZlZkLUxBZFhJWFBLOEtucW5ncHFBd2N1SFoydlE?oc=5"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+          "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
       "summary": [
         "BBC World：Binance users withdraw $3.6bn after largest-ever crypto hack",
@@ -243,27 +270,6 @@
           "source": "Investing.com",
           "title": "Binance clients pull $4.7 billion after hack as crypto world studies fallout",
           "url": "https://www.investing.com/news/stock-market-news/binance-sees-outflows-stabilising-as-exchange-returns-online-after-63-billionheist-4989802"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Marvell to Acquire Lumentum in Historic $115 Billion Tech Deal",
-      "summary": [
-        "Bloomberg Tech：Marvell to Acquire Lumentum in Historic $115 Billion Tech Deal",
-        "Yahoo Finance：Marvell to purchase Lumentum for $115 billion in record-breaking tech deal"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Marvell to Acquire Lumentum in Historic $115 Billion Tech Deal",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Marvell to purchase Lumentum for $115 billion in record-breaking tech deal",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWxRNVQxYzItQzBISTcwM2FVN2szd2w3dlZfVnp0eWxLb2RHOEM2RzR1SnVLczBYVWRDSzV3a3FxN0VscjZ2OGZPbTR5aWYwLUpIdVprU1ZOV1lRSTVGM1RRSTVPSDNYTDM3TTdDaVhoaXhBeEE5eXFqV2V6SzBUNkdxTUJYNXJGVjFzQ1VvRVR2Rk0zVGVlUGczb3M5ZlZkLUxBZFhJWFBLOEtucW5ncHFBd2N1SFoydlE?oc=5"
         }
       ]
     },
@@ -311,27 +317,6 @@
     },
     {
       "rank": 5,
-      "title": "Binance resumes customer withdrawals after record $6.3bn hack",
-      "summary": [
-        "The Guardian：Binance resumes customer withdrawals after record $6.3bn hack",
-        "TechCrunch：Binance resumes withdrawals following $6.3 billion breach"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "Binance resumes customer withdrawals after record $6.3bn hack",
-          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Binance resumes withdrawals following $6.3 billion breach",
-          "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
       "summary": [
         "Washington Post：Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
@@ -352,23 +337,44 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "New cyberattack on supermarket fridges sweeps across Europe",
+      "rank": 6,
+      "title": "Meta Eyes at Least $20 Billion From Potential Bond Offerings",
       "summary": [
-        "Investing.com：New cyberattack on supermarket fridges sweeps across Europe",
-        "TechCrunch：A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries"
+        "Bloomberg Tech：Meta Eyes at Least $20 Billion From Potential Bond Offerings",
+        "Investing.com：Meta eyes at least $20 billion from potential bond offerings, Bloomberg News reports"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "New cyberattack on supermarket fridges sweeps across Europe",
-          "url": "https://www.investing.com/news/stock-market-news/cyberattack-on-fridges-hits-supermarkets-across-europe-4991995"
+          "source": "Bloomberg Tech",
+          "title": "Meta Eyes at Least $20 Billion From Potential Bond Offerings",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/meta-readies-cross-border-investment-bond-offering"
         },
         {
-          "source": "TechCrunch",
-          "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
-          "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/"
+          "source": "Investing.com",
+          "title": "Meta eyes at least $20 billion from potential bond offerings, Bloomberg News reports",
+          "url": "https://www.investing.com/news/stock-market-news/meta-eyes-at-least-20-billion-from-potential-bond-offerings-bloomberg-news-reports-4992542"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "DeepSeek Boosts AI Agent Offering With New Creator Mode",
+      "summary": [
+        "Bloomberg Tech：DeepSeek Boosts AI Agent Offering With New Creator Mode",
+        "Investing.com：DeepSeek adds creator mode to boost AI agent tools"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "DeepSeek Boosts AI Agent Offering With New Creator Mode",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode"
+        },
+        {
+          "source": "Investing.com",
+          "title": "DeepSeek adds creator mode to boost AI agent tools",
+          "url": "https://www.investing.com/news/stock-market-news/deepseek-adds-creator-mode-to-boost-ai-agent-tools-93CH-4992533"
         }
       ]
     },
