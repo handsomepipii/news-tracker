@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 18:05",
+  "updated_at": "2026-11-02 19:03",
   "taiwan": [
     {
       "rank": 1,
@@ -30,69 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
-      "summary": [
-        "iThome：91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
-        "公開資訊觀測站重訊：91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
-          "url": "https://www.ithome.com.tw/news/180124"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42TlZkcHdZSVM5LXZ3NFhNeDUzcFJVZURlaWhLQlJzQl9oc0pnMWlOVU5xS3pTZ1N1QU02QVlUd2VYTzZlLVBnSmJsVWhXZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
-      "summary": [
-        "iThome：臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
-        "公開資訊觀測站重訊：臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
-          "url": "https://www.ithome.com.tw/news/180137"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DQVNIVnQ2ajhnYUVfZWpvN1pHazdYeXhhSE9Ici1JVzUxd2RUTXNpWGNHdm5QN3F1V1A3VXlGZUtxUzRwWU9PTVA5X2JMZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "阿拉斯加州參議員選戰撞名風波　川普政府提起訴訟遭駁回",
-      "summary": [
-        "自由時報：阿拉斯加州參議員選戰撞名風波　川普政府提起訴訟遭駁回",
-        "經濟日報：阿拉斯加州參議員選戰撞名風波　川普政府提起訴訟遭駁回"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "阿拉斯加州參議員選戰撞名風波　川普政府提起訴訟遭駁回",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5626162"
-        },
-        {
-          "source": "經濟日報",
-          "title": "阿拉斯加州參議員選戰撞名風波　川普政府提起訴訟遭駁回",
-          "url": "https://money.udn.com/money/story/10511/9850954"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "北臺灣今降溫！迎風面越晚雨越大 本週2波東北季風報到",
       "summary": [
         "自由時報：北臺灣今降溫！迎風面越晚雨越大 本週2波東北季風報到",
@@ -113,7 +50,49 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "title": "91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
+      "summary": [
+        "iThome：91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
+        "公開資訊觀測站重訊：91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
+          "url": "https://www.ithome.com.tw/news/180124"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42TlZkcHdZSVM5LXZ3NFhNeDUzcFJVZURlaWhLQlJzQl9oc0pnMWlOVU5xS3pTZ1N1QU02QVlUd2VYTzZlLVBnSmJsVWhXZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
+      "summary": [
+        "iThome：臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
+        "公開資訊觀測站重訊：臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
+          "url": "https://www.ithome.com.tw/news/180137"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DQVNIVnQ2ajhnYUVfZWpvN1pHazdYeXhhSE9Ici1JVzUxd2RUTXNpWGNHdm5QN3F1V1A3VXlGZUtxUzRwWU9PTVA5X2JMZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "佛州噴射客機俯衝墜毀爆出大火球  驚駭瞬間影片曝光",
       "summary": [
         "自由時報：佛州噴射客機俯衝墜毀爆出大火球  驚駭瞬間影片曝光",
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "讓 AI 代理拿假金鑰辦事，機密管理新創 Infisical 完成 4 千萬美元 B 輪募資",
       "summary": [
         "科技新報：讓 AI 代理拿假金鑰辦事，機密管理新創 Infisical 完成 4 千萬美元 B 輪募資",
@@ -151,6 +130,27 @@
           "source": "iThome",
           "title": "Infisical募資4,000萬美元，擴充套件AI代理憑證保護與存取管理",
           "url": "https://www.ithome.com.tw/news/180098"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "影/川普才離開！海湖莊園附近驚傳墜機9死 俯衝撞民宅畫面曝",
+      "summary": [
+        "經濟日報：影/川普才離開！海湖莊園附近驚傳墜機9死 俯衝撞民宅畫面曝",
+        "自由時報：意外還是恐攻？噴射機離奇轉向俯衝爆炸釀9死 離川普住所超近！"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "影/川普才離開！海湖莊園附近驚傳墜機9死 俯衝撞民宅畫面曝",
+          "url": "https://money.udn.com/money/story/5599/9851017"
+        },
+        {
+          "source": "自由時報",
+          "title": "意外還是恐攻？噴射機離奇轉向俯衝爆炸釀9死 離川普住所超近！",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5626819"
         }
       ]
     },
@@ -263,6 +263,27 @@
     },
     {
       "rank": 3,
+      "title": "Sen. Dan Sullivan says he will accept Alaska’s election results even if he doesn’t win",
+      "summary": [
+        "Washington Post：Sen. Dan Sullivan says he will accept Alaska’s election results even if he doesn’t win",
+        "CNBC：Alaska Sen. Sullivan says he'll accept election results, slams Peltola campaign’s reported recruitment of 2nd Sullivan"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "Sen. Dan Sullivan says he will accept Alaska’s election results even if he doesn’t win",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa3JGdC1tTWNhN2xsS2gxYU00VXJNT3pTeXA0Vm43clBiQkRNRWRKZ214REFtNFRYYkZFa1FSMXpjUXAybWRSRDJua0pZUlNTVG9mektaQjJseHpadjlEWFlGOVR1cDN3bkRHTTZHT3Fieklsd1M1UTBfbk02YkJxTjhmMTZuT1NpV09IQURIX3ZlNU5ZZXY3WHllS0hiaFJOX3RrdEt3cU5YU3hmVmU2VFl0MTRqa0pJZDlxOVZkOGMwcy1lWkR2THQ2am4zZFFS?oc=5"
+        },
+        {
+          "source": "CNBC",
+          "title": "Alaska Sen. Sullivan says he'll accept election results, slams Peltola campaign’s reported recruitment of 2nd Sullivan",
+          "url": "https://www.cnbc.com/2026/11/01/alaska-senate-election-dan-sullivan-peltola.html"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
       "summary": [
         "Washington Post：Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
@@ -283,7 +304,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Sen. Chris Murphy hospitalized for stroke, his office says",
       "summary": [
         "Washington Post：Sen. Chris Murphy hospitalized for stroke, his office says",
@@ -304,7 +325,49 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "European supermarket freezers hit just weeks after French cyber attack",
+      "summary": [
+        "Financial Times：European supermarket freezers hit just weeks after French cyber attack",
+        "Tom's Hardware：Supermarket freezers across Europe struck in second crippling cyberattack — hackers raise temperatures to 50 degrees Celsius in Belgium and Sweden, destroying food stocks"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "European supermarket freezers hit just weeks after French cyber attack",
+          "url": "https://www.ft.com/content/2526056c-c616-4116-94b1-ac278da21cca?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "Supermarket freezers across Europe struck in second crippling cyberattack — hackers raise temperatures to 50 degrees Celsius in Belgium and Sweden, destroying food stocks",
+          "url": "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "The midterm election could reshape the muni bond market. Here’s what investors need to know",
+      "summary": [
+        "CNBC：The midterm election could reshape the muni bond market. Here’s what investors need to know",
+        "MarketWatch：Your stock portfolio increasingly hinges on the bond market — and the midterm elections"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "The midterm election could reshape the muni bond market. Here’s what investors need to know",
+          "url": "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
+          "url": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "「雷射滅蚊防空系統」：中國企業推出人工智慧滅蚊裝置- 紐約時報中文網",
       "summary": [
         "紐約時報中文：「雷射滅蚊防空系統」：中國企業推出人工智慧滅蚊裝置- 紐約時報中文網"
@@ -319,7 +382,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 9,
       "title": "日劇《Vivant》被指「辱華」，三麗鷗取消聯名合作- 紐約時報中文網",
       "summary": [
         "紐約時報中文：日劇《Vivant》被指「辱華」，三麗鷗取消聯名合作- 紐約時報中文網"
@@ -334,7 +397,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "中國前副總理劉延東去世：躋身共產黨高層的少數女性之一- 紐約時報中文網",
       "summary": [
         "紐約時報中文：中國前副總理劉延東去世：躋身共產黨高層的少數女性之一- 紐約時報中文網"
@@ -345,51 +408,6 @@
           "source": "紐約時報中文",
           "title": "中國前副總理劉延東去世：躋身共產黨高層的少數女性之一- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uZ1J1ZGFXbkJXbERLQ3V6MkdiZGQ5c2xQSDFkaVdvN2FsamZIMjZxWG1fb2kxcHV5TzRrQTNlVUtIX1c5M3B5Mmd0Qm5NU0FTM2ZUeXFYV2xCbEpfS0VRV0FlOUwxbzgwS29ETlVTSzQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "詳訊：李在明施政演說強調實現平衡發展造福全民",
-      "summary": [
-        "韓聯社：詳訊：李在明施政演說強調實現平衡發展造福全民"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "詳訊：李在明施政演說強調實現平衡發展造福全民",
-          "url": "https://cn.yna.co.kr/view/ACK20261102001800881"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "幣安63億美元駭客攻擊事件始末- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：幣安63億美元駭客攻擊事件始末- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "幣安63億美元駭客攻擊事件始末- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSllGa3hjTFJNS0ZPd1dER3FTdmV5WDJ4M3FRUjlTWFE5Zm9NOHdSdFpvZTFNUVI1a0UyUWpsaXFtVlJWZXNkYk5OQmNVNTExX25vSmFUckN3MWpyQlVfLVB1MHQ1bElTMGt5UUVLWm16Z1FPZFRxNlVGVzA4RmZmbHRYVE5XaE9qLXc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "在天安門屠殺現場，我目睹了中國人民非凡的勇氣- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：在天安門屠殺現場，我目睹了中國人民非凡的勇氣- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "在天安門屠殺現場，我目睹了中國人民非凡的勇氣- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQODFOVERfNm1GRWgzN24wNmtOdlNKTmxZeEVrbXhyWUdQZG41R2N3cTduYWxGNWdqNWtOUmhQN1pyckVhbUFDYS1HdWFZS3JXVm92YzRLY1NlSS04ejVWa0oxekpDVHlad0FHa1daWktlcURRaklocnlSZWhSaW5UZA?oc=5"
         }
       ]
     }
