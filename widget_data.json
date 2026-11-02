@@ -1,50 +1,8 @@
 {
-  "updated_at": "2026-11-02 11:59",
+  "updated_at": "2026-11-02 13:04",
   "taiwan": [
     {
       "rank": 1,
-      "title": "明華園《李靖斬龍》屏東登場 孫翠鳳領軍吸爆滿人潮",
-      "summary": [
-        "自由時報：明華園《李靖斬龍》屏東登場 孫翠鳳領軍吸爆滿人潮",
-        "ETtoday：朱立倫桃園站臺張善政、徐其萬！曝2014新北險勝　喊話一定要投票"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "明華園《李靖斬龍》屏東登場 孫翠鳳領軍吸爆滿人潮",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5626125"
-        },
-        {
-          "source": "ETtoday",
-          "title": "朱立倫桃園站臺張善政、徐其萬！曝2014新北險勝　喊話一定要投票",
-          "url": "https://www.ettoday.net/news/20261101/3264556.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "川普若輸期中選舉 路透：白宮規劃不靠國會施政路徑",
-      "summary": [
-        "自由時報：川普若輸期中選舉 路透：白宮規劃不靠國會施政路徑",
-        "ETtoday：川普若期中選舉輸掉國會　白宮傳已擬定不須國會同意的施政路徑"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "川普若輸期中選舉 路透：白宮規劃不靠國會施政路徑",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5626081"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普若期中選舉輸掉國會　白宮傳已擬定不須國會同意的施政路徑",
-          "url": "https://www.ettoday.net/news/20261102/3264582.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "川普預告民主黨若奪國會多數將成「否決先生」！揚言否決法案逼朝野協商",
       "summary": [
         "鉅亨網：川普預告民主黨若奪國會多數將成「否決先生」！揚言否決法案逼朝野協商",
@@ -65,7 +23,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "保加利亞總統決選出口民調：代理總統約託娃勝出",
       "summary": [
         "自由時報：保加利亞總統決選出口民調：代理總統約託娃勝出",
@@ -86,7 +44,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "阿拉斯加州參議員選戰撞名風波　川普政府提起訴訟遭駁回",
       "summary": [
         "自由時報：阿拉斯加州參議員選戰撞名風波　川普政府提起訴訟遭駁回",
@@ -107,7 +65,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "北臺灣今降溫！迎風面越晚雨越大 本週2波東北季風報到",
       "summary": [
         "自由時報：北臺灣今降溫！迎風面越晚雨越大 本週2波東北季風報到",
@@ -128,7 +86,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "佛州噴射客機俯衝墜毀爆出大火球  驚駭瞬間影片曝光",
       "summary": [
         "自由時報：佛州噴射客機俯衝墜毀爆出大火球  驚駭瞬間影片曝光",
@@ -149,7 +107,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "讓 AI 代理拿假金鑰辦事，機密管理新創 Infisical 完成 4 千萬美元 B 輪募資",
       "summary": [
         "科技新報：讓 AI 代理拿假金鑰辦事，機密管理新創 Infisical 完成 4 千萬美元 B 輪募資",
@@ -170,7 +128,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "AI回報疑慮衝擊 OpenAI融資目標大縮水百億美元-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：AI回報疑慮衝擊 OpenAI融資目標大縮水百億美元-新聞內容-基金",
@@ -191,7 +149,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "傳美以領袖討論伊朗局勢 納坦雅胡促川普大選後立即動武",
       "summary": [
         "自由時報：傳美以領袖討論伊朗局勢 納坦雅胡促川普大選後立即動武",
@@ -208,6 +166,48 @@
           "source": "經濟日報",
           "title": "美以領導人通話討論伊朗戰事　以方促期中選舉後立即攻擊",
           "url": "https://money.udn.com/money/story/5599/9851135"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "烏克蘭空襲警報App遇駭！全國突收「核戰警告」　稱極音速飛彈來襲",
+      "summary": [
+        "ETtoday：烏克蘭空襲警報App遇駭！全國突收「核戰警告」　稱極音速飛彈來襲",
+        "經濟日報：烏克蘭空軍：空襲警報系統遭敵對勢力幹擾"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "烏克蘭空襲警報App遇駭！全國突收「核戰警告」　稱極音速飛彈來襲",
+          "url": "https://www.ettoday.net/news/20261102/3264608.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "烏克蘭空軍：空襲警報系統遭敵對勢力幹擾",
+          "url": "https://money.udn.com/money/story/5599/9851021"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
+      "summary": [
+        "iThome：91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
+        "公開資訊觀測站重訊：91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
+          "url": "https://www.ithome.com.tw/news/180124"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42TlZkcHdZSVM5LXZ3NFhNeDUzcFJVZURlaWhLQlJzQl9oc0pnMWlOVU5xS3pTZ1N1QU02QVlUd2VYTzZlLVBnSmJsVWhXZw?oc=5"
         }
       ]
     }
@@ -263,48 +263,6 @@
     },
     {
       "rank": 3,
-      "title": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
-      "summary": [
-        "Washington Post：Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
-        "CNBC：Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV2VIWjBwNWdIYU1xNlFMQU5TazlOcnNhLS0tcG5aRjVrTVE4azlZUm1YRVJKTzRTSEE1UUZhX2NhLUtnTlVGbjJLREFPS1BYVlJnQWszZklmNndnV2R5MU1LRmg2RVV4dWVsSUFpZGRHT3FSYjVWeS1fS3ZWMVdvaXdMOHdNV0FJeElqMnJfNHlyQ1FXMlRoQ2REQmpzY3BERmRVTjIwLTJhSFp1dVY1SWM1Mk9xTGVvdUNrak9BQWVWZw?oc=5"
-        },
-        {
-          "source": "CNBC",
-          "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
-          "url": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Sen. Chris Murphy hospitalized for stroke, his office says",
-      "summary": [
-        "Washington Post：Sen. Chris Murphy hospitalized for stroke, his office says",
-        "CNBC：Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "Sen. Chris Murphy hospitalized for stroke, his office says",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZC1FLW8wYndWZjJyYl9IbTZLY3IxdzZEU1dodVA5eWR2WndWQUg1dnU0WnFlWjdsRUVOR08wNmtCbjhnb0s3Q0VxZFRTTm1jNk4yYjF5X1h6T2g1NzgzaEZwbzk1NUlzd3MyekdiQ2s1ZmlQTDE5VlNtM0N0NXk3X1NBdkdDU1FfbWkyM3ROLWdTUQ?oc=5"
-        },
-        {
-          "source": "CNBC",
-          "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-          "url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Business jet crashes in Florida, killing all nine on board",
       "summary": [
         "Washington Post：Business jet crashes in Florida, killing all nine on board",
@@ -325,22 +283,85 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Why is China Construction Bank stock climbing today?",
+      "rank": 4,
+      "title": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
       "summary": [
-        "Investing.com：Why is China Construction Bank stock climbing today?"
+        "Washington Post：Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
+        "CNBC：Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "Why is China Construction Bank stock climbing today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-china-construction-bank-stock-climbing-today-93CH-4989820"
+          "source": "Washington Post",
+          "title": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV2VIWjBwNWdIYU1xNlFMQU5TazlOcnNhLS0tcG5aRjVrTVE4azlZUm1YRVJKTzRTSEE1UUZhX2NhLUtnTlVGbjJLREFPS1BYVlJnQWszZklmNndnV2R5MU1LRmg2RVV4dWVsSUFpZGRHT3FSYjVWeS1fS3ZWMVdvaXdMOHdNV0FJeElqMnJfNHlyQ1FXMlRoQ2REQmpzY3BERmRVTjIwLTJhSFp1dVY1SWM1Mk9xTGVvdUNrak9BQWVWZw?oc=5"
+        },
+        {
+          "source": "CNBC",
+          "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
+          "url": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Sen. Chris Murphy hospitalized for stroke, his office says",
+      "summary": [
+        "Washington Post：Sen. Chris Murphy hospitalized for stroke, his office says",
+        "CNBC：Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "Sen. Chris Murphy hospitalized for stroke, his office says",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZC1FLW8wYndWZjJyYl9IbTZLY3IxdzZEU1dodVA5eWR2WndWQUg1dnU0WnFlWjdsRUVOR08wNmtCbjhnb0s3Q0VxZFRTTm1jNk4yYjF5X1h6T2g1NzgzaEZwbzk1NUlzd3MyekdiQ2s1ZmlQTDE5VlNtM0N0NXk3X1NBdkdDU1FfbWkyM3ROLWdTUQ?oc=5"
+        },
+        {
+          "source": "CNBC",
+          "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
+          "url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Binance Details $3.6 Billion in Net Outflows",
+      "summary": [
+        "Bloomberg Markets：Binance Details $3.6 Billion in Net Outflows",
+        "CNBC：Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Binance Details $3.6 Billion in Net Outflows",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-02/binance-details-3-6-billion-in-net-outflows-video"
+        },
+        {
+          "source": "CNBC",
+          "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
+          "url": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html"
         }
       ]
     },
     {
       "rank": 7,
+      "title": "中國前副總理劉延東去世：躋身共產黨高層的少數女性之一- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：中國前副總理劉延東去世：躋身共產黨高層的少數女性之一- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "中國前副總理劉延東去世：躋身共產黨高層的少數女性之一- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uZ1J1ZGFXbkJXbERLQ3V6MkdiZGQ5c2xQSDFkaVdvN2FsamZIMjZxWG1fb2kxcHV5TzRrQTNlVUtIX1c5M3B5Mmd0Qm5NU0FTM2ZUeXFYV2xCbEpfS0VRV0FlOUwxbzgwS29ETlVTSzQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "詳訊：李在明施政演說強調實現平衡發展造福全民",
       "summary": [
         "韓聯社：詳訊：李在明施政演說強調實現平衡發展造福全民"
@@ -355,7 +376,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
       "summary": [
         "Financial Times：Gulf braced for escalation of war between US-Israel alliance and Iran"
@@ -370,32 +391,17 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Howard Marks Says AI Stumbles Have Boosted Skepticism",
+      "rank": 10,
+      "title": "Oaktree’s Howard Marks Says AI Stumbles Boosted Skepticism",
       "summary": [
-        "Bloomberg Tech：Howard Marks Says AI Stumbles Have Boosted Skepticism"
+        "Bloomberg Tech：Oaktree’s Howard Marks Says AI Stumbles Boosted Skepticism"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "Howard Marks Says AI Stumbles Have Boosted Skepticism",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-02/howard-marks-says-ai-stumbles-have-boosted-skepticism-video"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "施泰因邁爾：當被問及是否將就烏克蘭問題舉行中美俄峰會? 習近平面露不悅之色",
-      "summary": [
-        "法廣RFI：施泰因邁爾：當被問及是否將就烏克蘭問題舉行中美俄峰會? 習近平面露不悅之色"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "施泰因邁爾：當被問及是否將就烏克蘭問題舉行中美俄峰會? 習近平面露不悅之色",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261101-%E6%96%BD%E6%B3%B0%E5%9B%A0%E9%82%81%E7%88%BE-%E7%95%B6%E8%A2%AB%E5%95%8F%E5%8F%8A%E6%98%AF%E5%90%A6%E5%B0%87%E5%B0%B1%E7%83%8F%E5%85%8B%E8%98%AD%E5%95%8F%E9%A1%8C%E8%88%89%E8%A1%8C%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%B3%B0%E6%9C%83-%E7%BF%92%E8%BF%91%E5%B9%B3%E9%9D%A2%E9%9C%B2%E4%B8%8D%E6%82%85%E4%B9%8B%E8%89%B2"
+          "title": "Oaktree’s Howard Marks Says AI Stumbles Boosted Skepticism",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/oaktree-s-howard-marks-says-ai-stumbles-have-boosted-skepticism"
         }
       ]
     }
