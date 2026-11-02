@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 19:57",
+  "updated_at": "2026-11-02 21:04",
   "taiwan": [
     {
       "rank": 1,
@@ -30,27 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "孫芸芸傳分居微風董座廖鎮漢   鬆口首回應",
-      "summary": [
-        "自由時報：孫芸芸傳分居微風董座廖鎮漢   鬆口首回應",
-        "TVBS新聞：臺股失守4萬5「最深逾800點」 聯發科.鴻海翻紅 臺達電股價腰斬｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "孫芸芸傳分居微風董座廖鎮漢   鬆口首回應",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5626171"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "臺股失守4萬5「最深逾800點」 聯發科.鴻海翻紅 臺達電股價腰斬｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mN2dGXzhkZEZLdmhVYVdXcGYtU1NUV3pjc3AxX0V6ODZHckRLZDBKQjZUaUxjWWlFUHJTdnA3dFVsa3E4RFNDbmJweTI5UW1RQ0RuY0xB?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
       "summary": [
         "iThome：91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
@@ -71,7 +50,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
       "summary": [
         "iThome：臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
@@ -92,112 +71,28 @@
       ]
     },
     {
+      "rank": 4,
+      "title": "焦點股》同欣電：陳泰銘概念股  登高表態",
+      "summary": [
+        "自由時報：焦點股》同欣電：陳泰銘概念股  登高表態",
+        "TVBS新聞：臺股失守4萬5「最深逾800點」 聯發科.鴻海翻紅 臺達電股價腰斬｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "焦點股》同欣電：陳泰銘概念股  登高表態",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5626310"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "臺股失守4萬5「最深逾800點」 聯發科.鴻海翻紅 臺達電股價腰斬｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mN2dGXzhkZEZLdmhVYVdXcGYtU1NUV3pjc3AxX0V6ODZHckRLZDBKQjZUaUxjWWlFUHJTdnA3dFVsa3E4RFNDbmJweTI5UW1RQ0RuY0xB?oc=5"
+        }
+      ]
+    },
+    {
       "rank": 5,
-      "title": "佛州噴射客機俯衝墜毀爆出大火球  驚駭瞬間影片曝光",
-      "summary": [
-        "自由時報：佛州噴射客機俯衝墜毀爆出大火球  驚駭瞬間影片曝光",
-        "ETtoday：快訊／美佛州私人飛機墜毀！燃巨大火球「全數罹難」　急墜8230公尺"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "佛州噴射客機俯衝墜毀爆出大火球  驚駭瞬間影片曝光",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5626174"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／美佛州私人飛機墜毀！燃巨大火球「全數罹難」　急墜8230公尺",
-          "url": "https://www.ettoday.net/news/20261102/3264603.htm"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "讓 AI 代理拿假金鑰辦事，機密管理新創 Infisical 完成 4 千萬美元 B 輪募資",
-      "summary": [
-        "科技新報：讓 AI 代理拿假金鑰辦事，機密管理新創 Infisical 完成 4 千萬美元 B 輪募資",
-        "iThome：Infisical募資4,000萬美元，擴充套件AI代理憑證保護與存取管理"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "讓 AI 代理拿假金鑰辦事，機密管理新創 Infisical 完成 4 千萬美元 B 輪募資",
-          "url": "https://finance.technews.tw/2026/11/02/this-600-million-startup-is-helping-keep-company-secrets-away-from-ai-agents/"
-        },
-        {
-          "source": "iThome",
-          "title": "Infisical募資4,000萬美元，擴充套件AI代理憑證保護與存取管理",
-          "url": "https://www.ithome.com.tw/news/180098"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "影/川普才離開！海湖莊園附近驚傳墜機9死 俯衝撞民宅畫面曝",
-      "summary": [
-        "經濟日報：影/川普才離開！海湖莊園附近驚傳墜機9死 俯衝撞民宅畫面曝",
-        "自由時報：意外還是恐攻？噴射機離奇轉向俯衝爆炸釀9死 離川普住所超近！"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "影/川普才離開！海湖莊園附近驚傳墜機9死 俯衝撞民宅畫面曝",
-          "url": "https://money.udn.com/money/story/5599/9851017"
-        },
-        {
-          "source": "自由時報",
-          "title": "意外還是恐攻？噴射機離奇轉向俯衝爆炸釀9死 離川普住所超近！",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5626819"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "罕見坦承恐敗選？川普：若民主黨贏國會 我就必須當「否決先生」",
-      "summary": [
-        "經濟日報：罕見坦承恐敗選？川普：若民主黨贏國會 我就必須當「否決先生」",
-        "關鍵評論網：民主黨有望贏得國會多數，白宮研擬繞過國會，川普：我會成為否決先生！"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "罕見坦承恐敗選？川普：若民主黨贏國會 我就必須當「否決先生」",
-          "url": "https://money.udn.com/money/story/5599/9851011"
-        },
-        {
-          "source": "關鍵評論網",
-          "title": "民主黨有望贏得國會多數，白宮研擬繞過國會，川普：我會成為否決先生！",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zYXh6cjFrMDl1eEktT2JPcThOeEVYNFB0T3JUa2JTOE5lZHNwMEpXcjlpUmlJTVpEQlVma3lsVzJwRkxESDNjcnJZT1NpOTlqYVEwRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "AI回報疑慮衝擊 OpenAI融資目標大縮水百億美元-新聞內容-基金",
-      "summary": [
-        "MoneyDJ理財網：AI回報疑慮衝擊 OpenAI融資目標大縮水百億美元-新聞內容-基金",
-        "科技新報：AI 回報疑慮衝擊  OpenAI 融資目標大縮水百億美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "AI回報疑慮衝擊 OpenAI融資目標大縮水百億美元-新聞內容-基金",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRWFWOW1fRlR5R21HemVzM3M2WXpKMnFrTHdQb3pwNm03UVNzcW54NHA3NlNpbUFVNjFHNTVvbTR2WnJHTWRSdUx1eUQ3R2pNWjJNbnR3Nkt0ekNkYkxFM1JJS05uNng0cnNMek9EQ3BuMFJnMG8xUk5GNjhlcjVNWUVWMGhoNEtPYWFFWFdzWHo?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "AI 回報疑慮衝擊  OpenAI 融資目標大縮水百億美元",
-          "url": "https://finance.technews.tw/2026/11/02/openai-slashes-funding-target-by-10bn-as-tech-anxieties-mount/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "傳美以領袖討論伊朗局勢 納坦雅胡促川普大選後立即動武",
       "summary": [
         "自由時報：傳美以領袖討論伊朗局勢 納坦雅胡促川普大選後立即動武",
@@ -216,33 +111,132 @@
           "url": "https://money.udn.com/money/story/5599/9851135"
         }
       ]
+    },
+    {
+      "rank": 6,
+      "title": "烏克蘭空襲警報App遇駭！全國突收「核戰警告」　稱極音速飛彈來襲",
+      "summary": [
+        "ETtoday：烏克蘭空襲警報App遇駭！全國突收「核戰警告」　稱極音速飛彈來襲",
+        "經濟日報：烏克蘭空軍：空襲警報系統遭敵對勢力幹擾"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "烏克蘭空襲警報App遇駭！全國突收「核戰警告」　稱極音速飛彈來襲",
+          "url": "https://www.ettoday.net/news/20261102/3264608.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "烏克蘭空軍：空襲警報系統遭敵對勢力幹擾",
+          "url": "https://money.udn.com/money/story/5599/9851021"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "看好臺積電效應 臺灣投資人從臺南追到鳳凰城 美廠周邊房價6年漲53%",
+      "summary": [
+        "經濟日報：看好臺積電效應 臺灣投資人從臺南追到鳳凰城 美廠周邊房價6年漲53%",
+        "中時新聞：跟著臺積電買房就對了？臺灣資金跨海掃地 美廠周邊房價狂漲53％"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "看好臺積電效應 臺灣投資人從臺南追到鳳凰城 美廠周邊房價6年漲53%",
+          "url": "https://money.udn.com/money/story/5599/9851118"
+        },
+        {
+          "source": "中時新聞",
+          "title": "跟著臺積電買房就對了？臺灣資金跨海掃地 美廠周邊房價狂漲53％",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZSU80OGpOVnhvaERBNHZXM2lBRXBGTlhMbkxBUEhRek5WMEMyMXpTR0lUVF9QZnJZOHpRNnBNeGxsd3Ixazl6d0lPSWRodE9JbVVGcWVZaGtGazVrNDlLM3dmMVctUmg5ZmFSbllB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "冰島藍湖溫泉業者11月擬上市　估募資36.4億元",
+      "summary": [
+        "經濟日報：冰島藍湖溫泉業者11月擬上市　估募資36.4億元",
+        "科技新報：冰島藍湖溫泉業者 11 月擬上市，估募資 36.4 億元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "冰島藍湖溫泉業者11月擬上市　估募資36.4億元",
+          "url": "https://money.udn.com/money/story/5599/9851180"
+        },
+        {
+          "source": "科技新報",
+          "title": "冰島藍湖溫泉業者 11 月擬上市，估募資 36.4 億元",
+          "url": "https://finance.technews.tw/2026/11/02/blue-lagoon-owner-plans-to-float-as-icelandic-tourism-booms/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普狂語「一週打贏越戰」！稱炸翻胡志明市 歷史大烏龍遭打臉",
+      "summary": [
+        "自由時報：川普狂語「一週打贏越戰」！稱炸翻胡志明市 歷史大烏龍遭打臉",
+        "經濟日報：川普喊美國本可以「一週內打贏越戰」想炸胡志明市 慘被網友打臉"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川普狂語「一週打贏越戰」！稱炸翻胡志明市 歷史大烏龍遭打臉",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5626327"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普喊美國本可以「一週內打贏越戰」想炸胡志明市 慘被網友打臉",
+          "url": "https://money.udn.com/money/story/5599/9852225"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "助攻未來火星任務　NASA太空人隔離378天後首踏出模擬艙",
+      "summary": [
+        "經濟日報：助攻未來火星任務　NASA太空人隔離378天後首踏出模擬艙",
+        "科技新報：助攻未來火星任務，NASA 太空人隔離 378 天後首踏出模擬艙"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "助攻未來火星任務　NASA太空人隔離378天後首踏出模擬艙",
+          "url": "https://money.udn.com/money/story/5599/9851429"
+        },
+        {
+          "source": "科技新報",
+          "title": "助攻未來火星任務，NASA 太空人隔離 378 天後首踏出模擬艙",
+          "url": "https://technews.tw/2026/11/02/chapea-mission-2-egress/"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
+      "title": "Shop freezers in six European countries hit by suspected cyber-attack",
       "summary": [
-        "BBC World：Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
-        "Financial Times：European supermarket freezers hit just weeks after French cyber attack",
-        "Tom's Hardware：Supermarket freezers across Europe struck in second crippling cyberattack — hackers raise temperatures to 50 degrees Celsius in Belgium and Sweden, destroying food stocks"
+        "BBC World：Shop freezers in six European countries hit by suspected cyber-attack",
+        "Bloomberg Tech：Supermarkets in Belgium, Ireland, Sweden, Finland Hit by Suspected Freezer Hack"
       ],
-      "media_count": 3,
+      "media_count": 2,
       "links": [
         {
           "source": "BBC World",
-          "title": "Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
+          "title": "Shop freezers in six European countries hit by suspected cyber-attack",
           "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Financial Times",
-          "title": "European supermarket freezers hit just weeks after French cyber attack",
-          "url": "https://www.ft.com/content/2526056c-c616-4116-94b1-ac278da21cca?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "Supermarket freezers across Europe struck in second crippling cyberattack — hackers raise temperatures to 50 degrees Celsius in Belgium and Sweden, destroying food stocks",
-          "url": "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks"
+          "source": "Bloomberg Tech",
+          "title": "Supermarkets in Belgium, Ireland, Sweden, Finland Hit by Suspected Freezer Hack",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/belgian-swedish-supermarkets-report-new-suspected-freezer-hack"
         }
       ]
     },
@@ -353,6 +347,27 @@
     },
     {
       "rank": 7,
+      "title": "European supermarket freezers hit just weeks after French cyber attack",
+      "summary": [
+        "Financial Times：European supermarket freezers hit just weeks after French cyber attack",
+        "Tom's Hardware：Supermarket freezers across Europe struck in second crippling cyberattack"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "European supermarket freezers hit just weeks after French cyber attack",
+          "url": "https://www.ft.com/content/2526056c-c616-4116-94b1-ac278da21cca?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "Supermarket freezers across Europe struck in second crippling cyberattack",
+          "url": "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "「雷射滅蚊防空系統」：中國企業推出人工智慧滅蚊裝置- 紐約時報中文網",
       "summary": [
         "紐約時報中文：「雷射滅蚊防空系統」：中國企業推出人工智慧滅蚊裝置- 紐約時報中文網"
@@ -367,7 +382,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "日劇《Vivant》被指「辱華」，三麗鷗取消聯名合作- 紐約時報中文網",
       "summary": [
         "紐約時報中文：日劇《Vivant》被指「辱華」，三麗鷗取消聯名合作- 紐約時報中文網"
@@ -382,7 +397,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "中國前副總理劉延東去世：躋身共產黨高層的少數女性之一- 紐約時報中文網",
       "summary": [
         "紐約時報中文：中國前副總理劉延東去世：躋身共產黨高層的少數女性之一- 紐約時報中文網"
@@ -393,21 +408,6 @@
           "source": "紐約時報中文",
           "title": "中國前副總理劉延東去世：躋身共產黨高層的少數女性之一- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uZ1J1ZGFXbkJXbERLQ3V6MkdiZGQ5c2xQSDFkaVdvN2FsamZIMjZxWG1fb2kxcHV5TzRrQTNlVUtIX1c5M3B5Mmd0Qm5NU0FTM2ZUeXFYV2xCbEpfS0VRV0FlOUwxbzgwS29ETlVTSzQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "詳訊：李在明施政演說強調實現平衡發展造福全民",
-      "summary": [
-        "韓聯社：詳訊：李在明施政演說強調實現平衡發展造福全民"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "詳訊：李在明施政演說強調實現平衡發展造福全民",
-          "url": "https://cn.yna.co.kr/view/ACK20261102001800881"
         }
       ]
     }
