@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-02 16:49",
+  "updated_at": "2026-11-02 18:05",
   "taiwan": [
     {
       "rank": 1,
+      "title": "Binance遭竊約63億美元加密貨幣，創史上最大竊案，調查指向北韓駭客",
+      "summary": [
+        "iThome：Binance遭竊約63億美元加密貨幣，創史上最大竊案，調查指向北韓駭客",
+        "數位時代：幣安史上最大劫案！FBI控北韓駭客盜走60億美元，活動代號「TraderTraitor」有何來頭？",
+        "科技報橘：史上最大加密貨幣竊案：FBI 指北韓盜走幣安逾 60 億美元，私鑰未外洩為何仍失守？"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "Binance遭竊約63億美元加密貨幣，創史上最大竊案，調查指向北韓駭客",
+          "url": "https://www.ithome.com.tw/news/180126"
+        },
+        {
+          "source": "數位時代",
+          "title": "幣安史上最大劫案！FBI控北韓駭客盜走60億美元，活動代號「TraderTraitor」有何來頭？",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOGVJVWxxbXlabHg4a1BrVk50U29LY1pHLUpBdWJoZ05fZC1ZemVNdzdnREN6LUFaMWw5UmlXSGVSUGh6cWwzN3I5V3NTdEtZeUhibzNDWjZuWWpmejhYVjJJSmVuejdaX1NPXzBwUjFLYUlrS2tPTXpkcGpucndoclpKaXdwSWR2X2ZYMQ?oc=5"
+        },
+        {
+          "source": "科技報橘",
+          "title": "史上最大加密貨幣竊案：FBI 指北韓盜走幣安逾 60 億美元，私鑰未外洩為何仍失守？",
+          "url": "https://techorange.com/2026/11/02/binance-hack-north-korea-attack-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
       "summary": [
         "iThome：91APP遭駭波及臺灣無印良品，官網購物訂單資料恐外洩，日本MUJI App也傳不同資安事件",
@@ -23,7 +50,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
       "summary": [
         "iThome：臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
@@ -40,27 +67,6 @@
           "source": "公開資訊觀測站重訊",
           "title": "臺數科及子公司遭駭客攻擊，部分伺服器檔案遭加密",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DQVNIVnQ2ajhnYUVfZWpvN1pHazdYeXhhSE9Ici1JVzUxd2RUTXNpWGNHdm5QN3F1V1A3VXlGZUtxUzRwWU9PTVA5X2JMZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "保加利亞總統決選出口民調：代理總統約託娃勝出",
-      "summary": [
-        "自由時報：保加利亞總統決選出口民調：代理總統約託娃勝出",
-        "經濟日報：保加利亞總統決選出口民調：代理總統約託娃勝出"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "保加利亞總統決選出口民調：代理總統約託娃勝出",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5626159"
-        },
-        {
-          "source": "經濟日報",
-          "title": "保加利亞總統決選出口民調：代理總統約託娃勝出",
-          "url": "https://money.udn.com/money/story/5599/9850938"
         }
       ]
     },
