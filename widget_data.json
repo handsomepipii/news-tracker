@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 13:04",
+  "updated_at": "2026-11-02 14:05",
   "taiwan": [
     {
       "rank": 1,
@@ -242,48 +242,6 @@
     },
     {
       "rank": 2,
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "summary": [
-        "BBC World：Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-        "Financial Times：Michigan Democrat endorses Republican as feud roils key Senate race"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-          "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Financial Times",
-          "title": "Michigan Democrat endorses Republican as feud roils key Senate race",
-          "url": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Business jet crashes in Florida, killing all nine on board",
-      "summary": [
-        "Washington Post：Business jet crashes in Florida, killing all nine on board",
-        "Financial Times：Nine killed as business jet crashes in Florida"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "Business jet crashes in Florida, killing all nine on board",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnRBcWd0S294U3RpR25LbnY3SktPZU51bXR6MlpCbFBucWdhSGo0UWdKRThucWprbE4xdUJlbkIwQ01vUndCVTRHdTRaUDVlT0VTTnBzMEhjR2VsWVJjSTFrZ0p0YjhmZjBMc3hmQXJNbG42LVpVYlVUdURvdmRIRVR0SVp4SERNQ00yQ2pwRTRzMHdleW5pZjBveWlZWjNSbDJn?oc=5"
-        },
-        {
-          "source": "Financial Times",
-          "title": "Nine killed as business jet crashes in Florida",
-          "url": "https://www.ft.com/content/2bd1e339-98b2-43a9-a0e6-812736abedf8?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
       "summary": [
         "Washington Post：Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
@@ -304,7 +262,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "Sen. Chris Murphy hospitalized for stroke, his office says",
       "summary": [
         "Washington Post：Sen. Chris Murphy hospitalized for stroke, his office says",
@@ -325,7 +283,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "Binance Details $3.6 Billion in Net Outflows",
       "summary": [
         "Bloomberg Markets：Binance Details $3.6 Billion in Net Outflows",
@@ -346,7 +304,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "中國前副總理劉延東去世：躋身共產黨高層的少數女性之一- 紐約時報中文網",
       "summary": [
         "紐約時報中文：中國前副總理劉延東去世：躋身共產黨高層的少數女性之一- 紐約時報中文網"
@@ -361,7 +319,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "詳訊：李在明施政演說強調實現平衡發展造福全民",
       "summary": [
         "韓聯社：詳訊：李在明施政演說強調實現平衡發展造福全民"
@@ -376,22 +334,22 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
+      "rank": 7,
+      "title": "幣安63億美元駭客攻擊事件始末- 紐約時報中文網",
       "summary": [
-        "Financial Times：Gulf braced for escalation of war between US-Israel alliance and Iran"
+        "紐約時報中文：幣安63億美元駭客攻擊事件始末- 紐約時報中文網"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
-          "url": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1"
+          "source": "紐約時報中文",
+          "title": "幣安63億美元駭客攻擊事件始末- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSllGa3hjTFJNS0ZPd1dER3FTdmV5WDJ4M3FRUjlTWFE5Zm9NOHdSdFpvZTFNUVI1a0UyUWpsaXFtVlJWZXNkYk5OQmNVNTExX25vSmFUckN3MWpyQlVfLVB1MHQ1bElTMGt5UUVLWm16Z1FPZFRxNlVGVzA4RmZmbHRYVE5XaE9qLXc?oc=5"
         }
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Oaktree’s Howard Marks Says AI Stumbles Boosted Skepticism",
       "summary": [
         "Bloomberg Tech：Oaktree’s Howard Marks Says AI Stumbles Boosted Skepticism"
@@ -402,6 +360,36 @@
           "source": "Bloomberg Tech",
           "title": "Oaktree’s Howard Marks Says AI Stumbles Boosted Skepticism",
           "url": "https://www.bloomberg.com/news/articles/2026-11-02/oaktree-s-howard-marks-says-ai-stumbles-have-boosted-skepticism"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "波蘭政治危機：布魯塞爾向波蘭總統施壓",
+      "summary": [
+        "法廣RFI：波蘭政治危機：布魯塞爾向波蘭總統施壓"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "波蘭政治危機：布魯塞爾向波蘭總統施壓",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261101-%E6%B3%A2%E8%98%AD%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%A9%9F-%E5%B8%83%E9%AD%AF%E5%A1%9E%E7%88%BE%E5%90%91%E6%B3%A2%E8%98%AD%E7%B8%BD%E7%B5%B1%E6%96%BD%E5%A3%93"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "青年和平示威活動之後是騷亂",
+      "summary": [
+        "法廣RFI：青年和平示威活動之後是騷亂"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "青年和平示威活動之後是騷亂",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261101-%E9%9D%92%E5%B9%B4%E5%92%8C%E5%B9%B3%E7%A4%BA%E5%A8%81%E6%B4%BB%E5%8B%95%E4%B9%8B%E5%BE%8C%E6%98%AF%E9%A8%B7%E4%BA%82"
         }
       ]
     }
