@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 19:03",
+  "updated_at": "2026-11-02 19:57",
   "taiwan": [
     {
       "rank": 1,
@@ -30,22 +30,22 @@
     },
     {
       "rank": 2,
-      "title": "北臺灣今降溫！迎風面越晚雨越大 本週2波東北季風報到",
+      "title": "孫芸芸傳分居微風董座廖鎮漢   鬆口首回應",
       "summary": [
-        "自由時報：北臺灣今降溫！迎風面越晚雨越大 本週2波東北季風報到",
-        "TVBS新聞：天氣/ 越晚下雨機率高! 東部較大雨 新竹今晨17.9度｜氣象主播 張蕙纖｜早安氣象｜TVBS新聞 20261102 @TVBSNEWS01"
+        "自由時報：孫芸芸傳分居微風董座廖鎮漢   鬆口首回應",
+        "TVBS新聞：臺股失守4萬5「最深逾800點」 聯發科.鴻海翻紅 臺達電股價腰斬｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "北臺灣今降溫！迎風面越晚雨越大 本週2波東北季風報到",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5626166"
+          "title": "孫芸芸傳分居微風董座廖鎮漢   鬆口首回應",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5626171"
         },
         {
           "source": "TVBS新聞",
-          "title": "天氣/ 越晚下雨機率高! 東部較大雨 新竹今晨17.9度｜氣象主播 張蕙纖｜早安氣象｜TVBS新聞 20261102 @TVBSNEWS01",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mcFozZ2NGOWFJdWpfRk5hR05RSm13ejBTWXJ6OE1Dbk01Q3R3RklQbng5SW5ZYVZaR1FCaHZDZ0RfeWc4azlYV1V3RS1FaGZHSkZZd0Nn?oc=5"
+          "title": "臺股失守4萬5「最深逾800點」 聯發科.鴻海翻紅 臺達電股價腰斬｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mN2dGXzhkZEZLdmhVYVdXcGYtU1NUV3pjc3AxX0V6ODZHckRLZDBKQjZUaUxjWWlFUHJTdnA3dFVsa3E4RFNDbmJweTI5UW1RQ0RuY0xB?oc=5"
         }
       ]
     },
@@ -221,6 +221,33 @@
   "global": [
     {
       "rank": 1,
+      "title": "Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
+      "summary": [
+        "BBC World：Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
+        "Financial Times：European supermarket freezers hit just weeks after French cyber attack",
+        "Tom's Hardware：Supermarket freezers across Europe struck in second crippling cyberattack — hackers raise temperatures to 50 degrees Celsius in Belgium and Sweden, destroying food stocks"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
+          "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Financial Times",
+          "title": "European supermarket freezers hit just weeks after French cyber attack",
+          "url": "https://www.ft.com/content/2526056c-c616-4116-94b1-ac278da21cca?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "Supermarket freezers across Europe struck in second crippling cyberattack — hackers raise temperatures to 50 degrees Celsius in Belgium and Sweden, destroying food stocks",
+          "url": "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
       "summary": [
         "BBC World：Binance users withdraw $3.6bn after largest-ever crypto hack",
@@ -241,7 +268,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Binance resumes customer withdrawals after record $6.3bn hack",
       "summary": [
         "The Guardian：Binance resumes customer withdrawals after record $6.3bn hack",
@@ -262,7 +289,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Sen. Dan Sullivan says he will accept Alaska’s election results even if he doesn’t win",
       "summary": [
         "Washington Post：Sen. Dan Sullivan says he will accept Alaska’s election results even if he doesn’t win",
@@ -283,7 +310,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
       "summary": [
         "Washington Post：Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
@@ -304,7 +331,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Sen. Chris Murphy hospitalized for stroke, his office says",
       "summary": [
         "Washington Post：Sen. Chris Murphy hospitalized for stroke, his office says",
@@ -325,49 +352,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "European supermarket freezers hit just weeks after French cyber attack",
-      "summary": [
-        "Financial Times：European supermarket freezers hit just weeks after French cyber attack",
-        "Tom's Hardware：Supermarket freezers across Europe struck in second crippling cyberattack — hackers raise temperatures to 50 degrees Celsius in Belgium and Sweden, destroying food stocks"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "European supermarket freezers hit just weeks after French cyber attack",
-          "url": "https://www.ft.com/content/2526056c-c616-4116-94b1-ac278da21cca?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "Supermarket freezers across Europe struck in second crippling cyberattack — hackers raise temperatures to 50 degrees Celsius in Belgium and Sweden, destroying food stocks",
-          "url": "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks"
-        }
-      ]
-    },
-    {
       "rank": 7,
-      "title": "The midterm election could reshape the muni bond market. Here’s what investors need to know",
-      "summary": [
-        "CNBC：The midterm election could reshape the muni bond market. Here’s what investors need to know",
-        "MarketWatch：Your stock portfolio increasingly hinges on the bond market — and the midterm elections"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "The midterm election could reshape the muni bond market. Here’s what investors need to know",
-          "url": "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
-          "url": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "「雷射滅蚊防空系統」：中國企業推出人工智慧滅蚊裝置- 紐約時報中文網",
       "summary": [
         "紐約時報中文：「雷射滅蚊防空系統」：中國企業推出人工智慧滅蚊裝置- 紐約時報中文網"
@@ -382,7 +367,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "日劇《Vivant》被指「辱華」，三麗鷗取消聯名合作- 紐約時報中文網",
       "summary": [
         "紐約時報中文：日劇《Vivant》被指「辱華」，三麗鷗取消聯名合作- 紐約時報中文網"
@@ -397,7 +382,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "中國前副總理劉延東去世：躋身共產黨高層的少數女性之一- 紐約時報中文網",
       "summary": [
         "紐約時報中文：中國前副總理劉延東去世：躋身共產黨高層的少數女性之一- 紐約時報中文網"
@@ -408,6 +393,21 @@
           "source": "紐約時報中文",
           "title": "中國前副總理劉延東去世：躋身共產黨高層的少數女性之一- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uZ1J1ZGFXbkJXbERLQ3V6MkdiZGQ5c2xQSDFkaVdvN2FsamZIMjZxWG1fb2kxcHV5TzRrQTNlVUtIX1c5M3B5Mmd0Qm5NU0FTM2ZUeXFYV2xCbEpfS0VRV0FlOUwxbzgwS29ETlVTSzQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "詳訊：李在明施政演說強調實現平衡發展造福全民",
+      "summary": [
+        "韓聯社：詳訊：李在明施政演說強調實現平衡發展造福全民"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "詳訊：李在明施政演說強調實現平衡發展造福全民",
+          "url": "https://cn.yna.co.kr/view/ACK20261102001800881"
         }
       ]
     }
