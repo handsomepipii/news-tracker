@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 13:57",
+  "updated_at": "2026-11-03 15:06",
   "taiwan": [
     {
       "rank": 1,
@@ -30,27 +30,48 @@
     },
     {
       "rank": 2,
-      "title": "川普政府訴請最高法院介入　阻加州計逾2萬郵寄票",
+      "title": "舊北投市場拆除工程鷹架倒塌釀4傷 攤商目擊驚險瞬間：突然整個垮下來",
       "summary": [
-        "自由時報：川普政府訴請最高法院介入　阻加州計逾2萬郵寄票",
-        "經濟日報：川普政府訴請最高法院介入　阻加州計逾2萬郵寄票"
+        "自由時報：舊北投市場拆除工程鷹架倒塌釀4傷 攤商目擊驚險瞬間：突然整個垮下來",
+        "ETtoday：恐怖瞬間曝！北投市場鷹架倒塌釀4傷　眾人驚逃阿伯遭猛砸倒地"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "川普政府訴請最高法院介入　阻加州計逾2萬郵寄票",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5627240"
+          "title": "舊北投市場拆除工程鷹架倒塌釀4傷 攤商目擊驚險瞬間：突然整個垮下來",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5627596"
         },
         {
-          "source": "經濟日報",
-          "title": "川普政府訴請最高法院介入　阻加州計逾2萬郵寄票",
-          "url": "https://money.udn.com/money/story/5599/9853174"
+          "source": "ETtoday",
+          "title": "恐怖瞬間曝！北投市場鷹架倒塌釀4傷　眾人驚逃阿伯遭猛砸倒地",
+          "url": "https://www.ettoday.net/news/20261103/3265584.htm"
         }
       ]
     },
     {
       "rank": 3,
+      "title": "歐洲7國超市冰箱遭駭　攻擊手法與幕後黑手一次看",
+      "summary": [
+        "經濟日報：歐洲7國超市冰箱遭駭　攻擊手法與幕後黑手一次看",
+        "公視新聞：20261103 公視早安新聞 完整版（無網路版權內容除外）｜冰箱被改為解凍模式 歐洲多國超市系統遭駭客攻擊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "歐洲7國超市冰箱遭駭　攻擊手法與幕後黑手一次看",
+          "url": "https://money.udn.com/money/story/5599/9853418"
+        },
+        {
+          "source": "公視新聞",
+          "title": "20261103 公視早安新聞 完整版（無網路版權內容除外）｜冰箱被改為解凍模式 歐洲多國超市系統遭駭客攻擊",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HMUtKMi1EcjZ0SFFvUmgwcHpCaUFLTHozc044bDBNQW9JUnlHNkp1dTg5MVk3Zk8xR1ZRd0NUNGNMRFVTeWk3bzZtZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "俄軍空襲烏克蘭東南部村莊　至少18死27人失聯",
       "summary": [
         "自由時報：俄軍空襲烏克蘭東南部村莊　至少18死27人失聯",
@@ -71,7 +92,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "涉跟監蕭美琴！中國記者獲判無罪當庭釋放 捷克情報局屢警示防堵臺捷合作",
       "summary": [
         "自由時報：涉跟監蕭美琴！中國記者獲判無罪當庭釋放 捷克情報局屢警示防堵臺捷合作",
@@ -92,7 +113,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "數發部督促TWCA完成產製符合標準新憑證將針對違約情事進行調查- 要聞",
       "summary": [
         "工商時報：數發部督促TWCA完成產製符合標準新憑證將針對違約情事進行調查- 要聞",
@@ -113,7 +134,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "甲骨文拚 AI 不縮手 再籌資200億美元",
       "summary": [
         "經濟日報：甲骨文拚 AI 不縮手 再籌資200億美元",
@@ -134,7 +155,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "美免稅計畫排除南非盧安達　指涉貿易障礙與威脅利益",
       "summary": [
         "自由時報：美免稅計畫排除南非盧安達　指涉貿易障礙與威脅利益",
@@ -155,7 +176,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "期中選舉前夕　川普否認選後攻擊伊朗、稱可能達協議",
       "summary": [
         "自由時報：期中選舉前夕　川普否認選後攻擊伊朗、稱可能達協議",
@@ -176,7 +197,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "蘋果Q4營收優於預期　受惠iPhone銷售強勁",
       "summary": [
         "經濟日報：蘋果Q4營收優於預期　受惠iPhone銷售強勁",
@@ -193,27 +214,6 @@
           "source": "iThome",
           "title": "蘋果Q4營收成長12%創同期新高，iPhone與Mac業務強勁成長",
           "url": "https://www.ithome.com.tw/news/180162"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失",
-      "summary": [
-        "財訊：大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失",
-        "公開資訊觀測站重訊：大同華映案達和解！去年提列損失有望回沖約百億元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "財訊",
-          "title": "大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00VHY5dTJ5c01INVpEUklXWEtBdi1FT1hSRDdjX1ZoTVBFaGRDYmYwaTJkcDFhUXZ0S1JuNUJuZVctVUg0eHBaWGVacEE1RXV6WXQyUHlCV1JqVFVsQk5UMV9RVmxvNEMzNkRZUzU3M1pQanJrYW1sM3RvUQ?oc=5"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "大同華映案達和解！去年提列損失有望回沖約百億元",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWktkZ2VFYmgyU3c4anZxZGxUMFdKWHd6aFhCNElEazEtTXdGbTBBbVhkYy1ZS010d2Zodld0WGJpYk9GN015N2RXNHc4cDBleEVPckZUSnFjZ9IBX0FVX3lxTFBlSGt1Skd5UUcta3czVFB3RjZsbGh2MHNUM1lxLWQ3a2JGcktzR2pVODlvV1c5cVZiOWVXcWptUWh1Qy1sUm1YVXItbGloNklmYW43Ql9UOTlqZ285Mmhj?oc=5"
         }
       ]
     }
@@ -242,6 +242,27 @@
     },
     {
       "rank": 2,
+      "title": "朝鮮進行戰略巡航導彈散佈戰鬥部威力評估試驗",
+      "summary": [
+        "韓聯社：朝鮮進行戰略巡航導彈散佈戰鬥部威力評估試驗",
+        "NHK新聞：北朝鮮が巡航ミサイルの発射実験を実施"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "朝鮮進行戰略巡航導彈散佈戰鬥部威力評估試驗",
+          "url": "https://cn.yna.co.kr/view/ACK20261103000800881"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "北朝鮮が巡航ミサイルの発射実験を実施",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261103de69951"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
       "summary": [
         "BBC World：Supreme Court rejects Trump's request to stop California counting disputed votes",
@@ -262,7 +283,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "North Korea denies being behind record $6.3bn Binance hack",
       "summary": [
         "BBC World：North Korea denies being behind record $6.3bn Binance hack",
@@ -283,28 +304,28 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Oracle Raises $20 Billion for AI Growth as Meta Weighs New Debt",
+      "rank": 5,
+      "title": "US strikes Iran’s Qeshm Island on eve of election",
       "summary": [
-        "Bloomberg Markets：Oracle Raises $20 Billion for AI Growth as Meta Weighs New Debt",
-        "Investing.com：Oracle taps investors for $20 billion to finance AI expansion"
+        "Financial Times：US strikes Iran’s Qeshm Island on eve of election",
+        "CNBC：U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "Oracle Raises $20 Billion for AI Growth as Meta Weighs New Debt",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds"
+          "source": "Financial Times",
+          "title": "US strikes Iran’s Qeshm Island on eve of election",
+          "url": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1"
         },
         {
-          "source": "Investing.com",
-          "title": "Oracle taps investors for $20 billion to finance AI expansion",
-          "url": "https://www.investing.com/news/stock-market-news/oracle-to-offer-10-billion-in-bonds-4991687"
+          "source": "CNBC",
+          "title": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
+          "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "快訊：韓國10月CPI同比上漲2.8%",
       "summary": [
         "韓聯社：快訊：韓國10月CPI同比上漲2.8%"
@@ -319,7 +340,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "未完成的勝利：美國中期選舉前瞻與特朗普的加密政策遺產",
       "summary": [
         "FT中文網：未完成的勝利：美國中期選舉前瞻與特朗普的加密政策遺產"
@@ -334,7 +355,22 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "金與正：美指朝鮮為幣安駭客攻擊幕後黑手系政治挑釁",
+      "summary": [
+        "韓聯社：金與正：美指朝鮮為幣安駭客攻擊幕後黑手系政治挑釁"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "金與正：美指朝鮮為幣安駭客攻擊幕後黑手系政治挑釁",
+          "url": "https://cn.yna.co.kr/view/ACK20261103000700881"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "中國技術出口管制升級：利用工業優勢構建經濟武器庫- 紐約時報中文網",
       "summary": [
         "紐約時報中文：中國技術出口管制升級：利用工業優勢構建經濟武器庫- 紐約時報中文網"
@@ -349,47 +385,17 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "出口訂單走弱 中國10月PMI回落至榮枯線以下",
-      "summary": [
-        "德國之聲：出口訂單走弱 中國10月PMI回落至榮枯線以下"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "出口訂單走弱 中國10月PMI回落至榮枯線以下",
-          "url": "https://www.dw.com/zh/出口订单走弱-中国10月pmi回落至荣枯线以下/a-79815809?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "特朗普稱會赦免馬斯克，以避免民主黨選舉獲勝後展開調查",
-      "summary": [
-        "法廣RFI：特朗普稱會赦免馬斯克，以避免民主黨選舉獲勝後展開調查"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "特朗普稱會赦免馬斯克，以避免民主黨選舉獲勝後展開調查",
-          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261102-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%9C%83%E8%B5%A6%E5%85%8D%E9%A6%AC%E6%96%AF%E5%85%8B%EF%BC%8C%E4%BB%A5%E9%81%BF%E5%85%8D%E6%B0%91%E4%B8%BB%E9%BB%A8%E9%81%B8%E8%88%89%E7%8D%B2%E5%8B%9D%E5%BE%8C%E5%B1%95%E9%96%8B%E8%AA%BF%E6%9F%A5"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "美國佛州發生空難　機上九人無一生還",
+      "title": "中國間諜活動：利用虛假身份竊取德國科研成果",
       "summary": [
-        "法廣RFI：美國佛州發生空難　機上九人無一生還"
+        "法廣RFI：中國間諜活動：利用虛假身份竊取德國科研成果"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "美國佛州發生空難　機上九人無一生還",
-          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261102-%E7%BE%8E%E5%9C%8B%E4%BD%9B%E5%B7%9E%E7%99%BC%E7%94%9F%E7%A9%BA%E9%9B%A3-%E6%A9%9F%E4%B8%8A%E4%B9%9D%E4%BA%BA%E7%84%A1%E4%B8%80%E7%94%9F%E9%82%84"
+          "title": "中國間諜活動：利用虛假身份竊取德國科研成果",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261102-%E4%B8%AD%E5%9C%8B%E9%96%93%E8%AB%9C%E6%B4%BB%E5%8B%95-%E5%88%A9%E7%94%A8%E8%99%9B%E5%81%87%E8%BA%AB%E4%BB%BD%E7%AB%8A%E5%8F%96%E5%BE%B7%E5%9C%8B%E7%A7%91%E7%A0%94%E6%88%90%E6%9E%9C"
         }
       ]
     }
