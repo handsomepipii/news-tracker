@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 05:48",
+  "updated_at": "2026-11-04 06:46",
   "taiwan": [
     {
       "rank": 1,
@@ -51,6 +51,27 @@
     },
     {
       "rank": 3,
+      "title": "立冬運勢出爐  命理師謝沅瑾點名5生肖千萬注意",
+      "summary": [
+        "自由時報：立冬運勢出爐  命理師謝沅瑾點名5生肖千萬注意",
+        "ETtoday：冬盟臺灣雙軍名單出爐！張建銘、高國輝首掌兵符　旅美廖宥霖參戰"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "立冬運勢出爐  命理師謝沅瑾點名5生肖千萬注意",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5628297"
+        },
+        {
+          "source": "ETtoday",
+          "title": "冬盟臺灣雙軍名單出爐！張建銘、高國輝首掌兵符　旅美廖宥霖參戰",
+          "url": "https://sports.ettoday.net/news/3265846"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "顧安生病逝「胡錦一直在哭」！　粘嫦鈺PO文悼念揭私下對話",
       "summary": [
         "ETtoday：顧安生病逝「胡錦一直在哭」！　粘嫦鈺PO文悼念揭私下對話",
@@ -71,7 +92,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "臺籍女子涉走私2.6公斤喪屍煙彈 茅臺酒瓶藏毒闖關日本遭逮",
       "summary": [
         "自由時報：臺籍女子涉走私2.6公斤喪屍煙彈 茅臺酒瓶藏毒闖關日本遭逮",
@@ -92,7 +113,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "期貨最新報價11／3期交所夜盤行情- 上市櫃",
       "summary": [
         "中時新聞：期貨最新報價11／3期交所夜盤行情- 上市櫃",
@@ -113,7 +134,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "防範臺海衝突　日陸上自衛隊擬整合飛彈指揮系統2030年啟用",
       "summary": [
         "經濟日報：防範臺海衝突　日陸上自衛隊擬整合飛彈指揮系統2030年啟用",
@@ -134,7 +155,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
       "summary": [
         "自由時報：川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
@@ -155,7 +176,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "美司法部派1000名選舉監督員進駐50州　規模史上最大",
       "summary": [
         "自由時報：美司法部派1000名選舉監督員進駐50州　規模史上最大",
@@ -176,7 +197,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "市場關注美國期中選舉　歐股收低",
       "summary": [
         "自由時報：市場關注美國期中選舉　歐股收低",
@@ -195,54 +216,33 @@
           "url": "https://money.udn.com/money/story/5599/9855656"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "白宮：梅蘭妮亞將接見俄烏代表　為美國歷史非凡時刻",
-      "summary": [
-        "自由時報：白宮：梅蘭妮亞將接見俄烏代表　為美國歷史非凡時刻",
-        "經濟日報：白宮：梅蘭妮亞將接見俄烏代表　為美國歷史非凡時刻"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "白宮：梅蘭妮亞將接見俄烏代表　為美國歷史非凡時刻",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628494"
-        },
-        {
-          "source": "經濟日報",
-          "title": "白宮：梅蘭妮亞將接見俄烏代表　為美國歷史非凡時刻",
-          "url": "https://money.udn.com/money/story/5599/9855650"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Disney Plans Thousands of Layoffs Companywide",
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
       "summary": [
-        "Bloomberg Tech：Disney Plans Thousands of Layoffs Companywide",
-        "CNBC：Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-        "Yahoo Finance：Disney Eyes Thousands of Layoffs, With Managers Asked to Cut 20%"
+        "BBC World：Binance says fake job interviews used as part of $6.3bn crypto hack",
+        "CNBC：Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+        "The Verge：Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "Disney Plans Thousands of Layoffs Companywide",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-03/disney-plans-thousands-of-layoffs-companywide-video"
+          "source": "BBC World",
+          "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "CNBC",
-          "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-          "url": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html"
+          "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+          "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "Disney Eyes Thousands of Layoffs, With Managers Asked to Cut 20%",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONy1ueVhiMS1RaHJGNUlaZGpPaFlxR3lhd0xBN0o5SFctdk1sVFpQZmN6dnVoa3ZlamhnM0RHbzBaQi0xZ0dIZTdidTZQS0Z5ZFpHN0xlRGJMdlJEQllFV2ZoSmFSVzg4a1NQNjE4ZVN2STF2UzZacWJxeTluN3ZDaUJpZHVBaE15MFhyWTE1SWxvakZvSXNuLVJyVU80ejR4anRsUXpyZnNLdw?oc=5"
+          "source": "The Verge",
+          "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+          "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained"
         }
       ]
     },
@@ -296,27 +296,6 @@
     },
     {
       "rank": 4,
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "summary": [
-        "BBC World：Binance says fake job interviews used as part of $6.3bn crypto hack",
-        "CNBC：Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CNBC",
-          "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
-          "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Super Micro Outlook Tops Estimates on AI-Fueled Server Demand",
       "summary": [
         "Bloomberg Tech：Super Micro Outlook Tops Estimates on AI-Fueled Server Demand",
@@ -337,32 +316,59 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "調研：歐洲的數字依賴日益嚴重",
+      "rank": 5,
+      "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
       "summary": [
-        "德國之聲：調研：歐洲的數字依賴日益嚴重"
+        "CNBC：Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
+        "Yahoo Finance：Disney Eyes Thousands of Layoffs, With Managers Asked to Cut 20%"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "調研：歐洲的數字依賴日益嚴重",
-          "url": "https://www.dw.com/zh/调研：欧洲的数字依赖日益严重/a-79806283?maca=chi-rss-chi-all-1127-rdf"
+          "source": "CNBC",
+          "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
+          "url": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Disney Eyes Thousands of Layoffs, With Managers Asked to Cut 20%",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONy1ueVhiMS1RaHJGNUlaZGpPaFlxR3lhd0xBN0o5SFctdk1sVFpQZmN6dnVoa3ZlamhnM0RHbzBaQi0xZ0dIZTdidTZQS0Z5ZFpHN0xlRGJMdlJEQllFV2ZoSmFSVzg4a1NQNjE4ZVN2STF2UzZacWJxeTluN3ZDaUJpZHVBaE15MFhyWTE1SWxvakZvSXNuLVJyVU80ejR4anRsUXpyZnNLdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
+      "summary": [
+        "CNBC：CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
+        "Yahoo Finance：CrowdStrike announces 'kill switch' for AI agents that go rogue"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
+          "url": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "CrowdStrike announces 'kill switch' for AI agents that go rogue",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUTdqbkFGU1h0REtEWFNfdEpGcFBRd1BhNUYya2FNb1M4VTN0V1piYjlldnBPUTgxZG85SWlwYnFMc3lLUHNBNmk2YXpDXzM5UlJ0SGtIMTQ3T1VpYWw0M0xtWmtBVjRXUUs3V1BqNkRQUEwtYnE0NG5MYy1SYi1BWDJldmZhLS1qaG5YZjFqWjN6UTZ3U2s5YWJwZE5GdEU1VlNOckFEUENHN2o1d3FlOFplbVdVeTZ1UnhzOGVBcDNwSG1LOVVSYWZCZmRaOHlmT25NRVlSZ2U1UVRRbnl2MEZ6VmR3T2pfVktQbA?oc=5"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "中國是否會舉辦中美俄三方峰會，談烏克蘭戰爭？各方表態",
+      "title": "AMD Forecast Exceeds Estimates as AI Chip Demand Soars",
       "summary": [
-        "法廣RFI：中國是否會舉辦中美俄三方峰會，談烏克蘭戰爭？各方表態"
+        "Bloomberg Tech：AMD Forecast Exceeds Estimates as AI Chip Demand Soars"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "中國是否會舉辦中美俄三方峰會，談烏克蘭戰爭？各方表態",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261103-%E4%B8%AD%E5%9C%8B%E6%98%AF%E5%90%A6%E6%9C%83%E8%88%89%E8%BE%A6%E4%B8%AD%E7%BE%8E%E4%BF%84%E4%B8%89%E6%96%B9%E5%B3%B0%E6%9C%83%EF%BC%8C%E8%AB%87%E7%83%8F%E5%85%8B%E8%98%AD%E6%88%B0%E7%88%AD-%E5%90%84%E6%96%B9%E8%A1%A8%E6%85%8B"
+          "source": "Bloomberg Tech",
+          "title": "AMD Forecast Exceeds Estimates as AI Chip Demand Soars",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-03/amd-forecast-exceeds-estimates-as-ai-chip-demand-soars-video"
         }
       ]
     },
