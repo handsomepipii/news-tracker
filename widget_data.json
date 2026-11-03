@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 08:12",
+  "updated_at": "2026-11-03 09:48",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,54 @@
     },
     {
       "rank": 2,
+      "title": "Anthropic第3季營收年增逾11倍　最快下週IPO",
+      "summary": [
+        "自由時報：Anthropic第3季營收年增逾11倍　最快下週IPO",
+        "經濟日報：Anthropic第3季營收年增逾11倍　最快下週IPO",
+        "科技新報：Anthropic 第 3 季營收年增逾 11 倍，最快下週 IPO"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "Anthropic第3季營收年增逾11倍　最快下週IPO",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5627227"
+        },
+        {
+          "source": "經濟日報",
+          "title": "Anthropic第3季營收年增逾11倍　最快下週IPO",
+          "url": "https://money.udn.com/money/story/123398/9853164"
+        },
+        {
+          "source": "科技新報",
+          "title": "Anthropic 第 3 季營收年增逾 11 倍，最快下週 IPO",
+          "url": "https://finance.technews.tw/2026/11/03/anthropic-says-revenue-surged-1100-percent-ahead-of-ipo/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "歐洲超市冰箱遭新一波網攻　荷比盧、瑞典等地傳災情",
+      "summary": [
+        "經濟日報：歐洲超市冰箱遭新一波網攻　荷比盧、瑞典等地傳災情",
+        "科技新報：歐洲超市冰箱遭新一波網攻，荷比盧、瑞典等地傳災情"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "歐洲超市冰箱遭新一波網攻　荷比盧、瑞典等地傳災情",
+          "url": "https://money.udn.com/money/story/5599/9852869"
+        },
+        {
+          "source": "科技新報",
+          "title": "歐洲超市冰箱遭新一波網攻，荷比盧、瑞典等地傳災情",
+          "url": "https://infosecu.technews.tw/2026/11/03/new-cyberattack-on-supermarket-fridges-sweeps-across-europe/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "川普政府訴請最高法院介入　阻加州計逾2萬郵寄票",
       "summary": [
         "自由時報：川普政府訴請最高法院介入　阻加州計逾2萬郵寄票",
@@ -50,28 +98,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "美期中選舉11/3登場　美媒判定勝負機制一次看懂",
-      "summary": [
-        "經濟日報：美期中選舉11/3登場　美媒判定勝負機制一次看懂",
-        "自由時報：美期中選舉11/3登場 美媒「判定勝選」機制一次看懂"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美期中選舉11/3登場　美媒判定勝負機制一次看懂",
-          "url": "https://money.udn.com/money/story/5599/9852691"
-        },
-        {
-          "source": "自由時報",
-          "title": "美期中選舉11/3登場 美媒「判定勝選」機制一次看懂",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5627072"
-        }
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "title": "波蘭憲政危機升溫 歐盟強調國會有權任命憲法法官",
       "summary": [
         "自由時報：波蘭憲政危機升溫 歐盟強調國會有權任命憲法法官",
@@ -92,7 +119,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "英國徒步冒險家布希比返抵家鄉 結束28年5萬公里史詩級旅程",
       "summary": [
         "自由時報：英國徒步冒險家布希比返抵家鄉 結束28年5萬公里史詩級旅程",
@@ -113,7 +140,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "中職》年度MVP揭曉！味全王牌蔣銲拿下年度最大獎",
       "summary": [
         "自由時報：中職》年度MVP揭曉！味全王牌蔣銲拿下年度最大獎",
@@ -134,7 +161,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "大同華映案37.5億和解　公司重訊：預期可回沖百億損失",
       "summary": [
         "ETtoday：大同華映案37.5億和解　公司重訊：預期可回沖百億損失",
@@ -155,7 +182,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "美媒高層出任梵蒂岡部長 教廷首位擔此要職女平信徒",
       "summary": [
         "自由時報：美媒高層出任梵蒂岡部長 教廷首位擔此要職女平信徒",
@@ -176,7 +203,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "法國學生示威逾月　不滿訴求未獲滿足再封鎖數十所高中",
       "summary": [
         "經濟日報：法國學生示威逾月　不滿訴求未獲滿足再封鎖數十所高中",
@@ -195,48 +222,27 @@
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5627187"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "同志酒吧遭搜尋惹議！中華人權協會6大宣告曝光：平權不等於特權 | 蔣季容 | 新聞",
-      "summary": [
-        "風傳媒：同志酒吧遭搜尋惹議！中華人權協會6大宣告曝光：平權不等於特權 | 蔣季容 | 新聞",
-        "ETtoday：同志酒吧搜尋歧視爭議延燒　中華人權協會6大宣告：平權不等於特權"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "風傳媒",
-          "title": "同志酒吧遭搜尋惹議！中華人權協會6大宣告曝光：平權不等於特權 | 蔣季容 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mY1M3bk1HRGY3eGhPdjI4NHlGNHVIYTVHRVItZXRRRWQ1LUJEbGtXclRwLXkwZUYzTUx6eUVxRXhqRlRWbFhQT2hGeHBfZw?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "同志酒吧搜尋歧視爭議延燒　中華人權協會6大宣告：平權不等於特權",
-          "url": "https://www.ettoday.net/news/20261103/3265212.htm"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Marvell to Acquire Lumentum in Historic $115 Billion Deal",
+      "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
       "summary": [
-        "Bloomberg Tech：Marvell to Acquire Lumentum in Historic $115 Billion Deal",
-        "Yahoo Finance：Marvell to purchase Lumentum for $115 billion in record-breaking AI tech deal, both stocks tank",
+        "Financial Times：Marvell to buy data centre component maker Lumentum in $115bn AI bet",
+        "Yahoo Finance：Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity",
         "TechCrunch：In one of the largest deals in tech history, Marvell buys Lumentum for $115B"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "Marvell to Acquire Lumentum in Historic $115 Billion Deal",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings"
+          "source": "Financial Times",
+          "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
+          "url": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b?syn-25a6b1a6=1"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Marvell to purchase Lumentum for $115 billion in record-breaking AI tech deal, both stocks tank",
+          "title": "Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWxRNVQxYzItQzBISTcwM2FVN2szd2w3dlZfVnp0eWxLb2RHOEM2RzR1SnVLczBYVWRDSzV3a3FxN0VscjZ2OGZPbTR5aWYwLUpIdVprU1ZOV1lRSTVGM1RRSTVPSDNYTDM3TTdDaVhoaXhBeEE5eXFqV2V6SzBUNkdxTUJYNXJGVjFzQ1VvRVR2Rk0zVGVlUGczb3M5ZlZkLUxBZFhJWFBLOEtucW5ncHFBd2N1SFoydlE?oc=5"
         },
         {
@@ -248,27 +254,6 @@
     },
     {
       "rank": 2,
-      "title": "中國化工品出口飆升，或引發新的貿易爭端",
-      "summary": [
-        "FT中文網：中國化工品出口飆升，或引發新的貿易爭端",
-        "法廣RFI：中國化學品出口激增 或引發新貿易戰"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "FT中文網",
-          "title": "中國化工品出口飆升，或引發新的貿易爭端",
-          "url": "https://www.ftchinese.com/story/001111263"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "中國化學品出口激增 或引發新貿易戰",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261102-%E4%B8%AD%E5%9C%8B%E5%8C%96%E5%AD%B8%E5%93%81%E5%87%BA%E5%8F%A3%E6%BF%80%E5%A2%9E-%E6%88%96%E5%BC%95%E7%99%BC%E6%96%B0%E8%B2%BF%E6%98%93%E6%88%B0"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
       "summary": [
         "BBC World：Binance users withdraw $3.6bn after largest-ever crypto hack",
@@ -289,28 +274,28 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
+      "rank": 3,
+      "title": "Supreme Court denies Trump administration request to set aside Calif. ballots",
       "summary": [
-        "Financial Times：OpenAI hires former US Army secretary as military seeks to expand AI use",
-        "Investing.com：OpenAI hires former U.S. Army secretary Dan Driscoll- FT"
+        "Washington Post：Supreme Court denies Trump administration request to set aside Calif. ballots",
+        "Financial Times：US Supreme Court rejects Trump request to intervene in California vote count"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
-          "url": "https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1"
+          "source": "Washington Post",
+          "title": "Supreme Court denies Trump administration request to set aside Calif. ballots",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHp4ck1fWEFSbGhiaEdhNFA5bjdJaExZUFJxVWM0MTdIM1dCdEZRSTE5LVU0RzBtWlZDM0xMNXZObnZJdk90Y2FnbjNUcEJkNDB2bDNCeU5nU2V5Nnd1WGQwSGRQTkZLempyZE80OEFBSG1HWjVjU2UxT1Q5eWVFa2xSOU1wVllyY0l5c3NqS3hhVUh5S0NPWTdDN1Q5SDhqSFVwNlYxNTBodGthWVhVeHhZV0tVTkxVQzRCWE0za0ZwMms?oc=5"
         },
         {
-          "source": "Investing.com",
-          "title": "OpenAI hires former U.S. Army secretary Dan Driscoll- FT",
-          "url": "https://www.investing.com/news/stock-market-news/openai-hires-former-us-army-secretary-dan-driscoll-ft-93CH-4993166"
+          "source": "Financial Times",
+          "title": "US Supreme Court rejects Trump request to intervene in California vote count",
+          "url": "https://www.ft.com/content/b3619ebb-01cc-4458-bc77-b04e5b16b658?syn-25a6b1a6=1"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
       "summary": [
         "Bloomberg Markets：Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
@@ -331,23 +316,44 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Learjet May Have Broken Up Before Fatal Florida Crash, NTSB Says",
+      "rank": 5,
+      "title": "Disney Plans Thousands of Layoffs, Targeting 20% Cost Savings",
       "summary": [
-        "Bloomberg Markets：Learjet May Have Broken Up Before Fatal Florida Crash, NTSB Says",
-        "Investing.com：Investigators say Learjet may have broken up before crashing in Florida"
+        "Bloomberg Tech：Disney Plans Thousands of Layoffs, Targeting 20% Cost Savings",
+        "Investing.com：Disney eyes thousands of layoffs, managers asked to cut 20% in costs, Bloomberg News reports"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "Learjet May Have Broken Up Before Fatal Florida Crash, NTSB Says",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-02/learjet-may-have-broken-up-before-fatal-florida-crash-ntsb-says"
+          "source": "Bloomberg Tech",
+          "title": "Disney Plans Thousands of Layoffs, Targeting 20% Cost Savings",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-03/disney-eyes-thousands-of-layoffs-with-managers-asked-to-cut-20"
         },
         {
           "source": "Investing.com",
-          "title": "Investigators say Learjet may have broken up before crashing in Florida",
-          "url": "https://www.investing.com/news/stock-market-news/investigators-say-learjet-may-have-broken-up-before-crashing-in-florida-4993197"
+          "title": "Disney eyes thousands of layoffs, managers asked to cut 20% in costs, Bloomberg News reports",
+          "url": "https://www.investing.com/news/stock-market-news/disney-eyes-thousands-of-layoffs-managers-asked-to-cut-20-in-costs-bloomberg-news-reports-4993288"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Stock Market News, November 2, 2026: Apple Stock Slips After Earnings; Nasdaq Falls",
+      "summary": [
+        "WSJ Markets：Stock Market News, November 2, 2026: Apple Stock Slips After Earnings; Nasdaq Falls",
+        "Investing.com：Why is Apple stock falling afterhours today?"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "WSJ Markets",
+          "title": "Stock Market News, November 2, 2026: Apple Stock Slips After Earnings; Nasdaq Falls",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-02-2026?mod=rss_markets_main"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Why is Apple stock falling afterhours today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-apple-stock-falling-afterhours-today-93CH-4993315"
         }
       ]
     },
@@ -383,31 +389,31 @@
     },
     {
       "rank": 9,
-      "title": "Apple Sales Meet Estimates, China Is a Weak Spot",
+      "title": "The Intel stock collapse is getting worse — and the $3.7 trillion chip rout is spreading",
       "summary": [
-        "Bloomberg Tech：Apple Sales Meet Estimates, China Is a Weak Spot"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Apple Sales Meet Estimates, China Is a Weak Spot",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-meet-estimates-china-is-a-weak-spot-video"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Apple to report Q4 earnings Monday, with iPhone 18 sales in the spotlight",
-      "summary": [
-        "Yahoo Finance：Apple to report Q4 earnings Monday, with iPhone 18 sales in the spotlight"
+        "Yahoo Finance：The Intel stock collapse is getting worse — and the $3.7 trillion chip rout is spreading"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "Apple to report Q4 earnings Monday, with iPhone 18 sales in the spotlight",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM0xOOWdDN2pXdGpnZnlHTzliX1ZST05ITXdYZXZ5WVN2WFI1eGYxYlcwVnZvWGFkMWNhcklYaXJYQkN1dlR2OHA4RzZSNDRQNjd2ejd2N0k5UW1QeGk1dVdQbHpjVmZaMWhoamc0Ml83bkZWRTBPc1B6aUVLRUUwVTJpM0JxYWpLYnhkc3Q1SXpwdnZpSkFuWEJrWVlyNzZjOXNOZG5CdHgwaEhReWM3SE9Dd09tT2h4SzFzQk0zTFcxR1BNT2oyRF9NMjU?oc=5"
+          "title": "The Intel stock collapse is getting worse — and the $3.7 trillion chip rout is spreading",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYXNGRkpFR1R4ZkhibXhKWEVTams1NDB2ZXU4UzZHcmlOYWRFOXRKb1poRUZxQ180WHQ0VWplOG95a2hxemxRQjhibE9aQWFkY3BiRWgtNWZzMXBXNjN1M01mQXRwN3B2R2ZPQjhxbGkteVN5STNoYzhQN2Vmdm1PZGhVN183RzRsaE1YMG1vSjNSQnlteTdwSU5MSllqOTJZOHZFaHJOZVN1ZGJ5bUI5ZjcwQnRQU08zcGlDRF9VV21LYzhRVm41ZFRld0pwUGpjVURBazJWS25xQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "中國化學品出口激增 或引發新貿易戰",
+      "summary": [
+        "法廣RFI：中國化學品出口激增 或引發新貿易戰"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "中國化學品出口激增 或引發新貿易戰",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261102-%E4%B8%AD%E5%9C%8B%E5%8C%96%E5%AD%B8%E5%93%81%E5%87%BA%E5%8F%A3%E6%BF%80%E5%A2%9E-%E6%88%96%E5%BC%95%E7%99%BC%E6%96%B0%E8%B2%BF%E6%98%93%E6%88%B0"
         }
       ]
     }
