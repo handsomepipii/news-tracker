@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-03 16:22",
+  "updated_at": "2026-11-03 17:31",
   "taiwan": [
     {
       "rank": 1,
-      "title": "佛州空難釀9死　調查當局：飛機墜毀前似有零件脫落",
-      "summary": [
-        "自由時報：佛州空難釀9死　調查當局：飛機墜毀前似有零件脫落",
-        "經濟日報：佛州空難釀9死　調查當局：飛機墜毀前似有零件脫落",
-        "公視新聞：美國佛州小型客機墜毀 機上9人罹難、原因待查｜20261102 公視午間新聞 ｜ 公視新聞 PNN"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "佛州空難釀9死　調查當局：飛機墜毀前似有零件脫落",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5627248"
-        },
-        {
-          "source": "經濟日報",
-          "title": "佛州空難釀9死　調查當局：飛機墜毀前似有零件脫落",
-          "url": "https://money.udn.com/money/story/10511/9853207"
-        },
-        {
-          "source": "公視新聞",
-          "title": "美國佛州小型客機墜毀 機上9人罹難、原因待查｜20261102 公視午間新聞 ｜ 公視新聞 PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TUEItZzNtVzgtbHJhbzRacTVSejNVdkFIZXpSUDRLNC1MUmZld2hjMmFkeW04c0hlOFFRei1UWlhEQS1DZkZLcVhqVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "歐洲超市冰箱遭新一波網攻，荷比盧、瑞典等地傳災情",
       "summary": [
         "科技新報：歐洲超市冰箱遭新一波網攻，荷比盧、瑞典等地傳災情",
@@ -56,6 +29,33 @@
       ]
     },
     {
+      "rank": 2,
+      "title": "歐洲多國超市遭駭！冰櫃被加熱到50度 食物報廢、貨架全空慘況曝",
+      "summary": [
+        "經濟日報：歐洲多國超市遭駭！冰櫃被加熱到50度 食物報廢、貨架全空慘況曝",
+        "公視新聞：歐洲多國超市冷卻系統遭駭大量食物解凍變質被迫丟棄｜#公視新聞網#Shorts ｜ 公視新聞PNN",
+        "關鍵評論網：歐洲超市冰箱集體遭駭：半夜被調成50度、不勒索只毀食物，幕後黑手在打什麼算盤？"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "歐洲多國超市遭駭！冰櫃被加熱到50度 食物報廢、貨架全空慘況曝",
+          "url": "https://money.udn.com/money/story/5599/9853985"
+        },
+        {
+          "source": "公視新聞",
+          "title": "歐洲多國超市冷卻系統遭駭大量食物解凍變質被迫丟棄｜#公視新聞網#Shorts ｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ELXVXOFJicmpVQzhzSHJ2S1VpT0d2T2xxX2lZRUdJcEdfM1EyZU5vejVSTFV1QWxtSTlRRkgzcFBRUUR0T2o0NWJvZw?oc=5"
+        },
+        {
+          "source": "關鍵評論網",
+          "title": "歐洲超市冰箱集體遭駭：半夜被調成50度、不勒索只毀食物，幕後黑手在打什麼算盤？",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OZHNETU9fVnh5VTNKYjJXQVNjRFhtT2tObW5LTGlpdXpab3NES3lOY3ZYM1FiZUZIZTMtSm5yWjBHa3VHcVY0RElmRktRazU5eUVFZw?oc=5"
+        }
+      ]
+    },
+    {
       "rank": 3,
       "title": "舊北投市場拆除工程鷹架倒塌釀4傷 攤商目擊驚險瞬間：突然整個垮下來",
       "summary": [
@@ -78,48 +78,6 @@
     },
     {
       "rank": 4,
-      "title": "甲骨文拚 AI 不縮手 再籌資200億美元",
-      "summary": [
-        "經濟日報：甲骨文拚 AI 不縮手 再籌資200億美元",
-        "科技新報：甲骨文再籌 200 億美元支應 AI 支出  引發疑慮"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "甲骨文拚 AI 不縮手 再籌資200億美元",
-          "url": "https://money.udn.com/money/story/123398/9853067"
-        },
-        {
-          "source": "科技新報",
-          "title": "甲骨文再籌 200 億美元支應 AI 支出  引發疑慮",
-          "url": "https://finance.technews.tw/2026/11/03/oracle-raises-20-billion-ai-spending-concerns/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "美免稅計畫排除南非盧安達　指涉貿易障礙與威脅利益",
-      "summary": [
-        "自由時報：美免稅計畫排除南非盧安達　指涉貿易障礙與威脅利益",
-        "經濟日報：美免稅計畫排除南非盧安達　指涉貿易障礙與威脅利益"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美免稅計畫排除南非盧安達　指涉貿易障礙與威脅利益",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5627247"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美免稅計畫排除南非盧安達　指涉貿易障礙與威脅利益",
-          "url": "https://money.udn.com/money/story/5599/9853201"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "期中選舉前夕　川普否認選後攻擊伊朗、稱可能達協議",
       "summary": [
         "自由時報：期中選舉前夕　川普否認選後攻擊伊朗、稱可能達協議",
@@ -140,7 +98,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "蘋果Q4營收優於預期　受惠iPhone銷售強勁",
       "summary": [
         "經濟日報：蘋果Q4營收優於預期　受惠iPhone銷售強勁",
@@ -161,7 +119,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失",
       "summary": [
         "財訊：大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失",
@@ -182,7 +140,28 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "title": "「戒慎恐懼」鳳山分會長林智鴻攜手蘇致榮  喊「5席都過關」議會過半",
+      "summary": [
+        "自由時報：「戒慎恐懼」鳳山分會長林智鴻攜手蘇致榮  喊「5席都過關」議會過半",
+        "風傳媒：鳳山綠營喊「五席都過關、議會就過半」！林智鴻站臺力挺蘇致榮展現團結作戰氣勢| 徐炳文 | 地方新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "「戒慎恐懼」鳳山分會長林智鴻攜手蘇致榮  喊「5席都過關」議會過半",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5627342"
+        },
+        {
+          "source": "風傳媒",
+          "title": "鳳山綠營喊「五席都過關、議會就過半」！林智鴻站臺力挺蘇致榮展現團結作戰氣勢| 徐炳文 | 地方新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Gb05HTG5VWENRVGE3Q2VVbHgwbGNNRFUxS3RWY3NTTWhPa3VQMjRXVzNTNmVXS0N1LVZSdmd5VkN5SzEwYU1WbkZROFFydw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "德國官員iPhone疑遭間諜軟體攻擊 政府展開調查",
       "summary": [
         "經濟日報：德國官員iPhone疑遭間諜軟體攻擊 政府展開調查",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "〈財報〉蘋果特納斯首份財報好壞參半！Q1毛利率展望失色 盤後一度挫4%",
       "summary": [
         "鉅亨網：〈財報〉蘋果特納斯首份財報好壞參半！Q1毛利率展望失色 盤後一度挫4%",
@@ -222,11 +201,74 @@
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS3BjNXR6aU1tZXJHNFZwUk9mR0NXN21pZGNobEl4QXdMZmtzZUNzUms2c2tqelYyZUYtTzNBMURqTGZNaHd0VGk1akxySkZBVjBna3c1NDZLRzFPLWExcUl0TEI4LWZVeTlxeXdWUTlCQld1Nk9kRzNSUW5qR3YxMQ?oc=5"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "20261103 公視AI手語天氣報導 ｜東北季風影響 迎風面有雨轉涼",
+      "summary": [
+        "公視新聞：20261103 公視AI手語天氣報導 ｜東北季風影響 迎風面有雨轉涼",
+        "中時新聞：天氣》東北季風接力 4縣巿大雨特報 這天起低溫探19°C"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公視新聞",
+          "title": "20261103 公視AI手語天氣報導 ｜東北季風影響 迎風面有雨轉涼",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQVXJaVWk2NXJ5SmlFU1YxQmVENmRtMV9HUl9oM1FPblkyR29ycG0yckJnaGVMQlAxdDA0NElDMHFDUmZxQlNGejNndw?oc=5"
+        },
+        {
+          "source": "中時新聞",
+          "title": "天氣》東北季風接力 4縣巿大雨特報 這天起低溫探19°C",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WRk5ONlRGaXVtdEsyZzJ4UUlOS2tzVVRNWHlPSGVWbVRqMFltNW56dXNWOEs3OHlCSjNsWWxBeDNtMnd5eXhYSENUcUNpbkhXTExEOUlNc0YxOEJFanpEYXZDMmxieG9yY0ZNUEJ3?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "韓政府回應總統及隨行人員資訊遭洩：正補發護照",
+      "summary": [
+        "韓聯社：韓政府回應總統及隨行人員資訊遭洩：正補發護照",
+        "NHK新聞：韓國大統領や高官の個人情報流出 イ大統領パスポート再発行へ"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "韓政府回應總統及隨行人員資訊遭洩：正補發護照",
+          "url": "https://cn.yna.co.kr/view/ACK20261103002800881"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "韓國大統領や高官の個人情報流出 イ大統領パスポート再発行へ",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261103de70007"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "summary": [
+        "BBC World：US strikes Iranian island ahead of midterm elections",
+        "Financial Times：US strikes Iran’s Qeshm Island on eve of election"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "US strikes Iranian island ahead of midterm elections",
+          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Financial Times",
+          "title": "US strikes Iran’s Qeshm Island on eve of election",
+          "url": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
       "summary": [
         "BBC World：Supreme Court rejects Trump's request to stop California counting disputed votes",
@@ -247,7 +289,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "North Korea denies being behind record $6.3bn Binance hack",
       "summary": [
         "BBC World：North Korea denies being behind record $6.3bn Binance hack",
@@ -268,28 +310,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "US strikes Iran’s Qeshm Island on eve of election",
-      "summary": [
-        "Financial Times：US strikes Iran’s Qeshm Island on eve of election",
-        "CNBC：U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "US strikes Iran’s Qeshm Island on eve of election",
-          "url": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1"
-        },
-        {
-          "source": "CNBC",
-          "title": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
-          "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html"
-        }
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "title": "快訊：韓國10月CPI同比上漲2.8%",
       "summary": [
         "韓聯社：快訊：韓國10月CPI同比上漲2.8%"
@@ -304,7 +325,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "未完成的勝利：美國中期選舉前瞻與特朗普的加密政策遺產",
       "summary": [
         "FT中文網：未完成的勝利：美國中期選舉前瞻與特朗普的加密政策遺產"
@@ -319,7 +340,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "金與正：美指朝鮮為幣安駭客攻擊幕後黑手系政治挑釁",
       "summary": [
         "韓聯社：金與正：美指朝鮮為幣安駭客攻擊幕後黑手系政治挑釁"
@@ -334,7 +355,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "中國技術出口管制升級：利用工業優勢構建經濟武器庫- 紐約時報中文網",
       "summary": [
         "紐約時報中文：中國技術出口管制升級：利用工業優勢構建經濟武器庫- 紐約時報中文網"
@@ -349,47 +370,32 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity",
-      "summary": [
-        "Yahoo Finance：Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWxRNVQxYzItQzBISTcwM2FVN2szd2w3dlZfVnp0eWxLb2RHOEM2RzR1SnVLczBYVWRDSzV3a3FxN0VscjZ2OGZPbTR5aWYwLUpIdVprU1ZOV1lRSTVGM1RRSTVPSDNYTDM3TTdDaVhoaXhBeEE5eXFqV2V6SzBUNkdxTUJYNXJGVjFzQ1VvRVR2Rk0zVGVlUGczb3M5ZlZkLUxBZFhJWFBLOEtucW5ncHFBd2N1SFoydlE?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 9,
-      "title": "埃及泳將奪2026青奧會非洲首金",
+      "title": "An Election Day Special With Nate Silver",
       "summary": [
-        "法廣RFI：埃及泳將奪2026青奧會非洲首金"
+        "Bloomberg Markets：An Election Day Special With Nate Silver"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "埃及泳將奪2026青奧會非洲首金",
-          "url": "https://www.rfi.fr/tw/%E9%9D%9E%E6%B4%B2/20261102-rfi%E6%B3%95%E5%BB%A3-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E5%9F%83%E5%8F%8A%E6%B3%B3%E5%B0%87%E5%A5%AA2026%E9%9D%92%E5%A5%A7%E6%9C%83%E9%9D%9E%E6%B4%B2%E9%A6%96%E9%87%91"
+          "source": "Bloomberg Markets",
+          "title": "An Election Day Special With Nate Silver",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-03/an-election-day-special-with-nate-silver"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "中期選舉前特朗普發表演講動員共和黨人抵禦民主黨， 但講得東拉西扯",
+      "title": "Marvell to purchase Lumentum for $115 billion in record-breaking tech deal",
       "summary": [
-        "法廣RFI：中期選舉前特朗普發表演講動員共和黨人抵禦民主黨， 但講得東拉西扯"
+        "Yahoo Finance：Marvell to purchase Lumentum for $115 billion in record-breaking tech deal"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "中期選舉前特朗普發表演講動員共和黨人抵禦民主黨， 但講得東拉西扯",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261102-%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%89%8D%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BC%E8%A1%A8%E6%BC%94%E8%AC%9B%E5%8B%95%E5%93%A1%E5%85%B1%E5%92%8C%E9%BB%A8%E4%BA%BA%E6%8A%B5%E7%A6%A6%E6%B0%91%E4%B8%BB%E9%BB%A8%EF%BC%8C-%E4%BD%86%E8%AC%9B%E5%BE%97%E6%9D%B1%E6%8B%89%E8%A5%BF%E6%89%AF"
+          "source": "Yahoo Finance",
+          "title": "Marvell to purchase Lumentum for $115 billion in record-breaking tech deal",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWxRNVQxYzItQzBISTcwM2FVN2szd2w3dlZfVnp0eWxLb2RHOEM2RzR1SnVLczBYVWRDSzV3a3FxN0VscjZ2OGZPbTR5aWYwLUpIdVprU1ZOV1lRSTVGM1RRSTVPSDNYTDM3TTdDaVhoaXhBeEE5eXFqV2V6SzBUNkdxTUJYNXJGVjFzQ1VvRVR2Rk0zVGVlUGczb3M5ZlZkLUxBZFhJWFBLOEtucW5ncHFBd2N1SFoydlE?oc=5"
         }
       ]
     }
