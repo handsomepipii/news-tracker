@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 01:00",
+  "updated_at": "2026-11-04 01:17",
   "taiwan": [
     {
       "rank": 1,
@@ -24,6 +24,27 @@
     },
     {
       "rank": 2,
+      "title": "宜蘭近海23:22發生規模4.5地震 8縣市有感 最大震度4級",
+      "summary": [
+        "自由時報：宜蘭近海23:22發生規模4.5地震 8縣市有感 最大震度4級",
+        "ETtoday：快訊／23:22宜蘭近海規模4.5「極淺層地震」　最大震度4級"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "宜蘭近海23:22發生規模4.5地震 8縣市有感 最大震度4級",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5628468"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／23:22宜蘭近海規模4.5「極淺層地震」　最大震度4級",
+          "url": "https://www.ettoday.net/news/20261103/3265888.htm"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "冰箱被改為解凍模式 歐洲多國超市系統遭駭客攻擊",
       "summary": [
         "公視新聞：冰箱被改為解凍模式 歐洲多國超市系統遭駭客攻擊",
@@ -44,7 +65,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "臺積電成全球第7大企業 那斯達克高層：國家成就",
       "summary": [
         "自由時報：臺積電成全球第7大企業 那斯達克高層：國家成就",
@@ -65,7 +86,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "舊北投市場拆除工程鷹架倒塌釀4傷 目擊者：大風吹襲",
       "summary": [
         "自由時報：舊北投市場拆除工程鷹架倒塌釀4傷 目擊者：大風吹襲",
@@ -86,7 +107,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "歐洲多國超市冷卻系統遭駭大量食物解凍變質被迫丟棄｜#公視新聞網#Shorts ｜ 公視新聞PNN",
       "summary": [
         "公視新聞：歐洲多國超市冷卻系統遭駭大量食物解凍變質被迫丟棄｜#公視新聞網#Shorts ｜ 公視新聞PNN",
@@ -107,7 +128,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "波蘭憲政危機：憲法法院正副院長遭停職，引爆總理vs.總統司法主導權爭奪戰",
       "summary": [
         "轉角國際：波蘭憲政危機：憲法法院正副院長遭停職，引爆總理vs.總統司法主導權爭奪戰",
@@ -128,7 +149,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "輝達傳強制雲端商降中國曝險、新加坡業者跳腳",
       "summary": [
         "科技新報：輝達傳強制雲端商降中國曝險、新加坡業者跳腳",
@@ -149,7 +170,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "AI 攻擊威脅升高，數發部成立跨部會資安應變小組",
       "summary": [
         "科技新報：AI 攻擊威脅升高，數發部成立跨部會資安應變小組",
@@ -170,7 +191,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "顧安生病逝「胡錦一直在哭」！　粘嫦鈺PO文悼念揭私下對話",
       "summary": [
         "ETtoday：顧安生病逝「胡錦一直在哭」！　粘嫦鈺PO文悼念揭私下對話",
@@ -187,27 +208,6 @@
           "source": "自由時報",
           "title": "顧安生驟逝  粘嫦鈺曝：胡錦「傷心欲絕一直哭」",
           "url": "https://ent.ltn.com.tw/news/breakingnews/5628348"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "臺籍女子涉走私2.6公斤喪屍煙彈 茅臺酒瓶藏毒闖關日本遭逮",
-      "summary": [
-        "自由時報：臺籍女子涉走私2.6公斤喪屍煙彈 茅臺酒瓶藏毒闖關日本遭逮",
-        "經濟日報：臺籍女子涉走私2.6公斤喪屍煙彈　茅臺酒瓶藏毒闖關日本遭逮"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "臺籍女子涉走私2.6公斤喪屍煙彈 茅臺酒瓶藏毒闖關日本遭逮",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628333"
-        },
-        {
-          "source": "經濟日報",
-          "title": "臺籍女子涉走私2.6公斤喪屍煙彈　茅臺酒瓶藏毒闖關日本遭逮",
-          "url": "https://money.udn.com/money/story/5599/9855169"
         }
       ]
     }
@@ -299,22 +299,22 @@
     },
     {
       "rank": 5,
-      "title": "Bambu&#8217;s nine-nozzle H3C foretells the future of 3D printing",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
       "summary": [
-        "The Verge：Bambu&#8217;s nine-nozzle H3C foretells the future of 3D printing",
-        "Tom's Hardware：Bambu Lab H3C 3D printer review: A nine-tool monster"
+        "TechCrunch：Google will let schools disable its AI tools, but not without sacrificing Search",
+        "The Verge：Google is entirely disabling Search in schools that don&#8217;t want AI"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "The Verge",
-          "title": "Bambu&#8217;s nine-nozzle H3C foretells the future of 3D printing",
-          "url": "https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend"
+          "source": "TechCrunch",
+          "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+          "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
         },
         {
-          "source": "Tom's Hardware",
-          "title": "Bambu Lab H3C 3D printer review: A nine-tool monster",
-          "url": "https://www.tomshardware.com/3d-printing/bambu-lab-h3c-3d-printer-review"
+          "source": "The Verge",
+          "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
+          "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features"
         }
       ]
     },
