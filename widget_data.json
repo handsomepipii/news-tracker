@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 15:06",
+  "updated_at": "2026-11-03 16:22",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "歐洲超市冰箱遭新一波網攻，荷比盧、瑞典等地傳災情",
+      "summary": [
+        "科技新報：歐洲超市冰箱遭新一波網攻，荷比盧、瑞典等地傳災情",
+        "經濟日報：歐洲7國超市冰箱遭駭　攻擊手法與幕後黑手一次看",
+        "公視新聞：20261103 公視早安新聞 完整版（無網路版權內容除外）｜冰箱被改為解凍模式 歐洲多國超市系統遭駭客攻擊"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "歐洲超市冰箱遭新一波網攻，荷比盧、瑞典等地傳災情",
+          "url": "https://infosecu.technews.tw/2026/11/03/new-cyberattack-on-supermarket-fridges-sweeps-across-europe/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "歐洲7國超市冰箱遭駭　攻擊手法與幕後黑手一次看",
+          "url": "https://money.udn.com/money/story/5599/9853418"
+        },
+        {
+          "source": "公視新聞",
+          "title": "20261103 公視早安新聞 完整版（無網路版權內容除外）｜冰箱被改為解凍模式 歐洲多國超市系統遭駭客攻擊",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HMUtKMi1EcjZ0SFFvUmgwcHpCaUFLTHozc044bDBNQW9JUnlHNkp1dTg5MVk3Zk8xR1ZRd0NUNGNMRFVTeWk3bzZtZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "舊北投市場拆除工程鷹架倒塌釀4傷 攤商目擊驚險瞬間：突然整個垮下來",
       "summary": [
         "自由時報：舊北投市場拆除工程鷹架倒塌釀4傷 攤商目擊驚險瞬間：突然整個垮下來",
@@ -50,91 +77,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "歐洲7國超市冰箱遭駭　攻擊手法與幕後黑手一次看",
-      "summary": [
-        "經濟日報：歐洲7國超市冰箱遭駭　攻擊手法與幕後黑手一次看",
-        "公視新聞：20261103 公視早安新聞 完整版（無網路版權內容除外）｜冰箱被改為解凍模式 歐洲多國超市系統遭駭客攻擊"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "歐洲7國超市冰箱遭駭　攻擊手法與幕後黑手一次看",
-          "url": "https://money.udn.com/money/story/5599/9853418"
-        },
-        {
-          "source": "公視新聞",
-          "title": "20261103 公視早安新聞 完整版（無網路版權內容除外）｜冰箱被改為解凍模式 歐洲多國超市系統遭駭客攻擊",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HMUtKMi1EcjZ0SFFvUmgwcHpCaUFLTHozc044bDBNQW9JUnlHNkp1dTg5MVk3Zk8xR1ZRd0NUNGNMRFVTeWk3bzZtZw?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 4,
-      "title": "俄軍空襲烏克蘭東南部村莊　至少18死27人失聯",
-      "summary": [
-        "自由時報：俄軍空襲烏克蘭東南部村莊　至少18死27人失聯",
-        "經濟日報：俄軍空襲烏克蘭東南部村莊　至少18死27人失聯"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "俄軍空襲烏克蘭東南部村莊　至少18死27人失聯",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5627243"
-        },
-        {
-          "source": "經濟日報",
-          "title": "俄軍空襲烏克蘭東南部村莊　至少18死27人失聯",
-          "url": "https://money.udn.com/money/story/5599/9853186"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "涉跟監蕭美琴！中國記者獲判無罪當庭釋放 捷克情報局屢警示防堵臺捷合作",
-      "summary": [
-        "自由時報：涉跟監蕭美琴！中國記者獲判無罪當庭釋放 捷克情報局屢警示防堵臺捷合作",
-        "經濟日報：曾傳與蕭美琴遭跟監有關！中國記者在捷克涉間諜案獲判無罪 檢方上訴"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "涉跟監蕭美琴！中國記者獲判無罪當庭釋放 捷克情報局屢警示防堵臺捷合作",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5627234"
-        },
-        {
-          "source": "經濟日報",
-          "title": "曾傳與蕭美琴遭跟監有關！中國記者在捷克涉間諜案獲判無罪 檢方上訴",
-          "url": "https://money.udn.com/money/story/5599/9853298"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "數發部督促TWCA完成產製符合標準新憑證將針對違約情事進行調查- 要聞",
-      "summary": [
-        "工商時報：數發部督促TWCA完成產製符合標準新憑證將針對違約情事進行調查- 要聞",
-        "科技新報：數發部：督促 TWCA 完成產製符合標準新憑證，調查違約情形"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "數發部督促TWCA完成產製符合標準新憑證將針對違約情事進行調查- 要聞",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmV0dmc0FBWHJBVFFVYnA5U2FmTGJpQk5DVG96VWpGbzFfN2xhdFVPNnhQcDltVFRvanVndUtGcjZVMm9NckdRWGQ3Q2duMUJoY3hPNjlseWJfVWU0bklR?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "數發部：督促 TWCA 完成產製符合標準新憑證，調查違約情形",
-          "url": "https://infosecu.technews.tw/2026/11/03/ministry-digital-affairs-urges-twca-complete-issuance-standard-compliant-new-certificates-investigate-violations/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "甲骨文拚 AI 不縮手 再籌資200億美元",
       "summary": [
         "經濟日報：甲骨文拚 AI 不縮手 再籌資200億美元",
@@ -155,7 +98,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "美免稅計畫排除南非盧安達　指涉貿易障礙與威脅利益",
       "summary": [
         "自由時報：美免稅計畫排除南非盧安達　指涉貿易障礙與威脅利益",
@@ -176,7 +119,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "期中選舉前夕　川普否認選後攻擊伊朗、稱可能達協議",
       "summary": [
         "自由時報：期中選舉前夕　川普否認選後攻擊伊朗、稱可能達協議",
@@ -197,7 +140,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "蘋果Q4營收優於預期　受惠iPhone銷售強勁",
       "summary": [
         "經濟日報：蘋果Q4營收優於預期　受惠iPhone銷售強勁",
@@ -216,53 +159,74 @@
           "url": "https://www.ithome.com.tw/news/180162"
         }
       ]
+    },
+    {
+      "rank": 8,
+      "title": "大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失",
+      "summary": [
+        "財訊：大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失",
+        "公開資訊觀測站重訊：大同華映案達和解！去年提列損失有望回沖約百億元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "財訊",
+          "title": "大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00VHY5dTJ5c01INVpEUklXWEtBdi1FT1hSRDdjX1ZoTVBFaGRDYmYwaTJkcDFhUXZ0S1JuNUJuZVctVUg0eHBaWGVacEE1RXV6WXQyUHlCV1JqVFVsQk5UMV9RVmxvNEMzNkRZUzU3M1pQanJrYW1sM3RvUQ?oc=5"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "大同華映案達和解！去年提列損失有望回沖約百億元",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWktkZ2VFYmgyU3c4anZxZGxUMFdKWHd6aFhCNElEazEtTXdGbTBBbVhkYy1ZS010d2Zodld0WGJpYk9GN015N2RXNHc4cDBleEVPckZUSnFjZ9IBX0FVX3lxTFBlSGt1Skd5UUcta3czVFB3RjZsbGh2MHNUM1lxLWQ3a2JGcktzR2pVODlvV1c5cVZiOWVXcWptUWh1Qy1sUm1YVXItbGloNklmYW43Ql9UOTlqZ285Mmhj?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "德國官員iPhone疑遭間諜軟體攻擊 政府展開調查",
+      "summary": [
+        "經濟日報：德國官員iPhone疑遭間諜軟體攻擊 政府展開調查",
+        "科技新報：德國官員 iPhone 疑遭間諜軟體攻擊，政府展開調查"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "德國官員iPhone疑遭間諜軟體攻擊 政府展開調查",
+          "url": "https://money.udn.com/money/story/5599/9853375"
+        },
+        {
+          "source": "科技新報",
+          "title": "德國官員 iPhone 疑遭間諜軟體攻擊，政府展開調查",
+          "url": "https://infosecu.technews.tw/2026/11/03/german-officials-iphones-spyware-attack-government-investigation/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "〈財報〉蘋果特納斯首份財報好壞參半！Q1毛利率展望失色 盤後一度挫4%",
+      "summary": [
+        "鉅亨網：〈財報〉蘋果特納斯首份財報好壞參半！Q1毛利率展望失色 盤後一度挫4%",
+        "今周刊：蘋果財報哪出問題？營收優預期，股價盤後卻跌逾4%！特納斯成績單解密：這關鍵數字透露「沒這麼好賺了」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "鉅亨網",
+          "title": "〈財報〉蘋果特納斯首份財報好壞參半！Q1毛利率展望失色 盤後一度挫4%",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53NGctOVA0b3pwRFl6Ym0wbE9xUjlZVHNld0htQVpxREgtZU5zQk9xd0xoVWRqUWIyUGNOLURVZzZKRlFBWHJaT1BaYWU0T0E?oc=5"
+        },
+        {
+          "source": "今周刊",
+          "title": "蘋果財報哪出問題？營收優預期，股價盤後卻跌逾4%！特納斯成績單解密：這關鍵數字透露「沒這麼好賺了」",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS3BjNXR6aU1tZXJHNFZwUk9mR0NXN21pZGNobEl4QXdMZmtzZUNzUms2c2tqelYyZUYtTzNBMURqTGZNaHd0VGk1akxySkZBVjBna3c1NDZLRzFPLWExcUl0TEI4LWZVeTlxeXdWUTlCQld1Nk9kRzNSUW5qR3YxMQ?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity",
-      "summary": [
-        "Yahoo Finance：Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity",
-        "TechCrunch：In one of the largest deals in tech history, Marvell buys Lumentum for $115B"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWxRNVQxYzItQzBISTcwM2FVN2szd2w3dlZfVnp0eWxLb2RHOEM2RzR1SnVLczBYVWRDSzV3a3FxN0VscjZ2OGZPbTR5aWYwLUpIdVprU1ZOV1lRSTVGM1RRSTVPSDNYTDM3TTdDaVhoaXhBeEE5eXFqV2V6SzBUNkdxTUJYNXJGVjFzQ1VvRVR2Rk0zVGVlUGczb3M5ZlZkLUxBZFhJWFBLOEtucW5ncHFBd2N1SFoydlE?oc=5"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-          "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "朝鮮進行戰略巡航導彈散佈戰鬥部威力評估試驗",
-      "summary": [
-        "韓聯社：朝鮮進行戰略巡航導彈散佈戰鬥部威力評估試驗",
-        "NHK新聞：北朝鮮が巡航ミサイルの発射実験を実施"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "朝鮮進行戰略巡航導彈散佈戰鬥部威力評估試驗",
-          "url": "https://cn.yna.co.kr/view/ACK20261103000800881"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "北朝鮮が巡航ミサイルの発射実験を実施",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261103de69951"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
       "summary": [
         "BBC World：Supreme Court rejects Trump's request to stop California counting disputed votes",
@@ -283,7 +247,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "North Korea denies being behind record $6.3bn Binance hack",
       "summary": [
         "BBC World：North Korea denies being behind record $6.3bn Binance hack",
@@ -304,7 +268,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "US strikes Iran’s Qeshm Island on eve of election",
       "summary": [
         "Financial Times：US strikes Iran’s Qeshm Island on eve of election",
@@ -325,7 +289,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "快訊：韓國10月CPI同比上漲2.8%",
       "summary": [
         "韓聯社：快訊：韓國10月CPI同比上漲2.8%"
@@ -340,7 +304,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "未完成的勝利：美國中期選舉前瞻與特朗普的加密政策遺產",
       "summary": [
         "FT中文網：未完成的勝利：美國中期選舉前瞻與特朗普的加密政策遺產"
@@ -355,7 +319,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "金與正：美指朝鮮為幣安駭客攻擊幕後黑手系政治挑釁",
       "summary": [
         "韓聯社：金與正：美指朝鮮為幣安駭客攻擊幕後黑手系政治挑釁"
@@ -370,7 +334,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "中國技術出口管制升級：利用工業優勢構建經濟武器庫- 紐約時報中文網",
       "summary": [
         "紐約時報中文：中國技術出口管制升級：利用工業優勢構建經濟武器庫- 紐約時報中文網"
@@ -385,17 +349,47 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "中國間諜活動：利用虛假身份竊取德國科研成果",
+      "rank": 8,
+      "title": "Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity",
       "summary": [
-        "法廣RFI：中國間諜活動：利用虛假身份竊取德國科研成果"
+        "Yahoo Finance：Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWxRNVQxYzItQzBISTcwM2FVN2szd2w3dlZfVnp0eWxLb2RHOEM2RzR1SnVLczBYVWRDSzV3a3FxN0VscjZ2OGZPbTR5aWYwLUpIdVprU1ZOV1lRSTVGM1RRSTVPSDNYTDM3TTdDaVhoaXhBeEE5eXFqV2V6SzBUNkdxTUJYNXJGVjFzQ1VvRVR2Rk0zVGVlUGczb3M5ZlZkLUxBZFhJWFBLOEtucW5ncHFBd2N1SFoydlE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "埃及泳將奪2026青奧會非洲首金",
+      "summary": [
+        "法廣RFI：埃及泳將奪2026青奧會非洲首金"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "中國間諜活動：利用虛假身份竊取德國科研成果",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261102-%E4%B8%AD%E5%9C%8B%E9%96%93%E8%AB%9C%E6%B4%BB%E5%8B%95-%E5%88%A9%E7%94%A8%E8%99%9B%E5%81%87%E8%BA%AB%E4%BB%BD%E7%AB%8A%E5%8F%96%E5%BE%B7%E5%9C%8B%E7%A7%91%E7%A0%94%E6%88%90%E6%9E%9C"
+          "title": "埃及泳將奪2026青奧會非洲首金",
+          "url": "https://www.rfi.fr/tw/%E9%9D%9E%E6%B4%B2/20261102-rfi%E6%B3%95%E5%BB%A3-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E5%9F%83%E5%8F%8A%E6%B3%B3%E5%B0%87%E5%A5%AA2026%E9%9D%92%E5%A5%A7%E6%9C%83%E9%9D%9E%E6%B4%B2%E9%A6%96%E9%87%91"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "中期選舉前特朗普發表演講動員共和黨人抵禦民主黨， 但講得東拉西扯",
+      "summary": [
+        "法廣RFI：中期選舉前特朗普發表演講動員共和黨人抵禦民主黨， 但講得東拉西扯"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "中期選舉前特朗普發表演講動員共和黨人抵禦民主黨， 但講得東拉西扯",
+          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261102-%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%89%8D%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BC%E8%A1%A8%E6%BC%94%E8%AC%9B%E5%8B%95%E5%93%A1%E5%85%B1%E5%92%8C%E9%BB%A8%E4%BA%BA%E6%8A%B5%E7%A6%A6%E6%B0%91%E4%B8%BB%E9%BB%A8%EF%BC%8C-%E4%BD%86%E8%AC%9B%E5%BE%97%E6%9D%B1%E6%8B%89%E8%A5%BF%E6%89%AF"
         }
       ]
     }
