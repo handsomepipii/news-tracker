@@ -280,6 +280,10 @@ def init_db():
                     translated_links TEXT,
                     created_at TIMESTAMP
                 )''')
+    c.execute('''CREATE TABLE IF NOT EXISTS sent_notifications (
+                    dedup_key TEXT PRIMARY KEY,
+                    sent_at TIMESTAMP
+                )''')
     try:
         c.execute("ALTER TABLE summary_cache ADD COLUMN translated_links TEXT")
     except sqlite3.OperationalError:
@@ -418,7 +422,8 @@ def fetch_all_feeds(conn):
     conn.commit()
     return new_articles, error_logs
 
-def check_keywords(new_articles):
+# 👇 【修改參數】加入 conn
+def check_keywords(conn, new_articles):
     if not os.path.exists(KEYWORDS_PATH):
         return
     with open(KEYWORDS_PATH, "r", encoding="utf-8") as f:
@@ -426,11 +431,28 @@ def check_keywords(new_articles):
     if not keywords:
         return
 
+    c = conn.cursor()
+    now_iso = datetime.now(timezone.utc).isoformat()
+
     for a in new_articles:
         raw_t = a.get("raw_title", a["title"]).lower()
         zh_t = a["title"].lower()
         matched = [kw for kw in keywords if kw.lower() in raw_t or kw.lower() in zh_t]
+        
         if matched:
+            # 新增防重複邏輯】同時以「網址」與「標題」作為唯一識別鍵
+            link_key = f"link:{a['link']}"
+            title_key = f"title:{a['title'].strip()}"
+
+            # 檢查這則新聞的網址或標題是否已經發送過
+            c.execute(
+                "SELECT 1 FROM sent_notifications WHERE dedup_key IN (?, ?)",
+                (link_key, title_key)
+            )
+            if c.fetchone():
+                # 已經發送過，直接跳過不推播
+                continue
+
             msg = (
                 f"🚨 <b>關鍵字命中：{', '.join(matched)}</b>\n\n"
                 f"📰 {a['title']}\n"
@@ -438,6 +460,18 @@ def check_keywords(new_articles):
                 f"🔗 <a href='{a['link']}'>點此閱讀報導</a>"
             )
             send_tg_message(msg)
+
+            #新增寫入紀錄】推播後將網址與標題寫入資料庫，未來不再重複發送
+            c.execute(
+                "INSERT OR IGNORE INTO sent_notifications (dedup_key, sent_at) VALUES (?, ?)",
+                (link_key, now_iso)
+            )
+            c.execute(
+                "INSERT OR IGNORE INTO sent_notifications (dedup_key, sent_at) VALUES (?, ?)",
+                (title_key, now_iso)
+            )
+
+    conn.commit()
 
 def find_cached_summary(conn, current_links):
     c = conn.cursor()
@@ -715,6 +749,10 @@ def cleanup_old_data(conn):
     cutoff = (datetime.now(timezone.utc) - timedelta(hours=48)).isoformat()
     c.execute("DELETE FROM articles WHERE fetched_at < ?", (cutoff,))
     c.execute("DELETE FROM summary_cache WHERE created_at < ?", (cutoff,))
+    # 【新增這兩行】已推播紀錄保留 30 天，防止舊聞被重抓時再次推播
+    sent_cutoff = (datetime.now(timezone.utc) - timedelta(days=30)).isoformat()
+    c.execute("DELETE FROM sent_notifications WHERE sent_at < ?", (sent_cutoff,))
+    
     conn.commit()
 
 def main():
@@ -722,7 +760,7 @@ def main():
     new_articles, error_logs = fetch_all_feeds(conn)
 
     if new_articles:
-        check_keywords(new_articles)
+        check_keywords(conn, new_articles)
 
     if error_logs:
         err_msg = "⚠️ <b>RSS 媒體讀取異常報告</b>\n" + "\n".join(error_logs[:15])
