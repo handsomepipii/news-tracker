@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 04:50",
+  "updated_at": "2026-11-04 05:48",
   "taiwan": [
     {
       "rank": 1,
@@ -51,27 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "AI 攻擊威脅升高，數發部成立跨部會資安應變小組",
-      "summary": [
-        "科技新報：AI 攻擊威脅升高，數發部成立跨部會資安應變小組",
-        "公視新聞：代理式AI網路攻擊力道增 專家籲匯入AI防禦、強化偵測"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "AI 攻擊威脅升高，數發部成立跨部會資安應變小組",
-          "url": "https://infosecu.technews.tw/2026/11/03/moda-ai-csirt/"
-        },
-        {
-          "source": "公視新聞",
-          "title": "代理式AI網路攻擊力道增 專家籲匯入AI防禦、強化偵測",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QYno0bEp4ZG9GdUoydk5RSlk1NVZYUnAzRHZMalJqMnNWY0NHQmM1S0NSMHFvU3Qtc0ZxMkFKTDZHVXZIcXdmTm85bnYzZ0k?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "顧安生病逝「胡錦一直在哭」！　粘嫦鈺PO文悼念揭私下對話",
       "summary": [
         "ETtoday：顧安生病逝「胡錦一直在哭」！　粘嫦鈺PO文悼念揭私下對話",
@@ -92,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "臺籍女子涉走私2.6公斤喪屍煙彈 茅臺酒瓶藏毒闖關日本遭逮",
       "summary": [
         "自由時報：臺籍女子涉走私2.6公斤喪屍煙彈 茅臺酒瓶藏毒闖關日本遭逮",
@@ -113,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "期貨最新報價11／3期交所夜盤行情- 上市櫃",
       "summary": [
         "中時新聞：期貨最新報價11／3期交所夜盤行情- 上市櫃",
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "防範臺海衝突　日陸上自衛隊擬整合飛彈指揮系統2030年啟用",
       "summary": [
         "經濟日報：防範臺海衝突　日陸上自衛隊擬整合飛彈指揮系統2030年啟用",
@@ -155,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
       "summary": [
         "自由時報：川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
@@ -176,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "美司法部派1000名選舉監督員進駐50州　規模史上最大",
       "summary": [
         "自由時報：美司法部派1000名選舉監督員進駐50州　規模史上最大",
@@ -197,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "市場關注美國期中選舉　歐股收低",
       "summary": [
         "自由時報：市場關注美國期中選舉　歐股收低",
@@ -214,6 +193,27 @@
           "source": "經濟日報",
           "title": "市場關注美國期中選舉　歐股收低",
           "url": "https://money.udn.com/money/story/5599/9855656"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "白宮：梅蘭妮亞將接見俄烏代表　為美國歷史非凡時刻",
+      "summary": [
+        "自由時報：白宮：梅蘭妮亞將接見俄烏代表　為美國歷史非凡時刻",
+        "經濟日報：白宮：梅蘭妮亞將接見俄烏代表　為美國歷史非凡時刻"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "白宮：梅蘭妮亞將接見俄烏代表　為美國歷史非凡時刻",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628494"
+        },
+        {
+          "source": "經濟日報",
+          "title": "白宮：梅蘭妮亞將接見俄烏代表　為美國歷史非凡時刻",
+          "url": "https://money.udn.com/money/story/5599/9855650"
         }
       ]
     }
@@ -248,28 +248,28 @@
     },
     {
       "rank": 2,
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
       "summary": [
-        "BBC World：Binance says fake job interviews used as part of $6.3bn crypto hack",
-        "Bloomberg Tech：Binance Hackers Used Fake Job Interviews in Record Heist",
-        "CNBC：Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto"
+        "TechCrunch：Google will let schools disable its AI tools, but not without sacrificing Search",
+        "Ars Technica：Google will let schools skip AI tools, but they have to give up search, too",
+        "Wccftech：Google Tells Schools To Accept AI Or Lose Google Search Access Entirely"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "BBC World",
-          "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
+          "source": "TechCrunch",
+          "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+          "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
         },
         {
-          "source": "Bloomberg Tech",
-          "title": "Binance Hackers Used Fake Job Interviews in Record Heist",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-03/binance-hackers-used-fake-job-interviews-in-6-3-billion-heist"
+          "source": "Ars Technica",
+          "title": "Google will let schools skip AI tools, but they have to give up search, too",
+          "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
         },
         {
-          "source": "CNBC",
-          "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
-          "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
+          "source": "Wccftech",
+          "title": "Google Tells Schools To Accept AI Or Lose Google Search Access Entirely",
+          "url": "https://wccftech.com/google-tells-schools-to-accept-ai-or-lose-google-search-access-entirely/"
         }
       ]
     },
@@ -296,118 +296,118 @@
     },
     {
       "rank": 4,
-      "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
       "summary": [
-        "CNBC：JetBlue raises bag fees for third time in a year as fuel costs bite",
-        "Investing.com：JetBlue raises checked bag fees to $70 amid fuel costs"
+        "BBC World：Binance says fake job interviews used as part of $6.3bn crypto hack",
+        "CNBC：Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "CNBC",
-          "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
-          "url": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html"
+          "source": "BBC World",
+          "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Investing.com",
-          "title": "JetBlue raises checked bag fees to $70 amid fuel costs",
-          "url": "https://www.investing.com/news/stock-market-news/jetblue-raises-checked-bag-fees-to-70-amid-fuel-costs-4996308"
+          "source": "CNBC",
+          "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+          "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "title": "Super Micro Outlook Tops Estimates on AI-Fueled Server Demand",
       "summary": [
-        "TechCrunch：Google will let schools disable its AI tools, but not without sacrificing Search",
-        "Ars Technica：Google will let schools skip AI tools, but they have to give up search, too"
+        "Bloomberg Tech：Super Micro Outlook Tops Estimates on AI-Fueled Server Demand",
+        "Investing.com：Super Micro forecasts quarterly revenue above estimates on strong AI server demand"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "TechCrunch",
-          "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-          "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+          "source": "Bloomberg Tech",
+          "title": "Super Micro Outlook Tops Estimates on AI-Fueled Server Demand",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-03/super-micro-gives-outlook-that-tops-estimates-on-server-demand"
         },
         {
-          "source": "Ars Technica",
-          "title": "Google will let schools skip AI tools, but they have to give up search, too",
-          "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
+          "source": "Investing.com",
+          "title": "Super Micro forecasts quarterly revenue above estimates on strong AI server demand",
+          "url": "https://www.investing.com/news/stock-market-news/super-micro-forecasts-quarterly-revenue-above-estimates-on-strong-ai-server-demand-4996409"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "《蘋果日報》前社長張劍虹提早獲釋，赴深圳交流、向官媒稱「好懊悔」",
+      "title": "調研：歐洲的數字依賴日益嚴重",
       "summary": [
-        "BBC中文：《蘋果日報》前社長張劍虹提早獲釋，赴深圳交流、向官媒稱「好懊悔」"
+        "德國之聲：調研：歐洲的數字依賴日益嚴重"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "BBC中文",
-          "title": "《蘋果日報》前社長張劍虹提早獲釋，赴深圳交流、向官媒稱「好懊悔」",
-          "url": "https://www.bbc.com/zhongwen/articles/c6eq3ez3qvnxo/trad?at_medium=RSS&at_campaign=rss"
+          "source": "德國之聲",
+          "title": "調研：歐洲的數字依賴日益嚴重",
+          "url": "https://www.dw.com/zh/调研：欧洲的数字依赖日益严重/a-79806283?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "美國週一“防禦性”空襲伊朗位於霍爾木茲海峽的格什姆島",
+      "title": "中國是否會舉辦中美俄三方峰會，談烏克蘭戰爭？各方表態",
       "summary": [
-        "法廣RFI：美國週一“防禦性”空襲伊朗位於霍爾木茲海峽的格什姆島"
+        "法廣RFI：中國是否會舉辦中美俄三方峰會，談烏克蘭戰爭？各方表態"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "美國週一“防禦性”空襲伊朗位於霍爾木茲海峽的格什姆島",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261103-%E7%BE%8E%E5%9C%8B%E5%91%A8%E4%B8%80-%E9%98%B2%E7%A6%A6%E6%80%A7-%E7%A9%BA%E8%A5%B2%E4%BC%8A%E6%9C%97%E4%BD%8D%E6%96%BC%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E7%9A%84%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B3%B6"
+          "title": "中國是否會舉辦中美俄三方峰會，談烏克蘭戰爭？各方表態",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261103-%E4%B8%AD%E5%9C%8B%E6%98%AF%E5%90%A6%E6%9C%83%E8%88%89%E8%BE%A6%E4%B8%AD%E7%BE%8E%E4%BF%84%E4%B8%89%E6%96%B9%E5%B3%B0%E6%9C%83%EF%BC%8C%E8%AB%87%E7%83%8F%E5%85%8B%E8%98%AD%E6%88%B0%E7%88%AD-%E5%90%84%E6%96%B9%E8%A1%A8%E6%85%8B"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "日本與臺灣或最早於今年年底簽署一項全面經貿協定",
+      "title": "美國擬為\"影子艦隊\"鬆綁？專家警告莫削弱對俄製裁",
       "summary": [
-        "法廣RFI：日本與臺灣或最早於今年年底簽署一項全面經貿協定"
+        "德國之聲：美國擬為\"影子艦隊\"鬆綁？專家警告莫削弱對俄製裁"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "日本與臺灣或最早於今年年底簽署一項全面經貿協定",
-          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261103-%E6%97%A5%E6%9C%AC%E8%88%87%E5%8F%B0%E7%81%A3%E6%88%96%E6%9C%80%E6%97%A9%E6%96%BC%E4%BB%8A%E5%B9%B4%E5%B9%B4%E5%BA%95%E7%B0%BD%E7%BD%B2%E4%B8%80%E9%A0%85%E5%85%A8%E9%9D%A2%E7%B6%93%E8%B2%BF%E5%8D%94%E5%AE%9A"
+          "source": "德國之聲",
+          "title": "美國擬為\"影子艦隊\"鬆綁？專家警告莫削弱對俄製裁",
+          "url": "https://www.dw.com/zh/美国拟为-影子舰队-松绑？专家警告莫削弱对俄制裁/a-79806146?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "另類大撒幣？ 百年國際法律組織受資助落戶香港 中港政府卻稱彰顯香港成就",
+      "title": "牆外文摘：33人被開除黨籍，為什麼問責到不了習近平？",
       "summary": [
-        "法廣RFI：另類大撒幣？ 百年國際法律組織受資助落戶香港 中港政府卻稱彰顯香港成就"
+        "德國之聲：牆外文摘：33人被開除黨籍，為什麼問責到不了習近平？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "另類大撒幣？ 百年國際法律組織受資助落戶香港 中港政府卻稱彰顯香港成就",
-          "url": "https://www.rfi.fr/tw/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261103-%E5%8F%A6%E9%A1%9E%E5%A4%A7%E6%92%92%E5%B9%A3-%E7%99%BE%E5%B9%B4%E5%9C%8B%E9%9A%9B%E6%B3%95%E5%BE%8B%E7%B5%84%E7%B9%94%E5%8F%97%E8%B3%87%E5%8A%A9%E8%90%BD%E6%88%B6%E9%A6%99%E6%B8%AF-%E4%B8%AD%E6%B8%AF%E6%94%BF%E5%BA%9C%E5%8D%BB%E7%A8%B1%E5%BD%B0%E9%A1%AF%E9%A6%99%E6%B8%AF%E6%88%90%E5%B0%B1"
+          "source": "德國之聲",
+          "title": "牆外文摘：33人被開除黨籍，為什麼問責到不了習近平？",
+          "url": "https://www.dw.com/zh/墙外文摘：33人被开除党籍，为什么问责到不了习近平？/a-79820930?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "中港領導人習近平丶李家超連任「新聞自由掠奪者」　兩歐洲領導人因敗選而落榜",
+      "title": "韓土領導人舉行會談 商定深化核電與軍工合作",
       "summary": [
-        "法廣RFI：中港領導人習近平丶李家超連任「新聞自由掠奪者」　兩歐洲領導人因敗選而落榜"
+        "韓聯社：韓土領導人舉行會談 商定深化核電與軍工合作"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "中港領導人習近平丶李家超連任「新聞自由掠奪者」　兩歐洲領導人因敗選而落榜",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261103-%E4%B8%AD%E6%B8%AF%E9%A0%98%E5%B0%8E%E4%BA%BA%E7%BF%92%E8%BF%91%E5%B9%B3%E4%B8%B6%E6%9D%8E%E5%AE%B6%E8%B6%85%E9%80%A3%E4%BB%BB-%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1%E6%8E%A0%E5%A5%AA%E8%80%85-%E5%85%A9%E6%AD%90%E6%B4%B2%E9%A0%98%E5%B0%8E%E4%BA%BA%E5%9B%A0%E6%95%97%E9%81%B8%E8%80%8C%E8%90%BD%E6%A6%9C"
+          "source": "韓聯社",
+          "title": "韓土領導人舉行會談 商定深化核電與軍工合作",
+          "url": "https://cn.yna.co.kr/view/ACK20261103004800881"
         }
       ]
     }
