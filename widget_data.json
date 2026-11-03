@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 21:49",
+  "updated_at": "2026-11-03 23:01",
   "taiwan": [
     {
       "rank": 1,
@@ -51,69 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "20261103 公視AI手語天氣報導 ｜東北季風影響 迎風面有雨轉涼",
-      "summary": [
-        "公視新聞：20261103 公視AI手語天氣報導 ｜東北季風影響 迎風面有雨轉涼",
-        "中時新聞：天氣》東北季風接力 4縣巿大雨特報 這天起低溫探19°C"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公視新聞",
-          "title": "20261103 公視AI手語天氣報導 ｜東北季風影響 迎風面有雨轉涼",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQVXJaVWk2NXJ5SmlFU1YxQmVENmRtMV9HUl9oM1FPblkyR29ycG0yckJnaGVMQlAxdDA0NElDMHFDUmZxQlNGejNndw?oc=5"
-        },
-        {
-          "source": "中時新聞",
-          "title": "天氣》東北季風接力 4縣巿大雨特報 這天起低溫探19°C",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WRk5ONlRGaXVtdEsyZzJ4UUlOS2tzVVRNWHlPSGVWbVRqMFltNW56dXNWOEs3OHlCSjNsWWxBeDNtMnd5eXhYSENUcUNpbkhXTExEOUlNc0YxOEJFanpEYXZDMmxieG9yY0ZNUEJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "美軍秘密攻擊伊朗葛希姆島　刻意保持低調避免全面開戰",
-      "summary": [
-        "經濟日報：美軍秘密攻擊伊朗葛希姆島　刻意保持低調避免全面開戰",
-        "自由時報：美軍低調空襲伊朗最大島！ 美官員認了：防禦性攻擊"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美軍秘密攻擊伊朗葛希姆島　刻意保持低調避免全面開戰",
-          "url": "https://money.udn.com/money/story/5599/9853547"
-        },
-        {
-          "source": "自由時報",
-          "title": "美軍低調空襲伊朗最大島！ 美官員認了：防禦性攻擊",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5627540"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "英資安機構警告關鍵設施恐成AI網攻目標　中國威脅受關注",
-      "summary": [
-        "經濟日報：英資安機構警告關鍵設施恐成AI網攻目標　中國威脅受關注",
-        "科技新報：英資安機構警告關鍵設施恐成 AI 網攻目標，中國威脅受關注"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "英資安機構警告關鍵設施恐成AI網攻目標　中國威脅受關注",
-          "url": "https://money.udn.com/money/story/5599/9853487"
-        },
-        {
-          "source": "科技新報",
-          "title": "英資安機構警告關鍵設施恐成 AI 網攻目標，中國威脅受關注",
-          "url": "https://infosecu.technews.tw/2026/11/03/uk-cybersecurity-agency-warns-critical-infrastructure-vulnerable-ai-cyberattacks-highlighting-china-threat/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "萬元有找？任天堂平價版 Switch 2 掌機規格首度曝光",
       "summary": [
         "ETtoday：萬元有找？任天堂平價版 Switch 2 掌機規格首度曝光",
@@ -134,7 +71,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "Marvell史上最大併購！砸1150億美元併Lumentum：搶攻AI算力「光傳輸」技術，股價為何雙雙重挫？",
       "summary": [
         "數位時代：Marvell史上最大併購！砸1150億美元併Lumentum：搶攻AI算力「光傳輸」技術，股價為何雙雙重挫？",
@@ -155,7 +92,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "大同爆近百億利多！華映案和解金大減75%、每股貢獻4.6元，股價為何衝高翻黑？ | 下班經濟學 | 財經",
       "summary": [
         "公開資訊觀測站重訊：大同爆近百億利多！華映案和解金大減75%、每股貢獻4.6元，股價為何衝高翻黑？ | 下班經濟學 | 財經",
@@ -176,7 +113,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "OpenAI延攬美前陸軍部長德里斯科　出任國安事務顧問",
       "summary": [
         "經濟日報：OpenAI延攬美前陸軍部長德里斯科　出任國安事務顧問",
@@ -197,7 +134,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "記憶體漲價侵蝕獲利　蘋果估購物季毛利率下滑",
       "summary": [
         "經濟日報：記憶體漲價侵蝕獲利　蘋果估購物季毛利率下滑",
@@ -214,6 +151,69 @@
           "source": "科技新報",
           "title": "記憶體漲價侵蝕獲利，蘋果估購物季毛利率下滑",
           "url": "https://technews.tw/2026/11/03/apple-forecasts-margin-drop-in-holiday-quarter-as-rising-memory-costs-bite/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "冰箱被改為解凍模式 歐洲多國超市系統遭駭客攻擊",
+      "summary": [
+        "公視新聞：冰箱被改為解凍模式 歐洲多國超市系統遭駭客攻擊",
+        "經濟日報：歐洲超市冰箱接連遭網攻　歐盟執委會將商討應對措施"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公視新聞",
+          "title": "冰箱被改為解凍模式 歐洲多國超市系統遭駭客攻擊",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOaUdzbG5jcHluRWNNNXhQQTU0LTVDZ0Q2X01GQTlNcUh6bmZDcFRSTGxtVWNybU9Ub1ZMVXRMTmcxQktka2sxQTlZcUhVR2c?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "歐洲超市冰箱接連遭網攻　歐盟執委會將商討應對措施",
+          "url": "https://money.udn.com/money/story/5599/9855390"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "臺積電成全球第7大企業 那斯達克高層：國家成就",
+      "summary": [
+        "自由時報：臺積電成全球第7大企業 那斯達克高層：國家成就",
+        "科技新報：那斯達克高層：臺積電成全球第七大企業，反映該國建立的成就"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "臺積電成全球第7大企業 那斯達克高層：國家成就",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5627922"
+        },
+        {
+          "source": "科技新報",
+          "title": "那斯達克高層：臺積電成全球第七大企業，反映該國建立的成就",
+          "url": "https://finance.technews.tw/2026/11/03/edward-knight-says-tsmc-reflects-taiwan-achievements/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "波蘭憲政危機：憲法法院正副院長遭停職，引爆總理vs.總統司法主導權爭奪戰",
+      "summary": [
+        "轉角國際：波蘭憲政危機：憲法法院正副院長遭停職，引爆總理vs.總統司法主導權爭奪戰",
+        "關鍵評論網：波蘭憲政風暴：極右翼法官遭親歐政府停職，在野黨怒轟執政黨發動「政變」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "轉角國際",
+          "title": "波蘭憲政危機：憲法法院正副院長遭停職，引爆總理vs.總統司法主導權爭奪戰",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBOV9kRk56X2pqUGVxbmk3dWZuOVptOUZxNWNkQXRtMVVGNURKbGt6bHp6MDhrbVZXWjdLV1RqaFRqTXhvOHhDWDhVRnNVcVNOR0h2TWR1YnVrZWQ5OTFFX0tlS0kyd9IBa0FVX3lxTE90TGZocXRSLU1xTTktSV9hNk1hWjl3N0VGU0l4Q1A4S3E4WkxuR1B1UjNBWHlOQUlORUtGS0RBSTNPQktaOF9UdjE3MW1iMlRUaDNWLV9TVkxVNDZpa3JWMHhST2ZZX0FUSUJr?oc=5"
+        },
+        {
+          "source": "關鍵評論網",
+          "title": "波蘭憲政風暴：極右翼法官遭親歐政府停職，在野黨怒轟執政黨發動「政變」",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPMlB6UUNiUHVBN0ZFaXJLdlA0M3ZGWGxCZ21WcjJZZWpBOTNPWlpwN2RKVWZMcVZla3hkVHdEc3NPQ0tWaXNGYWdlTWFHdklELXZCaA?oc=5"
         }
       ]
     }
@@ -242,6 +242,27 @@
     },
     {
       "rank": 2,
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "summary": [
+        "BBC World：US strikes Iranian island ahead of midterm elections",
+        "Financial Times：US strikes Iran’s Qeshm Island on eve of election"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "US strikes Iranian island ahead of midterm elections",
+          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Financial Times",
+          "title": "US strikes Iran’s Qeshm Island on eve of election",
+          "url": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
       "summary": [
         "BBC World：Supreme Court rejects Trump's request to stop California counting disputed votes",
@@ -262,7 +283,28 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Bambu&#8217;s nine-nozzle H3C foretells the future of 3D printing",
+      "summary": [
+        "The Verge：Bambu&#8217;s nine-nozzle H3C foretells the future of 3D printing",
+        "Tom's Hardware：Bambu Lab H3C 3D printer review: A nine-tool monster"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "Bambu&#8217;s nine-nozzle H3C foretells the future of 3D printing",
+          "url": "https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "Bambu Lab H3C 3D printer review: A nine-tool monster",
+          "url": "https://www.tomshardware.com/3d-printing/bambu-lab-h3c-3d-printer-review"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "中國技術出口管制升級：利用工業優勢構建經濟武器庫- 紐約時報中文網",
       "summary": [
         "紐約時報中文：中國技術出口管制升級：利用工業優勢構建經濟武器庫- 紐約時報中文網"
@@ -277,67 +319,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "一文讀懂美國期中選舉：兩黨各持何種立場，選情如何- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：一文讀懂美國期中選舉：兩黨各持何種立場，選情如何- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "一文讀懂美國期中選舉：兩黨各持何種立場，選情如何- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaTRLMk1XMWFMbm50c0Q3bVF5X29tbG9pQm5oVkl2ck5ka18tcWZpeVJaQS1UUlJVc2VaQ2czMFNwT2I0bDUwWElBNWVxZnhaaXVRM1FSZ3dwcF9iQnZaQ01JMU13elo0bERBWnFxcWdkQWVwMzFoNmxUbWV3XzljMHMwT3ZEOUNFUVprQlFNMklTUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "李在明及幕僚團隊個人資訊遭洩露",
-      "summary": [
-        "韓聯社：李在明及幕僚團隊個人資訊遭洩露"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "李在明及幕僚團隊個人資訊遭洩露",
-          "url": "https://cn.yna.co.kr/view/ACK20261103001400881"
-        }
-      ]
-    },
-    {
       "rank": 6,
-      "title": "2026韓聯社未來經濟論壇今舉行",
-      "summary": [
-        "韓聯社：2026韓聯社未來經濟論壇今舉行"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "2026韓聯社未來經濟論壇今舉行",
-          "url": "https://cn.yna.co.kr/view/ACK20261103001300881"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "中期選舉：特朗普帝王式總統派頭面臨現實檢驗",
-      "summary": [
-        "FT中文網：中期選舉：特朗普帝王式總統派頭面臨現實檢驗"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "FT中文網",
-          "title": "中期選舉：特朗普帝王式總統派頭面臨現實檢驗",
-          "url": "https://www.ftchinese.com/story/001111267"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "全球人工智慧熱潮中的「黑馬」：馬來西亞",
       "summary": [
         "紐約時報中文：全球人工智慧熱潮中的「黑馬」：馬來西亞"
@@ -352,7 +334,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "中國：一名男子因用繩子拴著9歲兒子跑馬拉松被禁賽3年",
       "summary": [
         "法廣RFI：中國：一名男子因用繩子拴著9歲兒子跑馬拉松被禁賽3年"
@@ -367,7 +349,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "美國前科學特使丹尼爾•卡曼：如何利用“鴨子曲線”？",
       "summary": [
         "FT中文網：美國前科學特使丹尼爾•卡曼：如何利用“鴨子曲線”？"
@@ -378,6 +360,36 @@
           "source": "FT中文網",
           "title": "美國前科學特使丹尼爾•卡曼：如何利用“鴨子曲線”？",
           "url": "https://www.ftchinese.com/story/001111264"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "特朗普治下，美國經濟的真實表現如何？",
+      "summary": [
+        "BBC中文：特朗普治下，美國經濟的真實表現如何？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "特朗普治下，美國經濟的真實表現如何？",
+          "url": "https://www.bbc.com/zhongwen/articles/cqkgke5j6yego/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "アメリカ中間選挙 投票始まる トランプ政権への有権者の評価は",
+      "summary": [
+        "NHK新聞：アメリカ中間選挙 投票始まる トランプ政権への有権者の評価は"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "アメリカ中間選挙 投票始まる トランプ政権への有権者の評価は",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261103de69983"
         }
       ]
     }
