@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 09:48",
+  "updated_at": "2026-11-03 10:54",
   "taiwan": [
     {
       "rank": 1,
@@ -57,22 +57,28 @@
     },
     {
       "rank": 3,
-      "title": "歐洲超市冰箱遭新一波網攻　荷比盧、瑞典等地傳災情",
+      "title": "佛州空難釀9死　調查當局：飛機墜毀前似有零件脫落",
       "summary": [
-        "經濟日報：歐洲超市冰箱遭新一波網攻　荷比盧、瑞典等地傳災情",
-        "科技新報：歐洲超市冰箱遭新一波網攻，荷比盧、瑞典等地傳災情"
+        "自由時報：佛州空難釀9死　調查當局：飛機墜毀前似有零件脫落",
+        "經濟日報：佛州空難釀9死　調查當局：飛機墜毀前似有零件脫落",
+        "公視新聞：美國佛州小型客機墜毀 機上9人罹難、原因待查｜20261102 公視午間新聞 ｜ 公視新聞 PNN"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "歐洲超市冰箱遭新一波網攻　荷比盧、瑞典等地傳災情",
-          "url": "https://money.udn.com/money/story/5599/9852869"
+          "source": "自由時報",
+          "title": "佛州空難釀9死　調查當局：飛機墜毀前似有零件脫落",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5627248"
         },
         {
-          "source": "科技新報",
-          "title": "歐洲超市冰箱遭新一波網攻，荷比盧、瑞典等地傳災情",
-          "url": "https://infosecu.technews.tw/2026/11/03/new-cyberattack-on-supermarket-fridges-sweeps-across-europe/"
+          "source": "經濟日報",
+          "title": "佛州空難釀9死　調查當局：飛機墜毀前似有零件脫落",
+          "url": "https://money.udn.com/money/story/10511/9853207"
+        },
+        {
+          "source": "公視新聞",
+          "title": "美國佛州小型客機墜毀 機上9人罹難、原因待查｜20261102 公視午間新聞 ｜ 公視新聞 PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TUEItZzNtVzgtbHJhbzRacTVSejNVdkFIZXpSUDRLNC1MUmZld2hjMmFkeW04c0hlOFFRei1UWlhEQS1DZkZLcVhqVQ?oc=5"
         }
       ]
     },
@@ -99,90 +105,6 @@
     },
     {
       "rank": 5,
-      "title": "波蘭憲政危機升溫 歐盟強調國會有權任命憲法法官",
-      "summary": [
-        "自由時報：波蘭憲政危機升溫 歐盟強調國會有權任命憲法法官",
-        "經濟日報：波蘭憲政危機升溫 歐盟強調國會有權任命憲法法官"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "波蘭憲政危機升溫 歐盟強調國會有權任命憲法法官",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5627142"
-        },
-        {
-          "source": "經濟日報",
-          "title": "波蘭憲政危機升溫 歐盟強調國會有權任命憲法法官",
-          "url": "https://money.udn.com/money/story/5599/9852846"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "英國徒步冒險家布希比返抵家鄉 結束28年5萬公里史詩級旅程",
-      "summary": [
-        "自由時報：英國徒步冒險家布希比返抵家鄉 結束28年5萬公里史詩級旅程",
-        "經濟日報：英國徒步冒險家布希比返抵家鄉 結束28年5萬公里史詩級旅程"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "英國徒步冒險家布希比返抵家鄉 結束28年5萬公里史詩級旅程",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5627128"
-        },
-        {
-          "source": "經濟日報",
-          "title": "英國徒步冒險家布希比返抵家鄉 結束28年5萬公里史詩級旅程",
-          "url": "https://money.udn.com/money/story/5599/9852825"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "中職》年度MVP揭曉！味全王牌蔣銲拿下年度最大獎",
-      "summary": [
-        "自由時報：中職》年度MVP揭曉！味全王牌蔣銲拿下年度最大獎",
-        "TVBS新聞：蔣銲奪中職年度MVP 抱走4獎成最大贏家｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "中職》年度MVP揭曉！味全王牌蔣銲拿下年度最大獎",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5626944"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "蔣銲奪中職年度MVP 抱走4獎成最大贏家｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92U0kxdjZzVXZ2T2prZVZOa3FVQ0Z6QWlVU24wNkwxRGdaX3p5N0dDbXlrVXY4SEs3Qk1LblNFTDVTQTB2X2hkM3ZucGl6TG9iTDZ3SDdB?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "大同華映案37.5億和解　公司重訊：預期可回沖百億損失",
-      "summary": [
-        "ETtoday：大同華映案37.5億和解　公司重訊：預期可回沖百億損失",
-        "財訊：大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "大同華映案37.5億和解　公司重訊：預期可回沖百億損失",
-          "url": "https://finance.ettoday.net/news/3265148"
-        },
-        {
-          "source": "財訊",
-          "title": "大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00VHY5dTJ5c01INVpEUklXWEtBdi1FT1hSRDdjX1ZoTVBFaGRDYmYwaTJkcDFhUXZ0S1JuNUJuZVctVUg0eHBaWGVacEE1RXV6WXQyUHlCV1JqVFVsQk5UMV9RVmxvNEMzNkRZUzU3M1pQanJrYW1sM3RvUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "美媒高層出任梵蒂岡部長 教廷首位擔此要職女平信徒",
       "summary": [
         "自由時報：美媒高層出任梵蒂岡部長 教廷首位擔此要職女平信徒",
@@ -203,7 +125,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "法國學生示威逾月　不滿訴求未獲滿足再封鎖數十所高中",
       "summary": [
         "經濟日報：法國學生示威逾月　不滿訴求未獲滿足再封鎖數十所高中",
@@ -220,6 +142,90 @@
           "source": "自由時報",
           "title": "示威逾1個月！法國學生不滿意政府回應 再封鎖數十所高中",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5627187"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "歐洲超市冰箱遭新一波網攻　荷比盧、瑞典等地傳災情",
+      "summary": [
+        "經濟日報：歐洲超市冰箱遭新一波網攻　荷比盧、瑞典等地傳災情",
+        "科技新報：歐洲超市冰箱遭新一波網攻，荷比盧、瑞典等地傳災情"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "歐洲超市冰箱遭新一波網攻　荷比盧、瑞典等地傳災情",
+          "url": "https://money.udn.com/money/story/5599/9852869"
+        },
+        {
+          "source": "科技新報",
+          "title": "歐洲超市冰箱遭新一波網攻，荷比盧、瑞典等地傳災情",
+          "url": "https://infosecu.technews.tw/2026/11/03/new-cyberattack-on-supermarket-fridges-sweeps-across-europe/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "同志酒吧遭搜尋惹議！中華人權協會6大宣告曝光：平權不等於特權 | 蔣季容 | 新聞",
+      "summary": [
+        "風傳媒：同志酒吧遭搜尋惹議！中華人權協會6大宣告曝光：平權不等於特權 | 蔣季容 | 新聞",
+        "ETtoday：同志酒吧搜尋歧視爭議延燒　中華人權協會6大宣告：平權不等於特權"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "同志酒吧遭搜尋惹議！中華人權協會6大宣告曝光：平權不等於特權 | 蔣季容 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mY1M3bk1HRGY3eGhPdjI4NHlGNHVIYTVHRVItZXRRRWQ1LUJEbGtXclRwLXkwZUYzTUx6eUVxRXhqRlRWbFhQT2hGeHBfZw?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "同志酒吧搜尋歧視爭議延燒　中華人權協會6大宣告：平權不等於特權",
+          "url": "https://www.ettoday.net/news/20261103/3265212.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "韓媒：總統李在明等168人護照資料外洩　上傳付費網站",
+      "summary": [
+        "經濟日報：韓媒：總統李在明等168人護照資料外洩　上傳付費網站",
+        "科技新報：韓媒：總統李在明等 168 人護照資料外洩，上傳付費網站"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "韓媒：總統李在明等168人護照資料外洩　上傳付費網站",
+          "url": "https://money.udn.com/money/story/5599/9853101"
+        },
+        {
+          "source": "科技新報",
+          "title": "韓媒：總統李在明等 168 人護照資料外洩，上傳付費網站",
+          "url": "https://infosecu.technews.tw/2026/11/03/south-korean-presidents-passport-details-leaked-online/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "伊朗戰事和談希望再起　歐洲股市收盤揚升",
+      "summary": [
+        "經濟日報：伊朗戰事和談希望再起　歐洲股市收盤揚升",
+        "自由時報：伊朗戰事和談希望再起　歐洲股市收盤揚升"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "伊朗戰事和談希望再起　歐洲股市收盤揚升",
+          "url": "https://money.udn.com/money/story/5599/9853167"
+        },
+        {
+          "source": "自由時報",
+          "title": "伊朗戰事和談希望再起　歐洲股市收盤揚升",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5627231"
         }
       ]
     }
@@ -254,73 +260,31 @@
     },
     {
       "rank": 2,
-      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
       "summary": [
-        "BBC World：Binance users withdraw $3.6bn after largest-ever crypto hack",
-        "Yahoo Finance：Binance sees more than $4.6 billion in withdrawals after largest crypto hack in history"
+        "BBC World：North Korea denies being behind record $6.3bn Binance hack",
+        "CNBC：North Korea denies links to Binance hack as researchers trace stolen billions"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "BBC World",
-          "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
+          "title": "North Korea denies being behind record $6.3bn Binance hack",
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "Binance sees more than $4.6 billion in withdrawals after largest crypto hack in history",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEJpbTZXY0ZyOUlFeVlMQzJXcThlNXctOFpCcDFfYmx5bXk5UTA5bUN5OEpOQ0ZldU9wQnpFV1pBTVdpSTk5MWZlQVVBbUtiWmdNWDJjRkttV3RKZ3FlN05zeVhjamVKZGtjeE5zNDFXV1A3b25GdjJXUFNmcUNKN21OWkU2Mzd6Qm9yb0luWHVsR1VqcVQ1U2VFNXVJeDV6eHFfMzhacmpGV2lMdHBNQ0YzLXlvYXFhdWRUX0tmRXZwdExKYm9PZDVycFhpUzBvSkJiMGJjazZLQQ?oc=5"
+          "source": "CNBC",
+          "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
+          "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "Supreme Court denies Trump administration request to set aside Calif. ballots",
-      "summary": [
-        "Washington Post：Supreme Court denies Trump administration request to set aside Calif. ballots",
-        "Financial Times：US Supreme Court rejects Trump request to intervene in California vote count"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "Supreme Court denies Trump administration request to set aside Calif. ballots",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHp4ck1fWEFSbGhiaEdhNFA5bjdJaExZUFJxVWM0MTdIM1dCdEZRSTE5LVU0RzBtWlZDM0xMNXZObnZJdk90Y2FnbjNUcEJkNDB2bDNCeU5nU2V5Nnd1WGQwSGRQTkZLempyZE80OEFBSG1HWjVjU2UxT1Q5eWVFa2xSOU1wVllyY0l5c3NqS3hhVUh5S0NPWTdDN1Q5SDhqSFVwNlYxNTBodGthWVhVeHhZV0tVTkxVQzRCWE0za0ZwMms?oc=5"
-        },
-        {
-          "source": "Financial Times",
-          "title": "US Supreme Court rejects Trump request to intervene in California vote count",
-          "url": "https://www.ft.com/content/b3619ebb-01cc-4458-bc77-b04e5b16b658?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
-      "summary": [
-        "Bloomberg Markets：Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
-        "Investing.com：Oracle taps investors for $20 billion to finance AI expansion"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Oracle taps investors for $20 billion to finance AI expansion",
-          "url": "https://www.investing.com/news/stock-market-news/oracle-to-offer-10-billion-in-bonds-4991687"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Disney Plans Thousands of Layoffs, Targeting 20% Cost Savings",
       "summary": [
         "Bloomberg Tech：Disney Plans Thousands of Layoffs, Targeting 20% Cost Savings",
-        "Investing.com：Disney eyes thousands of layoffs, managers asked to cut 20% in costs, Bloomberg News reports"
+        "Investing.com：Disney eyes thousands of layoffs, asks managers to target 20% savings, Bloomberg News reports"
       ],
       "media_count": 2,
       "links": [
@@ -331,34 +295,13 @@
         },
         {
           "source": "Investing.com",
-          "title": "Disney eyes thousands of layoffs, managers asked to cut 20% in costs, Bloomberg News reports",
+          "title": "Disney eyes thousands of layoffs, asks managers to target 20% savings, Bloomberg News reports",
           "url": "https://www.investing.com/news/stock-market-news/disney-eyes-thousands-of-layoffs-managers-asked-to-cut-20-in-costs-bloomberg-news-reports-4993288"
         }
       ]
     },
     {
-      "rank": 6,
-      "title": "Stock Market News, November 2, 2026: Apple Stock Slips After Earnings; Nasdaq Falls",
-      "summary": [
-        "WSJ Markets：Stock Market News, November 2, 2026: Apple Stock Slips After Earnings; Nasdaq Falls",
-        "Investing.com：Why is Apple stock falling afterhours today?"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "WSJ Markets",
-          "title": "Stock Market News, November 2, 2026: Apple Stock Slips After Earnings; Nasdaq Falls",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-02-2026?mod=rss_markets_main"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Why is Apple stock falling afterhours today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-apple-stock-falling-afterhours-today-93CH-4993315"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "title": "快訊：韓國10月CPI同比上漲2.8%",
       "summary": [
         "韓聯社：快訊：韓國10月CPI同比上漲2.8%"
@@ -373,7 +316,22 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "title": "未完成的勝利：美國中期選舉前瞻與特朗普的加密政策遺產",
+      "summary": [
+        "FT中文網：未完成的勝利：美國中期選舉前瞻與特朗普的加密政策遺產"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "FT中文網",
+          "title": "未完成的勝利：美國中期選舉前瞻與特朗普的加密政策遺產",
+          "url": "https://www.ftchinese.com/story/001111258"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "FirstFT: Big majority of US voters disapprove of Trump’s handling of inflation, according to FT poll",
       "summary": [
         "Financial Times：FirstFT: Big majority of US voters disapprove of Trump’s handling of inflation, according to FT poll"
@@ -388,32 +346,62 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "The Intel stock collapse is getting worse — and the $3.7 trillion chip rout is spreading",
+      "rank": 7,
+      "title": "歐洲外長拒與拉夫羅夫合影 美國主辦G20外長會開局不順",
       "summary": [
-        "Yahoo Finance：The Intel stock collapse is getting worse — and the $3.7 trillion chip rout is spreading"
+        "德國之聲：歐洲外長拒與拉夫羅夫合影 美國主辦G20外長會開局不順"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "The Intel stock collapse is getting worse — and the $3.7 trillion chip rout is spreading",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYXNGRkpFR1R4ZkhibXhKWEVTams1NDB2ZXU4UzZHcmlOYWRFOXRKb1poRUZxQ180WHQ0VWplOG95a2hxemxRQjhibE9aQWFkY3BiRWgtNWZzMXBXNjN1M01mQXRwN3B2R2ZPQjhxbGkteVN5STNoYzhQN2Vmdm1PZGhVN183RzRsaE1YMG1vSjNSQnlteTdwSU5MSllqOTJZOHZFaHJOZVN1ZGJ5bUI5ZjcwQnRQU08zcGlDRF9VV21LYzhRVm41ZFRld0pwUGpjVURBazJWS25xQQ?oc=5"
+          "source": "德國之聲",
+          "title": "歐洲外長拒與拉夫羅夫合影 美國主辦G20外長會開局不順",
+          "url": "https://www.dw.com/zh/欧洲外长拒与拉夫罗夫合影-美国主办g20外长会开局不顺/a-79815204?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
     {
-      "rank": 10,
-      "title": "中國化學品出口激增 或引發新貿易戰",
+      "rank": 8,
+      "title": "曼谷機場查獲近9000支瘦瘦針 中國旅客涉走私被逮捕",
       "summary": [
-        "法廣RFI：中國化學品出口激增 或引發新貿易戰"
+        "法廣RFI：曼谷機場查獲近9000支瘦瘦針 中國旅客涉走私被逮捕"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "中國化學品出口激增 或引發新貿易戰",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261102-%E4%B8%AD%E5%9C%8B%E5%8C%96%E5%AD%B8%E5%93%81%E5%87%BA%E5%8F%A3%E6%BF%80%E5%A2%9E-%E6%88%96%E5%BC%95%E7%99%BC%E6%96%B0%E8%B2%BF%E6%98%93%E6%88%B0"
+          "title": "曼谷機場查獲近9000支瘦瘦針 中國旅客涉走私被逮捕",
+          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261102-%E6%9B%BC%E8%B0%B7%E6%A9%9F%E5%A0%B4%E6%9F%A5%E7%8D%B2%E8%BF%919000%E6%94%AF%E7%98%A6%E7%98%A6%E9%87%9D-%E4%B8%AD%E5%9C%8B%E6%97%85%E5%AE%A2%E6%B6%89%E8%B5%B0%E7%A7%81%E8%A2%AB%E9%80%AE%E6%8D%95"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "在區域性停火結束後，烏克蘭和俄羅斯先後報告遭遇網路攻擊",
+      "summary": [
+        "法廣RFI：在區域性停火結束後，烏克蘭和俄羅斯先後報告遭遇網路攻擊"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "在區域性停火結束後，烏克蘭和俄羅斯先後報告遭遇網路攻擊",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261102-%E5%9C%A8%E5%B1%80%E9%83%A8%E5%81%9C%E7%81%AB%E7%B5%90%E6%9D%9F%E5%BE%8C%EF%BC%8C%E7%83%8F%E5%85%8B%E8%98%AD%E5%92%8C%E4%BF%84%E7%BE%85%E6%96%AF%E5%85%88%E5%BE%8C%E5%A0%B1%E5%91%8A%E9%81%AD%E9%81%87%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美中期選舉投票尚未啟動，對投票結果的質疑已如影隨形",
+      "summary": [
+        "法廣RFI：美中期選舉投票尚未啟動，對投票結果的質疑已如影隨形"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "美中期選舉投票尚未啟動，對投票結果的質疑已如影隨形",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E8%A7%A3%E8%AA%AA/20261102-%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%8A%95%E7%A5%A8%E5%B0%9A%E6%9C%AA%E5%95%9F%E5%8B%95%EF%BC%8C%E5%B0%8D%E6%8A%95%E7%A5%A8%E7%B5%90%E6%9E%9C%E7%9A%84%E8%B3%AA%E7%96%91%E5%B7%B2%E5%A6%82%E5%BD%B1%E9%9A%A8%E5%BD%A2"
         }
       ]
     }
