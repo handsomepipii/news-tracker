@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 12:57",
+  "updated_at": "2026-11-03 13:57",
   "taiwan": [
     {
       "rank": 1,
@@ -30,33 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "Anthropic第3季營收年增逾11倍　最快下週IPO",
-      "summary": [
-        "自由時報：Anthropic第3季營收年增逾11倍　最快下週IPO",
-        "經濟日報：Anthropic第3季營收年增逾11倍　最快下週IPO",
-        "科技新報：Anthropic 第 3 季營收年增逾 11 倍，最快下週 IPO"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "Anthropic第3季營收年增逾11倍　最快下週IPO",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5627227"
-        },
-        {
-          "source": "經濟日報",
-          "title": "Anthropic第3季營收年增逾11倍　最快下週IPO",
-          "url": "https://money.udn.com/money/story/123398/9853164"
-        },
-        {
-          "source": "科技新報",
-          "title": "Anthropic 第 3 季營收年增逾 11 倍，最快下週 IPO",
-          "url": "https://finance.technews.tw/2026/11/03/anthropic-says-revenue-surged-1100-percent-ahead-of-ipo/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "川普政府訴請最高法院介入　阻加州計逾2萬郵寄票",
       "summary": [
         "自由時報：川普政府訴請最高法院介入　阻加州計逾2萬郵寄票",
@@ -77,28 +50,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "伊朗戰事和談希望再起　歐洲股市收盤揚升",
-      "summary": [
-        "經濟日報：伊朗戰事和談希望再起　歐洲股市收盤揚升",
-        "自由時報：伊朗戰事和談希望再起　歐洲股市收盤揚升"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "伊朗戰事和談希望再起　歐洲股市收盤揚升",
-          "url": "https://money.udn.com/money/story/5599/9853167"
-        },
-        {
-          "source": "自由時報",
-          "title": "伊朗戰事和談希望再起　歐洲股市收盤揚升",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5627231"
-        }
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "title": "俄軍空襲烏克蘭東南部村莊　至少18死27人失聯",
       "summary": [
         "自由時報：俄軍空襲烏克蘭東南部村莊　至少18死27人失聯",
@@ -119,7 +71,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "涉跟監蕭美琴！中國記者獲判無罪當庭釋放 捷克情報局屢警示防堵臺捷合作",
       "summary": [
         "自由時報：涉跟監蕭美琴！中國記者獲判無罪當庭釋放 捷克情報局屢警示防堵臺捷合作",
@@ -140,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "數發部督促TWCA完成產製符合標準新憑證將針對違約情事進行調查- 要聞",
       "summary": [
         "工商時報：數發部督促TWCA完成產製符合標準新憑證將針對違約情事進行調查- 要聞",
@@ -161,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "甲骨文拚 AI 不縮手 再籌資200億美元",
       "summary": [
         "經濟日報：甲骨文拚 AI 不縮手 再籌資200億美元",
@@ -182,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "美免稅計畫排除南非盧安達　指涉貿易障礙與威脅利益",
       "summary": [
         "自由時報：美免稅計畫排除南非盧安達　指涉貿易障礙與威脅利益",
@@ -203,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "期中選舉前夕　川普否認選後攻擊伊朗、稱可能達協議",
       "summary": [
         "自由時報：期中選舉前夕　川普否認選後攻擊伊朗、稱可能達協議",
@@ -222,24 +174,60 @@
           "url": "https://money.udn.com/money/story/5599/9853218"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "蘋果Q4營收優於預期　受惠iPhone銷售強勁",
+      "summary": [
+        "經濟日報：蘋果Q4營收優於預期　受惠iPhone銷售強勁",
+        "iThome：蘋果Q4營收成長12%創同期新高，iPhone與Mac業務強勁成長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "蘋果Q4營收優於預期　受惠iPhone銷售強勁",
+          "url": "https://money.udn.com/money/story/5599/9853261"
+        },
+        {
+          "source": "iThome",
+          "title": "蘋果Q4營收成長12%創同期新高，iPhone與Mac業務強勁成長",
+          "url": "https://www.ithome.com.tw/news/180162"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失",
+      "summary": [
+        "財訊：大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失",
+        "公開資訊觀測站重訊：大同華映案達和解！去年提列損失有望回沖約百億元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "財訊",
+          "title": "大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00VHY5dTJ5c01INVpEUklXWEtBdi1FT1hSRDdjX1ZoTVBFaGRDYmYwaTJkcDFhUXZ0S1JuNUJuZVctVUg0eHBaWGVacEE1RXV6WXQyUHlCV1JqVFVsQk5UMV9RVmxvNEMzNkRZUzU3M1pQanJrYW1sM3RvUQ?oc=5"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "大同華映案達和解！去年提列損失有望回沖約百億元",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWktkZ2VFYmgyU3c4anZxZGxUMFdKWHd6aFhCNElEazEtTXdGbTBBbVhkYy1ZS010d2Zodld0WGJpYk9GN015N2RXNHc4cDBleEVPckZUSnFjZ9IBX0FVX3lxTFBlSGt1Skd5UUcta3czVFB3RjZsbGh2MHNUM1lxLWQ3a2JGcktzR2pVODlvV1c5cVZiOWVXcWptUWh1Qy1sUm1YVXItbGloNklmYW43Ql9UOTlqZ285Mmhj?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
+      "title": "Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity",
       "summary": [
-        "Financial Times：Marvell to buy data centre component maker Lumentum in $115bn AI bet",
         "Yahoo Finance：Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity",
         "TechCrunch：In one of the largest deals in tech history, Marvell buys Lumentum for $115B"
       ],
-      "media_count": 3,
+      "media_count": 2,
       "links": [
-        {
-          "source": "Financial Times",
-          "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
-          "url": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b?syn-25a6b1a6=1"
-        },
         {
           "source": "Yahoo Finance",
           "title": "Marvell to purchase Lumentum for $115 billion as AI boom drives demand for connectivity",
@@ -257,7 +245,7 @@
       "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
       "summary": [
         "BBC World：Supreme Court rejects Trump's request to stop California counting disputed votes",
-        "Financial Times：US Supreme Court rejects Trump request to intervene in California vote count"
+        "CNBC：Supreme Court rejects DOJ's bid to block California from counting disputed ballots"
       ],
       "media_count": 2,
       "links": [
@@ -267,9 +255,9 @@
           "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Financial Times",
-          "title": "US Supreme Court rejects Trump request to intervene in California vote count",
-          "url": "https://www.ft.com/content/b3619ebb-01cc-4458-bc77-b04e5b16b658?syn-25a6b1a6=1"
+          "source": "CNBC",
+          "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+          "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html"
         }
       ]
     },
@@ -296,27 +284,6 @@
     },
     {
       "rank": 4,
-      "title": "US strikes Iran’s Qeshm Island on eve of election",
-      "summary": [
-        "Financial Times：US strikes Iran’s Qeshm Island on eve of election",
-        "CNBC：U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "US strikes Iran’s Qeshm Island on eve of election",
-          "url": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1"
-        },
-        {
-          "source": "CNBC",
-          "title": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
-          "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Oracle Raises $20 Billion for AI Growth as Meta Weighs New Debt",
       "summary": [
         "Bloomberg Markets：Oracle Raises $20 Billion for AI Growth as Meta Weighs New Debt",
@@ -337,7 +304,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "快訊：韓國10月CPI同比上漲2.8%",
       "summary": [
         "韓聯社：快訊：韓國10月CPI同比上漲2.8%"
@@ -352,7 +319,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "未完成的勝利：美國中期選舉前瞻與特朗普的加密政策遺產",
       "summary": [
         "FT中文網：未完成的勝利：美國中期選舉前瞻與特朗普的加密政策遺產"
@@ -367,37 +334,22 @@
       ]
     },
     {
+      "rank": 7,
+      "title": "中國技術出口管制升級：利用工業優勢構建經濟武器庫- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：中國技術出口管制升級：利用工業優勢構建經濟武器庫- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "中國技術出口管制升級：利用工業優勢構建經濟武器庫- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdGQwNVV4amFETHBsX1BubGVjQlNGYk9UTHZaZXVTQmtNRF9NSVhzWGxzb3BRLUNqMkFsQXVsbWNwOVRrTHdxVHJTZl9UbkRqcTlTY0h0elQtZjdSekpVLXozYUMzQ2JaRWY3V2VveGNZM1ZHaUdLVmhILTJJd0JmNU1Cd2tNZnF5b09jRXBBLVpEWTFmQVdmN1dHeE1IQQ?oc=5"
+        }
+      ]
+    },
+    {
       "rank": 8,
-      "title": "繼法國之後，歐洲多國超市冷櫃系統遭網攻 再凸顯物聯網裝置脆弱性",
-      "summary": [
-        "法廣RFI：繼法國之後，歐洲多國超市冷櫃系統遭網攻 再凸顯物聯網裝置脆弱性"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "繼法國之後，歐洲多國超市冷櫃系統遭網攻 再凸顯物聯網裝置脆弱性",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261102-%E7%B9%BC%E6%B3%95%E5%9C%8B%E4%B9%8B%E5%BE%8C%EF%BC%8C%E6%AD%90%E6%B4%B2%E5%A4%9A%E5%9C%8B%E8%B6%85%E5%B8%82%E5%86%B7%E6%AB%83%E7%B3%BB%E7%B5%B1%E9%81%AD%E7%B6%B2%E6%94%BB-%E5%86%8D%E5%87%B8%E9%A1%AF%E7%89%A9%E8%81%AF%E7%B6%B2%E8%A8%AD%E5%82%99%E8%84%86%E5%BC%B1%E6%80%A7"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "洩露個人資訊2.6億件 日本為什麼成網路攻擊重災區？",
-      "summary": [
-        "法廣RFI：洩露個人資訊2.6億件 日本為什麼成網路攻擊重災區？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "洩露個人資訊2.6億件 日本為什麼成網路攻擊重災區？",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E6%9D%B1%E4%BA%AC%E5%B0%88%E6%AC%84/20261102-%E6%B3%84%E9%9C%B2%E5%80%8B%E4%BA%BA%E4%BF%A1%E6%81%AF2-6%E5%84%84%E4%BB%B6-%E6%97%A5%E6%9C%AC%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%90%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A%E9%87%8D%E7%81%BD%E5%8D%80"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "出口訂單走弱 中國10月PMI回落至榮枯線以下",
       "summary": [
         "德國之聲：出口訂單走弱 中國10月PMI回落至榮枯線以下"
@@ -408,6 +360,36 @@
           "source": "德國之聲",
           "title": "出口訂單走弱 中國10月PMI回落至榮枯線以下",
           "url": "https://www.dw.com/zh/出口订单走弱-中国10月pmi回落至荣枯线以下/a-79815809?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "特朗普稱會赦免馬斯克，以避免民主黨選舉獲勝後展開調查",
+      "summary": [
+        "法廣RFI：特朗普稱會赦免馬斯克，以避免民主黨選舉獲勝後展開調查"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "特朗普稱會赦免馬斯克，以避免民主黨選舉獲勝後展開調查",
+          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261102-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E6%9C%83%E8%B5%A6%E5%85%8D%E9%A6%AC%E6%96%AF%E5%85%8B%EF%BC%8C%E4%BB%A5%E9%81%BF%E5%85%8D%E6%B0%91%E4%B8%BB%E9%BB%A8%E9%81%B8%E8%88%89%E7%8D%B2%E5%8B%9D%E5%BE%8C%E5%B1%95%E9%96%8B%E8%AA%BF%E6%9F%A5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國佛州發生空難　機上九人無一生還",
+      "summary": [
+        "法廣RFI：美國佛州發生空難　機上九人無一生還"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "美國佛州發生空難　機上九人無一生還",
+          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261102-%E7%BE%8E%E5%9C%8B%E4%BD%9B%E5%B7%9E%E7%99%BC%E7%94%9F%E7%A9%BA%E9%9B%A3-%E6%A9%9F%E4%B8%8A%E4%B9%9D%E4%BA%BA%E7%84%A1%E4%B8%80%E7%94%9F%E9%82%84"
         }
       ]
     }
