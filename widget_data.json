@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 01:54",
+  "updated_at": "2026-11-04 02:54",
   "taiwan": [
     {
       "rank": 1,
@@ -242,22 +242,28 @@
     },
     {
       "rank": 2,
-      "title": "美國中期選舉：選什麼？有哪些看點？",
+      "title": "Disney Plans Thousands of Layoffs, Targeting 20% Cost Savings",
       "summary": [
-        "德國之聲：美國中期選舉：選什麼？有哪些看點？",
-        "NHK新聞：アメリカ中間選挙 投票始まる トランプ政権への有権者の評価は"
+        "Bloomberg Tech：Disney Plans Thousands of Layoffs, Targeting 20% Cost Savings",
+        "CNBC：Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
+        "Yahoo Finance：Disney Eyes Thousands of Layoffs, With Managers Asked to Cut 20%"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "美國中期選舉：選什麼？有哪些看點？",
-          "url": "https://www.dw.com/zh/美国中期选举：选什么？有哪些看点？/a-79829479?maca=chi-rss-chi-all-1127-rdf"
+          "source": "Bloomberg Tech",
+          "title": "Disney Plans Thousands of Layoffs, Targeting 20% Cost Savings",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-03/disney-plans-thousands-of-layoffs-video"
         },
         {
-          "source": "NHK新聞",
-          "title": "アメリカ中間選挙 投票始まる トランプ政権への有権者の評価は",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261103de69983"
+          "source": "CNBC",
+          "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
+          "url": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Disney Eyes Thousands of Layoffs, With Managers Asked to Cut 20%",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONy1ueVhiMS1RaHJGNUlaZGpPaFlxR3lhd0xBN0o5SFctdk1sVFpQZmN6dnVoa3ZlamhnM0RHbzBaQi0xZ0dIZTdidTZQS0Z5ZFpHN0xlRGJMdlJEQllFV2ZoSmFSVzg4a1NQNjE4ZVN2STF2UzZacWJxeTluN3ZDaUJpZHVBaE15MFhyWTE1SWxvakZvSXNuLVJyVU80ejR4anRsUXpyZnNLdw?oc=5"
         }
       ]
     },
@@ -284,27 +290,6 @@
     },
     {
       "rank": 4,
-      "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-      "summary": [
-        "CNBC：Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-        "Yahoo Finance：Disney Eyes Thousands of Layoffs, With Managers Asked to Cut 20%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-          "url": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Disney Eyes Thousands of Layoffs, With Managers Asked to Cut 20%",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONy1ueVhiMS1RaHJGNUlaZGpPaFlxR3lhd0xBN0o5SFctdk1sVFpQZmN6dnVoa3ZlamhnM0RHbzBaQi0xZ0dIZTdidTZQS0Z5ZFpHN0xlRGJMdlJEQllFV2ZoSmFSVzg4a1NQNjE4ZVN2STF2UzZacWJxeTluN3ZDaUJpZHVBaE15MFhyWTE1SWxvakZvSXNuLVJyVU80ejR4anRsUXpyZnNLdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
       "summary": [
         "TechCrunch：Google will let schools disable its AI tools, but not without sacrificing Search",
@@ -325,77 +310,92 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "美國中期選舉：競選開支120億美元打破紀錄，馬斯克已花5億",
+      "rank": 5,
+      "title": "韓第二艘3600噸級潛艇“徐熙”號正式下水",
       "summary": [
-        "BBC中文：美國中期選舉：競選開支120億美元打破紀錄，馬斯克已花5億"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "美國中期選舉：競選開支120億美元打破紀錄，馬斯克已花5億",
-          "url": "https://www.bbc.com/zhongwen/articles/cw99z83yxg4jo/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "如果駭客能夠控制超市的冷凍櫃，其他科技裝置又有多脆弱？",
-      "summary": [
-        "BBC中文：如果駭客能夠控制超市的冷凍櫃，其他科技裝置又有多脆弱？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "如果駭客能夠控制超市的冷凍櫃，其他科技裝置又有多脆弱？",
-          "url": "https://www.bbc.com/zhongwen/articles/cmkgk61rgzj4o/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "川普推遲對臺軍售為何危險- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：川普推遲對臺軍售為何危險- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "川普推遲對臺軍售為何危險- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQeHBFOFhId3dxeHJhZ1FFTkxqdENpYmdvcnNmMEhJNElHT3Bva1ZHX1hyU1ZvWF9uNGJZZlNVd1VlYjVkdFo4SE1lV0FlUy12ekRKdGl4emliSXFKYVc1X2w3ZWRiUkxYdm5yYTlUdEdZb2Rz?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "中國技術出口管制升級：利用工業優勢構建經濟武器庫- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：中國技術出口管制升級：利用工業優勢構建經濟武器庫- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "中國技術出口管制升級：利用工業優勢構建經濟武器庫- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQak5DS3QxYkREVzhTM2htS01KRlIwZ0FJZ2xmV3RCQnZDay1EU2VsSjMxRTVsdVhya3B1ZmxfVmk3bXV0QlNqZnFtUzJhUm1tRTZ2OG91UUdRaDVnZjl5elhzb01DNE1qS29hUC1hOXZGZ1Z3NFJIRHhtUHZIQU5wOTNLLTdHU0g5SjRfZVBTM3RfSnBMdHRQc2R3MDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "韓政府回應總統及隨行人員資訊遭洩：正補發護照",
-      "summary": [
-        "韓聯社：韓政府回應總統及隨行人員資訊遭洩：正補發護照"
+        "韓聯社：韓第二艘3600噸級潛艇“徐熙”號正式下水"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "韓聯社",
-          "title": "韓政府回應總統及隨行人員資訊遭洩：正補發護照",
-          "url": "https://cn.yna.co.kr/view/ACK20261103002800881"
+          "title": "韓第二艘3600噸級潛艇“徐熙”號正式下水",
+          "url": "https://cn.yna.co.kr/view/ACK20261103002900881"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "韓中青年AI短影片大賽頒獎禮在首爾舉行",
+      "summary": [
+        "韓聯社：韓中青年AI短影片大賽頒獎禮在首爾舉行"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "韓中青年AI短影片大賽頒獎禮在首爾舉行",
+          "url": "https://cn.yna.co.kr/view/ACK20261102003500881"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "韓統一部對朝鮮被指系幣安駭客案主謀持謹慎態度",
+      "summary": [
+        "韓聯社：韓統一部對朝鮮被指系幣安駭客案主謀持謹慎態度"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "韓統一部對朝鮮被指系幣安駭客案主謀持謹慎態度",
+          "url": "https://cn.yna.co.kr/view/ACK20261103003000881"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "2026年11月3日韓聯社要聞簡報",
+      "summary": [
+        "韓聯社：2026年11月3日韓聯社要聞簡報"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "2026年11月3日韓聯社要聞簡報",
+          "url": "https://cn.yna.co.kr/view/ACK20261103003700881"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "韓政府將連續三年另辦佐渡金山徵工悼念儀式",
+      "summary": [
+        "韓聯社：韓政府將連續三年另辦佐渡金山徵工悼念儀式"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "韓政府將連續三年另辦佐渡金山徵工悼念儀式",
+          "url": "https://cn.yna.co.kr/view/ACK20261103003400881"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "李在明：深化韓日合作是時代課題",
+      "summary": [
+        "韓聯社：李在明：深化韓日合作是時代課題"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "李在明：深化韓日合作是時代課題",
+          "url": "https://cn.yna.co.kr/view/ACK20261103003500881"
         }
       ]
     }
