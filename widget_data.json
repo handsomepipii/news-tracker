@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 19:32",
+  "updated_at": "2026-11-03 20:27",
   "taiwan": [
     {
       "rank": 1,
@@ -99,6 +99,27 @@
     },
     {
       "rank": 5,
+      "title": "天氣/ 東北季風影響! 今東部較大雨週四晚起連5天雨｜氣象主播張蕙纖｜早安氣象｜TVBS新聞 20261103 @TVBSNEWS01 │ TVBS新聞網",
+      "summary": [
+        "TVBS新聞：天氣/ 東北季風影響! 今東部較大雨週四晚起連5天雨｜氣象主播張蕙纖｜早安氣象｜TVBS新聞 20261103 @TVBSNEWS01 │ TVBS新聞網",
+        "中央社：早安世界》本週2波鋒面接力晴雨交替 6、7日各地恐有大雨"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "天氣/ 東北季風影響! 今東部較大雨週四晚起連5天雨｜氣象主播張蕙纖｜早安氣象｜TVBS新聞 20261103 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tX0RGT3Rqcy1uRVg1WlJwLXVXZjZnRWNLbkxBU0xCYjlqcjRVZlRUNlFIU3l3cUhveG9XZHRudTQ5Nkx1NDdyWTRENEVxZnd0dC1xR1ZR?oc=5"
+        },
+        {
+          "source": "中央社",
+          "title": "早安世界》本週2波鋒面接力晴雨交替 6、7日各地恐有大雨",
+          "url": "https://www.cna.com.tw/news/ahel/202505055001.aspx"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "德國官員iPhone疑遭間諜軟體攻擊 政府展開調查",
       "summary": [
         "經濟日報：德國官員iPhone疑遭間諜軟體攻擊 政府展開調查",
@@ -119,7 +140,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "〈財報〉蘋果特納斯首份財報好壞參半！Q1毛利率展望失色 盤後一度挫4%",
       "summary": [
         "鉅亨網：〈財報〉蘋果特納斯首份財報好壞參半！Q1毛利率展望失色 盤後一度挫4%",
@@ -140,7 +161,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "20261103 公視AI手語天氣報導 ｜東北季風影響 迎風面有雨轉涼",
       "summary": [
         "公視新聞：20261103 公視AI手語天氣報導 ｜東北季風影響 迎風面有雨轉涼",
@@ -161,7 +182,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "美軍秘密攻擊伊朗葛希姆島　刻意保持低調避免全面開戰",
       "summary": [
         "經濟日報：美軍秘密攻擊伊朗葛希姆島　刻意保持低調避免全面開戰",
@@ -182,7 +203,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "英資安機構警告關鍵設施恐成AI網攻目標　中國威脅受關注",
       "summary": [
         "經濟日報：英資安機構警告關鍵設施恐成AI網攻目標　中國威脅受關注",
@@ -199,27 +220,6 @@
           "source": "科技新報",
           "title": "英資安機構警告關鍵設施恐成 AI 網攻目標，中國威脅受關注",
           "url": "https://infosecu.technews.tw/2026/11/03/uk-cybersecurity-agency-warns-critical-infrastructure-vulnerable-ai-cyberattacks-highlighting-china-threat/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "萬元有找？任天堂平價版 Switch 2 掌機規格首度曝光",
-      "summary": [
-        "ETtoday：萬元有找？任天堂平價版 Switch 2 掌機規格首度曝光",
-        "自由時報：任天堂平價版Switch 2規格曝光！萬元有找專注掌機"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "萬元有找？任天堂平價版 Switch 2 掌機規格首度曝光",
-          "url": "https://www.ettoday.net/news/20261103/3265292.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "任天堂平價版Switch 2規格曝光！萬元有找專注掌機",
-          "url": "https://3c.ltn.com.tw/news/68140"
         }
       ]
     }
@@ -248,27 +248,6 @@
     },
     {
       "rank": 2,
-      "title": "US strikes Iranian island ahead of midterm elections",
-      "summary": [
-        "BBC World：US strikes Iranian island ahead of midterm elections",
-        "Financial Times：US strikes Iran’s Qeshm Island on eve of election"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "US strikes Iranian island ahead of midterm elections",
-          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Financial Times",
-          "title": "US strikes Iran’s Qeshm Island on eve of election",
-          "url": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
       "summary": [
         "BBC World：Supreme Court rejects Trump's request to stop California counting disputed votes",
@@ -289,28 +268,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-      "summary": [
-        "BBC World：Asian Cup postponed in wake of attacks on Saudi Arabia",
-        "Financial Times：Asian Cup football tournament in Saudi Arabia postponed"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Financial Times",
-          "title": "Asian Cup football tournament in Saudi Arabia postponed",
-          "url": "https://www.ft.com/content/d92053ff-a6fb-4672-93ff-4cb55cb87786?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "title": "North Korea denies being behind record $6.3bn Binance hack",
       "summary": [
         "BBC World：North Korea denies being behind record $6.3bn Binance hack",
@@ -331,37 +289,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "簡訊：韓國10月CPI同比上漲2.8%",
-      "summary": [
-        "韓聯社：簡訊：韓國10月CPI同比上漲2.8%"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "簡訊：韓國10月CPI同比上漲2.8%",
-          "url": "https://cn.yna.co.kr/view/ACK20261103000600881"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "未完成的勝利：美國中期選舉前瞻與特朗普的加密政策遺產",
-      "summary": [
-        "FT中文網：未完成的勝利：美國中期選舉前瞻與特朗普的加密政策遺產"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "FT中文網",
-          "title": "未完成的勝利：美國中期選舉前瞻與特朗普的加密政策遺產",
-          "url": "https://www.ftchinese.com/story/001111258"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "title": "金與正：美指朝鮮為幣安駭客攻擊幕後黑手系政治挑釁",
       "summary": [
         "韓聯社：金與正：美指朝鮮為幣安駭客攻擊幕後黑手系政治挑釁"
@@ -376,7 +304,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "中國技術出口管制升級：利用工業優勢構建經濟武器庫- 紐約時報中文網",
       "summary": [
         "紐約時報中文：中國技術出口管制升級：利用工業優勢構建經濟武器庫- 紐約時報中文網"
@@ -391,17 +319,77 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "FirstFT: Officials discuss Trump, Putin and Xi meeting",
+      "rank": 6,
+      "title": "Marvell to purchase Lumentum for $115 billion in record-breaking tech deal",
       "summary": [
-        "Financial Times：FirstFT: Officials discuss Trump, Putin and Xi meeting"
+        "Yahoo Finance：Marvell to purchase Lumentum for $115 billion in record-breaking tech deal"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "FirstFT: Officials discuss Trump, Putin and Xi meeting",
-          "url": "https://www.ft.com/content/65982705-e3f3-4dfe-8d5d-39809f8a1103?syn-25a6b1a6=1"
+          "source": "Yahoo Finance",
+          "title": "Marvell to purchase Lumentum for $115 billion in record-breaking tech deal",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWxRNVQxYzItQzBISTcwM2FVN2szd2w3dlZfVnp0eWxLb2RHOEM2RzR1SnVLczBYVWRDSzV3a3FxN0VscjZ2OGZPbTR5aWYwLUpIdVprU1ZOV1lRSTVGM1RRSTVPSDNYTDM3TTdDaVhoaXhBeEE5eXFqV2V6SzBUNkdxTUJYNXJGVjFzQ1VvRVR2Rk0zVGVlUGczb3M5ZlZkLUxBZFhJWFBLOEtucW5ncHFBd2N1SFoydlE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Netflix 重現斯坦福監獄「虐待性」研究應該嗎？",
+      "summary": [
+        "BBC中文：Netflix 重現斯坦福監獄「虐待性」研究應該嗎？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "Netflix 重現斯坦福監獄「虐待性」研究應該嗎？",
+          "url": "https://www.bbc.com/zhongwen/articles/ck4g1xzw1jnpo/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "愛情、幸運與魔法：年輕人為何找上了網上女巫？",
+      "summary": [
+        "BBC中文：愛情、幸運與魔法：年輕人為何找上了網上女巫？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "愛情、幸運與魔法：年輕人為何找上了網上女巫？",
+          "url": "https://www.bbc.com/zhongwen/articles/crq8n9qq8q49o/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "BTS世巡高雄和雅加達站演出將在80多國上映",
+      "summary": [
+        "韓聯社：BTS世巡高雄和雅加達站演出將在80多國上映"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "BTS世巡高雄和雅加達站演出將在80多國上映",
+          "url": "https://cn.yna.co.kr/view/ACK20261103001100881"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "詳訊：韓國10月CPI同比上漲2.8%",
+      "summary": [
+        "韓聯社：詳訊：韓國10月CPI同比上漲2.8%"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "詳訊：韓國10月CPI同比上漲2.8%",
+          "url": "https://cn.yna.co.kr/view/ACK20261103001200881"
         }
       ]
     }
