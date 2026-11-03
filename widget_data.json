@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 07:23",
+  "updated_at": "2026-11-03 08:12",
   "taiwan": [
     {
       "rank": 1,
@@ -51,48 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "證實中國以電子郵件寄送APEC邀請函　林佳龍：已抗議、不放棄出席",
-      "summary": [
-        "ETtoday：證實中國以電子郵件寄送APEC邀請函　林佳龍：已抗議、不放棄出席",
-        "公視新聞：20261102 公視晚間新聞 完整版（無網路版權內容除外）｜中國以電郵邀臺出席APEC峰會 外交部表達嚴正抗議"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "證實中國以電子郵件寄送APEC邀請函　林佳龍：已抗議、不放棄出席",
-          "url": "https://www.ettoday.net/news/20261102/3265120.htm"
-        },
-        {
-          "source": "公視新聞",
-          "title": "20261102 公視晚間新聞 完整版（無網路版權內容除外）｜中國以電郵邀臺出席APEC峰會 外交部表達嚴正抗議",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zczFmVEQ1R0FlSmtkUUlFYndIYm1SMTRjd0ZLc2tGX3BoekpfZGJ6M1pELUkyc1JRQWNPdFZJSzJqdnN6STJScWcyWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "摩根士丹利首席美股策略師稱無論誰贏得期中選舉 都應逢低買進股票",
-      "summary": [
-        "經濟日報：摩根士丹利首席美股策略師稱無論誰贏得期中選舉 都應逢低買進股票",
-        "自由時報：大摩首席美股策略師：美期中大選無論誰贏 都應逢低買進"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "摩根士丹利首席美股策略師稱無論誰贏得期中選舉 都應逢低買進股票",
-          "url": "https://money.udn.com/money/story/123398/9851908"
-        },
-        {
-          "source": "自由時報",
-          "title": "大摩首席美股策略師：美期中大選無論誰贏 都應逢低買進",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5627217"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "美期中選舉11/3登場　美媒判定勝負機制一次看懂",
       "summary": [
         "經濟日報：美期中選舉11/3登場　美媒判定勝負機制一次看懂",
@@ -113,7 +71,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "波蘭憲政危機升溫 歐盟強調國會有權任命憲法法官",
       "summary": [
         "自由時報：波蘭憲政危機升溫 歐盟強調國會有權任命憲法法官",
@@ -134,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "英國徒步冒險家布希比返抵家鄉 結束28年5萬公里史詩級旅程",
       "summary": [
         "自由時報：英國徒步冒險家布希比返抵家鄉 結束28年5萬公里史詩級旅程",
@@ -155,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "中職》年度MVP揭曉！味全王牌蔣銲拿下年度最大獎",
       "summary": [
         "自由時報：中職》年度MVP揭曉！味全王牌蔣銲拿下年度最大獎",
@@ -176,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "大同華映案37.5億和解　公司重訊：預期可回沖百億損失",
       "summary": [
         "ETtoday：大同華映案37.5億和解　公司重訊：預期可回沖百億損失",
@@ -197,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "美媒高層出任梵蒂岡部長 教廷首位擔此要職女平信徒",
       "summary": [
         "自由時報：美媒高層出任梵蒂岡部長 教廷首位擔此要職女平信徒",
@@ -214,6 +172,48 @@
           "source": "經濟日報",
           "title": "美媒高層出任梵蒂岡部長　教廷首位擔此要職女平信徒",
           "url": "https://money.udn.com/money/story/5599/9852892"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "法國學生示威逾月　不滿訴求未獲滿足再封鎖數十所高中",
+      "summary": [
+        "經濟日報：法國學生示威逾月　不滿訴求未獲滿足再封鎖數十所高中",
+        "自由時報：示威逾1個月！法國學生不滿意政府回應 再封鎖數十所高中"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "法國學生示威逾月　不滿訴求未獲滿足再封鎖數十所高中",
+          "url": "https://money.udn.com/money/story/5599/9852935"
+        },
+        {
+          "source": "自由時報",
+          "title": "示威逾1個月！法國學生不滿意政府回應 再封鎖數十所高中",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5627187"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "同志酒吧遭搜尋惹議！中華人權協會6大宣告曝光：平權不等於特權 | 蔣季容 | 新聞",
+      "summary": [
+        "風傳媒：同志酒吧遭搜尋惹議！中華人權協會6大宣告曝光：平權不等於特權 | 蔣季容 | 新聞",
+        "ETtoday：同志酒吧搜尋歧視爭議延燒　中華人權協會6大宣告：平權不等於特權"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "同志酒吧遭搜尋惹議！中華人權協會6大宣告曝光：平權不等於特權 | 蔣季容 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mY1M3bk1HRGY3eGhPdjI4NHlGNHVIYTVHRVItZXRRRWQ1LUJEbGtXclRwLXkwZUYzTUx6eUVxRXhqRlRWbFhQT2hGeHBfZw?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "同志酒吧搜尋歧視爭議延燒　中華人權協會6大宣告：平權不等於特權",
+          "url": "https://www.ettoday.net/news/20261103/3265212.htm"
         }
       ]
     }
@@ -290,6 +290,27 @@
     },
     {
       "rank": 4,
+      "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
+      "summary": [
+        "Financial Times：OpenAI hires former US Army secretary as military seeks to expand AI use",
+        "Investing.com：OpenAI hires former U.S. Army secretary Dan Driscoll- FT"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
+          "url": "https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "OpenAI hires former U.S. Army secretary Dan Driscoll- FT",
+          "url": "https://www.investing.com/news/stock-market-news/openai-hires-former-us-army-secretary-dan-driscoll-ft-93CH-4993166"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
       "summary": [
         "Bloomberg Markets：Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
@@ -310,7 +331,43 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "Learjet May Have Broken Up Before Fatal Florida Crash, NTSB Says",
+      "summary": [
+        "Bloomberg Markets：Learjet May Have Broken Up Before Fatal Florida Crash, NTSB Says",
+        "Investing.com：Investigators say Learjet may have broken up before crashing in Florida"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Learjet May Have Broken Up Before Fatal Florida Crash, NTSB Says",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-02/learjet-may-have-broken-up-before-fatal-florida-crash-ntsb-says"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Investigators say Learjet may have broken up before crashing in Florida",
+          "url": "https://www.investing.com/news/stock-market-news/investigators-say-learjet-may-have-broken-up-before-crashing-in-florida-4993197"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "快訊：韓國10月CPI同比上漲2.8%",
+      "summary": [
+        "韓聯社：快訊：韓國10月CPI同比上漲2.8%"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "快訊：韓國10月CPI同比上漲2.8%",
+          "url": "https://cn.yna.co.kr/view/ACK20261103000400881"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "FirstFT: Big majority of US voters disapprove of Trump’s handling of inflation, according to FT poll",
       "summary": [
         "Financial Times：FirstFT: Big majority of US voters disapprove of Trump’s handling of inflation, according to FT poll"
@@ -325,7 +382,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 9,
       "title": "Apple Sales Meet Estimates, China Is a Weak Spot",
       "summary": [
         "Bloomberg Tech：Apple Sales Meet Estimates, China Is a Weak Spot"
@@ -340,62 +397,17 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "The Intel stock collapse is getting worse — and the $3.5 trillion chip rout is spreading",
+      "rank": 10,
+      "title": "Apple to report Q4 earnings Monday, with iPhone 18 sales in the spotlight",
       "summary": [
-        "Yahoo Finance：The Intel stock collapse is getting worse — and the $3.5 trillion chip rout is spreading"
+        "Yahoo Finance：Apple to report Q4 earnings Monday, with iPhone 18 sales in the spotlight"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "The Intel stock collapse is getting worse — and the $3.5 trillion chip rout is spreading",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQVcyRUhyVlBfYVd2dVB4ZkdtWndTS0tNX3pNNWVfaVhlRlZhWmw2U2F2dWtlSktXNmVCZ1VXVEtYc1JSQVlla010VHJrb25BU3UwRWtWZXpLaHVCSG9fTlZVSFRCMjFxMGp4cUtQNzVQNzRkOTF5TVR3SWR0R1VEQlpIUld6U0NzTnFEbzZJOF9DcktCSjQtdWM2SDBseEJITG1UcWw4ZnZHenQzcUNnZS1nUl9IdFM4QTRjYjFmT1kxZDdNb3YtTWpGTS1GX1JvbVpvMXludGl4Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "建交後阿曼蘇丹首次訪華 習近平：中東不應成為大國博弈角鬥場",
-      "summary": [
-        "德國之聲：建交後阿曼蘇丹首次訪華 習近平：中東不應成為大國博弈角鬥場"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "建交後阿曼蘇丹首次訪華 習近平：中東不應成為大國博弈角鬥場",
-          "url": "https://www.dw.com/zh/建交后阿曼苏丹首次访华-习近平：中东不应成为大国博弈角斗场/a-79828975?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "加拿大總理接受DW專訪：我們過度依賴美國",
-      "summary": [
-        "德國之聲：加拿大總理接受DW專訪：我們過度依賴美國"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "加拿大總理接受DW專訪：我們過度依賴美國",
-          "url": "https://www.dw.com/zh/加拿大总理接受dw专访：我们过度依赖美国/a-79815000?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "韓國慶州地標瞻星臺雕塑在友好城市西安落成",
-      "summary": [
-        "韓聯社：韓國慶州地標瞻星臺雕塑在友好城市西安落成"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "韓國慶州地標瞻星臺雕塑在友好城市西安落成",
-          "url": "https://cn.yna.co.kr/view/ACK20261102004000881"
+          "title": "Apple to report Q4 earnings Monday, with iPhone 18 sales in the spotlight",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM0xOOWdDN2pXdGpnZnlHTzliX1ZST05ITXdYZXZ5WVN2WFI1eGYxYlcwVnZvWGFkMWNhcklYaXJYQkN1dlR2OHA4RzZSNDRQNjd2ejd2N0k5UW1QeGk1dVdQbHpjVmZaMWhoamc0Ml83bkZWRTBPc1B6aUVLRUUwVTJpM0JxYWpLYnhkc3Q1SXpwdnZpSkFuWEJrWVlyNzZjOXNOZG5CdHgwaEhReWM3SE9Dd09tT2h4SzFzQk0zTFcxR1BNT2oyRF9NMjU?oc=5"
         }
       ]
     }
