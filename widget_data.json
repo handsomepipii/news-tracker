@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 01:17",
+  "updated_at": "2026-11-04 01:54",
   "taiwan": [
     {
       "rank": 1,
@@ -215,6 +215,33 @@
   "global": [
     {
       "rank": 1,
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "summary": [
+        "BBC World：Binance says fake job interviews used as part of $6.3bn crypto hack",
+        "Bloomberg Tech：Binance Hackers Used Fake Job Interviews in Record Heist",
+        "CNBC：Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Binance Hackers Used Fake Job Interviews in Record Heist",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-03/binance-hackers-used-fake-job-interviews-in-6-3-billion-heist"
+        },
+        {
+          "source": "CNBC",
+          "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+          "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "美國中期選舉：選什麼？有哪些看點？",
       "summary": [
         "德國之聲：美國中期選舉：選什麼？有哪些看點？",
@@ -235,7 +262,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "US strikes Iranian island ahead of midterm elections",
       "summary": [
         "BBC World：US strikes Iranian island ahead of midterm elections",
@@ -252,27 +279,6 @@
           "source": "Financial Times",
           "title": "US strikes Iran’s Qeshm Island on eve of election",
           "url": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-      "summary": [
-        "BBC World：Supreme Court rejects Trump's request to stop California counting disputed votes",
-        "Washington Post：Supreme Court denies Trump administration request to set aside Calif. ballots"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-          "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Washington Post",
-          "title": "Supreme Court denies Trump administration request to set aside Calif. ballots",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHp4ck1fWEFSbGhiaEdhNFA5bjdJaExZUFJxVWM0MTdIM1dCdEZRSTE5LVU0RzBtWlZDM0xMNXZObnZJdk90Y2FnbjNUcEJkNDB2bDNCeU5nU2V5Nnd1WGQwSGRQTkZLempyZE80OEFBSG1HWjVjU2UxT1Q5eWVFa2xSOU1wVllyY0l5c3NqS3hhVUh5S0NPWTdDN1Q5SDhqSFVwNlYxNTBodGthWVhVeHhZV0tVTkxVQzRCWE0za0ZwMms?oc=5"
         }
       ]
     },
