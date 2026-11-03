@@ -475,7 +475,7 @@ def check_keywords(conn, new_articles):
             tg_title = translate_for_tg(a['title'])
             msg = (
                 f"🚨 <b>關鍵字命中：{', '.join(matched)}</b>\n\n"
-                f"📰 {a['title']}\n"
+                f"📰 {tg_title}\n"
                 f"🏢 來源：{a['source']}\n"
                 f"🔗 <a href='{a['link']}'>點此閱讀報導</a>"
             )
