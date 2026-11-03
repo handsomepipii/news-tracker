@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 18:28",
+  "updated_at": "2026-11-03 19:32",
   "taiwan": [
     {
       "rank": 1,
@@ -78,48 +78,6 @@
     },
     {
       "rank": 4,
-      "title": "大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失",
-      "summary": [
-        "財訊：大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失",
-        "公開資訊觀測站重訊：大同華映案達和解！去年提列損失有望回沖約百億元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "財訊",
-          "title": "大同新團隊拆彈！華映案40億內和解 可望回沖近百億損失",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00VHY5dTJ5c01INVpEUklXWEtBdi1FT1hSRDdjX1ZoTVBFaGRDYmYwaTJkcDFhUXZ0S1JuNUJuZVctVUg0eHBaWGVacEE1RXV6WXQyUHlCV1JqVFVsQk5UMV9RVmxvNEMzNkRZUzU3M1pQanJrYW1sM3RvUQ?oc=5"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "大同華映案達和解！去年提列損失有望回沖約百億元",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWktkZ2VFYmgyU3c4anZxZGxUMFdKWHd6aFhCNElEazEtTXdGbTBBbVhkYy1ZS010d2Zodld0WGJpYk9GN015N2RXNHc4cDBleEVPckZUSnFjZ9IBX0FVX3lxTFBlSGt1Skd5UUcta3czVFB3RjZsbGh2MHNUM1lxLWQ3a2JGcktzR2pVODlvV1c5cVZiOWVXcWptUWh1Qy1sUm1YVXItbGloNklmYW43Ql9UOTlqZ285Mmhj?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "蘋果Q4營收優於預期　受惠iPhone銷售強勁",
-      "summary": [
-        "經濟日報：蘋果Q4營收優於預期　受惠iPhone銷售強勁",
-        "iThome：蘋果Q4營收成長12%創同期新高，iPhone與Mac業務強勁成長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "蘋果Q4營收優於預期　受惠iPhone銷售強勁",
-          "url": "https://money.udn.com/money/story/5599/9853261"
-        },
-        {
-          "source": "iThome",
-          "title": "蘋果Q4營收成長12%創同期新高，iPhone與Mac業務強勁成長",
-          "url": "https://www.ithome.com.tw/news/180162"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "「戒慎恐懼」鳳山分會長林智鴻攜手蘇致榮  喊「5席都過關」議會過半",
       "summary": [
         "自由時報：「戒慎恐懼」鳳山分會長林智鴻攜手蘇致榮  喊「5席都過關」議會過半",
@@ -140,7 +98,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "德國官員iPhone疑遭間諜軟體攻擊 政府展開調查",
       "summary": [
         "經濟日報：德國官員iPhone疑遭間諜軟體攻擊 政府展開調查",
@@ -161,7 +119,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "〈財報〉蘋果特納斯首份財報好壞參半！Q1毛利率展望失色 盤後一度挫4%",
       "summary": [
         "鉅亨網：〈財報〉蘋果特納斯首份財報好壞參半！Q1毛利率展望失色 盤後一度挫4%",
@@ -182,7 +140,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "20261103 公視AI手語天氣報導 ｜東北季風影響 迎風面有雨轉涼",
       "summary": [
         "公視新聞：20261103 公視AI手語天氣報導 ｜東北季風影響 迎風面有雨轉涼",
@@ -203,7 +161,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "美軍秘密攻擊伊朗葛希姆島　刻意保持低調避免全面開戰",
       "summary": [
         "經濟日報：美軍秘密攻擊伊朗葛希姆島　刻意保持低調避免全面開戰",
@@ -220,6 +178,48 @@
           "source": "自由時報",
           "title": "美軍低調空襲伊朗最大島！ 美官員認了：防禦性攻擊",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5627540"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "英資安機構警告關鍵設施恐成AI網攻目標　中國威脅受關注",
+      "summary": [
+        "經濟日報：英資安機構警告關鍵設施恐成AI網攻目標　中國威脅受關注",
+        "科技新報：英資安機構警告關鍵設施恐成 AI 網攻目標，中國威脅受關注"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "英資安機構警告關鍵設施恐成AI網攻目標　中國威脅受關注",
+          "url": "https://money.udn.com/money/story/5599/9853487"
+        },
+        {
+          "source": "科技新報",
+          "title": "英資安機構警告關鍵設施恐成 AI 網攻目標，中國威脅受關注",
+          "url": "https://infosecu.technews.tw/2026/11/03/uk-cybersecurity-agency-warns-critical-infrastructure-vulnerable-ai-cyberattacks-highlighting-china-threat/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "萬元有找？任天堂平價版 Switch 2 掌機規格首度曝光",
+      "summary": [
+        "ETtoday：萬元有找？任天堂平價版 Switch 2 掌機規格首度曝光",
+        "自由時報：任天堂平價版Switch 2規格曝光！萬元有找專注掌機"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "萬元有找？任天堂平價版 Switch 2 掌機規格首度曝光",
+          "url": "https://www.ettoday.net/news/20261103/3265292.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "任天堂平價版Switch 2規格曝光！萬元有找專注掌機",
+          "url": "https://3c.ltn.com.tw/news/68140"
         }
       ]
     }
@@ -332,16 +332,16 @@
     },
     {
       "rank": 6,
-      "title": "快訊：韓國10月CPI同比上漲2.8%",
+      "title": "簡訊：韓國10月CPI同比上漲2.8%",
       "summary": [
-        "韓聯社：快訊：韓國10月CPI同比上漲2.8%"
+        "韓聯社：簡訊：韓國10月CPI同比上漲2.8%"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "韓聯社",
-          "title": "快訊：韓國10月CPI同比上漲2.8%",
-          "url": "https://cn.yna.co.kr/view/ACK20261103000400881"
+          "title": "簡訊：韓國10月CPI同比上漲2.8%",
+          "url": "https://cn.yna.co.kr/view/ACK20261103000600881"
         }
       ]
     },
@@ -392,16 +392,16 @@
     },
     {
       "rank": 10,
-      "title": "An Election Day Special With Nate Silver",
+      "title": "FirstFT: Officials discuss Trump, Putin and Xi meeting",
       "summary": [
-        "Bloomberg Markets：An Election Day Special With Nate Silver"
+        "Financial Times：FirstFT: Officials discuss Trump, Putin and Xi meeting"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "An Election Day Special With Nate Silver",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-03/an-election-day-special-with-nate-silver"
+          "source": "Financial Times",
+          "title": "FirstFT: Officials discuss Trump, Putin and Xi meeting",
+          "url": "https://www.ft.com/content/65982705-e3f3-4dfe-8d5d-39809f8a1103?syn-25a6b1a6=1"
         }
       ]
     }
