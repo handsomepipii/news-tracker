@@ -187,7 +187,27 @@ def ensure_traditional_chinese(text):
         except Exception as e:
             print(f"英文翻譯備援失敗: {e}")
     return cc.convert(text)
-
+    
+def translate_for_tg(text):
+    """發送 Telegram 前的強制中文化檢查，確保推播內容 100% 為繁體中文"""
+    text = (text or "").strip()
+    if not text:
+        return text
+    try:
+        # 1. 若含日文假名，強制以日文翻繁中
+        if has_japanese(text):
+            translated = ja_translator.translate(text)
+            if translated:
+                text = translated
+        # 2. 只要含有連續英文字母（不限中文字數比例），強制透過 Google 翻譯轉為繁中
+        elif re.search(r'[a-zA-Z]{4,}', text):
+            translated = en_translator.translate(text)
+            if translated:
+                text = translated
+    except Exception as e:
+        print(f"TG 傳送前翻譯失敗: {e}")
+    return cc.convert(text)
+    
 def strip_media_suffixes(title, is_google_news=False):
     """徹底剝除 Google News 雙重破折號尾綴 (如 '- 紐約時報中文網 - 紐約時報中文網') 與開頭破折號"""
     t = (title or "").strip()
@@ -452,7 +472,7 @@ def check_keywords(conn, new_articles):
             if c.fetchone():
                 # 已經發送過，直接跳過不推播
                 continue
-
+            tg_title = translate_for_tg(a['title'])
             msg = (
                 f"🚨 <b>關鍵字命中：{', '.join(matched)}</b>\n\n"
                 f"📰 {a['title']}\n"
