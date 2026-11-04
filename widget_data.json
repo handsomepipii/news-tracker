@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-05 01:35",
+  "updated_at": "2026-11-05 02:33",
   "taiwan": [
     {
       "rank": 1,
+      "title": "美期中選舉戰報：民主黨橫掃國會兩院過半、共和黨票倉崩盤，「藍色海嘯」淹沒川普",
+      "summary": [
+        "關鍵評論網：美期中選舉戰報：民主黨橫掃國會兩院過半、共和黨票倉崩盤，「藍色海嘯」淹沒川普",
+        "轉角國際：美國期中選舉的藍色浪潮：民主黨成功翻轉參眾兩院，共和黨紅色堡壘接連失守| 過去24小時",
+        "經濟日報：美期中選舉藍色海嘯橫掃 民主黨狂勝 國會、地方變天"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "關鍵評論網",
+          "title": "美期中選舉戰報：民主黨橫掃國會兩院過半、共和黨票倉崩盤，「藍色海嘯」淹沒川普",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KWERCanNuLXc3X1FlOVlIb2ZTU0pMdmRUMURMcDhvTmo0ZVR6a0xuX2M4NTB4Yko0MW5aXzB1cHJsWEJWZE92NkpFVGxfd05LSUJJRg?oc=5"
+        },
+        {
+          "source": "轉角國際",
+          "title": "美國期中選舉的藍色浪潮：民主黨成功翻轉參眾兩院，共和黨紅色堡壘接連失守| 過去24小時",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYTREWURmM21xTWJmQWlTOUJpVnVWelBRTzdoSlFGQllwMDRhOHdHcU9JQV9pOVh4S25WdkFRajZQU3FsZ3AwNk9NVnVuYkdhZWsxY2dudFVsVEJvU3c1NS05NU5FdnZXcHMxQnQ1M1lCZW9QdGhXbmdTVHFXNWtzYkxCeVVYNU9uREJ3bl9TWDY?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美期中選舉藍色海嘯橫掃 民主黨狂勝 國會、地方變天",
+          "url": "https://money.udn.com/money/story/5599/9858127"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "當智慧座艙成為車內「第三空間」：AI 座艙感知與視覺化 Hackathon 圓滿落幕",
       "summary": [
         "關鍵評論網：當智慧座艙成為車內「第三空間」：AI 座艙感知與視覺化 Hackathon 圓滿落幕",
@@ -29,112 +56,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "巴帕斯贏得美參議院選舉 成首位公開出櫃男性參議員",
-      "summary": [
-        "自由時報：巴帕斯贏得美參議院選舉 成首位公開出櫃男性參議員",
-        "經濟日報：巴帕斯贏得美參議院選舉　成首位公開出櫃男性參議員"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "巴帕斯贏得美參議院選舉 成首位公開出櫃男性參議員",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629008"
-        },
-        {
-          "source": "經濟日報",
-          "title": "巴帕斯贏得美參議院選舉　成首位公開出櫃男性參議員",
-          "url": "https://money.udn.com/money/story/5599/9856756"
-        }
-      ]
-    },
-    {
       "rank": 3,
-      "title": "高鐵軌道巡檢造假長達5年　8名涉案員工離職",
-      "summary": [
-        "ETtoday：高鐵軌道巡檢造假長達5年　8名涉案員工離職",
-        "自由時報：高鐵雲林段軌道巡檢紀錄涉造假5年 8名涉案員工已離職"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "高鐵軌道巡檢造假長達5年　8名涉案員工離職",
-          "url": "https://www.ettoday.net/news/20261104/3266227.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "高鐵雲林段軌道巡檢紀錄涉造假5年 8名涉案員工已離職",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5629150"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "特斯拉遭控誤導韓國消費者，多數車款無法合法使用 FSD",
-      "summary": [
-        "科技新報：特斯拉遭控誤導韓國消費者，多數車款無法合法使用 FSD",
-        "ETtoday：特斯拉遭控「誤導韓國消費者」！花22萬買全自動駕駛輔助不能用"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "特斯拉遭控誤導韓國消費者，多數車款無法合法使用 FSD",
-          "url": "https://technews.tw/2026/11/04/tesla-misleading-korea-consumers-fsd-not-legal-most-models/"
-        },
-        {
-          "source": "ETtoday",
-          "title": "特斯拉遭控「誤導韓國消費者」！花22萬買全自動駕駛輔助不能用",
-          "url": "https://speed.ettoday.net/news/3266224"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "新航受Amadeus資安事件波及，約4.6萬筆訂位紀錄可能外洩",
-      "summary": [
-        "iThome：新航受Amadeus資安事件波及，約4.6萬筆訂位紀錄可能外洩",
-        "科技新報：訂位系統資安事件，新航 4.6 萬筆訂位紀錄恐受波及"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "新航受Amadeus資安事件波及，約4.6萬筆訂位紀錄可能外洩",
-          "url": "https://www.ithome.com.tw/news/180212"
-        },
-        {
-          "source": "科技新報",
-          "title": "訂位系統資安事件，新航 4.6 萬筆訂位紀錄恐受波及",
-          "url": "https://infosecu.technews.tw/2026/11/04/singapore-airlines-46000-booking-records-security-breach/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "藍色海嘯席捲美期中選舉　共和黨傳統選區遭翻盤",
-      "summary": [
-        "經濟日報：藍色海嘯席捲美期中選舉　共和黨傳統選區遭翻盤",
-        "轉角國際：美國期中選舉的藍色浪潮：民主黨成功翻轉參眾兩院，共和黨紅色堡壘接連失守| 過去24小時"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "藍色海嘯席捲美期中選舉　共和黨傳統選區遭翻盤",
-          "url": "https://money.udn.com/money/story/5599/9856803"
-        },
-        {
-          "source": "轉角國際",
-          "title": "美國期中選舉的藍色浪潮：民主黨成功翻轉參眾兩院，共和黨紅色堡壘接連失守| 過去24小時",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYTREWURmM21xTWJmQWlTOUJpVnVWelBRTzdoSlFGQllwMDRhOHdHcU9JQV9pOVh4S25WdkFRajZQU3FsZ3AwNk9NVnVuYkdhZWsxY2dudFVsVEJvU3c1NS05NU5FdnZXcHMxQnQ1M1lCZW9QdGhXbmdTVHFXNWtzYkxCeVVYNU9uREJ3bl9TWDY?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "美期中選舉4大訊號一次看！物價怒火反噬川普 藍潮席捲共和黨票倉",
       "summary": [
         "自由時報：美期中選舉4大訊號一次看！物價怒火反噬川普 藍潮席捲共和黨票倉",
@@ -155,7 +77,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
       "title": "韓電視雙雄三星、LG 兩難  與中廠「既競爭又合作」",
       "summary": [
         "科技新報：韓電視雙雄三星、LG 兩難  與中廠「既競爭又合作」",
@@ -176,7 +98,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "美國期中選舉國會變天！資料中心埋未爆彈 AI 算力轉向全球分散佈局",
       "summary": [
         "經濟日報：美國期中選舉國會變天！資料中心埋未爆彈 AI 算力轉向全球分散佈局",
@@ -197,7 +119,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "天氣／低溫探16度！溫熱天沒了「這天」變濕冷，一路下雨到下週？首波冷氣團何時報到，10日報先看",
       "summary": [
         "今周刊：天氣／低溫探16度！溫熱天沒了「這天」變濕冷，一路下雨到下週？首波冷氣團何時報到，10日報先看",
@@ -214,6 +136,90 @@
           "source": "風傳媒",
           "title": "天氣預報/冷空氣發威！全臺轉濕涼「氣溫猛降剩18度」大雨連下3天，3 波變天時間曝",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11TThSRXdvWlo3Q2RoaEtlZ21YWmlyVWdjSm1ZZHlyN0FFQk5XLWYzZ3B6UkVXYlhsMkt5bWl5RG91aW82aVVIcGwycktVNFJu?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "選舉輸爛川普拿北京出氣？更大風險在2027　外媒點出對臺軍售變數",
+      "summary": [
+        "ETtoday：選舉輸爛川普拿北京出氣？更大風險在2027　外媒點出對臺軍售變數",
+        "經濟日報：期中選舉重挫 川普找出氣筒 北京遭殃？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "選舉輸爛川普拿北京出氣？更大風險在2027　外媒點出對臺軍售變數",
+          "url": "https://www.ettoday.net/news/20261104/3266385.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "期中選舉重挫 川普找出氣筒 北京遭殃？",
+          "url": "https://money.udn.com/money/story/5599/9857864"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "董總親自鞠躬道歉！永豐銀遭盜轉4176萬 將向供應商求償",
+      "summary": [
+        "自由時報：董總親自鞠躬道歉！永豐銀遭盜轉4176萬 將向供應商求償",
+        "科技新報：永豐銀證實遭外部駭客盜轉！董總鞠躬致歉「墊付 4,176 萬全額退款」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "董總親自鞠躬道歉！永豐銀遭盜轉4176萬 將向供應商求償",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5629662"
+        },
+        {
+          "source": "科技新報",
+          "title": "永豐銀證實遭外部駭客盜轉！董總鞠躬致歉「墊付 4,176 萬全額退款」",
+          "url": "https://finance.technews.tw/2026/11/04/unauthorized-account-transfer/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "納坦雅胡拖垮共和黨選情？川普宣佈每年40億美元軍援以色列喊停",
+      "summary": [
+        "關鍵評論網：納坦雅胡拖垮共和黨選情？川普宣佈每年40億美元軍援以色列喊停",
+        "TVBS新聞：【少康戰情室精華版】期中選舉敗選！川普喊將停止對以色列援助 拋震撼彈藏玄機？甚至低頭表態稱願和民主黨合作 2028總統戰開跑？2黨熱門人選曝#林秉宥 #周榆修 #侯漢廷 #林沛祥 #遊淑慧 #邸聖德"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "關鍵評論網",
+          "title": "納坦雅胡拖垮共和黨選情？川普宣佈每年40億美元軍援以色列喊停",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3V2hYMU9wUjJaZ0tPQ2t5QTNuTDhKVE9hTmRqZW42cmxqeXpnTE93MTMyNlZGN29FR1ZtRWNSNlAySTBYZWZnckc3WGJxR004eGticg?oc=5"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "【少康戰情室精華版】期中選舉敗選！川普喊將停止對以色列援助 拋震撼彈藏玄機？甚至低頭表態稱願和民主黨合作 2028總統戰開跑？2黨熱門人選曝#林秉宥 #周榆修 #侯漢廷 #林沛祥 #遊淑慧 #邸聖德",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13MTBoWDQ1VW9DcjJONkpnQlRaZmZtZXhkMHJMT2JMdHZWdlRKTGttQmlVRjVfUVhmWDFMSTdyX0M0MG83dERPV2ZLMzI3a1RrSUNTUWhn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "永豐銀行異常轉帳確認為駭客攻擊，供應商安全設定漏洞遭利用",
+      "summary": [
+        "iThome：永豐銀行異常轉帳確認為駭客攻擊，供應商安全設定漏洞遭利用",
+        "財訊：永豐銀行異常轉帳原因找到了！駭客利用供應商安全設定 419人受影響、款項已全數返還"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "永豐銀行異常轉帳確認為駭客攻擊，供應商安全設定漏洞遭利用",
+          "url": "https://www.ithome.com.tw/news/180233"
+        },
+        {
+          "source": "財訊",
+          "title": "永豐銀行異常轉帳原因找到了！駭客利用供應商安全設定 419人受影響、款項已全數返還",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZdWpUbmcyMk5mVzRYR2gzU001VENkRE1fZ3ctZVF2Qm4waHNxNDNzazl3YmFtdTdRVzhjZ2NKYnZyM3BVc2s1TGh0a2Q0aVdZMDBEemRGR2ktNXgwdko5bzJWUVBVb1BVemk1TFlNMEhNMG5zc1A0RzgyZw?oc=5"
         }
       ]
     }
@@ -307,27 +313,6 @@
     },
     {
       "rank": 4,
-      "title": "美國期中選舉：民主黨有望奪回眾院 德州參院席次翻藍",
-      "summary": [
-        "德國之聲：美國期中選舉：民主黨有望奪回眾院 德州參院席次翻藍",
-        "BBC中文：德州翻藍：民主黨時隔38年首奪聯邦參議員席次"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "美國期中選舉：民主黨有望奪回眾院 德州參院席次翻藍",
-          "url": "https://www.dw.com/zh/美國期中選舉：民主黨有望奪回眾院-德州參院席次翻藍/live-79849020?maca=chi-rss-chi-all-1127-rdf"
-        },
-        {
-          "source": "BBC中文",
-          "title": "德州翻藍：民主黨時隔38年首奪聯邦參議員席次",
-          "url": "https://www.bbc.com/zhongwen/articles/cwzrdzl8v6jjo/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "美國中期選舉：民主黨重新奪回參眾兩院多數控制權【突發新聞】",
       "summary": [
         "NHK新聞：美國中期選舉：民主黨重新奪回參眾兩院多數控制權【突發新聞】",
@@ -348,7 +333,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Canva 宣佈裁員，約 22% 的員工更換工作",
       "summary": [
         "Bloomberg Tech：Canva 宣佈裁員，約 22% 的員工更換工作",
@@ -369,7 +354,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "蘋果股價下跌，元債務成本上升",
       "summary": [
         "WSJ Markets：蘋果股價下跌，元債務成本上升",
@@ -390,7 +375,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美國中期選舉圖：民主黨大獲全勝，斥責川普",
       "summary": [
         "CNBC：美國中期選舉圖：民主黨大獲全勝，斥責川普",
@@ -411,7 +396,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "幣安聯合執行長理查德·滕（Richard Teng）表示，駭客利用虛假求職面試和人工智慧工具竊取了 63 億美元的加密貨幣",
       "summary": [
         "CNBC：幣安聯合執行長理查德·滕（Richard Teng）表示，駭客利用虛假求職面試和人工智慧工具竊取了 63 億美元的加密貨幣",
@@ -432,7 +417,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Shopify 的股價在公佈財報後下跌。這正是華爾街所擔心的。",
       "summary": [
         "MarketWatch：Shopify 的股價在公佈財報後下跌。這正是華爾街所擔心的。",
@@ -449,6 +434,27 @@
           "source": "Yahoo Finance",
           "title": "由於第三季營收和總訂單價值低於華爾街預期，Shopify 股價下跌",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQemxuQTVWUVY2NzFzOXhwRWdEV2pXdnVXUGtHYjZxYmVhOVJCMWF6cnZYelpPSVlXT1d4LTN5aHBrZGZTWTlLaHpZVkZ1elhHLThaaFN6Umc1SFRZS2dibmxBbVVnV1hJYUhwZkNtY1hjSG9KeFU1c051Q2xfQmdyN0h6UFdFYXh6aEpscEIzdlVfY2hLRXlONDNpc1V4M3hZWHM3bXpYM18tRU9rdWVHTVlyMG8waTgtb3BYS3FoNmstUklMUmFTcTF3bmo0SzNIeWtyZzNPaw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "分析師對美國中期選舉結果的反應",
+      "summary": [
+        "Yahoo Finance：分析師對美國中期選舉結果的反應",
+        "NHK新聞：各國對美國中期選舉有何反應？ 【通訊員評論】"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "分析師對美國中期選舉結果的反應",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXlBejdoWVpxdU15MVlzajFKY05OWFprdXpONnZkbFozZlRiMHc5WVRIOTJmY0hDSVowdE1saHNLb0FBSnNlQ0tSTU16UjdwMGFqeWRHeVcwOUJ2ajluRjRQY0dKbENTZ3liSUI1SjQ2dVNQWjVRVllDYW1RaUFwV2t5UTNjVUlUWm4tTHZyR1hFS1o4OUJxRTZFRGZhcnc5?oc=5"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "各國對美國中期選舉有何反應？ 【通訊員評論】",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261104de70587"
         }
       ]
     }
