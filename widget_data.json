@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 07:48",
+  "updated_at": "2026-11-04 09:00",
   "taiwan": [
     {
       "rank": 1,
@@ -51,48 +51,27 @@
     },
     {
       "rank": 3,
-      "title": "臺籍女子涉走私2.6公斤喪屍煙彈 茅臺酒瓶藏毒闖關日本遭逮",
+      "title": "川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
       "summary": [
-        "自由時報：臺籍女子涉走私2.6公斤喪屍煙彈 茅臺酒瓶藏毒闖關日本遭逮",
-        "經濟日報：臺籍女子涉走私2.6公斤喪屍煙彈　茅臺酒瓶藏毒闖關日本遭逮"
+        "自由時報：川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
+        "經濟日報：川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "臺籍女子涉走私2.6公斤喪屍煙彈 茅臺酒瓶藏毒闖關日本遭逮",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628333"
+          "title": "川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628484"
         },
         {
           "source": "經濟日報",
-          "title": "臺籍女子涉走私2.6公斤喪屍煙彈　茅臺酒瓶藏毒闖關日本遭逮",
-          "url": "https://money.udn.com/money/story/5599/9855169"
+          "title": "川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
+          "url": "https://money.udn.com/money/story/5599/9855635"
         }
       ]
     },
     {
       "rank": 4,
-      "title": "期貨最新報價11／3期交所夜盤行情- 上市櫃",
-      "summary": [
-        "中時新聞：期貨最新報價11／3期交所夜盤行情- 上市櫃",
-        "工商時報：期貨最新報價11／3期交所夜盤行情- 證券"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "期貨最新報價11／3期交所夜盤行情- 上市櫃",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0QjlINmMwNjd0RDJQZ2hRWUpGSkJURDJCV3J4dWxoRkxfYS1xWGpfejdlUnRRNDFmX2dUQV9qeF9CX2ZrZUpnY3BXY1E5NFY4bXphdFNoWHNQWGc3alQ1VGoyUTIxWFFUalE?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "期貨最新報價11／3期交所夜盤行情- 證券",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PYVhKbjFESno4ZlhYbklkR3g5RkN3d2pmdjU5b09zbXBxUGQzM0ZzWXI1eTNJcUx0RzRXVl9VVUhQTk1ETTRxelU1SGxsN1VvdVhDTGxWWDlYd09NT280?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "冬盟臺灣雙軍名單出爐！張建銘、高國輝首掌兵符　旅美廖宥霖參戰",
       "summary": [
         "ETtoday：冬盟臺灣雙軍名單出爐！張建銘、高國輝首掌兵符　旅美廖宥霖參戰",
@@ -109,6 +88,27 @@
           "source": "風傳媒",
           "title": "《央視》前主持人程萬軍「跳機」來臺灣求援：盼人道保護轉送第三國 | 蔣季容 | 新聞",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NTFRLLWE1Vm5LbF9kTE5odjNKTjFCYXBzLURFbUFtaXRCRTVVQ19QTGhOb2ExUmtQeXN0SG5KUEhOQjBoSWpxUnQ4cm1jdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "法媒：通膨、動盪及政治不確定　法國經濟恐陷惡性迴圈",
+      "summary": [
+        "經濟日報：法媒：通膨、動盪及政治不確定　法國經濟恐陷惡性迴圈",
+        "科技新報：法媒：通膨、動盪及政治不確定，法國經濟恐陷惡性迴圈"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "法媒：通膨、動盪及政治不確定　法國經濟恐陷惡性迴圈",
+          "url": "https://money.udn.com/money/story/5599/9855379"
+        },
+        {
+          "source": "科技新報",
+          "title": "法媒：通膨、動盪及政治不確定，法國經濟恐陷惡性迴圈",
+          "url": "https://technews.tw/2026/11/04/french-media-inflation-turmoil-political-uncertainty-risk-trapping-french-economy-vicious-cycle/"
         }
       ]
     },
@@ -135,27 +135,6 @@
     },
     {
       "rank": 7,
-      "title": "川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
-      "summary": [
-        "自由時報：川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
-        "經濟日報：川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628484"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
-          "url": "https://money.udn.com/money/story/5599/9855635"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "美司法部派1000名選舉監督員進駐50州　規模史上最大",
       "summary": [
         "自由時報：美司法部派1000名選舉監督員進駐50州　規模史上最大",
@@ -176,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "市場關注美國期中選舉　歐股收低",
       "summary": [
         "自由時報：市場關注美國期中選舉　歐股收低",
@@ -197,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "白宮：梅蘭妮亞將接見俄烏代表　為美國歷史非凡時刻",
       "summary": [
         "自由時報：白宮：梅蘭妮亞將接見俄烏代表　為美國歷史非凡時刻",
@@ -214,6 +193,27 @@
           "source": "經濟日報",
           "title": "白宮：梅蘭妮亞將接見俄烏代表　為美國歷史非凡時刻",
           "url": "https://money.udn.com/money/story/5599/9855650"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
+      "summary": [
+        "自由時報：紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
+        "經濟日報：紐約州韋斯切斯特郡投票機故障　選務人員緊急處置"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628503"
+        },
+        {
+          "source": "經濟日報",
+          "title": "紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
+          "url": "https://money.udn.com/money/story/10511/9855675"
         }
       ]
     }
@@ -280,6 +280,27 @@
     },
     {
       "rank": 3,
+      "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+      "summary": [
+        "CNBC：CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+        "Yahoo Finance：CrowdStrike announces 'kill switch' for AI agents that go rogue"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+          "url": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "CrowdStrike announces 'kill switch' for AI agents that go rogue",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUTdqbkFGU1h0REtEWFNfdEpGcFBRd1BhNUYya2FNb1M4VTN0V1piYjlldnBPUTgxZG85SWlwYnFMc3lLUHNBNmk2YXpDXzM5UlJ0SGtIMTQ3T1VpYWw0M0xtWmtBVjRXUUs3V1BqNkRQUEwtYnE0NG5MYy1SYi1BWDJldmZhLS1qaG5YZjFqWjN6UTZ3U2s5YWJwZE5GdEU1VlNOckFEUENHN2o1d3FlOFplbVdVeTZ1UnhzOGVBcDNwSG1LOVVSYWZCZmRaOHlmT25NRVlSZ2U1UVRRbnl2MEZ6VmR3T2pfVktQbA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "美國中期選舉：選什麼？有哪些看點？",
       "summary": [
         "德國之聲：美國中期選舉：選什麼？有哪些看點？",
@@ -300,7 +321,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
       "summary": [
         "Bloomberg Tech：Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
@@ -321,7 +342,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Canva Announces Layoffs, Job Changes for About 22% of Workforce",
       "summary": [
         "Bloomberg Tech：Canva Announces Layoffs, Job Changes for About 22% of Workforce",
@@ -342,70 +363,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Meta Raises $15 Billion as Elevated Bond Yields Stoke Demand",
-      "summary": [
-        "Bloomberg Tech：Meta Raises $15 Billion as Elevated Bond Yields Stoke Demand",
-        "Investing.com：Meta raises $15 billion in five-part US bond sale"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Meta Raises $15 Billion as Elevated Bond Yields Stoke Demand",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Meta raises $15 billion in five-part US bond sale",
-          "url": "https://www.investing.com/news/stock-market-news/meta-raises-15-billionin-fivepart-us-bond-sale-4996872"
-        }
-      ]
-    },
-    {
       "rank": 7,
-      "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-      "summary": [
-        "CNBC：Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-        "Yahoo Finance：Disney Eyes Thousands of Layoffs, With Managers Asked to Cut 20%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-          "url": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Disney Eyes Thousands of Layoffs, With Managers Asked to Cut 20%",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONy1ueVhiMS1RaHJGNUlaZGpPaFlxR3lhd0xBN0o5SFctdk1sVFpQZmN6dnVoa3ZlamhnM0RHbzBaQi0xZ0dIZTdidTZQS0Z5ZFpHN0xlRGJMdlJEQllFV2ZoSmFSVzg4a1NQNjE4ZVN2STF2UzZacWJxeTluN3ZDaUJpZHVBaE15MFhyWTE1SWxvakZvSXNuLVJyVU80ejR4anRsUXpyZnNLdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
-      "summary": [
-        "CNBC：CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
-        "Yahoo Finance：CrowdStrike announces 'kill switch' for AI agents that go rogue"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
-          "url": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "CrowdStrike announces 'kill switch' for AI agents that go rogue",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUTdqbkFGU1h0REtEWFNfdEpGcFBRd1BhNUYya2FNb1M4VTN0V1piYjlldnBPUTgxZG85SWlwYnFMc3lLUHNBNmk2YXpDXzM5UlJ0SGtIMTQ3T1VpYWw0M0xtWmtBVjRXUUs3V1BqNkRQUEwtYnE0NG5MYy1SYi1BWDJldmZhLS1qaG5YZjFqWjN6UTZ3U2s5YWJwZE5GdEU1VlNOckFEUENHN2o1d3FlOFplbVdVeTZ1UnhzOGVBcDNwSG1LOVVSYWZCZmRaOHlmT25NRVlSZ2U1UVRRbnl2MEZ6VmR3T2pfVktQbA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "AMD Forecast Exceeds Estimates After AI Chip Demand Soars",
       "summary": [
         "Bloomberg Tech：AMD Forecast Exceeds Estimates After AI Chip Demand Soars"
@@ -420,17 +378,47 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "英國移民改革改什麼？BNO港人會受影響嗎？",
+      "rank": 8,
+      "title": "金與正出面否認朝鮮竊取幣安加密資產",
       "summary": [
-        "BBC中文：英國移民改革改什麼？BNO港人會受影響嗎？"
+        "德國之聲：金與正出面否認朝鮮竊取幣安加密資產"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "BBC中文",
-          "title": "英國移民改革改什麼？BNO港人會受影響嗎？",
-          "url": "https://www.bbc.com/zhongwen/articles/c63r50z3npr7o/trad?at_medium=RSS&at_campaign=rss"
+          "source": "德國之聲",
+          "title": "金與正出面否認朝鮮竊取幣安加密資產",
+          "url": "https://www.dw.com/zh/金与正出面否认朝鲜窃取币安加密资产/a-79840935?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "香港海關依國安法沒收逾60本臺灣進口書",
+      "summary": [
+        "德國之聲：香港海關依國安法沒收逾60本臺灣進口書"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "香港海關依國安法沒收逾60本臺灣進口書",
+          "url": "https://www.dw.com/zh/香港海关依国安法没收逾60本台湾进口书/a-79840917?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國中期選舉：民主黨實現“藍色浪潮”奪回國會控制權？",
+      "summary": [
+        "法廣RFI：美國中期選舉：民主黨實現“藍色浪潮”奪回國會控制權？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "美國中期選舉：民主黨實現“藍色浪潮”奪回國會控制權？",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E8%A7%A3%E8%AA%AA/20261103-%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%AF%A6%E7%8F%BE-%E8%97%8D%E8%89%B2%E6%B5%AA%E6%BD%AE-%E5%A5%AA%E5%9B%9E%E5%9C%8B%E6%9C%83%E6%8E%A7%E5%88%B6%E6%AC%8A"
         }
       ]
     }
