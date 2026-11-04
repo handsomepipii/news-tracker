@@ -1,8 +1,62 @@
 {
-  "updated_at": "2026-11-04 17:36",
+  "updated_at": "2026-11-04 20:04",
   "taiwan": [
     {
       "rank": 1,
+      "title": "共和黨期中選舉慘敗！川普鬆口接受結果 喊話與民主黨合作",
+      "summary": [
+        "自由時報：共和黨期中選舉慘敗！川普鬆口接受結果 喊話與民主黨合作",
+        "經濟日報：共和黨慘遭血洗！川普鬆口：接受選舉結果 願與民主黨合作",
+        "風傳媒：【不斷更新】美國期中選舉即時開票：川普恭賀民主黨勝選，再提「要跟民主黨合作，但我有否決權」 | 李忠謙 | 新聞"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "共和黨期中選舉慘敗！川普鬆口接受結果 喊話與民主黨合作",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628944"
+        },
+        {
+          "source": "經濟日報",
+          "title": "共和黨慘遭血洗！川普鬆口：接受選舉結果 願與民主黨合作",
+          "url": "https://money.udn.com/money/story/5599/9856594"
+        },
+        {
+          "source": "風傳媒",
+          "title": "【不斷更新】美國期中選舉即時開票：川普恭賀民主黨勝選，再提「要跟民主黨合作，但我有否決權」 | 李忠謙 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sN0R2QWdMQ0diX3JsVy1PcFVFVDVMZ2NGZ0JzRzhsWlZMWmtGWWJVNWNLYk9DZl9yTVI5OC02bnZOM1RXN0trYXNFMUJRdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "川普稱停止對以色列每年1314億軍援 CNN：預示美國歷史性轉變",
+      "summary": [
+        "自由時報：川普稱停止對以色列每年1314億軍援 CNN：預示美國歷史性轉變",
+        "TVBS新聞：川普: 停止對以色列「40億美元」軍援｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "關鍵評論網：納坦雅胡拖垮共和黨選情？川普宣佈每年40億美元軍援以色列喊停"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川普稱停止對以色列每年1314億軍援 CNN：預示美國歷史性轉變",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628582"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "川普: 停止對以色列「40億美元」軍援｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43Y24xNjZLT2JsVFBxZjRmTGtaWllKcXFGZVpHOE4zVUJhTjJ4QTltd2tsQzlQX240ZTZpX0E1Um91QXQ1eHBCd0NQemthQnRDTklldThB?oc=5"
+        },
+        {
+          "source": "關鍵評論網",
+          "title": "納坦雅胡拖垮共和黨選情？川普宣佈每年40億美元軍援以色列喊停",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3V2hYMU9wUjJaZ0tPQ2t5QTNuTDhKVE9hTmRqZW42cmxqeXpnTE93MTMyNlZGN29FR1ZtRWNSNlAySTBYZWZnckc3WGJxR004eGticg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "訂位系統資安事件　新航4.6萬筆訂位紀錄恐受波及",
       "summary": [
         "經濟日報：訂位系統資安事件　新航4.6萬筆訂位紀錄恐受波及",
@@ -29,7 +83,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "當智慧座艙成為車內「第三空間」：AI 座艙感知與視覺化 Hackathon 圓滿落幕",
       "summary": [
         "關鍵評論網：當智慧座艙成為車內「第三空間」：AI 座艙感知與視覺化 Hackathon 圓滿落幕",
@@ -56,133 +110,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "共和黨期中選舉慘敗！川普鬆口接受結果 喊話與民主黨合作",
-      "summary": [
-        "自由時報：共和黨期中選舉慘敗！川普鬆口接受結果 喊話與民主黨合作",
-        "經濟日報：共和黨慘遭血洗！川普鬆口：接受選舉結果 願與民主黨合作"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "共和黨期中選舉慘敗！川普鬆口接受結果 喊話與民主黨合作",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628944"
-        },
-        {
-          "source": "經濟日報",
-          "title": "共和黨慘遭血洗！川普鬆口：接受選舉結果 願與民主黨合作",
-          "url": "https://money.udn.com/money/story/5599/9856594"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "自由日日Shoot》拒動員輔選國民黨遊淑貞 花縣衛生局長朱家祥遭拔官",
-      "summary": [
-        "自由時報：自由日日Shoot》拒動員輔選國民黨遊淑貞 花縣衛生局長朱家祥遭拔官",
-        "中時新聞：海納百川》美國期中選情臺灣怎能無感（陳世昌）"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "自由日日Shoot》拒動員輔選國民黨遊淑貞 花縣衛生局長朱家祥遭拔官",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1777077"
-        },
-        {
-          "source": "中時新聞",
-          "title": "海納百川》美國期中選情臺灣怎能無感（陳世昌）",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IYkRoZzRtUlZ6eUcybTBHTVg2eW54OGI1VjZDWlVCclpKUlM4M1ZYbl8zQ0Q3cGZ3OTFwOV9jVGZ5YVJaLUtzbWNuY282UFdaaHQ3d0ZDMlVKSTdIc0pmS0I3SVM2VjQ?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "美國選民走進投票所　決定川普未來兩年能否順利施政",
-      "summary": [
-        "自由時報：美國選民走進投票所　決定川普未來兩年能否順利施政",
-        "經濟日報：美國選民走進投票所　決定川普未來兩年能否順利施政"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美國選民走進投票所　決定川普未來兩年能否順利施政",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628513"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美國選民走進投票所　決定川普未來兩年能否順利施政",
-          "url": "https://money.udn.com/money/story/10511/9855708"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "美伊僵局有望結束　國際油價下跌",
-      "summary": [
-        "自由時報：美伊僵局有望結束　國際油價下跌",
-        "經濟日報：美伊僵局有望結束　國際油價下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美伊僵局有望結束　國際油價下跌",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5628512"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美伊僵局有望結束　國際油價下跌",
-          "url": "https://money.udn.com/money/story/5599/9855701"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "憂政府幹預選舉　布魯斯史普林斯汀籲選務官員抵抗",
-      "summary": [
-        "自由時報：憂政府幹預選舉　布魯斯史普林斯汀籲選務官員抵抗",
-        "經濟日報：憂政府幹預選舉　布魯斯史普林斯汀籲選務官員抵抗"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "憂政府幹預選舉　布魯斯史普林斯汀籲選務官員抵抗",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628510"
-        },
-        {
-          "source": "經濟日報",
-          "title": "憂政府幹預選舉　布魯斯史普林斯汀籲選務官員抵抗",
-          "url": "https://money.udn.com/money/story/5599/9855696"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "陳柏霖愛情長跑14年修成正果   傳低調登記結婚",
-      "summary": [
-        "自由時報：陳柏霖愛情長跑14年修成正果   傳低調登記結婚",
-        "ETtoday：陳柏霖傳低調結婚！　愛情長跑14年庭瑄完成登記"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "陳柏霖愛情長跑14年修成正果   傳低調登記結婚",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5628530"
-        },
-        {
-          "source": "ETtoday",
-          "title": "陳柏霖傳低調結婚！　愛情長跑14年庭瑄完成登記",
-          "url": "https://www.ettoday.net/news/20261104/3265930.htm"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "蘋果示警AI代理失控風險！恐擅闖系統、執行交易 失控恐害公司吃官司",
       "summary": [
         "自由時報：蘋果示警AI代理失控風險！恐擅闖系統、執行交易 失控恐害公司吃官司",
@@ -203,7 +131,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "湖口「臺灣松下」工廠爆炸5傷　大火燒到天亮",
       "summary": [
         "ETtoday：湖口「臺灣松下」工廠爆炸5傷　大火燒到天亮",
@@ -220,6 +148,90 @@
           "source": "公視新聞",
           "title": "松下湖口廠深夜起火 釀5傷、仍有2人失聯",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5U01zc2t4LUpuajBRbnFyVFhWeGp5UXN6dEt4OC13VG95U3Ixbl9GWjgyYjMwaWx1V0VXc1FVWVBWcm1BUzZBNTZ1MGRoU1U?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "AMD 第三季營收與獲利均高於市場預期，盤後股價應聲大漲 8%",
+      "summary": [
+        "科技新報：AMD 第三季營收與獲利均高於市場預期，盤後股價應聲大漲 8%",
+        "MoneyDJ理財網：AMD財測優、蘇姿豐估明年營收激增逾8成盤後嗨- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "AMD 第三季營收與獲利均高於市場預期，盤後股價應聲大漲 8%",
+          "url": "https://finance.technews.tw/2026/11/04/amds-third-quarter-revenue-and-profit-both-exceeded-market-expectations/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "AMD財測優、蘇姿豐估明年營收激增逾8成盤後嗨- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmpjd3dNWmduanZkcng3Y2prdXl3YXFfbnFmUUlTWXlKT1lQbGlkeVUwbVVNU0pQbE5YenRJeWVybzUzaFFkTHVRa2ZRMkF3eTNGTVZSSWZtUjdYWHgzRGdmVzJlTFhmbTlUbGstVHRyMklYX0JLbkw2bmFaNXNPSTZ0cTBXYzBNTnBkZ2pJdkVUZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "美期中選舉／汽油價首度在選舉日突破4美元心理關卡！",
+      "summary": [
+        "經濟日報：美期中選舉／汽油價首度在選舉日突破4美元心理關卡！",
+        "自由時報：史上第一次！美國汽油價格在選舉日突破4美元大關"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美期中選舉／汽油價首度在選舉日突破4美元心理關卡！",
+          "url": "https://money.udn.com/money/story/5599/9855798"
+        },
+        {
+          "source": "自由時報",
+          "title": "史上第一次！美國汽油價格在選舉日突破4美元大關",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5628583"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "AI需求爆發，獲利卻沒跟上？從Anthropic財報到邁威爾高價併購，完整剖析AI當前瓶頸與未來方向",
+      "summary": [
+        "今周刊：AI需求爆發，獲利卻沒跟上？從Anthropic財報到邁威爾高價併購，完整剖析AI當前瓶頸與未來方向",
+        "MoneyDJ理財網：AI需求處下波躍升前過渡階段，小摩降智譜等目標價- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "今周刊",
+          "title": "AI需求爆發，獲利卻沒跟上？從Anthropic財報到邁威爾高價併購，完整剖析AI當前瓶頸與未來方向",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdEFnUTJhbG5zcXloclBYNlQtejdXUUZUSC1Ndk5ldkFnYVd5ZjhzdGVMSjc1TVVkTTEtU2NqVDJRLWR4eHR2LXZDMXA0U3l6QUJXMlZEcVRxVmw0dnZaMVpuaE5OWGJyTWFoak1MVExlUllhNU9XYnM4eUxGMzVhNg?oc=5"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "AI需求處下波躍升前過渡階段，小摩降智譜等目標價- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkQyOVMzWXF4cGRQTDR2VTlmT1plcVNvN2g5MU9yNjhxRWRWNm9YbEtqNnUtQ0d5b0FFS3BOUjdKeHR2NTE3eVRCcFJUQTNrU0NfTTVjZGV1emZ2MUNNMk5TUF82Y1lGSXFnNEZrR2ROeGpPVVAyQzY4NXd1cEU0amw4WDZCdFd1NDYwWXYzM29Wdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "智原發表支援乙太網路 PHY IP，搶攻 AI 智慧製造與人形機器人市場",
+      "summary": [
+        "科技新報：智原發表支援乙太網路 PHY IP，搶攻 AI 智慧製造與人形機器人市場",
+        "中時新聞：《半導體》搶攻AI機器人商機！智原推新一代乙太網路IP 鎖定智慧製造"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "智原發表支援乙太網路 PHY IP，搶攻 AI 智慧製造與人形機器人市場",
+          "url": "https://technews.tw/2026/11/04/faraday-ethercat-compliant-ethernet-phy-ip/"
+        },
+        {
+          "source": "中時新聞",
+          "title": "《半導體》搶攻AI機器人商機！智原推新一代乙太網路IP 鎖定智慧製造",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TQ1BWNm5tajg5eXlYM2RQWkM3WHg5ZXZWUml3cTlzM3JHUkxtNktTZDl4OGk4enJDdHBfNnItNlI1dllleHp6OS1iM2ZSSC1XUXp4TjZTRW94YmVLSHBSTmZuZjJDVktRMEI1SzRR?oc=5"
         }
       ]
     }
@@ -259,6 +271,48 @@
     },
     {
       "rank": 2,
+      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+      "summary": [
+        "The Verge：All the news about The Legend of Zelda: Ocarina of Time remake",
+        "Wccftech：The Legend of Zelda: Ocarina of Time Review – A Tantalizing Tune-Up of a Timeless Classic"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+          "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news"
+        },
+        {
+          "source": "Wccftech",
+          "title": "The Legend of Zelda: Ocarina of Time Review – A Tantalizing Tune-Up of a Timeless Classic",
+          "url": "https://wccftech.com/review/the-legend-of-zelda-ocarina-of-time/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "美國中期選舉民調：選民最關心經濟與民主現況",
+      "summary": [
+        "BBC中文：美國中期選舉民調：選民最關心經濟與民主現況",
+        "NHK新聞：アメリカ中間選挙 各國の受け止めは？【特派員解説】"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "美國中期選舉民調：選民最關心經濟與民主現況",
+          "url": "https://www.bbc.com/zhongwen/articles/c6kg5xn3rk9po/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "アメリカ中間選挙 各國の受け止めは？【特派員解説】",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261104de70587"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "美國中期選舉：喬治亞州選出首位非裔女性州長",
       "summary": [
         "德國之聲：美國中期選舉：喬治亞州選出首位非裔女性州長",
@@ -279,7 +333,28 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "title": "美國期中選舉：民主黨有望奪回眾院 德州參院席次翻藍",
+      "summary": [
+        "德國之聲：美國期中選舉：民主黨有望奪回眾院 德州參院席次翻藍",
+        "BBC中文：德州翻藍：民主黨時隔38年首奪聯邦參議員席次"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "美國期中選舉：民主黨有望奪回眾院 德州參院席次翻藍",
+          "url": "https://www.dw.com/zh/美國期中選舉：民主黨有望奪回眾院-德州參院席次翻藍/live-79849020?maca=chi-rss-chi-all-1127-rdf"
+        },
+        {
+          "source": "BBC中文",
+          "title": "德州翻藍：民主黨時隔38年首奪聯邦參議員席次",
+          "url": "https://www.bbc.com/zhongwen/articles/cwzrdzl8v6jjo/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Canva Announces Layoffs, Job Changes for About 22% of Workforce",
       "summary": [
         "Bloomberg Tech：Canva Announces Layoffs, Job Changes for About 22% of Workforce",
@@ -300,7 +375,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 7,
       "title": "Stock Market Today: Stock Futures Turn Positive as Investors Weigh Democratic Sweep",
       "summary": [
         "WSJ Markets：Stock Market Today: Stock Futures Turn Positive as Investors Weigh Democratic Sweep",
@@ -321,7 +396,28 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 8,
+      "title": "CrowdStrike announces 'kill switch' for AI agents that go rogue",
+      "summary": [
+        "Yahoo Finance：CrowdStrike announces 'kill switch' for AI agents that go rogue",
+        "CNBC：CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "CrowdStrike announces 'kill switch' for AI agents that go rogue",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUTdqbkFGU1h0REtEWFNfdEpGcFBRd1BhNUYya2FNb1M4VTN0V1piYjlldnBPUTgxZG85SWlwYnFMc3lLUHNBNmk2YXpDXzM5UlJ0SGtIMTQ3T1VpYWw0M0xtWmtBVjRXUUs3V1BqNkRQUEwtYnE0NG5MYy1SYi1BWDJldmZhLS1qaG5YZjFqWjN6UTZ3U2s5YWJwZE5GdEU1VlNOckFEUENHN2o1d3FlOFplbVdVeTZ1UnhzOGVBcDNwSG1LOVVSYWZCZmRaOHlmT25NRVlSZ2U1UVRRbnl2MEZ6VmR3T2pfVktQbA?oc=5"
+        },
+        {
+          "source": "CNBC",
+          "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+          "url": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Google will let schools skip AI tools, but they have to give up search, too",
       "summary": [
         "Ars Technica：Google will let schools skip AI tools, but they have to give up search, too",
@@ -342,77 +438,23 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "一文讀懂美國期中選舉：兩黨各持何種立場，選情如何- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：一文讀懂美國期中選舉：兩黨各持何種立場，選情如何- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "一文讀懂美國期中選舉：兩黨各持何種立場，選情如何- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDNZQlhrSWoxcUt1U01JaE54UDZVM3Ffd1ZHMzF3NGdla3BNYWtRbkhRSWIzNDRZOG9ub1BEd05pQTh0ekJYbXZWbi1DUU1nTXRMMFc3QTROYVlCTkQ1NTBFQmVncGcxal8wWWhnY1o0VmJ2M21ubXU0ZURoOUlvUGpVUk5YNV9vR0MybV9zYVJ3MzA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "簡訊：韓軍稱朝鮮向東部海域發射不明飛行器",
-      "summary": [
-        "韓聯社：簡訊：韓軍稱朝鮮向東部海域發射不明飛行器"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "簡訊：韓軍稱朝鮮向東部海域發射不明飛行器",
-          "url": "https://cn.yna.co.kr/view/ACK20261104001100881"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "快訊：尹錫悅違反《公職選舉法》案二審被判緩刑",
-      "summary": [
-        "韓聯社：快訊：尹錫悅違反《公職選舉法》案二審被判緩刑"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "快訊：尹錫悅違反《公職選舉法》案二審被判緩刑",
-          "url": "https://cn.yna.co.kr/view/ACK20261104002200881"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "幣安稱駭客為63億美元竊案籌備數月- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：幣安稱駭客為63億美元竊案籌備數月- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "幣安稱駭客為63億美元竊案籌備數月- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45dHMwMjQ0SHpidU1zT05yeTEwZy1FMWUtR1h3aGlZby1aYkQwdU5kS3JIR2dNNkEwQl9vbmd2c1AyWUx3VHlsYVVSN3JzVjBZMUplcXJTaDQ4bUxNUk5ST3lDV01welp6RjZ0dTQyVGViX0JEZVhFYQ?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "越來越多伊朗人呼籲發展核武器對抗美國- 紐約時報中文網",
+      "title": "CVS to split off drugstore business in major breakup of healthcare giant",
       "summary": [
-        "紐約時報中文：越來越多伊朗人呼籲發展核武器對抗美國- 紐約時報中文網"
+        "CNBC：CVS to split off drugstore business in major breakup of healthcare giant",
+        "Investing.com：CVS Health to split in two, separating pharmacy business from insurance"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "紐約時報中文",
-          "title": "越來越多伊朗人呼籲發展核武器對抗美國- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50ZkhMVjRWazRBRXhmc29fQkpUS1VVaHNDd18xTEVhV29wNkJ4d3c2MVNmMm5GV0xhN1hTZ1dlZW5NOVBaNldPcHV1RFJRNXY2a3FEU0k3azFSMEJNcThqeUZQSGc0NXFMTm9iMVpJUmlPN28wOUJTOHluTQ?oc=5"
+          "source": "CNBC",
+          "title": "CVS to split off drugstore business in major breakup of healthcare giant",
+          "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "CVS Health to split in two, separating pharmacy business from insurance",
+          "url": "https://www.investing.com/news/stock-market-news/cvs-health-to-split-in-two-separating-pharmacy-business-from-insurance-4998559"
         }
       ]
     }
