@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-04 14:02",
+  "updated_at": "2026-11-04 15:09",
   "taiwan": [
     {
       "rank": 1,
-      "title": "投票日才講！川普：年底前停止對以色列40億美元軍援- 國際",
-      "summary": [
-        "中時新聞：投票日才講！川普：年底前停止對以色列40億美元軍援- 國際",
-        "自由時報：川普稱停止對以色列每年1314億軍援 CNN：預示美國歷史性轉變",
-        "TVBS新聞：川普: 停止對以色列「40億美元」軍援｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "投票日才講！川普：年底前停止對以色列40億美元軍援- 國際",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15OWtyWW5YTGRPWnU5akxZZUhQeGZqX1BUbjduMjJ2a3BoQm5vLUMwTUxOYVdfM1NWak9ndnZUSGx4VFN1R3J6b1dyX3hUNFV6Uy1PVUc5NFZUWmhsVmZHTTlDY1d2Sk5kVzIxTHdB?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "川普稱停止對以色列每年1314億軍援 CNN：預示美國歷史性轉變",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628582"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "川普: 停止對以色列「40億美元」軍援｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43Y24xNjZLT2JsVFBxZjRmTGtaWllKcXFGZVpHOE4zVUJhTjJ4QTltd2tsQzlQX240ZTZpX0E1Um91QXQ1eHBCd0NQemthQnRDTklldThB?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "共和黨期中選舉慘敗！川普鬆口接受結果 喊話與民主黨合作",
       "summary": [
         "自由時報：共和黨期中選舉慘敗！川普鬆口接受結果 喊話與民主黨合作",
@@ -50,7 +23,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "美國選民投票之際　川普稱將停止對以色列40億美元援助",
       "summary": [
         "自由時報：美國選民投票之際　川普稱將停止對以色列40億美元援助",
@@ -71,7 +44,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
       "summary": [
         "自由時報：紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
@@ -92,7 +65,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "湖口臺灣松下工廠凌晨大火黑煙沖天 疑爆炸聲響震碎民宅門窗",
       "summary": [
         "自由時報：湖口臺灣松下工廠凌晨大火黑煙沖天 疑爆炸聲響震碎民宅門窗",
@@ -113,7 +86,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "美國選民走進投票所　決定川普未來兩年能否順利施政",
       "summary": [
         "自由時報：美國選民走進投票所　決定川普未來兩年能否順利施政",
@@ -134,7 +107,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "美伊僵局有望結束　國際油價下跌",
       "summary": [
         "自由時報：美伊僵局有望結束　國際油價下跌",
@@ -155,7 +128,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "憂政府幹預選舉　布魯斯史普林斯汀籲選務官員抵抗",
       "summary": [
         "自由時報：憂政府幹預選舉　布魯斯史普林斯汀籲選務官員抵抗",
@@ -176,7 +149,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "陳柏霖愛情長跑14年修成正果   傳低調登記結婚",
       "summary": [
         "自由時報：陳柏霖愛情長跑14年修成正果   傳低調登記結婚",
@@ -197,7 +170,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "蘋果示警AI代理失控風險！恐擅闖系統、執行交易 失控恐害公司吃官司",
       "summary": [
         "自由時報：蘋果示警AI代理失控風險！恐擅闖系統、執行交易 失控恐害公司吃官司",
@@ -214,6 +187,27 @@
           "source": "科技新報",
           "title": "蘋果年報示警：失控 AI 代理恐釀「不可逆」損害，更威脅核心隱私優勢",
           "url": "https://infosecu.technews.tw/2026/11/04/apple-warns-runaway-ai-agent-risks/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "湖口「臺灣松下」工廠爆炸5傷　大火燒到天亮",
+      "summary": [
+        "ETtoday：湖口「臺灣松下」工廠爆炸5傷　大火燒到天亮",
+        "公視新聞：松下湖口廠深夜起火 釀5傷、仍有2人失聯"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "湖口「臺灣松下」工廠爆炸5傷　大火燒到天亮",
+          "url": "https://www.ettoday.net/news/20261104/3265925.htm"
+        },
+        {
+          "source": "公視新聞",
+          "title": "松下湖口廠深夜起火 釀5傷、仍有2人失聯",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5U01zc2t4LUpuajBRbnFyVFhWeGp5UXN6dEt4OC13VG95U3Ixbl9GWjgyYjMwaWx1V0VXc1FVWVBWcm1BUzZBNTZ1MGRoU1U?oc=5"
         }
       ]
     }
@@ -253,48 +247,6 @@
     },
     {
       "rank": 2,
-      "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
-      "summary": [
-        "CNBC：CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
-        "Yahoo Finance：CrowdStrike announces 'kill switch' for AI agents that go rogue"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
-          "url": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "CrowdStrike announces 'kill switch' for AI agents that go rogue",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUTdqbkFGU1h0REtEWFNfdEpGcFBRd1BhNUYya2FNb1M4VTN0V1piYjlldnBPUTgxZG85SWlwYnFMc3lLUHNBNmk2YXpDXzM5UlJ0SGtIMTQ3T1VpYWw0M0xtWmtBVjRXUUs3V1BqNkRQUEwtYnE0NG5MYy1SYi1BWDJldmZhLS1qaG5YZjFqWjN6UTZ3U2s5YWJwZE5GdEU1VlNOckFEUENHN2o1d3FlOFplbVdVeTZ1UnhzOGVBcDNwSG1LOVVSYWZCZmRaOHlmT25NRVlSZ2U1UVRRbnl2MEZ6VmR3T2pfVktQbA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Oracle Scraps $7 Billion Deal to Lease Chips to Tencent, FT Says",
-      "summary": [
-        "Bloomberg Tech：Oracle Scraps $7 Billion Deal to Lease Chips to Tencent, FT Says",
-        "Investing.com：Oracle cancels $7 bln chip leasing deal with Tencent, FT reports"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Oracle Scraps $7 Billion Deal to Lease Chips to Tencent, FT Says",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-04/oracle-scraps-7-billion-deal-to-lease-chips-to-tencent-ft-says"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Oracle cancels $7 bln chip leasing deal with Tencent, FT reports",
-          "url": "https://www.investing.com/news/stock-market-news/oracle-cancels-7-bln-chip-leasing-deal-with-tencent-ft-reports-4997349"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Canva Announces Layoffs, Job Changes for About 22% of Workforce",
       "summary": [
         "Bloomberg Tech：Canva Announces Layoffs, Job Changes for About 22% of Workforce",
@@ -315,7 +267,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
       "summary": [
         "Bloomberg Tech：Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
@@ -336,7 +288,28 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+      "summary": [
+        "CNBC：CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+        "Yahoo Finance：CrowdStrike announces 'kill switch' for AI agents that go rogue"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+          "url": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "CrowdStrike announces 'kill switch' for AI agents that go rogue",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUTdqbkFGU1h0REtEWFNfdEpGcFBRd1BhNUYya2FNb1M4VTN0V1piYjlldnBPUTgxZG85SWlwYnFMc3lLUHNBNmk2YXpDXzM5UlJ0SGtIMTQ3T1VpYWw0M0xtWmtBVjRXUUs3V1BqNkRQUEwtYnE0NG5MYy1SYi1BWDJldmZhLS1qaG5YZjFqWjN6UTZ3U2s5YWJwZE5GdEU1VlNOckFEUENHN2o1d3FlOFplbVdVeTZ1UnhzOGVBcDNwSG1LOVVSYWZCZmRaOHlmT25NRVlSZ2U1UVRRbnl2MEZ6VmR3T2pfVktQbA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Google will let schools skip AI tools, but they have to give up search, too",
       "summary": [
         "Ars Technica：Google will let schools skip AI tools, but they have to give up search, too",
@@ -357,7 +330,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "一文讀懂美國期中選舉：兩黨各持何種立場，選情如何- 紐約時報中文網",
       "summary": [
         "紐約時報中文：一文讀懂美國期中選舉：兩黨各持何種立場，選情如何- 紐約時報中文網"
@@ -372,7 +345,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "簡訊：韓軍稱朝鮮向東部海域發射不明飛行器",
       "summary": [
         "韓聯社：簡訊：韓軍稱朝鮮向東部海域發射不明飛行器"
@@ -387,7 +360,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "幣安稱駭客為63億美元竊案籌備數月- 紐約時報中文網",
       "summary": [
         "紐約時報中文：幣安稱駭客為63億美元竊案籌備數月- 紐約時報中文網"
@@ -402,7 +375,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美國中期選舉即時更新：佛州選出第一位非裔州長",
       "summary": [
         "德國之聲：美國中期選舉即時更新：佛州選出第一位非裔州長"
@@ -413,6 +386,21 @@
           "source": "德國之聲",
           "title": "美國中期選舉即時更新：佛州選出第一位非裔州長",
           "url": "https://www.dw.com/zh/美國中期選舉即時更新：佛州選出第一位非裔州長/live-79849020?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "快訊：尹錫悅違反《公職選舉法》案二審被判緩刑",
+      "summary": [
+        "韓聯社：快訊：尹錫悅違反《公職選舉法》案二審被判緩刑"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "快訊：尹錫悅違反《公職選舉法》案二審被判緩刑",
+          "url": "https://cn.yna.co.kr/view/ACK20261104002200881"
         }
       ]
     }
