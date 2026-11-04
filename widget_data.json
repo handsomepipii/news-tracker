@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 16:31",
+  "updated_at": "2026-11-04 17:36",
   "taiwan": [
     {
       "rank": 1,
@@ -78,22 +78,22 @@
     },
     {
       "rank": 4,
-      "title": "湖口臺灣松下工廠凌晨大火黑煙沖天 疑爆炸聲響震碎民宅門窗",
+      "title": "自由日日Shoot》拒動員輔選國民黨遊淑貞 花縣衛生局長朱家祥遭拔官",
       "summary": [
-        "自由時報：湖口臺灣松下工廠凌晨大火黑煙沖天 疑爆炸聲響震碎民宅門窗",
-        "ETtoday：快訊／「臺灣松下」湖口工廠凌晨爆炸大火！　民宅門窗疑被震碎"
+        "自由時報：自由日日Shoot》拒動員輔選國民黨遊淑貞 花縣衛生局長朱家祥遭拔官",
+        "中時新聞：海納百川》美國期中選情臺灣怎能無感（陳世昌）"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "湖口臺灣松下工廠凌晨大火黑煙沖天 疑爆炸聲響震碎民宅門窗",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5628505"
+          "title": "自由日日Shoot》拒動員輔選國民黨遊淑貞 花縣衛生局長朱家祥遭拔官",
+          "url": "https://news.ltn.com.tw/news/politics/paper/1777077"
         },
         {
-          "source": "ETtoday",
-          "title": "快訊／「臺灣松下」湖口工廠凌晨爆炸大火！　民宅門窗疑被震碎",
-          "url": "https://www.ettoday.net/news/20261104/3265913.htm"
+          "source": "中時新聞",
+          "title": "海納百川》美國期中選情臺灣怎能無感（陳世昌）",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IYkRoZzRtUlZ6eUcybTBHTVg2eW54OGI1VjZDWlVCclpKUlM4M1ZYbl8zQ0Q3cGZ3OTFwOV9jVGZ5YVJaLUtzbWNuY282UFdaaHQ3d0ZDMlVKSTdIc0pmS0I3SVM2VjQ?oc=5"
         }
       ]
     },
@@ -301,22 +301,22 @@
     },
     {
       "rank": 4,
-      "title": "Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
+      "title": "Stock Market Today: Stock Futures Turn Positive as Investors Weigh Democratic Sweep",
       "summary": [
-        "Bloomberg Tech：Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
-        "MarketWatch：Super Micro’s stock pops as earnings show booming demand for AI servers"
+        "WSJ Markets：Stock Market Today: Stock Futures Turn Positive as Investors Weigh Democratic Sweep",
+        "Investing.com：U.S. stock futures turn positive as Dems sweep Congress; AMD rises"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-03/super-micro-gives-outlook-that-tops-estimates-on-server-demand"
+          "source": "WSJ Markets",
+          "title": "Stock Market Today: Stock Futures Turn Positive as Investors Weigh Democratic Sweep",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026?mod=rss_markets_main"
         },
         {
-          "source": "MarketWatch",
-          "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
-          "url": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories"
+          "source": "Investing.com",
+          "title": "U.S. stock futures turn positive as Dems sweep Congress; AMD rises",
+          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-midterms-in-focus-amd-rallies-on-strong-earnings-4997029"
         }
       ]
     },
