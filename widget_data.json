@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-05 05:25",
+  "updated_at": "2026-11-05 06:22",
   "taiwan": [
     {
       "rank": 1,
-      "title": "海納百川》美國期中選情臺灣怎能無感（陳世昌）",
-      "summary": [
-        "中時新聞：海納百川》美國期中選情臺灣怎能無感（陳世昌）",
-        "財訊：新北都更再升級！大陳到頂溪見證城市翻轉｜#老謝開講–臺灣好城市#財訊@謝金河feat 新北市政府-財訊雙週刊",
-        "ETtoday：陳亭妃頂秋老虎騎進臺南東區　37區鐵馬催票11／27新營集結"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "海納百川》美國期中選情臺灣怎能無感（陳世昌）",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IYkRoZzRtUlZ6eUcybTBHTVg2eW54OGI1VjZDWlVCclpKUlM4M1ZYbl8zQ0Q3cGZ3OTFwOV9jVGZ5YVJaLUtzbWNuY282UFdaaHQ3d0ZDMlVKSTdIc0pmS0I3SVM2VjQ?oc=5"
-        },
-        {
-          "source": "財訊",
-          "title": "新北都更再升級！大陳到頂溪見證城市翻轉｜#老謝開講–臺灣好城市#財訊@謝金河feat 新北市政府-財訊雙週刊",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wamVrMS1EcGdMX2hhOHJqT2RHMGZ1dEZyVkxpblN2SFNWemcwUHlaMWFFN0dkY3Y4MmJKZjBMZzJsTUFrQV9ERWxiVHNuUEVmZ3JYbVl4UHZnWEc1UlZyX0Z2ckNvZ2EwdEw2ZGpOZ2NvS3BrZDFWXw?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "陳亭妃頂秋老虎騎進臺南東區　37區鐵馬催票11／27新營集結",
-          "url": "https://www.ettoday.net/news/20261105/3266584.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "美期中選舉共和黨慘敗　白宮發文強調川普「仍是你們的總統」",
       "summary": [
         "自由時報：美期中選舉共和黨慘敗　白宮發文強調川普「仍是你們的總統」",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "湖口火警連發！住宅深夜失火5人受困獲救 3人送醫",
       "summary": [
         "自由時報：湖口火警連發！住宅深夜失火5人受困獲救 3人送醫",
@@ -77,28 +50,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "選舉輸爛川普拿北京出氣？更大風險在2027　外媒點出對臺軍售變數",
-      "summary": [
-        "ETtoday：選舉輸爛川普拿北京出氣？更大風險在2027　外媒點出對臺軍售變數",
-        "經濟日報：期中選舉重挫 川普找出氣筒 北京遭殃？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "選舉輸爛川普拿北京出氣？更大風險在2027　外媒點出對臺軍售變數",
-          "url": "https://www.ettoday.net/news/20261104/3266385.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "期中選舉重挫 川普找出氣筒 北京遭殃？",
-          "url": "https://money.udn.com/money/story/5599/9857864"
-        }
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "title": "董總親自鞠躬道歉！永豐銀遭盜轉4176萬 將向供應商求償",
       "summary": [
         "自由時報：董總親自鞠躬道歉！永豐銀遭盜轉4176萬 將向供應商求償",
@@ -119,7 +71,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "美期中選舉》民主黨「史詩級大勝」！共和黨鐵票倉德州都變天",
       "summary": [
         "中時新聞：美期中選舉》民主黨「史詩級大勝」！共和黨鐵票倉德州都變天",
@@ -140,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "納坦雅胡拖垮共和黨選情？川普宣佈每年40億美元軍援以色列喊停",
       "summary": [
         "關鍵評論網：納坦雅胡拖垮共和黨選情？川普宣佈每年40億美元軍援以色列喊停",
@@ -161,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "永豐銀行異常轉帳確認為駭客攻擊，供應商安全設定漏洞遭利用",
       "summary": [
         "iThome：永豐銀行異常轉帳確認為駭客攻擊，供應商安全設定漏洞遭利用",
@@ -182,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "從科研突破到商業落地  FITI協助學研團隊釐清商業定位",
       "summary": [
         "INSIDE硬塞：從科研突破到商業落地  FITI協助學研團隊釐清商業定位",
@@ -203,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "《大學生》女星公開挺沈伯洋！昔曾遭中國封殺：我真的很愛臺灣",
       "summary": [
         "自由時報：《大學生》女星公開挺沈伯洋！昔曾遭中國封殺：我真的很愛臺灣",
@@ -222,70 +174,53 @@
           "url": "https://star.ettoday.net/news/3266469"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "美國期中選舉民主黨大勝　重要數字一次看",
+      "summary": [
+        "經濟日報：美國期中選舉民主黨大勝　重要數字一次看",
+        "自由時報：美期中選舉 民主黨大勝 拿下參眾兩院"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美國期中選舉民主黨大勝　重要數字一次看",
+          "url": "https://money.udn.com/money/story/5599/9857776"
+        },
+        {
+          "source": "自由時報",
+          "title": "美期中選舉 民主黨大勝 拿下參眾兩院",
+          "url": "https://news.ltn.com.tw/news/world/paper/1777205"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "期中選舉民主黨重掌國會川普讓美再次偉大政策失靈｜20261104 公視晚間新聞｜ 公視新聞PNN",
+      "summary": [
+        "公視新聞：期中選舉民主黨重掌國會川普讓美再次偉大政策失靈｜20261104 公視晚間新聞｜ 公視新聞PNN",
+        "風傳媒：美期中選舉》川普背書不再是萬靈丹？共和黨多州失守，民主黨奪回參院控制權 | 李靖棠 | 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公視新聞",
+          "title": "期中選舉民主黨重掌國會川普讓美再次偉大政策失靈｜20261104 公視晚間新聞｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBheF9HMktwQ0VYcUFtN1p5alVOZnBLN1NJYWZmNnJ4UXdrdUJtRVFwTGwweUo5YUl1RVpGVEQxX1hLeFZfVG1laTlZZw?oc=5"
+        },
+        {
+          "source": "風傳媒",
+          "title": "美期中選舉》川普背書不再是萬靈丹？共和黨多州失守，民主黨奪回參院控制權 | 李靖棠 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vZG5jbHlDLUdKOHlQTDFYTWIzZk1lMVJvYWE1N0xWWmFQc1BUdkp2TnFOS2NLalRPMnd6bVIzQ1Vrc0JzU0hiTlNqcldkZw?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "谷歌回應因禁止人工智慧的學校取消搜尋而引發的政治強烈反對",
-      "summary": [
-        "CNBC：谷歌回應因禁止人工智慧的學校取消搜尋而引發的政治強烈反對",
-        "Ars Technica：谷歌將讓學校跳過人工智慧工具，但他們也必須放棄搜尋",
-        "Wccftech：谷歌要求學校接受人工智慧，否則將完全失去谷歌搜尋訪問許可權"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "谷歌回應因禁止人工智慧的學校取消搜尋而引發的政治強烈反對",
-          "url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "谷歌將讓學校跳過人工智慧工具，但他們也必須放棄搜尋",
-          "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
-        },
-        {
-          "source": "Wccftech",
-          "title": "谷歌要求學校接受人工智慧，否則將完全失去谷歌搜尋訪問許可權",
-          "url": "https://wccftech.com/google-tells-schools-to-accept-ai-or-lose-google-search-access-entirely/"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "谷歌因計劃關閉限制人工智慧的學校而面臨強烈反對",
-          "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "幣安稱，虛假工作面試被用作價值 63 億美元的加密貨幣駭客攻擊的一部分",
-      "summary": [
-        "BBC World：幣安稱，虛假工作面試被用作價值 63 億美元的加密貨幣駭客攻擊的一部分",
-        "Washington Post：惡意軟體和虛假工作面試如何讓攻擊者從幣安竊取 6.3B 美元",
-        "Yahoo Finance：假工作面試幫助駭客完成了幣安創紀錄的加密貨幣搶劫"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "幣安稱，虛假工作面試被用作價值 63 億美元的加密貨幣駭客攻擊的一部分",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Washington Post",
-          "title": "惡意軟體和虛假工作面試如何讓攻擊者從幣安竊取 6.3B 美元",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeGZOT1RKRGNKUm5FZ3dfY19yeWV0MGR4Y3RtdFJULUhHQVo4UG9fSF9PLVZkc3JMMzVIS1dOY1BwWUFEUEMxc3RmTWt0Rm83TEh0SGVYUUVFV2xfUWdrdXVBUEtvNEtVOFd4Q3l4OHBHUENNR0xmV0N6ZTg5Z0I3Vk9vUDYwWU1zb3pxSEE0UE15elRTajEzckJNZjBseDd2dEE3UENxSm96QTBmWlp4T05sd0hWdw?oc=5"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "假工作面試幫助駭客完成了幣安創紀錄的加密貨幣搶劫",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSVdSX3U2NTg1dzVFVlhBaTNoWE9iblJWbWhTSW1WVmxQZFdWYzBSWlFLMWlvd0EtUURyaWw4bVdBS09nanVYS2lKSG5LMEYybDhyUVVwaE1fZkJUTkxPQ2Nvd3VYNlMxY2w3Z1dkM3AtenQyN1AwZDhhNnNPekp2b2tOVTN0VlBPcEh3ZDd3TU1rVjRjZ2l5aWFfcWpSZThMajRwVjJPdGpYUFBocVYyNllzVlZObTJNV29oeDE1eU5CcXpYSUhWenFoWXBlNjZTaGc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "CVS 如何建立一個現在計劃分開的醫療保健帝國",
       "summary": [
         "Investing.com：CVS 如何建立一個現在計劃分開的醫療保健帝國",
@@ -312,7 +247,34 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "title": "民主黨大獲全勝 美股期貨反彈",
+      "summary": [
+        "Bloomberg Markets：民主黨大獲全勝 美股期貨反彈",
+        "Yahoo Finance：民主黨在中期選舉中取得關鍵勝利，美國股指期貨漲跌互現",
+        "WSJ Markets：民主黨獲勝，股市飆升，油價暴跌"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "民主黨大獲全勝 美股期貨反彈",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-04/the-opening-trade-11-04-2026-video"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "民主黨在中期選舉中取得關鍵勝利，美國股指期貨漲跌互現",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmh3ZS14WWlMdTAweno4UTlzNGxnYm9ScWZxWW1sUmZBbHlXdDFIbVJhOUlEckpybllHblc4TnlkdHVnWDY2S08ySnFOUnBGM1BmUG1NNklUQ1VHdGxCMlk3ZlN6MWpjcEkyUDdmZWh6d1BJQkhha0NORVg2N2s0ejlyTC1Xci1fRnk1VFJKUVR5NkNlMnBhQUthUWlJaUk?oc=5"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "民主黨獲勝，股市飆升，油價暴跌",
+          "url": "https://www.wsj.com/finance/stocks/stocks-surge-oil-plummets-on-democrat-victory-d4f606b5?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "高通將為 SpaceX 美國行動電話網路製造裝置",
       "summary": [
         "Bloomberg Tech：高通將為 SpaceX 美國行動電話網路製造裝置",
@@ -333,128 +295,149 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "美國中期選舉：民主黨重新奪回參眾兩院多數控制權【突發新聞】",
+      "rank": 4,
+      "title": "各國對美國中期選舉有何反應？ 【通訊員評論】",
       "summary": [
-        "NHK新聞：美國中期選舉：民主黨重新奪回參眾兩院多數控制權【突發新聞】",
-        "德國之聲：專訪：民主黨贏得中期選舉如何影響美國的對華政策？"
+        "NHK新聞：各國對美國中期選舉有何反應？ 【通訊員評論】",
+        "MarketWatch：美國人對中期選舉結果有何看法？這取決於他們賺多少錢。"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "美國中期選舉：民主黨重新奪回參眾兩院多數控制權【突發新聞】",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261103de69965"
+          "title": "各國對美國中期選舉有何反應？ 【通訊員評論】",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261104de70587"
         },
         {
-          "source": "德國之聲",
-          "title": "專訪：民主黨贏得中期選舉如何影響美國的對華政策？",
-          "url": "https://www.dw.com/zh/专访：民主党赢得中期选举如何影响美国的对华政策？/a-79857005?maca=chi-rss-chi-all-1127-rdf"
+          "source": "MarketWatch",
+          "title": "美國人對中期選舉結果有何看法？這取決於他們賺多少錢。",
+          "url": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "民主黨大勝，SpaceX、特斯拉股價下跌逾 4%；人工智慧股漲跌互現",
+      "summary": [
+        "CNBC：民主黨大勝，SpaceX、特斯拉股價下跌逾 4%；人工智慧股漲跌互現",
+        "Yahoo Finance：分析師警告民主黨的勝利將為人工智慧建設製造“重大障礙”，SpaceX、特斯拉股價下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "民主黨大勝，SpaceX、特斯拉股價下跌逾 4%；人工智慧股漲跌互現",
+          "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "分析師警告民主黨的勝利將為人工智慧建設製造“重大障礙”，SpaceX、特斯拉股價下跌",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOLW9sbEpPcUNLQmxfYTRlN1EzWTFQSThVckFBVE0yWWRoYy1uSllCWnNmcHpPTVpGMTUtVVpiWnBHcGowMWd6UW5uSWdjaUM1eGxyeG1hQzBLaFZCVzd2dFJZN2wybnBEdmo2ejJpNVlGcDB6QlFiYUJHLWgwS1VRMFFPR3VzVFdVX1hCVjVWd1RnMHRkZUEwRllueDQwTnZGZkNwSU5qLUVSem5YY0h6eU5HbmJ4T29CTGR0Ylk3cDItam9oRVJoT0dGNFBmTzRrWHA3bmtzLXk3c1JhOHk5QTJNWC1nX3NLaXNLbFNEeGhPVFRKRV92MG5R?oc=5"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "Canva 宣佈裁員，約 22% 的員工更換工作",
+      "title": "CVS Health 將一分為二，將藥局業務與保險業務分開",
       "summary": [
-        "Bloomberg Tech：Canva 宣佈裁員，約 22% 的員工更換工作",
-        "The Verge：Canva 宣佈調整和裁員，影響 22% 的員工"
+        "Investing.com：CVS Health 將一分為二，將藥局業務與保險業務分開",
+        "Yahoo Finance：CVS 宣佈計劃分拆為兩家公司，將藥局與保險分開"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "Canva 宣佈裁員，約 22% 的員工更換工作",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-03/canva-announces-layoffs-job-changes-for-about-22-of-workforce"
+          "source": "Investing.com",
+          "title": "CVS Health 將一分為二，將藥局業務與保險業務分開",
+          "url": "https://www.investing.com/news/stock-market-news/cvs-health-to-split-in-two-separating-pharmacy-business-from-insurance-4998559"
         },
         {
-          "source": "The Verge",
-          "title": "Canva 宣佈調整和裁員，影響 22% 的員工",
-          "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs"
+          "source": "Yahoo Finance",
+          "title": "CVS 宣佈計劃分拆為兩家公司，將藥局與保險分開",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNjd3aUJqQmNYU01LZDk0N0s2QVI4NWZ4ZzlKZTNlZW5aWkhLNnBKVXpERTltRGNteGR0c0xCVG5Ic2ZSX1RNTjZUeU1hdjFFV1hqeVdoZWFTS25KNzBCdXhwWVBJaEM0YVp0U0djMmlzRTN3MVZHcFVXdWNKVHVudmNRVW1oaEFub21xeEhPNnNlNlBBMXRzQUUwNnB0VVZFRGR2bEdUa2dYaFhPMXR4aUNkSUhhTGJjZnF6QUVQV0YxOFNybkM1UVozUUR2dy1RVGc?oc=5"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "蘋果股價下跌，元債務成本上升",
+      "title": "薩爾達傳說：時之笛永遠不會過時",
       "summary": [
-        "WSJ Markets：蘋果股價下跌，元債務成本上升",
-        "MarketWatch：蘋果股價在財報發布後下跌，分析師告訴我們什麼"
+        "The Verge：薩爾達傳說：時之笛永遠不會過時",
+        "Wccftech：《薩爾達傳說：時之笛》評論－永恆經典的誘人調整"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "WSJ Markets",
-          "title": "蘋果股價下跌，元債務成本上升",
-          "url": "https://www.wsj.com/finance/stocks/apple-shares-slip-meta-debt-costs-rise-a8eb0510?mod=rss_markets_main"
+          "source": "The Verge",
+          "title": "薩爾達傳說：時之笛永遠不會過時",
+          "url": "https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2"
         },
         {
-          "source": "MarketWatch",
-          "title": "蘋果股價在財報發布後下跌，分析師告訴我們什麼",
-          "url": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories"
+          "source": "Wccftech",
+          "title": "《薩爾達傳說：時之笛》評論－永恆經典的誘人調整",
+          "url": "https://wccftech.com/review/the-legend-of-zelda-ocarina-of-time/"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "美國中期選舉圖：民主黨大獲全勝，斥責川普",
+      "title": "AMD 預計第四季銷量史上首次超過英特爾",
       "summary": [
-        "CNBC：美國中期選舉圖：民主黨大獲全勝，斥責川普",
-        "法廣RFI：美國中期選舉民主黨大勝 重塑特朗普最後兩年任期格局"
+        "Tom's Hardware：AMD 預計第四季銷量史上首次超過英特爾",
+        "Wccftech：AMD 史上首次超過英特爾，第四季營收將達到 170 億美元，而英特爾的中點預測為 155 億美元"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "CNBC",
-          "title": "美國中期選舉圖：民主黨大獲全勝，斥責川普",
-          "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html"
+          "source": "Tom's Hardware",
+          "title": "AMD 預計第四季銷量史上首次超過英特爾",
+          "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections"
         },
         {
-          "source": "法廣RFI",
-          "title": "美國中期選舉民主黨大勝 重塑特朗普最後兩年任期格局",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E8%A7%A3%E8%AA%AA/20261104-%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%A4%A7%E5%8B%9D-%E9%87%8D%E5%A1%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E5%BE%8C%E5%85%A9%E5%B9%B4%E4%BB%BB%E6%9C%9F%E6%A0%BC%E5%B1%80"
+          "source": "Wccftech",
+          "title": "AMD 史上首次超過英特爾，第四季營收將達到 170 億美元，而英特爾的中點預測為 155 億美元",
+          "url": "https://wccftech.com/amd-is-set-to-out-earn-intel-for-the-first-time-in-its-history-guiding-to-17-billion-in-q4-revenue-against-intels-15-5-billion-midpoint-projection/"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "幣安聯合執行長理查德·滕（Richard Teng）表示，駭客利用虛假求職面試和人工智慧工具竊取了 63 億美元的加密貨幣",
+      "title": "CVS Health 將拆分價值 1,170 億美元的醫療保健帝國",
       "summary": [
-        "CNBC：幣安聯合執行長理查德·滕（Richard Teng）表示，駭客利用虛假求職面試和人工智慧工具竊取了 63 億美元的加密貨幣",
-        "The Verge：幣安稱駭客利用虛假求職面試和內部人工智慧工具竊取了 63 億美元資金"
+        "Financial Times：CVS Health 將拆分價值 1,170 億美元的醫療保健帝國",
+        "Bloomberg Tech：CVS 計劃拆分價值 1,170 億美元的醫療保健集團"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "CNBC",
-          "title": "幣安聯合執行長理查德·滕（Richard Teng）表示，駭客利用虛假求職面試和人工智慧工具竊取了 63 億美元的加密貨幣",
-          "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
+          "source": "Financial Times",
+          "title": "CVS Health 將拆分價值 1,170 億美元的醫療保健帝國",
+          "url": "https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8?syn-25a6b1a6=1"
         },
         {
-          "source": "The Verge",
-          "title": "幣安稱駭客利用虛假求職面試和內部人工智慧工具竊取了 63 億美元資金",
-          "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained"
+          "source": "Bloomberg Tech",
+          "title": "CVS 計劃拆分價值 1,170 億美元的醫療保健集團",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-04/cvs-plans-to-break-up-117b-healthcare-conglomerate-video"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "Shopify 的股價在公佈財報後下跌。這正是華爾街所擔心的。",
+      "title": "美國抵押貸款利率連續第三週回落，但仍維持在 7% 以上",
       "summary": [
-        "MarketWatch：Shopify 的股價在公佈財報後下跌。這正是華爾街所擔心的。",
-        "Yahoo Finance：由於第三季營收和總訂單價值低於華爾街預期，Shopify 股價下跌"
+        "Bloomberg Markets：美國抵押貸款利率連續第三週回落，但仍維持在 7% 以上",
+        "CNBC：抵押貸款利率連續第三週下降，但購屋者仍在離開市場"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "MarketWatch",
-          "title": "Shopify 的股價在公佈財報後下跌。這正是華爾街所擔心的。",
-          "url": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories"
+          "source": "Bloomberg Markets",
+          "title": "美國抵押貸款利率連續第三週回落，但仍維持在 7% 以上",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/us-mortgage-rates-retreat-for-third-week-while-holding-above-7"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "由於第三季營收和總訂單價值低於華爾街預期，Shopify 股價下跌",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQemxuQTVWUVY2NzFzOXhwRWdEV2pXdnVXUGtHYjZxYmVhOVJCMWF6cnZYelpPSVlXT1d4LTN5aHBrZGZTWTlLaHpZVkZ1elhHLThaaFN6Umc1SFRZS2dibmxBbVVnV1hJYUhwZkNtY1hjSG9KeFU1c051Q2xfQmdyN0h6UFdFYXh6aEpscEIzdlVfY2hLRXlONDNpc1V4M3hZWHM3bXpYM18tRU9rdWVHTVlyMG8waTgtb3BYS3FoNmstUklMUmFTcTF3bmo0SzNIeWtyZzNPaw?oc=5"
+          "source": "CNBC",
+          "title": "抵押貸款利率連續第三週下降，但購屋者仍在離開市場",
+          "url": "https://www.cnbc.com/2026/11/04/mortgage-rates-dropped-homebuyers-still-leaving.html"
         }
       ]
     }
