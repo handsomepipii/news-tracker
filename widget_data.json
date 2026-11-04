@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 20:04",
+  "updated_at": "2026-11-04 21:04",
   "taiwan": [
     {
       "rank": 1,
@@ -111,111 +111,6 @@
     },
     {
       "rank": 5,
-      "title": "蘋果示警AI代理失控風險！恐擅闖系統、執行交易 失控恐害公司吃官司",
-      "summary": [
-        "自由時報：蘋果示警AI代理失控風險！恐擅闖系統、執行交易 失控恐害公司吃官司",
-        "科技新報：蘋果年報示警：失控 AI 代理恐釀「不可逆」損害，更威脅核心隱私優勢"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "蘋果示警AI代理失控風險！恐擅闖系統、執行交易 失控恐害公司吃官司",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5628555"
-        },
-        {
-          "source": "科技新報",
-          "title": "蘋果年報示警：失控 AI 代理恐釀「不可逆」損害，更威脅核心隱私優勢",
-          "url": "https://infosecu.technews.tw/2026/11/04/apple-warns-runaway-ai-agent-risks/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "湖口「臺灣松下」工廠爆炸5傷　大火燒到天亮",
-      "summary": [
-        "ETtoday：湖口「臺灣松下」工廠爆炸5傷　大火燒到天亮",
-        "公視新聞：松下湖口廠深夜起火 釀5傷、仍有2人失聯"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "湖口「臺灣松下」工廠爆炸5傷　大火燒到天亮",
-          "url": "https://www.ettoday.net/news/20261104/3265925.htm"
-        },
-        {
-          "source": "公視新聞",
-          "title": "松下湖口廠深夜起火 釀5傷、仍有2人失聯",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5U01zc2t4LUpuajBRbnFyVFhWeGp5UXN6dEt4OC13VG95U3Ixbl9GWjgyYjMwaWx1V0VXc1FVWVBWcm1BUzZBNTZ1MGRoU1U?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "AMD 第三季營收與獲利均高於市場預期，盤後股價應聲大漲 8%",
-      "summary": [
-        "科技新報：AMD 第三季營收與獲利均高於市場預期，盤後股價應聲大漲 8%",
-        "MoneyDJ理財網：AMD財測優、蘇姿豐估明年營收激增逾8成盤後嗨- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "AMD 第三季營收與獲利均高於市場預期，盤後股價應聲大漲 8%",
-          "url": "https://finance.technews.tw/2026/11/04/amds-third-quarter-revenue-and-profit-both-exceeded-market-expectations/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "AMD財測優、蘇姿豐估明年營收激增逾8成盤後嗨- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmpjd3dNWmduanZkcng3Y2prdXl3YXFfbnFmUUlTWXlKT1lQbGlkeVUwbVVNU0pQbE5YenRJeWVybzUzaFFkTHVRa2ZRMkF3eTNGTVZSSWZtUjdYWHgzRGdmVzJlTFhmbTlUbGstVHRyMklYX0JLbkw2bmFaNXNPSTZ0cTBXYzBNTnBkZ2pJdkVUZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "美期中選舉／汽油價首度在選舉日突破4美元心理關卡！",
-      "summary": [
-        "經濟日報：美期中選舉／汽油價首度在選舉日突破4美元心理關卡！",
-        "自由時報：史上第一次！美國汽油價格在選舉日突破4美元大關"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美期中選舉／汽油價首度在選舉日突破4美元心理關卡！",
-          "url": "https://money.udn.com/money/story/5599/9855798"
-        },
-        {
-          "source": "自由時報",
-          "title": "史上第一次！美國汽油價格在選舉日突破4美元大關",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5628583"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "AI需求爆發，獲利卻沒跟上？從Anthropic財報到邁威爾高價併購，完整剖析AI當前瓶頸與未來方向",
-      "summary": [
-        "今周刊：AI需求爆發，獲利卻沒跟上？從Anthropic財報到邁威爾高價併購，完整剖析AI當前瓶頸與未來方向",
-        "MoneyDJ理財網：AI需求處下波躍升前過渡階段，小摩降智譜等目標價- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "今周刊",
-          "title": "AI需求爆發，獲利卻沒跟上？從Anthropic財報到邁威爾高價併購，完整剖析AI當前瓶頸與未來方向",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdEFnUTJhbG5zcXloclBYNlQtejdXUUZUSC1Ndk5ldkFnYVd5ZjhzdGVMSjc1TVVkTTEtU2NqVDJRLWR4eHR2LXZDMXA0U3l6QUJXMlZEcVRxVmw0dnZaMVpuaE5OWGJyTWFoak1MVExlUllhNU9XYnM4eUxGMzVhNg?oc=5"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "AI需求處下波躍升前過渡階段，小摩降智譜等目標價- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkQyOVMzWXF4cGRQTDR2VTlmT1plcVNvN2g5MU9yNjhxRWRWNm9YbEtqNnUtQ0d5b0FFS3BOUjdKeHR2NTE3eVRCcFJUQTNrU0NfTTVjZGV1emZ2MUNNMk5TUF82Y1lGSXFnNEZrR2ROeGpPVVAyQzY4NXd1cEU0amw4WDZCdFd1NDYwWXYzM29Wdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "智原發表支援乙太網路 PHY IP，搶攻 AI 智慧製造與人形機器人市場",
       "summary": [
         "科技新報：智原發表支援乙太網路 PHY IP，搶攻 AI 智慧製造與人形機器人市場",
@@ -232,6 +127,111 @@
           "source": "中時新聞",
           "title": "《半導體》搶攻AI機器人商機！智原推新一代乙太網路IP 鎖定智慧製造",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TQ1BWNm5tajg5eXlYM2RQWkM3WHg5ZXZWUml3cTlzM3JHUkxtNktTZDl4OGk4enJDdHBfNnItNlI1dllleHp6OS1iM2ZSSC1XUXp4TjZTRW94YmVLSHBSTmZuZjJDVktRMEI1SzRR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "美國學校掀起AI禁令，Google推引導式學習爭取教育界接受",
+      "summary": [
+        "iThome：美國學校掀起AI禁令，Google推引導式學習爭取教育界接受",
+        "經濟日報：Google 新政策被轟「勒索」！全面禁用 AI 的學校 學生不能用 Google 搜尋"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "美國學校掀起AI禁令，Google推引導式學習爭取教育界接受",
+          "url": "https://www.ithome.com.tw/news/180199"
+        },
+        {
+          "source": "經濟日報",
+          "title": "Google 新政策被轟「勒索」！全面禁用 AI 的學校 學生不能用 Google 搜尋",
+          "url": "https://money.udn.com/money/story/5599/9856250"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "期中選舉成川普執政公投　民主黨力拚翻盤重掌國會",
+      "summary": [
+        "經濟日報：期中選舉成川普執政公投　民主黨力拚翻盤重掌國會",
+        "關鍵評論網：美期中選舉戰報：民主黨橫掃國會兩院過半、共和黨票倉崩盤，「藍色海嘯」淹沒川普"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "期中選舉成川普執政公投　民主黨力拚翻盤重掌國會",
+          "url": "https://money.udn.com/money/story/5599/9855948"
+        },
+        {
+          "source": "關鍵評論網",
+          "title": "美期中選舉戰報：民主黨橫掃國會兩院過半、共和黨票倉崩盤，「藍色海嘯」淹沒川普",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KWERCanNuLXc3X1FlOVlIb2ZTU0pMdmRUMURMcDhvTmo0ZVR6a0xuX2M4NTB4Yko0MW5aXzB1cHJsWEJWZE92NkpFVGxfd05LSUJJRg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "AI 衝擊下 Canva 宣佈大改造！設計平臺22%員工受影響",
+      "summary": [
+        "經濟日報：AI 衝擊下 Canva 宣佈大改造！設計平臺22%員工受影響",
+        "MoneyDJ理財網：AI衝擊設計軟體產業 Canva將裁員22%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "AI 衝擊下 Canva 宣佈大改造！設計平臺22%員工受影響",
+          "url": "https://money.udn.com/money/story/5599/9855897"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "AI衝擊設計軟體產業 Canva將裁員22%",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2huZ2hodHFvUHNaM0U2bGRaZ0p4RFZubkZPbDV2TVdPSkcycG5nTXlxRkE2R1FYVVM5b0FEbkhFWVo3a1ZwUlBsbWtvajQtaTYyR0Qtck5OX3IwVjBWOFQzZ2xNZlZFMGFCV0N1Z01rZ21ZUzJOWWs4R2p6LXg2Wmlma3ZuenNvVlJlUFdITTFGQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "逾75歲高齡駕駛違規肇事　12/31起須自費上駕訓班才能換照",
+      "summary": [
+        "ETtoday：逾75歲高齡駕駛違規肇事　12/31起須自費上駕訓班才能換照",
+        "TVBS新聞：75歲以上注意！違規肇事「須自費上駕訓班」換照 12/31上路"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "逾75歲高齡駕駛違規肇事　12/31起須自費上駕訓班才能換照",
+          "url": "https://www.ettoday.net/news/20261104/3266088.htm"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "75歲以上注意！違規肇事「須自費上駕訓班」換照 12/31上路",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qSjRxQkl1WnNUakRSS0lTMnRoRXVrYzBxdkdnb0lvMHpfbjcyOEs4UElKVTNYWmRQRTl1LWFHR25KaWJWdVRjUkhsY3lWdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "蘋果開放第三方App整合Siri AI，可透過語音執行複雜任務",
+      "summary": [
+        "iThome：蘋果開放第三方App整合Siri AI，可透過語音執行複雜任務",
+        "科技報橘：Apple 加速 Siri AI Agent 化：開放第三方 App 自訂操作，還能串接多步驟任務"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "蘋果開放第三方App整合Siri AI，可透過語音執行複雜任務",
+          "url": "https://www.ithome.com.tw/news/180200"
+        },
+        {
+          "source": "科技報橘",
+          "title": "Apple 加速 Siri AI Agent 化：開放第三方 App 自訂操作，還能串接多步驟任務",
+          "url": "https://techorange.com/2026/11/04/apple-siri-ai-open-to-all-developers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
         }
       ]
     }
