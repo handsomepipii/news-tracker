@@ -151,41 +151,65 @@ def send_tg_message(text):
         print(f"Telegram 推播失敗: {e}")
 
 def has_japanese(text):
-    """偵測是否包含日文平假名 (\u3040-\u309f)、片假名 (\u30a0-\u30ff) 或半形假名 (\uff66-\uff9f)"""
+    """偵測是否包含日文平假名、片假名或半形假名"""
     if not text:
         return False
     return any(('\u3040' <= ch <= '\u30ff') or ('\uff66' <= ch <= '\uff9f') for ch in text)
 
 def is_mostly_english(text):
-    """偵測是否包含日文假名或以英文/外文為主"""
+    """偵測是否包含日文假名、未翻譯的英文句子或中英混雜標題"""
     if not text:
         return False
     if has_japanese(text):
         return True
     zh_chars = sum(1 for ch in text if '\u4e00' <= ch <= '\u9fff')
     en_chars = sum(1 for ch in text if 'a' <= ch.lower() <= 'z')
-    return zh_chars == 0 or (en_chars > 12 and zh_chars < 4)
+    # 統計含有小寫字母的英文單字數（排除 AI、TSMC、NVIDIA 等純大寫專有名詞）
+    lowercase_en_words = re.findall(r'[a-zA-Z]*[a-z][a-zA-Z]{1,}', text)
+    return (
+        zh_chars == 0
+        or en_chars > zh_chars
+        or len(lowercase_en_words) >= 3
+    )
+
+def gtx_translate(text, sl="auto"):
+    """透過 Google GTX 官方輕量 JSON 端點翻譯，極速且不易被鎖 IP"""
+    try:
+        url = "https://translate.googleapis.com/translate_a/single"
+        params = {"client": "gtx", "sl": sl, "tl": "zh-TW", "dt": "t", "q": text}
+        resp = httpx.get(url, params=params, timeout=8.0)
+        if resp.status_code == 200:
+            data = resp.json()
+            if data and isinstance(data[0], list):
+                res = "".join(part[0] for part in data[0] if part and part[0])
+                if res.strip():
+                    return res.strip()
+    except Exception as e:
+        print(f"GTX 翻譯失敗: {e}")
+    return ""
 
 def ensure_traditional_chinese(text):
     text = (text or "").strip()
     if not text:
         return text
-    # 1. 若含日文假名，強制使用 source='ja' 翻譯，徹底解決日文漢字被 auto 誤判為中文的問題
     if has_japanese(text):
-        try:
-            translated = ja_translator.translate(text)
-            if translated:
-                text = translated
-        except Exception as e:
-            print(f"日文翻譯備援失敗: {e}")
-    # 2. 若為英文或其他外文，使用 auto 翻譯
+        translated = gtx_translate(text, sl="ja")
+        if not translated:
+            try:
+                translated = ja_translator.translate(text)
+            except Exception:
+                pass
+        if translated:
+            text = translated
     elif is_mostly_english(text):
-        try:
-            translated = en_translator.translate(text)
-            if translated:
-                text = translated
-        except Exception as e:
-            print(f"英文翻譯備援失敗: {e}")
+        translated = gtx_translate(text, sl="en")
+        if not translated:
+            try:
+                translated = en_translator.translate(text)
+            except Exception:
+                pass
+        if translated:
+            text = translated
     return cc.convert(text)
     
 def translate_for_tg(text, raw_text="", gemini_client=None):
@@ -336,17 +360,19 @@ def init_db():
     except sqlite3.OperationalError:
         pass
 
-    # 1. 清洗歷史 articles：刪除空殼/無用標題，並強制將殘留日文或英文標題翻譯為繁中
+    # 1. 清洗歷史 articles：刪除空殼/無用標題，並適量補翻殘留外文標題
     c.execute("SELECT link, title, source FROM articles")
+    retrans_count = 0
     for link, title, source in c.fetchall():
         cleaned_t = strip_media_suffixes(title, is_google_news=True)
         if is_junk_title(title, cleaned_t, source):
             c.execute("DELETE FROM articles WHERE link = ?", (link,))
-        elif is_mostly_english(cleaned_t) or cleaned_t != title:
+        elif (is_mostly_english(cleaned_t) or cleaned_t != title) and retrans_count < 30:
             zh_title = ensure_traditional_chinese(cleaned_t)
-            if is_junk_title(cleaned_t, zh_title, source) or is_mostly_english(zh_title):
+            retrans_count += 1
+            if is_junk_title(cleaned_t, zh_title, source):
                 c.execute("DELETE FROM articles WHERE link = ?", (link,))
-            else:
+            elif zh_title != title:
                 c.execute("UPDATE articles SET title = ? WHERE link = ?", (zh_title, link))
 
     # 2. 清洗歷史 summary_cache：若快取標題或摘要含日文/外文、無用標題、或舊備援格式，一律刪除重算
@@ -470,7 +496,6 @@ def fetch_all_feeds(conn):
     return new_articles, error_logs
 
 def check_keywords(conn, new_articles, gemini_client=None):
-    
     if not os.path.exists(KEYWORDS_PATH):
         return
     with open(KEYWORDS_PATH, "r", encoding="utf-8") as f:
@@ -480,45 +505,92 @@ def check_keywords(conn, new_articles, gemini_client=None):
 
     c = conn.cursor()
     now_iso = datetime.now(timezone.utc).isoformat()
+    pending_pushes = []
 
     for a in new_articles:
         raw_t = a.get("raw_title", a["title"]).lower()
         zh_t = a["title"].lower()
         matched = [kw for kw in keywords if kw.lower() in raw_t or kw.lower() in zh_t]
-        
+
         if matched:
-            # 新增防重複邏輯】同時以「網址」與「標題」作為唯一識別鍵
             link_key = f"link:{a['link']}"
             title_key = f"title:{a['title'].strip()}"
+            raw_key = f"title:{a.get('raw_title', a['title']).strip()}"
 
-            # 檢查這則新聞的網址或標題是否已經發送過
             c.execute(
-                "SELECT 1 FROM sent_notifications WHERE dedup_key IN (?, ?)",
-                (link_key, title_key)
+                "SELECT 1 FROM sent_notifications WHERE dedup_key IN (?, ?, ?)",
+                (link_key, title_key, raw_key)
             )
             if c.fetchone():
-                # 已經發送過，直接跳過不推播
                 continue
-          
-            tg_title = translate_for_tg(a['title'], a.get('raw_title', ''), gemini_client)
 
-            msg = (
-                f"🚨 <b>關鍵字命中：{', '.join(matched)}</b>\n\n"
-                f"📰 {tg_title}\n"
-                f"🏢 來源：{a['source']}\n"
-                f"🔗 <a href='{a['link']}'>點此閱讀報導</a>"
-            )
-            send_tg_message(msg)
+            # 先用 GTX / Google 強制重翻一次原始標題
+            best_title = ensure_traditional_chinese(a.get("raw_title") or a["title"])
+            pending_pushes.append({
+                "article": a,
+                "matched": matched,
+                "tg_title": best_title,
+                "link_key": link_key,
+                "raw_key": raw_key
+            })
 
-            #新增寫入紀錄】推播後將網址與標題寫入資料庫，未來不再重複發送
+    if not pending_pushes:
+        return
+
+    # 找出仍殘留英文句子或日文假名的推播項目，打包成「單一請求」交由 Gemini 一次翻譯
+    need_gemini = [
+        {"id": idx, "text": item["article"].get("raw_title") or item["tg_title"]}
+        for idx, item in enumerate(pending_pushes)
+        if is_mostly_english(item["tg_title"])
+    ]
+
+    if need_gemini and gemini_client:
+        prompt = (
+            "請將以下 JSON 陣列中的新聞標題完整翻譯為「台灣繁體中文（台灣慣用詞彙）」。\n"
+            "除了知名品牌或股票代號（如 AI、TSMC、NVIDIA、iPhone）外，嚴格禁止殘留任何英文單字或日文假名。\n"
+            "請嚴格回傳 JSON Array 格式：[{\"id\": 0, \"zh\": \"翻譯後標題\"}]\n\n"
+            f"{json.dumps(need_gemini, ensure_ascii=False)}"
+        )
+        for model_name in ["gemini-2.5-flash", "gemini-2.5-flash-lite"]:
+            try:
+                resp = gemini_client.models.generate_content(
+                    model=model_name,
+                    contents=prompt,
+                    config={"response_mime_type": "application/json"}
+                )
+                parsed = json.loads(resp.text.strip())
+                if isinstance(parsed, list):
+                    for row in parsed:
+                        if isinstance(row, dict) and "id" in row and "zh" in row:
+                            p_idx = int(row["id"])
+                            if 0 <= p_idx < len(pending_pushes) and row["zh"].strip():
+                                pending_pushes[p_idx]["tg_title"] = cc.convert(row["zh"].strip())
+                break
+            except Exception as e:
+                print(f"TG 批次 Gemini ({model_name}) 翻譯失敗: {e}")
+                time.sleep(2)
+
+    # 發送 Telegram 推播並寫入防重複紀錄
+    for item in pending_pushes:
+        a = item["article"]
+        tg_title = item["tg_title"]
+        final_title_key = f"title:{tg_title.strip()}"
+
+        msg = (
+            f"🚨 <b>關鍵字命中：{', '.join(item['matched'])}</b>\n\n"
+            f"📰 {tg_title}\n"
+            f"🏢 來源：{a['source']}\n"
+            f"🔗 <a href='{a['link']}'>點此閱讀報導</a>"
+        )
+        send_tg_message(msg)
+
+        for key in (item["link_key"], item["raw_key"], final_title_key):
             c.execute(
                 "INSERT OR IGNORE INTO sent_notifications (dedup_key, sent_at) VALUES (?, ?)",
-                (link_key, now_iso)
+                (key, now_iso)
             )
-            c.execute(
-                "INSERT OR IGNORE INTO sent_notifications (dedup_key, sent_at) VALUES (?, ?)",
-                (title_key, now_iso)
-            )
+        # 同步更新 articles 資料表中的標題為最新繁中版本
+        c.execute("UPDATE articles SET title = ? WHERE link = ?", (tg_title, a["link"]))
 
     conn.commit()
 
