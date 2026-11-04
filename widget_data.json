@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 10:53",
+  "updated_at": "2026-11-04 11:57",
   "taiwan": [
     {
       "rank": 1,
@@ -30,27 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "宜蘭近海23:22發生規模4.5地震 8縣市有感 最大震度4級",
-      "summary": [
-        "自由時報：宜蘭近海23:22發生規模4.5地震 8縣市有感 最大震度4級",
-        "ETtoday：快訊／23:22宜蘭近海規模4.5「極淺層地震」　最大震度4級"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "宜蘭近海23:22發生規模4.5地震 8縣市有感 最大震度4級",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5628468"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／23:22宜蘭近海規模4.5「極淺層地震」　最大震度4級",
-          "url": "https://www.ettoday.net/news/20261103/3265888.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
       "summary": [
         "自由時報：川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
@@ -71,70 +50,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "法媒：通膨、動盪及政治不確定　法國經濟恐陷惡性迴圈",
-      "summary": [
-        "經濟日報：法媒：通膨、動盪及政治不確定　法國經濟恐陷惡性迴圈",
-        "科技新報：法媒：通膨、動盪及政治不確定，法國經濟恐陷惡性迴圈"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "法媒：通膨、動盪及政治不確定　法國經濟恐陷惡性迴圈",
-          "url": "https://money.udn.com/money/story/5599/9855379"
-        },
-        {
-          "source": "科技新報",
-          "title": "法媒：通膨、動盪及政治不確定，法國經濟恐陷惡性迴圈",
-          "url": "https://technews.tw/2026/11/04/french-media-inflation-turmoil-political-uncertainty-risk-trapping-french-economy-vicious-cycle/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "川普接受福斯節目電訪　證實美軍空襲伊朗",
-      "summary": [
-        "經濟日報：川普接受福斯節目電訪　證實美軍空襲伊朗",
-        "ETtoday：美軍證實空襲伊朗！　川普：這是一場「非常溫和的戰爭」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普接受福斯節目電訪　證實美軍空襲伊朗",
-          "url": "https://money.udn.com/money/story/5599/9855546"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美軍證實空襲伊朗！　川普：這是一場「非常溫和的戰爭」",
-          "url": "https://www.ettoday.net/news/20261104/3265957.htm"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "防範臺海衝突　日陸上自衛隊擬整合飛彈指揮系統2030年啟用",
-      "summary": [
-        "經濟日報：防範臺海衝突　日陸上自衛隊擬整合飛彈指揮系統2030年啟用",
-        "自由時報：防範臺海衝突 日陸上自衛隊擬整合飛彈指揮系統2030年啟用"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "防範臺海衝突　日陸上自衛隊擬整合飛彈指揮系統2030年啟用",
-          "url": "https://money.udn.com/money/story/5599/9855423"
-        },
-        {
-          "source": "自由時報",
-          "title": "防範臺海衝突 日陸上自衛隊擬整合飛彈指揮系統2030年啟用",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628456"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 3,
       "title": "美司法部派1000名選舉監督員進駐50州　規模史上最大",
       "summary": [
         "自由時報：美司法部派1000名選舉監督員進駐50州　規模史上最大",
@@ -155,7 +71,28 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
+      "title": "快訊／23:22宜蘭近海規模4.5「極淺層地震」　最大震度4級",
+      "summary": [
+        "ETtoday：快訊／23:22宜蘭近海規模4.5「極淺層地震」　最大震度4級",
+        "自由時報：宜蘭近海01:31發生規模3.4地震 最大震度3級"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／23:22宜蘭近海規模4.5「極淺層地震」　最大震度4級",
+          "url": "https://www.ettoday.net/news/20261103/3265888.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "宜蘭近海01:31發生規模3.4地震 最大震度3級",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5628495"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "市場關注美國期中選舉　歐股收低",
       "summary": [
         "自由時報：市場關注美國期中選舉　歐股收低",
@@ -176,7 +113,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "白宮：梅蘭妮亞將接見俄烏代表　為美國歷史非凡時刻",
       "summary": [
         "自由時報：白宮：梅蘭妮亞將接見俄烏代表　為美國歷史非凡時刻",
@@ -197,7 +134,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "美國選民投票之際　川普稱將停止對以色列40億美元援助",
       "summary": [
         "自由時報：美國選民投票之際　川普稱將停止對以色列40億美元援助",
@@ -214,6 +151,69 @@
           "source": "經濟日報",
           "title": "美國選民投票之際　川普稱將停止對以色列40億美元援助",
           "url": "https://money.udn.com/money/story/5599/9855681"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
+      "summary": [
+        "自由時報：紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
+        "經濟日報：紐約州韋斯切斯特郡投票機故障　選務人員緊急處置"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628503"
+        },
+        {
+          "source": "經濟日報",
+          "title": "紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
+          "url": "https://money.udn.com/money/story/10511/9855675"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "湖口臺灣松下工廠凌晨大火黑煙沖天 疑爆炸聲響震碎民宅門窗",
+      "summary": [
+        "自由時報：湖口臺灣松下工廠凌晨大火黑煙沖天 疑爆炸聲響震碎民宅門窗",
+        "ETtoday：快訊／「臺灣松下」湖口工廠凌晨爆炸大火！　民宅門窗疑被震碎"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "湖口臺灣松下工廠凌晨大火黑煙沖天 疑爆炸聲響震碎民宅門窗",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5628505"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／「臺灣松下」湖口工廠凌晨爆炸大火！　民宅門窗疑被震碎",
+          "url": "https://www.ettoday.net/news/20261104/3265913.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國選民走進投票所　決定川普未來兩年能否順利施政",
+      "summary": [
+        "自由時報：美國選民走進投票所　決定川普未來兩年能否順利施政",
+        "經濟日報：美國選民走進投票所　決定川普未來兩年能否順利施政"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美國選民走進投票所　決定川普未來兩年能否順利施政",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628513"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美國選民走進投票所　決定川普未來兩年能否順利施政",
+          "url": "https://money.udn.com/money/story/10511/9855708"
         }
       ]
     }
@@ -301,48 +301,6 @@
     },
     {
       "rank": 4,
-      "title": "美國中期選舉：選什麼？有哪些看點？",
-      "summary": [
-        "德國之聲：美國中期選舉：選什麼？有哪些看點？",
-        "法廣RFI：美國期中選舉有哪些看點？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "美國中期選舉：選什麼？有哪些看點？",
-          "url": "https://www.dw.com/zh/美国中期选举：选什么？有哪些看点？/a-79829479?maca=chi-rss-chi-all-1127-rdf"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "美國期中選舉有哪些看點？",
-          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261103-%E7%BE%8E%E5%9C%8B%E6%9C%9F%E4%B8%AD%E9%81%B8%E8%88%89%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9C%8B%E9%BB%9E"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "US Stock Futures Drop as Democrats Gain Early Momentum in Vote",
-      "summary": [
-        "Bloomberg Markets：US Stock Futures Drop as Democrats Gain Early Momentum in Vote",
-        "WSJ Markets：Stock Market Today: Stock Futures Drop as Investors Weigh Potential Democratic Gains"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "US Stock Futures Drop as Democrats Gain Early Momentum in Vote",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "Stock Market Today: Stock Futures Drop as Investors Weigh Potential Democratic Gains",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Canva Announces Layoffs, Job Changes for About 22% of Workforce",
       "summary": [
         "Bloomberg Tech：Canva Announces Layoffs, Job Changes for About 22% of Workforce",
@@ -363,7 +321,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
       "summary": [
         "Bloomberg Tech：Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
@@ -384,7 +342,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "一文讀懂美國期中選舉：兩黨各持何種立場，選情如何- 紐約時報中文網",
       "summary": [
         "紐約時報中文：一文讀懂美國期中選舉：兩黨各持何種立場，選情如何- 紐約時報中文網"
@@ -399,7 +357,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "簡訊：韓軍稱朝鮮向東部海域發射不明飛行器",
       "summary": [
         "韓聯社：簡訊：韓軍稱朝鮮向東部海域發射不明飛行器"
@@ -414,7 +372,22 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "title": "幣安稱駭客為63億美元竊案籌備數月- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：幣安稱駭客為63億美元竊案籌備數月- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "幣安稱駭客為63億美元竊案籌備數月- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45dHMwMjQ0SHpidU1zT05yeTEwZy1FMWUtR1h3aGlZby1aYkQwdU5kS3JIR2dNNkEwQl9vbmd2c1AyWUx3VHlsYVVSN3JzVjBZMUplcXJTaDQ4bUxNUk5ST3lDV01welp6RjZ0dTQyVGViX0JEZVhFYQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "AMD Forecast Exceeds Estimates After AI Chip Demand Soars",
       "summary": [
         "Bloomberg Tech：AMD Forecast Exceeds Estimates After AI Chip Demand Soars"
@@ -425,6 +398,21 @@
           "source": "Bloomberg Tech",
           "title": "AMD Forecast Exceeds Estimates After AI Chip Demand Soars",
           "url": "https://www.bloomberg.com/news/articles/2026-11-03/amd-sales-forecast-tops-estimates-on-soaring-ai-chip-demand"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Exclusive-Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say",
+      "summary": [
+        "Investing.com：Exclusive-Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Exclusive-Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say",
+          "url": "https://www.investing.com/news/stock-market-news/exclusivejapan-fund-jic-plans-to-sell-jsr-to-mitsui-chemicals-sources-say-4997042"
         }
       ]
     }
