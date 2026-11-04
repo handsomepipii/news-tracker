@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 11:57",
+  "updated_at": "2026-11-04 13:01",
   "taiwan": [
     {
       "rank": 1,
@@ -30,22 +30,22 @@
     },
     {
       "rank": 2,
-      "title": "川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
+      "title": "共和黨期中選舉慘敗！川普鬆口接受結果 喊話與民主黨合作",
       "summary": [
-        "自由時報：川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
-        "經濟日報：川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票"
+        "自由時報：共和黨期中選舉慘敗！川普鬆口接受結果 喊話與民主黨合作",
+        "經濟日報：共和黨慘遭血洗！川普鬆口：接受選舉結果 願與民主黨合作"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628484"
+          "title": "共和黨期中選舉慘敗！川普鬆口接受結果 喊話與民主黨合作",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628944"
         },
         {
           "source": "經濟日報",
-          "title": "川普期中選舉日談移民、伊朗與關稅　鎖定右翼支持者催票",
-          "url": "https://money.udn.com/money/story/5599/9855635"
+          "title": "共和黨慘遭血洗！川普鬆口：接受選舉結果 願與民主黨合作",
+          "url": "https://money.udn.com/money/story/5599/9856594"
         }
       ]
     },
@@ -253,33 +253,6 @@
     },
     {
       "rank": 2,
-      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-      "summary": [
-        "TechCrunch：Google will let schools disable its AI tools, but not without sacrificing Search",
-        "Ars Technica：Google will let schools skip AI tools, but they have to give up search, too",
-        "Wccftech：Google Tells Schools To Accept AI Or Lose Google Search Access Entirely"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-          "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "Google will let schools skip AI tools, but they have to give up search, too",
-          "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
-        },
-        {
-          "source": "Wccftech",
-          "title": "Google Tells Schools To Accept AI Or Lose Google Search Access Entirely",
-          "url": "https://wccftech.com/google-tells-schools-to-accept-ai-or-lose-google-search-access-entirely/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
       "summary": [
         "CNBC：CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
@@ -300,7 +273,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Canva Announces Layoffs, Job Changes for About 22% of Workforce",
       "summary": [
         "Bloomberg Tech：Canva Announces Layoffs, Job Changes for About 22% of Workforce",
@@ -321,7 +294,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
       "summary": [
         "Bloomberg Tech：Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
@@ -338,6 +311,27 @@
           "source": "MarketWatch",
           "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
           "url": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Google will let schools skip AI tools, but they have to give up search, too",
+      "summary": [
+        "Ars Technica：Google will let schools skip AI tools, but they have to give up search, too",
+        "Wccftech：Google Tells Schools To Accept AI Or Lose Google Search Access Entirely"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Ars Technica",
+          "title": "Google will let schools skip AI tools, but they have to give up search, too",
+          "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
+        },
+        {
+          "source": "Wccftech",
+          "title": "Google Tells Schools To Accept AI Or Lose Google Search Access Entirely",
+          "url": "https://wccftech.com/google-tells-schools-to-accept-ai-or-lose-google-search-access-entirely/"
         }
       ]
     },
@@ -388,6 +382,21 @@
     },
     {
       "rank": 9,
+      "title": "美國中期選舉即時更新：佛州選出第一位非裔州長",
+      "summary": [
+        "德國之聲：美國中期選舉即時更新：佛州選出第一位非裔州長"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "美國中期選舉即時更新：佛州選出第一位非裔州長",
+          "url": "https://www.dw.com/zh/美國中期選舉即時更新：佛州選出第一位非裔州長/live-79849020?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "AMD Forecast Exceeds Estimates After AI Chip Demand Soars",
       "summary": [
         "Bloomberg Tech：AMD Forecast Exceeds Estimates After AI Chip Demand Soars"
@@ -398,21 +407,6 @@
           "source": "Bloomberg Tech",
           "title": "AMD Forecast Exceeds Estimates After AI Chip Demand Soars",
           "url": "https://www.bloomberg.com/news/articles/2026-11-03/amd-sales-forecast-tops-estimates-on-soaring-ai-chip-demand"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Exclusive-Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say",
-      "summary": [
-        "Investing.com：Exclusive-Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Exclusive-Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say",
-          "url": "https://www.investing.com/news/stock-market-news/exclusivejapan-fund-jic-plans-to-sell-jsr-to-mitsui-chemicals-sources-say-4997042"
         }
       ]
     }
