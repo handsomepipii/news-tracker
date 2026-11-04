@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-04 09:00",
+  "updated_at": "2026-11-04 10:03",
   "taiwan": [
     {
       "rank": 1,
       "title": "投票日才講！川普：年底前停止對以色列40億美元軍援- 國際",
       "summary": [
         "中時新聞：投票日才講！川普：年底前停止對以色列40億美元軍援- 國際",
-        "自由時報：美國選民投票之際　川普稱將停止對以色列40億美元援助",
-        "經濟日報：美國選民投票之際　川普稱將停止對以色列40億美元援助"
+        "自由時報：川普稱停止對以色列每年1314億軍援 CNN：預示美國歷史性轉變",
+        "TVBS新聞：川普: 停止對以色列「40億美元」軍援｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
       ],
       "media_count": 3,
       "links": [
@@ -18,13 +18,13 @@
         },
         {
           "source": "自由時報",
-          "title": "美國選民投票之際　川普稱將停止對以色列40億美元援助",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628506"
+          "title": "川普稱停止對以色列每年1314億軍援 CNN：預示美國歷史性轉變",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628582"
         },
         {
-          "source": "經濟日報",
-          "title": "美國選民投票之際　川普稱將停止對以色列40億美元援助",
-          "url": "https://money.udn.com/money/story/5599/9855681"
+          "source": "TVBS新聞",
+          "title": "川普: 停止對以色列「40億美元」軍援｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43Y24xNjZLT2JsVFBxZjRmTGtaWllKcXFGZVpHOE4zVUJhTjJ4QTltd2tsQzlQX240ZTZpX0E1Um91QXQ1eHBCd0NQemthQnRDTklldThB?oc=5"
         }
       ]
     },
@@ -72,27 +72,6 @@
     },
     {
       "rank": 4,
-      "title": "冬盟臺灣雙軍名單出爐！張建銘、高國輝首掌兵符　旅美廖宥霖參戰",
-      "summary": [
-        "ETtoday：冬盟臺灣雙軍名單出爐！張建銘、高國輝首掌兵符　旅美廖宥霖參戰",
-        "風傳媒：《央視》前主持人程萬軍「跳機」來臺灣求援：盼人道保護轉送第三國 | 蔣季容 | 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "冬盟臺灣雙軍名單出爐！張建銘、高國輝首掌兵符　旅美廖宥霖參戰",
-          "url": "https://sports.ettoday.net/news/3265846"
-        },
-        {
-          "source": "風傳媒",
-          "title": "《央視》前主持人程萬軍「跳機」來臺灣求援：盼人道保護轉送第三國 | 蔣季容 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NTFRLLWE1Vm5LbF9kTE5odjNKTjFCYXBzLURFbUFtaXRCRTVVQ19QTGhOb2ExUmtQeXN0SG5KUEhOQjBoSWpxUnQ4cm1jdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "法媒：通膨、動盪及政治不確定　法國經濟恐陷惡性迴圈",
       "summary": [
         "經濟日報：法媒：通膨、動盪及政治不確定　法國經濟恐陷惡性迴圈",
@@ -109,6 +88,27 @@
           "source": "科技新報",
           "title": "法媒：通膨、動盪及政治不確定，法國經濟恐陷惡性迴圈",
           "url": "https://technews.tw/2026/11/04/french-media-inflation-turmoil-political-uncertainty-risk-trapping-french-economy-vicious-cycle/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "川普接受福斯節目電訪　證實美軍空襲伊朗",
+      "summary": [
+        "經濟日報：川普接受福斯節目電訪　證實美軍空襲伊朗",
+        "ETtoday：美軍證實空襲伊朗！　川普：這是一場「非常溫和的戰爭」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普接受福斯節目電訪　證實美軍空襲伊朗",
+          "url": "https://money.udn.com/money/story/5599/9855546"
+        },
+        {
+          "source": "ETtoday",
+          "title": "美軍證實空襲伊朗！　川普：這是一場「非常溫和的戰爭」",
+          "url": "https://www.ettoday.net/news/20261104/3265957.htm"
         }
       ]
     },
@@ -198,22 +198,22 @@
     },
     {
       "rank": 10,
-      "title": "紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
+      "title": "美國選民投票之際　川普稱將停止對以色列40億美元援助",
       "summary": [
-        "自由時報：紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
-        "經濟日報：紐約州韋斯切斯特郡投票機故障　選務人員緊急處置"
+        "自由時報：美國選民投票之際　川普稱將停止對以色列40億美元援助",
+        "經濟日報：美國選民投票之際　川普稱將停止對以色列40億美元援助"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628503"
+          "title": "美國選民投票之際　川普稱將停止對以色列40億美元援助",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628506"
         },
         {
           "source": "經濟日報",
-          "title": "紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
-          "url": "https://money.udn.com/money/story/10511/9855675"
+          "title": "美國選民投票之際　川普稱將停止對以色列40億美元援助",
+          "url": "https://money.udn.com/money/story/5599/9855681"
         }
       ]
     }
@@ -322,22 +322,22 @@
     },
     {
       "rank": 5,
-      "title": "Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
+      "title": "US Stock Futures Drop as Democrats Gain Early Momentum in Vote",
       "summary": [
-        "Bloomberg Tech：Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
-        "MarketWatch：Super Micro’s stock pops as earnings show booming demand for AI servers"
+        "Bloomberg Markets：US Stock Futures Drop as Democrats Gain Early Momentum in Vote",
+        "WSJ Markets：Stock Market Today: Stock Futures Drop as Investors Weigh Potential Democratic Gains"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-03/super-micro-gives-outlook-that-tops-estimates-on-server-demand"
+          "source": "Bloomberg Markets",
+          "title": "US Stock Futures Drop as Democrats Gain Early Momentum in Vote",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results"
         },
         {
-          "source": "MarketWatch",
-          "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
-          "url": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories"
+          "source": "WSJ Markets",
+          "title": "Stock Market Today: Stock Futures Drop as Investors Weigh Potential Democratic Gains",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026?mod=rss_markets_main"
         }
       ]
     },
@@ -364,6 +364,57 @@
     },
     {
       "rank": 7,
+      "title": "Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
+      "summary": [
+        "Bloomberg Tech：Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
+        "MarketWatch：Super Micro’s stock pops as earnings show booming demand for AI servers"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-03/super-micro-gives-outlook-that-tops-estimates-on-server-demand"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
+          "url": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "一文讀懂美國期中選舉：兩黨各持何種立場，選情如何- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：一文讀懂美國期中選舉：兩黨各持何種立場，選情如何- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "一文讀懂美國期中選舉：兩黨各持何種立場，選情如何- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDNZQlhrSWoxcUt1U01JaE54UDZVM3Ffd1ZHMzF3NGdla3BNYWtRbkhRSWIzNDRZOG9ub1BEd05pQTh0ekJYbXZWbi1DUU1nTXRMMFc3QTROYVlCTkQ1NTBFQmVncGcxal8wWWhnY1o0VmJ2M21ubXU0ZURoOUlvUGpVUk5YNV9vR0MybV9zYVJ3MzA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "簡訊：韓軍稱朝鮮向東部海域發射不明飛行器",
+      "summary": [
+        "韓聯社：簡訊：韓軍稱朝鮮向東部海域發射不明飛行器"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "簡訊：韓軍稱朝鮮向東部海域發射不明飛行器",
+          "url": "https://cn.yna.co.kr/view/ACK20261104001100881"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "AMD Forecast Exceeds Estimates After AI Chip Demand Soars",
       "summary": [
         "Bloomberg Tech：AMD Forecast Exceeds Estimates After AI Chip Demand Soars"
@@ -374,51 +425,6 @@
           "source": "Bloomberg Tech",
           "title": "AMD Forecast Exceeds Estimates After AI Chip Demand Soars",
           "url": "https://www.bloomberg.com/news/articles/2026-11-03/amd-sales-forecast-tops-estimates-on-soaring-ai-chip-demand"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "金與正出面否認朝鮮竊取幣安加密資產",
-      "summary": [
-        "德國之聲：金與正出面否認朝鮮竊取幣安加密資產"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "金與正出面否認朝鮮竊取幣安加密資產",
-          "url": "https://www.dw.com/zh/金与正出面否认朝鲜窃取币安加密资产/a-79840935?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "香港海關依國安法沒收逾60本臺灣進口書",
-      "summary": [
-        "德國之聲：香港海關依國安法沒收逾60本臺灣進口書"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "香港海關依國安法沒收逾60本臺灣進口書",
-          "url": "https://www.dw.com/zh/香港海关依国安法没收逾60本台湾进口书/a-79840917?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "美國中期選舉：民主黨實現“藍色浪潮”奪回國會控制權？",
-      "summary": [
-        "法廣RFI：美國中期選舉：民主黨實現“藍色浪潮”奪回國會控制權？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "美國中期選舉：民主黨實現“藍色浪潮”奪回國會控制權？",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E8%A7%A3%E8%AA%AA/20261103-%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89-%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%AF%A6%E7%8F%BE-%E8%97%8D%E8%89%B2%E6%B5%AA%E6%BD%AE-%E5%A5%AA%E5%9B%9E%E5%9C%8B%E6%9C%83%E6%8E%A7%E5%88%B6%E6%AC%8A"
         }
       ]
     }
