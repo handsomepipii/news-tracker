@@ -26,7 +26,7 @@ WIDGET_JSON_PATH = "widget_data.json"
 
 # 簡轉繁與多語系專用翻譯工具 (日文強制指定 source='ja' 避免漢字誤判為中文)
 cc = OpenCC('s2twp')
-en_translator = GoogleTranslator(source='auto', target='zh-TW')
+en_translator = GoogleTranslator(source='en', target='zh-TW')
 ja_translator = GoogleTranslator(source='ja', target='zh-TW')
 
 # ==========================================
@@ -60,7 +60,7 @@ JUNK_PATTERNS = [
     r"^(今日|每日|晨間|晚間|一週)?\s*(新聞總覽|即時新聞總覽|新聞提要|要聞總覽|重點新聞|熱門新聞|焦點新聞|早報|晚報|新聞快報)$",
     r"^(Morning|Evening|Daily)\s+(Briefing|Digest|Wrap|Roundup|Newsletter)",
     r"^\[?(直播|LIVE|Podcast|圖輯|影)\s*[:：\]]?$",
-    r"^(工商時報|經濟日報|聯合報|自由時報|中時)\s*(社論|黑白集|短評)$"
+    r"^(工商時報|經濟日報|聯合報|自由時報|中時)\s*(社論|黑白集|短評)$",
     r"^(今日|本週)運勢",
     r"^(中獎|開獎)號碼",
 ]
@@ -188,25 +188,52 @@ def ensure_traditional_chinese(text):
             print(f"英文翻譯備援失敗: {e}")
     return cc.convert(text)
     
-def translate_for_tg(text):
-    """發送 Telegram 前的強制中文化檢查，確保推播內容 100% 為繁體中文"""
+def translate_for_tg(text, raw_text="", gemini_client=None):
+    """發送 Telegram 前的雙重中文化檢查（Google 強制英日翻中 + Gemini 備援）"""
     text = (text or "").strip()
     if not text:
         return text
+
+    # 1. 先用 Google 翻譯（強制指定 ja / en）
     try:
-        # 1. 若含日文假名，強制以日文翻繁中
         if has_japanese(text):
             translated = ja_translator.translate(text)
             if translated:
                 text = translated
-        # 2. 只要含有連續英文字母（不限中文字數比例），強制透過 Google 翻譯轉為繁中
         elif re.search(r'[a-zA-Z]{4,}', text):
-            translated = en_translator.translate(text)
+            # 若原句已翻壞，優先拿乾淨的 raw_text 重新整句英翻中
+            source_to_trans = raw_text if (raw_text and is_mostly_english(raw_text)) else text
+            translated = en_translator.translate(source_to_trans)
             if translated:
                 text = translated
     except Exception as e:
-        print(f"TG 傳送前翻譯失敗: {e}")
-    return cc.convert(text)
+        print(f"TG Google 翻譯失敗: {e}")
+
+    text = cc.convert(text)
+
+    # 2. 若 Google 翻譯被限流或仍殘留英文句子（含 2 個以上连续英文單字），交由 Gemini 強制翻譯
+    if gemini_client and (
+        is_mostly_english(text)
+        or has_japanese(text)
+        or re.search(r'[a-zA-Z]{3,}\s+[a-zA-Z]{3,}', text)
+    ):
+        for model_name in ["gemini-2.5-flash", "gemini-2.5-flash-lite", "gemini-2.0-flash"]:
+            try:
+                resp = gemini_client.models.generate_content(
+                    model=model_name,
+                    contents=(
+                        "請將以下新聞標題完整翻譯為「台灣繁體中文（台灣慣用詞彙）」，"
+                        "除了知名品牌/股票代號（如 AI、TSMC、NVIDIA）外，嚴格禁止殘留英文單字或日文假名。"
+                        f"請直接輸出翻譯後的標題文字，不要加引號或任何說明：\n{raw_text or text}"
+                    )
+                )
+                if resp.text and resp.text.strip():
+                    text = cc.convert(resp.text.strip())
+                    break
+            except Exception as e:
+                print(f"TG Gemini ({model_name}) 翻譯備援失敗: {e}")
+
+    return text
     
 def strip_media_suffixes(title, is_google_news=False):
     """徹底剝除 Google News 雙重破折號尾綴 (如 '- 紐約時報中文網 - 紐約時報中文網') 與開頭破折號"""
@@ -442,8 +469,8 @@ def fetch_all_feeds(conn):
     conn.commit()
     return new_articles, error_logs
 
-# 👇 【修改參數】加入 conn
-def check_keywords(conn, new_articles):
+def check_keywords(conn, new_articles, gemini_client=None):
+    
     if not os.path.exists(KEYWORDS_PATH):
         return
     with open(KEYWORDS_PATH, "r", encoding="utf-8") as f:
@@ -472,7 +499,9 @@ def check_keywords(conn, new_articles):
             if c.fetchone():
                 # 已經發送過，直接跳過不推播
                 continue
-            tg_title = translate_for_tg(a['title'])
+          
+            tg_title = translate_for_tg(a['title'], a.get('raw_title', ''), gemini_client)
+
             msg = (
                 f"🚨 <b>關鍵字命中：{', '.join(matched)}</b>\n\n"
                 f"📰 {tg_title}\n"
@@ -778,9 +807,10 @@ def cleanup_old_data(conn):
 def main():
     conn = init_db()
     new_articles, error_logs = fetch_all_feeds(conn)
-
+    gemini_client = genai.Client(api_key=GEMINI_API_KEY)
+    
     if new_articles:
-        check_keywords(conn, new_articles)
+        check_keywords(conn, new_articles, gemini_client)
 
     if error_logs:
         err_msg = "⚠️ <b>RSS 媒體讀取異常報告</b>\n" + "\n".join(error_logs[:15])
@@ -789,7 +819,6 @@ def main():
         send_tg_message(err_msg)
 
     embed_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
-    gemini_client = genai.Client(api_key=GEMINI_API_KEY)
 
     tw_top10 = cluster_and_rank(conn, embed_model, gemini_client, "tw", top_k=10)
     time.sleep(4)
