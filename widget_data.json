@@ -1,8 +1,62 @@
 {
-  "updated_at": "2026-11-04 15:09",
+  "updated_at": "2026-11-04 16:31",
   "taiwan": [
     {
       "rank": 1,
+      "title": "訂位系統資安事件　新航4.6萬筆訂位紀錄恐受波及",
+      "summary": [
+        "經濟日報：訂位系統資安事件　新航4.6萬筆訂位紀錄恐受波及",
+        "iThome：新航受Amadeus資安事件波及，約4.6萬筆訂位紀錄可能外洩",
+        "科技新報：訂位系統資安事件，新航 4.6 萬筆訂位紀錄恐受波及"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "訂位系統資安事件　新航4.6萬筆訂位紀錄恐受波及",
+          "url": "https://money.udn.com/money/story/5599/9856146"
+        },
+        {
+          "source": "iThome",
+          "title": "新航受Amadeus資安事件波及，約4.6萬筆訂位紀錄可能外洩",
+          "url": "https://www.ithome.com.tw/news/180212"
+        },
+        {
+          "source": "科技新報",
+          "title": "訂位系統資安事件，新航 4.6 萬筆訂位紀錄恐受波及",
+          "url": "https://infosecu.technews.tw/2026/11/04/singapore-airlines-46000-booking-records-security-breach/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "當智慧座艙成為車內「第三空間」：AI 座艙感知與視覺化 Hackathon 圓滿落幕",
+      "summary": [
+        "關鍵評論網：當智慧座艙成為車內「第三空間」：AI 座艙感知與視覺化 Hackathon 圓滿落幕",
+        "INSIDE硬塞：當智慧座艙成為車內「第三空間」：AI 座艙感知與視覺化 Hackathon 圓滿落幕",
+        "癮科技Cool3c：當智慧座艙成為車內「第三空間」：AI 座艙感知與視覺化 Hackathon 圓滿落幕"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "關鍵評論網",
+          "title": "當智慧座艙成為車內「第三空間」：AI 座艙感知與視覺化 Hackathon 圓滿落幕",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBSDFZeGEycnhRNUtEal81bFpGRGZJc3J2QnFZNXQxTFF6MVI1ajFDOEVKTVhqLUo3T3N6NVpCX1NBcTV5NUhINkZsNldKNWlLUWZVaw?oc=5"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "當智慧座艙成為車內「第三空間」：AI 座艙感知與視覺化 Hackathon 圓滿落幕",
+          "url": "https://www.inside.com.tw/article/42803-4SA"
+        },
+        {
+          "source": "癮科技Cool3c",
+          "title": "當智慧座艙成為車內「第三空間」：AI 座艙感知與視覺化 Hackathon 圓滿落幕",
+          "url": "https://www.cool3c.com/article/253713"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "共和黨期中選舉慘敗！川普鬆口接受結果 喊話與民主黨合作",
       "summary": [
         "自由時報：共和黨期中選舉慘敗！川普鬆口接受結果 喊話與民主黨合作",
@@ -19,48 +73,6 @@
           "source": "經濟日報",
           "title": "共和黨慘遭血洗！川普鬆口：接受選舉結果 願與民主黨合作",
           "url": "https://money.udn.com/money/story/5599/9856594"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "美國選民投票之際　川普稱將停止對以色列40億美元援助",
-      "summary": [
-        "自由時報：美國選民投票之際　川普稱將停止對以色列40億美元援助",
-        "經濟日報：美國選民投票之際　川普稱將停止對以色列40億美元援助"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美國選民投票之際　川普稱將停止對以色列40億美元援助",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628506"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美國選民投票之際　川普稱將停止對以色列40億美元援助",
-          "url": "https://money.udn.com/money/story/5599/9855681"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
-      "summary": [
-        "自由時報：紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
-        "經濟日報：紐約州韋斯切斯特郡投票機故障　選務人員緊急處置"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5628503"
-        },
-        {
-          "source": "經濟日報",
-          "title": "紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
-          "url": "https://money.udn.com/money/story/10511/9855675"
         }
       ]
     },
@@ -247,6 +259,27 @@
     },
     {
       "rank": 2,
+      "title": "美國中期選舉：喬治亞州選出首位非裔女性州長",
+      "summary": [
+        "德國之聲：美國中期選舉：喬治亞州選出首位非裔女性州長",
+        "NHK新聞：アメリカ史上初の黒人女性知事が南部ジョージア州で誕生へ"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "美國中期選舉：喬治亞州選出首位非裔女性州長",
+          "url": "https://www.dw.com/zh/美國中期選舉：喬治亞州選出首位非裔女性州長/live-79849020?maca=chi-rss-chi-all-1127-rdf"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "アメリカ史上初の黒人女性知事が南部ジョージア州で誕生へ",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261104de70370"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Canva Announces Layoffs, Job Changes for About 22% of Workforce",
       "summary": [
         "Bloomberg Tech：Canva Announces Layoffs, Job Changes for About 22% of Workforce",
@@ -267,7 +300,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
       "summary": [
         "Bloomberg Tech：Super Micro Boosts Sales Forecast on AI-Fueled Server Demand",
@@ -284,27 +317,6 @@
           "source": "MarketWatch",
           "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
           "url": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
-      "summary": [
-        "CNBC：CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
-        "Yahoo Finance：CrowdStrike announces 'kill switch' for AI agents that go rogue"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
-          "url": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "CrowdStrike announces 'kill switch' for AI agents that go rogue",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUTdqbkFGU1h0REtEWFNfdEpGcFBRd1BhNUYya2FNb1M4VTN0V1piYjlldnBPUTgxZG85SWlwYnFMc3lLUHNBNmk2YXpDXzM5UlJ0SGtIMTQ3T1VpYWw0M0xtWmtBVjRXUUs3V1BqNkRQUEwtYnE0NG5MYy1SYi1BWDJldmZhLS1qaG5YZjFqWjN6UTZ3U2s5YWJwZE5GdEU1VlNOckFEUENHN2o1d3FlOFplbVdVeTZ1UnhzOGVBcDNwSG1LOVVSYWZCZmRaOHlmT25NRVlSZ2U1UVRRbnl2MEZ6VmR3T2pfVktQbA?oc=5"
         }
       ]
     },
@@ -361,6 +373,21 @@
     },
     {
       "rank": 8,
+      "title": "快訊：尹錫悅違反《公職選舉法》案二審被判緩刑",
+      "summary": [
+        "韓聯社：快訊：尹錫悅違反《公職選舉法》案二審被判緩刑"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "快訊：尹錫悅違反《公職選舉法》案二審被判緩刑",
+          "url": "https://cn.yna.co.kr/view/ACK20261104002200881"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "幣安稱駭客為63億美元竊案籌備數月- 紐約時報中文網",
       "summary": [
         "紐約時報中文：幣安稱駭客為63億美元竊案籌備數月- 紐約時報中文網"
@@ -375,32 +402,17 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "美國中期選舉即時更新：佛州選出第一位非裔州長",
-      "summary": [
-        "德國之聲：美國中期選舉即時更新：佛州選出第一位非裔州長"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "美國中期選舉即時更新：佛州選出第一位非裔州長",
-          "url": "https://www.dw.com/zh/美國中期選舉即時更新：佛州選出第一位非裔州長/live-79849020?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "快訊：尹錫悅違反《公職選舉法》案二審被判緩刑",
+      "title": "越來越多伊朗人呼籲發展核武器對抗美國- 紐約時報中文網",
       "summary": [
-        "韓聯社：快訊：尹錫悅違反《公職選舉法》案二審被判緩刑"
+        "紐約時報中文：越來越多伊朗人呼籲發展核武器對抗美國- 紐約時報中文網"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "韓聯社",
-          "title": "快訊：尹錫悅違反《公職選舉法》案二審被判緩刑",
-          "url": "https://cn.yna.co.kr/view/ACK20261104002200881"
+          "source": "紐約時報中文",
+          "title": "越來越多伊朗人呼籲發展核武器對抗美國- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50ZkhMVjRWazRBRXhmc29fQkpUS1VVaHNDd18xTEVhV29wNkJ4d3c2MVNmMm5GV0xhN1hTZ1dlZW5NOVBaNldPcHV1RFJRNXY2a3FEU0k3azFSMEJNcThqeUZQSGc0NXFMTm9iMVpJUmlPN28wOUJTOHluTQ?oc=5"
         }
       ]
     }
