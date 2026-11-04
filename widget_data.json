@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 23:31",
+  "updated_at": "2026-11-05 00:36",
   "taiwan": [
     {
       "rank": 1,
@@ -57,90 +57,27 @@
     },
     {
       "rank": 3,
-      "title": "美期中選舉登場，歷史資料揭標普 500 選後多半走強",
+      "title": "美期中選舉／只差一席！民主黨拿下德州 參院過半僅一步之遙",
       "summary": [
-        "科技新報：美期中選舉登場，歷史資料揭標普 500 選後多半走強",
-        "經濟日報：美期中選舉登場　歷史資料揭標普500選後多半走強"
+        "經濟日報：美期中選舉／只差一席！民主黨拿下德州 參院過半僅一步之遙",
+        "中時新聞：美期中選舉》民主黨「史詩級大勝」！共和黨鐵票倉德州都變天"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "科技新報",
-          "title": "美期中選舉登場，歷史資料揭標普 500 選後多半走強",
-          "url": "https://finance.technews.tw/2026/11/04/us-midterm-elections-historical-data-sp500-rises-post-election/"
+          "source": "經濟日報",
+          "title": "美期中選舉／只差一席！民主黨拿下德州 參院過半僅一步之遙",
+          "url": "https://money.udn.com/money/story/5599/9856609"
         },
         {
-          "source": "經濟日報",
-          "title": "美期中選舉登場　歷史資料揭標普500選後多半走強",
-          "url": "https://money.udn.com/money/story/123398/9856188"
+          "source": "中時新聞",
+          "title": "美期中選舉》民主黨「史詩級大勝」！共和黨鐵票倉德州都變天",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oc1FWQ3ZKMzdLRmpXNXczclBBcUdaejN0UGpKVzAyVVl0RHBhSEJIRE4wQUo3VnNOZFhkNTdpWUtfWnpDWV9yeXRxVFo5WnRPS2lYSGlYRmJFUzVoX1NVT3ZGYWZEbUMwdjMycEZ3?oc=5"
         }
       ]
     },
     {
       "rank": 4,
-      "title": "如何確定回答的 AI 就是你付費的模型？Anthropic 推 FlashProve 以密碼學驗明「真身」",
-      "summary": [
-        "科技新報：如何確定回答的 AI 就是你付費的模型？Anthropic 推 FlashProve 以密碼學驗明「真身」",
-        "INSIDE硬塞：Anthropic 公開 FlashProve 研究原型，以密碼學證明 AI 源自哪一個模型"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "如何確定回答的 AI 就是你付費的模型？Anthropic 推 FlashProve 以密碼學驗明「真身」",
-          "url": "https://technews.tw/2026/11/04/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "Anthropic 公開 FlashProve 研究原型，以密碼學證明 AI 源自哪一個模型",
-          "url": "https://www.inside.com.tw/article/42819-anthropic-flashprove-provable-inference"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Google 新政策被轟「勒索」！全面禁用 AI 的學校 學生不能用 Google 搜尋",
-      "summary": [
-        "經濟日報：Google 新政策被轟「勒索」！全面禁用 AI 的學校 學生不能用 Google 搜尋",
-        "科技新報：Google 力推「引導式學習」，校方被迫加入惹議"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "Google 新政策被轟「勒索」！全面禁用 AI 的學校 學生不能用 Google 搜尋",
-          "url": "https://money.udn.com/money/story/5599/9856250"
-        },
-        {
-          "source": "科技新報",
-          "title": "Google 力推「引導式學習」，校方被迫加入惹議",
-          "url": "https://technews.tw/2026/11/04/google-brings-guided-learning-features-to-search-and-classroom/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "《美股》訊息面：川普被看衰中期選舉恐大敗- 國際",
-      "summary": [
-        "工商時報：《美股》訊息面：川普被看衰中期選舉恐大敗- 國際",
-        "經濟日報：紐時：憤怒選民揭開川普時代的落幕"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "《美股》訊息面：川普被看衰中期選舉恐大敗- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SUzRKSW5SQ3MtbEJQejVtdW11Qy1abGdsRmR4U2FIdzZYRDhsd3ViSXBVOXJUTUZ4SEY5YWstREhWUnU2U2ljZkpMS3pzSlc0LVI3dE1CbTVfR19nOW93?oc=5"
-        },
-        {
-          "source": "經濟日報",
-          "title": "紐時：憤怒選民揭開川普時代的落幕",
-          "url": "https://money.udn.com/money/story/5599/9858006"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "《科技》AI不只拚雲端！邊緣算力衝破40 TOPS 聯發科、高通搶卡位- 上市櫃",
       "summary": [
         "中時新聞：《科技》AI不只拚雲端！邊緣算力衝破40 TOPS 聯發科、高通搶卡位- 上市櫃",
@@ -161,7 +98,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "柯林斯字典2026年度代表字：mogging技壓群雄",
       "summary": [
         "經濟日報：柯林斯字典2026年度代表字：mogging技壓群雄",
@@ -182,7 +119,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "美期中選舉／國會就快變天了 為何美股重挫美債漲？藍色浪潮不利AI衝",
       "summary": [
         "經濟日報：美期中選舉／國會就快變天了 為何美股重挫美債漲？藍色浪潮不利AI衝",
@@ -203,7 +140,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "巴帕斯贏得美參議院選舉 成首位公開出櫃男性參議員",
       "summary": [
         "自由時報：巴帕斯贏得美參議院選舉 成首位公開出櫃男性參議員",
@@ -222,96 +159,185 @@
           "url": "https://money.udn.com/money/story/5599/9856756"
         }
       ]
+    },
+    {
+      "rank": 8,
+      "title": "高鐵軌道巡檢造假長達5年　8名涉案員工離職",
+      "summary": [
+        "ETtoday：高鐵軌道巡檢造假長達5年　8名涉案員工離職",
+        "自由時報：高鐵雲林段軌道巡檢紀錄涉造假5年 8名涉案員工已離職"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "高鐵軌道巡檢造假長達5年　8名涉案員工離職",
+          "url": "https://www.ettoday.net/news/20261104/3266227.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "高鐵雲林段軌道巡檢紀錄涉造假5年 8名涉案員工已離職",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5629150"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "特斯拉遭控誤導韓國消費者，多數車款無法合法使用 FSD",
+      "summary": [
+        "科技新報：特斯拉遭控誤導韓國消費者，多數車款無法合法使用 FSD",
+        "ETtoday：特斯拉遭控「誤導韓國消費者」！花22萬買全自動駕駛輔助不能用"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "特斯拉遭控誤導韓國消費者，多數車款無法合法使用 FSD",
+          "url": "https://technews.tw/2026/11/04/tesla-misleading-korea-consumers-fsd-not-legal-most-models/"
+        },
+        {
+          "source": "ETtoday",
+          "title": "特斯拉遭控「誤導韓國消費者」！花22萬買全自動駕駛輔助不能用",
+          "url": "https://speed.ettoday.net/news/3266224"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "新航受Amadeus資安事件波及，約4.6萬筆訂位紀錄可能外洩",
+      "summary": [
+        "iThome：新航受Amadeus資安事件波及，約4.6萬筆訂位紀錄可能外洩",
+        "科技新報：訂位系統資安事件，新航 4.6 萬筆訂位紀錄恐受波及"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "新航受Amadeus資安事件波及，約4.6萬筆訂位紀錄可能外洩",
+          "url": "https://www.ithome.com.tw/news/180212"
+        },
+        {
+          "source": "科技新報",
+          "title": "訂位系統資安事件，新航 4.6 萬筆訂位紀錄恐受波及",
+          "url": "https://infosecu.technews.tw/2026/11/04/singapore-airlines-46000-booking-records-security-breach/"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "幣安稱，虛假工作面試被用作價值 63 億美元的加密貨幣駭客攻擊的一部分",
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
       "summary": [
-        "BBC World：幣安稱，虛假工作面試被用作價值 63 億美元的加密貨幣駭客攻擊的一部分",
-        "Washington Post：惡意軟體和虛假工作面試如何讓攻擊者從幣安竊取 6.3B 美元",
-        "Yahoo Finance：假工作面試幫助駭客完成了幣安創紀錄的加密貨幣搶劫"
+        "BBC World：Binance says fake job interviews used as part of $6.3bn crypto hack",
+        "CNBC：Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+        "Yahoo Finance：Fake job interviews helped hackers pull off Binance’s record crypto heist"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "BBC World",
-          "title": "幣安稱，虛假工作面試被用作價值 63 億美元的加密貨幣駭客攻擊的一部分",
+          "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
           "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Washington Post",
-          "title": "惡意軟體和虛假工作面試如何讓攻擊者從幣安竊取 6.3B 美元",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeGZOT1RKRGNKUm5FZ3dfY19yeWV0MGR4Y3RtdFJULUhHQVo4UG9fSF9PLVZkc3JMMzVIS1dOY1BwWUFEUEMxc3RmTWt0Rm83TEh0SGVYUUVFV2xfUWdrdXVBUEtvNEtVOFd4Q3l4OHBHUENNR0xmV0N6ZTg5Z0I3Vk9vUDYwWU1zb3pxSEE0UE15elRTajEzckJNZjBseDd2dEE3UENxSm96QTBmWlp4T05sd0hWdw?oc=5"
+          "source": "CNBC",
+          "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+          "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
         },
         {
           "source": "Yahoo Finance",
-          "title": "假工作面試幫助駭客完成了幣安創紀錄的加密貨幣搶劫",
+          "title": "Fake job interviews helped hackers pull off Binance’s record crypto heist",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSVdSX3U2NTg1dzVFVlhBaTNoWE9iblJWbWhTSW1WVmxQZFdWYzBSWlFLMWlvd0EtUURyaWw4bVdBS09nanVYS2lKSG5LMEYybDhyUVVwaE1fZkJUTkxPQ2Nvd3VYNlMxY2w3Z1dkM3AtenQyN1AwZDhhNnNPekp2b2tOVTN0VlBPcEh3ZDd3TU1rVjRjZ2l5aWFfcWpSZThMajRwVjJPdGpYUFBocVYyNllzVlZObTJNV29oeDE1eU5CcXpYSUhWenFoWXBlNjZTaGc?oc=5"
+        },
+        {
+          "source": "The Verge",
+          "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+          "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "谷歌回應因禁止人工智慧的學校取消搜尋而引發的政治強烈反對",
+      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
       "summary": [
-        "CNBC：谷歌回應因禁止人工智慧的學校取消搜尋而引發的政治強烈反對",
-        "Ars Technica：谷歌將讓學校跳過人工智慧工具，但他們也必須放棄搜尋",
-        "Wccftech：谷歌要求學校接受人工智慧，否則將完全失去谷歌搜尋訪問許可權"
+        "The Verge：All the news about The Legend of Zelda: Ocarina of Time remake",
+        "Wccftech：The Legend of Zelda: Ocarina of Time Review – A Tantalizing Tune-Up of a Timeless Classic",
+        "Washington Post：Review | A worthy Zelda remake proves ‘Ocarina of Time’ is still a masterpiece"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "CNBC",
-          "title": "谷歌回應因禁止人工智慧的學校取消搜尋而引發的政治強烈反對",
-          "url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "谷歌將讓學校跳過人工智慧工具，但他們也必須放棄搜尋",
-          "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
+          "source": "The Verge",
+          "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+          "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news"
         },
         {
           "source": "Wccftech",
-          "title": "谷歌要求學校接受人工智慧，否則將完全失去谷歌搜尋訪問許可權",
-          "url": "https://wccftech.com/google-tells-schools-to-accept-ai-or-lose-google-search-access-entirely/"
+          "title": "The Legend of Zelda: Ocarina of Time Review – A Tantalizing Tune-Up of a Timeless Classic",
+          "url": "https://wccftech.com/review/the-legend-of-zelda-ocarina-of-time/"
+        },
+        {
+          "source": "Washington Post",
+          "title": "Review | A worthy Zelda remake proves ‘Ocarina of Time’ is still a masterpiece",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT3I5Tkdlb2hHM0FKY3RTbDI2UHZ1eHBINWlZSFJNZE1wVjFkcTc5QTFvM2o2UXYtcmZsa0tSRXZXOTVQbTJSOWI1Y2VXeHNYWDlocWxhRnlhaDZkUXJnSVRPTkpsaE1tak5xMGtSejNBUDdFd1BEVFpWYjBIU0lJZ3FCMXZJSlhqamJiU3dxX09ZanQxN2F2QTJwOFNtWkk1eV9fTWRocjI2eElCVGhiSEFPcGp1cUxiMVZJa3NrWlhPNWdkdlpGTQ?oc=5"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "CVS 如何建立一個現在計劃分開的醫療保健帝國",
+      "title": "CVS to split off drugstore business in major breakup of healthcare giant",
       "summary": [
-        "Investing.com：CVS 如何建立一個現在計劃分開的醫療保健帝國",
-        "MarketWatch：CVS Health 計劃一分為二。以下是導致大規模醫療保健分裂的原因。",
-        "Yahoo Finance：CVS 計畫拆分健康集團"
+        "CNBC：CVS to split off drugstore business in major breakup of healthcare giant",
+        "Investing.com：CVS Health to split in two, separating pharmacy business from insurance",
+        "Yahoo Finance：CVS 宣佈計劃分拆為兩家公司，將藥局與保險分開"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "CVS 如何建立一個現在計劃分開的醫療保健帝國",
-          "url": "https://www.investing.com/news/stock-market-news/how-cvs-built-a-healthcare-empire-it-now-plans-to-split-4998557"
+          "source": "CNBC",
+          "title": "CVS to split off drugstore business in major breakup of healthcare giant",
+          "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html"
         },
         {
-          "source": "MarketWatch",
-          "title": "CVS Health 計劃一分為二。以下是導致大規模醫療保健分裂的原因。",
-          "url": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories"
+          "source": "Investing.com",
+          "title": "CVS Health to split in two, separating pharmacy business from insurance",
+          "url": "https://www.investing.com/news/stock-market-news/cvs-health-to-split-in-two-separating-pharmacy-business-from-insurance-4998559"
         },
         {
           "source": "Yahoo Finance",
-          "title": "CVS 計畫拆分健康集團",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3d2cXhielRFdG8zU1dad2RISHozT1VVSXpVWWJ4eHNadFlGSjVrcUhYMUtqX2FBMFk5RXAxaUp4dEFpYXpTUnRGeldnem9KUFp0WTRSRWkySnpzcnNUWjBvM0VfMjZ0Z2pCcHVLenlGd09LMzNEQWdGUjE5Yi02U1FuRUxVYXJ0Y3hkaDJOTXgwcGc?oc=5"
+          "title": "CVS 宣佈計劃分拆為兩家公司，將藥局與保險分開",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNjd3aUJqQmNYU01LZDk0N0s2QVI4NWZ4ZzlKZTNlZW5aWkhLNnBKVXpERTltRGNteGR0c0xCVG5Ic2ZSX1RNTjZUeU1hdjFFV1hqeVdoZWFTS25KNzBCdXhwWVBJaEM0YVp0U0djMmlzRTN3MVZHcFVXdWNKVHVudmNRVW1oaEFub21xeEhPNnNlNlBBMXRzQUUwNnB0VVZFRGR2bEdUa2dYaFhPMXR4aUNkSUhhTGJjZnF6QUVQV0YxOFNybkM1UVozUUR2dy1RVGc?oc=5"
         }
       ]
     },
     {
       "rank": 4,
+      "title": "美國中期選舉民調：選民最關心經濟與民主現況",
+      "summary": [
+        "BBC中文：美國中期選舉民調：選民最關心經濟與民主現況",
+        "NHK新聞：アメリカ中間選挙 各國の受け止めは？【特派員解説】"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "美國中期選舉民調：選民最關心經濟與民主現況",
+          "url": "https://www.bbc.com/zhongwen/articles/c6kg5xn3rk9po/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "アメリカ中間選挙 各國の受け止めは？【特派員解説】",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261104de70587"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "美國中期選舉：喬治亞州選出首位非裔女性州長",
       "summary": [
         "德國之聲：美國中期選舉：喬治亞州選出首位非裔女性州長",
-        "NHK新聞：喬治亞州南部當選美國史上第一位黑人女州長"
+        "NHK新聞：アメリカ史上初の黒人女性知事が南部ジョージア州で誕生へ"
       ],
       "media_count": 2,
       "links": [
@@ -322,29 +348,8 @@
         },
         {
           "source": "NHK新聞",
-          "title": "喬治亞州南部當選美國史上第一位黑人女州長",
+          "title": "アメリカ史上初の黒人女性知事が南部ジョージア州で誕生へ",
           "url": "https://news.web.nhk/newsweb/na/nd-20261104de70370"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "美國民主黨歷史性勝利 深入共和黨票倉攻城掠地",
-      "summary": [
-        "BBC中文：美國民主黨歷史性勝利 深入共和黨票倉攻城掠地",
-        "Bloomberg Markets：民主黨大獲全勝 美股期貨反彈"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "美國民主黨歷史性勝利 深入共和黨票倉攻城掠地",
-          "url": "https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "民主黨大獲全勝 美股期貨反彈",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-04/the-opening-trade-11-04-2026-video"
         }
       ]
     },
@@ -371,85 +376,85 @@
     },
     {
       "rank": 7,
-      "title": "Canva 宣佈裁員，約 22% 的員工更換工作",
+      "title": "アメリカ中間選挙 民主黨が上下両院で多數派奪還へ【速報中】",
       "summary": [
-        "Bloomberg Tech：Canva 宣佈裁員，約 22% 的員工更換工作",
-        "The Verge：Canva 宣佈調整和裁員，影響 22% 的員工"
+        "NHK新聞：アメリカ中間選挙 民主黨が上下両院で多數派奪還へ【速報中】",
+        "德國之聲：專訪：民主黨贏得中期選舉如何影響美國的對華政策？"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "Canva 宣佈裁員，約 22% 的員工更換工作",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-03/canva-announces-layoffs-job-changes-for-about-22-of-workforce"
+          "source": "NHK新聞",
+          "title": "アメリカ中間選挙 民主黨が上下両院で多數派奪還へ【速報中】",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261103de69965"
         },
         {
-          "source": "The Verge",
-          "title": "Canva 宣佈調整和裁員，影響 22% 的員工",
-          "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs"
+          "source": "德國之聲",
+          "title": "專訪：民主黨贏得中期選舉如何影響美國的對華政策？",
+          "url": "https://www.dw.com/zh/专访：民主党赢得中期选举如何影响美国的对华政策？/a-79857005?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "蘋果股價下跌，元債務成本上升",
+      "title": "Canva Announces Layoffs, Job Changes for About 22% of Workforce",
       "summary": [
-        "WSJ Markets：蘋果股價下跌，元債務成本上升",
-        "MarketWatch：蘋果股價在財報發布後下跌，分析師告訴我們什麼"
+        "Bloomberg Tech：Canva Announces Layoffs, Job Changes for About 22% of Workforce",
+        "The Verge：Canva is announcing changes and layoffs affecting 22 percent of its staff"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "WSJ Markets",
-          "title": "蘋果股價下跌，元債務成本上升",
-          "url": "https://www.wsj.com/finance/stocks/apple-shares-slip-meta-debt-costs-rise-a8eb0510?mod=rss_markets_main"
+          "source": "Bloomberg Tech",
+          "title": "Canva Announces Layoffs, Job Changes for About 22% of Workforce",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-03/canva-announces-layoffs-job-changes-for-about-22-of-workforce"
         },
         {
-          "source": "MarketWatch",
-          "title": "蘋果股價在財報發布後下跌，分析師告訴我們什麼",
-          "url": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories"
+          "source": "The Verge",
+          "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+          "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "美國中期選舉圖：民主黨大獲全勝，斥責川普",
+      "title": "Stock Market Today: Stock Futures Turn Positive as Investors Weigh Democratic Sweep",
       "summary": [
-        "CNBC：美國中期選舉圖：民主黨大獲全勝，斥責川普",
-        "法廣RFI：美國中期選舉民主黨大勝 重塑特朗普最後兩年任期格局"
+        "WSJ Markets：Stock Market Today: Stock Futures Turn Positive as Investors Weigh Democratic Sweep",
+        "Investing.com：U.S. stock futures turn positive as Dems sweep Congress; AMD rises"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "CNBC",
-          "title": "美國中期選舉圖：民主黨大獲全勝，斥責川普",
-          "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html"
+          "source": "WSJ Markets",
+          "title": "Stock Market Today: Stock Futures Turn Positive as Investors Weigh Democratic Sweep",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026?mod=rss_markets_main"
         },
         {
-          "source": "法廣RFI",
-          "title": "美國中期選舉民主黨大勝 重塑特朗普最後兩年任期格局",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E8%A7%A3%E8%AA%AA/20261104-%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%A4%A7%E5%8B%9D-%E9%87%8D%E5%A1%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E5%BE%8C%E5%85%A9%E5%B9%B4%E4%BB%BB%E6%9C%9F%E6%A0%BC%E5%B1%80"
+          "source": "Investing.com",
+          "title": "U.S. stock futures turn positive as Dems sweep Congress; AMD rises",
+          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-midterms-in-focus-amd-rallies-on-strong-earnings-4997029"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "幣安聯合執行長理查德·滕（Richard Teng）表示，駭客利用虛假求職面試和人工智慧工具竊取了 63 億美元的加密貨幣",
+      "title": "Google responds to political backlash over removing search from schools that ban AI",
       "summary": [
-        "CNBC：幣安聯合執行長理查德·滕（Richard Teng）表示，駭客利用虛假求職面試和人工智慧工具竊取了 63 億美元的加密貨幣",
-        "The Verge：幣安稱駭客利用虛假求職面試和內部人工智慧工具竊取了 63 億美元資金"
+        "CNBC：Google responds to political backlash over removing search from schools that ban AI",
+        "TechCrunch：Google faces backlash for plan that would turn off Search for schools that restrict AI"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "CNBC",
-          "title": "幣安聯合執行長理查德·滕（Richard Teng）表示，駭客利用虛假求職面試和人工智慧工具竊取了 63 億美元的加密貨幣",
-          "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
+          "title": "Google responds to political backlash over removing search from schools that ban AI",
+          "url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html"
         },
         {
-          "source": "The Verge",
-          "title": "幣安稱駭客利用虛假求職面試和內部人工智慧工具竊取了 63 億美元資金",
-          "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained"
+          "source": "TechCrunch",
+          "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+          "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
         }
       ]
     }
