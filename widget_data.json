@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 04:49",
+  "updated_at": "2026-11-06 05:47",
   "taiwan": [
     {
       "rank": 1,
@@ -275,6 +275,60 @@
     },
     {
       "rank": 3,
+      "title": "巴拉圭總統聖地亞哥·佩納因銀行倒閉而辭職",
+      "summary": [
+        "BBC World：巴拉圭總統聖地亞哥·佩納因銀行倒閉而辭職",
+        "The Guardian：巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
+        "WSJ Markets：巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "巴拉圭總統聖地亞哥·佩納因銀行倒閉而辭職",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
+          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機",
+          "url": "https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "藍色起源將發射推遲到 2027 年",
+      "summary": [
+        "Financial Times：藍色起源將發射推遲到 2027 年",
+        "CNBC：藍色起源將發射推遲到 2027 年 1 月，因為它正在努力重建受損的發射臺",
+        "The Verge：藍色起源的下一次發射要到 2027 年才會發生"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "藍色起源將發射推遲到 2027 年",
+          "url": "https://www.ft.com/content/39efbb7e-44a3-4a75-883b-e76ed6f9f5fd?syn-25a6b1a6=1"
+        },
+        {
+          "source": "CNBC",
+          "title": "藍色起源將發射推遲到 2027 年 1 月，因為它正在努力重建受損的發射臺",
+          "url": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html"
+        },
+        {
+          "source": "The Verge",
+          "title": "藍色起源的下一次發射要到 2027 年才會發生",
+          "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "美光在勞資糾紛後暫停了價值 45 億美元的臺灣工廠的建設",
       "summary": [
         "Bloomberg Tech：美光在勞資糾紛後暫停了價值 45 億美元的臺灣工廠的建設",
@@ -295,7 +349,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "分析：特朗普中期選舉遭遇政治挫折 於中國或是“短期獲益，長期受損”",
       "summary": [
         "德國之聲：分析：特朗普中期選舉遭遇政治挫折 於中國或是“短期獲益，長期受損”",
@@ -316,7 +370,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "另有 14 架歐洲航班收到炸彈威脅",
       "summary": [
         "Financial Times：另有 14 架歐洲航班收到炸彈威脅",
@@ -337,7 +391,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "英國央行將三年來首次升息以對抗通膨",
       "summary": [
         "Financial Times：英國央行將三年來首次升息以對抗通膨",
@@ -358,86 +412,44 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "溫蒂的拒絕納爾遜佩爾茨提出了特里安的收購建議",
+      "rank": 9,
+      "title": "民主黨威脅減緩人工智慧支出，大型科技股飆漲",
       "summary": [
-        "CNBC：溫蒂的拒絕納爾遜佩爾茨提出了特里安的收購建議",
+        "Bloomberg Tech：民主黨威脅減緩人工智慧支出，大型科技股飆漲",
+        "Financial Times：民主黨會阻止人工智慧的繁榮嗎？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "民主黨威脅減緩人工智慧支出，大型科技股飆漲",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/big-tech-stocks-surge-as-democrats-threaten-to-slow-ai-spending"
+        },
+        {
+          "source": "Financial Times",
+          "title": "民主黨會阻止人工智慧的繁榮嗎？",
+          "url": "https://www.ft.com/content/5dedb9bf-bd12-4956-b2b7-ce968e1e1371?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "溫蒂拒絕納爾遜佩爾茨提出特里安的收購提議",
+      "summary": [
+        "CNBC：溫蒂拒絕納爾遜佩爾茨提出特里安的收購提議",
         "Bloomberg Markets：Wendy 的拒絕 Peltz 的 Trian 的收購要約"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "CNBC",
-          "title": "溫蒂的拒絕納爾遜佩爾茨提出了特里安的收購建議",
+          "title": "溫蒂拒絕納爾遜佩爾茨提出特里安的收購提議",
           "url": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html"
         },
         {
           "source": "Bloomberg Markets",
           "title": "Wendy 的拒絕 Peltz 的 Trian 的收購要約",
           "url": "https://www.bloomberg.com/news/videos/2026-11-05/wendy-s-rejects-takeover-bid-from-peltz-s-trian-video"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "中國阻止軟銀以 54 億美元收購 ABB 機器人部門的交易",
-      "summary": [
-        "Nikkei Asia：中國阻止軟銀以 54 億美元收購 ABB 機器人部門的交易",
-        "法廣RFI：軟銀以近54億美元收購ABB機器人業務交易確認被中方阻止"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "中國阻止軟銀以 54 億美元收購 ABB 機器人部門的交易",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2hCWHhTMDZDQllhZ244Z1ZabmhyT01IT1BJSFFSY25vU3pMS090VEU3UlQ3WjZiMGxKVGVuZ2dTR09BRm80cjZVVTBGdnZ5Y0hYZHhwY3cySVBiVTVpNkZ4UGcta3pEUDVUN2JpUktmdXZ6dTJBRkNGRTZmRTRfM0UwdUlDZURlWEFWaXZKbUdoUUNVUnY0alkzakhabTg3VFFUWWtpcjVydEo0?oc=5"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "軟銀以近54億美元收購ABB機器人業務交易確認被中方阻止",
-          "url": "https://www.rfi.fr/tw/%E7%B6%93%E8%B2%BF/20261105-%E8%BB%9F%E9%8A%80%E4%BB%A554%E5%84%84%E7%BE%8E%E5%85%83%E6%94%B6%E8%B3%BCabb%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%A5%AD%E5%8B%99%E4%BA%A4%E6%98%93%E7%A2%BA%E8%AA%8D%E8%A2%AB%E4%B8%AD%E6%96%B9%E9%98%BB%E6%AD%A2"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Agility Robotics 納斯達克首秀引發人形機器人市場檢視",
-      "summary": [
-        "Ars Technica：Agility Robotics 納斯達克首秀引發人形機器人市場檢視",
-        "Bloomberg Tech：隨著類人機器人規模的擴大，Agility Robotics 首次公開亮相"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Ars Technica",
-          "title": "Agility Robotics 納斯達克首秀引發人形機器人市場檢視",
-          "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "隨著類人機器人規模的擴大，Agility Robotics 首次公開亮相",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-05/agility-robotics-makes-public-debut-as-humanoids-scale-video"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "獨家：Aina 的智慧戒指希望成為人工智慧代理的遠端控制",
-      "summary": [
-        "Wired：獨家：Aina 的智慧戒指希望成為人工智慧代理的遠端控制",
-        "TechCrunch：Aina 的智慧戒指配有螢幕、操縱桿和麥克風，因此您可以與人工智慧代理交談"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Wired",
-          "title": "獨家：Aina 的智慧戒指希望成為人工智慧代理的遠端控制",
-          "url": "https://www.wired.com/story/aina-smart-ring/"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Aina 的智慧戒指配有螢幕、操縱桿和麥克風，因此您可以與人工智慧代理交談",
-          "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
         }
       ]
     }
