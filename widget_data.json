@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 09:48",
+  "updated_at": "2026-11-05 10:54",
   "taiwan": [
     {
       "rank": 1,
@@ -99,69 +99,6 @@
     },
     {
       "rank": 5,
-      "title": "期中選舉民主黨重掌國會川普讓美再次偉大政策失靈｜20261104 公視晚間新聞｜ 公視新聞PNN",
-      "summary": [
-        "公視新聞：期中選舉民主黨重掌國會川普讓美再次偉大政策失靈｜20261104 公視晚間新聞｜ 公視新聞PNN",
-        "風傳媒：美期中選舉》川普背書不再是萬靈丹？共和黨多州失守，民主黨奪回參院控制權 | 李靖棠 | 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公視新聞",
-          "title": "期中選舉民主黨重掌國會川普讓美再次偉大政策失靈｜20261104 公視晚間新聞｜ 公視新聞PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBheF9HMktwQ0VYcUFtN1p5alVOZnBLN1NJYWZmNnJ4UXdrdUJtRVFwTGwweUo5YUl1RVpGVEQxX1hLeFZfVG1laTlZZw?oc=5"
-        },
-        {
-          "source": "風傳媒",
-          "title": "美期中選舉》川普背書不再是萬靈丹？共和黨多州失守，民主黨奪回參院控制權 | 李靖棠 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vZG5jbHlDLUdKOHlQTDFYTWIzZk1lMVJvYWE1N0xWWmFQc1BUdkp2TnFOS2NLalRPMnd6bVIzQ1Vrc0JzU0hiTlNqcldkZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "應對中國經濟脅迫　歐盟擬提出「地緣經濟威懾協定」",
-      "summary": [
-        "經濟日報：應對中國經濟脅迫　歐盟擬提出「地緣經濟威懾協定」",
-        "科技新報：應對中國經濟脅迫，歐盟擬提出「地緣經濟威懾協定」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "應對中國經濟脅迫　歐盟擬提出「地緣經濟威懾協定」",
-          "url": "https://money.udn.com/money/story/5599/9857926"
-        },
-        {
-          "source": "科技新報",
-          "title": "應對中國經濟脅迫，歐盟擬提出「地緣經濟威懾協定」",
-          "url": "https://finance.technews.tw/2026/11/05/eu-geoeconomic-deterrence-agreement-china-economic-coercion/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "歐元區10月通膨率4%創3年新高　預料歐央行下月將升息",
-      "summary": [
-        "經濟日報：歐元區10月通膨率4%創3年新高　預料歐央行下月將升息",
-        "科技新報：歐元區 10 月通膨率 4% 創 3 年新高，預料歐央行下月將升息"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "歐元區10月通膨率4%創3年新高　預料歐央行下月將升息",
-          "url": "https://money.udn.com/money/story/5599/9857877"
-        },
-        {
-          "source": "科技新報",
-          "title": "歐元區 10 月通膨率 4% 創 3 年新高，預料歐央行下月將升息",
-          "url": "https://technews.tw/2026/11/05/eurozone-october-inflation-4-percent-3-year-high-ecb-raise-rates-next-month/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "房市冷到買氣縮！全臺房貸最熱10區出爐　桃園這區竟奪冠",
       "summary": [
         "自由時報：房市冷到買氣縮！全臺房貸最熱10區出爐　桃園這區竟奪冠",
@@ -182,7 +119,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "繳清房貸僅花「2分鐘」塗銷抵押權! 北市府推AI地政服務｜TVBS新聞 @TVBSNEWS02 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：繳清房貸僅花「2分鐘」塗銷抵押權! 北市府推AI地政服務｜TVBS新聞 @TVBSNEWS02 │ TVBS新聞網",
@@ -203,7 +140,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "谷歌投資大馬150億美元　安華：助躍升東南亞數位強國",
       "summary": [
         "經濟日報：谷歌投資大馬150億美元　安華：助躍升東南亞數位強國",
@@ -220,6 +157,69 @@
           "source": "科技新報",
           "title": "Google 投資大馬 150 億美元，安華：助躍升東南亞數位強國",
           "url": "https://technews.tw/2026/11/05/google-invests-15-billion-malaysia-anwar-elevate-southeast-asian-digital-powerhouse/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "竹南鎮長候選人何秀綿涉賄選起訴  移審續押",
+      "summary": [
+        "自由時報：竹南鎮長候選人何秀綿涉賄選起訴  移審續押",
+        "ETtoday：竹南鎮長候選人何秀綿涉賄遭起訴！同案7被告4人交保"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "竹南鎮長候選人何秀綿涉賄選起訴  移審續押",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5629815"
+        },
+        {
+          "source": "ETtoday",
+          "title": "竹南鎮長候選人何秀綿涉賄遭起訴！同案7被告4人交保",
+          "url": "https://www.ettoday.net/news/20261105/3266581.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
+      "summary": [
+        "自由時報：深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
+        "經濟日報：深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629836"
+        },
+        {
+          "source": "經濟日報",
+          "title": "深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
+          "url": "https://money.udn.com/money/story/5599/9858223"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美期中選舉共和黨輸掉眾院　議長強生不角逐少數黨領袖",
+      "summary": [
+        "自由時報：美期中選舉共和黨輸掉眾院　議長強生不角逐少數黨領袖",
+        "經濟日報：美期中選舉共和黨輸掉眾院　議長強生不角逐少數黨領袖"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美期中選舉共和黨輸掉眾院　議長強生不角逐少數黨領袖",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629845"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美期中選舉共和黨輸掉眾院　議長強生不角逐少數黨領袖",
+          "url": "https://money.udn.com/money/story/5599/9858241"
         }
       ]
     }
@@ -254,111 +254,27 @@
     },
     {
       "rank": 2,
-      "title": "高通將為 SpaceX 美國行動電話網路製造裝置",
+      "title": "SpaceX 與高通達成協議，星鏈距離成為美國第四大無線營運商又更近了一步",
       "summary": [
-        "Bloomberg Tech：高通將為 SpaceX 美國行動電話網路製造裝置",
-        "CNBC：SpaceX 與高通簽署協議，為美國行動服務提供網路技術"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "高通將為 SpaceX 美國行動電話網路製造裝置",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-to-build-equipment-for-spacex-s-us-mobile-phone-network"
-        },
-        {
-          "source": "CNBC",
-          "title": "SpaceX 與高通簽署協議，為美國行動服務提供網路技術",
-          "url": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "「這是一場災難」：憤怒的共和黨人將中期選舉失敗歸咎於川普",
-      "summary": [
-        "BBC World：「這是一場災難」：憤怒的共和黨人將中期選舉失敗歸咎於川普",
-        "Washington Post：川普將失敗歸咎於共和黨候選人、油價和他缺席投票"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "「這是一場災難」：憤怒的共和黨人將中期選舉失敗歸咎於川普",
-          "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Washington Post",
-          "title": "川普將失敗歸咎於共和黨候選人、油價和他缺席投票",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcm8yRDN0ODJJUUd4WVlJTjk0Y0Z3ZWM2SFNOZ0pfUTJaUjd1QThhTDRveDdxV0hoZW12WUZKeFp0aUVZQnpucVRHZjZzcHZRVk1NRmRibXdjdW1WSk5VTmc1dGRVOW1CeDNLMzFmVFlUcklENUhGMC00OHdEUHlhZ1dpOWs0SFQzWEx2ZmpwMlJiTGxxVWozaVJWcHBleWU5S0pyU012VzRUcnNLcWFNV19rbzdLbDBpbkdzRUNTU3JZZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "索爾維達成稀土協議將減少全球對中國的依賴",
-      "summary": [
-        "Financial Times：索爾維達成稀土協議將減少全球對中國的依賴",
-        "FT中文網：索爾維達成稀土協議 減少對中國依賴"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "索爾維達成稀土協議將減少全球對中國的依賴",
-          "url": "https://www.ft.com/content/7479802b-7071-4ab7-a7a0-bbebc20010e3?syn-25a6b1a6=1"
-        },
-        {
-          "source": "FT中文網",
-          "title": "索爾維達成稀土協議 減少對中國依賴",
-          "url": "https://www.ftchinese.com/story/001111282"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "ADP稱，10月私人企業增加了86,000個就業崗位，略高於預期",
-      "summary": [
-        "CNBC：ADP稱，10月私人企業增加了86,000個就業崗位，略高於預期",
-        "MarketWatch：ADP 表示，10 月企業增加了 86,000 個就業機會。勞動市場出現小幅改善跡象。"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "ADP稱，10月私人企業增加了86,000個就業崗位，略高於預期",
-          "url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "ADP 表示，10 月企業增加了 86,000 個就業機會。勞動市場出現小幅改善跡象。",
-          "url": "https://www.marketwatch.com/story/adp-says-businesses-add-86-000-jobs-in-october-labor-market-shows-small-signs-of-improvement-64c89fd3?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "CVS 計畫拆分健康集團",
-      "summary": [
-        "Yahoo Finance：CVS 計畫拆分健康集團",
-        "Bloomberg Tech：CVS 計劃拆分價值 1,170 億美元的醫療保健集團"
+        "Yahoo Finance：SpaceX 與高通達成協議，星鏈距離成為美國第四大無線營運商又更近了一步",
+        "Bloomberg Tech：SpaceX 與高通達成協議，向美國行動電信商發起挑戰"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "CVS 計畫拆分健康集團",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3d2cXhielRFdG8zU1dad2RISHozT1VVSXpVWWJ4eHNadFlGSjVrcUhYMUtqX2FBMFk5RXAxaUp4dEFpYXpTUnRGeldnem9KUFp0WTRSRWkySnpzcnNUWjBvM0VfMjZ0Z2pCcHVLenlGd09LMzNEQWdGUjE5Yi02U1FuRUxVYXJ0Y3hkaDJOTXgwcGc?oc=5"
+          "title": "SpaceX 與高通達成協議，星鏈距離成為美國第四大無線營運商又更近了一步",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMUdVZnZzSjFDdnBCZS14SkR1MXRZMXNFMm53RXM0eGFOOVFORXo3MXVLWkNFVWdxSHpuYU5vNGFrQi1ycHVMekRkZlQzY0VWX29vdnR2a1R5UFp0ZnVTRmFMT3ZxSXBQSkM4ZUtHTWZ2ZXgtSnVOZFNncjR5anRweVc2eUtmb2xkVlZsSjdUSkFWUFppQWg0bHZBMGlsMndQLUlQVnRHNXEtRGZZWG85RnpGV0NaOFJwWWZPQXFibDI1T2JZZkpoUFhQcjZkcXZQWWpqQ2ZfNFNxQzJ3Vm9QUUdjblFTZ3ZhSGhOVGxobw?oc=5"
         },
         {
           "source": "Bloomberg Tech",
-          "title": "CVS 計劃拆分價值 1,170 億美元的醫療保健集團",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-04/cvs-plans-to-break-up-117b-healthcare-conglomerate-video"
+          "title": "SpaceX 與高通達成協議，向美國行動電信商發起挑戰",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-04/spacex-ups-challenge-to-us-mobile-carriers-with-qualcomm-video"
         }
       ]
     },
     {
-      "rank": 7,
+      "rank": 3,
       "title": "SpaceX正與高通合作建造其星鏈行動5G網路路",
       "summary": [
         "The Verge：SpaceX正與高通合作建造其星鏈行動5G網路路",
@@ -379,7 +295,28 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
+      "title": "谷歌因計劃關閉限制人工智慧的學校而面臨強烈反對",
+      "summary": [
+        "TechCrunch：谷歌因計劃關閉限制人工智慧的學校而面臨強烈反對",
+        "NHK新聞：谷歌限制學校學習服務的人工智慧功能"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "谷歌因計劃關閉限制人工智慧的學校而面臨強烈反對",
+          "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "谷歌限制學校學習服務的人工智慧功能",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261105de70783"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "美國中期選舉結果對希望減免關稅的加拿大人來說是“勝利”",
       "summary": [
         "BBC World：美國中期選舉結果對希望減免關稅的加拿大人來說是“勝利”",
@@ -400,7 +337,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "民主黨在中期選舉中取得關鍵勝利，美國股指期貨漲跌互現",
       "summary": [
         "Yahoo Finance：民主黨在中期選舉中取得關鍵勝利，美國股指期貨漲跌互現",
@@ -421,7 +358,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "歐洲將向晶片新創公司投資 5.25 億歐元以趕上美國和中國",
       "summary": [
         "Investing.com：歐洲將向晶片新創公司投資 5.25 億歐元以趕上美國和中國",
@@ -438,6 +375,69 @@
           "source": "法廣RFI",
           "title": "歐洲將向晶片初創企業投資5.25億歐元，追趕美國與中國",
           "url": "https://www.rfi.fr/tw/%E7%A7%91%E6%8A%80%E8%88%87%E6%96%87%E5%8C%96/20261104-%E6%AD%90%E6%B4%B2%E5%B0%87%E5%90%91%E8%8A%AF%E7%89%87%E5%88%9D%E5%89%B5%E4%BC%81%E6%A5%AD%E6%8A%95%E8%B3%875-25%E5%84%84%E6%AD%90%E5%85%83%EF%BC%8C%E8%BF%BD%E8%B6%95%E7%BE%8E%E5%9C%8B%E8%88%87%E4%B8%AD%E5%9C%8B"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "法國一家銀行遭遇網路攻擊，涉案金額約1億歐元",
+      "summary": [
+        "法廣RFI：法國一家銀行遭遇網路攻擊，涉案金額約1億歐元",
+        "NHK新聞：法國銀行遭受網路攻擊可能導致資金洩露"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "法國一家銀行遭遇網路攻擊，涉案金額約1億歐元",
+          "url": "https://www.rfi.fr/tw/%E7%A4%BE%E6%9C%83/20261104-%E6%B3%95%E5%9C%8B%E4%B8%80%E5%AE%B6%E9%8A%80%E8%A1%8C%E9%81%AD%E9%81%87%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A%EF%BC%8C%E6%B6%89%E6%A1%88%E9%87%91%E9%A1%8D%E7%B4%841%E5%84%84%E6%AD%90%E5%85%83"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "法國銀行遭受網路攻擊可能導致資金洩露",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261105de70718"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "高盛與阿波羅正在洽談出售 SpaceX 價值 400 億美元的人工智慧交易",
+      "summary": [
+        "Bloomberg Tech：高盛與阿波羅正在洽談出售 SpaceX 價值 400 億美元的人工智慧交易",
+        "Investing.com：根據彭博社報道，高盛和阿波羅正在尋找 400 億美元 SpaceX 人工智慧晶片交易的買家"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "高盛與阿波羅正在洽談出售 SpaceX 價值 400 億美元的人工智慧交易",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/goldman-apollo-in-talks-to-sell-spacex-s-40-billion-ai-deal"
+        },
+        {
+          "source": "Investing.com",
+          "title": "根據彭博社報道，高盛和阿波羅正在尋找 400 億美元 SpaceX 人工智慧晶片交易的買家",
+          "url": "https://www.investing.com/news/stock-market-news/goldman-apollo-seek-buyers-for-40-billion-spacex-ai-chip-deal-bloomberg-news-reports-5001393"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "成立數月的晶片新創公司 Tenspresso 正在洽談 5 億美元估值",
+      "summary": [
+        "Bloomberg Tech：成立數月的晶片新創公司 Tenspresso 正在洽談 5 億美元估值",
+        "Investing.com：晶片新創公司 Tenspresso 估值達 5 億美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "成立數月的晶片新創公司 Tenspresso 正在洽談 5 億美元估值",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/months-old-chip-startup-tenspresso-in-talks-for-500-million-valuation"
+        },
+        {
+          "source": "Investing.com",
+          "title": "晶片新創公司 Tenspresso 估值達 5 億美元",
+          "url": "https://www.investing.com/news/stock-market-news/chip-startup-tenspresso-eyes-500m-valuation--bloomberg-93CH-5001738"
         }
       ]
     }
