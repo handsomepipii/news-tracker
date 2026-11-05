@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-05 07:20",
+  "updated_at": "2026-11-05 08:13",
   "taiwan": [
     {
       "rank": 1,
+      "title": "美國期中選舉民主黨大勝　重要數字一次看",
+      "summary": [
+        "經濟日報：美國期中選舉民主黨大勝　重要數字一次看",
+        "工商時報：美期中選舉》民主黨上演「史詩級大勝」！橫掃參眾兩院連共和黨票倉德州都變天- 國際",
+        "自由時報：美期中選舉 民主黨大勝 拿下參眾兩院"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美國期中選舉民主黨大勝　重要數字一次看",
+          "url": "https://money.udn.com/money/story/5599/9857776"
+        },
+        {
+          "source": "工商時報",
+          "title": "美期中選舉》民主黨上演「史詩級大勝」！橫掃參眾兩院連共和黨票倉德州都變天- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SVkhzMTdzSks1b0pacnR0bzh2RjlqMnhjOVd2XzBRTEI2UldfU2k4UHVkbGFLSDBzSHZnTzR5Rlp5RDVnNkJmcEkwb2h4Y2pYcGpNeDh1b3J3NzRFUDJR?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "美期中選舉 民主黨大勝 拿下參眾兩院",
+          "url": "https://news.ltn.com.tw/news/world/paper/1777205"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "美期中選舉共和黨慘敗　白宮發文強調川普「仍是你們的總統」",
       "summary": [
         "自由時報：美期中選舉共和黨慘敗　白宮發文強調川普「仍是你們的總統」",
@@ -29,7 +56,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "湖口火警連發！住宅深夜失火5人受困獲救 3人送醫",
       "summary": [
         "自由時報：湖口火警連發！住宅深夜失火5人受困獲救 3人送醫",
@@ -50,112 +77,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "董總親自鞠躬道歉！永豐銀遭盜轉4176萬 將向供應商求償",
-      "summary": [
-        "自由時報：董總親自鞠躬道歉！永豐銀遭盜轉4176萬 將向供應商求償",
-        "科技新報：永豐銀證實遭外部駭客盜轉！董總鞠躬致歉「墊付 4,176 萬全額退款」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "董總親自鞠躬道歉！永豐銀遭盜轉4176萬 將向供應商求償",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5629662"
-        },
-        {
-          "source": "科技新報",
-          "title": "永豐銀證實遭外部駭客盜轉！董總鞠躬致歉「墊付 4,176 萬全額退款」",
-          "url": "https://finance.technews.tw/2026/11/04/unauthorized-account-transfer/"
-        }
-      ]
-    },
-    {
       "rank": 4,
-      "title": "美期中選舉》民主黨「史詩級大勝」！共和黨鐵票倉德州都變天",
-      "summary": [
-        "中時新聞：美期中選舉》民主黨「史詩級大勝」！共和黨鐵票倉德州都變天",
-        "工商時報：美期中選舉》民主黨上演「史詩級大勝」！橫掃參眾兩院連共和黨票倉德州都變天- 國際"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "美期中選舉》民主黨「史詩級大勝」！共和黨鐵票倉德州都變天",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oc1FWQ3ZKMzdLRmpXNXczclBBcUdaejN0UGpKVzAyVVl0RHBhSEJIRE4wQUo3VnNOZFhkNTdpWUtfWnpDWV9yeXRxVFo5WnRPS2lYSGlYRmJFUzVoX1NVT3ZGYWZEbUMwdjMycEZ3?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "美期中選舉》民主黨上演「史詩級大勝」！橫掃參眾兩院連共和黨票倉德州都變天- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SVkhzMTdzSks1b0pacnR0bzh2RjlqMnhjOVd2XzBRTEI2UldfU2k4UHVkbGFLSDBzSHZnTzR5Rlp5RDVnNkJmcEkwb2h4Y2pYcGpNeDh1b3J3NzRFUDJR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "納坦雅胡拖垮共和黨選情？川普宣佈每年40億美元軍援以色列喊停",
-      "summary": [
-        "關鍵評論網：納坦雅胡拖垮共和黨選情？川普宣佈每年40億美元軍援以色列喊停",
-        "TVBS新聞：【少康戰情室精華版】期中選舉敗選！川普喊將停止對以色列援助 拋震撼彈藏玄機？甚至低頭表態稱願和民主黨合作 2028總統戰開跑？2黨熱門人選曝#林秉宥 #周榆修 #侯漢廷 #林沛祥 #遊淑慧 #邸聖德"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "關鍵評論網",
-          "title": "納坦雅胡拖垮共和黨選情？川普宣佈每年40億美元軍援以色列喊停",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3V2hYMU9wUjJaZ0tPQ2t5QTNuTDhKVE9hTmRqZW42cmxqeXpnTE93MTMyNlZGN29FR1ZtRWNSNlAySTBYZWZnckc3WGJxR004eGticg?oc=5"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "【少康戰情室精華版】期中選舉敗選！川普喊將停止對以色列援助 拋震撼彈藏玄機？甚至低頭表態稱願和民主黨合作 2028總統戰開跑？2黨熱門人選曝#林秉宥 #周榆修 #侯漢廷 #林沛祥 #遊淑慧 #邸聖德",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13MTBoWDQ1VW9DcjJONkpnQlRaZmZtZXhkMHJMT2JMdHZWdlRKTGttQmlVRjVfUVhmWDFMSTdyX0M0MG83dERPV2ZLMzI3a1RrSUNTUWhn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "永豐銀行異常轉帳確認為駭客攻擊，供應商安全設定漏洞遭利用",
-      "summary": [
-        "iThome：永豐銀行異常轉帳確認為駭客攻擊，供應商安全設定漏洞遭利用",
-        "財訊：永豐銀行異常轉帳原因找到了！駭客利用供應商安全設定 419人受影響、款項已全數返還"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "永豐銀行異常轉帳確認為駭客攻擊，供應商安全設定漏洞遭利用",
-          "url": "https://www.ithome.com.tw/news/180233"
-        },
-        {
-          "source": "財訊",
-          "title": "永豐銀行異常轉帳原因找到了！駭客利用供應商安全設定 419人受影響、款項已全數返還",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZdWpUbmcyMk5mVzRYR2gzU001VENkRE1fZ3ctZVF2Qm4waHNxNDNzazl3YmFtdTdRVzhjZ2NKYnZyM3BVc2s1TGh0a2Q0aVdZMDBEemRGR2ktNXgwdko5bzJWUVBVb1BVemk1TFlNMEhNMG5zc1A0RzgyZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "從科研突破到商業落地  FITI協助學研團隊釐清商業定位",
-      "summary": [
-        "INSIDE硬塞：從科研突破到商業落地  FITI協助學研團隊釐清商業定位",
-        "關鍵評論網：從科研突破到商業落地 FITI協助學研團隊釐清商業定位"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "INSIDE硬塞",
-          "title": "從科研突破到商業落地  FITI協助學研團隊釐清商業定位",
-          "url": "https://www.inside.com.tw/article/42823-FITI"
-        },
-        {
-          "source": "關鍵評論網",
-          "title": "從科研突破到商業落地 FITI協助學研團隊釐清商業定位",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44djNKUUtLNXVrYlVNcHJhZ0k0TmNXaUEzVExHRTZrZm0tLTNUT1VDOXY2X0dNQ2JtOU1OVkVjQWtDOVZCOGtQUTBUQVBtT1JSSl92eg?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "《大學生》女星公開挺沈伯洋！昔曾遭中國封殺：我真的很愛臺灣",
       "summary": [
         "自由時報：《大學生》女星公開挺沈伯洋！昔曾遭中國封殺：我真的很愛臺灣",
@@ -176,28 +98,28 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "美國期中選舉民主黨大勝　重要數字一次看",
+      "rank": 5,
+      "title": "何欣純贏江啟臣10％？ 最新臺中市長選舉街訪民調超刺激- 政治",
       "summary": [
-        "經濟日報：美國期中選舉民主黨大勝　重要數字一次看",
-        "自由時報：美期中選舉 民主黨大勝 拿下參眾兩院"
+        "中時新聞：何欣純贏江啟臣10％？ 最新臺中市長選舉街訪民調超刺激- 政治",
+        "財訊：新北都更再升級！大陳到頂溪見證城市翻轉｜#老謝開講–臺灣好城市#財訊@謝金河feat 新北市政府-財訊雙週刊"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "美國期中選舉民主黨大勝　重要數字一次看",
-          "url": "https://money.udn.com/money/story/5599/9857776"
+          "source": "中時新聞",
+          "title": "何欣純贏江啟臣10％？ 最新臺中市長選舉街訪民調超刺激- 政治",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40OWI3VkRwMEhIT3NhQjhreWdjQml3emxaZkVWeTJ5eTNfTlBidHRRakQwZlRKQ2wwSHR1Qm0tYVE4X2FoWFBsYmgwTm5qWWFmMVpBTzZNVF9YXzlGT2ZkLWVnR3cyN3BRb2dweUhn?oc=5"
         },
         {
-          "source": "自由時報",
-          "title": "美期中選舉 民主黨大勝 拿下參眾兩院",
-          "url": "https://news.ltn.com.tw/news/world/paper/1777205"
+          "source": "財訊",
+          "title": "新北都更再升級！大陳到頂溪見證城市翻轉｜#老謝開講–臺灣好城市#財訊@謝金河feat 新北市政府-財訊雙週刊",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wamVrMS1EcGdMX2hhOHJqT2RHMGZ1dEZyVkxpblN2SFNWemcwUHlaMWFFN0dkY3Y4MmJKZjBMZzJsTUFrQV9ERWxiVHNuUEVmZ3JYbVl4UHZnWEc1UlZyX0Z2ckNvZ2EwdEw2ZGpOZ2NvS3BrZDFWXw?oc=5"
         }
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "期中選舉民主黨重掌國會川普讓美再次偉大政策失靈｜20261104 公視晚間新聞｜ 公視新聞PNN",
       "summary": [
         "公視新聞：期中選舉民主黨重掌國會川普讓美再次偉大政策失靈｜20261104 公視晚間新聞｜ 公視新聞PNN",
@@ -216,38 +138,95 @@
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vZG5jbHlDLUdKOHlQTDFYTWIzZk1lMVJvYWE1N0xWWmFQc1BUdkp2TnFOS2NLalRPMnd6bVIzQ1Vrc0JzU0hiTlNqcldkZw?oc=5"
         }
       ]
+    },
+    {
+      "rank": 7,
+      "title": "房市冷到買氣縮！全臺房貸最熱10區出爐　桃園這區竟奪冠",
+      "summary": [
+        "自由時報：房市冷到買氣縮！全臺房貸最熱10區出爐　桃園這區竟奪冠",
+        "鉅亨網：〈房產〉全臺第二季十大房貸熱區出爐 桃園這一區最熱賣"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "房市冷到買氣縮！全臺房貸最熱10區出爐　桃園這區竟奪冠",
+          "url": "https://estate.ltn.com.tw/article/29230"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "〈房產〉全臺第二季十大房貸熱區出爐 桃園這一區最熱賣",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XUV9haC1UWFpGSGVuanEteUU2eHg5U3RxMEFnVUdDQjFWamEyRUhEZnpPank5V1lDWHkydHE5QmY4WFZfWlhlSHlBM3lzSzg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "繳清房貸僅花「2分鐘」塗銷抵押權! 北市府推AI地政服務｜TVBS新聞 @TVBSNEWS02 │ TVBS新聞網",
+      "summary": [
+        "TVBS新聞：繳清房貸僅花「2分鐘」塗銷抵押權! 北市府推AI地政服務｜TVBS新聞 @TVBSNEWS02 │ TVBS新聞網",
+        "自由時報：房貸還完不用跑地政了！北市祭新招 塗銷抵押權2分鐘搞定"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "繳清房貸僅花「2分鐘」塗銷抵押權! 北市府推AI地政服務｜TVBS新聞 @TVBSNEWS02 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RdlJKN3lCdVdQdl9oZkVmZkZqUHEzTkhCdnpLTVZBQWcyc0tCQS1VMExoTUh5SWxOZ1djZ0J0NVFPem1UbkZEcFdxYm9fLWU1bTl6T2tn?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "房貸還完不用跑地政了！北市祭新招 塗銷抵押權2分鐘搞定",
+          "url": "https://estate.ltn.com.tw/article/29237"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "竹南鎮長候選人何秀綿涉賄選起訴  移審續押",
+      "summary": [
+        "自由時報：竹南鎮長候選人何秀綿涉賄選起訴  移審續押",
+        "ETtoday：竹南鎮長候選人何秀綿涉賄遭起訴！同案7被告4人交保"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "竹南鎮長候選人何秀綿涉賄選起訴  移審續押",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5629815"
+        },
+        {
+          "source": "ETtoday",
+          "title": "竹南鎮長候選人何秀綿涉賄遭起訴！同案7被告4人交保",
+          "url": "https://www.ettoday.net/news/20261105/3266581.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
+      "summary": [
+        "自由時報：深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
+        "經濟日報：深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629836"
+        },
+        {
+          "source": "經濟日報",
+          "title": "深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
+          "url": "https://money.udn.com/money/story/5599/9858223"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "CVS 如何建立一個現在計劃分開的醫療保健帝國",
-      "summary": [
-        "Investing.com：CVS 如何建立一個現在計劃分開的醫療保健帝國",
-        "MarketWatch：CVS Health 計劃一分為二。以下是導致大規模醫療保健分裂的原因。",
-        "Yahoo Finance：CVS 計畫拆分健康集團"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "CVS 如何建立一個現在計劃分開的醫療保健帝國",
-          "url": "https://www.investing.com/news/stock-market-news/how-cvs-built-a-healthcare-empire-it-now-plans-to-split-4998557"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "CVS Health 計劃一分為二。以下是導致大規模醫療保健分裂的原因。",
-          "url": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "CVS 計畫拆分健康集團",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3d2cXhielRFdG8zU1dad2RISHozT1VVSXpVWWJ4eHNadFlGSjVrcUhYMUtqX2FBMFk5RXAxaUp4dEFpYXpTUnRGeldnem9KUFp0WTRSRWkySnpzcnNUWjBvM0VfMjZ0Z2pCcHVLenlGd09LMzNEQWdGUjE5Yi02U1FuRUxVYXJ0Y3hkaDJOTXgwcGc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "民主黨大獲全勝 美股期貨反彈",
       "summary": [
         "Bloomberg Markets：民主黨大獲全勝 美股期貨反彈",
@@ -274,7 +253,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "高通將為 SpaceX 美國行動電話網路製造裝置",
       "summary": [
         "Bloomberg Tech：高通將為 SpaceX 美國行動電話網路製造裝置",
@@ -295,112 +274,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "各國對美國中期選舉有何反應？ 【通訊員評論】",
-      "summary": [
-        "NHK新聞：各國對美國中期選舉有何反應？ 【通訊員評論】",
-        "MarketWatch：美國人對中期選舉結果有何看法？這取決於他們賺多少錢。"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "各國對美國中期選舉有何反應？ 【通訊員評論】",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261104de70587"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "美國人對中期選舉結果有何看法？這取決於他們賺多少錢。",
-          "url": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "民主黨大勝，SpaceX、特斯拉股價下跌逾 4%；人工智慧股漲跌互現",
-      "summary": [
-        "CNBC：民主黨大勝，SpaceX、特斯拉股價下跌逾 4%；人工智慧股漲跌互現",
-        "Yahoo Finance：分析師警告民主黨的勝利將為人工智慧建設製造“重大障礙”，SpaceX、特斯拉股價下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "民主黨大勝，SpaceX、特斯拉股價下跌逾 4%；人工智慧股漲跌互現",
-          "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "分析師警告民主黨的勝利將為人工智慧建設製造“重大障礙”，SpaceX、特斯拉股價下跌",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOLW9sbEpPcUNLQmxfYTRlN1EzWTFQSThVckFBVE0yWWRoYy1uSllCWnNmcHpPTVpGMTUtVVpiWnBHcGowMWd6UW5uSWdjaUM1eGxyeG1hQzBLaFZCVzd2dFJZN2wybnBEdmo2ejJpNVlGcDB6QlFiYUJHLWgwS1VRMFFPR3VzVFdVX1hCVjVWd1RnMHRkZUEwRllueDQwTnZGZkNwSU5qLUVSem5YY0h6eU5HbmJ4T29CTGR0Ylk3cDItam9oRVJoT0dGNFBmTzRrWHA3bmtzLXk3c1JhOHk5QTJNWC1nX3NLaXNLbFNEeGhPVFRKRV92MG5R?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "CVS Health 將一分為二，將藥局業務與保險業務分開",
-      "summary": [
-        "Investing.com：CVS Health 將一分為二，將藥局業務與保險業務分開",
-        "Yahoo Finance：CVS 宣佈計劃分拆為兩家公司，將藥局與保險分開"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "CVS Health 將一分為二，將藥局業務與保險業務分開",
-          "url": "https://www.investing.com/news/stock-market-news/cvs-health-to-split-in-two-separating-pharmacy-business-from-insurance-4998559"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "CVS 宣佈計劃分拆為兩家公司，將藥局與保險分開",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNjd3aUJqQmNYU01LZDk0N0s2QVI4NWZ4ZzlKZTNlZW5aWkhLNnBKVXpERTltRGNteGR0c0xCVG5Ic2ZSX1RNTjZUeU1hdjFFV1hqeVdoZWFTS25KNzBCdXhwWVBJaEM0YVp0U0djMmlzRTN3MVZHcFVXdWNKVHVudmNRVW1oaEFub21xeEhPNnNlNlBBMXRzQUUwNnB0VVZFRGR2bEdUa2dYaFhPMXR4aUNkSUhhTGJjZnF6QUVQV0YxOFNybkM1UVozUUR2dy1RVGc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "薩爾達傳說：時之笛永遠不會過時",
-      "summary": [
-        "The Verge：薩爾達傳說：時之笛永遠不會過時",
-        "Wccftech：《薩爾達傳說：時之笛》評論－永恆經典的誘人調整"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "薩爾達傳說：時之笛永遠不會過時",
-          "url": "https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2"
-        },
-        {
-          "source": "Wccftech",
-          "title": "《薩爾達傳說：時之笛》評論－永恆經典的誘人調整",
-          "url": "https://wccftech.com/review/the-legend-of-zelda-ocarina-of-time/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "AMD 預計第四季銷量史上首次超過英特爾",
-      "summary": [
-        "Tom's Hardware：AMD 預計第四季銷量史上首次超過英特爾",
-        "Wccftech：AMD 史上首次超過英特爾，第四季營收將達到 170 億美元，而英特爾的中點預測為 155 億美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Tom's Hardware",
-          "title": "AMD 預計第四季銷量史上首次超過英特爾",
-          "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections"
-        },
-        {
-          "source": "Wccftech",
-          "title": "AMD 史上首次超過英特爾，第四季營收將達到 170 億美元，而英特爾的中點預測為 155 億美元",
-          "url": "https://wccftech.com/amd-is-set-to-out-earn-intel-for-the-first-time-in-its-history-guiding-to-17-billion-in-q4-revenue-against-intels-15-5-billion-midpoint-projection/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 3,
       "title": "CVS Health 將拆分價值 1,170 億美元的醫療保健帝國",
       "summary": [
         "Financial Times：CVS Health 將拆分價值 1,170 億美元的醫療保健帝國",
@@ -421,7 +295,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 4,
       "title": "美國抵押貸款利率連續第三週回落，但仍維持在 7% 以上",
       "summary": [
         "Bloomberg Markets：美國抵押貸款利率連續第三週回落，但仍維持在 7% 以上",
@@ -438,6 +312,132 @@
           "source": "CNBC",
           "title": "抵押貸款利率連續第三週下降，但購屋者仍在離開市場",
           "url": "https://www.cnbc.com/2026/11/04/mortgage-rates-dropped-homebuyers-still-leaving.html"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "CVS Health 計劃一分為二。以下是導致大規模醫療保健分裂的原因。",
+      "summary": [
+        "MarketWatch：CVS Health 計劃一分為二。以下是導致大規模醫療保健分裂的原因。",
+        "Yahoo Finance：CVS 計畫拆分健康集團"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MarketWatch",
+          "title": "CVS Health 計劃一分為二。以下是導致大規模醫療保健分裂的原因。",
+          "url": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "CVS 計畫拆分健康集團",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3d2cXhielRFdG8zU1dad2RISHozT1VVSXpVWWJ4eHNadFlGSjVrcUhYMUtqX2FBMFk5RXAxaUp4dEFpYXpTUnRGeldnem9KUFp0WTRSRWkySnpzcnNUWjBvM0VfMjZ0Z2pCcHVLenlGd09LMzNEQWdGUjE5Yi02U1FuRUxVYXJ0Y3hkaDJOTXgwcGc?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "卡夫亨氏將在卡西蘭的扭虧為盈之際剝離北美咖啡部門",
+      "summary": [
+        "Investing.com：卡夫亨氏將在卡西蘭的扭虧為盈之際剝離北美咖啡部門",
+        "CNBC：卡夫亨氏將以 6.5 億美元的交易剝離北美咖啡業務"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "卡夫亨氏將在卡西蘭的扭虧為盈之際剝離北美咖啡部門",
+          "url": "https://www.investing.com/news/stock-market-news/kraft-heinz-to-divest-north-america-coffee-unit-amid-cahillanes-turnaround-effort-4998915"
+        },
+        {
+          "source": "CNBC",
+          "title": "卡夫亨氏將以 6.5 億美元的交易剝離北美咖啡業務",
+          "url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "「這是一場災難」：憤怒的共和黨人將中期選舉失敗歸咎於川普",
+      "summary": [
+        "BBC World：「這是一場災難」：憤怒的共和黨人將中期選舉失敗歸咎於川普",
+        "Washington Post：川普將失敗歸咎於共和黨候選人、油價和他缺席投票"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "「這是一場災難」：憤怒的共和黨人將中期選舉失敗歸咎於川普",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Washington Post",
+          "title": "川普將失敗歸咎於共和黨候選人、油價和他缺席投票",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcm8yRDN0ODJJUUd4WVlJTjk0Y0Z3ZWM2SFNOZ0pfUTJaUjd1QThhTDRveDdxV0hoZW12WUZKeFp0aUVZQnpucVRHZjZzcHZRVk1NRmRibXdjdW1WSk5VTmc1dGRVOW1CeDNLMzFmVFlUcklENUhGMC00OHdEUHlhZ1dpOWs0SFQzWEx2ZmpwMlJiTGxxVWozaVJWcHBleWU5S0pyU012VzRUcnNLcWFNV19rbzdLbDBpbkdzRUNTU3JZZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "ADP稱，10月私人企業新增就業人數86,000個，略高於預期",
+      "summary": [
+        "CNBC：ADP稱，10月私人企業新增就業人數86,000個，略高於預期",
+        "MarketWatch：ADP 表示，10 月企業增加了 86,000 個就業機會。勞動市場出現小幅改善跡象。"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "ADP稱，10月私人企業新增就業人數86,000個，略高於預期",
+          "url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "ADP 表示，10 月企業增加了 86,000 個就業機會。勞動市場出現小幅改善跡象。",
+          "url": "https://www.marketwatch.com/story/adp-says-businesses-add-86-000-jobs-in-october-labor-market-shows-small-signs-of-improvement-64c89fd3?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "政策寬鬆引發健保和醫院股飆升",
+      "summary": [
+        "Investing.com：政策寬鬆引發健保和醫院股飆升",
+        "MarketWatch：醫院股上漲，藥廠準備接受審查。這就是民主黨浪潮對醫療保健的意義。"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "政策寬鬆引發健保和醫院股飆升",
+          "url": "https://www.investing.com/news/stock-market-news/policy-relief-sparks-surge-in-health-insurance-and-hospital-stocks-4999489"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "醫院股上漲，藥廠準備接受審查。這就是民主黨浪潮對醫療保健的意義。",
+          "url": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "SpaceX正與高通合作建造其星鏈行動5G網路路",
+      "summary": [
+        "The Verge：SpaceX正與高通合作建造其星鏈行動5G網路路",
+        "Yahoo Finance：高通與 SpaceX 的交易可能重塑 5G 的未來"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "SpaceX正與高通合作建造其星鏈行動5G網路路",
+          "url": "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "高通與 SpaceX 的交易可能重塑 5G 的未來",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMTlGaHp2WmNxdUN4Vmw5aURRUk9HanpORkEtQUNJLTlfQmhVaHFHZzI2QnJHZ0ZtTjJTcUFkZFRSMko0ai1TVFo5VkZzRmQ4MEMxUndybDV4enpHN2pTQWk4S2xPdTljeThaN292anEtQzl6TUREZVVwbHY3ajgzUUxSVFZvSng5czNhVjdZRWRrUlpBeTVnQmRVVVRONXM?oc=5"
         }
       ]
     }
