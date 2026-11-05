@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 05:47",
+  "updated_at": "2026-11-06 06:55",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "巴拉圭總統潘尼亞捲銀行風暴請辭　副總統阿里亞納接任",
+      "summary": [
+        "自由時報：巴拉圭總統潘尼亞捲銀行風暴請辭　副總統阿里亞納接任",
+        "經濟日報：巴拉圭總統潘尼亞捲銀行風暴請辭　副總統阿里亞納接任",
+        "ETtoday：巴拉圭副總統阿里亞納接任　總統捲銀行風暴請辭"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "巴拉圭總統潘尼亞捲銀行風暴請辭　副總統阿里亞納接任",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631130"
+        },
+        {
+          "source": "經濟日報",
+          "title": "巴拉圭總統潘尼亞捲銀行風暴請辭　副總統阿里亞納接任",
+          "url": "https://money.udn.com/money/story/5599/9860868"
+        },
+        {
+          "source": "ETtoday",
+          "title": "巴拉圭副總統阿里亞納接任　總統捲銀行風暴請辭",
+          "url": "https://www.ettoday.net/news/20261106/3267243.htm"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "【LIVE】伊朗嘲諷川普期中選舉大敗 傳美軍已準備好大規模作戰 20261105 ｜TVBS看世界",
       "summary": [
         "TVBS新聞：【LIVE】伊朗嘲諷川普期中選舉大敗 傳美軍已準備好大規模作戰 20261105 ｜TVBS看世界",
@@ -46,27 +73,6 @@
           "source": "公視新聞",
           "title": "美國期中選舉／民主黨全面掌控國會川普坦言共和黨敗選和伊朗戰爭有關｜#公視新聞網#Shorts ｜ 公視新聞PNN",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UaUFzaEpRa3lNd0s3X0RBQzlQaXRtQ3JabE9qZ1kwbHhYbjdlWEVkbkxhUWpFLUlGQ01uMzdVbTFRTUFEbkl2X05GZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "【資安日報】11月5日，法國國家血液機構冷藏裝置遭網路攻擊，3處設施溫度控制遭竄改",
-      "summary": [
-        "iThome：【資安日報】11月5日，法國國家血液機構冷藏裝置遭網路攻擊，3處設施溫度控制遭竄改",
-        "公開資訊觀測站重訊：【資安日報】11月5日，法國國家血液機構冷藏裝置遭網路攻擊，3處設施溫度控制遭竄改"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "【資安日報】11月5日，法國國家血液機構冷藏裝置遭網路攻擊，3處設施溫度控制遭竄改",
-          "url": "https://www.ithome.com.tw/news/180260"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "【資安日報】11月5日，法國國家血液機構冷藏裝置遭網路攻擊，3處設施溫度控制遭竄改",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44aEwwejBzaGZ1SFUwWEN0dHhrYVF1U2x1cVdnNF9pdUpES1lFd2U3dVRlbWtzQmJ2c3owRVM3cDZzSUs5VjVxZWhNSWU0Zw?oc=5"
         }
       ]
     },
@@ -198,22 +204,22 @@
     },
     {
       "rank": 10,
-      "title": "避開美國出口管制　中國AI新創月之暗面轉向歐洲租輝達晶片算力",
+      "title": "竹縣五峰鄉某村長參選人兒涉賄選　檢聲押禁見",
       "summary": [
-        "自由時報：避開美國出口管制　中國AI新創月之暗面轉向歐洲租輝達晶片算力",
-        "經濟日報：避開美國出口管制　中國AI新創月之暗面轉向歐洲租輝達晶片算力"
+        "自由時報：竹縣五峰鄉某村長參選人兒涉賄選　檢聲押禁見",
+        "ETtoday：新竹縣「村長候選人」兒涉賄選　聲押禁見"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "避開美國出口管制　中國AI新創月之暗面轉向歐洲租輝達晶片算力",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631126"
+          "title": "竹縣五峰鄉某村長參選人兒涉賄選　檢聲押禁見",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5631111"
         },
         {
-          "source": "經濟日報",
-          "title": "避開美國出口管制　中國AI新創月之暗面轉向歐洲租輝達晶片算力",
-          "url": "https://money.udn.com/money/story/5599/9860854"
+          "source": "ETtoday",
+          "title": "新竹縣「村長候選人」兒涉賄選　聲押禁見",
+          "url": "https://www.ettoday.net/news/20261106/3267237.htm"
         }
       ]
     }
@@ -221,135 +227,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "亞馬遜為其主要訂戶增加 Uber 送餐福利",
-      "summary": [
-        "Bloomberg Tech：亞馬遜為其主要訂戶增加 Uber 送餐福利",
-        "The Verge：亞馬遜與 Uber Eats 合作重返餐廳外送領域",
-        "Yahoo Finance：亞馬遜與Uber Eats優食合作，為Prime會員提供餐廳外送服務"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "亞馬遜為其主要訂戶增加 Uber 送餐福利",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-05/amazon-adds-uber-food-delivery-perks-for-its-prime-subscribers"
-        },
-        {
-          "source": "The Verge",
-          "title": "亞馬遜與 Uber Eats 合作重返餐廳外送領域",
-          "url": "https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "亞馬遜與Uber Eats優食合作，為Prime會員提供餐廳外送服務",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaDJ0ZzAwbzhmQm1UX216QkRHMUQyRk5GSk1KQ2E3Y2dtQUFHUmtDQUgyT3JOTmdVSUE1U2xaQktFeUd6OWNrU0Jybjc3TmFManBOSVY5dm1nMnJuZjFhM2VudTh1b2VObHVPejBQRjBITWJvZXNtTEdPcm54eU9oTmpVczk3a1NXYUNlUjN0Z0JFS1lLd2FNM0hIZHRiYkVYT2lHcDNtR3hSM25IdnhSb1VRMDI3dTRhbzc3Z1NVR2owejV2UHVoT2U1NnVYR3Z6Y1E?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "歐洲客機持續受到炸彈威脅",
-      "summary": [
-        "NHK新聞：歐洲客機持續受到炸彈威脅",
-        "Washington Post：炸彈威脅針對歐洲多個航班",
-        "CNBC：炸彈威脅第二次擾亂歐洲各地的航班。這是我們所知道的"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "歐洲客機持續受到炸彈威脅",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261105de71269"
-        },
-        {
-          "source": "Washington Post",
-          "title": "炸彈威脅針對歐洲多個航班",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGoyS2tha2hmX3V1UWhFa2NvQjRPNlRJWENYOEY3dWtOdnZuQjNjMlVmMllXY3MtS0tpM0pIT25fT1Z5M2lYWXFtN3IzWGc5dVVkaE5zSzlsUFNGcHR2QXduSHoyUVp6U1AzOEtYQVU5MFNXWGNhY3F5R3R4MmtIc3UtX09ROFBzNlpmMVJKNV9ZZHFRN3pTaGQwYkNrQ3pz?oc=5"
-        },
-        {
-          "source": "CNBC",
-          "title": "炸彈威脅第二次擾亂歐洲各地的航班。這是我們所知道的",
-          "url": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "巴拉圭總統聖地亞哥·佩納因銀行倒閉而辭職",
-      "summary": [
-        "BBC World：巴拉圭總統聖地亞哥·佩納因銀行倒閉而辭職",
-        "The Guardian：巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
-        "WSJ Markets：巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "巴拉圭總統聖地亞哥·佩納因銀行倒閉而辭職",
-          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
-          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機",
-          "url": "https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "藍色起源將發射推遲到 2027 年",
-      "summary": [
-        "Financial Times：藍色起源將發射推遲到 2027 年",
-        "CNBC：藍色起源將發射推遲到 2027 年 1 月，因為它正在努力重建受損的發射臺",
-        "The Verge：藍色起源的下一次發射要到 2027 年才會發生"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "藍色起源將發射推遲到 2027 年",
-          "url": "https://www.ft.com/content/39efbb7e-44a3-4a75-883b-e76ed6f9f5fd?syn-25a6b1a6=1"
-        },
-        {
-          "source": "CNBC",
-          "title": "藍色起源將發射推遲到 2027 年 1 月，因為它正在努力重建受損的發射臺",
-          "url": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html"
-        },
-        {
-          "source": "The Verge",
-          "title": "藍色起源的下一次發射要到 2027 年才會發生",
-          "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "美光在勞資糾紛後暫停了價值 45 億美元的臺灣工廠的建設",
-      "summary": [
-        "Bloomberg Tech：美光在勞資糾紛後暫停了價值 45 億美元的臺灣工廠的建設",
-        "Tom's Hardware：美光耗資 45 億美元的桃園工廠建設因勞資糾紛而暫停"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "美光在勞資糾紛後暫停了價值 45 億美元的臺灣工廠的建設",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "美光耗資 45 億美元的桃園工廠建設因勞資糾紛而暫停",
-          "url": "https://www.tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "分析：特朗普中期選舉遭遇政治挫折 於中國或是“短期獲益，長期受損”",
       "summary": [
         "德國之聲：分析：特朗普中期選舉遭遇政治挫折 於中國或是“短期獲益，長期受損”",
@@ -370,7 +247,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 2,
       "title": "另有 14 架歐洲航班收到炸彈威脅",
       "summary": [
         "Financial Times：另有 14 架歐洲航班收到炸彈威脅",
@@ -391,28 +268,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "英國央行將三年來首次升息以對抗通膨",
-      "summary": [
-        "Financial Times：英國央行將三年來首次升息以對抗通膨",
-        "NHK新聞：英國央行3年3個月來首次升息抑制物價因應中東局勢"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "英國央行將三年來首次升息以對抗通膨",
-          "url": "https://www.ft.com/content/290cf85b-6d95-4c79-af9b-e2a3d79072f6?syn-25a6b1a6=1"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "英國央行3年3個月來首次升息抑制物價因應中東局勢",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261106de71304"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 3,
       "title": "民主黨威脅減緩人工智慧支出，大型科技股飆漲",
       "summary": [
         "Bloomberg Tech：民主黨威脅減緩人工智慧支出，大型科技股飆漲",
@@ -433,23 +289,149 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "溫蒂拒絕納爾遜佩爾茨提出特里安的收購提議",
+      "rank": 4,
+      "title": "Wendy's rejects takeover proposal from Nelson Peltz’s Trian",
       "summary": [
-        "CNBC：溫蒂拒絕納爾遜佩爾茨提出特里安的收購提議",
-        "Bloomberg Markets：Wendy 的拒絕 Peltz 的 Trian 的收購要約"
+        "CNBC：Wendy's rejects takeover proposal from Nelson Peltz’s Trian",
+        "Bloomberg Markets：Wendy's 拒絕 Peltz's Trian 的收購要約"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "CNBC",
-          "title": "溫蒂拒絕納爾遜佩爾茨提出特里安的收購提議",
+          "title": "Wendy's rejects takeover proposal from Nelson Peltz’s Trian",
           "url": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html"
         },
         {
           "source": "Bloomberg Markets",
-          "title": "Wendy 的拒絕 Peltz 的 Trian 的收購要約",
+          "title": "Wendy's 拒絕 Peltz's Trian 的收購要約",
           "url": "https://www.bloomberg.com/news/videos/2026-11-05/wendy-s-rejects-takeover-bid-from-peltz-s-trian-video"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Apple MacBook Pro With Touch Screen, OLED Review: Display Is An Added Bonus",
+      "summary": [
+        "Bloomberg Tech：Apple MacBook Pro With Touch Screen, OLED Review: Display Is An Added Bonus",
+        "The Verge：The touchscreen MacBook Pro is a winner"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Apple MacBook Pro With Touch Screen, OLED Review: Display Is An Added Bonus",
+          "url": "https://www.bloomberg.com/news/features/2026-11-05/apple-macbook-pro-with-touch-screen-oled-review-display-is-an-added-bonus"
+        },
+        {
+          "source": "The Verge",
+          "title": "The touchscreen MacBook Pro is a winner",
+          "url": "https://www.theverge.com/tech/1026570/apple-macbook-pro-proled-xdr-display-review"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+      "summary": [
+        "Ars Technica：Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+        "Wired：Motorola Signature 27: Specs, Price, Features, Release Date"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Ars Technica",
+          "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+          "url": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/"
+        },
+        {
+          "source": "Wired",
+          "title": "Motorola Signature 27: Specs, Price, Features, Release Date",
+          "url": "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "summary": [
+        "Wired：Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+        "TechCrunch：Aina 的智慧戒指配有螢幕、操縱桿和麥克風，因此您可以與人工智慧代理交談"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Wired",
+          "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+          "url": "https://www.wired.com/story/aina-smart-ring/"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Aina 的智慧戒指配有螢幕、操縱桿和麥克風，因此您可以與人工智慧代理交談",
+          "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "ElevenLabs 現在允許使用者直接在 SoundCloud 上釋出人工智慧生成的音樂",
+      "summary": [
+        "TechCrunch：ElevenLabs 現在允許使用者直接在 SoundCloud 上釋出人工智慧生成的音樂",
+        "The Verge：您可以將 AI 音樂從 ElevenLabs 直接釋出到 SoundCloud"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "ElevenLabs 現在允許使用者直接在 SoundCloud 上釋出人工智慧生成的音樂",
+          "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/"
+        },
+        {
+          "source": "The Verge",
+          "title": "您可以將 AI 音樂從 ElevenLabs 直接釋出到 SoundCloud",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "民主黨獲勝引發人工智慧延遲擔憂，納斯達克 100 指數損失 1.8 兆美元",
+      "summary": [
+        "Investing.com：民主黨獲勝引發人工智慧延遲擔憂，納斯達克 100 指數損失 1.8 兆美元",
+        "Financial Times：民主黨中期選舉大獲全勝引發人工智慧慘敗，華爾街損失 3.2 兆美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "民主黨獲勝引發人工智慧延遲擔憂，納斯達克 100 指數損失 1.8 兆美元",
+          "url": "https://www.investing.com/news/stock-market-news/ai-datacenter-stocks-slip-as-democratic-sweep-clouds-expansion-plans-5003196"
+        },
+        {
+          "source": "Financial Times",
+          "title": "民主黨中期選舉大獲全勝引發人工智慧慘敗，華爾街損失 3.2 兆美元",
+          "url": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "TikTok 悄悄推出獨立的 TikTok Shop 應用",
+      "summary": [
+        "TechCrunch：TikTok 悄悄推出獨立的 TikTok Shop 應用",
+        "The Verge：TikTok launched a dedicated TikTok Shop app"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "TikTok 悄悄推出獨立的 TikTok Shop 應用",
+          "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/"
+        },
+        {
+          "source": "The Verge",
+          "title": "TikTok launched a dedicated TikTok Shop app",
+          "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app"
         }
       ]
     }
