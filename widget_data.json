@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-05 19:00",
+  "updated_at": "2026-11-05 19:57",
   "taiwan": [
     {
       "rank": 1,
-      "title": "川普敗選後首露面：伊朗戰爭拖累選情　民主黨若彈劾將自取滅亡",
-      "summary": [
-        "ETtoday：川普敗選後首露面：伊朗戰爭拖累選情　民主黨若彈劾將自取滅亡",
-        "經濟日報：美期中選後／川普對伊朗戰爭踩煞車？俄烏恐成下個政治角力場",
-        "中時新聞：共和黨期中選舉慘敗川普認伊朗戰爭拖累！ 民主黨若彈劾將自取滅亡- 國際"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "川普敗選後首露面：伊朗戰爭拖累選情　民主黨若彈劾將自取滅亡",
-          "url": "https://www.ettoday.net/news/20261105/3266609.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美期中選後／川普對伊朗戰爭踩煞車？俄烏恐成下個政治角力場",
-          "url": "https://money.udn.com/money/story/122381/9858488"
-        },
-        {
-          "source": "中時新聞",
-          "title": "共和黨期中選舉慘敗川普認伊朗戰爭拖累！ 民主黨若彈劾將自取滅亡- 國際",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15VG9ZR3N1Ukd6QmF4S3BGRnhtaEpRTllpUW9EbEE4aS1jME96Q1B5NHFFcEMtaE5vcGtwR1hHNjY1WmhDVjdnZF80Vzhyc3JKX0Rmc1RLQ3E0Y3p6clptQUdLY1NiZDdqT3kxbDZR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "美眾院民主黨團：無人提彈劾總統　新會期聚焦民生法案",
       "summary": [
         "經濟日報：美眾院民主黨團：無人提彈劾總統　新會期聚焦民生法案",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "認伊朗戰爭是敗選主因川普認值得:會做同樣決定｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：認伊朗戰爭是敗選主因川普認值得:會做同樣決定｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "要員工多用 AI 預算卻縮水！傳蘋果工程師每日額度擬從300砍至100美元",
       "summary": [
         "經濟日報：要員工多用 AI 預算卻縮水！傳蘋果工程師每日額度擬從300砍至100美元",
@@ -110,7 +83,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
       "summary": [
         "iThome：王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
@@ -131,7 +104,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "法國國家血液機構冷藏裝置遭網路攻擊，3處設施溫度控制遭竄改",
       "summary": [
         "iThome：法國國家血液機構冷藏裝置遭網路攻擊，3處設施溫度控制遭竄改",
@@ -152,7 +125,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "民主黨橫掃國會、美股大洗牌！AI股慘跌逾23％ 「這類股票」卻暴漲",
       "summary": [
         "自由時報：民主黨橫掃國會、美股大洗牌！AI股慘跌逾23％ 「這類股票」卻暴漲",
@@ -173,7 +146,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "東芝持續出售 NAND 廠鎧俠股份、持股比重跌破 11%",
       "summary": [
         "科技新報：東芝持續出售 NAND 廠鎧俠股份、持股比重跌破 11%",
@@ -194,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "高通手機晶片營收遜、蘋果訂單流失  盤後摔",
       "summary": [
         "科技新報：高通手機晶片營收遜、蘋果訂單流失  盤後摔",
@@ -215,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "國家隊低接17檔逆勢翻紅- 日報",
       "summary": [
         "工商時報：國家隊低接17檔逆勢翻紅- 日報",
@@ -232,6 +205,27 @@
           "source": "MoneyDJ理財網",
           "title": "國家隊低接17檔逆勢翻紅- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWV9udzZqRUZkQjd4RVBZaXktel9hNU4wU0FDZ0lkanhEZ1BvRGFfTzllbm5XR290TF96NUVHNHNXcy1sY1BKSkI0RVNCQVdxa0ozeTN2Zm9lVm9uX1pOZlhHX3pwYVM1X0RmaDVpU0hONmwxMEo4VXEyM2sxOTI3bkdTVk13R3VSM19HQnhZQndSQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "20261105 公視AI手語天氣報導 ｜下午起東北季風增強 迎風面雲增轉區域性雨",
+      "summary": [
+        "公視新聞：20261105 公視AI手語天氣報導 ｜下午起東北季風增強 迎風面雲增轉區域性雨",
+        "ETtoday：午後變天降雨增　下週迎更強東北季風「探20度以下」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公視新聞",
+          "title": "20261105 公視AI手語天氣報導 ｜下午起東北季風增強 迎風面雲增轉區域性雨",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sRWlpOGVUcDY5Z0RvUndzMHMyMTVPdDZDcUZhenY3alhMZEx5SXVDLTB0RXBTeHN4WThORmJJeEZWRGFITXZBZlRHOA?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "午後變天降雨增　下週迎更強東北季風「探20度以下」",
+          "url": "https://www.ettoday.net/news/20261105/3266764.htm"
         }
       ]
     }
@@ -330,48 +324,6 @@
     },
     {
       "rank": 4,
-      "title": "成立數月的晶片新創公司 Tenspresso 正在洽談 5 億美元估值",
-      "summary": [
-        "Bloomberg Tech：成立數月的晶片新創公司 Tenspresso 正在洽談 5 億美元估值",
-        "Investing.com：晶片新創公司 Tenspresso 估值達 5 億美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "成立數月的晶片新創公司 Tenspresso 正在洽談 5 億美元估值",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-04/months-old-chip-startup-tenspresso-in-talks-for-500-million-valuation"
-        },
-        {
-          "source": "Investing.com",
-          "title": "晶片新創公司 Tenspresso 估值達 5 億美元",
-          "url": "https://www.investing.com/news/stock-market-news/chip-startup-tenspresso-eyes-500m-valuation--bloomberg-93CH-5001738"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "隨著智慧型手機銷量下滑，高通在資料中心上下了重註",
-      "summary": [
-        "The Verge：隨著智慧型手機銷量下滑，高通在資料中心上下了重註",
-        "Investing.com：由於智慧型手機晶片銷售疲軟掩蓋了資料中心的勢頭，高通股價暴跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "隨著智慧型手機銷量下滑，高通在資料中心上下了重註",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
-        },
-        {
-          "source": "Investing.com",
-          "title": "由於智慧型手機晶片銷售疲軟掩蓋了資料中心的勢頭，高通股價暴跌",
-          "url": "https://www.investing.com/news/stock-market-news/qualcomm-slumps-as-weak-smartphone-chip-sales-overshadow-datacenter-momentum-5002833"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Nextdc 因 Goodman 和 Digital Realty 收購股份而銷售額",
       "summary": [
         "Bloomberg Tech：Nextdc 因 Goodman 和 Digital Realty 收購股份而銷售額",
@@ -392,7 +344,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "中期選舉後川普媒體股價暴跌",
       "summary": [
         "Washington Post：中期選舉後川普媒體股價暴跌",
@@ -413,7 +365,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "微軟拒絕與英國 Nscale 達成數十億美元的人工智慧交易",
       "summary": [
         "Financial Times：微軟拒絕與英國 Nscale 達成數十億美元的人工智慧交易",
@@ -434,7 +386,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "混合動力車銷量強勁，豐田利潤激增並上調年度前景",
       "summary": [
         "Investing.com：混合動力車銷量強勁，豐田利潤激增並上調年度前景",
@@ -455,17 +407,53 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "為什麼科蒂股票今天上漲？",
+      "rank": 8,
+      "title": "《蜘蛛人》和 PlayStation 推動成長後，索尼上調展望",
       "summary": [
-        "Investing.com：為什麼科蒂股票今天上漲？"
+        "Bloomberg Tech：《蜘蛛人》和 PlayStation 推動成長後，索尼上調展望",
+        "The Verge：Playstation和蜘蛛人的業績使索尼利潤激增"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "《蜘蛛人》和 PlayStation 推動成長後，索尼上調展望",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/sony-lifts-outlook-after-spider-man-and-playstation-fuel-growth"
+        },
+        {
+          "source": "The Verge",
+          "title": "Playstation和蜘蛛人的業績使索尼利潤激增",
+          "url": "https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "為什麼古德曼股價今天飆漲？",
+      "summary": [
+        "Investing.com：為什麼古德曼股價今天飆漲？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Investing.com",
-          "title": "為什麼科蒂股票今天上漲？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-coty-stock-rallying-today-93CH-5001771"
+          "title": "為什麼古德曼股價今天飆漲？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-goodman-stock-surging-today-93CH-5001927"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國選民為何拒絕川普的共和黨- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：美國選民為何拒絕川普的共和黨- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "美國選民為何拒絕川普的共和黨- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PZFA5bjd4Xzhyb1VqQ1FfLUVXaWtaZ1ZHZnB6OE5FQkVHNjh6R1FGQkpfMWk3VHhrcmtWT3EtV1RvMk5SNHdUMG41WDlOZ1ZqcnFzbkNtdU8xS25tTmd2TkNlVklYRV9iSGc?oc=5"
         }
       ]
     }
