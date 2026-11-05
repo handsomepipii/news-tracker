@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-05 19:57",
+  "updated_at": "2026-11-05 21:04",
   "taiwan": [
     {
       "rank": 1,
-      "title": "美眾院民主黨團：無人提彈劾總統　新會期聚焦民生法案",
-      "summary": [
-        "經濟日報：美眾院民主黨團：無人提彈劾總統　新會期聚焦民生法案",
-        "自由時報：美眾院民主黨團：無人提彈劾總統 新會期聚焦民生法案",
-        "ETtoday：美眾院民主黨團：無人提彈劾川普！　全力拚民生法案"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美眾院民主黨團：無人提彈劾總統　新會期聚焦民生法案",
-          "url": "https://money.udn.com/money/story/5599/9858380"
-        },
-        {
-          "source": "自由時報",
-          "title": "美眾院民主黨團：無人提彈劾總統 新會期聚焦民生法案",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629890"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美眾院民主黨團：無人提彈劾川普！　全力拚民生法案",
-          "url": "https://www.ettoday.net/news/20261105/3266639.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "認伊朗戰爭是敗選主因川普認值得:會做同樣決定｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：認伊朗戰爭是敗選主因川普認值得:會做同樣決定｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "要員工多用 AI 預算卻縮水！傳蘋果工程師每日額度擬從300砍至100美元",
       "summary": [
         "經濟日報：要員工多用 AI 預算卻縮水！傳蘋果工程師每日額度擬從300砍至100美元",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
       "summary": [
         "iThome：王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
@@ -104,7 +77,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "法國國家血液機構冷藏裝置遭網路攻擊，3處設施溫度控制遭竄改",
       "summary": [
         "iThome：法國國家血液機構冷藏裝置遭網路攻擊，3處設施溫度控制遭竄改",
@@ -125,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "民主黨橫掃國會、美股大洗牌！AI股慘跌逾23％ 「這類股票」卻暴漲",
       "summary": [
         "自由時報：民主黨橫掃國會、美股大洗牌！AI股慘跌逾23％ 「這類股票」卻暴漲",
@@ -142,6 +115,27 @@
           "source": "INSIDE硬塞",
           "title": "美國期中選舉民主黨拿下國會，AI 資料中心股走跌、政治團體砸數百萬美元成敗互見",
           "url": "https://www.inside.com.tw/article/42826-us-midterms-ai-data-center-stocks-pacs"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "美眾院民主黨團：無人提彈劾總統 新會期聚焦民生法案",
+      "summary": [
+        "自由時報：美眾院民主黨團：無人提彈劾總統 新會期聚焦民生法案",
+        "ETtoday：美眾院民主黨團：無人提彈劾川普！　全力拚民生法案"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美眾院民主黨團：無人提彈劾總統 新會期聚焦民生法案",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629890"
+        },
+        {
+          "source": "ETtoday",
+          "title": "美眾院民主黨團：無人提彈劾川普！　全力拚民生法案",
+          "url": "https://www.ettoday.net/news/20261105/3266639.htm"
         }
       ]
     },
@@ -324,27 +318,6 @@
     },
     {
       "rank": 4,
-      "title": "Nextdc 因 Goodman 和 Digital Realty 收購股份而銷售額",
-      "summary": [
-        "Bloomberg Tech：Nextdc 因 Goodman 和 Digital Realty 收購股份而銷售額",
-        "CNBC：Goodman與Digital Realty收購股份後NextDC股價飆升43%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Nextdc 因 Goodman 和 Digital Realty 收購股份而銷售額",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-04/nextdc-surges-on-report-of-goodman-digital-realty-buying-stake"
-        },
-        {
-          "source": "CNBC",
-          "title": "Goodman與Digital Realty收購股份後NextDC股價飆升43%",
-          "url": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "中期選舉後川普媒體股價暴跌",
       "summary": [
         "Washington Post：中期選舉後川普媒體股價暴跌",
@@ -365,7 +338,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "微軟拒絕與英國 Nscale 達成數十億美元的人工智慧交易",
       "summary": [
         "Financial Times：微軟拒絕與英國 Nscale 達成數十億美元的人工智慧交易",
@@ -386,7 +359,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "混合動力車銷量強勁，豐田利潤激增並上調年度前景",
       "summary": [
         "Investing.com：混合動力車銷量強勁，豐田利潤激增並上調年度前景",
@@ -407,7 +380,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "《蜘蛛人》和 PlayStation 推動成長後，索尼上調展望",
       "summary": [
         "Bloomberg Tech：《蜘蛛人》和 PlayStation 推動成長後，索尼上調展望",
@@ -428,7 +401,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "為什麼古德曼股價今天飆漲？",
       "summary": [
         "Investing.com：為什麼古德曼股價今天飆漲？"
@@ -443,7 +416,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美國選民為何拒絕川普的共和黨- 紐約時報中文網",
       "summary": [
         "紐約時報中文：美國選民為何拒絕川普的共和黨- 紐約時報中文網"
@@ -454,6 +427,21 @@
           "source": "紐約時報中文",
           "title": "美國選民為何拒絕川普的共和黨- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PZFA5bjd4Xzhyb1VqQ1FfLUVXaWtaZ1ZHZnB6OE5FQkVHNjh6R1FGQkpfMWk3VHhrcmtWT3EtV1RvMk5SNHdUMG41WDlOZ1ZqcnFzbkNtdU8xS25tTmd2TkNlVklYRV9iSGc?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃之鋒因「勾結外國勢力」被判10年監禁- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：黃之鋒因「勾結外國勢力」被判10年監禁- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "黃之鋒因「勾結外國勢力」被判10年監禁- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkZFUk9hYk9oS0E5SmRVWWZNTS1TVVo0aUQxSUNRa09lTm9vYjB3cnFCeTlFQmlvQVFHNERKMUc0N1pCVXVTNXB3cjF2VVVrMUMtYW5JM3M0TS1hd09MUi03c1JrQlQ4LUFtN1kwOWRKRUVMdnhwYmhEVW1XSmo4cWo1VE1GN0xpcjVfSjVpTmhpdXVPNGFjQQ?oc=5"
         }
       ]
     }
