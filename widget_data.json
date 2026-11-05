@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 06:55",
+  "updated_at": "2026-11-06 07:49",
   "taiwan": [
     {
       "rank": 1,
@@ -78,27 +78,6 @@
     },
     {
       "rank": 4,
-      "title": "《臺北股市》外資大逃殺！今賣超1024億史上第十大 今年狂撤2.8兆",
-      "summary": [
-        "中時新聞：《臺北股市》外資大逃殺！今賣超1024億史上第十大 今年狂撤2.8兆",
-        "工商時報：史上第10大賣超！外資再砍千億元臺股連六挫何時止跌？專家揭兩大觀盤重點- 證券"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "《臺北股市》外資大逃殺！今賣超1024億史上第十大 今年狂撤2.8兆",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52OVljUGtRV0d0OGx4Vl90cU1zTm9DVkY0bEpNYmVXNy1CNVEtY3pCQ0VlVmF3OHhtSW1WNktJOExXTU13VHhuX3RFWE91bXptRGZ3MDJvSjNzX2NkdmVtaHFQcUlOX0xrYVE?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "史上第10大賣超！外資再砍千億元臺股連六挫何時止跌？專家揭兩大觀盤重點- 證券",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBocmhTdjVsZF9URlI5WlV1VEdjRnlsZWZrWTVYZm9GVU0xSDdhcmFUYjlac25IR1hxeGlXQ1NxcVdCcUhUUEtocHJfY0MzdVBWbVR5a01JWjlwZjlfU1Qw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "新北歡樂耶誕城將開城 首週邀大小朋友一起共度童趣嘉年華！",
       "summary": [
         "中時新聞：新北歡樂耶誕城將開城 首週邀大小朋友一起共度童趣嘉年華！",
@@ -119,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "國民黨新竹縣黨部清黨！邀鄭朝方站臺被開鍘 徐瑜新這樣冷回",
       "summary": [
         "自由時報：國民黨新竹縣黨部清黨！邀鄭朝方站臺被開鍘 徐瑜新這樣冷回",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "歐洲超市冷凍櫃遭駭溫度飆高 俄羅斯否認指控稱「荒謬」",
       "summary": [
         "自由時報：歐洲超市冷凍櫃遭駭溫度飆高 俄羅斯否認指控稱「荒謬」",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "都柏林飛羅馬班機疑遭炸彈威脅 法國軍機緊急護送轉降",
       "summary": [
         "自由時報：都柏林飛羅馬班機疑遭炸彈威脅 法國軍機緊急護送轉降",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "張俊傑偷渡畫面曝光！下車到上船僅9分鐘",
       "summary": [
         "自由時報：張俊傑偷渡畫面曝光！下車到上船僅9分鐘",
@@ -199,6 +178,27 @@
           "source": "ETtoday",
           "title": "張俊傑神鬼偷渡畫面曝光　下車到上船「只花12分鐘」",
           "url": "https://www.ettoday.net/news/20261105/3267210.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "曾寶儀弄丟證件包！　「祭一萬多現金」求尋：請大家幫忙救救我",
+      "summary": [
+        "ETtoday：曾寶儀弄丟證件包！　「祭一萬多現金」求尋：請大家幫忙救救我",
+        "自由時報：曾寶儀急發文求救！證件包搭機返臺後失蹤 「祭逾萬元現金」懸賞好心人"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "曾寶儀弄丟證件包！　「祭一萬多現金」求尋：請大家幫忙救救我",
+          "url": "https://star.ettoday.net/news/3267208"
+        },
+        {
+          "source": "自由時報",
+          "title": "曾寶儀急發文求救！證件包搭機返臺後失蹤 「祭逾萬元現金」懸賞好心人",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5631116"
         }
       ]
     },
@@ -227,48 +227,33 @@
   "global": [
     {
       "rank": 1,
-      "title": "分析：特朗普中期選舉遭遇政治挫折 於中國或是“短期獲益，長期受損”",
+      "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
       "summary": [
-        "德國之聲：分析：特朗普中期選舉遭遇政治挫折 於中國或是“短期獲益，長期受損”",
-        "法廣RFI：特朗普中期選舉政治挫敗讓中國短期獲益，但長期受損？"
+        "The Guardian：巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
+        "WSJ Markets：巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機",
+        "法廣RFI：巴拉圭銀行倒閉引發政治危機，總統培尼亞宣佈辭職"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "分析：特朗普中期選舉遭遇政治挫折 於中國或是“短期獲益，長期受損”",
-          "url": "https://www.dw.com/zh/分析：特朗普中期选举遭遇政治挫折-于中国或是-短期获益，长期受损/a-79862523?maca=chi-rss-chi-all-1127-rdf"
+          "source": "The Guardian",
+          "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
+          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機",
+          "url": "https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_markets_main"
         },
         {
           "source": "法廣RFI",
-          "title": "特朗普中期選舉政治挫敗讓中國短期獲益，但長期受損？",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261105-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%94%BF%E6%B2%BB%E6%8C%AB%E6%95%97%E8%AE%93%E4%B8%AD%E5%9C%8B%E7%9F%AD%E6%9C%9F%E7%8D%B2%E7%9B%8A%EF%BC%8C%E4%BD%86%E9%95%B7%E6%9C%9F%E5%8F%97%E6%90%8D"
+          "title": "巴拉圭銀行倒閉引發政治危機，總統培尼亞宣佈辭職",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261105-%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%8A%80%E8%A1%8C%E5%80%92%E9%96%89%E5%BC%95%E7%99%BC%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%A9%9F%EF%BC%8C%E7%B8%BD%E7%B5%B1%E5%9F%B9%E5%B0%BC%E4%BA%9E%E5%AE%A3%E5%B8%83%E8%BE%AD%E8%81%B7"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "另有 14 架歐洲航班收到炸彈威脅",
-      "summary": [
-        "Financial Times：另有 14 架歐洲航班收到炸彈威脅",
-        "法廣RFI：20多架歐洲航班本週相繼遭受匿名炸彈威脅"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "另有 14 架歐洲航班收到炸彈威脅",
-          "url": "https://www.ft.com/content/e2eb8161-7620-494b-9905-4271164d0e4c?syn-25a6b1a6=1"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "20多架歐洲航班本週相繼遭受匿名炸彈威脅",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261105-20%E5%A4%9A%E6%9E%B6%E6%AD%90%E6%B4%B2%E8%88%AA%E7%8F%AD%E6%9C%AC%E5%91%A8%E7%9B%B8%E7%B9%BC%E9%81%AD%E5%8F%97%E5%8C%BF%E5%90%8D%E7%82%B8%E5%BD%88%E5%A8%81%E8%84%85"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "民主黨威脅減緩人工智慧支出，大型科技股飆漲",
       "summary": [
         "Bloomberg Tech：民主黨威脅減緩人工智慧支出，大型科技股飆漲",
@@ -289,7 +274,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Wendy's rejects takeover proposal from Nelson Peltz’s Trian",
       "summary": [
         "CNBC：Wendy's rejects takeover proposal from Nelson Peltz’s Trian",
@@ -310,7 +295,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Apple MacBook Pro With Touch Screen, OLED Review: Display Is An Added Bonus",
       "summary": [
         "Bloomberg Tech：Apple MacBook Pro With Touch Screen, OLED Review: Display Is An Added Bonus",
@@ -331,7 +316,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
       "summary": [
         "Ars Technica：Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
@@ -352,7 +337,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
       "summary": [
         "Wired：Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
@@ -373,7 +358,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "ElevenLabs 現在允許使用者直接在 SoundCloud 上釋出人工智慧生成的音樂",
       "summary": [
         "TechCrunch：ElevenLabs 現在允許使用者直接在 SoundCloud 上釋出人工智慧生成的音樂",
@@ -394,7 +379,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "民主黨獲勝引發人工智慧延遲擔憂，納斯達克 100 指數損失 1.8 兆美元",
       "summary": [
         "Investing.com：民主黨獲勝引發人工智慧延遲擔憂，納斯達克 100 指數損失 1.8 兆美元",
@@ -415,7 +400,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "TikTok 悄悄推出獨立的 TikTok Shop 應用",
       "summary": [
         "TechCrunch：TikTok 悄悄推出獨立的 TikTok Shop 應用",
@@ -432,6 +417,27 @@
           "source": "The Verge",
           "title": "TikTok launched a dedicated TikTok Shop app",
           "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Anthropic, Plaid Collaborate on AI Consumer Finance Guidance",
+      "summary": [
+        "Bloomberg Tech：Anthropic, Plaid Collaborate on AI Consumer Finance Guidance",
+        "Investing.com：Anthropic partners with Plaid for AI financial advice tool"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic, Plaid Collaborate on AI Consumer Finance Guidance",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/anthropic-plaid-collaborate-on-ai-consumer-finance-guidance"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Anthropic partners with Plaid for AI financial advice tool",
+          "url": "https://www.investing.com/news/stock-market-news/anthropic-partners-with-plaid-for-ai-financial-advice-tool-5005341"
         }
       ]
     }
