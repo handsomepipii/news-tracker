@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-05 08:13",
+  "updated_at": "2026-11-05 09:48",
   "taiwan": [
     {
       "rank": 1,
-      "title": "美國期中選舉民主黨大勝　重要數字一次看",
-      "summary": [
-        "經濟日報：美國期中選舉民主黨大勝　重要數字一次看",
-        "工商時報：美期中選舉》民主黨上演「史詩級大勝」！橫掃參眾兩院連共和黨票倉德州都變天- 國際",
-        "自由時報：美期中選舉 民主黨大勝 拿下參眾兩院"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美國期中選舉民主黨大勝　重要數字一次看",
-          "url": "https://money.udn.com/money/story/5599/9857776"
-        },
-        {
-          "source": "工商時報",
-          "title": "美期中選舉》民主黨上演「史詩級大勝」！橫掃參眾兩院連共和黨票倉德州都變天- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SVkhzMTdzSks1b0pacnR0bzh2RjlqMnhjOVd2XzBRTEI2UldfU2k4UHVkbGFLSDBzSHZnTzR5Rlp5RDVnNkJmcEkwb2h4Y2pYcGpNeDh1b3J3NzRFUDJR?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "美期中選舉 民主黨大勝 拿下參眾兩院",
-          "url": "https://news.ltn.com.tw/news/world/paper/1777205"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "美期中選舉共和黨慘敗　白宮發文強調川普「仍是你們的總統」",
       "summary": [
         "自由時報：美期中選舉共和黨慘敗　白宮發文強調川普「仍是你們的總統」",
@@ -56,7 +29,55 @@
       ]
     },
     {
+      "rank": 2,
+      "title": "美眾院民主黨團：無人提彈劾總統　新會期聚焦民生法案",
+      "summary": [
+        "經濟日報：美眾院民主黨團：無人提彈劾總統　新會期聚焦民生法案",
+        "自由時報：美眾院民主黨團：無人提彈劾總統 新會期聚焦民生法案",
+        "ETtoday：美眾院民主黨團：無人提彈劾川普！　全力拚民生法案"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美眾院民主黨團：無人提彈劾總統　新會期聚焦民生法案",
+          "url": "https://money.udn.com/money/story/5599/9858380"
+        },
+        {
+          "source": "自由時報",
+          "title": "美眾院民主黨團：無人提彈劾總統 新會期聚焦民生法案",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629890"
+        },
+        {
+          "source": "ETtoday",
+          "title": "美眾院民主黨團：無人提彈劾川普！　全力拚民生法案",
+          "url": "https://www.ettoday.net/news/20261105/3266639.htm"
+        }
+      ]
+    },
+    {
       "rank": 3,
+      "title": "共和黨敗選後首露面！川普坦言伊朗戰爭拖累選情 但重來一次照打",
+      "summary": [
+        "經濟日報：共和黨敗選後首露面！川普坦言伊朗戰爭拖累選情 但重來一次照打",
+        "ETtoday：川普敗選後首露面：伊朗戰爭拖累選情　民主黨若彈劾將自取滅亡"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "共和黨敗選後首露面！川普坦言伊朗戰爭拖累選情 但重來一次照打",
+          "url": "https://money.udn.com/money/story/5599/9858258"
+        },
+        {
+          "source": "ETtoday",
+          "title": "川普敗選後首露面：伊朗戰爭拖累選情　民主黨若彈劾將自取滅亡",
+          "url": "https://www.ettoday.net/news/20261105/3266609.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "湖口火警連發！住宅深夜失火5人受困獲救 3人送醫",
       "summary": [
         "自由時報：湖口火警連發！住宅深夜失火5人受困獲救 3人送醫",
@@ -77,49 +98,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "《大學生》女星公開挺沈伯洋！昔曾遭中國封殺：我真的很愛臺灣",
-      "summary": [
-        "自由時報：《大學生》女星公開挺沈伯洋！昔曾遭中國封殺：我真的很愛臺灣",
-        "ETtoday：《大學生》女星公開力挺沈伯洋！　感性喊話：我真的很愛臺灣"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "《大學生》女星公開挺沈伯洋！昔曾遭中國封殺：我真的很愛臺灣",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5629716"
-        },
-        {
-          "source": "ETtoday",
-          "title": "《大學生》女星公開力挺沈伯洋！　感性喊話：我真的很愛臺灣",
-          "url": "https://star.ettoday.net/news/3266469"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "何欣純贏江啟臣10％？ 最新臺中市長選舉街訪民調超刺激- 政治",
-      "summary": [
-        "中時新聞：何欣純贏江啟臣10％？ 最新臺中市長選舉街訪民調超刺激- 政治",
-        "財訊：新北都更再升級！大陳到頂溪見證城市翻轉｜#老謝開講–臺灣好城市#財訊@謝金河feat 新北市政府-財訊雙週刊"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "何欣純贏江啟臣10％？ 最新臺中市長選舉街訪民調超刺激- 政治",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40OWI3VkRwMEhIT3NhQjhreWdjQml3emxaZkVWeTJ5eTNfTlBidHRRakQwZlRKQ2wwSHR1Qm0tYVE4X2FoWFBsYmgwTm5qWWFmMVpBTzZNVF9YXzlGT2ZkLWVnR3cyN3BRb2dweUhn?oc=5"
-        },
-        {
-          "source": "財訊",
-          "title": "新北都更再升級！大陳到頂溪見證城市翻轉｜#老謝開講–臺灣好城市#財訊@謝金河feat 新北市政府-財訊雙週刊",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wamVrMS1EcGdMX2hhOHJqT2RHMGZ1dEZyVkxpblN2SFNWemcwUHlaMWFFN0dkY3Y4MmJKZjBMZzJsTUFrQV9ERWxiVHNuUEVmZ3JYbVl4UHZnWEc1UlZyX0Z2ckNvZ2EwdEw2ZGpOZ2NvS3BrZDFWXw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "期中選舉民主黨重掌國會川普讓美再次偉大政策失靈｜20261104 公視晚間新聞｜ 公視新聞PNN",
       "summary": [
         "公視新聞：期中選舉民主黨重掌國會川普讓美再次偉大政策失靈｜20261104 公視晚間新聞｜ 公視新聞PNN",
@@ -140,7 +119,49 @@
       ]
     },
     {
+      "rank": 6,
+      "title": "應對中國經濟脅迫　歐盟擬提出「地緣經濟威懾協定」",
+      "summary": [
+        "經濟日報：應對中國經濟脅迫　歐盟擬提出「地緣經濟威懾協定」",
+        "科技新報：應對中國經濟脅迫，歐盟擬提出「地緣經濟威懾協定」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "應對中國經濟脅迫　歐盟擬提出「地緣經濟威懾協定」",
+          "url": "https://money.udn.com/money/story/5599/9857926"
+        },
+        {
+          "source": "科技新報",
+          "title": "應對中國經濟脅迫，歐盟擬提出「地緣經濟威懾協定」",
+          "url": "https://finance.technews.tw/2026/11/05/eu-geoeconomic-deterrence-agreement-china-economic-coercion/"
+        }
+      ]
+    },
+    {
       "rank": 7,
+      "title": "歐元區10月通膨率4%創3年新高　預料歐央行下月將升息",
+      "summary": [
+        "經濟日報：歐元區10月通膨率4%創3年新高　預料歐央行下月將升息",
+        "科技新報：歐元區 10 月通膨率 4% 創 3 年新高，預料歐央行下月將升息"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "歐元區10月通膨率4%創3年新高　預料歐央行下月將升息",
+          "url": "https://money.udn.com/money/story/5599/9857877"
+        },
+        {
+          "source": "科技新報",
+          "title": "歐元區 10 月通膨率 4% 創 3 年新高，預料歐央行下月將升息",
+          "url": "https://technews.tw/2026/11/05/eurozone-october-inflation-4-percent-3-year-high-ecb-raise-rates-next-month/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "房市冷到買氣縮！全臺房貸最熱10區出爐　桃園這區竟奪冠",
       "summary": [
         "自由時報：房市冷到買氣縮！全臺房貸最熱10區出爐　桃園這區竟奪冠",
@@ -161,7 +182,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "繳清房貸僅花「2分鐘」塗銷抵押權! 北市府推AI地政服務｜TVBS新聞 @TVBSNEWS02 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：繳清房貸僅花「2分鐘」塗銷抵押權! 北市府推AI地政服務｜TVBS新聞 @TVBSNEWS02 │ TVBS新聞網",
@@ -182,44 +203,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "竹南鎮長候選人何秀綿涉賄選起訴  移審續押",
-      "summary": [
-        "自由時報：竹南鎮長候選人何秀綿涉賄選起訴  移審續押",
-        "ETtoday：竹南鎮長候選人何秀綿涉賄遭起訴！同案7被告4人交保"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "竹南鎮長候選人何秀綿涉賄選起訴  移審續押",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5629815"
-        },
-        {
-          "source": "ETtoday",
-          "title": "竹南鎮長候選人何秀綿涉賄遭起訴！同案7被告4人交保",
-          "url": "https://www.ettoday.net/news/20261105/3266581.htm"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
+      "title": "谷歌投資大馬150億美元　安華：助躍升東南亞數位強國",
       "summary": [
-        "自由時報：深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
-        "經濟日報：深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票"
+        "經濟日報：谷歌投資大馬150億美元　安華：助躍升東南亞數位強國",
+        "科技新報：Google 投資大馬 150 億美元，安華：助躍升東南亞數位強國"
       ],
       "media_count": 2,
       "links": [
-        {
-          "source": "自由時報",
-          "title": "深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629836"
-        },
         {
           "source": "經濟日報",
-          "title": "深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
-          "url": "https://money.udn.com/money/story/5599/9858223"
+          "title": "谷歌投資大馬150億美元　安華：助躍升東南亞數位強國",
+          "url": "https://money.udn.com/money/story/5599/9858024"
+        },
+        {
+          "source": "科技新報",
+          "title": "Google 投資大馬 150 億美元，安華：助躍升東南亞數位強國",
+          "url": "https://technews.tw/2026/11/05/google-invests-15-billion-malaysia-anwar-elevate-southeast-asian-digital-powerhouse/"
         }
       ]
     }
@@ -227,28 +227,28 @@
   "global": [
     {
       "rank": 1,
-      "title": "民主黨大獲全勝 美股期貨反彈",
+      "title": "蘋果削減內部人工智慧使用預算以減少支出",
       "summary": [
-        "Bloomberg Markets：民主黨大獲全勝 美股期貨反彈",
-        "Yahoo Finance：民主黨在中期選舉中取得關鍵勝利，美國股指期貨漲跌互現",
-        "WSJ Markets：民主黨獲勝，股市飆升，油價暴跌"
+        "Bloomberg Tech：蘋果削減內部人工智慧使用預算以減少支出",
+        "Investing.com：據報道，蘋果降低了工程師的每日人工智慧支出限額",
+        "TechCrunch：據報道，蘋果正在削減內部人工智慧使用的預算"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "民主黨大獲全勝 美股期貨反彈",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-04/the-opening-trade-11-04-2026-video"
+          "source": "Bloomberg Tech",
+          "title": "蘋果削減內部人工智慧使用預算以減少支出",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "民主黨在中期選舉中取得關鍵勝利，美國股指期貨漲跌互現",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmh3ZS14WWlMdTAweno4UTlzNGxnYm9ScWZxWW1sUmZBbHlXdDFIbVJhOUlEckpybllHblc4TnlkdHVnWDY2S08ySnFOUnBGM1BmUG1NNklUQ1VHdGxCMlk3ZlN6MWpjcEkyUDdmZWh6d1BJQkhha0NORVg2N2s0ejlyTC1Xci1fRnk1VFJKUVR5NkNlMnBhQUthUWlJaUk?oc=5"
+          "source": "Investing.com",
+          "title": "據報道，蘋果降低了工程師的每日人工智慧支出限額",
+          "url": "https://www.investing.com/news/stock-market-news/apple-reportedly-lowers-daily-ai-spending-limits-for-engineers-5001119"
         },
         {
-          "source": "WSJ Markets",
-          "title": "民主黨獲勝，股市飆升，油價暴跌",
-          "url": "https://www.wsj.com/finance/stocks/stocks-surge-oil-plummets-on-democrat-victory-d4f606b5?mod=rss_markets_main"
+          "source": "TechCrunch",
+          "title": "據報道，蘋果正在削減內部人工智慧使用的預算",
+          "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
         }
       ]
     },
@@ -275,90 +275,6 @@
     },
     {
       "rank": 3,
-      "title": "CVS Health 將拆分價值 1,170 億美元的醫療保健帝國",
-      "summary": [
-        "Financial Times：CVS Health 將拆分價值 1,170 億美元的醫療保健帝國",
-        "Bloomberg Tech：CVS 計劃拆分價值 1,170 億美元的醫療保健集團"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "CVS Health 將拆分價值 1,170 億美元的醫療保健帝國",
-          "url": "https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "CVS 計劃拆分價值 1,170 億美元的醫療保健集團",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-04/cvs-plans-to-break-up-117b-healthcare-conglomerate-video"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "美國抵押貸款利率連續第三週回落，但仍維持在 7% 以上",
-      "summary": [
-        "Bloomberg Markets：美國抵押貸款利率連續第三週回落，但仍維持在 7% 以上",
-        "CNBC：抵押貸款利率連續第三週下降，但購屋者仍在離開市場"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "美國抵押貸款利率連續第三週回落，但仍維持在 7% 以上",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-04/us-mortgage-rates-retreat-for-third-week-while-holding-above-7"
-        },
-        {
-          "source": "CNBC",
-          "title": "抵押貸款利率連續第三週下降，但購屋者仍在離開市場",
-          "url": "https://www.cnbc.com/2026/11/04/mortgage-rates-dropped-homebuyers-still-leaving.html"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "CVS Health 計劃一分為二。以下是導致大規模醫療保健分裂的原因。",
-      "summary": [
-        "MarketWatch：CVS Health 計劃一分為二。以下是導致大規模醫療保健分裂的原因。",
-        "Yahoo Finance：CVS 計畫拆分健康集團"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MarketWatch",
-          "title": "CVS Health 計劃一分為二。以下是導致大規模醫療保健分裂的原因。",
-          "url": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "CVS 計畫拆分健康集團",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3d2cXhielRFdG8zU1dad2RISHozT1VVSXpVWWJ4eHNadFlGSjVrcUhYMUtqX2FBMFk5RXAxaUp4dEFpYXpTUnRGeldnem9KUFp0WTRSRWkySnpzcnNUWjBvM0VfMjZ0Z2pCcHVLenlGd09LMzNEQWdGUjE5Yi02U1FuRUxVYXJ0Y3hkaDJOTXgwcGc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "卡夫亨氏將在卡西蘭的扭虧為盈之際剝離北美咖啡部門",
-      "summary": [
-        "Investing.com：卡夫亨氏將在卡西蘭的扭虧為盈之際剝離北美咖啡部門",
-        "CNBC：卡夫亨氏將以 6.5 億美元的交易剝離北美咖啡業務"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "卡夫亨氏將在卡西蘭的扭虧為盈之際剝離北美咖啡部門",
-          "url": "https://www.investing.com/news/stock-market-news/kraft-heinz-to-divest-north-america-coffee-unit-amid-cahillanes-turnaround-effort-4998915"
-        },
-        {
-          "source": "CNBC",
-          "title": "卡夫亨氏將以 6.5 億美元的交易剝離北美咖啡業務",
-          "url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "「這是一場災難」：憤怒的共和黨人將中期選舉失敗歸咎於川普",
       "summary": [
         "BBC World：「這是一場災難」：憤怒的共和黨人將中期選舉失敗歸咎於川普",
@@ -379,17 +295,38 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "ADP稱，10月私人企業新增就業人數86,000個，略高於預期",
+      "rank": 4,
+      "title": "索爾維達成稀土協議將減少全球對中國的依賴",
       "summary": [
-        "CNBC：ADP稱，10月私人企業新增就業人數86,000個，略高於預期",
+        "Financial Times：索爾維達成稀土協議將減少全球對中國的依賴",
+        "FT中文網：索爾維達成稀土協議 減少對中國依賴"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "索爾維達成稀土協議將減少全球對中國的依賴",
+          "url": "https://www.ft.com/content/7479802b-7071-4ab7-a7a0-bbebc20010e3?syn-25a6b1a6=1"
+        },
+        {
+          "source": "FT中文網",
+          "title": "索爾維達成稀土協議 減少對中國依賴",
+          "url": "https://www.ftchinese.com/story/001111282"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "ADP稱，10月私人企業增加了86,000個就業崗位，略高於預期",
+      "summary": [
+        "CNBC：ADP稱，10月私人企業增加了86,000個就業崗位，略高於預期",
         "MarketWatch：ADP 表示，10 月企業增加了 86,000 個就業機會。勞動市場出現小幅改善跡象。"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "CNBC",
-          "title": "ADP稱，10月私人企業新增就業人數86,000個，略高於預期",
+          "title": "ADP稱，10月私人企業增加了86,000個就業崗位，略高於預期",
           "url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html"
         },
         {
@@ -400,28 +337,28 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "政策寬鬆引發健保和醫院股飆升",
+      "rank": 6,
+      "title": "CVS 計畫拆分健康集團",
       "summary": [
-        "Investing.com：政策寬鬆引發健保和醫院股飆升",
-        "MarketWatch：醫院股上漲，藥廠準備接受審查。這就是民主黨浪潮對醫療保健的意義。"
+        "Yahoo Finance：CVS 計畫拆分健康集團",
+        "Bloomberg Tech：CVS 計劃拆分價值 1,170 億美元的醫療保健集團"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "政策寬鬆引發健保和醫院股飆升",
-          "url": "https://www.investing.com/news/stock-market-news/policy-relief-sparks-surge-in-health-insurance-and-hospital-stocks-4999489"
+          "source": "Yahoo Finance",
+          "title": "CVS 計畫拆分健康集團",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3d2cXhielRFdG8zU1dad2RISHozT1VVSXpVWWJ4eHNadFlGSjVrcUhYMUtqX2FBMFk5RXAxaUp4dEFpYXpTUnRGeldnem9KUFp0WTRSRWkySnpzcnNUWjBvM0VfMjZ0Z2pCcHVLenlGd09LMzNEQWdGUjE5Yi02U1FuRUxVYXJ0Y3hkaDJOTXgwcGc?oc=5"
         },
         {
-          "source": "MarketWatch",
-          "title": "醫院股上漲，藥廠準備接受審查。這就是民主黨浪潮對醫療保健的意義。",
-          "url": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories"
+          "source": "Bloomberg Tech",
+          "title": "CVS 計劃拆分價值 1,170 億美元的醫療保健集團",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-04/cvs-plans-to-break-up-117b-healthcare-conglomerate-video"
         }
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "SpaceX正與高通合作建造其星鏈行動5G網路路",
       "summary": [
         "The Verge：SpaceX正與高通合作建造其星鏈行動5G網路路",
@@ -438,6 +375,69 @@
           "source": "Yahoo Finance",
           "title": "高通與 SpaceX 的交易可能重塑 5G 的未來",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMTlGaHp2WmNxdUN4Vmw5aURRUk9HanpORkEtQUNJLTlfQmhVaHFHZzI2QnJHZ0ZtTjJTcUFkZFRSMko0ai1TVFo5VkZzRmQ4MEMxUndybDV4enpHN2pTQWk4S2xPdTljeThaN292anEtQzl6TUREZVVwbHY3ajgzUUxSVFZvSng5czNhVjdZRWRrUlpBeTVnQmRVVVRONXM?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "美國中期選舉結果對希望減免關稅的加拿大人來說是“勝利”",
+      "summary": [
+        "BBC World：美國中期選舉結果對希望減免關稅的加拿大人來說是“勝利”",
+        "Financial Times：加拿大人歡迎民主黨在美國中期選舉中大獲全勝"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "美國中期選舉結果對希望減免關稅的加拿大人來說是“勝利”",
+          "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Financial Times",
+          "title": "加拿大人歡迎民主黨在美國中期選舉中大獲全勝",
+          "url": "https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "民主黨在中期選舉中取得關鍵勝利，美國股指期貨漲跌互現",
+      "summary": [
+        "Yahoo Finance：民主黨在中期選舉中取得關鍵勝利，美國股指期貨漲跌互現",
+        "WSJ Markets：民主黨獲勝，股市飆升，油價暴跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "民主黨在中期選舉中取得關鍵勝利，美國股指期貨漲跌互現",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmh3ZS14WWlMdTAweno4UTlzNGxnYm9ScWZxWW1sUmZBbHlXdDFIbVJhOUlEckpybllHblc4TnlkdHVnWDY2S08ySnFOUnBGM1BmUG1NNklUQ1VHdGxCMlk3ZlN6MWpjcEkyUDdmZWh6d1BJQkhha0NORVg2N2s0ejlyTC1Xci1fRnk1VFJKUVR5NkNlMnBhQUthUWlJaUk?oc=5"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "民主黨獲勝，股市飆升，油價暴跌",
+          "url": "https://www.wsj.com/finance/stocks/stocks-surge-oil-plummets-on-democrat-victory-d4f606b5?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "歐洲將向晶片新創公司投資 5.25 億歐元以趕上美國和中國",
+      "summary": [
+        "Investing.com：歐洲將向晶片新創公司投資 5.25 億歐元以趕上美國和中國",
+        "法廣RFI：歐洲將向晶片初創企業投資5.25億歐元，追趕美國與中國"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "歐洲將向晶片新創公司投資 5.25 億歐元以趕上美國和中國",
+          "url": "https://www.investing.com/news/stock-market-news/europe-to-invest-525-million-in-chip-startups-to-catch-up-with-us-and-china-5000867"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "歐洲將向晶片初創企業投資5.25億歐元，追趕美國與中國",
+          "url": "https://www.rfi.fr/tw/%E7%A7%91%E6%8A%80%E8%88%87%E6%96%87%E5%8C%96/20261104-%E6%AD%90%E6%B4%B2%E5%B0%87%E5%90%91%E8%8A%AF%E7%89%87%E5%88%9D%E5%89%B5%E4%BC%81%E6%A5%AD%E6%8A%95%E8%B3%875-25%E5%84%84%E6%AD%90%E5%85%83%EF%BC%8C%E8%BF%BD%E8%B6%95%E7%BE%8E%E5%9C%8B%E8%88%87%E4%B8%AD%E5%9C%8B"
         }
       ]
     }
