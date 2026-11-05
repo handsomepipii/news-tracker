@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 12:57",
+  "updated_at": "2026-11-05 13:59",
   "taiwan": [
     {
       "rank": 1,
@@ -57,6 +57,60 @@
     },
     {
       "rank": 3,
+      "title": "高通宣佈Space X採用龍翼網路技術作為星鏈移動5G服務基礎設施",
+      "summary": [
+        "癮科技Cool3c：高通宣佈Space X採用龍翼網路技術作為星鏈移動5G服務基礎設施",
+        "iThome：SpaceX攜手高通建置全美5G網路，2027年起部署數萬座基地臺",
+        "科技新報：SpaceX精選高階龍翼平臺，打造星鏈移動地面5G網路路"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "癮科技Cool3c",
+          "title": "高通宣佈Space X採用龍翼網路技術作為星鏈移動5G服務基礎設施",
+          "url": "https://www.cool3c.com/article/253764"
+        },
+        {
+          "source": "iThome",
+          "title": "SpaceX攜手高通建置全美5G網路，2027年起部署數萬座基地臺",
+          "url": "https://www.ithome.com.tw/news/180244"
+        },
+        {
+          "source": "科技新報",
+          "title": "SpaceX精選高階龍翼平臺，打造星鏈移動地面5G網路路",
+          "url": "https://technews.tw/2026/11/05/spacex-selects-qualcomm-to-accelerate-starlink-mobiles-nationwide-5g-network/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "美期中選舉》民主黨上演「史詩級大勝」！橫掃參眾兩院連共和黨票倉德州都變天- 國際",
+      "summary": [
+        "工商時報：美期中選舉》民主黨上演「史詩級大勝」！橫掃參眾兩院連共和黨票倉德州都變天- 國際",
+        "自由時報：美期中選舉 民主黨大勝 拿下參眾兩院",
+        "轉角國際：美國期中選舉的藍色浪潮：民主黨成功翻轉參眾兩院，共和黨紅色堡壘接連失守"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "工商時報",
+          "title": "美期中選舉》民主黨上演「史詩級大勝」！橫掃參眾兩院連共和黨票倉德州都變天- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SVkhzMTdzSks1b0pacnR0bzh2RjlqMnhjOVd2XzBRTEI2UldfU2k4UHVkbGFLSDBzSHZnTzR5Rlp5RDVnNkJmcEkwb2h4Y2pYcGpNeDh1b3J3NzRFUDJR?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "美期中選舉 民主黨大勝 拿下參眾兩院",
+          "url": "https://news.ltn.com.tw/news/world/paper/1777205"
+        },
+        {
+          "source": "轉角國際",
+          "title": "美國期中選舉的藍色浪潮：民主黨成功翻轉參眾兩院，共和黨紅色堡壘接連失守",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JY3ZRU1JIMnRVVl8yUTZpSmQyNlpEbG1xVnZCZ2gwaEpGWmN3TUxkWWRNNW1MU05FVHItbTVQNzgwc3hVUU1NUDZyUXF5eGZmNTVkZnh6Qlp4Z1MzYWR4TUEyX19rd9IBa0FVX3lxTE5VXzZLYkx3LVF4eGNxRV9aSTZrX015S0t5a21DVXMwa2FNdWN0S3I5SXNHWC1oX0lYUVdQV0NxTWY0TTluSVBlejdVdmtuakJIdXI2bjg0eHRXTzFLNW82NFc4VWJLYkM2MHRz?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "美眾院民主黨團：無人提彈劾總統　新會期聚焦民生法案",
       "summary": [
         "經濟日報：美眾院民主黨團：無人提彈劾總統　新會期聚焦民生法案",
@@ -83,28 +137,34 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "湖口火警連發！住宅深夜失火5人受困獲救 3人送醫",
+      "rank": 6,
+      "title": "要員工多用 AI 預算卻縮水！傳蘋果工程師每日額度擬從300砍至100美元",
       "summary": [
-        "自由時報：湖口火警連發！住宅深夜失火5人受困獲救 3人送醫",
-        "ETtoday：新竹湖口住宅晚間火警！5人受困陽臺　消防急救援3人送醫"
+        "經濟日報：要員工多用 AI 預算卻縮水！傳蘋果工程師每日額度擬從300砍至100美元",
+        "iThome：蘋果傳縮減員工AI費用額度，工程人員可能降到每天100美元",
+        "數位時代：「Token自由」結束了！蘋果調降員工AI預算，工程師每日額度降至200美元"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "自由時報",
-          "title": "湖口火警連發！住宅深夜失火5人受困獲救 3人送醫",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5629833"
+          "source": "經濟日報",
+          "title": "要員工多用 AI 預算卻縮水！傳蘋果工程師每日額度擬從300砍至100美元",
+          "url": "https://money.udn.com/money/story/5599/9858442"
         },
         {
-          "source": "ETtoday",
-          "title": "新竹湖口住宅晚間火警！5人受困陽臺　消防急救援3人送醫",
-          "url": "https://www.ettoday.net/news/20261105/3266586.htm"
+          "source": "iThome",
+          "title": "蘋果傳縮減員工AI費用額度，工程人員可能降到每天100美元",
+          "url": "https://www.ithome.com.tw/news/180241"
+        },
+        {
+          "source": "數位時代",
+          "title": "「Token自由」結束了！蘋果調降員工AI預算，工程師每日額度降至200美元",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vWGJ2dFlpd2RLMVpCaWMwN3dKN0VSc2hZNDNnTG1DN1dsVi04UktCTUtrUkxTMzJVX2NWZFp4ampEZl9sdWc3RDAzaVUtQ2NZRm53Y3MtOG9MTW12bmJfNXlpbWcwZ2UxLTVGMGFXZ1RKZi0tYy01MFlnZUxXcjg?oc=5"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
       "summary": [
         "iThome：王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
@@ -125,28 +185,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
-      "summary": [
-        "自由時報：深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
-        "經濟日報：深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629836"
-        },
-        {
-          "source": "經濟日報",
-          "title": "深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
-          "url": "https://money.udn.com/money/story/5599/9858223"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "title": "美期中選舉共和黨輸掉眾院　議長強生不角逐少數黨領袖",
       "summary": [
         "自由時報：美期中選舉共和黨輸掉眾院　議長強生不角逐少數黨領袖",
@@ -167,7 +206,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "谷歌宣告只是教育方案先關閉雙子座，並非禁止使用人工智慧就無法使用Google服務",
       "summary": [
         "癮科技Cool3c：谷歌宣告只是教育方案先關閉雙子座，並非禁止使用人工智慧就無法使用Google服務",
@@ -188,7 +227,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "川普坦言美伊戰爭拖累選情　但排除開除戰爭部長",
       "summary": [
         "自由時報：川普坦言美伊戰爭拖累選情　但排除開除戰爭部長",
@@ -205,27 +244,6 @@
           "source": "經濟日報",
           "title": "川普坦言美伊戰爭拖累選情　但排除開除戰爭部長",
           "url": "https://money.udn.com/money/story/5599/9858257"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "市場消化美期中選舉結果　歐股收盤勁揚",
-      "summary": [
-        "自由時報：市場消化美期中選舉結果　歐股收盤勁揚",
-        "經濟日報：市場消化美期中選舉結果　歐股收盤勁揚"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "市場消化美期中選舉結果　歐股收盤勁揚",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5629852"
-        },
-        {
-          "source": "經濟日報",
-          "title": "市場消化美期中選舉結果　歐股收盤勁揚",
-          "url": "https://money.udn.com/money/story/5599/9858251"
         }
       ]
     }
@@ -314,48 +332,6 @@
     },
     {
       "rank": 4,
-      "title": "美國中期選舉結果對希望減免關稅的加拿大人來說是“勝利”",
-      "summary": [
-        "BBC World：美國中期選舉結果對希望減免關稅的加拿大人來說是“勝利”",
-        "Financial Times：加拿大人歡迎民主黨在美國中期選舉中大獲全勝"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "美國中期選舉結果對希望減免關稅的加拿大人來說是“勝利”",
-          "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Financial Times",
-          "title": "加拿大人歡迎民主黨在美國中期選舉中大獲全勝",
-          "url": "https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "民主黨在中期選舉中取得關鍵勝利，美國股指期貨漲跌互現",
-      "summary": [
-        "Yahoo Finance：民主黨在中期選舉中取得關鍵勝利，美國股指期貨漲跌互現",
-        "WSJ Markets：民主黨獲勝，股市飆升，油價暴跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "民主黨在中期選舉中取得關鍵勝利，美國股指期貨漲跌互現",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmh3ZS14WWlMdTAweno4UTlzNGxnYm9ScWZxWW1sUmZBbHlXdDFIbVJhOUlEckpybllHblc4TnlkdHVnWDY2S08ySnFOUnBGM1BmUG1NNklUQ1VHdGxCMlk3ZlN6MWpjcEkyUDdmZWh6d1BJQkhha0NORVg2N2s0ejlyTC1Xci1fRnk1VFJKUVR5NkNlMnBhQUthUWlJaUk?oc=5"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "民主黨獲勝，股市飆升，油價暴跌",
-          "url": "https://www.wsj.com/finance/stocks/stocks-surge-oil-plummets-on-democrat-victory-d4f606b5?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "歐洲將向晶片新創公司投資 5.25 億歐元以趕上美國和中國",
       "summary": [
         "Investing.com：歐洲將向晶片新創公司投資 5.25 億歐元以趕上美國和中國",
@@ -376,11 +352,11 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "法國一家銀行遭遇網路攻擊，涉案金額約1億歐元",
       "summary": [
         "法廣RFI：法國一家銀行遭遇網路攻擊，涉案金額約1億歐元",
-        "NHK新聞：法國銀行遭受網路攻擊或導致資金洩露"
+        "NHK新聞：法國銀行遭受網路攻擊可能導致資金洩露"
       ],
       "media_count": 2,
       "links": [
@@ -391,13 +367,13 @@
         },
         {
           "source": "NHK新聞",
-          "title": "法國銀行遭受網路攻擊或導致資金洩露",
+          "title": "法國銀行遭受網路攻擊可能導致資金洩露",
           "url": "https://news.web.nhk/newsweb/na/nd-20261105de70718"
         }
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "高盛與阿波羅正在洽談出售 SpaceX 價值 400 億美元的人工智慧交易",
       "summary": [
         "Bloomberg Tech：高盛與阿波羅正在洽談出售 SpaceX 價值 400 億美元的人工智慧交易",
@@ -418,7 +394,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "成立數月的晶片新創公司 Tenspresso 正在洽談 5 億美元估值",
       "summary": [
         "Bloomberg Tech：成立數月的晶片新創公司 Tenspresso 正在洽談 5 億美元估值",
@@ -439,7 +415,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Nextdc 因 Goodman 和 Digital Realty 收購股份而銷售額",
       "summary": [
         "Bloomberg Tech：Nextdc 因 Goodman 和 Digital Realty 收購股份而銷售額",
@@ -456,6 +432,48 @@
           "source": "CNBC",
           "title": "Goodman與Digital Realty收購股份後NextDC股價飆升43%",
           "url": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "黃之鋒勾結罪國安案判囚10年",
+      "summary": [
+        "BBC中文：黃之鋒勾結罪國安案判囚10年",
+        "德國之聲：黃之鋒「勾結外國勢力罪」判刑10年 出獄時或已40歲"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "黃之鋒勾結罪國安案判囚10年",
+          "url": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "德國之聲",
+          "title": "黃之鋒「勾結外國勢力罪」判刑10年 出獄時或已40歲",
+          "url": "https://www.dw.com/zh/黃之鋒「勾結外國勢力罪」判刑10年-出獄時或已40歲/a-79859899?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "混合動力車銷量強勁，豐田利潤激增並上調年度前景",
+      "summary": [
+        "Investing.com：混合動力車銷量強勁，豐田利潤激增並上調年度前景",
+        "Nikkei Asia：混合動力車銷售強勁，克服中國經濟下滑，豐田調高獲利預期"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "混合動力車銷量強勁，豐田利潤激增並上調年度前景",
+          "url": "https://www.investing.com/news/stock-market-news/toyota-profit-surges-34-first-rise-in-six-quarters-5002210"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "混合動力車銷售強勁，克服中國經濟下滑，豐田調高獲利預期",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY01kamVWU0RacEpZV2xaOEtRa3BFcE1Gb2pIZ2hHZ2kxNFBiQ2ktd0dtZE5yYTA3OE1JdEdqNVo4T2dhcTdlaHh6Um5xT1JTcjNRZ1MzSlhEWXZXWC1WWk1sVFN1cXphWlNQb1EwSy00YUQzSkJ4b0xPbk5zcjd2bDVOaGw0QnptbENDYzdnbWt2eEFITTFiZktRWVJvQ2drWmpyOUFpN2kyT3BEVUJCeV9qalo?oc=5"
         }
       ]
     }
