@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-05 15:08",
+  "updated_at": "2026-11-05 16:38",
   "taiwan": [
     {
       "rank": 1,
-      "title": "共和黨敗選後首露面！川普坦言伊朗戰爭拖累選情 但重來一次照打",
+      "title": "北韓試射先進防空飛彈　東部部隊演練火力打擊",
       "summary": [
-        "經濟日報：共和黨敗選後首露面！川普坦言伊朗戰爭拖累選情 但重來一次照打",
-        "ETtoday：川普敗選後首露面：伊朗戰爭拖累選情　民主黨若彈劾將自取滅亡",
-        "公視新聞：美期中選舉共和黨失利川普坦承敗選歸咎對伊朗開戰｜20261105 公視早安新聞｜ 公視新聞PNN"
+        "自由時報：北韓試射先進防空飛彈　東部部隊演練火力打擊",
+        "經濟日報：北韓試射先進防空飛彈　東部部隊演練火力打擊",
+        "ETtoday：北韓證實試射新型防空飛彈！巡弋飛彈模擬攻擊機場　抗議美韓軍演"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "共和黨敗選後首露面！川普坦言伊朗戰爭拖累選情 但重來一次照打",
-          "url": "https://money.udn.com/money/story/5599/9858258"
+          "source": "自由時報",
+          "title": "北韓試射先進防空飛彈　東部部隊演練火力打擊",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629862"
         },
+        {
+          "source": "經濟日報",
+          "title": "北韓試射先進防空飛彈　東部部隊演練火力打擊",
+          "url": "https://money.udn.com/money/story/5599/9858304"
+        },
+        {
+          "source": "ETtoday",
+          "title": "北韓證實試射新型防空飛彈！巡弋飛彈模擬攻擊機場　抗議美韓軍演",
+          "url": "https://www.ettoday.net/news/20261105/3266710.htm"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "川普敗選後首露面：伊朗戰爭拖累選情　民主黨若彈劾將自取滅亡",
+      "summary": [
+        "ETtoday：川普敗選後首露面：伊朗戰爭拖累選情　民主黨若彈劾將自取滅亡",
+        "經濟日報：美期中選後／川普對伊朗戰爭踩煞車？俄烏恐成下個政治角力場",
+        "中時新聞：共和黨期中選舉慘敗川普認伊朗戰爭拖累！ 民主黨若彈劾將自取滅亡- 國際"
+      ],
+      "media_count": 3,
+      "links": [
         {
           "source": "ETtoday",
           "title": "川普敗選後首露面：伊朗戰爭拖累選情　民主黨若彈劾將自取滅亡",
           "url": "https://www.ettoday.net/news/20261105/3266609.htm"
         },
         {
-          "source": "公視新聞",
-          "title": "美期中選舉共和黨失利川普坦承敗選歸咎對伊朗開戰｜20261105 公視早安新聞｜ 公視新聞PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tejFkWUxmbWpMRnlKa1VWMGk2TDNEdVpXT0c1UlExMjRHQ2pVUlFaY3AwQ1JyZFhLU0V1azJFaUJTS3dOU3VLc3JBWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "美期中選舉》民主黨上演「史詩級大勝」！橫掃參眾兩院連共和黨票倉德州都變天- 國際",
-      "summary": [
-        "工商時報：美期中選舉》民主黨上演「史詩級大勝」！橫掃參眾兩院連共和黨票倉德州都變天- 國際",
-        "自由時報：美期中選舉 民主黨大勝 拿下參眾兩院",
-        "轉角國際：美國期中選舉的藍色浪潮：民主黨成功翻轉參眾兩院，共和黨紅色堡壘接連失守"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "美期中選舉》民主黨上演「史詩級大勝」！橫掃參眾兩院連共和黨票倉德州都變天- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SVkhzMTdzSks1b0pacnR0bzh2RjlqMnhjOVd2XzBRTEI2UldfU2k4UHVkbGFLSDBzSHZnTzR5Rlp5RDVnNkJmcEkwb2h4Y2pYcGpNeDh1b3J3NzRFUDJR?oc=5"
+          "source": "經濟日報",
+          "title": "美期中選後／川普對伊朗戰爭踩煞車？俄烏恐成下個政治角力場",
+          "url": "https://money.udn.com/money/story/122381/9858488"
         },
         {
-          "source": "自由時報",
-          "title": "美期中選舉 民主黨大勝 拿下參眾兩院",
-          "url": "https://news.ltn.com.tw/news/world/paper/1777205"
-        },
-        {
-          "source": "轉角國際",
-          "title": "美國期中選舉的藍色浪潮：民主黨成功翻轉參眾兩院，共和黨紅色堡壘接連失守",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JY3ZRU1JIMnRVVl8yUTZpSmQyNlpEbG1xVnZCZ2gwaEpGWmN3TUxkWWRNNW1MU05FVHItbTVQNzgwc3hVUU1NUDZyUXF5eGZmNTVkZnh6Qlp4Z1MzYWR4TUEyX19rd9IBa0FVX3lxTE5VXzZLYkx3LVF4eGNxRV9aSTZrX015S0t5a21DVXMwa2FNdWN0S3I5SXNHWC1oX0lYUVdQV0NxTWY0TTluSVBlejdVdmtuakJIdXI2bjg0eHRXTzFLNW82NFc4VWJLYkM2MHRz?oc=5"
+          "source": "中時新聞",
+          "title": "共和黨期中選舉慘敗川普認伊朗戰爭拖累！ 民主黨若彈劾將自取滅亡- 國際",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15VG9ZR3N1Ukd6QmF4S3BGRnhtaEpRTllpUW9EbEE4aS1jME96Q1B5NHFFcEMtaE5vcGtwR1hHNjY1WmhDVjdnZF80Vzhyc3JKX0Rmc1RLQ3E0Y3p6clptQUdLY1NiZDdqT3kxbDZR?oc=5"
         }
       ]
     },
@@ -84,6 +84,33 @@
     },
     {
       "rank": 4,
+      "title": "認伊朗戰爭是敗選主因川普認值得:會做同樣決定｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+      "summary": [
+        "TVBS新聞：認伊朗戰爭是敗選主因川普認值得:會做同樣決定｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "經濟日報：川普認美伊戰爭害共和黨慘敗！伊朗嗆：戰場、政治上都輸了",
+        "公視新聞：美期中選舉共和黨失利川普坦承敗選歸咎對伊朗開戰｜20261105 公視早安新聞｜ 公視新聞PNN"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "認伊朗戰爭是敗選主因川普認值得:會做同樣決定｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RTmVuVUJNWXBna1RCRWM5eC1TY2Y4NllBSmZ5a1paVEdySXJMYi1VZklBSXZfUDkxb2xHRGRwQ2lFdTZvY1lYdkpaaEdKVkFZSUJOVU13?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普認美伊戰爭害共和黨慘敗！伊朗嗆：戰場、政治上都輸了",
+          "url": "https://money.udn.com/money/story/5599/9858415"
+        },
+        {
+          "source": "公視新聞",
+          "title": "美期中選舉共和黨失利川普坦承敗選歸咎對伊朗開戰｜20261105 公視早安新聞｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tejFkWUxmbWpMRnlKa1VWMGk2TDNEdVpXT0c1UlExMjRHQ2pVUlFaY3AwQ1JyZFhLU0V1azJFaUJTS3dOU3VLc3JBWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "要員工多用 AI 預算卻縮水！傳蘋果工程師每日額度擬從300砍至100美元",
       "summary": [
         "經濟日報：要員工多用 AI 預算卻縮水！傳蘋果工程師每日額度擬從300砍至100美元",
@@ -110,7 +137,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
       "summary": [
         "iThome：王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
@@ -131,107 +158,86 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "川普坦言美伊戰爭拖累選情　但排除開除戰爭部長",
-      "summary": [
-        "自由時報：川普坦言美伊戰爭拖累選情　但排除開除戰爭部長",
-        "經濟日報：川普坦言美伊戰爭拖累選情　但排除開除戰爭部長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "川普坦言美伊戰爭拖累選情　但排除開除戰爭部長",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629853"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普坦言美伊戰爭拖累選情　但排除開除戰爭部長",
-          "url": "https://money.udn.com/money/story/5599/9858257"
-        }
-      ]
-    },
-    {
       "rank": 7,
-      "title": "市場消化美期中選舉結果　歐股收盤勁揚",
+      "title": "民主黨下一個歐巴馬　奧索夫連任參議員問鼎白宮機率增",
       "summary": [
-        "自由時報：市場消化美期中選舉結果　歐股收盤勁揚",
-        "經濟日報：市場消化美期中選舉結果　歐股收盤勁揚"
+        "自由時報：民主黨下一個歐巴馬　奧索夫連任參議員問鼎白宮機率增",
+        "經濟日報：民主黨下一個歐巴馬　奧索夫連任參議員問鼎白宮機率增"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "市場消化美期中選舉結果　歐股收盤勁揚",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5629852"
+          "title": "民主黨下一個歐巴馬　奧索夫連任參議員問鼎白宮機率增",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629859"
         },
         {
           "source": "經濟日報",
-          "title": "市場消化美期中選舉結果　歐股收盤勁揚",
-          "url": "https://money.udn.com/money/story/5599/9858251"
+          "title": "民主黨下一個歐巴馬　奧索夫連任參議員問鼎白宮機率增",
+          "url": "https://money.udn.com/money/story/5599/9858285"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "美期中選舉共和黨大敗　範斯：美伊戰爭是失利原因",
+      "title": "美國期中選舉變天 政策外交／川普變跛腳總統…還有四大麻煩找碴 恐遭更嚴格監督",
       "summary": [
-        "自由時報：美期中選舉共和黨大敗　範斯：美伊戰爭是失利原因",
-        "經濟日報：美期中選舉共和黨大敗　範斯：美伊戰爭是失利原因"
+        "經濟日報：美國期中選舉變天 政策外交／川普變跛腳總統…還有四大麻煩找碴 恐遭更嚴格監督",
+        "風傳媒：美國期中選舉確定變天！川普淪跛鴨總統 外交部：對美工作不分黨派廣結善緣 | 鍾秉哲 | 新聞"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "美期中選舉共和黨大敗　範斯：美伊戰爭是失利原因",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629849"
+          "source": "經濟日報",
+          "title": "美國期中選舉變天 政策外交／川普變跛腳總統…還有四大麻煩找碴 恐遭更嚴格監督",
+          "url": "https://money.udn.com/money/story/5599/9858043"
         },
         {
-          "source": "經濟日報",
-          "title": "美期中選舉共和黨大敗　範斯：美伊戰爭是失利原因",
-          "url": "https://money.udn.com/money/story/5599/9858246"
+          "source": "風傳媒",
+          "title": "美國期中選舉確定變天！川普淪跛鴨總統 外交部：對美工作不分黨派廣結善緣 | 鍾秉哲 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BdVZGU0VXQTF5Y0FncjN6OXNKemFGc0NySU5DMnJJUU4teTY1SllqckpiczAtdmxWQ3h0ZU9QUl9ITGFyRHdQb2JHTHJOQQ?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "川普期中考被活當！謝金河喊「AI重新評估」　臺股5萬點恐等明年",
+      "title": "民主黨強生當選德州檢察長　曾為「七龍珠Z」配樂",
       "summary": [
-        "ETtoday：川普期中考被活當！謝金河喊「AI重新評估」　臺股5萬點恐等明年",
-        "中時新聞：川普期中考被當！謝金河提醒須重新評估AI未來：臺股5萬恐等明年- 要聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "川普期中考被活當！謝金河喊「AI重新評估」　臺股5萬點恐等明年",
-          "url": "https://finance.ettoday.net/news/3266579"
-        },
-        {
-          "source": "中時新聞",
-          "title": "川普期中考被當！謝金河提醒須重新評估AI未來：臺股5萬恐等明年- 要聞",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkUk5TbEg4ZHZpeFhLb2tHbjFIODY4RTJXajE5azRYUzlFVms2XzktVjRsVFNFbFI0TmJxSnp5N0J3anBGU3I0VmxlMVdBazBnRHZxTzRfNHBGZGtIbDdQN291aS12VFB0R214U2Zn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "民主黨將重掌國會　川普：若發起彈劾將自取滅亡",
-      "summary": [
-        "自由時報：民主黨將重掌國會　川普：若發起彈劾將自取滅亡",
-        "經濟日報：民主黨將重掌國會　川普：若發起彈劾將自取滅亡"
+        "自由時報：民主黨強生當選德州檢察長　曾為「七龍珠Z」配樂",
+        "經濟日報：民主黨強生當選德州檢察長　曾為「七龍珠Z」配樂"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "民主黨將重掌國會　川普：若發起彈劾將自取滅亡",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629858"
+          "title": "民主黨強生當選德州檢察長　曾為「七龍珠Z」配樂",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629861"
         },
         {
           "source": "經濟日報",
-          "title": "民主黨將重掌國會　川普：若發起彈劾將自取滅亡",
-          "url": "https://money.udn.com/money/story/5599/9858271"
+          "title": "民主黨強生當選德州檢察長　曾為「七龍珠Z」配樂",
+          "url": "https://money.udn.com/money/story/5599/9858302"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美期中選舉 民主黨大勝 拿下參眾兩院",
+      "summary": [
+        "自由時報：美期中選舉 民主黨大勝 拿下參眾兩院",
+        "轉角國際：美國期中選舉的藍色浪潮：民主黨成功翻轉參眾兩院，共和黨紅色堡壘接連失守"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美期中選舉 民主黨大勝 拿下參眾兩院",
+          "url": "https://news.ltn.com.tw/news/world/paper/1777205"
+        },
+        {
+          "source": "轉角國際",
+          "title": "美國期中選舉的藍色浪潮：民主黨成功翻轉參眾兩院，共和黨紅色堡壘接連失守",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JY3ZRU1JIMnRVVl8yUTZpSmQyNlpEbG1xVnZCZ2gwaEpGWmN3TUxkWWRNNW1MU05FVHItbTVQNzgwc3hVUU1NUDZyUXF5eGZmNTVkZnh6Qlp4Z1MzYWR4TUEyX19rd9IBa0FVX3lxTE5VXzZLYkx3LVF4eGNxRV9aSTZrX015S0t5a21DVXMwa2FNdWN0S3I5SXNHWC1oX0lYUVdQV0NxTWY0TTluSVBlejdVdmtuakJIdXI2bjg0eHRXTzFLNW82NFc4VWJLYkM2MHRz?oc=5"
         }
       ]
     }
@@ -239,40 +245,13 @@
   "global": [
     {
       "rank": 1,
-      "title": "蘋果削減內部人工智慧使用預算以減少支出",
-      "summary": [
-        "Bloomberg Tech：蘋果削減內部人工智慧使用預算以減少支出",
-        "Investing.com：據報道，蘋果降低了工程師的每日人工智慧支出限額",
-        "TechCrunch：據報道，蘋果正在削減內部人工智慧使用的預算"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "蘋果削減內部人工智慧使用預算以減少支出",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending"
-        },
-        {
-          "source": "Investing.com",
-          "title": "據報道，蘋果降低了工程師的每日人工智慧支出限額",
-          "url": "https://www.investing.com/news/stock-market-news/apple-reportedly-lowers-daily-ai-spending-limits-for-engineers-5001119"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "據報道，蘋果正在削減內部人工智慧使用的預算",
-          "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "香港民主活動人士黃之鋒因國家安全案被判入獄10年",
       "summary": [
         "The Guardian：香港民主活動人士黃之鋒因國家安全案被判入獄10年",
         "Bloomberg Markets：香港維權人士黃之鋒入獄十年",
         "BBC World：香港民主抗議活動代言人黃之鋒被判入獄10年"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "The Guardian",
@@ -288,6 +267,38 @@
           "source": "BBC World",
           "title": "香港民主抗議活動代言人黃之鋒被判入獄10年",
           "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Financial Times",
+          "title": "香港判處民主活動人士黃之鋒十年徒刑",
+          "url": "https://www.ft.com/content/8ea68e28-8239-44b5-8c0c-a26c2ded9347?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "黃之鋒勾結罪國安案判囚10年",
+      "summary": [
+        "BBC中文：黃之鋒勾結罪國安案判囚10年",
+        "德國之聲：黃之鋒「勾結外國勢力罪」判刑10年 出獄時或已40歲",
+        "法廣RFI：黃之鋒被控串謀勾結外國勢力 法官裁定屬「罪行重大」 重判10年料服刑至40歲"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "黃之鋒勾結罪國安案判囚10年",
+          "url": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "德國之聲",
+          "title": "黃之鋒「勾結外國勢力罪」判刑10年 出獄時或已40歲",
+          "url": "https://www.dw.com/zh/黃之鋒「勾結外國勢力罪」判刑10年-出獄時或已40歲/a-79859899?maca=chi-rss-chi-all-1127-rdf"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "黃之鋒被控串謀勾結外國勢力 法官裁定屬「罪行重大」 重判10年料服刑至40歲",
+          "url": "https://www.rfi.fr/tw/%E4%BA%BA%E6%AC%8A/20261105-%E9%BB%83%E4%B9%8B%E9%8B%92%E8%A2%AB%E6%8E%A7%E4%B8%B2%E8%AC%80%E5%8B%BE%E7%B5%90%E5%A4%96%E5%9C%8B%E5%8B%A2%E5%8A%9B-%E6%B3%95%E5%AE%98%E8%A3%81%E5%AE%9A%E5%B1%AC-%E7%BD%AA%E8%A1%8C%E9%87%8D%E5%A4%A7-%E9%87%8D%E5%88%A410%E5%B9%B4%E6%96%99%E6%9C%8D%E5%88%91%E8%87%B340%E6%AD%B2"
         }
       ]
     },
@@ -320,31 +331,10 @@
     },
     {
       "rank": 4,
-      "title": "美國財政部單週借款創紀錄 8,390 億美元",
-      "summary": [
-        "Bloomberg Markets：美國財政部單週借款創紀錄 8,390 億美元",
-        "Yahoo Finance：美國財政部單週借款創紀錄 8,390 億美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "美國財政部單週借款創紀錄 8,390 億美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-30/us-treasury-borrows-record-839-billion-in-auctions-this-week"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "美國財政部單週借款創紀錄 8,390 億美元",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOamlGT21iLUVLdTY2VTVyOVNYTG5zcDRKZHhSVnVMaUlTdkhYUV9xNVI3bjNOa1R6SVhReUd0OWkybEV6TTRIQmttRk9lbnpCYlhBaC1GM09jMjlJeEF3eHEySVF2LXptaGpJZjlhYnQtUjhPU1dVTExmM3RtN0FUb2cxa05WbTJrcWg5YzRNRDc3elBGUmVPcTBVdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "法國一家銀行遭遇網路攻擊，涉案金額約1億歐元",
       "summary": [
         "法廣RFI：法國一家銀行遭遇網路攻擊，涉案金額約1億歐元",
-        "NHK新聞：法國銀行遭受網路攻擊可能導致資金洩露"
+        "NHK新聞：法國銀行遭受網路攻擊或導致資金洩露"
       ],
       "media_count": 2,
       "links": [
@@ -355,13 +345,13 @@
         },
         {
           "source": "NHK新聞",
-          "title": "法國銀行遭受網路攻擊可能導致資金洩露",
+          "title": "法國銀行遭受網路攻擊或導致資金洩露",
           "url": "https://news.web.nhk/newsweb/na/nd-20261105de70718"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "高盛與阿波羅正在洽談出售 SpaceX 價值 400 億美元的人工智慧交易",
       "summary": [
         "Bloomberg Tech：高盛與阿波羅正在洽談出售 SpaceX 價值 400 億美元的人工智慧交易",
@@ -382,7 +372,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "成立數月的晶片新創公司 Tenspresso 正在洽談 5 億美元估值",
       "summary": [
         "Bloomberg Tech：成立數月的晶片新創公司 Tenspresso 正在洽談 5 億美元估值",
@@ -403,7 +393,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Nextdc 因 Goodman 和 Digital Realty 收購股份而銷售額",
       "summary": [
         "Bloomberg Tech：Nextdc 因 Goodman 和 Digital Realty 收購股份而銷售額",
@@ -424,28 +414,28 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "黃之鋒勾結罪國安案判囚10年",
+      "rank": 8,
+      "title": "中期選舉後川普媒體股價暴跌",
       "summary": [
-        "BBC中文：黃之鋒勾結罪國安案判囚10年",
-        "德國之聲：黃之鋒「勾結外國勢力罪」判刑10年 出獄時或已40歲"
+        "Washington Post：中期選舉後川普媒體股價暴跌",
+        "Yahoo Finance：民主黨橫掃國會後川普媒體股價暴跌 12%"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "BBC中文",
-          "title": "黃之鋒勾結罪國安案判囚10年",
-          "url": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad?at_medium=RSS&at_campaign=rss"
+          "source": "Washington Post",
+          "title": "中期選舉後川普媒體股價暴跌",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOHVKT2EwcEZ3WVNnWGs3THVfSWJ6ZHJnZG1PTnBsSGhxbl9hbHNKSm9obVZKZDI0NUVUZ1ZXUW5WSTF1MmFEZUNLazZaUHhvdV9LaW5RLXBuTzVOTjdvZlhWX2h4SDhGUU5iWnhlcl8zWWdMWmk1U1JacmZJNmhrcnpuUHhHS0M1OTdaZVNIWTRWN09TNGNCVw?oc=5"
         },
         {
-          "source": "德國之聲",
-          "title": "黃之鋒「勾結外國勢力罪」判刑10年 出獄時或已40歲",
-          "url": "https://www.dw.com/zh/黃之鋒「勾結外國勢力罪」判刑10年-出獄時或已40歲/a-79859899?maca=chi-rss-chi-all-1127-rdf"
+          "source": "Yahoo Finance",
+          "title": "民主黨橫掃國會後川普媒體股價暴跌 12%",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjlyZ3dPVzYxbTBxU05FVE5sUnFxc0o1cVFTUWNqTUhlMUxHbW11bHl2S2Jna3d1dkdmNExEUjIya0xLenBJMmYyMVV0NEo3ak1lSk40eTVBYzFjRGdEb2NyVlVaWXBnb1l6dnVJVElaX0pvQ0xMQUl3a3hJSl9ZTW03ckxoRE9ZS0dmWTM3N0o3MXBhQ2ozbzJlX2VvLWloRENZazZld0hNR2FCQ3JVd3I3UEY5czQ?oc=5"
         }
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "微軟拒絕與英國 Nscale 達成數十億美元的人工智慧交易",
       "summary": [
         "Financial Times：微軟拒絕與英國 Nscale 達成數十億美元的人工智慧交易",
@@ -462,6 +452,27 @@
           "source": "Investing.com",
           "title": "根據英國《金融時報》報道，微軟拒絕了與英國 Nscale 數十億美元的人工智慧交易",
           "url": "https://www.investing.com/news/stock-market-news/microsoft-rejects-multibilliondollar-ai-deal-with-uks-nscale-ft-reports-5002300"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "混合動力車銷量強勁，豐田利潤激增並上調年度前景",
+      "summary": [
+        "Investing.com：混合動力車銷量強勁，豐田利潤激增並上調年度前景",
+        "Nikkei Asia：混合動力車銷售強勁，克服中國經濟下滑，豐田調高獲利預期"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "混合動力車銷量強勁，豐田利潤激增並上調年度前景",
+          "url": "https://www.investing.com/news/stock-market-news/toyota-profit-surges-34-first-rise-in-six-quarters-5002210"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "混合動力車銷售強勁，克服中國經濟下滑，豐田調高獲利預期",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY01kamVWU0RacEpZV2xaOEtRa3BFcE1Gb2pIZ2hHZ2kxNFBiQ2ktd0dtZE5yYTA3OE1JdEdqNVo4T2dhcTdlaHh6Um5xT1JTcjNRZ1MzSlhEWXZXWC1WWk1sVFN1cXphWlNQb1EwSy00YUQzSkJ4b0xPbk5zcjd2bDVOaGw0QnptbENDYzdnbWt2eEFITTFiZktRWVJvQ2drWmpyOUFpN2kyT3BEVUJCeV9qalo?oc=5"
         }
       ]
     }
