@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-05 17:59",
+  "updated_at": "2026-11-05 19:00",
   "taiwan": [
     {
       "rank": 1,
-      "title": "北韓試射先進防空飛彈　東部部隊演練火力打擊",
-      "summary": [
-        "自由時報：北韓試射先進防空飛彈　東部部隊演練火力打擊",
-        "經濟日報：北韓試射先進防空飛彈　東部部隊演練火力打擊",
-        "ETtoday：北韓證實試射新型防空飛彈！巡弋飛彈模擬攻擊機場　抗議美韓軍演"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "北韓試射先進防空飛彈　東部部隊演練火力打擊",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629862"
-        },
-        {
-          "source": "經濟日報",
-          "title": "北韓試射先進防空飛彈　東部部隊演練火力打擊",
-          "url": "https://money.udn.com/money/story/5599/9858304"
-        },
-        {
-          "source": "ETtoday",
-          "title": "北韓證實試射新型防空飛彈！巡弋飛彈模擬攻擊機場　抗議美韓軍演",
-          "url": "https://www.ettoday.net/news/20261105/3266710.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "川普敗選後首露面：伊朗戰爭拖累選情　民主黨若彈劾將自取滅亡",
       "summary": [
         "ETtoday：川普敗選後首露面：伊朗戰爭拖累選情　民主黨若彈劾將自取滅亡",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "美眾院民主黨團：無人提彈劾總統　新會期聚焦民生法案",
       "summary": [
         "經濟日報：美眾院民主黨團：無人提彈劾總統　新會期聚焦民生法案",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "認伊朗戰爭是敗選主因川普認值得:會做同樣決定｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：認伊朗戰爭是敗選主因川普認值得:會做同樣決定｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -110,7 +83,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "要員工多用 AI 預算卻縮水！傳蘋果工程師每日額度擬從300砍至100美元",
       "summary": [
         "經濟日報：要員工多用 AI 預算卻縮水！傳蘋果工程師每日額度擬從300砍至100美元",
@@ -137,7 +110,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
       "summary": [
         "iThome：王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
@@ -158,7 +131,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "法國國家血液機構冷藏裝置遭網路攻擊，3處設施溫度控制遭竄改",
       "summary": [
         "iThome：法國國家血液機構冷藏裝置遭網路攻擊，3處設施溫度控制遭竄改",
@@ -179,65 +152,86 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "民主黨強生當選德州檢察長　曾為「七龍珠Z」配樂",
+      "rank": 7,
+      "title": "民主黨橫掃國會、美股大洗牌！AI股慘跌逾23％ 「這類股票」卻暴漲",
       "summary": [
-        "自由時報：民主黨強生當選德州檢察長　曾為「七龍珠Z」配樂",
-        "經濟日報：民主黨強生當選德州檢察長　曾為「七龍珠Z」配樂"
+        "自由時報：民主黨橫掃國會、美股大洗牌！AI股慘跌逾23％ 「這類股票」卻暴漲",
+        "INSIDE硬塞：美國期中選舉民主黨拿下國會，AI 資料中心股走跌、政治團體砸數百萬美元成敗互見"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "民主黨強生當選德州檢察長　曾為「七龍珠Z」配樂",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629861"
+          "title": "民主黨橫掃國會、美股大洗牌！AI股慘跌逾23％ 「這類股票」卻暴漲",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5629945"
         },
         {
-          "source": "經濟日報",
-          "title": "民主黨強生當選德州檢察長　曾為「七龍珠Z」配樂",
-          "url": "https://money.udn.com/money/story/5599/9858302"
+          "source": "INSIDE硬塞",
+          "title": "美國期中選舉民主黨拿下國會，AI 資料中心股走跌、政治團體砸數百萬美元成敗互見",
+          "url": "https://www.inside.com.tw/article/42826-us-midterms-ai-data-center-stocks-pacs"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "東芝持續出售 NAND 廠鎧俠股份、持股比重跌破 11%",
+      "summary": [
+        "科技新報：東芝持續出售 NAND 廠鎧俠股份、持股比重跌破 11%",
+        "MoneyDJ理財網：東芝持續出售NAND廠鎧俠股份、持股比重跌破11%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "東芝持續出售 NAND 廠鎧俠股份、持股比重跌破 11%",
+          "url": "https://finance.technews.tw/2026/11/05/toshiba-sells-kioxia-shares-stake-drops-below-11pc/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "東芝持續出售NAND廠鎧俠股份、持股比重跌破11%",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWFrRkVPQUgyZ0xmSXZqWFk4R29oZWo0eFlEdWZsbWRMR0k2LUtvbEhjS01xaFl1UHh2Q2R5dUNNaUpjX2tyNzJfc2NXMTllU1QzRTNCOHlEanBPOUZyTXIwOXdFREF0Mlo3d2otNW9qZnBDTjNRTmlCa01VclJJRmdUNUlUbW5UZl91ZVBMVjdJZw?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "美期中選舉 民主黨大勝 拿下參眾兩院",
+      "title": "高通手機晶片營收遜、蘋果訂單流失  盤後摔",
       "summary": [
-        "自由時報：美期中選舉 民主黨大勝 拿下參眾兩院",
-        "轉角國際：美國期中選舉的藍色浪潮：民主黨成功翻轉參眾兩院，共和黨紅色堡壘接連失守"
+        "科技新報：高通手機晶片營收遜、蘋果訂單流失  盤後摔",
+        "MoneyDJ理財網：高通手機晶片營收遜、蘋果訂單流失盤後摔- 新聞"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "美期中選舉 民主黨大勝 拿下參眾兩院",
-          "url": "https://news.ltn.com.tw/news/world/paper/1777205"
+          "source": "科技新報",
+          "title": "高通手機晶片營收遜、蘋果訂單流失  盤後摔",
+          "url": "https://finance.technews.tw/2026/11/05/qualcomm-announces-fourth-quarter-and-fiscal-2026-results/"
         },
         {
-          "source": "轉角國際",
-          "title": "美國期中選舉的藍色浪潮：民主黨成功翻轉參眾兩院，共和黨紅色堡壘接連失守",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JY3ZRU1JIMnRVVl8yUTZpSmQyNlpEbG1xVnZCZ2gwaEpGWmN3TUxkWWRNNW1MU05FVHItbTVQNzgwc3hVUU1NUDZyUXF5eGZmNTVkZnh6Qlp4Z1MzYWR4TUEyX19rd9IBa0FVX3lxTE5VXzZLYkx3LVF4eGNxRV9aSTZrX015S0t5a21DVXMwa2FNdWN0S3I5SXNHWC1oX0lYUVdQV0NxTWY0TTluSVBlejdVdmtuakJIdXI2bjg0eHRXTzFLNW82NFc4VWJLYkM2MHRz?oc=5"
+          "source": "MoneyDJ理財網",
+          "title": "高通手機晶片營收遜、蘋果訂單流失盤後摔- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWRpRVM2M3ZkelMzX0gzeWdhRW44TV9mY3BQdEk1cVlBTTk4bTNRX0RveFFnUERXNDJXaTdQZXBvSnJ0TmJsZ0VYMm0wNTNuZW9BcmRxcThBX3JBNkxHWUdKeFZObWZ1ZFFmTUhlcDBvWHp1NTVtVmNVd3Q1NWxINDZRTldMQzFKYXJmWDNWMHI4Zw?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "自由日日Shoot》換船障眼法躲查緝 疑助張俊傑偷渡 逮捕2船長",
+      "title": "國家隊低接17檔逆勢翻紅- 日報",
       "summary": [
-        "自由時報：自由日日Shoot》換船障眼法躲查緝 疑助張俊傑偷渡 逮捕2船長",
-        "ETtoday：關鍵曝光！滿瑞福陸籍漁工開船載張俊傑偷渡　拘提到案偵訊中"
+        "工商時報：國家隊低接17檔逆勢翻紅- 日報",
+        "MoneyDJ理財網：國家隊低接17檔逆勢翻紅- 新聞"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "自由日日Shoot》換船障眼法躲查緝 疑助張俊傑偷渡 逮捕2船長",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1777204"
+          "source": "工商時報",
+          "title": "國家隊低接17檔逆勢翻紅- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NRFY5alpUbldMc3hpRjdvcTROYWxmeGRkWndDQmh2bnZqVVp5R3hDbTl3bnB6UEh6UDBaTDB1THhOTlBJZjdsSmppaHM4NklKc2ZxNlhpRVAtck1xbi04?oc=5"
         },
         {
-          "source": "ETtoday",
-          "title": "關鍵曝光！滿瑞福陸籍漁工開船載張俊傑偷渡　拘提到案偵訊中",
-          "url": "https://www.ettoday.net/news/20261105/3267036.htm"
+          "source": "MoneyDJ理財網",
+          "title": "國家隊低接17檔逆勢翻紅- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWV9udzZqRUZkQjd4RVBZaXktel9hNU4wU0FDZ0lkanhEZ1BvRGFfTzllbm5XR290TF96NUVHNHNXcy1sY1BKSkI0RVNCQVdxa0ozeTN2Zm9lVm9uX1pOZlhHX3pwYVM1X0RmaDVpU0hONmwxMEo4VXEyM2sxOTI3bkdTVk13R3VSM19HQnhZQndSQQ?oc=5"
         }
       ]
     }
@@ -357,6 +351,27 @@
     },
     {
       "rank": 5,
+      "title": "隨著智慧型手機銷量下滑，高通在資料中心上下了重註",
+      "summary": [
+        "The Verge：隨著智慧型手機銷量下滑，高通在資料中心上下了重註",
+        "Investing.com：由於智慧型手機晶片銷售疲軟掩蓋了資料中心的勢頭，高通股價暴跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "隨著智慧型手機銷量下滑，高通在資料中心上下了重註",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
+        },
+        {
+          "source": "Investing.com",
+          "title": "由於智慧型手機晶片銷售疲軟掩蓋了資料中心的勢頭，高通股價暴跌",
+          "url": "https://www.investing.com/news/stock-market-news/qualcomm-slumps-as-weak-smartphone-chip-sales-overshadow-datacenter-momentum-5002833"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Nextdc 因 Goodman 和 Digital Realty 收購股份而銷售額",
       "summary": [
         "Bloomberg Tech：Nextdc 因 Goodman 和 Digital Realty 收購股份而銷售額",
@@ -377,7 +392,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "中期選舉後川普媒體股價暴跌",
       "summary": [
         "Washington Post：中期選舉後川普媒體股價暴跌",
@@ -398,7 +413,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "微軟拒絕與英國 Nscale 達成數十億美元的人工智慧交易",
       "summary": [
         "Financial Times：微軟拒絕與英國 Nscale 達成數十億美元的人工智慧交易",
@@ -419,7 +434,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "混合動力車銷量強勁，豐田利潤激增並上調年度前景",
       "summary": [
         "Investing.com：混合動力車銷量強勁，豐田利潤激增並上調年度前景",
@@ -440,32 +455,17 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "為什麼相干公司的股票今天飆升？",
+      "rank": 10,
+      "title": "為什麼科蒂股票今天上漲？",
       "summary": [
-        "Investing.com：為什麼相干公司的股票今天飆升？"
+        "Investing.com：為什麼科蒂股票今天上漲？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Investing.com",
-          "title": "為什麼相干公司的股票今天飆升？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-coherent-stock-surging-today-93CH-5001411"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "黃之鋒因「勾結外國勢力」被判10年監禁- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：黃之鋒因「勾結外國勢力」被判10年監禁- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "黃之鋒因「勾結外國勢力」被判10年監禁- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkZFUk9hYk9oS0E5SmRVWWZNTS1TVVo0aUQxSUNRa09lTm9vYjB3cnFCeTlFQmlvQVFHNERKMUc0N1pCVXVTNXB3cjF2VVVrMUMtYW5JM3M0TS1hd09MUi03c1JrQlQ4LUFtN1kwOWRKRUVMdnhwYmhEVW1XSmo4cWo1VE1GN0xpcjVfSjVpTmhpdXVPNGFjQQ?oc=5"
+          "title": "為什麼科蒂股票今天上漲？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-coty-stock-rallying-today-93CH-5001771"
         }
       ]
     }
