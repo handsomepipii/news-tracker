@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 11:53",
+  "updated_at": "2026-11-05 12:57",
   "taiwan": [
     {
       "rank": 1,
@@ -105,48 +105,27 @@
     },
     {
       "rank": 5,
-      "title": "竹南鎮長候選人何秀綿涉賄選起訴  移審續押",
+      "title": "王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
       "summary": [
-        "自由時報：竹南鎮長候選人何秀綿涉賄選起訴  移審續押",
-        "ETtoday：竹南鎮長候選人何秀綿涉賄遭起訴！同案7被告4人交保"
+        "iThome：王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
+        "公開資訊觀測站重訊：王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "竹南鎮長候選人何秀綿涉賄選起訴  移審續押",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5629815"
+          "source": "iThome",
+          "title": "王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
+          "url": "https://www.ithome.com.tw/news/180246"
         },
         {
-          "source": "ETtoday",
-          "title": "竹南鎮長候選人何秀綿涉賄遭起訴！同案7被告4人交保",
-          "url": "https://www.ettoday.net/news/20261105/3266581.htm"
+          "source": "公開資訊觀測站重訊",
+          "title": "王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KNDQ1SHkxYnFiRXBGYk1vRGdnVEN0b1U3OGtmT3BVRWFuSWtVS1AxV3dqOExYbTBnX2hkNkdvRGh1Vlp6ZzdyN1hDc3dIdw?oc=5"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "美三大電信巨頭當心！SpaceX與高通簽協議 攜手部署地面5G基地臺",
-      "summary": [
-        "經濟日報：美三大電信巨頭當心！SpaceX與高通簽協議 攜手部署地面5G基地臺",
-        "iThome：SpaceX攜手高通建置全美5G網路，2027年起部署數萬座基地臺"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美三大電信巨頭當心！SpaceX與高通簽協議 攜手部署地面5G基地臺",
-          "url": "https://money.udn.com/money/story/5599/9858097"
-        },
-        {
-          "source": "iThome",
-          "title": "SpaceX攜手高通建置全美5G網路，2027年起部署數萬座基地臺",
-          "url": "https://www.ithome.com.tw/news/180244"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
       "summary": [
         "自由時報：深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
@@ -167,7 +146,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美期中選舉共和黨輸掉眾院　議長強生不角逐少數黨領袖",
       "summary": [
         "自由時報：美期中選舉共和黨輸掉眾院　議長強生不角逐少數黨領袖",
@@ -188,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "谷歌宣告只是教育方案先關閉雙子座，並非禁止使用人工智慧就無法使用Google服務",
       "summary": [
         "癮科技Cool3c：谷歌宣告只是教育方案先關閉雙子座，並非禁止使用人工智慧就無法使用Google服務",
@@ -209,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "川普坦言美伊戰爭拖累選情　但排除開除戰爭部長",
       "summary": [
         "自由時報：川普坦言美伊戰爭拖累選情　但排除開除戰爭部長",
@@ -226,6 +205,27 @@
           "source": "經濟日報",
           "title": "川普坦言美伊戰爭拖累選情　但排除開除戰爭部長",
           "url": "https://money.udn.com/money/story/5599/9858257"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "市場消化美期中選舉結果　歐股收盤勁揚",
+      "summary": [
+        "自由時報：市場消化美期中選舉結果　歐股收盤勁揚",
+        "經濟日報：市場消化美期中選舉結果　歐股收盤勁揚"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "市場消化美期中選舉結果　歐股收盤勁揚",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5629852"
+        },
+        {
+          "source": "經濟日報",
+          "title": "市場消化美期中選舉結果　歐股收盤勁揚",
+          "url": "https://money.udn.com/money/story/5599/9858251"
         }
       ]
     }
@@ -260,6 +260,33 @@
     },
     {
       "rank": 2,
+      "title": "香港民主活動人士黃之鋒因國家安全案被判入獄10年",
+      "summary": [
+        "The Guardian：香港民主活動人士黃之鋒因國家安全案被判入獄10年",
+        "Bloomberg Markets：香港維權人士黃之鋒入獄十年",
+        "BBC World：香港民主抗議活動代言人黃之鋒被判入獄10年"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "香港民主活動人士黃之鋒因國家安全案被判入獄10年",
+          "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "香港維權人士黃之鋒入獄十年",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-05/hong-kong-jails-activist-joshua-wong-for-10-years-video"
+        },
+        {
+          "source": "BBC World",
+          "title": "香港民主抗議活動代言人黃之鋒被判入獄10年",
+          "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "中國阻止軟銀以 54 億美元收購 ABB 機器人部門",
       "summary": [
         "Financial Times：中國阻止軟銀以 54 億美元收購 ABB 機器人部門",
@@ -282,27 +309,6 @@
           "source": "Investing.com",
           "title": "軟銀以 54 億美元收購 ABB 機器人部門遭中國阻撓",
           "url": "https://www.investing.com/news/stock-market-news/softbanks-54-bln-takeover-of-abb-robotics-unit-blocked-by-china-ft-5002105"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "谷歌因計劃關閉限制人工智慧的學校而面臨強烈反對",
-      "summary": [
-        "TechCrunch：谷歌因計劃關閉限制人工智慧的學校而面臨強烈反對",
-        "NHK新聞：谷歌限制學校學習服務的人工智慧功能"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "谷歌因計劃關閉限制人工智慧的學校而面臨強烈反對",
-          "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "谷歌限制學校學習服務的人工智慧功能",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261105de70783"
         }
       ]
     },
@@ -374,7 +380,7 @@
       "title": "法國一家銀行遭遇網路攻擊，涉案金額約1億歐元",
       "summary": [
         "法廣RFI：法國一家銀行遭遇網路攻擊，涉案金額約1億歐元",
-        "NHK新聞：法國銀行遭受網路攻擊可能導致資金洩露"
+        "NHK新聞：法國銀行遭受網路攻擊或導致資金洩露"
       ],
       "media_count": 2,
       "links": [
@@ -385,7 +391,7 @@
         },
         {
           "source": "NHK新聞",
-          "title": "法國銀行遭受網路攻擊可能導致資金洩露",
+          "title": "法國銀行遭受網路攻擊或導致資金洩露",
           "url": "https://news.web.nhk/newsweb/na/nd-20261105de70718"
         }
       ]
