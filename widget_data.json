@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 22:27",
+  "updated_at": "2026-11-05 23:31",
   "taiwan": [
     {
       "rank": 1,
@@ -45,100 +45,16 @@
     },
     {
       "rank": 3,
-      "title": "20261105 公視AI手語天氣報導 ｜下午起東北季風增強 迎風面雲增轉區域性雨",
+      "title": "ChatGPT生圖功能再升級！圖片2.6速度快50%、支援GIF動畫",
       "summary": [
-        "公視新聞：20261105 公視AI手語天氣報導 ｜下午起東北季風增強 迎風面雲增轉區域性雨",
-        "ETtoday：午後變天降雨增　下週迎更強東北季風「探20度以下」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公視新聞",
-          "title": "20261105 公視AI手語天氣報導 ｜下午起東北季風增強 迎風面雲增轉區域性雨",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sRWlpOGVUcDY5Z0RvUndzMHMyMTVPdDZDcUZhenY3alhMZEx5SXVDLTB0RXBTeHN4WThORmJJeEZWRGFITXZBZlRHOA?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "午後變天降雨增　下週迎更強東北季風「探20度以下」",
-          "url": "https://www.ettoday.net/news/20261105/3266764.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "服役近 22 年畫下句點，NASA 「雨燕」天文臺墜入大氣層燒毀",
-      "summary": [
-        "科技新報：服役近 22 年畫下句點，NASA 「雨燕」天文臺墜入大氣層燒毀",
-        "經濟日報：NASA雨燕天文臺墜入大氣層　22年太空任務烈焰中謝幕"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "服役近 22 年畫下句點，NASA 「雨燕」天文臺墜入大氣層燒毀",
-          "url": "https://technews.tw/2026/11/05/nasas-22-year-old-swift-satellite-telescope-falls-from-orbit-in-fiery-finale/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "NASA雨燕天文臺墜入大氣層　22年太空任務烈焰中謝幕",
-          "url": "https://money.udn.com/money/story/5599/9859313"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "美媒：共和黨敗選究責　赫格塞斯恐最快下週面臨彈劾",
-      "summary": [
-        "經濟日報：美媒：共和黨敗選究責　赫格塞斯恐最快下週面臨彈劾",
-        "公視新聞：期中敗選共和黨歸咎戰爭及關稅外媒揭赫格塞斯恐遭彈劾｜20261105 公視晚間新聞｜ 公視新聞PNN"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美媒：共和黨敗選究責　赫格塞斯恐最快下週面臨彈劾",
-          "url": "https://money.udn.com/money/story/5599/9858621"
-        },
-        {
-          "source": "公視新聞",
-          "title": "期中敗選共和黨歸咎戰爭及關稅外媒揭赫格塞斯恐遭彈劾｜20261105 公視晚間新聞｜ 公視新聞PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Yb2RxVm1oUGczZzRxejg2WU1XeXpXcERiSDhnOXdrSVAteDU2RHRubmtVNWZJblMzNXpwc3RHdl90Y1IySGp0WlZqcw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "範斯將共和黨中期選舉失利歸咎於伊朗戰爭及美以關係",
-      "summary": [
-        "經濟日報：範斯將共和黨中期選舉失利歸咎於伊朗戰爭及美以關係",
-        "關鍵評論網：伊朗戰爭拖垮共和黨選情？連副總統都開始切割"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "範斯將共和黨中期選舉失利歸咎於伊朗戰爭及美以關係",
-          "url": "https://money.udn.com/money/story/5599/9858482"
-        },
-        {
-          "source": "關鍵評論網",
-          "title": "伊朗戰爭拖垮共和黨選情？連副總統都開始切割",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMN1VoY3Z4enAtcGdoekZySDh6SENvT2s4R2hLQVNOR0lMWEVncEdJcGhjeWVONGFoYlhLS21tSFczVExvQVZqeFM1bkZyNzl5Z1dKQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "ChatGPT 生圖功能再升級！Images 2.6 速度快 50%、支援 GIF 動畫",
-      "summary": [
-        "科技新報：ChatGPT 生圖功能再升級！Images 2.6 速度快 50%、支援 GIF 動畫",
+        "科技新報：ChatGPT生圖功能再升級！圖片2.6速度快50%、支援GIF動畫",
         "INSIDE硬塞：ChatGPT 生圖支援 GIF 了！Images 2.6 生成快 50%，手繪草圖也能變成動畫角色"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "科技新報",
-          "title": "ChatGPT 生圖功能再升級！Images 2.6 速度快 50%、支援 GIF 動畫",
+          "title": "ChatGPT生圖功能再升級！圖片2.6速度快50%、支援GIF動畫",
           "url": "https://technews.tw/2026/11/05/openai-introduces-images-2-6/"
         },
         {
@@ -149,7 +65,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
       "title": "三井化學傳擬砸 1.3 兆日圓、收購半導體材料廠 JSR",
       "summary": [
         "科技新報：三井化學傳擬砸 1.3 兆日圓、收購半導體材料廠 JSR",
@@ -170,7 +86,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "棉花田委外購物平臺發生資安事件，已阻擋異常資料存取行為，影響範圍仍待調查",
       "summary": [
         "iThome：棉花田委外購物平臺發生資安事件，已阻擋異常資料存取行為，影響範圍仍待調查",
@@ -191,7 +107,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "SpaceX攜手高通建置全美5G網路，2027年起部署數萬座基地臺",
       "summary": [
         "iThome：SpaceX攜手高通建置全美5G網路，2027年起部署數萬座基地臺",
@@ -208,6 +124,90 @@
           "source": "科技新報",
           "title": "SpaceX精選高階龍翼平臺，打造星鏈移動地面5G網路路",
           "url": "https://technews.tw/2026/11/05/spacex-selects-qualcomm-to-accelerate-starlink-mobiles-nationwide-5g-network/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "蘋果傳縮減員工AI費用額度，工程人員可能降到每天100美元",
+      "summary": [
+        "iThome：蘋果傳縮減員工AI費用額度，工程人員可能降到每天100美元",
+        "數位時代：「Token自由」結束了！蘋果調降員工AI預算，工程師每日額度降至200美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "蘋果傳縮減員工AI費用額度，工程人員可能降到每天100美元",
+          "url": "https://www.ithome.com.tw/news/180241"
+        },
+        {
+          "source": "數位時代",
+          "title": "「Token自由」結束了！蘋果調降員工AI預算，工程師每日額度降至200美元",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vWGJ2dFlpd2RLMVpCaWMwN3dKN0VSc2hZNDNnTG1DN1dsVi04UktCTUtrUkxTMzJVX2NWZFp4ampEZl9sdWc3RDAzaVUtQ2NZRm53Y3MtOG9MTW12bmJfNXlpbWcwZ2UxLTVGMGFXZ1RKZi0tYy01MFlnZUxXcjg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "人體蛋白變身mRNA「送貨車」 清華大學開發癌症免疫治療新載體",
+      "summary": [
+        "自由時報：人體蛋白變身mRNA「送貨車」 清華大學開發癌症免疫治療新載體",
+        "科技新報：人體蛋白化身「抗癌送貨車」遞送！清大突破 mRNA 開發癌症免疫治療"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "人體蛋白變身mRNA「送貨車」 清華大學開發癌症免疫治療新載體",
+          "url": "https://health.ltn.com.tw/article/breakingnews/5630257"
+        },
+        {
+          "source": "科技新報",
+          "title": "人體蛋白化身「抗癌送貨車」遞送！清大突破 mRNA 開發癌症免疫治療",
+          "url": "https://technews.tw/2026/11/05/communications/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "黃之鋒遭重判10年 陸委會譴責中共：終止政治濫訴",
+      "summary": [
+        "自由時報：黃之鋒遭重判10年 陸委會譴責中共：終止政治濫訴",
+        "ETtoday：黃之鋒再遭重判10年！陸委會譴責：中共及港府無止盡政治追訴"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "黃之鋒遭重判10年 陸委會譴責中共：終止政治濫訴",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5630355"
+        },
+        {
+          "source": "ETtoday",
+          "title": "黃之鋒再遭重判10年！陸委會譴責：中共及港府無止盡政治追訴",
+          "url": "https://www.ettoday.net/news/20261105/3267045.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美民主黨大勝引發 AI 監管疑慮，科技股重挫、油價續跌",
+      "summary": [
+        "科技新報：美民主黨大勝引發 AI 監管疑慮，科技股重挫、油價續跌",
+        "經濟日報：美民主黨大勝引發AI監管疑慮　科技股重挫、油價續跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "美民主黨大勝引發 AI 監管疑慮，科技股重挫、油價續跌",
+          "url": "https://finance.technews.tw/2026/11/05/us-democratic-landslide-victory-fuels-ai-regulation-concerns-tech-stock-plunge-oil-price-drop/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美民主黨大勝引發AI監管疑慮　科技股重挫、油價續跌",
+          "url": "https://money.udn.com/money/story/5599/9859396"
         }
       ]
     }
@@ -258,7 +258,7 @@
         "Bloomberg Tech：英國《金融時報》稱中國阻止軟銀收購 ABB 機器人部門",
         "Investing.com：軟銀以 54 億美元收購 ABB 機器人部門遭中國阻撓"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
           "source": "Financial Times",
@@ -274,6 +274,11 @@
           "source": "Investing.com",
           "title": "軟銀以 54 億美元收購 ABB 機器人部門遭中國阻撓",
           "url": "https://www.investing.com/news/stock-market-news/softbanks-54-bln-takeover-of-abb-robotics-unit-blocked-by-china-ft-5002105"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "中國阻止軟銀以 54 億美元收購 ABB 機器人部門的交易",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2hCWHhTMDZDQllhZ244Z1ZabmhyT01IT1BJSFFSY25vU3pMS090VEU3UlQ3WjZiMGxKVGVuZ2dTR09BRm80cjZVVTBGdnZ5Y0hYZHhwY3cySVBiVTVpNkZ4UGcta3pEUDVUN2JpUktmdXZ6dTJBRkNGRTZmRTRfM0UwdUlDZURlWEFWaXZKbUdoUUNVUnY0alkzakhabTg3VFFUWWtpcjVydEo0?oc=5"
         },
         {
           "source": "法廣RFI",
@@ -311,6 +316,60 @@
     },
     {
       "rank": 4,
+      "title": "另有 14 架歐洲航班收到炸彈威脅",
+      "summary": [
+        "Financial Times：另有 14 架歐洲航班收到炸彈威脅",
+        "NHK新聞：歐洲客機持續受到炸彈威脅",
+        "Washington Post：炸彈威脅針對歐洲多個航班"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "另有 14 架歐洲航班收到炸彈威脅",
+          "url": "https://www.ft.com/content/e2eb8161-7620-494b-9905-4271164d0e4c?syn-25a6b1a6=1"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "歐洲客機持續受到炸彈威脅",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261105de71269"
+        },
+        {
+          "source": "Washington Post",
+          "title": "炸彈威脅針對歐洲多個航班",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGoyS2tha2hmX3V1UWhFa2NvQjRPNlRJWENYOEY3dWtOdnZuQjNjMlVmMllXY3MtS0tpM0pIT25fT1Z5M2lYWXFtN3IzWGc5dVVkaE5zSzlsUFNGcHR2QXduSHoyUVp6U1AzOEtYQVU5MFNXWGNhY3F5R3R4MmtIc3UtX09ROFBzNlpmMVJKNV9ZZHFRN3pTaGQwYkNrQ3pz?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "亞馬遜為其主要訂戶增加 Uber 送餐福利",
+      "summary": [
+        "Bloomberg Tech：亞馬遜為其主要訂戶增加 Uber 送餐福利",
+        "The Verge：亞馬遜與 Uber Eats 合作重返餐廳外送領域",
+        "Yahoo Finance：亞馬遜與Uber Eats優食合作，為Prime會員提供餐廳外送服務"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "亞馬遜為其主要訂戶增加 Uber 送餐福利",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/amazon-adds-uber-food-delivery-perks-for-its-prime-subscribers"
+        },
+        {
+          "source": "The Verge",
+          "title": "亞馬遜與 Uber Eats 合作重返餐廳外送領域",
+          "url": "https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "亞馬遜與Uber Eats優食合作，為Prime會員提供餐廳外送服務",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaDJ0ZzAwbzhmQm1UX216QkRHMUQyRk5GSk1KQ2E3Y2dtQUFHUmtDQUgyT3JOTmdVSUE1U2xaQktFeUd6OWNrU0Jybjc3TmFManBOSVY5dm1nMnJuZjFhM2VudTh1b2VObHVPejBQRjBITWJvZXNtTEdPcm54eU9oTmpVczk3a1NXYUNlUjN0Z0JFS1lLd2FNM0hIZHRiYkVYT2lHcDNtR3hSM25IdnhSb1VRMDI3dTRhbzc3Z1NVR2owejV2UHVoT2U1NnVYR3Z6Y1E?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "中期選舉後川普媒體股價暴跌",
       "summary": [
         "Washington Post：中期選舉後川普媒體股價暴跌",
@@ -331,7 +390,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "微軟拒絕與英國 Nscale 達成數十億美元的人工智慧交易",
       "summary": [
         "Financial Times：微軟拒絕與英國 Nscale 達成數十億美元的人工智慧交易",
@@ -352,7 +411,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "混合動力車銷量強勁，豐田利潤激增並上調年度前景",
       "summary": [
         "Investing.com：混合動力車銷量強勁，豐田利潤激增並上調年度前景",
@@ -373,7 +432,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "《蜘蛛人》和 PlayStation 推動成長後，索尼上調展望",
       "summary": [
         "Bloomberg Tech：《蜘蛛人》和 PlayStation 推動成長後，索尼上調展望",
@@ -394,59 +453,23 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Apple MacBook Pro With Touch Screen, OLED Review: Display Is An Added Bonus",
+      "rank": 10,
+      "title": "美光在勞資糾紛後暫停了價值 45 億美元的臺灣工廠的建設",
       "summary": [
-        "Bloomberg Tech：Apple MacBook Pro With Touch Screen, OLED Review: Display Is An Added Bonus",
-        "The Verge：The touchscreen MacBook Pro is a winner"
+        "Bloomberg Tech：美光在勞資糾紛後暫停了價值 45 億美元的臺灣工廠的建設",
+        "Tom's Hardware：美光耗資 45 億美元的桃園工廠建設因勞資糾紛而暫停"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "Apple MacBook Pro With Touch Screen, OLED Review: Display Is An Added Bonus",
-          "url": "https://www.bloomberg.com/news/features/2026-11-05/apple-macbook-pro-with-touch-screen-oled-review-display-is-an-added-bonus"
+          "title": "美光在勞資糾紛後暫停了價值 45 億美元的臺灣工廠的建設",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat"
         },
         {
-          "source": "The Verge",
-          "title": "The touchscreen MacBook Pro is a winner",
-          "url": "https://www.theverge.com/tech/1026570/apple-macbook-pro-proled-xdr-display-review"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
-      "summary": [
-        "Ars Technica：Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
-        "Wired：Motorola Signature 27: Specs, Price, Features, Release Date"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Ars Technica",
-          "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
-          "url": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/"
-        },
-        {
-          "source": "Wired",
-          "title": "Motorola Signature 27: Specs, Price, Features, Release Date",
-          "url": "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "為什麼今天 REA 股票飆升？",
-      "summary": [
-        "Investing.com：為什麼今天 REA 股票飆升？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "為什麼今天 REA 股票飆升？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-rea-stock-surging-today-93CH-5002184"
+          "source": "Tom's Hardware",
+          "title": "美光耗資 45 億美元的桃園工廠建設因勞資糾紛而暫停",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms"
         }
       ]
     }
