@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 13:59",
+  "updated_at": "2026-11-05 15:08",
   "taiwan": [
     {
       "rank": 1,
@@ -30,60 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "美期中選舉共和黨慘敗　白宮發文強調川普「仍是你們的總統」",
-      "summary": [
-        "自由時報：美期中選舉共和黨慘敗　白宮發文強調川普「仍是你們的總統」",
-        "經濟日報：美期中選舉共和黨慘敗　白宮發文強調川普「仍是你們的總統」",
-        "ETtoday：共和黨期中選舉慘敗！白宮突發川普怒視照　「他仍是你們的總統」"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美期中選舉共和黨慘敗　白宮發文強調川普「仍是你們的總統」",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629841"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美期中選舉共和黨慘敗　白宮發文強調川普「仍是你們的總統」",
-          "url": "https://money.udn.com/money/story/5599/9858236"
-        },
-        {
-          "source": "ETtoday",
-          "title": "共和黨期中選舉慘敗！白宮突發川普怒視照　「他仍是你們的總統」",
-          "url": "https://www.ettoday.net/news/20261105/3266585.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "高通宣佈Space X採用龍翼網路技術作為星鏈移動5G服務基礎設施",
-      "summary": [
-        "癮科技Cool3c：高通宣佈Space X採用龍翼網路技術作為星鏈移動5G服務基礎設施",
-        "iThome：SpaceX攜手高通建置全美5G網路，2027年起部署數萬座基地臺",
-        "科技新報：SpaceX精選高階龍翼平臺，打造星鏈移動地面5G網路路"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "癮科技Cool3c",
-          "title": "高通宣佈Space X採用龍翼網路技術作為星鏈移動5G服務基礎設施",
-          "url": "https://www.cool3c.com/article/253764"
-        },
-        {
-          "source": "iThome",
-          "title": "SpaceX攜手高通建置全美5G網路，2027年起部署數萬座基地臺",
-          "url": "https://www.ithome.com.tw/news/180244"
-        },
-        {
-          "source": "科技新報",
-          "title": "SpaceX精選高階龍翼平臺，打造星鏈移動地面5G網路路",
-          "url": "https://technews.tw/2026/11/05/spacex-selects-qualcomm-to-accelerate-starlink-mobiles-nationwide-5g-network/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "美期中選舉》民主黨上演「史詩級大勝」！橫掃參眾兩院連共和黨票倉德州都變天- 國際",
       "summary": [
         "工商時報：美期中選舉》民主黨上演「史詩級大勝」！橫掃參眾兩院連共和黨票倉德州都變天- 國際",
@@ -110,7 +56,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "美眾院民主黨團：無人提彈劾總統　新會期聚焦民生法案",
       "summary": [
         "經濟日報：美眾院民主黨團：無人提彈劾總統　新會期聚焦民生法案",
@@ -137,7 +83,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "要員工多用 AI 預算卻縮水！傳蘋果工程師每日額度擬從300砍至100美元",
       "summary": [
         "經濟日報：要員工多用 AI 預算卻縮水！傳蘋果工程師每日額度擬從300砍至100美元",
@@ -164,7 +110,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
       "summary": [
         "iThome：王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
@@ -185,49 +131,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "美期中選舉共和黨輸掉眾院　議長強生不角逐少數黨領袖",
-      "summary": [
-        "自由時報：美期中選舉共和黨輸掉眾院　議長強生不角逐少數黨領袖",
-        "經濟日報：美期中選舉共和黨輸掉眾院　議長強生不角逐少數黨領袖"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美期中選舉共和黨輸掉眾院　議長強生不角逐少數黨領袖",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629845"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美期中選舉共和黨輸掉眾院　議長強生不角逐少數黨領袖",
-          "url": "https://money.udn.com/money/story/5599/9858241"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "谷歌宣告只是教育方案先關閉雙子座，並非禁止使用人工智慧就無法使用Google服務",
-      "summary": [
-        "癮科技Cool3c：谷歌宣告只是教育方案先關閉雙子座，並非禁止使用人工智慧就無法使用Google服務",
-        "經濟日報：Google對中小學強迫推銷AI 被罵翻 若學校不開放將無法使用搜尋功能"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "癮科技Cool3c",
-          "title": "谷歌宣告只是教育方案先關閉雙子座，並非禁止使用人工智慧就無法使用Google服務",
-          "url": "https://www.cool3c.com/article/253762"
-        },
-        {
-          "source": "經濟日報",
-          "title": "Google對中小學強迫推銷AI 被罵翻 若學校不開放將無法使用搜尋功能",
-          "url": "https://money.udn.com/money/story/5599/9858021"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 6,
       "title": "川普坦言美伊戰爭拖累選情　但排除開除戰爭部長",
       "summary": [
         "自由時報：川普坦言美伊戰爭拖累選情　但排除開除戰爭部長",
@@ -244,6 +148,90 @@
           "source": "經濟日報",
           "title": "川普坦言美伊戰爭拖累選情　但排除開除戰爭部長",
           "url": "https://money.udn.com/money/story/5599/9858257"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "市場消化美期中選舉結果　歐股收盤勁揚",
+      "summary": [
+        "自由時報：市場消化美期中選舉結果　歐股收盤勁揚",
+        "經濟日報：市場消化美期中選舉結果　歐股收盤勁揚"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "市場消化美期中選舉結果　歐股收盤勁揚",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5629852"
+        },
+        {
+          "source": "經濟日報",
+          "title": "市場消化美期中選舉結果　歐股收盤勁揚",
+          "url": "https://money.udn.com/money/story/5599/9858251"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "美期中選舉共和黨大敗　範斯：美伊戰爭是失利原因",
+      "summary": [
+        "自由時報：美期中選舉共和黨大敗　範斯：美伊戰爭是失利原因",
+        "經濟日報：美期中選舉共和黨大敗　範斯：美伊戰爭是失利原因"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美期中選舉共和黨大敗　範斯：美伊戰爭是失利原因",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629849"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美期中選舉共和黨大敗　範斯：美伊戰爭是失利原因",
+          "url": "https://money.udn.com/money/story/5599/9858246"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普期中考被活當！謝金河喊「AI重新評估」　臺股5萬點恐等明年",
+      "summary": [
+        "ETtoday：川普期中考被活當！謝金河喊「AI重新評估」　臺股5萬點恐等明年",
+        "中時新聞：川普期中考被當！謝金河提醒須重新評估AI未來：臺股5萬恐等明年- 要聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "川普期中考被活當！謝金河喊「AI重新評估」　臺股5萬點恐等明年",
+          "url": "https://finance.ettoday.net/news/3266579"
+        },
+        {
+          "source": "中時新聞",
+          "title": "川普期中考被當！謝金河提醒須重新評估AI未來：臺股5萬恐等明年- 要聞",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkUk5TbEg4ZHZpeFhLb2tHbjFIODY4RTJXajE5azRYUzlFVms2XzktVjRsVFNFbFI0TmJxSnp5N0J3anBGU3I0VmxlMVdBazBnRHZxTzRfNHBGZGtIbDdQN291aS12VFB0R214U2Zn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "民主黨將重掌國會　川普：若發起彈劾將自取滅亡",
+      "summary": [
+        "自由時報：民主黨將重掌國會　川普：若發起彈劾將自取滅亡",
+        "經濟日報：民主黨將重掌國會　川普：若發起彈劾將自取滅亡"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "民主黨將重掌國會　川普：若發起彈劾將自取滅亡",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629858"
+        },
+        {
+          "source": "經濟日報",
+          "title": "民主黨將重掌國會　川普：若發起彈劾將自取滅亡",
+          "url": "https://money.udn.com/money/story/5599/9858271"
         }
       ]
     }
@@ -332,22 +320,22 @@
     },
     {
       "rank": 4,
-      "title": "歐洲將向晶片新創公司投資 5.25 億歐元以趕上美國和中國",
+      "title": "美國財政部單週借款創紀錄 8,390 億美元",
       "summary": [
-        "Investing.com：歐洲將向晶片新創公司投資 5.25 億歐元以趕上美國和中國",
-        "法廣RFI：歐洲將向晶片初創企業投資5.25億歐元，追趕美國與中國"
+        "Bloomberg Markets：美國財政部單週借款創紀錄 8,390 億美元",
+        "Yahoo Finance：美國財政部單週借款創紀錄 8,390 億美元"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "歐洲將向晶片新創公司投資 5.25 億歐元以趕上美國和中國",
-          "url": "https://www.investing.com/news/stock-market-news/europe-to-invest-525-million-in-chip-startups-to-catch-up-with-us-and-china-5000867"
+          "source": "Bloomberg Markets",
+          "title": "美國財政部單週借款創紀錄 8,390 億美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/us-treasury-borrows-record-839-billion-in-auctions-this-week"
         },
         {
-          "source": "法廣RFI",
-          "title": "歐洲將向晶片初創企業投資5.25億歐元，追趕美國與中國",
-          "url": "https://www.rfi.fr/tw/%E7%A7%91%E6%8A%80%E8%88%87%E6%96%87%E5%8C%96/20261104-%E6%AD%90%E6%B4%B2%E5%B0%87%E5%90%91%E8%8A%AF%E7%89%87%E5%88%9D%E5%89%B5%E4%BC%81%E6%A5%AD%E6%8A%95%E8%B3%875-25%E5%84%84%E6%AD%90%E5%85%83%EF%BC%8C%E8%BF%BD%E8%B6%95%E7%BE%8E%E5%9C%8B%E8%88%87%E4%B8%AD%E5%9C%8B"
+          "source": "Yahoo Finance",
+          "title": "美國財政部單週借款創紀錄 8,390 億美元",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOamlGT21iLUVLdTY2VTVyOVNYTG5zcDRKZHhSVnVMaUlTdkhYUV9xNVI3bjNOa1R6SVhReUd0OWkybEV6TTRIQmttRk9lbnpCYlhBaC1GM09jMjlJeEF3eHEySVF2LXptaGpJZjlhYnQtUjhPU1dVTExmM3RtN0FUb2cxa05WbTJrcWg5YzRNRDc3elBGUmVPcTBVdw?oc=5"
         }
       ]
     },
@@ -458,22 +446,22 @@
     },
     {
       "rank": 10,
-      "title": "混合動力車銷量強勁，豐田利潤激增並上調年度前景",
+      "title": "微軟拒絕與英國 Nscale 達成數十億美元的人工智慧交易",
       "summary": [
-        "Investing.com：混合動力車銷量強勁，豐田利潤激增並上調年度前景",
-        "Nikkei Asia：混合動力車銷售強勁，克服中國經濟下滑，豐田調高獲利預期"
+        "Financial Times：微軟拒絕與英國 Nscale 達成數十億美元的人工智慧交易",
+        "Investing.com：根據英國《金融時報》報道，微軟拒絕了與英國 Nscale 數十億美元的人工智慧交易"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "混合動力車銷量強勁，豐田利潤激增並上調年度前景",
-          "url": "https://www.investing.com/news/stock-market-news/toyota-profit-surges-34-first-rise-in-six-quarters-5002210"
+          "source": "Financial Times",
+          "title": "微軟拒絕與英國 Nscale 達成數十億美元的人工智慧交易",
+          "url": "https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8?syn-25a6b1a6=1"
         },
         {
-          "source": "Nikkei Asia",
-          "title": "混合動力車銷售強勁，克服中國經濟下滑，豐田調高獲利預期",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY01kamVWU0RacEpZV2xaOEtRa3BFcE1Gb2pIZ2hHZ2kxNFBiQ2ktd0dtZE5yYTA3OE1JdEdqNVo4T2dhcTdlaHh6Um5xT1JTcjNRZ1MzSlhEWXZXWC1WWk1sVFN1cXphWlNQb1EwSy00YUQzSkJ4b0xPbk5zcjd2bDVOaGw0QnptbENDYzdnbWt2eEFITTFiZktRWVJvQ2drWmpyOUFpN2kyT3BEVUJCeV9qalo?oc=5"
+          "source": "Investing.com",
+          "title": "根據英國《金融時報》報道，微軟拒絕了與英國 Nscale 數十億美元的人工智慧交易",
+          "url": "https://www.investing.com/news/stock-market-news/microsoft-rejects-multibilliondollar-ai-deal-with-uks-nscale-ft-reports-5002300"
         }
       ]
     }
