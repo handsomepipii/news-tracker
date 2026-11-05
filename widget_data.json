@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-05 10:54",
+  "updated_at": "2026-11-05 11:53",
   "taiwan": [
     {
       "rank": 1,
+      "title": "共和黨敗選後首露面！川普坦言伊朗戰爭拖累選情 但重來一次照打",
+      "summary": [
+        "經濟日報：共和黨敗選後首露面！川普坦言伊朗戰爭拖累選情 但重來一次照打",
+        "ETtoday：川普敗選後首露面：伊朗戰爭拖累選情　民主黨若彈劾將自取滅亡",
+        "公視新聞：美期中選舉共和黨失利川普坦承敗選歸咎對伊朗開戰｜20261105 公視早安新聞｜ 公視新聞PNN"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "共和黨敗選後首露面！川普坦言伊朗戰爭拖累選情 但重來一次照打",
+          "url": "https://money.udn.com/money/story/5599/9858258"
+        },
+        {
+          "source": "ETtoday",
+          "title": "川普敗選後首露面：伊朗戰爭拖累選情　民主黨若彈劾將自取滅亡",
+          "url": "https://www.ettoday.net/news/20261105/3266609.htm"
+        },
+        {
+          "source": "公視新聞",
+          "title": "美期中選舉共和黨失利川普坦承敗選歸咎對伊朗開戰｜20261105 公視早安新聞｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tejFkWUxmbWpMRnlKa1VWMGk2TDNEdVpXT0c1UlExMjRHQ2pVUlFaY3AwQ1JyZFhLU0V1azJFaUJTS3dOU3VLc3JBWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "美期中選舉共和黨慘敗　白宮發文強調川普「仍是你們的總統」",
       "summary": [
         "自由時報：美期中選舉共和黨慘敗　白宮發文強調川普「仍是你們的總統」",
@@ -29,7 +56,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "美眾院民主黨團：無人提彈劾總統　新會期聚焦民生法案",
       "summary": [
         "經濟日報：美眾院民主黨團：無人提彈劾總統　新會期聚焦民生法案",
@@ -56,27 +83,6 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "共和黨敗選後首露面！川普坦言伊朗戰爭拖累選情 但重來一次照打",
-      "summary": [
-        "經濟日報：共和黨敗選後首露面！川普坦言伊朗戰爭拖累選情 但重來一次照打",
-        "ETtoday：川普敗選後首露面：伊朗戰爭拖累選情　民主黨若彈劾將自取滅亡"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "共和黨敗選後首露面！川普坦言伊朗戰爭拖累選情 但重來一次照打",
-          "url": "https://money.udn.com/money/story/5599/9858258"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普敗選後首露面：伊朗戰爭拖累選情　民主黨若彈劾將自取滅亡",
-          "url": "https://www.ettoday.net/news/20261105/3266609.htm"
-        }
-      ]
-    },
-    {
       "rank": 4,
       "title": "湖口火警連發！住宅深夜失火5人受困獲救 3人送醫",
       "summary": [
@@ -99,69 +105,6 @@
     },
     {
       "rank": 5,
-      "title": "房市冷到買氣縮！全臺房貸最熱10區出爐　桃園這區竟奪冠",
-      "summary": [
-        "自由時報：房市冷到買氣縮！全臺房貸最熱10區出爐　桃園這區竟奪冠",
-        "鉅亨網：〈房產〉全臺第二季十大房貸熱區出爐 桃園這一區最熱賣"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "房市冷到買氣縮！全臺房貸最熱10區出爐　桃園這區竟奪冠",
-          "url": "https://estate.ltn.com.tw/article/29230"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "〈房產〉全臺第二季十大房貸熱區出爐 桃園這一區最熱賣",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XUV9haC1UWFpGSGVuanEteUU2eHg5U3RxMEFnVUdDQjFWamEyRUhEZnpPank5V1lDWHkydHE5QmY4WFZfWlhlSHlBM3lzSzg?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "繳清房貸僅花「2分鐘」塗銷抵押權! 北市府推AI地政服務｜TVBS新聞 @TVBSNEWS02 │ TVBS新聞網",
-      "summary": [
-        "TVBS新聞：繳清房貸僅花「2分鐘」塗銷抵押權! 北市府推AI地政服務｜TVBS新聞 @TVBSNEWS02 │ TVBS新聞網",
-        "自由時報：房貸還完不用跑地政了！北市祭新招 塗銷抵押權2分鐘搞定"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "繳清房貸僅花「2分鐘」塗銷抵押權! 北市府推AI地政服務｜TVBS新聞 @TVBSNEWS02 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RdlJKN3lCdVdQdl9oZkVmZkZqUHEzTkhCdnpLTVZBQWcyc0tCQS1VMExoTUh5SWxOZ1djZ0J0NVFPem1UbkZEcFdxYm9fLWU1bTl6T2tn?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "房貸還完不用跑地政了！北市祭新招 塗銷抵押權2分鐘搞定",
-          "url": "https://estate.ltn.com.tw/article/29237"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "谷歌投資大馬150億美元　安華：助躍升東南亞數位強國",
-      "summary": [
-        "經濟日報：谷歌投資大馬150億美元　安華：助躍升東南亞數位強國",
-        "科技新報：Google 投資大馬 150 億美元，安華：助躍升東南亞數位強國"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "谷歌投資大馬150億美元　安華：助躍升東南亞數位強國",
-          "url": "https://money.udn.com/money/story/5599/9858024"
-        },
-        {
-          "source": "科技新報",
-          "title": "Google 投資大馬 150 億美元，安華：助躍升東南亞數位強國",
-          "url": "https://technews.tw/2026/11/05/google-invests-15-billion-malaysia-anwar-elevate-southeast-asian-digital-powerhouse/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "竹南鎮長候選人何秀綿涉賄選起訴  移審續押",
       "summary": [
         "自由時報：竹南鎮長候選人何秀綿涉賄選起訴  移審續押",
@@ -182,7 +125,28 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
+      "title": "美三大電信巨頭當心！SpaceX與高通簽協議 攜手部署地面5G基地臺",
+      "summary": [
+        "經濟日報：美三大電信巨頭當心！SpaceX與高通簽協議 攜手部署地面5G基地臺",
+        "iThome：SpaceX攜手高通建置全美5G網路，2027年起部署數萬座基地臺"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美三大電信巨頭當心！SpaceX與高通簽協議 攜手部署地面5G基地臺",
+          "url": "https://money.udn.com/money/story/5599/9858097"
+        },
+        {
+          "source": "iThome",
+          "title": "SpaceX攜手高通建置全美5G網路，2027年起部署數萬座基地臺",
+          "url": "https://www.ithome.com.tw/news/180244"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
       "summary": [
         "自由時報：深紅州密西西比參議員選情膠著　開票97%兩候選人僅差28票",
@@ -203,7 +167,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "美期中選舉共和黨輸掉眾院　議長強生不角逐少數黨領袖",
       "summary": [
         "自由時報：美期中選舉共和黨輸掉眾院　議長強生不角逐少數黨領袖",
@@ -220,6 +184,48 @@
           "source": "經濟日報",
           "title": "美期中選舉共和黨輸掉眾院　議長強生不角逐少數黨領袖",
           "url": "https://money.udn.com/money/story/5599/9858241"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "谷歌宣告只是教育方案先關閉雙子座，並非禁止使用人工智慧就無法使用Google服務",
+      "summary": [
+        "癮科技Cool3c：谷歌宣告只是教育方案先關閉雙子座，並非禁止使用人工智慧就無法使用Google服務",
+        "經濟日報：Google對中小學強迫推銷AI 被罵翻 若學校不開放將無法使用搜尋功能"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "癮科技Cool3c",
+          "title": "谷歌宣告只是教育方案先關閉雙子座，並非禁止使用人工智慧就無法使用Google服務",
+          "url": "https://www.cool3c.com/article/253762"
+        },
+        {
+          "source": "經濟日報",
+          "title": "Google對中小學強迫推銷AI 被罵翻 若學校不開放將無法使用搜尋功能",
+          "url": "https://money.udn.com/money/story/5599/9858021"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普坦言美伊戰爭拖累選情　但排除開除戰爭部長",
+      "summary": [
+        "自由時報：川普坦言美伊戰爭拖累選情　但排除開除戰爭部長",
+        "經濟日報：川普坦言美伊戰爭拖累選情　但排除開除戰爭部長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川普坦言美伊戰爭拖累選情　但排除開除戰爭部長",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5629853"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普坦言美伊戰爭拖累選情　但排除開除戰爭部長",
+          "url": "https://money.udn.com/money/story/5599/9858257"
         }
       ]
     }
@@ -254,48 +260,33 @@
     },
     {
       "rank": 2,
-      "title": "SpaceX 與高通達成協議，星鏈距離成為美國第四大無線營運商又更近了一步",
+      "title": "中國阻止軟銀以 54 億美元收購 ABB 機器人部門",
       "summary": [
-        "Yahoo Finance：SpaceX 與高通達成協議，星鏈距離成為美國第四大無線營運商又更近了一步",
-        "Bloomberg Tech：SpaceX 與高通達成協議，向美國行動電信商發起挑戰"
+        "Financial Times：中國阻止軟銀以 54 億美元收購 ABB 機器人部門",
+        "Bloomberg Tech：英國《金融時報》稱中國阻止軟銀收購 ABB 機器人部門",
+        "Investing.com：軟銀以 54 億美元收購 ABB 機器人部門遭中國阻撓"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "SpaceX 與高通達成協議，星鏈距離成為美國第四大無線營運商又更近了一步",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMUdVZnZzSjFDdnBCZS14SkR1MXRZMXNFMm53RXM0eGFOOVFORXo3MXVLWkNFVWdxSHpuYU5vNGFrQi1ycHVMekRkZlQzY0VWX29vdnR2a1R5UFp0ZnVTRmFMT3ZxSXBQSkM4ZUtHTWZ2ZXgtSnVOZFNncjR5anRweVc2eUtmb2xkVlZsSjdUSkFWUFppQWg0bHZBMGlsMndQLUlQVnRHNXEtRGZZWG85RnpGV0NaOFJwWWZPQXFibDI1T2JZZkpoUFhQcjZkcXZQWWpqQ2ZfNFNxQzJ3Vm9QUUdjblFTZ3ZhSGhOVGxobw?oc=5"
+          "source": "Financial Times",
+          "title": "中國阻止軟銀以 54 億美元收購 ABB 機器人部門",
+          "url": "https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4?syn-25a6b1a6=1"
         },
         {
           "source": "Bloomberg Tech",
-          "title": "SpaceX 與高通達成協議，向美國行動電信商發起挑戰",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-04/spacex-ups-challenge-to-us-mobile-carriers-with-qualcomm-video"
+          "title": "英國《金融時報》稱中國阻止軟銀收購 ABB 機器人部門",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/china-blocks-softbank-s-acquisition-of-abb-industrial-robot-unit"
+        },
+        {
+          "source": "Investing.com",
+          "title": "軟銀以 54 億美元收購 ABB 機器人部門遭中國阻撓",
+          "url": "https://www.investing.com/news/stock-market-news/softbanks-54-bln-takeover-of-abb-robotics-unit-blocked-by-china-ft-5002105"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "SpaceX正與高通合作建造其星鏈行動5G網路路",
-      "summary": [
-        "The Verge：SpaceX正與高通合作建造其星鏈行動5G網路路",
-        "Yahoo Finance：高通與 SpaceX 的交易可能重塑 5G 的未來"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "SpaceX正與高通合作建造其星鏈行動5G網路路",
-          "url": "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "高通與 SpaceX 的交易可能重塑 5G 的未來",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMTlGaHp2WmNxdUN4Vmw5aURRUk9HanpORkEtQUNJLTlfQmhVaHFHZzI2QnJHZ0ZtTjJTcUFkZFRSMko0ai1TVFo5VkZzRmQ4MEMxUndybDV4enpHN2pTQWk4S2xPdTljeThaN292anEtQzl6TUREZVVwbHY3ajgzUUxSVFZvSng5czNhVjdZRWRrUlpBeTVnQmRVVVRONXM?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "谷歌因計劃關閉限制人工智慧的學校而面臨強烈反對",
       "summary": [
         "TechCrunch：谷歌因計劃關閉限制人工智慧的學校而面臨強烈反對",
@@ -316,7 +307,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "美國中期選舉結果對希望減免關稅的加拿大人來說是“勝利”",
       "summary": [
         "BBC World：美國中期選舉結果對希望減免關稅的加拿大人來說是“勝利”",
@@ -337,7 +328,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "民主黨在中期選舉中取得關鍵勝利，美國股指期貨漲跌互現",
       "summary": [
         "Yahoo Finance：民主黨在中期選舉中取得關鍵勝利，美國股指期貨漲跌互現",
@@ -358,7 +349,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "歐洲將向晶片新創公司投資 5.25 億歐元以趕上美國和中國",
       "summary": [
         "Investing.com：歐洲將向晶片新創公司投資 5.25 億歐元以趕上美國和中國",
@@ -379,7 +370,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "法國一家銀行遭遇網路攻擊，涉案金額約1億歐元",
       "summary": [
         "法廣RFI：法國一家銀行遭遇網路攻擊，涉案金額約1億歐元",
@@ -400,7 +391,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "高盛與阿波羅正在洽談出售 SpaceX 價值 400 億美元的人工智慧交易",
       "summary": [
         "Bloomberg Tech：高盛與阿波羅正在洽談出售 SpaceX 價值 400 億美元的人工智慧交易",
@@ -421,7 +412,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "成立數月的晶片新創公司 Tenspresso 正在洽談 5 億美元估值",
       "summary": [
         "Bloomberg Tech：成立數月的晶片新創公司 Tenspresso 正在洽談 5 億美元估值",
@@ -438,6 +429,27 @@
           "source": "Investing.com",
           "title": "晶片新創公司 Tenspresso 估值達 5 億美元",
           "url": "https://www.investing.com/news/stock-market-news/chip-startup-tenspresso-eyes-500m-valuation--bloomberg-93CH-5001738"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Nextdc 因 Goodman 和 Digital Realty 收購股份而銷售額",
+      "summary": [
+        "Bloomberg Tech：Nextdc 因 Goodman 和 Digital Realty 收購股份而銷售額",
+        "CNBC：Goodman與Digital Realty收購股份後NextDC股價飆升43%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Nextdc 因 Goodman 和 Digital Realty 收購股份而銷售額",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/nextdc-surges-on-report-of-goodman-digital-realty-buying-stake"
+        },
+        {
+          "source": "CNBC",
+          "title": "Goodman與Digital Realty收購股份後NextDC股價飆升43%",
+          "url": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html"
         }
       ]
     }
