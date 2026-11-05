@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 03:58",
+  "updated_at": "2026-11-06 04:49",
   "taiwan": [
     {
       "rank": 1,
@@ -51,90 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "三大製藥產業公協會公開呼籲 宜暫緩全面擴大長者健保費補助",
-      "summary": [
-        "自由時報：三大製藥產業公協會公開呼籲 宜暫緩全面擴大長者健保費補助",
-        "工商時報：65歲以上健保費補助擬擴大藥界三公協會籲暫緩- 產業"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "三大製藥產業公協會公開呼籲 宜暫緩全面擴大長者健保費補助",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5630638"
-        },
-        {
-          "source": "工商時報",
-          "title": "65歲以上健保費補助擬擴大藥界三公協會籲暫緩- 產業",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RU2ZIdm8wY25na1paVlhfd2JXUGdBd2QxM1BHdWJQSWpLbUNQYXZrSE5FZEVfOFpfbi1xUDRyX2JPRmFaM0N5cGtJV2NhZE1pVUEyRGZqVi1wVEo0MnRV?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "蘋果 iPhone Duo 通路首見降價　全容量下殺 2,010 元",
-      "summary": [
-        "ETtoday：蘋果 iPhone Duo 通路首見降價　全容量下殺 2,010 元",
-        "自由時報：果粉快衝！iPhone Duo全容量降價2千元　通路：門市有現貨"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "蘋果 iPhone Duo 通路首見降價　全容量下殺 2,010 元",
-          "url": "https://www.ettoday.net/news/20261105/3267040.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "果粉快衝！iPhone Duo全容量降價2千元　通路：門市有現貨",
-          "url": "https://3c.ltn.com.tw/news/68172"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "香港國安法再重判：黃之鋒「串謀外國、危害國安」又被判刑10年",
-      "summary": [
-        "轉角國際：香港國安法再重判：黃之鋒「串謀外國、危害國安」又被判刑10年",
-        "自由時報：黃之鋒再遭重判10年！林飛帆發文聲援：敬你 也敬香港人"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "轉角國際",
-          "title": "香港國安法再重判：黃之鋒「串謀外國、危害國安」又被判刑10年",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1VDRMeXpySjctZXZ3Tnczblhicno0Q3ZZUkd1VjFWZzFYeHZLZTVQdzhJc0sxWWh4dFNnN2JYaUl6MlYyX3RfZzMwbzMyZldBY3EyUjMteWdwOU9lSnVLb0RaRGJXd9IBa0FVX3lxTFA3OEd4TmlPRklfV25LYWd1WG5rcnhGV0xDTjNyOC13QThfY1ZIcmtZOExBbS04U29NWHVtZlV2OTNaTzhNLTI5S2pZY0NQWC1qMzRXUFFkZnJnVi1hNURZVEk0N1VhTV9JTkM0?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "黃之鋒再遭重判10年！林飛帆發文聲援：敬你 也敬香港人",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631110"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "臺銀無人機 10 億採購大單！東友得標「運輸無人機」殺進非紅供應鏈",
-      "summary": [
-        "科技新報：臺銀無人機 10 億採購大單！東友得標「運輸無人機」殺進非紅供應鏈",
-        "ETtoday：東友搶進運輸無人機市場！取得臺銀共同供應契約　瞄準醫療物流商機"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "臺銀無人機 10 億採購大單！東友得標「運輸無人機」殺進非紅供應鏈",
-          "url": "https://finance.technews.tw/2026/11/05/drone-units-for-transport/"
-        },
-        {
-          "source": "ETtoday",
-          "title": "東友搶進運輸無人機市場！取得臺銀共同供應契約　瞄準醫療物流商機",
-          "url": "https://finance.ettoday.net/news/3267216"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "【資安日報】11月5日，法國國家血液機構冷藏裝置遭網路攻擊，3處設施溫度控制遭竄改",
       "summary": [
         "iThome：【資安日報】11月5日，法國國家血液機構冷藏裝置遭網路攻擊，3處設施溫度控制遭竄改",
@@ -155,7 +71,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
       "title": "《臺北股市》外資大逃殺！今賣超1024億史上第十大 今年狂撤2.8兆",
       "summary": [
         "中時新聞：《臺北股市》外資大逃殺！今賣超1024億史上第十大 今年狂撤2.8兆",
@@ -176,7 +92,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "新北歡樂耶誕城將開城 首週邀大小朋友一起共度童趣嘉年華！",
       "summary": [
         "中時新聞：新北歡樂耶誕城將開城 首週邀大小朋友一起共度童趣嘉年華！",
@@ -197,7 +113,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "國民黨新竹縣黨部清黨！邀鄭朝方站臺被開鍘 徐瑜新這樣冷回",
       "summary": [
         "自由時報：國民黨新竹縣黨部清黨！邀鄭朝方站臺被開鍘 徐瑜新這樣冷回",
@@ -216,48 +132,144 @@
           "url": "https://www.ettoday.net/news/20261106/3267222.htm"
         }
       ]
+    },
+    {
+      "rank": 7,
+      "title": "歐洲超市冷凍櫃遭駭溫度飆高 俄羅斯否認指控稱「荒謬」",
+      "summary": [
+        "自由時報：歐洲超市冷凍櫃遭駭溫度飆高 俄羅斯否認指控稱「荒謬」",
+        "經濟日報：俄羅斯否認涉入歐洲超市冰箱網攻　稱相關指控荒謬"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "歐洲超市冷凍櫃遭駭溫度飆高 俄羅斯否認指控稱「荒謬」",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631064"
+        },
+        {
+          "source": "經濟日報",
+          "title": "俄羅斯否認涉入歐洲超市冰箱網攻　稱相關指控荒謬",
+          "url": "https://money.udn.com/money/story/5599/9860589"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "都柏林飛羅馬班機疑遭炸彈威脅 法國軍機緊急護送轉降",
+      "summary": [
+        "自由時報：都柏林飛羅馬班機疑遭炸彈威脅 法國軍機緊急護送轉降",
+        "經濟日報：都柏林飛往羅馬航班疑接獲炸彈威脅　法國軍機護送轉降當地"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "都柏林飛羅馬班機疑遭炸彈威脅 法國軍機緊急護送轉降",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631055"
+        },
+        {
+          "source": "經濟日報",
+          "title": "都柏林飛往羅馬航班疑接獲炸彈威脅　法國軍機護送轉降當地",
+          "url": "https://money.udn.com/money/story/5599/9860555"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "張俊傑偷渡畫面曝光！下車到上船僅9分鐘",
+      "summary": [
+        "自由時報：張俊傑偷渡畫面曝光！下車到上船僅9分鐘",
+        "ETtoday：張俊傑神鬼偷渡畫面曝光　下車到上船「只花12分鐘」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "張俊傑偷渡畫面曝光！下車到上船僅9分鐘",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5631088"
+        },
+        {
+          "source": "ETtoday",
+          "title": "張俊傑神鬼偷渡畫面曝光　下車到上船「只花12分鐘」",
+          "url": "https://www.ettoday.net/news/20261105/3267210.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "避開美國出口管制　中國AI新創月之暗面轉向歐洲租輝達晶片算力",
+      "summary": [
+        "自由時報：避開美國出口管制　中國AI新創月之暗面轉向歐洲租輝達晶片算力",
+        "經濟日報：避開美國出口管制　中國AI新創月之暗面轉向歐洲租輝達晶片算力"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "避開美國出口管制　中國AI新創月之暗面轉向歐洲租輝達晶片算力",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631126"
+        },
+        {
+          "source": "經濟日報",
+          "title": "避開美國出口管制　中國AI新創月之暗面轉向歐洲租輝達晶片算力",
+          "url": "https://money.udn.com/money/story/5599/9860854"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "香港判處民主活動人士黃之鋒十年徒刑",
+      "title": "亞馬遜為其主要訂戶增加 Uber 送餐福利",
       "summary": [
-        "Financial Times：香港判處民主活動人士黃之鋒十年徒刑",
-        "Nikkei Asia：香港活動人士黃之鋒因勾結外國罪被判10年"
+        "Bloomberg Tech：亞馬遜為其主要訂戶增加 Uber 送餐福利",
+        "The Verge：亞馬遜與 Uber Eats 合作重返餐廳外送領域",
+        "Yahoo Finance：亞馬遜與Uber Eats優食合作，為Prime會員提供餐廳外送服務"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "香港判處民主活動人士黃之鋒十年徒刑",
-          "url": "https://www.ft.com/content/8ea68e28-8239-44b5-8c0c-a26c2ded9347?syn-25a6b1a6=1"
+          "source": "Bloomberg Tech",
+          "title": "亞馬遜為其主要訂戶增加 Uber 送餐福利",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/amazon-adds-uber-food-delivery-perks-for-its-prime-subscribers"
         },
         {
-          "source": "Nikkei Asia",
-          "title": "香港活動人士黃之鋒因勾結外國罪被判10年",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWEg4NGx4dlFVX1R4dU43S200N1VlNXNoRUxIU2VDMjlraGZjNFFVMWZ1a3BjRGV1ekIwaEpuQldObW1lajhTczROdTR4dEZfQ1JTNlNNRGpGWi0ySGswRnRNLS1tY2RJZ0Z6OVhjQ0NMZTJuVEdpYWJlUms5aUl5aGpnUXZVX0MtME5SamZjRVNhc0xfcmhVaTkxUmE3QVd4cFlBMjIxYXc4V1R1SHRQbDhUQzd6V0JkTFJjTTZkMkxYVTJUcTdZZnZ0QQ?oc=5"
+          "source": "The Verge",
+          "title": "亞馬遜與 Uber Eats 合作重返餐廳外送領域",
+          "url": "https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "亞馬遜與Uber Eats優食合作，為Prime會員提供餐廳外送服務",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaDJ0ZzAwbzhmQm1UX216QkRHMUQyRk5GSk1KQ2E3Y2dtQUFHUmtDQUgyT3JOTmdVSUE1U2xaQktFeUd6OWNrU0Jybjc3TmFManBOSVY5dm1nMnJuZjFhM2VudTh1b2VObHVPejBQRjBITWJvZXNtTEdPcm54eU9oTmpVczk3a1NXYUNlUjN0Z0JFS1lLd2FNM0hIZHRiYkVYT2lHcDNtR3hSM25IdnhSb1VRMDI3dTRhbzc3Z1NVR2owejV2UHVoT2U1NnVYR3Z6Y1E?oc=5"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "法國敦促歐盟提高快時尚稅",
+      "title": "歐洲客機持續受到炸彈威脅",
       "summary": [
-        "Financial Times：法國敦促歐盟提高快時尚稅",
-        "法廣RFI：法國呼籲歐盟針對快時尚徵收更高稅費"
+        "NHK新聞：歐洲客機持續受到炸彈威脅",
+        "Washington Post：炸彈威脅針對歐洲多個航班",
+        "CNBC：炸彈威脅第二次擾亂歐洲各地的航班。這是我們所知道的"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "法國敦促歐盟提高快時尚稅",
-          "url": "https://www.ft.com/content/13776a58-b640-4771-8256-03003498c96b?syn-25a6b1a6=1"
+          "source": "NHK新聞",
+          "title": "歐洲客機持續受到炸彈威脅",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261105de71269"
         },
         {
-          "source": "法廣RFI",
-          "title": "法國呼籲歐盟針對快時尚徵收更高稅費",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261105-%E6%B3%95%E5%9C%8B%E5%91%BC%E7%B1%B2%E6%AD%90%E7%9B%9F%E5%BE%B5%E6%94%B6%E5%BF%AB%E6%99%82%E5%B0%9A%E6%9B%B4%E9%AB%98%E7%A8%85%E8%B2%BB"
+          "source": "Washington Post",
+          "title": "炸彈威脅針對歐洲多個航班",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGoyS2tha2hmX3V1UWhFa2NvQjRPNlRJWENYOEY3dWtOdnZuQjNjMlVmMllXY3MtS0tpM0pIT25fT1Z5M2lYWXFtN3IzWGc5dVVkaE5zSzlsUFNGcHR2QXduSHoyUVp6U1AzOEtYQVU5MFNXWGNhY3F5R3R4MmtIc3UtX09ROFBzNlpmMVJKNV9ZZHFRN3pTaGQwYkNrQ3pz?oc=5"
+        },
+        {
+          "source": "CNBC",
+          "title": "炸彈威脅第二次擾亂歐洲各地的航班。這是我們所知道的",
+          "url": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html"
         }
       ]
     },
@@ -326,16 +338,37 @@
     },
     {
       "rank": 6,
-      "title": "Wendy's 拒絕 Nelson Peltz 旗下 Trian 的收購提議",
+      "title": "英國央行將三年來首次升息以對抗通膨",
       "summary": [
-        "CNBC：Wendy's 拒絕 Nelson Peltz 旗下 Trian 的收購提議",
+        "Financial Times：英國央行將三年來首次升息以對抗通膨",
+        "NHK新聞：英國央行3年3個月來首次升息抑制物價因應中東局勢"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "英國央行將三年來首次升息以對抗通膨",
+          "url": "https://www.ft.com/content/290cf85b-6d95-4c79-af9b-e2a3d79072f6?syn-25a6b1a6=1"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "英國央行3年3個月來首次升息抑制物價因應中東局勢",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261106de71304"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "溫蒂的拒絕納爾遜佩爾茨提出了特里安的收購建議",
+      "summary": [
+        "CNBC：溫蒂的拒絕納爾遜佩爾茨提出了特里安的收購建議",
         "Bloomberg Markets：Wendy 的拒絕 Peltz 的 Trian 的收購要約"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "CNBC",
-          "title": "Wendy's 拒絕 Nelson Peltz 旗下 Trian 的收購提議",
+          "title": "溫蒂的拒絕納爾遜佩爾茨提出了特里安的收購建議",
           "url": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html"
         },
         {
@@ -346,86 +379,65 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "蘋果MacBook Pro配備觸控螢幕、OLED評測：顯示器是額外加分",
-      "summary": [
-        "Bloomberg Tech：蘋果MacBook Pro配備觸控螢幕、OLED評測：顯示器是額外加分",
-        "The Verge：觸控螢幕 MacBook Pro 獲勝"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "蘋果MacBook Pro配備觸控螢幕、OLED評測：顯示器是額外加分",
-          "url": "https://www.bloomberg.com/news/features/2026-11-05/apple-macbook-pro-with-touch-screen-oled-review-display-is-an-added-bonus"
-        },
-        {
-          "source": "The Verge",
-          "title": "觸控螢幕 MacBook Pro 獲勝",
-          "url": "https://www.theverge.com/tech/1026570/apple-macbook-pro-proled-xdr-display-review"
-        }
-      ]
-    },
-    {
       "rank": 8,
-      "title": "如果您能接受 1,600 美元的價格，摩托羅拉新款 Signature 27 就能滿足您的所有需求",
+      "title": "中國阻止軟銀以 54 億美元收購 ABB 機器人部門的交易",
       "summary": [
-        "Ars Technica：如果您能接受 1,600 美元的價格，摩托羅拉新款 Signature 27 就能滿足您的所有需求",
-        "Wired：Motorola Signature 27：規格、價格、功能、發布日期"
+        "Nikkei Asia：中國阻止軟銀以 54 億美元收購 ABB 機器人部門的交易",
+        "法廣RFI：軟銀以近54億美元收購ABB機器人業務交易確認被中方阻止"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Ars Technica",
-          "title": "如果您能接受 1,600 美元的價格，摩托羅拉新款 Signature 27 就能滿足您的所有需求",
-          "url": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/"
+          "source": "Nikkei Asia",
+          "title": "中國阻止軟銀以 54 億美元收購 ABB 機器人部門的交易",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2hCWHhTMDZDQllhZ244Z1ZabmhyT01IT1BJSFFSY25vU3pMS090VEU3UlQ3WjZiMGxKVGVuZ2dTR09BRm80cjZVVTBGdnZ5Y0hYZHhwY3cySVBiVTVpNkZ4UGcta3pEUDVUN2JpUktmdXZ6dTJBRkNGRTZmRTRfM0UwdUlDZURlWEFWaXZKbUdoUUNVUnY0alkzakhabTg3VFFUWWtpcjVydEo0?oc=5"
         },
         {
-          "source": "Wired",
-          "title": "Motorola Signature 27：規格、價格、功能、發布日期",
-          "url": "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/"
+          "source": "法廣RFI",
+          "title": "軟銀以近54億美元收購ABB機器人業務交易確認被中方阻止",
+          "url": "https://www.rfi.fr/tw/%E7%B6%93%E8%B2%BF/20261105-%E8%BB%9F%E9%8A%80%E4%BB%A554%E5%84%84%E7%BE%8E%E5%85%83%E6%94%B6%E8%B3%BCabb%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%A5%AD%E5%8B%99%E4%BA%A4%E6%98%93%E7%A2%BA%E8%AA%8D%E8%A2%AB%E4%B8%AD%E6%96%B9%E9%98%BB%E6%AD%A2"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "獨家：Aina 的智慧指環希望成為人工智慧代理的遠端控制",
+      "title": "Agility Robotics 納斯達克首秀引發人形機器人市場檢視",
       "summary": [
-        "Wired：獨家：Aina 的智慧指環希望成為人工智慧代理的遠端控制",
+        "Ars Technica：Agility Robotics 納斯達克首秀引發人形機器人市場檢視",
+        "Bloomberg Tech：隨著類人機器人規模的擴大，Agility Robotics 首次公開亮相"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Ars Technica",
+          "title": "Agility Robotics 納斯達克首秀引發人形機器人市場檢視",
+          "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "隨著類人機器人規模的擴大，Agility Robotics 首次公開亮相",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-05/agility-robotics-makes-public-debut-as-humanoids-scale-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "獨家：Aina 的智慧戒指希望成為人工智慧代理的遠端控制",
+      "summary": [
+        "Wired：獨家：Aina 的智慧戒指希望成為人工智慧代理的遠端控制",
         "TechCrunch：Aina 的智慧戒指配有螢幕、操縱桿和麥克風，因此您可以與人工智慧代理交談"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Wired",
-          "title": "獨家：Aina 的智慧指環希望成為人工智慧代理的遠端控制",
+          "title": "獨家：Aina 的智慧戒指希望成為人工智慧代理的遠端控制",
           "url": "https://www.wired.com/story/aina-smart-ring/"
         },
         {
           "source": "TechCrunch",
           "title": "Aina 的智慧戒指配有螢幕、操縱桿和麥克風，因此您可以與人工智慧代理交談",
           "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "ElevenLabs 現在允許使用者直接在 SoundCloud 上釋出人工智慧生成的音樂",
-      "summary": [
-        "TechCrunch：ElevenLabs 現在允許使用者直接在 SoundCloud 上釋出人工智慧生成的音樂",
-        "The Verge：您可以將 ElevenLabs 的 AI 音樂直接釋放到 SoundCloud"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "ElevenLabs 現在允許使用者直接在 SoundCloud 上釋出人工智慧生成的音樂",
-          "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/"
-        },
-        {
-          "source": "The Verge",
-          "title": "您可以將 ElevenLabs 的 AI 音樂直接釋放到 SoundCloud",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs"
         }
       ]
     }
