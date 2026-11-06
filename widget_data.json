@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 17:34",
+  "updated_at": "2026-11-06 18:38",
   "taiwan": [
     {
       "rank": 1,
@@ -35,33 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "加州州長紐松宣佈　全州548名死刑犯減刑為終身監禁",
-      "summary": [
-        "自由時報：加州州長紐松宣佈　全州548名死刑犯減刑為終身監禁",
-        "經濟日報：加州州長紐松宣佈　全州548名死刑犯減刑為終身監禁",
-        "ETtoday：548名死刑犯「全面減刑」！　加州州長宣佈：改判終身監禁"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "加州州長紐松宣佈　全州548名死刑犯減刑為終身監禁",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631136"
-        },
-        {
-          "source": "經濟日報",
-          "title": "加州州長紐松宣佈　全州548名死刑犯減刑為終身監禁",
-          "url": "https://money.udn.com/money/story/5599/9860889"
-        },
-        {
-          "source": "ETtoday",
-          "title": "548名死刑犯「全面減刑」！　加州州長宣佈：改判終身監禁",
-          "url": "https://www.ettoday.net/news/20261106/3267316.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "巴拉圭總統請辭　銀行倒閉引爆政治危機始末一次看",
       "summary": [
         "經濟日報：巴拉圭總統請辭　銀行倒閉引爆政治危機始末一次看",
@@ -88,7 +61,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "數智名品控股有限公司",
       "summary": [
         "MoneyDJ理財網：數智名品控股有限公司",
@@ -115,7 +88,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "日月光投控子公司114/12/9~115/11/5取得供營業用機器裝置一批，計約7578萬美元",
       "summary": [
         "公開資訊觀測站重訊：日月光投控子公司114/12/9~115/11/5取得供營業用機器裝置一批，計約7578萬美元",
@@ -136,70 +109,28 @@
       ]
     },
     {
+      "rank": 5,
+      "title": "下週東北季風降溫有感　可能又有颱風生成「大迴轉」",
+      "summary": [
+        "ETtoday：下週東北季風降溫有感　可能又有颱風生成「大迴轉」",
+        "自由時報：東北季風溼涼到明天！「查帕卡」颱風明天形成"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "下週東北季風降溫有感　可能又有颱風生成「大迴轉」",
+          "url": "https://www.ettoday.net/news/20261106/3267240.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "東北季風溼涼到明天！「查帕卡」颱風明天形成",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5632014"
+        }
+      ]
+    },
+    {
       "rank": 6,
-      "title": "洛杉磯市長巴斯連任失利　拉曼將成美國第2大城首長",
-      "summary": [
-        "自由時報：洛杉磯市長巴斯連任失利　拉曼將成美國第2大城首長",
-        "經濟日報：洛杉磯市長巴斯連任失利　拉曼將成美國第2大城首長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "洛杉磯市長巴斯連任失利　拉曼將成美國第2大城首長",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631138"
-        },
-        {
-          "source": "經濟日報",
-          "title": "洛杉磯市長巴斯連任失利　拉曼將成美國第2大城首長",
-          "url": "https://money.udn.com/money/story/5599/9860900"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "美期中選舉引發AI投資疑慮　美股收盤重挫",
-      "summary": [
-        "自由時報：美期中選舉引發AI投資疑慮　美股收盤重挫",
-        "經濟日報：美期中選舉引發AI投資疑慮　美股收盤重挫"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美期中選舉引發AI投資疑慮　美股收盤重挫",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5631139"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美期中選舉引發AI投資疑慮　美股收盤重挫",
-          "url": "https://money.udn.com/money/story/123398/9860901"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "油輪遇襲引供應疑慮　國際油價大漲",
-      "summary": [
-        "自由時報：油輪遇襲引供應疑慮　國際油價大漲",
-        "經濟日報：油輪遇襲引供應疑慮　國際油價大漲"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "油輪遇襲引供應疑慮　國際油價大漲",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5631137"
-        },
-        {
-          "source": "經濟日報",
-          "title": "油輪遇襲引供應疑慮　國際油價大漲",
-          "url": "https://money.udn.com/money/story/5599/9860899"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "新竹縣「村長候選人」兒涉賄選　聲押禁見",
       "summary": [
         "ETtoday：新竹縣「村長候選人」兒涉賄選　聲押禁見",
@@ -220,7 +151,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "輝達成竊賊目標　逾3.7億元硬體與貨車在南加州離奇消失",
       "summary": [
         "經濟日報：輝達成竊賊目標　逾3.7億元硬體與貨車在南加州離奇消失",
@@ -239,16 +170,111 @@
           "url": "https://technews.tw/2026/11/06/worlds-most-valuable-company-targeted-by-bandits-for-11-4m-shipment-as-truck-vanishes-in-california/"
         }
       ]
+    },
+    {
+      "rank": 8,
+      "title": "Meta 憂選後美資料中心難蓋、但勝選州長急邀會面",
+      "summary": [
+        "科技新報：Meta 憂選後美資料中心難蓋、但勝選州長急邀會面",
+        "MoneyDJ理財網：Meta憂選後美資料中心難蓋、但勝選州長急邀會面- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "Meta 憂選後美資料中心難蓋、但勝選州長急邀會面",
+          "url": "https://technews.tw/2026/11/06/meta-president-says-midterm-results-will-make-building-data-centers-harder/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "Meta憂選後美資料中心難蓋、但勝選州長急邀會面- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTI4LXVWeGk4RU9wZXJsWFRJejhPVWF4eE1xZ1hkTzlFSl8wMk51cmNWUDJWY1F6LURnRnZXdzFtMFJEdFRYVURadWFjV3phMGFZVl9CTE1GRi1ITm9oTXo5elVjd1VaLUUxNE1BemxDQm5TcnhOTUw4aEYxM0h3OGVfT1Q4c2I3NFp5Tndab2N3dw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "AI 交易遭遇逆風，那指創「解放日」以來最大單日跌幅",
+      "summary": [
+        "科技新報：AI 交易遭遇逆風，那指創「解放日」以來最大單日跌幅",
+        "經濟日報：AI交易遭遇逆風　那指創「解放日」以來最大單日跌幅"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "AI 交易遭遇逆風，那指創「解放日」以來最大單日跌幅",
+          "url": "https://finance.technews.tw/2026/11/06/nasdaq-posts-biggest-daily-drop-in-19-months-on-fears-of-ai-regulations/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "AI交易遭遇逆風　那指創「解放日」以來最大單日跌幅",
+          "url": "https://money.udn.com/money/story/123398/9861026"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Google 續投 AI 基建，砸 170 億美元懷俄明建資料中心",
+      "summary": [
+        "科技新報：Google 續投 AI 基建，砸 170 億美元懷俄明建資料中心",
+        "經濟日報：Google續投AI基建 砸170億美元懷俄明建資料中心"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "Google 續投 AI 基建，砸 170 億美元懷俄明建資料中心",
+          "url": "https://technews.tw/2026/11/06/google-invests-17-billion-ai-infrastructure-wyoming-data-center/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "Google續投AI基建 砸170億美元懷俄明建資料中心",
+          "url": "https://money.udn.com/money/story/123398/9861049"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "隨著人工智慧拋售的持續，日本股市將暴跌",
+      "summary": [
+        "Bloomberg Markets：隨著人工智慧拋售的持續，日本股市將暴跌",
+        "Investing.com：人工智慧潰敗日本、韓國，亞洲股市暴跌",
+        "Nikkei Asia：隨著人工智慧拋售加速，日本、韓國股市暴跌"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "隨著人工智慧拋售的持續，日本股市將暴跌",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/japanese-equities-set-to-plunge-as-ai-selloff-continues"
+        },
+        {
+          "source": "Investing.com",
+          "title": "人工智慧潰敗日本、韓國，亞洲股市暴跌",
+          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-tumble-as-ai-rout-batters-japan-s-korea-5006358"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "隨著人工智慧拋售加速，日本、韓國股市暴跌",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbkFabC16R3lTUDFNMXlBSUkySzFaSlM2ek9vb3JzNjhIYktuUk5aUHZsazJrRkpCNkczd1ZjUlR3YU8xaXRWc3pJb2FOLVl2X1lQc1RDSFM5UkVGQ2ZxbHZkdFNScGhKYU9ja2ZZV3ZLS18tZXFLX2dGMEZhd21Va0V6aHozM0FRLU9aR2NMVnk2Q184Nlh2RTY5YlJvNTM0?oc=5"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "日本、韓國暴跌，人工智慧拋售加劇",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-06/ai-selloff-deepens-as-japan-south-korea-tumble-video"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "據報道，《紐約時報》正在洽談以 3.3 億美元收購 Letterboxd",
       "summary": [
         "TechCrunch：據報道，《紐約時報》正在洽談以 3.3 億美元收購 Letterboxd",
         "The Verge：《紐約時報》正在洽談以約 3.3 億美元收購 Letterboxd",
-        "Investing.com：New York Times Company in advanced talks to acquire Letterboxd for roughly $330 million, NYT reports"
+        "Investing.com：根據《紐約時報》報道，《紐約時報》公司正在就以約 3.3 億美元收購 Letterboxd 進行高階談判"
       ],
       "media_count": 3,
       "links": [
@@ -264,13 +290,34 @@
         },
         {
           "source": "Investing.com",
-          "title": "New York Times Company in advanced talks to acquire Letterboxd for roughly $330 million, NYT reports",
+          "title": "根據《紐約時報》報道，《紐約時報》公司正在就以約 3.3 億美元收購 Letterboxd 進行高階談判",
           "url": "https://www.investing.com/news/stock-market-news/new-york-times-company-in-advanced-talks-to-acquire-letterboxd-for-roughly-330-million-nyt-reports-5006200"
         }
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "隨著人工智慧潰敗加深，亞洲股市面臨拋售：市場總結",
+      "summary": [
+        "Bloomberg Markets：隨著人工智慧潰敗加深，亞洲股市面臨拋售：市場總結",
+        "Financial Times：華爾街人工智慧潰敗後亞洲市場遭受重創"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "隨著人工智慧潰敗加深，亞洲股市面臨拋售：市場總結",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "source": "Financial Times",
+          "title": "華爾街人工智慧潰敗後亞洲市場遭受重創",
+          "url": "https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "美國市場暴跌後，亞洲科技股遭遇拋售",
       "summary": [
         "Bloomberg Markets：美國市場暴跌後，亞洲科技股遭遇拋售",
@@ -291,38 +338,59 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機",
+      "rank": 5,
+      "title": "期中選舉結果引發對人工智慧監管焦慮，美股暴跌- 紐約時報中文網",
       "summary": [
-        "WSJ Markets：巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機",
-        "法廣RFI：巴拉圭銀行倒閉引發政治危機，總統培尼亞宣佈辭職"
+        "紐約時報中文：期中選舉結果引發對人工智慧監管焦慮，美股暴跌- 紐約時報中文網",
+        "The Guardian：民主黨中期選舉勝利後，全球股市因人工智慧放緩擔憂而暴跌"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "WSJ Markets",
-          "title": "巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機",
-          "url": "https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_markets_main"
+          "source": "紐約時報中文",
+          "title": "期中選舉結果引發對人工智慧監管焦慮，美股暴跌- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbW9oc3h3cnFNVWVKbnpfazUzZ0hsR3U4eWd3cDh5dmhVaklKbjRtLXNPcVpERkM5NWpZcFA5NGxCMWtLdzgtT21HcmNWNG5ZUXdSck5mNXNIVllhYjd3U05hM2NQcTV6UlBqazFtOHc5QTBTQ3doN0h4Z1dfYk1hajlmeUVWa3Z1bHNkZVlyazlzOVE?oc=5"
         },
         {
-          "source": "法廣RFI",
-          "title": "巴拉圭銀行倒閉引發政治危機，總統培尼亞宣佈辭職",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261105-%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%8A%80%E8%A1%8C%E5%80%92%E9%96%89%E5%BC%95%E7%99%BC%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%A9%9F%EF%BC%8C%E7%B8%BD%E7%B5%B1%E5%9F%B9%E5%B0%BC%E4%BA%9E%E5%AE%A3%E5%B8%83%E8%BE%AD%E8%81%B7"
+          "source": "The Guardian",
+          "title": "民主黨中期選舉勝利後，全球股市因人工智慧放緩擔憂而暴跌",
+          "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
         }
       ]
     },
     {
-      "rank": 4,
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "rank": 6,
+      "title": "IRS 公佈 2027 年更高的資本利得稅級",
       "summary": [
-        "TechCrunch：Airbnb says it’s launching an AI travel agent in the first half of 2027",
+        "CNBC：IRS 公佈 2027 年更高的資本利得稅級",
+        "MarketWatch：以下是 2027 年各所得水準的資本利得稅率"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "IRS 公佈 2027 年更高的資本利得稅級",
+          "url": "https://www.cnbc.com/2026/11/05/capital-gains-tax-2027-federal.html"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "以下是 2027 年各所得水準的資本利得稅率",
+          "url": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Airbnb 表示將於 2027 年上半年推出人工智慧旅行社",
+      "summary": [
+        "TechCrunch：Airbnb 表示將於 2027 年上半年推出人工智慧旅行社",
         "The Verge：Airbnb 正在開發人工智慧旅行社"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "TechCrunch",
-          "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+          "title": "Airbnb 表示將於 2027 年上半年推出人工智慧旅行社",
           "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
         },
         {
@@ -333,7 +401,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 8,
       "title": "中國阻止軟銀以54億美元收購ABB機器人業務- 紐約時報中文網",
       "summary": [
         "紐約時報中文：中國阻止軟銀以54億美元收購ABB機器人業務- 紐約時報中文網",
@@ -354,101 +422,44 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Asia stocks tumble as AI rout batters Japan, S. Korea",
-      "summary": [
-        "Investing.com：Asia stocks tumble as AI rout batters Japan, S. Korea",
-        "Nikkei Asia：Japan, South Korea stocks plummet as AI selloff accelerates"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Asia stocks tumble as AI rout batters Japan, S. Korea",
-          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-tumble-as-ai-rout-batters-japan-s-korea-5006358"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "Japan, South Korea stocks plummet as AI selloff accelerates",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbkFabC16R3lTUDFNMXlBSUkySzFaSlM2ek9vb3JzNjhIYktuUk5aUHZsazJrRkpCNkczd1ZjUlR3YU8xaXRWc3pJb2FOLVl2X1lQc1RDSFM5UkVGQ2ZxbHZkdFNScGhKYU9ja2ZZV3ZLS18tZXFLX2dGMEZhd21Va0V6aHozM0FRLU9aR2NMVnk2Q184Nlh2RTY5YlJvNTM0?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
-      "summary": [
-        "BBC中文：澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
-        "法廣RFI：首案：澳門民主派前議員區錦新因顛覆等罪判監12年半 人權組織批過程不公籲放人"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
-          "url": "https://www.bbc.com/zhongwen/articles/cw62yyejjrlro/trad?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "首案：澳門民主派前議員區錦新因顛覆等罪判監12年半 人權組織批過程不公籲放人",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261106-%E9%A6%96%E6%A1%88-%E6%BE%B3%E9%96%80%E6%B0%91%E4%B8%BB%E6%B4%BE%E5%89%8D%E8%AD%B0%E5%93%A1%E5%8D%80%E9%8C%A6%E6%96%B0%E5%9B%A0%E9%A1%9B%E8%A6%86%E7%AD%89%E7%BD%AA%E5%88%A4%E7%9B%A312%E5%B9%B4%E5%8D%8A-%E4%BA%BA%E6%AC%8A%E7%B5%84%E7%B9%94%E6%89%B9%E9%81%8E%E7%A8%8B%E4%B8%8D%E5%85%AC%E7%B1%B2%E6%94%BE%E4%BA%BA"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "隨著投資者逃離人工智慧交易，印度股市獲得避風港吸引力",
-      "summary": [
-        "Bloomberg Tech：隨著投資者逃離人工智慧交易，印度股市獲得避風港吸引力",
-        "CNBC：印度作為人工智慧對沖？隨著全球市場低迷，該國股市可能會出現強勁流入"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "隨著投資者逃離人工智慧交易，印度股市獲得避風港吸引力",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/indian-stocks-gain-haven-appeal-as-investors-flee-ai-trade"
-        },
-        {
-          "source": "CNBC",
-          "title": "印度作為人工智慧對沖？隨著全球市場低迷，該國股市可能會出現強勁流入",
-          "url": "https://www.cnbc.com/2026/11/06/india-ai-tech-hedge-nifty50.html"
-        }
-      ]
-    },
-    {
       "rank": 9,
-      "title": "隨著人工智慧潰敗加深，亞洲股市遭遇拋售",
+      "title": "隨著人工智慧拋售加劇，日本日經指數準備進入熊市",
       "summary": [
-        "Bloomberg Markets：隨著人工智慧潰敗加深，亞洲股市遭遇拋售",
-        "Bloomberg Tech：亞洲對沖基金和富有投資者在人工智慧拋售中面臨巨額損失"
+        "Bloomberg Markets：隨著人工智慧拋售加劇，日本日經指數準備進入熊市",
+        "Investing.com：由於人工智慧潰敗打擊科技股估值，日本日經指數接近熊市"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "隨著人工智慧潰敗加深，亞洲股市遭遇拋售",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-06/the-asia-trade-11-6-2026-video"
+          "title": "隨著人工智慧拋售加劇，日本日經指數準備進入熊市",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/japan-s-nikkei-breaks-below-key-60-000-level-on-ai-selloff"
         },
         {
-          "source": "Bloomberg Tech",
-          "title": "亞洲對沖基金和富有投資者在人工智慧拋售中面臨巨額損失",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/asia-hedge-funds-rich-investors-face-steep-losses-in-ai-selloff"
+          "source": "Investing.com",
+          "title": "由於人工智慧潰敗打擊科技股估值，日本日經指數接近熊市",
+          "url": "https://www.investing.com/news/stock-market-news/japans-nikkei-nears-bear-market-as-ai-rout-batters-tech-valuations-5006297"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "Why is LYFT stock sliding today?",
+      "title": "威斯康辛州報告嬰兒死亡與麻疹爆發有關",
       "summary": [
-        "Investing.com：Why is LYFT stock sliding today?"
+        "Investing.com：威斯康辛州報告嬰兒死亡與麻疹爆發有關",
+        "Washington Post：威斯康辛州報告嬰兒麻疹死亡，這是三十多年來的首次"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
           "source": "Investing.com",
-          "title": "Why is LYFT stock sliding today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-lyft-stock-sliding-today-93CH-5006057"
+          "title": "威斯康辛州報告嬰兒死亡與麻疹爆發有關",
+          "url": "https://www.investing.com/news/stock-market-news/wisconsin-reports-infant-death-linked-to-measles-outbreak-5006111"
+        },
+        {
+          "source": "Washington Post",
+          "title": "威斯康辛州報告嬰兒麻疹死亡，這是三十多年來的首次",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzNtZ2I5Mi1GS20yTVA1V1RTcDlIbXQ1LVFFTGxGczdqZkRyeUphakphR3RyTlRpX3dPMTQwSU5QNl85bFp0N3JvbFFVSHJWdW1neGRGMFFJMk80el93eXpmMV8wak5ocnpGSXFIWThQRUZQb2tyUDNLd1pEOUpFU2hxazZBbXhlNlBFcEZKZUFWQi1KR2VGbVZWQ3RtaWxHN1paaTNTRHpDNF81WlZDN0VqNDQxZ0o5Z0E?oc=5"
         }
       ]
     }
