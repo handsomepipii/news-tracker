@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 10:12",
+  "updated_at": "2026-11-06 11:27",
   "taiwan": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
         "經濟日報：金融風暴波及300萬人　巴拉圭總統潘尼亞宣佈辭職",
         "ETtoday：快訊／巴拉圭總統宣佈辭職　銀行倒閉金融危機"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "自由時報",
@@ -25,11 +25,48 @@
           "source": "ETtoday",
           "title": "快訊／巴拉圭總統宣佈辭職　銀行倒閉金融危機",
           "url": "https://www.ettoday.net/news/20261106/3267227.htm"
+        },
+        {
+          "source": "科技新報",
+          "title": "巴拉圭總統請辭，銀行倒閉引爆政治危機始末一次看",
+          "url": "https://finance.technews.tw/2026/11/06/paraguayan-president-resigns-bank-failures-political-crisis-full-overview/"
         }
       ]
     },
     {
       "rank": 2,
+      "title": "快訊／亞股崩盤！韓股跌逾8%觸發熔斷　日股重挫近4000點",
+      "summary": [
+        "ETtoday：快訊／亞股崩盤！韓股跌逾8%觸發熔斷　日股重挫近4000點",
+        "鉅亨網：韓股跌幅擴大至8.8% 觸發熔斷 日股大跌近4%",
+        "科技新報：韓股暴跌逾 8% 失守 5,000 點，觸發第一階段熔斷機制"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／亞股崩盤！韓股跌逾8%觸發熔斷　日股重挫近4000點",
+          "url": "https://finance.ettoday.net/news/3267283"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "韓股跌幅擴大至8.8% 觸發熔斷 日股大跌近4%",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91ZGJoS1cxRTQwTWFDX3ZKeW1yeDN2UldlQ2hQaTBwaDlDMGZxMzYtX0hqd1ViRF9lVTQ3SldpZUNMeFloYzRNbmVQNE5HWEk?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "韓股暴跌逾 8% 失守 5,000 點，觸發第一階段熔斷機制",
+          "url": "https://finance.technews.tw/2026/11/06/korean-stocks-plunge-8-percent-below-5000-points-first-stage-circuit-breaker/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "韓股暴跌逾8%失守5000點　觸發第一階段熔斷機制",
+          "url": "https://money.udn.com/money/story/5599/9861206"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "避開美國出口管制　中國AI新創月之暗面轉向歐洲租輝達晶片算力",
       "summary": [
         "自由時報：避開美國出口管制　中國AI新創月之暗面轉向歐洲租輝達晶片算力",
@@ -56,7 +93,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "巴拉圭總統潘尼亞捲銀行風暴請辭　副總統阿里亞納接任",
       "summary": [
         "自由時報：巴拉圭總統潘尼亞捲銀行風暴請辭　副總統阿里亞納接任",
@@ -83,7 +120,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "【LIVE】伊朗嘲諷川普期中選舉大敗 傳美軍已準備好大規模作戰 20261105 ｜TVBS看世界",
       "summary": [
         "TVBS新聞：【LIVE】伊朗嘲諷川普期中選舉大敗 傳美軍已準備好大規模作戰 20261105 ｜TVBS看世界",
@@ -100,27 +137,6 @@
           "source": "公視新聞",
           "title": "美國期中選舉／民主黨全面掌控國會川普坦言共和黨敗選和伊朗戰爭有關｜#公視新聞網#Shorts ｜ 公視新聞PNN",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UaUFzaEpRa3lNd0s3X0RBQzlQaXRtQ3JabE9qZ1kwbHhYbjdlWEVkbkxhUWpFLUlGQ01uMzdVbTFRTUFEbkl2X05GZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "英國央行調升基準利率1碼至4%　逾3年來首度升息",
-      "summary": [
-        "經濟日報：英國央行調升基準利率1碼至4%　逾3年來首度升息",
-        "科技新報：英國央行調升基準利率 1 碼至 4%，逾 3 年來首度升息"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "英國央行調升基準利率1碼至4%　逾3年來首度升息",
-          "url": "https://money.udn.com/money/story/5599/9860486"
-        },
-        {
-          "source": "科技新報",
-          "title": "英國央行調升基準利率 1 碼至 4%，逾 3 年來首度升息",
-          "url": "https://finance.technews.tw/2026/11/06/bank-of-england-hikes-interest-rate-for-the-first-time-since-iran-war/"
         }
       ]
     },
@@ -233,33 +249,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "軟銀以近54億美元收購ABB機器人業務交易確認被中方阻止",
-      "summary": [
-        "法廣RFI：軟銀以近54億美元收購ABB機器人業務交易確認被中方阻止",
-        "紐約時報中文：中國阻止軟銀以54億美元收購ABB機器人業務- 紐約時報中文網",
-        "Yahoo Finance：軟銀以 54 億美元收購 ABB 機器人部門遭中國阻撓"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "軟銀以近54億美元收購ABB機器人業務交易確認被中方阻止",
-          "url": "https://www.rfi.fr/tw/%E7%B6%93%E8%B2%BF/20261105-%E8%BB%9F%E9%8A%80%E4%BB%A554%E5%84%84%E7%BE%8E%E5%85%83%E6%94%B6%E8%B3%BCabb%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%A5%AD%E5%8B%99%E4%BA%A4%E6%98%93%E7%A2%BA%E8%AA%8D%E8%A2%AB%E4%B8%AD%E6%96%B9%E9%98%BB%E6%AD%A2"
-        },
-        {
-          "source": "紐約時報中文",
-          "title": "中國阻止軟銀以54億美元收購ABB機器人業務- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVWxvc012U01qZkZQSV95Q2JfMUdNYnhudi1IaGVLdEM3bFRLRzBnTTFzbERjUERqVGxVcF9CZE5FUVpnb3NxWm9JeHRacGs3d2EyWmlzaEpobmZ2aU9IV0FfYkNjN09tdWlwbTFkQjJ4aEo2RGVsQ05jTXlwbEhUUXF3YzBLZw?oc=5"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "軟銀以 54 億美元收購 ABB 機器人部門遭中國阻撓",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcUw4WkN5cDZra2ttaHRqSGtjUmc3UlZHSER3aTlVQVRSVGtlS3BtNjVHXzh1V2REVXJGdDl0bHFkUG5zaXRBdDEzZHJBNnlwbk9OeHU2N3RnSG5Xc0lPZzFBMFlvd01FRzJXeHB4alZwUnBNUkswNjd5aWwwd1E2WmFzOVlOVjRMQm1POS1UbGhYeG8?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
       "summary": [
         "The Guardian：巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
@@ -286,7 +275,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "據報道，《紐約時報》正在洽談以 3.3 億美元收購 Letterboxd",
       "summary": [
         "TechCrunch：據報道，《紐約時報》正在洽談以 3.3 億美元收購 Letterboxd",
@@ -313,70 +302,28 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "炸彈威脅針對歐洲多個航班",
+      "summary": [
+        "Washington Post：炸彈威脅針對歐洲多個航班",
+        "CNBC：炸彈威脅第二次擾亂歐洲各地的航班。這是我們所知道的"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "炸彈威脅針對歐洲多個航班",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGoyS2tha2hmX3V1UWhFa2NvQjRPNlRJWENYOEY3dWtOdnZuQjNjMlVmMllXY3MtS0tpM0pIT25fT1Z5M2lYWXFtN3IzWGc5dVVkaE5zSzlsUFNGcHR2QXduSHoyUVp6U1AzOEtYQVU5MFNXWGNhY3F5R3R4MmtIc3UtX09ROFBzNlpmMVJKNV9ZZHFRN3pTaGQwYkNrQ3pz?oc=5"
+        },
+        {
+          "source": "CNBC",
+          "title": "炸彈威脅第二次擾亂歐洲各地的航班。這是我們所知道的",
+          "url": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html"
+        }
+      ]
+    },
+    {
       "rank": 4,
-      "title": "Apple MacBook Pro With Touch Screen, OLED Review: Display Is An Added Bonus",
-      "summary": [
-        "Bloomberg Tech：Apple MacBook Pro With Touch Screen, OLED Review: Display Is An Added Bonus",
-        "The Verge：The touchscreen MacBook Pro is a winner"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Apple MacBook Pro With Touch Screen, OLED Review: Display Is An Added Bonus",
-          "url": "https://www.bloomberg.com/news/features/2026-11-05/apple-macbook-pro-with-touch-screen-oled-review-display-is-an-added-bonus"
-        },
-        {
-          "source": "The Verge",
-          "title": "The touchscreen MacBook Pro is a winner",
-          "url": "https://www.theverge.com/tech/1026570/apple-macbook-pro-proled-xdr-display-review"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
-      "summary": [
-        "Ars Technica：Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
-        "Wired：Motorola Signature 27: Specs, Price, Features, Release Date"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Ars Technica",
-          "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
-          "url": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/"
-        },
-        {
-          "source": "Wired",
-          "title": "Motorola Signature 27: Specs, Price, Features, Release Date",
-          "url": "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-      "summary": [
-        "Wired：Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-        "TechCrunch：Aina 的智慧戒指配有螢幕、操縱桿和麥克風，因此您可以與人工智慧代理交談"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Wired",
-          "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-          "url": "https://www.wired.com/story/aina-smart-ring/"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Aina 的智慧戒指配有螢幕、操縱桿和麥克風，因此您可以與人工智慧代理交談",
-          "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "ElevenLabs 現在允許使用者直接在 SoundCloud 上釋出人工智慧生成的音樂",
       "summary": [
         "TechCrunch：ElevenLabs 現在允許使用者直接在 SoundCloud 上釋出人工智慧生成的音樂",
@@ -397,7 +344,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "Google、Meta、TikTok 起訴阻止加州青少年社群媒體法",
       "summary": [
         "Investing.com：Google、Meta、TikTok 起訴阻止加州青少年社群媒體法",
@@ -418,7 +365,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "民主黨獲勝引發人工智慧延遲擔憂，納斯達克 100 指數損失 1.8 兆美元",
       "summary": [
         "Investing.com：民主黨獲勝引發人工智慧延遲擔憂，納斯達克 100 指數損失 1.8 兆美元",
@@ -439,7 +386,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "TikTok 悄悄推出獨立的 TikTok Shop 應用",
       "summary": [
         "TechCrunch：TikTok 悄悄推出獨立的 TikTok Shop 應用",
@@ -456,6 +403,69 @@
           "source": "The Verge",
           "title": "TikTok launched a dedicated TikTok Shop app",
           "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "20多架歐洲航班本週相繼遭受匿名炸彈威脅",
+      "summary": [
+        "法廣RFI：20多架歐洲航班本週相繼遭受匿名炸彈威脅",
+        "FT中文網：20個歐洲航班再遭“詐彈”威脅"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "20多架歐洲航班本週相繼遭受匿名炸彈威脅",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261105-20%E5%A4%9A%E6%9E%B6%E6%AD%90%E6%B4%B2%E8%88%AA%E7%8F%AD%E6%9C%AC%E5%91%A8%E7%9B%B8%E7%B9%BC%E9%81%AD%E5%8F%97%E5%8C%BF%E5%90%8D%E7%82%B8%E5%BD%88%E5%A8%81%E8%84%85"
+        },
+        {
+          "source": "FT中文網",
+          "title": "20個歐洲航班再遭“詐彈”威脅",
+          "url": "https://www.ftchinese.com/story/001111295"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Anthropic, Plaid Collaborate on AI Consumer Finance Guidance",
+      "summary": [
+        "Bloomberg Tech：Anthropic, Plaid Collaborate on AI Consumer Finance Guidance",
+        "Investing.com：Anthropic partners with Plaid for AI financial advice tool"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic, Plaid Collaborate on AI Consumer Finance Guidance",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/anthropic-plaid-collaborate-on-ai-consumer-finance-guidance"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Anthropic partners with Plaid for AI financial advice tool",
+          "url": "https://www.investing.com/news/stock-market-news/anthropic-partners-with-plaid-for-ai-financial-advice-tool-5005341"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "加州州長為所有 548 名死囚減刑",
+      "summary": [
+        "BBC World：加州州長為所有 548 名死囚減刑",
+        "法廣RFI：加州州長宣佈為548名死刑犯減刑"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "加州州長為所有 548 名死囚減刑",
+          "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "加州州長宣佈為548名死刑犯減刑",
+          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261105-%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%B7%E5%AE%A3%E5%B8%83%E7%82%BA548%E5%90%8D%E6%AD%BB%E5%88%91%E7%8A%AF%E6%B8%9B%E5%88%91"
         }
       ]
     }
