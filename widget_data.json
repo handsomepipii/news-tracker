@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 19:54",
+  "updated_at": "2026-11-06 21:02",
   "taiwan": [
     {
       "rank": 1,
@@ -238,75 +238,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "據報道，《紐約時報》正在洽談以 3.3 億美元收購 Letterboxd",
-      "summary": [
-        "TechCrunch：據報道，《紐約時報》正在洽談以 3.3 億美元收購 Letterboxd",
-        "The Verge：《紐約時報》正在洽談以約 3.3 億美元收購 Letterboxd",
-        "Investing.com：New York Times Company in advanced talks to acquire Letterboxd for roughly $330 million, NYT reports"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "據報道，《紐約時報》正在洽談以 3.3 億美元收購 Letterboxd",
-          "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/"
-        },
-        {
-          "source": "The Verge",
-          "title": "《紐約時報》正在洽談以約 3.3 億美元收購 Letterboxd",
-          "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report"
-        },
-        {
-          "source": "Investing.com",
-          "title": "New York Times Company in advanced talks to acquire Letterboxd for roughly $330 million, NYT reports",
-          "url": "https://www.investing.com/news/stock-market-news/new-york-times-company-in-advanced-talks-to-acquire-letterboxd-for-roughly-330-million-nyt-reports-5006200"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "美國市場暴跌後，亞洲科技股遭遇拋售",
-      "summary": [
-        "Bloomberg Markets：美國市場暴跌後，亞洲科技股遭遇拋售",
-        "Financial Times：亞洲科技股下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "美國市場暴跌後，亞洲科技股遭遇拋售",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-06/tech-selloff-hits-asia-after-us-market-rout-video"
-        },
-        {
-          "source": "Financial Times",
-          "title": "亞洲科技股下跌",
-          "url": "https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "中國阻止軟銀以54億美元收購ABB機器人業務- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：中國阻止軟銀以54億美元收購ABB機器人業務- 紐約時報中文網",
-        "Yahoo Finance：軟銀以 54 億美元收購 ABB 機器人部門遭中國阻撓"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "中國阻止軟銀以54億美元收購ABB機器人業務- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVWxvc012U01qZkZQSV95Q2JfMUdNYnhudi1IaGVLdEM3bFRLRzBnTTFzbERjUERqVGxVcF9CZE5FUVpnb3NxWm9JeHRacGs3d2EyWmlzaEpobmZ2aU9IV0FfYkNjN09tdWlwbTFkQjJ4aEo2RGVsQ05jTXlwbEhUUXF3YzBLZw?oc=5"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "軟銀以 54 億美元收購 ABB 機器人部門遭中國阻撓",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcUw4WkN5cDZra2ttaHRqSGtjUmc3UlZHSER3aTlVQVRSVGtlS3BtNjVHXzh1V2REVXJGdDl0bHFkUG5zaXRBdDEzZHJBNnlwbk9OeHU2N3RnSG5Xc0lPZzFBMFlvd01FRzJXeHB4alZwUnBNUkswNjd5aWwwd1E2WmFzOVlOVjRMQm1POS1UbGhYeG8?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "U.S. stock futures rise after AI rout batters Wall St; payrolls data in focus",
       "summary": [
         "Investing.com：U.S. stock futures rise after AI rout batters Wall St; payrolls data in focus",
@@ -327,7 +258,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 2,
       "title": "Asia stocks tumble as AI rout batters Japan, S. Korea",
       "summary": [
         "Investing.com：Asia stocks tumble as AI rout batters Japan, S. Korea",
@@ -348,7 +279,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 3,
       "title": "澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
       "summary": [
         "BBC中文：澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
@@ -369,7 +300,28 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "title": "亞洲科技股下跌",
+      "summary": [
+        "Financial Times：亞洲科技股下跌",
+        "Bloomberg Markets：亞洲遭受重大科技股拋售，市場下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "亞洲科技股下跌",
+          "url": "https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "亞洲遭受重大科技股拋售，市場下跌",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-06/carnage-in-markets-as-asia-hit-by-major-tech-selloff-video"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "隨著投資者逃離人工智慧交易，印度股市獲得避風港吸引力",
       "summary": [
         "Bloomberg Tech：隨著投資者逃離人工智慧交易，印度股市獲得避風港吸引力",
@@ -390,7 +342,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "隨著人工智慧潰敗加深，亞洲股市遭遇拋售",
       "summary": [
         "Bloomberg Markets：隨著人工智慧潰敗加深，亞洲股市遭遇拋售",
@@ -411,7 +363,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Tesla to wind down Cybertruck production at Texas factory, Musk says",
       "summary": [
         "Investing.com：Tesla to wind down Cybertruck production at Texas factory, Musk says",
@@ -432,7 +384,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "眾議院領導人要求黃仁勛出席簡報會，說明與中國高管往來- 紐約時報中文網",
       "summary": [
         "紐約時報中文：眾議院領導人要求黃仁勛出席簡報會，說明與中國高管往來- 紐約時報中文網"
@@ -443,6 +395,36 @@
           "source": "紐約時報中文",
           "title": "眾議院領導人要求黃仁勛出席簡報會，說明與中國高管往來- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVFpJWnJvVTNGVUh1ajNMTFdob1ZOZVRFSnVFRlV5b1N1b1ZKYkQ3em0yNVctQ2d3bnZHZU1Wd191Umo3OXVYY01mV211QUpmUkE4dDh6R05ab21aN1I1Vm1iQlRqcWcxdmRlNXZ2T1F3blZBaGpnZ24za2tNbGdtMTFSZ0VyS0pFM2d3ZDJ1QWw2QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "韓國綜指盤中跌逾8%失守5000點",
+      "summary": [
+        "韓聯社：韓國綜指盤中跌逾8%失守5000點"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "韓國綜指盤中跌逾8%失守5000點",
+          "url": "https://cn.yna.co.kr/view/ACK20261106000800881"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "期中選舉結果引發對人工智慧監管焦慮，美股暴跌- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：期中選舉結果引發對人工智慧監管焦慮，美股暴跌- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "期中選舉結果引發對人工智慧監管焦慮，美股暴跌- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbW9oc3h3cnFNVWVKbnpfazUzZ0hsR3U4eWd3cDh5dmhVaklKbjRtLXNPcVpERkM5NWpZcFA5NGxCMWtLdzgtT21HcmNWNG5ZUXdSck5mNXNIVllhYjd3U05hM2NQcTV6UlBqazFtOHc5QTBTQ3doN0h4Z1dfYk1hajlmeUVWa3Z1bHNkZVlyazlzOVE?oc=5"
         }
       ]
     }
