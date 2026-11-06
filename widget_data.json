@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 11:27",
+  "updated_at": "2026-11-06 12:34",
   "taiwan": [
     {
       "rank": 1,
@@ -121,6 +121,33 @@
     },
     {
       "rank": 5,
+      "title": "加州州長紐松宣佈　全州548名死刑犯減刑為終身監禁",
+      "summary": [
+        "自由時報：加州州長紐松宣佈　全州548名死刑犯減刑為終身監禁",
+        "經濟日報：加州州長紐松宣佈　全州548名死刑犯減刑為終身監禁",
+        "ETtoday：548名死刑犯「全面減刑」！　加州州長宣佈：改判終身監禁"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "加州州長紐松宣佈　全州548名死刑犯減刑為終身監禁",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631136"
+        },
+        {
+          "source": "經濟日報",
+          "title": "加州州長紐松宣佈　全州548名死刑犯減刑為終身監禁",
+          "url": "https://money.udn.com/money/story/5599/9860889"
+        },
+        {
+          "source": "ETtoday",
+          "title": "548名死刑犯「全面減刑」！　加州州長宣佈：改判終身監禁",
+          "url": "https://www.ettoday.net/news/20261106/3267316.htm"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "【LIVE】伊朗嘲諷川普期中選舉大敗 傳美軍已準備好大規模作戰 20261105 ｜TVBS看世界",
       "summary": [
         "TVBS新聞：【LIVE】伊朗嘲諷川普期中選舉大敗 傳美軍已準備好大規模作戰 20261105 ｜TVBS看世界",
@@ -141,49 +168,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "歐洲超市冷凍櫃遭駭溫度飆高 俄羅斯否認指控稱「荒謬」",
-      "summary": [
-        "自由時報：歐洲超市冷凍櫃遭駭溫度飆高 俄羅斯否認指控稱「荒謬」",
-        "經濟日報：俄羅斯否認涉入歐洲超市冰箱網攻　稱相關指控荒謬"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "歐洲超市冷凍櫃遭駭溫度飆高 俄羅斯否認指控稱「荒謬」",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631064"
-        },
-        {
-          "source": "經濟日報",
-          "title": "俄羅斯否認涉入歐洲超市冰箱網攻　稱相關指控荒謬",
-          "url": "https://money.udn.com/money/story/5599/9860589"
-        }
-      ]
-    },
-    {
       "rank": 7,
-      "title": "都柏林飛羅馬班機疑遭炸彈威脅 法國軍機緊急護送轉降",
-      "summary": [
-        "自由時報：都柏林飛羅馬班機疑遭炸彈威脅 法國軍機緊急護送轉降",
-        "經濟日報：都柏林飛往羅馬航班疑接獲炸彈威脅　法國軍機護送轉降當地"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "都柏林飛羅馬班機疑遭炸彈威脅 法國軍機緊急護送轉降",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631055"
-        },
-        {
-          "source": "經濟日報",
-          "title": "都柏林飛往羅馬航班疑接獲炸彈威脅　法國軍機護送轉降當地",
-          "url": "https://money.udn.com/money/story/5599/9860555"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "張俊傑偷渡畫面曝光！下車到上船僅9分鐘",
       "summary": [
         "自由時報：張俊傑偷渡畫面曝光！下車到上船僅9分鐘",
@@ -204,7 +189,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "曾寶儀弄丟證件包！　「祭一萬多現金」求尋：請大家幫忙救救我",
       "summary": [
         "ETtoday：曾寶儀弄丟證件包！　「祭一萬多現金」求尋：請大家幫忙救救我",
@@ -225,7 +210,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "竹縣五峰鄉某村長參選人兒涉賄選　檢聲押禁見",
       "summary": [
         "自由時報：竹縣五峰鄉某村長參選人兒涉賄選　檢聲押禁見",
@@ -244,19 +229,45 @@
           "url": "https://www.ettoday.net/news/20261106/3267237.htm"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "歐股多收黑　美期中選舉結果一度激勵盤中創高",
+      "summary": [
+        "自由時報：歐股多收黑　美期中選舉結果一度激勵盤中創高",
+        "經濟日報：歐股多收黑　美期中選舉結果一度激勵盤中創高"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "歐股多收黑　美期中選舉結果一度激勵盤中創高",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5631120"
+        },
+        {
+          "source": "經濟日報",
+          "title": "歐股多收黑　美期中選舉結果一度激勵盤中創高",
+          "url": "https://money.udn.com/money/story/5599/9860850"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
+      "title": "巴拉圭總統聖地亞哥·佩納因銀行倒閉而辭職",
       "summary": [
+        "BBC World：巴拉圭總統聖地亞哥·佩納因銀行倒閉而辭職",
         "The Guardian：巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
-        "WSJ Markets：巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機",
-        "法廣RFI：巴拉圭銀行倒閉引發政治危機，總統培尼亞宣佈辭職"
+        "WSJ Markets：巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
+        {
+          "source": "BBC World",
+          "title": "巴拉圭總統聖地亞哥·佩納因銀行倒閉而辭職",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "source": "The Guardian",
           "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
@@ -276,11 +287,43 @@
     },
     {
       "rank": 2,
+      "title": "藍色起源將發射推遲到 2027 年",
+      "summary": [
+        "Financial Times：藍色起源將發射推遲到 2027 年",
+        "CNBC：藍色起源將發射推遲到 2027 年 1 月，因為它正在努力重建受損的發射臺",
+        "Investing.com：藍色起源將新格倫發射推遲至 2027 年 1 月"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "藍色起源將發射推遲到 2027 年",
+          "url": "https://www.ft.com/content/39efbb7e-44a3-4a75-883b-e76ed6f9f5fd?syn-25a6b1a6=1"
+        },
+        {
+          "source": "CNBC",
+          "title": "藍色起源將發射推遲到 2027 年 1 月，因為它正在努力重建受損的發射臺",
+          "url": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "藍色起源將新格倫發射推遲至 2027 年 1 月",
+          "url": "https://www.investing.com/news/stock-market-news/blue-origin-delays-new-glenn-launches-to-january-2027-5005353"
+        },
+        {
+          "source": "The Verge",
+          "title": "藍色起源的下一次發射要到 2027 年才會發生",
+          "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "據報道，《紐約時報》正在洽談以 3.3 億美元收購 Letterboxd",
       "summary": [
         "TechCrunch：據報道，《紐約時報》正在洽談以 3.3 億美元收購 Letterboxd",
         "The Verge：《紐約時報》正在洽談以約 3.3 億美元收購 Letterboxd",
-        "Investing.com：New York Times Company in advanced talks to acquire Letterboxd for roughly $330 million, NYT reports"
+        "Investing.com：根據《紐約時報》報道，《紐約時報》公司正在就以約 3.3 億美元收購 Letterboxd 進行高階談判"
       ],
       "media_count": 3,
       "links": [
@@ -296,65 +339,65 @@
         },
         {
           "source": "Investing.com",
-          "title": "New York Times Company in advanced talks to acquire Letterboxd for roughly $330 million, NYT reports",
+          "title": "根據《紐約時報》報道，《紐約時報》公司正在就以約 3.3 億美元收購 Letterboxd 進行高階談判",
           "url": "https://www.investing.com/news/stock-market-news/new-york-times-company-in-advanced-talks-to-acquire-letterboxd-for-roughly-330-million-nyt-reports-5006200"
         }
       ]
     },
     {
-      "rank": 3,
-      "title": "炸彈威脅針對歐洲多個航班",
-      "summary": [
-        "Washington Post：炸彈威脅針對歐洲多個航班",
-        "CNBC：炸彈威脅第二次擾亂歐洲各地的航班。這是我們所知道的"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "炸彈威脅針對歐洲多個航班",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGoyS2tha2hmX3V1UWhFa2NvQjRPNlRJWENYOEY3dWtOdnZuQjNjMlVmMllXY3MtS0tpM0pIT25fT1Z5M2lYWXFtN3IzWGc5dVVkaE5zSzlsUFNGcHR2QXduSHoyUVp6U1AzOEtYQVU5MFNXWGNhY3F5R3R4MmtIc3UtX09ROFBzNlpmMVJKNV9ZZHFRN3pTaGQwYkNrQ3pz?oc=5"
-        },
-        {
-          "source": "CNBC",
-          "title": "炸彈威脅第二次擾亂歐洲各地的航班。這是我們所知道的",
-          "url": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html"
-        }
-      ]
-    },
-    {
       "rank": 4,
-      "title": "ElevenLabs 現在允許使用者直接在 SoundCloud 上釋出人工智慧生成的音樂",
+      "title": "隨著人工智慧潰敗加深，亞洲股市面臨拋售：市場總結",
       "summary": [
-        "TechCrunch：ElevenLabs 現在允許使用者直接在 SoundCloud 上釋出人工智慧生成的音樂",
-        "The Verge：您可以將 AI 音樂從 ElevenLabs 直接釋出到 SoundCloud"
+        "Bloomberg Markets：隨著人工智慧潰敗加深，亞洲股市面臨拋售：市場總結",
+        "Investing.com：人工智慧潰敗日本、韓國，亞洲股市暴跌"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "TechCrunch",
-          "title": "ElevenLabs 現在允許使用者直接在 SoundCloud 上釋出人工智慧生成的音樂",
-          "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/"
+          "source": "Bloomberg Markets",
+          "title": "隨著人工智慧潰敗加深，亞洲股市面臨拋售：市場總結",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates"
         },
         {
-          "source": "The Verge",
-          "title": "您可以將 AI 音樂從 ElevenLabs 直接釋出到 SoundCloud",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs"
+          "source": "Investing.com",
+          "title": "人工智慧潰敗日本、韓國，亞洲股市暴跌",
+          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-tumble-as-ai-rout-batters-japan-s-korea-5006358"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "Google、Meta、TikTok 起訴阻止加州青少年社群媒體法",
+      "title": "炸彈威脅第二次擾亂歐洲各地的航班。這是我們所知道的",
       "summary": [
-        "Investing.com：Google、Meta、TikTok 起訴阻止加州青少年社群媒體法",
+        "CNBC：炸彈威脅第二次擾亂歐洲各地的航班。這是我們所知道的",
+        "BBC World：騙局炸彈威脅一週內第二次針對歐洲航空公司和機場"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "炸彈威脅第二次擾亂歐洲各地的航班。這是我們所知道的",
+          "url": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html"
+        },
+        {
+          "source": "BBC World",
+          "title": "騙局炸彈威脅一週內第二次針對歐洲航空公司和機場",
+          "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Google、Meta、TikTok阻止加州青少年社群媒體法",
+      "summary": [
+        "Investing.com：Google、Meta、TikTok阻止加州青少年社群媒體法",
         "TechCrunch：Meta、谷歌和 TikTok 就青少年社交媒體法起訴加州 AG"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Investing.com",
-          "title": "Google、Meta、TikTok 起訴阻止加州青少年社群媒體法",
+          "title": "Google、Meta、TikTok阻止加州青少年社群媒體法",
           "url": "https://www.investing.com/news/stock-market-news/google-meta-tiktok-sue-to-block-california-youth-social-media-law-5005115"
         },
         {
@@ -365,49 +408,49 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "民主黨獲勝引發人工智慧延遲擔憂，納斯達克 100 指數損失 1.8 兆美元",
-      "summary": [
-        "Investing.com：民主黨獲勝引發人工智慧延遲擔憂，納斯達克 100 指數損失 1.8 兆美元",
-        "Financial Times：民主黨中期選舉大獲全勝引發人工智慧慘敗，華爾街損失 3.2 兆美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "民主黨獲勝引發人工智慧延遲擔憂，納斯達克 100 指數損失 1.8 兆美元",
-          "url": "https://www.investing.com/news/stock-market-news/ai-datacenter-stocks-slip-as-democratic-sweep-clouds-expansion-plans-5003196"
-        },
-        {
-          "source": "Financial Times",
-          "title": "民主黨中期選舉大獲全勝引發人工智慧慘敗，華爾街損失 3.2 兆美元",
-          "url": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
       "rank": 7,
-      "title": "TikTok 悄悄推出獨立的 TikTok Shop 應用",
+      "title": "TikTok突然推出獨立的TikTok商店應用",
       "summary": [
-        "TechCrunch：TikTok 悄悄推出獨立的 TikTok Shop 應用",
-        "The Verge：TikTok launched a dedicated TikTok Shop app"
+        "TechCrunch：TikTok突然推出獨立的TikTok商店應用",
+        "The Verge：TikTok推出了專門的TikTok Shop應用程式"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "TechCrunch",
-          "title": "TikTok 悄悄推出獨立的 TikTok Shop 應用",
+          "title": "TikTok突然推出獨立的TikTok商店應用",
           "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/"
         },
         {
           "source": "The Verge",
-          "title": "TikTok launched a dedicated TikTok Shop app",
+          "title": "TikTok 程式推出了專門的 TikTok 商店應用程式",
           "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app"
         }
       ]
     },
     {
       "rank": 8,
+      "title": "隨著晶片股下跌，SpaceX 和特斯拉股價延續跌勢：AlphaCheck",
+      "summary": [
+        "Yahoo Finance：隨著晶片股下跌，SpaceX 和特斯拉股價延續跌勢：AlphaCheck",
+        "BBC World：隨著科技和人工智慧股下跌，馬斯克旗下 SpaceX 股價暴跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "隨著晶片股下跌，SpaceX 和特斯拉股價延續跌勢：AlphaCheck",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdXFMYkpnZmtUS09fdXJBX0kwd01pcVRVX1A0dmVRWXVXTXJ4dmVkN0N4dHF3OGxNMzR1bTJOVUhmcWdGblBEZkZlSjNxU0p4X3doZG1BTlVUYTVhcTRTV1lZbWs5OTNMZUVzbzhzMWljTVlBQnNLaEV5V0syRkY1UHpRZTZZTm1uamxjVWs0bzNINlV4bWFZLTFYcXItUk1faWRiOVByR1AxTFpQSnFMRjlwWVJQOC13M2x0dGNfYVRSdDZpb2JpRg?oc=5"
+        },
+        {
+          "source": "BBC World",
+          "title": "隨著科技和人工智慧股下跌，馬斯克旗下 SpaceX 股價暴跌",
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "20多架歐洲航班本週相繼遭受匿名炸彈威脅",
       "summary": [
         "法廣RFI：20多架歐洲航班本週相繼遭受匿名炸彈威脅",
@@ -428,44 +471,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Anthropic, Plaid Collaborate on AI Consumer Finance Guidance",
-      "summary": [
-        "Bloomberg Tech：Anthropic, Plaid Collaborate on AI Consumer Finance Guidance",
-        "Investing.com：Anthropic partners with Plaid for AI financial advice tool"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic, Plaid Collaborate on AI Consumer Finance Guidance",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-05/anthropic-plaid-collaborate-on-ai-consumer-finance-guidance"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Anthropic partners with Plaid for AI financial advice tool",
-          "url": "https://www.investing.com/news/stock-market-news/anthropic-partners-with-plaid-for-ai-financial-advice-tool-5005341"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "加州州長為所有 548 名死囚減刑",
+      "title": "超過60萬人參加法國最新的抗議活動",
       "summary": [
-        "BBC World：加州州長為所有 548 名死囚減刑",
-        "法廣RFI：加州州長宣佈為548名死刑犯減刑"
+        "Financial Times：超過60萬人參加法國最新的抗議活動",
+        "法廣RFI：數十萬法國人週四在全國各地示威遊行，要求提高購買力"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "BBC World",
-          "title": "加州州長為所有 548 名死囚減刑",
-          "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
+          "source": "Financial Times",
+          "title": "超過60萬人參加法國最新的抗議活動",
+          "url": "https://www.ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427?syn-25a6b1a6=1"
         },
         {
           "source": "法廣RFI",
-          "title": "加州州長宣佈為548名死刑犯減刑",
-          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261105-%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%B7%E5%AE%A3%E5%B8%83%E7%82%BA548%E5%90%8D%E6%AD%BB%E5%88%91%E7%8A%AF%E6%B8%9B%E5%88%91"
+          "title": "數十萬法國人週四在全國各地示威遊行，要求提高購買力",
+          "url": "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20261105-%E6%95%B8%E5%8D%81%E8%90%AC%E6%B3%95%E5%9C%8B%E4%BA%BA%E5%91%A8%E5%9B%9B%E5%9C%A8%E5%85%A8%E5%9C%8B%E5%90%84%E5%9C%B0%E7%A4%BA%E5%A8%81%E9%81%8A%E8%A1%8C%EF%BC%8C%E8%A6%81%E6%B1%82%E6%8F%90%E9%AB%98%E8%B3%BC%E8%B2%B7%E5%8A%9B"
         }
       ]
     }
