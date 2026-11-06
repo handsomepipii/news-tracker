@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 04:26",
+  "updated_at": "2026-11-07 05:17",
   "taiwan": [
     {
       "rank": 1,
@@ -66,21 +66,21 @@
     },
     {
       "rank": 4,
-      "title": "特斯拉挺Cybercab　德州廠將減產Cybertruck",
+      "title": "特斯拉挺Cyber​​ cab德州工廠將減產Cyber​​ Truck",
       "summary": [
-        "經濟日報：特斯拉挺Cybercab　德州廠將減產Cybertruck",
-        "科技新報：特斯拉挺Cyber​​cab，德州廠將減產Cyber​​truck"
+        "經濟日報：特斯拉挺Cyber​​ cab德州工廠將減產Cyber​​ Truck",
+        "科技新報：特斯拉挺Cyber​​ cab，德州工廠將減產Cyber​​ Truck"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "經濟日報",
-          "title": "特斯拉挺Cybercab　德州廠將減產Cybertruck",
+          "title": "特斯拉挺Cyber​​ cab德州工廠將減產Cyber​​ Truck",
           "url": "https://money.udn.com/money/story/123398/9862326"
         },
         {
           "source": "科技新報",
-          "title": "特斯拉挺Cyber​​cab，德州廠將減產Cyber​​truck",
+          "title": "特斯拉挺Cyber​​ cab，德州工廠將減產Cyber​​ Truck",
           "url": "https://finance.technews.tw/2026/11/06/tesla-backs-cybercab-giga-texas-cut-cybertruck-production/"
         }
       ]
@@ -215,54 +215,114 @@
   "global": [
     {
       "rank": 1,
-      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "title": "Anthropic IPO 投資者認為估值低至 1.2 兆美元",
       "summary": [
-        "The Verge：Protesters break into Microsoft data center site in Amsterdam",
-        "Bloomberg Tech：Protesters Break Into Microsoft Data Center Site in Amsterdam",
-        "Tom's Hardware：Protesters storm Microsoft AI data center construction site"
+        "Bloomberg Markets：Anthropic IPO 投資者認為估值低至 1.2 兆美元",
+        "Yahoo Finance：由於市場動盪，Anthropic 的 IPO 估值可能跌至近 1 兆美元",
+        "Bloomberg Tech：Anthropic IPO買家認為估值低至1.1兆美元"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "The Verge",
-          "title": "Protesters break into Microsoft data center site in Amsterdam",
-          "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Protesters Break Into Microsoft Data Center Site in Amsterdam",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/protesters-break-into-microsoft-data-center-site-in-amsterdam"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "Protesters storm Microsoft AI data center construction site",
-          "url": "https://www.tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion",
-      "summary": [
-        "Bloomberg Markets：Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion",
-        "Bloomberg Tech：Anthropic IPO 買家認為估值低至 1.1 兆美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
           "source": "Bloomberg Markets",
-          "title": "Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion",
+          "title": "Anthropic IPO 投資者認為估值低至 1.2 兆美元",
           "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout"
         },
         {
+          "source": "Yahoo Finance",
+          "title": "由於市場動盪，Anthropic 的 IPO 估值可能跌至近 1 兆美元",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUV6dVh5WUcxemZzTXRjYmcxcVRXUHRqSjhUcjZ2VVJjbVdWMi0yMWFaaWIwZUZfTndvQ19LZl9fQk55bElVYUFyeE9pa3RmNEFBak05WEFvRkhpeG1PdFkzZkw5ZnUtczlrSS1HaU44UENxSi1ZTy1LNWZrb3BZQXRhSDZhTVpXODFvRUF2NTFoNkhNSEtYYld4LWpTaHNqSUM5WHIwWVpQNDlCelh5OFJmT0Znc1hrbGJLWDdIaUJUeExMN05KQk5DZkMtVUhiQWc?oc=5"
+        },
+        {
           "source": "Bloomberg Tech",
-          "title": "Anthropic IPO 買家認為估值低至 1.1 兆美元",
+          "title": "Anthropic IPO買家認為估值低至1.1兆美元",
           "url": "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-buyers-see-valuation-as-low-as-1-1t-video"
         }
       ]
     },
     {
+      "rank": 2,
+      "title": "亞洲因全球人工智慧拋售而陷入困境",
+      "summary": [
+        "Bloomberg Markets：亞洲因全球人工智慧拋售而陷入困境",
+        "Yahoo Finance：人工智慧潰敗震撼美國市場後亞洲股市暴跌",
+        "Nikkei Asia：臺灣、韓國、日本股市因人工智慧拋售而遭受重創"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "亞洲因全球人工智慧拋售而陷入困境",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-06/asia-reels-from-the-global-ai-selloff-video"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "人工智慧潰敗震撼美國市場後亞洲股市暴跌",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkNWMElVN0RDc0RadU5MSnhFNGZrcWgtZ3JYWU91TDd3OFdUWXJKR2xKUlIzWmQxN1RvVHBTYVNHNDFTX3h1b1dqLVVraVRvdER3UG9fZmZtN3l2cjlHSGJZMlBMTTNJSWlMTEtGVURRd3N4QXFndEFRel9yMkVzcnY3SDFEVlhZNlJ5YWlKLUVEUWdyakRCeWRhUXc?oc=5"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "臺灣、韓國、日本股市因人工智慧拋售而遭受重創",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTm5vQzNBZnVpSUdPZWwzU3J2Yi04Y3JXaWpwYjNGVEt2U1lDMjZubjdnQTdKRENVeE94QlhSblNGR0Z6cHl4QjJyVU8tbThXazVnTjVxZ1JfU25YTXlDU3hlNGdQek90TDBGM0V5NWFENFJyM3QyalVDZzd6TzdLcmhHVHpHMzZldGtuck1XMjI5WXNWS1dXWnFZSXJHSmlZbmUzYlpB?oc=5"
+        }
+      ]
+    },
+    {
       "rank": 3,
+      "title": "美國經濟10月新增就業16.5萬個，超出預期",
+      "summary": [
+        "Financial Times：美國經濟10月新增就業16.5萬個，超出預期",
+        "CNBC：10月美國經濟新增就業16.5萬個，遠超預期；失業率下滑至4.1%",
+        "Yahoo Finance：「井噴」：美國10月新增就業16.5萬個，超出預期"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "美國經濟10月新增就業16.5萬個，超出預期",
+          "url": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1"
+        },
+        {
+          "source": "CNBC",
+          "title": "10月美國經濟新增就業16.5萬個，遠超預期；失業率下滑至4.1%",
+          "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "「井噴」：美國10月新增就業16.5萬個，超出預期",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUFMzd0lzMk5DTVZ6TjBBOWR1QWMzQ1Zya0lId29ybVRCaDRKYW1hSEJVQzJWXzU3b0pvdVpHeER4RlI3eE1HWmpLWFNrcW9QaTkxXzNtWUNxZ1pZd0NkTnlrRFhUUE9rSDVDLUhBcUE0S3NzQlpEVS1COENPRjhWVnBNWlZXNHhUSXIyS1FFa0tOQzF6a1U3eWhjWDIwM1E5VC1URlNpNmtoZUE4dTMyZFJsR3ZRUTRsSnJHdzJR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "川普將以史蒂芬·米勒取代蘇西·威爾斯擔任幕僚長",
+      "summary": [
+        "Financial Times：川普將以史蒂芬·米勒取代蘇西·威爾斯擔任幕僚長",
+        "CNBC：川普稱史蒂芬·米勒將接替蘇西·懷爾斯擔任白宮辦公廳主任",
+        "Washington Post：川普任命史蒂芬·米勒為新任白宮辦公廳主任"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "川普將以史蒂芬·米勒取代蘇西·威爾斯擔任幕僚長",
+          "url": "https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1"
+        },
+        {
+          "source": "CNBC",
+          "title": "川普稱史蒂芬·米勒將接替蘇西·懷爾斯擔任白宮辦公廳主任",
+          "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html"
+        },
+        {
+          "source": "Washington Post",
+          "title": "川普任命史蒂芬·米勒為新任白宮辦公廳主任",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUdhNU1vVzIzTjBRY0VsWlhFdHF2dGJUbUxLOHRSa0owZXdqMXpSaWdfYmhMUFBOand0QzFLWVVHLTh2ZTZTcmNhVmRfSnIyMFNQcDZkaEdDak0xWjZiTHJQcFBYVG1GTi12bXhqX0lyNi1PdmFqREhVSFlmazNUZDc4Mm1aTTdIc0VsZnUwaWQtcldjTEJPRndKTVNyV3FkNHR1YlM1d3p5QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "OpenAI 財務長告訴 CNBC，儘管選舉結果如何，OpenAI 將繼續投資人工智慧資料中心",
       "summary": [
         "CNBC：OpenAI 財務長告訴 CNBC，儘管選舉結果如何，OpenAI 將繼續投資人工智慧資料中心",
@@ -283,7 +343,28 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "title": "民主黨中期選舉勝利後，全球股市因人工智慧放緩擔憂而暴跌",
+      "summary": [
+        "The Guardian：民主黨中期選舉勝利後，全球股市因人工智慧放緩擔憂而暴跌",
+        "紐約時報中文：期中選舉結果引發對人工智慧監管焦慮，美股暴跌- 紐約時報中文網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "民主黨中期選舉勝利後，全球股市因人工智慧放緩擔憂而暴跌",
+          "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
+        },
+        {
+          "source": "紐約時報中文",
+          "title": "期中選舉結果引發對人工智慧監管焦慮，美股暴跌- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEJaOEZkMGpEQXNJaVh3Zzlxdkw3UkF6T3RtQXdBYnVnYUNrNWtNcUFWM2cxcS1xcG4xRTA3eWlTOGptQ1lwRFE4dnRRVWtQd0dsbTljc1hLLTJTSWRIT3hvLTluVzVHRFpsR1JkY3l2R2ZFWWVSeHkzOG1vdVM1OGVNS2J4V21NcmRnODdrWldvUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "拋售轉向不確定性",
       "summary": [
         "Bloomberg Markets：拋售轉向不確定性",
@@ -304,11 +385,11 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 8,
       "title": "隨著晶片股穩定，人工智慧大幅拋售後納斯達剋期貨上漲",
       "summary": [
         "Investing.com：隨著晶片股穩定，人工智慧大幅拋售後納斯達剋期貨上漲",
-        "Bloomberg Tech：隨著低迷買家重返人工智慧交易，科技股反彈"
+        "BBC World：市值蒸發數兆美元後，人工智慧股攀升"
       ],
       "media_count": 2,
       "links": [
@@ -318,114 +399,51 @@
           "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-rise-after-steep-ai-selloff-as-chip-stocks-stabilize-5007026"
         },
         {
-          "source": "Bloomberg Tech",
-          "title": "隨著低迷買家重返人工智慧交易，科技股反彈",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-tech-11-06-2026-video"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "summary": [
-        "BBC World：Kenyan doomsday cult leader given life sentence for murdering 191 people",
-        "The Guardian：Kenyan doomsday sect leader jailed for 200 years over 191 murders"
-      ],
-      "media_count": 2,
-      "links": [
-        {
           "source": "BBC World",
-          "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-          "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "title": "Kenyan doomsday sect leader jailed for 200 years over 191 murders",
-          "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "AI Stocks Rebound as Investors Weigh Whether Selloff Is Over",
-      "summary": [
-        "Bloomberg Tech：AI Stocks Rebound as Investors Weigh Whether Selloff Is Over",
-        "Bloomberg Markets：AI Trade Rebounds After Historic Rout for Tech Stocks"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "AI Stocks Rebound as Investors Weigh Whether Selloff Is Over",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "AI Trade Rebounds After Historic Rout for Tech Stocks",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-surveillance-11-6-2026-video"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
-      "summary": [
-        "Tom's Hardware：Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
-        "Wccftech：NVIDIA GPUs Worth $11.4 Million Stolen From Oakland Fetch A Hefty Price Outside Of U.S. Says UC Berkeley Professor, “They Go For About 1 Million Or More Abroad”"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Tom's Hardware",
-          "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
-          "url": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears"
-        },
-        {
-          "source": "Wccftech",
-          "title": "NVIDIA GPUs Worth $11.4 Million Stolen From Oakland Fetch A Hefty Price Outside Of U.S. Says UC Berkeley Professor, “They Go For About 1 Million Or More Abroad”",
-          "url": "https://wccftech.com/nvidia-cargo-heist-11-million-dollars-hardware-stolen-oakland-texas/"
+          "title": "市值蒸發數兆美元後，人工智慧股攀升",
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "Fox completes $22 billion Roku deal to expand digital reach",
+      "title": "人工智慧拋售後，逢低買家湧現，美國股指期貨上漲",
       "summary": [
-        "Investing.com：Fox completes $22 billion Roku deal to expand digital reach",
-        "TechCrunch：Fox completes its $22B acquisition of Roku"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Fox completes $22 billion Roku deal to expand digital reach",
-          "url": "https://www.investing.com/news/stock-market-news/fox-completes-22-billion-roku-deal-to-expand-digital-reach-5008633"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Fox completes its $22B acquisition of Roku",
-          "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Airbnb 營收成長； DraftKings因預測失誤而陷入困境庫存搬運工",
-      "summary": [
-        "Bloomberg Markets：Airbnb 營收成長； DraftKings因預測失誤而陷入困境庫存搬運工",
-        "Investing.com：Airbnb 獲利分析：問題解答與下一步催化劑"
+        "Bloomberg Markets：人工智慧拋售後，逢低買家湧現，美國股指期貨上漲",
+        "CNBC：人工智慧粉碎正在推動一隻股票估值達到天價"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "Airbnb 營收成長； DraftKings因預測失誤而陷入困境庫存搬運工",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-06/airbnb-moves-on-revenue-draftkings-sinks-on-forecast-video"
+          "title": "人工智慧拋售後，逢低買家湧現，美國股指期貨上漲",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-stock-futures-rise-as-dip-buyers-emerge-after-ai-selloff"
         },
         {
-          "source": "Investing.com",
-          "title": "Airbnb 獲利分析：問題解答與下一步催化劑",
-          "url": "https://www.investing.com/news/stock-market-news/airbnb-earnings-analysis-questions-answered-and-next-catalysts-93CH-5008962"
+          "source": "CNBC",
+          "title": "人工智慧粉碎正在推動一隻股票估值達到天價",
+          "url": "https://www.cnbc.com/2026/11/06/ai-crush-is-powering-one-stock-to-sky-high-valuations.html"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "特斯拉明年將「逐步減少」Cyber​​truck 的生產",
+      "summary": [
+        "The Verge：特斯拉明年將「逐步減少」Cyber​​truck 的生產",
+        "CNBC：馬斯克表示，特斯拉明年將減少德州叫車的生產，以擴大叫車的產能"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "特斯拉明年將「逐步減少」Cyber​​truck 的生產",
+          "url": "https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027"
+        },
+        {
+          "source": "CNBC",
+          "title": "馬斯克表示，特斯拉明年將減少德州叫車的生產，以擴大叫車的產能",
+          "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
         }
       ]
     }
