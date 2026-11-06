@@ -1,67 +1,8 @@
 {
-  "updated_at": "2026-11-06 21:02",
+  "updated_at": "2026-11-06 22:15",
   "taiwan": [
     {
       "rank": 1,
-      "title": "快訊／亞股崩盤！韓股跌逾8%觸發熔斷　日股重挫近4000點",
-      "summary": [
-        "ETtoday：快訊／亞股崩盤！韓股跌逾8%觸發熔斷　日股重挫近4000點",
-        "鉅亨網：韓股跌幅擴大至8.8% 觸發熔斷 日股大跌近4%",
-        "科技新報：韓股暴跌逾 8% 失守 5,000 點，觸發第一階段熔斷機制"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／亞股崩盤！韓股跌逾8%觸發熔斷　日股重挫近4000點",
-          "url": "https://finance.ettoday.net/news/3267283"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "韓股跌幅擴大至8.8% 觸發熔斷 日股大跌近4%",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91ZGJoS1cxRTQwTWFDX3ZKeW1yeDN2UldlQ2hQaTBwaDlDMGZxMzYtX0hqd1ViRF9lVTQ3SldpZUNMeFloYzRNbmVQNE5HWEk?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "韓股暴跌逾 8% 失守 5,000 點，觸發第一階段熔斷機制",
-          "url": "https://finance.technews.tw/2026/11/06/korean-stocks-plunge-8-percent-below-5000-points-first-stage-circuit-breaker/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "韓股暴跌逾8%失守5000點　觸發第一階段熔斷機制",
-          "url": "https://money.udn.com/money/story/5599/9861206"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "巴拉圭總統請辭　銀行倒閉引爆政治危機始末一次看",
-      "summary": [
-        "經濟日報：巴拉圭總統請辭　銀行倒閉引爆政治危機始末一次看",
-        "科技新報：巴拉圭總統請辭，銀行倒閉引爆政治危機始末一次看",
-        "自由時報：巴拉圭總統請辭 銀行倒閉引爆政治危機始末一次看"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "巴拉圭總統請辭　銀行倒閉引爆政治危機始末一次看",
-          "url": "https://money.udn.com/money/story/5599/9861126"
-        },
-        {
-          "source": "科技新報",
-          "title": "巴拉圭總統請辭，銀行倒閉引爆政治危機始末一次看",
-          "url": "https://finance.technews.tw/2026/11/06/paraguayan-president-resigns-bank-failures-political-crisis-full-overview/"
-        },
-        {
-          "source": "自由時報",
-          "title": "巴拉圭總統請辭 銀行倒閉引爆政治危機始末一次看",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631259"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "數智名品控股有限公司",
       "summary": [
         "MoneyDJ理財網：數智名品控股有限公司",
@@ -88,7 +29,28 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "title": "548名死刑犯「全面減刑」！　加州州長宣佈：改判終身監禁",
+      "summary": [
+        "ETtoday：548名死刑犯「全面減刑」！　加州州長宣佈：改判終身監禁",
+        "公視新聞：加州宣佈548名死囚全面減刑改判終身監禁、不得假釋｜20261106 公視晚間新聞｜ 公視新聞PNN"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "548名死刑犯「全面減刑」！　加州州長宣佈：改判終身監禁",
+          "url": "https://www.ettoday.net/news/20261106/3267316.htm"
+        },
+        {
+          "source": "公視新聞",
+          "title": "加州宣佈548名死囚全面減刑改判終身監禁、不得假釋｜20261106 公視晚間新聞｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00UEpCT3pDVFFJbHF3NldKaEp1ZEhTcUU1V0U0TzEteU9mMHhxR1k1S1p3dGV0YjdGc2U3elIzTUFGb190YWE4blZRMA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "日月光投控子公司114/12/9~115/11/5取得供營業用機器裝置一批，計約7578萬美元",
       "summary": [
         "公開資訊觀測站重訊：日月光投控子公司114/12/9~115/11/5取得供營業用機器裝置一批，計約7578萬美元",
@@ -109,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "賣地前內線交易賺160萬  陸海公司董座何英津100萬交保",
       "summary": [
         "自由時報：賣地前內線交易賺160萬  陸海公司董座何英津100萬交保",
@@ -130,107 +92,128 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Meta 憂選後美資料中心難蓋、但勝選州長急邀會面",
+      "rank": 5,
+      "title": "巴拉圭總統請辭，銀行倒閉引爆政治危機始末一次看",
       "summary": [
-        "科技新報：Meta 憂選後美資料中心難蓋、但勝選州長急邀會面",
-        "MoneyDJ理財網：Meta憂選後美資料中心難蓋、但勝選州長急邀會面- 新聞"
+        "科技新報：巴拉圭總統請辭，銀行倒閉引爆政治危機始末一次看",
+        "自由時報：巴拉圭總統請辭 銀行倒閉引爆政治危機始末一次看"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "科技新報",
-          "title": "Meta 憂選後美資料中心難蓋、但勝選州長急邀會面",
-          "url": "https://technews.tw/2026/11/06/meta-president-says-midterm-results-will-make-building-data-centers-harder/"
+          "title": "巴拉圭總統請辭，銀行倒閉引爆政治危機始末一次看",
+          "url": "https://finance.technews.tw/2026/11/06/paraguayan-president-resigns-bank-failures-political-crisis-full-overview/"
         },
         {
-          "source": "MoneyDJ理財網",
-          "title": "Meta憂選後美資料中心難蓋、但勝選州長急邀會面- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTI4LXVWeGk4RU9wZXJsWFRJejhPVWF4eE1xZ1hkTzlFSl8wMk51cmNWUDJWY1F6LURnRnZXdzFtMFJEdFRYVURadWFjV3phMGFZVl9CTE1GRi1ITm9oTXo5elVjd1VaLUUxNE1BemxDQm5TcnhOTUw4aEYxM0h3OGVfT1Q4c2I3NFp5Tndab2N3dw?oc=5"
+          "source": "自由時報",
+          "title": "巴拉圭總統請辭 銀行倒閉引爆政治危機始末一次看",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631259"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "韓股暴跌逾 8% 失守 5,000 點，觸發第一階段熔斷機制",
+      "summary": [
+        "科技新報：韓股暴跌逾 8% 失守 5,000 點，觸發第一階段熔斷機制",
+        "經濟日報：韓股暴跌逾8%失守5000點　觸發第一階段熔斷機制"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "韓股暴跌逾 8% 失守 5,000 點，觸發第一階段熔斷機制",
+          "url": "https://finance.technews.tw/2026/11/06/korean-stocks-plunge-8-percent-below-5000-points-first-stage-circuit-breaker/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "韓股暴跌逾8%失守5000點　觸發第一階段熔斷機制",
+          "url": "https://money.udn.com/money/story/5599/9861206"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "AI 交易遭遇逆風，那指創「解放日」以來最大單日跌幅",
+      "title": "遠東生技電子商城委外廠商發生資安事件，訂單及個資是否外洩仍待釐清",
       "summary": [
-        "科技新報：AI 交易遭遇逆風，那指創「解放日」以來最大單日跌幅",
-        "經濟日報：AI交易遭遇逆風　那指創「解放日」以來最大單日跌幅"
+        "iThome：遠東生技電子商城委外廠商發生資安事件，訂單及個資是否外洩仍待釐清",
+        "公開資訊觀測站重訊：遠東生技電子商城委外廠商發生資安事件，訂單及個資是否外洩仍待釐清"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "科技新報",
-          "title": "AI 交易遭遇逆風，那指創「解放日」以來最大單日跌幅",
-          "url": "https://finance.technews.tw/2026/11/06/nasdaq-posts-biggest-daily-drop-in-19-months-on-fears-of-ai-regulations/"
+          "source": "iThome",
+          "title": "遠東生技電子商城委外廠商發生資安事件，訂單及個資是否外洩仍待釐清",
+          "url": "https://www.ithome.com.tw/news/180274"
         },
         {
-          "source": "經濟日報",
-          "title": "AI交易遭遇逆風　那指創「解放日」以來最大單日跌幅",
-          "url": "https://money.udn.com/money/story/123398/9861026"
+          "source": "公開資訊觀測站重訊",
+          "title": "遠東生技電子商城委外廠商發生資安事件，訂單及個資是否外洩仍待釐清",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3aFpfTTl6b3VSU1hpOTZfbnhSSnJwWW0tcW1jWVVPMkhNV052QmUwS3R4eHJFa2QxU0E5eWlrZ3hoc2pDSEtFZ3NyblJ4UQ?oc=5"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "Google 續投 AI 基建，砸 170 億美元懷俄明建資料中心",
+      "title": "蘋果擬發債籌75億美元　加入科技業AI募資行列",
       "summary": [
-        "科技新報：Google 續投 AI 基建，砸 170 億美元懷俄明建資料中心",
-        "經濟日報：Google續投AI基建 砸170億美元懷俄明建資料中心"
+        "經濟日報：蘋果擬發債籌75億美元　加入科技業AI募資行列",
+        "科技新報：蘋果擬發債籌 75 億美元，加入科技業 AI 募資行列"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "科技新報",
-          "title": "Google 續投 AI 基建，砸 170 億美元懷俄明建資料中心",
-          "url": "https://technews.tw/2026/11/06/google-invests-17-billion-ai-infrastructure-wyoming-data-center/"
+          "source": "經濟日報",
+          "title": "蘋果擬發債籌75億美元　加入科技業AI募資行列",
+          "url": "https://money.udn.com/money/story/5599/9861389"
         },
         {
-          "source": "經濟日報",
-          "title": "Google續投AI基建 砸170億美元懷俄明建資料中心",
-          "url": "https://money.udn.com/money/story/123398/9861049"
+          "source": "科技新報",
+          "title": "蘋果擬發債籌 75 億美元，加入科技業 AI 募資行列",
+          "url": "https://finance.technews.tw/2026/11/06/apple-raises-7-5-billion-from-bond-sale/"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "美媒指與中國情報人員關係密切　議員要求黃仁勳向國會簡報",
+      "title": "美民主黨橫掃國會　劉雲平將接黨團主席創亞裔紀錄",
       "summary": [
-        "經濟日報：美媒指與中國情報人員關係密切　議員要求黃仁勳向國會簡報",
-        "科技新報：美媒指與中國情報人員關係密切，議員要求黃仁勳向國會簡報"
+        "經濟日報：美民主黨橫掃國會　劉雲平將接黨團主席創亞裔紀錄",
+        "TVBS新聞：民主黨橫掃國會開啟華府新局 劉雲平將接任黨團主席創亞裔紀錄"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "經濟日報",
-          "title": "美媒指與中國情報人員關係密切　議員要求黃仁勳向國會簡報",
-          "url": "https://money.udn.com/money/story/5599/9861024"
+          "title": "美民主黨橫掃國會　劉雲平將接黨團主席創亞裔紀錄",
+          "url": "https://money.udn.com/money/story/5599/9861207"
         },
         {
-          "source": "科技新報",
-          "title": "美媒指與中國情報人員關係密切，議員要求黃仁勳向國會簡報",
-          "url": "https://infosecu.technews.tw/2026/11/06/us-media-jensen-huang-chinese-intelligence-ties-lawmakers-congressional-briefing/"
+          "source": "TVBS新聞",
+          "title": "民主黨橫掃國會開啟華府新局 劉雲平將接任黨團主席創亞裔紀錄",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uOC1tWHVVWi1GeTNOZ2NlclNnMzFYM3lkV3o2MHRjcmM4ZE9SMWhiazYyR1Y2OW9WVEVfQmxsWUo2UGtxa2tFLWNJMnB0bFU?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "道瓊狂瀉1,833 點 川普：美股大跌 要怪民主黨",
+      "title": "高雄跨年歌王歌后返鄉放絕招　孫淑媚宣佈回鄉重大訊息",
       "summary": [
-        "鉅亨網：道瓊狂瀉1,833 點 川普：美股大跌 要怪民主黨",
-        "經濟日報：美股重挫　川普歸咎民主黨期中選舉大勝"
+        "ETtoday：高雄跨年歌王歌后返鄉放絕招　孫淑媚宣佈回鄉重大訊息",
+        "公開資訊觀測站重訊：高雄跨年歌王歌后返鄉放絕招　孫淑媚宣佈回鄉重大訊息"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "鉅亨網",
-          "title": "道瓊狂瀉1,833 點 川普：美股大跌 要怪民主黨",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aS1Z4Wl9FckpZYmN5YldDVXNLa3JQbzlzSDdscW1TYTRJSjJzZGpuUXRKSFRqQ1o0ckktSmVKSnBtLTQtTWg5TzM3LWg0TVk?oc=5"
+          "source": "ETtoday",
+          "title": "高雄跨年歌王歌后返鄉放絕招　孫淑媚宣佈回鄉重大訊息",
+          "url": "https://star.ettoday.net/news/3267450"
         },
         {
-          "source": "經濟日報",
-          "title": "美股重挫　川普歸咎民主黨期中選舉大勝",
-          "url": "https://money.udn.com/money/story/5599/9861468"
+          "source": "公開資訊觀測站重訊",
+          "title": "高雄跨年歌王歌后返鄉放絕招　孫淑媚宣佈回鄉重大訊息",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tMWliQ3dVc2ZTNXo3Rm5zWXktTUdZclI2dDZFcjk0VkpTQWowLXQxb3BVUGFKUmJfa25SdGZjV29JYmNITkp6dkVEYnJDZ9IBTEFVX3lxTE9QWjI3M2JGSEZQblBvTmZNQkFpbmlKY01lNUgtQmhnNnRnc1loVjg4ZTBONEtyTEFMcmNRWVJISWpkQldtZHBUTWZYTU8?oc=5"
         }
       ]
     }
@@ -238,27 +221,60 @@
   "global": [
     {
       "rank": 1,
-      "title": "U.S. stock futures rise after AI rout batters Wall St; payrolls data in focus",
+      "title": "Tesla to wind down Cybertruck production at Texas factory, Musk says",
       "summary": [
-        "Investing.com：U.S. stock futures rise after AI rout batters Wall St; payrolls data in focus",
-        "Bloomberg Markets：US Stock Futures Rise as Dip Buyers Emerge After AI Selloff"
+        "Investing.com：Tesla to wind down Cybertruck production at Texas factory, Musk says",
+        "The Verge：Tesla is ‘winding down’ production of the Cybertruck next year",
+        "CNBC：Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "Investing.com",
-          "title": "U.S. stock futures rise after AI rout batters Wall St; payrolls data in focus",
-          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-ai-rout-batters-wall-st-payrolls-data-in-focus-5006240"
+          "title": "Tesla to wind down Cybertruck production at Texas factory, Musk says",
+          "url": "https://www.investing.com/news/stock-market-news/tesla-to-wind-down-cybertruck-production-at-texas-gigafactory-next-year-musk-says-5006624"
         },
         {
-          "source": "Bloomberg Markets",
-          "title": "US Stock Futures Rise as Dip Buyers Emerge After AI Selloff",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-stock-futures-rise-as-dip-buyers-emerge-after-ai-selloff"
+          "source": "The Verge",
+          "title": "Tesla is ‘winding down’ production of the Cybertruck next year",
+          "url": "https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027"
+        },
+        {
+          "source": "CNBC",
+          "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+          "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
         }
       ]
     },
     {
       "rank": 2,
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "summary": [
+        "The Verge：Protesters break into Microsoft data center site in Amsterdam",
+        "Bloomberg Tech：Protesters Break Into Microsoft Data Center Site in Amsterdam",
+        "Tom's Hardware：Protesters storm Microsoft AI data center construction site"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "Protesters break into Microsoft data center site in Amsterdam",
+          "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Protesters Break Into Microsoft Data Center Site in Amsterdam",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/protesters-break-into-microsoft-data-center-site-in-amsterdam"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "Protesters storm Microsoft AI data center construction site",
+          "url": "https://www.tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Asia stocks tumble as AI rout batters Japan, S. Korea",
       "summary": [
         "Investing.com：Asia stocks tumble as AI rout batters Japan, S. Korea",
@@ -279,7 +295,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
       "summary": [
         "BBC中文：澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
@@ -300,7 +316,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "亞洲科技股下跌",
       "summary": [
         "Financial Times：亞洲科技股下跌",
@@ -321,7 +337,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "隨著投資者逃離人工智慧交易，印度股市獲得避風港吸引力",
       "summary": [
         "Bloomberg Tech：隨著投資者逃離人工智慧交易，印度股市獲得避風港吸引力",
@@ -342,7 +358,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "隨著人工智慧潰敗加深，亞洲股市遭遇拋售",
       "summary": [
         "Bloomberg Markets：隨著人工智慧潰敗加深，亞洲股市遭遇拋售",
@@ -363,58 +379,22 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Tesla to wind down Cybertruck production at Texas factory, Musk says",
-      "summary": [
-        "Investing.com：Tesla to wind down Cybertruck production at Texas factory, Musk says",
-        "The Verge：Tesla is ‘winding down’ production of the Cybertruck next year"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Tesla to wind down Cybertruck production at Texas factory, Musk says",
-          "url": "https://www.investing.com/news/stock-market-news/tesla-to-wind-down-cybertruck-production-at-texas-gigafactory-next-year-musk-says-5006624"
-        },
-        {
-          "source": "The Verge",
-          "title": "Tesla is ‘winding down’ production of the Cybertruck next year",
-          "url": "https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027"
-        }
-      ]
-    },
-    {
       "rank": 8,
-      "title": "眾議院領導人要求黃仁勛出席簡報會，說明與中國高管往來- 紐約時報中文網",
+      "title": "Why is Stabilus stock sliding today?",
       "summary": [
-        "紐約時報中文：眾議院領導人要求黃仁勛出席簡報會，說明與中國高管往來- 紐約時報中文網"
+        "Investing.com：Why is Stabilus stock sliding today?"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "紐約時報中文",
-          "title": "眾議院領導人要求黃仁勛出席簡報會，說明與中國高管往來- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVFpJWnJvVTNGVUh1ajNMTFdob1ZOZVRFSnVFRlV5b1N1b1ZKYkQ3em0yNVctQ2d3bnZHZU1Wd191Umo3OXVYY01mV211QUpmUkE4dDh6R05ab21aN1I1Vm1iQlRqcWcxdmRlNXZ2T1F3blZBaGpnZ24za2tNbGdtMTFSZ0VyS0pFM2d3ZDJ1QWw2QQ?oc=5"
+          "source": "Investing.com",
+          "title": "Why is Stabilus stock sliding today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-stabilus-stock-sliding-today-93CH-5006775"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "韓國綜指盤中跌逾8%失守5000點",
-      "summary": [
-        "韓聯社：韓國綜指盤中跌逾8%失守5000點"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "韓國綜指盤中跌逾8%失守5000點",
-          "url": "https://cn.yna.co.kr/view/ACK20261106000800881"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "期中選舉結果引發對人工智慧監管焦慮，美股暴跌- 紐約時報中文網",
       "summary": [
         "紐約時報中文：期中選舉結果引發對人工智慧監管焦慮，美股暴跌- 紐約時報中文網"
@@ -425,6 +405,21 @@
           "source": "紐約時報中文",
           "title": "期中選舉結果引發對人工智慧監管焦慮，美股暴跌- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbW9oc3h3cnFNVWVKbnpfazUzZ0hsR3U4eWd3cDh5dmhVaklKbjRtLXNPcVpERkM5NWpZcFA5NGxCMWtLdzgtT21HcmNWNG5ZUXdSck5mNXNIVllhYjd3U05hM2NQcTV6UlBqazFtOHc5QTBTQ3doN0h4Z1dfYk1hajlmeUVWa3Z1bHNkZVlyazlzOVE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "「敵人是我們自己」：揭秘川普團隊的歷史性崩潰- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：「敵人是我們自己」：揭秘川普團隊的歷史性崩潰- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "「敵人是我們自己」：揭秘川普團隊的歷史性崩潰- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVC00WVdicENTMlpRbFlMaFVqLTV0Wi14dzlXTUlCb0RJalF0ekFTN2NVczBMMXBIVk4tbEdZTWxySlBrWDBTdXRmdWFhMG5rU0FxQ2FTRGhaWEh0NnJFRnA5YllDSzRHZHJDcDliZ0s3OVdGMVJzZkQ3eEZaczE4ZGtXdGk?oc=5"
         }
       ]
     }
