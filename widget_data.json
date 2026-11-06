@@ -1,40 +1,8 @@
 {
-  "updated_at": "2026-11-06 14:36",
+  "updated_at": "2026-11-06 16:19",
   "taiwan": [
     {
       "rank": 1,
-      "title": "快訊／巴拉圭總統宣佈辭職　銀行倒閉金融危機",
-      "summary": [
-        "ETtoday：快訊／巴拉圭總統宣佈辭職　銀行倒閉金融危機",
-        "經濟日報：巴拉圭總統請辭　銀行倒閉引爆政治危機始末一次看",
-        "科技新報：巴拉圭總統請辭，銀行倒閉引爆政治危機始末一次看"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／巴拉圭總統宣佈辭職　銀行倒閉金融危機",
-          "url": "https://www.ettoday.net/news/20261106/3267227.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "巴拉圭總統請辭　銀行倒閉引爆政治危機始末一次看",
-          "url": "https://money.udn.com/money/story/5599/9861126"
-        },
-        {
-          "source": "科技新報",
-          "title": "巴拉圭總統請辭，銀行倒閉引爆政治危機始末一次看",
-          "url": "https://finance.technews.tw/2026/11/06/paraguayan-president-resigns-bank-failures-political-crisis-full-overview/"
-        },
-        {
-          "source": "自由時報",
-          "title": "巴拉圭總統請辭 銀行倒閉引爆政治危機始末一次看",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631259"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "快訊／亞股崩盤！韓股跌逾8%觸發熔斷　日股重挫近4000點",
       "summary": [
         "ETtoday：快訊／亞股崩盤！韓股跌逾8%觸發熔斷　日股重挫近4000點",
@@ -66,61 +34,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "避開美國出口管制　中國AI新創月之暗面轉向歐洲租輝達晶片算力",
-      "summary": [
-        "自由時報：避開美國出口管制　中國AI新創月之暗面轉向歐洲租輝達晶片算力",
-        "經濟日報：避開美國出口管制　中國AI新創月之暗面轉向歐洲租輝達晶片算力",
-        "科技新報：避開美國出口管制，中國 AI 新創月之暗面轉向歐洲租輝達晶片算力"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "避開美國出口管制　中國AI新創月之暗面轉向歐洲租輝達晶片算力",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631126"
-        },
-        {
-          "source": "經濟日報",
-          "title": "避開美國出口管制　中國AI新創月之暗面轉向歐洲租輝達晶片算力",
-          "url": "https://money.udn.com/money/story/5599/9860854"
-        },
-        {
-          "source": "科技新報",
-          "title": "避開美國出口管制，中國 AI 新創月之暗面轉向歐洲租輝達晶片算力",
-          "url": "https://technews.tw/2026/11/06/moonshot-turned-to-europe-for-nvidia-blackwell-access-amid-u-s-china-curbs/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "巴拉圭總統潘尼亞捲銀行風暴請辭　副總統阿里亞納接任",
-      "summary": [
-        "自由時報：巴拉圭總統潘尼亞捲銀行風暴請辭　副總統阿里亞納接任",
-        "經濟日報：巴拉圭總統潘尼亞捲銀行風暴請辭　副總統阿里亞納接任",
-        "ETtoday：巴拉圭副總統阿里亞納接任　總統捲銀行風暴請辭"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "巴拉圭總統潘尼亞捲銀行風暴請辭　副總統阿里亞納接任",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631130"
-        },
-        {
-          "source": "經濟日報",
-          "title": "巴拉圭總統潘尼亞捲銀行風暴請辭　副總統阿里亞納接任",
-          "url": "https://money.udn.com/money/story/5599/9860868"
-        },
-        {
-          "source": "ETtoday",
-          "title": "巴拉圭副總統阿里亞納接任　總統捲銀行風暴請辭",
-          "url": "https://www.ettoday.net/news/20261106/3267243.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "title": "加州州長紐松宣佈　全州548名死刑犯減刑為終身監禁",
       "summary": [
         "自由時報：加州州長紐松宣佈　全州548名死刑犯減刑為終身監禁",
@@ -147,107 +61,176 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "歐股多收黑　美期中選舉結果一度激勵盤中創高",
+      "rank": 3,
+      "title": "巴拉圭總統請辭　銀行倒閉引爆政治危機始末一次看",
       "summary": [
-        "自由時報：歐股多收黑　美期中選舉結果一度激勵盤中創高",
-        "經濟日報：歐股多收黑　美期中選舉結果一度激勵盤中創高"
+        "經濟日報：巴拉圭總統請辭　銀行倒閉引爆政治危機始末一次看",
+        "科技新報：巴拉圭總統請辭，銀行倒閉引爆政治危機始末一次看",
+        "自由時報：巴拉圭總統請辭 銀行倒閉引爆政治危機始末一次看"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "巴拉圭總統請辭　銀行倒閉引爆政治危機始末一次看",
+          "url": "https://money.udn.com/money/story/5599/9861126"
+        },
+        {
+          "source": "科技新報",
+          "title": "巴拉圭總統請辭，銀行倒閉引爆政治危機始末一次看",
+          "url": "https://finance.technews.tw/2026/11/06/paraguayan-president-resigns-bank-failures-political-crisis-full-overview/"
+        },
+        {
+          "source": "自由時報",
+          "title": "巴拉圭總統請辭 銀行倒閉引爆政治危機始末一次看",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631259"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "日月光投控子公司114/12/9~115/11/5取得供營業用機器裝置一批，計約7578萬美元",
+      "summary": [
+        "公開資訊觀測站重訊：日月光投控子公司114/12/9~115/11/5取得供營業用機器裝置一批，計約7578萬美元",
+        "MoneyDJ理財網：日月光投控子公司114/12/9~115/11/5取得供營業用機器裝置一批，計約7578萬美元- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "日月光投控子公司114/12/9~115/11/5取得供營業用機器裝置一批，計約7578萬美元",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaVVhZXQtQ1VSdkZKajg1aTBqVHRhRXlYX3BOVlJoci1ZeTAxeTVDdmtFUFRnZEYwWjlGcC1GamRtTjM2czFVRE5VQ2o0WlBqTGdiX080bkpuQXdfWUFQWWlKbzZiUDFDam1jNXJ6TTBfd2NURDRZdVJfYXZyTEtBd0stYnU1NjlDcmttS2ZDdkFveXFMVGlPZTliYmg?oc=5"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "日月光投控子公司114/12/9~115/11/5取得供營業用機器裝置一批，計約7578萬美元- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRmNtcHJCOURuSXJRRk9lRXpfTGwzZ1lfUUxrdmVtT09zLVRxVnI3YzZiLXBVa0c3YkxKb3o4eC1TcENuWlktWGc0elZtUGhPYXdkbzRHaUhUbEJxUU5YSmFIWklWTDVWaXRJNzFyejVEb1BfYkZ6ejZsejNkX09Kd0ZjczUxRzN2S3FQQngzbUdWZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "巴紐警方證實查扣砲彈　中國使館稱只是造型酒瓶遭打臉",
+      "summary": [
+        "自由時報：巴紐警方證實查扣砲彈　中國使館稱只是造型酒瓶遭打臉",
+        "經濟日報：巴紐警方證實查扣砲彈　中國使館稱只是造型酒瓶遭打臉"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "歐股多收黑　美期中選舉結果一度激勵盤中創高",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5631120"
+          "title": "巴紐警方證實查扣砲彈　中國使館稱只是造型酒瓶遭打臉",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631135"
         },
         {
           "source": "經濟日報",
-          "title": "歐股多收黑　美期中選舉結果一度激勵盤中創高",
-          "url": "https://money.udn.com/money/story/5599/9860850"
+          "title": "巴紐警方證實查扣砲彈　中國使館稱只是造型酒瓶遭打臉",
+          "url": "https://money.udn.com/money/story/5599/9860879"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "洛杉磯市長巴斯連任失利　拉曼將成美國第2大城首長",
+      "summary": [
+        "自由時報：洛杉磯市長巴斯連任失利　拉曼將成美國第2大城首長",
+        "經濟日報：洛杉磯市長巴斯連任失利　拉曼將成美國第2大城首長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "洛杉磯市長巴斯連任失利　拉曼將成美國第2大城首長",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631138"
+        },
+        {
+          "source": "經濟日報",
+          "title": "洛杉磯市長巴斯連任失利　拉曼將成美國第2大城首長",
+          "url": "https://money.udn.com/money/story/5599/9860900"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "本土數位銀行倒閉引發政治與金融危機 我友邦巴拉圭總統辭職",
+      "title": "美期中選舉引發AI投資疑慮　美股收盤重挫",
       "summary": [
-        "經濟日報：本土數位銀行倒閉引發政治與金融危機 我友邦巴拉圭總統辭職",
-        "自由時報：數位銀行倒閉凍結全民存款 我友邦巴拉圭總統遭彈劾前黯然辭職"
+        "自由時報：美期中選舉引發AI投資疑慮　美股收盤重挫",
+        "經濟日報：美期中選舉引發AI投資疑慮　美股收盤重挫"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "本土數位銀行倒閉引發政治與金融危機 我友邦巴拉圭總統辭職",
-          "url": "https://money.udn.com/money/story/5599/9860857"
+          "source": "自由時報",
+          "title": "美期中選舉引發AI投資疑慮　美股收盤重挫",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5631139"
         },
         {
-          "source": "自由時報",
-          "title": "數位銀行倒閉凍結全民存款 我友邦巴拉圭總統遭彈劾前黯然辭職",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631129"
+          "source": "經濟日報",
+          "title": "美期中選舉引發AI投資疑慮　美股收盤重挫",
+          "url": "https://money.udn.com/money/story/123398/9860901"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "假炸彈威脅再襲歐洲多地　至少27架航班受幹擾",
+      "title": "油輪遇襲引供應疑慮　國際油價大漲",
       "summary": [
-        "自由時報：假炸彈威脅再襲歐洲多地　至少27架航班受幹擾",
-        "經濟日報：假炸彈威脅再襲歐洲多地　至少27架航班受幹擾"
+        "自由時報：油輪遇襲引供應疑慮　國際油價大漲",
+        "經濟日報：油輪遇襲引供應疑慮　國際油價大漲"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "假炸彈威脅再襲歐洲多地　至少27架航班受幹擾",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5631133"
+          "title": "油輪遇襲引供應疑慮　國際油價大漲",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5631137"
         },
         {
           "source": "經濟日報",
-          "title": "假炸彈威脅再襲歐洲多地　至少27架航班受幹擾",
-          "url": "https://money.udn.com/money/story/5599/9860874"
+          "title": "油輪遇襲引供應疑慮　國際油價大漲",
+          "url": "https://money.udn.com/money/story/5599/9860899"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "股市狂跌源頭找到了？謝金河曝美國「3位女州長」掐住AI咽喉：臺灣要小心了 | 張大任 | 新聞",
+      "title": "新竹縣「村長候選人」兒涉賄選　聲押禁見",
       "summary": [
-        "風傳媒：股市狂跌源頭找到了？謝金河曝美國「3位女州長」掐住AI咽喉：臺灣要小心了 | 張大任 | 新聞",
-        "今周刊：股市為什麼大跌？美國3位女州長掐住AI咽喉，恐卡關資料中心…謝金河：臺灣要戒慎恐懼"
+        "ETtoday：新竹縣「村長候選人」兒涉賄選　聲押禁見",
+        "自由時報：竹南鎮長候選人何秀綿涉賄遭押 支持者衝苗檢抗議司法介入選舉"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "風傳媒",
-          "title": "股市狂跌源頭找到了？謝金河曝美國「3位女州長」掐住AI咽喉：臺灣要小心了 | 張大任 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90NVBmVTgxWnZvZk8zOEs2M21MYnQ1MWNuWDRZNXlMVmFEa1k2TXo3UFRUOHlVTGVoSmczWWhUQkZjcXBOWXdWcDNsRVRJdw?oc=5"
+          "source": "ETtoday",
+          "title": "新竹縣「村長候選人」兒涉賄選　聲押禁見",
+          "url": "https://www.ettoday.net/news/20261106/3267237.htm"
         },
         {
-          "source": "今周刊",
-          "title": "股市為什麼大跌？美國3位女州長掐住AI咽喉，恐卡關資料中心…謝金河：臺灣要戒慎恐懼",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbUFPSVdLQXhqNmVna1VocXItd3JmRVNnalYyZElqYjNndlp5NzBGMVNHZzhuNm42VzFVOTNma2NlUGx1YzV5cEFiWHdGRW9fbVM5US0xZVZtYmlqam41c0RzTGJUMEVUdktNMHJhM2Q4ZnZ5TUdNd3k4a0xHMEVsbA?oc=5"
+          "source": "自由時報",
+          "title": "竹南鎮長候選人何秀綿涉賄遭押 支持者衝苗檢抗議司法介入選舉",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5631541"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "【LIVE】伊朗嘲諷川普期中選舉大敗 傳美軍已準備好大規模作戰 20261105 ｜TVBS看世界",
+      "title": "輝達成竊賊目標　逾3.7億元硬體與貨車在南加州離奇消失",
       "summary": [
-        "TVBS新聞：【LIVE】伊朗嘲諷川普期中選舉大敗 傳美軍已準備好大規模作戰 20261105 ｜TVBS看世界",
-        "經濟日報：選後首次國安團隊開會　川普：伊朗戰事即將有所決定"
+        "經濟日報：輝達成竊賊目標　逾3.7億元硬體與貨車在南加州離奇消失",
+        "科技新報：輝達成竊賊目標，逾 3.7 億元硬體與貨車在南加州離奇消失"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "TVBS新聞",
-          "title": "【LIVE】伊朗嘲諷川普期中選舉大敗 傳美軍已準備好大規模作戰 20261105 ｜TVBS看世界",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LSzFKSEluMjFGN3huSUlrVmtLREdkQTJYY3FBS2dMd1ZBOUp2R2c1U0lwNnVNWU1NSkdKa2lncDk4bHBQcVF3X2RIX0NabFJYZ2NIV1pB?oc=5"
+          "source": "經濟日報",
+          "title": "輝達成竊賊目標　逾3.7億元硬體與貨車在南加州離奇消失",
+          "url": "https://money.udn.com/money/story/5599/9860947"
         },
         {
-          "source": "經濟日報",
-          "title": "選後首次國安團隊開會　川普：伊朗戰事即將有所決定",
-          "url": "https://money.udn.com/money/story/5599/9861717"
+          "source": "科技新報",
+          "title": "輝達成竊賊目標，逾 3.7 億元硬體與貨車在南加州離奇消失",
+          "url": "https://technews.tw/2026/11/06/worlds-most-valuable-company-targeted-by-bandits-for-11-4m-shipment-as-truck-vanishes-in-california/"
         }
       ]
     }
@@ -255,33 +238,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "隨著人工智慧潰敗加深，亞洲股市面臨拋售：市場總結",
-      "summary": [
-        "Bloomberg Markets：隨著人工智慧潰敗加深，亞洲股市面臨拋售：市場總結",
-        "Investing.com：人工智慧潰敗日本、韓國，亞洲股市暴跌",
-        "Nikkei Asia：隨著人工智慧拋售加速，日本、韓國股市暴跌"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "隨著人工智慧潰敗加深，亞洲股市面臨拋售：市場總結",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates"
-        },
-        {
-          "source": "Investing.com",
-          "title": "人工智慧潰敗日本、韓國，亞洲股市暴跌",
-          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-tumble-as-ai-rout-batters-japan-s-korea-5006358"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "隨著人工智慧拋售加速，日本、韓國股市暴跌",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbkFabC16R3lTUDFNMXlBSUkySzFaSlM2ek9vb3JzNjhIYktuUk5aUHZsazJrRkpCNkczd1ZjUlR3YU8xaXRWc3pJb2FOLVl2X1lQc1RDSFM5UkVGQ2ZxbHZkdFNScGhKYU9ja2ZZV3ZLS18tZXFLX2dGMEZhd21Va0V6aHozM0FRLU9aR2NMVnk2Q184Nlh2RTY5YlJvNTM0?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
       "summary": [
         "The Guardian：巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
@@ -308,12 +264,12 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "據報道，《紐約時報》正在洽談以 3.3 億美元收購 Letterboxd",
       "summary": [
         "TechCrunch：據報道，《紐約時報》正在洽談以 3.3 億美元收購 Letterboxd",
         "The Verge：《紐約時報》正在洽談以約 3.3 億美元收購 Letterboxd",
-        "Investing.com：根據《紐約時報》報道，《紐約時報》公司正在就以約 3.3 億美元收購 Letterboxd 進行高階談判"
+        "Investing.com：New York Times Company in advanced talks to acquire Letterboxd for roughly $330 million, NYT reports"
       ],
       "media_count": 3,
       "links": [
@@ -329,13 +285,13 @@
         },
         {
           "source": "Investing.com",
-          "title": "根據《紐約時報》報道，《紐約時報》公司正在就以約 3.3 億美元收購 Letterboxd 進行高階談判",
+          "title": "New York Times Company in advanced talks to acquire Letterboxd for roughly $330 million, NYT reports",
           "url": "https://www.investing.com/news/stock-market-news/new-york-times-company-in-advanced-talks-to-acquire-letterboxd-for-roughly-330-million-nyt-reports-5006200"
         }
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "美國市場暴跌後，亞洲科技股遭遇拋售",
       "summary": [
         "Bloomberg Markets：美國市場暴跌後，亞洲科技股遭遇拋售",
@@ -356,112 +312,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "20多架歐洲航班本週相繼遭受匿名炸彈威脅",
-      "summary": [
-        "法廣RFI：20多架歐洲航班本週相繼遭受匿名炸彈威脅",
-        "FT中文網：20個歐洲航班再遭“詐彈”威脅"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "20多架歐洲航班本週相繼遭受匿名炸彈威脅",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261105-20%E5%A4%9A%E6%9E%B6%E6%AD%90%E6%B4%B2%E8%88%AA%E7%8F%AD%E6%9C%AC%E5%91%A8%E7%9B%B8%E7%B9%BC%E9%81%AD%E5%8F%97%E5%8C%BF%E5%90%8D%E7%82%B8%E5%BD%88%E5%A8%81%E8%84%85"
-        },
-        {
-          "source": "FT中文網",
-          "title": "20個歐洲航班再遭“詐彈”威脅",
-          "url": "https://www.ftchinese.com/story/001111295"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "超過60萬人參加法國最新的抗議活動",
-      "summary": [
-        "Financial Times：超過60萬人參加法國最新的抗議活動",
-        "法廣RFI：數十萬法國人週四在全國各地示威遊行，要求提高購買力"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "超過60萬人參加法國最新的抗議活動",
-          "url": "https://www.ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427?syn-25a6b1a6=1"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "數十萬法國人週四在全國各地示威遊行，要求提高購買力",
-          "url": "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20261105-%E6%95%B8%E5%8D%81%E8%90%AC%E6%B3%95%E5%9C%8B%E4%BA%BA%E5%91%A8%E5%9B%9B%E5%9C%A8%E5%85%A8%E5%9C%8B%E5%90%84%E5%9C%B0%E7%A4%BA%E5%A8%81%E9%81%8A%E8%A1%8C%EF%BC%8C%E8%A6%81%E6%B1%82%E6%8F%90%E9%AB%98%E8%B3%BC%E8%B2%B7%E5%8A%9B"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "科技股拋售刺激避險需求，國債飆漲",
-      "summary": [
-        "Bloomberg Markets：科技股拋售刺激避險需求，國債飆漲",
-        "MarketWatch：隨著科技股主導的股票拋售加深，交易員紛紛湧入國債市場尋求安全"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "科技股拋售刺激避險需求，國債飆漲",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-05/treasuries-extend-advance-as-technology-shares-resume-slide"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "隨著科技股主導的股票拋售加深，交易員紛紛湧入國債市場尋求安全",
-          "url": "https://www.marketwatch.com/story/traders-flock-to-treasury-market-for-safety-as-tech-led-stock-selloff-deepens-cf548c8b?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "藍色起源將新格倫發射推遲至 2027 年 1 月",
-      "summary": [
-        "Investing.com：藍色起源將新格倫發射推遲至 2027 年 1 月",
-        "The Verge：藍色起源的下一次發射要到 2027 年才會發生"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "藍色起源將新格倫發射推遲至 2027 年 1 月",
-          "url": "https://www.investing.com/news/stock-market-news/blue-origin-delays-new-glenn-launches-to-january-2027-5005353"
-        },
-        {
-          "source": "The Verge",
-          "title": "藍色起源的下一次發射要到 2027 年才會發生",
-          "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "特斯拉和 SpaceX 合併兩天暴跌 4500 億美元，「馬斯克拋售」加劇",
-      "summary": [
-        "MarketWatch：特斯拉和 SpaceX 合併兩天暴跌 4500 億美元，「馬斯克拋售」加劇",
-        "CNBC：馬斯克(Elon Musk)的特斯拉(Tesla)和SpaceX在估值後總市值損失超過4,200億美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MarketWatch",
-          "title": "特斯拉和 SpaceX 合併兩天暴跌 4500 億美元，「馬斯克拋售」加劇",
-          "url": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories"
-        },
-        {
-          "source": "CNBC",
-          "title": "馬斯克(Elon Musk)的特斯拉(Tesla)和SpaceX在估值後總市值損失超過4,200億美元",
-          "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 4,
       "title": "加州州長為所有 548 名死囚減刑",
       "summary": [
         "BBC World：加州州長為所有 548 名死囚減刑",
@@ -478,6 +329,126 @@
           "source": "法廣RFI",
           "title": "加州州長宣佈為548名死刑犯減刑",
           "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261105-%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%B7%E5%AE%A3%E5%B8%83%E7%82%BA548%E5%90%8D%E6%AD%BB%E5%88%91%E7%8A%AF%E6%B8%9B%E5%88%91"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "summary": [
+        "TechCrunch：Airbnb says it’s launching an AI travel agent in the first half of 2027",
+        "The Verge：Airbnb 正在開發人工智慧旅行社"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+          "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+        },
+        {
+          "source": "The Verge",
+          "title": "Airbnb 正在開發人工智慧旅行社",
+          "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "中國阻止軟銀以54億美元收購ABB機器人業務- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：中國阻止軟銀以54億美元收購ABB機器人業務- 紐約時報中文網",
+        "Yahoo Finance：軟銀以 54 億美元收購 ABB 機器人部門遭中國阻撓"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "中國阻止軟銀以54億美元收購ABB機器人業務- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVWxvc012U01qZkZQSV95Q2JfMUdNYnhudi1IaGVLdEM3bFRLRzBnTTFzbERjUERqVGxVcF9CZE5FUVpnb3NxWm9JeHRacGs3d2EyWmlzaEpobmZ2aU9IV0FfYkNjN09tdWlwbTFkQjJ4aEo2RGVsQ05jTXlwbEhUUXF3YzBLZw?oc=5"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "軟銀以 54 億美元收購 ABB 機器人部門遭中國阻撓",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcUw4WkN5cDZra2ttaHRqSGtjUmc3UlZHSER3aTlVQVRSVGtlS3BtNjVHXzh1V2REVXJGdDl0bHFkUG5zaXRBdDEzZHJBNnlwbk9OeHU2N3RnSG5Xc0lPZzFBMFlvd01FRzJXeHB4alZwUnBNUkswNjd5aWwwd1E2WmFzOVlOVjRMQm1POS1UbGhYeG8?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Asia stocks tumble as AI rout batters Japan, S. Korea",
+      "summary": [
+        "Investing.com：Asia stocks tumble as AI rout batters Japan, S. Korea",
+        "Nikkei Asia：Japan, South Korea stocks plummet as AI selloff accelerates"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Asia stocks tumble as AI rout batters Japan, S. Korea",
+          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-tumble-as-ai-rout-batters-japan-s-korea-5006358"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "Japan, South Korea stocks plummet as AI selloff accelerates",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbkFabC16R3lTUDFNMXlBSUkySzFaSlM2ek9vb3JzNjhIYktuUk5aUHZsazJrRkpCNkczd1ZjUlR3YU8xaXRWc3pJb2FOLVl2X1lQc1RDSFM5UkVGQ2ZxbHZkdFNScGhKYU9ja2ZZV3ZLS18tZXFLX2dGMEZhd21Va0V6aHozM0FRLU9aR2NMVnk2Q184Nlh2RTY5YlJvNTM0?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "隨著投資者逃離人工智慧交易，印度股市獲得避風港吸引力",
+      "summary": [
+        "Bloomberg Tech：隨著投資者逃離人工智慧交易，印度股市獲得避風港吸引力",
+        "CNBC：印度作為人工智慧對沖？隨著全球市場低迷，該國股市可能會出現強勁流入"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "隨著投資者逃離人工智慧交易，印度股市獲得避風港吸引力",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/indian-stocks-gain-haven-appeal-as-investors-flee-ai-trade"
+        },
+        {
+          "source": "CNBC",
+          "title": "印度作為人工智慧對沖？隨著全球市場低迷，該國股市可能會出現強勁流入",
+          "url": "https://www.cnbc.com/2026/11/06/india-ai-tech-hedge-nifty50.html"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "隨著人工智慧潰敗加深，亞洲股市遭遇拋售",
+      "summary": [
+        "Bloomberg Markets：隨著人工智慧潰敗加深，亞洲股市遭遇拋售",
+        "Bloomberg Tech：亞洲對沖基金和富有投資者在人工智慧拋售中面臨巨額損失"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "隨著人工智慧潰敗加深，亞洲股市遭遇拋售",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-06/the-asia-trade-11-6-2026-video"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "亞洲對沖基金和富有投資者在人工智慧拋售中面臨巨額損失",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/asia-hedge-funds-rich-investors-face-steep-losses-in-ai-selloff"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "攝氏控股收益分析：問題的解答與下一步的催化劑",
+      "summary": [
+        "Investing.com：攝氏控股收益分析：問題的解答與下一步的催化劑"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "攝氏控股收益分析：問題的解答與下一步的催化劑",
+          "url": "https://www.investing.com/news/stock-market-news/celsius-holdings-earnings-analysis-questions-answered-and-next-catalysts-93CH-5005507"
         }
       ]
     }
