@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 01:30",
+  "updated_at": "2026-11-07 02:23",
   "taiwan": [
     {
       "rank": 1,
@@ -51,69 +51,27 @@
     },
     {
       "rank": 3,
-      "title": "OpenAI 推 GPT-6 Cyber​​ 模型，助研究人員挖掘 81 個 Firefox 漏洞",
+      "title": "重大戰略轉型！傳臺積電將進軍先進記憶體  為輝達生產3D DRAM",
       "summary": [
-        "科技新報：OpenAI 推 GPT-6 Cyber​​ 模型，助研究人員挖掘 81 個 Firefox 漏洞",
-        "iThome：OpenAI發表GPT-6 Cyber​​，找出Firefox 81個未知高風險漏洞"
+        "自由時報：重大戰略轉型！傳臺積電將進軍先進記憶體  為輝達生產3D DRAM",
+        "經濟日報：傳臺積電進軍3D DRAM　應輝達要求規劃製造、評估建廠"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "科技新報",
-          "title": "OpenAI 推 GPT-6 Cyber​​ 模型，助研究人員挖掘 81 個 Firefox 漏洞",
-          "url": "https://infosecu.technews.tw/2026/11/06/openai-introduces-gpt%e2%80%916-cyber/"
+          "source": "自由時報",
+          "title": "重大戰略轉型！傳臺積電將進軍先進記憶體  為輝達生產3D DRAM",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5632298"
         },
         {
-          "source": "iThome",
-          "title": "OpenAI發表GPT-6 Cyber​​，找出Firefox 81個未知高風險漏洞",
-          "url": "https://www.ithome.com.tw/news/180285"
+          "source": "經濟日報",
+          "title": "傳臺積電進軍3D DRAM　應輝達要求規劃製造、評估建廠",
+          "url": "https://money.udn.com/money/story/5599/9863088"
         }
       ]
     },
     {
       "rank": 4,
-      "title": "Linux爆「sshhole」重大漏洞！密碼輸入257個字元就能登入？10年漏洞成因、自保步驟一次看",
-      "summary": [
-        "數位時代：Linux爆「sshhole」重大漏洞！密碼輸入257個字元就能登入？10年漏洞成因、自保步驟一次看",
-        "科技新報：輸入超長密碼就能駭入，Alpine Linux 驚爆潛伏十年的 SSH 重大漏洞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "數位時代",
-          "title": "Linux爆「sshhole」重大漏洞！密碼輸入257個字元就能登入？10年漏洞成因、自保步驟一次看",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUnVLZktFVWpNZjVtVEZNdldwUkVNTWh0V3gzTG1CT1BDcEx4RlFRblFscnJLYjRqZlItcWhVWC1qYm1oRHl2QXAtTHgyU2RBeGQ4bENob1dhNFQzZXVfUkxIUHF6NTBUSWtnVWxtb2dxTnBLQ0RuRkducWUtcmgzRkc3anFNSElnQ2c?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "輸入超長密碼就能駭入，Alpine Linux 驚爆潛伏十年的 SSH 重大漏洞",
-          "url": "https://infosecu.technews.tw/2026/11/06/meet-sshole-the-vulnerability-that-lets-hackers-ssh-into-linux-devices/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "日月光投控子公司114/12/9~115/11/5取得供營業用機器裝置一批，計約7578萬美元- 新聞",
-      "summary": [
-        "MoneyDJ理財網：日月光投控子公司114/12/9~115/11/5取得供營業用機器裝置一批，計約7578萬美元- 新聞",
-        "公開資訊觀測站重訊：日月光投控子公司114/12/9~115/11/5取得供營業用機器裝置一批，計約7578萬美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "日月光投控子公司114/12/9~115/11/5取得供營業用機器裝置一批，計約7578萬美元- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRmNtcHJCOURuSXJRRk9lRXpfTGwzZ1lfUUxrdmVtT09zLVRxVnI3YzZiLXBVa0c3YkxKb3o4eC1TcENuWlktWGc0elZtUGhPYXdkbzRHaUhUbEJxUU5YSmFIWklWTDVWaXRJNzFyejVEb1BfYkZ6ejZsejNkX09Kd0ZjczUxRzN2S3FQQngzbUdWZw?oc=5"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "日月光投控子公司114/12/9~115/11/5取得供營業用機器裝置一批，計約7578萬美元",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdC04QkZfRm5iRExpTTl6cHA1cVc2UTRpc2hRNFBGVnFKWHNIWDlBMDk3ZThUenhJYkdLYm9KRDVaNmNoUFMwODBtM3FNWGw4MEx0ODU1WWdkRHJ1LXdJcDl1Y1VFalJacHJ3b2p1Vk1nNVQyTG1JV2hFRmNWYjhsR0lwYkJJQWJ0anJxU0hTNkRadw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "高市「臺灣有事」答辯滿週年 日政府重申立場不變",
       "summary": [
         "自由時報：高市「臺灣有事」答辯滿週年 日政府重申立場不變",
@@ -134,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "AI 交易變色衝擊工業類股  CAT / GEV 拋售潮恐未止",
       "summary": [
         "科技新報：AI 交易變色衝擊工業類股  CAT / GEV 拋售潮恐未止",
@@ -155,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "〈房產〉全臺六都住宅前三季使照核發年減5.4% 新屋供給量縮近5000宅",
       "summary": [
         "鉅亨網：〈房產〉全臺六都住宅前三季使照核發年減5.4% 新屋供給量縮近5000宅",
@@ -176,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "涉收1.7億為中共發展組織 高金素梅遭起訴求刑14年",
       "summary": [
         "公視新聞：涉收1.7億為中共發展組織 高金素梅遭起訴求刑14年",
@@ -197,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "德州資料中心禁令遭誤解？Baker：既有建案照蓋",
       "summary": [
         "科技新報：德州資料中心禁令遭誤解？Baker：既有建案照蓋",
@@ -216,14 +174,56 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUVEbVVDeUNWSXI3VWplcHR4R2NZSC1RU0hnUXIyWEp2UUstLTlYNnlWRmlhTzlCRS1mOExWNlUwVzloa1FJQXZfd0VobnU4OVB2SGxlODU4bFpLUFlueEp5UU90OHlUYnktMEdUcTJQb3ZsY0VqWG9yNV9DZkhZWmt5NmNselMyYTNZRENHVFFNZw?oc=5"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "日股狂瀉「血流成河」，AI 泡沫疑慮引爆賣壓",
+      "summary": [
+        "科技新報：日股狂瀉「血流成河」，AI 泡沫疑慮引爆賣壓",
+        "經濟日報：日股狂瀉「血流成河」　AI泡沫疑慮引爆賣壓"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "日股狂瀉「血流成河」，AI 泡沫疑慮引爆賣壓",
+          "url": "https://finance.technews.tw/2026/11/06/japanese-stocks-plunge-amid-panic-selling/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "日股狂瀉「血流成河」　AI泡沫疑慮引爆賣壓",
+          "url": "https://money.udn.com/money/story/5599/9862013"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "看懂AI股重挫背後4大矛盾！殺估值非殺需求 科技巨頭砸錢腳步未停",
+      "summary": [
+        "財訊：看懂AI股重挫背後4大矛盾！殺估值非殺需求 科技巨頭砸錢腳步未停",
+        "鉅亨網：AI股為何殺成這樣？分析師：不只美國期中選舉 機構也在去槓桿"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "財訊",
+          "title": "看懂AI股重挫背後4大矛盾！殺估值非殺需求 科技巨頭砸錢腳步未停",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tYjZaTjJjZldLTTZRSFpvOUNiaF8tSXExVThPYWFsTHlPZGo3WWttNjU2N1NrWFRvWHpHRjVIWDNBZzFPb3pzZ2VfaUREd0VRcUJsZ2lTMXVtTUFVOHVueHlJUGNlY3lGZ3BOVTY3aDVHcThFUWhQUzdhTQ?oc=5"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "AI股為何殺成這樣？分析師：不只美國期中選舉 機構也在去槓桿",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13aG92aG5wck1wbU04aEY2NDlidGFtaGlyU1JvdEZ0LVl2cU5jYm4xdHp5UFdhTUw1ZTJza3RNOUM0RDFLZGIwVVhCc1JfWEk?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "人工智慧拋售推動亞洲股市邁向新的嚴峻里程碑",
+      "title": "隨著人工智慧潰敗加深，亞洲股市遭遇拋售",
       "summary": [
-        "Bloomberg Markets：人工智慧拋售推動亞洲股市邁向新的嚴峻里程碑",
+        "Bloomberg Markets：隨著人工智慧潰敗加深，亞洲股市遭遇拋售",
         "Financial Times：華爾街人工智慧潰敗後亞洲市場遭受重創",
         "Yahoo Finance：人工智慧潰敗震撼美國市場後亞洲股市暴跌"
       ],
@@ -231,8 +231,8 @@
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "人工智慧拋售推動亞洲股市邁向新的嚴峻里程碑",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-selloff-asian-stock-markets-nikkei-kospi-taiex-grim-milestones"
+          "title": "隨著人工智慧潰敗加深，亞洲股市遭遇拋售",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-06/the-asia-trade-11-6-2026-video"
         },
         {
           "source": "Financial Times",
@@ -253,27 +253,114 @@
     },
     {
       "rank": 2,
-      "title": "隨著投資者逃離人工智慧交易，印度股市獲得避風港吸引力",
+      "title": "馬斯克表示，特斯拉將減少德州工廠的賽博卡車生產",
       "summary": [
-        "Bloomberg Tech：隨著投資者逃離人工智慧交易，印度股市獲得避風港吸引力",
-        "CNBC：印度作為人工智慧對沖？隨著全球市場低迷，該國股市可能會出現強勁流入"
+        "Investing.com：馬斯克表示，特斯拉將減少德州工廠的賽博卡車生產",
+        "The Verge：特斯拉明年將「逐步減少」Cyber​​truck 的生產",
+        "CNBC：馬斯克表示，特斯拉明年將減少德州 Cyber​​truck 的生產，以擴大 Cyber​​cab 的產能"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "隨著投資者逃離人工智慧交易，印度股市獲得避風港吸引力",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/indian-stocks-gain-haven-appeal-as-investors-flee-ai-trade"
+          "source": "Investing.com",
+          "title": "馬斯克表示，特斯拉將減少德州工廠的賽博卡車生產",
+          "url": "https://www.investing.com/news/stock-market-news/tesla-to-wind-down-cybertruck-production-at-texas-gigafactory-next-year-musk-says-5006624"
+        },
+        {
+          "source": "The Verge",
+          "title": "特斯拉明年將「逐步減少」Cyber​​truck 的生產",
+          "url": "https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027"
         },
         {
           "source": "CNBC",
-          "title": "印度作為人工智慧對沖？隨著全球市場低迷，該國股市可能會出現強勁流入",
-          "url": "https://www.cnbc.com/2026/11/06/india-ai-tech-hedge-nifty50.html"
+          "title": "馬斯克表示，特斯拉明年將減少德州叫車的生產，以擴大叫車的產能",
+          "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
         }
       ]
     },
     {
       "rank": 3,
+      "title": "隨著晶片股穩定，人工智慧大幅拋售後納斯達剋期貨上漲",
+      "summary": [
+        "Investing.com：隨著晶片股穩定，人工智慧大幅拋售後納斯達剋期貨上漲",
+        "Bloomberg Markets：人工智慧拋售後，逢低買家湧現，美國股指期貨上漲",
+        "BBC World：市值蒸發數兆美元後，人工智慧股攀升"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "隨著晶片股穩定，人工智慧大幅拋售後納斯達剋期貨上漲",
+          "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-rise-after-steep-ai-selloff-as-chip-stocks-stabilize-5007026"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "人工智慧拋售後，逢低買家湧現，美國股指期貨上漲",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-stock-futures-rise-as-dip-buyers-emerge-after-ai-selloff"
+        },
+        {
+          "source": "BBC World",
+          "title": "市值蒸發數兆美元後，人工智慧股攀升",
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "美國經濟10月新增就業16.5萬個，超出預期",
+      "summary": [
+        "Financial Times：美國經濟10月新增就業16.5萬個，超出預期",
+        "CNBC：10月美國經濟新增就業16.5萬個，遠超預期；失業率下滑至4.1%",
+        "Yahoo Finance：「井噴」：美國10月新增就業16.5萬個，超出預期"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "美國經濟10月新增就業16.5萬個，超出預期",
+          "url": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1"
+        },
+        {
+          "source": "CNBC",
+          "title": "10月美國經濟新增就業16.5萬個，遠超預期；失業率下滑至4.1%",
+          "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "「井噴」：美國10月新增就業16.5萬個，超出預期",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUFMzd0lzMk5DTVZ6TjBBOWR1QWMzQ1Zya0lId29ybVRCaDRKYW1hSEJVQzJWXzU3b0pvdVpHeER4RlI3eE1HWmpLWFNrcW9QaTkxXzNtWUNxZ1pZd0NkTnlrRFhUUE9rSDVDLUhBcUE0S3NzQlpEVS1COENPRjhWVnBNWlZXNHhUSXIyS1FFa0tOQzF6a1U3eWhjWDIwM1E5VC1URlNpNmtoZUE4dTMyZFJsR3ZRUTRsSnJHdzJR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Anthropic IPO 投資者認為估值低至 1.2 兆美元",
+      "summary": [
+        "Bloomberg Markets：Anthropic IPO 投資者認為估值低至 1.2 兆美元",
+        "Yahoo Finance：由於市場動盪，Anthropic 的 IPO 估值可能跌至近 1 兆美元",
+        "Bloomberg Tech：Anthropic IPO買家認為估值低至1.1兆美元"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic IPO 投資者認為估值低至 1.2 兆美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "由於市場動盪，Anthropic 的 IPO 估值可能跌至近 1 兆美元",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUV6dVh5WUcxemZzTXRjYmcxcVRXUHRqSjhUcjZ2VVJjbVdWMi0yMWFaaWIwZUZfTndvQ19LZl9fQk55bElVYUFyeE9pa3RmNEFBak05WEFvRkhpeG1PdFkzZkw5ZnUtczlrSS1HaU44UENxSi1ZTy1LNWZrb3BZQXRhSDZhTVpXODFvRUF2NTFoNkhNSEtYYld4LWpTaHNqSUM5WHIwWVpQNDlCelh5OFJmT0Znc1hrbGJLWDdIaUJUeExMN05KQk5DZkMtVUhiQWc?oc=5"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic IPO買家認為估值低至1.1兆美元",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-buyers-see-valuation-as-low-as-1-1t-video"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Max Richter：人工智慧降低了我們的音樂品味",
       "summary": [
         "Bloomberg Markets：Max Richter：人工智慧降低了我們的音樂品味",
@@ -294,7 +381,28 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 7,
+      "title": "威斯康辛州報告嬰兒麻疹死亡，這是三十多年來的首次",
+      "summary": [
+        "Washington Post：威斯康辛州報告嬰兒麻疹死亡，這是三十多年來的首次",
+        "Ars Technica：威斯康辛州報告一名嬰兒因麻疹死亡，這是 35 年來首次死亡"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "威斯康辛州報告嬰兒麻疹死亡，這是三十多年來的首次",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzNtZ2I5Mi1GS20yTVA1V1RTcDlIbXQ1LVFFTGxGczdqZkRyeUphakphR3RyTlRpX3dPMTQwSU5QNl85bFp0N3JvbFFVSHJWdW1neGRGMFFJMk80el93eXpmMV8wak5ocnpGSXFIWThQRUZQb2tyUDNLd1pEOUpFU2hxazZBbXhlNlBFcEZKZUFWQi1KR2VGbVZWQ3RtaWxHN1paaTNTRHpDNF81WlZDN0VqNDQxZ0o5Z0E?oc=5"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "威斯康辛州報告一名嬰兒因麻疹死亡，這是 35 年來首次死亡",
+          "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "人工智慧的放鬆突然使歐洲成為投資者的首選交易場所",
       "summary": [
         "Bloomberg Tech：人工智慧的放鬆突然使歐洲成為投資者的首選交易場所",
@@ -315,28 +423,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "馬斯克表示，特斯拉將減少德州工廠的賽博卡車生產",
-      "summary": [
-        "Investing.com：馬斯克表示，特斯拉將減少德州工廠的賽博卡車生產",
-        "CNBC：馬斯克表示，特斯拉明年將減少德州叫車的生產，以擴大叫車的產能"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "馬斯克表示，特斯拉將減少德州工廠的賽博卡車生產",
-          "url": "https://www.investing.com/news/stock-market-news/tesla-to-wind-down-cybertruck-production-at-texas-gigafactory-next-year-musk-says-5006624"
-        },
-        {
-          "source": "CNBC",
-          "title": "馬斯克表示，特斯拉明年將減少德州叫車的生產，以擴大叫車的產能",
-          "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 9,
       "title": "民主黨中期選舉勝利後，全球股市因人工智慧放緩擔憂而暴跌",
       "summary": [
         "The Guardian：民主黨中期選舉勝利後，全球股市因人工智慧放緩擔憂而暴跌",
@@ -357,28 +444,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "隨著晶片股穩定，人工智慧大幅拋售後納斯達剋期貨上漲",
-      "summary": [
-        "Investing.com：隨著晶片股穩定，人工智慧大幅拋售後納斯達剋期貨上漲",
-        "Bloomberg Markets：人工智慧拋售後，逢低買家湧現，美國股指期貨上漲"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "隨著晶片股穩定，人工智慧大幅拋售後納斯達剋期貨上漲",
-          "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-rise-after-steep-ai-selloff-as-chip-stocks-stabilize-5007026"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "人工智慧拋售後，逢低買家湧現，美國股指期貨上漲",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-stock-futures-rise-as-dip-buyers-emerge-after-ai-selloff"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 10,
       "title": "肯亞末日邪教頭目因謀殺191人被判無期徒刑",
       "summary": [
         "BBC World：肯亞末日邪教頭目因謀殺191人被判無期徒刑",
@@ -395,48 +461,6 @@
           "source": "The Guardian",
           "title": "肯亞末日教頭目因191起謀殺案被判入獄200年",
           "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "抗議者闖入阿姆斯特丹的微軟資料中心",
-      "summary": [
-        "The Verge：抗議者闖入阿姆斯特丹的微軟資料中心",
-        "Bloomberg Tech：抗議者闖入阿姆斯特丹的微軟資料中心"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "抗議者闖入阿姆斯特丹的微軟資料中心",
-          "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "抗議者闖入阿姆斯特丹的微軟資料中心",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/protesters-break-into-microsoft-data-center-site-in-amsterdam"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Anthropic IPO 投資者認為估值低至 1.2 兆美元",
-      "summary": [
-        "Bloomberg Markets：Anthropic IPO 投資者認為估值低至 1.2 兆美元",
-        "Yahoo Finance：由於市場動盪，Anthropic 的 IPO 估值可能跌至近 1 兆美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic IPO 投資者認為估值低至 1.2 兆美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "由於市場動盪，Anthropic 的 IPO 估值可能跌至近 1 兆美元",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUV6dVh5WUcxemZzTXRjYmcxcVRXUHRqSjhUcjZ2VVJjbVdWMi0yMWFaaWIwZUZfTndvQ19LZl9fQk55bElVYUFyeE9pa3RmNEFBak05WEFvRkhpeG1PdFkzZkw5ZnUtczlrSS1HaU44UENxSi1ZTy1LNWZrb3BZQXRhSDZhTVpXODFvRUF2NTFoNkhNSEtYYld4LWpTaHNqSUM5WHIwWVpQNDlCelh5OFJmT0Znc1hrbGJLWDdIaUJUeExMN05KQk5DZkMtVUhiQWc?oc=5"
         }
       ]
     }
