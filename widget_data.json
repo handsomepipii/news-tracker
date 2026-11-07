@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 23:15",
+  "updated_at": "2026-11-08 00:12",
   "taiwan": [
     {
       "rank": 1,
@@ -150,6 +150,48 @@
     },
     {
       "rank": 8,
+      "title": "沈有忠：美中關係若不穩  習近平對臺恐有更具侵略性措施",
+      "summary": [
+        "自由時報：沈有忠：美中關係若不穩  習近平對臺恐有更具侵略性措施",
+        "天下雜誌：習近平要戰狼變可愛？既自信又不安，中國外交的弔詭兩難"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "沈有忠：美中關係若不穩  習近平對臺恐有更具侵略性措施",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5632754"
+        },
+        {
+          "source": "天下雜誌",
+          "title": "習近平要戰狼變可愛？既自信又不安，中國外交的弔詭兩難",
+          "url": "https://www.cw.com.tw/article/5115427?utm_source=rss&utm_medium=referral&utm_campaign=Daily"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "大紅包是真的！ 焦佑鈞：華邦電員工平均獎金30個月",
+      "summary": [
+        "自由時報：大紅包是真的！ 焦佑鈞：華邦電員工平均獎金30個月",
+        "ETtoday：華邦電分紅太狂！平均30個月獎金有望入袋　董座親揭真相"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "大紅包是真的！ 焦佑鈞：華邦電員工平均獎金30個月",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5632757"
+        },
+        {
+          "source": "ETtoday",
+          "title": "華邦電分紅太狂！平均30個月獎金有望入袋　董座親揭真相",
+          "url": "https://finance.ettoday.net/news/3268249"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "佳世達董事會決議增資Qisda Property Vietnam Co，計1千萬美元- 新聞",
       "summary": [
         "MoneyDJ理財網：佳世達董事會決議增資Qisda Property Vietnam Co，計1千萬美元- 新聞",
@@ -168,80 +210,11 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenhNT0JfV0N4N3lKTTRkZXhDMXc1YUdJbEluUXVCYVZHTkZyam00cy1FLWI5eVNpLWhRamI4LTZwaGNhLXBaVWg0NVJybThfbGpJc3V3NjlwWmFla0YyTHZtVURyYURTS2tLOVdHNjhHNTI5d2dSYWZvQWktWWxOWVNVemZGSVhLbEdFQjBFcTlvUQ?oc=5"
         }
       ]
-    },
-    {
-      "rank": 9,
-      "title": "遭沈伯洋酸一路模仿「怕真的變成合格市長」 蔣萬安回應了",
-      "summary": [
-        "中時新聞：遭沈伯洋酸一路模仿「怕真的變成合格市長」 蔣萬安回應了",
-        "自由時報：完美對照組！他曝蔣萬安只想演市長  沈伯洋卻要當市長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "遭沈伯洋酸一路模仿「怕真的變成合格市長」 蔣萬安回應了",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMc1VFVEh5ODY3Y0lpMEM2XzRTNElBTVZ1QXdxVHVzWXpvZmpDanAxMkxJX2ZXS0dNVjlQOWtVQjhxTnNuNWdTRG84TURCc1hFNHNiNTBQTmd2NThhU245VzhHMUMyZTRCSVJjamNB?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "完美對照組！他曝蔣萬安只想演市長  沈伯洋卻要當市長",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633006"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "沛亨佈局光通訊產業，斥資3億元收購建毅科技100%股權",
-      "summary": [
-        "MoneyDJ理財網：沛亨佈局光通訊產業，斥資3億元收購建毅科技100%股權",
-        "公開資訊觀測站重訊：沛亨佈局光通訊產業 斥資3億元收購建毅科技股權"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "沛亨佈局光通訊產業，斥資3億元收購建毅科技100%股權",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb2k1aC1fMlp6M3FiUlRkckVQZUtUbE9wTHc3MDBoUWF0NEN3dzc2NWxnQVgzVkx0Q1JHVENRejhnQ1JsUE5ndWE0aEF6OE0weUlDempIX3pGRzRQcGIyVzg1Q2NCY1AwTVN0d2Q2YWNNaXVCOEN2b1h6OE1IdDl0aVRvWTA5amxIUGRrelcyX1FWdw?oc=5"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "沛亨佈局光通訊產業 斥資3億元收購建毅科技股權",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsOVJDMmtWa05WTF9KM2R0cV9VeTFxYmRiVU5aZ0dQMllndTB6LW01WGpPZmh0SFI5SnZuSS1SYXN5Ml9ranlsSzFwZFBTUjRPM0J6Sk52RG5wTTl2allr0gFkQVVfeXFMTm50RnpSNEtaamRiZy1rWC1ZZU1YMGU5RTZBMWlNMnlWeTY2TzZMeDlYTEVWNGdDN1JoMU1RMTZ1czhtX2RsOGRDaFJSRWlVbWxzdU9RaUQzdk1DbEhxUVU0SWtNaQ?oc=5"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "美國認為英偉達黃仁勳與涉嫌中國間諜有戀愛關係",
-      "summary": [
-        "Financial Times：美國認為英偉達黃仁勳與涉嫌中國間諜有戀愛關係",
-        "法廣RFI：美情報備忘錄指與黃仁勳有過戀愛關係的中國女商人是國安部間諜",
-        "Tom's Hardware：美國情報機構認為黃仁勳在蜜罐行動中與中國間諜有浪漫關係"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "美國認為英偉達黃仁勳與涉嫌中國間諜有戀愛關係",
-          "url": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "美情報備忘錄指與黃仁勳有過戀愛關係的中國女商人是國安部間諜",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261107-%E7%BE%8E%E6%83%85%E5%A0%B1%E5%82%99%E5%BF%98%E9%8C%84%E6%8C%87%E8%88%87%E9%BB%83%E4%BB%81%E5%8B%B3%E6%9C%89%E9%81%8E%E6%88%80%E6%84%9B%E9%97%9C%E4%BF%82%E7%9A%84%E4%B8%AD%E5%9C%8B%E5%A5%B3%E5%95%86%E4%BA%BA%E6%98%AF%E5%9C%8B%E5%AE%89%E9%83%A8%E9%96%93%E8%AB%9C"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "美國情報機構認為黃仁勳在蜜罐行動中與中國間諜有浪漫關係",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "康乃爾大學教職人員對領導階層對無名氏指控的處理方式進行了不信任投票",
       "summary": [
         "BBC World：康乃爾大學教職人員對領導階層對無名氏指控的處理方式進行了不信任投票",
@@ -262,7 +235,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "軟銀和 ABB 考慮將中國排除在外以挽救機器人交易",
       "summary": [
         "Bloomberg Tech：軟銀和 ABB 考慮將中國排除在外以挽救機器人交易",
@@ -283,7 +256,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "紐西蘭選舉情勢緊張，聯合政府談判成為焦點",
       "summary": [
         "Nikkei Asia：紐西蘭選舉情勢緊張，聯合政府談判成為焦點",
@@ -304,7 +277,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "波克夏海瑟威的營業利潤下降，回購增加",
       "summary": [
         "Bloomberg Markets：波克夏海瑟威的營業利潤下降，回購增加",
@@ -325,77 +298,98 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "GMO 管理員有權存取所有資訊 風險跡象未充分解決",
+      "rank": 5,
+      "title": "美國情報機構認為黃仁勳在蜜罐行動中與中國間諜有浪漫關係",
       "summary": [
-        "NHK新聞：GMO 管理員有權存取所有資訊 風險跡象未充分解決"
+        "Tom's Hardware：美國情報機構認為黃仁勳在蜜罐行動中與中國間諜有浪漫關係",
+        "Investing.com：美國備忘錄稱英偉達執行長與疑似北京間諜有戀情"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "美國情報機構認為黃仁勳在蜜罐行動中與中國間諜有浪漫關係",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips"
+        },
+        {
+          "source": "Investing.com",
+          "title": "美國備忘錄稱英偉達執行長與疑似北京間諜有戀情",
+          "url": "https://www.investing.com/news/stock-market-news/us-intelligence-memo-ties-nvidias-huang-to-alleged-chinese-spy-ft-reports-5009930"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "「這是一場災難」：中期選舉慘敗，共和黨內怒火指向特朗普",
+      "summary": [
+        "BBC中文：「這是一場災難」：中期選舉慘敗，共和黨內怒火指向特朗普"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "GMO 管理員有權存取所有資訊 風險跡象未充分解決",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261107de72062"
+          "source": "BBC中文",
+          "title": "「這是一場災難」：中期選舉慘敗，共和黨內怒火指向特朗普",
+          "url": "https://www.bbc.com/zhongwen/articles/cw5ynld35e3ro/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "北茨城海岸擱淺漁船，船上三名家長和孩子被救，兩人昏迷不醒",
+      "title": "在共和黨遭到砲轟後，川普支援陷入困境的共和黨全國委員會主席",
       "summary": [
-        "NHK新聞：北茨城海岸擱淺漁船，船上三名家長和孩子被救，兩人昏迷不醒"
+        "Washington Post：在共和黨遭到砲轟後，川普支援陷入困境的共和黨全國委員會主席"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "北茨城海岸擱淺漁船，船上三名家長和孩子被救，兩人昏迷不醒",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261107de72072"
+          "source": "Washington Post",
+          "title": "在共和黨遭到砲轟後，川普支援陷入困境的共和黨全國委員會主席",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUmkxUWJCX1BBWV8xeTNHNTVaUjBBN2dZZ1psQkMzMDNMSml6TnA0QVNfLVRBYS1CZ3pFQXA0RXNIVGEybHlkcXNzNmNlRlZ4QWMzaTBpWGNYdW5xNGpxR0l5bUFSNnVOWDlBX29xdDZRelpudG5FYlFnVzN5MzVxLWlGamIxdS05RkJGb1lKRjJLSmtaQkZLSkY0T2JpOUFlZVpUby1pYzUwdmtJMlZsWg?oc=5"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "意見 |川普受傷的總統任期變成了兩場懸而未決的戰爭",
+      "title": "專欄 |現在還有人穿得體面嗎？",
       "summary": [
-        "Washington Post：意見 |川普受傷的總統任期變成了兩場懸而未決的戰爭"
+        "Washington Post：專欄 |現在還有人穿得體面嗎？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Washington Post",
-          "title": "意見 |川普受傷的總統任期變成了兩場懸而未決的戰爭",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOejlPaW93SW16bjdCWFBFbkR2NDNmekt1LVdYU2pESjdTcVNlUHBiSDhaRldHZU5lMEs4RmZCdGsyLUtSRFVJbGdZMzNCNGNpZUFWck4wb1FqdG1VT1FOMGoxaEFHN0hkZy1PVGtMZUJYR0hoNHAzTDBIelRWNng5aUkyeXk1azNpUnJrQ0NfVlRIeVRobTFIUllVYlZic0dCVnI5aG00d20?oc=5"
+          "title": "專欄 |現在還有人穿得體面嗎？",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT0F6SHVFOXBGQmxjaUtHbVZQRUJTN0RXa2xCQ2NSUVpfa25wV1loaDk1UEtZUXMwR1U4WE9Ua2xNNk9ZbU5tM2hKcjgza29Send5d0lNM0xKN3lkSVJfNkJNRTFIbFBZTjdYREg4V1Y4dmNIUFMwUlRVRVUtaHE3aFQwRWo5VG5IVXVaNVY5bEZ4dw?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "耐吉因名字是希臘女神而在利比亞遭遇宗教禁令",
+      "title": "颶風海倫如何影響北卡羅來納州的藍移",
       "summary": [
-        "Washington Post：耐吉因名字是希臘女神而在利比亞遭遇宗教禁令"
+        "Washington Post：颶風海倫如何影響北卡羅來納州的藍移"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Washington Post",
-          "title": "耐吉因名字是希臘女神而在利比亞遭遇宗教禁令",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRHZIWExhMURKVzJfMUJ4VHBaZG05Y1JfSm16eE9BdEk5b0d0QUdaLXdGTXI3MjVEYjZ6VFc3RTZ4RjcydFpJV0N5WUU4MjAtN1h0NE94MEV6QkFYVlliMUltUmFQVVRoY0gtY0tTRXZDcWx5Smdvc25nXzRXVlhScW96aFFXQVZHSTJkYXB3b01VdlJNRlFEQ3FFV0lwQWlmLTVUdFZnU1hIY1ZzSEtoYzIzTEF5Y29Na29B?oc=5"
+          "title": "颶風海倫如何影響北卡羅來納州的藍移",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSERuSGc4b1FPbU15QXdkSzMwLUhQNkVNM0FiNW5aQVJmcU1heU0tRnZBZ3FUdl9MRC1aNnRQcHNQNmhuNnhKVy1sb0czdTFaY2RTMjV2eTFmcXpDOHF3UmFSODE5bGFMaHZiUTl3TGRDZW03djJQSmMtYnFDZ1ptTlJ4S3BGNVhhT2Q0bzV5VGZFZE1ETktqckM5U0xXZ0RkdlRfX2szYWRkWktYaDZUdHN3MXpoT19aQ1E?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "「這幾乎就像一家夜總會」：Hyrox 在中國健身熱潮中起飛",
+      "title": "馬來西亞前總理納吉布的軟禁延後等待審查",
       "summary": [
-        "Financial Times：「這幾乎就像一家夜總會」：Hyrox 在中國健身熱潮中起飛"
+        "Bloomberg Markets：馬來西亞前總理納吉布的軟禁延後等待審查"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "「這幾乎就像一家夜總會」：Hyrox 在中國健身熱潮中起飛",
-          "url": "https://www.ft.com/content/ac76efa6-a309-41c6-ab51-b64225f2c18b?syn-25a6b1a6=1"
+          "source": "Bloomberg Markets",
+          "title": "馬來西亞前總理納吉布的軟禁延後等待審查",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-07/former-malaysia-pm-najib-s-house-arrest-delayed-pending-review"
         }
       ]
     }
