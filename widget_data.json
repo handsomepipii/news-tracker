@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 09:39",
+  "updated_at": "2026-11-07 10:49",
   "taiwan": [
     {
       "rank": 1,
@@ -62,6 +62,27 @@
     },
     {
       "rank": 3,
+      "title": "共和黨期中選舉落敗　米勒調任白宮幕僚長",
+      "summary": [
+        "經濟日報：共和黨期中選舉落敗　米勒調任白宮幕僚長",
+        "ETtoday：川普期中選舉大敗　米勒調任白宮幕僚長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "共和黨期中選舉落敗　米勒調任白宮幕僚長",
+          "url": "https://money.udn.com/money/story/5599/9863129"
+        },
+        {
+          "source": "ETtoday",
+          "title": "川普期中選舉大敗　米勒調任白宮幕僚長",
+          "url": "https://www.ettoday.net/news/20261107/3267872.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "巴拉圭陷銀行危機　參議院彈劾總統潘尼亞",
       "summary": [
         "經濟日報：巴拉圭陷銀行危機　參議院彈劾總統潘尼亞",
@@ -82,91 +103,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "「冰封的記憶」 臺籍西伯利亞戰俘吳正男99歲辭世",
-      "summary": [
-        "自由時報：「冰封的記憶」 臺籍西伯利亞戰俘吳正男99歲辭世",
-        "經濟日報：「冰封的記憶」　臺籍西伯利亞戰俘吳正男99歲辭世"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "「冰封的記憶」 臺籍西伯利亞戰俘吳正男99歲辭世",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5632231"
-        },
-        {
-          "source": "經濟日報",
-          "title": "「冰封的記憶」　臺籍西伯利亞戰俘吳正男99歲辭世",
-          "url": "https://money.udn.com/money/story/5599/9862809"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "天氣/週六宜花大雨 週日又熱西半部上看33度 下週迎「入秋最強東北季風」探18度｜TVBS新聞 @TVBSNEWS01",
-      "summary": [
-        "TVBS新聞：天氣/週六宜花大雨 週日又熱西半部上看33度 下週迎「入秋最強東北季風」探18度｜TVBS新聞 @TVBSNEWS01",
-        "ETtoday：今「東北季風」2地涼雨！　下週低溫探16℃"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "天氣/週六宜花大雨 週日又熱西半部上看33度 下週迎「入秋最強東北季風」探18度｜TVBS新聞 @TVBSNEWS01",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0WWFuZWhaSlNzVlVBWXVuOWt1SzBMQzZNbHVwQ091bGo5aHd3alFLdjh2TnhjLWlLbjlEbzVZX1gxR2lyLWlXcHU1b2VBa2EtMzBCMVhB?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "今「東北季風」2地涼雨！　下週低溫探16℃",
-          "url": "https://www.ettoday.net/news/20261107/3267870.htm"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "美期中選舉衝擊AI前景 全球股市市值一天蒸發115兆元",
-      "summary": [
-        "經濟日報：美期中選舉衝擊AI前景 全球股市市值一天蒸發115兆元",
-        "ETtoday：美國期中選舉戳破AI泡沫　全球股市市值一天蒸發115兆元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美期中選舉衝擊AI前景 全球股市市值一天蒸發115兆元",
-          "url": "https://money.udn.com/money/story/5599/9862810"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美國期中選舉戳破AI泡沫　全球股市市值一天蒸發115兆元",
-          "url": "https://finance.ettoday.net/news/3267840"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "2026金博會》總統賀電首屆「高雄金融博覽會」！陳其邁、莊琇媛帶路看新商機",
-      "summary": [
-        "今周刊：2026金博會》總統賀電首屆「高雄金融博覽會」！陳其邁、莊琇媛帶路看新商機",
-        "風傳媒：2026高雄金融博覽會登場 臺新新光金攜臺新銀、臺新投信參展 | 唐可欣 | 品味生活"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "今周刊",
-          "title": "2026金博會》總統賀電首屆「高雄金融博覽會」！陳其邁、莊琇媛帶路看新商機",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNmdfYW00dERMWjY0MlMwaS0ydFE4ZHAwQlJ2bmFwaThSeDMtM2trLU9hd2ZUMHFCazdPZ24yb0JjMTU2cGVyWmhhS0FCVFI0MWVKeE9qdzhYb2Z2R2RWZVJfQ3JXVjk2eFhyWGFoemZGOXd1VXJoRGEtZXFSb2luUA?oc=5"
-        },
-        {
-          "source": "風傳媒",
-          "title": "2026高雄金融博覽會登場 臺新新光金攜臺新銀、臺新投信參展 | 唐可欣 | 品味生活",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9odTlDal84X0FHaVNTbTZ6cWhIT3pvS3pVcW42OFF0V19mVWhGY2d2UUpYejA1UHRrbjdETENyaU11MWR2am82ams3QWRmZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "快訊／美股開盤「費半大漲逾5％」！臺積電ADR回魂上攻逾7％",
       "summary": [
         "ETtoday：快訊／美股開盤「費半大漲逾5％」！臺積電ADR回魂上攻逾7％",
@@ -187,7 +124,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "川普發文讚人工智慧如黃金　稱反對AI是愚蠢之舉",
       "summary": [
         "經濟日報：川普發文讚人工智慧如黃金　稱反對AI是愚蠢之舉",
@@ -208,7 +145,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "AI股為何殺成這樣？分析師：不只美國期中選舉 機構也在去槓桿",
       "summary": [
         "鉅亨網：AI股為何殺成這樣？分析師：不只美國期中選舉 機構也在去槓桿",
@@ -225,6 +162,69 @@
           "source": "經濟日報",
           "title": "美期中選舉結果引發震盪 AI投資適度減速...未必是壞事",
           "url": "https://money.udn.com/money/story/5599/9862966"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "限空令來了！金管會：11/9起盤中借券賣出上限降至3％、融券保證金調高至130％",
+      "summary": [
+        "財訊：限空令來了！金管會：11/9起盤中借券賣出上限降至3％、融券保證金調高至130％",
+        "鉅亨網：金管會11月9日起限空借券賣出上限降至3%、融券保證金升至130%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "財訊",
+          "title": "限空令來了！金管會：11/9起盤中借券賣出上限降至3％、融券保證金調高至130％",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wcE5rb3BHS3M2bzMwcUtidWtHNGI0ZGVRX0w3NjVabVB0YkltLV80cFBEWVpQNldYQVk0NmZvMUxqWXJmTnZIcWVvZmZQLUhFdk9xVnNnOER6R0hUcE9zUlNoVTdHX04weGlOQ0RIM19yNFFJNnJfMzdnbw?oc=5"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "金管會11月9日起限空借券賣出上限降至3%、融券保證金升至130%",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNSDl4Nlhsb3ZucUYxRmpnakUxeWlraDQwOHY4cnphcFhwSGluTkxvOUg4TU54bEotYVJWaFB1VGl1ZE5xVV9FbHQwTUY4NE0?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "隨機攻擊臺中放學學童 木棍男收押",
+      "summary": [
+        "自由時報：隨機攻擊臺中放學學童 木棍男收押",
+        "ETtoday：校園外隨機攻擊！臺中男木棒毆打放學學童　遭當庭逮捕收押"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "隨機攻擊臺中放學學童 木棍男收押",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5632301"
+        },
+        {
+          "source": "ETtoday",
+          "title": "校園外隨機攻擊！臺中男木棒毆打放學學童　遭當庭逮捕收押",
+          "url": "https://www.ettoday.net/news/20261107/3267906.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "「立冬」4生肖將走出陰霾   廖大乙：做2事、避2色運勢更佳",
+      "summary": [
+        "自由時報：「立冬」4生肖將走出陰霾   廖大乙：做2事、避2色運勢更佳",
+        "ETtoday：立冬到來「4生肖走出陰霾」！廖大乙曝開運妙招：有望走出低谷"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "「立冬」4生肖將走出陰霾   廖大乙：做2事、避2色運勢更佳",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5632191"
+        },
+        {
+          "source": "ETtoday",
+          "title": "立冬到來「4生肖走出陰霾」！廖大乙曝開運妙招：有望走出低谷",
+          "url": "https://www.ettoday.net/news/20261107/3267858.htm"
         }
       ]
     }
@@ -286,27 +286,6 @@
     },
     {
       "rank": 3,
-      "title": "Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion",
-      "summary": [
-        "Bloomberg Markets：Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion",
-        "Bloomberg Tech：Anthropic IPO 買家認為估值低至 1.1 兆美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic IPO 買家認為估值低至 1.1 兆美元",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-buyers-see-valuation-as-low-as-1-1t-video"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "OpenAI 財務長告訴 CNBC，儘管選舉結果如何，OpenAI 將繼續投資人工智慧資料中心",
       "summary": [
         "CNBC：OpenAI 財務長告訴 CNBC，儘管選舉結果如何，OpenAI 將繼續投資人工智慧資料中心",
@@ -327,91 +306,28 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Protesters Break Into Microsoft Data Center Site in Amsterdam",
+      "rank": 4,
+      "title": "由於市場動盪，Anthropic 的 IPO 估值可能跌至近 1 兆美元",
       "summary": [
-        "Bloomberg Tech：Protesters Break Into Microsoft Data Center Site in Amsterdam",
-        "Tom's Hardware：Protesters storm Microsoft AI data center construction site"
+        "Yahoo Finance：由於市場動盪，Anthropic 的 IPO 估值可能跌至近 1 兆美元",
+        "Bloomberg Tech：Anthropic IPO 買家認為估值低至 1.1 兆美元"
       ],
       "media_count": 2,
       "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Protesters Break Into Microsoft Data Center Site in Amsterdam",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/protesters-break-into-microsoft-data-center-site-in-amsterdam"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "Protesters storm Microsoft AI data center construction site",
-          "url": "https://www.tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "AI Stocks Rebound as Investors Weigh Whether Selloff Is Over",
-      "summary": [
-        "Bloomberg Tech：AI Stocks Rebound as Investors Weigh Whether Selloff Is Over",
-        "Bloomberg Markets：AI Trade Rebounds After Historic Rout for Tech Stocks"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "AI Stocks Rebound as Investors Weigh Whether Selloff Is Over",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "AI Trade Rebounds After Historic Rout for Tech Stocks",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-surveillance-11-6-2026-video"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
-      "summary": [
-        "CNBC：Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
-        "Yahoo Finance：Elon Musk announces Tesla will wind down Cybertruck production at Texas factory to make room for Cybercab"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
-          "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
-        },
         {
           "source": "Yahoo Finance",
-          "title": "Elon Musk announces Tesla will wind down Cybertruck production at Texas factory to make room for Cybercab",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjkzMUd6c1NiUkIzNFFNNk1BcDFyZDFKdGw5dTBWNzB5X3FxUkFCZ19aYnVPZVpNT0Yzd3p5V3hycXVCejNfeHJncGhuLVpHSDA1aVRSdS11bnlqWEpNc0Q4bXJCVjVFN21fdWN2NUVPZ1RXNWRVV3dISGo2d25IbVJ5ZmdXZ1NTMUozUVlKUUdqRkZUV1E?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
-      "summary": [
-        "Tom's Hardware：Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
-        "Wccftech：NVIDIA GPUs Worth $11.4 Million Stolen From Oakland Fetch A Hefty Price Outside Of U.S. Says UC Berkeley Professor, “They Go For About 1 Million Or More Abroad”"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Tom's Hardware",
-          "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
-          "url": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears"
+          "title": "由於市場動盪，Anthropic 的 IPO 估值可能跌至近 1 兆美元",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUV6dVh5WUcxemZzTXRjYmcxcVRXUHRqSjhUcjZ2VVJjbVdWMi0yMWFaaWIwZUZfTndvQ19LZl9fQk55bElVYUFyeE9pa3RmNEFBak05WEFvRkhpeG1PdFkzZkw5ZnUtczlrSS1HaU44UENxSi1ZTy1LNWZrb3BZQXRhSDZhTVpXODFvRUF2NTFoNkhNSEtYYld4LWpTaHNqSUM5WHIwWVpQNDlCelh5OFJmT0Znc1hrbGJLWDdIaUJUeExMN05KQk5DZkMtVUhiQWc?oc=5"
         },
         {
-          "source": "Wccftech",
-          "title": "NVIDIA GPUs Worth $11.4 Million Stolen From Oakland Fetch A Hefty Price Outside Of U.S. Says UC Berkeley Professor, “They Go For About 1 Million Or More Abroad”",
-          "url": "https://wccftech.com/nvidia-cargo-heist-11-million-dollars-hardware-stolen-oakland-texas/"
+          "source": "Bloomberg Tech",
+          "title": "Anthropic IPO 買家認為估值低至 1.1 兆美元",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-buyers-see-valuation-as-low-as-1-1t-video"
         }
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "Fox completes $22 billion Roku deal to expand digital reach",
       "summary": [
         "Investing.com：Fox completes $22 billion Roku deal to expand digital reach",
@@ -432,7 +348,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "Airbnb 營收成長； DraftKings因預測失誤而陷入困境庫存搬運工",
       "summary": [
         "Bloomberg Markets：Airbnb 營收成長； DraftKings因預測失誤而陷入困境庫存搬運工",
@@ -449,6 +365,90 @@
           "source": "Investing.com",
           "title": "Airbnb 獲利分析：問題解答與下一步催化劑",
           "url": "https://www.investing.com/news/stock-market-news/airbnb-earnings-analysis-questions-answered-and-next-catalysts-93CH-5008962"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "歐盟調查西班牙致命高鐵線路的“欺詐”",
+      "summary": [
+        "Financial Times：歐盟調查西班牙致命高鐵線路的“欺詐”",
+        "BBC World：烏爾達鐵路災難後，西班牙鐵路當局面臨歐洲詐欺調查"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "歐盟調查西班牙致命高鐵線路的“欺詐”",
+          "url": "https://www.ft.com/content/888d77c4-c771-4390-95ef-efcee413ef32?syn-25a6b1a6=1"
+        },
+        {
+          "source": "BBC World",
+          "title": "烏爾達鐵路災難後，西班牙鐵路當局面臨歐洲詐欺調查",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "微軟終止甲骨文租賃人工智慧雲端容量的交易",
+      "summary": [
+        "Bloomberg Tech：微軟終止甲骨文租賃人工智慧雲端容量的交易",
+        "Yahoo Finance：根據通報，微軟終止人工智慧雲端容量交易，甲骨文股價下跌 4%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "微軟終止甲骨文租賃人工智慧雲端容量的交易",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "根據通報，微軟終止人工智慧雲端容量交易，甲骨文股價下跌 4%",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN25DZl82VVZGblFmVjNxOHdaeFk0WnNFLWV4RWNYSDA2WUtobWRFR2RCOXM2b0pDeW5LenJTLVpwQ09VMmNqTHJvNlA2TGxmNWpZNzV6RDdNU3FlZ3U2cjVodXRjejduQnhXZFRsR1pVTzZ4VHhuYVBXSDExZmEzUWt2ZXZ1cFdNNDlyUFhSMDZCR0owcVEzY2hOdk52RkZa?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "馬斯克稱 SpaceX 將從美國政府獲得低於 10% 的收入",
+      "summary": [
+        "Bloomberg Tech：馬斯克稱 SpaceX 將從美國政府獲得低於 10% 的收入",
+        "Investing.com：馬斯克稱 SpaceX 政府合約比例將低於收入的 10%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "馬斯克稱 SpaceX 將從美國政府獲得低於 10% 的收入",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/spacex-to-get-under-10-of-revenue-from-us-government-musk-says"
+        },
+        {
+          "source": "Investing.com",
+          "title": "馬斯克稱 SpaceX 政府合約比例將低於收入的 10%",
+          "url": "https://www.investing.com/news/stock-market-news/spacex-government-contracts-to-be-under-10-of-revenue-musk-says-5008950"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Walleye 將在股票交易重置中向客戶返還 20 億美元",
+      "summary": [
+        "Bloomberg Markets：Walleye 將在股票交易重置中向客戶返還 20 億美元",
+        "Investing.com：Walleye Capital 將在股權削減後向客戶返還 20 億美元——報告"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Walleye 將在股票交易重置中向客戶返還 20 億美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/walleye-to-return-2-billion-to-clients-in-stocks-trading-reset"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Walleye Capital 將在股權削減後向客戶返還 20 億美元——報告",
+          "url": "https://www.investing.com/news/stock-market-news/walleye-capital-to-return-2-billion-to-clients-after-equity-cuts--report-5009007"
         }
       ]
     }
