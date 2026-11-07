@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-07 21:30",
+  "updated_at": "2026-11-07 22:19",
   "taiwan": [
     {
       "rank": 1,
-      "title": "紐時：黃仁勳身邊「女共諜」來自中國國安部 任務目的曝光",
-      "summary": [
-        "自由時報：紐時：黃仁勳身邊「女共諜」來自中國國安部 任務目的曝光",
-        "ETtoday：鎖定黃仁勳！中國女間諜真實身分曝　紐時：全為最先進AI晶片",
-        "經濟日報：紐時：黃樂是中國國安部間諜 接近黃仁勳試圖促美供應最先進晶片"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "紐時：黃仁勳身邊「女共諜」來自中國國安部 任務目的曝光",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5632354"
-        },
-        {
-          "source": "ETtoday",
-          "title": "鎖定黃仁勳！中國女間諜真實身分曝　紐時：全為最先進AI晶片",
-          "url": "https://www.ettoday.net/news/20261107/3267902.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "紐時：黃樂是中國國安部間諜 接近黃仁勳試圖促美供應最先進晶片",
-          "url": "https://money.udn.com/money/story/5599/9863231"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "沛亨佈局光通訊產業，斥資3億元收購建毅科技100%股權",
       "summary": [
         "公開資訊觀測站重訊：沛亨佈局光通訊產業，斥資3億元收購建毅科技100%股權",
@@ -50,49 +23,49 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "美白宮旁驚傳男子持有多把槍械 威脅要暗殺川普",
+      "rank": 2,
+      "title": "肯亞邪教虐殺案釀190童死 主嫌遭判200年徒刑｜20261107 公視午間新聞 ｜ 公視新聞 PNN",
       "summary": [
-        "自由時報：美白宮旁驚傳男子持有多把槍械 威脅要暗殺川普",
-        "經濟日報：持槍男子稱腦中聲音要他刺殺川普　白宮附近遭逮捕"
+        "公視新聞：肯亞邪教虐殺案釀190童死 主嫌遭判200年徒刑｜20261107 公視午間新聞 ｜ 公視新聞 PNN",
+        "經濟日報：肯亞邪教教主下令絕食餓死190名孩童　遭判200年徒刑"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "美白宮旁驚傳男子持有多把槍械 威脅要暗殺川普",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5632367"
+          "source": "公視新聞",
+          "title": "肯亞邪教虐殺案釀190童死 主嫌遭判200年徒刑｜20261107 公視午間新聞 ｜ 公視新聞 PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tN1lnZDNDUXRyRzE2bG5ienNGbVdvdU5BeTRrenluNEFvUlhCNmlGM201cU5KLTBIYVQ4SnpseGVZeTlBTkRob1M2UQ?oc=5"
         },
         {
           "source": "經濟日報",
-          "title": "持槍男子稱腦中聲音要他刺殺川普　白宮附近遭逮捕",
-          "url": "https://money.udn.com/money/story/5599/9863311"
+          "title": "肯亞邪教教主下令絕食餓死190名孩童　遭判200年徒刑",
+          "url": "https://money.udn.com/money/story/5599/9864228"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "快訊／「春風衛生紙」大廠火警撲滅1天復燃　消防車、砲塔灌救中",
+      "summary": [
+        "ETtoday：快訊／「春風衛生紙」大廠火警撲滅1天復燃　消防車、砲塔灌救中",
+        "公開資訊觀測站重訊：才剛滅火又燒起來！強風吹助燃「春風衛生紙大廠陷火海」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／「春風衛生紙」大廠火警撲滅1天復燃　消防車、砲塔灌救中",
+          "url": "https://www.ettoday.net/news/20261107/3268097.htm"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "才剛滅火又燒起來！強風吹助燃「春風衛生紙大廠陷火海」",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSEpmMFlhaFVVeHM3Y2JpU01Qc1lnZ1dZWUtaMU1pQ0xST1FWZ19rM3NEUUJDVXZyMHNFRk5TaXNHbmw4Mm4zRHBwNHU1cHlsUE8zSVA1NWxlaklEWlZncjJQdldwWm1oQlNxbFpTYUZ3U1BJcDQ3XzhLaW5jaDRKNjllT21mZG00SkMw?oc=5"
         }
       ]
     },
     {
       "rank": 4,
-      "title": "銀行倒閉風暴！巴拉圭總統潘尼亞遭彈劾罷免 涉背信遭軟禁",
-      "summary": [
-        "自由時報：銀行倒閉風暴！巴拉圭總統潘尼亞遭彈劾罷免 涉背信遭軟禁",
-        "公視新聞：巴拉圭數位銀行倒閉風暴 總統貝尼亞遭彈劾、逮捕｜20261107 公視午間新聞 ｜ 公視新聞 PNN"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "銀行倒閉風暴！巴拉圭總統潘尼亞遭彈劾罷免 涉背信遭軟禁",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5632351"
-        },
-        {
-          "source": "公視新聞",
-          "title": "巴拉圭數位銀行倒閉風暴 總統貝尼亞遭彈劾、逮捕｜20261107 公視午間新聞 ｜ 公視新聞 PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMcnAyQlJxYllHalZ5c0hfbVVNWHJuYmVuQ0xSc1pIOXA2V3lRVWc5UDY3V1gxbXNrYndvd1ZRMGdFTXczcTU5RnkxSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "政壇首例！現任立委涉共諜案起訴 高金素梅被求刑14年，檢調啟動防逃機制 | 林益民 | 新聞",
       "summary": [
         "風傳媒：政壇首例！現任立委涉共諜案起訴 高金素梅被求刑14年，檢調啟動防逃機制 | 林益民 | 新聞",
@@ -113,7 +86,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "GIS-KY重新調整英特盛科技等兩家子公司預算配置，合計預算總金額降至27.23億元- 新聞",
       "summary": [
         "MoneyDJ理財網：GIS-KY重新調整英特盛科技等兩家子公司預算配置，合計預算總金額降至27.23億元- 新聞",
@@ -134,7 +107,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "AI股反彈「特賣會結束了」？邱沁宜搖頭：要觀察修正還反映",
       "summary": [
         "ETtoday：AI股反彈「特賣會結束了」？邱沁宜搖頭：要觀察修正還反映",
@@ -155,7 +128,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "川普稱美方對伊朗實施「小型打擊」！兩枚飛彈擊中格什姆島",
       "summary": [
         "鉅亨網：川普稱美方對伊朗實施「小型打擊」！兩枚飛彈擊中格什姆島",
@@ -176,7 +149,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "GIS-KY董事會決議辦理現增案，上限4千萬股- 新聞",
       "summary": [
         "MoneyDJ理財網：GIS-KY董事會決議辦理現增案，上限4千萬股- 新聞",
@@ -197,7 +170,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "1998還是2000？高盛：AI股暴跌更像LTCM危機而非網路泡沫化 但最大疑問仍是投資回報",
       "summary": [
         "鉅亨網：1998還是2000？高盛：AI股暴跌更像LTCM危機而非網路泡沫化 但最大疑問仍是投資回報",
@@ -214,6 +187,27 @@
           "source": "工商時報",
           "title": "AI風雲起金融新變局》臺股急殺未必轉為空頭？法人看止穩契機浮現- 日報",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwTmI0RG1MM0tncHJDTDJkOHVpUGYtS0NKNkIzaGhRTnNTcFJFVXVqMHVEY2Z4NDEyYWk5bjlZZHFwaTBVNWQ0ZUs3SjZNT00zdEU5aVRvRGtZckJ2b2pF?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "佳世達董事會決議增資Qisda Property Vietnam Co，計1千萬美元- 新聞",
+      "summary": [
+        "MoneyDJ理財網：佳世達董事會決議增資Qisda Property Vietnam Co，計1千萬美元- 新聞",
+        "公開資訊觀測站重訊：佳世達董事會決議增資Qisda Property Vietnam Co，計1千萬美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "佳世達董事會決議增資Qisda Property Vietnam Co，計1千萬美元- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPenN1dy1LeXpyUkhoMGhabDR1bVBBeXhhQlI2aFMwZEdNREVSay1nd05YQXUyRlRabldZWWU2OWNUYjlPVW1xMVNGaHRKN1RoU3hKdThXelNocEJRd1R5ZnBZVDZGVlJJY2VPTEczVndPNG1GczdzUF9fV3lzbnctSzZibEdMaWhad0M5aTNuUnd3dw?oc=5"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "佳世達董事會決議增資Qisda Property Vietnam Co，計1千萬美元",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenhNT0JfV0N4N3lKTTRkZXhDMXc1YUdJbEluUXVCYVZHTkZyam00cy1FLWI5eVNpLWhRamI4LTZwaGNhLXBaVWg0NVJybThfbGpJc3V3NjlwWmFla0YyTHZtVURyYURTS2tLOVdHNjhHNTI5d2dSYWZvQWktWWxOWVNVemZGSVhLbEdFQjBFcTlvUQ?oc=5"
         }
       ]
     }
@@ -284,6 +278,27 @@
     },
     {
       "rank": 4,
+      "title": "紐西蘭選舉情勢緊張，聯合政府談判成為焦點",
+      "summary": [
+        "Nikkei Asia：紐西蘭選舉情勢緊張，聯合政府談判成為焦點",
+        "The Guardian：紐西蘭面臨數週的不確定性，選舉“勢均力敵”"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "紐西蘭選舉情勢緊張，聯合政府談判成為焦點",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTkJQTi1HaE13eUluWnpYTVdaaVU2bERrRVRVa05Ia0sxMXJmWmhfWG5DT3d6RWZ4WTV5QWNlTXdhX0ozOG1JX1pIeW1WeUNfcmkyTkZQTm9INmNSeU9HYnVHN1RpUUtKYlU3d2trSk84WkRhZ2VsSkt3WXVjWUdPY0Q3aGFzUGNOQ05fV1FFZk5xY004VFE?oc=5"
+        },
+        {
+          "source": "The Guardian",
+          "title": "紐西蘭面臨數週的不確定性，選舉“勢均力敵”",
+          "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "波克夏海瑟威的營業利潤下降，回購增加",
       "summary": [
         "Bloomberg Markets：波克夏海瑟威的營業利潤下降，回購增加",
@@ -304,92 +319,77 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "財政部長喬治·貝森特和何副總理討論貿易戰「休戰」的現狀",
-      "summary": [
-        "NHK新聞：財政部長喬治·貝森特和何副總理討論貿易戰「休戰」的現狀"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "財政部長喬治·貝森特和何副總理討論貿易戰「休戰」的現狀",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261107de72007"
-        }
-      ]
-    },
-    {
       "rank": 6,
-      "title": "伊朗強調不妥協的立場：“美國”必須採取具體行動恢復外交”",
+      "title": "在締約方會議之前進行北極觀測的科學家表達了對暖化速度的危機感",
       "summary": [
-        "NHK新聞：伊朗強調不妥協的立場：“美國”必須採取具體行動恢復外交”"
+        "NHK新聞：在締約方會議之前進行北極觀測的科學家表達了對暖化速度的危機感"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "伊朗強調不妥協的立場：“美國”必須採取具體行動恢復外交”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261107de71998"
+          "title": "在締約方會議之前進行北極觀測的科學家表達了對暖化速度的危機感",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261107de72044"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "科羅姆可以在密西西比州創造歷史。這些民主黨人是早期的信徒。",
+      "title": "銀行業危機導致巴拉圭 60% 的地區無法存取帳戶，被罷黜的巴拉圭總統被軟禁",
       "summary": [
-        "Washington Post：科羅姆可以在密西西比州創造歷史。這些民主黨人是早期的信徒。"
+        "The Guardian：銀行業危機導致巴拉圭 60% 的地區無法存取帳戶，被罷黜的巴拉圭總統被軟禁"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Washington Post",
-          "title": "科羅姆可以在密西西比州創造歷史。這些民主黨人是早期的信徒。",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTnVFLVZ3SlJLbmkzRTBEWXpnQVQxd1VwaXhhUnlybzNyMUg4dUlnTEtycXJWQXpRUjlsMUFKeDFsX2JzUHZtUnppUE14WXFuT2k1aUlQd1Z1bmRkVWswbFM1Sl9oR0tzQVhSMW9LVEVPWW04Mno0aHZUOUVvVGN1QXoxdEMweTMzRlhmd3ZmUDlobWtWd1YxOXJLSkNrWUNMYUhQMXpuU1JLNTV4amRGc0kyWll3QjVn?oc=5"
+          "source": "The Guardian",
+          "title": "銀行業危機導致巴拉圭 60% 的地區無法存取帳戶，被罷黜的巴拉圭總統被軟禁",
+          "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "伊隆馬斯克宣佈特斯拉將在德州工廠生產賽博卡車，為賽博trcab騰出空間",
+      "title": "民主黨人斯科特·維納（Scott Wiener）贏得南希·佩洛西（Nancy Pelosi）加州席位競選",
       "summary": [
-        "Yahoo Finance：伊隆馬斯克宣佈特斯拉將在德州工廠生產賽博卡車，為賽博trcab騰出空間"
+        "Washington Post：民主黨人斯科特·維納（Scott Wiener）贏得南希·佩洛西（Nancy Pelosi）加州席位競選"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "伊隆馬斯克宣佈特斯拉將在德州工廠生產賽博卡車，為賽博trcab騰出空間",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjkzMUd6c1NiUkIzNFFNNk1BcDFyZDFKdGw5dTBWNzB5X3FxUkFCZ19aYnVPZVpNT0Yzd3p5V3hycXVCejNfeHJncGhuLVpHSDA1aVRSdS11bnlqWEpNc0Q4bXJCVjVFN21fdWN2NUVPZ1RXNWRVV3dISGo2d25IbVJ5ZmdXZ1NTMUozUVlKUUdqRkZUV1E?oc=5"
+          "source": "Washington Post",
+          "title": "民主黨人斯科特·維納（Scott Wiener）贏得南希·佩洛西（Nancy Pelosi）加州席位競選",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkFmZmVpMU1vSHRma1ZwTUM3Rk9yODRjeGJvU1l2bm14djNUa3ZFRW9wSzQ2bWdkVVZFYlAwYlduUjR2aEFVM21vamZIMjZ5VlF4WmNiRklJQXM4SnpZSC02QlNtaVppYXJQSHhMcVFNMF9OUzZwaWdaVVh5aERSY0pnS040QV9Hd0FkX0c4NEc3cnE0aDlwNzhPNEIzY2dCY0RJX1dldl9NYVR3UlpOc2VOOA?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "Nvidia 支援的 Groq 在新一輪融資中尋求 80 億美元估值",
+      "title": "隨著金價下跌，中國將購買黃金的動能延長至兩年",
       "summary": [
-        "Investing.com：Nvidia 支援的 Groq 在新一輪融資中尋求 80 億美元估值"
+        "Bloomberg Markets：隨著金價下跌，中國將購買黃金的動能延長至兩年"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "Nvidia 支援的 Groq 在新一輪融資中尋求 80 億美元估值",
-          "url": "https://www.investing.com/news/stock-market-news/nvidiabacked-groq-seeks-8-billion-valuation-in-new-funding-round--bloomberg-5009486"
+          "source": "Bloomberg Markets",
+          "title": "隨著金價下跌，中國將購買黃金的動能延長至兩年",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-07/china-extends-gold-buying-streak-to-two-years-as-prices-drop"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "高盛將 2030 年全球資料中心容量預測上調至 273 吉瓦",
+      "title": "北京誓言反擊美國對中國企業的製裁",
       "summary": [
-        "Investing.com：高盛將 2030 年全球資料中心容量預測上調至 273 吉瓦"
+        "Bloomberg Markets：北京誓言反擊美國對中國企業的製裁"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "高盛將 2030 年全球資料中心容量預測上調至 273 吉瓦",
-          "url": "https://www.investing.com/news/stock-market-news/goldman-raises-global-data-center-capacity-forecast-to-273-gw-by-2030-5009439"
+          "source": "Bloomberg Markets",
+          "title": "北京誓言反擊美國對中國企業的製裁",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-07/beijing-vows-to-hit-back-against-us-sanctions-on-china-companies"
         }
       ]
     }
