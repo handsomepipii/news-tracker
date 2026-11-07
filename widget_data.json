@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-07 17:44",
+  "updated_at": "2026-11-07 18:40",
   "taiwan": [
     {
       "rank": 1,
-      "title": "今「東北季風」2地涼雨！　下週低溫探16℃",
-      "summary": [
-        "ETtoday：今「東北季風」2地涼雨！　下週低溫探16℃",
-        "公視新聞：20261107 公視午間新聞完整版（無網路版權內容除外）｜今立冬北部降溫有雨下週更強東北季風下探16℃ ｜ 公視新聞PNN",
-        "TVBS新聞：下週北部低溫探16度! 立冬進補「補錯更傷身」｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "今「東北季風」2地涼雨！　下週低溫探16℃",
-          "url": "https://www.ettoday.net/news/20261107/3267870.htm"
-        },
-        {
-          "source": "公視新聞",
-          "title": "20261107 公視午間新聞完整版（無網路版權內容除外）｜今立冬北部降溫有雨下週更強東北季風下探16℃ ｜ 公視新聞PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40azd2UFFvTld0Qmd6OTJFMFo3cDZSZkNUMV9FdVlQUk14dnI4UksxTVpiLXJaeVAtWG1TQnM2VzFLU0xqN0FsMUNTbw?oc=5"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "下週北部低溫探16度! 立冬進補「補錯更傷身」｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RNjBlVlFNNTMyRjR2aTA5ajZRTkhVSnpKNGp4YTFZWF9ZdE9ROExhdTdxNl8yTEpzUUFpQ3NBaDBrMThwdFdqX0Z0dlNwNGdfU1k3VDdB?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "紐時：黃仁勳身邊「女共諜」來自中國國安部 任務目的曝光",
       "summary": [
         "自由時報：紐時：黃仁勳身邊「女共諜」來自中國國安部 任務目的曝光",
@@ -56,28 +29,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "共和黨期中選舉落敗　米勒調任白宮幕僚長",
-      "summary": [
-        "經濟日報：共和黨期中選舉落敗　米勒調任白宮幕僚長",
-        "ETtoday：川普期中選舉大敗　米勒調任白宮幕僚長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "共和黨期中選舉落敗　米勒調任白宮幕僚長",
-          "url": "https://money.udn.com/money/story/5599/9863129"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普期中選舉大敗　米勒調任白宮幕僚長",
-          "url": "https://www.ettoday.net/news/20261107/3267872.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "title": "巴拉圭陷銀行危機　參議院彈劾總統潘尼亞",
       "summary": [
         "經濟日報：巴拉圭陷銀行危機　參議院彈劾總統潘尼亞",
@@ -98,49 +50,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "市場衡量中東局勢　油價震盪小漲",
-      "summary": [
-        "自由時報：市場衡量中東局勢　油價震盪小漲",
-        "經濟日報：市場衡量中東局勢　油價震盪小漲"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "市場衡量中東局勢　油價震盪小漲",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5632326"
-        },
-        {
-          "source": "經濟日報",
-          "title": "市場衡量中東局勢　油價震盪小漲",
-          "url": "https://money.udn.com/money/story/5599/9863133"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "快訊／U23中華隊3轟退捷克！劉承佑、吳柏萱開轟　林佾葳完投奪勝",
-      "summary": [
-        "ETtoday：快訊／U23中華隊3轟退捷克！劉承佑、吳柏萱開轟　林佾葳完投奪勝",
-        "自由時報：U23世界盃》亞運奇兵林佾葳完投、悍將劉承佑3人開轟 臺灣擊敗捷克首戰告捷"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／U23中華隊3轟退捷克！劉承佑、吳柏萱開轟　林佾葳完投奪勝",
-          "url": "https://sports.ettoday.net/news/3267865"
-        },
-        {
-          "source": "自由時報",
-          "title": "U23世界盃》亞運奇兵林佾葳完投、悍將劉承佑3人開轟 臺灣擊敗捷克首戰告捷",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5632338"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 3,
       "title": "美資料中心建置放緩　一文看臺灣AI供應鏈影響性",
       "summary": [
         "ETtoday：美資料中心建置放緩　一文看臺灣AI供應鏈影響性",
@@ -161,7 +71,49 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
+      "title": "川普期中選舉大敗　米勒調任白宮幕僚長",
+      "summary": [
+        "ETtoday：川普期中選舉大敗　米勒調任白宮幕僚長",
+        "經濟日報：期中選後算帳！川普慘敗怒換幕僚長 米勒接任將硬槓民主黨"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "川普期中選舉大敗　米勒調任白宮幕僚長",
+          "url": "https://www.ettoday.net/news/20261107/3267872.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "期中選後算帳！川普慘敗怒換幕僚長 米勒接任將硬槓民主黨",
+          "url": "https://money.udn.com/money/story/5599/9863312"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "今「東北季風」2地涼雨！　下週低溫探16℃",
+      "summary": [
+        "ETtoday：今「東北季風」2地涼雨！　下週低溫探16℃",
+        "自由時報：把握週日白天好天氣！入夜飄雨 週一迎強東北季風「低溫剩16度」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "今「東北季風」2地涼雨！　下週低溫探16℃",
+          "url": "https://www.ettoday.net/news/20261107/3267870.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "把握週日白天好天氣！入夜飄雨 週一迎強東北季風「低溫剩16度」",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5632951"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "川習月中APEC會晤 美中官員行前通電磋商",
       "summary": [
         "自由時報：川習月中APEC會晤 美中官員行前通電磋商",
@@ -182,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "貿易休戰恐生變？英媒：美國警告中國 立即履行釜山貿易協議",
       "summary": [
         "經濟日報：貿易休戰恐生變？英媒：美國警告中國 立即履行釜山貿易協議",
@@ -203,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "美白宮旁驚傳男子持有多把槍械 威脅要暗殺川普",
       "summary": [
         "自由時報：美白宮旁驚傳男子持有多把槍械 威脅要暗殺川普",
@@ -220,6 +172,48 @@
           "source": "經濟日報",
           "title": "持槍男子稱腦中聲音要他刺殺川普　白宮附近遭逮捕",
           "url": "https://money.udn.com/money/story/5599/9863311"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "政壇首例！現任立委涉共諜案起訴 高金素梅被求刑14年，檢調啟動防逃機制 | 林益民 | 新聞",
+      "summary": [
+        "風傳媒：政壇首例！現任立委涉共諜案起訴 高金素梅被求刑14年，檢調啟動防逃機制 | 林益民 | 新聞",
+        "自由時報：高金素梅涉共諜案被起訴 伍麗華：如何連根拔起全看今年選舉"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "政壇首例！現任立委涉共諜案起訴 高金素梅被求刑14年，檢調啟動防逃機制 | 林益民 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNQU90ekJadk1mWEFQSGpIQzVSRUkyLWlvajgxUk5BWUNRSWNZN2QzMVQteDlzN2dhUW1aMG91UnNxNmlVcFRVMVV2OGVfdw?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "高金素梅涉共諜案被起訴 伍麗華：如何連根拔起全看今年選舉",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5632477"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "沛亨佈局光通訊產業，斥資3億元收購建毅科技100%股權",
+      "summary": [
+        "公開資訊觀測站重訊：沛亨佈局光通訊產業，斥資3億元收購建毅科技100%股權",
+        "MoneyDJ理財網：沛亨佈局光通訊產業，斥資3億元收購建毅科技100%股權"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "沛亨佈局光通訊產業，斥資3億元收購建毅科技100%股權",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSklLMHZXV2NFd19DMWtmVndSVnh0Tk9ZZUZNUktfd1QtNDNwQWYyTjN5dmRzSU96SXRaOHlYaU1LRTZUMnlubXZYb0ZFajA2UWtjOVljeGs4TExzNTNJbzdCcW5WQjBjYUx0bnhfUXJEN1dSRFk5ZElDU2FTN0kxVVdlS2RiOVhELTMtRGJLWV9Gdw?oc=5"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "沛亨佈局光通訊產業，斥資3億元收購建毅科技100%股權",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb2k1aC1fMlp6M3FiUlRkckVQZUtUbE9wTHc3MDBoUWF0NEN3dzc2NWxnQVgzVkx0Q1JHVENRejhnQ1JsUE5ndWE0aEF6OE0weUlDempIX3pGRzRQcGIyVzg1Q2NCY1AwTVN0d2Q2YWNNaXVCOEN2b1h6OE1IdDl0aVRvWTA5amxIUGRrelcyX1FWdw?oc=5"
         }
       ]
     }
@@ -269,6 +263,27 @@
     },
     {
       "rank": 3,
+      "title": "軟銀和 ABB 考慮將中國排除在外以挽救機器人交易",
+      "summary": [
+        "Bloomberg Tech：軟銀和 ABB 考慮將中國排除在外以挽救機器人交易",
+        "法廣RFI：軟銀和ABB考慮剝離交易中國部分以挽救機器人協議"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "軟銀和 ABB 考慮將中國排除在外以挽救機器人交易",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "軟銀和ABB考慮剝離交易中國部分以挽救機器人協議",
+          "url": "https://www.rfi.fr/tw/%E7%B6%93%E8%B2%BF/20261107-%E8%BB%9F%E9%8A%80%E5%92%8Cabb%E8%80%83%E6%85%AE%E5%89%9D%E9%9B%A2%E4%BA%A4%E6%98%93%E4%B8%AD%E5%9C%8B%E9%83%A8%E5%88%86%E4%BB%A5%E6%8C%BD%E6%95%91%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%94%E8%AD%B0"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "特斯拉在少數市場多年銷售不佳後將逐步減少 Cyber​​truck 的生產",
       "summary": [
         "Yahoo Finance：特斯拉在少數市場多年銷售不佳後將逐步減少 Cyber​​truck 的生產"
@@ -283,107 +298,92 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "共和黨在美國中期選舉中慘敗的五大原因",
+      "rank": 5,
+      "title": "美國中期選舉結果對中國和世界各國意味著什麼？",
       "summary": [
-        "BBC中文：共和黨在美國中期選舉中慘敗的五大原因"
+        "BBC中文：美國中期選舉結果對中國和世界各國意味著什麼？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "BBC中文",
-          "title": "共和黨在美國中期選舉中慘敗的五大原因",
-          "url": "https://www.bbc.com/zhongwen/articles/cxyvrz6qrm2lo/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "教宗良十四世開啟12天南美訪問",
-      "summary": [
-        "法廣RFI：教宗良十四世開啟12天南美訪問"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "教宗良十四世開啟12天南美訪問",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261106-%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E9%96%8B%E5%95%9F12%E5%A4%A9%E5%8D%97%E7%BE%8E%E8%A8%AA%E5%95%8F"
+          "title": "美國中期選舉結果對中國和世界各國意味著什麼？",
+          "url": "https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "華盛頓呼籲北京當局尊重雙方貿易協定條款",
+      "title": "中國解放軍四少將被終止全國人大代表資格",
       "summary": [
-        "法廣RFI：華盛頓呼籲北京當局尊重雙方貿易協定條款"
+        "法廣RFI：中國解放軍四少將被終止全國人大代表資格"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "華盛頓呼籲北京當局尊重雙方貿易協定條款",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261106-%E8%8F%AF%E7%9B%9B%E9%A0%93%E5%91%BC%E7%B1%B2%E5%8C%97%E4%BA%AC%E7%95%B6%E5%B1%80%E5%B0%8A%E9%87%8D%E9%9B%99%E6%96%B9%E8%B2%BF%E6%98%93%E5%8D%94%E5%AE%9A%E6%A2%9D%E6%AC%BE"
+          "title": "中國解放軍四少將被終止全國人大代表資格",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261106-%E4%B8%AD%E5%9C%8B%E8%A7%A3%E6%94%BE%E8%BB%8D%E5%9B%9B%E5%B0%91%E5%B0%87%E8%A2%AB%E7%B5%82%E6%AD%A2%E5%85%A8%E5%9C%8B%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%B3%87%E6%A0%BC"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "歐盟對澳門前民主派議員定罪表示“遺憾”",
+      "title": "兩黨議員聯盟訪問國際刑事法院並與茜主任會面“加強支援”",
       "summary": [
-        "法廣RFI：歐盟對澳門前民主派議員定罪表示“遺憾”"
+        "NHK新聞：兩黨議員聯盟訪問國際刑事法院並與茜主任會面“加強支援”"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "歐盟對澳門前民主派議員定罪表示“遺憾”",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261106-%E6%AD%90%E7%9B%9F%E5%B0%8D%E6%BE%B3%E9%96%80%E5%89%8D%E6%B0%91%E4%B8%BB%E6%B4%BE%E8%AD%B0%E5%93%A1%E5%AE%9A%E7%BD%AA%E8%A1%A8%E7%A4%BA-%E9%81%BA%E6%86%BE"
+          "source": "NHK新聞",
+          "title": "兩黨議員聯盟訪問國際刑事法院並與茜主任會面“加強支援”",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261107de72010"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "對巴拉圭佩尼亞總統彈劾審判開始",
+      "title": "一週韓娛：BTS涉抄襲案原告撤訴 最強昌珉單獨開唱",
       "summary": [
-        "法廣RFI：對巴拉圭佩尼亞總統彈劾審判開始"
+        "韓聯社：一週韓娛：BTS涉抄襲案原告撤訴 最強昌珉單獨開唱"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "對巴拉圭佩尼亞總統彈劾審判開始",
-          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261106-%E5%B0%8D%E5%B7%B4%E6%8B%89%E5%9C%AD%E4%BD%A9%E5%B0%BC%E4%BA%9E%E7%B8%BD%E7%B5%B1%E5%BD%88%E5%8A%BE%E5%AF%A9%E5%88%A4%E9%96%8B%E5%A7%8B"
+          "source": "韓聯社",
+          "title": "一週韓娛：BTS涉抄襲案原告撤訴 最強昌珉單獨開唱",
+          "url": "https://cn.yna.co.kr/view/ACK20261106002300881"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "法新社譴責警方暴力對待其記者",
+      "title": "佛羅裡達州州長羅恩·德桑蒂斯計劃再次競選白宮",
       "summary": [
-        "法廣RFI：法新社譴責警方暴力對待其記者"
+        "Washington Post：佛羅裡達州州長羅恩·德桑蒂斯計劃再次競選白宮"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "法新社譴責警方暴力對待其記者",
-          "url": "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20261106-%E6%B3%95%E6%96%B0%E7%A4%BE%E8%AD%B4%E8%B2%AC%E8%AD%A6%E6%96%B9%E6%9A%B4%E5%8A%9B%E5%B0%8D%E5%BE%85%E5%85%B6%E8%A8%98%E8%80%85"
+          "source": "Washington Post",
+          "title": "佛羅裡達州州長羅恩·德桑蒂斯計劃再次競選白宮",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMXlsQzhJanVoa3l4ejlBVkN2YlRjXzBvR0p1REVMeV9SaFdNdGp3TnU1QmFkRGExWDRvSVhDelZuR0kwTC1tZEg5SV9yZ1VkZk5LNnJGaDBiUjBFR2tCYWk2bi1Ndks0aGxvdDNNSHJSUTdVY0hRYko3U0M1VHFzSUJoVDl5elJnR2xReTd0b0ZLWkRldkxZZlltMEN3YW1mZWxRSG9JeFBCamdvenBCNElfVQ?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "特朗普興建凱旋門計畫受阻  白宮表示樂觀",
+      "title": "女性在生命的每個階段所面臨的獨特的心臟病危險因子",
       "summary": [
-        "法廣RFI：特朗普興建凱旋門計畫受阻  白宮表示樂觀"
+        "Washington Post：女性在生命的每個階段所面臨的獨特的心臟病危險因子"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "特朗普興建凱旋門計畫受阻  白宮表示樂觀",
-          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261106-%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%88%E5%BB%BA%E5%87%B1%E6%97%8B%E9%96%80%E8%A8%88%E7%95%AB%E5%8F%97%E9%98%BB-%E7%99%BD%E5%AE%AE%E8%A1%A8%E7%A4%BA%E6%A8%82%E8%A7%80"
+          "source": "Washington Post",
+          "title": "女性在生命的每個階段所面臨的獨特的心臟病危險因子",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTWVNcGFjVnhoQ3daa1d0eVF3TldhUkRpc1cyb29QVnEwbjVsdHk1aWNSRjVJUjlmQ2dDd3FrNEttZ05JTUlNVkNiVkdNajBMOVZ6cVdnbi1lWExkNDVUMWdndXNNb2dDOE9zTmxfM2FoLTJOdzlSMlJKWnJYTTRuQUZ3dHI4aFlVWWxpRkhxZ3VSMGxJT3d1ZDlxUnZvakY5WlBkQnZTTFVGTXhoN25ZR2dn?oc=5"
         }
       ]
     }
