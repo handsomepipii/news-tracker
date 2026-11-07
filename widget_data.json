@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 19:33",
+  "updated_at": "2026-11-07 20:16",
   "taiwan": [
     {
       "rank": 1,
@@ -30,69 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "巴拉圭陷銀行危機　參議院彈劾總統潘尼亞",
-      "summary": [
-        "經濟日報：巴拉圭陷銀行危機　參議院彈劾總統潘尼亞",
-        "自由時報：銀行倒閉風暴！巴拉圭總統潘尼亞遭彈劾罷免 涉背信遭軟禁"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "巴拉圭陷銀行危機　參議院彈劾總統潘尼亞",
-          "url": "https://money.udn.com/money/story/5599/9863190"
-        },
-        {
-          "source": "自由時報",
-          "title": "銀行倒閉風暴！巴拉圭總統潘尼亞遭彈劾罷免 涉背信遭軟禁",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5632351"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "川習月中APEC會晤 美中官員行前通電磋商",
-      "summary": [
-        "自由時報：川習月中APEC會晤 美中官員行前通電磋商",
-        "經濟日報：川習月中APEC會晤　美中官員行前通電磋商"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "川習月中APEC會晤 美中官員行前通電磋商",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5632337"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川習月中APEC會晤　美中官員行前通電磋商",
-          "url": "https://money.udn.com/money/story/5599/9863188"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "貿易休戰恐生變？英媒：美國警告中國 立即履行釜山貿易協議",
-      "summary": [
-        "經濟日報：貿易休戰恐生變？英媒：美國警告中國 立即履行釜山貿易協議",
-        "ETtoday：不滿中國食言！美警告「立即履行協議」　貿易戰休兵恐生變"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "貿易休戰恐生變？英媒：美國警告中國 立即履行釜山貿易協議",
-          "url": "https://money.udn.com/money/story/5599/9863193"
-        },
-        {
-          "source": "ETtoday",
-          "title": "不滿中國食言！美警告「立即履行協議」　貿易戰休兵恐生變",
-          "url": "https://www.ettoday.net/news/20261107/3267909.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "美白宮旁驚傳男子持有多把槍械 威脅要暗殺川普",
       "summary": [
         "自由時報：美白宮旁驚傳男子持有多把槍械 威脅要暗殺川普",
@@ -113,7 +50,28 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "title": "銀行倒閉風暴！巴拉圭總統潘尼亞遭彈劾罷免 涉背信遭軟禁",
+      "summary": [
+        "自由時報：銀行倒閉風暴！巴拉圭總統潘尼亞遭彈劾罷免 涉背信遭軟禁",
+        "公視新聞：巴拉圭數位銀行倒閉風暴 總統貝尼亞遭彈劾、逮捕｜20261107 公視午間新聞 ｜ 公視新聞 PNN"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "銀行倒閉風暴！巴拉圭總統潘尼亞遭彈劾罷免 涉背信遭軟禁",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5632351"
+        },
+        {
+          "source": "公視新聞",
+          "title": "巴拉圭數位銀行倒閉風暴 總統貝尼亞遭彈劾、逮捕｜20261107 公視午間新聞 ｜ 公視新聞 PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMcnAyQlJxYllHalZ5c0hfbVVNWHJuYmVuQ0xSc1pIOXA2V3lRVWc5UDY3V1gxbXNrYndvd1ZRMGdFTXczcTU5RnkxSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "政壇首例！現任立委涉共諜案起訴 高金素梅被求刑14年，檢調啟動防逃機制 | 林益民 | 新聞",
       "summary": [
         "風傳媒：政壇首例！現任立委涉共諜案起訴 高金素梅被求刑14年，檢調啟動防逃機制 | 林益民 | 新聞",
@@ -134,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "沛亨佈局光通訊產業，斥資3億元收購建毅科技100%股權",
       "summary": [
         "公開資訊觀測站重訊：沛亨佈局光通訊產業，斥資3億元收購建毅科技100%股權",
@@ -155,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "GIS-KY重新調整英特盛科技等兩家子公司預算配置，合計預算總金額降至27.23億元- 新聞",
       "summary": [
         "MoneyDJ理財網：GIS-KY重新調整英特盛科技等兩家子公司預算配置，合計預算總金額降至27.23億元- 新聞",
@@ -176,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "AI股反彈「特賣會結束了」？邱沁宜搖頭：要觀察修正還反映",
       "summary": [
         "ETtoday：AI股反彈「特賣會結束了」？邱沁宜搖頭：要觀察修正還反映",
@@ -197,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "川普稱美方對伊朗實施「小型打擊」！兩枚飛彈擊中格什姆島",
       "summary": [
         "鉅亨網：川普稱美方對伊朗實施「小型打擊」！兩枚飛彈擊中格什姆島",
@@ -214,6 +172,48 @@
           "source": "ETtoday",
           "title": "15分鐘摧毀防空裝置！　川普證實對伊朗展開「新一輪軍事打擊」",
           "url": "https://www.ettoday.net/news/20261107/3268018.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "GIS-KY董事會決議辦理現增案，上限4千萬股- 新聞",
+      "summary": [
+        "MoneyDJ理財網：GIS-KY董事會決議辦理現增案，上限4千萬股- 新聞",
+        "公開資訊觀測站重訊：GIS-KY董事會決議辦理現增案，上限4千萬股"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "GIS-KY董事會決議辦理現增案，上限4千萬股- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQVBkSXlvTnZiMDZWenpfUUV2NU5pQXdTQ0lOeU1NcnY5eHRtdWxCUjNQN3pMUFpPZDRVVFc0QVI1Z1QtZ2ZURjZfcUtnZGNSd0lkb0xGdG5kU19Jd0xIU1BzU2M4QjJoeFF2ZjBCVkl1MHdJWjdSVWw1RGdybUxTSjVuS3lBdlFxcXBzeXg1aHc2QQ?oc=5"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "GIS-KY董事會決議辦理現增案，上限4千萬股",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVThGVjNqRUoxVUlNU3hkSjlwVURNUFhXWVlFeWNYRl9hTkZkUnVyTUt4NmNMeU41TXFKOHBDRUFtMEtUN1NNRjdEMTlpQ0dQTVJsV2Zja0Zxd0M3WjJmSmcxZXZGOFkxbTBPOFVTVF9ZRG5veVZWYUp6bThwVFVYaGJhQXBuZzYtRU9FSGhZVVNLZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "1998還是2000？高盛：AI股暴跌更像LTCM危機而非網路泡沫化 但最大疑問仍是投資回報",
+      "summary": [
+        "鉅亨網：1998還是2000？高盛：AI股暴跌更像LTCM危機而非網路泡沫化 但最大疑問仍是投資回報",
+        "工商時報：AI風雲起金融新變局》臺股急殺未必轉為空頭？法人看止穩契機浮現- 日報"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "鉅亨網",
+          "title": "1998還是2000？高盛：AI股暴跌更像LTCM危機而非網路泡沫化 但最大疑問仍是投資回報",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAySUtSbkZpZFE2RVplblN2RE40M0xBT1FFVnBDU2s1RmZORVBFZWRheEc3cE9FSEJLOHY5RlUyTF84NGozM3JacjJUaHFyVW8?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "AI風雲起金融新變局》臺股急殺未必轉為空頭？法人看止穩契機浮現- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwTmI0RG1MM0tncHJDTDJkOHVpUGYtS0NKNkIzaGhRTnNTcFJFVXVqMHVEY2Z4NDEyYWk5bjlZZHFwaTBVNWQ0ZUs3SjZNT00zdEU5aVRvRGtZckJ2b2pF?oc=5"
         }
       ]
     }
@@ -284,106 +284,106 @@
     },
     {
       "rank": 4,
-      "title": "臺灣：臺積電股價飆升掀股市熱，部分普通民眾甚至每天都買賣股票",
+      "title": "財政部長喬治·貝森特和何副總理討論貿易戰「休戰」的現狀",
       "summary": [
-        "法廣RFI：臺灣：臺積電股價飆升掀股市熱，部分普通民眾甚至每天都買賣股票"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "臺灣：臺積電股價飆升掀股市熱，部分普通民眾甚至每天都買賣股票",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E6%B3%95%E5%9C%8B%E4%B8%96%E7%95%8C%E5%A0%B1/20261106-%E5%8F%B0%E7%81%A3-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E5%83%B9%E9%A3%86%E5%8D%87%E6%8E%80%E8%82%A1%E5%B8%82%E7%86%B1%EF%BC%8C%E9%83%A8%E5%88%86%E6%99%AE%E9%80%9A%E6%B0%91%E7%9C%BE%E7%94%9A%E8%87%B3%E6%AF%8F%E5%A4%A9%E9%83%BD%E8%B2%B7%E8%B3%A3%E8%82%A1%E7%A5%A8"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "日本、美國、歐洲等10國譴責香港民運人士黃之鋒的判決",
-      "summary": [
-        "NHK新聞：日本、美國、歐洲等10國譴責香港民運人士黃之鋒的判決"
+        "NHK新聞：財政部長喬治·貝森特和何副總理討論貿易戰「休戰」的現狀"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "日本、美國、歐洲等10國譴責香港民運人士黃之鋒的判決",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261107de72008"
+          "title": "財政部長喬治·貝森特和何副總理討論貿易戰「休戰」的現狀",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261107de72007"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "伊朗強調不妥協的立場：“美國”必須採取具體行動恢復外交”",
+      "summary": [
+        "NHK新聞：伊朗強調不妥協的立場：“美國”必須採取具體行動恢復外交”"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "伊朗強調不妥協的立場：“美國”必須採取具體行動恢復外交”",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261107de71998"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "The Corner Store 將紐約體驗帶到拉斯維加斯大道",
+      "title": "科羅姆可以在密西西比州創造歷史。這些民主黨人是早期的信徒。",
       "summary": [
-        "Bloomberg Markets：The Corner Store 將紐約體驗帶到拉斯維加斯大道"
+        "Washington Post：科羅姆可以在密西西比州創造歷史。這些民主黨人是早期的信徒。"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "The Corner Store 將紐約體驗帶到拉斯維加斯大道",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-06/the-corner-store-brings-nyc-experience-to-vegas-strip-video"
+          "source": "Washington Post",
+          "title": "科羅姆可以在密西西比州創造歷史。這些民主黨人是早期的信徒。",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTnVFLVZ3SlJLbmkzRTBEWXpnQVQxd1VwaXhhUnlybzNyMUg4dUlnTEtycXJWQXpRUjlsMUFKeDFsX2JzUHZtUnppUE14WXFuT2k1aUlQd1Z1bmRkVWswbFM1Sl9oR0tzQVhSMW9LVEVPWW04Mno0aHZUOUVvVGN1QXoxdEMweTMzRlhmd3ZmUDlobWtWd1YxOXJLSkNrWUNMYUhQMXpuU1JLNTV4amRGc0kyWll3QjVn?oc=5"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "第三季結束後，Elanco 股價上漲，展望上漲",
+      "title": "伊隆馬斯克宣佈特斯拉將在德州工廠生產賽博卡車，為賽博trcab騰出空間",
       "summary": [
-        "Bloomberg Markets：第三季結束後，Elanco 股價上漲，展望上漲"
+        "Yahoo Finance：伊隆馬斯克宣佈特斯拉將在德州工廠生產賽博卡車，為賽博trcab騰出空間"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "第三季結束後，Elanco 股價上漲，展望上漲",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-06/elanco-shares-jump-after-q3-beat-and-outlook-raise-video"
+          "source": "Yahoo Finance",
+          "title": "伊隆馬斯克宣佈特斯拉將在德州工廠生產賽博卡車，為賽博trcab騰出空間",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjkzMUd6c1NiUkIzNFFNNk1BcDFyZDFKdGw5dTBWNzB5X3FxUkFCZ19aYnVPZVpNT0Yzd3p5V3hycXVCejNfeHJncGhuLVpHSDA1aVRSdS11bnlqWEpNc0Q4bXJCVjVFN21fdWN2NUVPZ1RXNWRVV3dISGo2d25IbVJ5ZmdXZ1NTMUozUVlKUUdqRkZUV1E?oc=5"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "Sweetgreen 執行長表示，環孢菌相關流量下降後銷售額出現反彈",
+      "title": "Nvidia 支援的 Groq 在新一輪融資中尋求 80 億美元估值",
       "summary": [
-        "Bloomberg Markets：Sweetgreen 執行長表示，環孢菌相關流量下降後銷售額出現反彈"
+        "Investing.com：Nvidia 支援的 Groq 在新一輪融資中尋求 80 億美元估值"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "Sweetgreen 執行長表示，環孢菌相關流量下降後銷售額出現反彈",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-06/sweetgreen-ceo-on-earnings-sales-rebound-video"
+          "source": "Investing.com",
+          "title": "Nvidia 支援的 Groq 在新一輪融資中尋求 80 億美元估值",
+          "url": "https://www.investing.com/news/stock-market-news/nvidiabacked-groq-seeks-8-billion-valuation-in-new-funding-round--bloomberg-5009486"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "執行長 Trina Spear 表示，由於需求超過供應，無花果業績優於獲利",
+      "title": "高盛將 2030 年全球資料中心容量預測上調至 273 吉瓦",
       "summary": [
-        "Bloomberg Markets：執行長 Trina Spear 表示，由於需求超過供應，無花果業績優於獲利"
+        "Investing.com：高盛將 2030 年全球資料中心容量預測上調至 273 吉瓦"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "執行長 Trina Spear 表示，由於需求超過供應，無花果業績優於獲利",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-06/figs-ceo-trina-spears-on-earnings-beat-video"
+          "source": "Investing.com",
+          "title": "高盛將 2030 年全球資料中心容量預測上調至 273 吉瓦",
+          "url": "https://www.investing.com/news/stock-market-news/goldman-raises-global-data-center-capacity-forecast-to-273-gw-by-2030-5009439"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "Neocloud Groq 的目標是在 AI 拋售期間將價值翻倍至 80 億美元",
+      "title": "日本企業陷入京東京裂痕交火",
       "summary": [
-        "Bloomberg Tech：Neocloud Groq 的目標是在 AI 拋售期間將價值翻倍至 80 億美元"
+        "Nikkei Asia：日本企業陷入京東京裂痕交火"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "Neocloud Groq 的目標是在 AI 拋售期間將價值翻倍至 80 億美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/neocloud-groq-aims-to-double-value-to-8-billion-amid-ai-selloff"
+          "source": "Nikkei Asia",
+          "title": "日本企業陷入京東京裂痕交火",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNzctWFhrbW1xZUdDaU5tS2s5bkJwQjQyV1RrMHp1QU1NZHIySmNwaG1Ka0VjNHlHYjQ4anRhZzAzR3QxOFZhY25hX2ppWlBPdnUybWk5OUZBZW53OWtNalA0ZEF6cjh4eWhVVTdyS3hldHlaOUFIa2JkaFhWWlA0N215ZXc2dmNkUkhPc1lKNFJwODFtenh0SUhXWGpwc19rdl9jY1ZaZmxIdWpabTc5Z05IWnZINGd5?oc=5"
         }
       ]
     }
