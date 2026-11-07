@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-08 06:09",
+  "updated_at": "2026-11-08 07:09",
   "taiwan": [
     {
       "rank": 1,
+      "title": "女力挺女力 臺南市議員候選人餘柷青團結大會 陳亭妃專程站臺",
+      "summary": [
+        "自由時報：女力挺女力 臺南市議員候選人餘柷青團結大會 陳亭妃專程站臺",
+        "ETtoday：快訊／中華隊5比1贏下熱身首戰！林子崴3局無失分　王念好關鍵雙安",
+        "MoneyDJ理財網：望隼本公司代子公司江蘇視準醫療器械有限公司公告現金股利除息基準日- 新聞"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "女力挺女力 臺南市議員候選人餘柷青團結大會 陳亭妃專程站臺",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633037"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／中華隊5比1贏下熱身首戰！林子崴3局無失分　王念好關鍵雙安",
+          "url": "https://sports.ettoday.net/news/3268157"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "望隼本公司代子公司江蘇視準醫療器械有限公司公告現金股利除息基準日- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0dkQ005bnIySk5rS2lpUUFmZjVYWUxOb1V4NmpjYWlZeld1UFRBLS02TG1NRWx6djdwYW9ULTA5OWVvNlVYcXV0TnFCNGVWb1BNcW5hZXFqeURTMW1fQzZuUVlkYU9lQ2lBVlFBOG0waGdNY3hiUjBKMTVKbDNqMlhlTEtUR3BEekR4ZTFHa1l6QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "日本中部規模5.7地震無海嘯威脅　愛知縣疑兩人受傷",
       "summary": [
         "自由時報：日本中部規模5.7地震無海嘯威脅　愛知縣疑兩人受傷",
@@ -29,7 +56,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "歐洲多國媒體收恐嚇信愛爾蘭電視臺疏散人員影響播出｜20261107 公視晚間新聞｜ 公視新聞PNN",
       "summary": [
         "公視新聞：歐洲多國媒體收恐嚇信愛爾蘭電視臺疏散人員影響播出｜20261107 公視晚間新聞｜ 公視新聞PNN",
@@ -46,27 +73,6 @@
           "source": "MoneyDJ理財網",
           "title": "歐洲多國接假炸彈威脅愛爾蘭媒體機構疏散員工- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEdhM20ydVJ0cXRrVFVNZ2hJNF9kZkZoWm5pV1ZNMVBQYzlDTGRfeXV5TjhScGd1ZlZUZExlbC1na0RmbEttWnBldHN1Uno3Mk9fQVZsN1NuVHRwRk1YcVVsS2pCWW9uWlc2ZWhZeHJzMlI3Skp5dlNNME9sWEF1eTFibVdpalc4NjFrT1N6N1Brdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "白宮幕僚長威爾斯去職　英媒：川普因選舉慘敗怒斥她",
-      "summary": [
-        "經濟日報：白宮幕僚長威爾斯去職　英媒：川普因選舉慘敗怒斥她",
-        "自由時報：白宮幕僚長威爾斯去職 英媒：川普因選舉慘敗怒斥她"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "白宮幕僚長威爾斯去職　英媒：川普因選舉慘敗怒斥她",
-          "url": "https://money.udn.com/money/story/5599/9864060"
-        },
-        {
-          "source": "自由時報",
-          "title": "白宮幕僚長威爾斯去職 英媒：川普因選舉慘敗怒斥她",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5632939"
         }
       ]
     },
@@ -221,33 +227,13 @@
   "global": [
     {
       "rank": 1,
-      "title": "紐西蘭選舉情勢緊張，聯合政府談判成為焦點",
-      "summary": [
-        "Nikkei Asia：紐西蘭選舉情勢緊張，聯合政府談判成為焦點",
-        "The Guardian：紐西蘭面臨數週的不確定性，選舉“勢均力敵”"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "紐西蘭選舉情勢緊張，聯合政府談判成為焦點",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTkJQTi1HaE13eUluWnpYTVdaaVU2bERrRVRVa05Ia0sxMXJmWmhfWG5DT3d6RWZ4WTV5QWNlTXdhX0ozOG1JX1pIeW1WeUNfcmkyTkZQTm9INmNSeU9HYnVHN1RpUUtKYlU3d2trSk84WkRhZ2VsSkt3WXVjWUdPY0Q3aGFzUGNOQ05fV1FFZk5xY004VFE?oc=5"
-        },
-        {
-          "source": "The Guardian",
-          "title": "紐西蘭面臨數週的不確定性，選舉“勢均力敵”",
-          "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "波克夏海瑟威的營業利潤下降，回購增加",
       "summary": [
         "Bloomberg Markets：波克夏海瑟威的營業利潤下降，回購增加",
-        "Investing.com：波克夏海瑟威因營業利潤下降而加強回購力度"
+        "Investing.com：波克夏海瑟威因營業利潤下降而加強回購力度",
+        "Yahoo Finance：波克夏海瑟威因營業利潤下降而加強回購力度"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "Bloomberg Markets",
@@ -258,11 +244,16 @@
           "source": "Investing.com",
           "title": "波克夏海瑟威因營業利潤下降而加強回購力度",
           "url": "https://www.investing.com/news/stock-market-news/berkshire-hathaway-steps-up-buybacks-as-operating-profit-falls-5009881"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "波克夏海瑟威因營業利潤下降而加強回購力度",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTGZmS29PZVJvc2JQb0xQTEczNWlfWUF6dm11TVlRazFaRGx6X1ZMdk1RMG1pOWpUZ0VPU3RnaWdOZVVmRVJaeU1kUEpXd2UwWGZlV2RJbk5YNFZjcVVuOTJ1cWF4RnpEXzdlaFNXM2NsNm9sZ1FaRFlnX05XSVdRWV9IU0s1eXNzWXNlS0ZLaWRKdGR0VnpNX2NsN0p2eWQ4OWRzdEpOQ19FZy1l?oc=5"
         }
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "美國情報機構認為黃仁勳在蜜罐行動中與中國間諜有浪漫關係",
       "summary": [
         "Tom's Hardware：美國情報機構認為黃仁勳在蜜罐行動中與中國間諜有浪漫關係",
@@ -283,7 +274,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "在價值 60 億美元的災難性加密貨幣駭客攻擊幾天后，幣安財務長辭職",
       "summary": [
         "Investing.com：在價值 60 億美元的災難性加密貨幣駭客攻擊幾天后，幣安財務長辭職",
@@ -304,7 +295,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "川普表示，他向 UFC 選手 Dana White 提供了白宮新聞秘書的職位",
       "summary": [
         "Washington Post：川普表示，他向 UFC 選手 Dana White 提供了白宮新聞秘書的職位",
@@ -325,7 +316,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "川普稱他邀請UFC老闆達納懷特擔任新任新聞秘書",
       "summary": [
         "Financial Times：川普稱他邀請UFC老闆達納懷特擔任新任新聞秘書",
@@ -346,7 +337,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "CoreWeave 要求德州當選州長進行資料中心合作",
       "summary": [
         "Bloomberg Tech：CoreWeave 要求德州當選州長進行資料中心合作",
@@ -367,6 +358,27 @@
       ]
     },
     {
+      "rank": 7,
+      "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
+      "summary": [
+        "The Guardian：巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
+        "WSJ Markets：巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
+          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機",
+          "url": "https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
       "rank": 8,
       "title": "[地震速報] 愛知縣地震強度5+",
       "summary": [
@@ -383,6 +395,21 @@
     },
     {
       "rank": 9,
+      "title": "紐西蘭選舉情勢緊張，聯合政府談判成為焦點",
+      "summary": [
+        "Nikkei Asia：紐西蘭選舉情勢緊張，聯合政府談判成為焦點"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "紐西蘭選舉情勢緊張，聯合政府談判成為焦點",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTkJQTi1HaE13eUluWnpYTVdaaVU2bERrRVRVa05Ia0sxMXJmWmhfWG5DT3d6RWZ4WTV5QWNlTXdhX0ozOG1JX1pIeW1WeUNfcmkyTkZQTm9INmNSeU9HYnVHN1RpUUtKYlU3d2trSk84WkRhZ2VsSkt3WXVjWUdPY0Q3aGFzUGNOQ05fV1FFZk5xY004VFE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "專家：“好像和南海海槽特大地震沒有關係。”",
       "summary": [
         "NHK新聞：專家：“好像和南海海槽特大地震沒有關係。”"
@@ -393,21 +420,6 @@
           "source": "NHK新聞",
           "title": "專家：“好像和南海海槽特大地震沒有關係。”",
           "url": "https://news.web.nhk/newsweb/na/nd-20261108de72284"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "軟銀和ABB考慮剝離交易中國部分以挽救機器人協議",
-      "summary": [
-        "法廣RFI：軟銀和ABB考慮剝離交易中國部分以挽救機器人協議"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "軟銀和ABB考慮剝離交易中國部分以挽救機器人協議",
-          "url": "https://www.rfi.fr/tw/%E7%B6%93%E8%B2%BF/20261107-%E8%BB%9F%E9%8A%80%E5%92%8Cabb%E8%80%83%E6%85%AE%E5%89%9D%E9%9B%A2%E4%BA%A4%E6%98%93%E4%B8%AD%E5%9C%8B%E9%83%A8%E5%88%86%E4%BB%A5%E6%8C%BD%E6%95%91%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%94%E8%AD%B0"
         }
       ]
     }
