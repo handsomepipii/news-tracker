@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 07:15",
+  "updated_at": "2026-11-07 08:08",
   "taiwan": [
     {
       "rank": 1,
@@ -24,27 +24,6 @@
     },
     {
       "rank": 2,
-      "title": "美期中選舉後 馬斯克旗下SpaceX特斯拉市值蒸發近15兆",
-      "summary": [
-        "經濟日報：美期中選舉後 馬斯克旗下SpaceX特斯拉市值蒸發近15兆",
-        "ETtoday：美期中選舉變天！馬斯克特斯拉、SpaceX市值蒸發近15兆元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美期中選舉後 馬斯克旗下SpaceX特斯拉市值蒸發近15兆",
-          "url": "https://money.udn.com/money/story/123398/9862606"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美期中選舉變天！馬斯克特斯拉、SpaceX市值蒸發近15兆元",
-          "url": "https://www.ettoday.net/news/20261106/3267767.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "當場嚇傻！彰化男子毒駕    500萬「陸地頭等艙」慘被沒入拍賣",
       "summary": [
         "自由時報：當場嚇傻！彰化男子毒駕    500萬「陸地頭等艙」慘被沒入拍賣",
@@ -65,7 +44,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "酸民主黨反AI 川普：超級智慧如金 只有蠢蛋領導人才對它說不！",
       "summary": [
         "經濟日報：酸民主黨反AI 川普：超級智慧如金 只有蠢蛋領導人才對它說不！",
@@ -86,7 +65,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "「冰封的記憶」 臺籍西伯利亞戰俘吳正男99歲辭世",
       "summary": [
         "自由時報：「冰封的記憶」 臺籍西伯利亞戰俘吳正男99歲辭世",
@@ -107,7 +86,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "天氣/週六宜花大雨 週日又熱西半部上看33度 下週迎「入秋最強東北季風」探18度｜TVBS新聞 @TVBSNEWS01",
       "summary": [
         "TVBS新聞：天氣/週六宜花大雨 週日又熱西半部上看33度 下週迎「入秋最強東北季風」探18度｜TVBS新聞 @TVBSNEWS01",
@@ -128,7 +107,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "美期中選舉衝擊AI前景 全球股市市值一天蒸發115兆元",
       "summary": [
         "經濟日報：美期中選舉衝擊AI前景 全球股市市值一天蒸發115兆元",
@@ -145,6 +124,27 @@
           "source": "ETtoday",
           "title": "美國期中選舉戳破AI泡沫　全球股市市值一天蒸發115兆元",
           "url": "https://finance.ettoday.net/news/3267840"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "2026金博會》總統賀電首屆「高雄金融博覽會」！陳其邁、莊琇媛帶路看新商機",
+      "summary": [
+        "今周刊：2026金博會》總統賀電首屆「高雄金融博覽會」！陳其邁、莊琇媛帶路看新商機",
+        "風傳媒：2026高雄金融博覽會登場 臺新新光金攜臺新銀、臺新投信參展 | 唐可欣 | 品味生活"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "今周刊",
+          "title": "2026金博會》總統賀電首屆「高雄金融博覽會」！陳其邁、莊琇媛帶路看新商機",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNmdfYW00dERMWjY0MlMwaS0ydFE4ZHAwQlJ2bmFwaThSeDMtM2trLU9hd2ZUMHFCazdPZ24yb0JjMTU2cGVyWmhhS0FCVFI0MWVKeE9qdzhYb2Z2R2RWZVJfQ3JXVjk2eFhyWGFoemZGOXd1VXJoRGEtZXFSb2luUA?oc=5"
+        },
+        {
+          "source": "風傳媒",
+          "title": "2026高雄金融博覽會登場 臺新新光金攜臺新銀、臺新投信參展 | 唐可欣 | 品味生活",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9odTlDal84X0FHaVNTbTZ6cWhIT3pvS3pVcW42OFF0V19mVWhGY2d2UUpYejA1UHRrbjdETENyaU11MWR2am82ams3QWRmZw?oc=5"
         }
       ]
     },
@@ -274,60 +274,6 @@
     },
     {
       "rank": 3,
-      "title": "人工智慧拋售後，逢低買家湧現，美國股指期貨上漲",
-      "summary": [
-        "Bloomberg Markets：人工智慧拋售後，逢低買家湧現，美國股指期貨上漲",
-        "BBC World：市值蒸發數兆美元後，人工智慧股攀升",
-        "CNBC：人工智慧粉碎正在推動一隻股票估值達到天價"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "人工智慧拋售後，逢低買家湧現，美國股指期貨上漲",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-stock-futures-rise-as-dip-buyers-emerge-after-ai-selloff"
-        },
-        {
-          "source": "BBC World",
-          "title": "市值蒸發數兆美元後，人工智慧股攀升",
-          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CNBC",
-          "title": "人工智慧粉碎正在推動一隻股票估值達到天價",
-          "url": "https://www.cnbc.com/2026/11/06/ai-crush-is-powering-one-stock-to-sky-high-valuations.html"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "特斯拉明年將「逐步減少」Cyber​​truck 的生產",
-      "summary": [
-        "The Verge：特斯拉明年將「逐步減少」Cyber​​truck 的生產",
-        "CNBC：馬斯克表示，特斯拉明年將減少德州叫車的生產，以擴大叫車的產能",
-        "Yahoo Finance：特斯拉在少數市場多年銷售不佳後將逐步減少 Cyber​​truck 的生產"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "特斯拉明年將「逐步減少」Cyber​​truck 的生產",
-          "url": "https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027"
-        },
-        {
-          "source": "CNBC",
-          "title": "馬斯克表示，特斯拉明年將減少德州叫車的生產，以擴大叫車的產能",
-          "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "特斯拉在少數市場多年銷售不佳後將逐步減少 Cyber​​truck 的生產",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX05oaUdoem0yaWliNXlaeG5ac19Xb2U2bjEwNFZ3UTJRcnFydmF0cjVPZ3RBcHVGZENnTU5OYmtIa2VlcHBMb1M3VlJjbW00SmY5OW1vN1ZBY0RYLWxzTGRnVVFxU1pWUUNtQ005dzc4ZDRPQ1FobjZuQ3ZHLUhlZ0NCMGJkZjdSZ3lmbzQ2cw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "美國經濟10月新增就業16.5萬個，超出預期",
       "summary": [
         "Financial Times：美國經濟10月新增就業16.5萬個，超出預期",
@@ -354,11 +300,11 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "微軟終止甲骨文租賃人工智慧雲端容量的交易",
       "summary": [
         "Bloomberg Tech：微軟終止甲骨文租賃人工智慧雲端容量的交易",
-        "Investing.com：根據彭博社報道，微軟正逐步終止甲骨文租賃人工智慧雲端容量的交易",
+        "Investing.com：根據彭博社報道，微軟正在終止甲骨文租賃人工智慧雲端容量的交易",
         "Yahoo Finance：根據通報，微軟終止人工智慧雲端容量交易，甲骨文股價下跌 4%"
       ],
       "media_count": 3,
@@ -370,7 +316,7 @@
         },
         {
           "source": "Investing.com",
-          "title": "根據彭博社報道，微軟正逐步終止甲骨文租賃人工智慧雲端容量的交易",
+          "title": "根據彭博社報道，微軟正在終止甲骨文租賃人工智慧雲端容量的交易",
           "url": "https://www.investing.com/news/stock-market-news/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity-bloomberg-news-reports-5008946"
         },
         {
@@ -381,7 +327,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "Meta 的 Muse AI 可以為您現在需要的應用程式版本建立自訂“空間”",
       "summary": [
         "The Verge：Meta 的 Muse AI 可以為您現在需要的應用程式版本建立自訂“空間”",
@@ -408,7 +354,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "隨著投資人權衡拋售是否結束，人工智慧股票反彈",
       "summary": [
         "Bloomberg Tech：隨著投資人權衡拋售是否結束，人工智慧股票反彈",
@@ -429,7 +375,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "OpenAI 財務長告訴 CNBC，儘管選舉結果如何，OpenAI 將繼續投資人工智慧資料中心",
       "summary": [
         "CNBC：OpenAI 財務長告訴 CNBC，儘管選舉結果如何，OpenAI 將繼續投資人工智慧資料中心",
@@ -450,7 +396,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "肯亞末日邪教頭目因謀殺191人被判無期徒刑",
       "summary": [
         "BBC World：肯亞末日邪教頭目因謀殺191人被判無期徒刑",
@@ -467,6 +413,48 @@
           "source": "The Guardian",
           "title": "肯亞末日教頭目因191起謀殺案被判入獄200年",
           "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "由於資料中心建設成為“消耗戰”，人工智慧股票受到中期衝擊的打擊",
+      "summary": [
+        "CNBC：由於資料中心建設成為“消耗戰”，人工智慧股票受到中期衝擊的打擊",
+        "Bloomberg Tech：人工智慧拋售暴露了資料中心繁榮的風險"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "由於資料中心建設成為“消耗戰”，人工智慧股票受到中期衝擊的打擊",
+          "url": "https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "人工智慧拋售暴露了資料中心繁榮的風險",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-06/ai-selloff-exposes-data-center-boom-risks-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "特斯拉將於 2027 年停止生產 Cyber​​truck",
+      "summary": [
+        "TechCrunch：特斯拉將於 2027 年停止生產 Cyber​​truck",
+        "NHK新聞：特斯拉 Cyber​​truck 的生產將逐步停產"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "特斯拉將於 2027 年停止生產 Cyber​​truck",
+          "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "特斯拉 Cyber​​truck 的生產將逐步停產",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261107de71991"
         }
       ]
     }
