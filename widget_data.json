@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 13:45",
+  "updated_at": "2026-11-07 14:51",
   "taiwan": [
     {
       "rank": 1,
@@ -30,33 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "傳臺積電進軍3D DRAM　應輝達要求規劃製造、評估建廠",
-      "summary": [
-        "自由時報：傳臺積電進軍3D DRAM　應輝達要求規劃製造、評估建廠",
-        "經濟日報：傳臺積電進軍3D DRAM　應輝達要求規劃製造、評估建廠",
-        "科技新報：輝達要求臺積電進軍先進記憶體市場？傳組建 3D DRAM 產線解 AI 缺貨荒"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "傳臺積電進軍3D DRAM　應輝達要求規劃製造、評估建廠",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5632308"
-        },
-        {
-          "source": "經濟日報",
-          "title": "傳臺積電進軍3D DRAM　應輝達要求規劃製造、評估建廠",
-          "url": "https://money.udn.com/money/story/5599/9863088"
-        },
-        {
-          "source": "科技新報",
-          "title": "輝達要求臺積電進軍先進記憶體市場？傳組建 3D DRAM 產線解 AI 缺貨荒",
-          "url": "https://finance.technews.tw/2026/11/07/3d-dram/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "共和黨期中選舉落敗　米勒調任白宮幕僚長",
       "summary": [
         "經濟日報：共和黨期中選舉落敗　米勒調任白宮幕僚長",
@@ -77,7 +50,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "巴拉圭陷銀行危機　參議院彈劾總統潘尼亞",
       "summary": [
         "經濟日報：巴拉圭陷銀行危機　參議院彈劾總統潘尼亞",
@@ -98,28 +71,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "竹市首度推動永續及親子友善旅宿認證 10家業者獲表揚 高虹安市長：打造友善旅遊城市",
-      "summary": [
-        "關鍵評論網：竹市首度推動永續及親子友善旅宿認證 10家業者獲表揚 高虹安市長：打造友善旅遊城市",
-        "風傳媒：竹市首度推動永續及親子友善旅宿認證 10家業者獲表揚 高虹安市長：打造友善旅遊城市"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "關鍵評論網",
-          "title": "竹市首度推動永續及親子友善旅宿認證 10家業者獲表揚 高虹安市長：打造友善旅遊城市",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wdXlLd28xeW92YVhGYkc5bmVGVlltYVFGMG93cHY4ZG05MXVJUVpzY1NTNExPbE9XaXI1VXZaMVR0MzA4UUVYZWpmalBIOGdYMXN3RQ?oc=5"
-        },
-        {
-          "source": "風傳媒",
-          "title": "竹市首度推動永續及親子友善旅宿認證 10家業者獲表揚 高虹安市長：打造友善旅遊城市",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVWndwV3plSjBxY0c1TXhjemJFcWdCQXoycjMyMTdxNklJM1NlNlVUZGxfV0cyM21vNmd1SU5seTY0bUlHT0pNRTBKUGM0dw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "科技股反彈仍難挽跌勢　歐股三大指數收黑",
       "summary": [
         "自由時報：科技股反彈仍難挽跌勢　歐股三大指數收黑",
@@ -140,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "傳微軟逐步終止租用甲骨文AI算力　重新評估雲端合作",
       "summary": [
         "自由時報：傳微軟逐步終止租用甲骨文AI算力　重新評估雲端合作",
@@ -161,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "市場衡量中東局勢　油價震盪小漲",
       "summary": [
         "自由時報：市場衡量中東局勢　油價震盪小漲",
@@ -182,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "快訊／U23中華隊3轟退捷克！劉承佑、吳柏萱開轟　林佾葳完投奪勝",
       "summary": [
         "ETtoday：快訊／U23中華隊3轟退捷克！劉承佑、吳柏萱開轟　林佾葳完投奪勝",
@@ -203,7 +155,28 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "title": "今「東北季風」2地涼雨！　下週低溫探16℃",
+      "summary": [
+        "ETtoday：今「東北季風」2地涼雨！　下週低溫探16℃",
+        "公視新聞：20261107 公視午間新聞完整版（無網路版權內容除外）｜今立冬北部降溫有雨下週更強東北季風下探16℃ ｜ 公視新聞PNN"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "今「東北季風」2地涼雨！　下週低溫探16℃",
+          "url": "https://www.ettoday.net/news/20261107/3267870.htm"
+        },
+        {
+          "source": "公視新聞",
+          "title": "20261107 公視午間新聞完整版（無網路版權內容除外）｜今立冬北部降溫有雨下週更強東北季風下探16℃ ｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40azd2UFFvTld0Qmd6OTJFMFo3cDZSZkNUMV9FdVlQUk14dnI4UksxTVpiLXJaeVAtWG1TQnM2VzFLU0xqN0FsMUNTbw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "川習月中APEC會晤 美中官員行前通電磋商",
       "summary": [
         "自由時報：川習月中APEC會晤 美中官員行前通電磋商",
@@ -220,6 +193,27 @@
           "source": "經濟日報",
           "title": "川習月中APEC會晤　美中官員行前通電磋商",
           "url": "https://money.udn.com/money/story/5599/9863188"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "貿易休戰恐生變？英媒：美國警告中國 立即履行釜山貿易協議",
+      "summary": [
+        "經濟日報：貿易休戰恐生變？英媒：美國警告中國 立即履行釜山貿易協議",
+        "ETtoday：不滿中國食言！美警告「立即履行協議」　貿易戰休兵恐生變"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "貿易休戰恐生變？英媒：美國警告中國 立即履行釜山貿易協議",
+          "url": "https://money.udn.com/money/story/5599/9863193"
+        },
+        {
+          "source": "ETtoday",
+          "title": "不滿中國食言！美警告「立即履行協議」　貿易戰休兵恐生變",
+          "url": "https://www.ettoday.net/news/20261107/3267909.htm"
         }
       ]
     }
@@ -259,102 +253,6 @@
     },
     {
       "rank": 2,
-      "title": "微軟終止甲骨文租賃人工智慧雲端容量的交易",
-      "summary": [
-        "Bloomberg Tech：微軟終止甲骨文租賃人工智慧雲端容量的交易",
-        "Investing.com：根據彭博社報道，微軟正逐步終止甲骨文租賃人工智慧雲端容量的交易",
-        "Yahoo Finance：根據通報，微軟終止人工智慧雲端容量交易，甲骨文股價下跌 4%"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "微軟終止甲骨文租賃人工智慧雲端容量的交易",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity"
-        },
-        {
-          "source": "Investing.com",
-          "title": "根據彭博社報道，微軟正逐步終止甲骨文租賃人工智慧雲端容量的交易",
-          "url": "https://www.investing.com/news/stock-market-news/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity-bloomberg-news-reports-5008946"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "根據通報，微軟終止人工智慧雲端容量交易，甲骨文股價下跌 4%",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN25DZl82VVZGblFmVjNxOHdaeFk0WnNFLWV4RWNYSDA2WUtobWRFR2RCOXM2b0pDeW5LenJTLVpwQ09VMmNqTHJvNlA2TGxmNWpZNzV6RDdNU3FlZ3U2cjVodXRjejduQnhXZFRsR1pVTzZ4VHhuYVBXSDExZmEzUWt2ZXZ1cFdNNDlyUFhSMDZCR0owcVEzY2hOdk52RkZa?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Meta 的 Muse AI 可以為您現在需要的應用程式版本建立自訂“空間”",
-      "summary": [
-        "The Verge：Meta 的 Muse AI 可以為您現在需要的應用程式版本建立自訂“空間”",
-        "TechCrunch：Meta 推出 Spaces，這是與 Muse 代理程式協作的新方式",
-        "Investing.com：Meta 的 Muse 應用程式新增了可自訂空間功能"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "Meta 的 Muse AI 可以為您現在需要的應用程式版本建立自訂“空間”",
-          "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Meta 推出 Spaces，這是與 Muse 代理程式協作的新方式",
-          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Meta 的 Muse 應用程式新增了可自訂空間功能",
-          "url": "https://www.investing.com/news/stock-market-news/metas-muse-app-adds-customizable-spaces-feature-93CH-5009233"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "歐盟調查西班牙致命高鐵線路的“欺詐”",
-      "summary": [
-        "Financial Times：歐盟調查西班牙致命高鐵線路的“欺詐”",
-        "BBC World：烏爾達鐵路災難後，西班牙鐵路當局面臨歐洲詐欺調查"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "歐盟調查西班牙致命高鐵線路的“欺詐”",
-          "url": "https://www.ft.com/content/888d77c4-c771-4390-95ef-efcee413ef32?syn-25a6b1a6=1"
-        },
-        {
-          "source": "BBC World",
-          "title": "烏爾達鐵路災難後，西班牙鐵路當局面臨歐洲詐欺調查",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "馬斯克稱 SpaceX 將從美國政府獲得低於 10% 的收入",
-      "summary": [
-        "Bloomberg Tech：馬斯克稱 SpaceX 將從美國政府獲得低於 10% 的收入",
-        "Investing.com：馬斯克稱 SpaceX 政府合約比例將低於收入的 10%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "馬斯克稱 SpaceX 將從美國政府獲得低於 10% 的收入",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/spacex-to-get-under-10-of-revenue-from-us-government-musk-says"
-        },
-        {
-          "source": "Investing.com",
-          "title": "馬斯克稱 SpaceX 政府合約比例將低於收入的 10%",
-          "url": "https://www.investing.com/news/stock-market-news/spacex-government-contracts-to-be-under-10-of-revenue-musk-says-5008950"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Walleye 將在股票交易重置中向客戶返還 20 億美元",
       "summary": [
         "Bloomberg Markets：Walleye 將在股票交易重置中向客戶返還 20 億美元",
@@ -375,7 +273,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 3,
       "title": "隨著低迷買家重返人工智慧交易，科技股反彈",
       "summary": [
         "Bloomberg Tech：隨著低迷買家重返人工智慧交易，科技股反彈",
@@ -396,7 +294,28 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
+      "title": "Meta 推出 Spaces，這是與 Muse 代理程式協作的新方式",
+      "summary": [
+        "TechCrunch：Meta 推出 Spaces，這是與 Muse 代理程式協作的新方式",
+        "Investing.com：Meta 的 Muse 應用程式新增了可自訂空間功能"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "Meta 推出 Spaces，這是與 Muse 代理程式協作的新方式",
+          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Meta 的 Muse 應用程式新增了可自訂空間功能",
+          "url": "https://www.investing.com/news/stock-market-news/metas-muse-app-adds-customizable-spaces-feature-93CH-5009233"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "谷歌接管魯濱遜提出的懷俄明州資料中心",
       "summary": [
         "Bloomberg Tech：谷歌接管魯濱遜提出的懷俄明州資料中心",
@@ -417,7 +336,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "人工智慧粉碎正在推動一隻股票估值達到天價",
       "summary": [
         "CNBC：人工智慧粉碎正在推動一隻股票估值達到天價",
@@ -438,7 +357,28 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "title": "根據彭博社報道，微軟正在終止甲骨文租賃人工智慧雲端容量的交易",
+      "summary": [
+        "Investing.com：根據彭博社報道，微軟正在終止甲骨文租賃人工智慧雲端容量的交易",
+        "Yahoo Finance：根據通報，微軟終止人工智慧雲端容量交易，甲骨文股價下跌 4%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "根據彭博社報道，微軟正在終止甲骨文租賃人工智慧雲端容量的交易",
+          "url": "https://www.investing.com/news/stock-market-news/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity-bloomberg-news-reports-5008946"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "根據通報，微軟終止人工智慧雲端容量交易，甲骨文股價下跌 4%",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN25DZl82VVZGblFmVjNxOHdaeFk0WnNFLWV4RWNYSDA2WUtobWRFR2RCOXM2b0pDeW5LenJTLVpwQ09VMmNqTHJvNlA2TGxmNWpZNzV6RDdNU3FlZ3U2cjVodXRjejduQnhXZFRsR1pVTzZ4VHhuYVBXSDExZmEzUWt2ZXZ1cFdNNDlyUFhSMDZCR0owcVEzY2hOdk52RkZa?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "OpenAI 完成 110 億美元部分融資，價值 1.25 兆美元",
       "summary": [
         "Bloomberg Tech：OpenAI 完成 110 億美元部分融資，價值 1.25 兆美元",
@@ -455,6 +395,42 @@
           "source": "TechCrunch",
           "title": "據報道 OpenAI 額外融資 110 億美元，估值 1.25 兆美元",
           "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "康乃爾大學教職人員對領導階層對無名氏指控的處理方式進行了不信任投票",
+      "summary": [
+        "BBC World：康乃爾大學教職人員對領導階層對無名氏指控的處理方式進行了不信任投票",
+        "Washington Post：康乃爾大學教師參議院投票對大學領導層不信任"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "康乃爾大學教職人員對領導階層對無名氏指控的處理方式進行了不信任投票",
+          "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Washington Post",
+          "title": "康乃爾大學教師參議院投票對大學領導層不信任",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRVhMOEQzSUpNV1Y1WkVocExlQ3ZLZjVic1hfRUR1dmpKTjIwWjNpZ1Q1V2tXSThrWFlFUFJaSVc4TVp2eEJyeUJSSVRaLUNsQzB4UFRJZFdYMS1DTVZ0MXQxc0owWkZxZHp2cnJtVTJ1R0cxSFlNX19CVXJKMVBsOTBwZUU5aEZiWnUwVThNeFlCY3BGVlJTMFd5eXJiNWNQWkFRclpIMEI2Nm5ZbDNBU1QwZ0xpZWFJ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "特斯拉在少數市場多年銷售不佳後將逐步減少 Cyber​​truck 的生產",
+      "summary": [
+        "Yahoo Finance：特斯拉在少數市場多年銷售不佳後將逐步減少 Cyber​​truck 的生產"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "特斯拉在少數市場多年銷售不佳後將逐步減少 Cyber​​truck 的生產",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX05oaUdoem0yaWliNXlaeG5ac19Xb2U2bjEwNFZ3UTJRcnFydmF0cjVPZ3RBcHVGZENnTU5OYmtIa2VlcHBMb1M3VlJjbW00SmY5OW1vN1ZBY0RYLWxzTGRnVVFxU1pWUUNtQ005dzc4ZDRPQ1FobjZuQ3ZHLUhlZ0NCMGJkZjdSZ3lmbzQ2cw?oc=5"
         }
       ]
     }
