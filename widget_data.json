@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-08 05:11",
+  "updated_at": "2026-11-08 06:09",
   "taiwan": [
     {
       "rank": 1,
+      "title": "日本中部規模5.7地震無海嘯威脅　愛知縣疑兩人受傷",
+      "summary": [
+        "自由時報：日本中部規模5.7地震無海嘯威脅　愛知縣疑兩人受傷",
+        "經濟日報：日本中部規模5.7地震無海嘯威脅　愛知縣疑兩人受傷",
+        "ETtoday：日本中部規模5.7地震　愛知縣傳2傷"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "日本中部規模5.7地震無海嘯威脅　愛知縣疑兩人受傷",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5633210"
+        },
+        {
+          "source": "經濟日報",
+          "title": "日本中部規模5.7地震無海嘯威脅　愛知縣疑兩人受傷",
+          "url": "https://money.udn.com/money/story/5599/9864455"
+        },
+        {
+          "source": "ETtoday",
+          "title": "日本中部規模5.7地震　愛知縣傳2傷",
+          "url": "https://www.ettoday.net/news/20261108/3268269.htm"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "歐洲多國媒體收恐嚇信愛爾蘭電視臺疏散人員影響播出｜20261107 公視晚間新聞｜ 公視新聞PNN",
       "summary": [
         "公視新聞：歐洲多國媒體收恐嚇信愛爾蘭電視臺疏散人員影響播出｜20261107 公視晚間新聞｜ 公視新聞PNN",
@@ -23,91 +50,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "肯亞邪教虐殺案釀190童死 主嫌遭判200年徒刑",
-      "summary": [
-        "公視新聞：肯亞邪教虐殺案釀190童死 主嫌遭判200年徒刑",
-        "經濟日報：肯亞邪教教主下令絕食餓死190名孩童　遭判200年徒刑"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公視新聞",
-          "title": "肯亞邪教虐殺案釀190童死 主嫌遭判200年徒刑",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42eVRWTHJLd0FEWVBiODMxMjBITTZPNHIzbjhEdmluVEV4OTVkZXdzMHNQMGFrb2EyY0JSak0wSE16MzNGbFFVM2RLa19XR0E?oc=5"
-        },
-        {
-          "source": "經濟日報",
-          "title": "肯亞邪教教主下令絕食餓死190名孩童　遭判200年徒刑",
-          "url": "https://money.udn.com/money/story/5599/9864228"
-        }
-      ]
-    },
-    {
       "rank": 3,
-      "title": "遭沈伯洋酸一路模仿「怕真的變成合格市長」 蔣萬安回應了",
-      "summary": [
-        "中時新聞：遭沈伯洋酸一路模仿「怕真的變成合格市長」 蔣萬安回應了",
-        "自由時報：完美對照組！他曝蔣萬安只想演市長  沈伯洋卻要當市長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "遭沈伯洋酸一路模仿「怕真的變成合格市長」 蔣萬安回應了",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMc1VFVEh5ODY3Y0lpMEM2XzRTNElBTVZ1QXdxVHVzWXpvZmpDanAxMkxJX2ZXS0dNVjlQOWtVQjhxTnNuNWdTRG84TURCc1hFNHNiNTBQTmd2NThhU245VzhHMUMyZTRCSVJjamNB?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "完美對照組！他曝蔣萬安只想演市長  沈伯洋卻要當市長",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633006"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "赤腳男詭靠近女童 公車司機霸氣吼:坐好｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-      "summary": [
-        "TVBS新聞：赤腳男詭靠近女童 公車司機霸氣吼:坐好｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-        "ETtoday：赤腳怪男公車緊盯女童！霸氣司機吼「坐好不然報警」…他變乖了"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "赤腳男詭靠近女童 公車司機霸氣吼:坐好｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MSTVhd0JQVTJQTjVVU3k4b1lqSUIxQ3FlUTFQWFROVmtUamRQTUkxMGpEMEdWQWxCUGtGdFRTaXVTcWY3RlhMVS1BaERRT0txRFdESzFR?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "赤腳怪男公車緊盯女童！霸氣司機吼「坐好不然報警」…他變乖了",
-          "url": "https://www.ettoday.net/news/20261108/3268257.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "沛亨佈局光通訊產業，斥資3億元收購建毅科技100%股權",
-      "summary": [
-        "MoneyDJ理財網：沛亨佈局光通訊產業，斥資3億元收購建毅科技100%股權",
-        "公開資訊觀測站重訊：沛亨佈局光通訊產業 斥資3億元收購建毅科技股權"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "沛亨佈局光通訊產業，斥資3億元收購建毅科技100%股權",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb2k1aC1fMlp6M3FiUlRkckVQZUtUbE9wTHc3MDBoUWF0NEN3dzc2NWxnQVgzVkx0Q1JHVENRejhnQ1JsUE5ndWE0aEF6OE0weUlDempIX3pGRzRQcGIyVzg1Q2NCY1AwTVN0d2Q2YWNNaXVCOEN2b1h6OE1IdDl0aVRvWTA5amxIUGRrelcyX1FWdw?oc=5"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "沛亨佈局光通訊產業 斥資3億元收購建毅科技股權",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsOVJDMmtWa05WTF9KM2R0cV9VeTFxYmRiVU5aZ0dQMllndTB6LW01WGpPZmh0SFI5SnZuSS1SYXN5Ml9ranlsSzFwZFBTUjRPM0J6Sk52RG5wTTl2allr0gFkQVVfeXFMTm50RnpSNEtaamRiZy1rWC1ZZU1YMGU5RTZBMWlNMnlWeTY2TzZMeDlYTEVWNGdDN1JoMU1RMTZ1czhtX2RsOGRDaFJSRWlVbWxzdU9RaUQzdk1DbEhxUVU0SWtNaQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "白宮幕僚長威爾斯去職　英媒：川普因選舉慘敗怒斥她",
       "summary": [
         "經濟日報：白宮幕僚長威爾斯去職　英媒：川普因選舉慘敗怒斥她",
@@ -128,7 +71,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "《半導體》華邦電擴產明年效益顯現董座焦佑鈞：記憶體漲價應見頂- 上市櫃",
       "summary": [
         "中時新聞：《半導體》華邦電擴產明年效益顯現董座焦佑鈞：記憶體漲價應見頂- 上市櫃",
@@ -149,7 +92,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "臺男曼谷商場墜樓亡身分曝！留iPhone、女兒護照 謎團待解",
       "summary": [
         "中時新聞：臺男曼谷商場墜樓亡身分曝！留iPhone、女兒護照 謎團待解",
@@ -170,7 +113,28 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
+      "title": "沈伯洋.李洋雙強合體 「大洋流」車掃抵港湖｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+      "summary": [
+        "TVBS新聞：沈伯洋.李洋雙強合體 「大洋流」車掃抵港湖｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "自由時報：港湖大洋流車掃 李洋現身 同框沈伯洋"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "沈伯洋.李洋雙強合體 「大洋流」車掃抵港湖｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16Uzg2SkdCS3VGOGJ5ZG9aeVNTMjFwQzB1aTAtYjBEQmpXSGt4WWZvdDZwSXVQYzlWMzZZajZONl9GMVZPaWRGcUZUN0s5Tzcwb1pxY29B?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "港湖大洋流車掃 李洋現身 同框沈伯洋",
+          "url": "https://news.ltn.com.tw/news/politics/paper/1777607"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "小巨蛋暴動了！告五人唱到一半女神莫文蔚降臨 雲安喊羨慕嫉妒吧",
       "summary": [
         "自由時報：小巨蛋暴動了！告五人唱到一半女神莫文蔚降臨 雲安喊羨慕嫉妒吧",
@@ -191,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "波蘭第二大城爆槍擊2死10傷　總理發文稱悲劇",
       "summary": [
         "經濟日報：波蘭第二大城爆槍擊2死10傷　總理發文稱悲劇",
@@ -210,32 +174,53 @@
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5633195"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "波蘭槍擊案釀6死15傷　男嫌遭警方開槍擊中後送醫",
+      "summary": [
+        "自由時報：波蘭槍擊案釀6死15傷　男嫌遭警方開槍擊中後送醫",
+        "經濟日報：波蘭槍擊案釀6死15傷　男嫌遭警方開槍擊中後送醫"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "波蘭槍擊案釀6死15傷　男嫌遭警方開槍擊中後送醫",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5633208"
+        },
+        {
+          "source": "經濟日報",
+          "title": "波蘭槍擊案釀6死15傷　男嫌遭警方開槍擊中後送醫",
+          "url": "https://money.udn.com/money/story/5599/9864453"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "幣安財務長將離職　支付平臺Airwallex高層接任",
+      "summary": [
+        "自由時報：幣安財務長將離職　支付平臺Airwallex高層接任",
+        "經濟日報：幣安財務長將離職　支付平臺Airwallex高層接任"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "幣安財務長將離職　支付平臺Airwallex高層接任",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5633219"
+        },
+        {
+          "source": "經濟日報",
+          "title": "幣安財務長將離職　支付平臺Airwallex高層接任",
+          "url": "https://money.udn.com/money/story/5599/9864469"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "軟銀和 ABB 考慮將中國排除在外以挽救機器人交易",
-      "summary": [
-        "Bloomberg Tech：軟銀和 ABB 考慮將中國排除在外以挽救機器人交易",
-        "法廣RFI：軟銀和ABB考慮剝離交易中國部分以挽救機器人協議"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "軟銀和 ABB 考慮將中國排除在外以挽救機器人交易",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "軟銀和ABB考慮剝離交易中國部分以挽救機器人協議",
-          "url": "https://www.rfi.fr/tw/%E7%B6%93%E8%B2%BF/20261107-%E8%BB%9F%E9%8A%80%E5%92%8Cabb%E8%80%83%E6%85%AE%E5%89%9D%E9%9B%A2%E4%BA%A4%E6%98%93%E4%B8%AD%E5%9C%8B%E9%83%A8%E5%88%86%E4%BB%A5%E6%8C%BD%E6%95%91%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%94%E8%AD%B0"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "紐西蘭選舉情勢緊張，聯合政府談判成為焦點",
       "summary": [
         "Nikkei Asia：紐西蘭選舉情勢緊張，聯合政府談判成為焦點",
@@ -256,7 +241,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "波克夏海瑟威的營業利潤下降，回購增加",
       "summary": [
         "Bloomberg Markets：波克夏海瑟威的營業利潤下降，回購增加",
@@ -277,7 +262,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "美國情報機構認為黃仁勳在蜜罐行動中與中國間諜有浪漫關係",
       "summary": [
         "Tom's Hardware：美國情報機構認為黃仁勳在蜜罐行動中與中國間諜有浪漫關係",
@@ -298,7 +283,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "在價值 60 億美元的災難性加密貨幣駭客攻擊幾天后，幣安財務長辭職",
       "summary": [
         "Investing.com：在價值 60 億美元的災難性加密貨幣駭客攻擊幾天后，幣安財務長辭職",
@@ -319,7 +304,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "川普表示，他向 UFC 選手 Dana White 提供了白宮新聞秘書的職位",
       "summary": [
         "Washington Post：川普表示，他向 UFC 選手 Dana White 提供了白宮新聞秘書的職位",
@@ -340,7 +325,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "川普稱他邀請UFC老闆達納懷特擔任新任新聞秘書",
       "summary": [
         "Financial Times：川普稱他邀請UFC老闆達納懷特擔任新任新聞秘書",
@@ -361,7 +346,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "CoreWeave 要求德州當選州長進行資料中心合作",
       "summary": [
         "Bloomberg Tech：CoreWeave 要求德州當選州長進行資料中心合作",
@@ -382,7 +367,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "[地震速報] 愛知縣地震強度5+",
       "summary": [
         "NHK新聞：[地震速報] 愛知縣地震強度5+"
@@ -397,7 +382,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "專家：“好像和南海海槽特大地震沒有關係。”",
       "summary": [
         "NHK新聞：專家：“好像和南海海槽特大地震沒有關係。”"
@@ -408,6 +393,21 @@
           "source": "NHK新聞",
           "title": "專家：“好像和南海海槽特大地震沒有關係。”",
           "url": "https://news.web.nhk/newsweb/na/nd-20261108de72284"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "軟銀和ABB考慮剝離交易中國部分以挽救機器人協議",
+      "summary": [
+        "法廣RFI：軟銀和ABB考慮剝離交易中國部分以挽救機器人協議"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "軟銀和ABB考慮剝離交易中國部分以挽救機器人協議",
+          "url": "https://www.rfi.fr/tw/%E7%B6%93%E8%B2%BF/20261107-%E8%BB%9F%E9%8A%80%E5%92%8Cabb%E8%80%83%E6%85%AE%E5%89%9D%E9%9B%A2%E4%BA%A4%E6%98%93%E4%B8%AD%E5%9C%8B%E9%83%A8%E5%88%86%E4%BB%A5%E6%8C%BD%E6%95%91%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8D%94%E8%AD%B0"
         }
       ]
     }
