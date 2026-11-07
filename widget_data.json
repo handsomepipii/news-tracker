@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 15:57",
+  "updated_at": "2026-11-07 16:48",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "今「東北季風」2地涼雨！　下週低溫探16℃",
+      "summary": [
+        "ETtoday：今「東北季風」2地涼雨！　下週低溫探16℃",
+        "公視新聞：20261107 公視午間新聞完整版（無網路版權內容除外）｜今立冬北部降溫有雨下週更強東北季風下探16℃ ｜ 公視新聞PNN",
+        "TVBS新聞：下週北部低溫探16度! 立冬進補「補錯更傷身」｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "今「東北季風」2地涼雨！　下週低溫探16℃",
+          "url": "https://www.ettoday.net/news/20261107/3267870.htm"
+        },
+        {
+          "source": "公視新聞",
+          "title": "20261107 公視午間新聞完整版（無網路版權內容除外）｜今立冬北部降溫有雨下週更強東北季風下探16℃ ｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40azd2UFFvTld0Qmd6OTJFMFo3cDZSZkNUMV9FdVlQUk14dnI4UksxTVpiLXJaeVAtWG1TQnM2VzFLU0xqN0FsMUNTbw?oc=5"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "下週北部低溫探16度! 立冬進補「補錯更傷身」｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RNjBlVlFNNTMyRjR2aTA5ajZRTkhVSnpKNGp4YTFZWF9ZdE9ROExhdTdxNl8yTEpzUUFpQ3NBaDBrMThwdFdqX0Z0dlNwNGdfU1k3VDdB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "共和黨期中選舉落敗　米勒調任白宮幕僚長",
       "summary": [
         "經濟日報：共和黨期中選舉落敗　米勒調任白宮幕僚長",
@@ -50,7 +77,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "巴拉圭陷銀行危機　參議院彈劾總統潘尼亞",
       "summary": [
         "經濟日報：巴拉圭陷銀行危機　參議院彈劾總統潘尼亞",
@@ -71,7 +98,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "傳微軟逐步終止租用甲骨文AI算力　重新評估雲端合作",
       "summary": [
         "自由時報：傳微軟逐步終止租用甲骨文AI算力　重新評估雲端合作",
@@ -92,7 +119,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "市場衡量中東局勢　油價震盪小漲",
       "summary": [
         "自由時報：市場衡量中東局勢　油價震盪小漲",
@@ -113,7 +140,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "快訊／U23中華隊3轟退捷克！劉承佑、吳柏萱開轟　林佾葳完投奪勝",
       "summary": [
         "ETtoday：快訊／U23中華隊3轟退捷克！劉承佑、吳柏萱開轟　林佾葳完投奪勝",
@@ -134,7 +161,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "美資料中心建置放緩　一文看臺灣AI供應鏈影響性",
       "summary": [
         "ETtoday：美資料中心建置放緩　一文看臺灣AI供應鏈影響性",
@@ -151,27 +178,6 @@
           "source": "科技新報",
           "title": "一張圖看美國資料中心建置放緩對臺灣 AI 供應鏈影響！法人稱訂單僅遞延",
           "url": "https://finance.technews.tw/2026/11/07/taiwans-ai-supply-chain/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "今「東北季風」2地涼雨！　下週低溫探16℃",
-      "summary": [
-        "ETtoday：今「東北季風」2地涼雨！　下週低溫探16℃",
-        "公視新聞：20261107 公視午間新聞完整版（無網路版權內容除外）｜今立冬北部降溫有雨下週更強東北季風下探16℃ ｜ 公視新聞PNN"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "今「東北季風」2地涼雨！　下週低溫探16℃",
-          "url": "https://www.ettoday.net/news/20261107/3267870.htm"
-        },
-        {
-          "source": "公視新聞",
-          "title": "20261107 公視午間新聞完整版（無網路版權內容除外）｜今立冬北部降溫有雨下週更強東北季風下探16℃ ｜ 公視新聞PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40azd2UFFvTld0Qmd6OTJFMFo3cDZSZkNUMV9FdVlQUk14dnI4UksxTVpiLXJaeVAtWG1TQnM2VzFLU0xqN0FsMUNTbw?oc=5"
         }
       ]
     },
@@ -221,90 +227,27 @@
   "global": [
     {
       "rank": 1,
-      "title": "川普任命史蒂芬·米勒為新任白宮辦公廳主任",
+      "title": "特斯拉 Cyber​​truck 的生產將逐步停產",
       "summary": [
-        "Washington Post：川普任命史蒂芬·米勒為新任白宮辦公廳主任",
-        "Nikkei Asia：川普晉升史蒂芬·米勒為幕僚長，接替懷爾斯"
+        "NHK新聞：特斯拉 Cyber​​truck 的生產將逐步停產",
+        "Yahoo Finance：特斯拉在少數市場多年銷售不佳後將逐步減少 Cyber​​truck 的生產"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Washington Post",
-          "title": "川普任命史蒂芬·米勒為新任白宮辦公廳主任",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUdhNU1vVzIzTjBRY0VsWlhFdHF2dGJUbUxLOHRSa0owZXdqMXpSaWdfYmhMUFBOand0QzFLWVVHLTh2ZTZTcmNhVmRfSnIyMFNQcDZkaEdDak0xWjZiTHJQcFBYVG1GTi12bXhqX0lyNi1PdmFqREhVSFlmazNUZDc4Mm1aTTdIc0VsZnUwaWQtcldjTEJPRndKTVNyV3FkNHR1YlM1d3p5QQ?oc=5"
+          "source": "NHK新聞",
+          "title": "特斯拉 Cyber​​truck 的生產將逐步停產",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261107de71991"
         },
         {
-          "source": "Nikkei Asia",
-          "title": "川普晉升史蒂芬·米勒為幕僚長，接替懷爾斯",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTjY2MDFfbHBvWVZ2UFhkUmUtN0YzT1JrTXQ5Nm5PUVlxZjJqZEVzbm9ZZy14YUlpY2J0ekwxM2hvYXZiV1NmMHpCbkJDNWFBME9XVVJ5UkxhZGRJbHYyUFMtMzBpRGVaRWV1OURTUFp6NTVPUmwxWnY1emlNR29vTEVGbWNhMnJZb3V0Xy1SLUZtcHVyUlFZb3drS3JjcU1VT2NLaVhaOGdFakF0b1NTWlFUbGRFQl9KUXc?oc=5"
+          "source": "Yahoo Finance",
+          "title": "特斯拉在少數市場多年銷售不佳後將逐步減少 Cyber​​truck 的生產",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX05oaUdoem0yaWliNXlaeG5ac19Xb2U2bjEwNFZ3UTJRcnFydmF0cjVPZ3RBcHVGZENnTU5OYmtIa2VlcHBMb1M3VlJjbW00SmY5OW1vN1ZBY0RYLWxzTGRnVVFxU1pWUUNtQ005dzc4ZDRPQ1FobjZuQ3ZHLUhlZ0NCMGJkZjdSZ3lmbzQ2cw?oc=5"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "谷歌接管魯濱遜提出的懷俄明州資料中心",
-      "summary": [
-        "Bloomberg Tech：谷歌接管魯濱遜提出的懷俄明州資料中心",
-        "Investing.com：隨著超大規模企業轉向擁有人工智慧能力，Google購買了懷俄明州資料中心站點"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "谷歌接管魯濱遜提出的懷俄明州資料中心",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/google-takes-over-wyoming-data-center-that-crusoe-had-pitched"
-        },
-        {
-          "source": "Investing.com",
-          "title": "隨著超大規模企業轉向擁有人工智慧能力，Google購買了懷俄明州資料中心站點",
-          "url": "https://www.investing.com/news/stock-market-news/google-buys-wyoming-data-center-site-as-hyperscalers-move-to-own-ai-capacity-93CH-5009109"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "人工智慧粉碎正在推動一隻股票估值達到天價",
-      "summary": [
-        "CNBC：人工智慧粉碎正在推動一隻股票估值達到天價",
-        "WSJ Markets：將人工智慧投資者推向崩潰邊緣的瘋狂一週"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "人工智慧粉碎正在推動一隻股票估值達到天價",
-          "url": "https://www.cnbc.com/2026/11/06/ai-crush-is-powering-one-stock-to-sky-high-valuations.html"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "將人工智慧投資者推向崩潰邊緣的瘋狂一週",
-          "url": "https://www.wsj.com/finance/stocks/midterms-markets-week-ai-trade-97b3fc5d?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "根據彭博社報道，微軟正在終止甲骨文租賃人工智慧雲端容量的交易",
-      "summary": [
-        "Investing.com：根據彭博社報道，微軟正在終止甲骨文租賃人工智慧雲端容量的交易",
-        "Yahoo Finance：根據通報，微軟終止人工智慧雲端容量交易，甲骨文股價下跌 4%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "根據彭博社報道，微軟正在終止甲骨文租賃人工智慧雲端容量的交易",
-          "url": "https://www.investing.com/news/stock-market-news/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity-bloomberg-news-reports-5008946"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "根據通報，微軟終止人工智慧雲端容量交易，甲骨文股價下跌 4%",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN25DZl82VVZGblFmVjNxOHdaeFk0WnNFLWV4RWNYSDA2WUtobWRFR2RCOXM2b0pDeW5LenJTLVpwQ09VMmNqTHJvNlA2TGxmNWpZNzV6RDdNU3FlZ3U2cjVodXRjejduQnhXZFRsR1pVTzZ4VHhuYVBXSDExZmEzUWt2ZXZ1cFdNNDlyUFhSMDZCR0owcVEzY2hOdk52RkZa?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "OpenAI 完成 110 億美元部分融資，價值 1.25 兆美元",
       "summary": [
         "Bloomberg Tech：OpenAI 完成 110 億美元部分融資，價值 1.25 兆美元",
@@ -325,7 +268,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 3,
       "title": "康乃爾大學教職人員對領導階層對無名氏指控的處理方式進行了不信任投票",
       "summary": [
         "BBC World：康乃爾大學教職人員對領導階層對無名氏指控的處理方式進行了不信任投票",
@@ -346,62 +289,107 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "特斯拉在少數市場多年銷售不佳後將逐步減少 Cyber​​truck 的生產",
+      "rank": 4,
+      "title": "隨著超大規模企業轉向擁有人工智慧能力，Google購買了懷俄明州資料中心站點",
       "summary": [
-        "Yahoo Finance：特斯拉在少數市場多年銷售不佳後將逐步減少 Cyber​​truck 的生產"
+        "Investing.com：隨著超大規模企業轉向擁有人工智慧能力，Google購買了懷俄明州資料中心站點"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "特斯拉在少數市場多年銷售不佳後將逐步減少 Cyber​​truck 的生產",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX05oaUdoem0yaWliNXlaeG5ac19Xb2U2bjEwNFZ3UTJRcnFydmF0cjVPZ3RBcHVGZENnTU5OYmtIa2VlcHBMb1M3VlJjbW00SmY5OW1vN1ZBY0RYLWxzTGRnVVFxU1pWUUNtQ005dzc4ZDRPQ1FobjZuQ3ZHLUhlZ0NCMGJkZjdSZ3lmbzQ2cw?oc=5"
+          "source": "Investing.com",
+          "title": "隨著超大規模企業轉向擁有人工智慧能力，Google購買了懷俄明州資料中心站點",
+          "url": "https://www.investing.com/news/stock-market-news/google-buys-wyoming-data-center-site-as-hyperscalers-move-to-own-ai-capacity-93CH-5009109"
         }
       ]
     },
     {
-      "rank": 8,
-      "title": "特朗普:將很快決定是否恢復對伊朗大規模軍事行動",
+      "rank": 5,
+      "title": "印度首都新政：為50萬個貧民窟家庭提供永久住房的計畫",
       "summary": [
-        "法廣RFI：特朗普:將很快決定是否恢復對伊朗大規模軍事行動"
+        "法廣RFI：印度首都新政：為50萬個貧民窟家庭提供永久住房的計畫"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "特朗普:將很快決定是否恢復對伊朗大規模軍事行動",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E5%88%86%E6%9E%90/20261106-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%B0%87%E5%BE%88%E5%BF%AB%E6%B1%BA%E5%AE%9A%E6%98%AF%E5%90%A6%E6%81%A2%E5%BE%A9%E5%B0%8D%E5%BE%B7%E9%BB%91%E8%98%AD%E5%A4%A7%E8%A6%8F%E6%A8%A1%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95"
+          "title": "印度首都新政：為50萬個貧民窟家庭提供永久住房的計畫",
+          "url": "https://www.rfi.fr/tw/%E7%A4%BE%E6%9C%83/20261106-%E5%8D%B0%E5%BA%A6%E9%A6%96%E9%83%BD%E6%96%B0%E6%94%BF-%E7%82%BA50%E8%90%AC%E5%80%8B%E8%B2%A7%E6%B0%91%E7%AA%9F%E5%AE%B6%E5%BA%AD%E6%8F%90%E4%BE%9B%E6%B0%B8%E4%B9%85%E4%BD%8F%E6%88%BF%E7%9A%84%E8%A8%88%E7%95%AB"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "眾議院透過消費稅減免法案；參議院朝野共識的重點",
+      "summary": [
+        "NHK新聞：眾議院透過消費稅減免法案；參議院朝野共識的重點"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "眾議院透過消費稅減免法案；參議院朝野共識的重點",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261107de71985"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "臺灣發表緊急宣告一年後，改善關係的時間已經不多了，日本政府尋求對話途徑",
+      "summary": [
+        "NHK新聞：臺灣發表緊急宣告一年後，改善關係的時間已經不多了，日本政府尋求對話途徑"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "臺灣發表緊急宣告一年後，改善關係的時間已經不多了，日本政府尋求對話途徑",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261106de71967"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "歐洲客機收到炸彈威脅，電視臺也成為目標",
+      "summary": [
+        "NHK新聞：歐洲客機收到炸彈威脅，電視臺也成為目標"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "歐洲客機收到炸彈威脅，電視臺也成為目標",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261107de71996"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "大分陸上自衛隊戰車事故造成3人死亡；先前的砲彈碎片可能是造成事故的原因",
+      "title": "投資人對回購活動保持警惕，納斯達克指數暫時上漲 2%",
       "summary": [
-        "NHK新聞：大分陸上自衛隊戰車事故造成3人死亡；先前的砲彈碎片可能是造成事故的原因"
+        "NHK新聞：投資人對回購活動保持警惕，納斯達克指數暫時上漲 2%"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "大分陸上自衛隊戰車事故造成3人死亡；先前的砲彈碎片可能是造成事故的原因",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261107de71984"
+          "title": "投資人對回購活動保持警惕，納斯達克指數暫時上漲 2%",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261107de72002"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "冒充國家稅務局的虛假電子郵件正在迅速增加：“退款程式沒有透過電子郵件進行說明。”",
+      "title": "梅根馬克爾分居的父親因兒童色情指控被捕",
       "summary": [
-        "NHK新聞：冒充國家稅務局的虛假電子郵件正在迅速增加：“退款程式沒有透過電子郵件進行說明。”"
+        "Washington Post：梅根馬克爾分居的父親因兒童色情指控被捕"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "冒充國家稅務局的虛假電子郵件正在迅速增加：“退款程式沒有透過電子郵件進行說明。”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261106de71902"
+          "source": "Washington Post",
+          "title": "梅根馬克爾分居的父親因兒童色情指控被捕",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVUx3WjI5OWdSS1FqYnFZSzdzcHBXVEdoYmloTzhLVHAtVzFITWtzeXUwbUlaOXRDVkJseFFGVlE4R0F4eUxMTUhRMk5nMGQxYVRWc1I1OHZrdWFkNjhlNUg1UkJlZFVzZXp1Wk1McnlxUW14VXpxMzJaT3JraTFRdW9YcW1IYU1NQUYwc21uTy1KV01xRzA3MDF1Yjh5NTVmMlNxdG5lV0d3eEtu?oc=5"
         }
       ]
     }
