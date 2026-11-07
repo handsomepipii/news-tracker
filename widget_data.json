@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 12:49",
+  "updated_at": "2026-11-07 13:45",
   "taiwan": [
     {
       "rank": 1,
@@ -99,48 +99,6 @@
     },
     {
       "rank": 5,
-      "title": "隨機攻擊臺中放學學童 木棍男收押",
-      "summary": [
-        "自由時報：隨機攻擊臺中放學學童 木棍男收押",
-        "ETtoday：校園外隨機攻擊！臺中男木棒毆打放學學童　遭當庭逮捕收押"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "隨機攻擊臺中放學學童 木棍男收押",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5632301"
-        },
-        {
-          "source": "ETtoday",
-          "title": "校園外隨機攻擊！臺中男木棒毆打放學學童　遭當庭逮捕收押",
-          "url": "https://www.ettoday.net/news/20261107/3267906.htm"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "「立冬」4生肖將走出陰霾   廖大乙：做2事、避2色運勢更佳",
-      "summary": [
-        "自由時報：「立冬」4生肖將走出陰霾   廖大乙：做2事、避2色運勢更佳",
-        "ETtoday：立冬到來「4生肖走出陰霾」！廖大乙曝開運妙招：有望走出低谷"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "「立冬」4生肖將走出陰霾   廖大乙：做2事、避2色運勢更佳",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5632191"
-        },
-        {
-          "source": "ETtoday",
-          "title": "立冬到來「4生肖走出陰霾」！廖大乙曝開運妙招：有望走出低谷",
-          "url": "https://www.ettoday.net/news/20261107/3267858.htm"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "竹市首度推動永續及親子友善旅宿認證 10家業者獲表揚 高虹安市長：打造友善旅遊城市",
       "summary": [
         "關鍵評論網：竹市首度推動永續及親子友善旅宿認證 10家業者獲表揚 高虹安市長：打造友善旅遊城市",
@@ -161,7 +119,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "科技股反彈仍難挽跌勢　歐股三大指數收黑",
       "summary": [
         "自由時報：科技股反彈仍難挽跌勢　歐股三大指數收黑",
@@ -182,7 +140,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "傳微軟逐步終止租用甲骨文AI算力　重新評估雲端合作",
       "summary": [
         "自由時報：傳微軟逐步終止租用甲骨文AI算力　重新評估雲端合作",
@@ -203,7 +161,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "市場衡量中東局勢　油價震盪小漲",
       "summary": [
         "自由時報：市場衡量中東局勢　油價震盪小漲",
@@ -220,6 +178,48 @@
           "source": "經濟日報",
           "title": "市場衡量中東局勢　油價震盪小漲",
           "url": "https://money.udn.com/money/story/5599/9863133"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "快訊／U23中華隊3轟退捷克！劉承佑、吳柏萱開轟　林佾葳完投奪勝",
+      "summary": [
+        "ETtoday：快訊／U23中華隊3轟退捷克！劉承佑、吳柏萱開轟　林佾葳完投奪勝",
+        "自由時報：U23世界盃》亞運奇兵林佾葳完投、悍將劉承佑3人開轟 臺灣擊敗捷克首戰告捷"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／U23中華隊3轟退捷克！劉承佑、吳柏萱開轟　林佾葳完投奪勝",
+          "url": "https://sports.ettoday.net/news/3267865"
+        },
+        {
+          "source": "自由時報",
+          "title": "U23世界盃》亞運奇兵林佾葳完投、悍將劉承佑3人開轟 臺灣擊敗捷克首戰告捷",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5632338"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川習月中APEC會晤 美中官員行前通電磋商",
+      "summary": [
+        "自由時報：川習月中APEC會晤 美中官員行前通電磋商",
+        "經濟日報：川習月中APEC會晤　美中官員行前通電磋商"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川習月中APEC會晤 美中官員行前通電磋商",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5632337"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川習月中APEC會晤　美中官員行前通電磋商",
+          "url": "https://money.udn.com/money/story/5599/9863188"
         }
       ]
     }
@@ -313,69 +313,6 @@
     },
     {
       "rank": 4,
-      "title": "OpenAI 財務長告訴 CNBC，儘管選舉結果如何，OpenAI 將繼續投資人工智慧資料中心",
-      "summary": [
-        "CNBC：OpenAI 財務長告訴 CNBC，儘管選舉結果如何，OpenAI 將繼續投資人工智慧資料中心",
-        "Investing.com：OpenAI 財務長告訴 CNBC，儘管中期選舉大獲全勝，OpenAI 將繼續推進資料中心擴張"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "OpenAI 財務長告訴 CNBC，儘管選舉結果如何，OpenAI 將繼續投資人工智慧資料中心",
-          "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "OpenAI 財務長告訴 CNBC，儘管中期選舉大獲全勝，OpenAI 將繼續推進資料中心擴張",
-          "url": "https://www.investing.com/news/stock-market-news/openai-to-press-ahead-with-datacenter-expansion-despite-midterm-sweep-cfo-tells-cnbc-5008971"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "由於市場動盪，Anthropic 的 IPO 估值可能跌至近 1 兆美元",
-      "summary": [
-        "Yahoo Finance：由於市場動盪，Anthropic 的 IPO 估值可能跌至近 1 兆美元",
-        "Bloomberg Tech：Anthropic IPO買家認為估值低至1.1兆美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "由於市場動盪，Anthropic 的 IPO 估值可能跌至近 1 兆美元",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUV6dVh5WUcxemZzTXRjYmcxcVRXUHRqSjhUcjZ2VVJjbVdWMi0yMWFaaWIwZUZfTndvQ19LZl9fQk55bElVYUFyeE9pa3RmNEFBak05WEFvRkhpeG1PdFkzZkw5ZnUtczlrSS1HaU44UENxSi1ZTy1LNWZrb3BZQXRhSDZhTVpXODFvRUF2NTFoNkhNSEtYYld4LWpTaHNqSUM5WHIwWVpQNDlCelh5OFJmT0Znc1hrbGJLWDdIaUJUeExMN05KQk5DZkMtVUhiQWc?oc=5"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic IPO買家認為估值低至1.1兆美元",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-buyers-see-valuation-as-low-as-1-1t-video"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Airbnb 營收成長； DraftKings因預測失誤而陷入困境庫存搬運工",
-      "summary": [
-        "Bloomberg Markets：Airbnb 營收成長； DraftKings因預測失誤而陷入困境庫存搬運工",
-        "Investing.com：Airbnb 獲利分析：問題解答與下一步催化劑"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Airbnb 營收成長； DraftKings因預測失誤而陷入困境庫存搬運工",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-06/airbnb-moves-on-revenue-draftkings-sinks-on-forecast-video"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Airbnb 獲利分析：問題解答與下一步催化劑",
-          "url": "https://www.investing.com/news/stock-market-news/airbnb-earnings-analysis-questions-answered-and-next-catalysts-93CH-5008962"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "歐盟調查西班牙致命高鐵線路的“欺詐”",
       "summary": [
         "Financial Times：歐盟調查西班牙致命高鐵線路的“欺詐”",
@@ -396,7 +333,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "馬斯克稱 SpaceX 將從美國政府獲得低於 10% 的收入",
       "summary": [
         "Bloomberg Tech：馬斯克稱 SpaceX 將從美國政府獲得低於 10% 的收入",
@@ -417,7 +354,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "Walleye 將在股票交易重置中向客戶返還 20 億美元",
       "summary": [
         "Bloomberg Markets：Walleye 將在股票交易重置中向客戶返還 20 億美元",
@@ -438,7 +375,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "隨著低迷買家重返人工智慧交易，科技股反彈",
       "summary": [
         "Bloomberg Tech：隨著低迷買家重返人工智慧交易，科技股反彈",
@@ -455,6 +392,69 @@
           "source": "Bloomberg Markets",
           "title": "科技股歷史性暴跌後，人工智慧交易反彈",
           "url": "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-surveillance-11-6-2026-video"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "谷歌接管魯濱遜提出的懷俄明州資料中心",
+      "summary": [
+        "Bloomberg Tech：谷歌接管魯濱遜提出的懷俄明州資料中心",
+        "Investing.com：隨著超大規模企業轉向擁有人工智慧能力，Google購買了懷俄明州資料中心站點"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "谷歌接管魯濱遜提出的懷俄明州資料中心",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/google-takes-over-wyoming-data-center-that-crusoe-had-pitched"
+        },
+        {
+          "source": "Investing.com",
+          "title": "隨著超大規模企業轉向擁有人工智慧能力，Google購買了懷俄明州資料中心站點",
+          "url": "https://www.investing.com/news/stock-market-news/google-buys-wyoming-data-center-site-as-hyperscalers-move-to-own-ai-capacity-93CH-5009109"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "人工智慧粉碎正在推動一隻股票估值達到天價",
+      "summary": [
+        "CNBC：人工智慧粉碎正在推動一隻股票估值達到天價",
+        "WSJ Markets：將人工智慧投資者推向崩潰邊緣的瘋狂一週"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "人工智慧粉碎正在推動一隻股票估值達到天價",
+          "url": "https://www.cnbc.com/2026/11/06/ai-crush-is-powering-one-stock-to-sky-high-valuations.html"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "將人工智慧投資者推向崩潰邊緣的瘋狂一週",
+          "url": "https://www.wsj.com/finance/stocks/midterms-markets-week-ai-trade-97b3fc5d?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "OpenAI 完成 110 億美元部分融資，價值 1.25 兆美元",
+      "summary": [
+        "Bloomberg Tech：OpenAI 完成 110 億美元部分融資，價值 1.25 兆美元",
+        "TechCrunch：據報道 OpenAI 額外融資 110 億美元，估值 1.25 兆美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "OpenAI 完成 110 億美元部分融資，價值 1.25 兆美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "據報道 OpenAI 額外融資 110 億美元，估值 1.25 兆美元",
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
         }
       ]
     }
