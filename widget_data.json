@@ -1,40 +1,8 @@
 {
-  "updated_at": "2026-11-07 11:46",
+  "updated_at": "2026-11-07 12:49",
   "taiwan": [
     {
       "rank": 1,
-      "title": "重大戰略轉型！傳臺積電將進軍先進記憶體  為輝達生產3D DRAM",
-      "summary": [
-        "自由時報：重大戰略轉型！傳臺積電將進軍先進記憶體  為輝達生產3D DRAM",
-        "ETtoday：臺積電傳進軍3D DRAM生產　三星SK海力士AI記憶體領域也要面對魔王",
-        "經濟日報：傳臺積電進軍3D DRAM　應輝達要求規劃製造、評估建廠"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "重大戰略轉型！傳臺積電將進軍先進記憶體  為輝達生產3D DRAM",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5632298"
-        },
-        {
-          "source": "ETtoday",
-          "title": "臺積電傳進軍3D DRAM生產　三星SK海力士AI記憶體領域也要面對魔王",
-          "url": "https://finance.ettoday.net/news/3267857"
-        },
-        {
-          "source": "經濟日報",
-          "title": "傳臺積電進軍3D DRAM　應輝達要求規劃製造、評估建廠",
-          "url": "https://money.udn.com/money/story/5599/9863088"
-        },
-        {
-          "source": "科技新報",
-          "title": "輝達要求臺積電進軍先進記憶體市場？傳組建 3D DRAM 產線解 AI 缺貨荒",
-          "url": "https://finance.technews.tw/2026/11/07/3d-dram/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "紐時：黃仁勳身邊「女共諜」來自中國國安部 任務目的曝光",
       "summary": [
         "自由時報：紐時：黃仁勳身邊「女共諜」來自中國國安部 任務目的曝光",
@@ -57,6 +25,33 @@
           "source": "經濟日報",
           "title": "紐時：黃樂是中國國安部間諜 接近黃仁勳試圖促美供應最先進晶片",
           "url": "https://money.udn.com/money/story/5599/9863231"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "傳臺積電進軍3D DRAM　應輝達要求規劃製造、評估建廠",
+      "summary": [
+        "自由時報：傳臺積電進軍3D DRAM　應輝達要求規劃製造、評估建廠",
+        "經濟日報：傳臺積電進軍3D DRAM　應輝達要求規劃製造、評估建廠",
+        "科技新報：輝達要求臺積電進軍先進記憶體市場？傳組建 3D DRAM 產線解 AI 缺貨荒"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "傳臺積電進軍3D DRAM　應輝達要求規劃製造、評估建廠",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5632308"
+        },
+        {
+          "source": "經濟日報",
+          "title": "傳臺積電進軍3D DRAM　應輝達要求規劃製造、評估建廠",
+          "url": "https://money.udn.com/money/story/5599/9863088"
+        },
+        {
+          "source": "科技新報",
+          "title": "輝達要求臺積電進軍先進記憶體市場？傳組建 3D DRAM 產線解 AI 缺貨荒",
+          "url": "https://finance.technews.tw/2026/11/07/3d-dram/"
         }
       ]
     },
@@ -267,7 +262,7 @@
       "title": "微軟終止甲骨文租賃人工智慧雲端容量的交易",
       "summary": [
         "Bloomberg Tech：微軟終止甲骨文租賃人工智慧雲端容量的交易",
-        "Investing.com：根據彭博社報道，微軟正在終止甲骨文租賃人工智慧雲端容量的交易",
+        "Investing.com：根據彭博社報道，微軟正逐步終止甲骨文租賃人工智慧雲端容量的交易",
         "Yahoo Finance：根據通報，微軟終止人工智慧雲端容量交易，甲骨文股價下跌 4%"
       ],
       "media_count": 3,
@@ -279,7 +274,7 @@
         },
         {
           "source": "Investing.com",
-          "title": "根據彭博社報道，微軟正在終止甲骨文租賃人工智慧雲端容量的交易",
+          "title": "根據彭博社報道，微軟正逐步終止甲骨文租賃人工智慧雲端容量的交易",
           "url": "https://www.investing.com/news/stock-market-news/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity-bloomberg-news-reports-5008946"
         },
         {
@@ -360,27 +355,6 @@
     },
     {
       "rank": 6,
-      "title": "Fox 完成對 Roku 的 22B 美元收購",
-      "summary": [
-        "TechCrunch：Fox 完成對 Roku 的 22B 美元收購",
-        "Washington Post：Fox 完成 220 億美元收購 Roku 的交易，這筆交易將重塑串流媒體"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "Fox 完成對 Roku 的 22B 美元收購",
-          "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/"
-        },
-        {
-          "source": "Washington Post",
-          "title": "Fox 完成 220 億美元收購 Roku 的交易，這筆交易將重塑串流媒體",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORnhYY2Y0ZFhsZGxxVkU5TTZtZmJOMGFWX29DbmlITFB3VUZnUnZTSHVOUGFFTGNHWXJXdVBETjVEYVBYVEVUdG1OTVpycmcyTVViMHNLWGJXM01Za2pVMzVBdmNld0xnVlN0RVZqc1A4YlcxWXRUYUh6Wk9XMnNOQXZqOGZjTHJqOXE1eVV4QzhPUUNGSTJVczdUUjd0UnhZWkpRRHZJVXZyQXRQaGpINGtyMnk4aWlhWkRv?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Airbnb 營收成長； DraftKings因預測失誤而陷入困境庫存搬運工",
       "summary": [
         "Bloomberg Markets：Airbnb 營收成長； DraftKings因預測失誤而陷入困境庫存搬運工",
@@ -401,7 +375,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "歐盟調查西班牙致命高鐵線路的“欺詐”",
       "summary": [
         "Financial Times：歐盟調查西班牙致命高鐵線路的“欺詐”",
@@ -422,7 +396,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "馬斯克稱 SpaceX 將從美國政府獲得低於 10% 的收入",
       "summary": [
         "Bloomberg Tech：馬斯克稱 SpaceX 將從美國政府獲得低於 10% 的收入",
@@ -443,7 +417,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Walleye 將在股票交易重置中向客戶返還 20 億美元",
       "summary": [
         "Bloomberg Markets：Walleye 將在股票交易重置中向客戶返還 20 億美元",
@@ -460,6 +434,27 @@
           "source": "Investing.com",
           "title": "Walleye Capital 將在股權削減後向客戶返還 20 億美元——報告",
           "url": "https://www.investing.com/news/stock-market-news/walleye-capital-to-return-2-billion-to-clients-after-equity-cuts--report-5009007"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "隨著低迷買家重返人工智慧交易，科技股反彈",
+      "summary": [
+        "Bloomberg Tech：隨著低迷買家重返人工智慧交易，科技股反彈",
+        "Bloomberg Markets：科技股歷史性暴跌後，人工智慧交易反彈"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "隨著低迷買家重返人工智慧交易，科技股反彈",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-tech-11-06-2026-video"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "科技股歷史性暴跌後，人工智慧交易反彈",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-surveillance-11-6-2026-video"
         }
       ]
     }
