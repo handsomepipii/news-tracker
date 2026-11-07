@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 14:51",
+  "updated_at": "2026-11-07 15:57",
   "taiwan": [
     {
       "rank": 1,
@@ -72,27 +72,6 @@
     },
     {
       "rank": 4,
-      "title": "科技股反彈仍難挽跌勢　歐股三大指數收黑",
-      "summary": [
-        "自由時報：科技股反彈仍難挽跌勢　歐股三大指數收黑",
-        "經濟日報：科技股反彈仍難挽跌勢　歐股三大指數收黑"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "科技股反彈仍難挽跌勢　歐股三大指數收黑",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5632315"
-        },
-        {
-          "source": "經濟日報",
-          "title": "科技股反彈仍難挽跌勢　歐股三大指數收黑",
-          "url": "https://money.udn.com/money/story/5599/9863107"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "傳微軟逐步終止租用甲骨文AI算力　重新評估雲端合作",
       "summary": [
         "自由時報：傳微軟逐步終止租用甲骨文AI算力　重新評估雲端合作",
@@ -113,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "市場衡量中東局勢　油價震盪小漲",
       "summary": [
         "自由時報：市場衡量中東局勢　油價震盪小漲",
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "快訊／U23中華隊3轟退捷克！劉承佑、吳柏萱開轟　林佾葳完投奪勝",
       "summary": [
         "ETtoday：快訊／U23中華隊3轟退捷克！劉承佑、吳柏萱開轟　林佾葳完投奪勝",
@@ -151,6 +130,27 @@
           "source": "自由時報",
           "title": "U23世界盃》亞運奇兵林佾葳完投、悍將劉承佑3人開轟 臺灣擊敗捷克首戰告捷",
           "url": "https://sports.ltn.com.tw/news/breakingnews/5632338"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "美資料中心建置放緩　一文看臺灣AI供應鏈影響性",
+      "summary": [
+        "ETtoday：美資料中心建置放緩　一文看臺灣AI供應鏈影響性",
+        "科技新報：一張圖看美國資料中心建置放緩對臺灣 AI 供應鏈影響！法人稱訂單僅遞延"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "美資料中心建置放緩　一文看臺灣AI供應鏈影響性",
+          "url": "https://finance.ettoday.net/news/3267846"
+        },
+        {
+          "source": "科技新報",
+          "title": "一張圖看美國資料中心建置放緩對臺灣 AI 供應鏈影響！法人稱訂單僅遞延",
+          "url": "https://finance.technews.tw/2026/11/07/taiwans-ai-supply-chain/"
         }
       ]
     },
@@ -221,24 +221,13 @@
   "global": [
     {
       "rank": 1,
-      "title": "川普將以史蒂芬·米勒取代蘇西·威爾斯擔任幕僚長",
+      "title": "川普任命史蒂芬·米勒為新任白宮辦公廳主任",
       "summary": [
-        "Financial Times：川普將以史蒂芬·米勒取代蘇西·威爾斯擔任幕僚長",
-        "CNBC：川普稱史蒂芬·米勒將接替蘇西·懷爾斯擔任白宮辦公廳主任",
-        "Washington Post：川普任命史蒂芬·米勒為新任白宮辦公廳主任"
+        "Washington Post：川普任命史蒂芬·米勒為新任白宮辦公廳主任",
+        "Nikkei Asia：川普晉升史蒂芬·米勒為幕僚長，接替懷爾斯"
       ],
-      "media_count": 4,
+      "media_count": 2,
       "links": [
-        {
-          "source": "Financial Times",
-          "title": "川普將以史蒂芬·米勒取代蘇西·威爾斯擔任幕僚長",
-          "url": "https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1"
-        },
-        {
-          "source": "CNBC",
-          "title": "川普稱史蒂芬·米勒將接替蘇西·懷爾斯擔任白宮辦公廳主任",
-          "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html"
-        },
         {
           "source": "Washington Post",
           "title": "川普任命史蒂芬·米勒為新任白宮辦公廳主任",
@@ -253,69 +242,6 @@
     },
     {
       "rank": 2,
-      "title": "Walleye 將在股票交易重置中向客戶返還 20 億美元",
-      "summary": [
-        "Bloomberg Markets：Walleye 將在股票交易重置中向客戶返還 20 億美元",
-        "Investing.com：Walleye Capital 將在股權削減後向客戶返還 20 億美元——報告"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Walleye 將在股票交易重置中向客戶返還 20 億美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/walleye-to-return-2-billion-to-clients-in-stocks-trading-reset"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Walleye Capital 將在股權削減後向客戶返還 20 億美元——報告",
-          "url": "https://www.investing.com/news/stock-market-news/walleye-capital-to-return-2-billion-to-clients-after-equity-cuts--report-5009007"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "隨著低迷買家重返人工智慧交易，科技股反彈",
-      "summary": [
-        "Bloomberg Tech：隨著低迷買家重返人工智慧交易，科技股反彈",
-        "Bloomberg Markets：科技股歷史性暴跌後，人工智慧交易反彈"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "隨著低迷買家重返人工智慧交易，科技股反彈",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-tech-11-06-2026-video"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "科技股歷史性暴跌後，人工智慧交易反彈",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-surveillance-11-6-2026-video"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Meta 推出 Spaces，這是與 Muse 代理程式協作的新方式",
-      "summary": [
-        "TechCrunch：Meta 推出 Spaces，這是與 Muse 代理程式協作的新方式",
-        "Investing.com：Meta 的 Muse 應用程式新增了可自訂空間功能"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "Meta 推出 Spaces，這是與 Muse 代理程式協作的新方式",
-          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Meta 的 Muse 應用程式新增了可自訂空間功能",
-          "url": "https://www.investing.com/news/stock-market-news/metas-muse-app-adds-customizable-spaces-feature-93CH-5009233"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "谷歌接管魯濱遜提出的懷俄明州資料中心",
       "summary": [
         "Bloomberg Tech：谷歌接管魯濱遜提出的懷俄明州資料中心",
@@ -336,7 +262,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 3,
       "title": "人工智慧粉碎正在推動一隻股票估值達到天價",
       "summary": [
         "CNBC：人工智慧粉碎正在推動一隻股票估值達到天價",
@@ -357,7 +283,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "根據彭博社報道，微軟正在終止甲骨文租賃人工智慧雲端容量的交易",
       "summary": [
         "Investing.com：根據彭博社報道，微軟正在終止甲骨文租賃人工智慧雲端容量的交易",
@@ -378,7 +304,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "OpenAI 完成 110 億美元部分融資，價值 1.25 兆美元",
       "summary": [
         "Bloomberg Tech：OpenAI 完成 110 億美元部分融資，價值 1.25 兆美元",
@@ -399,7 +325,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "康乃爾大學教職人員對領導階層對無名氏指控的處理方式進行了不信任投票",
       "summary": [
         "BBC World：康乃爾大學教職人員對領導階層對無名氏指控的處理方式進行了不信任投票",
@@ -420,7 +346,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "特斯拉在少數市場多年銷售不佳後將逐步減少 Cyber​​truck 的生產",
       "summary": [
         "Yahoo Finance：特斯拉在少數市場多年銷售不佳後將逐步減少 Cyber​​truck 的生產"
@@ -431,6 +357,51 @@
           "source": "Yahoo Finance",
           "title": "特斯拉在少數市場多年銷售不佳後將逐步減少 Cyber​​truck 的生產",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX05oaUdoem0yaWliNXlaeG5ac19Xb2U2bjEwNFZ3UTJRcnFydmF0cjVPZ3RBcHVGZENnTU5OYmtIa2VlcHBMb1M3VlJjbW00SmY5OW1vN1ZBY0RYLWxzTGRnVVFxU1pWUUNtQ005dzc4ZDRPQ1FobjZuQ3ZHLUhlZ0NCMGJkZjdSZ3lmbzQ2cw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "特朗普:將很快決定是否恢復對伊朗大規模軍事行動",
+      "summary": [
+        "法廣RFI：特朗普:將很快決定是否恢復對伊朗大規模軍事行動"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "特朗普:將很快決定是否恢復對伊朗大規模軍事行動",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E5%88%86%E6%9E%90/20261106-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%B0%87%E5%BE%88%E5%BF%AB%E6%B1%BA%E5%AE%9A%E6%98%AF%E5%90%A6%E6%81%A2%E5%BE%A9%E5%B0%8D%E5%BE%B7%E9%BB%91%E8%98%AD%E5%A4%A7%E8%A6%8F%E6%A8%A1%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "大分陸上自衛隊戰車事故造成3人死亡；先前的砲彈碎片可能是造成事故的原因",
+      "summary": [
+        "NHK新聞：大分陸上自衛隊戰車事故造成3人死亡；先前的砲彈碎片可能是造成事故的原因"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "大分陸上自衛隊戰車事故造成3人死亡；先前的砲彈碎片可能是造成事故的原因",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261107de71984"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "冒充國家稅務局的虛假電子郵件正在迅速增加：“退款程式沒有透過電子郵件進行說明。”",
+      "summary": [
+        "NHK新聞：冒充國家稅務局的虛假電子郵件正在迅速增加：“退款程式沒有透過電子郵件進行說明。”"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "冒充國家稅務局的虛假電子郵件正在迅速增加：“退款程式沒有透過電子郵件進行說明。”",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261106de71902"
         }
       ]
     }
