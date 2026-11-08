@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 00:16",
+  "updated_at": "2026-11-09 01:12",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,54 @@
     },
     {
       "rank": 2,
+      "title": "埃及兩列火車追撞 至少4死88傷",
+      "summary": [
+        "經濟日報：埃及兩列火車追撞 至少4死88傷",
+        "自由時報：埃及2火車相撞脫軌翻覆 至少4死88傷",
+        "ETtoday：快訊／埃及爆「火車相撞」脫軌！至少4人死亡、近百傷者送醫"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "埃及兩列火車追撞 至少4死88傷",
+          "url": "https://money.udn.com/money/story/5599/9865760"
+        },
+        {
+          "source": "自由時報",
+          "title": "埃及2火車相撞脫軌翻覆 至少4死88傷",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5633996"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／埃及爆「火車相撞」脫軌！至少4人死亡、近百傷者送醫",
+          "url": "https://www.ettoday.net/news/20261108/3268650.htm"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "李乾龍評「洋流」漸退潮 李四川：新北海納百川、川流不息",
+      "summary": [
+        "自由時報：李乾龍評「洋流」漸退潮 李四川：新北海納百川、川流不息",
+        "TVBS新聞：拚新北市長!李四川同框蔣萬安蕭美琴輔選蘇巧慧:戒慎恐懼｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "李乾龍評「洋流」漸退潮 李四川：新北海納百川、川流不息",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633496"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "拚新北市長!李四川同框蔣萬安蕭美琴輔選蘇巧慧:戒慎恐懼｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uUXQ0SXVGLW0xLVBnaDc4VE1jYjJrZ1VjdFhfVzlvRzh0aHNKWmJCM2Vac2d2a195OEd2T1FiRTNYZjVyVVVTcmdNaDdxcTZ3WWtWSGhR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "公督盟批切割騙票仍是「聽話的狗」 柯志恩：低劣言詞不回應",
       "summary": [
         "自由時報：公督盟批切割騙票仍是「聽話的狗」 柯志恩：低劣言詞不回應",
@@ -50,65 +98,23 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "NBA》還是要靠老大哥！38歲柯瑞轟41分 勇士延長賽退魔術收7連勝",
-      "summary": [
-        "自由時報：NBA》還是要靠老大哥！38歲柯瑞轟41分 勇士延長賽退魔術收7連勝",
-        "ETtoday：快訊／NBA76年首見！勇士開季3連敗後7連勝　柯瑞狂飆41分退魔術"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "NBA》還是要靠老大哥！38歲柯瑞轟41分 勇士延長賽退魔術收7連勝",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5633456"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／NBA76年首見！勇士開季3連敗後7連勝　柯瑞狂飆41分退魔術",
-          "url": "https://sports.ettoday.net/news/3268395"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "亞冠賽中華隊28人名單今揭曉！首戰強碰日本　高志綱談破解之道",
-      "summary": [
-        "ETtoday：亞冠賽中華隊28人名單今揭曉！首戰強碰日本　高志綱談破解之道",
-        "自由時報：亞冠賽》熱身賽落幕 臺灣隊28人名單出爐！"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "亞冠賽中華隊28人名單今揭曉！首戰強碰日本　高志綱談破解之道",
-          "url": "https://sports.ettoday.net/news/3268402"
-        },
-        {
-          "source": "自由時報",
-          "title": "亞冠賽》熱身賽落幕 臺灣隊28人名單出爐！",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5633737"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "Garmin Fenix E智慧手錶大砍15879元 1.3吋戶外運動設計、動態路線規劃、16天續航力",
+      "title": "日本愛知規模5.7地震　氣象廳：與南海海槽地震關聯低",
       "summary": [
-        "癮科技Cool3c：Garmin Fenix E智慧手錶大砍15879元 1.3吋戶外運動設計、動態路線規劃、16天續航力",
-        "MoneyDJ理財網：Garmin Fenix E智慧手錶大砍15879元 1.3吋戶外運動設計、動態路線規劃、16天續航力- 新聞"
+        "經濟日報：日本愛知規模5.7地震　氣象廳：與南海海槽地震關聯低",
+        "公視新聞：日本九州與東海地區連環地震 氣象廳否認與南海海槽強震相關"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "癮科技Cool3c",
-          "title": "Garmin Fenix E智慧手錶大砍15879元 1.3吋戶外運動設計、動態路線規劃、16天續航力",
-          "url": "https://www.cool3c.com/article/253886"
+          "source": "經濟日報",
+          "title": "日本愛知規模5.7地震　氣象廳：與南海海槽地震關聯低",
+          "url": "https://money.udn.com/money/story/5599/9864967"
         },
         {
-          "source": "MoneyDJ理財網",
-          "title": "Garmin Fenix E智慧手錶大砍15879元 1.3吋戶外運動設計、動態路線規劃、16天續航力- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ2s5MGhxbXluMkgyeW9CUHhfR1VDM0QtZUdTWGlFNDMxdkxaZFY0VHNUYmtWMEtMb2JSWnhMVnBLcFdFbmFfVE5LZDUyb2JTSzVHMGlQaktBQ0QxVEdyVWVwZGJBX1E1RWhacXhReGJJUTVFWW9ER2dheDh3dEVaNE0zUmx2WTVYUlVDa09FVkwtQQ?oc=5"
+          "source": "公視新聞",
+          "title": "日本九州與東海地區連環地震 氣象廳否認與南海海槽強震相關",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tM3V2cjRfQTFoSFc1QmQzRTNic1JjTFcxODdpMGRrUnk3Y1Q0RG9xZEJCYnhLLWU4UlJLT0w4UXJtYXd4Y2FSMmR1WGhzY1k?oc=5"
         }
       ]
     },
@@ -221,96 +227,42 @@
   "global": [
     {
       "rank": 1,
-      "title": "「短睡眠基因」：為何有人只需睡四小時？",
+      "title": "Anthropic 達成 34 億美元協議，為資料中心提供燃氣發電",
       "summary": [
-        "BBC中文：「短睡眠基因」：為何有人只需睡四小時？"
+        "Financial Times：Anthropic 達成 34 億美元協議，為資料中心提供燃氣發電",
+        "Investing.com：據報道，Anthropic 達成了價值 34 億美元的資料中心燃氣發電協議"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "BBC中文",
-          "title": "「短睡眠基因」：為何有人只需睡四小時？",
-          "url": "https://www.bbc.com/zhongwen/articles/cm0j0341z50qo/trad?at_medium=RSS&at_campaign=rss"
+          "source": "Financial Times",
+          "title": "Anthropic 達成 34 億美元協議，為資料中心提供燃氣發電",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "據報道，Anthropic 達成了價值 34 億美元的資料中心燃氣發電協議",
+          "url": "https://www.investing.com/news/stock-market-news/anthropic-reportedly-strikes-34-billion-deal-for-gasfired-power-at-data-centres-5010208"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "Trump calls for Justice Department to investigate Democrats",
+      "title": "CoreWeave 尋求與德克薩斯州當選州長伊諾霍薩休戰",
       "summary": [
-        "Washington Post：Trump calls for Justice Department to investigate Democrats"
+        "Yahoo Finance：CoreWeave 尋求與德克薩斯州當選州長伊諾霍薩休戰"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Washington Post",
-          "title": "Trump calls for Justice Department to investigate Democrats",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYWNoYzZPMGhyQkU5MmZ2THZhM3pHTkJDdGZjS1ZYdHBfdGdoVzV1cGk4cWN6QWFsRHA0X2w3TG0yWDdzaU8tczgzWHQ3amtkOWwxUjduSzg4RjNEb0tLSDZnaGVsTm01RkFRaDB5Wl9RdnhONlJSenNMVnpUN2pXckI5NTlyQ2pqdUNCYnp2NEhaaGw3bVRZZy15VTU5OWtEdnVSLTQtNA?oc=5"
+          "source": "Yahoo Finance",
+          "title": "CoreWeave 尋求與德克薩斯州當選州長伊諾霍薩休戰",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWG9mWXpBSTZXcnZsVmJfalJwdjEtSHJoS2ppWGtLYnpkOVNOaHVpcktaWWJGcVlSdW5CaW81UDF0X1E1V3prNk5ETngxc1NwVjdWLUNHZlpIMW91dTJiOUptUFpXa1hBT1diLTNzRVlfa1Vja19jcXM2SVNMQ3pDY0tkdzNQLXFpWnR4T1RR?oc=5"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "美利堅復活了？中期選舉的五點啟示",
-      "summary": [
-        "FT中文網：美利堅復活了？中期選舉的五點啟示"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "FT中文網",
-          "title": "美利堅復活了？中期選舉的五點啟示",
-          "url": "https://www.ftchinese.com/story/001111297"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "中國將2027年黨代表人數增加至2,360人",
-      "summary": [
-        "Bloomberg Markets：中國將2027年黨代表人數增加至2,360人"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "中國將2027年黨代表人數增加至2,360人",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-08/china-raises-delegate-count-to-2-360-for-2027-party-congress"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "波克夏海瑟威的股票再次成為避風港，因為投資者逃離人工智慧大屠殺，而其自己的投資組合在重組中受到打擊",
-      "summary": [
-        "Yahoo Finance：波克夏海瑟威的股票再次成為避風港，因為投資者逃離人工智慧大屠殺，而其自己的投資組合在重組中受到打擊"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "波克夏海瑟威的股票再次成為避風港，因為投資者逃離人工智慧大屠殺，而其自己的投資組合在重組中受到打擊",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd0ZwYVhqTGEwb1ZkSWcta2tKbExWN2lZY2pFdXk3VmNiN0lHZzZpV2FNRWFIQnYta3cxRDk0dFlXVjFoUmp0Y3ZBdnh0Rl9vMmxyVXZieWJhYk1uYlpCWGRhTVdEZTNSVnYzWUptSk95NG9jazB3cmxYTnFUdjd0eFIxQjhOLVF4QmUxYklwY2tSajNDZmVkTFNUcmhqblFSeEh3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "澳洲人正以40年來最快的速度面臨數萬億美元的財富效應下行：“未知領域”",
-      "summary": [
-        "Yahoo Finance：澳洲人正以40年來最快的速度面臨數萬億美元的財富效應下行：“未知領域”"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "澳洲人正以40年來最快的速度面臨數萬億美元的財富效應下行：“未知領域”",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWHhtMGgycEdlaFk5TENESEJ3NExyb3E0RHRoWkw5R3I3ZWFPMkNaaHA1ZGpybGh5TkFTOHlmMV9vc1VnYzg2VnlMMGpWSkVwd3dMUHVCTVB5em05cjZCUjYtLUVub2YtRnR2QmlmVG9Uc0QtMnhwYmMyNkR1SFpxdUsxQlBKRHBKUTBoUkZqTmNSYnF5M1BtTmRNUkhBQ2VDdE5pVGY0VlQ5OXk4dldFNFR4N1AyR1ZHZU5iVTJfdHpZQlp4M0NzZ0RGSlo4VXhueHVLT3ZDaVlpVkZHSFFkY0xlVkJvV1ltcUdXQ3BR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
       "summary": [
         "BBC中文：澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」"
@@ -325,7 +277,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
       "title": "美國中期選舉後，AI放緩憂慮重創全球大型科技股，韓國股市熔斷",
       "summary": [
         "BBC中文：美國中期選舉後，AI放緩憂慮重創全球大型科技股，韓國股市熔斷"
@@ -340,22 +292,22 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "サッカー女子 17歳以下のW杯 日本 12年ぶりの優勝はならず",
+      "rank": 5,
+      "title": "日本12歲以下女足世界盃12年來首次未能奪冠",
       "summary": [
-        "NHK新聞：サッカー女子 17歳以下のW杯 日本 12年ぶりの優勝はならず"
+        "NHK新聞：日本12歲以下女足世界盃12年來首次未能奪冠"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "サッカー女子 17歳以下のW杯 日本 12年ぶりの優勝はならず",
+          "title": "日本12歲以下女足世界盃12年來首次未能奪冠",
           "url": "https://news.web.nhk/newsweb/na/nd-20261108de72452"
         }
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "韓國國會國防委委員長介紹率團訪美結果",
       "summary": [
         "韓聯社：韓國國會國防委委員長介紹率團訪美結果"
@@ -366,6 +318,66 @@
           "source": "韓聯社",
           "title": "韓國國會國防委委員長介紹率團訪美結果",
           "url": "https://cn.yna.co.kr/view/ACK20261108001200881"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "首爾迎今冬初雪 較去年提前26天",
+      "summary": [
+        "韓聯社：首爾迎今冬初雪 較去年提前26天"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "首爾迎今冬初雪 較去年提前26天",
+          "url": "https://cn.yna.co.kr/view/ACK20261108001100881"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "專欄 | 14 本現代哥吉拉電影指南",
+      "summary": [
+        "Washington Post：專欄 | 14 本現代哥吉拉電影指南"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "專欄 | 14 本現代哥吉拉電影指南",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUVJBSUhTOXkzT01CenRTZHRGLVdJdzFhdzRUMWdiemVVQzV1SEFrMW5WN0RqS1BhNzNRV055XzZxaW5RUHZYc2NqZUFEc1E5TW0zYVpfLWlNSjZKUXdmM3B5NHpmT0hiZkVIb3pKeFUxWS1MVU9QS2x3dXR3Ni1iN0dRMnFKR01IOUluRFB5SWljSWM0dUtEdWJjR1JsMWhy?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "誰才算創作者：人工智慧如何重塑創造力的邊界？",
+      "summary": [
+        "FT中文網：誰才算創作者：人工智慧如何重塑創造力的邊界？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "FT中文網",
+          "title": "誰才算創作者：人工智慧如何重塑創造力的邊界？",
+          "url": "https://www.ftchinese.com/story/001111298"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "加密產業準備應對川普關係的清算",
+      "summary": [
+        "Financial Times：加密產業準備應對川普關係的清算"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "加密產業準備應對川普關係的清算",
+          "url": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1"
         }
       ]
     }
