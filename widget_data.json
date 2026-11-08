@@ -1,42 +1,15 @@
 {
-  "updated_at": "2026-11-08 08:05",
+  "updated_at": "2026-11-08 09:44",
   "taiwan": [
     {
       "rank": 1,
-      "title": "女力挺女力 臺南市議員候選人餘柷青團結大會 陳亭妃專程站臺",
-      "summary": [
-        "自由時報：女力挺女力 臺南市議員候選人餘柷青團結大會 陳亭妃專程站臺",
-        "ETtoday：快訊／中華隊5比1贏下熱身首戰！林子崴3局無失分　王念好關鍵雙安",
-        "MoneyDJ理財網：望隼本公司代子公司江蘇視準醫療器械有限公司公告現金股利除息基準日- 新聞"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "女力挺女力 臺南市議員候選人餘柷青團結大會 陳亭妃專程站臺",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633037"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／中華隊5比1贏下熱身首戰！林子崴3局無失分　王念好關鍵雙安",
-          "url": "https://sports.ettoday.net/news/3268157"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "望隼本公司代子公司江蘇視準醫療器械有限公司公告現金股利除息基準日- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0dkQ005bnIySk5rS2lpUUFmZjVYWUxOb1V4NmpjYWlZeld1UFRBLS02TG1NRWx6djdwYW9ULTA5OWVvNlVYcXV0TnFCNGVWb1BNcW5hZXFqeURTMW1fQzZuUVlkYU9lQ2lBVlFBOG0waGdNY3hiUjBKMTVKbDNqMlhlTEtUR3BEekR4ZTFHa1l6QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "日本中部規模5.7地震無海嘯威脅　愛知縣疑兩人受傷",
       "summary": [
         "自由時報：日本中部規模5.7地震無海嘯威脅　愛知縣疑兩人受傷",
         "經濟日報：日本中部規模5.7地震無海嘯威脅　愛知縣疑兩人受傷",
         "ETtoday：日本中部規模5.7地震　愛知縣傳2傷"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "自由時報",
@@ -52,95 +25,16 @@
           "source": "ETtoday",
           "title": "日本中部規模5.7地震　愛知縣傳2傷",
           "url": "https://www.ettoday.net/news/20261108/3268269.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "歐洲多國媒體收恐嚇信愛爾蘭電視臺疏散人員影響播出｜20261107 公視晚間新聞｜ 公視新聞PNN",
-      "summary": [
-        "公視新聞：歐洲多國媒體收恐嚇信愛爾蘭電視臺疏散人員影響播出｜20261107 公視晚間新聞｜ 公視新聞PNN",
-        "MoneyDJ理財網：歐洲多國接假炸彈威脅愛爾蘭媒體機構疏散員工- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公視新聞",
-          "title": "歐洲多國媒體收恐嚇信愛爾蘭電視臺疏散人員影響播出｜20261107 公視晚間新聞｜ 公視新聞PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaMWFCRmptMks1bmZsRklQQVBwd0tMcFUxdVdNZGZBU3hOeVVfS1R4YkVmbFBrMmhGMWFQNlZjY2RSN1k3eGN3REhQbw?oc=5"
         },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "歐洲多國接假炸彈威脅愛爾蘭媒體機構疏散員工- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEdhM20ydVJ0cXRrVFVNZ2hJNF9kZkZoWm5pV1ZNMVBQYzlDTGRfeXV5TjhScGd1ZlZUZExlbC1na0RmbEttWnBldHN1Uno3Mk9fQVZsN1NuVHRwRk1YcVVsS2pCWW9uWlc2ZWhZeHJzMlI3Skp5dlNNME9sWEF1eTFibVdpalc4NjFrT1N6N1Brdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "《半導體》華邦電擴產明年效益顯現董座焦佑鈞：記憶體漲價應見頂- 上市櫃",
-      "summary": [
-        "中時新聞：《半導體》華邦電擴產明年效益顯現董座焦佑鈞：記憶體漲價應見頂- 上市櫃",
-        "工商時報：《半導體》華邦電擴產明年效益顯現董座焦佑鈞：記憶體漲價應見頂- 證券"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "《半導體》華邦電擴產明年效益顯現董座焦佑鈞：記憶體漲價應見頂- 上市櫃",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lVV9uazZybzlvNGQxdzFsMktUWWE2WXBpckZxeWVDMUI5Y1plRGxxeHRFT2xBMmVRV3Rxd3dLRGNMVHNiM1MzZjFfaWRNdDdzMFR4ajdoSEs5NHgycUUxYzI0bGxEWUlqZEE?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "《半導體》華邦電擴產明年效益顯現董座焦佑鈞：記憶體漲價應見頂- 證券",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nNXBUSHJJTWpvaDhBVkVVTmR0cUtPMHVva0Q3X2JtdFUyTU55TXduWHRDOTZzOTRjX2FvdzM5VnNib2VIQjlzaFhrWVF4VXZDYlprS1lKSEV5elJDaHNz?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "臺男曼谷商場墜樓亡身分曝！留iPhone、女兒護照 謎團待解",
-      "summary": [
-        "中時新聞：臺男曼谷商場墜樓亡身分曝！留iPhone、女兒護照 謎團待解",
-        "MoneyDJ理財網：臺男曼谷暹羅百麗宮墜樓！3樓摔至B1身亡 現場遺留女兒護照、iPhone"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "臺男曼谷商場墜樓亡身分曝！留iPhone、女兒護照 謎團待解",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wNzhabkUyMHJicVRNSERMMEV2elhycEkxdEhDSVdLdVhCYjJMQkU3OFVIT0EzbFJaWTQ1eGliTWJuSHpFM2x4SWdjOFZ2dVRCTTV1VDc1alJBaWZTUnNIRDVORjZWb1BjVVNLLW53?oc=5"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "臺男曼谷暹羅百麗宮墜樓！3樓摔至B1身亡 現場遺留女兒護照、iPhone",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeF9kM0FzQkFKYVc1RE9HbTZraFZDeWlISnN4V0JlQlltUTdSVXZKZkNOc2RWcGtjTDNIYXNYQ3U3ZnVBYVpCY0F3cXNjREFsZWRLVGx6M0dnWmFPWkxnS01hU2cwV0dpWFhyQUVDSl9iYUpQamVXVFloWEl0VHQyeEppODJiNUxoSTltbjVHX2FXQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "沈伯洋.李洋雙強合體 「大洋流」車掃抵港湖｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-      "summary": [
-        "TVBS新聞：沈伯洋.李洋雙強合體 「大洋流」車掃抵港湖｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-        "自由時報：港湖大洋流車掃 李洋現身 同框沈伯洋"
-      ],
-      "media_count": 2,
-      "links": [
         {
           "source": "TVBS新聞",
-          "title": "沈伯洋.李洋雙強合體 「大洋流」車掃抵港湖｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16Uzg2SkdCS3VGOGJ5ZG9aeVNTMjFwQzB1aTAtYjBEQmpXSGt4WWZvdDZwSXVQYzlWMzZZajZONl9GMVZPaWRGcUZUN0s5Tzcwb1pxY29B?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "港湖大洋流車掃 李洋現身 同框沈伯洋",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1777607"
+          "title": "日本中部規模5.7震無海嘯威脅愛知、靜岡傳16人受傷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nN0VBdFZrcGlWWHhoZG9oSUNQaFdhcDA0c3g4NU5PNmxxYklYbmRyYnFJSWswWTR5UFk3VUJxdUExTHpYdnJmdnpkMy01NVh1WDN1S2xR?oc=5"
         }
       ]
     },
     {
-      "rank": 7,
+      "rank": 2,
       "title": "小巨蛋暴動了！告五人唱到一半女神莫文蔚降臨 雲安喊羨慕嫉妒吧",
       "summary": [
         "自由時報：小巨蛋暴動了！告五人唱到一半女神莫文蔚降臨 雲安喊羨慕嫉妒吧",
@@ -161,7 +55,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 3,
       "title": "波蘭第二大城爆槍擊2死10傷　總理發文稱悲劇",
       "summary": [
         "經濟日報：波蘭第二大城爆槍擊2死10傷　總理發文稱悲劇",
@@ -182,7 +76,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 4,
       "title": "波蘭槍擊案釀6死15傷　男嫌遭警方開槍擊中後送醫",
       "summary": [
         "自由時報：波蘭槍擊案釀6死15傷　男嫌遭警方開槍擊中後送醫",
@@ -203,7 +97,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 5,
       "title": "幣安財務長將離職　支付平臺Airwallex高層接任",
       "summary": [
         "自由時報：幣安財務長將離職　支付平臺Airwallex高層接任",
@@ -222,38 +116,98 @@
           "url": "https://money.udn.com/money/story/5599/9864469"
         }
       ]
+    },
+    {
+      "rank": 6,
+      "title": "巴拉圭檢方對前總統提出刑事指控　聲請預防性羈押",
+      "summary": [
+        "自由時報：巴拉圭檢方對前總統提出刑事指控　聲請預防性羈押",
+        "經濟日報：巴拉圭檢方對前總統提出刑事指控　聲請預防性羈押"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "巴拉圭檢方對前總統提出刑事指控　聲請預防性羈押",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5633222"
+        },
+        {
+          "source": "經濟日報",
+          "title": "巴拉圭檢方對前總統提出刑事指控　聲請預防性羈押",
+          "url": "https://money.udn.com/money/story/5599/9864477"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
+      "summary": [
+        "經濟日報：以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
+        "ETtoday：以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
+          "url": "https://money.udn.com/money/story/5599/9864497"
+        },
+        {
+          "source": "ETtoday",
+          "title": "以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
+          "url": "https://www.ettoday.net/news/20261108/3268277.htm"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "威致 115年10月營收8.08億、年增0.80%",
+      "summary": [
+        "MoneyDJ理財網：威致 115年10月營收8.08億、年增0.80%"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "威致 115年10月營收8.08億、年增0.80%",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTngtQnNHT2oyQUFVbUpzQVZpVGpnQUszazU0ZkRiVEFRa00tU3BFRzhaWHVBTVljQ1dSeDA2RVNnZ1JrcHJ0eXByVWJoWEpxOGVUcjdWSGM3c1BoeHFtNEQ3R242MDJSZXlWcUgxMGxzWTA2OUkwNE9jckkwRjdkR0djN1loaWp1MkRfVTVfTFIyQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "鉅亨速報 - Factset 最新調查：穎崴(6515-TW)EPS預估下修至91.34元，預估目標價為8175元",
+      "summary": [
+        "鉅亨網：鉅亨速報 - Factset 最新調查：穎崴(6515-TW)EPS預估下修至91.34元，預估目標價為8175元"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "鉅亨網",
+          "title": "鉅亨速報 - Factset 最新調查：穎崴(6515-TW)EPS預估下修至91.34元，預估目標價為8175元",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81TXY3WmF6b2dEd25rdVlWcWgtRGRiM0htclk1TGlNako1MjZ1TTliYkdmMXpDdTJ2NlRBYUJWUmVZa1p6STk2SFlVbzZWS0U?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "機捷炸雞店油鍋起火 濃煙竄站內嗆乘客｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+      "summary": [
+        "TVBS新聞：機捷炸雞店油鍋起火 濃煙竄站內嗆乘客｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "機捷炸雞店油鍋起火 濃煙竄站內嗆乘客｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzeTEyN0lGY01WdVYtSElFc0QxUy1zTjE2N21MbHlObHNOX2RPU2FNUXUxUDBuOGVRMzhReEZGbUdVSElQWkFEVmJRc3ZUbG1xdGNoUjJB?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "波克夏海瑟威的營業利潤下降，回購增加",
-      "summary": [
-        "Bloomberg Markets：波克夏海瑟威的營業利潤下降，回購增加",
-        "Investing.com：波克夏海瑟威因營業利潤下降而加強回購力度",
-        "Yahoo Finance：波克夏海瑟威因營業利潤下降而加強回購力度"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "波克夏海瑟威的營業利潤下降，回購增加",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise"
-        },
-        {
-          "source": "Investing.com",
-          "title": "波克夏海瑟威因營業利潤下降而加強回購力度",
-          "url": "https://www.investing.com/news/stock-market-news/berkshire-hathaway-steps-up-buybacks-as-operating-profit-falls-5009881"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "波克夏海瑟威因營業利潤下降而加強回購力度",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTGZmS29PZVJvc2JQb0xQTEczNWlfWUF6dm11TVlRazFaRGx6X1ZMdk1RMG1pOWpUZ0VPU3RnaWdOZVVmRVJaeU1kUEpXd2UwWGZlV2RJbk5YNFZjcVVuOTJ1cWF4RnpEXzdlaFNXM2NsNm9sZ1FaRFlnX05XSVdRWV9IU0s1eXNzWXNlS0ZLaWRKdGR0VnpNX2NsN0p2eWQ4OWRzdEpOQ19FZy1l?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "美國情報機構認為黃仁勳在蜜罐行動中與中國間諜有浪漫關係",
       "summary": [
         "Tom's Hardware：美國情報機構認為黃仁勳在蜜罐行動中與中國間諜有浪漫關係",
@@ -270,6 +224,27 @@
           "source": "Investing.com",
           "title": "美國備忘錄稱英偉達執行長與疑似北京間諜有戀情",
           "url": "https://www.investing.com/news/stock-market-news/us-intelligence-memo-ties-nvidias-huang-to-alleged-chinese-spy-ft-reports-5009930"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "波蘭第二大城克拉科夫發生槍擊案      至少6死10傷",
+      "summary": [
+        "法廣RFI：波蘭第二大城克拉科夫發生槍擊案      至少6死10傷",
+        "NHK新聞：波蘭南部克拉科夫發生槍擊事件，造成六人死亡；嫌犯在押"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "波蘭第二大城克拉科夫發生槍擊案      至少6死10傷",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261107-%E6%B3%A2%E8%98%AD%E7%AC%AC%E4%BA%8C%E5%A4%A7%E5%9F%8E%E5%85%8B%E6%8B%89%E7%A7%91%E5%A4%AB%E7%99%BC%E7%94%9F%E6%A7%8D%E6%93%8A%E6%A1%88-%E8%87%B3%E5%B0%916%E6%AD%BB10%E5%82%B7"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "波蘭南部克拉科夫發生槍擊事件，造成六人死亡；嫌犯在押",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72373"
         }
       ]
     },
@@ -359,6 +334,69 @@
     },
     {
       "rank": 7,
+      "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
+      "summary": [
+        "The Guardian：巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
+        "WSJ Markets：巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
+          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機",
+          "url": "https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "以色列總統責成反對黨領袖艾森科特成立政府",
+      "summary": [
+        "BBC World：以色列總統責成反對黨領袖艾森科特成立政府",
+        "NHK新聞：以色列要求第二黨領袖艾森科特組成政府"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "以色列總統責成反對黨領袖艾森科特成立政府",
+          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "以色列要求第二黨領袖艾森科特組成政府",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72392"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "人工智慧衰退重振亞洲被遺忘的貿易（從中國到印度）",
+      "summary": [
+        "Bloomberg Markets：人工智慧衰退重振亞洲被遺忘的貿易（從中國到印度）",
+        "Investing.com：人工智慧股票拋售促使投資者轉向中國、印度和被忽視的亞洲產業"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "人工智慧衰退重振亞洲被遺忘的貿易（從中國到印度）",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india"
+        },
+        {
+          "source": "Investing.com",
+          "title": "人工智慧股票拋售促使投資者轉向中國、印度和被忽視的亞洲產業",
+          "url": "https://www.investing.com/news/stock-market-news/ai-stock-selloff-drives-investors-to-china-india-and-overlooked-asian-sectors-5010098"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "[地震速報] 愛知縣地震強度5+",
       "summary": [
         "NHK新聞：[地震速報] 愛知縣地震強度5+"
@@ -369,51 +407,6 @@
           "source": "NHK新聞",
           "title": "[地震速報] 愛知縣地震強度5+",
           "url": "https://news.web.nhk/newsweb/na/nd-20261108de72252"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "紐西蘭選舉情勢緊張，聯合政府談判成為焦點",
-      "summary": [
-        "Nikkei Asia：紐西蘭選舉情勢緊張，聯合政府談判成為焦點"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "紐西蘭選舉情勢緊張，聯合政府談判成為焦點",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTkJQTi1HaE13eUluWnpYTVdaaVU2bERrRVRVa05Ia0sxMXJmWmhfWG5DT3d6RWZ4WTV5QWNlTXdhX0ozOG1JX1pIeW1WeUNfcmkyTkZQTm9INmNSeU9HYnVHN1RpUUtKYlU3d2trSk84WkRhZ2VsSkt3WXVjWUdPY0Q3aGFzUGNOQ05fV1FFZk5xY004VFE?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "專家：“好像和南海海槽特大地震沒有關係。”",
-      "summary": [
-        "NHK新聞：專家：“好像和南海海槽特大地震沒有關係。”"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "專家：“好像和南海海槽特大地震沒有關係。”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72284"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "反AI浪潮讓黃仁勳禍不單行？股票暴跌 被國會傳喚",
-      "summary": [
-        "德國之聲：反AI浪潮讓黃仁勳禍不單行？股票暴跌 被國會傳喚"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "反AI浪潮讓黃仁勳禍不單行？股票暴跌 被國會傳喚",
-          "url": "https://www.dw.com/zh/反ai浪潮让黄仁勋祸不单行？股票暴跌-被国会传唤/a-79884461?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     }
