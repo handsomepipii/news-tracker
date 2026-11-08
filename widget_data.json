@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 11:50",
+  "updated_at": "2026-11-08 12:51",
   "taiwan": [
     {
       "rank": 1,
@@ -35,48 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "佳大 115年10月營收5128萬、年減12.98%",
-      "summary": [
-        "MoneyDJ理財網：佳大 115年10月營收5128萬、年減12.98%",
-        "鉅亨網：福永生技10月營收0.13億元年減72.06% 1—10月達2.74億元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "佳大 115年10月營收5128萬、年減12.98%",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1NpeXhNY0RDQ215M3hnXzdXd3gwazBSVDNxS3pZMkNJS3p2Wkx3QUNHbGt2VTA1WDIzbzh2UEhCellJd3lQZVdDYmx4LTRVLUdhQ3psU3Q3QWJtZ1loVHlwSEk0SWR2MGZBSEtyTXJBaEZsRWREVzJCQ2lOSHRDWGFTSXRnb2t0NXZfaFYwOG9Wdw?oc=5"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "福永生技10月營收0.13億元年減72.06% 1—10月達2.74億元",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wV2FFUkFkc2ZmZkkxOEc0SHZDZkF1SVN6VGJ6NFVCUTVBdGtGTXRpUGdteThQYnl2dzd6TENRbHEtb2FDR19fUmZHZ0VwYWM?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "波蘭第二大城爆槍擊2死10傷　總理發文稱悲劇",
-      "summary": [
-        "經濟日報：波蘭第二大城爆槍擊2死10傷　總理發文稱悲劇",
-        "自由時報：波蘭第二大城驚爆隨機槍擊 2死至少10傷"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "波蘭第二大城爆槍擊2死10傷　總理發文稱悲劇",
-          "url": "https://money.udn.com/money/story/5599/9864425"
-        },
-        {
-          "source": "自由時報",
-          "title": "波蘭第二大城驚爆隨機槍擊 2死至少10傷",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5633195"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "波蘭槍擊案釀6死15傷　男嫌遭警方開槍擊中後送醫",
       "summary": [
         "自由時報：波蘭槍擊案釀6死15傷　男嫌遭警方開槍擊中後送醫",
@@ -97,7 +55,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "合體石舫亙! 盧秀燕:首次有市長幫市長跑攤｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：合體石舫亙! 盧秀燕:首次有市長幫市長跑攤｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -118,7 +76,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "幣安財務長將離職　支付平臺Airwallex高層接任",
       "summary": [
         "自由時報：幣安財務長將離職　支付平臺Airwallex高層接任",
@@ -139,7 +97,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "巴拉圭檢方對前總統提出刑事指控　聲請預防性羈押",
       "summary": [
         "自由時報：巴拉圭檢方對前總統提出刑事指控　聲請預防性羈押",
@@ -160,7 +118,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
       "summary": [
         "經濟日報：以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
@@ -181,7 +139,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "溼答答！　入秋最強冷空氣明報到",
       "summary": [
         "ETtoday：溼答答！　入秋最強冷空氣明報到",
@@ -202,11 +160,32 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "title": "力晶投控爆經營權之爭　祭出1088元股東會禮品爭取股東支援",
+      "summary": [
+        "ETtoday：力晶投控爆經營權之爭　祭出1088元股東會禮品爭取股東支援",
+        "鉅亨網：力晶投控爭取股東支援出招 庫藏股每股42元、股東會送1088元商品券"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "力晶投控爆經營權之爭　祭出1088元股東會禮品爭取股東支援",
+          "url": "https://finance.ettoday.net/news/3268262"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "力晶投控爭取股東支援出招 庫藏股每股42元、股東會送1088元商品券",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16SW9JMUVnVUNDb0NpZFRsNmtkNDU3blpSaEMzanVFRzE1RVpsRzE2eFhLSV83WFN2d3M1cEVDYnk4RnFHeWNKd1NUZHhXY0E?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "影/波蘭槍擊恐攻6死15傷！民眾逃警局趴滿地 警開6槍制伏兇嫌畫面曝",
       "summary": [
         "經濟日報：影/波蘭槍擊恐攻6死15傷！民眾逃警局趴滿地 警開6槍制伏兇嫌畫面曝",
-        "TVBS新聞：波蘭槍擊案釀6死16傷! 槍手開車駛入廣場開火｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+        "ETtoday：槍手弒親後廣場隨機開槍！眾人逃命畫面曝光　波蘭定調恐攻"
       ],
       "media_count": 2,
       "links": [
@@ -216,9 +195,30 @@
           "url": "https://money.udn.com/money/story/5599/9864540"
         },
         {
-          "source": "TVBS新聞",
-          "title": "波蘭槍擊案釀6死16傷! 槍手開車駛入廣場開火｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vVURhaW8ydHJqdURiVG82R0dMc0NrbmJnZDBRMmJVaTR1eC1mczlpVFdOaVJXbkVJeGdBd3VVcHFhYkJrckFGN3VoREFrb2lVTGEyYkd3?oc=5"
+          "source": "ETtoday",
+          "title": "槍手弒親後廣場隨機開槍！眾人逃命畫面曝光　波蘭定調恐攻",
+          "url": "https://www.ettoday.net/news/20261108/3268301.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "快訊／高雄鳥松鐵皮屋冒出大量火煙！消防急佈線灌救",
+      "summary": [
+        "ETtoday：快訊／高雄鳥松鐵皮屋冒出大量火煙！消防急佈線灌救",
+        "自由時報：高雄鳥松連棟鐵皮屋大火 鳳山等3行政區空汙警戒"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／高雄鳥松鐵皮屋冒出大量火煙！消防急佈線灌救",
+          "url": "https://www.ettoday.net/news/20261108/3268294.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "高雄鳥松連棟鐵皮屋大火 鳳山等3行政區空汙警戒",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5633356"
         }
       ]
     }
@@ -331,6 +331,48 @@
     },
     {
       "rank": 6,
+      "title": "川普針對斯洛特金呼籲司法部調查所謂的民主黨對共和黨的威脅",
+      "summary": [
+        "CNBC：川普針對斯洛特金呼籲司法部調查所謂的民主黨對共和黨的威脅",
+        "Washington Post：川普呼籲司法部調查民主黨人"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "川普針對斯洛特金呼籲司法部調查所謂的民主黨對共和黨的威脅",
+          "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html"
+        },
+        {
+          "source": "Washington Post",
+          "title": "川普呼籲司法部調查民主黨人",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYWNoYzZPMGhyQkU5MmZ2THZhM3pHTkJDdGZjS1ZYdHBfdGdoVzV1cGk4cWN6QWFsRHA0X2w3TG0yWDdzaU8tczgzWHQ3amtkOWwxUjduSzg4RjNEb0tLSDZnaGVsTm01RkFRaDB5Wl9RdnhONlJSenNMVnpUN2pXckI5NTlyQ2pqdUNCYnp2NEhaaGw3bVRZZy15VTU5OWtEdnVSLTQtNA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
+      "summary": [
+        "The Guardian：巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
+        "WSJ Markets：巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
+          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機",
+          "url": "https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "以色列總統責成反對黨領袖艾森科特成立政府",
       "summary": [
         "BBC World：以色列總統責成反對黨領袖艾森科特成立政府",
@@ -351,7 +393,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "人工智慧衰退重振亞洲被遺忘的貿易（從中國到印度）",
       "summary": [
         "Bloomberg Markets：人工智慧衰退重振亞洲被遺忘的貿易（從中國到印度）",
@@ -372,47 +414,17 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "[地震速報] 愛知縣地震強度5+",
-      "summary": [
-        "NHK新聞：[地震速報] 愛知縣地震強度5+"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "[地震速報] 愛知縣地震強度5+",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72252"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "專家：“好像和南海海槽特大地震沒有關係。”",
-      "summary": [
-        "NHK新聞：專家：“好像和南海海槽特大地震沒有關係。”"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "專家：“好像和南海海槽特大地震沒有關係。”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72284"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "梅根的父親託馬斯馬克爾因兒童性虐待材料指控而被軟禁",
+      "title": "【影片】愛知縣地震強度5+，各地狀況",
       "summary": [
-        "BBC World：梅根的父親託馬斯馬克爾因兒童性虐待材料指控而被軟禁"
+        "NHK新聞：【影片】愛知縣地震強度5+，各地狀況"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "BBC World",
-          "title": "梅根的父親託馬斯馬克爾因兒童性虐待材料指控而被軟禁",
-          "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss"
+          "source": "NHK新聞",
+          "title": "【影片】愛知縣地震強度5+，各地狀況",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72260"
         }
       ]
     }
