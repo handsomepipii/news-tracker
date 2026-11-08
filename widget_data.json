@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-08 14:53",
+  "updated_at": "2026-11-08 15:58",
   "taiwan": [
     {
       "rank": 1,
-      "title": "日本中部規模5.7地震無海嘯威脅　愛知縣疑兩人受傷",
-      "summary": [
-        "經濟日報：日本中部規模5.7地震無海嘯威脅　愛知縣疑兩人受傷",
-        "ETtoday：日本中部規模5.7地震　愛知縣傳2傷",
-        "TVBS新聞：日本中部規模5.7震無海嘯威脅愛知、靜岡傳16人受傷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "日本中部規模5.7地震無海嘯威脅　愛知縣疑兩人受傷",
-          "url": "https://money.udn.com/money/story/5599/9864455"
-        },
-        {
-          "source": "ETtoday",
-          "title": "日本中部規模5.7地震　愛知縣傳2傷",
-          "url": "https://www.ettoday.net/news/20261108/3268269.htm"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "日本中部規模5.7震無海嘯威脅愛知、靜岡傳16人受傷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nN0VBdFZrcGlWWHhoZG9oSUNQaFdhcDA0c3g4NU5PNmxxYklYbmRyYnFJSWswWTR5UFk3VUJxdUExTHpYdnJmdnpkMy01NVh1WDN1S2xR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
       "summary": [
         "經濟日報：以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
@@ -56,6 +29,27 @@
       ]
     },
     {
+      "rank": 2,
+      "title": "日本中部規模5.7地震　愛知縣傳2傷",
+      "summary": [
+        "ETtoday：日本中部規模5.7地震　愛知縣傳2傷",
+        "經濟日報：日本中部5.7地震釀27傷！震央位南海海槽震源區 氣象廳回應"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "日本中部規模5.7地震　愛知縣傳2傷",
+          "url": "https://www.ettoday.net/news/20261108/3268269.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "日本中部5.7地震釀27傷！震央位南海海槽震源區 氣象廳回應",
+          "url": "https://money.udn.com/money/story/5599/9864752"
+        }
+      ]
+    },
+    {
       "rank": 3,
       "title": "波蘭槍擊案釀6死16傷! 槍手開車駛入廣場開火｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
@@ -78,48 +72,6 @@
     },
     {
       "rank": 4,
-      "title": "合體石舫亙! 盧秀燕:首次有市長幫市長跑攤｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-      "summary": [
-        "TVBS新聞：合體石舫亙! 盧秀燕:首次有市長幫市長跑攤｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-        "自由時報：陳水扁找到宋楚瑜Threads 大玩「宋省長」諧音哏：送沈伯洋當市長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "合體石舫亙! 盧秀燕:首次有市長幫市長跑攤｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YU18wY29iWTE3M1RyVm9fZkljRS1JbUxSTEtURzdlRGJva0tqbjVDZkljaTNPY0Q3VlJfR1U4TmhIWkhJaThfaEsyYW1EYmhqYXN1QzJR?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "陳水扁找到宋楚瑜Threads 大玩「宋省長」諧音哏：送沈伯洋當市長",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633257"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "望隼本公司代子公司江蘇視準醫療器械有限公司公告現金股利除息基準日- 新聞",
-      "summary": [
-        "MoneyDJ理財網：望隼本公司代子公司江蘇視準醫療器械有限公司公告現金股利除息基準日- 新聞",
-        "自由時報：李乾龍評「洋流」漸退潮 李四川：新北海納百川、川流不息"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "望隼本公司代子公司江蘇視準醫療器械有限公司公告現金股利除息基準日- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0dkQ005bnIySk5rS2lpUUFmZjVYWUxOb1V4NmpjYWlZeld1UFRBLS02TG1NRWx6djdwYW9ULTA5OWVvNlVYcXV0TnFCNGVWb1BNcW5hZXFqeURTMW1fQzZuUVlkYU9lQ2lBVlFBOG0waGdNY3hiUjBKMTVKbDNqMlhlTEtUR3BEekR4ZTFHa1l6QQ?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "李乾龍評「洋流」漸退潮 李四川：新北海納百川、川流不息",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633496"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "幣安財務長將離職　支付平臺Airwallex高層接任",
       "summary": [
         "自由時報：幣安財務長將離職　支付平臺Airwallex高層接任",
@@ -140,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "巴拉圭檢方對前總統提出刑事指控　聲請預防性羈押",
       "summary": [
         "自由時報：巴拉圭檢方對前總統提出刑事指控　聲請預防性羈押",
@@ -161,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "臺積電進軍先進記憶體市場？傳應輝達要求研擬生產3D DRAM",
       "summary": [
         "工商時報：臺積電進軍先進記憶體市場？傳應輝達要求研擬生產3D DRAM",
@@ -182,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "溼答答！　入秋最強冷空氣明報到",
       "summary": [
         "ETtoday：溼答答！　入秋最強冷空氣明報到",
@@ -203,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "力晶投控爆經營權之爭　祭出1088元股東會禮品爭取股東支援",
       "summary": [
         "ETtoday：力晶投控爆經營權之爭　祭出1088元股東會禮品爭取股東支援",
@@ -220,6 +172,48 @@
           "source": "鉅亨網",
           "title": "力晶投控爭取股東支援出招 庫藏股每股42元、股東會送1088元商品券",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16SW9JMUVnVUNDb0NpZFRsNmtkNDU3blpSaEMzanVFRzE1RVpsRzE2eFhLSV83WFN2d3M1cEVDYnk4RnFHeWNKd1NUZHhXY0E?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "影/波蘭槍擊恐攻6死15傷！民眾逃警局趴滿地 警開6槍制伏兇嫌畫面曝",
+      "summary": [
+        "經濟日報：影/波蘭槍擊恐攻6死15傷！民眾逃警局趴滿地 警開6槍制伏兇嫌畫面曝",
+        "ETtoday：槍手弒親後廣場隨機開槍！眾人逃命畫面曝光　波蘭定調恐攻"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "影/波蘭槍擊恐攻6死15傷！民眾逃警局趴滿地 警開6槍制伏兇嫌畫面曝",
+          "url": "https://money.udn.com/money/story/5599/9864540"
+        },
+        {
+          "source": "ETtoday",
+          "title": "槍手弒親後廣場隨機開槍！眾人逃命畫面曝光　波蘭定調恐攻",
+          "url": "https://www.ettoday.net/news/20261108/3268301.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "快訊／高雄鳥松鐵皮屋冒出大量火煙！消防急佈線灌救",
+      "summary": [
+        "ETtoday：快訊／高雄鳥松鐵皮屋冒出大量火煙！消防急佈線灌救",
+        "自由時報：高雄鳥松連棟鐵皮屋大火 鳳山等3行政區空汙警戒"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／高雄鳥松鐵皮屋冒出大量火煙！消防急佈線灌救",
+          "url": "https://www.ettoday.net/news/20261108/3268294.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "高雄鳥松連棟鐵皮屋大火 鳳山等3行政區空汙警戒",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5633356"
         }
       ]
     }
@@ -368,46 +362,46 @@
     },
     {
       "rank": 8,
-      "title": "愛知縣發生5級以上地震，縣內至少8人受傷（截至凌晨3點）",
+      "title": "臨近阿布紮比美俄烏會談 俄羅斯持續襲擊烏克蘭",
       "summary": [
-        "NHK新聞：愛知縣發生5級以上地震，縣內至少8人受傷（截至凌晨3點）"
+        "法廣RFI：臨近阿布紮比美俄烏會談 俄羅斯持續襲擊烏克蘭"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "愛知縣發生5級以上地震，縣內至少8人受傷（截至凌晨3點）",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72295"
+          "source": "法廣RFI",
+          "title": "臨近阿布紮比美俄烏會談 俄羅斯持續襲擊烏克蘭",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E5%88%86%E6%9E%90/20261107-%E8%87%A8%E8%BF%91%E9%98%BF%E5%B8%83%E7%B4%AE%E6%AF%94%E7%BE%8E%E4%BF%84%E7%83%8F%E6%9C%83%E8%AB%87-%E4%BF%84%E7%BE%85%E6%96%AF%E6%8C%81%E7%BA%8C%E8%A5%B2%E6%93%8A%E7%83%8F%E5%85%8B%E8%98%AD"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "愛知豐橋汽車經銷店的櫥窗玻璃嚴重破裂",
+      "title": "埃博拉:英國醫生剛果(金)確診",
       "summary": [
-        "NHK新聞：愛知豐橋汽車經銷店的櫥窗玻璃嚴重破裂"
+        "法廣RFI：埃博拉:英國醫生剛果(金)確診"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "愛知豐橋汽車經銷店的櫥窗玻璃嚴重破裂",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72297"
+          "source": "法廣RFI",
+          "title": "埃博拉:英國醫生剛果(金)確診",
+          "url": "https://www.rfi.fr/tw/%E9%9D%9E%E6%B4%B2/20261107-rfi%E6%B3%95%E5%BB%A3-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%9F%83%E5%8D%9A%E6%8B%89-%E8%8B%B1%E5%9C%8B%E9%86%AB%E7%94%9F%E5%89%9B%E6%9E%9C-%E9%87%91-%E7%A2%BA%E8%A8%BA"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "[地震] 臥舖特快「日出瀨戶/出雲號」在濱松市停靠",
+      "title": "地震特徵 與南海海槽特大地震的關係【災害記者解說】",
       "summary": [
-        "NHK新聞：[地震] 臥舖特快「日出瀨戶/出雲號」在濱松市停靠"
+        "NHK新聞：地震特徵 與南海海槽特大地震的關係【災害記者解說】"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "[地震] 臥舖特快「日出瀨戶/出雲號」在濱松市停靠",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72298"
+          "title": "地震特徵 與南海海槽特大地震的關係【災害記者解說】",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72313"
         }
       ]
     }
