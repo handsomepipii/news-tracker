@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 02:07",
+  "updated_at": "2026-11-09 03:23",
   "taiwan": [
     {
       "rank": 1,
@@ -30,33 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "埃及兩列火車追撞 至少4死88傷",
-      "summary": [
-        "經濟日報：埃及兩列火車追撞 至少4死88傷",
-        "自由時報：埃及2火車相撞脫軌翻覆 至少4死88傷",
-        "ETtoday：快訊／埃及爆「火車相撞」脫軌！至少4人死亡、近百傷者送醫"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "埃及兩列火車追撞 至少4死88傷",
-          "url": "https://money.udn.com/money/story/5599/9865760"
-        },
-        {
-          "source": "自由時報",
-          "title": "埃及2火車相撞脫軌翻覆 至少4死88傷",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5633996"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／埃及爆「火車相撞」脫軌！至少4人死亡、近百傷者送醫",
-          "url": "https://www.ettoday.net/news/20261108/3268650.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "公督盟批切割騙票仍是「聽話的狗」 柯志恩：低劣言詞不回應",
       "summary": [
         "自由時報：公督盟批切割騙票仍是「聽話的狗」 柯志恩：低劣言詞不回應",
@@ -77,28 +50,28 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "揭開「肥胖悖論」新線索：飲食改變腸道細菌，影響癌症免疫治療成效",
+      "rank": 3,
+      "title": "埃及兩列火車追撞 至少4死88傷",
       "summary": [
-        "科技新報：揭開「肥胖悖論」新線索：飲食改變腸道細菌，影響癌症免疫治療成效",
-        "自由時報：癌症免疫治療受飲食影響！研究揭某些高脂食物竟讓療效更好"
+        "經濟日報：埃及兩列火車追撞 至少4死88傷",
+        "自由時報：埃及2火車相撞脫軌翻覆 至少4死88傷"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "科技新報",
-          "title": "揭開「肥胖悖論」新線索：飲食改變腸道細菌，影響癌症免疫治療成效",
-          "url": "https://technews.tw/2026/11/08/some-unhealthy-diets-can-boost-cancer-immunotherapy-in-mice/"
+          "source": "經濟日報",
+          "title": "埃及兩列火車追撞 至少4死88傷",
+          "url": "https://money.udn.com/money/story/5599/9865760"
         },
         {
           "source": "自由時報",
-          "title": "癌症免疫治療受飲食影響！研究揭某些高脂食物竟讓療效更好",
-          "url": "https://health.ltn.com.tw/article/breakingnews/5633744"
+          "title": "埃及2火車相撞脫軌翻覆 至少4死88傷",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5633996"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "宋逸民驚爆父子投票不同調！陳維齡認了：各自去禱告",
       "summary": [
         "自由時報：宋逸民驚爆父子投票不同調！陳維齡認了：各自去禱告",
@@ -119,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "RSF：中國施壓泰國媒體　恐促自我審查衝擊新聞自由",
       "summary": [
         "經濟日報：RSF：中國施壓泰國媒體　恐促自我審查衝擊新聞自由",
@@ -140,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "王心凌雨中嗨跳《愛你》！大咖天王「王甜甜」現身掀暴動",
       "summary": [
         "自由時報：王心凌雨中嗨跳《愛你》！大咖天王「王甜甜」現身掀暴動",
@@ -161,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "法國反政府示威進入第4週　巴黎爆發警民衝突",
       "summary": [
         "經濟日報：法國反政府示威進入第4週　巴黎爆發警民衝突",
@@ -182,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "亞職交流賽／莊昕諺回來了！桃猿0比1惜敗金鷲　劉致榮未登板",
       "summary": [
         "ETtoday：亞職交流賽／莊昕諺回來了！桃猿0比1惜敗金鷲　劉致榮未登板",
@@ -203,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "臺積電傳跨界做記憶體擬產3D DRAM 華邦電董事長拋關鍵問題- 日報",
       "summary": [
         "工商時報：臺積電傳跨界做記憶體擬產3D DRAM 華邦電董事長拋關鍵問題- 日報",
@@ -222,131 +195,32 @@
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hZTVydUgxMTA1SEt3bUt2dHJud1hOYk9RNlNCWjlrdW1jXzJINVUta1d3dlZmbkY0WUE3aXAyNDRtTGJoUXF6ZEVEaFVOMW9rYjFWSEtYdHRoT2c5ZkpuRg?oc=5"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "川普：命令司法部調查民主黨威脅行徑",
+      "summary": [
+        "鉅亨網：川普：命令司法部調查民主黨威脅行徑",
+        "自由時報：國家機器動起來？川普控訴民主黨威脅共和黨人 下令司法部調查"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "鉅亨網",
+          "title": "川普：命令司法部調查民主黨威脅行徑",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MYnl2b1NjVkk4RjJMVWVBQjhKN21IbF9WQXpxcnJJQld5UTU4V3Fnc3otd3pPeFlIand2M2R1UE4zWU50S2pRM3BCRzBSdlU?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "國家機器動起來？川普控訴民主黨威脅共和黨人 下令司法部調查",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5633936"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "波蘭克拉科夫「極右翼」槍擊案致六人死亡 我們所知多少",
-      "summary": [
-        "BBC中文：波蘭克拉科夫「極右翼」槍擊案致六人死亡 我們所知多少"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "波蘭克拉科夫「極右翼」槍擊案致六人死亡 我們所知多少",
-          "url": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "小泉防衛相 陸海空自衛隊の垣根を越えた組織のあり方検討",
-      "summary": [
-        "NHK新聞：小泉防衛相 陸海空自衛隊の垣根を越えた組織のあり方検討"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "小泉防衛相 陸海空自衛隊の垣根を越えた組織のあり方検討",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72476"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "消費稅減稅法案 自民 小林政調會長“制度イメージわく審議を”",
-      "summary": [
-        "NHK新聞：消費稅減稅法案 自民 小林政調會長“制度イメージわく審議を”"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "消費稅減稅法案 自民 小林政調會長“制度イメージわく審議を”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72482"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "韓羽球名將安洗瑩奪賽季第11冠再創紀錄",
-      "summary": [
-        "韓聯社：韓羽球名將安洗瑩奪賽季第11冠再創紀錄"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "韓羽球名將安洗瑩奪賽季第11冠再創紀錄",
-          "url": "https://cn.yna.co.kr/view/ACK20261108001600881"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
-      "summary": [
-        "CNBC：Cathie Wood 'always feels better when the market is worried' — here's why"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
-          "url": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "3 Growth Stocks With Earnings Growth Up To 58%",
-      "summary": [
-        "Yahoo Finance：3 Growth Stocks With Earnings Growth Up To 58%"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "3 Growth Stocks With Earnings Growth Up To 58%",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeFUxMjJmU05uZFNSNXRDVFhwLXJ3LVc1VEJnbmlZNEc1OWF6cXpaX1l6YS1aVUFzWWZJY1Qwcld6QWtKZlVIOEk5ZHdLUkhwc2hwV3Zta0RiRDJ2NHJzdy1WTGJhRWwzSTB1enR1bW10V1ZXNlo3cm4td3o2NFRXTG9vTUpScXEtejk1eHAyUnJ2Q3BBMzZmazFKTVo?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "5 Best Dow Stocks to Buy for 2027",
-      "summary": [
-        "Yahoo Finance：5 Best Dow Stocks to Buy for 2027"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "5 Best Dow Stocks to Buy for 2027",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUF80V0tvOWJTZEh5OTNBc0pkS3VpaHJ6T0hpcmNQNjNTM0k3VHVfX3F4ZDNUSEMtalB3anl0MU5ybVNZQjJvZHFRejVzQmxiNFpaVHNhY1Ztb0pTTGh2VUItTDltYmpCRGtJQzVWb1I4cHhjVy1VV1dwV051WmdQWG1zZzh3Njc5Ujl3NHdFMA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Bridgestone revs up output of massive mining tires on AI-driven demand",
-      "summary": [
-        "Nikkei Asia：Bridgestone revs up output of massive mining tires on AI-driven demand"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "Bridgestone revs up output of massive mining tires on AI-driven demand",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkFaOEc0RVp6MEdUcnlsY3BUYk85ekxTQUNIUmZFTHR1eko1aXJLcmtLb1g5RWU4VldNSG1sQWJFTHVuXzZwcHdVaGFfUU1MVDJlTTFPSkhQSVpDM05QbTVKNWN5bkIwc1hibDlZcHhZX2p4WlAtSVg4S0FwdlQ2NTh6UGNnOE1ySU5kaTlUTkxGTW02ZjdETzJYczlPaVI2ZncxelQ3V0l0MFdsUFdubGE1WHFSdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "銷量急挫，Labubu熱潮正在退燒嗎？",
       "summary": [
         "BBC中文：銷量急挫，Labubu熱潮正在退燒嗎？"
@@ -361,7 +235,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 2,
       "title": "韓妝熱潮在韓催熱“藥房美妝經濟”",
       "summary": [
         "韓聯社：韓妝熱潮在韓催熱“藥房美妝經濟”"
@@ -372,6 +246,126 @@
           "source": "韓聯社",
           "title": "韓妝熱潮在韓催熱“藥房美妝經濟”",
           "url": "https://cn.yna.co.kr/view/ACK20261108001700881"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "summary": [
+        "BBC World：'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+      "summary": [
+        "The Guardian：Banana producers in Latin America want better pay to cope with effects of climate crisis"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+          "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "遠期保障不應漠視當期生計：社保擴面的效率錯配與規則風險",
+      "summary": [
+        "FT中文網：遠期保障不應漠視當期生計：社保擴面的效率錯配與規則風險"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "FT中文網",
+          "title": "遠期保障不應漠視當期生計：社保擴面的效率錯配與規則風險",
+          "url": "https://www.ftchinese.com/story/001111300"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Decisive election. Dramatic stock swings. How we handled the market last week",
+      "summary": [
+        "CNBC：Decisive election. Dramatic stock swings. How we handled the market last week"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "Decisive election. Dramatic stock swings. How we handled the market last week",
+          "url": "https://www.cnbc.com/investingclub/2026/11/07/decisive-election-dramatic-stock-swings-how-we-handled-the-market-last-week.html"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Berkshire Hathaway’s Operating Earnings Fall, Buybacks Rise",
+      "summary": [
+        "Yahoo Finance：Berkshire Hathaway’s Operating Earnings Fall, Buybacks Rise"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "Berkshire Hathaway’s Operating Earnings Fall, Buybacks Rise",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMGduc3dBZWxiNEFiNnBVc0E5SFlZbFJuMDN3UHczaHkwQnVTTWRWeEh1TmdFNTBfZC1uTjU4NEVLc1FQUG5oZk82TzRBbEN6S0kySGxNRVhzb1RVemlNdkZZcV96WVFVZVRUM3VDaWpGd3JPaTJmaG1CSTAzWWZLM0hPdWtzSXN6cnhMdm9zMy12WnFhRnRPT1E5Vm5JdzdzMTJvcFVuV0ZtWlE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Vietnam leader To Lam visits Japan as decades-old relationship evolves",
+      "summary": [
+        "Nikkei Asia：Vietnam leader To Lam visits Japan as decades-old relationship evolves"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Vietnam leader To Lam visits Japan as decades-old relationship evolves",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaVZoX1pISllwUHhFZnpybnMzZW5EWllzVFNJcmJJY0ViZTFNTjV0c0sycEJ3anpVT0g5b3hjYjVkR2NESmtmeXFCVG9vcWwtY0tfLVRKSVh3ZW5USFY3RVdUOEpFSVh2bzNGT05MWVhXYUUxanNLTU10UDR6ZG9PT192UU9PRzFKV2E3Z0EyemFsV25zcVpqd3dkV2RVRkJXUlFUb1BOUDRsRFRUS2lVY2t0ZHIyMmRJWlpzNWttUVZqYnRBREE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "A reckoning pushes out six congressmen accused of sexual misconduct, domestic abuse",
+      "summary": [
+        "Washington Post：A reckoning pushes out six congressmen accused of sexual misconduct, domestic abuse"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "A reckoning pushes out six congressmen accused of sexual misconduct, domestic abuse",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2ZGakpGVWMyZlJCVmk5ekZfUlBkSEFUaWxNQVVYajVJQV9saWhPUjk4TmJhUjhQSV9qWW5yZU80RWR6eDdnWHowOXZXUTg2Y0h6TkNXTEhINkxiWmpqV2JISTM5NHlFRlpKQjRTdThZbmlWNEYyTU02aWhuX0RPWWNvNzVlZkJydkFaUGdGeGRaRzhaX2RpdXpNSXBkSG5jZmNLa2JpWUFORnVucGNqbTVXZVJfOE9JdFVrOFBMSHk5cEVCbi1ZNg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "CoreWeave Asks Texas Governor-Elect for Data Center Cooperation",
+      "summary": [
+        "Yahoo Finance：CoreWeave Asks Texas Governor-Elect for Data Center Cooperation"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "CoreWeave Asks Texas Governor-Elect for Data Center Cooperation",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR093enZjampfYlVIcEhiVUcxRGFYWm9IZjlSQTBNQU5FTTNkeS1PQTQ3YmhYM0ZieGJPZEd3UFI1QVJpVm03VHdjOTR2YVdCYm55ZG9sZDVkS08wOVFrZXJFLU9HUjZ3ZXQ0ZXVRazcyLTdjZjlOeUIwYVlQS2NGTVktYUN2M3poR0tFc0ZzelhHSXEtYkEyRzRneXg4bXBv?oc=5"
         }
       ]
     }
