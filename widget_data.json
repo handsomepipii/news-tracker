@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 04:15",
+  "updated_at": "2026-11-09 05:14",
   "taiwan": [
     {
       "rank": 1,
@@ -51,69 +51,27 @@
     },
     {
       "rank": 3,
-      "title": "公督盟稱柯志恩「聽話的狗」 邱於軒：賴瑞隆21次優秀立委已無公信力",
+      "title": "期中選舉大勝　民主黨擬調查馬斯克、米勒及美國大企業",
       "summary": [
-        "自由時報：公督盟稱柯志恩「聽話的狗」 邱於軒：賴瑞隆21次優秀立委已無公信力",
-        "ETtoday：遭公督盟辱是「聽話的狗」　柯志恩：言詞低劣"
+        "自由時報：期中選舉大勝　民主黨擬調查馬斯克、米勒及美國大企業",
+        "經濟日報：期中選舉大勝　民主黨擬調查馬斯克、米勒及美國大企業"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "公督盟稱柯志恩「聽話的狗」 邱於軒：賴瑞隆21次優秀立委已無公信力",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633654"
+          "title": "期中選舉大勝　民主黨擬調查馬斯克、米勒及美國大企業",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5634028"
         },
         {
-          "source": "ETtoday",
-          "title": "遭公督盟辱是「聽話的狗」　柯志恩：言詞低劣",
-          "url": "https://www.ettoday.net/news/20261108/3268595.htm"
+          "source": "經濟日報",
+          "title": "期中選舉大勝　民主黨擬調查馬斯克、米勒及美國大企業",
+          "url": "https://money.udn.com/money/story/5599/9865856"
         }
       ]
     },
     {
       "rank": 4,
-      "title": "王心凌雨中嗨跳《愛你》！大咖天王「王甜甜」現身掀暴動",
-      "summary": [
-        "自由時報：王心凌雨中嗨跳《愛你》！大咖天王「王甜甜」現身掀暴動",
-        "中時新聞：王力宏雨中攜手王心凌！熱舞〈愛你〉解鎖「王甜甜」反差萌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "王心凌雨中嗨跳《愛你》！大咖天王「王甜甜」現身掀暴動",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5633689"
-        },
-        {
-          "source": "中時新聞",
-          "title": "王力宏雨中攜手王心凌！熱舞〈愛你〉解鎖「王甜甜」反差萌",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BZFVOeThuRGRETURncGcxQUxGRUFsZzMwYXkydE9TeEZVSUcya2NjNmxyV3lPczRCWVdZbkd1cTFreGlfRk54c2pGdTMza0xhN3RxbjZOUWdyaDFFdy1iR2JZZnp6S0xXeEtWV1p3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "法國反政府示威進入第4週　巴黎爆發警民衝突",
-      "summary": [
-        "經濟日報：法國反政府示威進入第4週　巴黎爆發警民衝突",
-        "MoneyDJ理財網：法國第四輪示威遊行！巴黎、里昂再爆警民衝突工會：25萬人上街- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "法國反政府示威進入第4週　巴黎爆發警民衝突",
-          "url": "https://money.udn.com/money/story/5599/9865173"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "法國第四輪示威遊行！巴黎、里昂再爆警民衝突工會：25萬人上街- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTmpEWDIzVE92bEMxNjJONVZ1dzFjNFZLdkFMRmMzTEprZldPTjR6QUpDVHh2N1Y3X2o1bHRzOWt1N1gzWWJuYVVLdzUzSTdudFFKY0lyUEN6OGRZS3lsNzQtaU10d0h0NkNOU3VpWVdCRFhhSzhBY3ZfZmw0bG9VTDVfVExZaXNnU3dSUW5TLTNMQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "亞職交流賽／莊昕諺回來了！桃猿0比1惜敗金鷲　劉致榮未登板",
       "summary": [
         "ETtoday：亞職交流賽／莊昕諺回來了！桃猿0比1惜敗金鷲　劉致榮未登板",
@@ -134,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "臺積電傳跨界做記憶體擬產3D DRAM 華邦電董事長拋關鍵問題- 日報",
       "summary": [
         "工商時報：臺積電傳跨界做記憶體擬產3D DRAM 華邦電董事長拋關鍵問題- 日報",
@@ -155,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "川普：命令司法部調查民主黨威脅行徑",
       "summary": [
         "鉅亨網：川普：命令司法部調查民主黨威脅行徑",
@@ -176,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "出了什麼事？黃仁勳長女因家庭因素取消訪韓多項合作行程喊卡- 國際",
       "summary": [
         "工商時報：出了什麼事？黃仁勳長女因家庭因素取消訪韓多項合作行程喊卡- 國際",
@@ -197,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "118海巡節救援告捷！嘉義外傘頂洲舢舨翻覆 2漁民平安脫困",
       "summary": [
         "自由時報：118海巡節救援告捷！嘉義外傘頂洲舢舨翻覆 2漁民平安脫困",
@@ -216,11 +174,122 @@
           "url": "https://www.ettoday.net/news/20261108/3268636.htm"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "稱「垃圾車廣播挺蔣萬安」惹議廖玉蕙刪文了- 政治",
+      "summary": [
+        "中時新聞：稱「垃圾車廣播挺蔣萬安」惹議廖玉蕙刪文了- 政治",
+        "ETtoday：控垃圾車廣播「市長選舉請支援蔣萬安」挨轟！廖玉蕙悄刪文了"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "稱「垃圾車廣播挺蔣萬安」惹議廖玉蕙刪文了- 政治",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fd0l3MkJFSzJwSGNnOGxpblBKRjZScmlvUmJwZ0Rma0JNMzhaUGhGT3BqU3hQbHhfbnFiaVR2dTJKS2Raak5HcGNwVHhOY2JkR29GSXZEdEdLbEY2Qk5Bel82bC1uU05HZW01ck5R?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "控垃圾車廣播「市長選舉請支援蔣萬安」挨轟！廖玉蕙悄刪文了",
+          "url": "https://www.ettoday.net/news/20261109/3268658.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普：若談判取得進展就不太可能下令攻擊伊朗",
+      "summary": [
+        "自由時報：川普：若談判取得進展就不太可能下令攻擊伊朗",
+        "經濟日報：川普：若談判取得進展就不太可能下令攻擊伊朗"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川普：若談判取得進展就不太可能下令攻擊伊朗",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5634027"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普：若談判取得進展就不太可能下令攻擊伊朗",
+          "url": "https://money.udn.com/money/story/5599/9865850"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+      "summary": [
+        "CNBC：Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+        "TechCrunch：Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+        "The Verge：Nvidia is investigating Jensen Huang’s relationship with a Chinese spy"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+          "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+        },
+        {
+          "source": "The Verge",
+          "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic reportedly strikes $3.4 billion deal for gas-fired power at data centres",
+      "summary": [
+        "Investing.com：Anthropic reportedly strikes $3.4 billion deal for gas-fired power at data centres",
+        "Yahoo Finance：Anthropic reportedly strikes $3.4 billion deal for gas-fired power at data centres"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Anthropic reportedly strikes $3.4 billion deal for gas-fired power at data centres",
+          "url": "https://www.investing.com/news/stock-market-news/anthropic-reportedly-strikes-34-billion-deal-for-gasfired-power-at-data-centres-5010208"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Anthropic reportedly strikes $3.4 billion deal for gas-fired power at data centres",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNTFVVk9fLXhyRU1WVWdfbWFYRGRWdWQ4ak1QY29DRmNjWFZfTU5icnh3OW9LeHJveEtVT2hyT3Frd1ItSmFVeDdsREYwRkI3RWJXdGp5WXVYUU5BRnQzMlk0WS1zeTV2MXR0TEQwcjY4UmYxM3RudWRqYmtkcm9ETlBNVEJ0Z0tDQm9pN2NJd2tmdDg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+      "summary": [
+        "Financial Times：Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+        "Investing.com：Nvidia CEO Jensen Huang admits to affair, apologises to employees"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+          "url": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Nvidia CEO Jensen Huang admits to affair, apologises to employees",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-launches-probe-into-reported-espionage-plot-targeting-ceo-jensen-huang-5010308"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "COP31 あす開幕へ 対策実行に向け足並みそろえられるか焦點",
       "summary": [
         "NHK新聞：COP31 あす開幕へ 対策実行に向け足並みそろえられるか焦點"
@@ -235,37 +304,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "A reckoning pushes out six congressmen accused of sexual misconduct, domestic abuse",
-      "summary": [
-        "Washington Post：A reckoning pushes out six congressmen accused of sexual misconduct, domestic abuse"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "A reckoning pushes out six congressmen accused of sexual misconduct, domestic abuse",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2ZGakpGVWMyZlJCVmk5ekZfUlBkSEFUaWxNQVVYajVJQV9saWhPUjk4TmJhUjhQSV9qWW5yZU80RWR6eDdnWHowOXZXUTg2Y0h6TkNXTEhINkxiWmpqV2JISTM5NHlFRlpKQjRTdThZbmlWNEYyTU02aWhuX0RPWWNvNzVlZkJydkFaUGdGeGRaRzhaX2RpdXpNSXBkSG5jZmNLa2JpWUFORnVucGNqbTVXZVJfOE9JdFVrOFBMSHk5cEVCbi1ZNg?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "CoreWeave Asks Texas Governor-Elect for Data Center Cooperation",
-      "summary": [
-        "Yahoo Finance：CoreWeave Asks Texas Governor-Elect for Data Center Cooperation"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "CoreWeave Asks Texas Governor-Elect for Data Center Cooperation",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR093enZjampfYlVIcEhiVUcxRGFYWm9IZjlSQTBNQU5FTTNkeS1PQTQ3YmhYM0ZieGJPZEd3UFI1QVJpVm03VHdjOTR2YVdCYm55ZG9sZDVkS08wOVFrZXJFLU9HUjZ3ZXQ0ZXVRazcyLTdjZjlOeUIwYVlQS2NGTVktYUN2M3poR0tFc0ZzelhHSXEtYkEyRzRneXg4bXBv?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "title": "塞爾維亞電視臺為何在節目中就「多年來的片面報道」道歉？",
       "summary": [
         "BBC中文：塞爾維亞電視臺為何在節目中就「多年來的片面報道」道歉？"
@@ -280,7 +319,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "利伯蘭：幣圈富豪的自由烏託邦",
       "summary": [
         "德國之聲：利伯蘭：幣圈富豪的自由烏託邦"
@@ -295,7 +334,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "柬埔寨打擊詐騙園區引發人道危機  大量外籍人員受困街頭",
       "summary": [
         "德國之聲：柬埔寨打擊詐騙園區引發人道危機  大量外籍人員受困街頭"
@@ -310,7 +349,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "中印邊境為何再起波瀾 ？",
       "summary": [
         "德國之聲：中印邊境為何再起波瀾 ？"
@@ -325,7 +364,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "中國影視寒冬加劇 橫店越來越像主題樂園？",
       "summary": [
         "德國之聲：中國影視寒冬加劇 橫店越來越像主題樂園？"
@@ -340,7 +379,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "魔法歸來 爭議未散《哈利·波特》走上銀幕25年 劇版今冬登場",
       "summary": [
         "德國之聲：魔法歸來 爭議未散《哈利·波特》走上銀幕25年 劇版今冬登場"
@@ -351,21 +390,6 @@
           "source": "德國之聲",
           "title": "魔法歸來 爭議未散《哈利·波特》走上銀幕25年 劇版今冬登場",
           "url": "https://www.dw.com/zh/魔法归来-争议未散《哈利·波特》走上银幕25年-剧版今冬登场/a-79878539?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "臺灣基於國家尊嚴主動關閉駐巴布亞紐幾內亞駐處 臺灣學者稱重傷的反而會是對方",
-      "summary": [
-        "法廣RFI：臺灣基於國家尊嚴主動關閉駐巴布亞紐幾內亞駐處 臺灣學者稱重傷的反而會是對方"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "臺灣基於國家尊嚴主動關閉駐巴布亞紐幾內亞駐處 臺灣學者稱重傷的反而會是對方",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261108-%E5%8F%B0%E7%81%A3%E5%9F%BA%E6%96%BC%E5%9C%8B%E5%AE%B6%E5%B0%8A%E5%9A%B4%E4%B8%BB%E5%8B%95%E9%97%9C%E9%96%89%E9%A7%90%E5%B7%B4%E5%B8%83%E4%BA%9E%E6%96%B0%E5%B9%BE%E5%85%A7%E4%BA%9E%E9%A7%90%E8%99%95-%E5%8F%B0%E7%81%A3%E5%AD%B8%E8%80%85%E7%A8%B1%E9%87%8D%E5%82%B7%E7%9A%84%E5%8F%8D%E8%80%8C%E6%9C%83%E6%98%AF%E5%B0%8D%E6%96%B9"
         }
       ]
     }
