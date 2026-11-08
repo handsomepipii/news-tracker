@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 05:14",
+  "updated_at": "2026-11-09 06:14",
   "taiwan": [
     {
       "rank": 1,
@@ -72,27 +72,6 @@
     },
     {
       "rank": 4,
-      "title": "亞職交流賽／莊昕諺回來了！桃猿0比1惜敗金鷲　劉致榮未登板",
-      "summary": [
-        "ETtoday：亞職交流賽／莊昕諺回來了！桃猿0比1惜敗金鷲　劉致榮未登板",
-        "自由時報：何欣純、蔡其昌走訪逢甲夜市 臺中「欣潮」儼然成形"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "亞職交流賽／莊昕諺回來了！桃猿0比1惜敗金鷲　劉致榮未登板",
-          "url": "https://sports.ettoday.net/news/3268447"
-        },
-        {
-          "source": "自由時報",
-          "title": "何欣純、蔡其昌走訪逢甲夜市 臺中「欣潮」儼然成形",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633989"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "臺積電傳跨界做記憶體擬產3D DRAM 華邦電董事長拋關鍵問題- 日報",
       "summary": [
         "工商時報：臺積電傳跨界做記憶體擬產3D DRAM 華邦電董事長拋關鍵問題- 日報",
@@ -113,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "川普：命令司法部調查民主黨威脅行徑",
       "summary": [
         "鉅亨網：川普：命令司法部調查民主黨威脅行徑",
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "出了什麼事？黃仁勳長女因家庭因素取消訪韓多項合作行程喊卡- 國際",
       "summary": [
         "工商時報：出了什麼事？黃仁勳長女因家庭因素取消訪韓多項合作行程喊卡- 國際",
@@ -155,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "118海巡節救援告捷！嘉義外傘頂洲舢舨翻覆 2漁民平安脫困",
       "summary": [
         "自由時報：118海巡節救援告捷！嘉義外傘頂洲舢舨翻覆 2漁民平安脫困",
@@ -176,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "稱「垃圾車廣播挺蔣萬安」惹議廖玉蕙刪文了- 政治",
       "summary": [
         "中時新聞：稱「垃圾車廣播挺蔣萬安」惹議廖玉蕙刪文了- 政治",
@@ -197,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "川普：若談判取得進展就不太可能下令攻擊伊朗",
       "summary": [
         "自由時報：川普：若談判取得進展就不太可能下令攻擊伊朗",
@@ -216,6 +195,27 @@
           "url": "https://money.udn.com/money/story/5599/9865850"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "平時相見大不易　排燈節成印度人與親友團圓重要時刻",
+      "summary": [
+        "自由時報：平時相見大不易　排燈節成印度人與親友團圓重要時刻",
+        "經濟日報：平時相見大不易　排燈節成印度人與親友團圓重要時刻"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "平時相見大不易　排燈節成印度人與親友團圓重要時刻",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5634029"
+        },
+        {
+          "source": "經濟日報",
+          "title": "平時相見大不易　排燈節成印度人與親友團圓重要時刻",
+          "url": "https://money.udn.com/money/story/5599/9865859"
+        }
+      ]
     }
   ],
   "global": [
@@ -227,7 +227,7 @@
         "TechCrunch：Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
         "The Verge：Nvidia is investigating Jensen Huang’s relationship with a Chinese spy"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "CNBC",
@@ -243,11 +243,48 @@
           "source": "The Verge",
           "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Nvidia’s board will probe CEO Jensen Huang’s relationship with an alleged spy. Here’s what to know.",
+          "url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories"
         }
       ]
     },
     {
       "rank": 2,
+      "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+      "summary": [
+        "Financial Times：Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+        "Investing.com：Nvidia CEO Jensen Huang admits to affair, apologises to employees",
+        "Yahoo Finance：Nvidia's Jensen Huang admits to affair after allegations of romance with Chinese spy: Report"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+          "url": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Nvidia CEO Jensen Huang admits to affair, apologises to employees",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-launches-probe-into-reported-espionage-plot-targeting-ceo-jensen-huang-5010308"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Nvidia's Jensen Huang admits to affair after allegations of romance with Chinese spy: Report",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYU5fTUZfS2drVGlTTk43X0NHYU9EMWZJQ0pmN1IyMDlWRFJLUjdpamR6QmlYN2pLR2FYaGw2RHJPbHl6VTdXOTRDaTlMSEJEWUZLYXlSNkw0VWlRSmlTNGl6WjFmVU5rRkRVeng2alFRSjdRR2lVTEpvSWM3THFmc1dQNk5SVG9pcm93WW1IQjFLV0xSOTBZd0RoQnU4SWJJRWhMcHZWMFpWcHRvSU1TQWVsTXR6NzdBcFFRRURMdUlCZ0hnSnNzZkV6eGZ6clp6dGVhcEZUMTkwRHpwSGhibg?oc=5"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy",
+          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Anthropic reportedly strikes $3.4 billion deal for gas-fired power at data centres",
       "summary": [
         "Investing.com：Anthropic reportedly strikes $3.4 billion deal for gas-fired power at data centres",
@@ -268,28 +305,49 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+      "rank": 4,
+      "title": "Nvidia Board to Probe Spying Case After CEO Jensen Huang Admits Infidelity",
       "summary": [
-        "Financial Times：Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
-        "Investing.com：Nvidia CEO Jensen Huang admits to affair, apologises to employees"
+        "Bloomberg Tech：Nvidia Board to Probe Spying Case After CEO Jensen Huang Admits Infidelity",
+        "Yahoo Finance：Nvidia Board to Probe Spying Case After CEO Admits Affair"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
-          "url": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1"
+          "source": "Bloomberg Tech",
+          "title": "Nvidia Board to Probe Spying Case After CEO Jensen Huang Admits Infidelity",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity"
         },
         {
-          "source": "Investing.com",
-          "title": "Nvidia CEO Jensen Huang admits to affair, apologises to employees",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-launches-probe-into-reported-espionage-plot-targeting-ceo-jensen-huang-5010308"
+          "source": "Yahoo Finance",
+          "title": "Nvidia Board to Probe Spying Case After CEO Admits Affair",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcHhzZnJtenlYeFdvbDY3Y0JBR1B0Z3pjZ0lZMFZCQ1FaZ19CM1ZjMWxMQ0phaEFSYTJBUW1KOWNqT2toRE5Uc2pHbzR1clJKNnhpWHc3TjhqczFaLUpxYko3UURJMks3Zi12X2F6QWFMUkhnUlZ1S1FIOEZFT3htanhEQ3N5SUJZUXZ4aFpDbG5YRS1HOHA1S0N3?oc=5"
         }
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "Nvidia launches probe after report CEO Huang was target of foreign intelligence",
+      "summary": [
+        "Investing.com：Nvidia launches probe after report CEO Huang was target of foreign intelligence",
+        "The Guardian：Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Nvidia launches probe after report CEO Huang was target of foreign intelligence",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-launches-probe-after-report-ceo-huang-was-target-of-foreign-intelligence-5010307"
+        },
+        {
+          "source": "The Guardian",
+          "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+          "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "COP31 あす開幕へ 対策実行に向け足並みそろえられるか焦點",
       "summary": [
         "NHK新聞：COP31 あす開幕へ 対策実行に向け足並みそろえられるか焦點"
@@ -304,92 +362,62 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "塞爾維亞電視臺為何在節目中就「多年來的片面報道」道歉？",
+      "rank": 7,
+      "title": "原歐盟脫歐談判代表巴尼耶：英國不能「挑肥揀瘦」",
       "summary": [
-        "BBC中文：塞爾維亞電視臺為何在節目中就「多年來的片面報道」道歉？"
+        "BBC中文：原歐盟脫歐談判代表巴尼耶：英國不能「挑肥揀瘦」"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "BBC中文",
-          "title": "塞爾維亞電視臺為何在節目中就「多年來的片面報道」道歉？",
-          "url": "https://www.bbc.com/zhongwen/articles/cmed33yn48gdo/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "利伯蘭：幣圈富豪的自由烏託邦",
-      "summary": [
-        "德國之聲：利伯蘭：幣圈富豪的自由烏託邦"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "利伯蘭：幣圈富豪的自由烏託邦",
-          "url": "https://www.dw.com/zh/利伯兰：币圈富豪的自由乌托邦/a-79840469?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "柬埔寨打擊詐騙園區引發人道危機  大量外籍人員受困街頭",
-      "summary": [
-        "德國之聲：柬埔寨打擊詐騙園區引發人道危機  大量外籍人員受困街頭"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "柬埔寨打擊詐騙園區引發人道危機  大量外籍人員受困街頭",
-          "url": "https://www.dw.com/zh/柬埔寨打击诈骗园区引发人道危机-大量外籍人员受困街头/a-79865725?maca=chi-rss-chi-all-1127-rdf"
+          "title": "原歐盟脫歐談判代表巴尼耶：英國不能「挑肥揀瘦」",
+          "url": "https://www.bbc.com/zhongwen/articles/c9rkyg7728vxo/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "中印邊境為何再起波瀾 ？",
+      "title": "黃仁勳捲入女間諜風波面臨國會兩黨壓力 民主黨要員誓言將展開調查",
       "summary": [
-        "德國之聲：中印邊境為何再起波瀾 ？"
+        "法廣RFI：黃仁勳捲入女間諜風波面臨國會兩黨壓力 民主黨要員誓言將展開調查"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "中印邊境為何再起波瀾 ？",
-          "url": "https://www.dw.com/zh/中印边境为何再起波澜-？/a-79855892?maca=chi-rss-chi-all-1127-rdf"
+          "source": "法廣RFI",
+          "title": "黃仁勳捲入女間諜風波面臨國會兩黨壓力 民主黨要員誓言將展開調查",
+          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261108-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%8D%B2%E5%85%A5%E5%A5%B3%E9%96%93%E8%AB%9C%E9%A2%A8%E6%B3%A2%E9%9D%A2%E8%87%A8%E5%9C%8B%E6%9C%83%E5%85%A9%E9%BB%A8%E5%A3%93%E5%8A%9B-%E6%B0%91%E4%B8%BB%E9%BB%A8%E8%A6%81%E5%93%A1%E8%AA%93%E8%A8%80%E5%B0%87%E5%B1%95%E9%96%8B%E8%AA%BF%E6%9F%A5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "中國影視寒冬加劇 橫店越來越像主題樂園？",
+      "title": "浦和レッズ 西川周作 J1最多出場試合記録を更新",
       "summary": [
-        "德國之聲：中國影視寒冬加劇 橫店越來越像主題樂園？"
+        "NHK新聞：浦和レッズ 西川周作 J1最多出場試合記録を更新"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "中國影視寒冬加劇 橫店越來越像主題樂園？",
-          "url": "https://www.dw.com/zh/中国影视寒冬加剧-横店越来越像主题乐园？/a-79867497?maca=chi-rss-chi-all-1127-rdf"
+          "source": "NHK新聞",
+          "title": "浦和レッズ 西川周作 J1最多出場試合記録を更新",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72566"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "魔法歸來 爭議未散《哈利·波特》走上銀幕25年 劇版今冬登場",
+      "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
       "summary": [
-        "德國之聲：魔法歸來 爭議未散《哈利·波特》走上銀幕25年 劇版今冬登場"
+        "The Guardian：Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "魔法歸來 爭議未散《哈利·波特》走上銀幕25年 劇版今冬登場",
-          "url": "https://www.dw.com/zh/魔法归来-争议未散《哈利·波特》走上银幕25年-剧版今冬登场/a-79878539?maca=chi-rss-chi-all-1127-rdf"
+          "source": "The Guardian",
+          "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+          "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
         }
       ]
     }
