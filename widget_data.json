@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 16:49",
+  "updated_at": "2026-11-08 17:44",
   "taiwan": [
     {
       "rank": 1,
@@ -72,48 +72,6 @@
     },
     {
       "rank": 4,
-      "title": "巴拉圭檢方對前總統提出刑事指控　聲請預防性羈押",
-      "summary": [
-        "自由時報：巴拉圭檢方對前總統提出刑事指控　聲請預防性羈押",
-        "經濟日報：巴拉圭檢方對前總統提出刑事指控　聲請預防性羈押"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "巴拉圭檢方對前總統提出刑事指控　聲請預防性羈押",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5633222"
-        },
-        {
-          "source": "經濟日報",
-          "title": "巴拉圭檢方對前總統提出刑事指控　聲請預防性羈押",
-          "url": "https://money.udn.com/money/story/5599/9864477"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "臺積電進軍先進記憶體市場？傳應輝達要求研擬生產3D DRAM",
-      "summary": [
-        "工商時報：臺積電進軍先進記憶體市場？傳應輝達要求研擬生產3D DRAM",
-        "今周刊：三星、SK海力士壓力山大？臺積電傳進軍記憶體擬產3D DRAM，整碗端走AI晶片供應業務...神山最新回應了"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "臺積電進軍先進記憶體市場？傳應輝達要求研擬生產3D DRAM",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkcmZtRFdjVWw2T2dqVEtnMjVWMnJzMUxRbi1pQThPNnFaRGxrZXh6VW16LUlEVXRlOU5neXVrcWhiOTRtMER6M1R0c3lfck9JVmVjUS1TbzRzV2F5VzVV?oc=5"
-        },
-        {
-          "source": "今周刊",
-          "title": "三星、SK海力士壓力山大？臺積電傳進軍記憶體擬產3D DRAM，整碗端走AI晶片供應業務...神山最新回應了",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3BhcUNzX0N1Tk9oa1c0Mm9ZNkdnUm1XTktGUUsxR3ZpSlZXcEdGZHplcXVMTXNETDdNbVJwUHhMRGJ2NXFSR2pCRnR3REtsYllhdnpzVk9ORXQ1WkdqdWp0NHdQSXpIRmYzSFhFV2JrTXd0VE9YQ3h5VVFOODdvTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "溼答答！　入秋最強冷空氣明報到",
       "summary": [
         "ETtoday：溼答答！　入秋最強冷空氣明報到",
@@ -134,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "力晶投控爆經營權之爭　祭出1088元股東會禮品爭取股東支援",
       "summary": [
         "ETtoday：力晶投控爆經營權之爭　祭出1088元股東會禮品爭取股東支援",
@@ -155,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "影/波蘭槍擊恐攻6死15傷！民眾逃警局趴滿地 警開6槍制伏兇嫌畫面曝",
       "summary": [
         "經濟日報：影/波蘭槍擊恐攻6死15傷！民眾逃警局趴滿地 警開6槍制伏兇嫌畫面曝",
@@ -176,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "快訊／高雄鳥松鐵皮屋冒出大量火煙！消防急佈線灌救",
       "summary": [
         "ETtoday：快訊／高雄鳥松鐵皮屋冒出大量火煙！消防急佈線灌救",
@@ -197,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "轟蘇巧慧找卓榮泰站臺　李四川競辦：選舉擺優先、長者踢一邊",
       "summary": [
         "ETtoday：轟蘇巧慧找卓榮泰站臺　李四川競辦：選舉擺優先、長者踢一邊",
@@ -216,32 +174,53 @@
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633496"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "NBA》還是要靠老大哥！38歲柯瑞轟41分 勇士延長賽退魔術收7連勝",
+      "summary": [
+        "自由時報：NBA》還是要靠老大哥！38歲柯瑞轟41分 勇士延長賽退魔術收7連勝",
+        "ETtoday：快訊／NBA76年首見！勇士開季3連敗後7連勝　柯瑞狂飆41分退魔術"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "NBA》還是要靠老大哥！38歲柯瑞轟41分 勇士延長賽退魔術收7連勝",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5633456"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／NBA76年首見！勇士開季3連敗後7連勝　柯瑞狂飆41分退魔術",
+          "url": "https://sports.ettoday.net/news/3268395"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "亞冠賽中華隊28人名單今揭曉！首戰強碰日本　高志綱談破解之道",
+      "summary": [
+        "ETtoday：亞冠賽中華隊28人名單今揭曉！首戰強碰日本　高志綱談破解之道",
+        "自由時報：亞冠賽》熱身賽落幕 臺灣隊28人名單出爐！"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "亞冠賽中華隊28人名單今揭曉！首戰強碰日本　高志綱談破解之道",
+          "url": "https://sports.ettoday.net/news/3268402"
+        },
+        {
+          "source": "自由時報",
+          "title": "亞冠賽》熱身賽落幕 臺灣隊28人名單出爐！",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5633737"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "CoreWeave 要求德州當選州長進行資料中心合作",
-      "summary": [
-        "Bloomberg Tech：CoreWeave 要求德州當選州長進行資料中心合作",
-        "Yahoo Finance：CoreWeave Asks Texas Governor-Elect for Data Center Cooperation"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "CoreWeave 要求德州當選州長進行資料中心合作",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-07/coreweave-asks-texas-governor-elect-for-data-center-cooperation"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "CoreWeave Asks Texas Governor-Elect for Data Center Cooperation",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR093enZjampfYlVIcEhiVUcxRGFYWm9IZjlSQTBNQU5FTTNkeS1PQTQ3YmhYM0ZieGJPZEd3UFI1QVJpVm03VHdjOTR2YVdCYm55ZG9sZDVkS08wOVFrZXJFLU9HUjZ3ZXQ0ZXVRazcyLTdjZjlOeUIwYVlQS2NGTVktYUN2M3poR0tFc0ZzelhHSXEtYkEyRzRneXg4bXBv?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "以色列總統責成反對黨領袖艾森科特成立政府",
       "summary": [
         "BBC World：以色列總統責成反對黨領袖艾森科特成立政府",
@@ -262,7 +241,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "人工智慧衰退重振亞洲被遺忘的貿易（從中國到印度）",
       "summary": [
         "Bloomberg Markets：人工智慧衰退重振亞洲被遺忘的貿易（從中國到印度）",
@@ -283,107 +262,122 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "特朗普公開邀請UFC總裁出任白宮新聞發言人",
+      "rank": 3,
+      "title": "美中期選舉後烏克蘭強調爭取美國兩黨的支援",
       "summary": [
-        "法廣RFI：特朗普公開邀請UFC總裁出任白宮新聞發言人"
+        "法廣RFI：美中期選舉後烏克蘭強調爭取美國兩黨的支援"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "特朗普公開邀請UFC總裁出任白宮新聞發言人",
-          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261107-%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E9%96%8B%E9%82%80%E8%AB%8Bufc%E7%B8%BD%E8%A3%81%E5%87%BA%E4%BB%BB%E7%99%BD%E5%AE%AE%E6%96%B0%E8%81%9E%E7%99%BC%E8%A8%80%E4%BA%BA"
+          "title": "美中期選舉後烏克蘭強調爭取美國兩黨的支援",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261107-%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%BE%8C%E7%83%8F%E5%85%8B%E8%98%AD%E5%BC%B7%E8%AA%BF%E7%88%AD%E5%8F%96%E7%BE%8E%E5%9C%8B%E5%85%A9%E9%BB%A8%E7%9A%84%E6%94%AF%E6%8C%81"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "非洲:塞內加爾一起集體衛生事件",
+      "summary": [
+        "法廣RFI：非洲:塞內加爾一起集體衛生事件"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "非洲:塞內加爾一起集體衛生事件",
+          "url": "https://www.rfi.fr/tw/%E9%9D%9E%E6%B4%B2/20261107-rfi%E6%B3%95%E5%BB%A3-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%A1%9E%E5%85%A7%E5%8A%A0%E7%88%BE%E4%B8%80%E8%B5%B7%E9%9B%86%E9%AB%94%E8%A1%9B%E7%94%9F%E4%BA%8B%E4%BB%B6"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "以總統選擇艾森科特組建新政府",
+      "title": "俄軍對烏克蘭發動大規模攻擊，造成房屋受損，影響平民生活",
       "summary": [
-        "法廣RFI：以總統選擇艾森科特組建新政府"
+        "NHK新聞：俄軍對烏克蘭發動大規模攻擊，造成房屋受損，影響平民生活"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "以總統選擇艾森科特組建新政府",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E6%9D%B1/20261107-%E4%BB%A5%E7%B8%BD%E7%B5%B1%E9%81%B8%E6%93%87%E8%89%BE%E6%A3%AE%E7%A7%91%E7%89%B9%E7%B5%84%E5%BB%BA%E6%96%B0%E6%94%BF%E5%BA%9C"
+          "source": "NHK新聞",
+          "title": "俄軍對烏克蘭發動大規模攻擊，造成房屋受損，影響平民生活",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72339"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "法新社：敘利亞派兵助沙特打擊葉門叛軍",
+      "title": "在中國被拘留的大型製藥公司員工預計下個月出獄",
       "summary": [
-        "法廣RFI：法新社：敘利亞派兵助沙特打擊葉門叛軍"
+        "NHK新聞：在中國被拘留的大型製藥公司員工預計下個月出獄"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "法新社：敘利亞派兵助沙特打擊葉門叛軍",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E6%9D%B1/20261107-%E6%B3%95%E6%96%B0%E7%A4%BE-%E6%95%98%E5%88%A9%E4%BA%9E%E6%B4%BE%E5%85%B5%E5%8A%A9%E6%B2%99%E7%89%B9%E6%89%93%E6%93%8A%E4%B9%9F%E9%96%80%E5%8F%9B%E8%BB%8D"
+          "source": "NHK新聞",
+          "title": "在中國被拘留的大型製藥公司員工預計下個月出獄",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72316"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "歐盟五國推動與英國達成電力協議",
+      "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
       "summary": [
-        "法廣RFI：歐盟五國推動與英國達成電力協議"
+        "The Guardian：巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "歐盟五國推動與英國達成電力協議",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261107-%E6%AD%90%E7%9B%9F%E4%BA%94%E5%9C%8B%E6%8E%A8%E5%8B%95%E8%88%87%E8%8B%B1%E5%9C%8B%E9%81%94%E6%88%90%E9%9B%BB%E5%8A%9B%E5%8D%94%E8%AD%B0"
+          "source": "The Guardian",
+          "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
+          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "中國進軍歐洲摩托車市場",
+      "title": "2027 年稅級已出。檢視標準扣除額和 SALT 稅收減免是多少。",
       "summary": [
-        "法廣RFI：中國進軍歐洲摩托車市場"
+        "MarketWatch：2027 年稅級已出。檢視標準扣除額和 SALT 稅收減免是多少。"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "中國進軍歐洲摩托車市場",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261107-%E4%B8%AD%E5%9C%8B%E9%80%B2%E8%BB%8D%E6%AD%90%E6%B4%B2%E6%91%A9%E6%89%98%E8%BB%8A%E5%B8%82%E5%A0%B4"
+          "source": "MarketWatch",
+          "title": "2027 年稅級已出。檢視標準扣除額和 SALT 稅收減免是多少。",
+          "url": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "印一架重型戰略運輸機創全球最高海拔降落紀錄",
+      "title": "亞馬遜又裁掉 95 個職位，62 歲的他失業了。他申請社會安全勉強度日，結果卻面臨 8,400 美元的帳單無法兌現",
       "summary": [
-        "法廣RFI：印一架重型戰略運輸機創全球最高海拔降落紀錄"
+        "Yahoo Finance：亞馬遜又裁掉 95 個職位，62 歲的他失業了。他申請社會安全勉強度日，結果卻面臨 8,400 美元的帳單無法兌現"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "印一架重型戰略運輸機創全球最高海拔降落紀錄",
-          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261107-%E5%8D%B0%E4%B8%80%E6%9E%B6%E9%87%8D%E5%9E%8B%E6%88%B0%E7%95%A5%E9%81%8B%E8%BC%B8%E6%A9%9F%E5%89%B5%E5%85%A8%E7%90%83%E6%9C%80%E9%AB%98%E6%B5%B7%E6%8B%94%E9%99%8D%E8%90%BD%E7%B4%80%E9%8C%84"
+          "source": "Yahoo Finance",
+          "title": "亞馬遜又裁掉 95 個職位，62 歲的他失業了。他申請社會安全勉強度日，結果卻面臨 8,400 美元的帳單無法兌現",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTzhqdEpBOWc0ODVjb1FRSkhDbVB6M0F0YmxBRTNwTGZVQTRIUmNOV0JOcTV2Zl9XbHBfbUpHa1p1YlhFTzVpd01jX1hNTlNfbFlMRU0zT1V1NTBTOHV5SlVxUEtzSDYzSEpaRHdyYTAzQ1EyYTVyVFZ2S0h2MmlOUHJwS01VUGtyUGxqVFl3?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "法國政府發言人暫換新面孔",
+      "title": "這是我認為 2030 年底英特爾股票的走勢",
       "summary": [
-        "法廣RFI：法國政府發言人暫換新面孔"
+        "Yahoo Finance：這是我認為 2030 年底英特爾股票的走勢"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "法國政府發言人暫換新面孔",
-          "url": "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20261107-%E6%B3%95%E5%9C%8B%E6%94%BF%E5%BA%9C%E7%99%BC%E8%A8%80%E4%BA%BA%E6%9A%AB%E6%8F%9B%E6%96%B0%E9%9D%A2%E5%AD%94"
+          "source": "Yahoo Finance",
+          "title": "這是我認為 2030 年底英特爾股票的走勢",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR0t3QnBXMVhUWF91OFNraW94d2VHa0hpRmJPYXIwM3BCWEFzTVp6Z01BNlE2YXUydFdzMjA4MkpWMm84OVFXSjlmelVZbVRQWHF6TUxsSFVUdXR4b091WU45YTk4dXVjV0kzazNMb3cyeFhtX2pJZjdjWVBFMXRmMzBGV1VtRm5xM3NLNjdCSGtadnctX2lzRWt3?oc=5"
         }
       ]
     }
