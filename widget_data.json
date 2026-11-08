@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 10:48",
+  "updated_at": "2026-11-08 11:50",
   "taiwan": [
     {
       "rank": 1,
@@ -56,27 +56,6 @@
     },
     {
       "rank": 3,
-      "title": "新莊樹林鶯歌造勢近萬人力挺 李四川：老實人不會又編又騙",
-      "summary": [
-        "自由時報：新莊樹林鶯歌造勢近萬人力挺 李四川：老實人不會又編又騙",
-        "ETtoday：轟蘇巧慧找卓榮泰站臺　李四川競辦：選舉擺優先、長者踢一邊"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "新莊樹林鶯歌造勢近萬人力挺 李四川：老實人不會又編又騙",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633158"
-        },
-        {
-          "source": "ETtoday",
-          "title": "轟蘇巧慧找卓榮泰站臺　李四川競辦：選舉擺優先、長者踢一邊",
-          "url": "https://www.ettoday.net/news/20261108/3268314.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "波蘭第二大城爆槍擊2死10傷　總理發文稱悲劇",
       "summary": [
         "經濟日報：波蘭第二大城爆槍擊2死10傷　總理發文稱悲劇",
@@ -97,7 +76,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "波蘭槍擊案釀6死15傷　男嫌遭警方開槍擊中後送醫",
       "summary": [
         "自由時報：波蘭槍擊案釀6死15傷　男嫌遭警方開槍擊中後送醫",
@@ -118,7 +97,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "合體石舫亙! 盧秀燕:首次有市長幫市長跑攤｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：合體石舫亙! 盧秀燕:首次有市長幫市長跑攤｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -139,7 +118,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "幣安財務長將離職　支付平臺Airwallex高層接任",
       "summary": [
         "自由時報：幣安財務長將離職　支付平臺Airwallex高層接任",
@@ -160,7 +139,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "巴拉圭檢方對前總統提出刑事指控　聲請預防性羈押",
       "summary": [
         "自由時報：巴拉圭檢方對前總統提出刑事指控　聲請預防性羈押",
@@ -181,7 +160,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
       "summary": [
         "經濟日報：以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
@@ -198,6 +177,27 @@
           "source": "ETtoday",
           "title": "以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
           "url": "https://www.ettoday.net/news/20261108/3268277.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "溼答答！　入秋最強冷空氣明報到",
+      "summary": [
+        "ETtoday：溼答答！　入秋最強冷空氣明報到",
+        "自由時報：入秋最猛東北季風！今晚起全臺有感 明北臺降溫10度「這天」回暖"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "溼答答！　入秋最強冷空氣明報到",
+          "url": "https://www.ettoday.net/news/20261108/3268274.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "入秋最猛東北季風！今晚起全臺有感 明北臺降溫10度「這天」回暖",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5633354"
         }
       ]
     },
@@ -226,48 +226,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "黃仁勳之女黃敏珊“因家庭原因”突然取消訪韓行程",
-      "summary": [
-        "法廣RFI：黃仁勳之女黃敏珊“因家庭原因”突然取消訪韓行程",
-        "韓聯社：英偉達高階總監黃敏珊突然取消訪韓"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "黃仁勳之女黃敏珊“因家庭原因”突然取消訪韓行程",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261107-%E9%BB%83%E4%BB%81%E5%8B%B3%E4%B9%8B%E5%A5%B3%E9%BB%83%E6%95%8F%E7%8F%8A-%E5%9B%A0%E5%AE%B6%E5%BA%AD%E5%8E%9F%E5%9B%A0-%E7%AA%81%E7%84%B6%E5%8F%96%E6%B6%88%E8%A8%AA%E9%9F%93%E8%A1%8C%E7%A8%8B"
-        },
-        {
-          "source": "韓聯社",
-          "title": "英偉達高階總監黃敏珊突然取消訪韓",
-          "url": "https://cn.yna.co.kr/view/ACK20261108000300881"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "美國情報機構認為黃仁勳在蜜罐行動中與中國間諜有浪漫關係",
-      "summary": [
-        "Tom's Hardware：美國情報機構認為黃仁勳在蜜罐行動中與中國間諜有浪漫關係",
-        "Investing.com：美國備忘錄稱英偉達執行長與疑似北京間諜有戀情"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Tom's Hardware",
-          "title": "美國情報機構認為黃仁勳在蜜罐行動中與中國間諜有浪漫關係",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips"
-        },
-        {
-          "source": "Investing.com",
-          "title": "美國備忘錄稱英偉達執行長與疑似北京間諜有戀情",
-          "url": "https://www.investing.com/news/stock-market-news/us-intelligence-memo-ties-nvidias-huang-to-alleged-chinese-spy-ft-reports-5009930"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "波蘭第二大城克拉科夫發生槍擊案      至少6死10傷",
       "summary": [
         "法廣RFI：波蘭第二大城克拉科夫發生槍擊案      至少6死10傷",
@@ -288,7 +246,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "在價值 60 億美元的災難性加密貨幣駭客攻擊幾天后，幣安財務長辭職",
       "summary": [
         "Investing.com：在價值 60 億美元的災難性加密貨幣駭客攻擊幾天后，幣安財務長辭職",
@@ -309,7 +267,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "川普表示，他向 UFC 選手 Dana White 提供了白宮新聞秘書的職位",
       "summary": [
         "Washington Post：川普表示，他向 UFC 選手 Dana White 提供了白宮新聞秘書的職位",
@@ -330,7 +288,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "川普稱他邀請UFC老闆達納懷特擔任新任新聞秘書",
       "summary": [
         "Financial Times：川普稱他邀請UFC老闆達納懷特擔任新任新聞秘書",
@@ -351,7 +309,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "CoreWeave 要求德州當選州長進行資料中心合作",
       "summary": [
         "Bloomberg Tech：CoreWeave 要求德州當選州長進行資料中心合作",
@@ -372,28 +330,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
-      "summary": [
-        "The Guardian：巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
-        "WSJ Markets：巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
-          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機",
-          "url": "https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "以色列總統責成反對黨領袖艾森科特成立政府",
       "summary": [
         "BBC World：以色列總統責成反對黨領袖艾森科特成立政府",
@@ -414,7 +351,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "人工智慧衰退重振亞洲被遺忘的貿易（從中國到印度）",
       "summary": [
         "Bloomberg Markets：人工智慧衰退重振亞洲被遺忘的貿易（從中國到印度）",
@@ -431,6 +368,51 @@
           "source": "Investing.com",
           "title": "人工智慧股票拋售促使投資者轉向中國、印度和被忽視的亞洲產業",
           "url": "https://www.investing.com/news/stock-market-news/ai-stock-selloff-drives-investors-to-china-india-and-overlooked-asian-sectors-5010098"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "[地震速報] 愛知縣地震強度5+",
+      "summary": [
+        "NHK新聞：[地震速報] 愛知縣地震強度5+"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "[地震速報] 愛知縣地震強度5+",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72252"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "專家：“好像和南海海槽特大地震沒有關係。”",
+      "summary": [
+        "NHK新聞：專家：“好像和南海海槽特大地震沒有關係。”"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "專家：“好像和南海海槽特大地震沒有關係。”",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72284"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "梅根的父親託馬斯馬克爾因兒童性虐待材料指控而被軟禁",
+      "summary": [
+        "BBC World：梅根的父親託馬斯馬克爾因兒童性虐待材料指控而被軟禁"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "梅根的父親託馬斯馬克爾因兒童性虐待材料指控而被軟禁",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
