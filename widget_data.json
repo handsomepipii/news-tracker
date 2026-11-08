@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 07:09",
+  "updated_at": "2026-11-08 08:05",
   "taiwan": [
     {
       "rank": 1,
@@ -359,27 +359,6 @@
     },
     {
       "rank": 7,
-      "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
-      "summary": [
-        "The Guardian：巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
-        "WSJ Markets：巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
-          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "巴拉圭總統辭職，與他關係密切的銀行倒閉引發危機",
-          "url": "https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "[地震速報] 愛知縣地震強度5+",
       "summary": [
         "NHK新聞：[地震速報] 愛知縣地震強度5+"
@@ -394,7 +373,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "紐西蘭選舉情勢緊張，聯合政府談判成為焦點",
       "summary": [
         "Nikkei Asia：紐西蘭選舉情勢緊張，聯合政府談判成為焦點"
@@ -409,7 +388,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "專家：“好像和南海海槽特大地震沒有關係。”",
       "summary": [
         "NHK新聞：專家：“好像和南海海槽特大地震沒有關係。”"
@@ -420,6 +399,21 @@
           "source": "NHK新聞",
           "title": "專家：“好像和南海海槽特大地震沒有關係。”",
           "url": "https://news.web.nhk/newsweb/na/nd-20261108de72284"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "反AI浪潮讓黃仁勳禍不單行？股票暴跌 被國會傳喚",
+      "summary": [
+        "德國之聲：反AI浪潮讓黃仁勳禍不單行？股票暴跌 被國會傳喚"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "反AI浪潮讓黃仁勳禍不單行？股票暴跌 被國會傳喚",
+          "url": "https://www.dw.com/zh/反ai浪潮让黄仁勋祸不单行？股票暴跌-被国会传唤/a-79884461?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     }
