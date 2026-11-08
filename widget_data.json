@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 03:23",
+  "updated_at": "2026-11-09 04:15",
   "taiwan": [
     {
       "rank": 1,
@@ -30,27 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "公督盟批切割騙票仍是「聽話的狗」 柯志恩：低劣言詞不回應",
-      "summary": [
-        "自由時報：公督盟批切割騙票仍是「聽話的狗」 柯志恩：低劣言詞不回應",
-        "ETtoday：遭公督盟辱是「聽話的狗」　柯志恩：言詞低劣"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "公督盟批切割騙票仍是「聽話的狗」 柯志恩：低劣言詞不回應",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633618"
-        },
-        {
-          "source": "ETtoday",
-          "title": "遭公督盟辱是「聽話的狗」　柯志恩：言詞低劣",
-          "url": "https://www.ettoday.net/news/20261108/3268595.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "埃及兩列火車追撞 至少4死88傷",
       "summary": [
         "經濟日報：埃及兩列火車追撞 至少4死88傷",
@@ -71,49 +50,28 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "宋逸民驚爆父子投票不同調！陳維齡認了：各自去禱告",
+      "rank": 3,
+      "title": "公督盟稱柯志恩「聽話的狗」 邱於軒：賴瑞隆21次優秀立委已無公信力",
       "summary": [
-        "自由時報：宋逸民驚爆父子投票不同調！陳維齡認了：各自去禱告",
-        "ETtoday：宋逸民不表態投誰！爆父子政治傾向不同　陳維齡曝化解妙招：各自去禱告"
+        "自由時報：公督盟稱柯志恩「聽話的狗」 邱於軒：賴瑞隆21次優秀立委已無公信力",
+        "ETtoday：遭公督盟辱是「聽話的狗」　柯志恩：言詞低劣"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "宋逸民驚爆父子投票不同調！陳維齡認了：各自去禱告",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5633628"
+          "title": "公督盟稱柯志恩「聽話的狗」 邱於軒：賴瑞隆21次優秀立委已無公信力",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633654"
         },
         {
           "source": "ETtoday",
-          "title": "宋逸民不表態投誰！爆父子政治傾向不同　陳維齡曝化解妙招：各自去禱告",
-          "url": "https://star.ettoday.net/news/3268562"
+          "title": "遭公督盟辱是「聽話的狗」　柯志恩：言詞低劣",
+          "url": "https://www.ettoday.net/news/20261108/3268595.htm"
         }
       ]
     },
     {
-      "rank": 5,
-      "title": "RSF：中國施壓泰國媒體　恐促自我審查衝擊新聞自由",
-      "summary": [
-        "經濟日報：RSF：中國施壓泰國媒體　恐促自我審查衝擊新聞自由",
-        "自由時報：無國界記者組織示警：中國施壓削弱泰國新聞自由 恐淪中國附庸"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "RSF：中國施壓泰國媒體　恐促自我審查衝擊新聞自由",
-          "url": "https://money.udn.com/money/story/5599/9865105"
-        },
-        {
-          "source": "自由時報",
-          "title": "無國界記者組織示警：中國施壓削弱泰國新聞自由 恐淪中國附庸",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5633959"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "王心凌雨中嗨跳《愛你》！大咖天王「王甜甜」現身掀暴動",
       "summary": [
         "自由時報：王心凌雨中嗨跳《愛你》！大咖天王「王甜甜」現身掀暴動",
@@ -134,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "法國反政府示威進入第4週　巴黎爆發警民衝突",
       "summary": [
         "經濟日報：法國反政府示威進入第4週　巴黎爆發警民衝突",
@@ -155,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "亞職交流賽／莊昕諺回來了！桃猿0比1惜敗金鷲　劉致榮未登板",
       "summary": [
         "ETtoday：亞職交流賽／莊昕諺回來了！桃猿0比1惜敗金鷲　劉致榮未登板",
@@ -176,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "臺積電傳跨界做記憶體擬產3D DRAM 華邦電董事長拋關鍵問題- 日報",
       "summary": [
         "工商時報：臺積電傳跨界做記憶體擬產3D DRAM 華邦電董事長拋關鍵問題- 日報",
@@ -197,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "川普：命令司法部調查民主黨威脅行徑",
       "summary": [
         "鉅亨網：川普：命令司法部調查民主黨威脅行徑",
@@ -216,131 +174,68 @@
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5633936"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "出了什麼事？黃仁勳長女因家庭因素取消訪韓多項合作行程喊卡- 國際",
+      "summary": [
+        "工商時報：出了什麼事？黃仁勳長女因家庭因素取消訪韓多項合作行程喊卡- 國際",
+        "鉅亨網：黃仁勳之女突然取消訪韓 理由是「家庭因素」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "工商時報",
+          "title": "出了什麼事？黃仁勳長女因家庭因素取消訪韓多項合作行程喊卡- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HU1l5YU8tYjVOcl9yYjNjbGRReWl6cm1ZREJPRXUwbWwyZ1NjWFluUlVGVHFQbkVyMlJHbEtzM2kxdmpwbHhEZUFlaEhuZ2RMTVdYMVAwczFLQnVuSk5n?oc=5"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "黃仁勳之女突然取消訪韓 理由是「家庭因素」",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvVENFVkF3NDI0eFdLbHgtUnVTNWhOMDgxczhfb0RiWF9oamZCakRHci05TTBWSnZkclcxSkZaQmt0clpIcG9Gd2dzUVFVdGM?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "118海巡節救援告捷！嘉義外傘頂洲舢舨翻覆 2漁民平安脫困",
+      "summary": [
+        "自由時報：118海巡節救援告捷！嘉義外傘頂洲舢舨翻覆 2漁民平安脫困",
+        "ETtoday：嘉義外傘頂洲「舢舨翻覆」2人受困沙洲　海巡搶漲潮前救人"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "118海巡節救援告捷！嘉義外傘頂洲舢舨翻覆 2漁民平安脫困",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5633942"
+        },
+        {
+          "source": "ETtoday",
+          "title": "嘉義外傘頂洲「舢舨翻覆」2人受困沙洲　海巡搶漲潮前救人",
+          "url": "https://www.ettoday.net/news/20261108/3268636.htm"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "銷量急挫，Labubu熱潮正在退燒嗎？",
+      "title": "COP31 あす開幕へ 対策実行に向け足並みそろえられるか焦點",
       "summary": [
-        "BBC中文：銷量急挫，Labubu熱潮正在退燒嗎？"
+        "NHK新聞：COP31 あす開幕へ 対策実行に向け足並みそろえられるか焦點"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "BBC中文",
-          "title": "銷量急挫，Labubu熱潮正在退燒嗎？",
-          "url": "https://www.bbc.com/zhongwen/articles/c6r7yg9xkdy8o/trad?at_medium=RSS&at_campaign=rss"
+          "source": "NHK新聞",
+          "title": "COP31 あす開幕へ 対策実行に向け足並みそろえられるか焦點",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72408"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "韓妝熱潮在韓催熱“藥房美妝經濟”",
-      "summary": [
-        "韓聯社：韓妝熱潮在韓催熱“藥房美妝經濟”"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "韓妝熱潮在韓催熱“藥房美妝經濟”",
-          "url": "https://cn.yna.co.kr/view/ACK20261108001700881"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "summary": [
-        "BBC World：'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-          "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
-      "summary": [
-        "The Guardian：Banana producers in Latin America want better pay to cope with effects of climate crisis"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
-          "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "遠期保障不應漠視當期生計：社保擴面的效率錯配與規則風險",
-      "summary": [
-        "FT中文網：遠期保障不應漠視當期生計：社保擴面的效率錯配與規則風險"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "FT中文網",
-          "title": "遠期保障不應漠視當期生計：社保擴面的效率錯配與規則風險",
-          "url": "https://www.ftchinese.com/story/001111300"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Decisive election. Dramatic stock swings. How we handled the market last week",
-      "summary": [
-        "CNBC：Decisive election. Dramatic stock swings. How we handled the market last week"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "Decisive election. Dramatic stock swings. How we handled the market last week",
-          "url": "https://www.cnbc.com/investingclub/2026/11/07/decisive-election-dramatic-stock-swings-how-we-handled-the-market-last-week.html"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Berkshire Hathaway’s Operating Earnings Fall, Buybacks Rise",
-      "summary": [
-        "Yahoo Finance：Berkshire Hathaway’s Operating Earnings Fall, Buybacks Rise"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Berkshire Hathaway’s Operating Earnings Fall, Buybacks Rise",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMGduc3dBZWxiNEFiNnBVc0E5SFlZbFJuMDN3UHczaHkwQnVTTWRWeEh1TmdFNTBfZC1uTjU4NEVLc1FQUG5oZk82TzRBbEN6S0kySGxNRVhzb1RVemlNdkZZcV96WVFVZVRUM3VDaWpGd3JPaTJmaG1CSTAzWWZLM0hPdWtzSXN6cnhMdm9zMy12WnFhRnRPT1E5Vm5JdzdzMTJvcFVuV0ZtWlE?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Vietnam leader To Lam visits Japan as decades-old relationship evolves",
-      "summary": [
-        "Nikkei Asia：Vietnam leader To Lam visits Japan as decades-old relationship evolves"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "Vietnam leader To Lam visits Japan as decades-old relationship evolves",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaVZoX1pISllwUHhFZnpybnMzZW5EWllzVFNJcmJJY0ViZTFNTjV0c0sycEJ3anpVT0g5b3hjYjVkR2NESmtmeXFCVG9vcWwtY0tfLVRKSVh3ZW5USFY3RVdUOEpFSVh2bzNGT05MWVhXYUUxanNLTU10UDR6ZG9PT192UU9PRzFKV2E3Z0EyemFsV25zcVpqd3dkV2RVRkJXUlFUb1BOUDRsRFRUS2lVY2t0ZHIyMmRJWlpzNWttUVZqYnRBREE?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "A reckoning pushes out six congressmen accused of sexual misconduct, domestic abuse",
       "summary": [
         "Washington Post：A reckoning pushes out six congressmen accused of sexual misconduct, domestic abuse"
@@ -355,7 +250,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 3,
       "title": "CoreWeave Asks Texas Governor-Elect for Data Center Cooperation",
       "summary": [
         "Yahoo Finance：CoreWeave Asks Texas Governor-Elect for Data Center Cooperation"
@@ -366,6 +261,111 @@
           "source": "Yahoo Finance",
           "title": "CoreWeave Asks Texas Governor-Elect for Data Center Cooperation",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR093enZjampfYlVIcEhiVUcxRGFYWm9IZjlSQTBNQU5FTTNkeS1PQTQ3YmhYM0ZieGJPZEd3UFI1QVJpVm03VHdjOTR2YVdCYm55ZG9sZDVkS08wOVFrZXJFLU9HUjZ3ZXQ0ZXVRazcyLTdjZjlOeUIwYVlQS2NGTVktYUN2M3poR0tFc0ZzelhHSXEtYkEyRzRneXg4bXBv?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "塞爾維亞電視臺為何在節目中就「多年來的片面報道」道歉？",
+      "summary": [
+        "BBC中文：塞爾維亞電視臺為何在節目中就「多年來的片面報道」道歉？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "塞爾維亞電視臺為何在節目中就「多年來的片面報道」道歉？",
+          "url": "https://www.bbc.com/zhongwen/articles/cmed33yn48gdo/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "利伯蘭：幣圈富豪的自由烏託邦",
+      "summary": [
+        "德國之聲：利伯蘭：幣圈富豪的自由烏託邦"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "利伯蘭：幣圈富豪的自由烏託邦",
+          "url": "https://www.dw.com/zh/利伯兰：币圈富豪的自由乌托邦/a-79840469?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "柬埔寨打擊詐騙園區引發人道危機  大量外籍人員受困街頭",
+      "summary": [
+        "德國之聲：柬埔寨打擊詐騙園區引發人道危機  大量外籍人員受困街頭"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "柬埔寨打擊詐騙園區引發人道危機  大量外籍人員受困街頭",
+          "url": "https://www.dw.com/zh/柬埔寨打击诈骗园区引发人道危机-大量外籍人员受困街头/a-79865725?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "中印邊境為何再起波瀾 ？",
+      "summary": [
+        "德國之聲：中印邊境為何再起波瀾 ？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "中印邊境為何再起波瀾 ？",
+          "url": "https://www.dw.com/zh/中印边境为何再起波澜-？/a-79855892?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "中國影視寒冬加劇 橫店越來越像主題樂園？",
+      "summary": [
+        "德國之聲：中國影視寒冬加劇 橫店越來越像主題樂園？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "中國影視寒冬加劇 橫店越來越像主題樂園？",
+          "url": "https://www.dw.com/zh/中国影视寒冬加剧-横店越来越像主题乐园？/a-79867497?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "魔法歸來 爭議未散《哈利·波特》走上銀幕25年 劇版今冬登場",
+      "summary": [
+        "德國之聲：魔法歸來 爭議未散《哈利·波特》走上銀幕25年 劇版今冬登場"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "魔法歸來 爭議未散《哈利·波特》走上銀幕25年 劇版今冬登場",
+          "url": "https://www.dw.com/zh/魔法归来-争议未散《哈利·波特》走上银幕25年-剧版今冬登场/a-79878539?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "臺灣基於國家尊嚴主動關閉駐巴布亞紐幾內亞駐處 臺灣學者稱重傷的反而會是對方",
+      "summary": [
+        "法廣RFI：臺灣基於國家尊嚴主動關閉駐巴布亞紐幾內亞駐處 臺灣學者稱重傷的反而會是對方"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "臺灣基於國家尊嚴主動關閉駐巴布亞紐幾內亞駐處 臺灣學者稱重傷的反而會是對方",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261108-%E5%8F%B0%E7%81%A3%E5%9F%BA%E6%96%BC%E5%9C%8B%E5%AE%B6%E5%B0%8A%E5%9A%B4%E4%B8%BB%E5%8B%95%E9%97%9C%E9%96%89%E9%A7%90%E5%B7%B4%E5%B8%83%E4%BA%9E%E6%96%B0%E5%B9%BE%E5%85%A7%E4%BA%9E%E9%A7%90%E8%99%95-%E5%8F%B0%E7%81%A3%E5%AD%B8%E8%80%85%E7%A8%B1%E9%87%8D%E5%82%B7%E7%9A%84%E5%8F%8D%E8%80%8C%E6%9C%83%E6%98%AF%E5%B0%8D%E6%96%B9"
         }
       ]
     }
