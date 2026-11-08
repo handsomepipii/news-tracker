@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-08 23:34",
+  "updated_at": "2026-11-09 00:16",
   "taiwan": [
     {
       "rank": 1,
-      "title": "入秋最猛東北季風！今晚起全臺有感 明北臺降溫10度「這天」回暖",
-      "summary": [
-        "自由時報：入秋最猛東北季風！今晚起全臺有感 明北臺降溫10度「這天」回暖",
-        "TVBS新聞：天氣/入秋最強冷空氣今晚報到 北宜降溫逾10度轉濕冷 冬衣出籠! 週二最冷清晨區域性探15度｜TVBS新聞 @TVBSNEWS01",
-        "風傳媒：天氣預報/入冬最強冷空氣來了！這天起「低溫下探15度」，2波變天轉濕涼， 下週天氣一次看"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "入秋最猛東北季風！今晚起全臺有感 明北臺降溫10度「這天」回暖",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5633354"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "天氣/入秋最強冷空氣今晚報到 北宜降溫逾10度轉濕冷 冬衣出籠! 週二最冷清晨區域性探15度｜TVBS新聞 @TVBSNEWS01",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04ek51ODBhMlF6a0NOOWJvUlU5bTFZLWdBYUVacWRmbmtBQUVWY3IyMmlyQmc2MWV4OWh4RjBoMWp3UE5VOHdjN2lwSmVoWk1GY1JzaGtn?oc=5"
-        },
-        {
-          "source": "風傳媒",
-          "title": "天氣預報/入冬最強冷空氣來了！這天起「低溫下探15度」，2波變天轉濕涼， 下週天氣一次看",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tRnNtNGt6ZjdDX2RzRU5xU0VicDdQMjE0cWJYS1pzaWZQSVNjTG9IRHhBQXdLSXVSSHJKTWlUUklpWVZLTS10T0FVN01zb19Y?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "黃仁勳長女因家庭因素取消訪韓　多項合作行程喊卡",
       "summary": [
         "經濟日報：黃仁勳長女因家庭因素取消訪韓　多項合作行程喊卡",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "公督盟批切割騙票仍是「聽話的狗」 柯志恩：低劣言詞不回應",
       "summary": [
         "自由時報：公督盟批切割騙票仍是「聽話的狗」 柯志恩：低劣言詞不回應",
@@ -77,7 +50,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "NBA》還是要靠老大哥！38歲柯瑞轟41分 勇士延長賽退魔術收7連勝",
       "summary": [
         "自由時報：NBA》還是要靠老大哥！38歲柯瑞轟41分 勇士延長賽退魔術收7連勝",
@@ -98,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "亞冠賽中華隊28人名單今揭曉！首戰強碰日本　高志綱談破解之道",
       "summary": [
         "ETtoday：亞冠賽中華隊28人名單今揭曉！首戰強碰日本　高志綱談破解之道",
@@ -119,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Garmin Fenix E智慧手錶大砍15879元 1.3吋戶外運動設計、動態路線規劃、16天續航力",
       "summary": [
         "癮科技Cool3c：Garmin Fenix E智慧手錶大砍15879元 1.3吋戶外運動設計、動態路線規劃、16天續航力",
@@ -140,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "三星、SK海力士壓力山大？臺積電傳進軍記憶體擬產3D DRAM，整碗端走AI晶片供應業務...神山最新回應了",
       "summary": [
         "今周刊：三星、SK海力士壓力山大？臺積電傳進軍記憶體擬產3D DRAM，整碗端走AI晶片供應業務...神山最新回應了",
@@ -161,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "揭開「肥胖悖論」新線索：飲食改變腸道細菌，影響癌症免疫治療成效",
       "summary": [
         "科技新報：揭開「肥胖悖論」新線索：飲食改變腸道細菌，影響癌症免疫治療成效",
@@ -182,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "宋逸民驚爆父子投票不同調！陳維齡認了：各自去禱告",
       "summary": [
         "自由時報：宋逸民驚爆父子投票不同調！陳維齡認了：各自去禱告",
@@ -203,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "RSF：中國施壓泰國媒體　恐促自我審查衝擊新聞自由",
       "summary": [
         "經濟日報：RSF：中國施壓泰國媒體　恐促自我審查衝擊新聞自由",
@@ -222,156 +195,177 @@
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5633959"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "王心凌雨中嗨跳《愛你》！大咖天王「王甜甜」現身掀暴動",
+      "summary": [
+        "自由時報：王心凌雨中嗨跳《愛你》！大咖天王「王甜甜」現身掀暴動",
+        "中時新聞：王力宏雨中攜手王心凌！熱舞〈愛你〉解鎖「王甜甜」反差萌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "王心凌雨中嗨跳《愛你》！大咖天王「王甜甜」現身掀暴動",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5633689"
+        },
+        {
+          "source": "中時新聞",
+          "title": "王力宏雨中攜手王心凌！熱舞〈愛你〉解鎖「王甜甜」反差萌",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BZFVOeThuRGRETURncGcxQUxGRUFsZzMwYXkydE9TeEZVSUcya2NjNmxyV3lPczRCWVdZbkd1cTFreGlfRk54c2pGdTMza0xhN3RxbjZOUWdyaDFFdy1iR2JZZnp6S0xXeEtWV1p3?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "美智庫解析「技術民族主義」下的中俄軍工合作細節與限度",
+      "title": "「短睡眠基因」：為何有人只需睡四小時？",
       "summary": [
-        "BBC中文：美智庫解析「技術民族主義」下的中俄軍工合作細節與限度"
+        "BBC中文：「短睡眠基因」：為何有人只需睡四小時？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "BBC中文",
-          "title": "美智庫解析「技術民族主義」下的中俄軍工合作細節與限度",
-          "url": "https://www.bbc.com/zhongwen/articles/c977pge1jkmdo/trad?at_medium=RSS&at_campaign=rss"
+          "title": "「短睡眠基因」：為何有人只需睡四小時？",
+          "url": "https://www.bbc.com/zhongwen/articles/cm0j0341z50qo/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "篤定成為首位穆斯林美國參議員，42歲的賽義德是誰？",
+      "title": "Trump calls for Justice Department to investigate Democrats",
       "summary": [
-        "BBC中文：篤定成為首位穆斯林美國參議員，42歲的賽義德是誰？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "篤定成為首位穆斯林美國參議員，42歲的賽義德是誰？",
-          "url": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
-      "summary": [
-        "The Guardian：Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
-          "url": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Man arrested near White House for threats, carrying multiple weapons",
-      "summary": [
-        "Washington Post：Man arrested near White House for threats, carrying multiple weapons"
+        "Washington Post：Trump calls for Justice Department to investigate Democrats"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Washington Post",
-          "title": "Man arrested near White House for threats, carrying multiple weapons",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVRYbTNoVHdrRHhZdlpfSG4yMkZmd0hwXzRhQ2UwUEM0TDZ5LVRUcy02TUxyLVczTkhQN0lSeDVobXRibmlaMC1JRGhybGpuSWJ5SzFuZGQxM3dMWkpwcUlwcm5haFozbzBmUUswdG1zbURMd0FOMnZnclFzOGVGOHVzbDBMUXY2TmRyVm9US1ZRZEZzSGIzQThSSDI1STZmTzhwTkJKYVpVamhPanN6OTY0enBpQQ?oc=5"
+          "title": "Trump calls for Justice Department to investigate Democrats",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYWNoYzZPMGhyQkU5MmZ2THZhM3pHTkJDdGZjS1ZYdHBfdGdoVzV1cGk4cWN6QWFsRHA0X2w3TG0yWDdzaU8tczgzWHQ3amtkOWwxUjduSzg4RjNEb0tLSDZnaGVsTm01RkFRaDB5Wl9RdnhONlJSenNMVnpUN2pXckI5NTlyQ2pqdUNCYnp2NEhaaGw3bVRZZy15VTU5OWtEdnVSLTQtNA?oc=5"
         }
       ]
     },
     {
-      "rank": 5,
-      "title": "20個歐洲航班再遭“詐彈”威脅",
+      "rank": 3,
+      "title": "美利堅復活了？中期選舉的五點啟示",
       "summary": [
-        "FT中文網：20個歐洲航班再遭“詐彈”威脅"
+        "FT中文網：美利堅復活了？中期選舉的五點啟示"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "FT中文網",
-          "title": "20個歐洲航班再遭“詐彈”威脅",
-          "url": "https://www.ftchinese.com/story/001111295"
+          "title": "美利堅復活了？中期選舉的五點啟示",
+          "url": "https://www.ftchinese.com/story/001111297"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "中國將2027年黨代表人數增加至2,360人",
+      "summary": [
+        "Bloomberg Markets：中國將2027年黨代表人數增加至2,360人"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "中國將2027年黨代表人數增加至2,360人",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/china-raises-delegate-count-to-2-360-for-2027-party-congress"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "波克夏海瑟威的股票再次成為避風港，因為投資者逃離人工智慧大屠殺，而其自己的投資組合在重組中受到打擊",
+      "summary": [
+        "Yahoo Finance：波克夏海瑟威的股票再次成為避風港，因為投資者逃離人工智慧大屠殺，而其自己的投資組合在重組中受到打擊"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "波克夏海瑟威的股票再次成為避風港，因為投資者逃離人工智慧大屠殺，而其自己的投資組合在重組中受到打擊",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd0ZwYVhqTGEwb1ZkSWcta2tKbExWN2lZY2pFdXk3VmNiN0lHZzZpV2FNRWFIQnYta3cxRDk0dFlXVjFoUmp0Y3ZBdnh0Rl9vMmxyVXZieWJhYk1uYlpCWGRhTVdEZTNSVnYzWUptSk95NG9jazB3cmxYTnFUdjd0eFIxQjhOLVF4QmUxYklwY2tSajNDZmVkTFNUcmhqblFSeEh3?oc=5"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "Indonesian president’s adviser says MSCI downgrade threat ‘went too far’",
+      "title": "澳洲人正以40年來最快的速度面臨數萬億美元的財富效應下行：“未知領域”",
       "summary": [
-        "Financial Times：Indonesian president’s adviser says MSCI downgrade threat ‘went too far’"
+        "Yahoo Finance：澳洲人正以40年來最快的速度面臨數萬億美元的財富效應下行：“未知領域”"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "Indonesian president’s adviser says MSCI downgrade threat ‘went too far’",
-          "url": "https://www.ft.com/content/32c04cee-3f49-4971-a72d-391ad52e8f58?syn-25a6b1a6=1"
+          "source": "Yahoo Finance",
+          "title": "澳洲人正以40年來最快的速度面臨數萬億美元的財富效應下行：“未知領域”",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWHhtMGgycEdlaFk5TENESEJ3NExyb3E0RHRoWkw5R3I3ZWFPMkNaaHA1ZGpybGh5TkFTOHlmMV9vc1VnYzg2VnlMMGpWSkVwd3dMUHVCTVB5em05cjZCUjYtLUVub2YtRnR2QmlmVG9Uc0QtMnhwYmMyNkR1SFpxdUsxQlBKRHBKUTBoUkZqTmNSYnF5M1BtTmRNUkhBQ2VDdE5pVGY0VlQ5OXk4dldFNFR4N1AyR1ZHZU5iVTJfdHpZQlp4M0NzZ0RGSlo4VXhueHVLT3ZDaVlpVkZHSFFkY0xlVkJvV1ltcUdXQ3BR?oc=5"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
+      "title": "澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
       "summary": [
-        "Yahoo Finance：Yahoo Finance - Stock Market Live, Quotes, Business & Finance News"
+        "BBC中文：澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
-          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBBTy1pM1poaEROWTVTNDVTYVdvTDZEWmM1VDhGdlUzWW1OUXNvQ3RmZTVZQ3BGVlhvbTlWNFNhUQ?oc=5"
+          "source": "BBC中文",
+          "title": "澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
+          "url": "https://www.bbc.com/zhongwen/articles/cw62yyejjrlro/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "Elon Musk reacts to Democrat call for AI pause — while $2T vanishes from tech stocks. Are you exposed?",
+      "title": "美國中期選舉後，AI放緩憂慮重創全球大型科技股，韓國股市熔斷",
       "summary": [
-        "Yahoo Finance：Elon Musk reacts to Democrat call for AI pause — while $2T vanishes from tech stocks. Are you exposed?"
+        "BBC中文：美國中期選舉後，AI放緩憂慮重創全球大型科技股，韓國股市熔斷"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "Elon Musk reacts to Democrat call for AI pause — while $2T vanishes from tech stocks. Are you exposed?",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEc4WUkxanRQc1NnajZPbU85R2ZUbllKUU1JY0paOVlfbE5yVFZ3YS1kY01LQXItODB1ZllQbjhBVUFRYzlRRUo3bk53T1gwa3ZkQk11T1I1WEJKVVRwV2pGUER3eTRHY3F2WnVrbTlUVkVRanl6M3lJdGV6YUNCRGoteDVDeUlBMFF0eGZoSlFqZ1M2UEJILURR?oc=5"
+          "source": "BBC中文",
+          "title": "美國中期選舉後，AI放緩憂慮重創全球大型科技股，韓國股市熔斷",
+          "url": "https://www.bbc.com/zhongwen/articles/cqlyeen0z8x2o/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "Is Return To Profit Altering The Investment Case For Medical Properties Trust Stock?",
+      "title": "サッカー女子 17歳以下のW杯 日本 12年ぶりの優勝はならず",
       "summary": [
-        "Yahoo Finance：Is Return To Profit Altering The Investment Case For Medical Properties Trust Stock?"
+        "NHK新聞：サッカー女子 17歳以下のW杯 日本 12年ぶりの優勝はならず"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "Is Return To Profit Altering The Investment Case For Medical Properties Trust Stock?",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRFFGM1p6OTllV002ODF3WFNZWWs5N0lxdENVbjhvblo1S3NyRTZNd0V5bFBWLVFkY1d5UXhGYjhpQmdhMy1va0hneXpaa1lMV0MwQjVSMGlkZFY1X0pzNWY3aEN2T0lKQXVweFA5TVpENkpNV2gyaEVFb1JZdF8xVUM5a1JmMmVjN3dEb3lHekVEN0lSQ3Y3OGYzZWVldjhQeHc?oc=5"
+          "source": "NHK新聞",
+          "title": "サッカー女子 17歳以下のW杯 日本 12年ぶりの優勝はならず",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72452"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "What are the AI lab compute commitments?",
+      "title": "韓國國會國防委委員長介紹率團訪美結果",
       "summary": [
-        "Investing.com：What are the AI lab compute commitments?"
+        "韓聯社：韓國國會國防委委員長介紹率團訪美結果"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "What are the AI lab compute commitments?",
-          "url": "https://www.investing.com/news/stock-market-news/what-are-the-ai-lab-compute-commitments-5010113"
+          "source": "韓聯社",
+          "title": "韓國國會國防委委員長介紹率團訪美結果",
+          "url": "https://cn.yna.co.kr/view/ACK20261108001200881"
         }
       ]
     }
