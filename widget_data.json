@@ -1,56 +1,8 @@
 {
-  "updated_at": "2026-11-08 17:44",
+  "updated_at": "2026-11-08 18:41",
   "taiwan": [
     {
       "rank": 1,
-      "title": "以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
-      "summary": [
-        "經濟日報：以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
-        "ETtoday：以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
-        "鉅亨網：以色列總統授權反對派領袖組閣！納坦雅胡政權面臨挑戰"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
-          "url": "https://money.udn.com/money/story/5599/9864497"
-        },
-        {
-          "source": "ETtoday",
-          "title": "以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
-          "url": "https://www.ettoday.net/news/20261108/3268277.htm"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "以色列總統授權反對派領袖組閣！納坦雅胡政權面臨挑戰",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45c0puSXFVVHVTX09sRzF2QXZhRWhraHBlQ2lZTXd6R0R2ZHZYSUJfdjRlaTAxanFuQmd2aUdueFE3RXExd2o4eDIwc19lTEE?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "日本中部規模5.7地震　愛知縣傳2傷",
-      "summary": [
-        "ETtoday：日本中部規模5.7地震　愛知縣傳2傷",
-        "經濟日報：日本中部5.7地震釀27傷！震央位南海海槽震源區 氣象廳回應"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "日本中部規模5.7地震　愛知縣傳2傷",
-          "url": "https://www.ettoday.net/news/20261108/3268269.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "日本中部5.7地震釀27傷！震央位南海海槽震源區 氣象廳回應",
-          "url": "https://money.udn.com/money/story/5599/9864752"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "波蘭槍擊案釀6死16傷! 槍手開車駛入廣場開火｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：波蘭槍擊案釀6死16傷! 槍手開車駛入廣場開火｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -71,7 +23,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "溼答答！　入秋最強冷空氣明報到",
       "summary": [
         "ETtoday：溼答答！　入秋最強冷空氣明報到",
@@ -92,7 +44,28 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "title": "以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
+      "summary": [
+        "ETtoday：以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
+        "鉅亨網：以色列總統授權反對派領袖組閣！納坦雅胡政權面臨挑戰"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "以色列總統授權反對派領袖籌組政府　總理尼坦雅胡面臨下臺壓力",
+          "url": "https://www.ettoday.net/news/20261108/3268277.htm"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "以色列總統授權反對派領袖組閣！納坦雅胡政權面臨挑戰",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45c0puSXFVVHVTX09sRzF2QXZhRWhraHBlQ2lZTXd6R0R2ZHZYSUJfdjRlaTAxanFuQmd2aUdueFE3RXExd2o4eDIwc19lTEE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "力晶投控爆經營權之爭　祭出1088元股東會禮品爭取股東支援",
       "summary": [
         "ETtoday：力晶投控爆經營權之爭　祭出1088元股東會禮品爭取股東支援",
@@ -113,7 +86,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "影/波蘭槍擊恐攻6死15傷！民眾逃警局趴滿地 警開6槍制伏兇嫌畫面曝",
       "summary": [
         "經濟日報：影/波蘭槍擊恐攻6死15傷！民眾逃警局趴滿地 警開6槍制伏兇嫌畫面曝",
@@ -134,7 +107,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "快訊／高雄鳥松鐵皮屋冒出大量火煙！消防急佈線灌救",
       "summary": [
         "ETtoday：快訊／高雄鳥松鐵皮屋冒出大量火煙！消防急佈線灌救",
@@ -155,7 +128,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "轟蘇巧慧找卓榮泰站臺　李四川競辦：選舉擺優先、長者踢一邊",
       "summary": [
         "ETtoday：轟蘇巧慧找卓榮泰站臺　李四川競辦：選舉擺優先、長者踢一邊",
@@ -176,7 +149,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "NBA》還是要靠老大哥！38歲柯瑞轟41分 勇士延長賽退魔術收7連勝",
       "summary": [
         "自由時報：NBA》還是要靠老大哥！38歲柯瑞轟41分 勇士延長賽退魔術收7連勝",
@@ -197,7 +170,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "亞冠賽中華隊28人名單今揭曉！首戰強碰日本　高志綱談破解之道",
       "summary": [
         "ETtoday：亞冠賽中華隊28人名單今揭曉！首戰強碰日本　高志綱談破解之道",
@@ -214,6 +187,27 @@
           "source": "自由時報",
           "title": "亞冠賽》熱身賽落幕 臺灣隊28人名單出爐！",
           "url": "https://sports.ltn.com.tw/news/breakingnews/5633737"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "揭開「肥胖悖論」新線索：飲食改變腸道細菌，影響癌症免疫治療成效",
+      "summary": [
+        "科技新報：揭開「肥胖悖論」新線索：飲食改變腸道細菌，影響癌症免疫治療成效",
+        "自由時報：癌症免疫治療受飲食影響！研究揭某些高脂食物竟讓療效更好"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "揭開「肥胖悖論」新線索：飲食改變腸道細菌，影響癌症免疫治療成效",
+          "url": "https://technews.tw/2026/11/08/some-unhealthy-diets-can-boost-cancer-immunotherapy-in-mice/"
+        },
+        {
+          "source": "自由時報",
+          "title": "癌症免疫治療受飲食影響！研究揭某些高脂食物竟讓療效更好",
+          "url": "https://health.ltn.com.tw/article/breakingnews/5633744"
         }
       ]
     }
@@ -263,121 +257,121 @@
     },
     {
       "rank": 3,
-      "title": "美中期選舉後烏克蘭強調爭取美國兩黨的支援",
+      "title": "東海道新幹線 運転再開",
       "summary": [
-        "法廣RFI：美中期選舉後烏克蘭強調爭取美國兩黨的支援"
+        "NHK新聞：東海道新幹線 運転再開"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "美中期選舉後烏克蘭強調爭取美國兩黨的支援",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261107-%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%BE%8C%E7%83%8F%E5%85%8B%E8%98%AD%E5%BC%B7%E8%AA%BF%E7%88%AD%E5%8F%96%E7%BE%8E%E5%9C%8B%E5%85%A9%E9%BB%A8%E7%9A%84%E6%94%AF%E6%8C%81"
+          "source": "NHK新聞",
+          "title": "東海道新幹線 運転再開",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72365"
         }
       ]
     },
     {
       "rank": 4,
-      "title": "非洲:塞內加爾一起集體衛生事件",
+      "title": "東北新幹線東京～盛岡線因架空線受阻暫停營運",
       "summary": [
-        "法廣RFI：非洲:塞內加爾一起集體衛生事件"
+        "NHK新聞：東北新幹線東京～盛岡線因架空線受阻暫停營運"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "非洲:塞內加爾一起集體衛生事件",
-          "url": "https://www.rfi.fr/tw/%E9%9D%9E%E6%B4%B2/20261107-rfi%E6%B3%95%E5%BB%A3-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%A1%9E%E5%85%A7%E5%8A%A0%E7%88%BE%E4%B8%80%E8%B5%B7%E9%9B%86%E9%AB%94%E8%A1%9B%E7%94%9F%E4%BA%8B%E4%BB%B6"
+          "source": "NHK新聞",
+          "title": "東北新幹線東京～盛岡線因架空線受阻暫停營運",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72358"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "俄軍對烏克蘭發動大規模攻擊，造成房屋受損，影響平民生活",
+      "title": "美軍尋求破壞伊朗陸路路線，擴大海上封鎖",
       "summary": [
-        "NHK新聞：俄軍對烏克蘭發動大規模攻擊，造成房屋受損，影響平民生活"
+        "Washington Post：美軍尋求破壞伊朗陸路路線，擴大海上封鎖"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "俄軍對烏克蘭發動大規模攻擊，造成房屋受損，影響平民生活",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72339"
+          "source": "Washington Post",
+          "title": "美軍尋求破壞伊朗陸路路線，擴大海上封鎖",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTHJ4Z08xMkRQRml0cEZYUFhnRmJ2X294S2tERkkwNTN4MjdVVmxqcE5UOWJEZlI1eFlSSXo0RFI3Wnp2bjJlc1JiV2xNX0ljMGUxN1RRU29OV2M3VVp2OWlubzdOSlBOajE2N0h6bEVXbm9QY1lkaXNXbEV1NUdSSXEyQkFZb2VvUzVJNzYtS3pKUFVaUG1Jd0JJN3liMVFWOXJ2a2U0ZlVHY04wdVZFVk1yVzZCNm9MLW81NkNzNGE3czVXWm9HMg?oc=5"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "在中國被拘留的大型製藥公司員工預計下個月出獄",
+      "title": "美國人對人工智慧繁榮的破滅感到焦慮",
       "summary": [
-        "NHK新聞：在中國被拘留的大型製藥公司員工預計下個月出獄"
+        "Washington Post：美國人對人工智慧繁榮的破滅感到焦慮"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "在中國被拘留的大型製藥公司員工預計下個月出獄",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261108de72316"
+          "source": "Washington Post",
+          "title": "美國人對人工智慧繁榮的破滅感到焦慮",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1VmQjZaSFpBNlM4eXNWWGdfZ05kR1p6SnhJMVh2OURjd0t3Nl9kUHBiS3pXUzRfVDlOcUY4UUI2ejZ0RWZfd2gwbEl6WWhMWE5xNDd1SkxZVWhXVjNsWWRRRm45bl9VVFVCMkxQRjdDOU42ekhTWUoyMFhjZUtxazByTFhxYTVZb3l5RGlHT0xlaTFOQTVkbVpVLTJPeW8tRkZXbTFuQU5XSzNJTnF2dUo0MA?oc=5"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
+      "title": "Paraguay’s President Resigns as Collapse of Bank With Close Ties to Him Sparks Crisis",
       "summary": [
-        "The Guardian：巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職"
+        "WSJ Markets：Paraguay’s President Resigns as Collapse of Bank With Close Ties to Him Sparks Crisis"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "The Guardian",
-          "title": "巴拉圭總統因銀行危機凍結數百萬人儲蓄而辭職",
-          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+          "source": "WSJ Markets",
+          "title": "Paraguay’s President Resigns as Collapse of Bank With Close Ties to Him Sparks Crisis",
+          "url": "https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_markets_main"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "2027 年稅級已出。檢視標準扣除額和 SALT 稅收減免是多少。",
+      "title": "摩根大通執行長傑米戴蒙 (Jamie Dimon) 宣稱美國將繼續保持世界頭號儲備貨幣的地位——原因有兩個",
       "summary": [
-        "MarketWatch：2027 年稅級已出。檢視標準扣除額和 SALT 稅收減免是多少。"
+        "Yahoo Finance：摩根大通執行長傑米戴蒙 (Jamie Dimon) 宣稱美國將繼續保持世界頭號儲備貨幣的地位——原因有兩個"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "MarketWatch",
-          "title": "2027 年稅級已出。檢視標準扣除額和 SALT 稅收減免是多少。",
-          "url": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories"
+          "source": "Yahoo Finance",
+          "title": "摩根大通執行長傑米戴蒙 (Jamie Dimon) 宣稱美國將繼續保持世界頭號儲備貨幣的地位——原因有兩個",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMDkxSFQwbkRXYUdjbDgyWHRFUEVva2cxc3lONk50SXM2ZWJFdmw0VHRWaWNBNXI5NWtQd2dJdC01VElvNlJoOXJLT3BDU3VTQ0tRQUNWdFJ3TmYxOFljcndYajVtQ28xbGhhMHh0RmdxZC1RV3FRNlY3YjJUd2h0ZEpmMjNYZkF6eXFXRGRMRDJYaHpBUk9UZTdTWWhGcFBXV0Nheg?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "亞馬遜又裁掉 95 個職位，62 歲的他失業了。他申請社會安全勉強度日，結果卻面臨 8,400 美元的帳單無法兌現",
+      "title": "本週中期選舉如何在短短 24 小時內讓華爾街從慶祝變成混亂",
       "summary": [
-        "Yahoo Finance：亞馬遜又裁掉 95 個職位，62 歲的他失業了。他申請社會安全勉強度日，結果卻面臨 8,400 美元的帳單無法兌現"
+        "Yahoo Finance：本週中期選舉如何在短短 24 小時內讓華爾街從慶祝變成混亂"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "亞馬遜又裁掉 95 個職位，62 歲的他失業了。他申請社會安全勉強度日，結果卻面臨 8,400 美元的帳單無法兌現",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTzhqdEpBOWc0ODVjb1FRSkhDbVB6M0F0YmxBRTNwTGZVQTRIUmNOV0JOcTV2Zl9XbHBfbUpHa1p1YlhFTzVpd01jX1hNTlNfbFlMRU0zT1V1NTBTOHV5SlVxUEtzSDYzSEpaRHdyYTAzQ1EyYTVyVFZ2S0h2MmlOUHJwS01VUGtyUGxqVFl3?oc=5"
+          "title": "本週中期選舉如何在短短 24 小時內讓華爾街從慶祝變成混亂",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTklhVlJaYnBBLW00MDBWejE4c0dvUFlMdUI3YWRDdUxnUFZVSFZuQzBUOU5xdTB3RFJoVS1IUjVaR2N5SXdaaU9sRXlvT1MtUWJRU09sano1NzhfanJXNzFJRFdBMzZNdjhYZkYtb1I3MmFiTGZqZUZaYi1henNsdGJKYzFtaFBfNHBRblpvMVU2dndoeEV5UDJBTC1fRy11aDE4aWNkaDVMQU9WNmRfR3JmM2k1N3k1WnRNaFl5VkpRU2twZmZMZl9FeXlxV25SVklGZEZWVQ?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "這是我認為 2030 年底英特爾股票的走勢",
+      "title": "波克夏海瑟威因營業利潤下降而加強回購力度",
       "summary": [
-        "Yahoo Finance：這是我認為 2030 年底英特爾股票的走勢"
+        "Yahoo Finance：波克夏海瑟威因營業利潤下降而加強回購力度"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "這是我認為 2030 年底英特爾股票的走勢",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR0t3QnBXMVhUWF91OFNraW94d2VHa0hpRmJPYXIwM3BCWEFzTVp6Z01BNlE2YXUydFdzMjA4MkpWMm84OVFXSjlmelVZbVRQWHF6TUxsSFVUdXR4b091WU45YTk4dXVjV0kzazNMb3cyeFhtX2pJZjdjWVBFMXRmMzBGV1VtRm5xM3NLNjdCSGtadnctX2lzRWt3?oc=5"
+          "title": "波克夏海瑟威因營業利潤下降而加強回購力度",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTGZmS29PZVJvc2JQb0xQTEczNWlfWUF6dm11TVlRazFaRGx6X1ZMdk1RMG1pOWpUZ0VPU3RnaWdOZVVmRVJaeU1kUEpXd2UwWGZlV2RJbk5YNFZjcVVuOTJ1cWF4RnpEXzdlaFNXM2NsNm9sZ1FaRFlnX05XSVdRWV9IU0s1eXNzWXNlS0ZLaWRKdGR0VnpNX2NsN0p2eWQ4OWRzdEpOQ19FZy1l?oc=5"
         }
       ]
     }
