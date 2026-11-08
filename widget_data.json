@@ -1,8 +1,62 @@
 {
-  "updated_at": "2026-11-08 21:49",
+  "updated_at": "2026-11-08 22:39",
   "taiwan": [
     {
       "rank": 1,
+      "title": "入秋最猛東北季風！今晚起全臺有感 明北臺降溫10度「這天」回暖",
+      "summary": [
+        "自由時報：入秋最猛東北季風！今晚起全臺有感 明北臺降溫10度「這天」回暖",
+        "TVBS新聞：天氣/入秋最強冷空氣今晚報到 北宜降溫逾10度轉濕冷 冬衣出籠! 週二最冷清晨區域性探15度｜TVBS新聞 @TVBSNEWS01",
+        "風傳媒：天氣預報/入冬最強冷空氣來了！這天起「低溫下探15度」，2波變天轉濕涼， 下週天氣一次看"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "入秋最猛東北季風！今晚起全臺有感 明北臺降溫10度「這天」回暖",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5633354"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "天氣/入秋最強冷空氣今晚報到 北宜降溫逾10度轉濕冷 冬衣出籠! 週二最冷清晨區域性探15度｜TVBS新聞 @TVBSNEWS01",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04ek51ODBhMlF6a0NOOWJvUlU5bTFZLWdBYUVacWRmbmtBQUVWY3IyMmlyQmc2MWV4OWh4RjBoMWp3UE5VOHdjN2lwSmVoWk1GY1JzaGtn?oc=5"
+        },
+        {
+          "source": "風傳媒",
+          "title": "天氣預報/入冬最強冷空氣來了！這天起「低溫下探15度」，2波變天轉濕涼， 下週天氣一次看",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tRnNtNGt6ZjdDX2RzRU5xU0VicDdQMjE0cWJYS1pzaWZQSVNjTG9IRHhBQXdLSXVSSHJKTWlUUklpWVZLTS10T0FVN01zb19Y?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "黃仁勳長女因家庭因素取消訪韓　多項合作行程喊卡",
+      "summary": [
+        "經濟日報：黃仁勳長女因家庭因素取消訪韓　多項合作行程喊卡",
+        "工商時報：出了什麼事？黃仁勳長女因家庭因素取消訪韓多項合作行程喊卡- 國際",
+        "鉅亨網：黃仁勳之女突然取消訪韓 理由是「家庭因素」"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳長女因家庭因素取消訪韓　多項合作行程喊卡",
+          "url": "https://money.udn.com/money/story/5599/9864931"
+        },
+        {
+          "source": "工商時報",
+          "title": "出了什麼事？黃仁勳長女因家庭因素取消訪韓多項合作行程喊卡- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HU1l5YU8tYjVOcl9yYjNjbGRReWl6cm1ZREJPRXUwbWwyZ1NjWFluUlVGVHFQbkVyMlJHbEtzM2kxdmpwbHhEZUFlaEhuZ2RMTVdYMVAwczFLQnVuSk5n?oc=5"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "黃仁勳之女突然取消訪韓 理由是「家庭因素」",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvVENFVkF3NDI0eFdLbHgtUnVTNWhOMDgxczhfb0RiWF9oamZCakRHci05TTBWSnZkclcxSkZaQmt0clpIcG9Gd2dzUVFVdGM?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "公督盟批切割騙票仍是「聽話的狗」 柯志恩：低劣言詞不回應",
       "summary": [
         "自由時報：公督盟批切割騙票仍是「聽話的狗」 柯志恩：低劣言詞不回應",
@@ -23,7 +77,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "波蘭槍擊案釀6死16傷! 槍手開車駛入廣場開火｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：波蘭槍擊案釀6死16傷! 槍手開車駛入廣場開火｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -44,7 +98,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "轟蘇巧慧找卓榮泰站臺　李四川競辦：選舉擺優先、長者踢一邊",
       "summary": [
         "ETtoday：轟蘇巧慧找卓榮泰站臺　李四川競辦：選舉擺優先、長者踢一邊",
@@ -65,28 +119,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "入秋最猛東北季風！今晚起全臺有感 明北臺降溫10度「這天」回暖",
-      "summary": [
-        "自由時報：入秋最猛東北季風！今晚起全臺有感 明北臺降溫10度「這天」回暖",
-        "TVBS新聞：天氣/入秋最強冷空氣今晚報到 北宜降溫逾10度轉濕冷 冬衣出籠! 週二最冷清晨區域性探15度｜TVBS新聞 @TVBSNEWS01"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "入秋最猛東北季風！今晚起全臺有感 明北臺降溫10度「這天」回暖",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5633354"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "天氣/入秋最強冷空氣今晚報到 北宜降溫逾10度轉濕冷 冬衣出籠! 週二最冷清晨區域性探15度｜TVBS新聞 @TVBSNEWS01",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04ek51ODBhMlF6a0NOOWJvUlU5bTFZLWdBYUVacWRmbmtBQUVWY3IyMmlyQmc2MWV4OWh4RjBoMWp3UE5VOHdjN2lwSmVoWk1GY1JzaGtn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "title": "NBA》還是要靠老大哥！38歲柯瑞轟41分 勇士延長賽退魔術收7連勝",
       "summary": [
         "自由時報：NBA》還是要靠老大哥！38歲柯瑞轟41分 勇士延長賽退魔術收7連勝",
@@ -107,7 +140,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "亞冠賽中華隊28人名單今揭曉！首戰強碰日本　高志綱談破解之道",
       "summary": [
         "ETtoday：亞冠賽中華隊28人名單今揭曉！首戰強碰日本　高志綱談破解之道",
@@ -128,7 +161,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Garmin Fenix E智慧手錶大砍15879元 1.3吋戶外運動設計、動態路線規劃、16天續航力",
       "summary": [
         "癮科技Cool3c：Garmin Fenix E智慧手錶大砍15879元 1.3吋戶外運動設計、動態路線規劃、16天續航力",
@@ -149,7 +182,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "三星、SK海力士壓力山大？臺積電傳進軍記憶體擬產3D DRAM，整碗端走AI晶片供應業務...神山最新回應了",
       "summary": [
         "今周刊：三星、SK海力士壓力山大？臺積電傳進軍記憶體擬產3D DRAM，整碗端走AI晶片供應業務...神山最新回應了",
@@ -170,7 +203,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "揭開「肥胖悖論」新線索：飲食改變腸道細菌，影響癌症免疫治療成效",
       "summary": [
         "科技新報：揭開「肥胖悖論」新線索：飲食改變腸道細菌，影響癌症免疫治療成效",
@@ -189,27 +222,6 @@
           "url": "https://health.ltn.com.tw/article/breakingnews/5633744"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "宋逸民驚爆父子投票不同調！陳維齡認了：各自去禱告",
-      "summary": [
-        "自由時報：宋逸民驚爆父子投票不同調！陳維齡認了：各自去禱告",
-        "ETtoday：宋逸民不表態投誰！爆父子政治傾向不同　陳維齡曝化解妙招：各自去禱告"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "宋逸民驚爆父子投票不同調！陳維齡認了：各自去禱告",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5633628"
-        },
-        {
-          "source": "ETtoday",
-          "title": "宋逸民不表態投誰！爆父子政治傾向不同　陳維齡曝化解妙招：各自去禱告",
-          "url": "https://star.ettoday.net/news/3268562"
-        }
-      ]
     }
   ],
   "global": [
@@ -218,7 +230,7 @@
       "title": "Anthropic 達成 34 億美元協議，為資料中心提供燃氣發電",
       "summary": [
         "Financial Times：Anthropic 達成 34 億美元協議，為資料中心提供燃氣發電",
-        "Investing.com：據報道，Anthropic 達成價值 34 億美元的資料中心燃氣發電協議"
+        "Investing.com：據報道，Anthropic 達成了價值 34 億美元的資料中心燃氣發電協議"
       ],
       "media_count": 2,
       "links": [
@@ -229,13 +241,28 @@
         },
         {
           "source": "Investing.com",
-          "title": "據報道，Anthropic 達成價值 34 億美元的資料中心燃氣發電協議",
+          "title": "據報道，Anthropic 達成了價值 34 億美元的資料中心燃氣發電協議",
           "url": "https://www.investing.com/news/stock-market-news/anthropic-reportedly-strikes-34-billion-deal-for-gasfired-power-at-data-centres-5010208"
         }
       ]
     },
     {
       "rank": 2,
+      "title": "CoreWeave 尋求與德克薩斯州當選州長伊諾霍薩休戰",
+      "summary": [
+        "Yahoo Finance：CoreWeave 尋求與德克薩斯州當選州長伊諾霍薩休戰"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "CoreWeave 尋求與德克薩斯州當選州長伊諾霍薩休戰",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWG9mWXpBSTZXcnZsVmJfalJwdjEtSHJoS2ppWGtLYnpkOVNOaHVpcktaWWJGcVlSdW5CaW81UDF0X1E1V3prNk5ETngxc1NwVjdWLUNHZlpIMW91dTJiOUptUFpXa1hBT1diLTNzRVlfa1Vja19jcXM2SVNMQ3pDY0tkdzNQLXFpWnR4T1RR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "從蔡康永、《VIVANT》到姆巴佩：北京為何區別處理「辱華」事件？",
       "summary": [
         "BBC中文：從蔡康永、《VIVANT》到姆巴佩：北京為何區別處理「辱華」事件？"
@@ -250,7 +277,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "川普總統任命綜合武術組織代表擔任新聞秘書",
       "summary": [
         "NHK新聞：川普總統任命綜合武術組織代表擔任新聞秘書"
@@ -265,7 +292,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "[地震資訊]熊本縣地震強度4級，不用擔心海嘯",
       "summary": [
         "NHK新聞：[地震資訊]熊本縣地震強度4級，不用擔心海嘯"
@@ -280,7 +307,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "福井森林中發現女性屍體；調查嫌疑人的參與情況",
       "summary": [
         "NHK新聞：福井森林中發現女性屍體；調查嫌疑人的參與情況"
@@ -295,7 +322,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "英偉達高階總監黃敏珊突然取消訪韓",
       "summary": [
         "韓聯社：英偉達高階總監黃敏珊突然取消訪韓"
@@ -310,7 +337,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "麥克勒莫爾稱美國 9 個場館拒絕了他的自由巴勒斯坦之旅",
       "summary": [
         "Washington Post：麥克勒莫爾稱美國 9 個場館拒絕了他的自由巴勒斯坦之旅"
@@ -325,7 +352,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "李翊雲：任何過往的生命中，都有不該被遺忘的東西",
       "summary": [
         "FT中文網：李翊雲：任何過往的生命中，都有不該被遺忘的東西"
@@ -340,7 +367,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "“我是什麼樣的人，也會體現在我做的菜裡”",
       "summary": [
         "FT中文網：“我是什麼樣的人，也會體現在我做的菜裡”"
@@ -351,21 +378,6 @@
           "source": "FT中文網",
           "title": "“我是什麼樣的人，也會體現在我做的菜裡”",
           "url": "https://www.ftchinese.com/story/001111293"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "不能對“後特朗普時代”有太多憧憬",
-      "summary": [
-        "FT中文網：不能對“後特朗普時代”有太多憧憬"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "FT中文網",
-          "title": "不能對“後特朗普時代”有太多憧憬",
-          "url": "https://www.ftchinese.com/story/001111294"
         }
       ]
     }
