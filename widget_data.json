@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 06:47",
+  "updated_at": "2026-11-10 07:47",
   "taiwan": [
     {
       "rank": 1,
@@ -126,27 +126,6 @@
     },
     {
       "rank": 6,
-      "title": "富國島旅行團爆登革熱群聚！2人返臺確診　同團11人匡列監測",
-      "summary": [
-        "ETtoday：富國島旅行團爆登革熱群聚！2人返臺確診　同團11人匡列監測",
-        "自由時報：也是去富國島！2臺人確診登革熱 同團11人持續監測"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "富國島旅行團爆登革熱群聚！2人返臺確診　同團11人匡列監測",
-          "url": "https://health.ettoday.net/news/3269148"
-        },
-        {
-          "source": "自由時報",
-          "title": "也是去富國島！2臺人確診登革熱 同團11人持續監測",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5634832"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "同欣電砸近20億元收購新加坡上市半導體測試廠 溢價129％",
       "summary": [
         "自由時報：同欣電砸近20億元收購新加坡上市半導體測試廠 溢價129％",
@@ -167,7 +146,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "羽球》高雄大師賽開戰 臺灣新生代拚主場榮耀",
       "summary": [
         "自由時報：羽球》高雄大師賽開戰 臺灣新生代拚主場榮耀",
@@ -188,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "快訊／精英電腦爆內線交易　「西門町地王」父子遭搜尋約談",
       "summary": [
         "ETtoday：快訊／精英電腦爆內線交易　「西門町地王」父子遭搜尋約談",
@@ -209,11 +188,11 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Google 第八代 TPU 再添兩款，聯手 AMD 打造安全與機密推論 TPU",
       "summary": [
         "科技新報：Google 第八代 TPU 再添兩款，聯手 AMD 打造安全與機密推論 TPU",
-        "INSIDE硬塞：Google證實TPU 8tx採用AMD主機CPU，第八代TPU新增至四個系統"
+        "癮科技Cool3c：Google擴充套件第8代TUP系統陣容，推出針對安全機密推論的TPU 8tx及高機架級運算密度的TPU 8i Max"
       ],
       "media_count": 2,
       "links": [
@@ -223,9 +202,30 @@
           "url": "https://technews.tw/2026/11/09/google-introduces-tpu-8tx-and-tpu-8i-max/"
         },
         {
-          "source": "INSIDE硬塞",
-          "title": "Google證實TPU 8tx採用AMD主機CPU，第八代TPU新增至四個系統",
-          "url": "https://www.inside.com.tw/article/42841-google-amd-tpu-8tx-8i-max-agentic-ai"
+          "source": "癮科技Cool3c",
+          "title": "Google擴充套件第8代TUP系統陣容，推出針對安全機密推論的TPU 8tx及高機架級運算密度的TPU 8i Max",
+          "url": "https://www.cool3c.com/article/253936"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "奧運5金柔道名將希內　宣佈角逐2027年法國總統大選",
+      "summary": [
+        "經濟日報：奧運5金柔道名將希內　宣佈角逐2027年法國總統大選",
+        "自由時報：柔道》奧運5金傳奇跨足政壇 希內投入明年法國總統大選"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "奧運5金柔道名將希內　宣佈角逐2027年法國總統大選",
+          "url": "https://money.udn.com/money/story/5599/9867675"
+        },
+        {
+          "source": "自由時報",
+          "title": "柔道》奧運5金傳奇跨足政壇 希內投入明年法國總統大選",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5635023"
         }
       ]
     }
@@ -233,97 +233,11 @@
   "global": [
     {
       "rank": 1,
-      "title": "Instagram 的人工智慧年齡檢測正在全球擴充套件",
-      "summary": [
-        "The Verge：Instagram 的人工智慧年齡檢測正在全球擴充套件",
-        "Investing.com：隨著訴訟的增加，Meta 擴大了對 Instagram 青少年的人工智慧年齡檢查",
-        "Yahoo Finance：隨著訴訟的增加，Meta 擴大了對 Instagram 青少年的人工智慧年齡檢查"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "Instagram 的人工智慧年齡檢測正在全球擴充套件",
-          "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion"
-        },
-        {
-          "source": "Investing.com",
-          "title": "隨著訴訟的增加，Meta 擴大了對 Instagram 青少年的人工智慧年齡檢查",
-          "url": "https://www.investing.com/news/stock-market-news/meta-expands-ai-age-checks-for-instagram-teens-as-lawsuits-mount-5011999"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "隨著訴訟的增加，Meta 擴大了對 Instagram 青少年的人工智慧年齡檢查",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1g0eDR0NWpEeEtsdXVMbjMxcFFsV1EwTFhJcllnd3NWOFIwN2l1S2RPZ0N2ZEVrM0xuYjhrY05Mck9xdWFqdzlvY2ZnODluallDTVF1UXJCbHV4OGhJbkFwT1pWV05jRHJENEppZGR0Rm4zTHFibkRiTi1jOGdvamJON3lQTWtFQzVkLUZxX3NxcElo?oc=5"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Meta 在全球擴充套件 Instagram 的人工智慧年齡猜測技術",
-          "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "英偉達執行長黃仁勳承認與中國間諜嫌疑犯有染",
-      "summary": [
-        "Bloomberg Markets：英偉達執行長黃仁勳承認與中國間諜嫌疑犯有染",
-        "Tom's Hardware：英偉達執行長黃仁勳因涉嫌與中國間諜有染而被國會傳喚",
-        "Yahoo Finance：英偉達的黃仁勳承認與疑似中國間諜有染，引發安全疑慮"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "英偉達執行長黃仁勳承認與中國間諜嫌疑犯有染",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-09/the-pulse-11-9-2026-video"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "英偉達執行長黃仁勳因涉嫌與中國間諜有染而被國會傳喚",
-          "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "英偉達的黃仁勳承認與疑似中國間諜有染，引發安全疑慮",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaFdNWVk4eVg4NGtBM0h5TzJBM0J1NkhmRGZsT1ZfbEJTSmxiU2trOE9WVUlack9sMnlRM1NDUlN5LVFLdE9uT0dGNFhTb0RFbm9GVWdLZktzUDk0bzZuclo3VDFtbFo3Tk96bmpLUWFRdHh1X1FLQ0xGaHFNRDhfcjNoS2c3cEJDLU5VQUtnVGhVZHdhOGlOQlhhaWJNMTBlMjkxeUtYbFN0ZTZzVG96WURfNEJHcmlpclpNUVlUM0Q4WjU0UmN4MTYzeHc2VHp5Ukxn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "法國指責伊朗超市冰箱遭駭客攻擊",
-      "summary": [
-        "BBC World：法國指責伊朗超市冰箱遭駭客攻擊",
-        "Financial Times：法國指責伊朗對超市冰箱進行網路攻擊",
-        "TechCrunch：法國指責伊朗針對雜貨店和血庫的冰櫃進行大規模駭客攻擊"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "法國指責伊朗超市冰箱遭駭客攻擊",
-          "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Financial Times",
-          "title": "法國指責伊朗對超市冰箱進行網路攻擊",
-          "url": "https://www.ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255?syn-25a6b1a6=1"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "法國指責伊朗針對雜貨店和血庫的冰櫃進行大規模駭客攻擊",
-          "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Anthropic 在 IPO 前推出 Fable 5.2 和 Mythos 5.2 人工智慧模型",
       "summary": [
         "Investing.com：Anthropic 在 IPO 前推出 Fable 5.2 和 Mythos 5.2 人工智慧模型",
         "The Verge：Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型號",
-        "Yahoo Finance：隨著 IPO 融資，Anthropic 推出了 Claude Fable 5.2 和 Mythos 5.2 模型"
+        "Yahoo Finance：Anthropic debuts Claude Fable 5.2 and Mythos 5.2 models as IPO nears"
       ],
       "media_count": 3,
       "links": [
@@ -339,134 +253,197 @@
         },
         {
           "source": "Yahoo Finance",
-          "title": "隨著 IPO 融資，Anthropic 推出了 Claude Fable 5.2 和 Mythos 5.2 模型",
+          "title": "Anthropic debuts Claude Fable 5.2 and Mythos 5.2 models as IPO nears",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORUxtR3VZQVJjcnhWLW1rb3RBdG1vMlFJRlpGeG9iTmdtZ0RrVTBDRkJITUQtM3FjZkhrZHQtb3J4cGNsLUs0SllMR05JcENTWFVOZjJLUUM0c0k2aXlhZGJKNFdnUFd2ZUVtcmp3WWdudFhpWG41by11a3lDZWI1b3Z1VHppTzBteEt4amNJeXc0Y0diSkxnMUdGeVVwNXQ2Y3RUeC1qS3V6cU04eUJtUUg2WHBPVk5pWXB5Vlp1YktpOWxY?oc=5"
         }
       ]
     },
     {
-      "rank": 5,
-      "title": "為什麼巴里克礦業股票今天上漲？",
+      "rank": 2,
+      "title": "Boeing to cut 5% of commercial airplane workforce as production increase is slower than expected",
       "summary": [
-        "Investing.com：為什麼巴里克礦業股票今天上漲？",
-        "Yahoo Finance：為什麼交易股票今天飆升"
+        "CNBC：Boeing to cut 5% of commercial airplane workforce as production increase is slower than expected",
+        "Investing.com：Boeing to cut 5% of planemaking division’s workforce, Seattle Times reports"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "Boeing to cut 5% of commercial airplane workforce as production increase is slower than expected",
+          "url": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Boeing to cut 5% of planemaking division’s workforce, Seattle Times reports",
+          "url": "https://www.investing.com/news/stock-market-news/boeing-to-cut-5-of-planemaking-divisions-workforce-seattle-times-reports-5012939"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Instagram’s AI age detection is expanding globally",
+      "summary": [
+        "The Verge：Instagram’s AI age detection is expanding globally",
+        "TechCrunch：Meta expands Instagram’s AI age-guessing tech globally"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "Instagram’s AI age detection is expanding globally",
+          "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Meta expands Instagram’s AI age-guessing tech globally",
+          "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Meta expands AI age checks for Instagram teens as lawsuits mount",
+      "summary": [
+        "Investing.com：Meta expands AI age checks for Instagram teens as lawsuits mount",
+        "Yahoo Finance：Meta expands AI age checks for Instagram teens as lawsuits mount"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Investing.com",
-          "title": "為什麼巴里克礦業股票今天上漲？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-barrick-mining-stock-rallying-today-93CH-5012178"
+          "title": "Meta expands AI age checks for Instagram teens as lawsuits mount",
+          "url": "https://www.investing.com/news/stock-market-news/meta-expands-ai-age-checks-for-instagram-teens-as-lawsuits-mount-5011999"
         },
         {
           "source": "Yahoo Finance",
-          "title": "為什麼交易股票今天飆升",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVXNrbU10emt4dk5lMUVvMll1cGNWbUltaWR4TkZ4OU5JQWtsbEJCVTdEbmlBZDNGeHRUdnRVaHVDRzl5blF3UGVDOUlTd1lUWG92aEtVRU8tdkNLRkdoVEJKV0hjWlBqcF93SFhjZ2lxaFV3YU5HUkc2U19wdzRDR3VIWjZEQTNKMEdmalA4MXFsQnRnLTNVWnpOU2trdw?oc=5"
+          "title": "Meta expands AI age checks for Instagram teens as lawsuits mount",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1g0eDR0NWpEeEtsdXVMbjMxcFFsV1EwTFhJcllnd3NWOFIwN2l1S2RPZ0N2ZEVrM0xuYjhrY05Mck9xdWFqdzlvY2ZnODluallDTVF1UXJCbHV4OGhJbkFwT1pWV05jRHJENEppZGR0Rm4zTHFibkRiTi1jOGdvamJON3lQTWtFQzVkLUZxX3NxcElo?oc=5"
         }
       ]
     },
     {
-      "rank": 6,
-      "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
+      "rank": 5,
+      "title": "Disney, Adobe to co-develop custom AI models tailored for media giant",
       "summary": [
-        "BBC中文：黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
-        "BBC World：英偉達調查中心的涉嫌中國間諜是誰？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
-          "url": "https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "title": "英偉達調查中心的涉嫌中國間諜是誰？",
-          "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "迪士尼和 Adob​​e 將共同開發為媒體巨頭量身定製的客製化人工智慧模型",
-      "summary": [
-        "Investing.com：迪士尼和 Adob​​e 將共同開發為媒體巨頭量身定製的客製化人工智慧模型",
-        "The Verge：迪士尼和 Adob​​e 正在共同建立生成式 AI 工具"
+        "Investing.com：Disney, Adobe to co-develop custom AI models tailored for media giant",
+        "The Verge：Disney and Adobe are building generative AI tools together"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Investing.com",
-          "title": "迪士尼和 Adob​​e 將共同開發為媒體巨頭量身定製的客製化人工智慧模型",
+          "title": "Disney, Adobe to co-develop custom AI models tailored for media giant",
           "url": "https://www.investing.com/news/stock-market-news/disney-adobe-to-codevelop-custom-ai-models-tailored-for-media-giant-5012009"
         },
         {
           "source": "The Verge",
-          "title": "迪士尼和 Adob​​e 正在共同建立生成式 AI 工具",
+          "title": "Disney and Adobe are building generative AI tools together",
           "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership"
         }
       ]
     },
     {
-      "rank": 8,
-      "title": "馬斯克稱特斯拉將退還部分賽博卡車押金，並為終止生產的決定辯護",
+      "rank": 6,
+      "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
       "summary": [
-        "TechCrunch：馬斯克稱特斯拉將退還部分賽博卡車押金，並為終止生產的決定辯護",
-        "Yahoo Finance：馬斯克稱特斯拉在取消賽博卡車押金後將面臨困境"
+        "Wired：Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+        "TechCrunch：Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "TechCrunch",
-          "title": "馬斯克稱特斯拉將退還部分賽博卡車押金，並為終止生產的決定辯護",
-          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/"
+          "source": "Wired",
+          "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+          "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "馬斯克稱特斯拉在取消賽博卡車押金後將面臨困境",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNHdjbEdIODhiQTU5OG1xV0pQd0ZQSW44di1EWEZGcmduQXZSX3lxRkY4dFBJTmtHOWx6N0pHUE03dUlfN2ZFT0VmcERQTS1oZTNkYWV1bzh4VjN4V254OGFSTEV0akYzdjRTVEVHbFB2N1RxczgwWWItdkh4X0tOOWpNVEF0TGZlZ0o4VDU0d1Jsc0FKbXd0c3BKdlpia29MRTJNNms0bnk2anpJcU5TRFlveGdwNnVuQ0M0YTJha291RnFNb2xuV1pJbGE1cmc?oc=5"
+          "source": "TechCrunch",
+          "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "EU Plans Crackdown on Addictive Social Media and AI Bot Features",
+      "summary": [
+        "Bloomberg Tech：EU Plans Crackdown on Addictive Social Media and AI Bot Features",
+        "Investing.com：EU drafts curbs targeting addictive social media features and AI chatbots"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "EU Plans Crackdown on Addictive Social Media and AI Bot Features",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/eu-plans-crackdown-on-addictive-social-media-and-ai-bot-features"
+        },
+        {
+          "source": "Investing.com",
+          "title": "EU drafts curbs targeting addictive social media features and AI chatbots",
+          "url": "https://www.investing.com/news/stock-market-news/eu-drafts-curbs-targeting-addictive-social-media-features-and-ai-chatbots--report-5012845"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "summary": [
+        "BBC World：France accuses Iran of supermarket fridge hacking",
+        "Financial Times：France accuses Iran of cyber attacks on supermarket refrigerators"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "France accuses Iran of supermarket fridge hacking",
+          "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Financial Times",
+          "title": "France accuses Iran of cyber attacks on supermarket refrigerators",
+          "url": "https://www.ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "縮小人工智慧泡沫：為什麼技術重置正是市場所需要的",
+      "title": "Affair de Huang lleva a Nvidia a investigación por espionaje chino",
       "summary": [
-        "Investing.com：縮小人工智慧泡沫：為什麼技術重置正是市場所需要的",
-        "Bloomberg Tech：人工智慧主題完好無損，但市場週期已經改變：託馬斯"
+        "Bloomberg Markets：Affair de Huang lleva a Nvidia a investigación por espionaje chino",
+        "TechCrunch：Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "縮小人工智慧泡沫：為什麼技術重置正是市場所需要的",
-          "url": "https://www.investing.com/news/stock-market-news/deflating-the-ai-bubble-why-a-tech-reset-is-exactly-what-markets-need-5012379"
+          "source": "Bloomberg Markets",
+          "title": "Affair de Huang lleva a Nvidia a investigación por espionaje chino",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-09/affair-de-huang-lleva-a-nvidia-a-investigacion-por-espionaje-chino"
         },
         {
-          "source": "Bloomberg Tech",
-          "title": "人工智慧主題完好無損，但市場週期已經改變：託馬斯",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-09/ai-theme-intact-but-market-cycle-has-changed-thomas-video"
+          "source": "TechCrunch",
+          "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "歐盟計畫打擊令人上癮的社群媒體和人工智慧機器人功能",
+      "title": "Uber Debuts Parking Reservation Feature After Buying SpotHero",
       "summary": [
-        "Bloomberg Tech：歐盟計畫打擊令人上癮的社群媒體和人工智慧機器人功能",
-        "Investing.com：歐盟起草針對令人上癮的社群媒體功能和人工智慧聊天機器人的限制措施"
+        "Bloomberg Tech：Uber Debuts Parking Reservation Feature After Buying SpotHero",
+        "TechCrunch：Uber launches parking service following SpotHero acquisition, with an eye on robotaxis"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "歐盟計畫打擊令人上癮的社群媒體和人工智慧機器人功能",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-09/eu-plans-crackdown-on-addictive-social-media-and-ai-bot-features"
+          "title": "Uber Debuts Parking Reservation Feature After Buying SpotHero",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/uber-debuts-parking-reservation-feature-after-buying-spothero"
         },
         {
-          "source": "Investing.com",
-          "title": "歐盟起草針對令人上癮的社群媒體功能和人工智慧聊天機器人的限制措施",
-          "url": "https://www.investing.com/news/stock-market-news/eu-drafts-curbs-targeting-addictive-social-media-features-and-ai-chatbots--report-5012845"
+          "source": "TechCrunch",
+          "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+          "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/"
         }
       ]
     }
