@@ -1,26 +1,16 @@
 {
-  "updated_at": "2026-11-09 17:08",
+  "updated_at": "2026-11-09 18:30",
   "taiwan": [
     {
       "rank": 1,
-      "title": "黃仁勳坦承與中國女間諜有婚外情 輝達展開調查",
+      "title": "黃仁勳承認婚外情！輝達董事會立案獨立調查中國間諜滲透事件",
       "summary": [
-        "經濟日報：黃仁勳坦承與中國女間諜有婚外情 輝達展開調查",
-        "自由時報：震撼！黃仁勳坦承婚外情與女共諜有染 輝達董事會啟動調查",
-        "科技新報：黃仁勳承認婚外情！輝達董事會立案獨立調查中國間諜滲透事件"
+        "科技新報：黃仁勳承認婚外情！輝達董事會立案獨立調查中國間諜滲透事件",
+        "數位時代：黃仁勳坦承婚外情，物件疑涉中國間諜！輝達啟動獨立調查",
+        "工商時報：黃仁勳婚外情風暴傳物件是中國間諜輝達董事會啟動獨立調查- 國際"
       ],
-      "media_count": 5,
+      "media_count": 4,
       "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳坦承與中國女間諜有婚外情 輝達展開調查",
-          "url": "https://money.udn.com/money/story/123398/9865861"
-        },
-        {
-          "source": "自由時報",
-          "title": "震撼！黃仁勳坦承婚外情與女共諜有染 輝達董事會啟動調查",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5634032"
-        },
         {
           "source": "科技新報",
           "title": "黃仁勳承認婚外情！輝達董事會立案獨立調查中國間諜滲透事件",
@@ -35,43 +25,16 @@
           "source": "工商時報",
           "title": "黃仁勳婚外情風暴傳物件是中國間諜輝達董事會啟動獨立調查- 國際",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uRC1hZU1LR09YV1ZKanJaVkRYRTJKTkFQVHZ5VUM5RUtCc1ByOGdXZkVMT3M3Tno3bjZfak00bldTRGptWlV3NnM1WjZWUm1mUHA3VjlBcHBjdkhzWTdj?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳承認婚外情 輝達董事會調查他是否淪為外國間諜活動目標",
+          "url": "https://money.udn.com/money/story/5599/9865934"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
-      "summary": [
-        "自由時報：紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
-        "經濟日報：紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
-        "ETtoday：紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5634030"
-        },
-        {
-          "source": "經濟日報",
-          "title": "紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
-          "url": "https://money.udn.com/money/story/5599/9865869"
-        },
-        {
-          "source": "ETtoday",
-          "title": "紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
-          "url": "https://www.ettoday.net/news/20261109/3268669.htm"
-        },
-        {
-          "source": "科技新報",
-          "title": "紐時：川普訪北京前，盧比歐示警黃仁勳與中國間諜關係密切",
-          "url": "https://technews.tw/2026/11/09/nyt-trump-beijing-visit-rubio-warns-jensen-huang-chinese-spies-ties/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "臺灣成偷情聖地！　黃仁勳「出軌中國女間諜」時間軸一次看",
       "summary": [
         "ETtoday：臺灣成偷情聖地！　黃仁勳「出軌中國女間諜」時間軸一次看",
@@ -103,7 +66,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "埃及火車追撞至少7死112傷　數節車廂嚴重出軌",
       "summary": [
         "ETtoday：埃及火車追撞至少7死112傷　數節車廂嚴重出軌",
@@ -130,7 +93,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "今晨國際頭條一次看／黃仁勳認婚外情疑涉中國情蒐 輝達董事會啟調查",
       "summary": [
         "經濟日報：今晨國際頭條一次看／黃仁勳認婚外情疑涉中國情蒐 輝達董事會啟調查",
@@ -157,7 +120,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "康建生技4死案最高法院生死辯開庭 死者家屬盼速審速決、處以極刑",
       "summary": [
         "自由時報：康建生技4死案最高法院生死辯開庭 死者家屬盼速審速決、處以極刑",
@@ -184,28 +147,34 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "平時相見大不易　排燈節成印度人與親友團圓重要時刻",
+      "rank": 6,
+      "title": "Gemini全新購物功能正式登臺！輸入需求就能比價、看評價　商品推薦一次搞定",
       "summary": [
-        "自由時報：平時相見大不易　排燈節成印度人與親友團圓重要時刻",
-        "經濟日報：平時相見大不易　排燈節成印度人與親友團圓重要時刻"
+        "ETtoday：Gemini全新購物功能正式登臺！輸入需求就能比價、看評價　商品推薦一次搞定",
+        "癮科技Cool3c：Google Gemini購物功能中文版在臺推出，產品比較、評價蒐集、比價一站搞定",
+        "自由時報：Google 宣佈 Gemini 中文版購物功能上線！一秒完成商品比價"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "自由時報",
-          "title": "平時相見大不易　排燈節成印度人與親友團圓重要時刻",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5634029"
+          "source": "ETtoday",
+          "title": "Gemini全新購物功能正式登臺！輸入需求就能比價、看評價　商品推薦一次搞定",
+          "url": "https://ai.ettoday.net/news/3268780"
         },
         {
-          "source": "經濟日報",
-          "title": "平時相見大不易　排燈節成印度人與親友團圓重要時刻",
-          "url": "https://money.udn.com/money/story/5599/9865859"
+          "source": "癮科技Cool3c",
+          "title": "Google Gemini購物功能中文版在臺推出，產品比較、評價蒐集、比價一站搞定",
+          "url": "https://www.cool3c.com/article/253906"
+        },
+        {
+          "source": "自由時報",
+          "title": "Google 宣佈 Gemini 中文版購物功能上線！一秒完成商品比價",
+          "url": "https://3c.ltn.com.tw/news/68216"
         }
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "黃仁勳爆婚外情   邱彰好傷心：他怎麼可以這麼不小心？",
       "summary": [
         "自由時報：黃仁勳爆婚外情   邱彰好傷心：他怎麼可以這麼不小心？",
@@ -226,7 +195,49 @@
       ]
     },
     {
+      "rank": 8,
+      "title": "「入秋最強」今越晚越冷探15℃　全臺有感降溫",
+      "summary": [
+        "ETtoday：「入秋最強」今越晚越冷探15℃　全臺有感降溫",
+        "數位時代：入秋最強冷空氣來了！馬祖低溫14度、臺北16度，這波降溫何時結束？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "「入秋最強」今越晚越冷探15℃　全臺有感降溫",
+          "url": "https://www.ettoday.net/news/20261109/3268670.htm"
+        },
+        {
+          "source": "數位時代",
+          "title": "入秋最強冷空氣來了！馬祖低溫14度、臺北16度，這波降溫何時結束？",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6dVJSNUJfYno5YjJ2VzEwSDF0OWZuZnJia2d1N01GZUg5X2dwbjJiZVlkZVQ0RGlHbjRGNkNxOGpDQXFYc19rLVE2UWF6UFNHMnozRVRhWXVGb0VucW56ejUwaWRuOWZQLXlNNnZ4emtYVHRhcDZFSQ?oc=5"
+        }
+      ]
+    },
+    {
       "rank": 9,
+      "title": "紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
+      "summary": [
+        "ETtoday：紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
+        "科技新報：紐時：川普訪北京前，盧比歐示警黃仁勳與中國間諜關係密切"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
+          "url": "https://www.ettoday.net/news/20261109/3268669.htm"
+        },
+        {
+          "source": "科技新報",
+          "title": "紐時：川普訪北京前，盧比歐示警黃仁勳與中國間諜關係密切",
+          "url": "https://technews.tw/2026/11/09/nyt-trump-beijing-visit-rubio-warns-jensen-huang-chinese-spies-ties/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "黃仁勳認了共諜婚外情！向妻子員工道歉　輝達董事會啟動獨立調查",
       "summary": [
         "ETtoday：黃仁勳認了共諜婚外情！向妻子員工道歉　輝達董事會啟動獨立調查",
@@ -245,101 +256,43 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kTHFMUk5Ec2NUdVlQZ193WUl1N3pzdmlEczdCQ0FGWEJFNWVuQm9Vb0VuM3luc3lvTG5yYlV6bEN6RzMyZWJxRHQ4M24zT05OMndhUmVRaW84NnE0dFNUcGFSak9YbFZ4SklSemNB?oc=5"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "川普證實美軍特遣部隊就位　切斷陸路擴大封鎖伊朗",
-      "summary": [
-        "經濟日報：川普證實美軍特遣部隊就位　切斷陸路擴大封鎖伊朗",
-        "ETtoday：封鎖伊朗再升級！　川普出動「鐵門特遣部隊」海陸全面圍堵"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普證實美軍特遣部隊就位　切斷陸路擴大封鎖伊朗",
-          "url": "https://money.udn.com/money/story/5599/9866060"
-        },
-        {
-          "source": "ETtoday",
-          "title": "封鎖伊朗再升級！　川普出動「鐵門特遣部隊」海陸全面圍堵",
-          "url": "https://www.ettoday.net/news/20261109/3268850.htm"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "英偉達調查執行長黃仁勳與涉嫌中國間諜的關係",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
       "summary": [
-        "CNBC：英偉達調查執行長黃仁勳與涉嫌中國間諜的關係",
-        "TechCrunch：英偉達將調查執行長黃仁勳與可能的中國間諜的關係",
-        "The Verge：英偉達正在調查黃仁勳與中國間諜的關係"
+        "Yahoo Finance：Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+        "Nikkei Asia：Nvidia probes CEO Jensen Huang's affair amid China security concerns",
+        "Bloomberg Markets：Nvidia Probes Huang Affair Amid Spying Controversy"
       ],
-      "media_count": 5,
+      "media_count": 4,
       "links": [
         {
-          "source": "CNBC",
-          "title": "英偉達調查執行長黃仁勳與涉嫌中國間諜的關係",
-          "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+          "source": "Yahoo Finance",
+          "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWkhVdEx4bnBnRUEtWjVCaEVodEppXzRzM1lxWlk3YVlfNVQzcHBPNVU4ajBsUzRKemQ5amRhd0liSF9Benl5UDhRV1NsOU93bGh3N3pDd2pldFREX200V285NV9PSWdZNVJJOElFbXVOU3ZlRmgxRVhaQm1sazBiOTJ3YlJnTUdQLWdvekc3Z3FPdVA2eTQ2TDNuZGpmekRv?oc=5"
         },
         {
-          "source": "TechCrunch",
-          "title": "英偉達將調查執行長黃仁勳與可能的中國間諜的關係",
-          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+          "source": "Nikkei Asia",
+          "title": "Nvidia probes CEO Jensen Huang's affair amid China security concerns",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOHFURHRlNjdkRXQwUUVGX0JBcGNPamJPcjg5V3FqbEs2SmRSb1h5ak9Nc0NzNU5waDNmYjNUVF9qd2VwRDJDeWhFQjJPazFOTFhXajF2WWN4b21uMmJzZnlUSmJXcXdEREhqSU1pcktwZkY5eC1VYWhVc2tLZnJSZWtPNVBhQmhSS05rUzd6RGVjMGs2NmdoaDBnOTdrSVpjNmFjel9DWDNYZGxKTklRQnlYWDFQaV9FVXhUSjFn?oc=5"
         },
         {
-          "source": "The Verge",
-          "title": "英偉達正在調查黃仁勳與中國間諜的關係",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+          "source": "Bloomberg Markets",
+          "title": "Nvidia Probes Huang Affair Amid Spying Controversy",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-08/nvidia-probes-huang-affair-amid-spying-controversy-video"
         },
         {
-          "source": "Washington Post",
-          "title": "英偉達董事會將調查執行長與涉嫌中國間諜的關係",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVTZRZkl3UkhITGpaSXB3cmV4R282Zm1vMi1JWWZQMS1yTjJwMzFyZ09UcHQzRkc0THA2QU0yVW0xTGtENzJ4VmhnUDBJTjJwczZXeW4xYjhyWVFuSkxud0dtTUE5el84Vmt6MHVCMW5zdzAxaXBWaWt0V3NGenRvRThONlo5UVJyRmdkWTZwX1F2MUF1cGpzZGZPc1hDYnZ6VXlLcndINWVaMjhwRVQwTGgxSDNKNjBhREVCanExZ0Y0VVo4dnV2Ri1scnU?oc=5"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "英偉達董事會將調查執行長黃仁勳與一名涉嫌間諜的關係。以下是需要了解的內容。",
-          "url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories"
+          "source": "Bloomberg Tech",
+          "title": "Huang's Affair Engulfs Nvidia in Chinese Spying Probe",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-09/the-china-show-11-09-2026-video"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "英偉達黃在被指控與中國間諜有關係後承認有外遇",
-      "summary": [
-        "Financial Times：英偉達黃在被指控與中國間諜有關係後承認有外遇",
-        "Yahoo Finance：英偉達黃仁勳在被指控與中國間諜戀情後承認有外遇：報告",
-        "Tom's Hardware：英偉達執行長黃仁勳承認與疑似中國間諜有染"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "英偉達黃在被指控與中國間諜有關係後承認有外遇",
-          "url": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "英偉達黃仁勳在被指控與中國間諜戀情後承認有外遇：報告",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYU5fTUZfS2drVGlTTk43X0NHYU9EMWZJQ0pmN1IyMDlWRFJLUjdpamR6QmlYN2pLR2FYaGw2RHJPbHl6VTdXOTRDaTlMSEJEWUZLYXlSNkw0VWlRSmlTNGl6WjFmVU5rRkRVeng2alFRSjdRR2lVTEpvSWM3THFmc1dQNk5SVG9pcm93WW1IQjFLV0xSOTBZd0RoQnU4SWJJRWhMcHZWMFpWcHRvSU1TQWVsTXR6NzdBcFFRRURMdUlCZ0hnSnNzZkV6eGZ6clp6dGVhcEZUMTkwRHpwSGhibg?oc=5"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "英偉達執行長黃仁勳承認與疑似中國間諜有染",
-          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate"
-        },
-        {
-          "source": "CNBC",
-          "title": "黃仁勳與被指控的中國間諜的戀情對英偉達股票意味著什麼",
-          "url": "https://www.cnbc.com/investingclub/2026/11/08/jim-cramer-what-jensen-huangs-affair-with-an-accused-chinese-spy-means-for-nvidia-stock.html"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "黃仁勳婚外情：英偉達調查其與疑似中國間諜的關係",
       "summary": [
         "BBC中文：黃仁勳婚外情：英偉達調查其與疑似中國間諜的關係",
@@ -366,149 +319,134 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "閱讀 Nvidia 董事會兼執行長黃仁勳的宣告",
+      "rank": 3,
+      "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
       "summary": [
-        "Bloomberg Tech：閱讀 Nvidia 董事會兼執行長黃仁勳的宣告",
-        "The Verge：以下是黃仁勳給 Nvidia 的備忘錄全文"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "閱讀 Nvidia 董事會兼執行長黃仁勳的宣告",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-08/read-the-memos-from-nvidia-s-board-and-ceo-jensen-huang"
-        },
-        {
-          "source": "The Verge",
-          "title": "以下是黃仁勳給 Nvidia 的備忘錄全文",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "英偉達在報告執行長黃成為外國情報目標後啟動調查",
-      "summary": [
-        "Investing.com：英偉達在報告執行長黃成為外國情報目標後啟動調查",
-        "The Guardian：英偉達執行長黃仁勳成為外國情報目標後展開調查"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "英偉達在報告執行長黃成為外國情報目標後啟動調查",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-launches-probe-after-report-ceo-huang-was-target-of-foreign-intelligence-5010307"
-        },
-        {
-          "source": "The Guardian",
-          "title": "英偉達執行長黃仁勳成為外國情報目標後展開調查",
-          "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "塞內加爾移民船沉沒  34人死亡",
-      "summary": [
-        "法廣RFI：塞內加爾移民船沉沒  34人死亡",
-        "BBC World：前往歐洲的移民船在塞內加爾海域沉沒 至少34人死亡"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "塞內加爾移民船沉沒  34人死亡",
-          "url": "https://www.rfi.fr/tw/%E9%9D%9E%E6%B4%B2/20261108-%E5%A1%9E%E5%85%A7%E5%8A%A0%E7%88%BE%E7%A7%BB%E6%B0%91%E8%88%B9%E6%B2%89%E6%B2%92-34%E4%BA%BA%E6%AD%BB%E4%BA%A1"
-        },
-        {
-          "source": "BBC World",
-          "title": "前往歐洲的移民船在塞內加爾海域沉沒 至少34人死亡",
-          "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "川普稱他要求UFC老闆擔任發言人“只是開玩笑”",
-      "summary": [
-        "Financial Times：川普稱他要求UFC老闆擔任發言人“只是開玩笑”",
-        "BBC World：川普稱他對達納懷特新聞秘書的提議是“開玩笑”"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "川普稱他要求UFC老闆擔任發言人“只是開玩笑”",
-          "url": "https://www.ft.com/content/b3acb746-76c0-46de-879a-990602b27a6a?syn-25a6b1a6=1"
-        },
-        {
-          "source": "BBC World",
-          "title": "川普稱他對達納懷特新聞秘書的提議是“開玩笑”",
-          "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "川普稱英偉達的黃仁勳“很光榮”，並表示他沒有與他討論過指控",
-      "summary": [
-        "Yahoo Finance：川普稱英偉達的黃仁勳“很光榮”，並表示他沒有與他討論過指控",
-        "Investing.com：川普稱英偉達的黃仁勳“很光榮”，並表示他沒有與他討論過指控"
+        "Yahoo Finance：Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
+        "Investing.com：Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "川普稱英偉達的黃仁勳“很光榮”，並表示他沒有與他討論過指控",
+          "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVdpWlRldmZmUS1Da0gxODh3UmMydEExd0ExS3dOQVVmYnlGaXdQSnVoSDJyV1Y5am0tbENoRjI2ZThYTks4V2ZGSlJNOTdZUTI2M19va1Z0djh2X0c5eWU5cFIyLWtQME9CUmJTYkdnYU9LY3FqZEFJYWFqVHVISHIyQ3B4aVlYb3JrRg?oc=5"
         },
         {
           "source": "Investing.com",
-          "title": "川普稱英偉達的黃仁勳“很光榮”，並表示他沒有與他討論過指控",
+          "title": "Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him",
           "url": "https://www.investing.com/news/stock-market-news/trump-calls-nvidias-huang-honorable-says-he-has-not-discussed-allegations-with-him-5010358"
         }
       ]
     },
     {
-      "rank": 9,
-      "title": "教宗良在訪問阿根廷期間對米萊的緊縮措施進行了嚴厲譴責",
+      "rank": 4,
+      "title": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
       "summary": [
-        "The Guardian：教宗良在訪問阿根廷期間對米萊的緊縮措施進行了嚴厲譴責",
-        "BBC World：教宗對米萊的緊縮措施進行了含蓄的譴責"
+        "Bloomberg Markets：China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
+        "Yahoo Finance：China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "The Guardian",
-          "title": "教宗良在訪問阿根廷期間對米萊的緊縮措施進行了嚴厲譴責",
-          "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
+          "source": "Bloomberg Markets",
+          "title": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate"
         },
         {
-          "source": "BBC World",
-          "title": "教宗對米萊的緊縮措施進行了含蓄的譴責",
-          "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss"
+          "source": "Yahoo Finance",
+          "title": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZTE5VFprcnF6YTMxUkFqZzlfUE41Uk9iUmx1Y3NTdkIxLWJiSUVLaDlOVGlDR2hYT0pFbEVPaVBtR2p4SF9qYXZ6SG91YnBDcHJJbjRiWmw5QzR5ajJkQS1pdUo1WVJGV2lMZ0xvc2JFdmVJeVBJM2EtRU9mUnd5WnNMMGpZQU11M2xsdlhvQktlLUQ2?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "美、中、俄三國首腦在深圳會晤？習近平的雄心與顧慮- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：美、中、俄三國首腦在深圳會晤？習近平的雄心與顧慮- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "美、中、俄三國首腦在深圳會晤？習近平的雄心與顧慮- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pdDRuT1hTTTEtRzl1RUVkRDhrVWZQS2Nfd1ZPdS1SS21XWXFqU2prSjFhbFB0c1pKb1NJSHROSi1QVGpzRm5feWM3bkNWaW82Zm04aEZBU0ZHendiTmpKd0xQakVod1pnNURVNXY0SDUzZjZwdFB4Ym5wQlYzdVE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe",
+      "summary": [
+        "Bloomberg Tech：Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-ceo-s-affair-engulfs-ai-giant-in-spying-probe-video"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "英偉達先進晶片流向中國「空殼」公司",
+      "summary": [
+        "紐約時報中文：英偉達先進晶片流向中國「空殼」公司"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "英偉達先進晶片流向中國「空殼」公司",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbnZWX0I4Skt0cFRRUTNuZG5tTWdScjZpeGxzVWVZR3FlcGdQV1Y4ZXl5VERqMFMzMEV1SGNqNzlRWGlxU1kxeFlwSlowRUFYb2dfWTFrTWREVHdNRGdXV2ZVNlhoeGZHbEJzdmlrcVhwYlhDVE50cEJBQzVHc2dLOEp3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "共和黨在美國中期選舉中慘敗的五大原因",
+      "summary": [
+        "BBC中文：共和黨在美國中期選舉中慘敗的五大原因"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "共和黨在美國中期選舉中慘敗的五大原因",
+          "url": "https://www.bbc.com/zhongwen/articles/cxyvrz6qrm2lo/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "JR內房線が全線で運転再開 通勤・通學客からは安どの聲",
+      "summary": [
+        "NHK新聞：JR內房線が全線で運転再開 通勤・通學客からは安どの聲"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "JR內房線が全線で運転再開 通勤・通學客からは安どの聲",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261109de72695"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "中國10月通膨小幅走低",
+      "title": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap",
       "summary": [
-        "Financial Times：中國10月通膨小幅走低",
-        "FT中文網：中國10月CPI小幅降低"
+        "Bloomberg Markets：Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap"
       ],
-      "media_count": 2,
+      "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "中國10月通膨小幅走低",
-          "url": "https://www.ft.com/content/085c4610-143a-47ad-b546-0587695294b5?syn-25a6b1a6=1"
-        },
-        {
-          "source": "FT中文網",
-          "title": "中國10月CPI小幅降低",
-          "url": "https://www.ftchinese.com/story/001111313"
+          "source": "Bloomberg Markets",
+          "title": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates"
         }
       ]
     }
