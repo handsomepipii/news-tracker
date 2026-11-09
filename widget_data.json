@@ -1,155 +1,8 @@
 {
-  "updated_at": "2026-11-10 00:04",
+  "updated_at": "2026-11-10 01:08",
   "taiwan": [
     {
       "rank": 1,
-      "title": "搖很大！ 雲林古坑規模4.2地震 嘉義震度最大達4級",
-      "summary": [
-        "自由時報：搖很大！ 雲林古坑規模4.2地震 嘉義震度最大達4級",
-        "ETtoday：快訊／12:21雲林古坑規模4.2「極淺層地震」　最大震度4級"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "搖很大！ 雲林古坑規模4.2地震 嘉義震度最大達4級",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5634362"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／12:21雲林古坑規模4.2「極淺層地震」　最大震度4級",
-          "url": "https://www.ettoday.net/news/20261109/3268887.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "康健生技4死命案最高法院今「生死辯」　家屬盼速審速結判極刑",
-      "summary": [
-        "ETtoday：康健生技4死命案最高法院今「生死辯」　家屬盼速審速結判極刑",
-        "關鍵評論網：康建生技4死槍擊案更審仍判3死刑，最高法院今開庭家屬盼「速審速決」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "康健生技4死命案最高法院今「生死辯」　家屬盼速審速結判極刑",
-          "url": "https://www.ettoday.net/news/20261109/3268837.htm"
-        },
-        {
-          "source": "關鍵評論網",
-          "title": "康建生技4死槍擊案更審仍判3死刑，最高法院今開庭家屬盼「速審速決」",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qdV93VGxqQWtpdlRQNExUeEcyX1pFcVVod1lncmZ6aWtQSXRYcnJSb3FTY0dORnkxQV9CM3BoMF9ZdEt4VThtbWZrc2I5NV9xdUhvZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "俄版星鏈「黎明」已投入俄烏戰場，俄軍無人機恐更難遭電子戰幹擾",
-      "summary": [
-        "科技新報：俄版星鏈「黎明」已投入俄烏戰場，俄軍無人機恐更難遭電子戰幹擾",
-        "經濟日報：俄版星鏈「曙光」趕建　強化俄軍無人機縱深打擊力"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "俄版星鏈「黎明」已投入俄烏戰場，俄軍無人機恐更難遭電子戰幹擾",
-          "url": "https://technews.tw/2026/11/09/russia-races-to-build-rival-to-elon-musks-starlink/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "俄版星鏈「曙光」趕建　強化俄軍無人機縱深打擊力",
-          "url": "https://money.udn.com/money/story/5599/9866830"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "黃仁勳婚外情物件是中國間諜？Megaspeed是什麼公司、黃樂是誰？7大QA看懂輝達間諜疑雲",
-      "summary": [
-        "數位時代：黃仁勳婚外情物件是中國間諜？Megaspeed是什麼公司、黃樂是誰？7大QA看懂輝達間諜疑雲",
-        "風傳媒：黃仁勳陷美人計！女主角黃樂是誰？中國間諜疑雲引爆輝達國安危機 | 國際中心 | 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "數位時代",
-          "title": "黃仁勳婚外情物件是中國間諜？Megaspeed是什麼公司、黃樂是誰？7大QA看懂輝達間諜疑雲",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTF6S3UwenhuUl9STjV0N1RhSGoxWkQ1aE9qdm52SURhTGcwN1BOdTNhaEtsYlBkV3JWMGJJNTZ3Wi1QbE1KM2Fwdld4alZyeThJOFZhM21kQk45eUJpdFBiMlNFcmhJODA0clh6YUxHS05qTTkxdldERHR3UVJjTXViSTlkR1U?oc=5"
-        },
-        {
-          "source": "風傳媒",
-          "title": "黃仁勳陷美人計！女主角黃樂是誰？中國間諜疑雲引爆輝達國安危機 | 國際中心 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SOHc2S3hUQUtxWW8tTlI3WE1tRjNPTFREMWloZWJvR2xvWFRtZjgwcWxzMERsczlTUElOeXVTMUlqb0FFZ0ZDVXJZSzVMdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "半導體封測廠精材遭不明IP入侵，客戶與員工聯絡資訊外洩",
-      "summary": [
-        "iThome：半導體封測廠精材遭不明IP入侵，客戶與員工聯絡資訊外洩",
-        "公開資訊觀測站重訊：半導體封測廠精材遭不明IP入侵，客戶與員工聯絡資訊外洩"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "半導體封測廠精材遭不明IP入侵，客戶與員工聯絡資訊外洩",
-          "url": "https://www.ithome.com.tw/news/180318"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "半導體封測廠精材遭不明IP入侵，客戶與員工聯絡資訊外洩",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45RWE5eXVibE13ZjFXVnBTTVhSaXJnZzl4YWktMG9hZnVnbkJ1dS1tRENUaDkzTXRZZEpheTlLcUtwaE4zQUdlTFRhSWtTdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "AI投資帶動韓國經濟成長　家庭尚未感受景氣改善",
-      "summary": [
-        "經濟日報：AI投資帶動韓國經濟成長　家庭尚未感受景氣改善",
-        "科技新報：AI 投資帶動韓國經濟成長，家庭尚未感受景氣改善"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "AI投資帶動韓國經濟成長　家庭尚未感受景氣改善",
-          "url": "https://money.udn.com/money/story/5599/9866551"
-        },
-        {
-          "source": "科技新報",
-          "title": "AI 投資帶動韓國經濟成長，家庭尚未感受景氣改善",
-          "url": "https://technews.tw/2026/11/09/south-korean-households-yet-to-feel-economic-improvement/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "黃仁勳捲入爭議　韓國：輝達GPU供貨不受影響",
-      "summary": [
-        "經濟日報：黃仁勳捲入爭議　韓國：輝達GPU供貨不受影響",
-        "科技新報：黃仁勳捲入爭議，韓國：輝達 GPU 供貨不受影響"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳捲入爭議　韓國：輝達GPU供貨不受影響",
-          "url": "https://money.udn.com/money/story/5599/9866480"
-        },
-        {
-          "source": "科技新報",
-          "title": "黃仁勳捲入爭議，韓國：輝達 GPU 供貨不受影響",
-          "url": "https://technews.tw/2026/11/09/jensen-huang-controversy-south-korea-nvidia-gpu-supply-unaffected/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "黃仁勳共諜小三曬多張「臺北行親密合照」：收穫滿滿快樂多多❤️",
       "summary": [
         "ETtoday：黃仁勳共諜小三曬多張「臺北行親密合照」：收穫滿滿快樂多多❤️",
@@ -170,7 +23,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 2,
       "title": "倚天酷碁與宏碁風尚線上商店委外商Cyberbiz發生資安事件",
       "summary": [
         "iThome：倚天酷碁與宏碁風尚線上商店委外商Cyberbiz發生資安事件",
@@ -191,7 +44,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 3,
       "title": "黃仁勳婚外情牽出國安疑慮　美議員籲暫停對中供晶片",
       "summary": [
         "經濟日報：黃仁勳婚外情牽出國安疑慮　美議員籲暫停對中供晶片",
@@ -208,6 +61,153 @@
           "source": "科技新報",
           "title": "黃仁勳婚外情牽出國安疑慮，美議員籲暫停對中供晶片",
           "url": "https://technews.tw/2026/11/09/jensen-huang-affair-national-security-concerns-us-lawmakers-halt-chip-exports-china/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "美中審批卡關　輝達推動H200晶片銷中相關時間軸",
+      "summary": [
+        "經濟日報：美中審批卡關　輝達推動H200晶片銷中相關時間軸",
+        "科技新報：美中審批卡關，輝達推動 H200 晶片銷中相關時間軸"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美中審批卡關　輝達推動H200晶片銷中相關時間軸",
+          "url": "https://money.udn.com/money/story/5599/9866705"
+        },
+        {
+          "source": "科技新報",
+          "title": "美中審批卡關，輝達推動 H200 晶片銷中相關時間軸",
+          "url": "https://technews.tw/2026/11/09/nvidia-h200-chip-sales-china-us-china-approval-delays-timeline/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "黃仁勳與疑似女共諜婚外情 外媒情資與時間軸一次看",
+      "summary": [
+        "公視新聞：黃仁勳與疑似女共諜婚外情 外媒情資與時間軸一次看",
+        "自由時報：黃仁勳與疑似女共諜偷情 時間表曝光"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公視新聞",
+          "title": "黃仁勳與疑似女共諜婚外情 外媒情資與時間軸一次看",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3eFJLUlN5QWlfbXFXWHJUU2RTQ0NONEduX2F0YXJfZElpYjIzdlRxYXM1Yy04SjlvdVFEMzZlMkRRQXl6RXpabm50cERhcms?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "黃仁勳與疑似女共諜偷情 時間表曝光",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5634598"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "黃仁勳陷美人計！女主角黃樂是誰？中國間諜疑雲引爆輝達國安危機 | 國際中心 | 新聞",
+      "summary": [
+        "風傳媒：黃仁勳陷美人計！女主角黃樂是誰？中國間諜疑雲引爆輝達國安危機 | 國際中心 | 新聞",
+        "公視新聞：黃仁勳婚外情女子遭指共諜 中國外交部駁斥稱捕風捉影｜20261109 8點新世界"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "黃仁勳陷美人計！女主角黃樂是誰？中國間諜疑雲引爆輝達國安危機 | 國際中心 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SOHc2S3hUQUtxWW8tTlI3WE1tRjNPTFREMWloZWJvR2xvWFRtZjgwcWxzMERsczlTUElOeXVTMUlqb0FFZ0ZDVXJZSzVMdw?oc=5"
+        },
+        {
+          "source": "公視新聞",
+          "title": "黃仁勳婚外情女子遭指共諜 中國外交部駁斥稱捕風捉影｜20261109 8點新世界",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sMWJEdXNJVXZJOUUzMUFuTEgzbHo2M2ZISGJBakRDRnR6eEZ5MDJGSmxSRVlwNkl2RUhqVW9MRlI4YzcyLWJVekpfNA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "天仁會員與線上商城平臺訂單資料恐受91APP資安事件波及",
+      "summary": [
+        "iThome：天仁會員與線上商城平臺訂單資料恐受91APP資安事件波及",
+        "公開資訊觀測站重訊：天仁會員與線上商城平臺訂單資料恐受91APP資安事件波及"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "天仁會員與線上商城平臺訂單資料恐受91APP資安事件波及",
+          "url": "https://www.ithome.com.tw/news/180330"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "天仁會員與線上商城平臺訂單資料恐受91APP資安事件波及",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBybWtyQnlycl8zSE5mX0tYUzNIS0d4ajQzcjNEUzEzSDNxaVJ1Mkt5NHRUQ2wzby1xWUQya2syY2JfMXdjSUFaR04zSFoyUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "臺鹽線上商城委外廠商資料庫遭未授權存取",
+      "summary": [
+        "iThome：臺鹽線上商城委外廠商資料庫遭未授權存取",
+        "公開資訊觀測站重訊：臺鹽線上商城委外廠商資料庫遭未授權存取"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "臺鹽線上商城委外廠商資料庫遭未授權存取",
+          "url": "https://www.ithome.com.tw/news/180328"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "臺鹽線上商城委外廠商資料庫遭未授權存取",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00NC1wRUZPdHJiQ2RBQzBxOGtJVXlYcFZPbUl1VzRDT3pEUy16ZDI1MG50WG5QellKNmJsd0R1ekhkSGhYVVN1OEdzUDZiUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "黃仁勳涉遭外國情報機構鎖定公司啟動調查，輝達盤後股價挫跌",
+      "summary": [
+        "科技新報：黃仁勳涉遭外國情報機構鎖定公司啟動調查，輝達盤後股價挫跌",
+        "經濟日報：黃仁勳涉遭外國情報機構鎖定公司啟動調查　輝達盤後股價挫跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "黃仁勳涉遭外國情報機構鎖定公司啟動調查，輝達盤後股價挫跌",
+          "url": "https://finance.technews.tw/2026/11/09/jensen-huang-nvidia-investigation-foreign-intelligence-targeting-stock-drops/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳涉遭外國情報機構鎖定公司啟動調查　輝達盤後股價挫跌",
+          "url": "https://money.udn.com/money/story/123398/9867083"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "波蘭6死15傷掃射案 槍手傷重不治",
+      "summary": [
+        "經濟日報：波蘭6死15傷掃射案 槍手傷重不治",
+        "公視新聞：波蘭槍手隨機掃射釀6死15傷 犯案前殺雙親、胞妹｜#公視新聞網 #Shorts ｜ 公視新聞 PNN"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "波蘭6死15傷掃射案 槍手傷重不治",
+          "url": "https://money.udn.com/money/story/5599/9867160"
+        },
+        {
+          "source": "公視新聞",
+          "title": "波蘭槍手隨機掃射釀6死15傷 犯案前殺雙親、胞妹｜#公視新聞網 #Shorts ｜ 公視新聞 PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuY2JaN0h0UXh5ejZHTlluUjNCYmZIa0N4MlFJRFI2RVg2Ymd0Tm9nWkVqcV9PaXJjaERiMVo0SE9JWEFIa1UtTERmTQ?oc=5"
         }
       ]
     }
@@ -245,7 +245,7 @@
       "title": "Huang's Affair Engulfs Nvidia in Chinese Spying Probe",
       "summary": [
         "Bloomberg Tech：Huang's Affair Engulfs Nvidia in Chinese Spying Probe",
-        "Bloomberg Markets：Nvidia CEO Jensen Huang Admits Affair With Suspected Chinese Spy"
+        "Bloomberg Markets：Affair de Huang lleva a Nvidia a investigación por espionaje chino"
       ],
       "media_count": 2,
       "links": [
@@ -256,34 +256,13 @@
         },
         {
           "source": "Bloomberg Markets",
-          "title": "Nvidia CEO Jensen Huang Admits Affair With Suspected Chinese Spy",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-09/the-pulse-11-9-2026-video"
+          "title": "Affair de Huang lleva a Nvidia a investigación por espionaje chino",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-09/affair-de-huang-lleva-a-nvidia-a-investigacion-por-espionaje-chino"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
-      "summary": [
-        "Bloomberg Markets：China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
-        "Yahoo Finance：China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZTE5VFprcnF6YTMxUkFqZzlfUE41Uk9iUmx1Y3NTdkIxLWJiSUVLaDlOVGlDR2hYT0pFbEVPaVBtR2p4SF9qYXZ6SG91YnBDcHJJbjRiWmw5QzR5ajJkQS1pdUo1WVJGV2lMZ0xvc2JFdmVJeVBJM2EtRU9mUnd5WnNMMGpZQU11M2xsdlhvQktlLUQ2?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "黃仁勳坦承婚外情 與中國間諜關係面臨質疑",
       "summary": [
         "德國之聲：黃仁勳坦承婚外情 與中國間諜關係面臨質疑",
@@ -304,7 +283,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Jensen Huang’s Affair Sparks Nvidia Crisis",
       "summary": [
         "Bloomberg Tech：Jensen Huang’s Affair Sparks Nvidia Crisis",
@@ -325,7 +304,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
       "summary": [
         "CNBC：Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
@@ -346,7 +325,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "European shares rise on banking boost",
       "summary": [
         "Investing.com：European shares rise on banking boost",
@@ -363,6 +342,27 @@
           "source": "Bloomberg Markets",
           "title": "European Stocks Rise as Banking and Technology Sectors Advance",
           "url": "https://www.bloomberg.com/news/articles/2026-11-09/european-stocks-rise-as-banks-technology-shares-advance"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Nvidia CEO Jensen Huang Admits Affair With Suspected Chinese Spy",
+      "summary": [
+        "Bloomberg Markets：Nvidia CEO Jensen Huang Admits Affair With Suspected Chinese Spy",
+        "Tom's Hardware：Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Nvidia CEO Jensen Huang Admits Affair With Suspected Chinese Spy",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-09/the-pulse-11-9-2026-video"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence"
         }
       ]
     },
