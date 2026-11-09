@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 09:52",
+  "updated_at": "2026-11-09 10:54",
   "taiwan": [
     {
       "rank": 1,
@@ -109,6 +109,33 @@
     },
     {
       "rank": 4,
+      "title": "角逐新北市長! 李四川.蘇巧慧拚場較勁｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+      "summary": [
+        "TVBS新聞：角逐新北市長! 李四川.蘇巧慧拚場較勁｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "自由時報：何欣純、蔡其昌走訪逢甲夜市 臺中「欣潮」儼然成形",
+        "ETtoday：兄弟休季海外訓練方向曝！彭政閔鎖日美機構　澳職、沖繩派遣喊卡"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "角逐新北市長! 李四川.蘇巧慧拚場較勁｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wUHBvU2V2R0xSR0RYVnFkMWhhWEFfaGhxWFVBRVduWUxra1RmTlpYQkd5dUlKcEl4MFZyR3c2TGJEYUpPTXBxSzh1SGx2aGtGaUw2X1ln?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "何欣純、蔡其昌走訪逢甲夜市 臺中「欣潮」儼然成形",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633989"
+        },
+        {
+          "source": "ETtoday",
+          "title": "兄弟休季海外訓練方向曝！彭政閔鎖日美機構　澳職、沖繩派遣喊卡",
+          "url": "https://sports.ettoday.net/news/3268505"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "川普：若談判取得進展就不太可能下令攻擊伊朗",
       "summary": [
         "自由時報：川普：若談判取得進展就不太可能下令攻擊伊朗",
@@ -135,28 +162,34 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "天氣預報/入冬最強冷空氣來了！這天起「低溫下探15度」，2波變天轉濕涼， 下週天氣一次看",
+      "rank": 6,
+      "title": "今晨國際頭條一次看／黃仁勳認婚外情疑涉中國情蒐 輝達董事會啟調查",
       "summary": [
-        "風傳媒：天氣預報/入冬最強冷空氣來了！這天起「低溫下探15度」，2波變天轉濕涼， 下週天氣一次看",
-        "ETtoday：「入秋最強」今越晚越冷探15℃　全臺有感降溫"
+        "經濟日報：今晨國際頭條一次看／黃仁勳認婚外情疑涉中國情蒐 輝達董事會啟調查",
+        "財訊：遭疑成中國情報目標！黃仁勳坦承對婚姻不忠 輝達董事會啟動調查",
+        "INSIDE硬塞：黃仁勳婚外情捲入中國情報疑雲，NVIDIA 董事會啟動調查！分析師示警股價風險"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "風傳媒",
-          "title": "天氣預報/入冬最強冷空氣來了！這天起「低溫下探15度」，2波變天轉濕涼， 下週天氣一次看",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tRnNtNGt6ZjdDX2RzRU5xU0VicDdQMjE0cWJYS1pzaWZQSVNjTG9IRHhBQXdLSXVSSHJKTWlUUklpWVZLTS10T0FVN01zb19Y?oc=5"
+          "source": "經濟日報",
+          "title": "今晨國際頭條一次看／黃仁勳認婚外情疑涉中國情蒐 輝達董事會啟調查",
+          "url": "https://money.udn.com/money/story/5599/9865978"
         },
         {
-          "source": "ETtoday",
-          "title": "「入秋最強」今越晚越冷探15℃　全臺有感降溫",
-          "url": "https://www.ettoday.net/news/20261109/3268670.htm"
+          "source": "財訊",
+          "title": "遭疑成中國情報目標！黃仁勳坦承對婚姻不忠 輝達董事會啟動調查",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZTFJna3RxNExsVFVMckFxOVJiVG96ejFxUHUySkpUZnhzZU9HUy1YN1E3bTBCREhEMHVvRHMtWU50eHFNV09HQWI3MUQwWmVXSUJpckJad2lETjNXQ1JFMzRXTUE2VS1pRG5nSjBFakIxUEZnZk5WNm9tMA?oc=5"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "黃仁勳婚外情捲入中國情報疑雲，NVIDIA 董事會啟動調查！分析師示警股價風險",
+          "url": "https://www.inside.com.tw/article/42854-jensen-huang-affair-china-espionage-concerns-nvidia-investigation"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "期中選舉大勝　民主黨擬調查馬斯克、米勒及美國大企業",
       "summary": [
         "自由時報：期中選舉大勝　民主黨擬調查馬斯克、米勒及美國大企業",
@@ -173,27 +206,6 @@
           "source": "經濟日報",
           "title": "期中選舉大勝　民主黨擬調查馬斯克、米勒及美國大企業",
           "url": "https://money.udn.com/money/story/5599/9865856"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "出了什麼事？黃仁勳長女因家庭因素取消訪韓多項合作行程喊卡- 國際",
-      "summary": [
-        "工商時報：出了什麼事？黃仁勳長女因家庭因素取消訪韓多項合作行程喊卡- 國際",
-        "鉅亨網：黃仁勳之女突然取消訪韓 理由是「家庭因素」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "出了什麼事？黃仁勳長女因家庭因素取消訪韓多項合作行程喊卡- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HU1l5YU8tYjVOcl9yYjNjbGRReWl6cm1ZREJPRXUwbWwyZ1NjWFluUlVGVHFQbkVyMlJHbEtzM2kxdmpwbHhEZUFlaEhuZ2RMTVdYMVAwczFLQnVuSk5n?oc=5"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "黃仁勳之女突然取消訪韓 理由是「家庭因素」",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvVENFVkF3NDI0eFdLbHgtUnVTNWhOMDgxczhfb0RiWF9oamZCakRHci05TTBWSnZkclcxSkZaQmt0clpIcG9Gd2dzUVFVdGM?oc=5"
         }
       ]
     },
@@ -241,22 +253,22 @@
     },
     {
       "rank": 10,
-      "title": "平時相見大不易　排燈節成印度人與親友團圓重要時刻",
+      "title": "《臺北時報》 三架新F-16V Block 70抵達臺東空軍基地",
       "summary": [
-        "自由時報：平時相見大不易　排燈節成印度人與親友團圓重要時刻",
-        "經濟日報：平時相見大不易　排燈節成印度人與親友團圓重要時刻"
+        "自由時報：《臺北時報》 三架新F-16V Block 70抵達臺東空軍基地",
+        "風傳媒：第二批F-16 Block 70戰機來了 空軍：3架飛抵臺東志航基地 | 羅立邦 | 新聞"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "平時相見大不易　排燈節成印度人與親友團圓重要時刻",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5634029"
+          "title": "《臺北時報》 三架新F-16V Block 70抵達臺東空軍基地",
+          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5633977"
         },
         {
-          "source": "經濟日報",
-          "title": "平時相見大不易　排燈節成印度人與親友團圓重要時刻",
-          "url": "https://money.udn.com/money/story/5599/9865859"
+          "source": "風傳媒",
+          "title": "第二批F-16 Block 70戰機來了 空軍：3架飛抵臺東志航基地 | 羅立邦 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hM0Rrd2UzSGUyTnN5cUVjQmRfZVA3Q2JUOG83WGNHYmhkVWZ1eE9RTTVkZjVWSm05dWVyMXVyVGxxQ1BtZEgycUtxQWplQQ?oc=5"
         }
       ]
     }
@@ -264,220 +276,221 @@
   "global": [
     {
       "rank": 1,
-      "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+      "title": "英偉達黃在被指控與中國間諜有關係後承認有外遇",
       "summary": [
-        "CNBC：Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
-        "TechCrunch：Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-        "The Verge：Nvidia is investigating Jensen Huang’s relationship with a Chinese spy"
+        "Financial Times：英偉達黃在被指控與中國間諜有關係後承認有外遇",
+        "CNBC：英偉達調查執行長黃仁勳與涉嫌中國間諜的關係",
+        "TechCrunch：英偉達將調查執行長黃仁勳與可能的中國間諜的關係"
       ],
       "media_count": 5,
       "links": [
         {
+          "source": "Financial Times",
+          "title": "英偉達黃在被指控與中國間諜有關係後承認有外遇",
+          "url": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1"
+        },
+        {
           "source": "CNBC",
-          "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
-          "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html"
+          "title": "英偉達調查執行長黃仁勳與涉嫌中國間諜的關係",
+          "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
         },
         {
           "source": "TechCrunch",
-          "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+          "title": "英偉達將調查執行長黃仁勳與可能的中國間諜的關係",
           "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
         },
         {
           "source": "The Verge",
-          "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+          "title": "英偉達正在調查黃仁勳與中國間諜的關係",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
         },
         {
-          "source": "MarketWatch",
-          "title": "Nvidia’s board will probe CEO Jensen Huang’s relationship with an alleged spy. Here’s what to know.",
-          "url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories"
-        },
-        {
           "source": "Yahoo Finance",
-          "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWkhVdEx4bnBnRUEtWjVCaEVodEppXzRzM1lxWlk3YVlfNVQzcHBPNVU4ajBsUzRKemQ5amRhd0liSF9Benl5UDhRV1NsOU93bGh3N3pDd2pldFREX200V285NV9PSWdZNVJJOElFbXVOU3ZlRmgxRVhaQm1sazBiOTJ3YlJnTUdQLWdvekc3Z3FPdVA2eTQ2TDNuZGpmekRv?oc=5"
+          "title": "英偉達黃仁勳在被指控與中國間諜戀情後承認有外遇：報告",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYU5fTUZfS2drVGlTTk43X0NHYU9EMWZJQ0pmN1IyMDlWRFJLUjdpamR6QmlYN2pLR2FYaGw2RHJPbHl6VTdXOTRDaTlMSEJEWUZLYXlSNkw0VWlRSmlTNGl6WjFmVU5rRkRVeng2alFRSjdRR2lVTEpvSWM3THFmc1dQNk5SVG9pcm93WW1IQjFLV0xSOTBZd0RoQnU4SWJJRWhMcHZWMFpWcHRvSU1TQWVsTXR6NzdBcFFRRURMdUlCZ0hnSnNzZkV6eGZ6clp6dGVhcEZUMTkwRHpwSGhibg?oc=5"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+      "title": "埃及火車相撞造成7人死亡、100多人受傷",
       "summary": [
-        "Financial Times：Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
-        "Investing.com：Nvidia CEO Jensen Huang admits to affair, apologises to employees",
-        "Yahoo Finance：Nvidia's Jensen Huang admits to affair after allegations of romance with Chinese spy: Report"
+        "BBC World：埃及火車相撞造成7人死亡、100多人受傷",
+        "NHK新聞：埃及火車相撞事故已造成7人死亡、112人受傷",
+        "法廣RFI：埃及列車追尾   司機死亡   4死   88人受傷"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
-          "url": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1"
+          "source": "BBC World",
+          "title": "埃及火車相撞造成7人死亡、100多人受傷",
+          "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Investing.com",
-          "title": "Nvidia CEO Jensen Huang admits to affair, apologises to employees",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-launches-probe-into-reported-espionage-plot-targeting-ceo-jensen-huang-5010308"
+          "source": "NHK新聞",
+          "title": "埃及火車相撞事故已造成7人死亡、112人受傷",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261109de72671"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "Nvidia's Jensen Huang admits to affair after allegations of romance with Chinese spy: Report",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYU5fTUZfS2drVGlTTk43X0NHYU9EMWZJQ0pmN1IyMDlWRFJLUjdpamR6QmlYN2pLR2FYaGw2RHJPbHl6VTdXOTRDaTlMSEJEWUZLYXlSNkw0VWlRSmlTNGl6WjFmVU5rRkRVeng2alFRSjdRR2lVTEpvSWM3THFmc1dQNk5SVG9pcm93WW1IQjFLV0xSOTBZd0RoQnU4SWJJRWhMcHZWMFpWcHRvSU1TQWVsTXR6NzdBcFFRRURMdUlCZ0hnSnNzZkV6eGZ6clp6dGVhcEZUMTkwRHpwSGhibg?oc=5"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy",
-          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate"
+          "source": "法廣RFI",
+          "title": "埃及列車追尾   司機死亡   4死   88人受傷",
+          "url": "https://www.rfi.fr/tw/%E9%9D%9E%E6%B4%B2/20261108-%E5%9F%83%E5%8F%8A%E5%88%97%E8%BB%8A%E8%BF%BD%E5%B0%BE-%E5%8F%B8%E6%A9%9F%E6%AD%BB%E4%BA%A1-4%E6%AD%BB-88%E4%BA%BA%E5%8F%97%E5%82%B7"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "Nvidia Board to Probe Spying Case After CEO Jensen Huang Admits Infidelity",
+      "title": "執行長黃仁勳承認不忠後，英偉達董事會將調查間諜案",
       "summary": [
-        "Bloomberg Tech：Nvidia Board to Probe Spying Case After CEO Jensen Huang Admits Infidelity",
-        "Yahoo Finance：Nvidia Board to Probe Spying Case After CEO Admits Affair"
+        "Bloomberg Tech：執行長黃仁勳承認不忠後，英偉達董事會將調查間諜案",
+        "Washington Post：英偉達董事會將調查執行長與涉嫌中國間諜的關係",
+        "MarketWatch：英偉達董事會將調查執行長黃仁勳與一名涉嫌間諜的關係。以下是需要了解的內容。"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "Nvidia Board to Probe Spying Case After CEO Jensen Huang Admits Infidelity",
+          "title": "執行長黃仁勳承認不忠後，英偉達董事會將調查間諜案",
           "url": "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "Nvidia Board to Probe Spying Case After CEO Admits Affair",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcHhzZnJtenlYeFdvbDY3Y0JBR1B0Z3pjZ0lZMFZCQ1FaZ19CM1ZjMWxMQ0phaEFSYTJBUW1KOWNqT2toRE5Uc2pHbzR1clJKNnhpWHc3TjhqczFaLUpxYko3UURJMks3Zi12X2F6QWFMUkhnUlZ1S1FIOEZFT3htanhEQ3N5SUJZUXZ4aFpDbG5YRS1HOHA1S0N3?oc=5"
+          "source": "Washington Post",
+          "title": "英偉達董事會將調查執行長與涉嫌中國間諜的關係",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVTZRZkl3UkhITGpaSXB3cmV4R282Zm1vMi1JWWZQMS1yTjJwMzFyZ09UcHQzRkc0THA2QU0yVW0xTGtENzJ4VmhnUDBJTjJwczZXeW4xYjhyWVFuSkxud0dtTUE5el84Vmt6MHVCMW5zdzAxaXBWaWt0V3NGenRvRThONlo5UVJyRmdkWTZwX1F2MUF1cGpzZGZPc1hDYnZ6VXlLcndINWVaMjhwRVQwTGgxSDNKNjBhREVCanExZ0Y0VVo4dnV2Ri1scnU?oc=5"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "英偉達董事會將調查執行長黃仁勳與一名涉嫌間諜的關係。以下是需要了解的內容。",
+          "url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories"
         }
       ]
     },
     {
       "rank": 4,
-      "title": "黃仁勳承認婚外情 英偉達董事會宣告：將對黃仁勳與疑似中國間諜的女商人的關係展開調查",
+      "title": "一月份抗議活動後，伊朗以「武裝騷亂」罪處決了三名男子",
       "summary": [
-        "法廣RFI：黃仁勳承認婚外情 英偉達董事會宣告：將對黃仁勳與疑似中國間諜的女商人的關係展開調查",
-        "BBC中文：黃仁勳婚外情：英偉達調查其與疑似中國間諜的關係"
+        "BBC World：一月份抗議活動後，伊朗以「武裝騷亂」罪處決了三名男子",
+        "法廣RFI：伊朗再處決3名抗議者"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "黃仁勳承認婚外情 英偉達董事會宣告：將對黃仁勳與疑似中國間諜的女商人的關係展開調查",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261108-%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83%E7%99%BC%E8%A1%A8%E8%81%B2%E6%98%8E%E5%B0%87%E5%B0%8D%E9%BB%83%E4%BB%81%E5%8B%B3%E8%88%87%E4%B8%80%E5%90%8D%E6%83%85%E5%A0%B1%E6%A9%9F%E6%A7%8B%E7%A8%B1%E6%98%AF%E4%B8%AD%E5%9C%8B%E9%96%93%E8%AB%9C%E7%9A%84%E5%A5%B3%E5%95%86%E4%BA%BA%E7%9A%84%E9%97%9C%E4%BF%82%E5%B1%95%E9%96%8B%E8%AA%BF%E6%9F%A5"
+          "source": "BBC World",
+          "title": "一月份抗議活動後，伊朗以「武裝騷亂」罪處決了三名男子",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "BBC中文",
-          "title": "黃仁勳婚外情：英偉達調查其與疑似中國間諜的關係",
-          "url": "https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad?at_medium=RSS&at_campaign=rss"
+          "source": "法廣RFI",
+          "title": "伊朗再處決3名抗議者",
+          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261108-%E4%BC%8A%E6%9C%97%E5%86%8D%E8%99%95%E6%B1%BA3%E5%90%8D%E6%8A%97%E8%AD%B0%E8%80%85"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "Read the Statements From Nvidia’s Board and CEO Jensen Huang",
+      "title": "閱讀 Nvidia 董事會兼執行長黃仁勳的宣告",
       "summary": [
-        "Bloomberg Tech：Read the Statements From Nvidia’s Board and CEO Jensen Huang",
-        "The Verge：Here’s the full text of Jensen Huang’s memo to Nvidia"
+        "Bloomberg Tech：閱讀 Nvidia 董事會兼執行長黃仁勳的宣告",
+        "The Verge：以下是黃仁勳給 Nvidia 的備忘錄全文"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "Read the Statements From Nvidia’s Board and CEO Jensen Huang",
+          "title": "閱讀 Nvidia 董事會兼執行長黃仁勳的宣告",
           "url": "https://www.bloomberg.com/news/articles/2026-11-08/read-the-memos-from-nvidia-s-board-and-ceo-jensen-huang"
         },
         {
           "source": "The Verge",
-          "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+          "title": "以下是黃仁勳給 Nvidia 的備忘錄全文",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "Nvidia launches probe after report CEO Huang was target of foreign intelligence",
+      "title": "英偉達在報告執行長黃成為外國情報目標後啟動調查",
       "summary": [
-        "Investing.com：Nvidia launches probe after report CEO Huang was target of foreign intelligence",
-        "The Guardian：Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence"
+        "Investing.com：英偉達在報告執行長黃成為外國情報目標後啟動調查",
+        "The Guardian：英偉達執行長黃仁勳成為外國情報目標後展開調查"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Investing.com",
-          "title": "Nvidia launches probe after report CEO Huang was target of foreign intelligence",
+          "title": "英偉達在報告執行長黃成為外國情報目標後啟動調查",
           "url": "https://www.investing.com/news/stock-market-news/nvidia-launches-probe-after-report-ceo-huang-was-target-of-foreign-intelligence-5010307"
         },
         {
           "source": "The Guardian",
-          "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+          "title": "英偉達執行長黃仁勳成為外國情報目標後展開調查",
           "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
+      "title": "川普稱英偉達的黃仁勳“很光榮”，並說他沒有與他討論過指控",
       "summary": [
-        "Yahoo Finance：Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
-        "Investing.com：Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him"
+        "Yahoo Finance：川普稱英偉達的黃仁勳“很光榮”，並說他沒有與他討論過指控",
+        "Investing.com：川普稱英偉達的黃仁勳“很光榮”，並表示他沒有與他討論過指控"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
+          "title": "川普稱英偉達的黃仁勳“很光榮”，並說他沒有與他討論過指控",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVdpWlRldmZmUS1Da0gxODh3UmMydEExd0ExS3dOQVVmYnlGaXdQSnVoSDJyV1Y5am0tbENoRjI2ZThYTks4V2ZGSlJNOTdZUTI2M19va1Z0djh2X0c5eWU5cFIyLWtQME9CUmJTYkdnYU9LY3FqZEFJYWFqVHVISHIyQ3B4aVlYb3JrRg?oc=5"
         },
         {
           "source": "Investing.com",
-          "title": "Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him",
+          "title": "川普稱英偉達的黃仁勳“很光榮”，並表示他沒有與他討論過指控",
           "url": "https://www.investing.com/news/stock-market-news/trump-calls-nvidias-huang-honorable-says-he-has-not-discussed-allegations-with-him-5010358"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "COP31聚集點與中西方在中國大國責任擔當上的不同解讀",
+      "title": "查爾斯三世希望訪華？",
       "summary": [
-        "法廣RFI：COP31聚集點與中西方在中國大國責任擔當上的不同解讀"
+        "德國之聲：查爾斯三世希望訪華？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "COP31聚集點與中西方在中國大國責任擔當上的不同解讀",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E7%92%B0%E5%A2%83%E8%88%87%E7%99%BC%E5%B1%95/20261108-cop31%E8%81%9A%E9%9B%86%E9%BB%9E%E8%88%87%E4%B8%AD%E8%A5%BF%E6%96%B9%E5%9C%A8%E4%B8%AD%E5%9C%8B%E5%A4%A7%E5%9C%8B%E8%A7%92%E8%89%B2%E8%B2%AC%E4%BB%BB%E6%89%BF%E6%93%94%E4%B8%8A%E7%9A%84%E8%90%BD%E5%B7%AE"
+          "source": "德國之聲",
+          "title": "查爾斯三世希望訪華？",
+          "url": "https://www.dw.com/zh/查尔斯三世希望访华？/a-79890994?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "高市據報曾打算驅逐威脅斬首的薛劍 在中方警告加倍奉還後作罷",
+      "title": "內訌？菲防長指外交動向不會影響菲方防務行動 菲外交部髮長文呼籲聲音一致",
       "summary": [
-        "法廣RFI：高市據報曾打算驅逐威脅斬首的薛劍 在中方警告加倍奉還後作罷"
+        "法廣RFI：內訌？菲防長指外交動向不會影響菲方防務行動 菲外交部髮長文呼籲聲音一致"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "高市據報曾打算驅逐威脅斬首的薛劍 在中方警告加倍奉還後作罷",
-          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261108-%E9%AB%98%E5%B8%82%E6%93%9A%E5%A0%B1%E6%9B%BE%E6%89%93%E7%AE%97%E9%A9%85%E9%80%90%E5%A8%81%E8%84%85%E6%96%AC%E9%A6%96%E7%9A%84%E8%96%9B%E5%8A%8D-%E5%9C%A8%E4%B8%AD%E6%96%B9%E5%A8%81%E8%84%85%E5%8A%A0%E5%80%8D%E5%A5%89%E9%82%84%E5%BE%8C%E4%BD%9C%E7%BD%B7"
+          "title": "內訌？菲防長指外交動向不會影響菲方防務行動 菲外交部髮長文呼籲聲音一致",
+          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261108-%E5%85%A7%E8%A8%8C-%E8%8F%B2%E9%98%B2%E9%95%B7%E6%8C%87%E5%A4%96%E4%BA%A4%E5%8B%95%E5%90%91%E4%B8%8D%E6%9C%83%E5%BD%B1%E9%9F%BF%E8%8F%B2%E6%96%B9%E9%98%B2%E5%8B%99%E8%A1%8C%E5%8B%95-%E8%8F%B2%E5%A4%96%E4%BA%A4%E9%83%A8%E9%AB%AE%E9%95%B7%E6%96%87%E5%91%BC%E7%B1%B2%E8%81%B2%E9%9F%B3%E4%B8%80%E8%87%B4"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "中國缺乏能糾正長期失衡的宏觀經濟戰略?",
+      "title": "南非地方選舉80%選票已清點 非國大面臨慘敗",
       "summary": [
-        "法廣RFI：中國缺乏能糾正長期失衡的宏觀經濟戰略?"
+        "The Guardian：南非地方選舉80%選票已清點 非國大面臨慘敗"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "中國缺乏能糾正長期失衡的宏觀經濟戰略?",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E6%B3%95%E5%9C%8B%E4%B8%96%E7%95%8C%E5%A0%B1/20261108-%E4%B8%AD%E5%9C%8B%E7%BC%BA%E4%B9%8F%E8%83%BD%E7%B3%BE%E6%AD%A3%E9%95%B7%E6%9C%9F%E5%A4%B1%E8%A1%A1%E7%9A%84%E5%AE%8F%E8%A7%80%E7%B6%93%E6%BF%9F%E6%88%B0%E7%95%A5"
+          "source": "The Guardian",
+          "title": "南非地方選舉80%選票已清點 非國大面臨慘敗",
+          "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections"
         }
       ]
     }
