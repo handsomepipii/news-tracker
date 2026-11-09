@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 19:32",
+  "updated_at": "2026-11-09 20:35",
   "taiwan": [
     {
       "rank": 1,
@@ -298,22 +298,22 @@
     },
     {
       "rank": 3,
-      "title": "Nvidia Probes Huang Affair Amid Spying Controversy",
+      "title": "Huang's Affair Engulfs Nvidia in Chinese Spying Probe",
       "summary": [
-        "Bloomberg Markets：Nvidia Probes Huang Affair Amid Spying Controversy",
-        "Bloomberg Tech：Huang's Affair Engulfs Nvidia in Chinese Spying Probe"
+        "Bloomberg Tech：Huang's Affair Engulfs Nvidia in Chinese Spying Probe",
+        "Bloomberg Markets：Nvidia CEO Jensen Huang Admits Affair With Suspected Chinese Spy"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "Nvidia Probes Huang Affair Amid Spying Controversy",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-08/nvidia-probes-huang-affair-amid-spying-controversy-video"
-        },
-        {
           "source": "Bloomberg Tech",
           "title": "Huang's Affair Engulfs Nvidia in Chinese Spying Probe",
           "url": "https://www.bloomberg.com/news/videos/2026-11-09/the-china-show-11-09-2026-video"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "Nvidia CEO Jensen Huang Admits Affair With Suspected Chinese Spy",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-09/the-pulse-11-9-2026-video"
         }
       ]
     },
@@ -340,27 +340,6 @@
     },
     {
       "rank": 5,
-      "title": "Explainer-What we know about Nvidia’s probe into CEO Jensen Huang",
-      "summary": [
-        "Investing.com：Explainer-What we know about Nvidia’s probe into CEO Jensen Huang",
-        "Bloomberg Tech：What to Know About Nvidia CEO Jensen Huang’s Affair With Suspected Chinese Spy"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Explainer-What we know about Nvidia’s probe into CEO Jensen Huang",
-          "url": "https://www.investing.com/news/stock-market-news/explainerwhat-we-know-about-nvidias-probe-into-ceo-jensen-huang-5010580"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "What to Know About Nvidia CEO Jensen Huang’s Affair With Suspected Chinese Spy",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-09/what-to-know-about-nvidia-ceo-jensen-huang-s-affair-with-suspected-chinese-spy"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "European shares rise on banking boost",
       "summary": [
         "Investing.com：European shares rise on banking boost",
@@ -381,7 +360,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "美、中、俄三國首腦在深圳會晤？習近平的雄心與顧慮- 紐約時報中文網",
       "summary": [
         "紐約時報中文：美、中、俄三國首腦在深圳會晤？習近平的雄心與顧慮- 紐約時報中文網"
@@ -396,7 +375,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe",
       "summary": [
         "Bloomberg Tech：Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe"
@@ -411,7 +390,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "英偉達先進晶片流向中國「空殼」公司",
       "summary": [
         "紐約時報中文：英偉達先進晶片流向中國「空殼」公司"
@@ -426,7 +405,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "為什麼泰國醫生「害怕」肯德基",
       "summary": [
         "紐約時報中文：為什麼泰國醫生「害怕」肯德基"
@@ -437,6 +416,21 @@
           "source": "紐約時報中文",
           "title": "為什麼泰國醫生「害怕」肯德基",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPREp3WEpFb0daOTJaT1hoZ2NSMkM5cV9RTlRYb3MyS3BCRFh2M2J6dGJIbE1IQ0hDSTNBMmF5TXBUdHpkcVFnS2JPU0lCbWF1Q2RST2Z6ZDJnYWNEbjNON3QyQzdZeFotLTlGdzBHSjdWVGRDcl9yOHdwbjBpZDcwMldjXy1xaUU?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集",
+      "summary": [
+        "BBC中文：中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集",
+          "url": "https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
