@@ -1,94 +1,8 @@
 {
-  "updated_at": "2026-11-09 20:35",
+  "updated_at": "2026-11-09 21:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "臺灣成偷情聖地！　黃仁勳「出軌中國女間諜」時間軸一次看",
-      "summary": [
-        "ETtoday：臺灣成偷情聖地！　黃仁勳「出軌中國女間諜」時間軸一次看",
-        "自由時報：臺媒意外立大功！黃仁勳認婚外情 胡採蘋起底中國女間諜背景",
-        "數位時代：黃仁勳婚外情物件是中國間諜？Megaspeed是什麼公司、黃樂是誰？7大QA看懂輝達間諜疑雲"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "臺灣成偷情聖地！　黃仁勳「出軌中國女間諜」時間軸一次看",
-          "url": "https://www.ettoday.net/news/20261109/3268707.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "臺媒意外立大功！黃仁勳認婚外情 胡採蘋起底中國女間諜背景",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5634151"
-        },
-        {
-          "source": "數位時代",
-          "title": "黃仁勳婚外情物件是中國間諜？Megaspeed是什麼公司、黃樂是誰？7大QA看懂輝達間諜疑雲",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTF6S3UwenhuUl9STjV0N1RhSGoxWkQ1aE9qdm52SURhTGcwN1BOdTNhaEtsYlBkV3JWMGJJNTZ3Wi1QbE1KM2Fwdld4alZyeThJOFZhM21kQk45eUJpdFBiMlNFcmhJODA0clh6YUxHS05qTTkxdldERHR3UVJjTXViSTlkR1U?oc=5"
-        },
-        {
-          "source": "風傳媒",
-          "title": "黃仁勳陷美人計！女主角黃樂是誰？中國間諜疑雲引爆輝達國安危機 | 國際中心 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SOHc2S3hUQUtxWW8tTlI3WE1tRjNPTFREMWloZWJvR2xvWFRtZjgwcWxzMERsczlTUElOeXVTMUlqb0FFZ0ZDVXJZSzVMdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "黃仁勳坦承婚外情，物件疑涉中國間諜！輝達啟動獨立調查",
-      "summary": [
-        "數位時代：黃仁勳坦承婚外情，物件疑涉中國間諜！輝達啟動獨立調查",
-        "工商時報：黃仁勳婚外情風暴傳物件是中國間諜輝達董事會啟動獨立調查- 國際",
-        "經濟日報：黃仁勳承認婚外情 輝達董事會調查他是否淪為外國間諜活動目標"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "數位時代",
-          "title": "黃仁勳坦承婚外情，物件疑涉中國間諜！輝達啟動獨立調查",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONVdaMlBQVGJ4d2lIUzQzcjBfRVdENV85WDhfZ1JxMXNfaUlkZzhaNTNINk9FMUcyX3VNSkJKVmVrYjNOeTJ0S1ZKX0VReWFWX29jbmpsa3R0NUdwOEhoRkVic3J4RWd2bVd4cUFFdFZtY2FrX3l2MXNCX0FCbDVvMEVGT1Q5aVpsb3gxVlJRMzQxNGc?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "黃仁勳婚外情風暴傳物件是中國間諜輝達董事會啟動獨立調查- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uRC1hZU1LR09YV1ZKanJaVkRYRTJKTkFQVHZ5VUM5RUtCc1ByOGdXZkVMT3M3Tno3bjZfak00bldTRGptWlV3NnM1WjZWUm1mUHA3VjlBcHBjdkhzWTdj?oc=5"
-        },
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳承認婚外情 輝達董事會調查他是否淪為外國間諜活動目標",
-          "url": "https://money.udn.com/money/story/5599/9865934"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "今晨國際頭條一次看／黃仁勳認婚外情疑涉中國情蒐 輝達董事會啟調查",
-      "summary": [
-        "經濟日報：今晨國際頭條一次看／黃仁勳認婚外情疑涉中國情蒐 輝達董事會啟調查",
-        "財訊：遭疑成中國情報目標！黃仁勳坦承對婚姻不忠 輝達董事會啟動調查",
-        "INSIDE硬塞：黃仁勳婚外情捲入中國情報疑雲，NVIDIA 董事會啟動調查！分析師示警股價風險"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "今晨國際頭條一次看／黃仁勳認婚外情疑涉中國情蒐 輝達董事會啟調查",
-          "url": "https://money.udn.com/money/story/5599/9865978"
-        },
-        {
-          "source": "財訊",
-          "title": "遭疑成中國情報目標！黃仁勳坦承對婚姻不忠 輝達董事會啟動調查",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZTFJna3RxNExsVFVMckFxOVJiVG96ejFxUHUySkpUZnhzZU9HUy1YN1E3bTBCREhEMHVvRHMtWU50eHFNV09HQWI3MUQwWmVXSUJpckJad2lETjNXQ1JFMzRXTUE2VS1pRG5nSjBFakIxUEZnZk5WNm9tMA?oc=5"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "黃仁勳婚外情捲入中國情報疑雲，NVIDIA 董事會啟動調查！分析師示警股價風險",
-          "url": "https://www.inside.com.tw/article/42854-jensen-huang-affair-china-espionage-concerns-nvidia-investigation"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "康建生技4死案最高法院生死辯開庭 死者家屬盼速審速決、處以極刑",
       "summary": [
         "自由時報：康建生技4死案最高法院生死辯開庭 死者家屬盼速審速決、處以極刑",
@@ -115,7 +29,34 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 2,
+      "title": "臺媒意外立大功！黃仁勳認婚外情 胡採蘋起底中國女間諜背景",
+      "summary": [
+        "自由時報：臺媒意外立大功！黃仁勳認婚外情 胡採蘋起底中國女間諜背景",
+        "數位時代：黃仁勳婚外情物件是中國間諜？Megaspeed是什麼公司、黃樂是誰？7大QA看懂輝達間諜疑雲",
+        "風傳媒：黃仁勳陷美人計！女主角黃樂是誰？中國間諜疑雲引爆輝達國安危機 | 國際中心 | 新聞"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "臺媒意外立大功！黃仁勳認婚外情 胡採蘋起底中國女間諜背景",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5634151"
+        },
+        {
+          "source": "數位時代",
+          "title": "黃仁勳婚外情物件是中國間諜？Megaspeed是什麼公司、黃樂是誰？7大QA看懂輝達間諜疑雲",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTF6S3UwenhuUl9STjV0N1RhSGoxWkQ1aE9qdm52SURhTGcwN1BOdTNhaEtsYlBkV3JWMGJJNTZ3Wi1QbE1KM2Fwdld4alZyeThJOFZhM21kQk45eUJpdFBiMlNFcmhJODA0clh6YUxHS05qTTkxdldERHR3UVJjTXViSTlkR1U?oc=5"
+        },
+        {
+          "source": "風傳媒",
+          "title": "黃仁勳陷美人計！女主角黃樂是誰？中國間諜疑雲引爆輝達國安危機 | 國際中心 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SOHc2S3hUQUtxWW8tTlI3WE1tRjNPTFREMWloZWJvR2xvWFRtZjgwcWxzMERsczlTUElOeXVTMUlqb0FFZ0ZDVXJZSzVMdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Gemini全新購物功能正式登臺！輸入需求就能比價、看評價　商品推薦一次搞定",
       "summary": [
         "ETtoday：Gemini全新購物功能正式登臺！輸入需求就能比價、看評價　商品推薦一次搞定",
@@ -142,107 +83,149 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "埃及火車追撞至少7死125傷 同路段3度出事「籲交長下臺」",
+      "rank": 4,
+      "title": "讓好技術找到下一個舞臺！2026 新北新創之星攜手創投，陪創業團隊走向市場",
       "summary": [
-        "公視新聞：埃及火車追撞至少7死125傷 同路段3度出事「籲交長下臺」",
-        "TVBS新聞：埃及列車追撞 多節車廂出軌釀7死.112傷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+        "關鍵評論網：讓好技術找到下一個舞臺！2026 新北新創之星攜手創投，陪創業團隊走向市場",
+        "INSIDE硬塞：讓好技術找到下一個舞臺！2026 新北新創之星攜手創投，陪創業團隊走向市場"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "公視新聞",
-          "title": "埃及火車追撞至少7死125傷 同路段3度出事「籲交長下臺」",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01VkcwMkxiOGhFS2xHUzBFcHVpU3MxelJ2cmNnUGM4cm8zcTNLMXNBdXMtNzd3WUdZUG9DUzY5MFk3UFFGMFhjUWlwanQyM1U?oc=5"
+          "source": "關鍵評論網",
+          "title": "讓好技術找到下一個舞臺！2026 新北新創之星攜手創投，陪創業團隊走向市場",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GTVZEVGJhWTFLYlY4aGM5VngwRTZSbUdZZEJsNnlfQnBNdHh3SGZGZGQ1Tlg3ZVZESXpJRTBFeUFEeFdrOEtUbjNPN3FZYTJoMV90UVI0RC02ZzJWWl9NbA?oc=5"
         },
         {
-          "source": "TVBS新聞",
-          "title": "埃及列車追撞 多節車廂出軌釀7死.112傷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tMFo2azU1dmREY05BbzFCWUpKbm9lakhZUmZJUURXZjBjZUJkVThNX1E2TTM1NmhteDRXOE0xRGZYSWFac1pWV3diRDZzNlhNb0FmWUdR?oc=5"
+          "source": "INSIDE硬塞",
+          "title": "讓好技術找到下一個舞臺！2026 新北新創之星攜手創投，陪創業團隊走向市場",
+          "url": "https://www.inside.com.tw/article/42824-ntpc"
         }
       ]
     },
     {
-      "rank": 7,
-      "title": "新北土城正崴精密工廠火災 1人受困待救",
+      "rank": 5,
+      "title": "黃仁勳坦承出軌將遭調查　分析師：輝達股價承壓",
       "summary": [
-        "自由時報：新北土城正崴精密工廠火災 1人受困待救",
-        "公開資訊觀測站重訊：土城廠火警 正崴：無人員傷亡，起火原因待鑑定"
+        "經濟日報：黃仁勳坦承出軌將遭調查　分析師：輝達股價承壓",
+        "科技新報：黃仁勳坦承出軌將遭調查，分析師：輝達股價承壓"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳坦承出軌將遭調查　分析師：輝達股價承壓",
+          "url": "https://money.udn.com/money/story/123398/9866251"
+        },
+        {
+          "source": "科技新報",
+          "title": "黃仁勳坦承出軌將遭調查，分析師：輝達股價承壓",
+          "url": "https://finance.technews.tw/2026/11/09/jensen-huang-admits-affair-faces-investigation-nvidia-stock-pressure/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "太諷刺！黃仁勳帶老婆上節目放閃 自爆「超能力」17歲追到愛妻",
+      "summary": [
+        "自由時報：太諷刺！黃仁勳帶老婆上節目放閃 自爆「超能力」17歲追到愛妻",
+        "ETtoday：黃仁勳6月才上節目放閃老婆！　17歲狂追相戀40年：身上東西都是她買的"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "新北土城正崴精密工廠火災 1人受困待救",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5634097"
+          "title": "太諷刺！黃仁勳帶老婆上節目放閃 自爆「超能力」17歲追到愛妻",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5634253"
         },
         {
-          "source": "公開資訊觀測站重訊",
-          "title": "土城廠火警 正崴：無人員傷亡，起火原因待鑑定",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSXpvLUJXTGlWSHRhRDlzTEd3STVGak90UmxvREc5UDk2N1oxVHFOUnRfU3pUZUVHM1BNYW1ZWEpPaHR1MHVZdGhZVlpCc3dUZlZVcG9uSk9rWG9YYlNSdS1jeXlRT2dld0l2cVRFQVZjQ285REt0VllIM3hVSldNUWhlTUw3emVrTVpVZS1mYjZpQQ?oc=5"
+          "source": "ETtoday",
+          "title": "黃仁勳6月才上節目放閃老婆！　17歲狂追相戀40年：身上東西都是她買的",
+          "url": "https://star.ettoday.net/news/3268795"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "「難相信黃仁勳掉進中共美人計」　沈富雄預言最慘結局",
+      "summary": [
+        "ETtoday：「難相信黃仁勳掉進中共美人計」　沈富雄預言最慘結局",
+        "中時新聞：黃仁勳驚爆婚外情 沈富雄喊難以相信 預言「最慘」結局"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "「難相信黃仁勳掉進中共美人計」　沈富雄預言最慘結局",
+          "url": "https://www.ettoday.net/news/20261109/3268769.htm"
+        },
+        {
+          "source": "中時新聞",
+          "title": "黃仁勳驚爆婚外情 沈富雄喊難以相信 預言「最慘」結局",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPVTJTWnp1cE1KeHlpbC1rcmlTa3psMXcxNU41Qmp2TlhFTXB4bjd4VG8xVkVXcERGMzQtdDExeWRNWmpyeko4QjYweE5aS2pDbkRlTGo5OHFSejlGbWpscTNUVUNrV0RqazlLb0x3?oc=5"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "川普證實美軍特遣部隊就位　切斷陸路擴大封鎖伊朗",
+      "title": "漲價、訂單增加  PCB 廠 Meiko 上修財測、獲利創新高",
       "summary": [
-        "經濟日報：川普證實美軍特遣部隊就位　切斷陸路擴大封鎖伊朗",
-        "ETtoday：封鎖伊朗再升級！　川普出動「鐵門特遣部隊」海陸全面圍堵"
+        "科技新報：漲價、訂單增加  PCB 廠 Meiko 上修財測、獲利創新高",
+        "MoneyDJ理財網：漲價、訂單增加PCB廠Meiko上修財測、獲利創新高- 新聞"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "川普證實美軍特遣部隊就位　切斷陸路擴大封鎖伊朗",
-          "url": "https://money.udn.com/money/story/5599/9866060"
+          "source": "科技新報",
+          "title": "漲價、訂單增加  PCB 廠 Meiko 上修財測、獲利創新高",
+          "url": "https://finance.technews.tw/2026/11/09/meiko-raises-forecast-as-profits-hit-record-high/"
         },
         {
-          "source": "ETtoday",
-          "title": "封鎖伊朗再升級！　川普出動「鐵門特遣部隊」海陸全面圍堵",
-          "url": "https://www.ettoday.net/news/20261109/3268850.htm"
+          "source": "MoneyDJ理財網",
+          "title": "漲價、訂單增加PCB廠Meiko上修財測、獲利創新高- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2x6ZGdMU0huaHJ1U3JCMjZJTmtCa1AyOGdkQi1XT18tMnIwMDY4aTlJTjdqaVNEaTdUM081T0l1S05xYTd3RENVSWNKa1R4NE9GNFRTMFE4XzZpOER5V0RrZFRsNm1CSVpDeGJEaEdCVnBXYThzaHlvTGpBWV9HMXpSVTEySWVUMWVHNlVEdi1Ddw?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "憂美國加強監管　比特幣、以太幣跌至逾2個月新低",
+      "title": "Firefly 獲 13 億美元火箭引擎大單  股價飆逾 36%",
       "summary": [
-        "經濟日報：憂美國加強監管　比特幣、以太幣跌至逾2個月新低",
-        "科技新報：憂美國加強監管，比特幣、以太幣跌至逾 2 個月新低"
+        "科技新報：Firefly 獲 13 億美元火箭引擎大單  股價飆逾 36%",
+        "MoneyDJ理財網：Firefly獲13億美元火箭引擎大單 股價飆逾36%"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "憂美國加強監管　比特幣、以太幣跌至逾2個月新低",
-          "url": "https://money.udn.com/money/story/5599/9866040"
+          "source": "科技新報",
+          "title": "Firefly 獲 13 億美元火箭引擎大單  股價飆逾 36%",
+          "url": "https://technews.tw/2026/11/09/firefly-aerospace-signs-rocket-engine-deal-valued-at-more-than-1-3-billion-with-ast-spacemobile/"
         },
         {
-          "source": "科技新報",
-          "title": "憂美國加強監管，比特幣、以太幣跌至逾 2 個月新低",
-          "url": "https://technews.tw/2026/11/09/cryptocurrencies-slide-to-two-month-lows-after-us-midterms/"
+          "source": "MoneyDJ理財網",
+          "title": "Firefly獲13億美元火箭引擎大單 股價飆逾36%",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdTRVRzZzLXh6U2RwdFhZMmhrM09JcjU1bVV6NWh6a2xjTmVlYUNnUEtmRnhGZXExZDAzZXp4N1N5VHkxUldhTW9EdDVtMWRnSXNvWnBxZTR2VnBQWDh0Tzh4eXZ0V3NYTWZxSkR4R3U4WVBoeEtpZ1VNYlB1Y2hIdzJRM29udTRzYWtKMXBvdHJDZw?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "川普稱輝達執行長黃仁勳「為人正直」　盼外界聽取其說法",
+      "title": "搖很大！ 雲林古坑規模4.2地震 嘉義震度最大達4級",
       "summary": [
-        "經濟日報：川普稱輝達執行長黃仁勳「為人正直」　盼外界聽取其說法",
-        "科技新報：川普稱輝達執行長黃仁勳「為人正直」，盼外界聽取其說法"
+        "自由時報：搖很大！ 雲林古坑規模4.2地震 嘉義震度最大達4級",
+        "ETtoday：快訊／12:21雲林古坑規模4.2「極淺層地震」　最大震度4級"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "川普稱輝達執行長黃仁勳「為人正直」　盼外界聽取其說法",
-          "url": "https://money.udn.com/money/story/5599/9866029"
+          "source": "自由時報",
+          "title": "搖很大！ 雲林古坑規模4.2地震 嘉義震度最大達4級",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5634362"
         },
         {
-          "source": "科技新報",
-          "title": "川普稱輝達執行長黃仁勳「為人正直」，盼外界聽取其說法",
-          "url": "https://technews.tw/2026/11/09/trump-calls-nvidia-ceo-jensen-huang-man-integrity-hopes-others-listen/"
+          "source": "ETtoday",
+          "title": "快訊／12:21雲林古坑規模4.2「極淺層地震」　最大震度4級",
+          "url": "https://www.ettoday.net/news/20261109/3268887.htm"
         }
       ]
     }
@@ -250,54 +233,33 @@
   "global": [
     {
       "rank": 1,
-      "title": "黃仁勳婚外情：英偉達調查其與疑似中國間諜的關係",
+      "title": "Tesla to refund many Cybertruck deposits as demand exceeds production, Musk says",
       "summary": [
-        "BBC中文：黃仁勳婚外情：英偉達調查其與疑似中國間諜的關係",
-        "紐約時報中文：黃仁勛與中國間諜發生婚外情，英偉達展開調查- 紐約時報中文網",
-        "德國之聲：黃仁勳坦承婚外情 與中國間諜關係面臨質疑"
+        "Investing.com：Tesla to refund many Cybertruck deposits as demand exceeds production, Musk says",
+        "Yahoo Finance：Elon Musk Says Tesla Will Refund Deposits To A ‘Lot Of People’ As Cybertruck Production Winds Down – Robotaxi Makes San Antonio Debut",
+        "TechCrunch：Musk says Tesla will refund some Cybertruck deposits, defends decision to end production"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "BBC中文",
-          "title": "黃仁勳婚外情：英偉達調查其與疑似中國間諜的關係",
-          "url": "https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad?at_medium=RSS&at_campaign=rss"
+          "source": "Investing.com",
+          "title": "Tesla to refund many Cybertruck deposits as demand exceeds production, Musk says",
+          "url": "https://www.investing.com/news/stock-market-news/tesla-to-refund-many-cybertruck-deposits-as-demand-exceeds-production-musk-says-5010643"
         },
         {
-          "source": "紐約時報中文",
-          "title": "黃仁勛與中國間諜發生婚外情，英偉達展開調查- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOFRWbnN2T1BGRXozZlZSWVowTHdhRUlkZ2M2bm1lbnVERTMydU9KN0RnZ0xGVVVtVkVrc29iQW90QUxxMnlJOERuQ3FrWENfSV9MRkFyM2ZJcEpYWmwyU2xYbnZDNDY1M3ltYVRDYXlVVE85b09yekdfZGVqQ2xnTGI2bE5uTXZva0phdGp1NkpULWNSSkE?oc=5"
+          "source": "Yahoo Finance",
+          "title": "Elon Musk Says Tesla Will Refund Deposits To A ‘Lot Of People’ As Cybertruck Production Winds Down – Robotaxi Makes San Antonio Debut",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWDA2d3lQN2ZMVXRRT0VfcDBqbmY4X3g3bkU0OGg3cW1HcldwOEtDSzRyemlPeF9MVTJXMWV0SEsteGVpdEFINEp2VF9ubktvd0hoTVVwSjVpczUtVDdZdk1FeFNqd3BhMng4SC1aTWJxV0dTUlZycEYxVEs1TkVXTGpSVlZrT09PT082dW84Z2JheUlvdW5z?oc=5"
         },
         {
-          "source": "德國之聲",
-          "title": "黃仁勳坦承婚外情 與中國間諜關係面臨質疑",
-          "url": "https://www.dw.com/zh/黃仁勳坦承婚外情-與中國間諜關係面臨質疑/a-79895340?maca=chi-rss-chi-all-1127-rdf"
+          "source": "TechCrunch",
+          "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
-      "summary": [
-        "Yahoo Finance：Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
-        "Investing.com：Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVdpWlRldmZmUS1Da0gxODh3UmMydEExd0ExS3dOQVVmYnlGaXdQSnVoSDJyV1Y5am0tbENoRjI2ZThYTks4V2ZGSlJNOTdZUTI2M19va1Z0djh2X0c5eWU5cFIyLWtQME9CUmJTYkdnYU9LY3FqZEFJYWFqVHVISHIyQ3B4aVlYb3JrRg?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him",
-          "url": "https://www.investing.com/news/stock-market-news/trump-calls-nvidias-huang-honorable-says-he-has-not-discussed-allegations-with-him-5010358"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Huang's Affair Engulfs Nvidia in Chinese Spying Probe",
       "summary": [
         "Bloomberg Tech：Huang's Affair Engulfs Nvidia in Chinese Spying Probe",
@@ -318,7 +280,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
       "summary": [
         "Bloomberg Markets：China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
@@ -339,7 +301,49 @@
       ]
     },
     {
+      "rank": 4,
+      "title": "黃仁勳坦承婚外情 與中國間諜關係面臨質疑",
+      "summary": [
+        "德國之聲：黃仁勳坦承婚外情 與中國間諜關係面臨質疑",
+        "CNBC：黃仁勳與被指控的中國間諜的戀情對英偉達股票意味著什麼"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "黃仁勳坦承婚外情 與中國間諜關係面臨質疑",
+          "url": "https://www.dw.com/zh/黃仁勳坦承婚外情-與中國間諜關係面臨質疑/a-79895340?maca=chi-rss-chi-all-1127-rdf"
+        },
+        {
+          "source": "CNBC",
+          "title": "黃仁勳與被指控的中國間諜的戀情對英偉達股票意味著什麼",
+          "url": "https://www.cnbc.com/investingclub/2026/11/08/jim-cramer-what-jensen-huangs-affair-with-an-accused-chinese-spy-means-for-nvidia-stock.html"
+        }
+      ]
+    },
+    {
       "rank": 5,
+      "title": "Jensen Huang’s Affair Sparks Nvidia Crisis",
+      "summary": [
+        "Bloomberg Tech：Jensen Huang’s Affair Sparks Nvidia Crisis",
+        "Yahoo Finance：Nvidia CEO Jensen Huang's debacle highlights this one glaring issue"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Jensen Huang’s Affair Sparks Nvidia Crisis",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-09/jensen-huang-s-affair-sparks-nvidia-crisis-video"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Nvidia CEO Jensen Huang's debacle highlights this one glaring issue",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZjQxU1NGcmJlVEtVeW1XNHhtUHhIRk5RVGVnVFpkRHBFX0NQRDRyX0ZrSjBHdWdUTllCOGxYbkxGRE5BNFNXN1JfcjM3clo2QXVGdUtZYnhqVkxjTUc4ZDlfcXRIM0NZeS1UTE9rUGxMZmozLXdHVm5Kbmx1eHFFWXh4OU8zQTBIaGJhM0J2dzFrWnBSc0h2TVIwdzlxNW1nUmlidmZEOVppSl94YXNjbmJXRmZESGd5OVZCYXpzSUVISXl6V21fT3ZB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "European shares rise on banking boost",
       "summary": [
         "Investing.com：European shares rise on banking boost",
@@ -360,22 +364,22 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "美、中、俄三國首腦在深圳會晤？習近平的雄心與顧慮- 紐約時報中文網",
+      "rank": 7,
+      "title": "黃仁勛與中國間諜發生婚外情，英偉達展開調查- 紐約時報中文網",
       "summary": [
-        "紐約時報中文：美、中、俄三國首腦在深圳會晤？習近平的雄心與顧慮- 紐約時報中文網"
+        "紐約時報中文：黃仁勛與中國間諜發生婚外情，英偉達展開調查- 紐約時報中文網"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "紐約時報中文",
-          "title": "美、中、俄三國首腦在深圳會晤？習近平的雄心與顧慮- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pdDRuT1hTTTEtRzl1RUVkRDhrVWZQS2Nfd1ZPdS1SS21XWXFqU2prSjFhbFB0c1pKb1NJSHROSi1QVGpzRm5feWM3bkNWaW82Zm04aEZBU0ZHendiTmpKd0xQakVod1pnNURVNXY0SDUzZjZwdFB4Ym5wQlYzdVE?oc=5"
+          "title": "黃仁勛與中國間諜發生婚外情，英偉達展開調查- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOFRWbnN2T1BGRXozZlZSWVowTHdhRUlkZ2M2bm1lbnVERTMydU9KN0RnZ0xGVVVtVkVrc29iQW90QUxxMnlJOERuQ3FrWENfSV9MRkFyM2ZJcEpYWmwyU2xYbnZDNDY1M3ltYVRDYXlVVE85b09yekdfZGVqQ2xnTGI2bE5uTXZva0phdGp1NkpULWNSSkE?oc=5"
         }
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe",
       "summary": [
         "Bloomberg Tech：Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe"
@@ -390,7 +394,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "英偉達先進晶片流向中國「空殼」公司",
       "summary": [
         "紐約時報中文：英偉達先進晶片流向中國「空殼」公司"
@@ -405,7 +409,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "為什麼泰國醫生「害怕」肯德基",
       "summary": [
         "紐約時報中文：為什麼泰國醫生「害怕」肯德基"
@@ -416,21 +420,6 @@
           "source": "紐約時報中文",
           "title": "為什麼泰國醫生「害怕」肯德基",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPREp3WEpFb0daOTJaT1hoZ2NSMkM5cV9RTlRYb3MyS3BCRFh2M2J6dGJIbE1IQ0hDSTNBMmF5TXBUdHpkcVFnS2JPU0lCbWF1Q2RST2Z6ZDJnYWNEbjNON3QyQzdZeFotLTlGdzBHSjdWVGRDcl9yOHdwbjBpZDcwMldjXy1xaUU?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集",
-      "summary": [
-        "BBC中文：中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集",
-          "url": "https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
