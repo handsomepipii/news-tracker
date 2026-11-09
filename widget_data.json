@@ -1,45 +1,8 @@
 {
-  "updated_at": "2026-11-09 14:09",
+  "updated_at": "2026-11-09 16:01",
   "taiwan": [
     {
       "rank": 1,
-      "title": "埃及開羅以南火車追撞　數節車廂出軌至少7死112傷",
-      "summary": [
-        "自由時報：埃及開羅以南火車追撞　數節車廂出軌至少7死112傷",
-        "經濟日報：埃及開羅以南火車追撞　數節車廂出軌至少7死112傷",
-        "ETtoday：埃及火車追撞至少7死112傷　數節車廂嚴重出軌"
-      ],
-      "media_count": 5,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "埃及開羅以南火車追撞　數節車廂出軌至少7死112傷",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5634024"
-        },
-        {
-          "source": "經濟日報",
-          "title": "埃及開羅以南火車追撞　數節車廂出軌至少7死112傷",
-          "url": "https://money.udn.com/money/story/5599/9865848"
-        },
-        {
-          "source": "ETtoday",
-          "title": "埃及火車追撞至少7死112傷　數節車廂嚴重出軌",
-          "url": "https://www.ettoday.net/news/20261109/3268665.htm"
-        },
-        {
-          "source": "公視新聞",
-          "title": "埃及火車追撞至少7死125傷 同路段3度出事「籲交長下臺」",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01VkcwMkxiOGhFS2xHUzBFcHVpU3MxelJ2cmNnUGM4cm8zcTNLMXNBdXMtNzd3WUdZUG9DUzY5MFk3UFFGMFhjUWlwanQyM1U?oc=5"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "埃及列車追撞 多節車廂出軌釀7死.112傷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tMFo2azU1dmREY05BbzFCWUpKbm9lakhZUmZJUURXZjBjZUJkVThNX1E2TTM1NmhteDRXOE0xRGZYSWFac1pWV3diRDZzNlhNb0FmWUdR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "黃仁勳坦承與中國女間諜有婚外情 輝達展開調查",
       "summary": [
         "經濟日報：黃仁勳坦承與中國女間諜有婚外情 輝達展開調查",
@@ -76,7 +39,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
       "summary": [
         "自由時報：紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
@@ -108,41 +71,14 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "川普：若談判取得進展就不太可能下令攻擊伊朗",
-      "summary": [
-        "自由時報：川普：若談判取得進展就不太可能下令攻擊伊朗",
-        "經濟日報：川普：若談判取得進展就不太可能下令攻擊伊朗",
-        "ETtoday：川普：若談判取得進展就不太可能下令攻擊伊朗"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "川普：若談判取得進展就不太可能下令攻擊伊朗",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5634027"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普：若談判取得進展就不太可能下令攻擊伊朗",
-          "url": "https://money.udn.com/money/story/5599/9865850"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普：若談判取得進展就不太可能下令攻擊伊朗",
-          "url": "https://www.ettoday.net/news/20261109/3268667.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "title": "臺灣成偷情聖地！　黃仁勳「出軌中國女間諜」時間軸一次看",
       "summary": [
         "ETtoday：臺灣成偷情聖地！　黃仁勳「出軌中國女間諜」時間軸一次看",
         "自由時報：臺媒意外立大功！黃仁勳認婚外情 胡採蘋起底中國女間諜背景",
         "數位時代：黃仁勳婚外情物件是中國間諜？Megaspeed是什麼公司、黃樂是誰？7大QA看懂輝達間諜疑雲"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "ETtoday",
@@ -158,11 +94,43 @@
           "source": "數位時代",
           "title": "黃仁勳婚外情物件是中國間諜？Megaspeed是什麼公司、黃樂是誰？7大QA看懂輝達間諜疑雲",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTF6S3UwenhuUl9STjV0N1RhSGoxWkQ1aE9qdm52SURhTGcwN1BOdTNhaEtsYlBkV3JWMGJJNTZ3Wi1QbE1KM2Fwdld4alZyeThJOFZhM21kQk45eUJpdFBiMlNFcmhJODA0clh6YUxHS05qTTkxdldERHR3UVJjTXViSTlkR1U?oc=5"
+        },
+        {
+          "source": "風傳媒",
+          "title": "黃仁勳陷美人計！女主角黃樂是誰？中國間諜疑雲引爆輝達國安危機 | 國際中心 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SOHc2S3hUQUtxWW8tTlI3WE1tRjNPTFREMWloZWJvR2xvWFRtZjgwcWxzMERsczlTUElOeXVTMUlqb0FFZ0ZDVXJZSzVMdw?oc=5"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "title": "埃及火車追撞至少7死112傷　數節車廂嚴重出軌",
+      "summary": [
+        "ETtoday：埃及火車追撞至少7死112傷　數節車廂嚴重出軌",
+        "公視新聞：埃及火車追撞至少7死125傷 同路段3度出事「籲交長下臺」",
+        "TVBS新聞：埃及列車追撞 多節車廂出軌釀7死.112傷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "埃及火車追撞至少7死112傷　數節車廂嚴重出軌",
+          "url": "https://www.ettoday.net/news/20261109/3268665.htm"
+        },
+        {
+          "source": "公視新聞",
+          "title": "埃及火車追撞至少7死125傷 同路段3度出事「籲交長下臺」",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01VkcwMkxiOGhFS2xHUzBFcHVpU3MxelJ2cmNnUGM4cm8zcTNLMXNBdXMtNzd3WUdZUG9DUzY5MFk3UFFGMFhjUWlwanQyM1U?oc=5"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "埃及列車追撞 多節車廂出軌釀7死.112傷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tMFo2azU1dmREY05BbzFCWUpKbm9lakhZUmZJUURXZjBjZUJkVThNX1E2TTM1NmhteDRXOE0xRGZYSWFac1pWV3diRDZzNlhNb0FmWUdR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "今晨國際頭條一次看／黃仁勳認婚外情疑涉中國情蒐 輝達董事會啟調查",
       "summary": [
         "經濟日報：今晨國際頭條一次看／黃仁勳認婚外情疑涉中國情蒐 輝達董事會啟調查",
@@ -189,7 +157,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "康建生技4死案最高法院生死辯開庭 死者家屬盼速審速決、處以極刑",
       "summary": [
         "自由時報：康建生技4死案最高法院生死辯開庭 死者家屬盼速審速決、處以極刑",
@@ -216,7 +184,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "期中選舉大勝　民主黨擬調查馬斯克、米勒及美國大企業",
       "summary": [
         "自由時報：期中選舉大勝　民主黨擬調查馬斯克、米勒及美國大企業",
@@ -237,7 +205,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "平時相見大不易　排燈節成印度人與親友團圓重要時刻",
       "summary": [
         "自由時報：平時相見大不易　排燈節成印度人與親友團圓重要時刻",
@@ -258,7 +226,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "黃仁勳爆婚外情   邱彰好傷心：他怎麼可以這麼不小心？",
       "summary": [
         "自由時報：黃仁勳爆婚外情   邱彰好傷心：他怎麼可以這麼不小心？",
@@ -277,14 +245,35 @@
           "url": "https://www.ettoday.net/news/20261109/3268744.htm"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳認了共諜婚外情！向妻子員工道歉　輝達董事會啟動獨立調查",
+      "summary": [
+        "ETtoday：黃仁勳認了共諜婚外情！向妻子員工道歉　輝達董事會啟動獨立調查",
+        "中時新聞：黃仁勳認了婚外情！ 向妻子員工道歉輝達董事會啟動獨立調查- 國際"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳認了共諜婚外情！向妻子員工道歉　輝達董事會啟動獨立調查",
+          "url": "https://www.ettoday.net/news/20261109/3268666.htm"
+        },
+        {
+          "source": "中時新聞",
+          "title": "黃仁勳認了婚外情！ 向妻子員工道歉輝達董事會啟動獨立調查- 國際",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kTHFMUk5Ec2NUdVlQZ193WUl1N3pzdmlEczdCQ0FGWEJFNWVuQm9Vb0VuM3luc3lvTG5yYlV6bEN6RzMyZWJxRHQ4M24zT05OMndhUmVRaW84NnE0dFNUcGFSak9YbFZ4SklSemNB?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+      "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
       "summary": [
-        "CNBC：Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+        "CNBC：Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
         "TechCrunch：Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
         "The Verge：Nvidia is investigating Jensen Huang’s relationship with a Chinese spy"
       ],
@@ -292,8 +281,8 @@
       "links": [
         {
           "source": "CNBC",
-          "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
-          "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html"
+          "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+          "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
         },
         {
           "source": "TechCrunch",
@@ -378,6 +367,33 @@
     },
     {
       "rank": 4,
+      "title": "Read the Statements From Nvidia’s Board and CEO Jensen Huang",
+      "summary": [
+        "Bloomberg Tech：Read the Statements From Nvidia’s Board and CEO Jensen Huang",
+        "The Verge：Here’s the full text of Jensen Huang’s memo to Nvidia",
+        "Investing.com：Explainer-What we know about Nvidia’s probe into CEO Jensen Huang"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Read the Statements From Nvidia’s Board and CEO Jensen Huang",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/read-the-memos-from-nvidia-s-board-and-ceo-jensen-huang"
+        },
+        {
+          "source": "The Verge",
+          "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Explainer-What we know about Nvidia’s probe into CEO Jensen Huang",
+          "url": "https://www.investing.com/news/stock-market-news/explainerwhat-we-know-about-nvidias-probe-into-ceo-jensen-huang-5010580"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
       "summary": [
         "Yahoo Finance：Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
@@ -398,7 +414,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Nvidia Board to Probe Spying Case After CEO Jensen Huang Admits Infidelity",
       "summary": [
         "Bloomberg Tech：Nvidia Board to Probe Spying Case After CEO Jensen Huang Admits Infidelity",
@@ -415,27 +431,6 @@
           "source": "Yahoo Finance",
           "title": "Nvidia Board to Probe Spying Case After CEO Admits Affair",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcHhzZnJtenlYeFdvbDY3Y0JBR1B0Z3pjZ0lZMFZCQ1FaZ19CM1ZjMWxMQ0phaEFSYTJBUW1KOWNqT2toRE5Uc2pHbzR1clJKNnhpWHc3TjhqczFaLUpxYko3UURJMks3Zi12X2F6QWFMUkhnUlZ1S1FIOEZFT3htanhEQ3N5SUJZUXZ4aFpDbG5YRS1HOHA1S0N3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Read the Statements From Nvidia’s Board and CEO Jensen Huang",
-      "summary": [
-        "Bloomberg Tech：Read the Statements From Nvidia’s Board and CEO Jensen Huang",
-        "The Verge：Here’s the full text of Jensen Huang’s memo to Nvidia"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Read the Statements From Nvidia’s Board and CEO Jensen Huang",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-08/read-the-memos-from-nvidia-s-board-and-ceo-jensen-huang"
-        },
-        {
-          "source": "The Verge",
-          "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
         }
       ]
     },
@@ -492,16 +487,16 @@
     },
     {
       "rank": 10,
-      "title": "教宗良14世訪南美3國10城 行程3萬公里講演36場",
+      "title": "山林遺體は石川県の20代女性と確認 監禁後まもなく殺害か",
       "summary": [
-        "法廣RFI：教宗良14世訪南美3國10城 行程3萬公里講演36場"
+        "NHK新聞：山林遺體は石川県の20代女性と確認 監禁後まもなく殺害か"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "教宗良14世訪南美3國10城 行程3萬公里講演36場",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E5%88%86%E6%9E%90/20261108-%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E8%A8%AA%E5%8D%97%E7%BE%8E%E4%B8%89%E5%9C%8B%E5%8D%81%E5%9F%8E%E8%A1%8C%E7%A8%8B3%E8%90%AC%E5%85%AC%E9%87%8C%E7%99%BC%E8%A1%A836%E5%A0%B4%E6%BC%94%E8%AA%AA"
+          "source": "NHK新聞",
+          "title": "山林遺體は石川県の20代女性と確認 監禁後まもなく殺害か",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261109de72639"
         }
       ]
     }
