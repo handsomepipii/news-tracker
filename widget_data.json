@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-09 11:57",
+  "updated_at": "2026-11-09 13:04",
   "taiwan": [
     {
       "rank": 1,
-      "title": "埃及兩列火車追撞 至少4死88傷",
+      "title": "埃及2火車相撞脫軌翻覆 至少4死88傷",
       "summary": [
-        "經濟日報：埃及兩列火車追撞 至少4死88傷",
         "自由時報：埃及2火車相撞脫軌翻覆 至少4死88傷",
+        "經濟日報：埃及開羅以南火車追撞　數節車廂出軌至少7死112傷",
         "ETtoday：埃及火車追撞至少7死112傷　數節車廂嚴重出軌"
       ],
       "media_count": 5,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "埃及兩列火車追撞 至少4死88傷",
-          "url": "https://money.udn.com/money/story/5599/9865760"
-        },
-        {
           "source": "自由時報",
           "title": "埃及2火車相撞脫軌翻覆 至少4死88傷",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5633996"
+        },
+        {
+          "source": "經濟日報",
+          "title": "埃及開羅以南火車追撞　數節車廂出軌至少7死112傷",
+          "url": "https://money.udn.com/money/story/5599/9865848"
         },
         {
           "source": "ETtoday",
@@ -140,7 +140,7 @@
       "summary": [
         "ETtoday：臺灣成偷情聖地！　黃仁勳「出軌中國女間諜」時間軸一次看",
         "自由時報：臺媒意外立大功！黃仁勳認婚外情 胡採蘋起底中國女間諜背景",
-        "數位時代：黃仁勳遭中國間諜鎖定？曾在臺灣同桌喝酒，神秘女商人Alice Huang是誰？"
+        "數位時代：黃仁勳婚外情物件是中國間諜？Megaspeed是什麼公司、黃樂是誰？7大QA看懂輝達間諜疑雲"
       ],
       "media_count": 3,
       "links": [
@@ -156,8 +156,8 @@
         },
         {
           "source": "數位時代",
-          "title": "黃仁勳遭中國間諜鎖定？曾在臺灣同桌喝酒，神秘女商人Alice Huang是誰？",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdEJPcHRhMnNtUzVON24xWWxzTnp0S0FkYThQbXZzdGY1ZlBRaVVDbi1HVmFnY08zdTNWc1VzNjJVRkJuT09YbWlJcFlpSlVKcC0tQXgza1hWY19nei01T2ZKNnoyQkE5dGFTeUpQRlMwMkxXNUNVU2VjS2NnT1VMZHlwS0M?oc=5"
+          "title": "黃仁勳婚外情物件是中國間諜？Megaspeed是什麼公司、黃樂是誰？7大QA看懂輝達間諜疑雲",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTF6S3UwenhuUl9STjV0N1RhSGoxWkQ1aE9qdm52SURhTGcwN1BOdTNhaEtsYlBkV3JWMGJJNTZ3Wi1QbE1KM2Fwdld4alZyeThJOFZhM21kQk45eUJpdFBiMlNFcmhJODA0clh6YUxHS05qTTkxdldERHR3UVJjTXViSTlkR1U?oc=5"
         }
       ]
     },
@@ -190,27 +190,6 @@
     },
     {
       "rank": 7,
-      "title": "何欣純、蔡其昌走訪逢甲夜市 臺中「欣潮」儼然成形",
-      "summary": [
-        "自由時報：何欣純、蔡其昌走訪逢甲夜市 臺中「欣潮」儼然成形",
-        "ETtoday：兄弟休季海外訓練方向曝！彭政閔鎖日美機構　澳職、沖繩派遣喊卡"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "何欣純、蔡其昌走訪逢甲夜市 臺中「欣潮」儼然成形",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633989"
-        },
-        {
-          "source": "ETtoday",
-          "title": "兄弟休季海外訓練方向曝！彭政閔鎖日美機構　澳職、沖繩派遣喊卡",
-          "url": "https://sports.ettoday.net/news/3268505"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "期中選舉大勝　民主黨擬調查馬斯克、米勒及美國大企業",
       "summary": [
         "自由時報：期中選舉大勝　民主黨擬調查馬斯克、米勒及美國大企業",
@@ -231,7 +210,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "稱「垃圾車廣播挺蔣萬安」惹議廖玉蕙刪文了- 政治",
       "summary": [
         "中時新聞：稱「垃圾車廣播挺蔣萬安」惹議廖玉蕙刪文了- 政治",
@@ -252,7 +231,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "平時相見大不易　排燈節成印度人與親友團圓重要時刻",
       "summary": [
         "自由時報：平時相見大不易　排燈節成印度人與親友團圓重要時刻",
@@ -269,6 +248,27 @@
           "source": "經濟日報",
           "title": "平時相見大不易　排燈節成印度人與親友團圓重要時刻",
           "url": "https://money.udn.com/money/story/5599/9865859"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳認了共諜婚外情！向妻子員工道歉　輝達董事會啟動獨立調查",
+      "summary": [
+        "ETtoday：黃仁勳認了共諜婚外情！向妻子員工道歉　輝達董事會啟動獨立調查",
+        "中時新聞：黃仁勳認了婚外情！ 向妻子員工道歉輝達董事會啟動獨立調查- 國際"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳認了共諜婚外情！向妻子員工道歉　輝達董事會啟動獨立調查",
+          "url": "https://www.ettoday.net/news/20261109/3268666.htm"
+        },
+        {
+          "source": "中時新聞",
+          "title": "黃仁勳認了婚外情！ 向妻子員工道歉輝達董事會啟動獨立調查- 國際",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kTHFMUk5Ec2NUdVlQZ193WUl1N3pzdmlEczdCQ0FGWEJFNWVuQm9Vb0VuM3luc3lvTG5yYlV6bEN6RzMyZWJxRHQ4M24zT05OMndhUmVRaW84NnE0dFNUcGFSak9YbFZ4SklSemNB?oc=5"
         }
       ]
     }
@@ -366,22 +366,22 @@
     },
     {
       "rank": 4,
-      "title": "Top 5 stocks to watch this week",
+      "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
       "summary": [
-        "Investing.com：Top 5 stocks to watch this week",
-        "Yahoo Finance：Top 5 stocks to watch this week"
+        "Yahoo Finance：Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
+        "Investing.com：Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "Top 5 stocks to watch this week",
-          "url": "https://www.investing.com/news/stock-market-news/top-5-stocks-to-watch-this-week-5010257"
+          "source": "Yahoo Finance",
+          "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVdpWlRldmZmUS1Da0gxODh3UmMydEExd0ExS3dOQVVmYnlGaXdQSnVoSDJyV1Y5am0tbENoRjI2ZThYTks4V2ZGSlJNOTdZUTI2M19va1Z0djh2X0c5eWU5cFIyLWtQME9CUmJTYkdnYU9LY3FqZEFJYWFqVHVISHIyQ3B4aVlYb3JrRg?oc=5"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "Top 5 stocks to watch this week",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPakF3LVBBdVhLNnFsaXBNQWk0YUFXOXVKZ19YZjdac240Q0Q2VjZrUU5hUnhyc3FLcFhuNW1fRTZwaURhYi15Q2dLNzBMWW1fc2hGWnRBMThYZnltMHVlTzMxdnBleXRucnJKTl92ekcxQU42SVZvVXo0NDlMSlFMbm5jQVc2QnloNDRWbGNURHNRUQ?oc=5"
+          "source": "Investing.com",
+          "title": "Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him",
+          "url": "https://www.investing.com/news/stock-market-news/trump-calls-nvidias-huang-honorable-says-he-has-not-discussed-allegations-with-him-5010358"
         }
       ]
     },
@@ -450,52 +450,46 @@
     },
     {
       "rank": 8,
-      "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
+      "title": "美、中、俄三國首腦在深圳會晤？習近平的雄心與顧慮- 紐約時報中文網",
       "summary": [
-        "Yahoo Finance：Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
-        "Investing.com：Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him"
+        "紐約時報中文：美、中、俄三國首腦在深圳會晤？習近平的雄心與顧慮- 紐約時報中文網"
       ],
-      "media_count": 2,
+      "media_count": 1,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVdpWlRldmZmUS1Da0gxODh3UmMydEExd0ExS3dOQVVmYnlGaXdQSnVoSDJyV1Y5am0tbENoRjI2ZThYTks4V2ZGSlJNOTdZUTI2M19va1Z0djh2X0c5eWU5cFIyLWtQME9CUmJTYkdnYU9LY3FqZEFJYWFqVHVISHIyQ3B4aVlYb3JrRg?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him",
-          "url": "https://www.investing.com/news/stock-market-news/trump-calls-nvidias-huang-honorable-says-he-has-not-discussed-allegations-with-him-5010358"
+          "source": "紐約時報中文",
+          "title": "美、中、俄三國首腦在深圳會晤？習近平的雄心與顧慮- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pdDRuT1hTTTEtRzl1RUVkRDhrVWZQS2Nfd1ZPdS1SS21XWXFqU2prSjFhbFB0c1pKb1NJSHROSi1QVGpzRm5feWM3bkNWaW82Zm04aEZBU0ZHendiTmpKd0xQakVod1pnNURVNXY0SDUzZjZwdFB4Ym5wQlYzdVE?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "法國週末再示威 抗議者數量減少",
+      "title": "牆外文摘：黃之鋒再判10年，提早出獄的人交出了什麼？",
       "summary": [
-        "德國之聲：法國週末再示威 抗議者數量減少"
+        "德國之聲：牆外文摘：黃之鋒再判10年，提早出獄的人交出了什麼？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "德國之聲",
-          "title": "法國週末再示威 抗議者數量減少",
-          "url": "https://www.dw.com/zh/法国周末再示威-抗议者数量减少/a-79891873?maca=chi-rss-chi-all-1127-rdf"
+          "title": "牆外文摘：黃之鋒再判10年，提早出獄的人交出了什麼？",
+          "url": "https://www.dw.com/zh/墙外文摘：黄之锋再判10年，提早出狱的人交出了什么？/a-79892036?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+      "title": "小泉提打破陸海空自衛隊界限新組織架構 日外相擬巴黎會魯比奧",
       "summary": [
-        "The Guardian：Kenyan doomsday sect leader jailed for 200 years for murder of 190 children"
+        "法廣RFI：小泉提打破陸海空自衛隊界限新組織架構 日外相擬巴黎會魯比奧"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "The Guardian",
-          "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
-          "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
+          "source": "法廣RFI",
+          "title": "小泉提打破陸海空自衛隊界限新組織架構 日外相擬巴黎會魯比奧",
+          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261108-%E5%B0%8F%E6%B3%89%E6%8F%90%E6%89%93%E7%A0%B4%E9%99%B8%E6%B5%B7%E7%A9%BA%E8%87%AA%E8%A1%9B%E9%9A%8A%E7%95%8C%E9%99%90%E6%96%B0%E7%B5%84%E7%B9%94%E6%9E%B6%E6%A7%8B-%E6%97%A5%E5%A4%96%E7%9B%B8%E6%93%AC%E5%B7%B4%E9%BB%8E%E6%9C%83%E9%AD%AF%E6%AF%94%E5%A5%A7"
         }
       ]
     }
