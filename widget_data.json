@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 05:00",
+  "updated_at": "2026-11-10 05:56",
   "taiwan": [
     {
       "rank": 1,
@@ -45,48 +45,27 @@
     },
     {
       "rank": 3,
-      "title": "黃仁勳涉遭外國情報機構鎖定公司啟動調查，輝達盤後股價挫跌",
+      "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
       "summary": [
-        "科技新報：黃仁勳涉遭外國情報機構鎖定公司啟動調查，輝達盤後股價挫跌",
-        "經濟日報：黃仁勳涉遭外國情報機構鎖定公司啟動調查　輝達盤後股價挫跌"
+        "自由時報：男子駕車衝入白宮對面公園　遭特勤局逮捕",
+        "經濟日報：男子駕車衝入白宮對面公園　遭特勤局逮捕"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "科技新報",
-          "title": "黃仁勳涉遭外國情報機構鎖定公司啟動調查，輝達盤後股價挫跌",
-          "url": "https://finance.technews.tw/2026/11/09/jensen-huang-nvidia-investigation-foreign-intelligence-targeting-stock-drops/"
+          "source": "自由時報",
+          "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635101"
         },
         {
           "source": "經濟日報",
-          "title": "黃仁勳涉遭外國情報機構鎖定公司啟動調查　輝達盤後股價挫跌",
-          "url": "https://money.udn.com/money/story/123398/9867083"
+          "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
+          "url": "https://money.udn.com/money/story/5599/9868011"
         }
       ]
     },
     {
       "rank": 4,
-      "title": "波蘭6死15傷掃射案 槍手傷重不治",
-      "summary": [
-        "經濟日報：波蘭6死15傷掃射案 槍手傷重不治",
-        "公視新聞：波蘭槍手隨機掃射釀6死15傷 犯案前殺雙親、胞妹｜#公視新聞網 #Shorts ｜ 公視新聞 PNN"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "波蘭6死15傷掃射案 槍手傷重不治",
-          "url": "https://money.udn.com/money/story/5599/9867160"
-        },
-        {
-          "source": "公視新聞",
-          "title": "波蘭槍手隨機掃射釀6死15傷 犯案前殺雙親、胞妹｜#公視新聞網 #Shorts ｜ 公視新聞 PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuY2JaN0h0UXh5ejZHTlluUjNCYmZIa0N4MlFJRFI2RVg2Ymd0Tm9nWkVqcV9PaXJjaERiMVo0SE9JWEFIa1UtTERmTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "酷澎涉濫用餐飲外送市場主導地位，遭韓重罰 2.2 億美元",
       "summary": [
         "科技新報：酷澎涉濫用餐飲外送市場主導地位，遭韓重罰 2.2 億美元",
@@ -107,7 +86,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "易遊網遭駭 69 萬人個資外洩，業者：未涉及信用卡號",
       "summary": [
         "科技新報：易遊網遭駭 69 萬人個資外洩，業者：未涉及信用卡號",
@@ -128,7 +107,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "輝達與 SK 電信等韓企簽 MOU，未回應黃仁勳爭議",
       "summary": [
         "科技新報：輝達與 SK 電信等韓企簽 MOU，未回應黃仁勳爭議",
@@ -149,7 +128,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "股東受害個資外洩，力晶投控協助提告",
       "summary": [
         "財經新報：股東受害個資外洩，力晶投控協助提告",
@@ -170,7 +149,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "富國島旅行團爆登革熱群聚！2人返臺確診　同團11人匡列監測",
       "summary": [
         "ETtoday：富國島旅行團爆登革熱群聚！2人返臺確診　同團11人匡列監測",
@@ -191,7 +170,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "同欣電砸近20億元收購新加坡上市半導體測試廠 溢價129％",
       "summary": [
         "自由時報：同欣電砸近20億元收購新加坡上市半導體測試廠 溢價129％",
@@ -208,6 +187,27 @@
           "source": "公開資訊觀測站重訊",
           "title": "同欣電擬砸近20億元 收購新加坡環邦科技、轉型封測一站式整合服務商",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjdkJsOEFCSnNtblZCbnJzVV9TQ3FOYnlQcmhCZGhXZldhQk96U0J0UTduRXB3SFpfR1pnZ0xxUzVzZjNJRnFLVUxpTUs?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "羽球》高雄大師賽開戰 臺灣新生代拚主場榮耀",
+      "summary": [
+        "自由時報：羽球》高雄大師賽開戰 臺灣新生代拚主場榮耀",
+        "ETtoday：世青金牌男雙領銜捍衛主場！高雄羽球大師賽10日點燃戰火"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "羽球》高雄大師賽開戰 臺灣新生代拚主場榮耀",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5634943"
+        },
+        {
+          "source": "ETtoday",
+          "title": "世青金牌男雙領銜捍衛主場！高雄羽球大師賽10日點燃戰火",
+          "url": "https://sports.ettoday.net/news/3269230"
         }
       ]
     }
@@ -338,27 +338,6 @@
     },
     {
       "rank": 6,
-      "title": "黃仁勳與被指控的中國間諜的戀情對英偉達股票意味著什麼",
-      "summary": [
-        "CNBC：黃仁勳與被指控的中國間諜的戀情對英偉達股票意味著什麼",
-        "BBC中文：黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "黃仁勳與被指控的中國間諜的戀情對英偉達股票意味著什麼",
-          "url": "https://www.cnbc.com/investingclub/2026/11/08/jim-cramer-what-jensen-huangs-affair-with-an-accused-chinese-spy-means-for-nvidia-stock.html"
-        },
-        {
-          "source": "BBC中文",
-          "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
-          "url": "https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Jensen Huang’s Affair Sparks Nvidia Crisis",
       "summary": [
         "Bloomberg Tech：Jensen Huang’s Affair Sparks Nvidia Crisis",
@@ -379,7 +358,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "European shares rise on banking boost",
       "summary": [
         "Investing.com：European shares rise on banking boost",
@@ -400,7 +379,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Instagram’s AI age detection is expanding globally",
       "summary": [
         "The Verge：Instagram’s AI age detection is expanding globally",
@@ -421,7 +400,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Meta expands AI age checks for Instagram teens as lawsuits mount",
       "summary": [
         "Investing.com：Meta expands AI age checks for Instagram teens as lawsuits mount",
@@ -438,6 +417,27 @@
           "source": "Yahoo Finance",
           "title": "Meta expands AI age checks for Instagram teens as lawsuits mount",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1g0eDR0NWpEeEtsdXVMbjMxcFFsV1EwTFhJcllnd3NWOFIwN2l1S2RPZ0N2ZEVrM0xuYjhrY05Mck9xdWFqdzlvY2ZnODluallDTVF1UXJCbHV4OGhJbkFwT1pWV05jRHJENEppZGR0Rm4zTHFibkRiTi1jOGdvamJON3lQTWtFQzVkLUZxX3NxcElo?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Disney, Adobe to co-develop custom AI models tailored for media giant",
+      "summary": [
+        "Investing.com：Disney, Adobe to co-develop custom AI models tailored for media giant",
+        "The Verge：Disney and Adobe are building generative AI tools together"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Disney, Adobe to co-develop custom AI models tailored for media giant",
+          "url": "https://www.investing.com/news/stock-market-news/disney-adobe-to-codevelop-custom-ai-models-tailored-for-media-giant-5012009"
+        },
+        {
+          "source": "The Verge",
+          "title": "Disney and Adobe are building generative AI tools together",
+          "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership"
         }
       ]
     }
