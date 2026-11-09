@@ -1,8 +1,89 @@
 {
-  "updated_at": "2026-11-10 05:56",
+  "updated_at": "2026-11-10 06:47",
   "taiwan": [
     {
       "rank": 1,
+      "title": "川普質疑期中選舉正當性　再度指控選舉舞弊",
+      "summary": [
+        "自由時報：川普質疑期中選舉正當性　再度指控選舉舞弊",
+        "經濟日報：川普質疑期中選舉正當性　再度指控選舉舞弊",
+        "ETtoday：川普態度反轉！　控期中選舉舞弊"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川普質疑期中選舉正當性　再度指控選舉舞弊",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635084"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普質疑期中選舉正當性　再度指控選舉舞弊",
+          "url": "https://money.udn.com/money/story/5599/9867974"
+        },
+        {
+          "source": "ETtoday",
+          "title": "川普態度反轉！　控期中選舉舞弊",
+          "url": "https://www.ettoday.net/news/20261110/3269258.htm"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
+      "summary": [
+        "自由時報：男子駕車衝入白宮對面公園　遭特勤局逮捕",
+        "經濟日報：男子駕車衝入白宮對面公園　遭特勤局逮捕",
+        "ETtoday：1男開車衝撞白宮對面公園　遭特勤局逮捕"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635101"
+        },
+        {
+          "source": "經濟日報",
+          "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
+          "url": "https://money.udn.com/money/story/5599/9868011"
+        },
+        {
+          "source": "ETtoday",
+          "title": "1男開車衝撞白宮對面公園　遭特勤局逮捕",
+          "url": "https://www.ettoday.net/news/20261110/3269269.htm"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "易遊網遭駭「逾69萬人」個資外洩！ 姓名電話訂單恐外流業者籲慎防假客服詐騙",
+      "summary": [
+        "風傳媒：易遊網遭駭「逾69萬人」個資外洩！ 姓名電話訂單恐外流業者籲慎防假客服詐騙",
+        "工商時報：易遊網遭網攻！69萬人個資外洩官方：別點任何網址連結- 生活",
+        "TVBS新聞：易遊網遭駭！逾69萬人資料遭竊 業者警告：見網址連結別點"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "易遊網遭駭「逾69萬人」個資外洩！ 姓名電話訂單恐外流業者籲慎防假客服詐騙",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFOXdfaFNFVTJHaGd6NXNHb25xQTZDMEE1N1Jpb05JR2V5UXJXcEdVeEZzQlBRMFNGcW5zWTJMNlhZcDhsX0h4M19IbHhHOGNW?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "易遊網遭網攻！69萬人個資外洩官方：別點任何網址連結- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ENlQ0dGQzYTNqMllKSWU3cFg0cm5wOTJTTklydkh3NnlNLWIza044bVItNVp3UUdoeVZDMmpWVWxiS3MtYVN1U3NlYlpaTDF5UmFlcVNGc0Q3dUpyZG1R?oc=5"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "易遊網遭駭！逾69萬人資料遭竊 業者警告：見網址連結別點",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5McTZRcTFLT1ItLTFqLW5WWV9mRUpLbkNKbHNsd2VDVHVtaWNhcWpJNURsSWVQSlAwUktCT0c4SkR5TWRDSnFiVnYwVDhpdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "天氣/入秋最冷! 週二晨更凍 北部低溫僅15-18度｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20261109 @TVBSNEWS01",
       "summary": [
         "TVBS新聞：天氣/入秋最冷! 週二晨更凍 北部低溫僅15-18度｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20261109 @TVBSNEWS01",
@@ -23,133 +104,28 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "川普質疑期中選舉正當性　再度指控選舉舞弊",
-      "summary": [
-        "自由時報：川普質疑期中選舉正當性　再度指控選舉舞弊",
-        "經濟日報：川普質疑期中選舉正當性　再度指控選舉舞弊"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "川普質疑期中選舉正當性　再度指控選舉舞弊",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635084"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普質疑期中選舉正當性　再度指控選舉舞弊",
-          "url": "https://money.udn.com/money/story/5599/9867974"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
-      "summary": [
-        "自由時報：男子駕車衝入白宮對面公園　遭特勤局逮捕",
-        "經濟日報：男子駕車衝入白宮對面公園　遭特勤局逮捕"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635101"
-        },
-        {
-          "source": "經濟日報",
-          "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
-          "url": "https://money.udn.com/money/story/5599/9868011"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "酷澎涉濫用餐飲外送市場主導地位，遭韓重罰 2.2 億美元",
-      "summary": [
-        "科技新報：酷澎涉濫用餐飲外送市場主導地位，遭韓重罰 2.2 億美元",
-        "經濟日報：酷澎涉濫用餐飲外送市場主導地位　遭韓重罰2.2億美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "酷澎涉濫用餐飲外送市場主導地位，遭韓重罰 2.2 億美元",
-          "url": "https://technews.tw/2026/11/09/coupang-fined-220-million-south-korea-alleged-abuse-dominant-food-delivery-market-position/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "酷澎涉濫用餐飲外送市場主導地位　遭韓重罰2.2億美元",
-          "url": "https://money.udn.com/money/story/5599/9867327"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "易遊網遭駭 69 萬人個資外洩，業者：未涉及信用卡號",
+      "title": "科技股跌深反彈　歐股收高",
       "summary": [
-        "科技新報：易遊網遭駭 69 萬人個資外洩，業者：未涉及信用卡號",
-        "風傳媒：易遊網遭駭「逾69萬人」個資外洩！ 姓名電話訂單恐外流業者籲慎防假客服詐騙"
+        "自由時報：科技股跌深反彈　歐股收高",
+        "經濟日報：科技股跌深反彈　歐股收高"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "科技新報",
-          "title": "易遊網遭駭 69 萬人個資外洩，業者：未涉及信用卡號",
-          "url": "https://infosecu.technews.tw/2026/11/09/eztravel-hacked-690000-personal-data-records-leaked-company-says-credit-card-numbers-not-compromised/"
+          "source": "自由時報",
+          "title": "科技股跌深反彈　歐股收高",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5635086"
         },
         {
-          "source": "風傳媒",
-          "title": "易遊網遭駭「逾69萬人」個資外洩！ 姓名電話訂單恐外流業者籲慎防假客服詐騙",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFOXdfaFNFVTJHaGd6NXNHb25xQTZDMEE1N1Jpb05JR2V5UXJXcEdVeEZzQlBRMFNGcW5zWTJMNlhZcDhsX0h4M19IbHhHOGNW?oc=5"
+          "source": "經濟日報",
+          "title": "科技股跌深反彈　歐股收高",
+          "url": "https://money.udn.com/money/story/5599/9867981"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "輝達與 SK 電信等韓企簽 MOU，未回應黃仁勳爭議",
-      "summary": [
-        "科技新報：輝達與 SK 電信等韓企簽 MOU，未回應黃仁勳爭議",
-        "經濟日報：輝達與SK電信等韓企簽MOU　未回應黃仁勳爭議"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "輝達與 SK 電信等韓企簽 MOU，未回應黃仁勳爭議",
-          "url": "https://technews.tw/2026/11/09/nvidia-sk-telecom-korean-companies-mou-no-response-jensen-huang-controversy/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "輝達與SK電信等韓企簽MOU　未回應黃仁勳爭議",
-          "url": "https://money.udn.com/money/story/5599/9867245"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "股東受害個資外洩，力晶投控協助提告",
-      "summary": [
-        "財經新報：股東受害個資外洩，力晶投控協助提告",
-        "ETtoday：力晶投控股東疑受害個資外洩　公司協助提告"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "財經新報",
-          "title": "股東受害個資外洩，力晶投控協助提告",
-          "url": "https://finance.technews.tw/2026/11/09/pihc-stock-8/"
-        },
-        {
-          "source": "ETtoday",
-          "title": "力晶投控股東疑受害個資外洩　公司協助提告",
-          "url": "https://finance.ettoday.net/news/3269236"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "富國島旅行團爆登革熱群聚！2人返臺確診　同團11人匡列監測",
       "summary": [
         "ETtoday：富國島旅行團爆登革熱群聚！2人返臺確診　同團11人匡列監測",
@@ -170,7 +146,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "同欣電砸近20億元收購新加坡上市半導體測試廠 溢價129％",
       "summary": [
         "自由時報：同欣電砸近20億元收購新加坡上市半導體測試廠 溢價129％",
@@ -191,7 +167,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "羽球》高雄大師賽開戰 臺灣新生代拚主場榮耀",
       "summary": [
         "自由時報：羽球》高雄大師賽開戰 臺灣新生代拚主場榮耀",
@@ -210,70 +186,144 @@
           "url": "https://sports.ettoday.net/news/3269230"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "快訊／精英電腦爆內線交易　「西門町地王」父子遭搜尋約談",
+      "summary": [
+        "ETtoday：快訊／精英電腦爆內線交易　「西門町地王」父子遭搜尋約談",
+        "自由時報：涉精英電腦內線交易 西門町地王吳振隆、主機板教父蔣東濬北檢複訊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／精英電腦爆內線交易　「西門町地王」父子遭搜尋約談",
+          "url": "https://www.ettoday.net/news/20261109/3269181.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "涉精英電腦內線交易 西門町地王吳振隆、主機板教父蔣東濬北檢複訊",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5635082"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Google 第八代 TPU 再添兩款，聯手 AMD 打造安全與機密推論 TPU",
+      "summary": [
+        "科技新報：Google 第八代 TPU 再添兩款，聯手 AMD 打造安全與機密推論 TPU",
+        "INSIDE硬塞：Google證實TPU 8tx採用AMD主機CPU，第八代TPU新增至四個系統"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "Google 第八代 TPU 再添兩款，聯手 AMD 打造安全與機密推論 TPU",
+          "url": "https://technews.tw/2026/11/09/google-introduces-tpu-8tx-and-tpu-8i-max/"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "Google證實TPU 8tx採用AMD主機CPU，第八代TPU新增至四個系統",
+          "url": "https://www.inside.com.tw/article/42841-google-amd-tpu-8tx-8i-max-agentic-ai"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "What to Know About Nvidia CEO Jensen Huang’s Affair With Suspected Chinese Spy",
+      "title": "Instagram 的人工智慧年齡檢測正在全球擴充套件",
       "summary": [
-        "Bloomberg Tech：What to Know About Nvidia CEO Jensen Huang’s Affair With Suspected Chinese Spy",
-        "BBC World：What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-        "Washington Post：What to know about the Nvidia scandal and CEO Jensen Huang"
+        "The Verge：Instagram 的人工智慧年齡檢測正在全球擴充套件",
+        "Investing.com：隨著訴訟的增加，Meta 擴大了對 Instagram 青少年的人工智慧年齡檢查",
+        "Yahoo Finance：隨著訴訟的增加，Meta 擴大了對 Instagram 青少年的人工智慧年齡檢查"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "What to Know About Nvidia CEO Jensen Huang’s Affair With Suspected Chinese Spy",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-09/what-to-know-about-nvidia-ceo-jensen-huang-s-affair-with-suspected-chinese-spy"
+          "source": "The Verge",
+          "title": "Instagram 的人工智慧年齡檢測正在全球擴充套件",
+          "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion"
         },
         {
-          "source": "BBC World",
-          "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-          "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss"
+          "source": "Investing.com",
+          "title": "隨著訴訟的增加，Meta 擴大了對 Instagram 青少年的人工智慧年齡檢查",
+          "url": "https://www.investing.com/news/stock-market-news/meta-expands-ai-age-checks-for-instagram-teens-as-lawsuits-mount-5011999"
         },
         {
-          "source": "Washington Post",
-          "title": "What to know about the Nvidia scandal and CEO Jensen Huang",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaXZvUkpkcjVhSW5ac1dXOGIwOTkxNTJhOVFEYlJFWF83SGNRSFJOOTdhaWVYOG40SDZ2RTBCYTNwYW9yanoxbkxuSDd6NTVNeG9yZmdIN0RoM0xVcE1QNk4yM3BNbW53aDZWWVVqMWJGZEZpanJDcjBUcl8zQjU1WmlEUl8zT2FrclVLSnVsUGhHbUc3MGNKQVBqMUprWHFMY0Jz?oc=5"
+          "source": "Yahoo Finance",
+          "title": "隨著訴訟的增加，Meta 擴大了對 Instagram 青少年的人工智慧年齡檢查",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1g0eDR0NWpEeEtsdXVMbjMxcFFsV1EwTFhJcllnd3NWOFIwN2l1S2RPZ0N2ZEVrM0xuYjhrY05Mck9xdWFqdzlvY2ZnODluallDTVF1UXJCbHV4OGhJbkFwT1pWV05jRHJENEppZGR0Rm4zTHFibkRiTi1jOGdvamJON3lQTWtFQzVkLUZxX3NxcElo?oc=5"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Meta 在全球擴充套件 Instagram 的人工智慧年齡猜測技術",
+          "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+      "title": "英偉達執行長黃仁勳承認與中國間諜嫌疑犯有染",
       "summary": [
-        "CNBC：Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
-        "Yahoo Finance：Nvidia stock sinks 5% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-        "Nikkei Asia：Nvidia shares drop as Jensen Huang affair raises China spy concerns"
+        "Bloomberg Markets：英偉達執行長黃仁勳承認與中國間諜嫌疑犯有染",
+        "Tom's Hardware：英偉達執行長黃仁勳因涉嫌與中國間諜有染而被國會傳喚",
+        "Yahoo Finance：英偉達的黃仁勳承認與疑似中國間諜有染，引發安全疑慮"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "CNBC",
-          "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
-          "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"
+          "source": "Bloomberg Markets",
+          "title": "英偉達執行長黃仁勳承認與中國間諜嫌疑犯有染",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-09/the-pulse-11-9-2026-video"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "英偉達執行長黃仁勳因涉嫌與中國間諜有染而被國會傳喚",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Nvidia stock sinks 5% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObWVFY2cxQURmMnJ2aWFxSlRfeFJzeGJDOEhxbjVqUWVpMU96Mm4wcFNBVG5BaVdBZUIwYnN3WXNsWEZld000V1ZrMl9SR0pVZFB0a21rTUV1U3NJajhTUTN6bjBmVmtIQmhtRWxyV1dyemhvcDFrT1J5TmItcGJyVmt6VGY0VW9nZVBVZ2RIalNEOUhKRGRybVgtdzBPMkpzRTBicXpTaGw3c29vUXhiR21hVmVlWk10NzgySGJwbV9MSWpLeXVpT2hJT1FqU05XTXlZMGQwS285QlhudnBJdkhrMGlRbVJsX0h5alBn?oc=5"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "Nvidia shares drop as Jensen Huang affair raises China spy concerns",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUMza2VFbHk1ZUVhakFoVUw4TjFEVmlWNlFOUWNRcExWVkE4RkdlTlFmNUFlZXpEcGlBd3I0LUxZSHExdVRXdFJodHdrcDBvT3kwLVBHOVVIbHBDb1B2dk5jVERXSTY0SUVURTAyeW9XTUVnSkpWU280Vnl4X0d5eFJSVkdOTUV2dW5DTUtxa3BXMExPTHNQZUtib0RhdGR2WG13VWJXa3RNRFFI?oc=5"
+          "title": "英偉達的黃仁勳承認與疑似中國間諜有染，引發安全疑慮",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaFdNWVk4eVg4NGtBM0h5TzJBM0J1NkhmRGZsT1ZfbEJTSmxiU2trOE9WVUlack9sMnlRM1NDUlN5LVFLdE9uT0dGNFhTb0RFbm9GVWdLZktzUDk0bzZuclo3VDFtbFo3Tk96bmpLUWFRdHh1X1FLQ0xGaHFNRDhfcjNoS2c3cEJDLU5VQUtnVGhVZHdhOGlOQlhhaWJNMTBlMjkxeUtYbFN0ZTZzVG96WURfNEJHcmlpclpNUVlUM0Q4WjU0UmN4MTYzeHc2VHp5Ukxn?oc=5"
         }
       ]
     },
     {
       "rank": 3,
+      "title": "法國指責伊朗超市冰箱遭駭客攻擊",
+      "summary": [
+        "BBC World：法國指責伊朗超市冰箱遭駭客攻擊",
+        "Financial Times：法國指責伊朗對超市冰箱進行網路攻擊",
+        "TechCrunch：法國指責伊朗針對雜貨店和血庫的冰櫃進行大規模駭客攻擊"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "法國指責伊朗超市冰箱遭駭客攻擊",
+          "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Financial Times",
+          "title": "法國指責伊朗對超市冰箱進行網路攻擊",
+          "url": "https://www.ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255?syn-25a6b1a6=1"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "法國指責伊朗針對雜貨店和血庫的冰櫃進行大規模駭客攻擊",
+          "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Anthropic 在 IPO 前推出 Fable 5.2 和 Mythos 5.2 人工智慧模型",
       "summary": [
         "Investing.com：Anthropic 在 IPO 前推出 Fable 5.2 和 Mythos 5.2 人工智慧模型",
         "The Verge：Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型號",
-        "Yahoo Finance：Anthropic debuts Claude Fable 5.2 and Mythos 5.2 models as IPO nears"
+        "Yahoo Finance：隨著 IPO 融資，Anthropic 推出了 Claude Fable 5.2 和 Mythos 5.2 模型"
       ],
       "media_count": 3,
       "links": [
@@ -289,155 +339,134 @@
         },
         {
           "source": "Yahoo Finance",
-          "title": "Anthropic debuts Claude Fable 5.2 and Mythos 5.2 models as IPO nears",
+          "title": "隨著 IPO 融資，Anthropic 推出了 Claude Fable 5.2 和 Mythos 5.2 模型",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORUxtR3VZQVJjcnhWLW1rb3RBdG1vMlFJRlpGeG9iTmdtZ0RrVTBDRkJITUQtM3FjZkhrZHQtb3J4cGNsLUs0SllMR05JcENTWFVOZjJLUUM0c0k2aXlhZGJKNFdnUFd2ZUVtcmp3WWdudFhpWG41by11a3lDZWI1b3Z1VHppTzBteEt4amNJeXc0Y0diSkxnMUdGeVVwNXQ2Y3RUeC1qS3V6cU04eUJtUUg2WHBPVk5pWXB5Vlp1YktpOWxY?oc=5"
         }
       ]
     },
     {
-      "rank": 4,
-      "title": "Nvidia CEO Jensen Huang Admits Affair With Suspected Chinese Spy",
+      "rank": 5,
+      "title": "為什麼巴里克礦業股票今天上漲？",
       "summary": [
-        "Bloomberg Markets：Nvidia CEO Jensen Huang Admits Affair With Suspected Chinese Spy",
-        "Yahoo Finance：Nvidia's Jensen Huang admits to affair with suspected Chinese spy, raising security concerns"
+        "Investing.com：為什麼巴里克礦業股票今天上漲？",
+        "Yahoo Finance：為什麼交易股票今天飆升"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "Nvidia CEO Jensen Huang Admits Affair With Suspected Chinese Spy",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-09/the-pulse-11-9-2026-video"
+          "source": "Investing.com",
+          "title": "為什麼巴里克礦業股票今天上漲？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-barrick-mining-stock-rallying-today-93CH-5012178"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Nvidia's Jensen Huang admits to affair with suspected Chinese spy, raising security concerns",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaFdNWVk4eVg4NGtBM0h5TzJBM0J1NkhmRGZsT1ZfbEJTSmxiU2trOE9WVUlack9sMnlRM1NDUlN5LVFLdE9uT0dGNFhTb0RFbm9GVWdLZktzUDk0bzZuclo3VDFtbFo3Tk96bmpLUWFRdHh1X1FLQ0xGaHFNRDhfcjNoS2c3cEJDLU5VQUtnVGhVZHdhOGlOQlhhaWJNMTBlMjkxeUtYbFN0ZTZzVG96WURfNEJHcmlpclpNUVlUM0Q4WjU0UmN4MTYzeHc2VHp5Ukxn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Boeing to cut 5% of commercial airplane workforce as production increase is slower than expected",
-      "summary": [
-        "CNBC：Boeing to cut 5% of commercial airplane workforce as production increase is slower than expected",
-        "Investing.com：Boeing to cut 5% of planemaking division’s workforce, Seattle Times reports"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "Boeing to cut 5% of commercial airplane workforce as production increase is slower than expected",
-          "url": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Boeing to cut 5% of planemaking division’s workforce, Seattle Times reports",
-          "url": "https://www.investing.com/news/stock-market-news/boeing-to-cut-5-of-planemaking-divisions-workforce-seattle-times-reports-5012939"
+          "title": "為什麼交易股票今天飆升",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVXNrbU10emt4dk5lMUVvMll1cGNWbUltaWR4TkZ4OU5JQWtsbEJCVTdEbmlBZDNGeHRUdnRVaHVDRzl5blF3UGVDOUlTd1lUWG92aEtVRU8tdkNLRkdoVEJKV0hjWlBqcF93SFhjZ2lxaFV3YU5HUkc2U19wdzRDR3VIWjZEQTNKMEdmalA4MXFsQnRnLTNVWnpOU2trdw?oc=5"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "Jensen Huang’s Affair Sparks Nvidia Crisis",
+      "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
       "summary": [
-        "Bloomberg Tech：Jensen Huang’s Affair Sparks Nvidia Crisis",
-        "Yahoo Finance：Nvidia CEO Jensen Huang's debacle highlights this one glaring issue"
+        "BBC中文：黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
+        "BBC World：英偉達調查中心的涉嫌中國間諜是誰？"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "Jensen Huang’s Affair Sparks Nvidia Crisis",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-09/jensen-huang-s-affair-sparks-nvidia-crisis-video"
+          "source": "BBC中文",
+          "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
+          "url": "https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "Nvidia CEO Jensen Huang's debacle highlights this one glaring issue",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZjQxU1NGcmJlVEtVeW1XNHhtUHhIRk5RVGVnVFpkRHBFX0NQRDRyX0ZrSjBHdWdUTllCOGxYbkxGRE5BNFNXN1JfcjM3clo2QXVGdUtZYnhqVkxjTUc4ZDlfcXRIM0NZeS1UTE9rUGxMZmozLXdHVm5Kbmx1eHFFWXh4OU8zQTBIaGJhM0J2dzFrWnBSc0h2TVIwdzlxNW1nUmlidmZEOVppSl94YXNjbmJXRmZESGd5OVZCYXpzSUVISXl6V21fT3ZB?oc=5"
+          "source": "BBC World",
+          "title": "英偉達調查中心的涉嫌中國間諜是誰？",
+          "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "European shares rise on banking boost",
+      "title": "迪士尼和 Adob​​e 將共同開發為媒體巨頭量身定製的客製化人工智慧模型",
       "summary": [
-        "Investing.com：European shares rise on banking boost",
-        "Bloomberg Markets：European Stocks Rise as Banking and Technology Sectors Advance"
+        "Investing.com：迪士尼和 Adob​​e 將共同開發為媒體巨頭量身定製的客製化人工智慧模型",
+        "The Verge：迪士尼和 Adob​​e 正在共同建立生成式 AI 工具"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Investing.com",
-          "title": "European shares rise on banking boost",
-          "url": "https://www.investing.com/news/stock-market-news/europe-shares-tread-water-as-investors-weigh-ai-trade-banks-in-focus-5010733"
+          "title": "迪士尼和 Adob​​e 將共同開發為媒體巨頭量身定製的客製化人工智慧模型",
+          "url": "https://www.investing.com/news/stock-market-news/disney-adobe-to-codevelop-custom-ai-models-tailored-for-media-giant-5012009"
         },
         {
-          "source": "Bloomberg Markets",
-          "title": "European Stocks Rise as Banking and Technology Sectors Advance",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-09/european-stocks-rise-as-banks-technology-shares-advance"
+          "source": "The Verge",
+          "title": "迪士尼和 Adob​​e 正在共同建立生成式 AI 工具",
+          "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "Instagram’s AI age detection is expanding globally",
+      "title": "馬斯克稱特斯拉將退還部分賽博卡車押金，並為終止生產的決定辯護",
       "summary": [
-        "The Verge：Instagram’s AI age detection is expanding globally",
-        "TechCrunch：Meta expands Instagram’s AI age-guessing tech globally"
+        "TechCrunch：馬斯克稱特斯拉將退還部分賽博卡車押金，並為終止生產的決定辯護",
+        "Yahoo Finance：馬斯克稱特斯拉在取消賽博卡車押金後將面臨困境"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "The Verge",
-          "title": "Instagram’s AI age detection is expanding globally",
-          "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion"
+          "source": "TechCrunch",
+          "title": "馬斯克稱特斯拉將退還部分賽博卡車押金，並為終止生產的決定辯護",
+          "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/"
         },
         {
-          "source": "TechCrunch",
-          "title": "Meta expands Instagram’s AI age-guessing tech globally",
-          "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/"
+          "source": "Yahoo Finance",
+          "title": "馬斯克稱特斯拉在取消賽博卡車押金後將面臨困境",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNHdjbEdIODhiQTU5OG1xV0pQd0ZQSW44di1EWEZGcmduQXZSX3lxRkY4dFBJTmtHOWx6N0pHUE03dUlfN2ZFT0VmcERQTS1oZTNkYWV1bzh4VjN4V254OGFSTEV0akYzdjRTVEVHbFB2N1RxczgwWWItdkh4X0tOOWpNVEF0TGZlZ0o4VDU0d1Jsc0FKbXd0c3BKdlpia29MRTJNNms0bnk2anpJcU5TRFlveGdwNnVuQ0M0YTJha291RnFNb2xuV1pJbGE1cmc?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "Meta expands AI age checks for Instagram teens as lawsuits mount",
+      "title": "縮小人工智慧泡沫：為什麼技術重置正是市場所需要的",
       "summary": [
-        "Investing.com：Meta expands AI age checks for Instagram teens as lawsuits mount",
-        "Yahoo Finance：Meta expands AI age checks for Instagram teens as lawsuits mount"
+        "Investing.com：縮小人工智慧泡沫：為什麼技術重置正是市場所需要的",
+        "Bloomberg Tech：人工智慧主題完好無損，但市場週期已經改變：託馬斯"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Investing.com",
-          "title": "Meta expands AI age checks for Instagram teens as lawsuits mount",
-          "url": "https://www.investing.com/news/stock-market-news/meta-expands-ai-age-checks-for-instagram-teens-as-lawsuits-mount-5011999"
+          "title": "縮小人工智慧泡沫：為什麼技術重置正是市場所需要的",
+          "url": "https://www.investing.com/news/stock-market-news/deflating-the-ai-bubble-why-a-tech-reset-is-exactly-what-markets-need-5012379"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "Meta expands AI age checks for Instagram teens as lawsuits mount",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1g0eDR0NWpEeEtsdXVMbjMxcFFsV1EwTFhJcllnd3NWOFIwN2l1S2RPZ0N2ZEVrM0xuYjhrY05Mck9xdWFqdzlvY2ZnODluallDTVF1UXJCbHV4OGhJbkFwT1pWV05jRHJENEppZGR0Rm4zTHFibkRiTi1jOGdvamJON3lQTWtFQzVkLUZxX3NxcElo?oc=5"
+          "source": "Bloomberg Tech",
+          "title": "人工智慧主題完好無損，但市場週期已經改變：託馬斯",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-09/ai-theme-intact-but-market-cycle-has-changed-thomas-video"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "Disney, Adobe to co-develop custom AI models tailored for media giant",
+      "title": "歐盟計畫打擊令人上癮的社群媒體和人工智慧機器人功能",
       "summary": [
-        "Investing.com：Disney, Adobe to co-develop custom AI models tailored for media giant",
-        "The Verge：Disney and Adobe are building generative AI tools together"
+        "Bloomberg Tech：歐盟計畫打擊令人上癮的社群媒體和人工智慧機器人功能",
+        "Investing.com：歐盟起草針對令人上癮的社群媒體功能和人工智慧聊天機器人的限制措施"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "Disney, Adobe to co-develop custom AI models tailored for media giant",
-          "url": "https://www.investing.com/news/stock-market-news/disney-adobe-to-codevelop-custom-ai-models-tailored-for-media-giant-5012009"
+          "source": "Bloomberg Tech",
+          "title": "歐盟計畫打擊令人上癮的社群媒體和人工智慧機器人功能",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/eu-plans-crackdown-on-addictive-social-media-and-ai-bot-features"
         },
         {
-          "source": "The Verge",
-          "title": "Disney and Adobe are building generative AI tools together",
-          "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership"
+          "source": "Investing.com",
+          "title": "歐盟起草針對令人上癮的社群媒體功能和人工智慧聊天機器人的限制措施",
+          "url": "https://www.investing.com/news/stock-market-news/eu-drafts-curbs-targeting-addictive-social-media-features-and-ai-chatbots--report-5012845"
         }
       ]
     }
