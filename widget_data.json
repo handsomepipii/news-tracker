@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 08:10",
+  "updated_at": "2026-11-09 09:52",
   "taiwan": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
         "自由時報：埃及2火車相撞脫軌翻覆 至少4死88傷",
         "ETtoday：埃及火車追撞至少7死112傷　數節車廂嚴重出軌"
       ],
-      "media_count": 3,
+      "media_count": 5,
       "links": [
         {
           "source": "經濟日報",
@@ -25,38 +25,90 @@
           "source": "ETtoday",
           "title": "埃及火車追撞至少7死112傷　數節車廂嚴重出軌",
           "url": "https://www.ettoday.net/news/20261109/3268665.htm"
+        },
+        {
+          "source": "公視新聞",
+          "title": "埃及火車追撞至少7死125傷 同路段3度出事「籲交長下臺」",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01VkcwMkxiOGhFS2xHUzBFcHVpU3MxelJ2cmNnUGM4cm8zcTNLMXNBdXMtNzd3WUdZUG9DUzY5MFk3UFFGMFhjUWlwanQyM1U?oc=5"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "埃及列車追撞 多節車廂出軌釀7死.112傷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tMFo2azU1dmREY05BbzFCWUpKbm9lakhZUmZJUURXZjBjZUJkVThNX1E2TTM1NmhteDRXOE0xRGZYSWFac1pWV3diRDZzNlhNb0FmWUdR?oc=5"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "天氣/入秋最強冷空氣今晚報到 北宜降溫逾10度轉濕冷 冬衣出籠! 週二最冷清晨區域性探15度｜TVBS新聞 @TVBSNEWS01",
+      "title": "黃仁勳坦承與中國女間諜有婚外情 輝達展開調查",
       "summary": [
-        "TVBS新聞：天氣/入秋最強冷空氣今晚報到 北宜降溫逾10度轉濕冷 冬衣出籠! 週二最冷清晨區域性探15度｜TVBS新聞 @TVBSNEWS01",
-        "風傳媒：天氣預報/入冬最強冷空氣來了！這天起「低溫下探15度」，2波變天轉濕涼， 下週天氣一次看",
-        "ETtoday：「入秋最強」今越晚越冷探15℃　全臺有感降溫"
+        "經濟日報：黃仁勳坦承與中國女間諜有婚外情 輝達展開調查",
+        "自由時報：震撼！黃仁勳坦承婚外情與女共諜有染 輝達董事會啟動調查",
+        "科技新報：黃仁勳承認婚外情！輝達董事會立案獨立調查中國間諜滲透事件"
       ],
-      "media_count": 3,
+      "media_count": 5,
       "links": [
         {
-          "source": "TVBS新聞",
-          "title": "天氣/入秋最強冷空氣今晚報到 北宜降溫逾10度轉濕冷 冬衣出籠! 週二最冷清晨區域性探15度｜TVBS新聞 @TVBSNEWS01",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04ek51ODBhMlF6a0NOOWJvUlU5bTFZLWdBYUVacWRmbmtBQUVWY3IyMmlyQmc2MWV4OWh4RjBoMWp3UE5VOHdjN2lwSmVoWk1GY1JzaGtn?oc=5"
+          "source": "經濟日報",
+          "title": "黃仁勳坦承與中國女間諜有婚外情 輝達展開調查",
+          "url": "https://money.udn.com/money/story/123398/9865861"
         },
         {
-          "source": "風傳媒",
-          "title": "天氣預報/入冬最強冷空氣來了！這天起「低溫下探15度」，2波變天轉濕涼， 下週天氣一次看",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tRnNtNGt6ZjdDX2RzRU5xU0VicDdQMjE0cWJYS1pzaWZQSVNjTG9IRHhBQXdLSXVSSHJKTWlUUklpWVZLTS10T0FVN01zb19Y?oc=5"
+          "source": "自由時報",
+          "title": "震撼！黃仁勳坦承婚外情與女共諜有染 輝達董事會啟動調查",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5634032"
         },
         {
-          "source": "ETtoday",
-          "title": "「入秋最強」今越晚越冷探15℃　全臺有感降溫",
-          "url": "https://www.ettoday.net/news/20261109/3268670.htm"
+          "source": "科技新報",
+          "title": "黃仁勳承認婚外情！輝達董事會立案獨立調查中國間諜滲透事件",
+          "url": "https://finance.technews.tw/2026/11/09/jensen-huang-admits-to-extramarital-affair/"
+        },
+        {
+          "source": "數位時代",
+          "title": "黃仁勳坦承婚外情，物件疑涉中國間諜！輝達啟動獨立調查",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONVdaMlBQVGJ4d2lIUzQzcjBfRVdENV85WDhfZ1JxMXNfaUlkZzhaNTNINk9FMUcyX3VNSkJKVmVrYjNOeTJ0S1ZKX0VReWFWX29jbmpsa3R0NUdwOEhoRkVic3J4RWd2bVd4cUFFdFZtY2FrX3l2MXNCX0FCbDVvMEVGT1Q5aVpsb3gxVlJRMzQxNGc?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "黃仁勳婚外情風暴傳物件是中國間諜輝達董事會啟動獨立調查- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uRC1hZU1LR09YV1ZKanJaVkRYRTJKTkFQVHZ5VUM5RUtCc1ByOGdXZkVMT3M3Tno3bjZfak00bldTRGptWlV3NnM1WjZWUm1mUHA3VjlBcHBjdkhzWTdj?oc=5"
         }
       ]
     },
     {
       "rank": 3,
+      "title": "紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
+      "summary": [
+        "自由時報：紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
+        "經濟日報：紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
+        "ETtoday：紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5634030"
+        },
+        {
+          "source": "經濟日報",
+          "title": "紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
+          "url": "https://money.udn.com/money/story/5599/9865869"
+        },
+        {
+          "source": "ETtoday",
+          "title": "紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
+          "url": "https://www.ettoday.net/news/20261109/3268669.htm"
+        },
+        {
+          "source": "科技新報",
+          "title": "紐時：川普訪北京前，盧比歐示警黃仁勳與中國間諜關係密切",
+          "url": "https://technews.tw/2026/11/09/nyt-trump-beijing-visit-rubio-warns-jensen-huang-chinese-spies-ties/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "川普：若談判取得進展就不太可能下令攻擊伊朗",
       "summary": [
         "自由時報：川普：若談判取得進展就不太可能下令攻擊伊朗",
@@ -83,56 +135,23 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "黃仁勳坦承與中國女間諜有婚外情 輝達展開調查",
-      "summary": [
-        "經濟日報：黃仁勳坦承與中國女間諜有婚外情 輝達展開調查",
-        "自由時報：震撼！黃仁勳坦承婚外情與女共諜有染 輝達董事會啟動調查",
-        "科技新報：黃仁勳承認婚外情！輝達董事會立案獨立調查中國間諜滲透事件"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳坦承與中國女間諜有婚外情 輝達展開調查",
-          "url": "https://money.udn.com/money/story/123398/9865861"
-        },
-        {
-          "source": "自由時報",
-          "title": "震撼！黃仁勳坦承婚外情與女共諜有染 輝達董事會啟動調查",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5634032"
-        },
-        {
-          "source": "科技新報",
-          "title": "黃仁勳承認婚外情！輝達董事會立案獨立調查中國間諜滲透事件",
-          "url": "https://finance.technews.tw/2026/11/09/jensen-huang-admits-to-extramarital-affair/"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
+      "title": "天氣預報/入冬最強冷空氣來了！這天起「低溫下探15度」，2波變天轉濕涼， 下週天氣一次看",
       "summary": [
-        "自由時報：紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
-        "經濟日報：紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
-        "ETtoday：紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切"
+        "風傳媒：天氣預報/入冬最強冷空氣來了！這天起「低溫下探15度」，2波變天轉濕涼， 下週天氣一次看",
+        "ETtoday：「入秋最強」今越晚越冷探15℃　全臺有感降溫"
       ],
-      "media_count": 3,
+      "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5634030"
-        },
-        {
-          "source": "經濟日報",
-          "title": "紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
-          "url": "https://money.udn.com/money/story/5599/9865869"
+          "source": "風傳媒",
+          "title": "天氣預報/入冬最強冷空氣來了！這天起「低溫下探15度」，2波變天轉濕涼， 下週天氣一次看",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tRnNtNGt6ZjdDX2RzRU5xU0VicDdQMjE0cWJYS1pzaWZQSVNjTG9IRHhBQXdLSXVSSHJKTWlUUklpWVZLTS10T0FVN01zb19Y?oc=5"
         },
         {
           "source": "ETtoday",
-          "title": "紐時：川普訪北京前　盧比歐示警黃仁勳與中國間諜關係密切",
-          "url": "https://www.ettoday.net/news/20261109/3268669.htm"
+          "title": "「入秋最強」今越晚越冷探15℃　全臺有感降溫",
+          "url": "https://www.ettoday.net/news/20261109/3268670.htm"
         }
       ]
     },
@@ -159,48 +178,6 @@
     },
     {
       "rank": 7,
-      "title": "我金控海外曝險33.04兆創史上新高 美國穩居龍頭",
-      "summary": [
-        "自由時報：我金控海外曝險33.04兆創史上新高 美國穩居龍頭",
-        "工商時報：金控海外曝險衝破33.04兆元創歷史新高！美國穩居第1、日本成大黑馬- 金融"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "我金控海外曝險33.04兆創史上新高 美國穩居龍頭",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5633914"
-        },
-        {
-          "source": "工商時報",
-          "title": "金控海外曝險衝破33.04兆元創歷史新高！美國穩居第1、日本成大黑馬- 金融",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uS0QtMy05cjRfVzBJTTVlWURrQnZSNmY5WHh5SEtjOTBJNGs5V3ZveDFJeUo2UE82MDVnSmFrTkUzdDdPN3Y1UkNqRWFOdl9jSnE3c3RWaGhxeDQ4c1lR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "川普：命令司法部調查民主黨威脅行徑",
-      "summary": [
-        "鉅亨網：川普：命令司法部調查民主黨威脅行徑",
-        "自由時報：國家機器動起來？川普控訴民主黨威脅共和黨人 下令司法部調查"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "鉅亨網",
-          "title": "川普：命令司法部調查民主黨威脅行徑",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MYnl2b1NjVkk4RjJMVWVBQjhKN21IbF9WQXpxcnJJQld5UTU4V3Fnc3otd3pPeFlIand2M2R1UE4zWU50S2pRM3BCRzBSdlU?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "國家機器動起來？川普控訴民主黨威脅共和黨人 下令司法部調查",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5633936"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "出了什麼事？黃仁勳長女因家庭因素取消訪韓多項合作行程喊卡- 國際",
       "summary": [
         "工商時報：出了什麼事？黃仁勳長女因家庭因素取消訪韓多項合作行程喊卡- 國際",
@@ -221,7 +198,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "118海巡節救援告捷！嘉義外傘頂洲舢舨翻覆 2漁民平安脫困",
       "summary": [
         "自由時報：118海巡節救援告捷！嘉義外傘頂洲舢舨翻覆 2漁民平安脫困",
@@ -238,6 +215,48 @@
           "source": "ETtoday",
           "title": "嘉義外傘頂洲「舢舨翻覆」2人受困沙洲　海巡搶漲潮前救人",
           "url": "https://www.ettoday.net/news/20261108/3268636.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "稱「垃圾車廣播挺蔣萬安」惹議廖玉蕙刪文了- 政治",
+      "summary": [
+        "中時新聞：稱「垃圾車廣播挺蔣萬安」惹議廖玉蕙刪文了- 政治",
+        "ETtoday：控垃圾車廣播「市長選舉請支援蔣萬安」挨轟！廖玉蕙悄刪文了"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "稱「垃圾車廣播挺蔣萬安」惹議廖玉蕙刪文了- 政治",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fd0l3MkJFSzJwSGNnOGxpblBKRjZScmlvUmJwZ0Rma0JNMzhaUGhGT3BqU3hQbHhfbnFiaVR2dTJKS2Raak5HcGNwVHhOY2JkR29GSXZEdEdLbEY2Qk5Bel82bC1uU05HZW01ck5R?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "控垃圾車廣播「市長選舉請支援蔣萬安」挨轟！廖玉蕙悄刪文了",
+          "url": "https://www.ettoday.net/news/20261109/3268658.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "平時相見大不易　排燈節成印度人與親友團圓重要時刻",
+      "summary": [
+        "自由時報：平時相見大不易　排燈節成印度人與親友團圓重要時刻",
+        "經濟日報：平時相見大不易　排燈節成印度人與親友團圓重要時刻"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "平時相見大不易　排燈節成印度人與親友團圓重要時刻",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5634029"
+        },
+        {
+          "source": "經濟日報",
+          "title": "平時相見大不易　排燈節成印度人與親友團圓重要時刻",
+          "url": "https://money.udn.com/money/story/5599/9865859"
         }
       ]
     }
@@ -314,27 +333,6 @@
     },
     {
       "rank": 3,
-      "title": "Anthropic reportedly strikes $3.4 billion deal for gas-fired power at data centres",
-      "summary": [
-        "Investing.com：Anthropic reportedly strikes $3.4 billion deal for gas-fired power at data centres",
-        "Yahoo Finance：Anthropic reportedly strikes $3.4 billion deal for gas-fired power at data centres"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Anthropic reportedly strikes $3.4 billion deal for gas-fired power at data centres",
-          "url": "https://www.investing.com/news/stock-market-news/anthropic-reportedly-strikes-34-billion-deal-for-gasfired-power-at-data-centres-5010208"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Anthropic reportedly strikes $3.4 billion deal for gas-fired power at data centres",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNTFVVk9fLXhyRU1WVWdfbWFYRGRWdWQ4ak1QY29DRmNjWFZfTU5icnh3OW9LeHJveEtVT2hyT3Frd1ItSmFVeDdsREYwRkI3RWJXdGp5WXVYUU5BRnQzMlk0WS1zeTV2MXR0TEQwcjY4UmYxM3RudWRqYmtkcm9ETlBNVEJ0Z0tDQm9pN2NJd2tmdDg?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Nvidia Board to Probe Spying Case After CEO Jensen Huang Admits Infidelity",
       "summary": [
         "Bloomberg Tech：Nvidia Board to Probe Spying Case After CEO Jensen Huang Admits Infidelity",
@@ -351,6 +349,27 @@
           "source": "Yahoo Finance",
           "title": "Nvidia Board to Probe Spying Case After CEO Admits Affair",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcHhzZnJtenlYeFdvbDY3Y0JBR1B0Z3pjZ0lZMFZCQ1FaZ19CM1ZjMWxMQ0phaEFSYTJBUW1KOWNqT2toRE5Uc2pHbzR1clJKNnhpWHc3TjhqczFaLUpxYko3UURJMks3Zi12X2F6QWFMUkhnUlZ1S1FIOEZFT3htanhEQ3N5SUJZUXZ4aFpDbG5YRS1HOHA1S0N3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "黃仁勳承認婚外情 英偉達董事會宣告：將對黃仁勳與疑似中國間諜的女商人的關係展開調查",
+      "summary": [
+        "法廣RFI：黃仁勳承認婚外情 英偉達董事會宣告：將對黃仁勳與疑似中國間諜的女商人的關係展開調查",
+        "BBC中文：黃仁勳婚外情：英偉達調查其與疑似中國間諜的關係"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "黃仁勳承認婚外情 英偉達董事會宣告：將對黃仁勳與疑似中國間諜的女商人的關係展開調查",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261108-%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83%E7%99%BC%E8%A1%A8%E8%81%B2%E6%98%8E%E5%B0%87%E5%B0%8D%E9%BB%83%E4%BB%81%E5%8B%B3%E8%88%87%E4%B8%80%E5%90%8D%E6%83%85%E5%A0%B1%E6%A9%9F%E6%A7%8B%E7%A8%B1%E6%98%AF%E4%B8%AD%E5%9C%8B%E9%96%93%E8%AB%9C%E7%9A%84%E5%A5%B3%E5%95%86%E4%BA%BA%E7%9A%84%E9%97%9C%E4%BF%82%E5%B1%95%E9%96%8B%E8%AA%BF%E6%9F%A5"
+        },
+        {
+          "source": "BBC中文",
+          "title": "黃仁勳婚外情：英偉達調查其與疑似中國間諜的關係",
+          "url": "https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -398,61 +417,67 @@
     },
     {
       "rank": 7,
-      "title": "內塔尼亞胡時代的終結？以色列反對黨獲委任組閣",
+      "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
       "summary": [
-        "德國之聲：內塔尼亞胡時代的終結？以色列反對黨獲委任組閣"
+        "Yahoo Finance：Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
+        "Investing.com：Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "內塔尼亞胡時代的終結？以色列反對黨獲委任組閣",
-          "url": "https://www.dw.com/zh/内塔尼亚胡时代的终结？以色列反对党获委任组阁/a-79889923?maca=chi-rss-chi-all-1127-rdf"
+          "source": "Yahoo Finance",
+          "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVdpWlRldmZmUS1Da0gxODh3UmMydEExd0ExS3dOQVVmYnlGaXdQSnVoSDJyV1Y5am0tbENoRjI2ZThYTks4V2ZGSlJNOTdZUTI2M19va1Z0djh2X0c5eWU5cFIyLWtQME9CUmJTYkdnYU9LY3FqZEFJYWFqVHVISHIyQ3B4aVlYb3JrRg?oc=5"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him",
+          "url": "https://www.investing.com/news/stock-market-news/trump-calls-nvidias-huang-honorable-says-he-has-not-discussed-allegations-with-him-5010358"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "克拉科夫發生槍擊慘案 波蘭舉行全國哀悼",
+      "title": "COP31聚集點與中西方在中國大國責任擔當上的不同解讀",
       "summary": [
-        "德國之聲：克拉科夫發生槍擊慘案 波蘭舉行全國哀悼"
+        "法廣RFI：COP31聚集點與中西方在中國大國責任擔當上的不同解讀"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "克拉科夫發生槍擊慘案 波蘭舉行全國哀悼",
-          "url": "https://www.dw.com/zh/克拉科夫发生枪击惨案-波兰举行全国哀悼/a-79889924?maca=chi-rss-chi-all-1127-rdf"
+          "source": "法廣RFI",
+          "title": "COP31聚集點與中西方在中國大國責任擔當上的不同解讀",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E7%92%B0%E5%A2%83%E8%88%87%E7%99%BC%E5%B1%95/20261108-cop31%E8%81%9A%E9%9B%86%E9%BB%9E%E8%88%87%E4%B8%AD%E8%A5%BF%E6%96%B9%E5%9C%A8%E4%B8%AD%E5%9C%8B%E5%A4%A7%E5%9C%8B%E8%A7%92%E8%89%B2%E8%B2%AC%E4%BB%BB%E6%89%BF%E6%93%94%E4%B8%8A%E7%9A%84%E8%90%BD%E5%B7%AE"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "克宮：俄美中正就潛在深圳三方峰會擬定議程，須就此達成共識",
+      "title": "高市據報曾打算驅逐威脅斬首的薛劍 在中方警告加倍奉還後作罷",
       "summary": [
-        "法廣RFI：克宮：俄美中正就潛在深圳三方峰會擬定議程，須就此達成共識"
+        "法廣RFI：高市據報曾打算驅逐威脅斬首的薛劍 在中方警告加倍奉還後作罷"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "克宮：俄美中正就潛在深圳三方峰會擬定議程，須就此達成共識",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261108-%E5%85%8B%E5%AE%AE-%E4%BF%84%E7%BE%8E%E4%B8%AD%E6%AD%A3%E5%B0%B1%E6%BD%9B%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%89%E6%96%B9%E5%B3%B0%E6%9C%83%E6%93%AC%E5%AE%9A%E8%AD%B0%E7%A8%8B%EF%BC%8C%E9%A0%88%E5%B0%B1%E6%AD%A4%E9%81%94%E6%88%90%E5%85%B1%E8%AD%98"
+          "title": "高市據報曾打算驅逐威脅斬首的薛劍 在中方警告加倍奉還後作罷",
+          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261108-%E9%AB%98%E5%B8%82%E6%93%9A%E5%A0%B1%E6%9B%BE%E6%89%93%E7%AE%97%E9%A9%85%E9%80%90%E5%A8%81%E8%84%85%E6%96%AC%E9%A6%96%E7%9A%84%E8%96%9B%E5%8A%8D-%E5%9C%A8%E4%B8%AD%E6%96%B9%E5%A8%81%E8%84%85%E5%8A%A0%E5%80%8D%E5%A5%89%E9%82%84%E5%BE%8C%E4%BD%9C%E7%BD%B7"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "\"矛盾\"的中國：既是最大排放國，也是全球能源轉型重要推手",
+      "title": "中國缺乏能糾正長期失衡的宏觀經濟戰略?",
       "summary": [
-        "法廣RFI：\"矛盾\"的中國：既是最大排放國，也是全球能源轉型重要推手"
+        "法廣RFI：中國缺乏能糾正長期失衡的宏觀經濟戰略?"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "\"矛盾\"的中國：既是最大排放國，也是全球能源轉型重要推手",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E8%A7%A3%E8%AA%AA/20261108-%E7%9F%9B%E7%9B%BE-%E7%9A%84%E4%B8%AD%E5%9C%8B-%E6%97%A2%E6%98%AF%E6%9C%80%E5%A4%A7%E6%8E%92%E6%94%BE%E5%9C%8B%EF%BC%8C%E4%B9%9F%E6%98%AF%E5%85%A8%E7%90%83%E8%83%BD%E6%BA%90%E8%BD%89%E5%9E%8B%E9%87%8D%E8%A6%81%E6%8E%A8%E6%89%8B"
+          "title": "中國缺乏能糾正長期失衡的宏觀經濟戰略?",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E6%B3%95%E5%9C%8B%E4%B8%96%E7%95%8C%E5%A0%B1/20261108-%E4%B8%AD%E5%9C%8B%E7%BC%BA%E4%B9%8F%E8%83%BD%E7%B3%BE%E6%AD%A3%E9%95%B7%E6%9C%9F%E5%A4%B1%E8%A1%A1%E7%9A%84%E5%AE%8F%E8%A7%80%E7%B6%93%E6%BF%9F%E6%88%B0%E7%95%A5"
         }
       ]
     }
