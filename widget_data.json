@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-11 05:42",
+  "updated_at": "2026-11-11 06:43",
   "taiwan": [
     {
       "rank": 1,
-      "title": "起霧釀禍? 保加利亞高速公路連環車禍 至少10死27傷",
-      "summary": [
-        "自由時報：起霧釀禍? 保加利亞高速公路連環車禍 至少10死27傷",
-        "ETtoday：保加利亞嚴重車禍！高速公路連環撞至少「12死10傷」",
-        "經濟日報：保加利亞高速公路連環車禍　至少12死50傷"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "起霧釀禍? 保加利亞高速公路連環車禍 至少10死27傷",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635858"
-        },
-        {
-          "source": "ETtoday",
-          "title": "保加利亞嚴重車禍！高速公路連環撞至少「12死10傷」",
-          "url": "https://www.ettoday.net/news/20261110/3269836.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "保加利亞高速公路連環車禍　至少12死50傷",
-          "url": "https://money.udn.com/money/story/5599/9870175"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "臺灣智慧醫電接軌國際——2026 CARES EXPO 匯聚產業合作新商機",
       "summary": [
         "關鍵評論網：臺灣智慧醫電接軌國際——2026 CARES EXPO 匯聚產業合作新商機",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "快訊／臺積電豪砸320億美元入股OpenAI、Anthropic",
       "summary": [
         "ETtoday：快訊／臺積電豪砸320億美元入股OpenAI、Anthropic",
@@ -83,49 +56,55 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "外送族注意！foodpanda 調漲平臺費，每單最高多付 6 元",
+      "rank": 3,
+      "title": "紐時：接班無人、董事會太乖　黃仁勳風波曝輝達隱憂",
       "summary": [
-        "科技新報：外送族注意！foodpanda 調漲平臺費，每單最高多付 6 元",
-        "TVBS新聞：外送又要變貴！foodpanda漲價 11/15起平均每單最多付6元"
+        "自由時報：紐時：接班無人、董事會太乖　黃仁勳風波曝輝達隱憂",
+        "經濟日報：紐時：接班無人、董事會太乖　黃仁勳風波曝輝達隱憂",
+        "ETtoday：找無人接班、董事會太乖　黃仁勳風波暴露輝達隱憂"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "紐時：接班無人、董事會太乖　黃仁勳風波曝輝達隱憂",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5636392"
+        },
+        {
+          "source": "經濟日報",
+          "title": "紐時：接班無人、董事會太乖　黃仁勳風波曝輝達隱憂",
+          "url": "https://money.udn.com/money/story/5599/9870629"
+        },
+        {
+          "source": "ETtoday",
+          "title": "找無人接班、董事會太乖　黃仁勳風波暴露輝達隱憂",
+          "url": "https://www.ettoday.net/news/20261111/3269927.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "保加利亞嚴重車禍！高速公路連環撞至少「12死10傷」",
+      "summary": [
+        "ETtoday：保加利亞嚴重車禍！高速公路連環撞至少「12死10傷」",
+        "經濟日報：保加利亞高速公路連環車禍　至少12死50傷"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "科技新報",
-          "title": "外送族注意！foodpanda 調漲平臺費，每單最高多付 6 元",
-          "url": "https://technews.tw/2026/11/10/foodpanda-20261110/"
+          "source": "ETtoday",
+          "title": "保加利亞嚴重車禍！高速公路連環撞至少「12死10傷」",
+          "url": "https://www.ettoday.net/news/20261110/3269836.htm"
         },
         {
-          "source": "TVBS新聞",
-          "title": "外送又要變貴！foodpanda漲價 11/15起平均每單最多付6元",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01aGltSmtYQy11WkdCNnhFeU5lRG9IWmthTklMZGJNMnRnSFQzYUY0cmpMRFRBUjVDVFNDZmltWDdCM2ZFYlJsTUxrX3dvZw?oc=5"
+          "source": "經濟日報",
+          "title": "保加利亞高速公路連環車禍　至少12死50傷",
+          "url": "https://money.udn.com/money/story/5599/9870175"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "ABF旺味之素調高電子材料業績預估、有望再上修- 新聞",
-      "summary": [
-        "MoneyDJ理財網：ABF旺味之素調高電子材料業績預估、有望再上修- 新聞",
-        "財經新報：ABF 旺  味之素調高電子材料業績預估、有望再上修"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "ABF旺味之素調高電子材料業績預估、有望再上修- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeGFoYWZVdDZuUnJDb2xyZzkzdlVoOGlrZ2tNd1FtMWZsUUlsVWc1ZXlWc09jNHZ0ZnE1LU5xU0YxWnVBbUV3RTJ1LXl1QkdqMEFfakk4d1dwcThxQ1RsSjJjTDZWS05wa3M3MU9oMDYxTkE2c0Y0V19ISzYweHFJTlVZYV93ajExc2dfVnhHMTZkZw?oc=5"
-        },
-        {
-          "source": "財經新報",
-          "title": "ABF 旺  味之素調高電子材料業績預估、有望再上修",
-          "url": "https://finance.technews.tw/2026/11/10/ajinomoto-raises-earnings-forecast-for-electronic-materials-business/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "投資損失、資料中心專案採購計畫變更 軟銀上季虧損70億美元",
       "summary": [
         "財訊：投資損失、資料中心專案採購計畫變更 軟銀上季虧損70億美元",
@@ -146,7 +125,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "黃樂被爆已結婚！與丈夫合照曝光　他因操縱股票被捕",
       "summary": [
         "ETtoday：黃樂被爆已結婚！與丈夫合照曝光　他因操縱股票被捕",
@@ -167,7 +146,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "曾為兒虐案、市府不足處致歉　蔣萬安：沈伯洋永不認錯勇氣哪來的？",
       "summary": [
         "ETtoday：曾為兒虐案、市府不足處致歉　蔣萬安：沈伯洋永不認錯勇氣哪來的？",
@@ -188,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "從助理到選將！張銘祐萬華辦政見會 林右昌、顏聖冠現身力挺",
       "summary": [
         "自由時報：從助理到選將！張銘祐萬華辦政見會 林右昌、顏聖冠現身力挺",
@@ -209,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "反擊彈劾出於私怨、作秀  赫格塞斯：終將失敗",
       "summary": [
         "自由時報：反擊彈劾出於私怨、作秀  赫格塞斯：終將失敗",
@@ -226,6 +205,27 @@
           "source": "ETtoday",
           "title": "美防長遭自家人彈劾！赫格塞斯轟「鬧劇必敗」：再來一次仍會開戰",
           "url": "https://www.ettoday.net/news/20261110/3269899.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "秦慧珠合照比3 鄭麗文：你怎可以面帶微笑看著沈伯洋呢？",
+      "summary": [
+        "自由時報：秦慧珠合照比3 鄭麗文：你怎可以面帶微笑看著沈伯洋呢？",
+        "ETtoday：鄭麗文點名秦慧珠「博版面」　認選情緊繃：怎可以微笑看沈伯洋？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "秦慧珠合照比3 鄭麗文：你怎可以面帶微笑看著沈伯洋呢？",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5636366"
+        },
+        {
+          "source": "ETtoday",
+          "title": "鄭麗文點名秦慧珠「博版面」　認選情緊繃：怎可以微笑看沈伯洋？",
+          "url": "https://www.ettoday.net/news/20261110/3269889.htm"
         }
       ]
     }
@@ -265,6 +265,33 @@
     },
     {
       "rank": 2,
+      "title": "隨著人工智慧實驗室進軍納斯達克，Anthropic 將即將到來的 IPO 定價範圍定為 70 至 78 美元",
+      "summary": [
+        "CNBC：隨著人工智慧實驗室進軍納斯達克，Anthropic 將即將到來的 IPO 定價範圍定為 70 至 78 美元",
+        "TechCrunch：Anthropic 將 IPO 價格範圍設定為每股 70 至 78 美元，隱含估值達到 1.404 兆美元",
+        "Yahoo Finance：Anthropic 將 IPO 價格區間定為 70 至 78 美元，公司估值高達 1.4 兆美元"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "隨著人工智慧實驗室進軍納斯達克，Anthropic 將即將到來的 IPO 定價範圍定為 70 至 78 美元",
+          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Anthropic 將 IPO 價格範圍設定為每股 70 至 78 美元，隱含估值達到 1.404 兆美元",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Anthropic 將 IPO 價格區間定為 70 至 78 美元，公司估值高達 1.4 兆美元",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPazlCUWZlSWdNODhxbW9CM2k4aFhUbmdMZVN1T1JERW52RkNoRWRfMm1zNzZleFJDM0VzYVBKNWNVUGd5d1dnM3RtWldMZmdzR1lOWktxUi1lOG9XbzQ3c0ZMQnpjNkVrZl9vSW1zRGRLd1pFNUdTdVlIY3dWUlBWTHZmV1dxSVBVWDFtNzZyanFBdDFrMlF3X0NhYw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "黃仁勳陷疑似中國間諜事件 人工智慧行業震蕩",
       "summary": [
         "法廣RFI：黃仁勳陷疑似中國間諜事件 人工智慧行業震蕩",
@@ -291,7 +318,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "亞馬遜的 Ring 推出飛行無人機和機器人來巡邏家庭和企業",
       "summary": [
         "CNBC：亞馬遜的 Ring 推出飛行無人機和機器人來巡邏家庭和企業",
@@ -314,33 +341,6 @@
           "source": "Bloomberg Tech",
           "title": "亞馬遜 Ring 推出飛行安全攝影機",
           "url": "https://www.bloomberg.com/news/videos/2026-11-10/amazon-s-ring-unveils-flying-security-camera-video"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Anthropic 將 IPO 價格範圍設定為每股 70 至 78 美元，以達到 1.404 兆美元的隱含估值",
-      "summary": [
-        "TechCrunch：Anthropic 將 IPO 價格範圍設定為每股 70 至 78 美元，以達到 1.404 兆美元的隱含估值",
-        "WSJ Markets：Anthropic 創辦人的股份以 IPO 價格計算每股價值 180 億美元",
-        "Yahoo Finance：Anthropic 將 IPO 價格區間定為 70 至 78 美元，公司估值高達 1.4 兆美元"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "Anthropic 將 IPO 價格範圍設定為每股 70 至 78 美元，以達到 1.404 兆美元的隱含估值",
-          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "Anthropic 創辦人的股份以 IPO 價格計算每股價值 180 億美元",
-          "url": "https://www.wsj.com/finance/anthropic-founders-stakes-are-worth-18-billion-apiece-at-ipo-price-2c746365?mod=rss_markets_main"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Anthropic 將 IPO 價格區間定為 70 至 78 美元，公司估值高達 1.4 兆美元",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPazlCUWZlSWdNODhxbW9CM2k4aFhUbmdMZVN1T1JERW52RkNoRWRfMm1zNzZleFJDM0VzYVBKNWNVUGd5d1dnM3RtWldMZmdzR1lOWktxUi1lOG9XbzQ3c0ZMQnpjNkVrZl9vSW1zRGRLd1pFNUdTdVlIY3dWUlBWTHZmV1dxSVBVWDFtNzZyanFBdDFrMlF3X0NhYw?oc=5"
         }
       ]
     },
@@ -373,37 +373,43 @@
     },
     {
       "rank": 6,
-      "title": "法國指責伊朗對超市冰箱進行網路攻擊並考慮實施制裁",
+      "title": "美國高階士兵因涉嫌為俄羅斯從事間諜活動在英國被捕",
       "summary": [
-        "CNBC：法國指責伊朗對超市冰箱進行網路攻擊並考慮實施制裁",
-        "法廣RFI：法國指責上個月針對超市冷藏裝置的網路攻擊是伊朗乾的， 伊朗拒絕法國的指控"
+        "Financial Times：美國高階士兵因涉嫌為俄羅斯從事間諜活動在英國被捕",
+        "Washington Post：美國陸軍軍官因涉嫌試圖為俄羅斯竊取機密而在英國被捕",
+        "WSJ Markets：英國警方逮捕一名涉嫌為俄羅斯從事間諜活動的美國陸軍士兵"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "CNBC",
-          "title": "法國指責伊朗對超市冰箱進行網路攻擊並考慮實施制裁",
-          "url": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html"
+          "source": "Financial Times",
+          "title": "美國高階士兵因涉嫌為俄羅斯從事間諜活動在英國被捕",
+          "url": "https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1"
         },
         {
-          "source": "法廣RFI",
-          "title": "法國指責上個月針對超市冷藏裝置的網路攻擊是伊朗乾的， 伊朗拒絕法國的指控",
-          "url": "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20261110-%E6%B3%95%E5%9C%8B%E6%8C%87%E8%B2%AC%E4%B8%8A%E5%80%8B%E6%9C%88%E9%87%9D%E5%B0%8D%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E8%A8%AD%E5%82%99%E7%9A%84%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A%E6%98%AF%E4%BC%8A%E6%9C%97%E4%B9%BE%E7%9A%84%EF%BC%8C-%E4%BC%8A%E6%9C%97%E6%8B%92%E7%B5%95%E6%B3%95%E5%9C%8B%E7%9A%84%E6%8C%87%E6%8E%A7"
+          "source": "Washington Post",
+          "title": "美國陸軍軍官因涉嫌試圖為俄羅斯竊取機密而在英國被捕",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV0ZuSmdENDlES0Z4TXdvbHMwdk5IUE5jbF9IalBrbFllVEJtbWRINVFyNzBUZVZ2YjdZdk5HaUJ4dHk4eHhxRnhVREUwdkhld2hDYl9DbWlWQUhxZWQ5R2xxUFJsOHh6dDRkOHFQUWpLSnlPLUZEZXljMGdTWExQWVZKT3dtN3BYMmc2Y0JPV19BdVBtYlhlLS1henREZUViWFBEZ0ZIZ0VsTHRacTU4MzlYbDE?oc=5"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "英國警方逮捕一名涉嫌為俄羅斯從事間諜活動的美國陸軍士兵",
+          "url": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_markets_main"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "印尼副總統資格受質疑後“打算辭職”",
+      "title": "印尼副總統資格遭質疑“打算辭職”",
       "summary": [
-        "Financial Times：印尼副總統資格受質疑後“打算辭職”",
+        "Financial Times：印尼副總統資格遭質疑“打算辭職”",
         "Nikkei Asia：印尼總統府稱副總統吉布蘭將辭職"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Financial Times",
-          "title": "印尼副總統資格受質疑後“打算辭職”",
+          "title": "印尼副總統資格遭質疑“打算辭職”",
           "url": "https://www.ft.com/content/87f2dfb7-e8b5-4248-9eee-fa3527200fee?syn-25a6b1a6=1"
         },
         {
@@ -457,16 +463,16 @@
     },
     {
       "rank": 10,
-      "title": "親自體驗 Ring 的新型人工智慧無人機相機",
+      "title": "親身體驗 Ring 的新型人工智慧無人機相機",
       "summary": [
-        "The Verge：親自體驗 Ring 的新型人工智慧無人機相機",
+        "The Verge：親身體驗 Ring 的新型人工智慧無人機相機",
         "Wired：Ring 的室內無人機攝影機回歸，現在由人工智慧提供支援"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "The Verge",
-          "title": "親自體驗 Ring 的新型人工智慧無人機相機",
+          "title": "親身體驗 Ring 的新型人工智慧無人機相機",
           "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
         },
         {
