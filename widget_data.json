@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 17:30",
+  "updated_at": "2026-11-10 18:35",
   "taiwan": [
     {
       "rank": 1,
@@ -136,48 +136,6 @@
     },
     {
       "rank": 6,
-      "title": "高科技難防舊套路　美人計歷久不衰成為國際情報戰利器",
-      "summary": [
-        "自由時報：高科技難防舊套路　美人計歷久不衰成為國際情報戰利器",
-        "經濟日報：高科技難防舊套路　美人計歷久不衰成為國際情報戰利器"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "高科技難防舊套路　美人計歷久不衰成為國際情報戰利器",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635102"
-        },
-        {
-          "source": "經濟日報",
-          "title": "高科技難防舊套路　美人計歷久不衰成為國際情報戰利器",
-          "url": "https://money.udn.com/money/story/5599/9868023"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
-      "summary": [
-        "經濟日報：男子駕車衝入白宮對面公園　遭特勤局逮捕",
-        "ETtoday：1男開車衝撞白宮對面公園　遭特勤局逮捕"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
-          "url": "https://money.udn.com/money/story/10511/9868011"
-        },
-        {
-          "source": "ETtoday",
-          "title": "1男開車衝撞白宮對面公園　遭特勤局逮捕",
-          "url": "https://www.ettoday.net/news/20261110/3269269.htm"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "中東戰局現外交曙光　國際油價跌至8月來新低",
       "summary": [
         "自由時報：中東戰局現外交曙光　國際油價跌至8月來新低",
@@ -198,7 +156,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "臺指期夜盤漲逾千點！美股收高1104點　輝達逆勢跌4.27%",
       "summary": [
         "ETtoday：臺指期夜盤漲逾千點！美股收高1104點　輝達逆勢跌4.27%",
@@ -219,7 +177,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "川普態度反轉！　控期中選舉舞弊",
       "summary": [
         "ETtoday：川普態度反轉！　控期中選舉舞弊",
@@ -236,6 +194,48 @@
           "source": "自由時報",
           "title": "川普再提選舉舞弊指控 參院民主黨領袖狠嗆：一切歸於他的失敗",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5635185"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "黃仁勳深陷外遇風暴！股東集體提告　輝達市值蒸發6兆元",
+      "summary": [
+        "ETtoday：黃仁勳深陷外遇風暴！股東集體提告　輝達市值蒸發6兆元",
+        "經濟日報：黃仁勳外遇風波擴大！股東提告隱瞞出軌女共諜 輝達市值蒸發6兆元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳深陷外遇風暴！股東集體提告　輝達市值蒸發6兆元",
+          "url": "https://www.ettoday.net/news/20261110/3269294.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳外遇風波擴大！股東提告隱瞞出軌女共諜 輝達市值蒸發6兆元",
+          "url": "https://money.udn.com/money/story/123398/9868089"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳外遇　竟是「臺灣供應鏈」大咖牽線",
+      "summary": [
+        "ETtoday：黃仁勳外遇　竟是「臺灣供應鏈」大咖牽線",
+        "財訊：誰付得起黃仁勳下臺的代價？李鎮宇：臺灣絕不能被看成中國拿晶片的後門"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳外遇　竟是「臺灣供應鏈」大咖牽線",
+          "url": "https://www.ettoday.net/news/20261110/3269287.htm"
+        },
+        {
+          "source": "財訊",
+          "title": "誰付得起黃仁勳下臺的代價？李鎮宇：臺灣絕不能被看成中國拿晶片的後門",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mWXVtN1Z6VkF4NEU4QmVyQWZsN09SLURacS1lems2SXRtYlNHVk5ta2pyMFVsem1JY2hDWExIR3UzdmUyeTRiUl9WRUJsaDM1dHJkalhQbkwtVld6WFlFRTJKZmtGa3BHVmtQczlpa054U2xDbXl4NUl6Zw?oc=5"
         }
       ]
     }
@@ -354,21 +354,6 @@
     },
     {
       "rank": 6,
-      "title": "Nvidia Intervened in US Probe of Megaspeed Chip Smuggling",
-      "summary": [
-        "Bloomberg Tech：Nvidia Intervened in US Probe of Megaspeed Chip Smuggling"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Nvidia Intervened in US Probe of Megaspeed Chip Smuggling",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "北京否認與黃仁勛有親密關係的女性為中國間諜- 紐約時報中文網",
       "summary": [
         "紐約時報中文：北京否認與黃仁勛有親密關係的女性為中國間諜- 紐約時報中文網"
@@ -383,7 +368,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Qantas to cut 850 jobs in Australia with Accenture deal; shares jump 4%",
       "summary": [
         "Investing.com：Qantas to cut 850 jobs in Australia with Accenture deal; shares jump 4%"
@@ -398,7 +383,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Anthropic Aims To Raise Up To $69.3 Billion In Blockbuster Ipo",
       "summary": [
         "Investing.com：Anthropic Aims To Raise Up To $69.3 Billion In Blockbuster Ipo"
@@ -413,7 +398,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "黃仁勛對英偉達的全面控制是否意味著他難以被懲罰- 紐約時報中文網",
       "summary": [
         "紐約時報中文：黃仁勛對英偉達的全面控制是否意味著他難以被懲罰- 紐約時報中文網"
@@ -424,6 +409,21 @@
           "source": "紐約時報中文",
           "title": "黃仁勛對英偉達的全面控制是否意味著他難以被懲罰- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVndZV3Z4WkpUV3NOYXpmWENjM2JwQXpaeDA0MmcxeldvbjNtREhzd0hMMUFJcDlmSzg4TXRBQXVLVlBPNmR0VHBKeFpNQ0dSbERMY3N3bUZLTDZUTi1zZk5zdHBETG45ZVBnQjBLLUZwS2o1Y0w1OVRpV0V4MUlzX05n?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勛對川普稱自己不知婚外情物件疑似中國間諜- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：黃仁勛對川普稱自己不知婚外情物件疑似中國間諜- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "黃仁勛對川普稱自己不知婚外情物件疑似中國間諜- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uak90cWprUDc0clFwM3NCZ1I3Tm43ODNPR0RkMkJzaFc1QXRFSFdobE5rU0hvWHBYSkkyNTB1bXVZUUFSMTh4bUN3Q3dwd2loTWQxaVl6d0dkS2xWNlA0RERja045ZU5Od19xb19uemhON3R3T2c?oc=5"
         }
       ]
     }
