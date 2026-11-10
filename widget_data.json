@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 19:29",
+  "updated_at": "2026-11-10 20:28",
   "taiwan": [
     {
       "rank": 1,
@@ -94,6 +94,33 @@
     },
     {
       "rank": 4,
+      "title": "美國資料中心虧損拖累，軟銀集團第二季淨損 70 億美元",
+      "summary": [
+        "科技新報：美國資料中心虧損拖累，軟銀集團第二季淨損 70 億美元",
+        "經濟日報：美國資料中心虧損拖累　軟銀集團第2季淨損70億美元",
+        "財訊：投資損失、資料中心專案採購計畫變更 軟銀上季虧損70億美元"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "美國資料中心虧損拖累，軟銀集團第二季淨損 70 億美元",
+          "url": "https://finance.technews.tw/2026/11/10/softbank-group-posts-7-billion-net-loss-in-q2/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美國資料中心虧損拖累　軟銀集團第2季淨損70億美元",
+          "url": "https://money.udn.com/money/story/5599/9869586"
+        },
+        {
+          "source": "財訊",
+          "title": "投資損失、資料中心專案採購計畫變更 軟銀上季虧損70億美元",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsQTdTY1hhUk92SGVCRTlJbzNkUXRJblJUN2pjV1NoZ0FFX2xHM1ZnSm5TX2ZBay1LZzVicXQ1RUxvUXBjRkxnQmZldXJXam4tVTNOZ3hlNlZrRkdpeGZsamg1RHlldG1KZ1VXVjd1TE8yV1dRNXZReUZxTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "臺灣智慧醫電接軌國際——2026 CARES EXPO 匯聚產業合作新商機",
       "summary": [
         "關鍵評論網：臺灣智慧醫電接軌國際——2026 CARES EXPO 匯聚產業合作新商機",
@@ -116,27 +143,6 @@
           "source": "癮科技Cool3c",
           "title": "臺灣智慧醫電接軌國際——2026 CARES EXPO 匯聚產業合作新商機",
           "url": "https://www.cool3c.com/article/253973"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "卸任前最後一戰！蔡其昌揭臺日交流賽意義　盼中華隊交流常態化",
-      "summary": [
-        "ETtoday：卸任前最後一戰！蔡其昌揭臺日交流賽意義　盼中華隊交流常態化",
-        "自由時報：林國漳重返宜大青年論壇 拋「北宜雙心」盼留住在地人才"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "卸任前最後一戰！蔡其昌揭臺日交流賽意義　盼中華隊交流常態化",
-          "url": "https://sports.ettoday.net/news/3269284"
-        },
-        {
-          "source": "自由時報",
-          "title": "林國漳重返宜大青年論壇 拋「北宜雙心」盼留住在地人才",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5635431"
         }
       ]
     },
@@ -184,27 +190,6 @@
     },
     {
       "rank": 8,
-      "title": "黃仁勳外遇　竟是「臺灣供應鏈」大咖牽線",
-      "summary": [
-        "ETtoday：黃仁勳外遇　竟是「臺灣供應鏈」大咖牽線",
-        "財訊：誰付得起黃仁勳下臺的代價？李鎮宇：臺灣絕不能被看成中國拿晶片的後門"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳外遇　竟是「臺灣供應鏈」大咖牽線",
-          "url": "https://www.ettoday.net/news/20261110/3269287.htm"
-        },
-        {
-          "source": "財訊",
-          "title": "誰付得起黃仁勳下臺的代價？李鎮宇：臺灣絕不能被看成中國拿晶片的後門",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mWXVtN1Z6VkF4NEU4QmVyQWZsN09SLURacS1lems2SXRtYlNHVk5ta2pyMFVsem1JY2hDWExIR3UzdmUyeTRiUl9WRUJsaDM1dHJkalhQbkwtVld6WFlFRTJKZmtGa3BHVmtQczlpa054U2xDbXl4NUl6Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Rocket Lab滿手訂單、但虧損超預期  盤後挫",
       "summary": [
         "科技新報：Rocket Lab滿手訂單、但虧損超預期  盤後挫",
@@ -225,7 +210,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "眾院民主黨領袖要求輝達案完整簡報，籲限晶片銷中",
       "summary": [
         "科技新報：眾院民主黨領袖要求輝達案完整簡報，籲限晶片銷中",
@@ -244,233 +229,213 @@
           "url": "https://money.udn.com/money/story/5599/9868147"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "輝達逆勢收跌4.27%　市場關注黃仁勳相關調查",
+      "summary": [
+        "經濟日報：輝達逆勢收跌4.27%　市場關注黃仁勳相關調查",
+        "科技新報：美股走高輝達逆勢收跌 4.27%，市場關注黃仁勳相關調查"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "輝達逆勢收跌4.27%　市場關注黃仁勳相關調查",
+          "url": "https://money.udn.com/money/story/123398/9868100"
+        },
+        {
+          "source": "科技新報",
+          "title": "美股走高輝達逆勢收跌 4.27%，市場關注黃仁勳相關調查",
+          "url": "https://finance.technews.tw/2026/11/10/us-stocks-rise-nvidia-drops-4-27-jensen-huang-investigation-focus/"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "川普稱聯邦調查局正在調查英偉達老闆與中國間諜的戀情",
+      "title": "Nvidia CEO Jensen Huang's Affair With Alleged Spy Raises Succession Concerns",
       "summary": [
-        "BBC World：川普稱聯邦調查局正在調查英偉達老闆與中國間諜的戀情",
-        "BBC中文：黃仁勳與疑似中國間諜婚外情風波：特朗普稱FBI已介入調查",
-        "Investing.com：川普稱聯邦調查局正在調查英偉達執行長黃仁勳的中國醜聞"
+        "Bloomberg Tech：Nvidia CEO Jensen Huang's Affair With Alleged Spy Raises Succession Concerns",
+        "CNBC：Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem"
       ],
-      "media_count": 4,
+      "media_count": 2,
       "links": [
         {
-          "source": "BBC World",
-          "title": "川普稱聯邦調查局正在調查英偉達老闆與中國間諜的戀情",
-          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+          "source": "Bloomberg Tech",
+          "title": "Nvidia CEO Jensen Huang's Affair With Alleged Spy Raises Succession Concerns",
+          "url": "https://www.bloomberg.com/news/features/2026-11-09/nvidia-ceo-jensen-huang-s-affair-with-alleged-spy-raises-succession-concerns"
         },
         {
-          "source": "BBC中文",
-          "title": "黃仁勳與疑似中國間諜婚外情風波：特朗普稱FBI已介入調查",
-          "url": "https://www.bbc.com/zhongwen/articles/cmx2q2pn5nv8o/trad?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Investing.com",
-          "title": "川普稱聯邦調查局正在調查英偉達執行長黃仁勳的中國醜聞",
-          "url": "https://www.investing.com/news/stock-market-news/trump-says-fbi-investigating-nvidia-ceo-huang-over-chinese-scandal-5014009"
-        },
-        {
-          "source": "Financial Times",
-          "title": "FirstFT：川普稱 FBI 正在「調查」英偉達的黃仁勳",
-          "url": "https://www.ft.com/content/6e4100c2-a69e-4f42-a99d-64c056d8592d?syn-25a6b1a6=1"
+          "source": "CNBC",
+          "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
+          "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "據報道，Anthropic計劃推進IPO計劃",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
       "summary": [
-        "TechCrunch：據報道，Anthropic計劃推進IPO計劃",
-        "Bloomberg Markets：英偉達醜聞引發人工智慧不安，Anthropic 準備上市 IPO",
-        "Yahoo Finance：據報道，Anthropic計劃推進IPO計劃"
+        "TechCrunch：Anthropic reportedly plans to move forward with IPO plans",
+        "Yahoo Finance：Anthropic reportedly plans to move forward with IPO plans"
       ],
-      "media_count": 3,
+      "media_count": 2,
       "links": [
         {
           "source": "TechCrunch",
-          "title": "據報道，Anthropic計劃推進IPO計劃",
+          "title": "Anthropic reportedly plans to move forward with IPO plans",
           "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
         },
         {
-          "source": "Bloomberg Markets",
-          "title": "英偉達醜聞引發人工智慧不安，Anthropic 準備上市 IPO",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-10/the-asia-trade-11-10-2026-video"
-        },
-        {
           "source": "Yahoo Finance",
-          "title": "據報道，Anthropic計劃推進IPO計劃",
+          "title": "Anthropic reportedly plans to move forward with IPO plans",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaEpJRGNfTXFaUW10U2IzektqXzRlaVhNWFNTa2hXOWsyb0taWjgxNGNpb2ctVDZTTlF5YXZMZWJKb3AwcFU2WWp0czFNVXNTdFRueXIwV1Q3RTJZS1VEWWJPSDFiek9JeXk5Snl4WW1WYjNOelFPOUVWSHkyNjhNQVVtNDhkaDR0NGQwM2F6VjRuZjA2TThCRXp2NVdvX0ZRZzB3SXZn?oc=5"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "Rocket Lab 的「決定性」季度未能達到目標後股價下跌",
+      "title": "Trump says FBI investigating Nvidia CEO Huang over Chinese scandal",
       "summary": [
-        "MarketWatch：Rocket Lab 的「決定性」季度未能達到目標後股價下跌",
-        "Investing.com：為什麼 Rocket Lab 股票今天會下跌？"
+        "Investing.com：Trump says FBI investigating Nvidia CEO Huang over Chinese scandal",
+        "Financial Times：FirstFT: FBI is ‘looking into’ Nvidia’s Huang, Trump says"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "MarketWatch",
-          "title": "Rocket Lab 的「決定性」季度未能達到目標後股價下跌",
-          "url": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories"
+          "source": "Investing.com",
+          "title": "Trump says FBI investigating Nvidia CEO Huang over Chinese scandal",
+          "url": "https://www.investing.com/news/stock-market-news/trump-says-fbi-investigating-nvidia-ceo-huang-over-chinese-scandal-5014009"
         },
         {
-          "source": "Investing.com",
-          "title": "為什麼 Rocket Lab 股票今天會下跌？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-rocket-lab-stock-sliding-today-93CH-5014637"
+          "source": "Financial Times",
+          "title": "FirstFT: FBI is ‘looking into’ Nvidia’s Huang, Trump says",
+          "url": "https://www.ft.com/content/6e4100c2-a69e-4f42-a99d-64c056d8592d?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 4,
-      "title": "英偉達執行長黃仁勳因披露涉嫌中國間諜的資訊而提起訴訟",
+      "title": "Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
       "summary": [
-        "Investing.com：英偉達執行長黃仁勳因披露涉嫌中國間諜的資訊而提起訴訟",
-        "Tom's Hardware：在執行長黃仁勳證實與所謂的中國間諜有染後，律師事務所對英偉達提起集體訴訟"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "英偉達執行長黃仁勳因披露涉嫌中國間諜的資訊而提起訴訟",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-ceo-huang-sued-over-disclosures-related-to-suspected-chinese-spy-5013619"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "在執行長黃仁勳證實與所謂的中國間諜有染後，律師事務所對英偉達提起集體訴訟",
-          "url": "https://www.tomshardware.com/tech-industry/big-tech/law-firm-files-class-action-lawsuit-against-nvidia-after-ceo-jensen-huang-confirms-affair-with-alleged-chinese-spy-more-to-come-as-multiple-other-law-firms-investigate-securities-fraud-following-stock-drop"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "隨著晶片製造商逢低買盤回升，韓國股市上漲",
-      "summary": [
-        "Bloomberg Markets：隨著晶片製造商逢低買盤回升，韓國股市上漲",
-        "Investing.com：韓國晶片飆升和油價回落提振市場情緒，亞洲股市上漲"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "隨著晶片製造商逢低買盤回升，韓國股市上漲",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-10/south-korean-stocks-jump-as-chipmakers-roar-back-on-dip-buying"
-        },
-        {
-          "source": "Investing.com",
-          "title": "韓國晶片飆升和油價回落提振市場情緒，亞洲股市上漲",
-          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rally-as-korean-chips-surge-and-oil-retreat-lifts-sentiment-5014024"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "中國前10個月貿易順差突破1萬億美元- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：中國前10個月貿易順差突破1萬億美元- 紐約時報中文網",
-        "Financial Times：今年前10個月中國貿易順差超1兆美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "中國前10個月貿易順差突破1萬億美元- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONXNpbTV1VllVSFpuZUZ0MFJVOWNUSGI4cjRNQUJKX2xMSXhhWFNTS2d4eXZ1VVUzdFByVGItSVVPRUtlbmd0MWRXUHlOMm1CZS0tcXBqTG53X2kyX2ctUjNXUEhYM1JRXzBjRzNRYVpRaWs0c0MtTWhtVkpQR2x3YzZXYTA?oc=5"
-        },
-        {
-          "source": "Financial Times",
-          "title": "今年前10個月中國貿易順差超1兆美元",
-          "url": "https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "加州億萬富翁稅收措施投票失敗",
-      "summary": [
-        "Investing.com：加州億萬富翁稅收措施投票失敗",
-        "TechCrunch：加州提議的「億萬富翁稅」未能透過"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "加州億萬富翁稅收措施投票失敗",
-          "url": "https://www.investing.com/news/stock-market-news/billionaire-tax-measure-on-california-ballot-defeated-5014025"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "加州提議的「億萬富翁稅」未能透過",
-          "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "檔案顯示，Moonshot 在中國租用了 Nvidia 的頂級人工智慧晶片",
-      "summary": [
-        "Bloomberg Tech：檔案顯示，Moonshot 在中國租用了 Nvidia 的頂級人工智慧晶片",
-        "Investing.com：根據彭博社報道，Moonshot AI 在中國租用 Nvidia 的頂級晶片"
+        "Bloomberg Tech：Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
+        "Investing.com：Moonshot AI rents Nvidia’s top chips in China, Bloomberg reports"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "檔案顯示，Moonshot 在中國租用了 Nvidia 的頂級人工智慧晶片",
+          "title": "Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
           "url": "https://www.bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show"
         },
         {
           "source": "Investing.com",
-          "title": "根據彭博社報道，Moonshot AI 在中國租用 Nvidia 的頂級晶片",
+          "title": "Moonshot AI rents Nvidia’s top chips in China, Bloomberg reports",
           "url": "https://www.investing.com/news/stock-market-news/moonshot-ai-rents-nvidias-top-chips-in-china-bloomberg-reports-5014089"
         }
       ]
     },
     {
-      "rank": 9,
-      "title": "美國資料中心成本膨脹導致軟銀損失 70 億美元",
+      "rank": 5,
+      "title": "SoftBank Logs $7 Billion Loss After US Data Center Costs Swell",
       "summary": [
-        "Bloomberg Tech：美國資料中心成本膨脹導致軟銀損失 70 億美元",
-        "Financial Times：軟銀因資料中心減記意外損失 70 億美元"
+        "Bloomberg Tech：SoftBank Logs $7 Billion Loss After US Data Center Costs Swell",
+        "Financial Times：SoftBank posts unexpected $7bn loss on data centre writedown"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "美國資料中心成本膨脹導致軟銀損失 70 億美元",
+          "title": "SoftBank Logs $7 Billion Loss After US Data Center Costs Swell",
           "url": "https://www.bloomberg.com/news/articles/2026-11-10/softbank-group-earnings-loss-after-ai-worries-hit-tech-stocks-masayoshi-son"
         },
         {
           "source": "Financial Times",
-          "title": "軟銀因資料中心減記意外損失 70 億美元",
+          "title": "SoftBank posts unexpected $7bn loss on data centre writedown",
           "url": "https://www.ft.com/content/5ceed157-0016-4822-a272-8b607911da5e?syn-25a6b1a6=1"
         }
       ]
     },
     {
-      "rank": 10,
-      "title": "科技股拋售拖累軟銀第二季淨虧損 70 億美元",
+      "rank": 6,
+      "title": "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
       "summary": [
-        "CNBC：科技股拋售拖累軟銀第二季淨虧損 70 億美元",
-        "Investing.com：軟銀第二季淨虧損70億美元"
+        "CNBC：SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
+        "Investing.com：SoftBank swings to $7 billion net loss in second quarter"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "CNBC",
-          "title": "科技股拋售拖累軟銀第二季淨虧損 70 億美元",
+          "title": "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
           "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html"
         },
         {
           "source": "Investing.com",
-          "title": "軟銀第二季淨虧損70億美元",
+          "title": "SoftBank swings to $7 billion net loss in second quarter",
           "url": "https://www.investing.com/news/stock-market-news/softbank-swings-to-7-billion-net-loss-in-second-quarter-5014234"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "北京否認與黃仁勛有親密關係的女性為中國間諜- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：北京否認與黃仁勛有親密關係的女性為中國間諜- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "北京否認與黃仁勛有親密關係的女性為中國間諜- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jMEFsVWNUZTEyMXd0ZHpMZDlyLTgwOW5xMWtnQlB0aFkyQ0VtVXI2allBNkpfWDlrdHhMQ2FkSXBUa1FZN2VkYlpFUmdxWF9Cc1RDSllFbmRfMVN3RXVXdVBRYkVkZTRyWVJ0OHp1ZnNVSGoxOWFxWWduc1o?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Qantas to cut 850 jobs in Australia with Accenture deal; shares jump 4%",
+      "summary": [
+        "Investing.com：Qantas to cut 850 jobs in Australia with Accenture deal; shares jump 4%"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Qantas to cut 850 jobs in Australia with Accenture deal; shares jump 4%",
+          "url": "https://www.investing.com/news/stock-market-news/qantas-to-cut-850-jobs-in-australia-with-accenture-deal-93CH-5013876"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Anthropic Aims To Raise Up To $69.3 Billion In Blockbuster Ipo",
+      "summary": [
+        "Investing.com：Anthropic Aims To Raise Up To $69.3 Billion In Blockbuster Ipo"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Anthropic Aims To Raise Up To $69.3 Billion In Blockbuster Ipo",
+          "url": "https://www.investing.com/news/stock-market-news/anthropic-aims-to-raise-up-to-693-billion-in-blockbuster-ipo--reuters-432SI-5013860"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勛對英偉達的全面控制是否意味著他難以被懲罰- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：黃仁勛對英偉達的全面控制是否意味著他難以被懲罰- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "黃仁勛對英偉達的全面控制是否意味著他難以被懲罰- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVndZV3Z4WkpUV3NOYXpmWENjM2JwQXpaeDA0MmcxeldvbjNtREhzd0hMMUFJcDlmSzg4TXRBQXVLVlBPNmR0VHBKeFpNQ0dSbERMY3N3bUZLTDZUTi1zZk5zdHBETG45ZVBnQjBLLUZwS2o1Y0w1OVRpV0V4MUlzX05n?oc=5"
         }
       ]
     }
