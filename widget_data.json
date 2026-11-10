@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 03:58",
+  "updated_at": "2026-11-11 04:50",
   "taiwan": [
     {
       "rank": 1,
@@ -132,48 +132,6 @@
     },
     {
       "rank": 6,
-      "title": "中國到底想從黃仁勳身上拿到什麼？外媒全說了：不只是晶片",
-      "summary": [
-        "自由時報：中國到底想從黃仁勳身上拿到什麼？外媒全說了：不只是晶片",
-        "財訊：誰付得起黃仁勳下臺的代價？李鎮宇：臺灣絕不能被看成中國拿晶片的後門"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "中國到底想從黃仁勳身上拿到什麼？外媒全說了：不只是晶片",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5635486"
-        },
-        {
-          "source": "財訊",
-          "title": "誰付得起黃仁勳下臺的代價？李鎮宇：臺灣絕不能被看成中國拿晶片的後門",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mWXVtN1Z6VkF4NEU4QmVyQWZsN09SLURacS1lems2SXRtYlNHVk5ta2pyMFVsem1JY2hDWExIR3UzdmUyeTRiUl9WRUJsaDM1dHJkalhQbkwtVld6WFlFRTJKZmtGa3BHVmtQczlpa054U2xDbXl4NUl6Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "AMD 獲唱多  目標價 600 美元、資料中心營收估翻倍",
-      "summary": [
-        "科技新報：AMD 獲唱多  目標價 600 美元、資料中心營收估翻倍",
-        "MoneyDJ理財網：AMD獲唱多目標價600美元、資料中心營收估翻倍- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "AMD 獲唱多  目標價 600 美元、資料中心營收估翻倍",
-          "url": "https://technews.tw/2026/11/10/amd-gets-bullish-rating-with-600-price-target/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "AMD獲唱多目標價600美元、資料中心營收估翻倍- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMEg3aEozcWltQkJnS2xtdGpDaXlkaXg1YXlZOF82SHNScXFWWUZHS0ZDWkg3dWxnTlY4bWMyeGZxMEJGT2hBbmIyaHFvX2VPcld4Y3g2UVNOeURGUFFvVUUwZVYyVEFzNFpPZUFhUGV1UkJNX2pReGtjam0yMS02VnJoLW9XNHpmS09LZC1IYmkxUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "中國使用輝達 AI 晶片，走私與租用東南亞資料中心算力成兩大途徑",
       "summary": [
         "科技新報：中國使用輝達 AI 晶片，走私與租用東南亞資料中心算力成兩大途徑",
@@ -194,7 +152,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "韓國用 AI 系統偵測數位性犯罪，24 小時監測網路內容",
       "summary": [
         "科技新報：韓國用 AI 系統偵測數位性犯罪，24 小時監測網路內容",
@@ -215,7 +173,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "ABF旺味之素調高電子材料業績預估、有望再上修- 新聞",
       "summary": [
         "MoneyDJ理財網：ABF旺味之素調高電子材料業績預估、有望再上修- 新聞",
@@ -232,6 +190,48 @@
           "source": "財經新報",
           "title": "ABF 旺  味之素調高電子材料業績預估、有望再上修",
           "url": "https://finance.technews.tw/2026/11/10/ajinomoto-raises-earnings-forecast-for-electronic-materials-business/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "黃樂被爆已結婚！與丈夫合照曝光　他因操縱股票被捕",
+      "summary": [
+        "ETtoday：黃樂被爆已結婚！與丈夫合照曝光　他因操縱股票被捕",
+        "經濟日報：黃仁勳婚外情 陸媒：黃樂丈夫涉操縱股票遭刑事扣查"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "黃樂被爆已結婚！與丈夫合照曝光　他因操縱股票被捕",
+          "url": "https://finance.ettoday.net/news/3269842"
+        },
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳婚外情 陸媒：黃樂丈夫涉操縱股票遭刑事扣查",
+          "url": "https://money.udn.com/money/story/123398/9870359"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "曾為兒虐案、市府不足處致歉　蔣萬安：沈伯洋永不認錯勇氣哪來的？",
+      "summary": [
+        "ETtoday：曾為兒虐案、市府不足處致歉　蔣萬安：沈伯洋永不認錯勇氣哪來的？",
+        "自由時報：兒虐攻防不讓步！蔣萬安再批沈伯洋：不認錯的勇氣是哪來的？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "曾為兒虐案、市府不足處致歉　蔣萬安：沈伯洋永不認錯勇氣哪來的？",
+          "url": "https://www.ettoday.net/news/20261110/3269846.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "兒虐攻防不讓步！蔣萬安再批沈伯洋：不認錯的勇氣是哪來的？",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5636318"
         }
       ]
     }
@@ -271,27 +271,81 @@
     },
     {
       "rank": 2,
-      "title": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+      "title": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches toward Nasdaq",
       "summary": [
-        "CNBC：FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
-        "Ars Technica：FDA 警告 GLP-1 藥物可能會帶來導致視力喪失的罕見疾病的風險"
+        "CNBC：Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches toward Nasdaq",
+        "TechCrunch：Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+        "Yahoo Finance：Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "CNBC",
-          "title": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
-          "url": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html"
+          "title": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches toward Nasdaq",
+          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
         },
         {
-          "source": "Ars Technica",
-          "title": "FDA 警告 GLP-1 藥物可能會帶來導致視力喪失的罕見疾病的風險",
-          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/"
+          "source": "TechCrunch",
+          "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPazlCUWZlSWdNODhxbW9CM2k4aFhUbmdMZVN1T1JERW52RkNoRWRfMm1zNzZleFJDM0VzYVBKNWNVUGd5d1dnM3RtWldMZmdzR1lOWktxUi1lOG9XbzQ3c0ZMQnpjNkVrZl9vSW1zRGRLd1pFNUdTdVlIY3dWUlBWTHZmV1dxSVBVWDFtNzZyanFBdDFrMlF3X0NhYw?oc=5"
         }
       ]
     },
     {
       "rank": 3,
+      "title": "House Republicans elect Jim Jordan to serve as minority leader next year",
+      "summary": [
+        "Washington Post：House Republicans elect Jim Jordan to serve as minority leader next year",
+        "Financial Times：Republicans choose Jim Jordan as House minority leader",
+        "CNBC：Jim Jordan elected House GOP leader"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "House Republicans elect Jim Jordan to serve as minority leader next year",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXRIeEYxWHlYVkJUdVFOZzc3aFdDNzZkWmMyOGhBTnFKamdyYW9xSWp3TkZ0NF94ZVdFeENyb3FWN2VXRzVycTA0cGZLVmxCSHQtaTg0VXhPVlYxeW9SbXppVzhNWkFDdkp6OE5BSG1yRnIyd0VVOXY0UnczcDU1dEt4T09kY3NRNzVMcmlpcmt4YTZtZlU5cG5IdHprZzZLc1gzYWJucmpYV3VyRnlYQlhXMjBkNUdYU2c?oc=5"
+        },
+        {
+          "source": "Financial Times",
+          "title": "Republicans choose Jim Jordan as House minority leader",
+          "url": "https://www.ft.com/content/438a36a5-a711-4fe1-b3d8-83020197a0ed?syn-25a6b1a6=1"
+        },
+        {
+          "source": "CNBC",
+          "title": "Jim Jordan elected House GOP leader",
+          "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+      "summary": [
+        "Bloomberg Tech：Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+        "Bloomberg Markets：Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwb4e46h"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "黃仁勳婚外情：被指為「中共間諜」的黃樂是誰？",
       "summary": [
         "BBC中文：黃仁勳婚外情：被指為「中共間諜」的黃樂是誰？",
@@ -312,7 +366,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "US Gasoline Prices Drop Below $4 a Gallon After Months of Pain",
       "summary": [
         "Bloomberg Markets：US Gasoline Prices Drop Below $4 a Gallon After Months of Pain",
@@ -333,28 +387,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches toward Nasdaq",
-      "summary": [
-        "CNBC：Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches toward Nasdaq",
-        "TechCrunch：Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches toward Nasdaq",
-          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
       "summary": [
         "CNBC：Pete Hegseth decries impeachment push, defends Iran war handling",
@@ -375,7 +408,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Hands-on with Ring’s new AI drone camera for your home",
       "summary": [
         "The Verge：Hands-on with Ring’s new AI drone camera for your home",
@@ -396,7 +429,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
       "summary": [
         "CNBC：Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
@@ -417,7 +450,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "高盛預計到 2030 年 Anthropic 營收將超過 6,000 億美元",
       "summary": [
         "Financial Times：高盛預計到 2030 年 Anthropic 營收將超過 6,000 億美元",
@@ -434,27 +467,6 @@
           "source": "Bloomberg Markets",
           "title": "高盛分析師預計 2030 年 Anthropic 營收將達到 6,850 億美元",
           "url": "https://www.bloomberg.com/news/articles/2026-11-10/goldman-analysts-see-anthropic-revenue-at-685-billion-by-2030"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "summary": [
-        "The Verge：Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-        "VentureBeat：Google Gemini 4 Carbon is now publicly available — and it undercuts Claude Fable 5.2 and Opus 5.5 on API price"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
-        },
-        {
-          "source": "VentureBeat",
-          "title": "Google Gemini 4 Carbon is now publicly available — and it undercuts Claude Fable 5.2 and Opus 5.5 on API price",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjR5SzFCUEJCS0phWGJKT2FDREJBQnA3U094UHh2azF6VVYtUENId29Zb3Iya3dLT29vdVNFMkJTMTdVS1dYYWJ5VmNaMlp1TG1qbUtUYVp3cEx1TzI0NFRLS3hROE1wall1eThWMnVzZ1pnc290OUpPd1FTVHR3OTJ3UmowSnQ2NUhDS21JYV8zNkoyWmw4RDk1Ql94d3VCeFRUemZ1YUprVmNWUGVFRnhKS0RNaEFtc25zN2lqQzdwMGJ5SzdSeFNaczJZZGhxclhJanJSeWd2bTQ?oc=5"
         }
       ]
     }
