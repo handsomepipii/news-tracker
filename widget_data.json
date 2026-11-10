@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 12:58",
+  "updated_at": "2026-11-10 13:59",
   "taiwan": [
     {
       "rank": 1,
@@ -84,22 +84,28 @@
     },
     {
       "rank": 4,
-      "title": "誣指垃圾車廣播「支援蔣萬安」！廖玉蕙認錯道歉：未經查證當事實",
+      "title": "美防長赫格塞斯面臨彈劾　川普力挺：打贏2場戰爭還要被彈劾？",
       "summary": [
-        "ETtoday：誣指垃圾車廣播「支援蔣萬安」！廖玉蕙認錯道歉：未經查證當事實",
-        "中時新聞：廖玉蕙道歉了楊植鬥：不是什麼指控都可用「猜的」輕輕帶過- 政治"
+        "ETtoday：美防長赫格塞斯面臨彈劾　川普力挺：打贏2場戰爭還要被彈劾？",
+        "科技新報：美防長赫格塞斯面臨彈劾  川普 1.5 兆軍費案添變數",
+        "MoneyDJ理財網：美防長赫格塞斯面臨彈劾川普1.5兆軍費案添變數- 新聞"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "ETtoday",
-          "title": "誣指垃圾車廣播「支援蔣萬安」！廖玉蕙認錯道歉：未經查證當事實",
-          "url": "https://www.ettoday.net/news/20261109/3269228.htm"
+          "title": "美防長赫格塞斯面臨彈劾　川普力挺：打贏2場戰爭還要被彈劾？",
+          "url": "https://www.ettoday.net/news/20261110/3269286.htm"
         },
         {
-          "source": "中時新聞",
-          "title": "廖玉蕙道歉了楊植鬥：不是什麼指控都可用「猜的」輕輕帶過- 政治",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yRks0UUZmS2pjWERqemZPYzM4S1Z5VEZWekJDb19sWnROVnY5azdtSkZJSk9MMDd5dkptZGhBX1NQNS1ObF9jc2hFVnJRTW1WLVNIX2dpbUsyLVk3S2JiVjdubTZxRldDMXVDRkpR?oc=5"
+          "source": "科技新報",
+          "title": "美防長赫格塞斯面臨彈劾  川普 1.5 兆軍費案添變數",
+          "url": "https://technews.tw/2026/11/10/pentagon-chief-hegseth-expected-to-face-house-impeachment-vote-this-week/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "美防長赫格塞斯面臨彈劾川普1.5兆軍費案添變數- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdGVuLVd0VTF4azlLejJReUd3VlVieGdWNURzVkdqaHRad2RMRXIwank5SWVBOVhRa25Sa3dBTXZoRTFsMzlwMEIzMlY1eXU4STdkY2ludHBaSDJLNzNrZ0ZDa2VIQm51b2kyYzVEQ1lTTGFyeVp0Y21NVWFIdVBNemw4WmhRQ1RpNUQ5OFZ0SGdkQQ?oc=5"
         }
       ]
     },
@@ -126,6 +132,48 @@
     },
     {
       "rank": 6,
+      "title": "卸任前最後一戰！蔡其昌揭臺日交流賽意義　盼中華隊交流常態化",
+      "summary": [
+        "ETtoday：卸任前最後一戰！蔡其昌揭臺日交流賽意義　盼中華隊交流常態化",
+        "自由時報：林國漳重返宜大青年論壇 拋「北宜雙心」盼留住在地人才"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "卸任前最後一戰！蔡其昌揭臺日交流賽意義　盼中華隊交流常態化",
+          "url": "https://sports.ettoday.net/news/3269284"
+        },
+        {
+          "source": "自由時報",
+          "title": "林國漳重返宜大青年論壇 拋「北宜雙心」盼留住在地人才",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5635431"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "屏東市機場北路垃圾集中場深夜火警 消防連夜撲滅",
+      "summary": [
+        "自由時報：屏東市機場北路垃圾集中場深夜火警 消防連夜撲滅",
+        "ETtoday：屏東市清潔隊資源回收場深夜火警　廢棄物+小山貓起火"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "屏東市機場北路垃圾集中場深夜火警 消防連夜撲滅",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5635085"
+        },
+        {
+          "source": "ETtoday",
+          "title": "屏東市清潔隊資源回收場深夜火警　廢棄物+小山貓起火",
+          "url": "https://www.ettoday.net/news/20261110/3269542.htm"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "前央視記者證實黃樂曾是同事！曝共用辦公室：當年就看出她不簡單",
       "summary": [
         "ETtoday：前央視記者證實黃樂曾是同事！曝共用辦公室：當年就看出她不簡單",
@@ -146,7 +194,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "【TVBS18氣象站】入秋最強冷空氣 明晨更凍 低溫15度↓ 中颱查帕卡不擾臺日 東半部注意長浪",
       "summary": [
         "TVBS新聞：【TVBS18氣象站】入秋最強冷空氣 明晨更凍 低溫15度↓ 中颱查帕卡不擾臺日 東半部注意長浪",
@@ -167,7 +215,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "拜登縮短回憶錄宣傳行程　稱癌症病情拖慢步伐",
       "summary": [
         "自由時報：拜登縮短回憶錄宣傳行程　稱癌症病情拖慢步伐",
@@ -186,53 +234,38 @@
           "url": "https://money.udn.com/money/story/5599/9867997"
         }
       ]
-    },
-    {
-      "rank": 9,
-      "title": "牽動全球AI命脈　黃仁勳爆婚外情調查凸顯接班危機",
-      "summary": [
-        "自由時報：牽動全球AI命脈　黃仁勳爆婚外情調查凸顯接班危機",
-        "經濟日報：牽動全球AI命脈　黃仁勳爆婚外情調查凸顯接班危機"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "牽動全球AI命脈　黃仁勳爆婚外情調查凸顯接班危機",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635097"
-        },
-        {
-          "source": "經濟日報",
-          "title": "牽動全球AI命脈　黃仁勳爆婚外情調查凸顯接班危機",
-          "url": "https://money.udn.com/money/story/5599/9867996"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "法國指控伊朗革命衛隊為全歐超市冰箱駭客案幕後黑手 擬推動歐盟制裁",
-      "summary": [
-        "自由時報：法國指控伊朗革命衛隊為全歐超市冰箱駭客案幕後黑手 擬推動歐盟制裁",
-        "ETtoday：商品全爛！法國指控伊朗「入侵冷藏裝置」　放話進一步制裁"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "法國指控伊朗革命衛隊為全歐超市冰箱駭客案幕後黑手 擬推動歐盟制裁",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635093"
-        },
-        {
-          "source": "ETtoday",
-          "title": "商品全爛！法國指控伊朗「入侵冷藏裝置」　放話進一步制裁",
-          "url": "https://www.ettoday.net/news/20261110/3269332.htm"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
+      "summary": [
+        "Financial Times：Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
+        "BBC World：Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+        "Investing.com：Trump says FBI investigating Nvidia CEO Huang over Chinese scandal"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
+          "url": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1"
+        },
+        {
+          "source": "BBC World",
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Trump says FBI investigating Nvidia CEO Huang over Chinese scandal",
+          "url": "https://www.investing.com/news/stock-market-news/trump-says-fbi-investigating-nvidia-ceo-huang-over-chinese-scandal-5014009"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
       "summary": [
         "TechCrunch：Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
@@ -259,7 +292,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Anthropic 在 IPO 前推出 Fable 5.2 和 Mythos 5.2 人工智慧模型",
       "summary": [
         "Investing.com：Anthropic 在 IPO 前推出 Fable 5.2 和 Mythos 5.2 人工智慧模型",
@@ -282,33 +315,6 @@
           "source": "Yahoo Finance",
           "title": "Anthropic debuts Claude Fable 5.2 and Mythos 5.2 models as IPO nears",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORUxtR3VZQVJjcnhWLW1rb3RBdG1vMlFJRlpGeG9iTmdtZ0RrVTBDRkJITUQtM3FjZkhrZHQtb3J4cGNsLUs0SllMR05JcENTWFVOZjJLUUM0c0k2aXlhZGJKNFdnUFd2ZUVtcmp3WWdudFhpWG41by11a3lDZWI1b3Z1VHppTzBteEt4amNJeXc0Y0diSkxnMUdGeVVwNXQ2Y3RUeC1qS3V6cU04eUJtUUg2WHBPVk5pWXB5Vlp1YktpOWxY?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
-      "summary": [
-        "Financial Times：Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
-        "BBC World：Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-        "Investing.com：Trump says FBI investigating Nvidia CEO Huang over Chinese scandal"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
-          "url": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1"
-        },
-        {
-          "source": "BBC World",
-          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Trump says FBI investigating Nvidia CEO Huang over Chinese scandal",
-          "url": "https://www.investing.com/news/stock-market-news/trump-says-fbi-investigating-nvidia-ceo-huang-over-chinese-scandal-5014009"
         }
       ]
     },
@@ -356,69 +362,6 @@
     },
     {
       "rank": 6,
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "summary": [
-        "BBC World：France accuses Iran of supermarket fridge hacking",
-        "Financial Times：France accuses Iran of cyber attacks on supermarket refrigerators"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "France accuses Iran of supermarket fridge hacking",
-          "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Financial Times",
-          "title": "France accuses Iran of cyber attacks on supermarket refrigerators",
-          "url": "https://www.ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Uber Debuts Parking Reservation Feature After Buying SpotHero",
-      "summary": [
-        "Bloomberg Tech：Uber Debuts Parking Reservation Feature After Buying SpotHero",
-        "TechCrunch：Uber launches parking service following SpotHero acquisition, with an eye on robotaxis"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Uber Debuts Parking Reservation Feature After Buying SpotHero",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-09/uber-debuts-parking-reservation-feature-after-buying-spothero"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
-          "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Nvidia CEO's affair becomes a national security problem",
-      "summary": [
-        "Ars Technica：Nvidia CEO's affair becomes a national security problem",
-        "Bloomberg Tech：Nvidia Fallout as CEO Faces National Security Scrutiny"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Ars Technica",
-          "title": "Nvidia CEO's affair becomes a national security problem",
-          "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Nvidia Fallout as CEO Faces National Security Scrutiny",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-09/open-interest-11-9-2026-video"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Nvidia shares drop as Jensen Huang affair raises China spy concerns",
       "summary": [
         "Nikkei Asia：Nvidia shares drop as Jensen Huang affair raises China spy concerns",
@@ -439,7 +382,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
       "summary": [
         "BBC World：Republican congressman to force impeachment vote on Defence Secretary Hegseth",
@@ -456,6 +399,69 @@
           "source": "Financial Times",
           "title": "Republican lawmaker moves to impeach US defence secretary Pete Hegseth",
           "url": "https://www.ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
+      "summary": [
+        "Investing.com：Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
+        "CNBC：Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
+          "url": "https://www.investing.com/news/stock-market-news/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns-5012979"
+        },
+        {
+          "source": "CNBC",
+          "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
+          "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "What to know about the Nvidia scandal and CEO Jensen Huang",
+      "summary": [
+        "Washington Post：What to know about the Nvidia scandal and CEO Jensen Huang",
+        "The Verge：Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "What to know about the Nvidia scandal and CEO Jensen Huang",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaXZvUkpkcjVhSW5ac1dXOGIwOTkxNTJhOVFEYlJFWF83SGNRSFJOOTdhaWVYOG40SDZ2RTBCYTNwYW9yanoxbkxuSDd6NTVNeG9yZmdIN0RoM0xVcE1QNk4yM3BNbW53aDZWWVVqMWJGZEZpanJDcjBUcl8zQjU1WmlEUl8zT2FrclVLSnVsUGhHbUc3MGNKQVBqMUprWHFMY0Jz?oc=5"
+        },
+        {
+          "source": "The Verge",
+          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
+      "summary": [
+        "Bloomberg Tech：Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
+        "Investing.com：Moonshot AI rents Nvidia’s top chips in China, Bloomberg reports"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Moonshot AI rents Nvidia’s top chips in China, Bloomberg reports",
+          "url": "https://www.investing.com/news/stock-market-news/moonshot-ai-rents-nvidias-top-chips-in-china-bloomberg-reports-5014089"
         }
       ]
     }
