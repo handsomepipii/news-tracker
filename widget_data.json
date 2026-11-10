@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 10:08",
+  "updated_at": "2026-11-10 10:58",
   "taiwan": [
     {
       "rank": 1,
@@ -105,6 +105,27 @@
     },
     {
       "rank": 5,
+      "title": "川普：黃仁勳不知道外遇物件是共諜 FBI介入調查",
+      "summary": [
+        "經濟日報：川普：黃仁勳不知道外遇物件是共諜 FBI介入調查",
+        "科技新報：川普：黃仁勳不知婚外情物件涉共諜，FBI 查明中"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普：黃仁勳不知道外遇物件是共諜 FBI介入調查",
+          "url": "https://money.udn.com/money/story/5599/9868093"
+        },
+        {
+          "source": "科技新報",
+          "title": "川普：黃仁勳不知婚外情物件涉共諜，FBI 查明中",
+          "url": "https://infosecu.technews.tw/2026/11/10/trump-jensen-huang-unaware-affair-partner-suspected-chinese-spy-fbi-investigating/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "黃仁勳婚外情女子遭指共諜 中國外交部駁斥稱捕風捉影｜20261109 8點新世界",
       "summary": [
         "公視新聞：黃仁勳婚外情女子遭指共諜 中國外交部駁斥稱捕風捉影｜20261109 8點新世界",
@@ -125,7 +146,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "批蔣萬安「現聲」垃圾車惹議  廖玉蕙發文致歉",
       "summary": [
         "自由時報：批蔣萬安「現聲」垃圾車惹議  廖玉蕙發文致歉",
@@ -146,7 +167,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "土耳其西部鋼鐵廠爆炸 至少6死13傷、8人失蹤",
       "summary": [
         "自由時報：土耳其西部鋼鐵廠爆炸 至少6死13傷、8人失蹤",
@@ -167,7 +188,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "氣候峰會登場 歐盟指德義等9國恐難達成2030減排目標",
       "summary": [
         "自由時報：氣候峰會登場 歐盟指德義等9國恐難達成2030減排目標",
@@ -188,7 +209,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "【TVBS18氣象站】入秋最強冷空氣 明晨更凍 低溫15度↓ 中颱查帕卡不擾臺日 東半部注意長浪",
       "summary": [
         "TVBS新聞：【TVBS18氣象站】入秋最強冷空氣 明晨更凍 低溫15度↓ 中颱查帕卡不擾臺日 東半部注意長浪",
@@ -205,27 +226,6 @@
           "source": "公視新聞",
           "title": "20261110 公視AI手語天氣報導 ｜冷空氣影響週二最涼，迎風面偶雨",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IOWo3c2taY3FNTkROQ2pFVXNmZXdsQTVmQ2pzaGkyVHhpWDI1Ym1HY0IwakNpUDh5SXljTjkxMWxYZndFZ2J1dFc2Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "拜登縮短回憶錄宣傳行程　稱癌症病情拖慢步伐",
-      "summary": [
-        "自由時報：拜登縮短回憶錄宣傳行程　稱癌症病情拖慢步伐",
-        "經濟日報：拜登縮短回憶錄宣傳行程　稱癌症病情拖慢步伐"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "拜登縮短回憶錄宣傳行程　稱癌症病情拖慢步伐",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635098"
-        },
-        {
-          "source": "經濟日報",
-          "title": "拜登縮短回憶錄宣傳行程　稱癌症病情拖慢步伐",
-          "url": "https://money.udn.com/money/story/5599/9867997"
         }
       ]
     }
