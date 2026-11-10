@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 15:06",
+  "updated_at": "2026-11-10 16:21",
   "taiwan": [
     {
       "rank": 1,
@@ -35,6 +35,38 @@
     },
     {
       "rank": 2,
+      "title": "黃仁勳出軌物件是中國女間諜？ 中國外交部回應了",
+      "summary": [
+        "風傳媒：黃仁勳出軌物件是中國女間諜？ 中國外交部回應了",
+        "公視新聞：黃仁勳婚外情女子遭指共諜 中國外交部駁斥稱捕風捉影",
+        "自由時報：黃仁勳外遇中國女間諜捲國安事件 吳誠文：不影響我國AI產業"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "黃仁勳出軌物件是中國女間諜？ 中國外交部回應了",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92VjdlallZdDNNOENESC1KYVNZaTRlX2pwS3ZrMHBGcktRYU1kQnZUXzg2dHhtRlA2NnpFbjdteUJ6bENWZEJCdkJkQV91QU5j?oc=5"
+        },
+        {
+          "source": "公視新聞",
+          "title": "黃仁勳婚外情女子遭指共諜 中國外交部駁斥稱捕風捉影",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsSERldENVOWl3YUw2NVRkUmxrM0QyeVY5SmszQUdLa3hlM3RmUUYyajZ5ZlFyblJ0MVBsd3FrY0t2QnlvUXZlTzNjazlPNlE?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "黃仁勳外遇中國女間諜捲國安事件 吳誠文：不影響我國AI產業",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5635742"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "黃仁勳小三遭起底!前央視同事證實「她不簡單」 北京駁間諜抹黑.川普力挺到底｜TVBS新聞 @TVBSNEWS01",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hblFKT2ROZXhJcW1uWXAzZDlwek5idUhVSTZXdzIzbVdVWGYwUWVVWTM4dWtRblZSc2czVjdvdWVGX3J5ZWJFeWlCQXZxc1lYTHRZdmhB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
       "summary": [
         "自由時報：男子駕車衝入白宮對面公園　遭特勤局逮捕",
@@ -57,33 +89,6 @@
           "source": "ETtoday",
           "title": "1男開車衝撞白宮對面公園　遭特勤局逮捕",
           "url": "https://www.ettoday.net/news/20261110/3269269.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "川普質疑期中選舉正當性　再度指控選舉舞弊",
-      "summary": [
-        "經濟日報：川普質疑期中選舉正當性　再度指控選舉舞弊",
-        "ETtoday：川普態度反轉！　控期中選舉舞弊",
-        "自由時報：川普再提選舉舞弊指控 參院民主黨領袖狠嗆：一切歸於他的失敗"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普質疑期中選舉正當性　再度指控選舉舞弊",
-          "url": "https://money.udn.com/money/story/10511/9867974"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普態度反轉！　控期中選舉舞弊",
-          "url": "https://www.ettoday.net/news/20261110/3269258.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "川普再提選舉舞弊指控 參院民主黨領袖狠嗆：一切歸於他的失敗",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635185"
         }
       ]
     },
@@ -116,33 +121,6 @@
     },
     {
       "rank": 5,
-      "title": "黃仁勳出軌物件是中國女間諜？ 中國外交部回應了",
-      "summary": [
-        "風傳媒：黃仁勳出軌物件是中國女間諜？ 中國外交部回應了",
-        "公視新聞：黃仁勳婚外情女子遭指共諜 中國外交部駁斥稱捕風捉影",
-        "自由時報：黃仁勳外遇中國女間諜捲國安事件 吳誠文：不影響我國AI產業"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "風傳媒",
-          "title": "黃仁勳出軌物件是中國女間諜？ 中國外交部回應了",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92VjdlallZdDNNOENESC1KYVNZaTRlX2pwS3ZrMHBGcktRYU1kQnZUXzg2dHhtRlA2NnpFbjdteUJ6bENWZEJCdkJkQV91QU5j?oc=5"
-        },
-        {
-          "source": "公視新聞",
-          "title": "黃仁勳婚外情女子遭指共諜 中國外交部駁斥稱捕風捉影",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsSERldENVOWl3YUw2NVRkUmxrM0QyeVY5SmszQUdLa3hlM3RmUUYyajZ5ZlFyblJ0MVBsd3FrY0t2QnlvUXZlTzNjazlPNlE?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "黃仁勳外遇中國女間諜捲國安事件 吳誠文：不影響我國AI產業",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5635742"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "卸任前最後一戰！蔡其昌揭臺日交流賽意義　盼中華隊交流常態化",
       "summary": [
         "ETtoday：卸任前最後一戰！蔡其昌揭臺日交流賽意義　盼中華隊交流常態化",
@@ -163,86 +141,107 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "拜登縮短回憶錄宣傳行程　稱癌症病情拖慢步伐",
+      "rank": 6,
+      "title": "力挺黃仁勳 川普:他說不知道黃樂是共諜｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
-        "自由時報：拜登縮短回憶錄宣傳行程　稱癌症病情拖慢步伐",
-        "經濟日報：拜登縮短回憶錄宣傳行程　稱癌症病情拖慢步伐"
+        "TVBS新聞：力挺黃仁勳 川普:他說不知道黃樂是共諜｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "公視新聞：川普與黃仁勳通話 稱相信對方「不知黃樂是共諜」｜20261110 公視午間新聞 ｜ 公視新聞 PNN"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "力挺黃仁勳 川普:他說不知道黃樂是共諜｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Zb3N6NEQ5MzFRZFFzWk8yb05HSy1FdGZ0VkNDNWc3SDJVMXE1VHZWWTBSb0NhMlI2cmlxZ3Y1SW9tMlhnNFZ1eTdZV0JSZmdqQ1dDNTdn?oc=5"
+        },
+        {
+          "source": "公視新聞",
+          "title": "川普與黃仁勳通話 稱相信對方「不知黃樂是共諜」｜20261110 公視午間新聞 ｜ 公視新聞 PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8teGw1SXZJQUZBZ3hRNUpRbXJ5cjZpOFhVYmktQkMwakNRaHhkZERjTFhkdFBxZERzSVJucHA4RWs3S19nVTFDX0lFQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "高科技難防舊套路　美人計歷久不衰成為國際情報戰利器",
+      "summary": [
+        "自由時報：高科技難防舊套路　美人計歷久不衰成為國際情報戰利器",
+        "經濟日報：高科技難防舊套路　美人計歷久不衰成為國際情報戰利器"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "拜登縮短回憶錄宣傳行程　稱癌症病情拖慢步伐",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635098"
+          "title": "高科技難防舊套路　美人計歷久不衰成為國際情報戰利器",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635102"
         },
         {
           "source": "經濟日報",
-          "title": "拜登縮短回憶錄宣傳行程　稱癌症病情拖慢步伐",
-          "url": "https://money.udn.com/money/story/5599/9867997"
+          "title": "高科技難防舊套路　美人計歷久不衰成為國際情報戰利器",
+          "url": "https://money.udn.com/money/story/5599/9868023"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "牽動全球AI命脈　黃仁勳爆婚外情調查凸顯接班危機",
+      "title": "中東戰局現外交曙光　國際油價跌至8月來新低",
       "summary": [
-        "自由時報：牽動全球AI命脈　黃仁勳爆婚外情調查凸顯接班危機",
-        "經濟日報：牽動全球AI命脈　黃仁勳爆婚外情調查凸顯接班危機"
+        "自由時報：中東戰局現外交曙光　國際油價跌至8月來新低",
+        "經濟日報：中東戰局現外交曙光　國際油價跌至8月來新低"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "牽動全球AI命脈　黃仁勳爆婚外情調查凸顯接班危機",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635097"
+          "title": "中東戰局現外交曙光　國際油價跌至8月來新低",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5635103"
         },
         {
           "source": "經濟日報",
-          "title": "牽動全球AI命脈　黃仁勳爆婚外情調查凸顯接班危機",
-          "url": "https://money.udn.com/money/story/5599/9867996"
+          "title": "中東戰局現外交曙光　國際油價跌至8月來新低",
+          "url": "https://money.udn.com/money/story/5599/9868025"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "法國指控伊朗革命衛隊為全歐超市冰箱駭客案幕後黑手 擬推動歐盟制裁",
+      "title": "臺指期夜盤漲逾千點！美股收高1104點　輝達逆勢跌4.27%",
       "summary": [
-        "自由時報：法國指控伊朗革命衛隊為全歐超市冰箱駭客案幕後黑手 擬推動歐盟制裁",
-        "ETtoday：商品全爛！法國指控伊朗「入侵冷藏裝置」　放話進一步制裁"
+        "ETtoday：臺指期夜盤漲逾千點！美股收高1104點　輝達逆勢跌4.27%",
+        "經濟日報：美股收盤／三大指數強彈逾2% 費半狂飆6.8% 輝達獨憔悴大跌4%"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "法國指控伊朗革命衛隊為全歐超市冰箱駭客案幕後黑手 擬推動歐盟制裁",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635093"
+          "source": "ETtoday",
+          "title": "臺指期夜盤漲逾千點！美股收高1104點　輝達逆勢跌4.27%",
+          "url": "https://finance.ettoday.net/news/3269266"
         },
         {
-          "source": "ETtoday",
-          "title": "商品全爛！法國指控伊朗「入侵冷藏裝置」　放話進一步制裁",
-          "url": "https://www.ettoday.net/news/20261110/3269332.htm"
+          "source": "經濟日報",
+          "title": "美股收盤／三大指數強彈逾2% 費半狂飆6.8% 輝達獨憔悴大跌4%",
+          "url": "https://money.udn.com/money/story/123398/9868074"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "輝達執行長黃仁勳捲入共諜疑雲 與川普緊密政商關係遭國會嚴格檢視",
+      "title": "川普態度反轉！　控期中選舉舞弊",
       "summary": [
-        "自由時報：輝達執行長黃仁勳捲入共諜疑雲 與川普緊密政商關係遭國會嚴格檢視",
-        "經濟日報：黃仁勳婚外情捲情報案　川普政商關係與晶片政策遭檢視"
+        "ETtoday：川普態度反轉！　控期中選舉舞弊",
+        "自由時報：川普再提選舉舞弊指控 參院民主黨領袖狠嗆：一切歸於他的失敗"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "輝達執行長黃仁勳捲入共諜疑雲 與川普緊密政商關係遭國會嚴格檢視",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635095"
+          "source": "ETtoday",
+          "title": "川普態度反轉！　控期中選舉舞弊",
+          "url": "https://www.ettoday.net/news/20261110/3269258.htm"
         },
         {
-          "source": "經濟日報",
-          "title": "黃仁勳婚外情捲情報案　川普政商關係與晶片政策遭檢視",
-          "url": "https://money.udn.com/money/story/5599/9869180"
+          "source": "自由時報",
+          "title": "川普再提選舉舞弊指控 參院民主黨領袖狠嗆：一切歸於他的失敗",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635185"
         }
       ]
     }
@@ -277,33 +276,6 @@
     },
     {
       "rank": 2,
-      "title": "Anthropic 在 IPO 前推出 Fable 5.2 和 Mythos 5.2 人工智慧模型",
-      "summary": [
-        "Investing.com：Anthropic 在 IPO 前推出 Fable 5.2 和 Mythos 5.2 人工智慧模型",
-        "The Verge：Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型號",
-        "Yahoo Finance：Anthropic debuts Claude Fable 5.2 and Mythos 5.2 models as IPO nears"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Anthropic 在 IPO 前推出 Fable 5.2 和 Mythos 5.2 人工智慧模型",
-          "url": "https://www.investing.com/news/stock-market-news/anthropic-launches-fable-52-and-mythos-52-ai-models-ahead-of-ipo-5013030"
-        },
-        {
-          "source": "The Verge",
-          "title": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型號",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Anthropic debuts Claude Fable 5.2 and Mythos 5.2 models as IPO nears",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORUxtR3VZQVJjcnhWLW1rb3RBdG1vMlFJRlpGeG9iTmdtZ0RrVTBDRkJITUQtM3FjZkhrZHQtb3J4cGNsLUs0SllMR05JcENTWFVOZjJLUUM0c0k2aXlhZGJKNFdnUFd2ZUVtcmp3WWdudFhpWG41by11a3lDZWI1b3Z1VHppTzBteEt4amNJeXc0Y0diSkxnMUdGeVVwNXQ2Y3RUeC1qS3V6cU04eUJtUUg2WHBPVk5pWXB5Vlp1YktpOWxY?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "SoftBank Logs $7 Billion Loss After US Data Center Costs Swell",
       "summary": [
         "Bloomberg Tech：SoftBank Logs $7 Billion Loss After US Data Center Costs Swell",
@@ -330,7 +302,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "What to know about the Nvidia scandal and CEO Jensen Huang",
       "summary": [
         "Washington Post：What to know about the Nvidia scandal and CEO Jensen Huang",
@@ -351,7 +323,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Nvidia's Jensen Huang admits to affair with suspected Chinese spy, raising security concerns",
       "summary": [
         "Yahoo Finance：Nvidia's Jensen Huang admits to affair with suspected Chinese spy, raising security concerns",
@@ -368,6 +340,27 @@
           "source": "Bloomberg Tech",
           "title": "Nvidia CEO Jensen Huang's Affair With Alleged Spy Raises Succession Concerns",
           "url": "https://www.bloomberg.com/news/features/2026-11-09/nvidia-ceo-jensen-huang-s-affair-with-alleged-spy-raises-succession-concerns"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary": [
+        "TechCrunch：Anthropic reportedly plans to move forward with IPO plans",
+        "Yahoo Finance：Anthropic reportedly plans to move forward with IPO plans"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "Anthropic reportedly plans to move forward with IPO plans",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Anthropic reportedly plans to move forward with IPO plans",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaEpJRGNfTXFaUW10U2IzektqXzRlaVhNWFNTa2hXOWsyb0taWjgxNGNpb2ctVDZTTlF5YXZMZWJKb3AwcFU2WWp0czFNVXNTdFRueXIwV1Q3RTJZS1VEWWJPSDFiek9JeXk5Snl4WW1WYjNOelFPOUVWSHkyNjhNQVVtNDhkaDR0NGQwM2F6VjRuZjA2TThCRXp2NVdvX0ZRZzB3SXZn?oc=5"
         }
       ]
     },
