@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-11 06:43",
+  "updated_at": "2026-11-11 07:40",
   "taiwan": [
     {
       "rank": 1,
-      "title": "臺灣智慧醫電接軌國際——2026 CARES EXPO 匯聚產業合作新商機",
-      "summary": [
-        "關鍵評論網：臺灣智慧醫電接軌國際——2026 CARES EXPO 匯聚產業合作新商機",
-        "INSIDE硬塞：臺灣智慧醫電接軌國際——2026 CARES EXPO 匯聚產業合作新商機",
-        "癮科技Cool3c：臺灣智慧醫電接軌國際——2026 CARES EXPO 匯聚產業合作新商機"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "關鍵評論網",
-          "title": "臺灣智慧醫電接軌國際——2026 CARES EXPO 匯聚產業合作新商機",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYa3dBQW8zeUFLZG9fQVdKcFhfSHdWTTVvTjhZS2stTW9YNTZ5YUhFdmZOMDBkTXN0b2dqS29EWWU3SHg1YmkyTmNIMl9QdHZsOXJ5WQ?oc=5"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "臺灣智慧醫電接軌國際——2026 CARES EXPO 匯聚產業合作新商機",
-          "url": "https://www.inside.com.tw/article/42873-4SA"
-        },
-        {
-          "source": "癮科技Cool3c",
-          "title": "臺灣智慧醫電接軌國際——2026 CARES EXPO 匯聚產業合作新商機",
-          "url": "https://www.cool3c.com/article/253973"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "快訊／臺積電豪砸320億美元入股OpenAI、Anthropic",
       "summary": [
         "ETtoday：快訊／臺積電豪砸320億美元入股OpenAI、Anthropic",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "紐時：接班無人、董事會太乖　黃仁勳風波曝輝達隱憂",
       "summary": [
         "自由時報：紐時：接班無人、董事會太乖　黃仁勳風波曝輝達隱憂",
@@ -83,7 +56,55 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "美籲俄烏止戰與歐洲安全架構繫結　歐洲質疑",
+      "summary": [
+        "自由時報：美籲俄烏止戰與歐洲安全架構繫結　歐洲質疑",
+        "經濟日報：美籲俄烏止戰與歐洲安全架構繫結　歐洲質疑",
+        "ETtoday：美籲俄烏止戰與歐洲安全架構繫結　歐洲憂俄懷鬼胎"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美籲俄烏止戰與歐洲安全架構繫結　歐洲質疑",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5636402"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美籲俄烏止戰與歐洲安全架構繫結　歐洲質疑",
+          "url": "https://money.udn.com/money/story/5599/9870681"
+        },
+        {
+          "source": "ETtoday",
+          "title": "美籲俄烏止戰與歐洲安全架構繫結　歐洲憂俄懷鬼胎",
+          "url": "https://www.ettoday.net/news/20261111/3269943.htm"
+        }
+      ]
+    },
+    {
       "rank": 4,
+      "title": "盧比歐稱美國重創伊朗經濟　暫無必要重啟大規模軍事行動",
+      "summary": [
+        "自由時報：盧比歐稱美國重創伊朗經濟　暫無必要重啟大規模軍事行動",
+        "經濟日報：盧比歐稱美國重創伊朗經濟　暫無必要重啟大規模軍事行動"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "盧比歐稱美國重創伊朗經濟　暫無必要重啟大規模軍事行動",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5636397"
+        },
+        {
+          "source": "經濟日報",
+          "title": "盧比歐稱美國重創伊朗經濟　暫無必要重啟大規模軍事行動",
+          "url": "https://money.udn.com/money/story/5599/9870660"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "保加利亞嚴重車禍！高速公路連環撞至少「12死10傷」",
       "summary": [
         "ETtoday：保加利亞嚴重車禍！高速公路連環撞至少「12死10傷」",
@@ -104,7 +125,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "投資損失、資料中心專案採購計畫變更 軟銀上季虧損70億美元",
       "summary": [
         "財訊：投資損失、資料中心專案採購計畫變更 軟銀上季虧損70億美元",
@@ -125,7 +146,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "黃樂被爆已結婚！與丈夫合照曝光　他因操縱股票被捕",
       "summary": [
         "ETtoday：黃樂被爆已結婚！與丈夫合照曝光　他因操縱股票被捕",
@@ -146,7 +167,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "曾為兒虐案、市府不足處致歉　蔣萬安：沈伯洋永不認錯勇氣哪來的？",
       "summary": [
         "ETtoday：曾為兒虐案、市府不足處致歉　蔣萬安：沈伯洋永不認錯勇氣哪來的？",
@@ -167,7 +188,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "從助理到選將！張銘祐萬華辦政見會 林右昌、顏聖冠現身力挺",
       "summary": [
         "自由時報：從助理到選將！張銘祐萬華辦政見會 林右昌、顏聖冠現身力挺",
@@ -188,7 +209,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "反擊彈劾出於私怨、作秀  赫格塞斯：終將失敗",
       "summary": [
         "自由時報：反擊彈劾出於私怨、作秀  赫格塞斯：終將失敗",
@@ -207,278 +228,245 @@
           "url": "https://www.ettoday.net/news/20261110/3269899.htm"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "秦慧珠合照比3 鄭麗文：你怎可以面帶微笑看著沈伯洋呢？",
-      "summary": [
-        "自由時報：秦慧珠合照比3 鄭麗文：你怎可以面帶微笑看著沈伯洋呢？",
-        "ETtoday：鄭麗文點名秦慧珠「博版面」　認選情緊繃：怎可以微笑看沈伯洋？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "秦慧珠合照比3 鄭麗文：你怎可以面帶微笑看著沈伯洋呢？",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5636366"
-        },
-        {
-          "source": "ETtoday",
-          "title": "鄭麗文點名秦慧珠「博版面」　認選情緊繃：怎可以微笑看沈伯洋？",
-          "url": "https://www.ettoday.net/news/20261110/3269889.htm"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Anthropic重磅IPO目標估價達1.4百萬美元",
+      "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
       "summary": [
-        "Bloomberg Tech：Anthropic重磅IPO目標估價達1.4百萬美元",
-        "WSJ Markets：Anthropic 尋求 IPO 估值 1.3 兆美元",
-        "The Verge：人類目標 1.4 兆美元 IPO"
+        "WSJ Markets：Anthropic to Seek $1.3 Trillion Valuation in IPO",
+        "Bloomberg Tech：Anthropic Targets $1.4 Trillion Valuation in IPO",
+        "Yahoo Finance：Anthropic seeks $1.4 trillion valuation in highly anticipated IPO amid AI boom"
       ],
       "media_count": 4,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic重磅IPO目標估價達1.4百萬美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record"
-        },
-        {
           "source": "WSJ Markets",
-          "title": "Anthropic 尋求 IPO 估值 1.3 兆美元",
+          "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
           "url": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669?mod=rss_markets_main"
         },
         {
-          "source": "The Verge",
-          "title": "人類目標 1.4 兆美元 IPO",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+          "source": "Bloomberg Tech",
+          "title": "Anthropic Targets $1.4 Trillion Valuation in IPO",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video"
         },
         {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic重磅IPO目標估價達1.4百萬美元",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwb4e46h"
+          "source": "Yahoo Finance",
+          "title": "Anthropic seeks $1.4 trillion valuation in highly anticipated IPO amid AI boom",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFd6MGdLa3YwRWRsck0xaEFGNHNwYm9nSW1idFZSeWVLVzczSG5mYy1hazd3bUppeW9NNlhTM3p0Si0xZWxYd0R0QU9ReXZONmVPMHNtMTYwRG43N3FfWEJjMXltM2pGZXRJWGxiNXV5WXVndXlOQ3E4VTBTQ3gwdzhJc1l6VTh2ODJKNFMtOXRzMWJDYS05TGl0UzR2bXBkc2xB?oc=5"
+        },
+        {
+          "source": "The Verge",
+          "title": "Anthropic targets $1.4 trillion IPO",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "隨著人工智慧實驗室進軍納斯達克，Anthropic 將即將到來的 IPO 定價範圍定為 70 至 78 美元",
+      "title": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches toward Nasdaq",
       "summary": [
-        "CNBC：隨著人工智慧實驗室進軍納斯達克，Anthropic 將即將到來的 IPO 定價範圍定為 70 至 78 美元",
-        "TechCrunch：Anthropic 將 IPO 價格範圍設定為每股 70 至 78 美元，隱含估值達到 1.404 兆美元",
-        "Yahoo Finance：Anthropic 將 IPO 價格區間定為 70 至 78 美元，公司估值高達 1.4 兆美元"
+        "CNBC：Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches toward Nasdaq",
+        "TechCrunch：Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+        "Yahoo Finance：Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion"
       ],
       "media_count": 3,
       "links": [
         {
           "source": "CNBC",
-          "title": "隨著人工智慧實驗室進軍納斯達克，Anthropic 將即將到來的 IPO 定價範圍定為 70 至 78 美元",
+          "title": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches toward Nasdaq",
           "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
         },
         {
           "source": "TechCrunch",
-          "title": "Anthropic 將 IPO 價格範圍設定為每股 70 至 78 美元，隱含估值達到 1.404 兆美元",
+          "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
           "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
         },
         {
           "source": "Yahoo Finance",
-          "title": "Anthropic 將 IPO 價格區間定為 70 至 78 美元，公司估值高達 1.4 兆美元",
+          "title": "Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPazlCUWZlSWdNODhxbW9CM2k4aFhUbmdMZVN1T1JERW52RkNoRWRfMm1zNzZleFJDM0VzYVBKNWNVUGd5d1dnM3RtWldMZmdzR1lOWktxUi1lOG9XbzQ3c0ZMQnpjNkVrZl9vSW1zRGRLd1pFNUdTdVlIY3dWUlBWTHZmV1dxSVBVWDFtNzZyanFBdDFrMlF3X0NhYw?oc=5"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "黃仁勳陷疑似中國間諜事件 人工智慧行業震蕩",
+      "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
       "summary": [
-        "法廣RFI：黃仁勳陷疑似中國間諜事件 人工智慧行業震蕩",
-        "CNBC：專欄：英偉達執行長黃仁勳涉嫌中國間諜醜聞，有許多指責",
-        "Yahoo Finance：黃仁勳的間諜醜聞可能會讓英偉達在中國晶片大戰中付出代價"
+        "CNBC：Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
+        "Investing.com：Amazon’s Ring launches flying camera, autonomous security robot",
+        "Ars Technica：Ring cameras go mobile as Amazon debuts AI-powered security drone and robot"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "黃仁勳陷疑似中國間諜事件 人工智慧行業震蕩",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E6%B3%95%E5%9C%8B%E5%A0%B1%E7%B4%99%E6%91%98%E8%A6%81/20261110-%E5%8D%B1%E9%9A%AA%E7%9A%84%E9%97%9C%E4%BF%82-%E8%8B%B1%E5%81%89%E9%81%94ceo%E9%99%B7%E7%96%91%E4%BC%BC%E4%B8%AD%E5%9C%8B%E9%96%93%E8%AB%9C%E4%BA%8B%E4%BB%B6%E9%9C%87%E8%95%A9%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A1%8C%E6%A5%AD"
-        },
-        {
           "source": "CNBC",
-          "title": "專欄：英偉達執行長黃仁勳涉嫌中國間諜醜聞，有許多指責",
-          "url": "https://www.cnbc.com/2026/11/10/nvidia-ceo-jensen-huang-china-spy-scandal.html"
+          "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
+          "url": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "黃仁勳的間諜醜聞可能會讓英偉達在中國晶片大戰中付出代價",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTEpqUDMzMnpvNDZScGkyMDUzVmx3X0dpQzFUYzIwU1JSaG95emh5cnRXRzNZQVlyeXFsd0dFdGV3cjN4alFQemg1Ty0yUFRsQWdPLVE3Z1hSTWV6ZGQwZnFuaVB5cGsyZGszbmJHdFlxOUVZN2prOE90czZPN2F6R0tWRkZXc2xBMk1aUFRnd1VzeVpDcmktMnFtXzRseXJPaXVuMjdrOHlzeHYtbFlKU0RUM3p0QVU0Qk1vZnQ3ZmxvYmN1TWxZQUh5NVQ2VWc?oc=5"
+          "source": "Investing.com",
+          "title": "Amazon’s Ring launches flying camera, autonomous security robot",
+          "url": "https://www.investing.com/news/stock-market-news/amazons-ring-launches-flying-camera-autonomous-security-robot-5015911"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+          "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
         }
       ]
     },
     {
       "rank": 4,
-      "title": "亞馬遜的 Ring 推出飛行無人機和機器人來巡邏家庭和企業",
+      "title": "House Republicans elect Jim Jordan to serve as minority leader next year",
       "summary": [
-        "CNBC：亞馬遜的 Ring 推出飛行無人機和機器人來巡邏家庭和企業",
-        "Investing.com：亞馬遜 Ring 推出飛行攝影機和自主安全機器人",
-        "Bloomberg Tech：亞馬遜 Ring 推出飛行安全攝影機"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "亞馬遜的 Ring 推出飛行無人機和機器人來巡邏家庭和企業",
-          "url": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "亞馬遜 Ring 推出飛行攝影機和自主安全機器人",
-          "url": "https://www.investing.com/news/stock-market-news/amazons-ring-launches-flying-camera-autonomous-security-robot-5015911"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "亞馬遜 Ring 推出飛行安全攝影機",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-10/amazon-s-ring-unveils-flying-security-camera-video"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "眾議院共和黨人選舉吉姆喬丹明年擔任少數黨領袖",
-      "summary": [
-        "Washington Post：眾議院共和黨人選舉吉姆喬丹明年擔任少數黨領袖",
-        "Financial Times：共和黨人選擇吉姆喬丹為眾議院少數黨領袖",
-        "CNBC：吉姆喬丹當選眾議院共和黨領袖"
+        "Washington Post：House Republicans elect Jim Jordan to serve as minority leader next year",
+        "Financial Times：Republicans choose Jim Jordan as House minority leader",
+        "CNBC：Jim Jordan elected House GOP leader"
       ],
       "media_count": 3,
       "links": [
         {
           "source": "Washington Post",
-          "title": "眾議院共和黨人選舉吉姆喬丹明年擔任少數黨領袖",
+          "title": "House Republicans elect Jim Jordan to serve as minority leader next year",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXRIeEYxWHlYVkJUdVFOZzc3aFdDNzZkWmMyOGhBTnFKamdyYW9xSWp3TkZ0NF94ZVdFeENyb3FWN2VXRzVycTA0cGZLVmxCSHQtaTg0VXhPVlYxeW9SbXppVzhNWkFDdkp6OE5BSG1yRnIyd0VVOXY0UnczcDU1dEt4T09kY3NRNzVMcmlpcmt4YTZtZlU5cG5IdHprZzZLc1gzYWJucmpYV3VyRnlYQlhXMjBkNUdYU2c?oc=5"
         },
         {
           "source": "Financial Times",
-          "title": "共和黨人選擇吉姆喬丹為眾議院少數黨領袖",
+          "title": "Republicans choose Jim Jordan as House minority leader",
           "url": "https://www.ft.com/content/438a36a5-a711-4fe1-b3d8-83020197a0ed?syn-25a6b1a6=1"
         },
         {
           "source": "CNBC",
-          "title": "吉姆喬丹當選眾議院共和黨領袖",
+          "title": "Jim Jordan elected House GOP leader",
           "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html"
         }
       ]
     },
     {
-      "rank": 6,
-      "title": "美國高階士兵因涉嫌為俄羅斯從事間諜活動在英國被捕",
+      "rank": 5,
+      "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
       "summary": [
-        "Financial Times：美國高階士兵因涉嫌為俄羅斯從事間諜活動在英國被捕",
-        "Washington Post：美國陸軍軍官因涉嫌試圖為俄羅斯竊取機密而在英國被捕",
-        "WSJ Markets：英國警方逮捕一名涉嫌為俄羅斯從事間諜活動的美國陸軍士兵"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "美國高階士兵因涉嫌為俄羅斯從事間諜活動在英國被捕",
-          "url": "https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Washington Post",
-          "title": "美國陸軍軍官因涉嫌試圖為俄羅斯竊取機密而在英國被捕",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV0ZuSmdENDlES0Z4TXdvbHMwdk5IUE5jbF9IalBrbFllVEJtbWRINVFyNzBUZVZ2YjdZdk5HaUJ4dHk4eHhxRnhVREUwdkhld2hDYl9DbWlWQUhxZWQ5R2xxUFJsOHh6dDRkOHFQUWpLSnlPLUZEZXljMGdTWExQWVZKT3dtN3BYMmc2Y0JPV19BdVBtYlhlLS1henREZUViWFBEZ0ZIZ0VsTHRacTU4MzlYbDE?oc=5"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "英國警方逮捕一名涉嫌為俄羅斯從事間諜活動的美國陸軍士兵",
-          "url": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "印尼副總統資格遭質疑“打算辭職”",
-      "summary": [
-        "Financial Times：印尼副總統資格遭質疑“打算辭職”",
-        "Nikkei Asia：印尼總統府稱副總統吉布蘭將辭職"
+        "Bloomberg Tech：Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+        "Bloomberg Markets：Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "印尼副總統資格遭質疑“打算辭職”",
-          "url": "https://www.ft.com/content/87f2dfb7-e8b5-4248-9eee-fa3527200fee?syn-25a6b1a6=1"
+          "source": "Bloomberg Tech",
+          "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record"
         },
-        {
-          "source": "Nikkei Asia",
-          "title": "印尼總統府稱副總統吉布蘭將辭職",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcC05V3FDY0t4SU1SN1ZqMmxjVXRhWV9lZlRwRFFhUDZFUTB0eUZYWHlpTUowaEdDUS1sUm5pMFNDSm9ZcEN2T214c1BxSTBuakVoOTF1cWJmS09qeEp1OWkzZUh5by1DenZYb1dCcGpOWExRS3VLdlFSOFdmU2R5WUljeXBOQmdkMjdtZVl0Q1ltZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "保加利亞高速公路連環相撞事故造成至少 12 人死亡、數十人受傷",
-      "summary": [
-        "Bloomberg Markets：保加利亞高速公路連環相撞事故造成至少 12 人死亡、數十人受傷",
-        "BBC World：保加利亞大霧高速公路連環相撞事故造成12人死亡"
-      ],
-      "media_count": 2,
-      "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "保加利亞高速公路連環相撞事故造成至少 12 人死亡、數十人受傷",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-10/highway-pile-ups-leave-12-dead-and-dozens-injured-in-bulgaria"
-        },
-        {
-          "source": "BBC World",
-          "title": "保加利亞大霧高速公路連環相撞事故造成12人死亡",
-          "url": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss"
+          "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwb4e46h"
         }
       ]
     },
     {
-      "rank": 9,
-      "title": "10月份居民消費物價上漲0.4% 超預期",
+      "rank": 6,
+      "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
       "summary": [
-        "CNBC：10月份居民消費物價上漲0.4% 超預期",
-        "NHK新聞：美國10月消費者物價指數月增0.4%，超出市場預期"
+        "CNBC：Pete Hegseth decries impeachment push, defends Iran war handling",
+        "Financial Times：Defiant Pete Hegseth defends Iran war as he faces impeachment vote"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "CNBC",
-          "title": "10月份居民消費物價上漲0.4% 超預期",
-          "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+          "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
+          "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html"
         },
         {
-          "source": "NHK新聞",
-          "title": "美國10月消費者物價指數月增0.4%，超出市場預期",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261110de73820"
+          "source": "Financial Times",
+          "title": "Defiant Pete Hegseth defends Iran war as he faces impeachment vote",
+          "url": "https://www.ft.com/content/38100c3c-af0d-440b-8350-823c5e8c80d9?syn-25a6b1a6=1"
         }
       ]
     },
     {
-      "rank": 10,
-      "title": "親身體驗 Ring 的新型人工智慧無人機相機",
+      "rank": 7,
+      "title": "Hands-on with Ring’s new AI drone camera for your home",
       "summary": [
-        "The Verge：親身體驗 Ring 的新型人工智慧無人機相機",
+        "The Verge：Hands-on with Ring’s new AI drone camera for your home",
         "Wired：Ring 的室內無人機攝影機回歸，現在由人工智慧提供支援"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "The Verge",
-          "title": "親身體驗 Ring 的新型人工智慧無人機相機",
+          "title": "Hands-on with Ring’s new AI drone camera for your home",
           "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
         },
         {
           "source": "Wired",
           "title": "Ring 的室內無人機攝影機回歸，現在由人工智慧提供支援",
           "url": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "高盛預計到 2030 年 Anthropic 營收將超過 6,000 億美元",
+      "summary": [
+        "Financial Times：高盛預計到 2030 年 Anthropic 營收將超過 6,000 億美元",
+        "Bloomberg Markets：高盛分析師預計 2030 年 Anthropic 營收將達到 6,850 億美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "高盛預計到 2030 年 Anthropic 營收將超過 6,000 億美元",
+          "url": "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "高盛分析師預計 2030 年 Anthropic 營收將達到 6,850 億美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-10/goldman-analysts-see-anthropic-revenue-at-685-billion-by-2030"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "FDA 警告 GLP-1 藥物可能會帶來導致視力喪失的罕見疾病的風險",
+      "summary": [
+        "Ars Technica：FDA 警告 GLP-1 藥物可能會帶來導致視力喪失的罕見疾病的風險",
+        "BBC World：Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Ars Technica",
+          "title": "FDA 警告 GLP-1 藥物可能會帶來導致視力喪失的罕見疾病的風險",
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/"
+        },
+        {
+          "source": "BBC World",
+          "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+          "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "summary": [
+        "The Verge：Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+        "VentureBeat：Google Gemini 4 Carbon is now publicly available — and it undercuts Claude Fable 5.2 and Opus 5.5 on API price"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+        },
+        {
+          "source": "VentureBeat",
+          "title": "Google Gemini 4 Carbon is now publicly available — and it undercuts Claude Fable 5.2 and Opus 5.5 on API price",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjR5SzFCUEJCS0phWGJKT2FDREJBQnA3U094UHh2azF6VVYtUENId29Zb3Iya3dLT29vdVNFMkJTMTdVS1dYYWJ5VmNaMlp1TG1qbUtUYVp3cEx1TzI0NFRLS3hROE1wall1eThWMnVzZ1pnc290OUpPd1FTVHR3OTJ3UmowSnQ2NUhDS21JYV8zNkoyWmw4RDk1Ql94d3VCeFRUemZ1YUprVmNWUGVFRnhKS0RNaEFtc25zN2lqQzdwMGJ5SzdSeFNaczJZZGhxclhJanJSeWd2bTQ?oc=5"
         }
       ]
     }
