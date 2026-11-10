@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 16:21",
+  "updated_at": "2026-11-10 17:30",
   "taiwan": [
     {
       "rank": 1,
@@ -67,33 +67,6 @@
     },
     {
       "rank": 3,
-      "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
-      "summary": [
-        "自由時報：男子駕車衝入白宮對面公園　遭特勤局逮捕",
-        "經濟日報：男子駕車衝入白宮對面公園　遭特勤局逮捕",
-        "ETtoday：1男開車衝撞白宮對面公園　遭特勤局逮捕"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635101"
-        },
-        {
-          "source": "經濟日報",
-          "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
-          "url": "https://money.udn.com/money/story/5599/9868011"
-        },
-        {
-          "source": "ETtoday",
-          "title": "1男開車衝撞白宮對面公園　遭特勤局逮捕",
-          "url": "https://www.ettoday.net/news/20261110/3269269.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "美防長赫格塞斯面臨彈劾　川普力挺：打贏2場戰爭還要被彈劾？",
       "summary": [
         "ETtoday：美防長赫格塞斯面臨彈劾　川普力挺：打贏2場戰爭還要被彈劾？",
@@ -120,7 +93,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "卸任前最後一戰！蔡其昌揭臺日交流賽意義　盼中華隊交流常態化",
       "summary": [
         "ETtoday：卸任前最後一戰！蔡其昌揭臺日交流賽意義　盼中華隊交流常態化",
@@ -141,7 +114,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "力挺黃仁勳 川普:他說不知道黃樂是共諜｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：力挺黃仁勳 川普:他說不知道黃樂是共諜｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -162,7 +135,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "高科技難防舊套路　美人計歷久不衰成為國際情報戰利器",
       "summary": [
         "自由時報：高科技難防舊套路　美人計歷久不衰成為國際情報戰利器",
@@ -179,6 +152,27 @@
           "source": "經濟日報",
           "title": "高科技難防舊套路　美人計歷久不衰成為國際情報戰利器",
           "url": "https://money.udn.com/money/story/5599/9868023"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
+      "summary": [
+        "經濟日報：男子駕車衝入白宮對面公園　遭特勤局逮捕",
+        "ETtoday：1男開車衝撞白宮對面公園　遭特勤局逮捕"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
+          "url": "https://money.udn.com/money/story/10511/9868011"
+        },
+        {
+          "source": "ETtoday",
+          "title": "1男開車衝撞白宮對面公園　遭特勤局逮捕",
+          "url": "https://www.ettoday.net/news/20261110/3269269.htm"
         }
       ]
     },
@@ -276,75 +270,6 @@
     },
     {
       "rank": 2,
-      "title": "SoftBank Logs $7 Billion Loss After US Data Center Costs Swell",
-      "summary": [
-        "Bloomberg Tech：SoftBank Logs $7 Billion Loss After US Data Center Costs Swell",
-        "CNBC：SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
-        "Investing.com：SoftBank swings to $7 billion net loss in second quarter"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "SoftBank Logs $7 Billion Loss After US Data Center Costs Swell",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-10/softbank-group-earnings-loss-after-ai-worries-hit-tech-stocks-masayoshi-son"
-        },
-        {
-          "source": "CNBC",
-          "title": "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
-          "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "SoftBank swings to $7 billion net loss in second quarter",
-          "url": "https://www.investing.com/news/stock-market-news/softbank-swings-to-7-billion-net-loss-in-second-quarter-5014234"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "What to know about the Nvidia scandal and CEO Jensen Huang",
-      "summary": [
-        "Washington Post：What to know about the Nvidia scandal and CEO Jensen Huang",
-        "The Verge：Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "What to know about the Nvidia scandal and CEO Jensen Huang",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaXZvUkpkcjVhSW5ac1dXOGIwOTkxNTJhOVFEYlJFWF83SGNRSFJOOTdhaWVYOG40SDZ2RTBCYTNwYW9yanoxbkxuSDd6NTVNeG9yZmdIN0RoM0xVcE1QNk4yM3BNbW53aDZWWVVqMWJGZEZpanJDcjBUcl8zQjU1WmlEUl8zT2FrclVLSnVsUGhHbUc3MGNKQVBqMUprWHFMY0Jz?oc=5"
-        },
-        {
-          "source": "The Verge",
-          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Nvidia's Jensen Huang admits to affair with suspected Chinese spy, raising security concerns",
-      "summary": [
-        "Yahoo Finance：Nvidia's Jensen Huang admits to affair with suspected Chinese spy, raising security concerns",
-        "Bloomberg Tech：Nvidia CEO Jensen Huang's Affair With Alleged Spy Raises Succession Concerns"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Nvidia's Jensen Huang admits to affair with suspected Chinese spy, raising security concerns",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaFdNWVk4eVg4NGtBM0h5TzJBM0J1NkhmRGZsT1ZfbEJTSmxiU2trOE9WVUlack9sMnlRM1NDUlN5LVFLdE9uT0dGNFhTb0RFbm9GVWdLZktzUDk0bzZuclo3VDFtbFo3Tk96bmpLUWFRdHh1X1FLQ0xGaHFNRDhfcjNoS2c3cEJDLU5VQUtnVGhVZHdhOGlOQlhhaWJNMTBlMjkxeUtYbFN0ZTZzVG96WURfNEJHcmlpclpNUVlUM0Q4WjU0UmN4MTYzeHc2VHp5Ukxn?oc=5"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Nvidia CEO Jensen Huang's Affair With Alleged Spy Raises Succession Concerns",
-          "url": "https://www.bloomberg.com/news/features/2026-11-09/nvidia-ceo-jensen-huang-s-affair-with-alleged-spy-raises-succession-concerns"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Anthropic reportedly plans to move forward with IPO plans",
       "summary": [
         "TechCrunch：Anthropic reportedly plans to move forward with IPO plans",
@@ -365,7 +290,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 3,
       "title": "Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
       "summary": [
         "Bloomberg Tech：Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
@@ -386,7 +311,49 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "title": "SoftBank Logs $7 Billion Loss After US Data Center Costs Swell",
+      "summary": [
+        "Bloomberg Tech：SoftBank Logs $7 Billion Loss After US Data Center Costs Swell",
+        "Financial Times：SoftBank posts unexpected $7bn loss on data centre writedown"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "SoftBank Logs $7 Billion Loss After US Data Center Costs Swell",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-10/softbank-group-earnings-loss-after-ai-worries-hit-tech-stocks-masayoshi-son"
+        },
+        {
+          "source": "Financial Times",
+          "title": "SoftBank posts unexpected $7bn loss on data centre writedown",
+          "url": "https://www.ft.com/content/5ceed157-0016-4822-a272-8b607911da5e?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
+      "summary": [
+        "CNBC：SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
+        "Investing.com：SoftBank swings to $7 billion net loss in second quarter"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
+          "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "SoftBank swings to $7 billion net loss in second quarter",
+          "url": "https://www.investing.com/news/stock-market-news/softbank-swings-to-7-billion-net-loss-in-second-quarter-5014234"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Nvidia Intervened in US Probe of Megaspeed Chip Smuggling",
       "summary": [
         "Bloomberg Tech：Nvidia Intervened in US Probe of Megaspeed Chip Smuggling"
@@ -401,7 +368,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "北京否認與黃仁勛有親密關係的女性為中國間諜- 紐約時報中文網",
       "summary": [
         "紐約時報中文：北京否認與黃仁勛有親密關係的女性為中國間諜- 紐約時報中文網"
@@ -416,7 +383,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Qantas to cut 850 jobs in Australia with Accenture deal; shares jump 4%",
       "summary": [
         "Investing.com：Qantas to cut 850 jobs in Australia with Accenture deal; shares jump 4%"
@@ -431,7 +398,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Anthropic Aims To Raise Up To $69.3 Billion In Blockbuster Ipo",
       "summary": [
         "Investing.com：Anthropic Aims To Raise Up To $69.3 Billion In Blockbuster Ipo"
@@ -442,6 +409,21 @@
           "source": "Investing.com",
           "title": "Anthropic Aims To Raise Up To $69.3 Billion In Blockbuster Ipo",
           "url": "https://www.investing.com/news/stock-market-news/anthropic-aims-to-raise-up-to-693-billion-in-blockbuster-ipo--reuters-432SI-5013860"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勛對英偉達的全面控制是否意味著他難以被懲罰- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：黃仁勛對英偉達的全面控制是否意味著他難以被懲罰- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "黃仁勛對英偉達的全面控制是否意味著他難以被懲罰- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVndZV3Z4WkpUV3NOYXpmWENjM2JwQXpaeDA0MmcxeldvbjNtREhzd0hMMUFJcDlmSzg4TXRBQXVLVlBPNmR0VHBKeFpNQ0dSbERMY3N3bUZLTDZUTi1zZk5zdHBETG45ZVBnQjBLLUZwS2o1Y0w1OVRpV0V4MUlzX05n?oc=5"
         }
       ]
     }
