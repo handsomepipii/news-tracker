@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 11:55",
+  "updated_at": "2026-11-10 12:58",
   "taiwan": [
     {
       "rank": 1,
@@ -30,33 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "黃仁勳爆婚外情之際 川普曾警告AI公司領導人「準備坐牢」",
-      "summary": [
-        "自由時報：黃仁勳爆婚外情之際 川普曾警告AI公司領導人「準備坐牢」",
-        "經濟日報：黃仁勳外遇掀國安疑雲　川普：某AI公司執行長遭警告準備坐牢",
-        "科技新報：黃仁勳外遇掀國安疑雲，川普：某 AI 公司執行長遭警告準備坐牢"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "黃仁勳爆婚外情之際 川普曾警告AI公司領導人「準備坐牢」",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635066"
-        },
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳外遇掀國安疑雲　川普：某AI公司執行長遭警告準備坐牢",
-          "url": "https://money.udn.com/money/story/5599/9867921"
-        },
-        {
-          "source": "科技新報",
-          "title": "黃仁勳外遇掀國安疑雲，川普：某 AI 公司執行長遭警告準備坐牢",
-          "url": "https://infosecu.technews.tw/2026/11/10/jensen-huang-affair-national-security-concerns-trump-ai-ceo-warned-jail/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "男子駕車衝入白宮對面公園　遭特勤局逮捕",
       "summary": [
         "自由時報：男子駕車衝入白宮對面公園　遭特勤局逮捕",
@@ -79,6 +52,33 @@
           "source": "ETtoday",
           "title": "1男開車衝撞白宮對面公園　遭特勤局逮捕",
           "url": "https://www.ettoday.net/news/20261110/3269269.htm"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "川普：黃仁勳不知道外遇物件是共諜 FBI介入調查",
+      "summary": [
+        "經濟日報：川普：黃仁勳不知道外遇物件是共諜 FBI介入調查",
+        "科技新報：川普：黃仁勳不知婚外情物件涉共諜，FBI 查明中",
+        "數位時代：「他不知道對方是間諜！」川普替黃仁勳緩頰國安疑慮，證實FBI正在調查"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普：黃仁勳不知道外遇物件是共諜 FBI介入調查",
+          "url": "https://money.udn.com/money/story/5599/9868093"
+        },
+        {
+          "source": "科技新報",
+          "title": "川普：黃仁勳不知婚外情物件涉共諜，FBI 查明中",
+          "url": "https://infosecu.technews.tw/2026/11/10/trump-jensen-huang-unaware-affair-partner-suspected-chinese-spy-fbi-investigating/"
+        },
+        {
+          "source": "數位時代",
+          "title": "「他不知道對方是間諜！」川普替黃仁勳緩頰國安疑慮，證實FBI正在調查",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeFlrcDFwWk5NUEZoaUtSS2JVa3BHa3ZFaUxpX1d4RlUwcl9WMzl1dW9PRzNGRXBHc04xbXJkRmVGSDVpc2hDRWZyVEp4WUVHUTA4ell5NkVoQ2dkZVdrVk5fVXNTTmhiV1g5eEFvNTd5dHFIT1ltaEc5UE5LZUJtRi1n?oc=5"
         }
       ]
     },
@@ -126,48 +126,6 @@
     },
     {
       "rank": 6,
-      "title": "川普：黃仁勳不知道外遇物件是共諜 FBI介入調查",
-      "summary": [
-        "經濟日報：川普：黃仁勳不知道外遇物件是共諜 FBI介入調查",
-        "科技新報：川普：黃仁勳不知婚外情物件涉共諜，FBI 查明中"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普：黃仁勳不知道外遇物件是共諜 FBI介入調查",
-          "url": "https://money.udn.com/money/story/5599/9868093"
-        },
-        {
-          "source": "科技新報",
-          "title": "川普：黃仁勳不知婚外情物件涉共諜，FBI 查明中",
-          "url": "https://infosecu.technews.tw/2026/11/10/trump-jensen-huang-unaware-affair-partner-suspected-chinese-spy-fbi-investigating/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "氣候峰會登場 歐盟指德義等9國恐難達成2030減排目標",
-      "summary": [
-        "自由時報：氣候峰會登場 歐盟指德義等9國恐難達成2030減排目標",
-        "經濟日報：氣候峰會登場　歐盟指德義等9國恐難達成2030減排目標"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "氣候峰會登場 歐盟指德義等9國恐難達成2030減排目標",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635050"
-        },
-        {
-          "source": "經濟日報",
-          "title": "氣候峰會登場　歐盟指德義等9國恐難達成2030減排目標",
-          "url": "https://money.udn.com/money/story/5599/9867762"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "前央視記者證實黃樂曾是同事！曝共用辦公室：當年就看出她不簡單",
       "summary": [
         "ETtoday：前央視記者證實黃樂曾是同事！曝共用辦公室：當年就看出她不簡單",
@@ -188,7 +146,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "【TVBS18氣象站】入秋最強冷空氣 明晨更凍 低溫15度↓ 中颱查帕卡不擾臺日 東半部注意長浪",
       "summary": [
         "TVBS新聞：【TVBS18氣象站】入秋最強冷空氣 明晨更凍 低溫15度↓ 中颱查帕卡不擾臺日 東半部注意長浪",
@@ -209,7 +167,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "拜登縮短回憶錄宣傳行程　稱癌症病情拖慢步伐",
       "summary": [
         "自由時報：拜登縮短回憶錄宣傳行程　稱癌症病情拖慢步伐",
@@ -226,6 +184,48 @@
           "source": "經濟日報",
           "title": "拜登縮短回憶錄宣傳行程　稱癌症病情拖慢步伐",
           "url": "https://money.udn.com/money/story/5599/9867997"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "牽動全球AI命脈　黃仁勳爆婚外情調查凸顯接班危機",
+      "summary": [
+        "自由時報：牽動全球AI命脈　黃仁勳爆婚外情調查凸顯接班危機",
+        "經濟日報：牽動全球AI命脈　黃仁勳爆婚外情調查凸顯接班危機"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "牽動全球AI命脈　黃仁勳爆婚外情調查凸顯接班危機",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635097"
+        },
+        {
+          "source": "經濟日報",
+          "title": "牽動全球AI命脈　黃仁勳爆婚外情調查凸顯接班危機",
+          "url": "https://money.udn.com/money/story/5599/9867996"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "法國指控伊朗革命衛隊為全歐超市冰箱駭客案幕後黑手 擬推動歐盟制裁",
+      "summary": [
+        "自由時報：法國指控伊朗革命衛隊為全歐超市冰箱駭客案幕後黑手 擬推動歐盟制裁",
+        "ETtoday：商品全爛！法國指控伊朗「入侵冷藏裝置」　放話進一步制裁"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "法國指控伊朗革命衛隊為全歐超市冰箱駭客案幕後黑手 擬推動歐盟制裁",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5635093"
+        },
+        {
+          "source": "ETtoday",
+          "title": "商品全爛！法國指控伊朗「入侵冷藏裝置」　放話進一步制裁",
+          "url": "https://www.ettoday.net/news/20261110/3269332.htm"
         }
       ]
     }
@@ -356,27 +356,6 @@
     },
     {
       "rank": 6,
-      "title": "EU Plans Crackdown on Addictive Social Media and AI Bot Features",
-      "summary": [
-        "Bloomberg Tech：EU Plans Crackdown on Addictive Social Media and AI Bot Features",
-        "Investing.com：EU drafts curbs targeting addictive social media features and AI chatbots"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "EU Plans Crackdown on Addictive Social Media and AI Bot Features",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-09/eu-plans-crackdown-on-addictive-social-media-and-ai-bot-features"
-        },
-        {
-          "source": "Investing.com",
-          "title": "EU drafts curbs targeting addictive social media features and AI chatbots",
-          "url": "https://www.investing.com/news/stock-market-news/eu-drafts-curbs-targeting-addictive-social-media-features-and-ai-chatbots--report-5012845"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "France accuses Iran of supermarket fridge hacking",
       "summary": [
         "BBC World：France accuses Iran of supermarket fridge hacking",
@@ -397,7 +376,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Uber Debuts Parking Reservation Feature After Buying SpotHero",
       "summary": [
         "Bloomberg Tech：Uber Debuts Parking Reservation Feature After Buying SpotHero",
@@ -418,7 +397,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Nvidia CEO's affair becomes a national security problem",
       "summary": [
         "Ars Technica：Nvidia CEO's affair becomes a national security problem",
@@ -439,7 +418,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Nvidia shares drop as Jensen Huang affair raises China spy concerns",
       "summary": [
         "Nikkei Asia：Nvidia shares drop as Jensen Huang affair raises China spy concerns",
@@ -456,6 +435,27 @@
           "source": "BBC World",
           "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
           "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "summary": [
+        "BBC World：Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+        "Financial Times：Republican lawmaker moves to impeach US defence secretary Pete Hegseth"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Financial Times",
+          "title": "Republican lawmaker moves to impeach US defence secretary Pete Hegseth",
+          "url": "https://www.ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb?syn-25a6b1a6=1"
         }
       ]
     }
