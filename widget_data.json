@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-12 01:33",
+  "updated_at": "2026-11-12 02:27",
   "taiwan": [
     {
       "rank": 1,
-      "title": "黃仁勳外遇恐遭勒索　美共和黨資深議員籲下臺",
-      "summary": [
-        "經濟日報：黃仁勳外遇恐遭勒索　美共和黨資深議員籲下臺",
-        "科技新報：黃仁勳外遇恐遭勒索，美共和黨資深議員籲下臺",
-        "ETtoday：黃仁勳婚外情恐遭勒索　美共和黨議員籲下臺：他必須走人"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳外遇恐遭勒索　美共和黨資深議員籲下臺",
-          "url": "https://money.udn.com/money/story/5599/9871765"
-        },
-        {
-          "source": "科技新報",
-          "title": "黃仁勳外遇恐遭勒索，美共和黨資深議員籲下臺",
-          "url": "https://technews.tw/2026/11/11/kevin-cramer-calls-for-jensen-huang-to-resign/"
-        },
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳婚外情恐遭勒索　美共和黨議員籲下臺：他必須走人",
-          "url": "https://www.ettoday.net/news/20261111/3270504.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "板橋埔墘4-7區區段徵收案11／11起公告",
       "summary": [
         "中時新聞：板橋埔墘4-7區區段徵收案11／11起公告",
@@ -56,70 +29,28 @@
       ]
     },
     {
+      "rank": 2,
+      "title": "AI交易樂觀情緒重新點燃　亞洲股市多收漲",
+      "summary": [
+        "經濟日報：AI交易樂觀情緒重新點燃　亞洲股市多收漲",
+        "自由時報：AI樂觀情緒重燃　歐股收紅"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "AI交易樂觀情緒重新點燃　亞洲股市多收漲",
+          "url": "https://money.udn.com/money/story/5599/9872396"
+        },
+        {
+          "source": "自由時報",
+          "title": "AI樂觀情緒重燃　歐股收紅",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5637713"
+        }
+      ]
+    },
+    {
       "rank": 3,
-      "title": "聯合航空發出劫機警報！　男乘客稱「有炸彈」企圖闖駕駛艙",
-      "summary": [
-        "ETtoday：聯合航空發出劫機警報！　男乘客稱「有炸彈」企圖闖駕駛艙",
-        "經濟日報：聯航班機爆劫機驚魂！男乘客謊稱有炸彈闖駕駛艙 機師急發最高警報"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "聯合航空發出劫機警報！　男乘客稱「有炸彈」企圖闖駕駛艙",
-          "url": "https://www.ettoday.net/news/20261111/3270226.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "聯航班機爆劫機驚魂！男乘客謊稱有炸彈闖駕駛艙 機師急發最高警報",
-          "url": "https://money.udn.com/money/story/5599/9872055"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "臺積電高層：AI 需求呈拋物線式成長，熊本二階將匯入 3 奈米",
-      "summary": [
-        "科技新報：臺積電高層：AI 需求呈拋物線式成長，熊本二階將匯入 3 奈米",
-        "經濟日報：臺積電張曉強：AI需求呈拋物線式成長 熊本二階將匯入3奈米"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "臺積電高層：AI 需求呈拋物線式成長，熊本二階將匯入 3 奈米",
-          "url": "https://technews.tw/2026/11/11/tsmc-executives-ai-demand-growing-parabolically-kumamoto-phase-2-introduce-3nm/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "臺積電張曉強：AI需求呈拋物線式成長 熊本二階將匯入3奈米",
-          "url": "https://money.udn.com/money/story/5599/9871679"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Google Pixel Tag開賣，單顆29.99美元，主打藍芽、超寬頻與10億臺Android尋物網路",
-      "summary": [
-        "INSIDE硬塞：Google Pixel Tag開賣，單顆29.99美元，主打藍芽、超寬頻與10億臺Android尋物網路",
-        "癮科技Cool3c：Google物尋標籤Google Pixel Tag在臺推出，單入999元、4入3,390元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "INSIDE硬塞",
-          "title": "Google Pixel Tag開賣，單顆29.99美元，主打藍芽、超寬頻與10億臺Android尋物網路",
-          "url": "https://www.inside.com.tw/article/42884-pixel-tag-google-airtag-rival-on-sale-29-99-usd-find-hub"
-        },
-        {
-          "source": "癮科技Cool3c",
-          "title": "Google物尋標籤Google Pixel Tag在臺推出，單入999元、4入3,390元",
-          "url": "https://www.cool3c.com/article/254002"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "馬斯克要造「有意識太陽」  SpaceX 採購太陽能裝置",
       "summary": [
         "科技新報：馬斯克要造「有意識太陽」  SpaceX 採購太陽能裝置",
@@ -140,7 +71,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "大國領袖紛缺席COP31　G7僅英相與會美中元首未現身",
       "summary": [
         "經濟日報：大國領袖紛缺席COP31　G7僅英相與會美中元首未現身",
@@ -161,7 +92,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "黃仁勳婚外情涉中國間諜！學者：科技巨頭權力大 美國安防線跟不上",
       "summary": [
         "經濟日報：黃仁勳婚外情涉中國間諜！學者：科技巨頭權力大 美國安防線跟不上",
@@ -182,7 +113,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "商周-瘦瘦針恐增加失明風險？美FDA要求加警語，食藥署啟動安全評估- 商業週刊",
       "summary": [
         "商業周刊：商周-瘦瘦針恐增加失明風險？美FDA要求加警語，食藥署啟動安全評估- 商業週刊",
@@ -203,7 +134,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "英國逮捕美軍駐北約部隊軍官 指控涉嫌向俄提供敏感資訊",
       "summary": [
         "公視新聞：英國逮捕美軍駐北約部隊軍官 指控涉嫌向俄提供敏感資訊",
@@ -220,6 +151,69 @@
           "source": "經濟日報",
           "title": "英國逮捕一名美軍士兵 因涉嫌參與俄羅斯間諜活動",
           "url": "https://money.udn.com/money/story/5599/9871796"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "亞洲地區臺灣首發 健喬新一代口服藥獲準子宮內膜異位症新適應症",
+      "summary": [
+        "自由時報：亞洲地區臺灣首發 健喬新一代口服藥獲準子宮內膜異位症新適應症",
+        "科技新報：健喬奪亞洲第一！口服 GnRH 新藥獲準子宮內膜異位症新適應症"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "亞洲地區臺灣首發 健喬新一代口服藥獲準子宮內膜異位症新適應症",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5637235"
+        },
+        {
+          "source": "科技新報",
+          "title": "健喬奪亞洲第一！口服 GnRH 新藥獲準子宮內膜異位症新適應症",
+          "url": "https://finance.technews.tw/2026/11/11/kissei-gnrh/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "黃仁勳小三年齡大翻盤？黃樂高中嫩照被挖出 年紀非外傳42歲",
+      "summary": [
+        "中時新聞：黃仁勳小三年齡大翻盤？黃樂高中嫩照被挖出 年紀非外傳42歲",
+        "自由時報：傳奇「共諜小三」嫩照學籍全被挖！黃樂真實年齡遭起底  網驚：比盛傳大7歲"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "黃仁勳小三年齡大翻盤？黃樂高中嫩照被挖出 年紀非外傳42歲",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiTFlKT2RNcjZ5VjgyYWVVN182cm9CeXppZ0NPdlV5eWl6bVVrWl90TEt3QkEydXlWWk0tbkswa1ZaQ01wbEN1TWV1blZQcWdxcmtXcy1ITjdoSDVVZGhFMmpoU1g2OTVkTnItN0hB?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "傳奇「共諜小三」嫩照學籍全被挖！黃樂真實年齡遭起底  網驚：比盛傳大7歲",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5637575"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳外遇恐遭勒索，美共和黨資深議員籲下臺",
+      "summary": [
+        "科技新報：黃仁勳外遇恐遭勒索，美共和黨資深議員籲下臺",
+        "ETtoday：黃仁勳婚外情恐遭勒索　美共和黨議員籲下臺：他必須走人"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "黃仁勳外遇恐遭勒索，美共和黨資深議員籲下臺",
+          "url": "https://technews.tw/2026/11/11/kevin-cramer-calls-for-jensen-huang-to-resign/"
+        },
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳婚外情恐遭勒索　美共和黨議員籲下臺：他必須走人",
+          "url": "https://www.ettoday.net/news/20261111/3270504.htm"
         }
       ]
     }
@@ -254,6 +248,27 @@
     },
     {
       "rank": 2,
+      "title": "Anthropic IPO 獲得數倍超額認購",
+      "summary": [
+        "Bloomberg Markets：Anthropic IPO 獲得數倍超額認購",
+        "Bloomberg Tech：Anthropic IPO 獲得多倍超額認購"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic IPO 獲得數倍超額認購",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic IPO 獲得多倍超額認購",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-11/anthropic-ipo-said-to-be-multiple-times-oversubscribed-video"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "由於中國競爭更加激烈，日產汽車下調了汽車銷售預測",
       "summary": [
         "Bloomberg Markets：由於中國競爭更加激烈，日產汽車下調了汽車銷售預測",
@@ -274,7 +289,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "塞爾比表示，人為 IPO 禁售有引發人工智慧修正的風險",
       "summary": [
         "Bloomberg Tech：塞爾比表示，人為 IPO 禁售有引發人工智慧修正的風險",
@@ -295,7 +310,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "隨著獲利吸收科技波動，歐洲股市接近歷史新高",
       "summary": [
         "Investing.com：隨著獲利吸收科技波動，歐洲股市接近歷史新高",
@@ -316,7 +331,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "西班牙遭遇14年來首次大罷工",
       "summary": [
         "Financial Times：西班牙遭遇14年來首次大罷工",
@@ -337,7 +352,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Coreweave 公佈業績後，人工智慧股票上漲；國債市場休市",
       "summary": [
         "Bloomberg Markets：Coreweave 公佈業績後，人工智慧股票上漲；國債市場休市",
@@ -358,7 +373,49 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "蘋果下週將關閉支援社群論壇",
+      "summary": [
+        "The Verge：蘋果下週將關閉支援社群論壇",
+        "Ars Technica：Apple 將關閉擁有 28 年歷史的線上社群論壇"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "蘋果下週將關閉支援社群論壇",
+          "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "Apple 將關閉擁有 28 年歷史的線上社群論壇",
+          "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Meta 基礎設施、工程主管將於 2027 年離職",
+      "summary": [
+        "Bloomberg Tech：Meta 基礎設施、工程主管將於 2027 年離職",
+        "Investing.com：Meta 的長期基礎設施負責人 Janardhan 將於 2027 年初離職"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Meta 基礎設施、工程主管將於 2027 年離職",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/meta-s-head-of-infrastructure-engineering-to-step-down-in-2027"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Meta 的長期基礎設施負責人 Janardhan 將於 2027 年初離職",
+          "url": "https://www.investing.com/news/stock-market-news/metas-longtime-infrastructure-headjanardhan-to-depart-in-early-2027-5019662"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "您已經可以購買的最佳黑色星期五早期優惠",
       "summary": [
         "The Verge：您已經可以購買的最佳黑色星期五早期優惠",
@@ -375,57 +432,6 @@
           "source": "Wired",
           "title": "22 個最佳早期黑色星期五優惠：我們的終極精選 (2026)",
           "url": "https://www.wired.com/story/best-black-friday-deals-11-11-2026/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Applied Intuition正在洽談融資15億美元，估值300億美元",
-      "summary": [
-        "Bloomberg Tech：Applied Intuition正在洽談融資15億美元，估值300億美元",
-        "Investing.com：根據彭博社報道，Applied Intuition 正在洽談以 30B 美元估值籌集 1.5B 美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Applied Intuition正在洽談融資15億美元，估值300億美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-11/applied-intuition-in-talks-to-raise-1-5-billion-at-30-billion-value"
-        },
-        {
-          "source": "Investing.com",
-          "title": "根據彭博社報道，Applied Intuition 正在洽談以 30B 美元估值籌集 1.5B 美元",
-          "url": "https://www.investing.com/news/stock-market-news/applied-intuition-in-talks-to-raise-15b-at-30b-valuation-bloomberg-reports-5019616"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "為什麼全球測試公司的股票今天飆升？",
-      "summary": [
-        "Investing.com：為什麼全球測試公司的股票今天飆升？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "為什麼全球測試公司的股票今天飆升？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-global-testing-corp-stock-surging-today-93CH-5017795"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "為什麼 IMCD 股票今天下跌？",
-      "summary": [
-        "Investing.com：為什麼 IMCD 股票今天下跌？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "為什麼 IMCD 股票今天下跌？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-imcd-stock-sliding-today-93CH-5019109"
         }
       ]
     }
