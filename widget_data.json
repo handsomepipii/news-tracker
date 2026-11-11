@@ -1,21 +1,16 @@
 {
-  "updated_at": "2026-11-11 23:25",
+  "updated_at": "2026-11-12 00:33",
   "taiwan": [
     {
       "rank": 1,
-      "title": "美光擴建傳喊卡！勞資協商11/17繼續 張善政盼持續投資桃園",
+      "title": "獨／粉絲走多快都精算！陳其邁曝演唱會經濟秘密武器：獨門Data不外流",
       "summary": [
-        "自由時報：美光擴建傳喊卡！勞資協商11/17繼續 張善政盼持續投資桃園",
         "ETtoday：獨／粉絲走多快都精算！陳其邁曝演唱會經濟秘密武器：獨門Data不外流",
-        "工商時報：世芯、聯發科營運各傳捷報- 日報"
+        "工商時報：世芯、聯發科營運各傳捷報- 日報",
+        "中時新聞：板橋埔墘4-7區區段徵收案11／11起公告"
       ],
-      "media_count": 5,
+      "media_count": 4,
       "links": [
-        {
-          "source": "自由時報",
-          "title": "美光擴建傳喊卡！勞資協商11/17繼續 張善政盼持續投資桃園",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5636730"
-        },
         {
           "source": "ETtoday",
           "title": "獨／粉絲走多快都精算！陳其邁曝演唱會經濟秘密武器：獨門Data不外流",
@@ -40,33 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "韓公車失控「衝分隔島」連撞31車！48人輕重傷　上班尖峰嚴重車禍",
-      "summary": [
-        "ETtoday：韓公車失控「衝分隔島」連撞31車！48人輕重傷　上班尖峰嚴重車禍",
-        "自由時報：南韓首都圈重大車禍！上班通勤期間公車一路狂撞32輛車 釀57傷",
-        "經濟日報：韓國公車衝撞32輛車　造成57人受傷"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "韓公車失控「衝分隔島」連撞31車！48人輕重傷　上班尖峰嚴重車禍",
-          "url": "https://www.ettoday.net/news/20261111/3270039.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "南韓首都圈重大車禍！上班通勤期間公車一路狂撞32輛車 釀57傷",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5636845"
-        },
-        {
-          "source": "經濟日報",
-          "title": "韓國公車衝撞32輛車　造成57人受傷",
-          "url": "https://money.udn.com/money/story/5599/9871769"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "黃仁勳外遇恐遭勒索　美共和黨資深議員籲下臺",
       "summary": [
         "經濟日報：黃仁勳外遇恐遭勒索　美共和黨資深議員籲下臺",
@@ -93,49 +61,28 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "國發會正研議主權基金專法 葉俊顯：最快年底前提出草案",
+      "rank": 3,
+      "title": "南韓首都圈重大車禍！上班通勤期間公車一路狂撞32輛車 釀57傷",
       "summary": [
-        "自由時報：國發會正研議主權基金專法 葉俊顯：最快年底前提出草案",
-        "MoneyDJ理財網：葉俊顯：主權基金專法草案最快年底提出- 新聞"
+        "自由時報：南韓首都圈重大車禍！上班通勤期間公車一路狂撞32輛車 釀57傷",
+        "經濟日報：韓國公車衝撞32輛車　造成57人受傷"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "國發會正研議主權基金專法 葉俊顯：最快年底前提出草案",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5636761"
+          "title": "南韓首都圈重大車禍！上班通勤期間公車一路狂撞32輛車 釀57傷",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5636845"
         },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "葉俊顯：主權基金專法草案最快年底提出- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWHl1YUF6SGZtUnROOVRKdUlES1k0NTF4ZjkyQ1Q5ajR5bzE0NzBGSTZfZkkwVFU5VmRsTWx1RXdYbXphNjMwdWt0U2trTjNyNVVnYVBGdVlwRlZCellLTGg0TVRQM29PZkd2T0JmR2J1UWlHZ0V5SkpLTmlnc3F1aDVNeUIwWlh6NXRBc0V3ZzFuQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "OpenAI單季營收首破百億美元 虧損率有收斂跡象",
-      "summary": [
-        "經濟日報：OpenAI單季營收首破百億美元 虧損率有收斂跡象",
-        "INSIDE硬塞：OpenAI 第三季營收首破 100 億美元、企業業務翻倍，調整後虧損仍高於營收"
-      ],
-      "media_count": 2,
-      "links": [
         {
           "source": "經濟日報",
-          "title": "OpenAI單季營收首破百億美元 虧損率有收斂跡象",
-          "url": "https://money.udn.com/money/story/123398/9871329"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "OpenAI 第三季營收首破 100 億美元、企業業務翻倍，調整後虧損仍高於營收",
-          "url": "https://www.inside.com.tw/article/42879-openai-q3-2026-revenue-10-billion-enterprise"
+          "title": "韓國公車衝撞32輛車　造成57人受傷",
+          "url": "https://money.udn.com/money/story/5599/9871769"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "緩刑遭撤銷！前高院庭長違法查個資134筆 二審重判須入監",
       "summary": [
         "自由時報：緩刑遭撤銷！前高院庭長違法查個資134筆 二審重判須入監",
@@ -156,7 +103,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "Alphabet 抄底時機到？專家看好成長動能不墜",
       "summary": [
         "科技新報：Alphabet 抄底時機到？專家看好成長動能不墜",
@@ -177,7 +124,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "AI提升颶風預測準確度　但最終仍須仰賴人類做決定",
       "summary": [
         "經濟日報：AI提升颶風預測準確度　但最終仍須仰賴人類做決定",
@@ -198,7 +145,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "聯合航空發出劫機警報！　男乘客稱「有炸彈」企圖闖駕駛艙",
       "summary": [
         "ETtoday：聯合航空發出劫機警報！　男乘客稱「有炸彈」企圖闖駕駛艙",
@@ -219,7 +166,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "臺積電高層：AI 需求呈拋物線式成長，熊本二階將匯入 3 奈米",
       "summary": [
         "科技新報：臺積電高層：AI 需求呈拋物線式成長，熊本二階將匯入 3 奈米",
@@ -236,6 +183,48 @@
           "source": "經濟日報",
           "title": "臺積電張曉強：AI需求呈拋物線式成長 熊本二階將匯入3奈米",
           "url": "https://money.udn.com/money/story/5599/9871679"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Google Pixel Tag開賣，單顆29.99美元，主打藍芽、超寬頻與10億臺Android尋物網路",
+      "summary": [
+        "INSIDE硬塞：Google Pixel Tag開賣，單顆29.99美元，主打藍芽、超寬頻與10億臺Android尋物網路",
+        "癮科技Cool3c：Google物尋標籤Google Pixel Tag在臺推出，單入999元、4入3,390元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "INSIDE硬塞",
+          "title": "Google Pixel Tag開賣，單顆29.99美元，主打藍芽、超寬頻與10億臺Android尋物網路",
+          "url": "https://www.inside.com.tw/article/42884-pixel-tag-google-airtag-rival-on-sale-29-99-usd-find-hub"
+        },
+        {
+          "source": "癮科技Cool3c",
+          "title": "Google物尋標籤Google Pixel Tag在臺推出，單入999元、4入3,390元",
+          "url": "https://www.cool3c.com/article/254002"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "馬斯克要造「有意識太陽」  SpaceX 採購太陽能裝置",
+      "summary": [
+        "科技新報：馬斯克要造「有意識太陽」  SpaceX 採購太陽能裝置",
+        "MoneyDJ理財網：馬斯克要造\"有意識太陽\" SpaceX採購太陽能裝置- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "馬斯克要造「有意識太陽」  SpaceX 採購太陽能裝置",
+          "url": "https://technews.tw/2026/11/11/musk-conscious-sun-spacex-solar-equipment/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "馬斯克要造\"有意識太陽\" SpaceX採購太陽能裝置- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNODdrekpRT2x2Y0ZzRVZoblJOWDRycjNEbEFfNTJrV01tdW1Ueml1bjNtQ1N4QXZTdlNWb1BzcUZQLXdfZ3lLemhWOGhGWEV0SVVIT01MbWMzTmQzQkNCU0dEdG12bE9iY0Q3cnJzSXRneDkyREd5aVhtNkJwdmhYSGZBVEtjTEVta1FjZ3l2NXVnUQ?oc=5"
         }
       ]
     }
@@ -312,16 +301,16 @@
     },
     {
       "rank": 4,
-      "title": "塞爾比表示，人為 IPO 鎖定風險引發人工智慧修正",
+      "title": "塞爾比表示，人為 IPO 禁售有引發人工智慧修正的風險",
       "summary": [
-        "Bloomberg Tech：塞爾比表示，人為 IPO 鎖定風險引發人工智慧修正",
+        "Bloomberg Tech：塞爾比表示，人為 IPO 禁售有引發人工智慧修正的風險",
         "Bloomberg Markets：對人工智慧的質疑與 Anthropic 的大型 IPO 相衝突"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "塞爾比表示，人為 IPO 鎖定風險引發人工智慧修正",
+          "title": "塞爾比表示，人為 IPO 禁售有引發人工智慧修正的風險",
           "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says"
         },
         {
@@ -375,6 +364,27 @@
     },
     {
       "rank": 7,
+      "title": "Coreweave 公佈業績後，人工智慧股票上漲；國債市場休市",
+      "summary": [
+        "Bloomberg Markets：Coreweave 公佈業績後，人工智慧股票上漲；國債市場休市",
+        "Yahoo Finance：CoreWeave 獲利推動人工智慧貿易，英偉達股價反彈，晶片股飆漲"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Coreweave 公佈業績後，人工智慧股票上漲；國債市場休市",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-brief-11-11-2026-video"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "CoreWeave 獲利推動人工智慧貿易，英偉達股價反彈，晶片股飆漲",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZWdSbHUwUHp3b2d6LXhNcWR5NGpEeC1Nd2hsN2pUNHl3aVRrR09oSFhYdGQyNFVSdXVxZkZadDA1TTNwcV9ycF9jUlRJcnpSaUFnenIwdzlpM1g1V0lERE1ScEIwalZZb1JrYXVvVXZySUJyRmZXMmZWYmE5TlFUR2hmcy1Id20ydlB0dElabUtPU0l2WGI1dHZqNExXSmNZSEJCUmZhdnk2SklpeUlENWdwanVtZGFIdndGVXBQSUQ3V0dLbW5JZlktYWRSWlp3RVVnM3R2UlNuUTBqbG5kc0lnZzJpWmJaNFlITExJLVpkM1ZKUTQ4bWU4ekl4eVhod3h5Q0pUUmhobGZHRG05MUFoVU15OG5IUG9Xaw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Anthropic IPO 獲得數倍超額認購",
       "summary": [
         "Bloomberg Markets：Anthropic IPO 獲得數倍超額認購",
@@ -395,21 +405,6 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "獨家訊息人士稱，野村正在考慮重建香港股權資本市場業務",
-      "summary": [
-        "Investing.com：獨家訊息人士稱，野村正在考慮重建香港股權資本市場業務"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "獨家訊息人士稱，野村正在考慮重建香港股權資本市場業務",
-          "url": "https://www.investing.com/news/stock-market-news/exclusivenomura-weighs-rebuilding-its-hong-kong-equity-capital-markets-business-sources-say-5017721"
-        }
-      ]
-    },
-    {
       "rank": 9,
       "title": "為什麼全球測試公司的股票今天飆升？",
       "summary": [
@@ -426,16 +421,16 @@
     },
     {
       "rank": 10,
-      "title": "為什麼 Brenntag 股票今天下跌？",
+      "title": "為什麼 IMCD 股票今天下跌？",
       "summary": [
-        "Investing.com：為什麼 Brenntag 股票今天下跌？"
+        "Investing.com：為什麼 IMCD 股票今天下跌？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Investing.com",
-          "title": "為什麼 Brenntag 股票今天下跌？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-brenntag-stock-sliding-today-93CH-5017994"
+          "title": "為什麼 IMCD 股票今天下跌？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-imcd-stock-sliding-today-93CH-5019109"
         }
       ]
     }
