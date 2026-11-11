@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 09:47",
+  "updated_at": "2026-11-11 10:53",
   "taiwan": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
         "經濟日報：紐時：接班無人、董事會太乖　黃仁勳風波曝輝達隱憂",
         "ETtoday：找無人接班、董事會太乖　黃仁勳風波暴露輝達隱憂"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "自由時報",
@@ -25,6 +25,11 @@
           "source": "ETtoday",
           "title": "找無人接班、董事會太乖　黃仁勳風波暴露輝達隱憂",
           "url": "https://www.ettoday.net/news/20261111/3269927.htm"
+        },
+        {
+          "source": "財經新報",
+          "title": "紐時：接班無人、董事會太乖，黃仁勳婚外情風波曝輝達隱憂",
+          "url": "https://finance.technews.tw/2026/11/11/nvidias-board-has-a-history-of-letting-jensen-huang-get-his-way/"
         }
       ]
     },
@@ -308,6 +313,33 @@
     },
     {
       "rank": 4,
+      "title": "美國陸軍軍官因涉嫌試圖為俄羅斯竊取機密而在英國被捕",
+      "summary": [
+        "Washington Post：美國陸軍軍官因涉嫌試圖為俄羅斯竊取機密而在英國被捕",
+        "WSJ Markets：英國警方逮捕一名涉嫌為俄羅斯從事間諜活動的美國陸軍士兵",
+        "NHK新聞：英警察が米軍兵士逮捕「関係國はロシア」 スパイ活動の疑い"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "美國陸軍軍官因涉嫌試圖為俄羅斯竊取機密而在英國被捕",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV0ZuSmdENDlES0Z4TXdvbHMwdk5IUE5jbF9IalBrbFllVEJtbWRINVFyNzBUZVZ2YjdZdk5HaUJ4dHk4eHhxRnhVREUwdkhld2hDYl9DbWlWQUhxZWQ5R2xxUFJsOHh6dDRkOHFQUWpLSnlPLUZEZXljMGdTWExQWVZKT3dtN3BYMmc2Y0JPV19BdVBtYlhlLS1henREZUViWFBEZ0ZIZ0VsTHRacTU4MzlYbDE?oc=5"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "英國警方逮捕一名涉嫌為俄羅斯從事間諜活動的美國陸軍士兵",
+          "url": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_markets_main"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "英警察が米軍兵士逮捕「関係國はロシア」 スパイ活動の疑い",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261111de73900"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
       "summary": [
         "TechCrunch：Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
@@ -328,7 +360,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "高盛預計到 2030 年 Anthropic 營收將超過 6,000 億美元",
       "summary": [
         "Financial Times：高盛預計到 2030 年 Anthropic 營收將超過 6,000 億美元",
@@ -349,7 +381,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "FDA 警告 GLP-1 藥物可能會帶來導致視力喪失的罕見疾病的風險",
       "summary": [
         "Ars Technica：FDA 警告 GLP-1 藥物可能會帶來導致視力喪失的罕見疾病的風險",
@@ -370,7 +402,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
       "summary": [
         "The Verge：Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
@@ -391,7 +423,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
       "summary": [
         "Investing.com：OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
@@ -412,7 +444,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
       "summary": [
         "Bloomberg Markets：Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
@@ -429,27 +461,6 @@
           "source": "Investing.com",
           "title": "Pizza Hut plans $1 billion bond sale to fund LongRange buyout",
           "url": "https://www.investing.com/news/stock-market-news/pizza-hut-plans-1-billion-bond-sale-to-fund-longrange-buyout--bloomberg-93CH-5016651"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Anthropic Targets $1.4T Valuation in Blockbuster IPO",
-      "summary": [
-        "Bloomberg Tech：Anthropic Targets $1.4T Valuation in Blockbuster IPO",
-        "Bloomberg Markets：Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic Targets $1.4T Valuation in Blockbuster IPO",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4t-valuation-in-blockbuster-ipo-video"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwb4e46h"
         }
       ]
     }
