@@ -1,8 +1,67 @@
 {
-  "updated_at": "2026-11-11 14:02",
+  "updated_at": "2026-11-11 15:09",
   "taiwan": [
     {
       "rank": 1,
+      "title": "美光擴建傳喊卡！勞資協商11/17繼續 張善政盼持續投資桃園",
+      "summary": [
+        "自由時報：美光擴建傳喊卡！勞資協商11/17繼續 張善政盼持續投資桃園",
+        "ETtoday：獨／粉絲走多快都精算！陳其邁曝演唱會經濟秘密武器：獨門Data不外流",
+        "工商時報：世芯、聯發科營運各傳捷報- 日報"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美光擴建傳喊卡！勞資協商11/17繼續 張善政盼持續投資桃園",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5636730"
+        },
+        {
+          "source": "ETtoday",
+          "title": "獨／粉絲走多快都精算！陳其邁曝演唱會經濟秘密武器：獨門Data不外流",
+          "url": "https://www.ettoday.net/news/20261111/3269205.htm"
+        },
+        {
+          "source": "工商時報",
+          "title": "世芯、聯發科營運各傳捷報- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQWVNyMVRBZU1fWUNfN1pIazd0S2ZXSDA2eUExNEs3akU4bGxRRThDeXUwd0REOUdhemFYQ2U0V2w1c1hublNoZ28tVWdVcG1tbC03RjUtZk1ITUR6TWhJ?oc=5"
+        },
+        {
+          "source": "中時新聞",
+          "title": "板橋埔墘4-7區區段徵收案11／11起公告",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWV0pmakd5b2xjQ2N5aVBRRDFrVzhualJCMTVPYk1DNWxyN1RtQzJBeHIzdFM2Qy1jUTZpNzhFeThONWsxNVYxQVZQdW03Si11VkduNElidWxfQTBidkZB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "美 CPI 超預期 上月物價月增0.4% 市場認為下月篤定升息",
+      "summary": [
+        "經濟日報：美 CPI 超預期 上月物價月增0.4% 市場認為下月篤定升息",
+        "鉅亨網：〈美股盤後〉美CPI超預期 12月升息兩碼機率升 四大指數盡墨 輝達再挫超5%",
+        "工商時報：美10月CPI月增0.4％、高於市場預期 聯準會12月升息1碼已無懸念？"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美 CPI 超預期 上月物價月增0.4% 市場認為下月篤定升息",
+          "url": "https://money.udn.com/money/story/5599/9870465"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "〈美股盤後〉美CPI超預期 12月升息兩碼機率升 四大指數盡墨 輝達再挫超5%",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jSlpPSW4xTlpZSC1iT2hWck9xYmd3VlBNNW10bGhac2RaS3JYVW84OUw1NTFzc1pEdjE5cTBKYXlsNzM0Wmc4aTQ0VC1reTg?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "美10月CPI月增0.4％、高於市場預期 聯準會12月升息1碼已無懸念？",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fWW9RYmF1SUpmX0xxR3pvM0MyQkhBWjIyMmN1Vkpuam5mTlR5TFk2cjlDaU9aWDNEUU5EWWVBQlpQT1R1elRGY1c2VzMzSnlNUFQ0QTFGemtGX1dPV2lV?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "美籲俄烏止戰與歐洲安全架構繫結　歐洲質疑",
       "summary": [
         "自由時報：美籲俄烏止戰與歐洲安全架構繫結　歐洲質疑",
@@ -29,7 +88,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "韓公車失控「衝分隔島」連撞31車！48人輕重傷　上班尖峰嚴重車禍",
       "summary": [
         "ETtoday：韓公車失控「衝分隔島」連撞31車！48人輕重傷　上班尖峰嚴重車禍",
@@ -56,7 +115,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "盧比歐稱美國重創伊朗經濟　暫無必要重啟大規模軍事行動",
       "summary": [
         "自由時報：盧比歐稱美國重創伊朗經濟　暫無必要重啟大規模軍事行動",
@@ -77,7 +136,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "黃仁勳外遇中國女間諜  邱彰曝黃樂下落",
       "summary": [
         "自由時報：黃仁勳外遇中國女間諜  邱彰曝黃樂下落",
@@ -98,70 +157,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "通膨高於預期　美債殖利率全面跳升、12月恐升息2碼",
-      "summary": [
-        "自由時報：通膨高於預期　美債殖利率全面跳升、12月恐升息2碼",
-        "經濟日報：通膨高於預期　美債殖利率全面跳升、12月恐升息2碼"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "通膨高於預期　美債殖利率全面跳升、12月恐升息2碼",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5636395"
-        },
-        {
-          "source": "經濟日報",
-          "title": "通膨高於預期　美債殖利率全面跳升、12月恐升息2碼",
-          "url": "https://money.udn.com/money/story/5599/9870641"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "出席桃園最偏遠復興區競總成立大會　張善政：珍惜四年成果",
-      "summary": [
-        "ETtoday：出席桃園最偏遠復興區競總成立大會　張善政：珍惜四年成果",
-        "自由時報：美光擴建傳喊卡！勞資協商11/17繼續 張善政盼持續投資桃園"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "出席桃園最偏遠復興區競總成立大會　張善政：珍惜四年成果",
-          "url": "https://www.ettoday.net/news/20261111/3269896.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "美光擴建傳喊卡！勞資協商11/17繼續 張善政盼持續投資桃園",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5636730"
-        }
-      ]
-    },
-    {
       "rank": 7,
-      "title": "黃仁勳偷吃若離婚「身家對半分」　老婆最多可分2.5兆！",
-      "summary": [
-        "ETtoday：黃仁勳偷吃若離婚「身家對半分」　老婆最多可分2.5兆！",
-        "經濟日報：黃仁勳妻若離婚能分多少？775億美元天價試算 遠超過貝佐斯離婚案"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳偷吃若離婚「身家對半分」　老婆最多可分2.5兆！",
-          "url": "https://www.ettoday.net/news/20261111/3269912.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳妻若離婚能分多少？775億美元天價試算 遠超過貝佐斯離婚案",
-          "url": "https://money.udn.com/money/story/5599/9871661"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "分析：合格碳權供不應求　全球航空業減排面臨窘境",
       "summary": [
         "自由時報：分析：合格碳權供不應求　全球航空業減排面臨窘境",
@@ -182,7 +178,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "黃仁勳出軌拖累輝達重挫逾6%　市值急縮落後蘋果與微軟",
       "summary": [
         "自由時報：黃仁勳出軌拖累輝達重挫逾6%　市值急縮落後蘋果與微軟",
@@ -203,23 +199,44 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "美 CPI 超預期 上月物價月增0.4% 市場認為下月篤定升息",
+      "rank": 9,
+      "title": "幫邱臣遠站臺 被質疑「何處惹塵埃」》駁張雅屏 趙少康：黨中央不要放狗咬人",
       "summary": [
-        "經濟日報：美 CPI 超預期 上月物價月增0.4% 市場認為下月篤定升息",
-        "鉅亨網：〈美股盤後〉美CPI超預期 12月升息兩碼機率升 四大指數盡墨 輝達再挫超5%"
+        "自由時報：幫邱臣遠站臺 被質疑「何處惹塵埃」》駁張雅屏 趙少康：黨中央不要放狗咬人",
+        "ETtoday：趙少康槓考紀會嗆「別放狗咬人」　鄭麗文：黨員都該知所進退"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "美 CPI 超預期 上月物價月增0.4% 市場認為下月篤定升息",
-          "url": "https://money.udn.com/money/story/5599/9870465"
+          "source": "自由時報",
+          "title": "幫邱臣遠站臺 被質疑「何處惹塵埃」》駁張雅屏 趙少康：黨中央不要放狗咬人",
+          "url": "https://news.ltn.com.tw/news/politics/paper/1777992"
         },
         {
-          "source": "鉅亨網",
-          "title": "〈美股盤後〉美CPI超預期 12月升息兩碼機率升 四大指數盡墨 輝達再挫超5%",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jSlpPSW4xTlpZSC1iT2hWck9xYmd3VlBNNW10bGhac2RaS3JYVW84OUw1NTFzc1pEdjE5cTBKYXlsNzM0Wmc4aTQ0VC1reTg?oc=5"
+          "source": "ETtoday",
+          "title": "趙少康槓考紀會嗆「別放狗咬人」　鄭麗文：黨員都該知所進退",
+          "url": "https://www.ettoday.net/news/20261111/3270248.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美伊終戰前景未明　伊朗國安首長稱目前未與華府談判",
+      "summary": [
+        "自由時報：美伊終戰前景未明　伊朗國安首長稱目前未與華府談判",
+        "經濟日報：美伊終戰前景未明　伊朗國安首長稱目前未與華府談判"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美伊終戰前景未明　伊朗國安首長稱目前未與華府談判",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5636403"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美伊終戰前景未明　伊朗國安首長稱目前未與華府談判",
+          "url": "https://money.udn.com/money/story/5599/9870683"
         }
       ]
     }
@@ -281,27 +298,6 @@
     },
     {
       "rank": 3,
-      "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
-      "summary": [
-        "Investing.com：OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
-        "VentureBeat：OpenAI 可讓您在 ChatGPT 中認領您的業務並設定自訂代理 AI 客戶銷售代表"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
-          "url": "https://www.investing.com/news/stock-market-news/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-for-us-ecommerce-firms-5016475"
-        },
-        {
-          "source": "VentureBeat",
-          "title": "OpenAI 可讓您在 ChatGPT 中認領您的業務並設定自訂代理 AI 客戶銷售代表",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1k2TE9PS2pnenpoREV0aWhNbFJWeFFRbFBIWEF2dzBxNTdJS2RtenhLZUF6dWxwejg3SnBxRVYtSUxmdUlQUXUzcjgxdXY4TjNqMVJVNGVWOTNFWl83NGhYTEkydkN0Q1RMbEpISl85V0RrT0VtSmN1bnQ2MURLa2VQMjJyUVlnNkFkSTF0YzZ5NlJEZTBjZXpIdzNzX21Fc3otZzNyUVNNU2RWcjNwYzZVMVByOFlZeVFGd21tdGFBZXlUWkF0R1FXNA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
       "summary": [
         "Bloomberg Markets：Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
@@ -311,42 +307,42 @@
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "必勝客計劃出售 10 億美元債券為其收購提供資金",
+          "title": "Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
           "url": "https://www.bloomberg.com/news/articles/2026-11-10/pizza-hut-looks-to-sell-1-billion-of-bonds-to-fund-its-buyout"
         },
         {
           "source": "Investing.com",
-          "title": "必勝客計劃發行 10 億美元債券，為 LongRange 收購提供資金",
+          "title": "Pizza Hut plans $1 billion bond sale to fund LongRange buyout",
           "url": "https://www.investing.com/news/stock-market-news/pizza-hut-plans-1-billion-bond-sale-to-fund-longrange-buyout--bloomberg-93CH-5016651"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Anthropic Targets $1.4T Valuation in Blockbuster IPO",
       "summary": [
-        "Bloomberg Tech：Anthropic 重磅 IPO 估值目標為 1.4T 美元",
-        "Bloomberg Markets：Anthropic 重磅 IPO 目標估值達 1.4 兆美元"
+        "Bloomberg Tech：Anthropic Targets $1.4T Valuation in Blockbuster IPO",
+        "Bloomberg Markets：Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "Anthropic 重磅 IPO 估值目標為 1.4T 美元",
+          "title": "Anthropic Targets $1.4T Valuation in Blockbuster IPO",
           "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4t-valuation-in-blockbuster-ipo-video"
         },
         {
           "source": "Bloomberg Markets",
-          "title": "Anthropic 重磅 IPO 目標估值達 1.4 兆美元",
+          "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
           "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwb4e46h"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
       "summary": [
-        "TechCrunch：Oura 將以 6.25 億美元收購人工智慧原生初級保健新創公司 Counsel Health",
+        "TechCrunch：Oura to acquire AI-native primary care startup Counsel Health for $625M",
         "The Verge：Oura 正在收購醫療人工智慧聊天機器人新創公司 Counsel Health"
       ],
       "media_count": 2,
@@ -364,28 +360,28 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "美國高階士兵因涉嫌為俄羅斯從事間諜活動在英國被捕",
+      "rank": 6,
+      "title": "Senior US soldier arrested in UK on suspicion of spying for Russia",
       "summary": [
-        "Financial Times：美國高階士兵因涉嫌為俄羅斯從事間諜活動在英國被捕",
-        "BBC World：涉嫌為俄羅斯從事間諜活動的美國陸軍士兵在英國被捕"
+        "Financial Times：Senior US soldier arrested in UK on suspicion of spying for Russia",
+        "BBC World：US Army soldier suspected of spying for Russia arrested in UK"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Financial Times",
-          "title": "美國高階士兵因涉嫌為俄羅斯從事間諜活動在英國被捕",
+          "title": "Senior US soldier arrested in UK on suspicion of spying for Russia",
           "url": "https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1"
         },
         {
           "source": "BBC World",
-          "title": "涉嫌為俄羅斯從事間諜活動的美國陸軍士兵在英國被捕",
+          "title": "US Army soldier suspected of spying for Russia arrested in UK",
           "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美國國務卿： 目前沒必要對伊朗展開大規模作戰",
       "summary": [
         "法廣RFI：美國國務卿： 目前沒必要對伊朗展開大規模作戰",
@@ -400,13 +396,13 @@
         },
         {
           "source": "NHK新聞",
-          "title": "美國國務卿盧比歐告訴G7國家：“沒有必要對伊朗進行大規模打擊”",
+          "title": "米 ルビオ國務長官 G7各國に「イランへ大規模戦闘 必要ない」",
           "url": "https://news.web.nhk/newsweb/na/nd-20261111de73868"
         }
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "通膨加劇引發華爾街升息擔憂",
       "summary": [
         "WSJ Markets：通膨加劇引發華爾街升息擔憂",
@@ -427,23 +423,44 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "Anthropic Lodges 澳洲招股說明書，開放給零售業 IPO",
+      "rank": 9,
+      "title": "Anthropic Lodges Australian Prospectus, Opening IPO to Retail",
       "summary": [
-        "Bloomberg Markets：Anthropic Lodges 澳洲招股說明書，開放給零售業 IPO",
-        "CNBC：隨著人工智慧審查的加劇，Anthropic 開始澳洲零售業 IPO"
+        "Bloomberg Markets：Anthropic Lodges Australian Prospectus, Opening IPO to Retail",
+        "CNBC：Anthropic opens Australian retail IPO offering as AI scrutiny intensifies"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "Anthropic Lodges 澳洲招股說明書，開放給零售業 IPO",
+          "title": "Anthropic Lodges Australian Prospectus, Opening IPO to Retail",
           "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-lodges-australian-prospectus-opening-ipo-to-retail"
         },
         {
           "source": "CNBC",
-          "title": "隨著人工智慧審查的加劇，Anthropic 開始澳洲零售業 IPO",
+          "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
           "url": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Why Nvidia's alleged Chinese spy scandal is going to confuse markets — and the government",
+      "summary": [
+        "Yahoo Finance：Why Nvidia's alleged Chinese spy scandal is going to confuse markets — and the government",
+        "Washington Post：Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "Why Nvidia's alleged Chinese spy scandal is going to confuse markets — and the government",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTTNZR29vcDdULXNfV21GaW9DOHA5T1pJNXJNRElCNHZIajNoc1BrVHBtMVNCbDRrRWY4UjdyVkFJdGRuVXJUT1VMc0pLaTRqT3VoOU1wWW8yTE4xRnl0YXozSlFIcXJ0LU1xNUxWTTJTMVl1Ykw1dm5CaVVubjZTZnd3dW5aM2xzdVI3ei1vNjVrNHlpcjRDc05hMjZ2Z24tTVlWSGJza0V2Yl9kaDN6WG5mbWFqSWxPNHNEX2FEdlR6QVJ4ZkNSaHVjNlVpMnBGbllPREY4ZVdLemZKOXNOdA?oc=5"
+        },
+        {
+          "source": "Washington Post",
+          "title": "Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3lyMzJwdnl2WkRzbnM2UjAwT3ZSTUZDQTgzbzBiNnJnZWVaRXloREtmSl85dGhjRUZnd2lvUlpkWTFja3BoMHZwbDJIZXl0MWdkdnpwRGlwUHpkMUZ1Vzd4NnpKMWdrN29yczBZa19MSk41Y1lFZTJIT2NfSlVtQTUtMmROZFFqRm9BcFN3QVdpbEtWN29qM3hPOUVUTWI5QkdBQUdRSEhsZnM2NlJjRVZn?oc=5"
         }
       ]
     }
