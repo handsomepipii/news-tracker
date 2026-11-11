@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-12 06:43",
+  "updated_at": "2026-11-12 07:36",
   "taiwan": [
     {
       "rank": 1,
       "title": "黃仁勳外遇風波　外媒：臺灣晶片業盛況仍會持續",
       "summary": [
         "經濟日報：黃仁勳外遇風波　外媒：臺灣晶片業盛況仍會持續",
-        "ETtoday：快訊／李四川競辦開告李正皓抹黑　批：蘇巧慧慣用的奧步來了",
-        "今周刊：ESG永續臺灣 2026傑出藥師100強"
+        "TVBS新聞：蹭流量!陸山寨黃仁勳找粉衣女同框美媒:本人照常上班｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "自由時報：遠勝黃仁勳小三！中國正妹人大代表火辣私照瘋傳「還穿情趣服」"
       ],
       "media_count": 4,
       "links": [
@@ -17,19 +17,19 @@
           "url": "https://money.udn.com/money/story/5599/9872601"
         },
         {
-          "source": "ETtoday",
-          "title": "快訊／李四川競辦開告李正皓抹黑　批：蘇巧慧慣用的奧步來了",
-          "url": "https://www.ettoday.net/news/20261111/3270563.htm"
-        },
-        {
-          "source": "今周刊",
-          "title": "ESG永續臺灣 2026傑出藥師100強",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mUFlKYm94bmZiVzVLN1pxWEJJbF9XdXdRQ1VFWHVHajBQS2JyN0huNlFpcVNCdnE2MW9nTjhOdWQ4QUlORVBqUjFMN0ZhSm1FaFRTTUVuVW5Dc0h4YlFPMmJPTQ?oc=5"
+          "source": "TVBS新聞",
+          "title": "蹭流量!陸山寨黃仁勳找粉衣女同框美媒:本人照常上班｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0Y3F6ZThTeHpZWWZXYXhZU3AwR29hUkUzMUJLcmRhR05vdkZ2U3VScmNhTHkydHdDUXdSNmdRQ2xqRXBreDhNZ0hLLXhlYXh5eDNIbkhn?oc=5"
         },
         {
           "source": "自由時報",
-          "title": "《臺北時報》 臺灣任命宏碁創辦人為APEC特使",
-          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5637649"
+          "title": "遠勝黃仁勳小三！中國正妹人大代表火辣私照瘋傳「還穿情趣服」",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5637597"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／李四川競辦開告李正皓抹黑　批：蘇巧慧慣用的奧步來了",
+          "url": "https://www.ettoday.net/news/20261111/3270563.htm"
         }
       ]
     },
@@ -161,6 +161,27 @@
     },
     {
       "rank": 8,
+      "title": "羅大佑怒吼「外省人被欺負慘了」 趙少康爆破：他其實是本省人",
+      "summary": [
+        "自由時報：羅大佑怒吼「外省人被欺負慘了」 趙少康爆破：他其實是本省人",
+        "ETtoday：羅大佑喊外省人被欺負　趙少康揭「他是本省人」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "羅大佑怒吼「外省人被欺負慘了」 趙少康爆破：他其實是本省人",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5637674"
+        },
+        {
+          "source": "ETtoday",
+          "title": "羅大佑喊外省人被欺負　趙少康揭「他是本省人」",
+          "url": "https://www.ettoday.net/news/20261112/3270610.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Baird調降輝達股票評等至「中立」　目標價大砍60%",
       "summary": [
         "自由時報：Baird調降輝達股票評等至「中立」　目標價大砍60%",
@@ -181,7 +202,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "AI樂觀情緒重燃　歐股收紅",
       "summary": [
         "自由時報：AI樂觀情緒重燃　歐股收紅",
@@ -200,54 +221,33 @@
           "url": "https://money.udn.com/money/story/5599/9873099"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "CoreWeave財報緩解AI疑慮　美股收高輝達止穩",
-      "summary": [
-        "自由時報：CoreWeave財報緩解AI疑慮　美股收高輝達止穩",
-        "經濟日報：CoreWeave財報緩解AI疑慮　美股收高輝達止穩"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "CoreWeave財報緩解AI疑慮　美股收高輝達止穩",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5637724"
-        },
-        {
-          "source": "經濟日報",
-          "title": "CoreWeave財報緩解AI疑慮　美股收高輝達止穩",
-          "url": "https://money.udn.com/money/story/123398/9873151"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "義大利、蘇格蘭和愛爾蘭數百所學校收到炸彈威脅",
+      "title": "Nvidia reportedly preparing to oust CEO Huang after alleged affairs with spy, Nvidia exec",
       "summary": [
-        "Financial Times：義大利、蘇格蘭和愛爾蘭數百所學校收到炸彈威脅",
-        "CNBC：義大利和英國數百所學校因「惡作劇」炸彈威脅而疏散",
-        "BBC World：數百所義大利學校受到涉嫌炸彈騙局的威脅"
+        "Yahoo Finance：Nvidia reportedly preparing to oust CEO Huang after alleged affairs with spy, Nvidia exec",
+        "Investing.com：Instant View: Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
+        "The Verge：Nvidia is reportedly preparing to fire Jensen Huang"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "義大利、蘇格蘭和愛爾蘭數百所學校收到炸彈威脅",
-          "url": "https://www.ft.com/content/7bbc0a5e-b7e2-4a3f-874f-a63de94e922d?syn-25a6b1a6=1"
+          "source": "Yahoo Finance",
+          "title": "Nvidia reportedly preparing to oust CEO Huang after alleged affairs with spy, Nvidia exec",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXhhLTc5Wm1MOExFaTVBVWVpQmpqcHhMQ24wOWpkSWVmcEtSSWpCQ2x4bzhFT1dSY05zTXJkcWJ6MHRxOXJOc1dWeWtiQXB5NlB3aFhRdXNUQnBmTkRjVDBJU0FGdXRLd3BQWWlMRTBqZC02M2JyVV9fdHkyVWpxcV9hQWZWZFp1NXR4aUtYeHgzU0xWUkdSZXFobWVBMlphWUFIYzVrc1BuYXd2dlZTYXdzb3RmVjk1RVNLZUtkUG5mV1Fub0Nibm5oR1p4ZXJCb0xKZXBJLWItMU05dmdLSFhB?oc=5"
         },
         {
-          "source": "CNBC",
-          "title": "義大利和英國數百所學校因「惡作劇」炸彈威脅而疏散",
-          "url": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html"
+          "source": "Investing.com",
+          "title": "Instant View: Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
+          "url": "https://www.investing.com/news/stock-market-news/instant-view-nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports-5020061"
         },
         {
-          "source": "BBC World",
-          "title": "數百所義大利學校受到涉嫌炸彈騙局的威脅",
-          "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
+          "source": "The Verge",
+          "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+          "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
         }
       ]
     },
@@ -274,27 +274,69 @@
     },
     {
       "rank": 3,
-      "title": "Anthropic IPO 獲得數倍超額認購",
+      "title": "Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed",
       "summary": [
-        "Bloomberg Markets：Anthropic IPO 獲得數倍超額認購",
-        "Bloomberg Tech：Anthropic IPO 獲得多倍超額認購"
+        "Bloomberg Markets：Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed",
+        "Bloomberg Tech：Anthropic IPO 據稱獲得多倍超額認購"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "Anthropic IPO 獲得數倍超額認購",
+          "title": "Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed",
           "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed"
         },
         {
           "source": "Bloomberg Tech",
-          "title": "Anthropic IPO 獲得多倍超額認購",
+          "title": "Anthropic IPO 據稱獲得多倍超額認購",
           "url": "https://www.bloomberg.com/news/videos/2026-11-11/anthropic-ipo-said-to-be-multiple-times-oversubscribed-video"
         }
       ]
     },
     {
       "rank": 4,
+      "title": "義大利、蘇格蘭和愛爾蘭數百所學校收到炸彈威脅",
+      "summary": [
+        "Financial Times：義大利、蘇格蘭和愛爾蘭數百所學校收到炸彈威脅",
+        "CNBC：義大利和英國數百所學校因「惡作劇」炸彈威脅而疏散"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "義大利、蘇格蘭和愛爾蘭數百所學校收到炸彈威脅",
+          "url": "https://www.ft.com/content/7bbc0a5e-b7e2-4a3f-874f-a63de94e922d?syn-25a6b1a6=1"
+        },
+        {
+          "source": "CNBC",
+          "title": "義大利和英國數百所學校因「惡作劇」炸彈威脅而疏散",
+          "url": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "美國科技股可望延續反彈",
+      "summary": [
+        "Financial Times：美國科技股可望延續反彈",
+        "FT中文網：美國科技股有望延續反彈趨勢"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "美國科技股可望延續反彈",
+          "url": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1"
+        },
+        {
+          "source": "FT中文網",
+          "title": "美國科技股有望延續反彈趨勢",
+          "url": "https://www.ftchinese.com/story/001111345"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "西班牙遭遇14年來首次大罷工",
       "summary": [
         "Financial Times：西班牙遭遇14年來首次大罷工",
@@ -315,28 +357,28 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "蘋果下週將關閉支援社群論壇",
+      "rank": 7,
+      "title": "臺灣九合一大選｜基隆不僅藍綠戰況極度膠著，更是中央與地方的政治角力舞臺",
       "summary": [
-        "The Verge：蘋果下週將關閉支援社群論壇",
-        "Ars Technica：Apple 將關閉擁有 28 年歷史的線上社群論壇"
+        "法廣RFI：臺灣九合一大選｜基隆不僅藍綠戰況極度膠著，更是中央與地方的政治角力舞臺",
+        "FT中文網：選舉激戰中的臺灣：民調分歧與政黨分合"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "The Verge",
-          "title": "蘋果下週將關閉支援社群論壇",
-          "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down"
+          "source": "法廣RFI",
+          "title": "臺灣九合一大選｜基隆不僅藍綠戰況極度膠著，更是中央與地方的政治角力舞臺",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%81%9A%E7%84%A6%E5%8F%B0%E6%B5%B7/20261111-%E5%8F%B0%E7%81%A3%E4%B9%9D%E5%90%88%E4%B8%80%E5%A4%A7%E9%81%B8%EF%BD%9C%E5%9F%BA%E9%9A%86%E4%B8%8D%E5%83%85%E8%97%8D%E7%B6%A0%E6%88%B0%E6%B3%81%E6%A5%B5%E5%BA%A6%E8%86%A0%E7%9D%80%EF%BC%8C%E6%9B%B4%E6%98%AF%E4%B8%AD%E5%A4%AE%E8%88%87%E5%9C%B0%E6%96%B9%E7%9A%84%E6%94%BF%E6%B2%BB%E8%A7%92%E5%8A%9B%E8%88%9E%E5%8F%B0"
         },
         {
-          "source": "Ars Technica",
-          "title": "Apple 將關閉擁有 28 年歷史的線上社群論壇",
-          "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/"
+          "source": "FT中文網",
+          "title": "選舉激戰中的臺灣：民調分歧與政黨分合",
+          "url": "https://www.ftchinese.com/story/001111340"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "德國聯邦國防軍因間諜風險禁用中國無人機和汽車",
       "summary": [
         "德國之聲：德國聯邦國防軍因間諜風險禁用中國無人機和汽車",
@@ -357,7 +399,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Meta 基礎設施、工程主管將於 2027 年離職",
       "summary": [
         "Bloomberg Tech：Meta 基礎設施、工程主管將於 2027 年離職",
@@ -378,7 +420,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "您已經可以購買的最佳黑色星期五早期優惠",
       "summary": [
         "The Verge：您已經可以購買的最佳黑色星期五早期優惠",
@@ -395,42 +437,6 @@
           "source": "Wired",
           "title": "22 個最佳早期黑色星期五優惠：我們的終極精選 (2026)",
           "url": "https://www.wired.com/story/best-black-friday-deals-11-11-2026/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Applied Intuition正在洽談融資15億美元，估值300億美元",
-      "summary": [
-        "Bloomberg Tech：Applied Intuition正在洽談融資15億美元，估值300億美元",
-        "Investing.com：根據彭博社報道，Applied Intuition 正在洽談以 30B 美元估值籌集 1.5B 美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Applied Intuition正在洽談融資15億美元，估值300億美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-11/applied-intuition-in-talks-to-raise-1-5-billion-at-30-billion-value"
-        },
-        {
-          "source": "Investing.com",
-          "title": "根據彭博社報道，Applied Intuition 正在洽談以 30B 美元估值籌集 1.5B 美元",
-          "url": "https://www.investing.com/news/stock-market-news/applied-intuition-in-talks-to-raise-15b-at-30b-valuation-bloomberg-reports-5019616"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "為什麼哈格蒂股票今天會下跌？",
-      "summary": [
-        "Investing.com：為什麼哈格蒂股票今天會下跌？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "為什麼哈格蒂股票今天會下跌？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-hagerty-stock-sliding-today-93CH-5018683"
         }
       ]
     }
