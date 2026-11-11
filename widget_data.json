@@ -1,40 +1,8 @@
 {
-  "updated_at": "2026-11-11 13:02",
+  "updated_at": "2026-11-11 14:02",
   "taiwan": [
     {
       "rank": 1,
-      "title": "紐時：接班無人、董事會太乖　黃仁勳風波曝輝達隱憂",
-      "summary": [
-        "自由時報：紐時：接班無人、董事會太乖　黃仁勳風波曝輝達隱憂",
-        "經濟日報：紐時：接班無人、董事會太乖　黃仁勳風波曝輝達隱憂",
-        "ETtoday：找無人接班、董事會太乖　黃仁勳風波暴露輝達隱憂"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "紐時：接班無人、董事會太乖　黃仁勳風波曝輝達隱憂",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5636392"
-        },
-        {
-          "source": "經濟日報",
-          "title": "紐時：接班無人、董事會太乖　黃仁勳風波曝輝達隱憂",
-          "url": "https://money.udn.com/money/story/5599/9870629"
-        },
-        {
-          "source": "ETtoday",
-          "title": "找無人接班、董事會太乖　黃仁勳風波暴露輝達隱憂",
-          "url": "https://www.ettoday.net/news/20261111/3269927.htm"
-        },
-        {
-          "source": "財經新報",
-          "title": "紐時：接班無人、董事會太乖，黃仁勳婚外情風波曝輝達隱憂",
-          "url": "https://finance.technews.tw/2026/11/11/nvidias-board-has-a-history-of-letting-jensen-huang-get-his-way/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "美籲俄烏止戰與歐洲安全架構繫結　歐洲質疑",
       "summary": [
         "自由時報：美籲俄烏止戰與歐洲安全架構繫結　歐洲質疑",
@@ -57,6 +25,33 @@
           "source": "ETtoday",
           "title": "美籲俄烏止戰與歐洲安全架構繫結　歐洲憂俄懷鬼胎",
           "url": "https://www.ettoday.net/news/20261111/3269943.htm"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "韓公車失控「衝分隔島」連撞31車！48人輕重傷　上班尖峰嚴重車禍",
+      "summary": [
+        "ETtoday：韓公車失控「衝分隔島」連撞31車！48人輕重傷　上班尖峰嚴重車禍",
+        "自由時報：南韓首都圈重大車禍！上班通勤期間公車一路狂撞32輛車 釀57傷",
+        "經濟日報：韓國公車衝撞32輛車　造成57人受傷"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "韓公車失控「衝分隔島」連撞31車！48人輕重傷　上班尖峰嚴重車禍",
+          "url": "https://www.ettoday.net/news/20261111/3270039.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "南韓首都圈重大車禍！上班通勤期間公車一路狂撞32輛車 釀57傷",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5636845"
+        },
+        {
+          "source": "經濟日報",
+          "title": "韓國公車衝撞32輛車　造成57人受傷",
+          "url": "https://money.udn.com/money/story/5599/9871769"
         }
       ]
     },
@@ -104,27 +99,6 @@
     },
     {
       "rank": 5,
-      "title": "市場關注AI領域前景　歐股收盤走勢不一",
-      "summary": [
-        "自由時報：市場關注AI領域前景　歐股收盤走勢不一",
-        "經濟日報：市場關注AI領域前景　歐股收盤走勢不一"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "市場關注AI領域前景　歐股收盤走勢不一",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5636393"
-        },
-        {
-          "source": "經濟日報",
-          "title": "市場關注AI領域前景　歐股收盤走勢不一",
-          "url": "https://money.udn.com/money/story/5599/9870630"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "通膨高於預期　美債殖利率全面跳升、12月恐升息2碼",
       "summary": [
         "自由時報：通膨高於預期　美債殖利率全面跳升、12月恐升息2碼",
@@ -145,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "出席桃園最偏遠復興區競總成立大會　張善政：珍惜四年成果",
       "summary": [
         "ETtoday：出席桃園最偏遠復興區競總成立大會　張善政：珍惜四年成果",
@@ -162,6 +136,27 @@
           "source": "自由時報",
           "title": "美光擴建傳喊卡！勞資協商11/17繼續 張善政盼持續投資桃園",
           "url": "https://ec.ltn.com.tw/article/breakingnews/5636730"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "黃仁勳偷吃若離婚「身家對半分」　老婆最多可分2.5兆！",
+      "summary": [
+        "ETtoday：黃仁勳偷吃若離婚「身家對半分」　老婆最多可分2.5兆！",
+        "經濟日報：黃仁勳妻若離婚能分多少？775億美元天價試算 遠超過貝佐斯離婚案"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳偷吃若離婚「身家對半分」　老婆最多可分2.5兆！",
+          "url": "https://www.ettoday.net/news/20261111/3269912.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳妻若離婚能分多少？775億美元天價試算 遠超過貝佐斯離婚案",
+          "url": "https://money.udn.com/money/story/5599/9871661"
         }
       ]
     },
@@ -286,27 +281,6 @@
     },
     {
       "rank": 3,
-      "title": "Anthropic 重磅 IPO 目標估值達 1.4 兆美元",
-      "summary": [
-        "Bloomberg Tech：Anthropic 重磅 IPO 目標估值達 1.4 兆美元",
-        "Bloomberg Markets：Breaking Down Anthropic's $1.4 Trillion IPO Valuation"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic 重磅 IPO 目標估值達 1.4 兆美元",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwayrbrl"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "Breaking Down Anthropic's $1.4 Trillion IPO Valuation",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-11/breaking-down-anthropic-s-1-4-trillion-ipo-valuation-video"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
       "summary": [
         "Investing.com：OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
@@ -327,7 +301,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
       "summary": [
         "Bloomberg Markets：Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
@@ -337,42 +311,42 @@
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
+          "title": "必勝客計劃出售 10 億美元債券為其收購提供資金",
           "url": "https://www.bloomberg.com/news/articles/2026-11-10/pizza-hut-looks-to-sell-1-billion-of-bonds-to-fund-its-buyout"
         },
         {
           "source": "Investing.com",
-          "title": "Pizza Hut plans $1 billion bond sale to fund LongRange buyout",
+          "title": "必勝客計劃發行 10 億美元債券，為 LongRange 收購提供資金",
           "url": "https://www.investing.com/news/stock-market-news/pizza-hut-plans-1-billion-bond-sale-to-fund-longrange-buyout--bloomberg-93CH-5016651"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Anthropic Targets $1.4T Valuation in Blockbuster IPO",
       "summary": [
-        "Bloomberg Tech：Anthropic Targets $1.4T Valuation in Blockbuster IPO",
-        "Bloomberg Markets：Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO"
+        "Bloomberg Tech：Anthropic 重磅 IPO 估值目標為 1.4T 美元",
+        "Bloomberg Markets：Anthropic 重磅 IPO 目標估值達 1.4 兆美元"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "Anthropic Targets $1.4T Valuation in Blockbuster IPO",
+          "title": "Anthropic 重磅 IPO 估值目標為 1.4T 美元",
           "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4t-valuation-in-blockbuster-ipo-video"
         },
         {
           "source": "Bloomberg Markets",
-          "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+          "title": "Anthropic 重磅 IPO 目標估值達 1.4 兆美元",
           "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwb4e46h"
         }
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
       "summary": [
-        "TechCrunch：Oura to acquire AI-native primary care startup Counsel Health for $625M",
+        "TechCrunch：Oura 將以 6.25 億美元收購人工智慧原生初級保健新創公司 Counsel Health",
         "The Verge：Oura 正在收購醫療人工智慧聊天機器人新創公司 Counsel Health"
       ],
       "media_count": 2,
@@ -390,28 +364,28 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Senior US soldier arrested in UK on suspicion of spying for Russia",
+      "rank": 7,
+      "title": "美國高階士兵因涉嫌為俄羅斯從事間諜活動在英國被捕",
       "summary": [
-        "Financial Times：Senior US soldier arrested in UK on suspicion of spying for Russia",
-        "BBC World：US Army soldier suspected of spying for Russia arrested in UK"
+        "Financial Times：美國高階士兵因涉嫌為俄羅斯從事間諜活動在英國被捕",
+        "BBC World：涉嫌為俄羅斯從事間諜活動的美國陸軍士兵在英國被捕"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Financial Times",
-          "title": "Senior US soldier arrested in UK on suspicion of spying for Russia",
+          "title": "美國高階士兵因涉嫌為俄羅斯從事間諜活動在英國被捕",
           "url": "https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1"
         },
         {
           "source": "BBC World",
-          "title": "US Army soldier suspected of spying for Russia arrested in UK",
+          "title": "涉嫌為俄羅斯從事間諜活動的美國陸軍士兵在英國被捕",
           "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "美國國務卿： 目前沒必要對伊朗展開大規模作戰",
       "summary": [
         "法廣RFI：美國國務卿： 目前沒必要對伊朗展開大規模作戰",
@@ -426,13 +400,13 @@
         },
         {
           "source": "NHK新聞",
-          "title": "米 ルビオ國務長官 G7各國に「イランへ大規模戦闘 必要ない」",
+          "title": "美國國務卿盧比歐告訴G7國家：“沒有必要對伊朗進行大規模打擊”",
           "url": "https://news.web.nhk/newsweb/na/nd-20261111de73868"
         }
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "通膨加劇引發華爾街升息擔憂",
       "summary": [
         "WSJ Markets：通膨加劇引發華爾街升息擔憂",
@@ -449,6 +423,27 @@
           "source": "Yahoo Finance",
           "title": "熱門通膨資料加劇升息恐慌，華爾街下跌",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcDdSR2JEV3JnaGdSRDlzeEdYQVpFODhCUE4xZWhwX0p4V2NjWXhlOWNhVGY2NW1jMTRHRjFjdjVEc0ZKeVBXTWR3aFlzbUE2VHJ4NXpvQS1GRWtxZ1lUZjhIXzF2ZzlWd1BoOEo0MUpXRzZudFExR2tnMlhRUzBOOGE5M2MzZ0xLSTFSZjF6SFBkUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Anthropic Lodges 澳洲招股說明書，開放給零售業 IPO",
+      "summary": [
+        "Bloomberg Markets：Anthropic Lodges 澳洲招股說明書，開放給零售業 IPO",
+        "CNBC：隨著人工智慧審查的加劇，Anthropic 開始澳洲零售業 IPO"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic Lodges 澳洲招股說明書，開放給零售業 IPO",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-lodges-australian-prospectus-opening-ipo-to-retail"
+        },
+        {
+          "source": "CNBC",
+          "title": "隨著人工智慧審查的加劇，Anthropic 開始澳洲零售業 IPO",
+          "url": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html"
         }
       ]
     }
