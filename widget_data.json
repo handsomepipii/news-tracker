@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-11 08:18",
+  "updated_at": "2026-11-11 09:47",
   "taiwan": [
     {
       "rank": 1,
-      "title": "快訊／臺積電豪砸320億美元入股OpenAI、Anthropic",
-      "summary": [
-        "ETtoday：快訊／臺積電豪砸320億美元入股OpenAI、Anthropic",
-        "數位時代：押寶AI雙雄！臺積電擬砸最高10億美元入股OpenAI、Anthropic，歷年創投佈局一次看",
-        "工商時報：臺積電入股Anthropic！擬砸5億美元投資 同步佈局OpenAI"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／臺積電豪砸320億美元入股OpenAI、Anthropic",
-          "url": "https://finance.ettoday.net/news/3269857"
-        },
-        {
-          "source": "數位時代",
-          "title": "押寶AI雙雄！臺積電擬砸最高10億美元入股OpenAI、Anthropic，歷年創投佈局一次看",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZUY2U0RhSG9KcFN2clI3cDlNUkN5LUI3allWNmtJYlNXWEhaN2JqTmxnemN0UW9SdzZiaUhVeFl1SnJCc1d6R3ZZU2JOQlNxMTZLem9RTHh6RklaWTVPMi05QzliTkJRcFRSd1J6UmJTXzFoRm8zSkdUTWhXdURRV0JQd2RoUldwZmo4?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "臺積電入股Anthropic！擬砸5億美元投資 同步佈局OpenAI",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VSmpRdlBlZ0x4R0tRaFlmQ1g2RjVCMkJ6eUNucTI5RWt5N0hneGJFZ2JGdDdhc3RfOVdERVBTOF9HYmNMQVQxLVRtRlBKVWNiaUU4VlBiS0VvcmtrOE5v?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "紐時：接班無人、董事會太乖　黃仁勳風波曝輝達隱憂",
       "summary": [
         "自由時報：紐時：接班無人、董事會太乖　黃仁勳風波曝輝達隱憂",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "美籲俄烏止戰與歐洲安全架構繫結　歐洲質疑",
       "summary": [
         "自由時報：美籲俄烏止戰與歐洲安全架構繫結　歐洲質疑",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "盧比歐稱美國重創伊朗經濟　暫無必要重啟大規模軍事行動",
       "summary": [
         "自由時報：盧比歐稱美國重創伊朗經濟　暫無必要重啟大規模軍事行動",
@@ -104,91 +77,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "保加利亞嚴重車禍！高速公路連環撞至少「12死10傷」",
-      "summary": [
-        "ETtoday：保加利亞嚴重車禍！高速公路連環撞至少「12死10傷」",
-        "經濟日報：保加利亞高速公路連環車禍　至少12死50傷"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "保加利亞嚴重車禍！高速公路連環撞至少「12死10傷」",
-          "url": "https://www.ettoday.net/news/20261110/3269836.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "保加利亞高速公路連環車禍　至少12死50傷",
-          "url": "https://money.udn.com/money/story/5599/9870175"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "投資損失、資料中心專案採購計畫變更 軟銀上季虧損70億美元",
-      "summary": [
-        "財訊：投資損失、資料中心專案採購計畫變更 軟銀上季虧損70億美元",
-        "經濟日報：軟銀集團第二財季虧損逾70億美元 美國資料中心成本激增"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "財訊",
-          "title": "投資損失、資料中心專案採購計畫變更 軟銀上季虧損70億美元",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsQTdTY1hhUk92SGVCRTlJbzNkUXRJblJUN2pjV1NoZ0FFX2xHM1ZnSm5TX2ZBay1LZzVicXQ1RUxvUXBjRkxnQmZldXJXam4tVTNOZ3hlNlZrRkdpeGZsamg1RHlldG1KZ1VXVjd1TE8yV1dRNXZReUZxTQ?oc=5"
-        },
-        {
-          "source": "經濟日報",
-          "title": "軟銀集團第二財季虧損逾70億美元 美國資料中心成本激增",
-          "url": "https://money.udn.com/money/story/5599/9869733"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "黃樂被爆已結婚！與丈夫合照曝光　他因操縱股票被捕",
-      "summary": [
-        "ETtoday：黃樂被爆已結婚！與丈夫合照曝光　他因操縱股票被捕",
-        "經濟日報：黃仁勳婚外情 陸媒：黃樂丈夫涉操縱股票遭刑事扣查"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "黃樂被爆已結婚！與丈夫合照曝光　他因操縱股票被捕",
-          "url": "https://finance.ettoday.net/news/3269842"
-        },
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳婚外情 陸媒：黃樂丈夫涉操縱股票遭刑事扣查",
-          "url": "https://money.udn.com/money/story/123398/9870359"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "曾為兒虐案、市府不足處致歉　蔣萬安：沈伯洋永不認錯勇氣哪來的？",
-      "summary": [
-        "ETtoday：曾為兒虐案、市府不足處致歉　蔣萬安：沈伯洋永不認錯勇氣哪來的？",
-        "自由時報：兒虐攻防不讓步！蔣萬安再批沈伯洋：不認錯的勇氣是哪來的？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "曾為兒虐案、市府不足處致歉　蔣萬安：沈伯洋永不認錯勇氣哪來的？",
-          "url": "https://www.ettoday.net/news/20261110/3269846.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "兒虐攻防不讓步！蔣萬安再批沈伯洋：不認錯的勇氣是哪來的？",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5636318"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 4,
       "title": "從助理到選將！張銘祐萬華辦政見會 林右昌、顏聖冠現身力挺",
       "summary": [
         "自由時報：從助理到選將！張銘祐萬華辦政見會 林右昌、顏聖冠現身力挺",
@@ -209,7 +98,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 5,
       "title": "反擊彈劾出於私怨、作秀  赫格塞斯：終將失敗",
       "summary": [
         "自由時報：反擊彈劾出於私怨、作秀  赫格塞斯：終將失敗",
@@ -228,70 +117,116 @@
           "url": "https://www.ettoday.net/news/20261110/3269899.htm"
         }
       ]
+    },
+    {
+      "rank": 6,
+      "title": "Anthropic將在美IPO　估值上看1.4兆美元",
+      "summary": [
+        "經濟日報：Anthropic將在美IPO　估值上看1.4兆美元",
+        "科技新報：Anthropic 將在美 IPO，估值上看 1.4 兆美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "Anthropic將在美IPO　估值上看1.4兆美元",
+          "url": "https://money.udn.com/money/story/123398/9870357"
+        },
+        {
+          "source": "科技新報",
+          "title": "Anthropic 將在美 IPO，估值上看 1.4 兆美元",
+          "url": "https://finance.technews.tw/2026/11/11/anthropic-targets-1-4-trillion-ipo/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "秦慧珠合照比3 鄭麗文：你怎可以面帶微笑看著沈伯洋呢？",
+      "summary": [
+        "自由時報：秦慧珠合照比3 鄭麗文：你怎可以面帶微笑看著沈伯洋呢？",
+        "ETtoday：鄭麗文點名秦慧珠「博版面」　認選情緊繃：怎可以微笑看沈伯洋？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "秦慧珠合照比3 鄭麗文：你怎可以面帶微笑看著沈伯洋呢？",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5636366"
+        },
+        {
+          "source": "ETtoday",
+          "title": "鄭麗文點名秦慧珠「博版面」　認選情緊繃：怎可以微笑看沈伯洋？",
+          "url": "https://www.ettoday.net/news/20261110/3269889.htm"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "馬來西亞前首相納吉返家服刑 期滿須返監服刑15年",
+      "summary": [
+        "自由時報：馬來西亞前首相納吉返家服刑 期滿須返監服刑15年",
+        "經濟日報：馬來西亞前首相納吉返家服刑　期滿須返監服刑15年"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "馬來西亞前首相納吉返家服刑 期滿須返監服刑15年",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5636362"
+        },
+        {
+          "source": "經濟日報",
+          "title": "馬來西亞前首相納吉返家服刑　期滿須返監服刑15年",
+          "url": "https://money.udn.com/money/story/5599/9870451"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "美媒：黃仁勳婚外情關係　助75億美元輝達晶片銷往中國",
+      "summary": [
+        "經濟日報：美媒：黃仁勳婚外情關係　助75億美元輝達晶片銷往中國",
+        "科技新報：美媒：黃仁勳婚外情關係，助 75 億美元輝達晶片銷往中國"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美媒：黃仁勳婚外情關係　助75億美元輝達晶片銷往中國",
+          "url": "https://money.udn.com/money/story/5599/9870450"
+        },
+        {
+          "source": "科技新報",
+          "title": "美媒：黃仁勳婚外情關係，助 75 億美元輝達晶片銷往中國",
+          "url": "https://technews.tw/2026/11/11/us-media-jensen-huang-affair-aided-7-5-billion-nvidia-chip-sales-china/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國10月CPI高於市場預期　聯準會升息壓力增",
+      "summary": [
+        "經濟日報：美國10月CPI高於市場預期　聯準會升息壓力增",
+        "科技新報：美國 10 月 CPI 高於市場預期，聯準會升息壓力增"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美國10月CPI高於市場預期　聯準會升息壓力增",
+          "url": "https://money.udn.com/money/story/5599/9870373"
+        },
+        {
+          "source": "科技新報",
+          "title": "美國 10 月 CPI 高於市場預期，聯準會升息壓力增",
+          "url": "https://finance.technews.tw/2026/11/11/us-inflation-slows-less-than-expected-lifting-rate-hike-odds/"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
-      "summary": [
-        "WSJ Markets：Anthropic to Seek $1.3 Trillion Valuation in IPO",
-        "Bloomberg Tech：Anthropic Targets $1.4 Trillion Valuation in IPO",
-        "Yahoo Finance：Anthropic seeks $1.4 trillion valuation in highly anticipated IPO amid AI boom"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "WSJ Markets",
-          "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
-          "url": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669?mod=rss_markets_main"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic Targets $1.4 Trillion Valuation in IPO",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Anthropic seeks $1.4 trillion valuation in highly anticipated IPO amid AI boom",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFd6MGdLa3YwRWRsck0xaEFGNHNwYm9nSW1idFZSeWVLVzczSG5mYy1hazd3bUppeW9NNlhTM3p0Si0xZWxYd0R0QU9ReXZONmVPMHNtMTYwRG43N3FfWEJjMXltM2pGZXRJWGxiNXV5WXVndXlOQ3E4VTBTQ3gwdzhJc1l6VTh2ODJKNFMtOXRzMWJDYS05TGl0UzR2bXBkc2xB?oc=5"
-        },
-        {
-          "source": "The Verge",
-          "title": "Anthropic targets $1.4 trillion IPO",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches toward Nasdaq",
-      "summary": [
-        "CNBC：Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches toward Nasdaq",
-        "TechCrunch：Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-        "Yahoo Finance：Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches toward Nasdaq",
-          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPazlCUWZlSWdNODhxbW9CM2k4aFhUbmdMZVN1T1JERW52RkNoRWRfMm1zNzZleFJDM0VzYVBKNWNVUGd5d1dnM3RtWldMZmdzR1lOWktxUi1lOG9XbzQ3c0ZMQnpjNkVrZl9vSW1zRGRLd1pFNUdTdVlIY3dWUlBWTHZmV1dxSVBVWDFtNzZyanFBdDFrMlF3X0NhYw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
       "summary": [
         "CNBC：Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
@@ -318,7 +253,34 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "title": "Anthropic seeks $1.4 trillion valuation in highly anticipated IPO amid AI boom",
+      "summary": [
+        "Yahoo Finance：Anthropic seeks $1.4 trillion valuation in highly anticipated IPO amid AI boom",
+        "The Verge：Anthropic targets $1.4 trillion IPO",
+        "Bloomberg Tech：Anthropic 重磅 IPO 目標估值達 1.4 兆美元"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "Anthropic seeks $1.4 trillion valuation in highly anticipated IPO amid AI boom",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFd6MGdLa3YwRWRsck0xaEFGNHNwYm9nSW1idFZSeWVLVzczSG5mYy1hazd3bUppeW9NNlhTM3p0Si0xZWxYd0R0QU9ReXZONmVPMHNtMTYwRG43N3FfWEJjMXltM2pGZXRJWGxiNXV5WXVndXlOQ3E4VTBTQ3gwdzhJc1l6VTh2ODJKNFMtOXRzMWJDYS05TGl0UzR2bXBkc2xB?oc=5"
+        },
+        {
+          "source": "The Verge",
+          "title": "Anthropic targets $1.4 trillion IPO",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic 重磅 IPO 目標估值達 1.4 兆美元",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwayrbrl"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "House Republicans elect Jim Jordan to serve as minority leader next year",
       "summary": [
         "Washington Post：House Republicans elect Jim Jordan to serve as minority leader next year",
@@ -345,70 +307,28 @@
       ]
     },
     {
+      "rank": 4,
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "summary": [
+        "TechCrunch：Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+        "Yahoo Finance：Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPazlCUWZlSWdNODhxbW9CM2k4aFhUbmdMZVN1T1JERW52RkNoRWRfMm1zNzZleFJDM0VzYVBKNWNVUGd5d1dnM3RtWldMZmdzR1lOWktxUi1lOG9XbzQ3c0ZMQnpjNkVrZl9vSW1zRGRLd1pFNUdTdVlIY3dWUlBWTHZmV1dxSVBVWDFtNzZyanFBdDFrMlF3X0NhYw?oc=5"
+        }
+      ]
+    },
+    {
       "rank": 5,
-      "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
-      "summary": [
-        "Bloomberg Tech：Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
-        "Bloomberg Markets：Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwb4e46h"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
-      "summary": [
-        "CNBC：Pete Hegseth decries impeachment push, defends Iran war handling",
-        "Financial Times：Defiant Pete Hegseth defends Iran war as he faces impeachment vote"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
-          "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html"
-        },
-        {
-          "source": "Financial Times",
-          "title": "Defiant Pete Hegseth defends Iran war as he faces impeachment vote",
-          "url": "https://www.ft.com/content/38100c3c-af0d-440b-8350-823c5e8c80d9?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Hands-on with Ring’s new AI drone camera for your home",
-      "summary": [
-        "The Verge：Hands-on with Ring’s new AI drone camera for your home",
-        "Wired：Ring 的室內無人機攝影機回歸，現在由人工智慧提供支援"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "Hands-on with Ring’s new AI drone camera for your home",
-          "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
-        },
-        {
-          "source": "Wired",
-          "title": "Ring 的室內無人機攝影機回歸，現在由人工智慧提供支援",
-          "url": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "高盛預計到 2030 年 Anthropic 營收將超過 6,000 億美元",
       "summary": [
         "Financial Times：高盛預計到 2030 年 Anthropic 營收將超過 6,000 億美元",
@@ -429,7 +349,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "FDA 警告 GLP-1 藥物可能會帶來導致視力喪失的罕見疾病的風險",
       "summary": [
         "Ars Technica：FDA 警告 GLP-1 藥物可能會帶來導致視力喪失的罕見疾病的風險",
@@ -450,7 +370,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
       "summary": [
         "The Verge：Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
@@ -467,6 +387,69 @@
           "source": "VentureBeat",
           "title": "Google Gemini 4 Carbon is now publicly available — and it undercuts Claude Fable 5.2 and Opus 5.5 on API price",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjR5SzFCUEJCS0phWGJKT2FDREJBQnA3U094UHh2azF6VVYtUENId29Zb3Iya3dLT29vdVNFMkJTMTdVS1dYYWJ5VmNaMlp1TG1qbUtUYVp3cEx1TzI0NFRLS3hROE1wall1eThWMnVzZ1pnc290OUpPd1FTVHR3OTJ3UmowSnQ2NUhDS21JYV8zNkoyWmw4RDk1Ql94d3VCeFRUemZ1YUprVmNWUGVFRnhKS0RNaEFtc25zN2lqQzdwMGJ5SzdSeFNaczJZZGhxclhJanJSeWd2bTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
+      "summary": [
+        "Investing.com：OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
+        "VentureBeat：OpenAI 可讓您在 ChatGPT 中認領您的業務並設定自訂代理 AI 客戶銷售代表"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
+          "url": "https://www.investing.com/news/stock-market-news/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-for-us-ecommerce-firms-5016475"
+        },
+        {
+          "source": "VentureBeat",
+          "title": "OpenAI 可讓您在 ChatGPT 中認領您的業務並設定自訂代理 AI 客戶銷售代表",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1k2TE9PS2pnenpoREV0aWhNbFJWeFFRbFBIWEF2dzBxNTdJS2RtenhLZUF6dWxwejg3SnBxRVYtSUxmdUlQUXUzcjgxdXY4TjNqMVJVNGVWOTNFWl83NGhYTEkydkN0Q1RMbEpISl85V0RrT0VtSmN1bnQ2MURLa2VQMjJyUVlnNkFkSTF0YzZ5NlJEZTBjZXpIdzNzX21Fc3otZzNyUVNNU2RWcjNwYzZVMVByOFlZeVFGd21tdGFBZXlUWkF0R1FXNA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
+      "summary": [
+        "Bloomberg Markets：Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
+        "Investing.com：Pizza Hut plans $1 billion bond sale to fund LongRange buyout"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-10/pizza-hut-looks-to-sell-1-billion-of-bonds-to-fund-its-buyout"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Pizza Hut plans $1 billion bond sale to fund LongRange buyout",
+          "url": "https://www.investing.com/news/stock-market-news/pizza-hut-plans-1-billion-bond-sale-to-fund-longrange-buyout--bloomberg-93CH-5016651"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Anthropic Targets $1.4T Valuation in Blockbuster IPO",
+      "summary": [
+        "Bloomberg Tech：Anthropic Targets $1.4T Valuation in Blockbuster IPO",
+        "Bloomberg Markets：Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic Targets $1.4T Valuation in Blockbuster IPO",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4t-valuation-in-blockbuster-ipo-video"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwb4e46h"
         }
       ]
     }
