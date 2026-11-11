@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 17:38",
+  "updated_at": "2026-11-11 18:41",
   "taiwan": [
     {
       "rank": 1,
@@ -83,48 +83,6 @@
     },
     {
       "rank": 4,
-      "title": "幫邱臣遠站臺 被質疑「何處惹塵埃」》駁張雅屏 趙少康：黨中央不要放狗咬人",
-      "summary": [
-        "自由時報：幫邱臣遠站臺 被質疑「何處惹塵埃」》駁張雅屏 趙少康：黨中央不要放狗咬人",
-        "ETtoday：趙少康槓考紀會嗆「別放狗咬人」　鄭麗文：黨員都該知所進退"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "幫邱臣遠站臺 被質疑「何處惹塵埃」》駁張雅屏 趙少康：黨中央不要放狗咬人",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1777992"
-        },
-        {
-          "source": "ETtoday",
-          "title": "趙少康槓考紀會嗆「別放狗咬人」　鄭麗文：黨員都該知所進退",
-          "url": "https://www.ettoday.net/news/20261111/3270248.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "美伊終戰前景未明　伊朗國安首長稱目前未與華府談判",
-      "summary": [
-        "自由時報：美伊終戰前景未明　伊朗國安首長稱目前未與華府談判",
-        "經濟日報：美伊終戰前景未明　伊朗國安首長稱目前未與華府談判"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美伊終戰前景未明　伊朗國安首長稱目前未與華府談判",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5636403"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美伊終戰前景未明　伊朗國安首長稱目前未與華府談判",
-          "url": "https://money.udn.com/money/story/5599/9870683"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "找無人接班、董事會太乖　黃仁勳風波暴露輝達隱憂",
       "summary": [
         "ETtoday：找無人接班、董事會太乖　黃仁勳風波暴露輝達隱憂",
@@ -145,7 +103,28 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "title": "Anthropic 將在美 IPO，估值上看 1.4 兆美元",
+      "summary": [
+        "科技新報：Anthropic 將在美 IPO，估值上看 1.4 兆美元",
+        "數位時代：Anthropic啟動IPO路演！估值衝上1.4兆美元、股票代號「ANT」，臺積電等7巨頭私募力挺"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "Anthropic 將在美 IPO，估值上看 1.4 兆美元",
+          "url": "https://finance.technews.tw/2026/11/11/anthropic-targets-1-4-trillion-ipo/"
+        },
+        {
+          "source": "數位時代",
+          "title": "Anthropic啟動IPO路演！估值衝上1.4兆美元、股票代號「ANT」，臺積電等7巨頭私募力挺",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmIxeENQdUVMQnQzWV9ZV1Y0blBLaUY3SHpYX2tSbHZLX0dGVkljMG1uVzJBS09kUThIdnhTMnhzUjVPcU1YWXBtbmtTb20tVWtpTVFpRHRyV0VVV0Q1blFTSTZTdlBHSXFidDRsejM2Q2tGU1Y2QVdOeWlIZnJnejhpWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "去中國出差、旅遊不能用Claude了！新規明天上路　不看國籍、人在當地就被Ban",
       "summary": [
         "ETtoday：去中國出差、旅遊不能用Claude了！新規明天上路　不看國籍、人在當地就被Ban",
@@ -166,7 +145,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "快訊／臺南安平「2漁船大火」！火舌濃煙直竄天際　驚悚畫面曝光",
       "summary": [
         "ETtoday：快訊／臺南安平「2漁船大火」！火舌濃煙直竄天際　驚悚畫面曝光",
@@ -187,7 +166,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "美媒：黃仁勳婚外情關係，助 75 億美元輝達晶片銷往中國",
       "summary": [
         "科技新報：美媒：黃仁勳婚外情關係，助 75 億美元輝達晶片銷往中國",
@@ -208,7 +187,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "需求看增  三井金屬蓋新廠、增產 AI DC 用銅箔",
       "summary": [
         "科技新報：需求看增  三井金屬蓋新廠、增產 AI DC 用銅箔",
@@ -225,6 +204,27 @@
           "source": "MoneyDJ理財網",
           "title": "需求看增三井金屬蓋新廠、增產AI DC用銅箔- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONlRSWks5TEpUXzB0WEN2SS1NSFh4NHlsVVZ4czJ4Y2FERHRjZUxUY25fU1YxRE9ZYlR6cHJVVHU5XzVXWV9ncV9YZ0lMOHlwdmp5bjdiVGd1Y0h5OU1EbTkzMnNzZWRXRmRzVjN5SkUwTVR3d0dxWVpXUnRBRDBUdmFOVm13Qkp6XzRHVkJaOVF6UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "迪士尼擴大與Adobe的AI合作，從樂園設計延伸至電影與體育內容",
+      "summary": [
+        "iThome：迪士尼擴大與Adobe的AI合作，從樂園設計延伸至電影與體育內容",
+        "INSIDE硬塞：Disney 與 Adobe 簽多年合約，共同開發 Disney 專屬生成式 AI 模型，涵蓋樂園、影視與 ESPN"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "迪士尼擴大與Adobe的AI合作，從樂園設計延伸至電影與體育內容",
+          "url": "https://www.ithome.com.tw/news/180397"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "Disney 與 Adobe 簽多年合約，共同開發 Disney 專屬生成式 AI 模型，涵蓋樂園、影視與 ESPN",
+          "url": "https://www.inside.com.tw/article/42867-disney-adobe-firefly-foundry-custom-generative-ai-models-multi-year"
         }
       ]
     }
@@ -264,48 +264,6 @@
     },
     {
       "rank": 2,
-      "title": "美國國務卿： 目前沒必要對伊朗展開大規模作戰",
-      "summary": [
-        "法廣RFI：美國國務卿： 目前沒必要對伊朗展開大規模作戰",
-        "NHK新聞：米 ルビオ國務長官 G7各國に「イランへ大規模戦闘 必要ない」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "美國國務卿： 目前沒必要對伊朗展開大規模作戰",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261110-%E7%BE%8E%E5%9C%8B%E5%9C%8B%E5%8B%99%E5%8D%BF%E8%AA%AA%EF%BC%8C%E7%9B%AE%E5%89%8D%E6%B2%92%E5%BF%85%E8%A6%81%E5%B0%8D%E4%BC%8A%E6%9C%97%E9%96%8B%E5%B1%95%E5%A4%A7%E8%A6%8F%E6%A8%A1%E4%BD%9C%E6%88%B0%E8%A1%8C%E5%8B%95"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "米 ルビオ國務長官 G7各國に「イランへ大規模戦闘 必要ない」",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261111de73868"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "通膨加劇引發華爾街升息擔憂",
-      "summary": [
-        "WSJ Markets：通膨加劇引發華爾街升息擔憂",
-        "Yahoo Finance：熱門通膨資料加劇升息恐慌，華爾街下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "WSJ Markets",
-          "title": "通膨加劇引發華爾街升息擔憂",
-          "url": "https://www.wsj.com/finance/investing/hot-inflation-revives-wall-streets-rate-hike-fears-1ce54f85?mod=rss_markets_main"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "熱門通膨資料加劇升息恐慌，華爾街下跌",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcDdSR2JEV3JnaGdSRDlzeEdYQVpFODhCUE4xZWhwX0p4V2NjWXhlOWNhVGY2NW1jMTRHRjFjdjVEc0ZKeVBXTWR3aFlzbUE2VHJ4NXpvQS1GRWtxZ1lUZjhIXzF2ZzlWd1BoOEo0MUpXRzZudFExR2tnMlhRUzBOOGE5M2MzZ0xLSTFSZjF6SFBkUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Anthropic Lodges Australian Prospectus, Opening IPO to Retail",
       "summary": [
         "Bloomberg Markets：Anthropic Lodges Australian Prospectus, Opening IPO to Retail",
@@ -326,7 +284,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "Why Nvidia's alleged Chinese spy scandal is going to confuse markets — and the government",
       "summary": [
         "Yahoo Finance：Why Nvidia's alleged Chinese spy scandal is going to confuse markets — and the government",
@@ -347,7 +305,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "Kennedy family sues to stop Trump’s arch, citing shadow on JFK’s grave",
       "summary": [
         "Washington Post：Kennedy family sues to stop Trump’s arch, citing shadow on JFK’s grave",
@@ -368,7 +326,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "隨著獲利吸收科技波動，歐洲股市接近歷史新高",
       "summary": [
         "Investing.com：隨著獲利吸收科技波動，歐洲股市接近歷史新高",
@@ -389,7 +347,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "快訊：韓10月同比新增就業13.9萬人",
       "summary": [
         "韓聯社：快訊：韓10月同比新增就業13.9萬人"
@@ -404,7 +362,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "順從的董事會：黃仁勛危機考驗英偉達公司治理- 紐約時報中文網",
       "summary": [
         "紐約時報中文：順從的董事會：黃仁勛危機考驗英偉達公司治理- 紐約時報中文網"
@@ -419,7 +377,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
       "summary": [
         "Financial Times：Anthropic bankers prepare to increase IPO valuation to $1.5tn or more"
@@ -430,6 +388,36 @@
           "source": "Financial Times",
           "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
           "url": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普訪華前曾被告知黃仁勛與疑似中國間諜有親密關係- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：川普訪華前曾被告知黃仁勛與疑似中國間諜有親密關係- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "川普訪華前曾被告知黃仁勛與疑似中國間諜有親密關係- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53Ymt6UVo4SWQwYy0wckY2NWRWWTJnVWJuNExLdTc5Zm5CZWh4UW15dHB0QmFBRWVZV1Fjc1NmQ0VxNmJ6bXJidjBQeHN1OGYtRFEyWkoyMGFJbUVuOGJyLVhmaXlnX0NVNnY3aGpkNGVraWNEaUxB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勛事件中的「女主角」黃樂是誰？",
+      "summary": [
+        "紐約時報中文：黃仁勛事件中的「女主角」黃樂是誰？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "黃仁勛事件中的「女主角」黃樂是誰？",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORVppbkJ4cG90RVd6cnl2SVFqUndmYXNhZ3dFUWlJRDZCdXVBazVZN2xPMkJjREpMZGwzd2FxZUIzZmlLTW5zOEpOMHJVZTFJRlVNeU1yVmdZQTZOWnhmTHlhZ19XVzN6SFVkR3NrR01kWjhwOTlyTUJvSWlfWTFhNDB5TzJNZUdFYktBYVRhM3ByejhiZFE?oc=5"
         }
       ]
     }
