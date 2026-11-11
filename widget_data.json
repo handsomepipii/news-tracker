@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 11:58",
+  "updated_at": "2026-11-11 13:02",
   "taiwan": [
     {
       "rank": 1,
@@ -83,6 +83,27 @@
     },
     {
       "rank": 4,
+      "title": "黃仁勳外遇中國女間諜  邱彰曝黃樂下落",
+      "summary": [
+        "自由時報：黃仁勳外遇中國女間諜  邱彰曝黃樂下落",
+        "經濟日報：黃仁勳婚外情物件涉中國間諜！紐時梳理從商史 從上海金融圈打入輝達"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "黃仁勳外遇中國女間諜  邱彰曝黃樂下落",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5636432"
+        },
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳婚外情物件涉中國間諜！紐時梳理從商史 從上海金融圈打入輝達",
+          "url": "https://money.udn.com/money/story/5599/9871142"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "市場關注AI領域前景　歐股收盤走勢不一",
       "summary": [
         "自由時報：市場關注AI領域前景　歐股收盤走勢不一",
@@ -103,7 +124,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "通膨高於預期　美債殖利率全面跳升、12月恐升息2碼",
       "summary": [
         "自由時報：通膨高於預期　美債殖利率全面跳升、12月恐升息2碼",
@@ -124,7 +145,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "出席桃園最偏遠復興區競總成立大會　張善政：珍惜四年成果",
       "summary": [
         "ETtoday：出席桃園最偏遠復興區競總成立大會　張善政：珍惜四年成果",
@@ -145,7 +166,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "分析：合格碳權供不應求　全球航空業減排面臨窘境",
       "summary": [
         "自由時報：分析：合格碳權供不應求　全球航空業減排面臨窘境",
@@ -166,7 +187,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "黃仁勳出軌拖累輝達重挫逾6%　市值急縮落後蘋果與微軟",
       "summary": [
         "自由時報：黃仁勳出軌拖累輝達重挫逾6%　市值急縮落後蘋果與微軟",
@@ -187,7 +208,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "美 CPI 超預期 上月物價月增0.4% 市場認為下月篤定升息",
       "summary": [
         "經濟日報：美 CPI 超預期 上月物價月增0.4% 市場認為下月篤定升息",
@@ -204,27 +225,6 @@
           "source": "鉅亨網",
           "title": "〈美股盤後〉美CPI超預期 12月升息兩碼機率升 四大指數盡墨 輝達再挫超5%",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jSlpPSW4xTlpZSC1iT2hWck9xYmd3VlBNNW10bGhac2RaS3JYVW84OUw1NTFzc1pEdjE5cTBKYXlsNzM0Wmc4aTQ0VC1reTg?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "美伊終戰前景未明　伊朗國安首長稱目前未與華府談判",
-      "summary": [
-        "自由時報：美伊終戰前景未明　伊朗國安首長稱目前未與華府談判",
-        "經濟日報：美伊終戰前景未明　伊朗國安首長稱目前未與華府談判"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美伊終戰前景未明　伊朗國安首長稱目前未與華府談判",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5636403"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美伊終戰前景未明　伊朗國安首長稱目前未與華府談判",
-          "url": "https://money.udn.com/money/story/5599/9870683"
         }
       ]
     }
@@ -286,27 +286,6 @@
     },
     {
       "rank": 3,
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "summary": [
-        "The Verge：Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-        "VentureBeat：Google Gemini 4 Carbon is now publicly available — and it undercuts Claude Fable 5.2 and Opus 5.5 on API price"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
-        },
-        {
-          "source": "VentureBeat",
-          "title": "Google Gemini 4 Carbon is now publicly available — and it undercuts Claude Fable 5.2 and Opus 5.5 on API price",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjR5SzFCUEJCS0phWGJKT2FDREJBQnA3U094UHh2azF6VVYtUENId29Zb3Iya3dLT29vdVNFMkJTMTdVS1dYYWJ5VmNaMlp1TG1qbUtUYVp3cEx1TzI0NFRLS3hROE1wall1eThWMnVzZ1pnc290OUpPd1FTVHR3OTJ3UmowSnQ2NUhDS21JYV8zNkoyWmw4RDk1Ql94d3VCeFRUemZ1YUprVmNWUGVFRnhKS0RNaEFtc25zN2lqQzdwMGJ5SzdSeFNaczJZZGhxclhJanJSeWd2bTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Anthropic 重磅 IPO 目標估值達 1.4 兆美元",
       "summary": [
         "Bloomberg Tech：Anthropic 重磅 IPO 目標估值達 1.4 兆美元",
@@ -327,7 +306,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
       "summary": [
         "Investing.com：OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
@@ -348,7 +327,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
       "summary": [
         "Bloomberg Markets：Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
@@ -369,7 +348,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Anthropic Targets $1.4T Valuation in Blockbuster IPO",
       "summary": [
         "Bloomberg Tech：Anthropic Targets $1.4T Valuation in Blockbuster IPO",
@@ -390,7 +369,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
       "summary": [
         "TechCrunch：Oura to acquire AI-native primary care startup Counsel Health for $625M",
@@ -411,7 +390,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Senior US soldier arrested in UK on suspicion of spying for Russia",
       "summary": [
         "Financial Times：Senior US soldier arrested in UK on suspicion of spying for Russia",
@@ -432,7 +411,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美國國務卿： 目前沒必要對伊朗展開大規模作戰",
       "summary": [
         "法廣RFI：美國國務卿： 目前沒必要對伊朗展開大規模作戰",
@@ -449,6 +428,27 @@
           "source": "NHK新聞",
           "title": "米 ルビオ國務長官 G7各國に「イランへ大規模戦闘 必要ない」",
           "url": "https://news.web.nhk/newsweb/na/nd-20261111de73868"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "通膨加劇引發華爾街升息擔憂",
+      "summary": [
+        "WSJ Markets：通膨加劇引發華爾街升息擔憂",
+        "Yahoo Finance：熱門通膨資料加劇升息恐慌，華爾街下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "WSJ Markets",
+          "title": "通膨加劇引發華爾街升息擔憂",
+          "url": "https://www.wsj.com/finance/investing/hot-inflation-revives-wall-streets-rate-hike-fears-1ce54f85?mod=rss_markets_main"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "熱門通膨資料加劇升息恐慌，華爾街下跌",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcDdSR2JEV3JnaGdSRDlzeEdYQVpFODhCUE4xZWhwX0p4V2NjWXhlOWNhVGY2NW1jMTRHRjFjdjVEc0ZKeVBXTWR3aFlzbUE2VHJ4NXpvQS1GRWtxZ1lUZjhIXzF2ZzlWd1BoOEo0MUpXRzZudFExR2tnMlhRUzBOOGE5M2MzZ0xLSTFSZjF6SFBkUQ?oc=5"
         }
       ]
     }
