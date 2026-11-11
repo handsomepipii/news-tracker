@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 16:36",
+  "updated_at": "2026-11-11 17:38",
   "taiwan": [
     {
       "rank": 1,
@@ -35,33 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "美籲俄烏止戰與歐洲安全架構繫結　歐洲質疑",
-      "summary": [
-        "自由時報：美籲俄烏止戰與歐洲安全架構繫結　歐洲質疑",
-        "經濟日報：美籲俄烏止戰與歐洲安全架構繫結　歐洲質疑",
-        "ETtoday：美籲俄烏止戰與歐洲安全架構繫結　歐洲憂俄懷鬼胎"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美籲俄烏止戰與歐洲安全架構繫結　歐洲質疑",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5636402"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美籲俄烏止戰與歐洲安全架構繫結　歐洲質疑",
-          "url": "https://money.udn.com/money/story/5599/9870681"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美籲俄烏止戰與歐洲安全架構繫結　歐洲憂俄懷鬼胎",
-          "url": "https://www.ettoday.net/news/20261111/3269943.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "韓公車失控「衝分隔島」連撞31車！48人輕重傷　上班尖峰嚴重車禍",
       "summary": [
         "ETtoday：韓公車失控「衝分隔島」連撞31車！48人輕重傷　上班尖峰嚴重車禍",
@@ -88,7 +61,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "黃仁勳外遇中國女間諜  邱彰曝黃樂下落",
       "summary": [
         "自由時報：黃仁勳外遇中國女間諜  邱彰曝黃樂下落",
@@ -109,7 +82,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "幫邱臣遠站臺 被質疑「何處惹塵埃」》駁張雅屏 趙少康：黨中央不要放狗咬人",
       "summary": [
         "自由時報：幫邱臣遠站臺 被質疑「何處惹塵埃」》駁張雅屏 趙少康：黨中央不要放狗咬人",
@@ -130,7 +103,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "美伊終戰前景未明　伊朗國安首長稱目前未與華府談判",
       "summary": [
         "自由時報：美伊終戰前景未明　伊朗國安首長稱目前未與華府談判",
@@ -151,7 +124,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "找無人接班、董事會太乖　黃仁勳風波暴露輝達隱憂",
       "summary": [
         "ETtoday：找無人接班、董事會太乖　黃仁勳風波暴露輝達隱憂",
@@ -172,7 +145,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "去中國出差、旅遊不能用Claude了！新規明天上路　不看國籍、人在當地就被Ban",
       "summary": [
         "ETtoday：去中國出差、旅遊不能用Claude了！新規明天上路　不看國籍、人在當地就被Ban",
@@ -189,6 +162,27 @@
           "source": "自由時報",
           "title": "去中國出差、旅遊不能用Claude！臺灣帳號也受限　注意3件事",
           "url": "https://3c.ltn.com.tw/news/68240"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "快訊／臺南安平「2漁船大火」！火舌濃煙直竄天際　驚悚畫面曝光",
+      "summary": [
+        "ETtoday：快訊／臺南安平「2漁船大火」！火舌濃煙直竄天際　驚悚畫面曝光",
+        "TVBS新聞：快訊／臺南安平火燒船！2漁船「全面燃燒」烈焰濃煙狂竄畫面曝"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／臺南安平「2漁船大火」！火舌濃煙直竄天際　驚悚畫面曝光",
+          "url": "https://www.ettoday.net/news/20261111/3269989.htm"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "快訊／臺南安平火燒船！2漁船「全面燃燒」烈焰濃煙狂竄畫面曝",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41NGtnS3FXTDNmdGFSNmZVcnRKcVQxTVJ6c19ldWFhbE95NmdwOEtYdXNhbHhPUjRKMEg2T2x0aHRJWTc1Z1dUd0p0R0RhaEk?oc=5"
         }
       ]
     },
@@ -238,19 +232,14 @@
   "global": [
     {
       "rank": 1,
-      "title": "美國高階士兵因涉嫌為俄羅斯從事間諜活動在英國被捕",
+      "title": "美國陸軍軍官因涉嫌試圖為俄羅斯竊取機密而在英國被捕",
       "summary": [
-        "Financial Times：美國高階士兵因涉嫌為俄羅斯從事間諜活動在英國被捕",
         "Washington Post：美國陸軍軍官因涉嫌試圖為俄羅斯竊取機密而在英國被捕",
-        "WSJ Markets：英國警方逮捕一名涉嫌為俄羅斯從事間諜活動的美國陸軍士兵"
+        "WSJ Markets：英國警方逮捕一名涉嫌為俄羅斯從事間諜活動的美國陸軍士兵",
+        "NHK新聞：英警察が米軍兵士逮捕「関係國はロシア」 スパイ活動の疑い"
       ],
-      "media_count": 5,
+      "media_count": 4,
       "links": [
-        {
-          "source": "Financial Times",
-          "title": "美國高階士兵因涉嫌為俄羅斯從事間諜活動在英國被捕",
-          "url": "https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1"
-        },
         {
           "source": "Washington Post",
           "title": "美國陸軍軍官因涉嫌試圖為俄羅斯竊取機密而在英國被捕",
@@ -262,71 +251,23 @@
           "url": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_markets_main"
         },
         {
-          "source": "BBC World",
-          "title": "涉嫌為俄羅斯從事間諜活動的美國陸軍士兵在英國被捕",
-          "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
+          "source": "NHK新聞",
+          "title": "英警察が米軍兵士逮捕「関係國はロシア」 スパイ活動の疑い",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261111de73900"
         },
         {
-          "source": "NHK新聞",
-          "title": "英國警方以涉嫌間諜罪逮捕美國士兵“涉及俄羅斯”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261111de73900"
+          "source": "CNBC",
+          "title": "美國士兵因涉嫌為俄羅斯從事間諜活動而被捕",
+          "url": "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "眾議院共和黨人選舉吉姆喬丹明年擔任少數黨領袖",
-      "summary": [
-        "Washington Post：眾議院共和黨人選舉吉姆喬丹明年擔任少數黨領袖",
-        "Financial Times：共和黨人選擇吉姆喬丹為眾議院少數黨領袖",
-        "CNBC：吉姆喬丹當選眾議院共和黨領袖"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "眾議院共和黨人選舉吉姆喬丹明年擔任少數黨領袖",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXRIeEYxWHlYVkJUdVFOZzc3aFdDNzZkWmMyOGhBTnFKamdyYW9xSWp3TkZ0NF94ZVdFeENyb3FWN2VXRzVycTA0cGZLVmxCSHQtaTg0VXhPVlYxeW9SbXppVzhNWkFDdkp6OE5BSG1yRnIyd0VVOXY0UnczcDU1dEt4T09kY3NRNzVMcmlpcmt4YTZtZlU5cG5IdHprZzZLc1gzYWJucmpYV3VyRnlYQlhXMjBkNUdYU2c?oc=5"
-        },
-        {
-          "source": "Financial Times",
-          "title": "共和黨人選擇吉姆喬丹為眾議院少數黨領袖",
-          "url": "https://www.ft.com/content/438a36a5-a711-4fe1-b3d8-83020197a0ed?syn-25a6b1a6=1"
-        },
-        {
-          "source": "CNBC",
-          "title": "吉姆喬丹當選眾議院共和黨領袖",
-          "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Anthropic重磅IPO目標估價達1.4百萬美元",
-      "summary": [
-        "Bloomberg Markets：Anthropic重磅IPO目標估價達1.4百萬美元",
-        "Yahoo Finance：Anthropic 將 IPO 價格區間定為 70 至 78 美元，公司估值高達 1.4 兆美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic重磅IPO目標估價達1.4百萬美元",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwb4e46h"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Anthropic 將 IPO 價格區間定為 70 至 78 美元，公司估值高達 1.4 兆美元",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPazlCUWZlSWdNODhxbW9CM2k4aFhUbmdMZVN1T1JERW52RkNoRWRfMm1zNzZleFJDM0VzYVBKNWNVUGd5d1dnM3RtWldMZmdzR1lOWktxUi1lOG9XbzQ3c0ZMQnpjNkVrZl9vSW1zRGRLd1pFNUdTdVlIY3dWUlBWTHZmV1dxSVBVWDFtNzZyanFBdDFrMlF3X0NhYw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "美國國務卿： 目前沒必要對伊朗展開大規模作戰",
       "summary": [
         "法廣RFI：美國國務卿： 目前沒必要對伊朗展開大規模作戰",
-        "NHK新聞：美國國務卿盧比歐告訴G7國家：“沒有必要對伊朗進行大規模打擊”"
+        "NHK新聞：米 ルビオ國務長官 G7各國に「イランへ大規模戦闘 必要ない」"
       ],
       "media_count": 2,
       "links": [
@@ -337,34 +278,13 @@
         },
         {
           "source": "NHK新聞",
-          "title": "美國國務卿盧比歐告訴G7國家：“沒有必要對伊朗進行大規模打擊”",
+          "title": "米 ルビオ國務長官 G7各國に「イランへ大規模戦闘 必要ない」",
           "url": "https://news.web.nhk/newsweb/na/nd-20261111de73868"
         }
       ]
     },
     {
-      "rank": 5,
-      "title": "官員稱，梅根的父親託馬斯馬克爾因涉嫌切斷腳踝監視器而被拘留",
-      "summary": [
-        "BBC World：官員稱，梅根的父親託馬斯馬克爾因涉嫌切斷腳踝監視器而被拘留",
-        "Washington Post：梅根馬克爾分居的父親因涉嫌拆除腳踝監視器而被判入獄"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "官員稱，梅根的父親託馬斯馬克爾因涉嫌切斷腳踝監視器而被拘留",
-          "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Washington Post",
-          "title": "梅根馬克爾分居的父親因涉嫌拆除腳踝監視器而被判入獄",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcjdNcmhhbmhncllDc0o2c3hfMnU3cElaSS1rOGRMQlcydG1hQnpCTnBobWRPeUwydTFUY2lOaV9xSm5IbWluTVQzV1Q0QjhIV1BQWUpGdC0tcF93c2dIeHZKNFRrNUJJNndOZUNJWC1XVlJIclVHYWg3Z3VvQjVHUmpCeEt5d1dNaTVETnFaZkpYQmxwVjluUnQxWXRkMk8wNHRIRl9KUlFWSkxQamxzd0JrZHdSbUJhZW9GU21WQnFMMlNDUXc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "title": "通膨加劇引發華爾街升息擔憂",
       "summary": [
         "WSJ Markets：通膨加劇引發華爾街升息擔憂",
@@ -385,86 +305,131 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "OpenAI 第三季營收飆升近 50% 至 100 億美元",
+      "rank": 4,
+      "title": "Anthropic Lodges Australian Prospectus, Opening IPO to Retail",
       "summary": [
-        "Bloomberg Tech：OpenAI 第三季營收飆升近 50% 至 100 億美元",
-        "Investing.com：根據彭博社報道，OpenAI 季度銷售額飆升近 50%，達到 100 億美元"
+        "Bloomberg Markets：Anthropic Lodges Australian Prospectus, Opening IPO to Retail",
+        "CNBC：Anthropic opens Australian retail IPO offering as AI scrutiny intensifies"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "OpenAI 第三季營收飆升近 50% 至 100 億美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-10/openai-third-quarter-revenue-soars-nearly-50-to-10-billion"
+          "source": "Bloomberg Markets",
+          "title": "Anthropic Lodges Australian Prospectus, Opening IPO to Retail",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-lodges-australian-prospectus-opening-ipo-to-retail"
         },
         {
-          "source": "Investing.com",
-          "title": "根據彭博社報道，OpenAI 季度銷售額飆升近 50%，達到 100 億美元",
-          "url": "https://www.investing.com/news/stock-market-news/openai-quarterly-sales-surge-nearly-50-to-10-billion-bloomberg-reports-5017246"
+          "source": "CNBC",
+          "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
+          "url": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html"
         }
       ]
     },
     {
-      "rank": 8,
-      "title": "為什麼英偉達涉嫌的中國間諜醜聞會讓市場和政府感到困惑",
+      "rank": 5,
+      "title": "Why Nvidia's alleged Chinese spy scandal is going to confuse markets — and the government",
       "summary": [
-        "Yahoo Finance：為什麼英偉達涉嫌的中國間諜醜聞會讓市場和政府感到困惑",
-        "Washington Post：英偉達執行長與涉嫌中國間諜的戀情可能會為經濟帶來問題"
+        "Yahoo Finance：Why Nvidia's alleged Chinese spy scandal is going to confuse markets — and the government",
+        "Washington Post：Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "為什麼英偉達涉嫌的中國間諜醜聞會讓市場和政府感到困惑",
+          "title": "Why Nvidia's alleged Chinese spy scandal is going to confuse markets — and the government",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTTNZR29vcDdULXNfV21GaW9DOHA5T1pJNXJNRElCNHZIajNoc1BrVHBtMVNCbDRrRWY4UjdyVkFJdGRuVXJUT1VMc0pLaTRqT3VoOU1wWW8yTE4xRnl0YXozSlFIcXJ0LU1xNUxWTTJTMVl1Ykw1dm5CaVVubjZTZnd3dW5aM2xzdVI3ei1vNjVrNHlpcjRDc05hMjZ2Z24tTVlWSGJza0V2Yl9kaDN6WG5mbWFqSWxPNHNEX2FEdlR6QVJ4ZkNSaHVjNlVpMnBGbllPREY4ZVdLemZKOXNOdA?oc=5"
         },
         {
           "source": "Washington Post",
-          "title": "英偉達執行長與涉嫌中國間諜的戀情可能會為經濟帶來問題",
+          "title": "Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3lyMzJwdnl2WkRzbnM2UjAwT3ZSTUZDQTgzbzBiNnJnZWVaRXloREtmSl85dGhjRUZnd2lvUlpkWTFja3BoMHZwbDJIZXl0MWdkdnpwRGlwUHpkMUZ1Vzd4NnpKMWdrN29yczBZa19MSk41Y1lFZTJIT2NfSlVtQTUtMmROZFFqRm9BcFN3QVdpbEtWN29qM3hPOUVUTWI5QkdBQUdRSEhsZnM2NlJjRVZn?oc=5"
         }
       ]
     },
     {
-      "rank": 9,
-      "title": "美國稱，三名伊朗支援的嫌疑人策劃了包括英國皇家空軍費爾福德事件在內的攻擊",
+      "rank": 6,
+      "title": "Kennedy family sues to stop Trump’s arch, citing shadow on JFK’s grave",
       "summary": [
-        "BBC World：美國稱，三名伊朗支援的嫌疑人策劃了包括英國皇家空軍費爾福德事件在內的攻擊",
-        "BBC中文：英國美軍在用基地反恐案件：華府稱三伊朗關聯者策劃"
+        "Washington Post：Kennedy family sues to stop Trump’s arch, citing shadow on JFK’s grave",
+        "BBC World：Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "BBC World",
-          "title": "美國稱，三名伊朗支援的嫌疑人策劃了包括英國皇家空軍費爾福德事件在內的攻擊",
-          "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+          "source": "Washington Post",
+          "title": "Kennedy family sues to stop Trump’s arch, citing shadow on JFK’s grave",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObzVCd0d6RlIwWkUzOHhvZDZ5SnN3bXlfbXJ1NXBwWUVsQjZVa05zZkEyYnRkSGdjQ1lZd3hNRWM1MV9hZXVnZWltMkQxeHJRaXp0eTZIQ29jRHBqclFacnBadXpXam9NWjVIT3p3MklTdjNNQUlaQmJKbURmaGhJNmNYaFZ0cWhBa0YwamZtd3I3Z2pmQVBCdUJZeXRyM1dLNTBmdy1wc2tDYVlBdGxQNnBR?oc=5"
         },
         {
-          "source": "BBC中文",
-          "title": "英國美軍在用基地反恐案件：華府稱三伊朗關聯者策劃",
-          "url": "https://www.bbc.com/zhongwen/articles/cmx20xpn40zyo/trad?at_medium=RSS&at_campaign=rss"
+          "source": "BBC World",
+          "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "隨著獲利吸收科技波動，歐洲股市接近歷史新高",
+      "summary": [
+        "Investing.com：隨著獲利吸收科技波動，歐洲股市接近歷史新高",
+        "Bloomberg Markets：歐洲股市因礦業股和科技股上漲而創歷史新高"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "隨著獲利吸收科技波動，歐洲股市接近歷史新高",
+          "url": "https://www.investing.com/news/stock-market-news/european-shares-near-record-high-as-earnings-absorb-tech-volatility-5017971"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "歐洲股市因礦業股和科技股上漲而創歷史新高",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/european-stocks-set-for-record-as-miners-and-tech-rally"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "快訊：韓10月同比新增就業13.9萬人",
+      "summary": [
+        "韓聯社：快訊：韓10月同比新增就業13.9萬人"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "快訊：韓10月同比新增就業13.9萬人",
+          "url": "https://cn.yna.co.kr/view/ACK20261111000100881"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "順從的董事會：黃仁勛危機考驗英偉達公司治理- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：順從的董事會：黃仁勛危機考驗英偉達公司治理- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "順從的董事會：黃仁勛危機考驗英偉達公司治理- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3ZEeTBwV2ZzQTNjWWhLdC1VekN1VE0yczhlZ3k0NkdyQWtuQUpjSE5EQmNDUFZMeTdVY05MQTNpNkRhM0hBRG5TaFZhZXR1WUZOaHMzRXZoRnI1ZnphSDZvQUpGRUdKYktvMlU0N2JaZ05GYzdtM2lWQ3pqVDVtMmNNVQ?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "華為的中國汽車聯盟因交車量下滑而緊張",
+      "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
       "summary": [
-        "Nikkei Asia：華為的中國汽車聯盟因交車量下滑而緊張",
-        "Bloomberg Markets：由於中國競爭更加激烈，日產汽車下調了汽車銷售預測"
+        "Financial Times：Anthropic bankers prepare to increase IPO valuation to $1.5tn or more"
       ],
-      "media_count": 2,
+      "media_count": 1,
       "links": [
         {
-          "source": "Nikkei Asia",
-          "title": "華為的中國汽車聯盟因交車量下滑而緊張",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEcxbVV0Y0pNbkhvUTNOQWdtcjdQRTVocnRMT2lFM2dRbjMySUlGWTdDYUpPdjc4eE1OWGR0cEs3UFlXUDNwTW1sUlhPX3ViTU5LT0pMSTVBOWgzb1R3ZkNsNnl3UlpfeEM4alhFUzF4d3daWnRibFIxd1UyOVZnTWM4alFwZm5UVk1WMk41Ulo0NzVPYzF5QlVCaWdyMDNkWWd2M1RR?oc=5"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "由於中國競爭更加激烈，日產汽車下調了汽車銷售預測",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-11/nissan-pares-car-sales-forecast-on-tougher-china-competition"
+          "source": "Financial Times",
+          "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+          "url": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1"
         }
       ]
     }
