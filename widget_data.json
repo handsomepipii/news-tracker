@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 19:58",
+  "updated_at": "2026-11-11 21:05",
   "taiwan": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
         "ETtoday：獨／粉絲走多快都精算！陳其邁曝演唱會經濟秘密武器：獨門Data不外流",
         "工商時報：世芯、聯發科營運各傳捷報- 日報"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
           "source": "自由時報",
@@ -30,6 +30,11 @@
           "source": "中時新聞",
           "title": "板橋埔墘4-7區區段徵收案11／11起公告",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWV0pmakd5b2xjQ2N5aVBRRDFrVzhualJCMTVPYk1DNWxyN1RtQzJBeHIzdFM2Qy1jUTZpNzhFeThONWsxNVYxQVZQdW03Si11VkduNElidWxfQTBidkZB?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳外遇風波　外媒：臺灣晶片業盛況仍會持續",
+          "url": "https://money.udn.com/money/story/5599/9872601"
         }
       ]
     },
@@ -62,27 +67,54 @@
     },
     {
       "rank": 3,
-      "title": "黃仁勳外遇中國女間諜  邱彰曝黃樂下落",
+      "title": "黃仁勳外遇恐遭勒索　美共和黨資深議員籲下臺",
       "summary": [
-        "自由時報：黃仁勳外遇中國女間諜  邱彰曝黃樂下落",
-        "經濟日報：黃仁勳婚外情物件涉中國間諜！紐時梳理從商史 從上海金融圈打入輝達"
+        "經濟日報：黃仁勳外遇恐遭勒索　美共和黨資深議員籲下臺",
+        "科技新報：黃仁勳外遇恐遭勒索，美共和黨資深議員籲下臺",
+        "ETtoday：黃仁勳婚外情恐遭勒索　美共和黨議員籲下臺：他必須走人"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "自由時報",
-          "title": "黃仁勳外遇中國女間諜  邱彰曝黃樂下落",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5636432"
+          "source": "經濟日報",
+          "title": "黃仁勳外遇恐遭勒索　美共和黨資深議員籲下臺",
+          "url": "https://money.udn.com/money/story/5599/9871765"
         },
         {
-          "source": "經濟日報",
-          "title": "黃仁勳婚外情物件涉中國間諜！紐時梳理從商史 從上海金融圈打入輝達",
-          "url": "https://money.udn.com/money/story/5599/9871142"
+          "source": "科技新報",
+          "title": "黃仁勳外遇恐遭勒索，美共和黨資深議員籲下臺",
+          "url": "https://technews.tw/2026/11/11/kevin-cramer-calls-for-jensen-huang-to-resign/"
+        },
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳婚外情恐遭勒索　美共和黨議員籲下臺：他必須走人",
+          "url": "https://www.ettoday.net/news/20261111/3270504.htm"
         }
       ]
     },
     {
       "rank": 4,
+      "title": "美國陸軍高階人員於英國被捕　涉嫌為俄從事間諜活動",
+      "summary": [
+        "經濟日報：美國陸軍高階人員於英國被捕　涉嫌為俄從事間諜活動",
+        "公視新聞：英國逮捕美軍駐北約部隊軍官 指控涉嫌向俄提供敏感資訊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美國陸軍高階人員於英國被捕　涉嫌為俄從事間諜活動",
+          "url": "https://money.udn.com/money/story/5599/9870809"
+        },
+        {
+          "source": "公視新聞",
+          "title": "英國逮捕美軍駐北約部隊軍官 指控涉嫌向俄提供敏感資訊",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Fb1RfdXZUbk9HSFdEZTQ4WGY4eHk3djNlUFA5SVBMeWFRUVZ6OV9Za3F3T09kdEFKMjlZSDJKX2J5ZzBBc0tSTGQwOTE1b2c?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "去中國出差、旅遊不能用Claude了！新規明天上路　不看國籍、人在當地就被Ban",
       "summary": [
         "ETtoday：去中國出差、旅遊不能用Claude了！新規明天上路　不看國籍、人在當地就被Ban",
@@ -103,7 +135,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "快訊／臺南安平「2漁船大火」！火舌濃煙直竄天際　驚悚畫面曝光",
       "summary": [
         "ETtoday：快訊／臺南安平「2漁船大火」！火舌濃煙直竄天際　驚悚畫面曝光",
@@ -124,7 +156,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "美媒：黃仁勳婚外情關係，助 75 億美元輝達晶片銷往中國",
       "summary": [
         "科技新報：美媒：黃仁勳婚外情關係，助 75 億美元輝達晶片銷往中國",
@@ -145,7 +177,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "需求看增  三井金屬蓋新廠、增產 AI DC 用銅箔",
       "summary": [
         "科技新報：需求看增  三井金屬蓋新廠、增產 AI DC 用銅箔",
@@ -166,11 +198,11 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "迪士尼擴大與Adobe的AI合作，從樂園設計延伸至電影與體育內容",
       "summary": [
         "iThome：迪士尼擴大與Adobe的AI合作，從樂園設計延伸至電影與體育內容",
-        "INSIDE硬塞：迪士尼與Adobe簽下多年合約，與ESPN共同開發迪士尼專屬生成式AI模型，主題樂園、影視"
+        "INSIDE硬塞：Disney 與 Adobe 簽多年合約，共同開發 Disney 專屬生成式 AI 模型，涵蓋樂園、影視與 ESPN"
       ],
       "media_count": 2,
       "links": [
@@ -181,13 +213,13 @@
         },
         {
           "source": "INSIDE硬塞",
-          "title": "迪士尼與Adobe簽下多年合約，與ESPN共同開發迪士尼專屬生成式AI模型，主題樂園、影視",
+          "title": "Disney 與 Adobe 簽多年合約，共同開發 Disney 專屬生成式 AI 模型，涵蓋樂園、影視與 ESPN",
           "url": "https://www.inside.com.tw/article/42867-disney-adobe-firefly-foundry-custom-generative-ai-models-multi-year"
         }
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "黃仁勳照常上班！晨會為婚外情道歉 員工揭公司內部氣氛",
       "summary": [
         "經濟日報：黃仁勳照常上班！晨會為婚外情道歉 員工揭公司內部氣氛",
@@ -206,48 +238,42 @@
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWxmWnVENGs2WXpKV0dfQUN5SWFIekhDSWQxV3otQnE2U09Na1Z4RnlsZVBjNUl2a2laamtqNV9PSTVRNTNwNVNYVk1tLW9jaXp4OFF1aTg2YnZnejdRNUZ4bDJqX3Eyeko3OTdDTXpKMVJSU2hFSVJaMzdGbjQ5Qm5SWkpaT05GVDRlZUZVTQ?oc=5"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "美國陸軍高階人員於英國被捕　涉嫌為俄從事間諜活動",
-      "summary": [
-        "經濟日報：美國陸軍高階人員於英國被捕　涉嫌為俄從事間諜活動",
-        "公視新聞：英國逮捕美軍駐北約部隊軍官 指控涉嫌向俄提供敏感資訊"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美國陸軍高階人員於英國被捕　涉嫌為俄從事間諜活動",
-          "url": "https://money.udn.com/money/story/5599/9870809"
-        },
-        {
-          "source": "公視新聞",
-          "title": "英國逮捕美軍駐北約部隊軍官 指控涉嫌向俄提供敏感資訊",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Fb1RfdXZUbk9HSFdEZTQ4WGY4eHk3djNlUFA5SVBMeWFRUVZ6OV9Za3F3T09kdEFKMjlZSDJKX2J5ZzBBc0tSTGQwOTE1b2c?oc=5"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "涉嫌為俄羅斯從事間諜活動的美國陸軍士兵在英國被捕",
+      "title": "Kennedy family sues to stop Trump’s arch, citing shadow on JFK’s grave",
       "summary": [
-        "BBC World：涉嫌為俄羅斯從事間諜活動的美國陸軍士兵在英國被捕",
-        "NHK新聞：英國警方以涉嫌間諜罪逮捕美國士兵“涉及俄羅斯”",
-        "CNBC：美國士兵因涉嫌為俄羅斯從事間諜活動而被捕"
+        "Washington Post：Kennedy family sues to stop Trump’s arch, citing shadow on JFK’s grave",
+        "BBC World：Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave"
       ],
-      "media_count": 3,
+      "media_count": 2,
       "links": [
         {
-          "source": "BBC World",
-          "title": "涉嫌為俄羅斯從事間諜活動的美國陸軍士兵在英國被捕",
-          "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
+          "source": "Washington Post",
+          "title": "Kennedy family sues to stop Trump’s arch, citing shadow on JFK’s grave",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObzVCd0d6RlIwWkUzOHhvZDZ5SnN3bXlfbXJ1NXBwWUVsQjZVa05zZkEyYnRkSGdjQ1lZd3hNRWM1MV9hZXVnZWltMkQxeHJRaXp0eTZIQ29jRHBqclFacnBadXpXam9NWjVIT3p3MklTdjNNQUlaQmJKbURmaGhJNmNYaFZ0cWhBa0YwamZtd3I3Z2pmQVBCdUJZeXRyM1dLNTBmdy1wc2tDYVlBdGxQNnBR?oc=5"
         },
         {
+          "source": "BBC World",
+          "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "英警察が米軍兵士逮捕「関係國はロシア」 スパイ活動の疑い",
+      "summary": [
+        "NHK新聞：英警察が米軍兵士逮捕「関係國はロシア」 スパイ活動の疑い",
+        "CNBC：美國士兵因涉嫌為俄羅斯從事間諜活動而被捕"
+      ],
+      "media_count": 2,
+      "links": [
+        {
           "source": "NHK新聞",
-          "title": "英國警方以涉嫌間諜罪逮捕美國士兵“涉及俄羅斯”",
+          "title": "英警察が米軍兵士逮捕「関係國はロシア」 スパイ活動の疑い",
           "url": "https://news.web.nhk/newsweb/na/nd-20261111de73900"
         },
         {
@@ -258,133 +284,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "美國稱，三名伊朗支援的嫌疑人策劃了包括英國皇家空軍費爾福德事件在內的攻擊",
-      "summary": [
-        "BBC World：美國稱，三名伊朗支援的嫌疑人策劃了包括英國皇家空軍費爾福德事件在內的攻擊",
-        "BBC中文：英國美軍在用基地反恐案件：華府稱三伊朗關聯者策劃"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "美國稱，三名伊朗支援的嫌疑人策劃了包括英國皇家空軍費爾福德事件在內的攻擊",
-          "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC中文",
-          "title": "英國美軍在用基地反恐案件：華府稱三伊朗關聯者策劃",
-          "url": "https://www.bbc.com/zhongwen/articles/cmx20xpn40zyo/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
       "rank": 3,
-      "title": "意見 |英偉達間諜醜聞隱藏在眾目睽睽之下",
-      "summary": [
-        "Washington Post：意見 |英偉達間諜醜聞隱藏在眾目睽睽之下",
-        "德國之聲：長平觀察：黃仁勳的間諜疑雲，不只是桃色新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "意見 |英偉達間諜醜聞隱藏在眾目睽睽之下",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkdielp1Z184RmpXa3daSjlEVlBGMTVwTGpTanpIYmhpWU5rdWZrS1I1cGRQUks0RjZaUks2bVFERmpCQmItWHA0Rllta085QTd4eUZFbTlSS3d5WVdSVmVwT3dpYUI0VTJfTDgtN0Vlamw2dWNsTy1KQy1FdXQ5dWd6ZnEyTGJ6aERBcFB5RmZ3TUw2RFRJczhMNjVvSDZRUXBTckZRZ2dIV2twNG5TLVF3?oc=5"
-        },
-        {
-          "source": "德國之聲",
-          "title": "長平觀察：黃仁勳的間諜疑雲，不只是桃色新聞",
-          "url": "https://www.dw.com/zh/长平观察：黄仁勋的间谍疑云，不只是桃色新闻/a-79896037?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "甘迺迪家族以甘迺迪墳墓上的陰影為由提起訴訟，要求阻止川普的拱門",
-      "summary": [
-        "Washington Post：甘迺迪家族以甘迺迪墳墓上的陰影為由提起訴訟，要求阻止川普的拱門",
-        "BBC World：甘迺迪家族起訴封鎖川普的拱門，稱這會為甘迺迪的墳墓投下陰影"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "甘迺迪家族以甘迺迪墳墓上的陰影為由提起訴訟，要求阻止川普的拱門",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObzVCd0d6RlIwWkUzOHhvZDZ5SnN3bXlfbXJ1NXBwWUVsQjZVa05zZkEyYnRkSGdjQ1lZd3hNRWM1MV9hZXVnZWltMkQxeHJRaXp0eTZIQ29jRHBqclFacnBadXpXam9NWjVIT3p3MklTdjNNQUlaQmJKbURmaGhJNmNYaFZ0cWhBa0YwamZtd3I3Z2pmQVBCdUJZeXRyM1dLNTBmdy1wc2tDYVlBdGxQNnBR?oc=5"
-        },
-        {
-          "source": "BBC World",
-          "title": "甘迺迪家族起訴封鎖川普的拱門，稱這會為甘迺迪的墳墓投下陰影",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "軟銀集團虧損 70 億美元，股價下跌 11%",
-      "summary": [
-        "Bloomberg Markets：軟銀集團虧損 70 億美元，股價下跌 11%",
-        "Investing.com：軟銀季虧損 70 億美元，股價暴跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "軟銀集團虧損 70 億美元，股價下跌 11%",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-11/softbank-group-shares-drop-10-after-booking-7-billion-loss"
-        },
-        {
-          "source": "Investing.com",
-          "title": "軟銀季虧損 70 億美元，股價暴跌",
-          "url": "https://www.investing.com/news/stock-market-news/softbank-shares-tumble-after-7-bln-quarterly-loss-5017452"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "豐厚的報酬率吸引日本儲戶購買政府公債",
-      "summary": [
-        "Financial Times：豐厚的報酬率吸引日本儲戶購買政府公債",
-        "Bloomberg Markets：日本公債殖利率飆升，追隨國債拋售"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "豐厚的報酬率吸引日本儲戶購買政府公債",
-          "url": "https://www.ft.com/content/d17e5179-59e2-4b8e-9a65-e985b99645df?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "日本公債殖利率飆升，追隨國債拋售",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-11/japan-government-bond-yields-jump-tracking-treasury-selloff"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "塞爾比表示，人為 IPO 禁售有引發人工智慧修正的風險",
-      "summary": [
-        "Bloomberg Tech：塞爾比表示，人為 IPO 禁售有引發人工智慧修正的風險",
-        "Bloomberg Markets：對人工智慧的質疑與 Anthropic 的大型 IPO 相衝突"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "塞爾比表示，人為 IPO 禁售有引發人工智慧修正的風險",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "對人工智慧的質疑與 Anthropic 的大型 IPO 相衝突",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-11/ai-doubts-collide-with-anthropic-s-mega-ipo"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "隨著獲利吸收科技波動，歐洲股市接近歷史新高",
       "summary": [
         "Investing.com：隨著獲利吸收科技波動，歐洲股市接近歷史新高",
@@ -405,7 +305,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 4,
       "title": "義大利、蘇格蘭和愛爾蘭數百所學校收到炸彈威脅",
       "summary": [
         "Financial Times：義大利、蘇格蘭和愛爾蘭數百所學校收到炸彈威脅",
@@ -426,17 +326,92 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "獨家訊息人士稱，野村正在考慮重建香港股權資本市場業務",
+      "rank": 5,
+      "title": "順從的董事會：黃仁勛危機考驗英偉達公司治理- 紐約時報中文網",
       "summary": [
-        "Investing.com：獨家訊息人士稱，野村正在考慮重建香港股權資本市場業務"
+        "紐約時報中文：順從的董事會：黃仁勛危機考驗英偉達公司治理- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "順從的董事會：黃仁勛危機考驗英偉達公司治理- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3ZEeTBwV2ZzQTNjWWhLdC1VekN1VE0yczhlZ3k0NkdyQWtuQUpjSE5EQmNDUFZMeTdVY05MQTNpNkRhM0hBRG5TaFZhZXR1WUZOaHMzRXZoRnI1ZnphSDZvQUpGRUdKYktvMlU0N2JaZ05GYzdtM2lWQ3pqVDVtMmNNVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+      "summary": [
+        "Financial Times：Anthropic bankers prepare to increase IPO valuation to $1.5tn or more"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+          "url": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "川普訪華前曾被告知黃仁勛與疑似中國間諜有親密關係- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：川普訪華前曾被告知黃仁勛與疑似中國間諜有親密關係- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "川普訪華前曾被告知黃仁勛與疑似中國間諜有親密關係- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53Ymt6UVo4SWQwYy0wckY2NWRWWTJnVWJuNExLdTc5Zm5CZWh4UW15dHB0QmFBRWVZV1Fjc1NmQ0VxNmJ6bXJidjBQeHN1OGYtRFEyWkoyMGFJbUVuOGJyLVhmaXlnX0NVNnY3aGpkNGVraWNEaUxB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "黃仁勛事件中的「女主角」黃樂是誰？",
+      "summary": [
+        "紐約時報中文：黃仁勛事件中的「女主角」黃樂是誰？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "黃仁勛事件中的「女主角」黃樂是誰？",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORVppbkJ4cG90RVd6cnl2SVFqUndmYXNhZ3dFUWlJRDZCdXVBazVZN2xPMkJjREpMZGwzd2FxZUIzZmlLTW5zOEpOMHJVZTFJRlVNeU1yVmdZQTZOWnhmTHlhZ19XVzN6SFVkR3NrR01kWjhwOTlyTUJvSWlfWTFhNDB5TzJNZUdFYktBYVRhM3ByejhiZFE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "AZ-VC's Selby on Why Anthropic's IPO Puzzles Him",
+      "summary": [
+        "Bloomberg Markets：AZ-VC's Selby on Why Anthropic's IPO Puzzles Him"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "AZ-VC's Selby on Why Anthropic's IPO Puzzles Him",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-11/az-vc-s-selby-on-why-anthropic-s-ipo-puzzles-him-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Why is Suzuki Motor stock sliding today?",
+      "summary": [
+        "Investing.com：Why is Suzuki Motor stock sliding today?"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Investing.com",
-          "title": "獨家訊息人士稱，野村正在考慮重建香港股權資本市場業務",
-          "url": "https://www.investing.com/news/stock-market-news/exclusivenomura-weighs-rebuilding-its-hong-kong-equity-capital-markets-business-sources-say-5017721"
+          "title": "Why is Suzuki Motor stock sliding today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-suzuki-motor-stock-sliding-today-93CH-5017650"
         }
       ]
     }
