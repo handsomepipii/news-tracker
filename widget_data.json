@@ -1,82 +1,8 @@
 {
-  "updated_at": "2026-11-12 07:36",
+  "updated_at": "2026-11-12 08:25",
   "taiwan": [
     {
       "rank": 1,
-      "title": "黃仁勳外遇風波　外媒：臺灣晶片業盛況仍會持續",
-      "summary": [
-        "經濟日報：黃仁勳外遇風波　外媒：臺灣晶片業盛況仍會持續",
-        "TVBS新聞：蹭流量!陸山寨黃仁勳找粉衣女同框美媒:本人照常上班｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-        "自由時報：遠勝黃仁勳小三！中國正妹人大代表火辣私照瘋傳「還穿情趣服」"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳外遇風波　外媒：臺灣晶片業盛況仍會持續",
-          "url": "https://money.udn.com/money/story/5599/9872601"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "蹭流量!陸山寨黃仁勳找粉衣女同框美媒:本人照常上班｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0Y3F6ZThTeHpZWWZXYXhZU3AwR29hUkUzMUJLcmRhR05vdkZ2U3VScmNhTHkydHdDUXdSNmdRQ2xqRXBreDhNZ0hLLXhlYXh5eDNIbkhn?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "遠勝黃仁勳小三！中國正妹人大代表火辣私照瘋傳「還穿情趣服」",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5637597"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／李四川競辦開告李正皓抹黑　批：蘇巧慧慣用的奧步來了",
-          "url": "https://www.ettoday.net/news/20261111/3270563.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "遠百竹北店火警！1樓電氣室失火冒濃煙 上百人疏散、今晚暫停營業",
-      "summary": [
-        "自由時報：遠百竹北店火警！1樓電氣室失火冒濃煙 上百人疏散、今晚暫停營業",
-        "ETtoday：竹北遠百驚傳火警！1樓機房冒濃煙「警報狂響」　千人緊急疏散"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "遠百竹北店火警！1樓電氣室失火冒濃煙 上百人疏散、今晚暫停營業",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5637521"
-        },
-        {
-          "source": "ETtoday",
-          "title": "竹北遠百驚傳火警！1樓機房冒濃煙「警報狂響」　千人緊急疏散",
-          "url": "https://www.ettoday.net/news/20261111/3270510.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "轟蔡英文沒生小孩！羅大佑昔「耽誤前妻生育」被全網嗆︰雙標噁男",
-      "summary": [
-        "自由時報：轟蔡英文沒生小孩！羅大佑昔「耽誤前妻生育」被全網嗆︰雙標噁男",
-        "ETtoday：羅大佑抨擊蔡英文沒生小孩　蔣萬安不認同：不應以婚育作為判斷標準"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "轟蔡英文沒生小孩！羅大佑昔「耽誤前妻生育」被全網嗆︰雙標噁男",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5637327"
-        },
-        {
-          "source": "ETtoday",
-          "title": "羅大佑抨擊蔡英文沒生小孩　蔣萬安不認同：不應以婚育作為判斷標準",
-          "url": "https://www.ettoday.net/news/20261111/3270507.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "天氣/明把握陽光洗曬｢準備換季｣ 週六全臺雨下週三｢凍一波｣｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：天氣/明把握陽光洗曬｢準備換季｣ 週六全臺雨下週三｢凍一波｣｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -97,7 +23,28 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 2,
+      "title": "黃仁勳外遇風波　外媒：臺灣晶片業盛況仍會持續",
+      "summary": [
+        "經濟日報：黃仁勳外遇風波　外媒：臺灣晶片業盛況仍會持續",
+        "ETtoday：快訊／李四川競辦開告李正皓抹黑　批：蘇巧慧慣用的奧步來了"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳外遇風波　外媒：臺灣晶片業盛況仍會持續",
+          "url": "https://money.udn.com/money/story/5599/9872601"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／李四川競辦開告李正皓抹黑　批：蘇巧慧慣用的奧步來了",
+          "url": "https://www.ettoday.net/news/20261111/3270563.htm"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "南亞增加投資臺灣必成，計8億元",
       "summary": [
         "公開資訊觀測站重訊：南亞增加投資臺灣必成，計8億元",
@@ -118,7 +65,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "義大利300間學校收炸彈恐嚇信　大葉大學校友帳號疑遭盜用",
       "summary": [
         "經濟日報：義大利300間學校收炸彈恐嚇信　大葉大學校友帳號疑遭盜用",
@@ -139,7 +86,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "點出羅大佑三大嚴重失焦 矢板明夫想請教蔣萬安：哪句振聾發聵？",
       "summary": [
         "自由時報：點出羅大佑三大嚴重失焦 矢板明夫想請教蔣萬安：哪句振聾發聵？",
@@ -160,7 +107,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "羅大佑怒吼「外省人被欺負慘了」 趙少康爆破：他其實是本省人",
       "summary": [
         "自由時報：羅大佑怒吼「外省人被欺負慘了」 趙少康爆破：他其實是本省人",
@@ -181,7 +128,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Baird調降輝達股票評等至「中立」　目標價大砍60%",
       "summary": [
         "自由時報：Baird調降輝達股票評等至「中立」　目標價大砍60%",
@@ -202,7 +149,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "AI樂觀情緒重燃　歐股收紅",
       "summary": [
         "自由時報：AI樂觀情緒重燃　歐股收紅",
@@ -219,6 +166,48 @@
           "source": "經濟日報",
           "title": "AI樂觀情緒重燃　歐股收紅",
           "url": "https://money.udn.com/money/story/5599/9873099"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "CoreWeave財報緩解AI疑慮　美股收高輝達止穩",
+      "summary": [
+        "自由時報：CoreWeave財報緩解AI疑慮　美股收高輝達止穩",
+        "經濟日報：CoreWeave財報緩解AI疑慮　美股收高輝達止穩"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "CoreWeave財報緩解AI疑慮　美股收高輝達止穩",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5637724"
+        },
+        {
+          "source": "經濟日報",
+          "title": "CoreWeave財報緩解AI疑慮　美股收高輝達止穩",
+          "url": "https://money.udn.com/money/story/123398/9873151"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "賈永婕坦言「罵的就是羅大佑」 遭逼道歉回7字態度堅定",
+      "summary": [
+        "自由時報：賈永婕坦言「罵的就是羅大佑」 遭逼道歉回7字態度堅定",
+        "中時新聞：賈永婕遭網友喊話「應向羅大佑道歉」 她霸氣回嗆7字"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "賈永婕坦言「罵的就是羅大佑」 遭逼道歉回7字態度堅定",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5637690"
+        },
+        {
+          "source": "中時新聞",
+          "title": "賈永婕遭網友喊話「應向羅大佑道歉」 她霸氣回嗆7字",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mMHRZdVdHTnRka0Y1cXV2S281OFlDM0tpV2EyR3VlclNRVnBDNWU4eU9fZ1dlMTB6MTcwOGdfSmp6WXFjNXRoV2pTTmQ4dlZON080RXhYZVF0S2NER2swdU5tRFRqdUxiWVgxd3h3?oc=5"
         }
       ]
     }
@@ -253,6 +242,33 @@
     },
     {
       "rank": 2,
+      "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+      "summary": [
+        "BBC World：Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+        "Financial Times：Scott Colom wins historic Senate race in Mississippi",
+        "CNBC：Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Financial Times",
+          "title": "Scott Colom wins historic Senate race in Mississippi",
+          "url": "https://www.ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1"
+        },
+        {
+          "source": "CNBC",
+          "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+          "url": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "CoreWeave 獲利推動人工智慧貿易，英偉達股價反彈，晶片股飆漲",
       "summary": [
         "Yahoo Finance：CoreWeave 獲利推動人工智慧貿易，英偉達股價反彈，晶片股飆漲",
@@ -273,7 +289,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed",
       "summary": [
         "Bloomberg Markets：Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed",
@@ -294,70 +310,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "義大利、蘇格蘭和愛爾蘭數百所學校收到炸彈威脅",
-      "summary": [
-        "Financial Times：義大利、蘇格蘭和愛爾蘭數百所學校收到炸彈威脅",
-        "CNBC：義大利和英國數百所學校因「惡作劇」炸彈威脅而疏散"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "義大利、蘇格蘭和愛爾蘭數百所學校收到炸彈威脅",
-          "url": "https://www.ft.com/content/7bbc0a5e-b7e2-4a3f-874f-a63de94e922d?syn-25a6b1a6=1"
-        },
-        {
-          "source": "CNBC",
-          "title": "義大利和英國數百所學校因「惡作劇」炸彈威脅而疏散",
-          "url": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "美國科技股可望延續反彈",
-      "summary": [
-        "Financial Times：美國科技股可望延續反彈",
-        "FT中文網：美國科技股有望延續反彈趨勢"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "美國科技股可望延續反彈",
-          "url": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1"
-        },
-        {
-          "source": "FT中文網",
-          "title": "美國科技股有望延續反彈趨勢",
-          "url": "https://www.ftchinese.com/story/001111345"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "西班牙遭遇14年來首次大罷工",
-      "summary": [
-        "Financial Times：西班牙遭遇14年來首次大罷工",
-        "BBC World：西班牙14年來首次大罷工造成廣泛破壞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "西班牙遭遇14年來首次大罷工",
-          "url": "https://www.ft.com/content/d93d41fc-943c-449b-948c-57a4464f564f?syn-25a6b1a6=1"
-        },
-        {
-          "source": "BBC World",
-          "title": "西班牙14年來首次大罷工造成廣泛破壞",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "臺灣九合一大選｜基隆不僅藍綠戰況極度膠著，更是中央與地方的政治角力舞臺",
       "summary": [
         "法廣RFI：臺灣九合一大選｜基隆不僅藍綠戰況極度膠著，更是中央與地方的政治角力舞臺",
@@ -378,7 +331,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "德國聯邦國防軍因間諜風險禁用中國無人機和汽車",
       "summary": [
         "德國之聲：德國聯邦國防軍因間諜風險禁用中國無人機和汽車",
@@ -399,7 +352,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Meta 基礎設施、工程主管將於 2027 年離職",
       "summary": [
         "Bloomberg Tech：Meta 基礎設施、工程主管將於 2027 年離職",
@@ -420,7 +373,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "您已經可以購買的最佳黑色星期五早期優惠",
       "summary": [
         "The Verge：您已經可以購買的最佳黑色星期五早期優惠",
@@ -437,6 +390,48 @@
           "source": "Wired",
           "title": "22 個最佳早期黑色星期五優惠：我們的終極精選 (2026)",
           "url": "https://www.wired.com/story/best-black-friday-deals-11-11-2026/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Applied Intuition 正在洽談融資 15 億美元，估值 300 億美元",
+      "summary": [
+        "Bloomberg Tech：Applied Intuition 正在洽談融資 15 億美元，估值 300 億美元",
+        "Investing.com：根據彭博社報道，Applied Intuition 正在洽談以 30B 美元估值籌集 1.5B 美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Applied Intuition 正在洽談融資 15 億美元，估值 300 億美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/applied-intuition-in-talks-to-raise-1-5-billion-at-30-billion-value"
+        },
+        {
+          "source": "Investing.com",
+          "title": "根據彭博社報道，Applied Intuition 正在洽談以 30B 美元估值籌集 1.5B 美元",
+          "url": "https://www.investing.com/news/stock-market-news/applied-intuition-in-talks-to-raise-15b-at-30b-valuation-bloomberg-reports-5019616"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Polymarket Cuts Workforce After Stumbles Prompt Reorganization",
+      "summary": [
+        "Bloomberg Markets：Polymarket Cuts Workforce After Stumbles Prompt Reorganization",
+        "Investing.com：Polymarket cuts staff as part of company restructuring"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Polymarket Cuts Workforce After Stumbles Prompt Reorganization",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/polymarket-cuts-workforce-after-stumbles-prompt-reorganization"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Polymarket cuts staff as part of company restructuring",
+          "url": "https://www.investing.com/news/stock-market-news/polymarket-cuts-staff-as-part-of-company-restructuring-5019722"
         }
       ]
     }
