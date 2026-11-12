@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-11-12 10:52",
+  "updated_at": "2026-11-12 11:57",
   "taiwan": [
     {
       "rank": 1,
+      "title": "義大利300校收「來自臺灣」炸彈恐嚇信 大葉大學校友帳號疑遭盜用",
+      "summary": [
+        "自由時報：義大利300校收「來自臺灣」炸彈恐嚇信 大葉大學校友帳號疑遭盜用",
+        "科技新報：義大利 300 間學校收炸彈恐嚇信，大葉大學校友帳號疑遭盜用",
+        "ETtoday：義大利學校收炸彈恐嚇信！寄件網域驚見大葉大學　外交部將助釐清"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "義大利300校收「來自臺灣」炸彈恐嚇信 大葉大學校友帳號疑遭盜用",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5637677"
+        },
+        {
+          "source": "科技新報",
+          "title": "義大利 300 間學校收炸彈恐嚇信，大葉大學校友帳號疑遭盜用",
+          "url": "https://infosecu.technews.tw/2026/11/12/300-schools-italy-bomb-threats-da-yeh-university-alumni-account-allegedly-compromised/"
+        },
+        {
+          "source": "ETtoday",
+          "title": "義大利學校收炸彈恐嚇信！寄件網域驚見大葉大學　外交部將助釐清",
+          "url": "https://www.ettoday.net/news/20261112/3270803.htm"
+        },
+        {
+          "source": "iThome",
+          "title": "義大利約6,300所學校收炸彈恐嚇信、多校疏散，臺灣大葉大學校友帳號疑成跳板",
+          "url": "https://www.ithome.com.tw/news/180435"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "快訊／輝達董事會討論黃仁勳去留　華郵：白宮不介入",
+      "summary": [
+        "ETtoday：快訊／輝達董事會討論黃仁勳去留　華郵：白宮不介入",
+        "科技新報：黃仁勳去留添變數  輝達傳尋接班人、白宮不介入",
+        "經濟日報：美媒：白宮不介入輝達決策　黃仁勳去留與財務長擬代理受矚"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／輝達董事會討論黃仁勳去留　華郵：白宮不介入",
+          "url": "https://www.ettoday.net/news/20261112/3270676.htm"
+        },
+        {
+          "source": "科技新報",
+          "title": "黃仁勳去留添變數  輝達傳尋接班人、白宮不介入",
+          "url": "https://finance.technews.tw/2026/11/12/nvidia-working-with-outside-firm-to-identify-ceo-candidates/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美媒：白宮不介入輝達決策　黃仁勳去留與財務長擬代理受矚",
+          "url": "https://money.udn.com/money/story/5599/9873637"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "黃仁勳去留添變數輝達傳尋接班人、白宮不介入- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVEl2SXg3a2JWUU1YX08wR1FtREhPLVMzWi1RMnBoNlhaQlJSQ3BUX0pWY0ZZRkVjMTJ0OE8xWUlyTFg5SHJTSkRrYkhXOGNnT3VXQ3VxUHB0Y1BDWjc2ZGk1Q1U1YjJ1VFdDdndZeU13RTRNNzZSVGpWcENhR2NQZ0VwSTRoZExmV2QtbF9TeUdYUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "快訊／李四川競辦開告李正皓抹黑　批：蘇巧慧慣用的奧步來了",
+      "summary": [
+        "ETtoday：快訊／李四川競辦開告李正皓抹黑　批：蘇巧慧慣用的奧步來了",
+        "科技新報：黃仁勳外遇風波，外媒：臺灣晶片業盛況仍會持續",
+        "自由時報：黃國昌子弟兵周曉芸涉反滲透法交保！四叉貓曬同框照：真的不知情？"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／李四川競辦開告李正皓抹黑　批：蘇巧慧慣用的奧步來了",
+          "url": "https://www.ettoday.net/news/20261111/3270563.htm"
+        },
+        {
+          "source": "科技新報",
+          "title": "黃仁勳外遇風波，外媒：臺灣晶片業盛況仍會持續",
+          "url": "https://technews.tw/2026/11/12/taiwans-chip-show-will-go-on/"
+        },
+        {
+          "source": "自由時報",
+          "title": "黃國昌子弟兵周曉芸涉反滲透法交保！四叉貓曬同框照：真的不知情？",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5637881"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "傳輝達董事會擬撤換黃仁勳　婚外情疑雲事件簿一覽",
       "summary": [
         "經濟日報：傳輝達董事會擬撤換黃仁勳　婚外情疑雲事件簿一覽",
@@ -29,28 +120,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "快訊／李四川競辦開告李正皓抹黑　批：蘇巧慧慣用的奧步來了",
-      "summary": [
-        "ETtoday：快訊／李四川競辦開告李正皓抹黑　批：蘇巧慧慣用的奧步來了",
-        "科技新報：黃仁勳外遇風波，外媒：臺灣晶片業盛況仍會持續"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／李四川競辦開告李正皓抹黑　批：蘇巧慧慣用的奧步來了",
-          "url": "https://www.ettoday.net/news/20261111/3270563.htm"
-        },
-        {
-          "source": "科技新報",
-          "title": "黃仁勳外遇風波，外媒：臺灣晶片業盛況仍會持續",
-          "url": "https://technews.tw/2026/11/12/taiwans-chip-show-will-go-on/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
+      "rank": 5,
       "title": "點出羅大佑三大嚴重失焦 矢板明夫想請教蔣萬安：哪句振聾發聵？",
       "summary": [
         "自由時報：點出羅大佑三大嚴重失焦 矢板明夫想請教蔣萬安：哪句振聾發聵？",
@@ -71,7 +141,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "羅大佑怒吼「外省人被欺負慘了」 趙少康爆破：他其實是本省人",
       "summary": [
         "自由時報：羅大佑怒吼「外省人被欺負慘了」 趙少康爆破：他其實是本省人",
@@ -92,7 +162,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Baird調降輝達股票評等至「中立」　目標價大砍60%",
       "summary": [
         "自由時報：Baird調降輝達股票評等至「中立」　目標價大砍60%",
@@ -113,7 +183,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "AI樂觀情緒重燃　歐股收紅",
       "summary": [
         "自由時報：AI樂觀情緒重燃　歐股收紅",
@@ -134,28 +204,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "義大利300校收「來自臺灣」炸彈恐嚇信 大葉大學校友帳號疑遭盜用",
-      "summary": [
-        "自由時報：義大利300校收「來自臺灣」炸彈恐嚇信 大葉大學校友帳號疑遭盜用",
-        "科技新報：義大利 300 間學校收炸彈恐嚇信，大葉大學校友帳號疑遭盜用"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "義大利300校收「來自臺灣」炸彈恐嚇信 大葉大學校友帳號疑遭盜用",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5637677"
-        },
-        {
-          "source": "科技新報",
-          "title": "義大利 300 間學校收炸彈恐嚇信，大葉大學校友帳號疑遭盜用",
-          "url": "https://infosecu.technews.tw/2026/11/12/300-schools-italy-bomb-threats-da-yeh-university-alumni-account-allegedly-compromised/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "title": "CoreWeave財報緩解AI疑慮　美股收高輝達止穩",
       "summary": [
         "自由時報：CoreWeave財報緩解AI疑慮　美股收高輝達止穩",
@@ -176,7 +225,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "輝達客戶涉轉運晶片輸中 傳美財長質問商務部長為何不列管",
       "summary": [
         "經濟日報：輝達客戶涉轉運晶片輸中 傳美財長質問商務部長為何不列管",
@@ -193,27 +242,6 @@
           "source": "科技新報",
           "title": "輝達客戶涉轉運晶片輸中，傳美財長質問商務部長為何不列管",
           "url": "https://technews.tw/2026/11/12/bessent-confronts-lutnick-in-situation-room-over-china-inaction/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "研調：Anthropic掛牌日散戶買超可能破SpaceX紀錄",
-      "summary": [
-        "經濟日報：研調：Anthropic掛牌日散戶買超可能破SpaceX紀錄",
-        "科技新報：研調：Anthropic 掛牌日散戶買超可能破 SpaceX 紀錄"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "研調：Anthropic掛牌日散戶買超可能破SpaceX紀錄",
-          "url": "https://money.udn.com/money/story/123398/9873118"
-        },
-        {
-          "source": "科技新報",
-          "title": "研調：Anthropic 掛牌日散戶買超可能破 SpaceX 紀錄",
-          "url": "https://finance.technews.tw/2026/11/12/anthropic-ipo-could-draw-record-retail-buying/"
         }
       ]
     }
@@ -296,27 +324,6 @@
     },
     {
       "rank": 4,
-      "title": "德國聯邦國防軍因間諜風險禁用中國無人機和汽車",
-      "summary": [
-        "德國之聲：德國聯邦國防軍因間諜風險禁用中國無人機和汽車",
-        "法廣RFI：德國軍隊禁止使用中國造無人機"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "德國聯邦國防軍因間諜風險禁用中國無人機和汽車",
-          "url": "https://www.dw.com/zh/德国联邦国防军因间谍风险禁用中国无人机和汽车/a-79919532?maca=chi-rss-chi-all-1127-rdf"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "德國軍隊禁止使用中國造無人機",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261111-%E5%BE%B7%E5%9C%8B%E8%BB%8D%E9%9A%8A%E7%A6%81%E6%AD%A2%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%9C%8B%E9%80%A0%E7%84%A1%E4%BA%BA%E6%A9%9F"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Meta 基礎設施、工程主管將於 2027 年離職",
       "summary": [
         "Bloomberg Tech：Meta 基礎設施、工程主管將於 2027 年離職",
@@ -337,7 +344,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "您已經可以購買的最佳黑色星期五早期優惠",
       "summary": [
         "The Verge：您已經可以購買的最佳黑色星期五早期優惠",
@@ -358,7 +365,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Applied Intuition 正在洽談融資 15 億美元，估值 300 億美元",
       "summary": [
         "Bloomberg Tech：Applied Intuition 正在洽談融資 15 億美元，估值 300 億美元",
@@ -379,7 +386,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Polymarket Cuts Workforce After Stumbles Prompt Reorganization",
       "summary": [
         "Bloomberg Markets：Polymarket Cuts Workforce After Stumbles Prompt Reorganization",
@@ -400,7 +407,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "United Blocks AI Agents From Booking Flights Ahead of Holidays",
       "summary": [
         "Bloomberg Tech：United Blocks AI Agents From Booking Flights Ahead of Holidays",
@@ -421,7 +428,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Nvidia board set to meet after revelations Huang had affair with top company executive",
       "summary": [
         "Financial Times：Nvidia board set to meet after revelations Huang had affair with top company executive",
@@ -438,6 +445,27 @@
           "source": "Bloomberg Tech",
           "title": "Nvidia Board Meets on Huang’s Fate After Affair With Alleged Spy",
           "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-board-meets-on-huang-s-fate-after-affair-with-alleged-spy"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+      "summary": [
+        "MarketWatch：Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+        "TechCrunch：Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MarketWatch",
+          "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+          "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+          "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
         }
       ]
     }
