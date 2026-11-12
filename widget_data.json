@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 14:04",
+  "updated_at": "2026-11-12 15:15",
   "taiwan": [
     {
       "rank": 1,
@@ -67,6 +67,33 @@
     },
     {
       "rank": 3,
+      "title": "《臺北時報》 臺灣任命宏碁創辦人為APEC特使",
+      "summary": [
+        "自由時報：《臺北時報》 臺灣任命宏碁創辦人為APEC特使",
+        "科技新報：黃仁勳外遇風波，外媒：臺灣晶片業盛況仍會持續",
+        "商業周刊：北高科技聚落成形澍陽建設重返大社「澍陽映像」打造29戶美學別墅聚落-房地產"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "《臺北時報》 臺灣任命宏碁創辦人為APEC特使",
+          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5637649"
+        },
+        {
+          "source": "科技新報",
+          "title": "黃仁勳外遇風波，外媒：臺灣晶片業盛況仍會持續",
+          "url": "https://technews.tw/2026/11/12/taiwans-chip-show-will-go-on/"
+        },
+        {
+          "source": "商業周刊",
+          "title": "北高科技聚落成形澍陽建設重返大社「澍陽映像」打造29戶美學別墅聚落-房地產",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPQjhvMHJPMnJWUkNHVkozNlFuVnFjT3lndTkwVHZ3RUd0YWJLd3hacmNkRmlVZ3cyaGxnUmpoV3lyeDhsLTQ5ZVFPVW1FNEU4MTlIMEZ2SmdxaEZxVEdkOGxFMUg0YzJNZllZYzZObE40cVQyX0E?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "傳輝達董事會擬撤換黃仁勳　婚外情疑雲事件簿一覽",
       "summary": [
         "經濟日報：傳輝達董事會擬撤換黃仁勳　婚外情疑雲事件簿一覽",
@@ -93,44 +120,23 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Baird調降輝達股票評等至「中立」　目標價大砍60%",
-      "summary": [
-        "自由時報：Baird調降輝達股票評等至「中立」　目標價大砍60%",
-        "經濟日報：Baird調降輝達股票評等至「中立」　目標價大砍60%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "Baird調降輝達股票評等至「中立」　目標價大砍60%",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5637716"
-        },
-        {
-          "source": "經濟日報",
-          "title": "Baird調降輝達股票評等至「中立」　目標價大砍60%",
-          "url": "https://money.udn.com/money/story/123398/9873104"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "AI樂觀情緒重燃　歐股收紅",
+      "title": "接替黃仁勳輝達 CEO 傳天王級人選？傳蘋果庫克入列",
       "summary": [
-        "自由時報：AI樂觀情緒重燃　歐股收紅",
-        "經濟日報：AI樂觀情緒重燃　歐股收紅"
+        "經濟日報：接替黃仁勳輝達 CEO 傳天王級人選？傳蘋果庫克入列",
+        "科技新報：黃仁勳接班人再掀熱議，蘋果前執行長庫克也浮出檯面"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "AI樂觀情緒重燃　歐股收紅",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5637713"
+          "source": "經濟日報",
+          "title": "接替黃仁勳輝達 CEO 傳天王級人選？傳蘋果庫克入列",
+          "url": "https://money.udn.com/money/story/123398/9873612"
         },
         {
-          "source": "經濟日報",
-          "title": "AI樂觀情緒重燃　歐股收紅",
-          "url": "https://money.udn.com/money/story/5599/9873099"
+          "source": "科技新報",
+          "title": "黃仁勳接班人再掀熱議，蘋果前執行長庫克也浮出檯面",
+          "url": "https://finance.technews.tw/2026/11/12/jensen-huang-successor-debate-reignites-apple-ceo-tim-cook-emerges/"
         }
       ]
     },
