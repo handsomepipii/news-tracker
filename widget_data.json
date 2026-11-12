@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 13:01",
+  "updated_at": "2026-11-12 14:04",
   "taiwan": [
     {
       "rank": 1,
@@ -67,33 +67,6 @@
     },
     {
       "rank": 3,
-      "title": "羅大佑怒吼「外省人被欺負慘了」 趙少康爆破：他其實是本省人",
-      "summary": [
-        "自由時報：羅大佑怒吼「外省人被欺負慘了」 趙少康爆破：他其實是本省人",
-        "ETtoday：羅大佑喊外省人被欺負　趙少康揭「他是本省人」",
-        "中時新聞：羅大佑轟「外省人被欺負得夠慘了」 趙少康曝他驚人身世- 政治"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "羅大佑怒吼「外省人被欺負慘了」 趙少康爆破：他其實是本省人",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5637674"
-        },
-        {
-          "source": "ETtoday",
-          "title": "羅大佑喊外省人被欺負　趙少康揭「他是本省人」",
-          "url": "https://www.ettoday.net/news/20261112/3270610.htm"
-        },
-        {
-          "source": "中時新聞",
-          "title": "羅大佑轟「外省人被欺負得夠慘了」 趙少康曝他驚人身世- 政治",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vemFSYlg2TG1rczB5Z0FfaDlqbkU1V2FhN3Zsbzk3NHNyQnl3dFh2RjA3bDJBaFBra3VWQ3E3NW9CZXFzb1FyM0MyR01CZ1ozS2FaZHVPQVg1LVlYaTE4Sjh3ZHk2QVlfb0RSUkxn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "傳輝達董事會擬撤換黃仁勳　婚外情疑雲事件簿一覽",
       "summary": [
         "經濟日報：傳輝達董事會擬撤換黃仁勳　婚外情疑雲事件簿一覽",
@@ -120,7 +93,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Baird調降輝達股票評等至「中立」　目標價大砍60%",
       "summary": [
         "自由時報：Baird調降輝達股票評等至「中立」　目標價大砍60%",
@@ -141,7 +114,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "AI樂觀情緒重燃　歐股收紅",
       "summary": [
         "自由時報：AI樂觀情緒重燃　歐股收紅",
@@ -162,7 +135,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "CoreWeave財報緩解AI疑慮　美股收高輝達止穩",
       "summary": [
         "自由時報：CoreWeave財報緩解AI疑慮　美股收高輝達止穩",
@@ -183,7 +156,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "輝達客戶涉轉運晶片輸中 傳美財長質問商務部長為何不列管",
       "summary": [
         "經濟日報：輝達客戶涉轉運晶片輸中 傳美財長質問商務部長為何不列管",
@@ -204,7 +177,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "研調：Anthropic掛牌日散戶買超可能破SpaceX紀錄",
       "summary": [
         "經濟日報：研調：Anthropic掛牌日散戶買超可能破SpaceX紀錄",
@@ -225,7 +198,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "賈永婕坦言「罵的就是羅大佑」 遭逼道歉回7字態度堅定",
       "summary": [
         "自由時報：賈永婕坦言「罵的就是羅大佑」 遭逼道歉回7字態度堅定",
@@ -242,6 +215,27 @@
           "source": "中時新聞",
           "title": "賈永婕遭網友喊話「應向羅大佑道歉」 她霸氣回嗆7字",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mMHRZdVdHTnRka0Y1cXV2S281OFlDM0tpV2EyR3VlclNRVnBDNWU4eU9fZ1dlMTB6MTcwOGdfSmp6WXFjNXRoV2pTTmQ4dlZON080RXhYZVF0S2NER2swdU5tRFRqdUxiWVgxd3h3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "羅大佑喊外省人被欺負　趙少康揭「他是本省人」",
+      "summary": [
+        "ETtoday：羅大佑喊外省人被欺負　趙少康揭「他是本省人」",
+        "中時新聞：羅大佑轟「外省人被欺負得夠慘了」 趙少康曝他驚人身世- 政治"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "羅大佑喊外省人被欺負　趙少康揭「他是本省人」",
+          "url": "https://www.ettoday.net/news/20261112/3270610.htm"
+        },
+        {
+          "source": "中時新聞",
+          "title": "羅大佑轟「外省人被欺負得夠慘了」 趙少康曝他驚人身世- 政治",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vemFSYlg2TG1rczB5Z0FfaDlqbkU1V2FhN3Zsbzk3NHNyQnl3dFh2RjA3bDJBaFBra3VWQ3E3NW9CZXFzb1FyM0MyR01CZ1ozS2FaZHVPQVg1LVlYaTE4Sjh3ZHk2QVlfb0RSUkxn?oc=5"
         }
       ]
     }
@@ -324,22 +318,22 @@
     },
     {
       "rank": 4,
-      "title": "Applied Intuition 正在洽談融資 15 億美元，估值 300 億美元",
+      "title": "黃仁勳再爆婚外情 華爾街日報稱英偉達準備解除其總裁職務",
       "summary": [
-        "Bloomberg Tech：Applied Intuition 正在洽談融資 15 億美元，估值 300 億美元",
-        "Investing.com：根據彭博社報道，Applied Intuition 正在洽談以 30B 美元估值籌集 1.5B 美元"
+        "法廣RFI：黃仁勳再爆婚外情 華爾街日報稱英偉達準備解除其總裁職務",
+        "德國之聲：黃仁勳再傳婚外情 輝達董事會商議執行長去留"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "Applied Intuition 正在洽談融資 15 億美元，估值 300 億美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-11/applied-intuition-in-talks-to-raise-1-5-billion-at-30-billion-value"
+          "source": "法廣RFI",
+          "title": "黃仁勳再爆婚外情 華爾街日報稱英偉達準備解除其總裁職務",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261111-%E9%BB%83%E4%BB%81%E5%8B%B3%E5%86%8D%E7%88%86%E5%A9%9A%E5%A4%96%E6%83%85-%E8%8F%AF%E7%88%BE%E8%A1%97%E6%97%A5%E5%A0%B1%E7%A8%B1%E8%8B%B1%E5%81%89%E9%81%94%E6%BA%96%E5%82%99%E8%A7%A3%E9%99%A4%E5%85%B6%E7%B8%BD%E8%A3%81%E8%81%B7%E5%8B%99"
         },
         {
-          "source": "Investing.com",
-          "title": "根據彭博社報道，Applied Intuition 正在洽談以 30B 美元估值籌集 1.5B 美元",
-          "url": "https://www.investing.com/news/stock-market-news/applied-intuition-in-talks-to-raise-15b-at-30b-valuation-bloomberg-reports-5019616"
+          "source": "德國之聲",
+          "title": "黃仁勳再傳婚外情 輝達董事會商議執行長去留",
+          "url": "https://www.dw.com/zh/黃仁勳再傳婚外情-輝達董事會商議執行長去留/a-79925499?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
@@ -444,16 +438,16 @@
     },
     {
       "rank": 10,
-      "title": "美俄烏三國高層會晤並就大規模囚犯交換達成協議",
+      "title": "Why is MINISO stock sliding today?",
       "summary": [
-        "NHK新聞：美俄烏三國高層會晤並就大規模囚犯交換達成協議"
+        "Investing.com：Why is MINISO stock sliding today?"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "美俄烏三國高層會晤並就大規模囚犯交換達成協議",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261110de73734"
+          "source": "Investing.com",
+          "title": "Why is MINISO stock sliding today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-miniso-stock-sliding-today-93CH-5020216"
         }
       ]
     }
