@@ -1,24 +1,30 @@
 {
-  "updated_at": "2026-11-13 19:10",
+  "updated_at": "2026-11-14 02:51",
   "taiwan": [
     {
       "rank": 1,
-      "title": "微軟Microsoft 365服務異常，影響全球多項服務",
+      "title": "外媒：黃仁勳在臺「完美形象」崩塌！　曝臺灣民眾真實心聲",
       "summary": [
-        "iThome：微軟Microsoft 365服務異常，影響全球多項服務",
-        "經濟日報：微軟365服務全球大當機 上千名使用者受影響"
+        "ETtoday：外媒：黃仁勳在臺「完美形象」崩塌！　曝臺灣民眾真實心聲",
+        "工商時報：習近平：願與臺灣各界對話- 日報",
+        "自由時報：臺灣人怎麼看黃仁勳？《財星》：外遇無損人氣 捲「這事」跌落神壇"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "iThome",
-          "title": "微軟Microsoft 365服務異常，影響全球多項服務",
-          "url": "https://www.ithome.com.tw/news/180474"
+          "source": "ETtoday",
+          "title": "外媒：黃仁勳在臺「完美形象」崩塌！　曝臺灣民眾真實心聲",
+          "url": "https://www.ettoday.net/news/20261113/3271777.htm"
         },
         {
-          "source": "經濟日報",
-          "title": "微軟365服務全球大當機 上千名使用者受影響",
-          "url": "https://money.udn.com/money/story/5599/9876110"
+          "source": "工商時報",
+          "title": "習近平：願與臺灣各界對話- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sQnkzSGQxVV9vcnRfZ3p2WVhFeVlzX0dIRHo3VTVpbHEwR1VEeEZ5bHR0Nnl3MnJjY0xUcHZ6ZUY1U3M3a2RERnpiU3ZJWmI3dF9DZXU1aUlvMmNJeUtj?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "臺灣人怎麼看黃仁勳？《財星》：外遇無損人氣 捲「這事」跌落神壇",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5640196"
         }
       ]
     },
@@ -45,27 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "外媒：黃仁勳在臺「完美形象」崩塌！　曝臺灣民眾真實心聲",
-      "summary": [
-        "ETtoday：外媒：黃仁勳在臺「完美形象」崩塌！　曝臺灣民眾真實心聲",
-        "工商時報：習近平：願與臺灣各界對話- 日報"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "外媒：黃仁勳在臺「完美形象」崩塌！　曝臺灣民眾真實心聲",
-          "url": "https://www.ettoday.net/news/20261113/3271777.htm"
-        },
-        {
-          "source": "工商時報",
-          "title": "習近平：願與臺灣各界對話- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sQnkzSGQxVV9vcnRfZ3p2WVhFeVlzX0dIRHo3VTVpbHEwR1VEeEZ5bHR0Nnl3MnJjY0xUcHZ6ZUY1U3M3a2RERnpiU3ZJWmI3dF9DZXU1aUlvMmNJeUtj?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "輝達財務長克瑞斯臨危受命暫代執行長，曾質疑黃仁勳投資策略",
       "summary": [
         "科技新報：輝達財務長克瑞斯臨危受命暫代執行長，曾質疑黃仁勳投資策略",
@@ -86,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "黃仁勳請辭引發輝達動盪，美媒：臺積電、超微與博通有望受惠",
       "summary": [
         "科技新報：黃仁勳請辭引發輝達動盪，美媒：臺積電、超微與博通有望受惠",
@@ -107,77 +92,122 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "MoneyDJ新聞 2026-11-13 08:58:53 陳怡潔 釋出",
+      "rank": 5,
+      "title": "Google 發表 Gemini 4 Hydrogen，AI 代理任務較上代快 2.5 倍",
       "summary": [
-        "MoneyDJ理財網：MoneyDJ新聞 2026-11-13 08:58:53 陳怡潔 釋出"
+        "INSIDE硬塞：Google 發表 Gemini 4 Hydrogen，AI 代理任務較上代快 2.5 倍",
+        "數位時代：Google發表Gemini 4 Hydrogen！智慧指數小勝Argon，速度比3.8 Flash快2.5倍"
       ],
-      "media_count": 1,
+      "media_count": 2,
+      "links": [
+        {
+          "source": "INSIDE硬塞",
+          "title": "Google 發表 Gemini 4 Hydrogen，AI 代理任務較上代快 2.5 倍",
+          "url": "https://www.inside.com.tw/article/42905-google-gemini-4-hydrogen"
+        },
+        {
+          "source": "數位時代",
+          "title": "Google發表Gemini 4 Hydrogen！智慧指數小勝Argon，速度比3.8 Flash快2.5倍",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BOFd3T0tZbUlRN3hwRFYxTGlnMG1kNE5ZRnpNMTFvX2xLRUtfczdiZkxDa3ZEdi1wclBEVzhHSmFLekFOZktqY2d2dVVqa0ZzN1YyeDV1SWpNNjZGVGZ0Rnh3R3QxX05xbWJUY0JsU3c?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "AI晶片需求旺應材Q4營收飆53%、本季再戰新高- 新聞",
+      "summary": [
+        "MoneyDJ理財網：AI晶片需求旺應材Q4營收飆53%、本季再戰新高- 新聞",
+        "財經新報：AI 晶片需求旺  應材 Q4 營收飆 53%、本季再戰新高"
+      ],
+      "media_count": 2,
       "links": [
         {
           "source": "MoneyDJ理財網",
-          "title": "MoneyDJ新聞 2026-11-13 08:58:53 陳怡潔 釋出",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcXd2b1N6TVZtdnBSMVNOdU4ycUNsMF9oZGdMYjd2RzRGLXhibWU3ZGVuZWhiUWJoZ0Q3N2ZQVzNfLVFzRUpGdWZnWURERWdNMEswRHhRS1hma1ZpY3VmSzEtUkFXUGZDb0o4QndaWE9IN19UV3R0T2lVRUYwR2ZEd09rZWI0akc0QWFsVU04T3hJdGc?oc=5"
+          "title": "AI晶片需求旺應材Q4營收飆53%、本季再戰新高- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYUlDdGRaemtzaTNEVVREbWJNUWlXUzNCa2Npd2FyV1QtYWNSUmxRcUhtUERZRUhCX3ppdW10Tl9FRUh0R216YnpqOHZVR1c2SVIzQ2QwTlhfYjhFZC1OaW5UWmc3QVlBaWthcWRTZVk4MHpQdHlDREdNNDFaN2dUM1Q4WGpLWVhzMlVtV0FKOWJnZw?oc=5"
+        },
+        {
+          "source": "財經新報",
+          "title": "AI 晶片需求旺  應材 Q4 營收飆 53%、本季再戰新高",
+          "url": "https://finance.technews.tw/2026/11/13/applied-materials-q4-revenue-surges-53/"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "盤中速報 - 意騰-KY(7749)股價拉至漲停，漲停價282.0元，成交210張",
+      "title": "輝達本益比摜破12倍散戶瘋抄底、分析師仍猶豫- 新聞",
       "summary": [
-        "鉅亨網：盤中速報 - 意騰-KY(7749)股價拉至漲停，漲停價282.0元，成交210張"
+        "MoneyDJ理財網：輝達本益比摜破12倍散戶瘋抄底、分析師仍猶豫- 新聞",
+        "財經新報：輝達本益比摜破 12 倍  散戶瘋抄底、分析師仍猶豫"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "鉅亨網",
-          "title": "盤中速報 - 意騰-KY(7749)股價拉至漲停，漲停價282.0元，成交210張",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SYXNIUkxYRU82SG05Z05yaGhXWnhoY2R6OVJJYS1ZMHlhcXEzMlFnMFZkaDVFVXZNajB2NlhKSTZLV1BVb2QyV1lWSVY0Y2M?oc=5"
+          "source": "MoneyDJ理財網",
+          "title": "輝達本益比摜破12倍散戶瘋抄底、分析師仍猶豫- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQV8zZEV2NzJ5d0VVVWlKbEFUbjdpallTeHhKdFY4SXNOYVZ2TFVNTzlTd0JSVzVxQmxFd3plOUNrLVQ0V1VaYU1nWk5oNXJCd3RpeDBqZEE1aEQwVWtnemJJS1c3VlEyRFpoamRSNi1UUVRPVHN1U3Iwdk83NWp1dTFoMG0tNVZKN3dvVnlhdTRZdw?oc=5"
+        },
+        {
+          "source": "財經新報",
+          "title": "輝達本益比摜破 12 倍  散戶瘋抄底、分析師仍猶豫",
+          "url": "https://finance.technews.tw/2026/11/13/retail-investors-rush-to-buy-nvidia-shares-as-analysts-remain-cautious/"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "商周新財富備忘錄—看懂AI基礎建設狂潮，行內人帶你掌握資本新機會",
+      "title": "黃仁勳卸任輝達執行長重創科技股　歐股漲跌互見",
       "summary": [
-        "商業周刊：商周新財富備忘錄—看懂AI基礎建設狂潮，行內人帶你掌握資本新機會"
+        "自由時報：黃仁勳卸任輝達執行長重創科技股　歐股漲跌互見",
+        "經濟日報：黃仁勳卸任輝達執行長重創科技股　歐股漲跌互見"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "商業周刊",
-          "title": "商周新財富備忘錄—看懂AI基礎建設狂潮，行內人帶你掌握資本新機會",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YQ0FBTVNQcW9LN1RzUVl4SWplUXpOU2pGMjdfaGo3elZrYlBJS19xY1BtUEI1T1YtZG9NMVB2WmdHV2kyd0RSbFcwYi1YZk5HaWZoNGgwVDd0Nkp3X0M4TXpYSEs?oc=5"
+          "source": "自由時報",
+          "title": "黃仁勳卸任輝達執行長重創科技股　歐股漲跌互見",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5640207"
+        },
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳卸任輝達執行長重創科技股　歐股漲跌互見",
+          "url": "https://money.udn.com/money/story/5599/9877981"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "蔣萬安推雙北公車399元定期票沈柏洋端市民大道「縫合」規劃｜20261112 公視午間新聞｜ 公視新聞PNN",
+      "title": "靠AI提升效率，Appier Q3營業利益翻倍、毛利率61.3%創高！連兩季上修全年獲利財測，現金股利估2.5日圓 | 魏鑫陽 | 財經",
       "summary": [
-        "公視新聞：蔣萬安推雙北公車399元定期票沈柏洋端市民大道「縫合」規劃｜20261112 公視午間新聞｜ 公視新聞PNN"
+        "風傳媒：靠AI提升效率，Appier Q3營業利益翻倍、毛利率61.3%創高！連兩季上修全年獲利財測，現金股利估2.5日圓 | 魏鑫陽 | 財經",
+        "INSIDE硬塞：營業利益翻倍、毛利率 61.3% 創新高，Appier 第三季再上調全年財測"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "公視新聞",
-          "title": "蔣萬安推雙北公車399元定期票沈柏洋端市民大道「縫合」規劃｜20261112 公視午間新聞｜ 公視新聞PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mNG5QYWFDYldJdEVwa1l2b2Z0MF9wV1R2anBlR0ZMalJJWVJNblQ3UExjNTlNbThwOFhOTTdwRkxJM2tBY25udVE3aw?oc=5"
+          "source": "風傳媒",
+          "title": "靠AI提升效率，Appier Q3營業利益翻倍、毛利率61.3%創高！連兩季上修全年獲利財測，現金股利估2.5日圓 | 魏鑫陽 | 財經",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvamVncmNXeXA3ck1JOFltUm94d3ljZWc0eG9kOW9XX0hXbm1NSm1QY2pSajJXYm5fdUxaOGc3Z1VyZFVta1luQmJRTTU0QQ?oc=5"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "營業利益翻倍、毛利率 61.3% 創新高，Appier 第三季再上調全年財測",
+          "url": "https://www.inside.com.tw/article/42911-appier-2026-q3-earnings-operating-profit-guidance-raise"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "天氣/ 好天氣過黑五! 週六華南雲雨區影響 防劇烈雨｜氣象主播 張蕙纖｜早安氣象｜TVBS新聞 20261113 @TVBSNEWS01",
+      "title": "浩鼎 (4174) 公告本公司召開重大訊息說明記者會",
       "summary": [
-        "TVBS新聞：天氣/ 好天氣過黑五! 週六華南雲雨區影響 防劇烈雨｜氣象主播 張蕙纖｜早安氣象｜TVBS新聞 20261113 @TVBSNEWS01"
+        "公開資訊觀測站重訊：浩鼎 (4174) 公告本公司召開重大訊息說明記者會"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "TVBS新聞",
-          "title": "天氣/ 好天氣過黑五! 週六華南雲雨區影響 防劇烈雨｜氣象主播 張蕙纖｜早安氣象｜TVBS新聞 20261113 @TVBSNEWS01",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xa1BCbHFvRVdXWHRaYmR2aXA5WlZ6eWxTVUVJUWIxekJkMzdhdW43QTFBR1lIamltR05HVUVHbldsa0h1OV9rU2Q3RGVCenVTbmdfdTVB?oc=5"
+          "source": "公開資訊觀測站重訊",
+          "title": "浩鼎 (4174) 公告本公司召開重大訊息說明記者會",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUFJLQ3NKTG1DRnpPX3JtbnNWelQwclUtSGdtYUdIUFJSS3M3ME9iSWJNbDdOcUxGNFhzT1kxQlBSc0VDMWM3N3J4MUJ2RFdHTVI0UWJmdGtIRWkzOEd0NzNLWHFKeVppUmkwZy1ISGZtQnBnbVpYWjZIQ2hBS0ZFZFlORnl0Yjlha3hLS25NOFZhWW41RDhndzNvRTVwdzBNbzRyNlM1eWs0dXJ1cXh0MkJ4eTVXRmNYQnA1VVlEN1BWQlFZV0RkOVBsRDFrelBaZU5ZZU5ZTU9lcHZtRzBVa1FER2dnOVYwM0k1a28xLWpJZXhOeVpMMGFNVXJ3UU9MQkV3U3pub2FScVd6RzNzbnMyNDluaVJKa01rMHZB?oc=5"
         }
       ]
     }
@@ -185,48 +215,27 @@
   "global": [
     {
       "rank": 1,
-      "title": "醜聞纏身的英偉達執行長黃仁勳辭職，讓AI晶片製造巨頭陷入混亂",
+      "title": "Alice Huang 公司在中國採購了被禁的 Nvidia 晶片",
       "summary": [
-        "BBC World：醜聞纏身的英偉達執行長黃仁勳辭職，讓AI晶片製造巨頭陷入混亂",
-        "BBC中文：深陷醜聞的黃仁勳辭職，AI晶片巨頭Nvidia陷入動盪"
+        "Bloomberg Tech：Alice Huang 公司在中國採購了被禁的 Nvidia 晶片",
+        "Wccftech：NVIDIA Founder Jensen Huang’s Alleged Spy Associate Alice Huang Was Deeply Tied To Another Chinese Firm With Access To Banned NVIDIA Chips, Says Report"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "BBC World",
-          "title": "醜聞纏身的英偉達執行長黃仁勳辭職，讓AI晶片製造巨頭陷入混亂",
-          "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+          "source": "Bloomberg Tech",
+          "title": "Alice Huang 公司在中國採購了被禁的 Nvidia 晶片",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/alice-huang-firm-procured-banned-nvidia-chips-in-china-video"
         },
         {
-          "source": "BBC中文",
-          "title": "深陷醜聞的黃仁勳辭職，AI晶片巨頭Nvidia陷入動盪",
-          "url": "https://www.bbc.com/zhongwen/articles/cmn80j4vnj1jo/trad?at_medium=RSS&at_campaign=rss"
+          "source": "Wccftech",
+          "title": "NVIDIA Founder Jensen Huang’s Alleged Spy Associate Alice Huang Was Deeply Tied To Another Chinese Firm With Access To Banned NVIDIA Chips, Says Report",
+          "url": "https://wccftech.com/nvidia-founder-jensen-huangs-alleged-spy-associate-alice-huang-was-deeply-tied-to-another-chinese-firm-with-access-to-banned-nvidia-chips-says-report/"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "黃仁勳辭職、英偉達擔任財務官，股市下跌",
-      "summary": [
-        "Bloomberg Markets：黃仁勳辭職、英偉達擔任財務官，股市下跌",
-        "Yahoo Finance：英偉達執行長黃仁勳辭職，AMD、博通股價上漲"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "黃仁勳辭職、英偉達擔任財務官，股市下跌",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-13/the-close-11-12-2026-video"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "英偉達執行長黃仁勳辭職，AMD、博通股價上漲",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVkIxWkJDaHpKZmg4emJ3RW9FVWRleFBqSU9fckJzb1JCN3FBY25PblRkTmg4UG53VWRJSERhMHp5eUlqNmphQkh5cXRJcE1oWjVxUUNuVkZIOWpGLWw2YS1JQ0JGV0FYS3JwWHVKcU9CeHFLX3JJelVIZXI3cWRNcWhOZ2Z0TkRZYk0yX281dVlPX2d5b2hnblIxdnRwdjRSZDhYZ3FHMFg0UTJpMXhvdUFYWFZPbmM?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "由於擔心英偉達晶片限制更嚴格，中國人工智慧拋售加劇",
       "summary": [
         "Financial Times：由於擔心英偉達晶片限制更嚴格，中國人工智慧拋售加劇",
@@ -247,7 +256,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "據稱 SpaceX 與特斯拉交易的談判將取得進展",
       "summary": [
         "Bloomberg Tech：據稱 SpaceX 與特斯拉交易的談判將取得進展",
@@ -268,7 +277,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "中國價值超過 30 億美元的 Nvidia 驅動的人工智慧資料中心",
       "summary": [
         "Investing.com：中國價值超過 30 億美元的 Nvidia 驅動的人工智慧資料中心",
@@ -289,37 +298,49 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "誰能接替黃仁勛？英偉達可以考慮這些人- 紐約時報中文網",
+      "rank": 5,
+      "title": "黃仁勳的退出和美國的審查將危及依賴英偉達的 30 億美元中國人工智慧專案",
       "summary": [
-        "紐約時報中文：誰能接替黃仁勛？英偉達可以考慮這些人- 紐約時報中文網"
+        "Investing.com：黃仁勳的退出和美國的審查將危及依賴英偉達的 30 億美元中國人工智慧專案",
+        "法廣RFI：黃仁勳速辭 中國境內30多億美元人工智慧專案採用英偉達被管制技術"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "紐約時報中文",
-          "title": "誰能接替黃仁勛？英偉達可以考慮這些人- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYUJsdkR6SWZLTkd5S2RjalFFaGtNOEttUEU0a29jOUJqS0JCLVVXQ2g5MVM0aU9tdDI0OG91WE1Wb0hzQ2ljdHBDRWFlT0N4bVBmTFpwOHVKaHJTTmpOZVJDNGhGQlNITVZJZjNma0RycUh6dFRGclAteXlTb0p6QldDc25PUQ?oc=5"
+          "source": "Investing.com",
+          "title": "黃仁勳的退出和美國的審查將危及依賴英偉達的 30 億美元中國人工智慧專案",
+          "url": "https://www.investing.com/news/stock-market-news/exclusivehuang-exit-and-us-scrutiny-imperil-3-billion-in-chinese-ai-projects-reliant-on-nvidia-5024462"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "黃仁勳速辭 中國境內30多億美元人工智慧專案採用英偉達被管制技術",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261113-%E9%BB%83%E4%BB%81%E5%8B%B3%E9%80%9F%E8%BE%AD-%E4%B8%AD%E5%9C%8B%E5%A2%83%E5%85%A730%E5%A4%9A%E5%84%84%E7%BE%8E%E5%85%83%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A0%85%E7%9B%AE%E6%8E%A1%E7%94%A8%E8%8B%B1%E5%81%89%E9%81%94%E8%A2%AB%E7%AE%A1%E5%88%B6%E8%8A%AF%E7%89%87"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": [
+        "TechCrunch：The unfolding Jensen Huang scandal: a timeline",
+        "The Verge：What&#8217;s really at stake in the Jensen Huang saga"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "The unfolding Jensen Huang scandal: a timeline",
+          "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+        },
+        {
+          "source": "The Verge",
+          "title": "What&#8217;s really at stake in the Jensen Huang saga",
+          "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "「美人計」：中國間諜機構如何利用親密關係套取情報- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：「美人計」：中國間諜機構如何利用親密關係套取情報- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "「美人計」：中國間諜機構如何利用親密關係套取情報- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14SFRjcGFjSFg0YWY3S01BMmlaejRkWkhhTy1FMVo1ako2UXg1NVo2MFRkc0NLc2FyRWlIcDFsSmVwblhuX196bXVFenhPTHZzTmw4MExJZXpORnpLS1pCRFlBZjRnc1RrS19wRFFyVXZnWWRnRGdvZHY0cWN3QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "一家價值20億美元的律師事務所為何突然倒閉",
       "summary": [
         "Bloomberg Markets：一家價值20億美元的律師事務所為何突然倒閉"
@@ -334,32 +355,47 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Alice Huang 公司在中國採購了被禁的 Nvidia 晶片",
+      "rank": 8,
+      "title": "詳訊：韓中外長在京舉行會談",
       "summary": [
-        "Bloomberg Tech：Alice Huang 公司在中國採購了被禁的 Nvidia 晶片"
+        "韓聯社：詳訊：韓中外長在京舉行會談"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "Alice Huang 公司在中國採購了被禁的 Nvidia 晶片",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-13/alice-huang-firm-procured-banned-nvidia-chips-in-china-video"
+          "source": "韓聯社",
+          "title": "詳訊：韓中外長在京舉行會談",
+          "url": "https://cn.yna.co.kr/view/ACK20261113003500881"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "「臺灣乾爹」光環崩塌：黃仁勳事件如何震動臺灣產業、政治與社會？",
+      "summary": [
+        "BBC中文：「臺灣乾爹」光環崩塌：黃仁勳事件如何震動臺灣產業、政治與社會？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "「臺灣乾爹」光環崩塌：黃仁勳事件如何震動臺灣產業、政治與社會？",
+          "url": "https://www.bbc.com/zhongwen/articles/cmn80j39wq06o/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "川普政府官員就英偉達事件發生衝突- 紐約時報中文網",
+      "title": "黃仁勳辭職餘波：中國輿論場上的「間諜」迷因、選舉猜想與股價「黑天鵝」",
       "summary": [
-        "紐約時報中文：川普政府官員就英偉達事件發生衝突- 紐約時報中文網"
+        "BBC中文：黃仁勳辭職餘波：中國輿論場上的「間諜」迷因、選舉猜想與股價「黑天鵝」"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "紐約時報中文",
-          "title": "川普政府官員就英偉達事件發生衝突- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdHFDX1EyU0dDRWdFd01ueUdtbVpkSXV3QjB4MUJhbGpaMUpiX2lBcnNfLXg1SnUxbUVWc0ZkRDgycHBZQ1FtOEN2RlBqdmRmNGdoS0dndFVhb09ZaXhzWUc0cF93Ym9TN3Vycl8zVmxLRy1zTlI0Q2FzakdJd1hrWnFvLXhuODBOVjQ4?oc=5"
+          "source": "BBC中文",
+          "title": "黃仁勳辭職餘波：中國輿論場上的「間諜」迷因、選舉猜想與股價「黑天鵝」",
+          "url": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
