@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 06:58",
+  "updated_at": "2026-11-13 11:25",
   "taiwan": [
     {
       "rank": 1,
@@ -40,6 +40,33 @@
     },
     {
       "rank": 2,
+      "title": "權力下臺！黃仁勳辭去 NVIDIA 執行長 財務長 Colette Kress 暫代",
+      "summary": [
+        "INSIDE硬塞：權力下臺！黃仁勳辭去 NVIDIA 執行長 財務長 Colette Kress 暫代",
+        "癮科技Cool3c：NVIDIA執行長黃仁勳引咎請辭結束33年在位，副總裁暨財務長Colette Kress兼任暫代臨時執行長",
+        "iThome：黃仁勳辭去Nvidia執行長立刻生效，財務長Colette Kress接任臨時執行長、董事會任命首任董事長"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "INSIDE硬塞",
+          "title": "權力下臺！黃仁勳辭去 NVIDIA 執行長 財務長 Colette Kress 暫代",
+          "url": "https://www.inside.com.tw/article/42900-jensen-huang-resigns-nvidia-ceo-colette-kress-interim"
+        },
+        {
+          "source": "癮科技Cool3c",
+          "title": "NVIDIA執行長黃仁勳引咎請辭結束33年在位，副總裁暨財務長Colette Kress兼任暫代臨時執行長",
+          "url": "https://www.cool3c.com/article/254064"
+        },
+        {
+          "source": "iThome",
+          "title": "黃仁勳辭去Nvidia執行長立刻生效，財務長Colette Kress接任臨時執行長、董事會任命首任董事長",
+          "url": "https://www.ithome.com.tw/news/180472"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "廢除非核家園公投- 熱門議題｜ 公視新聞PNN",
       "summary": [
         "公視新聞：廢除非核家園公投- 熱門議題｜ 公視新聞PNN",
@@ -60,7 +87,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "長榮海運Q3獲利翻倍、EPS 21.53元！　前三季大賺逾3個股本",
       "summary": [
         "ETtoday：長榮海運Q3獲利翻倍、EPS 21.53元！　前三季大賺逾3個股本",
@@ -81,7 +108,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "快訊／黃仁勳辭去執行長　輝達股價「盤前下殺11％」",
       "summary": [
         "ETtoday：快訊／黃仁勳辭去執行長　輝達股價「盤前下殺11％」",
@@ -102,28 +129,28 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "權力下臺！黃仁勳辭去 NVIDIA 執行長 財務長 Colette Kress 暫代",
+      "rank": 6,
+      "title": "美股早盤／黃仁勳辭職下臺 輝達股價暴跌8% 市值跌破4兆美元",
       "summary": [
-        "INSIDE硬塞：權力下臺！黃仁勳辭去 NVIDIA 執行長 財務長 Colette Kress 暫代",
-        "癮科技Cool3c：NVIDIA執行長黃仁勳引咎請辭結束33年在位，副總裁暨財務長Colette Kress兼任暫代臨時執行長"
+        "經濟日報：美股早盤／黃仁勳辭職下臺 輝達股價暴跌8% 市值跌破4兆美元",
+        "今周刊：黃仁勳辭職下臺即刻生效、輝達臨時執行長是她！股價崩15%...33年拼出市值4兆美元，醜聞連環爆動搖AI帝國"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "INSIDE硬塞",
-          "title": "權力下臺！黃仁勳辭去 NVIDIA 執行長 財務長 Colette Kress 暫代",
-          "url": "https://www.inside.com.tw/article/42900-jensen-huang-resigns-nvidia-ceo-colette-kress-interim"
+          "source": "經濟日報",
+          "title": "美股早盤／黃仁勳辭職下臺 輝達股價暴跌8% 市值跌破4兆美元",
+          "url": "https://money.udn.com/money/story/123398/9875472"
         },
         {
-          "source": "癮科技Cool3c",
-          "title": "NVIDIA執行長黃仁勳引咎請辭結束33年在位，副總裁暨財務長Colette Kress兼任暫代臨時執行長",
-          "url": "https://www.cool3c.com/article/254064"
+          "source": "今周刊",
+          "title": "黃仁勳辭職下臺即刻生效、輝達臨時執行長是她！股價崩15%...33年拼出市值4兆美元，醜聞連環爆動搖AI帝國",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSXZZaXNDYnBHNmZzcEJWREdhOHRGdG1vUTV2cnd3ZHhYR3ZmUTdmNjBHeWVMOC1ZbVNwWkVHdV9GYkRzRHlmejdVbDdmV3l0dkdxb1VmWnNubllxcl9DcGFmOTFTMG9pRmNxcFFpZF83NElKcGNaT1ZQaXdzc2tuQw?oc=5"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "鴻海預期第四季、明年AI機櫃出貨高雙位數成長- 產業",
       "summary": [
         "工商時報：鴻海預期第四季、明年AI機櫃出貨高雙位數成長- 產業",
@@ -144,7 +171,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "輝達財務長克瑞斯任臨時執行長　矢言推進AI領導者工作",
       "summary": [
         "自由時報：輝達財務長克瑞斯任臨時執行長　矢言推進AI領導者工作",
@@ -165,7 +192,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "黃仁勳驚爆第3段婚外情！路透揭與輝達女員工有親密關係",
       "summary": [
         "自由時報：黃仁勳驚爆第3段婚外情！路透揭與輝達女員工有親密關係",
@@ -186,7 +213,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "輝達下挫抵銷能源股漲勢　美股收低",
       "summary": [
         "自由時報：輝達下挫抵銷能源股漲勢　美股收低",
@@ -203,27 +230,6 @@
           "source": "經濟日報",
           "title": "輝達下挫抵銷能源股漲勢　美股收低",
           "url": "https://money.udn.com/money/story/123398/9875810"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "美專家：黃仁勳下臺不影響「臺積電」　輝達仍是AI支柱",
-      "summary": [
-        "ETtoday：美專家：黃仁勳下臺不影響「臺積電」　輝達仍是AI支柱",
-        "經濟日報：黃仁勳去職　美專家：輝達仍是AI產業支柱、不影響臺積電"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "美專家：黃仁勳下臺不影響「臺積電」　輝達仍是AI支柱",
-          "url": "https://www.ettoday.net/news/20261113/3271315.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳去職　美專家：輝達仍是AI產業支柱、不影響臺積電",
-          "url": "https://money.udn.com/money/story/5599/9875795"
         }
       ]
     }
@@ -379,8 +385,8 @@
       "title": "Google推出Gemini 4 Hydrogen，最終取代3.8 Flash",
       "summary": [
         "Ars Technica：Google推出Gemini 4 Hydrogen，最終取代3.8 Flash",
-        "VentureBeat：Google推出Gemini 4 Hydrogen－更快、更聰明、更昂貴的Flash繼任者",
-        "Wccftech：Google 的 Flash 級 Gemini 4 Hydrogen 現在是 Vals AI 前 6 名中最便宜、最快的型號，Sundar Pichai 其響應時間提高了 2.5 倍"
+        "VentureBeat：Google推出 Gemini 4 Hydrogen——更快、更聰明、價格更高的 Flash 繼任者",
+        "Wccftech：Google 的 Flash 級 Gemini 4 Hydrogen 現在是 Vals AI 前 6 名中最便宜、最快的型號，Sundar Pichai 宣稱其響應時間提高了 2.5 倍"
       ],
       "media_count": 3,
       "links": [
@@ -391,12 +397,12 @@
         },
         {
           "source": "VentureBeat",
-          "title": "Google推出Gemini 4 Hydrogen－更快、更聰明、更昂貴的Flash繼任者",
+          "title": "Google推出 Gemini 4 Hydrogen——更快、更聰明、價格更高的 Flash 繼任者",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXRuQUZkeks1RVIwa2htVHJkZUlGby1iLTE5Wnh0UzZDSy1neDZyRU1WRkJRR1VnMzNLb0o3QzdmZkhmcTN0SnlGN09wU3BQVkJ1bk1oMFQwYk03eEsyQVhybEY5eE5RWllKTlhsblRTNms5MXFNSWF2UFFhSS05OWxuaTByM2dqSXY1LS1ncGlGTnFFQ2V0WnRRU3ZsWVVuSkJrZkVWWFprZW96TUE?oc=5"
         },
         {
           "source": "Wccftech",
-          "title": "Google 的 Flash 級 Gemini 4 Hydrogen 現在是 Vals AI 前 6 名中最便宜、最快的型號，Sundar Pichai 其響應時間提高了 2.5 倍",
+          "title": "Google 的 Flash 級 Gemini 4 Hydrogen 現在是 Vals AI 前 6 名中最便宜、最快的型號，Sundar Pichai 宣稱其響應時間提高了 2.5 倍",
           "url": "https://wccftech.com/googles-flash-class-gemini-4-hydrogen-is-now-the-cheapest-fastest-model-in-vals-ais-top-6-as-sundar-pichai-touts-its-2-5x-faster-response-times/"
         }
       ]
@@ -424,6 +430,27 @@
     },
     {
       "rank": 8,
+      "title": "黃仁勳走了。 AI產業會為此付出代價嗎？",
+      "summary": [
+        "Financial Times：黃仁勳走了。 AI產業會為此付出代價嗎？",
+        "FT中文網：黃仁勳離開後 AI行業會否付出代價？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "黃仁勳走了。 AI產業會為此付出代價嗎？",
+          "url": "https://www.ft.com/content/dd9072bd-e8a3-4f8e-9985-550aa80a2fd4?syn-25a6b1a6=1"
+        },
+        {
+          "source": "FT中文網",
+          "title": "黃仁勳離開後 AI行業會否付出代價？",
+          "url": "https://www.ftchinese.com/story/001111355"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "美國現有房屋銷售量跌至 2010 年以來最低水平",
       "summary": [
         "Bloomberg Markets：美國現有房屋銷售量跌至 2010 年以來最低水平",
@@ -444,7 +471,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "執行長黃仁勳下臺，英偉達股價暴跌，拖累其他人工智慧公司",
       "summary": [
         "Yahoo Finance：執行長黃仁勳下臺，英偉達股價暴跌，拖累其他人工智慧公司",
@@ -461,27 +488,6 @@
           "source": "WSJ Markets",
           "title": "英偉達執行長黃仁勳因醜聞增加而離職，公司股價暴跌",
           "url": "https://www.wsj.com/finance/stocks/nvidia-tumbles-as-its-ceo-jensen-huang-departs-amid-multiplying-scandals-d380df1f?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "英偉達執行長黃仁勳辭職，對人工智慧熱潮造成重大打擊",
-      "summary": [
-        "Investing.com：英偉達執行長黃仁勳辭職，對人工智慧熱潮造成重大打擊",
-        "VentureBeat：英偉達黃仁勳辭職：這對人工智慧產業意味著什麼？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "英偉達執行長黃仁勳辭職，對人工智慧熱潮造成重大打擊",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-ceo-jensen-huang-to-step-down-in-big-blow-to-ai-boom-5021980"
-        },
-        {
-          "source": "VentureBeat",
-          "title": "英偉達黃仁勳辭職：這對人工智慧產業意味著什麼？",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3EwV0tVUHdUZk5WdTUwajR3SHpfYnlXTTVWcnZ6aDhERUY1Rk9WelRyelpqTEJGeHZhLXdsTEJWaWtCdVhZTlJTVTlhcXNBUWg2cUxfZ3QtOHY4eTJRenRseGdpWnI0MXR3RGppb0ktMUlHN0ZDanh6X3UtT0ZWd1AzeENib0RxVjhUd21aRGJjY0VEVVF6ZEI0UXRTYkFkMGZNbThvdFQ?oc=5"
         }
       ]
     }
