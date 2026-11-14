@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-15 04:56",
+  "updated_at": "2026-11-15 05:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "亞冠賽》「瑋士牌」駛向國際！ 日媒到臺灣休息室訪兄弟新星",
+      "title": "亞冠賽》背水一戰迎臺灣 南韓打線大洗牌！",
       "summary": [
-        "自由時報：亞冠賽》「瑋士牌」駛向國際！ 日媒到臺灣休息室訪兄弟新星",
+        "自由時報：亞冠賽》背水一戰迎臺灣 南韓打線大洗牌！",
         "財訊：創見束崇萬大談購入宜蘭阿拉伯宮秘辛，為了寵妻打造臺灣當代藝術館",
-        "ETtoday：國中軟聯連3屆上演同縣市內戰！長安、敦化爭冠　金盃確定留臺北"
+        "ETtoday：虎父無犬子！健行教頭劉孟竹南下助陣、劉衡4記三分彈助信義大勝"
       ],
       "media_count": 3,
       "links": [
         {
           "source": "自由時報",
-          "title": "亞冠賽》「瑋士牌」駛向國際！ 日媒到臺灣休息室訪兄弟新星",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5640812"
+          "title": "亞冠賽》背水一戰迎臺灣 南韓打線大洗牌！",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5640855"
         },
         {
           "source": "財訊",
@@ -23,8 +23,8 @@
         },
         {
           "source": "ETtoday",
-          "title": "國中軟聯連3屆上演同縣市內戰！長安、敦化爭冠　金盃確定留臺北",
-          "url": "https://sports.ettoday.net/news/3272377"
+          "title": "虎父無犬子！健行教頭劉孟竹南下助陣、劉衡4記三分彈助信義大勝",
+          "url": "https://sports.ettoday.net/news/3272304"
         }
       ]
     },
@@ -78,22 +78,22 @@
     },
     {
       "rank": 4,
-      "title": "基泰大直施工圖被埋了 林楚茵酸：北市府首創「水泥滅證法」",
+      "title": "全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
       "summary": [
-        "自由時報：基泰大直施工圖被埋了 林楚茵酸：北市府首創「水泥滅證法」",
-        "ETtoday：基泰大直施工圖紙消失！北市府認水泥埋了　綠委傻眼"
+        "自由時報：全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
+        "經濟日報：全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "基泰大直施工圖被埋了 林楚茵酸：北市府首創「水泥滅證法」",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640698"
+          "title": "全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641144"
         },
         {
-          "source": "ETtoday",
-          "title": "基泰大直施工圖紙消失！北市府認水泥埋了　綠委傻眼",
-          "url": "https://www.ettoday.net/news/20261114/3272253.htm"
+          "source": "經濟日報",
+          "title": "全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
+          "url": "https://money.udn.com/money/story/5599/9879323"
         }
       ]
     },
@@ -275,6 +275,27 @@
     },
     {
       "rank": 3,
+      "title": "隨著航空旅行系統從關閉狀態恢復，數千美國航班取消、延誤",
+      "summary": [
+        "Investing.com：隨著航空旅行系統從關閉狀態恢復，數千美國航班取消、延誤",
+        "法廣RFI：美航班全國性停飛長達4個小時     約16000次航班取消"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "隨著航空旅行系統從關閉狀態恢復，數千美國航班取消、延誤",
+          "url": "https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "美航班全國性停飛長達4個小時     約16000次航班取消",
+          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261114-%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%85%A8%E5%9C%8B%E6%80%A7%E5%81%9C%E9%A3%9B%E9%95%B7%E9%81%944%E5%80%8B%E5%B0%8F%E6%99%82-%E7%B4%8416000%E6%AC%A1%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "菲律賓贏得首屆亞洲歐洲歌唱大賽冠軍",
       "summary": [
         "BBC World：菲律賓贏得首屆亞洲歐洲歌唱大賽冠軍",
@@ -295,7 +316,22 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "[地震速報] 熊本縣地震強度3級",
+      "summary": [
+        "NHK新聞：[地震速報] 熊本縣地震強度3級"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "[地震速報] 熊本縣地震強度3級",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76024"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "達菲調查 L3Harris 因 FAA 停電導緻美國航班停飛",
       "summary": [
         "Investing.com：達菲調查 L3Harris 因 FAA 停電導緻美國航班停飛"
@@ -310,92 +346,62 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "「你甚至不會告訴密友」：分娩後遺症，為何多年後仍揮之不去？",
-      "summary": [
-        "BBC中文：「你甚至不會告訴密友」：分娩後遺症，為何多年後仍揮之不去？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "「你甚至不會告訴密友」：分娩後遺症，為何多年後仍揮之不去？",
-          "url": "https://www.bbc.com/zhongwen/articles/cwr7grvx00yxo/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "高市首相擬在東盟首腦會議期間與特朗普會晤 討論中美俄首腦會談",
-      "summary": [
-        "法廣RFI：高市首相擬在東盟首腦會議期間與特朗普會晤 討論中美俄首腦會談"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "高市首相擬在東盟首腦會議期間與特朗普會晤 討論中美俄首腦會談",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261114-%E9%AB%98%E5%B8%82%E9%A6%96%E7%9B%B8%E6%93%AC%E5%9C%A8%E6%9D%B1%E7%9B%9F%E9%A6%96%E8%85%A6%E6%9C%83%E8%AD%B0%E6%9C%9F%E9%96%93%E8%88%87%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%83%E6%99%A4-%E8%A8%8E%E8%AB%96%E4%B8%AD%E7%BE%8E%E4%BF%84%E9%A6%96%E8%85%A6%E6%9C%83%E8%AB%87"
-        }
-      ]
-    },
-    {
       "rank": 7,
-      "title": "JR北海道新型觀光列車「紅星號」發布，瞄準富人",
+      "title": "美國航班大停飛  不是網路攻擊，問題出在哪裡？",
       "summary": [
-        "NHK新聞：JR北海道新型觀光列車「紅星號」發布，瞄準富人"
+        "德國之聲：美國航班大停飛  不是網路攻擊，問題出在哪裡？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "JR北海道新型觀光列車「紅星號」發布，瞄準富人",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75833"
+          "source": "德國之聲",
+          "title": "美國航班大停飛  不是網路攻擊，問題出在哪裡？",
+          "url": "https://www.dw.com/zh/美国航班大停飞-不是网络攻击，问题出在哪里？/a-79947450?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "美國職棒大聯盟村上在養樂多與東京六大的紀念比賽中投出第一球",
+      "title": "美高官：特朗普將與普習談核裁軍 預計不單獨見普京、不談俄烏戰爭",
       "summary": [
-        "NHK新聞：美國職棒大聯盟村上在養樂多與東京六大的紀念比賽中投出第一球"
+        "法廣RFI：美高官：特朗普將與普習談核裁軍 預計不單獨見普京、不談俄烏戰爭"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "美國職棒大聯盟村上在養樂多與東京六大的紀念比賽中投出第一球",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75935"
+          "source": "法廣RFI",
+          "title": "美高官：特朗普將與普習談核裁軍 預計不單獨見普京、不談俄烏戰爭",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261114-%E7%BE%8E%E9%AB%98%E5%AE%98-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%87%E8%88%87%E6%99%AE%E7%BF%92%E8%AB%87%E6%A0%B8%E8%A3%81%E8%BB%8D-%E9%A0%90%E8%A8%88%E4%B8%8D%E5%96%AE%E7%8D%A8%E8%A6%8B%E6%99%AE%E4%BA%AC-%E4%B8%8D%E8%AB%87%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "由於強烈反對，愛沙尼亞禁止俄羅斯運動員參賽",
+      "title": "明天是橫田惠被綁架49週年，家人在新潟集會上呼籲",
       "summary": [
-        "BBC World：由於強烈反對，愛沙尼亞禁止俄羅斯運動員參賽"
+        "NHK新聞：明天是橫田惠被綁架49週年，家人在新潟集會上呼籲"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "BBC World",
-          "title": "由於強烈反對，愛沙尼亞禁止俄羅斯運動員參賽",
-          "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss"
+          "source": "NHK新聞",
+          "title": "明天是橫田惠被綁架49週年，家人在新潟集會上呼籲",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75866"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "休皮爾 (Huw Pill) 訪談紀錄",
+      "title": "美國聯邦航空局地面停留後美國航班恢復，但旅行混亂仍在繼續",
       "summary": [
-        "Financial Times：休皮爾 (Huw Pill) 訪談紀錄"
+        "CNBC：美國聯邦航空局地面停留後美國航班恢復，但旅行混亂仍在繼續"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "休皮爾 (Huw Pill) 訪談紀錄",
-          "url": "https://www.ft.com/content/014fae08-ab39-4fa2-b9d3-f0c961a6710f"
+          "source": "CNBC",
+          "title": "美國聯邦航空局地面停留後美國航班恢復，但旅行混亂仍在繼續",
+          "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
         }
       ]
     }
