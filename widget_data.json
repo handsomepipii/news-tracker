@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 23:57",
+  "updated_at": "2026-11-15 00:26",
   "taiwan": [
     {
       "rank": 1,
@@ -51,27 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "美媒：新加坡曾扣黃仁勳婚外情女主角護照8個月 向美方求助碰壁",
-      "summary": [
-        "經濟日報：美媒：新加坡曾扣黃仁勳婚外情女主角護照8個月 向美方求助碰壁",
-        "MoneyDJ理財網：新加坡扣黃樂護照8個月查輝達晶片案獲美協助有限- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美媒：新加坡曾扣黃仁勳婚外情女主角護照8個月 向美方求助碰壁",
-          "url": "https://money.udn.com/money/story/5599/9878486"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "新加坡扣黃樂護照8個月查輝達晶片案獲美協助有限- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQlpsQjgySUlhZzZFbW9nM0tfNndUWDlNNWM3R3hTb0UwLW1YOTlKb0w2d2lOZ2hlSVdzSW5CdTRWbVM0WmxoUm4zbkVyemt0RWVJYzUyT1Bab1Jkc0xmakhIVmRpYU1qdHoyaklXM0lVdGZOTkZpMHhaSWlxR3Q0QVhtSFcxcjNVTFp4ZVBHTkRfQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "京晨科董事會決議發行116年度第一次有擔保普通公司債，上限2億元- 新聞",
       "summary": [
         "MoneyDJ理財網：京晨科董事會決議發行116年度第一次有擔保普通公司債，上限2億元- 新聞",
@@ -92,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "20261114 公視午間新聞 完整版（無網路版權內容除外）｜通訊故障致全美停飛逾4小時 目前已解除、逾千架航班遭取消",
       "summary": [
         "公視新聞：20261114 公視午間新聞 完整版（無網路版權內容除外）｜通訊故障致全美停飛逾4小時 目前已解除、逾千架航班遭取消",
@@ -113,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "吳欣岱緊追高喊「挺性侵」 陳宥丞重申：支援退選",
       "summary": [
         "自由時報：吳欣岱緊追高喊「挺性侵」 陳宥丞重申：支援退選",
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "印度巴士與卡車迎面相撞 至少26死",
       "summary": [
         "自由時報：印度巴士與卡車迎面相撞 至少26死",
@@ -155,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "精材董事會決議透過與客戶簽訂產能外包協議，成為先進封裝供應鏈中oS模組生力軍",
       "summary": [
         "公開資訊觀測站重訊：精材董事會決議透過與客戶簽訂產能外包協議，成為先進封裝供應鏈中oS模組生力軍",
@@ -176,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "國泰人壽斥逾92億元佈局倉儲、危老案 透過發債350億元",
       "summary": [
         "鉅亨網：國泰人壽斥逾92億元佈局倉儲、危老案 透過發債350億元",
@@ -197,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "雄工營養午餐有煮熟2公分蛙  衛生局罰18萬今再突擊稽查",
       "summary": [
         "自由時報：雄工營養午餐有煮熟2公分蛙  衛生局罰18萬今再突擊稽查",
@@ -214,6 +193,27 @@
           "source": "公視新聞",
           "title": "雄工營養午餐出現似蛙類異物 衛生局依法裁罰18萬元",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1R3NQRmk3T3RSSjVDZDlQTk1ibS1palM2OVVWbEVtWVVtb1NaSGJHbmVfTm5kcU9TQlhobVVrcnZKT2V2aEh0eG9nSjFGcjQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "正達董事會決議增加投資正達戰術科技，計4.7億元",
+      "summary": [
+        "公開資訊觀測站重訊：正達董事會決議增加投資正達戰術科技，計4.7億元",
+        "MoneyDJ理財網：正達董事會決議增加投資正達戰術科技，計4.7億元- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "正達董事會決議增加投資正達戰術科技，計4.7億元",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbUo5QXlSTXl5Yy1HOHI0bWJlMEU2MGRCUlh1UEtFYzQyNGZJWmo2TXUxSnNiSTlYYVVQcEREZXBHdmhzdWp6TTM2LTl4eWdKQmFYbjc2M2gwazhJOC1odUNKS0wwLWVXYUw3aV9reTQyZFRvUF9GdWRVOW16XzJIT0hId0JHUUFjQlRHRzNPMkRCUQ?oc=5"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "正達董事會決議增加投資正達戰術科技，計4.7億元- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0M5RUFVZEJ4NTJUdDBsaWZSUkw1M2ZNTFlReFFfTjVqMjBvTHRGaHU2dElPTnZ6dENubUI1aUJCVF91aUxESHJaSk9QMXJPNjRHcTRBaWoycFNRaTlLekN6NVQ3d0s4azJpNEs5T3YyN0puOTI4eVFkci1yQUtqQTdkV2loT3V3Vl9yUEx4NUx6Zw?oc=5"
         }
       ]
     }
@@ -362,46 +362,46 @@
     },
     {
       "rank": 8,
-      "title": "馬斯克等矽谷盟友力挺黃仁勛，稱其「不可替代」",
+      "title": "法官在權衡高爾夫球場的未來時再次與司法部律師發生衝突",
       "summary": [
-        "紐約時報中文：馬斯克等矽谷盟友力挺黃仁勛，稱其「不可替代」"
+        "Washington Post：法官在權衡高爾夫球場的未來時再次與司法部律師發生衝突"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "紐約時報中文",
-          "title": "馬斯克等矽谷盟友力挺黃仁勛，稱其「不可替代」",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWswcnF4b2pLMkh0NUtJdUtRUjRTY2pyNi1vTGZFdzlmZktneTV5d3hjU1VlY3NsLVFuYzlQZkxKczZUMEZuYVBkRmZmQXlieHdva2h2X25BdUZzM3RZMnI5c2ZUS1QxWGhsQnZlWnh3RnVsbXJFUXUyTEhEMTF3LW5wWnhfSTdCYjBXOA?oc=5"
+          "source": "Washington Post",
+          "title": "法官在權衡高爾夫球場的未來時再次與司法部律師發生衝突",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM29abjVTeFF4dkpQS05JUjBzS0RabWwzZ2hjWXFzN1FwZV9iM1AxaEtGZVJ0Y2hDRmdfdU1Hcl9kRnZGRU1MNDBVcmNXTXp4bWVBcGVHMk1DMnFlaEpqX085b3VxakM0WTViYUNsNGVUa1FHa1VWOHdFNkF3STJUMnFuc3VuUEZQSnh1NjN5TTJYeVVFYnFSOThxM2lvTm80dTFCeVRpMXFBdy0wNTFaekhLQ0xBYnc5?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "京成電鐵訂票系統遭非法訪問，多達337萬則資訊洩露",
+      "title": "央視稱中國將以清潔能源滿足所有新的電力需求",
       "summary": [
-        "NHK新聞：京成電鐵訂票系統遭非法訪問，多達337萬則資訊洩露"
+        "Bloomberg Markets：央視稱中國將以清潔能源滿足所有新的電力需求"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "京成電鐵訂票系統遭非法訪問，多達337萬則資訊洩露",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75830"
+          "source": "Bloomberg Markets",
+          "title": "央視稱中國將以清潔能源滿足所有新的電力需求",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "多摩之家因涉嫌詐欺帳單而退出保險代理業務，考慮進行外部調查",
+      "title": "馬斯克 (Elon Musk) 能否讓黃仁勳 (Jensen Huang) 重新擔任 Nvidia 執行長？",
       "summary": [
-        "NHK新聞：多摩之家因涉嫌詐欺帳單而退出保險代理業務，考慮進行外部調查"
+        "Yahoo Finance：馬斯克 (Elon Musk) 能否讓黃仁勳 (Jensen Huang) 重新擔任 Nvidia 執行長？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "多摩之家因涉嫌詐欺帳單而退出保險代理業務，考慮進行外部調查",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75846"
+          "source": "Yahoo Finance",
+          "title": "馬斯克 (Elon Musk) 能否讓黃仁勳 (Jensen Huang) 重新擔任 Nvidia 執行長？",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONEtyRXhGWFZvMWswbUZ1bzRvQ0FvNTBzR2dZZ1c5Z19wcktIQllKdzhIR1RXSGFCVlpDel84MjM4YVU1VTVQVzFlNlQ3THdGWHpRd1ZIenVUUFU1bXpJeDdLUmtHTVQ5dmU0aVlaUXFuNUk1dEg1bUVNVHpaUldWVEVmY1RZUmJKMF96Y0hzQWpoU1hlVzl0eQ?oc=5"
         }
       ]
     }
