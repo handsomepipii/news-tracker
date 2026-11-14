@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-14 23:26",
+  "updated_at": "2026-11-14 23:57",
   "taiwan": [
     {
       "rank": 1,
+      "title": "JHBL》愛子劉衡首秀展射手本色  劉孟竹到場觀賽超感動",
+      "summary": [
+        "自由時報：JHBL》愛子劉衡首秀展射手本色  劉孟竹到場觀賽超感動",
+        "ETtoday：弘前城天守閣回歸　臺中大遠百日本文化物產展登場",
+        "MoneyDJ理財網：漢康-KY創公告本公司經理人異動- 新聞"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "JHBL》愛子劉衡首秀展射手本色  劉孟竹到場觀賽超感動",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5640648"
+        },
+        {
+          "source": "ETtoday",
+          "title": "弘前城天守閣回歸　臺中大遠百日本文化物產展登場",
+          "url": "https://www.ettoday.net/news/20261114/3272250.htm"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "漢康-KY創公告本公司經理人異動- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XZGxGSXp3azFTY1NiMVd6eXpnXzlsRXBFOTN2OHg0RmlQdUN3ZVd2Z0hWbmhFM0hrQjFXeklqcDZneE1xMWJOVXhQdHFMVGZhYnNfNUdGU2ZrT1d2eXowSy10QmlSZ2MtdmxSdVhfak02ZVVoREE5NA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "日月光投控：日月光半導體製造9/21~11/13向萬潤取得營業用機器裝置，計約10億",
       "summary": [
         "MoneyDJ理財網：日月光投控：日月光半導體製造9/21~11/13向萬潤取得營業用機器裝置，計約10億",
@@ -23,7 +50,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "美媒：新加坡曾扣黃仁勳婚外情女主角護照8個月 向美方求助碰壁",
       "summary": [
         "經濟日報：美媒：新加坡曾扣黃仁勳婚外情女主角護照8個月 向美方求助碰壁",
@@ -44,7 +71,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "京晨科董事會決議發行116年度第一次有擔保普通公司債，上限2億元- 新聞",
       "summary": [
         "MoneyDJ理財網：京晨科董事會決議發行116年度第一次有擔保普通公司債，上限2億元- 新聞",
@@ -65,7 +92,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "20261114 公視午間新聞 完整版（無網路版權內容除外）｜通訊故障致全美停飛逾4小時 目前已解除、逾千架航班遭取消",
       "summary": [
         "公視新聞：20261114 公視午間新聞 完整版（無網路版權內容除外）｜通訊故障致全美停飛逾4小時 目前已解除、逾千架航班遭取消",
@@ -86,7 +113,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "吳欣岱緊追高喊「挺性侵」 陳宥丞重申：支援退選",
       "summary": [
         "自由時報：吳欣岱緊追高喊「挺性侵」 陳宥丞重申：支援退選",
@@ -107,7 +134,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "印度巴士與卡車迎面相撞 至少26死",
       "summary": [
         "自由時報：印度巴士與卡車迎面相撞 至少26死",
@@ -128,7 +155,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "精材董事會決議透過與客戶簽訂產能外包協議，成為先進封裝供應鏈中oS模組生力軍",
       "summary": [
         "公開資訊觀測站重訊：精材董事會決議透過與客戶簽訂產能外包協議，成為先進封裝供應鏈中oS模組生力軍",
@@ -149,7 +176,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "國泰人壽斥逾92億元佈局倉儲、危老案 透過發債350億元",
       "summary": [
         "鉅亨網：國泰人壽斥逾92億元佈局倉儲、危老案 透過發債350億元",
@@ -170,7 +197,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "雄工營養午餐有煮熟2公分蛙  衛生局罰18萬今再突擊稽查",
       "summary": [
         "自由時報：雄工營養午餐有煮熟2公分蛙  衛生局罰18萬今再突擊稽查",
@@ -187,27 +214,6 @@
           "source": "公視新聞",
           "title": "雄工營養午餐出現似蛙類異物 衛生局依法裁罰18萬元",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1R3NQRmk3T3RSSjVDZDlQTk1ibS1palM2OVVWbEVtWVVtb1NaSGJHbmVfTm5kcU9TQlhobVVrcnZKT2V2aEh0eG9nSjFGcjQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "正達董事會決議增加投資正達戰術科技，計4.7億元",
-      "summary": [
-        "公開資訊觀測站重訊：正達董事會決議增加投資正達戰術科技，計4.7億元",
-        "MoneyDJ理財網：正達董事會決議增加投資正達戰術科技，計4.7億元- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "正達董事會決議增加投資正達戰術科技，計4.7億元",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbUo5QXlSTXl5Yy1HOHI0bWJlMEU2MGRCUlh1UEtFYzQyNGZJWmo2TXUxSnNiSTlYYVVQcEREZXBHdmhzdWp6TTM2LTl4eWdKQmFYbjc2M2gwazhJOC1odUNKS0wwLWVXYUw3aV9reTQyZFRvUF9GdWRVOW16XzJIT0hId0JHUUFjQlRHRzNPMkRCUQ?oc=5"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "正達董事會決議增加投資正達戰術科技，計4.7億元- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0M5RUFVZEJ4NTJUdDBsaWZSUkw1M2ZNTFlReFFfTjVqMjBvTHRGaHU2dElPTnZ6dENubUI1aUJCVF91aUxESHJaSk9QMXJPNjRHcTRBaWoycFNRaTlLekN6NVQ3d0s4azJpNEs5T3YyN0puOTI4eVFkci1yQUtqQTdkV2loT3V3Vl9yUEx4NUx6Zw?oc=5"
         }
       ]
     }
@@ -356,46 +362,46 @@
     },
     {
       "rank": 8,
-      "title": "英法德等五國歐洲代表參加烏克蘭和談",
+      "title": "馬斯克等矽谷盟友力挺黃仁勛，稱其「不可替代」",
       "summary": [
-        "NHK新聞：英法德等五國歐洲代表參加烏克蘭和談"
+        "紐約時報中文：馬斯克等矽谷盟友力挺黃仁勛，稱其「不可替代」"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "英法德等五國歐洲代表參加烏克蘭和談",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75776"
+          "source": "紐約時報中文",
+          "title": "馬斯克等矽谷盟友力挺黃仁勛，稱其「不可替代」",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWswcnF4b2pLMkh0NUtJdUtRUjRTY2pyNi1vTGZFdzlmZktneTV5d3hjU1VlY3NsLVFuYzlQZkxKczZUMEZuYVBkRmZmQXlieHdva2h2X25BdUZzM3RZMnI5c2ZUS1QxWGhsQnZlWnh3RnVsbXJFUXUyTEhEMTF3LW5wWnhfSTdCYjBXOA?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "「我們有一天會回家」——受到全國地面停留影響的美國遊客",
+      "title": "京成電鐵訂票系統遭非法訪問，多達337萬則資訊洩露",
       "summary": [
-        "BBC World：「我們有一天會回家」——受到全國地面停留影響的美國遊客"
+        "NHK新聞：京成電鐵訂票系統遭非法訪問，多達337萬則資訊洩露"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "BBC World",
-          "title": "「我們有一天會回家」——受到全國地面停留影響的美國遊客",
-          "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss"
+          "source": "NHK新聞",
+          "title": "京成電鐵訂票系統遭非法訪問，多達337萬則資訊洩露",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75830"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "美國計劃徹底改革空中交通管制系統，例如“以70英里/小時的速度更換輪胎”",
+      "title": "多摩之家因涉嫌詐欺帳單而退出保險代理業務，考慮進行外部調查",
       "summary": [
-        "Financial Times：美國計劃徹底改革空中交通管制系統，例如“以70英里/小時的速度更換輪胎”"
+        "NHK新聞：多摩之家因涉嫌詐欺帳單而退出保險代理業務，考慮進行外部調查"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "美國計劃徹底改革空中交通管制系統，例如“以70英里/小時的速度更換輪胎”",
-          "url": "https://www.ft.com/content/1cbee3e3-b4cf-4831-bd4e-ac1653c7c7c7?syn-25a6b1a6=1"
+          "source": "NHK新聞",
+          "title": "多摩之家因涉嫌詐欺帳單而退出保險代理業務，考慮進行外部調查",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75846"
         }
       ]
     }
