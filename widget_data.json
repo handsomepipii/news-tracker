@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 10:28",
+  "updated_at": "2026-11-14 10:58",
   "taiwan": [
     {
       "rank": 1,
@@ -30,27 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "蔣萬安「饒河夜市掃街」沈伯洋赴桃「合體黃世傑」｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-      "summary": [
-        "TVBS新聞：蔣萬安「饒河夜市掃街」沈伯洋赴桃「合體黃世傑」｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-        "自由時報：蔣萬安辦「安心大遊行」！黃帝穎揭2大案怒嗆：憑什麼喊安心？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "蔣萬安「饒河夜市掃街」沈伯洋赴桃「合體黃世傑」｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1akFYWnJhVE84azFqUmVaaWVFT3RJQW5jRF9lOHBsZUo2TEpiQk1DVG52TlUwMUtLNEdONC02ODJyamZvY2phVkRXVWs2aU5iNHZFWU5n?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "蔣萬安辦「安心大遊行」！黃帝穎揭2大案怒嗆：憑什麼喊安心？",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640246"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "黃仁勳卸任輝達執行長重創科技股　歐股漲跌互見",
       "summary": [
         "自由時報：黃仁勳卸任輝達執行長重創科技股　歐股漲跌互見",
@@ -71,7 +50,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "黃仁勳風波「3負面影響」？矢板明夫：對臺灣是重大損失",
       "summary": [
         "自由時報：黃仁勳風波「3負面影響」？矢板明夫：對臺灣是重大損失",
@@ -92,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "靠AI提升效率，Appier Q3營業利益翻倍、毛利率61.3%創高！連兩季上修全年獲利財測，現金股利估2.5日圓 | 魏鑫陽 | 財經",
       "summary": [
         "風傳媒：靠AI提升效率，Appier Q3營業利益翻倍、毛利率61.3%創高！連兩季上修全年獲利財測，現金股利估2.5日圓 | 魏鑫陽 | 財經",
@@ -113,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "張惠妹爆壓軸唱建中校慶舞會！　主辦拋4大線索…天后全符合",
       "summary": [
         "ETtoday：張惠妹爆壓軸唱建中校慶舞會！　主辦拋4大線索…天后全符合",
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "罕見「冬天雷雨」今午後開炸　下週2波東北季風變天",
       "summary": [
         "ETtoday：罕見「冬天雷雨」今午後開炸　下週2波東北季風變天",
@@ -151,6 +130,27 @@
           "source": "自由時報",
           "title": "午後鋒面快閃！專家：恐有冬天罕見劇烈雷雨",
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5640237"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "「馬斯克力挺黃仁勳」原因曝光！　輝達10年前舊文出土",
+      "summary": [
+        "ETtoday：「馬斯克力挺黃仁勳」原因曝光！　輝達10年前舊文出土",
+        "自由時報：馬斯克為何力挺黃仁勳？10年前「這件事」曝光"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "「馬斯克力挺黃仁勳」原因曝光！　輝達10年前舊文出土",
+          "url": "https://www.ettoday.net/news/20261114/3271911.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "馬斯克為何力挺黃仁勳？10年前「這件事」曝光",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5640348"
         }
       ]
     },
@@ -262,7 +262,7 @@
       "summary": [
         "MarketWatch：SpaceX 即將嘗試火箭技術的“聖杯”",
         "BBC World：SpaceX 嘗試雙重捕捉巨型星艦火箭",
-        "CNBC：SpaceX 大型火箭的關鍵試飛中發射星艦"
+        "CNBC：SpaceX 在大型火箭的關鍵試飛中發射星艦"
       ],
       "media_count": 3,
       "links": [
@@ -278,7 +278,7 @@
         },
         {
           "source": "CNBC",
-          "title": "SpaceX 大型火箭的關鍵試飛中發射星艦",
+          "title": "SpaceX 在大型火箭的關鍵試飛中發射星艦",
           "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
         }
       ]
