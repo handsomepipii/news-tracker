@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 10:58",
+  "updated_at": "2026-11-14 11:31",
   "taiwan": [
     {
       "rank": 1,
@@ -221,19 +221,14 @@
   "global": [
     {
       "rank": 1,
-      "title": "【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
+      "title": "美國航空監管機構停飛所有離港航班",
       "summary": [
-        "NHK新聞：【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
         "Financial Times：美國航空監管機構停飛所有離港航班",
-        "Bloomberg Markets：因空中交通管制問題美國各地航班停飛"
+        "Bloomberg Markets：美國聯邦航空管理局 (FAA) 停飛全國所有航班",
+        "CNBC：美國聯邦航空局以空中交通通訊系統中斷為由，停飛全國航班"
       ],
       "media_count": 5,
       "links": [
-        {
-          "source": "NHK新聞",
-          "title": "【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75764"
-        },
         {
           "source": "Financial Times",
           "title": "美國航空監管機構停飛所有離港航班",
@@ -241,8 +236,8 @@
         },
         {
           "source": "Bloomberg Markets",
-          "title": "因空中交通管制問題美國各地航班停飛",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-13/flights-grounded-across-us-video"
+          "title": "美國聯邦航空管理局 (FAA) 停飛全國所有航班",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/faa-grounds-all-flights-nationwide-video"
         },
         {
           "source": "CNBC",
@@ -253,33 +248,38 @@
           "source": "Yahoo Finance",
           "title": "美國聯邦航空局下令全國所有航班停飛，航空公司股票下跌",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUkc1ZFZkTVppV0JQNnJWS0RLSlEwLUlXRFhORmpMbk12VjBYamNtV3RSSjFJU3lCWkxLQ2xtdGdWZkVrOUJDbDhUUkluZDVCUnhpd1B5VmdsbHN0dFdQN0dJbHVyNnJKbDJGdlNlX0RGcUNTclhWV2NrODBOejJLV0FseHhXYUNTbC00d25WbHU3bDR4S1llQ3NCMjFfemdSVzkxbWc4eVFXdmFTbUN3NmdXck5DQUdQWkR3SEh0bldLNGpw?oc=5"
+        },
+        {
+          "source": "Investing.com",
+          "title": "空中交通管制通訊中斷後，美國聯邦航空管理局 (FAA) 停飛全國航班",
+          "url": "https://www.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-5026489"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "SpaceX 即將嘗試火箭技術的“聖杯”",
+      "title": "【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
       "summary": [
-        "MarketWatch：SpaceX 即將嘗試火箭技術的“聖杯”",
-        "BBC World：SpaceX 嘗試雙重捕捉巨型星艦火箭",
-        "CNBC：SpaceX 在大型火箭的關鍵試飛中發射星艦"
+        "NHK新聞：【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
+        "Bloomberg Markets：因空中交通管制問題美國各地航班停飛",
+        "Yahoo Finance：空中交通通訊中斷後美國各地航班停飛"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "MarketWatch",
-          "title": "SpaceX 即將嘗試火箭技術的“聖杯”",
-          "url": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories"
+          "source": "NHK新聞",
+          "title": "【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75764"
         },
         {
-          "source": "BBC World",
-          "title": "SpaceX 嘗試雙重捕捉巨型星艦火箭",
-          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+          "source": "Bloomberg Markets",
+          "title": "因空中交通管制問題美國各地航班停飛",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/flights-grounded-across-us-video"
         },
         {
-          "source": "CNBC",
-          "title": "SpaceX 在大型火箭的關鍵試飛中發射星艦",
-          "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
+          "source": "Yahoo Finance",
+          "title": "空中交通通訊中斷後美國各地航班停飛",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMTdxT3I1cDJoUXI0bDM0VmxBSDdPZDJUNHZqTmo4YVR4N2RWNEtaT3NKNmZRSVlkTnUxSlZtMjFOdmRhWkhJM3VXRUVqS1ZZcXpaNUtQYVdiU0VzYUp3NFA4bXp1VE9NVXZodUF6RWI1TjJzU25GS2NZcEl2VUNETkZwOA?oc=5"
         }
       ]
     },
@@ -396,6 +396,27 @@
     },
     {
       "rank": 8,
+      "title": "SpaceX 即將嘗試火箭技術的“聖杯”",
+      "summary": [
+        "MarketWatch：SpaceX 即將嘗試火箭技術的“聖杯”",
+        "CNBC：SpaceX 在大型火箭的關鍵試飛中發射星艦"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MarketWatch",
+          "title": "SpaceX 即將嘗試火箭技術的“聖杯”",
+          "url": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories"
+        },
+        {
+          "source": "CNBC",
+          "title": "SpaceX 在大型火箭的關鍵試飛中發射星艦",
+          "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "獨家－亞馬遜計畫擁有全球商品資料，對抗AI代購",
       "summary": [
         "Investing.com：獨家－亞馬遜計畫擁有全球商品資料，對抗AI代購",
@@ -416,7 +437,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Newegg 預載遊戲電腦中裝載未發布的 Intel Core Ultra 7 260K CPU",
       "summary": [
         "Tom's Hardware：Newegg 預載遊戲電腦中裝載未發布的 Intel Core Ultra 7 260K CPU",
@@ -433,27 +454,6 @@
           "source": "Wccftech",
           "title": "Newegg獨家CPU Intel Core Ultra 7 260K悄悄上市，最高搭配GeForce RTX 5070，售價1,999美元",
           "url": "https://wccftech.com/intel-core-ultra-7-260k-quietly-launches-as-newegg-exclusive-cpu/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "報道稱，英偉達執行長黃仁勳在辭職會議上“心碎”",
-      "summary": [
-        "Tom's Hardware：報道稱，英偉達執行長黃仁勳在辭職會議上“心碎”",
-        "法廣RFI：黃仁勳何竟只因婚外情被迫辭職英偉達執行長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Tom's Hardware",
-          "title": "報道稱，英偉達執行長黃仁勳在辭職會議上“心碎”",
-          "url": "https://www.tomshardware.com/tech-industry/broken-and-shattered-nvidia-ceo-jensen-huang-surrendered-during-resignation-meeting-report-claims-thousands-of-employees-rally-calling-for-reinstatement-on-internal-forum"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "黃仁勳何竟只因婚外情被迫辭職英偉達執行長",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261114-%E9%BB%83%E4%BB%81%E5%8B%B3%E4%BD%95%E7%AB%9F%E5%8F%AA%E5%9B%A0%E5%A9%9A%E5%A4%96%E6%83%85%E8%A2%AB%E8%BF%AB%E8%BE%AD%E8%81%B7%E8%8B%B1%E5%81%89%E9%81%94%E5%9F%B7%E8%A1%8C%E9%95%B7"
         }
       ]
     }
