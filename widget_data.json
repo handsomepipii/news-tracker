@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 21:26",
+  "updated_at": "2026-11-14 21:55",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "美國全境航班停飛令解除  4000架次取消",
+      "summary": [
+        "自由時報：美國全境航班停飛令解除  4000架次取消",
+        "公視新聞：20261114 公視午間新聞 完整版（無網路版權內容除外）｜通訊故障致全美停飛逾4小時 目前已解除、逾千架航班遭取消",
+        "風傳媒：全美超過4千航班被取消！FAA解除停飛令：不是恐攻、也非微軟釀禍，只因系統太老舊| 李靖棠| 新聞"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美國全境航班停飛令解除  4000架次取消",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5640350"
+        },
+        {
+          "source": "公視新聞",
+          "title": "20261114 公視午間新聞 完整版（無網路版權內容除外）｜通訊故障致全美停飛逾4小時 目前已解除、逾千架航班遭取消",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ydDhGQ0FpemllbmxkYTJNbEV6VDJYelZleVFuME5XYTdoYlhVcVN3dUhhdFIzemI0eGhqSzZoZTNCbDFhb0x6S2QwNA?oc=5"
+        },
+        {
+          "source": "風傳媒",
+          "title": "全美超過4千航班被取消！FAA解除停飛令：不是恐攻、也非微軟釀禍，只因系統太老舊| 李靖棠| 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVcW53NXVWTDZjSjN4SjVTWkNhTzRjMmN3TFAyWDh6OFNIVXp6QkNVaU5lS1Qta2ltUF9jZ0p6QXZjNjRXUVkxSWFvMUpaZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "黃仁勳下臺幕後推手是他！華郵：對中鷹派記仇 摧毀黃對川普的影響力",
       "summary": [
         "經濟日報：黃仁勳下臺幕後推手是他！華郵：對中鷹派記仇 摧毀黃對川普的影響力",
@@ -56,27 +83,6 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "美國全境航班停飛令解除！逾萬架次延誤、4000架次取消",
-      "summary": [
-        "經濟日報：美國全境航班停飛令解除！逾萬架次延誤、4000架次取消",
-        "自由時報：美國全境航班停飛令解除  4000架次取消"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美國全境航班停飛令解除！逾萬架次延誤、4000架次取消",
-          "url": "https://money.udn.com/money/story/5599/9878195"
-        },
-        {
-          "source": "自由時報",
-          "title": "美國全境航班停飛令解除  4000架次取消",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5640350"
-        }
-      ]
-    },
-    {
       "rank": 4,
       "title": "日月光投控：日月光半導體製造9/21~11/13向萬潤取得營業用機器裝置，計約10億",
       "summary": [
@@ -99,22 +105,22 @@
     },
     {
       "rank": 5,
-      "title": "全國首例！疑貪圖高額檢舉獎金  男買酒誣陷宜蘭議員候選人行賄被收押",
+      "title": "美媒：新加坡曾扣黃仁勳婚外情女主角護照8個月 向美方求助碰壁",
       "summary": [
-        "自由時報：全國首例！疑貪圖高額檢舉獎金  男買酒誣陷宜蘭議員候選人行賄被收押",
-        "公視新聞：全國首起大選假檢舉案 男涉自行買酒栽贓議員賄選｜20261114 公視晚間新聞 ｜ 公視新聞 PNN"
+        "經濟日報：美媒：新加坡曾扣黃仁勳婚外情女主角護照8個月 向美方求助碰壁",
+        "MoneyDJ理財網：新加坡扣黃樂護照8個月查輝達晶片案獲美協助有限- 新聞"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "全國首例！疑貪圖高額檢舉獎金  男買酒誣陷宜蘭議員候選人行賄被收押",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640312"
+          "source": "經濟日報",
+          "title": "美媒：新加坡曾扣黃仁勳婚外情女主角護照8個月 向美方求助碰壁",
+          "url": "https://money.udn.com/money/story/5599/9878486"
         },
         {
-          "source": "公視新聞",
-          "title": "全國首起大選假檢舉案 男涉自行買酒栽贓議員賄選｜20261114 公視晚間新聞 ｜ 公視新聞 PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GRmxYX3dlMFp5RDNNNGpRM3BBendRSmw4RFlibXNhbUxHQmdhbkRxeXZCSlUtMkdCMzRTZVpZbVVfaHR6NGxNUmloWQ?oc=5"
+          "source": "MoneyDJ理財網",
+          "title": "新加坡扣黃樂護照8個月查輝達晶片案獲美協助有限- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQlpsQjgySUlhZzZFbW9nM0tfNndUWDlNNWM3R3hTb0UwLW1YOTlKb0w2d2lOZ2hlSVdzSW5CdTRWbVM0WmxoUm4zbkVyemt0RWVJYzUyT1Bab1Jkc0xmakhIVmRpYU1qdHoyaklXM0lVdGZOTkZpMHhaSWlxR3Q0QVhtSFcxcjNVTFp4ZVBHTkRfQQ?oc=5"
         }
       ]
     },
@@ -141,6 +147,27 @@
     },
     {
       "rank": 7,
+      "title": "蘇巧慧遭麥克風撞斷門牙 李四川暖發文：期盼早日康復",
+      "summary": [
+        "自由時報：蘇巧慧遭麥克風撞斷門牙 李四川暖發文：期盼早日康復",
+        "ETtoday：蘇巧慧獻唱牙齒當場斷一顆！李四川急關心　喊早日康復"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "蘇巧慧遭麥克風撞斷門牙 李四川暖發文：期盼早日康復",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641054"
+        },
+        {
+          "source": "ETtoday",
+          "title": "蘇巧慧獻唱牙齒當場斷一顆！李四川急關心　喊早日康復",
+          "url": "https://www.ettoday.net/news/20261114/3272336.htm"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "妻涉發7.6萬元交樁腳買票！嘉檢破獲村長賄選案　候選人交保",
       "summary": [
         "ETtoday：妻涉發7.6萬元交樁腳買票！嘉檢破獲村長賄選案　候選人交保",
@@ -161,7 +188,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "黃仁勳外遇丟了輝達CEO，臺積電該擔心？AI訂單滿手也保不了國安...一場桃色風暴，如何戳破臺灣「矽盾」神話？",
       "summary": [
         "今周刊：黃仁勳外遇丟了輝達CEO，臺積電該擔心？AI訂單滿手也保不了國安...一場桃色風暴，如何戳破臺灣「矽盾」神話？",
@@ -178,27 +205,6 @@
           "source": "轉角國際",
           "title": "黃仁勳桃色風暴擋不住：中國間諜疑雲到公司內部婚外情，輝達面臨撤換CEO與接班問題",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BQm1iRHdkV2cxM3pYZ0d6QnJSZ1owTmZiNF9xTnp5aUxfVjNrWmdXc3JKR2pmUnVubDJCOTY3Rkt5c0J6bjdLNWhObm1VX0kzdU02cnZxRF9QOEs0aHk4WW1oaklnd9IBa0FVX3lxTFBBb0YyclNCemFWLWZ6TG53R1pKb3lweEw5ZkQ2NlFvX3ctTjJfanV2T0dxMmozUXRVNzdDVVhvcC1FN2p0SUFZcUdPZlN3T1lMUURLTVRyZFJndzhyakxZM1VPX0pqM0RPQkNZ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "20261114 公視午間新聞 完整版（無網路版權內容除外）｜通訊故障致全美停飛逾4小時 目前已解除、逾千架航班遭取消",
-      "summary": [
-        "公視新聞：20261114 公視午間新聞 完整版（無網路版權內容除外）｜通訊故障致全美停飛逾4小時 目前已解除、逾千架航班遭取消",
-        "風傳媒：全美超過4千航班被取消！FAA解除停飛令：不是恐攻、也非微軟釀禍，只因系統太老舊| 李靖棠| 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公視新聞",
-          "title": "20261114 公視午間新聞 完整版（無網路版權內容除外）｜通訊故障致全美停飛逾4小時 目前已解除、逾千架航班遭取消",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ydDhGQ0FpemllbmxkYTJNbEV6VDJYelZleVFuME5XYTdoYlhVcVN3dUhhdFIzemI0eGhqSzZoZTNCbDFhb0x6S2QwNA?oc=5"
-        },
-        {
-          "source": "風傳媒",
-          "title": "全美超過4千航班被取消！FAA解除停飛令：不是恐攻、也非微軟釀禍，只因系統太老舊| 李靖棠| 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVcW53NXVWTDZjSjN4SjVTWkNhTzRjMmN3TFAyWDh6OFNIVXp6QkNVaU5lS1Qta2ltUF9jZ0p6QXZjNjRXUVkxSWFvMUpaZw?oc=5"
         }
       ]
     },
@@ -227,19 +233,14 @@
   "global": [
     {
       "rank": 1,
-      "title": "空中交通通訊中斷後美國各地航班停飛",
+      "title": "美國航班停飛暴露空中交通網危機加深",
       "summary": [
-        "Yahoo Finance：空中交通通訊中斷後美國各地航班停飛",
         "Investing.com：美國航班停飛暴露空中交通網危機加深",
-        "Nikkei Asia：空中交通管制通訊中斷後，美國全國的航班停飛"
+        "Nikkei Asia：空中交通管制通訊中斷後，美國全國的航班停飛",
+        "德國之聲：美國航班大停飛  不是網路攻擊，問題出在哪裡？"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "空中交通通訊中斷後美國各地航班停飛",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMTdxT3I1cDJoUXI0bDM0VmxBSDdPZDJUNHZqTmo4YVR4N2RWNEtaT3NKNmZRSVlkTnUxSlZtMjFOdmRhWkhJM3VXRUVqS1ZZcXpaNUtQYVdiU0VzYUp3NFA4bXp1VE9NVXZodUF6RWI1TjJzU25GS2NZcEl2VUNETkZwOA?oc=5"
-        },
         {
           "source": "Investing.com",
           "title": "美國航班停飛暴露空中交通網危機加深",
@@ -334,6 +335,27 @@
     },
     {
       "rank": 5,
+      "title": "儘管進行了數十億美元的升級，美國聯邦航空局的關閉暴露了老化的空中交通系統",
+      "summary": [
+        "Investing.com：儘管進行了數十億美元的升級，美國聯邦航空局的關閉暴露了老化的空中交通系統",
+        "Bloomberg Markets：航空旅行的混亂使美國聯邦航空總署系統成為焦點"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "儘管進行了數十億美元的升級，美國聯邦航空局的關閉暴露了老化的空中交通系統",
+          "url": "https://www.investing.com/news/stock-market-news/faa-shutdown-exposes-aging-air-traffic-systems-despite-billions-in-upgrades-5027077"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "航空旅行的混亂使美國聯邦航空總署系統成為焦點",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-14/air-travel-chaos-puts-faa-systems-in-focus-video"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "澤倫斯基表示，美國已提議烏克蘭放棄頓巴斯以加入北約",
       "summary": [
         "BBC World：澤倫斯基表示，美國已提議烏克蘭放棄頓巴斯以加入北約",
@@ -354,7 +376,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "佳能促銷程式碼 30% 折扣 | 2026 年 11 月",
       "summary": [
         "Wired：佳能促銷程式碼 30% 折扣 | 2026 年 11 月"
@@ -369,37 +391,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "斯潘伯格將撤銷參與川普學校優惠券的決定",
-      "summary": [
-        "Washington Post：斯潘伯格將撤銷參與川普學校優惠券的決定"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "斯潘伯格將撤銷參與川普學校優惠券的決定",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzZaQVFfbTBDUzdCXzhIdTNaWXFuSjJuT3E4RGtVbTlXRUFWN0JQTVE1a1VNN0VDTzVjNHZuNWRCYUJQWFU0ZmZXY0puQ2JVNTZoU2UzdDlxMk9wNFdMSnltdUpKbnowUVRNZ256RGpfQm1pUk9HS3ZCNGxqQ0poVTZFUHJTczMyMlQzS2pLTE0zSEdFNU1NaENNcjMzQnFMWmQzR2I0Z3Q2MzVwcERhYmkyOHE?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 8,
-      "title": "美國聯邦航空局 (FAA) 全國範圍內的地面停留結束",
-      "summary": [
-        "Wired：美國聯邦航空局 (FAA) 全國範圍內的地面停留結束"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Wired",
-          "title": "美國聯邦航空局 (FAA) 全國範圍內的地面停留結束",
-          "url": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "英偉達董事會召開會議，討論黃仁勛去留- 紐約時報中文網",
       "summary": [
         "紐約時報中文：英偉達董事會召開會議，討論黃仁勛去留- 紐約時報中文網"
@@ -414,7 +406,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "印度寄望於人工智慧新創公司避免成為“數位殖民地”",
       "summary": [
         "Financial Times：印度寄望於人工智慧新創公司避免成為“數位殖民地”"
@@ -425,6 +417,21 @@
           "source": "Financial Times",
           "title": "印度寄望於人工智慧新創公司避免成為“數位殖民地”",
           "url": "https://www.ft.com/content/599cd9ab-dbd0-4c0d-818a-f6270871cd97?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Nvidia 新加坡銷售額的消失加深了 Megaspeed 的神秘面紗",
+      "summary": [
+        "WSJ Markets：Nvidia 新加坡銷售額的消失加深了 Megaspeed 的神秘面紗"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "WSJ Markets",
+          "title": "Nvidia 新加坡銷售額的消失加深了 Megaspeed 的神秘面紗",
+          "url": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?mod=rss_markets_main"
         }
       ]
     }
