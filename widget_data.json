@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-14 12:58",
+  "updated_at": "2026-11-14 13:29",
   "taiwan": [
     {
       "rank": 1,
+      "title": "美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
+      "summary": [
+        "經濟日報：美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
+        "TVBS新聞：電訊中斷! 全美航班暫停起飛 近8千航班延誤｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "公視新聞：20261114 公視午間新聞 完整版（無網路版權內容除外）｜通訊故障致全美停飛逾4小時 目前已解除、逾千架航班遭取消"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
+          "url": "https://money.udn.com/money/story/5599/9878089"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "電訊中斷! 全美航班暫停起飛 近8千航班延誤｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qWWFEZnB5N3otellhMXNRcl85MFhlakVWSHNyVkdxdmVXZi1PQ2VlSlVUVDJ3R1JZd0h5emtseEJHVDBrck9DMlNUZXR6Ry1zU2wtWnZ3?oc=5"
+        },
+        {
+          "source": "公視新聞",
+          "title": "20261114 公視午間新聞 完整版（無網路版權內容除外）｜通訊故障致全美停飛逾4小時 目前已解除、逾千架航班遭取消",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ydDhGQ0FpemllbmxkYTJNbEV6VDJYelZleVFuME5XYTdoYlhVcVN3dUhhdFIzemI0eGhqSzZoZTNCbDFhb0x6S2QwNA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "美國全境航班停飛令解除！逾萬架次延誤、4000架次取消",
       "summary": [
         "經濟日報：美國全境航班停飛令解除！逾萬架次延誤、4000架次取消",
@@ -23,7 +50,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "黃仁勳卸任輝達執行長重創科技股　歐股漲跌互見",
       "summary": [
         "自由時報：黃仁勳卸任輝達執行長重創科技股　歐股漲跌互見",
@@ -44,7 +71,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "黃仁勳風波「3負面影響」？矢板明夫：對臺灣是重大損失",
       "summary": [
         "自由時報：黃仁勳風波「3負面影響」？矢板明夫：對臺灣是重大損失",
@@ -65,7 +92,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "7年前專訪蔡英文也曾感動過 鍾明軒如今勇敢發問：妳還願意聽我說完嗎？",
       "summary": [
         "中時新聞：7年前專訪蔡英文也曾感動過 鍾明軒如今勇敢發問：妳還願意聽我說完嗎？",
@@ -86,7 +113,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "千億富豪宣佈「不再買輝達股票」：沒有黃仁勳就不買了",
       "summary": [
         "ETtoday：千億富豪宣佈「不再買輝達股票」：沒有黃仁勳就不買了",
@@ -107,7 +134,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "靠AI提升效率，Appier Q3營業利益翻倍、毛利率61.3%創高！連兩季上修全年獲利財測，現金股利估2.5日圓 | 魏鑫陽 | 財經",
       "summary": [
         "風傳媒：靠AI提升效率，Appier Q3營業利益翻倍、毛利率61.3%創高！連兩季上修全年獲利財測，現金股利估2.5日圓 | 魏鑫陽 | 財經",
@@ -128,7 +155,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "明開唱!山下智久飛抵高雄 超親民!摘墨鏡替粉絲簽名｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：明開唱!山下智久飛抵高雄 超親民!摘墨鏡替粉絲簽名｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -149,7 +176,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "張惠妹爆壓軸唱建中校慶舞會！　主辦拋4大線索…天后全符合",
       "summary": [
         "ETtoday：張惠妹爆壓軸唱建中校慶舞會！　主辦拋4大線索…天后全符合",
@@ -170,7 +197,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "罕見「冬天雷雨」今午後開炸　下週2波東北季風變天",
       "summary": [
         "ETtoday：罕見「冬天雷雨」今午後開炸　下週2波東北季風變天",
@@ -187,27 +214,6 @@
           "source": "自由時報",
           "title": "午後鋒面快閃！專家：恐有冬天罕見劇烈雷雨",
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5640237"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "「馬斯克力挺黃仁勳」原因曝光！　輝達10年前舊文出土",
-      "summary": [
-        "ETtoday：「馬斯克力挺黃仁勳」原因曝光！　輝達10年前舊文出土",
-        "自由時報：馬斯克為何力挺黃仁勳？10年前「這件事」曝光"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "「馬斯克力挺黃仁勳」原因曝光！　輝達10年前舊文出土",
-          "url": "https://www.ettoday.net/news/20261114/3271911.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "馬斯克為何力挺黃仁勳？10年前「這件事」曝光",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5640348"
         }
       ]
     }
@@ -256,7 +262,7 @@
       "summary": [
         "MarketWatch：SpaceX 即將嘗試火箭技術的“聖杯”",
         "BBC World：SpaceX 嘗試雙重捕捉巨型星艦火箭",
-        "CNBC：SpaceX 大型火箭的關鍵試飛中發射星艦"
+        "CNBC：SpaceX 在大型火箭的關鍵試飛中發射星艦"
       ],
       "media_count": 3,
       "links": [
@@ -272,7 +278,7 @@
         },
         {
           "source": "CNBC",
-          "title": "SpaceX 大型火箭的關鍵試飛中發射星艦",
+          "title": "SpaceX 在大型火箭的關鍵試飛中發射星艦",
           "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
         }
       ]
