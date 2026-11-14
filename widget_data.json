@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 15:27",
+  "updated_at": "2026-11-14 15:57",
   "taiwan": [
     {
       "rank": 1,
@@ -87,6 +87,27 @@
     },
     {
       "rank": 5,
+      "title": "黃仁勳婚外情掀「AI間諜戰」：中國國安部「晶片組」如何滲透矽谷科技鉅子？",
+      "summary": [
+        "關鍵評論網：黃仁勳婚外情掀「AI間諜戰」：中國國安部「晶片組」如何滲透矽谷科技鉅子？",
+        "自由時報：黃仁勳風暴扯出中國間諜網！華爾街日報揭60萬情報大軍鎖定AI晶片"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "關鍵評論網",
+          "title": "黃仁勳婚外情掀「AI間諜戰」：中國國安部「晶片組」如何滲透矽谷科技鉅子？",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3ZU53RTB6czFRUUtjcjFOaENVN3g0MUZPazZMcDdQcU5ib1ZmSGZCZVJhVVQ5QXI0YnZYWmlqbHAzeWtIUnFpbkQwN0R2VjlfN2xkSA?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "黃仁勳風暴扯出中國間諜網！華爾街日報揭60萬情報大軍鎖定AI晶片",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5640696"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
       "summary": [
         "經濟日報：美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
@@ -107,7 +128,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "SpaceX星艦「雙重捕捉」受挫！助推器爆炸落海 太空船續衝軌道",
       "summary": [
         "自由時報：SpaceX星艦「雙重捕捉」受挫！助推器爆炸落海 太空船續衝軌道",
@@ -128,7 +149,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "微軟全球大當機",
       "summary": [
         "TVBS新聞：微軟全球大當機",
@@ -149,7 +170,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "FAA新AI航管系統上線三天後全美航班停飛，通訊故障原因待查",
       "summary": [
         "自由時報：FAA新AI航管系統上線三天後全美航班停飛，通訊故障原因待查",
@@ -170,7 +191,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "林園警追緝毒駕通緝犯  嫌犯駕車衝撞遭開槍制伏",
       "summary": [
         "自由時報：林園警追緝毒駕通緝犯  嫌犯駕車衝撞遭開槍制伏",
@@ -187,27 +208,6 @@
           "source": "ETtoday",
           "title": "通緝犯拒檢狂飆！受困車陣還想撞警　警開槍逮人搜出海洛因",
           "url": "https://www.ettoday.net/news/20261114/3271965.htm"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "妻涉發7.6萬元交樁腳買票！嘉檢破獲村長賄選案　候選人交保",
-      "summary": [
-        "ETtoday：妻涉發7.6萬元交樁腳買票！嘉檢破獲村長賄選案　候選人交保",
-        "自由時報：嘉縣梅山村長選舉爆賄選 候選人妻砸7萬6買票邀聲押"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "妻涉發7.6萬元交樁腳買票！嘉檢破獲村長賄選案　候選人交保",
-          "url": "https://www.ettoday.net/news/20261114/3271993.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "嘉縣梅山村長選舉爆賄選 候選人妻砸7萬6買票邀聲押",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640478"
         }
       ]
     }
@@ -330,7 +330,7 @@
       "title": "SpaceX 嘗試雙重捕捉巨型星艦火箭",
       "summary": [
         "BBC World：SpaceX 嘗試雙重捕捉巨型星艦火箭",
-        "CNBC：SpaceX 大型火箭的關鍵試飛中發射星艦"
+        "CNBC：SpaceX 在大型火箭的關鍵試飛中發射星艦"
       ],
       "media_count": 2,
       "links": [
@@ -341,7 +341,7 @@
         },
         {
           "source": "CNBC",
-          "title": "SpaceX 大型火箭的關鍵試飛中發射星艦",
+          "title": "SpaceX 在大型火箭的關鍵試飛中發射星艦",
           "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
         }
       ]
