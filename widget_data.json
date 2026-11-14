@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 07:26",
+  "updated_at": "2026-11-15 07:56",
   "taiwan": [
     {
       "rank": 1,
@@ -30,33 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "站臺力挺張善政 韓國瑜：最善良政治人物",
-      "summary": [
-        "自由時報：站臺力挺張善政 韓國瑜：最善良政治人物",
-        "中時新聞：韓國瑜大讚張善政溫暖：我們一個少林、一個武當- 政治",
-        "ETtoday：張善政桃園造勢大會　韓國瑜盛讚：全臺政界最善良的政治人物"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "站臺力挺張善政 韓國瑜：最善良政治人物",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640926"
-        },
-        {
-          "source": "中時新聞",
-          "title": "韓國瑜大讚張善政溫暖：我們一個少林、一個武當- 政治",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ObEI5blNpdDlncFJzOU5hQVFheWdaRVpla2RhcmtyaG5pWVk1LVIyMVZuSmF1a0Z6U2hLd0JrT3lhSDU5MWFyZ3RvUWdTSWlLc2xyRFNnaThQS2tLTHVvbHdPUV94aDZPQ2N5LWRR?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "張善政桃園造勢大會　韓國瑜盛讚：全臺政界最善良的政治人物",
-          "url": "https://www.ettoday.net/news/20261114/3272368.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "（直擊）臺日友好！木村拓哉90度鞠躬：代表日本謝謝臺灣援助",
       "summary": [
         "自由時報：（直擊）臺日友好！木村拓哉90度鞠躬：代表日本謝謝臺灣援助",
@@ -77,7 +50,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "快訊／中華隊4比6飲恨韓國！曾聖安雙響難救　日韓會師冠軍戰",
       "summary": [
         "ETtoday：快訊／中華隊4比6飲恨韓國！曾聖安雙響難救　日韓會師冠軍戰",
@@ -98,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "《星光幫》男星逆風嗆青鳥不要惱怒 二度發聲又挨轟：怎不跟羅大佑說",
       "summary": [
         "自由時報：《星光幫》男星逆風嗆青鳥不要惱怒 二度發聲又挨轟：怎不跟羅大佑說",
@@ -119,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "NASA旅行家1號飛行49年　即將締造「光日」里程碑",
       "summary": [
         "經濟日報：NASA旅行家1號飛行49年　即將締造「光日」里程碑",
@@ -140,7 +113,49 @@
       ]
     },
     {
+      "rank": 6,
+      "title": "曾聖安雙響砲帥到韓國！韓球迷讚嘆顏值　臺網友挖出胸肌焦點",
+      "summary": [
+        "ETtoday：曾聖安雙響砲帥到韓國！韓球迷讚嘆顏值　臺網友挖出胸肌焦點",
+        "自由時報：曾聖安帥到韓網暴動！臺灣網友曬胸肌照喊：是我先看到的"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "曾聖安雙響砲帥到韓國！韓球迷讚嘆顏值　臺網友挖出胸肌焦點",
+          "url": "https://sports.ettoday.net/news/3272359"
+        },
+        {
+          "source": "自由時報",
+          "title": "曾聖安帥到韓網暴動！臺灣網友曬胸肌照喊：是我先看到的",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5641136"
+        }
+      ]
+    },
+    {
       "rank": 7,
+      "title": "韓國瑜大讚張善政溫暖：我們一個少林、一個武當- 政治",
+      "summary": [
+        "中時新聞：韓國瑜大讚張善政溫暖：我們一個少林、一個武當- 政治",
+        "ETtoday：張善政桃園造勢大會　韓國瑜盛讚：全臺政界最善良的政治人物"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "韓國瑜大讚張善政溫暖：我們一個少林、一個武當- 政治",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ObEI5blNpdDlncFJzOU5hQVFheWdaRVpla2RhcmtyaG5pWVk1LVIyMVZuSmF1a0Z6U2hLd0JrT3lhSDU5MWFyZ3RvUWdTSWlLc2xyRFNnaThQS2tLTHVvbHdPUV94aDZPQ2N5LWRR?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "張善政桃園造勢大會　韓國瑜盛讚：全臺政界最善良的政治人物",
+          "url": "https://www.ettoday.net/news/20261114/3272368.htm"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "美中俄領袖APEC期間首度三方峰會　核武與伊朗戰爭成焦點",
       "summary": [
         "自由時報：美中俄領袖APEC期間首度三方峰會　核武與伊朗戰爭成焦點",
@@ -161,7 +176,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "輝達兩大股東籲審慎評估領導人選　黃仁勳回任列入考量",
       "summary": [
         "自由時報：輝達兩大股東籲審慎評估領導人選　黃仁勳回任列入考量",
@@ -182,7 +197,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "馬克宏批限縮援助烏克蘭形同認輸　恐釀新戰爭",
       "summary": [
         "自由時報：馬克宏批限縮援助烏克蘭形同認輸　恐釀新戰爭",
@@ -201,26 +216,43 @@
           "url": "https://money.udn.com/money/story/5599/9879327"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "20261114 公視晚間新聞 完整版（無網路版權內容除外）｜北市公辦政見發表蔣提4年施政 沈攻兒虐、營養午餐議題",
-      "summary": [
-        "公視新聞：20261114 公視晚間新聞 完整版（無網路版權內容除外）｜北市公辦政見發表蔣提4年施政 沈攻兒虐、營養午餐議題"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "公視新聞",
-          "title": "20261114 公視晚間新聞 完整版（無網路版權內容除外）｜北市公辦政見發表蔣提4年施政 沈攻兒虐、營養午餐議題",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5aVlZU2ktcndCV3EwNlhrTWM1Z09TOTZ4UVB5b2sxbDlySXg4Q0lzVm93OHlBejZGcDJlWVJfX1U3Tk5YX3VEOWVTcw?oc=5"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "SpaceX首次從軌道上成功捕獲星際飛船火箭",
+      "summary": [
+        "CNBC：SpaceX首次從軌道上成功捕獲星際飛船火箭",
+        "BBC World：「你能相信嗎？」：SpaceX 在返回地球時捕獲了其 Starship 火箭的一部分",
+        "Bloomberg Markets：(數字) SpaceX 在新穎的著陸中捕獲了星際飛船"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "SpaceX首次從軌道上成功捕獲星際飛船火箭",
+          "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"
+        },
+        {
+          "source": "BBC World",
+          "title": "「你能相信嗎？」：SpaceX 在返回地球時捕獲了其 Starship 火箭的一部分",
+          "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "(數字) SpaceX 在新穎的著陸中捕獲了星際飛船",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "SpaceX 成功捕捉 Starship 火箭，這是航太產業的一個巨大里程碑",
+          "url": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "義大利因 Android 使用者資料存取對 Meta 罰款 8.87 億美元",
       "summary": [
         "Investing.com：義大利因 Android 使用者資料存取對 Meta 罰款 8.87 億美元",
@@ -243,33 +275,6 @@
           "source": "BBC World",
           "title": "Meta 因訪問使用者照片而被義大利罰款 8.05 億歐元",
           "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "SpaceX首次從軌道上成功捕獲星際飛船火箭",
-      "summary": [
-        "CNBC：SpaceX首次從軌道上成功捕獲星際飛船火箭",
-        "BBC World：「你能相信嗎？」：SpaceX 在返回地球時捕獲了其 Starship 火箭的一部分",
-        "Bloomberg Markets：(數字) SpaceX 在新穎的著陸中捕獲了星際飛船"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "SpaceX首次從軌道上成功捕獲星際飛船火箭",
-          "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"
-        },
-        {
-          "source": "BBC World",
-          "title": "「你能相信嗎？」：SpaceX 在返回地球時捕獲了其 Starship 火箭的一部分",
-          "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "(數字) SpaceX 在新穎的著陸中捕獲了星際飛船",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing"
         }
       ]
     },
@@ -389,31 +394,31 @@
     },
     {
       "rank": 9,
-      "title": "澤連斯基指美方首次提出烏克蘭以撤出頓巴斯為條件加入北約可能性",
+      "title": "劉德華《白衣逆行者》積壓六年上映前夕悄然撤檔 中國為何不敢再談抗疫？",
       "summary": [
-        "法廣RFI：澤連斯基指美方首次提出烏克蘭以撤出頓巴斯為條件加入北約可能性"
+        "法廣RFI：劉德華《白衣逆行者》積壓六年上映前夕悄然撤檔 中國為何不敢再談抗疫？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "澤連斯基指美方首次提出烏克蘭以撤出頓巴斯為條件加入北約可能性",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261114-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E6%8C%87%E7%BE%8E%E6%96%B9%E9%A6%96%E6%AC%A1%E6%8F%90%E5%87%BA%E7%83%8F%E5%85%8B%E8%98%AD%E4%BB%A5%E6%92%A4%E5%87%BA%E9%A0%93%E5%B7%B4%E6%96%AF%E7%82%BA%E6%A2%9D%E4%BB%B6%E5%8A%A0%E5%85%A5%E5%8C%97%E7%B4%84%E5%8F%AF%E8%83%BD%E6%80%A7"
+          "title": "劉德華《白衣逆行者》積壓六年上映前夕悄然撤檔 中國為何不敢再談抗疫？",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E5%BE%AE%E8%A8%80%E5%BE%AE%E8%AA%9E/20261114-%E5%8A%89%E5%BE%B7%E8%8F%AF-%E7%99%BD%E8%A1%A3%E9%80%86%E8%A1%8C%E8%80%85-%E7%A9%8D%E5%A3%93%E5%85%AD%E5%B9%B4%E4%B8%8A%E6%98%A0%E5%89%8D%E5%A4%95%E6%82%84%E7%84%B6%E6%92%A4%E6%AA%94-%E4%B8%AD%E5%9C%8B%E7%82%BA%E4%BD%95%E4%B8%8D%E6%95%A2%E5%86%8D%E8%AB%87%E6%8A%97%E7%96%AB"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "企業合作穩定東南亞石油產品供應",
+      "title": "費加羅報：北京控制下的香港正以另一種方式“重新崛起” 法國房地產迎來大蕭條時代",
       "summary": [
-        "NHK新聞：企業合作穩定東南亞石油產品供應"
+        "法廣RFI：費加羅報：北京控制下的香港正以另一種方式“重新崛起” 法國房地產迎來大蕭條時代"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "企業合作穩定東南亞石油產品供應",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75964"
+          "source": "法廣RFI",
+          "title": "費加羅報：北京控制下的香港正以另一種方式“重新崛起” 法國房地產迎來大蕭條時代",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E6%B3%95%E5%9C%8B%E5%A0%B1%E7%B4%99%E6%91%98%E8%A6%81/20261114-%E8%B2%BB%E5%8A%A0%E7%BE%85%E5%A0%B1-%E5%8C%97%E4%BA%AC%E6%8E%A7%E5%88%B6%E4%B8%8B%E7%9A%84%E9%A6%99%E6%B8%AF%E6%AD%A3%E4%BB%A5%E5%8F%A6%E4%B8%80%E7%A8%AE%E6%96%B9%E5%BC%8F-%E9%87%8D%E6%96%B0%E5%B4%9B%E8%B5%B7-%E6%B3%95%E5%9C%8B%E6%88%BF%E5%9C%B0%E7%94%A2%E8%BF%8E%E4%BE%86%E5%A4%A7%E8%95%AD%E6%A2%9D%E6%99%82%E4%BB%A3"
         }
       ]
     }
