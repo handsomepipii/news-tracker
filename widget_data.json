@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 02:57",
+  "updated_at": "2026-11-15 03:26",
   "taiwan": [
     {
       "rank": 1,
@@ -120,27 +120,6 @@
     },
     {
       "rank": 6,
-      "title": "基隆大眾走 童子瑋：重現城市獨特文化魅力",
-      "summary": [
-        "自由時報：基隆大眾走 童子瑋：重現城市獨特文化魅力",
-        "ETtoday：陳其邁力挺童子瑋「港都童行」　大讚城市願景：創意超越高雄"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "基隆大眾走 童子瑋：重現城市獨特文化魅力",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640681"
-        },
-        {
-          "source": "ETtoday",
-          "title": "陳其邁力挺童子瑋「港都童行」　大讚城市願景：創意超越高雄",
-          "url": "https://www.ettoday.net/news/20261114/3272320.htm"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "「臺北要跟上市民的努力」　沈伯洋細數政見：為大家全力以赴",
       "summary": [
         "ETtoday：「臺北要跟上市民的努力」　沈伯洋細數政見：為大家全力以赴",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "新加坡扣黃樂護照8個月　查輝達晶片案獲美協助有限",
       "summary": [
         "經濟日報：新加坡扣黃樂護照8個月　查輝達晶片案獲美協助有限",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "中探針董事會透過辦理私募現增上限1200萬股案- 新聞",
       "summary": [
         "MoneyDJ理財網：中探針董事會透過辦理私募現增上限1200萬股案- 新聞",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "基泰大直施工圖被埋了 林楚茵酸：北市府首創「水泥滅證法」",
       "summary": [
         "自由時報：基泰大直施工圖被埋了 林楚茵酸：北市府首創「水泥滅證法」",
@@ -220,6 +199,27 @@
           "source": "ETtoday",
           "title": "基泰大直施工圖紙消失！北市府認水泥埋了　綠委傻眼",
           "url": "https://www.ettoday.net/news/20261114/3272253.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳是誰要他下臺？幕後黑手是？華郵：一樁婚外情扯出對中鷹派角力「削弱他對川普的影響力」",
+      "summary": [
+        "今周刊：黃仁勳是誰要他下臺？幕後黑手是？華郵：一樁婚外情扯出對中鷹派角力「削弱他對川普的影響力」",
+        "中時新聞：黃仁勳倒臺幕後黑手是他《華郵》：對中鷹派欲斷他與川普連結- 國際"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "今周刊",
+          "title": "黃仁勳是誰要他下臺？幕後黑手是？華郵：一樁婚外情扯出對中鷹派角力「削弱他對川普的影響力」",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNXy1pTTFwRUR6WmM3N1haZ3pud2IwYk5uU2pIYWlWZXpBOEZWRnNVSUFJZ1RHNXZ5RENLQjVFNEsyeWtOeUt4eUFEWFZZb0tvblVyMy04TVp1S25VVGFfcVBkS1lRNDhMV0Ftbk9Pa2ZMZ0E2VXF6bGZvNTMxRnQxcw?oc=5"
+        },
+        {
+          "source": "中時新聞",
+          "title": "黃仁勳倒臺幕後黑手是他《華郵》：對中鷹派欲斷他與川普連結- 國際",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tSHIyRUZMVHNBbmppS2taejVRZk9XVkNLNGFVVTZvVXF6UXd6TUZPb1BJeEhoNHZxUkVqVUY1SXAyVnNvZmRsUE1FSDlDMElPQ0kxU0VGVTFUVDRmMUFEaXdyc2ZpMVlHYTJvRDJ3?oc=5"
         }
       ]
     }
@@ -296,51 +296,27 @@
     },
     {
       "rank": 4,
-      "title": "專欄 |根據科學，每天吃黑巧克力的 4 個理由",
+      "title": "菲律賓贏得首屆亞洲歐洲歌唱大賽冠軍",
       "summary": [
-        "Washington Post：專欄 |根據科學，每天吃黑巧克力的 4 個理由"
+        "BBC World：菲律賓贏得首屆亞洲歐洲歌唱大賽冠軍",
+        "The Guardian：菲律賓的卡梅爾贏得了亞洲首屆歐洲歌唱大賽冠軍"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "Washington Post",
-          "title": "專欄 |根據科學，每天吃黑巧克力的 4 個理由",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcXptN2NTODJPVE5KaHlPc0ZTUFAtN243dE9wZjJKQW1QYy1aaXZ3RXp6aXRLdjFqcGluUjJaY3lHVk1rZUJvNzU3OVlwUWVRVTU0cEVVMkp2aUttUHJzZTRibmJlVF9tbW1sNFkzNXhsaXl4Yk0wSGNUaDRyQ083TDYyTUp3MDkxbGxxQnR5MzdNaTBFVzAxQXhIU2tUOGRkeFRTSWZmWVJVTjUx?oc=5"
+          "source": "BBC World",
+          "title": "菲律賓贏得首屆亞洲歐洲歌唱大賽冠軍",
+          "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "title": "菲律賓的卡梅爾贏得了亞洲首屆歐洲歌唱大賽冠軍",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "分析：公司喜歡「搖滾明星」執行長。直到他們依賴一個人",
-      "summary": [
-        "CNBC：分析：公司喜歡「搖滾明星」執行長。直到他們依賴一個人"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "分析：公司喜歡「搖滾明星」執行長。直到他們依賴一個人",
-          "url": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "前景下降？微軟可能欠你錢",
-      "summary": [
-        "Wired：前景下降？微軟可能欠你錢"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Wired",
-          "title": "前景下降？微軟可能欠你錢",
-          "url": "https://www.wired.com/story/outlook-went-down-microsoft-may-owe-you-money/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "週四簡報：我們對 Alice Huang 和 Nvidia 事件瞭解（和不瞭解）的情況",
       "summary": [
         "The Guardian：週四簡報：我們對 Alice Huang 和 Nvidia 事件瞭解（和不瞭解）的情況"
@@ -355,7 +331,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "全球停電後 Microsoft Outlook 與 Teams 服務",
       "summary": [
         "Investing.com：全球停電後 Microsoft Outlook 與 Teams 服務"
@@ -370,7 +346,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Wayfair 優惠券：2026 年 11 月最高折扣 80%",
       "summary": [
         "Wired：Wayfair 優惠券：2026 年 11 月最高折扣 80%"
@@ -385,7 +361,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Centrica 和 Equinor 進入下一輪德國 Uniper 出售",
       "summary": [
         "Bloomberg Markets：Centrica 和 Equinor 進入下一輪德國 Uniper 出售"
@@ -396,6 +372,36 @@
           "source": "Bloomberg Markets",
           "title": "Centrica 和 Equinor 進入下一輪德國 Uniper 出售",
           "url": "https://www.bloomberg.com/news/articles/2026-11-13/brookfield-consortium-progresses-to-next-round-of-uniper-sale"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "隨著 IPO 估值跌破 2T 美元的希望，Anthropic 執行長 Dario Amodei 的目標是“承諾不足，交付過多”",
+      "summary": [
+        "Yahoo Finance：隨著 IPO 估值跌破 2T 美元的希望，Anthropic 執行長 Dario Amodei 的目標是“承諾不足，交付過多”"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "隨著 IPO 估值跌破 2T 美元的希望，Anthropic 執行長 Dario Amodei 的目標是“承諾不足，交付過多”",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYWlOYlBreW82LXNaU055OVBTaUk2QlJDc09hckd3dG1UM0c0blctXzNKd1dwZ2FYdXk1emR6aEZrcVhZN2RSQmx1M1dRcVc5N0dCYmdnWm1GYzBDcmZ2eXpfNUdEVkp4X2otNzhDX3V4VjF4ZGRVOVFaT2ZfMl8yOXVNcmRCd1ppdjJFVWhPMEdwS1U0cEFQaml1aGNMcGtFT3VyYms1eU9qWWppZUdFRWF6VXRmQ2lZZzJURU1FajFwbGZLMFd2d2dXMzRsZWFoVnUxdHJDTVB6N0pIdDN2NG9JdjQ2R1BWVV9IMGh3SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "訊息人士稱，莫迪就網站關閉問題召喚電信部長",
+      "summary": [
+        "Investing.com：訊息人士稱，莫迪就網站關閉問題召喚電信部長"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "訊息人士稱，莫迪就網站關閉問題召喚電信部長",
+          "url": "https://www.investing.com/news/stock-market-news/modi-summons-telecom-secretary-over-website-takedowns-sources-say-5027214"
         }
       ]
     }
