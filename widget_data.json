@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-14 14:29",
+  "updated_at": "2026-11-14 14:57",
   "taiwan": [
     {
       "rank": 1,
-      "title": "美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
-      "summary": [
-        "經濟日報：美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
-        "TVBS新聞：電訊中斷! 全美航班暫停起飛 近8千航班延誤｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-        "公視新聞：20261114 公視午間新聞 完整版（無網路版權內容除外）｜通訊故障致全美停飛逾4小時 目前已解除、逾千架航班遭取消"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
-          "url": "https://money.udn.com/money/story/5599/9878089"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "電訊中斷! 全美航班暫停起飛 近8千航班延誤｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qWWFEZnB5N3otellhMXNRcl85MFhlakVWSHNyVkdxdmVXZi1PQ2VlSlVUVDJ3R1JZd0h5emtseEJHVDBrck9DMlNUZXR6Ry1zU2wtWnZ3?oc=5"
-        },
-        {
-          "source": "公視新聞",
-          "title": "20261114 公視午間新聞 完整版（無網路版權內容除外）｜通訊故障致全美停飛逾4小時 目前已解除、逾千架航班遭取消",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ydDhGQ0FpemllbmxkYTJNbEV6VDJYelZleVFuME5XYTdoYlhVcVN3dUhhdFIzemI0eGhqSzZoZTNCbDFhb0x6S2QwNA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "美國全境航班停飛令解除！逾萬架次延誤、4000架次取消",
       "summary": [
         "經濟日報：美國全境航班停飛令解除！逾萬架次延誤、4000架次取消",
@@ -50,133 +23,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "黃仁勳卸任輝達執行長重創科技股　歐股漲跌互見",
-      "summary": [
-        "自由時報：黃仁勳卸任輝達執行長重創科技股　歐股漲跌互見",
-        "經濟日報：黃仁勳卸任輝達執行長重創科技股　歐股漲跌互見"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "黃仁勳卸任輝達執行長重創科技股　歐股漲跌互見",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5640207"
-        },
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳卸任輝達執行長重創科技股　歐股漲跌互見",
-          "url": "https://money.udn.com/money/story/5599/9877981"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "黃仁勳風波「3負面影響」？矢板明夫：對臺灣是重大損失",
-      "summary": [
-        "自由時報：黃仁勳風波「3負面影響」？矢板明夫：對臺灣是重大損失",
-        "ETtoday：黃仁勳下臺　矢板明夫示警3大負面影響：對臺灣是重大損失"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "黃仁勳風波「3負面影響」？矢板明夫：對臺灣是重大損失",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640187"
-        },
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳下臺　矢板明夫示警3大負面影響：對臺灣是重大損失",
-          "url": "https://www.ettoday.net/news/20261114/3271928.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "7年前專訪蔡英文也曾感動過 鍾明軒如今勇敢發問：妳還願意聽我說完嗎？",
-      "summary": [
-        "中時新聞：7年前專訪蔡英文也曾感動過 鍾明軒如今勇敢發問：妳還願意聽我說完嗎？",
-        "自由時報：鍾明軒喊話蔡英文聽他幾年經歷 蔣萬安力挺：為政者應謙卑傾聽"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "7年前專訪蔡英文也曾感動過 鍾明軒如今勇敢發問：妳還願意聽我說完嗎？",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KV2NpSDkxcktpN1hraWdod19Wa2gxb1NtZHg0ZVpVclF6NHhaZWpoeXYzTHN5Z2poMExfWDBzMnJhaXp2eExfY2wwcGNacmFKa3lBNnZ1cXZ4QldpbnBIcktJTlgyZzFkb0xNZnFn?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "鍾明軒喊話蔡英文聽他幾年經歷 蔣萬安力挺：為政者應謙卑傾聽",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640463"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "千億富豪宣佈「不再買輝達股票」：沒有黃仁勳就不買了",
-      "summary": [
-        "ETtoday：千億富豪宣佈「不再買輝達股票」：沒有黃仁勳就不買了",
-        "工商時報：沒了老黃就不買！曾砸427億 美富豪宣佈「停止加碼輝達」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "千億富豪宣佈「不再買輝達股票」：沒有黃仁勳就不買了",
-          "url": "https://www.ettoday.net/news/20261114/3271891.htm"
-        },
-        {
-          "source": "工商時報",
-          "title": "沒了老黃就不買！曾砸427億 美富豪宣佈「停止加碼輝達」",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lNWFyVXgtSXBOTGFRNkhwT2hKSFBPd2tROWZ1T29qN3lFb3dFWGtzVDg3cmQyVm1WYVBVSHg5OEQxclpVY2MwZWxpY0NSQzN5NmVoalZTTzZMUFJFYVQw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "靠AI提升效率，Appier Q3營業利益翻倍、毛利率61.3%創高！連兩季上修全年獲利財測，現金股利估2.5日圓 | 魏鑫陽 | 財經",
-      "summary": [
-        "風傳媒：靠AI提升效率，Appier Q3營業利益翻倍、毛利率61.3%創高！連兩季上修全年獲利財測，現金股利估2.5日圓 | 魏鑫陽 | 財經",
-        "INSIDE硬塞：營業利益翻倍、毛利率 61.3% 創新高，Appier 第三季再上調全年財測"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "風傳媒",
-          "title": "靠AI提升效率，Appier Q3營業利益翻倍、毛利率61.3%創高！連兩季上修全年獲利財測，現金股利估2.5日圓 | 魏鑫陽 | 財經",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvamVncmNXeXA3ck1JOFltUm94d3ljZWc0eG9kOW9XX0hXbm1NSm1QY2pSajJXYm5fdUxaOGc3Z1VyZFVta1luQmJRTTU0QQ?oc=5"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "營業利益翻倍、毛利率 61.3% 創新高，Appier 第三季再上調全年財測",
-          "url": "https://www.inside.com.tw/article/42911-appier-2026-q3-earnings-operating-profit-guidance-raise"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "明開唱!山下智久飛抵高雄 超親民!摘墨鏡替粉絲簽名｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-      "summary": [
-        "TVBS新聞：明開唱!山下智久飛抵高雄 超親民!摘墨鏡替粉絲簽名｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-        "自由時報：桃園多元文化故鄉季登場 畢書盡等藝人開唱將嗨翻藝文廣場"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "明開唱!山下智久飛抵高雄 超親民!摘墨鏡替粉絲簽名｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lZGxZOTVtc1V2UkpKMmtRMnZYT1NKZEpKQm9DM1NiVzZ6OUdsWGR5T2dDbnB6SXdWNEJIblliUXo0a1ZaV2VxUWVWRFM3RXZlRU11Qk5n?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "桃園多元文化故鄉季登場 畢書盡等藝人開唱將嗨翻藝文廣場",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5640361"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 2,
       "title": "張惠妹爆壓軸唱建中校慶舞會！　主辦拋4大線索…天后全符合",
       "summary": [
         "ETtoday：張惠妹爆壓軸唱建中校慶舞會！　主辦拋4大線索…天后全符合",
@@ -197,7 +44,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 3,
       "title": "罕見「冬天雷雨」今午後開炸　下週2波東北季風變天",
       "summary": [
         "ETtoday：罕見「冬天雷雨」今午後開炸　下週2波東北季風變天",
@@ -214,6 +61,153 @@
           "source": "自由時報",
           "title": "午後鋒面快閃！專家：恐有冬天罕見劇烈雷雨",
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5640237"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "「馬斯克力挺黃仁勳」原因曝光！　輝達10年前舊文出土",
+      "summary": [
+        "ETtoday：「馬斯克力挺黃仁勳」原因曝光！　輝達10年前舊文出土",
+        "自由時報：馬斯克為何力挺黃仁勳？10年前「這件事」曝光"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "「馬斯克力挺黃仁勳」原因曝光！　輝達10年前舊文出土",
+          "url": "https://www.ettoday.net/news/20261114/3271911.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "馬斯克為何力挺黃仁勳？10年前「這件事」曝光",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5640348"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
+      "summary": [
+        "經濟日報：美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
+        "TVBS新聞：電訊中斷! 全美航班暫停起飛 近8千航班延誤｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
+          "url": "https://money.udn.com/money/story/5599/9878089"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "電訊中斷! 全美航班暫停起飛 近8千航班延誤｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qWWFEZnB5N3otellhMXNRcl85MFhlakVWSHNyVkdxdmVXZi1PQ2VlSlVUVDJ3R1JZd0h5emtseEJHVDBrck9DMlNUZXR6Ry1zU2wtWnZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "SpaceX星艦「雙重捕捉」受挫！助推器爆炸落海 太空船續衝軌道",
+      "summary": [
+        "自由時報：SpaceX星艦「雙重捕捉」受挫！助推器爆炸落海 太空船續衝軌道",
+        "經濟日報：SpaceX星艦火箭進入地球軌道　推進器回收任務中止"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "SpaceX星艦「雙重捕捉」受挫！助推器爆炸落海 太空船續衝軌道",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5640244"
+        },
+        {
+          "source": "經濟日報",
+          "title": "SpaceX星艦火箭進入地球軌道　推進器回收任務中止",
+          "url": "https://money.udn.com/money/story/5599/9878165"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "微軟全球大當機",
+      "summary": [
+        "TVBS新聞：微軟全球大當機",
+        "工商時報：微軟全球大當機- 日報"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "微軟全球大當機",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SUW84NEx3NGt1TWZNc3huVFBGaXpKWFYtelZfTUo5M0cxa2J2aUUwZzVRb2RPZHpSS0tGazFLUjN3R2NzMmxSZTZKVjJDNmNLeXpIaw?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "微軟全球大當機- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55c2JfRTItWHlCQ09LRFJaM2w4ekZVdlBIVGM1cDh6b2twa1BWLXpqd1ZqNXBCazBYN2Y3MlYzNEl2b1JEZ1k4MEhkVHlpSWJRNzVHNDhoNUl2d3lvUlo4?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "FAA新AI航管系統上線三天後全美航班停飛，通訊故障原因待查",
+      "summary": [
+        "自由時報：FAA新AI航管系統上線三天後全美航班停飛，通訊故障原因待查",
+        "科技新報：又是軟體更新惹得禍？FAA 航管系統異常、美全國航班停飛"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "FAA新AI航管系統上線三天後全美航班停飛，通訊故障原因待查",
+          "url": "https://news.ltn.com.tw/news/aichannel/breakingnews/5640271"
+        },
+        {
+          "source": "科技新報",
+          "title": "又是軟體更新惹得禍？FAA 航管系統異常、美全國航班停飛",
+          "url": "https://technews.tw/2026/11/14/faa-all-flights-were-grounded/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "林園警追緝毒駕通緝犯  嫌犯駕車衝撞遭開槍制伏",
+      "summary": [
+        "自由時報：林園警追緝毒駕通緝犯  嫌犯駕車衝撞遭開槍制伏",
+        "ETtoday：通緝犯拒檢狂飆！受困車陣還想撞警　警開槍逮人搜出海洛因"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "林園警追緝毒駕通緝犯  嫌犯駕車衝撞遭開槍制伏",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5640295"
+        },
+        {
+          "source": "ETtoday",
+          "title": "通緝犯拒檢狂飆！受困車陣還想撞警　警開槍逮人搜出海洛因",
+          "url": "https://www.ettoday.net/news/20261114/3271965.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "妻涉發7.6萬元交樁腳買票！嘉檢破獲村長賄選案　候選人交保",
+      "summary": [
+        "ETtoday：妻涉發7.6萬元交樁腳買票！嘉檢破獲村長賄選案　候選人交保",
+        "自由時報：嘉縣梅山村長選舉爆賄選 候選人妻砸7萬6買票邀聲押"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "妻涉發7.6萬元交樁腳買票！嘉檢破獲村長賄選案　候選人交保",
+          "url": "https://www.ettoday.net/news/20261114/3271993.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "嘉縣梅山村長選舉爆賄選 候選人妻砸7萬6買票邀聲押",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640478"
         }
       ]
     }
@@ -258,33 +252,6 @@
     },
     {
       "rank": 2,
-      "title": "SpaceX 即將嘗試火箭技術的“聖杯”",
-      "summary": [
-        "MarketWatch：SpaceX 即將嘗試火箭技術的“聖杯”",
-        "BBC World：SpaceX 嘗試雙重捕捉巨型星艦火箭",
-        "CNBC：SpaceX 大型火箭的關鍵試飛中發射星艦"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "MarketWatch",
-          "title": "SpaceX 即將嘗試火箭技術的“聖杯”",
-          "url": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories"
-        },
-        {
-          "source": "BBC World",
-          "title": "SpaceX 嘗試雙重捕捉巨型星艦火箭",
-          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CNBC",
-          "title": "SpaceX 大型火箭的關鍵試飛中發射星艦",
-          "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "川普不打算在中國之行期間提出英偉達、間諜問題：美國官員",
       "summary": [
         "CNBC：川普不打算在中國之行期間提出英偉達、間諜問題：美國官員",
@@ -311,7 +278,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "川普將與普丁、習近平舉行首次三方會晤",
       "summary": [
         "Washington Post：川普將與普丁、習近平舉行首次三方會晤",
@@ -338,128 +305,137 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "德國間諜授予新權力應對來自國外的“混合威脅”",
+      "rank": 4,
+      "title": "歐洲將參加下一輪烏克蘭問題談判，歐洲代表將出自五個歐洲國家加歐盟",
       "summary": [
-        "BBC World：德國間諜授予新權力應對來自國外的“混合威脅”",
-        "Financial Times：德國間諜機構獲得全面的新權力"
+        "法廣RFI：歐洲將參加下一輪烏克蘭問題談判，歐洲代表將出自五個歐洲國家加歐盟",
+        "NHK新聞：英法德等五國歐洲代表參加烏克蘭和談"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "歐洲將參加下一輪烏克蘭問題談判，歐洲代表將出自五個歐洲國家加歐盟",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261113-%E6%AD%90%E6%B4%B2%E5%B0%87%E5%8F%83%E5%8A%A0%E4%B8%8B%E4%B8%80%E8%BC%AA%E7%83%8F%E5%85%8B%E8%98%AD%E5%95%8F%E9%A1%8C%E8%AB%87%E5%88%A4%EF%BC%8C%E6%AD%90%E6%B4%B2%E4%BB%A3%E8%A1%A8%E5%B0%87%E5%87%BA%E8%87%AA%E4%BA%94%E5%80%8B%E6%AD%90%E6%B4%B2%E5%9C%8B%E5%AE%B6%E5%8A%A0%E6%AD%90%E7%9B%9F"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "英法德等五國歐洲代表參加烏克蘭和談",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75776"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "SpaceX 嘗試雙重捕捉巨型星艦火箭",
+      "summary": [
+        "BBC World：SpaceX 嘗試雙重捕捉巨型星艦火箭",
+        "CNBC：SpaceX 大型火箭的關鍵試飛中發射星艦"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "BBC World",
-          "title": "德國間諜授予新權力應對來自國外的“混合威脅”",
-          "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss"
+          "title": "SpaceX 嘗試雙重捕捉巨型星艦火箭",
+          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Financial Times",
-          "title": "德國間諜機構獲得全面的新權力",
-          "url": "https://www.ft.com/content/6c55228c-ac59-44cb-926b-6e41585fbf0c?syn-25a6b1a6=1"
+          "source": "CNBC",
+          "title": "SpaceX 大型火箭的關鍵試飛中發射星艦",
+          "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "隨著氣候科學之爭升溫，中國放棄申辦未來締約方大會",
+      "title": "黃仁勳擔任 Nvidia 執行長的最後幾個小時",
       "summary": [
-        "Financial Times：隨著氣候科學之爭升溫，中國放棄申辦未來締約方大會",
-        "法廣RFI：中國決定不爭取主辦2028年的聯合國氣候峰會"
+        "Bloomberg Tech：黃仁勳擔任 Nvidia 執行長的最後幾個小時",
+        "Yahoo Finance：「我是個混蛋」：黃仁勳擔任 Nvidia 執行長的最後幾個小時"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "隨著氣候科學之爭升溫，中國放棄申辦未來締約方大會",
-          "url": "https://www.ft.com/content/3cc097d4-00af-4ece-8c86-d1bc9af7664d?syn-25a6b1a6=1"
+          "source": "Bloomberg Tech",
+          "title": "黃仁勳擔任 Nvidia 執行長的最後幾個小時",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/inside-jensen-huang-s-last-hours-as-nvidia-ceo-video"
         },
         {
-          "source": "法廣RFI",
-          "title": "中國決定不爭取主辦2028年的聯合國氣候峰會",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261113-%E4%B8%AD%E5%9C%8B%E6%B1%BA%E5%AE%9A%E4%B8%8D%E7%88%AD%E5%8F%96%E4%B8%BB%E8%BE%A62028%E5%B9%B4%E7%9A%84%E8%81%AF%E5%90%88%E5%9C%8B%E6%B0%A3%E5%80%99%E5%B3%B0%E6%9C%83"
+          "source": "Yahoo Finance",
+          "title": "「我是個混蛋」：黃仁勳擔任 Nvidia 執行長的最後幾個小時",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSHE5TU1XRlRTak5tZ1liTktRYXVxTGJCVlNDdW9yNnY2eWQwd0xTaHVuOHh0UWp4cnAzdHBDMmVORFZXRVZzSlNRT1NJOV9NY3hGa29OcXBma251dGp1Wk84bjZnN21qT2I3OG5Idy15ay1wTm9GYzNKWEg4c28xYjJ5OXpZQ25ENWI1WVpUS2w?oc=5"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "OpenAI 推出 ChatGPT 錢包，允許其「點」人工​​智慧代理為使用者進行購買",
+      "title": "“由於特殊情況”，美國政府停飛全美所有航班",
       "summary": [
-        "CNBC：OpenAI 推出 ChatGPT 錢包，允許其「點」人工​​智慧代理為使用者進行購買",
-        "The Verge：ChatGPT 錢包可讓 OpenAI 的 Dots 代理為您購買"
+        "TechCrunch：“由於特殊情況”，美國政府停飛全美所有航班",
+        "Nikkei Asia：美國因「特殊情況」和安全原因停飛所有離港航班"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "CNBC",
-          "title": "OpenAI 推出 ChatGPT 錢包，允許其「點」人工​​智慧代理為使用者進行購買",
-          "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
+          "source": "TechCrunch",
+          "title": "“由於特殊情況”，美國政府停飛全美所有航班",
+          "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/"
         },
         {
-          "source": "The Verge",
-          "title": "ChatGPT 錢包可讓 OpenAI 的 Dots 代理為您購買",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+          "source": "Nikkei Asia",
+          "title": "美國因「特殊情況」和安全原因停飛所有離港航班",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZUFLR1lTd3pzLVBMUU9WeDZlZG5uT1Z4dUJ3dkM0cGRNTmZrZ1ZjRkJKT0szWEZZeE5YVU5tT2M0WldVV3l6T2doYTVFakg3azR1MFlxTlZGM09HWHlQaEZUNmtESkxYTENibW5vVjFuWXVISEJ4RFFvNVVIY3RWMWZmdUViRUFxQnpQalpJcDJTOE0zOE1XRVhfSWpqdTE1MlhiY3NPalNhZmJQNmhhVjBmRGt2dlV6aVA4?oc=5"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "黃仁勳醜聞讓人們對英偉達的人工智慧主導地位產生了懷疑——我們是如何走到這一步的",
+      "title": "訊息人士稱，英偉達獨家前執行長在與中國女商人的戀情問題上誤導了頂級律師",
       "summary": [
-        "CNBC：黃仁勳醜聞讓人們對英偉達的人工智慧主導地位產生了懷疑——我們是如何走到這一步的",
-        "Yahoo Finance：英偉達醜聞掩蓋了人工智慧產業的上行潛力"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "黃仁勳醜聞讓人們對英偉達的人工智慧主導地位產生了懷疑——我們是如何走到這一步的",
-          "url": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "英偉達醜聞掩蓋了人工智慧產業的上行潛力",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWc4Tm5XSzJjOFB1RHhiVmtkbi1BWlp0VVhtWk8yQlJQWGhkMlhxektZVmh4T1NkWThWcnNNcnBGUW5pMDl1Q1p5dU9sNUN4NHR0dUY0OUFxMjZoMC0zbFNyeWMyS1hIMk9TcTExRmJ2S2lHR1RNd05DNVRSX3JTcGwyUHp0djBEMzhtNmZ1UXlzOTloM21MUU50RVc2Sy03OFpVdDFvblc0cUVWVVBmTHlkR2pCYVFmcnQ1c1VnTEo?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "獨家－亞馬遜計畫擁有全球商品資料，對抗AI代購",
-      "summary": [
-        "Investing.com：獨家－亞馬遜計畫擁有全球商品資料，對抗AI代購",
-        "The Verge：亞馬遜計劃對全球線上購物資料進行索引"
+        "Investing.com：訊息人士稱，英偉達獨家前執行長在與中國女商人的戀情問題上誤導了頂級律師",
+        "Yahoo Finance：訊息人士稱，英偉達獨家前執行長在與中國女商人的戀情問題上誤導了頂級律師"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Investing.com",
-          "title": "獨家－亞馬遜計畫擁有全球商品資料，對抗AI代購",
-          "url": "https://www.investing.com/news/stock-market-news/exclusiveamazons-plan-to-own-the-worlds-product-data-and-fight-ai-shopping-agents-5024784"
+          "title": "訊息人士稱，英偉達獨家前執行長在與中國女商人的戀情問題上誤導了頂級律師",
+          "url": "https://www.investing.com/news/stock-market-news/exclusiveexnvidia-ceo-misled-top-lawyer-on-affair-with-chinese-businesswoman-sources-say-5026828"
         },
         {
-          "source": "The Verge",
-          "title": "亞馬遜計劃對全球線上購物資料進行索引",
-          "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+          "source": "Yahoo Finance",
+          "title": "訊息人士稱，英偉達獨家前執行長在與中國女商人的戀情問題上誤導了頂級律師",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSGJqXzY3V1VFLU1BWUc0WUhCSXZlR1o5Z2lIWElkSTFscUJXcjl6TDRQTjdPZE42U1R5UUc4YjVXajlCb3hfV0FVMGJnMHFfdGNlVEhLQWEzdWxTdHNpVEdtaHplaktDVjFWVGtxYjJnYVRUVTJ2ZGRBNU9oelhZbUpRM015M1llbWNTUWRCeGR2OHppdzdwRmI2dw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "為什麼西南航空的股價今天會下跌？",
+      "summary": [
+        "Investing.com：為什麼西南航空的股價今天會下跌？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "為什麼西南航空的股價今天會下跌？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-southwest-airlines-stock-sliding-today-93CH-5026651"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "Newegg 預載遊戲電腦中裝載未發布的 Intel Core Ultra 7 260K CPU",
+      "title": "新奧爾良油輪撞上遊輪引發救援",
       "summary": [
-        "Tom's Hardware：Newegg 預載遊戲電腦中裝載未發布的 Intel Core Ultra 7 260K CPU",
-        "Wccftech：Newegg獨家CPU Intel Core Ultra 7 260K悄悄上市，最高搭配GeForce RTX 5070，售價1,999美元"
+        "Bloomberg Markets：新奧爾良油輪撞上遊輪引發救援"
       ],
-      "media_count": 2,
+      "media_count": 1,
       "links": [
         {
-          "source": "Tom's Hardware",
-          "title": "Newegg 預載遊戲電腦中裝載未發布的 Intel Core Ultra 7 260K CPU",
-          "url": "https://www.tomshardware.com/pc-components/cpus/unannounced-intel-core-ultra-7-260k-cpu-surfaces-in-newegg-prebuilt-gaming-pcs-intel-doesnt-have-official-specs-list-available-for-exclusive-arrow-lake-chip"
-        },
-        {
-          "source": "Wccftech",
-          "title": "Newegg獨家CPU Intel Core Ultra 7 260K悄悄上市，最高搭配GeForce RTX 5070，售價1,999美元",
-          "url": "https://wccftech.com/intel-core-ultra-7-260k-quietly-launches-as-newegg-exclusive-cpu/"
+          "source": "Bloomberg Markets",
+          "title": "新奧爾良油輪撞上遊輪引發救援",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/tanker-hits-cruise-ship-in-new-orleans-prompting-rescue-video"
         }
       ]
     }
