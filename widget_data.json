@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 13:58",
+  "updated_at": "2026-11-14 14:29",
   "taiwan": [
     {
       "rank": 1,
@@ -262,7 +262,7 @@
       "summary": [
         "MarketWatch：SpaceX 即將嘗試火箭技術的“聖杯”",
         "BBC World：SpaceX 嘗試雙重捕捉巨型星艦火箭",
-        "CNBC：SpaceX 在大型火箭的關鍵試飛中發射星艦"
+        "CNBC：SpaceX 大型火箭的關鍵試飛中發射星艦"
       ],
       "media_count": 3,
       "links": [
@@ -278,7 +278,7 @@
         },
         {
           "source": "CNBC",
-          "title": "SpaceX 在大型火箭的關鍵試飛中發射星艦",
+          "title": "SpaceX 大型火箭的關鍵試飛中發射星艦",
           "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
         }
       ]
@@ -312,6 +312,33 @@
     },
     {
       "rank": 4,
+      "title": "川普將與普丁、習近平舉行首次三方會晤",
+      "summary": [
+        "Washington Post：川普將與普丁、習近平舉行首次三方會晤",
+        "Nikkei Asia：白宮稱川普將在中國會見普丁和習近平",
+        "BBC World：白宮表示，川普、普丁和習近平計劃下週在中國舉行歷史性聯席會議"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "川普將與普丁、習近平舉行首次三方會晤",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "白宮稱川普將在中國會見普丁和習近平",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUVlVMWFlVUNqWTRFQzMyQjlxdzg5NWpPZHRwWE8zQmJkbGhoX2dlVVVKMVJ4WGxia2hTZzFVSks5Yk9kSFJaZkQySGU4eFFOMWZhdl9nalZ1bTRrV3ZudUQwMk50QVVCdDNlRkVidm1XXzBpVm1aX3dZUEhyVEo3N2hHMlhRNjBjR2dzZnRvX0V4ZUJDdEwtY2pfVnE0b3dCblFvZDBqeHRFVHdMaENUcmcxYUc?oc=5"
+        },
+        {
+          "source": "BBC World",
+          "title": "白宮表示，川普、普丁和習近平計劃下週在中國舉行歷史性聯席會議",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "德國間諜授予新權力應對來自國外的“混合威脅”",
       "summary": [
         "BBC World：德國間諜授予新權力應對來自國外的“混合威脅”",
@@ -332,7 +359,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "隨著氣候科學之爭升溫，中國放棄申辦未來締約方大會",
       "summary": [
         "Financial Times：隨著氣候科學之爭升溫，中國放棄申辦未來締約方大會",
@@ -353,7 +380,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "OpenAI 推出 ChatGPT 錢包，允許其「點」人工​​智慧代理為使用者進行購買",
       "summary": [
         "CNBC：OpenAI 推出 ChatGPT 錢包，允許其「點」人工​​智慧代理為使用者進行購買",
@@ -374,7 +401,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "黃仁勳醜聞讓人們對英偉達的人工智慧主導地位產生了懷疑——我們是如何走到這一步的",
       "summary": [
         "CNBC：黃仁勳醜聞讓人們對英偉達的人工智慧主導地位產生了懷疑——我們是如何走到這一步的",
@@ -395,7 +422,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "獨家－亞馬遜計畫擁有全球商品資料，對抗AI代購",
       "summary": [
         "Investing.com：獨家－亞馬遜計畫擁有全球商品資料，對抗AI代購",
@@ -416,7 +443,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Newegg 預載遊戲電腦中裝載未發布的 Intel Core Ultra 7 260K CPU",
       "summary": [
         "Tom's Hardware：Newegg 預載遊戲電腦中裝載未發布的 Intel Core Ultra 7 260K CPU",
@@ -433,27 +460,6 @@
           "source": "Wccftech",
           "title": "Newegg獨家CPU Intel Core Ultra 7 260K悄悄上市，最高搭配GeForce RTX 5070，售價1,999美元",
           "url": "https://wccftech.com/intel-core-ultra-7-260k-quietly-launches-as-newegg-exclusive-cpu/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "報道稱，英偉達執行長黃仁勳在辭職會議上“心碎”",
-      "summary": [
-        "Tom's Hardware：報道稱，英偉達執行長黃仁勳在辭職會議上“心碎”",
-        "法廣RFI：黃仁勳何竟只因婚外情被迫辭職英偉達執行長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Tom's Hardware",
-          "title": "報道稱，英偉達執行長黃仁勳在辭職會議上“心碎”",
-          "url": "https://www.tomshardware.com/tech-industry/broken-and-shattered-nvidia-ceo-jensen-huang-surrendered-during-resignation-meeting-report-claims-thousands-of-employees-rally-calling-for-reinstatement-on-internal-forum"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "黃仁勳何竟只因婚外情被迫辭職英偉達執行長",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261114-%E9%BB%83%E4%BB%81%E5%8B%B3%E4%BD%95%E7%AB%9F%E5%8F%AA%E5%9B%A0%E5%A9%9A%E5%A4%96%E6%83%85%E8%A2%AB%E8%BF%AB%E8%BE%AD%E8%81%B7%E8%8B%B1%E5%81%89%E9%81%94%E5%9F%B7%E8%A1%8C%E9%95%B7"
         }
       ]
     }
