@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-15 03:26",
+  "updated_at": "2026-11-15 03:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "高雄市長政見會》王肇民：參選理念是奉行先總統蔣公遺訓",
-      "summary": [
-        "自由時報：高雄市長政見會》王肇民：參選理念是奉行先總統蔣公遺訓",
-        "MoneyDJ理財網：漢康-KY創公告本公司經理人異動- 新聞",
-        "ETtoday：虎父無犬子！健行教頭劉孟竹南下助陣、劉衡4記三分彈助信義大勝"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "高雄市長政見會》王肇民：參選理念是奉行先總統蔣公遺訓",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640714"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "漢康-KY創公告本公司經理人異動- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XZGxGSXp3azFTY1NiMVd6eXpnXzlsRXBFOTN2OHg0RmlQdUN3ZVd2Z0hWbmhFM0hrQjFXeklqcDZneE1xMWJOVXhQdHFMVGZhYnNfNUdGU2ZrT1d2eXowSy10QmlSZ2MtdmxSdVhfak02ZVVoREE5NA?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "虎父無犬子！健行教頭劉孟竹南下助陣、劉衡4記三分彈助信義大勝",
-          "url": "https://sports.ettoday.net/news/3272304"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "站臺力挺張善政 韓國瑜：最善良政治人物",
       "summary": [
         "自由時報：站臺力挺張善政 韓國瑜：最善良政治人物",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "日月光投控：日月光半導體製造9/21~11/13向萬潤取得營業用機器裝置，計約10億",
       "summary": [
         "MoneyDJ理財網：日月光投控：日月光半導體製造9/21~11/13向萬潤取得營業用機器裝置，計約10億",
@@ -77,28 +50,28 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "京晨科董事會決議發行116年度第一次有擔保普通公司債，上限2億元- 新聞",
+      "rank": 3,
+      "title": "盧秀燕遊行途中站民眾黨應援臺 喊「我們的家人」：藍白團結為臺北",
       "summary": [
-        "MoneyDJ理財網：京晨科董事會決議發行116年度第一次有擔保普通公司債，上限2億元- 新聞",
-        "公開資訊觀測站重訊：京晨科董事會決議發行116年度第一次有擔保普通公司債，上限2億元"
+        "自由時報：盧秀燕遊行途中站民眾黨應援臺 喊「我們的家人」：藍白團結為臺北",
+        "ETtoday：國中軟聯連3屆上演同縣市內戰！長安、敦化爭冠　金盃確定留臺北"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "MoneyDJ理財網",
-          "title": "京晨科董事會決議發行116年度第一次有擔保普通公司債，上限2億元- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPck9pekY4eWFfaUU3Mk80WVJ5d09oc3hsaXV1VENZancxT3VzN2dYUW0tUExENFpjVWYwWVZyUGg4Wk5OZmxHaVhlZ3dvR3JLQkRXNXdwbFM4YzFwVWlMYlRFLVFqaFdKVXdPb2JFbVlLS1c5ZWlCU0xIWDFoYjdRUmgzYVhSWHVZaHVsMFluRmQ0QQ?oc=5"
+          "source": "自由時報",
+          "title": "盧秀燕遊行途中站民眾黨應援臺 喊「我們的家人」：藍白團結為臺北",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640768"
         },
         {
-          "source": "公開資訊觀測站重訊",
-          "title": "京晨科董事會決議發行116年度第一次有擔保普通公司債，上限2億元",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVkhDSVlQRWRVMDBfTjhwYVBxTGRoOGNXWG1SeUUxZ0U0REpJaDZFX2NfbXR0VW9pWUhPV25PbjZaRGRubllLUVZwNUExb0U3NXY4cEg5SkFid1M2ek1Kbkh1Q1lZajV4UzNLeEMwM0pPUUtWcnhlOUk2a0dUVmt2VnJELXJxQXhmaXo4dFpLQ1dvd2FPdTdMbXNnZVM?oc=5"
+          "source": "ETtoday",
+          "title": "國中軟聯連3屆上演同縣市內戰！長安、敦化爭冠　金盃確定留臺北",
+          "url": "https://sports.ettoday.net/news/3272377"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "蘇巧慧遭麥克風撞斷門牙 李四川暖發文：期盼早日康復",
       "summary": [
         "自由時報：蘇巧慧遭麥克風撞斷門牙 李四川暖發文：期盼早日康復",
@@ -119,49 +92,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "「臺北要跟上市民的努力」　沈伯洋細數政見：為大家全力以赴",
-      "summary": [
-        "ETtoday：「臺北要跟上市民的努力」　沈伯洋細數政見：為大家全力以赴",
-        "今周刊：臺北市長政見發表會／沈伯洋HEART五面向出發「從有到好」：我的市府要為市民全力以赴"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "「臺北要跟上市民的努力」　沈伯洋細數政見：為大家全力以赴",
-          "url": "https://www.ettoday.net/news/20261114/3272185.htm"
-        },
-        {
-          "source": "今周刊",
-          "title": "臺北市長政見發表會／沈伯洋HEART五面向出發「從有到好」：我的市府要為市民全力以赴",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdWlWRDdxYklPWlFzMDM1SGg1MElmWnV0NS05QmlHWFdjWDRsS2RjaDFfVkZOLVFyZG5QQnM3dXc5VjFTQjFYSDlmMkxWU09SSFJVcG9yOTU5N3BmODZHT0ZLOGp4OTEzRHRkOUQ2dGtmOHRGVXA2N3NpVXJRRXYxSg?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "新加坡扣黃樂護照8個月　查輝達晶片案獲美協助有限",
-      "summary": [
-        "經濟日報：新加坡扣黃樂護照8個月　查輝達晶片案獲美協助有限",
-        "MoneyDJ理財網：新加坡扣黃樂護照8個月查輝達晶片案獲美協助有限- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "新加坡扣黃樂護照8個月　查輝達晶片案獲美協助有限",
-          "url": "https://money.udn.com/money/story/5599/9878720"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "新加坡扣黃樂護照8個月查輝達晶片案獲美協助有限- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQlpsQjgySUlhZzZFbW9nM0tfNndUWDlNNWM3R3hTb0UwLW1YOTlKb0w2d2lOZ2hlSVdzSW5CdTRWbVM0WmxoUm4zbkVyemt0RWVJYzUyT1Bab1Jkc0xmakhIVmRpYU1qdHoyaklXM0lVdGZOTkZpMHhaSWlxR3Q0QVhtSFcxcjNVTFp4ZVBHTkRfQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "title": "中探針董事會透過辦理私募現增上限1200萬股案- 新聞",
       "summary": [
         "MoneyDJ理財網：中探針董事會透過辦理私募現增上限1200萬股案- 新聞",
@@ -182,7 +113,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "基泰大直施工圖被埋了 林楚茵酸：北市府首創「水泥滅證法」",
       "summary": [
         "自由時報：基泰大直施工圖被埋了 林楚茵酸：北市府首創「水泥滅證法」",
@@ -203,7 +134,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "黃仁勳是誰要他下臺？幕後黑手是？華郵：一樁婚外情扯出對中鷹派角力「削弱他對川普的影響力」",
       "summary": [
         "今周刊：黃仁勳是誰要他下臺？幕後黑手是？華郵：一樁婚外情扯出對中鷹派角力「削弱他對川普的影響力」",
@@ -220,6 +151,69 @@
           "source": "中時新聞",
           "title": "黃仁勳倒臺幕後黑手是他《華郵》：對中鷹派欲斷他與川普連結- 國際",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tSHIyRUZMVHNBbmppS2taejVRZk9XVkNLNGFVVTZvVXF6UXd6TUZPb1BJeEhoNHZxUkVqVUY1SXAyVnNvZmRsUE1FSDlDMElPQ0kxU0VGVTFUVDRmMUFEaXdyc2ZpMVlHYTJvRDJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "澤倫斯基爆料 美國提問烏克蘭可否以撤軍換「入約」",
+      "summary": [
+        "自由時報：澤倫斯基爆料 美國提問烏克蘭可否以撤軍換「入約」",
+        "經濟日報：澤倫斯基：美方提出烏克蘭撤出頓巴斯　換取加入北約"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "澤倫斯基爆料 美國提問烏克蘭可否以撤軍換「入約」",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5640920"
+        },
+        {
+          "source": "經濟日報",
+          "title": "澤倫斯基：美方提出烏克蘭撤出頓巴斯　換取加入北約",
+          "url": "https://money.udn.com/money/story/5599/9879116"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "黃仁勳離開輝達才一天　矽谷預期他將重返權力核心",
+      "summary": [
+        "經濟日報：黃仁勳離開輝達才一天　矽谷預期他將重返權力核心",
+        "自由時報：黃仁勳離開輝達才一天 矽谷預期他將重返權力核心"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳離開輝達才一天　矽谷預期他將重返權力核心",
+          "url": "https://money.udn.com/money/story/5599/9878954"
+        },
+        {
+          "source": "自由時報",
+          "title": "黃仁勳離開輝達才一天 矽谷預期他將重返權力核心",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5640913"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "侯友宜挺蔣萬安、李四川都是老實人 喊雙北互相催票",
+      "summary": [
+        "自由時報：侯友宜挺蔣萬安、李四川都是老實人 喊雙北互相催票",
+        "ETtoday：要雙北互催票！侯友宜讚蔣萬安、李四川　是「侯侯做代誌」同路人"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "侯友宜挺蔣萬安、李四川都是老實人 喊雙北互相催票",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640883"
+        },
+        {
+          "source": "ETtoday",
+          "title": "要雙北互催票！侯友宜讚蔣萬安、李四川　是「侯侯做代誌」同路人",
+          "url": "https://www.ettoday.net/news/20261114/3272307.htm"
         }
       ]
     }
@@ -317,51 +311,6 @@
     },
     {
       "rank": 5,
-      "title": "週四簡報：我們對 Alice Huang 和 Nvidia 事件瞭解（和不瞭解）的情況",
-      "summary": [
-        "The Guardian：週四簡報：我們對 Alice Huang 和 Nvidia 事件瞭解（和不瞭解）的情況"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "週四簡報：我們對 Alice Huang 和 Nvidia 事件瞭解（和不瞭解）的情況",
-          "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "全球停電後 Microsoft Outlook 與 Teams 服務",
-      "summary": [
-        "Investing.com：全球停電後 Microsoft Outlook 與 Teams 服務"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "全球停電後 Microsoft Outlook 與 Teams 服務",
-          "url": "https://www.investing.com/news/stock-market-news/microsoft-outlook-teams-outage-eases-after-over-a-day-recovery-timeline-uncertain-5026486"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Wayfair 優惠券：2026 年 11 月最高折扣 80%",
-      "summary": [
-        "Wired：Wayfair 優惠券：2026 年 11 月最高折扣 80%"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Wired",
-          "title": "Wayfair 優惠券：2026 年 11 月最高折扣 80%",
-          "url": "https://www.wired.com/story/wayfair-promo-code/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Centrica 和 Equinor 進入下一輪德國 Uniper 出售",
       "summary": [
         "Bloomberg Markets：Centrica 和 Equinor 進入下一輪德國 Uniper 出售"
@@ -376,7 +325,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "隨著 IPO 估值跌破 2T 美元的希望，Anthropic 執行長 Dario Amodei 的目標是“承諾不足，交付過多”",
       "summary": [
         "Yahoo Finance：隨著 IPO 估值跌破 2T 美元的希望，Anthropic 執行長 Dario Amodei 的目標是“承諾不足，交付過多”"
@@ -391,7 +340,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "訊息人士稱，莫迪就網站關閉問題召喚電信部長",
       "summary": [
         "Investing.com：訊息人士稱，莫迪就網站關閉問題召喚電信部長"
@@ -402,6 +351,51 @@
           "source": "Investing.com",
           "title": "訊息人士稱，莫迪就網站關閉問題召喚電信部長",
           "url": "https://www.investing.com/news/stock-market-news/modi-summons-telecom-secretary-over-website-takedowns-sources-say-5027214"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "油輪罷工導致新奧爾良遊輪沉沒，乘客落入河中",
+      "summary": [
+        "Washington Post：油輪罷工導致新奧爾良遊輪沉沒，乘客落入河中"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "油輪罷工導致新奧爾良遊輪沉沒，乘客落入河中",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUWR0dFNjR3JLWHJRYlh2SWV3bGEzX1QtUThZWmE0ZjFNTEVobEsxa3N4SDYyOHJuLWh6QUoyWnFQREY4XzdLbmxjdm02N1g2QWV2VEhWdGJRX3FJTXVtUXA4SFFfV1FFbnR4WXFJYmNOOTFIWVI5VWQ0YXNSTVNMWV9qWVZjS1Q3cUZrbmZYNkx4Mmp0ZnRMU1NZZGdjRXBISm1BbXA5NHJwY2NwbkEwcFItVHNsN2hheVdSNkh1VTBjUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Huw Pill 表示，英國央行可能在 2027 年進一步升息",
+      "summary": [
+        "Investing.com：Huw Pill 表示，英國央行可能在 2027 年進一步升息"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Huw Pill 表示，英國央行可能在 2027 年進一步升息",
+          "url": "https://www.investing.com/news/stock-market-news/bank-of-england-likely-to-raise-rates-further-in-2027-huw-pill-says--ft-5027218"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳（Jensen Huang）向考慮NVIDIA領導層保證，他與Alice Huang的會面是“適當的”，並就針對《紐約時報》採取法律行動",
+      "summary": [
+        "Wccftech：黃仁勳（Jensen Huang）向考慮NVIDIA領導層保證，他與Alice Huang的會面是“適當的”，並就針對《紐約時報》採取法律行動"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Wccftech",
+          "title": "黃仁勳（Jensen Huang）向考慮NVIDIA領導層保證，他與Alice Huang的會面是“適當的”，並就針對《紐約時報》採取法律行動",
+          "url": "https://wccftech.com/jensen-huang-assured-nvidia-leadership-alice-huang-appropriate-mulled-legal-action-nyt/"
         }
       ]
     }
