@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 11:31",
+  "updated_at": "2026-11-14 11:58",
   "taiwan": [
     {
       "rank": 1,
@@ -72,6 +72,48 @@
     },
     {
       "rank": 4,
+      "title": "7年前專訪蔡英文也曾感動過 鍾明軒如今勇敢發問：妳還願意聽我說完嗎？",
+      "summary": [
+        "中時新聞：7年前專訪蔡英文也曾感動過 鍾明軒如今勇敢發問：妳還願意聽我說完嗎？",
+        "自由時報：鍾明軒喊話蔡英文聽他幾年經歷 蔣萬安力挺：為政者應謙卑傾聽"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "7年前專訪蔡英文也曾感動過 鍾明軒如今勇敢發問：妳還願意聽我說完嗎？",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KV2NpSDkxcktpN1hraWdod19Wa2gxb1NtZHg0ZVpVclF6NHhaZWpoeXYzTHN5Z2poMExfWDBzMnJhaXp2eExfY2wwcGNacmFKa3lBNnZ1cXZ4QldpbnBIcktJTlgyZzFkb0xNZnFn?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "鍾明軒喊話蔡英文聽他幾年經歷 蔣萬安力挺：為政者應謙卑傾聽",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640463"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "千億富豪宣佈「不再買輝達股票」：沒有黃仁勳就不買了",
+      "summary": [
+        "ETtoday：千億富豪宣佈「不再買輝達股票」：沒有黃仁勳就不買了",
+        "工商時報：沒了老黃就不買！曾砸427億 美富豪宣佈「停止加碼輝達」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "千億富豪宣佈「不再買輝達股票」：沒有黃仁勳就不買了",
+          "url": "https://www.ettoday.net/news/20261114/3271891.htm"
+        },
+        {
+          "source": "工商時報",
+          "title": "沒了老黃就不買！曾砸427億 美富豪宣佈「停止加碼輝達」",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lNWFyVXgtSXBOTGFRNkhwT2hKSFBPd2tROWZ1T29qN3lFb3dFWGtzVDg3cmQyVm1WYVBVSHg5OEQxclpVY2MwZWxpY0NSQzN5NmVoalZTTzZMUFJFYVQw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "靠AI提升效率，Appier Q3營業利益翻倍、毛利率61.3%創高！連兩季上修全年獲利財測，現金股利估2.5日圓 | 魏鑫陽 | 財經",
       "summary": [
         "風傳媒：靠AI提升效率，Appier Q3營業利益翻倍、毛利率61.3%創高！連兩季上修全年獲利財測，現金股利估2.5日圓 | 魏鑫陽 | 財經",
@@ -92,7 +134,28 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "title": "明開唱!山下智久飛抵高雄 超親民!摘墨鏡替粉絲簽名｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+      "summary": [
+        "TVBS新聞：明開唱!山下智久飛抵高雄 超親民!摘墨鏡替粉絲簽名｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "自由時報：桃園多元文化故鄉季登場 畢書盡等藝人開唱將嗨翻藝文廣場"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "明開唱!山下智久飛抵高雄 超親民!摘墨鏡替粉絲簽名｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lZGxZOTVtc1V2UkpKMmtRMnZYT1NKZEpKQm9DM1NiVzZ6OUdsWGR5T2dDbnB6SXdWNEJIblliUXo0a1ZaV2VxUWVWRFM3RXZlRU11Qk5n?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "桃園多元文化故鄉季登場 畢書盡等藝人開唱將嗨翻藝文廣場",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5640361"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "張惠妹爆壓軸唱建中校慶舞會！　主辦拋4大線索…天后全符合",
       "summary": [
         "ETtoday：張惠妹爆壓軸唱建中校慶舞會！　主辦拋4大線索…天后全符合",
@@ -113,7 +176,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 9,
       "title": "罕見「冬天雷雨」今午後開炸　下週2波東北季風變天",
       "summary": [
         "ETtoday：罕見「冬天雷雨」今午後開炸　下週2波東北季風變天",
@@ -134,7 +197,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "「馬斯克力挺黃仁勳」原因曝光！　輝達10年前舊文出土",
       "summary": [
         "ETtoday：「馬斯克力挺黃仁勳」原因曝光！　輝達10年前舊文出土",
@@ -153,82 +216,24 @@
           "url": "https://ec.ltn.com.tw/article/breakingnews/5640348"
         }
       ]
-    },
-    {
-      "rank": 8,
-      "title": "SpaceX星艦「雙重捕捉」受挫！助推器爆炸落海 太空船續衝軌道",
-      "summary": [
-        "自由時報：SpaceX星艦「雙重捕捉」受挫！助推器爆炸落海 太空船續衝軌道",
-        "經濟日報：SpaceX星艦火箭進入地球軌道　推進器回收任務中止"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "SpaceX星艦「雙重捕捉」受挫！助推器爆炸落海 太空船續衝軌道",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5640244"
-        },
-        {
-          "source": "經濟日報",
-          "title": "SpaceX星艦火箭進入地球軌道　推進器回收任務中止",
-          "url": "https://money.udn.com/money/story/5599/9878165"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "微軟全球大當機",
-      "summary": [
-        "TVBS新聞：微軟全球大當機",
-        "工商時報：微軟全球大當機- 日報"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "微軟全球大當機",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SUW84NEx3NGt1TWZNc3huVFBGaXpKWFYtelZfTUo5M0cxa2J2aUUwZzVRb2RPZHpSS0tGazFLUjN3R2NzMmxSZTZKVjJDNmNLeXpIaw?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "微軟全球大當機- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55c2JfRTItWHlCQ09LRFJaM2w4ekZVdlBIVGM1cDh6b2twa1BWLXpqd1ZqNXBCazBYN2Y3MlYzNEl2b1JEZ1k4MEhkVHlpSWJRNzVHNDhoNUl2d3lvUlo4?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "FAA新AI航管系統上線三天後全美航班停飛，通訊故障原因待查",
-      "summary": [
-        "自由時報：FAA新AI航管系統上線三天後全美航班停飛，通訊故障原因待查",
-        "科技新報：又是軟體更新惹得禍？FAA 航管系統異常、美全國航班停飛"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "FAA新AI航管系統上線三天後全美航班停飛，通訊故障原因待查",
-          "url": "https://news.ltn.com.tw/news/aichannel/breakingnews/5640271"
-        },
-        {
-          "source": "科技新報",
-          "title": "又是軟體更新惹得禍？FAA 航管系統異常、美全國航班停飛",
-          "url": "https://technews.tw/2026/11/14/faa-all-flights-were-grounded/"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "美國航空監管機構停飛所有離港航班",
+      "title": "【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
       "summary": [
+        "NHK新聞：【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
         "Financial Times：美國航空監管機構停飛所有離港航班",
-        "Bloomberg Markets：美國聯邦航空管理局 (FAA) 停飛全國所有航班",
-        "CNBC：美國聯邦航空局以空中交通通訊系統中斷為由，停飛全國航班"
+        "Bloomberg Markets：因空中交通管制問題美國各地航班停飛"
       ],
       "media_count": 5,
       "links": [
+        {
+          "source": "NHK新聞",
+          "title": "【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75764"
+        },
         {
           "source": "Financial Times",
           "title": "美國航空監管機構停飛所有離港航班",
@@ -236,8 +241,8 @@
         },
         {
           "source": "Bloomberg Markets",
-          "title": "美國聯邦航空管理局 (FAA) 停飛全國所有航班",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-13/faa-grounds-all-flights-nationwide-video"
+          "title": "因空中交通管制問題美國各地航班停飛",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/flights-grounded-across-us-video"
         },
         {
           "source": "CNBC",
@@ -248,38 +253,33 @@
           "source": "Yahoo Finance",
           "title": "美國聯邦航空局下令全國所有航班停飛，航空公司股票下跌",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUkc1ZFZkTVppV0JQNnJWS0RLSlEwLUlXRFhORmpMbk12VjBYamNtV3RSSjFJU3lCWkxLQ2xtdGdWZkVrOUJDbDhUUkluZDVCUnhpd1B5VmdsbHN0dFdQN0dJbHVyNnJKbDJGdlNlX0RGcUNTclhWV2NrODBOejJLV0FseHhXYUNTbC00d25WbHU3bDR4S1llQ3NCMjFfemdSVzkxbWc4eVFXdmFTbUN3NmdXck5DQUdQWkR3SEh0bldLNGpw?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "空中交通管制通訊中斷後，美國聯邦航空管理局 (FAA) 停飛全國航班",
-          "url": "https://www.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-5026489"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
+      "title": "SpaceX 即將嘗試火箭技術的“聖杯”",
       "summary": [
-        "NHK新聞：【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
-        "Bloomberg Markets：因空中交通管制問題美國各地航班停飛",
-        "Yahoo Finance：空中交通通訊中斷後美國各地航班停飛"
+        "MarketWatch：SpaceX 即將嘗試火箭技術的“聖杯”",
+        "BBC World：SpaceX 嘗試雙重捕捉巨型星艦火箭",
+        "CNBC：SpaceX 大型火箭的關鍵試飛中發射星艦"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75764"
+          "source": "MarketWatch",
+          "title": "SpaceX 即將嘗試火箭技術的“聖杯”",
+          "url": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories"
         },
         {
-          "source": "Bloomberg Markets",
-          "title": "因空中交通管制問題美國各地航班停飛",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-13/flights-grounded-across-us-video"
+          "source": "BBC World",
+          "title": "SpaceX 嘗試雙重捕捉巨型星艦火箭",
+          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "空中交通通訊中斷後美國各地航班停飛",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMTdxT3I1cDJoUXI0bDM0VmxBSDdPZDJUNHZqTmo4YVR4N2RWNEtaT3NKNmZRSVlkTnUxSlZtMjFOdmRhWkhJM3VXRUVqS1ZZcXpaNUtQYVdiU0VzYUp3NFA4bXp1VE9NVXZodUF6RWI1TjJzU25GS2NZcEl2VUNETkZwOA?oc=5"
+          "source": "CNBC",
+          "title": "SpaceX 大型火箭的關鍵試飛中發射星艦",
+          "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
         }
       ]
     },
@@ -396,27 +396,6 @@
     },
     {
       "rank": 8,
-      "title": "SpaceX 即將嘗試火箭技術的“聖杯”",
-      "summary": [
-        "MarketWatch：SpaceX 即將嘗試火箭技術的“聖杯”",
-        "CNBC：SpaceX 在大型火箭的關鍵試飛中發射星艦"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MarketWatch",
-          "title": "SpaceX 即將嘗試火箭技術的“聖杯”",
-          "url": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories"
-        },
-        {
-          "source": "CNBC",
-          "title": "SpaceX 在大型火箭的關鍵試飛中發射星艦",
-          "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "獨家－亞馬遜計畫擁有全球商品資料，對抗AI代購",
       "summary": [
         "Investing.com：獨家－亞馬遜計畫擁有全球商品資料，對抗AI代購",
@@ -437,7 +416,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Newegg 預載遊戲電腦中裝載未發布的 Intel Core Ultra 7 260K CPU",
       "summary": [
         "Tom's Hardware：Newegg 預載遊戲電腦中裝載未發布的 Intel Core Ultra 7 260K CPU",
@@ -454,6 +433,27 @@
           "source": "Wccftech",
           "title": "Newegg獨家CPU Intel Core Ultra 7 260K悄悄上市，最高搭配GeForce RTX 5070，售價1,999美元",
           "url": "https://wccftech.com/intel-core-ultra-7-260k-quietly-launches-as-newegg-exclusive-cpu/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "報道稱，英偉達執行長黃仁勳在辭職會議上“心碎”",
+      "summary": [
+        "Tom's Hardware：報道稱，英偉達執行長黃仁勳在辭職會議上“心碎”",
+        "法廣RFI：黃仁勳何竟只因婚外情被迫辭職英偉達執行長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "報道稱，英偉達執行長黃仁勳在辭職會議上“心碎”",
+          "url": "https://www.tomshardware.com/tech-industry/broken-and-shattered-nvidia-ceo-jensen-huang-surrendered-during-resignation-meeting-report-claims-thousands-of-employees-rally-calling-for-reinstatement-on-internal-forum"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "黃仁勳何竟只因婚外情被迫辭職英偉達執行長",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261114-%E9%BB%83%E4%BB%81%E5%8B%B3%E4%BD%95%E7%AB%9F%E5%8F%AA%E5%9B%A0%E5%A9%9A%E5%A4%96%E6%83%85%E8%A2%AB%E8%BF%AB%E8%BE%AD%E8%81%B7%E8%8B%B1%E5%81%89%E9%81%94%E5%9F%B7%E8%A1%8C%E9%95%B7"
         }
       ]
     }
