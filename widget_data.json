@@ -1,25 +1,19 @@
 {
-  "updated_at": "2026-11-14 12:28",
+  "updated_at": "2026-11-14 12:58",
   "taiwan": [
     {
       "rank": 1,
-      "title": "美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
+      "title": "美國全境航班停飛令解除！逾萬架次延誤、4000架次取消",
       "summary": [
-        "經濟日報：美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
-        "TVBS新聞：電訊中斷! 全美航班暫停起飛 近8千航班延誤｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "經濟日報：美國全境航班停飛令解除！逾萬架次延誤、4000架次取消",
         "自由時報：美國全境航班停飛令解除  4000架次取消"
       ],
-      "media_count": 3,
+      "media_count": 2,
       "links": [
         {
           "source": "經濟日報",
-          "title": "美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
-          "url": "https://money.udn.com/money/story/5599/9878089"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "電訊中斷! 全美航班暫停起飛 近8千航班延誤｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qWWFEZnB5N3otellhMXNRcl85MFhlakVWSHNyVkdxdmVXZi1PQ2VlSlVUVDJ3R1JZd0h5emtseEJHVDBrck9DMlNUZXR6Ry1zU2wtWnZ3?oc=5"
+          "title": "美國全境航班停飛令解除！逾萬架次延誤、4000架次取消",
+          "url": "https://money.udn.com/money/story/5599/9878195"
         },
         {
           "source": "自由時報",
@@ -221,14 +215,19 @@
   "global": [
     {
       "rank": 1,
-      "title": "美國航空監管機構停飛所有離港航班",
+      "title": "【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
       "summary": [
+        "NHK新聞：【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
         "Financial Times：美國航空監管機構停飛所有離港航班",
-        "Bloomberg Markets：美國聯邦航空管理局 (FAA) 停飛全國所有航班",
-        "CNBC：美國聯邦航空局以空中交通通訊系統中斷為由，停飛全國航班"
+        "Bloomberg Markets：因空中交通管制問題美國各地航班停飛"
       ],
       "media_count": 5,
       "links": [
+        {
+          "source": "NHK新聞",
+          "title": "【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75764"
+        },
         {
           "source": "Financial Times",
           "title": "美國航空監管機構停飛所有離港航班",
@@ -236,8 +235,8 @@
         },
         {
           "source": "Bloomberg Markets",
-          "title": "美國聯邦航空管理局 (FAA) 停飛全國所有航班",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-13/faa-grounds-all-flights-nationwide-video"
+          "title": "因空中交通管制問題美國各地航班停飛",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/flights-grounded-across-us-video"
         },
         {
           "source": "CNBC",
@@ -248,53 +247,16 @@
           "source": "Yahoo Finance",
           "title": "美國聯邦航空局下令全國所有航班停飛，航空公司股票下跌",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUkc1ZFZkTVppV0JQNnJWS0RLSlEwLUlXRFhORmpMbk12VjBYamNtV3RSSjFJU3lCWkxLQ2xtdGdWZkVrOUJDbDhUUkluZDVCUnhpd1B5VmdsbHN0dFdQN0dJbHVyNnJKbDJGdlNlX0RGcUNTclhWV2NrODBOejJLV0FseHhXYUNTbC00d25WbHU3bDR4S1llQ3NCMjFfemdSVzkxbWc4eVFXdmFTbUN3NmdXck5DQUdQWkR3SEh0bldLNGpw?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "空中交通管制通訊中斷後，美國聯邦航空管理局 (FAA) 停飛全國航班",
-          "url": "https://www.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-5026489"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
-      "summary": [
-        "NHK新聞：【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
-        "Bloomberg Markets：因空中交通管制問題美國各地航班停飛",
-        "Yahoo Finance：空中交通通訊中斷後美國各地航班停飛"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75764"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "因空中交通管制問題美國各地航班停飛",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-13/flights-grounded-across-us-video"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "空中交通通訊中斷後美國各地航班停飛",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMTdxT3I1cDJoUXI0bDM0VmxBSDdPZDJUNHZqTmo4YVR4N2RWNEtaT3NKNmZRSVlkTnUxSlZtMjFOdmRhWkhJM3VXRUVqS1ZZcXpaNUtQYVdiU0VzYUp3NFA4bXp1VE9NVXZodUF6RWI1TjJzU25GS2NZcEl2VUNETkZwOA?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "美國航班停飛暴露空中交通網危機加深",
-          "url": "https://www.investing.com/news/stock-market-news/us-flight-shutdown-exposes-deepening-air-traffic-network-crisis-5026935"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "SpaceX 即將嘗試火箭技術的“聖杯”",
       "summary": [
         "MarketWatch：SpaceX 即將嘗試火箭技術的“聖杯”",
         "BBC World：SpaceX 嘗試雙重捕捉巨型星艦火箭",
-        "CNBC：SpaceX 在大型火箭的關鍵試飛中發射星艦"
+        "CNBC：SpaceX 大型火箭的關鍵試飛中發射星艦"
       ],
       "media_count": 3,
       "links": [
@@ -310,13 +272,13 @@
         },
         {
           "source": "CNBC",
-          "title": "SpaceX 在大型火箭的關鍵試飛中發射星艦",
+          "title": "SpaceX 大型火箭的關鍵試飛中發射星艦",
           "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
         }
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "川普不打算在中國之行期間提出英偉達、間諜問題：美國官員",
       "summary": [
         "CNBC：川普不打算在中國之行期間提出英偉達、間諜問題：美國官員",
@@ -343,7 +305,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "德國間諜授予新權力應對來自國外的“混合威脅”",
       "summary": [
         "BBC World：德國間諜授予新權力應對來自國外的“混合威脅”",
@@ -364,7 +326,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "隨著氣候科學之爭升溫，中國放棄申辦未來締約方大會",
       "summary": [
         "Financial Times：隨著氣候科學之爭升溫，中國放棄申辦未來締約方大會",
@@ -385,7 +347,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "OpenAI 推出 ChatGPT 錢包，允許其「點」人工​​智慧代理為使用者進行購買",
       "summary": [
         "CNBC：OpenAI 推出 ChatGPT 錢包，允許其「點」人工​​智慧代理為使用者進行購買",
@@ -406,7 +368,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "黃仁勳醜聞讓人們對英偉達的人工智慧主導地位產生了懷疑——我們是如何走到這一步的",
       "summary": [
         "CNBC：黃仁勳醜聞讓人們對英偉達的人工智慧主導地位產生了懷疑——我們是如何走到這一步的",
@@ -427,7 +389,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "獨家－亞馬遜計畫擁有全球商品資料，對抗AI代購",
       "summary": [
         "Investing.com：獨家－亞馬遜計畫擁有全球商品資料，對抗AI代購",
@@ -448,7 +410,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Newegg 預載遊戲電腦中裝載未發布的 Intel Core Ultra 7 260K CPU",
       "summary": [
         "Tom's Hardware：Newegg 預載遊戲電腦中裝載未發布的 Intel Core Ultra 7 260K CPU",
@@ -465,6 +427,27 @@
           "source": "Wccftech",
           "title": "Newegg獨家CPU Intel Core Ultra 7 260K悄悄上市，最高搭配GeForce RTX 5070，售價1,999美元",
           "url": "https://wccftech.com/intel-core-ultra-7-260k-quietly-launches-as-newegg-exclusive-cpu/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "報道稱，英偉達執行長黃仁勳在辭職會議上“心碎”",
+      "summary": [
+        "Tom's Hardware：報道稱，英偉達執行長黃仁勳在辭職會議上“心碎”",
+        "法廣RFI：黃仁勳何竟只因婚外情被迫辭職英偉達執行長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "報道稱，英偉達執行長黃仁勳在辭職會議上“心碎”",
+          "url": "https://www.tomshardware.com/tech-industry/broken-and-shattered-nvidia-ceo-jensen-huang-surrendered-during-resignation-meeting-report-claims-thousands-of-employees-rally-calling-for-reinstatement-on-internal-forum"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "黃仁勳何竟只因婚外情被迫辭職英偉達執行長",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261114-%E9%BB%83%E4%BB%81%E5%8B%B3%E4%BD%95%E7%AB%9F%E5%8F%AA%E5%9B%A0%E5%A9%9A%E5%A4%96%E6%83%85%E8%A2%AB%E8%BF%AB%E8%BE%AD%E8%81%B7%E8%8B%B1%E5%81%89%E9%81%94%E5%9F%B7%E8%A1%8C%E9%95%B7"
         }
       ]
     }
