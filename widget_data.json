@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-14 18:26",
+  "updated_at": "2026-11-14 18:56",
   "taiwan": [
     {
       "rank": 1,
+      "title": "桃園多元文化故鄉季登場 畢書盡等藝人開唱將嗨翻藝文廣場",
+      "summary": [
+        "自由時報：桃園多元文化故鄉季登場 畢書盡等藝人開唱將嗨翻藝文廣場",
+        "ETtoday：弘前城天守閣回歸　臺中大遠百日本文化物產展登場",
+        "財訊：創見束崇萬大談購入宜蘭阿拉伯宮秘辛，為了寵妻打造臺灣當代藝術館"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "桃園多元文化故鄉季登場 畢書盡等藝人開唱將嗨翻藝文廣場",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5640361"
+        },
+        {
+          "source": "ETtoday",
+          "title": "弘前城天守閣回歸　臺中大遠百日本文化物產展登場",
+          "url": "https://www.ettoday.net/news/20261114/3272250.htm"
+        },
+        {
+          "source": "財訊",
+          "title": "創見束崇萬大談購入宜蘭阿拉伯宮秘辛，為了寵妻打造臺灣當代藝術館",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rT1gtaUxWM2dvYk1ONkU1RW9FMklTTEhiRlk0WXZRMmVwNG9oR0VPNE81a0I0d2pVRmRmWFk1TG1BMHNXbGJiTzlCR3F3LWZSakYtaWMzR2tXSy1TSFdBWlV0NFBTaEdiWlNYNHFtMXlWdnJJV0U5X0s2Yw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "美國全境航班停飛令解除！逾萬架次延誤、4000架次取消",
       "summary": [
         "經濟日報：美國全境航班停飛令解除！逾萬架次延誤、4000架次取消",
@@ -23,7 +50,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "京晨科董事會決議發行116年度第一次有擔保普通公司債，上限2億元- 新聞",
       "summary": [
         "MoneyDJ理財網：京晨科董事會決議發行116年度第一次有擔保普通公司債，上限2億元- 新聞",
@@ -44,7 +71,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "日月光投控：日月光半導體製造9/21~11/13向萬潤取得營業用機器裝置，計約10億",
       "summary": [
         "MoneyDJ理財網：日月光投控：日月光半導體製造9/21~11/13向萬潤取得營業用機器裝置，計約10億",
@@ -65,7 +92,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "張惠妹爆壓軸唱建中校慶舞會！　主辦拋4大線索…天后全符合",
       "summary": [
         "ETtoday：張惠妹爆壓軸唱建中校慶舞會！　主辦拋4大線索…天后全符合",
@@ -86,7 +113,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "罕見「冬天雷雨」今午後開炸　下週2波東北季風變天",
       "summary": [
         "ETtoday：罕見「冬天雷雨」今午後開炸　下週2波東北季風變天",
@@ -107,7 +134,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "「馬斯克力挺黃仁勳」原因曝光！　輝達10年前舊文出土",
       "summary": [
         "ETtoday：「馬斯克力挺黃仁勳」原因曝光！　輝達10年前舊文出土",
@@ -128,7 +155,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "黃仁勳婚外情掀「AI間諜戰」：中國國安部「晶片組」如何滲透矽谷科技鉅子？",
       "summary": [
         "關鍵評論網：黃仁勳婚外情掀「AI間諜戰」：中國國安部「晶片組」如何滲透矽谷科技鉅子？",
@@ -149,7 +176,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
       "summary": [
         "經濟日報：美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
@@ -170,7 +197,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "SpaceX星艦「雙重捕捉」受挫！助推器爆炸落海 太空船續衝軌道",
       "summary": [
         "自由時報：SpaceX星艦「雙重捕捉」受挫！助推器爆炸落海 太空船續衝軌道",
@@ -187,27 +214,6 @@
           "source": "經濟日報",
           "title": "SpaceX星艦火箭進入地球軌道　推進器回收任務中止",
           "url": "https://money.udn.com/money/story/5599/9878165"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "微軟全球大當機",
-      "summary": [
-        "TVBS新聞：微軟全球大當機",
-        "工商時報：微軟全球大當機- 日報"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "微軟全球大當機",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SUW84NEx3NGt1TWZNc3huVFBGaXpKWFYtelZfTUo5M0cxa2J2aUUwZzVRb2RPZHpSS0tGazFLUjN3R2NzMmxSZTZKVjJDNmNLeXpIaw?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "微軟全球大當機- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55c2JfRTItWHlCQ09LRFJaM2w4ekZVdlBIVGM1cDh6b2twa1BWLXpqd1ZqNXBCazBYN2Y3MlYzNEl2b1JEZ1k4MEhkVHlpSWJRNzVHNDhoNUl2d3lvUlo4?oc=5"
         }
       ]
     }
