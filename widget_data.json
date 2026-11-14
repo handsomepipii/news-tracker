@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 08:31",
+  "updated_at": "2026-11-14 09:01",
   "taiwan": [
     {
       "rank": 1,
@@ -185,210 +185,227 @@
   "global": [
     {
       "rank": 1,
-      "title": "FAA Grounds All Flights Nationwide",
+      "title": "【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
       "summary": [
-        "Bloomberg Markets：FAA Grounds All Flights Nationwide",
-        "CNBC：FAA grounds departing flights nationwide, citing air traffic communication system outage",
-        "Investing.com：FAA grounds flights nationwide after air traffic control communications outage"
+        "NHK新聞：【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
+        "Financial Times：美國航空監管機構停飛所有離港航班",
+        "Bloomberg Markets：因空中交通管制問題美國各地航班停飛"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
+          "source": "NHK新聞",
+          "title": "【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75764"
+        },
+        {
+          "source": "Financial Times",
+          "title": "美國航空監管機構停飛所有離港航班",
+          "url": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1"
+        },
+        {
           "source": "Bloomberg Markets",
-          "title": "FAA Grounds All Flights Nationwide",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-13/faa-grounds-all-flights-nationwide-video"
+          "title": "因空中交通管制問題美國各地航班停飛",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/flights-grounded-across-us-video"
         },
         {
           "source": "CNBC",
-          "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage",
+          "title": "美國聯邦航空局以空中交通通訊系統中斷為由，停飛全國航班",
           "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
         },
         {
-          "source": "Investing.com",
-          "title": "FAA grounds flights nationwide after air traffic control communications outage",
-          "url": "https://www.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-5026489"
-        },
-        {
-          "source": "Wired",
-          "title": "FAA Grounds All US Flights Until Further Notice",
-          "url": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/"
+          "source": "Yahoo Finance",
+          "title": "美國聯邦航空局下令全國所有航班停飛，航空公司股票下跌",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUkc1ZFZkTVppV0JQNnJWS0RLSlEwLUlXRFhORmpMbk12VjBYamNtV3RSSjFJU3lCWkxLQ2xtdGdWZkVrOUJDbDhUUkluZDVCUnhpd1B5VmdsbHN0dFdQN0dJbHVyNnJKbDJGdlNlX0RGcUNTclhWV2NrODBOejJLV0FseHhXYUNTbC00d25WbHU3bDR4S1llQ3NCMjFfemdSVzkxbWc4eVFXdmFTbUN3NmdXck5DQUdQWkR3SEh0bldLNGpw?oc=5"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
+      "title": "德國間諜授予新權力應對來自國外的“混合威脅”",
       "summary": [
-        "MarketWatch：FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
-        "Yahoo Finance：FAA orders nationwide ground stop for all flights, airline stocks fall",
-        "The Verge：FAA ground stop shuts down flights nationwide"
+        "BBC World：德國間諜授予新權力應對來自國外的“混合威脅”",
+        "Financial Times：德國間諜機構獲得全面的新權力"
       ],
-      "media_count": 3,
+      "media_count": 2,
       "links": [
         {
-          "source": "MarketWatch",
-          "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
-          "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories"
+          "source": "BBC World",
+          "title": "德國間諜授予新權力應對來自國外的“混合威脅”",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "FAA orders nationwide ground stop for all flights, airline stocks fall",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUkc1ZFZkTVppV0JQNnJWS0RLSlEwLUlXRFhORmpMbk12VjBYamNtV3RSSjFJU3lCWkxLQ2xtdGdWZkVrOUJDbDhUUkluZDVCUnhpd1B5VmdsbHN0dFdQN0dJbHVyNnJKbDJGdlNlX0RGcUNTclhWV2NrODBOejJLV0FseHhXYUNTbC00d25WbHU3bDR4S1llQ3NCMjFfemdSVzkxbWc4eVFXdmFTbUN3NmdXck5DQUdQWkR3SEh0bldLNGpw?oc=5"
-        },
-        {
-          "source": "The Verge",
-          "title": "FAA ground stop shuts down flights nationwide",
-          "url": "https://www.theverge.com/news/1033489/faa-ground-stop"
+          "source": "Financial Times",
+          "title": "德國間諜機構獲得全面的新權力",
+          "url": "https://www.ft.com/content/6c55228c-ac59-44cb-926b-6e41585fbf0c?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "Arm boss Rene Haas approached in Nvidia CEO search",
+      "title": "隨著氣候科學之爭升溫，中國放棄申辦未來締約方大會",
       "summary": [
-        "Financial Times：Arm boss Rene Haas approached in Nvidia CEO search",
-        "Tom's Hardware：Nvidia board reportedly approached Arm CEO Rene Haas during replacement search"
+        "Financial Times：隨著氣候科學之爭升溫，中國放棄申辦未來締約方大會",
+        "法廣RFI：中國決定不爭取主辦2028年的聯合國氣候峰會"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Financial Times",
-          "title": "Arm boss Rene Haas approached in Nvidia CEO search",
-          "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1"
+          "title": "隨著氣候科學之爭升溫，中國放棄申辦未來締約方大會",
+          "url": "https://www.ft.com/content/3cc097d4-00af-4ece-8c86-d1bc9af7664d?syn-25a6b1a6=1"
         },
         {
-          "source": "Tom's Hardware",
-          "title": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
-          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void"
+          "source": "法廣RFI",
+          "title": "中國決定不爭取主辦2028年的聯合國氣候峰會",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261113-%E4%B8%AD%E5%9C%8B%E6%B1%BA%E5%AE%9A%E4%B8%8D%E7%88%AD%E5%8F%96%E4%B8%BB%E8%BE%A62028%E5%B9%B4%E7%9A%84%E8%81%AF%E5%90%88%E5%9C%8B%E6%B0%A3%E5%80%99%E5%B3%B0%E6%9C%83"
         }
       ]
     },
     {
       "rank": 4,
-      "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+      "title": "OpenAI 推出 ChatGPT 錢包，允許其「點」人工​​智慧代理為使用者進行購買",
       "summary": [
-        "CNBC：OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
-        "The Verge：ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you"
+        "CNBC：OpenAI 推出 ChatGPT 錢包，允許其「點」人工​​智慧代理為使用者進行購買",
+        "The Verge：ChatGPT 錢包可讓 OpenAI 的 Dots 代理為您購買"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "CNBC",
-          "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+          "title": "OpenAI 推出 ChatGPT 錢包，允許其「點」人工​​智慧代理為使用者進行購買",
           "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
         },
         {
           "source": "The Verge",
-          "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+          "title": "ChatGPT 錢包可讓 OpenAI 的 Dots 代理為您購買",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "title": "黃仁勳醜聞讓人們對英偉達的人工智慧主導地位產生了懷疑——我們是如何走到這一步的",
       "summary": [
-        "TechCrunch：The unfolding Jensen Huang scandal: a timeline",
-        "The Verge：What&#8217;s really at stake in the Jensen Huang saga"
+        "CNBC：黃仁勳醜聞讓人們對英偉達的人工智慧主導地位產生了懷疑——我們是如何走到這一步的",
+        "Yahoo Finance：英偉達醜聞掩蓋了人工智慧產業的上行潛力"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "TechCrunch",
-          "title": "The unfolding Jensen Huang scandal: a timeline",
-          "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+          "source": "CNBC",
+          "title": "黃仁勳醜聞讓人們對英偉達的人工智慧主導地位產生了懷疑——我們是如何走到這一步的",
+          "url": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html"
         },
         {
-          "source": "The Verge",
-          "title": "What&#8217;s really at stake in the Jensen Huang saga",
-          "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
+          "source": "Yahoo Finance",
+          "title": "英偉達醜聞掩蓋了人工智慧產業的上行潛力",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWc4Tm5XSzJjOFB1RHhiVmtkbi1BWlp0VVhtWk8yQlJQWGhkMlhxektZVmh4T1NkWThWcnNNcnBGUW5pMDl1Q1p5dU9sNUN4NHR0dUY0OUFxMjZoMC0zbFNyeWMyS1hIMk9TcTExRmJ2S2lHR1RNd05DNVRSX3JTcGwyUHp0djBEMzhtNmZ1UXlzOTloM21MUU50RVc2Sy03OFpVdDFvblc0cUVWVVBmTHlkR2pCYVFmcnQ1c1VnTEo?oc=5"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "SpaceX to attempt double catch of huge Starship rocket",
+      "title": "SpaceX 即將嘗試火箭技術的“聖杯”",
       "summary": [
-        "BBC World：SpaceX to attempt double catch of huge Starship rocket",
-        "Financial Times：SpaceX aborts attempt to catch Starship booster rocket"
+        "MarketWatch：SpaceX 即將嘗試火箭技術的“聖杯”",
+        "CNBC：SpaceX 在大型火箭的關鍵試飛中發射星艦"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "BBC World",
-          "title": "SpaceX to attempt double catch of huge Starship rocket",
-          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+          "source": "MarketWatch",
+          "title": "SpaceX 即將嘗試火箭技術的“聖杯”",
+          "url": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories"
         },
         {
-          "source": "Financial Times",
-          "title": "SpaceX aborts attempt to catch Starship booster rocket",
-          "url": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1"
+          "source": "CNBC",
+          "title": "SpaceX 在大型火箭的關鍵試飛中發射星艦",
+          "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "Inside Jensen Huang’s Last Hours as Nvidia CEO",
+      "title": "獨家－亞馬遜計畫擁有全球商品資料，對抗AI代購",
       "summary": [
-        "Bloomberg Tech：Inside Jensen Huang’s Last Hours as Nvidia CEO",
-        "Yahoo Finance：‘I’m a Piece of Sh--’: Jensen Huang’s Last Hours as Nvidia CEO"
+        "Investing.com：獨家－亞馬遜計畫擁有全球商品資料，對抗AI代購",
+        "The Verge：亞馬遜計劃對全球線上購物資料進行索引"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "Inside Jensen Huang’s Last Hours as Nvidia CEO",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-13/inside-jensen-huang-s-last-hours-as-nvidia-ceo-video"
+          "source": "Investing.com",
+          "title": "獨家－亞馬遜計畫擁有全球商品資料，對抗AI代購",
+          "url": "https://www.investing.com/news/stock-market-news/exclusiveamazons-plan-to-own-the-worlds-product-data-and-fight-ai-shopping-agents-5024784"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "‘I’m a Piece of Sh--’: Jensen Huang’s Last Hours as Nvidia CEO",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSHE5TU1XRlRTak5tZ1liTktRYXVxTGJCVlNDdW9yNnY2eWQwd0xTaHVuOHh0UWp4cnAzdHBDMmVORFZXRVZzSlNRT1NJOV9NY3hGa29OcXBma251dGp1Wk84bjZnN21qT2I3OG5Idy15ay1wTm9GYzNKWEg4c28xYjJ5OXpZQ25ENWI1WVpUS2w?oc=5"
+          "source": "The Verge",
+          "title": "亞馬遜計劃對全球線上購物資料進行索引",
+          "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "Why is Southwest Airlines stock sliding today?",
+      "title": "Newegg 預載遊戲電腦中裝載未發布的 Intel Core Ultra 7 260K CPU",
       "summary": [
-        "Investing.com：Why is Southwest Airlines stock sliding today?"
+        "Tom's Hardware：Newegg 預載遊戲電腦中裝載未發布的 Intel Core Ultra 7 260K CPU",
+        "Wccftech：Newegg獨家CPU Intel Core Ultra 7 260K悄悄上市，最高搭配GeForce RTX 5070，售價1,999美元"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "Why is Southwest Airlines stock sliding today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-southwest-airlines-stock-sliding-today-93CH-5026651"
+          "source": "Tom's Hardware",
+          "title": "Newegg 預載遊戲電腦中裝載未發布的 Intel Core Ultra 7 260K CPU",
+          "url": "https://www.tomshardware.com/pc-components/cpus/unannounced-intel-core-ultra-7-260k-cpu-surfaces-in-newegg-prebuilt-gaming-pcs-intel-doesnt-have-official-specs-list-available-for-exclusive-arrow-lake-chip"
+        },
+        {
+          "source": "Wccftech",
+          "title": "Newegg獨家CPU Intel Core Ultra 7 260K悄悄上市，最高搭配GeForce RTX 5070，售價1,999美元",
+          "url": "https://wccftech.com/intel-core-ultra-7-260k-quietly-launches-as-newegg-exclusive-cpu/"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "詳訊：韓中外長在京舉行會談",
+      "title": "報道稱，英偉達執行長黃仁勳在辭職會議上“心碎”",
       "summary": [
-        "韓聯社：詳訊：韓中外長在京舉行會談"
+        "Tom's Hardware：報道稱，英偉達執行長黃仁勳在辭職會議上“心碎”",
+        "法廣RFI：黃仁勳何竟只因婚外情被迫辭職英偉達執行長"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "韓聯社",
-          "title": "詳訊：韓中外長在京舉行會談",
-          "url": "https://cn.yna.co.kr/view/ACK20261113003500881"
+          "source": "Tom's Hardware",
+          "title": "報道稱，英偉達執行長黃仁勳在辭職會議上“心碎”",
+          "url": "https://www.tomshardware.com/tech-industry/broken-and-shattered-nvidia-ceo-jensen-huang-surrendered-during-resignation-meeting-report-claims-thousands-of-employees-rally-calling-for-reinstatement-on-internal-forum"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "黃仁勳何竟只因婚外情被迫辭職英偉達執行長",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261114-%E9%BB%83%E4%BB%81%E5%8B%B3%E4%BD%95%E7%AB%9F%E5%8F%AA%E5%9B%A0%E5%A9%9A%E5%A4%96%E6%83%85%E8%A2%AB%E8%BF%AB%E8%BE%AD%E8%81%B7%E8%8B%B1%E5%81%89%E9%81%94%E5%9F%B7%E8%A1%8C%E9%95%B7"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "Flights Grounded Across US Over Air Traffic Control Problems",
+      "title": "黃仁勳擔任 Nvidia 執行長的最後幾個小時",
       "summary": [
-        "Bloomberg Markets：Flights Grounded Across US Over Air Traffic Control Problems"
+        "Bloomberg Tech：黃仁勳擔任 Nvidia 執行長的最後幾個小時",
+        "Yahoo Finance：「我是個混蛋」：黃仁勳擔任 Nvidia 執行長的最後幾個小時"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "Flights Grounded Across US Over Air Traffic Control Problems",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-13/flights-grounded-across-us-video"
+          "source": "Bloomberg Tech",
+          "title": "黃仁勳擔任 Nvidia 執行長的最後幾個小時",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/inside-jensen-huang-s-last-hours-as-nvidia-ceo-video"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "「我是個混蛋」：黃仁勳擔任 Nvidia 執行長的最後幾個小時",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSHE5TU1XRlRTak5tZ1liTktRYXVxTGJCVlNDdW9yNnY2eWQwd0xTaHVuOHh0UWp4cnAzdHBDMmVORFZXRVZzSlNRT1NJOV9NY3hGa29OcXBma251dGp1Wk84bjZnN21qT2I3OG5Idy15ay1wTm9GYzNKWEg4c28xYjJ5OXpZQ25ENWI1WVpUS2w?oc=5"
         }
       ]
     }
