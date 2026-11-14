@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 00:26",
+  "updated_at": "2026-11-15 00:56",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "站臺力挺張善政 韓國瑜：最善良政治人物",
+      "summary": [
+        "自由時報：站臺力挺張善政 韓國瑜：最善良政治人物",
+        "中時新聞：韓國瑜大讚張善政溫暖：我們一個少林、一個武當- 政治",
+        "ETtoday：張善政桃園造勢大會　韓國瑜盛讚：全臺政界最善良的政治人物"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "站臺力挺張善政 韓國瑜：最善良政治人物",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640926"
+        },
+        {
+          "source": "中時新聞",
+          "title": "韓國瑜大讚張善政溫暖：我們一個少林、一個武當- 政治",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ObEI5blNpdDlncFJzOU5hQVFheWdaRVpla2RhcmtyaG5pWVk1LVIyMVZuSmF1a0Z6U2hLd0JrT3lhSDU5MWFyZ3RvUWdTSWlLc2xyRFNnaThQS2tLTHVvbHdPUV94aDZPQ2N5LWRR?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "張善政桃園造勢大會　韓國瑜盛讚：全臺政界最善良的政治人物",
+          "url": "https://www.ettoday.net/news/20261114/3272368.htm"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "日月光投控：日月光半導體製造9/21~11/13向萬潤取得營業用機器裝置，計約10億",
       "summary": [
         "MoneyDJ理財網：日月光投控：日月光半導體製造9/21~11/13向萬潤取得營業用機器裝置，計約10億",
@@ -50,7 +77,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "京晨科董事會決議發行116年度第一次有擔保普通公司債，上限2億元- 新聞",
       "summary": [
         "MoneyDJ理財網：京晨科董事會決議發行116年度第一次有擔保普通公司債，上限2億元- 新聞",
@@ -71,7 +98,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "20261114 公視午間新聞 完整版（無網路版權內容除外）｜通訊故障致全美停飛逾4小時 目前已解除、逾千架航班遭取消",
       "summary": [
         "公視新聞：20261114 公視午間新聞 完整版（無網路版權內容除外）｜通訊故障致全美停飛逾4小時 目前已解除、逾千架航班遭取消",
@@ -92,7 +119,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "吳欣岱緊追高喊「挺性侵」 陳宥丞重申：支援退選",
       "summary": [
         "自由時報：吳欣岱緊追高喊「挺性侵」 陳宥丞重申：支援退選",
@@ -113,7 +140,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "印度巴士與卡車迎面相撞 至少26死",
       "summary": [
         "自由時報：印度巴士與卡車迎面相撞 至少26死",
@@ -134,7 +161,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "精材董事會決議透過與客戶簽訂產能外包協議，成為先進封裝供應鏈中oS模組生力軍",
       "summary": [
         "公開資訊觀測站重訊：精材董事會決議透過與客戶簽訂產能外包協議，成為先進封裝供應鏈中oS模組生力軍",
@@ -155,7 +182,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "國泰人壽斥逾92億元佈局倉儲、危老案 透過發債350億元",
       "summary": [
         "鉅亨網：國泰人壽斥逾92億元佈局倉儲、危老案 透過發債350億元",
@@ -176,7 +203,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "雄工營養午餐有煮熟2公分蛙  衛生局罰18萬今再突擊稽查",
       "summary": [
         "自由時報：雄工營養午餐有煮熟2公分蛙  衛生局罰18萬今再突擊稽查",
@@ -195,59 +222,18 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1R3NQRmk3T3RSSjVDZDlQTk1ibS1palM2OVVWbEVtWVVtb1NaSGJHbmVfTm5kcU9TQlhobVVrcnZKT2V2aEh0eG9nSjFGcjQ?oc=5"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "正達董事會決議增加投資正達戰術科技，計4.7億元",
-      "summary": [
-        "公開資訊觀測站重訊：正達董事會決議增加投資正達戰術科技，計4.7億元",
-        "MoneyDJ理財網：正達董事會決議增加投資正達戰術科技，計4.7億元- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "正達董事會決議增加投資正達戰術科技，計4.7億元",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbUo5QXlSTXl5Yy1HOHI0bWJlMEU2MGRCUlh1UEtFYzQyNGZJWmo2TXUxSnNiSTlYYVVQcEREZXBHdmhzdWp6TTM2LTl4eWdKQmFYbjc2M2gwazhJOC1odUNKS0wwLWVXYUw3aV9reTQyZFRvUF9GdWRVOW16XzJIT0hId0JHUUFjQlRHRzNPMkRCUQ?oc=5"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "正達董事會決議增加投資正達戰術科技，計4.7億元- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0M5RUFVZEJ4NTJUdDBsaWZSUkw1M2ZNTFlReFFfTjVqMjBvTHRGaHU2dElPTnZ6dENubUI1aUJCVF91aUxESHJaSk9QMXJPNjRHcTRBaWoycFNRaTlLekN6NVQ3d0s4azJpNEs5T3YyN0puOTI4eVFkci1yQUtqQTdkV2loT3V3Vl9yUEx4NUx6Zw?oc=5"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "空中交通管制通訊中斷後，美國全國的航班停飛",
-      "summary": [
-        "Nikkei Asia：空中交通管制通訊中斷後，美國全國的航班停飛",
-        "德國之聲：美國航班大停飛  不是網路攻擊，問題出在哪裡？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "空中交通管制通訊中斷後，美國全國的航班停飛",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQenpzbnA2VEQ1OUlsWFFFY1VQSmphRzNXMTFoc0lGbWtpYTV0MzVCYVM0WF9DM2ppTXhsZndQMGpseTZ5N3RQZlliWlR5UjVnQ1N2QzFnQi1BeGdIakQyUURvbHNISTAwU1llN0JRMkI5ZDlobHpObWdva1hWLXhVM2pfQWs2TXJUcXc3N2xWODVGTHRWZW9LejdoTzR0TzJ3enozeGtfRkpEZVpMTXIzZVY5NFpfbmQySWpiSExSVkhJNTg?oc=5"
-        },
-        {
-          "source": "德國之聲",
-          "title": "美國航班大停飛  不是網路攻擊，問題出在哪裡？",
-          "url": "https://www.dw.com/zh/美国航班大停飞-不是网络攻击，问题出在哪里？/a-79947450?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "義大利因 Android 使用者資料存取對 Meta 罰款 8.87 億美元",
       "summary": [
         "Investing.com：義大利因 Android 使用者資料存取對 Meta 罰款 8.87 億美元",
-        "Bloomberg Tech：義大利因獲取使用者照片而對 Meta 處以 8.05 億歐元罰款"
+        "Bloomberg Tech：義大利因獲取使用者照片而對 Meta 處以 8.05 億歐元罰款",
+        "BBC World：Meta 因訪問使用者照片而被義大利罰款 8.05 億歐元"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "Investing.com",
@@ -258,11 +244,16 @@
           "source": "Bloomberg Tech",
           "title": "義大利因獲取使用者照片而對 Meta 處以 8.05 億歐元罰款",
           "url": "https://www.bloomberg.com/news/articles/2026-11-14/italy-fines-meta-805-million-over-access-to-users-photos"
+        },
+        {
+          "source": "BBC World",
+          "title": "Meta 因訪問使用者照片而被義大利罰款 8.05 億歐元",
+          "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "儘管進行了數十億美元的升級，美國聯邦航空局的關閉暴露了老化的空中交通系統",
       "summary": [
         "Investing.com：儘管進行了數十億美元的升級，美國聯邦航空局的關閉暴露了老化的空中交通系統",
@@ -283,7 +274,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "白宮表示，川普、普丁和習近平計劃下週在中國舉行歷史性聯席會議",
       "summary": [
         "BBC World：白宮表示，川普、普丁和習近平計劃下週在中國舉行歷史性聯席會議",
@@ -304,7 +295,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "特斯拉邀請部分客戶購買 Cyber​​cab 供個人使用",
       "summary": [
         "Investing.com：特斯拉邀請部分客戶購買 Cyber​​cab 供個人使用",
@@ -325,7 +316,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "澤倫斯基表示，美國已提議烏克蘭放棄頓巴斯以加入北約",
       "summary": [
         "BBC World：澤倫斯基表示，美國已提議烏克蘭放棄頓巴斯以加入北約",
@@ -346,7 +337,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "佳能促銷程式碼 30% 折扣 | 2026 年 11 月",
       "summary": [
         "Wired：佳能促銷程式碼 30% 折扣 | 2026 年 11 月"
@@ -361,47 +352,62 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "法官在權衡高爾夫球場的未來時再次與司法部律師發生衝突",
+      "rank": 7,
+      "title": "馬斯克呼籲恢復黃仁勳擔任英偉達執行長",
       "summary": [
-        "Washington Post：法官在權衡高爾夫球場的未來時再次與司法部律師發生衝突"
+        "Washington Post：馬斯克呼籲恢復黃仁勳擔任英偉達執行長"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Washington Post",
-          "title": "法官在權衡高爾夫球場的未來時再次與司法部律師發生衝突",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM29abjVTeFF4dkpQS05JUjBzS0RabWwzZ2hjWXFzN1FwZV9iM1AxaEtGZVJ0Y2hDRmdfdU1Hcl9kRnZGRU1MNDBVcmNXTXp4bWVBcGVHMk1DMnFlaEpqX085b3VxakM0WTViYUNsNGVUa1FHa1VWOHdFNkF3STJUMnFuc3VuUEZQSnh1NjN5TTJYeVVFYnFSOThxM2lvTm80dTFCeVRpMXFBdy0wNTFaekhLQ0xBYnc5?oc=5"
+          "title": "馬斯克呼籲恢復黃仁勳擔任英偉達執行長",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnhlbTRQQ1N5SDNnU3V2a1BObGlkTXFTUm5QalRXS1NIaXVYUU4yajluRkwxdUt4ZllpNVpCVWdHOGM3Q0Jqc3BXRWxobnJzcjdxYkZ1YU9kZ1pmX1gyZ2JTT3BYbWVRTlR1VkZjemZkTmhrRjYtUFlBbmdidTdtQzhpMlR2QldFUlF5ZVlXUzhXb0J5WmhXay1LVkdsVkNCQ3pxaWRHZXk5UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "米爾本審查呼籲提供數以萬計的繼續教育名額",
+      "summary": [
+        "Financial Times：米爾本審查呼籲提供數以萬計的繼續教育名額"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "米爾本審查呼籲提供數以萬計的繼續教育名額",
+          "url": "https://www.ft.com/content/5f2242d2-4fb3-4d9c-aa23-ed0c1253f7ab?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "央視稱中國將以清潔能源滿足所有新的電力需求",
+      "title": "英國央行首席經濟學家表示需要進一步升息以應對通膨",
       "summary": [
-        "Bloomberg Markets：央視稱中國將以清潔能源滿足所有新的電力需求"
+        "Financial Times：英國央行首席經濟學家表示需要進一步升息以應對通膨"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "央視稱中國將以清潔能源滿足所有新的電力需求",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says"
+          "source": "Financial Times",
+          "title": "英國央行首席經濟學家表示需要進一步升息以應對通膨",
+          "url": "https://www.ft.com/content/806b0158-41c5-4db2-ac33-93621f72297b?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "馬斯克 (Elon Musk) 能否讓黃仁勳 (Jensen Huang) 重新擔任 Nvidia 執行長？",
+      "title": "義大利拒絕德國參與聯合戰鬥機計畫的投標",
       "summary": [
-        "Yahoo Finance：馬斯克 (Elon Musk) 能否讓黃仁勳 (Jensen Huang) 重新擔任 Nvidia 執行長？"
+        "Financial Times：義大利拒絕德國參與聯合戰鬥機計畫的投標"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "馬斯克 (Elon Musk) 能否讓黃仁勳 (Jensen Huang) 重新擔任 Nvidia 執行長？",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONEtyRXhGWFZvMWswbUZ1bzRvQ0FvNTBzR2dZZ1c5Z19wcktIQllKdzhIR1RXSGFCVlpDel84MjM4YVU1VTVQVzFlNlQ3THdGWHpRd1ZIenVUUFU1bXpJeDdLUmtHTVQ5dmU0aVlaUXFuNUk1dEg1bUVNVHpaUldWVEVmY1RZUmJKMF96Y0hzQWpoU1hlVzl0eQ?oc=5"
+          "source": "Financial Times",
+          "title": "義大利拒絕德國參與聯合戰鬥機計畫的投標",
+          "url": "https://www.ft.com/content/3ba2bcd1-b80c-48a2-91c7-35f25366f8aa?syn-25a6b1a6=1"
         }
       ]
     }
