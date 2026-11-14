@@ -1,8 +1,8 @@
 name: News Scraper & Summarizer
 
 on:
-  schedule:
-    - cron: '7,37 * * * *' # 每 30 分鐘執行一次
+  #schedule:
+  #  - cron: '7,37 * * * *' # 每 30 分鐘執行一次
   workflow_dispatch:       # 支援在網頁上手動點擊測試
 
 permissions:
