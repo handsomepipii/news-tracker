@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 19:58",
+  "updated_at": "2026-11-14 20:26",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "黃仁勳下臺幕後推手是他！華郵：對中鷹派記仇 摧毀黃對川普的影響力",
+      "summary": [
+        "經濟日報：黃仁勳下臺幕後推手是他！華郵：對中鷹派記仇 摧毀黃對川普的影響力",
+        "今周刊：黃仁勳是誰要他下臺？幕後黑手是？華郵：一樁婚外情扯出對中鷹派角力「削弱他對川普的影響力」",
+        "中時新聞：黃仁勳倒臺幕後黑手是他《華郵》：對中鷹派欲斷他與川普連結- 國際"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳下臺幕後推手是他！華郵：對中鷹派記仇 摧毀黃對川普的影響力",
+          "url": "https://money.udn.com/money/story/5599/9878307"
+        },
+        {
+          "source": "今周刊",
+          "title": "黃仁勳是誰要他下臺？幕後黑手是？華郵：一樁婚外情扯出對中鷹派角力「削弱他對川普的影響力」",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNXy1pTTFwRUR6WmM3N1haZ3pud2IwYk5uU2pIYWlWZXpBOEZWRnNVSUFJZ1RHNXZ5RENLQjVFNEsyeWtOeUt4eUFEWFZZb0tvblVyMy04TVp1S25VVGFfcVBkS1lRNDhMV0Ftbk9Pa2ZMZ0E2VXF6bGZvNTMxRnQxcw?oc=5"
+        },
+        {
+          "source": "中時新聞",
+          "title": "黃仁勳倒臺幕後黑手是他《華郵》：對中鷹派欲斷他與川普連結- 國際",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tSHIyRUZMVHNBbmppS2taejVRZk9XVkNLNGFVVTZvVXF6UXd6TUZPb1BJeEhoNHZxUkVqVUY1SXAyVnNvZmRsUE1FSDlDMElPQ0kxU0VGVTFUVDRmMUFEaXdyc2ZpMVlHYTJvRDJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "美國全境航班停飛令解除！逾萬架次延誤、4000架次取消",
       "summary": [
         "經濟日報：美國全境航班停飛令解除！逾萬架次延誤、4000架次取消",
@@ -50,7 +77,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "京晨科董事會決議發行116年度第一次有擔保普通公司債，上限2億元- 新聞",
       "summary": [
         "MoneyDJ理財網：京晨科董事會決議發行116年度第一次有擔保普通公司債，上限2億元- 新聞",
@@ -71,7 +98,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "日月光投控：日月光半導體製造9/21~11/13向萬潤取得營業用機器裝置，計約10億",
       "summary": [
         "MoneyDJ理財網：日月光投控：日月光半導體製造9/21~11/13向萬潤取得營業用機器裝置，計約10億",
@@ -92,128 +119,107 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "張惠妹爆壓軸唱建中校慶舞會！　主辦拋4大線索…天后全符合",
-      "summary": [
-        "ETtoday：張惠妹爆壓軸唱建中校慶舞會！　主辦拋4大線索…天后全符合",
-        "自由時報：建中校慶舞會壓軸卡司曝光！4大線索引爆全網瘋猜 傳張惠妹二話不說點頭開唱"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "張惠妹爆壓軸唱建中校慶舞會！　主辦拋4大線索…天后全符合",
-          "url": "https://star.ettoday.net/news/3271914"
-        },
-        {
-          "source": "自由時報",
-          "title": "建中校慶舞會壓軸卡司曝光！4大線索引爆全網瘋猜 傳張惠妹二話不說點頭開唱",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5640332"
-        }
-      ]
-    },
-    {
       "rank": 6,
-      "title": "罕見「冬天雷雨」今午後開炸　下週2波東北季風變天",
+      "title": "FAA新AI航管系統上線三天後全美航班停飛，通訊故障原因待查",
       "summary": [
-        "ETtoday：罕見「冬天雷雨」今午後開炸　下週2波東北季風變天",
-        "自由時報：午後鋒面快閃！專家：恐有冬天罕見劇烈雷雨"
+        "自由時報：FAA新AI航管系統上線三天後全美航班停飛，通訊故障原因待查",
+        "科技新報：又是軟體更新惹得禍？FAA 航管系統異常、美全國航班停飛"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "罕見「冬天雷雨」今午後開炸　下週2波東北季風變天",
-          "url": "https://www.ettoday.net/news/20261114/3271913.htm"
+          "source": "自由時報",
+          "title": "FAA新AI航管系統上線三天後全美航班停飛，通訊故障原因待查",
+          "url": "https://news.ltn.com.tw/news/aichannel/breakingnews/5640271"
         },
         {
-          "source": "自由時報",
-          "title": "午後鋒面快閃！專家：恐有冬天罕見劇烈雷雨",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5640237"
+          "source": "科技新報",
+          "title": "又是軟體更新惹得禍？FAA 航管系統異常、美全國航班停飛",
+          "url": "https://technews.tw/2026/11/14/faa-all-flights-were-grounded/"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "「馬斯克力挺黃仁勳」原因曝光！　輝達10年前舊文出土",
+      "title": "巴拉圭數位銀行倒閉案　前總統潘尼亞再遭控犯罪共謀",
       "summary": [
-        "ETtoday：「馬斯克力挺黃仁勳」原因曝光！　輝達10年前舊文出土",
-        "自由時報：馬斯克為何力挺黃仁勳？10年前「這件事」曝光"
+        "經濟日報：巴拉圭數位銀行倒閉案　前總統潘尼亞再遭控犯罪共謀",
+        "風傳媒：巴拉圭數位銀行倒閉案延燒！前總統潘尼亞遭控犯罪共謀，最高可關15年 | 中央社 | 新聞"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "「馬斯克力挺黃仁勳」原因曝光！　輝達10年前舊文出土",
-          "url": "https://www.ettoday.net/news/20261114/3271911.htm"
+          "source": "經濟日報",
+          "title": "巴拉圭數位銀行倒閉案　前總統潘尼亞再遭控犯罪共謀",
+          "url": "https://money.udn.com/money/story/5599/9878123"
         },
         {
-          "source": "自由時報",
-          "title": "馬斯克為何力挺黃仁勳？10年前「這件事」曝光",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5640348"
+          "source": "風傳媒",
+          "title": "巴拉圭數位銀行倒閉案延燒！前總統潘尼亞遭控犯罪共謀，最高可關15年 | 中央社 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Ha2V2SGhBb1pSWTFrQmhXM3JOOEJxWlJMMlJnU3JTNWE4ZHRXdl9TVHlOaTFHZjAzTzZGQ0M0Ylo5RXppcVZwVVZxbzBhZw?oc=5"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "黃仁勳婚外情掀「AI間諜戰」：中國國安部「晶片組」如何滲透矽谷科技鉅子？",
+      "title": "林園警追緝毒駕通緝犯  嫌犯駕車衝撞遭開槍制伏",
       "summary": [
-        "關鍵評論網：黃仁勳婚外情掀「AI間諜戰」：中國國安部「晶片組」如何滲透矽谷科技鉅子？",
-        "自由時報：黃仁勳風暴扯出中國間諜網！華爾街日報揭60萬情報大軍鎖定AI晶片"
+        "自由時報：林園警追緝毒駕通緝犯  嫌犯駕車衝撞遭開槍制伏",
+        "ETtoday：通緝犯拒檢狂飆！受困車陣還想撞警　警開槍逮人搜出海洛因"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "關鍵評論網",
-          "title": "黃仁勳婚外情掀「AI間諜戰」：中國國安部「晶片組」如何滲透矽谷科技鉅子？",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3ZU53RTB6czFRUUtjcjFOaENVN3g0MUZPazZMcDdQcU5ib1ZmSGZCZVJhVVQ5QXI0YnZYWmlqbHAzeWtIUnFpbkQwN0R2VjlfN2xkSA?oc=5"
+          "source": "自由時報",
+          "title": "林園警追緝毒駕通緝犯  嫌犯駕車衝撞遭開槍制伏",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5640295"
         },
         {
-          "source": "自由時報",
-          "title": "黃仁勳風暴扯出中國間諜網！華爾街日報揭60萬情報大軍鎖定AI晶片",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5640696"
+          "source": "ETtoday",
+          "title": "通緝犯拒檢狂飆！受困車陣還想撞警　警開槍逮人搜出海洛因",
+          "url": "https://www.ettoday.net/news/20261114/3271965.htm"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
+      "title": "黃仁勳是請辭還是被罷免？　輝達申報檔案3單字揭實情",
       "summary": [
-        "經濟日報：美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
-        "TVBS新聞：電訊中斷! 全美航班暫停起飛 近8千航班延誤｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+        "ETtoday：黃仁勳是請辭還是被罷免？　輝達申報檔案3單字揭實情",
+        "中時新聞：黃仁勳自己走人還是被拔官？輝達官方檔案「3個英文字」洩內情- 財經"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "美國全境航班突停飛、逾9000架次延誤！官員曝原因：不是另一起911",
-          "url": "https://money.udn.com/money/story/5599/9878089"
+          "source": "ETtoday",
+          "title": "黃仁勳是請辭還是被罷免？　輝達申報檔案3單字揭實情",
+          "url": "https://www.ettoday.net/news/20261114/3271944.htm"
         },
         {
-          "source": "TVBS新聞",
-          "title": "電訊中斷! 全美航班暫停起飛 近8千航班延誤｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qWWFEZnB5N3otellhMXNRcl85MFhlakVWSHNyVkdxdmVXZi1PQ2VlSlVUVDJ3R1JZd0h5emtseEJHVDBrck9DMlNUZXR6Ry1zU2wtWnZ3?oc=5"
+          "source": "中時新聞",
+          "title": "黃仁勳自己走人還是被拔官？輝達官方檔案「3個英文字」洩內情- 財經",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FYlBFMlBhVzIxQWdnQ2RMWlA1UDZSZ01hQjJwZjZUdUtQVGxka3R0dnR2TjR6ODlYd0d1aU9FVVZqdWFTbFIydnJoSGJfY3U3X3BSekIwMkdfNTlPTjVhZGMzTE1vbFhEZEhtLUlR?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "SpaceX星艦「雙重捕捉」受挫！助推器爆炸落海 太空船續衝軌道",
+      "title": "妻涉發7.6萬元交樁腳買票！嘉檢破獲村長賄選案　候選人交保",
       "summary": [
-        "自由時報：SpaceX星艦「雙重捕捉」受挫！助推器爆炸落海 太空船續衝軌道",
-        "經濟日報：SpaceX星艦火箭進入地球軌道　推進器回收任務中止"
+        "ETtoday：妻涉發7.6萬元交樁腳買票！嘉檢破獲村長賄選案　候選人交保",
+        "自由時報：嘉縣梅山村長選舉爆賄選 候選人妻砸7萬6買票邀聲押"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "SpaceX星艦「雙重捕捉」受挫！助推器爆炸落海 太空船續衝軌道",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5640244"
+          "source": "ETtoday",
+          "title": "妻涉發7.6萬元交樁腳買票！嘉檢破獲村長賄選案　候選人交保",
+          "url": "https://www.ettoday.net/news/20261114/3271993.htm"
         },
         {
-          "source": "經濟日報",
-          "title": "SpaceX星艦火箭進入地球軌道　推進器回收任務中止",
-          "url": "https://money.udn.com/money/story/5599/9878165"
+          "source": "自由時報",
+          "title": "嘉縣梅山村長選舉爆賄選 候選人妻砸7萬6買票邀聲押",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640478"
         }
       ]
     }
@@ -221,38 +227,33 @@
   "global": [
     {
       "rank": 1,
-      "title": "【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
+      "title": "空中交通通訊中斷後美國各地航班停飛",
       "summary": [
-        "NHK新聞：【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
-        "Financial Times：美國航空監管機構停飛所有離港航班",
-        "Bloomberg Markets：因空中交通管制問題美國各地航班停飛"
+        "Yahoo Finance：空中交通通訊中斷後美國各地航班停飛",
+        "Investing.com：美國航班停飛暴露空中交通網危機加深",
+        "Nikkei Asia：空中交通管制通訊中斷後，美國全國的航班停飛"
       ],
-      "media_count": 5,
+      "media_count": 4,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "【突發新聞】因通訊問題，美國各地機場飛機暫停營運",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75764"
-        },
-        {
-          "source": "Financial Times",
-          "title": "美國航空監管機構停飛所有離港航班",
-          "url": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "因空中交通管制問題美國各地航班停飛",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-13/flights-grounded-across-us-video"
-        },
-        {
-          "source": "CNBC",
-          "title": "美國聯邦航空局以空中交通通訊系統中斷為由，停飛全國航班",
-          "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
-        },
-        {
           "source": "Yahoo Finance",
-          "title": "美國聯邦航空局下令全國所有航班停飛，航空公司股票下跌",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUkc1ZFZkTVppV0JQNnJWS0RLSlEwLUlXRFhORmpMbk12VjBYamNtV3RSSjFJU3lCWkxLQ2xtdGdWZkVrOUJDbDhUUkluZDVCUnhpd1B5VmdsbHN0dFdQN0dJbHVyNnJKbDJGdlNlX0RGcUNTclhWV2NrODBOejJLV0FseHhXYUNTbC00d25WbHU3bDR4S1llQ3NCMjFfemdSVzkxbWc4eVFXdmFTbUN3NmdXck5DQUdQWkR3SEh0bldLNGpw?oc=5"
+          "title": "空中交通通訊中斷後美國各地航班停飛",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMTdxT3I1cDJoUXI0bDM0VmxBSDdPZDJUNHZqTmo4YVR4N2RWNEtaT3NKNmZRSVlkTnUxSlZtMjFOdmRhWkhJM3VXRUVqS1ZZcXpaNUtQYVdiU0VzYUp3NFA4bXp1VE9NVXZodUF6RWI1TjJzU25GS2NZcEl2VUNETkZwOA?oc=5"
+        },
+        {
+          "source": "Investing.com",
+          "title": "美國航班停飛暴露空中交通網危機加深",
+          "url": "https://www.investing.com/news/stock-market-news/us-flight-shutdown-exposes-deepening-air-traffic-network-crisis-5026935"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "空中交通管制通訊中斷後，美國全國的航班停飛",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQenpzbnA2VEQ1OUlsWFFFY1VQSmphRzNXMTFoc0lGbWtpYTV0MzVCYVM0WF9DM2ppTXhsZndQMGpseTZ5N3RQZlliWlR5UjVnQ1N2QzFnQi1BeGdIakQyUURvbHNISTAwU1llN0JRMkI5ZDlobHpObWdva1hWLXhVM2pfQWs2TXJUcXc3N2xWODVGTHRWZW9LejdoTzR0TzJ3enozeGtfRkpEZVpMTXIzZVY5NFpfbmQySWpiSExSVkhJNTg?oc=5"
+        },
+        {
+          "source": "德國之聲",
+          "title": "美國航班大停飛  不是網路攻擊，問題出在哪裡？",
+          "url": "https://www.dw.com/zh/美国航班大停飞-不是网络攻击，问题出在哪里？/a-79947450?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
@@ -317,90 +318,6 @@
     },
     {
       "rank": 4,
-      "title": "歐洲將參加下一輪烏克蘭問題談判，歐洲代表將出自五個歐洲國家加歐盟",
-      "summary": [
-        "法廣RFI：歐洲將參加下一輪烏克蘭問題談判，歐洲代表將出自五個歐洲國家加歐盟",
-        "NHK新聞：英法德等五國歐洲代表參加烏克蘭和談"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "歐洲將參加下一輪烏克蘭問題談判，歐洲代表將出自五個歐洲國家加歐盟",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261113-%E6%AD%90%E6%B4%B2%E5%B0%87%E5%8F%83%E5%8A%A0%E4%B8%8B%E4%B8%80%E8%BC%AA%E7%83%8F%E5%85%8B%E8%98%AD%E5%95%8F%E9%A1%8C%E8%AB%87%E5%88%A4%EF%BC%8C%E6%AD%90%E6%B4%B2%E4%BB%A3%E8%A1%A8%E5%B0%87%E5%87%BA%E8%87%AA%E4%BA%94%E5%80%8B%E6%AD%90%E6%B4%B2%E5%9C%8B%E5%AE%B6%E5%8A%A0%E6%AD%90%E7%9B%9F"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "英法德等五國歐洲代表參加烏克蘭和談",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75776"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "SpaceX 嘗試雙重捕捉巨型星艦火箭",
-      "summary": [
-        "BBC World：SpaceX 嘗試雙重捕捉巨型星艦火箭",
-        "CNBC：SpaceX 大型火箭的關鍵試飛中發射星艦"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "SpaceX 嘗試雙重捕捉巨型星艦火箭",
-          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CNBC",
-          "title": "SpaceX 大型火箭的關鍵試飛中發射星艦",
-          "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "黃仁勳擔任 Nvidia 執行長的最後幾個小時",
-      "summary": [
-        "Bloomberg Tech：黃仁勳擔任 Nvidia 執行長的最後幾個小時",
-        "Yahoo Finance：「我是個混蛋」：黃仁勳擔任 Nvidia 執行長的最後幾個小時"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "黃仁勳擔任 Nvidia 執行長的最後幾個小時",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-13/inside-jensen-huang-s-last-hours-as-nvidia-ceo-video"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "「我是個混蛋」：黃仁勳擔任 Nvidia 執行長的最後幾個小時",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSHE5TU1XRlRTak5tZ1liTktRYXVxTGJCVlNDdW9yNnY2eWQwd0xTaHVuOHh0UWp4cnAzdHBDMmVORFZXRVZzSlNRT1NJOV9NY3hGa29OcXBma251dGp1Wk84bjZnN21qT2I3OG5Idy15ay1wTm9GYzNKWEg4c28xYjJ5OXpZQ25ENWI1WVpUS2w?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "“由於特殊情況”，美國政府停飛全美所有航班",
-      "summary": [
-        "TechCrunch：“由於特殊情況”，美國政府停飛全美所有航班",
-        "Nikkei Asia：美國因「特殊情況」和安全原因停飛所有離港航班"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "“由於特殊情況”，美國政府停飛全美所有航班",
-          "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "美國因「特殊情況」和安全原因停飛所有離港航班",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZUFLR1lTd3pzLVBMUU9WeDZlZG5uT1Z4dUJ3dkM0cGRNTmZrZ1ZjRkJKT0szWEZZeE5YVU5tT2M0WldVV3l6T2doYTVFakg3azR1MFlxTlZGM09HWHlQaEZUNmtESkxYTENibW5vVjFuWXVISEJ4RFFvNVVIY3RWMWZmdUViRUFxQnpQalpJcDJTOE0zOE1XRVhfSWpqdTE1MlhiY3NPalNhZmJQNmhhVjBmRGt2dlV6aVA4?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "訊息人士稱，英偉達獨家前執行長在與中國女商人的戀情問題上誤導了頂級律師",
       "summary": [
         "Investing.com：訊息人士稱，英偉達獨家前執行長在與中國女商人的戀情問題上誤導了頂級律師",
@@ -421,28 +338,28 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "美國航班停飛暴露空中交通網危機加深",
+      "rank": 5,
+      "title": "美國聯邦航空局取消地面停飛航班，航空股下跌",
       "summary": [
-        "Investing.com：美國航班停飛暴露空中交通網危機加深",
-        "德國之聲：美國航班大停飛  不是網路攻擊，問題出在哪裡？"
+        "Yahoo Finance：美國聯邦航空局取消地面停飛航班，航空股下跌",
+        "Washington Post：美國聯邦航空局取消美國機場地面停留，造成混亂"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "美國航班停飛暴露空中交通網危機加深",
-          "url": "https://www.investing.com/news/stock-market-news/us-flight-shutdown-exposes-deepening-air-traffic-network-crisis-5026935"
+          "source": "Yahoo Finance",
+          "title": "美國聯邦航空局取消地面停飛航班，航空股下跌",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUtRM1FEMUtOT21CNXVqR05qWWhhU0ZERVgwbjFzd3RCQjdOdTFfcjE3SWdKaTlJbVRVckpCQmxEWHg3cU9ZRTdVbzBlMkhvSmQ3SjNHTkpfcWhpenJaOU9MdmJSOExUQjhQY3F1a0RfUjVIcVpWcExtS1lueF9jdHJaNXFIX190amh2bDFCVEFZa3IxM2pleEVNR1V5VHZ2dE81eGV1ekRzZw?oc=5"
         },
         {
-          "source": "德國之聲",
-          "title": "美國航班大停飛  不是網路攻擊，問題出在哪裡？",
-          "url": "https://www.dw.com/zh/美国航班大停飞-不是网络攻击，问题出在哪里？/a-79947450?maca=chi-rss-chi-all-1127-rdf"
+          "source": "Washington Post",
+          "title": "美國聯邦航空局取消美國機場地面停留，造成混亂",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSW1hTkRxd1hwLUlzaVpya2dDTXQzUUdIX1BuTzA0VjlUZDZZYmxBenFLOWF4UkNUQUV0VEMxUlRyem9aY1FCeVIzU3lrWGZEQzVVd2ZjSk9nbHRrdVQ1bEU5bjFWbDZkSUVONXdXSEhPclRVVHdkQ1RLRGk3WmpIbk91ckozVUIwMDZlYm9sd3puNFVJR3RyeENKQnNZOHRkSnJnVFdaRFl2OUt2b2FoZnRmcWVuVDRfUG9NbnhR?oc=5"
         }
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "澤倫斯基表示，美國已提議烏克蘭放棄頓巴斯以加入北約",
       "summary": [
         "BBC World：澤倫斯基表示，美國已提議烏克蘭放棄頓巴斯以加入北約",
@@ -459,6 +376,66 @@
           "source": "法廣RFI",
           "title": "澤連斯基指美方首次提出烏克蘭以撤出頓巴斯為條件加入北約可能性",
           "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261114-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E6%8C%87%E7%BE%8E%E6%96%B9%E9%A6%96%E6%AC%A1%E6%8F%90%E5%87%BA%E7%83%8F%E5%85%8B%E8%98%AD%E4%BB%A5%E6%92%A4%E5%87%BA%E9%A0%93%E5%B7%B4%E6%96%AF%E7%82%BA%E6%A2%9D%E4%BB%B6%E5%8A%A0%E5%85%A5%E5%8C%97%E7%B4%84%E5%8F%AF%E8%83%BD%E6%80%A7"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "佳能促銷程式碼 30% 折扣 | 2026 年 11 月",
+      "summary": [
+        "Wired：佳能促銷程式碼 30% 折扣 | 2026 年 11 月"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Wired",
+          "title": "佳能促銷程式碼 30% 折扣 | 2026 年 11 月",
+          "url": "https://www.wired.com/story/canon-promo-code/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "黃仁勳何竟只因婚外情被迫辭職英偉達執行長",
+      "summary": [
+        "法廣RFI：黃仁勳何竟只因婚外情被迫辭職英偉達執行長"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "黃仁勳何竟只因婚外情被迫辭職英偉達執行長",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261114-%E9%BB%83%E4%BB%81%E5%8B%B3%E4%BD%95%E7%AB%9F%E5%8F%AA%E5%9B%A0%E5%A9%9A%E5%A4%96%E6%83%85%E8%A2%AB%E8%BF%AB%E8%BE%AD%E8%81%B7%E8%8B%B1%E5%81%89%E9%81%94%E5%9F%B7%E8%A1%8C%E9%95%B7"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "新奧爾良油輪相撞後遊輪傾覆",
+      "summary": [
+        "Bloomberg Markets：新奧爾良油輪相撞後遊輪傾覆"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "新奧爾良油輪相撞後遊輪傾覆",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-14/cruise-ship-capsizes-after-tanker-crash-in-new-orleans-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "英偉達董事會執行長亨特，股市本週收高，零售業成為焦點",
+      "summary": [
+        "Bloomberg Markets：英偉達董事會執行長亨特，股市本週收高，零售業成為焦點"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "英偉達董事會執行長亨特，股市本週收高，零售業成為焦點",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/the-close-11-13-2026-video"
         }
       ]
     }
