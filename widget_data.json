@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 20:26",
+  "updated_at": "2026-11-15 20:57",
   "taiwan": [
     {
       "rank": 1,
@@ -56,48 +56,6 @@
     },
     {
       "rank": 3,
-      "title": "SpaceX首度完成太空船捕捉回收 星艦返回發射臺",
-      "summary": [
-        "自由時報：SpaceX首度完成太空船捕捉回收 星艦返回發射臺",
-        "INSIDE硬塞：史上第一次！SpaceX 首度成功回收自軌道返航的 Starship 上節"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "SpaceX首度完成太空船捕捉回收 星艦返回發射臺",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641155"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "史上第一次！SpaceX 首度成功回收自軌道返航的 Starship 上節",
-          "url": "https://www.inside.com.tw/article/42915-spacex-starship-ship-42-first-orbital-upper-stage-tower-catch-flight-15"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "蔣萬安競辦告許淑華 沈伯洋：沒必要、別再把東發號捲進來",
-      "summary": [
-        "自由時報：蔣萬安競辦告許淑華 沈伯洋：沒必要、別再把東發號捲進來",
-        "ETtoday：許淑華爆蔣萬安白吃白喝挨告　沈伯洋：別再把東發號捲進來"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "蔣萬安競辦告許淑華 沈伯洋：沒必要、別再把東發號捲進來",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641181"
-        },
-        {
-          "source": "ETtoday",
-          "title": "許淑華爆蔣萬安白吃白喝挨告　沈伯洋：別再把東發號捲進來",
-          "url": "https://www.ettoday.net/news/20261115/3272416.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "蘇巧慧造勢遭神將撞斷門牙！廖大乙示警揭玄機「應避免1事」",
       "summary": [
         "中時新聞：蘇巧慧造勢遭神將撞斷門牙！廖大乙示警揭玄機「應避免1事」",
@@ -118,7 +76,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "U23世界盃》臺鋼新星、富邦大物開轟！臺灣打爆委內瑞拉仍無緣爭冠",
       "summary": [
         "自由時報：U23世界盃》臺鋼新星、富邦大物開轟！臺灣打爆委內瑞拉仍無緣爭冠",
@@ -139,7 +97,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "中華電信帳單金額異常暴增！大批使用者收簡訊崩潰：客服打不通",
       "summary": [
         "中時新聞：中華電信帳單金額異常暴增！大批使用者收簡訊崩潰：客服打不通",
@@ -160,7 +118,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "美提議烏割地換加入北約　澤倫斯基：若有完整保障會交付公投",
       "summary": [
         "經濟日報：美提議烏割地換加入北約　澤倫斯基：若有完整保障會交付公投",
@@ -181,7 +139,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
       "summary": [
         "ETtoday：快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
@@ -202,7 +160,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "黃仁勳暖舉曝光！輝達主管揭他「動用人脈」助抗癌：欠他恩情",
       "summary": [
         "ETtoday：黃仁勳暖舉曝光！輝達主管揭他「動用人脈」助抗癌：欠他恩情",
@@ -219,6 +177,48 @@
           "source": "自由時報",
           "title": "逆風相挺！ 輝達總監曝黃仁勳私下動用人脈助他抗癌",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5641476"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "韓國個資外洩事件拉警報 大學、公營機構也遭駭",
+      "summary": [
+        "經濟日報：韓國個資外洩事件拉警報 大學、公營機構也遭駭",
+        "自由時報：韓國個資外洩事件拉警報  大學、公營機構也遭駭"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "韓國個資外洩事件拉警報 大學、公營機構也遭駭",
+          "url": "https://money.udn.com/money/story/5599/9879862"
+        },
+        {
+          "source": "自由時報",
+          "title": "韓國個資外洩事件拉警報  大學、公營機構也遭駭",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641452"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "巴林防空警報大作　伊朗革命衛隊稱攻擊美軍雷達系統",
+      "summary": [
+        "經濟日報：巴林防空警報大作　伊朗革命衛隊稱攻擊美軍雷達系統",
+        "自由時報：巴林警報聲大作 伊朗伊斯蘭革命衛隊又宣稱攻擊美軍基地"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "巴林防空警報大作　伊朗革命衛隊稱攻擊美軍雷達系統",
+          "url": "https://money.udn.com/money/story/5599/9879954"
+        },
+        {
+          "source": "自由時報",
+          "title": "巴林警報聲大作 伊朗伊斯蘭革命衛隊又宣稱攻擊美軍基地",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641593"
         }
       ]
     }
@@ -247,6 +247,27 @@
     },
     {
       "rank": 2,
+      "title": "Megaspeed 表示 Alice Huang 已於 2025 年離職，並對其業務報告展開內部調查",
+      "summary": [
+        "CNBC：Megaspeed 表示 Alice Huang 已於 2025 年離職，並對其業務報告展開內部調查",
+        "Investing.com：Megaspeed 表示 Alice Huang 已於 2025 年 8 月離開公司"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "Megaspeed 表示 Alice Huang 已於 2025 年離職，並對其業務報告展開內部調查",
+          "url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Megaspeed 表示 Alice Huang 已於 2025 年 8 月離開公司",
+          "url": "https://www.investing.com/news/stock-market-news/megaspeed-says-alice-huang-left-company-in-august-2025-5027761"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "福岡市長選舉計票及出口民調選舉資訊在這裡【突發新聞】",
       "summary": [
         "NHK新聞：福岡市長選舉計票及出口民調選舉資訊在這裡【突發新聞】"
@@ -261,7 +282,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "愛媛郡知事選舉計票及出口民調選舉資訊在這裡 [突發新聞]",
       "summary": [
         "NHK新聞：愛媛郡知事選舉計票及出口民調選舉資訊在這裡 [突發新聞]"
@@ -276,7 +297,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "[突發新聞] 福岡市長選舉出口民調結果",
       "summary": [
         "NHK新聞：[突發新聞] 福岡市長選舉出口民調結果"
@@ -291,67 +312,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "美國航空旅行混亂暴露了由「繩子和膠帶」連線在一起的系統",
-      "summary": [
-        "Financial Times：美國航空旅行混亂暴露了由「繩子和膠帶」連線在一起的系統"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "美國航空旅行混亂暴露了由「繩子和膠帶」連線在一起的系統",
-          "url": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
       "rank": 6,
-      "title": "隨著人工智慧貿易的放鬆、外國資金的回歸，印度股市反彈",
-      "summary": [
-        "Bloomberg Tech：隨著人工智慧貿易的放鬆、外國資金的回歸，印度股市反彈"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "隨著人工智慧貿易的放鬆、外國資金的回歸，印度股市反彈",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-15/india-stock-market-rebounds-as-ai-trade-unwinds-foreign-funds-return"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "德國計劃減持布魯克菲爾德、CPPIB 推進 Uniper 出售",
-      "summary": [
-        "Yahoo Finance：德國計劃減持布魯克菲爾德、CPPIB 推進 Uniper 出售"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "德國計劃減持布魯克菲爾德、CPPIB 推進 Uniper 出售",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQW81TlZ1bURJSHdiQXBmTHQ3ZmxKS0lId2I3R3IwUlFXOGtLVlluRllzZkhCV3d0U25VN1RyS1ZKUmc5YUZERHRQb3BEdnlvRkVuOFB6bXBNckgySHkzY0k3eEhhVjgybnRWMTQ2YXFNVExQdXI5c0YtZ1BGelVKWlk4NDlmN0lfczZOY3JTaGNpdkVMREVSSm1RWmZkeTdULWJj?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "憑藉 Starship 的成功，SpaceX 仍然證明它可以讓世界眼花繚亂",
-      "summary": [
-        "Ars Technica：憑藉 Starship 的成功，SpaceX 仍然證明它可以讓世界眼花繚亂"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Ars Technica",
-          "title": "憑藉 Starship 的成功，SpaceX 仍然證明它可以讓世界眼花繚亂",
-          "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "SpaceX大型太空船繞地球軌道執行後首次成功抵達發射臺",
       "summary": [
         "NHK新聞：SpaceX大型太空船繞地球軌道執行後首次成功抵達發射臺"
@@ -366,7 +327,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "新的人工智慧百萬富翁需要財富顧問來幫助他們捐出錢財",
       "summary": [
         "WSJ Markets：新的人工智慧百萬富翁需要財富顧問來幫助他們捐出錢財"
@@ -377,6 +338,51 @@
           "source": "WSJ Markets",
           "title": "新的人工智慧百萬富翁需要財富顧問來幫助他們捐出錢財",
           "url": "https://www.wsj.com/finance/investing/new-ai-millionaires-want-wealth-advisers-who-can-help-give-their-money-away-7d586775?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "韓外交高官：中方向韓方說明朝中交流情況",
+      "summary": [
+        "韓聯社：韓外交高官：中方向韓方說明朝中交流情況"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "韓外交高官：中方向韓方說明朝中交流情況",
+          "url": "https://cn.yna.co.kr/view/ACK20261115000100881"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "朝媒報道朝鮮勞動黨書記趙甬元率團訪俄",
+      "summary": [
+        "韓聯社：朝媒報道朝鮮勞動黨書記趙甬元率團訪俄"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "朝媒報道朝鮮勞動黨書記趙甬元率團訪俄",
+          "url": "https://cn.yna.co.kr/view/ACK20261115000200881"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "遵循這 7 種食譜，吃得更好",
+      "summary": [
+        "Washington Post：遵循這 7 種食譜，吃得更好"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "遵循這 7 種食譜，吃得更好",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGxUTDAyYVV1TzN4NDBXN0ZxV21QU1pGaWUtVVNydFdFdDdxbmZGd2VHR3k2bkVSNUgtSkZNWDJkZERYcDNuUTBfaXNkRmVRZ2FseTVwZG4xNHlRc3ItOGRZQ1FQcEtUUDZ2UVlHYlJnNm0yaDE5Qm5Ha0c3RnBZNXJaVjVaQ1ZnR1NvRHBB?oc=5"
         }
       ]
     }
