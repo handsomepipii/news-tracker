@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-15 21:56",
+  "updated_at": "2026-11-15 22:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "挺黃仁勳重返輝達連署破12萬人！名單赫見緋聞物件黃樂",
-      "summary": [
-        "自由時報：挺黃仁勳重返輝達連署破12萬人！名單赫見緋聞物件黃樂",
-        "經濟日報：逾13萬人挺黃仁勳重返輝達！名單驚見疑似小三「黃樂」連署",
-        "TVBS新聞：挺黃仁勳連署破13萬人！名單中驚見「黃樂」 主辦單位回應了"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "挺黃仁勳重返輝達連署破12萬人！名單赫見緋聞物件黃樂",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5641254"
-        },
-        {
-          "source": "經濟日報",
-          "title": "逾13萬人挺黃仁勳重返輝達！名單驚見疑似小三「黃樂」連署",
-          "url": "https://money.udn.com/money/story/5599/9879760"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "挺黃仁勳連署破13萬人！名單中驚見「黃樂」 主辦單位回應了",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mMEhPcUlaVmlpV1JvVUU3cFNUWTV0QmgxTU5tOWR2WWFPaXp2VWU3X2tnMEpMOEFheXlIalJWM1NOWU4yd19ld2Q5V1hBVEk?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "U23世界盃》臺鋼新星、富邦大物開轟！臺灣打爆委內瑞拉仍無緣爭冠",
       "summary": [
         "自由時報：U23世界盃》臺鋼新星、富邦大物開轟！臺灣打爆委內瑞拉仍無緣爭冠",
@@ -46,6 +19,27 @@
           "source": "ETtoday",
           "title": "快訊／U23中華隊3轟打爆不敗委內瑞拉！13比1大勝　強勢闖進季軍戰",
           "url": "https://sports.ettoday.net/news/3272445"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "逾13萬人挺黃仁勳重返輝達！名單驚見疑似小三「黃樂」連署",
+      "summary": [
+        "經濟日報：逾13萬人挺黃仁勳重返輝達！名單驚見疑似小三「黃樂」連署",
+        "TVBS新聞：挺黃仁勳連署破13萬人！名單中驚見「黃樂」 主辦單位回應了"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "逾13萬人挺黃仁勳重返輝達！名單驚見疑似小三「黃樂」連署",
+          "url": "https://money.udn.com/money/story/5599/9879760"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "挺黃仁勳連署破13萬人！名單中驚見「黃樂」 主辦單位回應了",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mMEhPcUlaVmlpV1JvVUU3cFNUWTV0QmgxTU5tOWR2WWFPaXp2VWU3X2tnMEpMOEFheXlIalJWM1NOWU4yd19ld2Q5V1hBVEk?oc=5"
         }
       ]
     },
@@ -287,91 +281,91 @@
     },
     {
       "rank": 5,
-      "title": "黃仁勛因何跌落神壇？傲慢與自負- 紐約時報中文網",
+      "title": "大阪枚方女孩去世，市政府今年沒有與母親會面，儘管有「虐待」報道",
       "summary": [
-        "紐約時報中文：黃仁勛因何跌落神壇？傲慢與自負- 紐約時報中文網"
+        "NHK新聞：大阪枚方女孩去世，市政府今年沒有與母親會面，儘管有「虐待」報道"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "紐約時報中文",
-          "title": "黃仁勛因何跌落神壇？傲慢與自負- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85RzZsTTB4VERhVEFVd29hQUFENWEzSVN1eU1oYnljTUY4ZTdyXzQ2UUtQRlZTRWRqWFlCRmxTT2VpVHdEVHhoUGpUOFJyOUdFbmlXTXJBU0xBX0ZrMzZlRTlPaERQVXFRWGpRVTh3SmwxS182NGc?oc=5"
+          "source": "NHK新聞",
+          "title": "大阪枚方女孩去世，市政府今年沒有與母親會面，儘管有「虐待」報道",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76074"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "隨著魚子價格飆升，「紅魚子醬」從日本壽司選單中消失",
+      "title": "索羅斯的基金在英特爾減半前將其作為最大的股票押注",
       "summary": [
-        "Financial Times：隨著魚子價格飆升，「紅魚子醬」從日本壽司選單中消失"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "隨著魚子價格飆升，「紅魚子醬」從日本壽司選單中消失",
-          "url": "https://www.ft.com/content/921b3589-6f88-44a6-b162-a13f5cc7e5e9?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "紐約社會主義者支援亞歷山大·奧卡西奧-科爾特斯參加 2028 年總統競選",
-      "summary": [
-        "Financial Times：紐約社會主義者支援亞歷山大·奧卡西奧-科爾特斯參加 2028 年總統競選"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "紐約社會主義者支援亞歷山大·奧卡西奧-科爾特斯參加 2028 年總統競選",
-          "url": "https://www.ft.com/content/3f1fd9f6-8f96-4178-bf5a-8fce8954b811?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "2026 年 11 月值得關注的 3 檔成長股",
-      "summary": [
-        "Yahoo Finance：2026 年 11 月值得關注的 3 檔成長股"
+        "Yahoo Finance：索羅斯的基金在英特爾減半前將其作為最大的股票押注"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "2026 年 11 月值得關注的 3 檔成長股",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVmdBQTFnZ3M4bzhaZEpfR0thTGp2QVA2Q196NWVlM1pzZkw0WGxpME03UXBuTFZienRxQ2g4VE5BcF9ldlhodmNDN3JvdHJ5Q25LanZHcWlaYXRXY1NsVm8wVFhxMTlKQmNncmU2ZjQ5SDNMU3pPUlc2YWh2VmRhWW5vUHdMT2dqZ0o3RlQxSENiUXRq?oc=5"
+          "title": "索羅斯的基金在英特爾減半前將其作為最大的股票押注",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFhWN1VLTE1PenR3aFRkNDJhSlczVnViS0dTb0RVbjZBQzdvaGZfYVYwZkxGTWNFeGZvcFpTTTRWM3hLQ2dBQm1XQnc3YWtMb0NjdDltOFYwNW80QlNFTWxCQnV5MHJ3VHRZamhSbVJ6Q1RORUhSRTVsS0VacDFPODA3WXkwcEhiNGFzaGc2WGZ3Y2k5UmlCNXZn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "成長策略部長官內在NHK週日辯論中就成長策略「民意傾聽進度管理」進行辯論",
+      "summary": [
+        "NHK新聞：成長策略部長官內在NHK週日辯論中就成長策略「民意傾聽進度管理」進行辯論"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "成長策略部長官內在NHK週日辯論中就成長策略「民意傾聽進度管理」進行辯論",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76082"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "韓國連續六月蟬聯中國最大進口來源國 對美出口排名升至第六",
+      "summary": [
+        "韓聯社：韓國連續六月蟬聯中國最大進口來源國 對美出口排名升至第六"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "韓國連續六月蟬聯中國最大進口來源國 對美出口排名升至第六",
+          "url": "https://cn.yna.co.kr/view/ACK20261115000300881"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "菲律賓選手卡梅爾奪得第一位歐洲歌唱大賽亞洲冠軍",
+      "title": "俄羅斯稱烏克蘭評論家在莫斯科汽車爆炸事件中受傷",
       "summary": [
-        "Nikkei Asia：菲律賓選手卡梅爾奪得第一位歐洲歌唱大賽亞洲冠軍"
+        "Washington Post：俄羅斯稱烏克蘭評論家在莫斯科汽車爆炸事件中受傷"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Nikkei Asia",
-          "title": "菲律賓選手卡梅爾奪得第一位歐洲歌唱大賽亞洲冠軍",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaXVKVHk1WHJWX3ZKSXdGdl9ISHBaSmtBa25EbnVDSUFpNlFIWGFBTEY3enVNenAwS2NpdldRTzNXVkZyT21Kd1ZVd0I5dnRDdkU4cEhJdmNBakJoMWlkQWVRWGVVZElwSUsxd2JBUUZTN3NxdHVCSTRrQlY1MFVQTm8wRHpLbDZWaEIzWmQzWmQ0ZWd6WDRQS2FwUkFnV2YyQVl1Zy1EOUFhbjNSVVU2NGV3?oc=5"
+          "source": "Washington Post",
+          "title": "俄羅斯稱烏克蘭評論家在莫斯科汽車爆炸事件中受傷",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0FTS0RnMFQ3My1aQ2dIVm9DcXJrVXAwMUE4Wk1xQ2ViTWhoc0lab040TjBjUjBwcy1fc0ZGa0UtTzVEbEx4V0xZVUlUNWNndVFfemRYcHlOcGF1Vk5kWGN4Q2Zqb2lvSF9mLVRYRDRaUHN6V0lHOGpLd1VJM19OeGFDMlByX3dPWnZTQXlYaU1IQnZ0ZEN4WWhyVjVPSjFsWVBLaw?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "中國百年「瓷都」放眼全球奢侈品",
+      "title": "緬甸、霧霾問題持續摩擦，東協領導人啟動馬尼拉峰會",
       "summary": [
-        "Nikkei Asia：中國百年「瓷都」放眼全球奢侈品"
+        "Nikkei Asia：緬甸、霧霾問題持續摩擦，東協領導人啟動馬尼拉峰會"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Nikkei Asia",
-          "title": "中國百年「瓷都」放眼全球奢侈品",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnhQWmpDaWhNaTRuNTd2M0o1ckZVcll2WDVMb2F2aUYzbWxkRlY1bWIzeHY0X2ljLUM1czQzZE5fbFExRjdwSl9QNTBPbjk5LXdsaThvbWgyNklCeXRYM0U5alM1UHJUTlVJS3RxaEFMY3otdkd1eGhlMTIyTEI3NElicVBtQU82NzFXek1OdEltOVJRazk2QWpJaw?oc=5"
+          "title": "緬甸、霧霾問題持續摩擦，東協領導人啟動馬尼拉峰會",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTnFuWHoxVkdBOVNBbmdPZWc5TmkzT29wc2FDT0VHS0RXZ0dNcVRUeWZ0MmNwZG94bENobldjdFE1RXV1TXJpaFBmWXNNelNNM1Iybnd4OTl1V0tVS3ZxOTNsNHA5ZEk2alVEWUtvWFFDLWdxZHBxV2VHY0NHd1NVZGRTbVFvRmVxVDMyVldKWV9RNm1JdVJhdnNsWkhaRi1zOUNaODlDMzBiX3dEejc4WGxieENoblpPNzFneWR6ZnBDTUlYa3I4TXdROA?oc=5"
         }
       ]
     }
