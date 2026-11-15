@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 18:56",
+  "updated_at": "2026-11-15 19:26",
   "taiwan": [
     {
       "rank": 1,
@@ -35,38 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "SpaceX首度完成太空船捕捉回收　星艦返回發射臺",
-      "summary": [
-        "經濟日報：SpaceX首度完成太空船捕捉回收　星艦返回發射臺",
-        "ETtoday：SpaceX創歷史首次！　星艦由發射塔機械手臂成功回收",
-        "自由時報：SpaceX首度完成太空船捕捉回收 星艦返回發射臺"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "SpaceX首度完成太空船捕捉回收　星艦返回發射臺",
-          "url": "https://money.udn.com/money/story/5599/9879383"
-        },
-        {
-          "source": "ETtoday",
-          "title": "SpaceX創歷史首次！　星艦由發射塔機械手臂成功回收",
-          "url": "https://www.ettoday.net/news/20261115/3272391.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "SpaceX首度完成太空船捕捉回收 星艦返回發射臺",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641155"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "史上第一次！SpaceX 首度成功回收自軌道返航的 Starship 上節",
-          "url": "https://www.inside.com.tw/article/42915-spacex-starship-ship-42-first-orbital-upper-stage-tower-catch-flight-15"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "挺黃仁勳連署破11萬人！名單竟出現黃樂　主辦單位回應了",
       "summary": [
         "ETtoday：挺黃仁勳連署破11萬人！名單竟出現黃樂　主辦單位回應了",
@@ -94,6 +62,33 @@
           "source": "TVBS新聞",
           "title": "挺黃仁勳連署破13萬人！名單中驚見「黃樂」 主辦單位回應了",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mMEhPcUlaVmlpV1JvVUU3cFNUWTV0QmgxTU5tOWR2WWFPaXp2VWU3X2tnMEpMOEFheXlIalJWM1NOWU4yd19ld2Q5V1hBVEk?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "SpaceX創歷史首次！　星艦由發射塔機械手臂成功回收",
+      "summary": [
+        "ETtoday：SpaceX創歷史首次！　星艦由發射塔機械手臂成功回收",
+        "自由時報：SpaceX首度完成太空船捕捉回收 星艦返回發射臺",
+        "INSIDE硬塞：史上第一次！SpaceX 首度成功回收自軌道返航的 Starship 上節"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "SpaceX創歷史首次！　星艦由發射塔機械手臂成功回收",
+          "url": "https://www.ettoday.net/news/20261115/3272391.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "SpaceX首度完成太空船捕捉回收 星艦返回發射臺",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641155"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "史上第一次！SpaceX 首度成功回收自軌道返航的 Starship 上節",
+          "url": "https://www.inside.com.tw/article/42915-spacex-starship-ship-42-first-orbital-upper-stage-tower-catch-flight-15"
         }
       ]
     },
@@ -204,6 +199,27 @@
     },
     {
       "rank": 9,
+      "title": "美提議烏割地換加入北約　澤倫斯基：若有完整保障會交付公投",
+      "summary": [
+        "經濟日報：美提議烏割地換加入北約　澤倫斯基：若有完整保障會交付公投",
+        "MoneyDJ理財網：美提出棄頓巴斯換入北約澤倫斯基：若有完整保障公投決定- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美提議烏割地換加入北約　澤倫斯基：若有完整保障會交付公投",
+          "url": "https://money.udn.com/money/story/5599/9879818"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "美提出棄頓巴斯換入北約澤倫斯基：若有完整保障公投決定- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMnhEZ0NDRC04UG5SaFlxNERUclN4RkZOeENkT09oTnZfSG12cms0UUNfd2pfLXRweEcxUUlNc3BlcHM3OHhCdjdSbFBkeDZKamdqRzYyTlhCbkxETE80WEctbks0WGhXZE1IZVE2U0pCd1pJUVplTHFaMjBiYlJSazRSZWJwUUpPd09mQUZPLUNLUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
       "summary": [
         "ETtoday：快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
@@ -220,27 +236,6 @@
           "source": "中時新聞",
           "title": "亞冠賽》5下反擊狂敲安打 季軍賽中華4：6不敵澳洲",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMzU5cmIzQmpOTHVuaWk0endDdDZQbzNINVpiVHZITjJfdlk1MUtNQVAxMDNIaG9mYWtMcnpxYW1xbWpPdXRVLVJMaWF2Z29BUzBwZElvWGNfQTlMMFA3Q0RwYjlTM1ZBYmdURk1R?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "黃仁勳暖舉曝光！輝達主管揭他「動用人脈」助抗癌：欠他恩情",
-      "summary": [
-        "ETtoday：黃仁勳暖舉曝光！輝達主管揭他「動用人脈」助抗癌：欠他恩情",
-        "自由時報：逆風相挺！ 輝達總監曝黃仁勳私下動用人脈助他抗癌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳暖舉曝光！輝達主管揭他「動用人脈」助抗癌：欠他恩情",
-          "url": "https://www.ettoday.net/news/20261115/3272509.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "逆風相挺！ 輝達總監曝黃仁勳私下動用人脈助他抗癌",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641476"
         }
       ]
     }
@@ -284,111 +279,21 @@
     },
     {
       "rank": 3,
-      "title": "澤連斯基總統：“美國提出撤軍以換取北約成員資格”",
+      "title": "福岡市長選舉計票及出口民調選舉資訊在這裡【突發新聞】",
       "summary": [
-        "NHK新聞：澤連斯基總統：“美國提出撤軍以換取北約成員資格”"
+        "NHK新聞：福岡市長選舉計票及出口民調選舉資訊在這裡【突發新聞】"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "澤連斯基總統：“美國提出撤軍以換取北約成員資格”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76042"
+          "title": "福岡市長選舉計票及出口民調選舉資訊在這裡【突發新聞】",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76099"
         }
       ]
     },
     {
       "rank": 4,
-      "title": "劉易斯·漢密爾頓訪問埃及拉法過境點和加薩援助設施",
-      "summary": [
-        "The Guardian：劉易斯·漢密爾頓訪問埃及拉法過境點和加薩援助設施"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "劉易斯·漢密爾頓訪問埃及拉法過境點和加薩援助設施",
-          "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "中國排除在2028年舉辦Cop33氣候高峰會的可能性",
-      "summary": [
-        "The Guardian：中國排除在2028年舉辦Cop33氣候高峰會的可能性"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "中國排除在2028年舉辦Cop33氣候高峰會的可能性",
-          "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "英偉達股東不會長久懷念黃仁勳",
-      "summary": [
-        "WSJ Markets：英偉達股東不會長久懷念黃仁勳"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "WSJ Markets",
-          "title": "英偉達股東不會長久懷念黃仁勳",
-          "url": "https://www.wsj.com/finance/stocks/nvidia-shareholders-wont-miss-jensen-huang-for-long-13429e31?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "著眼於自己的遺產，川普抓住機會與習近平和普丁進行軍備談判",
-      "summary": [
-        "Nikkei Asia：著眼於自己的遺產，川普抓住機會與習近平和普丁進行軍備談判"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "著眼於自己的遺產，川普抓住機會與習近平和普丁進行軍備談判",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZTRwYVFuRUs0QkR2dDFkOEtCd3NlbHpTQlpMaTZjTWd5ZUNodXZCUl9JNEQ0OW5ZS2FBcG1yQjluZ0tjTS1ZYThCNE1PcmZZQS0xTTVBMzJnLTRyMi1zN2w0LTd6YjNNYjZLWWV2amVMR21BV0VpOTdDOEl3X25hcU9OemZscTBnRVB2NXpwQmVQcVRJY3BXZjZiTnVMcjM3aWhVRTNTcndRVWVYUm5JRU03YUlSQ3JuMi12R0tSMTdCUDhpLXc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "美國航空旅行問題將持續到週日，數千個航班受到影響",
-      "summary": [
-        "Nikkei Asia：美國航空旅行問題將持續到週日，數千個航班受到影響"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "美國航空旅行問題將持續到週日，數千個航班受到影響",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMnJvSEZyMEpBS0lPYXZRZmcxX1B4bXlwdE9vZklIaE5yMUZQbktwaFR5dDZpNjBhRjFyaktkaHU3aEhWc3RyZnpxelU3MUpfTHpXYlhsN3FxS2xmb2h6eElZdzdYVWowQ3NGdHBKUXNvMUNJcGNjakdfYkJsZVNEREJ1MVIwQ2MxMTNSWld5R3BGVmwyT3V4RUkxMEJIMExJeWU4UWpQTXp1dWZ4VkFQNEIzX0tia21MWGhFVzY0SVJRdWp4QUhn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "外國工人需要在日本社會中佔有一席之地，而不僅僅是在經濟中",
-      "summary": [
-        "Nikkei Asia：外國工人需要在日本社會中佔有一席之地，而不僅僅是在經濟中"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "外國工人需要在日本社會中佔有一席之地，而不僅僅是在經濟中",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkY0bm1teVNDaDBRQm84WUNJR3pHOVhveDFId19COHhtQ3p5LXVBZ3QwNjdvaXh4QlJSaVpfTnkzR2FUOHNXeExmcGJDRHhTZy1GTkdEd1VwT3ZzdkJNb1lVOUlGem9jN0pIenJfd1R1R3R1eUhyMjZRNmpyM29NdWVVcXRfNXRWdHM4U0UxRkd6YWhzc2c5blJsazhyV0Vud293?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "SpaceX 成功捕捉 Starship 火箭，這是航太產業的一個巨大里程碑",
       "summary": [
         "MarketWatch：SpaceX 成功捕捉 Starship 火箭，這是航太產業的一個巨大里程碑"
@@ -399,6 +304,96 @@
           "source": "MarketWatch",
           "title": "SpaceX 成功捕捉 Starship 火箭，這是航太產業的一個巨大里程碑",
           "url": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "NVIDIA (NVDA)：人工智慧需求能否透過領導力的不確定性維持成長？",
+      "summary": [
+        "Yahoo Finance：NVIDIA (NVDA)：人工智慧需求能否透過領導力的不確定性維持成長？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "NVIDIA (NVDA)：人工智慧需求能否透過領導力的不確定性維持成長？",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0pZeVVHdkYxcndfVGlLN0VvdnRfZkFzZ2xpMTRUTXVNd1NTYUdyVFFPLU1xMGZXazlUSEREZk9iUDRub0o2OGlNZmVuYTJWRnk2U2ZwREpMN0t0YS03S2ExenhEMmRLZm5PeGVVeVBYLV9tNEhLLVJ2bDdqWWZtX0tSLW5lRUg0R1Iyb3NwQ3hWNEt6bTQ1NA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "網紅「Assun」因涉嫌違反娛樂業法被捕",
+      "summary": [
+        "NHK新聞：網紅「Assun」因涉嫌違反娛樂業法被捕"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "網紅「Assun」因涉嫌違反娛樂業法被捕",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76043"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "小西瑪麗卡在國際青年才俊比賽中獲得小提琴第四名",
+      "summary": [
+        "NHK新聞：小西瑪麗卡在國際青年才俊比賽中獲得小提琴第四名"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "小西瑪麗卡在國際青年才俊比賽中獲得小提琴第四名",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76044"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "自由自在的永珍：不急不躁的首都",
+      "summary": [
+        "Nikkei Asia：自由自在的永珍：不急不躁的首都"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "自由自在的永珍：不急不躁的首都",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczhkajJFSEk3Y1F0a2lzU19sTEtVLVFETm1UYk5QVlhMU0o5a3RGVUlqWnVpX2d5ci00TzJiamxvZkVYZ2tlNEVCSVNnUk0wa0VqdWNxOFhvR1ZmeEs5d0dIaFZLNTlfeHh6bTBSbXc0aHo4Wk9fZHR4cE9KTDNvU1pMNFlVMTVpN0g1ZUZqcTMxVXl0aTU2NGhVVTY4UGYwbXB5bA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Nvidia 的安全團隊在哪裡？",
+      "summary": [
+        "TechCrunch：Nvidia 的安全團隊在哪裡？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "Nvidia 的安全團隊在哪裡？",
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國航空旅行混亂暴露了由「繩子和膠帶」連線在一起的系統",
+      "summary": [
+        "Financial Times：美國航空旅行混亂暴露了由「繩子和膠帶」連線在一起的系統"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "美國航空旅行混亂暴露了由「繩子和膠帶」連線在一起的系統",
+          "url": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1"
         }
       ]
     }
