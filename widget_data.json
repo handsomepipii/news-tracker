@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 15:56",
+  "updated_at": "2026-11-15 16:25",
   "taiwan": [
     {
       "rank": 1,
@@ -67,33 +67,6 @@
     },
     {
       "rank": 3,
-      "title": "全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
-      "summary": [
-        "自由時報：全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
-        "經濟日報：全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
-        "ETtoday：全美航班「暫時禁飛」疑裝置問題或人為失誤　15日全面恢復"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641144"
-        },
-        {
-          "source": "經濟日報",
-          "title": "全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
-          "url": "https://money.udn.com/money/story/5599/9879323"
-        },
-        {
-          "source": "ETtoday",
-          "title": "全美航班「暫時禁飛」疑裝置問題或人為失誤　15日全面恢復",
-          "url": "https://www.ettoday.net/news/20261115/3272387.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "《鬼島．鬼導：臺灣靈異大小事》書評：德國學者筆下的臺灣幽冥與人文關懷",
       "summary": [
         "關鍵評論網：《鬼島．鬼導：臺灣靈異大小事》書評：德國學者筆下的臺灣幽冥與人文關懷",
@@ -120,7 +93,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "馬克宏批限縮援助烏克蘭形同認輸　恐釀新戰爭",
       "summary": [
         "自由時報：馬克宏批限縮援助烏克蘭形同認輸　恐釀新戰爭",
@@ -137,6 +110,27 @@
           "source": "經濟日報",
           "title": "馬克宏批限縮援助烏克蘭形同認輸　恐釀新戰爭",
           "url": "https://money.udn.com/money/story/5599/9879327"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
+      "summary": [
+        "經濟日報：全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
+        "ETtoday：全美航班「暫時禁飛」疑裝置問題或人為失誤　15日全面恢復"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
+          "url": "https://money.udn.com/money/story/10511/9879323"
+        },
+        {
+          "source": "ETtoday",
+          "title": "全美航班「暫時禁飛」疑裝置問題或人為失誤　15日全面恢復",
+          "url": "https://www.ettoday.net/news/20261115/3272387.htm"
         }
       ]
     },
@@ -281,132 +275,6 @@
     },
     {
       "rank": 2,
-      "title": "馬斯克（Elon Musk）與 10 萬多名簽名者共同簽署了一份請願書，要求黃仁勳復職，其中包括 5,000 多個自稱在 Nvidia 工作的人",
-      "summary": [
-        "Yahoo Finance：馬斯克（Elon Musk）與 10 萬多名簽名者共同簽署了一份請願書，要求黃仁勳復職，其中包括 5,000 多個自稱在 Nvidia 工作的人",
-        "TechCrunch：馬斯克 (Elon Musk) 和其他科技簽署請願書，呼籲 Nvidia 恢復黃仁勳 (Jensen Huang) 的職位"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "馬斯克（Elon Musk）與 10 萬多名簽名者共同簽署了一份請願書，要求黃仁勳復職，其中包括 5,000 多個自稱在 Nvidia 工作的人",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUFtUUhkeXFFYjNLV2w2bV9PcEJUbzRueVdpYkNTMUdaWWFqOVlSam1Qal9ValJPVUxrd0lpb3BrY0o1aUtzMTJnamRhWFUydHVKN3A0WERvRnJfV0VQb1JyTTFiNkRaY2VoUXZScnNpeHk2RDVxNk5OUXphdUtSS0cweW4wSzQ1NmstUUV6ZTYxUQ?oc=5"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "馬斯克 (Elon Musk) 和其他科技簽署請願書，呼籲 Nvidia 恢復黃仁勳 (Jensen Huang) 的職位",
-          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "隨著東協峰會開幕，川普總統對亞洲的態度也將成為焦點。",
-      "summary": [
-        "NHK新聞：隨著東協峰會開幕，川普總統對亞洲的態度也將成為焦點。"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "隨著東協峰會開幕，川普總統對亞洲的態度也將成為焦點。",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75995"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "英偉達戲劇性事件後，多汁的 6% 收益率獲得吸引力：Credit Weekly",
-      "summary": [
-        "Bloomberg Markets：英偉達戲劇性事件後，多汁的 6% 收益率獲得吸引力：Credit Weekly"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "英偉達戲劇性事件後，多汁的 6% 收益率獲得吸引力：Credit Weekly",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "為什麼 2027 年投資者面臨的最大風險不是 Nvidia，而是通膨",
-      "summary": [
-        "Yahoo Finance：為什麼 2027 年投資者面臨的最大風險不是 Nvidia，而是通膨"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "為什麼 2027 年投資者面臨的最大風險不是 Nvidia，而是通膨",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUU1XbGRvSFRiYXFKSm1KSWdMSDhyRWVnRGYycnhNTW93aVdWeWNjYWFSSmU5YzBCRmltT3M2WGJsdjN5ODRLdG5hTnk3VkZrekxpYnpOWkRqcnk2YnQybXhES2dGc0YxSEhCX1Z4Mm1WUUZRUTE1ZlRNV05KR2Y3SGxxVDRQQmlhWjFUaXFhdTdGb1dQdUFCb1Fyay0xVFNpV3lsVVg5Q20zYUVPWWtMYnRxTVlxcUY0YWx6N2RFOHpkY2ZI?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "達菲探究 L3Harris 在 FAA 崩潰中可能“無能”",
-      "summary": [
-        "Yahoo Finance：達菲探究 L3Harris 在 FAA 崩潰中可能“無能”"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "達菲探究 L3Harris 在 FAA 崩潰中可能“無能”",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa0ZDcUZzQ09ZZElmd1hpMy1rU0VWc0hEUFM5NHhGVHphNGVjcTROb080NWI4eGVBXzY5a3BoZHZNdVdVR2o1dGFOTGx3a0pZQnc1UmZUeVdyQjB0VHh0d05uWUg4d0dlU0pXRll6bDRWdF9wOEdBcWRYV3VPMlBwUElmWms5Z2dOVVdxaVBMQnJXcDVWWVdTd3FRZGdZM2JTemVvYnJDalQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "美國航空停駛歸咎於 L3 Harris 安裝的路由器",
-      "summary": [
-        "Investing.com：美國航空停駛歸咎於 L3 Harris 安裝的路由器"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "美國航空停駛歸咎於 L3 Harris 安裝的路由器",
-          "url": "https://www.investing.com/news/stock-market-news/us-aviation-shutdown-blamed-on-l3-harris-installed-router-5027495"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "特斯拉開放 Cyber​​cab 預購“供個人使用”，但有地域限制，月費為 299 美元",
-      "summary": [
-        "TechCrunch：特斯拉開放 Cyber​​cab 預購“供個人使用”，但有地域限制，月費為 299 美元"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "特斯拉開放 Cyber​​cab 預購“供個人使用”，但有地域限制，月費為 299 美元",
-          "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "伊隆馬斯克讚揚黃仁勳在計算交付方面的可靠性，“如果沒有黃仁勳，至少會失去一些關鍵交易”",
-      "summary": [
-        "Wccftech：伊隆馬斯克讚揚黃仁勳在計算交付方面的可靠性，“如果沒有黃仁勳，至少會失去一些關鍵交易”"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Wccftech",
-          "title": "伊隆馬斯克讚揚黃仁勳在計算交付方面的可靠性，“如果沒有黃仁勳，至少會失去一些關鍵交易”",
-          "url": "https://wccftech.com/elon-musk-warns-nvidia-lose-critical-supply-deals-without-jensen-huang/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "美：烏入北約就願放棄領土？ 俄：先重談歐洲安全架構再談停火",
       "summary": [
         "法廣RFI：美：烏入北約就願放棄領土？ 俄：先重談歐洲安全架構再談停火"
@@ -417,6 +285,126 @@
           "source": "法廣RFI",
           "title": "美：烏入北約就願放棄領土？ 俄：先重談歐洲安全架構再談停火",
           "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E5%88%86%E6%9E%90/20261114-%E7%BE%8E-%E7%83%8F%E5%85%A5%E5%8C%97%E7%B4%84%E5%B0%B1%E9%A1%98%E6%94%BE%E6%A3%84%E9%A0%98%E5%9C%9F-%E4%BF%84-%E5%85%88%E9%87%8D%E8%AB%87%E6%AD%90%E6%B4%B2%E5%AE%89%E5%85%A8%E6%9E%B6%E6%A7%8B%E5%86%8D%E8%AB%87%E5%81%9C%E7%81%AB"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "美中貿易委員會召開首次降低關稅會議",
+      "summary": [
+        "NHK新聞：美中貿易委員會召開首次降低關稅會議"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "美中貿易委員會召開首次降低關稅會議",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75960"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "嘉賓專欄 |斯蒂芬·米勒 (Stephen Miller) 穿得像個通情達理的人。但聽聽他怎麼說。",
+      "summary": [
+        "Washington Post：嘉賓專欄 |斯蒂芬·米勒 (Stephen Miller) 穿得像個通情達理的人。但聽聽他怎麼說。"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "嘉賓專欄 |斯蒂芬·米勒 (Stephen Miller) 穿得像個通情達理的人。但聽聽他怎麼說。",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTIzampmS0FlbGRUSFpRV3VLOTBWM25NaW5RV0R2U19aX2I5aTQtOWN0QWlLRWtnZmlNbWNaRlJIRUZVVVN4c2s2aHVfdzJRZXhWR3dvUTV4alZPRnFGRGp6elFDM09mdHZzSXRRUGg4ZkhNTUNocDN3Ujc1NmZGdkNWNERYNHQtX25CNVJaN1MtLTNDQjc0SUNlTEFZX3JNLXhoeWtMNC1fUnA2SUE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Apple 使用者即將失去他們擁有 28 年的東西",
+      "summary": [
+        "Yahoo Finance：Apple 使用者即將失去他們擁有 28 年的東西"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "Apple 使用者即將失去他們擁有 28 年的東西",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZkdNTVM1eXVEN0xUVTJrVzZJdWJ1X3doMmY5TEx4M3pMQ19BNTVHMS1BSjZ1SUhJQUNLOTkzdTZiX3VzVll3V1IzaDdaNk1SYW43eUs2NEhCWHNFTXRyRWpnNlFUajVQaURMeE50dnJ2d2Y3WlBmLUpQN1FhcjhTY1Nra0NzX0lLYnp5a3pjb2J0RmZ1amdGVUZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "法國奢侈品最大市場從中國轉向美國",
+      "summary": [
+        "法廣RFI：法國奢侈品最大市場從中國轉向美國"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "法國奢侈品最大市場從中國轉向美國",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261114-%E6%B3%95%E5%9C%8B%E5%A5%A2%E4%BE%88%E5%93%81%E6%9C%80%E5%A4%A7%E5%B8%82%E5%A0%B4%E5%BE%9E%E4%B8%AD%E5%9C%8B%E8%BD%89%E5%90%91%E7%BE%8E%E5%9C%8B"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "美、中、俄三國首腦在深圳會晤：“普京或將是最大贏家”",
+      "summary": [
+        "法廣RFI：美、中、俄三國首腦在深圳會晤：“普京或將是最大贏家”"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "美、中、俄三國首腦在深圳會晤：“普京或將是最大贏家”",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261114-%E7%BE%8E-%E4%B8%AD-%E4%BF%84%E4%B8%89%E5%9C%8B%E9%A6%96%E8%85%A6%E5%9C%A8%E6%B7%B1%E5%9C%B3%E6%9C%83%E6%99%A4-%E6%99%AE%E4%BA%AC%E6%88%96%E5%B0%87%E6%98%AF%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "三方會談議程和形式仍未敲定",
+      "summary": [
+        "法廣RFI：三方會談議程和形式仍未敲定"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "三方會談議程和形式仍未敲定",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261114-%E4%B8%89%E6%96%B9%E6%9C%83%E8%AB%87%E8%AD%B0%E7%A8%8B%E5%92%8C%E5%BD%A2%E5%BC%8F%E4%BB%8D%E6%9C%AA%E6%95%B2%E5%AE%9A"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "橄欖球：威爾士自1953年以來首次擊敗紐西蘭",
+      "summary": [
+        "法廣RFI：橄欖球：威爾士自1953年以來首次擊敗紐西蘭"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "橄欖球：威爾士自1953年以來首次擊敗紐西蘭",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261114-%E6%A9%84%E6%AC%96%E7%90%83-%E5%A8%81%E7%88%BE%E5%A3%AB%E8%87%AA1953%E5%B9%B4%E4%BB%A5%E4%BE%86%E9%A6%96%E6%AC%A1%E6%93%8A%E6%95%97%E6%96%B0%E8%A5%BF%E8%98%AD"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "馬克龍：幫助烏自衛就是保護法國和法國人民",
+      "summary": [
+        "法廣RFI：馬克龍：幫助烏自衛就是保護法國和法國人民"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "馬克龍：幫助烏自衛就是保護法國和法國人民",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261114-%E9%A6%AC%E5%85%8B%E9%BE%8D-%E5%B9%AB%E5%8A%A9%E7%83%8F%E8%87%AA%E8%A1%9B%E5%B0%B1%E6%98%AF%E4%BF%9D%E8%AD%B7%E6%B3%95%E5%9C%8B%E5%92%8C%E6%B3%95%E5%9C%8B%E4%BA%BA%E6%B0%91"
         }
       ]
     }
