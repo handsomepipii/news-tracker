@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 03:56",
+  "updated_at": "2026-11-16 04:26",
   "taiwan": [
     {
       "rank": 1,
@@ -51,27 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "巴林警報聲大作 伊朗伊斯蘭革命衛隊又宣稱攻擊美軍基地",
-      "summary": [
-        "自由時報：巴林警報聲大作 伊朗伊斯蘭革命衛隊又宣稱攻擊美軍基地",
-        "經濟日報：伊朗攻擊巴林美軍基地 中東局勢再添隱憂"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "巴林警報聲大作 伊朗伊斯蘭革命衛隊又宣稱攻擊美軍基地",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641593"
-        },
-        {
-          "source": "經濟日報",
-          "title": "伊朗攻擊巴林美軍基地 中東局勢再添隱憂",
-          "url": "https://money.udn.com/money/story/5599/9880531"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "棒球》榖保3屆王牌左投互相扶持 林昱珉談王彥程旅韓首季：100分！",
       "summary": [
         "自由時報：棒球》榖保3屆王牌左投互相扶持 林昱珉談王彥程旅韓首季：100分！",
@@ -92,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "美軍F-15EX戰機抵沖繩　首度常駐於美國之外",
       "summary": [
         "經濟日報：美軍F-15EX戰機抵沖繩　首度常駐於美國之外",
@@ -113,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "羅大佑扯「沒料才拿補助」滅火器喊問心無愧！反擊政治口水",
       "summary": [
         "自由時報：羅大佑扯「沒料才拿補助」滅火器喊問心無愧！反擊政治口水",
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "花蓮卓溪18:03規模3.5地震  最大震度2級",
       "summary": [
         "自由時報：花蓮卓溪18:03規模3.5地震  最大震度2級",
@@ -155,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "「愛你一萬年」愛妻結婚紀念日舉牌現身車掃　沈伯洋驚：我老婆耶",
       "summary": [
         "ETtoday：「愛你一萬年」愛妻結婚紀念日舉牌現身車掃　沈伯洋驚：我老婆耶",
@@ -176,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "最新天氣》首波大陸冷氣團殺到！這天最冷探14度 未來一週2階段變天 | 蔣季容 | 新聞",
       "summary": [
         "風傳媒：最新天氣》首波大陸冷氣團殺到！這天最冷探14度 未來一週2階段變天 | 蔣季容 | 新聞",
@@ -197,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "曾罹攝護腺癌與小中風！77歲余天為孫女慶生近況曝光- 娛樂",
       "summary": [
         "中時新聞：曾罹攝護腺癌與小中風！77歲余天為孫女慶生近況曝光- 娛樂",
@@ -214,6 +193,27 @@
           "source": "ETtoday",
           "title": "余天難得露面幫孫女慶生　「昔罹攝護腺癌小中風」瘦一圈近照曝",
           "url": "https://star.ettoday.net/news/3272673"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
+      "summary": [
+        "自由時報：美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
+        "經濟日報：美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641984"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
+          "url": "https://money.udn.com/money/story/5599/9880725"
         }
       ]
     }
@@ -263,6 +263,27 @@
     },
     {
       "rank": 3,
+      "title": "美國及其盟國簽署協議保護人工智慧供應鏈免受中國影響",
+      "summary": [
+        "Financial Times：美國及其盟國簽署協議保護人工智慧供應鏈免受中國影響",
+        "法廣RFI：美國及盟友同意簽署協議以保護 AI 供應鏈免受中國影響"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "美國及其盟國簽署協議保護人工智慧供應鏈免受中國影響",
+          "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "美國及盟友同意簽署協議以保護 AI 供應鏈免受中國影響",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261115-%E7%BE%8E%E5%9C%8B%E5%8F%8A%E7%9B%9F%E5%8F%8B%E7%B0%BD%E7%BD%B2%E5%8D%94%E8%AD%B0%E4%BB%A5%E4%BF%9D%E8%AD%B7-ai-%E4%BE%9B%E6%87%89%E9%8F%88%E5%85%8D%E5%8F%97%E4%B8%AD%E5%9C%8B%E5%BD%B1%E9%9F%BF"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "英國《金融時報》稱，黃仁勳與盟友討論重返英偉達執行長一職",
       "summary": [
         "Bloomberg Tech：英國《金融時報》稱，黃仁勳與盟友討論重返英偉達執行長一職",
@@ -283,7 +304,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "福岡市長選舉計票及出口民調選舉資訊在這裡【突發新聞】",
       "summary": [
         "NHK新聞：福岡市長選舉計票及出口民調選舉資訊在這裡【突發新聞】"
@@ -298,7 +319,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "愛媛郡知事選舉計票及出口民調選舉資訊在這裡 [突發新聞]",
       "summary": [
         "NHK新聞：愛媛郡知事選舉計票及出口民調選舉資訊在這裡 [突發新聞]"
@@ -313,7 +334,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "[突發新聞] 福岡市長選舉出口民調結果",
       "summary": [
         "NHK新聞：[突發新聞] 福岡市長選舉出口民調結果"
@@ -328,7 +349,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "詳訊：韓中外長在京舉行會談",
       "summary": [
         "韓聯社：詳訊：韓中外長在京舉行會談"
@@ -343,47 +364,32 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "官員稱，以色列在襲擊加薩營地時殺死了哈馬斯指揮官",
-      "summary": [
-        "BBC World：官員稱，以色列在襲擊加薩營地時殺死了哈馬斯指揮官"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "官員稱，以色列在襲擊加薩營地時殺死了哈馬斯指揮官",
-          "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
       "rank": 9,
-      "title": "新奧爾良港口因「密西西比河奇蹟」油輪相撞事件提起 100 萬美元訴訟",
+      "title": "外來移民如何融入德國社會",
       "summary": [
-        "BBC World：新奧爾良港口因「密西西比河奇蹟」油輪相撞事件提起 100 萬美元訴訟"
+        "德國之聲：外來移民如何融入德國社會"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "BBC World",
-          "title": "新奧爾良港口因「密西西比河奇蹟」油輪相撞事件提起 100 萬美元訴訟",
-          "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss"
+          "source": "德國之聲",
+          "title": "外來移民如何融入德國社會",
+          "url": "https://www.dw.com/zh/外来移民如何融入德国社会/a-79942066?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "富道銀行（State Street）和百達銀行（Pictet）宣佈歐洲股市反彈時間到了",
+      "title": "俄羅斯獲準回歸國際冰球大賽，加拿大拒不執行，俄威脅索賠",
       "summary": [
-        "Bloomberg Markets：富道銀行（State Street）和百達銀行（Pictet）宣佈歐洲股市反彈時間到了"
+        "法廣RFI：俄羅斯獲準回歸國際冰球大賽，加拿大拒不執行，俄威脅索賠"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "富道銀行（State Street）和百達銀行（Pictet）宣佈歐洲股市反彈時間到了",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-15/state-street-pictet-call-time-on-europe-s-stock-market-rally"
+          "source": "法廣RFI",
+          "title": "俄羅斯獲準回歸國際冰球大賽，加拿大拒不執行，俄威脅索賠",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261115-%E4%BF%84%E7%BE%85%E6%96%AF%E7%8D%B2%E5%87%86%E5%9B%9E%E6%AD%B8%E5%9C%8B%E9%9A%9B%E5%86%B0%E7%90%83%E5%A4%A7%E8%B3%BD%EF%BC%8C%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8B%92%E4%B8%8D%E5%9F%B7%E8%A1%8C%EF%BC%8C%E4%BF%84%E5%A8%81%E8%84%85%E7%B4%A2%E8%B3%A0"
         }
       ]
     }
