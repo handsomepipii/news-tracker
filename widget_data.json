@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 01:26",
+  "updated_at": "2026-11-16 01:55",
   "taiwan": [
     {
       "rank": 1,
@@ -51,69 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
-      "summary": [
-        "ETtoday：快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
-        "中時新聞：亞冠賽》5下反擊狂敲安打 季軍賽中華4：6不敵澳洲"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
-          "url": "https://sports.ettoday.net/news/3272469"
-        },
-        {
-          "source": "中時新聞",
-          "title": "亞冠賽》5下反擊狂敲安打 季軍賽中華4：6不敵澳洲",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMzU5cmIzQmpOTHVuaWk0endDdDZQbzNINVpiVHZITjJfdlk1MUtNQVAxMDNIaG9mYWtMcnpxYW1xbWpPdXRVLVJMaWF2Z29BUzBwZElvWGNfQTlMMFA3Q0RwYjlTM1ZBYmdURk1R?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "黃仁勳暖舉曝光！輝達主管揭他「動用人脈」助抗癌：欠他恩情",
-      "summary": [
-        "ETtoday：黃仁勳暖舉曝光！輝達主管揭他「動用人脈」助抗癌：欠他恩情",
-        "自由時報：逆風相挺！ 輝達總監曝黃仁勳私下動用人脈助他抗癌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳暖舉曝光！輝達主管揭他「動用人脈」助抗癌：欠他恩情",
-          "url": "https://www.ettoday.net/news/20261115/3272509.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "逆風相挺！ 輝達總監曝黃仁勳私下動用人脈助他抗癌",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641476"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "韓國個資外洩事件拉警報 大學、公營機構也遭駭",
-      "summary": [
-        "經濟日報：韓國個資外洩事件拉警報 大學、公營機構也遭駭",
-        "自由時報：韓國個資外洩事件拉警報  大學、公營機構也遭駭"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "韓國個資外洩事件拉警報 大學、公營機構也遭駭",
-          "url": "https://money.udn.com/money/story/5599/9879862"
-        },
-        {
-          "source": "自由時報",
-          "title": "韓國個資外洩事件拉警報  大學、公營機構也遭駭",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641452"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "巴林防空警報大作　伊朗革命衛隊稱攻擊美軍雷達系統",
       "summary": [
         "經濟日報：巴林防空警報大作　伊朗革命衛隊稱攻擊美軍雷達系統",
@@ -134,7 +71,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "美軍F-15EX戰機抵沖繩　首度常駐於美國之外",
       "summary": [
         "經濟日報：美軍F-15EX戰機抵沖繩　首度常駐於美國之外",
@@ -155,7 +92,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "羅大佑扯「沒料才拿補助」滅火器喊問心無愧！反擊政治口水",
       "summary": [
         "自由時報：羅大佑扯「沒料才拿補助」滅火器喊問心無愧！反擊政治口水",
@@ -176,7 +113,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "花蓮卓溪18:03規模3.5地震  最大震度2級",
       "summary": [
         "自由時報：花蓮卓溪18:03規模3.5地震  最大震度2級",
@@ -197,7 +134,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "「愛你一萬年」愛妻結婚紀念日舉牌現身車掃　沈伯洋驚：我老婆耶",
       "summary": [
         "ETtoday：「愛你一萬年」愛妻結婚紀念日舉牌現身車掃　沈伯洋驚：我老婆耶",
@@ -214,6 +151,69 @@
           "source": "自由時報",
           "title": "夫人牌變「夫人舉牌」！沈伯洋車掃甜遇舉牌「老公 結婚紀念日快樂」",
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641798"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "最新天氣》首波大陸冷氣團殺到！這天最冷探14度 未來一週2階段變天 | 蔣季容 | 新聞",
+      "summary": [
+        "風傳媒：最新天氣》首波大陸冷氣團殺到！這天最冷探14度 未來一週2階段變天 | 蔣季容 | 新聞",
+        "ETtoday：逼近首波冷氣團！2波東北季風接力　週四起轉乾冷「急凍探13度」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "最新天氣》首波大陸冷氣團殺到！這天最冷探14度 未來一週2階段變天 | 蔣季容 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wWjA4NlM2TlFUS1hqSDFSeEJmTFRRb0tJZm4xdnBjdlZFU2EzcEdBLUZTd2dNUXBHd1hPM3duWlRVVjhUQTZpZlpZVTQ2Zw?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "逼近首波冷氣團！2波東北季風接力　週四起轉乾冷「急凍探13度」",
+          "url": "https://www.ettoday.net/news/20261115/3272700.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "黃樂惹上國安疑慮 Megaspeed 回應：去年8月已離職",
+      "summary": [
+        "經濟日報：黃樂惹上國安疑慮 Megaspeed 回應：去年8月已離職",
+        "鉅亨網：Megaspeed釋出宣告！證實黃樂去年8月離職 黃仁勳緋聞牽出國安疑慮"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃樂惹上國安疑慮 Megaspeed 回應：去年8月已離職",
+          "url": "https://money.udn.com/money/story/5599/9880180"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "Megaspeed釋出宣告！證實黃樂去年8月離職 黃仁勳緋聞牽出國安疑慮",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95RUFrX3pvTFJUNlJybVNPTF80b2lfLVZOeVF5b1o2MzJxWFhSMHFYOGM5dExRZzhCMktMek14cEY4VndMX3dFQXVYRWIwM28?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "曾罹攝護腺癌與小中風！77歲余天為孫女慶生近況曝光- 娛樂",
+      "summary": [
+        "中時新聞：曾罹攝護腺癌與小中風！77歲余天為孫女慶生近況曝光- 娛樂",
+        "ETtoday：余天難得露面幫孫女慶生　「昔罹攝護腺癌小中風」瘦一圈近照曝"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "曾罹攝護腺癌與小中風！77歲余天為孫女慶生近況曝光- 娛樂",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tTUZCRHIzaFdNUDVqTHZHdnQyaG1oRXBaUlpScW1naEQ4T0IwNnR5VUVQNEVFYzBCY2xrclRQV3k3b21KelpKTHZJTlk0YzJ3NExqd2thWms0WnlUd0JNcXRTaXFmY2c2eVFEdnV3?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "余天難得露面幫孫女慶生　「昔罹攝護腺癌小中風」瘦一圈近照曝",
+          "url": "https://star.ettoday.net/news/3272673"
         }
       ]
     }
@@ -287,66 +287,6 @@
     },
     {
       "rank": 5,
-      "title": "天皇和皇后陛下出席在大阪舉行的造海競賽儀式",
-      "summary": [
-        "NHK新聞：天皇和皇后陛下出席在大阪舉行的造海競賽儀式"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "天皇和皇后陛下出席在大阪舉行的造海競賽儀式",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76092"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "防彈少年團榮耀美國兒童選擇獎三冠王",
-      "summary": [
-        "韓聯社：防彈少年團榮耀美國兒童選擇獎三冠王"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "防彈少年團榮耀美國兒童選擇獎三冠王",
-          "url": "https://cn.yna.co.kr/view/ACK20261115000600881"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "加密貨幣的緩慢拋售讓交易者感到疲倦和絕望",
-      "summary": [
-        "Bloomberg Markets：加密貨幣的緩慢拋售讓交易者感到疲倦和絕望"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "加密貨幣的緩慢拋售讓交易者感到疲倦和絕望",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "卡尼承諾為巴西主導的森林計畫提供 5.6 億加元",
-      "summary": [
-        "Bloomberg Tech：卡尼承諾為巴西主導的森林計畫提供 5.6 億加元"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "卡尼承諾為巴西主導的森林計畫提供 5.6 億加元",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-15/carney-pledges-c-560-million-for-brazil-led-forest-project"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "白宮確認特朗普、習近平和普京將在深圳APEC期間舉行歷史性三方會晤",
       "summary": [
         "BBC中文：白宮確認特朗普、習近平和普京將在深圳APEC期間舉行歷史性三方會晤"
@@ -361,7 +301,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "圖 GP America：中井亞美以本季世界最高分首發",
       "summary": [
         "NHK新聞：圖 GP America：中井亞美以本季世界最高分首發"
@@ -372,6 +312,66 @@
           "source": "NHK新聞",
           "title": "圖 GP America：中井亞美以本季世界最高分首發",
           "url": "https://news.web.nhk/newsweb/na/nd-20261115de76124"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "高爾夫球場案法官表示將對司法部律師進行調查",
+      "summary": [
+        "Washington Post：高爾夫球場案法官表示將對司法部律師進行調查"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "高爾夫球場案法官表示將對司法部律師進行調查",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOGZQOHRpa0RST211RkVqQzV1dUppSE9DbGZtRk5Fc2oweXQ3UHp1a1owX3EyeThWTkhNUmViRmhnbDVyY0ZGamlORVpQeEpjX194T2RvOFBZMVNQRzRORVRwWGYzOGpOTU9zeVVyUTJmUExNekV0V1RqMFBaemxnQ1ZIVGJXRUZOYTZiQnFqbjZESVFaRUItaVcyRHhnUkFCbDdxaXI4VUJPV2VOcm9zQlF2NGQ0R18t?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "民調發現大多數美國人不贊成川普的建設專案",
+      "summary": [
+        "Washington Post：民調發現大多數美國人不贊成川普的建設專案"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "民調發現大多數美國人不贊成川普的建設專案",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb0lqcnlGWVZ6UTd4a3pGUVB5R1c0MVlpWGJyRktHWXF0dHlWdVM1SzBXVlZWQmVxc0dGc0dzeWlJRWFYQlAtMnFOdWdmTUZHczJoQ0N4Uk1QWGFpMWNIbEVLQXdRaUVZY0dHTTJjSVpGZ2NwYUxaY25ZYTBqNkVLcVZWZk9ROFI1dEcxNVM0ZTFvXzFzcEdDbjRNcnhCU1NpaXhpSl85YmVOYlpPZ0JQaGdydkY1YVBQN2gxNXdB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "英偉達的後黃氏時代會是什麼樣子？",
+      "summary": [
+        "Financial Times：英偉達的後黃氏時代會是什麼樣子？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "英偉達的後黃氏時代會是什麼樣子？",
+          "url": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "歐盟銀行監理機構放棄單一存款保險計劃",
+      "summary": [
+        "Financial Times：歐盟銀行監理機構放棄單一存款保險計劃"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "歐盟銀行監理機構放棄單一存款保險計劃",
+          "url": "https://www.ft.com/content/016ce22d-1e09-4f1d-a7e6-9acf183e757f?syn-25a6b1a6=1"
         }
       ]
     }
