@@ -1,21 +1,16 @@
 {
-  "updated_at": "2026-11-15 21:26",
+  "updated_at": "2026-11-15 21:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "挺黃仁勳連署破11萬人！名單竟出現黃樂　主辦單位回應了",
+      "title": "挺黃仁勳重返輝達連署破12萬人！名單赫見緋聞物件黃樂",
       "summary": [
-        "ETtoday：挺黃仁勳連署破11萬人！名單竟出現黃樂　主辦單位回應了",
         "自由時報：挺黃仁勳重返輝達連署破12萬人！名單赫見緋聞物件黃樂",
-        "經濟日報：逾13萬人挺黃仁勳重返輝達！名單驚見疑似小三「黃樂」連署"
+        "經濟日報：逾13萬人挺黃仁勳重返輝達！名單驚見疑似小三「黃樂」連署",
+        "TVBS新聞：挺黃仁勳連署破13萬人！名單中驚見「黃樂」 主辦單位回應了"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
-        {
-          "source": "ETtoday",
-          "title": "挺黃仁勳連署破11萬人！名單竟出現黃樂　主辦單位回應了",
-          "url": "https://www.ettoday.net/news/20261115/3272411.htm"
-        },
         {
           "source": "自由時報",
           "title": "挺黃仁勳重返輝達連署破12萬人！名單赫見緋聞物件黃樂",
@@ -35,48 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "天氣/一週2階段變天! 週三起迎更強冷空氣探14度｜氣象主播 曹文寧｜午間氣象｜TVBS新聞20261115 @TVBSNEWS01",
-      "summary": [
-        "TVBS新聞：天氣/一週2階段變天! 週三起迎更強冷空氣探14度｜氣象主播 曹文寧｜午間氣象｜TVBS新聞20261115 @TVBSNEWS01",
-        "風傳媒：最新天氣》首波大陸冷氣團殺到！這天最冷探14度 未來一週2階段變天 | 蔣季容 | 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "天氣/一週2階段變天! 週三起迎更強冷空氣探14度｜氣象主播 曹文寧｜午間氣象｜TVBS新聞20261115 @TVBSNEWS01",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuUVJLZjI0VlhYLXBQZTA5Snhob01XYmZXZUJhUmJXdVNvOEZlRGxid3JoN2J6WlRpYkVpRG4xRm9VTFc3LXRxclZrUmlNTFhLa1FKWVd3?oc=5"
-        },
-        {
-          "source": "風傳媒",
-          "title": "最新天氣》首波大陸冷氣團殺到！這天最冷探14度 未來一週2階段變天 | 蔣季容 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wWjA4NlM2TlFUS1hqSDFSeEJmTFRRb0tJZm4xdnBjdlZFU2EzcEdBLUZTd2dNUXBHd1hPM3duWlRVVjhUQTZpZlpZVTQ2Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "蘇巧慧造勢遭神將撞斷門牙！廖大乙示警揭玄機「應避免1事」",
-      "summary": [
-        "中時新聞：蘇巧慧造勢遭神將撞斷門牙！廖大乙示警揭玄機「應避免1事」",
-        "自由時報：蘇巧慧造勢遭神像打斷門牙流血   何欣純心疼喊話：巧慧加油"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "蘇巧慧造勢遭神將撞斷門牙！廖大乙示警揭玄機「應避免1事」",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ScEd5WXZTY3U1RzY5LV90MjFBUnFHdGhYUVRNTDAyWkZwQ05naFFkLVAxWTh3UTV0QWVyLTBBc0dNR2t5dm00RlhJdkpEUDkzdUhQRTBrRWktVktQT1Q1cndQODlfVGNxRTEwMnlR?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "蘇巧慧造勢遭神像打斷門牙流血   何欣純心疼喊話：巧慧加油",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641242"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "U23世界盃》臺鋼新星、富邦大物開轟！臺灣打爆委內瑞拉仍無緣爭冠",
       "summary": [
         "自由時報：U23世界盃》臺鋼新星、富邦大物開轟！臺灣打爆委內瑞拉仍無緣爭冠",
@@ -97,7 +50,28 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "title": "美中俄峰會在即　日媒：高市擬先與川普對話",
+      "summary": [
+        "經濟日報：美中俄峰會在即　日媒：高市擬先與川普對話",
+        "自由時報：美中俄三方峰會將登場  高市早苗擬在會前與川普對話"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美中俄峰會在即　日媒：高市擬先與川普對話",
+          "url": "https://money.udn.com/money/story/5599/9879727"
+        },
+        {
+          "source": "自由時報",
+          "title": "美中俄三方峰會將登場  高市早苗擬在會前與川普對話",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641879"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "中華電信帳單金額異常暴增！大批使用者收簡訊崩潰：客服打不通",
       "summary": [
         "中時新聞：中華電信帳單金額異常暴增！大批使用者收簡訊崩潰：客服打不通",
@@ -118,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "美提議烏割地換加入北約　澤倫斯基：若有完整保障會交付公投",
       "summary": [
         "經濟日報：美提議烏割地換加入北約　澤倫斯基：若有完整保障會交付公投",
@@ -139,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
       "summary": [
         "ETtoday：快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
@@ -160,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "黃仁勳暖舉曝光！輝達主管揭他「動用人脈」助抗癌：欠他恩情",
       "summary": [
         "ETtoday：黃仁勳暖舉曝光！輝達主管揭他「動用人脈」助抗癌：欠他恩情",
@@ -181,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "韓國個資外洩事件拉警報 大學、公營機構也遭駭",
       "summary": [
         "經濟日報：韓國個資外洩事件拉警報 大學、公營機構也遭駭",
@@ -202,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "巴林防空警報大作　伊朗革命衛隊稱攻擊美軍雷達系統",
       "summary": [
         "經濟日報：巴林防空警報大作　伊朗革命衛隊稱攻擊美軍雷達系統",
@@ -221,27 +195,48 @@
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5641593"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "美軍F-15EX戰機抵沖繩　首度常駐於美國之外",
+      "summary": [
+        "經濟日報：美軍F-15EX戰機抵沖繩　首度常駐於美國之外",
+        "ETtoday：美軍首度海外常駐部署F-15EX！首批2架抵沖繩　嘉手納基地將駐36架"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美軍F-15EX戰機抵沖繩　首度常駐於美國之外",
+          "url": "https://money.udn.com/money/story/5599/9880112"
+        },
+        {
+          "source": "ETtoday",
+          "title": "美軍首度海外常駐部署F-15EX！首批2架抵沖繩　嘉手納基地將駐36架",
+          "url": "https://www.ettoday.net/news/20261115/3272624.htm"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "韓青瓦臺開會研究應對稅務師考試“狀元”AI作弊事件",
+      "title": "韓國稅務會計師考試最高分承認人工智慧作弊",
       "summary": [
-        "韓聯社：韓青瓦臺開會研究應對稅務師考試“狀元”AI作弊事件",
-        "Bloomberg Tech：韓國稅務會計師考試最高分承認人工智慧作弊"
+        "Bloomberg Tech：韓國稅務會計師考試最高分承認人工智慧作弊",
+        "BBC World：韓國稅務會計考試最高分承認作弊"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "韓聯社",
-          "title": "韓青瓦臺開會研究應對稅務師考試“狀元”AI作弊事件",
-          "url": "https://cn.yna.co.kr/view/ACK20261115000700881"
-        },
-        {
           "source": "Bloomberg Tech",
           "title": "韓國稅務會計師考試最高分承認人工智慧作弊",
           "url": "https://www.bloomberg.com/news/articles/2026-11-15/korea-s-top-scorer-in-tax-accountant-exam-admits-to-ai-cheating"
+        },
+        {
+          "source": "BBC World",
+          "title": "韓國稅務會計考試最高分承認作弊",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -292,91 +287,91 @@
     },
     {
       "rank": 5,
-      "title": "韓外交高官：中方向韓方說明朝中交流情況",
+      "title": "黃仁勛因何跌落神壇？傲慢與自負- 紐約時報中文網",
       "summary": [
-        "韓聯社：韓外交高官：中方向韓方說明朝中交流情況"
+        "紐約時報中文：黃仁勛因何跌落神壇？傲慢與自負- 紐約時報中文網"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "韓聯社",
-          "title": "韓外交高官：中方向韓方說明朝中交流情況",
-          "url": "https://cn.yna.co.kr/view/ACK20261115000100881"
+          "source": "紐約時報中文",
+          "title": "黃仁勛因何跌落神壇？傲慢與自負- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85RzZsTTB4VERhVEFVd29hQUFENWEzSVN1eU1oYnljTUY4ZTdyXzQ2UUtQRlZTRWRqWFlCRmxTT2VpVHdEVHhoUGpUOFJyOUdFbmlXTXJBU0xBX0ZrMzZlRTlPaERQVXFRWGpRVTh3SmwxS182NGc?oc=5"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "朝媒報道朝鮮勞動黨書記趙甬元率團訪俄",
+      "title": "隨著魚子價格飆升，「紅魚子醬」從日本壽司選單中消失",
       "summary": [
-        "韓聯社：朝媒報道朝鮮勞動黨書記趙甬元率團訪俄"
+        "Financial Times：隨著魚子價格飆升，「紅魚子醬」從日本壽司選單中消失"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "韓聯社",
-          "title": "朝媒報道朝鮮勞動黨書記趙甬元率團訪俄",
-          "url": "https://cn.yna.co.kr/view/ACK20261115000200881"
+          "source": "Financial Times",
+          "title": "隨著魚子價格飆升，「紅魚子醬」從日本壽司選單中消失",
+          "url": "https://www.ft.com/content/921b3589-6f88-44a6-b162-a13f5cc7e5e9?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "遵循這 7 種食譜，吃得更好",
+      "title": "紐約社會主義者支援亞歷山大·奧卡西奧-科爾特斯參加 2028 年總統競選",
       "summary": [
-        "Washington Post：遵循這 7 種食譜，吃得更好"
+        "Financial Times：紐約社會主義者支援亞歷山大·奧卡西奧-科爾特斯參加 2028 年總統競選"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Washington Post",
-          "title": "遵循這 7 種食譜，吃得更好",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGxUTDAyYVV1TzN4NDBXN0ZxV21QU1pGaWUtVVNydFdFdDdxbmZGd2VHR3k2bkVSNUgtSkZNWDJkZERYcDNuUTBfaXNkRmVRZ2FseTVwZG4xNHlRc3ItOGRZQ1FQcEtUUDZ2UVlHYlJnNm0yaDE5Qm5Ha0c3RnBZNXJaVjVaQ1ZnR1NvRHBB?oc=5"
+          "source": "Financial Times",
+          "title": "紐約社會主義者支援亞歷山大·奧卡西奧-科爾特斯參加 2028 年總統競選",
+          "url": "https://www.ft.com/content/3f1fd9f6-8f96-4178-bf5a-8fce8954b811?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "馬斯克（Elon Musk）向 MKBHD 承認，特斯拉 Cyber​​ cab 的每月訂閱費“太高”：“應該與…的成本相匹配”",
+      "title": "2026 年 11 月值得關注的 3 檔成長股",
       "summary": [
-        "Yahoo Finance：馬斯克（Elon Musk）向 MKBHD 承認，特斯拉 Cyber​​ cab 的每月訂閱費“太高”：“應該與…的成本相匹配”"
+        "Yahoo Finance：2026 年 11 月值得關注的 3 檔成長股"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "馬斯克（Elon Musk）向 MKBHD 承認，特斯拉 Cyber​​ cab 的每月訂閱費“太高”：“應該與…的成本相匹配”",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3VTZ0ZIZk1lTjgzSm1KM2Q0VjQtTkxJZm11enNNRzZYUzdWaDFQT2Q2MGZRUjdsenFhWENYdlJQM0V6QjFSOC03TnM0WXY4MUdfUmFzckQtYWpFTzYzcUh4amEyOUJBVzdsRVQ3UGx6UjdKaWxoYUdoS1NtbHd6UFN6R1dQekdUZ0ZUcFlLSjd1d3ROSDVmOFpPZXowUFg2SkZvdUgtZw?oc=5"
+          "title": "2026 年 11 月值得關注的 3 檔成長股",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVmdBQTFnZ3M4bzhaZEpfR0thTGp2QVA2Q196NWVlM1pzZkw0WGxpME03UXBuTFZienRxQ2g4VE5BcF9ldlhodmNDN3JvdHJ5Q25LanZHcWlaYXRXY1NsVm8wVFhxMTlKQmNncmU2ZjQ5SDNMU3pPUlc2YWh2VmRhWW5vUHdMT2dqZ0o3RlQxSENiUXRq?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "伊隆馬斯克、川普、克雷斯、英偉達董事會就黃仁勳的退出：本週 Mag 7 的聲音",
+      "title": "菲律賓選手卡梅爾奪得第一位歐洲歌唱大賽亞洲冠軍",
       "summary": [
-        "Yahoo Finance：伊隆馬斯克、川普、克雷斯、英偉達董事會就黃仁勳的退出：本週 Mag 7 的聲音"
+        "Nikkei Asia：菲律賓選手卡梅爾奪得第一位歐洲歌唱大賽亞洲冠軍"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "伊隆馬斯克、川普、克雷斯、英偉達董事會就黃仁勳的退出：本週 Mag 7 的聲音",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQXVVaTlreGZJZ0drVDIzaUZ5VFVwNllJeVM5UGh0RmJmU3pLVGkzM1R0Q1FqblFuZFBBNk83b3o3dlVXaDJXeG5iSnpHN2FnYTZZUkR4ZV9QUExwYWxZMmFDNGtQSWhHWVotMmJHa3VUaHpkS1RGSmZzQVJteUlQeHYyTUhRaGxhT19GaGYxV3ZlSi1NXy1hQg?oc=5"
+          "source": "Nikkei Asia",
+          "title": "菲律賓選手卡梅爾奪得第一位歐洲歌唱大賽亞洲冠軍",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaXVKVHk1WHJWX3ZKSXdGdl9ISHBaSmtBa25EbnVDSUFpNlFIWGFBTEY3enVNenAwS2NpdldRTzNXVkZyT21Kd1ZVd0I5dnRDdkU4cEhJdmNBakJoMWlkQWVRWGVVZElwSUsxd2JBUUZTN3NxdHVCSTRrQlY1MFVQTm8wRHpLbDZWaEIzWmQzWmQ0ZWd6WDRQS2FwUkFnV2YyQVl1Zy1EOUFhbjNSVVU2NGV3?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "Evercore 解釋了為什麼蘋果擁有贏得個人代理商競賽的合適資產",
+      "title": "中國百年「瓷都」放眼全球奢侈品",
       "summary": [
-        "Investing.com：Evercore 解釋了為什麼蘋果擁有贏得個人代理商競賽的合適資產"
+        "Nikkei Asia：中國百年「瓷都」放眼全球奢侈品"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "Evercore 解釋了為什麼蘋果擁有贏得個人代理商競賽的合適資產",
-          "url": "https://www.investing.com/news/stock-market-news/evercore-explains-why-apple-has-the-right-assets-to-win-the-personal-agents-race-5027628"
+          "source": "Nikkei Asia",
+          "title": "中國百年「瓷都」放眼全球奢侈品",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnhQWmpDaWhNaTRuNTd2M0o1ckZVcll2WDVMb2F2aUYzbWxkRlY1bWIzeHY0X2ljLUM1czQzZE5fbFExRjdwSl9QNTBPbjk5LXdsaThvbWgyNklCeXRYM0U5alM1UHJUTlVJS3RxaEFMY3otdkd1eGhlMTIyTEI3NElicVBtQU82NzFXek1OdEltOVJRazk2QWpJaw?oc=5"
         }
       ]
     }
