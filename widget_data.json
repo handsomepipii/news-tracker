@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 18:26",
+  "updated_at": "2026-11-15 18:56",
   "taiwan": [
     {
       "rank": 1,
@@ -99,27 +99,6 @@
     },
     {
       "rank": 4,
-      "title": "美國失去麻疹清零地位　疫情升溫數十年來最嚴重",
-      "summary": [
-        "經濟日報：美國失去麻疹清零地位　疫情升溫數十年來最嚴重",
-        "ETtoday：美國失去麻疹清零地位　今年逾5400人染疫創數十年新高"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美國失去麻疹清零地位　疫情升溫數十年來最嚴重",
-          "url": "https://money.udn.com/money/story/5599/9879375"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美國失去麻疹清零地位　今年逾5400人染疫創數十年新高",
-          "url": "https://www.ettoday.net/news/20261115/3272397.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "蘇巧慧造勢撞斷門牙 沈伯洋：「她很堅強」電話中還一直開玩笑",
       "summary": [
         "自由時報：蘇巧慧造勢撞斷門牙 沈伯洋：「她很堅強」電話中還一直開玩笑",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "蔣萬安競辦告許淑華 沈伯洋：沒必要、別再把東發號捲進來",
       "summary": [
         "自由時報：蔣萬安競辦告許淑華 沈伯洋：沒必要、別再把東發號捲進來",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "蘇巧慧造勢遭神將撞斷門牙！廖大乙示警揭玄機「應避免1事」",
       "summary": [
         "中時新聞：蘇巧慧造勢遭神將撞斷門牙！廖大乙示警揭玄機「應避免1事」",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "U23世界盃》臺鋼新星、富邦大物開轟！臺灣打爆委內瑞拉仍無緣爭冠",
       "summary": [
         "自由時報：U23世界盃》臺鋼新星、富邦大物開轟！臺灣打爆委內瑞拉仍無緣爭冠",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "中華電信帳單金額異常暴增！大批使用者收簡訊崩潰：客服打不通",
       "summary": [
         "中時新聞：中華電信帳單金額異常暴增！大批使用者收簡訊崩潰：客服打不通",
@@ -224,7 +203,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
       "summary": [
         "ETtoday：快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
@@ -243,32 +222,32 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMzU5cmIzQmpOTHVuaWk0endDdDZQbzNINVpiVHZITjJfdlk1MUtNQVAxMDNIaG9mYWtMcnpxYW1xbWpPdXRVLVJMaWF2Z29BUzBwZElvWGNfQTlMMFA3Q0RwYjlTM1ZBYmdURk1R?oc=5"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳暖舉曝光！輝達主管揭他「動用人脈」助抗癌：欠他恩情",
+      "summary": [
+        "ETtoday：黃仁勳暖舉曝光！輝達主管揭他「動用人脈」助抗癌：欠他恩情",
+        "自由時報：逆風相挺！ 輝達總監曝黃仁勳私下動用人脈助他抗癌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳暖舉曝光！輝達主管揭他「動用人脈」助抗癌：欠他恩情",
+          "url": "https://www.ettoday.net/news/20261115/3272509.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "逆風相挺！ 輝達總監曝黃仁勳私下動用人脈助他抗癌",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641476"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "(數字) SpaceX 在新穎的著陸中捕獲了星際飛船",
-      "summary": [
-        "Bloomberg Markets：(數字) SpaceX 在新穎的著陸中捕獲了星際飛船",
-        "NHK新聞：SpaceX大型太空船繞地球軌道執行後首次成功抵達發射臺"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "(數字) SpaceX 在新穎的著陸中捕獲了星際飛船",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "SpaceX大型太空船繞地球軌道執行後首次成功抵達發射臺",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76047"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "韓青瓦臺開會研究應對稅務師考試“狀元”AI作弊事件",
       "summary": [
         "韓聯社：韓青瓦臺開會研究應對稅務師考試“狀元”AI作弊事件",
@@ -289,112 +268,22 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "尤田惠被綁架 49 年後，咲江說：“我想見你。”",
+      "rank": 2,
+      "title": "愛媛郡知事選舉計票及出口民調選舉資訊在這裡 [突發新聞]",
       "summary": [
-        "NHK新聞：尤田惠被綁架 49 年後，咲江說：“我想見你。”"
+        "NHK新聞：愛媛郡知事選舉計票及出口民調選舉資訊在這裡 [突發新聞]"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "尤田惠被綁架 49 年後，咲江說：“我想見你。”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75986"
+          "title": "愛媛郡知事選舉計票及出口民調選舉資訊在這裡 [突發新聞]",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76094"
         }
       ]
     },
     {
-      "rank": 4,
-      "title": "美國報告 2026 年至少有 10 人因麻疹死亡",
-      "summary": [
-        "Washington Post：美國報告 2026 年至少有 10 人因麻疹死亡"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "美國報告 2026 年至少有 10 人因麻疹死亡",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTZTUWJYdGhjMV9QMndzYi1kRURCUXZPRWZnN3hfeTZQY2NzOVNhcXltb0lucVR1UThmVEg0aHVRVmM5Y2ptdFE5NGJ3aHVYUHFNbTdxV1JRcmh3bkVGS0d3elVGWUZ3S1lZUGY1TWRTT1RuR19KWlBRdFdUNWdoUEJoWG1Mb3pwMTIzQUo2ZUM2SWc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "藍色浪潮後，中東君主國準備迎接川普的腐敗審查",
-      "summary": [
-        "Washington Post：藍色浪潮後，中東君主國準備迎接川普的腐敗審查"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "藍色浪潮後，中東君主國準備迎接川普的腐敗審查",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdUZYekFGSlJsOEhmVU5FR1pWdUd5UTgxblZOd1Zid2dXZmMzc1pFVk1JUVZnZU9pa3JaTGFNaE1IaHgyTEJZMjY0SFlBelRvT0pEVGlPMEk3cy05NC1ZU0cxT2o5dzRWaThHSUtnMkd0dG9FZlZ0S3FzMFdPMTB3YktuNjVtV05LRThlNjBPYlEtV3o3M050QnJ5MjJfS0dDS1ZZRWJB?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "1.8億美元的梵谷考驗著藝術市場和收藏家的信心",
-      "summary": [
-        "CNBC：1.8億美元的梵谷考驗著藝術市場和收藏家的信心"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "1.8億美元的梵谷考驗著藝術市場和收藏家的信心",
-          "url": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "價值 49 美元的壽司船和鐵板餃子如何幫助 P.F.張在身邊",
-      "summary": [
-        "Yahoo Finance：價值 49 美元的壽司船和鐵板餃子如何幫助 P.F.張在身邊"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "價值 49 美元的壽司船和鐵板餃子如何幫助 P.F.張在身邊",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbHFfUWJkUFRhN0JiV1pGR0U5ZXpVQkFDUnRIeUR1UnFENW5OOGZOdUNOOERsa29BU3NYN0dVUkl2MUh4ekw2Yk1SMFVaczg4VVZ1SkU2RFI5TjVjN3dWS2l3ZjVNZkVWSmNqeWVMWE5ISk1HdXA1NHRTR3BkS2R5NVVIUGpxTWk5Y1BqdTFoQ0R3UlpLZ1lQYk4wY2oxUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "日本要求部分過境旅客進行線上授權",
-      "summary": [
-        "Nikkei Asia：日本要求部分過境旅客進行線上授權"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "日本要求部分過境旅客進行線上授權",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT1RWSjBzWmczUExIcDlGWmFvdDlWSDBzb1MtTFozUjRPZWNJdllmTmZ2aVhVNThMMTFheDA3NGJ5bGVUZ3diZWpxSzBtSENXRTZLVC1QamZlbS13Z1FPd3FsZUpzcVZSMEVNRVpSMzhISUJfTDJFbHFIUDAyMDFRLUxpUWNkb1FsSUw0UFRGWHRZUmxseTNaUW9tMVZXWE8zOTJqUkxCM3h4ZDA5SFlmc0R3Q2RQT3It?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "目前已有超過 10 人呼籲黃仁勳加入 NVIDIA、PayPal 資深人士 David Sacks 將他的被迫退出稱為“最傻瓜、最無意義的死法”",
-      "summary": [
-        "Wccftech：目前已有超過 10 人呼籲黃仁勳加入 NVIDIA、PayPal 資深人士 David Sacks 將他的被迫退出稱為“最傻瓜、最無意義的死法”"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Wccftech",
-          "title": "目前已有超過 10 人呼籲黃仁勳加入 NVIDIA、PayPal 資深人士 David Sacks 將他的被迫退出稱為“最傻瓜、最無意義的死法”",
-          "url": "https://wccftech.com/over-100000-people-now-call-for-jensen-huangs-return-to-nvidia-as-the-paypal-veteran-david-sacks-terms-his-forced-exit-the-stupidest-most-moot-hill-to-die-on/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 3,
       "title": "澤連斯基總統：“美國提出撤軍以換取北約成員資格”",
       "summary": [
         "NHK新聞：澤連斯基總統：“美國提出撤軍以換取北約成員資格”"
@@ -405,6 +294,111 @@
           "source": "NHK新聞",
           "title": "澤連斯基總統：“美國提出撤軍以換取北約成員資格”",
           "url": "https://news.web.nhk/newsweb/na/nd-20261115de76042"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "劉易斯·漢密爾頓訪問埃及拉法過境點和加薩援助設施",
+      "summary": [
+        "The Guardian：劉易斯·漢密爾頓訪問埃及拉法過境點和加薩援助設施"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "劉易斯·漢密爾頓訪問埃及拉法過境點和加薩援助設施",
+          "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "中國排除在2028年舉辦Cop33氣候高峰會的可能性",
+      "summary": [
+        "The Guardian：中國排除在2028年舉辦Cop33氣候高峰會的可能性"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "中國排除在2028年舉辦Cop33氣候高峰會的可能性",
+          "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "英偉達股東不會長久懷念黃仁勳",
+      "summary": [
+        "WSJ Markets：英偉達股東不會長久懷念黃仁勳"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "WSJ Markets",
+          "title": "英偉達股東不會長久懷念黃仁勳",
+          "url": "https://www.wsj.com/finance/stocks/nvidia-shareholders-wont-miss-jensen-huang-for-long-13429e31?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "著眼於自己的遺產，川普抓住機會與習近平和普丁進行軍備談判",
+      "summary": [
+        "Nikkei Asia：著眼於自己的遺產，川普抓住機會與習近平和普丁進行軍備談判"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "著眼於自己的遺產，川普抓住機會與習近平和普丁進行軍備談判",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZTRwYVFuRUs0QkR2dDFkOEtCd3NlbHpTQlpMaTZjTWd5ZUNodXZCUl9JNEQ0OW5ZS2FBcG1yQjluZ0tjTS1ZYThCNE1PcmZZQS0xTTVBMzJnLTRyMi1zN2w0LTd6YjNNYjZLWWV2amVMR21BV0VpOTdDOEl3X25hcU9OemZscTBnRVB2NXpwQmVQcVRJY3BXZjZiTnVMcjM3aWhVRTNTcndRVWVYUm5JRU03YUlSQ3JuMi12R0tSMTdCUDhpLXc?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "美國航空旅行問題將持續到週日，數千個航班受到影響",
+      "summary": [
+        "Nikkei Asia：美國航空旅行問題將持續到週日，數千個航班受到影響"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "美國航空旅行問題將持續到週日，數千個航班受到影響",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMnJvSEZyMEpBS0lPYXZRZmcxX1B4bXlwdE9vZklIaE5yMUZQbktwaFR5dDZpNjBhRjFyaktkaHU3aEhWc3RyZnpxelU3MUpfTHpXYlhsN3FxS2xmb2h6eElZdzdYVWowQ3NGdHBKUXNvMUNJcGNjakdfYkJsZVNEREJ1MVIwQ2MxMTNSWld5R3BGVmwyT3V4RUkxMEJIMExJeWU4UWpQTXp1dWZ4VkFQNEIzX0tia21MWGhFVzY0SVJRdWp4QUhn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "外國工人需要在日本社會中佔有一席之地，而不僅僅是在經濟中",
+      "summary": [
+        "Nikkei Asia：外國工人需要在日本社會中佔有一席之地，而不僅僅是在經濟中"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "外國工人需要在日本社會中佔有一席之地，而不僅僅是在經濟中",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkY0bm1teVNDaDBRQm84WUNJR3pHOVhveDFId19COHhtQ3p5LXVBZ3QwNjdvaXh4QlJSaVpfTnkzR2FUOHNXeExmcGJDRHhTZy1GTkdEd1VwT3ZzdkJNb1lVOUlGem9jN0pIenJfd1R1R3R1eUhyMjZRNmpyM29NdWVVcXRfNXRWdHM4U0UxRkd6YWhzc2c5blJsazhyV0Vud293?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "SpaceX 成功捕捉 Starship 火箭，這是航太產業的一個巨大里程碑",
+      "summary": [
+        "MarketWatch：SpaceX 成功捕捉 Starship 火箭，這是航太產業的一個巨大里程碑"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "MarketWatch",
+          "title": "SpaceX 成功捕捉 Starship 火箭，這是航太產業的一個巨大里程碑",
+          "url": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories"
         }
       ]
     }
