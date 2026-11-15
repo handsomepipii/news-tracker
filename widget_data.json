@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 22:26",
+  "updated_at": "2026-11-15 22:55",
   "taiwan": [
     {
       "rank": 1,
@@ -281,36 +281,6 @@
     },
     {
       "rank": 5,
-      "title": "大阪枚方女孩去世，市政府今年沒有與母親會面，儘管有「虐待」報道",
-      "summary": [
-        "NHK新聞：大阪枚方女孩去世，市政府今年沒有與母親會面，儘管有「虐待」報道"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "大阪枚方女孩去世，市政府今年沒有與母親會面，儘管有「虐待」報道",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76074"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "索羅斯的基金在英特爾減半前將其作為最大的股票押注",
-      "summary": [
-        "Yahoo Finance：索羅斯的基金在英特爾減半前將其作為最大的股票押注"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "索羅斯的基金在英特爾減半前將其作為最大的股票押注",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFhWN1VLTE1PenR3aFRkNDJhSlczVnViS0dTb0RVbjZBQzdvaGZfYVYwZkxGTWNFeGZvcFpTTTRWM3hLQ2dBQm1XQnc3YWtMb0NjdDltOFYwNW80QlNFTWxCQnV5MHJ3VHRZamhSbVJ6Q1RORUhSRTVsS0VacDFPODA3WXkwcEhiNGFzaGc2WGZ3Y2k5UmlCNXZn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "成長策略部長官內在NHK週日辯論中就成長策略「民意傾聽進度管理」進行辯論",
       "summary": [
         "NHK新聞：成長策略部長官內在NHK週日辯論中就成長策略「民意傾聽進度管理」進行辯論"
@@ -325,7 +295,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "韓國連續六月蟬聯中國最大進口來源國 對美出口排名升至第六",
       "summary": [
         "韓聯社：韓國連續六月蟬聯中國最大進口來源國 對美出口排名升至第六"
@@ -340,7 +310,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "俄羅斯稱烏克蘭評論家在莫斯科汽車爆炸事件中受傷",
       "summary": [
         "Washington Post：俄羅斯稱烏克蘭評論家在莫斯科汽車爆炸事件中受傷"
@@ -355,7 +325,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "緬甸、霧霾問題持續摩擦，東協領導人啟動馬尼拉峰會",
       "summary": [
         "Nikkei Asia：緬甸、霧霾問題持續摩擦，東協領導人啟動馬尼拉峰會"
@@ -366,6 +336,36 @@
           "source": "Nikkei Asia",
           "title": "緬甸、霧霾問題持續摩擦，東協領導人啟動馬尼拉峰會",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTnFuWHoxVkdBOVNBbmdPZWc5TmkzT29wc2FDT0VHS0RXZ0dNcVRUeWZ0MmNwZG94bENobldjdFE1RXV1TXJpaFBmWXNNelNNM1Iybnd4OTl1V0tVS3ZxOTNsNHA5ZEk2alVEWUtvWFFDLWdxZHBxV2VHY0NHd1NVZGRTbVFvRmVxVDMyVldKWV9RNm1JdVJhdnNsWkhaRi1zOUNaODlDMzBiX3dEejc4WGxieENoblpPNzFneWR6ZnBDTUlYa3I4TXdROA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "政府調整三份安全檔案，以承認“歷史性的根本性變革時期”",
+      "summary": [
+        "NHK新聞：政府調整三份安全檔案，以承認“歷史性的根本性變革時期”"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "政府調整三份安全檔案，以承認“歷史性的根本性變革時期”",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76058"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "教皇利奧在訪問安第斯山脈偏遠小鎮時談到社群“苦難”",
+      "summary": [
+        "BBC World：教皇利奧在訪問安第斯山脈偏遠小鎮時談到社群“苦難”"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "教皇利奧在訪問安第斯山脈偏遠小鎮時談到社群“苦難”",
+          "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
