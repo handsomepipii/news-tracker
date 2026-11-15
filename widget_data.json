@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 02:26",
+  "updated_at": "2026-11-16 02:56",
   "taiwan": [
     {
       "rank": 1,
@@ -51,22 +51,22 @@
     },
     {
       "rank": 3,
-      "title": "巴林防空警報大作　伊朗革命衛隊稱攻擊美軍雷達系統",
+      "title": "巴林警報聲大作 伊朗伊斯蘭革命衛隊又宣稱攻擊美軍基地",
       "summary": [
-        "經濟日報：巴林防空警報大作　伊朗革命衛隊稱攻擊美軍雷達系統",
-        "自由時報：巴林警報聲大作 伊朗伊斯蘭革命衛隊又宣稱攻擊美軍基地"
+        "自由時報：巴林警報聲大作 伊朗伊斯蘭革命衛隊又宣稱攻擊美軍基地",
+        "經濟日報：伊朗攻擊巴林美軍基地 中東局勢再添隱憂"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "巴林防空警報大作　伊朗革命衛隊稱攻擊美軍雷達系統",
-          "url": "https://money.udn.com/money/story/5599/9879954"
-        },
-        {
           "source": "自由時報",
           "title": "巴林警報聲大作 伊朗伊斯蘭革命衛隊又宣稱攻擊美軍基地",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5641593"
+        },
+        {
+          "source": "經濟日報",
+          "title": "伊朗攻擊巴林美軍基地 中東局勢再添隱憂",
+          "url": "https://money.udn.com/money/story/5599/9880531"
         }
       ]
     },
@@ -287,36 +287,6 @@
     },
     {
       "rank": 5,
-      "title": "Nvidia黃仁勳醜聞如何令親商的新加坡大感頭疼",
-      "summary": [
-        "BBC中文：Nvidia黃仁勳醜聞如何令親商的新加坡大感頭疼"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "Nvidia黃仁勳醜聞如何令親商的新加坡大感頭疼",
-          "url": "https://www.bbc.com/zhongwen/articles/cq39gn7g7depo/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "意見 |歐洲綠色法規洩露",
-      "summary": [
-        "Washington Post：意見 |歐洲綠色法規洩露"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "意見 |歐洲綠色法規洩露",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUZfTGxibkhHRlZrTFlXY19PektsN0ZmTGc5bDhaUEpmZUxSVFVGTGY0bmxtd2pfdlRvSjV4ZlNwU0Y5S1JfNGZOWDlzTnV0MHl4QXN6SEtFT25ycjhoeVRQeE1WblROd2pJWTBldWhWQUw0UkhTQldXb0twMVo1dm5TZU5IQzRmUUpLaG9EMzljR1Q2a24xcHpzZzhqQWtvcnZYNTZR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Hands涉谷店今日關門，擠滿了傷心告別的人們",
       "summary": [
         "NHK新聞：Hands涉谷店今日關門，擠滿了傷心告別的人們"
@@ -331,7 +301,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "女子高爾夫國內巡迴賽桑木志穗成為首位年度女王",
       "summary": [
         "NHK新聞：女子高爾夫國內巡迴賽桑木志穗成為首位年度女王"
@@ -346,7 +316,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "韓青瓦臺：將嚴懲犯罪行為切實保障國民安全",
       "summary": [
         "韓聯社：韓青瓦臺：將嚴懲犯罪行為切實保障國民安全"
@@ -361,7 +331,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "韓青瓦臺開會研究應對稅務師考試“狀元”AI作弊事件",
       "summary": [
         "韓聯社：韓青瓦臺開會研究應對稅務師考試“狀元”AI作弊事件"
@@ -372,6 +342,36 @@
           "source": "韓聯社",
           "title": "韓青瓦臺開會研究應對稅務師考試“狀元”AI作弊事件",
           "url": "https://cn.yna.co.kr/view/ACK20261115000700881"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "新規定下流行的節稅策略受到重大打擊：“大多數人不知道”",
+      "summary": [
+        "Yahoo Finance：新規定下流行的節稅策略受到重大打擊：“大多數人不知道”"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "新規定下流行的節稅策略受到重大打擊：“大多數人不知道”",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMkkxWUJmMDNDU2FPcWRnM3ZscVBUQldXRi1xM3ZITDY0UkhwZWVyS1N6bWFlSXMtVDJCTl9LZ0FXNVRmQ2VPeklUR05mS2NEZUY5ZU1GQXFpTTkxMnY3NWQ2M3JfV1lNTVFmSkVFanVSSXRNMnJVYVJPY3hyNzFmSFktcTBCN2RxeEJaQWxtdTBoQndXUUVlTkg3STluZGI5NEFRaFF3bzV5NW15RU5UTnhzOVVEUndyVkY2X0pVUkNwbjFrM3JyLUNLSVl0aG5sWjkyV05tYk1FRzU2Ul9JNWln?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "澤連斯基：美國提出烏克蘭讓出頓巴斯以換取加入北約",
+      "summary": [
+        "BBC中文：澤連斯基：美國提出烏克蘭讓出頓巴斯以換取加入北約"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "澤連斯基：美國提出烏克蘭讓出頓巴斯以換取加入北約",
+          "url": "https://www.bbc.com/zhongwen/articles/cqgm3vnx3zx3o/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
