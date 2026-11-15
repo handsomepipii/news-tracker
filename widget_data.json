@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 00:26",
+  "updated_at": "2026-11-16 00:55",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,27 @@
     },
     {
       "rank": 2,
+      "title": "貝森特：輝達必須從外部找新CEO",
+      "summary": [
+        "經濟日報：貝森特：輝達必須從外部找新CEO",
+        "自由時報：美財長貝森特：輝達須「從公司外部」尋找新執行長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "貝森特：輝達必須從外部找新CEO",
+          "url": "https://money.udn.com/money/story/123398/9880650"
+        },
+        {
+          "source": "自由時報",
+          "title": "美財長貝森特：輝達須「從公司外部」尋找新執行長",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5641971"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "中華電信帳單金額異常暴增！大批使用者收簡訊崩潰：客服打不通",
       "summary": [
         "中時新聞：中華電信帳單金額異常暴增！大批使用者收簡訊崩潰：客服打不通",
@@ -50,7 +71,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "美提議烏割地換加入北約　澤倫斯基：若有完整保障會交付公投",
       "summary": [
         "經濟日報：美提議烏割地換加入北約　澤倫斯基：若有完整保障會交付公投",
@@ -71,7 +92,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
       "summary": [
         "ETtoday：快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
@@ -92,7 +113,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "黃仁勳暖舉曝光！輝達主管揭他「動用人脈」助抗癌：欠他恩情",
       "summary": [
         "ETtoday：黃仁勳暖舉曝光！輝達主管揭他「動用人脈」助抗癌：欠他恩情",
@@ -113,7 +134,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "韓國個資外洩事件拉警報 大學、公營機構也遭駭",
       "summary": [
         "經濟日報：韓國個資外洩事件拉警報 大學、公營機構也遭駭",
@@ -134,7 +155,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "巴林防空警報大作　伊朗革命衛隊稱攻擊美軍雷達系統",
       "summary": [
         "經濟日報：巴林防空警報大作　伊朗革命衛隊稱攻擊美軍雷達系統",
@@ -155,7 +176,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "美軍F-15EX戰機抵沖繩　首度常駐於美國之外",
       "summary": [
         "經濟日報：美軍F-15EX戰機抵沖繩　首度常駐於美國之外",
@@ -176,7 +197,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "羅大佑扯「沒料才拿補助」滅火器喊問心無愧！反擊政治口水",
       "summary": [
         "自由時報：羅大佑扯「沒料才拿補助」滅火器喊問心無愧！反擊政治口水",
@@ -193,27 +214,6 @@
           "source": "ETtoday",
           "title": "羅大佑酸「沒料才拿補助」！　滅火器反擊「分化人民」：我們問心無愧",
           "url": "https://star.ettoday.net/news/3272701"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "花蓮卓溪18:03規模3.5地震  最大震度2級",
-      "summary": [
-        "自由時報：花蓮卓溪18:03規模3.5地震  最大震度2級",
-        "ETtoday：快訊／18:03花蓮縣規模3.5地震　最大震度2級"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "花蓮卓溪18:03規模3.5地震  最大震度2級",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5641748"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／18:03花蓮縣規模3.5地震　最大震度2級",
-          "url": "https://www.ettoday.net/news/20261115/3272659.htm"
         }
       ]
     }
@@ -287,36 +287,6 @@
     },
     {
       "rank": 5,
-      "title": "布萊恩·莫納漢在五角大廈調查中不再擔任國會主治醫師",
-      "summary": [
-        "Washington Post：布萊恩·莫納漢在五角大廈調查中不再擔任國會主治醫師"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "布萊恩·莫納漢在五角大廈調查中不再擔任國會主治醫師",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUo0SDRZdGpCa0VkTmNWSmRmdXJJTGF2bUQxd2NEam5yemc0V2prVTB4cFhjQl9rcEtVSXU5ajNzb2ZqTXRKTUtmWG5YY2dkajZPRW5wRExUQTB3VjBDakR3bnNvMlZNbHRxYXdwbm00LUwwMjNQOFlLMk9uM2tYT2YwZHVKQ3N0SGVSaTdwLTJ5U3ctS0RHUmY3OXJPTnRxamRYMVBScUh0Z3g5ekFGdjEwZ2VDSlVzeWc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "遊戲在日本成為一種新的企業網路工具",
-      "summary": [
-        "Nikkei Asia：遊戲在日本成為一種新的企業網路工具"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "遊戲在日本成為一種新的企業網路工具",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU3ZkbmxobWtRV0J3bEdrTnpPMGJmWHlhb3ZyTVpEcS0xQklkZnNVTkFWSFlscFRmb0N0eTBacmEzQmNHczNYamhKd3FFTWw5RFllT044TkMtRU9ZcFJLaVhLSlF2bVVZSm5qaWV6dUpQbTFuLTZfQTlfMVJsdWY0WFVnd1I3QlRIbWY3MVNhQkVLTUdhRWlaVEZjaVRTanN3NnNoZTFjcERxVUE?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "韓國10月ICT出口連續兩個月超700億美元",
       "summary": [
         "韓聯社：韓國10月ICT出口連續兩個月超700億美元"
@@ -331,7 +301,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "阿肯色州聯邦航空局路由器過載引發全國航班停飛",
       "summary": [
         "Investing.com：阿肯色州聯邦航空局路由器過載引發全國航班停飛"
@@ -346,7 +316,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "APEC深圳高峰會、印尼貨幣政策、東協外交",
       "summary": [
         "Nikkei Asia：APEC深圳高峰會、印尼貨幣政策、東協外交"
@@ -361,7 +331,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "天皇和皇后陛下出席在大阪舉行的造海競賽儀式",
       "summary": [
         "NHK新聞：天皇和皇后陛下出席在大阪舉行的造海競賽儀式"
@@ -372,6 +342,36 @@
           "source": "NHK新聞",
           "title": "天皇和皇后陛下出席在大阪舉行的造海競賽儀式",
           "url": "https://news.web.nhk/newsweb/na/nd-20261115de76092"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "防彈少年團榮耀美國兒童選擇獎三冠王",
+      "summary": [
+        "韓聯社：防彈少年團榮耀美國兒童選擇獎三冠王"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "防彈少年團榮耀美國兒童選擇獎三冠王",
+          "url": "https://cn.yna.co.kr/view/ACK20261115000600881"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "加密貨幣的緩慢拋售讓交易者感到疲倦和絕望",
+      "summary": [
+        "Bloomberg Markets：加密貨幣的緩慢拋售讓交易者感到疲倦和絕望"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "加密貨幣的緩慢拋售讓交易者感到疲倦和絕望",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless"
         }
       ]
     }
