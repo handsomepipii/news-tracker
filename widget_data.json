@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 06:56",
+  "updated_at": "2026-11-16 07:26",
   "taiwan": [
     {
       "rank": 1,
@@ -135,36 +135,6 @@
     },
     {
       "rank": 7,
-      "title": "SpaceX星艦完成22小時軌道飛行 機械手臂成功夾住回收再寫歷史｜20261115 公視午間新聞｜ 公視新聞PNN",
-      "summary": [
-        "公視新聞：SpaceX星艦完成22小時軌道飛行 機械手臂成功夾住回收再寫歷史｜20261115 公視午間新聞｜ 公視新聞PNN"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "公視新聞",
-          "title": "SpaceX星艦完成22小時軌道飛行 機械手臂成功夾住回收再寫歷史｜20261115 公視午間新聞｜ 公視新聞PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fUDNJMktUODFwQXN2Y0tmQXNVNWhOZEE2ZVh2dENGNVltU2cxekxPa2d3bW96UjNzUXFZbHFXbnZBVG5uaGNXMk9IQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "輝達風暴延燒科技股賣壓沈重拖累費半慘跌- 新聞",
-      "summary": [
-        "MoneyDJ理財網：輝達風暴延燒科技股賣壓沈重拖累費半慘跌- 新聞"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "輝達風暴延燒科技股賣壓沈重拖累費半慘跌- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVHpZMm5GcDFRa0t3MU9FLU92cVNuMkpRdElRVmtGb1A2enBMaVBoeHMtMWdPT29NMjJwOEUxY3p6bF8xb3pvRk1Ya0RocURFUFlCV0lZVjliTDFNMzJlX2o5SnRMaTZ2RUdtWEg3VGhYbXFpekQ2WVlJeU5iMl9WYnI4VThSc1RDWGNhT1ZFSXM2QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "富裔 115年第3季綜合損益表，每股虧損0.27元",
       "summary": [
         "MoneyDJ理財網：富裔 115年第3季綜合損益表，每股虧損0.27元"
@@ -179,7 +149,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "產業評析最新專欄分析",
       "summary": [
         "MoneyDJ理財網：產業評析最新專欄分析"
@@ -190,6 +160,36 @@
           "source": "MoneyDJ理財網",
           "title": "產業評析最新專欄分析",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYSW04bzBKOHNPNHNtTkNYa2d5TThFTTNlc3hBT0UxMl94a3BHdVJBZDB6SWtOeURodU1OU3RSaGNtRnNkMDVRMXFKekRlcW44NWRocV9jdlNTb1NacERrTnVwc1pTWXpGRklpeWdlTUU5MHhJNFlObV9B?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "法人專欄分析內容-臺股",
+      "summary": [
+        "MoneyDJ理財網：法人專欄分析內容-臺股"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "法人專欄分析內容-臺股",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVkFoeGtRTEZwZFRqal9mNHpSbVdWNUx2T1hveV9NWnFxM0FfMkEtYi1MaDBkSHRFWWVsVk9JVlJkc2hxYi1ldVM0OWVjdW9JMjBrN0p6bDlhTU5VQXJiODhvM1EzWEdMOGhsay15UDR6bEI4NThpRjh6MVZZbmZHVTduVG9rWnQ1YTdCMGZn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "SpaceX星艦完成22小時軌道飛行 機械手臂成功夾住回收再寫歷史",
+      "summary": [
+        "公視新聞：SpaceX星艦完成22小時軌道飛行 機械手臂成功夾住回收再寫歷史"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "公視新聞",
+          "title": "SpaceX星艦完成22小時軌道飛行 機械手臂成功夾住回收再寫歷史",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RNzBEaXRoTTZHS3R2R0Z4UTRCa05kNHNHMXJXUmRFNlVaMWRxeTFRWVlLT08tYXo0SVNQVXI1Q0YzV2VkUjljM095ZTI5YkE?oc=5"
         }
       ]
     }
@@ -313,16 +313,16 @@
     },
     {
       "rank": 6,
-      "title": "[突發新聞] 福岡市長選舉出口民調結果",
+      "title": "[突發新聞]松山市長選舉出口民調結果",
       "summary": [
-        "NHK新聞：[突發新聞] 福岡市長選舉出口民調結果"
+        "NHK新聞：[突發新聞]松山市長選舉出口民調結果"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "[突發新聞] 福岡市長選舉出口民調結果",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76105"
+          "title": "[突發新聞]松山市長選舉出口民調結果",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76103"
         }
       ]
     },
@@ -343,46 +343,46 @@
     },
     {
       "rank": 8,
-      "title": "低碳排的太平洋島國，承受最前沿氣候災難：聚焦COP31與區域治理權",
+      "title": "九合一前夕：臺灣幾乎年年選舉，會引起「投票疲勞」嗎？",
       "summary": [
-        "法廣RFI：低碳排的太平洋島國，承受最前沿氣候災難：聚焦COP31與區域治理權"
+        "BBC中文：九合一前夕：臺灣幾乎年年選舉，會引起「投票疲勞」嗎？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "低碳排的太平洋島國，承受最前沿氣候災難：聚焦COP31與區域治理權",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E5%8D%B0%E5%A4%AA%E7%B8%B1%E8%A6%BD/20261115-%E4%BD%8E%E7%A2%B3%E6%8E%92%E7%9A%84%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B3%B6%E5%9C%8B%EF%BC%8C%E6%89%BF%E5%8F%97%E6%9C%80%E5%89%8D%E6%B2%BF%E6%B0%A3%E5%80%99%E7%81%BD%E9%9B%A3-%E8%81%9A%E7%84%A6cop31%E8%88%87%E5%8D%80%E5%9F%9F%E6%B2%BB%E7%90%86%E6%AC%8A"
+          "source": "BBC中文",
+          "title": "九合一前夕：臺灣幾乎年年選舉，會引起「投票疲勞」嗎？",
+          "url": "https://www.bbc.com/zhongwen/articles/c63egjkzqpz2o/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "三名男子因教堂大規模槍擊事件在約旦被判死刑",
+      "title": "「臺灣乾爹」光環崩塌：黃仁勳事件如何震動臺灣產業、政治與社會？",
       "summary": [
-        "BBC World：三名男子因教堂大規模槍擊事件在約旦被判死刑"
+        "BBC中文：「臺灣乾爹」光環崩塌：黃仁勳事件如何震動臺灣產業、政治與社會？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "BBC World",
-          "title": "三名男子因教堂大規模槍擊事件在約旦被判死刑",
-          "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
+          "source": "BBC中文",
+          "title": "「臺灣乾爹」光環崩塌：黃仁勳事件如何震動臺灣產業、政治與社會？",
+          "url": "https://www.bbc.com/zhongwen/articles/cmn80j39wq06o/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "美國聯邦航空局表示，全國地面停車的「根本原因」尚不清楚",
+      "title": "黃仁勳辭職風波：從「中國間諜」熱議到資本市場「冷熱分化」",
       "summary": [
-        "CNBC：美國聯邦航空局表示，全國地面停車的「根本原因」尚不清楚"
+        "BBC中文：黃仁勳辭職風波：從「中國間諜」熱議到資本市場「冷熱分化」"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "CNBC",
-          "title": "美國聯邦航空局表示，全國地面停車的「根本原因」尚不清楚",
-          "url": "https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html"
+          "source": "BBC中文",
+          "title": "黃仁勳辭職風波：從「中國間諜」熱議到資本市場「冷熱分化」",
+          "url": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
