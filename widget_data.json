@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 20:57",
+  "updated_at": "2026-11-15 21:26",
   "taiwan": [
     {
       "rank": 1,
@@ -247,27 +247,6 @@
     },
     {
       "rank": 2,
-      "title": "Megaspeed 表示 Alice Huang 已於 2025 年離職，並對其業務報告展開內部調查",
-      "summary": [
-        "CNBC：Megaspeed 表示 Alice Huang 已於 2025 年離職，並對其業務報告展開內部調查",
-        "Investing.com：Megaspeed 表示 Alice Huang 已於 2025 年 8 月離開公司"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "Megaspeed 表示 Alice Huang 已於 2025 年離職，並對其業務報告展開內部調查",
-          "url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Megaspeed 表示 Alice Huang 已於 2025 年 8 月離開公司",
-          "url": "https://www.investing.com/news/stock-market-news/megaspeed-says-alice-huang-left-company-in-august-2025-5027761"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "福岡市長選舉計票及出口民調選舉資訊在這裡【突發新聞】",
       "summary": [
         "NHK新聞：福岡市長選舉計票及出口民調選舉資訊在這裡【突發新聞】"
@@ -282,7 +261,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "愛媛郡知事選舉計票及出口民調選舉資訊在這裡 [突發新聞]",
       "summary": [
         "NHK新聞：愛媛郡知事選舉計票及出口民調選舉資訊在這裡 [突發新聞]"
@@ -297,7 +276,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "[突發新聞] 福岡市長選舉出口民調結果",
       "summary": [
         "NHK新聞：[突發新聞] 福岡市長選舉出口民調結果"
@@ -312,37 +291,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "SpaceX大型太空船繞地球軌道執行後首次成功抵達發射臺",
-      "summary": [
-        "NHK新聞：SpaceX大型太空船繞地球軌道執行後首次成功抵達發射臺"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "SpaceX大型太空船繞地球軌道執行後首次成功抵達發射臺",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76047"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "新的人工智慧百萬富翁需要財富顧問來幫助他們捐出錢財",
-      "summary": [
-        "WSJ Markets：新的人工智慧百萬富翁需要財富顧問來幫助他們捐出錢財"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "WSJ Markets",
-          "title": "新的人工智慧百萬富翁需要財富顧問來幫助他們捐出錢財",
-          "url": "https://www.wsj.com/finance/investing/new-ai-millionaires-want-wealth-advisers-who-can-help-give-their-money-away-7d586775?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "title": "韓外交高官：中方向韓方說明朝中交流情況",
       "summary": [
         "韓聯社：韓外交高官：中方向韓方說明朝中交流情況"
@@ -357,7 +306,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "朝媒報道朝鮮勞動黨書記趙甬元率團訪俄",
       "summary": [
         "韓聯社：朝媒報道朝鮮勞動黨書記趙甬元率團訪俄"
@@ -372,7 +321,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "遵循這 7 種食譜，吃得更好",
       "summary": [
         "Washington Post：遵循這 7 種食譜，吃得更好"
@@ -383,6 +332,51 @@
           "source": "Washington Post",
           "title": "遵循這 7 種食譜，吃得更好",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGxUTDAyYVV1TzN4NDBXN0ZxV21QU1pGaWUtVVNydFdFdDdxbmZGd2VHR3k2bkVSNUgtSkZNWDJkZERYcDNuUTBfaXNkRmVRZ2FseTVwZG4xNHlRc3ItOGRZQ1FQcEtUUDZ2UVlHYlJnNm0yaDE5Qm5Ha0c3RnBZNXJaVjVaQ1ZnR1NvRHBB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "馬斯克（Elon Musk）向 MKBHD 承認，特斯拉 Cyber​​ cab 的每月訂閱費“太高”：“應該與…的成本相匹配”",
+      "summary": [
+        "Yahoo Finance：馬斯克（Elon Musk）向 MKBHD 承認，特斯拉 Cyber​​ cab 的每月訂閱費“太高”：“應該與…的成本相匹配”"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "馬斯克（Elon Musk）向 MKBHD 承認，特斯拉 Cyber​​ cab 的每月訂閱費“太高”：“應該與…的成本相匹配”",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3VTZ0ZIZk1lTjgzSm1KM2Q0VjQtTkxJZm11enNNRzZYUzdWaDFQT2Q2MGZRUjdsenFhWENYdlJQM0V6QjFSOC03TnM0WXY4MUdfUmFzckQtYWpFTzYzcUh4amEyOUJBVzdsRVQ3UGx6UjdKaWxoYUdoS1NtbHd6UFN6R1dQekdUZ0ZUcFlLSjd1d3ROSDVmOFpPZXowUFg2SkZvdUgtZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "伊隆馬斯克、川普、克雷斯、英偉達董事會就黃仁勳的退出：本週 Mag 7 的聲音",
+      "summary": [
+        "Yahoo Finance：伊隆馬斯克、川普、克雷斯、英偉達董事會就黃仁勳的退出：本週 Mag 7 的聲音"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "伊隆馬斯克、川普、克雷斯、英偉達董事會就黃仁勳的退出：本週 Mag 7 的聲音",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQXVVaTlreGZJZ0drVDIzaUZ5VFVwNllJeVM5UGh0RmJmU3pLVGkzM1R0Q1FqblFuZFBBNk83b3o3dlVXaDJXeG5iSnpHN2FnYTZZUkR4ZV9QUExwYWxZMmFDNGtQSWhHWVotMmJHa3VUaHpkS1RGSmZzQVJteUlQeHYyTUhRaGxhT19GaGYxV3ZlSi1NXy1hQg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Evercore 解釋了為什麼蘋果擁有贏得個人代理商競賽的合適資產",
+      "summary": [
+        "Investing.com：Evercore 解釋了為什麼蘋果擁有贏得個人代理商競賽的合適資產"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Evercore 解釋了為什麼蘋果擁有贏得個人代理商競賽的合適資產",
+          "url": "https://www.investing.com/news/stock-market-news/evercore-explains-why-apple-has-the-right-assets-to-win-the-personal-agents-race-5027628"
         }
       ]
     }
