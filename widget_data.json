@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 03:26",
+  "updated_at": "2026-11-16 03:56",
   "taiwan": [
     {
       "rank": 1,
@@ -263,6 +263,27 @@
     },
     {
       "rank": 3,
+      "title": "英國《金融時報》稱，黃仁勳與盟友討論重返英偉達執行長一職",
+      "summary": [
+        "Bloomberg Tech：英國《金融時報》稱，黃仁勳與盟友討論重返英偉達執行長一職",
+        "Investing.com：根據英國《金融時報》報道，黃仁勳與盟友討論重返英偉達執行長一職"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "英國《金融時報》稱，黃仁勳與盟友討論重返英偉達執行長一職",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says"
+        },
+        {
+          "source": "Investing.com",
+          "title": "根據英國《金融時報》報道，黃仁勳與盟友討論重返英偉達執行長一職",
+          "url": "https://www.investing.com/news/stock-market-news/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports-5028065"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "福岡市長選舉計票及出口民調選舉資訊在這裡【突發新聞】",
       "summary": [
         "NHK新聞：福岡市長選舉計票及出口民調選舉資訊在這裡【突發新聞】"
@@ -277,7 +298,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "愛媛郡知事選舉計票及出口民調選舉資訊在這裡 [突發新聞]",
       "summary": [
         "NHK新聞：愛媛郡知事選舉計票及出口民調選舉資訊在這裡 [突發新聞]"
@@ -292,7 +313,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "[突發新聞] 福岡市長選舉出口民調結果",
       "summary": [
         "NHK新聞：[突發新聞] 福岡市長選舉出口民調結果"
@@ -307,7 +328,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "詳訊：韓中外長在京舉行會談",
       "summary": [
         "韓聯社：詳訊：韓中外長在京舉行會談"
@@ -322,62 +343,47 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "澤連斯基：美國提出烏克蘭讓出頓巴斯以換取加入北約",
-      "summary": [
-        "BBC中文：澤連斯基：美國提出烏克蘭讓出頓巴斯以換取加入北約"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "澤連斯基：美國提出烏克蘭讓出頓巴斯以換取加入北約",
-          "url": "https://www.bbc.com/zhongwen/articles/cqgm3vnx3zx3o/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
       "rank": 8,
-      "title": "民主黨大獲全勝後，英偉達醜聞打擊了川普的政治弱點",
+      "title": "官員稱，以色列在襲擊加薩營地時殺死了哈馬斯指揮官",
       "summary": [
-        "Washington Post：民主黨大獲全勝後，英偉達醜聞打擊了川普的政治弱點"
+        "BBC World：官員稱，以色列在襲擊加薩營地時殺死了哈馬斯指揮官"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Washington Post",
-          "title": "民主黨大獲全勝後，英偉達醜聞打擊了川普的政治弱點",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONV9KTEtTalpUbDZVME91ak1OQzR5SDZaTS1CLTA1Uk1iZ1VTRU9DMDM1RjdnUkZ0YkQxQ2V3QlVsSzY3SkRzRWVTa3JKUlgxMEI5M3N0Y1BPLXVMTjVjNFhBakJXZk9ibEV6Y3p2U3JHb3dpSzFsM1V3eXc0RFhsRnZaNk16YjVCa3lyeDh5MVlBZVU0Yks1VHpfMW4wUl9DdEI5THA5UndPczZtSUhoV1pYUW5nZ3ZLS2xDcVhBREFPTHhkRVE?oc=5"
+          "source": "BBC World",
+          "title": "官員稱，以色列在襲擊加薩營地時殺死了哈馬斯指揮官",
+          "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "多年來，美國聯邦航空局 (FAA) 一直收到有關導致全國範圍內地面停飛的維修風險的警告",
+      "title": "新奧爾良港口因「密西西比河奇蹟」油輪相撞事件提起 100 萬美元訴訟",
       "summary": [
-        "Washington Post：多年來，美國聯邦航空局 (FAA) 一直收到有關導致全國範圍內地面停飛的維修風險的警告"
+        "BBC World：新奧爾良港口因「密西西比河奇蹟」油輪相撞事件提起 100 萬美元訴訟"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Washington Post",
-          "title": "多年來，美國聯邦航空局 (FAA) 一直收到有關導致全國範圍內地面停飛的維修風險的警告",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdGhEX0dMOEdKd2dQcXJYV1NJVnZKeUFMTlMyRmVMWXFkZHhaU3hDR0NCM201VTZQRXc0QXNERjdBdGdyX3ZXU3ZlbU42WjR4MW5qLWh1WGtCdk9UVXdlaUlQMTJkS1FuWHhDcUt0MlNmQlRRYTdDSTh0Z3I0RTAwaGlYdzByVG05WE1uZjdyeWhiQlYtRmRRSkwtOVR0WS14X1VOZ25JZzVHMFFJNEhMUW9YWWtKVTM3cG5McHJDbjJGWWFfMTZV?oc=5"
+          "source": "BBC World",
+          "title": "新奧爾良港口因「密西西比河奇蹟」油輪相撞事件提起 100 萬美元訴訟",
+          "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "沒有黃仁勳的英偉達：人工智慧交易的暫停對金屬意味著什麼",
+      "title": "富道銀行（State Street）和百達銀行（Pictet）宣佈歐洲股市反彈時間到了",
       "summary": [
-        "Yahoo Finance：沒有黃仁勳的英偉達：人工智慧交易的暫停對金屬意味著什麼"
+        "Bloomberg Markets：富道銀行（State Street）和百達銀行（Pictet）宣佈歐洲股市反彈時間到了"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "沒有黃仁勳的英偉達：人工智慧交易的暫停對金屬意味著什麼",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa19ydHFJQ0lZZGxvWDBUbXNoakFwYUtVa0w5UXBJeHJIejFXcXlWbFJ5ajg1Y29kMnUyWjJERllXY2p2M2c1ZUhyQzVNS0xKVkQ2UDYxZ2JPRGlYWS1hdWh4MWMyVURueXV0U3BNRXV6TjZCUGtDclRnQUFrWUgtMWQtZk5LSjhnR3I5RHZCeTZUVXNTSmpFV3BsVzVuS1kw?oc=5"
+          "source": "Bloomberg Markets",
+          "title": "富道銀行（State Street）和百達銀行（Pictet）宣佈歐洲股市反彈時間到了",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-15/state-street-pictet-call-time-on-europe-s-stock-market-rally"
         }
       ]
     }
