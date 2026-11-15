@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 09:56",
+  "updated_at": "2026-11-15 10:26",
   "taiwan": [
     {
       "rank": 1,
@@ -84,48 +84,6 @@
     },
     {
       "rank": 4,
-      "title": "《星光幫》男星逆風嗆青鳥不要惱怒 二度發聲又挨轟：怎不跟羅大佑說",
-      "summary": [
-        "自由時報：《星光幫》男星逆風嗆青鳥不要惱怒 二度發聲又挨轟：怎不跟羅大佑說",
-        "ETtoday：盧學叡挺羅大佑「青鳥不要惱怒」被罵翻　深夜再發聲：不接受惡意攻擊"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "《星光幫》男星逆風嗆青鳥不要惱怒 二度發聲又挨轟：怎不跟羅大佑說",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5641068"
-        },
-        {
-          "source": "ETtoday",
-          "title": "盧學叡挺羅大佑「青鳥不要惱怒」被罵翻　深夜再發聲：不接受惡意攻擊",
-          "url": "https://star.ettoday.net/news/3272351"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "NASA旅行家1號飛行49年　即將締造「光日」里程碑",
-      "summary": [
-        "經濟日報：NASA旅行家1號飛行49年　即將締造「光日」里程碑",
-        "ETtoday：NASA旅行家1號飛行49年　即將締造「光日」里程碑"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "NASA旅行家1號飛行49年　即將締造「光日」里程碑",
-          "url": "https://money.udn.com/money/story/5599/9879104"
-        },
-        {
-          "source": "ETtoday",
-          "title": "NASA旅行家1號飛行49年　即將締造「光日」里程碑",
-          "url": "https://www.ettoday.net/news/20261115/3272380.htm"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "曾聖安雙響砲帥到韓國！韓球迷讚嘆顏值　臺網友挖出胸肌焦點",
       "summary": [
         "ETtoday：曾聖安雙響砲帥到韓國！韓球迷讚嘆顏值　臺網友挖出胸肌焦點",
@@ -146,7 +104,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "韓國瑜大讚張善政溫暖：我們一個少林、一個武當- 政治",
       "summary": [
         "中時新聞：韓國瑜大讚張善政溫暖：我們一個少林、一個武當- 政治",
@@ -167,7 +125,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "全美航班交通大亂！空中管制通訊中斷逾萬航班受影響- 新聞",
       "summary": [
         "MoneyDJ理財網：全美航班交通大亂！空中管制通訊中斷逾萬航班受影響- 新聞",
@@ -188,7 +146,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "美中俄領袖APEC期間首度三方峰會　核武與伊朗戰爭成焦點",
       "summary": [
         "自由時報：美中俄領袖APEC期間首度三方峰會　核武與伊朗戰爭成焦點",
@@ -209,7 +167,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "輝達兩大股東籲審慎評估領導人選　黃仁勳回任列入考量",
       "summary": [
         "自由時報：輝達兩大股東籲審慎評估領導人選　黃仁勳回任列入考量",
@@ -228,6 +186,48 @@
           "url": "https://money.udn.com/money/story/123398/9879319"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "馬克宏批限縮援助烏克蘭形同認輸　恐釀新戰爭",
+      "summary": [
+        "自由時報：馬克宏批限縮援助烏克蘭形同認輸　恐釀新戰爭",
+        "經濟日報：馬克宏批限縮援助烏克蘭形同認輸　恐釀新戰爭"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "馬克宏批限縮援助烏克蘭形同認輸　恐釀新戰爭",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641145"
+        },
+        {
+          "source": "經濟日報",
+          "title": "馬克宏批限縮援助烏克蘭形同認輸　恐釀新戰爭",
+          "url": "https://money.udn.com/money/story/5599/9879327"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國失去麻疹清零地位　疫情升溫數十年來最嚴重",
+      "summary": [
+        "經濟日報：美國失去麻疹清零地位　疫情升溫數十年來最嚴重",
+        "ETtoday：美國失去麻疹清零地位　今年逾5400人染疫創數十年新高"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美國失去麻疹清零地位　疫情升溫數十年來最嚴重",
+          "url": "https://money.udn.com/money/story/5599/9879375"
+        },
+        {
+          "source": "ETtoday",
+          "title": "美國失去麻疹清零地位　今年逾5400人染疫創數十年新高",
+          "url": "https://www.ettoday.net/news/20261115/3272397.htm"
+        }
+      ]
     }
   ],
   "global": [
@@ -236,20 +236,15 @@
       "title": "SpaceX首次從軌道上成功捕獲星際飛船火箭",
       "summary": [
         "CNBC：SpaceX首次從軌道上成功捕獲星際飛船火箭",
-        "BBC World：「你能相信嗎？」：SpaceX 在返回地球時捕獲了其 Starship 火箭的一部分",
-        "Bloomberg Markets：(數字) SpaceX 在新穎的著陸中捕獲了星際飛船"
+        "Bloomberg Markets：(數字) SpaceX 在新穎的著陸中捕獲了星際飛船",
+        "MarketWatch：SpaceX 成功捕捉 Starship 火箭，這是航太產業的一個巨大里程碑"
       ],
-      "media_count": 5,
+      "media_count": 4,
       "links": [
         {
           "source": "CNBC",
           "title": "SpaceX首次從軌道上成功捕獲星際飛船火箭",
           "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"
-        },
-        {
-          "source": "BBC World",
-          "title": "「你能相信嗎？」：SpaceX 在返回地球時捕獲了其 Starship 火箭的一部分",
-          "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Bloomberg Markets",
@@ -297,6 +292,33 @@
     },
     {
       "rank": 3,
+      "title": "菲律賓贏得首屆亞洲歐洲歌唱大賽冠軍",
+      "summary": [
+        "BBC World：菲律賓贏得首屆亞洲歐洲歌唱大賽冠軍",
+        "The Guardian：菲律賓的卡梅爾贏得了亞洲首屆歐洲歌唱大賽冠軍",
+        "Nikkei Asia：菲律賓選手卡梅爾奪得第一位歐洲歌唱大賽亞洲冠軍"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "菲律賓贏得首屆亞洲歐洲歌唱大賽冠軍",
+          "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "title": "菲律賓的卡梅爾贏得了亞洲首屆歐洲歌唱大賽冠軍",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "菲律賓選手卡梅爾奪得第一位歐洲歌唱大賽亞洲冠軍",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaXVKVHk1WHJWX3ZKSXdGdl9ISHBaSmtBa25EbnVDSUFpNlFIWGFBTEY3enVNenAwS2NpdldRTzNXVkZyT21Kd1ZVd0I5dnRDdkU4cEhJdmNBakJoMWlkQWVRWGVVZElwSUsxd2JBUUZTN3NxdHVCSTRrQlY1MFVQTm8wRHpLbDZWaEIzWmQzWmQ0ZWd6WDRQS2FwUkFnV2YyQVl1Zy1EOUFhbjNSVVU2NGV3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "隨著航空旅行系統從關閉狀態恢復，數千美國航班取消、延誤",
       "summary": [
         "Investing.com：隨著航空旅行系統從關閉狀態恢復，數千美國航班取消、延誤",
@@ -313,27 +335,6 @@
           "source": "法廣RFI",
           "title": "美航班全國性停飛長達4個小時     約16000次航班取消",
           "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261114-%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%85%A8%E5%9C%8B%E6%80%A7%E5%81%9C%E9%A3%9B%E9%95%B7%E9%81%944%E5%80%8B%E5%B0%8F%E6%99%82-%E7%B4%8416000%E6%AC%A1%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "菲律賓贏得首屆亞洲歐洲歌唱大賽冠軍",
-      "summary": [
-        "BBC World：菲律賓贏得首屆亞洲歐洲歌唱大賽冠軍",
-        "The Guardian：菲律賓的卡梅爾贏得了亞洲首屆歐洲歌唱大賽冠軍"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "菲律賓贏得首屆亞洲歐洲歌唱大賽冠軍",
-          "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "title": "菲律賓的卡梅爾贏得了亞洲首屆歐洲歌唱大賽冠軍",
-          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia"
         }
       ]
     },
@@ -390,46 +391,46 @@
     },
     {
       "rank": 8,
-      "title": "自民黨參議院議長松山消費稅削減法案“國民與公明黨方向一致”",
+      "title": "在對歐爾班政府前部長調查中查獲約合兩千萬美元現金 現總理稱“黑手黨的終結”",
       "summary": [
-        "NHK新聞：自民黨參議院議長松山消費稅削減法案“國民與公明黨方向一致”"
+        "法廣RFI：在對歐爾班政府前部長調查中查獲約合兩千萬美元現金 現總理稱“黑手黨的終結”"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "自民黨參議院議長松山消費稅削減法案“國民與公明黨方向一致”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261114de76006"
+          "source": "法廣RFI",
+          "title": "在對歐爾班政府前部長調查中查獲約合兩千萬美元現金 現總理稱“黑手黨的終結”",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261114-%E5%9C%A8%E5%B0%8D%E6%AD%90%E7%88%BE%E7%8F%AD%E6%94%BF%E5%BA%9C%E5%89%8D%E9%83%A8%E9%95%B7%E8%AA%BF%E6%9F%A5%E4%B8%AD%E6%9F%A5%E7%8D%B2%E7%B4%84%E5%90%88%E5%85%A9%E5%8D%83%E8%90%AC%E7%BE%8E%E5%85%83%E7%8F%BE%E9%87%91-%E7%8F%BE%E7%B8%BD%E7%90%86%E7%A8%B1-%E9%BB%91%E5%B9%AB%E7%9A%84%E7%B5%82%E7%B5%90"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "川普前往中國與習近平和普丁舉行會談",
+      "title": "一架與秘密襲擊有關的間諜飛機返回佛羅裡達州最大的老年人社群",
       "summary": [
-        "Bloomberg Markets：川普前往中國與習近平和普丁舉行會談"
+        "Washington Post：一架與秘密襲擊有關的間諜飛機返回佛羅裡達州最大的老年人社群"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "川普前往中國與習近平和普丁舉行會談",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-14/trump-heads-to-china-for-talks-with-xi-and-putin-video"
+          "source": "Washington Post",
+          "title": "一架與秘密襲擊有關的間諜飛機返回佛羅裡達州最大的老年人社群",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTURUeDFZT0YxRnMwWUVHN2otUnlCN3luNnRxd2JGZW5maEtaQTdSSTRxYmdBZElPanpRUkIyYTBaSFdEbWc1eE5Famx1R0xTbjR3V29tMHppS2xIMElILTFjWkpxc1dPZG5UYUNaeUVrUFFhOURLaC14VlN4bWs1N2ZlaXBGaWgwU0gteVB3cm9zUm5HSFoxQ3ZDZDVzMmQ0X1lUS3pRUEJ2NFNhZkJDZlVBdWVFZXN0eWZqaERpaHdWZVZpUjdmNzFYeUo?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "米勒入主白宮令墨西哥貿易談判代表感到不安",
+      "title": "致命槍擊事件發生後，華盛頓特區的鄰居陷入悲痛和流離失所",
       "summary": [
-        "Bloomberg Markets：米勒入主白宮令墨西哥貿易談判代表感到不安"
+        "Washington Post：致命槍擊事件發生後，華盛頓特區的鄰居陷入悲痛和流離失所"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "米勒入主白宮令墨西哥貿易談判代表感到不安",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-14/miller-s-white-house-ascent-rattles-mexico-trade-negotiators"
+          "source": "Washington Post",
+          "title": "致命槍擊事件發生後，華盛頓特區的鄰居陷入悲痛和流離失所",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZXNDbHdxQ3JvRlQ3eUdySF9ScTJNazJuQXNsMXhDdUt4NUtlc0JoNldlUGl5SWJxMDBldFpDcjh0dmNvMDlUYVpPN2NaZ3BkM3ZhY203ekl1V0xOTTZxOHhpeWNqM3ZRU09ZX3NsTW1BNXJkMkdscWd3NjgwbHZSV0kzcE5DM3h4X3ZzZFdFdHNERFkyRTl0YU1FMjFhdVVKMGFXMkZMTERyTlN5?oc=5"
         }
       ]
     }
