@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 23:56",
+  "updated_at": "2026-11-16 00:26",
   "taiwan": [
     {
       "rank": 1,
@@ -30,48 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "逾13萬人挺黃仁勳重返輝達！名單驚見疑似小三「黃樂」連署",
-      "summary": [
-        "經濟日報：逾13萬人挺黃仁勳重返輝達！名單驚見疑似小三「黃樂」連署",
-        "TVBS新聞：挺黃仁勳連署破13萬人！名單中驚見「黃樂」 主辦單位回應了"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "逾13萬人挺黃仁勳重返輝達！名單驚見疑似小三「黃樂」連署",
-          "url": "https://money.udn.com/money/story/5599/9879760"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "挺黃仁勳連署破13萬人！名單中驚見「黃樂」 主辦單位回應了",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mMEhPcUlaVmlpV1JvVUU3cFNUWTV0QmgxTU5tOWR2WWFPaXp2VWU3X2tnMEpMOEFheXlIalJWM1NOWU4yd19ld2Q5V1hBVEk?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "美中俄峰會在即　日媒：高市擬先與川普對話",
-      "summary": [
-        "經濟日報：美中俄峰會在即　日媒：高市擬先與川普對話",
-        "自由時報：美中俄三方峰會將登場  高市早苗擬在會前與川普對話"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美中俄峰會在即　日媒：高市擬先與川普對話",
-          "url": "https://money.udn.com/money/story/5599/9879727"
-        },
-        {
-          "source": "自由時報",
-          "title": "美中俄三方峰會將登場  高市早苗擬在會前與川普對話",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641879"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "中華電信帳單金額異常暴增！大批使用者收簡訊崩潰：客服打不通",
       "summary": [
         "中時新聞：中華電信帳單金額異常暴增！大批使用者收簡訊崩潰：客服打不通",
@@ -92,7 +50,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "美提議烏割地換加入北約　澤倫斯基：若有完整保障會交付公投",
       "summary": [
         "經濟日報：美提議烏割地換加入北約　澤倫斯基：若有完整保障會交付公投",
@@ -113,7 +71,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
       "summary": [
         "ETtoday：快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
@@ -134,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "黃仁勳暖舉曝光！輝達主管揭他「動用人脈」助抗癌：欠他恩情",
       "summary": [
         "ETtoday：黃仁勳暖舉曝光！輝達主管揭他「動用人脈」助抗癌：欠他恩情",
@@ -155,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "韓國個資外洩事件拉警報 大學、公營機構也遭駭",
       "summary": [
         "經濟日報：韓國個資外洩事件拉警報 大學、公營機構也遭駭",
@@ -176,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "巴林防空警報大作　伊朗革命衛隊稱攻擊美軍雷達系統",
       "summary": [
         "經濟日報：巴林防空警報大作　伊朗革命衛隊稱攻擊美軍雷達系統",
@@ -197,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "美軍F-15EX戰機抵沖繩　首度常駐於美國之外",
       "summary": [
         "經濟日報：美軍F-15EX戰機抵沖繩　首度常駐於美國之外",
@@ -214,6 +172,48 @@
           "source": "ETtoday",
           "title": "美軍首度海外常駐部署F-15EX！首批2架抵沖繩　嘉手納基地將駐36架",
           "url": "https://www.ettoday.net/news/20261115/3272624.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "羅大佑扯「沒料才拿補助」滅火器喊問心無愧！反擊政治口水",
+      "summary": [
+        "自由時報：羅大佑扯「沒料才拿補助」滅火器喊問心無愧！反擊政治口水",
+        "ETtoday：羅大佑酸「沒料才拿補助」！　滅火器反擊「分化人民」：我們問心無愧"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "羅大佑扯「沒料才拿補助」滅火器喊問心無愧！反擊政治口水",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5641679"
+        },
+        {
+          "source": "ETtoday",
+          "title": "羅大佑酸「沒料才拿補助」！　滅火器反擊「分化人民」：我們問心無愧",
+          "url": "https://star.ettoday.net/news/3272701"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "花蓮卓溪18:03規模3.5地震  最大震度2級",
+      "summary": [
+        "自由時報：花蓮卓溪18:03規模3.5地震  最大震度2級",
+        "ETtoday：快訊／18:03花蓮縣規模3.5地震　最大震度2級"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "花蓮卓溪18:03規模3.5地震  最大震度2級",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5641748"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／18:03花蓮縣規模3.5地震　最大震度2級",
+          "url": "https://www.ettoday.net/news/20261115/3272659.htm"
         }
       ]
     }
@@ -287,81 +287,6 @@
     },
     {
       "rank": 5,
-      "title": "政府和執政黨考慮對保母和家務支援進行減稅",
-      "summary": [
-        "NHK新聞：政府和執政黨考慮對保母和家務支援進行減稅"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "政府和執政黨考慮對保母和家務支援進行減稅",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76091"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "報告：韓國30處伺服器及域名成朝鮮關聯駭客組織攻擊目標",
-      "summary": [
-        "韓聯社：報告：韓國30處伺服器及域名成朝鮮關聯駭客組織攻擊目標"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "報告：韓國30處伺服器及域名成朝鮮關聯駭客組織攻擊目標",
-          "url": "https://cn.yna.co.kr/view/ACK20261115000400881"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "世界領導人前往亞洲連續舉行外交高峰會",
-      "summary": [
-        "The Guardian：世界領導人前往亞洲連續舉行外交高峰會"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "世界領導人前往亞洲連續舉行外交高峰會",
-          "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "中國眼中的世界",
-      "summary": [
-        "Financial Times：中國眼中的世界"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "中國眼中的世界",
-          "url": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "ING為2027年中國經濟提出10大關鍵問題",
-      "summary": [
-        "Investing.com：ING為2027年中國經濟提出10大關鍵問題"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "ING為2027年中國經濟提出10大關鍵問題",
-          "url": "https://www.investing.com/news/stock-market-news/ing-sets-out-10-key-questions-for-chinas-economy-in-2027-5027649"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "布萊恩·莫納漢在五角大廈調查中不再擔任國會主治醫師",
       "summary": [
         "Washington Post：布萊恩·莫納漢在五角大廈調查中不再擔任國會主治醫師"
@@ -372,6 +297,81 @@
           "source": "Washington Post",
           "title": "布萊恩·莫納漢在五角大廈調查中不再擔任國會主治醫師",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUo0SDRZdGpCa0VkTmNWSmRmdXJJTGF2bUQxd2NEam5yemc0V2prVTB4cFhjQl9rcEtVSXU5ajNzb2ZqTXRKTUtmWG5YY2dkajZPRW5wRExUQTB3VjBDakR3bnNvMlZNbHRxYXdwbm00LUwwMjNQOFlLMk9uM2tYT2YwZHVKQ3N0SGVSaTdwLTJ5U3ctS0RHUmY3OXJPTnRxamRYMVBScUh0Z3g5ekFGdjEwZ2VDSlVzeWc?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "遊戲在日本成為一種新的企業網路工具",
+      "summary": [
+        "Nikkei Asia：遊戲在日本成為一種新的企業網路工具"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "遊戲在日本成為一種新的企業網路工具",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU3ZkbmxobWtRV0J3bEdrTnpPMGJmWHlhb3ZyTVpEcS0xQklkZnNVTkFWSFlscFRmb0N0eTBacmEzQmNHczNYamhKd3FFTWw5RFllT044TkMtRU9ZcFJLaVhLSlF2bVVZSm5qaWV6dUpQbTFuLTZfQTlfMVJsdWY0WFVnd1I3QlRIbWY3MVNhQkVLTUdhRWlaVEZjaVRTanN3NnNoZTFjcERxVUE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "韓國10月ICT出口連續兩個月超700億美元",
+      "summary": [
+        "韓聯社：韓國10月ICT出口連續兩個月超700億美元"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "韓國10月ICT出口連續兩個月超700億美元",
+          "url": "https://cn.yna.co.kr/view/ACK20261115000500881"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "阿肯色州聯邦航空局路由器過載引發全國航班停飛",
+      "summary": [
+        "Investing.com：阿肯色州聯邦航空局路由器過載引發全國航班停飛"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "阿肯色州聯邦航空局路由器過載引發全國航班停飛",
+          "url": "https://www.investing.com/news/stock-market-news/faa-router-overload-in-arkansas-triggered-nationwide-flight-grounding--wsj-5027664"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "APEC深圳高峰會、印尼貨幣政策、東協外交",
+      "summary": [
+        "Nikkei Asia：APEC深圳高峰會、印尼貨幣政策、東協外交"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "APEC深圳高峰會、印尼貨幣政策、東協外交",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS1RtYzNMbFRYWVlnZVA4UnRTdGRzN2hQUHdON0VfOHdiRWdDRVV5c3doTGpBbWlqdndlWkg1NDVBN1A4dzl0WS1rUlh3dmppT3otZzVINmE4cV9xV3hrWHo0eU8xQkdtZ0lBZk45T3E0RHpKMU9SdlcwWU1RcGM3cjBIbXpYWlp2cUlBaUFKRUNUMExqU3BKWlJHSjRXa2NvVmlpRHhiVVJiZEh3a2JHVGFWbG0yNExo?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "天皇和皇后陛下出席在大阪舉行的造海競賽儀式",
+      "summary": [
+        "NHK新聞：天皇和皇后陛下出席在大阪舉行的造海競賽儀式"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "天皇和皇后陛下出席在大阪舉行的造海競賽儀式",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76092"
         }
       ]
     }
