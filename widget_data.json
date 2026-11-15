@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-15 08:26",
+  "updated_at": "2026-11-15 08:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "（直擊）臺日友好！木村拓哉90度鞠躬：代表日本謝謝臺灣援助",
-      "summary": [
-        "自由時報：（直擊）臺日友好！木村拓哉90度鞠躬：代表日本謝謝臺灣援助",
-        "ETtoday：虎父無犬子！健行教頭劉孟竹南下助陣、劉衡4記三分彈助信義大勝",
-        "關鍵評論網：《鬼島．鬼導：臺灣靈異大小事》書評：德國學者筆下的臺灣幽冥與人文關懷"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "（直擊）臺日友好！木村拓哉90度鞠躬：代表日本謝謝臺灣援助",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5641019"
-        },
-        {
-          "source": "ETtoday",
-          "title": "虎父無犬子！健行教頭劉孟竹南下助陣、劉衡4記三分彈助信義大勝",
-          "url": "https://sports.ettoday.net/news/3272304"
-        },
-        {
-          "source": "關鍵評論網",
-          "title": "《鬼島．鬼導：臺灣靈異大小事》書評：德國學者筆下的臺灣幽冥與人文關懷",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FMUdSQUVlTFVoRnlYdkJac2NQMEFNRS04SXp6bUM2cEFFVEsxRHJnTHYtOW1GMlVxRUozMGdpVF9YNHE5LS1rVXNVQzBxemVGQ3FPSA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
       "summary": [
         "自由時報：全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
@@ -56,7 +29,55 @@
       ]
     },
     {
+      "rank": 2,
+      "title": "SpaceX首度完成太空船捕捉回收　星艦返回發射臺",
+      "summary": [
+        "經濟日報：SpaceX首度完成太空船捕捉回收　星艦返回發射臺",
+        "ETtoday：SpaceX創歷史首次！　星艦由發射塔機械手臂成功回收",
+        "自由時報：SpaceX首度完成太空船捕捉回收 星艦返回發射臺"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "SpaceX首度完成太空船捕捉回收　星艦返回發射臺",
+          "url": "https://money.udn.com/money/story/5599/9879383"
+        },
+        {
+          "source": "ETtoday",
+          "title": "SpaceX創歷史首次！　星艦由發射塔機械手臂成功回收",
+          "url": "https://www.ettoday.net/news/20261115/3272391.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "SpaceX首度完成太空船捕捉回收 星艦返回發射臺",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641155"
+        }
+      ]
+    },
+    {
       "rank": 3,
+      "title": "蘇巧慧遭麥克風撞斷門牙 李四川暖發文：期盼早日康復",
+      "summary": [
+        "自由時報：蘇巧慧遭麥克風撞斷門牙 李四川暖發文：期盼早日康復",
+        "ETtoday：快訊／新北造勢突然見血！蘇巧慧門牙被神將敲斷　滿口血淡定繼續唱"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "蘇巧慧遭麥克風撞斷門牙 李四川暖發文：期盼早日康復",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641054"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／新北造勢突然見血！蘇巧慧門牙被神將敲斷　滿口血淡定繼續唱",
+          "url": "https://www.ettoday.net/news/20261114/3272324.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "快訊／中華隊4比6飲恨韓國！曾聖安雙響難救　日韓會師冠軍戰",
       "summary": [
         "ETtoday：快訊／中華隊4比6飲恨韓國！曾聖安雙響難救　日韓會師冠軍戰",
@@ -77,7 +98,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "《星光幫》男星逆風嗆青鳥不要惱怒 二度發聲又挨轟：怎不跟羅大佑說",
       "summary": [
         "自由時報：《星光幫》男星逆風嗆青鳥不要惱怒 二度發聲又挨轟：怎不跟羅大佑說",
@@ -98,7 +119,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "NASA旅行家1號飛行49年　即將締造「光日」里程碑",
       "summary": [
         "經濟日報：NASA旅行家1號飛行49年　即將締造「光日」里程碑",
@@ -119,7 +140,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "曾聖安雙響砲帥到韓國！韓球迷讚嘆顏值　臺網友挖出胸肌焦點",
       "summary": [
         "ETtoday：曾聖安雙響砲帥到韓國！韓球迷讚嘆顏值　臺網友挖出胸肌焦點",
@@ -140,7 +161,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "韓國瑜大讚張善政溫暖：我們一個少林、一個武當- 政治",
       "summary": [
         "中時新聞：韓國瑜大讚張善政溫暖：我們一個少林、一個武當- 政治",
@@ -161,7 +182,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "全美航班交通大亂！空中管制通訊中斷逾萬航班受影響- 新聞",
       "summary": [
         "MoneyDJ理財網：全美航班交通大亂！空中管制通訊中斷逾萬航班受影響- 新聞",
@@ -182,7 +203,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "美中俄領袖APEC期間首度三方峰會　核武與伊朗戰爭成焦點",
       "summary": [
         "自由時報：美中俄領袖APEC期間首度三方峰會　核武與伊朗戰爭成焦點",
@@ -199,27 +220,6 @@
           "source": "經濟日報",
           "title": "美中俄領袖APEC期間首度三方峰會　核武與伊朗戰爭成焦點",
           "url": "https://money.udn.com/money/story/5599/9879317"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "輝達兩大股東籲審慎評估領導人選　黃仁勳回任列入考量",
-      "summary": [
-        "自由時報：輝達兩大股東籲審慎評估領導人選　黃仁勳回任列入考量",
-        "經濟日報：輝達兩大股東籲審慎評估領導人選　黃仁勳回任列入考量"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "輝達兩大股東籲審慎評估領導人選　黃仁勳回任列入考量",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5641143"
-        },
-        {
-          "source": "經濟日報",
-          "title": "輝達兩大股東籲審慎評估領導人選　黃仁勳回任列入考量",
-          "url": "https://money.udn.com/money/story/123398/9879319"
         }
       ]
     }
@@ -400,31 +400,31 @@
     },
     {
       "rank": 9,
-      "title": "澤連斯基：普京並不支援停火，不會同意在憲法中確立中立地位",
+      "title": "停擺超過24小時：微軟全球大宕機結束",
       "summary": [
-        "法廣RFI：澤連斯基：普京並不支援停火，不會同意在憲法中確立中立地位"
+        "德國之聲：停擺超過24小時：微軟全球大宕機結束"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "澤連斯基：普京並不支援停火，不會同意在憲法中確立中立地位",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261114-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E6%99%AE%E4%BA%AC%E4%B8%A6%E4%B8%8D%E6%94%AF%E6%8C%81%E5%81%9C%E7%81%AB%EF%BC%8C%E4%B8%8D%E6%9C%83%E5%90%8C%E6%84%8F%E5%9C%A8%E6%86%B2%E6%B3%95%E4%B8%AD%E7%A2%BA%E7%AB%8B%E4%B8%AD%E7%AB%8B%E5%9C%B0%E4%BD%8D"
+          "source": "德國之聲",
+          "title": "停擺超過24小時：微軟全球大宕機結束",
+          "url": "https://www.dw.com/zh/停摆超过24小时：微软全球大宕机结束/a-79948266?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "日本國足擊敗巴西隊，復仇世界盃勝利",
+      "title": "天皇陛下和皇后陛下在大阪會見參加造海競賽的人們",
       "summary": [
-        "NHK新聞：日本國足擊敗巴西隊，復仇世界盃勝利"
+        "NHK新聞：天皇陛下和皇后陛下在大阪會見參加造海競賽的人們"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "日本國足擊敗巴西隊，復仇世界盃勝利",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75990"
+          "title": "天皇陛下和皇后陛下在大阪會見參加造海競賽的人們",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75988"
         }
       ]
     }
