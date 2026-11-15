@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 17:26",
+  "updated_at": "2026-11-15 17:55",
   "taiwan": [
     {
       "rank": 1,
@@ -94,27 +94,6 @@
     },
     {
       "rank": 4,
-      "title": "美資深記者：中國施壓外媒 淡化臺灣國家地位",
-      "summary": [
-        "自由時報：美資深記者：中國施壓外媒 淡化臺灣國家地位",
-        "風傳媒：央視前主播成蕾：在中國當記者，最難的不是採訪而是「自由」 | 中央社 | 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美資深記者：中國施壓外媒 淡化臺灣國家地位",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1778496"
-        },
-        {
-          "source": "風傳媒",
-          "title": "央視前主播成蕾：在中國當記者，最難的不是採訪而是「自由」 | 中央社 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yRE1mSjY5RWE3QW9LNUlVS091dDdGNElweXRtdm5XdGtCb21iRjhfbzI0NGo3ZmZvb1hJRmcyZC1WTWlMVGJhLThCR1BDZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "美國失去麻疹清零地位　疫情升溫數十年來最嚴重",
       "summary": [
         "經濟日報：美國失去麻疹清零地位　疫情升溫數十年來最嚴重",
@@ -135,7 +114,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "蘇巧慧造勢撞斷門牙 沈伯洋：「她很堅強」電話中還一直開玩笑",
       "summary": [
         "自由時報：蘇巧慧造勢撞斷門牙 沈伯洋：「她很堅強」電話中還一直開玩笑",
@@ -156,7 +135,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "蔣萬安競辦告許淑華 沈伯洋：沒必要、別再把東發號捲進來",
       "summary": [
         "自由時報：蔣萬安競辦告許淑華 沈伯洋：沒必要、別再把東發號捲進來",
@@ -177,7 +156,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "蘇巧慧造勢遭神將撞斷門牙！廖大乙示警揭玄機「應避免1事」",
       "summary": [
         "中時新聞：蘇巧慧造勢遭神將撞斷門牙！廖大乙示警揭玄機「應避免1事」",
@@ -198,7 +177,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "U23世界盃》臺鋼新星、富邦大物開轟！臺灣打爆委內瑞拉仍無緣爭冠",
       "summary": [
         "自由時報：U23世界盃》臺鋼新星、富邦大物開轟！臺灣打爆委內瑞拉仍無緣爭冠",
@@ -219,7 +198,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "中華電信帳單金額異常暴增！大批使用者收簡訊崩潰：客服打不通",
       "summary": [
         "中時新聞：中華電信帳單金額異常暴增！大批使用者收簡訊崩潰：客服打不通",
@@ -236,6 +215,27 @@
           "source": "自由時報",
           "title": "中華電信爆災情！大批使用者傻眼收2倍帳單  門市急貼公告認出包",
           "url": "https://3c.ltn.com.tw/news/68294"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
+      "summary": [
+        "ETtoday：快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
+        "中時新聞：亞冠賽》5下反擊狂敲安打 季軍賽中華4：6不敵澳洲"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／中華隊亞冠賽首度墊底留遺憾！　澳洲奪季軍",
+          "url": "https://sports.ettoday.net/news/3272469"
+        },
+        {
+          "source": "中時新聞",
+          "title": "亞冠賽》5下反擊狂敲安打 季軍賽中華4：6不敵澳洲",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HMzU5cmIzQmpOTHVuaWk0endDdDZQbzNINVpiVHZITjJfdlk1MUtNQVAxMDNIaG9mYWtMcnpxYW1xbWpPdXRVLVJMaWF2Z29BUzBwZElvWGNfQTlMMFA3Q0RwYjlTM1ZBYmdURk1R?oc=5"
         }
       ]
     }
@@ -285,111 +285,6 @@
     },
     {
       "rank": 3,
-      "title": "特習會在即，美農民關注農產品貿易和關稅問題",
-      "summary": [
-        "法廣RFI：特習會在即，美農民關注農產品貿易和關稅問題"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "特習會在即，美農民關注農產品貿易和關稅問題",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261114-%E7%89%B9%E7%BF%92%E6%9C%83%E5%9C%A8%E5%8D%B3%EF%BC%8C%E7%BE%8E%E8%BE%B2%E6%B0%91%E9%97%9C%E6%B3%A8%E8%BE%B2%E7%94%A2%E5%93%81%E8%B2%BF%E6%98%93%E5%92%8C%E9%97%9C%E7%A8%85%E5%95%8F%E9%A1%8C"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "因飛機停飛 美國騷亂持續14日",
-      "summary": [
-        "NHK新聞：因飛機停飛 美國騷亂持續14日"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "因飛機停飛 美國騷亂持續14日",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76032"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "新當選眾議院民主黨議員因涉嫌性騷擾接受調查",
-      "summary": [
-        "Washington Post：新當選眾議院民主黨議員因涉嫌性騷擾接受調查"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "新當選眾議院民主黨議員因涉嫌性騷擾接受調查",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcDJtN1NWaGJIN1BsXzVOS21EdDVLTnE0dHRERGdVWkJ0RWVIUE0zVXRoalhVNjBOdTRzMjd2dVo1YnlGVWdUREJUdDFJSnMzUHhOMDh5NEFHMWx4MGNiSzYyRXNMWTY5eGFNdTA3RG5kY3VFOUswdWFidFZnZTJBUlNMTVctZXhKWFlja3BTOWtDM01yMW93QWI2S0FqR3JPWDA0cDRYb05rTU9fc3h6TzNOV2JoaHkwOVE?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "我今年 63 歲，花了 95,000 美元為我價值 50 萬美元的房子買了一個屋頂平臺。這是一項好的投資嗎？",
-      "summary": [
-        "MarketWatch：我今年 63 歲，花了 95,000 美元為我價值 50 萬美元的房子買了一個屋頂平臺。這是一項好的投資嗎？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "MarketWatch",
-          "title": "我今年 63 歲，花了 95,000 美元為我價值 50 萬美元的房子買了一個屋頂平臺。這是一項好的投資嗎？",
-          "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "俄羅斯股市收盤走低； MOEX 俄羅斯指數不變",
-      "summary": [
-        "Investing.com：俄羅斯股市收盤走低； MOEX 俄羅斯指數不變"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "俄羅斯股市收盤走低； MOEX 俄羅斯指數不變",
-          "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5027517"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "馬斯克 (Elon Musk) 和其他科技簽署請願書，呼籲 Nvidia 恢復黃仁勳 (Jensen Huang) 的職位",
-      "summary": [
-        "TechCrunch：馬斯克 (Elon Musk) 和其他科技簽署請願書，呼籲 Nvidia 恢復黃仁勳 (Jensen Huang) 的職位"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "馬斯克 (Elon Musk) 和其他科技簽署請願書，呼籲 Nvidia 恢復黃仁勳 (Jensen Huang) 的職位",
-          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "觀看 SpaceX成功首次成功執行「筷子」捕獲星艦",
-      "summary": [
-        "The Verge：觀看 SpaceX成功首次成功執行「筷子」捕獲星艦"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "觀看 SpaceX成功首次成功執行「筷子」捕獲星艦",
-          "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "柏林的《日報》：黃仁勳事件可能會損害北京的利益",
       "summary": [
         "法廣RFI：柏林的《日報》：黃仁勳事件可能會損害北京的利益"
@@ -400,6 +295,111 @@
           "source": "法廣RFI",
           "title": "柏林的《日報》：黃仁勳事件可能會損害北京的利益",
           "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261114-%E6%9F%8F%E6%9E%97%E7%9A%84-%E6%97%A5%E5%A0%B1-%E9%BB%83%E4%BB%81%E5%8B%B3%E4%BA%8B%E4%BB%B6%E5%8F%AF%E8%83%BD%E6%9C%83%E6%90%8D%E5%AE%B3%E5%8C%97%E4%BA%AC%E7%9A%84%E5%88%A9%E7%9B%8A"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "債券市場剛剛開啟人工智慧交易——晶片股在兩天內損失超過 6,500 億美元：每日圖表",
+      "summary": [
+        "Yahoo Finance：債券市場剛剛開啟人工智慧交易——晶片股在兩天內損失超過 6,500 億美元：每日圖表"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "債券市場剛剛開啟人工智慧交易——晶片股在兩天內損失超過 6,500 億美元：每日圖表",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUGx6b2tReFJJeS1mOFByMGtZUkZtZnhabFVpWDJDN0VoY3BhV3BldGNRNzNGQjlfQTV3YWEzeklJQTVMNW1adWhSamJsX2JyZGl2c0NPdE9zNXJaWDNaM3c5a0FyaWtIQlNJUG1DZTAzNDhmR3V4akZmbkxHUkNQSFFSM0ZKRmV2OG03NmJENEZDdXdzTjRjLUloTFZwQ0hwZkJNQ2VPYk1wSVJUbjZkTUtOdnNMUDdOZXNFN2FJVDNnWHhKS3RYYnhtd0d0MVR2ek4tZ1llekpqUVZ3S1VvUnZETjEwNE9Va0VLR3lNTUNyZ1YxWmMydFlKVG5ELVlSRjM4?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "SpaceX 剛剛失去了一艘星艦助推器。火箭實驗室股票是更好的選擇嗎？",
+      "summary": [
+        "Yahoo Finance：SpaceX 剛剛失去了一艘星艦助推器。火箭實驗室股票是更好的選擇嗎？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "SpaceX 剛剛失去了一艘星艦助推器。火箭實驗室股票是更好的選擇嗎？",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUTRpNHduZWk1YlZqVy02a3hpOUxsSjlMbDRPeVVUbGUwTGJmZFVsQW96RW1vZlpYR3dVWjVtY1QzaWg0WGx2YkdSU0NWYXVBVU4xV0NjeVliRnpHMmxSWlFyd1dTRkp4MmlWakNhWGJtRDM5WFIxT2dHWmhyenNrMlo0bnpGOE5lT2pxZkNMaDZEYzd1VDJ6T2VsVmJNMFU?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "有 1,000 美元可投資嗎？跳過可口可樂和百事可樂。這種股息收益率為 4% 的股票可以在 10 年內實現 160% 的回報。",
+      "summary": [
+        "Yahoo Finance：有 1,000 美元可投資嗎？跳過可口可樂和百事可樂。這種股息收益率為 4% 的股票可以在 10 年內實現 160% 的回報。"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "有 1,000 美元可投資嗎？跳過可口可樂和百事可樂。這種股息收益率為 4% 的股票可以在 10 年內實現 160% 的回報。",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNmxYU1RnTDRsQ3JCemR1UmxRcmF3V0VIeHVFVVlyRWJfU1BiMUhvdG5Ba0RBZGpDZWNDdTc1cmpvVzBXdS1reWcxeVRaaTJnMDI0Y1lqMDNXRUd5R25HcTNrcmpwV2RUYUROMWtzT19lV21Hd3pheEtvSy1EaVF3ZUlKcllMVmFGckU1ZlAwWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Digital Realty Trust 執行長：將在日本資料中心追加投資 100 億美元",
+      "summary": [
+        "Nikkei Asia：Digital Realty Trust 執行長：將在日本資料中心追加投資 100 億美元"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Digital Realty Trust 執行長：將在日本資料中心追加投資 100 億美元",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVXRhMHZGQVAtYjRBT081VlBwZlA5VkVvcnJidUtaWTA5OHJ5cXVIWTR6cUVnYnlkMG5yd1k4Y3RmWExVM05XSjdUd0ZETWRPVklwdDk4eFl6aG5qcHZJOGE1dEhmQW9Tc3JTSTFaeWwxZzgxWUpDNTlKM1hNdk5nZmZ5bll4czN5Q0M2cGFMT3YzdFRWLTBFQ0tLRVI2SUpUSmx1VE5vTXNxeVlkUDlDZFMxOUNwalFUdFppRF9lUU1LcHQ1R19uSGFWclZQdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "尤田惠被綁架 49 年後，咲江說：“我想見你。”",
+      "summary": [
+        "NHK新聞：尤田惠被綁架 49 年後，咲江說：“我想見你。”"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "尤田惠被綁架 49 年後，咲江說：“我想見你。”",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75986"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "美國報告 2026 年至少有 10 人因麻疹死亡",
+      "summary": [
+        "Washington Post：美國報告 2026 年至少有 10 人因麻疹死亡"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "美國報告 2026 年至少有 10 人因麻疹死亡",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTZTUWJYdGhjMV9QMndzYi1kRURCUXZPRWZnN3hfeTZQY2NzOVNhcXltb0lucVR1UThmVEg0aHVRVmM5Y2ptdFE5NGJ3aHVYUHFNbTdxV1JRcmh3bkVGS0d3elVGWUZ3S1lZUGY1TWRTT1RuR19KWlBRdFdUNWdoUEJoWG1Mb3pwMTIzQUo2ZUM2SWc?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "藍色浪潮後，中東君主國準備迎接川普的腐敗審查",
+      "summary": [
+        "Washington Post：藍色浪潮後，中東君主國準備迎接川普的腐敗審查"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "藍色浪潮後，中東君主國準備迎接川普的腐敗審查",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdUZYekFGSlJsOEhmVU5FR1pWdUd5UTgxblZOd1Zid2dXZmMzc1pFVk1JUVZnZU9pa3JaTGFNaE1IaHgyTEJZMjY0SFlBelRvT0pEVGlPMEk3cy05NC1ZU0cxT2o5dzRWaThHSUtnMkd0dG9FZlZ0S3FzMFdPMTB3YktuNjVtV05LRThlNjBPYlEtV3o3M050QnJ5MjJfS0dDS1ZZRWJB?oc=5"
         }
       ]
     }
