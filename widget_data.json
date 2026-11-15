@@ -1,8 +1,40 @@
 {
-  "updated_at": "2026-11-15 13:25",
+  "updated_at": "2026-11-15 13:55",
   "taiwan": [
     {
       "rank": 1,
+      "title": "SpaceX首度完成太空船捕捉回收　星艦返回發射臺",
+      "summary": [
+        "經濟日報：SpaceX首度完成太空船捕捉回收　星艦返回發射臺",
+        "ETtoday：SpaceX創歷史首次！　星艦由發射塔機械手臂成功回收",
+        "自由時報：SpaceX首度完成太空船捕捉回收 星艦返回發射臺"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "SpaceX首度完成太空船捕捉回收　星艦返回發射臺",
+          "url": "https://money.udn.com/money/story/5599/9879383"
+        },
+        {
+          "source": "ETtoday",
+          "title": "SpaceX創歷史首次！　星艦由發射塔機械手臂成功回收",
+          "url": "https://www.ettoday.net/news/20261115/3272391.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "SpaceX首度完成太空船捕捉回收 星艦返回發射臺",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641155"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "史上第一次！SpaceX 首度成功回收自軌道返航的 Starship 上節",
+          "url": "https://www.inside.com.tw/article/42915-spacex-starship-ship-42-first-orbital-upper-stage-tower-catch-flight-15"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
       "summary": [
         "自由時報：全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
@@ -29,61 +61,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "國中軟聯連3屆上演同縣市內戰！長安、敦化爭冠　金盃確定留臺北",
-      "summary": [
-        "ETtoday：國中軟聯連3屆上演同縣市內戰！長安、敦化爭冠　金盃確定留臺北",
-        "關鍵評論網：《鬼島．鬼導：臺灣靈異大小事》書評：德國學者筆下的臺灣幽冥與人文關懷",
-        "MoneyDJ理財網：聯德控股-KY 115年第3季綜合損益表，每股盈餘2.09元"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "國中軟聯連3屆上演同縣市內戰！長安、敦化爭冠　金盃確定留臺北",
-          "url": "https://sports.ettoday.net/news/3272377"
-        },
-        {
-          "source": "關鍵評論網",
-          "title": "《鬼島．鬼導：臺灣靈異大小事》書評：德國學者筆下的臺灣幽冥與人文關懷",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FMUdSQUVlTFVoRnlYdkJac2NQMEFNRS04SXp6bUM2cEFFVEsxRHJnTHYtOW1GMlVxRUozMGdpVF9YNHE5LS1rVXNVQzBxemVGQ3FPSA?oc=5"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "聯德控股-KY 115年第3季綜合損益表，每股盈餘2.09元",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdVgxOHI0VXlpRl8tTTVNdF83dlloMFNxTlNjbWMzRW5SX3diZzR4S2tWU0FiemxWaHRKMjRzM0lxdTM0YlVyX2VMczZZbnZMVHdEU1J4Yi1lY3dQajNRb21DWHYyYm9SUTRWOFhhZkV3dUVGWlQyd0Q0RVVXd3ZxODRjYW94M3lQUWcyZlQwbWNudw?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 3,
-      "title": "SpaceX首度完成太空船捕捉回收　星艦返回發射臺",
-      "summary": [
-        "經濟日報：SpaceX首度完成太空船捕捉回收　星艦返回發射臺",
-        "ETtoday：SpaceX創歷史首次！　星艦由發射塔機械手臂成功回收",
-        "自由時報：SpaceX首度完成太空船捕捉回收 星艦返回發射臺"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "SpaceX首度完成太空船捕捉回收　星艦返回發射臺",
-          "url": "https://money.udn.com/money/story/5599/9879383"
-        },
-        {
-          "source": "ETtoday",
-          "title": "SpaceX創歷史首次！　星艦由發射塔機械手臂成功回收",
-          "url": "https://www.ettoday.net/news/20261115/3272391.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "SpaceX首度完成太空船捕捉回收 星艦返回發射臺",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641155"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "挺黃仁勳連署破11萬人！名單竟出現黃樂　主辦單位回應了",
       "summary": [
         "ETtoday：挺黃仁勳連署破11萬人！名單竟出現黃樂　主辦單位回應了",
@@ -110,7 +88,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "美中俄領袖APEC期間首度三方峰會　核武與伊朗戰爭成焦點",
       "summary": [
         "自由時報：美中俄領袖APEC期間首度三方峰會　核武與伊朗戰爭成焦點",
@@ -131,7 +109,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "輝達兩大股東籲審慎評估領導人選　黃仁勳回任列入考量",
       "summary": [
         "自由時報：輝達兩大股東籲審慎評估領導人選　黃仁勳回任列入考量",
@@ -152,7 +130,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "馬克宏批限縮援助烏克蘭形同認輸　恐釀新戰爭",
       "summary": [
         "自由時報：馬克宏批限縮援助烏克蘭形同認輸　恐釀新戰爭",
@@ -173,7 +151,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美資深記者：中國施壓外媒 淡化臺灣國家地位",
       "summary": [
         "自由時報：美資深記者：中國施壓外媒 淡化臺灣國家地位",
@@ -194,7 +172,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "美國失去麻疹清零地位　疫情升溫數十年來最嚴重",
       "summary": [
         "經濟日報：美國失去麻疹清零地位　疫情升溫數十年來最嚴重",
@@ -215,7 +193,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "蘇巧慧造勢撞斷門牙 沈伯洋：「她很堅強」電話中還一直開玩笑",
       "summary": [
         "自由時報：蘇巧慧造勢撞斷門牙 沈伯洋：「她很堅強」電話中還一直開玩笑",
@@ -232,6 +210,27 @@
           "source": "ETtoday",
           "title": "蘇巧慧撞斷門牙　沈伯洋不捨：她很堅強、電話中一直開玩笑",
           "url": "https://www.ettoday.net/news/20261115/3272408.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "《鬼島．鬼導：臺灣靈異大小事》書評：德國學者筆下的臺灣幽冥與人文關懷",
+      "summary": [
+        "關鍵評論網：《鬼島．鬼導：臺灣靈異大小事》書評：德國學者筆下的臺灣幽冥與人文關懷",
+        "MoneyDJ理財網：聯德控股-KY 115年第3季綜合損益表，每股盈餘2.09元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "關鍵評論網",
+          "title": "《鬼島．鬼導：臺灣靈異大小事》書評：德國學者筆下的臺灣幽冥與人文關懷",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FMUdSQUVlTFVoRnlYdkJac2NQMEFNRS04SXp6bUM2cEFFVEsxRHJnTHYtOW1GMlVxRUozMGdpVF9YNHE5LS1rVXNVQzBxemVGQ3FPSA?oc=5"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "聯德控股-KY 115年第3季綜合損益表，每股盈餘2.09元",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdVgxOHI0VXlpRl8tTTVNdF83dlloMFNxTlNjbWMzRW5SX3diZzR4S2tWU0FiemxWaHRKMjRzM0lxdTM0YlVyX2VMczZZbnZMVHdEU1J4Yi1lY3dQajNRb21DWHYyYm9SUTRWOFhhZkV3dUVGWlQyd0Q0RVVXd3ZxODRjYW94M3lQUWcyZlQwbWNudw?oc=5"
         }
       ]
     }
@@ -334,91 +333,91 @@
     },
     {
       "rank": 5,
-      "title": "美國運輸部長稱銅線升級導致全國航班停飛",
+      "title": "四成「陸配」參選遭剔除，身分「法理死結」如何困住參政之路？",
       "summary": [
-        "BBC World：美國運輸部長稱銅線升級導致全國航班停飛"
+        "BBC中文：四成「陸配」參選遭剔除，身分「法理死結」如何困住參政之路？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "BBC World",
-          "title": "美國運輸部長稱銅線升級導致全國航班停飛",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+          "source": "BBC中文",
+          "title": "四成「陸配」參選遭剔除，身分「法理死結」如何困住參政之路？",
+          "url": "https://www.bbc.com/zhongwen/articles/cm4g1ynq5n5jo/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "全國的地面停止起飛、Nvidia 間諜醜聞、Starship 最長的試飛",
+      "title": "「政二代」蘇巧慧對決「專業副手」李四川，誰能拿下新北？",
       "summary": [
-        "Bloomberg Markets：全國的地面停止起飛、Nvidia 間諜醜聞、Starship 最長的試飛"
+        "BBC中文：「政二代」蘇巧慧對決「專業副手」李四川，誰能拿下新北？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "全國的地面停止起飛、Nvidia 間諜醜聞、Starship 最長的試飛",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video"
+          "source": "BBC中文",
+          "title": "「政二代」蘇巧慧對決「專業副手」李四川，誰能拿下新北？",
+          "url": "https://www.bbc.com/zhongwen/articles/cm9wzeg8ql22o/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "兩大投資者敦促英偉達董事會考慮“黃仁勳的潛在回報”",
+      "title": "「九合一」五大看點：「洋流」能否撼動臺北？誰在卡位2028？",
       "summary": [
-        "CNBC：兩大投資者敦促英偉達董事會考慮“黃仁勳的潛在回報”"
+        "BBC中文：「九合一」五大看點：「洋流」能否撼動臺北？誰在卡位2028？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "CNBC",
-          "title": "兩大投資者敦促英偉達董事會考慮“黃仁勳的潛在回報”",
-          "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
+          "source": "BBC中文",
+          "title": "「九合一」五大看點：「洋流」能否撼動臺北？誰在卡位2028？",
+          "url": "https://www.bbc.com/zhongwen/articles/cm8xzrg40dq1o/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "這就是伯尼·桑德斯希望「幾代人」保持社會保障償付能力的方式",
+      "title": "臺灣「北藍南綠」的政治版圖是否「鐵板一塊」？",
       "summary": [
-        "MarketWatch：這就是伯尼·桑德斯希望「幾代人」保持社會保障償付能力的方式"
+        "BBC中文：臺灣「北藍南綠」的政治版圖是否「鐵板一塊」？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "MarketWatch",
-          "title": "這就是伯尼·桑德斯希望「幾代人」保持社會保障償付能力的方式",
-          "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories"
+          "source": "BBC中文",
+          "title": "臺灣「北藍南綠」的政治版圖是否「鐵板一塊」？",
+          "url": "https://www.bbc.com/zhongwen/articles/c3n07pkpk5ggo/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "退休人員應該是中期選舉的最大受益者：“民主黨將握緊對老化和公共政策至關重要的每一把木槌”",
+      "title": "從科技巨星到跌落神壇——黃仁勳如何深陷醜聞漩渦？",
       "summary": [
-        "MarketWatch：退休人員應該是中期選舉的最大受益者：“民主黨將握緊對老化和公共政策至關重要的每一把木槌”"
+        "BBC中文：從科技巨星到跌落神壇——黃仁勳如何深陷醜聞漩渦？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "MarketWatch",
-          "title": "退休人員應該是中期選舉的最大受益者：“民主黨將握緊對老化和公共政策至關重要的每一把木槌”",
-          "url": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories"
+          "source": "BBC中文",
+          "title": "從科技巨星到跌落神壇——黃仁勳如何深陷醜聞漩渦？",
+          "url": "https://www.bbc.com/zhongwen/articles/cm3wgp60p952o/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "50歲有醫療保險嗎？ 「更多醫療保險」對美國工人意味著什麼。",
+      "title": "德語媒體：黃仁勳下臺，美國對華政策趨於強硬？",
       "summary": [
-        "MarketWatch：50歲有醫療保險嗎？ 「更多醫療保險」對美國工人意味著什麼。"
+        "德國之聲：德語媒體：黃仁勳下臺，美國對華政策趨於強硬？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "MarketWatch",
-          "title": "50歲有醫療保險嗎？ 「更多醫療保險」對美國工人意味著什麼。",
-          "url": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories"
+          "source": "德國之聲",
+          "title": "德語媒體：黃仁勳下臺，美國對華政策趨於強硬？",
+          "url": "https://www.dw.com/zh/德语媒体：黄仁勋下台，美国对华政策趋于强硬？/a-79933341?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     }
