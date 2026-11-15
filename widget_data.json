@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-15 10:56",
+  "updated_at": "2026-11-15 11:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "《星村有喜事》屏東遺構公園熱鬧開席 重現眷村溫暖人情味",
-      "summary": [
-        "自由時報：《星村有喜事》屏東遺構公園熱鬧開席 重現眷村溫暖人情味",
-        "ETtoday：虎父無犬子！健行教頭劉孟竹南下助陣、劉衡4記三分彈助信義大勝",
-        "關鍵評論網：《鬼島．鬼導：臺灣靈異大小事》書評：德國學者筆下的臺灣幽冥與人文關懷"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "《星村有喜事》屏東遺構公園熱鬧開席 重現眷村溫暖人情味",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5641012"
-        },
-        {
-          "source": "ETtoday",
-          "title": "虎父無犬子！健行教頭劉孟竹南下助陣、劉衡4記三分彈助信義大勝",
-          "url": "https://sports.ettoday.net/news/3272304"
-        },
-        {
-          "source": "關鍵評論網",
-          "title": "《鬼島．鬼導：臺灣靈異大小事》書評：德國學者筆下的臺灣幽冥與人文關懷",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FMUdSQUVlTFVoRnlYdkJac2NQMEFNRS04SXp6bUM2cEFFVEsxRHJnTHYtOW1GMlVxRUozMGdpVF9YNHE5LS1rVXNVQzBxemVGQ3FPSA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
       "summary": [
         "自由時報：全美航班暫停起飛疑因裝置問題或人為失誤　15日恢復正常航班",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "SpaceX首度完成太空船捕捉回收　星艦返回發射臺",
       "summary": [
         "經濟日報：SpaceX首度完成太空船捕捉回收　星艦返回發射臺",
@@ -83,28 +56,28 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "曾聖安雙響砲帥到韓國！韓球迷讚嘆顏值　臺網友挖出胸肌焦點",
+      "rank": 3,
+      "title": "虎父無犬子！健行教頭劉孟竹南下助陣、劉衡4記三分彈助信義大勝",
       "summary": [
-        "ETtoday：曾聖安雙響砲帥到韓國！韓球迷讚嘆顏值　臺網友挖出胸肌焦點",
-        "自由時報：曾聖安帥到韓網暴動！臺灣網友曬胸肌照喊：是我先看到的"
+        "ETtoday：虎父無犬子！健行教頭劉孟竹南下助陣、劉衡4記三分彈助信義大勝",
+        "關鍵評論網：《鬼島．鬼導：臺灣靈異大小事》書評：德國學者筆下的臺灣幽冥與人文關懷"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "ETtoday",
-          "title": "曾聖安雙響砲帥到韓國！韓球迷讚嘆顏值　臺網友挖出胸肌焦點",
-          "url": "https://sports.ettoday.net/news/3272359"
+          "title": "虎父無犬子！健行教頭劉孟竹南下助陣、劉衡4記三分彈助信義大勝",
+          "url": "https://sports.ettoday.net/news/3272304"
         },
         {
-          "source": "自由時報",
-          "title": "曾聖安帥到韓網暴動！臺灣網友曬胸肌照喊：是我先看到的",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5641136"
+          "source": "關鍵評論網",
+          "title": "《鬼島．鬼導：臺灣靈異大小事》書評：德國學者筆下的臺灣幽冥與人文關懷",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FMUdSQUVlTFVoRnlYdkJac2NQMEFNRS04SXp6bUM2cEFFVEsxRHJnTHYtOW1GMlVxRUozMGdpVF9YNHE5LS1rVXNVQzBxemVGQ3FPSA?oc=5"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "韓國瑜大讚張善政溫暖：我們一個少林、一個武當- 政治",
       "summary": [
         "中時新聞：韓國瑜大讚張善政溫暖：我們一個少林、一個武當- 政治",
@@ -125,28 +98,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "全美航班交通大亂！空中管制通訊中斷逾萬航班受影響- 新聞",
-      "summary": [
-        "MoneyDJ理財網：全美航班交通大亂！空中管制通訊中斷逾萬航班受影響- 新聞",
-        "經濟日報：美國航空大癱瘓！超過2萬航班受影響 可能惹禍原因找到了"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "全美航班交通大亂！空中管制通訊中斷逾萬航班受影響- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX29mQ2g0RWhRYm04cU1xdnN1cW5KZjVqdDV3NjN2UDNVOGg1YnAtU1NRQlBiclZBMXBkeVl2dVl3WlhSNHNNRUxXdlVqQ2hYMnNjNHpvd0dHZDI1R3dFbTFSZ3UyTG8wZW4yWjZ3UXlBZld3Qmgyc0dVVzJuZ29wbU1NRXpVb0QtdFJTSmdMOVJWdw?oc=5"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美國航空大癱瘓！超過2萬航班受影響 可能惹禍原因找到了",
-          "url": "https://money.udn.com/money/story/5599/9879419"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "美中俄領袖APEC期間首度三方峰會　核武與伊朗戰爭成焦點",
       "summary": [
         "自由時報：美中俄領袖APEC期間首度三方峰會　核武與伊朗戰爭成焦點",
@@ -167,7 +119,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "輝達兩大股東籲審慎評估領導人選　黃仁勳回任列入考量",
       "summary": [
         "自由時報：輝達兩大股東籲審慎評估領導人選　黃仁勳回任列入考量",
@@ -188,7 +140,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "馬克宏批限縮援助烏克蘭形同認輸　恐釀新戰爭",
       "summary": [
         "自由時報：馬克宏批限縮援助烏克蘭形同認輸　恐釀新戰爭",
@@ -209,7 +161,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "美國失去麻疹清零地位　疫情升溫數十年來最嚴重",
       "summary": [
         "經濟日報：美國失去麻疹清零地位　疫情升溫數十年來最嚴重",
@@ -226,6 +178,48 @@
           "source": "ETtoday",
           "title": "美國失去麻疹清零地位　今年逾5400人染疫創數十年新高",
           "url": "https://www.ettoday.net/news/20261115/3272397.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "蘇巧慧造勢撞斷門牙 沈伯洋：「她很堅強」電話中還一直開玩笑",
+      "summary": [
+        "自由時報：蘇巧慧造勢撞斷門牙 沈伯洋：「她很堅強」電話中還一直開玩笑",
+        "ETtoday：蘇巧慧撞斷門牙　沈伯洋不捨：她很堅強、電話中一直開玩笑"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "蘇巧慧造勢撞斷門牙 沈伯洋：「她很堅強」電話中還一直開玩笑",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641162"
+        },
+        {
+          "source": "ETtoday",
+          "title": "蘇巧慧撞斷門牙　沈伯洋不捨：她很堅強、電話中一直開玩笑",
+          "url": "https://www.ettoday.net/news/20261115/3272408.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "蔣萬安競辦告許淑華 沈伯洋：沒必要、別再把東發號捲進來",
+      "summary": [
+        "自由時報：蔣萬安競辦告許淑華 沈伯洋：沒必要、別再把東發號捲進來",
+        "ETtoday：許淑華爆蔣萬安白吃白喝挨告　沈伯洋：別再把東發號捲進來"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "蔣萬安競辦告許淑華 沈伯洋：沒必要、別再把東發號捲進來",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641181"
+        },
+        {
+          "source": "ETtoday",
+          "title": "許淑華爆蔣萬安白吃白喝挨告　沈伯洋：別再把東發號捲進來",
+          "url": "https://www.ettoday.net/news/20261115/3272416.htm"
         }
       ]
     }
@@ -265,33 +259,6 @@
     },
     {
       "rank": 2,
-      "title": "義大利因獲取使用者照片而對 Meta 處以 8.05 億歐元罰款",
-      "summary": [
-        "Bloomberg Tech：義大利因獲取使用者照片而對 Meta 處以 8.05 億歐元罰款",
-        "Investing.com：Meta 因獲取 Android 使用者照片而被義大利罰款 8.05 億歐元",
-        "BBC World：Meta 因訪問使用者照片而被義大利罰款 8.05 億歐元"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "義大利因獲取使用者照片而對 Meta 處以 8.05 億歐元罰款",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-14/italy-fines-meta-805-million-over-access-to-users-photos"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Meta 因獲取 Android 使用者照片而被義大利罰款 8.05 億歐元",
-          "url": "https://www.investing.com/news/stock-market-news/italy-fines-meta-805-million-over-access-to-android-users-photos-5027370"
-        },
-        {
-          "source": "BBC World",
-          "title": "Meta 因訪問使用者照片而被義大利罰款 8.05 億歐元",
-          "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "菲律賓贏得首屆亞洲歐洲歌唱大賽冠軍",
       "summary": [
         "BBC World：菲律賓贏得首屆亞洲歐洲歌唱大賽冠軍",
@@ -318,7 +285,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "隨著航空旅行系統從關閉狀態恢復，數千美國航班取消、延誤",
       "summary": [
         "Investing.com：隨著航空旅行系統從關閉狀態恢復，數千美國航班取消、延誤",
@@ -339,7 +306,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "馬斯克（Elon Musk）與 10 萬多名簽名者共同簽署了一份請願書，要求黃仁勳復職，其中包括 5,000 多個自稱在 Nvidia 工作的人",
       "summary": [
         "Yahoo Finance：馬斯克（Elon Musk）與 10 萬多名簽名者共同簽署了一份請願書，要求黃仁勳復職，其中包括 5,000 多個自稱在 Nvidia 工作的人",
@@ -360,22 +327,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "[地震速報] 熊本縣地震強度3級",
-      "summary": [
-        "NHK新聞：[地震速報] 熊本縣地震強度3級"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "[地震速報] 熊本縣地震強度3級",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76024"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "達菲調查 L3Harris 因 FAA 停電導緻美國航班停飛",
       "summary": [
         "Investing.com：達菲調查 L3Harris 因 FAA 停電導緻美國航班停飛"
@@ -390,47 +342,77 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "以頓巴斯換北約？澤連斯基：可交全民公投",
+      "rank": 6,
+      "title": "高市首相提議並與東南亞等國協調建立“亞洲版IEA”",
       "summary": [
-        "德國之聲：以頓巴斯換北約？澤連斯基：可交全民公投"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "以頓巴斯換北約？澤連斯基：可交全民公投",
-          "url": "https://www.dw.com/zh/以顿巴斯换北约？泽连斯基：可交全民公投/a-79948962?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "26年紀錄終結！美國失去“消除麻疹”地位",
-      "summary": [
-        "德國之聲：26年紀錄終結！美國失去“消除麻疹”地位"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "26年紀錄終結！美國失去“消除麻疹”地位",
-          "url": "https://www.dw.com/zh/26年纪录终结！美国失去-消除麻疹-地位/a-79948420?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "日本橄欖球國家隊 x 英格蘭 [突發新聞預定 1:40] 聖地比賽",
-      "summary": [
-        "NHK新聞：日本橄欖球國家隊 x 英格蘭 [突發新聞預定 1:40] 聖地比賽"
+        "NHK新聞：高市首相提議並與東南亞等國協調建立“亞洲版IEA”"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "日本橄欖球國家隊 x 英格蘭 [突發新聞預定 1:40] 聖地比賽",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261114de75976"
+          "title": "高市首相提議並與東南亞等國協調建立“亞洲版IEA”",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261114de76011"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "中國的情報行動如何瞄準科技",
+      "summary": [
+        "Bloomberg Markets：中國的情報行動如何瞄準科技"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "中國的情報行動如何瞄準科技",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "ETF 專家表示，英偉達的動盪和民主黨國會將如何重塑人工智慧產業",
+      "summary": [
+        "CNBC：ETF 專家表示，英偉達的動盪和民主黨國會將如何重塑人工智慧產業"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "ETF 專家表示，英偉達的動盪和民主黨國會將如何重塑人工智慧產業",
+          "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "美財長質疑英偉達是否故意向空殼公司出售AI GPU 表示公司本身負有責任",
+      "summary": [
+        "Tom's Hardware：美財長質疑英偉達是否故意向空殼公司出售AI GPU 表示公司本身負有責任"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "美財長質疑英偉達是否故意向空殼公司出售AI GPU 表示公司本身負有責任",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "我們在 Gears of War: E-Day 中測試了節省 RAM 的儲存技術 — 高達 3.7 GB/s 的 SSD 串流速度可節省數 GB 的系統 RAM 使用量",
+      "summary": [
+        "Tom's Hardware：我們在 Gears of War: E-Day 中測試了節省 RAM 的儲存技術 — 高達 3.7 GB/s 的 SSD 串流速度可節省數 GB 的系統 RAM 使用量"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "我們在 Gears of War: E-Day 中測試了節省 RAM 的儲存技術 — 高達 3.7 GB/s 的 SSD 串流速度可節省數 GB 的系統 RAM 使用量",
+          "url": "https://www.tomshardware.com/pc-components/ssds/we-tested-the-ram-saving-storage-tech-in-gears-of-war-e-day-up-to-3-7-gb-s-of-ssd-streaming-speed-saves-several-gigabytes-of-system-ram-usage"
         }
       ]
     }
