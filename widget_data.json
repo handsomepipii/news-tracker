@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 02:57",
+  "updated_at": "2026-11-17 03:27",
   "taiwan": [
     {
       "rank": 1,
@@ -211,27 +211,6 @@
     },
     {
       "rank": 9,
-      "title": "漢測與德國裝置大廠 ficonTEC 深化合作，搶攻矽光子測試商機",
-      "summary": [
-        "科技新報：漢測與德國裝置大廠 ficonTEC 深化合作，搶攻矽光子測試商機",
-        "自由時報：漢測攜手德國ficonTEC深化策略合作 擴大矽光子測試佈局"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "漢測與德國裝置大廠 ficonTEC 深化合作，搶攻矽光子測試商機",
-          "url": "https://technews.tw/2026/11/16/htsi-ficontec-cpo-cooperation/"
-        },
-        {
-          "source": "自由時報",
-          "title": "漢測攜手德國ficonTEC深化策略合作 擴大矽光子測試佈局",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5642748"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "加拿大總理卡尼：美加貿易談判若破局，可能轉與中國車廠合作",
       "summary": [
         "科技新報：加拿大總理卡尼：美加貿易談判若破局，可能轉與中國車廠合作",
@@ -248,6 +227,27 @@
           "source": "經濟日報",
           "title": "加拿大總理卡尼：美加貿易談判若破局　可能轉與中國車廠合作",
           "url": "https://money.udn.com/money/story/5599/9881974"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "秦慧珠嘆藍軍會「含淚投票」　蔣萬安諷：不需要貶低自己的情緒",
+      "summary": [
+        "ETtoday：秦慧珠嘆藍軍會「含淚投票」　蔣萬安諷：不需要貶低自己的情緒",
+        "自由時報：秦慧珠稱藍軍「含淚投票」 蔣萬安：不需貶低自己城市"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "秦慧珠嘆藍軍會「含淚投票」　蔣萬安諷：不需要貶低自己的情緒",
+          "url": "https://www.ettoday.net/news/20261116/3273147.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "秦慧珠稱藍軍「含淚投票」 蔣萬安：不需貶低自己城市",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5642914"
         }
       ]
     }
