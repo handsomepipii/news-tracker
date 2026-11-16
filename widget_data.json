@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 21:00",
+  "updated_at": "2026-11-16 21:27",
   "taiwan": [
     {
       "rank": 1,
@@ -126,27 +126,6 @@
     },
     {
       "rank": 6,
-      "title": "罕見！日本福岡市長選舉沒結果 13名候選人未取得法定門檻票數",
-      "summary": [
-        "自由時報：罕見！日本福岡市長選舉沒結果 13名候選人未取得法定門檻票數",
-        "經濟日報：福岡市長選舉陷入混戰　13名候選人均未當選"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "罕見！日本福岡市長選舉沒結果 13名候選人未取得法定門檻票數",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5642048"
-        },
-        {
-          "source": "經濟日報",
-          "title": "福岡市長選舉陷入混戰　13名候選人均未當選",
-          "url": "https://money.udn.com/money/story/5599/9882117"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "特斯拉開放部分客戶購買 Cybercab，29,900 美元開賣",
       "summary": [
         "科技新報：特斯拉開放部分客戶購買 Cybercab，29,900 美元開賣",
@@ -167,7 +146,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "輝達據悉曾就員工涉嫌向中國大陸走私晶片一案向臺灣官員求助",
       "summary": [
         "經濟日報：輝達據悉曾就員工涉嫌向中國大陸走私晶片一案向臺灣官員求助",
@@ -188,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "全美航班大亂第3天　運輸部長：預計16日完全恢復正常",
       "summary": [
         "經濟日報：全美航班大亂第3天　運輸部長：預計16日完全恢復正常",
@@ -209,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "股東集體怒告英特爾！稱隱瞞 PC 銷售疲軟涉欺騙 害股價單日重挫近29%",
       "summary": [
         "經濟日報：股東集體怒告英特爾！稱隱瞞 PC 銷售疲軟涉欺騙 害股價單日重挫近29%",
@@ -228,6 +207,27 @@
           "url": "https://finance.technews.tw/2026/11/16/intel-hit-with-class-action-lawsuit-over-alleged-concealment-of-weak-pc-sales/"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "20261116 公視AI手語天氣報導 ｜東北季風北臺稍涼 迎風面區域性雨",
+      "summary": [
+        "公視新聞：20261116 公視AI手語天氣報導 ｜東北季風北臺稍涼 迎風面區域性雨",
+        "自由時報：低溫恐探11度！本週東北季風接力 吳德榮：「這天」起明顯降溫"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公視新聞",
+          "title": "20261116 公視AI手語天氣報導 ｜東北季風北臺稍涼 迎風面區域性雨",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0TG9rdlMyemhnZlpjTEJOeTlOOFlaNWhUNXZHVEI1YTBENUdncWY4dlB4VmJrVnVmMWVNV3RnaFdkV3NIN1hkanFpOA?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "低溫恐探11度！本週東北季風接力 吳德榮：「這天」起明顯降溫",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5642047"
+        }
+      ]
     }
   ],
   "global": [
@@ -236,7 +236,7 @@
       "title": "中國經濟全面放緩，未達預期",
       "summary": [
         "Bloomberg Markets：中國經濟全面放緩，未達預期",
-        "CNBC：由於工業產出、零售銷售、投資低於預期，中國十月經濟放緩加劇",
+        "CNBC：由於工業產出、零售銷售和投資未達預期，中國十月經濟放緩加劇",
         "Financial Times：中國10月經濟活動放緩幅度超乎預期"
       ],
       "media_count": 3,
@@ -248,7 +248,7 @@
         },
         {
           "source": "CNBC",
-          "title": "由於工業產出、零售銷售、投資低於預期，中國十月經濟放緩加劇",
+          "title": "由於工業產出、零售銷售和投資未達預期，中國十月經濟放緩加劇",
           "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
         },
         {
