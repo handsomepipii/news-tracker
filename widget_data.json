@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 13:27",
+  "updated_at": "2026-11-16 13:57",
   "taiwan": [
     {
       "rank": 1,
@@ -35,33 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "威宏-KY 115年第3季綜合損益表，每股盈餘1.71元",
-      "summary": [
-        "MoneyDJ理財網：威宏-KY 115年第3季綜合損益表，每股盈餘1.71元",
-        "自由時報：《臺北時報》 科技高層稱“英偉達愛臺灣”",
-        "工商時報：研揚董事長莊永順：邊緣AI迎新契機- 日報"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "威宏-KY 115年第3季綜合損益表，每股盈餘1.71元",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWkxzZ2lJVnNQeWlNejI5V2tHc1dtNlNpZk1TQkFacEIzM245Mk5LZE56TERsVEp6VFZQQnUzOVlyQUtGZk0ycTh5bUctSV9QZHVIcGtwdUtMM0tKSl8tcVFIRndMeFFVM0c3SjJrTjZ3NG5haElBNXNGdGdqZ19MZ3dqS21fby1vTkxBQnFUN3pjUQ?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "《臺北時報》 科技高層稱“英偉達愛臺灣”",
-          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5641933"
-        },
-        {
-          "source": "工商時報",
-          "title": "研揚董事長莊永順：邊緣AI迎新契機- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwYVpQWEVoanFmYm1qRmpkc3NnVFRKcDBTcnJlSG1tRHJwS3BoOFlXOFFKWnRYOXNSRkp3QkpjMjRVd1Q5MmdTMXowaG9meDFiR1p2TExrdmFrYW1iVjI4?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
       "summary": [
         "自由時報：美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
@@ -88,7 +61,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
@@ -109,7 +82,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "沒有延後 Rapidus：27年底至28年初量產2奈米-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：沒有延後 Rapidus：27年底至28年初量產2奈米-新聞內容-基金",
@@ -130,28 +103,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "美財長貝森特：輝達須「從公司外部」尋找新執行長",
-      "summary": [
-        "經濟日報：美財長貝森特：輝達須「從公司外部」尋找新執行長",
-        "ETtoday：美財長貝森特：輝達須「從公司外部」尋找新執行長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美財長貝森特：輝達須「從公司外部」尋找新執行長",
-          "url": "https://money.udn.com/money/story/5599/9880686"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美財長貝森特：輝達須「從公司外部」尋找新執行長",
-          "url": "https://www.ettoday.net/news/20261116/3272755.htm"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "SpaceX 首度完成太空船回收 NASA：更接近再次登月目標",
       "summary": [
         "經濟日報：SpaceX 首度完成太空船回收 NASA：更接近再次登月目標",
@@ -172,7 +124,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "韓稅務師榜首用 AI 眼鏡作弊 國考公平性成為焦點",
       "summary": [
         "經濟日報：韓稅務師榜首用 AI 眼鏡作弊 國考公平性成為焦點",
@@ -193,7 +145,28 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "title": "《臺北時報》 科技高層稱“英偉達愛臺灣”",
+      "summary": [
+        "自由時報：《臺北時報》 科技高層稱“英偉達愛臺灣”",
+        "工商時報：研揚董事長莊永順：邊緣AI迎新契機- 日報"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "《臺北時報》 科技高層稱“英偉達愛臺灣”",
+          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5641933"
+        },
+        {
+          "source": "工商時報",
+          "title": "研揚董事長莊永順：邊緣AI迎新契機- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwYVpQWEVoanFmYm1qRmpkc3NnVFRKcDBTcnJlSG1tRHJwS3BoOFlXOFFKWnRYOXNSRkp3QkpjMjRVd1Q5MmdTMXowaG9meDFiR1p2TExrdmFrYW1iVjI4?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "71歲林美照竟是「地產女福星」！買房神準「入住半年必漲」 親吐定居林口3年唯一煩惱",
       "summary": [
         "自由時報：71歲林美照竟是「地產女福星」！買房神準「入住半年必漲」 親吐定居林口3年唯一煩惱",
@@ -214,7 +187,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "臺南安南07:47發生規模4.0地震 最大震度3級",
       "summary": [
         "自由時報：臺南安南07:47發生規模4.0地震 最大震度3級",
@@ -231,6 +204,27 @@
           "source": "ETtoday",
           "title": "快訊／07：47臺南規模4地震　最大震度3級",
           "url": "https://www.ettoday.net/news/20261116/3272764.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
+      "summary": [
+        "風傳媒：美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
+        "鉅亨網：中方宣佈：習近平將同川普、普丁舉行美中俄元首會談"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QODZUSjIxRzBOWGlyM0lNSGZHWW1mby0tNTcydl9mTExodS1UMkdQYXpZZmlTOFZGZjlPR3NrbnQxLTRPTzdCMGpjcm96QQ?oc=5"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "中方宣佈：習近平將同川普、普丁舉行美中俄元首會談",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lUlZ1eDRPSkN4eWFOdl9PSlFwT0EyLVZKMDFUbGltb0JLM3NPRFVQSl9yNi01WDh1Z2Y2QU9tZ2xfcmNnOHp4SXA5OXlRMWs?oc=5"
         }
       ]
     }
@@ -278,7 +272,7 @@
       "title": "中國經濟全面放緩，未達預期",
       "summary": [
         "Bloomberg Markets：中國經濟全面放緩，未達預期",
-        "CNBC：由於工業產出、零售銷售、投資低於預期，中國十月經濟放緩加劇",
+        "CNBC：由於工業產出、零售銷售和投資未達預期，中國十月經濟放緩加劇",
         "Financial Times：中國10月經濟活動放緩幅度超乎預期"
       ],
       "media_count": 3,
@@ -290,7 +284,7 @@
         },
         {
           "source": "CNBC",
-          "title": "由於工業產出、零售銷售、投資低於預期，中國十月經濟放緩加劇",
+          "title": "由於工業產出、零售銷售和投資未達預期，中國十月經濟放緩加劇",
           "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
         },
         {
