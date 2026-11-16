@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 15:29",
+  "updated_at": "2026-11-16 15:59",
   "taiwan": [
     {
       "rank": 1,
@@ -232,19 +232,14 @@
   "global": [
     {
       "rank": 1,
-      "title": "根據英國《金融時報》報道，黃仁勳與盟友討論重返英偉達執行長一職",
+      "title": "黃仁勳與盟友討論重返英偉達CEO職位",
       "summary": [
-        "Investing.com：根據英國《金融時報》報道，黃仁勳與盟友討論重返英偉達執行長一職",
         "法廣RFI：黃仁勳與盟友討論重返英偉達CEO職位",
-        "Financial Times：黃仁勳與盟友討論重新擔任英偉達執行長"
+        "Financial Times：黃仁勳與盟友討論重新擔任英偉達執行長",
+        "Yahoo Finance：根據英國《金融時報》報道，黃仁勳與盟友討論重返英偉達執行長一職"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
-        {
-          "source": "Investing.com",
-          "title": "根據英國《金融時報》報道，黃仁勳與盟友討論重返英偉達執行長一職",
-          "url": "https://www.investing.com/news/stock-market-news/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports-5028065"
-        },
         {
           "source": "法廣RFI",
           "title": "黃仁勳與盟友討論重返英偉達CEO職位",
@@ -267,7 +262,7 @@
       "title": "中國經濟全面放緩，未達預期",
       "summary": [
         "Bloomberg Markets：中國經濟全面放緩，未達預期",
-        "CNBC：由於工業產出、零售銷售、投資低於預期，中國十月經濟放緩加劇",
+        "CNBC：由於工業產出、零售銷售和投資未達預期，中國十月經濟放緩加劇",
         "Financial Times：中國10月經濟活動放緩幅度超乎預期"
       ],
       "media_count": 3,
@@ -279,7 +274,7 @@
         },
         {
           "source": "CNBC",
-          "title": "由於工業產出、零售銷售、投資低於預期，中國十月經濟放緩加劇",
+          "title": "由於工業產出、零售銷售和投資未達預期，中國十月經濟放緩加劇",
           "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
         },
         {
@@ -291,27 +286,6 @@
     },
     {
       "rank": 3,
-      "title": "2 位對沖基金經理人希望黃仁勳回歸。他能重新擔任英偉達執行長嗎？",
-      "summary": [
-        "Yahoo Finance：2 位對沖基金經理人希望黃仁勳回歸。他能重新擔任英偉達執行長嗎？",
-        "Investing.com：黃仁勳可能會重新擔任英偉達執行長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "2 位對沖基金經理人希望黃仁勳回歸。他能重新擔任英偉達執行長嗎？",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd2dxek1Bdm8wTXhxZGM3QmlEcW1IM1E3ZVk2eHdiSXl3Q3I5VU1ic1UtSFkydmExVG1pdVBOSy1faFNYb2lrS2pWam45ekw0cWlVSU5NMGlRWTZOWVBPdDJsYllkdXBSUnZaMjk2MjYzX0RzdHU4eVdmWDZ1WnpnUzluM1R5ekRIdldSZUJlY1BiT1JGRGc?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "黃仁勳可能會重新擔任英偉達執行長",
-          "url": "https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "英國《金融時報》稱，Diamondback接近以50億美元收購Double Eagle的鑽探組合",
       "summary": [
         "Investing.com：英國《金融時報》稱，Diamondback接近以50億美元收購Double Eagle的鑽探組合",
@@ -332,7 +306,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "美國火箭發射後失敗，亞馬遜網路衛星酬載被毀",
       "summary": [
         "Investing.com：美國火箭發射後失敗，亞馬遜網路衛星酬載被毀",
@@ -349,6 +323,27 @@
           "source": "The Verge",
           "title": "火神火箭失敗，摧毀了 40 顆亞馬遜獅子座衛星",
           "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "黃仁勳可能會重新擔任英偉達執行長",
+      "summary": [
+        "Investing.com：黃仁勳可能會重新擔任英偉達執行長",
+        "Yahoo Finance：黃仁勳可能會重新擔任英偉達執行長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "黃仁勳可能會重新擔任英偉達執行長",
+          "url": "https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "黃仁勳可能會重新擔任英偉達執行長",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRF9GYTdma2JkbHpaQzZSVlBzQ0diUlR2Y3o4MkhsUHFGLXpmQzI5M1hMWEdEVHlrTFduajlpMnFyZlVwVlYxSUVvOU1GOVNHX0hKb3hYbkNVLXlHMGpjX1FnTWVzVEE3NEo5OEo2WVFSMVV3V3owbjVmNHBGZXdoa3BGdk1FU3RBRFFjdUNfcUNyNVVlR0Q0cjQ1bw?oc=5"
         }
       ]
     },
