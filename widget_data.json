@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 02:27",
+  "updated_at": "2026-11-17 02:57",
   "taiwan": [
     {
       "rank": 1,
@@ -94,6 +94,33 @@
     },
     {
       "rank": 4,
+      "title": "沈伯洋響應網路號召做披薩 蔣萬安酸：要真材實料不是畫大餅",
+      "summary": [
+        "自由時報：沈伯洋響應網路號召做披薩 蔣萬安酸：要真材實料不是畫大餅",
+        "ETtoday：狠酸沈伯洋做披薩一定要「真材實料」　蔣萬安：不是畫大餅",
+        "中時新聞：沈伯洋體驗做披薩 蔣萬安酸「要用真材實料」：不是隻是畫大餅"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "沈伯洋響應網路號召做披薩 蔣萬安酸：要真材實料不是畫大餅",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5642678"
+        },
+        {
+          "source": "ETtoday",
+          "title": "狠酸沈伯洋做披薩一定要「真材實料」　蔣萬安：不是畫大餅",
+          "url": "https://www.ettoday.net/news/20261116/3273139.htm"
+        },
+        {
+          "source": "中時新聞",
+          "title": "沈伯洋體驗做披薩 蔣萬安酸「要用真材實料」：不是隻是畫大餅",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FUFhYQmdWRDFtOGxCQVJ1alBCbHJ2Vk5MTnhGa2xKWG0tbExWRDhocDZPZE9wOFcta01BNDE2eU8wYU44WUdCa0NCbUQzaFdkTW9lRkZTNHNNVGZwd2NCOFRYU0k5SWJYaHlMWjd3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "川普啟程赴亞洲拋震撼彈　訪中國時可能會晤金正恩",
       "summary": [
         "經濟日報：川普啟程赴亞洲拋震撼彈　訪中國時可能會晤金正恩",
@@ -120,7 +147,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "TVBS封關民調／AI模型預估蔣萬安51%得票、沈伯洋49%　3萬票險勝",
       "summary": [
         "ETtoday：TVBS封關民調／AI模型預估蔣萬安51%得票、沈伯洋49%　3萬票險勝",
@@ -141,7 +168,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
       "summary": [
         "科技新報：手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
@@ -162,7 +189,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "華郵：川普持有輝達股票價值大增 最高達6200萬美元",
       "summary": [
         "經濟日報：華郵：川普持有輝達股票價值大增 最高達6200萬美元",
@@ -179,27 +206,6 @@
           "source": "自由時報",
           "title": "華郵：川普持有輝達股票價值大增 最高達6200萬美元",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5642960"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "《基金》百萬受益人ETF績效揭曉00981A、0050上週漲幅勝出- 基金",
-      "summary": [
-        "中時新聞：《基金》百萬受益人ETF績效揭曉00981A、0050上週漲幅勝出- 基金",
-        "工商時報：《基金》百萬受益人ETF績效揭曉00981A、0050上週漲幅勝出- 理財"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "《基金》百萬受益人ETF績效揭曉00981A、0050上週漲幅勝出- 基金",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53SWdmNUlMOXMweWZ2cEFtcEtzLU9Tc3BLSDRKZXZKY3pwbVhvV250eHF5TlYxX19qX1BacnUzR1JVLU9BT3NJM2p0NFkyWVRYTko3UUs0WGExc29YWWpuOERpMy1Fd2NDZUE?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "《基金》百萬受益人ETF績效揭曉00981A、0050上週漲幅勝出- 理財",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NUVQyU2JaV0x0M0tUUmFWRE9ta1NvcWtjak02T3NidXBubGhuUGFZNXRWRi1JZVZidEc5YkR1MXBadzgwdVFkVFlRNlB1UTA3N1J0RWlmTTJyNGt6QVYw?oc=5"
         }
       ]
     },
@@ -249,33 +255,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "五個歐盟國家宣佈將非正常移民驅逐至盧安達的計劃",
-      "summary": [
-        "Financial Times：五個歐盟國家宣佈將非正常移民驅逐至盧安達的計劃",
-        "BBC World：五個歐盟國家預計在盧安達設立移民驅逐中心",
-        "The Guardian：五個歐盟國家宣佈在盧安達建立移民「返回中心」的計劃"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "五個歐盟國家宣佈將非正常移民驅逐至盧安達的計劃",
-          "url": "https://www.ft.com/content/ce4e5b88-f7f6-4aaa-aa29-aed46b99f065?syn-25a6b1a6=1"
-        },
-        {
-          "source": "BBC World",
-          "title": "五個歐盟國家預計在盧安達設立移民驅逐中心",
-          "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "title": "五個歐盟國家宣佈在盧安達建立移民「返回中心」的計劃",
-          "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "隨著比特幣繼續拋售，加密貨幣股票在盤前下滑",
       "summary": [
         "Investing.com：隨著比特幣繼續拋售，加密貨幣股票在盤前下滑",
@@ -302,7 +281,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "川普表示他「不介意」黃仁勳恢復英偉達執行長職務",
       "summary": [
         "Financial Times：川普表示他「不介意」黃仁勳恢復英偉達執行長職務",
@@ -329,7 +308,61 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "訊息人士告訴 CNBC，英偉達董事會不考慮讓黃仁勳重新擔任執行長",
+      "summary": [
+        "CNBC：訊息人士告訴 CNBC，英偉達董事會不考慮讓黃仁勳重新擔任執行長",
+        "Investing.com：根據 CNBC 報道，英偉達董事會沒有討論黃仁勳重新擔任執行長的問題",
+        "The Verge：據報道，英偉達董事會「不考慮」重新聘用黃仁勳"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "訊息人士告訴 CNBC，英偉達董事會不考慮讓黃仁勳重新擔任執行長",
+          "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "根據 CNBC 報道，英偉達董事會沒有討論黃仁勳重新擔任執行長的問題",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-board-not-discussing-jensen-huangs-return-as-ceo-cnbc-reports-5030688"
+        },
+        {
+          "source": "The Verge",
+          "title": "據報道，英偉達董事會「不考慮」重新聘用黃仁勳",
+          "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back"
+        }
+      ]
+    },
+    {
       "rank": 4,
+      "title": "蘋果將允許使用者透過臉部解鎖 iPhone Duo，解決主要缺陷",
+      "summary": [
+        "Bloomberg Tech：蘋果將允許使用者透過臉部解鎖 iPhone Duo，解決主要缺陷",
+        "Investing.com：蘋果為 iPhone Duo 新增臉部辨識解鎖功能",
+        "The Verge：蘋果正在為 iPhone Duo 新增面部解鎖功能，無需新硬體"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "蘋果將允許使用者透過臉部解鎖 iPhone Duo，解決主要缺陷",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/apple-to-let-users-face-unlock-iphone-duo-addressing-key-drawback"
+        },
+        {
+          "source": "Investing.com",
+          "title": "蘋果為 iPhone Duo 新增臉部辨識解鎖功能",
+          "url": "https://www.investing.com/news/stock-market-news/apple-adds-facial-recognition-unlock-to-iphone-duo-5030704"
+        },
+        {
+          "source": "The Verge",
+          "title": "蘋果正在為 iPhone Duo 新增面部解鎖功能，無需新硬體",
+          "url": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "截至 8 月份，川普持有 Nvidia 價值 6200 萬美元的股票",
       "summary": [
         "Investing.com：截至 8 月份，川普持有 Nvidia 價值 6200 萬美元的股票",
@@ -350,7 +383,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "人工智慧擔憂令投資人緊張，歐洲股市波動",
       "summary": [
         "Bloomberg Markets：人工智慧擔憂令投資人緊張，歐洲股市波動",
@@ -371,7 +404,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "美國籃球運動員攜帶34公斤大麻在奈及利亞機場被捕",
       "summary": [
         "BBC World：美國籃球運動員攜帶34公斤大麻在奈及利亞機場被捕",
@@ -392,7 +425,28 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "隨著美國和中國推動人工智慧安全措施，晶片緊張局勢籠罩在特習峰會上",
+      "summary": [
+        "Investing.com：隨著美國和中國推動人工智慧安全措施，晶片緊張局勢籠罩在特習峰會上",
+        "Financial Times：美國與中國人工智慧晶片大戰的微妙平衡"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "隨著美國和中國推動人工智慧安全措施，晶片緊張局勢籠罩在特習峰會上",
+          "url": "https://www.investing.com/news/stock-market-news/chip-tensions-loom-over-trumpxi-summit-as-us-and-china-push-ai-safety-steps-5028728"
+        },
+        {
+          "source": "Financial Times",
+          "title": "美國與中國人工智慧晶片大戰的微妙平衡",
+          "url": "https://www.ft.com/content/6b475027-f28a-4d1f-9331-c19a0e4d5a68?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "北約成員國愛沙尼亞在試圖「破壞」無人機製造商後關閉俄羅斯邊境",
       "summary": [
         "CNBC：北約成員國愛沙尼亞在試圖「破壞」無人機製造商後關閉俄羅斯邊境",
@@ -413,7 +467,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "聯準會巴爾表示人工智慧代理可能會加劇未來的銀行擠兌",
       "summary": [
         "Bloomberg Markets：聯準會巴爾表示人工智慧代理可能會加劇未來的銀行擠兌",
@@ -430,48 +484,6 @@
           "source": "Bloomberg Tech",
           "title": "聯準會巴爾警告人工智慧代理可能會加劇未來的銀行擠兌",
           "url": "https://www.bloomberg.com/news/videos/2026-11-16/fed-s-barr-warns-ai-agents-may-fuel-future-bank-runs-video"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "川普、習近平和普丁將舉行會面，據報道黃仁勳期待英偉達捲土重來",
-      "summary": [
-        "Bloomberg Tech：川普、習近平和普丁將舉行會面，據報道黃仁勳期待英偉達捲土重來",
-        "法廣RFI：特朗普稱可能會在中國與金正恩會面"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "川普、習近平和普丁將舉行會面，據報道黃仁勳期待英偉達捲土重來",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-16/the-pulse-with-francine-lacqua-11-16-2026-video"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "特朗普稱可能會在中國與金正恩會面",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261116-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%8F%AF%E8%83%BD%E6%9C%83%E5%9C%A8%E4%B8%AD%E5%9C%8B%E8%88%87%E9%87%91%E6%AD%A3%E6%81%A9%E6%9C%83%E9%9D%A2"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "AI新創公司Dreamteam籌措資金挑戰Salesforce、SAP",
-      "summary": [
-        "Bloomberg Tech：AI新創公司Dreamteam籌措資金挑戰Salesforce、SAP",
-        "Yahoo Finance：AI新創公司Dreamteam籌措資金挑戰Salesforce、SAP"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "AI新創公司Dreamteam籌措資金挑戰Salesforce、SAP",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/ai-startup-dreamteam-raises-capital-to-challenge-salesforce-sap"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "AI新創公司Dreamteam籌措資金挑戰Salesforce、SAP",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUlRtemNSU3IzMm1USVBJTU5ZenN2a2VDQjlYVlktT1Q0SHBNZHk3TnlYMDlKRG5HU3ZDLXFxeHZoSENDbUI4ZnJRMjRUeWw2S1BCMTJBYjJiWjU1S3U3cFpVNjB3YnZGbWVETXRaTlE4RkdhQTJQcldqanVfSWRSYnNud29Pa2M5akFRQlR6V3lVdW1FVnFseXVoODRoaXRV?oc=5"
         }
       ]
     }
