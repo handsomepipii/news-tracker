@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 14:57",
+  "updated_at": "2026-11-16 15:29",
   "taiwan": [
     {
       "rank": 1,
@@ -104,22 +104,22 @@
     },
     {
       "rank": 5,
-      "title": "《臺北時報》 科技高層稱“英偉達愛臺灣”",
+      "title": "學生揭營養午餐「生雞肉」遭網攻！ 蔣萬安：已請教育局查證",
       "summary": [
-        "自由時報：《臺北時報》 科技高層稱“英偉達愛臺灣”",
-        "工商時報：研揚董事長莊永順：邊緣AI迎新契機- 日報"
+        "自由時報：學生揭營養午餐「生雞肉」遭網攻！ 蔣萬安：已請教育局查證",
+        "ETtoday：仁愛國中營養午餐疑爆「雞肉沒熟」　校方：未接獲師生身體不適"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "《臺北時報》 科技高層稱“英偉達愛臺灣”",
-          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5641933"
+          "title": "學生揭營養午餐「生雞肉」遭網攻！ 蔣萬安：已請教育局查證",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5642339"
         },
         {
-          "source": "工商時報",
-          "title": "研揚董事長莊永順：邊緣AI迎新契機- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwYVpQWEVoanFmYm1qRmpkc3NnVFRKcDBTcnJlSG1tRHJwS3BoOFlXOFFKWnRYOXNSRkp3QkpjMjRVd1Q5MmdTMXowaG9meDFiR1p2TExrdmFrYW1iVjI4?oc=5"
+          "source": "ETtoday",
+          "title": "仁愛國中營養午餐疑爆「雞肉沒熟」　校方：未接獲師生身體不適",
+          "url": "https://www.ettoday.net/news/20261116/3273086.htm"
         }
       ]
     },
@@ -232,19 +232,14 @@
   "global": [
     {
       "rank": 1,
-      "title": "英國《金融時報》稱，黃仁勳與盟友討論重返英偉達執行長一職",
+      "title": "根據英國《金融時報》報道，黃仁勳與盟友討論重返英偉達執行長一職",
       "summary": [
-        "Bloomberg Tech：英國《金融時報》稱，黃仁勳與盟友討論重返英偉達執行長一職",
         "Investing.com：根據英國《金融時報》報道，黃仁勳與盟友討論重返英偉達執行長一職",
-        "法廣RFI：黃仁勳與盟友討論重返英偉達CEO職位"
+        "法廣RFI：黃仁勳與盟友討論重返英偉達CEO職位",
+        "Financial Times：黃仁勳與盟友討論重新擔任英偉達執行長"
       ],
-      "media_count": 5,
+      "media_count": 4,
       "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "英國《金融時報》稱，黃仁勳與盟友討論重返英偉達執行長一職",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says"
-        },
         {
           "source": "Investing.com",
           "title": "根據英國《金融時報》報道，黃仁勳與盟友討論重返英偉達執行長一職",
@@ -359,27 +354,6 @@
     },
     {
       "rank": 6,
-      "title": "Anthropic的IPO讓Dario Amodei人工智慧成為熱門潮的新視角",
-      "summary": [
-        "Bloomberg Markets：Anthropic的IPO讓Dario Amodei人工智慧成為熱門潮的新視角",
-        "Investing.com：英偉達業績、Anthropic IPO 為動盪的人工智慧產業帶來考驗"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic的IPO讓Dario Amodei人工智慧成為熱門潮的新視角",
-          "url": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom"
-        },
-        {
-          "source": "Investing.com",
-          "title": "英偉達業績、Anthropic IPO 為動盪的人工智慧產業帶來考驗",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade-5028310"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
       "summary": [
         "Bloomberg Markets：印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
@@ -400,7 +374,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
       "summary": [
         "TechCrunch：蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
@@ -421,7 +395,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "香港交易所推出首個點心債券指數提振人民幣債市場",
       "summary": [
         "Bloomberg Markets：香港交易所推出首個點心債券指數提振人民幣債市場",
@@ -442,7 +416,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "新世界計畫配股 32 億美元，股價跌至新低",
       "summary": [
         "Nikkei Asia：新世界計畫配股 32 億美元，股價跌至新低",
@@ -459,6 +433,27 @@
           "source": "Investing.com",
           "title": "新世界股價暴跌 47% 創歷史新低 配股 32 億美元",
           "url": "https://www.investing.com/news/stock-market-news/new-world-shares-plunge-47-to-record-low-on-32-billion-rights-issue-5028362"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "MTN 正在洽談以南非現金和股票交易收購 Telkom",
+      "summary": [
+        "Bloomberg Markets：MTN 正在洽談以南非現金和股票交易收購 Telkom",
+        "Investing.com：MTN 集團正在洽談收購 Telkom SA 全部股份"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "MTN 正在洽談以南非現金和股票交易收購 Telkom",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/mtn-holds-talks-to-buy-south-africa-s-telkom-in-cash-share-deal"
+        },
+        {
+          "source": "Investing.com",
+          "title": "MTN 集團正在洽談收購 Telkom SA 全部股份",
+          "url": "https://www.investing.com/news/stock-market-news/mtn-group-in-talks-to-acquire-all-shares-of-telkom-sa-93CH-5028422"
         }
       ]
     }
