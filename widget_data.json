@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:57",
+  "updated_at": "2026-11-16 12:27",
   "taiwan": [
     {
       "rank": 1,
@@ -281,6 +281,33 @@
     },
     {
       "rank": 2,
+      "title": "中國經濟全面放緩，未達預期",
+      "summary": [
+        "Bloomberg Markets：中國經濟全面放緩，未達預期",
+        "CNBC：由於工業產出、零售銷售和投資未達預期，中國十月經濟放緩加劇",
+        "Financial Times：中國10月經濟活動放緩幅度超乎預期"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "中國經濟全面放緩，未達預期",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push"
+        },
+        {
+          "source": "CNBC",
+          "title": "由於工業產出、零售銷售和投資未達預期，中國十月經濟放緩加劇",
+          "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
+        },
+        {
+          "source": "Financial Times",
+          "title": "中國10月經濟活動放緩幅度超乎預期",
+          "url": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "2 位對沖基金經理人希望黃仁勳回歸。他能重新擔任英偉達執行長嗎？",
       "summary": [
         "Yahoo Finance：2 位對沖基金經理人希望黃仁勳回歸。他能重新擔任英偉達執行長嗎？",
@@ -301,7 +328,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "英國《金融時報》稱，Diamondback接近以50億美元收購Double Eagle的鑽探組合",
       "summary": [
         "Investing.com：英國《金融時報》稱，Diamondback接近以50億美元收購Double Eagle的鑽探組合",
@@ -322,7 +349,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "美國火箭發射後失敗，亞馬遜網路衛星酬載被毀",
       "summary": [
         "Investing.com：美國火箭發射後失敗，亞馬遜網路衛星酬載被毀",
@@ -343,7 +370,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "美國及其盟國簽署協議保護人工智慧供應鏈免受中國影響",
       "summary": [
         "Financial Times：美國及其盟國簽署協議保護人工智慧供應鏈免受中國影響",
@@ -364,7 +391,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Anthropic的IPO讓Dario Amodei人工智慧成為熱門潮的新視角",
       "summary": [
         "Bloomberg Markets：Anthropic的IPO讓Dario Amodei人工智慧成為熱門潮的新視角",
@@ -385,7 +412,28 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
+      "summary": [
+        "Bloomberg Markets：印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
+        "Financial Times：印尼就有毒霧霾向鄰國道歉"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-15/indonesia-s-prabowo-apologizes-to-singapore-malaysia-for-haze"
+        },
+        {
+          "source": "Financial Times",
+          "title": "印尼就有毒霧霾向鄰國道歉",
+          "url": "https://www.ft.com/content/725d2cd5-b2d9-455d-bd1c-6a6cdec1a489?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
       "summary": [
         "TechCrunch：蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
@@ -406,53 +454,23 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "中國經濟全面放緩，未達預期",
+      "rank": 10,
+      "title": "香港交易所推出首個點心債券指數提振人民幣債市場",
       "summary": [
-        "Bloomberg Markets：中國經濟全面放緩，未達預期",
-        "CNBC：由於工業產出、零售銷售、投資低於預期，中國十月經濟放緩加劇"
+        "Bloomberg Markets：香港交易所推出首個點心債券指數提振人民幣債市場",
+        "Investing.com：香港交易所推出首個離岸人民幣債券指數"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "中國經濟全面放緩，未達預期",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push"
+          "title": "香港交易所推出首個點心債券指數提振人民幣債市場",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/hkex-launches-first-dim-sum-bond-index-to-boost-yuan-debt-market"
         },
         {
-          "source": "CNBC",
-          "title": "由於工業產出、零售銷售、投資低於預期，中國十月經濟放緩加劇",
-          "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "詳訊：韓中外長在京舉行會談",
-      "summary": [
-        "韓聯社：詳訊：韓中外長在京舉行會談"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "詳訊：韓中外長在京舉行會談",
-          "url": "https://cn.yna.co.kr/view/ACK20261113003500881"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "川普、習近平和普丁將在中國舉行三方會晤- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：川普、習近平和普丁將在中國舉行三方會晤- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "川普、習近平和普丁將在中國舉行三方會晤- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcDFMakY4SG9WQ3RIaFUyOGFpNGVnUEQyVzhjNDI1X2NQMTBIM3lwWGtXcEhWXzZPOVpXUHRzcFdBWVdXZmJYTm4zVl9oZXg1OHhnc3VlMng4aDJFUkZEbFF5RWZyNXRjNmFIWDFMUVBiVkRzN0dCVWFlcW41Yk9vMDMwWWd1WnFKSWNLR3pBS2JWOGc?oc=5"
+          "source": "Investing.com",
+          "title": "香港交易所推出首個離岸人民幣債券指數",
+          "url": "https://www.investing.com/news/stock-market-news/hong-kong-exchange-launches-first-offshore-yuan-bond-index-93CH-5028347"
         }
       ]
     }
