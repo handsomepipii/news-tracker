@@ -1,8 +1,40 @@
 {
-  "updated_at": "2026-11-16 09:26",
+  "updated_at": "2026-11-16 09:56",
   "taiwan": [
     {
       "rank": 1,
+      "title": "金融時報：黃仁勳考慮回鍋　矽谷盟友施壓輝達董事會要求讓他復職",
+      "summary": [
+        "自由時報：金融時報：黃仁勳考慮回鍋　矽谷盟友施壓輝達董事會要求讓他復職",
+        "經濟日報：金融時報：黃仁勳考慮回鍋　矽谷盟友施壓輝達董事會要求讓他復職",
+        "ETtoday：黃仁勳傳考慮重返輝達　矽谷大老組戰情室施壓董事會挺復職"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "金融時報：黃仁勳考慮回鍋　矽谷盟友施壓輝達董事會要求讓他復職",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5641986"
+        },
+        {
+          "source": "經濟日報",
+          "title": "金融時報：黃仁勳考慮回鍋　矽谷盟友施壓輝達董事會要求讓他復職",
+          "url": "https://money.udn.com/money/story/5599/9880733"
+        },
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳傳考慮重返輝達　矽谷大老組戰情室施壓董事會挺復職",
+          "url": "https://www.ettoday.net/news/20261116/3272738.htm"
+        },
+        {
+          "source": "科技新報",
+          "title": "金融時報：黃仁勳考慮回鍋，矽谷盟友施壓輝達董事會要求讓他復職",
+          "url": "https://finance.technews.tw/2026/11/16/financial-times-jensen-huang-reportedly-considers-rejoining-nvidia-silicon-valley-allies-pressure-board-reinstatement/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "貝森特：輝達必須從外部找新CEO",
       "summary": [
         "經濟日報：貝森特：輝達必須從外部找新CEO",
@@ -29,55 +61,61 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "金融時報：黃仁勳考慮回鍋　矽谷盟友施壓輝達董事會要求讓他復職",
+      "rank": 3,
+      "title": "威宏-KY 115年第3季綜合損益表，每股盈餘1.71元",
       "summary": [
-        "自由時報：金融時報：黃仁勳考慮回鍋　矽谷盟友施壓輝達董事會要求讓他復職",
-        "經濟日報：金融時報：黃仁勳考慮回鍋　矽谷盟友施壓輝達董事會要求讓他復職",
-        "ETtoday：黃仁勳傳考慮重返輝達　矽谷大老組戰情室施壓董事會挺復職"
+        "MoneyDJ理財網：威宏-KY 115年第3季綜合損益表，每股盈餘1.71元",
+        "自由時報：《臺北時報》 科技高層稱“英偉達愛臺灣”",
+        "工商時報：研揚董事長莊永順：邊緣AI迎新契機- 日報"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "自由時報",
-          "title": "金融時報：黃仁勳考慮回鍋　矽谷盟友施壓輝達董事會要求讓他復職",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5641986"
+          "source": "MoneyDJ理財網",
+          "title": "威宏-KY 115年第3季綜合損益表，每股盈餘1.71元",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWkxzZ2lJVnNQeWlNejI5V2tHc1dtNlNpZk1TQkFacEIzM245Mk5LZE56TERsVEp6VFZQQnUzOVlyQUtGZk0ycTh5bUctSV9QZHVIcGtwdUtMM0tKSl8tcVFIRndMeFFVM0c3SjJrTjZ3NG5haElBNXNGdGdqZ19MZ3dqS21fby1vTkxBQnFUN3pjUQ?oc=5"
         },
-        {
-          "source": "經濟日報",
-          "title": "金融時報：黃仁勳考慮回鍋　矽谷盟友施壓輝達董事會要求讓他復職",
-          "url": "https://money.udn.com/money/story/5599/9880733"
-        },
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳傳考慮重返輝達　矽谷大老組戰情室施壓董事會挺復職",
-          "url": "https://www.ettoday.net/news/20261116/3272738.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "高雄大師賽》張課琦／盧震寶島內戰勝出 臺灣隊本屆勇奪3金",
-      "summary": [
-        "自由時報：高雄大師賽》張課琦／盧震寶島內戰勝出 臺灣隊本屆勇奪3金",
-        "ETtoday：李承宇再見安打！長安4比3險勝敦化奪隊史第3冠　廖宥銘獲MVP"
-      ],
-      "media_count": 2,
-      "links": [
         {
           "source": "自由時報",
-          "title": "高雄大師賽》張課琦／盧震寶島內戰勝出 臺灣隊本屆勇奪3金",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5641886"
+          "title": "《臺北時報》 科技高層稱“英偉達愛臺灣”",
+          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5641933"
         },
         {
-          "source": "ETtoday",
-          "title": "李承宇再見安打！長安4比3險勝敦化奪隊史第3冠　廖宥銘獲MVP",
-          "url": "https://sports.ettoday.net/news/3272727"
+          "source": "工商時報",
+          "title": "研揚董事長莊永順：邊緣AI迎新契機- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwYVpQWEVoanFmYm1qRmpkc3NnVFRKcDBTcnJlSG1tRHJwS3BoOFlXOFFKWnRYOXNSRkp3QkpjMjRVd1Q5MmdTMXowaG9meDFiR1p2TExrdmFrYW1iVjI4?oc=5"
         }
       ]
     },
     {
       "rank": 4,
+      "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
+      "summary": [
+        "自由時報：美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
+        "經濟日報：美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
+        "科技新報：美財長 10 天最後通牒，促輝達說明是否縱容最先進晶片走私中國"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641984"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
+          "url": "https://money.udn.com/money/story/5599/9880725"
+        },
+        {
+          "source": "科技新報",
+          "title": "美財長 10 天最後通牒，促輝達說明是否縱容最先進晶片走私中國",
+          "url": "https://technews.tw/2026/11/16/us-treasury-chief-wants-answers-soon-from-nvidia/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
@@ -98,7 +136,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "沒有延後 Rapidus：27年底至28年初量產2奈米-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：沒有延後 Rapidus：27年底至28年初量產2奈米-新聞內容-基金",
@@ -115,27 +153,6 @@
           "source": "科技新報",
           "title": "沒有延後  Rapidus：2027 年底至 2028 年初量產 2 奈米",
           "url": "https://technews.tw/2026/11/16/rapidus-no-delays-2nm-mass-production-late-2027-early-2028/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "逼近首波冷氣團！2波東北季風接力　週四起轉乾冷「急凍探13度」",
-      "summary": [
-        "ETtoday：逼近首波冷氣團！2波東北季風接力　週四起轉乾冷「急凍探13度」",
-        "自由時報：今年首波大陸冷氣團報到！專家曝「最冷2天」：低溫恐下探13度"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "逼近首波冷氣團！2波東北季風接力　週四起轉乾冷「急凍探13度」",
-          "url": "https://www.ettoday.net/news/20261115/3272700.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "今年首波大陸冷氣團報到！專家曝「最冷2天」：低溫恐下探13度",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5642043"
         }
       ]
     },
@@ -183,27 +200,6 @@
     },
     {
       "rank": 9,
-      "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
-      "summary": [
-        "自由時報：美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
-        "經濟日報：美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641984"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
-          "url": "https://money.udn.com/money/story/5599/9880725"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "臺南安南07:47發生規模4.0地震 最大震度3級",
       "summary": [
         "自由時報：臺南安南07:47發生規模4.0地震 最大震度3級",
@@ -222,6 +218,27 @@
           "url": "https://www.ettoday.net/news/20261116/3272764.htm"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
+      "summary": [
+        "風傳媒：美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
+        "鉅亨網：中方宣佈：習近平將同川普、普丁舉行美中俄元首會談"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QODZUSjIxRzBOWGlyM0lNSGZHWW1mby0tNTcydl9mTExodS1UMkdQYXpZZmlTOFZGZjlPR3NrbnQxLTRPTzdCMGpjcm96QQ?oc=5"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "中方宣佈：習近平將同川普、普丁舉行美中俄元首會談",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lUlZ1eDRPSkN4eWFOdl9PSlFwT0EyLVZKMDFUbGltb0JLM3NPRFVQSl9yNi01WDh1Z2Y2QU9tZ2xfcmNnOHp4SXA5OXlRMWs?oc=5"
+        }
+      ]
     }
   ],
   "global": [
@@ -233,7 +250,7 @@
         "Investing.com：根據英國《金融時報》報道，黃仁勳與盟友討論重返英偉達執行長一職",
         "法廣RFI：黃仁勳與盟友討論重返英偉達CEO職位"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
           "source": "Bloomberg Tech",
@@ -254,6 +271,11 @@
           "source": "Financial Times",
           "title": "黃仁勳與盟友討論重新擔任英偉達執行長",
           "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "根據英國《金融時報》報道，黃仁勳與盟友討論重返英偉達執行長一職",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVFmU0JGTEhVbjNvTVhibVVVTVlZYW5WLUtRVTlxRE5DZkpoX3ZpeExnendhWDlKb01lRFkxeGZ4MlVhcVV6Y0s3aFpTcDlCN0RXaENGdUtQVG4zRU5iQmg4Q1l5aGx3WlpRcnAtdE1NWHZtRmt4Z0Y0X1UzWmJQQ2dPYjhzamNLLXoxSk93YlpzbUtQSUV4eDFlbU5DeF96T0c2S3B3?oc=5"
         }
       ]
     },
@@ -322,6 +344,27 @@
     },
     {
       "rank": 5,
+      "title": "蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
+      "summary": [
+        "TechCrunch：蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
+        "The Verge：蘋果的新研究旨在提高人工智慧健康工具的有效性"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
+          "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+        },
+        {
+          "source": "The Verge",
+          "title": "蘋果的新研究旨在提高人工智慧健康工具的有效性",
+          "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "詳訊：韓中外長在京舉行會談",
       "summary": [
         "韓聯社：詳訊：韓中外長在京舉行會談"
@@ -336,7 +379,22 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "川普、習近平和普丁將在中國舉行三方會晤- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：川普、習近平和普丁將在中國舉行三方會晤- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "川普、習近平和普丁將在中國舉行三方會晤- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcDFMakY4SG9WQ3RIaFUyOGFpNGVnUEQyVzhjNDI1X2NQMTBIM3lwWGtXcEhWXzZPOVpXUHRzcFdBWVdXZmJYTm4zVl9oZXg1OHhnc3VlMng4aDJFUkZEbFF5RWZyNXRjNmFIWDFMUVBiVkRzN0dCVWFlcW41Yk9vMDMwWWd1WnFKSWNLR3pBS2JWOGc?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "英偉達 CEO 搜尋因 Bessent 的「改組」號召而引發爭議",
       "summary": [
         "Bloomberg Tech：英偉達 CEO 搜尋因 Bessent 的「改組」號召而引發爭議"
@@ -351,7 +409,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "日本第三季GDP年化下降0.1%",
       "summary": [
         "Nikkei Asia：日本第三季GDP年化下降0.1%"
@@ -366,47 +424,17 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Megaspeed據報曾安排將價值近120億美元英偉達晶片運往中國企業",
-      "summary": [
-        "法廣RFI：Megaspeed據報曾安排將價值近120億美元英偉達晶片運往中國企業"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "Megaspeed據報曾安排將價值近120億美元英偉達晶片運往中國企業",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261115-megaspeed%E6%93%9A%E5%A0%B1%E6%9B%BE%E5%AE%89%E6%8E%92%E5%B0%87%E5%83%B9%E5%80%BC%E8%BF%91120%E5%84%84%E7%BE%8E%E5%85%83%E8%8B%B1%E5%81%89%E9%81%94%E8%8A%AF%E7%89%87%E9%81%8B%E5%BE%80%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "第49屆東盟峰會週日開幕，南海與緬甸成核心議題",
-      "summary": [
-        "法廣RFI：第49屆東盟峰會週日開幕，南海與緬甸成核心議題"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "第49屆東盟峰會週日開幕，南海與緬甸成核心議題",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E8%A7%A3%E8%AA%AA/20261115-%E7%AC%AC49%E5%B1%86%E6%9D%B1%E7%9B%9F%E5%B3%B0%E6%9C%83%E5%91%A8%E6%97%A5%E9%96%8B%E5%B9%95%EF%BC%8C%E5%8D%97%E6%B5%B7%E8%88%87%E7%B7%AC%E7%94%B8%E6%88%90%E6%A0%B8%E5%BF%83%E8%AD%B0%E9%A1%8C"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "韓國稅務會計考試最高分承認作弊",
+      "title": "伊朗無人機襲擊巴林美軍基地",
       "summary": [
-        "BBC World：韓國稅務會計考試最高分承認作弊"
+        "BBC World：伊朗無人機襲擊巴林美軍基地"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "BBC World",
-          "title": "韓國稅務會計考試最高分承認作弊",
-          "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss"
+          "title": "伊朗無人機襲擊巴林美軍基地",
+          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
