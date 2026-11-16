@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 23:56",
+  "updated_at": "2026-11-17 00:26",
   "taiwan": [
     {
       "rank": 1,
@@ -157,48 +157,6 @@
     },
     {
       "rank": 7,
-      "title": "賴清德批基泰大直案「沈伯洋當市長處理絕不同」 蔣萬安痛斥選舉語言",
-      "summary": [
-        "自由時報：賴清德批基泰大直案「沈伯洋當市長處理絕不同」 蔣萬安痛斥選舉語言",
-        "ETtoday：基泰大直案遭諷「沈伯洋處理會不一樣」　蔣萬安：賴清德的選舉語言"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "賴清德批基泰大直案「沈伯洋當市長處理絕不同」 蔣萬安痛斥選舉語言",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5642297"
-        },
-        {
-          "source": "ETtoday",
-          "title": "基泰大直案遭諷「沈伯洋處理會不一樣」　蔣萬安：賴清德的選舉語言",
-          "url": "https://www.ettoday.net/news/20261116/3272968.htm"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "臺股重挫逾1400點！第二隻腳來了？分析師點名2檔指標股佈局時機",
-      "summary": [
-        "財訊：臺股重挫逾1400點！第二隻腳來了？分析師點名2檔指標股佈局時機",
-        "工商時報：臺股慘崩逾2千點「第二隻腳」來了？分析師點名2檔指標股擇時進場- 證券"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "財訊",
-          "title": "臺股重挫逾1400點！第二隻腳來了？分析師點名2檔指標股佈局時機",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xY2Z2VWF5eWdYdkZKVUMxeWJRbE12WWJjM3Qta2tsLUlDbjJ5bnJ6ejVhNEVzOHdMMVV6SXpLSWNGVkRFUFhSTFVOb2kyVnVvdGx6OUQyNy1lSkk1blMweGRhenBTd2ZpZWhtOFJoX0F1VTRCWmF3Y3pBUQ?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "臺股慘崩逾2千點「第二隻腳」來了？分析師點名2檔指標股擇時進場- 證券",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVLVZrZHhlcTRwNmVIY0R0aDdGYU55OWhPQngyWjNGb3Rlenk2bHh5cGdhdlNqSWVlM2ZWUS1aVE1xUk1pNktVSVBBMmtXaHFpQ2VneEFqNkdoWDFfeWg0?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "劉修甫《聰明鎮》奪亞洲電視大獎男配角 聽到得獎超淡定…還在忙煮「醃篤鮮」",
       "summary": [
         "自由時報：劉修甫《聰明鎮》奪亞洲電視大獎男配角 聽到得獎超淡定…還在忙煮「醃篤鮮」",
@@ -219,7 +177,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "中國被控操縱鐵礦砂貿易　澳政府憂心恐衝擊經濟",
       "summary": [
         "經濟日報：中國被控操縱鐵礦砂貿易　澳政府憂心恐衝擊經濟",
@@ -236,6 +194,48 @@
           "source": "科技新報",
           "title": "中國被控操縱鐵礦砂貿易，澳政府憂心恐衝擊經濟",
           "url": "https://technews.tw/2026/11/16/australia-concerned-over-china-manipulation-of-the-iron-ore-trade/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "海地10年來首次大選　遇刺前總統摩依士遺孀參戰",
+      "summary": [
+        "經濟日報：海地10年來首次大選　遇刺前總統摩依士遺孀參戰",
+        "ETtoday：睽違10年大選！海地遇刺身亡總統遺孀「登記參戰」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "海地10年來首次大選　遇刺前總統摩依士遺孀參戰",
+          "url": "https://money.udn.com/money/story/5599/9881462"
+        },
+        {
+          "source": "ETtoday",
+          "title": "睽違10年大選！海地遇刺身亡總統遺孀「登記參戰」",
+          "url": "https://www.ettoday.net/news/20261116/3273091.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "選前拔樁蘇巧慧本命區？　李四川：樹林濟安宮董事長是我老朋友",
+      "summary": [
+        "ETtoday：選前拔樁蘇巧慧本命區？　李四川：樹林濟安宮董事長是我老朋友",
+        "自由時報：成功拔樁蘇巧慧本命區？ 李四川：與陳黃綠妹是老朋友"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "選前拔樁蘇巧慧本命區？　李四川：樹林濟安宮董事長是我老朋友",
+          "url": "https://www.ettoday.net/news/20261116/3273020.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "成功拔樁蘇巧慧本命區？ 李四川：與陳黃綠妹是老朋友",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5642450"
         }
       ]
     }
