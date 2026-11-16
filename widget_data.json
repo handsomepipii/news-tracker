@@ -1,8 +1,62 @@
 {
-  "updated_at": "2026-11-16 19:57",
+  "updated_at": "2026-11-16 20:28",
   "taiwan": [
     {
       "rank": 1,
+      "title": "2026新北Demo Day登場！在地青創團隊登臺提案，進行新北創新能量",
+      "summary": [
+        "關鍵評論網：2026新北Demo Day登場！在地青創團隊登臺提案，進行新北創新能量",
+        "INSIDE硬塞：2026新北Demo Day登場！在地青創團隊登臺提案，進行新北創新能量",
+        "中時新聞：2026臺北國際期貨論壇登場- 其他"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "關鍵評論網",
+          "title": "2026新北Demo Day登場！在地青創團隊登臺提案，進行新北創新能量",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAybzFFZ2I0SldHdHhmZnVjN0h3SWNKNUUzVmt1dVdhbmFiVWN3d3hrVmNfemgxNnJzdmVSNU84NzVjNDlSRnlqS2FiemlQUGxPRERWVkxqNVRtWDdTMTE4bQ?oc=5"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "2026新北Demo Day登場！在地青創團隊登臺提案，進行新北創新能量",
+          "url": "https://www.inside.com.tw/article/42922-ntpc"
+        },
+        {
+          "source": "中時新聞",
+          "title": "2026臺北國際期貨論壇登場- 其他",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KXzVMSnp0Rks5X1g3b1FOd1J0ZklQUXM1LUk1UXhVSk1XOU4yX29yQWlYb0V6cWdKSlM5ZVU3eXdFZTZ4eXp3YXBadzBrNHBLVEZNMTZNaFMxcExjeXQzMkRrN0NodUZRZ3c?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "臺股慘跌2635點！投信狠賣179億唯獨連4買「這檔」1.58萬張 股價逆揚近4％",
+      "summary": [
+        "自由時報：臺股慘跌2635點！投信狠賣179億唯獨連4買「這檔」1.58萬張 股價逆揚近4％",
+        "風傳媒：三大法人》臺股崩跌2635點、法人賣超1140億！外資轉賣702億，投信終結連24買、 大砍臺新新光金",
+        "中時新聞：外資拋售701億元 三大法人賣超1140億元 臺股慘崩3原因"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "臺股慘跌2635點！投信狠賣179億唯獨連4買「這檔」1.58萬張 股價逆揚近4％",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5642603"
+        },
+        {
+          "source": "風傳媒",
+          "title": "三大法人》臺股崩跌2635點、法人賣超1140億！外資轉賣702億，投信終結連24買、 大砍臺新新光金",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54UDl0akhRc1VpY2hkVk5Mamdrb3AzTlNHc1A2Wl9mdE5pWi1zQmQ2NGxZaEFjTUpwYXNPWFZYTlNjbTVaWWp3REdQVzVJQQ?oc=5"
+        },
+        {
+          "source": "中時新聞",
+          "title": "外資拋售701億元 三大法人賣超1140億元 臺股慘崩3原因",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6dFFtbEhtVGJUT05QdWN0VGVyMFVsbUZidTVMOW5QZ0FqTVFjOU52djZsdnp3anZ2Ny1peFJCYVNuLU5rbHB3Z1U2RWx0N3psa0J1LXEzWnJxOFkwenpNcnJmSlZvbmdBYjR2X0dR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "臺灣科技業力挺黃仁勳，臺北 101 今晚點燈傳遞支援",
       "summary": [
         "科技新報：臺灣科技業力挺黃仁勳，臺北 101 今晚點燈傳遞支援",
@@ -29,7 +83,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "TVBS封關民調／AI模型預估蔣萬安51%得票、沈伯洋49%　3萬票險勝",
       "summary": [
         "ETtoday：TVBS封關民調／AI模型預估蔣萬安51%得票、沈伯洋49%　3萬票險勝",
@@ -50,7 +104,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "學生揭營養午餐「生雞肉」遭網攻！ 蔣萬安：已請教育局查證",
       "summary": [
         "自由時報：學生揭營養午餐「生雞肉」遭網攻！ 蔣萬安：已請教育局查證",
@@ -67,48 +121,6 @@
           "source": "ETtoday",
           "title": "仁愛國中營養午餐疑爆「雞肉沒熟」　校方：未接獲師生身體不適",
           "url": "https://www.ettoday.net/news/20261116/3273086.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "臺南安南07:47發生規模4.0地震 最大震度3級",
-      "summary": [
-        "自由時報：臺南安南07:47發生規模4.0地震 最大震度3級",
-        "ETtoday：快訊／07：47臺南規模4地震　最大震度3級"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "臺南安南07:47發生規模4.0地震 最大震度3級",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5642014"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／07：47臺南規模4地震　最大震度3級",
-          "url": "https://www.ettoday.net/news/20261116/3272764.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "沒有延後Rapidus：27年底至28年初量產2奈米- 新聞",
-      "summary": [
-        "MoneyDJ理財網：沒有延後Rapidus：27年底至28年初量產2奈米- 新聞",
-        "科技新報：沒有延後  Rapidus：2027 年底至 2028 年初量產 2 奈米"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "沒有延後Rapidus：27年底至28年初量產2奈米- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSlFTa2lOamt6NGRfekVuZ0NjYUUwSThQV2VCbEV6ZkFIbTNqMlZpbEdNWUROQ09NMmF5R1FoNkdMM3FDZjlnbDk2SmhVY1Z1STVFcUlrVWFYQzlTR0xSckR5Zno4ZDg5NFhZSDNJcGR3WkpzT0tfUDFhMFdFcm9wOXdMeFZMS0pqZkNPaFJKblBDZw?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "沒有延後  Rapidus：2027 年底至 2028 年初量產 2 奈米",
-          "url": "https://technews.tw/2026/11/16/rapidus-no-delays-2nm-mass-production-late-2027-early-2028/"
         }
       ]
     },
