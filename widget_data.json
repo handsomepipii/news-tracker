@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 12:27",
+  "updated_at": "2026-11-16 12:58",
   "taiwan": [
     {
       "rank": 1,
@@ -35,33 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "美財長貝森特：輝達須「從公司外部」尋找新執行長",
-      "summary": [
-        "自由時報：美財長貝森特：輝達須「從公司外部」尋找新執行長",
-        "經濟日報：美國財長貝森特：輝達必須從外部找新 CEO 要對領導層進行「徹底改組」",
-        "ETtoday：美財長貝森特：輝達須「從公司外部」尋找新執行長"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美財長貝森特：輝達須「從公司外部」尋找新執行長",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5641971"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美國財長貝森特：輝達必須從外部找新 CEO 要對領導層進行「徹底改組」",
-          "url": "https://money.udn.com/money/story/5599/9880650"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美財長貝森特：輝達須「從公司外部」尋找新執行長",
-          "url": "https://www.ettoday.net/news/20261116/3272755.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "威宏-KY 115年第3季綜合損益表，每股盈餘1.71元",
       "summary": [
         "MoneyDJ理財網：威宏-KY 115年第3季綜合損益表，每股盈餘1.71元",
@@ -88,7 +61,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
       "summary": [
         "自由時報：美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
@@ -115,7 +88,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
@@ -132,6 +105,27 @@
           "source": "科技新報",
           "title": "貝森特質疑輝達銷售資料、內控  籲從外部延攬 CEO",
           "url": "https://finance.technews.tw/2026/11/16/bessent-says-nvidia-must-go-outside-the-company-to-find-new-ceo/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "美財長貝森特：輝達須「從公司外部」尋找新執行長",
+      "summary": [
+        "經濟日報：美財長貝森特：輝達須「從公司外部」尋找新執行長",
+        "ETtoday：美財長貝森特：輝達須「從公司外部」尋找新執行長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美財長貝森特：輝達須「從公司外部」尋找新執行長",
+          "url": "https://money.udn.com/money/story/123398/9880686"
+        },
+        {
+          "source": "ETtoday",
+          "title": "美財長貝森特：輝達須「從公司外部」尋找新執行長",
+          "url": "https://www.ettoday.net/news/20261116/3272755.htm"
         }
       ]
     },
@@ -158,48 +152,6 @@
     },
     {
       "rank": 7,
-      "title": "黃仁勳復職聯署破13萬人！逾7.1萬名股東聲援 馬斯克、張一鳴都在列",
-      "summary": [
-        "鉅亨網：黃仁勳復職聯署破13萬人！逾7.1萬名股東聲援 馬斯克、張一鳴都在列",
-        "ETtoday：黃仁勳回鍋連署將破16萬人！　逾8萬股東、8000名輝達員工支援"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "鉅亨網",
-          "title": "黃仁勳復職聯署破13萬人！逾7.1萬名股東聲援 馬斯克、張一鳴都在列",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJbXIyZzBCcnhSWERweXYwVURBTUp6WTRFUzFEMjVmQWsxVUI1NkJlQ0Z2TWJiLVFDU01VdnZqRzlSODJDdGpSblB6MFZRX2s?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳回鍋連署將破16萬人！　逾8萬股東、8000名輝達員工支援",
-          "url": "https://www.ettoday.net/news/20261116/3272747.htm"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Megaspeed釋出宣告！證實黃樂去年8月離職 黃仁勳緋聞牽出國安疑慮",
-      "summary": [
-        "鉅亨網：Megaspeed釋出宣告！證實黃樂去年8月離職 黃仁勳緋聞牽出國安疑慮",
-        "ETtoday：Megaspeed最新宣告！黃樂去年8月就已離職　將啟動內部調查"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "鉅亨網",
-          "title": "Megaspeed釋出宣告！證實黃樂去年8月離職 黃仁勳緋聞牽出國安疑慮",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95RUFrX3pvTFJUNlJybVNPTF80b2lfLVZOeVF5b1o2MzJxWFhSMHFYOGM5dExRZzhCMktMek14cEY4VndMX3dFQXVYRWIwM28?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "Megaspeed最新宣告！黃樂去年8月就已離職　將啟動內部調查",
-          "url": "https://www.ettoday.net/news/20261116/3272718.htm"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "SpaceX 首度完成太空船回收 NASA：更接近再次登月目標",
       "summary": [
         "經濟日報：SpaceX 首度完成太空船回收 NASA：更接近再次登月目標",
@@ -220,7 +172,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "71歲林美照竟是「地產女福星」！買房神準「入住半年必漲」 親吐定居林口3年唯一煩惱",
       "summary": [
         "自由時報：71歲林美照竟是「地產女福星」！買房神準「入住半年必漲」 親吐定居林口3年唯一煩惱",
@@ -237,6 +189,48 @@
           "source": "中時新聞",
           "title": "72歲林美照近況曝！「地產女福星」買房半年必漲 定居林口揭奇妙巧合",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mNndkeXBYYy0wM0JwMDczdVVMUGVNM09Fc29UdGVwSm5oQ0swNHpzM2lpQldMQ2ZhMk1QMGRVOWxCVm1pd1pZd29NeGJrLWdzQkY4SEpxVzd4YktUbVRuQ0tXVTdmb2RhZ1lvelRn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "臺南安南07:47發生規模4.0地震 最大震度3級",
+      "summary": [
+        "自由時報：臺南安南07:47發生規模4.0地震 最大震度3級",
+        "ETtoday：快訊／07：47臺南規模4地震　最大震度3級"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "臺南安南07:47發生規模4.0地震 最大震度3級",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5642014"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／07：47臺南規模4地震　最大震度3級",
+          "url": "https://www.ettoday.net/news/20261116/3272764.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
+      "summary": [
+        "風傳媒：美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
+        "鉅亨網：中方宣佈：習近平將同川普、普丁舉行美中俄元首會談"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QODZUSjIxRzBOWGlyM0lNSGZHWW1mby0tNTcydl9mTExodS1UMkdQYXpZZmlTOFZGZjlPR3NrbnQxLTRPTzdCMGpjcm96QQ?oc=5"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "中方宣佈：習近平將同川普、普丁舉行美中俄元首會談",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lUlZ1eDRPSkN4eWFOdl9PSlFwT0EyLVZKMDFUbGltb0JLM3NPRFVQSl9yNi01WDh1Z2Y2QU9tZ2xfcmNnOHp4SXA5OXlRMWs?oc=5"
         }
       ]
     }
@@ -281,33 +275,6 @@
     },
     {
       "rank": 2,
-      "title": "中國經濟全面放緩，未達預期",
-      "summary": [
-        "Bloomberg Markets：中國經濟全面放緩，未達預期",
-        "CNBC：由於工業產出、零售銷售和投資未達預期，中國十月經濟放緩加劇",
-        "Financial Times：中國10月經濟活動放緩幅度超乎預期"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "中國經濟全面放緩，未達預期",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push"
-        },
-        {
-          "source": "CNBC",
-          "title": "由於工業產出、零售銷售和投資未達預期，中國十月經濟放緩加劇",
-          "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
-        },
-        {
-          "source": "Financial Times",
-          "title": "中國10月經濟活動放緩幅度超乎預期",
-          "url": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "2 位對沖基金經理人希望黃仁勳回歸。他能重新擔任英偉達執行長嗎？",
       "summary": [
         "Yahoo Finance：2 位對沖基金經理人希望黃仁勳回歸。他能重新擔任英偉達執行長嗎？",
@@ -328,49 +295,28 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "英國《金融時報》稱，Diamondback接近以50億美元收購Double Eagle的鑽探組合",
+      "rank": 3,
+      "title": "英國《金融時報》稱，Diamondback 接近以 50 億美元收購 Double Eagle 的鑽探組合",
       "summary": [
-        "Investing.com：英國《金融時報》稱，Diamondback接近以50億美元收購Double Eagle的鑽探組合",
-        "Bloomberg Markets：Diamondback正在洽談以約50億美元收購Double Eagle"
+        "Investing.com：英國《金融時報》稱，Diamondback 接近以 50 億美元收購 Double Eagle 的鑽探組合",
+        "Bloomberg Markets：Diamondback 正在洽談以約 50 億美元收購 Double Eagle"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Investing.com",
-          "title": "英國《金融時報》稱，Diamondback接近以50億美元收購Double Eagle的鑽探組合",
+          "title": "英國《金融時報》稱，Diamondback 接近以 50 億美元收購 Double Eagle 的鑽探組合",
           "url": "https://www.investing.com/news/stock-market-news/diamondback-nears-5-billion-deal-to-buy-drilling-portfolio-from-double-eagle-ft-says-5028067"
         },
         {
           "source": "Bloomberg Markets",
-          "title": "Diamondback正在洽談以約50億美元收購Double Eagle",
+          "title": "Diamondback 正在洽談以約 50 億美元收購 Double Eagle",
           "url": "https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion"
         }
       ]
     },
     {
-      "rank": 5,
-      "title": "美國火箭發射後失敗，亞馬遜網路衛星酬載被毀",
-      "summary": [
-        "Investing.com：美國火箭發射後失敗，亞馬遜網路衛星酬載被毀",
-        "The Verge：火神火箭失敗，摧毀了 40 顆亞馬遜獅子座衛星"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "美國火箭發射後失敗，亞馬遜網路衛星酬載被毀",
-          "url": "https://www.investing.com/news/stock-market-news/us-rocket-fails-after-launch-payload-of-amazon-internet-satellites-destroyed-5028094"
-        },
-        {
-          "source": "The Verge",
-          "title": "火神火箭失敗，摧毀了 40 顆亞馬遜獅子座衛星",
-          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "美國及其盟國簽署協議保護人工智慧供應鏈免受中國影響",
       "summary": [
         "Financial Times：美國及其盟國簽署協議保護人工智慧供應鏈免受中國影響",
@@ -391,49 +337,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Anthropic的IPO讓Dario Amodei人工智慧成為熱門潮的新視角",
-      "summary": [
-        "Bloomberg Markets：Anthropic的IPO讓Dario Amodei人工智慧成為熱門潮的新視角",
-        "Investing.com：英偉達業績、Anthropic IPO 為動盪的人工智慧產業帶來考驗"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic的IPO讓Dario Amodei人工智慧成為熱門潮的新視角",
-          "url": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom"
-        },
-        {
-          "source": "Investing.com",
-          "title": "英偉達業績、Anthropic IPO 為動盪的人工智慧產業帶來考驗",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade-5028310"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
-      "summary": [
-        "Bloomberg Markets：印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
-        "Financial Times：印尼就有毒霧霾向鄰國道歉"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-15/indonesia-s-prabowo-apologizes-to-singapore-malaysia-for-haze"
-        },
-        {
-          "source": "Financial Times",
-          "title": "印尼就有毒霧霾向鄰國道歉",
-          "url": "https://www.ft.com/content/725d2cd5-b2d9-455d-bd1c-6a6cdec1a489?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 5,
       "title": "蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
       "summary": [
         "TechCrunch：蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
@@ -454,23 +358,83 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "香港交易所推出首個點心債券指數提振人民幣債市場",
+      "rank": 6,
+      "title": "中國經濟全面放緩，未達預期",
       "summary": [
-        "Bloomberg Markets：香港交易所推出首個點心債券指數提振人民幣債市場",
-        "Investing.com：香港交易所推出首個離岸人民幣債券指數"
+        "Bloomberg Markets：中國經濟全面放緩，未達預期",
+        "Financial Times：中國10月經濟活動放緩幅度超乎預期"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "香港交易所推出首個點心債券指數提振人民幣債市場",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/hkex-launches-first-dim-sum-bond-index-to-boost-yuan-debt-market"
+          "title": "中國經濟全面放緩，未達預期",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push"
         },
         {
+          "source": "Financial Times",
+          "title": "中國10月經濟活動放緩幅度超乎預期",
+          "url": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "詳訊：韓中外長在京舉行會談",
+      "summary": [
+        "韓聯社：詳訊：韓中外長在京舉行會談"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "詳訊：韓中外長在京舉行會談",
+          "url": "https://cn.yna.co.kr/view/ACK20261113003500881"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "澳洲 IDP 以 5.645 億美元的估值拒絕了 Blackstone 的第三次收購嘗試",
+      "summary": [
+        "Investing.com：澳洲 IDP 以 5.645 億美元的估值拒絕了 Blackstone 的第三次收購嘗試"
+      ],
+      "media_count": 1,
+      "links": [
+        {
           "source": "Investing.com",
-          "title": "香港交易所推出首個離岸人民幣債券指數",
-          "url": "https://www.investing.com/news/stock-market-news/hong-kong-exchange-launches-first-offshore-yuan-bond-index-93CH-5028347"
+          "title": "澳洲 IDP 以 5.645 億美元的估值拒絕了 Blackstone 的第三次收購嘗試",
+          "url": "https://www.investing.com/news/stock-market-news/australias-idp-rebuffs-blackstones-third-buyout-attempt-at-5645-million-valuation-5028181"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普、習近平和普丁將在中國舉行三方會晤- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：川普、習近平和普丁將在中國舉行三方會晤- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "川普、習近平和普丁將在中國舉行三方會晤- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcDFMakY4SG9WQ3RIaFUyOGFpNGVnUEQyVzhjNDI1X2NQMTBIM3lwWGtXcEhWXzZPOVpXUHRzcFdBWVdXZmJYTm4zVl9oZXg1OHhnc3VlMng4aDJFUkZEbFF5RWZyNXRjNmFIWDFMUVBiVkRzN0dCVWFlcW41Yk9vMDMwWWd1WnFKSWNLR3pBS2JWOGc?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "英偉達 CEO 搜尋因 Bessent 的「改組」號召而引發爭議",
+      "summary": [
+        "Bloomberg Tech：英偉達 CEO 搜尋因 Bessent 的「改組」號召而引發爭議"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "英偉達 CEO 搜尋因 Bessent 的「改組」號召而引發爭議",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-s-ceo-search-draws-fire-with-bessent-s-call-for-shakeup"
         }
       ]
     }
