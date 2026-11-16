@@ -1,25 +1,20 @@
 {
-  "updated_at": "2026-11-16 16:57",
+  "updated_at": "2026-11-16 17:27",
   "taiwan": [
     {
       "rank": 1,
-      "title": "金融時報：黃仁勳考慮回鍋　矽谷盟友施壓輝達董事會要求讓他復職",
+      "title": "外媒：黃仁勳矽谷盟友組戰情室 欲藉施壓與遊說讓他復職 他本人也支援",
       "summary": [
-        "自由時報：金融時報：黃仁勳考慮回鍋　矽谷盟友施壓輝達董事會要求讓他復職",
-        "經濟日報：金融時報：黃仁勳考慮回鍋　矽谷盟友施壓輝達董事會要求讓他復職",
-        "ETtoday：黃仁勳傳考慮重返輝達　矽谷大老組戰情室施壓董事會挺復職"
+        "經濟日報：外媒：黃仁勳矽谷盟友組戰情室 欲藉施壓與遊說讓他復職 他本人也支援",
+        "ETtoday：黃仁勳傳考慮重返輝達　矽谷大老組戰情室施壓董事會挺復職",
+        "科技新報：金融時報：黃仁勳考慮回鍋，矽谷盟友施壓輝達董事會要求讓他復職"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
         {
-          "source": "自由時報",
-          "title": "金融時報：黃仁勳考慮回鍋　矽谷盟友施壓輝達董事會要求讓他復職",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5641986"
-        },
-        {
           "source": "經濟日報",
-          "title": "金融時報：黃仁勳考慮回鍋　矽谷盟友施壓輝達董事會要求讓他復職",
-          "url": "https://money.udn.com/money/story/5599/9880733"
+          "title": "外媒：黃仁勳矽谷盟友組戰情室 欲藉施壓與遊說讓他復職 他本人也支援",
+          "url": "https://money.udn.com/money/story/5599/9880741"
         },
         {
           "source": "ETtoday",
@@ -253,69 +248,6 @@
     },
     {
       "rank": 2,
-      "title": "黃仁勳與盟友討論重新擔任英偉達執行長",
-      "summary": [
-        "Financial Times：黃仁勳與盟友討論重新擔任英偉達執行長",
-        "Yahoo Finance：根據英國《金融時報》報道，黃仁勳與盟友討論重返英偉達執行長一職"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "黃仁勳與盟友討論重新擔任英偉達執行長",
-          "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "根據英國《金融時報》報道，黃仁勳與盟友討論重返英偉達執行長一職",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVFmU0JGTEhVbjNvTVhibVVVTVlZYW5WLUtRVTlxRE5DZkpoX3ZpeExnendhWDlKb01lRFkxeGZ4MlVhcVV6Y0s3aFpTcDlCN0RXaENGdUtQVG4zRU5iQmg4Q1l5aGx3WlpRcnAtdE1NWHZtRmt4Z0Y0X1UzWmJQQ2dPYjhzamNLLXoxSk93YlpzbUtQSUV4eDFlbU5DeF96T0c2S3B3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "黃仁勳可能會重新擔任英偉達執行長",
-      "summary": [
-        "Investing.com：黃仁勳可能會重新擔任英偉達執行長",
-        "Yahoo Finance：黃仁勳可能會重新擔任英偉達執行長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "黃仁勳可能會重新擔任英偉達執行長",
-          "url": "https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "黃仁勳可能會重新擔任英偉達執行長",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRF9GYTdma2JkbHpaQzZSVlBzQ0diUlR2Y3o4MkhsUHFGLXpmQzI5M1hMWEdEVHlrTFduajlpMnFyZlVwVlYxSUVvOU1GOVNHX0hKb3hYbkNVLXlHMGpjX1FnTWVzVEE3NEo5OEo2WVFSMVV3V3owbjVmNHBGZXdoa3BGdk1FU3RBRFFjdUNfcUNyNVVlR0Q0cjQ1bw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "火神火箭失敗，摧毀了 40 顆亞馬遜獅子座衛星",
-      "summary": [
-        "The Verge：火神火箭失敗，摧毀了 40 顆亞馬遜獅子座衛星",
-        "Investing.com：波音-洛克希德火箭升空後失敗，摧毀了 40 顆亞馬遜衛星"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "火神火箭失敗，摧毀了 40 顆亞馬遜獅子座衛星",
-          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
-        },
-        {
-          "source": "Investing.com",
-          "title": "波音-洛克希德火箭升空後失敗，摧毀了 40 顆亞馬遜衛星",
-          "url": "https://www.investing.com/news/stock-market-news/boeinglockheed-rocket-fails-after-liftoff-destroys-40-amazon-satellites-93CH-5028326"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Diamondback正在洽談以約50億美元收購Double Eagle",
       "summary": [
         "Bloomberg Markets：Diamondback正在洽談以約50億美元收購Double Eagle",
@@ -336,7 +268,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 3,
       "title": "印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
       "summary": [
         "Bloomberg Markets：印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
@@ -357,7 +289,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
       "summary": [
         "TechCrunch：蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
@@ -378,7 +310,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "香港交易所推出首個點心債券指數提振人民幣債市場",
       "summary": [
         "Bloomberg Markets：香港交易所推出首個點心債券指數提振人民幣債市場",
@@ -399,7 +331,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "由於投資者等待英偉達財報，美國股指期貨幾乎沒有變化",
       "summary": [
         "Investing.com：由於投資者等待英偉達財報，美國股指期貨幾乎沒有變化",
@@ -420,7 +352,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "新世界計畫配股 32 億美元，股價跌至新低",
       "summary": [
         "Nikkei Asia：新世界計畫配股 32 億美元，股價跌至新低",
@@ -437,6 +369,63 @@
           "source": "Investing.com",
           "title": "新世界股價暴跌 47% 創歷史新低 配股 32 億美元",
           "url": "https://www.investing.com/news/stock-market-news/new-world-shares-plunge-47-to-record-low-on-32-billion-rights-issue-5028362"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "MTN 正在洽談以南非現金和股票交易收購 Telkom",
+      "summary": [
+        "Bloomberg Markets：MTN 正在洽談以南非現金和股票交易收購 Telkom",
+        "Investing.com：MTN 集團正在洽談收購 Telkom SA 全部股份"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "MTN 正在洽談以南非現金和股票交易收購 Telkom",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/mtn-holds-talks-to-buy-south-africa-s-telkom-in-cash-share-deal"
+        },
+        {
+          "source": "Investing.com",
+          "title": "MTN 集團正在洽談收購 Telkom SA 全部股份",
+          "url": "https://www.investing.com/news/stock-market-news/mtn-group-in-talks-to-acquire-all-shares-of-telkom-sa-93CH-5028422"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "出口強勁，泰國第三季 GDP 成長 2.9%",
+      "summary": [
+        "Nikkei Asia：出口強勁，泰國第三季 GDP 成長 2.9%",
+        "Investing.com：泰國第三季經濟因出口成長2.9%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "出口強勁，泰國第三季 GDP 成長 2.9%",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTW5fbXJjeDdnamd6YkZUckNOejF5YXlQSnlfNnlwNVMyNFN6NS1WdWZEZGhrNjd2WlZuU2lpTTNwb1JBb0JxUVRzQnEyb3ZuZ3FYVE45WThzTFM5LTd1ZjdyWlZxX1dFSEpuZzQwWDA5V0h3QS1TZzdyY3FaNjFfYnhYMlh0MkJ4RDlpbVZRWUdfWmhQQVdXRw?oc=5"
+        },
+        {
+          "source": "Investing.com",
+          "title": "泰國第三季經濟因出口成長2.9%",
+          "url": "https://www.investing.com/news/stock-market-news/thailands-economy-grows-29-in-third-quarter-on-exports-93CH-5028582"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "為什麼瑞穗金融股今天飆漲？",
+      "summary": [
+        "Investing.com：為什麼瑞穗金融股今天飆漲？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "為什麼瑞穗金融股今天飆漲？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-mizuho-financial-stock-surging-today-93CH-5028307"
         }
       ]
     }
