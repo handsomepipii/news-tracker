@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 14:27",
+  "updated_at": "2026-11-16 14:57",
   "taiwan": [
     {
       "rank": 1,
@@ -269,6 +269,33 @@
     },
     {
       "rank": 2,
+      "title": "中國經濟全面放緩，未達預期",
+      "summary": [
+        "Bloomberg Markets：中國經濟全面放緩，未達預期",
+        "CNBC：由於工業產出、零售銷售、投資低於預期，中國十月經濟放緩加劇",
+        "Financial Times：中國10月經濟活動放緩幅度超乎預期"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "中國經濟全面放緩，未達預期",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push"
+        },
+        {
+          "source": "CNBC",
+          "title": "由於工業產出、零售銷售、投資低於預期，中國十月經濟放緩加劇",
+          "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
+        },
+        {
+          "source": "Financial Times",
+          "title": "中國10月經濟活動放緩幅度超乎預期",
+          "url": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "2 位對沖基金經理人希望黃仁勳回歸。他能重新擔任英偉達執行長嗎？",
       "summary": [
         "Yahoo Finance：2 位對沖基金經理人希望黃仁勳回歸。他能重新擔任英偉達執行長嗎？",
@@ -289,49 +316,91 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "英國《金融時報》稱，Diamondback 接近以 50 億美元收購 Double Eagle 的鑽探組合",
+      "rank": 4,
+      "title": "英國《金融時報》稱，Diamondback接近以50億美元收購Double Eagle的鑽探組合",
       "summary": [
-        "Investing.com：英國《金融時報》稱，Diamondback 接近以 50 億美元收購 Double Eagle 的鑽探組合",
-        "Bloomberg Markets：Diamondback 正在洽談以約 50 億美元收購 Double Eagle"
+        "Investing.com：英國《金融時報》稱，Diamondback接近以50億美元收購Double Eagle的鑽探組合",
+        "Bloomberg Markets：Diamondback正在洽談以約50億美元收購Double Eagle"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Investing.com",
-          "title": "英國《金融時報》稱，Diamondback 接近以 50 億美元收購 Double Eagle 的鑽探組合",
+          "title": "英國《金融時報》稱，Diamondback接近以50億美元收購Double Eagle的鑽探組合",
           "url": "https://www.investing.com/news/stock-market-news/diamondback-nears-5-billion-deal-to-buy-drilling-portfolio-from-double-eagle-ft-says-5028067"
         },
         {
           "source": "Bloomberg Markets",
-          "title": "Diamondback 正在洽談以約 50 億美元收購 Double Eagle",
+          "title": "Diamondback正在洽談以約50億美元收購Double Eagle",
           "url": "https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion"
         }
       ]
     },
     {
-      "rank": 4,
-      "title": "美國及其盟國簽署協議保護人工智慧供應鏈免受中國影響",
+      "rank": 5,
+      "title": "美國火箭發射後失敗，亞馬遜網路衛星酬載被毀",
       "summary": [
-        "Financial Times：美國及其盟國簽署協議保護人工智慧供應鏈免受中國影響",
-        "法廣RFI：美國及盟友同意簽署協議以保護 AI 供應鏈免受中國影響"
+        "Investing.com：美國火箭發射後失敗，亞馬遜網路衛星酬載被毀",
+        "The Verge：火神火箭失敗，摧毀了 40 顆亞馬遜獅子座衛星"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "美國及其盟國簽署協議保護人工智慧供應鏈免受中國影響",
-          "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1"
+          "source": "Investing.com",
+          "title": "美國火箭發射後失敗，亞馬遜網路衛星酬載被毀",
+          "url": "https://www.investing.com/news/stock-market-news/us-rocket-fails-after-launch-payload-of-amazon-internet-satellites-destroyed-5028094"
         },
         {
-          "source": "法廣RFI",
-          "title": "美國及盟友同意簽署協議以保護 AI 供應鏈免受中國影響",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261115-%E7%BE%8E%E5%9C%8B%E5%8F%8A%E7%9B%9F%E5%8F%8B%E7%B0%BD%E7%BD%B2%E5%8D%94%E8%AD%B0%E4%BB%A5%E4%BF%9D%E8%AD%B7-ai-%E4%BE%9B%E6%87%89%E9%8F%88%E5%85%8D%E5%8F%97%E4%B8%AD%E5%9C%8B%E5%BD%B1%E9%9F%BF"
+          "source": "The Verge",
+          "title": "火神火箭失敗，摧毀了 40 顆亞馬遜獅子座衛星",
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "Anthropic的IPO讓Dario Amodei人工智慧成為熱門潮的新視角",
+      "summary": [
+        "Bloomberg Markets：Anthropic的IPO讓Dario Amodei人工智慧成為熱門潮的新視角",
+        "Investing.com：英偉達業績、Anthropic IPO 為動盪的人工智慧產業帶來考驗"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic的IPO讓Dario Amodei人工智慧成為熱門潮的新視角",
+          "url": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom"
+        },
+        {
+          "source": "Investing.com",
+          "title": "英偉達業績、Anthropic IPO 為動盪的人工智慧產業帶來考驗",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade-5028310"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
+      "summary": [
+        "Bloomberg Markets：印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
+        "Financial Times：印尼就有毒霧霾向鄰國道歉"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-15/indonesia-s-prabowo-apologizes-to-singapore-malaysia-for-haze"
+        },
+        {
+          "source": "Financial Times",
+          "title": "印尼就有毒霧霾向鄰國道歉",
+          "url": "https://www.ft.com/content/725d2cd5-b2d9-455d-bd1c-6a6cdec1a489?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
       "summary": [
         "TechCrunch：蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
@@ -352,28 +421,28 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "中國經濟全面放緩，未達預期",
+      "rank": 9,
+      "title": "香港交易所推出首個點心債券指數提振人民幣債市場",
       "summary": [
-        "Bloomberg Markets：中國經濟全面放緩，未達預期",
-        "Financial Times：中國10月經濟活動放緩幅度超乎預期"
+        "Bloomberg Markets：香港交易所推出首個點心債券指數提振人民幣債市場",
+        "Investing.com：香港交易所推出首個離岸人民幣債券指數"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "中國經濟全面放緩，未達預期",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push"
+          "title": "香港交易所推出首個點心債券指數提振人民幣債市場",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/hkex-launches-first-dim-sum-bond-index-to-boost-yuan-debt-market"
         },
         {
-          "source": "Financial Times",
-          "title": "中國10月經濟活動放緩幅度超乎預期",
-          "url": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1"
+          "source": "Investing.com",
+          "title": "香港交易所推出首個離岸人民幣債券指數",
+          "url": "https://www.investing.com/news/stock-market-news/hong-kong-exchange-launches-first-offshore-yuan-bond-index-93CH-5028347"
         }
       ]
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "新世界計畫配股 32 億美元，股價跌至新低",
       "summary": [
         "Nikkei Asia：新世界計畫配股 32 億美元，股價跌至新低",
@@ -390,51 +459,6 @@
           "source": "Investing.com",
           "title": "新世界股價暴跌 47% 創歷史新低 配股 32 億美元",
           "url": "https://www.investing.com/news/stock-market-news/new-world-shares-plunge-47-to-record-low-on-32-billion-rights-issue-5028362"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "詳訊：韓中外長在京舉行會談",
-      "summary": [
-        "韓聯社：詳訊：韓中外長在京舉行會談"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "詳訊：韓中外長在京舉行會談",
-          "url": "https://cn.yna.co.kr/view/ACK20261113003500881"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "澳洲 IDP 以 5.645 億美元的估值拒絕了 Blackstone 的第三次收購嘗試",
-      "summary": [
-        "Investing.com：澳洲 IDP 以 5.645 億美元的估值拒絕了 Blackstone 的第三次收購嘗試"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "澳洲 IDP 以 5.645 億美元的估值拒絕了 Blackstone 的第三次收購嘗試",
-          "url": "https://www.investing.com/news/stock-market-news/australias-idp-rebuffs-blackstones-third-buyout-attempt-at-5645-million-valuation-5028181"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "川普、習近平和普丁將在中國舉行三方會晤- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：川普、習近平和普丁將在中國舉行三方會晤- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "川普、習近平和普丁將在中國舉行三方會晤- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcDFMakY4SG9WQ3RIaFUyOGFpNGVnUEQyVzhjNDI1X2NQMTBIM3lwWGtXcEhWXzZPOVpXUHRzcFdBWVdXZmJYTm4zVl9oZXg1OHhnc3VlMng4aDJFUkZEbFF5RWZyNXRjNmFIWDFMUVBiVkRzN0dCVWFlcW41Yk9vMDMwWWd1WnFKSWNLR3pBS2JWOGc?oc=5"
         }
       ]
     }
