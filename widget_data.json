@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 06:57",
+  "updated_at": "2026-11-17 07:27",
   "taiwan": [
     {
       "rank": 1,
@@ -297,33 +297,6 @@
     },
     {
       "rank": 3,
-      "title": "五個歐盟國家預計在盧安達設立移民驅逐中心",
-      "summary": [
-        "BBC World：五個歐盟國家預計在盧安達設立移民驅逐中心",
-        "The Guardian：五個歐盟國家宣佈在盧安達建立移民「返回中心」的計劃",
-        "法廣RFI：歐盟五國計畫將歐洲遣返中心選在盧安達"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "五個歐盟國家預計在盧安達設立移民驅逐中心",
-          "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "title": "五個歐盟國家宣佈在盧安達建立移民「返回中心」的計劃",
-          "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "歐盟五國計畫將歐洲遣返中心選在盧安達",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261116-%E6%AD%90%E7%9B%9F%E4%BA%94%E5%9C%8B%E8%A8%88%E7%95%AB%E5%B0%87%E6%AD%90%E6%B4%B2%E9%81%A3%E8%BF%94%E4%B8%AD%E5%BF%83%E9%81%B8%E5%9C%A8%E7%9B%A7%E6%97%BA%E9%81%94"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "川普表示他「不介意」黃仁勳恢復英偉達執行長職務",
       "summary": [
         "Financial Times：川普表示他「不介意」黃仁勳恢復英偉達執行長職務",
@@ -350,7 +323,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "訊息人士告訴 CNBC，英偉達董事會不考慮讓黃仁勳重新擔任執行長",
       "summary": [
         "CNBC：訊息人士告訴 CNBC，英偉達董事會不考慮讓黃仁勳重新擔任執行長",
@@ -377,7 +350,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "截至 8 月份，川普持有 Nvidia 價值 6200 萬美元的股票",
       "summary": [
         "Investing.com：截至 8 月份，川普持有 Nvidia 價值 6200 萬美元的股票",
@@ -398,7 +371,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "川普、習近平和普丁將舉行會面，據報道黃仁勳期待英偉達捲土重來",
       "summary": [
         "Bloomberg Tech：川普、習近平和普丁將舉行會面，據報道黃仁勳期待英偉達捲土重來",
@@ -419,7 +392,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "AI新創公司Dreamteam籌措資金挑戰Salesforce、SAP",
       "summary": [
         "Bloomberg Tech：AI新創公司Dreamteam籌措資金挑戰Salesforce、SAP",
@@ -440,7 +413,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Zoox 機器人計程車現已出現在拉斯維加斯的 Uber 應用程式上",
       "summary": [
         "TechCrunch：Zoox 機器人計程車現已出現在拉斯維加斯的 Uber 應用程式上",
@@ -461,7 +434,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "烏軍對俄再發大規模無人機襲擊，克羅米亞大橋再成目標",
       "summary": [
         "法廣RFI：烏軍對俄再發大規模無人機襲擊，克羅米亞大橋再成目標",
@@ -478,6 +451,27 @@
           "source": "BBC World",
           "title": "俄羅斯通報烏克蘭最大的無人機戰爭攻擊，克里米亞地標橋遭到攻擊",
           "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "英特爾股價暴跌29%後被股東起訴誤導投資者",
+      "summary": [
+        "Tom's Hardware：英特爾股價暴跌29%後被股東起訴誤導投資者",
+        "Ars Technica：英特爾股價一日下跌28.6% 股東起訴英特爾及其執行長和財務長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "英特爾股價暴跌29%後被股東起訴誤導投資者",
+          "url": "https://www.tomshardware.com/pc-components/cpus/intel-sued-by-shareholders-for-misleading-investors-after-stock-plunges-29-percent-class-action-claims-the-company-downplayed-the-severity-of-pc-market-headwinds"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "英特爾股價一日下跌28.6% 股東起訴英特爾及其執行長和財務長",
+          "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/"
         }
       ]
     }
