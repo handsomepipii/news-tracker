@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 19:28",
+  "updated_at": "2026-11-16 19:57",
   "taiwan": [
     {
       "rank": 1,
@@ -51,27 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
-      "summary": [
-        "MoneyDJ理財網：貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
-        "科技新報：貝森特質疑輝達銷售資料、內控  籲從外部延攬 CEO"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLXVFa2dBV0tqSlJGb0FjWHRNbWdDTGI3ei1mbzY0WHV3OTVtR0g2eDVQYUdYZWVtT1M3WXNaOHM2YmRhQzhPVjFod0had0lMdUZmVzBsMzZ3SWlVOGo3SC1fVl9sZm8yY0RKUmxOQkFWWWZtdEg3a2NlY2JZTlduNldQTlVyakRnVUF4cmRQUGo?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "貝森特質疑輝達銷售資料、內控  籲從外部延攬 CEO",
-          "url": "https://finance.technews.tw/2026/11/16/bessent-says-nvidia-must-go-outside-the-company-to-find-new-ceo/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "學生揭營養午餐「生雞肉」遭網攻！ 蔣萬安：已請教育局查證",
       "summary": [
         "自由時報：學生揭營養午餐「生雞肉」遭網攻！ 蔣萬安：已請教育局查證",
@@ -92,28 +71,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "71歲林美照竟是「地產女福星」！買房神準「入住半年必漲」 親吐定居林口3年唯一煩惱",
-      "summary": [
-        "自由時報：71歲林美照竟是「地產女福星」！買房神準「入住半年必漲」 親吐定居林口3年唯一煩惱",
-        "中時新聞：72歲林美照近況曝！「地產女福星」買房半年必漲 定居林口揭奇妙巧合"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "71歲林美照竟是「地產女福星」！買房神準「入住半年必漲」 親吐定居林口3年唯一煩惱",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5641951"
-        },
-        {
-          "source": "中時新聞",
-          "title": "72歲林美照近況曝！「地產女福星」買房半年必漲 定居林口揭奇妙巧合",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mNndkeXBYYy0wM0JwMDczdVVMUGVNM09Fc29UdGVwSm5oQ0swNHpzM2lpQldMQ2ZhMk1QMGRVOWxCVm1pd1pZd29NeGJrLWdzQkY4SEpxVzd4YktUbVRuQ0tXVTdmb2RhZ1lvelRn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "臺南安南07:47發生規模4.0地震 最大震度3級",
       "summary": [
         "自由時報：臺南安南07:47發生規模4.0地震 最大震度3級",
@@ -134,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "沒有延後Rapidus：27年底至28年初量產2奈米- 新聞",
       "summary": [
         "MoneyDJ理財網：沒有延後Rapidus：27年底至28年初量產2奈米- 新聞",
@@ -155,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
       "summary": [
         "風傳媒：美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
@@ -176,7 +134,28 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "title": "貝森特質疑輝達銷售資料、內控  籲從外部延攬 CEO",
+      "summary": [
+        "科技新報：貝森特質疑輝達銷售資料、內控  籲從外部延攬 CEO",
+        "MoneyDJ理財網：貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "貝森特質疑輝達銷售資料、內控  籲從外部延攬 CEO",
+          "url": "https://finance.technews.tw/2026/11/16/bessent-says-nvidia-must-go-outside-the-company-to-find-new-ceo/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMzQ2TUVJcEFQdGtjN2FfaWtvbzFZQkhteWNvYldPbWUtamd1U3ZvSVBPT3diOGxQN1h5ZFhQZmRpU2NKd21JenRQNnR5c3R4MUZSVC1TSEwyMFRpVzNfSHBqYnlDeTAtWm4xb0c1Y3RXdDQ1T1lrYXFSZjYwOUtibERBWGd1cjVPZ1hMSXY4UTUyQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "股東控隱瞞PC銷售疲弱　英特爾遭集體訴訟",
       "summary": [
         "經濟日報：股東控隱瞞PC銷售疲弱　英特爾遭集體訴訟",
@@ -197,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美國及盟友簽署舊金山宣言　聯手強化AI供應鏈防堵中國",
       "summary": [
         "經濟日報：美國及盟友簽署舊金山宣言　聯手強化AI供應鏈防堵中國",
@@ -214,6 +193,27 @@
           "source": "科技新報",
           "title": "美國及盟友簽署舊金山宣言，聯手強化 AI 供應鏈防堵中國",
           "url": "https://technews.tw/2026/11/16/us-and-allies-sign-accord-to-protect-ai-supply-chains-from-china/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "罕見！日本福岡市長選舉沒結果 13名候選人未取得法定門檻票數",
+      "summary": [
+        "自由時報：罕見！日本福岡市長選舉沒結果 13名候選人未取得法定門檻票數",
+        "經濟日報：福岡市長選舉陷入混戰　13名候選人均未當選"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "罕見！日本福岡市長選舉沒結果 13名候選人未取得法定門檻票數",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5642048"
+        },
+        {
+          "source": "經濟日報",
+          "title": "福岡市長選舉陷入混戰　13名候選人均未當選",
+          "url": "https://money.udn.com/money/story/5599/9882117"
         }
       ]
     }
@@ -290,22 +290,22 @@
     },
     {
       "rank": 4,
-      "title": "印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
+      "title": "川普、習近平和普丁將舉行罕見的亞太經合組織三邊會談",
       "summary": [
-        "Bloomberg Markets：印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
-        "Financial Times：印尼就有毒霧霾向鄰國道歉"
+        "Bloomberg Markets：川普、習近平和普丁將舉行罕見的亞太經合組織三邊會談",
+        "Bloomberg Tech：川普、習近平和普丁將舉行會面，據報道黃仁勳期待英偉達捲土重來"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-15/indonesia-s-prabowo-apologizes-to-singapore-malaysia-for-haze"
+          "title": "川普、習近平和普丁將舉行罕見的亞太經合組織三邊會談",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-16/trump-xi-and-putin-set-for-rare-apec-trilateral-talks-video"
         },
         {
-          "source": "Financial Times",
-          "title": "印尼就有毒霧霾向鄰國道歉",
-          "url": "https://www.ft.com/content/725d2cd5-b2d9-455d-bd1c-6a6cdec1a489?syn-25a6b1a6=1"
+          "source": "Bloomberg Tech",
+          "title": "川普、習近平和普丁將舉行會面，據報道黃仁勳期待英偉達捲土重來",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-16/the-pulse-with-francine-lacqua-11-16-2026-video"
         }
       ]
     },
@@ -353,6 +353,27 @@
     },
     {
       "rank": 7,
+      "title": "英偉達業績、Anthropic IPO 為動盪的人工智慧產業帶來考驗",
+      "summary": [
+        "Investing.com：英偉達業績、Anthropic IPO 為動盪的人工智慧產業帶來考驗",
+        "Bloomberg Tech：Anthropic IPO 測試人工智慧模型能否與英偉達的高估值相媲美"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "英偉達業績、Anthropic IPO 為動盪的人工智慧產業帶來考驗",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade-5028310"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic IPO 測試人工智慧模型能否與英偉達的高估值相媲美",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-16/anthropic-ipo-tests-whether-ai-models-can-rival-nvidia-s-rich-valuation"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "由於投資者等待英偉達財報，美國股指期貨幾乎沒有變化",
       "summary": [
         "Investing.com：由於投資者等待英偉達財報，美國股指期貨幾乎沒有變化",
@@ -373,7 +394,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "MTN 正在洽談以南非現金和股票交易收購 Telkom",
       "summary": [
         "Bloomberg Markets：MTN 正在洽談以南非現金和股票交易收購 Telkom",
@@ -394,7 +415,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "出口強勁，泰國第三季 GDP 成長 2.9%",
       "summary": [
         "Nikkei Asia：出口強勁，泰國第三季 GDP 成長 2.9%",
@@ -411,27 +432,6 @@
           "source": "Investing.com",
           "title": "泰國第三季經濟因出口成長2.9%",
           "url": "https://www.investing.com/news/stock-market-news/thailands-economy-grows-29-in-third-quarter-on-exports-93CH-5028582"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "五個歐盟國家宣佈將非正常移民驅逐至盧安達的計劃",
-      "summary": [
-        "Financial Times：五個歐盟國家宣佈將非正常移民驅逐至盧安達的計劃",
-        "BBC World：五個歐盟國家預計在盧安達設立移民驅逐中心"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "五個歐盟國家宣佈將非正常移民驅逐至盧安達的計劃",
-          "url": "https://www.ft.com/content/ce4e5b88-f7f6-4aaa-aa29-aed46b99f065?syn-25a6b1a6=1"
-        },
-        {
-          "source": "BBC World",
-          "title": "五個歐盟國家預計在盧安達設立移民驅逐中心",
-          "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
