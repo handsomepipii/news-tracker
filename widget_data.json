@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 01:27",
+  "updated_at": "2026-11-17 01:56",
   "taiwan": [
     {
       "rank": 1,
@@ -40,6 +40,33 @@
     },
     {
       "rank": 2,
+      "title": "和貝森特先打一架吧！川普：不介意黃仁勳復職 沒人證明黃樂是間諜",
+      "summary": [
+        "經濟日報：和貝森特先打一架吧！川普：不介意黃仁勳復職 沒人證明黃樂是間諜",
+        "自由時報：川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
+        "ETtoday：川普鬆口了！「黃樂可能不是間諜」　不排除川習會向習近平提起"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "和貝森特先打一架吧！川普：不介意黃仁勳復職 沒人證明黃樂是間諜",
+          "url": "https://money.udn.com/money/story/5599/9882674"
+        },
+        {
+          "source": "自由時報",
+          "title": "川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643065"
+        },
+        {
+          "source": "ETtoday",
+          "title": "川普鬆口了！「黃樂可能不是間諜」　不排除川習會向習近平提起",
+          "url": "https://www.ettoday.net/news/20261117/3273301.htm"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "2026新北Demo Day登場！在地青創團隊登臺提案，進行新北創新能量",
       "summary": [
         "關鍵評論網：2026新北Demo Day登場！在地青創團隊登臺提案，進行新北創新能量",
@@ -66,7 +93,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "臺股慘跌2635點！投信狠賣179億唯獨連4買「這檔」1.58萬張 股價逆揚近4％",
       "summary": [
         "自由時報：臺股慘跌2635點！投信狠賣179億唯獨連4買「這檔」1.58萬張 股價逆揚近4％",
@@ -93,7 +120,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "TVBS封關民調／AI模型預估蔣萬安51%得票、沈伯洋49%　3萬票險勝",
       "summary": [
         "ETtoday：TVBS封關民調／AI模型預估蔣萬安51%得票、沈伯洋49%　3萬票險勝",
@@ -114,7 +141,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
       "summary": [
         "科技新報：手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
@@ -135,7 +162,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "華郵：川普持有輝達股票價值大增 最高達6200萬美元",
       "summary": [
         "經濟日報：華郵：川普持有輝達股票價值大增 最高達6200萬美元",
@@ -156,49 +183,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "選前拔樁蘇巧慧本命區？　李四川：樹林濟安宮董事長是我老朋友",
-      "summary": [
-        "ETtoday：選前拔樁蘇巧慧本命區？　李四川：樹林濟安宮董事長是我老朋友",
-        "自由時報：成功拔樁蘇巧慧本命區？ 李四川：與陳黃綠妹是老朋友"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "選前拔樁蘇巧慧本命區？　李四川：樹林濟安宮董事長是我老朋友",
-          "url": "https://www.ettoday.net/news/20261116/3273020.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "成功拔樁蘇巧慧本命區？ 李四川：與陳黃綠妹是老朋友",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5642450"
-        }
-      ]
-    },
-    {
       "rank": 8,
-      "title": "美航班大亂  疑因承包商 L3Harris 更新裝置釀禍",
-      "summary": [
-        "科技新報：美航班大亂  疑因承包商 L3Harris 更新裝置釀禍",
-        "MoneyDJ理財網：美航班大亂疑因承包商L3Harris更新裝置釀禍- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "美航班大亂  疑因承包商 L3Harris 更新裝置釀禍",
-          "url": "https://technews.tw/2026/11/16/us-flight-chaos-suspected-l3harris-equipment-update/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "美航班大亂疑因承包商L3Harris更新裝置釀禍- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTGpUZm9udG5FMkZpWVA0bVBNUC1CRWpLaURaME9hb3psdXlDd1NheURFZERkWk1QWnN6ejJ5NTdtN0djMzY3R3Bnd0xDSHRaTjVxS2VJZmJab09STWg3ZEZIQTZNV2t6TnJncFFqdEc0eW1ESi03OXBIelBkNkVIZE5UUEpscWlId05PZ0U3dnlWQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "高盛看好標普 500 續漲 15%  未來一年挑戰 8,700 點",
       "summary": [
         "科技新報：高盛看好標普 500 續漲 15%  未來一年挑戰 8,700 點",
@@ -219,7 +204,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "輝達風波未平仍獲美力挺　傳將列AI國家冠軍企業",
       "summary": [
         "經濟日報：輝達風波未平仍獲美力挺　傳將列AI國家冠軍企業",
@@ -236,6 +221,27 @@
           "source": "科技新報",
           "title": "輝達風波未平仍獲美力挺，傳將列 AI 國家冠軍企業",
           "url": "https://technews.tw/2026/11/16/trump-still-plans-to-make-nvidia-americas-ai-champion/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "《基金》百萬受益人ETF績效揭曉00981A、0050上週漲幅勝出- 基金",
+      "summary": [
+        "中時新聞：《基金》百萬受益人ETF績效揭曉00981A、0050上週漲幅勝出- 基金",
+        "工商時報：《基金》百萬受益人ETF績效揭曉00981A、0050上週漲幅勝出- 理財"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "《基金》百萬受益人ETF績效揭曉00981A、0050上週漲幅勝出- 基金",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53SWdmNUlMOXMweWZ2cEFtcEtzLU9Tc3BLSDRKZXZKY3pwbVhvV250eHF5TlYxX19qX1BacnUzR1JVLU9BT3NJM2p0NFkyWVRYTko3UUs0WGExc29YWWpuOERpMy1Fd2NDZUE?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "《基金》百萬受益人ETF績效揭曉00981A、0050上週漲幅勝出- 理財",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NUVQyU2JaV0x0M0tUUmFWRE9ta1NvcWtjak02T3NidXBubGhuUGFZNXRWRi1JZVZidEc5YkR1MXBadzgwdVFkVFlRNlB1UTA3N1J0RWlmTTJyNGt6QVYw?oc=5"
         }
       ]
     }
@@ -345,48 +351,6 @@
     },
     {
       "rank": 5,
-      "title": "MTN 正在洽談以南非現金和股票交易收購 Telkom",
-      "summary": [
-        "Bloomberg Markets：MTN 正在洽談以南非現金和股票交易收購 Telkom",
-        "Investing.com：MTN 集團正在洽談收購 Telkom SA 全部股份"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "MTN 正在洽談以南非現金和股票交易收購 Telkom",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/mtn-holds-talks-to-buy-south-africa-s-telkom-in-cash-share-deal"
-        },
-        {
-          "source": "Investing.com",
-          "title": "MTN 集團正在洽談收購 Telkom SA 全部股份",
-          "url": "https://www.investing.com/news/stock-market-news/mtn-group-in-talks-to-acquire-all-shares-of-telkom-sa-93CH-5028422"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "據報道，黃仁勳考慮執行長復出，馬斯克支援回歸，英偉達股價穩定",
-      "summary": [
-        "Yahoo Finance：據報道，黃仁勳考慮執行長復出，馬斯克支援回歸，英偉達股價穩定",
-        "Tom's Hardware：報導稱，黃仁勳可能會重新擔任英偉達執行長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "據報道，黃仁勳考慮執行長復出，馬斯克支援回歸，英偉達股價穩定",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVzVrZl9udUdNTVdUdnNoUG1meHJncG1HUVN6WXlXQ3JkTGNSOE9HQU1pcHJ5RFhEZ01STzQ0ZHFlNUh4YVV6eVNpN3NHNXR0eUpoT2l6bTY2QW5hT05yaXMzaGtZcVBrUWdOa25YeWNkckJ6SW80U3Q1VFhsUUJjUjV1dzNyM0EtUlR5OWh6T1paRnVjeUIzSjVqS0hIaDA1REVkMGMxM3lzMDhYdG1wOFZCLVdxRjRleXNDNTdYc2pQSDVmZVhzZ1ZTUThfWUgwdkRnUzhQOGc?oc=5"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "報導稱，黃仁勳可能會重新擔任英偉達執行長",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-could-be-plotting-return-as-nvidia-ceo-report-claims-allies-have-formed-a-war-room-to-drive-reinstatement-days-after-resignation-scandal"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "出口強勁，泰國第三季 GDP 成長 2.9%",
       "summary": [
         "Nikkei Asia：出口強勁，泰國第三季 GDP 成長 2.9%",
@@ -407,7 +371,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "人工智慧擔憂令投資人緊張，歐洲股市波動",
       "summary": [
         "Bloomberg Markets：人工智慧擔憂令投資人緊張，歐洲股市波動",
@@ -428,7 +392,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "美國籃球運動員攜帶34公斤大麻在奈及利亞機場被捕",
       "summary": [
         "BBC World：美國籃球運動員攜帶34公斤大麻在奈及利亞機場被捕",
@@ -449,7 +413,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "北約成員國愛沙尼亞在試圖「破壞」無人機製造商後關閉俄羅斯邊境",
       "summary": [
         "CNBC：北約成員國愛沙尼亞在試圖「破壞」無人機製造商後關閉俄羅斯邊境",
@@ -466,6 +430,48 @@
           "source": "BBC World",
           "title": "無人機工廠縱火未遂後，愛沙尼亞將關閉俄羅斯過境點",
           "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "聯準會巴爾表示人工智慧代理可能會加劇未來的銀行擠兌",
+      "summary": [
+        "Bloomberg Markets：聯準會巴爾表示人工智慧代理可能會加劇未來的銀行擠兌",
+        "Bloomberg Tech：聯準會巴爾警告人工智慧代理可能會加劇未來的銀行擠兌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "聯準會巴爾表示人工智慧代理可能會加劇未來的銀行擠兌",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/fed-s-barr-says-ai-agents-could-fuel-future-bank-runs"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "聯準會巴爾警告人工智慧代理可能會加劇未來的銀行擠兌",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-16/fed-s-barr-warns-ai-agents-may-fuel-future-bank-runs-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普、習近平和普丁將舉行會面，據報道黃仁勳期待英偉達捲土重來",
+      "summary": [
+        "Bloomberg Tech：川普、習近平和普丁將舉行會面，據報道黃仁勳期待英偉達捲土重來",
+        "法廣RFI：特朗普稱可能會在中國與金正恩會面"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "川普、習近平和普丁將舉行會面，據報道黃仁勳期待英偉達捲土重來",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-16/the-pulse-with-francine-lacqua-11-16-2026-video"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "特朗普稱可能會在中國與金正恩會面",
+          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261116-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%8F%AF%E8%83%BD%E6%9C%83%E5%9C%A8%E4%B8%AD%E5%9C%8B%E8%88%87%E9%87%91%E6%AD%A3%E6%81%A9%E6%9C%83%E9%9D%A2"
         }
       ]
     }
