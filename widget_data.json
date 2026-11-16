@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 03:27",
+  "updated_at": "2026-11-17 03:58",
   "taiwan": [
     {
       "rank": 1,
@@ -67,33 +67,6 @@
     },
     {
       "rank": 3,
-      "title": "臺股慘跌2635點！投信狠賣179億唯獨連4買「這檔」1.58萬張 股價逆揚近4％",
-      "summary": [
-        "自由時報：臺股慘跌2635點！投信狠賣179億唯獨連4買「這檔」1.58萬張 股價逆揚近4％",
-        "風傳媒：三大法人》臺股崩跌2635點、法人賣超1140億！外資轉賣702億，投信終結連24買、 大砍臺新新光金",
-        "中時新聞：外資拋售701億元 三大法人賣超1140億元 臺股慘崩3原因"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "臺股慘跌2635點！投信狠賣179億唯獨連4買「這檔」1.58萬張 股價逆揚近4％",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5642603"
-        },
-        {
-          "source": "風傳媒",
-          "title": "三大法人》臺股崩跌2635點、法人賣超1140億！外資轉賣702億，投信終結連24買、 大砍臺新新光金",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54UDl0akhRc1VpY2hkVk5Mamdrb3AzTlNHc1A2Wl9mdE5pWi1zQmQ2NGxZaEFjTUpwYXNPWFZYTlNjbTVaWWp3REdQVzVJQQ?oc=5"
-        },
-        {
-          "source": "中時新聞",
-          "title": "外資拋售701億元 三大法人賣超1140億元 臺股慘崩3原因",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6dFFtbEhtVGJUT05QdWN0VGVyMFVsbUZidTVMOW5QZ0FqTVFjOU52djZsdnp3anZ2Ny1peFJCYVNuLU5rbHB3Z1U2RWx0N3psa0J1LXEzWnJxOFkwenpNcnJmSlZvbmdBYjR2X0dR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "沈伯洋響應網路號召做披薩 蔣萬安酸：要真材實料不是畫大餅",
       "summary": [
         "自由時報：沈伯洋響應網路號召做披薩 蔣萬安酸：要真材實料不是畫大餅",
@@ -120,7 +93,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "川普啟程赴亞洲拋震撼彈　訪中國時可能會晤金正恩",
       "summary": [
         "經濟日報：川普啟程赴亞洲拋震撼彈　訪中國時可能會晤金正恩",
@@ -147,7 +120,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "TVBS封關民調／AI模型預估蔣萬安51%得票、沈伯洋49%　3萬票險勝",
       "summary": [
         "ETtoday：TVBS封關民調／AI模型預估蔣萬安51%得票、沈伯洋49%　3萬票險勝",
@@ -168,7 +141,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
       "summary": [
         "科技新報：手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
@@ -189,7 +162,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "華郵：川普持有輝達股票價值大增 最高達6200萬美元",
       "summary": [
         "經濟日報：華郵：川普持有輝達股票價值大增 最高達6200萬美元",
@@ -210,7 +183,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "加拿大總理卡尼：美加貿易談判若破局，可能轉與中國車廠合作",
       "summary": [
         "科技新報：加拿大總理卡尼：美加貿易談判若破局，可能轉與中國車廠合作",
@@ -231,7 +204,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "秦慧珠嘆藍軍會「含淚投票」　蔣萬安諷：不需要貶低自己的情緒",
       "summary": [
         "ETtoday：秦慧珠嘆藍軍會「含淚投票」　蔣萬安諷：不需要貶低自己的情緒",
@@ -250,11 +223,64 @@
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5642914"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "TVBS封關民調／北市激戰！蔣萬安4區廣泛領先 沈伯洋僅「這兩區」佔優勢",
+      "summary": [
+        "TVBS新聞：TVBS封關民調／北市激戰！蔣萬安4區廣泛領先 沈伯洋僅「這兩區」佔優勢",
+        "中時新聞：TVBS北市封關民調蔣萬安46％領先沈伯洋2人差距曝光- 政治"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "TVBS封關民調／北市激戰！蔣萬安4區廣泛領先 沈伯洋僅「這兩區」佔優勢",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Wcmh2aWNEZkdBTHdhQ0liUDh4Z1YzWC1fREt4MnpXWWx6VXRucWdPZ041NG5qc1FVaHEzSXFRenVwclhoLWRRZnBIY0MtUW9iU0xn?oc=5"
+        },
+        {
+          "source": "中時新聞",
+          "title": "TVBS北市封關民調蔣萬安46％領先沈伯洋2人差距曝光- 政治",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JcUJ6NVp5NERUbU5KTmdFV0NaZnBfWUNKSUlEYW1KMzIwcUVPcFlTYVgxQnFmeFUxXy1LTEpXQlNqSHZFOGpCLTVOM2F2VkhFdHZjMjhtNkNhbXlHaEJ1c1VsMUdZWUlNNHZkbFpB?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "蘋果將允許使用者透過臉部解鎖 iPhone Duo，解決主要缺陷",
+      "summary": [
+        "Bloomberg Tech：蘋果將允許使用者透過臉部解鎖 iPhone Duo，解決主要缺陷",
+        "Investing.com：蘋果為 iPhone Duo 新增臉部辨識解鎖功能",
+        "The Verge：蘋果正在為 iPhone Duo 新增面部解鎖功能，無需新硬體"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "蘋果將允許使用者透過臉部解鎖 iPhone Duo，解決主要缺陷",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/apple-to-let-users-face-unlock-iphone-duo-addressing-key-drawback"
+        },
+        {
+          "source": "Investing.com",
+          "title": "蘋果為 iPhone Duo 新增臉部辨識解鎖功能",
+          "url": "https://www.investing.com/news/stock-market-news/apple-adds-facial-recognition-unlock-to-iphone-duo-5030704"
+        },
+        {
+          "source": "The Verge",
+          "title": "蘋果正在為 iPhone Duo 新增面部解鎖功能，無需新硬體",
+          "url": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "蘋果為 iPhone Duo 新增了「解鎖解鎖」功能，但不是 Face ID",
+          "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "隨著比特幣繼續拋售，加密貨幣股票在盤前下滑",
       "summary": [
         "Investing.com：隨著比特幣繼續拋售，加密貨幣股票在盤前下滑",
@@ -281,7 +307,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "川普表示他「不介意」黃仁勳恢復英偉達執行長職務",
       "summary": [
         "Financial Times：川普表示他「不介意」黃仁勳恢復英偉達執行長職務",
@@ -308,7 +334,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "訊息人士告訴 CNBC，英偉達董事會不考慮讓黃仁勳重新擔任執行長",
       "summary": [
         "CNBC：訊息人士告訴 CNBC，英偉達董事會不考慮讓黃仁勳重新擔任執行長",
@@ -331,33 +357,6 @@
           "source": "The Verge",
           "title": "據報道，英偉達董事會「不考慮」重新聘用黃仁勳",
           "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "蘋果將允許使用者透過臉部解鎖 iPhone Duo，解決主要缺陷",
-      "summary": [
-        "Bloomberg Tech：蘋果將允許使用者透過臉部解鎖 iPhone Duo，解決主要缺陷",
-        "Investing.com：蘋果為 iPhone Duo 新增臉部辨識解鎖功能",
-        "The Verge：蘋果正在為 iPhone Duo 新增面部解鎖功能，無需新硬體"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "蘋果將允許使用者透過臉部解鎖 iPhone Duo，解決主要缺陷",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/apple-to-let-users-face-unlock-iphone-duo-addressing-key-drawback"
-        },
-        {
-          "source": "Investing.com",
-          "title": "蘋果為 iPhone Duo 新增臉部辨識解鎖功能",
-          "url": "https://www.investing.com/news/stock-market-news/apple-adds-facial-recognition-unlock-to-iphone-duo-5030704"
-        },
-        {
-          "source": "The Verge",
-          "title": "蘋果正在為 iPhone Duo 新增面部解鎖功能，無需新硬體",
-          "url": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta"
         }
       ]
     },
