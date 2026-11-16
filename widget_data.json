@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 15:59",
+  "updated_at": "2026-11-16 16:29",
   "taiwan": [
     {
       "rank": 1,
@@ -35,33 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
-      "summary": [
-        "自由時報：美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
-        "經濟日報：美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
-        "科技新報：美財長 10 天最後通牒，促輝達說明是否縱容最先進晶片走私中國"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641984"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
-          "url": "https://money.udn.com/money/story/5599/9880725"
-        },
-        {
-          "source": "科技新報",
-          "title": "美財長 10 天最後通牒，促輝達說明是否縱容最先進晶片走私中國",
-          "url": "https://technews.tw/2026/11/16/us-treasury-chief-wants-answers-soon-from-nvidia/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
@@ -82,7 +55,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "沒有延後 Rapidus：27年底至28年初量產2奈米-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：沒有延後 Rapidus：27年底至28年初量產2奈米-新聞內容-基金",
@@ -103,7 +76,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "學生揭營養午餐「生雞肉」遭網攻！ 蔣萬安：已請教育局查證",
       "summary": [
         "自由時報：學生揭營養午餐「生雞肉」遭網攻！ 蔣萬安：已請教育局查證",
@@ -124,7 +97,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "71歲林美照竟是「地產女福星」！買房神準「入住半年必漲」 親吐定居林口3年唯一煩惱",
       "summary": [
         "自由時報：71歲林美照竟是「地產女福星」！買房神準「入住半年必漲」 親吐定居林口3年唯一煩惱",
@@ -145,7 +118,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "臺南安南07:47發生規模4.0地震 最大震度3級",
       "summary": [
         "自由時報：臺南安南07:47發生規模4.0地震 最大震度3級",
@@ -166,7 +139,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
       "summary": [
         "風傳媒：美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
@@ -187,7 +160,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "股東控隱瞞PC銷售疲弱　英特爾遭集體訴訟",
       "summary": [
         "經濟日報：股東控隱瞞PC銷售疲弱　英特爾遭集體訴訟",
@@ -208,7 +181,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美國及盟友簽署舊金山宣言　聯手強化AI供應鏈防堵中國",
       "summary": [
         "經濟日報：美國及盟友簽署舊金山宣言　聯手強化AI供應鏈防堵中國",
@@ -225,6 +198,27 @@
           "source": "科技新報",
           "title": "美國及盟友簽署舊金山宣言，聯手強化 AI 供應鏈防堵中國",
           "url": "https://technews.tw/2026/11/16/us-and-allies-sign-accord-to-protect-ai-supply-chains-from-china/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "特斯拉開放部分客戶購買 Cybercab，29,900 美元開賣",
+      "summary": [
+        "科技新報：特斯拉開放部分客戶購買 Cybercab，29,900 美元開賣",
+        "INSIDE硬塞：Tesla Cybercab 開放特定客戶訂購！售價 29,990 美元，自動駕駛每月另收 299 美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "特斯拉開放部分客戶購買 Cybercab，29,900 美元開賣",
+          "url": "https://technews.tw/2026/11/16/tesla-cybercab-open-for-limited-customer/"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "Tesla Cybercab 開放特定客戶訂購！售價 29,990 美元，自動駕駛每月另收 299 美元",
+          "url": "https://www.inside.com.tw/article/42917-tesla-cybercab-pricing-sales-announced"
         }
       ]
     }
@@ -262,7 +256,7 @@
       "title": "中國經濟全面放緩，未達預期",
       "summary": [
         "Bloomberg Markets：中國經濟全面放緩，未達預期",
-        "CNBC：由於工業產出、零售銷售和投資未達預期，中國十月經濟放緩加劇",
+        "CNBC：由於工業產出、零售銷售、投資低於預期，中國十月經濟放緩加劇",
         "Financial Times：中國10月經濟活動放緩幅度超乎預期"
       ],
       "media_count": 3,
@@ -274,7 +268,7 @@
         },
         {
           "source": "CNBC",
-          "title": "由於工業產出、零售銷售和投資未達預期，中國十月經濟放緩加劇",
+          "title": "由於工業產出、零售銷售、投資低於預期，中國十月經濟放緩加劇",
           "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
         },
         {
@@ -286,27 +280,6 @@
     },
     {
       "rank": 3,
-      "title": "英國《金融時報》稱，Diamondback接近以50億美元收購Double Eagle的鑽探組合",
-      "summary": [
-        "Investing.com：英國《金融時報》稱，Diamondback接近以50億美元收購Double Eagle的鑽探組合",
-        "Bloomberg Markets：Diamondback正在洽談以約50億美元收購Double Eagle"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "英國《金融時報》稱，Diamondback接近以50億美元收購Double Eagle的鑽探組合",
-          "url": "https://www.investing.com/news/stock-market-news/diamondback-nears-5-billion-deal-to-buy-drilling-portfolio-from-double-eagle-ft-says-5028067"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "Diamondback正在洽談以約50億美元收購Double Eagle",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "美國火箭發射後失敗，亞馬遜網路衛星酬載被毀",
       "summary": [
         "Investing.com：美國火箭發射後失敗，亞馬遜網路衛星酬載被毀",
@@ -327,7 +300,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "黃仁勳可能會重新擔任英偉達執行長",
       "summary": [
         "Investing.com：黃仁勳可能會重新擔任英偉達執行長",
@@ -344,6 +317,27 @@
           "source": "Yahoo Finance",
           "title": "黃仁勳可能會重新擔任英偉達執行長",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRF9GYTdma2JkbHpaQzZSVlBzQ0diUlR2Y3o4MkhsUHFGLXpmQzI5M1hMWEdEVHlrTFduajlpMnFyZlVwVlYxSUVvOU1GOVNHX0hKb3hYbkNVLXlHMGpjX1FnTWVzVEE3NEo5OEo2WVFSMVV3V3owbjVmNHBGZXdoa3BGdk1FU3RBRFFjdUNfcUNyNVVlR0Q0cjQ1bw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Diamondback正在洽談以約50億美元收購Double Eagle",
+      "summary": [
+        "Bloomberg Markets：Diamondback正在洽談以約50億美元收購Double Eagle",
+        "Investing.com：Diamondback Energy接近50億美元的Double Eagle交易"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Diamondback正在洽談以約50億美元收購Double Eagle",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Diamondback Energy接近50億美元的Double Eagle交易",
+          "url": "https://www.investing.com/news/stock-market-news/diamondback-energy-nears-5-bln-double-eagle-deal--report-5028152"
         }
       ]
     },
