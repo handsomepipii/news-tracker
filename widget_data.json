@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-16 17:57",
+  "updated_at": "2026-11-16 18:47",
   "taiwan": [
     {
       "rank": 1,
+      "title": "臺灣科技業力挺黃仁勳，臺北 101 今晚點燈傳遞支援",
+      "summary": [
+        "科技新報：臺灣科技業力挺黃仁勳，臺北 101 今晚點燈傳遞支援",
+        "自由時報：臺灣的溫柔！101點燈送暖黃仁勳 科技產業齊喊「臺灣愛Jensen」",
+        "中時新聞：臺灣科技業相挺！傳今晚六點臺北101點燈為黃仁勳送暖- 上市櫃"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "臺灣科技業力挺黃仁勳，臺北 101 今晚點燈傳遞支援",
+          "url": "https://finance.technews.tw/2026/11/16/taipei-101-jensen-huang/"
+        },
+        {
+          "source": "自由時報",
+          "title": "臺灣的溫柔！101點燈送暖黃仁勳 科技產業齊喊「臺灣愛Jensen」",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5642843"
+        },
+        {
+          "source": "中時新聞",
+          "title": "臺灣科技業相挺！傳今晚六點臺北101點燈為黃仁勳送暖- 上市櫃",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ucTJIMkpRdjBReUFTTHhvT01wd1dOZXJuZktTN3Q3bldxMlk1LXlWM2hRY3dpeGdYa0ktYlpEQUl0a2UyTEc1MF9iSkV3amVlWHhzX2gzYjV0WndHRXFTVUwwaXVEWUtKdUE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
@@ -23,7 +50,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "TVBS封關民調／AI模型預估蔣萬安51%得票、沈伯洋49%　3萬票險勝",
       "summary": [
         "ETtoday：TVBS封關民調／AI模型預估蔣萬安51%得票、沈伯洋49%　3萬票險勝",
@@ -44,7 +71,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "沒有延後 Rapidus：27年底至28年初量產2奈米-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：沒有延後 Rapidus：27年底至28年初量產2奈米-新聞內容-基金",
@@ -65,7 +92,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "學生揭營養午餐「生雞肉」遭網攻！ 蔣萬安：已請教育局查證",
       "summary": [
         "自由時報：學生揭營養午餐「生雞肉」遭網攻！ 蔣萬安：已請教育局查證",
@@ -82,27 +109,6 @@
           "source": "ETtoday",
           "title": "仁愛國中營養午餐疑爆「雞肉沒熟」　校方：未接獲師生身體不適",
           "url": "https://www.ettoday.net/news/20261116/3273086.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "黃仁勳傳考慮重返輝達　矽谷大老組戰情室施壓董事會挺復職",
-      "summary": [
-        "ETtoday：黃仁勳傳考慮重返輝達　矽谷大老組戰情室施壓董事會挺復職",
-        "科技新報：金融時報：黃仁勳考慮回鍋，矽谷盟友施壓輝達董事會要求讓他復職"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳傳考慮重返輝達　矽谷大老組戰情室施壓董事會挺復職",
-          "url": "https://www.ettoday.net/news/20261116/3272738.htm"
-        },
-        {
-          "source": "科技新報",
-          "title": "金融時報：黃仁勳考慮回鍋，矽谷盟友施壓輝達董事會要求讓他復職",
-          "url": "https://finance.technews.tw/2026/11/16/financial-times-jensen-huang-reportedly-considers-rejoining-nvidia-silicon-valley-allies-pressure-board-reinstatement/"
         }
       ]
     },
@@ -242,27 +248,48 @@
     },
     {
       "rank": 2,
-      "title": "Diamondback正在洽談以約50億美元收購Double Eagle",
+      "title": "新世界計畫配股 32 億美元，股價跌至新低",
       "summary": [
-        "Bloomberg Markets：Diamondback正在洽談以約50億美元收購Double Eagle",
-        "Investing.com：Diamondback Energy接近50億美元的Double Eagle交易"
+        "Nikkei Asia：新世界計畫配股 32 億美元，股價跌至新低",
+        "Investing.com：新世界股價暴跌 47% 創歷史新低 配股 32 億美元"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "Diamondback正在洽談以約50億美元收購Double Eagle",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion"
+          "source": "Nikkei Asia",
+          "title": "新世界計畫配股 32 億美元，股價跌至新低",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRWs4VnZzY3NUaFF1aHh4RUtaWUZqaVlCWEVQZUc4d19jWXR6a0JCdk9INjVMQTVqY2V5RkNCTGFnSWdVVHdvV1lkaEdvWjMtUUo5NkxZUThMa0kwWXRjUDFOY0d1R1BqbE55MEs3ZmY1LS1IR29BbHdWVWN2anA4OG9mZmxEMUt5Y3FsOHVxdkw2d0RGY01mb0tkeGdZbFV6WlhlbFVoRndfQXBSSzM4X3dTUmRRM2VlMVE?oc=5"
         },
         {
           "source": "Investing.com",
-          "title": "Diamondback Energy接近50億美元的Double Eagle交易",
-          "url": "https://www.investing.com/news/stock-market-news/diamondback-energy-nears-5-bln-double-eagle-deal--report-5028152"
+          "title": "新世界股價暴跌 47% 創歷史新低 配股 32 億美元",
+          "url": "https://www.investing.com/news/stock-market-news/new-world-shares-plunge-47-to-record-low-on-32-billion-rights-issue-5028362"
         }
       ]
     },
     {
       "rank": 3,
+      "title": "根據《華爾街日報》報道，川普政府將英偉達和其他人工智慧公司列為美國“國家冠軍”",
+      "summary": [
+        "Investing.com：根據《華爾街日報》報道，川普政府將英偉達和其他人工智慧公司列為美國“國家冠軍”",
+        "Yahoo Finance：根據《華爾街日報》報道，川普政府將英偉達和其他人工智慧公司列為美國“國家冠軍”"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "根據《華爾街日報》報道，川普政府將英偉達和其他人工智慧公司列為美國“國家冠軍”",
+          "url": "https://www.investing.com/news/stock-market-news/trump-administration-to-name-nvidia-other-ai-firms-as-us-national-champions-wsj-reports-5028349"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "根據《華爾街日報》報道，川普政府將英偉達和其他人工智慧公司列為美國“國家冠軍”",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTGRqaWdiSHpFSExKRlhZdGxUMndOYnVlZUhUVFpFajV4RXpFZ0FuaDRfbkF6aGFzd3ctdFNfLTdhbWdUc092aDJjOXE4V1RxVy0tdlpVV0pxNG43Zk13d29Id0V3RnlKY2hsWnJMby1RMDBqYU1KWVJUWms3UEdsbU1VTTE0UWw5UzkyRA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
       "summary": [
         "Bloomberg Markets：印尼總理普拉博沃就霧霾事件向新加坡和馬來西亞道歉",
@@ -283,7 +310,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
       "summary": [
         "TechCrunch：蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
@@ -304,7 +331,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "香港交易所推出首個點心債券指數提振人民幣債市場",
       "summary": [
         "Bloomberg Markets：香港交易所推出首個點心債券指數提振人民幣債市場",
@@ -325,7 +352,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "由於投資者等待英偉達財報，美國股指期貨幾乎沒有變化",
       "summary": [
         "Investing.com：由於投資者等待英偉達財報，美國股指期貨幾乎沒有變化",
@@ -342,27 +369,6 @@
           "source": "Yahoo Finance",
           "title": "由於投資者等待英偉達財報，美國股指期貨幾乎沒有變化",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXJyVkc2TDFaclFWbGJJZFpwQlRrenNkazZLZ01QanNxcWF6QlJ6dDNLT1lMODh6aXh4TnFXTlpka0U5a2xKY3lLQVlxT2RObHN6UlpaNlFQQ2xyZVh2dUNvdk9iZ2huTFl2a0M1MEU4cWVxOVlkV3QzTnVxMTlNQWxYc1c3RGRMal9lSXljUGxrOFdhQy1iWVp1bw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "新世界計畫配股 32 億美元，股價跌至新低",
-      "summary": [
-        "Nikkei Asia：新世界計畫配股 32 億美元，股價跌至新低",
-        "Investing.com：新世界股價暴跌 47% 創歷史新低 配股 32 億美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "新世界計畫配股 32 億美元，股價跌至新低",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRWs4VnZzY3NUaFF1aHh4RUtaWUZqaVlCWEVQZUc4d19jWXR6a0JCdk9INjVMQTVqY2V5RkNCTGFnSWdVVHdvV1lkaEdvWjMtUUo5NkxZUThMa0kwWXRjUDFOY0d1R1BqbE55MEs3ZmY1LS1IR29BbHdWVWN2anA4OG9mZmxEMUt5Y3FsOHVxdkw2d0RGY01mb0tkeGdZbFV6WlhlbFVoRndfQXBSSzM4X3dTUmRRM2VlMVE?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "新世界股價暴跌 47% 創歷史新低 配股 32 億美元",
-          "url": "https://www.investing.com/news/stock-market-news/new-world-shares-plunge-47-to-record-low-on-32-billion-rights-issue-5028362"
         }
       ]
     },
@@ -410,16 +416,22 @@
     },
     {
       "rank": 10,
-      "title": "為什麼瑞穗金融股今天飆漲？",
+      "title": "人工智慧擔憂令投資人緊張，歐洲股市波動",
       "summary": [
-        "Investing.com：為什麼瑞穗金融股今天飆漲？"
+        "Bloomberg Markets：人工智慧擔憂令投資人緊張，歐洲股市波動",
+        "WSJ Markets：今日股市：人工智慧關鍵週始，科技股面臨壓力"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "為什麼瑞穗金融股今天飆漲？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-mizuho-financial-stock-surging-today-93CH-5028307"
+          "source": "Bloomberg Markets",
+          "title": "人工智慧擔憂令投資人緊張，歐洲股市波動",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/european-stocks-fluctuate-as-ai-concerns-keep-investors-on-edge"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "今日股市：人工智慧關鍵週始，科技股面臨壓力",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026?mod=rss_markets_main"
         }
       ]
     }
