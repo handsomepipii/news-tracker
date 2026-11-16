@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 21:59",
+  "updated_at": "2026-11-16 22:30",
   "taiwan": [
     {
       "rank": 1,
@@ -28,7 +28,7 @@
         },
         {
           "source": "TVBS新聞",
-          "title": "臺北101點燈「臺灣愛Jensen」 連亮2天挺黃仁勳｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "title": "臺北101點燈「臺灣愛Jensen」連亮2天挺黃仁勳｜TVBS新聞@TVBSNEWS01 │ TVBS新聞網",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XMkR2ZElfLUdjaEdzelV0cHo0X3g2S28zWng3NWhHdXd1cEYxYlBvZDdQcXdQUk5JN3ZCRHlnRmM2bUZfTEJ3cEIzUVhiRHBEMTRHaUdR?oc=5"
         },
         {
@@ -40,6 +40,33 @@
     },
     {
       "rank": 2,
+      "title": "2026新北Demo Day登場！在地青創團隊登臺提案，進行新北創新能量",
+      "summary": [
+        "關鍵評論網：2026新北Demo Day登場！在地青創團隊登臺提案，進行新北創新能量",
+        "INSIDE硬塞：2026新北Demo Day登場！在地青創團隊登臺提案，進行新北創新能量",
+        "中時新聞：2026臺北國際期貨論壇登場- 其他"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "關鍵評論網",
+          "title": "2026新北Demo Day登場！在地青創團隊登臺提案，進行新北創新能量",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAybzFFZ2I0SldHdHhmZnVjN0h3SWNKNUUzVmt1dVdhbmFiVWN3d3hrVmNfemgxNnJzdmVSNU84NzVjNDlSRnlqS2FiemlQUGxPRERWVkxqNVRtWDdTMTE4bQ?oc=5"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "2026新北Demo Day登場！在地青創團隊登臺提案，進行新北創新能量",
+          "url": "https://www.inside.com.tw/article/42922-ntpc"
+        },
+        {
+          "source": "中時新聞",
+          "title": "2026臺北國際期貨論壇登場- 其他",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KXzVMSnp0Rks5X1g3b1FOd1J0ZklQUXM1LUk1UXhVSk1XOU4yX29yQWlYb0V6cWdKSlM5ZVU3eXdFZTZ4eXp3YXBadzBrNHBLVEZNMTZNaFMxcExjeXQzMkRrN0NodUZRZ3c?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "臺股慘跌2635點！投信狠賣179億唯獨連4買「這檔」1.58萬張 股價逆揚近4％",
       "summary": [
         "自由時報：臺股慘跌2635點！投信狠賣179億唯獨連4買「這檔」1.58萬張 股價逆揚近4％",
@@ -66,7 +93,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "TVBS封關民調／AI模型預估蔣萬安51%得票、沈伯洋49%　3萬票險勝",
       "summary": [
         "ETtoday：TVBS封關民調／AI模型預估蔣萬安51%得票、沈伯洋49%　3萬票險勝",
@@ -87,7 +114,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "學生揭營養午餐「生雞肉」遭網攻！ 蔣萬安：已請教育局查證",
       "summary": [
         "自由時報：學生揭營養午餐「生雞肉」遭網攻！ 蔣萬安：已請教育局查證",
@@ -108,91 +135,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "20261116 公視AI手語天氣報導 ｜東北季風北臺稍涼 迎風面區域性雨",
-      "summary": [
-        "公視新聞：20261116 公視AI手語天氣報導 ｜東北季風北臺稍涼 迎風面區域性雨",
-        "自由時報：低溫恐探11度！本週東北季風接力 吳德榮：「這天」起明顯降溫"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公視新聞",
-          "title": "20261116 公視AI手語天氣報導 ｜東北季風北臺稍涼 迎風面區域性雨",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0TG9rdlMyemhnZlpjTEJOeTlOOFlaNWhUNXZHVEI1YTBENUdncWY4dlB4VmJrVnVmMWVNV3RnaFdkV3NIN1hkanFpOA?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "低溫恐探11度！本週東北季風接力 吳德榮：「這天」起明顯降溫",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5642047"
-        }
-      ]
-    },
-    {
       "rank": 6,
-      "title": "中時封關民調／激戰！李四川37%領先蘇巧慧　差距3.6個百分點",
-      "summary": [
-        "ETtoday：中時封關民調／激戰！李四川37%領先蘇巧慧　差距3.6個百分點",
-        "中時新聞：《中時》封關民調李四川37％、蘇巧慧33.4％ 呂家愷喊出門投票才是關鍵"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "中時封關民調／激戰！李四川37%領先蘇巧慧　差距3.6個百分點",
-          "url": "https://www.ettoday.net/news/20261116/3272805.htm"
-        },
-        {
-          "source": "中時新聞",
-          "title": "《中時》封關民調李四川37％、蘇巧慧33.4％ 呂家愷喊出門投票才是關鍵",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pSWRmYVBWeDhpNEM2d1NFcU9QdzFRa0ZwdUI0cVZuZXRsZHJRdi00YzZKMjR6NDJSSFlSVklWTHhYVFhiU29YZGJtWlg5MmRGWWNxMllTVUk4MHBzc0hVTXEyUU1GR2JTLUFqZjV3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "SpaceX 首度完成太空船捕捉回收，星艦返回發射臺",
-      "summary": [
-        "科技新報：SpaceX 首度完成太空船捕捉回收，星艦返回發射臺",
-        "MoneyDJ理財網：SpaceX首度成功回收星艦本體 助攻太空AI佈局"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "SpaceX 首度完成太空船捕捉回收，星艦返回發射臺",
-          "url": "https://technews.tw/2026/11/16/spacex-pulls-off-first-ever-spaceship-catch/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "SpaceX首度成功回收星艦本體 助攻太空AI佈局",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVc5cDRHTU12ZHgzQVBiOVVFY1N4NWxwRTV3cW05R2pHaUlHY3plTXlvSkQ0TlpRbXY4aG1jOUwtNlBjcDdxaG5tZmVDNjFyWXhiSF93MzZnVjFYYnViVnpRSFdOS2ZRY3ZtMDNsaWowZ2FLd0tVcXVwamYzVWgtQk5oRVVMYjZVUEpPTUxKTGpjUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "長榮物流資安事故調查結果出爐，員工個資及營業資料外洩",
-      "summary": [
-        "iThome：長榮物流資安事故調查結果出爐，員工個資及營業資料外洩",
-        "公開資訊觀測站重訊：長榮物流資安事故調查結果出爐，員工個資及營業資料外洩"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "長榮物流資安事故調查結果出爐，員工個資及營業資料外洩",
-          "url": "https://www.ithome.com.tw/news/180512"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "長榮物流資安事故調查結果出爐，員工個資及營業資料外洩",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aSkRpX1IxYk95Y3pGd19qTzU2Ul9IZTZTYTBHdTJ4RVlKRU9nc1d6RjljSXBZejdrWEIwZlM1a1ZqVy1fdXp2SkhuUXBlZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "OpenAI推出ChatGPT錢包，AI代理可代為下單付款",
       "summary": [
         "科技新報：OpenAI推出ChatGPT錢包，AI代理可代為下單付款",
@@ -213,23 +156,86 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "iPhone Duo 2 傳匯入 Face ID，原型機已完成、但仍可量產終止變數",
+      "rank": 7,
+      "title": "iPhone Duo 2 內建 Face ID，原型機已完成、但仍可數量終止產變數",
       "summary": [
-        "科技新報：iPhone Duo 2 傳匯入 Face ID，原型機已完成、但仍可量產終止變數",
+        "科技新報：iPhone Duo 2 內建 Face ID，原型機已完成、但仍可數量終止產變數",
         "自由時報：蘋果傳積極開發iPhone Duo 2明年問世！外螢幕幸運新增Face ID解鎖"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "科技新報",
-          "title": "iPhone Duo 2 傳匯入 Face ID，原型機已完成、但仍可量產終止變數",
+          "title": "iPhone Duo 2 內建 Face ID，原型機已完成、但仍可數量終止產變數",
           "url": "https://technews.tw/2026/11/16/iphone-duo-2-face-id/"
         },
         {
           "source": "自由時報",
           "title": "蘋果傳積極開發iPhone Duo 2明年問世！外螢幕幸運新增Face ID解鎖",
           "url": "https://3c.ltn.com.tw/news/68301"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "少了黃仁勳怎麼辦！  AI「延後」與「降規」兩大疑慮重創臺灣AI概念股",
+      "summary": [
+        "自由時報：少了黃仁勳怎麼辦！  AI「延後」與「降規」兩大疑慮重創臺灣AI概念股",
+        "關鍵評論網：輝達換帥只是起點：當AI開始改進AI，臺灣供應鏈如何擺脫「無話語權」困局？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "少了黃仁勳怎麼辦！  AI「延後」與「降規」兩大疑慮重創臺灣AI概念股",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5642224"
+        },
+        {
+          "source": "關鍵評論網",
+          "title": "輝達換帥只是起點：當AI開始改進AI，臺灣供應鏈如何擺脫「無話語權」困局？",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OQ0NwRzFScVNWUmpoUUZ4eFFac3FBTG9QLXFSbjNiUm5rWlEzX1FsT0NYSlVGdXdmdXBCNlJRSGljUzlJUWdtRjg0UWdmQ2ZvUWdFbA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "通膨壓力仍大  美 10 月 PPI 年增 6.5%、近四年高",
+      "summary": [
+        "科技新報：通膨壓力仍大  美 10 月 PPI 年增 6.5%、近四年高",
+        "MoneyDJ理財網：通膨壓力仍大美10月PPI年增6.5%、近四年高- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "通膨壓力仍大  美 10 月 PPI 年增 6.5%、近四年高",
+          "url": "https://finance.technews.tw/2026/11/16/us-october-ppi-6-5-percent-yoy-near-four-year-high-persistent-inflation-pressure/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "通膨壓力仍大美10月PPI年增6.5%、近四年高- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTzRkZFlCaUlhLVAya2wzRTZEbjhwT1JZWEpGUElVUzRlY2RPZVpSRFRjWGNyUlBIdFN5MDlBUmN1NzBSamZ4ZWRpZGZNb280NC1ZWXFvUE9BNUdpNXZRNjFEdkxHLVVZdjdreFZHMVdLZnI2b05odjJwd2pBdzlhR3g4dm1ZcDFCRmtVSDBWbnptQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "矽盛世再擴張！美率日韓英等 8 國簽舊金山宣言，共擬 AI 關鍵技術保護清單",
+      "summary": [
+        "INSIDE硬塞：矽盛世再擴張！美率日韓英等 8 國簽舊金山宣言，共擬 AI 關鍵技術保護清單",
+        "科技報橘：美日英印等 9 國簽《舊金山宣言》，矽和平從結盟走向列清單、防 AI 技術外流"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "INSIDE硬塞",
+          "title": "矽盛世再擴張！美率日韓英等 8 國簽舊金山宣言，共擬 AI 關鍵技術保護清單",
+          "url": "https://www.inside.com.tw/article/42916-us-allies-san-francisco-declaration-ai-supply-chain"
+        },
+        {
+          "source": "科技報橘",
+          "title": "美日英印等 9 國簽《舊金山宣言》，矽和平從結盟走向列清單、防 AI 技術外流",
+          "url": "https://techorange.com/2026/11/16/us-allies-san-francisco-declaration-pax-silica-ai-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
         }
       ]
     }
@@ -258,64 +264,64 @@
     },
     {
       "rank": 2,
-      "title": "中國經濟全面放緩，未達預期",
+      "title": "根據《華爾街日報》報道，川普政府將英偉達和其他人工智慧公司列為美國“國家冠軍”",
       "summary": [
-        "Bloomberg Markets：中國經濟全面放緩，未達預期",
-        "Financial Times：中國10月經濟活動放緩幅度超乎預期"
+        "Investing.com：根據《華爾街日報》報道，川普政府將英偉達和其他人工智慧公司列為美國“國家冠軍”",
+        "Yahoo Finance：根據《華爾街日報》報道，川普政府將英偉達和其他人工智慧公司列為美國“國家冠軍”"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "中國經濟全面放緩，未達預期",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push"
+          "source": "Investing.com",
+          "title": "根據《華爾街日報》報道，川普政府將英偉達和其他人工智慧公司列為美國“國家冠軍”",
+          "url": "https://www.investing.com/news/stock-market-news/trump-administration-to-name-nvidia-other-ai-firms-as-us-national-champions-wsj-reports-5028349"
         },
         {
-          "source": "Financial Times",
-          "title": "中國10月經濟活動放緩幅度超乎預期",
-          "url": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1"
+          "source": "Yahoo Finance",
+          "title": "根據《華爾街日報》報道，川普政府將英偉達和其他人工智慧公司列為美國“國家冠軍”",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTGRqaWdiSHpFSExKRlhZdGxUMndOYnVlZUhUVFpFajV4RXpFZ0FuaDRfbkF6aGFzd3ctdFNfLTdhbWdUc092aDJjOXE4V1RxVy0tdlpVV0pxNG43Zk13d29Id0V3RnlKY2hsWnJMby1RMDBqYU1KWVJUWms3UEdsbU1VTTE0UWw5UzkyRA?oc=5"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "英偉達業績、Anthropic IPO 為動盪的人工智慧產業帶來考驗",
+      "title": "截至 8 月份，川普持有 Nvidia 價值 6200 萬美元的股票",
       "summary": [
-        "Investing.com：英偉達業績、Anthropic IPO 為動盪的人工智慧產業帶來考驗",
-        "Bloomberg Tech：Anthropic IPO 測試人工智慧模型能否與英偉達的高估值相媲美"
+        "Investing.com：截至 8 月份，川普持有 Nvidia 價值 6200 萬美元的股票",
+        "Washington Post：在醜聞爆發之前，川普在 Nvidia 的股份已增至 6,200 萬美元"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Investing.com",
-          "title": "英偉達業績、Anthropic IPO 為動盪的人工智慧產業帶來考驗",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade-5028310"
+          "title": "截至 8 月份，川普持有 Nvidia 價值 6200 萬美元的股票",
+          "url": "https://www.investing.com/news/stock-market-news/trump-held-up-to-62m-in-nvidia-stock-as-of-august--report-5029333"
         },
         {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic IPO 測試人工智慧模型能否與英偉達的高估值相媲美",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-16/anthropic-ipo-tests-whether-ai-models-can-rival-nvidia-s-rich-valuation"
+          "source": "Washington Post",
+          "title": "在醜聞爆發之前，川普在 Nvidia 的股份已增至 6,200 萬美元",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalJ6aGJjaVBRcGpoZmx6WmJ2RFloSnFJdDJWMmlTOG5qS2ZTTTdVTUZhenF6eXoxNEtHRHhJNHFDb1NKNEhGOGY3UjV2dVI2eHdiZmVnb1BEWVdXRTY1NjRFbm0xdUJnQzY5QlZTWnZuQ2FKQ1VqeExkSWtDR21qQkpNcVhFRll0VnN2eGNjMm5uWTJLSEkzTENCVmRyVG5rWGppSnBDcC1ldlZFanpsOXhQblFkSjZU?oc=5"
         }
       ]
     },
     {
       "rank": 4,
-      "title": "由於投資者等待英偉達財報，美國股指期貨幾乎沒有變化",
+      "title": "波音-洛克希德火箭升空後失敗，摧毀了 40 顆亞馬遜衛星",
       "summary": [
-        "Investing.com：由於投資者等待英偉達財報，美國股指期貨幾乎沒有變化",
-        "Yahoo Finance：由於投資者等待英偉達財報，美國股指期貨幾乎沒有變化"
+        "Investing.com：波音-洛克希德火箭升空後失敗，摧毀了 40 顆亞馬遜衛星",
+        "Tom's Hardware：40 顆衛星因火箭故障被毀，亞馬遜的 Starlink 競爭對手遭遇重大挫折"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Investing.com",
-          "title": "由於投資者等待英偉達財報，美國股指期貨幾乎沒有變化",
-          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-little-changed-as-investors-await-nvidia-earnings-5028292"
+          "title": "波音-洛克希德火箭升空後失敗，摧毀了 40 顆亞馬遜衛星",
+          "url": "https://www.investing.com/news/stock-market-news/boeinglockheed-rocket-fails-after-liftoff-destroys-40-amazon-satellites-93CH-5028326"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "由於投資者等待英偉達財報，美國股指期貨幾乎沒有變化",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXJyVkc2TDFaclFWbGJJZFpwQlRrenNkazZLZ01QanNxcWF6QlJ6dDNLT1lMODh6aXh4TnFXTlpka0U5a2xKY3lLQVlxT2RObHN6UlpaNlFQQ2xyZVh2dUNvdk9iZ2huTFl2a0M1MEU4cWVxOVlkV3QzTnVxMTlNQWxYc1c3RGRMal9lSXljUGxrOFdhQy1iWVp1bw?oc=5"
+          "source": "Tom's Hardware",
+          "title": "40 顆衛星因火箭故障被毀，亞馬遜的 Starlink 競爭對手遭遇重大挫折",
+          "url": "https://www.tomshardware.com/tech-industry/space/amazons-starlink-rival-sees-major-setback-after-40-satellites-destroyed-in-rocket-failure-anomaly-occurred-10-minutes-after-the-vulcan-launch-on-sunday"
         }
       ]
     },
@@ -342,27 +348,6 @@
     },
     {
       "rank": 6,
-      "title": "根據《華爾街日報》報道，美國計劃將英偉達列為人工智慧“國家冠軍”",
-      "summary": [
-        "Investing.com：根據《華爾街日報》報道，美國計劃將英偉達列為人工智慧“國家冠軍”",
-        "Yahoo Finance：根據《華爾街日報》報道，川普政府將英偉達和其他人工智慧公司列為美國“國家冠軍”"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "根據《華爾街日報》報道，美國計劃將英偉達列為人工智慧“國家冠軍”",
-          "url": "https://www.investing.com/news/stock-market-news/us-plans-to-name-nvidia-among-ai-national-champions-wsj-reports-5028365"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "根據《華爾街日報》報道，川普政府將英偉達和其他人工智慧公司列為美國“國家冠軍”",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTGRqaWdiSHpFSExKRlhZdGxUMndOYnVlZUhUVFpFajV4RXpFZ0FuaDRfbkF6aGFzd3ctdFNfLTdhbWdUc092aDJjOXE4V1RxVy0tdlpVV0pxNG43Zk13d29Id0V3RnlKY2hsWnJMby1RMDBqYU1KWVJUWms3UEdsbU1VTTE0UWw5UzkyRA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "MTN 正在洽談以南非現金和股票交易收購 Telkom",
       "summary": [
         "Bloomberg Markets：MTN 正在洽談以南非現金和股票交易收購 Telkom",
@@ -379,6 +364,27 @@
           "source": "Investing.com",
           "title": "MTN 集團正在洽談收購 Telkom SA 全部股份",
           "url": "https://www.investing.com/news/stock-market-news/mtn-group-in-talks-to-acquire-all-shares-of-telkom-sa-93CH-5028422"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "出口強勁，泰國第三季 GDP 成長 2.9%",
+      "summary": [
+        "Nikkei Asia：出口強勁，泰國第三季 GDP 成長 2.9%",
+        "Investing.com：泰國第三季經濟因出口成長2.9%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "出口強勁，泰國第三季 GDP 成長 2.9%",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTW5fbXJjeDdnamd6YkZUckNOejF5YXlQSnlfNnlwNVMyNFN6NS1WdWZEZGhrNjd2WlZuU2lpTTNwb1JBb0JxUVRzQnEyb3ZuZ3FYVE45WThzTFM5LTd1ZjdyWlZxX1dFSEpuZzQwWDA5V0h3QS1TZzdyY3FaNjFfYnhYMlh0MkJ4RDlpbVZRWUdfWmhQQVdXRw?oc=5"
+        },
+        {
+          "source": "Investing.com",
+          "title": "泰國第三季經濟因出口成長2.9%",
+          "url": "https://www.investing.com/news/stock-market-news/thailands-economy-grows-29-in-third-quarter-on-exports-93CH-5028582"
         }
       ]
     },
@@ -405,37 +411,43 @@
     },
     {
       "rank": 9,
-      "title": "亞馬遜的 Zoox 機器人計程車現已可透過 Uber 購買",
+      "title": "人工智慧擔憂令投資人緊張，歐洲股市波動",
       "summary": [
-        "The Verge：亞馬遜的 Zoox 機器人計程車現已可透過 Uber 購買",
-        "Bloomberg Tech：Uber 開始在拉斯維加斯提供亞馬遜的無人駕駛 Zoox 乘車服務"
+        "Bloomberg Markets：人工智慧擔憂令投資人緊張，歐洲股市波動",
+        "WSJ Markets：今日股市：人工智慧關鍵週始，科技股面臨壓力"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "The Verge",
-          "title": "亞馬遜的 Zoox 機器人計程車現已可透過 Uber 購買",
-          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles"
+          "source": "Bloomberg Markets",
+          "title": "人工智慧擔憂令投資人緊張，歐洲股市波動",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/european-stocks-fluctuate-as-ai-concerns-keep-investors-on-edge"
         },
         {
-          "source": "Bloomberg Tech",
-          "title": "Uber 開始在拉斯維加斯提供亞馬遜的無人駕駛 Zoox 乘車服務",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/uber-starts-offering-amazon-s-driverless-zoox-rides-in-las-vegas"
+          "source": "WSJ Markets",
+          "title": "今日股市：人工智慧關鍵週始，科技股面臨壓力",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026?mod=rss_markets_main"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "為什麼瑞穗金融股今天飆漲？",
+      "title": "美國籃球運動員攜帶34公斤大麻在奈及利亞機場被捕",
       "summary": [
-        "Investing.com：為什麼瑞穗金融股今天飆漲？"
+        "BBC World：美國籃球運動員攜帶34公斤大麻在奈及利亞機場被捕",
+        "The Guardian：當局稱，美國籃球運動員攜帶 75 磅大麻在奈及利亞機場被捕"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "為什麼瑞穗金融股今天飆漲？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-mizuho-financial-stock-surging-today-93CH-5028307"
+          "source": "BBC World",
+          "title": "美國籃球運動員攜帶34公斤大麻在奈及利亞機場被捕",
+          "url": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "title": "當局稱，美國籃球運動員攜帶 75 磅大麻在奈及利亞機場被捕",
+          "url": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities"
         }
       ]
     }
