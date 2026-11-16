@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 09:56",
+  "updated_at": "2026-11-16 10:27",
   "taiwan": [
     {
       "rank": 1,
@@ -158,6 +158,27 @@
     },
     {
       "rank": 7,
+      "title": "【LIVE】下週強冷空氣報到｜20261115｜TVBS新聞網",
+      "summary": [
+        "TVBS新聞：【LIVE】下週強冷空氣報到｜20261115｜TVBS新聞網",
+        "自由時報：把握今明好天氣！ 週三冷空氣套餐報到 賈新興揭最冷時刻：挑戰首波冷氣團"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "【LIVE】下週強冷空氣報到｜20261115｜TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RbTRrc3ZOQUJFWXlaYzBQa1FqYXJqZUtseWZmZDFmWFE1UWxmRDVqUUU5N1ZYMXRzeU5tNzQtdklHV3ktNWEwZTJ1QjFPNUxwNDB2MUM3ckRtUGl6WWxLVjFKVExOSGJOeXBheG0yYzI0TDM2?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "把握今明好天氣！ 週三冷空氣套餐報到 賈新興揭最冷時刻：挑戰首波冷氣團",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5642094"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "黃仁勳復職聯署破13萬人！逾7.1萬名股東聲援 馬斯克、張一鳴都在列",
       "summary": [
         "鉅亨網：黃仁勳復職聯署破13萬人！逾7.1萬名股東聲援 馬斯克、張一鳴都在列",
@@ -178,7 +199,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Megaspeed釋出宣告！證實黃樂去年8月離職 黃仁勳緋聞牽出國安疑慮",
       "summary": [
         "鉅亨網：Megaspeed釋出宣告！證實黃樂去年8月離職 黃仁勳緋聞牽出國安疑慮",
@@ -199,44 +220,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "臺南安南07:47發生規模4.0地震 最大震度3級",
-      "summary": [
-        "自由時報：臺南安南07:47發生規模4.0地震 最大震度3級",
-        "ETtoday：快訊／07：47臺南規模4地震　最大震度3級"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "臺南安南07:47發生規模4.0地震 最大震度3級",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5642014"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／07：47臺南規模4地震　最大震度3級",
-          "url": "https://www.ettoday.net/news/20261116/3272764.htm"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
+      "title": "SpaceX 首度完成太空船回收 NASA：更接近再次登月目標",
       "summary": [
-        "風傳媒：美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
-        "鉅亨網：中方宣佈：習近平將同川普、普丁舉行美中俄元首會談"
+        "經濟日報：SpaceX 首度完成太空船回收 NASA：更接近再次登月目標",
+        "科技新報：SpaceX 首度完成太空船捕捉回收，星艦返回發射臺"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "風傳媒",
-          "title": "美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QODZUSjIxRzBOWGlyM0lNSGZHWW1mby0tNTcydl9mTExodS1UMkdQYXpZZmlTOFZGZjlPR3NrbnQxLTRPTzdCMGpjcm96QQ?oc=5"
+          "source": "經濟日報",
+          "title": "SpaceX 首度完成太空船回收 NASA：更接近再次登月目標",
+          "url": "https://money.udn.com/money/story/123398/9880522"
         },
         {
-          "source": "鉅亨網",
-          "title": "中方宣佈：習近平將同川普、普丁舉行美中俄元首會談",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lUlZ1eDRPSkN4eWFOdl9PSlFwT0EyLVZKMDFUbGltb0JLM3NPRFVQSl9yNi01WDh1Z2Y2QU9tZ2xfcmNnOHp4SXA5OXlRMWs?oc=5"
+          "source": "科技新報",
+          "title": "SpaceX 首度完成太空船捕捉回收，星艦返回發射臺",
+          "url": "https://technews.tw/2026/11/16/spacex-pulls-off-first-ever-spaceship-catch/"
         }
       ]
     }
@@ -323,6 +323,27 @@
     },
     {
       "rank": 4,
+      "title": "Anthropic的IPO讓Dario Amodei人工智慧成為熱潮的新視角",
+      "summary": [
+        "Bloomberg Markets：Anthropic的IPO讓Dario Amodei人工智慧成為熱潮的新視角",
+        "Investing.com：英偉達業績、Anthropic IPO 為動盪的人工智慧產業帶來考驗"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic的IPO讓Dario Amodei人工智慧成為熱潮的新視角",
+          "url": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom"
+        },
+        {
+          "source": "Investing.com",
+          "title": "英偉達業績、Anthropic IPO 為動盪的人工智慧產業帶來考驗",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade-5028310"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "2 位對沖基金經理人希望黃仁勳回歸。他能重新擔任英偉達執行長嗎？",
       "summary": [
         "Yahoo Finance：2 位對沖基金經理人希望黃仁勳回歸。他能重新擔任英偉達執行長嗎？",
@@ -343,7 +364,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
       "summary": [
         "TechCrunch：蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
@@ -364,7 +385,28 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "中國經濟全面放緩，未達預期",
+      "summary": [
+        "Bloomberg Markets：中國經濟全面放緩，未達預期",
+        "CNBC：由於工業產出、零售銷售、投資低於預期，中國十月經濟放緩加劇"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "中國經濟全面放緩，未達預期",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push"
+        },
+        {
+          "source": "CNBC",
+          "title": "由於工業產出、零售銷售、投資低於預期，中國十月經濟放緩加劇",
+          "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "詳訊：韓中外長在京舉行會談",
       "summary": [
         "韓聯社：詳訊：韓中外長在京舉行會談"
@@ -379,7 +421,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "川普、習近平和普丁將在中國舉行三方會晤- 紐約時報中文網",
       "summary": [
         "紐約時報中文：川普、習近平和普丁將在中國舉行三方會晤- 紐約時報中文網"
@@ -394,7 +436,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "英偉達 CEO 搜尋因 Bessent 的「改組」號召而引發爭議",
       "summary": [
         "Bloomberg Tech：英偉達 CEO 搜尋因 Bessent 的「改組」號召而引發爭議"
@@ -405,36 +447,6 @@
           "source": "Bloomberg Tech",
           "title": "英偉達 CEO 搜尋因 Bessent 的「改組」號召而引發爭議",
           "url": "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-s-ceo-search-draws-fire-with-bessent-s-call-for-shakeup"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "日本第三季GDP年化下降0.1%",
-      "summary": [
-        "Nikkei Asia：日本第三季GDP年化下降0.1%"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "日本第三季GDP年化下降0.1%",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03N2tOTk1DbUlPYVpfMkdndDVIMnFmc3lrQjhPMjZHSG5mRzljanFYSFQ2ZFg5UFF0U09mdDhqZXRYLTl1UmRhU1BQc1JmWlBTMlh4UmxEYkw2ZkozWmUwSThBVTBWOTVtVVlDbHFsMVJTOGFGcHdHaVlyb0s?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "伊朗無人機襲擊巴林美軍基地",
-      "summary": [
-        "BBC World：伊朗無人機襲擊巴林美軍基地"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "伊朗無人機襲擊巴林美軍基地",
-          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
