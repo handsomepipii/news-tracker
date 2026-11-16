@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 16:29",
+  "updated_at": "2026-11-16 16:57",
   "taiwan": [
     {
       "rank": 1,
@@ -56,6 +56,27 @@
     },
     {
       "rank": 3,
+      "title": "TVBS封關民調／AI模型預估蔣萬安51%得票、沈伯洋49%　3萬票險勝",
+      "summary": [
+        "ETtoday：TVBS封關民調／AI模型預估蔣萬安51%得票、沈伯洋49%　3萬票險勝",
+        "TVBS新聞：TVBS封關民調／北市膠著！蔣萬安46%領先沈伯洋僅2％ 估3萬票險勝連任"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "TVBS封關民調／AI模型預估蔣萬安51%得票、沈伯洋49%　3萬票險勝",
+          "url": "https://www.ettoday.net/news/20261116/3273141.htm"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "TVBS封關民調／北市膠著！蔣萬安46%領先沈伯洋僅2％ 估3萬票險勝連任",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wYW90dDZDdENpa0g0WWJTbzBQQ25VUXNOUm1TMGZVaG9QYlVMazJnRHhjZjVPMTlsRzhhZ2JFZVVGakJSV01URm5UaDdVRzFWdnYw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "沒有延後 Rapidus：27年底至28年初量產2奈米-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：沒有延後 Rapidus：27年底至28年初量產2奈米-新聞內容-基金",
@@ -76,7 +97,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "學生揭營養午餐「生雞肉」遭網攻！ 蔣萬安：已請教育局查證",
       "summary": [
         "自由時報：學生揭營養午餐「生雞肉」遭網攻！ 蔣萬安：已請教育局查證",
@@ -97,7 +118,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "71歲林美照竟是「地產女福星」！買房神準「入住半年必漲」 親吐定居林口3年唯一煩惱",
       "summary": [
         "自由時報：71歲林美照竟是「地產女福星」！買房神準「入住半年必漲」 親吐定居林口3年唯一煩惱",
@@ -118,7 +139,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "臺南安南07:47發生規模4.0地震 最大震度3級",
       "summary": [
         "自由時報：臺南安南07:47發生規模4.0地震 最大震度3級",
@@ -139,7 +160,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
       "summary": [
         "風傳媒：美中俄三方領導人真會在深圳同框？白宮宣佈預定會晤，習近平與川普今年第3度見面| 中央社 | 新聞",
@@ -160,7 +181,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "股東控隱瞞PC銷售疲弱　英特爾遭集體訴訟",
       "summary": [
         "經濟日報：股東控隱瞞PC銷售疲弱　英特爾遭集體訴訟",
@@ -181,7 +202,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "美國及盟友簽署舊金山宣言　聯手強化AI供應鏈防堵中國",
       "summary": [
         "經濟日報：美國及盟友簽署舊金山宣言　聯手強化AI供應鏈防堵中國",
@@ -200,59 +221,11 @@
           "url": "https://technews.tw/2026/11/16/us-and-allies-sign-accord-to-protect-ai-supply-chains-from-china/"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "特斯拉開放部分客戶購買 Cybercab，29,900 美元開賣",
-      "summary": [
-        "科技新報：特斯拉開放部分客戶購買 Cybercab，29,900 美元開賣",
-        "INSIDE硬塞：Tesla Cybercab 開放特定客戶訂購！售價 29,990 美元，自動駕駛每月另收 299 美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "特斯拉開放部分客戶購買 Cybercab，29,900 美元開賣",
-          "url": "https://technews.tw/2026/11/16/tesla-cybercab-open-for-limited-customer/"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "Tesla Cybercab 開放特定客戶訂購！售價 29,990 美元，自動駕駛每月另收 299 美元",
-          "url": "https://www.inside.com.tw/article/42917-tesla-cybercab-pricing-sales-announced"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "黃仁勳與盟友討論重返英偉達CEO職位",
-      "summary": [
-        "法廣RFI：黃仁勳與盟友討論重返英偉達CEO職位",
-        "Financial Times：黃仁勳與盟友討論重新擔任英偉達執行長",
-        "Yahoo Finance：根據英國《金融時報》報道，黃仁勳與盟友討論重返英偉達執行長一職"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "黃仁勳與盟友討論重返英偉達CEO職位",
-          "url": "https://www.rfi.fr/tw/%E7%B6%93%E8%B2%BF/20261115-%E9%BB%83%E4%BB%81%E5%8B%B3%E8%88%87%E7%9B%9F%E5%8F%8B%E8%A8%8E%E8%AB%96%E9%87%8D%E8%BF%94%E8%8B%B1%E5%81%89%E9%81%94ceo%E8%81%B7%E4%BD%8D"
-        },
-        {
-          "source": "Financial Times",
-          "title": "黃仁勳與盟友討論重新擔任英偉達執行長",
-          "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "根據英國《金融時報》報道，黃仁勳與盟友討論重返英偉達執行長一職",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVFmU0JGTEhVbjNvTVhibVVVTVlZYW5WLUtRVTlxRE5DZkpoX3ZpeExnendhWDlKb01lRFkxeGZ4MlVhcVV6Y0s3aFpTcDlCN0RXaENGdUtQVG4zRU5iQmg4Q1l5aGx3WlpRcnAtdE1NWHZtRmt4Z0Y0X1UzWmJQQ2dPYjhzamNLLXoxSk93YlpzbUtQSUV4eDFlbU5DeF96T0c2S3B3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "中國經濟全面放緩，未達預期",
       "summary": [
         "Bloomberg Markets：中國經濟全面放緩，未達預期",
@@ -279,28 +252,28 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "美國火箭發射後失敗，亞馬遜網路衛星酬載被毀",
+      "rank": 2,
+      "title": "黃仁勳與盟友討論重新擔任英偉達執行長",
       "summary": [
-        "Investing.com：美國火箭發射後失敗，亞馬遜網路衛星酬載被毀",
-        "The Verge：火神火箭失敗，摧毀了 40 顆亞馬遜獅子座衛星"
+        "Financial Times：黃仁勳與盟友討論重新擔任英偉達執行長",
+        "Yahoo Finance：根據英國《金融時報》報道，黃仁勳與盟友討論重返英偉達執行長一職"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "美國火箭發射後失敗，亞馬遜網路衛星酬載被毀",
-          "url": "https://www.investing.com/news/stock-market-news/us-rocket-fails-after-launch-payload-of-amazon-internet-satellites-destroyed-5028094"
+          "source": "Financial Times",
+          "title": "黃仁勳與盟友討論重新擔任英偉達執行長",
+          "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1"
         },
         {
-          "source": "The Verge",
-          "title": "火神火箭失敗，摧毀了 40 顆亞馬遜獅子座衛星",
-          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
+          "source": "Yahoo Finance",
+          "title": "根據英國《金融時報》報道，黃仁勳與盟友討論重返英偉達執行長一職",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVFmU0JGTEhVbjNvTVhibVVVTVlZYW5WLUtRVTlxRE5DZkpoX3ZpeExnendhWDlKb01lRFkxeGZ4MlVhcVV6Y0s3aFpTcDlCN0RXaENGdUtQVG4zRU5iQmg4Q1l5aGx3WlpRcnAtdE1NWHZtRmt4Z0Y0X1UzWmJQQ2dPYjhzamNLLXoxSk93YlpzbUtQSUV4eDFlbU5DeF96T0c2S3B3?oc=5"
         }
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "黃仁勳可能會重新擔任英偉達執行長",
       "summary": [
         "Investing.com：黃仁勳可能會重新擔任英偉達執行長",
@@ -317,6 +290,27 @@
           "source": "Yahoo Finance",
           "title": "黃仁勳可能會重新擔任英偉達執行長",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRF9GYTdma2JkbHpaQzZSVlBzQ0diUlR2Y3o4MkhsUHFGLXpmQzI5M1hMWEdEVHlrTFduajlpMnFyZlVwVlYxSUVvOU1GOVNHX0hKb3hYbkNVLXlHMGpjX1FnTWVzVEE3NEo5OEo2WVFSMVV3V3owbjVmNHBGZXdoa3BGdk1FU3RBRFFjdUNfcUNyNVVlR0Q0cjQ1bw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "火神火箭失敗，摧毀了 40 顆亞馬遜獅子座衛星",
+      "summary": [
+        "The Verge：火神火箭失敗，摧毀了 40 顆亞馬遜獅子座衛星",
+        "Investing.com：波音-洛克希德火箭升空後失敗，摧毀了 40 顆亞馬遜衛星"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "火神火箭失敗，摧毀了 40 顆亞馬遜獅子座衛星",
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
+        },
+        {
+          "source": "Investing.com",
+          "title": "波音-洛克希德火箭升空後失敗，摧毀了 40 顆亞馬遜衛星",
+          "url": "https://www.investing.com/news/stock-market-news/boeinglockheed-rocket-fails-after-liftoff-destroys-40-amazon-satellites-93CH-5028326"
         }
       ]
     },
@@ -406,6 +400,27 @@
     },
     {
       "rank": 9,
+      "title": "由於投資者等待英偉達財報，美國股指期貨幾乎沒有變化",
+      "summary": [
+        "Investing.com：由於投資者等待英偉達財報，美國股指期貨幾乎沒有變化",
+        "Yahoo Finance：由於投資者等待英偉達財報，美國股指期貨幾乎沒有變化"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "由於投資者等待英偉達財報，美國股指期貨幾乎沒有變化",
+          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-little-changed-as-investors-await-nvidia-earnings-5028292"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "由於投資者等待英偉達財報，美國股指期貨幾乎沒有變化",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXJyVkc2TDFaclFWbGJJZFpwQlRrenNkazZLZ01QanNxcWF6QlJ6dDNLT1lMODh6aXh4TnFXTlpka0U5a2xKY3lLQVlxT2RObHN6UlpaNlFQQ2xyZVh2dUNvdk9iZ2huTFl2a0M1MEU4cWVxOVlkV3QzTnVxMTlNQWxYc1c3RGRMal9lSXljUGxrOFdhQy1iWVp1bw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "新世界計畫配股 32 億美元，股價跌至新低",
       "summary": [
         "Nikkei Asia：新世界計畫配股 32 億美元，股價跌至新低",
@@ -422,27 +437,6 @@
           "source": "Investing.com",
           "title": "新世界股價暴跌 47% 創歷史新低 配股 32 億美元",
           "url": "https://www.investing.com/news/stock-market-news/new-world-shares-plunge-47-to-record-low-on-32-billion-rights-issue-5028362"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "MTN 正在洽談以南非現金和股票交易收購 Telkom",
-      "summary": [
-        "Bloomberg Markets：MTN 正在洽談以南非現金和股票交易收購 Telkom",
-        "Investing.com：MTN 集團正在洽談收購 Telkom SA 全部股份"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "MTN 正在洽談以南非現金和股票交易收購 Telkom",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/mtn-holds-talks-to-buy-south-africa-s-telkom-in-cash-share-deal"
-        },
-        {
-          "source": "Investing.com",
-          "title": "MTN 集團正在洽談收購 Telkom SA 全部股份",
-          "url": "https://www.investing.com/news/stock-market-news/mtn-group-in-talks-to-acquire-all-shares-of-telkom-sa-93CH-5028422"
         }
       ]
     }
