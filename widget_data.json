@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-16 17:27",
+  "updated_at": "2026-11-16 17:57",
   "taiwan": [
     {
       "rank": 1,
-      "title": "外媒：黃仁勳矽谷盟友組戰情室 欲藉施壓與遊說讓他復職 他本人也支援",
-      "summary": [
-        "經濟日報：外媒：黃仁勳矽谷盟友組戰情室 欲藉施壓與遊說讓他復職 他本人也支援",
-        "ETtoday：黃仁勳傳考慮重返輝達　矽谷大老組戰情室施壓董事會挺復職",
-        "科技新報：金融時報：黃仁勳考慮回鍋，矽谷盟友施壓輝達董事會要求讓他復職"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "外媒：黃仁勳矽谷盟友組戰情室 欲藉施壓與遊說讓他復職 他本人也支援",
-          "url": "https://money.udn.com/money/story/5599/9880741"
-        },
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳傳考慮重返輝達　矽谷大老組戰情室施壓董事會挺復職",
-          "url": "https://www.ettoday.net/news/20261116/3272738.htm"
-        },
-        {
-          "source": "科技新報",
-          "title": "金融時報：黃仁勳考慮回鍋，矽谷盟友施壓輝達董事會要求讓他復職",
-          "url": "https://finance.technews.tw/2026/11/16/financial-times-jensen-huang-reportedly-considers-rejoining-nvidia-silicon-valley-allies-pressure-board-reinstatement/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
@@ -50,7 +23,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "TVBS封關民調／AI模型預估蔣萬安51%得票、沈伯洋49%　3萬票險勝",
       "summary": [
         "ETtoday：TVBS封關民調／AI模型預估蔣萬安51%得票、沈伯洋49%　3萬票險勝",
@@ -71,7 +44,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "沒有延後 Rapidus：27年底至28年初量產2奈米-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：沒有延後 Rapidus：27年底至28年初量產2奈米-新聞內容-基金",
@@ -92,7 +65,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "學生揭營養午餐「生雞肉」遭網攻！ 蔣萬安：已請教育局查證",
       "summary": [
         "自由時報：學生揭營養午餐「生雞肉」遭網攻！ 蔣萬安：已請教育局查證",
@@ -109,6 +82,27 @@
           "source": "ETtoday",
           "title": "仁愛國中營養午餐疑爆「雞肉沒熟」　校方：未接獲師生身體不適",
           "url": "https://www.ettoday.net/news/20261116/3273086.htm"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "黃仁勳傳考慮重返輝達　矽谷大老組戰情室施壓董事會挺復職",
+      "summary": [
+        "ETtoday：黃仁勳傳考慮重返輝達　矽谷大老組戰情室施壓董事會挺復職",
+        "科技新報：金融時報：黃仁勳考慮回鍋，矽谷盟友施壓輝達董事會要求讓他復職"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳傳考慮重返輝達　矽谷大老組戰情室施壓董事會挺復職",
+          "url": "https://www.ettoday.net/news/20261116/3272738.htm"
+        },
+        {
+          "source": "科技新報",
+          "title": "金融時報：黃仁勳考慮回鍋，矽谷盟友施壓輝達董事會要求讓他復職",
+          "url": "https://finance.technews.tw/2026/11/16/financial-times-jensen-huang-reportedly-considers-rejoining-nvidia-silicon-valley-allies-pressure-board-reinstatement/"
         }
       ]
     },
@@ -224,7 +218,7 @@
       "title": "中國經濟全面放緩，未達預期",
       "summary": [
         "Bloomberg Markets：中國經濟全面放緩，未達預期",
-        "CNBC：由於工業產出、零售銷售、投資低於預期，中國十月經濟放緩加劇",
+        "CNBC：由於工業產出、零售銷售和投資未達預期，中國十月經濟放緩加劇",
         "Financial Times：中國10月經濟活動放緩幅度超乎預期"
       ],
       "media_count": 3,
@@ -236,7 +230,7 @@
         },
         {
           "source": "CNBC",
-          "title": "由於工業產出、零售銷售、投資低於預期，中國十月經濟放緩加劇",
+          "title": "由於工業產出、零售銷售和投資未達預期，中國十月經濟放緩加劇",
           "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
         },
         {
