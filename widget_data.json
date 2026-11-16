@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-16 07:56",
+  "updated_at": "2026-11-16 08:26",
   "taiwan": [
     {
       "rank": 1,
+      "title": "貝森特：輝達必須從外部找新CEO",
+      "summary": [
+        "經濟日報：貝森特：輝達必須從外部找新CEO",
+        "自由時報：美財長貝森特：輝達須「從公司外部」尋找新執行長",
+        "ETtoday：美財長貝森特：輝達須「從公司外部」尋找新執行長"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "貝森特：輝達必須從外部找新CEO",
+          "url": "https://money.udn.com/money/story/123398/9880650"
+        },
+        {
+          "source": "自由時報",
+          "title": "美財長貝森特：輝達須「從公司外部」尋找新執行長",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5641971"
+        },
+        {
+          "source": "ETtoday",
+          "title": "美財長貝森特：輝達須「從公司外部」尋找新執行長",
+          "url": "https://www.ettoday.net/news/20261116/3272755.htm"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "金融時報：黃仁勳考慮回鍋　矽谷盟友施壓輝達董事會要求讓他復職",
       "summary": [
         "自由時報：金融時報：黃仁勳考慮回鍋　矽谷盟友施壓輝達董事會要求讓他復職",
@@ -25,27 +52,6 @@
           "source": "ETtoday",
           "title": "黃仁勳傳考慮重返輝達　矽谷大老組戰情室施壓董事會挺復職",
           "url": "https://www.ettoday.net/news/20261116/3272738.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "貝森特：輝達必須從外部找新CEO",
-      "summary": [
-        "經濟日報：貝森特：輝達必須從外部找新CEO",
-        "自由時報：美財長貝森特：輝達須「從公司外部」尋找新執行長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "貝森特：輝達必須從外部找新CEO",
-          "url": "https://money.udn.com/money/story/123398/9880650"
-        },
-        {
-          "source": "自由時報",
-          "title": "美財長貝森特：輝達須「從公司外部」尋找新執行長",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5641971"
         }
       ]
     },
@@ -135,51 +141,42 @@
     },
     {
       "rank": 7,
-      "title": "富裔 115年第3季綜合損益表，每股虧損0.27元",
+      "title": "臺南安南07:47發生規模4.0地震 最大震度3級",
       "summary": [
-        "MoneyDJ理財網：富裔 115年第3季綜合損益表，每股虧損0.27元"
+        "自由時報：臺南安南07:47發生規模4.0地震 最大震度3級",
+        "ETtoday：快訊／07：47臺南規模4地震　最大震度3級"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "MoneyDJ理財網",
-          "title": "富裔 115年第3季綜合損益表，每股虧損0.27元",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS1AzRUM5UHc1cFpwOWJLS3E0SmNjWUpZcDBlV1FGSjRBTk1EWUtseF95d1dpalI1cVhWVGpQV0hSZmdfZV82c1NXS080NUoyTVRlR2F3d0YxdTNkd0I4LXVnWWt4d3o5UDNDNllNU0NsQm9ocjJwd2YzQjluVjFybWt3SmF4ejhqdXctcnpJOHQzQQ?oc=5"
+          "source": "自由時報",
+          "title": "臺南安南07:47發生規模4.0地震 最大震度3級",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5642014"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／07：47臺南規模4地震　最大震度3級",
+          "url": "https://www.ettoday.net/news/20261116/3272764.htm"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "產業評析最新專欄分析",
+      "title": "MoneyDJ新聞 2026-11-16 07:21:05 李彥瑾 釋出",
       "summary": [
-        "MoneyDJ理財網：產業評析最新專欄分析"
+        "MoneyDJ理財網：MoneyDJ新聞 2026-11-16 07:21:05 李彥瑾 釋出"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "MoneyDJ理財網",
-          "title": "產業評析最新專欄分析",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYSW04bzBKOHNPNHNtTkNYa2d5TThFTTNlc3hBT0UxMl94a3BHdVJBZDB6SWtOeURodU1OU3RSaGNtRnNkMDVRMXFKekRlcW44NWRocV9jdlNTb1NacERrTnVwc1pTWXpGRklpeWdlTUU5MHhJNFlObV9B?oc=5"
+          "title": "MoneyDJ新聞 2026-11-16 07:21:05 李彥瑾 釋出",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0x6Z2V2NU5lckZLcHlOaHFnUFlpaTgyUHVoY3N1TWx1N1BzYmZPNjFQcTM3VjNmaUdZZFJPY2hBZ1RvYmNCeTdiUTVydzFsZGRlMVVpUVlTdzhydlRIMTZ5Y2xIZUNmUHBGV0NFdjdFck1BcjNiSXNUSEJIQXhlMXRkazZJN1ZQeVpnVHM0QVVta2c?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "法人專欄分析內容-臺股",
-      "summary": [
-        "MoneyDJ理財網：法人專欄分析內容-臺股"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "法人專欄分析內容-臺股",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVkFoeGtRTEZwZFRqal9mNHpSbVdWNUx2T1hveV9NWnFxM0FfMkEtYi1MaDBkSHRFWWVsVk9JVlJkc2hxYi1ldVM0OWVjdW9JMjBrN0p6bDlhTU5VQXJiODhvM1EzWEdMOGhsay15UDR6bEI4NThpRjh6MVZZbmZHVTduVG9rWnQ1YTdCMGZn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "個股：力旺(3529)11/23受邀參加Morgan Stanley舉辦之法人說明會",
       "summary": [
         "公開資訊觀測站重訊：個股：力旺(3529)11/23受邀參加Morgan Stanley舉辦之法人說明會"
@@ -190,6 +187,21 @@
           "source": "公開資訊觀測站重訊",
           "title": "個股：力旺(3529)11/23受邀參加Morgan Stanley舉辦之法人說明會",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV3NZMG9vcnpielhQRkhIOVg5djlpam5pQXdlbVhJMEU1WncwVUlpUUFXUmFmV2I2ZTJocFBTa2w5WE5tQ2VxVWRlc1l2djNZYTN1Nk5tZ2trbm9XV1ZOcTVITWEwTWRwdjlSeUZTRUJpMHd5RnpmTzB4SmRGX1JzMW1UWDhseFVD?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "產業評析最新專欄分析",
+      "summary": [
+        "MoneyDJ理財網：產業評析最新專欄分析"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "產業評析最新專欄分析",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYSW04bzBKOHNPNHNtTkNYa2d5TThFTTNlc3hBT0UxMl94a3BHdVJBZDB6SWtOeURodU1OU3RSaGNtRnNkMDVRMXFKekRlcW44NWRocV9jdlNTb1NacERrTnVwc1pTWXpGRklpeWdlTUU5MHhJNFlObV9B?oc=5"
         }
       ]
     }
@@ -250,27 +262,6 @@
     },
     {
       "rank": 3,
-      "title": "英偉達醜聞曝光後，國會將透過更嚴格的人工智慧晶片出口規則",
-      "summary": [
-        "Financial Times：英偉達醜聞曝光後，國會將透過更嚴格的人工智慧晶片出口規則",
-        "The Verge：在英偉達間諜醜聞後，國會希望收緊人工智慧晶片的出口規定"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "英偉達醜聞曝光後，國會將透過更嚴格的人工智慧晶片出口規則",
-          "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1"
-        },
-        {
-          "source": "The Verge",
-          "title": "在英偉達間諜醜聞後，國會希望收緊人工智慧晶片的出口規定",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "歐洲需要與俄羅斯對話",
       "summary": [
         "Financial Times：歐洲需要與俄羅斯對話",
@@ -291,7 +282,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "美國及其盟國簽署協議保護人工智慧供應鏈免受中國影響",
       "summary": [
         "Financial Times：美國及其盟國簽署協議保護人工智慧供應鏈免受中國影響",
@@ -312,7 +303,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "2 位對沖基金經理人希望黃仁勳回歸。他能重新擔任英偉達執行長嗎？",
       "summary": [
         "Yahoo Finance：2 位對沖基金經理人希望黃仁勳回歸。他能重新擔任英偉達執行長嗎？",
@@ -333,7 +324,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "詳訊：韓中外長在京舉行會談",
       "summary": [
         "韓聯社：詳訊：韓中外長在京舉行會談"
@@ -348,47 +339,62 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "美俄宣佈“習特普”峰會將在深圳舉行 北京處境微妙",
+      "rank": 7,
+      "title": "德國舉行全“國民哀悼日”紀念活動",
       "summary": [
-        "德國之聲：美俄宣佈“習特普”峰會將在深圳舉行 北京處境微妙"
+        "德國之聲：德國舉行全“國民哀悼日”紀念活動"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "德國之聲",
-          "title": "美俄宣佈“習特普”峰會將在深圳舉行 北京處境微妙",
-          "url": "https://www.dw.com/zh/美俄宣布-习特普-峰会将在深圳举行-北京处境微妙/a-79952049?maca=chi-rss-chi-all-1127-rdf"
+          "title": "德國舉行全“國民哀悼日”紀念活動",
+          "url": "https://www.dw.com/zh/德国举行全-国民哀悼日-纪念活动/a-79952240?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "IShowSpeed 不斷變大。他對創作者的建議是個人的。",
+      "summary": [
+        "Washington Post：IShowSpeed 不斷變大。他對創作者的建議是個人的。"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "IShowSpeed 不斷變大。他對創作者的建議是個人的。",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjJkX0tMREhUYTBkZ2FlQjVOaUc0a0tlbDRZaEl0dTdZblJCRDhqR0dQV1RZZnhyRDdCaENxTTJjS2NHVDdHdHZ0VDhhb2tDM3oycXAzWVp6YVktb3h2Yk4tWTF2SWxMdW5mWnZUYm51cHRXR1A1RzR2YkE5cUhsa2k2Y0U0V21SZVJRX1Rua1N5a2ZyUnEwSlZqNkZDNVBhN2pMMXJ0WkN3ZkpERHBEdFNn?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "葉門政府軍從曼德海峽附近區域撤出 胡塞武裝獲取控制權",
+      "title": "川普前往亞洲，貿易和安全受到威脅",
       "summary": [
-        "法廣RFI：葉門政府軍從曼德海峽附近區域撤出 胡塞武裝獲取控制權"
+        "Bloomberg Markets：川普前往亞洲，貿易和安全受到威脅"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "葉門政府軍從曼德海峽附近區域撤出 胡塞武裝獲取控制權",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E6%9D%B1/20261115-%E4%B9%9F%E9%96%80%E6%94%BF%E5%BA%9C%E8%BB%8D%E5%BE%9E%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%BD%E9%99%84%E8%BF%91%E5%8D%80%E5%9F%9F%E6%92%A4%E5%87%BA-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E7%8D%B2%E5%8F%96%E6%8E%A7%E5%88%B6%E6%AC%8A"
+          "source": "Bloomberg Markets",
+          "title": "川普前往亞洲，貿易和安全受到威脅",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-15/trump-heads-to-asia-with-trade-security-at-stake-video"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "[突發新聞] 愛媛郡知事選舉出口民調結果",
+      "title": "新興市場債券荒導致物價上漲，銷量下滑 41%",
       "summary": [
-        "NHK新聞：[突發新聞] 愛媛郡知事選舉出口民調結果"
+        "Bloomberg Markets：新興市場債券荒導致物價上漲，銷量下滑 41%"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "[突發新聞] 愛媛郡知事選舉出口民調結果",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261115de76102"
+          "source": "Bloomberg Markets",
+          "title": "新興市場債券荒導致物價上漲，銷量下滑 41%",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-15/bond-drought-in-emerging-markets-lifts-prices-as-sales-slump-41"
         }
       ]
     }
