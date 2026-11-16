@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 08:26",
+  "updated_at": "2026-11-16 08:56",
   "taiwan": [
     {
       "rank": 1,
@@ -78,6 +78,48 @@
     },
     {
       "rank": 4,
+      "title": "貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
+      "summary": [
+        "MoneyDJ理財網：貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
+        "科技新報：貝森特質疑輝達銷售資料、內控  籲從外部延攬 CEO"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "貝森特質疑輝達銷售資料、內控 籲從外部延攬CEO-新聞內容-基金",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNVJHQ3NRQXFyWGowZzFpUE9QVXpNSDlGYTlVb2FNekxqcXk2emJtUmhmeUZGM2ZGdm5pV3dZU3hZR2VFYk9ULXd5YmJubXpGemd3TjBPT3JZelJXSG9UVXpLeVlGU0FvN2xKUnprdnA5TFhwUG1ucjgxX05wM2JaX0k0SFdSWS1ncU9sLVRveVE?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "貝森特質疑輝達銷售資料、內控  籲從外部延攬 CEO",
+          "url": "https://finance.technews.tw/2026/11/16/bessent-says-nvidia-must-go-outside-the-company-to-find-new-ceo/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "沒有延後 Rapidus：27年底至28年初量產2奈米-新聞內容-基金",
+      "summary": [
+        "MoneyDJ理財網：沒有延後 Rapidus：27年底至28年初量產2奈米-新聞內容-基金",
+        "科技新報：沒有延後  Rapidus：2027 年底至 2028 年初量產 2 奈米"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "沒有延後 Rapidus：27年底至28年初量產2奈米-新聞內容-基金",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXRjT0JFZWE4ZFkxcW1iQW9vWFloNjF1OUdyMlNmUWlybWUtSnpEMXltcnBJOWJsX3IzZ2MwenZnSkRuVkc3SUlOYnVsWVp6NWx2VVl5X3FWTnJUZ21MQk9Xc3ZMVUpfVzh6Zk5RRTZVSkVXVDdTN2V1SWFMNThKTlFUdk1GcTVJZXZyeW1PbUs?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "沒有延後  Rapidus：2027 年底至 2028 年初量產 2 奈米",
+          "url": "https://technews.tw/2026/11/16/rapidus-no-delays-2nm-mass-production-late-2027-early-2028/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "黃仁勳復職聯署破13萬人！逾7.1萬名股東聲援 馬斯克、張一鳴都在列",
       "summary": [
         "鉅亨網：黃仁勳復職聯署破13萬人！逾7.1萬名股東聲援 馬斯克、張一鳴都在列",
@@ -98,7 +140,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Megaspeed釋出宣告！證實黃樂去年8月離職 黃仁勳緋聞牽出國安疑慮",
       "summary": [
         "鉅亨網：Megaspeed釋出宣告！證實黃樂去年8月離職 黃仁勳緋聞牽出國安疑慮",
@@ -119,7 +161,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
       "summary": [
         "自由時報：美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
@@ -140,7 +182,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "臺南安南07:47發生規模4.0地震 最大震度3級",
       "summary": [
         "自由時報：臺南安南07:47發生規模4.0地震 最大震度3級",
@@ -161,7 +203,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "MoneyDJ新聞 2026-11-16 07:21:05 李彥瑾 釋出",
       "summary": [
         "MoneyDJ理財網：MoneyDJ新聞 2026-11-16 07:21:05 李彥瑾 釋出"
@@ -172,36 +214,6 @@
           "source": "MoneyDJ理財網",
           "title": "MoneyDJ新聞 2026-11-16 07:21:05 李彥瑾 釋出",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0x6Z2V2NU5lckZLcHlOaHFnUFlpaTgyUHVoY3N1TWx1N1BzYmZPNjFQcTM3VjNmaUdZZFJPY2hBZ1RvYmNCeTdiUTVydzFsZGRlMVVpUVlTdzhydlRIMTZ5Y2xIZUNmUHBGV0NFdjdFck1BcjNiSXNUSEJIQXhlMXRkazZJN1ZQeVpnVHM0QVVta2c?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "個股：力旺(3529)11/23受邀參加Morgan Stanley舉辦之法人說明會",
-      "summary": [
-        "公開資訊觀測站重訊：個股：力旺(3529)11/23受邀參加Morgan Stanley舉辦之法人說明會"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "個股：力旺(3529)11/23受邀參加Morgan Stanley舉辦之法人說明會",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV3NZMG9vcnpielhQRkhIOVg5djlpam5pQXdlbVhJMEU1WncwVUlpUUFXUmFmV2I2ZTJocFBTa2w5WE5tQ2VxVWRlc1l2djNZYTN1Nk5tZ2trbm9XV1ZOcTVITWEwTWRwdjlSeUZTRUJpMHd5RnpmTzB4SmRGX1JzMW1UWDhseFVD?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "產業評析最新專欄分析",
-      "summary": [
-        "MoneyDJ理財網：產業評析最新專欄分析"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "產業評析最新專欄分析",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYSW04bzBKOHNPNHNtTkNYa2d5TThFTTNlc3hBT0UxMl94a3BHdVJBZDB6SWtOeURodU1OU3RSaGNtRnNkMDVRMXFKekRlcW44NWRocV9jdlNTb1NacERrTnVwc1pTWXpGRklpeWdlTUU5MHhJNFlObV9B?oc=5"
         }
       ]
     }
@@ -340,61 +352,61 @@
     },
     {
       "rank": 7,
-      "title": "德國舉行全“國民哀悼日”紀念活動",
+      "title": "英偉達 CEO 搜尋因 Bessent 的「改組」號召而引發爭議",
       "summary": [
-        "德國之聲：德國舉行全“國民哀悼日”紀念活動"
+        "Bloomberg Tech：英偉達 CEO 搜尋因 Bessent 的「改組」號召而引發爭議"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "德國舉行全“國民哀悼日”紀念活動",
-          "url": "https://www.dw.com/zh/德国举行全-国民哀悼日-纪念活动/a-79952240?maca=chi-rss-chi-all-1127-rdf"
+          "source": "Bloomberg Tech",
+          "title": "英偉達 CEO 搜尋因 Bessent 的「改組」號召而引發爭議",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-s-ceo-search-draws-fire-with-bessent-s-call-for-shakeup"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "IShowSpeed 不斷變大。他對創作者的建議是個人的。",
+      "title": "日本第三季GDP年化下降0.1%",
       "summary": [
-        "Washington Post：IShowSpeed 不斷變大。他對創作者的建議是個人的。"
+        "Nikkei Asia：日本第三季GDP年化下降0.1%"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Washington Post",
-          "title": "IShowSpeed 不斷變大。他對創作者的建議是個人的。",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjJkX0tMREhUYTBkZ2FlQjVOaUc0a0tlbDRZaEl0dTdZblJCRDhqR0dQV1RZZnhyRDdCaENxTTJjS2NHVDdHdHZ0VDhhb2tDM3oycXAzWVp6YVktb3h2Yk4tWTF2SWxMdW5mWnZUYm51cHRXR1A1RzR2YkE5cUhsa2k2Y0U0V21SZVJRX1Rua1N5a2ZyUnEwSlZqNkZDNVBhN2pMMXJ0WkN3ZkpERHBEdFNn?oc=5"
+          "source": "Nikkei Asia",
+          "title": "日本第三季GDP年化下降0.1%",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03N2tOTk1DbUlPYVpfMkdndDVIMnFmc3lrQjhPMjZHSG5mRzljanFYSFQ2ZFg5UFF0U09mdDhqZXRYLTl1UmRhU1BQc1JmWlBTMlh4UmxEYkw2ZkozWmUwSThBVTBWOTVtVVlDbHFsMVJTOGFGcHdHaVlyb0s?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "川普前往亞洲，貿易和安全受到威脅",
+      "title": "共和黨人將中期失敗歸咎於川普以外的所有人",
       "summary": [
-        "Bloomberg Markets：川普前往亞洲，貿易和安全受到威脅"
+        "Financial Times：共和黨人將中期失敗歸咎於川普以外的所有人"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "川普前往亞洲，貿易和安全受到威脅",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-15/trump-heads-to-asia-with-trade-security-at-stake-video"
+          "source": "Financial Times",
+          "title": "共和黨人將中期失敗歸咎於川普以外的所有人",
+          "url": "https://www.ft.com/content/d21caa78-65c1-4570-bec8-2ef71b5d65e7?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "新興市場債券荒導致物價上漲，銷量下滑 41%",
+      "title": "沙烏地阿拉伯支援的葉門軍隊從紅海撤退以贏得胡塞武裝的勝利",
       "summary": [
-        "Bloomberg Markets：新興市場債券荒導致物價上漲，銷量下滑 41%"
+        "Financial Times：沙烏地阿拉伯支援的葉門軍隊從紅海撤退以贏得胡塞武裝的勝利"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "新興市場債券荒導致物價上漲，銷量下滑 41%",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-15/bond-drought-in-emerging-markets-lifts-prices-as-sales-slump-41"
+          "source": "Financial Times",
+          "title": "沙烏地阿拉伯支援的葉門軍隊從紅海撤退以贏得胡塞武裝的勝利",
+          "url": "https://www.ft.com/content/2e7028ba-987c-4874-9426-fe38a8753c67?syn-25a6b1a6=1"
         }
       ]
     }
