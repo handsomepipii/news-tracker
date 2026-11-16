@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 08:56",
+  "updated_at": "2026-11-16 09:26",
   "taiwan": [
     {
       "rank": 1,
@@ -120,6 +120,27 @@
     },
     {
       "rank": 6,
+      "title": "逼近首波冷氣團！2波東北季風接力　週四起轉乾冷「急凍探13度」",
+      "summary": [
+        "ETtoday：逼近首波冷氣團！2波東北季風接力　週四起轉乾冷「急凍探13度」",
+        "自由時報：今年首波大陸冷氣團報到！專家曝「最冷2天」：低溫恐下探13度"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "逼近首波冷氣團！2波東北季風接力　週四起轉乾冷「急凍探13度」",
+          "url": "https://www.ettoday.net/news/20261115/3272700.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "今年首波大陸冷氣團報到！專家曝「最冷2天」：低溫恐下探13度",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5642043"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "黃仁勳復職聯署破13萬人！逾7.1萬名股東聲援 馬斯克、張一鳴都在列",
       "summary": [
         "鉅亨網：黃仁勳復職聯署破13萬人！逾7.1萬名股東聲援 馬斯克、張一鳴都在列",
@@ -140,7 +161,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Megaspeed釋出宣告！證實黃樂去年8月離職 黃仁勳緋聞牽出國安疑慮",
       "summary": [
         "鉅亨網：Megaspeed釋出宣告！證實黃樂去年8月離職 黃仁勳緋聞牽出國安疑慮",
@@ -161,7 +182,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
       "summary": [
         "自由時報：美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
@@ -182,7 +203,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "臺南安南07:47發生規模4.0地震 最大震度3級",
       "summary": [
         "自由時報：臺南安南07:47發生規模4.0地震 最大震度3級",
@@ -199,21 +220,6 @@
           "source": "ETtoday",
           "title": "快訊／07：47臺南規模4地震　最大震度3級",
           "url": "https://www.ettoday.net/news/20261116/3272764.htm"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "MoneyDJ新聞 2026-11-16 07:21:05 李彥瑾 釋出",
-      "summary": [
-        "MoneyDJ理財網：MoneyDJ新聞 2026-11-16 07:21:05 李彥瑾 釋出"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "MoneyDJ新聞 2026-11-16 07:21:05 李彥瑾 釋出",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0x6Z2V2NU5lckZLcHlOaHFnUFlpaTgyUHVoY3N1TWx1N1BzYmZPNjFQcTM3VjNmaUdZZFJPY2hBZ1RvYmNCeTdiUTVydzFsZGRlMVVpUVlTdzhydlRIMTZ5Y2xIZUNmUHBGV0NFdjdFck1BcjNiSXNUSEJIQXhlMXRkazZJN1ZQeVpnVHM0QVVta2c?oc=5"
         }
       ]
     }
@@ -274,27 +280,6 @@
     },
     {
       "rank": 3,
-      "title": "歐洲需要與俄羅斯對話",
-      "summary": [
-        "Financial Times：歐洲需要與俄羅斯對話",
-        "FT中文網：俄羅斯要求歐洲挑選一名代表參與俄烏和談"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "歐洲需要與俄羅斯對話",
-          "url": "https://www.ft.com/content/386813f4-2bf6-4fbe-9ab7-5f0c57f8e593"
-        },
-        {
-          "source": "FT中文網",
-          "title": "俄羅斯要求歐洲挑選一名代表參與俄烏和談",
-          "url": "https://www.ftchinese.com/story/001111372"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "美國及其盟國簽署協議保護人工智慧供應鏈免受中國影響",
       "summary": [
         "Financial Times：美國及其盟國簽署協議保護人工智慧供應鏈免受中國影響",
@@ -315,7 +300,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "2 位對沖基金經理人希望黃仁勳回歸。他能重新擔任英偉達執行長嗎？",
       "summary": [
         "Yahoo Finance：2 位對沖基金經理人希望黃仁勳回歸。他能重新擔任英偉達執行長嗎？",
@@ -336,7 +321,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "詳訊：韓中外長在京舉行會談",
       "summary": [
         "韓聯社：詳訊：韓中外長在京舉行會談"
@@ -351,7 +336,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "英偉達 CEO 搜尋因 Bessent 的「改組」號召而引發爭議",
       "summary": [
         "Bloomberg Tech：英偉達 CEO 搜尋因 Bessent 的「改組」號召而引發爭議"
@@ -366,7 +351,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "日本第三季GDP年化下降0.1%",
       "summary": [
         "Nikkei Asia：日本第三季GDP年化下降0.1%"
@@ -381,32 +366,47 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "共和黨人將中期失敗歸咎於川普以外的所有人",
+      "rank": 8,
+      "title": "Megaspeed據報曾安排將價值近120億美元英偉達晶片運往中國企業",
       "summary": [
-        "Financial Times：共和黨人將中期失敗歸咎於川普以外的所有人"
+        "法廣RFI：Megaspeed據報曾安排將價值近120億美元英偉達晶片運往中國企業"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "共和黨人將中期失敗歸咎於川普以外的所有人",
-          "url": "https://www.ft.com/content/d21caa78-65c1-4570-bec8-2ef71b5d65e7?syn-25a6b1a6=1"
+          "source": "法廣RFI",
+          "title": "Megaspeed據報曾安排將價值近120億美元英偉達晶片運往中國企業",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261115-megaspeed%E6%93%9A%E5%A0%B1%E6%9B%BE%E5%AE%89%E6%8E%92%E5%B0%87%E5%83%B9%E5%80%BC%E8%BF%91120%E5%84%84%E7%BE%8E%E5%85%83%E8%8B%B1%E5%81%89%E9%81%94%E8%8A%AF%E7%89%87%E9%81%8B%E5%BE%80%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "第49屆東盟峰會週日開幕，南海與緬甸成核心議題",
+      "summary": [
+        "法廣RFI：第49屆東盟峰會週日開幕，南海與緬甸成核心議題"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "第49屆東盟峰會週日開幕，南海與緬甸成核心議題",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E8%A7%A3%E8%AA%AA/20261115-%E7%AC%AC49%E5%B1%86%E6%9D%B1%E7%9B%9F%E5%B3%B0%E6%9C%83%E5%91%A8%E6%97%A5%E9%96%8B%E5%B9%95%EF%BC%8C%E5%8D%97%E6%B5%B7%E8%88%87%E7%B7%AC%E7%94%B8%E6%88%90%E6%A0%B8%E5%BF%83%E8%AD%B0%E9%A1%8C"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "沙烏地阿拉伯支援的葉門軍隊從紅海撤退以贏得胡塞武裝的勝利",
+      "title": "韓國稅務會計考試最高分承認作弊",
       "summary": [
-        "Financial Times：沙烏地阿拉伯支援的葉門軍隊從紅海撤退以贏得胡塞武裝的勝利"
+        "BBC World：韓國稅務會計考試最高分承認作弊"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "沙烏地阿拉伯支援的葉門軍隊從紅海撤退以贏得胡塞武裝的勝利",
-          "url": "https://www.ft.com/content/2e7028ba-987c-4874-9426-fe38a8753c67?syn-25a6b1a6=1"
+          "source": "BBC World",
+          "title": "韓國稅務會計考試最高分承認作弊",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
