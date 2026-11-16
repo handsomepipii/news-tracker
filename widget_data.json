@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 00:56",
+  "updated_at": "2026-11-17 01:27",
   "taiwan": [
     {
       "rank": 1,
@@ -345,48 +345,6 @@
     },
     {
       "rank": 5,
-      "title": "根據《華爾街日報》報道，美國計劃將英偉達列為人工智慧“國家冠軍”",
-      "summary": [
-        "Investing.com：根據《華爾街日報》報道，美國計劃將英偉達列為人工智慧“國家冠軍”",
-        "Yahoo Finance：根據《華爾街日報》報道，川普政府將英偉達和其他人工智慧公司列為美國“國家冠軍”"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "根據《華爾街日報》報道，美國計劃將英偉達列為人工智慧“國家冠軍”",
-          "url": "https://www.investing.com/news/stock-market-news/us-plans-to-name-nvidia-among-ai-national-champions-wsj-reports-5028365"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "根據《華爾街日報》報道，川普政府將英偉達和其他人工智慧公司列為美國“國家冠軍”",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTGRqaWdiSHpFSExKRlhZdGxUMndOYnVlZUhUVFpFajV4RXpFZ0FuaDRfbkF6aGFzd3ctdFNfLTdhbWdUc092aDJjOXE4V1RxVy0tdlpVV0pxNG43Zk13d29Id0V3RnlKY2hsWnJMby1RMDBqYU1KWVJUWms3UEdsbU1VTTE0UWw5UzkyRA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "新世界股價暴跌 47% 創歷史新低 配股 32 億美元",
-      "summary": [
-        "Investing.com：新世界股價暴跌 47% 創歷史新低 配股 32 億美元",
-        "Nikkei Asia：新世界計畫配股 32 億美元，股價跌至新低"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "新世界股價暴跌 47% 創歷史新低 配股 32 億美元",
-          "url": "https://www.investing.com/news/stock-market-news/new-world-shares-plunge-47-to-record-low-on-32-billion-rights-issue-5028362"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "新世界計畫配股 32 億美元，股價跌至新低",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRXAwcnhEaVdaVkowd3lPTnJ4dU5tS0RUZk9MRWtEXzdCdXpuWW1hVkVTMHpXOW9DQmdfd2VRakhnN0xTMkZXSEZiTGZlc3J3XzJYd05uWHVJV20tLWgxTUIyZVlsTTIwc1BoeHprbHV2ODlkYUlabHNtQk0ydFoyRE51WUQ5bFJ6ZnpqQnlOYjFRS3EyZVByTVVPSVJ2Ujc3Z2pyTHZKX3pTYlkyLWpSOFR3aE1yMmgwQnc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "MTN 正在洽談以南非現金和股票交易收購 Telkom",
       "summary": [
         "Bloomberg Markets：MTN 正在洽談以南非現金和股票交易收購 Telkom",
@@ -407,7 +365,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "據報道，黃仁勳考慮執行長復出，馬斯克支援回歸，英偉達股價穩定",
       "summary": [
         "Yahoo Finance：據報道，黃仁勳考慮執行長復出，馬斯克支援回歸，英偉達股價穩定",
@@ -428,7 +386,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "出口強勁，泰國第三季 GDP 成長 2.9%",
       "summary": [
         "Nikkei Asia：出口強勁，泰國第三季 GDP 成長 2.9%",
@@ -449,7 +407,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "人工智慧擔憂令投資人緊張，歐洲股市波動",
       "summary": [
         "Bloomberg Markets：人工智慧擔憂令投資人緊張，歐洲股市波動",
@@ -466,6 +424,48 @@
           "source": "WSJ Markets",
           "title": "今日股市：人工智慧關鍵週始，科技股面臨壓力",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "美國籃球運動員攜帶34公斤大麻在奈及利亞機場被捕",
+      "summary": [
+        "BBC World：美國籃球運動員攜帶34公斤大麻在奈及利亞機場被捕",
+        "The Guardian：當局稱，美國籃球運動員攜帶 75 磅大麻在奈及利亞機場被捕"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "美國籃球運動員攜帶34公斤大麻在奈及利亞機場被捕",
+          "url": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "title": "當局稱，美國籃球運動員攜帶 75 磅大麻在奈及利亞機場被捕",
+          "url": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "北約成員國愛沙尼亞在試圖「破壞」無人機製造商後關閉俄羅斯邊境",
+      "summary": [
+        "CNBC：北約成員國愛沙尼亞在試圖「破壞」無人機製造商後關閉俄羅斯邊境",
+        "BBC World：無人機工廠縱火未遂後，愛沙尼亞將關閉俄羅斯過境點"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "北約成員國愛沙尼亞在試圖「破壞」無人機製造商後關閉俄羅斯邊境",
+          "url": "https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html"
+        },
+        {
+          "source": "BBC World",
+          "title": "無人機工廠縱火未遂後，愛沙尼亞將關閉俄羅斯過境點",
+          "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
