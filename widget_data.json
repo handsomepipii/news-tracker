@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 02:26",
+  "updated_at": "2026-11-18 02:56",
   "taiwan": [
     {
       "rank": 1,
@@ -30,69 +30,27 @@
     },
     {
       "rank": 2,
-      "title": "葉君璋盛讚軟銀亞洲最強！味全龍創秋訓歷史首例　揭臺日養成差異",
+      "title": "快訊／致癌油4高層免回看守所　中聯油總經理交保金400萬變2千萬",
       "summary": [
-        "ETtoday：葉君璋盛讚軟銀亞洲最強！味全龍創秋訓歷史首例　揭臺日養成差異",
-        "自由時報：樹林本命區車掃！蘇巧慧：最後衝刺努力迎接新北新時代"
+        "ETtoday：快訊／致癌油4高層免回看守所　中聯油總經理交保金400萬變2千萬",
+        "自由時報：屏東馬卡道文化祭老埤11/23揭幕 加蚋埔、加匏朗接續登場"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "ETtoday",
-          "title": "葉君璋盛讚軟銀亞洲最強！味全龍創秋訓歷史首例　揭臺日養成差異",
-          "url": "https://sports.ettoday.net/news/3273706"
+          "title": "快訊／致癌油4高層免回看守所　中聯油總經理交保金400萬變2千萬",
+          "url": "https://www.ettoday.net/news/20261117/3273716.htm"
         },
         {
           "source": "自由時報",
-          "title": "樹林本命區車掃！蘇巧慧：最後衝刺努力迎接新北新時代",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5644198"
+          "title": "屏東馬卡道文化祭老埤11/23揭幕 加蚋埔、加匏朗接續登場",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5643909"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "紐時：黃仁勳女兒黃敏珊在輝達呼風喚雨　強勢管理風格惹議",
-      "summary": [
-        "經濟日報：紐時：黃仁勳女兒黃敏珊在輝達呼風喚雨　強勢管理風格惹議",
-        "科技新報：紐時：黃仁勳女兒黃敏珊在輝達呼風喚雨，強勢管理風格惹議"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "紐時：黃仁勳女兒黃敏珊在輝達呼風喚雨　強勢管理風格惹議",
-          "url": "https://money.udn.com/money/story/5599/9884159"
-        },
-        {
-          "source": "科技新報",
-          "title": "紐時：黃仁勳女兒黃敏珊在輝達呼風喚雨，強勢管理風格惹議",
-          "url": "https://finance.technews.tw/2026/11/17/nyt-jensen-huang-daughter-madison-huang-nvidia-influence-assertive-management-style-criticism/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "美晶片禁令下另闢蹊徑　中企藉美AI模型訓練自家系統",
-      "summary": [
-        "經濟日報：美晶片禁令下另闢蹊徑　中企藉美AI模型訓練自家系統",
-        "科技新報：美晶片禁令下另闢蹊徑，中企藉美 AI 模型訓練自家系統"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美晶片禁令下另闢蹊徑　中企藉美AI模型訓練自家系統",
-          "url": "https://money.udn.com/money/story/5599/9884081"
-        },
-        {
-          "source": "科技新報",
-          "title": "美晶片禁令下另闢蹊徑，中企藉美 AI 模型訓練自家系統",
-          "url": "https://technews.tw/2026/11/17/chinese-firms-use-us-ai-models-to-train-their-own-systems/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "韓 OLED 面板出貨量超車中國  睽違兩年重返龍頭",
       "summary": [
         "科技新報：韓 OLED 面板出貨量超車中國  睽違兩年重返龍頭",
@@ -113,7 +71,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "美國超大規模資料中心耗能與碳排驚人，一年排放量直逼丹麥",
       "summary": [
         "科技新報：美國超大規模資料中心耗能與碳排驚人，一年排放量直逼丹麥",
@@ -134,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "貪汙指控與彈劾威脅夾擊　蒙古國總統宣佈請辭",
       "summary": [
         "經濟日報：貪汙指控與彈劾威脅夾擊　蒙古國總統宣佈請辭",
@@ -155,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "AI需求續升溫 資誠：AI新創邁向獨角獸  關鍵在商業能力",
       "summary": [
         "自由時報：AI需求續升溫 資誠：AI新創邁向獨角獸  關鍵在商業能力",
@@ -176,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "黃暐瀚質疑蔣萬安選舉公報　鍾沛君列3重點槓上：舔綠還裝就矯情了",
       "summary": [
         "ETtoday：黃暐瀚質疑蔣萬安選舉公報　鍾沛君列3重點槓上：舔綠還裝就矯情了",
@@ -197,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "SpaceX 採高通 5G 晶片方案，有望降低數萬座基地臺部署成本",
       "summary": [
         "科技新報：SpaceX 採高通 5G 晶片方案，有望降低數萬座基地臺部署成本",
@@ -214,6 +172,48 @@
           "source": "財訊",
           "title": "SpaceX採用高通5G晶片方案！數萬座基地臺建置成本有望大降 供應鏈商機浮現",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRcUtDMVJkWEItN1ZJZVZ3cFJJOEpfSHc4NFVVR0FPQ1FmcEhQWXB1b1VZWFRTZHBuVWJRa3VOV01iUzRxcGVReWVMUlFhTWE1THRSdUpnVXpURjl4bDcyd1o5Q2RqMmxzLWRfVUpNdzZ3SkJScjlGUExESQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "黃仁勳去職牽動AI建設佈局　輝達融資平臺恐趨保守",
+      "summary": [
+        "經濟日報：黃仁勳去職牽動AI建設佈局　輝達融資平臺恐趨保守",
+        "科技新報：黃仁勳去職牽動 AI 建設佈局，輝達融資平臺恐趨保守"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳去職牽動AI建設佈局　輝達融資平臺恐趨保守",
+          "url": "https://money.udn.com/money/story/123398/9884321"
+        },
+        {
+          "source": "科技新報",
+          "title": "黃仁勳去職牽動 AI 建設佈局，輝達融資平臺恐趨保守",
+          "url": "https://finance.technews.tw/2026/11/17/nvidia-financing-platform-may-turn-more-cautious/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "特斯拉砸33億美元擴德國廠 年產百萬輛Cybercab",
+      "summary": [
+        "MoneyDJ理財網：特斯拉砸33億美元擴德國廠 年產百萬輛Cybercab",
+        "INSIDE硬塞：Tesla 砸 30 億歐元擴建柏林超級工廠！Cybercab 2029 年投產，年產能上看 100 萬輛"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "特斯拉砸33億美元擴德國廠 年產百萬輛Cybercab",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZFBNZEhEV2xxUkFzRjByYWJwN2x5Zy1TOUlPOHpSRjRjSEZ5Ml9Ha1BudXg2dVFIVXpJUEhTRV9FbTRITGtYd0U4M20zUE1JX1JfWVJFR05naVM4UWhPOHVmS3g2YndkZXZDZjg2aUpUR0FoeXJmRUppT1NJUi1SY1MxNUI4WXpHdUxiUmFXbXgtUQ?oc=5"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "Tesla 砸 30 億歐元擴建柏林超級工廠！Cybercab 2029 年投產，年產能上看 100 萬輛",
+          "url": "https://www.inside.com.tw/article/42940-tesla-cybercab-giga-berlin-3-billion-1-million"
         }
       ]
     }
