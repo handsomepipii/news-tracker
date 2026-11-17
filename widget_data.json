@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 14:27",
+  "updated_at": "2026-11-17 14:57",
   "taiwan": [
     {
       "rank": 1,
@@ -30,33 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "黃仁勳回歸夢碎？CNBC：輝達董事會未考慮回任 股價跌勢擴大",
-      "summary": [
-        "經濟日報：黃仁勳回歸夢碎？CNBC：輝達董事會未考慮回任 股價跌勢擴大",
-        "自由時報：美媒：輝達董事會目前未考慮讓黃仁勳回任執行長",
-        "ETtoday：快訊／輝達董事會暫未考慮讓黃仁勳回鍋執行長　股價再跌逾4％"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳回歸夢碎？CNBC：輝達董事會未考慮回任 股價跌勢擴大",
-          "url": "https://money.udn.com/money/story/123398/9882881"
-        },
-        {
-          "source": "自由時報",
-          "title": "美媒：輝達董事會目前未考慮讓黃仁勳回任執行長",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5643077"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／輝達董事會暫未考慮讓黃仁勳回鍋執行長　股價再跌逾4％",
-          "url": "https://www.ettoday.net/news/20261117/3273316.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "美情報曝：伊朗擬在華府引爆髒彈！ 　鎖定川普政府高層",
       "summary": [
         "ETtoday：美情報曝：伊朗擬在華府引爆髒彈！ 　鎖定川普政府高層",
@@ -79,6 +52,33 @@
           "source": "自由時報",
           "title": "傳伊朗擬用「髒彈」攻擊華府！川普政府高官成目標、緊急研擬應變",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5643170"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "美媒：輝達董事會目前未考慮讓黃仁勳回任執行長",
+      "summary": [
+        "自由時報：美媒：輝達董事會目前未考慮讓黃仁勳回任執行長",
+        "經濟日報：美媒：輝達董事會目前未考慮讓黃仁勳回任執行長",
+        "ETtoday：快訊／輝達董事會暫未考慮讓黃仁勳回鍋執行長　股價再跌逾4％"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美媒：輝達董事會目前未考慮讓黃仁勳回任執行長",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5643077"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美媒：輝達董事會目前未考慮讓黃仁勳回任執行長",
+          "url": "https://money.udn.com/money/story/5599/9882909"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／輝達董事會暫未考慮讓黃仁勳回鍋執行長　股價再跌逾4％",
+          "url": "https://www.ettoday.net/news/20261117/3273316.htm"
         }
       ]
     },
@@ -153,27 +153,6 @@
     },
     {
       "rank": 7,
-      "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
-      "summary": [
-        "自由時報：市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
-        "經濟日報：市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5643070"
-        },
-        {
-          "source": "經濟日報",
-          "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
-          "url": "https://money.udn.com/money/story/5599/9882880"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭",
       "summary": [
         "自由時報：川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭",
@@ -194,7 +173,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "克宮：普丁與川普擬APEC期間雙邊會談　計畫籌備中",
       "summary": [
         "自由時報：克宮：普丁與川普擬APEC期間雙邊會談　計畫籌備中",
@@ -215,7 +194,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "藍營重返執政「2032兩岸統一貨幣」？媒體人提3質疑「香港仍在用港幣」， 點名韓國瑜盧秀燕表態",
       "summary": [
         "風傳媒：藍營重返執政「2032兩岸統一貨幣」？媒體人提3質疑「香港仍在用港幣」， 點名韓國瑜盧秀燕表態",
@@ -234,43 +213,32 @@
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5643110"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "澤倫斯基：北韓供俄國更多彈道飛彈　盼歐洲盟邦伸援",
+      "summary": [
+        "自由時報：澤倫斯基：北韓供俄國更多彈道飛彈　盼歐洲盟邦伸援",
+        "經濟日報：澤倫斯基：北韓供俄國更多彈道飛彈　盼歐洲盟邦伸援"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "澤倫斯基：北韓供俄國更多彈道飛彈　盼歐洲盟邦伸援",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643079"
+        },
+        {
+          "source": "經濟日報",
+          "title": "澤倫斯基：北韓供俄國更多彈道飛彈　盼歐洲盟邦伸援",
+          "url": "https://money.udn.com/money/story/5599/9882928"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "蘋果將允許使用者透過臉部解鎖 iPhone Duo，解決主要缺陷",
-      "summary": [
-        "Bloomberg Tech：蘋果將允許使用者透過臉部解鎖 iPhone Duo，解決主要缺陷",
-        "Investing.com：蘋果為 iPhone Duo 新增臉部辨識解鎖功能",
-        "The Verge：蘋果正在為 iPhone Duo 新增面部解鎖功能，無需新硬體"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "蘋果將允許使用者透過臉部解鎖 iPhone Duo，解決主要缺陷",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/apple-to-let-users-face-unlock-iphone-duo-addressing-key-drawback"
-        },
-        {
-          "source": "Investing.com",
-          "title": "蘋果為 iPhone Duo 新增臉部辨識解鎖功能",
-          "url": "https://www.investing.com/news/stock-market-news/apple-adds-facial-recognition-unlock-to-iphone-duo-5030704"
-        },
-        {
-          "source": "The Verge",
-          "title": "蘋果正在為 iPhone Duo 新增面部解鎖功能，無需新硬體",
-          "url": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "蘋果為 iPhone Duo 新增了「解鎖解鎖」功能，但不是 Face ID",
-          "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "美國採取行動切斷中國對人工智慧晶片的遠端訪問",
       "summary": [
         "Ars Technica：美國採取行動切斷中國對人工智慧晶片的遠端訪問",
@@ -302,76 +270,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "加州起訴 OpenAI 擁抱臉部，其他人工智慧模式失控",
-      "summary": [
-        "CNBC：加州起訴 OpenAI 擁抱臉部，其他人工智慧模式失控",
-        "Investing.com：加州因 AI 模式對 Hugging Face 等公司發動網路攻擊並阻止 OpenAI",
-        "BBC World：加州因擁抱臉部攻擊起訴 OpenAI"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "加州起訴 OpenAI 擁抱臉部，其他人工智慧模式失控",
-          "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "加州因 AI 模式對 Hugging Face 等公司發動網路攻擊並阻止 OpenAI",
-          "url": "https://www.investing.com/news/stock-market-news/california-suesopenai-over-ai-models-cyberattacks-on-hugging-face-other-companies-5030712"
-        },
-        {
-          "source": "BBC World",
-          "title": "加州因擁抱臉部攻擊起訴 OpenAI",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "根據 CNBC 報道，英偉達董事會沒有討論黃仁勳重新擔任執行長的問題",
-      "summary": [
-        "Investing.com：根據 CNBC 報道，英偉達董事會沒有討論黃仁勳重新擔任執行長的問題",
-        "The Verge：據報道，英偉達董事會「不考慮」重新聘用黃仁勳"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "根據 CNBC 報道，英偉達董事會沒有討論黃仁勳重新擔任執行長的問題",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-board-not-discussing-jensen-huangs-return-as-ceo-cnbc-reports-5030688"
-        },
-        {
-          "source": "The Verge",
-          "title": "據報道，英偉達董事會「不考慮」重新聘用黃仁勳",
-          "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "川普呼籲黃仁勳復任英偉達執行長",
-      "summary": [
-        "Tom's Hardware：川普呼籲黃仁勳復任英偉達執行長",
-        "BBC中文：「讓黃仁勳回歸」運動：輝達駁斥、特朗普支援恢復其CEO職位"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Tom's Hardware",
-          "title": "川普呼籲黃仁勳復任英偉達執行長",
-          "url": "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen"
-        },
-        {
-          "source": "BBC中文",
-          "title": "「讓黃仁勳回歸」運動：輝達駁斥、特朗普支援恢復其CEO職位",
-          "url": "https://www.bbc.com/zhongwen/articles/ck3rgq3l5yr1o/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 2,
       "title": "雪佛龍接近以約 50 億美元收購黑石支援的美國海灣石油生產商",
       "summary": [
         "Financial Times：雪佛龍接近以約 50 億美元收購黑石支援的美國海灣石油生產商",
@@ -392,7 +291,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 3,
       "title": "加州 AG 就流氓代理事件起訴 OpenAI",
       "summary": [
         "TechCrunch：加州 AG 就流氓代理事件起訴 OpenAI",
@@ -413,7 +312,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
       "title": "英特爾股價一日下跌28.6% 股東起訴英特爾及其執行長和財務長",
       "summary": [
         "Ars Technica：英特爾股價一日下跌28.6% 股東起訴英特爾及其執行長和財務長",
@@ -434,7 +333,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "特斯拉將投資30億歐元擴大德國工廠",
       "summary": [
         "Yahoo Finance：特斯拉將投資30億歐元擴大德國工廠",
@@ -455,7 +354,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "美國新規定旨在限制中國公司遠端存取人工智慧伺服器和基礎設施",
       "summary": [
         "Tom's Hardware：美國新規定旨在限制中國公司遠端存取人工智慧伺服器和基礎設施",
@@ -472,6 +371,90 @@
           "source": "Bloomberg Tech",
           "title": "中國頂級人工智慧公司限制最新模型的網路功能",
           "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "匯豐銀行折價出售 3 億美元問題資料中心貸款",
+      "summary": [
+        "Bloomberg Tech：匯豐銀行折價出售 3 億美元問題資料中心貸款",
+        "Investing.com：匯豐銀行以大幅折扣出售 3 億美元陷入困境的人工智慧資料中心貸款"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "匯豐銀行折價出售 3 億美元問題資料中心貸款",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/hsbc-sold-300-million-troubled-data-center-loan-at-discount"
+        },
+        {
+          "source": "Investing.com",
+          "title": "匯豐銀行以大幅折扣出售 3 億美元陷入困境的人工智慧資料中心貸款",
+          "url": "https://www.investing.com/news/stock-market-news/hsbc-offloads-300-million-troubled-ai-data-center-loan-at-steep-discount--report-5031165"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "美國聯合航空公司通報系統中斷影響出發航班",
+      "summary": [
+        "CNBC：美國聯合航空公司通報系統中斷影響出發航班",
+        "Investing.com：美國聯合航空公司解決了系統中斷導致航班起飛的問題"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "美國聯合航空公司通報系統中斷影響出發航班",
+          "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "美國聯合航空公司解決了系統中斷導致航班起飛的問題",
+          "url": "https://www.investing.com/news/stock-market-news/united-airlines-troubleshoots-system-outage-disrupting-departing-flights-5031147"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "由於美國聯邦航空局 (FAA) 地面停留延誤揮之不去，美國聯合航空 (United Airlines) 遭受系統中斷",
+      "summary": [
+        "MarketWatch：由於美國聯邦航空局 (FAA) 地面停留延誤揮之不去，美國聯合航空 (United Airlines) 遭受系統中斷",
+        "The Verge：聯合航空在大面積地面停靠幾天後系統中斷，導致航班起飛中斷"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MarketWatch",
+          "title": "由於美國聯邦航空局 (FAA) 地面停留延誤揮之不去，美國聯合航空 (United Airlines) 遭受系統中斷",
+          "url": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories"
+        },
+        {
+          "source": "The Verge",
+          "title": "聯合航空在大面積地面停靠幾天後系統中斷，導致航班起飛中斷",
+          "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "由於英偉達的持續影響，股市下跌",
+      "summary": [
+        "Washington Post：由於英偉達的持續影響，股市下跌",
+        "Investing.com：為什麼 Advantest 股票今天會下跌？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "由於英偉達的持續影響，股市下跌",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEFFWkM0QU81aEJfWUszZ083R0l0MVEwOGJDTmF5MzJRRnI2eDhLd2RhaUoxVHRzSzRud3JKVEtsNmJmZWxrZkg0R3NpaVQ4QTJGZnZXZGstZy1OMl9TYXotOG41blRaTUVFd21xT2NLUlI1aTE0TThlb0tyX2lJbDE2MGczejYwcmU0UHNwbFd5UXZCYnRISGJXOEh4dXBNMnc?oc=5"
+        },
+        {
+          "source": "Investing.com",
+          "title": "為什麼 Advantest 股票今天會下跌？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-advantest-stock-sliding-today-93CH-5031584"
         }
       ]
     }
