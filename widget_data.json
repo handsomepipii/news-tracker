@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 07:26",
+  "updated_at": "2026-11-18 07:56",
   "taiwan": [
     {
       "rank": 1,
@@ -41,7 +41,7 @@
         "經濟日報：黃仁勳辭職後首發聲：若輝達董事會要求　願意回鍋任執行長",
         "ETtoday：快訊／黃仁勳請辭後首發聲！「若董事會同意」願重返輝達任CEO"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "自由時報",
@@ -57,38 +57,16 @@
           "source": "ETtoday",
           "title": "快訊／黃仁勳請辭後首發聲！「若董事會同意」願重返輝達任CEO",
           "url": "https://www.ettoday.net/news/20261118/3273947.htm"
+        },
+        {
+          "source": "數位時代",
+          "title": "「輝達是我畢生心血！」黃仁勳沉默9天再發聲：若董事會點頭，我很榮幸能重返CEO",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQenNhT2l5Z2xLc3FSZnlCZlVnc1pxQmpRVVk3VGE2bHJHY0RfSlpkXzJIUmZ5cHdtLTltQnU5bE4wUXJwSl9JRlhNSlhjeURoeTROMThCRGUzeG00UjhrRF9ldlJzYmNES1M0NlpFVjhMdE42dkUtTkI4d0Uwc1loWUFINzRwTHpyblN0ZW5tWG9naFAxdDJzUjBNNE9hZEU?oc=5"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
-      "summary": [
-        "自由時報：美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
-        "經濟日報：美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
-        "ETtoday：美國安局最高機密網路突故障！　知情人士曝肇因"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5644352"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
-          "url": "https://money.udn.com/money/story/5599/9885381"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美國安局最高機密網路突故障！　知情人士曝肇因",
-          "url": "https://www.ettoday.net/news/20261118/3273969.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難",
       "summary": [
         "自由時報：俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難",
@@ -111,6 +89,33 @@
           "source": "ETtoday",
           "title": "俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難",
           "url": "https://www.ettoday.net/news/20261118/3273964.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
+      "summary": [
+        "自由時報：美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
+        "經濟日報：美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
+        "ETtoday：美國安局最高機密網路突故障！　知情人士曝肇因"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5644352"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
+          "url": "https://money.udn.com/money/story/5599/9885381"
+        },
+        {
+          "source": "ETtoday",
+          "title": "美國安局最高機密網路突故障！　知情人士曝肇因",
+          "url": "https://www.ettoday.net/news/20261118/3273969.htm"
         }
       ]
     },
@@ -356,6 +361,27 @@
     },
     {
       "rank": 5,
+      "title": "金正恩也將在APEC深圳峰會期間去中國？",
+      "summary": [
+        "德國之聲：金正恩也將在APEC深圳峰會期間去中國？",
+        "韓聯社：李在明抵達中國深圳 將出席APEC峰會"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "金正恩也將在APEC深圳峰會期間去中國？",
+          "url": "https://www.dw.com/zh/金正恩也将在apec深圳峰会期间去中国？/a-79969412?maca=chi-rss-chi-all-1127-rdf"
+        },
+        {
+          "source": "韓聯社",
+          "title": "李在明抵達中國深圳 將出席APEC峰會",
+          "url": "https://cn.yna.co.kr/view/ACK20261118000200881"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "首次公開發行後，亞馬遜和谷歌將持有 Anthropic 約 28% 的股票",
       "summary": [
         "Bloomberg Markets：首次公開發行後，亞馬遜和谷歌將持有 Anthropic 約 28% 的股票",
@@ -376,7 +402,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "墨西哥 enfrenta trabas para atraer centros de datos de IA",
       "summary": [
         "Bloomberg Tech：墨西哥 enfrenta trabas para atraer centros de datos de IA",
@@ -397,7 +423,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Uber 和 Zipline 的無人機送貨服務在休士頓試飛",
       "summary": [
         "The Verge：Uber 和 Zipline 的無人機送貨服務在休士頓試飛",
@@ -418,7 +444,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "人為 IPO 受益者：風險敞口最大的股票",
       "summary": [
         "Investing.com：人為 IPO 受益者：風險敞口最大的股票",
@@ -439,7 +465,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "川普在與習近平和普丁舉行峰會之前抵達亞洲",
       "summary": [
         "Bloomberg Markets：川普在與習近平和普丁舉行峰會之前抵達亞洲",
@@ -456,27 +482,6 @@
           "source": "BBC World",
           "title": "川普在與俄羅斯和中國總統會談之前抵達亞洲",
           "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "交易員利用 Anthropic 首次公開發行前合約的定價差距獲利",
-      "summary": [
-        "Bloomberg Markets：交易員利用 Anthropic 首次公開發行前合約的定價差距獲利",
-        "Bloomberg Tech：交易員利用首次公開募股前合約中的定價差距"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "交易員利用 Anthropic 首次公開發行前合約的定價差距獲利",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-frenzy-sparks-an-exotic-trade-in-pre-ipo-markets"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "交易員利用首次公開募股前合約中的定價差距",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/traders-exploiting-pricing-gaps-in-pre-ipo-contracts-video"
         }
       ]
     }
