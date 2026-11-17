@@ -1,25 +1,30 @@
 {
-  "updated_at": "2026-11-18 03:56",
+  "updated_at": "2026-11-18 04:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "快訊／致癌油4高層免回看守所　中聯油總經理交保金400萬變2千萬",
+      "title": "屏東馬卡道文化祭老埤11/23揭幕 加蚋埔、加匏朗接續登場",
       "summary": [
-        "ETtoday：快訊／致癌油4高層免回看守所　中聯油總經理交保金400萬變2千萬",
         "自由時報：屏東馬卡道文化祭老埤11/23揭幕 加蚋埔、加匏朗接續登場",
-        "工商時報：臺泥躍營運轉機王- 日報"
+        "ETtoday：直搗蘇巧慧本命區！李四川車掃展人氣　民眾秀「奶昔大哥」應援",
+        "TVBS新聞：臺南市長公辦政見會 陳亭妃.謝龍介4人交鋒｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／致癌油4高層免回看守所　中聯油總經理交保金400萬變2千萬",
-          "url": "https://www.ettoday.net/news/20261117/3273716.htm"
-        },
         {
           "source": "自由時報",
           "title": "屏東馬卡道文化祭老埤11/23揭幕 加蚋埔、加匏朗接續登場",
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5643909"
+        },
+        {
+          "source": "ETtoday",
+          "title": "直搗蘇巧慧本命區！李四川車掃展人氣　民眾秀「奶昔大哥」應援",
+          "url": "https://www.ettoday.net/news/20261117/3273880.htm"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "臺南市長公辦政見會 陳亭妃.謝龍介4人交鋒｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zNlBXRG1MTnkzQVdGSzMwcW12Zl9GUzhVZjRWX3cxa1U1Y29qbGFwNnpTNS1HZWRFSGFCLXBIZjMydndXeDJQTm9ZeUFwM0lIVFA3aFVn?oc=5"
         },
         {
           "source": "工商時報",
@@ -57,90 +62,6 @@
     },
     {
       "rank": 3,
-      "title": "黃暐瀚質疑蔣萬安選舉公報　鍾沛君列3重點槓上：舔綠還裝就矯情了",
-      "summary": [
-        "ETtoday：黃暐瀚質疑蔣萬安選舉公報　鍾沛君列3重點槓上：舔綠還裝就矯情了",
-        "中時新聞：黃暐瀚質疑蔣萬安選舉公報鍾沛君反嗆：哥舔綠還要裝- 政治"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "黃暐瀚質疑蔣萬安選舉公報　鍾沛君列3重點槓上：舔綠還裝就矯情了",
-          "url": "https://www.ettoday.net/news/20261117/3273753.htm"
-        },
-        {
-          "source": "中時新聞",
-          "title": "黃暐瀚質疑蔣萬安選舉公報鍾沛君反嗆：哥舔綠還要裝- 政治",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OLXhYV3RlU1hSOUtBMUlvbUJ5TXB0eEM1bzVjNVRKY0x1VDJjeVZINkM4cjlER1VYend6T2ExTk4tRnA2b3hMSlVlbWU1U3lycnFqV24yX3Q5TjNnVVRYcGNvcmhEQ1lLTUQycUln?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "SpaceX 採高通 5G 晶片方案，有望降低數萬座基地臺部署成本",
-      "summary": [
-        "科技新報：SpaceX 採高通 5G 晶片方案，有望降低數萬座基地臺部署成本",
-        "財訊：SpaceX採用高通5G晶片方案！數萬座基地臺建置成本有望大降 供應鏈商機浮現"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "SpaceX 採高通 5G 晶片方案，有望降低數萬座基地臺部署成本",
-          "url": "https://technews.tw/2026/11/17/spacex-qualcomm-5g-chip-tens-thousands-base-station-deployment-cost-reduction/"
-        },
-        {
-          "source": "財訊",
-          "title": "SpaceX採用高通5G晶片方案！數萬座基地臺建置成本有望大降 供應鏈商機浮現",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRcUtDMVJkWEItN1ZJZVZ3cFJJOEpfSHc4NFVVR0FPQ1FmcEhQWXB1b1VZWFRTZHBuVWJRa3VOV01iUzRxcGVReWVMUlFhTWE1THRSdUpnVXpURjl4bDcyd1o5Q2RqMmxzLWRfVUpNdzZ3SkJScjlGUExESQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "黃仁勳去職牽動AI建設佈局　輝達融資平臺恐趨保守",
-      "summary": [
-        "經濟日報：黃仁勳去職牽動AI建設佈局　輝達融資平臺恐趨保守",
-        "科技新報：黃仁勳去職牽動 AI 建設佈局，輝達融資平臺恐趨保守"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳去職牽動AI建設佈局　輝達融資平臺恐趨保守",
-          "url": "https://money.udn.com/money/story/123398/9884321"
-        },
-        {
-          "source": "科技新報",
-          "title": "黃仁勳去職牽動 AI 建設佈局，輝達融資平臺恐趨保守",
-          "url": "https://finance.technews.tw/2026/11/17/nvidia-financing-platform-may-turn-more-cautious/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "特斯拉砸33億美元擴德國廠 年產百萬輛Cybercab",
-      "summary": [
-        "MoneyDJ理財網：特斯拉砸33億美元擴德國廠 年產百萬輛Cybercab",
-        "INSIDE硬塞：Tesla 砸 30 億歐元擴建柏林超級工廠！Cybercab 2029 年投產，年產能上看 100 萬輛"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "特斯拉砸33億美元擴德國廠 年產百萬輛Cybercab",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZFBNZEhEV2xxUkFzRjByYWJwN2x5Zy1TOUlPOHpSRjRjSEZ5Ml9Ha1BudXg2dVFIVXpJUEhTRV9FbTRITGtYd0U4M20zUE1JX1JfWVJFR05naVM4UWhPOHVmS3g2YndkZXZDZjg2aUpUR0FoeXJmRUppT1NJUi1SY1MxNUI4WXpHdUxiUmFXbXgtUQ?oc=5"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "Tesla 砸 30 億歐元擴建柏林超級工廠！Cybercab 2029 年投產，年產能上看 100 萬輛",
-          "url": "https://www.inside.com.tw/article/42940-tesla-cybercab-giga-berlin-3-billion-1-million"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "女星全裸濕身誘惑傑克葛倫霍！《滯留》大談火辣驚悚禁戀",
       "summary": [
         "自由時報：女星全裸濕身誘惑傑克葛倫霍！《滯留》大談火辣驚悚禁戀",
@@ -161,7 +82,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
       "title": "烏山頭水質符合標準　臺南經發局：馬英九時期研議水庫光電",
       "summary": [
         "ETtoday：烏山頭水質符合標準　臺南經發局：馬英九時期研議水庫光電",
@@ -182,7 +103,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "川普承諾力挺東協盟友 笑稱盧比歐不接電話就開除",
       "summary": [
         "經濟日報：川普承諾力挺東協盟友 笑稱盧比歐不接電話就開除",
@@ -203,7 +124,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "民調：川普支援率維持32%　近2屆任期以來低點",
       "summary": [
         "自由時報：民調：川普支援率維持32%　近2屆任期以來低點",
@@ -220,6 +141,78 @@
           "source": "經濟日報",
           "title": "民調：川普支援率維持32%　近2屆任期以來低點",
           "url": "https://money.udn.com/money/story/5599/9885326"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "AI類股跌勢拖累 歐股收低",
+      "summary": [
+        "自由時報：AI類股跌勢拖累 歐股收低",
+        "經濟日報：AI類股跌勢拖累 歐股收低"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "AI類股跌勢拖累 歐股收低",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5644345"
+        },
+        {
+          "source": "經濟日報",
+          "title": "AI類股跌勢拖累 歐股收低",
+          "url": "https://money.udn.com/money/story/5599/9885342"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "美國會：黃仁勳12/1赴眾議院委員會接受約談",
+      "summary": [
+        "自由時報：美國會：黃仁勳12/1赴眾議院委員會接受約談",
+        "經濟日報：美國會：黃仁勳12/1赴眾議院委員會接受約談"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美國會：黃仁勳12/1赴眾議院委員會接受約談",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5644351"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美國會：黃仁勳12/1赴眾議院委員會接受約談",
+          "url": "https://money.udn.com/money/story/5599/9885356"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "盤中速報 - 智聯服務(6751)股價殺至跌停，跌停價102.0元，成交312張",
+      "summary": [
+        "鉅亨網：盤中速報 - 智聯服務(6751)股價殺至跌停，跌停價102.0元，成交312張"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "鉅亨網",
+          "title": "盤中速報 - 智聯服務(6751)股價殺至跌停，跌停價102.0元，成交312張",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XczM4WGdnMzZzSW5HbHY4b283d0R6Nkp0WGM1NktnYTRnYndJRFprQ18tVElGY2diVWx5TFZubjROWjVETU42UWJzcnVKYTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "盈餘：強生*(4747)股價遭警示，自結10月歸屬母公司淨利352萬，EPS 0.04元",
+      "summary": [
+        "公開資訊觀測站重訊：盈餘：強生*(4747)股價遭警示，自結10月歸屬母公司淨利352萬，EPS 0.04元"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "盈餘：強生*(4747)股價遭警示，自結10月歸屬母公司淨利352萬，EPS 0.04元",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNDluYl9Ha1dDanBPSE1scGlMSnZaVnNCR1ZoRUh5TVYyaXVqcWt2dC1DbDNLTjJaSXBSXy0tQ0l3U2pXRkhYSFRkRWduSDdRQjlDWExrVFdjU0dkdDNNSXA3SnpFNjdYc0IwU3BMODFZbkUyYml6N00yeUQ3aU5wTGRvWFhvdnRV?oc=5"
         }
       ]
     }
@@ -377,17 +370,17 @@
     },
     {
       "rank": 6,
-      "title": "德意志銀行因洩密事件為自己辯護，股價下跌 5%",
+      "title": "為什麼德意志銀行股價今天下跌？",
       "summary": [
-        "Investing.com：德意志銀行因洩密事件為自己辯護，股價下跌 5%",
+        "Investing.com：為什麼德意志銀行股價今天下跌？",
         "WSJ Markets：廣泛舉報人洩密後德意志銀行股價下跌"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Investing.com",
-          "title": "德意志銀行因洩密事件為自己辯護，股價下跌 5%",
-          "url": "https://www.investing.com/news/stock-market-news/deutsche-bank-shares-fall-5-as-it-defends-itself-from-media-reports-based-on-leaks-5031884"
+          "title": "為什麼德意志銀行股價今天下跌？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-deutsche-bank-stock-sliding-today-93CH-5032030"
         },
         {
           "source": "WSJ Markets",
