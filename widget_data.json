@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 04:26",
+  "updated_at": "2026-11-18 04:56",
   "taiwan": [
     {
       "rank": 1,
@@ -188,31 +188,43 @@
     },
     {
       "rank": 9,
-      "title": "盤中速報 - 智聯服務(6751)股價殺至跌停，跌停價102.0元，成交312張",
+      "title": "黃仁勳辭職後首發聲感謝各界支援　承諾配合董事會調查",
       "summary": [
-        "鉅亨網：盤中速報 - 智聯服務(6751)股價殺至跌停，跌停價102.0元，成交312張"
+        "自由時報：黃仁勳辭職後首發聲感謝各界支援　承諾配合董事會調查",
+        "經濟日報：黃仁勳辭職後首發聲感謝各界支援　承諾配合董事會調查"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "鉅亨網",
-          "title": "盤中速報 - 智聯服務(6751)股價殺至跌停，跌停價102.0元，成交312張",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XczM4WGdnMzZzSW5HbHY4b283d0R6Nkp0WGM1NktnYTRnYndJRFprQ18tVElGY2diVWx5TFZubjROWjVETU42UWJzcnVKYTQ?oc=5"
+          "source": "自由時報",
+          "title": "黃仁勳辭職後首發聲感謝各界支援　承諾配合董事會調查",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5644353"
+        },
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳辭職後首發聲感謝各界支援　承諾配合董事會調查",
+          "url": "https://money.udn.com/money/story/5599/9885382"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "盈餘：強生*(4747)股價遭警示，自結10月歸屬母公司淨利352萬，EPS 0.04元",
+      "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
       "summary": [
-        "公開資訊觀測站重訊：盈餘：強生*(4747)股價遭警示，自結10月歸屬母公司淨利352萬，EPS 0.04元"
+        "自由時報：美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
+        "經濟日報：美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "公開資訊觀測站重訊",
-          "title": "盈餘：強生*(4747)股價遭警示，自結10月歸屬母公司淨利352萬，EPS 0.04元",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNDluYl9Ha1dDanBPSE1scGlMSnZaVnNCR1ZoRUh5TVYyaXVqcWt2dC1DbDNLTjJaSXBSXy0tQ0l3U2pXRkhYSFRkRWduSDdRQjlDWExrVFdjU0dkdDNNSXA3SnpFNjdYc0IwU3BMODFZbkUyYml6N00yeUQ3aU5wTGRvWFhvdnRV?oc=5"
+          "source": "自由時報",
+          "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5644352"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
+          "url": "https://money.udn.com/money/story/5599/9885381"
         }
       ]
     }
@@ -370,48 +382,6 @@
     },
     {
       "rank": 6,
-      "title": "為什麼德意志銀行股價今天下跌？",
-      "summary": [
-        "Investing.com：為什麼德意志銀行股價今天下跌？",
-        "WSJ Markets：廣泛舉報人洩密後德意志銀行股價下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "為什麼德意志銀行股價今天下跌？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-deutsche-bank-stock-sliding-today-93CH-5032030"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "廣泛舉報人洩密後德意志銀行股價下跌",
-          "url": "https://www.wsj.com/finance/deutsche-bank-shares-drop-after-wide-ranging-whistleblower-leaks-bc550948?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "美國晶片限制引發新一輪人工智慧拋售，歐洲股市下跌",
-      "summary": [
-        "Bloomberg Markets：美國晶片限制引發新一輪人工智慧拋售，歐洲股市下跌",
-        "Investing.com：美國對人工智慧晶片准入實施新限制後，歐洲晶片股下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "美國晶片限制引發新一輪人工智慧拋售，歐洲股市下跌",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/european-stocks-fall-as-us-chip-curbs-ignite-fresh-ai-selloff"
-        },
-        {
-          "source": "Investing.com",
-          "title": "美國對人工智慧晶片准入實施新限制後，歐洲晶片股下跌",
-          "url": "https://www.investing.com/news/stock-market-news/european-chip-stocks-fall-after-new-us-curbs-on-ai-chip-access-5032343"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "日本在俄羅斯涉嫌入侵其領空後派遣噴射機",
       "summary": [
         "BBC World：日本在俄羅斯涉嫌入侵其領空後派遣噴射機",
@@ -432,7 +402,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "烏克蘭在激烈的交火中損壞了通往克里米亞的橋樑",
       "summary": [
         "Financial Times：烏克蘭在激烈的交火中損壞了通往克里米亞的橋樑",
@@ -453,7 +423,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "中美如何就人工智慧風險、機器人和晶片走私發生衝突",
       "summary": [
         "Bloomberg Tech：中美如何就人工智慧風險、機器人和晶片走私發生衝突",
@@ -470,6 +440,48 @@
           "source": "Tom's Hardware",
           "title": "人工智慧安全立法存在利益衝突問題——美國大型實驗室警告風險，就像更便宜的中國開放重量模型侵蝕其商業優勢一樣",
           "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-safety-legislation-has-a-conflict-of-interest-problem-big-us-labs-are-warning-of-risk-just-as-cheaper-chinese-open-weight-models-erode-their-commercial-edge"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "槍手殺害報道毒品交易的哥斯大黎加記者",
+      "summary": [
+        "BBC World：槍手殺害報道毒品交易的哥斯大黎加記者",
+        "The Guardian：哥斯大黎加記者被槍殺，這是 25 年來首次此類殺戮"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "槍手殺害報道毒品交易的哥斯大黎加記者",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "title": "哥斯大黎加記者被槍殺，這是 25 年來首次此類殺戮",
+          "url": "https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "墨西哥 enfrenta trabas para atraer centros de datos de IA",
+      "summary": [
+        "Bloomberg Tech：墨西哥 enfrenta trabas para atraer centros de datos de IA",
+        "Bloomberg Markets：墨西哥 enfrenta trabas para atraer centros de datos de IA"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "墨西哥 enfrenta trabas para atraer centros de datos de IA",
+          "url": "https://www.bloomberg.com/news/features/2026-11-17/mexico-enfrenta-trabas-para-atraer-centros-de-datos-de-ia"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "墨西哥 enfrenta trabas para atraer centros de datos de IA",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/mexico-enfrenta-trabas-para-atraer-centros-de-datos-ia-video"
         }
       ]
     }
