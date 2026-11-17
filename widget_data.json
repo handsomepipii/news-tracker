@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 04:56",
+  "updated_at": "2026-11-18 05:26",
   "taiwan": [
     {
       "rank": 1,
@@ -382,48 +382,6 @@
     },
     {
       "rank": 6,
-      "title": "日本在俄羅斯涉嫌入侵其領空後派遣噴射機",
-      "summary": [
-        "BBC World：日本在俄羅斯涉嫌入侵其領空後派遣噴射機",
-        "德國之聲：俄羅斯軍機侵犯日本領空 飛經韓國臺灣的防空識別區"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "日本在俄羅斯涉嫌入侵其領空後派遣噴射機",
-          "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "德國之聲",
-          "title": "俄羅斯軍機侵犯日本領空 飛經韓國臺灣的防空識別區",
-          "url": "https://www.dw.com/zh/俄罗斯军机侵犯日本领空-飞经韩国台湾的防空识别区/a-79967934?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "烏克蘭在激烈的交火中損壞了通往克里米亞的橋樑",
-      "summary": [
-        "Financial Times：烏克蘭在激烈的交火中損壞了通往克里米亞的橋樑",
-        "CNBC：烏克蘭破壞了普丁珍貴的克里米亞大橋，澤連斯基稱讚“前所未有的行動”"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "烏克蘭在激烈的交火中損壞了通往克里米亞的橋樑",
-          "url": "https://www.ft.com/content/eb8031c0-a96a-4408-b762-b92ff0402f82?syn-25a6b1a6=1"
-        },
-        {
-          "source": "CNBC",
-          "title": "烏克蘭破壞了普丁珍貴的克里米亞大橋，澤連斯基稱讚“前所未有的行動”",
-          "url": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "中美如何就人工智慧風險、機器人和晶片走私發生衝突",
       "summary": [
         "Bloomberg Tech：中美如何就人工智慧風險、機器人和晶片走私發生衝突",
@@ -444,7 +402,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "槍手殺害報道毒品交易的哥斯大黎加記者",
       "summary": [
         "BBC World：槍手殺害報道毒品交易的哥斯大黎加記者",
@@ -465,7 +423,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "墨西哥 enfrenta trabas para atraer centros de datos de IA",
       "summary": [
         "Bloomberg Tech：墨西哥 enfrenta trabas para atraer centros de datos de IA",
@@ -482,6 +440,48 @@
           "source": "Bloomberg Markets",
           "title": "墨西哥 enfrenta trabas para atraer centros de datos de IA",
           "url": "https://www.bloomberg.com/news/videos/2026-11-17/mexico-enfrenta-trabas-para-atraer-centros-de-datos-ia-video"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Uber 和 Zipline 的無人機送貨服務在休士頓試飛",
+      "summary": [
+        "The Verge：Uber 和 Zipline 的無人機送貨服務在休士頓試飛",
+        "TechCrunch：Uber 和 Zipline 的無人機送貨服務在德克薩斯州啟動，隨後將在數十個城市跟進"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "Uber 和 Zipline 的無人機送貨服務在休士頓試飛",
+          "url": "https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Uber 和 Zipline 的無人機送貨服務在德克薩斯州啟動，隨後將在數十個城市跟進",
+          "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "人為 IPO 受益者：風險敞口最大的股票",
+      "summary": [
+        "Investing.com：人為 IPO 受益者：風險敞口最大的股票",
+        "Bloomberg Tech：Anthropic IPO 凸顯人工智慧私募市場財富"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "人為 IPO 受益者：風險敞口最大的股票",
+          "url": "https://www.investing.com/news/stock-market-news/anthropic-ipo-beneficiaries-the-stocks-with-the-most-exposure-93CH-5032938"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic IPO 凸顯人工智慧私募市場財富",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-ipo-highlights-ai-s-private-market-wealth-video"
         }
       ]
     }
