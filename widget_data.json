@@ -1,56 +1,51 @@
 {
-  "updated_at": "2026-11-18 01:57",
+  "updated_at": "2026-11-18 02:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "匹克球》APEL臺北站因雨延賽 聯盟公告賽程異動",
+      "title": "黃仁勳辭職4日後個人社群打破沉默，表示若董事會認可仍有意願回鍋擔任NVIDIA執行長",
       "summary": [
-        "自由時報：匹克球》APEL臺北站因雨延賽 聯盟公告賽程異動",
-        "工商時報：熙特爾結盟美韓大廠拓AI能源版圖- 日報",
-        "ETtoday：快訊／致癌油4高層免回看守所　中聯油總經理交保金400萬變2千萬"
+        "癮科技Cool3c：黃仁勳辭職4日後個人社群打破沉默，表示若董事會認可仍有意願回鍋擔任NVIDIA執行長",
+        "自由時報：黃仁勳辭職後首發聲：若輝達董事會要求　願意回鍋任執行長",
+        "經濟日報：黃仁勳辭職後首發聲：若輝達董事會要求　願意回鍋任執行長"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
         {
+          "source": "癮科技Cool3c",
+          "title": "黃仁勳辭職4日後個人社群打破沉默，表示若董事會認可仍有意願回鍋擔任NVIDIA執行長",
+          "url": "https://www.cool3c.com/article/254179"
+        },
+        {
           "source": "自由時報",
-          "title": "匹克球》APEL臺北站因雨延賽 聯盟公告賽程異動",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5643670"
+          "title": "黃仁勳辭職後首發聲：若輝達董事會要求　願意回鍋任執行長",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5644344"
         },
         {
-          "source": "工商時報",
-          "title": "熙特爾結盟美韓大廠拓AI能源版圖- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvamJEMnlwM1J2eWgyaEU5X3dncEV1MzBDTzRfMTZEUzdFWmJYX1RfSWctWm1PODVsNi1kZVJNcExPcmJMM2doU1RHTUJ3R3BxSWFjSXBTcUVNUXQzNEg0?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／致癌油4高層免回看守所　中聯油總經理交保金400萬變2千萬",
-          "url": "https://www.ettoday.net/news/20261117/3273716.htm"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "臺南市長公辦政見會 陳亭妃.謝龍介4人交鋒｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zNlBXRG1MTnkzQVdGSzMwcW12Zl9GUzhVZjRWX3cxa1U1Y29qbGFwNnpTNS1HZWRFSGFCLXBIZjMydndXeDJQTm9ZeUFwM0lIVFA3aFVn?oc=5"
+          "source": "經濟日報",
+          "title": "黃仁勳辭職後首發聲：若輝達董事會要求　願意回鍋任執行長",
+          "url": "https://money.udn.com/money/story/5599/9885341"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "SpaceX 星艦完成創舉、股價仍軟  星鏈面臨調查",
+      "title": "葉君璋盛讚軟銀亞洲最強！味全龍創秋訓歷史首例　揭臺日養成差異",
       "summary": [
-        "科技新報：SpaceX 星艦完成創舉、股價仍軟  星鏈面臨調查",
-        "MoneyDJ理財網：SpaceX星艦完成創舉、股價仍軟星鏈面臨調查- 新聞"
+        "ETtoday：葉君璋盛讚軟銀亞洲最強！味全龍創秋訓歷史首例　揭臺日養成差異",
+        "自由時報：樹林本命區車掃！蘇巧慧：最後衝刺努力迎接新北新時代"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "科技新報",
-          "title": "SpaceX 星艦完成創舉、股價仍軟  星鏈面臨調查",
-          "url": "https://finance.technews.tw/2026/11/17/spacex-starship-completes-milestone-stock-remains-soft-starlink-faces-investigation/"
+          "source": "ETtoday",
+          "title": "葉君璋盛讚軟銀亞洲最強！味全龍創秋訓歷史首例　揭臺日養成差異",
+          "url": "https://sports.ettoday.net/news/3273706"
         },
         {
-          "source": "MoneyDJ理財網",
-          "title": "SpaceX星艦完成創舉、股價仍軟星鏈面臨調查- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0wwMjdVdzlGUWVqS1phZkc0UVIyNVVMTXJXT2ljOFlTNUd5VjBYMHZCQ1dZWlpaTUxTcnBoTkZ1b0I1MGxybFZmSnQxdF8xbnBiNXFzWEFYSVpqUXRhQ3JudTNidDZPQXBOSzhsWm41R1JJVWRuZ2dFSkdmc2oxSDJvYmFscHBLbUEtR1l2emQ4QQ?oc=5"
+          "source": "自由時報",
+          "title": "樹林本命區車掃！蘇巧慧：最後衝刺努力迎接新北新時代",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5644198"
         }
       ]
     },
@@ -371,27 +366,6 @@
     },
     {
       "rank": 6,
-      "title": "德意志銀行 1500 萬份檔案外洩揭露系統性故障",
-      "summary": [
-        "Financial Times：德意志銀行 1500 萬份檔案外洩揭露系統性故障",
-        "MarketWatch：以下是 1500 萬份檔案外洩的報告後，德意志銀行的市值縮水了多少"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "德意志銀行 1500 萬份檔案外洩揭露系統性故障",
-          "url": "https://www.ft.com/content/f263fbf0-e0cc-48dd-b6be-d28b9ce45dd7?syn-25a6b1a6=1"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "以下是 1500 萬份檔案外洩的報告後，德意志銀行的市值縮水了多少",
-          "url": "https://www.marketwatch.com/story/heres-how-much-of-deutsche-banks-market-cap-has-been-wiped-away-after-reports-on-15-million-leaked-documents-fe3db078?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Avio 獲得芬蘭 Iceye 20 億歐元收購要約",
       "summary": [
         "Bloomberg Tech：Avio 獲得芬蘭 Iceye 20 億歐元收購要約",
@@ -412,7 +386,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
       "summary": [
         "CNBC：訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
@@ -433,7 +407,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "英國最新就業報告好壞參半，薪資成長放緩、就業人數削減",
       "summary": [
         "Bloomberg Markets：英國最新就業報告好壞參半，薪資成長放緩、就業人數削減",
@@ -454,7 +428,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美國針對中國遠端晶片存取實施新限制",
       "summary": [
         "Bloomberg Markets：美國針對中國遠端晶片存取實施新限制",
@@ -471,6 +445,27 @@
           "source": "Bloomberg Tech",
           "title": "美國採取措施限制中國遠端存取英偉達晶片",
           "url": "https://www.bloomberg.com/news/videos/2026-11-17/us-moves-to-curb-china-s-remote-access-to-nvidia-s-chips-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "德意志銀行因洩密事件為自己辯護，股價下跌 5%",
+      "summary": [
+        "Investing.com：德意志銀行因洩密事件為自己辯護，股價下跌 5%",
+        "WSJ Markets：廣泛舉報人洩密後德意志銀行股價下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "德意志銀行因洩密事件為自己辯護，股價下跌 5%",
+          "url": "https://www.investing.com/news/stock-market-news/deutsche-bank-shares-fall-5-as-it-defends-itself-from-media-reports-based-on-leaks-5031884"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "廣泛舉報人洩密後德意志銀行股價下跌",
+          "url": "https://www.wsj.com/finance/deutsche-bank-shares-drop-after-wide-ranging-whistleblower-leaks-bc550948?mod=rss_markets_main"
         }
       ]
     }
