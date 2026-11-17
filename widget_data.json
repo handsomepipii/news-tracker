@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-17 21:56",
+  "updated_at": "2026-11-17 22:27",
   "taiwan": [
     {
       "rank": 1,
-      "title": "臺酒副總廖志堅辭世 新竹市多項文化活動重要創始推手",
+      "title": "賴清德竟曾挺李四川選新北市長　呂家愷：證明李做事獲跨黨派肯定",
       "summary": [
-        "自由時報：臺酒副總廖志堅辭世 新竹市多項文化活動重要創始推手",
+        "ETtoday：賴清德竟曾挺李四川選新北市長　呂家愷：證明李做事獲跨黨派肯定",
         "風傳媒：新北環狀線板橋站捷運開發案正式動工！侯友宜：打造新北金融與數位科技發展新核心| 鄧亦涵 | 新聞",
-        "工商時報：熙特爾結盟美韓大廠拓AI能源版圖- 日報"
+        "自由時報：屏東市長周佳琪拚連任 領軍國民黨選將路口連線造勢"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
         {
-          "source": "自由時報",
-          "title": "臺酒副總廖志堅辭世 新竹市多項文化活動重要創始推手",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5643234"
+          "source": "ETtoday",
+          "title": "賴清德竟曾挺李四川選新北市長　呂家愷：證明李做事獲跨黨派肯定",
+          "url": "https://www.ettoday.net/news/20261117/3273507.htm"
         },
         {
           "source": "風傳媒",
@@ -22,14 +22,9 @@
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wcUlRR3hBQmJKVEJ2YWFHS01zS08wUXd0QTUybkIxV1BlTXE1dmpLRE83aVdyc09fQS1FLWc2WEMwbFJUbWJLSVp6eDdOZw?oc=5"
         },
         {
-          "source": "工商時報",
-          "title": "熙特爾結盟美韓大廠拓AI能源版圖- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvamJEMnlwM1J2eWgyaEU5X3dncEV1MzBDTzRfMTZEUzdFWmJYX1RfSWctWm1PODVsNi1kZVJNcExPcmJMM2doU1RHTUJ3R3BxSWFjSXBTcUVNUXQzNEg0?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "葉君璋盛讚軟銀亞洲最強！味全龍創秋訓歷史首例　揭臺日養成差異",
-          "url": "https://sports.ettoday.net/news/3273706"
+          "source": "自由時報",
+          "title": "屏東市長周佳琪拚連任 領軍國民黨選將路口連線造勢",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5643371"
         }
       ]
     },
@@ -62,27 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "俄軍機闖入防空識別區　韓國緊急派戰機升空應對",
-      "summary": [
-        "經濟日報：俄軍機闖入防空識別區　韓國緊急派戰機升空應對",
-        "自由時報：俄羅斯多架軍機闖南韓防空識別區 南韓空軍緊急派戰機升空應對"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "俄軍機闖入防空識別區　韓國緊急派戰機升空應對",
-          "url": "https://money.udn.com/money/story/5599/9883203"
-        },
-        {
-          "source": "自由時報",
-          "title": "俄羅斯多架軍機闖南韓防空識別區 南韓空軍緊急派戰機升空應對",
-          "url": "https://news.ltn.com.tw/news/def/breakingnews/5643309"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "傳伊朗擬用「髒彈」攻擊華府！川普政府高官成目標、緊急研擬應變",
       "summary": [
         "自由時報：傳伊朗擬用「髒彈」攻擊華府！川普政府高官成目標、緊急研擬應變",
@@ -99,6 +73,27 @@
           "source": "經濟日報",
           "title": "美情報：伊朗擬以髒彈攻擊華府　鎖定川普政府高官為目標",
           "url": "https://money.udn.com/money/story/5599/9883683"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "俄羅斯多架軍機闖南韓防空識別區 南韓空軍緊急派戰機升空應對",
+      "summary": [
+        "自由時報：俄羅斯多架軍機闖南韓防空識別區 南韓空軍緊急派戰機升空應對",
+        "經濟日報：日本稱2架疑似俄羅斯飛機侵犯領空　已緊急出動戰機升空應對"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "俄羅斯多架軍機闖南韓防空識別區 南韓空軍緊急派戰機升空應對",
+          "url": "https://news.ltn.com.tw/news/def/breakingnews/5643309"
+        },
+        {
+          "source": "經濟日報",
+          "title": "日本稱2架疑似俄羅斯飛機侵犯領空　已緊急出動戰機升空應對",
+          "url": "https://money.udn.com/money/story/5599/9883255"
         }
       ]
     },
@@ -125,106 +120,106 @@
     },
     {
       "rank": 6,
-      "title": "桃園市長候選人公辦政見發表會今登場 黃世傑、張善政先禮後兵",
+      "title": "防範 AI 武器化，中國科技巨頭主動削弱新模型「網攻能力」",
       "summary": [
-        "自由時報：桃園市長候選人公辦政見發表會今登場 黃世傑、張善政先禮後兵",
-        "TVBS新聞：桃園市長政見發表會 張善政對決黃世傑｜LIVE"
+        "科技新報：防範 AI 武器化，中國科技巨頭主動削弱新模型「網攻能力」",
+        "經濟日報：借美 AI 練兵！路透揭中國「蒸餾」手法 恐削弱晶片管制效果"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "桃園市長候選人公辦政見發表會今登場 黃世傑、張善政先禮後兵",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5643176"
+          "source": "科技新報",
+          "title": "防範 AI 武器化，中國科技巨頭主動削弱新模型「網攻能力」",
+          "url": "https://infosecu.technews.tw/2026/11/17/chinese-ai-companies-voluntarily-limit-cyberattack-capabilities/"
         },
         {
-          "source": "TVBS新聞",
-          "title": "桃園市長政見發表會 張善政對決黃世傑｜LIVE",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jS1g0RG9kRGxCYnVyN3p5aThXNlFRbDdyUjNaYnRzekQzYjh0alo1Ql9faTd2bXJaUWR4NDRXQVB0NTNsdk9CSkoyRExRTU9BcXVjQWVB?oc=5"
+          "source": "經濟日報",
+          "title": "借美 AI 練兵！路透揭中國「蒸餾」手法 恐削弱晶片管制效果",
+          "url": "https://money.udn.com/money/story/5599/9884184"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "川普聲援也難回鍋！黃仁勳復職卡關原因曝光 美媒揭輝達董事會顧慮",
+      "title": "驊陞部分資訊系統遭網路攻擊，核心系統未受影響",
       "summary": [
-        "自由時報：川普聲援也難回鍋！黃仁勳復職卡關原因曝光 美媒揭輝達董事會顧慮",
-        "風傳媒：【新新聞】美國封死「海外算力」漏洞！川普挺黃仁勳回任 白宮鷹派與輝達董事會不買單"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "川普聲援也難回鍋！黃仁勳復職卡關原因曝光 美媒揭輝達董事會顧慮",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5643248"
-        },
-        {
-          "source": "風傳媒",
-          "title": "【新新聞】美國封死「海外算力」漏洞！川普挺黃仁勳回任 白宮鷹派與輝達董事會不買單",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oQXVHcG5oS09vY180bjNGOHQta3hrQ0FZNjZHTmM4MEJlX0NtWV9vZG9fcTd5azE5SUdJQzFuOENvWm1LZjNxQXV2Y04wZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "龍谷大飯店傳11月30日將暫停營業！ 思考定位再出發",
-      "summary": [
-        "自由時報：龍谷大飯店傳11月30日將暫停營業！ 思考定位再出發",
-        "ETtoday：谷關「龍谷大飯店」11月底停業　泡湯、住宿券退費期限出爐"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "龍谷大飯店傳11月30日將暫停營業！ 思考定位再出發",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5643163"
-        },
-        {
-          "source": "ETtoday",
-          "title": "谷關「龍谷大飯店」11月底停業　泡湯、住宿券退費期限出爐",
-          "url": "https://travel.ettoday.net/article/3273411.htm"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "貿易百貨公司永邑委外電商服務商發生資安事件，訂單資料庫遭未授權存取",
-      "summary": [
-        "iThome：貿易百貨公司永邑委外電商服務商發生資安事件，訂單資料庫遭未授權存取",
-        "公開資訊觀測站重訊：貿易百貨公司永邑委外電商服務商發生資安事件，訂單資料庫遭未授權存取"
+        "iThome：驊陞部分資訊系統遭網路攻擊，核心系統未受影響",
+        "公開資訊觀測站重訊：驊陞部分資訊系統遭網路攻擊，核心系統未受影響"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "iThome",
-          "title": "貿易百貨公司永邑委外電商服務商發生資安事件，訂單資料庫遭未授權存取",
-          "url": "https://www.ithome.com.tw/news/180550"
+          "title": "驊陞部分資訊系統遭網路攻擊，核心系統未受影響",
+          "url": "https://www.ithome.com.tw/news/180554"
         },
         {
           "source": "公開資訊觀測站重訊",
-          "title": "貿易百貨公司永邑委外電商服務商發生資安事件，訂單資料庫遭未授權存取",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yakdjSFhONTVUUTFZSjdtaXBLSF9BYjVONy1VTFpoaGdTUDRSYWgyN185SEZnejlBNDJLMXpCSGE4ZjNaMGxpRUJpTFFlZw?oc=5"
+          "title": "驊陞部分資訊系統遭網路攻擊，核心系統未受影響",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14XzFZMjdHUFJLYWhXZjJMbGMxMjJsSmJfaGZ4RWtsZzZFQm1zN1RRam5YVXQ3aXhQVVhEeXFLNmRoVy12YVFvSHhQeUhQdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "翡翠水庫設光電板？　沈伯洋：昨就SAY NO，藍委中文理解不同",
+      "summary": [
+        "ETtoday：翡翠水庫設光電板？　沈伯洋：昨就SAY NO，藍委中文理解不同",
+        "中時新聞：不對翡翠水庫光電say no？沈伯洋酸陳菁徽：中文理解跟我不同"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "翡翠水庫設光電板？　沈伯洋：昨就SAY NO，藍委中文理解不同",
+          "url": "https://www.ettoday.net/news/20261117/3273519.htm"
+        },
+        {
+          "source": "中時新聞",
+          "title": "不對翡翠水庫光電say no？沈伯洋酸陳菁徽：中文理解跟我不同",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52eG1kdkcwRWVDQ04yX3lmeVZxVUFnbTJ5Y3VDVE9RTnNoX1NLZk10b2xvSlU3Tm9oUktfWU1FXy1nZHM1TWItNlZXS2VfT2hTdVpoOFF3MWFWaG5VTWdheDdwc185Zk5GT2FXZUFn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "嚴立婷上公廁遇狀況！「轉7749圈就是找不到」崩潰：這算公德心嗎",
+      "summary": [
+        "ETtoday：嚴立婷上公廁遇狀況！「轉7749圈就是找不到」崩潰：這算公德心嗎",
+        "自由時報：嚴立婷上公廁氣炸  衛生紙轉了「7749圈」找不到頭"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "嚴立婷上公廁遇狀況！「轉7749圈就是找不到」崩潰：這算公德心嗎",
+          "url": "https://star.ettoday.net/news/3273512"
+        },
+        {
+          "source": "自由時報",
+          "title": "嚴立婷上公廁氣炸  衛生紙轉了「7749圈」找不到頭",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5644113"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "AI自主攻擊引發資安疑慮　加州檢察長起訴OpenAI",
+      "title": "Google 示警：AI 代理已能「零人工」將修補程式轉為漏洞攻擊",
       "summary": [
-        "經濟日報：AI自主攻擊引發資安疑慮　加州檢察長起訴OpenAI",
-        "科技新報：AI 自主攻擊引發資安疑慮，加州檢察長起訴 OpenAI"
+        "科技新報：Google 示警：AI 代理已能「零人工」將修補程式轉為漏洞攻擊",
+        "科技報橘：Google 首度發現 AI 自動化攻擊：無人介入就能從修補程式反推漏洞、發動攻擊"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "AI自主攻擊引發資安疑慮　加州檢察長起訴OpenAI",
-          "url": "https://money.udn.com/money/story/5599/9883218"
+          "source": "科技新報",
+          "title": "Google 示警：AI 代理已能「零人工」將修補程式轉為漏洞攻擊",
+          "url": "https://infosecu.technews.tw/2026/11/17/google-warning-ai-fully-automated-vulnerability-attacks/"
         },
         {
-          "source": "科技新報",
-          "title": "AI 自主攻擊引發資安疑慮，加州檢察長起訴 OpenAI",
-          "url": "https://infosecu.technews.tw/2026/11/17/ai-autonomous-attacks-spark-cybersecurity-concerns-california-attorney-general-sues-openai/"
+          "source": "科技報橘",
+          "title": "Google 首度發現 AI 自動化攻擊：無人介入就能從修補程式反推漏洞、發動攻擊",
+          "url": "https://techorange.com/2026/11/17/threat-intelligence-agentic-threat-activity-crosses-significant/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
         }
       ]
     }
@@ -291,6 +286,33 @@
     },
     {
       "rank": 3,
+      "title": "川普在習近平和普丁峰會之前抵達亞洲",
+      "summary": [
+        "Financial Times：川普在習近平和普丁峰會之前抵達亞洲",
+        "Bloomberg Tech：川普在習近平和普丁會談之前開始亞洲之行",
+        "Bloomberg Markets：川普在與習近平和普丁舉行峰會之前抵達亞洲"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "川普在習近平和普丁峰會之前抵達亞洲",
+          "url": "https://www.ft.com/content/6a0efb61-a756-4794-90db-3d591f42f17f?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "川普在習近平和普丁會談之前開始亞洲之行",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/the-pulse-with-francine-lacqua-11-17-2026-video"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "川普在與習近平和普丁舉行峰會之前抵達亞洲",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/trump-arrives-in-asia-ahead-of-summit-with-xi-putin-video"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "家得寶任命理查德·麥克菲爾為新任執行長",
       "summary": [
         "CNBC：家得寶任命理查德·麥克菲爾為新任執行長",
@@ -317,7 +339,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "英偉達董事會成立國家安全與出口管制監督委員會",
       "summary": [
         "Investing.com：英偉達董事會成立國家安全與出口管制監督委員會",
@@ -344,7 +366,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "英偉達公佈業績前，美國收緊人工智慧晶片限制，亞洲股市下跌",
       "summary": [
         "Investing.com：英偉達公佈業績前，美國收緊人工智慧晶片限制，亞洲股市下跌",
@@ -365,7 +387,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "百度李彥宏表示人工智慧需要貨幣化以避免泡沫風險",
       "summary": [
         "Bloomberg Tech：百度李彥宏表示人工智慧需要貨幣化以避免泡沫風險",
@@ -386,7 +408,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "美國商務部和司法部表示，他們將於 2024 年對 Nvidia 合作夥伴 Megaspeed 進行調查",
       "summary": [
         "Investing.com：美國商務部和司法部表示，他們將於 2024 年對 Nvidia 合作夥伴 Megaspeed 進行調查",
@@ -407,7 +429,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "萬斯表示，他將在「明年某個時候」就 2028 年美國總統競選做出決定",
       "summary": [
         "BBC World：萬斯表示，他將在「明年某個時候」就 2028 年美國總統競選做出決定",
@@ -428,7 +450,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "德意志銀行 1500 萬份檔案外洩揭露系統性故障",
       "summary": [
         "Financial Times：德意志銀行 1500 萬份檔案外洩揭露系統性故障",
@@ -445,27 +467,6 @@
           "source": "MarketWatch",
           "title": "以下是 1500 萬份檔案外洩的報告後，德意志銀行的市值縮水了多少",
           "url": "https://www.marketwatch.com/story/heres-how-much-of-deutsche-banks-market-cap-has-been-wiped-away-after-reports-on-15-million-leaked-documents-fe3db078?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Avio 獲得芬蘭 Iceye 20 億歐元收購要約",
-      "summary": [
-        "Bloomberg Tech：Avio 獲得芬蘭 Iceye 20 億歐元收購要約",
-        "Financial Times：衛星集團 Iceye 對義大利火箭製造商 Avio 發起 20 億歐元收購"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Avio 獲得芬蘭 Iceye 20 億歐元收購要約",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/avio-gets-2-billion-takeover-bid-from-finland-s-iceye"
-        },
-        {
-          "source": "Financial Times",
-          "title": "衛星集團 Iceye 對義大利火箭製造商 Avio 發起 20 億歐元收購",
-          "url": "https://www.ft.com/content/9fed851a-d75f-4f7e-8afa-700f3786391d?syn-25a6b1a6=1"
         }
       ]
     }
