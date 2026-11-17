@@ -1,21 +1,16 @@
 {
-  "updated_at": "2026-11-17 12:58",
+  "updated_at": "2026-11-17 13:27",
   "taiwan": [
     {
       "rank": 1,
-      "title": "川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
+      "title": "川普鬆口了！「黃樂可能不是間諜」　不排除川習會向習近平提起",
       "summary": [
-        "自由時報：川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
         "ETtoday：川普鬆口了！「黃樂可能不是間諜」　不排除川習會向習近平提起",
-        "經濟日報：川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件"
+        "經濟日報：川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
+        "自由時報：川普鬆口了：黃樂可能不是間諜"
       ],
       "media_count": 4,
       "links": [
-        {
-          "source": "自由時報",
-          "title": "川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643065"
-        },
         {
           "source": "ETtoday",
           "title": "川普鬆口了！「黃樂可能不是間諜」　不排除川習會向習近平提起",
@@ -25,6 +20,11 @@
           "source": "經濟日報",
           "title": "川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
           "url": "https://money.udn.com/money/story/5599/9882870"
+        },
+        {
+          "source": "自由時報",
+          "title": "川普鬆口了：黃樂可能不是間諜",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5643138"
         },
         {
           "source": "科技新報",
@@ -137,6 +137,27 @@
     },
     {
       "rank": 6,
+      "title": "漢測攜手德商拓展矽光子測試佈局- 新聞",
+      "summary": [
+        "MoneyDJ理財網：漢測攜手德商拓展矽光子測試佈局- 新聞",
+        "工商時報：漢測攜手德商擴大矽光子晶圓佈局- 日報"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "漢測攜手德商拓展矽光子測試佈局- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMVFvQkpUSnhHQnFtZXhrRktWVi1FWUppOTVDWWRhXzNnMkNXbHlfUGtncEhkVm1aV3VMUTZvWVZDUDlfMExBMnFsSkItNDBrbE1fdjRGd2lJSTMxV1JFLXJ6azRZN2tBd2tONzV0R01xZ2NydEdrNnFsR25pQ3VaSlJJbmFMN19PcGxIUnpRTFJBdw?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "漢測攜手德商擴大矽光子晶圓佈局- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TeERFTjhqaUJQUTB4am1GYUVWRE9wRDlWMzdnVGVxN3JhazZXV1hwQ2VIckZaNVpHLU9wZ1NnRXNtUF9sN2ttNWJrejdHeG03TXFfck4zQ2h5WEdzZUNN?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "大轉彎？蔣萬安選舉公報政見未列「松機遷建」 網：自證在騙票！",
       "summary": [
         "自由時報：大轉彎？蔣萬安選舉公報政見未列「松機遷建」 網：自證在騙票！",
@@ -157,7 +178,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "川普亞洲行拋震撼彈！曝赴中期間「可能見金正恩」",
       "summary": [
         "ETtoday：川普亞洲行拋震撼彈！曝赴中期間「可能見金正恩」",
@@ -178,7 +199,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠",
       "summary": [
         "經濟日報：Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠",
@@ -199,7 +220,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
       "summary": [
         "經濟日報：1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
@@ -216,27 +237,6 @@
           "source": "自由時報",
           "title": "10國簽署舊金山宣言 美聯手盟友 強化AI供應鏈抗中",
           "url": "https://ec.ltn.com.tw/article/paper/1778747"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
-      "summary": [
-        "自由時報：市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
-        "經濟日報：市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5643070"
-        },
-        {
-          "source": "經濟日報",
-          "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
-          "url": "https://money.udn.com/money/story/5599/9882880"
         }
       ]
     }
@@ -367,69 +367,6 @@
     },
     {
       "rank": 5,
-      "title": "Apple聘請了擁有26年經驗的資深員工Corey Fugman負責付款、銀行卡和錢包服務",
-      "summary": [
-        "Bloomberg Tech：Apple聘請了擁有26年經驗的資深員工Corey Fugman負責付款、銀行卡和錢包服務",
-        "Investing.com：蘋果資深人士 Corey Fugman 將領導 Apple Pay 和電子錢包部門"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Apple聘請了擁有26年經驗的資深員工Corey Fugman負責付款、銀行卡和錢包服務",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/apple-taps-26-year-veteran-corey-fugman-to-run-pay-card-and-wallet-services"
-        },
-        {
-          "source": "Investing.com",
-          "title": "蘋果資深人士 Corey Fugman 將領導 Apple Pay 和電子錢包部門",
-          "url": "https://www.investing.com/news/stock-market-news/apple-veteran-corey-fugman-to-lead-apple-pay-and-wallet-unit--bloomberg-93CH-5030625"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Instagram 現在允許創作者在捲軸和動態帖子中新增亞馬遜附屬連結",
-      "summary": [
-        "TechCrunch：Instagram 現在允許創作者在捲軸和動態帖子中新增亞馬遜附屬連結",
-        "Wired：Instagram 正在將亞馬遜會員連結直接帶至捲軸和貼文中"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "Instagram 現在允許創作者在捲軸和動態帖子中新增亞馬遜附屬連結",
-          "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/"
-        },
-        {
-          "source": "Wired",
-          "title": "Instagram 正在將亞馬遜會員連結直接帶至捲軸和貼文中",
-          "url": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "NVIDIA Rubin HPC GPU 包含超過 50,000 個 CUDA 核心，全部使用第七代 NVLink 連線以加速模擬和資料處理，預計於 2028 年推出",
-      "summary": [
-        "Wccftech：NVIDIA Rubin HPC GPU 包含超過 50,000 個 CUDA 核心，全部使用第七代 NVLink 連線以加速模擬和資料處理，預計於 2028 年推出",
-        "Tom's Hardware：Nvidia 在 Supercomputing 2026 上宣佈 Rubin HPC GPU 具有“創紀錄的 CUDA 核心數量”"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Wccftech",
-          "title": "NVIDIA Rubin HPC GPU 包含超過 50,000 個 CUDA 核心，全部使用第七代 NVLink 連線以加速模擬和資料處理，預計於 2028 年推出",
-          "url": "https://wccftech.com/nvidia-rubin-hpc-gpu-50000-cuda-cores-2028/"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "Nvidia 在 Supercomputing 2026 上宣佈 Rubin HPC GPU 具有“創紀錄的 CUDA 核心數量”",
-          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "奧特曼表示，黃蜂下臺後，人工智慧產業“會好起來”",
       "summary": [
         "Bloomberg Tech：奧特曼表示，黃蜂下臺後，人工智慧產業“會好起來”",
@@ -450,7 +387,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "加州起訴 OpenAI 擁抱臉部，其他人工智慧模式失控",
       "summary": [
         "CNBC：加州起訴 OpenAI 擁抱臉部，其他人工智慧模式失控",
@@ -471,7 +408,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "雪佛龍接近以約 50 億美元收購黑石支援的美國海灣石油生產商",
       "summary": [
         "Financial Times：雪佛龍接近以約 50 億美元收購黑石支援的美國海灣石油生產商",
@@ -488,6 +425,69 @@
           "source": "Investing.com",
           "title": "根據英國《金融時報》報道，雪佛龍將以 50 億美元收購黑石支援的石油生產商",
           "url": "https://www.investing.com/news/stock-market-news/chevron-to-buy-blackstonebacked-oil-producer-for-5-billion-ft-reports-5030814"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "加州 AG 就流氓代理事件起訴 OpenAI",
+      "summary": [
+        "TechCrunch：加州 AG 就流氓代理事件起訴 OpenAI",
+        "The Verge：加州因流氓人工智慧駭客事件起訴 OpenAI"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "加州 AG 就流氓代理事件起訴 OpenAI",
+          "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+        },
+        {
+          "source": "The Verge",
+          "title": "加州因流氓人工智慧駭客事件起訴 OpenAI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "美國新規定旨在限制中國公司遠端存取人工智慧伺服器和基礎設施",
+      "summary": [
+        "Tom's Hardware：美國新規定旨在限制中國公司遠端存取人工智慧伺服器和基礎設施",
+        "Bloomberg Tech：中國頂級人工智慧公司限制最新模型的網路功能"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "美國新規定旨在限制中國公司遠端存取人工智慧伺服器和基礎設施",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-us-rules-aim-to-restrict-remote-access-to-ai-servers-and-infrastructure-seeks-to-combat-cloud-rental-workarounds-to-gpu-export-controls"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "中國頂級人工智慧公司限制最新模型的網路功能",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "匯豐銀行折價出售 3 億美元問題資料中心貸款",
+      "summary": [
+        "Bloomberg Tech：匯豐銀行折價出售 3 億美元問題資料中心貸款",
+        "Investing.com：匯豐銀行以大幅折扣出售 3 億美元陷入困境的人工智慧資料中心貸款"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "匯豐銀行折價出售 3 億美元問題資料中心貸款",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/hsbc-sold-300-million-troubled-data-center-loan-at-discount"
+        },
+        {
+          "source": "Investing.com",
+          "title": "匯豐銀行以大幅折扣出售 3 億美元陷入困境的人工智慧資料中心貸款",
+          "url": "https://www.investing.com/news/stock-market-news/hsbc-offloads-300-million-troubled-ai-data-center-loan-at-steep-discount--report-5031165"
         }
       ]
     }
