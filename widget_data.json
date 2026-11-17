@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-18 02:56",
+  "updated_at": "2026-11-18 03:28",
   "taiwan": [
     {
       "rank": 1,
+      "title": "快訊／致癌油4高層免回看守所　中聯油總經理交保金400萬變2千萬",
+      "summary": [
+        "ETtoday：快訊／致癌油4高層免回看守所　中聯油總經理交保金400萬變2千萬",
+        "自由時報：屏東馬卡道文化祭老埤11/23揭幕 加蚋埔、加匏朗接續登場",
+        "工商時報：臺泥躍營運轉機王- 日報"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／致癌油4高層免回看守所　中聯油總經理交保金400萬變2千萬",
+          "url": "https://www.ettoday.net/news/20261117/3273716.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "屏東馬卡道文化祭老埤11/23揭幕 加蚋埔、加匏朗接續登場",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5643909"
+        },
+        {
+          "source": "工商時報",
+          "title": "臺泥躍營運轉機王- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0a2pUbXFCWElrOHVrdjB1TmdWTWJjOUlXWmYzRWdPZ1RTY2lydHNvVTRNUVdLYTBFUkVSR0VEdjBXVURfSHJaQWxBRGNPWmduVU9WZ3Q4Y3A4UmVhYlBv?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "黃仁勳辭職4日後個人社群打破沉默，表示若董事會認可仍有意願回鍋擔任NVIDIA執行長",
       "summary": [
         "癮科技Cool3c：黃仁勳辭職4日後個人社群打破沉默，表示若董事會認可仍有意願回鍋擔任NVIDIA執行長",
@@ -29,91 +56,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "快訊／致癌油4高層免回看守所　中聯油總經理交保金400萬變2千萬",
-      "summary": [
-        "ETtoday：快訊／致癌油4高層免回看守所　中聯油總經理交保金400萬變2千萬",
-        "自由時報：屏東馬卡道文化祭老埤11/23揭幕 加蚋埔、加匏朗接續登場"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／致癌油4高層免回看守所　中聯油總經理交保金400萬變2千萬",
-          "url": "https://www.ettoday.net/news/20261117/3273716.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "屏東馬卡道文化祭老埤11/23揭幕 加蚋埔、加匏朗接續登場",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5643909"
-        }
-      ]
-    },
-    {
       "rank": 3,
-      "title": "韓 OLED 面板出貨量超車中國  睽違兩年重返龍頭",
-      "summary": [
-        "科技新報：韓 OLED 面板出貨量超車中國  睽違兩年重返龍頭",
-        "MoneyDJ理財網：韓OLED面板出貨量超車中國睽違兩年重返龍頭- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "韓 OLED 面板出貨量超車中國  睽違兩年重返龍頭",
-          "url": "https://technews.tw/2026/11/17/south-korea-oled-panel-shipments-overtake-china-reclaims-top-spot-2-years/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "韓OLED面板出貨量超車中國睽違兩年重返龍頭- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUY3aUpjOF93RTByTVhoeTZfQjFZQVJIV2VMMm51Wk5RSnhlWXFHc1FuM29SaGtlY3JRQzNVQTkydFgxbU82ZVJaejVMdDU5dkxYbXBkYWVFUE1LYlRzSm85NDRHWUl2VjRjVmlVb0xKQ1h0WUI3YVVBV3ZyTXkxaGJHUm5IRzNGTTdreTBqeExUQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "美國超大規模資料中心耗能與碳排驚人，一年排放量直逼丹麥",
-      "summary": [
-        "科技新報：美國超大規模資料中心耗能與碳排驚人，一年排放量直逼丹麥",
-        "工商時報：全美AI資料中心碳排驚人抵丹麥一年排放量- 國際"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "美國超大規模資料中心耗能與碳排驚人，一年排放量直逼丹麥",
-          "url": "https://technews.tw/2026/11/17/hyperscale-data-centers-energy-consumption-carbon-emissions-newly-estimated-by-researchers/"
-        },
-        {
-          "source": "工商時報",
-          "title": "全美AI資料中心碳排驚人抵丹麥一年排放量- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tNGRSalE4R0hRNUNsbTh3c2YzdUs3VXFaaWwyTWVLRWRTcEFTWWhscld4YXVhbXNxRWRxdkV6X0l1M09VM1JycWFqOFk3R216SmpRSHNLOW95RmgtLU84?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "貪汙指控與彈劾威脅夾擊　蒙古國總統宣佈請辭",
-      "summary": [
-        "經濟日報：貪汙指控與彈劾威脅夾擊　蒙古國總統宣佈請辭",
-        "自由時報：貪汙指控與彈劾威脅夾擊 蒙古國總統今宣佈請辭"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "貪汙指控與彈劾威脅夾擊　蒙古國總統宣佈請辭",
-          "url": "https://money.udn.com/money/story/5599/9884230"
-        },
-        {
-          "source": "自由時報",
-          "title": "貪汙指控與彈劾威脅夾擊 蒙古國總統今宣佈請辭",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643743"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "AI需求續升溫 資誠：AI新創邁向獨角獸  關鍵在商業能力",
       "summary": [
         "自由時報：AI需求續升溫 資誠：AI新創邁向獨角獸  關鍵在商業能力",
@@ -134,7 +77,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "黃暐瀚質疑蔣萬安選舉公報　鍾沛君列3重點槓上：舔綠還裝就矯情了",
       "summary": [
         "ETtoday：黃暐瀚質疑蔣萬安選舉公報　鍾沛君列3重點槓上：舔綠還裝就矯情了",
@@ -155,7 +98,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "SpaceX 採高通 5G 晶片方案，有望降低數萬座基地臺部署成本",
       "summary": [
         "科技新報：SpaceX 採高通 5G 晶片方案，有望降低數萬座基地臺部署成本",
@@ -176,7 +119,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "黃仁勳去職牽動AI建設佈局　輝達融資平臺恐趨保守",
       "summary": [
         "經濟日報：黃仁勳去職牽動AI建設佈局　輝達融資平臺恐趨保守",
@@ -197,7 +140,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "特斯拉砸33億美元擴德國廠 年產百萬輛Cybercab",
       "summary": [
         "MoneyDJ理財網：特斯拉砸33億美元擴德國廠 年產百萬輛Cybercab",
@@ -214,6 +157,69 @@
           "source": "INSIDE硬塞",
           "title": "Tesla 砸 30 億歐元擴建柏林超級工廠！Cybercab 2029 年投產，年產能上看 100 萬輛",
           "url": "https://www.inside.com.tw/article/42940-tesla-cybercab-giga-berlin-3-billion-1-million"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "女星全裸濕身誘惑傑克葛倫霍！《滯留》大談火辣驚悚禁戀",
+      "summary": [
+        "自由時報：女星全裸濕身誘惑傑克葛倫霍！《滯留》大談火辣驚悚禁戀",
+        "ETtoday：女星全裸「濕身誘惑」傑克葛倫霍！下一秒淒厲慘叫　香豔畫面瞬間變調"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "女星全裸濕身誘惑傑克葛倫霍！《滯留》大談火辣驚悚禁戀",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5644009"
+        },
+        {
+          "source": "ETtoday",
+          "title": "女星全裸「濕身誘惑」傑克葛倫霍！下一秒淒厲慘叫　香豔畫面瞬間變調",
+          "url": "https://star.ettoday.net/news/3273898"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "烏山頭水質符合標準　臺南經發局：馬英九時期研議水庫光電",
+      "summary": [
+        "ETtoday：烏山頭水質符合標準　臺南經發局：馬英九時期研議水庫光電",
+        "中時新聞：烏山頭水質符合標準臺南經發局：馬英九時期核准水庫光電- 寶島"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "烏山頭水質符合標準　臺南經發局：馬英九時期研議水庫光電",
+          "url": "https://www.ettoday.net/news/20261117/3273867.htm"
+        },
+        {
+          "source": "中時新聞",
+          "title": "烏山頭水質符合標準臺南經發局：馬英九時期核准水庫光電- 寶島",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hdEpWN2NsQ0tJdVBkM1pNcWxOT2pRS1gyLXVpY2lieG5GSVRGbVFRTmJoUWZwTDEtSkQtdkpRcklqY1IxR3VzWUYyTml4T21YSzdPTW9DeXMxcnp6MG9NVHdrMHVhUGUzQ2luOUR3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "民調：川普支援率維持32%　近2屆任期以來低點",
+      "summary": [
+        "自由時報：民調：川普支援率維持32%　近2屆任期以來低點",
+        "經濟日報：民調：川普支援率維持32%　近2屆任期以來低點"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "民調：川普支援率維持32%　近2屆任期以來低點",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5644341"
+        },
+        {
+          "source": "經濟日報",
+          "title": "民調：川普支援率維持32%　近2屆任期以來低點",
+          "url": "https://money.udn.com/money/story/5599/9885326"
         }
       ]
     }
@@ -253,6 +259,38 @@
     },
     {
       "rank": 2,
+      "title": "家得寶任命理查德·麥克菲爾為新任執行長",
+      "summary": [
+        "CNBC：家得寶任命理查德·麥克菲爾為新任執行長",
+        "Investing.com：家得寶任命財務總監麥克菲爾為執行長",
+        "Bloomberg Markets：德克爾重新擔任董事長，家得寶任命麥克菲爾為執行長"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "家得寶任命理查德·麥克菲爾為新任執行長",
+          "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "家得寶任命財務總監麥克菲爾為執行長",
+          "url": "https://www.investing.com/news/stock-market-news/home-depot-names-finance-chief-mcphail-as-ceo-5032246"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "德克爾重新擔任董事長，家得寶任命麥克菲爾為執行長",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/home-depot-names-mcphail-ceo-as-decker-returns-as-chairman"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "家得寶任命理查德·麥克菲爾為新任執行長，報告第三季度盈利超出預期",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNmxMWFJpNURKTHJJU3hEck1DRE5tVHBmQ1o5LWZhTExFc1JJS3drTkk0QkVPOTgwX3puZHVfc1Y3LWlSemlaeU91QURkSE50RlBkZUhmOUNxQXNaWmFEaTdGUXI5ZFNEMk5HNkgyaFhoVmx6WUZJc29QRnlScGd6QzZId3Fack8yVl92MG9sSlJUc2dfdjQyTTFlVG10WjJQaUw5Z2VxYm5Mc1o4RU1KWXdUWE82TlBmcWVQamJlRHVmMUl5eWxCOE4zQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Nvidia 黃仁勳表示願意重新擔任執行長，等待董事會決定",
       "summary": [
         "Bloomberg Tech：Nvidia 黃仁勳表示願意重新擔任執行長，等待董事會決定",
@@ -280,33 +318,6 @@
           "source": "Tom's Hardware",
           "title": "黃仁勳表示，他將「很榮幸」再次擔任 Nvidia 執行長",
           "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "家得寶任命理查德·麥克菲爾為新任執行長",
-      "summary": [
-        "CNBC：家得寶任命理查德·麥克菲爾為新任執行長",
-        "Investing.com：家得寶任命財務總監麥克菲爾為執行長",
-        "Bloomberg Markets：德克爾重新擔任董事長，家得寶任命麥克菲爾為執行長"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "家得寶任命理查德·麥克菲爾為新任執行長",
-          "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "家得寶任命財務總監麥克菲爾為執行長",
-          "url": "https://www.investing.com/news/stock-market-news/home-depot-names-finance-chief-mcphail-as-ceo-5032246"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "德克爾重新擔任董事長，家得寶任命麥克菲爾為執行長",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/home-depot-names-mcphail-ceo-as-decker-returns-as-chairman"
         }
       ]
     },
@@ -366,48 +377,6 @@
     },
     {
       "rank": 6,
-      "title": "Avio 獲得芬蘭 Iceye 20 億歐元收購要約",
-      "summary": [
-        "Bloomberg Tech：Avio 獲得芬蘭 Iceye 20 億歐元收購要約",
-        "Financial Times：衛星集團 Iceye 對義大利火箭製造商 Avio 發起 20 億歐元收購"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Avio 獲得芬蘭 Iceye 20 億歐元收購要約",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/avio-gets-2-billion-takeover-bid-from-finland-s-iceye"
-        },
-        {
-          "source": "Financial Times",
-          "title": "衛星集團 Iceye 對義大利火箭製造商 Avio 發起 20 億歐元收購",
-          "url": "https://www.ft.com/content/9fed851a-d75f-4f7e-8afa-700f3786391d?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
-      "summary": [
-        "CNBC：訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
-        "Investing.com：根據 CNBC 報道，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
-          "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "根據 CNBC 報道，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-warns-chip-buyers-of-legal-risks-tied-to-china-ai-access-cnbc-reports-5031864"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "英國最新就業報告好壞參半，薪資成長放緩、就業人數削減",
       "summary": [
         "Bloomberg Markets：英國最新就業報告好壞參半，薪資成長放緩、就業人數削減",
@@ -428,7 +397,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "美國針對中國遠端晶片存取實施新限制",
       "summary": [
         "Bloomberg Markets：美國針對中國遠端晶片存取實施新限制",
@@ -449,7 +418,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "德意志銀行因洩密事件為自己辯護，股價下跌 5%",
       "summary": [
         "Investing.com：德意志銀行因洩密事件為自己辯護，股價下跌 5%",
@@ -466,6 +435,48 @@
           "source": "WSJ Markets",
           "title": "廣泛舉報人洩密後德意志銀行股價下跌",
           "url": "https://www.wsj.com/finance/deutsche-bank-shares-drop-after-wide-ranging-whistleblower-leaks-bc550948?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "美國晶片限制引發新一輪人工智慧拋售，歐洲股市下跌",
+      "summary": [
+        "Bloomberg Markets：美國晶片限制引發新一輪人工智慧拋售，歐洲股市下跌",
+        "Investing.com：美國對人工智慧晶片准入實施新限制後，歐洲晶片股下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "美國晶片限制引發新一輪人工智慧拋售，歐洲股市下跌",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/european-stocks-fall-as-us-chip-curbs-ignite-fresh-ai-selloff"
+        },
+        {
+          "source": "Investing.com",
+          "title": "美國對人工智慧晶片准入實施新限制後，歐洲晶片股下跌",
+          "url": "https://www.investing.com/news/stock-market-news/european-chip-stocks-fall-after-new-us-curbs-on-ai-chip-access-5032343"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "日本在俄羅斯涉嫌入侵其領空後派遣噴射機",
+      "summary": [
+        "BBC World：日本在俄羅斯涉嫌入侵其領空後派遣噴射機",
+        "德國之聲：俄羅斯軍機侵犯日本領空 飛經韓國臺灣的防空識別區"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "日本在俄羅斯涉嫌入侵其領空後派遣噴射機",
+          "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "德國之聲",
+          "title": "俄羅斯軍機侵犯日本領空 飛經韓國臺灣的防空識別區",
+          "url": "https://www.dw.com/zh/俄罗斯军机侵犯日本领空-飞经韩国台湾的防空识别区/a-79967934?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     }
