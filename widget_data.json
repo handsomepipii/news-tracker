@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 15:56",
+  "updated_at": "2026-11-17 16:27",
   "taiwan": [
     {
       "rank": 1,
@@ -126,27 +126,6 @@
     },
     {
       "rank": 6,
-      "title": "克宮：普丁與川普擬APEC期間雙邊會談　計畫籌備中",
-      "summary": [
-        "自由時報：克宮：普丁與川普擬APEC期間雙邊會談　計畫籌備中",
-        "經濟日報：克宮：普丁與川普擬APEC期間雙邊會談　計畫籌備中"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "克宮：普丁與川普擬APEC期間雙邊會談　計畫籌備中",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643075"
-        },
-        {
-          "source": "經濟日報",
-          "title": "克宮：普丁與川普擬APEC期間雙邊會談　計畫籌備中",
-          "url": "https://money.udn.com/money/story/5599/9882903"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "藍營重返執政「2032兩岸統一貨幣」？媒體人提3質疑「香港仍在用港幣」， 點名韓國瑜盧秀燕表態",
       "summary": [
         "風傳媒：藍營重返執政「2032兩岸統一貨幣」？媒體人提3質疑「香港仍在用港幣」， 點名韓國瑜盧秀燕表態",
@@ -167,7 +146,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "澤倫斯基：北韓供俄國更多彈道飛彈　盼歐洲盟邦伸援",
       "summary": [
         "自由時報：澤倫斯基：北韓供俄國更多彈道飛彈　盼歐洲盟邦伸援",
@@ -188,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "供應充足跡象壓過中東局勢風險　國際油價下挫",
       "summary": [
         "自由時報：供應充足跡象壓過中東局勢風險　國際油價下挫",
@@ -209,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "行政院鬆一口氣！藍營吹「普發2萬」 選前炒不起來",
       "summary": [
         "自由時報：行政院鬆一口氣！藍營吹「普發2萬」 選前炒不起來",
@@ -228,6 +207,27 @@
           "url": "https://www.ettoday.net/news/20261117/3273428.htm"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "嚇到了！豬哥亮愛女乳房腫瘤激增至4.5公分「緊急開刀切除」現況曝光",
+      "summary": [
+        "自由時報：嚇到了！豬哥亮愛女乳房腫瘤激增至4.5公分「緊急開刀切除」現況曝光",
+        "ETtoday：豬哥亮愛女謝金晶乳房腫瘤切除了！4.5公分腫瘤曝光　揭手術過程"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "嚇到了！豬哥亮愛女乳房腫瘤激增至4.5公分「緊急開刀切除」現況曝光",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5643061"
+        },
+        {
+          "source": "ETtoday",
+          "title": "豬哥亮愛女謝金晶乳房腫瘤切除了！4.5公分腫瘤曝光　揭手術過程",
+          "url": "https://star.ettoday.net/news/3273556"
+        }
+      ]
     }
   ],
   "global": [
@@ -239,7 +239,7 @@
         "Nikkei Asia：在英偉達醜聞後，美國採取措施遏制中國遠端存取人工智慧晶片",
         "Bloomberg Markets：美國採取措施限制中國遠端存取英偉達人工智慧晶片"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
           "source": "Tom's Hardware",
@@ -260,53 +260,16 @@
           "source": "Investing.com",
           "title": "美國收緊規則限制中國獲得海外先進人工智慧晶片",
           "url": "https://www.investing.com/news/stock-market-news/china-chipmakers-rally-as-us-curbs-threaten-ai-developers-access-to-nvidia-5031619"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "美國採取措施限制中國遠端存取英偉達晶片",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/us-moves-to-curb-china-s-remote-access-to-nvidia-s-chips-video"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "雪佛龍接近以約 50 億美元收購黑石支援的美國海灣石油生產商",
-      "summary": [
-        "Financial Times：雪佛龍接近以約 50 億美元收購黑石支援的美國海灣石油生產商",
-        "Investing.com：根據英國《金融時報》報道，雪佛龍將以 50 億美元收購黑石支援的石油生產商"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "雪佛龍接近以約 50 億美元收購黑石支援的美國海灣石油生產商",
-          "url": "https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Investing.com",
-          "title": "根據英國《金融時報》報道，雪佛龍將以 50 億美元收購黑石支援的石油生產商",
-          "url": "https://www.investing.com/news/stock-market-news/chevron-to-buy-blackstonebacked-oil-producer-for-5-billion-ft-reports-5030814"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "加州 AG 就流氓代理事件起訴 OpenAI",
-      "summary": [
-        "TechCrunch：加州 AG 就流氓代理事件起訴 OpenAI",
-        "The Verge：加州因流氓人工智慧駭客事件起訴 OpenAI"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "加州 AG 就流氓代理事件起訴 OpenAI",
-          "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
-        },
-        {
-          "source": "The Verge",
-          "title": "加州因流氓人工智慧駭客事件起訴 OpenAI",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "英特爾股價一日下跌28.6% 股東起訴英特爾及其執行長和財務長",
       "summary": [
         "Ars Technica：英特爾股價一日下跌28.6% 股東起訴英特爾及其執行長和財務長",
@@ -327,7 +290,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "特斯拉將投資30億歐元擴大德國工廠",
       "summary": [
         "Yahoo Finance：特斯拉將投資30億歐元擴大德國工廠",
@@ -348,7 +311,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "匯豐銀行折價出售 3 億美元問題資料中心貸款",
       "summary": [
         "Bloomberg Tech：匯豐銀行折價出售 3 億美元問題資料中心貸款",
@@ -369,7 +332,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "美國聯合航空公司通報系統中斷影響出發航班",
       "summary": [
         "CNBC：美國聯合航空公司通報系統中斷影響出發航班",
@@ -390,7 +353,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "由於美國聯邦航空局 (FAA) 地面停留延誤揮之不去，美國聯合航空 (United Airlines) 遭受系統中斷",
       "summary": [
         "MarketWatch：由於美國聯邦航空局 (FAA) 地面停留延誤揮之不去，美國聯合航空 (United Airlines) 遭受系統中斷",
@@ -411,7 +374,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "由於英偉達的持續影響，股市下跌",
       "summary": [
         "Washington Post：由於英偉達的持續影響，股市下跌",
@@ -432,7 +395,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "百度李彥宏表示人工智慧需要貨幣化以避免泡沫風險",
       "summary": [
         "Bloomberg Tech：百度李彥宏表示人工智慧需要貨幣化以避免泡沫風險",
@@ -449,6 +412,48 @@
           "source": "Investing.com",
           "title": "百度執行長表示人工智慧投資必須帶來利潤以避免泡沫",
           "url": "https://www.investing.com/news/stock-market-news/baidu-ceosays-ai-investment-must-deliver-profits-to-avoid-bubble-5031848"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "美國商務部和司法部表示，他們將於 2024 年對 Nvidia 合作夥伴 Megaspeed 進行調查",
+      "summary": [
+        "Investing.com：美國商務部和司法部表示，他們將於 2024 年對 Nvidia 合作夥伴 Megaspeed 進行調查",
+        "CNBC：美國機構稱他們將於 2024 年啟動對 Nvidia 合作夥伴 Megaspeed 的調查"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "美國商務部和司法部表示，他們將於 2024 年對 Nvidia 合作夥伴 Megaspeed 進行調查",
+          "url": "https://www.investing.com/news/stock-market-news/us-commerce-dept-doj-say-they-investigated-nvidia-partner-megaspeed-in-2024-5031631"
+        },
+        {
+          "source": "CNBC",
+          "title": "美國機構稱他們將於 2024 年啟動對 Nvidia 合作夥伴 Megaspeed 的調查",
+          "url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
+      "summary": [
+        "CNBC：訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
+        "Investing.com：根據 CNBC 報道，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
+          "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "根據 CNBC 報道，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-warns-chip-buyers-of-legal-risks-tied-to-china-ai-access-cnbc-reports-5031864"
         }
       ]
     }
