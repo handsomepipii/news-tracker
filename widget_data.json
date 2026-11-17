@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 00:57",
+  "updated_at": "2026-11-18 01:27",
   "taiwan": [
     {
       "rank": 1,
@@ -35,27 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "捲入輝達風暴！美司法部與商務部發聯合宣告 澄清調查Megaspeed始末",
-      "summary": [
-        "經濟日報：捲入輝達風暴！美司法部與商務部發聯合宣告 澄清調查Megaspeed始末",
-        "科技新報：駁不實資訊！美商務、司法部罕見發聯合宣告，揭 Megaspeed 調查新進展"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "捲入輝達風暴！美司法部與商務部發聯合宣告 澄清調查Megaspeed始末",
-          "url": "https://money.udn.com/money/story/5599/9883818"
-        },
-        {
-          "source": "科技新報",
-          "title": "駁不實資訊！美商務、司法部罕見發聯合宣告，揭 Megaspeed 調查新進展",
-          "url": "https://technews.tw/2026/11/17/joint-statement-from-department-of-commerce-and-department/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "全美航空交通大亂  航空四雄估損失 3.45 億美元",
       "summary": [
         "科技新報：全美航空交通大亂  航空四雄估損失 3.45 億美元",
@@ -76,7 +55,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "SpaceX 星艦完成創舉、股價仍軟  星鏈面臨調查",
       "summary": [
         "科技新報：SpaceX 星艦完成創舉、股價仍軟  星鏈面臨調查",
@@ -97,7 +76,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "紐時：黃仁勳女兒黃敏珊在輝達呼風喚雨　強勢管理風格惹議",
       "summary": [
         "經濟日報：紐時：黃仁勳女兒黃敏珊在輝達呼風喚雨　強勢管理風格惹議",
@@ -118,7 +97,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "美晶片禁令下另闢蹊徑　中企藉美AI模型訓練自家系統",
       "summary": [
         "經濟日報：美晶片禁令下另闢蹊徑　中企藉美AI模型訓練自家系統",
@@ -139,7 +118,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "韓 OLED 面板出貨量超車中國  睽違兩年重返龍頭",
       "summary": [
         "科技新報：韓 OLED 面板出貨量超車中國  睽違兩年重返龍頭",
@@ -160,7 +139,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美國超大規模資料中心耗能與碳排驚人，一年排放量直逼丹麥",
       "summary": [
         "科技新報：美國超大規模資料中心耗能與碳排驚人，一年排放量直逼丹麥",
@@ -181,7 +160,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "貪汙指控與彈劾威脅夾擊　蒙古國總統宣佈請辭",
       "summary": [
         "經濟日報：貪汙指控與彈劾威脅夾擊　蒙古國總統宣佈請辭",
@@ -202,7 +181,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "AI需求續升溫 資誠：AI新創邁向獨角獸  關鍵在商業能力",
       "summary": [
         "自由時報：AI需求續升溫 資誠：AI新創邁向獨角獸  關鍵在商業能力",
@@ -221,11 +200,64 @@
           "url": "https://technews.tw/2026/11/17/sam-altman-speaks-at-silicon-valley-and-the-world-2/"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "黃暐瀚質疑蔣萬安選舉公報　鍾沛君列3重點槓上：舔綠還裝就矯情了",
+      "summary": [
+        "ETtoday：黃暐瀚質疑蔣萬安選舉公報　鍾沛君列3重點槓上：舔綠還裝就矯情了",
+        "中時新聞：黃暐瀚質疑蔣萬安選舉公報鍾沛君反嗆：哥舔綠還要裝- 政治"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "黃暐瀚質疑蔣萬安選舉公報　鍾沛君列3重點槓上：舔綠還裝就矯情了",
+          "url": "https://www.ettoday.net/news/20261117/3273753.htm"
+        },
+        {
+          "source": "中時新聞",
+          "title": "黃暐瀚質疑蔣萬安選舉公報鍾沛君反嗆：哥舔綠還要裝- 政治",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OLXhYV3RlU1hSOUtBMUlvbUJ5TXB0eEM1bzVjNVRKY0x1VDJjeVZINkM4cjlER1VYend6T2ExTk4tRnA2b3hMSlVlbWU1U3lycnFqV24yX3Q5TjNnVVRYcGNvcmhEQ1lLTUQycUln?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "川普在習近平和普丁峰會之前抵達亞洲",
+      "summary": [
+        "Financial Times：川普在習近平和普丁峰會之前抵達亞洲",
+        "Bloomberg Tech：川普在習近平和普丁會談之前開始亞洲之行",
+        "Bloomberg Markets：川普在與習近平和普丁舉行峰會之前抵達亞洲"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "川普在習近平和普丁峰會之前抵達亞洲",
+          "url": "https://www.ft.com/content/6a0efb61-a756-4794-90db-3d591f42f17f?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "川普在習近平和普丁會談之前開始亞洲之行",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/the-pulse-with-francine-lacqua-11-17-2026-video"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "川普在與習近平和普丁舉行峰會之前抵達亞洲",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/trump-arrives-in-asia-ahead-of-summit-with-xi-putin-video"
+        },
+        {
+          "source": "BBC World",
+          "title": "川普在與俄羅斯和中國總統會談之前抵達亞洲",
+          "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Nvidia 黃仁勳表示願意重新擔任執行長，等待董事會決定",
       "summary": [
         "Bloomberg Tech：Nvidia 黃仁勳表示願意重新擔任執行長，等待董事會決定",
@@ -257,61 +289,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "雙邊關係惡化，疑似俄羅斯飛機侵犯日本領空",
-      "summary": [
-        "Nikkei Asia：雙邊關係惡化，疑似俄羅斯飛機侵犯日本領空",
-        "BBC World：日本在俄羅斯涉嫌入侵其領空後派遣噴射機",
-        "德國之聲：俄羅斯軍機侵犯日本領空 飛經韓國臺灣的防空識別區"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "雙邊關係惡化，疑似俄羅斯飛機侵犯日本領空",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmNOelJnM0paUmZZcm9qeVZnb1JCVktHU1AzSVdMdWRHYS1HZHgtZ3RZZUY3SDNydEx0T1lHSFhZbnNKVnNOUkEyZ2hQMHZDYnNkN1hxVGxvWEFTekZtakt3TldvTEo0TGh1ZklUdGkwNGN5cHN1am4wVW9VOXp5UFlybkhhN3VoMnpTZFI4OUZDbzhRQS16VHdyQTFpcmdVdy1kMVpQeUFPb3JJOUkxNzhVOA?oc=5"
-        },
-        {
-          "source": "BBC World",
-          "title": "日本在俄羅斯涉嫌入侵其領空後派遣噴射機",
-          "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "德國之聲",
-          "title": "俄羅斯軍機侵犯日本領空 飛經韓國臺灣的防空識別區",
-          "url": "https://www.dw.com/zh/俄罗斯军机侵犯日本领空-飞经韩国台湾的防空识别区/a-79967934?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
       "rank": 3,
-      "title": "川普在習近平和普丁峰會之前抵達亞洲",
-      "summary": [
-        "Financial Times：川普在習近平和普丁峰會之前抵達亞洲",
-        "Bloomberg Tech：川普在習近平和普丁會談之前開始亞洲之行",
-        "Bloomberg Markets：川普在與習近平和普丁舉行峰會之前抵達亞洲"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "川普在習近平和普丁峰會之前抵達亞洲",
-          "url": "https://www.ft.com/content/6a0efb61-a756-4794-90db-3d591f42f17f?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "川普在習近平和普丁會談之前開始亞洲之行",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/the-pulse-with-francine-lacqua-11-17-2026-video"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "川普在與習近平和普丁舉行峰會之前抵達亞洲",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/trump-arrives-in-asia-ahead-of-summit-with-xi-putin-video"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "家得寶任命理查德·麥克菲爾為新任執行長",
       "summary": [
         "CNBC：家得寶任命理查德·麥克菲爾為新任執行長",
@@ -338,7 +316,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "英偉達董事會成立國家安全與出口管制監督委員會",
       "summary": [
         "Investing.com：英偉達董事會成立國家安全與出口管制監督委員會",
@@ -361,6 +339,33 @@
           "source": "法廣RFI",
           "title": "英偉達董事會宣佈設立國家安全與出口管制監督委員會",
           "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261117-%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83%E5%AE%A3%E5%B8%83%E8%A8%AD%E7%AB%8B%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E8%88%87%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E7%9B%A3%E7%9D%A3%E5%A7%94%E5%93%A1%E6%9C%83"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "據稱，Anthropic 將引導 IPO 價格至區間頂部或以上",
+      "summary": [
+        "Bloomberg Markets：據稱，Anthropic 將引導 IPO 價格至區間頂部或以上",
+        "Bloomberg Tech：據稱，Anthropic 將引導 IPO 價格至區間頂部",
+        "WSJ Markets：Anthropic 計劃在強勁需求後提高 IPO 價格"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "據稱，Anthropic 將引導 IPO 價格至區間頂部或以上",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-or-above"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "據稱，Anthropic 將引導 IPO 價格至區間頂部",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-video"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "Anthropic 計劃在強勁需求後提高 IPO 價格",
+          "url": "https://www.wsj.com/finance/anthropic-plans-to-raise-ipo-price-after-strong-demand-1a6b0af1?mod=rss_markets_main"
         }
       ]
     },
