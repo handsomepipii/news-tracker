@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 08:28",
+  "updated_at": "2026-11-17 08:57",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "華郵：川普持有輝達股票價值大增 最高達6200萬美元",
+      "summary": [
+        "經濟日報：華郵：川普持有輝達股票價值大增 最高達6200萬美元",
+        "自由時報：華郵：川普持有輝達股票價值大增 最高達6200萬美元",
+        "科技新報：華郵：川普持有輝達股票價值大增，最高達 6,200 萬美元"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "華郵：川普持有輝達股票價值大增 最高達6200萬美元",
+          "url": "https://money.udn.com/money/story/5599/9882539"
+        },
+        {
+          "source": "自由時報",
+          "title": "華郵：川普持有輝達股票價值大增 最高達6200萬美元",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5642960"
+        },
+        {
+          "source": "科技新報",
+          "title": "華郵：川普持有輝達股票價值大增，最高達 6,200 萬美元",
+          "url": "https://finance.technews.tw/2026/11/17/trumps-stake-nvidia-grew-much-62-million-before-scandal-broke-out/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "黃仁勳回歸夢碎？CNBC：輝達董事會未考慮回任 股價跌勢擴大",
       "summary": [
         "經濟日報：黃仁勳回歸夢碎？CNBC：輝達董事會未考慮回任 股價跌勢擴大",
@@ -56,7 +83,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "川普啟程赴亞洲拋震撼彈　訪中國時可能會晤金正恩",
       "summary": [
         "經濟日報：川普啟程赴亞洲拋震撼彈　訪中國時可能會晤金正恩",
@@ -79,27 +106,6 @@
           "source": "自由時報",
           "title": "川普拋震撼彈！預告深圳APEC可能與金正恩會晤",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5643068"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "華郵：川普持有輝達股票價值大增 最高達6200萬美元",
-      "summary": [
-        "經濟日報：華郵：川普持有輝達股票價值大增 最高達6200萬美元",
-        "自由時報：華郵：川普持有輝達股票價值大增 最高達6200萬美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "華郵：川普持有輝達股票價值大增 最高達6200萬美元",
-          "url": "https://money.udn.com/money/story/5599/9882539"
-        },
-        {
-          "source": "自由時報",
-          "title": "華郵：川普持有輝達股票價值大增 最高達6200萬美元",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5642960"
         }
       ]
     },
@@ -168,6 +174,27 @@
     },
     {
       "rank": 8,
+      "title": "「晶片戰爭」作者：輝達挑戰華府對中鷹派　調查不會止於黃仁勳",
+      "summary": [
+        "經濟日報：「晶片戰爭」作者：輝達挑戰華府對中鷹派　調查不會止於黃仁勳",
+        "科技新報：《晶片戰爭》作者：輝達挑戰華府對中鷹派，調查不會止於黃仁勳"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "「晶片戰爭」作者：輝達挑戰華府對中鷹派　調查不會止於黃仁勳",
+          "url": "https://money.udn.com/money/story/5599/9882593"
+        },
+        {
+          "source": "科技新報",
+          "title": "《晶片戰爭》作者：輝達挑戰華府對中鷹派，調查不會止於黃仁勳",
+          "url": "https://technews.tw/2026/11/17/chip-war-author-nvidia-challenges-washington-china-hawks-investigation-wont-stop-jensen-huang/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "13家金控10月獲利遇亂流僅這2家月增 前10月合賺近6680億元",
       "summary": [
         "鉅亨網：13家金控10月獲利遇亂流僅這2家月增 前10月合賺近6680億元",
@@ -188,44 +215,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
-      "summary": [
-        "經濟日報：1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
-        "自由時報：10國簽署舊金山宣言 美聯手盟友 強化AI供應鏈抗中"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
-          "url": "https://money.udn.com/money/story/5599/9882719"
-        },
-        {
-          "source": "自由時報",
-          "title": "10國簽署舊金山宣言 美聯手盟友 強化AI供應鏈抗中",
-          "url": "https://ec.ltn.com.tw/article/paper/1778747"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
+      "title": "川普訪亞洲之際　美祭新規限制中國取得先進AI晶片",
       "summary": [
-        "自由時報：市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
-        "經濟日報：市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌"
+        "經濟日報：川普訪亞洲之際　美祭新規限制中國取得先進AI晶片",
+        "自由時報：川普見習近平前出招！美祭AI晶片新禁令 嚴防先進技術流入中國"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5643070"
+          "source": "經濟日報",
+          "title": "川普訪亞洲之際　美祭新規限制中國取得先進AI晶片",
+          "url": "https://money.udn.com/money/story/5599/9882695"
         },
         {
-          "source": "經濟日報",
-          "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
-          "url": "https://money.udn.com/money/story/5599/9882880"
+          "source": "自由時報",
+          "title": "川普見習近平前出招！美祭AI晶片新禁令 嚴防先進技術流入中國",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643128"
         }
       ]
     }
@@ -351,69 +357,6 @@
     },
     {
       "rank": 5,
-      "title": "烏軍對俄再發大規模無人機襲擊，克羅米亞大橋再成目標",
-      "summary": [
-        "法廣RFI：烏軍對俄再發大規模無人機襲擊，克羅米亞大橋再成目標",
-        "BBC World：俄羅斯通報烏克蘭最大的無人機戰爭攻擊，克里米亞地標橋遭到攻擊"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "烏軍對俄再發大規模無人機襲擊，克羅米亞大橋再成目標",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261116-%E7%83%8F%E8%BB%8D%E5%B0%8D%E4%BF%84%E5%86%8D%E7%99%BC%E5%A4%A7%E8%A6%8F%E6%A8%A1%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A5%B2%E6%93%8A%EF%BC%8C%E5%85%8B%E7%BE%85%E7%B1%B3%E4%BA%9E%E5%A4%A7%E6%A9%8B%E5%86%8D%E6%88%90%E7%9B%AE%E6%A8%99"
-        },
-        {
-          "source": "BBC World",
-          "title": "俄羅斯通報烏克蘭最大的無人機戰爭攻擊，克里米亞地標橋遭到攻擊",
-          "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "根據《華盛頓郵報》報道，川普持有的 Nvidia 股份增至 6,200 萬美元",
-      "summary": [
-        "Investing.com：根據《華盛頓郵報》報道，川普持有的 Nvidia 股份增至 6,200 萬美元",
-        "Washington Post：在醜聞爆發之前，川普在 Nvidia 的股份已增至 6,200 萬美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "根據《華盛頓郵報》報道，川普持有的 Nvidia 股份增至 6,200 萬美元",
-          "url": "https://www.investing.com/news/stock-market-news/trumps-nvidia-stake-grew-to-as-much-as-62-million-washington-post-reports-5029378"
-        },
-        {
-          "source": "Washington Post",
-          "title": "在醜聞爆發之前，川普在 Nvidia 的股份已增至 6,200 萬美元",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalJ6aGJjaVBRcGpoZmx6WmJ2RFloSnFJdDJWMmlTOG5qS2ZTTTdVTUZhenF6eXoxNEtHRHhJNHFDb1NKNEhGOGY3UjV2dVI2eHdiZmVnb1BEWVdXRTY1NjRFbm0xdUJnQzY5QlZTWnZuQ2FKQ1VqeExkSWtDR21qQkpNcVhFRll0VnN2eGNjMm5uWTJLSEkzTENCVmRyVG5rWGppSnBDcC1ldlZFanpsOXhQblFkSjZU?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "英特爾股價暴跌29%後被股東起訴誤導投資者",
-      "summary": [
-        "Tom's Hardware：英特爾股價暴跌29%後被股東起訴誤導投資者",
-        "Ars Technica：英特爾股價一日下跌28.6% 股東起訴英特爾及其執行長和財務長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Tom's Hardware",
-          "title": "英特爾股價暴跌29%後被股東起訴誤導投資者",
-          "url": "https://www.tomshardware.com/pc-components/cpus/intel-sued-by-shareholders-for-misleading-investors-after-stock-plunges-29-percent-class-action-claims-the-company-downplayed-the-severity-of-pc-market-headwinds"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "英特爾股價一日下跌28.6% 股東起訴英特爾及其執行長和財務長",
-          "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Google 地圖現在可以為您建立旅行行程",
       "summary": [
         "The Verge：Google 地圖現在可以為您建立旅行行程",
@@ -434,7 +377,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "川普總統：“有可能會見金正恩總書記”",
       "summary": [
         "NHK新聞：川普總統：“有可能會見金正恩總書記”",
@@ -455,7 +398,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "美國收緊人工智慧晶片出口管制，阻止中國企業遠端存取運算",
       "summary": [
         "TechCrunch：美國收緊人工智慧晶片出口管制，阻止中國企業遠端存取運算",
@@ -472,6 +415,69 @@
           "source": "Ars Technica",
           "title": "美國採取行動切斷中國對人工智慧晶片的遠端訪問",
           "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "羅伯派汀森是亞馬遜第一位詹姆士龐德",
+      "summary": [
+        "The Verge：羅伯派汀森是亞馬遜第一位詹姆士龐德",
+        "Bloomberg Markets：羅伯派汀森成為亞馬遜重啟後的新詹姆士龐德"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "羅伯派汀森是亞馬遜第一位詹姆士龐德",
+          "url": "https://www.theverge.com/tech/1034192/robert-pattinson-james-bond"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "羅伯派汀森成為亞馬遜重啟後的新詹姆士龐德",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-16/robert-pattinson-is-new-james-bond-in-amazon-s-reboot-video"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "五個歐盟國家宣佈在盧安達建立移民「返回中心」的計劃",
+      "summary": [
+        "The Guardian：五個歐盟國家宣佈在盧安達建立移民「返回中心」的計劃",
+        "法廣RFI：歐盟五國計畫將歐洲遣返中心選在盧安達"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "五個歐盟國家宣佈在盧安達建立移民「返回中心」的計劃",
+          "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "歐盟五國計畫將歐洲遣返中心選在盧安達",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261116-%E6%AD%90%E7%9B%9F%E4%BA%94%E5%9C%8B%E8%A8%88%E7%95%AB%E5%B0%87%E6%AD%90%E6%B4%B2%E9%81%A3%E8%BF%94%E4%B8%AD%E5%BF%83%E9%81%B8%E5%9C%A8%E7%9B%A7%E6%97%BA%E9%81%94"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普支援黃仁勳重返英偉達執行長",
+      "summary": [
+        "Investing.com：川普支援黃仁勳重返英偉達執行長",
+        "Tom's Hardware：川普呼籲黃仁勳復任英偉達執行長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "川普支援黃仁勳重返英偉達執行長",
+          "url": "https://www.investing.com/news/stock-market-news/trump-says-he-would-not-mind-huang-being-reinstated-as-nvidia-ceo-5030546"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "川普呼籲黃仁勳復任英偉達執行長",
+          "url": "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen"
         }
       ]
     }
