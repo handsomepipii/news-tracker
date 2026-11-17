@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 06:57",
+  "updated_at": "2026-11-18 07:26",
   "taiwan": [
     {
       "rank": 1,
@@ -221,16 +221,22 @@
     },
     {
       "rank": 10,
-      "title": "日月光投控：臺灣福雷電子10/16~11/17向帆宣取得廠務工程，計約4.98億元",
+      "title": "輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
       "summary": [
-        "公開資訊觀測站重訊：日月光投控：臺灣福雷電子10/16~11/17向帆宣取得廠務工程，計約4.98億元"
+        "ETtoday：輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
+        "經濟日報：黃仁勳下臺後輝達首份財報報喜！ 營收翻倍 展望上修 股價盤後漲2%"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "公開資訊觀測站重訊",
-          "title": "日月光投控：臺灣福雷電子10/16~11/17向帆宣取得廠務工程，計約4.98億元",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ1dONXJzRENmdVk0N1o3WU1HellrS2hudnN0LWVyaUZobGJLa2E2allPelZreEdJdFJwYWZtRVh5Ri1laXM5U25wUTFQaG5sWFBaVkRaOVpVVjVNY19OUkNXYzh0MzZVZFM0MlhPMml3Qk5YeE9qZ3FzVm5aMVBEbGI5aXpRdEFNNXFFZUNxUWZ5YUo0SmxBeno2c0U?oc=5"
+          "source": "ETtoday",
+          "title": "輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
+          "url": "https://finance.ettoday.net/news/3273970"
+        },
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳下臺後輝達首份財報報喜！ 營收翻倍 展望上修 股價盤後漲2%",
+          "url": "https://money.udn.com/money/story/123398/9885456"
         }
       ]
     }
@@ -275,33 +281,6 @@
     },
     {
       "rank": 2,
-      "title": "川普在習近平和普丁會談之前開始亞洲之行",
-      "summary": [
-        "Bloomberg Tech：川普在習近平和普丁會談之前開始亞洲之行",
-        "Bloomberg Markets：川普在與習近平和普丁舉行峰會之前抵達亞洲",
-        "BBC World：川普在與俄羅斯和中國總統會談之前抵達亞洲"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "川普在習近平和普丁會談之前開始亞洲之行",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/the-pulse-with-francine-lacqua-11-17-2026-video"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "川普在與習近平和普丁舉行峰會之前抵達亞洲",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/trump-arrives-in-asia-ahead-of-summit-with-xi-putin-video"
-        },
-        {
-          "source": "BBC World",
-          "title": "川普在與俄羅斯和中國總統會談之前抵達亞洲",
-          "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "據稱，Anthropic 將引導 IPO 價格至區間頂部或以上",
       "summary": [
         "Bloomberg Markets：據稱，Anthropic 將引導 IPO 價格至區間頂部或以上",
@@ -328,12 +307,12 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "英偉達表示不打算恢復黃仁勳擔任執行長",
       "summary": [
         "The Verge：英偉達表示不打算恢復黃仁勳擔任執行長",
-        "Wired：英偉達董事會沒有計劃召回黃仁勳",
-        "TechCrunch：英偉達表示不打算重新任命黃仁勳擔任執行長"
+        "TechCrunch：英偉達表示不打算重新任命黃仁勳擔任執行長",
+        "Bloomberg Tech：英偉達董事長稱黃仁勳不會重新擔任執行長"
       ],
       "media_count": 3,
       "links": [
@@ -343,82 +322,19 @@
           "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo"
         },
         {
-          "source": "Wired",
-          "title": "英偉達董事會沒有計劃召回黃仁勳",
-          "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/"
-        },
-        {
           "source": "TechCrunch",
           "title": "英偉達表示不打算重新任命黃仁勳擔任執行長",
           "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "中美如何就人工智慧風險、機器人和晶片走私發生衝突",
-      "summary": [
-        "Bloomberg Tech：中美如何就人工智慧風險、機器人和晶片走私發生衝突",
-        "Tom's Hardware：人工智慧安全立法存在利益衝突問題——美國大型實驗室警告風險，就像更便宜的中國開放重量模型侵蝕其商業優勢一樣"
-      ],
-      "media_count": 2,
-      "links": [
+        },
         {
           "source": "Bloomberg Tech",
-          "title": "中美如何就人工智慧風險、機器人和晶片走私發生衝突",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/how-china-and-us-clash-over-ai-risks-robots-and-chip-smuggling"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "人工智慧安全立法存在利益衝突問題——美國大型實驗室警告風險，就像更便宜的中國開放重量模型侵蝕其商業優勢一樣",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-safety-legislation-has-a-conflict-of-interest-problem-big-us-labs-are-warning-of-risk-just-as-cheaper-chinese-open-weight-models-erode-their-commercial-edge"
+          "title": "英偉達董事長稱黃仁勳不會重新擔任執行長",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-chair-says-huang-isn-t-coming-back-as-ceo-video"
         }
       ]
     },
     {
-      "rank": 6,
-      "title": "家得寶任命財務總監麥克菲爾為執行長",
-      "summary": [
-        "Investing.com：家得寶任命財務總監麥克菲爾為執行長",
-        "Bloomberg Markets：德克爾重新擔任董事長，家得寶任命麥克菲爾為執行長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "家得寶任命財務總監麥克菲爾為執行長",
-          "url": "https://www.investing.com/news/stock-market-news/home-depot-names-finance-chief-mcphail-as-ceo-5032246"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "德克爾重新擔任董事長，家得寶任命麥克菲爾為執行長",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/home-depot-names-mcphail-ceo-as-decker-returns-as-chairman"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "黃仁勳醜聞發生後，英偉達董事會成立國家安全與出口管制監督委員會",
-      "summary": [
-        "Tom's Hardware：黃仁勳醜聞發生後，英偉達董事會成立國家安全與出口管制監督委員會",
-        "法廣RFI：英偉達董事會宣佈設立國家安全與出口管制監督委員會"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Tom's Hardware",
-          "title": "黃仁勳醜聞發生後，英偉達董事會成立國家安全與出口管制監督委員會",
-          "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-board-establishes-national-security-and-export-control-oversight-committee-in-wake-of-jensen-huang-scandal-group-to-work-with-independent-law-national-security-and-trade-compliance-experts"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "英偉達董事會宣佈設立國家安全與出口管制監督委員會",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261117-%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83%E5%AE%A3%E5%B8%83%E8%A8%AD%E7%AB%8B%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E8%88%87%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E7%9B%A3%E7%9D%A3%E5%A7%94%E5%93%A1%E6%9C%83"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "title": "槍手殺害報道毒品交易的哥斯大黎加記者",
       "summary": [
         "BBC World：槍手殺害報道毒品交易的哥斯大黎加記者",
@@ -439,7 +355,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "首次公開發行後，亞馬遜和谷歌將持有 Anthropic 約 28% 的股票",
       "summary": [
         "Bloomberg Markets：首次公開發行後，亞馬遜和谷歌將持有 Anthropic 約 28% 的股票",
@@ -460,7 +376,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "墨西哥 enfrenta trabas para atraer centros de datos de IA",
       "summary": [
         "Bloomberg Tech：墨西哥 enfrenta trabas para atraer centros de datos de IA",
@@ -477,6 +393,90 @@
           "source": "Bloomberg Markets",
           "title": "墨西哥 enfrenta trabas para atraer centros de datos de IA",
           "url": "https://www.bloomberg.com/news/videos/2026-11-17/mexico-enfrenta-trabas-para-atraer-centros-de-datos-ia-video"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Uber 和 Zipline 的無人機送貨服務在休士頓試飛",
+      "summary": [
+        "The Verge：Uber 和 Zipline 的無人機送貨服務在休士頓試飛",
+        "TechCrunch：Uber 和 Zipline 的無人機送貨服務在德克薩斯州啟動，隨後將在數十個城市跟進"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "Uber 和 Zipline 的無人機送貨服務在休士頓試飛",
+          "url": "https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Uber 和 Zipline 的無人機送貨服務在德克薩斯州啟動，隨後將在數十個城市跟進",
+          "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "人為 IPO 受益者：風險敞口最大的股票",
+      "summary": [
+        "Investing.com：人為 IPO 受益者：風險敞口最大的股票",
+        "Bloomberg Tech：Anthropic IPO 凸顯人工智慧私募市場財富"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "人為 IPO 受益者：風險敞口最大的股票",
+          "url": "https://www.investing.com/news/stock-market-news/anthropic-ipo-beneficiaries-the-stocks-with-the-most-exposure-93CH-5032938"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic IPO 凸顯人工智慧私募市場財富",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-ipo-highlights-ai-s-private-market-wealth-video"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普在與習近平和普丁舉行峰會之前抵達亞洲",
+      "summary": [
+        "Bloomberg Markets：川普在與習近平和普丁舉行峰會之前抵達亞洲",
+        "BBC World：川普在與俄羅斯和中國總統會談之前抵達亞洲"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "川普在與習近平和普丁舉行峰會之前抵達亞洲",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/trump-arrives-in-asia-ahead-of-summit-with-xi-putin-video"
+        },
+        {
+          "source": "BBC World",
+          "title": "川普在與俄羅斯和中國總統會談之前抵達亞洲",
+          "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "交易員利用 Anthropic 首次公開發行前合約的定價差距獲利",
+      "summary": [
+        "Bloomberg Markets：交易員利用 Anthropic 首次公開發行前合約的定價差距獲利",
+        "Bloomberg Tech：交易員利用首次公開募股前合約中的定價差距"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "交易員利用 Anthropic 首次公開發行前合約的定價差距獲利",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-frenzy-sparks-an-exotic-trade-in-pre-ipo-markets"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "交易員利用首次公開募股前合約中的定價差距",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/traders-exploiting-pricing-gaps-in-pre-ipo-contracts-video"
         }
       ]
     }
