@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 17:57",
+  "updated_at": "2026-11-17 18:27",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "川普馬斯克力挺也沒用？傳輝達董事會拒黃仁勳回任 美媒揭背後阻力",
+      "summary": [
+        "經濟日報：川普馬斯克力挺也沒用？傳輝達董事會拒黃仁勳回任 美媒揭背後阻力",
+        "自由時報：川普聲援也難回鍋！黃仁勳復職卡關原因曝光 美媒揭輝達董事會顧慮",
+        "風傳媒：【新新聞】美國封死「海外算力」漏洞！川普挺黃仁勳回任 白宮鷹派與輝達董事會不買單"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普馬斯克力挺也沒用？傳輝達董事會拒黃仁勳回任 美媒揭背後阻力",
+          "url": "https://money.udn.com/money/story/5599/9883064"
+        },
+        {
+          "source": "自由時報",
+          "title": "川普聲援也難回鍋！黃仁勳復職卡關原因曝光 美媒揭輝達董事會顧慮",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5643248"
+        },
+        {
+          "source": "風傳媒",
+          "title": "【新新聞】美國封死「海外算力」漏洞！川普挺黃仁勳回任 白宮鷹派與輝達董事會不買單",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oQXVHcG5oS09vY180bjNGOHQta3hrQ0FZNjZHTmM4MEJlX0NtWV9vZG9fcTd5azE5SUdJQzFuOENvWm1LZjNxQXV2Y04wZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "美國多間大型銀行App異常　摩根大通稱軟體漏洞所致",
       "summary": [
         "經濟日報：美國多間大型銀行App異常　摩根大通稱軟體漏洞所致",
@@ -56,7 +83,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "俄軍機闖入防空識別區　韓國緊急派戰機升空應對",
       "summary": [
         "經濟日報：俄軍機闖入防空識別區　韓國緊急派戰機升空應對",
@@ -77,7 +104,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "漢測攜手德商拓展矽光子測試佈局- 新聞",
       "summary": [
         "MoneyDJ理財網：漢測攜手德商拓展矽光子測試佈局- 新聞",
@@ -94,27 +121,6 @@
           "source": "工商時報",
           "title": "漢測攜手德商擴大矽光子晶圓佈局- 日報",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TeERFTjhqaUJQUTB4am1GYUVWRE9wRDlWMzdnVGVxN3JhazZXV1hwQ2VIckZaNVpHLU9wZ1NnRXNtUF9sN2ttNWJrejdHeG03TXFfck4zQ2h5WEdzZUNN?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "供應充足跡象壓過中東局勢風險　國際油價下挫",
-      "summary": [
-        "自由時報：供應充足跡象壓過中東局勢風險　國際油價下挫",
-        "經濟日報：供應充足跡象壓過中東局勢風險　國際油價下挫"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "供應充足跡象壓過中東局勢風險　國際油價下挫",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5643080"
-        },
-        {
-          "source": "經濟日報",
-          "title": "供應充足跡象壓過中東局勢風險　國際油價下挫",
-          "url": "https://money.udn.com/money/story/5599/9882932"
         }
       ]
     },
@@ -259,6 +265,33 @@
     },
     {
       "rank": 2,
+      "title": "美國聯合航空公司解決了系統中斷導致航班起飛的問題",
+      "summary": [
+        "Investing.com：美國聯合航空公司解決了系統中斷導致航班起飛的問題",
+        "MarketWatch：由於美國聯邦航空局 (FAA) 地面停留延誤揮之不去，美國聯合航空 (United Airlines) 遭受系統中斷",
+        "The Verge：聯合航空在大面積地面停靠幾天後系統中斷，導致航班起飛中斷"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "美國聯合航空公司解決了系統中斷導致航班起飛的問題",
+          "url": "https://www.investing.com/news/stock-market-news/united-airlines-troubleshoots-system-outage-disrupting-departing-flights-5031147"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "由於美國聯邦航空局 (FAA) 地面停留延誤揮之不去，美國聯合航空 (United Airlines) 遭受系統中斷",
+          "url": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories"
+        },
+        {
+          "source": "The Verge",
+          "title": "聯合航空在大面積地面停靠幾天後系統中斷，導致航班起飛中斷",
+          "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "英偉達公佈業績前，美國收緊人工智慧晶片限制，亞洲股市下跌",
       "summary": [
         "Investing.com：英偉達公佈業績前，美國收緊人工智慧晶片限制，亞洲股市下跌",
@@ -279,70 +312,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "匯豐銀行折價出售 3 億美元問題資料中心貸款",
-      "summary": [
-        "Bloomberg Tech：匯豐銀行折價出售 3 億美元問題資料中心貸款",
-        "Investing.com：匯豐銀行以大幅折扣出售 3 億美元陷入困境的人工智慧資料中心貸款"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "匯豐銀行折價出售 3 億美元問題資料中心貸款",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/hsbc-sold-300-million-troubled-data-center-loan-at-discount"
-        },
-        {
-          "source": "Investing.com",
-          "title": "匯豐銀行以大幅折扣出售 3 億美元陷入困境的人工智慧資料中心貸款",
-          "url": "https://www.investing.com/news/stock-market-news/hsbc-offloads-300-million-troubled-ai-data-center-loan-at-steep-discount--report-5031165"
-        }
-      ]
-    },
-    {
       "rank": 4,
-      "title": "美國聯合航空公司通報系統中斷影響出發航班",
-      "summary": [
-        "CNBC：美國聯合航空公司通報系統中斷影響出發航班",
-        "Investing.com：美國聯合航空公司解決了系統中斷導致航班起飛的問題"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "美國聯合航空公司通報系統中斷影響出發航班",
-          "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "美國聯合航空公司解決了系統中斷導致航班起飛的問題",
-          "url": "https://www.investing.com/news/stock-market-news/united-airlines-troubleshoots-system-outage-disrupting-departing-flights-5031147"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "由於美國聯邦航空局 (FAA) 地面停留延誤揮之不去，美國聯合航空 (United Airlines) 遭受系統中斷",
-      "summary": [
-        "MarketWatch：由於美國聯邦航空局 (FAA) 地面停留延誤揮之不去，美國聯合航空 (United Airlines) 遭受系統中斷",
-        "The Verge：聯合航空在大面積地面停靠幾天後系統中斷，導致航班起飛中斷"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MarketWatch",
-          "title": "由於美國聯邦航空局 (FAA) 地面停留延誤揮之不去，美國聯合航空 (United Airlines) 遭受系統中斷",
-          "url": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories"
-        },
-        {
-          "source": "The Verge",
-          "title": "聯合航空在大面積地面停靠幾天後系統中斷，導致航班起飛中斷",
-          "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "百度李彥宏表示人工智慧需要貨幣化以避免泡沫風險",
       "summary": [
         "Bloomberg Tech：百度李彥宏表示人工智慧需要貨幣化以避免泡沫風險",
@@ -363,7 +333,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "美國商務部和司法部表示，他們將於 2024 年對 Nvidia 合作夥伴 Megaspeed 進行調查",
       "summary": [
         "Investing.com：美國商務部和司法部表示，他們將於 2024 年對 Nvidia 合作夥伴 Megaspeed 進行調查",
@@ -384,7 +354,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "德意志銀行 1500 萬份檔案外洩揭露系統性故障",
       "summary": [
         "Financial Times：德意志銀行 1500 萬份檔案外洩揭露系統性故障",
@@ -405,7 +375,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Avio 獲得芬蘭 Iceye 20 億歐元收購要約",
       "summary": [
         "Bloomberg Tech：Avio 獲得芬蘭 Iceye 20 億歐元收購要約",
@@ -426,7 +396,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
       "summary": [
         "CNBC：訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
@@ -443,6 +413,48 @@
           "source": "Investing.com",
           "title": "根據 CNBC 報道，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
           "url": "https://www.investing.com/news/stock-market-news/nvidia-warns-chip-buyers-of-legal-risks-tied-to-china-ai-access-cnbc-reports-5031864"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "英國最新就業報告好壞參半，薪資成長放緩、就業人數削減",
+      "summary": [
+        "Bloomberg Markets：英國最新就業報告好壞參半，薪資成長放緩、就業人數削減",
+        "Financial Times：最新資料顯示英國勞動市場好壞參半"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "英國最新就業報告好壞參半，薪資成長放緩、就業人數削減",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/uk-s-latest-jobs-report-is-a-mixed-bag-with-wage-growth-slowing-payrolls-cut"
+        },
+        {
+          "source": "Financial Times",
+          "title": "最新資料顯示英國勞動市場好壞參半",
+          "url": "https://www.ft.com/content/c8d1c636-3b6e-425e-89a5-e46f9471d6b3"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "德意志銀行因洩密事件為自己辯護，股價下跌 5%",
+      "summary": [
+        "Investing.com：德意志銀行因洩密事件為自己辯護，股價下跌 5%",
+        "WSJ Markets：廣泛舉報人洩密後德意志銀行股價下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "德意志銀行因洩密事件為自己辯護，股價下跌 5%",
+          "url": "https://www.investing.com/news/stock-market-news/deutsche-bank-shares-fall-5-as-it-defends-itself-from-media-reports-based-on-leaks-5031884"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "廣泛舉報人洩密後德意志銀行股價下跌",
+          "url": "https://www.wsj.com/finance/deutsche-bank-shares-drop-after-wide-ranging-whistleblower-leaks-bc550948?mod=rss_markets_main"
         }
       ]
     }
