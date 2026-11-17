@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 01:27",
+  "updated_at": "2026-11-18 01:57",
   "taiwan": [
     {
       "rank": 1,
@@ -35,27 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "全美航空交通大亂  航空四雄估損失 3.45 億美元",
-      "summary": [
-        "科技新報：全美航空交通大亂  航空四雄估損失 3.45 億美元",
-        "MoneyDJ理財網：全美航空交通大亂航空四雄估損失3.45億美元- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "全美航空交通大亂  航空四雄估損失 3.45 億美元",
-          "url": "https://finance.technews.tw/2026/11/17/us-big-four-airlines-suffer-345-million-in-losses/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "全美航空交通大亂航空四雄估損失3.45億美元- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb1g5UDY2bkdnSUtJdEtIVGhHVnJMSnZySUQ5VnEzRUVxUko3clVzaGxLdmNGU0djME5uRkZzdkJZRUh5ZUg5by02NnNtcWxDSDN6UUlqc2toZnFyTEdSMU56MlQ0TW9MMW8tZ0RsRGJGT0FrUjhzSEZOSWVvVmVlVDlxZ19uVlBrdTkybVQ2QXFGQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "SpaceX 星艦完成創舉、股價仍軟  星鏈面臨調查",
       "summary": [
         "科技新報：SpaceX 星艦完成創舉、股價仍軟  星鏈面臨調查",
@@ -76,7 +55,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "紐時：黃仁勳女兒黃敏珊在輝達呼風喚雨　強勢管理風格惹議",
       "summary": [
         "經濟日報：紐時：黃仁勳女兒黃敏珊在輝達呼風喚雨　強勢管理風格惹議",
@@ -97,7 +76,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "美晶片禁令下另闢蹊徑　中企藉美AI模型訓練自家系統",
       "summary": [
         "經濟日報：美晶片禁令下另闢蹊徑　中企藉美AI模型訓練自家系統",
@@ -118,7 +97,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "韓 OLED 面板出貨量超車中國  睽違兩年重返龍頭",
       "summary": [
         "科技新報：韓 OLED 面板出貨量超車中國  睽違兩年重返龍頭",
@@ -139,7 +118,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "美國超大規模資料中心耗能與碳排驚人，一年排放量直逼丹麥",
       "summary": [
         "科技新報：美國超大規模資料中心耗能與碳排驚人，一年排放量直逼丹麥",
@@ -160,7 +139,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "貪汙指控與彈劾威脅夾擊　蒙古國總統宣佈請辭",
       "summary": [
         "經濟日報：貪汙指控與彈劾威脅夾擊　蒙古國總統宣佈請辭",
@@ -181,7 +160,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "AI需求續升溫 資誠：AI新創邁向獨角獸  關鍵在商業能力",
       "summary": [
         "自由時報：AI需求續升溫 資誠：AI新創邁向獨角獸  關鍵在商業能力",
@@ -202,7 +181,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "黃暐瀚質疑蔣萬安選舉公報　鍾沛君列3重點槓上：舔綠還裝就矯情了",
       "summary": [
         "ETtoday：黃暐瀚質疑蔣萬安選舉公報　鍾沛君列3重點槓上：舔綠還裝就矯情了",
@@ -219,6 +198,27 @@
           "source": "中時新聞",
           "title": "黃暐瀚質疑蔣萬安選舉公報鍾沛君反嗆：哥舔綠還要裝- 政治",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OLXhYV3RlU1hSOUtBMUlvbUJ5TXB0eEM1bzVjNVRKY0x1VDJjeVZINkM4cjlER1VYend6T2ExTk4tRnA2b3hMSlVlbWU1U3lycnFqV24yX3Q5TjNnVVRYcGNvcmhEQ1lLTUQycUln?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "SpaceX 採高通 5G 晶片方案，有望降低數萬座基地臺部署成本",
+      "summary": [
+        "科技新報：SpaceX 採高通 5G 晶片方案，有望降低數萬座基地臺部署成本",
+        "財訊：SpaceX採用高通5G晶片方案！數萬座基地臺建置成本有望大降 供應鏈商機浮現"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "SpaceX 採高通 5G 晶片方案，有望降低數萬座基地臺部署成本",
+          "url": "https://technews.tw/2026/11/17/spacex-qualcomm-5g-chip-tens-thousands-base-station-deployment-cost-reduction/"
+        },
+        {
+          "source": "財訊",
+          "title": "SpaceX採用高通5G晶片方案！數萬座基地臺建置成本有望大降 供應鏈商機浮現",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRcUtDMVJkWEItN1ZJZVZ3cFJJOEpfSHc4NFVVR0FPQ1FmcEhQWXB1b1VZWFRTZHBuVWJRa3VOV01iUzRxcGVReWVMUlFhTWE1THRSdUpnVXpURjl4bDcyd1o5Q2RqMmxzLWRfVUpNdzZ3SkJScjlGUExESQ?oc=5"
         }
       ]
     }
@@ -371,48 +371,6 @@
     },
     {
       "rank": 6,
-      "title": "萬斯表示，他將在「明年某個時候」就 2028 年美國總統競選做出決定",
-      "summary": [
-        "BBC World：萬斯表示，他將在「明年某個時候」就 2028 年美國總統競選做出決定",
-        "CNBC：JD 萬斯表示，他將在「明年某個時候」就 2028 年總統競選做出決定"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "萬斯表示，他將在「明年某個時候」就 2028 年美國總統競選做出決定",
-          "url": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "CNBC",
-          "title": "JD 萬斯表示，他將在「明年某個時候」就 2028 年總統競選做出決定",
-          "url": "https://www.cnbc.com/2026/11/17/jd-vance-2028-presidential-run-decision.html"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "美國公佈 Megaspeed 探測器細節，稱調查將於 2024 年開始",
-      "summary": [
-        "Investing.com：美國公佈 Megaspeed 探測器細節，稱調查將於 2024 年開始",
-        "CNBC：美國機構稱他們將於 2024 年啟動對 Nvidia 合作夥伴 Megaspeed 的調查"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "美國公佈 Megaspeed 探測器細節，稱調查將於 2024 年開始",
-          "url": "https://www.investing.com/news/stock-market-news/us-releases-details-ofmegaspeed-probe-says-investigation-began-in-2024-5031663"
-        },
-        {
-          "source": "CNBC",
-          "title": "美國機構稱他們將於 2024 年啟動對 Nvidia 合作夥伴 Megaspeed 的調查",
-          "url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "德意志銀行 1500 萬份檔案外洩揭露系統性故障",
       "summary": [
         "Financial Times：德意志銀行 1500 萬份檔案外洩揭露系統性故障",
@@ -433,7 +391,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Avio 獲得芬蘭 Iceye 20 億歐元收購要約",
       "summary": [
         "Bloomberg Tech：Avio 獲得芬蘭 Iceye 20 億歐元收購要約",
@@ -454,7 +412,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
       "summary": [
         "CNBC：訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
@@ -471,6 +429,48 @@
           "source": "Investing.com",
           "title": "根據 CNBC 報道，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
           "url": "https://www.investing.com/news/stock-market-news/nvidia-warns-chip-buyers-of-legal-risks-tied-to-china-ai-access-cnbc-reports-5031864"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "英國最新就業報告好壞參半，薪資成長放緩、就業人數削減",
+      "summary": [
+        "Bloomberg Markets：英國最新就業報告好壞參半，薪資成長放緩、就業人數削減",
+        "Financial Times：最新資料顯示英國勞動市場好壞參半"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "英國最新就業報告好壞參半，薪資成長放緩、就業人數削減",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/uk-s-latest-jobs-report-is-a-mixed-bag-with-wage-growth-slowing-payrolls-cut"
+        },
+        {
+          "source": "Financial Times",
+          "title": "最新資料顯示英國勞動市場好壞參半",
+          "url": "https://www.ft.com/content/c8d1c636-3b6e-425e-89a5-e46f9471d6b3"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國針對中國遠端晶片存取實施新限制",
+      "summary": [
+        "Bloomberg Markets：美國針對中國遠端晶片存取實施新限制",
+        "Bloomberg Tech：美國採取措施限制中國遠端存取英偉達晶片"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "美國針對中國遠端晶片存取實施新限制",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/the-china-show-11-17-2026-video"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "美國採取措施限制中國遠端存取英偉達晶片",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/us-moves-to-curb-china-s-remote-access-to-nvidia-s-chips-video"
         }
       ]
     }
