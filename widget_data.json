@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 18:56",
+  "updated_at": "2026-11-17 19:27",
   "taiwan": [
     {
       "rank": 1,
@@ -84,6 +84,33 @@
     },
     {
       "rank": 4,
+      "title": "特斯拉柏林廠擴建，砸 30 億歐元準備生產 Cybercab",
+      "summary": [
+        "科技新報：特斯拉柏林廠擴建，砸 30 億歐元準備生產 Cybercab",
+        "MoneyDJ理財網：特斯拉砸33億美元擴德國廠 年產百萬輛Cybercab",
+        "INSIDE硬塞：Tesla 砸 30 億歐元擴建柏林超級工廠！Cybercab 2029 年投產，年產能上看 100 萬輛"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "特斯拉柏林廠擴建，砸 30 億歐元準備生產 Cybercab",
+          "url": "https://technews.tw/2026/11/17/tesla-giga-berlin-ready-for-cybercab/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "特斯拉砸33億美元擴德國廠 年產百萬輛Cybercab",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZFBNZEhEV2xxUkFzRjByYWJwN2x5Zy1TOUlPOHpSRjRjSEZ5Ml9Ha1BudXg2dVFIVXpJUEhTRV9FbTRITGtYd0U4M20zUE1JX1JfWVJFR05naVM4UWhPOHVmS3g2YndkZXZDZjg2aUpUR0FoeXJmRUppT1NJUi1SY1MxNUI4WXpHdUxiUmFXbXgtUQ?oc=5"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "Tesla 砸 30 億歐元擴建柏林超級工廠！Cybercab 2029 年投產，年產能上看 100 萬輛",
+          "url": "https://www.inside.com.tw/article/42940-tesla-cybercab-giga-berlin-3-billion-1-million"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "俄軍機闖入防空識別區　韓國緊急派戰機升空應對",
       "summary": [
         "經濟日報：俄軍機闖入防空識別區　韓國緊急派戰機升空應對",
@@ -104,7 +131,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "漢測攜手德商拓展矽光子測試佈局- 新聞",
       "summary": [
         "MoneyDJ理財網：漢測攜手德商拓展矽光子測試佈局- 新聞",
@@ -121,27 +148,6 @@
           "source": "工商時報",
           "title": "漢測攜手德商擴大矽光子晶圓佈局- 日報",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TeERFTjhqaUJQUTB4am1GYUVWRE9wRDlWMzdnVGVxN3JhazZXV1hwQ2VIckZaNVpHLU9wZ1NnRXNtUF9sN2ttNWJrejdHeG03TXFfck4zQ2h5WEdzZUNN?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "嚇到了！豬哥亮愛女乳房腫瘤激增至4.5公分「緊急開刀切除」現況曝光",
-      "summary": [
-        "自由時報：嚇到了！豬哥亮愛女乳房腫瘤激增至4.5公分「緊急開刀切除」現況曝光",
-        "ETtoday：豬哥亮愛女謝金晶乳房腫瘤切除了！4.5公分腫瘤曝光　揭手術過程"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "嚇到了！豬哥亮愛女乳房腫瘤激增至4.5公分「緊急開刀切除」現況曝光",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5643061"
-        },
-        {
-          "source": "ETtoday",
-          "title": "豬哥亮愛女謝金晶乳房腫瘤切除了！4.5公分腫瘤曝光　揭手術過程",
-          "url": "https://star.ettoday.net/news/3273556"
         }
       ]
     },
@@ -265,6 +271,33 @@
     },
     {
       "rank": 2,
+      "title": "俄羅斯飛機暫時侵犯沖之島、福岡週邊領空",
+      "summary": [
+        "NHK新聞：俄羅斯飛機暫時侵犯沖之島、福岡週邊領空",
+        "BBC World：日本在俄羅斯涉嫌入侵其領空後派遣噴射機",
+        "德國之聲：俄羅斯軍機侵犯日本領空 飛經韓國臺灣的防空識別區"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "俄羅斯飛機暫時侵犯沖之島、福岡週邊領空",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261117de76912"
+        },
+        {
+          "source": "BBC World",
+          "title": "日本在俄羅斯涉嫌入侵其領空後派遣噴射機",
+          "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "德國之聲",
+          "title": "俄羅斯軍機侵犯日本領空 飛經韓國臺灣的防空識別區",
+          "url": "https://www.dw.com/zh/俄罗斯军机侵犯日本领空-飞经韩国台湾的防空识别区/a-79967934?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "英偉達公佈業績前，美國收緊人工智慧晶片限制，亞洲股市下跌",
       "summary": [
         "Investing.com：英偉達公佈業績前，美國收緊人工智慧晶片限制，亞洲股市下跌",
@@ -281,27 +314,6 @@
           "source": "Bloomberg Markets",
           "title": "美國晶片限制引發新一輪人工智慧拋售，歐洲股市下跌",
           "url": "https://www.bloomberg.com/news/articles/2026-11-17/european-stocks-fall-as-us-chip-curbs-ignite-fresh-ai-selloff"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "由於美國聯邦航空局 (FAA) 地面停留延誤揮之不去，美國聯合航空 (United Airlines) 遭受系統中斷",
-      "summary": [
-        "MarketWatch：由於美國聯邦航空局 (FAA) 地面停留延誤揮之不去，美國聯合航空 (United Airlines) 遭受系統中斷",
-        "The Verge：聯合航空在大面積地面停靠幾天後系統中斷，導致航班起飛中斷"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MarketWatch",
-          "title": "由於美國聯邦航空局 (FAA) 地面停留延誤揮之不去，美國聯合航空 (United Airlines) 遭受系統中斷",
-          "url": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories"
-        },
-        {
-          "source": "The Verge",
-          "title": "聯合航空在大面積地面停靠幾天後系統中斷，導致航班起飛中斷",
-          "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures"
         }
       ]
     },
