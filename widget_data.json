@@ -1,40 +1,8 @@
 {
-  "updated_at": "2026-11-17 13:27",
+  "updated_at": "2026-11-17 13:57",
   "taiwan": [
     {
       "rank": 1,
-      "title": "川普鬆口了！「黃樂可能不是間諜」　不排除川習會向習近平提起",
-      "summary": [
-        "ETtoday：川普鬆口了！「黃樂可能不是間諜」　不排除川習會向習近平提起",
-        "經濟日報：川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
-        "自由時報：川普鬆口了：黃樂可能不是間諜"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "川普鬆口了！「黃樂可能不是間諜」　不排除川習會向習近平提起",
-          "url": "https://www.ettoday.net/news/20261117/3273301.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
-          "url": "https://money.udn.com/money/story/5599/9882870"
-        },
-        {
-          "source": "自由時報",
-          "title": "川普鬆口了：黃樂可能不是間諜",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5643138"
-        },
-        {
-          "source": "科技新報",
-          "title": "川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
-          "url": "https://technews.tw/2026/11/17/trump-jensen-huang-nvidia-ceo-return-xi-jinping-espionage-talks/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "黃仁勳回歸夢碎？CNBC：輝達董事會未考慮回任 股價跌勢擴大",
       "summary": [
         "經濟日報：黃仁勳回歸夢碎？CNBC：輝達董事會未考慮回任 股價跌勢擴大",
@@ -61,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "美情報曝：伊朗擬在華府引爆髒彈！ 　鎖定川普政府高層",
       "summary": [
         "ETtoday：美情報曝：伊朗擬在華府引爆髒彈！ 　鎖定川普政府高層",
@@ -84,6 +52,33 @@
           "source": "自由時報",
           "title": "傳伊朗擬用「髒彈」攻擊華府！川普政府高官成目標、緊急研擬應變",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5643170"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "聯發科 ASIC業績熱- 日報",
+      "summary": [
+        "工商時報：聯發科 ASIC業績熱- 日報",
+        "自由時報：臺酒副總廖志堅辭世 新竹市多項文化活動重要創始推手",
+        "風傳媒：新北環狀線板橋站捷運開發案正式動工！侯友宜：打造新北金融與數位科技發展新核心| 鄧亦涵 | 新聞"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "工商時報",
+          "title": "聯發科 ASIC業績熱- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aaDFGVUdOZ29RMzRiT3I4aHhHbHdsZVlyWVctbXg0V3lKQUVqS1E3Rng3X1luVGNMTExNWl85cjkzeGwxdVVtNEJ2ZjI2T1VCeDZMaFdCSUNhYmJRTmlZ?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "臺酒副總廖志堅辭世 新竹市多項文化活動重要創始推手",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5643234"
+        },
+        {
+          "source": "風傳媒",
+          "title": "新北環狀線板橋站捷運開發案正式動工！侯友宜：打造新北金融與數位科技發展新核心| 鄧亦涵 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wcUlRR3hBQmJKVEJ2YWFHS01zS08wUXd0QTUybkIxV1BlTXE1dmpLRE83aVdyc09fQS1FLWc2WEMwbFJUbWJLSVp6eDdOZw?oc=5"
         }
       ]
     },
@@ -158,48 +153,6 @@
     },
     {
       "rank": 7,
-      "title": "大轉彎？蔣萬安選舉公報政見未列「松機遷建」 網：自證在騙票！",
-      "summary": [
-        "自由時報：大轉彎？蔣萬安選舉公報政見未列「松機遷建」 網：自證在騙票！",
-        "ETtoday：翡翠水庫設光電板？　蘇巧慧：假議題不該在選舉炒作！非常沒意義"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "大轉彎？蔣萬安選舉公報政見未列「松機遷建」 網：自證在騙票！",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5643019"
-        },
-        {
-          "source": "ETtoday",
-          "title": "翡翠水庫設光電板？　蘇巧慧：假議題不該在選舉炒作！非常沒意義",
-          "url": "https://www.ettoday.net/news/20261117/3273514.htm"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "川普亞洲行拋震撼彈！曝赴中期間「可能見金正恩」",
-      "summary": [
-        "ETtoday：川普亞洲行拋震撼彈！曝赴中期間「可能見金正恩」",
-        "自由時報：川普拋震撼彈！預告深圳APEC可能與金正恩會晤"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "川普亞洲行拋震撼彈！曝赴中期間「可能見金正恩」",
-          "url": "https://www.ettoday.net/news/20261117/3273300.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "川普拋震撼彈！預告深圳APEC可能與金正恩會晤",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643068"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠",
       "summary": [
         "經濟日報：Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠",
@@ -220,7 +173,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
       "summary": [
         "經濟日報：1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
@@ -239,43 +192,53 @@
           "url": "https://ec.ltn.com.tw/article/paper/1778747"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
+      "summary": [
+        "自由時報：市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
+        "經濟日報：市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5643070"
+        },
+        {
+          "source": "經濟日報",
+          "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
+          "url": "https://money.udn.com/money/story/5599/9882880"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭",
+      "summary": [
+        "自由時報：川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭",
+        "經濟日報：川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643072"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭",
+          "url": "https://money.udn.com/money/story/5599/9882886"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "特斯拉將投資 30 億歐元擴建柏林廠 Cyber​​cab",
-      "summary": [
-        "Investing.com：特斯拉將投資 30 億歐元擴建柏林廠 Cyber​​cab",
-        "TechCrunch：特斯拉全力投入 Cyber​​cab 即將進行 30 億歐元的柏林超級工廠擴建",
-        "Yahoo Finance：特斯拉將投資30億歐元擴大德國工廠"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "特斯拉將投資 30 億歐元擴建柏林廠 Cyber​​cab",
-          "url": "https://www.investing.com/news/stock-market-news/tesla-to-invest-3-billion-to-expand-berlin-factory-for-cybercab-93CH-5030628"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "特斯拉全力投入 Cyber​​cab 即將進行 30 億歐元的柏林超級工廠擴建",
-          "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "特斯拉將投資30億歐元擴大德國工廠",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaUFqNEh2SGdmaFlyd0x5RFBGYW53Vk1neGVHbmxMQ3NxSzZfTFhfMmpSTzN6SnV6ZHExVWM0WXYzWUYySjZWZTBSWFM3Yk45SEZ5c0RuZkNYMEN3LWdIYW1xRnFZTHh5S3FZRG1sUWdCc3o5V2xjRTNrS21PWmd6dHVTRGNIM0N6YjBkXw?oc=5"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "特斯拉宣佈將對其德國工廠追加投資30億歐元",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261116-%E7%89%B9%E6%96%AF%E6%8B%89%E5%AE%A3%E5%B8%83%E5%B0%87%E5%B0%8D%E5%85%B6%E5%BE%B7%E5%9C%8B%E5%B7%A5%E5%BB%A0%E8%BF%BD%E5%8A%A0%E6%8A%95%E8%B3%8730%E5%84%84%E6%AD%90%E5%85%83"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "蘋果將允許使用者透過臉部解鎖 iPhone Duo，解決主要缺陷",
       "summary": [
         "Bloomberg Tech：蘋果將允許使用者透過臉部解鎖 iPhone Duo，解決主要缺陷",
@@ -307,7 +270,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "美國採取行動切斷中國對人工智慧晶片的遠端訪問",
       "summary": [
         "Ars Technica：美國採取行動切斷中國對人工智慧晶片的遠端訪問",
@@ -339,34 +302,34 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "訊息人士告訴 CNBC，英偉達董事會不考慮讓黃仁勳重新擔任執行長",
+      "rank": 3,
+      "title": "加州起訴 OpenAI 擁抱臉部，其他人工智慧模式失控",
       "summary": [
-        "CNBC：訊息人士告訴 CNBC，英偉達董事會不考慮讓黃仁勳重新擔任執行長",
-        "Investing.com：根據 CNBC 報道，英偉達董事會沒有討論黃仁勳重新擔任執行長的問題",
-        "The Verge：據報道，英偉達董事會「不考慮」重新聘用黃仁勳"
+        "CNBC：加州起訴 OpenAI 擁抱臉部，其他人工智慧模式失控",
+        "Investing.com：加州因 AI 模式對 Hugging Face 等公司發動網路攻擊並阻止 OpenAI",
+        "BBC World：加州因擁抱臉部攻擊起訴 OpenAI"
       ],
       "media_count": 3,
       "links": [
         {
           "source": "CNBC",
-          "title": "訊息人士告訴 CNBC，英偉達董事會不考慮讓黃仁勳重新擔任執行長",
-          "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html"
+          "title": "加州起訴 OpenAI 擁抱臉部，其他人工智慧模式失控",
+          "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html"
         },
         {
           "source": "Investing.com",
-          "title": "根據 CNBC 報道，英偉達董事會沒有討論黃仁勳重新擔任執行長的問題",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-board-not-discussing-jensen-huangs-return-as-ceo-cnbc-reports-5030688"
+          "title": "加州因 AI 模式對 Hugging Face 等公司發動網路攻擊並阻止 OpenAI",
+          "url": "https://www.investing.com/news/stock-market-news/california-suesopenai-over-ai-models-cyberattacks-on-hugging-face-other-companies-5030712"
         },
         {
-          "source": "The Verge",
-          "title": "據報道，英偉達董事會「不考慮」重新聘用黃仁勳",
-          "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back"
+          "source": "BBC World",
+          "title": "加州因擁抱臉部攻擊起訴 OpenAI",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "奧特曼表示，黃蜂下臺後，人工智慧產業“會好起來”",
       "summary": [
         "Bloomberg Tech：奧特曼表示，黃蜂下臺後，人工智慧產業“會好起來”",
@@ -387,23 +350,44 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "加州起訴 OpenAI 擁抱臉部，其他人工智慧模式失控",
+      "rank": 5,
+      "title": "根據 CNBC 報道，英偉達董事會沒有討論黃仁勳重新擔任執行長的問題",
       "summary": [
-        "CNBC：加州起訴 OpenAI 擁抱臉部，其他人工智慧模式失控",
-        "Investing.com：加州因 AI 模式對 Hugging Face 等公司發動網路攻擊並阻止 OpenAI"
+        "Investing.com：根據 CNBC 報道，英偉達董事會沒有討論黃仁勳重新擔任執行長的問題",
+        "The Verge：據報道，英偉達董事會「不考慮」重新聘用黃仁勳"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "CNBC",
-          "title": "加州起訴 OpenAI 擁抱臉部，其他人工智慧模式失控",
-          "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html"
+          "source": "Investing.com",
+          "title": "根據 CNBC 報道，英偉達董事會沒有討論黃仁勳重新擔任執行長的問題",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-board-not-discussing-jensen-huangs-return-as-ceo-cnbc-reports-5030688"
         },
         {
-          "source": "Investing.com",
-          "title": "加州因 AI 模式對 Hugging Face 等公司發動網路攻擊並阻止 OpenAI",
-          "url": "https://www.investing.com/news/stock-market-news/california-suesopenai-over-ai-models-cyberattacks-on-hugging-face-other-companies-5030712"
+          "source": "The Verge",
+          "title": "據報道，英偉達董事會「不考慮」重新聘用黃仁勳",
+          "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "川普呼籲黃仁勳復任英偉達執行長",
+      "summary": [
+        "Tom's Hardware：川普呼籲黃仁勳復任英偉達執行長",
+        "BBC中文：「讓黃仁勳回歸」運動：輝達駁斥、特朗普支援恢復其CEO職位"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "川普呼籲黃仁勳復任英偉達執行長",
+          "url": "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen"
+        },
+        {
+          "source": "BBC中文",
+          "title": "「讓黃仁勳回歸」運動：輝達駁斥、特朗普支援恢復其CEO職位",
+          "url": "https://www.bbc.com/zhongwen/articles/ck3rgq3l5yr1o/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -451,6 +435,27 @@
     },
     {
       "rank": 9,
+      "title": "特斯拉將投資30億歐元擴大德國工廠",
+      "summary": [
+        "Yahoo Finance：特斯拉將投資30億歐元擴大德國工廠",
+        "法廣RFI：特斯拉宣佈將對其德國工廠追加投資30億歐元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "特斯拉將投資30億歐元擴大德國工廠",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaUFqNEh2SGdmaFlyd0x5RFBGYW53Vk1neGVHbmxMQ3NxSzZfTFhfMmpSTzN6SnV6ZHExVWM0WXYzWUYySjZWZTBSWFM3Yk45SEZ5c0RuZkNYMEN3LWdIYW1xRnFZTHh5S3FZRG1sUWdCc3o5V2xjRTNrS21PWmd6dHVTRGNIM0N6YjBkXw?oc=5"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "特斯拉宣佈將對其德國工廠追加投資30億歐元",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261116-%E7%89%B9%E6%96%AF%E6%8B%89%E5%AE%A3%E5%B8%83%E5%B0%87%E5%B0%8D%E5%85%B6%E5%BE%B7%E5%9C%8B%E5%B7%A5%E5%BB%A0%E8%BF%BD%E5%8A%A0%E6%8A%95%E8%B3%8730%E5%84%84%E6%AD%90%E5%85%83"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "美國新規定旨在限制中國公司遠端存取人工智慧伺服器和基礎設施",
       "summary": [
         "Tom's Hardware：美國新規定旨在限制中國公司遠端存取人工智慧伺服器和基礎設施",
@@ -467,27 +472,6 @@
           "source": "Bloomberg Tech",
           "title": "中國頂級人工智慧公司限制最新模型的網路功能",
           "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "匯豐銀行折價出售 3 億美元問題資料中心貸款",
-      "summary": [
-        "Bloomberg Tech：匯豐銀行折價出售 3 億美元問題資料中心貸款",
-        "Investing.com：匯豐銀行以大幅折扣出售 3 億美元陷入困境的人工智慧資料中心貸款"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "匯豐銀行折價出售 3 億美元問題資料中心貸款",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/hsbc-sold-300-million-troubled-data-center-loan-at-discount"
-        },
-        {
-          "source": "Investing.com",
-          "title": "匯豐銀行以大幅折扣出售 3 億美元陷入困境的人工智慧資料中心貸款",
-          "url": "https://www.investing.com/news/stock-market-news/hsbc-offloads-300-million-troubled-ai-data-center-loan-at-steep-discount--report-5031165"
         }
       ]
     }
