@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 19:27",
+  "updated_at": "2026-11-17 19:56",
   "taiwan": [
     {
       "rank": 1,
@@ -298,6 +298,60 @@
     },
     {
       "rank": 3,
+      "title": "家得寶任命理查德·麥克菲爾為新任執行長",
+      "summary": [
+        "CNBC：家得寶任命理查德·麥克菲爾為新任執行長",
+        "Investing.com：家得寶任命財務總監麥克菲爾為執行長",
+        "Bloomberg Markets：德克爾重新擔任董事長，家得寶任命麥克菲爾為執行長"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "家得寶任命理查德·麥克菲爾為新任執行長",
+          "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "家得寶任命財務總監麥克菲爾為執行長",
+          "url": "https://www.investing.com/news/stock-market-news/home-depot-names-finance-chief-mcphail-as-ceo-5032246"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "德克爾重新擔任董事長，家得寶任命麥克菲爾為執行長",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/home-depot-names-mcphail-ceo-as-decker-returns-as-chairman"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "英偉達董事會成立國家安全與出口管制監督委員會",
+      "summary": [
+        "Investing.com：英偉達董事會成立國家安全與出口管制監督委員會",
+        "Tom's Hardware：黃仁勳醜聞發生後，英偉達董事會成立國家安全與出口管制監督委員會",
+        "法廣RFI：英偉達董事會宣佈設立國家安全與出口管制監督委員會"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "英偉達董事會成立國家安全與出口管制監督委員會",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-board-forms-committee-for-national-security-and-export-control-oversight-5032154"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "黃仁勳醜聞發生後，英偉達董事會成立國家安全與出口管制監督委員會",
+          "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-board-establishes-national-security-and-export-control-oversight-committee-in-wake-of-jensen-huang-scandal-group-to-work-with-independent-law-national-security-and-trade-compliance-experts"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "英偉達董事會宣佈設立國家安全與出口管制監督委員會",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261117-%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83%E5%AE%A3%E5%B8%83%E8%A8%AD%E7%AB%8B%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E8%88%87%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E7%9B%A3%E7%9D%A3%E5%A7%94%E5%93%A1%E6%9C%83"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "英偉達公佈業績前，美國收緊人工智慧晶片限制，亞洲股市下跌",
       "summary": [
         "Investing.com：英偉達公佈業績前，美國收緊人工智慧晶片限制，亞洲股市下跌",
@@ -318,28 +372,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "特朗普：訪華期間或會見金正恩",
-      "summary": [
-        "韓聯社：特朗普：訪華期間或會見金正恩",
-        "BBC World：川普總統會見金正恩嗎？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "特朗普：訪華期間或會見金正恩",
-          "url": "https://cn.yna.co.kr/view/ACK20261117000200881"
-        },
-        {
-          "source": "BBC World",
-          "title": "川普總統會見金正恩嗎？",
-          "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "title": "百度李彥宏表示人工智慧需要貨幣化以避免泡沫風險",
       "summary": [
         "Bloomberg Tech：百度李彥宏表示人工智慧需要貨幣化以避免泡沫風險",
@@ -360,7 +393,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "美國商務部和司法部表示，他們將於 2024 年對 Nvidia 合作夥伴 Megaspeed 進行調查",
       "summary": [
         "Investing.com：美國商務部和司法部表示，他們將於 2024 年對 Nvidia 合作夥伴 Megaspeed 進行調查",
@@ -381,7 +414,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "萬斯表示，他將在「明年某個時候」就 2028 年美國總統競選做出決定",
       "summary": [
         "BBC World：萬斯表示，他將在「明年某個時候」就 2028 年美國總統競選做出決定",
@@ -402,7 +435,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "德意志銀行 1500 萬份檔案外洩揭露系統性故障",
       "summary": [
         "Financial Times：德意志銀行 1500 萬份檔案外洩揭露系統性故障",
@@ -423,7 +456,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Avio 獲得芬蘭 Iceye 20 億歐元收購要約",
       "summary": [
         "Bloomberg Tech：Avio 獲得芬蘭 Iceye 20 億歐元收購要約",
@@ -440,27 +473,6 @@
           "source": "Financial Times",
           "title": "衛星集團 Iceye 對義大利火箭製造商 Avio 發起 20 億歐元收購",
           "url": "https://www.ft.com/content/9fed851a-d75f-4f7e-8afa-700f3786391d?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
-      "summary": [
-        "CNBC：訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
-        "Investing.com：根據 CNBC 報道，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
-          "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "根據 CNBC 報道，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-warns-chip-buyers-of-legal-risks-tied-to-china-ai-access-cnbc-reports-5031864"
         }
       ]
     }
