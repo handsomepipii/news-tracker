@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 11:27",
+  "updated_at": "2026-11-17 11:57",
   "taiwan": [
     {
       "rank": 1,
@@ -62,28 +62,28 @@
     },
     {
       "rank": 3,
-      "title": "川普啟程赴亞洲拋震撼彈　訪中國時可能會晤金正恩",
+      "title": "美國多間大型銀行App異常　摩根大通稱軟體漏洞所致",
       "summary": [
-        "經濟日報：川普啟程赴亞洲拋震撼彈　訪中國時可能會晤金正恩",
-        "ETtoday：川普亞洲行拋震撼彈！曝赴中期間「可能見金正恩」",
-        "自由時報：川普拋震撼彈！預告深圳APEC可能與金正恩會晤"
+        "經濟日報：美國多間大型銀行App異常　摩根大通稱軟體漏洞所致",
+        "科技新報：美國多間大型銀行 App 異常，摩根大通稱軟體漏洞所致",
+        "iThome：美國多家銀行APP傳出服務異常，JP摩根表示內部系統軟體臭蟲造成交易延遲"
       ],
       "media_count": 3,
       "links": [
         {
           "source": "經濟日報",
-          "title": "川普啟程赴亞洲拋震撼彈　訪中國時可能會晤金正恩",
-          "url": "https://money.udn.com/money/story/5599/9882766"
+          "title": "美國多間大型銀行App異常　摩根大通稱軟體漏洞所致",
+          "url": "https://money.udn.com/money/story/5599/9883051"
         },
         {
-          "source": "ETtoday",
-          "title": "川普亞洲行拋震撼彈！曝赴中期間「可能見金正恩」",
-          "url": "https://www.ettoday.net/news/20261117/3273300.htm"
+          "source": "科技新報",
+          "title": "美國多間大型銀行 App 異常，摩根大通稱軟體漏洞所致",
+          "url": "https://infosecu.technews.tw/2026/11/17/jpmorgan-says-software-bug-slows-its-transactions/"
         },
         {
-          "source": "自由時報",
-          "title": "川普拋震撼彈！預告深圳APEC可能與金正恩會晤",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643068"
+          "source": "iThome",
+          "title": "美國多家銀行APP傳出服務異常，JP摩根表示內部系統軟體臭蟲造成交易延遲",
+          "url": "https://www.ithome.com.tw/news/180556"
         }
       ]
     },
@@ -116,6 +116,27 @@
     },
     {
       "rank": 5,
+      "title": "俄軍機闖入防空識別區　韓國緊急派戰機升空應對",
+      "summary": [
+        "經濟日報：俄軍機闖入防空識別區　韓國緊急派戰機升空應對",
+        "自由時報：俄羅斯多架軍機闖南韓防空識別區 南韓空軍緊急派戰機升空應對"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "俄軍機闖入防空識別區　韓國緊急派戰機升空應對",
+          "url": "https://money.udn.com/money/story/5599/9883203"
+        },
+        {
+          "source": "自由時報",
+          "title": "俄羅斯多架軍機闖南韓防空識別區 南韓空軍緊急派戰機升空應對",
+          "url": "https://news.ltn.com.tw/news/def/breakingnews/5643309"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
       "summary": [
         "科技新報：手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
@@ -136,7 +157,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "大轉彎？蔣萬安選舉公報政見未列「松機遷建」 網：自證在騙票！",
       "summary": [
         "自由時報：大轉彎？蔣萬安選舉公報政見未列「松機遷建」 網：自證在騙票！",
@@ -157,7 +178,28 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "川普亞洲行拋震撼彈！曝赴中期間「可能見金正恩」",
+      "summary": [
+        "ETtoday：川普亞洲行拋震撼彈！曝赴中期間「可能見金正恩」",
+        "自由時報：川普拋震撼彈！預告深圳APEC可能與金正恩會晤"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "川普亞洲行拋震撼彈！曝赴中期間「可能見金正恩」",
+          "url": "https://www.ettoday.net/news/20261117/3273300.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "川普拋震撼彈！預告深圳APEC可能與金正恩會晤",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643068"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠",
       "summary": [
         "經濟日報：Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠",
@@ -178,7 +220,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
       "summary": [
         "經濟日報：1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
@@ -195,48 +237,6 @@
           "source": "自由時報",
           "title": "10國簽署舊金山宣言 美聯手盟友 強化AI供應鏈抗中",
           "url": "https://ec.ltn.com.tw/article/paper/1778747"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
-      "summary": [
-        "自由時報：市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
-        "經濟日報：市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5643070"
-        },
-        {
-          "source": "經濟日報",
-          "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
-          "url": "https://money.udn.com/money/story/5599/9882880"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭",
-      "summary": [
-        "自由時報：川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭",
-        "經濟日報：川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643072"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭",
-          "url": "https://money.udn.com/money/story/5599/9882886"
         }
       ]
     }
