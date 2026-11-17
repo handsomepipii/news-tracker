@@ -1,21 +1,16 @@
 {
-  "updated_at": "2026-11-17 10:57",
+  "updated_at": "2026-11-17 11:27",
   "taiwan": [
     {
       "rank": 1,
-      "title": "和貝森特先打一架吧！川普：不介意黃仁勳復職 沒人證明黃樂是間諜",
+      "title": "川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
       "summary": [
-        "經濟日報：和貝森特先打一架吧！川普：不介意黃仁勳復職 沒人證明黃樂是間諜",
         "自由時報：川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
-        "ETtoday：川普鬆口了！「黃樂可能不是間諜」　不排除川習會向習近平提起"
+        "ETtoday：川普鬆口了！「黃樂可能不是間諜」　不排除川習會向習近平提起",
+        "經濟日報：川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件"
       ],
       "media_count": 4,
       "links": [
-        {
-          "source": "經濟日報",
-          "title": "和貝森特先打一架吧！川普：不介意黃仁勳復職 沒人證明黃樂是間諜",
-          "url": "https://money.udn.com/money/story/5599/9882674"
-        },
         {
           "source": "自由時報",
           "title": "川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
@@ -25,6 +20,11 @@
           "source": "ETtoday",
           "title": "川普鬆口了！「黃樂可能不是間諜」　不排除川習會向習近平提起",
           "url": "https://www.ettoday.net/news/20261117/3273301.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
+          "url": "https://money.udn.com/money/story/5599/9882870"
         },
         {
           "source": "科技新報",
@@ -116,90 +116,6 @@
     },
     {
       "rank": 5,
-      "title": "華郵：川普持有的輝達股票 最高價值6,200萬美元",
-      "summary": [
-        "經濟日報：華郵：川普持有的輝達股票 最高價值6,200萬美元",
-        "科技新報：華郵：川普持有輝達股票價值大增，最高達 6,200 萬美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "華郵：川普持有的輝達股票 最高價值6,200萬美元",
-          "url": "https://money.udn.com/money/story/123398/9882667"
-        },
-        {
-          "source": "科技新報",
-          "title": "華郵：川普持有輝達股票價值大增，最高達 6,200 萬美元",
-          "url": "https://finance.technews.tw/2026/11/17/trumps-stake-nvidia-grew-much-62-million-before-scandal-broke-out/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "恭喜蘇媽！超微82億美元收購告捷  開心曬照迎AI教母李飛飛",
-      "summary": [
-        "自由時報：恭喜蘇媽！超微82億美元收購告捷  開心曬照迎AI教母李飛飛",
-        "ETtoday：超微砸82億美元收購告捷！　蘇媽曬照嗨迎「AI教母」李飛飛"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "恭喜蘇媽！超微82億美元收購告捷  開心曬照迎AI教母李飛飛",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5643029"
-        },
-        {
-          "source": "ETtoday",
-          "title": "超微砸82億美元收購告捷！　蘇媽曬照嗨迎「AI教母」李飛飛",
-          "url": "https://www.ettoday.net/news/20261117/3273402.htm"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "逾17萬人連署　籲恢復黃仁勳輝達執行長職務",
-      "summary": [
-        "經濟日報：逾17萬人連署　籲恢復黃仁勳輝達執行長職務",
-        "科技新報：逾 17 萬人連署，籲恢復黃仁勳輝達執行長職務"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "逾17萬人連署　籲恢復黃仁勳輝達執行長職務",
-          "url": "https://money.udn.com/money/story/5599/9882708"
-        },
-        {
-          "source": "科技新報",
-          "title": "逾 17 萬人連署，籲恢復黃仁勳輝達執行長職務",
-          "url": "https://finance.technews.tw/2026/11/17/170k-sign-petition-restore-jensen-huang-nvidia-ceo/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "川普訪亞洲之際　美祭新規限制中國取得先進AI晶片",
-      "summary": [
-        "經濟日報：川普訪亞洲之際　美祭新規限制中國取得先進AI晶片",
-        "自由時報：川普見習近平前出招！美祭AI晶片新禁令 嚴防先進技術流入中國"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普訪亞洲之際　美祭新規限制中國取得先進AI晶片",
-          "url": "https://money.udn.com/money/story/5599/9882695"
-        },
-        {
-          "source": "自由時報",
-          "title": "川普見習近平前出招！美祭AI晶片新禁令 嚴防先進技術流入中國",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643128"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
       "summary": [
         "科技新報：手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
@@ -220,7 +136,28 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
+      "title": "大轉彎？蔣萬安選舉公報政見未列「松機遷建」 網：自證在騙票！",
+      "summary": [
+        "自由時報：大轉彎？蔣萬安選舉公報政見未列「松機遷建」 網：自證在騙票！",
+        "ETtoday：翡翠水庫設光電板？　蘇巧慧：假議題不該在選舉炒作！非常沒意義"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "大轉彎？蔣萬安選舉公報政見未列「松機遷建」 網：自證在騙票！",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5643019"
+        },
+        {
+          "source": "ETtoday",
+          "title": "翡翠水庫設光電板？　蘇巧慧：假議題不該在選舉炒作！非常沒意義",
+          "url": "https://www.ettoday.net/news/20261117/3273514.htm"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠",
       "summary": [
         "經濟日報：Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠",
@@ -237,6 +174,69 @@
           "source": "INSIDE硬塞",
           "title": "郭明錤看好 Google TPU 出貨能見度延伸至 2029 年，輝達換帥不確定性成助力，聯發科最受惠",
           "url": "https://www.inside.com.tw/article/42927-kuo-google-tpu-visibility-2029-nvidia-ceo-succession-mediatek"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
+      "summary": [
+        "經濟日報：1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
+        "自由時報：10國簽署舊金山宣言 美聯手盟友 強化AI供應鏈抗中"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
+          "url": "https://money.udn.com/money/story/5599/9882719"
+        },
+        {
+          "source": "自由時報",
+          "title": "10國簽署舊金山宣言 美聯手盟友 強化AI供應鏈抗中",
+          "url": "https://ec.ltn.com.tw/article/paper/1778747"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
+      "summary": [
+        "自由時報：市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
+        "經濟日報：市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5643070"
+        },
+        {
+          "source": "經濟日報",
+          "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
+          "url": "https://money.udn.com/money/story/5599/9882880"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭",
+      "summary": [
+        "自由時報：川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭",
+        "經濟日報：川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643072"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭",
+          "url": "https://money.udn.com/money/story/5599/9882886"
         }
       ]
     }
@@ -308,33 +308,6 @@
     },
     {
       "rank": 3,
-      "title": "川普表示他「不介意」黃仁勳恢復英偉達執行長職務",
-      "summary": [
-        "Financial Times：川普表示他「不介意」黃仁勳恢復英偉達執行長職務",
-        "Washington Post：川普表示他「不介意」黃仁勳重返英偉達",
-        "The Verge：川普表示黃仁勳重返英偉達“當然不是一個壞主意”"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "川普表示他「不介意」黃仁勳恢復英偉達執行長職務",
-          "url": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Washington Post",
-          "title": "川普表示他「不介意」黃仁勳重返英偉達",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3gtdG5mSF9udllLUy1RMkFHZ0VFbHJocGdoSUNUdHFYbFFydlZrbk1RbmE1TlRXZmpLc2xCOWk0RGJVdFhZeWl2VmI0a2E3VVV4X0NKYVFlVTl6WG9YUHFXNFZTTm04OVRqcG8yS08yYm5haEZQN3lwT0h0VzhldXltUnR6aTUzYlI5MkhtY2NEZEE4ZlM5TzY5OHNSSTlIRlpCZlVrekNBZDk1elMw?oc=5"
-        },
-        {
-          "source": "The Verge",
-          "title": "川普表示黃仁勳重返英偉達“當然不是一個壞主意”",
-          "url": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "訊息人士告訴 CNBC，英偉達董事會不考慮讓黃仁勳重新擔任執行長",
       "summary": [
         "CNBC：訊息人士告訴 CNBC，英偉達董事會不考慮讓黃仁勳重新擔任執行長",
@@ -361,70 +334,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "川普總統：“有可能會見金正恩總書記”",
-      "summary": [
-        "NHK新聞：川普總統：“有可能會見金正恩總書記”",
-        "韓聯社：特朗普：訪華期間或會見金正恩"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "川普總統：“有可能會見金正恩總書記”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261116de76866"
-        },
-        {
-          "source": "韓聯社",
-          "title": "特朗普：訪華期間或會見金正恩",
-          "url": "https://cn.yna.co.kr/view/ACK20261117000200881"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "美國收緊人工智慧晶片出口管制，阻止中國企業遠端存取運算",
-      "summary": [
-        "TechCrunch：美國收緊人工智慧晶片出口管制，阻止中國企業遠端存取運算",
-        "Ars Technica：美國採取行動切斷中國對人工智慧晶片的遠端訪問"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "美國收緊人工智慧晶片出口管制，阻止中國企業遠端存取運算",
-          "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "美國採取行動切斷中國對人工智慧晶片的遠端訪問",
-          "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "羅伯派汀森是亞馬遜第一位詹姆士龐德",
-      "summary": [
-        "The Verge：羅伯派汀森是亞馬遜第一位詹姆士龐德",
-        "Bloomberg Markets：羅伯派汀森成為亞馬遜重啟後的新詹姆士龐德"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "羅伯派汀森是亞馬遜第一位詹姆士龐德",
-          "url": "https://www.theverge.com/tech/1034192/robert-pattinson-james-bond"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "羅伯派汀森成為亞馬遜重啟後的新詹姆士龐德",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-16/robert-pattinson-is-new-james-bond-in-amazon-s-reboot-video"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "title": "五個歐盟國家宣佈在盧安達建立移民「返回中心」的計劃",
       "summary": [
         "The Guardian：五個歐盟國家宣佈在盧安達建立移民「返回中心」的計劃",
@@ -445,7 +355,28 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
+      "title": "川普表示他「不介意」黃仁勳重返英偉達",
+      "summary": [
+        "Washington Post：川普表示他「不介意」黃仁勳重返英偉達",
+        "The Verge：川普表示黃仁勳重返英偉達“當然不是一個壞主意”"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "川普表示他「不介意」黃仁勳重返英偉達",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3gtdG5mSF9udllLUy1RMkFHZ0VFbHJocGdoSUNUdHFYbFFydlZrbk1RbmE1TlRXZmpLc2xCOWk0RGJVdFhZeWl2VmI0a2E3VVV4X0NKYVFlVTl6WG9YUHFXNFZTTm04OVRqcG8yS08yYm5haEZQN3lwT0h0VzhldXltUnR6aTUzYlI5MkhtY2NEZEE4ZlM5TzY5OHNSSTlIRlpCZlVrekNBZDk1elMw?oc=5"
+        },
+        {
+          "source": "The Verge",
+          "title": "川普表示黃仁勳重返英偉達“當然不是一個壞主意”",
+          "url": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "川普支援黃仁勳重返英偉達執行長",
       "summary": [
         "Investing.com：川普支援黃仁勳重返英偉達執行長",
@@ -466,7 +397,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "Apple聘請了擁有26年經驗的資深員工Corey Fugman負責付款、銀行卡和錢包服務",
       "summary": [
         "Bloomberg Tech：Apple聘請了擁有26年經驗的資深員工Corey Fugman負責付款、銀行卡和錢包服務",
@@ -483,6 +414,69 @@
           "source": "Investing.com",
           "title": "蘋果資深人士 Corey Fugman 將領導 Apple Pay 和電子錢包部門",
           "url": "https://www.investing.com/news/stock-market-news/apple-veteran-corey-fugman-to-lead-apple-pay-and-wallet-unit--bloomberg-93CH-5030625"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Instagram 現在允許創作者在捲軸和動態帖子中新增亞馬遜附屬連結",
+      "summary": [
+        "TechCrunch：Instagram 現在允許創作者在捲軸和動態帖子中新增亞馬遜附屬連結",
+        "Wired：Instagram 正在將亞馬遜會員連結直接帶至捲軸和貼文中"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "Instagram 現在允許創作者在捲軸和動態帖子中新增亞馬遜附屬連結",
+          "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/"
+        },
+        {
+          "source": "Wired",
+          "title": "Instagram 正在將亞馬遜會員連結直接帶至捲軸和貼文中",
+          "url": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "NVIDIA Rubin HPC GPU 包含超過 50,000 個 CUDA 核心，全部使用第七代 NVLink 連線以加速模擬和資料處理，預計於 2028 年推出",
+      "summary": [
+        "Wccftech：NVIDIA Rubin HPC GPU 包含超過 50,000 個 CUDA 核心，全部使用第七代 NVLink 連線以加速模擬和資料處理，預計於 2028 年推出",
+        "Tom's Hardware：Nvidia 在 Supercomputing 2026 上宣佈 Rubin HPC GPU 具有“創紀錄的 CUDA 核心數量”"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Wccftech",
+          "title": "NVIDIA Rubin HPC GPU 包含超過 50,000 個 CUDA 核心，全部使用第七代 NVLink 連線以加速模擬和資料處理，預計於 2028 年推出",
+          "url": "https://wccftech.com/nvidia-rubin-hpc-gpu-50000-cuda-cores-2028/"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "Nvidia 在 Supercomputing 2026 上宣佈 Rubin HPC GPU 具有“創紀錄的 CUDA 核心數量”",
+          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "奧特曼表示，黃蜂下臺後，人工智慧產業“會好起來”",
+      "summary": [
+        "Bloomberg Tech：奧特曼表示，黃蜂下臺後，人工智慧產業“會好起來”",
+        "Yahoo Finance：奧爾特曼表示，黃蜂下臺後，人工智慧產業“會好起來”"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "奧特曼表示，黃蜂下臺後，人工智慧產業“會好起來”",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/altman-says-ai-industry-will-be-fine-after-huang-s-ouster"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "奧爾特曼表示，黃蜂下臺後，人工智慧產業“會好起來”",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV3IyNXlCUzhndTdjbGlqNkhKNXlweGlUQ1VzSnFLRHlubjN6cjJLaUYtUEo4bnFFb3hxdk90MjAxVWJtbmRMZHpKazljcGpSQ3lFUF9pdTEtMlJmY2ZVaUJYSHJFd09SbHN4UzJ1UFdMRUVOemdtQ3pJaXFIYmZjV2RqaHd6aC1nMWl0MEVDd0JIYmwzNC0w?oc=5"
         }
       ]
     }
