@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 09:27",
+  "updated_at": "2026-11-17 09:57",
   "taiwan": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
         "自由時報：川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
         "ETtoday：川普鬆口了！「黃樂可能不是間諜」　不排除川習會向習近平提起"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "經濟日報",
@@ -25,6 +25,11 @@
           "source": "ETtoday",
           "title": "川普鬆口了！「黃樂可能不是間諜」　不排除川習會向習近平提起",
           "url": "https://www.ettoday.net/news/20261117/3273301.htm"
+        },
+        {
+          "source": "科技新報",
+          "title": "川普：不介意黃仁勳回任輝達執行長、可能會和習近平談間諜事件",
+          "url": "https://technews.tw/2026/11/17/trump-jensen-huang-nvidia-ceo-return-xi-jinping-espionage-talks/"
         }
       ]
     },
@@ -57,33 +62,6 @@
     },
     {
       "rank": 3,
-      "title": "華郵：川普持有輝達股票價值大增 最高達6200萬美元",
-      "summary": [
-        "自由時報：華郵：川普持有輝達股票價值大增 最高達6200萬美元",
-        "經濟日報：華郵：川普持有的輝達股票 最高價值6,200萬美元",
-        "科技新報：華郵：川普持有輝達股票價值大增，最高達 6,200 萬美元"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "華郵：川普持有輝達股票價值大增 最高達6200萬美元",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5642960"
-        },
-        {
-          "source": "經濟日報",
-          "title": "華郵：川普持有的輝達股票 最高價值6,200萬美元",
-          "url": "https://money.udn.com/money/story/123398/9882667"
-        },
-        {
-          "source": "科技新報",
-          "title": "華郵：川普持有輝達股票價值大增，最高達 6,200 萬美元",
-          "url": "https://finance.technews.tw/2026/11/17/trumps-stake-nvidia-grew-much-62-million-before-scandal-broke-out/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "川普啟程赴亞洲拋震撼彈　訪中國時可能會晤金正恩",
       "summary": [
         "經濟日報：川普啟程赴亞洲拋震撼彈　訪中國時可能會晤金正恩",
@@ -110,49 +88,28 @@
       ]
     },
     {
+      "rank": 4,
+      "title": "華郵：川普持有的輝達股票 最高價值6,200萬美元",
+      "summary": [
+        "經濟日報：華郵：川普持有的輝達股票 最高價值6,200萬美元",
+        "科技新報：華郵：川普持有輝達股票價值大增，最高達 6,200 萬美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "華郵：川普持有的輝達股票 最高價值6,200萬美元",
+          "url": "https://money.udn.com/money/story/123398/9882667"
+        },
+        {
+          "source": "科技新報",
+          "title": "華郵：川普持有輝達股票價值大增，最高達 6,200 萬美元",
+          "url": "https://finance.technews.tw/2026/11/17/trumps-stake-nvidia-grew-much-62-million-before-scandal-broke-out/"
+        }
+      ]
+    },
+    {
       "rank": 5,
-      "title": "基隆深澳坑路公寓火警 3樓全面燃燒警消搶救中",
-      "summary": [
-        "自由時報：基隆深澳坑路公寓火警 3樓全面燃燒警消搶救中",
-        "ETtoday：基隆住宅突竄火光！3樓陷火海畫面曝　消防19車42人急灌救"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "基隆深澳坑路公寓火警 3樓全面燃燒警消搶救中",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5642958"
-        },
-        {
-          "source": "ETtoday",
-          "title": "基隆住宅突竄火光！3樓陷火海畫面曝　消防19車42人急灌救",
-          "url": "https://www.ettoday.net/news/20261116/3273267.htm"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "臺北101點燈「臺灣愛Jensen」連亮2天挺黃仁勳｜TVBS新聞@TVBSNEWS01 │ TVBS新聞網",
-      "summary": [
-        "TVBS新聞：臺北101點燈「臺灣愛Jensen」連亮2天挺黃仁勳｜TVBS新聞@TVBSNEWS01 │ TVBS新聞網",
-        "工商時報：臺灣科技業相挺！傳今晚六點臺北101點燈為黃仁勳送暖- 產業"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "臺北101點燈「臺灣愛Jensen」連亮2天挺黃仁勳｜TVBS新聞@TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XMkR2ZElfLUdjaEdzelV0cHo0X3g2S28zWng3NWhHdXd1cEYxYlBvZDdQcXdQUk5JN3ZCRHlnRmM2bUZfTEJ3cEIzUVhiRHBEMTRHaUdR?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "臺灣科技業相挺！傳今晚六點臺北101點燈為黃仁勳送暖- 產業",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UeUZwR29fN0FndWtYQWNzWGZSejFZRlN1MXkwejd0eEVacHFiSmh1Rko1OXNEZnpUUERZd3ozSWl4TlVub2Z3Mm0tTnkweG15Q0ZEa3BPZkhweno3UlM4?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "上週停飛令後全美航班持續大亂 創911恐攻以來最大規模紀錄",
       "summary": [
         "公視新聞：上週停飛令後全美航班持續大亂 創911恐攻以來最大規模紀錄",
@@ -173,7 +130,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "「晶片戰爭」作者：輝達挑戰華府對中鷹派　調查不會止於黃仁勳",
       "summary": [
         "經濟日報：「晶片戰爭」作者：輝達挑戰華府對中鷹派　調查不會止於黃仁勳",
@@ -194,7 +151,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "13家金控10月獲利遇亂流僅這2家月增 前10月合賺近6680億元",
       "summary": [
         "鉅亨網：13家金控10月獲利遇亂流僅這2家月增 前10月合賺近6680億元",
@@ -215,7 +172,28 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "title": "逾17萬人連署　籲恢復黃仁勳輝達執行長職務",
+      "summary": [
+        "經濟日報：逾17萬人連署　籲恢復黃仁勳輝達執行長職務",
+        "科技新報：逾 17 萬人連署，籲恢復黃仁勳輝達執行長職務"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "逾17萬人連署　籲恢復黃仁勳輝達執行長職務",
+          "url": "https://money.udn.com/money/story/5599/9882708"
+        },
+        {
+          "source": "科技新報",
+          "title": "逾 17 萬人連署，籲恢復黃仁勳輝達執行長職務",
+          "url": "https://finance.technews.tw/2026/11/17/170k-sign-petition-restore-jensen-huang-nvidia-ceo/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "川普訪亞洲之際　美祭新規限制中國取得先進AI晶片",
       "summary": [
         "經濟日報：川普訪亞洲之際　美祭新規限制中國取得先進AI晶片",
@@ -232,6 +210,27 @@
           "source": "自由時報",
           "title": "川普見習近平前出招！美祭AI晶片新禁令 嚴防先進技術流入中國",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5643128"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
+      "summary": [
+        "科技新報：手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
+        "工商時報：輝達重擊臺股史上第二大跌點- 日報"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
+          "url": "https://finance.technews.tw/2026/11/16/playboy-investor/"
+        },
+        {
+          "source": "工商時報",
+          "title": "輝達重擊臺股史上第二大跌點- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFcUc1WlpDZlY1cFFlTmJwb00tUnRlbTI1dGhsMm1jcFNjMXdPNnYtSXl6YjQtZS1yZFpQTVJxdk9SSTJrcHFIcTFwZnlERi1FVVlpMzFfTWRWTndXNmtZ?oc=5"
         }
       ]
     }
