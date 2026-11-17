@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 20:26",
+  "updated_at": "2026-11-17 20:57",
   "taiwan": [
     {
       "rank": 1,
@@ -30,60 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "川普馬斯克力挺也沒用？傳輝達董事會拒黃仁勳回任 美媒揭背後阻力",
-      "summary": [
-        "經濟日報：川普馬斯克力挺也沒用？傳輝達董事會拒黃仁勳回任 美媒揭背後阻力",
-        "自由時報：川普聲援也難回鍋！黃仁勳復職卡關原因曝光 美媒揭輝達董事會顧慮",
-        "風傳媒：【新新聞】美國封死「海外算力」漏洞！川普挺黃仁勳回任 白宮鷹派與輝達董事會不買單"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普馬斯克力挺也沒用？傳輝達董事會拒黃仁勳回任 美媒揭背後阻力",
-          "url": "https://money.udn.com/money/story/5599/9883064"
-        },
-        {
-          "source": "自由時報",
-          "title": "川普聲援也難回鍋！黃仁勳復職卡關原因曝光 美媒揭輝達董事會顧慮",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5643248"
-        },
-        {
-          "source": "風傳媒",
-          "title": "【新新聞】美國封死「海外算力」漏洞！川普挺黃仁勳回任 白宮鷹派與輝達董事會不買單",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oQXVHcG5oS09vY180bjNGOHQta3hrQ0FZNjZHTmM4MEJlX0NtWV9vZG9fcTd5azE5SUdJQzFuOENvWm1LZjNxQXV2Y04wZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "美國多間大型銀行App異常　摩根大通稱軟體漏洞所致",
-      "summary": [
-        "經濟日報：美國多間大型銀行App異常　摩根大通稱軟體漏洞所致",
-        "科技新報：美國多間大型銀行 App 異常，摩根大通稱軟體漏洞所致",
-        "iThome：美國多家銀行APP傳出服務異常，JP摩根表示內部系統軟體臭蟲造成交易延遲"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美國多間大型銀行App異常　摩根大通稱軟體漏洞所致",
-          "url": "https://money.udn.com/money/story/5599/9883051"
-        },
-        {
-          "source": "科技新報",
-          "title": "美國多間大型銀行 App 異常，摩根大通稱軟體漏洞所致",
-          "url": "https://infosecu.technews.tw/2026/11/17/jpmorgan-says-software-bug-slows-its-transactions/"
-        },
-        {
-          "source": "iThome",
-          "title": "美國多家銀行APP傳出服務異常，JP摩根表示內部系統軟體臭蟲造成交易延遲",
-          "url": "https://www.ithome.com.tw/news/180556"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "特斯拉柏林廠擴建，砸 30 億歐元準備生產 Cybercab",
       "summary": [
         "科技新報：特斯拉柏林廠擴建，砸 30 億歐元準備生產 Cybercab",
@@ -110,7 +56,28 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "title": "臺中市長電視辯論會今晚登場 何欣純、江啟臣唯一同臺對話無交叉詰問",
+      "summary": [
+        "自由時報：臺中市長電視辯論會今晚登場 何欣純、江啟臣唯一同臺對話無交叉詰問",
+        "ETtoday：賴清德竟曾挺李四川選新北市長　呂家愷：證明李做事獲跨黨派肯定"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "臺中市長電視辯論會今晚登場 何欣純、江啟臣唯一同臺對話無交叉詰問",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5643140"
+        },
+        {
+          "source": "ETtoday",
+          "title": "賴清德竟曾挺李四川選新北市長　呂家愷：證明李做事獲跨黨派肯定",
+          "url": "https://www.ettoday.net/news/20261117/3273507.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "俄軍機闖入防空識別區　韓國緊急派戰機升空應對",
       "summary": [
         "經濟日報：俄軍機闖入防空識別區　韓國緊急派戰機升空應對",
@@ -131,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "漢測攜手德商拓展矽光子測試佈局- 新聞",
       "summary": [
         "MoneyDJ理財網：漢測攜手德商拓展矽光子測試佈局- 新聞",
@@ -152,70 +119,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "川普鬆口了：黃樂可能不是間諜",
-      "summary": [
-        "自由時報：川普鬆口了：黃樂可能不是間諜",
-        "風傳媒：黃仁勳外遇物件到底是不是間諜？美副總統：我和川普都不知道，看過情報也無法確定| 李靖棠| 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "川普鬆口了：黃樂可能不是間諜",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5643138"
-        },
-        {
-          "source": "風傳媒",
-          "title": "黃仁勳外遇物件到底是不是間諜？美副總統：我和川普都不知道，看過情報也無法確定| 李靖棠| 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wbnZSZFBQeXN6eTVyM0JPQnJ2Z21YTW1WUWV2NGwwTThuSFZOa1FkS29PdDdtNU1xQldwLWdlald3R0hhdm9zcHZBMVFjZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "華郵：川普持有輝達股票價值大增，最高達 6,200 萬美元",
-      "summary": [
-        "科技新報：華郵：川普持有輝達股票價值大增，最高達 6,200 萬美元",
-        "經濟日報：川普有多少輝達股票？估計多達5,770萬美元！美媒揭露他交易輝達103次"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "華郵：川普持有輝達股票價值大增，最高達 6,200 萬美元",
-          "url": "https://finance.technews.tw/2026/11/17/trumps-stake-nvidia-grew-much-62-million-before-scandal-broke-out/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普有多少輝達股票？估計多達5,770萬美元！美媒揭露他交易輝達103次",
-          "url": "https://money.udn.com/money/story/123398/9883173"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "微軟揭露Microsoft 365全球當機原因，潛伏3個月的程式錯誤釀禍",
-      "summary": [
-        "iThome：微軟揭露Microsoft 365全球當機原因，潛伏3個月的程式錯誤釀禍",
-        "科技新報：微軟公佈 Microsoft 365 大當機原因：潛伏四個月的程式缺陷加上兩個意外，八成伺服器停擺"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "微軟揭露Microsoft 365全球當機原因，潛伏3個月的程式錯誤釀禍",
-          "url": "https://www.ithome.com.tw/news/180549"
-        },
-        {
-          "source": "科技新報",
-          "title": "微軟公佈 Microsoft 365 大當機原因：潛伏四個月的程式缺陷加上兩個意外，八成伺服器停擺",
-          "url": "https://technews.tw/2026/11/17/microsoft-reveals-hidden-bug-behind-global-outlook-and-microsoft-365-outage/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 6,
       "title": "川普力保黃仁勳！　反酸：中國美女總被當間諜",
       "summary": [
         "ETtoday：川普力保黃仁勳！　反酸：中國美女總被當間諜",
@@ -232,6 +136,90 @@
           "source": "自由時報",
           "title": "「黃仁勳瘋了」！中招最老套手段 《衛報》揭密中國美人計間諜內幕",
           "url": "https://ec.ltn.com.tw/article/breakingnews/5643256"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "馬斯克、三星深化合作，傳三星德州廠將為 SpaceX 生產晶片",
+      "summary": [
+        "科技新報：馬斯克、三星深化合作，傳三星德州廠將為 SpaceX 生產晶片",
+        "工商時報：三星擴產為SpaceX造晶片- 日報"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "馬斯克、三星深化合作，傳三星德州廠將為 SpaceX 生產晶片",
+          "url": "https://technews.tw/2026/11/17/elon-musk-samsung-chips/"
+        },
+        {
+          "source": "工商時報",
+          "title": "三星擴產為SpaceX造晶片- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JbjF4REYzcTlGNjFEYXU3N05OX2hGeDZPbnZOSFpuS0ZwQ0VaNEM1ODJjbnF0YXZoSzdGY2ZTOUlVRlNpLUhYR0JiX0VMQjJCN3c1ZklkTjlBQ09LLTdR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "美國聯航技術故障延誤航班　已排除問題且無網攻跡象",
+      "summary": [
+        "經濟日報：美國聯航技術故障延誤航班　已排除問題且無網攻跡象",
+        "科技新報：美國聯航技術故障延誤航班，已排除問題且無網攻跡象"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美國聯航技術故障延誤航班　已排除問題且無網攻跡象",
+          "url": "https://money.udn.com/money/story/5599/9883106"
+        },
+        {
+          "source": "科技新報",
+          "title": "美國聯航技術故障延誤航班，已排除問題且無網攻跡象",
+          "url": "https://technews.tw/2026/11/17/united-airlines-resolves-system-outage-that-affected-departing-flights/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普替盧特尼克撐腰！美晶片新禁令卻由財政部主導 外媒曝「背後內幕」",
+      "summary": [
+        "自由時報：川普替盧特尼克撐腰！美晶片新禁令卻由財政部主導 外媒曝「背後內幕」",
+        "經濟日報：紐時：川普訪中前內閣角力 鷹派爭到晶片新規 卻怕他拿去當談判籌碼"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川普替盧特尼克撐腰！美晶片新禁令卻由財政部主導 外媒曝「背後內幕」",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5643144"
+        },
+        {
+          "source": "經濟日報",
+          "title": "紐時：川普訪中前內閣角力 鷹派爭到晶片新規 卻怕他拿去當談判籌碼",
+          "url": "https://money.udn.com/money/story/5599/9884033"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國多間大型銀行 App 異常，摩根大通稱軟體漏洞所致",
+      "summary": [
+        "科技新報：美國多間大型銀行 App 異常，摩根大通稱軟體漏洞所致",
+        "iThome：美國多家銀行APP傳出服務異常，JP摩根表示內部系統軟體臭蟲造成交易延遲"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "美國多間大型銀行 App 異常，摩根大通稱軟體漏洞所致",
+          "url": "https://infosecu.technews.tw/2026/11/17/jpmorgan-says-software-bug-slows-its-transactions/"
+        },
+        {
+          "source": "iThome",
+          "title": "美國多家銀行APP傳出服務異常，JP摩根表示內部系統軟體臭蟲造成交易延遲",
+          "url": "https://www.ithome.com.tw/news/180556"
         }
       ]
     }
@@ -271,18 +259,18 @@
     },
     {
       "rank": 2,
-      "title": "俄羅斯飛機暫時侵犯沖之島、福岡週邊領空",
+      "title": "雙邊關係惡化，疑似俄羅斯飛機侵犯日本領空",
       "summary": [
-        "NHK新聞：俄羅斯飛機暫時侵犯沖之島、福岡週邊領空",
+        "Nikkei Asia：雙邊關係惡化，疑似俄羅斯飛機侵犯日本領空",
         "BBC World：日本在俄羅斯涉嫌入侵其領空後派遣噴射機",
         "德國之聲：俄羅斯軍機侵犯日本領空 飛經韓國臺灣的防空識別區"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "俄羅斯飛機暫時侵犯沖之島、福岡週邊領空",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261117de76912"
+          "source": "Nikkei Asia",
+          "title": "雙邊關係惡化，疑似俄羅斯飛機侵犯日本領空",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmNOelJnM0paUmZZcm9qeVZnb1JCVktHU1AzSVdMdWRHYS1HZHgtZ3RZZUY3SDNydEx0T1lHSFhZbnNKVnNOUkEyZ2hQMHZDYnNkN1hxVGxvWEFTekZtakt3TldvTEo0TGh1ZklUdGkwNGN5cHN1am4wVW9VOXp5UFlybkhhN3VoMnpTZFI4OUZDbzhRQS16VHdyQTFpcmdVdy1kMVpQeUFPb3JJOUkxNzhVOA?oc=5"
         },
         {
           "source": "BBC World",
