@@ -1,8 +1,40 @@
 {
-  "updated_at": "2026-11-17 21:27",
+  "updated_at": "2026-11-17 21:56",
   "taiwan": [
     {
       "rank": 1,
+      "title": "臺酒副總廖志堅辭世 新竹市多項文化活動重要創始推手",
+      "summary": [
+        "自由時報：臺酒副總廖志堅辭世 新竹市多項文化活動重要創始推手",
+        "風傳媒：新北環狀線板橋站捷運開發案正式動工！侯友宜：打造新北金融與數位科技發展新核心| 鄧亦涵 | 新聞",
+        "工商時報：熙特爾結盟美韓大廠拓AI能源版圖- 日報"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "臺酒副總廖志堅辭世 新竹市多項文化活動重要創始推手",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5643234"
+        },
+        {
+          "source": "風傳媒",
+          "title": "新北環狀線板橋站捷運開發案正式動工！侯友宜：打造新北金融與數位科技發展新核心| 鄧亦涵 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wcUlRR3hBQmJKVEJ2YWFHS01zS08wUXd0QTUybkIxV1BlTXE1dmpLRE83aVdyc09fQS1FLWc2WEMwbFJUbWJLSVp6eDdOZw?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "熙特爾結盟美韓大廠拓AI能源版圖- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvamJEMnlwM1J2eWgyaEU5X3dncEV1MzBDTzRfMTZEUzdFWmJYX1RfSWctWm1PODVsNi1kZVJNcExPcmJMM2doU1RHTUJ3R3BxSWFjSXBTcUVNUXQzNEg0?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "葉君璋盛讚軟銀亞洲最強！味全龍創秋訓歷史首例　揭臺日養成差異",
+          "url": "https://sports.ettoday.net/news/3273706"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "特斯拉柏林廠擴建，砸 30 億歐元準備生產 Cybercab",
       "summary": [
         "科技新報：特斯拉柏林廠擴建，砸 30 億歐元準備生產 Cybercab",
@@ -25,27 +57,6 @@
           "source": "INSIDE硬塞",
           "title": "Tesla 砸 30 億歐元擴建柏林超級工廠！Cybercab 2029 年投產，年產能上看 100 萬輛",
           "url": "https://www.inside.com.tw/article/42940-tesla-cybercab-giga-berlin-3-billion-1-million"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "臺中市長電視辯論會今晚登場 何欣純、江啟臣唯一同臺對話無交叉詰問",
-      "summary": [
-        "自由時報：臺中市長電視辯論會今晚登場 何欣純、江啟臣唯一同臺對話無交叉詰問",
-        "ETtoday：賴清德竟曾挺李四川選新北市長　呂家愷：證明李做事獲跨黨派肯定"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "臺中市長電視辯論會今晚登場 何欣純、江啟臣唯一同臺對話無交叉詰問",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5643140"
-        },
-        {
-          "source": "ETtoday",
-          "title": "賴清德竟曾挺李四川選新北市長　呂家愷：證明李做事獲跨黨派肯定",
-          "url": "https://www.ettoday.net/news/20261117/3273507.htm"
         }
       ]
     },
@@ -114,69 +125,27 @@
     },
     {
       "rank": 6,
-      "title": "川普替盧特尼克撐腰！美晶片新禁令卻由財政部主導 外媒曝「背後內幕」",
+      "title": "桃園市長候選人公辦政見發表會今登場 黃世傑、張善政先禮後兵",
       "summary": [
-        "自由時報：川普替盧特尼克撐腰！美晶片新禁令卻由財政部主導 外媒曝「背後內幕」",
-        "經濟日報：紐時：川普訪中前內閣角力 鷹派爭到晶片新規 卻怕他拿去當談判籌碼"
+        "自由時報：桃園市長候選人公辦政見發表會今登場 黃世傑、張善政先禮後兵",
+        "TVBS新聞：桃園市長政見發表會 張善政對決黃世傑｜LIVE"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "川普替盧特尼克撐腰！美晶片新禁令卻由財政部主導 外媒曝「背後內幕」",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5643144"
+          "title": "桃園市長候選人公辦政見發表會今登場 黃世傑、張善政先禮後兵",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5643176"
         },
         {
-          "source": "經濟日報",
-          "title": "紐時：川普訪中前內閣角力 鷹派爭到晶片新規 卻怕他拿去當談判籌碼",
-          "url": "https://money.udn.com/money/story/5599/9884033"
+          "source": "TVBS新聞",
+          "title": "桃園市長政見發表會 張善政對決黃世傑｜LIVE",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jS1g0RG9kRGxCYnVyN3p5aThXNlFRbDdyUjNaYnRzekQzYjh0alo1Ql9faTd2bXJaUWR4NDRXQVB0NTNsdk9CSkoyRExRTU9BcXVjQWVB?oc=5"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "美國多間大型銀行 App 異常，摩根大通稱軟體漏洞所致",
-      "summary": [
-        "科技新報：美國多間大型銀行 App 異常，摩根大通稱軟體漏洞所致",
-        "iThome：美國多家銀行APP傳出服務異常，JP摩根表示內部系統軟體臭蟲造成交易延遲"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "美國多間大型銀行 App 異常，摩根大通稱軟體漏洞所致",
-          "url": "https://infosecu.technews.tw/2026/11/17/jpmorgan-says-software-bug-slows-its-transactions/"
-        },
-        {
-          "source": "iThome",
-          "title": "美國多家銀行APP傳出服務異常，JP摩根表示內部系統軟體臭蟲造成交易延遲",
-          "url": "https://www.ithome.com.tw/news/180556"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "IMF警告全球經濟過度依賴AI　恐危及金融穩定",
-      "summary": [
-        "經濟日報：IMF警告全球經濟過度依賴AI　恐危及金融穩定",
-        "科技新報：IMF 警告全球經濟過度依賴 AI 產業，恐危及金融穩定"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "IMF警告全球經濟過度依賴AI　恐危及金融穩定",
-          "url": "https://money.udn.com/money/story/5599/9883179"
-        },
-        {
-          "source": "科技新報",
-          "title": "IMF 警告全球經濟過度依賴 AI 產業，恐危及金融穩定",
-          "url": "https://finance.technews.tw/2026/11/17/imf-warns-global-economy-over-reliance-ai-industry-financial-stability-risk/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "川普聲援也難回鍋！黃仁勳復職卡關原因曝光 美媒揭輝達董事會顧慮",
       "summary": [
         "自由時報：川普聲援也難回鍋！黃仁勳復職卡關原因曝光 美媒揭輝達董事會顧慮",
@@ -197,7 +166,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "龍谷大飯店傳11月30日將暫停營業！ 思考定位再出發",
       "summary": [
         "自由時報：龍谷大飯店傳11月30日將暫停營業！ 思考定位再出發",
@@ -214,6 +183,48 @@
           "source": "ETtoday",
           "title": "谷關「龍谷大飯店」11月底停業　泡湯、住宿券退費期限出爐",
           "url": "https://travel.ettoday.net/article/3273411.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "貿易百貨公司永邑委外電商服務商發生資安事件，訂單資料庫遭未授權存取",
+      "summary": [
+        "iThome：貿易百貨公司永邑委外電商服務商發生資安事件，訂單資料庫遭未授權存取",
+        "公開資訊觀測站重訊：貿易百貨公司永邑委外電商服務商發生資安事件，訂單資料庫遭未授權存取"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "貿易百貨公司永邑委外電商服務商發生資安事件，訂單資料庫遭未授權存取",
+          "url": "https://www.ithome.com.tw/news/180550"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "貿易百貨公司永邑委外電商服務商發生資安事件，訂單資料庫遭未授權存取",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yakdjSFhONTVUUTFZSjdtaXBLSF9BYjVONy1VTFpoaGdTUDRSYWgyN185SEZnejlBNDJLMXpCSGE4ZjNaMGxpRUJpTFFlZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "AI自主攻擊引發資安疑慮　加州檢察長起訴OpenAI",
+      "summary": [
+        "經濟日報：AI自主攻擊引發資安疑慮　加州檢察長起訴OpenAI",
+        "科技新報：AI 自主攻擊引發資安疑慮，加州檢察長起訴 OpenAI"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "AI自主攻擊引發資安疑慮　加州檢察長起訴OpenAI",
+          "url": "https://money.udn.com/money/story/5599/9883218"
+        },
+        {
+          "source": "科技新報",
+          "title": "AI 自主攻擊引發資安疑慮，加州檢察長起訴 OpenAI",
+          "url": "https://infosecu.technews.tw/2026/11/17/ai-autonomous-attacks-spark-cybersecurity-concerns-california-attorney-general-sues-openai/"
         }
       ]
     }
