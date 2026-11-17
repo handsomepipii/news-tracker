@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 07:57",
+  "updated_at": "2026-11-17 08:28",
   "taiwan": [
     {
       "rank": 1,
@@ -105,27 +105,6 @@
     },
     {
       "rank": 5,
-      "title": "臺股創史上第2大跌點、亞股最慘 金管會信心喊話",
-      "summary": [
-        "自由時報：臺股創史上第2大跌點、亞股最慘 金管會信心喊話",
-        "科技新報：手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "臺股創史上第2大跌點、亞股最慘 金管會信心喊話",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5642924"
-        },
-        {
-          "source": "科技新報",
-          "title": "手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
-          "url": "https://finance.technews.tw/2026/11/16/playboy-investor/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "把握週二好天氣！週三後氣溫溜滑梯下探11度",
       "summary": [
         "自由時報：把握週二好天氣！週三後氣溫溜滑梯下探11度",
@@ -146,7 +125,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "基隆深澳坑路公寓火警 3樓全面燃燒警消搶救中",
       "summary": [
         "自由時報：基隆深澳坑路公寓火警 3樓全面燃燒警消搶救中",
@@ -167,7 +146,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "臺北101點燈「臺灣愛Jensen」連亮2天挺黃仁勳｜TVBS新聞@TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：臺北101點燈「臺灣愛Jensen」連亮2天挺黃仁勳｜TVBS新聞@TVBSNEWS01 │ TVBS新聞網",
@@ -188,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "13家金控10月獲利遇亂流僅這2家月增 前10月合賺近6680億元",
       "summary": [
         "鉅亨網：13家金控10月獲利遇亂流僅這2家月增 前10月合賺近6680億元",
@@ -209,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
       "summary": [
         "經濟日報：1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
@@ -226,6 +205,27 @@
           "source": "自由時報",
           "title": "10國簽署舊金山宣言 美聯手盟友 強化AI供應鏈抗中",
           "url": "https://ec.ltn.com.tw/article/paper/1778747"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
+      "summary": [
+        "自由時報：市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
+        "經濟日報：市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5643070"
+        },
+        {
+          "source": "經濟日報",
+          "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
+          "url": "https://money.udn.com/money/story/5599/9882880"
         }
       ]
     }
@@ -351,69 +351,6 @@
     },
     {
       "rank": 5,
-      "title": "截至 8 月份，川普持有 Nvidia 價值 6200 萬美元的股票",
-      "summary": [
-        "Investing.com：截至 8 月份，川普持有 Nvidia 價值 6200 萬美元的股票",
-        "Washington Post：在醜聞爆發之前，川普在 Nvidia 的股份已增至 6,200 萬美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "截至 8 月份，川普持有 Nvidia 價值 6200 萬美元的股票",
-          "url": "https://www.investing.com/news/stock-market-news/trump-held-up-to-62m-in-nvidia-stock-as-of-august--report-5029333"
-        },
-        {
-          "source": "Washington Post",
-          "title": "在醜聞爆發之前，川普在 Nvidia 的股份已增至 6,200 萬美元",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalJ6aGJjaVBRcGpoZmx6WmJ2RFloSnFJdDJWMmlTOG5qS2ZTTTdVTUZhenF6eXoxNEtHRHhJNHFDb1NKNEhGOGY3UjV2dVI2eHdiZmVnb1BEWVdXRTY1NjRFbm0xdUJnQzY5QlZTWnZuQ2FKQ1VqeExkSWtDR21qQkpNcVhFRll0VnN2eGNjMm5uWTJLSEkzTENCVmRyVG5rWGppSnBDcC1ldlZFanpsOXhQblFkSjZU?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "AI新創公司Dreamteam籌措資金挑戰Salesforce、SAP",
-      "summary": [
-        "Bloomberg Tech：AI新創公司Dreamteam籌措資金挑戰Salesforce、SAP",
-        "Yahoo Finance：AI新創公司Dreamteam籌措資金挑戰Salesforce、SAP"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "AI新創公司Dreamteam籌措資金挑戰Salesforce、SAP",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/ai-startup-dreamteam-raises-capital-to-challenge-salesforce-sap"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "AI新創公司Dreamteam籌措資金挑戰Salesforce、SAP",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUlRtemNSU3IzMm1USVBJTU5ZenN2a2VDQjlYVlktT1Q0SHBNZHk3TnlYMDlKRG5HU3ZDLXFxeHZoSENDbUI4ZnJRMjRUeWw2S1BCMTJBYjJiWjU1S3U3cFpVNjB3YnZGbWVETXRaTlE4RkdhQTJQcldqanVfSWRSYnNud29Pa2M5akFRQlR6V3lVdW1FVnFseXVoODRoaXRV?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Zoox 機器人計程車現已出現在拉斯維加斯的 Uber 應用程式上",
-      "summary": [
-        "TechCrunch：Zoox 機器人計程車現已出現在拉斯維加斯的 Uber 應用程式上",
-        "The Verge：亞馬遜的 Zoox 機器人計程車現已可透過 Uber 購買"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "Zoox 機器人計程車現已出現在拉斯維加斯的 Uber 應用程式上",
-          "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/"
-        },
-        {
-          "source": "The Verge",
-          "title": "亞馬遜的 Zoox 機器人計程車現已可透過 Uber 購買",
-          "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "烏軍對俄再發大規模無人機襲擊，克羅米亞大橋再成目標",
       "summary": [
         "法廣RFI：烏軍對俄再發大規模無人機襲擊，克羅米亞大橋再成目標",
@@ -434,7 +371,28 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
+      "title": "根據《華盛頓郵報》報道，川普持有的 Nvidia 股份增至 6,200 萬美元",
+      "summary": [
+        "Investing.com：根據《華盛頓郵報》報道，川普持有的 Nvidia 股份增至 6,200 萬美元",
+        "Washington Post：在醜聞爆發之前，川普在 Nvidia 的股份已增至 6,200 萬美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "根據《華盛頓郵報》報道，川普持有的 Nvidia 股份增至 6,200 萬美元",
+          "url": "https://www.investing.com/news/stock-market-news/trumps-nvidia-stake-grew-to-as-much-as-62-million-washington-post-reports-5029378"
+        },
+        {
+          "source": "Washington Post",
+          "title": "在醜聞爆發之前，川普在 Nvidia 的股份已增至 6,200 萬美元",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalJ6aGJjaVBRcGpoZmx6WmJ2RFloSnFJdDJWMmlTOG5qS2ZTTTdVTUZhenF6eXoxNEtHRHhJNHFDb1NKNEhGOGY3UjV2dVI2eHdiZmVnb1BEWVdXRTY1NjRFbm0xdUJnQzY5QlZTWnZuQ2FKQ1VqeExkSWtDR21qQkpNcVhFRll0VnN2eGNjMm5uWTJLSEkzTENCVmRyVG5rWGppSnBDcC1ldlZFanpsOXhQblFkSjZU?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "英特爾股價暴跌29%後被股東起訴誤導投資者",
       "summary": [
         "Tom's Hardware：英特爾股價暴跌29%後被股東起訴誤導投資者",
@@ -455,7 +413,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Google 地圖現在可以為您建立旅行行程",
       "summary": [
         "The Verge：Google 地圖現在可以為您建立旅行行程",
@@ -472,6 +430,48 @@
           "source": "TechCrunch",
           "title": "谷歌地圖現在可以建立包含每個網站即時詳細資訊的旅行行程",
           "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普總統：“有可能會見金正恩總書記”",
+      "summary": [
+        "NHK新聞：川普總統：“有可能會見金正恩總書記”",
+        "韓聯社：特朗普：訪華期間或會見金正恩"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "川普總統：“有可能會見金正恩總書記”",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261116de76866"
+        },
+        {
+          "source": "韓聯社",
+          "title": "特朗普：訪華期間或會見金正恩",
+          "url": "https://cn.yna.co.kr/view/ACK20261117000200881"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國收緊人工智慧晶片出口管制，阻止中國企業遠端存取運算",
+      "summary": [
+        "TechCrunch：美國收緊人工智慧晶片出口管制，阻止中國企業遠端存取運算",
+        "Ars Technica：美國採取行動切斷中國對人工智慧晶片的遠端訪問"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "美國收緊人工智慧晶片出口管制，阻止中國企業遠端存取運算",
+          "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "美國採取行動切斷中國對人工智慧晶片的遠端訪問",
+          "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
         }
       ]
     }
