@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 09:57",
+  "updated_at": "2026-11-17 10:27",
   "taiwan": [
     {
       "rank": 1,
@@ -110,69 +110,27 @@
     },
     {
       "rank": 5,
-      "title": "上週停飛令後全美航班持續大亂 創911恐攻以來最大規模紀錄",
+      "title": "恭喜蘇媽！超微82億美元收購告捷  開心曬照迎AI教母李飛飛",
       "summary": [
-        "公視新聞：上週停飛令後全美航班持續大亂 創911恐攻以來最大規模紀錄",
-        "自由時報：全美航班大亂才剛落幕 聯合航空又爆大規模系統故障"
+        "自由時報：恭喜蘇媽！超微82億美元收購告捷  開心曬照迎AI教母李飛飛",
+        "ETtoday：超微砸82億美元收購告捷！　蘇媽曬照嗨迎「AI教母」李飛飛"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "公視新聞",
-          "title": "上週停飛令後全美航班持續大亂 創911恐攻以來最大規模紀錄",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OYWk2THg5ZjJFdV92SldDaGZOb0xOQndYY285ekthM3FkRHVhT1FIMXFaUFZVTGJYZi1nd2FCLVpTU29LN0NSLTRZRDU1VW8?oc=5"
+          "source": "自由時報",
+          "title": "恭喜蘇媽！超微82億美元收購告捷  開心曬照迎AI教母李飛飛",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5643029"
         },
         {
-          "source": "自由時報",
-          "title": "全美航班大亂才剛落幕 聯合航空又爆大規模系統故障",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643105"
+          "source": "ETtoday",
+          "title": "超微砸82億美元收購告捷！　蘇媽曬照嗨迎「AI教母」李飛飛",
+          "url": "https://www.ettoday.net/news/20261117/3273402.htm"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "「晶片戰爭」作者：輝達挑戰華府對中鷹派　調查不會止於黃仁勳",
-      "summary": [
-        "經濟日報：「晶片戰爭」作者：輝達挑戰華府對中鷹派　調查不會止於黃仁勳",
-        "科技新報：《晶片戰爭》作者：輝達挑戰華府對中鷹派，調查不會止於黃仁勳"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "「晶片戰爭」作者：輝達挑戰華府對中鷹派　調查不會止於黃仁勳",
-          "url": "https://money.udn.com/money/story/5599/9882593"
-        },
-        {
-          "source": "科技新報",
-          "title": "《晶片戰爭》作者：輝達挑戰華府對中鷹派，調查不會止於黃仁勳",
-          "url": "https://technews.tw/2026/11/17/chip-war-author-nvidia-challenges-washington-china-hawks-investigation-wont-stop-jensen-huang/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "13家金控10月獲利遇亂流僅這2家月增 前10月合賺近6680億元",
-      "summary": [
-        "鉅亨網：13家金控10月獲利遇亂流僅這2家月增 前10月合賺近6680億元",
-        "ETtoday：臺股亂流！一文看13家金控10月獲利　前10月賺進6679億元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "鉅亨網",
-          "title": "13家金控10月獲利遇亂流僅這2家月增 前10月合賺近6680億元",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEYVJCbE5ZbERpNngteVBaeGFLNXJHLXFxbmRESnRidnd0NTlTZWZBUUxIRFJuNHBON0M3cGpMeVJxS0ZlVWZ0RV9NNmt1Z1E?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "臺股亂流！一文看13家金控10月獲利　前10月賺進6679億元",
-          "url": "https://finance.ettoday.net/news/3273291"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "逾17萬人連署　籲恢復黃仁勳輝達執行長職務",
       "summary": [
         "經濟日報：逾17萬人連署　籲恢復黃仁勳輝達執行長職務",
@@ -193,7 +151,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "川普訪亞洲之際　美祭新規限制中國取得先進AI晶片",
       "summary": [
         "經濟日報：川普訪亞洲之際　美祭新規限制中國取得先進AI晶片",
@@ -214,7 +172,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
       "summary": [
         "科技新報：手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
@@ -231,6 +189,48 @@
           "source": "工商時報",
           "title": "輝達重擊臺股史上第二大跌點- 日報",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFcUc1WlpDZlY1cFFlTmJwb00tUnRlbTI1dGhsMm1jcFNjMXdPNnYtSXl6YjQtZS1yZFpQTVJxdk9SSTJrcHFIcTFwZnlERi1FVVlpMzFfTWRWTndXNmtZ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠",
+      "summary": [
+        "經濟日報：Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠",
+        "INSIDE硬塞：郭明錤看好 Google TPU 出貨能見度延伸至 2029 年，輝達換帥不確定性成助力，聯發科最受惠"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠",
+          "url": "https://money.udn.com/money/story/123398/9882704"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "郭明錤看好 Google TPU 出貨能見度延伸至 2029 年，輝達換帥不確定性成助力，聯發科最受惠",
+          "url": "https://www.inside.com.tw/article/42927-kuo-google-tpu-visibility-2029-nvidia-ceo-succession-mediatek"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
+      "summary": [
+        "經濟日報：1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
+        "自由時報：10國簽署舊金山宣言 美聯手盟友 強化AI供應鏈抗中"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
+          "url": "https://money.udn.com/money/story/5599/9882719"
+        },
+        {
+          "source": "自由時報",
+          "title": "10國簽署舊金山宣言 美聯手盟友 強化AI供應鏈抗中",
+          "url": "https://ec.ltn.com.tw/article/paper/1778747"
         }
       ]
     }
@@ -356,27 +356,6 @@
     },
     {
       "rank": 5,
-      "title": "Google 地圖現在可以為您建立旅行行程",
-      "summary": [
-        "The Verge：Google 地圖現在可以為您建立旅行行程",
-        "TechCrunch：谷歌地圖現在可以建立包含每個網站即時詳細資訊的旅行行程"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "Google 地圖現在可以為您建立旅行行程",
-          "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "谷歌地圖現在可以建立包含每個網站即時詳細資訊的旅行行程",
-          "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "川普總統：“有可能會見金正恩總書記”",
       "summary": [
         "NHK新聞：川普總統：“有可能會見金正恩總書記”",
@@ -397,7 +376,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "美國收緊人工智慧晶片出口管制，阻止中國企業遠端存取運算",
       "summary": [
         "TechCrunch：美國收緊人工智慧晶片出口管制，阻止中國企業遠端存取運算",
@@ -418,7 +397,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "羅伯派汀森是亞馬遜第一位詹姆士龐德",
       "summary": [
         "The Verge：羅伯派汀森是亞馬遜第一位詹姆士龐德",
@@ -439,7 +418,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "五個歐盟國家宣佈在盧安達建立移民「返回中心」的計劃",
       "summary": [
         "The Guardian：五個歐盟國家宣佈在盧安達建立移民「返回中心」的計劃",
@@ -460,7 +439,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "川普支援黃仁勳重返英偉達執行長",
       "summary": [
         "Investing.com：川普支援黃仁勳重返英偉達執行長",
@@ -477,6 +456,27 @@
           "source": "Tom's Hardware",
           "title": "川普呼籲黃仁勳復任英偉達執行長",
           "url": "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Apple聘請了擁有26年經驗的資深員工Corey Fugman負責付款、銀行卡和錢包服務",
+      "summary": [
+        "Bloomberg Tech：Apple聘請了擁有26年經驗的資深員工Corey Fugman負責付款、銀行卡和錢包服務",
+        "Investing.com：蘋果資深人士 Corey Fugman 將領導 Apple Pay 和電子錢包部門"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Apple聘請了擁有26年經驗的資深員工Corey Fugman負責付款、銀行卡和錢包服務",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/apple-taps-26-year-veteran-corey-fugman-to-run-pay-card-and-wallet-services"
+        },
+        {
+          "source": "Investing.com",
+          "title": "蘋果資深人士 Corey Fugman 將領導 Apple Pay 和電子錢包部門",
+          "url": "https://www.investing.com/news/stock-market-news/apple-veteran-corey-fugman-to-lead-apple-pay-and-wallet-unit--bloomberg-93CH-5030625"
         }
       ]
     }
