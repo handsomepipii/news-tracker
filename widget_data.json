@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 11:57",
+  "updated_at": "2026-11-17 12:27",
   "taiwan": [
     {
       "rank": 1,
@@ -62,33 +62,6 @@
     },
     {
       "rank": 3,
-      "title": "美國多間大型銀行App異常　摩根大通稱軟體漏洞所致",
-      "summary": [
-        "經濟日報：美國多間大型銀行App異常　摩根大通稱軟體漏洞所致",
-        "科技新報：美國多間大型銀行 App 異常，摩根大通稱軟體漏洞所致",
-        "iThome：美國多家銀行APP傳出服務異常，JP摩根表示內部系統軟體臭蟲造成交易延遲"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美國多間大型銀行App異常　摩根大通稱軟體漏洞所致",
-          "url": "https://money.udn.com/money/story/5599/9883051"
-        },
-        {
-          "source": "科技新報",
-          "title": "美國多間大型銀行 App 異常，摩根大通稱軟體漏洞所致",
-          "url": "https://infosecu.technews.tw/2026/11/17/jpmorgan-says-software-bug-slows-its-transactions/"
-        },
-        {
-          "source": "iThome",
-          "title": "美國多家銀行APP傳出服務異常，JP摩根表示內部系統軟體臭蟲造成交易延遲",
-          "url": "https://www.ithome.com.tw/news/180556"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "美情報曝：伊朗擬在華府引爆髒彈！ 　鎖定川普政府高層",
       "summary": [
         "ETtoday：美情報曝：伊朗擬在華府引爆髒彈！ 　鎖定川普政府高層",
@@ -111,6 +84,33 @@
           "source": "自由時報",
           "title": "傳伊朗擬用「髒彈」攻擊華府！川普政府高官成目標、緊急研擬應變",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5643170"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "美國多間大型銀行App異常　摩根大通稱軟體漏洞所致",
+      "summary": [
+        "經濟日報：美國多間大型銀行App異常　摩根大通稱軟體漏洞所致",
+        "科技新報：美國多間大型銀行 App 異常，摩根大通稱軟體漏洞所致",
+        "iThome：美國多家銀行APP傳出服務異常，JP摩根表示內部系統軟體臭蟲造成交易延遲"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美國多間大型銀行App異常　摩根大通稱軟體漏洞所致",
+          "url": "https://money.udn.com/money/story/5599/9883051"
+        },
+        {
+          "source": "科技新報",
+          "title": "美國多間大型銀行 App 異常，摩根大通稱軟體漏洞所致",
+          "url": "https://infosecu.technews.tw/2026/11/17/jpmorgan-says-software-bug-slows-its-transactions/"
+        },
+        {
+          "source": "iThome",
+          "title": "美國多家銀行APP傳出服務異常，JP摩根表示內部系統軟體臭蟲造成交易延遲",
+          "url": "https://www.ithome.com.tw/news/180556"
         }
       ]
     },
