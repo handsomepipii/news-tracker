@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 16:57",
+  "updated_at": "2026-11-17 17:27",
   "taiwan": [
     {
       "rank": 1,
@@ -99,27 +99,6 @@
     },
     {
       "rank": 5,
-      "title": "美媒：輝達董事會目前未考慮讓黃仁勳回任執行長",
-      "summary": [
-        "經濟日報：美媒：輝達董事會目前未考慮讓黃仁勳回任執行長",
-        "ETtoday：快訊／輝達董事會暫未考慮讓黃仁勳回鍋執行長　股價再跌逾4％"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美媒：輝達董事會目前未考慮讓黃仁勳回任執行長",
-          "url": "https://money.udn.com/money/story/5599/9882909"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／輝達董事會暫未考慮讓黃仁勳回鍋執行長　股價再跌逾4％",
-          "url": "https://www.ettoday.net/news/20261117/3273316.htm"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "澤倫斯基：北韓供俄國更多彈道飛彈　盼歐洲盟邦伸援",
       "summary": [
         "自由時報：澤倫斯基：北韓供俄國更多彈道飛彈　盼歐洲盟邦伸援",
@@ -136,6 +115,27 @@
           "source": "經濟日報",
           "title": "澤倫斯基：北韓供俄國更多彈道飛彈　盼歐洲盟邦伸援",
           "url": "https://money.udn.com/money/story/5599/9882928"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "看封關民調「戒慎恐懼」 沈伯洋：投票率高才有得勝機會",
+      "summary": [
+        "自由時報：看封關民調「戒慎恐懼」 沈伯洋：投票率高才有得勝機會",
+        "風傳媒：賴祥蔚觀點：民調不等於實際得票—關鍵藏在投票意願 | 賴祥蔚 | 評論"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "看封關民調「戒慎恐懼」 沈伯洋：投票率高才有得勝機會",
+          "url": "https://news.ltn.com.tw/news/politics/paper/1778744"
+        },
+        {
+          "source": "風傳媒",
+          "title": "賴祥蔚觀點：民調不等於實際得票—關鍵藏在投票意願 | 賴祥蔚 | 評論",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90SlJZTjJqU2tCZmJhTDk1ZzA3c1d3NGJwU05CdEVpOGM2bk9uUy02Nm5QU3pVdURVTEo5WTROa05wRzRaM1dVYkMxbkdzQQ?oc=5"
         }
       ]
     },
@@ -285,27 +285,6 @@
     },
     {
       "rank": 3,
-      "title": "特斯拉將投資30億歐元擴大德國工廠",
-      "summary": [
-        "Yahoo Finance：特斯拉將投資30億歐元擴大德國工廠",
-        "法廣RFI：特斯拉宣佈將對其德國工廠追加投資30億歐元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "特斯拉將投資30億歐元擴大德國工廠",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaUFqNEh2SGdmaFlyd0x5RFBGYW53Vk1neGVHbmxMQ3NxSzZfTFhfMmpSTzN6SnV6ZHExVWM0WXYzWUYySjZWZTBSWFM3Yk45SEZ5c0RuZkNYMEN3LWdIYW1xRnFZTHh5S3FZRG1sUWdCc3o5V2xjRTNrS21PWmd6dHVTRGNIM0N6YjBkXw?oc=5"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "特斯拉宣佈將對其德國工廠追加投資30億歐元",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261116-%E7%89%B9%E6%96%AF%E6%8B%89%E5%AE%A3%E5%B8%83%E5%B0%87%E5%B0%8D%E5%85%B6%E5%BE%B7%E5%9C%8B%E5%B7%A5%E5%BB%A0%E8%BF%BD%E5%8A%A0%E6%8A%95%E8%B3%8730%E5%84%84%E6%AD%90%E5%85%83"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "匯豐銀行折價出售 3 億美元問題資料中心貸款",
       "summary": [
         "Bloomberg Tech：匯豐銀行折價出售 3 億美元問題資料中心貸款",
@@ -326,7 +305,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "美國聯合航空公司通報系統中斷影響出發航班",
       "summary": [
         "CNBC：美國聯合航空公司通報系統中斷影響出發航班",
@@ -347,7 +326,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "由於美國聯邦航空局 (FAA) 地面停留延誤揮之不去，美國聯合航空 (United Airlines) 遭受系統中斷",
       "summary": [
         "MarketWatch：由於美國聯邦航空局 (FAA) 地面停留延誤揮之不去，美國聯合航空 (United Airlines) 遭受系統中斷",
@@ -368,28 +347,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "由於英偉達的持續影響，股市下跌",
-      "summary": [
-        "Washington Post：由於英偉達的持續影響，股市下跌",
-        "Investing.com：為什麼 Advantest 股票今天會下跌？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "由於英偉達的持續影響，股市下跌",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEFFWkM0QU81aEJfWUszZ083R0l0MVEwOGJDTmF5MzJRRnI2eDhLd2RhaUoxVHRzSzRud3JKVEtsNmJmZWxrZkg0R3NpaVQ4QTJGZnZXZGstZy1OMl9TYXotOG41blRaTUVFd21xT2NLUlI1aTE0TThlb0tyX2lJbDE2MGczejYwcmU0UHNwbFd5UXZCYnRISGJXOEh4dXBNMnc?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "為什麼 Advantest 股票今天會下跌？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-advantest-stock-sliding-today-93CH-5031584"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "title": "百度李彥宏表示人工智慧需要貨幣化以避免泡沫風險",
       "summary": [
         "Bloomberg Tech：百度李彥宏表示人工智慧需要貨幣化以避免泡沫風險",
@@ -410,7 +368,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "美國商務部和司法部表示，他們將於 2024 年對 Nvidia 合作夥伴 Megaspeed 進行調查",
       "summary": [
         "Investing.com：美國商務部和司法部表示，他們將於 2024 年對 Nvidia 合作夥伴 Megaspeed 進行調查",
@@ -431,7 +389,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
       "summary": [
         "CNBC：訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
@@ -448,6 +406,42 @@
           "source": "Investing.com",
           "title": "根據 CNBC 報道，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
           "url": "https://www.investing.com/news/stock-market-news/nvidia-warns-chip-buyers-of-legal-risks-tied-to-china-ai-access-cnbc-reports-5031864"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "英國最新就業報告好壞參半，薪資成長放緩、就業人數削減",
+      "summary": [
+        "Bloomberg Markets：英國最新就業報告好壞參半，薪資成長放緩、就業人數削減",
+        "Financial Times：最新資料顯示英國勞動市場好壞參半"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "英國最新就業報告好壞參半，薪資成長放緩、就業人數削減",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/uk-s-latest-jobs-report-is-a-mixed-bag-with-wage-growth-slowing-payrolls-cut"
+        },
+        {
+          "source": "Financial Times",
+          "title": "最新資料顯示英國勞動市場好壞參半",
+          "url": "https://www.ft.com/content/c8d1c636-3b6e-425e-89a5-e46f9471d6b3"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "今天百度港股為何下跌？",
+      "summary": [
+        "Investing.com：今天百度港股為何下跌？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "今天百度港股為何下跌？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-baidu-hk-stock-sliding-today-93CH-5031543"
         }
       ]
     }
