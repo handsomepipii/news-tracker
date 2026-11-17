@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 15:26",
+  "updated_at": "2026-11-17 15:56",
   "taiwan": [
     {
       "rank": 1,
@@ -433,22 +433,22 @@
     },
     {
       "rank": 10,
-      "title": "美國商務部和司法部表示，他們將於 2024 年對 Nvidia 合作夥伴 Megaspeed 進行調查",
+      "title": "百度李彥宏表示人工智慧需要貨幣化以避免泡沫風險",
       "summary": [
-        "Investing.com：美國商務部和司法部表示，他們將於 2024 年對 Nvidia 合作夥伴 Megaspeed 進行調查",
-        "CNBC：美國機構稱他們將於 2024 年啟動對 Nvidia 合作夥伴 Megaspeed 的調查"
+        "Bloomberg Tech：百度李彥宏表示人工智慧需要貨幣化以避免泡沫風險",
+        "Investing.com：百度執行長表示人工智慧投資必須帶來利潤以避免泡沫"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "美國商務部和司法部表示，他們將於 2024 年對 Nvidia 合作夥伴 Megaspeed 進行調查",
-          "url": "https://www.investing.com/news/stock-market-news/us-commerce-dept-doj-say-they-investigated-nvidia-partner-megaspeed-in-2024-5031631"
+          "source": "Bloomberg Tech",
+          "title": "百度李彥宏表示人工智慧需要貨幣化以避免泡沫風險",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/baidu-s-robin-li-says-ai-needs-monetization-to-avoid-bubble-risk"
         },
         {
-          "source": "CNBC",
-          "title": "美國機構稱他們將於 2024 年啟動對 Nvidia 合作夥伴 Megaspeed 的調查",
-          "url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html"
+          "source": "Investing.com",
+          "title": "百度執行長表示人工智慧投資必須帶來利潤以避免泡沫",
+          "url": "https://www.investing.com/news/stock-market-news/baidu-ceosays-ai-investment-must-deliver-profits-to-avoid-bubble-5031848"
         }
       ]
     }
