@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 03:28",
+  "updated_at": "2026-11-18 03:56",
   "taiwan": [
     {
       "rank": 1,
@@ -30,19 +30,14 @@
     },
     {
       "rank": 2,
-      "title": "黃仁勳辭職4日後個人社群打破沉默，表示若董事會認可仍有意願回鍋擔任NVIDIA執行長",
+      "title": "黃仁勳辭職後首發聲：若輝達董事會要求　願意回鍋任執行長",
       "summary": [
-        "癮科技Cool3c：黃仁勳辭職4日後個人社群打破沉默，表示若董事會認可仍有意願回鍋擔任NVIDIA執行長",
         "自由時報：黃仁勳辭職後首發聲：若輝達董事會要求　願意回鍋任執行長",
-        "經濟日報：黃仁勳辭職後首發聲：若輝達董事會要求　願意回鍋任執行長"
+        "經濟日報：黃仁勳辭職後首發聲：若輝達董事會要求　願意回鍋任執行長",
+        "ETtoday：快訊／黃仁勳請辭後首發聲！「若董事會同意」願重返輝達任CEO"
       ],
       "media_count": 3,
       "links": [
-        {
-          "source": "癮科技Cool3c",
-          "title": "黃仁勳辭職4日後個人社群打破沉默，表示若董事會認可仍有意願回鍋擔任NVIDIA執行長",
-          "url": "https://www.cool3c.com/article/254179"
-        },
         {
           "source": "自由時報",
           "title": "黃仁勳辭職後首發聲：若輝達董事會要求　願意回鍋任執行長",
@@ -52,32 +47,16 @@
           "source": "經濟日報",
           "title": "黃仁勳辭職後首發聲：若輝達董事會要求　願意回鍋任執行長",
           "url": "https://money.udn.com/money/story/5599/9885341"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／黃仁勳請辭後首發聲！「若董事會同意」願重返輝達任CEO",
+          "url": "https://www.ettoday.net/news/20261118/3273947.htm"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "AI需求續升溫 資誠：AI新創邁向獨角獸  關鍵在商業能力",
-      "summary": [
-        "自由時報：AI需求續升溫 資誠：AI新創邁向獨角獸  關鍵在商業能力",
-        "科技新報：OpenAI 奧特曼談黃仁勳：英雄並不完美，強勁市場需求將支撐 AI 產業發展"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "AI需求續升溫 資誠：AI新創邁向獨角獸  關鍵在商業能力",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5643766"
-        },
-        {
-          "source": "科技新報",
-          "title": "OpenAI 奧特曼談黃仁勳：英雄並不完美，強勁市場需求將支撐 AI 產業發展",
-          "url": "https://technews.tw/2026/11/17/sam-altman-speaks-at-silicon-valley-and-the-world-2/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "黃暐瀚質疑蔣萬安選舉公報　鍾沛君列3重點槓上：舔綠還裝就矯情了",
       "summary": [
         "ETtoday：黃暐瀚質疑蔣萬安選舉公報　鍾沛君列3重點槓上：舔綠還裝就矯情了",
@@ -98,7 +77,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "SpaceX 採高通 5G 晶片方案，有望降低數萬座基地臺部署成本",
       "summary": [
         "科技新報：SpaceX 採高通 5G 晶片方案，有望降低數萬座基地臺部署成本",
@@ -119,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "黃仁勳去職牽動AI建設佈局　輝達融資平臺恐趨保守",
       "summary": [
         "經濟日報：黃仁勳去職牽動AI建設佈局　輝達融資平臺恐趨保守",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "特斯拉砸33億美元擴德國廠 年產百萬輛Cybercab",
       "summary": [
         "MoneyDJ理財網：特斯拉砸33億美元擴德國廠 年產百萬輛Cybercab",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "女星全裸濕身誘惑傑克葛倫霍！《滯留》大談火辣驚悚禁戀",
       "summary": [
         "自由時報：女星全裸濕身誘惑傑克葛倫霍！《滯留》大談火辣驚悚禁戀",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "烏山頭水質符合標準　臺南經發局：馬英九時期研議水庫光電",
       "summary": [
         "ETtoday：烏山頭水質符合標準　臺南經發局：馬英九時期研議水庫光電",
@@ -199,6 +178,27 @@
           "source": "中時新聞",
           "title": "烏山頭水質符合標準臺南經發局：馬英九時期核准水庫光電- 寶島",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hdEpWN2NsQ0tJdVBkM1pNcWxOT2pRS1gyLXVpY2lieG5GSVRGbVFRTmJoUWZwTDEtSkQtdkpRcklqY1IxR3VzWUYyTml4T21YSzdPTW9DeXMxcnp6MG9NVHdrMHVhUGUzQ2luOUR3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普承諾力挺東協盟友 笑稱盧比歐不接電話就開除",
+      "summary": [
+        "經濟日報：川普承諾力挺東協盟友 笑稱盧比歐不接電話就開除",
+        "ETtoday：川普喊話盟友「有事直接打給我」突開盧比歐玩笑：沒接電話就開除"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普承諾力挺東協盟友 笑稱盧比歐不接電話就開除",
+          "url": "https://money.udn.com/money/story/5599/9885099"
+        },
+        {
+          "source": "ETtoday",
+          "title": "川普喊話盟友「有事直接打給我」突開盧比歐玩笑：沒接電話就開除",
+          "url": "https://www.ettoday.net/news/20261118/3273943.htm"
         }
       ]
     },
@@ -377,48 +377,6 @@
     },
     {
       "rank": 6,
-      "title": "英國最新就業報告好壞參半，薪資成長放緩、就業人數削減",
-      "summary": [
-        "Bloomberg Markets：英國最新就業報告好壞參半，薪資成長放緩、就業人數削減",
-        "Financial Times：最新資料顯示英國勞動市場好壞參半"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "英國最新就業報告好壞參半，薪資成長放緩、就業人數削減",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/uk-s-latest-jobs-report-is-a-mixed-bag-with-wage-growth-slowing-payrolls-cut"
-        },
-        {
-          "source": "Financial Times",
-          "title": "最新資料顯示英國勞動市場好壞參半",
-          "url": "https://www.ft.com/content/c8d1c636-3b6e-425e-89a5-e46f9471d6b3"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "美國針對中國遠端晶片存取實施新限制",
-      "summary": [
-        "Bloomberg Markets：美國針對中國遠端晶片存取實施新限制",
-        "Bloomberg Tech：美國採取措施限制中國遠端存取英偉達晶片"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "美國針對中國遠端晶片存取實施新限制",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/the-china-show-11-17-2026-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "美國採取措施限制中國遠端存取英偉達晶片",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/us-moves-to-curb-china-s-remote-access-to-nvidia-s-chips-video"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "德意志銀行因洩密事件為自己辯護，股價下跌 5%",
       "summary": [
         "Investing.com：德意志銀行因洩密事件為自己辯護，股價下跌 5%",
@@ -439,7 +397,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "美國晶片限制引發新一輪人工智慧拋售，歐洲股市下跌",
       "summary": [
         "Bloomberg Markets：美國晶片限制引發新一輪人工智慧拋售，歐洲股市下跌",
@@ -460,7 +418,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "日本在俄羅斯涉嫌入侵其領空後派遣噴射機",
       "summary": [
         "BBC World：日本在俄羅斯涉嫌入侵其領空後派遣噴射機",
@@ -477,6 +435,48 @@
           "source": "德國之聲",
           "title": "俄羅斯軍機侵犯日本領空 飛經韓國臺灣的防空識別區",
           "url": "https://www.dw.com/zh/俄罗斯军机侵犯日本领空-飞经韩国台湾的防空识别区/a-79967934?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "烏克蘭在激烈的交火中損壞了通往克里米亞的橋樑",
+      "summary": [
+        "Financial Times：烏克蘭在激烈的交火中損壞了通往克里米亞的橋樑",
+        "CNBC：烏克蘭破壞了普丁珍貴的克里米亞大橋，澤連斯基稱讚“前所未有的行動”"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "烏克蘭在激烈的交火中損壞了通往克里米亞的橋樑",
+          "url": "https://www.ft.com/content/eb8031c0-a96a-4408-b762-b92ff0402f82?syn-25a6b1a6=1"
+        },
+        {
+          "source": "CNBC",
+          "title": "烏克蘭破壞了普丁珍貴的克里米亞大橋，澤連斯基稱讚“前所未有的行動”",
+          "url": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "中美如何就人工智慧風險、機器人和晶片走私發生衝突",
+      "summary": [
+        "Bloomberg Tech：中美如何就人工智慧風險、機器人和晶片走私發生衝突",
+        "Tom's Hardware：人工智慧安全立法存在利益衝突問題——美國大型實驗室警告風險，就像更便宜的中國開放重量模型侵蝕其商業優勢一樣"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "中美如何就人工智慧風險、機器人和晶片走私發生衝突",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/how-china-and-us-clash-over-ai-risks-robots-and-chip-smuggling"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "人工智慧安全立法存在利益衝突問題——美國大型實驗室警告風險，就像更便宜的中國開放重量模型侵蝕其商業優勢一樣",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-safety-legislation-has-a-conflict-of-interest-problem-big-us-labs-are-warning-of-risk-just-as-cheaper-chinese-open-weight-models-erode-their-commercial-edge"
         }
       ]
     }
