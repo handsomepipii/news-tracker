@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-17 13:57",
+  "updated_at": "2026-11-17 14:27",
   "taiwan": [
     {
       "rank": 1,
+      "title": "聯發科 ASIC業績熱- 日報",
+      "summary": [
+        "工商時報：聯發科 ASIC業績熱- 日報",
+        "自由時報：臺酒副總廖志堅辭世 新竹市多項文化活動重要創始推手",
+        "風傳媒：新北環狀線板橋站捷運開發案正式動工！侯友宜：打造新北金融與數位科技發展新核心| 鄧亦涵 | 新聞"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "工商時報",
+          "title": "聯發科 ASIC業績熱- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aaDFGVUdOZ29RMzRiT3I4aHhHbHdsZVlyWVctbXg0V3lKQUVqS1E3Rng3X1luVGNMTExNWl85cjkzeGwxdVVtNEJ2ZjI2T1VCeDZMaFdCSUNhYmJRTmlZ?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "臺酒副總廖志堅辭世 新竹市多項文化活動重要創始推手",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5643234"
+        },
+        {
+          "source": "風傳媒",
+          "title": "新北環狀線板橋站捷運開發案正式動工！侯友宜：打造新北金融與數位科技發展新核心| 鄧亦涵 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wcUlRR3hBQmJKVEJ2YWFHS01zS08wUXd0QTUybkIxV1BlTXE1dmpLRE83aVdyc09fQS1FLWc2WEMwbFJUbWJLSVp6eDdOZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "黃仁勳回歸夢碎？CNBC：輝達董事會未考慮回任 股價跌勢擴大",
       "summary": [
         "經濟日報：黃仁勳回歸夢碎？CNBC：輝達董事會未考慮回任 股價跌勢擴大",
@@ -29,7 +56,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "美情報曝：伊朗擬在華府引爆髒彈！ 　鎖定川普政府高層",
       "summary": [
         "ETtoday：美情報曝：伊朗擬在華府引爆髒彈！ 　鎖定川普政府高層",
@@ -52,33 +79,6 @@
           "source": "自由時報",
           "title": "傳伊朗擬用「髒彈」攻擊華府！川普政府高官成目標、緊急研擬應變",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5643170"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "聯發科 ASIC業績熱- 日報",
-      "summary": [
-        "工商時報：聯發科 ASIC業績熱- 日報",
-        "自由時報：臺酒副總廖志堅辭世 新竹市多項文化活動重要創始推手",
-        "風傳媒：新北環狀線板橋站捷運開發案正式動工！侯友宜：打造新北金融與數位科技發展新核心| 鄧亦涵 | 新聞"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "聯發科 ASIC業績熱- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aaDFGVUdOZ29RMzRiT3I4aHhHbHdsZVlyWVctbXg0V3lKQUVqS1E3Rng3X1luVGNMTExNWl85cjkzeGwxdVVtNEJ2ZjI2T1VCeDZMaFdCSUNhYmJRTmlZ?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "臺酒副總廖志堅辭世 新竹市多項文化活動重要創始推手",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5643234"
-        },
-        {
-          "source": "風傳媒",
-          "title": "新北環狀線板橋站捷運開發案正式動工！侯友宜：打造新北金融與數位科技發展新核心| 鄧亦涵 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wcUlRR3hBQmJKVEJ2YWFHS01zS08wUXd0QTUybkIxV1BlTXE1dmpLRE83aVdyc09fQS1FLWc2WEMwbFJUbWJLSVp6eDdOZw?oc=5"
         }
       ]
     },
@@ -153,48 +153,6 @@
     },
     {
       "rank": 7,
-      "title": "Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠",
-      "summary": [
-        "經濟日報：Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠",
-        "INSIDE硬塞：郭明錤看好 Google TPU 出貨能見度延伸至 2029 年，輝達換帥不確定性成助力，聯發科最受惠"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠",
-          "url": "https://money.udn.com/money/story/123398/9882704"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "郭明錤看好 Google TPU 出貨能見度延伸至 2029 年，輝達換帥不確定性成助力，聯發科最受惠",
-          "url": "https://www.inside.com.tw/article/42927-kuo-google-tpu-visibility-2029-nvidia-ceo-succession-mediatek"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
-      "summary": [
-        "經濟日報：1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
-        "自由時報：10國簽署舊金山宣言 美聯手盟友 強化AI供應鏈抗中"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
-          "url": "https://money.udn.com/money/story/5599/9882719"
-        },
-        {
-          "source": "自由時報",
-          "title": "10國簽署舊金山宣言 美聯手盟友 強化AI供應鏈抗中",
-          "url": "https://ec.ltn.com.tw/article/paper/1778747"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
       "summary": [
         "自由時報：市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
@@ -215,7 +173,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭",
       "summary": [
         "自由時報：川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭",
@@ -232,6 +190,48 @@
           "source": "經濟日報",
           "title": "川普啟程訪亞洲　預告美中俄領袖將談去核化、伊朗和烏克蘭",
           "url": "https://money.udn.com/money/story/5599/9882886"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "克宮：普丁與川普擬APEC期間雙邊會談　計畫籌備中",
+      "summary": [
+        "自由時報：克宮：普丁與川普擬APEC期間雙邊會談　計畫籌備中",
+        "經濟日報：克宮：普丁與川普擬APEC期間雙邊會談　計畫籌備中"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "克宮：普丁與川普擬APEC期間雙邊會談　計畫籌備中",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643075"
+        },
+        {
+          "source": "經濟日報",
+          "title": "克宮：普丁與川普擬APEC期間雙邊會談　計畫籌備中",
+          "url": "https://money.udn.com/money/story/5599/9882903"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "藍營重返執政「2032兩岸統一貨幣」？媒體人提3質疑「香港仍在用港幣」， 點名韓國瑜盧秀燕表態",
+      "summary": [
+        "風傳媒：藍營重返執政「2032兩岸統一貨幣」？媒體人提3質疑「香港仍在用港幣」， 點名韓國瑜盧秀燕表態",
+        "自由時報：2032兩岸統一貨幣？黃暐瀚「3質疑」：連香港都還在用港幣"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "藍營重返執政「2032兩岸統一貨幣」？媒體人提3質疑「香港仍在用港幣」， 點名韓國瑜盧秀燕表態",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rVW9yeS1mVVpLUmFON25fUjJyd1NLUENmeVdxZFcwbVRfM1dSTDE4ZENQZEJ4ZXhCaThkalBPNWEta3dJZWQ0aExjWlFDYUI4?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "2032兩岸統一貨幣？黃暐瀚「3質疑」：連香港都還在用港幣",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5643110"
         }
       ]
     }
@@ -330,27 +330,6 @@
     },
     {
       "rank": 4,
-      "title": "奧特曼表示，黃蜂下臺後，人工智慧產業“會好起來”",
-      "summary": [
-        "Bloomberg Tech：奧特曼表示，黃蜂下臺後，人工智慧產業“會好起來”",
-        "Yahoo Finance：奧爾特曼表示，黃蜂下臺後，人工智慧產業“會好起來”"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "奧特曼表示，黃蜂下臺後，人工智慧產業“會好起來”",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/altman-says-ai-industry-will-be-fine-after-huang-s-ouster"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "奧爾特曼表示，黃蜂下臺後，人工智慧產業“會好起來”",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV3IyNXlCUzhndTdjbGlqNkhKNXlweGlUQ1VzSnFLRHlubjN6cjJLaUYtUEo4bnFFb3hxdk90MjAxVWJtbmRMZHpKazljcGpSQ3lFUF9pdTEtMlJmY2ZVaUJYSHJFd09SbHN4UzJ1UFdMRUVOemdtQ3pJaXFIYmZjV2RqaHd6aC1nMWl0MEVDd0JIYmwzNC0w?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "根據 CNBC 報道，英偉達董事會沒有討論黃仁勳重新擔任執行長的問題",
       "summary": [
         "Investing.com：根據 CNBC 報道，英偉達董事會沒有討論黃仁勳重新擔任執行長的問題",
@@ -371,7 +350,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "川普呼籲黃仁勳復任英偉達執行長",
       "summary": [
         "Tom's Hardware：川普呼籲黃仁勳復任英偉達執行長",
@@ -392,7 +371,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "雪佛龍接近以約 50 億美元收購黑石支援的美國海灣石油生產商",
       "summary": [
         "Financial Times：雪佛龍接近以約 50 億美元收購黑石支援的美國海灣石油生產商",
@@ -413,7 +392,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "加州 AG 就流氓代理事件起訴 OpenAI",
       "summary": [
         "TechCrunch：加州 AG 就流氓代理事件起訴 OpenAI",
@@ -430,6 +409,27 @@
           "source": "The Verge",
           "title": "加州因流氓人工智慧駭客事件起訴 OpenAI",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "英特爾股價一日下跌28.6% 股東起訴英特爾及其執行長和財務長",
+      "summary": [
+        "Ars Technica：英特爾股價一日下跌28.6% 股東起訴英特爾及其執行長和財務長",
+        "Yahoo Finance：投資者對該公司提起集體訴訟後，英特爾股價下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Ars Technica",
+          "title": "英特爾股價一日下跌28.6% 股東起訴英特爾及其執行長和財務長",
+          "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "投資者對該公司提起集體訴訟後，英特爾股價下跌",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV3h6RTBxcmh0Z3NRamd4RDE5TGstaEdFUzczYWhUazBDT2xxZjEyVHpYWGg2RllOTGtxcXZmN2kzWnJxdm5peDR3bDlaZG9CLTBZR2tFWnRvcGFlb3QzV2pxNzVWdlFNRktGcWNHM1djNmlqM0hWdE05WTFqSHFURUtmb1k5Ykh3ck4wRE1PcElBUWY4UU10Mk1OeWlhS2s4S2hTd2ZTaGNoQU9pZEhtMnVxZmVWRGVrZHA5MGIwcjVDSnppbWxaUk9teWM2X3hFSzVNMUdMZDFmb0E?oc=5"
         }
       ]
     },
