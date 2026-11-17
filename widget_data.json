@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 19:56",
+  "updated_at": "2026-11-17 20:26",
   "taiwan": [
     {
       "rank": 1,
@@ -153,48 +153,6 @@
     },
     {
       "rank": 7,
-      "title": "點燈臺北101挺黃仁勳！矢板明夫曝「1隱憂」：感動或質疑都有道理",
-      "summary": [
-        "自由時報：點燈臺北101挺黃仁勳！矢板明夫曝「1隱憂」：感動或質疑都有道理",
-        "ETtoday：臺北101點燈挺黃仁勳！　矢板明夫曝隱憂：不能代表全體臺灣人"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "點燈臺北101挺黃仁勳！矢板明夫曝「1隱憂」：感動或質疑都有道理",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5643098"
-        },
-        {
-          "source": "ETtoday",
-          "title": "臺北101點燈挺黃仁勳！　矢板明夫曝隱憂：不能代表全體臺灣人",
-          "url": "https://www.ettoday.net/news/20261117/3273420.htm"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "影／力挺黃仁勳！川普稱國安未受威脅 還酸中國美女入境就被當間諜",
-      "summary": [
-        "經濟日報：影／力挺黃仁勳！川普稱國安未受威脅 還酸中國美女入境就被當間諜",
-        "ETtoday：川普力保黃仁勳！　反酸：中國美女總被當間諜"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "影／力挺黃仁勳！川普稱國安未受威脅 還酸中國美女入境就被當間諜",
-          "url": "https://money.udn.com/money/story/5599/9882997"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普力保黃仁勳！　反酸：中國美女總被當間諜",
-          "url": "https://www.ettoday.net/news/20261117/3273358.htm"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "川普鬆口了：黃樂可能不是間諜",
       "summary": [
         "自由時報：川普鬆口了：黃樂可能不是間諜",
@@ -215,7 +173,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "華郵：川普持有輝達股票價值大增，最高達 6,200 萬美元",
       "summary": [
         "科技新報：華郵：川普持有輝達股票價值大增，最高達 6,200 萬美元",
@@ -232,6 +190,48 @@
           "source": "經濟日報",
           "title": "川普有多少輝達股票？估計多達5,770萬美元！美媒揭露他交易輝達103次",
           "url": "https://money.udn.com/money/story/123398/9883173"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "微軟揭露Microsoft 365全球當機原因，潛伏3個月的程式錯誤釀禍",
+      "summary": [
+        "iThome：微軟揭露Microsoft 365全球當機原因，潛伏3個月的程式錯誤釀禍",
+        "科技新報：微軟公佈 Microsoft 365 大當機原因：潛伏四個月的程式缺陷加上兩個意外，八成伺服器停擺"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "微軟揭露Microsoft 365全球當機原因，潛伏3個月的程式錯誤釀禍",
+          "url": "https://www.ithome.com.tw/news/180549"
+        },
+        {
+          "source": "科技新報",
+          "title": "微軟公佈 Microsoft 365 大當機原因：潛伏四個月的程式缺陷加上兩個意外，八成伺服器停擺",
+          "url": "https://technews.tw/2026/11/17/microsoft-reveals-hidden-bug-behind-global-outlook-and-microsoft-365-outage/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普力保黃仁勳！　反酸：中國美女總被當間諜",
+      "summary": [
+        "ETtoday：川普力保黃仁勳！　反酸：中國美女總被當間諜",
+        "自由時報：「黃仁勳瘋了」！中招最老套手段 《衛報》揭密中國美人計間諜內幕"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "川普力保黃仁勳！　反酸：中國美女總被當間諜",
+          "url": "https://www.ettoday.net/news/20261117/3273358.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "「黃仁勳瘋了」！中招最老套手段 《衛報》揭密中國美人計間諜內幕",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5643256"
         }
       ]
     }
