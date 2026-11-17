@@ -1,19 +1,30 @@
 {
-  "updated_at": "2026-11-18 00:29",
+  "updated_at": "2026-11-18 00:57",
   "taiwan": [
     {
       "rank": 1,
-      "title": "屏東市長周佳琪拚連任 領軍國民黨選將路口連線造勢",
+      "title": "匹克球》APEL臺北站因雨延賽 聯盟公告賽程異動",
       "summary": [
-        "自由時報：屏東市長周佳琪拚連任 領軍國民黨選將路口連線造勢",
-        "TVBS新聞：臺南市長公辦政見會 陳亭妃.謝龍介4人交鋒｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+        "自由時報：匹克球》APEL臺北站因雨延賽 聯盟公告賽程異動",
+        "工商時報：熙特爾結盟美韓大廠拓AI能源版圖- 日報",
+        "ETtoday：快訊／致癌油4高層免回看守所　中聯油總經理交保金400萬變2千萬"
       ],
-      "media_count": 2,
+      "media_count": 4,
       "links": [
         {
           "source": "自由時報",
-          "title": "屏東市長周佳琪拚連任 領軍國民黨選將路口連線造勢",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5643371"
+          "title": "匹克球》APEL臺北站因雨延賽 聯盟公告賽程異動",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5643670"
+        },
+        {
+          "source": "工商時報",
+          "title": "熙特爾結盟美韓大廠拓AI能源版圖- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvamJEMnlwM1J2eWgyaEU5X3dncEV1MzBDTzRfMTZEUzdFWmJYX1RfSWctWm1PODVsNi1kZVJNcExPcmJMM2doU1RHTUJ3R3BxSWFjSXBTcUVNUXQzNEg0?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／致癌油4高層免回看守所　中聯油總經理交保金400萬變2千萬",
+          "url": "https://www.ettoday.net/news/20261117/3273716.htm"
         },
         {
           "source": "TVBS新聞",
@@ -24,48 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "美收緊中國遠端使用算力  花旗：有利中國晶片產業鏈",
-      "summary": [
-        "科技新報：美收緊中國遠端使用算力  花旗：有利中國晶片產業鏈",
-        "MoneyDJ理財網：美收緊中國遠端使用算力花旗：有利陸晶片產業鏈- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "美收緊中國遠端使用算力  花旗：有利中國晶片產業鏈",
-          "url": "https://technews.tw/2026/11/17/us-tightens-china-remote-computing-access-citi-benefits-chip-industry-chain/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "美收緊中國遠端使用算力花旗：有利陸晶片產業鏈- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYTRidnN2c01iVlNJV0xUR0Naa1R5dHp1dVE0QzR4RWlkNW5xREhUeDFHMDA0cEtvTlEycTVQZmpiLWhySGh5RE1VWVVsYUdRUEp5d1Nqa0k2eDFjbWhvX1JwUzZqU1p1dWVVVHEwbE1sdlZpS3BHQ3ZURVRPUm1GYzN3eVphei15SzhpdU81aXpPdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "美國遠端存取新規防堵中國租用 AI 算力，新加坡、馬來西亞等 5 國晶片出口改採許可制",
-      "summary": [
-        "INSIDE硬塞：美國遠端存取新規防堵中國租用 AI 算力，新加坡、馬來西亞等 5 國晶片出口改採許可制",
-        "科技報橘：美國堵中國企業遠端租 GPU：AI 晶片出口新加坡、馬來西亞等 5 國改採許可制"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "INSIDE硬塞",
-          "title": "美國遠端存取新規防堵中國租用 AI 算力，新加坡、馬來西亞等 5 國晶片出口改採許可制",
-          "url": "https://www.inside.com.tw/article/42931-us-bis-remote-access-ai-chips-rule-singapore-malaysia-license"
-        },
-        {
-          "source": "科技報橘",
-          "title": "美國堵中國企業遠端租 GPU：AI 晶片出口新加坡、馬來西亞等 5 國改採許可制",
-          "url": "https://techorange.com/2026/11/17/us-curbs-remote-access-ai-chips/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "捲入輝達風暴！美司法部與商務部發聯合宣告 澄清調查Megaspeed始末",
       "summary": [
         "經濟日報：捲入輝達風暴！美司法部與商務部發聯合宣告 澄清調查Megaspeed始末",
@@ -86,7 +55,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "全美航空交通大亂  航空四雄估損失 3.45 億美元",
       "summary": [
         "科技新報：全美航空交通大亂  航空四雄估損失 3.45 億美元",
@@ -107,7 +76,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "SpaceX 星艦完成創舉、股價仍軟  星鏈面臨調查",
       "summary": [
         "科技新報：SpaceX 星艦完成創舉、股價仍軟  星鏈面臨調查",
@@ -128,7 +97,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "紐時：黃仁勳女兒黃敏珊在輝達呼風喚雨　強勢管理風格惹議",
       "summary": [
         "經濟日報：紐時：黃仁勳女兒黃敏珊在輝達呼風喚雨　強勢管理風格惹議",
@@ -149,7 +118,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "美晶片禁令下另闢蹊徑　中企藉美AI模型訓練自家系統",
       "summary": [
         "經濟日報：美晶片禁令下另闢蹊徑　中企藉美AI模型訓練自家系統",
@@ -170,7 +139,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "韓 OLED 面板出貨量超車中國  睽違兩年重返龍頭",
       "summary": [
         "科技新報：韓 OLED 面板出貨量超車中國  睽違兩年重返龍頭",
@@ -191,7 +160,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "美國超大規模資料中心耗能與碳排驚人，一年排放量直逼丹麥",
       "summary": [
         "科技新報：美國超大規模資料中心耗能與碳排驚人，一年排放量直逼丹麥",
@@ -210,33 +179,80 @@
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tNGRSalE4R0hRNUNsbTh3c2YzdUs3VXFaaWwyTWVLRWRTcEFTWWhscld4YXVhbXNxRWRxdkV6X0l1M09VM1JycWFqOFk3R216SmpRSHNLOW95RmgtLU84?oc=5"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "貪汙指控與彈劾威脅夾擊　蒙古國總統宣佈請辭",
+      "summary": [
+        "經濟日報：貪汙指控與彈劾威脅夾擊　蒙古國總統宣佈請辭",
+        "自由時報：貪汙指控與彈劾威脅夾擊 蒙古國總統今宣佈請辭"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "貪汙指控與彈劾威脅夾擊　蒙古國總統宣佈請辭",
+          "url": "https://money.udn.com/money/story/5599/9884230"
+        },
+        {
+          "source": "自由時報",
+          "title": "貪汙指控與彈劾威脅夾擊 蒙古國總統今宣佈請辭",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643743"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "AI需求續升溫 資誠：AI新創邁向獨角獸  關鍵在商業能力",
+      "summary": [
+        "自由時報：AI需求續升溫 資誠：AI新創邁向獨角獸  關鍵在商業能力",
+        "科技新報：OpenAI 奧特曼談黃仁勳：英雄並不完美，強勁市場需求將支撐 AI 產業發展"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "AI需求續升溫 資誠：AI新創邁向獨角獸  關鍵在商業能力",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5643766"
+        },
+        {
+          "source": "科技新報",
+          "title": "OpenAI 奧特曼談黃仁勳：英雄並不完美，強勁市場需求將支撐 AI 產業發展",
+          "url": "https://technews.tw/2026/11/17/sam-altman-speaks-at-silicon-valley-and-the-world-2/"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "美國採取措施限制中國遠端存取英偉達人工智慧晶片",
+      "title": "Nvidia 黃仁勳表示願意重新擔任執行長，等待董事會決定",
       "summary": [
-        "Bloomberg Markets：美國採取措施限制中國遠端存取英偉達人工智慧晶片",
-        "Investing.com：美國收緊規則限制中國獲得海外先進人工智慧晶片",
-        "Bloomberg Tech：美國採取措施限制中國遠端存取英偉達晶片"
+        "Bloomberg Tech：Nvidia 黃仁勳表示願意重新擔任執行長，等待董事會決定",
+        "The Verge：黃仁勳表示他願意重新擔任 Nvidia 執行長",
+        "TechCrunch：黃仁勳表示，如果被允許重新擔任 Nvidia 執行長，他將感到“榮幸”"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "美國採取措施限制中國遠端存取英偉達人工智慧晶片",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/the-asia-trade-11-17-2026-video"
-        },
-        {
-          "source": "Investing.com",
-          "title": "美國收緊規則限制中國獲得海外先進人工智慧晶片",
-          "url": "https://www.investing.com/news/stock-market-news/china-chipmakers-rally-as-us-curbs-threaten-ai-developers-access-to-nvidia-5031619"
-        },
-        {
           "source": "Bloomberg Tech",
-          "title": "美國採取措施限制中國遠端存取英偉達晶片",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/us-moves-to-curb-china-s-remote-access-to-nvidia-s-chips-video"
+          "title": "Nvidia 黃仁勳表示願意重新擔任執行長，等待董事會決定",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/huang-is-willing-to-return-as-nvidia-ceo-if-board-allows-it"
+        },
+        {
+          "source": "The Verge",
+          "title": "黃仁勳表示他願意重新擔任 Nvidia 執行長",
+          "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "黃仁勳表示，如果被允許重新擔任 Nvidia 執行長，他將感到“榮幸”",
+          "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "黃仁勳表示，他將「很榮幸」再次擔任 Nvidia 執行長",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees"
         }
       ]
     },
@@ -350,48 +366,6 @@
     },
     {
       "rank": 6,
-      "title": "百度李彥宏表示人工智慧需要貨幣化以避免泡沫風險",
-      "summary": [
-        "Bloomberg Tech：百度李彥宏表示人工智慧需要貨幣化以避免泡沫風險",
-        "Investing.com：百度執行長表示人工智慧投資必須帶來利潤以避免泡沫"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "百度李彥宏表示人工智慧需要貨幣化以避免泡沫風險",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/baidu-s-robin-li-says-ai-needs-monetization-to-avoid-bubble-risk"
-        },
-        {
-          "source": "Investing.com",
-          "title": "百度執行長表示人工智慧投資必須帶來利潤以避免泡沫",
-          "url": "https://www.investing.com/news/stock-market-news/baidu-ceosays-ai-investment-must-deliver-profits-to-avoid-bubble-5031848"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "美國商務部和司法部表示，他們將於 2024 年對 Nvidia 合作夥伴 Megaspeed 進行調查",
-      "summary": [
-        "Investing.com：美國商務部和司法部表示，他們將於 2024 年對 Nvidia 合作夥伴 Megaspeed 進行調查",
-        "CNBC：美國機構稱他們將於 2024 年啟動對 Nvidia 合作夥伴 Megaspeed 的調查"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "美國商務部和司法部表示，他們將於 2024 年對 Nvidia 合作夥伴 Megaspeed 進行調查",
-          "url": "https://www.investing.com/news/stock-market-news/us-commerce-dept-doj-say-they-investigated-nvidia-partner-megaspeed-in-2024-5031631"
-        },
-        {
-          "source": "CNBC",
-          "title": "美國機構稱他們將於 2024 年啟動對 Nvidia 合作夥伴 Megaspeed 的調查",
-          "url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "萬斯表示，他將在「明年某個時候」就 2028 年美國總統競選做出決定",
       "summary": [
         "BBC World：萬斯表示，他將在「明年某個時候」就 2028 年美國總統競選做出決定",
@@ -412,7 +386,28 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "title": "美國公佈 Megaspeed 探測器細節，稱調查將於 2024 年開始",
+      "summary": [
+        "Investing.com：美國公佈 Megaspeed 探測器細節，稱調查將於 2024 年開始",
+        "CNBC：美國機構稱他們將於 2024 年啟動對 Nvidia 合作夥伴 Megaspeed 的調查"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "美國公佈 Megaspeed 探測器細節，稱調查將於 2024 年開始",
+          "url": "https://www.investing.com/news/stock-market-news/us-releases-details-ofmegaspeed-probe-says-investigation-began-in-2024-5031663"
+        },
+        {
+          "source": "CNBC",
+          "title": "美國機構稱他們將於 2024 年啟動對 Nvidia 合作夥伴 Megaspeed 的調查",
+          "url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "德意志銀行 1500 萬份檔案外洩揭露系統性故障",
       "summary": [
         "Financial Times：德意志銀行 1500 萬份檔案外洩揭露系統性故障",
@@ -433,7 +428,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Avio 獲得芬蘭 Iceye 20 億歐元收購要約",
       "summary": [
         "Bloomberg Tech：Avio 獲得芬蘭 Iceye 20 億歐元收購要約",
@@ -450,6 +445,27 @@
           "source": "Financial Times",
           "title": "衛星集團 Iceye 對義大利火箭製造商 Avio 發起 20 億歐元收購",
           "url": "https://www.ft.com/content/9fed851a-d75f-4f7e-8afa-700f3786391d?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
+      "summary": [
+        "CNBC：訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
+        "Investing.com：根據 CNBC 報道，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "訊息人士告訴 CNBC，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
+          "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "根據 CNBC 報道，英偉達警告晶片買家注意與中國人工智慧接入相關的法律風險",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-warns-chip-buyers-of-legal-risks-tied-to-china-ai-access-cnbc-reports-5031864"
         }
       ]
     }
