@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-17 20:57",
+  "updated_at": "2026-11-17 21:27",
   "taiwan": [
     {
       "rank": 1,
-      "title": "美情報曝：伊朗擬在華府引爆髒彈！ 　鎖定川普政府高層",
-      "summary": [
-        "ETtoday：美情報曝：伊朗擬在華府引爆髒彈！ 　鎖定川普政府高層",
-        "經濟日報：美情報驚揭伊朗密謀！CNN：擬引爆髒彈或使用化武 攻擊川普政府高官",
-        "自由時報：傳伊朗擬用「髒彈」攻擊華府！川普政府高官成目標、緊急研擬應變"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "美情報曝：伊朗擬在華府引爆髒彈！ 　鎖定川普政府高層",
-          "url": "https://www.ettoday.net/news/20261117/3273372.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美情報驚揭伊朗密謀！CNN：擬引爆髒彈或使用化武 攻擊川普政府高官",
-          "url": "https://money.udn.com/money/story/5599/9883181"
-        },
-        {
-          "source": "自由時報",
-          "title": "傳伊朗擬用「髒彈」攻擊華府！川普政府高官成目標、緊急研擬應變",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643170"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "特斯拉柏林廠擴建，砸 30 億歐元準備生產 Cybercab",
       "summary": [
         "科技新報：特斯拉柏林廠擴建，砸 30 億歐元準備生產 Cybercab",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "臺中市長電視辯論會今晚登場 何欣純、江啟臣唯一同臺對話無交叉詰問",
       "summary": [
         "自由時報：臺中市長電視辯論會今晚登場 何欣純、江啟臣唯一同臺對話無交叉詰問",
@@ -77,7 +50,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "俄軍機闖入防空識別區　韓國緊急派戰機升空應對",
       "summary": [
         "經濟日報：俄軍機闖入防空識別區　韓國緊急派戰機升空應對",
@@ -94,6 +67,27 @@
           "source": "自由時報",
           "title": "俄羅斯多架軍機闖南韓防空識別區 南韓空軍緊急派戰機升空應對",
           "url": "https://news.ltn.com.tw/news/def/breakingnews/5643309"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "傳伊朗擬用「髒彈」攻擊華府！川普政府高官成目標、緊急研擬應變",
+      "summary": [
+        "自由時報：傳伊朗擬用「髒彈」攻擊華府！川普政府高官成目標、緊急研擬應變",
+        "經濟日報：美情報：伊朗擬以髒彈攻擊華府　鎖定川普政府高官為目標"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "傳伊朗擬用「髒彈」攻擊華府！川普政府高官成目標、緊急研擬應變",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5643170"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美情報：伊朗擬以髒彈攻擊華府　鎖定川普政府高官為目標",
+          "url": "https://money.udn.com/money/story/5599/9883683"
         }
       ]
     },
@@ -120,69 +114,6 @@
     },
     {
       "rank": 6,
-      "title": "川普力保黃仁勳！　反酸：中國美女總被當間諜",
-      "summary": [
-        "ETtoday：川普力保黃仁勳！　反酸：中國美女總被當間諜",
-        "自由時報：「黃仁勳瘋了」！中招最老套手段 《衛報》揭密中國美人計間諜內幕"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "川普力保黃仁勳！　反酸：中國美女總被當間諜",
-          "url": "https://www.ettoday.net/news/20261117/3273358.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "「黃仁勳瘋了」！中招最老套手段 《衛報》揭密中國美人計間諜內幕",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5643256"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "馬斯克、三星深化合作，傳三星德州廠將為 SpaceX 生產晶片",
-      "summary": [
-        "科技新報：馬斯克、三星深化合作，傳三星德州廠將為 SpaceX 生產晶片",
-        "工商時報：三星擴產為SpaceX造晶片- 日報"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "馬斯克、三星深化合作，傳三星德州廠將為 SpaceX 生產晶片",
-          "url": "https://technews.tw/2026/11/17/elon-musk-samsung-chips/"
-        },
-        {
-          "source": "工商時報",
-          "title": "三星擴產為SpaceX造晶片- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JbjF4REYzcTlGNjFEYXU3N05OX2hGeDZPbnZOSFpuS0ZwQ0VaNEM1ODJjbnF0YXZoSzdGY2ZTOUlVRlNpLUhYR0JiX0VMQjJCN3c1ZklkTjlBQ09LLTdR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "美國聯航技術故障延誤航班　已排除問題且無網攻跡象",
-      "summary": [
-        "經濟日報：美國聯航技術故障延誤航班　已排除問題且無網攻跡象",
-        "科技新報：美國聯航技術故障延誤航班，已排除問題且無網攻跡象"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美國聯航技術故障延誤航班　已排除問題且無網攻跡象",
-          "url": "https://money.udn.com/money/story/5599/9883106"
-        },
-        {
-          "source": "科技新報",
-          "title": "美國聯航技術故障延誤航班，已排除問題且無網攻跡象",
-          "url": "https://technews.tw/2026/11/17/united-airlines-resolves-system-outage-that-affected-departing-flights/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "川普替盧特尼克撐腰！美晶片新禁令卻由財政部主導 外媒曝「背後內幕」",
       "summary": [
         "自由時報：川普替盧特尼克撐腰！美晶片新禁令卻由財政部主導 外媒曝「背後內幕」",
@@ -203,7 +134,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "美國多間大型銀行 App 異常，摩根大通稱軟體漏洞所致",
       "summary": [
         "科技新報：美國多間大型銀行 App 異常，摩根大通稱軟體漏洞所致",
@@ -220,6 +151,69 @@
           "source": "iThome",
           "title": "美國多家銀行APP傳出服務異常，JP摩根表示內部系統軟體臭蟲造成交易延遲",
           "url": "https://www.ithome.com.tw/news/180556"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "IMF警告全球經濟過度依賴AI　恐危及金融穩定",
+      "summary": [
+        "經濟日報：IMF警告全球經濟過度依賴AI　恐危及金融穩定",
+        "科技新報：IMF 警告全球經濟過度依賴 AI 產業，恐危及金融穩定"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "IMF警告全球經濟過度依賴AI　恐危及金融穩定",
+          "url": "https://money.udn.com/money/story/5599/9883179"
+        },
+        {
+          "source": "科技新報",
+          "title": "IMF 警告全球經濟過度依賴 AI 產業，恐危及金融穩定",
+          "url": "https://finance.technews.tw/2026/11/17/imf-warns-global-economy-over-reliance-ai-industry-financial-stability-risk/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普聲援也難回鍋！黃仁勳復職卡關原因曝光 美媒揭輝達董事會顧慮",
+      "summary": [
+        "自由時報：川普聲援也難回鍋！黃仁勳復職卡關原因曝光 美媒揭輝達董事會顧慮",
+        "風傳媒：【新新聞】美國封死「海外算力」漏洞！川普挺黃仁勳回任 白宮鷹派與輝達董事會不買單"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川普聲援也難回鍋！黃仁勳復職卡關原因曝光 美媒揭輝達董事會顧慮",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5643248"
+        },
+        {
+          "source": "風傳媒",
+          "title": "【新新聞】美國封死「海外算力」漏洞！川普挺黃仁勳回任 白宮鷹派與輝達董事會不買單",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oQXVHcG5oS09vY180bjNGOHQta3hrQ0FZNjZHTmM4MEJlX0NtWV9vZG9fcTd5azE5SUdJQzFuOENvWm1LZjNxQXV2Y04wZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "龍谷大飯店傳11月30日將暫停營業！ 思考定位再出發",
+      "summary": [
+        "自由時報：龍谷大飯店傳11月30日將暫停營業！ 思考定位再出發",
+        "ETtoday：谷關「龍谷大飯店」11月底停業　泡湯、住宿券退費期限出爐"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "龍谷大飯店傳11月30日將暫停營業！ 思考定位再出發",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5643163"
+        },
+        {
+          "source": "ETtoday",
+          "title": "谷關「龍谷大飯店」11月底停業　泡湯、住宿券退費期限出爐",
+          "url": "https://travel.ettoday.net/article/3273411.htm"
         }
       ]
     }
