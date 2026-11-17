@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 12:27",
+  "updated_at": "2026-11-17 12:58",
   "taiwan": [
     {
       "rank": 1,
@@ -137,27 +137,6 @@
     },
     {
       "rank": 6,
-      "title": "手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
-      "summary": [
-        "科技新報：手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
-        "工商時報：輝達重擊臺股史上第二大跌點- 日報"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "手亂下單就是下流！遊庭皓喊臺股史上第二大跌點要做風流投資人",
-          "url": "https://finance.technews.tw/2026/11/16/playboy-investor/"
-        },
-        {
-          "source": "工商時報",
-          "title": "輝達重擊臺股史上第二大跌點- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFcUc1WlpDZlY1cFFlTmJwb00tUnRlbTI1dGhsMm1jcFNjMXdPNnYtSXl6YjQtZS1yZFpQTVJxdk9SSTJrcHFIcTFwZnlERi1FVVlpMzFfTWRWTndXNmtZ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "大轉彎？蔣萬安選舉公報政見未列「松機遷建」 網：自證在騙票！",
       "summary": [
         "自由時報：大轉彎？蔣萬安選舉公報政見未列「松機遷建」 網：自證在騙票！",
@@ -178,7 +157,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "川普亞洲行拋震撼彈！曝赴中期間「可能見金正恩」",
       "summary": [
         "ETtoday：川普亞洲行拋震撼彈！曝赴中期間「可能見金正恩」",
@@ -199,7 +178,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠",
       "summary": [
         "經濟日報：Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠",
@@ -220,7 +199,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
       "summary": [
         "經濟日報：1分鐘看世界／美國攜手九國簽署舊金山宣言 強化 AI 供應鏈 防堵中國",
@@ -237,6 +216,27 @@
           "source": "自由時報",
           "title": "10國簽署舊金山宣言 美聯手盟友 強化AI供應鏈抗中",
           "url": "https://ec.ltn.com.tw/article/paper/1778747"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
+      "summary": [
+        "自由時報：市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
+        "經濟日報：市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5643070"
+        },
+        {
+          "source": "經濟日報",
+          "title": "市場憂黃仁勳辭輝達CEO拖累AI投資　歐股收盤下跌",
+          "url": "https://money.udn.com/money/story/5599/9882880"
         }
       ]
     }
@@ -308,6 +308,38 @@
     },
     {
       "rank": 3,
+      "title": "美國採取行動切斷中國對人工智慧晶片的遠端訪問",
+      "summary": [
+        "Ars Technica：美國採取行動切斷中國對人工智慧晶片的遠端訪問",
+        "Nikkei Asia：在英偉達醜聞後，美國採取措施遏制中國遠端存取人工智慧晶片",
+        "Bloomberg Markets：美國採取措施限制中國遠端存取英偉達人工智慧晶片"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "Ars Technica",
+          "title": "美國採取行動切斷中國對人工智慧晶片的遠端訪問",
+          "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "在英偉達醜聞後，美國採取措施遏制中國遠端存取人工智慧晶片",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdmlTTmNpMzZLVXdtVzBZNnd5X1JFUTRnMzVyNFpkR1R6a0pDajBPaUliMmtDbS1XVTFicU1hMDVzYWVLZ3NvdmpocVlhaE05emNvMmpGNVJ4VVZmVWNQUFlhZmIwUTYtcDlzVXNZaXljMEstU2pCZEU4RGVqSUxrbTByekx0d0pVUHZtcjJMektCQ1E5dkhQQ0ZwQjB4R2xQU2RNaXFrcklma2JzTmw2NlNKd2V0WnBqSmtBbXNjc1QtTFZFSVEzai1KeXJYWHpQOU0tWnZ3?oc=5"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "美國採取措施限制中國遠端存取英偉達人工智慧晶片",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/the-asia-trade-11-17-2026-video"
+        },
+        {
+          "source": "Investing.com",
+          "title": "美國收緊規則限制中國獲得海外先進人工智慧晶片",
+          "url": "https://www.investing.com/news/stock-market-news/china-chipmakers-rally-as-us-curbs-threaten-ai-developers-access-to-nvidia-5031619"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "訊息人士告訴 CNBC，英偉達董事會不考慮讓黃仁勳重新擔任執行長",
       "summary": [
         "CNBC：訊息人士告訴 CNBC，英偉達董事會不考慮讓黃仁勳重新擔任執行長",
@@ -334,70 +366,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "五個歐盟國家宣佈在盧安達建立移民「返回中心」的計劃",
-      "summary": [
-        "The Guardian：五個歐盟國家宣佈在盧安達建立移民「返回中心」的計劃",
-        "法廣RFI：歐盟五國計畫將歐洲遣返中心選在盧安達"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "五個歐盟國家宣佈在盧安達建立移民「返回中心」的計劃",
-          "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "歐盟五國計畫將歐洲遣返中心選在盧安達",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261116-%E6%AD%90%E7%9B%9F%E4%BA%94%E5%9C%8B%E8%A8%88%E7%95%AB%E5%B0%87%E6%AD%90%E6%B4%B2%E9%81%A3%E8%BF%94%E4%B8%AD%E5%BF%83%E9%81%B8%E5%9C%A8%E7%9B%A7%E6%97%BA%E9%81%94"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "川普表示他「不介意」黃仁勳重返英偉達",
-      "summary": [
-        "Washington Post：川普表示他「不介意」黃仁勳重返英偉達",
-        "The Verge：川普表示黃仁勳重返英偉達“當然不是一個壞主意”"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "川普表示他「不介意」黃仁勳重返英偉達",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3gtdG5mSF9udllLUy1RMkFHZ0VFbHJocGdoSUNUdHFYbFFydlZrbk1RbmE1TlRXZmpLc2xCOWk0RGJVdFhZeWl2VmI0a2E3VVV4X0NKYVFlVTl6WG9YUHFXNFZTTm04OVRqcG8yS08yYm5haEZQN3lwT0h0VzhldXltUnR6aTUzYlI5MkhtY2NEZEE4ZlM5TzY5OHNSSTlIRlpCZlVrekNBZDk1elMw?oc=5"
-        },
-        {
-          "source": "The Verge",
-          "title": "川普表示黃仁勳重返英偉達“當然不是一個壞主意”",
-          "url": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "川普支援黃仁勳重返英偉達執行長",
-      "summary": [
-        "Investing.com：川普支援黃仁勳重返英偉達執行長",
-        "Tom's Hardware：川普呼籲黃仁勳復任英偉達執行長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "川普支援黃仁勳重返英偉達執行長",
-          "url": "https://www.investing.com/news/stock-market-news/trump-says-he-would-not-mind-huang-being-reinstated-as-nvidia-ceo-5030546"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "川普呼籲黃仁勳復任英偉達執行長",
-          "url": "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Apple聘請了擁有26年經驗的資深員工Corey Fugman負責付款、銀行卡和錢包服務",
       "summary": [
         "Bloomberg Tech：Apple聘請了擁有26年經驗的資深員工Corey Fugman負責付款、銀行卡和錢包服務",
@@ -418,7 +387,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "Instagram 現在允許創作者在捲軸和動態帖子中新增亞馬遜附屬連結",
       "summary": [
         "TechCrunch：Instagram 現在允許創作者在捲軸和動態帖子中新增亞馬遜附屬連結",
@@ -439,7 +408,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "NVIDIA Rubin HPC GPU 包含超過 50,000 個 CUDA 核心，全部使用第七代 NVLink 連線以加速模擬和資料處理，預計於 2028 年推出",
       "summary": [
         "Wccftech：NVIDIA Rubin HPC GPU 包含超過 50,000 個 CUDA 核心，全部使用第七代 NVLink 連線以加速模擬和資料處理，預計於 2028 年推出",
@@ -460,7 +429,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "奧特曼表示，黃蜂下臺後，人工智慧產業“會好起來”",
       "summary": [
         "Bloomberg Tech：奧特曼表示，黃蜂下臺後，人工智慧產業“會好起來”",
@@ -477,6 +446,48 @@
           "source": "Yahoo Finance",
           "title": "奧爾特曼表示，黃蜂下臺後，人工智慧產業“會好起來”",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV3IyNXlCUzhndTdjbGlqNkhKNXlweGlUQ1VzSnFLRHlubjN6cjJLaUYtUEo4bnFFb3hxdk90MjAxVWJtbmRMZHpKazljcGpSQ3lFUF9pdTEtMlJmY2ZVaUJYSHJFd09SbHN4UzJ1UFdMRUVOemdtQ3pJaXFIYmZjV2RqaHd6aC1nMWl0MEVDd0JIYmwzNC0w?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "加州起訴 OpenAI 擁抱臉部，其他人工智慧模式失控",
+      "summary": [
+        "CNBC：加州起訴 OpenAI 擁抱臉部，其他人工智慧模式失控",
+        "Investing.com：加州因 AI 模式對 Hugging Face 等公司發動網路攻擊並阻止 OpenAI"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "加州起訴 OpenAI 擁抱臉部，其他人工智慧模式失控",
+          "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "加州因 AI 模式對 Hugging Face 等公司發動網路攻擊並阻止 OpenAI",
+          "url": "https://www.investing.com/news/stock-market-news/california-suesopenai-over-ai-models-cyberattacks-on-hugging-face-other-companies-5030712"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "雪佛龍接近以約 50 億美元收購黑石支援的美國海灣石油生產商",
+      "summary": [
+        "Financial Times：雪佛龍接近以約 50 億美元收購黑石支援的美國海灣石油生產商",
+        "Investing.com：根據英國《金融時報》報道，雪佛龍將以 50 億美元收購黑石支援的石油生產商"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "雪佛龍接近以約 50 億美元收購黑石支援的美國海灣石油生產商",
+          "url": "https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "根據英國《金融時報》報道，雪佛龍將以 50 億美元收購黑石支援的石油生產商",
+          "url": "https://www.investing.com/news/stock-market-news/chevron-to-buy-blackstonebacked-oil-producer-for-5-billion-ft-reports-5030814"
         }
       ]
     }
