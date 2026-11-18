@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 01:57",
+  "updated_at": "2026-11-19 02:28",
   "taiwan": [
     {
       "rank": 1,
@@ -62,69 +62,6 @@
     },
     {
       "rank": 3,
-      "title": "輝達新掌門續挺 AI 融資、僅強調會嚴選  Nebius 嗨",
-      "summary": [
-        "科技新報：輝達新掌門續挺 AI 融資、僅強調會嚴選  Nebius 嗨",
-        "MoneyDJ理財網：輝達新掌門續挺AI融資、僅強調會嚴選 Nebius嗨"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "輝達新掌門續挺 AI 融資、僅強調會嚴選  Nebius 嗨",
-          "url": "https://finance.technews.tw/2026/11/18/colette-kress-backs-ai-financing-but-stresses-careful-selection/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "輝達新掌門續挺AI融資、僅強調會嚴選 Nebius嗨",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWI1X0xzX29hRk00bDI0Y0QxUElfRGRvNDdfcUNnYUNYTEpHV2tVcDlqMzJSN29tdjJyUEwzMHBsbXAwY1hnTXlVTDRfTVUxXzVRc0pXaURxT0ZGbUxXNXo3UXJ4ZWhxM3VUa3ZDSjR4Q1V5bVNpa2xaMUkxTUcyTHQzV3RpLVdERlZNZ3BCeGJwZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "經濟學人剖析 2027 年趨勢，川普政治動向、臺海安全與 AI 風險受矚",
-      "summary": [
-        "科技新報：經濟學人剖析 2027 年趨勢，川普政治動向、臺海安全與 AI 風險受矚",
-        "經濟日報：經濟學人看明年：盯AI、臺海風險、伊朗戰爭、川普政局後續"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "經濟學人剖析 2027 年趨勢，川普政治動向、臺海安全與 AI 風險受矚",
-          "url": "https://finance.technews.tw/2026/11/18/economist-2027-trends-trump-politics-taiwan-strait-security-ai-risks/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "經濟學人看明年：盯AI、臺海風險、伊朗戰爭、川普政局後續",
-          "url": "https://money.udn.com/money/story/5599/9887668"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Anthropic啟動上市　將成檢驗全球AI投資熱潮關鍵指標",
-      "summary": [
-        "經濟日報：Anthropic啟動上市　將成檢驗全球AI投資熱潮關鍵指標",
-        "科技新報：Anthropic 啟動上市，將成檢驗全球 AI 投資熱潮關鍵指標"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "Anthropic啟動上市　將成檢驗全球AI投資熱潮關鍵指標",
-          "url": "https://money.udn.com/money/story/123398/9886561"
-        },
-        {
-          "source": "科技新報",
-          "title": "Anthropic 啟動上市，將成檢驗全球 AI 投資熱潮關鍵指標",
-          "url": "https://finance.technews.tw/2026/11/18/anthropic-ipo-to-test-the-ai-investment-boom/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "首度同框！彰縣公辦政見會登場 縣長候選人幸運小物曝光",
       "summary": [
         "自由時報：首度同框！彰縣公辦政見會登場 縣長候選人幸運小物曝光",
@@ -145,7 +82,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "2026臺灣國際衝浪公開賽進入決戰倒數 22日金樽冠軍戰",
       "summary": [
         "自由時報：2026臺灣國際衝浪公開賽進入決戰倒數 22日金樽冠軍戰",
@@ -166,7 +103,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "傳輝達部分董事力挺黃仁勳、安謀 CEO 憂接手觀感",
       "summary": [
         "科技新報：傳輝達部分董事力挺黃仁勳、安謀 CEO 憂接手觀感",
@@ -187,7 +124,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "陸韓元首深圳會談 李在明：朝鮮半島和平符合雙方共同利益",
       "summary": [
         "經濟日報：陸韓元首深圳會談 李在明：朝鮮半島和平符合雙方共同利益",
@@ -208,7 +145,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "日本硫磺島火山噴發　在南岸形成大片新陸地",
       "summary": [
         "經濟日報：日本硫磺島火山噴發　在南岸形成大片新陸地",
@@ -225,6 +162,69 @@
           "source": "科技新報",
           "title": "日本硫磺島火山噴發，南岸形成大片新陸地",
           "url": "https://technews.tw/2026/11/18/iwo-jima-volcanic-eruption-creates-new-landmass-southern-coast/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "大同購物網站e同購遭自動化攻擊入侵，疑似個資外洩",
+      "summary": [
+        "iThome：大同購物網站e同購遭自動化攻擊入侵，疑似個資外洩",
+        "公開資訊觀測站重訊：大同購物網站e同購遭自動化攻擊入侵，疑似個資外洩"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "大同購物網站e同購遭自動化攻擊入侵，疑似個資外洩",
+          "url": "https://www.ithome.com.tw/news/180615"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "大同購物網站e同購遭自動化攻擊入侵，疑似個資外洩",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UTzFRNFlENG1yaU85UGIzbTV5QzVZejl4X0tOQlhRbmFDV2I4MXVBSVlCX0E1WEhFcEM4QkdXN2VGMmFIYnMwSXlHaGhwdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普政府傳續推中國光模組禁令美國光通訊股嗨- 新聞",
+      "summary": [
+        "MoneyDJ理財網：川普政府傳續推中國光模組禁令美國光通訊股嗨- 新聞",
+        "工商時報：亞馬遜、Google反對也沒用！川普續推中國光收發器禁令光通訊廠轉單商機爆發- 國際"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "川普政府傳續推中國光模組禁令美國光通訊股嗨- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2RDYTN3dWE3cFByWC1ST1JjQm53YlQ0SXRyeE9SMTZoRFhRZzJlN01nUzZOcnlNVzhBMUswcE8xZ2dORTl4X1Y4NFQwOVduc3Q2QjZzNHdnUVoxc0M4bGE3dkJDQk5NQzhnRGVod2c5YmpqZ2drMjhDVllMV1ZsdG03aGU3MU5vZ2NIOGRTaE5idw?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "亞馬遜、Google反對也沒用！川普續推中國光收發器禁令光通訊廠轉單商機爆發- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14eU9UenNoc3JRTWhsZDJNNjV4Vk93ZTRMazZneVZ5YjZ6Zmh1Q0F0RFhVSzVQWWlzczM4NlFncTdCelhYZ1RmM2VoZkR6aFNmMlBMX1J2YUc0a0ZFa0Fn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "神達數位部分資訊系統遭外部網路攻擊，出現未經授權存取情形",
+      "summary": [
+        "iThome：神達數位部分資訊系統遭外部網路攻擊，出現未經授權存取情形",
+        "公開資訊觀測站重訊：神達數位部分資訊系統遭外部網路攻擊，出現未經授權存取情形"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "神達數位部分資訊系統遭外部網路攻擊，出現未經授權存取情形",
+          "url": "https://www.ithome.com.tw/news/180618"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "神達數位部分資訊系統遭外部網路攻擊，出現未經授權存取情形",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pY1UwVkRhdXpHS3N2TVNrQVAySlppMld3X1MyekxNUEljeXBvMDh6NWFfVkNBR1NqQUpLUktNbXZDUXJfTHV3MUU2VW42QQ?oc=5"
         }
       ]
     }
@@ -323,22 +323,28 @@
     },
     {
       "rank": 4,
-      "title": "加州因安全事故禁止 Waymo 高速公路運營",
+      "title": "散戶對 Anthropic IPO 的熱情可與 SpaceX 首次亮相相媲美",
       "summary": [
-        "Investing.com：加州因安全事故禁止 Waymo 高速公路運營",
-        "Ars Technica：加州建築區投訴後 Waymo 暫停高速公路行駛"
+        "CNBC：散戶對 Anthropic IPO 的熱情可與 SpaceX 首次亮相相媲美",
+        "Investing.com：Anthropic IPO 如何與 SpaceX 抗衡",
+        "Bloomberg Markets：來自 Anthropic 的 IPO 資料來源：挑戰 SpaceX 的首次亮相紀錄"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "加州因安全事故禁止 Waymo 高速公路運營",
-          "url": "https://www.investing.com/news/stock-market-news/california-bans-waymo-freeway-operations-after-safety-incidents-93CH-5034771"
+          "source": "CNBC",
+          "title": "散戶對 Anthropic IPO 的熱情可與 SpaceX 首次亮相相媲美",
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html"
         },
         {
-          "source": "Ars Technica",
-          "title": "加州建築區投訴後 Waymo 暫停高速公路行駛",
-          "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/"
+          "source": "Investing.com",
+          "title": "Anthropic IPO 如何與 SpaceX 抗衡",
+          "url": "https://www.investing.com/news/stock-market-news/how-theanthropic-ipo-stacks-up-against-spacex-5036604"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "來自 Anthropic 的 IPO 資料來源：挑戰 SpaceX 的首次亮相紀錄",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-s-ipo-by-the-numbers-taking-on-spacex-s-record-debut"
         }
       ]
     },
@@ -407,6 +413,27 @@
     },
     {
       "rank": 8,
+      "title": "阿波羅歐洲負責人看到人工智慧和國防的巨大融資需求",
+      "summary": [
+        "Bloomberg Markets：阿波羅歐洲負責人看到人工智慧和國防的巨大融資需求",
+        "Bloomberg Tech：阿波羅看到歐洲對人工智慧和國防的巨大金融需求"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "阿波羅歐洲負責人看到人工智慧和國防的巨大融資需求",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/apollo-s-europe-head-sees-massive-finance-demand-for-ai-defense"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "阿波羅看到歐洲對人工智慧和國防的巨大金融需求",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-18/apollo-sees-huge-europe-finance-demand-for-ai-defense-video"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "委員會表示，中國軍方尋求英偉達先進的人工智慧晶片",
       "summary": [
         "CNBC：委員會表示，中國軍方尋求英偉達先進的人工智慧晶片",
@@ -427,7 +454,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "隨著黃仁勳的離開，Colette Kress 表明 Nvidia 仍然是人工智慧的中心",
       "summary": [
         "CNBC：隨著黃仁勳的離開，Colette Kress 表明 Nvidia 仍然是人工智慧的中心",
@@ -444,27 +471,6 @@
           "source": "Bloomberg Tech",
           "title": "Nvidia財報：黃仁勳退出後，Colette Kress收緊人工智慧開支",
           "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/nvidia-earnings-colette-kress-tightens-ai-spending-after-jensen-huang-s-exit"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
-      "summary": [
-        "Financial Times：美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
-        "Investing.com：專家表示，人工智慧時代的補丁可能是一些重大技術中斷的原因"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
-          "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Investing.com",
-          "title": "專家表示，人工智慧時代的補丁可能是一些重大技術中斷的原因",
-          "url": "https://www.investing.com/news/stock-market-news/patching-in-the-ai-age-may-underlie-some-of-the-major-tech-outages-experts-say-5036726"
         }
       ]
     }
