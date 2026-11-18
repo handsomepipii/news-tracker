@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:56",
+  "updated_at": "2026-11-18 13:26",
   "taiwan": [
     {
       "rank": 1,
@@ -320,48 +320,6 @@
     },
     {
       "rank": 3,
-      "title": "閱讀黃仁勳關於提供 Nvidia 執行長回報的宣告",
-      "summary": [
-        "Bloomberg Tech：閱讀黃仁勳關於提供 Nvidia 執行長回報的宣告",
-        "The Verge：閱讀 Nvidia 董事會主席對黃仁勳的評價"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "閱讀黃仁勳關於提供 Nvidia 執行長回報的宣告",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/read-jensen-huang-s-statement-offering-a-return-as-nvidia-ceo"
-        },
-        {
-          "source": "The Verge",
-          "title": "閱讀 Nvidia 董事會主席對黃仁勳的評價",
-          "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "最新的技術失敗：美國機密國家安全通訊網路",
-      "summary": [
-        "MarketWatch：最新的技術失敗：美國機密國家安全通訊網路",
-        "Bloomberg Tech：美國電子間諜機構機密網路中斷"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MarketWatch",
-          "title": "最新的技術失敗：美國機密國家安全通訊網路",
-          "url": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "美國電子間諜機構機密網路中斷",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-electronic-spy-agency-suffers-outage-of-classified-network"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "OpenAI 放棄先前版本後推出新的 Astra AI 模型",
       "summary": [
         "Bloomberg Tech：OpenAI 放棄先前版本後推出新的 Astra AI 模型",
@@ -382,7 +340,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "加州股份公司表示，英偉達醜聞已引發“危險訊號”",
       "summary": [
         "Bloomberg Tech：加州股份公司表示，英偉達醜聞已引發“危險訊號”",
@@ -403,7 +361,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "俄羅斯軍機墜毀 機上19人全數罹難",
       "summary": [
         "BBC World：俄羅斯軍機墜毀 機上19人全數罹難",
@@ -424,7 +382,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "蘋果致力於在內部更新導致中斷後恢復系統",
       "summary": [
         "Bloomberg Tech：蘋果致力於在內部更新導致中斷後恢復系統",
@@ -445,7 +403,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "根據《華爾街日報》報道，美國證券交易委員會正在調查黃仁勳退出之際的英偉達",
       "summary": [
         "Bloomberg Markets：根據《華爾街日報》報道，美國證券交易委員會正在調查黃仁勳退出之際的英偉達",
@@ -466,7 +424,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "普丁抵達中國出席川普、習近平會晤",
       "summary": [
         "Bloomberg Markets：普丁抵達中國出席川普、習近平會晤",
@@ -483,6 +441,42 @@
           "source": "CNBC",
           "title": "川普、習近平和普丁在中國會晤時值得關注的三件事",
           "url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "工會表示，大衛瓊斯將裁員 1,500 人以求生存",
+      "summary": [
+        "Bloomberg Markets：工會表示，大衛瓊斯將裁員 1,500 人以求生存",
+        "Investing.com：工會稱陷入困境的澳洲零售商 David Jones 將裁員 1,500 人"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "工會表示，大衛瓊斯將裁員 1,500 人以求生存",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/david-jones-to-cut-1-500-jobs-in-fight-to-survive-union-says"
+        },
+        {
+          "source": "Investing.com",
+          "title": "工會稱陷入困境的澳洲零售商 David Jones 將裁員 1,500 人",
+          "url": "https://www.investing.com/news/stock-market-news/troubled-australian-retailer-david-jones-to-cut-1500-jobs-union-says-5034566"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "阿里巴巴新的Qwen AI模式為Anthropic帶來挑戰",
+      "summary": [
+        "Yahoo Finance：阿里巴巴新的Qwen AI模式為Anthropic帶來挑戰"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "阿里巴巴新的Qwen AI模式為Anthropic帶來挑戰",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXhnNGhVWkw1M0QxTzVYdVg3Rjg2Wk5EVXp2MU1wd0NQSXJMdU5hRFl0YnJwOTFVa29fZDFXVE5CMjRMdHdRdklvOTlwYnJHakRiZ0JyeHkzTlUtNFYydGVCRWhMMFR2Ni1mbC1Qdi1KZ0p3eUotalR0dUl4QVZoWQ?oc=5"
         }
       ]
     }
