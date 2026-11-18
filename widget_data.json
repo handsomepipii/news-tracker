@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 06:27",
+  "updated_at": "2026-11-19 06:56",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "克宮：普丁與川普將於APEC場邊會晤　未安排全面談判",
+      "summary": [
+        "自由時報：克宮：普丁與川普將於APEC場邊會晤　未安排全面談判",
+        "經濟日報：克宮：普丁與川普將於APEC場邊會晤　未安排全面談判",
+        "ETtoday：克宮：普丁與川普將於APEC場邊會晤　未安排正式雙邊談判"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "克宮：普丁與川普將於APEC場邊會晤　未安排全面談判",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645683"
+        },
+        {
+          "source": "經濟日報",
+          "title": "克宮：普丁與川普將於APEC場邊會晤　未安排全面談判",
+          "url": "https://money.udn.com/money/story/5599/9887793"
+        },
+        {
+          "source": "ETtoday",
+          "title": "克宮：普丁與川普將於APEC場邊會晤　未安排正式雙邊談判",
+          "url": "https://www.ettoday.net/news/20261119/3274605.htm"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "民主黨提名傑福瑞斯 可望成美國史上首位非裔眾院議長",
       "summary": [
         "自由時報：民主黨提名傑福瑞斯 可望成美國史上首位非裔眾院議長",
@@ -50,44 +77,23 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "柯文哲直呼「小草絕不會投給沈伯洋」 網友大酸：這次我投洋流",
+      "rank": 4,
+      "title": "雙重國籍問題引質疑 應佳妤：已著手辦理放棄加拿大國籍",
       "summary": [
-        "自由時報：柯文哲直呼「小草絕不會投給沈伯洋」 網友大酸：這次我投洋流",
-        "ETtoday：柯文哲稱絕不投沈伯洋　蔣萬安：民進黨對柯的態度小草看很清楚"
+        "自由時報：雙重國籍問題引質疑 應佳妤：已著手辦理放棄加拿大國籍",
+        "ETtoday：選舉公報未勾不具外國籍　應佳妤：正在放棄加拿大國籍"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "柯文哲直呼「小草絕不會投給沈伯洋」 網友大酸：這次我投洋流",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5645276"
+          "title": "雙重國籍問題引質疑 應佳妤：已著手辦理放棄加拿大國籍",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5645489"
         },
         {
           "source": "ETtoday",
-          "title": "柯文哲稱絕不投沈伯洋　蔣萬安：民進黨對柯的態度小草看很清楚",
-          "url": "https://www.ettoday.net/news/20261118/3274543.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "美國總統川普抵達深圳- 國際",
-      "summary": [
-        "中時新聞：美國總統川普抵達深圳- 國際",
-        "經濟日報：川普成首位訪問深圳的美國總統 將見識大陸城市發展實力"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "美國總統川普抵達深圳- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfTnRBd1o3bnk2bEJ5N2tfQ3g5aFl2SzBTelJreTJ2NXhvS3dJc25XRlhfLVRSNlhuUHc1VnA4OGtTWWx5YmdlMGFMS2RfMzI4d29lRHYwa0RFTm13cWJoNHBGNDlxeDJPOHc?oc=5"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普成首位訪問深圳的美國總統 將見識大陸城市發展實力",
-          "url": "https://money.udn.com/money/story/5599/9887214"
+          "title": "選舉公報未勾不具外國籍　應佳妤：正在放棄加拿大國籍",
+          "url": "https://www.ettoday.net/news/20261119/3274597.htm"
         }
       ]
     },
@@ -221,19 +227,14 @@
   "global": [
     {
       "rank": 1,
-      "title": "Anthropic Eyes 因需求強勁而 IPO 價格超過每股 80 美元：報告",
+      "title": "據稱 Anthropic 正在考慮將 IPO 價格定為每股 85 美元",
       "summary": [
-        "Yahoo Finance：Anthropic Eyes 因需求強勁而 IPO 價格超過每股 80 美元：報告",
         "Bloomberg Markets：據稱 Anthropic 正在考慮將 IPO 價格定為每股 85 美元",
-        "Bloomberg Tech：據稱，Anthropic 的 IPO 定價為每股 83 美元，高於區間"
+        "Bloomberg Tech：據稱，Anthropic 的 IPO 定價為每股 83 美元，高於區間",
+        "Investing.com：根據彭博社報道，Anthropic 考慮 IPO 定價為每股 80-85 美元"
       ],
       "media_count": 5,
       "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Anthropic Eyes 因需求強勁而 IPO 價格超過每股 80 美元：報告",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckZMUUFhWE1Wb1ZreTZQWGYzcU4yOEdSX0o3Wkp1aldYOG9TYmNCWC1WeWZHc1ZiYzQ3c3F6YzEzY013TVExcC1uQmY4SkxOdVpXcHBEQnpwRDZWR3VnbVJPTkUtOEdoUkk4dWFnV29DaG02S3NBTVc5aENEaTdBT3g3LWVoczkwNWtMeV9NZ3VTa3hjc0djZXdhMA?oc=5"
-        },
         {
           "source": "Bloomberg Markets",
           "title": "據稱 Anthropic 正在考慮將 IPO 價格定為每股 85 美元",
@@ -253,6 +254,11 @@
           "source": "WSJ Markets",
           "title": "由於需求旺盛，Anthropic 將 IPO 定價為每股 83 美元",
           "url": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c?mod=rss_markets_main"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "據報道，Anthropic 將 IPO 定價為每股 83 美元，高於預期範圍",
+          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
         }
       ]
     },
@@ -312,69 +318,6 @@
     },
     {
       "rank": 4,
-      "title": "失去英國海軍合約後，赫爾辛縮減普利茅斯工廠規模",
-      "summary": [
-        "Financial Times：失去英國海軍合約後，赫爾辛縮減普利茅斯工廠規模",
-        "Bloomberg Tech：失去海軍合約後赫爾辛退出英國普利茅斯專案"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "失去英國海軍合約後，赫爾辛縮減普利茅斯工廠規模",
-          "url": "https://www.ft.com/content/1138e74b-c384-42ba-9edd-c17c8beb4546?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "失去海軍合約後赫爾辛退出英國普利茅斯專案",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/helsing-pulls-back-from-plymouth-uk-project-after-losing-out-on-navy-contract"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "阿波羅歐洲負責人看到人工智慧和國防的巨大融資需求",
-      "summary": [
-        "Bloomberg Markets：阿波羅歐洲負責人看到人工智慧和國防的巨大融資需求",
-        "Bloomberg Tech：阿波羅看到歐洲對人工智慧和國防的巨大金融需求"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "阿波羅歐洲負責人看到人工智慧和國防的巨大融資需求",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/apollo-s-europe-head-sees-massive-finance-demand-for-ai-defense"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "阿波羅看到歐洲對人工智慧和國防的巨大金融需求",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-18/apollo-sees-huge-europe-finance-demand-for-ai-defense-video"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "委員會表示，中國軍方尋求英偉達先進的人工智慧晶片",
-      "summary": [
-        "CNBC：委員會表示，中國軍方尋求英偉達先進的人工智慧晶片",
-        "Investing.com：報告稱，儘管美國限制，中國仍尋求用於人工智慧武器的先進英偉達晶片"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "委員會表示，中國軍方尋求英偉達先進的人工智慧晶片",
-          "url": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "報告稱，儘管美國限制，中國仍尋求用於人工智慧武器的先進英偉達晶片",
-          "url": "https://www.investing.com/news/stock-market-news/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs-report-says-5035787"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Grand Theft Auto VI：Ars Technica 評論",
       "summary": [
         "Ars Technica：Grand Theft Auto VI：Ars Technica 評論",
@@ -395,7 +338,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "亞德尼表示，人工智慧貿易“生機勃勃”",
       "summary": [
         "Bloomberg Tech：亞德尼表示，人工智慧貿易“生機勃勃”",
@@ -416,7 +359,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "英偉達前景平息需求擔憂，人工智慧股上漲",
       "summary": [
         "Investing.com：英偉達前景平息需求擔憂，人工智慧股上漲",
@@ -437,7 +380,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "隨著消費者 NAND 現貨價格下降 20%，SSD、筆記型電腦和手機可能會變得更便宜",
       "summary": [
         "Tom's Hardware：隨著消費者 NAND 現貨價格下降 20%，SSD、筆記型電腦和手機可能會變得更便宜",
@@ -454,6 +397,69 @@
           "source": "Wccftech",
           "title": "消費級 NAND 價格下跌 20%，SSD 市場終於出現緩解跡象，預計 2027 年初將再次下跌 5-10%",
           "url": "https://wccftech.com/consumer-nand-prices-decline-by-20/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
+      "summary": [
+        "Financial Times：美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
+        "Investing.com：專家表示，人工智慧時代的補丁可能是一些重大技術中斷的原因"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
+          "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "專家表示，人工智慧時代的補丁可能是一些重大技術中斷的原因",
+          "url": "https://www.investing.com/news/stock-market-news/patching-in-the-ai-age-may-underlie-some-of-the-major-tech-outages-experts-say-5036726"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "據報道，NVIDIA GPU 驅動程式每小時向 SSD 寫入高達 30GB 的資料，與 AMD 最近的驅動程式錯誤相呼應",
+      "summary": [
+        "Wccftech：據報道，NVIDIA GPU 驅動程式每小時向 SSD 寫入高達 30GB 的資料，與 AMD 最近的驅動程式錯誤相呼應",
+        "Tom's Hardware：據報道，Nvidia GeForce 驅動程式錯誤會導致 SSD 每小時寫入高達 30GB"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Wccftech",
+          "title": "據報道，NVIDIA GPU 驅動程式每小時向 SSD 寫入高達 30GB 的資料，與 AMD 最近的驅動程式錯誤相呼應",
+          "url": "https://wccftech.com/nvidia-gpu-drivers-reportedly-writing-up-to-30gb-per-hour-to-ssds-echoing-amds-recent-driver-bug/"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "據報道，Nvidia GeForce 驅動程式錯誤會導致 SSD 每小時寫入高達 30GB",
+          "url": "https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-geforce-driver-bug-reportedly-hammers-ssds-with-up-to-30gb-of-writes-per-hour-users-trace-massive-idle-wear-to-background-service-newer-driver-reportedly-still-affected"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "威爾·賴特 (Will Wright) 的下一款遊戲將使用人工智慧來繪製你的記憶",
+      "summary": [
+        "The Verge：威爾·賴特 (Will Wright) 的下一款遊戲將使用人工智慧來繪製你的記憶",
+        "Ars Technica：威爾·賴特的下一個模擬將使用人工智慧從你的記憶中挖掘內容"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "威爾·賴特 (Will Wright) 的下一款遊戲將使用人工智慧來繪製你的記憶",
+          "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "威爾·賴特的下一個模擬將使用人工智慧從你的記憶中挖掘內容",
+          "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/"
         }
       ]
     }
