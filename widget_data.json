@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 11:26",
+  "updated_at": "2026-11-18 11:56",
   "taiwan": [
     {
       "rank": 1,
@@ -121,6 +121,33 @@
     },
     {
       "rank": 5,
+      "title": "臺泥躍營運轉機王- 日報",
+      "summary": [
+        "工商時報：臺泥躍營運轉機王- 日報",
+        "TVBS新聞：快訊／新北永和豪宅傳悲劇 男住戶21樓急墜慘死",
+        "自由時報：陳品安11/21山線造勢 總統賴清德將赴苗栗力挺"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "工商時報",
+          "title": "臺泥躍營運轉機王- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0a2pUbXFCWElrOHVrdjB1TmdWTWJjOUlXWmYzRWdPZ1RTY2lydHNvVTRNUVdLYTBFUkVSR0VEdjBXVURfSHJaQWxBRGNPWmduVU9WZ3Q4Y3A4UmVhYlBv?oc=5"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "快訊／新北永和豪宅傳悲劇 男住戶21樓急墜慘死",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mTUhPT0cya2ZPS3JHd3dlTUtGMm9VcDdNdVdWUkZaUHFzNnVNSFVZRlRvYUhMY3ZjZmsxMzF6dXRQSi1xb3ZsZTlUa0hvYkU?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "陳品安11/21山線造勢 總統賴清德將赴苗栗力挺",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5644715"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "鴻海收購Sony車載相機模組事業-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：鴻海收購Sony車載相機模組事業-新聞內容-基金",
@@ -141,7 +168,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "黃仁勳回鍋輝達執行長？董事會不考慮",
       "summary": [
         "經濟日報：黃仁勳回鍋輝達執行長？董事會不考慮",
@@ -162,7 +189,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "誇張！臺中裡長候選人竟是詐團車手 開宣傳車取款收押禁見",
       "summary": [
         "自由時報：誇張！臺中裡長候選人竟是詐團車手 開宣傳車取款收押禁見",
@@ -183,7 +210,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "民調：川普支援率維持32%　近2屆任期以來低點",
       "summary": [
         "自由時報：民調：川普支援率維持32%　近2屆任期以來低點",
@@ -204,7 +231,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "AI類股跌勢拖累 歐股收低",
       "summary": [
         "自由時報：AI類股跌勢拖累 歐股收低",
@@ -221,27 +248,6 @@
           "source": "經濟日報",
           "title": "AI類股跌勢拖累 歐股收低",
           "url": "https://money.udn.com/money/story/5599/9885342"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "蘇姿豐公開力挺黃仁勳！讚「了不起的領導者」：外界雜音會平息",
-      "summary": [
-        "ETtoday：蘇姿豐公開力挺黃仁勳！讚「了不起的領導者」：外界雜音會平息",
-        "經濟日報：超微蘇姿豐挺「表舅」黃仁勳　讚傑出領袖指雜音終將平息"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "蘇姿豐公開力挺黃仁勳！讚「了不起的領導者」：外界雜音會平息",
-          "url": "https://finance.ettoday.net/news/3273948"
-        },
-        {
-          "source": "經濟日報",
-          "title": "超微蘇姿豐挺「表舅」黃仁勳　讚傑出領袖指雜音終將平息",
-          "url": "https://money.udn.com/money/story/5599/9885633"
         }
       ]
     }
@@ -345,27 +351,6 @@
     },
     {
       "rank": 4,
-      "title": "為什麼 Salesforce 的股價今天會下跌？",
-      "summary": [
-        "Investing.com：為什麼 Salesforce 的股價今天會下跌？",
-        "MarketWatch：為什麼 Salesforce 的股票在科技股緊張的情況下領先標準普爾 500 指數跌幅"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "為什麼 Salesforce 的股價今天會下跌？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-salesforce-stock-sliding-today-93CH-5033456"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "為什麼 Salesforce 的股票在科技股緊張的情況下領先標準普爾 500 指數跌幅",
-          "url": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "黃仁勳表示他準備重新擔任英偉達執行長",
       "summary": [
         "Financial Times：黃仁勳表示他準備重新擔任英偉達執行長",
@@ -386,7 +371,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "由於大宗商品購買量下滑，美國零售銷售成長放緩",
       "summary": [
         "Bloomberg Markets：由於大宗商品購買量下滑，美國零售銷售成長放緩",
@@ -407,7 +392,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "由於麻疹疫情持續爆發，美國正式失去麻疹消除狀態",
       "summary": [
         "CNBC：由於麻疹疫情持續爆發，美國正式失去麻疹消除狀態",
@@ -428,7 +413,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Optimum 即將與債權人達成削減 260 億美元債務的協議",
       "summary": [
         "Bloomberg Markets：Optimum 即將與債權人達成削減 260 億美元債務的協議",
@@ -449,7 +434,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "川普就伊朗報導的直流髒彈計劃表示：“我們非常認真地對待它”",
       "summary": [
         "CNBC：川普就伊朗報導的直流髒彈計劃表示：“我們非常認真地對待它”",
@@ -470,7 +455,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "閱讀黃仁勳關於提供 Nvidia 執行長回報的宣告",
       "summary": [
         "Bloomberg Tech：閱讀黃仁勳關於提供 Nvidia 執行長回報的宣告",
@@ -487,6 +472,27 @@
           "source": "The Verge",
           "title": "閱讀 Nvidia 董事會主席對黃仁勳的評價",
           "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "最新的技術失敗：美國機密國家安全通訊網路",
+      "summary": [
+        "MarketWatch：最新的技術失敗：美國機密國家安全通訊網路",
+        "Bloomberg Tech：美國電子間諜機構機密網路中斷"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MarketWatch",
+          "title": "最新的技術失敗：美國機密國家安全通訊網路",
+          "url": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "美國電子間諜機構機密網路中斷",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-electronic-spy-agency-suffers-outage-of-classified-network"
         }
       ]
     }
