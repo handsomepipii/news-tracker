@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:26",
+  "updated_at": "2026-11-18 12:56",
   "taiwan": [
     {
       "rank": 1,
@@ -121,6 +121,33 @@
     },
     {
       "rank": 5,
+      "title": "黃仁勳回鍋輝達執行長？董事會不考慮",
+      "summary": [
+        "經濟日報：黃仁勳回鍋輝達執行長？董事會不考慮",
+        "鉅亨網：輝達董事長財報會議明言：「無意讓黃仁勳重任執行長」",
+        "工商時報：無勳之達》輝達電話會議 董事會：不打算讓黃仁勳回任CEO"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳回鍋輝達執行長？董事會不考慮",
+          "url": "https://money.udn.com/money/story/123398/9885202"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "輝達董事長財報會議明言：「無意讓黃仁勳重任執行長」",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54Tm51SDdic21YdlRUTkNPX1RmRnJad2NrWlhLQlMzRDA5eXhwdW5Qb013ZE1iR1JRNTN2ZTM1ODdHdW1RTlhhZ2c0a2ZtclU?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "無勳之達》輝達電話會議 董事會：不打算讓黃仁勳回任CEO",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jX3h0UW1FZ256MTc5a1JhZm5KYXdUZ2dsTTFEYnhzb1RtVzV2TzBwcml4OUxFRGZFcFF3TUtPNG9pTHlzMVpHWC1qaDJhaF8wLUtMdVdPUzh4YnZ1aU1n?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "臺泥躍營運轉機王- 日報",
       "summary": [
         "工商時報：臺泥躍營運轉機王- 日報",
@@ -147,7 +174,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "鴻海收購Sony車載相機模組事業-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：鴻海收購Sony車載相機模組事業-新聞內容-基金",
@@ -168,49 +195,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "黃仁勳回鍋輝達執行長？董事會不考慮",
-      "summary": [
-        "經濟日報：黃仁勳回鍋輝達執行長？董事會不考慮",
-        "鉅亨網：輝達董事長財報會議明言：「無意讓黃仁勳重任執行長」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳回鍋輝達執行長？董事會不考慮",
-          "url": "https://money.udn.com/money/story/123398/9885202"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "輝達董事長財報會議明言：「無意讓黃仁勳重任執行長」",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54Tm51SDdic21YdlRUTkNPX1RmRnJad2NrWlhLQlMzRDA5eXhwdW5Qb013ZE1iR1JRNTN2ZTM1ODdHdW1RTlhhZ2c0a2ZtclU?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 8,
-      "title": "誇張！臺中裡長候選人竟是詐團車手 開宣傳車取款收押禁見",
-      "summary": [
-        "自由時報：誇張！臺中裡長候選人竟是詐團車手 開宣傳車取款收押禁見",
-        "ETtoday：裡長候選人當車手收400萬遭押！犯案前當告別式司儀...圈內人傻眼"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "誇張！臺中裡長候選人竟是詐團車手 開宣傳車取款收押禁見",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5644320"
-        },
-        {
-          "source": "ETtoday",
-          "title": "裡長候選人當車手收400萬遭押！犯案前當告別式司儀...圈內人傻眼",
-          "url": "https://www.ettoday.net/news/20261118/3274064.htm"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "民調：川普支援率維持32%　近2屆任期以來低點",
       "summary": [
         "自由時報：民調：川普支援率維持32%　近2屆任期以來低點",
@@ -231,7 +216,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "AI類股跌勢拖累 歐股收低",
       "summary": [
         "自由時報：AI類股跌勢拖累 歐股收低",
@@ -248,6 +233,27 @@
           "source": "經濟日報",
           "title": "AI類股跌勢拖累 歐股收低",
           "url": "https://money.udn.com/money/story/5599/9885342"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "蘇姿豐公開力挺黃仁勳！讚「了不起的領導者」：外界雜音會平息",
+      "summary": [
+        "ETtoday：蘇姿豐公開力挺黃仁勳！讚「了不起的領導者」：外界雜音會平息",
+        "經濟日報：超微蘇姿豐挺「表舅」黃仁勳　讚傑出領袖指雜音終將平息"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "蘇姿豐公開力挺黃仁勳！讚「了不起的領導者」：外界雜音會平息",
+          "url": "https://finance.ettoday.net/news/3273948"
+        },
+        {
+          "source": "經濟日報",
+          "title": "超微蘇姿豐挺「表舅」黃仁勳　讚傑出領袖指雜音終將平息",
+          "url": "https://money.udn.com/money/story/5599/9885633"
         }
       ]
     }
@@ -314,69 +320,6 @@
     },
     {
       "rank": 3,
-      "title": "Optimum 即將與債權人達成削減 260 億美元債務的協議",
-      "summary": [
-        "Bloomberg Markets：Optimum 即將與債權人達成削減 260 億美元債務的協議",
-        "Investing.com：Optimum 接近債權人協議，將 26B 美元債務負擔削減一半以上"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Optimum 即將與債權人達成削減 260 億美元債務的協議",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/optimum-nears-deal-with-creditors-to-slash-26-billion-debt-pile"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Optimum 接近債權人協議，將 26B 美元債務負擔削減一半以上",
-          "url": "https://www.investing.com/news/stock-market-news/optimum-nears-creditor-deal-to-slash-26b-debt-load-by-more-than-half--bloomberg-5033685"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "川普就伊朗報導的直流髒彈計劃表示：“我們非常認真地對待它”",
-      "summary": [
-        "CNBC：川普就伊朗報導的直流髒彈計劃表示：“我們非常認真地對待它”",
-        "BBC World：川普稱美國「非常嚴肅」對待伊朗針對華盛頓的任何陰謀"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "川普就伊朗報導的直流髒彈計劃表示：“我們非常認真地對待它”",
-          "url": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html"
-        },
-        {
-          "source": "BBC World",
-          "title": "川普稱美國「非常嚴肅」對待伊朗針對華盛頓的任何陰謀",
-          "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "黃仁勳表示，如果被允許重新擔任 Nvidia 執行長，他將感到“榮幸”",
-      "summary": [
-        "TechCrunch：黃仁勳表示，如果被允許重新擔任 Nvidia 執行長，他將感到“榮幸”",
-        "Tom's Hardware：黃仁勳表示，他將「很榮幸」再次擔任 Nvidia 執行長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "黃仁勳表示，如果被允許重新擔任 Nvidia 執行長，他將感到“榮幸”",
-          "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "黃仁勳表示，他將「很榮幸」再次擔任 Nvidia 執行長",
-          "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "閱讀黃仁勳關於提供 Nvidia 執行長回報的宣告",
       "summary": [
         "Bloomberg Tech：閱讀黃仁勳關於提供 Nvidia 執行長回報的宣告",
@@ -397,7 +340,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "最新的技術失敗：美國機密國家安全通訊網路",
       "summary": [
         "MarketWatch：最新的技術失敗：美國機密國家安全通訊網路",
@@ -418,7 +361,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "OpenAI 放棄先前版本後推出新的 Astra AI 模型",
       "summary": [
         "Bloomberg Tech：OpenAI 放棄先前版本後推出新的 Astra AI 模型",
@@ -439,7 +382,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "加州股份公司表示，英偉達醜聞已引發“危險訊號”",
       "summary": [
         "Bloomberg Tech：加州股份公司表示，英偉達醜聞已引發“危險訊號”",
@@ -460,7 +403,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "俄羅斯軍機墜毀 機上19人全數罹難",
       "summary": [
         "BBC World：俄羅斯軍機墜毀 機上19人全數罹難",
@@ -477,6 +420,69 @@
           "source": "法廣RFI",
           "title": "俄軍用運輸機西伯利亞墜毀　機上19人全部遇難",
           "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261117-%E4%BF%84%E8%BB%8D%E7%94%A8%E9%81%8B%E8%BC%B8%E6%A9%9F%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9E%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A19%E4%BA%BA%E5%85%A8%E9%83%A8%E9%81%87%E9%9B%A3"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "蘋果致力於在內部更新導致中斷後恢復系統",
+      "summary": [
+        "Bloomberg Tech：蘋果致力於在內部更新導致中斷後恢復系統",
+        "Investing.com：蘋果正在努力恢復因內部更新造成的服務中斷"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "蘋果致力於在內部更新導致中斷後恢復系統",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/apple-works-to-restore-systems-after-update-caused-outage"
+        },
+        {
+          "source": "Investing.com",
+          "title": "蘋果正在努力恢復因內部更新造成的服務中斷",
+          "url": "https://www.investing.com/news/stock-market-news/apple-works-to-restore-services-after-outage-caused-by-internal-update-5033945"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "根據《華爾街日報》報道，美國證券交易委員會正在調查黃仁勳退出之際的英偉達",
+      "summary": [
+        "Bloomberg Markets：根據《華爾街日報》報道，美國證券交易委員會正在調查黃仁勳退出之際的英偉達",
+        "TechCrunch：據報道，美國證券交易委員會（SEC）在黃仁勳退出之際調查英偉達"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "根據《華爾街日報》報道，美國證券交易委員會正在調查黃仁勳退出之際的英偉達",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "據報道，美國證券交易委員會（SEC）在黃仁勳退出之際調查英偉達",
+          "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "普丁抵達中國出席川普、習近平會晤",
+      "summary": [
+        "Bloomberg Markets：普丁抵達中國出席川普、習近平會晤",
+        "CNBC：川普、習近平和普丁在中國會晤時值得關注的三件事"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "普丁抵達中國出席川普、習近平會晤",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video"
+        },
+        {
+          "source": "CNBC",
+          "title": "川普、習近平和普丁在中國會晤時值得關注的三件事",
+          "url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html"
         }
       ]
     }
