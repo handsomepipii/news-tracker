@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 17:56",
+  "updated_at": "2026-11-18 18:27",
   "taiwan": [
     {
       "rank": 1,
@@ -221,22 +221,22 @@
     },
     {
       "rank": 10,
-      "title": "輝達第三季營收年增達 103% ，獲利年增翻倍超乎預期，Vera Rubin 已出貨單季貢獻 200 億美元",
+      "title": "輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
       "summary": [
-        "科技新報：輝達第三季營收年增達 103% ，獲利年增翻倍超乎預期，Vera Rubin 已出貨單季貢獻 200 億美元",
-        "工商時報：輝達上季營收年增103％ 本季上看1,300億美元 盤後應聲漲4％"
+        "ETtoday：輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
+        "經濟日報：黃仁勳下臺後輝達首份財報報喜！ 營收翻倍 展望上修 股價盤後漲2%"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "科技新報",
-          "title": "輝達第三季營收年增達 103% ，獲利年增翻倍超乎預期，Vera Rubin 已出貨單季貢獻 200 億美元",
-          "url": "https://finance.technews.tw/2026/11/18/nvidias-third-quarter-revenue-increased-by-103-year-on-year-exceeding-expectations/"
+          "source": "ETtoday",
+          "title": "輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
+          "url": "https://finance.ettoday.net/news/3273970"
         },
         {
-          "source": "工商時報",
-          "title": "輝達上季營收年增103％ 本季上看1,300億美元 盤後應聲漲4％",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CX1ZUTUZqZHI5WWdXbHZJOFdzSFB3b2pvazlMcjB5TnJjaGxab1lXZ2phcXlXR1dtZDdBdDh6bi1ZaE5KMm01ZjR5N0thWFNXbnJTT3h2Mi04eFZJQzNj?oc=5"
+          "source": "經濟日報",
+          "title": "黃仁勳下臺後輝達首份財報報喜！ 營收翻倍 展望上修 股價盤後漲2%",
+          "url": "https://money.udn.com/money/story/123398/9885456"
         }
       ]
     }
@@ -244,19 +244,46 @@
   "global": [
     {
       "rank": 1,
-      "title": "英偉達表示不打算恢復黃仁勳擔任執行長",
+      "title": "普丁抵達中國出席川普、習近平會晤",
       "summary": [
-        "The Verge：英偉達表示不打算恢復黃仁勳擔任執行長",
-        "TechCrunch：英偉達表示不打算重新任命黃仁勳擔任執行長",
-        "Bloomberg Tech：英偉達董事長稱黃仁勳不會重新擔任執行長"
+        "Bloomberg Markets：普丁抵達中國出席川普、習近平會晤",
+        "Financial Times：川普在與普丁和習近平舉行峰會前抵達中國",
+        "CNBC：川普抵達中國與習近平和普丁進行歷史性會晤"
       ],
-      "media_count": 5,
+      "media_count": 4,
       "links": [
         {
-          "source": "The Verge",
-          "title": "英偉達表示不打算恢復黃仁勳擔任執行長",
-          "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo"
+          "source": "Bloomberg Markets",
+          "title": "普丁抵達中國出席川普、習近平會晤",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video"
         },
+        {
+          "source": "Financial Times",
+          "title": "川普在與普丁和習近平舉行峰會前抵達中國",
+          "url": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1"
+        },
+        {
+          "source": "CNBC",
+          "title": "川普抵達中國與習近平和普丁進行歷史性會晤",
+          "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html"
+        },
+        {
+          "source": "BBC中文",
+          "title": "APEC峰會：特朗普抵達深圳，習近平親赴機場迎接，近半世紀來中國元首首次接機",
+          "url": "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "英偉達表示不打算重新任命黃仁勳擔任執行長",
+      "summary": [
+        "TechCrunch：英偉達表示不打算重新任命黃仁勳擔任執行長",
+        "Bloomberg Tech：英偉達董事長稱黃仁勳不會重新擔任執行長",
+        "Nikkei Asia：英偉達董事會表示黃仁勳將不再擔任執行長"
+      ],
+      "media_count": 4,
+      "links": [
         {
           "source": "TechCrunch",
           "title": "英偉達表示不打算重新任命黃仁勳擔任執行長",
@@ -276,33 +303,6 @@
           "source": "Financial Times",
           "title": "英偉達董事會堅稱黃仁勳不會再次擔任執行長",
           "url": "https://www.ft.com/content/8946ec08-98b3-49c1-96b1-58539281519a?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "普丁抵達中國出席川普、習近平會晤",
-      "summary": [
-        "Bloomberg Markets：普丁抵達中國出席川普、習近平會晤",
-        "CNBC：川普、習近平和普丁在中國會晤時值得關注的三件事",
-        "Financial Times：川普在與普丁和習近平舉行峰會前抵達中國"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "普丁抵達中國出席川普、習近平會晤",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video"
-        },
-        {
-          "source": "CNBC",
-          "title": "川普、習近平和普丁在中國會晤時值得關注的三件事",
-          "url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html"
-        },
-        {
-          "source": "Financial Times",
-          "title": "川普在與普丁和習近平舉行峰會前抵達中國",
-          "url": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1"
         }
       ]
     },
@@ -392,6 +392,27 @@
     },
     {
       "rank": 7,
+      "title": "+48%、+31%、+24%：哪些人工智慧精選股票在科技股波動時上漲？",
+      "summary": [
+        "Investing.com：+48%、+31%、+24%：哪些人工智慧精選股票在科技股波動時上漲？",
+        "WSJ Markets：今日股市：英偉達財報緩解人工智慧擔憂後，科技期貨上漲"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "+48%、+31%、+24%：哪些人工智慧精選股票在科技股波動時上漲？",
+          "url": "https://www.investing.com/news/stock-market-news/48-31-24-which-aipicked-stocks-are-climbing-while-tech-wobbles-5034531"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "今日股市：英偉達財報緩解人工智慧擔憂後，科技期貨上漲",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "民主黨贏得阿拉斯加州參議院席位，完成中期選舉勝利",
       "summary": [
         "Financial Times：民主黨贏得阿拉斯加州參議院席位，完成中期選舉勝利",
@@ -412,7 +433,28 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "民主黨人調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失",
+      "summary": [
+        "Financial Times：民主黨人調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失",
+        "Investing.com：根據《金融時報》報道，民主黨人正在調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "民主黨人調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失",
+          "url": "https://www.ft.com/content/71e39ecd-03ef-4078-a34e-34ea6b45f674?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "根據《金融時報》報道，民主黨人正在調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失",
+          "url": "https://www.investing.com/news/stock-market-news/democrats-probe-whether-howardlutnick-helped-cantor-avoid-nvidia-losses-ft-reports-5035313"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "今天名創優價股價為何大漲？",
       "summary": [
         "Investing.com：今天名創優價股價為何大漲？"
@@ -423,36 +465,6 @@
           "source": "Investing.com",
           "title": "今天名創優價股價為何大漲？",
           "url": "https://www.investing.com/news/stock-market-news/why-is-miniso-stock-surging-today-93CH-5034708"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "韓中領導人今在深圳舉行會談",
-      "summary": [
-        "韓聯社：韓中領導人今在深圳舉行會談"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "韓中領導人今在深圳舉行會談",
-          "url": "https://cn.yna.co.kr/view/ACK20261118000800881"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "隨著鐵礦石壓力增大，必和必拓、力拓高層將與中國領導人會面",
-      "summary": [
-        "Investing.com：隨著鐵礦石壓力增大，必和必拓、力拓高層將與中國領導人會面"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "隨著鐵礦石壓力增大，必和必拓、力拓高層將與中國領導人會面",
-          "url": "https://www.investing.com/news/stock-market-news/bhp-rio-tinto-executives-to-meet-china-leaders-as-iron-ore-pressure-builds-5034400"
         }
       ]
     }
