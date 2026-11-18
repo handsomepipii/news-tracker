@@ -1,40 +1,8 @@
 {
-  "updated_at": "2026-11-18 16:26",
+  "updated_at": "2026-11-18 16:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
-      "summary": [
-        "自由時報：美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
-        "經濟日報：美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
-        "ETtoday：美國安局最高機密網路突故障！　知情人士曝肇因"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5644352"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
-          "url": "https://money.udn.com/money/story/5599/9885381"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美國安局最高機密網路突故障！　知情人士曝肇因",
-          "url": "https://www.ettoday.net/news/20261118/3273969.htm"
-        },
-        {
-          "source": "科技新報",
-          "title": "美媒：美國安局內部通訊網路故障，暫未見駭客入侵跡象",
-          "url": "https://technews.tw/2026/11/18/highly-classified-us-national-security-communications-network-goes-down/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難",
       "summary": [
         "自由時報：俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難",
@@ -57,6 +25,33 @@
           "source": "ETtoday",
           "title": "俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難",
           "url": "https://www.ettoday.net/news/20261118/3273964.htm"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "美國安局最高機密網路突故障！　知情人士曝肇因",
+      "summary": [
+        "ETtoday：美國安局最高機密網路突故障！　知情人士曝肇因",
+        "科技新報：美媒：美國安局內部通訊網路故障，暫未見駭客入侵跡象",
+        "經濟日報：美國國家安全域性高機密網路突停擺！情報總監證實：修補重大漏洞釀禍"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "美國安局最高機密網路突故障！　知情人士曝肇因",
+          "url": "https://www.ettoday.net/news/20261118/3273969.htm"
+        },
+        {
+          "source": "科技新報",
+          "title": "美媒：美國安局內部通訊網路故障，暫未見駭客入侵跡象",
+          "url": "https://technews.tw/2026/11/18/highly-classified-us-national-security-communications-network-goes-down/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美國國家安全域性高機密網路突停擺！情報總監證實：修補重大漏洞釀禍",
+          "url": "https://money.udn.com/money/story/5599/9885567"
         }
       ]
     },
@@ -89,6 +84,33 @@
     },
     {
       "rank": 4,
+      "title": "日Suica吉祥物企鵝將退休 紫兔子奪86萬票接棒新代言人",
+      "summary": [
+        "經濟日報：日Suica吉祥物企鵝將退休 紫兔子奪86萬票接棒新代言人",
+        "商業周刊：商周-日本Suica吉祥物企鵝將退休，紫兔子奪86萬票接棒西瓜卡新代言人",
+        "ETtoday：Suica企鵝明年退休！「紫耳兔」高票當選接班人　日網崩潰"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "日Suica吉祥物企鵝將退休 紫兔子奪86萬票接棒新代言人",
+          "url": "https://money.udn.com/money/story/5599/9886574"
+        },
+        {
+          "source": "商業周刊",
+          "title": "商周-日本Suica吉祥物企鵝將退休，紫兔子奪86萬票接棒西瓜卡新代言人",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51Rk5kQmdzX2otR19uV09ybUJCdVR6RW9UWjAtUGRCcEhOSV9BY01MLW5DalYtTWNvSnd3LXk5emRmVDBYdVN5NG5ja1N0aDRQTDhISUpTN3h0UDdoaUF5Yzhtb0xERkFVVEt6WQ?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "Suica企鵝明年退休！「紫耳兔」高票當選接班人　日網崩潰",
+          "url": "https://www.ettoday.net/news/20261118/3274396.htm"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "鴻海收購Sony車載相機模組事業-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：鴻海收購Sony車載相機模組事業-新聞內容-基金",
@@ -109,7 +131,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "快訊／新北永和豪宅傳悲劇 男住戶21樓急墜慘死",
       "summary": [
         "TVBS新聞：快訊／新北永和豪宅傳悲劇 男住戶21樓急墜慘死",
@@ -130,7 +152,28 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "報復雷達系統遇襲 美軍出手空襲伊朗葛希姆島軍事設施",
+      "summary": [
+        "自由時報：報復雷達系統遇襲 美軍出手空襲伊朗葛希姆島軍事設施",
+        "經濟日報：伊朗稱美軍空襲荷莫茲海峽葛希姆島　傳多起爆炸聲"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "報復雷達系統遇襲 美軍出手空襲伊朗葛希姆島軍事設施",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5644374"
+        },
+        {
+          "source": "經濟日報",
+          "title": "伊朗稱美軍空襲荷莫茲海峽葛希姆島　傳多起爆炸聲",
+          "url": "https://money.udn.com/money/story/5599/9885585"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "川普政府傳續推中國光模組禁令  美國光通訊股嗨",
       "summary": [
         "科技新報：川普政府傳續推中國光模組禁令  美國光通訊股嗨",
@@ -151,49 +194,28 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "黃仁勳辭職後首發聲感謝各界支援　承諾配合董事會調查",
+      "rank": 9,
+      "title": "李在明深圳會習近平　盼攜手維護朝鮮半島和平穩定",
       "summary": [
-        "自由時報：黃仁勳辭職後首發聲感謝各界支援　承諾配合董事會調查",
-        "經濟日報：黃仁勳辭職後首發聲感謝各界支援　承諾配合董事會調查"
+        "經濟日報：李在明深圳會習近平　盼攜手維護朝鮮半島和平穩定",
+        "自由時報：李在明會晤習近平 盼共創朝鮮半島和平"
       ],
       "media_count": 2,
       "links": [
+        {
+          "source": "經濟日報",
+          "title": "李在明深圳會習近平　盼攜手維護朝鮮半島和平穩定",
+          "url": "https://money.udn.com/money/story/5599/9886432"
+        },
         {
           "source": "自由時報",
-          "title": "黃仁勳辭職後首發聲感謝各界支援　承諾配合董事會調查",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5644353"
-        },
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳辭職後首發聲感謝各界支援　承諾配合董事會調查",
-          "url": "https://money.udn.com/money/story/5599/9885382"
+          "title": "李在明會晤習近平 盼共創朝鮮半島和平",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645151"
         }
       ]
     },
     {
-      "rank": 8,
-      "title": "黃仁勳首次打破沉默 願重返輝達任執行長",
-      "summary": [
-        "經濟日報：黃仁勳首次打破沉默 願重返輝達任執行長",
-        "科技新報：黃仁勳辭職後打破沉默，表態願回任輝達 CEO"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳首次打破沉默 願重返輝達任執行長",
-          "url": "https://money.udn.com/money/story/123398/9885299"
-        },
-        {
-          "source": "科技新報",
-          "title": "黃仁勳辭職後打破沉默，表態願回任輝達 CEO",
-          "url": "https://technews.tw/2026/11/18/jensen-huang-nvidia/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "輝達第三季營收年增達 103% ，獲利年增翻倍超乎預期，Vera Rubin 已出貨單季貢獻 200 億美元",
       "summary": [
         "科技新報：輝達第三季營收年增達 103% ，獲利年增翻倍超乎預期，Vera Rubin 已出貨單季貢獻 200 億美元",
@@ -210,27 +232,6 @@
           "source": "工商時報",
           "title": "輝達上季營收年增103％ 本季上看1,300億美元 盤後應聲漲4％",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CX1ZUTUZqZHI5WWdXbHZJOFdzSFB3b2pvazlMcjB5TnJjaGxab1lXZ2phcXlXR1dtZDdBdDh6bi1ZaE5KMm01ZjR5N0thWFNXbnJTT3h2Mi04eFZJQzNj?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
-      "summary": [
-        "ETtoday：輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
-        "經濟日報：黃仁勳下臺後輝達首份財報報喜！ 營收翻倍 展望上修 股價盤後漲2%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
-          "url": "https://finance.ettoday.net/news/3273970"
-        },
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳下臺後輝達首份財報報喜！ 營收翻倍 展望上修 股價盤後漲2%",
-          "url": "https://money.udn.com/money/story/123398/9885456"
         }
       ]
     }
@@ -437,16 +438,16 @@
     },
     {
       "rank": 10,
-      "title": "為什麼笛卡爾系統公司的股票今天會下跌？",
+      "title": "黃仁勳辭職後危機加劇，英偉達面臨 SEC 調查",
       "summary": [
-        "Investing.com：為什麼笛卡爾系統公司的股票今天會下跌？"
+        "Investing.com：黃仁勳辭職後危機加劇，英偉達面臨 SEC 調查"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Investing.com",
-          "title": "為什麼笛卡爾系統公司的股票今天會下跌？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-descartes-systems-stock-sliding-today-93CH-5033928"
+          "title": "黃仁勳辭職後危機加劇，英偉達面臨 SEC 調查",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-faces-sec-investigation-as-crisis-deepens-following-huang-resignation-5033965"
         }
       ]
     }
