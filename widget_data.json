@@ -1,26 +1,16 @@
 {
-  "updated_at": "2026-11-19 04:57",
+  "updated_at": "2026-11-19 05:29",
   "taiwan": [
     {
       "rank": 1,
-      "title": "直播》川普抵達深圳習近平親自接機- 政治圈",
+      "title": "川普抵達中國！首位訪深圳現任美國總統 習近平親接機",
       "summary": [
-        "中時新聞：直播》川普抵達深圳習近平親自接機- 政治圈",
-        "經濟日報：川普抵達深圳　預計19日會晤習近平與普丁",
-        "自由時報：川普抵達中國！首位訪深圳現任美國總統 習近平親接機"
+        "自由時報：川普抵達中國！首位訪深圳現任美國總統 習近平親接機",
+        "ETtoday：快訊／川普到深圳了！　習近平「親現身迎接」畫面曝",
+        "經濟日報：川普抵達深圳APEC 將出席與習近平的會談、與普丁的三方峰會"
       ],
       "media_count": 4,
       "links": [
-        {
-          "source": "中時新聞",
-          "title": "直播》川普抵達深圳習近平親自接機- 政治圈",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOVnkxU1VGZW4xUnh4ajNVa3FES3c2VU1WclhFdjdoamM2cE9BN2Y3Q1FuM0dwclBiSEpfOXFFTE5zRFZqdXkyR1lxTkRZaU9CRDZnTC1rakV2akp2amI4WlRiZUJ4UXdxZDFmOWtn?oc=5"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普抵達深圳　預計19日會晤習近平與普丁",
-          "url": "https://money.udn.com/money/story/5599/9887036"
-        },
         {
           "source": "自由時報",
           "title": "川普抵達中國！首位訪深圳現任美國總統 習近平親接機",
@@ -30,6 +20,16 @@
           "source": "ETtoday",
           "title": "快訊／川普到深圳了！　習近平「親現身迎接」畫面曝",
           "url": "https://www.ettoday.net/news/20261118/3274439.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普抵達深圳APEC 將出席與習近平的會談、與普丁的三方峰會",
+          "url": "https://money.udn.com/money/story/5599/9887013"
+        },
+        {
+          "source": "中時新聞",
+          "title": "美國總統川普抵達深圳- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfTnRBd1o3bnk2bEJ5N2tfQ3g5aFl2SzBTelJreTJ2NXhvS3dJc25XRlhfLVRSNlhuUHc1VnA4OGtTWWx5YmdlMGFMS2RfMzI4d29lRHYwa0RFTm13cWJoNHBGNDlxeDJPOHc?oc=5"
         }
       ]
     },
@@ -125,6 +125,27 @@
     },
     {
       "rank": 6,
+      "title": "柯文哲直呼「小草絕不會投給沈伯洋」 網友大酸：這次我投洋流",
+      "summary": [
+        "自由時報：柯文哲直呼「小草絕不會投給沈伯洋」 網友大酸：這次我投洋流",
+        "ETtoday：柯文哲稱絕不投沈伯洋　蔣萬安：民進黨對柯的態度小草看很清楚"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "柯文哲直呼「小草絕不會投給沈伯洋」 網友大酸：這次我投洋流",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5645276"
+        },
+        {
+          "source": "ETtoday",
+          "title": "柯文哲稱絕不投沈伯洋　蔣萬安：民進黨對柯的態度小草看很清楚",
+          "url": "https://www.ettoday.net/news/20261118/3274543.htm"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "1票1000元 里港鄉代候選人樁腳涉現金買票",
       "summary": [
         "自由時報：1票1000元 里港鄉代候選人樁腳涉現金買票",
@@ -145,7 +166,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "蔡康永「撕下蔣」諧音聯想未歇！最新再談「髒東西」：讓它失去力量",
       "summary": [
         "自由時報：蔡康永「撕下蔣」諧音聯想未歇！最新再談「髒東西」：讓它失去力量",
@@ -166,7 +187,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "BTS現身六合夜市掀「貪吃蛇人龍」 V金泰亨買香腸萌秀中文：好吃嗎？",
       "summary": [
         "自由時報：BTS現身六合夜市掀「貪吃蛇人龍」 V金泰亨買香腸萌秀中文：好吃嗎？",
@@ -187,7 +208,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
       "summary": [
         "經濟日報：美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
@@ -206,64 +227,38 @@
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5645643"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
-      "summary": [
-        "經濟日報：曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
-        "自由時報：曼谷審計大樓震塌！中國包商找人頭違法經營 主管判刑3年"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
-          "url": "https://money.udn.com/money/story/5599/9887525"
-        },
-        {
-          "source": "自由時報",
-          "title": "曼谷審計大樓震塌！中國包商找人頭違法經營 主管判刑3年",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645629"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "川普在與普丁和習近平舉行峰會前抵達中國",
+      "title": "Anthropic Eyes 因需求強勁而 IPO 價格超過每股 80 美元：報告",
       "summary": [
-        "Financial Times：川普在與普丁和習近平舉行峰會前抵達中國",
-        "CNBC：川普抵達中國與習近平和普丁進行歷史性會晤",
-        "BBC中文：APEC峰會：特朗普抵達深圳，習近平親赴機場迎接，近半世紀來中國元首首次接機"
+        "Yahoo Finance：Anthropic Eyes 因需求強勁而 IPO 價格超過每股 80 美元：報告",
+        "Bloomberg Markets：據稱 Anthropic 正在考慮將 IPO 價格定為每股 85 美元",
+        "Bloomberg Tech：據稱，Anthropic 的 IPO 定價為每股 83 美元，高於區間"
       ],
-      "media_count": 5,
+      "media_count": 4,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "川普在與普丁和習近平舉行峰會前抵達中國",
-          "url": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1"
+          "source": "Yahoo Finance",
+          "title": "Anthropic Eyes 因需求強勁而 IPO 價格超過每股 80 美元：報告",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckZMUUFhWE1Wb1ZreTZQWGYzcU4yOEdSX0o3Wkp1aldYOG9TYmNCWC1WeWZHc1ZiYzQ3c3F6YzEzY013TVExcC1uQmY4SkxOdVpXcHBEQnpwRDZWR3VnbVJPTkUtOEdoUkk4dWFnV29DaG02S3NBTVc5aENEaTdBT3g3LWVoczkwNWtMeV9NZ3VTa3hjc0djZXdhMA?oc=5"
         },
         {
-          "source": "CNBC",
-          "title": "川普抵達中國與習近平和普丁進行歷史性會晤",
-          "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html"
+          "source": "Bloomberg Markets",
+          "title": "據稱 Anthropic 正在考慮將 IPO 價格定為每股 85 美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-said-to-be-weighing-ipo-price-as-high-as-85-per-share"
         },
         {
-          "source": "BBC中文",
-          "title": "APEC峰會：特朗普抵達深圳，習近平親赴機場迎接，近半世紀來中國元首首次接機",
-          "url": "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad?at_medium=RSS&at_campaign=rss"
+          "source": "Bloomberg Tech",
+          "title": "據稱，Anthropic 的 IPO 定價為每股 83 美元，高於區間",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-is-said-to-price-ipo-at-83-per-share"
         },
         {
-          "source": "BBC World",
-          "title": "川普在中國舉行歷史性會談前與普丁和習近平握手",
-          "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "德國之聲",
-          "title": "特朗普抵達深圳 習近平遵循禮尚往來親自接機",
-          "url": "https://www.dw.com/zh/特朗普抵达深圳-习近平遵循礼尚往来亲自接机/a-79982146?maca=chi-rss-chi-all-1127-rdf"
+          "source": "Investing.com",
+          "title": "根據彭博社報道，Anthropic 考慮 IPO 定價為每股 80-85 美元",
+          "url": "https://www.investing.com/news/stock-market-news/anthropic-weighs-ipo-pricing-of-8085-a-share-bloomberg-reports-5036963"
         }
       ]
     },
@@ -371,6 +366,27 @@
     },
     {
       "rank": 6,
+      "title": "APEC峰會：特朗普抵達深圳，習近平親赴機場迎接，近半世紀來中國元首首次接機",
+      "summary": [
+        "BBC中文：APEC峰會：特朗普抵達深圳，習近平親赴機場迎接，近半世紀來中國元首首次接機",
+        "德國之聲：特朗普抵達深圳 習近平遵循禮尚往來親自接機"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "APEC峰會：特朗普抵達深圳，習近平親赴機場迎接，近半世紀來中國元首首次接機",
+          "url": "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "德國之聲",
+          "title": "特朗普抵達深圳 習近平遵循禮尚往來親自接機",
+          "url": "https://www.dw.com/zh/特朗普抵达深圳-习近平遵循礼尚往来亲自接机/a-79982146?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "習近平與川普熱情擁抱開啟高峰會",
       "summary": [
         "Bloomberg Markets：習近平與川普熱情擁抱開啟高峰會",
@@ -391,7 +407,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "失去英國海軍合約後，赫爾辛縮減普利茅斯工廠規模",
       "summary": [
         "Financial Times：失去英國海軍合約後，赫爾辛縮減普利茅斯工廠規模",
@@ -412,7 +428,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "阿波羅歐洲負責人看到人工智慧和國防的巨大融資需求",
       "summary": [
         "Bloomberg Markets：阿波羅歐洲負責人看到人工智慧和國防的巨大融資需求",
@@ -433,7 +449,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "委員會表示，中國軍方尋求英偉達先進的人工智慧晶片",
       "summary": [
         "CNBC：委員會表示，中國軍方尋求英偉達先進的人工智慧晶片",
@@ -450,27 +466,6 @@
           "source": "Investing.com",
           "title": "報告稱，儘管美國限制，中國仍尋求用於人工智慧武器的先進英偉達晶片",
           "url": "https://www.investing.com/news/stock-market-news/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs-report-says-5035787"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Anthropic Eyes 因需求強勁而 IPO 價格超過每股 80 美元：報告",
-      "summary": [
-        "Yahoo Finance：Anthropic Eyes 因需求強勁而 IPO 價格超過每股 80 美元：報告",
-        "Bloomberg Markets：據稱 Anthropic 正在考慮將 IPO 價格定為每股 85 美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Anthropic Eyes 因需求強勁而 IPO 價格超過每股 80 美元：報告",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckZMUUFhWE1Wb1ZreTZQWGYzcU4yOEdSX0o3Wkp1aldYOG9TYmNCWC1WeWZHc1ZiYzQ3c3F6YzEzY013TVExcC1uQmY4SkxOdVpXcHBEQnpwRDZWR3VnbVJPTkUtOEdoUkk4dWFnV29DaG02S3NBTVc5aENEaTdBT3g3LWVoczkwNWtMeV9NZ3VTa3hjc0djZXdhMA?oc=5"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "據稱 Anthropic 正在考慮將 IPO 價格定為每股 85 美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-said-to-be-weighing-ipo-price-as-high-as-85-per-share"
         }
       ]
     }
