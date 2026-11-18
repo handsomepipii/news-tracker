@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 10:27",
+  "updated_at": "2026-11-18 10:56",
   "taiwan": [
     {
       "rank": 1,
@@ -142,6 +142,27 @@
     },
     {
       "rank": 6,
+      "title": "臺東近海22:28發生規模3.8地震 最大震度2級",
+      "summary": [
+        "自由時報：臺東近海22:28發生規模3.8地震 最大震度2級",
+        "ETtoday：快訊／10:27臺南規模3.5地震　最大震度2級"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "臺東近海22:28發生規模3.8地震 最大震度2級",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5644280"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／10:27臺南規模3.5地震　最大震度2級",
+          "url": "https://www.ettoday.net/news/20261118/3274126.htm"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "憂美選後AI支出放緩 美銀調查經理人減碼科技股創20年最劇",
       "summary": [
         "經濟日報：憂美選後AI支出放緩 美銀調查經理人減碼科技股創20年最劇",
@@ -162,7 +183,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Anthropic將上市　IPO定價傳可望突破每股78美元",
       "summary": [
         "經濟日報：Anthropic將上市　IPO定價傳可望突破每股78美元",
@@ -183,7 +204,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "川普承諾力挺東協盟友 笑稱盧比歐不接電話就開除",
       "summary": [
         "經濟日報：川普承諾力挺東協盟友 笑稱盧比歐不接電話就開除",
@@ -204,7 +225,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "誇張！臺中裡長候選人竟是詐團車手 開宣傳車取款收押禁見",
       "summary": [
         "自由時報：誇張！臺中裡長候選人竟是詐團車手 開宣傳車取款收押禁見",
@@ -221,27 +242,6 @@
           "source": "ETtoday",
           "title": "裡長候選人當車手收400萬遭押！犯案前當告別式司儀...圈內人傻眼",
           "url": "https://www.ettoday.net/news/20261118/3274064.htm"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "打破沉默 WSJ：黃仁勳有意回鍋輝達 CEO",
-      "summary": [
-        "經濟日報：打破沉默 WSJ：黃仁勳有意回鍋輝達 CEO",
-        "自由時報：黃仁勳公開喊話想重返輝達CEO！沈榮欽揭3大訊號"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "打破沉默 WSJ：黃仁勳有意回鍋輝達 CEO",
-          "url": "https://money.udn.com/money/story/123398/9885276"
-        },
-        {
-          "source": "自由時報",
-          "title": "黃仁勳公開喊話想重返輝達CEO！沈榮欽揭3大訊號",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5644414"
         }
       ]
     }
