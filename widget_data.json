@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 05:58",
+  "updated_at": "2026-11-19 06:27",
   "taiwan": [
     {
       "rank": 1,
@@ -51,27 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "川普抵達深圳APEC 將出席與習近平的會談、與普丁的三方峰會",
-      "summary": [
-        "經濟日報：川普抵達深圳APEC 將出席與習近平的會談、與普丁的三方峰會",
-        "中時新聞：美國總統川普抵達深圳- 國際"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普抵達深圳APEC 將出席與習近平的會談、與普丁的三方峰會",
-          "url": "https://money.udn.com/money/story/5599/9887013"
-        },
-        {
-          "source": "中時新聞",
-          "title": "美國總統川普抵達深圳- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfTnRBd1o3bnk2bEJ5N2tfQ3g5aFl2SzBTelJreTJ2NXhvS3dJc25XRlhfLVRSNlhuUHc1VnA4OGtTWWx5YmdlMGFMS2RfMzI4d29lRHYwa0RFTm13cWJoNHBGNDlxeDJPOHc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "柯文哲直呼「小草絕不會投給沈伯洋」 網友大酸：這次我投洋流",
       "summary": [
         "自由時報：柯文哲直呼「小草絕不會投給沈伯洋」 網友大酸：這次我投洋流",
@@ -88,6 +67,27 @@
           "source": "ETtoday",
           "title": "柯文哲稱絕不投沈伯洋　蔣萬安：民進黨對柯的態度小草看很清楚",
           "url": "https://www.ettoday.net/news/20261118/3274543.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "美國總統川普抵達深圳- 國際",
+      "summary": [
+        "中時新聞：美國總統川普抵達深圳- 國際",
+        "經濟日報：川普成首位訪問深圳的美國總統 將見識大陸城市發展實力"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "美國總統川普抵達深圳- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfTnRBd1o3bnk2bEJ5N2tfQ3g5aFl2SzBTelJreTJ2NXhvS3dJc25XRlhfLVRSNlhuUHc1VnA4OGtTWWx5YmdlMGFMS2RfMzI4d29lRHYwa0RFTm13cWJoNHBGNDlxeDJPOHc?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普成首位訪問深圳的美國總統 將見識大陸城市發展實力",
+          "url": "https://money.udn.com/money/story/5599/9887214"
         }
       ]
     },
@@ -258,33 +258,6 @@
     },
     {
       "rank": 2,
-      "title": "今日股市：英偉達財報緩解人工智慧擔憂後，科技期貨上漲",
-      "summary": [
-        "WSJ Markets：今日股市：英偉達財報緩解人工智慧擔憂後，科技期貨上漲",
-        "Investing.com：英偉達前景平息需求擔憂，人工智慧股上漲",
-        "Bloomberg Markets：英偉達業績緩解人工智慧貿易擔憂，美國股指期貨上漲"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "WSJ Markets",
-          "title": "今日股市：英偉達財報緩解人工智慧擔憂後，科技期貨上漲",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026?mod=rss_markets_main"
-        },
-        {
-          "source": "Investing.com",
-          "title": "英偉達前景平息需求擔憂，人工智慧股上漲",
-          "url": "https://www.investing.com/news/stock-market-news/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears-5035514"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "英偉達業績緩解人工智慧貿易擔憂，美國股指期貨上漲",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "獨家－川普政府考慮迫使美國公司披露中國人工智慧的使用情況",
       "summary": [
         "Investing.com：獨家－川普政府考慮迫使美國公司披露中國人工智慧的使用情況",
@@ -311,7 +284,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "散戶對 Anthropic IPO 的熱情可與 SpaceX 首次亮相相媲美",
       "summary": [
         "CNBC：散戶對 Anthropic IPO 的熱情可與 SpaceX 首次亮相相媲美",
@@ -338,49 +311,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "APEC峰會：特朗普抵達深圳，習近平親赴機場迎接，近半世紀來中國元首首次接機",
-      "summary": [
-        "BBC中文：APEC峰會：特朗普抵達深圳，習近平親赴機場迎接，近半世紀來中國元首首次接機",
-        "德國之聲：特朗普抵達深圳 習近平遵循禮尚往來親自接機"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "APEC峰會：特朗普抵達深圳，習近平親赴機場迎接，近半世紀來中國元首首次接機",
-          "url": "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "德國之聲",
-          "title": "特朗普抵達深圳 習近平遵循禮尚往來親自接機",
-          "url": "https://www.dw.com/zh/特朗普抵达深圳-习近平遵循礼尚往来亲自接机/a-79982146?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "習近平與川普熱情擁抱開啟高峰會",
-      "summary": [
-        "Bloomberg Markets：習近平與川普熱情擁抱開啟高峰會",
-        "Bloomberg Tech：川普與習近平在與俄羅斯普丁舉行史無前例的會談前擁抱"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "習近平與川普熱情擁抱開啟高峰會",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-18/xi-trump-begin-summit-with-warm-embrace-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "川普與習近平在與俄羅斯普丁舉行史無前例的會談前擁抱",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-18/the-pulse-with-francine-lacqua-11-18-2026-video"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "title": "失去英國海軍合約後，赫爾辛縮減普利茅斯工廠規模",
       "summary": [
         "Financial Times：失去英國海軍合約後，赫爾辛縮減普利茅斯工廠規模",
@@ -401,7 +332,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "阿波羅歐洲負責人看到人工智慧和國防的巨大融資需求",
       "summary": [
         "Bloomberg Markets：阿波羅歐洲負責人看到人工智慧和國防的巨大融資需求",
@@ -422,7 +353,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "委員會表示，中國軍方尋求英偉達先進的人工智慧晶片",
       "summary": [
         "CNBC：委員會表示，中國軍方尋求英偉達先進的人工智慧晶片",
@@ -443,7 +374,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "Grand Theft Auto VI：Ars Technica 評論",
       "summary": [
         "Ars Technica：Grand Theft Auto VI：Ars Technica 評論",
@@ -460,6 +391,69 @@
           "source": "Bloomberg Tech",
           "title": "Grand Theft Auto VI 不負眾望",
           "url": "https://www.bloomberg.com/news/videos/2026-11-18/grand-theft-auto-vi-lives-up-to-hype-video"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "亞德尼表示，人工智慧貿易“生機勃勃”",
+      "summary": [
+        "Bloomberg Tech：亞德尼表示，人工智慧貿易“生機勃勃”",
+        "Bloomberg Markets：修補人工智慧貿易"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "亞德尼表示，人工智慧貿易“生機勃勃”",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-18/ai-trade-is-alive-and-well-yardeni-says-video"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "修補人工智慧貿易",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/patching-the-ai-trade"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "英偉達前景平息需求擔憂，人工智慧股上漲",
+      "summary": [
+        "Investing.com：英偉達前景平息需求擔憂，人工智慧股上漲",
+        "Bloomberg Tech：Fortress 的伯頓：投資者對人工智慧更加挑剔"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "英偉達前景平息需求擔憂，人工智慧股上漲",
+          "url": "https://www.investing.com/news/stock-market-news/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears-5035514"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Fortress 的伯頓：投資者對人工智慧更加挑剔",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-18/fortress-s-burton-investors-more-discerning-on-ai-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "隨著消費者 NAND 現貨價格下降 20%，SSD、筆記型電腦和手機可能會變得更便宜",
+      "summary": [
+        "Tom's Hardware：隨著消費者 NAND 現貨價格下降 20%，SSD、筆記型電腦和手機可能會變得更便宜",
+        "Wccftech：消費級 NAND 價格下跌 20%，SSD 市場終於出現緩解跡象，預計 2027 年初將再次下跌 5-10%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "隨著消費者 NAND 現貨價格下降 20%，SSD、筆記型電腦和手機可能會變得更便宜",
+          "url": "https://www.tomshardware.com/pc-components/ssds/ssds-laptops-and-phones-may-get-cheaper-as-consumer-nand-spot-pricing-drops-20-percent-bank-of-america-expects-contract-price-drops-report-cites-oversupply-in-consumer-market-amid-declining-demand-and-growing-chinese-competition"
+        },
+        {
+          "source": "Wccftech",
+          "title": "消費級 NAND 價格下跌 20%，SSD 市場終於出現緩解跡象，預計 2027 年初將再次下跌 5-10%",
+          "url": "https://wccftech.com/consumer-nand-prices-decline-by-20/"
         }
       ]
     }
