@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 23:57",
+  "updated_at": "2026-11-19 00:26",
   "taiwan": [
     {
       "rank": 1,
@@ -344,6 +344,27 @@
     },
     {
       "rank": 5,
+      "title": "加州因安全事故禁止 Waymo 高速公路運營",
+      "summary": [
+        "Investing.com：加州因安全事故禁止 Waymo 高速公路運營",
+        "Ars Technica：加州建築區投訴後 Waymo 暫停高速公路行駛"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "加州因安全事故禁止 Waymo 高速公路運營",
+          "url": "https://www.investing.com/news/stock-market-news/california-bans-waymo-freeway-operations-after-safety-incidents-93CH-5034771"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "加州建築區投訴後 Waymo 暫停高速公路行駛",
+          "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "民主黨人調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失",
       "summary": [
         "Financial Times：民主黨人調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失",
@@ -364,7 +385,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "習近平與川普熱情擁抱開啟高峰會",
       "summary": [
         "Bloomberg Markets：習近平與川普熱情擁抱開啟高峰會",
@@ -385,7 +406,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "失去英國海軍合約後，赫爾辛縮減普利茅斯工廠規模",
       "summary": [
         "Financial Times：失去英國海軍合約後，赫爾辛縮減普利茅斯工廠規模",
@@ -406,7 +427,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "委員會表示，中國軍方尋求英偉達先進的人工智慧晶片",
       "summary": [
         "CNBC：委員會表示，中國軍方尋求英偉達先進的人工智慧晶片",
@@ -427,32 +448,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "今天名創優價股價為何大漲？",
-      "summary": [
-        "Investing.com：今天名創優價股價為何大漲？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "今天名創優價股價為何大漲？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-miniso-stock-surging-today-93CH-5034708"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "為什麼梅爾羅斯工業公司的股票今天會下跌？",
+      "title": "散戶對 Anthropic IPO 的熱情可與 SpaceX 首次亮相相媲美",
       "summary": [
-        "Investing.com：為什麼梅爾羅斯工業公司的股票今天會下跌？"
+        "CNBC：散戶對 Anthropic IPO 的熱情可與 SpaceX 首次亮相相媲美",
+        "Investing.com：Anthropic IPO 如何與 SpaceX 抗衡"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
+          "source": "CNBC",
+          "title": "散戶對 Anthropic IPO 的熱情可與 SpaceX 首次亮相相媲美",
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html"
+        },
+        {
           "source": "Investing.com",
-          "title": "為什麼梅爾羅斯工業公司的股票今天會下跌？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-melrose-industries-stock-sliding-today-93CH-5035145"
+          "title": "Anthropic IPO 如何與 SpaceX 抗衡",
+          "url": "https://www.investing.com/news/stock-market-news/how-theanthropic-ipo-stacks-up-against-spacex-5036604"
         }
       ]
     }
