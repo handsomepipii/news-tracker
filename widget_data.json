@@ -1,30 +1,35 @@
 {
-  "updated_at": "2026-11-18 17:26",
+  "updated_at": "2026-11-18 17:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難",
+      "title": "直播》川普抵達深圳習近平親自接機- 政治圈",
       "summary": [
-        "自由時報：俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難",
-        "經濟日報：俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難",
-        "ETtoday：俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難"
+        "中時新聞：直播》川普抵達深圳習近平親自接機- 政治圈",
+        "經濟日報：川普抵達深圳　預計19日會晤習近平與普丁",
+        "自由時報：川普抵達中國！首位訪深圳現任美國總統 習近平親接機"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
-          "source": "自由時報",
-          "title": "俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5644355"
+          "source": "中時新聞",
+          "title": "直播》川普抵達深圳習近平親自接機- 政治圈",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOVnkxU1VGZW4xUnh4ajNVa3FES3c2VU1WclhFdjdoamM2cE9BN2Y3Q1FuM0dwclBiSEpfOXFFTE5zRFZqdXkyR1lxTkRZaU9CRDZnTC1rakV2akp2amI4WlRiZUJ4UXdxZDFmOWtn?oc=5"
         },
         {
           "source": "經濟日報",
-          "title": "俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難",
-          "url": "https://money.udn.com/money/story/5599/9885395"
+          "title": "川普抵達深圳　預計19日會晤習近平與普丁",
+          "url": "https://money.udn.com/money/story/5599/9887036"
+        },
+        {
+          "source": "自由時報",
+          "title": "川普抵達中國！首位訪深圳現任美國總統 習近平親接機",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645239"
         },
         {
           "source": "ETtoday",
-          "title": "俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難",
-          "url": "https://www.ettoday.net/news/20261118/3273964.htm"
+          "title": "快訊／川普到深圳了！　習近平「親現身迎接」畫面曝",
+          "url": "https://www.ettoday.net/news/20261118/3274439.htm"
         }
       ]
     },
@@ -303,27 +308,6 @@
     },
     {
       "rank": 3,
-      "title": "根據《華爾街日報》報道，美國證券交易委員會正在調查黃仁勳退出之際的英偉達",
-      "summary": [
-        "Bloomberg Markets：根據《華爾街日報》報道，美國證券交易委員會正在調查黃仁勳退出之際的英偉達",
-        "TechCrunch：據報道，美國證券交易委員會（SEC）在黃仁勳退出之際調查英偉達"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "根據《華爾街日報》報道，美國證券交易委員會正在調查黃仁勳退出之際的英偉達",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "據報道，美國證券交易委員會（SEC）在黃仁勳退出之際調查英偉達",
-          "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "黃仁勳下臺後，英偉達放棄中國",
       "summary": [
         "TechCrunch：黃仁勳下臺後，英偉達放棄中國",
@@ -344,7 +328,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "工會表示，大衛瓊斯將裁員 1,500 人以求生存",
       "summary": [
         "Bloomberg Markets：工會表示，大衛瓊斯將裁員 1,500 人以求生存",
@@ -365,7 +349,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "美軍襲擊伊朗飛彈設施；雙方互相攻擊",
       "summary": [
         "NHK新聞：美軍襲擊伊朗飛彈設施；雙方互相攻擊",
@@ -386,7 +370,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "盧比歐稱最近美國科技中斷無關，並非敵對行為",
       "summary": [
         "Bloomberg Tech：盧比歐稱最近美國科技中斷無關，並非敵對行為",
@@ -407,7 +391,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "民主黨贏得阿拉斯加州參議院席位，完成中期選舉勝利",
       "summary": [
         "Financial Times：民主黨贏得阿拉斯加州參議院席位，完成中期選舉勝利",
@@ -428,6 +412,21 @@
       ]
     },
     {
+      "rank": 8,
+      "title": "今天名創優價股價為何大漲？",
+      "summary": [
+        "Investing.com：今天名創優價股價為何大漲？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "今天名創優價股價為何大漲？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-miniso-stock-surging-today-93CH-5034708"
+        }
+      ]
+    },
+    {
       "rank": 9,
       "title": "韓中領導人今在深圳舉行會談",
       "summary": [
@@ -444,16 +443,16 @@
     },
     {
       "rank": 10,
-      "title": "今天名創優價股價為何大漲？",
+      "title": "隨著鐵礦石壓力增大，必和必拓、力拓高層將與中國領導人會面",
       "summary": [
-        "Investing.com：今天名創優價股價為何大漲？"
+        "Investing.com：隨著鐵礦石壓力增大，必和必拓、力拓高層將與中國領導人會面"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Investing.com",
-          "title": "今天名創優價股價為何大漲？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-miniso-stock-surging-today-93CH-5034708"
+          "title": "隨著鐵礦石壓力增大，必和必拓、力拓高層將與中國領導人會面",
+          "url": "https://www.investing.com/news/stock-market-news/bhp-rio-tinto-executives-to-meet-china-leaders-as-iron-ore-pressure-builds-5034400"
         }
       ]
     }
