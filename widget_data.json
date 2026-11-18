@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 07:27",
+  "updated_at": "2026-11-19 07:57",
   "taiwan": [
     {
       "rank": 1,
@@ -78,27 +78,6 @@
     },
     {
       "rank": 4,
-      "title": "雙重國籍問題引質疑 應佳妤：已著手辦理放棄加拿大國籍",
-      "summary": [
-        "自由時報：雙重國籍問題引質疑 應佳妤：已著手辦理放棄加拿大國籍",
-        "ETtoday：選舉公報未勾不具外國籍　應佳妤：正在放棄加拿大國籍"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "雙重國籍問題引質疑 應佳妤：已著手辦理放棄加拿大國籍",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5645489"
-        },
-        {
-          "source": "ETtoday",
-          "title": "選舉公報未勾不具外國籍　應佳妤：正在放棄加拿大國籍",
-          "url": "https://www.ettoday.net/news/20261119/3274597.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "1票1000元 里港鄉代候選人樁腳涉現金買票",
       "summary": [
         "自由時報：1票1000元 里港鄉代候選人樁腳涉現金買票",
@@ -119,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "蔡康永「撕下蔣」諧音聯想未歇！最新再談「髒東西」：讓它失去力量",
       "summary": [
         "自由時報：蔡康永「撕下蔣」諧音聯想未歇！最新再談「髒東西」：讓它失去力量",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "行政院明修法　大型柴油車汰換減徵貨物稅最高40萬延至2030年底",
       "summary": [
         "ETtoday：行政院明修法　大型柴油車汰換減徵貨物稅最高40萬延至2030年底",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "BTS現身六合夜市掀「貪吃蛇人龍」 V金泰亨買香腸萌秀中文：好吃嗎？",
       "summary": [
         "自由時報：BTS現身六合夜市掀「貪吃蛇人龍」 V金泰亨買香腸萌秀中文：好吃嗎？",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
       "summary": [
         "經濟日報：美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
       "summary": [
         "經濟日報：曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
@@ -220,6 +199,27 @@
           "source": "自由時報",
           "title": "曼谷審計大樓震塌！中國包商找人頭違法經營 主管判刑3年",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5645629"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "歐盟提議供烏克蘭1.6兆元貸款　由俄未來戰爭賠款償還",
+      "summary": [
+        "經濟日報：歐盟提議供烏克蘭1.6兆元貸款　由俄未來戰爭賠款償還",
+        "ETtoday：加碼1.6兆援烏！歐盟提議2027再貸450億歐元「俄賠償才還款」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "歐盟提議供烏克蘭1.6兆元貸款　由俄未來戰爭賠款償還",
+          "url": "https://money.udn.com/money/story/5599/9887508"
+        },
+        {
+          "source": "ETtoday",
+          "title": "加碼1.6兆援烏！歐盟提議2027再貸450億歐元「俄賠償才還款」",
+          "url": "https://www.ettoday.net/news/20261118/3274576.htm"
         }
       ]
     }
@@ -291,48 +291,6 @@
     },
     {
       "rank": 3,
-      "title": "亞德尼表示，人工智慧貿易“生機勃勃”",
-      "summary": [
-        "Bloomberg Tech：亞德尼表示，人工智慧貿易“生機勃勃”",
-        "Bloomberg Markets：修補人工智慧貿易"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "亞德尼表示，人工智慧貿易“生機勃勃”",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-18/ai-trade-is-alive-and-well-yardeni-says-video"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "修補人工智慧貿易",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/patching-the-ai-trade"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "英偉達前景平息需求擔憂，人工智慧股上漲",
-      "summary": [
-        "Investing.com：英偉達前景平息需求擔憂，人工智慧股上漲",
-        "Bloomberg Tech：Fortress 的伯頓：投資者對人工智慧更加挑剔"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "英偉達前景平息需求擔憂，人工智慧股上漲",
-          "url": "https://www.investing.com/news/stock-market-news/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears-5035514"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Fortress 的伯頓：投資者對人工智慧更加挑剔",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-18/fortress-s-burton-investors-more-discerning-on-ai-video"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "隨著消費者 NAND 現貨價格下降 20%，SSD、筆記型電腦和手機可能會變得更便宜",
       "summary": [
         "Tom's Hardware：隨著消費者 NAND 現貨價格下降 20%，SSD、筆記型電腦和手機可能會變得更便宜",
@@ -353,7 +311,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "烏克蘭的「飛行調變解調器」幫助推倒了普丁的橋樑",
       "summary": [
         "Financial Times：烏克蘭的「飛行調變解調器」幫助推倒了普丁的橋樑",
@@ -374,7 +332,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
       "summary": [
         "Financial Times：美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
@@ -395,7 +353,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "據報道，NVIDIA GPU 驅動程式每小時向 SSD 寫入高達 30GB 的資料，與 AMD 最近的驅動程式錯誤相呼應",
       "summary": [
         "Wccftech：據報道，NVIDIA GPU 驅動程式每小時向 SSD 寫入高達 30GB 的資料，與 AMD 最近的驅動程式錯誤相呼應",
@@ -416,7 +374,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "特朗普政府考慮強制美企披露中國AI使用情況",
       "summary": [
         "德國之聲：特朗普政府考慮強制美企披露中國AI使用情況",
@@ -437,7 +395,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "威爾·賴特 (Will Wright) 的下一款遊戲將使用人工智慧來繪製你的記憶",
       "summary": [
         "The Verge：威爾·賴特 (Will Wright) 的下一款遊戲將使用人工智慧來繪製你的記憶",
@@ -454,6 +412,48 @@
           "source": "Ars Technica",
           "title": "威爾·賴特的下一個模擬將使用人工智慧從你的記憶中挖掘內容",
           "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "為什麼 Anthropic 的 IPO 可能成為投資者的陷阱",
+      "summary": [
+        "Yahoo Finance：為什麼 Anthropic 的 IPO 可能成為投資者的陷阱",
+        "CNBC：為什麼 Anthropic 的火熱 IPO 會吸引賣家——此外，低迷市場的一線希望"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "為什麼 Anthropic 的 IPO 可能成為投資者的陷阱",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZkFDQlhZTkUwanhoT3JzRGVBYVRFeThMWXQwVTl6U01SekpYMVA4ak95WWh0UXl2TWk5aUFIekVWX0Jxd1BSSVh5TmhYVFNHWjg0NVFuZzQ5T3BMRzYwUWpSVFJmRnI3c1ZHRUE0WGdIdzRiblM1Mlp4anlaVEFRRHU5Vi14TDNBdzRBdUJKVGhrMGtiUkdTY0lhQ0Vfa2tQM1FhX1JzdDU3dWJJ?oc=5"
+        },
+        {
+          "source": "CNBC",
+          "title": "為什麼 Anthropic 的火熱 IPO 會吸引賣家——此外，低迷市場的一線希望",
+          "url": "https://www.cnbc.com/investingclub/2026/11/18/why-anthropics-hot-ipo-is-bringing-out-sellers-plus-a-down-market-silver-lining.html"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "哈基姆·傑弗里斯被提名為美國眾議院議長",
+      "summary": [
+        "BBC World：哈基姆·傑弗里斯被提名為美國眾議院議長",
+        "Financial Times：民主黨提名哈基姆·傑弗里斯為美國眾議院議長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "哈基姆·傑弗里斯被提名為美國眾議院議長",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Financial Times",
+          "title": "民主黨提名哈基姆·傑弗里斯為美國眾議院議長",
+          "url": "https://www.ft.com/content/9d0998cf-ffb8-4fe4-9f85-0c403b1966f9?syn-25a6b1a6=1"
         }
       ]
     }
