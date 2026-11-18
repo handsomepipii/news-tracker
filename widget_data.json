@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 00:57",
+  "updated_at": "2026-11-19 01:27",
   "taiwan": [
     {
       "rank": 1,
@@ -83,48 +83,6 @@
     },
     {
       "rank": 4,
-      "title": "川普要求福特級航艦改回蒸汽彈射，美參院兩黨齊聲反對",
-      "summary": [
-        "科技新報：川普要求福特級航艦改回蒸汽彈射，美參院兩黨齊聲反對",
-        "自由時報：川普下令新造航艦改回蒸汽彈射 共和黨參院大老直言「沒門」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "川普要求福特級航艦改回蒸汽彈射，美參院兩黨齊聲反對",
-          "url": "https://technews.tw/2026/11/18/us-senate-opposes-the-plan-for-ford-class-changing-back-to-steam-catapults/"
-        },
-        {
-          "source": "自由時報",
-          "title": "川普下令新造航艦改回蒸汽彈射 共和黨參院大老直言「沒門」",
-          "url": "https://news.ltn.com.tw/news/def/breakingnews/5645084"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "接連闖施工區遭加州禁行　Waymo暫停全美高速服務",
-      "summary": [
-        "經濟日報：接連闖施工區遭加州禁行　Waymo暫停全美高速服務",
-        "科技新報：接連闖施工區遭加州禁行，Waymo 暫停全美高速服務"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "接連闖施工區遭加州禁行　Waymo暫停全美高速服務",
-          "url": "https://money.udn.com/money/story/5599/9886345"
-        },
-        {
-          "source": "科技新報",
-          "title": "接連闖施工區遭加州禁行，Waymo 暫停全美高速服務",
-          "url": "https://technews.tw/2026/11/18/waymo-pauses-robotaxi-rides-on-us-freeways-after-california-ban/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "日本JINS爆1829萬筆個資外洩！ 臺灣宣告不受影響",
       "summary": [
         "自由時報：日本JINS爆1829萬筆個資外洩！ 臺灣宣告不受影響",
@@ -145,7 +103,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "輝達：已停止向中國出貨 Hopper 晶片",
       "summary": [
         "科技新報：輝達：已停止向中國出貨 Hopper 晶片",
@@ -166,7 +124,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "輝達新掌門續挺 AI 融資、僅強調會嚴選  Nebius 嗨",
       "summary": [
         "科技新報：輝達新掌門續挺 AI 融資、僅強調會嚴選  Nebius 嗨",
@@ -187,7 +145,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "經濟學人剖析 2027 年趨勢，川普政治動向、臺海安全與 AI 風險受矚",
       "summary": [
         "科技新報：經濟學人剖析 2027 年趨勢，川普政治動向、臺海安全與 AI 風險受矚",
@@ -208,7 +166,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Anthropic啟動上市　將成檢驗全球AI投資熱潮關鍵指標",
       "summary": [
         "經濟日報：Anthropic啟動上市　將成檢驗全球AI投資熱潮關鍵指標",
@@ -225,6 +183,48 @@
           "source": "科技新報",
           "title": "Anthropic 啟動上市，將成檢驗全球 AI 投資熱潮關鍵指標",
           "url": "https://finance.technews.tw/2026/11/18/anthropic-ipo-to-test-the-ai-investment-boom/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "首度同框！彰縣公辦政見會登場 縣長候選人幸運小物曝光",
+      "summary": [
+        "自由時報：首度同框！彰縣公辦政見會登場 縣長候選人幸運小物曝光",
+        "ETtoday：周杰倫、江蕙珍貴戰袍曝光！黃韻玲、許富凱也加入　新身分揭曉"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "首度同框！彰縣公辦政見會登場 縣長候選人幸運小物曝光",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5644991"
+        },
+        {
+          "source": "ETtoday",
+          "title": "周杰倫、江蕙珍貴戰袍曝光！黃韻玲、許富凱也加入　新身分揭曉",
+          "url": "https://star.ettoday.net/news/3274548"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "2026臺灣國際衝浪公開賽進入決戰倒數 22日金樽冠軍戰",
+      "summary": [
+        "自由時報：2026臺灣國際衝浪公開賽進入決戰倒數 22日金樽冠軍戰",
+        "ETtoday：臺灣國際衝浪公開賽進入決戰　金樽海域11/22迎年度冠軍賽"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "2026臺灣國際衝浪公開賽進入決戰倒數 22日金樽冠軍戰",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5644981"
+        },
+        {
+          "source": "ETtoday",
+          "title": "臺灣國際衝浪公開賽進入決戰　金樽海域11/22迎年度冠軍賽",
+          "url": "https://www.ettoday.net/news/20261118/3274302.htm"
         }
       ]
     }
@@ -323,48 +323,6 @@
     },
     {
       "rank": 4,
-      "title": "民主黨贏得阿拉斯加州參議院席位，完成中期選舉勝利",
-      "summary": [
-        "Financial Times：民主黨贏得阿拉斯加州參議院席位，完成中期選舉勝利",
-        "BBC World：中期計票開始兩週後，民主黨贏得阿拉斯加參議院選舉"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "民主黨贏得阿拉斯加州參議院席位，完成中期選舉勝利",
-          "url": "https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240?syn-25a6b1a6=1"
-        },
-        {
-          "source": "BBC World",
-          "title": "中期計票開始兩週後，民主黨贏得阿拉斯加參議院選舉",
-          "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "英偉達表示，沒有黃仁勳，它也能蓬勃發展",
-      "summary": [
-        "Bloomberg Markets：英偉達表示，沒有黃仁勳，它也能蓬勃發展",
-        "Bloomberg Tech：英偉達向謹慎的投資者表示，沒有黃仁勳，它也能蓬勃發展"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "英偉達表示，沒有黃仁勳，它也能蓬勃發展",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-18/the-asia-trade-11-18-2026-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "英偉達向謹慎的投資者表示，沒有黃仁勳，它也能蓬勃發展",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-18/nvidia-argues-to-investors-it-can-thrive-without-huang-video"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "加州因安全事故禁止 Waymo 高速公路運營",
       "summary": [
         "Investing.com：加州因安全事故禁止 Waymo 高速公路運營",
@@ -385,7 +343,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "民主黨人調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失",
       "summary": [
         "Financial Times：民主黨人調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失",
@@ -406,7 +364,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "習近平與川普熱情擁抱開啟高峰會",
       "summary": [
         "Bloomberg Markets：習近平與川普熱情擁抱開啟高峰會",
@@ -427,7 +385,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "失去英國海軍合約後，赫爾辛縮減普利茅斯工廠規模",
       "summary": [
         "Financial Times：失去英國海軍合約後，赫爾辛縮減普利茅斯工廠規模",
@@ -448,7 +406,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "委員會表示，中國軍方尋求英偉達先進的人工智慧晶片",
       "summary": [
         "CNBC：委員會表示，中國軍方尋求英偉達先進的人工智慧晶片",
@@ -465,6 +423,48 @@
           "source": "Investing.com",
           "title": "報告稱，儘管美國限制，中國仍尋求用於人工智慧武器的先進英偉達晶片",
           "url": "https://www.investing.com/news/stock-market-news/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs-report-says-5035787"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "隨著黃仁勳的離開，Colette Kress 表明 Nvidia 仍然是人工智慧的中心",
+      "summary": [
+        "CNBC：隨著黃仁勳的離開，Colette Kress 表明 Nvidia 仍然是人工智慧的中心",
+        "Bloomberg Tech：Nvidia財報：黃仁勳退出後，Colette Kress收緊人工智慧開支"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "隨著黃仁勳的離開，Colette Kress 表明 Nvidia 仍然是人工智慧的中心",
+          "url": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Nvidia財報：黃仁勳退出後，Colette Kress收緊人工智慧開支",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/nvidia-earnings-colette-kress-tightens-ai-spending-after-jensen-huang-s-exit"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "散戶對 Anthropic IPO 的熱情可與 SpaceX 首次亮相相媲美",
+      "summary": [
+        "CNBC：散戶對 Anthropic IPO 的熱情可與 SpaceX 首次亮相相媲美",
+        "Investing.com：Anthropic IPO 如何與 SpaceX 抗衡"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "散戶對 Anthropic IPO 的熱情可與 SpaceX 首次亮相相媲美",
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Anthropic IPO 如何與 SpaceX 抗衡",
+          "url": "https://www.investing.com/news/stock-market-news/how-theanthropic-ipo-stacks-up-against-spacex-5036604"
         }
       ]
     }
