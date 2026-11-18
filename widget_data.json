@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 16:56",
+  "updated_at": "2026-11-18 17:26",
   "taiwan": [
     {
       "rank": 1,
@@ -276,6 +276,33 @@
     },
     {
       "rank": 2,
+      "title": "普丁抵達中國出席川普、習近平會晤",
+      "summary": [
+        "Bloomberg Markets：普丁抵達中國出席川普、習近平會晤",
+        "CNBC：川普、習近平和普丁在中國會晤時值得關注的三件事",
+        "Financial Times：川普在與普丁和習近平舉行峰會前抵達中國"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "普丁抵達中國出席川普、習近平會晤",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video"
+        },
+        {
+          "source": "CNBC",
+          "title": "川普、習近平和普丁在中國會晤時值得關注的三件事",
+          "url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html"
+        },
+        {
+          "source": "Financial Times",
+          "title": "川普在與普丁和習近平舉行峰會前抵達中國",
+          "url": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "根據《華爾街日報》報道，美國證券交易委員會正在調查黃仁勳退出之際的英偉達",
       "summary": [
         "Bloomberg Markets：根據《華爾街日報》報道，美國證券交易委員會正在調查黃仁勳退出之際的英偉達",
@@ -292,27 +319,6 @@
           "source": "TechCrunch",
           "title": "據報道，美國證券交易委員會（SEC）在黃仁勳退出之際調查英偉達",
           "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "普丁抵達中國出席川普、習近平會晤",
-      "summary": [
-        "Bloomberg Markets：普丁抵達中國出席川普、習近平會晤",
-        "CNBC：川普、習近平和普丁在中國會晤時值得關注的三件事"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "普丁抵達中國出席川普、習近平會晤",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video"
-        },
-        {
-          "source": "CNBC",
-          "title": "川普、習近平和普丁在中國會晤時值得關注的三件事",
-          "url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html"
         }
       ]
     },
@@ -438,16 +444,16 @@
     },
     {
       "rank": 10,
-      "title": "黃仁勳辭職後危機加劇，英偉達面臨 SEC 調查",
+      "title": "今天名創優價股價為何大漲？",
       "summary": [
-        "Investing.com：黃仁勳辭職後危機加劇，英偉達面臨 SEC 調查"
+        "Investing.com：今天名創優價股價為何大漲？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Investing.com",
-          "title": "黃仁勳辭職後危機加劇，英偉達面臨 SEC 調查",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-faces-sec-investigation-as-crisis-deepens-following-huang-resignation-5033965"
+          "title": "今天名創優價股價為何大漲？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-miniso-stock-surging-today-93CH-5034708"
         }
       ]
     }
