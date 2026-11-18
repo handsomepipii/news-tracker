@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 22:27",
+  "updated_at": "2026-11-18 22:58",
   "taiwan": [
     {
       "rank": 1,
@@ -89,48 +89,6 @@
     },
     {
       "rank": 4,
-      "title": "快訊／新北永和豪宅傳悲劇 男住戶21樓急墜慘死",
-      "summary": [
-        "TVBS新聞：快訊／新北永和豪宅傳悲劇 男住戶21樓急墜慘死",
-        "自由時報：陳品安11/21山線造勢 總統賴清德將赴苗栗力挺"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "快訊／新北永和豪宅傳悲劇 男住戶21樓急墜慘死",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mTUhPT0cya2ZPS3JHd3dlTUtGMm9VcDdNdVdWUkZaUHFzNnVNSFVZRlRvYUhMY3ZjZmsxMzF6dXRQSi1xb3ZsZTlUa0hvYkU?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "陳品安11/21山線造勢 總統賴清德將赴苗栗力挺",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5644715"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "《劍橋詞典》2026年度代表詞「Human」：AI時代下生而為人的危機感？",
-      "summary": [
-        "轉角國際：《劍橋詞典》2026年度代表詞「Human」：AI時代下生而為人的危機感？",
-        "公視新聞：《劍橋詞典》年度代表字「人」 反映AI時代危機感｜20261118 8點新世界"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "轉角國際",
-          "title": "《劍橋詞典》2026年度代表詞「Human」：AI時代下生而為人的危機感？",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0dFdzX3BNZHZWU1ZIeWJDRTZXWkRWWjZ0UEdIVkJRcXoyWlpQT19pWjFPUHloWTJQNHdNRGJPSEl6UTZCOEJTQU10V1dWYlU2U1piSWlMODREYjdOVWR2Uk9scW40Z9IBa0FVX3lxTFBuZUJ5WHV4S05WWlBTU0RaOURMTHlrRTJYaWpfWWUtR0puV0x6d1E3RUpXMWZIeGRwSFVndGJhbnJUTjhnSEpySVFaRnJzcnV5Y2I2N2NiLXFnYXNNZWVKZm5TamN6Z0tRRzhB?oc=5"
-        },
-        {
-          "source": "公視新聞",
-          "title": "《劍橋詞典》年度代表字「人」 反映AI時代危機感｜20261118 8點新世界",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UZ3JIeG9kZjU3U2lWRVA4bndBZXpUakRCOEFBN1NwejNWdFFCdXZ0UE93aF9pejl2U29zR0FNOFJZMldITDM5TTJFSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "告五人跨年不趕場！獨留臺東熱唱50分鐘 超強卡司曝光",
       "summary": [
         "自由時報：告五人跨年不趕場！獨留臺東熱唱50分鐘 超強卡司曝光",
@@ -151,7 +109,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "李在明深圳會習近平　盼攜手維護朝鮮半島和平穩定",
       "summary": [
         "經濟日報：李在明深圳會習近平　盼攜手維護朝鮮半島和平穩定",
@@ -172,28 +130,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "真的急了！張啟楷當街撒尿　民眾黨團總召緩頰：嘉義郊區多盼體諒",
-      "summary": [
-        "ETtoday：真的急了！張啟楷當街撒尿　民眾黨團總召緩頰：嘉義郊區多盼體諒",
-        "自由時報：張啟楷被爆當街撒尿惹議！民眾黨團總召回應：急了"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "真的急了！張啟楷當街撒尿　民眾黨團總召緩頰：嘉義郊區多盼體諒",
-          "url": "https://www.ettoday.net/news/20261118/3274136.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "張啟楷被爆當街撒尿惹議！民眾黨團總召回應：急了",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5644801"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "科林研發新臺灣技術中心動土！2028 年啟用、實驗室空間擴增 9 倍",
       "summary": [
         "科技新報：科林研發新臺灣技術中心動土！2028 年啟用、實驗室空間擴增 9 倍",
@@ -214,7 +151,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "中國男子攀登富士山失蹤　父懸賞250萬尋人引疑慮",
       "summary": [
         "經濟日報：中國男子攀登富士山失蹤　父懸賞250萬尋人引疑慮",
@@ -231,6 +168,69 @@
           "source": "ETtoday",
           "title": "封山仍硬闖！中國男爬富士山失蹤「懸賞250萬」　網憂二次山難",
           "url": "https://www.ettoday.net/news/20261118/3274281.htm"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "經濟學人剖析2027年趨勢　臺海安全與AI風險受矚",
+      "summary": [
+        "經濟日報：經濟學人剖析2027年趨勢　臺海安全與AI風險受矚",
+        "科技新報：經濟學人剖析 2027 年趨勢，川普政治動向、臺海安全與 AI 風險受矚"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "經濟學人剖析2027年趨勢　臺海安全與AI風險受矚",
+          "url": "https://money.udn.com/money/story/5599/9885863"
+        },
+        {
+          "source": "科技新報",
+          "title": "經濟學人剖析 2027 年趨勢，川普政治動向、臺海安全與 AI 風險受矚",
+          "url": "https://finance.technews.tw/2026/11/18/economist-2027-trends-trump-politics-taiwan-strait-security-ai-risks/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "輝達董事長財報會議明言：「無意讓黃仁勳重任執行長」",
+      "summary": [
+        "鉅亨網：輝達董事長財報會議明言：「無意讓黃仁勳重任執行長」",
+        "工商時報：無勳之達》輝達電話會議 董事會：不打算讓黃仁勳回任CEO"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "鉅亨網",
+          "title": "輝達董事長財報會議明言：「無意讓黃仁勳重任執行長」",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54Tm51SDdic21YdlRUTkNPX1RmRnJad2NrWlhLQlMzRDA5eXhwdW5Qb013ZE1iR1JRNTN2ZTM1ODdHdW1RTlhhZ2c0a2ZtclU?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "無勳之達》輝達電話會議 董事會：不打算讓黃仁勳回任CEO",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jX3h0UW1FZ256MTc5a1JhZm5KYXdUZ2dsTTFEYnhzb1RtVzV2TzBwcml4OUxFRGZFcFF3TUtPNG9pTHlzMVpHWC1qaDJhaF8wLUtMdVdPUzh4YnZ1aU1n?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "嘉市西區議員選舉賄選 支持者涉每票千元買票遭收押",
+      "summary": [
+        "自由時報：嘉市西區議員選舉賄選 支持者涉每票千元買票遭收押",
+        "ETtoday：金門選舉再爆現金買票！議員候選人樁腳遭拘提　查扣逾10萬賄款"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "嘉市西區議員選舉賄選 支持者涉每票千元買票遭收押",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5644711"
+        },
+        {
+          "source": "ETtoday",
+          "title": "金門選舉再爆現金買票！議員候選人樁腳遭拘提　查扣逾10萬賄款",
+          "url": "https://www.ettoday.net/news/20261118/3274438.htm"
         }
       ]
     }
@@ -407,6 +407,27 @@
     },
     {
       "rank": 8,
+      "title": "隨著黃仁勳的離開，Colette Kress 表明 Nvidia 仍然是人工智慧的中心",
+      "summary": [
+        "CNBC：隨著黃仁勳的離開，Colette Kress 表明 Nvidia 仍然是人工智慧的中心",
+        "Bloomberg Tech：Nvidia財報：黃仁勳退出後，Colette Kress收緊人工智慧開支"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "隨著黃仁勳的離開，Colette Kress 表明 Nvidia 仍然是人工智慧的中心",
+          "url": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Nvidia財報：黃仁勳退出後，Colette Kress收緊人工智慧開支",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/nvidia-earnings-colette-kress-tightens-ai-spending-after-jensen-huang-s-exit"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "獨家－川普政府考慮迫使美國公司披露中國人工智慧的使用情況",
       "summary": [
         "Investing.com：獨家－川普政府考慮迫使美國公司披露中國人工智慧的使用情況",
@@ -427,7 +448,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "今天名創優價股價為何大漲？",
       "summary": [
         "Investing.com：今天名創優價股價為何大漲？"
@@ -438,21 +459,6 @@
           "source": "Investing.com",
           "title": "今天名創優價股價為何大漲？",
           "url": "https://www.investing.com/news/stock-market-news/why-is-miniso-stock-surging-today-93CH-5034708"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "今天京東股價為何暴跌？",
-      "summary": [
-        "Investing.com：今天京東股價為何暴跌？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "今天京東股價為何暴跌？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-jdcom-stock-tumbling-today-93CH-5034638"
         }
       ]
     }
