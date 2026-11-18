@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 04:27",
+  "updated_at": "2026-11-19 04:57",
   "taiwan": [
     {
       "rank": 1,
@@ -83,48 +83,6 @@
     },
     {
       "rank": 4,
-      "title": "永信藥品委外電商服務商發生資安事件，部分會員個資疑似外洩",
-      "summary": [
-        "iThome：永信藥品委外電商服務商發生資安事件，部分會員個資疑似外洩",
-        "公開資訊觀測站重訊：永信藥品委外電商服務商發生資安事件，部分會員個資疑似外洩"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "永信藥品委外電商服務商發生資安事件，部分會員個資疑似外洩",
-          "url": "https://www.ithome.com.tw/news/180619"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "永信藥品委外電商服務商發生資安事件，部分會員個資疑似外洩",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYVlZmRXRsWGVhUWhaaHB1b3UyMkkzMVRsRXJ5eE5IOHBHNnN0NWNXTTRVMWRFT0RVSFVIeEE2a012TTFRbEd0U25JX1l3QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "日相高市抵達深圳參加APEC　執政後首訪中國",
-      "summary": [
-        "經濟日報：日相高市抵達深圳參加APEC　執政後首訪中國",
-        "風傳媒：APEC現場》施振榮抵達深圳！中國派這官員接機 與加拿大總理下榻同一飯店 | 鍾秉哲 | 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "日相高市抵達深圳參加APEC　執政後首訪中國",
-          "url": "https://money.udn.com/money/story/5599/9886954"
-        },
-        {
-          "source": "風傳媒",
-          "title": "APEC現場》施振榮抵達深圳！中國派這官員接機 與加拿大總理下榻同一飯店 | 鍾秉哲 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jNU5kLVhQY3FRMXg3eFFvV3ZabUFvQ2EzSEgwZExlOVlVemhVand2LWFZZnRtM281THRlX0NQajY1cHhUZlFleWZvWE00UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Sony警告《GTA 6》要更新PS5才能玩！澳洲肯德基辦假葬禮提供請假理由",
       "summary": [
         "自由時報：Sony警告《GTA 6》要更新PS5才能玩！澳洲肯德基辦假葬禮提供請假理由",
@@ -145,7 +103,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "韓中FTA談判達成協議 限韓令是否鬆綁仍有待觀察",
       "summary": [
         "經濟日報：韓中FTA談判達成協議 限韓令是否鬆綁仍有待觀察",
@@ -166,7 +124,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "1票1000元 里港鄉代候選人樁腳涉現金買票",
       "summary": [
         "自由時報：1票1000元 里港鄉代候選人樁腳涉現金買票",
@@ -187,7 +145,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "蔡康永「撕下蔣」諧音聯想未歇！最新再談「髒東西」：讓它失去力量",
       "summary": [
         "自由時報：蔡康永「撕下蔣」諧音聯想未歇！最新再談「髒東西」：讓它失去力量",
@@ -208,7 +166,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "BTS現身六合夜市掀「貪吃蛇人龍」 V金泰亨買香腸萌秀中文：好吃嗎？",
       "summary": [
         "自由時報：BTS現身六合夜市掀「貪吃蛇人龍」 V金泰亨買香腸萌秀中文：好吃嗎？",
@@ -225,6 +183,48 @@
           "source": "TVBS新聞",
           "title": "BTS逛六合夜市「射氣球、吃香腸」V中文問:好吃嗎?｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DMHBqZ0pzQVo1dDgtNlJwWlA3V0szM1g4MUVBWGhKRWxpS0VxUWxGS1FhWlNoWk9GaDVzdE5pemJCVHpvRlFySjdVaE85bkhEbl9RNE5n?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
+      "summary": [
+        "經濟日報：美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
+        "自由時報：美政府報告：中國尋求取得輝達先進晶片 用於AI武器"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
+          "url": "https://money.udn.com/money/story/5599/9887559"
+        },
+        {
+          "source": "自由時報",
+          "title": "美政府報告：中國尋求取得輝達先進晶片 用於AI武器",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645643"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
+      "summary": [
+        "經濟日報：曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
+        "自由時報：曼谷審計大樓震塌！中國包商找人頭違法經營 主管判刑3年"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
+          "url": "https://money.udn.com/money/story/5599/9887525"
+        },
+        {
+          "source": "自由時報",
+          "title": "曼谷審計大樓震塌！中國包商找人頭違法經營 主管判刑3年",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645629"
         }
       ]
     }
@@ -455,22 +455,22 @@
     },
     {
       "rank": 10,
-      "title": "隨著黃仁勳的離開，Colette Kress 表明 Nvidia 仍然是人工智慧的中心",
+      "title": "Anthropic Eyes 因需求強勁而 IPO 價格超過每股 80 美元：報告",
       "summary": [
-        "CNBC：隨著黃仁勳的離開，Colette Kress 表明 Nvidia 仍然是人工智慧的中心",
-        "Bloomberg Tech：Nvidia財報：黃仁勳退出後，Colette Kress收緊人工智慧開支"
+        "Yahoo Finance：Anthropic Eyes 因需求強勁而 IPO 價格超過每股 80 美元：報告",
+        "Bloomberg Markets：據稱 Anthropic 正在考慮將 IPO 價格定為每股 85 美元"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "CNBC",
-          "title": "隨著黃仁勳的離開，Colette Kress 表明 Nvidia 仍然是人工智慧的中心",
-          "url": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html"
+          "source": "Yahoo Finance",
+          "title": "Anthropic Eyes 因需求強勁而 IPO 價格超過每股 80 美元：報告",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckZMUUFhWE1Wb1ZreTZQWGYzcU4yOEdSX0o3Wkp1aldYOG9TYmNCWC1WeWZHc1ZiYzQ3c3F6YzEzY013TVExcC1uQmY4SkxOdVpXcHBEQnpwRDZWR3VnbVJPTkUtOEdoUkk4dWFnV29DaG02S3NBTVc5aENEaTdBT3g3LWVoczkwNWtMeV9NZ3VTa3hjc0djZXdhMA?oc=5"
         },
         {
-          "source": "Bloomberg Tech",
-          "title": "Nvidia財報：黃仁勳退出後，Colette Kress收緊人工智慧開支",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/nvidia-earnings-colette-kress-tightens-ai-spending-after-jensen-huang-s-exit"
+          "source": "Bloomberg Markets",
+          "title": "據稱 Anthropic 正在考慮將 IPO 價格定為每股 85 美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-said-to-be-weighing-ipo-price-as-high-as-85-per-share"
         }
       ]
     }
