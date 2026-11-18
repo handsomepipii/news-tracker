@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 11:56",
+  "updated_at": "2026-11-18 12:26",
   "taiwan": [
     {
       "rank": 1,
@@ -255,43 +255,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "Nvidia 黃仁勳表示願意重新擔任執行長，等待董事會決定",
-      "summary": [
-        "Bloomberg Tech：Nvidia 黃仁勳表示願意重新擔任執行長，等待董事會決定",
-        "The Verge：黃仁勳表示他願意重新擔任 Nvidia 執行長",
-        "TechCrunch：黃仁勳表示，如果被允許重新擔任 Nvidia 執行長，他將感到“榮幸”"
-      ],
-      "media_count": 5,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Nvidia 黃仁勳表示願意重新擔任執行長，等待董事會決定",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/huang-is-willing-to-return-as-nvidia-ceo-if-board-allows-it"
-        },
-        {
-          "source": "The Verge",
-          "title": "黃仁勳表示他願意重新擔任 Nvidia 執行長",
-          "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "黃仁勳表示，如果被允許重新擔任 Nvidia 執行長，他將感到“榮幸”",
-          "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "黃仁勳表示，他將「很榮幸」再次擔任 Nvidia 執行長",
-          "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "NVIDIA 黃仁勳：“如果董事會要求，我將重新擔任執行長”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261118de77484"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "英偉達表示不打算恢復黃仁勳擔任執行長",
       "summary": [
         "The Verge：英偉達表示不打算恢復黃仁勳擔任執行長",
@@ -323,7 +286,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "加州 DMV 下令後，Waymo 暫停全國高速公路出行",
       "summary": [
         "TechCrunch：加州 DMV 下令後，Waymo 暫停全國高速公路出行",
@@ -350,70 +313,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "黃仁勳表示他準備重新擔任英偉達執行長",
-      "summary": [
-        "Financial Times：黃仁勳表示他準備重新擔任英偉達執行長",
-        "BBC World：黃仁勳表示，如果董事會要求，他將重新擔任英偉達老闆"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "黃仁勳表示他準備重新擔任英偉達執行長",
-          "url": "https://www.ft.com/content/e265542c-25d9-4a82-8cb7-e4a4b641cdda?syn-25a6b1a6=1"
-        },
-        {
-          "source": "BBC World",
-          "title": "黃仁勳表示，如果董事會要求，他將重新擔任英偉達老闆",
-          "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "由於大宗商品購買量下滑，美國零售銷售成長放緩",
-      "summary": [
-        "Bloomberg Markets：由於大宗商品購買量下滑，美國零售銷售成長放緩",
-        "WSJ Markets：零售銷售放緩拖累市場"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "由於大宗商品購買量下滑，美國零售銷售成長放緩",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/us-retail-sales-growth-slows-big-ticket-purchases-slip-video"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "零售銷售放緩拖累市場",
-          "url": "https://www.wsj.com/finance/stocks/slower-retail-sales-drag-on-market-fd1db66a?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "由於麻疹疫情持續爆發，美國正式失去麻疹消除狀態",
-      "summary": [
-        "CNBC：由於麻疹疫情持續爆發，美國正式失去麻疹消除狀態",
-        "Washington Post：麻疹疫情讓美國失去一項重大公共衛生成就"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "由於麻疹疫情持續爆發，美國正式失去麻疹消除狀態",
-          "url": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html"
-        },
-        {
-          "source": "Washington Post",
-          "title": "麻疹疫情讓美國失去一項重大公共衛生成就",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXFxT0NWbTR1ZjRVbEFkVW1JMy11Z1pvenNaQXRvOENhMUxHSC1odUIyU1RLZ1JvcE9KWTVvdHlUVHJMRUhGRklKVTFXcHVDeFBQOFZ4RHpZMUZKTU5uX285VWhOSkxORmNHYzJIUHlnV3d1b0RibVZGdzJySktyMzFjR1RtZkhya21sODhBdnI3bXJmd1pMMmtWTWJ5X0ZDdjVvblU3NkNEQUNfT2lmVXhKeW8?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 3,
       "title": "Optimum 即將與債權人達成削減 260 億美元債務的協議",
       "summary": [
         "Bloomberg Markets：Optimum 即將與債權人達成削減 260 億美元債務的協議",
@@ -434,7 +334,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
       "title": "川普就伊朗報導的直流髒彈計劃表示：“我們非常認真地對待它”",
       "summary": [
         "CNBC：川普就伊朗報導的直流髒彈計劃表示：“我們非常認真地對待它”",
@@ -455,7 +355,28 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
+      "title": "黃仁勳表示，如果被允許重新擔任 Nvidia 執行長，他將感到“榮幸”",
+      "summary": [
+        "TechCrunch：黃仁勳表示，如果被允許重新擔任 Nvidia 執行長，他將感到“榮幸”",
+        "Tom's Hardware：黃仁勳表示，他將「很榮幸」再次擔任 Nvidia 執行長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "黃仁勳表示，如果被允許重新擔任 Nvidia 執行長，他將感到“榮幸”",
+          "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "黃仁勳表示，他將「很榮幸」再次擔任 Nvidia 執行長",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "閱讀黃仁勳關於提供 Nvidia 執行長回報的宣告",
       "summary": [
         "Bloomberg Tech：閱讀黃仁勳關於提供 Nvidia 執行長回報的宣告",
@@ -476,7 +397,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "最新的技術失敗：美國機密國家安全通訊網路",
       "summary": [
         "MarketWatch：最新的技術失敗：美國機密國家安全通訊網路",
@@ -493,6 +414,69 @@
           "source": "Bloomberg Tech",
           "title": "美國電子間諜機構機密網路中斷",
           "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-electronic-spy-agency-suffers-outage-of-classified-network"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "OpenAI 放棄先前版本後推出新的 Astra AI 模型",
+      "summary": [
+        "Bloomberg Tech：OpenAI 放棄先前版本後推出新的 Astra AI 模型",
+        "Investing.com：OpenAI 發布更新的 Astra AI 模型，配備新的保障措施"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "OpenAI 放棄先前版本後推出新的 Astra AI 模型",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/openai-unveils-new-astra-ai-model-after-scrapping-prior-release"
+        },
+        {
+          "source": "Investing.com",
+          "title": "OpenAI 發布更新的 Astra AI 模型，配備新的保障措施",
+          "url": "https://www.investing.com/news/stock-market-news/openai-releases-updated-astra-ai-model-with-new-safeguards-5033754"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "加州股份公司表示，英偉達醜聞已引發“危險訊號”",
+      "summary": [
+        "Bloomberg Tech：加州股份公司表示，英偉達醜聞已引發“危險訊號”",
+        "Investing.com：根據彭博社報道，加州股份公司表示，英偉達醜聞已引發“危險訊號”，可能會導致調查"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "加州股份公司表示，英偉達醜聞已引發“危險訊號”",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-scandal-has-raised-red-flags-california-ag-says"
+        },
+        {
+          "source": "Investing.com",
+          "title": "根據彭博社報道，加州股份公司表示，英偉達醜聞已引發“危險訊號”，可能會導致調查",
+          "url": "https://www.investing.com/news/stock-market-news/california-ag-says-nvidia-scandal-has-raised-red-flags-could-lead-to-probe-bloomberg-news-reports-5033824"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "俄羅斯軍機墜毀 機上19人全數罹難",
+      "summary": [
+        "BBC World：俄羅斯軍機墜毀 機上19人全數罹難",
+        "法廣RFI：俄軍用運輸機西伯利亞墜毀　機上19人全部遇難"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "俄羅斯軍機墜毀 機上19人全數罹難",
+          "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "俄軍用運輸機西伯利亞墜毀　機上19人全部遇難",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261117-%E4%BF%84%E8%BB%8D%E7%94%A8%E9%81%8B%E8%BC%B8%E6%A9%9F%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9E%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A19%E4%BA%BA%E5%85%A8%E9%83%A8%E9%81%87%E9%9B%A3"
         }
       ]
     }
