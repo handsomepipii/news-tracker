@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 08:57",
+  "updated_at": "2026-11-18 09:26",
   "taiwan": [
     {
       "rank": 1,
@@ -366,69 +366,6 @@
     },
     {
       "rank": 5,
-      "title": "首次公開發行後，亞馬遜和谷歌將持有 Anthropic 約 28% 的股票",
-      "summary": [
-        "Bloomberg Markets：首次公開發行後，亞馬遜和谷歌將持有 Anthropic 約 28% 的股票",
-        "TechCrunch：Anthropic IPO後，亞馬遜和谷歌將共同持有Anthropic近30%的股份"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "首次公開發行後，亞馬遜和谷歌將持有 Anthropic 約 28% 的股票",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Anthropic IPO後，亞馬遜和谷歌將共同持有Anthropic近30%的股份",
-          "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "墨西哥 enfrenta trabas para atraer centros de datos de IA",
-      "summary": [
-        "Bloomberg Tech：墨西哥 enfrenta trabas para atraer centros de datos de IA",
-        "Bloomberg Markets：墨西哥 enfrenta trabas para atraer centros de datos de IA"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "墨西哥 enfrenta trabas para atraer centros de datos de IA",
-          "url": "https://www.bloomberg.com/news/features/2026-11-17/mexico-enfrenta-trabas-para-atraer-centros-de-datos-de-ia"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "墨西哥 enfrenta trabas para atraer centros de datos de IA",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/mexico-enfrenta-trabas-para-atraer-centros-de-datos-ia-video"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Uber 和 Zipline 的無人機送貨服務在休士頓試飛",
-      "summary": [
-        "The Verge：Uber 和 Zipline 的無人機送貨服務在休士頓試飛",
-        "TechCrunch：Uber 和 Zipline 的無人機送貨服務在德克薩斯州啟動，隨後將在數十個城市跟進"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "Uber 和 Zipline 的無人機送貨服務在休士頓試飛",
-          "url": "https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Uber 和 Zipline 的無人機送貨服務在德克薩斯州啟動，隨後將在數十個城市跟進",
-          "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "人為 IPO 受益者：風險敞口最大的股票",
       "summary": [
         "Investing.com：人為 IPO 受益者：風險敞口最大的股票",
@@ -449,7 +386,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "川普在與習近平和普丁舉行峰會之前抵達亞洲",
       "summary": [
         "Bloomberg Markets：川普在與習近平和普丁舉行峰會之前抵達亞洲",
@@ -470,7 +407,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "交易員利用 Anthropic 首次公開發行前合約的定價差距獲利",
       "summary": [
         "Bloomberg Markets：交易員利用 Anthropic 首次公開發行前合約的定價差距獲利",
@@ -487,6 +424,69 @@
           "source": "Bloomberg Tech",
           "title": "交易員利用首次公開募股前合約中的定價差距",
           "url": "https://www.bloomberg.com/news/videos/2026-11-17/traders-exploiting-pricing-gaps-in-pre-ipo-contracts-video"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Instagram 為創作者推出的新工具旨在打擊未經授權的轉發和人工智慧修改的影片",
+      "summary": [
+        "TechCrunch：Instagram 為創作者推出的新工具旨在打擊未經授權的轉發和人工智慧修改的影片",
+        "The Verge：Instagram 正在幫助創作者打擊山寨影片"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "Instagram 為創作者推出的新工具旨在打擊未經授權的轉發和人工智慧修改的影片",
+          "url": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/"
+        },
+        {
+          "source": "The Verge",
+          "title": "Instagram 正在幫助創作者打擊山寨影片",
+          "url": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "為什麼 Salesforce 的股價今天會下跌？",
+      "summary": [
+        "Investing.com：為什麼 Salesforce 的股價今天會下跌？",
+        "MarketWatch：為什麼 Salesforce 的股票在科技股緊張的情況下領先標準普爾 500 指數跌幅"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "為什麼 Salesforce 的股價今天會下跌？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-salesforce-stock-sliding-today-93CH-5033456"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "為什麼 Salesforce 的股票在科技股緊張的情況下領先標準普爾 500 指數跌幅",
+          "url": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳表示他準備重新擔任英偉達執行長",
+      "summary": [
+        "Financial Times：黃仁勳表示他準備重新擔任英偉達執行長",
+        "BBC World：黃仁勳表示，如果董事會要求，他將重新擔任英偉達老闆"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "黃仁勳表示他準備重新擔任英偉達執行長",
+          "url": "https://www.ft.com/content/e265542c-25d9-4a82-8cb7-e4a4b641cdda?syn-25a6b1a6=1"
+        },
+        {
+          "source": "BBC World",
+          "title": "黃仁勳表示，如果董事會要求，他將重新擔任英偉達老闆",
+          "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
