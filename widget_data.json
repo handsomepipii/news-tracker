@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 18:27",
+  "updated_at": "2026-11-18 18:56",
   "taiwan": [
     {
       "rank": 1,
@@ -35,33 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "美國安局最高機密網路突故障！　知情人士曝肇因",
-      "summary": [
-        "ETtoday：美國安局最高機密網路突故障！　知情人士曝肇因",
-        "科技新報：美媒：美國安局內部通訊網路故障，暫未見駭客入侵跡象",
-        "經濟日報：美國國家安全域性高機密網路突停擺！情報總監證實：修補重大漏洞釀禍"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "美國安局最高機密網路突故障！　知情人士曝肇因",
-          "url": "https://www.ettoday.net/news/20261118/3273969.htm"
-        },
-        {
-          "source": "科技新報",
-          "title": "美媒：美國安局內部通訊網路故障，暫未見駭客入侵跡象",
-          "url": "https://technews.tw/2026/11/18/highly-classified-us-national-security-communications-network-goes-down/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美國國家安全域性高機密網路突停擺！情報總監證實：修補重大漏洞釀禍",
-          "url": "https://money.udn.com/money/story/5599/9885567"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "AI 代理如何走進企業日常？Google Cloud 從開發、治理到協作，打造企業落地解方",
       "summary": [
         "INSIDE硬塞：AI 代理如何走進企業日常？Google Cloud 從開發、治理到協作，打造企業落地解方",
@@ -88,7 +61,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "日Suica吉祥物企鵝將退休 紫兔子奪86萬票接棒新代言人",
       "summary": [
         "經濟日報：日Suica吉祥物企鵝將退休 紫兔子奪86萬票接棒新代言人",
@@ -115,7 +88,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "鴻海收購Sony車載相機模組事業-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：鴻海收購Sony車載相機模組事業-新聞內容-基金",
@@ -136,7 +109,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "快訊／新北永和豪宅傳悲劇 男住戶21樓急墜慘死",
       "summary": [
         "TVBS新聞：快訊／新北永和豪宅傳悲劇 男住戶21樓急墜慘死",
@@ -157,7 +130,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "報復雷達系統遇襲 美軍出手空襲伊朗葛希姆島軍事設施",
       "summary": [
         "自由時報：報復雷達系統遇襲 美軍出手空襲伊朗葛希姆島軍事設施",
@@ -178,7 +151,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "川普政府傳續推中國光模組禁令  美國光通訊股嗨",
       "summary": [
         "科技新報：川普政府傳續推中國光模組禁令  美國光通訊股嗨",
@@ -199,7 +172,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "李在明深圳會習近平　盼攜手維護朝鮮半島和平穩定",
       "summary": [
         "經濟日報：李在明深圳會習近平　盼攜手維護朝鮮半島和平穩定",
@@ -220,23 +193,44 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
+      "rank": 9,
+      "title": "GPT-6.2 Astra、Sol 推出，專業工作能力再升級、API 降價兩成",
       "summary": [
-        "ETtoday：輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
-        "經濟日報：黃仁勳下臺後輝達首份財報報喜！ 營收翻倍 展望上修 股價盤後漲2%"
+        "自由時報：GPT-6.2 Astra、Sol 推出，專業工作能力再升級、API 降價兩成",
+        "科技新報：GPT-6.2 Astra / Sol 雙模型登場，較少的代幣搞定高難度任務"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
-          "url": "https://finance.ettoday.net/news/3273970"
+          "source": "自由時報",
+          "title": "GPT-6.2 Astra、Sol 推出，專業工作能力再升級、API 降價兩成",
+          "url": "https://news.ltn.com.tw/news/aichannel/breakingnews/5644382"
         },
         {
-          "source": "經濟日報",
-          "title": "黃仁勳下臺後輝達首份財報報喜！ 營收翻倍 展望上修 股價盤後漲2%",
-          "url": "https://money.udn.com/money/story/123398/9885456"
+          "source": "科技新報",
+          "title": "GPT-6.2 Astra / Sol 雙模型登場，較少的代幣搞定高難度任務",
+          "url": "https://technews.tw/2026/11/18/openai-introduces-gpt%e2%80%916-2-astra-and-gpt%e2%80%916-2-sol/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "臺股2天血洗3583點！邱沁宜示警股民「別急著攤平」先自我檢查3件事",
+      "summary": [
+        "自由時報：臺股2天血洗3583點！邱沁宜示警股民「別急著攤平」先自我檢查3件事",
+        "ETtoday：臺股2天血洗3583點！邱沁宜示警「別盲目攤平」　先檢查3件事"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "臺股2天血洗3583點！邱沁宜示警股民「別急著攤平」先自我檢查3件事",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5644330"
+        },
+        {
+          "source": "ETtoday",
+          "title": "臺股2天血洗3583點！邱沁宜示警「別盲目攤平」　先檢查3件事",
+          "url": "https://star.ettoday.net/news/3274130"
         }
       ]
     }
@@ -244,51 +238,14 @@
   "global": [
     {
       "rank": 1,
-      "title": "普丁抵達中國出席川普、習近平會晤",
+      "title": "英偉達董事長稱黃仁勳不會重新擔任執行長",
       "summary": [
-        "Bloomberg Markets：普丁抵達中國出席川普、習近平會晤",
-        "Financial Times：川普在與普丁和習近平舉行峰會前抵達中國",
-        "CNBC：川普抵達中國與習近平和普丁進行歷史性會晤"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "普丁抵達中國出席川普、習近平會晤",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video"
-        },
-        {
-          "source": "Financial Times",
-          "title": "川普在與普丁和習近平舉行峰會前抵達中國",
-          "url": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1"
-        },
-        {
-          "source": "CNBC",
-          "title": "川普抵達中國與習近平和普丁進行歷史性會晤",
-          "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html"
-        },
-        {
-          "source": "BBC中文",
-          "title": "APEC峰會：特朗普抵達深圳，習近平親赴機場迎接，近半世紀來中國元首首次接機",
-          "url": "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "英偉達表示不打算重新任命黃仁勳擔任執行長",
-      "summary": [
-        "TechCrunch：英偉達表示不打算重新任命黃仁勳擔任執行長",
         "Bloomberg Tech：英偉達董事長稱黃仁勳不會重新擔任執行長",
-        "Nikkei Asia：英偉達董事會表示黃仁勳將不再擔任執行長"
+        "Nikkei Asia：英偉達董事會表示黃仁勳將不再擔任執行長",
+        "Financial Times：英偉達董事會堅稱黃仁勳不會再次擔任執行長"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
-        {
-          "source": "TechCrunch",
-          "title": "英偉達表示不打算重新任命黃仁勳擔任執行長",
-          "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
-        },
         {
           "source": "Bloomberg Tech",
           "title": "英偉達董事長稱黃仁勳不會重新擔任執行長",
@@ -303,6 +260,33 @@
           "source": "Financial Times",
           "title": "英偉達董事會堅稱黃仁勳不會再次擔任執行長",
           "url": "https://www.ft.com/content/8946ec08-98b3-49c1-96b1-58539281519a?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "川普在與普丁和習近平舉行峰會前抵達中國",
+      "summary": [
+        "Financial Times：川普在與普丁和習近平舉行峰會前抵達中國",
+        "CNBC：川普抵達中國與習近平和普丁進行歷史性會晤",
+        "BBC中文：APEC峰會：特朗普抵達深圳，習近平親赴機場迎接，近半世紀來中國元首首次接機"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "川普在與普丁和習近平舉行峰會前抵達中國",
+          "url": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1"
+        },
+        {
+          "source": "CNBC",
+          "title": "川普抵達中國與習近平和普丁進行歷史性會晤",
+          "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html"
+        },
+        {
+          "source": "BBC中文",
+          "title": "APEC峰會：特朗普抵達深圳，習近平親赴機場迎接，近半世紀來中國元首首次接機",
+          "url": "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
