@@ -1,40 +1,8 @@
 {
-  "updated_at": "2026-11-19 05:29",
+  "updated_at": "2026-11-19 05:58",
   "taiwan": [
     {
       "rank": 1,
-      "title": "川普抵達中國！首位訪深圳現任美國總統 習近平親接機",
-      "summary": [
-        "自由時報：川普抵達中國！首位訪深圳現任美國總統 習近平親接機",
-        "ETtoday：快訊／川普到深圳了！　習近平「親現身迎接」畫面曝",
-        "經濟日報：川普抵達深圳APEC 將出席與習近平的會談、與普丁的三方峰會"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "川普抵達中國！首位訪深圳現任美國總統 習近平親接機",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645239"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／川普到深圳了！　習近平「親現身迎接」畫面曝",
-          "url": "https://www.ettoday.net/news/20261118/3274439.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普抵達深圳APEC 將出席與習近平的會談、與普丁的三方峰會",
-          "url": "https://money.udn.com/money/story/5599/9887013"
-        },
-        {
-          "source": "中時新聞",
-          "title": "美國總統川普抵達深圳- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfTnRBd1o3bnk2bEJ5N2tfQ3g5aFl2SzBTelJreTJ2NXhvS3dJc25XRlhfLVRSNlhuUHc1VnA4OGtTWWx5YmdlMGFMS2RfMzI4d29lRHYwa0RFTm13cWJoNHBGNDlxeDJPOHc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "APEC晚宴登場！習近平主動與施振榮握手 大合照安排「第2排最左側」",
       "summary": [
         "自由時報：APEC晚宴登場！習近平主動與施振榮握手 大合照安排「第2排最左側」",
@@ -61,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "民主黨提名傑福瑞斯 可望成美國史上首位非裔眾院議長",
       "summary": [
         "自由時報：民主黨提名傑福瑞斯 可望成美國史上首位非裔眾院議長",
@@ -82,49 +50,28 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Sony警告《GTA 6》要更新PS5才能玩！澳洲肯德基辦假葬禮提供請假理由",
+      "rank": 3,
+      "title": "川普抵達深圳APEC 將出席與習近平的會談、與普丁的三方峰會",
       "summary": [
-        "自由時報：Sony警告《GTA 6》要更新PS5才能玩！澳洲肯德基辦假葬禮提供請假理由",
-        "ETtoday：玩家注意！Sony 突發警告：要玩《GTA 6》一定要更新 PS5"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "Sony警告《GTA 6》要更新PS5才能玩！澳洲肯德基辦假葬禮提供請假理由",
-          "url": "https://3c.ltn.com.tw/news/68330"
-        },
-        {
-          "source": "ETtoday",
-          "title": "玩家注意！Sony 突發警告：要玩《GTA 6》一定要更新 PS5",
-          "url": "https://game.ettoday.net/article/3274457.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "韓中FTA談判達成協議 限韓令是否鬆綁仍有待觀察",
-      "summary": [
-        "經濟日報：韓中FTA談判達成協議 限韓令是否鬆綁仍有待觀察",
-        "科技新報：韓中 FTA 談判達成協議，限韓令是否鬆綁仍有待觀察"
+        "經濟日報：川普抵達深圳APEC 將出席與習近平的會談、與普丁的三方峰會",
+        "中時新聞：美國總統川普抵達深圳- 國際"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "經濟日報",
-          "title": "韓中FTA談判達成協議 限韓令是否鬆綁仍有待觀察",
-          "url": "https://money.udn.com/money/story/5599/9887080"
+          "title": "川普抵達深圳APEC 將出席與習近平的會談、與普丁的三方峰會",
+          "url": "https://money.udn.com/money/story/5599/9887013"
         },
         {
-          "source": "科技新報",
-          "title": "韓中 FTA 談判達成協議，限韓令是否鬆綁仍有待觀察",
-          "url": "https://finance.technews.tw/2026/11/18/korea-china-fta-deal-hallyu-ban-relaxation-uncertain/"
+          "source": "中時新聞",
+          "title": "美國總統川普抵達深圳- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfTnRBd1o3bnk2bEJ5N2tfQ3g5aFl2SzBTelJreTJ2NXhvS3dJc25XRlhfLVRSNlhuUHc1VnA4OGtTWWx5YmdlMGFMS2RfMzI4d29lRHYwa0RFTm13cWJoNHBGNDlxeDJPOHc?oc=5"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "柯文哲直呼「小草絕不會投給沈伯洋」 網友大酸：這次我投洋流",
       "summary": [
         "自由時報：柯文哲直呼「小草絕不會投給沈伯洋」 網友大酸：這次我投洋流",
@@ -145,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "1票1000元 里港鄉代候選人樁腳涉現金買票",
       "summary": [
         "自由時報：1票1000元 里港鄉代候選人樁腳涉現金買票",
@@ -166,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "蔡康永「撕下蔣」諧音聯想未歇！最新再談「髒東西」：讓它失去力量",
       "summary": [
         "自由時報：蔡康永「撕下蔣」諧音聯想未歇！最新再談「髒東西」：讓它失去力量",
@@ -187,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "BTS現身六合夜市掀「貪吃蛇人龍」 V金泰亨買香腸萌秀中文：好吃嗎？",
       "summary": [
         "自由時報：BTS現身六合夜市掀「貪吃蛇人龍」 V金泰亨買香腸萌秀中文：好吃嗎？",
@@ -208,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
       "summary": [
         "經濟日報：美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
@@ -227,6 +174,48 @@
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5645643"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
+      "summary": [
+        "經濟日報：曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
+        "自由時報：曼谷審計大樓震塌！中國包商找人頭違法經營 主管判刑3年"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
+          "url": "https://money.udn.com/money/story/5599/9887525"
+        },
+        {
+          "source": "自由時報",
+          "title": "曼谷審計大樓震塌！中國包商找人頭違法經營 主管判刑3年",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645629"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "歐盟提議供烏克蘭1.6兆元貸款　由俄未來戰爭賠款償還",
+      "summary": [
+        "經濟日報：歐盟提議供烏克蘭1.6兆元貸款　由俄未來戰爭賠款償還",
+        "ETtoday：加碼1.6兆援烏！歐盟提議2027再貸450億歐元「俄賠償才還款」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "歐盟提議供烏克蘭1.6兆元貸款　由俄未來戰爭賠款償還",
+          "url": "https://money.udn.com/money/story/5599/9887508"
+        },
+        {
+          "source": "ETtoday",
+          "title": "加碼1.6兆援烏！歐盟提議2027再貸450億歐元「俄賠償才還款」",
+          "url": "https://www.ettoday.net/news/20261118/3274576.htm"
+        }
+      ]
     }
   ],
   "global": [
@@ -238,7 +227,7 @@
         "Bloomberg Markets：據稱 Anthropic 正在考慮將 IPO 價格定為每股 85 美元",
         "Bloomberg Tech：據稱，Anthropic 的 IPO 定價為每股 83 美元，高於區間"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
           "source": "Yahoo Finance",
@@ -259,6 +248,11 @@
           "source": "Investing.com",
           "title": "根據彭博社報道，Anthropic 考慮 IPO 定價為每股 80-85 美元",
           "url": "https://www.investing.com/news/stock-market-news/anthropic-weighs-ipo-pricing-of-8085-a-share-bloomberg-reports-5036963"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "由於需求旺盛，Anthropic 將 IPO 定價為每股 83 美元",
+          "url": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c?mod=rss_markets_main"
         }
       ]
     },
@@ -345,27 +339,6 @@
     },
     {
       "rank": 5,
-      "title": "民主黨人調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失",
-      "summary": [
-        "Financial Times：民主黨人調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失",
-        "Investing.com：根據《金融時報》報道，民主黨人正在調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "民主黨人調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失",
-          "url": "https://www.ft.com/content/71e39ecd-03ef-4078-a34e-34ea6b45f674?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Investing.com",
-          "title": "根據《金融時報》報道，民主黨人正在調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失",
-          "url": "https://www.investing.com/news/stock-market-news/democrats-probe-whether-howardlutnick-helped-cantor-avoid-nvidia-losses-ft-reports-5035313"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "APEC峰會：特朗普抵達深圳，習近平親赴機場迎接，近半世紀來中國元首首次接機",
       "summary": [
         "BBC中文：APEC峰會：特朗普抵達深圳，習近平親赴機場迎接，近半世紀來中國元首首次接機",
@@ -386,7 +359,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "習近平與川普熱情擁抱開啟高峰會",
       "summary": [
         "Bloomberg Markets：習近平與川普熱情擁抱開啟高峰會",
@@ -407,7 +380,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "失去英國海軍合約後，赫爾辛縮減普利茅斯工廠規模",
       "summary": [
         "Financial Times：失去英國海軍合約後，赫爾辛縮減普利茅斯工廠規模",
@@ -428,7 +401,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "阿波羅歐洲負責人看到人工智慧和國防的巨大融資需求",
       "summary": [
         "Bloomberg Markets：阿波羅歐洲負責人看到人工智慧和國防的巨大融資需求",
@@ -449,7 +422,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "委員會表示，中國軍方尋求英偉達先進的人工智慧晶片",
       "summary": [
         "CNBC：委員會表示，中國軍方尋求英偉達先進的人工智慧晶片",
@@ -466,6 +439,27 @@
           "source": "Investing.com",
           "title": "報告稱，儘管美國限制，中國仍尋求用於人工智慧武器的先進英偉達晶片",
           "url": "https://www.investing.com/news/stock-market-news/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs-report-says-5035787"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Grand Theft Auto VI：Ars Technica 評論",
+      "summary": [
+        "Ars Technica：Grand Theft Auto VI：Ars Technica 評論",
+        "Bloomberg Tech：Grand Theft Auto VI 不負眾望"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Ars Technica",
+          "title": "Grand Theft Auto VI：Ars Technica 評論",
+          "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Grand Theft Auto VI 不負眾望",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-18/grand-theft-auto-vi-lives-up-to-hype-video"
         }
       ]
     }
