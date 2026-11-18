@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 15:26",
+  "updated_at": "2026-11-18 15:56",
   "taiwan": [
     {
       "rank": 1,
@@ -62,33 +62,6 @@
     },
     {
       "rank": 3,
-      "title": "蘇姿豐公開力挺黃仁勳！讚「了不起的領導者」：外界雜音會平息",
-      "summary": [
-        "ETtoday：蘇姿豐公開力挺黃仁勳！讚「了不起的領導者」：外界雜音會平息",
-        "經濟日報：超微蘇姿豐挺「表舅」黃仁勳　讚傑出領袖指雜音終將平息",
-        "科技新報：超微蘇姿豐挺「表舅」黃仁勳，讚傑出領袖指雜音終將平息"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "蘇姿豐公開力挺黃仁勳！讚「了不起的領導者」：外界雜音會平息",
-          "url": "https://finance.ettoday.net/news/3273948"
-        },
-        {
-          "source": "經濟日報",
-          "title": "超微蘇姿豐挺「表舅」黃仁勳　讚傑出領袖指雜音終將平息",
-          "url": "https://money.udn.com/money/story/5599/9885633"
-        },
-        {
-          "source": "科技新報",
-          "title": "超微蘇姿豐挺「表舅」黃仁勳，讚傑出領袖指雜音終將平息",
-          "url": "https://technews.tw/2026/11/18/amd-lisa-su-supports-cousin-jensen-huang-praises-outstanding-leader-noise-subside/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "AI 代理如何走進企業日常？Google Cloud 從開發、治理到協作，打造企業落地解方",
       "summary": [
         "INSIDE硬塞：AI 代理如何走進企業日常？Google Cloud 從開發、治理到協作，打造企業落地解方",
@@ -115,7 +88,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "鴻海收購Sony車載相機模組事業-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：鴻海收購Sony車載相機模組事業-新聞內容-基金",
@@ -136,7 +109,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "快訊／新北永和豪宅傳悲劇 男住戶21樓急墜慘死",
       "summary": [
         "TVBS新聞：快訊／新北永和豪宅傳悲劇 男住戶21樓急墜慘死",
@@ -157,49 +130,28 @@
       ]
     },
     {
+      "rank": 6,
+      "title": "川普政府傳續推中國光模組禁令  美國光通訊股嗨",
+      "summary": [
+        "科技新報：川普政府傳續推中國光模組禁令  美國光通訊股嗨",
+        "MoneyDJ理財網：傳美國續推進對中國光收發器進口禁令- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "川普政府傳續推中國光模組禁令  美國光通訊股嗨",
+          "url": "https://technews.tw/2026/11/18/trump-administration-reportedly-eyes-china-optical-module-ban-us-optical-stocks-rally/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "傳美國續推進對中國光收發器進口禁令- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVQxV2FSOWpDUU10Zk1weGZVSy1IRC0xcGE2VGV6UlNFYUhZdG1ELXczZldWLVlZd18tdVItcDN2S1N6eG82VEROM24zTWxWdjkzUGpnbGszTlJuRVBVQnpQZW5Ed0w4Tmw1aE1WWlk0NmNRcEltUWJ5QjFHd3o5NEVfQXNIVlVxM0JKVzU0akxfUQ?oc=5"
+        }
+      ]
+    },
+    {
       "rank": 7,
-      "title": "快訊／黃仁勳請辭後首發聲！「若董事會同意」願重返輝達任CEO",
-      "summary": [
-        "ETtoday：快訊／黃仁勳請辭後首發聲！「若董事會同意」願重返輝達任CEO",
-        "數位時代：「輝達是我畢生心血！」黃仁勳沉默9天再發聲：若董事會點頭，我很榮幸能重返CEO"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／黃仁勳請辭後首發聲！「若董事會同意」願重返輝達任CEO",
-          "url": "https://www.ettoday.net/news/20261118/3273947.htm"
-        },
-        {
-          "source": "數位時代",
-          "title": "「輝達是我畢生心血！」黃仁勳沉默9天再發聲：若董事會點頭，我很榮幸能重返CEO",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQenNhT2l5Z2xLc3FSZnlCZlVnc1pxQmpRVVk3VGE2bHJHY0RfSlpkXzJIUmZ5cHdtLTltQnU5bE4wUXJwSl9JRlhNSlhjeURoeTROMThCRGUzeG00UjhrRF9ldlJzYmNES1M0NlpFVjhMdE42dkUtTkI4d0Uwc1loWUFINzRwTHpyblN0ZW5tWG9naFAxdDJzUjBNNE9hZEU?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "川普最新表態！深圳APEC可能見普丁　金正恩也想和他碰面",
-      "summary": [
-        "ETtoday：川普最新表態！深圳APEC可能見普丁　金正恩也想和他碰面",
-        "經濟日報：APEC大驚奇／川普想見金正恩 習近平安排中？ 有一人恐淪為輸家"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "川普最新表態！深圳APEC可能見普丁　金正恩也想和他碰面",
-          "url": "https://www.ettoday.net/news/20261117/3273942.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "APEC大驚奇／川普想見金正恩 習近平安排中？ 有一人恐淪為輸家",
-          "url": "https://money.udn.com/money/story/5599/9885748"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "黃仁勳辭職後首發聲感謝各界支援　承諾配合董事會調查",
       "summary": [
         "自由時報：黃仁勳辭職後首發聲感謝各界支援　承諾配合董事會調查",
@@ -220,7 +172,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "黃仁勳首次打破沉默 願重返輝達任執行長",
       "summary": [
         "經濟日報：黃仁勳首次打破沉默 願重返輝達任執行長",
@@ -237,6 +189,48 @@
           "source": "科技新報",
           "title": "黃仁勳辭職後打破沉默，表態願回任輝達 CEO",
           "url": "https://technews.tw/2026/11/18/jensen-huang-nvidia/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "輝達第三季營收年增達 103% ，獲利年增翻倍超乎預期，Vera Rubin 已出貨單季貢獻 200 億美元",
+      "summary": [
+        "科技新報：輝達第三季營收年增達 103% ，獲利年增翻倍超乎預期，Vera Rubin 已出貨單季貢獻 200 億美元",
+        "工商時報：輝達上季營收年增103％ 本季上看1,300億美元 盤後應聲漲4％"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "輝達第三季營收年增達 103% ，獲利年增翻倍超乎預期，Vera Rubin 已出貨單季貢獻 200 億美元",
+          "url": "https://finance.technews.tw/2026/11/18/nvidias-third-quarter-revenue-increased-by-103-year-on-year-exceeding-expectations/"
+        },
+        {
+          "source": "工商時報",
+          "title": "輝達上季營收年增103％ 本季上看1,300億美元 盤後應聲漲4％",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CX1ZUTUZqZHI5WWdXbHZJOFdzSFB3b2pvazlMcjB5TnJjaGxab1lXZ2phcXlXR1dtZDdBdDh6bi1ZaE5KMm01ZjR5N0thWFNXbnJTT3h2Mi04eFZJQzNj?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
+      "summary": [
+        "ETtoday：輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
+        "經濟日報：黃仁勳下臺後輝達首份財報報喜！ 營收翻倍 展望上修 股價盤後漲2%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
+          "url": "https://finance.ettoday.net/news/3273970"
+        },
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳下臺後輝達首份財報報喜！ 營收翻倍 展望上修 股價盤後漲2%",
+          "url": "https://money.udn.com/money/story/123398/9885456"
         }
       ]
     }
@@ -281,96 +275,6 @@
     },
     {
       "rank": 2,
-      "title": "加州 DMV 下令後，Waymo 暫停全國高速公路出行",
-      "summary": [
-        "TechCrunch：加州 DMV 下令後，Waymo 暫停全國高速公路出行",
-        "Wired：加州安全禁令生效後，Waymo 暫停所有高速公路騎行",
-        "Investing.com：加州禁令生效後，Waymo 暫停美國高速公路上的機器人計程車服務"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "加州 DMV 下令後，Waymo 暫停全國高速公路出行",
-          "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
-        },
-        {
-          "source": "Wired",
-          "title": "加州安全禁令生效後，Waymo 暫停所有高速公路騎行",
-          "url": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/"
-        },
-        {
-          "source": "Investing.com",
-          "title": "加州禁令生效後，Waymo 暫停美國高速公路上的機器人計程車服務",
-          "url": "https://www.investing.com/news/stock-market-news/waymo-pauses-robotaxi-rides-on-us-freeways-after-california-ban-5034415"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "俄羅斯軍機墜毀 機上19人全數罹難",
-      "summary": [
-        "BBC World：俄羅斯軍機墜毀 機上19人全數罹難",
-        "法廣RFI：俄軍用運輸機西伯利亞墜毀　機上19人全部遇難"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "俄羅斯軍機墜毀 機上19人全數罹難",
-          "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "俄軍用運輸機西伯利亞墜毀　機上19人全部遇難",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261117-%E4%BF%84%E8%BB%8D%E7%94%A8%E9%81%8B%E8%BC%B8%E6%A9%9F%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9E%E5%A2%9C%E6%AF%80-%E6%A9%9F%E4%B8%8A19%E4%BA%BA%E5%85%A8%E9%83%A8%E9%81%87%E9%9B%A3"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "蘋果致力於在內部更新導致中斷後恢復系統",
-      "summary": [
-        "Bloomberg Tech：蘋果致力於在內部更新導致中斷後恢復系統",
-        "Investing.com：蘋果正在努力恢復因內部更新造成的服務中斷"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "蘋果致力於在內部更新導致中斷後恢復系統",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/apple-works-to-restore-systems-after-update-caused-outage"
-        },
-        {
-          "source": "Investing.com",
-          "title": "蘋果正在努力恢復因內部更新造成的服務中斷",
-          "url": "https://www.investing.com/news/stock-market-news/apple-works-to-restore-services-after-outage-caused-by-internal-update-5033945"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "加州剛剛禁止 Waymo 在所有州高速公路上行駛",
-      "summary": [
-        "The Verge：加州剛剛禁止 Waymo 在所有州高速公路上行駛",
-        "Investing.com：加州因安全事故禁止 Waymo 高速公路運營"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "加州剛剛禁止 Waymo 在所有州高速公路上行駛",
-          "url": "https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety"
-        },
-        {
-          "source": "Investing.com",
-          "title": "加州因安全事故禁止 Waymo 高速公路運營",
-          "url": "https://www.investing.com/news/stock-market-news/california-bans-waymo-freeway-operations-after-safety-incidents-93CH-5034771"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "根據《華爾街日報》報道，美國證券交易委員會正在調查黃仁勳退出之際的英偉達",
       "summary": [
         "Bloomberg Markets：根據《華爾街日報》報道，美國證券交易委員會正在調查黃仁勳退出之際的英偉達",
@@ -391,7 +295,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 3,
       "title": "普丁抵達中國出席川普、習近平會晤",
       "summary": [
         "Bloomberg Markets：普丁抵達中國出席川普、習近平會晤",
@@ -412,7 +316,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
       "title": "黃仁勳下臺後，英偉達放棄中國",
       "summary": [
         "TechCrunch：黃仁勳下臺後，英偉達放棄中國",
@@ -433,7 +337,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "工會表示，大衛瓊斯將裁員 1,500 人以求生存",
       "summary": [
         "Bloomberg Markets：工會表示，大衛瓊斯將裁員 1,500 人以求生存",
@@ -454,7 +358,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "美軍襲擊伊朗飛彈設施；雙方互相攻擊",
       "summary": [
         "NHK新聞：美軍襲擊伊朗飛彈設施；雙方互相攻擊",
@@ -471,6 +375,78 @@
           "source": "Bloomberg Markets",
           "title": "巴林襲擊後美國攻擊伊朗飛彈基地",
           "url": "https://www.bloomberg.com/news/videos/2026-11-18/us-strikes-iranian-missile-site-after-bahrain-attacks-video"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "盧比歐稱最近美國科技中斷無關，並非敵對行為",
+      "summary": [
+        "Bloomberg Tech：盧比歐稱最近美國科技中斷無關，並非敵對行為",
+        "BBC World：盧比奧表示，在一系列技術中斷之後，美國並未“受到系統性攻擊”"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "盧比歐稱最近美國科技中斷無關，並非敵對行為",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/rubio-says-recent-us-tech-outages-unrelated-not-hostile-acts"
+        },
+        {
+          "source": "BBC World",
+          "title": "盧比奧表示，在一系列技術中斷之後，美國並未“受到系統性攻擊”",
+          "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "民主黨贏得阿拉斯加州參議院席位，完成中期選舉勝利",
+      "summary": [
+        "Financial Times：民主黨贏得阿拉斯加州參議院席位，完成中期選舉勝利",
+        "BBC World：中期計票開始兩週後，民主黨贏得阿拉斯加參議院選舉"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "民主黨贏得阿拉斯加州參議院席位，完成中期選舉勝利",
+          "url": "https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240?syn-25a6b1a6=1"
+        },
+        {
+          "source": "BBC World",
+          "title": "中期計票開始兩週後，民主黨贏得阿拉斯加參議院選舉",
+          "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "為什麼笛卡爾系統公司的股票今天會下跌？",
+      "summary": [
+        "Investing.com：為什麼笛卡爾系統公司的股票今天會下跌？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "為什麼笛卡爾系統公司的股票今天會下跌？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-descartes-systems-stock-sliding-today-93CH-5033928"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳辭職後危機加劇，英偉達面臨 SEC 調查",
+      "summary": [
+        "Investing.com：黃仁勳辭職後危機加劇，英偉達面臨 SEC 調查"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "黃仁勳辭職後危機加劇，英偉達面臨 SEC 調查",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-faces-sec-investigation-as-crisis-deepens-following-huang-resignation-5033965"
         }
       ]
     }
