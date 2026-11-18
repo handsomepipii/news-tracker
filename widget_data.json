@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 15:56",
+  "updated_at": "2026-11-18 16:26",
   "taiwan": [
     {
       "rank": 1,
@@ -422,6 +422,21 @@
     },
     {
       "rank": 9,
+      "title": "韓中領導人今在深圳舉行會談",
+      "summary": [
+        "韓聯社：韓中領導人今在深圳舉行會談"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "韓中領導人今在深圳舉行會談",
+          "url": "https://cn.yna.co.kr/view/ACK20261118000800881"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "為什麼笛卡爾系統公司的股票今天會下跌？",
       "summary": [
         "Investing.com：為什麼笛卡爾系統公司的股票今天會下跌？"
@@ -432,21 +447,6 @@
           "source": "Investing.com",
           "title": "為什麼笛卡爾系統公司的股票今天會下跌？",
           "url": "https://www.investing.com/news/stock-market-news/why-is-descartes-systems-stock-sliding-today-93CH-5033928"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "黃仁勳辭職後危機加劇，英偉達面臨 SEC 調查",
-      "summary": [
-        "Investing.com：黃仁勳辭職後危機加劇，英偉達面臨 SEC 調查"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "黃仁勳辭職後危機加劇，英偉達面臨 SEC 調查",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-faces-sec-investigation-as-crisis-deepens-following-huang-resignation-5033965"
         }
       ]
     }
