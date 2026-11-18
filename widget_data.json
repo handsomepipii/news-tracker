@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 02:57",
+  "updated_at": "2026-11-19 03:27",
   "taiwan": [
     {
       "rank": 1,
@@ -62,22 +62,22 @@
     },
     {
       "rank": 3,
-      "title": "日本硫磺島火山噴發　在南岸形成大片新陸地",
+      "title": "民主黨提名傑福瑞斯 可望成美國史上首位非裔眾院議長",
       "summary": [
-        "經濟日報：日本硫磺島火山噴發　在南岸形成大片新陸地",
-        "科技新報：日本硫磺島火山噴發，南岸形成大片新陸地"
+        "自由時報：民主黨提名傑福瑞斯 可望成美國史上首位非裔眾院議長",
+        "經濟日報：傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "日本硫磺島火山噴發　在南岸形成大片新陸地",
-          "url": "https://money.udn.com/money/story/5599/9886683"
+          "source": "自由時報",
+          "title": "民主黨提名傑福瑞斯 可望成美國史上首位非裔眾院議長",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645667"
         },
         {
-          "source": "科技新報",
-          "title": "日本硫磺島火山噴發，南岸形成大片新陸地",
-          "url": "https://technews.tw/2026/11/18/iwo-jima-volcanic-eruption-creates-new-landmass-southern-coast/"
+          "source": "經濟日報",
+          "title": "傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長",
+          "url": "https://money.udn.com/money/story/5599/9887819"
         }
       ]
     },
@@ -455,22 +455,22 @@
     },
     {
       "rank": 10,
-      "title": "美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
+      "title": "隨著消費者 NAND 現貨價格下降 20%，SSD、筆記型電腦和手機可能會變得更便宜",
       "summary": [
-        "Financial Times：美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
-        "Investing.com：專家表示，人工智慧時代的補丁可能是一些重大技術中斷的原因"
+        "Tom's Hardware：隨著消費者 NAND 現貨價格下降 20%，SSD、筆記型電腦和手機可能會變得更便宜",
+        "Wccftech：消費級 NAND 價格下跌 20%，SSD 市場終於出現緩解跡象，預計 2027 年初將再次下跌 5-10%"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
-          "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1"
+          "source": "Tom's Hardware",
+          "title": "隨著消費者 NAND 現貨價格下降 20%，SSD、筆記型電腦和手機可能會變得更便宜",
+          "url": "https://www.tomshardware.com/pc-components/ssds/ssds-laptops-and-phones-may-get-cheaper-as-consumer-nand-spot-pricing-drops-20-percent-bank-of-america-expects-contract-price-drops-report-cites-oversupply-in-consumer-market-amid-declining-demand-and-growing-chinese-competition"
         },
         {
-          "source": "Investing.com",
-          "title": "專家表示，人工智慧時代的補丁可能是一些重大技術中斷的原因",
-          "url": "https://www.investing.com/news/stock-market-news/patching-in-the-ai-age-may-underlie-some-of-the-major-tech-outages-experts-say-5036726"
+          "source": "Wccftech",
+          "title": "消費級 NAND 價格下跌 20%，SSD 市場終於出現緩解跡象，預計 2027 年初將再次下跌 5-10%",
+          "url": "https://wccftech.com/consumer-nand-prices-decline-by-20/"
         }
       ]
     }
