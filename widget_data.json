@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 08:28",
+  "updated_at": "2026-11-18 08:57",
   "taiwan": [
     {
       "rank": 1,
@@ -35,6 +35,38 @@
     },
     {
       "rank": 2,
+      "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
+      "summary": [
+        "自由時報：美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
+        "經濟日報：美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
+        "ETtoday：美國安局最高機密網路突故障！　知情人士曝肇因"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5644352"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
+          "url": "https://money.udn.com/money/story/5599/9885381"
+        },
+        {
+          "source": "ETtoday",
+          "title": "美國安局最高機密網路突故障！　知情人士曝肇因",
+          "url": "https://www.ettoday.net/news/20261118/3273969.htm"
+        },
+        {
+          "source": "科技新報",
+          "title": "美媒：美國安局內部通訊網路故障，暫未見駭客入侵跡象",
+          "url": "https://technews.tw/2026/11/18/highly-classified-us-national-security-communications-network-goes-down/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難",
       "summary": [
         "自由時報：俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難",
@@ -61,65 +93,11 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "樹林本命區車掃！蘇巧慧：最後衝刺努力迎接新北新時代",
-      "summary": [
-        "自由時報：樹林本命區車掃！蘇巧慧：最後衝刺努力迎接新北新時代",
-        "ETtoday：直搗蘇巧慧本命區！李四川車掃展人氣　民眾秀「奶昔大哥」應援",
-        "工商時報：臺泥躍營運轉機王- 日報"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "樹林本命區車掃！蘇巧慧：最後衝刺努力迎接新北新時代",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5644198"
-        },
-        {
-          "source": "ETtoday",
-          "title": "直搗蘇巧慧本命區！李四川車掃展人氣　民眾秀「奶昔大哥」應援",
-          "url": "https://www.ettoday.net/news/20261117/3273880.htm"
-        },
-        {
-          "source": "工商時報",
-          "title": "臺泥躍營運轉機王- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0a2pUbXFCWElrOHVrdjB1TmdWTWJjOUlXWmYzRWdPZ1RTY2lydHNvVTRNUVdLYTBFUkVSR0VEdjBXVURfSHJaQWxBRGNPWmduVU9WZ3Q4Y3A4UmVhYlBv?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 4,
-      "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
-      "summary": [
-        "自由時報：美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
-        "經濟日報：美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
-        "ETtoday：美國安局最高機密網路突故障！　知情人士曝肇因"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5644352"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美媒：美國安局內部通訊網路故障　暫未見駭客入侵跡象",
-          "url": "https://money.udn.com/money/story/5599/9885381"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美國安局最高機密網路突故障！　知情人士曝肇因",
-          "url": "https://www.ettoday.net/news/20261118/3273969.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "鴻海收購Sony車載相機模組事業-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：鴻海收購Sony車載相機模組事業-新聞內容-基金",
-        "ETtoday：鴻海重大併購！　72億買下Sony車載相機事業"
+        "科技新報：鴻海收購 Sony 半導體車載相機模組事業"
       ],
       "media_count": 2,
       "links": [
@@ -129,56 +107,14 @@
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdVo5bHVpUDFKOGR2aHhKYm9nSlVESy1EVThmMUphYkR3U2N1QnVfY2NDd0dGTS1YX3FLTG9odEozRVVkNTM5akp0b09HMHdWelRXdFJEZDJnTkdiXzM4b1dCWldqdFBwYV9sZGFoRUNDLVhZc1RNdERiN2dOU2FsQ0g4aThEUUNIUFI2QUVIdTI?oc=5"
         },
         {
-          "source": "ETtoday",
-          "title": "鴻海重大併購！　72億買下Sony車載相機事業",
-          "url": "https://finance.ettoday.net/news/3273995"
+          "source": "科技新報",
+          "title": "鴻海收購 Sony 半導體車載相機模組事業",
+          "url": "https://technews.tw/2026/11/18/foxconn-acquires-sony-automotive-camera-module/"
         }
       ]
     },
     {
-      "rank": 6,
-      "title": "席維斯史特龍親自認可！《我就是洛基》男主角揭幕後　增重13公斤神還原外型",
-      "summary": [
-        "ETtoday：席維斯史特龍親自認可！《我就是洛基》男主角揭幕後　增重13公斤神還原外型",
-        "自由時報：史特龍看完也點頭！《我就是洛基》男主角增重13公斤神還原"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "席維斯史特龍親自認可！《我就是洛基》男主角揭幕後　增重13公斤神還原外型",
-          "url": "https://star.ettoday.net/news/3273899"
-        },
-        {
-          "source": "自由時報",
-          "title": "史特龍看完也點頭！《我就是洛基》男主角增重13公斤神還原",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5644335"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "深圳川習會談臺灣？ 川普：確定習近平會提",
-      "summary": [
-        "經濟日報：深圳川習會談臺灣？ 川普：確定習近平會提",
-        "ETtoday：川習會臺灣議題受關注　川普：習近平會主動提起"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "深圳川習會談臺灣？ 川普：確定習近平會提",
-          "url": "https://money.udn.com/money/story/5599/9884925"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川習會臺灣議題受關注　川普：習近平會主動提起",
-          "url": "https://www.ettoday.net/news/20261118/3273984.htm"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "title": "憂美選後AI支出放緩 美銀調查經理人減碼科技股創20年最劇",
       "summary": [
         "經濟日報：憂美選後AI支出放緩 美銀調查經理人減碼科技股創20年最劇",
@@ -199,7 +135,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "川普承諾力挺東協盟友 笑稱盧比歐不接電話就開除",
       "summary": [
         "經濟日報：川普承諾力挺東協盟友 笑稱盧比歐不接電話就開除",
@@ -220,7 +156,28 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "title": "打破沉默 WSJ：黃仁勳有意回鍋輝達 CEO",
+      "summary": [
+        "經濟日報：打破沉默 WSJ：黃仁勳有意回鍋輝達 CEO",
+        "自由時報：黃仁勳公開喊話想重返輝達CEO！沈榮欽揭3大訊號"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "打破沉默 WSJ：黃仁勳有意回鍋輝達 CEO",
+          "url": "https://money.udn.com/money/story/123398/9885276"
+        },
+        {
+          "source": "自由時報",
+          "title": "黃仁勳公開喊話想重返輝達CEO！沈榮欽揭3大訊號",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5644414"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "民調：川普支援率維持32%　近2屆任期以來低點",
       "summary": [
         "自由時報：民調：川普支援率維持32%　近2屆任期以來低點",
@@ -237,6 +194,48 @@
           "source": "經濟日報",
           "title": "民調：川普支援率維持32%　近2屆任期以來低點",
           "url": "https://money.udn.com/money/story/5599/9885326"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "AI類股跌勢拖累 歐股收低",
+      "summary": [
+        "自由時報：AI類股跌勢拖累 歐股收低",
+        "經濟日報：AI類股跌勢拖累 歐股收低"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "AI類股跌勢拖累 歐股收低",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5644345"
+        },
+        {
+          "source": "經濟日報",
+          "title": "AI類股跌勢拖累 歐股收低",
+          "url": "https://money.udn.com/money/story/5599/9885342"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國會：黃仁勳12/1赴眾議院委員會接受約談",
+      "summary": [
+        "自由時報：美國會：黃仁勳12/1赴眾議院委員會接受約談",
+        "經濟日報：美國會：黃仁勳12/1赴眾議院委員會接受約談"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美國會：黃仁勳12/1赴眾議院委員會接受約談",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5644351"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美國會：黃仁勳12/1赴眾議院委員會接受約談",
+          "url": "https://money.udn.com/money/story/5599/9885356"
         }
       ]
     }
@@ -281,6 +280,38 @@
     },
     {
       "rank": 2,
+      "title": "英偉達表示不打算恢復黃仁勳擔任執行長",
+      "summary": [
+        "The Verge：英偉達表示不打算恢復黃仁勳擔任執行長",
+        "TechCrunch：英偉達表示不打算重新任命黃仁勳擔任執行長",
+        "Bloomberg Tech：英偉達董事長稱黃仁勳不會重新擔任執行長"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "英偉達表示不打算恢復黃仁勳擔任執行長",
+          "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "英偉達表示不打算重新任命黃仁勳擔任執行長",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "英偉達董事長稱黃仁勳不會重新擔任執行長",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-chair-says-huang-isn-t-coming-back-as-ceo-video"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "英偉達董事會表示黃仁勳將不再擔任執行長",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGtOS3I2Z0dSRHprQUVneEJrVjFNOU81Um1tY0VlZmxDaFhJZFhWb1c1djA0MVl4cHJST1NWOTZGOHRsMkF1ZTFnRkN0TnZSOWFDYnk2aUk5T19TV0JpUzE0MktyRUVIblJFTVpRYmdZLWJxYUJNeXlDMmozNmdwWEp5TlJSVjVqbHVJZlNiQ1N1Z0xMblJPams4ZmxKOTVzV3NNT1NkMjFwZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "據稱，Anthropic 將引導 IPO 價格至區間頂部或以上",
       "summary": [
         "Bloomberg Markets：據稱，Anthropic 將引導 IPO 價格至區間頂部或以上",
@@ -307,50 +338,29 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "英偉達表示不打算恢復黃仁勳擔任執行長",
+      "rank": 4,
+      "title": "加州 DMV 下令後，Waymo 暫停全國高速公路出行",
       "summary": [
-        "The Verge：英偉達表示不打算恢復黃仁勳擔任執行長",
-        "TechCrunch：英偉達表示不打算重新任命黃仁勳擔任執行長",
-        "Bloomberg Tech：英偉達董事長稱黃仁勳不會重新擔任執行長"
+        "TechCrunch：加州 DMV 下令後，Waymo 暫停全國高速公路出行",
+        "Wired：加州安全禁令生效後，Waymo 暫停所有高速公路騎行",
+        "Investing.com：加州禁令生效後，Waymo 暫停美國高速公路上的機器人計程車服務"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "The Verge",
-          "title": "英偉達表示不打算恢復黃仁勳擔任執行長",
-          "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo"
-        },
-        {
           "source": "TechCrunch",
-          "title": "英偉達表示不打算重新任命黃仁勳擔任執行長",
-          "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+          "title": "加州 DMV 下令後，Waymo 暫停全國高速公路出行",
+          "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
         },
         {
-          "source": "Bloomberg Tech",
-          "title": "英偉達董事長稱黃仁勳不會重新擔任執行長",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-chair-says-huang-isn-t-coming-back-as-ceo-video"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "金正恩也將在APEC深圳峰會期間去中國？",
-      "summary": [
-        "德國之聲：金正恩也將在APEC深圳峰會期間去中國？",
-        "韓聯社：李在明抵達中國深圳 將出席APEC峰會"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "金正恩也將在APEC深圳峰會期間去中國？",
-          "url": "https://www.dw.com/zh/金正恩也将在apec深圳峰会期间去中国？/a-79969412?maca=chi-rss-chi-all-1127-rdf"
+          "source": "Wired",
+          "title": "加州安全禁令生效後，Waymo 暫停所有高速公路騎行",
+          "url": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/"
         },
         {
-          "source": "韓聯社",
-          "title": "李在明抵達中國深圳 將出席APEC峰會",
-          "url": "https://cn.yna.co.kr/view/ACK20261118000200881"
+          "source": "Investing.com",
+          "title": "加州禁令生效後，Waymo 暫停美國高速公路上的機器人計程車服務",
+          "url": "https://www.investing.com/news/stock-market-news/waymo-pauses-robotaxi-rides-on-us-freeways-after-california-ban-5034415"
         }
       ]
     },
