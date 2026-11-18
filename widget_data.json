@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 20:56",
+  "updated_at": "2026-11-18 21:27",
   "taiwan": [
     {
       "rank": 1,
@@ -110,6 +110,27 @@
     },
     {
       "rank": 5,
+      "title": "《劍橋詞典》2026年度代表詞「Human」：AI時代下生而為人的危機感？",
+      "summary": [
+        "轉角國際：《劍橋詞典》2026年度代表詞「Human」：AI時代下生而為人的危機感？",
+        "公視新聞：《劍橋詞典》年度代表字「人」 反映AI時代危機感｜20261118 8點新世界"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "轉角國際",
+          "title": "《劍橋詞典》2026年度代表詞「Human」：AI時代下生而為人的危機感？",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuZUJ5WHV4S05WWlBTU0RaOURMTHlrRTJYaWpfWWUtR0puV0x6d1E3RUpXMWZIeGRwSFVndGJhbnJUTjhnSEpySVFaRnJzcnV5Y2I2N2NiLXFnYXNNZWVKZm5TamN6Z0tRRzhB0gFrQVVfeXFMUG5lQnlYdXhLTlZaUFNTRFo5RExMeWtFMlhpal9ZZS1HSm5XTHp3UTdFSlcxZkh4ZHBIVWd0YmFuclROOGdISnJJUVpGcnNydXljYjY3Y2ItcWdhc01lZUpmblNqY3pnS1FHOEE?oc=5"
+        },
+        {
+          "source": "公視新聞",
+          "title": "《劍橋詞典》年度代表字「人」 反映AI時代危機感｜20261118 8點新世界",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UZ3JIeG9kZjU3U2lWRVA4bndBZXpUakRCOEFBN1NwejNWdFFCdXZ0UE93aF9pejl2U29zR0FNOFJZMldITDM5TTJFSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "川普政府傳續推中國光模組禁令  美國光通訊股嗨",
       "summary": [
         "科技新報：川普政府傳續推中國光模組禁令  美國光通訊股嗨",
@@ -130,7 +151,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "李在明深圳會習近平　盼攜手維護朝鮮半島和平穩定",
       "summary": [
         "經濟日報：李在明深圳會習近平　盼攜手維護朝鮮半島和平穩定",
@@ -151,49 +172,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Zoom等178網站遭惡意程式波及　第三方軟體成資安隱憂",
-      "summary": [
-        "經濟日報：Zoom等178網站遭惡意程式波及　第三方軟體成資安隱憂",
-        "科技新報：Zoom 等 178 網站遭惡意程式波及，第三方軟體成資安隱憂"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "Zoom等178網站遭惡意程式波及　第三方軟體成資安隱憂",
-          "url": "https://money.udn.com/money/story/5599/9885572"
-        },
-        {
-          "source": "科技新報",
-          "title": "Zoom 等 178 網站遭惡意程式波及，第三方軟體成資安隱憂",
-          "url": "https://infosecu.technews.tw/2026/11/18/popular-websites-compromised-in-bid-to-steal-crypto-target-iphone-users/"
-        }
-      ]
-    },
-    {
       "rank": 8,
-      "title": "AI需求旺 全球半導體銷售額連5個月\"倍增\"",
-      "summary": [
-        "MoneyDJ理財網：AI需求旺 全球半導體銷售額連5個月\"倍增\"",
-        "科技新報：AI 需求旺  全球半導體銷售額連 5 個月「倍增」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "AI需求旺 全球半導體銷售額連5個月\"倍增\"",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcVJJSDBXalFWOXMxOWsyRjVxcHlVLVlta2ZmeWFYNXpvZ0lBSGZNQUczclRFN09PVVNwdG9rWHBjYmdsdGRnUEZaWkdEM2xQMVk0ZEtiOWU2MjFwNko3cTN0MENFQ3owS3dCVE5oX1h5MWZwdmRHZ3FCZXJGUjcxYTRyU1ZDbUNicjBTTVk1QWliZw?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "AI 需求旺  全球半導體銷售額連 5 個月「倍增」",
-          "url": "https://technews.tw/2026/11/18/global-semiconductor-sales-double-for-fifth-straight-month/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "超微蘇姿豐挺「表舅」黃仁勳　讚傑出領袖指雜音終將平息",
       "summary": [
         "經濟日報：超微蘇姿豐挺「表舅」黃仁勳　讚傑出領袖指雜音終將平息",
@@ -214,7 +193,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "席開4桌替楊梅7連霸議員助選拉票 前婦協會理事長15萬交保",
       "summary": [
         "自由時報：席開4桌替楊梅7連霸議員助選拉票 前婦協會理事長15萬交保",
@@ -231,6 +210,27 @@
           "source": "ETtoday",
           "title": "婦女會前理事長席開4桌助選議員　檢傳喚到案涉買票15萬交保",
           "url": "https://www.ettoday.net/news/20261118/3274102.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "震撼！黃仁勳才剛下臺 輝達宣佈H200晶片不賣中國了",
+      "summary": [
+        "自由時報：震撼！黃仁勳才剛下臺 輝達宣佈H200晶片不賣中國了",
+        "ETtoday：震撼彈！輝達H200晶片「不賣中國了」　代理CEO證實"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "震撼！黃仁勳才剛下臺 輝達宣佈H200晶片不賣中國了",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5644481"
+        },
+        {
+          "source": "ETtoday",
+          "title": "震撼彈！輝達H200晶片「不賣中國了」　代理CEO證實",
+          "url": "https://www.ettoday.net/news/20261118/3274074.htm"
         }
       ]
     }
