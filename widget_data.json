@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 09:26",
+  "updated_at": "2026-11-18 09:56",
   "taiwan": [
     {
       "rank": 1,
@@ -94,6 +94,33 @@
     },
     {
       "rank": 4,
+      "title": "美國會：黃仁勳12/1赴眾議院委員會接受約談",
+      "summary": [
+        "自由時報：美國會：黃仁勳12/1赴眾議院委員會接受約談",
+        "經濟日報：美國會：黃仁勳12/1赴眾議院委員會接受約談",
+        "科技新報：美國會：黃仁勳 12/1 赴眾議院委員會接受約談"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美國會：黃仁勳12/1赴眾議院委員會接受約談",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5644351"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美國會：黃仁勳12/1赴眾議院委員會接受約談",
+          "url": "https://money.udn.com/money/story/5599/9885356"
+        },
+        {
+          "source": "科技新報",
+          "title": "美國會：黃仁勳 12/1 赴眾議院委員會接受約談",
+          "url": "https://technews.tw/2026/11/18/former-nvidia-ceo-to-appear-before-congress-in-december/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "鴻海收購Sony車載相機模組事業-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：鴻海收購Sony車載相機模組事業-新聞內容-基金",
@@ -114,7 +141,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "憂美選後AI支出放緩 美銀調查經理人減碼科技股創20年最劇",
       "summary": [
         "經濟日報：憂美選後AI支出放緩 美銀調查經理人減碼科技股創20年最劇",
@@ -135,7 +162,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "川普承諾力挺東協盟友 笑稱盧比歐不接電話就開除",
       "summary": [
         "經濟日報：川普承諾力挺東協盟友 笑稱盧比歐不接電話就開除",
@@ -156,7 +183,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "打破沉默 WSJ：黃仁勳有意回鍋輝達 CEO",
       "summary": [
         "經濟日報：打破沉默 WSJ：黃仁勳有意回鍋輝達 CEO",
@@ -177,7 +204,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "民調：川普支援率維持32%　近2屆任期以來低點",
       "summary": [
         "自由時報：民調：川普支援率維持32%　近2屆任期以來低點",
@@ -198,7 +225,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "AI類股跌勢拖累 歐股收低",
       "summary": [
         "自由時報：AI類股跌勢拖累 歐股收低",
@@ -215,27 +242,6 @@
           "source": "經濟日報",
           "title": "AI類股跌勢拖累 歐股收低",
           "url": "https://money.udn.com/money/story/5599/9885342"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "美國會：黃仁勳12/1赴眾議院委員會接受約談",
-      "summary": [
-        "自由時報：美國會：黃仁勳12/1赴眾議院委員會接受約談",
-        "經濟日報：美國會：黃仁勳12/1赴眾議院委員會接受約談"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美國會：黃仁勳12/1赴眾議院委員會接受約談",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5644351"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美國會：黃仁勳12/1赴眾議院委員會接受約談",
-          "url": "https://money.udn.com/money/story/5599/9885356"
         }
       ]
     }
@@ -366,27 +372,6 @@
     },
     {
       "rank": 5,
-      "title": "人為 IPO 受益者：風險敞口最大的股票",
-      "summary": [
-        "Investing.com：人為 IPO 受益者：風險敞口最大的股票",
-        "Bloomberg Tech：Anthropic IPO 凸顯人工智慧私募市場財富"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "人為 IPO 受益者：風險敞口最大的股票",
-          "url": "https://www.investing.com/news/stock-market-news/anthropic-ipo-beneficiaries-the-stocks-with-the-most-exposure-93CH-5032938"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic IPO 凸顯人工智慧私募市場財富",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-ipo-highlights-ai-s-private-market-wealth-video"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "川普在與習近平和普丁舉行峰會之前抵達亞洲",
       "summary": [
         "Bloomberg Markets：川普在與習近平和普丁舉行峰會之前抵達亞洲",
@@ -407,7 +392,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "交易員利用 Anthropic 首次公開發行前合約的定價差距獲利",
       "summary": [
         "Bloomberg Markets：交易員利用 Anthropic 首次公開發行前合約的定價差距獲利",
@@ -428,7 +413,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Instagram 為創作者推出的新工具旨在打擊未經授權的轉發和人工智慧修改的影片",
       "summary": [
         "TechCrunch：Instagram 為創作者推出的新工具旨在打擊未經授權的轉發和人工智慧修改的影片",
@@ -449,7 +434,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "為什麼 Salesforce 的股價今天會下跌？",
       "summary": [
         "Investing.com：為什麼 Salesforce 的股價今天會下跌？",
@@ -470,7 +455,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "黃仁勳表示他準備重新擔任英偉達執行長",
       "summary": [
         "Financial Times：黃仁勳表示他準備重新擔任英偉達執行長",
@@ -487,6 +472,27 @@
           "source": "BBC World",
           "title": "黃仁勳表示，如果董事會要求，他將重新擔任英偉達老闆",
           "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "由於大宗商品購買量下滑，美國零售銷售成長放緩",
+      "summary": [
+        "Bloomberg Markets：由於大宗商品購買量下滑，美國零售銷售成長放緩",
+        "WSJ Markets：零售銷售放緩拖累市場"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "由於大宗商品購買量下滑，美國零售銷售成長放緩",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/us-retail-sales-growth-slows-big-ticket-purchases-slip-video"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "零售銷售放緩拖累市場",
+          "url": "https://www.wsj.com/finance/stocks/slower-retail-sales-drag-on-market-fd1db66a?mod=rss_markets_main"
         }
       ]
     }
