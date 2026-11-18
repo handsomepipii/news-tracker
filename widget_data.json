@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 01:27",
+  "updated_at": "2026-11-19 01:57",
   "taiwan": [
     {
       "rank": 1,
@@ -62,69 +62,6 @@
     },
     {
       "rank": 3,
-      "title": "李在明深圳會習近平　盼攜手維護朝鮮半島和平穩定",
-      "summary": [
-        "經濟日報：李在明深圳會習近平　盼攜手維護朝鮮半島和平穩定",
-        "自由時報：李在明會晤習近平 盼共創朝鮮半島和平"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "李在明深圳會習近平　盼攜手維護朝鮮半島和平穩定",
-          "url": "https://money.udn.com/money/story/5599/9886432"
-        },
-        {
-          "source": "自由時報",
-          "title": "李在明會晤習近平 盼共創朝鮮半島和平",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645151"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "日本JINS爆1829萬筆個資外洩！ 臺灣宣告不受影響",
-      "summary": [
-        "自由時報：日本JINS爆1829萬筆個資外洩！ 臺灣宣告不受影響",
-        "經濟日報：日本DHC爆1911萬筆個資外洩　JINS、思夢樂也遭殃"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "日本JINS爆1829萬筆個資外洩！ 臺灣宣告不受影響",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5644898"
-        },
-        {
-          "source": "經濟日報",
-          "title": "日本DHC爆1911萬筆個資外洩　JINS、思夢樂也遭殃",
-          "url": "https://money.udn.com/money/story/5599/9887204"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "輝達：已停止向中國出貨 Hopper 晶片",
-      "summary": [
-        "科技新報：輝達：已停止向中國出貨 Hopper 晶片",
-        "MoneyDJ理財網：輝達：已停止向中國出貨Hopper晶片"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "輝達：已停止向中國出貨 Hopper 晶片",
-          "url": "https://technews.tw/2026/11/18/nvidia-stops-shipping-hopper-chips-to-china/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "輝達：已停止向中國出貨Hopper晶片",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUE2ajV1RE5kUmprc0xTYkotRmo1cnlTYmp0c2pSNGNMMEtFOTVMUlNTOFEzNTFCdTNla3JscHk0bDVmU2dsN3dhWGZScWZteTYyREpzYmVKdk9oOEo5WVYwczZDeG5vaFhWTG9YdnZvZUFUSjlLbFV6X2NldUpwb2hnVXdKRDJiUEFnRWo0VmdpZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "輝達新掌門續挺 AI 融資、僅強調會嚴選  Nebius 嗨",
       "summary": [
         "科技新報：輝達新掌門續挺 AI 融資、僅強調會嚴選  Nebius 嗨",
@@ -145,7 +82,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "經濟學人剖析 2027 年趨勢，川普政治動向、臺海安全與 AI 風險受矚",
       "summary": [
         "科技新報：經濟學人剖析 2027 年趨勢，川普政治動向、臺海安全與 AI 風險受矚",
@@ -166,7 +103,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "Anthropic啟動上市　將成檢驗全球AI投資熱潮關鍵指標",
       "summary": [
         "經濟日報：Anthropic啟動上市　將成檢驗全球AI投資熱潮關鍵指標",
@@ -187,7 +124,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "首度同框！彰縣公辦政見會登場 縣長候選人幸運小物曝光",
       "summary": [
         "自由時報：首度同框！彰縣公辦政見會登場 縣長候選人幸運小物曝光",
@@ -208,7 +145,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "2026臺灣國際衝浪公開賽進入決戰倒數 22日金樽冠軍戰",
       "summary": [
         "自由時報：2026臺灣國際衝浪公開賽進入決戰倒數 22日金樽冠軍戰",
@@ -225,6 +162,69 @@
           "source": "ETtoday",
           "title": "臺灣國際衝浪公開賽進入決戰　金樽海域11/22迎年度冠軍賽",
           "url": "https://www.ettoday.net/news/20261118/3274302.htm"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "傳輝達部分董事力挺黃仁勳、安謀 CEO 憂接手觀感",
+      "summary": [
+        "科技新報：傳輝達部分董事力挺黃仁勳、安謀 CEO 憂接手觀感",
+        "MoneyDJ理財網：傳輝達部分董事力挺黃仁勳、安謀CEO憂接手觀感- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "傳輝達部分董事力挺黃仁勳、安謀 CEO 憂接手觀感",
+          "url": "https://finance.technews.tw/2026/11/18/some-nvidia-directors-continue-push-to-bring-huang-back/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "傳輝達部分董事力挺黃仁勳、安謀CEO憂接手觀感- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRHBhS1dBeFVMYWJHUHU3SkFkYllJV2ZwMUFHWU53bHMxYVo1ZUg2MlRNR05pT2M5UUh1SnJLSVQ1VlVHVlhQbjRjMHYxTXJQWWxjWGR5aHV3VzV6TUpzOUZxai1tUzVubFhQc1FQZzMwVDF6YXpGbjM4Zmc0d2Q3V1ZUM1E3d3Z3S2RJM21oUEZTQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "陸韓元首深圳會談 李在明：朝鮮半島和平符合雙方共同利益",
+      "summary": [
+        "經濟日報：陸韓元首深圳會談 李在明：朝鮮半島和平符合雙方共同利益",
+        "自由時報：李在明會晤習近平 盼共創朝鮮半島和平"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "陸韓元首深圳會談 李在明：朝鮮半島和平符合雙方共同利益",
+          "url": "https://money.udn.com/money/story/5599/9886596"
+        },
+        {
+          "source": "自由時報",
+          "title": "李在明會晤習近平 盼共創朝鮮半島和平",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645151"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "日本硫磺島火山噴發　在南岸形成大片新陸地",
+      "summary": [
+        "經濟日報：日本硫磺島火山噴發　在南岸形成大片新陸地",
+        "科技新報：日本硫磺島火山噴發，南岸形成大片新陸地"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "日本硫磺島火山噴發　在南岸形成大片新陸地",
+          "url": "https://money.udn.com/money/story/5599/9886683"
+        },
+        {
+          "source": "科技新報",
+          "title": "日本硫磺島火山噴發，南岸形成大片新陸地",
+          "url": "https://technews.tw/2026/11/18/iwo-jima-volcanic-eruption-creates-new-landmass-southern-coast/"
         }
       ]
     }
@@ -449,22 +449,22 @@
     },
     {
       "rank": 10,
-      "title": "散戶對 Anthropic IPO 的熱情可與 SpaceX 首次亮相相媲美",
+      "title": "美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
       "summary": [
-        "CNBC：散戶對 Anthropic IPO 的熱情可與 SpaceX 首次亮相相媲美",
-        "Investing.com：Anthropic IPO 如何與 SpaceX 抗衡"
+        "Financial Times：美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
+        "Investing.com：專家表示，人工智慧時代的補丁可能是一些重大技術中斷的原因"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "CNBC",
-          "title": "散戶對 Anthropic IPO 的熱情可與 SpaceX 首次亮相相媲美",
-          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html"
+          "source": "Financial Times",
+          "title": "美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
+          "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1"
         },
         {
           "source": "Investing.com",
-          "title": "Anthropic IPO 如何與 SpaceX 抗衡",
-          "url": "https://www.investing.com/news/stock-market-news/how-theanthropic-ipo-stacks-up-against-spacex-5036604"
+          "title": "專家表示，人工智慧時代的補丁可能是一些重大技術中斷的原因",
+          "url": "https://www.investing.com/news/stock-market-news/patching-in-the-ai-age-may-underlie-some-of-the-major-tech-outages-experts-say-5036726"
         }
       ]
     }
