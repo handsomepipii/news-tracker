@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 03:27",
+  "updated_at": "2026-11-19 03:58",
   "taiwan": [
     {
       "rank": 1,
@@ -83,48 +83,6 @@
     },
     {
       "rank": 4,
-      "title": "大同購物網站e同購遭自動化攻擊入侵，疑似個資外洩",
-      "summary": [
-        "iThome：大同購物網站e同購遭自動化攻擊入侵，疑似個資外洩",
-        "公開資訊觀測站重訊：大同購物網站e同購遭自動化攻擊入侵，疑似個資外洩"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "大同購物網站e同購遭自動化攻擊入侵，疑似個資外洩",
-          "url": "https://www.ithome.com.tw/news/180615"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "大同購物網站e同購遭自動化攻擊入侵，疑似個資外洩",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UTzFRNFlENG1yaU85UGIzbTV5QzVZejl4X0tOQlhRbmFDV2I4MXVBSVlCX0E1WEhFcEM4QkdXN2VGMmFIYnMwSXlHaGhwdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "川普政府傳續推中國光模組禁令美國光通訊股嗨- 新聞",
-      "summary": [
-        "MoneyDJ理財網：川普政府傳續推中國光模組禁令美國光通訊股嗨- 新聞",
-        "工商時報：亞馬遜、Google反對也沒用！川普續推中國光收發器禁令光通訊廠轉單商機爆發- 國際"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "川普政府傳續推中國光模組禁令美國光通訊股嗨- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2RDYTN3dWE3cFByWC1ST1JjQm53YlQ0SXRyeE9SMTZoRFhRZzJlN01nUzZOcnlNVzhBMUswcE8xZ2dORTl4X1Y4NFQwOVduc3Q2QjZzNHdnUVoxc0M4bGE3dkJDQk5NQzhnRGVod2c5YmpqZ2drMjhDVllMV1ZsdG03aGU3MU5vZ2NIOGRTaE5idw?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "亞馬遜、Google反對也沒用！川普續推中國光收發器禁令光通訊廠轉單商機爆發- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14eU9UenNoc3JRTWhsZDJNNjV4Vk93ZTRMazZneVZ5YjZ6Zmh1Q0F0RFhVSzVQWWlzczM4NlFncTdCelhYZ1RmM2VoZkR6aFNmMlBMX1J2YUc0a0ZFa0Fn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "神達數位部分資訊系統遭外部網路攻擊，出現未經授權存取情形",
       "summary": [
         "iThome：神達數位部分資訊系統遭外部網路攻擊，出現未經授權存取情形",
@@ -145,7 +103,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "宇峻Q4營收拚高峰明年4款遊戲接力發行- 新聞",
       "summary": [
         "MoneyDJ理財網：宇峻Q4營收拚高峰明年4款遊戲接力發行- 新聞",
@@ -166,7 +124,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "永信藥品委外電商服務商發生資安事件，部分會員個資疑似外洩",
       "summary": [
         "iThome：永信藥品委外電商服務商發生資安事件，部分會員個資疑似外洩",
@@ -187,7 +145,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "日相高市抵達深圳參加APEC　執政後首訪中國",
       "summary": [
         "經濟日報：日相高市抵達深圳參加APEC　執政後首訪中國",
@@ -208,7 +166,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Sony警告《GTA 6》要更新PS5才能玩！澳洲肯德基辦假葬禮提供請假理由",
       "summary": [
         "自由時報：Sony警告《GTA 6》要更新PS5才能玩！澳洲肯德基辦假葬禮提供請假理由",
@@ -225,6 +183,48 @@
           "source": "ETtoday",
           "title": "玩家注意！Sony 突發警告：要玩《GTA 6》一定要更新 PS5",
           "url": "https://game.ettoday.net/article/3274457.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "韓中FTA談判達成協議 限韓令是否鬆綁仍有待觀察",
+      "summary": [
+        "經濟日報：韓中FTA談判達成協議 限韓令是否鬆綁仍有待觀察",
+        "科技新報：韓中 FTA 談判達成協議，限韓令是否鬆綁仍有待觀察"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "韓中FTA談判達成協議 限韓令是否鬆綁仍有待觀察",
+          "url": "https://money.udn.com/money/story/5599/9887080"
+        },
+        {
+          "source": "科技新報",
+          "title": "韓中 FTA 談判達成協議，限韓令是否鬆綁仍有待觀察",
+          "url": "https://finance.technews.tw/2026/11/18/korea-china-fta-deal-hallyu-ban-relaxation-uncertain/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "1票1000元 里港鄉代候選人樁腳涉現金買票",
+      "summary": [
+        "自由時報：1票1000元 里港鄉代候選人樁腳涉現金買票",
+        "ETtoday：「1票1000」屏東鄉代候選人樁腳涉現金買票　5萬交保"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "1票1000元 里港鄉代候選人樁腳涉現金買票",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5645516"
+        },
+        {
+          "source": "ETtoday",
+          "title": "「1票1000」屏東鄉代候選人樁腳涉現金買票　5萬交保",
+          "url": "https://www.ettoday.net/news/20261118/3274546.htm"
         }
       ]
     }
