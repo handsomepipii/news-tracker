@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 23:26",
+  "updated_at": "2026-11-18 23:57",
   "taiwan": [
     {
       "rank": 1,
@@ -83,69 +83,6 @@
     },
     {
       "rank": 4,
-      "title": "嘉市西區議員選舉賄選 支持者涉每票千元買票遭收押",
-      "summary": [
-        "自由時報：嘉市西區議員選舉賄選 支持者涉每票千元買票遭收押",
-        "ETtoday：金門選舉再爆現金買票！議員候選人樁腳遭拘提　查扣逾10萬賄款"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "嘉市西區議員選舉賄選 支持者涉每票千元買票遭收押",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5644711"
-        },
-        {
-          "source": "ETtoday",
-          "title": "金門選舉再爆現金買票！議員候選人樁腳遭拘提　查扣逾10萬賄款",
-          "url": "https://www.ettoday.net/news/20261118/3274438.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "微軟推MAI Code 2模​​型，稱以Claude Opus 5.5約5%價格達到96%完成",
-      "summary": [
-        "科技新報：微軟推MAI Code 2模​​型，稱以Claude Opus 5.5約5%價格達到96%完成",
-        "科技報橘：微軟押注「小而專」AI 模型，稱 MAI Code 2 以 5% 的成本達到 Claude Opus 5.5 的 96% 適合"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "微軟推MAI Code 2模​​型，稱以Claude Opus 5.5約5%價格達到96%完成",
-          "url": "https://technews.tw/2026/11/18/microsoft-unveils-ai-models-for-coding-cybersecurity-as-it-takes-on-anthropic-openai/"
-        },
-        {
-          "source": "科技報橘",
-          "title": "微軟押注「小而專」AI 模型，稱 MAI Code 2 以 5% 的成本達到 Claude Opus 5.5 的 96% 適合",
-          "url": "https://techorange.com/2026/11/18/microsoft-ignite-2026-building-frontier-ecosystem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "中國 AI 夢醒了，AI 明星企業股價暴跌七成",
-      "summary": [
-        "科技新報：中國 AI 夢醒了，AI 明星企業股價暴跌七成",
-        "財經新報：中國 AI 夢醒了，AI 明星企業股價暴跌七成"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "中國 AI 夢醒了，AI 明星企業股價暴跌七成",
-          "url": "https://technews.tw/2026/11/18/chinas-ai-dream-has-hit-a-reality-check-with-the-share-prices-of-star-ai-companies-plunging-by-70/"
-        },
-        {
-          "source": "財經新報",
-          "title": "中國 AI 夢醒了，AI 明星企業股價暴跌七成",
-          "url": "https://finance.technews.tw/2026/11/18/chinas-ai-dream-has-hit-a-reality-check-with-the-share-prices-of-star-ai-companies-plunging-by-70/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "揭蘇巧慧昔擋光電環評修法　李競辦：難怪不敢反對翡翠水庫設光電",
       "summary": [
         "ETtoday：揭蘇巧慧昔擋光電環評修法　李競辦：難怪不敢反對翡翠水庫設光電",
@@ -166,7 +103,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "臺塑新智慧擴大微電網佈局　攜手立碁電強化區域供電韌性",
       "summary": [
         "ETtoday：臺塑新智慧擴大微電網佈局　攜手立碁電強化區域供電韌性",
@@ -187,7 +124,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "黃金跌入熊市卻成數位時代避風港，專家：實體黃金不怕駭客攻擊",
       "summary": [
         "科技新報：黃金跌入熊市卻成數位時代避風港，專家：實體黃金不怕駭客攻擊",
@@ -208,7 +145,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "川普要求福特級航艦改回蒸汽彈射，美參院兩黨齊聲反對",
       "summary": [
         "科技新報：川普要求福特級航艦改回蒸汽彈射，美參院兩黨齊聲反對",
@@ -225,6 +162,69 @@
           "source": "自由時報",
           "title": "川普下令新造航艦改回蒸汽彈射 共和黨參院大老直言「沒門」",
           "url": "https://news.ltn.com.tw/news/def/breakingnews/5645084"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "接連闖施工區遭加州禁行　Waymo暫停全美高速服務",
+      "summary": [
+        "經濟日報：接連闖施工區遭加州禁行　Waymo暫停全美高速服務",
+        "科技新報：接連闖施工區遭加州禁行，Waymo 暫停全美高速服務"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "接連闖施工區遭加州禁行　Waymo暫停全美高速服務",
+          "url": "https://money.udn.com/money/story/5599/9886345"
+        },
+        {
+          "source": "科技新報",
+          "title": "接連闖施工區遭加州禁行，Waymo 暫停全美高速服務",
+          "url": "https://technews.tw/2026/11/18/waymo-pauses-robotaxi-rides-on-us-freeways-after-california-ban/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "日本JINS爆1829萬筆個資外洩！ 臺灣宣告不受影響",
+      "summary": [
+        "自由時報：日本JINS爆1829萬筆個資外洩！ 臺灣宣告不受影響",
+        "經濟日報：日本DHC爆1911萬筆個資外洩　JINS、思夢樂也遭殃"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "日本JINS爆1829萬筆個資外洩！ 臺灣宣告不受影響",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5644898"
+        },
+        {
+          "source": "經濟日報",
+          "title": "日本DHC爆1911萬筆個資外洩　JINS、思夢樂也遭殃",
+          "url": "https://money.udn.com/money/story/5599/9887204"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "輝達：已停止向中國出貨 Hopper 晶片",
+      "summary": [
+        "科技新報：輝達：已停止向中國出貨 Hopper 晶片",
+        "MoneyDJ理財網：輝達：已停止向中國出貨Hopper晶片"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "輝達：已停止向中國出貨 Hopper 晶片",
+          "url": "https://technews.tw/2026/11/18/nvidia-stops-shipping-hopper-chips-to-china/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "輝達：已停止向中國出貨Hopper晶片",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUE2ajV1RE5kUmprc0xTYkotRmo1cnlTYmp0c2pSNGNMMEtFOTVMUlNTOFEzNTFCdTNla3JscHk0bDVmU2dsN3dhWGZScWZteTYyREpzYmVKdk9oOEo5WVYwczZDeG5vaFhWTG9YdnZvZUFUSjlLbFV6X2NldUpwb2hnVXdKRDJiUEFnRWo0VmdpZw?oc=5"
         }
       ]
     }
@@ -296,6 +296,33 @@
     },
     {
       "rank": 3,
+      "title": "獨家－川普政府考慮迫使美國公司披露中國人工智慧的使用情況",
+      "summary": [
+        "Investing.com：獨家－川普政府考慮迫使美國公司披露中國人工智慧的使用情況",
+        "德國之聲：特朗普政府考慮強制美企披露中國AI使用情況",
+        "法廣RFI：特朗普政府正考慮要求美國企業公開披露使用中國AI模型情況"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "獨家－川普政府考慮迫使美國公司披露中國人工智慧的使用情況",
+          "url": "https://www.investing.com/news/stock-market-news/exclusivetrump-administration-weighs-forcing-us-firms-to-disclose-chinese-ai-use-5035455"
+        },
+        {
+          "source": "德國之聲",
+          "title": "特朗普政府考慮強制美企披露中國AI使用情況",
+          "url": "https://www.dw.com/zh/特朗普政府考虑强制美企披露中国ai使用情况/a-79982497?maca=chi-rss-chi-all-1127-rdf"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "特朗普政府正考慮要求美國企業公開披露使用中國AI模型情況",
+          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261118-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%80%83%E6%85%AE%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E5%85%AC%E9%96%8B%E6%8A%AB%E9%9C%B2%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%9C%8Bai%E6%A8%A1%E5%9E%8B%E6%83%85%E6%B3%81"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "民主黨贏得阿拉斯加州參議院席位，完成中期選舉勝利",
       "summary": [
         "Financial Times：民主黨贏得阿拉斯加州參議院席位，完成中期選舉勝利",
@@ -316,7 +343,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "民主黨人調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失",
       "summary": [
         "Financial Times：民主黨人調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失",
@@ -337,7 +364,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "習近平與川普熱情擁抱開啟高峰會",
       "summary": [
         "Bloomberg Markets：習近平與川普熱情擁抱開啟高峰會",
@@ -358,7 +385,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "失去英國海軍合約後，赫爾辛縮減普利茅斯工廠規模",
       "summary": [
         "Financial Times：失去英國海軍合約後，赫爾辛縮減普利茅斯工廠規模",
@@ -379,7 +406,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "委員會表示，中國軍方尋求英偉達先進的人工智慧晶片",
       "summary": [
         "CNBC：委員會表示，中國軍方尋求英偉達先進的人工智慧晶片",
@@ -396,27 +423,6 @@
           "source": "Investing.com",
           "title": "報告稱，儘管美國限制，中國仍尋求用於人工智慧武器的先進英偉達晶片",
           "url": "https://www.investing.com/news/stock-market-news/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs-report-says-5035787"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "獨家－川普政府考慮迫使美國公司披露中國人工智慧的使用情況",
-      "summary": [
-        "Investing.com：獨家－川普政府考慮迫使美國公司披露中國人工智慧的使用情況",
-        "德國之聲：特朗普政府考慮強制美企披露中國AI使用情況"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "獨家－川普政府考慮迫使美國公司披露中國人工智慧的使用情況",
-          "url": "https://www.investing.com/news/stock-market-news/exclusivetrump-administration-weighs-forcing-us-firms-to-disclose-chinese-ai-use-5035455"
-        },
-        {
-          "source": "德國之聲",
-          "title": "特朗普政府考慮強制美企披露中國AI使用情況",
-          "url": "https://www.dw.com/zh/特朗普政府考虑强制美企披露中国ai使用情况/a-79982497?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
