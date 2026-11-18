@@ -1,40 +1,8 @@
 {
-  "updated_at": "2026-11-18 07:56",
+  "updated_at": "2026-11-18 08:28",
   "taiwan": [
     {
       "rank": 1,
-      "title": "臺中市長電視辯論登場 何欣純先喊話對手勿再操弄不實言論恐嚇長輩",
-      "summary": [
-        "自由時報：臺中市長電視辯論登場 何欣純先喊話對手勿再操弄不實言論恐嚇長輩",
-        "ETtoday：直搗蘇巧慧本命區！李四川車掃展人氣　民眾秀「奶昔大哥」應援",
-        "TVBS新聞：臺南市長公辦政見會 陳亭妃.謝龍介4人交鋒｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "臺中市長電視辯論登場 何欣純先喊話對手勿再操弄不實言論恐嚇長輩",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5644148"
-        },
-        {
-          "source": "ETtoday",
-          "title": "直搗蘇巧慧本命區！李四川車掃展人氣　民眾秀「奶昔大哥」應援",
-          "url": "https://www.ettoday.net/news/20261117/3273880.htm"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "臺南市長公辦政見會 陳亭妃.謝龍介4人交鋒｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zNlBXRG1MTnkzQVdGSzMwcW12Zl9GUzhVZjRWX3cxa1U1Y29qbGFwNnpTNS1HZWRFSGFCLXBIZjMydndXeDJQTm9ZeUFwM0lIVFA3aFVn?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "臺泥躍營運轉機王- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0a2pUbXFCWElrOHVrdjB1TmdWTWJjOUlXWmYzRWdPZ1RTY2lydHNvVTRNUVdLYTBFUkVSR0VEdjBXVURfSHJaQWxBRGNPWmduVU9WZ3Q4Y3A4UmVhYlBv?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "黃仁勳辭職後首發聲：若輝達董事會要求　願意回鍋任執行長",
       "summary": [
         "自由時報：黃仁勳辭職後首發聲：若輝達董事會要求　願意回鍋任執行長",
@@ -66,7 +34,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難",
       "summary": [
         "自由時報：俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難",
@@ -89,6 +57,33 @@
           "source": "ETtoday",
           "title": "俄羅斯軍用運輸機西伯利亞墜毀　機上19人全數罹難",
           "url": "https://www.ettoday.net/news/20261118/3273964.htm"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "樹林本命區車掃！蘇巧慧：最後衝刺努力迎接新北新時代",
+      "summary": [
+        "自由時報：樹林本命區車掃！蘇巧慧：最後衝刺努力迎接新北新時代",
+        "ETtoday：直搗蘇巧慧本命區！李四川車掃展人氣　民眾秀「奶昔大哥」應援",
+        "工商時報：臺泥躍營運轉機王- 日報"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "樹林本命區車掃！蘇巧慧：最後衝刺努力迎接新北新時代",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5644198"
+        },
+        {
+          "source": "ETtoday",
+          "title": "直搗蘇巧慧本命區！李四川車掃展人氣　民眾秀「奶昔大哥」應援",
+          "url": "https://www.ettoday.net/news/20261117/3273880.htm"
+        },
+        {
+          "source": "工商時報",
+          "title": "臺泥躍營運轉機王- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0a2pUbXFCWElrOHVrdjB1TmdWTWJjOUlXWmYzRWdPZ1RTY2lydHNvVTRNUVdLYTBFUkVSR0VEdjBXVURfSHJaQWxBRGNPWmduVU9WZ3Q4Y3A4UmVhYlBv?oc=5"
         }
       ]
     },
@@ -121,6 +116,90 @@
     },
     {
       "rank": 5,
+      "title": "鴻海收購Sony車載相機模組事業-新聞內容-基金",
+      "summary": [
+        "MoneyDJ理財網：鴻海收購Sony車載相機模組事業-新聞內容-基金",
+        "ETtoday：鴻海重大併購！　72億買下Sony車載相機事業"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "鴻海收購Sony車載相機模組事業-新聞內容-基金",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdVo5bHVpUDFKOGR2aHhKYm9nSlVESy1EVThmMUphYkR3U2N1QnVfY2NDd0dGTS1YX3FLTG9odEozRVVkNTM5akp0b09HMHdWelRXdFJEZDJnTkdiXzM4b1dCWldqdFBwYV9sZGFoRUNDLVhZc1RNdERiN2dOU2FsQ0g4aThEUUNIUFI2QUVIdTI?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "鴻海重大併購！　72億買下Sony車載相機事業",
+          "url": "https://finance.ettoday.net/news/3273995"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "席維斯史特龍親自認可！《我就是洛基》男主角揭幕後　增重13公斤神還原外型",
+      "summary": [
+        "ETtoday：席維斯史特龍親自認可！《我就是洛基》男主角揭幕後　增重13公斤神還原外型",
+        "自由時報：史特龍看完也點頭！《我就是洛基》男主角增重13公斤神還原"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "席維斯史特龍親自認可！《我就是洛基》男主角揭幕後　增重13公斤神還原外型",
+          "url": "https://star.ettoday.net/news/3273899"
+        },
+        {
+          "source": "自由時報",
+          "title": "史特龍看完也點頭！《我就是洛基》男主角增重13公斤神還原",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5644335"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "深圳川習會談臺灣？ 川普：確定習近平會提",
+      "summary": [
+        "經濟日報：深圳川習會談臺灣？ 川普：確定習近平會提",
+        "ETtoday：川習會臺灣議題受關注　川普：習近平會主動提起"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "深圳川習會談臺灣？ 川普：確定習近平會提",
+          "url": "https://money.udn.com/money/story/5599/9884925"
+        },
+        {
+          "source": "ETtoday",
+          "title": "川習會臺灣議題受關注　川普：習近平會主動提起",
+          "url": "https://www.ettoday.net/news/20261118/3273984.htm"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "憂美選後AI支出放緩 美銀調查經理人減碼科技股創20年最劇",
+      "summary": [
+        "經濟日報：憂美選後AI支出放緩 美銀調查經理人減碼科技股創20年最劇",
+        "科技新報：憂美選後 AI 支出放緩，美銀調查經理人減碼科技股創 20 年最劇"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "憂美選後AI支出放緩 美銀調查經理人減碼科技股創20年最劇",
+          "url": "https://money.udn.com/money/story/123398/9885088"
+        },
+        {
+          "source": "科技新報",
+          "title": "憂美選後 AI 支出放緩，美銀調查經理人減碼科技股創 20 年最劇",
+          "url": "https://finance.technews.tw/2026/11/18/investors-slashed-tech-exposure-allocations-by-most-since-2006/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "川普承諾力挺東協盟友 笑稱盧比歐不接電話就開除",
       "summary": [
         "經濟日報：川普承諾力挺東協盟友 笑稱盧比歐不接電話就開除",
@@ -141,7 +220,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 10,
       "title": "民調：川普支援率維持32%　近2屆任期以來低點",
       "summary": [
         "自由時報：民調：川普支援率維持32%　近2屆任期以來低點",
@@ -158,90 +237,6 @@
           "source": "經濟日報",
           "title": "民調：川普支援率維持32%　近2屆任期以來低點",
           "url": "https://money.udn.com/money/story/5599/9885326"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "AI類股跌勢拖累 歐股收低",
-      "summary": [
-        "自由時報：AI類股跌勢拖累 歐股收低",
-        "經濟日報：AI類股跌勢拖累 歐股收低"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "AI類股跌勢拖累 歐股收低",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5644345"
-        },
-        {
-          "source": "經濟日報",
-          "title": "AI類股跌勢拖累 歐股收低",
-          "url": "https://money.udn.com/money/story/5599/9885342"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "美國會：黃仁勳12/1赴眾議院委員會接受約談",
-      "summary": [
-        "自由時報：美國會：黃仁勳12/1赴眾議院委員會接受約談",
-        "經濟日報：美國會：黃仁勳12/1赴眾議院委員會接受約談"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美國會：黃仁勳12/1赴眾議院委員會接受約談",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5644351"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美國會：黃仁勳12/1赴眾議院委員會接受約談",
-          "url": "https://money.udn.com/money/story/5599/9885356"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "黃仁勳辭職後首發聲感謝各界支援　承諾配合董事會調查",
-      "summary": [
-        "自由時報：黃仁勳辭職後首發聲感謝各界支援　承諾配合董事會調查",
-        "經濟日報：黃仁勳辭職後首發聲感謝各界支援　承諾配合董事會調查"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "黃仁勳辭職後首發聲感謝各界支援　承諾配合董事會調查",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5644353"
-        },
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳辭職後首發聲感謝各界支援　承諾配合董事會調查",
-          "url": "https://money.udn.com/money/story/5599/9885382"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
-      "summary": [
-        "ETtoday：輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
-        "經濟日報：黃仁勳下臺後輝達首份財報報喜！ 營收翻倍 展望上修 股價盤後漲2%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
-          "url": "https://finance.ettoday.net/news/3273970"
-        },
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳下臺後輝達首份財報報喜！ 營收翻倍 展望上修 股價盤後漲2%",
-          "url": "https://money.udn.com/money/story/123398/9885456"
         }
       ]
     }
@@ -340,27 +335,6 @@
     },
     {
       "rank": 4,
-      "title": "槍手殺害報道毒品交易的哥斯大黎加記者",
-      "summary": [
-        "BBC World：槍手殺害報道毒品交易的哥斯大黎加記者",
-        "The Guardian：哥斯大黎加記者被槍殺，這是 25 年來首次此類殺戮"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "槍手殺害報道毒品交易的哥斯大黎加記者",
-          "url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "title": "哥斯大黎加記者被槍殺，這是 25 年來首次此類殺戮",
-          "url": "https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "金正恩也將在APEC深圳峰會期間去中國？",
       "summary": [
         "德國之聲：金正恩也將在APEC深圳峰會期間去中國？",
@@ -381,7 +355,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "首次公開發行後，亞馬遜和谷歌將持有 Anthropic 約 28% 的股票",
       "summary": [
         "Bloomberg Markets：首次公開發行後，亞馬遜和谷歌將持有 Anthropic 約 28% 的股票",
@@ -402,7 +376,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "墨西哥 enfrenta trabas para atraer centros de datos de IA",
       "summary": [
         "Bloomberg Tech：墨西哥 enfrenta trabas para atraer centros de datos de IA",
@@ -423,7 +397,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Uber 和 Zipline 的無人機送貨服務在休士頓試飛",
       "summary": [
         "The Verge：Uber 和 Zipline 的無人機送貨服務在休士頓試飛",
@@ -444,7 +418,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "人為 IPO 受益者：風險敞口最大的股票",
       "summary": [
         "Investing.com：人為 IPO 受益者：風險敞口最大的股票",
@@ -465,7 +439,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "川普在與習近平和普丁舉行峰會之前抵達亞洲",
       "summary": [
         "Bloomberg Markets：川普在與習近平和普丁舉行峰會之前抵達亞洲",
@@ -482,6 +456,27 @@
           "source": "BBC World",
           "title": "川普在與俄羅斯和中國總統會談之前抵達亞洲",
           "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "交易員利用 Anthropic 首次公開發行前合約的定價差距獲利",
+      "summary": [
+        "Bloomberg Markets：交易員利用 Anthropic 首次公開發行前合約的定價差距獲利",
+        "Bloomberg Tech：交易員利用首次公開募股前合約中的定價差距"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "交易員利用 Anthropic 首次公開發行前合約的定價差距獲利",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-frenzy-sparks-an-exotic-trade-in-pre-ipo-markets"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "交易員利用首次公開募股前合約中的定價差距",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/traders-exploiting-pricing-gaps-in-pre-ipo-contracts-video"
         }
       ]
     }
