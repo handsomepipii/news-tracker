@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 09:56",
+  "updated_at": "2026-11-18 10:27",
   "taiwan": [
     {
       "rank": 1,
@@ -163,6 +163,27 @@
     },
     {
       "rank": 7,
+      "title": "Anthropic將上市　IPO定價傳可望突破每股78美元",
+      "summary": [
+        "經濟日報：Anthropic將上市　IPO定價傳可望突破每股78美元",
+        "科技新報：Anthropic IPO 超搶手  傳最終定價高於 80 美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "Anthropic將上市　IPO定價傳可望突破每股78美元",
+          "url": "https://money.udn.com/money/story/123398/9885119"
+        },
+        {
+          "source": "科技新報",
+          "title": "Anthropic IPO 超搶手  傳最終定價高於 80 美元",
+          "url": "https://finance.technews.tw/2026/11/18/anthropic-plans-to-raise-ipo-price-after-strong-demand/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "川普承諾力挺東協盟友 笑稱盧比歐不接電話就開除",
       "summary": [
         "經濟日報：川普承諾力挺東協盟友 笑稱盧比歐不接電話就開除",
@@ -183,7 +204,28 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "誇張！臺中裡長候選人竟是詐團車手 開宣傳車取款收押禁見",
+      "summary": [
+        "自由時報：誇張！臺中裡長候選人竟是詐團車手 開宣傳車取款收押禁見",
+        "ETtoday：裡長候選人當車手收400萬遭押！犯案前當告別式司儀...圈內人傻眼"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "誇張！臺中裡長候選人竟是詐團車手 開宣傳車取款收押禁見",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5644320"
+        },
+        {
+          "source": "ETtoday",
+          "title": "裡長候選人當車手收400萬遭押！犯案前當告別式司儀...圈內人傻眼",
+          "url": "https://www.ettoday.net/news/20261118/3274064.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "打破沉默 WSJ：黃仁勳有意回鍋輝達 CEO",
       "summary": [
         "經濟日報：打破沉默 WSJ：黃仁勳有意回鍋輝達 CEO",
@@ -200,48 +242,6 @@
           "source": "自由時報",
           "title": "黃仁勳公開喊話想重返輝達CEO！沈榮欽揭3大訊號",
           "url": "https://ec.ltn.com.tw/article/breakingnews/5644414"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "民調：川普支援率維持32%　近2屆任期以來低點",
-      "summary": [
-        "自由時報：民調：川普支援率維持32%　近2屆任期以來低點",
-        "經濟日報：民調：川普支援率維持32%　近2屆任期以來低點"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "民調：川普支援率維持32%　近2屆任期以來低點",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5644341"
-        },
-        {
-          "source": "經濟日報",
-          "title": "民調：川普支援率維持32%　近2屆任期以來低點",
-          "url": "https://money.udn.com/money/story/5599/9885326"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "AI類股跌勢拖累 歐股收低",
-      "summary": [
-        "自由時報：AI類股跌勢拖累 歐股收低",
-        "經濟日報：AI類股跌勢拖累 歐股收低"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "AI類股跌勢拖累 歐股收低",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5644345"
-        },
-        {
-          "source": "經濟日報",
-          "title": "AI類股跌勢拖累 歐股收低",
-          "url": "https://money.udn.com/money/story/5599/9885342"
         }
       ]
     }
@@ -318,33 +318,6 @@
     },
     {
       "rank": 3,
-      "title": "據稱，Anthropic 將引導 IPO 價格至區間頂部或以上",
-      "summary": [
-        "Bloomberg Markets：據稱，Anthropic 將引導 IPO 價格至區間頂部或以上",
-        "Bloomberg Tech：據稱，Anthropic 將引導 IPO 價格至區間頂部",
-        "WSJ Markets：Anthropic 計劃在強勁需求後提高 IPO 價格"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "據稱，Anthropic 將引導 IPO 價格至區間頂部或以上",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-or-above"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "據稱，Anthropic 將引導 IPO 價格至區間頂部",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-video"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "Anthropic 計劃在強勁需求後提高 IPO 價格",
-          "url": "https://www.wsj.com/finance/anthropic-plans-to-raise-ipo-price-after-strong-demand-1a6b0af1?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "加州 DMV 下令後，Waymo 暫停全國高速公路出行",
       "summary": [
         "TechCrunch：加州 DMV 下令後，Waymo 暫停全國高速公路出行",
@@ -371,28 +344,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "川普在與習近平和普丁舉行峰會之前抵達亞洲",
-      "summary": [
-        "Bloomberg Markets：川普在與習近平和普丁舉行峰會之前抵達亞洲",
-        "BBC World：川普在與俄羅斯和中國總統會談之前抵達亞洲"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "川普在與習近平和普丁舉行峰會之前抵達亞洲",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/trump-arrives-in-asia-ahead-of-summit-with-xi-putin-video"
-        },
-        {
-          "source": "BBC World",
-          "title": "川普在與俄羅斯和中國總統會談之前抵達亞洲",
-          "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "交易員利用 Anthropic 首次公開發行前合約的定價差距獲利",
       "summary": [
         "Bloomberg Markets：交易員利用 Anthropic 首次公開發行前合約的定價差距獲利",
@@ -413,7 +365,28 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "title": "據稱，Anthropic 將引導 IPO 價格至區間頂部",
+      "summary": [
+        "Bloomberg Tech：據稱，Anthropic 將引導 IPO 價格至區間頂部",
+        "WSJ Markets：Anthropic 計劃在強勁需求後提高 IPO 價格"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "據稱，Anthropic 將引導 IPO 價格至區間頂部",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-video"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "Anthropic 計劃在強勁需求後提高 IPO 價格",
+          "url": "https://www.wsj.com/finance/anthropic-plans-to-raise-ipo-price-after-strong-demand-1a6b0af1?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Instagram 為創作者推出的新工具旨在打擊未經授權的轉發和人工智慧修改的影片",
       "summary": [
         "TechCrunch：Instagram 為創作者推出的新工具旨在打擊未經授權的轉發和人工智慧修改的影片",
@@ -434,7 +407,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "為什麼 Salesforce 的股價今天會下跌？",
       "summary": [
         "Investing.com：為什麼 Salesforce 的股價今天會下跌？",
@@ -455,7 +428,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "黃仁勳表示他準備重新擔任英偉達執行長",
       "summary": [
         "Financial Times：黃仁勳表示他準備重新擔任英偉達執行長",
@@ -476,7 +449,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "由於大宗商品購買量下滑，美國零售銷售成長放緩",
       "summary": [
         "Bloomberg Markets：由於大宗商品購買量下滑，美國零售銷售成長放緩",
@@ -493,6 +466,27 @@
           "source": "WSJ Markets",
           "title": "零售銷售放緩拖累市場",
           "url": "https://www.wsj.com/finance/stocks/slower-retail-sales-drag-on-market-fd1db66a?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "由於麻疹疫情持續爆發，美國正式失去麻疹消除狀態",
+      "summary": [
+        "CNBC：由於麻疹疫情持續爆發，美國正式失去麻疹消除狀態",
+        "Washington Post：麻疹疫情讓美國失去一項重大公共衛生成就"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "由於麻疹疫情持續爆發，美國正式失去麻疹消除狀態",
+          "url": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html"
+        },
+        {
+          "source": "Washington Post",
+          "title": "麻疹疫情讓美國失去一項重大公共衛生成就",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXFxT0NWbTR1ZjRVbEFkVW1JMy11Z1pvenNaQXRvOENhMUxHSC1odUIyU1RLZ1JvcE9KWTVvdHlUVHJMRUhGRklKVTFXcHVDeFBQOFZ4RHpZMUZKTU5uX285VWhOSkxORmNHYzJIUHlnV3d1b0RibVZGdzJySktyMzFjR1RtZkhya21sODhBdnI3bXJmd1pMMmtWTWJ5X0ZDdjVvblU3NkNEQUNfT2lmVXhKeW8?oc=5"
         }
       ]
     }
