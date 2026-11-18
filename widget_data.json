@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:26",
+  "updated_at": "2026-11-18 13:56",
   "taiwan": [
     {
       "rank": 1,
@@ -175,6 +175,33 @@
     },
     {
       "rank": 7,
+      "title": "蘇姿豐公開力挺黃仁勳！讚「了不起的領導者」：外界雜音會平息",
+      "summary": [
+        "ETtoday：蘇姿豐公開力挺黃仁勳！讚「了不起的領導者」：外界雜音會平息",
+        "經濟日報：超微蘇姿豐挺「表舅」黃仁勳　讚傑出領袖指雜音終將平息",
+        "科技新報：超微蘇姿豐挺「表舅」黃仁勳，讚傑出領袖指雜音終將平息"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "蘇姿豐公開力挺黃仁勳！讚「了不起的領導者」：外界雜音會平息",
+          "url": "https://finance.ettoday.net/news/3273948"
+        },
+        {
+          "source": "經濟日報",
+          "title": "超微蘇姿豐挺「表舅」黃仁勳　讚傑出領袖指雜音終將平息",
+          "url": "https://money.udn.com/money/story/5599/9885633"
+        },
+        {
+          "source": "科技新報",
+          "title": "超微蘇姿豐挺「表舅」黃仁勳，讚傑出領袖指雜音終將平息",
+          "url": "https://technews.tw/2026/11/18/amd-lisa-su-supports-cousin-jensen-huang-praises-outstanding-leader-noise-subside/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "鴻海收購Sony車載相機模組事業-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：鴻海收購Sony車載相機模組事業-新聞內容-基金",
@@ -191,27 +218,6 @@
           "source": "科技新報",
           "title": "鴻海收購 Sony 半導體車載相機模組事業",
           "url": "https://technews.tw/2026/11/18/foxconn-acquires-sony-automotive-camera-module/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "民調：川普支援率維持32%　近2屆任期以來低點",
-      "summary": [
-        "自由時報：民調：川普支援率維持32%　近2屆任期以來低點",
-        "經濟日報：民調：川普支援率維持32%　近2屆任期以來低點"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "民調：川普支援率維持32%　近2屆任期以來低點",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5644341"
-        },
-        {
-          "source": "經濟日報",
-          "title": "民調：川普支援率維持32%　近2屆任期以來低點",
-          "url": "https://money.udn.com/money/story/5599/9885326"
         }
       ]
     },
@@ -238,22 +244,22 @@
     },
     {
       "rank": 10,
-      "title": "蘇姿豐公開力挺黃仁勳！讚「了不起的領導者」：外界雜音會平息",
+      "title": "川普最新表態！深圳APEC可能見普丁　金正恩也想和他碰面",
       "summary": [
-        "ETtoday：蘇姿豐公開力挺黃仁勳！讚「了不起的領導者」：外界雜音會平息",
-        "經濟日報：超微蘇姿豐挺「表舅」黃仁勳　讚傑出領袖指雜音終將平息"
+        "ETtoday：川普最新表態！深圳APEC可能見普丁　金正恩也想和他碰面",
+        "經濟日報：APEC大驚奇／川普想見金正恩 習近平安排中？ 有一人恐淪為輸家"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "ETtoday",
-          "title": "蘇姿豐公開力挺黃仁勳！讚「了不起的領導者」：外界雜音會平息",
-          "url": "https://finance.ettoday.net/news/3273948"
+          "title": "川普最新表態！深圳APEC可能見普丁　金正恩也想和他碰面",
+          "url": "https://www.ettoday.net/news/20261117/3273942.htm"
         },
         {
           "source": "經濟日報",
-          "title": "超微蘇姿豐挺「表舅」黃仁勳　讚傑出領袖指雜音終將平息",
-          "url": "https://money.udn.com/money/story/5599/9885633"
+          "title": "APEC大驚奇／川普想見金正恩 習近平安排中？ 有一人恐淪為輸家",
+          "url": "https://money.udn.com/money/story/5599/9885748"
         }
       ]
     }
@@ -267,7 +273,7 @@
         "TechCrunch：英偉達表示不打算重新任命黃仁勳擔任執行長",
         "Bloomberg Tech：英偉達董事長稱黃仁勳不會重新擔任執行長"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
           "source": "The Verge",
@@ -288,6 +294,11 @@
           "source": "Nikkei Asia",
           "title": "英偉達董事會表示黃仁勳將不再擔任執行長",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGtOS3I2Z0dSRHprQUVneEJrVjFNOU81Um1tY0VlZmxDaFhJZFhWb1c1djA0MVl4cHJST1NWOTZGOHRsMkF1ZTFnRkN0TnZSOWFDYnk2aUk5T19TV0JpUzE0MktyRUVIblJFTVpRYmdZLWJxYUJNeXlDMmozNmdwWEp5TlJSVjVqbHVJZlNiQ1N1Z0xMblJPams4ZmxKOTVzV3NNT1NkMjFwZw?oc=5"
+        },
+        {
+          "source": "Financial Times",
+          "title": "英偉達董事會堅稱黃仁勳不會再次擔任執行長",
+          "url": "https://www.ft.com/content/8946ec08-98b3-49c1-96b1-58539281519a?syn-25a6b1a6=1"
         }
       ]
     },
@@ -467,16 +478,22 @@
     },
     {
       "rank": 10,
-      "title": "阿里巴巴新的Qwen AI模式為Anthropic帶來挑戰",
+      "title": "美軍襲擊伊朗飛彈設施；雙方互相攻擊",
       "summary": [
-        "Yahoo Finance：阿里巴巴新的Qwen AI模式為Anthropic帶來挑戰"
+        "NHK新聞：美軍襲擊伊朗飛彈設施；雙方互相攻擊",
+        "Bloomberg Markets：巴林襲擊後美國攻擊伊朗飛彈基地"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "阿里巴巴新的Qwen AI模式為Anthropic帶來挑戰",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXhnNGhVWkw1M0QxTzVYdVg3Rjg2Wk5EVXp2MU1wd0NQSXJMdU5hRFl0YnJwOTFVa29fZDFXVE5CMjRMdHdRdklvOTlwYnJHakRiZ0JyeHkzTlUtNFYydGVCRWhMMFR2Ni1mbC1Qdi1KZ0p3eUotalR0dUl4QVZoWQ?oc=5"
+          "source": "NHK新聞",
+          "title": "美軍襲擊伊朗飛彈設施；雙方互相攻擊",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261118de77531"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "巴林襲擊後美國攻擊伊朗飛彈基地",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-18/us-strikes-iranian-missile-site-after-bahrain-attacks-video"
         }
       ]
     }
