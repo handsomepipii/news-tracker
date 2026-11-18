@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 18:56",
+  "updated_at": "2026-11-18 19:27",
   "taiwan": [
     {
       "rank": 1,
@@ -89,27 +89,6 @@
     },
     {
       "rank": 4,
-      "title": "鴻海收購Sony車載相機模組事業-新聞內容-基金",
-      "summary": [
-        "MoneyDJ理財網：鴻海收購Sony車載相機模組事業-新聞內容-基金",
-        "科技新報：鴻海收購 Sony 半導體車載相機模組事業"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "鴻海收購Sony車載相機模組事業-新聞內容-基金",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdVo5bHVpUDFKOGR2aHhKYm9nSlVESy1EVThmMUphYkR3U2N1QnVfY2NDd0dGTS1YX3FLTG9odEozRVVkNTM5akp0b09HMHdWelRXdFJEZDJnTkdiXzM4b1dCWldqdFBwYV9sZGFoRUNDLVhZc1RNdERiN2dOU2FsQ0g4aThEUUNIUFI2QUVIdTI?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "鴻海收購 Sony 半導體車載相機模組事業",
-          "url": "https://technews.tw/2026/11/18/foxconn-acquires-sony-automotive-camera-module/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "快訊／新北永和豪宅傳悲劇 男住戶21樓急墜慘死",
       "summary": [
         "TVBS新聞：快訊／新北永和豪宅傳悲劇 男住戶21樓急墜慘死",
@@ -130,28 +109,28 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "報復雷達系統遇襲 美軍出手空襲伊朗葛希姆島軍事設施",
+      "rank": 5,
+      "title": "鴻海收購Sony車載相機模組事業-新聞內容-基金",
       "summary": [
-        "自由時報：報復雷達系統遇襲 美軍出手空襲伊朗葛希姆島軍事設施",
-        "經濟日報：伊朗稱美軍空襲荷莫茲海峽葛希姆島　傳多起爆炸聲"
+        "MoneyDJ理財網：鴻海收購Sony車載相機模組事業-新聞內容-基金",
+        "科技新報：鴻海收購 Sony 半導體車載相機模組事業"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "報復雷達系統遇襲 美軍出手空襲伊朗葛希姆島軍事設施",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5644374"
+          "source": "MoneyDJ理財網",
+          "title": "鴻海收購Sony車載相機模組事業-新聞內容-基金",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYTVVZm1hTDV5WVlxa0hCd3Bxa0xiZ0UySGxGNGs4VElKa3UyT2RZX0pEMUliSV9VamFieVY4dXhFbEI3U01zMlBfRE8td3N2TGZ5TURXa01nZWxVMmRnLXptMkxRSVd0ODVwSDVfR050TDFYZ0dCWmJJa2tHT18xWFRvR0dKOXBoYjZ2Z29SVXM?oc=5"
         },
         {
-          "source": "經濟日報",
-          "title": "伊朗稱美軍空襲荷莫茲海峽葛希姆島　傳多起爆炸聲",
-          "url": "https://money.udn.com/money/story/5599/9885585"
+          "source": "科技新報",
+          "title": "鴻海收購 Sony 半導體車載相機模組事業",
+          "url": "https://technews.tw/2026/11/18/foxconn-acquires-sony-automotive-camera-module/"
         }
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "川普政府傳續推中國光模組禁令  美國光通訊股嗨",
       "summary": [
         "科技新報：川普政府傳續推中國光模組禁令  美國光通訊股嗨",
@@ -172,7 +151,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "李在明深圳會習近平　盼攜手維護朝鮮半島和平穩定",
       "summary": [
         "經濟日報：李在明深圳會習近平　盼攜手維護朝鮮半島和平穩定",
@@ -193,44 +172,65 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "GPT-6.2 Astra、Sol 推出，專業工作能力再升級、API 降價兩成",
+      "rank": 8,
+      "title": "黃仁勳回任輝達遭拒！手握2董事提名權 股東大會成下一焦點",
       "summary": [
-        "自由時報：GPT-6.2 Astra、Sol 推出，專業工作能力再升級、API 降價兩成",
-        "科技新報：GPT-6.2 Astra / Sol 雙模型登場，較少的代幣搞定高難度任務"
+        "經濟日報：黃仁勳回任輝達遭拒！手握2董事提名權 股東大會成下一焦點",
+        "鉅亨網：離任輝達CEO仍能牽動決策！路透：黃仁勳憑3.5%持股握有兩席董事提名權"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳回任輝達遭拒！手握2董事提名權 股東大會成下一焦點",
+          "url": "https://money.udn.com/money/story/5599/9885508"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "離任輝達CEO仍能牽動決策！路透：黃仁勳憑3.5%持股握有兩席董事提名權",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mN2RMODRMcnhWWVE5cnZybmFQVVh5OE5odmJQYUcyQnFOZjdNT2MwY0FCWHdoMV9Tb1VRV2drWkh4NmkzdFF3YkY0VHhOMkU?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "黃仁勳公開喊話想重返輝達CEO！沈榮欽揭3大訊號",
+      "summary": [
+        "自由時報：黃仁勳公開喊話想重返輝達CEO！沈榮欽揭3大訊號",
+        "ETtoday：黃仁勳喊話想回輝達當CEO！沈榮欽揭貼文「藏3大訊息」"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "GPT-6.2 Astra、Sol 推出，專業工作能力再升級、API 降價兩成",
-          "url": "https://news.ltn.com.tw/news/aichannel/breakingnews/5644382"
+          "title": "黃仁勳公開喊話想重返輝達CEO！沈榮欽揭3大訊號",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5644414"
         },
         {
-          "source": "科技新報",
-          "title": "GPT-6.2 Astra / Sol 雙模型登場，較少的代幣搞定高難度任務",
-          "url": "https://technews.tw/2026/11/18/openai-introduces-gpt%e2%80%916-2-astra-and-gpt%e2%80%916-2-sol/"
+          "source": "ETtoday",
+          "title": "黃仁勳喊話想回輝達當CEO！沈榮欽揭貼文「藏3大訊息」",
+          "url": "https://www.ettoday.net/news/20261118/3274041.htm"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "臺股2天血洗3583點！邱沁宜示警股民「別急著攤平」先自我檢查3件事",
+      "title": "黃仁勳誤判政治！謝金河：這些臺灣供應鏈恐成地雷",
       "summary": [
-        "自由時報：臺股2天血洗3583點！邱沁宜示警股民「別急著攤平」先自我檢查3件事",
-        "ETtoday：臺股2天血洗3583點！邱沁宜示警「別盲目攤平」　先檢查3件事"
+        "自由時報：黃仁勳誤判政治！謝金河：這些臺灣供應鏈恐成地雷",
+        "財訊：黃仁勳誤判美中局勢跌下神壇！謝金河示警：臺灣供應鏈恐踩下一個地雷"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "臺股2天血洗3583點！邱沁宜示警股民「別急著攤平」先自我檢查3件事",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5644330"
+          "title": "黃仁勳誤判政治！謝金河：這些臺灣供應鏈恐成地雷",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5644378"
         },
         {
-          "source": "ETtoday",
-          "title": "臺股2天血洗3583點！邱沁宜示警「別盲目攤平」　先檢查3件事",
-          "url": "https://star.ettoday.net/news/3274130"
+          "source": "財訊",
+          "title": "黃仁勳誤判美中局勢跌下神壇！謝金河示警：臺灣供應鏈恐踩下一個地雷",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jNldTZUpuMWUwQU41UnA1bmxLSUJ5SXZZOEp3aXNWQXhwVTQ5bXVGekFSeE44VllKV1JlZWZ3OUNYLXBhMEhhR3hOVlViRUZVWi1sSm5URV91RW02eTBOYXg3dHUzbnRWRWFuREFQSlp3c3BDcFV5R25aNA?oc=5"
         }
       ]
     }
@@ -238,33 +238,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "英偉達董事長稱黃仁勳不會重新擔任執行長",
-      "summary": [
-        "Bloomberg Tech：英偉達董事長稱黃仁勳不會重新擔任執行長",
-        "Nikkei Asia：英偉達董事會表示黃仁勳將不再擔任執行長",
-        "Financial Times：英偉達董事會堅稱黃仁勳不會再次擔任執行長"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "英偉達董事長稱黃仁勳不會重新擔任執行長",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-chair-says-huang-isn-t-coming-back-as-ceo-video"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "英偉達董事會表示黃仁勳將不再擔任執行長",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGtOS3I2Z0dSRHprQUVneEJrVjFNOU81Um1tY0VlZmxDaFhJZFhWb1c1djA0MVl4cHJST1NWOTZGOHRsMkF1ZTFnRkN0TnZSOWFDYnk2aUk5T19TV0JpUzE0MktyRUVIblJFTVpRYmdZLWJxYUJNeXlDMmozNmdwWEp5TlJSVjVqbHVJZlNiQ1N1Z0xMblJPams4ZmxKOTVzV3NNT1NkMjFwZw?oc=5"
-        },
-        {
-          "source": "Financial Times",
-          "title": "英偉達董事會堅稱黃仁勳不會再次擔任執行長",
-          "url": "https://www.ft.com/content/8946ec08-98b3-49c1-96b1-58539281519a?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "川普在與普丁和習近平舉行峰會前抵達中國",
       "summary": [
         "Financial Times：川普在與普丁和習近平舉行峰會前抵達中國",
@@ -291,7 +264,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "黃仁勳下臺後，英偉達放棄中國",
       "summary": [
         "TechCrunch：黃仁勳下臺後，英偉達放棄中國",
@@ -312,7 +285,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "工會表示，大衛瓊斯將裁員 1,500 人以求生存",
       "summary": [
         "Bloomberg Markets：工會表示，大衛瓊斯將裁員 1,500 人以求生存",
@@ -329,6 +302,27 @@
           "source": "Investing.com",
           "title": "工會稱陷入困境的澳洲零售商 David Jones 將裁員 1,500 人",
           "url": "https://www.investing.com/news/stock-market-news/troubled-australian-retailer-david-jones-to-cut-1500-jobs-union-says-5034566"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "英偉達董事會表示黃仁勳將不再擔任執行長",
+      "summary": [
+        "Nikkei Asia：英偉達董事會表示黃仁勳將不再擔任執行長",
+        "Financial Times：英偉達董事會堅稱黃仁勳不會再次擔任執行長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "英偉達董事會表示黃仁勳將不再擔任執行長",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGtOS3I2Z0dSRHprQUVneEJrVjFNOU81Um1tY0VlZmxDaFhJZFhWb1c1djA0MVl4cHJST1NWOTZGOHRsMkF1ZTFnRkN0TnZSOWFDYnk2aUk5T19TV0JpUzE0MktyRUVIblJFTVpRYmdZLWJxYUJNeXlDMmozNmdwWEp5TlJSVjVqbHVJZlNiQ1N1Z0xMblJPams4ZmxKOTVzV3NNT1NkMjFwZw?oc=5"
+        },
+        {
+          "source": "Financial Times",
+          "title": "英偉達董事會堅稱黃仁勳不會再次擔任執行長",
+          "url": "https://www.ft.com/content/8946ec08-98b3-49c1-96b1-58539281519a?syn-25a6b1a6=1"
         }
       ]
     },
@@ -418,6 +412,27 @@
     },
     {
       "rank": 9,
+      "title": "川普和習近平會面，中國的人工智慧夢想面臨意想不到的障礙：英偉達間諜醜聞",
+      "summary": [
+        "BBC World：川普和習近平會面，中國的人工智慧夢想面臨意想不到的障礙：英偉達間諜醜聞",
+        "Investing.com：獨家－川普政府考慮迫使美國公司披露中國人工智慧的使用情況"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "川普和習近平會面，中國的人工智慧夢想面臨意想不到的障礙：英偉達間諜醜聞",
+          "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Investing.com",
+          "title": "獨家－川普政府考慮迫使美國公司披露中國人工智慧的使用情況",
+          "url": "https://www.investing.com/news/stock-market-news/exclusivetrump-administration-weighs-forcing-us-firms-to-disclose-chinese-ai-use-5035455"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "民主黨人調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失",
       "summary": [
         "Financial Times：民主黨人調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失",
@@ -434,21 +449,6 @@
           "source": "Investing.com",
           "title": "根據《金融時報》報道，民主黨人正在調查霍華德·盧特尼克是否幫助坎託避免了英偉達的損失",
           "url": "https://www.investing.com/news/stock-market-news/democrats-probe-whether-howardlutnick-helped-cantor-avoid-nvidia-losses-ft-reports-5035313"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "今天名創優價股價為何大漲？",
-      "summary": [
-        "Investing.com：今天名創優價股價為何大漲？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "今天名創優價股價為何大漲？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-miniso-stock-surging-today-93CH-5034708"
         }
       ]
     }
