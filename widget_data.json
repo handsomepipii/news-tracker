@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-19 20:57",
+  "updated_at": "2026-11-19 21:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "艋舺青山宮參香 徐國勇沈伯洋出席｜LIVE",
+      "title": "曾持棒毆3學弟！徐基麟傳赴廈門教少棒　中國新規須查暴力紀錄",
       "summary": [
-        "TVBS新聞：艋舺青山宮參香 徐國勇沈伯洋出席｜LIVE",
         "ETtoday：曾持棒毆3學弟！徐基麟傳赴廈門教少棒　中國新規須查暴力紀錄",
+        "TVBS新聞：快訊／高雄東光國小火災竄濃煙！師生急撤操場避難",
         "自由時報：涉轉貼AI變造沈伯洋選舉公報 傅崐萁辦公室執行長赴北檢複訊"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "TVBS新聞",
-          "title": "艋舺青山宮參香 徐國勇沈伯洋出席｜LIVE",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EN3VxcUpxTE9WdUVyeWFOQTVPdjA3TjFQRGg2M3JmeVkwdXVnLTQ5amExczdNamRaU2dxUWkyVW9HSUpSbjFFc0diQkVqM01Idl9uTDJ3?oc=5"
-        },
-        {
           "source": "ETtoday",
           "title": "曾持棒毆3學弟！徐基麟傳赴廈門教少棒　中國新規須查暴力紀錄",
           "url": "https://sports.ettoday.net/news/3274708"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "快訊／高雄東光國小火災竄濃煙！師生急撤操場避難",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yN013bkc4amtvX20xbk1TZVRsLUx5UEM3TkdSbkdOd3FBOEg0c2RoR3hMYmZzQzlvNzRVVVBOMjNYNW5zdGFXeDc4WXNQLVk?oc=5"
         },
         {
           "source": "自由時報",
@@ -30,58 +30,16 @@
     },
     {
       "rank": 2,
-      "title": "高雄東光國小地下室火警濃煙竄出 師生緊急疏散虛驚",
+      "title": "Google推出Gemini 4 Neon！主打AI推理、方案開發能力成本高效最高降低60%",
       "summary": [
-        "自由時報：高雄東光國小地下室火警濃煙竄出 師生緊急疏散虛驚",
-        "ETtoday：快訊／高雄市東光國小起火！地下室濃煙狂竄　全校師生急疏散"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "高雄東光國小地下室火警濃煙竄出 師生緊急疏散虛驚",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5645793"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／高雄市東光國小起火！地下室濃煙狂竄　全校師生急疏散",
-          "url": "https://www.ettoday.net/news/20261119/3274670.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "輝達安定軍心，預計提早於 12 月調薪與股權獎勵",
-      "summary": [
-        "科技新報：輝達安定軍心，預計提早於 12 月調薪與股權獎勵",
-        "財經新報：輝達為安定軍心，提早 12 月調薪與股權獎勵"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "輝達安定軍心，預計提早於 12 月調薪與股權獎勵",
-          "url": "https://technews.tw/2026/11/19/nvidia-stabilizes-morale/"
-        },
-        {
-          "source": "財經新報",
-          "title": "輝達為安定軍心，提早 12 月調薪與股權獎勵",
-          "url": "https://finance.technews.tw/2026/11/19/nvidia-stabilizes-morale/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Google推出Gemini 4 Neon！主打AI推理、方案開發能力效率最高降低60%",
-      "summary": [
-        "ETtoday：Google推出Gemini 4 Neon！主打AI推理、方案開發能力效率最高降低60%",
+        "ETtoday：Google推出Gemini 4 Neon！主打AI推理、方案開發能力成本高效最高降低60%",
         "INSIDE硬塞：Google推出Gemini 4 Neon，堪比美旗艦模型Carbon、任務成本降低32%"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "ETtoday",
-          "title": "Google推出Gemini 4 Neon！主打AI推理、方案開發能力效率最高降低60%",
+          "title": "Google推出Gemini 4 Neon！主打AI推理、方案開發能力成本高效最高降低60%",
           "url": "https://ai.ettoday.net/news/3274652"
         },
         {
@@ -92,7 +50,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "新北警交通小隊長住處墜樓亡　因病請假休養竟發生憾事",
       "summary": [
         "ETtoday：新北警交通小隊長住處墜樓亡　因病請假休養竟發生憾事",
@@ -113,7 +71,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "臺股再暴跌逾1400點摜破年線！12檔千金股跌停",
       "summary": [
         "自由時報：臺股再暴跌逾1400點摜破年線！12檔千金股跌停",
@@ -134,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "冷氣團南下全臺有感！賈新興揭低溫時刻：南北最冷時間差1天",
       "summary": [
         "自由時報：冷氣團南下全臺有感！賈新興揭低溫時刻：南北最冷時間差1天",
@@ -155,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "史上最大IPO！ Anthropic募資813億美元超越SpaceX紀錄",
       "summary": [
         "自由時報：史上最大IPO！ Anthropic募資813億美元超越SpaceX紀錄",
@@ -176,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "AI 旺  臺灣主要 IT 廠營收暴增 5 成、首破 3 兆、創史高",
       "summary": [
         "科技新報：AI 旺  臺灣主要 IT 廠營收暴增 5 成、首破 3 兆、創史高",
@@ -197,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "輝達代理 CEO 試圖穩軍心股價仍跌  艾克曼轟董事會",
       "summary": [
         "科技新報：輝達代理 CEO 試圖穩軍心股價仍跌  艾克曼轟董事會",
@@ -216,6 +174,48 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdE1yNk1GWXRCeklzLXp6SHJmUEJHaExfeTRzM180eVQ1cVYxR1dtRTk1NWxuUVdKbXVNUDdvYVhUUndiQjBmN1RZOXhieGtCcTZNTnR4VFZlbVVBSjZvSEZDZWpyeFBONDVlVVprQ1NSdkdtSzRlNTlTcFpNbFZEZnRsZFZkV0R6MFlfMWludjlQQQ?oc=5"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "川普暗示考慮出售輝達Blackwell晶片！中國要等多久 答案曝光",
+      "summary": [
+        "自由時報：川普暗示考慮出售輝達Blackwell晶片！中國要等多久 答案曝光",
+        "科技新報：川普：再等 2 至 3 年，或允許輝達 Blackwell 晶片賣中國"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川普暗示考慮出售輝達Blackwell晶片！中國要等多久 答案曝光",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5646043"
+        },
+        {
+          "source": "科技新報",
+          "title": "川普：再等 2 至 3 年，或允許輝達 Blackwell 晶片賣中國",
+          "url": "https://technews.tw/2026/11/19/trump-2-3-years-or-allow-nvidia-blackwell-chips-china-sales/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳閃辭掀風暴  微軟：客戶更想找輝達替代品",
+      "summary": [
+        "科技新報：黃仁勳閃辭掀風暴  微軟：客戶更想找輝達替代品",
+        "MoneyDJ理財網：黃仁勳閃辭掀風暴微軟：客戶更想找輝達替代品- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "黃仁勳閃辭掀風暴  微軟：客戶更想找輝達替代品",
+          "url": "https://finance.technews.tw/2026/11/19/jensen-huang-sudden-resignation-sparks-controversy-microsoft-customers-seek-nvidia-alternatives/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "黃仁勳閃辭掀風暴微軟：客戶更想找輝達替代品- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZUFMWndwaExQZlBiMTlrbmt6QWg3b2JtbFBZS2d5M3FGVDlzVGdUTE53WnpveVJzMnhJSXBONURYdllfa3NFVGxHd3NySG5oaVdOVlFnalZWQ2lQWllreHBuRnlTVmUyaENRV0FWMzVDLTVGVjBLQWtmZlk0UTgyZ3lrejVJRHV3eWp1bDlJTHFKUQ?oc=5"
+        }
+      ]
     }
   ],
   "global": [
@@ -227,7 +227,7 @@
         "Bloomberg Markets：川普、習近平和普丁在亞太經合組織峰會上舉行會談",
         "Nikkei Asia：川普、習近平和普丁舉行歷史性三邊會晤"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
         {
           "source": "CNBC",
@@ -243,16 +243,38 @@
           "source": "Nikkei Asia",
           "title": "川普、習近平和普丁舉行歷史性三邊會晤",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTJueXQzUnBhdGdGQm5sNlkwaXFkUDI2NU9QOTdwNUlMcnpRM3RFOUg0a251UUxyZmhJUENQenFYSjRvN3o1Rmw3RUN0enVwMWJuMVo2azFWTkZveVl4WmZ4Nm9COGRES0lvdjc3SVNQWVlpZVdMZTlCWHFyTFkxc0tOVTlIbGNscmRfbERUSF9OYTU5T3NqVnFDdXJXeTVoVFFveVZBZ0VDU0tXUjhCdWxBWQ?oc=5"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "川普、習近平和普丁舉行「開創性」中國峰會",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/the-pulse-with-francine-lacqua-11-19-2026-video"
         }
       ]
     },
     {
       "rank": 2,
+      "title": "Anthropic 創紀錄的 IPO 提振了人們對人工智慧產業的信心，全球晶片股上漲",
+      "summary": [
+        "Investing.com：Anthropic 創紀錄的 IPO 提振了人們對人工智慧產業的信心，全球晶片股上漲",
+        "Bloomberg Markets：人為 IPO 激發人工智慧熱情",
+        "Bloomberg Tech：Anthropic Investor表示IPO為人工智慧樹立了新基準"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Anthropic 創紀錄的 IPO 提振了人們對人工智慧產業的信心，全球晶片股上漲",
+          "url": "https://www.investing.com/news/stock-market-news/global-chip-stocks-rally-as-anthropics-record-ipo-boosts-confidence-in-ai-trade-5038371"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "人為 IPO 激發人工智慧熱情",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/the-opening-trade-11-19-2026-video"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic Investor表示IPO為人工智慧樹立了新基準",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-says-ipo-sets-new-benchmark-for-ai-video"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
       "summary": [
         "WSJ Markets：華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
@@ -273,7 +295,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "習近平承諾為APEC合作提供2000萬美元",
       "summary": [
         "Bloomberg Markets：習近平承諾為APEC合作提供2000萬美元",
@@ -290,27 +312,6 @@
           "source": "法廣RFI",
           "title": "習近平APEC宣佈：提供2000萬推動亞太共同體合作",
           "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261119-%E7%BF%92%E8%BF%91%E5%B9%B3apec%E5%AE%A3%E5%B8%83-%E6%8F%90%E4%BE%9B2000%E8%90%AC%E6%8E%A8%E5%8B%95%E4%BA%9E%E5%A4%AA%E5%85%B1%E5%90%8C%E9%AB%94%E5%90%88%E4%BD%9C"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Anthropic 華麗的 IPO",
-      "summary": [
-        "Financial Times：Anthropic 華麗的 IPO",
-        "WSJ Markets：關於 Anthropic 破紀錄的 IPO 需要了解什麼"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "Anthropic 華麗的 IPO",
-          "url": "https://www.ft.com/content/74801528-833d-412f-b939-24f68c2c3fc1?syn-25a6b1a6=1"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "關於 Anthropic 破紀錄的 IPO 需要了解什麼",
-          "url": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec?mod=rss_markets_main"
         }
       ]
     },
