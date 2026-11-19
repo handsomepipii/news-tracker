@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-20 01:27",
+  "updated_at": "2026-11-20 01:57",
   "taiwan": [
     {
       "rank": 1,
-      "title": "涉轉貼AI變造沈伯洋選舉公報 傅崐萁辦公室執行長赴北檢複訊",
+      "title": "新宿京王百貨「臺灣夜市」熱鬧登場　雞排、蝦仁煎飄香",
       "summary": [
-        "自由時報：涉轉貼AI變造沈伯洋選舉公報 傅崐萁辦公室執行長赴北檢複訊",
         "經濟日報：新宿京王百貨「臺灣夜市」熱鬧登場　雞排、蝦仁煎飄香",
+        "自由時報：（直擊）才爆日本男星玩很髒！話題AV女優竟現身臺灣 博多彩葉真面目曝光",
         "TVBS新聞：海納百川到中和 李四川蔣萬安車掃｜LIVE"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "自由時報",
-          "title": "涉轉貼AI變造沈伯洋選舉公報 傅崐萁辦公室執行長赴北檢複訊",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5646215"
-        },
-        {
           "source": "經濟日報",
           "title": "新宿京王百貨「臺灣夜市」熱鬧登場　雞排、蝦仁煎飄香",
           "url": "https://money.udn.com/money/story/5599/9889068"
+        },
+        {
+          "source": "自由時報",
+          "title": "（直擊）才爆日本男星玩很髒！話題AV女優竟現身臺灣 博多彩葉真面目曝光",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5646629"
         },
         {
           "source": "TVBS新聞",
@@ -93,27 +93,6 @@
     },
     {
       "rank": 5,
-      "title": "藍營選前內鬥！李明璇稱曾苦勸  秦慧珠駁「不是事實」撂話：講完了......",
-      "summary": [
-        "自由時報：藍營選前內鬥！李明璇稱曾苦勸  秦慧珠駁「不是事實」撂話：講完了......",
-        "TVBS新聞：藍營松信網內互打！秦慧珠嗆李明璇造謠 前資深藍議員讚：說真話"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "藍營選前內鬥！李明璇稱曾苦勸  秦慧珠駁「不是事實」撂話：講完了......",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5646214"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "藍營松信網內互打！秦慧珠嗆李明璇造謠 前資深藍議員讚：說真話",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92WWZkNENKaWhtXzFBam51LUFJMXNyT2F5a0pZd2I4WkZrdTlzVmZaLUlHM3hHcm1FbFE5S0VaMGtWZHJYbkNLUm10eFJ4b3JMVjg4?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "瑞銀看好美股續漲 12%  2027 年底上看 8,200 點",
       "summary": [
         "科技新報：瑞銀看好美股續漲 12%  2027 年底上看 8,200 點",
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "停路肩綁貨惹禍？西濱2大貨車猛烈撞擊 1駕駛遭撞飛不治",
       "summary": [
         "自由時報：停路肩綁貨惹禍？西濱2大貨車猛烈撞擊 1駕駛遭撞飛不治",
@@ -155,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美擬擴大醫保稽核、追討不當給付  醫療保險股摔",
       "summary": [
         "科技新報：美擬擴大醫保稽核、追討不當給付  醫療保險股摔",
@@ -176,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "奪命連環call+門口堵人  臺大女舍監騷擾女博士生判7月定讞須入獄",
       "summary": [
         "自由時報：奪命連環call+門口堵人  臺大女舍監騷擾女博士生判7月定讞須入獄",
@@ -197,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Disney+登臺5年首公開臺灣觀影資料！韓語、華語內容佔近6成 《MOVING異能》穩坐冠軍",
       "summary": [
         "自由時報：Disney+登臺5年首公開臺灣觀影資料！韓語、華語內容佔近6成 《MOVING異能》穩坐冠軍",
@@ -214,6 +193,27 @@
           "source": "科技新報",
           "title": "Disney+ 來臺五週年揭臺灣觀影趨勢，韓語與華語內容佔六成觀看時數",
           "url": "https://technews.tw/2026/11/19/disney-plus-is-celebrating-its-fifth-anniversary-in-taiwan/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普：反對會扼殺 AI 行業的監管措施，管理須謹慎",
+      "summary": [
+        "科技新報：川普：反對會扼殺 AI 行業的監管措施，管理須謹慎",
+        "MoneyDJ理財網：川普：反對會扼殺AI行業的監管措施，管理須謹慎- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "川普：反對會扼殺 AI 行業的監管措施，管理須謹慎",
+          "url": "https://technews.tw/2026/11/19/trump-opposes-regulations-stifling-ai-industry-urges-cautious-management/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "川普：反對會扼殺AI行業的監管措施，管理須謹慎- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOUlmMEwzM0owT2tQMXVIMzVNTUhVWUNwc0tEWHk1cGNOWFR0eVBjQm1FTWtQaENTeXk5MUx0dUJCXy14QmprS1VyTmFKVERUTDJ6UXZLWDRUNmpfOFBSTTJRZTVtSG80dEhQa2pRdzR6WUFWNFNubnZ5Y1R1cnpGWGFCbzBVbERnNE9rOC16WGFwdw?oc=5"
         }
       ]
     }
@@ -283,9 +283,10 @@
       "title": "人為 IPO 讓股市多頭夢想年底反彈",
       "summary": [
         "Bloomberg Markets：人為 IPO 讓股市多頭夢想年底反彈",
-        "MarketWatch：Anthropic 的 IPO 能否為股市帶來英偉達獲利無法做到的效果？"
+        "MarketWatch：Anthropic 的 IPO 能否為股市帶來英偉達獲利無法做到的效果？",
+        "Bloomberg Tech：人類投資者看到了 IPO 以外的機會"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "Bloomberg Markets",
@@ -296,32 +297,16 @@
           "source": "MarketWatch",
           "title": "Anthropic 的 IPO 能否為股市帶來英偉達獲利無法做到的效果？",
           "url": "https://www.marketwatch.com/story/can-anthropics-ipo-do-for-the-stock-market-what-nvidias-earnings-couldnt-be67a434?mod=mw_rss_topstories"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "人類投資者看到了 IPO 以外的機會",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-sees-opportunity-beyond-ipo-video"
         }
       ]
     },
     {
       "rank": 4,
-      "title": "德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
-      "summary": [
-        "Financial Times：德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
-        "Investing.com：德意志銀行義大利分行隱瞞高達8億歐元的損失－報告"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
-          "url": "https://www.ft.com/content/06be5c7d-b1f2-44e9-9cad-a2dcb5a2f452?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Investing.com",
-          "title": "德意志銀行義大利分行隱瞞高達8億歐元的損失－報告",
-          "url": "https://www.investing.com/news/stock-market-news/deutsche-banks-italian-unit-hid-up-to-800-mln-in-losses--report-93CH-5037779"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
       "summary": [
         "Investing.com：違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
@@ -342,7 +327,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "聯合信貸銀行與德國就商業銀行收購條款達成協議",
       "summary": [
         "Investing.com：聯合信貸銀行與德國就商業銀行收購條款達成協議",
@@ -363,7 +348,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "世界迎來了人工智慧的繁榮。現在很多人都後悔了。",
       "summary": [
         "Washington Post：世界迎來了人工智慧的繁榮。現在很多人都後悔了。",
@@ -384,7 +369,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Anthropic 將 IPO 定價為每股 83 美元，籌集 813 億美元，創下有史以來最大的上市規模",
       "summary": [
         "Yahoo Finance：Anthropic 將 IPO 定價為每股 83 美元，籌集 813 億美元，創下有史以來最大的上市規模",
@@ -405,7 +390,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Anthropic IPO 重振人工智慧交易，歐洲股市反彈",
       "summary": [
         "Bloomberg Tech：Anthropic IPO 重振人工智慧交易，歐洲股市反彈",
@@ -426,7 +411,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "烏克蘭本週內第三次襲擊克里米亞大橋 導致鐵路交通中斷",
       "summary": [
         "法廣RFI：烏克蘭本週內第三次襲擊克里米亞大橋 導致鐵路交通中斷",
@@ -443,6 +428,27 @@
           "source": "德國之聲",
           "title": "烏克蘭一週內三次襲擊克里米亞大橋 鐵路運輸中斷",
           "url": "https://www.dw.com/zh/乌克兰一周内三次袭击克里米亚大桥-铁路运输中断/a-79988821?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "韓國將人工智慧熱潮推向新高度，出口額突破1兆美元",
+      "summary": [
+        "Nikkei Asia：韓國將人工智慧熱潮推向新高度，出口額突破1兆美元",
+        "法廣RFI：AI晶片熱潮推動韓國出口突破萬億美元，晉陞全球第四"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "韓國將人工智慧熱潮推向新高度，出口額突破1兆美元",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0Z1c1NPbHZaLVJKeUFuNlhzX01RSU1rSnlYckpRVkxwTzN1eEFVeG1iU3lKUzVqR2RTbDBtWjhiNVNBVmdHWklvUlJUbXJXbkpmbF9jczRDa0c0aUp3ckY2YUJTTHl2eWE0STlPSU9fUkVpZzM5eG1YN3B1RXBNclB3YXk5WWh1eUdqSUEzWUM1UzI2Z0RrTFJfazdUQQ?oc=5"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "AI晶片熱潮推動韓國出口突破萬億美元，晉陞全球第四",
+          "url": "https://www.rfi.fr/tw/%E7%A7%91%E6%8A%80%E8%88%87%E6%96%87%E5%8C%96/20261119-ai%E8%8A%AF%E7%89%87%E7%86%B1%E6%BD%AE%E6%8E%A8%E5%8B%95%E9%9F%93%E5%9C%8B%E5%87%BA%E5%8F%A3%E7%AA%81%E7%A0%B4%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%8C%E6%99%89%E9%99%9E%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B"
         }
       ]
     }
