@@ -1,62 +1,35 @@
 {
-  "updated_at": "2026-11-19 10:27",
+  "updated_at": "2026-11-19 10:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "APEC晚宴登場！習近平主動與施振榮握手 大合照安排「第2排最左側」",
+      "title": "APEC晚宴登場 施振榮進場與習近平握手｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
-        "自由時報：APEC晚宴登場！習近平主動與施振榮握手 大合照安排「第2排最左側」",
         "TVBS新聞：APEC晚宴登場 施振榮進場與習近平握手｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-        "風傳媒：APEC現場》習近平、施振榮握手了！領袖晚宴臺灣坐最後排美國高層與我官員攀談| 鍾秉哲 | 新聞"
+        "ETtoday：APEC晚宴登場　習近平預告明峰會「更多成果落地」",
+        "工商時報：APEC歡迎晚宴與高市互動曝光習近平：明日領導人會議將討論擴大相互開放措施- 兩岸"
       ],
       "media_count": 3,
       "links": [
-        {
-          "source": "自由時報",
-          "title": "APEC晚宴登場！習近平主動與施振榮握手 大合照安排「第2排最左側」",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5645630"
-        },
         {
           "source": "TVBS新聞",
           "title": "APEC晚宴登場 施振榮進場與習近平握手｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZUkFaMXEyNkNmbjFwaTZ0VVdXS0g3RkZGMGxaejVFOS15UjRfcVB3aVpzMGhtVzNsSEhYbzBCYmJoVVhuTTBFQ2xqclJxbmQ3WnltSW93?oc=5"
         },
         {
-          "source": "風傳媒",
-          "title": "APEC現場》習近平、施振榮握手了！領袖晚宴臺灣坐最後排美國高層與我官員攀談| 鍾秉哲 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNkpndDkzNGpGRGk0ei1KSmpuc0tDZzVXMmZSVEM3NFhyS3dmdXM0dlJjNThYZUFFOFZkcGFhcXg0WU0wQXZFbDdXOS1qUQ?oc=5"
+          "source": "ETtoday",
+          "title": "APEC晚宴登場　習近平預告明峰會「更多成果落地」",
+          "url": "https://www.ettoday.net/news/20261118/3274580.htm"
+        },
+        {
+          "source": "工商時報",
+          "title": "APEC歡迎晚宴與高市互動曝光習近平：明日領導人會議將討論擴大相互開放措施- 兩岸",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WdDM2ZXZBY2RCT3VRaEIwWXp1RjNJTTlyZHFVLVBzMHp6NkpGcXZjZV91WFVZR3pfUXlTSXRWUE0xM3pyUHNyWFdPV18xUmJGeXZXMUtUNlBiSkZ3YmtF?oc=5"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
-      "summary": [
-        "經濟日報：美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
-        "自由時報：美政府報告：中國尋求取得輝達先進晶片 用於AI武器",
-        "科技新報：美政府報告：中國尋求取得輝達先進晶片，用於 AI 武器"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
-          "url": "https://money.udn.com/money/story/5599/9887559"
-        },
-        {
-          "source": "自由時報",
-          "title": "美政府報告：中國尋求取得輝達先進晶片 用於AI武器",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645643"
-        },
-        {
-          "source": "科技新報",
-          "title": "美政府報告：中國尋求取得輝達先進晶片，用於 AI 武器",
-          "url": "https://technews.tw/2026/11/19/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "克宮：普丁與川普將於APEC場邊會晤　未安排全面談判",
       "summary": [
         "自由時報：克宮：普丁與川普將於APEC場邊會晤　未安排全面談判",
@@ -83,6 +56,33 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "超 SpaceX 初始 IPO 募資額！Anthropic 定價83美元高於區間 估值1.5兆美元",
+      "summary": [
+        "經濟日報：超 SpaceX 初始 IPO 募資額！Anthropic 定價83美元高於區間 估值1.5兆美元",
+        "自由時報：史上最大IPO！ Anthropic募資813億美元超越SpaceX紀錄",
+        "數位時代：史上最大IPO頭銜易主！Anthropic募資813億美元超越SpaceX，市值達1.5兆美元"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "超 SpaceX 初始 IPO 募資額！Anthropic 定價83美元高於區間 估值1.5兆美元",
+          "url": "https://money.udn.com/money/story/123398/9887972"
+        },
+        {
+          "source": "自由時報",
+          "title": "史上最大IPO！ Anthropic募資813億美元超越SpaceX紀錄",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5645745"
+        },
+        {
+          "source": "數位時代",
+          "title": "史上最大IPO頭銜易主！Anthropic募資813億美元超越SpaceX，市值達1.5兆美元",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGNwTGdFbG92bmxXVF9HQmxtOGstekdxZzhMYU84aUNVcTVsT3Z6eF91Snp2U0htVTQ2SUEwUzU1bjdWeEp2d2xvY3hWNVlFYlI0VUlPSURWQWxIQWFrb2RwcWt4MVB5YzBUaWFIZ2NGMENjT2ZvdWJIT240VmMtTEoxMA?oc=5"
+        }
+      ]
+    },
+    {
       "rank": 4,
       "title": "民主黨提名傑福瑞斯 可望成美國史上首位非裔眾院議長",
       "summary": [
@@ -105,48 +105,27 @@
     },
     {
       "rank": 5,
-      "title": "曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
+      "title": "美政府報告：中國尋求取得輝達先進晶片 用於AI武器",
       "summary": [
-        "經濟日報：曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
-        "自由時報：曼谷審計大樓震塌！中國包商找人頭違法經營 主管判刑3年"
+        "自由時報：美政府報告：中國尋求取得輝達先進晶片 用於AI武器",
+        "科技新報：美政府報告：中國尋求取得輝達先進晶片，用於 AI 武器"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
-          "url": "https://money.udn.com/money/story/5599/9887525"
+          "source": "自由時報",
+          "title": "美政府報告：中國尋求取得輝達先進晶片 用於AI武器",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645643"
         },
         {
-          "source": "自由時報",
-          "title": "曼谷審計大樓震塌！中國包商找人頭違法經營 主管判刑3年",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645629"
+          "source": "科技新報",
+          "title": "美政府報告：中國尋求取得輝達先進晶片，用於 AI 武器",
+          "url": "https://technews.tw/2026/11/19/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs/"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "歐盟提議供烏克蘭1.6兆元貸款　由俄未來戰爭賠款償還",
-      "summary": [
-        "經濟日報：歐盟提議供烏克蘭1.6兆元貸款　由俄未來戰爭賠款償還",
-        "ETtoday：加碼1.6兆援烏！歐盟提議2027再貸450億歐元「俄賠償才還款」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "歐盟提議供烏克蘭1.6兆元貸款　由俄未來戰爭賠款償還",
-          "url": "https://money.udn.com/money/story/5599/9887508"
-        },
-        {
-          "source": "ETtoday",
-          "title": "加碼1.6兆援烏！歐盟提議2027再貸450億歐元「俄賠償才還款」",
-          "url": "https://www.ettoday.net/news/20261118/3274576.htm"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "烈火盃小鐵人賽登場　桃園兒少跑跳展毅力",
       "summary": [
         "ETtoday：烈火盃小鐵人賽登場　桃園兒少跑跳展毅力",
@@ -167,28 +146,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "APEC晚宴登場　習近平預告明峰會「更多成果落地」",
-      "summary": [
-        "ETtoday：APEC晚宴登場　習近平預告明峰會「更多成果落地」",
-        "工商時報：APEC歡迎晚宴與高市互動曝光習近平：明日領導人會議將討論擴大相互開放措施- 兩岸"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "APEC晚宴登場　習近平預告明峰會「更多成果落地」",
-          "url": "https://www.ettoday.net/news/20261118/3274580.htm"
-        },
-        {
-          "source": "工商時報",
-          "title": "APEC歡迎晚宴與高市互動曝光習近平：明日領導人會議將討論擴大相互開放措施- 兩岸",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WdDM2ZXZBY2RCT3VRaEIwWXp1RjNJTTlyZHFVLVBzMHp6NkpGcXZjZV91WFVZR3pfUXlTSXRWUE0xM3pyUHNyWFdPV18xUmJGeXZXMUtUNlBiSkZ3YmtF?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "title": "AI產業不確定性籠罩　歐股收跌",
       "summary": [
         "自由時報：AI產業不確定性籠罩　歐股收跌",
@@ -209,7 +167,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
       "summary": [
         "自由時報：APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
@@ -226,6 +184,48 @@
           "source": "經濟日報",
           "title": "深圳APEC／參加第一天 施振榮已與13位領袖互動",
           "url": "https://money.udn.com/money/story/5599/9887816"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "紐時：川普不滿範斯未力挺對伊朗開戰　私下盛讚盧比歐",
+      "summary": [
+        "自由時報：紐時：川普不滿範斯未力挺對伊朗開戰　私下盛讚盧比歐",
+        "經濟日報：紐時：川普不滿範斯未力挺對伊朗開戰　私下盛讚盧比歐"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "紐時：川普不滿範斯未力挺對伊朗開戰　私下盛讚盧比歐",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645691"
+        },
+        {
+          "source": "經濟日報",
+          "title": "紐時：川普不滿範斯未力挺對伊朗開戰　私下盛讚盧比歐",
+          "url": "https://money.udn.com/money/story/5599/9887806"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國會報告：中國結合多重手段　加大對臺施壓",
+      "summary": [
+        "自由時報：美國會報告：中國結合多重手段　加大對臺施壓",
+        "經濟日報：美國會報告：中國結合多重手段　加大對臺施壓"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美國會報告：中國結合多重手段　加大對臺施壓",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645698"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美國會報告：中國結合多重手段　加大對臺施壓",
+          "url": "https://money.udn.com/money/story/5599/9887823"
         }
       ]
     }
