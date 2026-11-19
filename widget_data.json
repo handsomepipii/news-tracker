@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 07:28",
+  "updated_at": "2026-11-20 07:58",
   "taiwan": [
     {
       "rank": 1,
@@ -111,27 +111,6 @@
     },
     {
       "rank": 5,
-      "title": "美中俄領袖峰會　發布和平宣言",
-      "summary": [
-        "經濟日報：美中俄領袖峰會　發布和平宣言",
-        "自由時報：美中俄元首峰會「締造歷史」 3國發表和平宣言"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美中俄領袖峰會　發布和平宣言",
-          "url": "https://money.udn.com/money/story/5599/9889723"
-        },
-        {
-          "source": "自由時報",
-          "title": "美中俄元首峰會「締造歷史」 3國發表和平宣言",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5646985"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "直擊／防彈Jin送飛吻！告白「你好性感」　RM霸氣喊：高雄我愛你",
       "summary": [
         "ETtoday：直擊／防彈Jin送飛吻！告白「你好性感」　RM霸氣喊：高雄我愛你",
@@ -152,7 +131,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "快訊》臺南千萬超跑陷火海！ BMW i8慘遭烈焰吞噬- 社會",
       "summary": [
         "中時新聞：快訊》臺南千萬超跑陷火海！ BMW i8慘遭烈焰吞噬- 社會",
@@ -169,6 +148,27 @@
           "source": "ETtoday",
           "title": "臺南街頭千萬超跑「燒成火球」！BMW i8突陷火海　附近居民聞臭味",
           "url": "https://www.ettoday.net/news/20261120/3275226.htm"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "美中會落幕！習：臺灣問題「華府須做正確的事」 川：不支援臺獨- 國際",
+      "summary": [
+        "中時新聞：美中會落幕！習：臺灣問題「華府須做正確的事」 川：不支援臺獨- 國際",
+        "TVBS新聞：傳播臺灣的聲音！施振榮APEC大談AI發展｜TVBS新聞@TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "美中會落幕！習：臺灣問題「華府須做正確的事」 川：不支援臺獨- 國際",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yVDhJVVZVX0l5dWttODhrWWd0UFphN1F3T29EamFENW9pNXJudVliMjBQdXl2YWVadzJtMG14d29SMU1GU1pPS0pOYUY0MGF2WkVuSjdWczRxbURHdVRPakhFWUFnbHpTRFlMUS1n?oc=5"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "傳播臺灣的聲音！施振榮APEC大談AI發展｜TVBS新聞@TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11SDZ2OGxTWVpvei1yb2ZaaHFQcGdVOTQzLW5mY1p5RFZ1NjlJWE82OFNFNDVIZ24tRzRDXzdYWnc4RWtydTNXbHowNC01aC1yQUZocDdR?oc=5"
         }
       ]
     },
@@ -383,48 +383,6 @@
     },
     {
       "rank": 7,
-      "title": "Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
-      "summary": [
-        "Financial Times：Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
-        "Yahoo Finance：Anthropic 將在華爾街首次亮相，估值達 1.5 兆美元，成為有史以來最大的 IPO"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
-          "url": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Anthropic 將在華爾街首次亮相，估值達 1.5 兆美元，成為有史以來最大的 IPO",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNklqMVdMV1diTGxyS2QtOVlIZWtVZk9TcXEtVFk5Y0hvMW9NR3hXMzlIWDc0d1hBWjQzVUV4Vnk5Z1VWNlpVdjcxcFZUam42OFF2Wl96a0VYbG9iSnRpeExKYU4ySWNKekVfMW52aDMzcUdJZVRIM3JTV2ZPRERieExJMDg3cmo0dzRHX0J0SHVmb1lQZ2ZV?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "川普、習近平和普丁舉行「開創性」中國峰會",
-      "summary": [
-        "Bloomberg Tech：川普、習近平和普丁舉行「開創性」中國峰會",
-        "Financial Times：習近平、川普和普丁歡呼「開創性」會晤"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "川普、習近平和普丁舉行「開創性」中國峰會",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/the-pulse-with-francine-lacqua-11-19-2026-video"
-        },
-        {
-          "source": "Financial Times",
-          "title": "習近平、川普和普丁歡呼「開創性」會晤",
-          "url": "https://www.ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Anthropic 的 IPO 能否為股市帶來英偉達獲利無法做到的效果？",
       "summary": [
         "MarketWatch：Anthropic 的 IPO 能否為股市帶來英偉達獲利無法做到的效果？",
@@ -445,7 +403,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Anthropic 破紀錄的 IPO 凸顯了這家人工智慧巨頭最大的敵人——它自己",
       "summary": [
         "Wired：Anthropic 破紀錄的 IPO 凸顯了這家人工智慧巨頭最大的敵人——它自己",
@@ -462,6 +420,48 @@
           "source": "The Verge",
           "title": "有史以來最大的 IPO，Anthropic 的「好人」聲譽岌岌可危",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "超過10萬英國散戶爭取購買Anthropic IPO股票",
+      "summary": [
+        "Financial Times：超過10萬英國散戶爭取購買Anthropic IPO股票",
+        "Investing.com：根據英國《金融時報》報道，超過 10 萬英國散戶投資者湧入 Anthropic IPO"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "超過10萬英國散戶爭取購買Anthropic IPO股票",
+          "url": "https://www.ft.com/content/30d21725-f889-4e3d-a3a8-63ed6b55e4d8?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "根據英國《金融時報》報道，超過 10 萬英國散戶投資者湧入 Anthropic IPO",
+          "url": "https://www.investing.com/news/stock-market-news/over-100000-uk-retail-investors-pile-into-anthropic-ipo-ft-reports-5038949"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "馬杜羅下臺不到一年，委內瑞拉與美國簽署軍事協議",
+      "summary": [
+        "BBC World：馬杜羅下臺不到一年，委內瑞拉與美國簽署軍事協議",
+        "Washington Post：赫格斯意外現身委內瑞拉，續簽軍事夥伴關係"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "馬杜羅下臺不到一年，委內瑞拉與美國簽署軍事協議",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Washington Post",
+          "title": "赫格斯意外現身委內瑞拉，續簽軍事夥伴關係",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaDk1dWVDTWtxcHkxQjE0dS1GVzZ1WXhpbmhyZkNDc0F2TlYteGpmLWxabEE2QXAwZnUwYmRKVzQ4aUlIUGFxZl9BUHM1NDJXUEhiUEUzaEJVaks1U1JYVkl4U2hsQWVLOVN0MUZQcFZqQ3VPSDBmLVhVSUZKZXl2bWpIZWRJQzJOS01femYwRlBCLXNPc2owa0t4SmFpWWZqSk5kRGJ1ZXIxcXByRFpMYmdWRHVpUlBhZGN2RA?oc=5"
         }
       ]
     }
