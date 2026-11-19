@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 08:27",
+  "updated_at": "2026-11-19 08:57",
   "taiwan": [
     {
       "rank": 1,
@@ -78,48 +78,6 @@
     },
     {
       "rank": 4,
-      "title": "蔡康永「撕下蔣」諧音聯想未歇！最新再談「髒東西」：讓它失去力量",
-      "summary": [
-        "自由時報：蔡康永「撕下蔣」諧音聯想未歇！最新再談「髒東西」：讓它失去力量",
-        "ETtoday：連3篇文掀聯想！蔡康永談謠言：讓「髒東西」失去力量、被輕蔑嫌棄"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "蔡康永「撕下蔣」諧音聯想未歇！最新再談「髒東西」：讓它失去力量",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5645542"
-        },
-        {
-          "source": "ETtoday",
-          "title": "連3篇文掀聯想！蔡康永談謠言：讓「髒東西」失去力量、被輕蔑嫌棄",
-          "url": "https://www.ettoday.net/news/20261119/3274589.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "行政院明修法　大型柴油車汰換減徵貨物稅最高40萬延至2030年底",
-      "summary": [
-        "ETtoday：行政院明修法　大型柴油車汰換減徵貨物稅最高40萬延至2030年底",
-        "自由時報：大型柴油車汰換最高40萬優惠  政院今拍板延長至2030年"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "行政院明修法　大型柴油車汰換減徵貨物稅最高40萬延至2030年底",
-          "url": "https://www.ettoday.net/news/20261118/3274521.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "大型柴油車汰換最高40萬優惠  政院今拍板延長至2030年",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5645719"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "BTS現身六合夜市掀「貪吃蛇人龍」 V金泰亨買香腸萌秀中文：好吃嗎？",
       "summary": [
         "自由時報：BTS現身六合夜市掀「貪吃蛇人龍」 V金泰亨買香腸萌秀中文：好吃嗎？",
@@ -140,7 +98,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
       "summary": [
         "經濟日報：美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
@@ -161,7 +119,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
       "summary": [
         "經濟日報：曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
@@ -182,7 +140,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "歐盟提議供烏克蘭1.6兆元貸款　由俄未來戰爭賠款償還",
       "summary": [
         "經濟日報：歐盟提議供烏克蘭1.6兆元貸款　由俄未來戰爭賠款償還",
@@ -203,7 +161,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "APEC晚宴登場　習近平預告明峰會「更多成果落地」",
       "summary": [
         "ETtoday：APEC晚宴登場　習近平預告明峰會「更多成果落地」",
@@ -220,6 +178,48 @@
           "source": "工商時報",
           "title": "APEC歡迎晚宴與高市互動曝光習近平：明日領導人會議將討論擴大相互開放措施- 兩岸",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WdDM2ZXZBY2RCT3VRaEIwWXp1RjNJTTlyZHFVLVBzMHp6NkpGcXZjZV91WFVZR3pfUXlTSXRWUE0xM3pyUHNyWFdPV18xUmJGeXZXMUtUNlBiSkZ3YmtF?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "AI產業不確定性籠罩　歐股收跌",
+      "summary": [
+        "自由時報：AI產業不確定性籠罩　歐股收跌",
+        "經濟日報：AI產業不確定性籠罩　歐股收跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "AI產業不確定性籠罩　歐股收跌",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5645687"
+        },
+        {
+          "source": "經濟日報",
+          "title": "AI產業不確定性籠罩　歐股收跌",
+          "url": "https://money.udn.com/money/story/5599/9887797"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
+      "summary": [
+        "自由時報：APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
+        "經濟日報：深圳APEC／參加第一天 施振榮已與13位領袖互動"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5645692"
+        },
+        {
+          "source": "經濟日報",
+          "title": "深圳APEC／參加第一天 施振榮已與13位領袖互動",
+          "url": "https://money.udn.com/money/story/5599/9887816"
         }
       ]
     }
@@ -291,27 +291,6 @@
     },
     {
       "rank": 3,
-      "title": "烏克蘭的「飛行調變解調器」幫助推倒了普丁的橋樑",
-      "summary": [
-        "Financial Times：烏克蘭的「飛行調變解調器」幫助推倒了普丁的橋樑",
-        "Ars Technica：烏克蘭使用中繼無人機繞過星鏈限制炸毀了普丁的橋樑"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "烏克蘭的「飛行調變解調器」幫助推倒了普丁的橋樑",
-          "url": "https://www.ft.com/content/65c5684a-f532-4601-9878-8fa2efe8d8f8?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "烏克蘭使用中繼無人機繞過星鏈限制炸毀了普丁的橋樑",
-          "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
       "summary": [
         "Financial Times：美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
@@ -332,7 +311,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "據報道，NVIDIA GPU 驅動程式每小時向 SSD 寫入高達 30GB 的資料，與 AMD 最近的驅動程式錯誤相呼應",
       "summary": [
         "Wccftech：據報道，NVIDIA GPU 驅動程式每小時向 SSD 寫入高達 30GB 的資料，與 AMD 最近的驅動程式錯誤相呼應",
@@ -353,7 +332,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "特朗普政府考慮強制美企披露中國AI使用情況",
       "summary": [
         "德國之聲：特朗普政府考慮強制美企披露中國AI使用情況",
@@ -374,7 +353,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "威爾·賴特 (Will Wright) 的下一款遊戲將使用人工智慧來繪製你的記憶",
       "summary": [
         "The Verge：威爾·賴特 (Will Wright) 的下一款遊戲將使用人工智慧來繪製你的記憶",
@@ -395,7 +374,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "為什麼 Anthropic 的 IPO 可能成為投資者的陷阱",
       "summary": [
         "Yahoo Finance：為什麼 Anthropic 的 IPO 可能成為投資者的陷阱",
@@ -416,7 +395,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "哈基姆·傑弗里斯被提名為美國眾議院議長",
       "summary": [
         "BBC World：哈基姆·傑弗里斯被提名為美國眾議院議長",
@@ -437,7 +416,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "黃仁勳表示，儘管董事會反對，他仍「很榮幸」重新擔任 Nvidia 執行長",
       "summary": [
         "Yahoo Finance：黃仁勳表示，儘管董事會反對，他仍「很榮幸」重新擔任 Nvidia 執行長",
@@ -454,6 +433,27 @@
           "source": "Investing.com",
           "title": "黃仁勳可能會透過友好方式或透過董事會權力遊戲重新擔任 NVIDIA 執行長",
           "url": "https://www.investing.com/news/stock-market-news/huang-could-return-as-nvidia-ceo--by-friendly-means-or-via-a-boardroom-power-play-5036546"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "歐盟向烏克蘭追加超7兆日圓貸款 使其在和談中佔據優勢",
+      "summary": [
+        "NHK新聞：歐盟向烏克蘭追加超7兆日圓貸款 使其在和談中佔據優勢",
+        "法廣RFI：為填補烏克蘭預算缺口，歐盟提議由各成員國向烏克蘭提供一筆額外的450億歐元貸款"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "歐盟向烏克蘭追加超7兆日圓貸款 使其在和談中佔據優勢",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261119de78087"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "為填補烏克蘭預算缺口，歐盟提議由各成員國向烏克蘭提供一筆額外的450億歐元貸款",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261118-%E7%82%BA%E5%A1%AB%E8%A3%9C%E7%83%8F%E5%85%8B%E8%98%AD%E9%A0%90%E7%AE%97%E7%BC%BA%E5%8F%A3%EF%BC%8C%E6%AD%90%E7%9B%9F%E6%8F%90%E8%AD%B0%E7%94%B1%E5%90%84%E6%88%90%E5%93%A1%E5%9C%8B%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E6%8F%90%E4%BE%9B%E4%B8%80%E7%AD%86%E9%A1%8D%E5%A4%96%E7%9A%84450%E5%84%84%E6%AD%90%E5%85%83%E8%B2%B8%E6%AC%BE"
         }
       ]
     }
