@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-20 05:28",
+  "updated_at": "2026-11-20 05:56",
   "taiwan": [
     {
       "rank": 1,
+      "title": "超過SpaceX！ Anthropic募資813億美元「創始上最大IPO」遠開盤飆升",
+      "summary": [
+        "ETtoday：超過SpaceX！ Anthropic募資813億美元「創始上最大IPO」遠開盤飆升",
+        "經濟日報：年度最大規模IPO Anthropic募集813億美元",
+        "工商時報：超越SpaceX！Anthropic募資813億美元、估值衝1.5兆美元創史上最大IPO"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "超過SpaceX！ Anthropic募資813億美元「創始上最大IPO」遠開盤飆升",
+          "url": "https://finance.ettoday.net/news/3275254"
+        },
+        {
+          "source": "經濟日報",
+          "title": "年度最大規模IPO Anthropic募集813億美元",
+          "url": "https://money.udn.com/money/story/123398/9890128"
+        },
+        {
+          "source": "工商時報",
+          "title": "超越SpaceX！Anthropic募資813億美元、估值衝1.5兆美元創史上最大IPO",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82anNJMHlEcEpGTmpCa1llaFp5YXlXeW9sVVlDcDBrU3hBRC1KNlMyMHZ2SFBxOWZVc2R1eVFUZ2NzdDliR09HOFZ6NHh3czhMRXI2REQwU2NycnFoQWtN?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "冷氣團來了溼冷到週六！最冷時間點曝 高山有望降雪",
       "summary": [
         "自由時報：冷氣團來了溼冷到週六！最冷時間點曝 高山有望降雪",
@@ -23,7 +50,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "美中俄領袖峰會　發布和平宣言",
       "summary": [
         "經濟日報：美中俄領袖峰會　發布和平宣言",
@@ -44,7 +71,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "伊朗軍力重建中 紐時：川普評估新一波軍事行動",
       "summary": [
         "自由時報：伊朗軍力重建中 紐時：川普評估新一波軍事行動",
@@ -65,7 +92,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "直擊／防彈Jin送飛吻！告白「你好性感」　RM霸氣喊：高雄我愛你",
       "summary": [
         "ETtoday：直擊／防彈Jin送飛吻！告白「你好性感」　RM霸氣喊：高雄我愛你",
@@ -86,7 +113,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "格陵蘭安全協議 丹麥國會無異議批准",
       "summary": [
         "自由時報：格陵蘭安全協議 丹麥國會無異議批准",
@@ -107,7 +134,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "從AI航運安管到貨櫃無紙化，臺中港、高雄港雙港加速智慧港口數位轉型",
       "summary": [
         "iThome：從AI航運安管到貨櫃無紙化，臺中港、高雄港雙港加速智慧港口數位轉型",
@@ -128,7 +155,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "快訊》臺南千萬超跑陷火海！ BMW i8慘遭烈焰吞噬- 社會",
       "summary": [
         "中時新聞：快訊》臺南千萬超跑陷火海！ BMW i8慘遭烈焰吞噬- 社會",
@@ -149,7 +176,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
       "summary": [
         "經濟日報：傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
@@ -170,7 +197,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "租金補貼有望再加碼？內政部選後會同地方討論 容積獎勵也將納入檢討",
       "summary": [
         "財訊：租金補貼有望再加碼？內政部選後會同地方討論 容積獎勵也將納入檢討",
@@ -189,45 +216,19 @@
           "url": "https://www.ettoday.net/news/20261119/3275189.htm"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "Anthropic 創紀錄 IPO 的贏家：風投持股數百億美元 科技巨頭穩居大股東",
-      "summary": [
-        "經濟日報：Anthropic 創紀錄 IPO 的贏家：風投持股數百億美元 科技巨頭穩居大股東",
-        "工商時報：Anthropic IPO造富數千名員工晉升百萬富豪- 國際"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "Anthropic 創紀錄 IPO 的贏家：風投持股數百億美元 科技巨頭穩居大股東",
-          "url": "https://money.udn.com/money/story/123398/9888429"
-        },
-        {
-          "source": "工商時報",
-          "title": "Anthropic IPO造富數千名員工晉升百萬富豪- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JVnplcnBBM0lHeVVCMzdCeTN4SlFpLWVBQXY5S21aY1JicS16VEI4YVRjdGdhQVNoa3RGa2pjc1BkbE8xMGEyWE5Eekh3TEtvR293UV8yd1VCcFNIMGF3?oc=5"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Anthropic 今日 IPO：人工智慧巨擘準備開始高風險發行交易",
+      "title": "Anthropic 從人工智慧新貴崛起為全球最大的 IPO",
       "summary": [
-        "WSJ Markets：Anthropic 今日 IPO：人工智慧巨擘準備開始高風險發行交易",
         "Investing.com：Anthropic 從人工智慧新貴崛起為全球最大的 IPO",
-        "Bloomberg Markets：人為 IPO 激發人工智慧熱情"
+        "Bloomberg Markets：人為 IPO 激發人工智慧熱情",
+        "Bloomberg Tech：Anthropic Investor表示IPO為人工智慧樹立了新基準"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
-        {
-          "source": "WSJ Markets",
-          "title": "Anthropic 今日 IPO：人工智慧巨擘準備開始高風險發行交易",
-          "url": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026?mod=rss_markets_main"
-        },
         {
           "source": "Investing.com",
           "title": "Anthropic 從人工智慧新貴崛起為全球最大的 IPO",
@@ -247,23 +248,23 @@
     },
     {
       "rank": 2,
-      "title": "川普、習近平和普丁在亞太經合組織峰會上舉行會談",
+      "title": "川普、習近平和普丁舉行歷史性三邊會晤",
       "summary": [
-        "Bloomberg Markets：川普、習近平和普丁在亞太經合組織峰會上舉行會談",
         "Nikkei Asia：川普、習近平和普丁舉行歷史性三邊會晤",
+        "Bloomberg Markets：川普、習近平和普丁舉行史無前例的三邊會晤",
         "Financial Times：川普、普丁和習近平舉行歷史性三邊會議"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "川普、習近平和普丁在亞太經合組織峰會上舉行會談",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/insight-with-haslinda-amin-11-19-2026-video"
-        },
-        {
           "source": "Nikkei Asia",
           "title": "川普、習近平和普丁舉行歷史性三邊會晤",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTJueXQzUnBhdGdGQm5sNlkwaXFkUDI2NU9QOTdwNUlMcnpRM3RFOUg0a251UUxyZmhJUENQenFYSjRvN3o1Rmw3RUN0enVwMWJuMVo2azFWTkZveVl4WmZ4Nm9COGRES0lvdjc3SVNQWVlpZVdMZTlCWHFyTFkxc0tOVTlIbGNscmRfbERUSF9OYTU5T3NqVnFDdXJXeTVoVFFveVZBZ0VDU0tXUjhCdWxBWQ?oc=5"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "川普、習近平和普丁舉行史無前例的三邊會晤",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/trump-xi-and-putin-hold-unprecedented-trilateral-talks-video"
         },
         {
           "source": "Financial Times",
@@ -382,22 +383,28 @@
     },
     {
       "rank": 7,
-      "title": "韓國將人工智慧熱潮推向新高度，出口額突破1兆美元",
+      "title": "Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
       "summary": [
-        "Nikkei Asia：韓國將人工智慧熱潮推向新高度，出口額突破1兆美元",
-        "法廣RFI：AI晶片熱潮推動韓國出口突破萬億美元，晉陞全球第四"
+        "Bloomberg Tech：Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
+        "CNBC：Intuit 以 36.8 億美元將 Mailchimp 出售給 Bending Spoons",
+        "Investing.com：Intuit 以 36.8 億美元將 Mailchimp 出售給 Bending Spoons"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "Nikkei Asia",
-          "title": "韓國將人工智慧熱潮推向新高度，出口額突破1兆美元",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0Z1c1NPbHZaLVJKeUFuNlhzX01RSU1rSnlYckpRVkxwTzN1eEFVeG1iU3lKUzVqR2RTbDBtWjhiNVNBVmdHWklvUlJUbXJXbkpmbF9jczRDa0c0aUp3ckY2YUJTTHl2eWE0STlPSU9fUkVpZzM5eG1YN3B1RXBNclB3YXk5WWh1eUdqSUEzWUM1UzI2Z0RrTFJfazdUQQ?oc=5"
+          "source": "Bloomberg Tech",
+          "title": "Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/bending-spoons-to-buy-mailchimp-from-intuit-for-3-7-billion"
         },
         {
-          "source": "法廣RFI",
-          "title": "AI晶片熱潮推動韓國出口突破萬億美元，晉陞全球第四",
-          "url": "https://www.rfi.fr/tw/%E7%A7%91%E6%8A%80%E8%88%87%E6%96%87%E5%8C%96/20261119-ai%E8%8A%AF%E7%89%87%E7%86%B1%E6%BD%AE%E6%8E%A8%E5%8B%95%E9%9F%93%E5%9C%8B%E5%87%BA%E5%8F%A3%E7%AA%81%E7%A0%B4%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%8C%E6%99%89%E9%99%9E%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B"
+          "source": "CNBC",
+          "title": "Intuit 以 36.8 億美元將 Mailchimp 出售給 Bending Spoons",
+          "url": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Intuit 以 36.8 億美元將 Mailchimp 出售給 Bending Spoons",
+          "url": "https://www.investing.com/news/stock-market-news/intuit-to-sell-mailchimp-to-bending-spoons-for-368-billion-5039975"
         }
       ]
     },
