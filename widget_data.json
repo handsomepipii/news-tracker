@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 12:59",
+  "updated_at": "2026-11-19 13:27",
   "taiwan": [
     {
       "rank": 1,
@@ -264,48 +264,6 @@
     },
     {
       "rank": 2,
-      "title": "歐盟向烏克蘭追加超7兆日圓貸款 使其在和談中佔據優勢",
-      "summary": [
-        "NHK新聞：歐盟向烏克蘭追加超7兆日圓貸款 使其在和談中佔據優勢",
-        "法廣RFI：為填補烏克蘭預算缺口，歐盟提議由各成員國向烏克蘭提供一筆額外的450億歐元貸款"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "歐盟向烏克蘭追加超7兆日圓貸款 使其在和談中佔據優勢",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261119de78087"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "為填補烏克蘭預算缺口，歐盟提議由各成員國向烏克蘭提供一筆額外的450億歐元貸款",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261118-%E7%82%BA%E5%A1%AB%E8%A3%9C%E7%83%8F%E5%85%8B%E8%98%AD%E9%A0%90%E7%AE%97%E7%BC%BA%E5%8F%A3%EF%BC%8C%E6%AD%90%E7%9B%9F%E6%8F%90%E8%AD%B0%E7%94%B1%E5%90%84%E6%88%90%E5%93%A1%E5%9C%8B%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E6%8F%90%E4%BE%9B%E4%B8%80%E7%AD%86%E9%A1%8D%E5%A4%96%E7%9A%84450%E5%84%84%E6%AD%90%E5%85%83%E8%B2%B8%E6%AC%BE"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "在地緣政治緊張局勢中，福特開始使用中國技術在美國生產電池",
-      "summary": [
-        "CNBC：在地緣政治緊張局勢中，福特開始使用中國技術在美國生產電池",
-        "Investing.com：福特開始利用中國技術在美國生產電動車電池"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "在地緣政治緊張局勢中，福特開始使用中國技術在美國生產電池",
-          "url": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "福特開始利用中國技術在美國生產電動車電池",
-          "url": "https://www.investing.com/news/stock-market-news/ford-begins-ev-battery-cell-production-in-the-us-with-chinas-tech-5036780"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "美國失去了消除麻疹的地位。需要數年時間才能恢復",
       "summary": [
         "Wired：美國失去了消除麻疹的地位。需要數年時間才能恢復",
@@ -326,7 +284,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "Nvidia 董事會招聘公司接洽 Arm 執行長雷內哈斯 (Rene Haas)",
       "summary": [
         "Bloomberg Tech：Nvidia 董事會招聘公司接洽 Arm 執行長雷內哈斯 (Rene Haas)",
@@ -347,7 +305,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
       "summary": [
         "Bloomberg Tech：中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
@@ -368,7 +326,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
       "summary": [
         "WSJ Markets：華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
@@ -389,37 +347,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Thoma Bravo 的 Proofpoint 削減了 20 億美元債務交易成本",
-      "summary": [
-        "Bloomberg Tech：Thoma Bravo 的 Proofpoint 削減了 20 億美元債務交易成本"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Thoma Bravo 的 Proofpoint 削減了 20 億美元債務交易成本",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/thoma-bravo-s-proofpoint-cuts-costs-on-2-billion-debt-deal"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "瑞典股市收盤走低； OMX 斯德哥爾摩 30 指數下跌 0.95%",
-      "summary": [
-        "Investing.com：瑞典股市收盤走低； OMX 斯德哥爾摩 30 指數下跌 0.95%"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "瑞典股市收盤走低； OMX 斯德哥爾摩 30 指數下跌 0.95%",
-          "url": "https://www.investing.com/news/stock-market-news/sweden-stocks-lower-at-close-of-trade-omx-stockholm-30-down-095-5036708"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 6,
       "title": "[地震新聞]熊本縣地震強度為5級，不用擔心海嘯(2:22)",
       "summary": [
         "NHK新聞：[地震新聞]熊本縣地震強度為5級，不用擔心海嘯(2:22)"
@@ -430,6 +358,66 @@
           "source": "NHK新聞",
           "title": "[地震新聞]熊本縣地震強度為5級，不用擔心海嘯(2:22)",
           "url": "https://news.web.nhk/newsweb/na/nd-20261119de78097"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Newsmax 起訴福斯阻止 220 億美元收購 Roku",
+      "summary": [
+        "Investing.com：Newsmax 起訴福斯阻止 220 億美元收購 Roku"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Newsmax 起訴福斯阻止 220 億美元收購 Roku",
+          "url": "https://www.investing.com/news/stock-market-news/newsmax-sues-fox-to-block-22-billion-roku-acquisition-5036810"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "人工智慧正在迫使企業更快地修復網路缺陷，並解決日益嚴重的中斷問題",
+      "summary": [
+        "Bloomberg Tech：人工智慧正在迫使企業更快地修復網路缺陷，並解決日益嚴重的中斷問題"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "人工智慧正在迫使企業更快地修復網路缺陷，並解決日益嚴重的中斷問題",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/ai-is-forcing-firms-to-fix-cyber-flaws-faster-worsening-outages"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "高市首相與普丁總統交換意見並與習主席握手",
+      "summary": [
+        "NHK新聞：高市首相與普丁總統交換意見並與習主席握手"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "高市首相與普丁總統交換意見並與習主席握手",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261119de78112"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在",
+      "summary": [
+        "TechCrunch：當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在",
+          "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/"
         }
       ]
     }
