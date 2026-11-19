@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 03:28",
+  "updated_at": "2026-11-20 03:58",
   "taiwan": [
     {
       "rank": 1,
@@ -87,48 +87,6 @@
     },
     {
       "rank": 5,
-      "title": "奪命連環call+門口堵人  臺大女舍監騷擾女博士生判7月定讞須入獄",
-      "summary": [
-        "自由時報：奪命連環call+門口堵人  臺大女舍監騷擾女博士生判7月定讞須入獄",
-        "ETtoday：臺大女舍監瘋狂示愛女博士！傳「我好想你」堵門半小時　判7月定讞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "奪命連環call+門口堵人  臺大女舍監騷擾女博士生判7月定讞須入獄",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5646437"
-        },
-        {
-          "source": "ETtoday",
-          "title": "臺大女舍監瘋狂示愛女博士！傳「我好想你」堵門半小時　判7月定讞",
-          "url": "https://www.ettoday.net/news/20261120/3275252.htm"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Disney+登臺5年首公開臺灣觀影資料！韓語、華語內容佔近6成 《MOVING異能》穩坐冠軍",
-      "summary": [
-        "自由時報：Disney+登臺5年首公開臺灣觀影資料！韓語、華語內容佔近6成 《MOVING異能》穩坐冠軍",
-        "科技新報：Disney+ 來臺五週年揭臺灣觀影趨勢，韓語與華語內容佔六成觀看時數"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "Disney+登臺5年首公開臺灣觀影資料！韓語、華語內容佔近6成 《MOVING異能》穩坐冠軍",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5646431"
-        },
-        {
-          "source": "科技新報",
-          "title": "Disney+ 來臺五週年揭臺灣觀影趨勢，韓語與華語內容佔六成觀看時數",
-          "url": "https://technews.tw/2026/11/19/disney-plus-is-celebrating-its-fifth-anniversary-in-taiwan/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "川普：反對會扼殺 AI 行業的監管措施，管理須謹慎",
       "summary": [
         "科技新報：川普：反對會扼殺 AI 行業的監管措施，管理須謹慎",
@@ -149,7 +107,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "富邦媒mo店+發生資安事件，部分出貨資料遭未經授權存取",
       "summary": [
         "iThome：富邦媒mo店+發生資安事件，部分出貨資料遭未經授權存取",
@@ -170,7 +128,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "APEC記者會遭追問「臺灣有事」　高市早苗：日本立場毫無改變",
       "summary": [
         "經濟日報：APEC記者會遭追問「臺灣有事」　高市早苗：日本立場毫無改變",
@@ -191,7 +149,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "與川普探討俄烏戰爭   克宮：普廷會後心情絕佳",
       "summary": [
         "自由時報：與川普探討俄烏戰爭   克宮：普廷會後心情絕佳",
@@ -208,6 +166,48 @@
           "source": "ETtoday",
           "title": "普丁見完川普「心情超好」　克宮：會晤成功、聚焦烏克蘭戰爭",
           "url": "https://www.ettoday.net/news/20261119/3275087.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "臺積電砸5億美元入股Anthropic  持股比例0.03％",
+      "summary": [
+        "自由時報：臺積電砸5億美元入股Anthropic  持股比例0.03％",
+        "公開資訊觀測站重訊：臺積電斥資近5 億美元入股Anthropic！每股83 美元認購602 萬股，持股0.03%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "臺積電砸5億美元入股Anthropic  持股比例0.03％",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5646569"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "臺積電斥資近5 億美元入股Anthropic！每股83 美元認購602 萬股，持股0.03%",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnU2xGcE9yWVV1WFIzXzgwVDh3SzhFVkNKRDkzUzdjbzIySHBsTVg0TlQ2bVl4ZTBsSS14Si0zRTJmZXV2WHV5VUlGaVR1NmF6TWcxYnZkZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "出席深圳APEC 高市早苗：日本對臺灣立場1972年起不曾改變",
+      "summary": [
+        "自由時報：出席深圳APEC 高市早苗：日本對臺灣立場1972年起不曾改變",
+        "經濟日報：深圳APEC／再回應「臺灣有事」 高市早苗：對臺立場沒有變化"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "出席深圳APEC 高市早苗：日本對臺灣立場1972年起不曾改變",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5646528"
+        },
+        {
+          "source": "經濟日報",
+          "title": "深圳APEC／再回應「臺灣有事」 高市早苗：對臺立場沒有變化",
+          "url": "https://money.udn.com/money/story/5599/9889336"
         }
       ]
     }
@@ -274,6 +274,33 @@
     },
     {
       "rank": 3,
+      "title": "關於 Anthropic 破紀錄的 IPO 需要了解什麼",
+      "summary": [
+        "WSJ Markets：關於 Anthropic 破紀錄的 IPO 需要了解什麼",
+        "Bloomberg Tech：Anthropic 破紀錄的 IPO：接下來會發生什麼事？",
+        "Bloomberg Markets：Anthropic 破紀錄的 IPO"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "WSJ Markets",
+          "title": "關於 Anthropic 破紀錄的 IPO 需要了解什麼",
+          "url": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec?mod=rss_markets_main"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic 破紀錄的 IPO：接下來會發生什麼事？",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-s-record-breaking-ipo-what-comes-next-video"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic 破紀錄的 IPO",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-markets-11-19-2026-video"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "人為 IPO 讓股市多頭夢想年底反彈",
       "summary": [
         "Bloomberg Markets：人為 IPO 讓股市多頭夢想年底反彈",
@@ -300,7 +327,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "AMD因賣空者報告涉嫌中國業務而下跌",
       "summary": [
         "CNBC：AMD因賣空者報告涉嫌中國業務而下跌",
@@ -327,7 +354,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "讓 Google Gemini 能夠為您使用 Mac",
       "summary": [
         "TechCrunch：讓 Google Gemini 能夠為您使用 Mac",
@@ -350,27 +377,6 @@
           "source": "Bloomberg Tech",
           "title": "Google 的 Gemini 現在可以代表使用者控制 Mac 裝置",
           "url": "https://www.bloomberg.com/news/articles/2026-11-19/google-s-gemini-can-now-control-mac-devices-on-users-behalf"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Anthropic 將 IPO 定價為每股 83 美元，籌集 813 億美元，創下有史以來最大的上市規模",
-      "summary": [
-        "Yahoo Finance：Anthropic 將 IPO 定價為每股 83 美元，籌集 813 億美元，創下有史以來最大的上市規模",
-        "Investing.com：Anthropic將IPO定價為83美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Anthropic 將 IPO 定價為每股 83 美元，籌集 813 億美元，創下有史以來最大的上市規模",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWTRzdzdXSnVuVzNPNjB5TUs1WjFxcm9YS1B6SWxUc1kzWnNlLW9Ka1ppVDZtVXd2U0w4Zlh2bHVOTHBMRHlpNURoVmlfaG9JM0pGNnV3U2NxWF9GVHNxSmR2ekhQOUxMTVVoQ3R4Snc4WHpsZ0VkSVVsVmttVnFrSHV3U3lsMmhVdkhLcV9WU0djbV9wVDk3ckR3?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Anthropic將IPO定價為83美元",
-          "url": "https://www.investing.com/news/stock-market-news/anthropic-prices-ipo-at-83-per-share-432SI-5037977"
         }
       ]
     },
@@ -439,22 +445,22 @@
     },
     {
       "rank": 10,
-      "title": "關於 Anthropic 破紀錄的 IPO 需要了解什麼",
+      "title": "Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
       "summary": [
-        "WSJ Markets：關於 Anthropic 破紀錄的 IPO 需要了解什麼",
-        "Bloomberg Tech：Anthropic 破紀錄的 IPO：接下來會發生什麼事？"
+        "Financial Times：Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
+        "Yahoo Finance：Anthropic 將在華爾街首次亮相，估值達 1.5 兆美元，成為有史以來最大的 IPO"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "WSJ Markets",
-          "title": "關於 Anthropic 破紀錄的 IPO 需要了解什麼",
-          "url": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec?mod=rss_markets_main"
+          "source": "Financial Times",
+          "title": "Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
+          "url": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1"
         },
         {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic 破紀錄的 IPO：接下來會發生什麼事？",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-s-record-breaking-ipo-what-comes-next-video"
+          "source": "Yahoo Finance",
+          "title": "Anthropic 將在華爾街首次亮相，估值達 1.5 兆美元，成為有史以來最大的 IPO",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNklqMVdMV1diTGxyS2QtOVlIZWtVZk9TcXEtVFk5Y0hvMW9NR3hXMzlIWDc0d1hBWjQzVUV4Vnk5Z1VWNlpVdjcxcFZUam42OFF2Wl96a0VYbG9iSnRpeExKYU4ySWNKekVfMW52aDMzcUdJZVRIM3JTV2ZPRERieExJMDg3cmo0dzRHX0J0SHVmb1lQZ2ZV?oc=5"
         }
       ]
     }
