@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 04:28",
+  "updated_at": "2026-11-20 04:57",
   "taiwan": [
     {
       "rank": 1,
@@ -87,69 +87,6 @@
     },
     {
       "rank": 5,
-      "title": "與川普探討俄烏戰爭   克宮：普廷會後心情絕佳",
-      "summary": [
-        "自由時報：與川普探討俄烏戰爭   克宮：普廷會後心情絕佳",
-        "ETtoday：普丁見完川普「心情超好」　克宮：會晤成功、聚焦烏克蘭戰爭"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "與川普探討俄烏戰爭   克宮：普廷會後心情絕佳",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5646460"
-        },
-        {
-          "source": "ETtoday",
-          "title": "普丁見完川普「心情超好」　克宮：會晤成功、聚焦烏克蘭戰爭",
-          "url": "https://www.ettoday.net/news/20261119/3275087.htm"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "臺積電砸5億美元入股Anthropic  持股比例0.03％",
-      "summary": [
-        "自由時報：臺積電砸5億美元入股Anthropic  持股比例0.03％",
-        "公開資訊觀測站重訊：臺積電斥資近5 億美元入股Anthropic！每股83 美元認購602 萬股，持股0.03%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "臺積電砸5億美元入股Anthropic  持股比例0.03％",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5646569"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "臺積電斥資近5 億美元入股Anthropic！每股83 美元認購602 萬股，持股0.03%",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnU2xGcE9yWVV1WFIzXzgwVDh3SzhFVkNKRDkzUzdjbzIySHBsTVg0TlQ2bVl4ZTBsSS14Si0zRTJmZXV2WHV5VUlGaVR1NmF6TWcxYnZkZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "元太資訊系統疑遭攻擊",
-      "summary": [
-        "iThome：元太資訊系統疑遭攻擊",
-        "公開資訊觀測站重訊：元太資訊系統疑遭攻擊"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "元太資訊系統疑遭攻擊",
-          "url": "https://www.ithome.com.tw/news/180658"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "元太資訊系統疑遭攻擊",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aQW52Ym1HUTJCcmJPSHE5dUItQTFjYWljU3EtVHd0ZXozZWpqYkxPLTQ1ZmhyNWZ4UVNkTVg0cDFWb0FNbmgtQWdpWDJIUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "臺中3千萬房！媽想省贈與稅「年送244萬持分」　驚人代價曝光",
       "summary": [
         "ETtoday：臺中3千萬房！媽想省贈與稅「年送244萬持分」　驚人代價曝光",
@@ -170,7 +107,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "美光新加坡 HBM 先進封裝廠首臺機臺進駐　朝 2027 年初首批產出大步邁進",
       "summary": [
         "ETtoday：美光新加坡 HBM 先進封裝廠首臺機臺進駐　朝 2027 年初首批產出大步邁進",
@@ -191,7 +128,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩",
       "summary": [
         "iThome：大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩",
@@ -208,6 +145,69 @@
           "source": "公開資訊觀測站重訊",
           "title": "大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02cDRzalU4ckpBOGVkTFVYZjRNQndCa1FQSDY1UEo1WmpJa1dZdG5GanJZZl82YVBxOVlEZnNXTktSUFEwUlJVSk1FM1paUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "格陵蘭安全協議 丹麥國會無異議批准",
+      "summary": [
+        "自由時報：格陵蘭安全協議 丹麥國會無異議批准",
+        "經濟日報：丹麥與美國、格陵蘭簽署安全協議　國會表決透過"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "格陵蘭安全協議 丹麥國會無異議批准",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5646714"
+        },
+        {
+          "source": "經濟日報",
+          "title": "丹麥與美國、格陵蘭簽署安全協議　國會表決透過",
+          "url": "https://money.udn.com/money/story/5599/9889836"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "從AI航運安管到貨櫃無紙化，臺中港、高雄港雙港加速智慧港口數位轉型",
+      "summary": [
+        "iThome：從AI航運安管到貨櫃無紙化，臺中港、高雄港雙港加速智慧港口數位轉型",
+        "ETtoday：高雄港匯入貨櫃交領單數位化服務　攜港區業者推動智慧港口發展"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "從AI航運安管到貨櫃無紙化，臺中港、高雄港雙港加速智慧港口數位轉型",
+          "url": "https://www.ithome.com.tw/news/180666"
+        },
+        {
+          "source": "ETtoday",
+          "title": "高雄港匯入貨櫃交領單數位化服務　攜港區業者推動智慧港口發展",
+          "url": "https://finance.ettoday.net/news/3275210"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "快訊》臺南千萬超跑陷火海！ BMW i8慘遭烈焰吞噬- 社會",
+      "summary": [
+        "中時新聞：快訊》臺南千萬超跑陷火海！ BMW i8慘遭烈焰吞噬- 社會",
+        "ETtoday：臺南街頭千萬超跑「燒成火球」！BMW i8突陷火海　附近居民聞臭味"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "快訊》臺南千萬超跑陷火海！ BMW i8慘遭烈焰吞噬- 社會",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZbnhzNEFsS2RTbXVWVzFvTGdkbUNWVE9Ib2pDRTJSbVJhdDNNRm9mcnkzMndZT0ZEQW9vS1BfWlk1OF9MRnVwWjAtZjljUkQ5dGI3N0ZDakstdkYwUDU0NWc2TUY5RHFxaEpfa1pR?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "臺南街頭千萬超跑「燒成火球」！BMW i8突陷火海　附近居民聞臭味",
+          "url": "https://www.ettoday.net/news/20261120/3275226.htm"
         }
       ]
     }
@@ -328,33 +328,6 @@
     },
     {
       "rank": 5,
-      "title": "Visa、萬事達卡和摩根大通客戶資料被駭客洩露",
-      "summary": [
-        "WSJ Markets：Visa、萬事達卡和摩根大通客戶資料被駭客洩露",
-        "Investing.com：Visa、萬事達卡和摩根大通客戶資料在第三方網路攻擊中洩露",
-        "Yahoo Finance：摩根大通、Visa 和萬事達卡披露針對第三方供應商的網路攻擊"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "WSJ Markets",
-          "title": "Visa、萬事達卡和摩根大通客戶資料被駭客洩露",
-          "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=rss_markets_main"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Visa、萬事達卡和摩根大通客戶資料在第三方網路攻擊中洩露",
-          "url": "https://www.investing.com/news/stock-market-news/visa-mastercard-and-jpmorgan-customer-data-leaked-in-thirdparty-cyberattack-5039535"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "摩根大通、Visa 和萬事達卡披露針對第三方供應商的網路攻擊",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2R0aHc1VDVIQ3QxYjZFTmdYTktsYjBPdUFfUlY4UVZPekNOSTVwS1JWR1hoVkVlTXFIdFNwakdEMHlXWlpWNWhMdWlZNHZjSTczR2hFUm02M3BBOG1sRzhDVlE1cTlPa1ppNWRack1rMTNfelJpWlJleENsVGhwYlFwdWZUaGd2TjQ1OG9rMzh2TzlEVE1mZmhyQVI2RTFkN25BVnFLNjRlUHBma29Gc05WVHBrTjVhaGNlQzlSaXlDZm9sOGhNZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "AMD因賣空者報告涉嫌中國業務而下跌",
       "summary": [
         "CNBC：AMD因賣空者報告涉嫌中國業務而下跌",
@@ -381,7 +354,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "讓 Google Gemini 能夠為您使用 Mac",
       "summary": [
         "TechCrunch：讓 Google Gemini 能夠為您使用 Mac",
@@ -408,7 +381,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "烏克蘭本週內第三次襲擊克里米亞大橋 導致鐵路交通中斷",
       "summary": [
         "法廣RFI：烏克蘭本週內第三次襲擊克里米亞大橋 導致鐵路交通中斷",
@@ -429,7 +402,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "韓國將人工智慧熱潮推向新高度，出口額突破1兆美元",
       "summary": [
         "Nikkei Asia：韓國將人工智慧熱潮推向新高度，出口額突破1兆美元",
@@ -450,7 +423,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "中國人工智慧熱潮期間阿里巴巴收入超乎預期",
       "summary": [
         "Bloomberg Tech：中國人工智慧熱潮期間阿里巴巴收入超乎預期",
@@ -467,6 +440,27 @@
           "source": "Yahoo Finance",
           "title": "中國人工智慧熱潮期間阿里巴巴收入超乎預期",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZnhzZ1FXSlRKX2c0blFkNEluY1JXMG1WQjR0am5wR2ItSUhaajd3V3lsdExzeHUwODNCcVExYnZNZ0NCNEVEallnUlNnWFV0X2dnTGRVc2ZJeDRBZ3NjNFR4NVRhS2QwWlBUem1XQmtMSEVxYzNTbjJodHplMmdMR0RWNUVnc1BjUGZUcDYwb080Y3BrYU5GSHEwYkFkSGdqZ3RjYg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
+      "summary": [
+        "Financial Times：Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
+        "Yahoo Finance：Anthropic 將在華爾街首次亮相，估值達 1.5 兆美元，成為有史以來最大的 IPO"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
+          "url": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Anthropic 將在華爾街首次亮相，估值達 1.5 兆美元，成為有史以來最大的 IPO",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNklqMVdMV1diTGxyS2QtOVlIZWtVZk9TcXEtVFk5Y0hvMW9NR3hXMzlIWDc0d1hBWjQzVUV4Vnk5Z1VWNlpVdjcxcFZUam42OFF2Wl96a0VYbG9iSnRpeExKYU4ySWNKekVfMW52aDMzcUdJZVRIM3JTV2ZPRERieExJMDg3cmo0dzRHX0J0SHVmb1lQZ2ZV?oc=5"
         }
       ]
     }
