@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 06:57",
+  "updated_at": "2026-11-20 07:28",
   "taiwan": [
     {
       "rank": 1,
@@ -84,6 +84,33 @@
     },
     {
       "rank": 4,
+      "title": "最新財務申報曝光　川普9月買進逾870萬輝達股票",
+      "summary": [
+        "經濟日報：最新財務申報曝光　川普9月買進逾870萬輝達股票",
+        "自由時報：黃仁勳出事前！川普9月砸近900萬買輝達股票 財務申報曝光",
+        "ETtoday：川普9月買進逾870萬輝達股票　最新財務申報曝光"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "最新財務申報曝光　川普9月買進逾870萬輝達股票",
+          "url": "https://money.udn.com/money/story/5599/9890418"
+        },
+        {
+          "source": "自由時報",
+          "title": "黃仁勳出事前！川普9月砸近900萬買輝達股票 財務申報曝光",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647054"
+        },
+        {
+          "source": "ETtoday",
+          "title": "川普9月買進逾870萬輝達股票　最新財務申報曝光",
+          "url": "https://www.ettoday.net/news/20261120/3275283.htm"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "美中俄領袖峰會　發布和平宣言",
       "summary": [
         "經濟日報：美中俄領袖峰會　發布和平宣言",
@@ -104,7 +131,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "直擊／防彈Jin送飛吻！告白「你好性感」　RM霸氣喊：高雄我愛你",
       "summary": [
         "ETtoday：直擊／防彈Jin送飛吻！告白「你好性感」　RM霸氣喊：高雄我愛你",
@@ -125,7 +152,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "快訊》臺南千萬超跑陷火海！ BMW i8慘遭烈焰吞噬- 社會",
       "summary": [
         "中時新聞：快訊》臺南千萬超跑陷火海！ BMW i8慘遭烈焰吞噬- 社會",
@@ -146,7 +173,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
       "summary": [
         "經濟日報：傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
@@ -167,7 +194,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "租金補貼有望再加碼？內政部選後會同地方討論 容積獎勵也將納入檢討",
       "summary": [
         "財訊：租金補貼有望再加碼？內政部選後會同地方討論 容積獎勵也將納入檢討",
@@ -188,7 +215,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Anthropic 創紀錄 IPO 的贏家：風投持股數百億美元 科技巨頭穩居大股東",
       "summary": [
         "經濟日報：Anthropic 創紀錄 IPO 的贏家：風投持股數百億美元 科技巨頭穩居大股東",
@@ -207,86 +234,11 @@
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JVnplcnBBM0lHeVVCMzdCeTN4SlFpLWVBQXY5S21aY1JicS16VEI4YVRjdGdhQVNoa3RGa2pjc1BkbE8xMGEyWE5Eekh3TEtvR293UV8yd1VCcFNIMGF3?oc=5"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "明天的天氣/入冬最強冷氣團來了！「低溫探10度」全臺最濕冷時間曝， 一周天氣一次看",
-      "summary": [
-        "風傳媒：明天的天氣/入冬最強冷氣團來了！「低溫探10度」全臺最濕冷時間曝， 一周天氣一次看",
-        "自由時報：入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "風傳媒",
-          "title": "明天的天氣/入冬最強冷氣團來了！「低溫探10度」全臺最濕冷時間曝， 一周天氣一次看",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EaEhWaERjeFdNcnppSmtsNzJGUk9KVXN1RnhDa1NSSG9McUhRd3BjbFVBM3JIZHZyZUp4ZE43eUtYMjhfTWw3MmUwekJnRGwy?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5647050"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Anthropic 創紀錄的 IPO 提振了人們對人工智慧產業的信心，全球晶片股上漲",
-      "summary": [
-        "Investing.com：Anthropic 創紀錄的 IPO 提振了人們對人工智慧產業的信心，全球晶片股上漲",
-        "Bloomberg Markets：人為 IPO 激發人工智慧熱情",
-        "Bloomberg Tech：Anthropic Investor表示IPO為人工智慧樹立了新基準"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Anthropic 創紀錄的 IPO 提振了人們對人工智慧產業的信心，全球晶片股上漲",
-          "url": "https://www.investing.com/news/stock-market-news/global-chip-stocks-rally-as-anthropics-record-ipo-boosts-confidence-in-ai-trade-5038371"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "人為 IPO 激發人工智慧熱情",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/the-opening-trade-11-19-2026-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic Investor表示IPO為人工智慧樹立了新基準",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-says-ipo-sets-new-benchmark-for-ai-video"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "人為 IPO 讓股市多頭夢想年底反彈",
-      "summary": [
-        "Bloomberg Markets：人為 IPO 讓股市多頭夢想年底反彈",
-        "MarketWatch：Anthropic 的 IPO 能否為股市帶來英偉達獲利無法做到的效果？",
-        "Bloomberg Tech：人類投資者看到了 IPO 以外的機會"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "人為 IPO 讓股市多頭夢想年底反彈",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/anthropic-ipo-has-stock-bulls-dreaming-of-a-year-end-rally"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "Anthropic 的 IPO 能否為股市帶來英偉達獲利無法做到的效果？",
-          "url": "https://www.marketwatch.com/story/can-anthropics-ipo-do-for-the-stock-market-what-nvidias-earnings-couldnt-be67a434?mod=mw_rss_topstories"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "人類投資者看到了 IPO 以外的機會",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-sees-opportunity-beyond-ipo-video"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "AMD因賣空者報告涉嫌中國業務而下跌",
       "summary": [
         "CNBC：AMD因賣空者報告涉嫌中國業務而下跌",
@@ -313,7 +265,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "讓 Google Gemini 能夠為您使用 Mac",
       "summary": [
         "TechCrunch：讓 Google Gemini 能夠為您使用 Mac",
@@ -340,7 +292,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
       "summary": [
         "Bloomberg Tech：Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
@@ -367,28 +319,28 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "川普、習近平和普丁舉行史無前例的三邊會晤",
+      "rank": 4,
+      "title": "人為 IPO 激發人工智慧熱情",
       "summary": [
-        "Bloomberg Markets：川普、習近平和普丁舉行史無前例的三邊會晤",
-        "Financial Times：川普、普丁和習近平舉行歷史性三邊會議"
+        "Bloomberg Markets：人為 IPO 激發人工智慧熱情",
+        "Bloomberg Tech：Anthropic Investor表示IPO為人工智慧樹立了新基準"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "川普、習近平和普丁舉行史無前例的三邊會晤",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/trump-xi-and-putin-hold-unprecedented-trilateral-talks-video"
+          "title": "人為 IPO 激發人工智慧熱情",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/the-opening-trade-11-19-2026-video"
         },
         {
-          "source": "Financial Times",
-          "title": "川普、普丁和習近平舉行歷史性三邊會議",
-          "url": "https://www.ft.com/content/3ab490ea-825a-4ef4-9239-a2905d7f7f3c?syn-25a6b1a6=1"
+          "source": "Bloomberg Tech",
+          "title": "Anthropic Investor表示IPO為人工智慧樹立了新基準",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-says-ipo-sets-new-benchmark-for-ai-video"
         }
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "Anthropic 破紀錄的 IPO：接下來會發生什麼事？",
       "summary": [
         "Bloomberg Tech：Anthropic 破紀錄的 IPO：接下來會發生什麼事？",
@@ -409,7 +361,28 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "title": "加州總檢察長向英偉達發出傳票，調查中國晶片轉移事件",
+      "summary": [
+        "CNBC：加州總檢察長向英偉達發出傳票，調查中國晶片轉移事件",
+        "Investing.com：加州總檢察長就中國洩密風險和投資者資訊披露向英偉達發出傳票"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "加州總檢察長向英偉達發出傳票，調查中國晶片轉移事件",
+          "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "加州總檢察長就中國洩密風險和投資者資訊披露向英偉達發出傳票",
+          "url": "https://www.investing.com/news/stock-market-news/california-ag-subpoenas-nvidia-over-china-leak-risks-and-investor-disclosures-5040277"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
       "summary": [
         "Financial Times：Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
@@ -430,7 +403,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "川普、習近平和普丁舉行「開創性」中國峰會",
       "summary": [
         "Bloomberg Tech：川普、習近平和普丁舉行「開創性」中國峰會",
@@ -447,6 +420,27 @@
           "source": "Financial Times",
           "title": "習近平、川普和普丁歡呼「開創性」會晤",
           "url": "https://www.ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Anthropic 的 IPO 能否為股市帶來英偉達獲利無法做到的效果？",
+      "summary": [
+        "MarketWatch：Anthropic 的 IPO 能否為股市帶來英偉達獲利無法做到的效果？",
+        "Bloomberg Tech：人類投資者看到了 IPO 以外的機會"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MarketWatch",
+          "title": "Anthropic 的 IPO 能否為股市帶來英偉達獲利無法做到的效果？",
+          "url": "https://www.marketwatch.com/story/can-anthropics-ipo-do-for-the-stock-market-what-nvidias-earnings-couldnt-be67a434?mod=mw_rss_topstories"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "人類投資者看到了 IPO 以外的機會",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-sees-opportunity-beyond-ipo-video"
         }
       ]
     },
