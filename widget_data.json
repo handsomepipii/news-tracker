@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 15:26",
+  "updated_at": "2026-11-19 15:56",
   "taiwan": [
     {
       "rank": 1,
@@ -57,27 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "AI 投資降溫...華爾街預估明年企業獲利成長恐砍半",
-      "summary": [
-        "經濟日報：AI 投資降溫...華爾街預估明年企業獲利成長恐砍半",
-        "科技新報：AI 投資壓抑短期獲利，大摩降騰訊目標價"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "AI 投資降溫...華爾街預估明年企業獲利成長恐砍半",
-          "url": "https://money.udn.com/money/story/5599/9887636"
-        },
-        {
-          "source": "科技新報",
-          "title": "AI 投資壓抑短期獲利，大摩降騰訊目標價",
-          "url": "https://finance.technews.tw/2026/11/19/morgan-stanley-cuts-tencent-price-target/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "珍珠港事件倖存者嘉勒辭世享嵩壽105歲　曾抗命勇救同袍",
       "summary": [
         "自由時報：珍珠港事件倖存者嘉勒辭世享嵩壽105歲　曾抗命勇救同袍",
@@ -98,7 +77,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "市場評估輝達財報及聯準會紀要　美股收盤互有漲跌",
       "summary": [
         "自由時報：市場評估輝達財報及聯準會紀要　美股收盤互有漲跌",
@@ -119,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "微軟傳洽售AI服務給位元組跳動　美眾院委員會要查",
       "summary": [
         "自由時報：微軟傳洽售AI服務給位元組跳動　美眾院委員會要查",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "「臺灣學姐」陳竹音50萬交保　控政治追殺：立場不同民進黨就打壓",
       "summary": [
         "ETtoday：「臺灣學姐」陳竹音50萬交保　控政治追殺：立場不同民進黨就打壓",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "波灣局勢再起波瀾　國際油價下跌",
       "summary": [
         "自由時報：波灣局勢再起波瀾　國際油價下跌",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "臺裔及亞裔第一人　劉雲平獲選美眾院民主黨團主席",
       "summary": [
         "自由時報：臺裔及亞裔第一人　劉雲平獲選美眾院民主黨團主席",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "鹿港天后宮最貴光明燈 女董座連11年砸550萬包了！",
       "summary": [
         "自由時報：鹿港天后宮最貴光明燈 女董座連11年砸550萬包了！",
@@ -220,6 +199,27 @@
           "source": "ETtoday",
           "title": "低谷時媽祖引路！鹿港天后宮最貴光明燈　女董座連11年砸550萬",
           "url": "https://www.ettoday.net/news/20261119/3274695.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "克宮：普丁與川普將於APEC場邊會晤　未安排正式雙邊談判",
+      "summary": [
+        "ETtoday：克宮：普丁與川普將於APEC場邊會晤　未安排正式雙邊談判",
+        "經濟日報：川普普丁出席APEC峰會　美官員證實將舉行雙邊會談"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "克宮：普丁與川普將於APEC場邊會晤　未安排正式雙邊談判",
+          "url": "https://www.ettoday.net/news/20261119/3274605.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普普丁出席APEC峰會　美官員證實將舉行雙邊會談",
+          "url": "https://money.udn.com/money/story/5599/9888542"
         }
       ]
     }
@@ -411,21 +411,6 @@
     },
     {
       "rank": 9,
-      "title": "人工智慧正在迫使企業更快地修復網路缺陷，並解決日益嚴重的中斷問題",
-      "summary": [
-        "Bloomberg Tech：人工智慧正在迫使企業更快地修復網路缺陷，並解決日益嚴重的中斷問題"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "人工智慧正在迫使企業更快地修復網路缺陷，並解決日益嚴重的中斷問題",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/ai-is-forcing-firms-to-fix-cyber-flaws-faster-worsening-outages"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "高市首相與普丁總統交換意見並與習主席握手",
       "summary": [
         "NHK新聞：高市首相與普丁總統交換意見並與習主席握手"
@@ -436,6 +421,21 @@
           "source": "NHK新聞",
           "title": "高市首相與普丁總統交換意見並與習主席握手",
           "url": "https://news.web.nhk/newsweb/na/nd-20261119de78112"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在",
+      "summary": [
+        "TechCrunch：當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在",
+          "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/"
         }
       ]
     }
