@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 04:57",
+  "updated_at": "2026-11-20 05:28",
   "taiwan": [
     {
       "rank": 1,
@@ -87,69 +87,6 @@
     },
     {
       "rank": 5,
-      "title": "臺中3千萬房！媽想省贈與稅「年送244萬持分」　驚人代價曝光",
-      "summary": [
-        "ETtoday：臺中3千萬房！媽想省贈與稅「年送244萬持分」　驚人代價曝光",
-        "中時新聞：媽留3千萬房想省贈與稅！年送244萬持分給兒驚人下場曝光- 生活"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "臺中3千萬房！媽想省贈與稅「年送244萬持分」　驚人代價曝光",
-          "url": "https://www.ettoday.net/news/20261119/3274950.htm"
-        },
-        {
-          "source": "中時新聞",
-          "title": "媽留3千萬房想省贈與稅！年送244萬持分給兒驚人下場曝光- 生活",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRNGlwZUJDNzAyXzJUZ0J2bE1oWG8xQVozWWVSQnI3bnFwSlZsRmU5dElZREFldGYtSGJNSVU5T3ZfSTlBd2N5RHVLRGI5X3JYeG1LSUtjTzdZZjltb3M2bDhNVEk3OUg3TFBNcFFR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "美光新加坡 HBM 先進封裝廠首臺機臺進駐　朝 2027 年初首批產出大步邁進",
-      "summary": [
-        "ETtoday：美光新加坡 HBM 先進封裝廠首臺機臺進駐　朝 2027 年初首批產出大步邁進",
-        "科技新報：美光新加坡 HBM 先進封裝廠首部機臺進駐，預計 2027 年初進行產出"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "美光新加坡 HBM 先進封裝廠首臺機臺進駐　朝 2027 年初首批產出大步邁進",
-          "url": "https://finance.ettoday.net/news/3275041"
-        },
-        {
-          "source": "科技新報",
-          "title": "美光新加坡 HBM 先進封裝廠首部機臺進駐，預計 2027 年初進行產出",
-          "url": "https://finance.technews.tw/2026/11/19/micron-singapore-hbm-advanced-packaging-plant-installs-first-machine/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩",
-      "summary": [
-        "iThome：大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩",
-        "公開資訊觀測站重訊：大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩",
-          "url": "https://www.ithome.com.tw/news/180662"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02cDRzalU4ckpBOGVkTFVYZjRNQndCa1FQSDY1UEo1WmpJa1dZdG5GanJZZl82YVBxOVlEZnNXTktSUFEwUlJVSk1FM1paUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "格陵蘭安全協議 丹麥國會無異議批准",
       "summary": [
         "自由時報：格陵蘭安全協議 丹麥國會無異議批准",
@@ -170,7 +107,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "從AI航運安管到貨櫃無紙化，臺中港、高雄港雙港加速智慧港口數位轉型",
       "summary": [
         "iThome：從AI航運安管到貨櫃無紙化，臺中港、高雄港雙港加速智慧港口數位轉型",
@@ -191,7 +128,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "快訊》臺南千萬超跑陷火海！ BMW i8慘遭烈焰吞噬- 社會",
       "summary": [
         "中時新聞：快訊》臺南千萬超跑陷火海！ BMW i8慘遭烈焰吞噬- 社會",
@@ -208,6 +145,69 @@
           "source": "ETtoday",
           "title": "臺南街頭千萬超跑「燒成火球」！BMW i8突陷火海　附近居民聞臭味",
           "url": "https://www.ettoday.net/news/20261120/3275226.htm"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
+      "summary": [
+        "經濟日報：傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
+        "風傳媒：美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
+          "url": "https://money.udn.com/money/story/5599/9889828"
+        },
+        {
+          "source": "風傳媒",
+          "title": "美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oNmZqQkFzVUo0RUVvelZRWVJXaFhWaHpYc2RobW5IWXdqZFNUdENjSXlGYmRVXzRMT1ZENExSS1RGcWwwQXUwWWtoXzZYUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "租金補貼有望再加碼？內政部選後會同地方討論 容積獎勵也將納入檢討",
+      "summary": [
+        "財訊：租金補貼有望再加碼？內政部選後會同地方討論 容積獎勵也將納入檢討",
+        "ETtoday：租金補貼有望上調？內政部：將依物價狀況檢討是否調整"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "財訊",
+          "title": "租金補貼有望再加碼？內政部選後會同地方討論 容積獎勵也將納入檢討",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEQW1PZnN6Q3lYNWZwbHlHQU9La2U1aF90MFI0U2hQN1FMaU9VemJPZmFLY1Z2WkZWUjMtNWxWaUtITWFhbUJVTlMteHJUci0tb0otWXBISXJoMXVZdE5HQQ?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "租金補貼有望上調？內政部：將依物價狀況檢討是否調整",
+          "url": "https://www.ettoday.net/news/20261119/3275189.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Anthropic 創紀錄 IPO 的贏家：風投持股數百億美元 科技巨頭穩居大股東",
+      "summary": [
+        "經濟日報：Anthropic 創紀錄 IPO 的贏家：風投持股數百億美元 科技巨頭穩居大股東",
+        "工商時報：Anthropic IPO造富數千名員工晉升百萬富豪- 國際"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "Anthropic 創紀錄 IPO 的贏家：風投持股數百億美元 科技巨頭穩居大股東",
+          "url": "https://money.udn.com/money/story/123398/9888429"
+        },
+        {
+          "source": "工商時報",
+          "title": "Anthropic IPO造富數千名員工晉升百萬富豪- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JVnplcnBBM0lHeVVCMzdCeTN4SlFpLWVBQXY5S21aY1JicS16VEI4YVRjdGdhQVNoa3RGa2pjc1BkbE8xMGEyWE5Eekh3TEtvR293UV8yd1VCcFNIMGF3?oc=5"
         }
       ]
     }
@@ -382,27 +382,6 @@
     },
     {
       "rank": 7,
-      "title": "烏克蘭本週內第三次襲擊克里米亞大橋 導致鐵路交通中斷",
-      "summary": [
-        "法廣RFI：烏克蘭本週內第三次襲擊克里米亞大橋 導致鐵路交通中斷",
-        "德國之聲：烏克蘭一週內三次襲擊克里米亞大橋 鐵路運輸中斷"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "烏克蘭本週內第三次襲擊克里米亞大橋 導致鐵路交通中斷",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261119-%E7%83%8F%E5%85%8B%E8%98%AD%E6%9C%AC%E5%91%A8%E5%85%A7%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%A5%B2%E6%93%8A%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9E%E5%A4%A7%E6%A9%8B-%E5%B0%8E%E8%87%B4%E9%90%B5%E8%B7%AF%E4%BA%A4%E9%80%9A%E4%B8%AD%E6%96%B7"
-        },
-        {
-          "source": "德國之聲",
-          "title": "烏克蘭一週內三次襲擊克里米亞大橋 鐵路運輸中斷",
-          "url": "https://www.dw.com/zh/乌克兰一周内三次袭击克里米亚大桥-铁路运输中断/a-79988821?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "韓國將人工智慧熱潮推向新高度，出口額突破1兆美元",
       "summary": [
         "Nikkei Asia：韓國將人工智慧熱潮推向新高度，出口額突破1兆美元",
@@ -423,7 +402,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "中國人工智慧熱潮期間阿里巴巴收入超乎預期",
       "summary": [
         "Bloomberg Tech：中國人工智慧熱潮期間阿里巴巴收入超乎預期",
@@ -444,7 +423,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
       "summary": [
         "Financial Times：Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
@@ -461,6 +440,27 @@
           "source": "Yahoo Finance",
           "title": "Anthropic 將在華爾街首次亮相，估值達 1.5 兆美元，成為有史以來最大的 IPO",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNklqMVdMV1diTGxyS2QtOVlIZWtVZk9TcXEtVFk5Y0hvMW9NR3hXMzlIWDc0d1hBWjQzVUV4Vnk5Z1VWNlpVdjcxcFZUam42OFF2Wl96a0VYbG9iSnRpeExKYU4ySWNKekVfMW52aDMzcUdJZVRIM3JTV2ZPRERieExJMDg3cmo0dzRHX0J0SHVmb1lQZ2ZV?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普、習近平和普丁舉行「開創性」中國峰會",
+      "summary": [
+        "Bloomberg Tech：川普、習近平和普丁舉行「開創性」中國峰會",
+        "Financial Times：習近平、川普和普丁歡呼「開創性」會晤"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "川普、習近平和普丁舉行「開創性」中國峰會",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/the-pulse-with-francine-lacqua-11-19-2026-video"
+        },
+        {
+          "source": "Financial Times",
+          "title": "習近平、川普和普丁歡呼「開創性」會晤",
+          "url": "https://www.ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a?syn-25a6b1a6=1"
         }
       ]
     }
