@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 15:56",
+  "updated_at": "2026-11-19 16:27",
   "taiwan": [
     {
       "rank": 1,
@@ -369,6 +369,27 @@
     },
     {
       "rank": 7,
+      "title": "習近平承諾為APEC合作提供2000萬美元",
+      "summary": [
+        "Bloomberg Markets：習近平承諾為APEC合作提供2000萬美元",
+        "法廣RFI：習近平APEC宣佈：提供2000萬推動亞太共同體合作"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "習近平承諾為APEC合作提供2000萬美元",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/xi-pledges-20-million-for-apec-cooperation-video"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "習近平APEC宣佈：提供2000萬推動亞太共同體合作",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261119-%E7%BF%92%E8%BF%91%E5%B9%B3apec%E5%AE%A3%E5%B8%83-%E6%8F%90%E4%BE%9B2000%E8%90%AC%E6%8E%A8%E5%8B%95%E4%BA%9E%E5%A4%AA%E5%85%B1%E5%90%8C%E9%AB%94%E5%90%88%E4%BD%9C"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
       "summary": [
         "Financial Times：德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
@@ -389,7 +410,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
       "summary": [
         "Investing.com：違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
@@ -410,32 +431,17 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "高市首相與普丁總統交換意見並與習主席握手",
-      "summary": [
-        "NHK新聞：高市首相與普丁總統交換意見並與習主席握手"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "高市首相與普丁總統交換意見並與習主席握手",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261119de78112"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在",
+      "title": "獨家-裕信銀行與德國就收購德國商業銀行達成廣泛協議",
       "summary": [
-        "TechCrunch：當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在"
+        "Investing.com：獨家-裕信銀行與德國就收購德國商業銀行達成廣泛協議"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "TechCrunch",
-          "title": "當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在",
-          "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/"
+          "source": "Investing.com",
+          "title": "獨家-裕信銀行與德國就收購德國商業銀行達成廣泛協議",
+          "url": "https://www.investing.com/news/stock-market-news/exclusiveunicredit-and-germany-reach-broad-agreement-on-commerzbank-takeover-5037328"
         }
       ]
     }
