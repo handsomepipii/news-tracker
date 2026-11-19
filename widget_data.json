@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 17:56",
+  "updated_at": "2026-11-19 18:27",
   "taiwan": [
     {
       "rank": 1,
@@ -57,111 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "市場評估輝達財報及聯準會紀要　美股收盤互有漲跌",
-      "summary": [
-        "自由時報：市場評估輝達財報及聯準會紀要　美股收盤互有漲跌",
-        "經濟日報：市場評估輝達財報及聯準會紀要　美股收盤互有漲跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "市場評估輝達財報及聯準會紀要　美股收盤互有漲跌",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5645702"
-        },
-        {
-          "source": "經濟日報",
-          "title": "市場評估輝達財報及聯準會紀要　美股收盤互有漲跌",
-          "url": "https://money.udn.com/money/story/123398/9887865"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "微軟傳洽售AI服務給位元組跳動　美眾院委員會要查",
-      "summary": [
-        "自由時報：微軟傳洽售AI服務給位元組跳動　美眾院委員會要查",
-        "經濟日報：微軟傳洽售AI服務給位元組跳動　美眾院委員會要查"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "微軟傳洽售AI服務給位元組跳動　美眾院委員會要查",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645701"
-        },
-        {
-          "source": "經濟日報",
-          "title": "微軟傳洽售AI服務給位元組跳動　美眾院委員會要查",
-          "url": "https://money.udn.com/money/story/5599/9887860"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "「臺灣學姐」陳竹音50萬交保　控政治追殺：立場不同民進黨就打壓",
-      "summary": [
-        "ETtoday：「臺灣學姐」陳竹音50萬交保　控政治追殺：立場不同民進黨就打壓",
-        "自由時報：曾「棄臺籍」赴中！陳竹音選新北議員涉勾結境外勢力 50萬交保"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "「臺灣學姐」陳竹音50萬交保　控政治追殺：立場不同民進黨就打壓",
-          "url": "https://www.ettoday.net/news/20261119/3274592.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "曾「棄臺籍」赴中！陳竹音選新北議員涉勾結境外勢力 50萬交保",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5645659"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "波灣局勢再起波瀾　國際油價下跌",
-      "summary": [
-        "自由時報：波灣局勢再起波瀾　國際油價下跌",
-        "經濟日報：波灣局勢再起波瀾　國際油價下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "波灣局勢再起波瀾　國際油價下跌",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5645703"
-        },
-        {
-          "source": "經濟日報",
-          "title": "波灣局勢再起波瀾　國際油價下跌",
-          "url": "https://money.udn.com/money/story/5599/9887871"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "臺裔及亞裔第一人　劉雲平獲選美眾院民主黨團主席",
-      "summary": [
-        "自由時報：臺裔及亞裔第一人　劉雲平獲選美眾院民主黨團主席",
-        "經濟日報：臺裔及亞裔第一人　劉雲平獲選美眾院民主黨團主席"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "臺裔及亞裔第一人　劉雲平獲選美眾院民主黨團主席",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645704"
-        },
-        {
-          "source": "經濟日報",
-          "title": "臺裔及亞裔第一人　劉雲平獲選美眾院民主黨團主席",
-          "url": "https://money.udn.com/money/story/5599/9887872"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "鹿港天后宮最貴光明燈 女董座連11年砸550萬包了！",
       "summary": [
         "自由時報：鹿港天后宮最貴光明燈 女董座連11年砸550萬包了！",
@@ -182,7 +77,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 4,
       "title": "克宮：普丁與川普將於APEC場邊會晤　未安排正式雙邊談判",
       "summary": [
         "ETtoday：克宮：普丁與川普將於APEC場邊會晤　未安排正式雙邊談判",
@@ -203,7 +98,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 5,
       "title": "輝達董事長重申：黃仁勳不會回鍋　宣佈提前加薪提振士氣",
       "summary": [
         "ETtoday：輝達董事長重申：黃仁勳不會回鍋　宣佈提前加薪提振士氣",
@@ -222,24 +117,124 @@
           "url": "https://ec.ltn.com.tw/article/breakingnews/5645729"
         }
       ]
+    },
+    {
+      "rank": 6,
+      "title": "輝達不要黃仁勳了！接班人選已鎖定 獵才公司正接洽安謀執行長哈斯",
+      "summary": [
+        "自由時報：輝達不要黃仁勳了！接班人選已鎖定 獵才公司正接洽安謀執行長哈斯",
+        "經濟日報：找上黃仁勳「得意門生」接CEO！輝達獵才公司已接洽安謀執行長哈斯"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "輝達不要黃仁勳了！接班人選已鎖定 獵才公司正接洽安謀執行長哈斯",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5645747"
+        },
+        {
+          "source": "經濟日報",
+          "title": "找上黃仁勳「得意門生」接CEO！輝達獵才公司已接洽安謀執行長哈斯",
+          "url": "https://money.udn.com/money/story/5599/9887942"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "美媒：輝達 2022 年牽線阿里巴巴與黃樂，涉助規避美晶片管制",
+      "summary": [
+        "科技新報：美媒：輝達 2022 年牽線阿里巴巴與黃樂，涉助規避美晶片管制",
+        "工商時報：美媒：輝達2022年牽線阿里巴巴與黃樂涉助規避美晶片管制- 國際"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "美媒：輝達 2022 年牽線阿里巴巴與黃樂，涉助規避美晶片管制",
+          "url": "https://technews.tw/2026/11/19/nvidia-introduced-alibaba-to-alice-huang-for-workaround-on-u-s-export-controls/"
+        },
+        {
+          "source": "工商時報",
+          "title": "美媒：輝達2022年牽線阿里巴巴與黃樂涉助規避美晶片管制- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVeFkybGFpQzRDd3V0eEs4a3BMZ2lBVWsyTm9OVFhMNi1VNTBVU1R1UGFTMVRnRGpzY0RsV2Y2cWh0VW5iNG9tMmRGd0tQd2hxdHU1bHBxdmF6aks2SC1J?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "黃仁勳離職輝達急穩軍心！代理執行長宣佈提前加薪、加發股權獎勵",
+      "summary": [
+        "經濟日報：黃仁勳離職輝達急穩軍心！代理執行長宣佈提前加薪、加發股權獎勵",
+        "工商時報：黃仁勳請辭後輝達首場員工大會 代理CEO宣佈加薪、發放股權獎勵 喊話「向前走」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳離職輝達急穩軍心！代理執行長宣佈提前加薪、加發股權獎勵",
+          "url": "https://money.udn.com/money/story/123398/9887952"
+        },
+        {
+          "source": "工商時報",
+          "title": "黃仁勳請辭後輝達首場員工大會 代理CEO宣佈加薪、發放股權獎勵 喊話「向前走」",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zckNZbnRxX1dmS0h1SnlwazhRZUd4UGxDbF83aVRYTDBqdnhybnAxdENxcXRmcEN5bHMwRG5VRWEwQTY0X054WklJT2Y2Q3FQSjdvbVpBMVhJd2poRmhJ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "高雄東光國小地下室火警濃煙竄出 師生緊急疏散虛驚",
+      "summary": [
+        "自由時報：高雄東光國小地下室火警濃煙竄出 師生緊急疏散虛驚",
+        "ETtoday：快訊／高雄市東光國小起火！地下室濃煙狂竄　全校師生急疏散"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "高雄東光國小地下室火警濃煙竄出 師生緊急疏散虛驚",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5645793"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／高雄市東光國小起火！地下室濃煙狂竄　全校師生急疏散",
+          "url": "https://www.ettoday.net/news/20261119/3274670.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "輝達安定軍心，預計提早於 12 月調薪與股權獎勵",
+      "summary": [
+        "科技新報：輝達安定軍心，預計提早於 12 月調薪與股權獎勵",
+        "財經新報：輝達為安定軍心，提早 12 月調薪與股權獎勵"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "輝達安定軍心，預計提早於 12 月調薪與股權獎勵",
+          "url": "https://technews.tw/2026/11/19/nvidia-stabilizes-morale/"
+        },
+        {
+          "source": "財經新報",
+          "title": "輝達為安定軍心，提早 12 月調薪與股權獎勵",
+          "url": "https://finance.technews.tw/2026/11/19/nvidia-stabilizes-morale/"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "據報道，Anthropic 將 IPO 定價為每股 83 美元，高於預期範圍",
+      "title": "Anthropic將重磅IPO定價為83美元",
       "summary": [
-        "TechCrunch：據報道，Anthropic 將 IPO 定價為每股 83 美元，高於預期範圍",
         "Financial Times：Anthropic將重磅IPO定價為83美元",
-        "Yahoo Finance：Anthropic 將 IPO 定價為每股 83 美元，籌集 813 億美元，創下有史以來最大的上市規模"
+        "Yahoo Finance：Anthropic 將 IPO 定價為每股 83 美元，籌集 813 億美元，創下有史以來最大的上市規模",
+        "Investing.com：Anthropic將IPO定價為83美元"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
-        {
-          "source": "TechCrunch",
-          "title": "據報道，Anthropic 將 IPO 定價為每股 83 美元，高於預期範圍",
-          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
-        },
         {
           "source": "Financial Times",
           "title": "Anthropic將重磅IPO定價為83美元",
@@ -259,6 +254,33 @@
     },
     {
       "rank": 2,
+      "title": "川普在歷史性三邊會議前分別與普丁和習近平舉行會談",
+      "summary": [
+        "CNBC：川普在歷史性三邊會議前分別與普丁和習近平舉行會談",
+        "Bloomberg Markets：川普、習近平和普丁在亞太經合組織峰會上舉行會談",
+        "Nikkei Asia：川普、習近平和普丁舉行歷史性三邊會晤"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "川普在歷史性三邊會議前分別與普丁和習近平舉行會談",
+          "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "川普、習近平和普丁在亞太經合組織峰會上舉行會談",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/insight-with-haslinda-amin-11-19-2026-video"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "川普、習近平和普丁舉行歷史性三邊會晤",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTJueXQzUnBhdGdGQm5sNlkwaXFkUDI2NU9QOTdwNUlMcnpRM3RFOUg0a251UUxyZmhJUENQenFYSjRvN3o1Rmw3RUN0enVwMWJuMVo2azFWTkZveVl4WmZ4Nm9COGRES0lvdjc3SVNQWVlpZVdMZTlCWHFyTFkxc0tOVTlIbGNscmRfbERUSF9OYTU5T3NqVnFDdXJXeTVoVFFveVZBZ0VDU0tXUjhCdWxBWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "獨家-裕信銀行與德國就收購德國商業銀行達成廣泛協議",
       "summary": [
         "Investing.com：獨家-裕信銀行與德國就收購德國商業銀行達成廣泛協議",
@@ -279,49 +301,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Challenger 拒絕第一筆生命保險 44 億美元的新收購要約",
-      "summary": [
-        "Bloomberg Markets：Challenger 拒絕第一筆生命保險 44 億美元的新收購要約",
-        "Investing.com：澳洲挑戰者公司拒絕第一生命保險公司 44 億美元的收購報價，股價下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Challenger 拒絕第一筆生命保險 44 億美元的新收購要約",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/challenger-rejects-new-4-4-billion-daiichi-life-takeover-bid"
-        },
-        {
-          "source": "Investing.com",
-          "title": "澳洲挑戰者公司拒絕第一生命保險公司 44 億美元的收購報價，股價下跌",
-          "url": "https://www.investing.com/news/stock-market-news/australias-challenger-rejects-44-bln-bid-from-daiichi-life-shares-fall-5037836"
-        }
-      ]
-    },
-    {
       "rank": 4,
-      "title": "股市的暴跌已經見底了嗎？以下是這些反向指標的含義。",
-      "summary": [
-        "MarketWatch：股市的暴跌已經見底了嗎？以下是這些反向指標的含義。",
-        "Investing.com：今天聯想股價為何會暴跌？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MarketWatch",
-          "title": "股市的暴跌已經見底了嗎？以下是這些反向指標的含義。",
-          "url": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories"
-        },
-        {
-          "source": "Investing.com",
-          "title": "今天聯想股價為何會暴跌？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-lenovo-stock-tumbling-today-93CH-5037866"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "李在明在APEC歡迎晚宴會見普京 談涉朝問題",
       "summary": [
         "韓聯社：李在明在APEC歡迎晚宴會見普京 談涉朝問題",
@@ -342,7 +322,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
       "summary": [
         "Bloomberg Tech：中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
@@ -363,7 +343,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
       "summary": [
         "WSJ Markets：華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
@@ -384,7 +364,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "習近平承諾為APEC合作提供2000萬美元",
       "summary": [
         "Bloomberg Markets：習近平承諾為APEC合作提供2000萬美元",
@@ -405,7 +385,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
       "summary": [
         "Financial Times：德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
@@ -426,7 +406,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
       "summary": [
         "Investing.com：違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
@@ -443,6 +423,27 @@
           "source": "Financial Times",
           "title": "違反規則後，阿波羅計劃取消向曼城老闆提供 20 億美元貸款的計劃",
           "url": "https://www.ft.com/content/e2cfb9c4-a642-4ca9-9e78-32afc2549d9d?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "世界迎來了人工智慧的繁榮。現在很多人都後悔了。",
+      "summary": [
+        "Washington Post：世界迎來了人工智慧的繁榮。現在很多人都後悔了。",
+        "MarketWatch：Anthropic 推動的人工智慧技術革命的真正受益者可能會讓你大吃一驚"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "世界迎來了人工智慧的繁榮。現在很多人都後悔了。",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmdqUFBoSVBSLWN0bkV5azZKaHkyd2JEblNSaDJ6eFgzUFFYalNIYVdSRkVZZ2hLN2JUQ3pYNVRxeThNcFpKZG9uS1RHR2xfNEVRMWFUd0thaEt0MHdRSWFUaVBkNi00UzlYSGRNNnlESE5PWndjby1iU245WE11d0dsbnh4X1FfbnZldm92OWVTei1kWW5rSXExRUdVeFpBazVHRTNCNy1zOEZfbXRJMnBQZ0JCdw?oc=5"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Anthropic 推動的人工智慧技術革命的真正受益者可能會讓你大吃一驚",
+          "url": "https://www.marketwatch.com/story/the-real-beneficiary-of-the-ai-tech-revolution-fueled-by-anthropic-may-surprise-you-6fa098b2?mod=mw_rss_topstories"
         }
       ]
     }
