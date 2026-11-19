@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 10:56",
+  "updated_at": "2026-11-19 11:27",
   "taiwan": [
     {
       "rank": 1,
@@ -105,27 +105,6 @@
     },
     {
       "rank": 5,
-      "title": "美政府報告：中國尋求取得輝達先進晶片 用於AI武器",
-      "summary": [
-        "自由時報：美政府報告：中國尋求取得輝達先進晶片 用於AI武器",
-        "科技新報：美政府報告：中國尋求取得輝達先進晶片，用於 AI 武器"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美政府報告：中國尋求取得輝達先進晶片 用於AI武器",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645643"
-        },
-        {
-          "source": "科技新報",
-          "title": "美政府報告：中國尋求取得輝達先進晶片，用於 AI 武器",
-          "url": "https://technews.tw/2026/11/19/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "烈火盃小鐵人賽登場　桃園兒少跑跳展毅力",
       "summary": [
         "ETtoday：烈火盃小鐵人賽登場　桃園兒少跑跳展毅力",
@@ -146,7 +125,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "AI產業不確定性籠罩　歐股收跌",
       "summary": [
         "自由時報：AI產業不確定性籠罩　歐股收跌",
@@ -167,7 +146,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
       "summary": [
         "自由時報：APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
@@ -188,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "紐時：川普不滿範斯未力挺對伊朗開戰　私下盛讚盧比歐",
       "summary": [
         "自由時報：紐時：川普不滿範斯未力挺對伊朗開戰　私下盛讚盧比歐",
@@ -209,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美國會報告：中國結合多重手段　加大對臺施壓",
       "summary": [
         "自由時報：美國會報告：中國結合多重手段　加大對臺施壓",
@@ -226,6 +205,27 @@
           "source": "經濟日報",
           "title": "美國會報告：中國結合多重手段　加大對臺施壓",
           "url": "https://money.udn.com/money/story/5599/9887823"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "《臺北時報》 臺灣關注美中俄會談",
+      "summary": [
+        "自由時報：《臺北時報》 臺灣關注美中俄會談",
+        "TVBS新聞：美中俄今歷史性會談! 普欽「核手提箱」曝光｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "《臺北時報》 臺灣關注美中俄會談",
+          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5645634"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "美中俄今歷史性會談! 普欽「核手提箱」曝光｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wOFJJbzlZNG5aR1pXV3JEaWhubkRkNFpZMUlrNnRZME1Zai0xZjZVdmQ5X2R5aGN0S195NGNRdGdFcjRYcENWVElIWXdfUzVSTldqQ2x3?oc=5"
         }
       ]
     }
@@ -270,27 +270,6 @@
     },
     {
       "rank": 2,
-      "title": "為什麼 Anthropic 的 IPO 可能成為投資者的陷阱",
-      "summary": [
-        "Yahoo Finance：為什麼 Anthropic 的 IPO 可能成為投資者的陷阱",
-        "CNBC：為什麼 Anthropic 的火熱 IPO 會吸引賣家——此外，低迷市場的一線希望"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "為什麼 Anthropic 的 IPO 可能成為投資者的陷阱",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZkFDQlhZTkUwanhoT3JzRGVBYVRFeThMWXQwVTl6U01SekpYMVA4ak95WWh0UXl2TWk5aUFIekVWX0Jxd1BSSVh5TmhYVFNHWjg0NVFuZzQ5T3BMRzYwUWpSVFJmRnI3c1ZHRUE0WGdIdzRiblM1Mlp4anlaVEFRRHU5Vi14TDNBdzRBdUJKVGhrMGtiUkdTY0lhQ0Vfa2tQM1FhX1JzdDU3dWJJ?oc=5"
-        },
-        {
-          "source": "CNBC",
-          "title": "為什麼 Anthropic 的火熱 IPO 會吸引賣家——此外，低迷市場的一線希望",
-          "url": "https://www.cnbc.com/investingclub/2026/11/18/why-anthropics-hot-ipo-is-bringing-out-sellers-plus-a-down-market-silver-lining.html"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "哈基姆·傑弗里斯被提名為美國眾議院議長",
       "summary": [
         "BBC World：哈基姆·傑弗里斯被提名為美國眾議院議長",
@@ -311,7 +290,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "黃仁勳表示，儘管董事會反對，他仍「很榮幸」重新擔任 Nvidia 執行長",
       "summary": [
         "Yahoo Finance：黃仁勳表示，儘管董事會反對，他仍「很榮幸」重新擔任 Nvidia 執行長",
@@ -332,7 +311,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Anthropic IPO 如何與 SpaceX 抗衡",
       "summary": [
         "Investing.com：Anthropic IPO 如何與 SpaceX 抗衡",
@@ -353,7 +332,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "歐盟向烏克蘭追加超7兆日圓貸款 使其在和談中佔據優勢",
       "summary": [
         "NHK新聞：歐盟向烏克蘭追加超7兆日圓貸款 使其在和談中佔據優勢",
@@ -374,7 +353,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "在地緣政治緊張局勢中，福特開始使用中國技術在美國生產電池",
       "summary": [
         "CNBC：在地緣政治緊張局勢中，福特開始使用中國技術在美國生產電池",
@@ -395,7 +374,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美國失去了消除麻疹的地位。需要數年時間才能恢復",
       "summary": [
         "Wired：美國失去了消除麻疹的地位。需要數年時間才能恢復",
@@ -416,7 +395,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Nvidia 董事會招聘公司接洽 Arm 執行長雷內哈斯 (Rene Haas)",
       "summary": [
         "Bloomberg Tech：Nvidia 董事會招聘公司接洽 Arm 執行長雷內哈斯 (Rene Haas)",
@@ -437,7 +416,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
       "summary": [
         "Bloomberg Tech：中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
@@ -454,6 +433,21 @@
           "source": "Investing.com",
           "title": "馬斯克表示，共和黨潰敗後，他對中期支出規模感到“非常愚蠢”",
           "url": "https://www.investing.com/news/stock-market-news/musk-says-he-felt-pretty-foolish-about-scale-of-midterm-spending-after-republican-rout-5037471"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "挪威股市收盤走低；奧斯陸OBX下跌1.17%",
+      "summary": [
+        "Investing.com：挪威股市收盤走低；奧斯陸OBX下跌1.17%"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "挪威股市收盤走低；奧斯陸OBX下跌1.17%",
+          "url": "https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-117-5036607"
         }
       ]
     }
