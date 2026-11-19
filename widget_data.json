@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 13:57",
+  "updated_at": "2026-11-19 14:26",
   "taiwan": [
     {
       "rank": 1,
@@ -264,27 +264,6 @@
     },
     {
       "rank": 2,
-      "title": "美國失去了消除麻疹的地位。需要數年時間才能恢復",
-      "summary": [
-        "Wired：美國失去了消除麻疹的地位。需要數年時間才能恢復",
-        "Ars Technica：「可恥」的麻疹資料讓美國失去了消滅麻疹的地位"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Wired",
-          "title": "美國失去了消除麻疹的地位。需要數年時間才能恢復",
-          "url": "https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "「可恥」的麻疹資料讓美國失去了消滅麻疹的地位",
-          "url": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Nvidia 董事會招聘公司接洽 Arm 執行長雷內哈斯 (Rene Haas)",
       "summary": [
         "Bloomberg Tech：Nvidia 董事會招聘公司接洽 Arm 執行長雷內哈斯 (Rene Haas)",
@@ -305,7 +284,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "英偉達銀行 Anthropic 指導 IPO 價格",
       "summary": [
         "Bloomberg Tech：英偉達銀行 Anthropic 指導 IPO 價格",
@@ -326,7 +305,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
       "summary": [
         "Bloomberg Tech：中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
@@ -347,7 +326,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
       "summary": [
         "WSJ Markets：華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
@@ -368,7 +347,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
       "summary": [
         "Financial Times：德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
@@ -389,37 +368,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Newsmax 起訴福斯阻止 220 億美元收購 Roku",
-      "summary": [
-        "Investing.com：Newsmax 起訴福斯阻止 220 億美元收購 Roku"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Newsmax 起訴福斯阻止 220 億美元收購 Roku",
-          "url": "https://www.investing.com/news/stock-market-news/newsmax-sues-fox-to-block-22-billion-roku-acquisition-5036810"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "巴拿馬就長和港口糾紛提起刑事訴訟",
-      "summary": [
-        "Investing.com：巴拿馬就長和港口糾紛提起刑事訴訟"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "巴拿馬就長和港口糾紛提起刑事訴訟",
-          "url": "https://www.investing.com/news/stock-market-news/panama-files-criminal-complaint-tied-to-ck-hutchison-ports-dispute-5036799"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 7,
       "title": "人工智慧正在迫使企業更快地修復網路缺陷，並解決日益嚴重的中斷問題",
       "summary": [
         "Bloomberg Tech：人工智慧正在迫使企業更快地修復網路缺陷，並解決日益嚴重的中斷問題"
@@ -430,6 +379,51 @@
           "source": "Bloomberg Tech",
           "title": "人工智慧正在迫使企業更快地修復網路缺陷，並解決日益嚴重的中斷問題",
           "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/ai-is-forcing-firms-to-fix-cyber-flaws-faster-worsening-outages"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "高市首相與普丁總統交換意見並與習主席握手",
+      "summary": [
+        "NHK新聞：高市首相與普丁總統交換意見並與習主席握手"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "高市首相與普丁總統交換意見並與習主席握手",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261119de78112"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在",
+      "summary": [
+        "TechCrunch：當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在",
+          "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普向習近平和普丁獻媚不會有好結果- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：川普向習近平和普丁獻媚不會有好結果- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "川普向習近平和普丁獻媚不會有好結果- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51UkEtOG9iM3BkQlp6Zms1RllwUkNMNjAzRU5zOVZUdTlJel9OVG5TTWs2Yjd2QkUzRFhXMDR3akFTbW9xVUI4S1dmNy1IdjA0Zk9tTmpGWGlIbHNtdzVSelRRSlo2dVprY1VGOXMyV1BvUXdlNEpMT1ln?oc=5"
         }
       ]
     }
