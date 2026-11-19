@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 07:57",
+  "updated_at": "2026-11-19 08:27",
   "taiwan": [
     {
       "rank": 1,
@@ -78,27 +78,6 @@
     },
     {
       "rank": 4,
-      "title": "1票1000元 里港鄉代候選人樁腳涉現金買票",
-      "summary": [
-        "自由時報：1票1000元 里港鄉代候選人樁腳涉現金買票",
-        "ETtoday：「1票1000」屏東鄉代候選人樁腳涉現金買票　5萬交保"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "1票1000元 里港鄉代候選人樁腳涉現金買票",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5645516"
-        },
-        {
-          "source": "ETtoday",
-          "title": "「1票1000」屏東鄉代候選人樁腳涉現金買票　5萬交保",
-          "url": "https://www.ettoday.net/news/20261118/3274546.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "蔡康永「撕下蔣」諧音聯想未歇！最新再談「髒東西」：讓它失去力量",
       "summary": [
         "自由時報：蔡康永「撕下蔣」諧音聯想未歇！最新再談「髒東西」：讓它失去力量",
@@ -119,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "行政院明修法　大型柴油車汰換減徵貨物稅最高40萬延至2030年底",
       "summary": [
         "ETtoday：行政院明修法　大型柴油車汰換減徵貨物稅最高40萬延至2030年底",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "BTS現身六合夜市掀「貪吃蛇人龍」 V金泰亨買香腸萌秀中文：好吃嗎？",
       "summary": [
         "自由時報：BTS現身六合夜市掀「貪吃蛇人龍」 V金泰亨買香腸萌秀中文：好吃嗎？",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
       "summary": [
         "經濟日報：美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
       "summary": [
         "經濟日報：曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "歐盟提議供烏克蘭1.6兆元貸款　由俄未來戰爭賠款償還",
       "summary": [
         "經濟日報：歐盟提議供烏克蘭1.6兆元貸款　由俄未來戰爭賠款償還",
@@ -220,6 +199,27 @@
           "source": "ETtoday",
           "title": "加碼1.6兆援烏！歐盟提議2027再貸450億歐元「俄賠償才還款」",
           "url": "https://www.ettoday.net/news/20261118/3274576.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "APEC晚宴登場　習近平預告明峰會「更多成果落地」",
+      "summary": [
+        "ETtoday：APEC晚宴登場　習近平預告明峰會「更多成果落地」",
+        "工商時報：APEC歡迎晚宴與高市互動曝光習近平：明日領導人會議將討論擴大相互開放措施- 兩岸"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "APEC晚宴登場　習近平預告明峰會「更多成果落地」",
+          "url": "https://www.ettoday.net/news/20261118/3274580.htm"
+        },
+        {
+          "source": "工商時報",
+          "title": "APEC歡迎晚宴與高市互動曝光習近平：明日領導人會議將討論擴大相互開放措施- 兩岸",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WdDM2ZXZBY2RCT3VRaEIwWXp1RjNJTTlyZHFVLVBzMHp6NkpGcXZjZV91WFVZR3pfUXlTSXRWUE0xM3pyUHNyWFdPV18xUmJGeXZXMUtUNlBiSkZ3YmtF?oc=5"
         }
       ]
     }
@@ -291,27 +291,6 @@
     },
     {
       "rank": 3,
-      "title": "隨著消費者 NAND 現貨價格下降 20%，SSD、筆記型電腦和手機可能會變得更便宜",
-      "summary": [
-        "Tom's Hardware：隨著消費者 NAND 現貨價格下降 20%，SSD、筆記型電腦和手機可能會變得更便宜",
-        "Wccftech：消費級 NAND 價格下跌 20%，SSD 市場終於出現緩解跡象，預計 2027 年初將再次下跌 5-10%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Tom's Hardware",
-          "title": "隨著消費者 NAND 現貨價格下降 20%，SSD、筆記型電腦和手機可能會變得更便宜",
-          "url": "https://www.tomshardware.com/pc-components/ssds/ssds-laptops-and-phones-may-get-cheaper-as-consumer-nand-spot-pricing-drops-20-percent-bank-of-america-expects-contract-price-drops-report-cites-oversupply-in-consumer-market-amid-declining-demand-and-growing-chinese-competition"
-        },
-        {
-          "source": "Wccftech",
-          "title": "消費級 NAND 價格下跌 20%，SSD 市場終於出現緩解跡象，預計 2027 年初將再次下跌 5-10%",
-          "url": "https://wccftech.com/consumer-nand-prices-decline-by-20/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "烏克蘭的「飛行調變解調器」幫助推倒了普丁的橋樑",
       "summary": [
         "Financial Times：烏克蘭的「飛行調變解調器」幫助推倒了普丁的橋樑",
@@ -332,7 +311,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
       "summary": [
         "Financial Times：美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
@@ -353,7 +332,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "據報道，NVIDIA GPU 驅動程式每小時向 SSD 寫入高達 30GB 的資料，與 AMD 最近的驅動程式錯誤相呼應",
       "summary": [
         "Wccftech：據報道，NVIDIA GPU 驅動程式每小時向 SSD 寫入高達 30GB 的資料，與 AMD 最近的驅動程式錯誤相呼應",
@@ -374,7 +353,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "特朗普政府考慮強制美企披露中國AI使用情況",
       "summary": [
         "德國之聲：特朗普政府考慮強制美企披露中國AI使用情況",
@@ -395,7 +374,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "威爾·賴特 (Will Wright) 的下一款遊戲將使用人工智慧來繪製你的記憶",
       "summary": [
         "The Verge：威爾·賴特 (Will Wright) 的下一款遊戲將使用人工智慧來繪製你的記憶",
@@ -416,7 +395,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "為什麼 Anthropic 的 IPO 可能成為投資者的陷阱",
       "summary": [
         "Yahoo Finance：為什麼 Anthropic 的 IPO 可能成為投資者的陷阱",
@@ -437,7 +416,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "哈基姆·傑弗里斯被提名為美國眾議院議長",
       "summary": [
         "BBC World：哈基姆·傑弗里斯被提名為美國眾議院議長",
@@ -454,6 +433,27 @@
           "source": "Financial Times",
           "title": "民主黨提名哈基姆·傑弗里斯為美國眾議院議長",
           "url": "https://www.ft.com/content/9d0998cf-ffb8-4fe4-9f85-0c403b1966f9?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳表示，儘管董事會反對，他仍「很榮幸」重新擔任 Nvidia 執行長",
+      "summary": [
+        "Yahoo Finance：黃仁勳表示，儘管董事會反對，他仍「很榮幸」重新擔任 Nvidia 執行長",
+        "Investing.com：黃仁勳可能會透過友好方式或透過董事會權力遊戲重新擔任 NVIDIA 執行長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "黃仁勳表示，儘管董事會反對，他仍「很榮幸」重新擔任 Nvidia 執行長",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOUhlejduaGd4S3A4U2Z6WE1iMWp1OFVUaS1hTVVRWS1uWkhmeGc1bGlkbnlGalliajhiLVc1SGMyTUt4WTVSUnZ0U05MNXgxUm92bWR2WjZNR0tFSlZndDNGY3RUd1RuSGMxdWtWVlJ6Sk8wX3hCa0ItQ3FmU1BYTGhRRU1TZUFmMmhiaGZodk1UT2NM?oc=5"
+        },
+        {
+          "source": "Investing.com",
+          "title": "黃仁勳可能會透過友好方式或透過董事會權力遊戲重新擔任 NVIDIA 執行長",
+          "url": "https://www.investing.com/news/stock-market-news/huang-could-return-as-nvidia-ceo--by-friendly-means-or-via-a-boardroom-power-play-5036546"
         }
       ]
     }
