@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 09:56",
+  "updated_at": "2026-11-19 10:27",
   "taiwan": [
     {
       "rank": 1,
@@ -105,48 +105,6 @@
     },
     {
       "rank": 5,
-      "title": "劍橋辭典2026代表字human AI焦慮促納FOBO新詞",
-      "summary": [
-        "經濟日報：劍橋辭典2026代表字human AI焦慮促納FOBO新詞",
-        "科技新報：劍橋辭典 2026 代表字 human，AI 焦慮促納 FOBO 新詞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "劍橋辭典2026代表字human AI焦慮促納FOBO新詞",
-          "url": "https://money.udn.com/money/story/5599/9887503"
-        },
-        {
-          "source": "科技新報",
-          "title": "劍橋辭典 2026 代表字 human，AI 焦慮促納 FOBO 新詞",
-          "url": "https://technews.tw/2026/11/19/cambridge-dictionary-word-of-the-year-2026-is-human/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "NASA旅行家1號探測器　估已達成「光日」里程碑",
-      "summary": [
-        "經濟日報：NASA旅行家1號探測器　估已達成「光日」里程碑",
-        "科技新報：NASA 航海家 1 號探測器，估已達成「光日」里程碑"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "NASA旅行家1號探測器　估已達成「光日」里程碑",
-          "url": "https://money.udn.com/money/story/5599/9887500"
-        },
-        {
-          "source": "科技新報",
-          "title": "NASA 航海家 1 號探測器，估已達成「光日」里程碑",
-          "url": "https://technews.tw/2026/11/19/nasa-voyager-1-light-day-milestone/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
       "summary": [
         "經濟日報：曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
@@ -167,7 +125,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "歐盟提議供烏克蘭1.6兆元貸款　由俄未來戰爭賠款償還",
       "summary": [
         "經濟日報：歐盟提議供烏克蘭1.6兆元貸款　由俄未來戰爭賠款償還",
@@ -188,7 +146,28 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "title": "烈火盃小鐵人賽登場　桃園兒少跑跳展毅力",
+      "summary": [
+        "ETtoday：烈火盃小鐵人賽登場　桃園兒少跑跳展毅力",
+        "TVBS新聞：快訊／高雄東光國小火災竄濃煙！師生急撤操場避難"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "烈火盃小鐵人賽登場　桃園兒少跑跳展毅力",
+          "url": "https://www.ettoday.net/news/20261118/3274586.htm"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "快訊／高雄東光國小火災竄濃煙！師生急撤操場避難",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yN013bkc4amtvX20xbk1TZVRsLUx5UEM3TkdSbkdOd3FBOEg0c2RoR3hMYmZzQzlvNzRVVVBOMjNYNW5zdGFXeDc4WXNQLVk?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "APEC晚宴登場　習近平預告明峰會「更多成果落地」",
       "summary": [
         "ETtoday：APEC晚宴登場　習近平預告明峰會「更多成果落地」",
@@ -209,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "AI產業不確定性籠罩　歐股收跌",
       "summary": [
         "自由時報：AI產業不確定性籠罩　歐股收跌",
@@ -226,6 +205,27 @@
           "source": "經濟日報",
           "title": "AI產業不確定性籠罩　歐股收跌",
           "url": "https://money.udn.com/money/story/5599/9887797"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
+      "summary": [
+        "自由時報：APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
+        "經濟日報：深圳APEC／參加第一天 施振榮已與13位領袖互動"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5645692"
+        },
+        {
+          "source": "經濟日報",
+          "title": "深圳APEC／參加第一天 施振榮已與13位領袖互動",
+          "url": "https://money.udn.com/money/story/5599/9887816"
         }
       ]
     }
@@ -270,75 +270,6 @@
     },
     {
       "rank": 2,
-      "title": "散戶對 Anthropic IPO 的熱情可與 SpaceX 首次亮相相媲美",
-      "summary": [
-        "CNBC：散戶對 Anthropic IPO 的熱情可與 SpaceX 首次亮相相媲美",
-        "Investing.com：Anthropic IPO 如何與 SpaceX 抗衡",
-        "Bloomberg Markets：來自 Anthropic 的 IPO 資料來源：挑戰 SpaceX 的首次亮相紀錄"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "散戶對 Anthropic IPO 的熱情可與 SpaceX 首次亮相相媲美",
-          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Anthropic IPO 如何與 SpaceX 抗衡",
-          "url": "https://www.investing.com/news/stock-market-news/how-theanthropic-ipo-stacks-up-against-spacex-5036604"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "來自 Anthropic 的 IPO 資料來源：挑戰 SpaceX 的首次亮相紀錄",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-s-ipo-by-the-numbers-taking-on-spacex-s-record-debut"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "特朗普政府考慮強制美企披露中國AI使用情況",
-      "summary": [
-        "德國之聲：特朗普政府考慮強制美企披露中國AI使用情況",
-        "法廣RFI：特朗普政府正考慮要求美國企業公開披露使用中國AI模型情況"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "特朗普政府考慮強制美企披露中國AI使用情況",
-          "url": "https://www.dw.com/zh/特朗普政府考虑强制美企披露中国ai使用情况/a-79982497?maca=chi-rss-chi-all-1127-rdf"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "特朗普政府正考慮要求美國企業公開披露使用中國AI模型情況",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261118-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%80%83%E6%85%AE%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E5%85%AC%E9%96%8B%E6%8A%AB%E9%9C%B2%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%9C%8Bai%E6%A8%A1%E5%9E%8B%E6%83%85%E6%B3%81"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "威爾·賴特 (Will Wright) 的下一款遊戲將使用人工智慧來繪製你的記憶",
-      "summary": [
-        "The Verge：威爾·賴特 (Will Wright) 的下一款遊戲將使用人工智慧來繪製你的記憶",
-        "Ars Technica：威爾·賴特的下一個模擬將使用人工智慧從你的記憶中挖掘內容"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "威爾·賴特 (Will Wright) 的下一款遊戲將使用人工智慧來繪製你的記憶",
-          "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "威爾·賴特的下一個模擬將使用人工智慧從你的記憶中挖掘內容",
-          "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "為什麼 Anthropic 的 IPO 可能成為投資者的陷阱",
       "summary": [
         "Yahoo Finance：為什麼 Anthropic 的 IPO 可能成為投資者的陷阱",
@@ -359,7 +290,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 3,
       "title": "哈基姆·傑弗里斯被提名為美國眾議院議長",
       "summary": [
         "BBC World：哈基姆·傑弗里斯被提名為美國眾議院議長",
@@ -380,7 +311,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "黃仁勳表示，儘管董事會反對，他仍「很榮幸」重新擔任 Nvidia 執行長",
       "summary": [
         "Yahoo Finance：黃仁勳表示，儘管董事會反對，他仍「很榮幸」重新擔任 Nvidia 執行長",
@@ -401,7 +332,28 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "title": "Anthropic IPO 如何與 SpaceX 抗衡",
+      "summary": [
+        "Investing.com：Anthropic IPO 如何與 SpaceX 抗衡",
+        "Bloomberg Markets：來自 Anthropic 的 IPO 資料來源：挑戰 SpaceX 的首次亮相紀錄"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Anthropic IPO 如何與 SpaceX 抗衡",
+          "url": "https://www.investing.com/news/stock-market-news/how-theanthropic-ipo-stacks-up-against-spacex-5036604"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "來自 Anthropic 的 IPO 資料來源：挑戰 SpaceX 的首次亮相紀錄",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-s-ipo-by-the-numbers-taking-on-spacex-s-record-debut"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "歐盟向烏克蘭追加超7兆日圓貸款 使其在和談中佔據優勢",
       "summary": [
         "NHK新聞：歐盟向烏克蘭追加超7兆日圓貸款 使其在和談中佔據優勢",
@@ -422,7 +374,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "在地緣政治緊張局勢中，福特開始使用中國技術在美國生產電池",
       "summary": [
         "CNBC：在地緣政治緊張局勢中，福特開始使用中國技術在美國生產電池",
@@ -443,7 +395,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "美國失去了消除麻疹的地位。需要數年時間才能恢復",
       "summary": [
         "Wired：美國失去了消除麻疹的地位。需要數年時間才能恢復",
@@ -460,6 +412,48 @@
           "source": "Ars Technica",
           "title": "「可恥」的麻疹資料讓美國失去了消滅麻疹的地位",
           "url": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Nvidia 董事會招聘公司接洽 Arm 執行長雷內哈斯 (Rene Haas)",
+      "summary": [
+        "Bloomberg Tech：Nvidia 董事會招聘公司接洽 Arm 執行長雷內哈斯 (Rene Haas)",
+        "Bloomberg Markets：Nvidia 董事會招聘公司接洽 Arm 執行長哈斯"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Nvidia 董事會招聘公司接洽 Arm 執行長雷內哈斯 (Rene Haas)",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/arm-ceo-rene-haas-approached-by-nvidia-board-s-recruitment-firm"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "Nvidia 董事會招聘公司接洽 Arm 執行長哈斯",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-18/arm-ceo-approached-by-nvidia-board-s-recruitment-firm-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
+      "summary": [
+        "Bloomberg Tech：中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
+        "Investing.com：馬斯克表示，共和黨潰敗後，他對中期支出規模感到“非常愚蠢”"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/musk-feels-foolish-for-spending-big-on-gop-after-midterms-rout"
+        },
+        {
+          "source": "Investing.com",
+          "title": "馬斯克表示，共和黨潰敗後，他對中期支出規模感到“非常愚蠢”",
+          "url": "https://www.investing.com/news/stock-market-news/musk-says-he-felt-pretty-foolish-about-scale-of-midterm-spending-after-republican-rout-5037471"
         }
       ]
     }
