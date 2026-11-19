@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 12:26",
+  "updated_at": "2026-11-19 12:59",
   "taiwan": [
     {
       "rank": 1,
@@ -369,16 +369,22 @@
     },
     {
       "rank": 7,
-      "title": "丹麥股市收盤走低； OMX哥本哈根20指數下跌1.16%",
+      "title": "華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
       "summary": [
-        "Investing.com：丹麥股市收盤走低； OMX哥本哈根20指數下跌1.16%"
+        "WSJ Markets：華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
+        "Investing.com：根據《華爾街日報》報道，華爾街向 Nvidia 承諾的 5,000 億美元資金尚未落實"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
+          "source": "WSJ Markets",
+          "title": "華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
+          "url": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276?mod=rss_markets_main"
+        },
+        {
           "source": "Investing.com",
-          "title": "丹麥股市收盤走低； OMX哥本哈根20指數下跌1.16%",
-          "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-lower-at-close-of-trade-omx-copenhagen-20-down-116-5036656"
+          "title": "根據《華爾街日報》報道，華爾街向 Nvidia 承諾的 5,000 億美元資金尚未落實",
+          "url": "https://www.investing.com/news/stock-market-news/wall-sts-500-bln-pledge-to-nvidia-yet-to-be-mobilized-wsj-reports-5037693"
         }
       ]
     },
@@ -399,6 +405,21 @@
     },
     {
       "rank": 9,
+      "title": "瑞典股市收盤走低； OMX 斯德哥爾摩 30 指數下跌 0.95%",
+      "summary": [
+        "Investing.com：瑞典股市收盤走低； OMX 斯德哥爾摩 30 指數下跌 0.95%"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "瑞典股市收盤走低； OMX 斯德哥爾摩 30 指數下跌 0.95%",
+          "url": "https://www.investing.com/news/stock-market-news/sweden-stocks-lower-at-close-of-trade-omx-stockholm-30-down-095-5036708"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "[地震新聞]熊本縣地震強度為5級，不用擔心海嘯(2:22)",
       "summary": [
         "NHK新聞：[地震新聞]熊本縣地震強度為5級，不用擔心海嘯(2:22)"
@@ -409,21 +430,6 @@
           "source": "NHK新聞",
           "title": "[地震新聞]熊本縣地震強度為5級，不用擔心海嘯(2:22)",
           "url": "https://news.web.nhk/newsweb/na/nd-20261119de78097"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Newsmax 起訴福斯阻止 220 億美元收購 Roku",
-      "summary": [
-        "Investing.com：Newsmax 起訴福斯阻止 220 億美元收購 Roku"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Newsmax 起訴福斯阻止 220 億美元收購 Roku",
-          "url": "https://www.investing.com/news/stock-market-news/newsmax-sues-fox-to-block-22-billion-roku-acquisition-5036810"
         }
       ]
     }
