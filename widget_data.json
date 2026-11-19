@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 18:27",
+  "updated_at": "2026-11-19 18:56",
   "taiwan": [
     {
       "rank": 1,
@@ -57,69 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "鹿港天后宮最貴光明燈 女董座連11年砸550萬包了！",
-      "summary": [
-        "自由時報：鹿港天后宮最貴光明燈 女董座連11年砸550萬包了！",
-        "ETtoday：低谷時媽祖引路！鹿港天后宮最貴光明燈　女董座連11年砸550萬"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "鹿港天后宮最貴光明燈 女董座連11年砸550萬包了！",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5645693"
-        },
-        {
-          "source": "ETtoday",
-          "title": "低谷時媽祖引路！鹿港天后宮最貴光明燈　女董座連11年砸550萬",
-          "url": "https://www.ettoday.net/news/20261119/3274695.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "克宮：普丁與川普將於APEC場邊會晤　未安排正式雙邊談判",
-      "summary": [
-        "ETtoday：克宮：普丁與川普將於APEC場邊會晤　未安排正式雙邊談判",
-        "經濟日報：川普普丁出席APEC峰會　美官員證實將舉行雙邊會談"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "克宮：普丁與川普將於APEC場邊會晤　未安排正式雙邊談判",
-          "url": "https://www.ettoday.net/news/20261119/3274605.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普普丁出席APEC峰會　美官員證實將舉行雙邊會談",
-          "url": "https://money.udn.com/money/story/5599/9888542"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "輝達董事長重申：黃仁勳不會回鍋　宣佈提前加薪提振士氣",
-      "summary": [
-        "ETtoday：輝達董事長重申：黃仁勳不會回鍋　宣佈提前加薪提振士氣",
-        "自由時報：輝達董座2度重申不會讓黃仁勳回鍋 員工大會曝提前加薪、發放股票"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "輝達董事長重申：黃仁勳不會回鍋　宣佈提前加薪提振士氣",
-          "url": "https://www.ettoday.net/news/20261119/3274599.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "輝達董座2度重申不會讓黃仁勳回鍋 員工大會曝提前加薪、發放股票",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5645729"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "輝達不要黃仁勳了！接班人選已鎖定 獵才公司正接洽安謀執行長哈斯",
       "summary": [
         "自由時報：輝達不要黃仁勳了！接班人選已鎖定 獵才公司正接洽安謀執行長哈斯",
@@ -140,7 +77,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "美媒：輝達 2022 年牽線阿里巴巴與黃樂，涉助規避美晶片管制",
       "summary": [
         "科技新報：美媒：輝達 2022 年牽線阿里巴巴與黃樂，涉助規避美晶片管制",
@@ -161,7 +98,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "黃仁勳離職輝達急穩軍心！代理執行長宣佈提前加薪、加發股權獎勵",
       "summary": [
         "經濟日報：黃仁勳離職輝達急穩軍心！代理執行長宣佈提前加薪、加發股權獎勵",
@@ -182,7 +119,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "高雄東光國小地下室火警濃煙竄出 師生緊急疏散虛驚",
       "summary": [
         "自由時報：高雄東光國小地下室火警濃煙竄出 師生緊急疏散虛驚",
@@ -203,7 +140,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "輝達安定軍心，預計提早於 12 月調薪與股權獎勵",
       "summary": [
         "科技新報：輝達安定軍心，預計提早於 12 月調薪與股權獎勵",
@@ -220,6 +157,69 @@
           "source": "財經新報",
           "title": "輝達為安定軍心，提早 12 月調薪與股權獎勵",
           "url": "https://finance.technews.tw/2026/11/19/nvidia-stabilizes-morale/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Google推出Gemini 4 Neon！主打AI推理、方案開發能力成本高效最高降低60%",
+      "summary": [
+        "ETtoday：Google推出Gemini 4 Neon！主打AI推理、方案開發能力成本高效最高降低60%",
+        "INSIDE硬塞：Google推出Gemini 4 Neon，堪比美旗艦模型Carbon、任務成本降低32%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "Google推出Gemini 4 Neon！主打AI推理、方案開發能力成本高效最高降低60%",
+          "url": "https://ai.ettoday.net/news/3274652"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "Google推出Gemini 4 Neon，堪比美旗艦模型Carbon、任務成本降低32%",
+          "url": "https://www.inside.com.tw/article/42961-google-gemini-4-neon"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "新北警交通小隊長住處墜樓亡　因病請假休養竟發生憾事",
+      "summary": [
+        "ETtoday：新北警交通小隊長住處墜樓亡　因病請假休養竟發生憾事",
+        "中時新聞：警分局小隊長因病請假休養 社群大樓墜樓身亡"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "新北警交通小隊長住處墜樓亡　因病請假休養竟發生憾事",
+          "url": "https://www.ettoday.net/news/20261119/3274653.htm"
+        },
+        {
+          "source": "中時新聞",
+          "title": "警分局小隊長因病請假休養 社群大樓墜樓身亡",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HT1U5OVVXY21nSGpLN0pCWjVnMGd1aElhN09JdEZwTEdXTm1zaHRYMm56UkFyZElyYnZjMV9oaTNaR3ZJLS1hcnpoMC12WW8weEIzUWtMdUNNbmd4TEtNOGhBNktYMkR0Yi1ra0hn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "臺股再暴跌逾1400點摜破年線！12檔千金股跌停",
+      "summary": [
+        "自由時報：臺股再暴跌逾1400點摜破年線！12檔千金股跌停",
+        "ETtoday：股王信驊倒地1張賠97萬！千金股14檔跌停　3檔脫隊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "臺股再暴跌逾1400點摜破年線！12檔千金股跌停",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5645880"
+        },
+        {
+          "source": "ETtoday",
+          "title": "股王信驊倒地1張賠97萬！千金股14檔跌停　3檔脫隊",
+          "url": "https://finance.ettoday.net/news/3274717"
         }
       ]
     }
@@ -386,6 +386,27 @@
     },
     {
       "rank": 8,
+      "title": "Anthropic 華麗的 IPO",
+      "summary": [
+        "Financial Times：Anthropic 華麗的 IPO",
+        "WSJ Markets：關於 Anthropic 破紀錄的 IPO 需要了解什麼"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "Anthropic 華麗的 IPO",
+          "url": "https://www.ft.com/content/74801528-833d-412f-b939-24f68c2c3fc1?syn-25a6b1a6=1"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "關於 Anthropic 破紀錄的 IPO 需要了解什麼",
+          "url": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
       "summary": [
         "Financial Times：德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
@@ -406,7 +427,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
       "summary": [
         "Investing.com：違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
@@ -423,27 +444,6 @@
           "source": "Financial Times",
           "title": "違反規則後，阿波羅計劃取消向曼城老闆提供 20 億美元貸款的計劃",
           "url": "https://www.ft.com/content/e2cfb9c4-a642-4ca9-9e78-32afc2549d9d?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "世界迎來了人工智慧的繁榮。現在很多人都後悔了。",
-      "summary": [
-        "Washington Post：世界迎來了人工智慧的繁榮。現在很多人都後悔了。",
-        "MarketWatch：Anthropic 推動的人工智慧技術革命的真正受益者可能會讓你大吃一驚"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "世界迎來了人工智慧的繁榮。現在很多人都後悔了。",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmdqUFBoSVBSLWN0bkV5azZKaHkyd2JEblNSaDJ6eFgzUFFYalNIYVdSRkVZZ2hLN2JUQ3pYNVRxeThNcFpKZG9uS1RHR2xfNEVRMWFUd0thaEt0MHdRSWFUaVBkNi00UzlYSGRNNnlESE5PWndjby1iU245WE11d0dsbnh4X1FfbnZldm92OWVTei1kWW5rSXExRUdVeFpBazVHRTNCNy1zOEZfbXRJMnBQZ0JCdw?oc=5"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "Anthropic 推動的人工智慧技術革命的真正受益者可能會讓你大吃一驚",
-          "url": "https://www.marketwatch.com/story/the-real-beneficiary-of-the-ai-tech-revolution-fueled-by-anthropic-may-surprise-you-6fa098b2?mod=mw_rss_topstories"
         }
       ]
     }
