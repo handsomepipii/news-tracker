@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-20 02:28",
+  "updated_at": "2026-11-20 02:57",
   "taiwan": [
     {
       "rank": 1,
-      "title": "新宿京王百貨「臺灣夜市」熱鬧登場　雞排、蝦仁煎飄香",
-      "summary": [
-        "經濟日報：新宿京王百貨「臺灣夜市」熱鬧登場　雞排、蝦仁煎飄香",
-        "自由時報：（直擊）才爆日本男星玩很髒！話題AV女優竟現身臺灣 博多彩葉真面目曝光",
-        "TVBS新聞：海納百川到中和 李四川蔣萬安車掃｜LIVE"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "新宿京王百貨「臺灣夜市」熱鬧登場　雞排、蝦仁煎飄香",
-          "url": "https://money.udn.com/money/story/5599/9889068"
-        },
-        {
-          "source": "自由時報",
-          "title": "（直擊）才爆日本男星玩很髒！話題AV女優竟現身臺灣 博多彩葉真面目曝光",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5646629"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "海納百川到中和 李四川蔣萬安車掃｜LIVE",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fZ0MzRGRXVVpXcGYtSUFVeGttaklpN3RnSmFJVEFibVZvVnBUY1JrdkF1YW9QeFY4X3VGQjM3YzcteEFKa2hNUzFLVWJiOTVjdS14YU9zTEs3YXdweXQ4Z1pNY0pTYjFIVG1tLThfcUZLbEZk?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "冷氣團來了溼冷到週六！最冷時間點曝 高山有望降雪",
       "summary": [
         "自由時報：冷氣團來了溼冷到週六！最冷時間點曝 高山有望降雪",
@@ -50,7 +23,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "美中俄領袖峰會　發布和平宣言",
       "summary": [
         "經濟日報：美中俄領袖峰會　發布和平宣言",
@@ -71,7 +44,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "伊朗軍力重建中 紐時：川普評估新一波軍事行動",
       "summary": [
         "自由時報：伊朗軍力重建中 紐時：川普評估新一波軍事行動",
@@ -92,7 +65,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "直擊／防彈Jin送飛吻！告白「你好性感」　RM霸氣喊：高雄我愛你",
       "summary": [
         "ETtoday：直擊／防彈Jin送飛吻！告白「你好性感」　RM霸氣喊：高雄我愛你",
@@ -113,7 +86,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "停路肩綁貨惹禍？西濱2大貨車猛烈撞擊 1駕駛遭撞飛不治",
       "summary": [
         "自由時報：停路肩綁貨惹禍？西濱2大貨車猛烈撞擊 1駕駛遭撞飛不治",
@@ -134,7 +107,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "美擬擴大醫保稽核、追討不當給付  醫療保險股摔",
       "summary": [
         "科技新報：美擬擴大醫保稽核、追討不當給付  醫療保險股摔",
@@ -155,7 +128,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "奪命連環call+門口堵人  臺大女舍監騷擾女博士生判7月定讞須入獄",
       "summary": [
         "自由時報：奪命連環call+門口堵人  臺大女舍監騷擾女博士生判7月定讞須入獄",
@@ -176,7 +149,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Disney+登臺5年首公開臺灣觀影資料！韓語、華語內容佔近6成 《MOVING異能》穩坐冠軍",
       "summary": [
         "自由時報：Disney+登臺5年首公開臺灣觀影資料！韓語、華語內容佔近6成 《MOVING異能》穩坐冠軍",
@@ -197,7 +170,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "川普：反對會扼殺 AI 行業的監管措施，管理須謹慎",
       "summary": [
         "科技新報：川普：反對會扼殺 AI 行業的監管措施，管理須謹慎",
@@ -214,6 +187,27 @@
           "source": "MoneyDJ理財網",
           "title": "川普：反對會扼殺AI行業的監管措施，管理須謹慎- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOUlmMEwzM0owT2tQMXVIMzVNTUhVWUNwc0tEWHk1cGNOWFR0eVBjQm1FTWtQaENTeXk5MUx0dUJCXy14QmprS1VyTmFKVERUTDJ6UXZLWDRUNmpfOFBSTTJRZTVtSG80dEhQa2pRdzR6WUFWNFNubnZ5Y1R1cnpGWGFCbzBVbERnNE9rOC16WGFwdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "富邦媒mo店+發生資安事件，部分出貨資料遭未經授權存取",
+      "summary": [
+        "iThome：富邦媒mo店+發生資安事件，部分出貨資料遭未經授權存取",
+        "公開資訊觀測站重訊：富邦媒mo店+發生資安事件，部分出貨資料遭未經授權存取"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "富邦媒mo店+發生資安事件，部分出貨資料遭未經授權存取",
+          "url": "https://www.ithome.com.tw/news/180656"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "富邦媒mo店+發生資安事件，部分出貨資料遭未經授權存取",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ncm01ek9hcXdrSTBiOTkzUVpHeU9uNjlfaUlqaDktMjBXdjFodUJLX0x4ZDM3WVZGQkp0NzY3bHF4Y0hWVk1VVEsyNDVQdw?oc=5"
         }
       ]
     }
@@ -253,19 +247,14 @@
     },
     {
       "rank": 2,
-      "title": "川普在歷史性三邊會議前分別與普丁和習近平舉行會談",
+      "title": "川普、習近平和普丁在亞太經合組織峰會上舉行會談",
       "summary": [
-        "CNBC：川普在歷史性三邊會議前分別與普丁和習近平舉行會談",
         "Bloomberg Markets：川普、習近平和普丁在亞太經合組織峰會上舉行會談",
-        "Nikkei Asia：川普、習近平和普丁舉行歷史性三邊會晤"
+        "Nikkei Asia：川普、習近平和普丁舉行歷史性三邊會晤",
+        "Financial Times：川普、普丁和習近平舉行歷史性三邊會議"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
-        {
-          "source": "CNBC",
-          "title": "川普在歷史性三邊會議前分別與普丁和習近平舉行會談",
-          "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html"
-        },
         {
           "source": "Bloomberg Markets",
           "title": "川普、習近平和普丁在亞太經合組織峰會上舉行會談",
@@ -312,22 +301,28 @@
     },
     {
       "rank": 4,
-      "title": "聯合信貸銀行與德國就商業銀行收購條款達成協議",
+      "title": "AMD因賣空者報告涉嫌中國業務而下跌",
       "summary": [
-        "Investing.com：聯合信貸銀行與德國就商業銀行收購條款達成協議",
-        "Financial Times：裕信銀行與柏林就德國商業銀行收購達成協議"
+        "CNBC：AMD因賣空者報告涉嫌中國業務而下跌",
+        "Investing.com：有報告指出與中國的聯絡可能會引起美國的審查，AMD 股價下跌",
+        "Financial Times：賣空者報告與中國有聯絡後，AMD 股價下跌"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
+          "source": "CNBC",
+          "title": "AMD因賣空者報告涉嫌中國業務而下跌",
+          "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
+        },
+        {
           "source": "Investing.com",
-          "title": "聯合信貸銀行與德國就商業銀行收購條款達成協議",
-          "url": "https://www.investing.com/news/stock-market-news/unicredit-and-germany-reach-deal-on-commerzbank-takeover-terms--report-93CH-5037867"
+          "title": "有報告指出與中國的聯絡可能會引起美國的審查，AMD 股價下跌",
+          "url": "https://www.investing.com/news/stock-market-news/amd-shares-slide-as-report-says-china-links-could-invite-us-scrutiny-5039625"
         },
         {
           "source": "Financial Times",
-          "title": "裕信銀行與柏林就德國商業銀行收購達成協議",
-          "url": "https://www.ft.com/content/0c6bb979-bc3f-4368-86fc-a0306fd52d78?syn-25a6b1a6=1"
+          "title": "賣空者報告與中國有聯絡後，AMD 股價下跌",
+          "url": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1"
         }
       ]
     },
