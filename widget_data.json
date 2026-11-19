@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 21:26",
+  "updated_at": "2026-11-19 21:56",
   "taiwan": [
     {
       "rank": 1,
@@ -30,48 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "Google推出Gemini 4 Neon！主打AI推理、方案開發能力成本高效最高降低60%",
-      "summary": [
-        "ETtoday：Google推出Gemini 4 Neon！主打AI推理、方案開發能力成本高效最高降低60%",
-        "INSIDE硬塞：Google推出Gemini 4 Neon，堪比美旗艦模型Carbon、任務成本降低32%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "Google推出Gemini 4 Neon！主打AI推理、方案開發能力成本高效最高降低60%",
-          "url": "https://ai.ettoday.net/news/3274652"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "Google推出Gemini 4 Neon，堪比美旗艦模型Carbon、任務成本降低32%",
-          "url": "https://www.inside.com.tw/article/42961-google-gemini-4-neon"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "新北警交通小隊長住處墜樓亡　因病請假休養竟發生憾事",
-      "summary": [
-        "ETtoday：新北警交通小隊長住處墜樓亡　因病請假休養竟發生憾事",
-        "中時新聞：警分局小隊長因病請假休養 社群大樓墜樓身亡"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "新北警交通小隊長住處墜樓亡　因病請假休養竟發生憾事",
-          "url": "https://www.ettoday.net/news/20261119/3274653.htm"
-        },
-        {
-          "source": "中時新聞",
-          "title": "警分局小隊長因病請假休養 社群大樓墜樓身亡",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HT1U5OVVXY21nSGpLN0pCWjVnMGd1aElhN09JdEZwTEdXTm1zaHRYMm56UkFyZElyYnZjMV9oaTNaR3ZJLS1hcnpoMC12WW8weEIzUWtMdUNNbmd4TEtNOGhBNktYMkR0Yi1ra0hn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "臺股再暴跌逾1400點摜破年線！12檔千金股跌停",
       "summary": [
         "自由時報：臺股再暴跌逾1400點摜破年線！12檔千金股跌停",
@@ -92,7 +50,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "冷氣團南下全臺有感！賈新興揭低溫時刻：南北最冷時間差1天",
       "summary": [
         "自由時報：冷氣團南下全臺有感！賈新興揭低溫時刻：南北最冷時間差1天",
@@ -113,7 +71,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "史上最大IPO！ Anthropic募資813億美元超越SpaceX紀錄",
       "summary": [
         "自由時報：史上最大IPO！ Anthropic募資813億美元超越SpaceX紀錄",
@@ -134,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "AI 旺  臺灣主要 IT 廠營收暴增 5 成、首破 3 兆、創史高",
       "summary": [
         "科技新報：AI 旺  臺灣主要 IT 廠營收暴增 5 成、首破 3 兆、創史高",
@@ -155,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "輝達代理 CEO 試圖穩軍心股價仍跌  艾克曼轟董事會",
       "summary": [
         "科技新報：輝達代理 CEO 試圖穩軍心股價仍跌  艾克曼轟董事會",
@@ -176,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "川普暗示考慮出售輝達Blackwell晶片！中國要等多久 答案曝光",
       "summary": [
         "自由時報：川普暗示考慮出售輝達Blackwell晶片！中國要等多久 答案曝光",
@@ -197,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "黃仁勳閃辭掀風暴  微軟：客戶更想找輝達替代品",
       "summary": [
         "科技新報：黃仁勳閃辭掀風暴  微軟：客戶更想找輝達替代品",
@@ -214,6 +172,48 @@
           "source": "MoneyDJ理財網",
           "title": "黃仁勳閃辭掀風暴微軟：客戶更想找輝達替代品- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZUFMWndwaExQZlBiMTlrbmt6QWg3b2JtbFBZS2d5M3FGVDlzVGdUTE53WnpveVJzMnhJSXBONURYdllfa3NFVGxHd3NySG5oaVdOVlFnalZWQ2lQWllreHBuRnlTVmUyaENRV0FWMzVDLTVGVjBLQWtmZlk0UTgyZ3lrejVJRHV3eWp1bDlJTHFKUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "傳微軟向位元組跳動洽售 AI 服務  引 OpenAI 不滿",
+      "summary": [
+        "科技新報：傳微軟向位元組跳動洽售 AI 服務  引 OpenAI 不滿",
+        "MoneyDJ理財網：傳微軟向位元組跳動洽售AI服務 引OpenAI不滿"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "傳微軟向位元組跳動洽售 AI 服務  引 OpenAI 不滿",
+          "url": "https://technews.tw/2026/11/19/microsoft-reportedly-negotiating-sell-ai-services-bytedance-openai-displeasure/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "傳微軟向位元組跳動洽售AI服務 引OpenAI不滿",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdDdpaERxbjNSclNtOVRVY3EtbjJDRG5kYV9PTXJZYzQzRWhROTh6aEJ4Yk9HbkhSUmV1YzFuQnpSMVVtY1NKckJ6TkhXS3pFczVWMDEyMUNDaDUzWGgyYTBLdjhvcVFOZ1RvRnRleVJSSmFFSjFucHJHcm96VkRwMEhCeWp2T3ZMYUswOF9RTklLQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "英特爾 18A 製程重大突破  終於拿到首家外部客戶",
+      "summary": [
+        "科技新報：英特爾 18A 製程重大突破  終於拿到首家外部客戶",
+        "MoneyDJ理財網：英特爾18A製程重大突破終於拿到首家外部客戶- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "英特爾 18A 製程重大突破  終於拿到首家外部客戶",
+          "url": "https://finance.technews.tw/2026/11/19/intel-18a-process-major-breakthrough-first-external-customer/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "英特爾18A製程重大突破終於拿到首家外部客戶- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVhDYXVYZW1pT2Q5NHV2eTZMZjdudkJnd1IyVWwtc0k4Z3BTOURqTEVDVXBxNGUyZmVGQzlTaTktQXZTS3Zaa0ZTanc2TzJJV01ZNHhtbl9PeGtZeXYyQ3UwbHEtaUtiQ3Q2RjN0ZjItOUgyUXBSbE40bkc2S24xaW1zOTBNQjRzaXI4V1FhUFlNQQ?oc=5"
         }
       ]
     }
@@ -248,9 +248,9 @@
     },
     {
       "rank": 2,
-      "title": "Anthropic 創紀錄的 IPO 提振了人們對人工智慧產業的信心，全球晶片股上漲",
+      "title": "Anthropic 從人工智慧新貴崛起為全球最大的 IPO",
       "summary": [
-        "Investing.com：Anthropic 創紀錄的 IPO 提振了人們對人工智慧產業的信心，全球晶片股上漲",
+        "Investing.com：Anthropic 從人工智慧新貴崛起為全球最大的 IPO",
         "Bloomberg Markets：人為 IPO 激發人工智慧熱情",
         "Bloomberg Tech：Anthropic Investor表示IPO為人工智慧樹立了新基準"
       ],
@@ -258,8 +258,8 @@
       "links": [
         {
           "source": "Investing.com",
-          "title": "Anthropic 創紀錄的 IPO 提振了人們對人工智慧產業的信心，全球晶片股上漲",
-          "url": "https://www.investing.com/news/stock-market-news/global-chip-stocks-rally-as-anthropics-record-ipo-boosts-confidence-in-ai-trade-5038371"
+          "title": "Anthropic 從人工智慧新貴崛起為全球最大的 IPO",
+          "url": "https://www.investing.com/news/stock-market-news/anthropics-rise-from-ai-upstart-to-worlds-largest-ipo-5038313"
         },
         {
           "source": "Bloomberg Markets",
