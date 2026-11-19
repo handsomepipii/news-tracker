@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 23:57",
+  "updated_at": "2026-11-20 00:26",
   "taiwan": [
     {
       "rank": 1,
@@ -72,111 +72,6 @@
     },
     {
       "rank": 4,
-      "title": "川普暗示考慮出售輝達Blackwell晶片！中國要等多久 答案曝光",
-      "summary": [
-        "自由時報：川普暗示考慮出售輝達Blackwell晶片！中國要等多久 答案曝光",
-        "科技新報：川普：再等 2 至 3 年，或允許輝達 Blackwell 晶片賣中國"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "川普暗示考慮出售輝達Blackwell晶片！中國要等多久 答案曝光",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5646043"
-        },
-        {
-          "source": "科技新報",
-          "title": "川普：再等 2 至 3 年，或允許輝達 Blackwell 晶片賣中國",
-          "url": "https://technews.tw/2026/11/19/trump-2-3-years-or-allow-nvidia-blackwell-chips-china-sales/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "黃仁勳閃辭掀風暴  微軟：客戶更想找輝達替代品",
-      "summary": [
-        "科技新報：黃仁勳閃辭掀風暴  微軟：客戶更想找輝達替代品",
-        "MoneyDJ理財網：黃仁勳閃辭掀風暴微軟：客戶更想找輝達替代品- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "黃仁勳閃辭掀風暴  微軟：客戶更想找輝達替代品",
-          "url": "https://finance.technews.tw/2026/11/19/jensen-huang-sudden-resignation-sparks-controversy-microsoft-customers-seek-nvidia-alternatives/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "黃仁勳閃辭掀風暴微軟：客戶更想找輝達替代品- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZUFMWndwaExQZlBiMTlrbmt6QWg3b2JtbFBZS2d5M3FGVDlzVGdUTE53WnpveVJzMnhJSXBONURYdllfa3NFVGxHd3NySG5oaVdOVlFnalZWQ2lQWllreHBuRnlTVmUyaENRV0FWMzVDLTVGVjBLQWtmZlk0UTgyZ3lrejVJRHV3eWp1bDlJTHFKUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "傳微軟向位元組跳動洽售 AI 服務  引 OpenAI 不滿",
-      "summary": [
-        "科技新報：傳微軟向位元組跳動洽售 AI 服務  引 OpenAI 不滿",
-        "MoneyDJ理財網：傳微軟向位元組跳動洽售AI服務 引OpenAI不滿"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "傳微軟向位元組跳動洽售 AI 服務  引 OpenAI 不滿",
-          "url": "https://technews.tw/2026/11/19/microsoft-reportedly-negotiating-sell-ai-services-bytedance-openai-displeasure/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "傳微軟向位元組跳動洽售AI服務 引OpenAI不滿",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdDdpaERxbjNSclNtOVRVY3EtbjJDRG5kYV9PTXJZYzQzRWhROTh6aEJ4Yk9HbkhSUmV1YzFuQnpSMVVtY1NKckJ6TkhXS3pFczVWMDEyMUNDaDUzWGgyYTBLdjhvcVFOZ1RvRnRleVJSSmFFSjFucHJHcm96VkRwMEhCeWp2T3ZMYUswOF9RTklLQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "英特爾 18A 製程重大突破  終於拿到首家外部客戶",
-      "summary": [
-        "科技新報：英特爾 18A 製程重大突破  終於拿到首家外部客戶",
-        "MoneyDJ理財網：英特爾18A製程重大突破終於拿到首家外部客戶- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "英特爾 18A 製程重大突破  終於拿到首家外部客戶",
-          "url": "https://finance.technews.tw/2026/11/19/intel-18a-process-major-breakthrough-first-external-customer/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "英特爾18A製程重大突破終於拿到首家外部客戶- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVhDYXVYZW1pT2Q5NHV2eTZMZjdudkJnd1IyVWwtc0k4Z3BTOURqTEVDVXBxNGUyZmVGQzlTaTktQXZTS3Zaa0ZTanc2TzJJV01ZNHhtbl9PeGtZeXYyQ3UwbHEtaUtiQ3Q2RjN0ZjItOUgyUXBSbE40bkc2S24xaW1zOTBNQjRzaXI4V1FhUFlNQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Target Q3業績超預期 今年股價狂飆近70%",
-      "summary": [
-        "MoneyDJ理財網：Target Q3業績超預期 今年股價狂飆近70%",
-        "科技新報：Target Q3 業績超預期  今年股價狂飆近 70%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "Target Q3業績超預期 今年股價狂飆近70%",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVFhWGtWLW1TZndIdDJ3TklNcmU5Q0o1VE1lZFA5dngtR3FwcGd1X3VOckw3RENHdlYzWDF0cHJxOXBpMzBYOWRYb3dnVmgwTXVRek9EWl8ybk1GWVFNV3RMWmF2cks4UWxEa2dlVW1pUDJYRnlDRmpSQWJ4YXRMTlc3YmEtbVEtQTNjTkZHVGR4dw?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "Target Q3 業績超預期  今年股價狂飆近 70%",
-          "url": "https://finance.technews.tw/2026/11/19/target-q3-earnings-beat-expectations/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "高市早苗APEC二度與習近平握手 日中互動受矚目",
       "summary": [
         "自由時報：高市早苗APEC二度與習近平握手 日中互動受矚目",
@@ -197,7 +92,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 5,
       "title": "這是深藍票倉？蔡英文永和輔選蘇巧慧超人氣狂掃 實實們擠爆廟埕「聒噪應援」",
       "summary": [
         "自由時報：這是深藍票倉？蔡英文永和輔選蘇巧慧超人氣狂掃 實實們擠爆廟埕「聒噪應援」",
@@ -214,6 +109,111 @@
           "source": "ETtoday",
           "title": "大咖名單曝！何欣純拚翻轉臺中　賴清德、蔡英文、蕭美琴都來了",
           "url": "https://www.ettoday.net/news/20261119/3274992.htm"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "AI 投資壓抑短期獲利，大摩降騰訊目標價",
+      "summary": [
+        "科技新報：AI 投資壓抑短期獲利，大摩降騰訊目標價",
+        "MoneyDJ理財網：AI投資壓抑短期獲利，大摩降騰訊目標價- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "AI 投資壓抑短期獲利，大摩降騰訊目標價",
+          "url": "https://finance.technews.tw/2026/11/19/morgan-stanley-cuts-tencent-price-target/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "AI投資壓抑短期獲利，大摩降騰訊目標價- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmV3dmhONnI4R2dkcThnZDNvaC1LV29rakNjVkxEWHNSSWRCMWhmb0FJU3A4dGU2cU5uNVIzZU01MENqeld5T3JVMm5ST3VaMUxlR3lJSjY4ZXN2cERCR1U4ZE1PQU93SVQ3OVAxZmFab2RVMHZHZVJrODlRMzJNM1AzcFlqZWx2cVRiQmQxYXFiZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "搶攻AI電力需求 日立能源泰國工廠增產變壓器",
+      "summary": [
+        "科技新報：搶攻AI電力需求 日立能源泰國工廠增產變壓器",
+        "MoneyDJ理財網：搶攻AI電力需求日立能源泰國工廠增產變壓器- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "搶攻AI電力需求 日立能源泰國工廠增產變壓器",
+          "url": "https://finance.technews.tw/2026/11/19/hitachi-energy-expands-transformer-production-at-thailand-plant/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "搶攻AI電力需求日立能源泰國工廠增產變壓器- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNENLTFlCRUhad3NPQmdhQ09Gckg3VmNjaHNLdWZWUldKZGtWSC14WXZKVzZfa2xIS3BwRjcyVVV3dVBiZjRJVTZTdkY2LW0tUXlEQkhKRW82MmNsT0hZazB5aXhEMUliOUM5eFVYNTdRcFgyUkZqMmsxaFlTLThta01rZXdqdlVCSWRvdzZ1clBuQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Anduril創辦人籲讓黃仁勳復職　稱其下臺正合中國之意",
+      "summary": [
+        "經濟日報：Anduril創辦人籲讓黃仁勳復職　稱其下臺正合中國之意",
+        "科技新報：Anduril 創辦人籲讓黃仁勳復職，稱其下臺正合中國之意"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "Anduril創辦人籲讓黃仁勳復職　稱其下臺正合中國之意",
+          "url": "https://money.udn.com/money/story/5599/9888668"
+        },
+        {
+          "source": "科技新報",
+          "title": "Anduril 創辦人籲讓黃仁勳復職，稱其下臺正合中國之意",
+          "url": "https://technews.tw/2026/11/19/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "講完了！李明璇自稱曾苦勸　秦慧珠打臉轟造謠：意圖使人不當選",
+      "summary": [
+        "ETtoday：講完了！李明璇自稱曾苦勸　秦慧珠打臉轟造謠：意圖使人不當選",
+        "自由時報：藍營選前內鬥！李明璇稱曾苦勸  秦慧珠駁「不是事實」撂話：講完了......"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "講完了！李明璇自稱曾苦勸　秦慧珠打臉轟造謠：意圖使人不當選",
+          "url": "https://www.ettoday.net/news/20261119/3274892.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "藍營選前內鬥！李明璇稱曾苦勸  秦慧珠駁「不是事實」撂話：講完了......",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5646214"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "瑞銀看好美股續漲 12%  2027 年底上看 8,200 點",
+      "summary": [
+        "科技新報：瑞銀看好美股續漲 12%  2027 年底上看 8,200 點",
+        "MoneyDJ理財網：瑞銀看好美股續漲12% 2027年底上看8,200點"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "瑞銀看好美股續漲 12%  2027 年底上看 8,200 點",
+          "url": "https://finance.technews.tw/2026/11/19/ubs-sees-sp-500-at-8200-by-end-2027-on-earnings-strength-resilient-economy/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "瑞銀看好美股續漲12% 2027年底上看8,200點",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObHVRVmh6WjV4UmJSdXYyS1NhR2pGNmVQdndqTUxmcVl1bTZET2tGUG1nUXFhdjFwVW1KdGhweFlVNmdQc25pcHJObEVxWk1ybFhUcWJXMVc4RnI5ak1taTFGeUJBbmlJOUpjbDF0dkdyaXNfSGd5NXNreUpOejFkS2U5ZWFDdWdEaEh4dzRpY29uQQ?oc=5"
         }
       ]
     }
