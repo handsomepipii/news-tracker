@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 01:57",
+  "updated_at": "2026-11-20 02:28",
   "taiwan": [
     {
       "rank": 1,
@@ -72,6 +72,27 @@
     },
     {
       "rank": 4,
+      "title": "伊朗軍力重建中 紐時：川普評估新一波軍事行動",
+      "summary": [
+        "自由時報：伊朗軍力重建中 紐時：川普評估新一波軍事行動",
+        "經濟日報：稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "伊朗軍力重建中 紐時：川普評估新一波軍事行動",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5646889"
+        },
+        {
+          "source": "經濟日報",
+          "title": "稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
+          "url": "https://money.udn.com/money/story/5599/9890306"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "直擊／防彈Jin送飛吻！告白「你好性感」　RM霸氣喊：高雄我愛你",
       "summary": [
         "ETtoday：直擊／防彈Jin送飛吻！告白「你好性感」　RM霸氣喊：高雄我愛你",
@@ -88,27 +109,6 @@
           "source": "自由時報",
           "title": "六合夜市太圈粉！柾國狂讚「高雄香腸好吃」Jin羨慕市民：住這邊真好",
           "url": "https://ent.ltn.com.tw/news/breakingnews/5646998"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "瑞銀看好美股續漲 12%  2027 年底上看 8,200 點",
-      "summary": [
-        "科技新報：瑞銀看好美股續漲 12%  2027 年底上看 8,200 點",
-        "MoneyDJ理財網：瑞銀看好美股續漲12% 2027年底上看8,200點"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "瑞銀看好美股續漲 12%  2027 年底上看 8,200 點",
-          "url": "https://finance.technews.tw/2026/11/19/ubs-sees-sp-500-at-8200-by-end-2027-on-earnings-strength-resilient-economy/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "瑞銀看好美股續漲12% 2027年底上看8,200點",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObHVRVmh6WjV4UmJSdXYyS1NhR2pGNmVQdndqTUxmcVl1bTZET2tGUG1nUXFhdjFwVW1KdGhweFlVNmdQc25pcHJObEVxWk1ybFhUcWJXMVc4RnI5ak1taTFGeUJBbmlJOUpjbDF0dkdyaXNfSGd5NXNreUpOejFkS2U5ZWFDdWdEaEh4dzRpY29uQQ?oc=5"
         }
       ]
     },
@@ -221,6 +221,38 @@
   "global": [
     {
       "rank": 1,
+      "title": "Anthropic 今日 IPO：人工智慧巨擘準備開始高風險發行交易",
+      "summary": [
+        "WSJ Markets：Anthropic 今日 IPO：人工智慧巨擘準備開始高風險發行交易",
+        "Investing.com：Anthropic 從人工智慧新貴崛起為全球最大的 IPO",
+        "Bloomberg Markets：人為 IPO 激發人工智慧熱情"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "WSJ Markets",
+          "title": "Anthropic 今日 IPO：人工智慧巨擘準備開始高風險發行交易",
+          "url": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026?mod=rss_markets_main"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Anthropic 從人工智慧新貴崛起為全球最大的 IPO",
+          "url": "https://www.investing.com/news/stock-market-news/anthropics-rise-from-ai-upstart-to-worlds-largest-ipo-5038313"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "人為 IPO 激發人工智慧熱情",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/the-opening-trade-11-19-2026-video"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic Investor表示IPO為人工智慧樹立了新基準",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-says-ipo-sets-new-benchmark-for-ai-video"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "川普在歷史性三邊會議前分別與普丁和習近平舉行會談",
       "summary": [
         "CNBC：川普在歷史性三邊會議前分別與普丁和習近平舉行會談",
@@ -248,33 +280,6 @@
           "source": "Financial Times",
           "title": "川普、普丁和習近平舉行歷史性三邊會議",
           "url": "https://www.ft.com/content/3ab490ea-825a-4ef4-9239-a2905d7f7f3c?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Anthropic 從人工智慧新貴崛起為全球最大的 IPO",
-      "summary": [
-        "Investing.com：Anthropic 從人工智慧新貴崛起為全球最大的 IPO",
-        "Bloomberg Markets：人為 IPO 激發人工智慧熱情",
-        "Bloomberg Tech：Anthropic Investor表示IPO為人工智慧樹立了新基準"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Anthropic 從人工智慧新貴崛起為全球最大的 IPO",
-          "url": "https://www.investing.com/news/stock-market-news/anthropics-rise-from-ai-upstart-to-worlds-largest-ipo-5038313"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "人為 IPO 激發人工智慧熱情",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/the-opening-trade-11-19-2026-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic Investor表示IPO為人工智慧樹立了新基準",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-says-ipo-sets-new-benchmark-for-ai-video"
         }
       ]
     },
@@ -307,27 +312,6 @@
     },
     {
       "rank": 4,
-      "title": "違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
-      "summary": [
-        "Investing.com：違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
-        "Financial Times：違反規則後，阿波羅計劃取消向曼城老闆提供 20 億美元貸款的計劃"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
-          "url": "https://www.investing.com/news/stock-market-news/apollo-scraps-2-bln-loan-to-man-city-owner-after-rule-breach--report-93CH-5037789"
-        },
-        {
-          "source": "Financial Times",
-          "title": "違反規則後，阿波羅計劃取消向曼城老闆提供 20 億美元貸款的計劃",
-          "url": "https://www.ft.com/content/e2cfb9c4-a642-4ca9-9e78-32afc2549d9d?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "聯合信貸銀行與德國就商業銀行收購條款達成協議",
       "summary": [
         "Investing.com：聯合信貸銀行與德國就商業銀行收購條款達成協議",
@@ -348,7 +332,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "世界迎來了人工智慧的繁榮。現在很多人都後悔了。",
       "summary": [
         "Washington Post：世界迎來了人工智慧的繁榮。現在很多人都後悔了。",
@@ -369,7 +353,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Anthropic 將 IPO 定價為每股 83 美元，籌集 813 億美元，創下有史以來最大的上市規模",
       "summary": [
         "Yahoo Finance：Anthropic 將 IPO 定價為每股 83 美元，籌集 813 億美元，創下有史以來最大的上市規模",
@@ -390,28 +374,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Anthropic IPO 重振人工智慧交易，歐洲股市反彈",
-      "summary": [
-        "Bloomberg Tech：Anthropic IPO 重振人工智慧交易，歐洲股市反彈",
-        "WSJ Markets：Anthropic 今日 IPO：人工智慧巨擘準備開始高風險發行交易"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic IPO 重振人工智慧交易，歐洲股市反彈",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-19/european-stocks-rebound-as-anthropic-ipo-revives-the-ai-trade"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "Anthropic 今日 IPO：人工智慧巨擘準備開始高風險發行交易",
-          "url": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "title": "烏克蘭本週內第三次襲擊克里米亞大橋 導致鐵路交通中斷",
       "summary": [
         "法廣RFI：烏克蘭本週內第三次襲擊克里米亞大橋 導致鐵路交通中斷",
@@ -432,7 +395,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "韓國將人工智慧熱潮推向新高度，出口額突破1兆美元",
       "summary": [
         "Nikkei Asia：韓國將人工智慧熱潮推向新高度，出口額突破1兆美元",
@@ -449,6 +412,48 @@
           "source": "法廣RFI",
           "title": "AI晶片熱潮推動韓國出口突破萬億美元，晉陞全球第四",
           "url": "https://www.rfi.fr/tw/%E7%A7%91%E6%8A%80%E8%88%87%E6%96%87%E5%8C%96/20261119-ai%E8%8A%AF%E7%89%87%E7%86%B1%E6%BD%AE%E6%8E%A8%E5%8B%95%E9%9F%93%E5%9C%8B%E5%87%BA%E5%8F%A3%E7%AA%81%E7%A0%B4%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%8C%E6%99%89%E9%99%9E%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "中國人工智慧熱潮期間阿里巴巴收入超乎預期",
+      "summary": [
+        "Bloomberg Tech：中國人工智慧熱潮期間阿里巴巴收入超乎預期",
+        "Yahoo Finance：中國人工智慧熱潮期間阿里巴巴收入超乎預期"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "中國人工智慧熱潮期間阿里巴巴收入超乎預期",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/alibaba-s-revenue-beats-estimates-during-china-s-ai-boom"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "中國人工智慧熱潮期間阿里巴巴收入超乎預期",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZnhzZ1FXSlRKX2c0blFkNEluY1JXMG1WQjR0am5wR2ItSUhaajd3V3lsdExzeHUwODNCcVExYnZNZ0NCNEVEallnUlNnWFV0X2dnTGRVc2ZJeDRBZ3NjNFR4NVRhS2QwWlBUem1XQmtMSEVxYzNTbjJodHplMmdMR0RWNUVnc1BjUGZUcDYwb080Y3BrYU5GSHEwYkFkSGdqZ3RjYg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "關於 Anthropic 破紀錄的 IPO 需要了解什麼",
+      "summary": [
+        "WSJ Markets：關於 Anthropic 破紀錄的 IPO 需要了解什麼",
+        "Bloomberg Tech：Anthropic 破紀錄的 IPO：接下來會發生什麼事？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "WSJ Markets",
+          "title": "關於 Anthropic 破紀錄的 IPO 需要了解什麼",
+          "url": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec?mod=rss_markets_main"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic 破紀錄的 IPO：接下來會發生什麼事？",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-s-record-breaking-ipo-what-comes-next-video"
         }
       ]
     }
