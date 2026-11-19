@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-20 05:56",
+  "updated_at": "2026-11-20 06:27",
   "taiwan": [
     {
       "rank": 1,
+      "title": "伊朗軍力重建中 紐時：川普評估新一波軍事行動",
+      "summary": [
+        "自由時報：伊朗軍力重建中 紐時：川普評估新一波軍事行動",
+        "經濟日報：稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
+        "ETtoday：川普稱伊朗研究「生化武器」：看元旦後美伊局勢如何發展"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "伊朗軍力重建中 紐時：川普評估新一波軍事行動",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5646889"
+        },
+        {
+          "source": "經濟日報",
+          "title": "稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
+          "url": "https://money.udn.com/money/story/5599/9890306"
+        },
+        {
+          "source": "ETtoday",
+          "title": "川普稱伊朗研究「生化武器」：看元旦後美伊局勢如何發展",
+          "url": "https://www.ettoday.net/news/20261120/3275266.htm"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "超過SpaceX！ Anthropic募資813億美元「創始上最大IPO」遠開盤飆升",
       "summary": [
         "ETtoday：超過SpaceX！ Anthropic募資813億美元「創始上最大IPO」遠開盤飆升",
@@ -29,7 +56,34 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "中國供應鏈疑慮衝擊超微　股價重挫8%",
+      "summary": [
+        "自由時報：中國供應鏈疑慮衝擊超微　股價重挫8%",
+        "經濟日報：中國供應鏈疑慮衝擊超微　股價重挫8%",
+        "ETtoday：黃仁勳外遇掃到AMD！　中國供應鏈收緊衝擊股價挫近8%"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "中國供應鏈疑慮衝擊超微　股價重挫8%",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5647044"
+        },
+        {
+          "source": "經濟日報",
+          "title": "中國供應鏈疑慮衝擊超微　股價重挫8%",
+          "url": "https://money.udn.com/money/story/123398/9890339"
+        },
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳外遇掃到AMD！　中國供應鏈收緊衝擊股價挫近8%",
+          "url": "https://finance.ettoday.net/news/3275264"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "冷氣團來了溼冷到週六！最冷時間點曝 高山有望降雪",
       "summary": [
         "自由時報：冷氣團來了溼冷到週六！最冷時間點曝 高山有望降雪",
@@ -50,7 +104,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "美中俄領袖峰會　發布和平宣言",
       "summary": [
         "經濟日報：美中俄領袖峰會　發布和平宣言",
@@ -71,28 +125,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "伊朗軍力重建中 紐時：川普評估新一波軍事行動",
-      "summary": [
-        "自由時報：伊朗軍力重建中 紐時：川普評估新一波軍事行動",
-        "經濟日報：稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "伊朗軍力重建中 紐時：川普評估新一波軍事行動",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5646889"
-        },
-        {
-          "source": "經濟日報",
-          "title": "稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
-          "url": "https://money.udn.com/money/story/5599/9890306"
-        }
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "title": "直擊／防彈Jin送飛吻！告白「你好性感」　RM霸氣喊：高雄我愛你",
       "summary": [
         "ETtoday：直擊／防彈Jin送飛吻！告白「你好性感」　RM霸氣喊：高雄我愛你",
@@ -113,49 +146,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "格陵蘭安全協議 丹麥國會無異議批准",
-      "summary": [
-        "自由時報：格陵蘭安全協議 丹麥國會無異議批准",
-        "經濟日報：丹麥與美國、格陵蘭簽署安全協議　國會表決透過"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "格陵蘭安全協議 丹麥國會無異議批准",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5646714"
-        },
-        {
-          "source": "經濟日報",
-          "title": "丹麥與美國、格陵蘭簽署安全協議　國會表決透過",
-          "url": "https://money.udn.com/money/story/5599/9889836"
-        }
-      ]
-    },
-    {
       "rank": 7,
-      "title": "從AI航運安管到貨櫃無紙化，臺中港、高雄港雙港加速智慧港口數位轉型",
-      "summary": [
-        "iThome：從AI航運安管到貨櫃無紙化，臺中港、高雄港雙港加速智慧港口數位轉型",
-        "ETtoday：高雄港匯入貨櫃交領單數位化服務　攜港區業者推動智慧港口發展"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "從AI航運安管到貨櫃無紙化，臺中港、高雄港雙港加速智慧港口數位轉型",
-          "url": "https://www.ithome.com.tw/news/180666"
-        },
-        {
-          "source": "ETtoday",
-          "title": "高雄港匯入貨櫃交領單數位化服務　攜港區業者推動智慧港口發展",
-          "url": "https://finance.ettoday.net/news/3275210"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "快訊》臺南千萬超跑陷火海！ BMW i8慘遭烈焰吞噬- 社會",
       "summary": [
         "中時新聞：快訊》臺南千萬超跑陷火海！ BMW i8慘遭烈焰吞噬- 社會",
@@ -176,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
       "summary": [
         "經濟日報：傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
@@ -197,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "租金補貼有望再加碼？內政部選後會同地方討論 容積獎勵也將納入檢討",
       "summary": [
         "財訊：租金補貼有望再加碼？內政部選後會同地方討論 容積獎勵也將納入檢討",
@@ -214,6 +205,27 @@
           "source": "ETtoday",
           "title": "租金補貼有望上調？內政部：將依物價狀況檢討是否調整",
           "url": "https://www.ettoday.net/news/20261119/3275189.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Anthropic 創紀錄 IPO 的贏家：風投持股數百億美元 科技巨頭穩居大股東",
+      "summary": [
+        "經濟日報：Anthropic 創紀錄 IPO 的贏家：風投持股數百億美元 科技巨頭穩居大股東",
+        "工商時報：Anthropic IPO造富數千名員工晉升百萬富豪- 國際"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "Anthropic 創紀錄 IPO 的贏家：風投持股數百億美元 科技巨頭穩居大股東",
+          "url": "https://money.udn.com/money/story/123398/9888429"
+        },
+        {
+          "source": "工商時報",
+          "title": "Anthropic IPO造富數千名員工晉升百萬富豪- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JVnplcnBBM0lHeVVCMzdCeTN4SlFpLWVBQXY5S21aY1JicS16VEI4YVRjdGdhQVNoa3RGa2pjc1BkbE8xMGEyWE5Eekh3TEtvR293UV8yd1VCcFNIMGF3?oc=5"
         }
       ]
     }
@@ -248,33 +260,6 @@
     },
     {
       "rank": 2,
-      "title": "川普、習近平和普丁舉行歷史性三邊會晤",
-      "summary": [
-        "Nikkei Asia：川普、習近平和普丁舉行歷史性三邊會晤",
-        "Bloomberg Markets：川普、習近平和普丁舉行史無前例的三邊會晤",
-        "Financial Times：川普、普丁和習近平舉行歷史性三邊會議"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "川普、習近平和普丁舉行歷史性三邊會晤",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTJueXQzUnBhdGdGQm5sNlkwaXFkUDI2NU9QOTdwNUlMcnpRM3RFOUg0a251UUxyZmhJUENQenFYSjRvN3o1Rmw3RUN0enVwMWJuMVo2azFWTkZveVl4WmZ4Nm9COGRES0lvdjc3SVNQWVlpZVdMZTlCWHFyTFkxc0tOVTlIbGNscmRfbERUSF9OYTU5T3NqVnFDdXJXeTVoVFFveVZBZ0VDU0tXUjhCdWxBWQ?oc=5"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "川普、習近平和普丁舉行史無前例的三邊會晤",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/trump-xi-and-putin-hold-unprecedented-trilateral-talks-video"
-        },
-        {
-          "source": "Financial Times",
-          "title": "川普、普丁和習近平舉行歷史性三邊會議",
-          "url": "https://www.ft.com/content/3ab490ea-825a-4ef4-9239-a2905d7f7f3c?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "關於 Anthropic 破紀錄的 IPO 需要了解什麼",
       "summary": [
         "WSJ Markets：關於 Anthropic 破紀錄的 IPO 需要了解什麼",
@@ -301,7 +286,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "人為 IPO 讓股市多頭夢想年底反彈",
       "summary": [
         "Bloomberg Markets：人為 IPO 讓股市多頭夢想年底反彈",
@@ -328,7 +313,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "AMD因賣空者報告涉嫌中國業務而下跌",
       "summary": [
         "CNBC：AMD因賣空者報告涉嫌中國業務而下跌",
@@ -355,7 +340,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "讓 Google Gemini 能夠為您使用 Mac",
       "summary": [
         "TechCrunch：讓 Google Gemini 能夠為您使用 Mac",
@@ -382,7 +367,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
       "summary": [
         "Bloomberg Tech：Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
@@ -409,28 +394,28 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "中國人工智慧熱潮期間阿里巴巴收入超乎預期",
+      "rank": 7,
+      "title": "川普、習近平和普丁舉行史無前例的三邊會晤",
       "summary": [
-        "Bloomberg Tech：中國人工智慧熱潮期間阿里巴巴收入超乎預期",
-        "Yahoo Finance：中國人工智慧熱潮期間阿里巴巴收入超乎預期"
+        "Bloomberg Markets：川普、習近平和普丁舉行史無前例的三邊會晤",
+        "Financial Times：川普、普丁和習近平舉行歷史性三邊會議"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "中國人工智慧熱潮期間阿里巴巴收入超乎預期",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-19/alibaba-s-revenue-beats-estimates-during-china-s-ai-boom"
+          "source": "Bloomberg Markets",
+          "title": "川普、習近平和普丁舉行史無前例的三邊會晤",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/trump-xi-and-putin-hold-unprecedented-trilateral-talks-video"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "中國人工智慧熱潮期間阿里巴巴收入超乎預期",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZnhzZ1FXSlRKX2c0blFkNEluY1JXMG1WQjR0am5wR2ItSUhaajd3V3lsdExzeHUwODNCcVExYnZNZ0NCNEVEallnUlNnWFV0X2dnTGRVc2ZJeDRBZ3NjNFR4NVRhS2QwWlBUem1XQmtMSEVxYzNTbjJodHplMmdMR0RWNUVnc1BjUGZUcDYwb080Y3BrYU5GSHEwYkFkSGdqZ3RjYg?oc=5"
+          "source": "Financial Times",
+          "title": "川普、普丁和習近平舉行歷史性三邊會議",
+          "url": "https://www.ft.com/content/3ab490ea-825a-4ef4-9239-a2905d7f7f3c?syn-25a6b1a6=1"
         }
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
       "summary": [
         "Financial Times：Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
@@ -451,7 +436,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "川普、習近平和普丁舉行「開創性」中國峰會",
       "summary": [
         "Bloomberg Tech：川普、習近平和普丁舉行「開創性」中國峰會",
@@ -468,6 +453,27 @@
           "source": "Financial Times",
           "title": "習近平、川普和普丁歡呼「開創性」會晤",
           "url": "https://www.ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Anthropic 破紀錄的 IPO 凸顯了這家人工智慧巨頭最大的敵人——它自己",
+      "summary": [
+        "Wired：Anthropic 破紀錄的 IPO 凸顯了這家人工智慧巨頭最大的敵人——它自己",
+        "The Verge：有史以來最大的 IPO，Anthropic 的「好人」聲譽岌岌可危"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Wired",
+          "title": "Anthropic 破紀錄的 IPO 凸顯了這家人工智慧巨頭最大的敵人——它自己",
+          "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/"
+        },
+        {
+          "source": "The Verge",
+          "title": "有史以來最大的 IPO，Anthropic 的「好人」聲譽岌岌可危",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure"
         }
       ]
     }
