@@ -1,77 +1,35 @@
 {
-  "updated_at": "2026-11-19 21:56",
+  "updated_at": "2026-11-19 22:27",
   "taiwan": [
     {
       "rank": 1,
-      "title": "曾持棒毆3學弟！徐基麟傳赴廈門教少棒　中國新規須查暴力紀錄",
+      "title": "臺南市長選戰聚焦烏山頭光電謝龍介與陳亭妃隔空交鋒｜20261118 公視午間新聞｜ 公視新聞PNN",
       "summary": [
-        "ETtoday：曾持棒毆3學弟！徐基麟傳赴廈門教少棒　中國新規須查暴力紀錄",
-        "TVBS新聞：快訊／高雄東光國小火災竄濃煙！師生急撤操場避難",
-        "自由時報：涉轉貼AI變造沈伯洋選舉公報 傅崐萁辦公室執行長赴北檢複訊"
+        "公視新聞：臺南市長選戰聚焦烏山頭光電謝龍介與陳亭妃隔空交鋒｜20261118 公視午間新聞｜ 公視新聞PNN",
+        "自由時報：最狂打臉！秀各水庫檔案驚見韓國瑜名 黃偉哲：蔣市長有看到？",
+        "ETtoday：快訊／傅崐萁辦公室執行長遭帶走　PO變造沈柏洋選舉公報被移送"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "曾持棒毆3學弟！徐基麟傳赴廈門教少棒　中國新規須查暴力紀錄",
-          "url": "https://sports.ettoday.net/news/3274708"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "快訊／高雄東光國小火災竄濃煙！師生急撤操場避難",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yN013bkc4amtvX20xbk1TZVRsLUx5UEM3TkdSbkdOd3FBOEg0c2RoR3hMYmZzQzlvNzRVVVBOMjNYNW5zdGFXeDc4WXNQLVk?oc=5"
+          "source": "公視新聞",
+          "title": "臺南市長選戰聚焦烏山頭光電謝龍介與陳亭妃隔空交鋒｜20261118 公視午間新聞｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JQXFoa0VudmVaUVlzblZNeGNscnVjc1o3VFZNcEE1amRrTVZveDNHN09YVU85akdxWjZyd1RZM09ZR2dSeDVqdExlaw?oc=5"
         },
         {
           "source": "自由時報",
-          "title": "涉轉貼AI變造沈伯洋選舉公報 傅崐萁辦公室執行長赴北檢複訊",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5646215"
+          "title": "最狂打臉！秀各水庫檔案驚見韓國瑜名 黃偉哲：蔣市長有看到？",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5646098"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／傅崐萁辦公室執行長遭帶走　PO變造沈柏洋選舉公報被移送",
+          "url": "https://www.ettoday.net/news/20261119/3274873.htm"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "臺股再暴跌逾1400點摜破年線！12檔千金股跌停",
-      "summary": [
-        "自由時報：臺股再暴跌逾1400點摜破年線！12檔千金股跌停",
-        "ETtoday：股王信驊倒地1張賠97萬！千金股14檔跌停　3檔脫隊"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "臺股再暴跌逾1400點摜破年線！12檔千金股跌停",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5645880"
-        },
-        {
-          "source": "ETtoday",
-          "title": "股王信驊倒地1張賠97萬！千金股14檔跌停　3檔脫隊",
-          "url": "https://finance.ettoday.net/news/3274717"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "冷氣團南下全臺有感！賈新興揭低溫時刻：南北最冷時間差1天",
-      "summary": [
-        "自由時報：冷氣團南下全臺有感！賈新興揭低溫時刻：南北最冷時間差1天",
-        "風傳媒：明天的天氣／全臺變天斷崖式降溫！「低溫下探11度、降雨轉濕涼」， 最冷時間曝光"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "冷氣團南下全臺有感！賈新興揭低溫時刻：南北最冷時間差1天",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5645836"
-        },
-        {
-          "source": "風傳媒",
-          "title": "明天的天氣／全臺變天斷崖式降溫！「低溫下探11度、降雨轉濕涼」， 最冷時間曝光",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54cUxhZnE2aHdRMkJRVzNiS3ZhVnczdjJlNTFTVVU4N1JLR1VPcVVJbUVwTWVBZDI0Wm5oaV9DRzdwTWwxeTZJS3ZDVk44ZHRH?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "史上最大IPO！ Anthropic募資813億美元超越SpaceX紀錄",
       "summary": [
         "自由時報：史上最大IPO！ Anthropic募資813億美元超越SpaceX紀錄",
@@ -92,7 +50,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "AI 旺  臺灣主要 IT 廠營收暴增 5 成、首破 3 兆、創史高",
       "summary": [
         "科技新報：AI 旺  臺灣主要 IT 廠營收暴增 5 成、首破 3 兆、創史高",
@@ -113,7 +71,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "輝達代理 CEO 試圖穩軍心股價仍跌  艾克曼轟董事會",
       "summary": [
         "科技新報：輝達代理 CEO 試圖穩軍心股價仍跌  艾克曼轟董事會",
@@ -134,7 +92,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "川普暗示考慮出售輝達Blackwell晶片！中國要等多久 答案曝光",
       "summary": [
         "自由時報：川普暗示考慮出售輝達Blackwell晶片！中國要等多久 答案曝光",
@@ -155,7 +113,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "黃仁勳閃辭掀風暴  微軟：客戶更想找輝達替代品",
       "summary": [
         "科技新報：黃仁勳閃辭掀風暴  微軟：客戶更想找輝達替代品",
@@ -176,7 +134,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "傳微軟向位元組跳動洽售 AI 服務  引 OpenAI 不滿",
       "summary": [
         "科技新報：傳微軟向位元組跳動洽售 AI 服務  引 OpenAI 不滿",
@@ -197,7 +155,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "英特爾 18A 製程重大突破  終於拿到首家外部客戶",
       "summary": [
         "科技新報：英特爾 18A 製程重大突破  終於拿到首家外部客戶",
@@ -216,6 +174,48 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVhDYXVYZW1pT2Q5NHV2eTZMZjdudkJnd1IyVWwtc0k4Z3BTOURqTEVDVXBxNGUyZmVGQzlTaTktQXZTS3Zaa0ZTanc2TzJJV01ZNHhtbl9PeGtZeXYyQ3UwbHEtaUtiQ3Q2RjN0ZjItOUgyUXBSbE40bkc2S24xaW1zOTBNQjRzaXI4V1FhUFlNQQ?oc=5"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "Target Q3業績超預期 今年股價狂飆近70%",
+      "summary": [
+        "MoneyDJ理財網：Target Q3業績超預期 今年股價狂飆近70%",
+        "科技新報：Target Q3 業績超預期  今年股價狂飆近 70%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "Target Q3業績超預期 今年股價狂飆近70%",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVFhWGtWLW1TZndIdDJ3TklNcmU5Q0o1VE1lZFA5dngtR3FwcGd1X3VOckw3RENHdlYzWDF0cHJxOXBpMzBYOWRYb3dnVmgwTXVRek9EWl8ybk1GWVFNV3RMWmF2cks4UWxEa2dlVW1pUDJYRnlDRmpSQWJ4YXRMTlc3YmEtbVEtQTNjTkZHVGR4dw?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "Target Q3 業績超預期  今年股價狂飆近 70%",
+          "url": "https://finance.technews.tw/2026/11/19/target-q3-earnings-beat-expectations/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "高市早苗APEC二度與習近平握手 日中互動受矚目",
+      "summary": [
+        "自由時報：高市早苗APEC二度與習近平握手 日中互動受矚目",
+        "經濟日報：高市早苗連2天與習近平握手　訪中行程遭中國官媒冷處理"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "高市早苗APEC二度與習近平握手 日中互動受矚目",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5646079"
+        },
+        {
+          "source": "經濟日報",
+          "title": "高市早苗連2天與習近平握手　訪中行程遭中國官媒冷處理",
+          "url": "https://money.udn.com/money/story/5599/9888770"
+        }
+      ]
     }
   ],
   "global": [
@@ -227,7 +227,7 @@
         "Bloomberg Markets：川普、習近平和普丁在亞太經合組織峰會上舉行會談",
         "Nikkei Asia：川普、習近平和普丁舉行歷史性三邊會晤"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "CNBC",
@@ -243,6 +243,11 @@
           "source": "Nikkei Asia",
           "title": "川普、習近平和普丁舉行歷史性三邊會晤",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTJueXQzUnBhdGdGQm5sNlkwaXFkUDI2NU9QOTdwNUlMcnpRM3RFOUg0a251UUxyZmhJUENQenFYSjRvN3o1Rmw3RUN0enVwMWJuMVo2azFWTkZveVl4WmZ4Nm9COGRES0lvdjc3SVNQWVlpZVdMZTlCWHFyTFkxc0tOVTlIbGNscmRfbERUSF9OYTU5T3NqVnFDdXJXeTVoVFFveVZBZ0VDU0tXUjhCdWxBWQ?oc=5"
+        },
+        {
+          "source": "Financial Times",
+          "title": "川普、普丁和習近平舉行歷史性三邊會議",
+          "url": "https://www.ft.com/content/3ab490ea-825a-4ef4-9239-a2905d7f7f3c?syn-25a6b1a6=1"
         }
       ]
     },
@@ -275,27 +280,6 @@
     },
     {
       "rank": 3,
-      "title": "華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
-      "summary": [
-        "WSJ Markets：華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
-        "Investing.com：根據《華爾街日報》報道，華爾街向 Nvidia 承諾的 5,000 億美元資金尚未落實"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "WSJ Markets",
-          "title": "華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
-          "url": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276?mod=rss_markets_main"
-        },
-        {
-          "source": "Investing.com",
-          "title": "根據《華爾街日報》報道，華爾街向 Nvidia 承諾的 5,000 億美元資金尚未落實",
-          "url": "https://www.investing.com/news/stock-market-news/wall-sts-500-bln-pledge-to-nvidia-yet-to-be-mobilized-wsj-reports-5037693"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "習近平承諾為APEC合作提供2000萬美元",
       "summary": [
         "Bloomberg Markets：習近平承諾為APEC合作提供2000萬美元",
@@ -316,7 +300,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
       "summary": [
         "Financial Times：德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
@@ -337,7 +321,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
       "summary": [
         "Investing.com：違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
@@ -358,7 +342,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "聯合信貸銀行與德國就商業銀行收購條款達成協議",
       "summary": [
         "Investing.com：聯合信貸銀行與德國就商業銀行收購條款達成協議",
@@ -379,7 +363,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "世界迎來了人工智慧的繁榮。現在很多人都後悔了。",
       "summary": [
         "Washington Post：世界迎來了人工智慧的繁榮。現在很多人都後悔了。",
@@ -400,7 +384,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Anthropic 將 IPO 定價為每股 83 美元，籌集 813 億美元，創下有史以來最大的上市規模",
       "summary": [
         "Yahoo Finance：Anthropic 將 IPO 定價為每股 83 美元，籌集 813 億美元，創下有史以來最大的上市規模",
@@ -421,7 +405,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Anthropic IPO 重振人工智慧交易，歐洲股市反彈",
       "summary": [
         "Bloomberg Tech：Anthropic IPO 重振人工智慧交易，歐洲股市反彈",
@@ -438,6 +422,27 @@
           "source": "WSJ Markets",
           "title": "Anthropic 今日 IPO：人工智慧巨擘準備開始高風險發行交易",
           "url": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "烏克蘭本週內第三次襲擊克里米亞大橋 導致鐵路交通中斷",
+      "summary": [
+        "法廣RFI：烏克蘭本週內第三次襲擊克里米亞大橋 導致鐵路交通中斷",
+        "德國之聲：烏克蘭一週內三次襲擊克里米亞大橋 鐵路運輸中斷"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "烏克蘭本週內第三次襲擊克里米亞大橋 導致鐵路交通中斷",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261119-%E7%83%8F%E5%85%8B%E8%98%AD%E6%9C%AC%E5%91%A8%E5%85%A7%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%A5%B2%E6%93%8A%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9E%E5%A4%A7%E6%A9%8B-%E5%B0%8E%E8%87%B4%E9%90%B5%E8%B7%AF%E4%BA%A4%E9%80%9A%E4%B8%AD%E6%96%B7"
+        },
+        {
+          "source": "德國之聲",
+          "title": "烏克蘭一週內三次襲擊克里米亞大橋 鐵路運輸中斷",
+          "url": "https://www.dw.com/zh/乌克兰一周内三次袭击克里米亚大桥-铁路运输中断/a-79988821?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     }
