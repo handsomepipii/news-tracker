@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 17:26",
+  "updated_at": "2026-11-19 17:56",
   "taiwan": [
     {
       "rank": 1,
@@ -227,29 +227,14 @@
   "global": [
     {
       "rank": 1,
-      "title": "預計，Anthropic的IPO定價為83美元",
+      "title": "據報道，Anthropic 將 IPO 定價為每股 83 美元，高於預期範圍",
       "summary": [
-        "Bloomberg Tech：預計，Anthropic的IPO定價為83美元",
-        "WSJ Markets：由於需求旺盛，Anthropic 將 IPO 定價為每股 83 美元",
-        "Investing.com：訊息人士稱，Anthropic 將 IPO 定價為每股 83 美元"
+        "TechCrunch：據報道，Anthropic 將 IPO 定價為每股 83 美元，高於預期範圍",
+        "Financial Times：Anthropic將重磅IPO定價為83美元",
+        "Yahoo Finance：Anthropic 將 IPO 定價為每股 83 美元，籌集 813 億美元，創下有史以來最大的上市規模"
       ],
-      "media_count": 5,
+      "media_count": 4,
       "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "預計，Anthropic的IPO定價為83美元",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-18/anthropic-is-said-to-price-ipo-at-83-per-share-video"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "由於需求旺盛，Anthropic 將 IPO 定價為每股 83 美元",
-          "url": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c?mod=rss_markets_main"
-        },
-        {
-          "source": "Investing.com",
-          "title": "訊息人士稱，Anthropic 將 IPO 定價為每股 83 美元",
-          "url": "https://www.investing.com/news/stock-market-news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-5037110"
-        },
         {
           "source": "TechCrunch",
           "title": "據報道，Anthropic 將 IPO 定價為每股 83 美元，高於預期範圍",
@@ -259,6 +244,16 @@
           "source": "Financial Times",
           "title": "Anthropic將重磅IPO定價為83美元",
           "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Anthropic 將 IPO 定價為每股 83 美元，籌集 813 億美元，創下有史以來最大的上市規模",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWTRzdzdXSnVuVzNPNjB5TUs1WjFxcm9YS1B6SWxUc1kzWnNlLW9Ka1ppVDZtVXd2U0w4Zlh2bHVOTHBMRHlpNURoVmlfaG9JM0pGNnV3U2NxWF9GVHNxSmR2ekhQOUxMTVVoQ3R4Snc4WHpsZ0VkSVVsVmttVnFrSHV3U3lsMmhVdkhLcV9WU0djbV9wVDk3ckR3?oc=5"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Anthropic將IPO定價為83美元",
+          "url": "https://www.investing.com/news/stock-market-news/anthropic-prices-ipo-at-83-per-share-432SI-5037977"
         }
       ]
     },
