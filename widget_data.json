@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 08:57",
+  "updated_at": "2026-11-19 09:26",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
+      "summary": [
+        "經濟日報：美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
+        "自由時報：美政府報告：中國尋求取得輝達先進晶片 用於AI武器",
+        "科技新報：美政府報告：中國尋求取得輝達先進晶片，用於 AI 武器"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
+          "url": "https://money.udn.com/money/story/5599/9887559"
+        },
+        {
+          "source": "自由時報",
+          "title": "美政府報告：中國尋求取得輝達先進晶片 用於AI武器",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645643"
+        },
+        {
+          "source": "科技新報",
+          "title": "美政府報告：中國尋求取得輝達先進晶片，用於 AI 武器",
+          "url": "https://technews.tw/2026/11/19/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "克宮：普丁與川普將於APEC場邊會晤　未安排全面談判",
       "summary": [
         "自由時報：克宮：普丁與川普將於APEC場邊會晤　未安排全面談判",
@@ -56,7 +83,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "民主黨提名傑福瑞斯 可望成美國史上首位非裔眾院議長",
       "summary": [
         "自由時報：民主黨提名傑福瑞斯 可望成美國史上首位非裔眾院議長",
@@ -77,44 +104,23 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "BTS現身六合夜市掀「貪吃蛇人龍」 V金泰亨買香腸萌秀中文：好吃嗎？",
-      "summary": [
-        "自由時報：BTS現身六合夜市掀「貪吃蛇人龍」 V金泰亨買香腸萌秀中文：好吃嗎？",
-        "TVBS新聞：BTS逛六合夜市「射氣球、吃香腸」V中文問:好吃嗎?｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "BTS現身六合夜市掀「貪吃蛇人龍」 V金泰亨買香腸萌秀中文：好吃嗎？",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5645575"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "BTS逛六合夜市「射氣球、吃香腸」V中文問:好吃嗎?｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DMHBqZ0pzQVo1dDgtNlJwWlA3V0szM1g4MUVBWGhKRWxpS0VxUWxGS1FhWlNoWk9GaDVzdE5pemJCVHpvRlFySjdVaE85bkhEbl9RNE5n?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
+      "title": "劍橋辭典2026代表字human AI焦慮促納FOBO新詞",
       "summary": [
-        "經濟日報：美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
-        "自由時報：美政府報告：中國尋求取得輝達先進晶片 用於AI武器"
+        "經濟日報：劍橋辭典2026代表字human AI焦慮促納FOBO新詞",
+        "科技新報：劍橋辭典 2026 代表字 human，AI 焦慮促納 FOBO 新詞"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "經濟日報",
-          "title": "美政府報告：中國尋求取得輝達先進晶片　用於AI武器",
-          "url": "https://money.udn.com/money/story/5599/9887559"
+          "title": "劍橋辭典2026代表字human AI焦慮促納FOBO新詞",
+          "url": "https://money.udn.com/money/story/5599/9887503"
         },
         {
-          "source": "自由時報",
-          "title": "美政府報告：中國尋求取得輝達先進晶片 用於AI武器",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645643"
+          "source": "科技新報",
+          "title": "劍橋辭典 2026 代表字 human，AI 焦慮促納 FOBO 新詞",
+          "url": "https://technews.tw/2026/11/19/cambridge-dictionary-word-of-the-year-2026-is-human/"
         }
       ]
     },
@@ -291,27 +297,6 @@
     },
     {
       "rank": 3,
-      "title": "美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
-      "summary": [
-        "Financial Times：美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
-        "Investing.com：專家表示，人工智慧時代的補丁可能是一些重大技術中斷的原因"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "美國科技中斷歸咎於急於修復人工智慧發現的錯誤",
-          "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Investing.com",
-          "title": "專家表示，人工智慧時代的補丁可能是一些重大技術中斷的原因",
-          "url": "https://www.investing.com/news/stock-market-news/patching-in-the-ai-age-may-underlie-some-of-the-major-tech-outages-experts-say-5036726"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "據報道，NVIDIA GPU 驅動程式每小時向 SSD 寫入高達 30GB 的資料，與 AMD 最近的驅動程式錯誤相呼應",
       "summary": [
         "Wccftech：據報道，NVIDIA GPU 驅動程式每小時向 SSD 寫入高達 30GB 的資料，與 AMD 最近的驅動程式錯誤相呼應",
@@ -332,7 +317,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "特朗普政府考慮強制美企披露中國AI使用情況",
       "summary": [
         "德國之聲：特朗普政府考慮強制美企披露中國AI使用情況",
@@ -353,7 +338,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "威爾·賴特 (Will Wright) 的下一款遊戲將使用人工智慧來繪製你的記憶",
       "summary": [
         "The Verge：威爾·賴特 (Will Wright) 的下一款遊戲將使用人工智慧來繪製你的記憶",
@@ -374,7 +359,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "為什麼 Anthropic 的 IPO 可能成為投資者的陷阱",
       "summary": [
         "Yahoo Finance：為什麼 Anthropic 的 IPO 可能成為投資者的陷阱",
@@ -395,7 +380,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "哈基姆·傑弗里斯被提名為美國眾議院議長",
       "summary": [
         "BBC World：哈基姆·傑弗里斯被提名為美國眾議院議長",
@@ -416,7 +401,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "黃仁勳表示，儘管董事會反對，他仍「很榮幸」重新擔任 Nvidia 執行長",
       "summary": [
         "Yahoo Finance：黃仁勳表示，儘管董事會反對，他仍「很榮幸」重新擔任 Nvidia 執行長",
@@ -437,7 +422,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "歐盟向烏克蘭追加超7兆日圓貸款 使其在和談中佔據優勢",
       "summary": [
         "NHK新聞：歐盟向烏克蘭追加超7兆日圓貸款 使其在和談中佔據優勢",
@@ -454,6 +439,27 @@
           "source": "法廣RFI",
           "title": "為填補烏克蘭預算缺口，歐盟提議由各成員國向烏克蘭提供一筆額外的450億歐元貸款",
           "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261118-%E7%82%BA%E5%A1%AB%E8%A3%9C%E7%83%8F%E5%85%8B%E8%98%AD%E9%A0%90%E7%AE%97%E7%BC%BA%E5%8F%A3%EF%BC%8C%E6%AD%90%E7%9B%9F%E6%8F%90%E8%AD%B0%E7%94%B1%E5%90%84%E6%88%90%E5%93%A1%E5%9C%8B%E5%90%91%E7%83%8F%E5%85%8B%E8%98%AD%E6%8F%90%E4%BE%9B%E4%B8%80%E7%AD%86%E9%A1%8D%E5%A4%96%E7%9A%84450%E5%84%84%E6%AD%90%E5%85%83%E8%B2%B8%E6%AC%BE"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "在地緣政治緊張局勢中，福特開始使用中國技術在美國生產電池",
+      "summary": [
+        "CNBC：在地緣政治緊張局勢中，福特開始使用中國技術在美國生產電池",
+        "Investing.com：福特開始利用中國技術在美國生產電動車電池"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "在地緣政治緊張局勢中，福特開始使用中國技術在美國生產電池",
+          "url": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "福特開始利用中國技術在美國生產電動車電池",
+          "url": "https://www.investing.com/news/stock-market-news/ford-begins-ev-battery-cell-production-in-the-us-with-chinas-tech-5036780"
         }
       ]
     }
