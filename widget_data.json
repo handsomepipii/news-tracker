@@ -1,40 +1,8 @@
 {
-  "updated_at": "2026-11-19 14:56",
+  "updated_at": "2026-11-19 15:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "臺數科、鑫傳第三季獲利齊揚- 日報",
-      "summary": [
-        "工商時報：臺數科、鑫傳第三季獲利齊揚- 日報",
-        "ETtoday：曾持棒毆3學弟！徐基麟傳赴廈門教少棒　中國新規須查暴力紀錄",
-        "自由時報：涉轉貼AI變造沈伯洋選舉公報 傅崐萁辦公室執行長赴北檢複訊"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "臺數科、鑫傳第三季獲利齊揚- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iamhDSFBDbm9ZR3hhdUY4cXpJUzdtUmJqejZnakVOcW1aSlhZZzlVa1pWUzlOdi1Ba0lNZTJ3NnQ0WE1fMjBDeFdrTTZRNWxETldqanpWRjZfTERQajZN?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "曾持棒毆3學弟！徐基麟傳赴廈門教少棒　中國新規須查暴力紀錄",
-          "url": "https://sports.ettoday.net/news/3274708"
-        },
-        {
-          "source": "自由時報",
-          "title": "涉轉貼AI變造沈伯洋選舉公報 傅崐萁辦公室執行長赴北檢複訊",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5646215"
-        },
-        {
-          "source": "經濟日報",
-          "title": "新宿京王百貨「臺灣夜市」熱鬧登場　雞排、蝦仁煎飄香",
-          "url": "https://money.udn.com/money/story/5599/9889068"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "超 SpaceX 初始 IPO 募資額！Anthropic 定價83美元高於區間 估值1.5兆美元",
       "summary": [
         "經濟日報：超 SpaceX 初始 IPO 募資額！Anthropic 定價83美元高於區間 估值1.5兆美元",
@@ -61,91 +29,34 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "美國會報告：中國結合多重手段　加大對臺施壓",
+      "rank": 2,
+      "title": "艋舺青山宮參香 徐國勇沈伯洋出席｜LIVE",
       "summary": [
-        "自由時報：美國會報告：中國結合多重手段　加大對臺施壓",
-        "經濟日報：美國會報告：中國結合多重手段　加大對臺施壓"
+        "TVBS新聞：艋舺青山宮參香 徐國勇沈伯洋出席｜LIVE",
+        "ETtoday：曾持棒毆3學弟！徐基麟傳赴廈門教少棒　中國新規須查暴力紀錄",
+        "自由時報：涉轉貼AI變造沈伯洋選舉公報 傅崐萁辦公室執行長赴北檢複訊"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
-        {
-          "source": "自由時報",
-          "title": "美國會報告：中國結合多重手段　加大對臺施壓",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645698"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美國會報告：中國結合多重手段　加大對臺施壓",
-          "url": "https://money.udn.com/money/story/5599/9887823"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長",
-      "summary": [
-        "自由時報：傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長",
-        "經濟日報：傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645696"
-        },
-        {
-          "source": "經濟日報",
-          "title": "傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長",
-          "url": "https://money.udn.com/money/story/5599/9887819"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "《臺北時報》 臺灣關注美中俄會談",
-      "summary": [
-        "自由時報：《臺北時報》 臺灣關注美中俄會談",
-        "TVBS新聞：美中俄今歷史性會談! 普欽「核手提箱」曝光｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "《臺北時報》 臺灣關注美中俄會談",
-          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5645634"
-        },
         {
           "source": "TVBS新聞",
-          "title": "美中俄今歷史性會談! 普欽「核手提箱」曝光｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wOFJJbzlZNG5aR1pXV3JEaWhubkRkNFpZMUlrNnRZME1Zai0xZjZVdmQ5X2R5aGN0S195NGNRdGdFcjRYcENWVElIWXdfUzVSTldqQ2x3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "印尼｜央行意外升息 存放款利率均上調1碼",
-      "summary": [
-        "工商時報：印尼｜央行意外升息 存放款利率均上調1碼",
-        "經濟日報：印尼央行意外升息1碼"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "印尼｜央行意外升息 存放款利率均上調1碼",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YRk0xcV94T2lTRHpMZjl4YmFETlJiT2tMZmFINHBvVGgzNk04NFY5LXJ4RHgyRmtNNkpyZ292MVZPQkxDdmZ3RE9KbUg4ZGVSSXJJSmNYbUJxTlpoekJv?oc=5"
+          "title": "艋舺青山宮參香 徐國勇沈伯洋出席｜LIVE",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EN3VxcUpxTE9WdUVyeWFOQTVPdjA3TjFQRGg2M3JmeVkwdXVnLTQ5amExczdNamRaU2dxUWkyVW9HSUpSbjFFc0diQkVqM01Idl9uTDJ3?oc=5"
         },
         {
-          "source": "經濟日報",
-          "title": "印尼央行意外升息1碼",
-          "url": "https://money.udn.com/money/story/5599/9887660"
+          "source": "ETtoday",
+          "title": "曾持棒毆3學弟！徐基麟傳赴廈門教少棒　中國新規須查暴力紀錄",
+          "url": "https://sports.ettoday.net/news/3274708"
+        },
+        {
+          "source": "自由時報",
+          "title": "涉轉貼AI變造沈伯洋選舉公報 傅崐萁辦公室執行長赴北檢複訊",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5646215"
         }
       ]
     },
     {
-      "rank": 7,
+      "rank": 3,
       "title": "AI 投資降溫...華爾街預估明年企業獲利成長恐砍半",
       "summary": [
         "經濟日報：AI 投資降溫...華爾街預估明年企業獲利成長恐砍半",
@@ -166,7 +77,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
       "title": "珍珠港事件倖存者嘉勒辭世享嵩壽105歲　曾抗命勇救同袍",
       "summary": [
         "自由時報：珍珠港事件倖存者嘉勒辭世享嵩壽105歲　曾抗命勇救同袍",
@@ -187,7 +98,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "市場評估輝達財報及聯準會紀要　美股收盤互有漲跌",
       "summary": [
         "自由時報：市場評估輝達財報及聯準會紀要　美股收盤互有漲跌",
@@ -208,7 +119,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "微軟傳洽售AI服務給位元組跳動　美眾院委員會要查",
       "summary": [
         "自由時報：微軟傳洽售AI服務給位元組跳動　美眾院委員會要查",
@@ -225,6 +136,90 @@
           "source": "經濟日報",
           "title": "微軟傳洽售AI服務給位元組跳動　美眾院委員會要查",
           "url": "https://money.udn.com/money/story/5599/9887860"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "「臺灣學姐」陳竹音50萬交保　控政治追殺：立場不同民進黨就打壓",
+      "summary": [
+        "ETtoday：「臺灣學姐」陳竹音50萬交保　控政治追殺：立場不同民進黨就打壓",
+        "自由時報：曾「棄臺籍」赴中！陳竹音選新北議員涉勾結境外勢力 50萬交保"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "「臺灣學姐」陳竹音50萬交保　控政治追殺：立場不同民進黨就打壓",
+          "url": "https://www.ettoday.net/news/20261119/3274592.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "曾「棄臺籍」赴中！陳竹音選新北議員涉勾結境外勢力 50萬交保",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5645659"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "波灣局勢再起波瀾　國際油價下跌",
+      "summary": [
+        "自由時報：波灣局勢再起波瀾　國際油價下跌",
+        "經濟日報：波灣局勢再起波瀾　國際油價下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "波灣局勢再起波瀾　國際油價下跌",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5645703"
+        },
+        {
+          "source": "經濟日報",
+          "title": "波灣局勢再起波瀾　國際油價下跌",
+          "url": "https://money.udn.com/money/story/5599/9887871"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "臺裔及亞裔第一人　劉雲平獲選美眾院民主黨團主席",
+      "summary": [
+        "自由時報：臺裔及亞裔第一人　劉雲平獲選美眾院民主黨團主席",
+        "經濟日報：臺裔及亞裔第一人　劉雲平獲選美眾院民主黨團主席"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "臺裔及亞裔第一人　劉雲平獲選美眾院民主黨團主席",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645704"
+        },
+        {
+          "source": "經濟日報",
+          "title": "臺裔及亞裔第一人　劉雲平獲選美眾院民主黨團主席",
+          "url": "https://money.udn.com/money/story/5599/9887872"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "鹿港天后宮最貴光明燈 女董座連11年砸550萬包了！",
+      "summary": [
+        "自由時報：鹿港天后宮最貴光明燈 女董座連11年砸550萬包了！",
+        "ETtoday：低谷時媽祖引路！鹿港天后宮最貴光明燈　女董座連11年砸550萬"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "鹿港天后宮最貴光明燈 女董座連11年砸550萬包了！",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5645693"
+        },
+        {
+          "source": "ETtoday",
+          "title": "低谷時媽祖引路！鹿港天后宮最貴光明燈　女董座連11年砸550萬",
+          "url": "https://www.ettoday.net/news/20261119/3274695.htm"
         }
       ]
     }
@@ -395,6 +390,27 @@
     },
     {
       "rank": 8,
+      "title": "違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
+      "summary": [
+        "Investing.com：違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
+        "Financial Times：違反規則後，阿波羅計劃取消向曼城老闆提供 20 億美元貸款的計劃"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
+          "url": "https://www.investing.com/news/stock-market-news/apollo-scraps-2-bln-loan-to-man-city-owner-after-rule-breach--report-93CH-5037789"
+        },
+        {
+          "source": "Financial Times",
+          "title": "違反規則後，阿波羅計劃取消向曼城老闆提供 20 億美元貸款的計劃",
+          "url": "https://www.ft.com/content/e2cfb9c4-a642-4ca9-9e78-32afc2549d9d?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "人工智慧正在迫使企業更快地修復網路缺陷，並解決日益嚴重的中斷問題",
       "summary": [
         "Bloomberg Tech：人工智慧正在迫使企業更快地修復網路缺陷，並解決日益嚴重的中斷問題"
@@ -409,7 +425,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "高市首相與普丁總統交換意見並與習主席握手",
       "summary": [
         "NHK新聞：高市首相與普丁總統交換意見並與習主席握手"
@@ -420,21 +436,6 @@
           "source": "NHK新聞",
           "title": "高市首相與普丁總統交換意見並與習主席握手",
           "url": "https://news.web.nhk/newsweb/na/nd-20261119de78112"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在",
-      "summary": [
-        "TechCrunch：當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在",
-          "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/"
         }
       ]
     }
