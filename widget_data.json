@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 18:56",
+  "updated_at": "2026-11-19 19:26",
   "taiwan": [
     {
       "rank": 1,
@@ -162,16 +162,16 @@
     },
     {
       "rank": 8,
-      "title": "Google推出Gemini 4 Neon！主打AI推理、方案開發能力成本高效最高降低60%",
+      "title": "Google推出Gemini 4 Neon！主打AI推理、方案開發能力效率最高降低60%",
       "summary": [
-        "ETtoday：Google推出Gemini 4 Neon！主打AI推理、方案開發能力成本高效最高降低60%",
+        "ETtoday：Google推出Gemini 4 Neon！主打AI推理、方案開發能力效率最高降低60%",
         "INSIDE硬塞：Google推出Gemini 4 Neon，堪比美旗艦模型Carbon、任務成本降低32%"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "ETtoday",
-          "title": "Google推出Gemini 4 Neon！主打AI推理、方案開發能力成本高效最高降低60%",
+          "title": "Google推出Gemini 4 Neon！主打AI推理、方案開發能力效率最高降低60%",
           "url": "https://ai.ettoday.net/news/3274652"
         },
         {
@@ -227,33 +227,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "Anthropic將重磅IPO定價為83美元",
-      "summary": [
-        "Financial Times：Anthropic將重磅IPO定價為83美元",
-        "Yahoo Finance：Anthropic 將 IPO 定價為每股 83 美元，籌集 813 億美元，創下有史以來最大的上市規模",
-        "Investing.com：Anthropic將IPO定價為83美元"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "Anthropic將重磅IPO定價為83美元",
-          "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Anthropic 將 IPO 定價為每股 83 美元，籌集 813 億美元，創下有史以來最大的上市規模",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWTRzdzdXSnVuVzNPNjB5TUs1WjFxcm9YS1B6SWxUc1kzWnNlLW9Ka1ppVDZtVXd2U0w4Zlh2bHVOTHBMRHlpNURoVmlfaG9JM0pGNnV3U2NxWF9GVHNxSmR2ekhQOUxMTVVoQ3R4Snc4WHpsZ0VkSVVsVmttVnFrSHV3U3lsMmhVdkhLcV9WU0djbV9wVDk3ckR3?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Anthropic將IPO定價為83美元",
-          "url": "https://www.investing.com/news/stock-market-news/anthropic-prices-ipo-at-83-per-share-432SI-5037977"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "川普在歷史性三邊會議前分別與普丁和習近平舉行會談",
       "summary": [
         "CNBC：川普在歷史性三邊會議前分別與普丁和習近平舉行會談",
@@ -280,7 +253,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "獨家-裕信銀行與德國就收購德國商業銀行達成廣泛協議",
       "summary": [
         "Investing.com：獨家-裕信銀行與德國就收購德國商業銀行達成廣泛協議",
@@ -301,7 +274,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "李在明在APEC歡迎晚宴會見普京 談涉朝問題",
       "summary": [
         "韓聯社：李在明在APEC歡迎晚宴會見普京 談涉朝問題",
@@ -322,7 +295,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
       "summary": [
         "Bloomberg Tech：中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
@@ -343,7 +316,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
       "summary": [
         "WSJ Markets：華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
@@ -364,7 +337,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "習近平承諾為APEC合作提供2000萬美元",
       "summary": [
         "Bloomberg Markets：習近平承諾為APEC合作提供2000萬美元",
@@ -385,7 +358,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Anthropic 華麗的 IPO",
       "summary": [
         "Financial Times：Anthropic 華麗的 IPO",
@@ -406,7 +379,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
       "summary": [
         "Financial Times：德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
@@ -427,7 +400,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
       "summary": [
         "Investing.com：違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
@@ -444,6 +417,27 @@
           "source": "Financial Times",
           "title": "違反規則後，阿波羅計劃取消向曼城老闆提供 20 億美元貸款的計劃",
           "url": "https://www.ft.com/content/e2cfb9c4-a642-4ca9-9e78-32afc2549d9d?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "世界迎來了人工智慧的繁榮。現在很多人都後悔了。",
+      "summary": [
+        "Washington Post：世界迎來了人工智慧的繁榮。現在很多人都後悔了。",
+        "MarketWatch：Anthropic 推動的人工智慧技術革命的真正受益者可能會讓你大吃一驚"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "世界迎來了人工智慧的繁榮。現在很多人都後悔了。",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmdqUFBoSVBSLWN0bkV5azZKaHkyd2JEblNSaDJ6eFgzUFFYalNIYVdSRkVZZ2hLN2JUQ3pYNVRxeThNcFpKZG9uS1RHR2xfNEVRMWFUd0thaEt0MHdRSWFUaVBkNi00UzlYSGRNNnlESE5PWndjby1iU245WE11d0dsbnh4X1FfbnZldm92OWVTei1kWW5rSXExRUdVeFpBazVHRTNCNy1zOEZfbXRJMnBQZ0JCdw?oc=5"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Anthropic 推動的人工智慧技術革命的真正受益者可能會讓你大吃一驚",
+          "url": "https://www.marketwatch.com/story/the-real-beneficiary-of-the-ai-tech-revolution-fueled-by-anthropic-may-surprise-you-6fa098b2?mod=mw_rss_topstories"
         }
       ]
     }
