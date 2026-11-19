@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 23:27",
+  "updated_at": "2026-11-19 23:57",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,27 @@
     },
     {
       "rank": 2,
+      "title": "冷氣團來了溼冷到週六！最冷時間點曝 高山有望降雪",
+      "summary": [
+        "自由時報：冷氣團來了溼冷到週六！最冷時間點曝 高山有望降雪",
+        "TVBS新聞：天氣/冬衣快備好! 明北東濕冷探14度一路「凍到週末」｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "冷氣團來了溼冷到週六！最冷時間點曝 高山有望降雪",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5646748"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "天氣/冬衣快備好! 明北東濕冷探14度一路「凍到週末」｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wUUYxczZoTjFwSXF1eWlxY0hyVDZqbmtCZ1pqNXVvNlRGY0xWT3F2bHplQ3hJMzdtdTBMVnM2UzBOX19UX1lyaFZqZzAyMGg0enJZZkVR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "美中俄領袖峰會　發布和平宣言",
       "summary": [
         "經濟日報：美中俄領袖峰會　發布和平宣言",
@@ -46,27 +67,6 @@
           "source": "自由時報",
           "title": "美中俄元首峰會「締造歷史」 3國發表和平宣言",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5646985"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "輝達代理 CEO 試圖穩軍心股價仍跌  艾克曼轟董事會",
-      "summary": [
-        "科技新報：輝達代理 CEO 試圖穩軍心股價仍跌  艾克曼轟董事會",
-        "MoneyDJ理財網：輝達代理CEO試圖穩軍心股價仍跌艾克曼轟董事會- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "輝達代理 CEO 試圖穩軍心股價仍跌  艾克曼轟董事會",
-          "url": "https://finance.technews.tw/2026/11/19/bill-ackman-slams-nvidia-board-of-directors/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "輝達代理CEO試圖穩軍心股價仍跌艾克曼轟董事會- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdE1yNk1GWXRCeklzLXp6SHJmUEJHaExfeTRzM180eVQ1cVYxR1dtRTk1NWxuUVdKbXVNUDdvYVhUUndiQjBmN1RZOXhieGtCcTZNTnR4VFZlbVVBSjZvSEZDZWpyeFBONDVlVVprQ1NSdkdtSzRlNTlTcFpNbFZEZnRsZFZkV0R6MFlfMWludjlQQQ?oc=5"
         }
       ]
     },
