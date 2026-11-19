@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-19 20:27",
+  "updated_at": "2026-11-19 20:57",
   "taiwan": [
     {
       "rank": 1,
-      "title": "超 SpaceX 初始 IPO 募資額！Anthropic 定價83美元高於區間 估值1.5兆美元",
-      "summary": [
-        "經濟日報：超 SpaceX 初始 IPO 募資額！Anthropic 定價83美元高於區間 估值1.5兆美元",
-        "自由時報：史上最大IPO！ Anthropic募資813億美元超越SpaceX紀錄",
-        "數位時代：史上最大IPO頭銜易主！Anthropic募資813億美元超越SpaceX，市值達1.5兆美元"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "超 SpaceX 初始 IPO 募資額！Anthropic 定價83美元高於區間 估值1.5兆美元",
-          "url": "https://money.udn.com/money/story/123398/9887972"
-        },
-        {
-          "source": "自由時報",
-          "title": "史上最大IPO！ Anthropic募資813億美元超越SpaceX紀錄",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5645745"
-        },
-        {
-          "source": "數位時代",
-          "title": "史上最大IPO頭銜易主！Anthropic募資813億美元超越SpaceX，市值達1.5兆美元",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGNwTGdFbG92bmxXVF9HQmxtOGstekdxZzhMYU84aUNVcTVsT3Z6eF91Snp2U0htVTQ2SUEwUzU1bjdWeEp2d2xvY3hWNVlFYlI0VUlPSURWQWxIQWFrb2RwcWt4MVB5YzBUaWFIZ2NGMENjT2ZvdWJIT240VmMtTEoxMA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "艋舺青山宮參香 徐國勇沈伯洋出席｜LIVE",
       "summary": [
         "TVBS新聞：艋舺青山宮參香 徐國勇沈伯洋出席｜LIVE",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "高雄東光國小地下室火警濃煙竄出 師生緊急疏散虛驚",
       "summary": [
         "自由時報：高雄東光國小地下室火警濃煙竄出 師生緊急疏散虛驚",
@@ -77,7 +50,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "輝達安定軍心，預計提早於 12 月調薪與股權獎勵",
       "summary": [
         "科技新報：輝達安定軍心，預計提早於 12 月調薪與股權獎勵",
@@ -98,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Google推出Gemini 4 Neon！主打AI推理、方案開發能力效率最高降低60%",
       "summary": [
         "ETtoday：Google推出Gemini 4 Neon！主打AI推理、方案開發能力效率最高降低60%",
@@ -119,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "新北警交通小隊長住處墜樓亡　因病請假休養竟發生憾事",
       "summary": [
         "ETtoday：新北警交通小隊長住處墜樓亡　因病請假休養竟發生憾事",
@@ -140,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "臺股再暴跌逾1400點摜破年線！12檔千金股跌停",
       "summary": [
         "自由時報：臺股再暴跌逾1400點摜破年線！12檔千金股跌停",
@@ -161,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "冷氣團南下全臺有感！賈新興揭低溫時刻：南北最冷時間差1天",
       "summary": [
         "自由時報：冷氣團南下全臺有感！賈新興揭低溫時刻：南北最冷時間差1天",
@@ -178,6 +151,27 @@
           "source": "風傳媒",
           "title": "明天的天氣／全臺變天斷崖式降溫！「低溫下探11度、降雨轉濕涼」， 最冷時間曝光",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54cUxhZnE2aHdRMkJRVzNiS3ZhVnczdjJlNTFTVVU4N1JLR1VPcVVJbUVwTWVBZDI0Wm5oaV9DRzdwTWwxeTZJS3ZDVk44ZHRH?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "史上最大IPO！ Anthropic募資813億美元超越SpaceX紀錄",
+      "summary": [
+        "自由時報：史上最大IPO！ Anthropic募資813億美元超越SpaceX紀錄",
+        "數位時代：史上最大IPO頭銜易主！Anthropic募資813億美元超越SpaceX，市值達1.5兆美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "史上最大IPO！ Anthropic募資813億美元超越SpaceX紀錄",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5645745"
+        },
+        {
+          "source": "數位時代",
+          "title": "史上最大IPO頭銜易主！Anthropic募資813億美元超越SpaceX，市值達1.5兆美元",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGNwTGdFbG92bmxXVF9HQmxtOGstekdxZzhMYU84aUNVcTVsT3Z6eF91Snp2U0htVTQ2SUEwUzU1bjdWeEp2d2xvY3hWNVlFYlI0VUlPSURWQWxIQWFrb2RwcWt4MVB5YzBUaWFIZ2NGMENjT2ZvdWJIT240VmMtTEoxMA?oc=5"
         }
       ]
     },
