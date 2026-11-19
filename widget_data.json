@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 14:26",
+  "updated_at": "2026-11-19 14:56",
   "taiwan": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
         "ETtoday：曾持棒毆3學弟！徐基麟傳赴廈門教少棒　中國新規須查暴力紀錄",
         "自由時報：涉轉貼AI變造沈伯洋選舉公報 傅崐萁辦公室執行長赴北檢複訊"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "工商時報",
@@ -25,6 +25,11 @@
           "source": "自由時報",
           "title": "涉轉貼AI變造沈伯洋選舉公報 傅崐萁辦公室執行長赴北檢複訊",
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5646215"
+        },
+        {
+          "source": "經濟日報",
+          "title": "新宿京王百貨「臺灣夜市」熱鬧登場　雞排、蝦仁煎飄香",
+          "url": "https://money.udn.com/money/story/5599/9889068"
         }
       ]
     },
@@ -57,69 +62,6 @@
     },
     {
       "rank": 3,
-      "title": "AI產業不確定性籠罩　歐股收跌",
-      "summary": [
-        "自由時報：AI產業不確定性籠罩　歐股收跌",
-        "經濟日報：AI產業不確定性籠罩　歐股收跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "AI產業不確定性籠罩　歐股收跌",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5645687"
-        },
-        {
-          "source": "經濟日報",
-          "title": "AI產業不確定性籠罩　歐股收跌",
-          "url": "https://money.udn.com/money/story/5599/9887797"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
-      "summary": [
-        "自由時報：APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
-        "經濟日報：深圳APEC／參加第一天 施振榮已與13位領袖互動"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5645692"
-        },
-        {
-          "source": "經濟日報",
-          "title": "深圳APEC／參加第一天 施振榮已與13位領袖互動",
-          "url": "https://money.udn.com/money/story/5599/9887816"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "紐時：川普不滿範斯未力挺對伊朗開戰　私下盛讚盧比歐",
-      "summary": [
-        "自由時報：紐時：川普不滿範斯未力挺對伊朗開戰　私下盛讚盧比歐",
-        "經濟日報：紐時：川普不滿範斯未力挺對伊朗開戰　私下盛讚盧比歐"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "紐時：川普不滿範斯未力挺對伊朗開戰　私下盛讚盧比歐",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645691"
-        },
-        {
-          "source": "經濟日報",
-          "title": "紐時：川普不滿範斯未力挺對伊朗開戰　私下盛讚盧比歐",
-          "url": "https://money.udn.com/money/story/5599/9887806"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "美國會報告：中國結合多重手段　加大對臺施壓",
       "summary": [
         "自由時報：美國會報告：中國結合多重手段　加大對臺施壓",
@@ -140,7 +82,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長",
       "summary": [
         "自由時報：傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長",
@@ -161,7 +103,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "《臺北時報》 臺灣關注美中俄會談",
       "summary": [
         "自由時報：《臺北時報》 臺灣關注美中俄會談",
@@ -182,7 +124,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "印尼｜央行意外升息 存放款利率均上調1碼",
       "summary": [
         "工商時報：印尼｜央行意外升息 存放款利率均上調1碼",
@@ -203,7 +145,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "AI 投資降溫...華爾街預估明年企業獲利成長恐砍半",
       "summary": [
         "經濟日報：AI 投資降溫...華爾街預估明年企業獲利成長恐砍半",
@@ -220,6 +162,69 @@
           "source": "科技新報",
           "title": "AI 投資壓抑短期獲利，大摩降騰訊目標價",
           "url": "https://finance.technews.tw/2026/11/19/morgan-stanley-cuts-tencent-price-target/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "珍珠港事件倖存者嘉勒辭世享嵩壽105歲　曾抗命勇救同袍",
+      "summary": [
+        "自由時報：珍珠港事件倖存者嘉勒辭世享嵩壽105歲　曾抗命勇救同袍",
+        "經濟日報：珍珠港事件倖存者嘉勒辭世享嵩壽105歲　曾抗命勇救同袍"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "珍珠港事件倖存者嘉勒辭世享嵩壽105歲　曾抗命勇救同袍",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645700"
+        },
+        {
+          "source": "經濟日報",
+          "title": "珍珠港事件倖存者嘉勒辭世享嵩壽105歲　曾抗命勇救同袍",
+          "url": "https://money.udn.com/money/story/5599/9887840"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "市場評估輝達財報及聯準會紀要　美股收盤互有漲跌",
+      "summary": [
+        "自由時報：市場評估輝達財報及聯準會紀要　美股收盤互有漲跌",
+        "經濟日報：市場評估輝達財報及聯準會紀要　美股收盤互有漲跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "市場評估輝達財報及聯準會紀要　美股收盤互有漲跌",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5645702"
+        },
+        {
+          "source": "經濟日報",
+          "title": "市場評估輝達財報及聯準會紀要　美股收盤互有漲跌",
+          "url": "https://money.udn.com/money/story/123398/9887865"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "微軟傳洽售AI服務給位元組跳動　美眾院委員會要查",
+      "summary": [
+        "自由時報：微軟傳洽售AI服務給位元組跳動　美眾院委員會要查",
+        "經濟日報：微軟傳洽售AI服務給位元組跳動　美眾院委員會要查"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "微軟傳洽售AI服務給位元組跳動　美眾院委員會要查",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645701"
+        },
+        {
+          "source": "經濟日報",
+          "title": "微軟傳洽售AI服務給位元組跳動　美眾院委員會要查",
+          "url": "https://money.udn.com/money/story/5599/9887860"
         }
       ]
     }
@@ -264,27 +269,6 @@
     },
     {
       "rank": 2,
-      "title": "Nvidia 董事會招聘公司接洽 Arm 執行長雷內哈斯 (Rene Haas)",
-      "summary": [
-        "Bloomberg Tech：Nvidia 董事會招聘公司接洽 Arm 執行長雷內哈斯 (Rene Haas)",
-        "Bloomberg Markets：Nvidia 董事會招聘公司接洽 Arm 執行長哈斯"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Nvidia 董事會招聘公司接洽 Arm 執行長雷內哈斯 (Rene Haas)",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/arm-ceo-rene-haas-approached-by-nvidia-board-s-recruitment-firm"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "Nvidia 董事會招聘公司接洽 Arm 執行長哈斯",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-18/arm-ceo-approached-by-nvidia-board-s-recruitment-firm-video"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "英偉達銀行 Anthropic 指導 IPO 價格",
       "summary": [
         "Bloomberg Tech：英偉達銀行 Anthropic 指導 IPO 價格",
@@ -305,7 +289,49 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "Challenger 拒絕第一筆生命保險 44 億美元的新收購要約",
+      "summary": [
+        "Bloomberg Markets：Challenger 拒絕第一筆生命保險 44 億美元的新收購要約",
+        "Investing.com：澳洲挑戰者公司拒絕第一生命保險公司 44 億美元的收購報價，股價下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Challenger 拒絕第一筆生命保險 44 億美元的新收購要約",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/challenger-rejects-new-4-4-billion-daiichi-life-takeover-bid"
+        },
+        {
+          "source": "Investing.com",
+          "title": "澳洲挑戰者公司拒絕第一生命保險公司 44 億美元的收購報價，股價下跌",
+          "url": "https://www.investing.com/news/stock-market-news/australias-challenger-rejects-44-bln-bid-from-daiichi-life-shares-fall-5037836"
+        }
+      ]
+    },
+    {
       "rank": 4,
+      "title": "股市的暴跌已經見底了嗎？以下是這些反向指標的含義。",
+      "summary": [
+        "MarketWatch：股市的暴跌已經見底了嗎？以下是這些反向指標的含義。",
+        "Investing.com：今天聯想股價為何會暴跌？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MarketWatch",
+          "title": "股市的暴跌已經見底了嗎？以下是這些反向指標的含義。",
+          "url": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories"
+        },
+        {
+          "source": "Investing.com",
+          "title": "今天聯想股價為何會暴跌？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-lenovo-stock-tumbling-today-93CH-5037866"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
       "summary": [
         "Bloomberg Tech：中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
@@ -326,7 +352,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
       "summary": [
         "WSJ Markets：華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
@@ -347,7 +373,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
       "summary": [
         "Financial Times：德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
@@ -368,7 +394,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "人工智慧正在迫使企業更快地修復網路缺陷，並解決日益嚴重的中斷問題",
       "summary": [
         "Bloomberg Tech：人工智慧正在迫使企業更快地修復網路缺陷，並解決日益嚴重的中斷問題"
@@ -383,7 +409,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "高市首相與普丁總統交換意見並與習主席握手",
       "summary": [
         "NHK新聞：高市首相與普丁總統交換意見並與習主席握手"
@@ -398,7 +424,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在",
       "summary": [
         "TechCrunch：當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在"
@@ -409,21 +435,6 @@
           "source": "TechCrunch",
           "title": "當山姆·奧爾特曼說他的生活太奇怪了，以至於安德魯·加菲爾德在即將上映的電影中扮演他時，他並沒有意識到他的存在",
           "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "川普向習近平和普丁獻媚不會有好結果- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：川普向習近平和普丁獻媚不會有好結果- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "川普向習近平和普丁獻媚不會有好結果- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51UkEtOG9iM3BkQlp6Zms1RllwUkNMNjAzRU5zOVZUdTlJel9OVG5TTWs2Yjd2QkUzRFhXMDR3akFTbW9xVUI4S1dmNy1IdjA0Zk9tTmpGWGlIbHNtdzVSelRRSlo2dVprY1VGOXMyV1BvUXdlNEpMT1ln?oc=5"
         }
       ]
     }
