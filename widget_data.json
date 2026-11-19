@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 03:58",
+  "updated_at": "2026-11-20 04:28",
   "taiwan": [
     {
       "rank": 1,
@@ -87,69 +87,6 @@
     },
     {
       "rank": 5,
-      "title": "川普：反對會扼殺 AI 行業的監管措施，管理須謹慎",
-      "summary": [
-        "科技新報：川普：反對會扼殺 AI 行業的監管措施，管理須謹慎",
-        "MoneyDJ理財網：川普：反對會扼殺AI行業的監管措施，管理須謹慎- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "川普：反對會扼殺 AI 行業的監管措施，管理須謹慎",
-          "url": "https://technews.tw/2026/11/19/trump-opposes-regulations-stifling-ai-industry-urges-cautious-management/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "川普：反對會扼殺AI行業的監管措施，管理須謹慎- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOUlmMEwzM0owT2tQMXVIMzVNTUhVWUNwc0tEWHk1cGNOWFR0eVBjQm1FTWtQaENTeXk5MUx0dUJCXy14QmprS1VyTmFKVERUTDJ6UXZLWDRUNmpfOFBSTTJRZTVtSG80dEhQa2pRdzR6WUFWNFNubnZ5Y1R1cnpGWGFCbzBVbERnNE9rOC16WGFwdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "富邦媒mo店+發生資安事件，部分出貨資料遭未經授權存取",
-      "summary": [
-        "iThome：富邦媒mo店+發生資安事件，部分出貨資料遭未經授權存取",
-        "公開資訊觀測站重訊：富邦媒mo店+發生資安事件，部分出貨資料遭未經授權存取"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "富邦媒mo店+發生資安事件，部分出貨資料遭未經授權存取",
-          "url": "https://www.ithome.com.tw/news/180656"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "富邦媒mo店+發生資安事件，部分出貨資料遭未經授權存取",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ncm01ek9hcXdrSTBiOTkzUVpHeU9uNjlfaUlqaDktMjBXdjFodUJLX0x4ZDM3WVZGQkp0NzY3bHF4Y0hWVk1VVEsyNDVQdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "APEC記者會遭追問「臺灣有事」　高市早苗：日本立場毫無改變",
-      "summary": [
-        "經濟日報：APEC記者會遭追問「臺灣有事」　高市早苗：日本立場毫無改變",
-        "自由時報：APEC記者會被問「臺灣有事」議題  高市早苗：日本對臺立場不變"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "APEC記者會遭追問「臺灣有事」　高市早苗：日本立場毫無改變",
-          "url": "https://money.udn.com/money/story/5599/9889300"
-        },
-        {
-          "source": "自由時報",
-          "title": "APEC記者會被問「臺灣有事」議題  高市早苗：日本對臺立場不變",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5646574"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "與川普探討俄烏戰爭   克宮：普廷會後心情絕佳",
       "summary": [
         "自由時報：與川普探討俄烏戰爭   克宮：普廷會後心情絕佳",
@@ -170,7 +107,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "臺積電砸5億美元入股Anthropic  持股比例0.03％",
       "summary": [
         "自由時報：臺積電砸5億美元入股Anthropic  持股比例0.03％",
@@ -191,23 +128,86 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "出席深圳APEC 高市早苗：日本對臺灣立場1972年起不曾改變",
+      "rank": 7,
+      "title": "元太資訊系統疑遭攻擊",
       "summary": [
-        "自由時報：出席深圳APEC 高市早苗：日本對臺灣立場1972年起不曾改變",
-        "經濟日報：深圳APEC／再回應「臺灣有事」 高市早苗：對臺立場沒有變化"
+        "iThome：元太資訊系統疑遭攻擊",
+        "公開資訊觀測站重訊：元太資訊系統疑遭攻擊"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "出席深圳APEC 高市早苗：日本對臺灣立場1972年起不曾改變",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5646528"
+          "source": "iThome",
+          "title": "元太資訊系統疑遭攻擊",
+          "url": "https://www.ithome.com.tw/news/180658"
         },
         {
-          "source": "經濟日報",
-          "title": "深圳APEC／再回應「臺灣有事」 高市早苗：對臺立場沒有變化",
-          "url": "https://money.udn.com/money/story/5599/9889336"
+          "source": "公開資訊觀測站重訊",
+          "title": "元太資訊系統疑遭攻擊",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aQW52Ym1HUTJCcmJPSHE5dUItQTFjYWljU3EtVHd0ZXozZWpqYkxPLTQ1ZmhyNWZ4UVNkTVg0cDFWb0FNbmgtQWdpWDJIUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "臺中3千萬房！媽想省贈與稅「年送244萬持分」　驚人代價曝光",
+      "summary": [
+        "ETtoday：臺中3千萬房！媽想省贈與稅「年送244萬持分」　驚人代價曝光",
+        "中時新聞：媽留3千萬房想省贈與稅！年送244萬持分給兒驚人下場曝光- 生活"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "臺中3千萬房！媽想省贈與稅「年送244萬持分」　驚人代價曝光",
+          "url": "https://www.ettoday.net/news/20261119/3274950.htm"
+        },
+        {
+          "source": "中時新聞",
+          "title": "媽留3千萬房想省贈與稅！年送244萬持分給兒驚人下場曝光- 生活",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRNGlwZUJDNzAyXzJUZ0J2bE1oWG8xQVozWWVSQnI3bnFwSlZsRmU5dElZREFldGYtSGJNSVU5T3ZfSTlBd2N5RHVLRGI5X3JYeG1LSUtjTzdZZjltb3M2bDhNVEk3OUg3TFBNcFFR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "美光新加坡 HBM 先進封裝廠首臺機臺進駐　朝 2027 年初首批產出大步邁進",
+      "summary": [
+        "ETtoday：美光新加坡 HBM 先進封裝廠首臺機臺進駐　朝 2027 年初首批產出大步邁進",
+        "科技新報：美光新加坡 HBM 先進封裝廠首部機臺進駐，預計 2027 年初進行產出"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "美光新加坡 HBM 先進封裝廠首臺機臺進駐　朝 2027 年初首批產出大步邁進",
+          "url": "https://finance.ettoday.net/news/3275041"
+        },
+        {
+          "source": "科技新報",
+          "title": "美光新加坡 HBM 先進封裝廠首部機臺進駐，預計 2027 年初進行產出",
+          "url": "https://finance.technews.tw/2026/11/19/micron-singapore-hbm-advanced-packaging-plant-installs-first-machine/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩",
+      "summary": [
+        "iThome：大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩",
+        "公開資訊觀測站重訊：大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩",
+          "url": "https://www.ithome.com.tw/news/180662"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02cDRzalU4ckpBOGVkTFVYZjRNQndCa1FQSDY1UEo1WmpJa1dZdG5GanJZZl82YVBxOVlEZnNXTktSUFEwUlJVSk1FM1paUQ?oc=5"
         }
       ]
     }
@@ -328,6 +328,33 @@
     },
     {
       "rank": 5,
+      "title": "Visa、萬事達卡和摩根大通客戶資料被駭客洩露",
+      "summary": [
+        "WSJ Markets：Visa、萬事達卡和摩根大通客戶資料被駭客洩露",
+        "Investing.com：Visa、萬事達卡和摩根大通客戶資料在第三方網路攻擊中洩露",
+        "Yahoo Finance：摩根大通、Visa 和萬事達卡披露針對第三方供應商的網路攻擊"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "WSJ Markets",
+          "title": "Visa、萬事達卡和摩根大通客戶資料被駭客洩露",
+          "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=rss_markets_main"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Visa、萬事達卡和摩根大通客戶資料在第三方網路攻擊中洩露",
+          "url": "https://www.investing.com/news/stock-market-news/visa-mastercard-and-jpmorgan-customer-data-leaked-in-thirdparty-cyberattack-5039535"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "摩根大通、Visa 和萬事達卡披露針對第三方供應商的網路攻擊",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2R0aHc1VDVIQ3QxYjZFTmdYTktsYjBPdUFfUlY4UVZPekNOSTVwS1JWR1hoVkVlTXFIdFNwakdEMHlXWlpWNWhMdWlZNHZjSTczR2hFUm02M3BBOG1sRzhDVlE1cTlPa1ppNWRack1rMTNfelJpWlJleENsVGhwYlFwdWZUaGd2TjQ1OG9rMzh2TzlEVE1mZmhyQVI2RTFkN25BVnFLNjRlUHBma29Gc05WVHBrTjVhaGNlQzlSaXlDZm9sOGhNZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "AMD因賣空者報告涉嫌中國業務而下跌",
       "summary": [
         "CNBC：AMD因賣空者報告涉嫌中國業務而下跌",
@@ -354,7 +381,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "讓 Google Gemini 能夠為您使用 Mac",
       "summary": [
         "TechCrunch：讓 Google Gemini 能夠為您使用 Mac",
@@ -381,7 +408,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "烏克蘭本週內第三次襲擊克里米亞大橋 導致鐵路交通中斷",
       "summary": [
         "法廣RFI：烏克蘭本週內第三次襲擊克里米亞大橋 導致鐵路交通中斷",
@@ -402,7 +429,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "韓國將人工智慧熱潮推向新高度，出口額突破1兆美元",
       "summary": [
         "Nikkei Asia：韓國將人工智慧熱潮推向新高度，出口額突破1兆美元",
@@ -423,7 +450,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "中國人工智慧熱潮期間阿里巴巴收入超乎預期",
       "summary": [
         "Bloomberg Tech：中國人工智慧熱潮期間阿里巴巴收入超乎預期",
@@ -440,27 +467,6 @@
           "source": "Yahoo Finance",
           "title": "中國人工智慧熱潮期間阿里巴巴收入超乎預期",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZnhzZ1FXSlRKX2c0blFkNEluY1JXMG1WQjR0am5wR2ItSUhaajd3V3lsdExzeHUwODNCcVExYnZNZ0NCNEVEallnUlNnWFV0X2dnTGRVc2ZJeDRBZ3NjNFR4NVRhS2QwWlBUem1XQmtMSEVxYzNTbjJodHplMmdMR0RWNUVnc1BjUGZUcDYwb080Y3BrYU5GSHEwYkFkSGdqZ3RjYg?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
-      "summary": [
-        "Financial Times：Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
-        "Yahoo Finance：Anthropic 將在華爾街首次亮相，估值達 1.5 兆美元，成為有史以來最大的 IPO"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "Anthropic 將在華爾街上市，這是有史以​​來規模最大的 IPO",
-          "url": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Anthropic 將在華爾街首次亮相，估值達 1.5 兆美元，成為有史以來最大的 IPO",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNklqMVdMV1diTGxyS2QtOVlIZWtVZk9TcXEtVFk5Y0hvMW9NR3hXMzlIWDc0d1hBWjQzVUV4Vnk5Z1VWNlpVdjcxcFZUam42OFF2Wl96a0VYbG9iSnRpeExKYU4ySWNKekVfMW52aDMzcUdJZVRIM3JTV2ZPRERieExJMDg3cmo0dzRHX0J0SHVmb1lQZ2ZV?oc=5"
         }
       ]
     }
