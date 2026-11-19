@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 09:26",
+  "updated_at": "2026-11-19 09:56",
   "taiwan": [
     {
       "rank": 1,
@@ -126,6 +126,27 @@
     },
     {
       "rank": 6,
+      "title": "NASA旅行家1號探測器　估已達成「光日」里程碑",
+      "summary": [
+        "經濟日報：NASA旅行家1號探測器　估已達成「光日」里程碑",
+        "科技新報：NASA 航海家 1 號探測器，估已達成「光日」里程碑"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "NASA旅行家1號探測器　估已達成「光日」里程碑",
+          "url": "https://money.udn.com/money/story/5599/9887500"
+        },
+        {
+          "source": "科技新報",
+          "title": "NASA 航海家 1 號探測器，估已達成「光日」里程碑",
+          "url": "https://technews.tw/2026/11/19/nasa-voyager-1-light-day-milestone/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
       "summary": [
         "經濟日報：曼谷倒塌大樓承包商違法經營　中國籍主管遭判刑3年",
@@ -146,7 +167,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "歐盟提議供烏克蘭1.6兆元貸款　由俄未來戰爭賠款償還",
       "summary": [
         "經濟日報：歐盟提議供烏克蘭1.6兆元貸款　由俄未來戰爭賠款償還",
@@ -167,7 +188,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "APEC晚宴登場　習近平預告明峰會「更多成果落地」",
       "summary": [
         "ETtoday：APEC晚宴登場　習近平預告明峰會「更多成果落地」",
@@ -188,7 +209,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "AI產業不確定性籠罩　歐股收跌",
       "summary": [
         "自由時報：AI產業不確定性籠罩　歐股收跌",
@@ -205,27 +226,6 @@
           "source": "經濟日報",
           "title": "AI產業不確定性籠罩　歐股收跌",
           "url": "https://money.udn.com/money/story/5599/9887797"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
-      "summary": [
-        "自由時報：APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
-        "經濟日報：深圳APEC／參加第一天 施振榮已與13位領袖互動"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5645692"
-        },
-        {
-          "source": "經濟日報",
-          "title": "深圳APEC／參加第一天 施振榮已與13位領袖互動",
-          "url": "https://money.udn.com/money/story/5599/9887816"
         }
       ]
     }
@@ -297,27 +297,6 @@
     },
     {
       "rank": 3,
-      "title": "據報道，NVIDIA GPU 驅動程式每小時向 SSD 寫入高達 30GB 的資料，與 AMD 最近的驅動程式錯誤相呼應",
-      "summary": [
-        "Wccftech：據報道，NVIDIA GPU 驅動程式每小時向 SSD 寫入高達 30GB 的資料，與 AMD 最近的驅動程式錯誤相呼應",
-        "Tom's Hardware：據報道，Nvidia GeForce 驅動程式錯誤會導致 SSD 每小時寫入高達 30GB"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Wccftech",
-          "title": "據報道，NVIDIA GPU 驅動程式每小時向 SSD 寫入高達 30GB 的資料，與 AMD 最近的驅動程式錯誤相呼應",
-          "url": "https://wccftech.com/nvidia-gpu-drivers-reportedly-writing-up-to-30gb-per-hour-to-ssds-echoing-amds-recent-driver-bug/"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "據報道，Nvidia GeForce 驅動程式錯誤會導致 SSD 每小時寫入高達 30GB",
-          "url": "https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-geforce-driver-bug-reportedly-hammers-ssds-with-up-to-30gb-of-writes-per-hour-users-trace-massive-idle-wear-to-background-service-newer-driver-reportedly-still-affected"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "特朗普政府考慮強制美企披露中國AI使用情況",
       "summary": [
         "德國之聲：特朗普政府考慮強制美企披露中國AI使用情況",
@@ -338,7 +317,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "威爾·賴特 (Will Wright) 的下一款遊戲將使用人工智慧來繪製你的記憶",
       "summary": [
         "The Verge：威爾·賴特 (Will Wright) 的下一款遊戲將使用人工智慧來繪製你的記憶",
@@ -359,7 +338,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "為什麼 Anthropic 的 IPO 可能成為投資者的陷阱",
       "summary": [
         "Yahoo Finance：為什麼 Anthropic 的 IPO 可能成為投資者的陷阱",
@@ -380,7 +359,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "哈基姆·傑弗里斯被提名為美國眾議院議長",
       "summary": [
         "BBC World：哈基姆·傑弗里斯被提名為美國眾議院議長",
@@ -401,7 +380,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "黃仁勳表示，儘管董事會反對，他仍「很榮幸」重新擔任 Nvidia 執行長",
       "summary": [
         "Yahoo Finance：黃仁勳表示，儘管董事會反對，他仍「很榮幸」重新擔任 Nvidia 執行長",
@@ -422,7 +401,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "歐盟向烏克蘭追加超7兆日圓貸款 使其在和談中佔據優勢",
       "summary": [
         "NHK新聞：歐盟向烏克蘭追加超7兆日圓貸款 使其在和談中佔據優勢",
@@ -443,7 +422,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "在地緣政治緊張局勢中，福特開始使用中國技術在美國生產電池",
       "summary": [
         "CNBC：在地緣政治緊張局勢中，福特開始使用中國技術在美國生產電池",
@@ -460,6 +439,27 @@
           "source": "Investing.com",
           "title": "福特開始利用中國技術在美國生產電動車電池",
           "url": "https://www.investing.com/news/stock-market-news/ford-begins-ev-battery-cell-production-in-the-us-with-chinas-tech-5036780"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國失去了消除麻疹的地位。需要數年時間才能恢復",
+      "summary": [
+        "Wired：美國失去了消除麻疹的地位。需要數年時間才能恢復",
+        "Ars Technica：「可恥」的麻疹資料讓美國失去了消滅麻疹的地位"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Wired",
+          "title": "美國失去了消除麻疹的地位。需要數年時間才能恢復",
+          "url": "https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "「可恥」的麻疹資料讓美國失去了消滅麻疹的地位",
+          "url": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/"
         }
       ]
     }
