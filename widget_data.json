@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 16:56",
+  "updated_at": "2026-11-19 17:26",
   "taiwan": [
     {
       "rank": 1,
@@ -57,27 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "珍珠港事件倖存者嘉勒辭世享嵩壽105歲　曾抗命勇救同袍",
-      "summary": [
-        "自由時報：珍珠港事件倖存者嘉勒辭世享嵩壽105歲　曾抗命勇救同袍",
-        "經濟日報：珍珠港事件倖存者嘉勒辭世享嵩壽105歲　曾抗命勇救同袍"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "珍珠港事件倖存者嘉勒辭世享嵩壽105歲　曾抗命勇救同袍",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645700"
-        },
-        {
-          "source": "經濟日報",
-          "title": "珍珠港事件倖存者嘉勒辭世享嵩壽105歲　曾抗命勇救同袍",
-          "url": "https://money.udn.com/money/story/5599/9887840"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "市場評估輝達財報及聯準會紀要　美股收盤互有漲跌",
       "summary": [
         "自由時報：市場評估輝達財報及聯準會紀要　美股收盤互有漲跌",
@@ -98,7 +77,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "微軟傳洽售AI服務給位元組跳動　美眾院委員會要查",
       "summary": [
         "自由時報：微軟傳洽售AI服務給位元組跳動　美眾院委員會要查",
@@ -119,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "「臺灣學姐」陳竹音50萬交保　控政治追殺：立場不同民進黨就打壓",
       "summary": [
         "ETtoday：「臺灣學姐」陳竹音50萬交保　控政治追殺：立場不同民進黨就打壓",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "波灣局勢再起波瀾　國際油價下跌",
       "summary": [
         "自由時報：波灣局勢再起波瀾　國際油價下跌",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "臺裔及亞裔第一人　劉雲平獲選美眾院民主黨團主席",
       "summary": [
         "自由時報：臺裔及亞裔第一人　劉雲平獲選美眾院民主黨團主席",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "鹿港天后宮最貴光明燈 女董座連11年砸550萬包了！",
       "summary": [
         "自由時報：鹿港天后宮最貴光明燈 女董座連11年砸550萬包了！",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "克宮：普丁與川普將於APEC場邊會晤　未安排正式雙邊談判",
       "summary": [
         "ETtoday：克宮：普丁與川普將於APEC場邊會晤　未安排正式雙邊談判",
@@ -222,33 +201,54 @@
           "url": "https://money.udn.com/money/story/5599/9888542"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "輝達董事長重申：黃仁勳不會回鍋　宣佈提前加薪提振士氣",
+      "summary": [
+        "ETtoday：輝達董事長重申：黃仁勳不會回鍋　宣佈提前加薪提振士氣",
+        "自由時報：輝達董座2度重申不會讓黃仁勳回鍋 員工大會曝提前加薪、發放股票"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "輝達董事長重申：黃仁勳不會回鍋　宣佈提前加薪提振士氣",
+          "url": "https://www.ettoday.net/news/20261119/3274599.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "輝達董座2度重申不會讓黃仁勳回鍋 員工大會曝提前加薪、發放股票",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5645729"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "據稱，Anthropic 的 IPO 定價為每股 83 美元，高於區間",
+      "title": "預計，Anthropic的IPO定價為83美元",
       "summary": [
-        "Bloomberg Tech：據稱，Anthropic 的 IPO 定價為每股 83 美元，高於區間",
-        "Investing.com：根據彭博社報道，Anthropic 考慮 IPO 定價為每股 80-85 美元",
-        "WSJ Markets：由於需求旺盛，Anthropic 將 IPO 定價為每股 83 美元"
+        "Bloomberg Tech：預計，Anthropic的IPO定價為83美元",
+        "WSJ Markets：由於需求旺盛，Anthropic 將 IPO 定價為每股 83 美元",
+        "Investing.com：訊息人士稱，Anthropic 將 IPO 定價為每股 83 美元"
       ],
       "media_count": 5,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "據稱，Anthropic 的 IPO 定價為每股 83 美元，高於區間",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-is-said-to-price-ipo-at-83-per-share"
-        },
-        {
-          "source": "Investing.com",
-          "title": "根據彭博社報道，Anthropic 考慮 IPO 定價為每股 80-85 美元",
-          "url": "https://www.investing.com/news/stock-market-news/anthropic-weighs-ipo-pricing-of-8085-a-share-bloomberg-reports-5036963"
+          "title": "預計，Anthropic的IPO定價為83美元",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-18/anthropic-is-said-to-price-ipo-at-83-per-share-video"
         },
         {
           "source": "WSJ Markets",
           "title": "由於需求旺盛，Anthropic 將 IPO 定價為每股 83 美元",
           "url": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c?mod=rss_markets_main"
+        },
+        {
+          "source": "Investing.com",
+          "title": "訊息人士稱，Anthropic 將 IPO 定價為每股 83 美元",
+          "url": "https://www.investing.com/news/stock-market-news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-5037110"
         },
         {
           "source": "TechCrunch",
@@ -285,27 +285,6 @@
     },
     {
       "rank": 3,
-      "title": "英偉達銀行 Anthropic 指導 IPO 價格",
-      "summary": [
-        "Bloomberg Tech：英偉達銀行 Anthropic 指導 IPO 價格",
-        "Financial Times：Anthropic 華麗的 IPO"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "英偉達銀行 Anthropic 指導 IPO 價格",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-18/anthropic-guides-ipo-price-the-bank-of-nvidia-video"
-        },
-        {
-          "source": "Financial Times",
-          "title": "Anthropic 華麗的 IPO",
-          "url": "https://www.ft.com/content/74801528-833d-412f-b939-24f68c2c3fc1?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Challenger 拒絕第一筆生命保險 44 億美元的新收購要約",
       "summary": [
         "Bloomberg Markets：Challenger 拒絕第一筆生命保險 44 億美元的新收購要約",
@@ -326,7 +305,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "股市的暴跌已經見底了嗎？以下是這些反向指標的含義。",
       "summary": [
         "MarketWatch：股市的暴跌已經見底了嗎？以下是這些反向指標的含義。",
@@ -343,6 +322,27 @@
           "source": "Investing.com",
           "title": "今天聯想股價為何會暴跌？",
           "url": "https://www.investing.com/news/stock-market-news/why-is-lenovo-stock-tumbling-today-93CH-5037866"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "李在明在APEC歡迎晚宴會見普京 談涉朝問題",
+      "summary": [
+        "韓聯社：李在明在APEC歡迎晚宴會見普京 談涉朝問題",
+        "法廣RFI：高市早苗在APEC峰會期間與普京舉行會談"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "李在明在APEC歡迎晚宴會見普京 談涉朝問題",
+          "url": "https://cn.yna.co.kr/view/ACK20261119000100881"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "高市早苗在APEC峰會期間與普京舉行會談",
+          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261119-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9C%A8apec%E5%B3%B0%E6%9C%83%E6%9C%9F%E9%96%93%E8%88%87%E6%99%AE%E4%BA%AC%E8%88%89%E8%A1%8C%E6%9C%83%E8%AB%87"
         }
       ]
     },
