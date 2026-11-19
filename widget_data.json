@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 16:27",
+  "updated_at": "2026-11-19 16:56",
   "taiwan": [
     {
       "rank": 1,
@@ -227,19 +227,14 @@
   "global": [
     {
       "rank": 1,
-      "title": "據稱 Anthropic 正在考慮將 IPO 價格定為每股 85 美元",
+      "title": "據稱，Anthropic 的 IPO 定價為每股 83 美元，高於區間",
       "summary": [
-        "Bloomberg Markets：據稱 Anthropic 正在考慮將 IPO 價格定為每股 85 美元",
         "Bloomberg Tech：據稱，Anthropic 的 IPO 定價為每股 83 美元，高於區間",
-        "Investing.com：根據彭博社報道，Anthropic 考慮 IPO 定價為每股 80-85 美元"
+        "Investing.com：根據彭博社報道，Anthropic 考慮 IPO 定價為每股 80-85 美元",
+        "WSJ Markets：由於需求旺盛，Anthropic 將 IPO 定價為每股 83 美元"
       ],
       "media_count": 5,
       "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "據稱 Anthropic 正在考慮將 IPO 價格定為每股 85 美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-said-to-be-weighing-ipo-price-as-high-as-85-per-share"
-        },
         {
           "source": "Bloomberg Tech",
           "title": "據稱，Anthropic 的 IPO 定價為每股 83 美元，高於區間",
@@ -259,11 +254,37 @@
           "source": "TechCrunch",
           "title": "據報道，Anthropic 將 IPO 定價為每股 83 美元，高於預期範圍",
           "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+        },
+        {
+          "source": "Financial Times",
+          "title": "Anthropic將重磅IPO定價為83美元",
+          "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 2,
+      "title": "獨家-裕信銀行與德國就收購德國商業銀行達成廣泛協議",
+      "summary": [
+        "Investing.com：獨家-裕信銀行與德國就收購德國商業銀行達成廣泛協議",
+        "Financial Times：裕信銀行與柏林就德國商業銀行收購達成協議"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "獨家-裕信銀行與德國就收購德國商業銀行達成廣泛協議",
+          "url": "https://www.investing.com/news/stock-market-news/exclusiveunicredit-and-germany-reach-broad-agreement-on-commerzbank-takeover-5037328"
+        },
+        {
+          "source": "Financial Times",
+          "title": "裕信銀行與柏林就德國商業銀行收購達成協議",
+          "url": "https://www.ft.com/content/0c6bb979-bc3f-4368-86fc-a0306fd52d78?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "英偉達銀行 Anthropic 指導 IPO 價格",
       "summary": [
         "Bloomberg Tech：英偉達銀行 Anthropic 指導 IPO 價格",
@@ -284,7 +305,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Challenger 拒絕第一筆生命保險 44 億美元的新收購要約",
       "summary": [
         "Bloomberg Markets：Challenger 拒絕第一筆生命保險 44 億美元的新收購要約",
@@ -305,7 +326,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "股市的暴跌已經見底了嗎？以下是這些反向指標的含義。",
       "summary": [
         "MarketWatch：股市的暴跌已經見底了嗎？以下是這些反向指標的含義。",
@@ -326,7 +347,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
       "summary": [
         "Bloomberg Tech：中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
@@ -347,7 +368,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
       "summary": [
         "WSJ Markets：華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
@@ -368,7 +389,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "習近平承諾為APEC合作提供2000萬美元",
       "summary": [
         "Bloomberg Markets：習近平承諾為APEC合作提供2000萬美元",
@@ -389,7 +410,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
       "summary": [
         "Financial Times：德意志銀行義大利子公司隱瞞了高達 8 億歐元的抵押貸款損失",
@@ -410,7 +431,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
       "summary": [
         "Investing.com：違反規則後阿波羅取消了向曼城老闆提供的 20 億美元貸款",
@@ -427,21 +448,6 @@
           "source": "Financial Times",
           "title": "違反規則後，阿波羅計劃取消向曼城老闆提供 20 億美元貸款的計劃",
           "url": "https://www.ft.com/content/e2cfb9c4-a642-4ca9-9e78-32afc2549d9d?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "獨家-裕信銀行與德國就收購德國商業銀行達成廣泛協議",
-      "summary": [
-        "Investing.com：獨家-裕信銀行與德國就收購德國商業銀行達成廣泛協議"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "獨家-裕信銀行與德國就收購德國商業銀行達成廣泛協議",
-          "url": "https://www.investing.com/news/stock-market-news/exclusiveunicredit-and-germany-reach-broad-agreement-on-commerzbank-takeover-5037328"
         }
       ]
     }
