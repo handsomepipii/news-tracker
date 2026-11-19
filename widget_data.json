@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 11:56",
+  "updated_at": "2026-11-19 12:26",
   "taiwan": [
     {
       "rank": 1,
@@ -57,69 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "民主黨提名傑福瑞斯 可望成美國史上首位非裔眾院議長",
-      "summary": [
-        "自由時報：民主黨提名傑福瑞斯 可望成美國史上首位非裔眾院議長",
-        "經濟日報：傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "民主黨提名傑福瑞斯 可望成美國史上首位非裔眾院議長",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645667"
-        },
-        {
-          "source": "經濟日報",
-          "title": "傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長",
-          "url": "https://money.udn.com/money/story/5599/9887819"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "烈火盃小鐵人賽登場　桃園兒少跑跳展毅力",
-      "summary": [
-        "ETtoday：烈火盃小鐵人賽登場　桃園兒少跑跳展毅力",
-        "TVBS新聞：快訊／高雄東光國小火災竄濃煙！師生急撤操場避難"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "烈火盃小鐵人賽登場　桃園兒少跑跳展毅力",
-          "url": "https://www.ettoday.net/news/20261118/3274586.htm"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "快訊／高雄東光國小火災竄濃煙！師生急撤操場避難",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yN013bkc4amtvX20xbk1TZVRsLUx5UEM3TkdSbkdOd3FBOEg0c2RoR3hMYmZzQzlvNzRVVVBOMjNYNW5zdGFXeDc4WXNQLVk?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "APEC晚宴登場　習近平預告明峰會「更多成果落地」",
-      "summary": [
-        "ETtoday：APEC晚宴登場　習近平預告明峰會「更多成果落地」",
-        "工商時報：APEC歡迎晚宴與高市互動曝光習近平：明日領導人會議將討論擴大相互開放措施- 兩岸"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "APEC晚宴登場　習近平預告明峰會「更多成果落地」",
-          "url": "https://www.ettoday.net/news/20261118/3274580.htm"
-        },
-        {
-          "source": "工商時報",
-          "title": "APEC歡迎晚宴與高市互動曝光習近平：明日領導人會議將討論擴大相互開放措施- 兩岸",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WdDM2ZXZBY2RCT3VRaEIwWXp1RjNJTTlyZHFVLVBzMHp6NkpGcXZjZV91WFVZR3pfUXlTSXRWUE0xM3pyUHNyWFdPV18xUmJGeXZXMUtUNlBiSkZ3YmtF?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "AI產業不確定性籠罩　歐股收跌",
       "summary": [
         "自由時報：AI產業不確定性籠罩　歐股收跌",
@@ -140,7 +77,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
       "summary": [
         "自由時報：APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
@@ -161,7 +98,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "紐時：川普不滿範斯未力挺對伊朗開戰　私下盛讚盧比歐",
       "summary": [
         "自由時報：紐時：川普不滿範斯未力挺對伊朗開戰　私下盛讚盧比歐",
@@ -182,7 +119,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "美國會報告：中國結合多重手段　加大對臺施壓",
       "summary": [
         "自由時報：美國會報告：中國結合多重手段　加大對臺施壓",
@@ -203,7 +140,28 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "title": "傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長",
+      "summary": [
+        "自由時報：傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長",
+        "經濟日報：傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5645696"
+        },
+        {
+          "source": "經濟日報",
+          "title": "傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長",
+          "url": "https://money.udn.com/money/story/5599/9887819"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "《臺北時報》 臺灣關注美中俄會談",
       "summary": [
         "自由時報：《臺北時報》 臺灣關注美中俄會談",
@@ -220,6 +178,48 @@
           "source": "TVBS新聞",
           "title": "美中俄今歷史性會談! 普欽「核手提箱」曝光｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wOFJJbzlZNG5aR1pXV3JEaWhubkRkNFpZMUlrNnRZME1Zai0xZjZVdmQ5X2R5aGN0S195NGNRdGdFcjRYcENWVElIWXdfUzVSTldqQ2x3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "臺數科、鑫傳第三季獲利齊揚- 日報",
+      "summary": [
+        "工商時報：臺數科、鑫傳第三季獲利齊揚- 日報",
+        "ETtoday：曾持棒毆3學弟！徐基麟傳赴廈門教少棒　中國新規須查暴力紀錄"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "工商時報",
+          "title": "臺數科、鑫傳第三季獲利齊揚- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iamhDSFBDbm9ZR3hhdUY4cXpJUzdtUmJqejZnakVOcW1aSlhZZzlVa1pWUzlOdi1Ba0lNZTJ3NnQ0WE1fMjBDeFdrTTZRNWxETldqanpWRjZfTERQajZN?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "曾持棒毆3學弟！徐基麟傳赴廈門教少棒　中國新規須查暴力紀錄",
+          "url": "https://sports.ettoday.net/news/3274708"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "印尼｜央行意外升息 存放款利率均上調1碼",
+      "summary": [
+        "工商時報：印尼｜央行意外升息 存放款利率均上調1碼",
+        "經濟日報：印尼央行意外升息1碼"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "工商時報",
+          "title": "印尼｜央行意外升息 存放款利率均上調1碼",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YRk0xcV94T2lTRHpMZjl4YmFETlJiT2tMZmFINHBvVGgzNk04NFY5LXJ4RHgyRmtNNkpyZ292MVZPQkxDdmZ3RE9KbUg4ZGVSSXJJSmNYbUJxTlpoekJv?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "印尼央行意外升息1碼",
+          "url": "https://money.udn.com/money/story/5599/9887660"
         }
       ]
     }
@@ -264,27 +264,6 @@
     },
     {
       "rank": 2,
-      "title": "Anthropic IPO 如何與 SpaceX 抗衡",
-      "summary": [
-        "Investing.com：Anthropic IPO 如何與 SpaceX 抗衡",
-        "Bloomberg Markets：來自 Anthropic 的 IPO 資料來源：挑戰 SpaceX 的首次亮相紀錄"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Anthropic IPO 如何與 SpaceX 抗衡",
-          "url": "https://www.investing.com/news/stock-market-news/how-theanthropic-ipo-stacks-up-against-spacex-5036604"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "來自 Anthropic 的 IPO 資料來源：挑戰 SpaceX 的首次亮相紀錄",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-s-ipo-by-the-numbers-taking-on-spacex-s-record-debut"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "歐盟向烏克蘭追加超7兆日圓貸款 使其在和談中佔據優勢",
       "summary": [
         "NHK新聞：歐盟向烏克蘭追加超7兆日圓貸款 使其在和談中佔據優勢",
@@ -305,7 +284,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "在地緣政治緊張局勢中，福特開始使用中國技術在美國生產電池",
       "summary": [
         "CNBC：在地緣政治緊張局勢中，福特開始使用中國技術在美國生產電池",
@@ -326,7 +305,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "美國失去了消除麻疹的地位。需要數年時間才能恢復",
       "summary": [
         "Wired：美國失去了消除麻疹的地位。需要數年時間才能恢復",
@@ -347,7 +326,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Nvidia 董事會招聘公司接洽 Arm 執行長雷內哈斯 (Rene Haas)",
       "summary": [
         "Bloomberg Tech：Nvidia 董事會招聘公司接洽 Arm 執行長雷內哈斯 (Rene Haas)",
@@ -368,7 +347,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
       "summary": [
         "Bloomberg Tech：中期選舉潰敗後，馬斯克覺得在共和黨身上花大錢是“愚蠢的”",
@@ -389,37 +368,22 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "挪威股市收盤走低；奧斯陸OBX下跌1.17%",
+      "rank": 7,
+      "title": "丹麥股市收盤走低； OMX哥本哈根20指數下跌1.16%",
       "summary": [
-        "Investing.com：挪威股市收盤走低；奧斯陸OBX下跌1.17%"
+        "Investing.com：丹麥股市收盤走低； OMX哥本哈根20指數下跌1.16%"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Investing.com",
-          "title": "挪威股市收盤走低；奧斯陸OBX下跌1.17%",
-          "url": "https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-117-5036607"
+          "title": "丹麥股市收盤走低； OMX哥本哈根20指數下跌1.16%",
+          "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-lower-at-close-of-trade-omx-copenhagen-20-down-116-5036656"
         }
       ]
     },
     {
-      "rank": 9,
-      "title": "信貸拋售吸引逢低買入者進入“選股市場”",
-      "summary": [
-        "Bloomberg Markets：信貸拋售吸引逢低買入者進入“選股市場”"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "信貸拋售吸引逢低買入者進入“選股市場”",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/credit-selloff-lures-bargain-hunters-to-stock-picker-s-market"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "title": "Thoma Bravo 的 Proofpoint 削減了 20 億美元債務交易成本",
       "summary": [
         "Bloomberg Tech：Thoma Bravo 的 Proofpoint 削減了 20 億美元債務交易成本"
@@ -430,6 +394,36 @@
           "source": "Bloomberg Tech",
           "title": "Thoma Bravo 的 Proofpoint 削減了 20 億美元債務交易成本",
           "url": "https://www.bloomberg.com/news/articles/2026-11-18/thoma-bravo-s-proofpoint-cuts-costs-on-2-billion-debt-deal"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "[地震新聞]熊本縣地震強度為5級，不用擔心海嘯(2:22)",
+      "summary": [
+        "NHK新聞：[地震新聞]熊本縣地震強度為5級，不用擔心海嘯(2:22)"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "[地震新聞]熊本縣地震強度為5級，不用擔心海嘯(2:22)",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261119de78097"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Newsmax 起訴福斯阻止 220 億美元收購 Roku",
+      "summary": [
+        "Investing.com：Newsmax 起訴福斯阻止 220 億美元收購 Roku"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Newsmax 起訴福斯阻止 220 億美元收購 Roku",
+          "url": "https://www.investing.com/news/stock-market-news/newsmax-sues-fox-to-block-22-billion-roku-acquisition-5036810"
         }
       ]
     }
