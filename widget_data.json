@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 16:56",
+  "updated_at": "2026-11-20 17:26",
   "taiwan": [
     {
       "rank": 1,
@@ -62,6 +62,33 @@
     },
     {
       "rank": 3,
+      "title": "入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
+      "summary": [
+        "自由時報：入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
+        "ETtoday：北臺整天寒冷！氣象粉專：今天是冷空氣影響「最明顯一天」",
+        "TVBS新聞：天氣/整天最冷是今天 明起白天回溫 週六晨探10度｜氣象主播 彭惠筠｜午間氣象｜TVBS新聞20261120 @TVBSNEWS01"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5647050"
+        },
+        {
+          "source": "ETtoday",
+          "title": "北臺整天寒冷！氣象粉專：今天是冷空氣影響「最明顯一天」",
+          "url": "https://www.ettoday.net/news/20261120/3275335.htm"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "天氣/整天最冷是今天 明起白天回溫 週六晨探10度｜氣象主播 彭惠筠｜午間氣象｜TVBS新聞20261120 @TVBSNEWS01",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBseUNKUldldlowckJtU2VPeElBRVBqeXV3RVNwMkRtMDRSUXR0QlRDcDU0TktwczNDVmgzcDlRWEtlaklLTzFLWU5BRDlxMGJYeHhvZ0ZR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
       "summary": [
         "經濟日報：輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
@@ -82,70 +109,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "油輪運輸受阻抵銷供應過剩疑慮　國際油價持平",
-      "summary": [
-        "自由時報：油輪運輸受阻抵銷供應過剩疑慮　國際油價持平",
-        "經濟日報：油輪運輸受阻抵銷供應過剩疑慮　國際油價持平"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "油輪運輸受阻抵銷供應過剩疑慮　國際油價持平",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5647047"
-        },
-        {
-          "source": "經濟日報",
-          "title": "油輪運輸受阻抵銷供應過剩疑慮　國際油價持平",
-          "url": "https://money.udn.com/money/story/5599/9890362"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "美特使會歐洲盟友　稱俄不排斥烏克蘭獲得類北約安全保障",
-      "summary": [
-        "自由時報：美特使會歐洲盟友　稱俄不排斥烏克蘭獲得類北約安全保障",
-        "經濟日報：美特使會歐洲盟友　稱俄不排斥烏克蘭獲得類北約安全保障"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美特使會歐洲盟友　稱俄不排斥烏克蘭獲得類北約安全保障",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647046"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美特使會歐洲盟友　稱俄不排斥烏克蘭獲得類北約安全保障",
-          "url": "https://money.udn.com/money/story/5599/9890349"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
-      "summary": [
-        "自由時報：入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
-        "ETtoday：北臺整天寒冷！氣象粉專：今天是冷空氣影響「最明顯一天」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5647050"
-        },
-        {
-          "source": "ETtoday",
-          "title": "北臺整天寒冷！氣象粉專：今天是冷空氣影響「最明顯一天」",
-          "url": "https://www.ettoday.net/news/20261120/3275335.htm"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "美股收挫　Anthropic漲逾17%未能帶動大盤",
       "summary": [
         "自由時報：美股收挫　Anthropic漲逾17%未能帶動大盤",
@@ -166,7 +130,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "才表態力挺沈伯洋！公關女王曬合照曝「最打動她的地方」",
       "summary": [
         "自由時報：才表態力挺沈伯洋！公關女王曬合照曝「最打動她的地方」",
@@ -187,7 +151,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "美國商務部揭露已批准向中國出售 87.9 萬顆 AI 晶片，兩黨議員氣炸要嚴查",
       "summary": [
         "科技新報：美國商務部揭露已批准向中國出售 87.9 萬顆 AI 晶片，兩黨議員氣炸要嚴查",
@@ -208,7 +172,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "APEC峰會發布「深圳展望」　強調加強供應鏈韌性",
       "summary": [
         "ETtoday：APEC峰會發布「深圳展望」　強調加強供應鏈韌性",
@@ -225,6 +189,48 @@
           "source": "MoneyDJ理財網",
           "title": "APEC峰會提出深圳展望，強化供應鏈韌性- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnZPT2xpbVhJaUFMSl9nQk5FNFFudEpuT1R5akFraloyVnhmNGlXYkhhOEtxRG4zTzFYUmQxQ29DdWNNMnZFTGVjNm04b2VKR0FUel9LWDVOMWowWnh5VkVQVHpCaDdjVnJDOV9hYnVhR1pzdmRVSExFUWZpUHNLMjl4NFRkbW1IVG5zdTlidGozdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "美媒：美中俄峰會三方各有盤算　習近平營造強國形象",
+      "summary": [
+        "經濟日報：美媒：美中俄峰會三方各有盤算　習近平營造強國形象",
+        "自由時報：美媒：美中俄峰會三方各有盤算 習近平營造強國形象"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美媒：美中俄峰會三方各有盤算　習近平營造強國形象",
+          "url": "https://money.udn.com/money/story/5599/9890438"
+        },
+        {
+          "source": "自由時報",
+          "title": "美媒：美中俄峰會三方各有盤算 習近平營造強國形象",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647075"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "專家分析川習會：美中關係更加困難　臺灣議題未有共識",
+      "summary": [
+        "經濟日報：專家分析川習會：美中關係更加困難　臺灣議題未有共識",
+        "自由時報：專家分析川習會：美中關係更加困難 臺灣議題未有共識"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "專家分析川習會：美中關係更加困難　臺灣議題未有共識",
+          "url": "https://money.udn.com/money/story/5599/9890437"
+        },
+        {
+          "source": "自由時報",
+          "title": "專家分析川習會：美中關係更加困難 臺灣議題未有共識",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647074"
         }
       ]
     }
@@ -355,27 +361,6 @@
     },
     {
       "rank": 6,
-      "title": "Anthropic 1073 億美元 IPO 紀錄",
-      "summary": [
-        "Bloomberg Tech：Anthropic 1073 億美元 IPO 紀錄",
-        "TechCrunch：Anthropic 的 7 位創辦人在破紀錄的 IPO 中套現近 20 億美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic 1073 億美元 IPO 紀錄",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-sets-record-with-107-3-billion-ipo-video"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Anthropic 的 7 位創辦人在破紀錄的 IPO 中套現近 20 億美元",
-          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "辛辛那提動物園河馬菲奧娜吞下帽子後死亡",
       "summary": [
         "BBC World：辛辛那提動物園河馬菲奧娜吞下帽子後死亡",
@@ -396,7 +381,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "隨著更廣泛的科技市場拋售，Anthropic 的 IPO 飆升 17%，創歷史新高結束鐘聲",
       "summary": [
         "Bloomberg Markets：隨著更廣泛的科技市場拋售，Anthropic 的 IPO 飆升 17%，創歷史新高結束鐘聲",
@@ -417,7 +402,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Anthropic 成為全球上市首日市值最高的上市公司之一",
       "summary": [
         "BBC World：Anthropic 成為全球上市首日市值最高的上市公司之一",
@@ -438,7 +423,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "訴訟稱，阿里巴巴隱瞞了與英偉達醜聞中涉嫌間諜的關係，欺騙了股東",
       "summary": [
         "Investing.com：訴訟稱，阿里巴巴隱瞞了與英偉達醜聞中涉嫌間諜的關係，欺騙了股東",
@@ -455,6 +440,27 @@
           "source": "Nikkei Asia",
           "title": "阿里巴巴因涉嫌隱瞞與英偉達醜聞中涉嫌間諜的關係而被起訴",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHM1QTV1U2M5VVkxVjZuMEtYemNjWXNmc0k3Mzg3RnN0ZFdXamIwNS1TNFJiZDVtUWJzc1ZFTG04enZ2MGZHdWVoNlVBVGVPaEE3alZ1ZGZzRTJkcy02R1NpeEV0QXVvaXJfX0NhVjBpdDQxWVRUN3FoX29MUEhIN2NnTkNQMzU0MVF1TWRPZXczNUUtWDdNSzlPb21ZLTRENkNzcVVHNVI0c3JOWlI4QXBQZXZNTmdnc2JORTNn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "俄羅斯相關指控後日本菸草股價下跌",
+      "summary": [
+        "Bloomberg Markets：俄羅斯相關指控後日本菸草股價下跌",
+        "Nikkei Asia：日本菸草股價下跌 10%；俄羅斯扣押90萬投資者"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "俄羅斯相關指控後日本菸草股價下跌",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/japan-tobacco-shares-set-to-fall-after-russia-related-charges"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "日本菸草股價下跌 10%；俄羅斯扣押90萬投資者",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2ZpMmF5V3BnU0ZKREt1MWY5NVg5ZU1hYW4xcHRyZEFfN1VmVzZXSGpJMXlyNmJtVTZuazh0cm5CeFdKWW02aHd5bEdnaDZxNk1XbkYxWVNkT2RaU1lHY19JSXBLYVhDUHNqX1IwRkk1UVB1NV9hWVI2bVB5MzNHUnFzX3VENlB6SmV3WllRQ3pNNkQ5SndwSmVKRVhmd3NJOWg3UEo3NGt2OU91TFFSeHNQWm9TcW8?oc=5"
         }
       ]
     }
