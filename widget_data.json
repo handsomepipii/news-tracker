@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 13:27",
+  "updated_at": "2026-11-20 13:56",
   "taiwan": [
     {
       "rank": 1,
@@ -35,33 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "超過SpaceX！ Anthropic募資813億美元「創始上最大IPO」遠開盤飆升",
-      "summary": [
-        "ETtoday：超過SpaceX！ Anthropic募資813億美元「創始上最大IPO」遠開盤飆升",
-        "經濟日報：年度最大規模IPO Anthropic募集813億美元",
-        "工商時報：超越SpaceX！Anthropic募資813億美元、估值衝1.5兆美元創史上最大IPO"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "超過SpaceX！ Anthropic募資813億美元「創始上最大IPO」遠開盤飆升",
-          "url": "https://finance.ettoday.net/news/3275254"
-        },
-        {
-          "source": "經濟日報",
-          "title": "年度最大規模IPO Anthropic募集813億美元",
-          "url": "https://money.udn.com/money/story/123398/9890128"
-        },
-        {
-          "source": "工商時報",
-          "title": "超越SpaceX！Anthropic募資813億美元、估值衝1.5兆美元創史上最大IPO",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82anNJMHlEcEpGTmpCa1llaFp5YXlXeW9sVVlDcDBrU3hBRC1KNlMyMHZ2SFBxOWZVc2R1eVFUZ2NzdDliR09HOFZ6NHh3czhMRXI2REQwU2NycnFoQWtN?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
       "summary": [
         "自由時報：稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
@@ -88,7 +61,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "中國供應鏈疑慮衝擊超微　股價重挫8%",
       "summary": [
         "自由時報：中國供應鏈疑慮衝擊超微　股價重挫8%",
@@ -115,7 +88,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "美媒看三方峰會贏家 北京取得外交聲望、莫斯科地位提升",
       "summary": [
         "經濟日報：美媒看三方峰會贏家 北京取得外交聲望、莫斯科地位提升",
@@ -136,7 +109,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
       "summary": [
         "自由時報：葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
@@ -157,7 +130,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "人擇掛牌掀AI熱潮歐股仍收低",
       "summary": [
         "自由時報：人擇掛牌掀AI熱潮歐股仍收低",
@@ -178,7 +151,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Anthropic上市首日開盤漲34%　市值突破2兆美元",
       "summary": [
         "自由時報：Anthropic上市首日開盤漲34%　市值突破2兆美元",
@@ -199,7 +172,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "川普結束中國行返美　20日在白宮召開記者會",
       "summary": [
         "自由時報：川普結束中國行返美　20日在白宮召開記者會",
@@ -220,7 +193,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美中俄峰會同日基輔遇襲　荷蘭、奧地利使館受損",
       "summary": [
         "自由時報：美中俄峰會同日基輔遇襲　荷蘭、奧地利使館受損",
@@ -237,6 +210,27 @@
           "source": "經濟日報",
           "title": "美中俄峰會同日基輔遇襲　荷蘭、奧地利使館受損",
           "url": "https://money.udn.com/money/story/5599/9890340"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "油輪運輸受阻抵銷供應過剩疑慮　國際油價持平",
+      "summary": [
+        "自由時報：油輪運輸受阻抵銷供應過剩疑慮　國際油價持平",
+        "經濟日報：油輪運輸受阻抵銷供應過剩疑慮　國際油價持平"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "油輪運輸受阻抵銷供應過剩疑慮　國際油價持平",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5647047"
+        },
+        {
+          "source": "經濟日報",
+          "title": "油輪運輸受阻抵銷供應過剩疑慮　國際油價持平",
+          "url": "https://money.udn.com/money/story/5599/9890362"
         }
       ]
     }
@@ -415,27 +409,6 @@
     },
     {
       "rank": 8,
-      "title": "蘋果 iPhone 相機和照片軟體主管 Jon McCormack 離開公司",
-      "summary": [
-        "Bloomberg Tech：蘋果 iPhone 相機和照片軟體主管 Jon McCormack 離開公司",
-        "The Verge：據報道，蘋果 iPhone 相機負責人已離開公司"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "蘋果 iPhone 相機和照片軟體主管 Jon McCormack 離開公司",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-s-iphone-camera-and-photos-software-chief-jon-mccormack-leaves-company"
-        },
-        {
-          "source": "The Verge",
-          "title": "據報道，蘋果 iPhone 相機負責人已離開公司",
-          "url": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "國際法院歷史性裁決　認定緬甸對羅興亞人實施種族滅絕",
       "summary": [
         "法廣RFI：國際法院歷史性裁決　認定緬甸對羅興亞人實施種族滅絕",
@@ -456,7 +429,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Anthropic以破紀錄的IPO首次亮相",
       "summary": [
         "Bloomberg Tech：Anthropic以破紀錄的IPO首次亮相",
@@ -473,6 +446,27 @@
           "source": "Bloomberg Markets",
           "title": "Anthropic 破紀錄的 IPO",
           "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-markets-11-19-2026-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Anthropic 股價飆升至 IPO 價格以上，然後下跌",
+      "summary": [
+        "Bloomberg Tech：Anthropic 股價飆升至 IPO 價格以上，然後下跌",
+        "MarketWatch：Anthropic 的股價在首次亮相時飆升，而其他市場無論如何都在下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic 股價飆升至 IPO 價格以上，然後下跌",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-shares-soar-above-ipo-price-then-fall-video"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Anthropic 的股價在首次亮相時飆升，而其他市場無論如何都在下跌",
+          "url": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories"
         }
       ]
     }
