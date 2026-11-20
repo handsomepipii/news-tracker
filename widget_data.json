@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 18:27",
+  "updated_at": "2026-11-20 18:56",
   "taiwan": [
     {
       "rank": 1,
@@ -30,33 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "黃仁勳出事前！川普9月砸近900萬買輝達股票 財務申報曝光",
-      "summary": [
-        "自由時報：黃仁勳出事前！川普9月砸近900萬買輝達股票 財務申報曝光",
-        "ETtoday：川普9月買進逾870萬輝達股票　最新財務申報曝光",
-        "科技新報：最新財務申報曝光，川普 9 月買進逾 870 萬輝達股票"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "黃仁勳出事前！川普9月砸近900萬買輝達股票 財務申報曝光",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647054"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普9月買進逾870萬輝達股票　最新財務申報曝光",
-          "url": "https://www.ettoday.net/news/20261120/3275283.htm"
-        },
-        {
-          "source": "科技新報",
-          "title": "最新財務申報曝光，川普 9 月買進逾 870 萬輝達股票",
-          "url": "https://finance.technews.tw/2026/11/20/trump-bought-8-7-million-nvidia-shares-september-financial-filings/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "SpaceX 太空資料中心惹議  傳債權人憂晶片有去無回",
       "summary": [
         "科技新報：SpaceX 太空資料中心惹議  傳債權人憂晶片有去無回",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
       "summary": [
         "經濟日報：輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
@@ -104,49 +77,28 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "才表態力挺沈伯洋！公關女王曬合照曝「最打動她的地方」",
+      "rank": 4,
+      "title": "川普9月買進逾870萬輝達股票　最新財務申報曝光",
       "summary": [
-        "自由時報：才表態力挺沈伯洋！公關女王曬合照曝「最打動她的地方」",
-        "ETtoday：公關女王同框沈伯洋！　深夜千字文揭「這1點堅持」最打動她"
+        "ETtoday：川普9月買進逾870萬輝達股票　最新財務申報曝光",
+        "科技新報：最新財務申報曝光，川普 9 月買進逾 870 萬輝達股票"
       ],
       "media_count": 2,
       "links": [
-        {
-          "source": "自由時報",
-          "title": "才表態力挺沈伯洋！公關女王曬合照曝「最打動她的地方」",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5647055"
-        },
         {
           "source": "ETtoday",
-          "title": "公關女王同框沈伯洋！　深夜千字文揭「這1點堅持」最打動她",
-          "url": "https://star.ettoday.net/news/3275475"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "美國商務部揭露已批准向中國出售 87.9 萬顆 AI 晶片，兩黨議員氣炸要嚴查",
-      "summary": [
-        "科技新報：美國商務部揭露已批准向中國出售 87.9 萬顆 AI 晶片，兩黨議員氣炸要嚴查",
-        "經濟日報：AI晶片出口中國引國安爭議　美眾院揭近88萬顆核准資料"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "美國商務部揭露已批准向中國出售 87.9 萬顆 AI 晶片，兩黨議員氣炸要嚴查",
-          "url": "https://technews.tw/2026/11/20/the-u-s-department-of-commerce-has-revealed-that-it-has-approved-the-sale-of-879000-ai-chips-to-china/"
+          "title": "川普9月買進逾870萬輝達股票　最新財務申報曝光",
+          "url": "https://www.ettoday.net/news/20261120/3275283.htm"
         },
         {
-          "source": "經濟日報",
-          "title": "AI晶片出口中國引國安爭議　美眾院揭近88萬顆核准資料",
-          "url": "https://money.udn.com/money/story/5599/9890426"
+          "source": "科技新報",
+          "title": "最新財務申報曝光，川普 9 月買進逾 870 萬輝達股票",
+          "url": "https://finance.technews.tw/2026/11/20/trump-bought-8-7-million-nvidia-shares-september-financial-filings/"
         }
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "APEC峰會發布「深圳展望」　強調加強供應鏈韌性",
       "summary": [
         "ETtoday：APEC峰會發布「深圳展望」　強調加強供應鏈韌性",
@@ -167,7 +119,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "美媒：美中俄峰會三方各有盤算　習近平營造強國形象",
       "summary": [
         "經濟日報：美媒：美中俄峰會三方各有盤算　習近平營造強國形象",
@@ -188,7 +140,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "專家分析川習會：美中關係更加困難　臺灣議題未有共識",
       "summary": [
         "經濟日報：專家分析川習會：美中關係更加困難　臺灣議題未有共識",
@@ -209,7 +161,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "蘋果搶攻AI代理 一面拉高對手門檻 Meta、Anthropic盤後下挫",
       "summary": [
         "經濟日報：蘋果搶攻AI代理 一面拉高對手門檻 Meta、Anthropic盤後下挫",
@@ -226,6 +178,48 @@
           "source": "科技新報",
           "title": "AI 戰國時代才剛開始，蘋果徵才搶攻 AI 代理人",
           "url": "https://technews.tw/2026/11/20/the-warring-states-era-of-ai-has-only-just-begun-apple-is-hiring-to-make-a-push-into-ai-agents/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
+      "summary": [
+        "iThome：NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
+        "科技新報：駭客也騙不了的定位，NIST 利用糾纏光子打造防竄改的「量子位置驗證」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
+          "url": "https://www.ithome.com.tw/news/180652"
+        },
+        {
+          "source": "科技新報",
+          "title": "駭客也騙不了的定位，NIST 利用糾纏光子打造防竄改的「量子位置驗證」",
+          "url": "https://technews.tw/2026/11/20/quantum-physics-can-verify-a-persons-location-researchers-show/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "韋德齊5度當選捷克參議長　布拉格副市長接任市長",
+      "summary": [
+        "經濟日報：韋德齊5度當選捷克參議長　布拉格副市長接任市長",
+        "自由時報：韋德齊5度當選捷克參議長 布拉格副市長接任市長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "韋德齊5度當選捷克參議長　布拉格副市長接任市長",
+          "url": "https://money.udn.com/money/story/5599/9890460"
+        },
+        {
+          "source": "自由時報",
+          "title": "韋德齊5度當選捷克參議長 布拉格副市長接任市長",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647088"
         }
       ]
     }
@@ -307,27 +301,6 @@
     },
     {
       "rank": 4,
-      "title": "蘋果正在招募工程師來建立自己的人工智慧代理",
-      "summary": [
-        "The Verge：蘋果正在招募工程師來建立自己的人工智慧代理",
-        "TechCrunch：蘋果可能正在開發自己的人工智慧代理來執行你的Mac"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "蘋果正在招募工程師來建立自己的人工智慧代理",
-          "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "蘋果可能正在開發自己的人工智慧代理來執行你的Mac",
-          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "加州調查中國是否不當取得英偉達技術",
       "summary": [
         "BBC World：加州調查中國是否不當取得英偉達技術",
@@ -344,6 +317,27 @@
           "source": "The Guardian",
           "title": "加州調查英偉達晶片出口是否最終銷往中國",
           "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "寧德時代、旭創科技或將加入香港科技指數，進行重大人工智慧改造",
+      "summary": [
+        "Bloomberg Tech：寧德時代、旭創科技或將加入香港科技指數，進行重大人工智慧改造",
+        "Bloomberg Markets：寧德時代、立訊精密將加入香港科技指數重大調整"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "寧德時代、旭創科技或將加入香港科技指數，進行重大人工智慧改造",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/catl-innolight-may-join-hong-kong-tech-index-in-major-ai-revamp"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "寧德時代、立訊精密將加入香港科技指數重大調整",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/catl-luxshare-to-join-hong-kong-tech-index-in-major-revamp"
         }
       ]
     },
