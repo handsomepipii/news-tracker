@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 16:26",
+  "updated_at": "2026-11-20 16:56",
   "taiwan": [
     {
       "rank": 1,
@@ -83,27 +83,6 @@
     },
     {
       "rank": 4,
-      "title": "中國供應鏈疑慮衝擊超微　股價重挫8%",
-      "summary": [
-        "經濟日報：中國供應鏈疑慮衝擊超微　股價重挫8%",
-        "ETtoday：黃仁勳外遇掃到AMD！　中國供應鏈收緊衝擊股價挫近8%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "中國供應鏈疑慮衝擊超微　股價重挫8%",
-          "url": "https://money.udn.com/money/story/123398/9890339"
-        },
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳外遇掃到AMD！　中國供應鏈收緊衝擊股價挫近8%",
-          "url": "https://finance.ettoday.net/news/3275264"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "油輪運輸受阻抵銷供應過剩疑慮　國際油價持平",
       "summary": [
         "自由時報：油輪運輸受阻抵銷供應過剩疑慮　國際油價持平",
@@ -124,7 +103,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "美特使會歐洲盟友　稱俄不排斥烏克蘭獲得類北約安全保障",
       "summary": [
         "自由時報：美特使會歐洲盟友　稱俄不排斥烏克蘭獲得類北約安全保障",
@@ -145,7 +124,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
       "summary": [
         "自由時報：入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
@@ -166,7 +145,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美股收挫　Anthropic漲逾17%未能帶動大盤",
       "summary": [
         "自由時報：美股收挫　Anthropic漲逾17%未能帶動大盤",
@@ -187,7 +166,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "才表態力挺沈伯洋！公關女王曬合照曝「最打動她的地方」",
       "summary": [
         "自由時報：才表態力挺沈伯洋！公關女王曬合照曝「最打動她的地方」",
@@ -208,7 +187,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美國商務部揭露已批准向中國出售 87.9 萬顆 AI 晶片，兩黨議員氣炸要嚴查",
       "summary": [
         "科技新報：美國商務部揭露已批准向中國出售 87.9 萬顆 AI 晶片，兩黨議員氣炸要嚴查",
@@ -225,6 +204,27 @@
           "source": "經濟日報",
           "title": "AI晶片出口中國引國安爭議　美眾院揭近88萬顆核准資料",
           "url": "https://money.udn.com/money/story/5599/9890426"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "APEC峰會發布「深圳展望」　強調加強供應鏈韌性",
+      "summary": [
+        "ETtoday：APEC峰會發布「深圳展望」　強調加強供應鏈韌性",
+        "MoneyDJ理財網：APEC峰會提出深圳展望，強化供應鏈韌性- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "APEC峰會發布「深圳展望」　強調加強供應鏈韌性",
+          "url": "https://www.ettoday.net/news/20261120/3275255.htm"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "APEC峰會提出深圳展望，強化供應鏈韌性- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnZPT2xpbVhJaUFMSl9nQk5FNFFudEpuT1R5akFraloyVnhmNGlXYkhhOEtxRG4zTzFYUmQxQ29DdWNNMnZFTGVjNm04b2VKR0FUel9LWDVOMWowWnh5VkVQVHpCaDdjVnJDOV9hYnVhR1pzdmRVSExFUWZpUHNLMjl4NFRkbW1IVG5zdTlidGozdw?oc=5"
         }
       ]
     }
@@ -355,27 +355,6 @@
     },
     {
       "rank": 6,
-      "title": "參議院拒絕阻止川普打擊伊朗的決議",
-      "summary": [
-        "Washington Post：參議院拒絕阻止川普打擊伊朗的決議",
-        "Investing.com：參議院共和黨人拒絕結束伊朗戰爭的立法"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "參議院拒絕阻止川普打擊伊朗的決議",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUhPc1MzUmliSzFkVG16b3R4WmdnM2tTQlhHX19ONGU1Ui15MWZZcmJ0NDA4a0lkenNvRXdvUFRaMDdvcjZoOHd3YW5KNVNEelUxVEx0VU83WlJMTkFLYVV0WEtwNGVGQ2RjRmwxTlNhZ2xseHkxbGxjNTBsWU5XclJnZkRCVHJBVURwOHVoR1JjZEVSSzFuRjRRdVh3NHRpd3VTVnF3?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "參議院共和黨人拒絕結束伊朗戰爭的立法",
-          "url": "https://www.investing.com/news/stock-market-news/senate-republicans-reject-legislation-to-end-iran-war-93CH-5040382"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Anthropic 1073 億美元 IPO 紀錄",
       "summary": [
         "Bloomberg Tech：Anthropic 1073 億美元 IPO 紀錄",
@@ -396,7 +375,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "辛辛那提動物園河馬菲奧娜吞下帽子後死亡",
       "summary": [
         "BBC World：辛辛那提動物園河馬菲奧娜吞下帽子後死亡",
@@ -417,7 +396,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "隨著更廣泛的科技市場拋售，Anthropic 的 IPO 飆升 17%，創歷史新高結束鐘聲",
       "summary": [
         "Bloomberg Markets：隨著更廣泛的科技市場拋售，Anthropic 的 IPO 飆升 17%，創歷史新高結束鐘聲",
@@ -438,7 +417,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Anthropic 成為全球上市首日市值最高的上市公司之一",
       "summary": [
         "BBC World：Anthropic 成為全球上市首日市值最高的上市公司之一",
@@ -455,6 +434,27 @@
           "source": "Bloomberg Markets",
           "title": "Anthropic 首次公開募股後成為全球第七大最有價值公司",
           "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-becomes-world-s-7th-most-valuable-company-after-ipo"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "訴訟稱，阿里巴巴隱瞞了與英偉達醜聞中涉嫌間諜的關係，欺騙了股東",
+      "summary": [
+        "Investing.com：訴訟稱，阿里巴巴隱瞞了與英偉達醜聞中涉嫌間諜的關係，欺騙了股東",
+        "Nikkei Asia：阿里巴巴因涉嫌隱瞞與英偉達醜聞中涉嫌間諜的關係而被起訴"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "訴訟稱，阿里巴巴隱瞞了與英偉達醜聞中涉嫌間諜的關係，欺騙了股東",
+          "url": "https://www.investing.com/news/stock-market-news/alibaba-defrauded-shareholders-by-concealing-ties-to-suspected-spy-in-nvidia-scandal-lawsuit-says-5040304"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "阿里巴巴因涉嫌隱瞞與英偉達醜聞中涉嫌間諜的關係而被起訴",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHM1QTV1U2M5VVkxVjZuMEtYemNjWXNmc0k3Mzg3RnN0ZFdXamIwNS1TNFJiZDVtUWJzc1ZFTG04enZ2MGZHdWVoNlVBVGVPaEE3alZ1ZGZzRTJkcy02R1NpeEV0QXVvaXJfX0NhVjBpdDQxWVRUN3FoX29MUEhIN2NnTkNQMzU0MVF1TWRPZXczNUUtWDdNSzlPb21ZLTRENkNzcVVHNVI0c3JOWlI4QXBQZXZNTmdnc2JORTNn?oc=5"
         }
       ]
     }
