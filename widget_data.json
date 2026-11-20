@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 15:26",
+  "updated_at": "2026-11-20 15:56",
   "taiwan": [
     {
       "rank": 1,
@@ -110,6 +110,27 @@
     },
     {
       "rank": 5,
+      "title": "輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
+      "summary": [
+        "經濟日報：輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
+        "科技新報：輝達共同創辦人員工大會哽咽，批黃仁勳「背叛公司核心價值」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
+          "url": "https://money.udn.com/money/story/5599/9890840"
+        },
+        {
+          "source": "科技新報",
+          "title": "輝達共同創辦人員工大會哽咽，批黃仁勳「背叛公司核心價值」",
+          "url": "https://technews.tw/2026/11/20/nvidia-co-founder-choked-up-employee-meeting-criticizes-jensen-huang-betraying-core-values/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "美中俄峰會同日基輔遇襲　荷蘭、奧地利使館受損",
       "summary": [
         "自由時報：美中俄峰會同日基輔遇襲　荷蘭、奧地利使館受損",
@@ -130,7 +151,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "油輪運輸受阻抵銷供應過剩疑慮　國際油價持平",
       "summary": [
         "自由時報：油輪運輸受阻抵銷供應過剩疑慮　國際油價持平",
@@ -151,7 +172,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "美特使會歐洲盟友　稱俄不排斥烏克蘭獲得類北約安全保障",
       "summary": [
         "自由時報：美特使會歐洲盟友　稱俄不排斥烏克蘭獲得類北約安全保障",
@@ -172,7 +193,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
       "summary": [
         "自由時報：入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
@@ -193,7 +214,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "美股收挫　Anthropic漲逾17%未能帶動大盤",
       "summary": [
         "自由時報：美股收挫　Anthropic漲逾17%未能帶動大盤",
@@ -212,32 +233,38 @@
           "url": "https://money.udn.com/money/story/123398/9890375"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "才表態力挺沈伯洋！公關女王曬合照曝「最打動她的地方」",
-      "summary": [
-        "自由時報：才表態力挺沈伯洋！公關女王曬合照曝「最打動她的地方」",
-        "ETtoday：公關女王同框沈伯洋！　深夜千字文揭「這1點堅持」最打動她"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "才表態力挺沈伯洋！公關女王曬合照曝「最打動她的地方」",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5647055"
-        },
-        {
-          "source": "ETtoday",
-          "title": "公關女王同框沈伯洋！　深夜千字文揭「這1點堅持」最打動她",
-          "url": "https://star.ettoday.net/news/3275475"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "Anthropic 的大型 IPO 不辜負華爾街的炒作，但未能重振人工智慧貿易",
+      "summary": [
+        "WSJ Markets：Anthropic 的大型 IPO 不辜負華爾街的炒作，但未能重振人工智慧貿易",
+        "Bloomberg Tech：由於 Anthropic IPO 未能消除人工智慧困境，亞洲晶片股下跌",
+        "Financial Times：由於 Anthropic IPO 未能重燃人工智慧交易，科技股下跌"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "WSJ Markets",
+          "title": "Anthropic 的大型 IPO 不辜負華爾街的炒作，但未能重振人工智慧貿易",
+          "url": "https://www.wsj.com/finance/stocks/anthropic-ipo-ai-markets-89e2476f?mod=rss_markets_main"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "由於 Anthropic IPO 未能消除人工智慧困境，亞洲晶片股下跌",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes"
+        },
+        {
+          "source": "Financial Times",
+          "title": "由於 Anthropic IPO 未能重燃人工智慧交易，科技股下跌",
+          "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "蘋果正在開發用於裝置控制、應用程式、瀏覽和編碼的人工智慧代理",
       "summary": [
         "Bloomberg Tech：蘋果正在開發用於裝置控制、應用程式、瀏覽和編碼的人工智慧代理",
@@ -264,7 +291,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
       "summary": [
         "Bloomberg Tech：Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
@@ -291,7 +318,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Anthropic 首次亮相未能重振人工智慧熱情，華爾街股市下滑",
       "summary": [
         "Investing.com：Anthropic 首次亮相未能重振人工智慧熱情，華爾街股市下滑",
@@ -312,7 +339,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "加州總檢察長向英偉達發出傳票，調查中國晶片轉移事件",
       "summary": [
         "CNBC：加州總檢察長向英偉達發出傳票，調查中國晶片轉移事件",
@@ -333,70 +360,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Anthropic 的大型 IPO 不辜負華爾街的炒作，但未能重振人工智慧貿易",
-      "summary": [
-        "WSJ Markets：Anthropic 的大型 IPO 不辜負華爾街的炒作，但未能重振人工智慧貿易",
-        "Bloomberg Tech：由於 Anthropic IPO 未能消除人工智慧困境，亞洲晶片股下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "WSJ Markets",
-          "title": "Anthropic 的大型 IPO 不辜負華爾街的炒作，但未能重振人工智慧貿易",
-          "url": "https://www.wsj.com/finance/stocks/anthropic-ipo-ai-markets-89e2476f?mod=rss_markets_main"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "由於 Anthropic IPO 未能消除人工智慧困境，亞洲晶片股下跌",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes"
-        }
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Anthropic 破紀錄的 IPO",
-      "summary": [
-        "Bloomberg Markets：Anthropic 破紀錄的 IPO",
-        "Bloomberg Tech：Anthropic 1073 億美元 IPO 紀錄"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic 破紀錄的 IPO",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-markets-11-19-2026-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic 1073 億美元 IPO 紀錄",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-sets-record-with-107-3-billion-ipo-video"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Anthropic 股價在首次亮相後大幅上漲",
-      "summary": [
-        "Bloomberg Tech：Anthropic 股價在首次亮相後大幅上漲",
-        "MarketWatch：Anthropic 的股價在首次亮相時飆升，而其他市場無論如何都在下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic 股價在首次亮相後大幅上漲",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-shares-pare-gains-after-rocketing-in-debut-video"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "Anthropic 的股價在首次亮相時飆升，而其他市場無論如何都在下跌",
-          "url": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Meta 的 Muse Charm 可能售價 300 美元",
       "summary": [
         "The Verge：Meta 的 Muse Charm 可能售價 300 美元",
@@ -417,7 +381,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "參議院拒絕阻止川普打擊伊朗的決議",
       "summary": [
         "Washington Post：參議院拒絕阻止川普打擊伊朗的決議",
@@ -438,7 +402,28 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "title": "Anthropic 1073 億美元 IPO 紀錄",
+      "summary": [
+        "Bloomberg Tech：Anthropic 1073 億美元 IPO 紀錄",
+        "TechCrunch：Anthropic 的 7 位創辦人在破紀錄的 IPO 中套現近 20 億美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic 1073 億美元 IPO 紀錄",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-sets-record-with-107-3-billion-ipo-video"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Anthropic 的 7 位創辦人在破紀錄的 IPO 中套現近 20 億美元",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "辛辛那提動物園河馬菲奧娜吞下帽子後死亡",
       "summary": [
         "BBC World：辛辛那提動物園河馬菲奧娜吞下帽子後死亡",
@@ -455,6 +440,27 @@
           "source": "Wired",
           "title": "河馬菲奧娜吃了帽子後死了。但帽子是如何殺死河馬的呢？",
           "url": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "隨著更廣泛的科技市場拋售，Anthropic 的 IPO 飆升 17%，創歷史新高結束鐘聲",
+      "summary": [
+        "Bloomberg Markets：隨著更廣泛的科技市場拋售，Anthropic 的 IPO 飆升 17%，創歷史新高結束鐘聲",
+        "Bloomberg Tech：1,073 億美元 IPO 打破紀錄後 Anthropic 股價上漲 17%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "隨著更廣泛的科技市場拋售，Anthropic 的 IPO 飆升 17%，創歷史新高結束鐘聲",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-jumps-17-in-record-ipo-closing-bell-video"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "1,073 億美元 IPO 打破紀錄後 Anthropic 股價上漲 17%",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-breaks-record-video"
         }
       ]
     }
