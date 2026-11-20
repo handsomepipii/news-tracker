@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 22:26",
+  "updated_at": "2026-11-20 22:56",
   "taiwan": [
     {
       "rank": 1,
@@ -99,27 +99,6 @@
     },
     {
       "rank": 5,
-      "title": "科技系統故障引發批評　白宮國家網路總監遭撤換",
-      "summary": [
-        "經濟日報：科技系統故障引發批評　白宮國家網路總監遭撤換",
-        "科技新報：科技系統故障引發批評，白宮國家網路總監遭撤換"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "科技系統故障引發批評　白宮國家網路總監遭撤換",
-          "url": "https://money.udn.com/money/story/5599/9890721"
-        },
-        {
-          "source": "科技新報",
-          "title": "科技系統故障引發批評，白宮國家網路總監遭撤換",
-          "url": "https://infosecu.technews.tw/2026/11/20/white-house-national-cyber-director-replaced-tech-system-failure-criticism/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Intel 甫獲微軟封裝合作  傳 Google 重新回頭找臺積",
       "summary": [
         "科技新報：Intel 甫獲微軟封裝合作  傳 Google 重新回頭找臺積",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "張啟楷路邊「棒流」恐傷民眾黨選情？　柯文哲比喻：像股票波動",
       "summary": [
         "ETtoday：張啟楷路邊「棒流」恐傷民眾黨選情？　柯文哲比喻：像股票波動",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "法國民議會副議長率團訪臺 林佳龍：盼深化臺法文化交流與科技合作",
       "summary": [
         "自由時報：法國民議會副議長率團訪臺 林佳龍：盼深化臺法文化交流與科技合作",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "阿里在美遭股東提告  被指隱瞞與 Megaspeed 前高層關聯",
       "summary": [
         "科技新報：阿里在美遭股東提告  被指隱瞞與 Megaspeed 前高層關聯",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Intuit 下修財測、市場憂軟體業逆風  盤後崩",
       "summary": [
         "科技新報：Intuit 下修財測、市場憂軟體業逆風  盤後崩",
@@ -222,6 +201,27 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSjRIQnBFeWduUjU2YzQwU3BJUlFIM3RkRVNzQ1ZUbnM1bjBMc1dKWmh6QV94cmEzN3JPeGVvQlpsX0VYT2x4bE82bmZTY2F2cFhpUjBxWnBib3YzRi12bXJDWGdJbHMyeW5aMGxDWTBadGc4V096Z1FHYzgyVndpdHhEdDRLbmdqeWFoMDNYcmlrQQ?oc=5"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "高齡投資人遭詐案猖獗  美國會透過新法防堵",
+      "summary": [
+        "科技新報：高齡投資人遭詐案猖獗  美國會透過新法防堵",
+        "MoneyDJ理財網：高齡投資人遭詐案猖獗美國會透過新法防堵- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "高齡投資人遭詐案猖獗  美國會透過新法防堵",
+          "url": "https://finance.technews.tw/2026/11/20/us-to-pass-new-law-to-curb-financial-scams-targeting-seniors/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "高齡投資人遭詐案猖獗美國會透過新法防堵- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1FsLTNNQUppMGNVSFpuQWItR2dlVkhaNFBReHR0bV9GMm5fYUsycElmalNDYVBkaThZaEhqdmpJQUg5eEx0amtkdWxBYldsUGNIbGlCaUxqcVVaZFVhbUdJQXNIS3BVd3YwekExRUVHeW9HbnMzYU9FVkxFSTkzc1haU25LLTlEUnpTc2tyLWszUQ?oc=5"
+        }
+      ]
     }
   ],
   "global": [
@@ -233,7 +233,7 @@
         "Financial Times：由於 Anthropic IPO 未能重燃人工智慧交易，科技股下跌",
         "The Guardian：由於 Anthropic IPO 未能阻止人工智慧拋售，全球股市暴跌"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "WSJ Markets",
@@ -249,6 +249,11 @@
           "source": "The Guardian",
           "title": "由於 Anthropic IPO 未能阻止人工智慧拋售，全球股市暴跌",
           "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "隨著人工智慧貿易的解體，Anthropic 股價暴跌幾乎抹去了 IPO 的熱潮",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels"
         }
       ]
     },
@@ -428,22 +433,22 @@
     },
     {
       "rank": 10,
-      "title": "Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
+      "title": "關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
       "summary": [
-        "Bloomberg Markets：Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
-        "MarketWatch：Anthropic 股價逼近 IPO 價格，拖累人工智慧產業"
+        "Investing.com：關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
+        "Bloomberg Tech：諾華執行長：人工智慧可以將藥物開發時間縮短數年"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
-          "url": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil"
+          "source": "Investing.com",
+          "title": "關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
+          "url": "https://www.investing.com/news/stock-market-news/big-pharma-with-eye-on-anthropic-says-ai-is-shrinking-drug-discovery-timelines-5041287"
         },
         {
-          "source": "MarketWatch",
-          "title": "Anthropic 股價逼近 IPO 價格，拖累人工智慧產業",
-          "url": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories"
+          "source": "Bloomberg Tech",
+          "title": "諾華執行長：人工智慧可以將藥物開發時間縮短數年",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/novartis-ai-could-cut-drug-development-time-by-years-video"
         }
       ]
     }
