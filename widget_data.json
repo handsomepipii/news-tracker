@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 07:58",
+  "updated_at": "2026-11-20 08:27",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
+      "summary": [
+        "經濟日報：傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
+        "風傳媒：美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
+        "科技新報：傳美出口管制新規衝擊，臺積電、三星暫停部分對中晶片出貨"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
+          "url": "https://money.udn.com/money/story/5599/9889828"
+        },
+        {
+          "source": "風傳媒",
+          "title": "美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oNmZqQkFzVUo0RUVvelZRWVJXaFhWaHpYc2RobW5IWXdqZFNUdENjSXlGYmRVXzRMT1ZENExSS1RGcWwwQXUwWWtoXzZYUQ?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "傳美出口管制新規衝擊，臺積電、三星暫停部分對中晶片出貨",
+          "url": "https://technews.tw/2026/11/20/tsmc-and-samsung-suspend-some-chip-shipments-to-chinese-customers/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "超過SpaceX！ Anthropic募資813億美元「創始上最大IPO」遠開盤飆升",
       "summary": [
         "ETtoday：超過SpaceX！ Anthropic募資813億美元「創始上最大IPO」遠開盤飆升",
@@ -56,7 +83,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "中國供應鏈疑慮衝擊超微　股價重挫8%",
       "summary": [
         "自由時報：中國供應鏈疑慮衝擊超微　股價重挫8%",
@@ -83,7 +110,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "最新財務申報曝光　川普9月買進逾870萬輝達股票",
       "summary": [
         "經濟日報：最新財務申報曝光　川普9月買進逾870萬輝達股票",
@@ -110,7 +137,28 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "張嘉郡麥寮車隊掃街 馬文君、楊瓊瓔助陣：雲林鄉親集中選票",
+      "summary": [
+        "自由時報：張嘉郡麥寮車隊掃街 馬文君、楊瓊瓔助陣：雲林鄉親集中選票",
+        "TVBS新聞：海納百川到中和 李四川蔣萬安車掃｜LIVE"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "張嘉郡麥寮車隊掃街 馬文君、楊瓊瓔助陣：雲林鄉親集中選票",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5646803"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "海納百川到中和 李四川蔣萬安車掃｜LIVE",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fZ0MzRGRXVVpXcGYtSUFVeGttaklpN3RnSmFJVEFibVZvVnBUY1JrdkF1YW9QeFY4X3VGQjM3YzcteEFKa2hNUzFLVWJiOTVjdS14YU9zTEs3YXdweXQ4Z1pNY0pTYjFIVG1tLThfcUZLbEZk?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "直擊／防彈Jin送飛吻！告白「你好性感」　RM霸氣喊：高雄我愛你",
       "summary": [
         "ETtoday：直擊／防彈Jin送飛吻！告白「你好性感」　RM霸氣喊：高雄我愛你",
@@ -131,70 +179,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "快訊》臺南千萬超跑陷火海！ BMW i8慘遭烈焰吞噬- 社會",
-      "summary": [
-        "中時新聞：快訊》臺南千萬超跑陷火海！ BMW i8慘遭烈焰吞噬- 社會",
-        "ETtoday：臺南街頭千萬超跑「燒成火球」！BMW i8突陷火海　附近居民聞臭味"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "快訊》臺南千萬超跑陷火海！ BMW i8慘遭烈焰吞噬- 社會",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZbnhzNEFsS2RTbXVWVzFvTGdkbUNWVE9Ib2pDRTJSbVJhdDNNRm9mcnkzMndZT0ZEQW9vS1BfWlk1OF9MRnVwWjAtZjljUkQ5dGI3N0ZDakstdkYwUDU0NWc2TUY5RHFxaEpfa1pR?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "臺南街頭千萬超跑「燒成火球」！BMW i8突陷火海　附近居民聞臭味",
-          "url": "https://www.ettoday.net/news/20261120/3275226.htm"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "美中會落幕！習：臺灣問題「華府須做正確的事」 川：不支援臺獨- 國際",
-      "summary": [
-        "中時新聞：美中會落幕！習：臺灣問題「華府須做正確的事」 川：不支援臺獨- 國際",
-        "TVBS新聞：傳播臺灣的聲音！施振榮APEC大談AI發展｜TVBS新聞@TVBSNEWS01 │ TVBS新聞網"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "美中會落幕！習：臺灣問題「華府須做正確的事」 川：不支援臺獨- 國際",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yVDhJVVZVX0l5dWttODhrWWd0UFphN1F3T29EamFENW9pNXJudVliMjBQdXl2YWVadzJtMG14d29SMU1GU1pPS0pOYUY0MGF2WkVuSjdWczRxbURHdVRPakhFWUFnbHpTRFlMUS1n?oc=5"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "傳播臺灣的聲音！施振榮APEC大談AI發展｜TVBS新聞@TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11SDZ2OGxTWVpvei1yb2ZaaHFQcGdVOTQzLW5mY1p5RFZ1NjlJWE82OFNFNDVIZ24tRzRDXzdYWnc4RWtydTNXbHowNC01aC1yQUZocDdR?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 8,
-      "title": "傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
-      "summary": [
-        "經濟日報：傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
-        "風傳媒：美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
-          "url": "https://money.udn.com/money/story/5599/9889828"
-        },
-        {
-          "source": "風傳媒",
-          "title": "美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oNmZqQkFzVUo0RUVvelZRWVJXaFhWaHpYc2RobW5IWXdqZFNUdENjSXlGYmRVXzRMT1ZENExSS1RGcWwwQXUwWWtoXzZYUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "租金補貼有望再加碼？內政部選後會同地方討論 容積獎勵也將納入檢討",
       "summary": [
         "財訊：租金補貼有望再加碼？內政部選後會同地方討論 容積獎勵也將納入檢討",
@@ -211,6 +196,27 @@
           "source": "ETtoday",
           "title": "租金補貼有望上調？內政部：將依物價狀況檢討是否調整",
           "url": "https://www.ettoday.net/news/20261119/3275189.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "變性手術完有多痛？　愛裡「下體打滿石膏插5管」揭動刀8小時血淚",
+      "summary": [
+        "ETtoday：變性手術完有多痛？　愛裡「下體打滿石膏插5管」揭動刀8小時血淚",
+        "自由時報：變性手術有多痛？愛裡揭動刀8小時血淚「下體打滿石膏、插5根管」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "變性手術完有多痛？　愛裡「下體打滿石膏插5管」揭動刀8小時血淚",
+          "url": "https://star.ettoday.net/news/3275176"
+        },
+        {
+          "source": "自由時報",
+          "title": "變性手術有多痛？愛裡揭動刀8小時血淚「下體打滿石膏、插5根管」",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5647027"
         }
       ]
     },
@@ -383,48 +389,6 @@
     },
     {
       "rank": 7,
-      "title": "Anthropic 的 IPO 能否為股市帶來英偉達獲利無法做到的效果？",
-      "summary": [
-        "MarketWatch：Anthropic 的 IPO 能否為股市帶來英偉達獲利無法做到的效果？",
-        "Bloomberg Tech：人類投資者看到了 IPO 以外的機會"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MarketWatch",
-          "title": "Anthropic 的 IPO 能否為股市帶來英偉達獲利無法做到的效果？",
-          "url": "https://www.marketwatch.com/story/can-anthropics-ipo-do-for-the-stock-market-what-nvidias-earnings-couldnt-be67a434?mod=mw_rss_topstories"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "人類投資者看到了 IPO 以外的機會",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-sees-opportunity-beyond-ipo-video"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Anthropic 破紀錄的 IPO 凸顯了這家人工智慧巨頭最大的敵人——它自己",
-      "summary": [
-        "Wired：Anthropic 破紀錄的 IPO 凸顯了這家人工智慧巨頭最大的敵人——它自己",
-        "The Verge：有史以來最大的 IPO，Anthropic 的「好人」聲譽岌岌可危"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Wired",
-          "title": "Anthropic 破紀錄的 IPO 凸顯了這家人工智慧巨頭最大的敵人——它自己",
-          "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/"
-        },
-        {
-          "source": "The Verge",
-          "title": "有史以來最大的 IPO，Anthropic 的「好人」聲譽岌岌可危",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "超過10萬英國散戶爭取購買Anthropic IPO股票",
       "summary": [
         "Financial Times：超過10萬英國散戶爭取購買Anthropic IPO股票",
@@ -445,7 +409,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "馬杜羅下臺不到一年，委內瑞拉與美國簽署軍事協議",
       "summary": [
         "BBC World：馬杜羅下臺不到一年，委內瑞拉與美國簽署軍事協議",
@@ -462,6 +426,48 @@
           "source": "Washington Post",
           "title": "赫格斯意外現身委內瑞拉，續簽軍事夥伴關係",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaDk1dWVDTWtxcHkxQjE0dS1GVzZ1WXhpbmhyZkNDc0F2TlYteGpmLWxabEE2QXAwZnUwYmRKVzQ4aUlIUGFxZl9BUHM1NDJXUEhiUEUzaEJVaks1U1JYVkl4U2hsQWVLOVN0MUZQcFZqQ3VPSDBmLVhVSUZKZXl2bWpIZWRJQzJOS01femYwRlBCLXNPc2owa0t4SmFpWWZqSk5kRGJ1ZXIxcXByRFpMYmdWRHVpUlBhZGN2RA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "英國法庭稱，英國已下達命令，要求取得蘋果資料",
+      "summary": [
+        "Investing.com：英國法庭稱，英國已下達命令，要求取得蘋果資料",
+        "Bloomberg Tech：英國法院對蘋果與政府的使用者資料之爭作出裁決"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "英國法庭稱，英國已下達命令，要求取得蘋果資料",
+          "url": "https://www.investing.com/news/stock-market-news/uk-has-imposed-an-order-demanding-access-to-apple-data-uk-tribunal-says-5039030"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "英國法院對蘋果與政府的使用者資料之爭作出裁決",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/uk-court-rules-for-apple-in-user-data-fight-with-government"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普、普丁和習近平舉行歷史性三邊會議",
+      "summary": [
+        "Financial Times：川普、普丁和習近平舉行歷史性三邊會議",
+        "Bloomberg Markets：習近平、川普和普丁在中國達成歷史性三邊協議"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "川普、普丁和習近平舉行歷史性三邊會議",
+          "url": "https://www.ft.com/content/3ab490ea-825a-4ef4-9239-a2905d7f7f3c?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "習近平、川普和普丁在中國達成歷史性三邊協議",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/xi-trump-and-putin-wrap-historic-trilateral-in-china-video"
         }
       ]
     }
