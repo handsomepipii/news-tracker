@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 18:56",
+  "updated_at": "2026-11-20 19:26",
   "taiwan": [
     {
       "rank": 1,
@@ -57,6 +57,33 @@
     },
     {
       "rank": 3,
+      "title": "韓國AI作弊爭議 李在明：改革考試制度嚴懲違規",
+      "summary": [
+        "經濟日報：韓國AI作弊爭議 李在明：改革考試制度嚴懲違規",
+        "科技新報：韓國 AI 作弊爭議，李在明：改革考試制度嚴懲違規",
+        "轉角國際：舞弊狀元郎：從國考到修能大考，韓國考生用 AI 作弊該怎麼防？"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "韓國AI作弊爭議 李在明：改革考試制度嚴懲違規",
+          "url": "https://money.udn.com/money/story/5599/9891473"
+        },
+        {
+          "source": "科技新報",
+          "title": "韓國 AI 作弊爭議，李在明：改革考試制度嚴懲違規",
+          "url": "https://technews.tw/2026/11/20/south-korea-ai-cheating-controversy-lee-jae-myung-urges-exam-system-reform-severe-punishment-violations/"
+        },
+        {
+          "source": "轉角國際",
+          "title": "舞弊狀元郎：從國考到修能大考，韓國考生用 AI 作弊該怎麼防？",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJNUtDWVpDcVIyeFRFcG1rX1RLek0yd0FRc1RyUzh3ZVlySWhsMkw2YndTcllNUktNaENCN2FiZm00b29zUHJvZkxQczRhRk1fY1loalJXTXAybC1pN3lIZjgzT3ltVWNzR2NV0gFrQVVfeXFMUEk1S0NZWkNxUjJ4VEVwbWtfVEt6TTJ3QVFzVHJTOHdlWXJJaGwyTDZid1NyWU1SS01oQ0I3YWJmbTRvb3NQcm9mTFBzNGFGTV9jWWhqUldNcDJsLWk3eUhmODNPeW1VY3NHY1U?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
       "summary": [
         "經濟日報：輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
@@ -77,49 +104,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "川普9月買進逾870萬輝達股票　最新財務申報曝光",
-      "summary": [
-        "ETtoday：川普9月買進逾870萬輝達股票　最新財務申報曝光",
-        "科技新報：最新財務申報曝光，川普 9 月買進逾 870 萬輝達股票"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "川普9月買進逾870萬輝達股票　最新財務申報曝光",
-          "url": "https://www.ettoday.net/news/20261120/3275283.htm"
-        },
-        {
-          "source": "科技新報",
-          "title": "最新財務申報曝光，川普 9 月買進逾 870 萬輝達股票",
-          "url": "https://finance.technews.tw/2026/11/20/trump-bought-8-7-million-nvidia-shares-september-financial-filings/"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "APEC峰會發布「深圳展望」　強調加強供應鏈韌性",
-      "summary": [
-        "ETtoday：APEC峰會發布「深圳展望」　強調加強供應鏈韌性",
-        "MoneyDJ理財網：APEC峰會提出深圳展望，強化供應鏈韌性- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "APEC峰會發布「深圳展望」　強調加強供應鏈韌性",
-          "url": "https://www.ettoday.net/news/20261120/3275255.htm"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "APEC峰會提出深圳展望，強化供應鏈韌性- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnZPT2xpbVhJaUFMSl9nQk5FNFFudEpuT1R5akFraloyVnhmNGlXYkhhOEtxRG4zTzFYUmQxQ29DdWNNMnZFTGVjNm04b2VKR0FUel9LWDVOMWowWnh5VkVQVHpCaDdjVnJDOV9hYnVhR1pzdmRVSExFUWZpUHNLMjl4NFRkbW1IVG5zdTlidGozdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "美媒：美中俄峰會三方各有盤算　習近平營造強國形象",
       "summary": [
         "經濟日報：美媒：美中俄峰會三方各有盤算　習近平營造強國形象",
@@ -140,7 +125,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "專家分析川習會：美中關係更加困難　臺灣議題未有共識",
       "summary": [
         "經濟日報：專家分析川習會：美中關係更加困難　臺灣議題未有共識",
@@ -161,7 +146,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "蘋果搶攻AI代理 一面拉高對手門檻 Meta、Anthropic盤後下挫",
       "summary": [
         "經濟日報：蘋果搶攻AI代理 一面拉高對手門檻 Meta、Anthropic盤後下挫",
@@ -182,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
       "summary": [
         "iThome：NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
@@ -203,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "韋德齊5度當選捷克參議長　布拉格副市長接任市長",
       "summary": [
         "經濟日報：韋德齊5度當選捷克參議長　布拉格副市長接任市長",
@@ -220,6 +205,27 @@
           "source": "自由時報",
           "title": "韋德齊5度當選捷克參議長 布拉格副市長接任市長",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5647088"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "金馬放映最後一場那天...《菲律賓女孩》32歲女星不敵淋巴瘤離世",
+      "summary": [
+        "自由時報：金馬放映最後一場那天...《菲律賓女孩》32歲女星不敵淋巴瘤離世",
+        "ETtoday：金馬放映最終場那天　《菲律賓女孩》32歲女主角淋巴瘤病逝"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "金馬放映最後一場那天...《菲律賓女孩》32歲女星不敵淋巴瘤離世",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5647042"
+        },
+        {
+          "source": "ETtoday",
+          "title": "金馬放映最終場那天　《菲律賓女孩》32歲女主角淋巴瘤病逝",
+          "url": "https://star.ettoday.net/news/3275434"
         }
       ]
     }
@@ -259,27 +265,6 @@
     },
     {
       "rank": 2,
-      "title": "加州總檢察長向英偉達發出傳票，調查中國晶片轉移事件",
-      "summary": [
-        "CNBC：加州總檢察長向英偉達發出傳票，調查中國晶片轉移事件",
-        "Investing.com：加州總檢察長就中國洩密風險和投資者資訊披露向英偉達發出傳票"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "加州總檢察長向英偉達發出傳票，調查中國晶片轉移事件",
-          "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "加州總檢察長就中國洩密風險和投資者資訊披露向英偉達發出傳票",
-          "url": "https://www.investing.com/news/stock-market-news/california-ag-subpoenas-nvidia-over-china-leak-risks-and-investor-disclosures-5040277"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "由於 Anthropic 首次亮相未能重振人工智慧交易，華爾街期貨下跌",
       "summary": [
         "Investing.com：由於 Anthropic 首次亮相未能重振人工智慧交易，華爾街期貨下跌",
@@ -300,49 +285,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "加州調查中國是否不當取得英偉達技術",
-      "summary": [
-        "BBC World：加州調查中國是否不當取得英偉達技術",
-        "The Guardian：加州調查英偉達晶片出口是否最終銷往中國"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "加州調查中國是否不當取得英偉達技術",
-          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "title": "加州調查英偉達晶片出口是否最終銷往中國",
-          "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "寧德時代、旭創科技或將加入香港科技指數，進行重大人工智慧改造",
-      "summary": [
-        "Bloomberg Tech：寧德時代、旭創科技或將加入香港科技指數，進行重大人工智慧改造",
-        "Bloomberg Markets：寧德時代、立訊精密將加入香港科技指數重大調整"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "寧德時代、旭創科技或將加入香港科技指數，進行重大人工智慧改造",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-19/catl-innolight-may-join-hong-kong-tech-index-in-major-ai-revamp"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "寧德時代、立訊精密將加入香港科技指數重大調整",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-20/catl-luxshare-to-join-hong-kong-tech-index-in-major-revamp"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "title": "訴訟稱，阿里巴巴隱瞞了與英偉達醜聞中涉嫌間諜的關係，欺騙了股東",
       "summary": [
         "Investing.com：訴訟稱，阿里巴巴隱瞞了與英偉達醜聞中涉嫌間諜的關係，欺騙了股東",
@@ -363,7 +306,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "俄羅斯相關指控後日本菸草股價下跌",
       "summary": [
         "Bloomberg Markets：俄羅斯相關指控後日本菸草股價下跌",
@@ -384,7 +327,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "Anthropic 首次亮相後，亞洲科技股遭遇人工智慧拋售，軟銀股價暴跌 16% 以上",
       "summary": [
         "CNBC：Anthropic 首次亮相後，亞洲科技股遭遇人工智慧拋售，軟銀股價暴跌 16% 以上",
@@ -405,7 +348,28 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
+      "title": "蘋果可能正在開發自己的人工智慧代理來執行你的Mac",
+      "summary": [
+        "TechCrunch：蘋果可能正在開發自己的人工智慧代理來執行你的Mac",
+        "MarketWatch：蘋果似乎正在建立自己的人工智慧代理。這對 Meta 的 Muse 來說可能是個壞訊息。"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "蘋果可能正在開發自己的人工智慧代理來執行你的Mac",
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "蘋果似乎正在建立自己的人工智慧代理。這對 Meta 的 Muse 來說可能是個壞訊息。",
+          "url": "https://www.marketwatch.com/story/apple-seems-to-be-building-its-own-ai-agent-this-could-be-bad-news-for-metas-muse-8d9be2a7?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "貸款人旨在阻止 SpaceX 將價值 400 億美元的晶片送入軌道",
       "summary": [
         "Financial Times：貸款人旨在阻止 SpaceX 將價值 400 億美元的晶片送入軌道",
@@ -426,7 +390,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "APEC直播：深圳事件如何展開",
       "summary": [
         "Nikkei Asia：APEC直播：深圳事件如何展開",
@@ -443,6 +407,48 @@
           "source": "紐約時報中文",
           "title": "APEC峰會期間，深圳變「空城」",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnBkdllsMDRkbk1jSmYyZ01zOW1KN1M1aFFXQzZuYjVheW80VVZFYzY3VlJST0pSblUtS2VvQ21JWXQzVHcyZ19CbXI4ekRwb1VWNVF2OWFwWDVsdHVwREgtS3BVN25aRUlia3QzY09Wc1NVQjNjUTk0S0xRSlJFUGh3RTg1WXB3TUZ3X0VQTGkyZDZ0Rml2WFFFYmo4ekNRMHRac0FjNVhXQ2VYYlE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "白宮在一系列網路中斷後更換了最高網路安全官員",
+      "summary": [
+        "Washington Post：白宮在一系列網路中斷後更換了最高網路安全官員",
+        "Financial Times：白宮更換最高網路安全官員"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "白宮在一系列網路中斷後更換了最高網路安全官員",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQk5fekl4bHljR2otN1p2QUo0cnV3Qno2aXI1T2MzQ2czcTktLUFGYVN1QnZycFYyMzVwaWZ2XzFRYXZEcl83X0haTFR1cWFKNHViY1hhdkU0LTJFMmhYZHNXSU1fa1dwcGJGNXVzSGZuOUZUUERhaUN5VWYySXBWLXpWZ3VDQW1fV05KTXVmNmFZOW11YTRiSE1ySDFEQ3JP?oc=5"
+        },
+        {
+          "source": "Financial Times",
+          "title": "白宮更換最高網路安全官員",
+          "url": "https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "據稱DayOne因資料中心和市場擔憂而暫停美國IPO計劃",
+      "summary": [
+        "Bloomberg Markets：據稱DayOne因資料中心和市場擔憂而暫停美國IPO計劃",
+        "Investing.com：由於人工智慧市場波動，新加坡 DayOne 暫停美國 IPO 計畫"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "據稱DayOne因資料中心和市場擔憂而暫停美國IPO計劃",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/dayone-singapore-us-ipo-plans-data-center-market-chip-curbs-bytedance-tiktok-firmus"
+        },
+        {
+          "source": "Investing.com",
+          "title": "由於人工智慧市場波動，新加坡 DayOne 暫停美國 IPO 計畫",
+          "url": "https://www.investing.com/news/stock-market-news/singapores-dayone-pauses-us-ipo-plans-amid-ai-market-volatility--bloomberg-5040732"
         }
       ]
     }
