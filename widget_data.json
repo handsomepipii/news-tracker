@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 02:29",
+  "updated_at": "2026-11-21 02:57",
   "taiwan": [
     {
       "rank": 1,
@@ -72,48 +72,27 @@
     },
     {
       "rank": 4,
-      "title": "網球》臺英混血女將季末8連勝！葛藍喬安娜勇闖雪梨4強",
+      "title": "美商務部核准逾 87.9 萬顆 AI 晶片銷中 議員質疑「出口管制失靈」",
       "summary": [
-        "自由時報：網球》臺英混血女將季末8連勝！葛藍喬安娜勇闖雪梨4強",
-        "ETtoday：快訊／大樂透1億元頭獎「兩注均分」！獎落2縣市"
+        "INSIDE硬塞：美商務部核准逾 87.9 萬顆 AI 晶片銷中 議員質疑「出口管制失靈」",
+        "經濟日報：美核准近88萬顆 AI 晶片銷陸 買家涉軍名單引國會追查"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "網球》臺英混血女將季末8連勝！葛藍喬安娜勇闖雪梨4強",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5647586"
+          "source": "INSIDE硬塞",
+          "title": "美商務部核准逾 87.9 萬顆 AI 晶片銷中 議員質疑「出口管制失靈」",
+          "url": "https://www.inside.com.tw/article/42970-us-commerce-ai-chip-export-licenses-china-nvidia-h200-879000"
         },
         {
-          "source": "ETtoday",
-          "title": "快訊／大樂透1億元頭獎「兩注均分」！獎落2縣市",
-          "url": "https://finance.ettoday.net/news/3275780"
+          "source": "經濟日報",
+          "title": "美核准近88萬顆 AI 晶片銷陸 買家涉軍名單引國會追查",
+          "url": "https://money.udn.com/money/story/5599/9892334"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "AI投資熱潮還會再修正？IMF總裁示警：1兆美元迴圈融資，暗藏金融風險 | 李靖棠 | 新聞",
-      "summary": [
-        "風傳媒：AI投資熱潮還會再修正？IMF總裁示警：1兆美元迴圈融資，暗藏金融風險 | 李靖棠 | 新聞",
-        "經濟日報：IMF 總裁警告 AI 相關金融資產回撥並未結束 迴圈融資可能威脅金融穩定"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "風傳媒",
-          "title": "AI投資熱潮還會再修正？IMF總裁示警：1兆美元迴圈融資，暗藏金融風險 | 李靖棠 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUWGZhNUVLb2xrbDVQc3Y4N0JiUFh4Q1JOX25tZkpBQ1N4OFItc0NHYWVRa2JZUFBrUDRjSS1aZ29CY0F1WF9jSTlrZ0Fidw?oc=5"
-        },
-        {
-          "source": "經濟日報",
-          "title": "IMF 總裁警告 AI 相關金融資產回撥並未結束 迴圈融資可能威脅金融穩定",
-          "url": "https://money.udn.com/money/story/5599/9890631"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Anthropic上市難救行情　日股暴跌逾3000點",
       "summary": [
         "經濟日報：Anthropic上市難救行情　日股暴跌逾3000點",
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "民眾黨21日活動 黃國昌：蔣萬安、柯文哲同框加油",
       "summary": [
         "自由時報：民眾黨21日活動 黃國昌：蔣萬安、柯文哲同框加油",
@@ -155,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "「都已負重，不該忍辱」 沈伯洋寫信致北市府8萬公務員 拋四大承諾",
       "summary": [
         "自由時報：「都已負重，不該忍辱」 沈伯洋寫信致北市府8萬公務員 拋四大承諾",
@@ -176,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "共和黨2028總統提名戰民調　盧比歐超車範斯情勢大逆轉",
       "summary": [
         "經濟日報：共和黨2028總統提名戰民調　盧比歐超車範斯情勢大逆轉",
@@ -197,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "老農津貼修法3大問題　行政院「不副署」：另以合妥方式保障老農權益",
       "summary": [
         "ETtoday：老農津貼修法3大問題　行政院「不副署」：另以合妥方式保障老農權益",
@@ -214,6 +193,27 @@
           "source": "風傳媒",
           "title": "又來了！行政院宣佈不副署「老農津貼修法」 李慧芝：此修法案有3大問題 | 羅立邦 | 新聞",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0ydmRjZ25KQUJ2RE1tZzJqa3JuTUdmdzdIb3dwdmJQX2Z3cVdsTGl4cTJQdlFPMC1rbGRhTkd1bHRQdVIzNTA5QVNic1k3UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "徐欣瑩競辦人員被檢警帶走！將赴竹縣警局抗議司法介選",
+      "summary": [
+        "自由時報：徐欣瑩競辦人員被檢警帶走！將赴竹縣警局抗議司法介選",
+        "ETtoday：快訊／徐欣瑩競辦出事！同仁遭帶走　奔竹縣刑警大隊抗議司法介選"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "徐欣瑩競辦人員被檢警帶走！將赴竹縣警局抗議司法介選",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648018"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／徐欣瑩競辦出事！同仁遭帶走　奔竹縣刑警大隊抗議司法介選",
+          "url": "https://www.ettoday.net/news/20261120/3275761.htm"
         }
       ]
     }
@@ -275,31 +275,10 @@
     },
     {
       "rank": 3,
-      "title": "報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
-      "summary": [
-        "Investing.com：報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
-        "Bloomberg Tech：SK 海力士將轉換 Kioxia 債券並成為最大股東"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
-          "url": "https://www.investing.com/news/stock-market-news/sk-hynix-weighs-converting-kioxia-bonds-to-shares-report-says-5040745"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "SK 海力士將轉換 Kioxia 債券並成為最大股東",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "隨著 Anthropic 上市，英偉達、博通和美光股價下跌",
       "summary": [
         "Yahoo Finance：隨著 Anthropic 上市，英偉達、博通和美光股價下跌",
-        "BBC World：重磅開盤後，Anthrotic 股價下跌"
+        "Bloomberg Tech：隨著科技股拋售，Anthropic 首次亮相後股價下跌"
       ],
       "media_count": 2,
       "links": [
@@ -309,14 +288,14 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnFiUEhueFNuXzRVcWt0NUlDWXY3b0MwVnYzN0YxYzZBZkoyRnZRQmJqeTJUdlJuaG1ubUdoQkk0Yk5KcHk3N2FTWm5rX2ZqQ2dPeml5dnBHUVZpNFVhdVdWdEZVLVNiRnFpNm15RUktZUdmUV9oV1ZFVWd4VVZwQlYwa19wc3cyMFMzbGRrVXdiYndLeVFUSUhrVTJBSUVmTGR1ZmVsd3QzZ05HTTVabktzRS02aEdDdnhJ?oc=5"
         },
         {
-          "source": "BBC World",
-          "title": "重磅開盤後，Anthrotic 股價下跌",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+          "source": "Bloomberg Tech",
+          "title": "隨著科技股拋售，Anthropic 首次亮相後股價下跌",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-falls-after-blockbuster-debut-as-tech-sell-off-video"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "俄羅斯飛彈攻擊摧毀基輔橋樑",
       "summary": [
         "Financial Times：俄羅斯飛彈攻擊摧毀基輔橋樑",
@@ -337,7 +316,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "美國人工智慧公司如何使用中國開放權重模型",
       "summary": [
         "Bloomberg Markets：美國人工智慧公司如何使用中國開放權重模型",
@@ -358,7 +337,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "IPO火熱後，Anthropic股價暴跌",
       "summary": [
         "Yahoo Finance：IPO火熱後，Anthropic股價暴跌",
@@ -379,7 +358,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
       "summary": [
         "Tom's Hardware：OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
@@ -400,7 +379,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
       "summary": [
         "Investing.com：關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
@@ -421,7 +400,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "SpaceX 子公司 Cursor 告訴立法者，它正在考慮逐步淘汰中國人工智慧模型",
       "summary": [
         "CNBC：SpaceX 子公司 Cursor 告訴立法者，它正在考慮逐步淘汰中國人工智慧模型",
@@ -438,6 +417,27 @@
           "source": "Investing.com",
           "title": "根據 CNBC 報導，SpaceX 的 Cursor 正在考慮放棄中國人工智慧模型",
           "url": "https://www.investing.com/news/stock-market-news/spacexs-cursor-weighs-shift-away-from-chinese-ai-models-cnbc-reports-5041995"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "市場上的人工智慧熱潮正在打破",
+      "summary": [
+        "Financial Times：市場上的人工智慧熱潮正在打破",
+        "Yahoo Finance：為什麼市場正遭受人工智慧「完美風暴」的打擊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "市場上的人工智慧熱潮正在打破",
+          "url": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "為什麼市場正遭受人工智慧「完美風暴」的打擊",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaHJxYndCcUhPbEdVazJIcXV4djZ5TWQxMUNneEtHYXRFNndPRlRZcWhLTFJnT0J0cC1ST1JaYVp4UGJCUmthYkZvTjV4OS1TanduQnVGMG1SS3J6dHMtOXVlVHA3Tmw4WGI4Wk43MGFXeWJpR0Z5elJjckJwMUZCNlczdndQSXFkTklLMjA0aHJqcmJpczNQT2YwcGZTazBSWVh3S3J3bw?oc=5"
         }
       ]
     }
