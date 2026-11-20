@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 11:26",
+  "updated_at": "2026-11-20 11:57",
   "taiwan": [
     {
       "rank": 1,
@@ -137,27 +137,6 @@
     },
     {
       "rank": 6,
-      "title": "臺灣沒有獨步全球 美國也有水庫光電板！當地居民反應曝光",
-      "summary": [
-        "經濟日報：臺灣沒有獨步全球 美國也有水庫光電板！當地居民反應曝光",
-        "ETtoday：美國也有「水庫光電板」　居民反應兩極"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "臺灣沒有獨步全球 美國也有水庫光電板！當地居民反應曝光",
-          "url": "https://money.udn.com/money/story/5599/9890187"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美國也有「水庫光電板」　居民反應兩極",
-          "url": "https://www.ettoday.net/news/20261120/3275280.htm"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "獨家》選前1週！國民黨團擬放行政院6000億追加預算",
       "summary": [
         "自由時報：獨家》選前1週！國民黨團擬放行政院6000億追加預算",
@@ -178,7 +157,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
       "summary": [
         "風傳媒：美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
@@ -199,7 +178,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "明天的天氣/入冬最強冷氣團來了！「低溫探10度」全臺最濕冷時間曝， 一周天氣一次看",
       "summary": [
         "風傳媒：明天的天氣/入冬最強冷氣團來了！「低溫探10度」全臺最濕冷時間曝， 一周天氣一次看",
@@ -220,23 +199,44 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
+      "rank": 9,
+      "title": "輝達共同創辦人補刀！批評黃仁勳「違背創業初衷」：讓我很難受",
       "summary": [
-        "自由時報：葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
-        "經濟日報：葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損"
+        "ETtoday：輝達共同創辦人補刀！批評黃仁勳「違背創業初衷」：讓我很難受",
+        "經濟日報：輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647038"
+          "source": "ETtoday",
+          "title": "輝達共同創辦人補刀！批評黃仁勳「違背創業初衷」：讓我很難受",
+          "url": "https://www.ettoday.net/news/20261120/3275251.htm"
         },
         {
           "source": "經濟日報",
-          "title": "葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
-          "url": "https://money.udn.com/money/story/5599/9890316"
+          "title": "輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
+          "url": "https://money.udn.com/money/story/5599/9890840"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "蔣萬安正港30年同學現身　感嘆「對手像恐怖情人每天找碴」",
+      "summary": [
+        "ETtoday：蔣萬安正港30年同學現身　感嘆「對手像恐怖情人每天找碴」",
+        "中時新聞：蔣萬安30年老同學不忍了！曬罕見舊照轟對手「像恐怖情人」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "蔣萬安正港30年同學現身　感嘆「對手像恐怖情人每天找碴」",
+          "url": "https://www.ettoday.net/news/20261119/3275244.htm"
+        },
+        {
+          "source": "中時新聞",
+          "title": "蔣萬安30年老同學不忍了！曬罕見舊照轟對手「像恐怖情人」",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90SndLMnFKSXpXaDg1RDlVei1QQ1FBQzduNTA0T0NaNUVmSjJRbFh1N0g2aVJfdG1wY19LVjZuN1FSVUtOYktBdDhvVWpSUi1vdkRfbTE3T0JLTEZ5SlRGRWZYM2RkXzVLbmNtTWRR?oc=5"
         }
       ]
     }
@@ -400,48 +400,6 @@
     },
     {
       "rank": 7,
-      "title": "Anthropic 將在納斯達克歷史性地首次亮相",
-      "summary": [
-        "Bloomberg Markets：Anthropic 將在納斯達克歷史性地首次亮相",
-        "Bloomberg Tech：Anthropic 在納斯達克歷史性地首次亮相"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic 將在納斯達克歷史性地首次亮相",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-set-for-historic-debut-on-the-nasdaq-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic 在納斯達克歷史性地首次亮相",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-tech-11-19-2026-video"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Visa、萬事達卡和摩根大通客戶資料被駭客洩露",
-      "summary": [
-        "WSJ Markets：Visa、萬事達卡和摩根大通客戶資料被駭客洩露",
-        "Wccftech：駭客在勒索軟體攻擊中洩露了數千名 Visa、Mastercard 和摩根大通客戶的個人資料"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "WSJ Markets",
-          "title": "Visa、萬事達卡和摩根大通客戶資料被駭客洩露",
-          "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=rss_markets_main"
-        },
-        {
-          "source": "Wccftech",
-          "title": "駭客在勒索軟體攻擊中洩露了數千名 Visa、Mastercard 和摩根大通客戶的個人資料",
-          "url": "https://wccftech.com/hackers-leak-personal-data-of-thousands-of-visa-mastercard-and-jpmorgan-chase-customers-in-ransomware-attack/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Visa、萬事達卡和摩根大通客戶資料在第三方網路攻擊中洩露",
       "summary": [
         "Investing.com：Visa、萬事達卡和摩根大通客戶資料在第三方網路攻擊中洩露",
@@ -462,7 +420,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "聯合國最高法院裁定緬甸對羅興亞少數民族實施種族滅絕",
       "summary": [
         "BBC World：聯合國最高法院裁定緬甸對羅興亞少數民族實施種族滅絕",
@@ -479,6 +437,48 @@
           "source": "法廣RFI",
           "title": "國際法院歷史性裁決　認定緬甸對羅興亞人實施種族滅絕",
           "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261119-%E5%9C%8B%E9%9A%9B%E6%B3%95%E9%99%A2%E6%AD%B7%E5%8F%B2%E6%80%A7%E8%A3%81%E6%B1%BA-%E8%AA%8D%E5%AE%9A%E7%B7%AC%E7%94%B8%E5%B0%8D%E7%BE%85%E8%88%88%E4%BA%9E%E4%BA%BA%E5%AF%A6%E6%96%BD%E7%A8%AE%E6%97%8F%E6%BB%85%E7%B5%95"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "蘇珊史密斯 (Susan Smith) 在溺水兩個兒子 32 年後再次被拒絕假釋",
+      "summary": [
+        "BBC World：蘇珊史密斯 (Susan Smith) 在溺水兩個兒子 32 年後再次被拒絕假釋",
+        "Washington Post：蘇珊史密斯 (Susan Smith) 在南卡羅來納州湖溺水兒子 32 年後被拒絕假釋"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "蘇珊史密斯 (Susan Smith) 在溺水兩個兒子 32 年後再次被拒絕假釋",
+          "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Washington Post",
+          "title": "蘇珊史密斯 (Susan Smith) 在南卡羅來納州湖溺水兒子 32 年後被拒絕假釋",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNER0LXV5UU5rN0lPWjR2VmF6M0xGNVZQcEE1Z3NxQ2pqUzBBdmc2c0FtZmY1UUJrcDExdlJnWEdHZWRnODJENHFkN2c2ejl5ek5tbjJ4Xy01aFpQaXQ0V3VMbDN4UlV0TjdsT01ya1k0d09PWmIzZlVwOWhMWXFJUWl3N0VRRngydXRYZEJoWjhoX3g3d2FZb180UXJxSXAtSWRseV9Mck1uMWQ4cS1yQWRR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國鋼鐵公司與美國鋼鐵工人聯合會達成為期四年的暫定協議",
+      "summary": [
+        "Investing.com：美國鋼鐵公司與美國鋼鐵工人聯合會達成為期四年的暫定協議",
+        "Nikkei Asia：USW 鋼鐵工人工會宣佈與美國鋼鐵公司達成臨時勞工協議"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "美國鋼鐵公司與美國鋼鐵工人聯合會達成為期四年的暫定協議",
+          "url": "https://www.investing.com/news/stock-market-news/us-steel-united-steelworkers-reach-tentative-fouryear-deal-5039578"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "USW 鋼鐵工人工會宣佈與美國鋼鐵公司達成臨時勞工協議",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbUxpVkdtRVlvN1o4YmN5QVQwTmJxR2hDTlZ0VURjWDlsb2N1R0NlUlBjVUpmNHd4X2dYX2ZCNXpmY210cjBHSE1xLW4zTGVNZ2l2dTZQS1RMSG5CTEpjVEIxUGRZOG94S3pIbXVVbTdOeFl2ZFRYSXllNjRFMXFnMFlwZnowNVBuMmxEODhOSThQaEhPY0N2ZDV4OGRhTVN2U3dsUEZrdlJfcjdBYkVhOWpB?oc=5"
         }
       ]
     }
