@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 22:56",
+  "updated_at": "2026-11-20 23:26",
   "taiwan": [
     {
       "rank": 1,
@@ -99,27 +99,6 @@
     },
     {
       "rank": 5,
-      "title": "Intel 甫獲微軟封裝合作  傳 Google 重新回頭找臺積",
-      "summary": [
-        "科技新報：Intel 甫獲微軟封裝合作  傳 Google 重新回頭找臺積",
-        "MoneyDJ理財網：Intel甫獲微軟封裝合作傳Google重新回頭找臺積- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "Intel 甫獲微軟封裝合作  傳 Google 重新回頭找臺積",
-          "url": "https://technews.tw/2026/11/20/intel-microsoft-packaging-partnership-google-return-tsmc/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "Intel甫獲微軟封裝合作傳Google重新回頭找臺積- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVE81SVlucU93eG5pVFU5QkhzalA2V2NVTE9XWGZrbnllYTFDbk1ZcU1IYkd5ZW1WcmN3aXRfV250VllfeDRDeHhiWkM2dzJCR1pxOFA5b1gxdlVRWDB5LUxwVFBuR1k2dkVLVXBQSWdScEpCQVFObkp2WGp3YVEydTluNUgtTl9UcHE1UmFWanNSUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "張啟楷路邊「棒流」恐傷民眾黨選情？　柯文哲比喻：像股票波動",
       "summary": [
         "ETtoday：張啟楷路邊「棒流」恐傷民眾黨選情？　柯文哲比喻：像股票波動",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "法國民議會副議長率團訪臺 林佳龍：盼深化臺法文化交流與科技合作",
       "summary": [
         "自由時報：法國民議會副議長率團訪臺 林佳龍：盼深化臺法文化交流與科技合作",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "阿里在美遭股東提告  被指隱瞞與 Megaspeed 前高層關聯",
       "summary": [
         "科技新報：阿里在美遭股東提告  被指隱瞞與 Megaspeed 前高層關聯",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Intuit 下修財測、市場憂軟體業逆風  盤後崩",
       "summary": [
         "科技新報：Intuit 下修財測、市場憂軟體業逆風  盤後崩",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "高齡投資人遭詐案猖獗  美國會透過新法防堵",
       "summary": [
         "科技新報：高齡投資人遭詐案猖獗  美國會透過新法防堵",
@@ -220,6 +199,27 @@
           "source": "MoneyDJ理財網",
           "title": "高齡投資人遭詐案猖獗美國會透過新法防堵- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1FsLTNNQUppMGNVSFpuQWItR2dlVkhaNFBReHR0bV9GMm5fYUsycElmalNDYVBkaThZaEhqdmpJQUg5eEx0amtkdWxBYldsUGNIbGlCaUxqcVVaZFVhbUdJQXNIS3BVd3YwekExRUVHeW9HbnMzYU9FVkxFSTkzc1haU25LLTlEUnpTc2tyLWszUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "傳暫停中國 16 奈米以下訂單，臺積電：遵循適用法令",
+      "summary": [
+        "科技新報：傳暫停中國 16 奈米以下訂單，臺積電：遵循適用法令",
+        "自由時報：輸出中國16奈米以下晶片傳全面喊停 臺積電：遵循適用法令"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "傳暫停中國 16 奈米以下訂單，臺積電：遵循適用法令",
+          "url": "https://technews.tw/2026/11/20/reportedly-china-sub-16nm-orders-suspended-tsmc-complying-applicable-laws/"
+        },
+        {
+          "source": "自由時報",
+          "title": "輸出中國16奈米以下晶片傳全面喊停 臺積電：遵循適用法令",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5647589"
         }
       ]
     }
@@ -286,27 +286,6 @@
     },
     {
       "rank": 3,
-      "title": "APEC直播：深圳事件如何展開",
-      "summary": [
-        "Nikkei Asia：APEC直播：深圳事件如何展開",
-        "紐約時報中文：APEC峰會期間，深圳變「空城」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "APEC直播：深圳事件如何展開",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYUFnc3p3SkxsODc3blRIVHN1elBpNkloZUFucUlDdXlPdG1BUU12MXNkLWtHckVFOXE4UEhYdl81Qlk4aW9CVXhXZlVBRzRRU0ktRHprZlNOTmZKQ2hrcU8zdE1fWlB3eVJSd1FnWHh0QXdWNHhBUVN0ak1LdmNiVG9fYWZ4bjFLWVowdVFIVDBPdjNIMlhmSTgtN1VHTnUwMVpVelJB?oc=5"
-        },
-        {
-          "source": "紐約時報中文",
-          "title": "APEC峰會期間，深圳變「空城」",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnBkdllsMDRkbk1jSmYyZ01zOW1KN1M1aFFXQzZuYjVheW80VVZFYzY3VlJST0pSblUtS2VvQ21JWXQzVHcyZ19CbXI4ekRwb1VWNVF2OWFwWDVsdHVwREgtS3BVN25aRUlia3QzY09Wc1NVQjNjUTk0S0xRSlJFUGh3RTg1WXB3TUZ3X0VQTGkyZDZ0Rml2WFFFYmo4ekNRMHRac0FjNVhXQ2VYYlE?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌",
       "summary": [
         "Yahoo Finance：由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌",
@@ -327,7 +306,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "據稱DayOne因資料中心和市場擔憂而暫停美國IPO計劃",
       "summary": [
         "Bloomberg Markets：據稱DayOne因資料中心和市場擔憂而暫停美國IPO計劃",
@@ -348,7 +327,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
       "summary": [
         "Investing.com：報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
@@ -369,7 +348,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "俄羅斯飛彈攻擊摧毀基輔橋樑",
       "summary": [
         "Financial Times：俄羅斯飛彈攻擊摧毀基輔橋樑",
@@ -390,7 +369,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美國人工智慧公司如何使用中國開放權重模型",
       "summary": [
         "Bloomberg Markets：美國人工智慧公司如何使用中國開放權重模型",
@@ -411,7 +390,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
       "summary": [
         "Tom's Hardware：OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
@@ -432,7 +411,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
       "summary": [
         "Investing.com：關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
@@ -449,6 +428,27 @@
           "source": "Bloomberg Tech",
           "title": "諾華執行長：人工智慧可以將藥物開發時間縮短數年",
           "url": "https://www.bloomberg.com/news/videos/2026-11-20/novartis-ai-could-cut-drug-development-time-by-years-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
+      "summary": [
+        "Bloomberg Markets：Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
+        "MarketWatch：Anthropic 股價逼近 IPO 價格，拖累人工智慧產業"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Anthropic 股價逼近 IPO 價格，拖累人工智慧產業",
+          "url": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories"
         }
       ]
     }
