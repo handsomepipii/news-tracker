@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 11:57",
+  "updated_at": "2026-11-20 12:26",
   "taiwan": [
     {
       "rank": 1,
@@ -137,27 +137,6 @@
     },
     {
       "rank": 6,
-      "title": "獨家》選前1週！國民黨團擬放行政院6000億追加預算",
-      "summary": [
-        "自由時報：獨家》選前1週！國民黨團擬放行政院6000億追加預算",
-        "ETtoday：選舉倒數8天！國民黨擬放6000億追加預算　最快今三讀"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "獨家》選前1週！國民黨團擬放行政院6000億追加預算",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5647011"
-        },
-        {
-          "source": "ETtoday",
-          "title": "選舉倒數8天！國民黨擬放6000億追加預算　最快今三讀",
-          "url": "https://www.ettoday.net/news/20261120/3275274.htm"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
       "summary": [
         "風傳媒：美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
@@ -178,7 +157,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "明天的天氣/入冬最強冷氣團來了！「低溫探10度」全臺最濕冷時間曝， 一周天氣一次看",
       "summary": [
         "風傳媒：明天的天氣/入冬最強冷氣團來了！「低溫探10度」全臺最濕冷時間曝， 一周天氣一次看",
@@ -199,7 +178,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "輝達共同創辦人補刀！批評黃仁勳「違背創業初衷」：讓我很難受",
       "summary": [
         "ETtoday：輝達共同創辦人補刀！批評黃仁勳「違背創業初衷」：讓我很難受",
@@ -220,7 +199,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "蔣萬安正港30年同學現身　感嘆「對手像恐怖情人每天找碴」",
       "summary": [
         "ETtoday：蔣萬安正港30年同學現身　感嘆「對手像恐怖情人每天找碴」",
@@ -237,6 +216,27 @@
           "source": "中時新聞",
           "title": "蔣萬安30年老同學不忍了！曬罕見舊照轟對手「像恐怖情人」",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90SndLMnFKSXpXaDg1RDlVei1QQ1FBQzduNTA0T0NaNUVmSjJRbFh1N0g2aVJfdG1wY19LVjZuN1FSVUtOYktBdDhvVWpSUi1vdkRfbTE3T0JLTEZ5SlRGRWZYM2RkXzVLbmNtTWRR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
+      "summary": [
+        "自由時報：葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
+        "經濟日報：葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647038"
+        },
+        {
+          "source": "經濟日報",
+          "title": "葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
+          "url": "https://money.udn.com/money/story/5599/9890316"
         }
       ]
     }
@@ -379,6 +379,27 @@
     },
     {
       "rank": 6,
+      "title": "Anthropic 首次亮相未能重振人工智慧熱情，華爾街股市下滑",
+      "summary": [
+        "Investing.com：Anthropic 首次亮相未能重振人工智慧熱情，華爾街股市下滑",
+        "Yahoo Finance：由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Anthropic 首次亮相未能重振人工智慧熱情，華爾街股市下滑",
+          "url": "https://www.investing.com/news/stock-market-news/wall-street-slides-as-anthropics-debut-fails-to-revive-ai-enthusiasm-5039839"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFNmNkd1bmdWZnlubzV3QzRrb0FhOHA4cUxudFBiNElPX2dMa3hHbXRPU1BndERKeWVWNzZiRVU5bEtBeDV3Z2RhWXhQRlhRM2RyRGZtSi1YTkc2amdqS3BlVFJhd0lsdzM5cmxfRmVBZUF2V0QxMkZNZjkzU3VaeWZ3OTNWMm8tR3d2T3NqNkZ4YlJVNG9odnh3Yw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "加州總檢察長向英偉達發出傳票，調查中國晶片轉移事件",
       "summary": [
         "CNBC：加州總檢察長向英偉達發出傳票，調查中國晶片轉移事件",
@@ -399,28 +420,28 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Visa、萬事達卡和摩根大通客戶資料在第三方網路攻擊中洩露",
+      "rank": 8,
+      "title": "Anthropic 的大型 IPO 不辜負華爾街的炒作，但未能重振人工智慧貿易",
       "summary": [
-        "Investing.com：Visa、萬事達卡和摩根大通客戶資料在第三方網路攻擊中洩露",
-        "Yahoo Finance：摩根大通、Visa 和萬事達卡披露針對第三方供應商的網路攻擊"
+        "WSJ Markets：Anthropic 的大型 IPO 不辜負華爾街的炒作，但未能重振人工智慧貿易",
+        "Bloomberg Tech：由於 Anthropic IPO 未能消除人工智慧困境，亞洲晶片股下跌"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "Visa、萬事達卡和摩根大通客戶資料在第三方網路攻擊中洩露",
-          "url": "https://www.investing.com/news/stock-market-news/visa-mastercard-and-jpmorgan-customer-data-leaked-in-thirdparty-cyberattack-5039535"
+          "source": "WSJ Markets",
+          "title": "Anthropic 的大型 IPO 不辜負華爾街的炒作，但未能重振人工智慧貿易",
+          "url": "https://www.wsj.com/finance/stocks/anthropic-ipo-ai-markets-89e2476f?mod=rss_markets_main"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "摩根大通、Visa 和萬事達卡披露針對第三方供應商的網路攻擊",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2R0aHc1VDVIQ3QxYjZFTmdYTktsYjBPdUFfUlY4UVZPekNOSTVwS1JWR1hoVkVlTXFIdFNwakdEMHlXWlpWNWhMdWlZNHZjSTczR2hFUm02M3BBOG1sRzhDVlE1cTlPa1ppNWRack1rMTNfelJpWlJleENsVGhwYlFwdWZUaGd2TjQ1OG9rMzh2TzlEVE1mZmhyQVI2RTFkN25BVnFLNjRlUHBma29Gc05WVHBrTjVhaGNlQzlSaXlDZm9sOGhNZw?oc=5"
+          "source": "Bloomberg Tech",
+          "title": "由於 Anthropic IPO 未能消除人工智慧困境，亞洲晶片股下跌",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes"
         }
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "聯合國最高法院裁定緬甸對羅興亞少數民族實施種族滅絕",
       "summary": [
         "BBC World：聯合國最高法院裁定緬甸對羅興亞少數民族實施種族滅絕",
@@ -441,7 +462,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "蘇珊史密斯 (Susan Smith) 在溺水兩個兒子 32 年後再次被拒絕假釋",
       "summary": [
         "BBC World：蘇珊史密斯 (Susan Smith) 在溺水兩個兒子 32 年後再次被拒絕假釋",
@@ -458,27 +479,6 @@
           "source": "Washington Post",
           "title": "蘇珊史密斯 (Susan Smith) 在南卡羅來納州湖溺水兒子 32 年後被拒絕假釋",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNER0LXV5UU5rN0lPWjR2VmF6M0xGNVZQcEE1Z3NxQ2pqUzBBdmc2c0FtZmY1UUJrcDExdlJnWEdHZWRnODJENHFkN2c2ejl5ek5tbjJ4Xy01aFpQaXQ0V3VMbDN4UlV0TjdsT01ya1k0d09PWmIzZlVwOWhMWXFJUWl3N0VRRngydXRYZEJoWjhoX3g3d2FZb180UXJxSXAtSWRseV9Mck1uMWQ4cS1yQWRR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "美國鋼鐵公司與美國鋼鐵工人聯合會達成為期四年的暫定協議",
-      "summary": [
-        "Investing.com：美國鋼鐵公司與美國鋼鐵工人聯合會達成為期四年的暫定協議",
-        "Nikkei Asia：USW 鋼鐵工人工會宣佈與美國鋼鐵公司達成臨時勞工協議"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "美國鋼鐵公司與美國鋼鐵工人聯合會達成為期四年的暫定協議",
-          "url": "https://www.investing.com/news/stock-market-news/us-steel-united-steelworkers-reach-tentative-fouryear-deal-5039578"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "USW 鋼鐵工人工會宣佈與美國鋼鐵公司達成臨時勞工協議",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbUxpVkdtRVlvN1o4YmN5QVQwTmJxR2hDTlZ0VURjWDlsb2N1R0NlUlBjVUpmNHd4X2dYX2ZCNXpmY210cjBHSE1xLW4zTGVNZ2l2dTZQS1RMSG5CTEpjVEIxUGRZOG94S3pIbXVVbTdOeFl2ZFRYSXllNjRFMXFnMFlwZnowNVBuMmxEODhOSThQaEhPY0N2ZDV4OGRhTVN2U3dsUEZrdlJfcjdBYkVhOWpB?oc=5"
         }
       ]
     }
