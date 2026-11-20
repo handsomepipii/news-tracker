@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 07:27",
+  "updated_at": "2026-11-21 07:57",
   "taiwan": [
     {
       "rank": 1,
@@ -57,48 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "沈伯洋致北市府公務員1封信　提4承諾「都已負重不該忍辱」",
-      "summary": [
-        "ETtoday：沈伯洋致北市府公務員1封信　提4承諾「都已負重不該忍辱」",
-        "自由時報：公開信致北市公務員沈伯洋：都已負重，不該忍辱"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "沈伯洋致北市府公務員1封信　提4承諾「都已負重不該忍辱」",
-          "url": "https://www.ettoday.net/news/20261120/3275733.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "公開信致北市公務員沈伯洋：都已負重，不該忍辱",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1779260"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "老農津貼修法3大問題　行政院「不副署」：另以合妥方式保障老農權益",
-      "summary": [
-        "ETtoday：老農津貼修法3大問題　行政院「不副署」：另以合妥方式保障老農權益",
-        "風傳媒：又來了！行政院宣佈不副署「老農津貼修法」 李慧芝：此修法案有3大問題 | 羅立邦 | 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "老農津貼修法3大問題　行政院「不副署」：另以合妥方式保障老農權益",
-          "url": "https://www.ettoday.net/news/20261120/3275734.htm"
-        },
-        {
-          "source": "風傳媒",
-          "title": "又來了！行政院宣佈不副署「老農津貼修法」 李慧芝：此修法案有3大問題 | 羅立邦 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0ydmRjZ25KQUJ2RE1tZzJqa3JuTUdmdzdIb3dwdmJQX2Z3cVdsTGl4cTJQdlFPMC1rbGRhTkd1bHRQdVIzNTA5QVNic1k3UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "徐欣瑩競辦人員被檢警帶走！將赴竹縣警局抗議司法介選",
       "summary": [
         "自由時報：徐欣瑩競辦人員被檢警帶走！將赴竹縣警局抗議司法介選",
@@ -119,7 +77,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "才表態挺沈伯洋就被嗆不紅！八點檔女星不甩酸民 再發文轟「舊思維必須更新」",
       "summary": [
         "自由時報：才表態挺沈伯洋就被嗆不紅！八點檔女星不甩酸民 再發文轟「舊思維必須更新」",
@@ -140,7 +98,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "紐時記者：輝達晶片流入共軍實驗室　協助攻臺研究",
       "summary": [
         "經濟日報：紐時記者：輝達晶片流入共軍實驗室　協助攻臺研究",
@@ -161,7 +119,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "馬斯克出手了！SpaceX旗下公司擬棄用中國AI模型  背後原因曝光",
       "summary": [
         "自由時報：馬斯克出手了！SpaceX旗下公司擬棄用中國AI模型  背後原因曝光",
@@ -182,7 +140,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "川普習近平會談　美財長：未提及黃仁勳",
       "summary": [
         "自由時報：川普習近平會談　美財長：未提及黃仁勳",
@@ -203,7 +161,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Anthropic上市難消疑慮　歐股受挫",
       "summary": [
         "自由時報：Anthropic上市難消疑慮　歐股受挫",
@@ -220,6 +178,48 @@
           "source": "經濟日報",
           "title": "Anthropic上市難消疑慮　歐股受挫",
           "url": "https://money.udn.com/money/story/5599/9892534"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
+      "summary": [
+        "自由時報：美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
+        "經濟日報：美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5648239"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
+          "url": "https://money.udn.com/money/story/5599/9892548"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普：美國只想賣中國較舊款晶片　正洽談全面協議",
+      "summary": [
+        "自由時報：川普：美國只想賣中國較舊款晶片　正洽談全面協議",
+        "經濟日報：川普：美國只想賣中國較舊款晶片　正洽談全面協議"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川普：美國只想賣中國較舊款晶片　正洽談全面協議",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5648242"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普：美國只想賣中國較舊款晶片　正洽談全面協議",
+          "url": "https://money.udn.com/money/story/5599/9892563"
         }
       ]
     }
@@ -302,27 +302,6 @@
     },
     {
       "rank": 4,
-      "title": "隨著人工智慧拋售的加深，人類經濟衰退",
-      "summary": [
-        "Bloomberg Tech：隨著人工智慧拋售的加深，人類經濟衰退",
-        "Bloomberg Markets：人工智慧貿易揭秘； Anthropic 首次亮相後大幅下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "隨著人工智慧拋售的加深，人類經濟衰退",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-20/the-pulse-with-francine-lacqua-11-20-2026-video"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "人工智慧貿易揭秘； Anthropic 首次亮相後大幅下跌",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-brief-11-20-2026-video"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "隨著人工智慧巨頭遭遇科技股拋售，Anthrotic 股價暴跌",
       "summary": [
         "Financial Times：隨著人工智慧巨頭遭遇科技股拋售，Anthrotic 股價暴跌",
@@ -343,11 +322,32 @@
       ]
     },
     {
+      "rank": 5,
+      "title": "人工智慧貿易揭秘； Anthropic 首次亮相後大幅下跌",
+      "summary": [
+        "Bloomberg Markets：人工智慧貿易揭秘； Anthropic 首次亮相後大幅下跌",
+        "Bloomberg Tech：隨著人工智慧拋售蔓延，人為因素下滑"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "人工智慧貿易揭秘； Anthropic 首次亮相後大幅下跌",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-brief-11-20-2026-video"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "隨著人工智慧拋售蔓延，人為因素下滑",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/open-interest-11-20-2026-video"
+        }
+      ]
+    },
+    {
       "rank": 6,
       "title": "CrowdStrike 正在洽談收購網路安全公司 Zscaler",
       "summary": [
         "Bloomberg Markets：CrowdStrike 正在洽談收購網路安全公司 Zscaler",
-        "Investing.com：訊息稱，CrowdStrike 正在洽談收購 Zscaler"
+        "Investing.com：訊息人士稱，CrowdStrike 正在洽談收購 Zscaler"
       ],
       "media_count": 2,
       "links": [
@@ -358,34 +358,13 @@
         },
         {
           "source": "Investing.com",
-          "title": "訊息稱，CrowdStrike 正在洽談收購 Zscaler",
+          "title": "訊息人士稱，CrowdStrike 正在洽談收購 Zscaler",
           "url": "https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
-      "summary": [
-        "Investing.com：關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
-        "Bloomberg Tech：諾華執行長：人工智慧可以將藥物開發時間縮短數年"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
-          "url": "https://www.investing.com/news/stock-market-news/big-pharma-with-eye-on-anthropic-says-ai-is-shrinking-drug-discovery-timelines-5041287"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "諾華執行長：人工智慧可以將藥物開發時間縮短數年",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-20/novartis-ai-could-cut-drug-development-time-by-years-video"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "國際法院以九票對六票認定緬甸對羅興亞人實施種族滅絕",
       "summary": [
         "德國之聲：國際法院以九票對六票認定緬甸對羅興亞人實施種族滅絕",
@@ -406,7 +385,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "SpaceX 子公司 Cursor 告訴立法者，它正在考慮逐步淘汰中國人工智慧模型",
       "summary": [
         "CNBC：SpaceX 子公司 Cursor 告訴立法者，它正在考慮逐步淘汰中國人工智慧模型",
@@ -427,7 +406,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "市場上的人工智慧熱潮正在打破",
       "summary": [
         "Financial Times：市場上的人工智慧熱潮正在打破",
@@ -444,6 +423,27 @@
           "source": "Yahoo Finance",
           "title": "為什麼市場正遭受人工智慧「完美風暴」的打擊",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaHJxYndCcUhPbEdVazJIcXV4djZ5TWQxMUNneEtHYXRFNndPRlRZcWhLTFJnT0J0cC1ST1JaYVp4UGJCUmthYkZvTjV4OS1TanduQnVGMG1SS3J6dHMtOXVlVHA3Tmw4WGI4Wk43MGFXeWJpR0Z5elJjckJwMUZCNlczdndQSXFkTklLMjA0aHJqcmJpczNQT2YwcGZTazBSWVh3S3J3bw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "比特幣跌破 60,000 美元水平",
+      "summary": [
+        "Investing.com：比特幣跌破 60,000 美元水平",
+        "Yahoo Finance：比特幣跌破 59,000 美元，創 2022 年 6 月以來最糟糕月份"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "比特幣跌破 60,000 美元水平",
+          "url": "https://www.investing.com/news/stock-market-news/bitcoin-falls-below-60000-level-5042271"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "比特幣跌破 59,000 美元，創 2022 年 6 月以來最糟糕月份",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRElXRUZRbXlfNVZIY09CRXlMTDV6a1JZeVpKQV9SYVpqX3F5X2RoYWV4YjNkeUJkX2ZXekpMM3ExRFpJYXRSYkk0cHk1aUk3R0U4ZktpTUI4VTNoUkp0ZEhNM1A0NExvNWhFY2RmVThRY0JuV0JyeUdHdGZEOFE4WE1aTFpxUmZqWnM2dHBaLXNQa1JWN0FGOUdEZzhKeUZPQmlKYmFHZmhNLVFLcUVrc2ZId0k2MjBlSHZ6SFZUT2VsT1FxVU93?oc=5"
         }
       ]
     }
