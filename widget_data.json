@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 01:27",
+  "updated_at": "2026-11-21 02:00",
   "taiwan": [
     {
       "rank": 1,
@@ -30,33 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "SpaceX 太空資料中心惹議  傳債權人憂晶片有去無回",
-      "summary": [
-        "科技新報：SpaceX 太空資料中心惹議  傳債權人憂晶片有去無回",
-        "經濟日報：SpaceX發債320億美元買輝達晶片 銀行先設防：別把擔保品送上太空",
-        "MoneyDJ理財網：SpaceX太空資料中心惹議傳債權人憂晶片有去無回- 新聞"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "SpaceX 太空資料中心惹議  傳債權人憂晶片有去無回",
-          "url": "https://finance.technews.tw/2026/11/20/spacex-space-data-center-controversy-creditors-worry-chips-unrecoverable/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "SpaceX發債320億美元買輝達晶片 銀行先設防：別把擔保品送上太空",
-          "url": "https://money.udn.com/money/story/5599/9891406"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "SpaceX太空資料中心惹議傳債權人憂晶片有去無回- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUlsdWx0WDQyQlRiWEg1eW03cEpLQUo5Y2ZpNHVKYmVqNjVPMUh4YWZzSm1QZ3ZiY0NaUThqaGZyVGdRbFBxZ0Q2Tzl5NjJ0THZNcHNLTlhXSzIzU0FwOGxPR3I1a0lJNV9GR1BNa294eTd5R0llX1hISWZvTl9scHJOMHpyQTBfdGlaZktsZl9QZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "基輔3座大橋遭俄襲擊釀3死15傷　開戰以來最大規模",
       "summary": [
         "經濟日報：基輔3座大橋遭俄襲擊釀3死15傷　開戰以來最大規模",
@@ -77,28 +50,28 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "輝達共同創辦人哽咽批黃仁勳　指背叛公司核心價值",
+      "rank": 3,
+      "title": "Anthropic上市難消除AI隱憂　亞股收盤盡墨",
       "summary": [
-        "經濟日報：輝達共同創辦人哽咽批黃仁勳　指背叛公司核心價值",
-        "科技新報：輝達共同創辦人員工大會哽咽，批黃仁勳「背叛公司核心價值」"
+        "經濟日報：Anthropic上市難消除AI隱憂　亞股收盤盡墨",
+        "自由時報：Anthropic上市難消疑慮　歐股受挫"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "經濟日報",
-          "title": "輝達共同創辦人哽咽批黃仁勳　指背叛公司核心價值",
-          "url": "https://money.udn.com/money/story/5599/9891204"
+          "title": "Anthropic上市難消除AI隱憂　亞股收盤盡墨",
+          "url": "https://money.udn.com/money/story/5599/9891929"
         },
         {
-          "source": "科技新報",
-          "title": "輝達共同創辦人員工大會哽咽，批黃仁勳「背叛公司核心價值」",
-          "url": "https://technews.tw/2026/11/20/nvidia-co-founder-choked-up-employee-meeting-criticizes-jensen-huang-betraying-core-values/"
+          "source": "自由時報",
+          "title": "Anthropic上市難消疑慮　歐股受挫",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5648230"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "高齡投資人遭詐案猖獗  美國會透過新法防堵",
       "summary": [
         "科技新報：高齡投資人遭詐案猖獗  美國會透過新法防堵",
@@ -119,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "傳暫停中國 16 奈米以下訂單，臺積電：遵循適用法令",
       "summary": [
         "科技新報：傳暫停中國 16 奈米以下訂單，臺積電：遵循適用法令",
@@ -140,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "蘋果公司開發自己的人工智慧代理與OpenAI和Anthropic競爭",
       "summary": [
         "經濟日報：蘋果公司開發自己的人工智慧代理與OpenAI和Anthropic競爭",
@@ -161,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "網球》臺英混血女將季末8連勝！葛藍喬安娜勇闖雪梨4強",
       "summary": [
         "自由時報：網球》臺英混血女將季末8連勝！葛藍喬安娜勇闖雪梨4強",
@@ -182,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "AI投資熱潮還會再修正？IMF總裁示警：1兆美元迴圈融資，暗藏金融風險 | 李靖棠 | 新聞",
       "summary": [
         "風傳媒：AI投資熱潮還會再修正？IMF總裁示警：1兆美元迴圈融資，暗藏金融風險 | 李靖棠 | 新聞",
@@ -203,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Anthropic上市難救行情　日股暴跌逾3000點",
       "summary": [
         "經濟日報：Anthropic上市難救行情　日股暴跌逾3000點",
@@ -220,6 +193,27 @@
           "source": "科技新報",
           "title": "Anthropic 上市難救行情，日股暴跌逾 3,000 點",
           "url": "https://finance.technews.tw/2026/11/20/nikkei-plunges-more-than-3000-points/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "民眾黨21日活動 黃國昌：蔣萬安、柯文哲同框加油",
+      "summary": [
+        "自由時報：民眾黨21日活動 黃國昌：蔣萬安、柯文哲同框加油",
+        "ETtoday：柯文哲南下屏東催票！力挺林育先3人：民眾黨火種一定要當選"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "民眾黨21日活動 黃國昌：蔣萬安、柯文哲同框加油",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5647625"
+        },
+        {
+          "source": "ETtoday",
+          "title": "柯文哲南下屏東催票！力挺林育先3人：民眾黨火種一定要當選",
+          "url": "https://www.ettoday.net/news/20261120/3275771.htm"
         }
       ]
     }
@@ -281,48 +275,6 @@
     },
     {
       "rank": 3,
-      "title": "據稱DayOne因資料中心和市場擔憂而暫停美國IPO計劃",
-      "summary": [
-        "Bloomberg Markets：據稱DayOne因資料中心和市場擔憂而暫停美國IPO計劃",
-        "Investing.com：由於人工智慧市場波動，新加坡 DayOne 暫停美國 IPO 計畫"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "據稱DayOne因資料中心和市場擔憂而暫停美國IPO計劃",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-20/dayone-singapore-us-ipo-plans-data-center-market-chip-curbs-bytedance-tiktok-firmus"
-        },
-        {
-          "source": "Investing.com",
-          "title": "由於人工智慧市場波動，新加坡 DayOne 暫停美國 IPO 計畫",
-          "url": "https://www.investing.com/news/stock-market-news/singapores-dayone-pauses-us-ipo-plans-amid-ai-market-volatility--bloomberg-5040732"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "臺灣告訴Meta，數千個與中國有關的帳號試圖影響選舉",
-      "summary": [
-        "Investing.com：臺灣告訴Meta，數千個與中國有關的帳號試圖影響選舉",
-        "法廣RFI：臺灣舉報數千個疑似與中國有關的Threads賬號，意圖影響下週的選舉"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "臺灣告訴Meta，數千個與中國有關的帳號試圖影響選舉",
-          "url": "https://www.investing.com/news/stock-market-news/exclusivetaiwan-tells-meta-thousands-of-chinalinked-accounts-seek-to-influence-elections-5040684"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "臺灣舉報數千個疑似與中國有關的Threads賬號，意圖影響下週的選舉",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261120-%E5%8F%B0%E7%81%A3%E8%88%89%E5%A0%B1%E6%95%B8%E5%8D%83%E5%80%8B%E7%96%91%E4%BC%BC%E8%88%87%E4%B8%AD%E5%9C%8B%E6%9C%89%E9%97%9C%E7%9A%84threads%E8%B3%AC%E8%99%9F%EF%BC%8C%E6%84%8F%E5%9C%96%E5%BD%B1%E9%9F%BF%E4%B8%8B%E5%91%A8%E7%9A%84%E9%81%B8%E8%88%89"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
       "summary": [
         "Investing.com：報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
@@ -343,7 +295,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "隨著 Anthropic 上市，英偉達、博通和美光股價下跌",
       "summary": [
         "Yahoo Finance：隨著 Anthropic 上市，英偉達、博通和美光股價下跌",
@@ -364,7 +316,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "俄羅斯飛彈攻擊摧毀基輔橋樑",
       "summary": [
         "Financial Times：俄羅斯飛彈攻擊摧毀基輔橋樑",
@@ -385,7 +337,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "美國人工智慧公司如何使用中國開放權重模型",
       "summary": [
         "Bloomberg Markets：美國人工智慧公司如何使用中國開放權重模型",
@@ -406,7 +358,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "IPO火熱後，Anthropic股價暴跌",
       "summary": [
         "Yahoo Finance：IPO火熱後，Anthropic股價暴跌",
@@ -427,7 +379,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
       "summary": [
         "Tom's Hardware：OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
@@ -444,6 +396,48 @@
           "source": "Wccftech",
           "title": "OpenAI 車型在 AMD 旗艦 GPU 設計上實現了高達 14% 的 PPA 增益，其中一些變更已傳送至製造",
           "url": "https://wccftech.com/openai-models-deliver-up-to-14-ppa-gains-on-amd-flagship-gpu-designs-with-some-changes-already-sent-to-manufacturing/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
+      "summary": [
+        "Investing.com：關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
+        "Bloomberg Tech：諾華執行長：人工智慧可以將藥物開發時間縮短數年"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
+          "url": "https://www.investing.com/news/stock-market-news/big-pharma-with-eye-on-anthropic-says-ai-is-shrinking-drug-discovery-timelines-5041287"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "諾華執行長：人工智慧可以將藥物開發時間縮短數年",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/novartis-ai-could-cut-drug-development-time-by-years-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "SpaceX 子公司 Cursor 告訴立法者，它正在考慮逐步淘汰中國人工智慧模型",
+      "summary": [
+        "CNBC：SpaceX 子公司 Cursor 告訴立法者，它正在考慮逐步淘汰中國人工智慧模型",
+        "Investing.com：根據 CNBC 報導，SpaceX 的 Cursor 正在考慮放棄中國人工智慧模型"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "SpaceX 子公司 Cursor 告訴立法者，它正在考慮逐步淘汰中國人工智慧模型",
+          "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "根據 CNBC 報導，SpaceX 的 Cursor 正在考慮放棄中國人工智慧模型",
+          "url": "https://www.investing.com/news/stock-market-news/spacexs-cursor-weighs-shift-away-from-chinese-ai-models-cnbc-reports-5041995"
         }
       ]
     }
