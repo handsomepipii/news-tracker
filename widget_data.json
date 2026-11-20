@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-20 19:57",
+  "updated_at": "2026-11-20 20:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "美媒：臺積電暫停中國16奈米以下訂單　替代輝達晶片研發受阻",
-      "summary": [
-        "經濟日報：美媒：臺積電暫停中國16奈米以下訂單　替代輝達晶片研發受阻",
-        "自由時報：臺積電出手封殺中國晶片！美出口新規上路 16奈米以下訂單全面喊停",
-        "科技新報：傳暫停中國 16 奈米以下訂單，臺積電：遵循適用法令"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美媒：臺積電暫停中國16奈米以下訂單　替代輝達晶片研發受阻",
-          "url": "https://money.udn.com/money/story/5599/9890458"
-        },
-        {
-          "source": "自由時報",
-          "title": "臺積電出手封殺中國晶片！美出口新規上路 16奈米以下訂單全面喊停",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5647138"
-        },
-        {
-          "source": "科技新報",
-          "title": "傳暫停中國 16 奈米以下訂單，臺積電：遵循適用法令",
-          "url": "https://technews.tw/2026/11/20/reportedly-china-sub-16nm-orders-suspended-tsmc-complying-applicable-laws/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "SpaceX 太空資料中心惹議  傳債權人憂晶片有去無回",
       "summary": [
         "科技新報：SpaceX 太空資料中心惹議  傳債權人憂晶片有去無回",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "韓國AI作弊爭議 李在明：改革考試制度嚴懲違規",
       "summary": [
         "經濟日報：韓國AI作弊爭議 李在明：改革考試制度嚴懲違規",
@@ -83,7 +56,49 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "決戰中臺灣！何欣純8天4場大型造勢重兵強攻 滅火器今晚助陣",
+      "summary": [
+        "自由時報：決戰中臺灣！何欣純8天4場大型造勢重兵強攻 滅火器今晚助陣",
+        "關鍵評論網：《國家定位大擂臺》：臺灣是不是主權獨立國家？（中華民國派）"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "決戰中臺灣！何欣純8天4場大型造勢重兵強攻 滅火器今晚助陣",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5647095"
+        },
+        {
+          "source": "關鍵評論網",
+          "title": "《國家定位大擂臺》：臺灣是不是主權獨立國家？（中華民國派）",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xTExfdDZ6SF9xZm1naUtqWk9BVERQQlVNS04zYTBBeGtTOXAtQzdSdjdpdjVXSXhGUnVRMC1zR1EzdEwybnM4VkxmeHRlYkttX2pGNA?oc=5"
+        }
+      ]
+    },
+    {
       "rank": 4,
+      "title": "臺積電出手封殺中國晶片！美出口新規上路 16奈米以下訂單全面喊停",
+      "summary": [
+        "自由時報：臺積電出手封殺中國晶片！美出口新規上路 16奈米以下訂單全面喊停",
+        "科技新報：傳暫停中國 16 奈米以下訂單，臺積電：遵循適用法令"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "臺積電出手封殺中國晶片！美出口新規上路 16奈米以下訂單全面喊停",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5647138"
+        },
+        {
+          "source": "科技新報",
+          "title": "傳暫停中國 16 奈米以下訂單，臺積電：遵循適用法令",
+          "url": "https://technews.tw/2026/11/20/reportedly-china-sub-16nm-orders-suspended-tsmc-complying-applicable-laws/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
       "summary": [
         "經濟日報：輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
@@ -104,49 +119,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
-      "summary": [
-        "iThome：NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
-        "科技新報：駭客也騙不了的定位，NIST 利用糾纏光子打造防竄改的「量子位置驗證」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
-          "url": "https://www.ithome.com.tw/news/180652"
-        },
-        {
-          "source": "科技新報",
-          "title": "駭客也騙不了的定位，NIST 利用糾纏光子打造防竄改的「量子位置驗證」",
-          "url": "https://technews.tw/2026/11/20/quantum-physics-can-verify-a-persons-location-researchers-show/"
-        }
-      ]
-    },
-    {
       "rank": 6,
-      "title": "韋德齊5度當選捷克參議長　布拉格副市長接任市長",
-      "summary": [
-        "經濟日報：韋德齊5度當選捷克參議長　布拉格副市長接任市長",
-        "自由時報：韋德齊5度當選捷克參議長 布拉格副市長接任市長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "韋德齊5度當選捷克參議長　布拉格副市長接任市長",
-          "url": "https://money.udn.com/money/story/5599/9890460"
-        },
-        {
-          "source": "自由時報",
-          "title": "韋德齊5度當選捷克參議長 布拉格副市長接任市長",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647088"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "金馬放映最後一場那天...《菲律賓女孩》32歲女星不敵淋巴瘤離世",
       "summary": [
         "自由時報：金馬放映最後一場那天...《菲律賓女孩》32歲女星不敵淋巴瘤離世",
@@ -167,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "臺股3天狂瀉！何如芸深夜悲吐「倒賠做白工」釣出大批股民",
       "summary": [
         "ETtoday：臺股3天狂瀉！何如芸深夜悲吐「倒賠做白工」釣出大批股民",
@@ -188,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "暗指臺灣？馬斯克稱「T開頭國家」恐引摩擦 稱自己是中國超級粉絲",
       "summary": [
         "TVBS新聞：暗指臺灣？馬斯克稱「T開頭國家」恐引摩擦 稱自己是中國超級粉絲",
@@ -209,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Visa、摩根大通使用者個資遭駭　n0n勒索軟體組織宣稱犯案",
       "summary": [
         "經濟日報：Visa、摩根大通使用者個資遭駭　n0n勒索軟體組織宣稱犯案",
@@ -228,28 +201,49 @@
           "url": "https://infosecu.technews.tw/2026/11/20/visa-mastercard-jpmorgan-user-data-hacked-n0n-ransomware-claims-responsibility/"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "沃爾瑪財測遜預期  燃料／運輸成本壓力增",
+      "summary": [
+        "科技新報：沃爾瑪財測遜預期  燃料／運輸成本壓力增",
+        "MoneyDJ理財網：沃爾瑪財測遜預期燃料/運輸成本壓力增- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "沃爾瑪財測遜預期  燃料／運輸成本壓力增",
+          "url": "https://finance.technews.tw/2026/11/20/walmart-reports-third-quarter-results-q3/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "沃爾瑪財測遜預期燃料/運輸成本壓力增- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXFqWWtkbmtiSE83aUJ1ZFRpRUFyMU9jeDR1OThSZ21nLWl1WkhSQXh0OGpvUnZZcFVaX2p5V2NzSkhmbVR1X3hndzdVSGR0WlIzMmhtMG5EN3FNek5XMDdyNmVqdkxsdjQxRmQ0bVYzM0JvV2cxbHNuWGtfZ19EMnFGaWVYR3V5UHJ2ZVVpNDdpQQ?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Anthropic 的大型 IPO 不辜負華爾街的炒作，但未能重振人工智慧貿易",
+      "title": "由於 Anthropic IPO 未能消除人工智慧困境，亞洲晶片股下跌",
       "summary": [
-        "WSJ Markets：Anthropic 的大型 IPO 不辜負華爾街的炒作，但未能重振人工智慧貿易",
         "Bloomberg Tech：由於 Anthropic IPO 未能消除人工智慧困境，亞洲晶片股下跌",
+        "WSJ Markets：Anthropic 的 IPO 未能阻止人工智慧股票拋售，亞洲股市下跌",
         "Financial Times：由於 Anthropic IPO 未能重燃人工智慧交易，科技股下跌"
       ],
       "media_count": 4,
       "links": [
         {
-          "source": "WSJ Markets",
-          "title": "Anthropic 的大型 IPO 不辜負華爾街的炒作，但未能重振人工智慧貿易",
-          "url": "https://www.wsj.com/finance/stocks/anthropic-ipo-ai-markets-89e2476f?mod=rss_markets_main"
-        },
-        {
           "source": "Bloomberg Tech",
           "title": "由於 Anthropic IPO 未能消除人工智慧困境，亞洲晶片股下跌",
           "url": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "Anthropic 的 IPO 未能阻止人工智慧股票拋售，亞洲股市下跌",
+          "url": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?mod=rss_markets_main"
         },
         {
           "source": "Financial Times",
