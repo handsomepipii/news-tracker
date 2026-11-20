@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 19:26",
+  "updated_at": "2026-11-20 19:57",
   "taiwan": [
     {
       "rank": 1,
@@ -105,69 +105,6 @@
     },
     {
       "rank": 5,
-      "title": "美媒：美中俄峰會三方各有盤算　習近平營造強國形象",
-      "summary": [
-        "經濟日報：美媒：美中俄峰會三方各有盤算　習近平營造強國形象",
-        "自由時報：美媒：美中俄峰會三方各有盤算 習近平營造強國形象"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美媒：美中俄峰會三方各有盤算　習近平營造強國形象",
-          "url": "https://money.udn.com/money/story/5599/9890438"
-        },
-        {
-          "source": "自由時報",
-          "title": "美媒：美中俄峰會三方各有盤算 習近平營造強國形象",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647075"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "專家分析川習會：美中關係更加困難　臺灣議題未有共識",
-      "summary": [
-        "經濟日報：專家分析川習會：美中關係更加困難　臺灣議題未有共識",
-        "自由時報：專家分析川習會：美中關係更加困難 臺灣議題未有共識"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "專家分析川習會：美中關係更加困難　臺灣議題未有共識",
-          "url": "https://money.udn.com/money/story/5599/9890437"
-        },
-        {
-          "source": "自由時報",
-          "title": "專家分析川習會：美中關係更加困難 臺灣議題未有共識",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647074"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "蘋果搶攻AI代理 一面拉高對手門檻 Meta、Anthropic盤後下挫",
-      "summary": [
-        "經濟日報：蘋果搶攻AI代理 一面拉高對手門檻 Meta、Anthropic盤後下挫",
-        "科技新報：AI 戰國時代才剛開始，蘋果徵才搶攻 AI 代理人"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "蘋果搶攻AI代理 一面拉高對手門檻 Meta、Anthropic盤後下挫",
-          "url": "https://money.udn.com/money/story/123398/9890430"
-        },
-        {
-          "source": "科技新報",
-          "title": "AI 戰國時代才剛開始，蘋果徵才搶攻 AI 代理人",
-          "url": "https://technews.tw/2026/11/20/the-warring-states-era-of-ai-has-only-just-begun-apple-is-hiring-to-make-a-push-into-ai-agents/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
       "summary": [
         "iThome：NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
@@ -188,7 +125,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "韋德齊5度當選捷克參議長　布拉格副市長接任市長",
       "summary": [
         "經濟日報：韋德齊5度當選捷克參議長　布拉格副市長接任市長",
@@ -209,7 +146,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "金馬放映最後一場那天...《菲律賓女孩》32歲女星不敵淋巴瘤離世",
       "summary": [
         "自由時報：金馬放映最後一場那天...《菲律賓女孩》32歲女星不敵淋巴瘤離世",
@@ -226,6 +163,69 @@
           "source": "ETtoday",
           "title": "金馬放映最終場那天　《菲律賓女孩》32歲女主角淋巴瘤病逝",
           "url": "https://star.ettoday.net/news/3275434"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "臺股3天狂瀉！何如芸深夜悲吐「倒賠做白工」釣出大批股民",
+      "summary": [
+        "ETtoday：臺股3天狂瀉！何如芸深夜悲吐「倒賠做白工」釣出大批股民",
+        "自由時報：臺股重挫成受災戶！何如芸認「本金賠光還倒賠」 兒1句話勸退全網看呆"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "臺股3天狂瀉！何如芸深夜悲吐「倒賠做白工」釣出大批股民",
+          "url": "https://star.ettoday.net/news/3275294"
+        },
+        {
+          "source": "自由時報",
+          "title": "臺股重挫成受災戶！何如芸認「本金賠光還倒賠」 兒1句話勸退全網看呆",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5647178"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "暗指臺灣？馬斯克稱「T開頭國家」恐引摩擦 稱自己是中國超級粉絲",
+      "summary": [
+        "TVBS新聞：暗指臺灣？馬斯克稱「T開頭國家」恐引摩擦 稱自己是中國超級粉絲",
+        "ETtoday：馬斯克脫口「T開頭國家」恐引美中摩擦！　自稱中國超級粉絲"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "暗指臺灣？馬斯克稱「T開頭國家」恐引摩擦 稱自己是中國超級粉絲",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FNmtHQUsxS1FhTlRZNE8wcTVlQmIyX1MzU194a1JqbXhSWEI0aHlmeUJhYk8xTGpTaDR6d3lKTGFMWGhqSlgtU3hnQlhiaFk?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "馬斯克脫口「T開頭國家」恐引美中摩擦！　自稱中國超級粉絲",
+          "url": "https://www.ettoday.net/news/20261120/3275320.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Visa、摩根大通使用者個資遭駭　n0n勒索軟體組織宣稱犯案",
+      "summary": [
+        "經濟日報：Visa、摩根大通使用者個資遭駭　n0n勒索軟體組織宣稱犯案",
+        "科技新報：Visa、萬事達卡與摩根大通使用者個資遭駭，n0n 勒索軟體組織宣稱犯案"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "Visa、摩根大通使用者個資遭駭　n0n勒索軟體組織宣稱犯案",
+          "url": "https://money.udn.com/money/story/5599/9890512"
+        },
+        {
+          "source": "科技新報",
+          "title": "Visa、萬事達卡與摩根大通使用者個資遭駭，n0n 勒索軟體組織宣稱犯案",
+          "url": "https://infosecu.technews.tw/2026/11/20/visa-mastercard-jpmorgan-user-data-hacked-n0n-ransomware-claims-responsibility/"
         }
       ]
     }
@@ -265,6 +265,33 @@
     },
     {
       "rank": 2,
+      "title": "白宮在一系列網路中斷後更換了最高網路安全官員",
+      "summary": [
+        "Washington Post：白宮在一系列網路中斷後更換了最高網路安全官員",
+        "Financial Times：白宮更換最高網路安全官員",
+        "BBC World：在一系列技術中斷後，白宮解除了網路安全主管的職務"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "白宮在一系列網路中斷後更換了最高網路安全官員",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQk5fekl4bHljR2otN1p2QUo0cnV3Qno2aXI1T2MzQ2czcTktLUFGYVN1QnZycFYyMzVwaWZ2XzFRYXZEcl83X0haTFR1cWFKNHViY1hhdkU0LTJFMmhYZHNXSU1fa1dwcGJGNXVzSGZuOUZUUERhaUN5VWYySXBWLXpWZ3VDQW1fV05KTXVmNmFZOW11YTRiSE1ySDFEQ3JP?oc=5"
+        },
+        {
+          "source": "Financial Times",
+          "title": "白宮更換最高網路安全官員",
+          "url": "https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5?syn-25a6b1a6=1"
+        },
+        {
+          "source": "BBC World",
+          "title": "在一系列技術中斷後，白宮解除了網路安全主管的職務",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "由於 Anthropic 首次亮相未能重振人工智慧交易，華爾街期貨下跌",
       "summary": [
         "Investing.com：由於 Anthropic 首次亮相未能重振人工智慧交易，華爾街期貨下跌",
@@ -281,27 +308,6 @@
           "source": "Yahoo Finance",
           "title": "由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFNmNkd1bmdWZnlubzV3QzRrb0FhOHA4cUxudFBiNElPX2dMa3hHbXRPU1BndERKeWVWNzZiRVU5bEtBeDV3Z2RhWXhQRlhRM2RyRGZtSi1YTkc2amdqS3BlVFJhd0lsdzM5cmxfRmVBZUF2V0QxMkZNZjkzU3VaeWZ3OTNWMm8tR3d2T3NqNkZ4YlJVNG9odnh3Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "訴訟稱，阿里巴巴隱瞞了與英偉達醜聞中涉嫌間諜的關係，欺騙了股東",
-      "summary": [
-        "Investing.com：訴訟稱，阿里巴巴隱瞞了與英偉達醜聞中涉嫌間諜的關係，欺騙了股東",
-        "Nikkei Asia：阿里巴巴因涉嫌隱瞞與英偉達醜聞中涉嫌間諜的關係而被起訴"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "訴訟稱，阿里巴巴隱瞞了與英偉達醜聞中涉嫌間諜的關係，欺騙了股東",
-          "url": "https://www.investing.com/news/stock-market-news/alibaba-defrauded-shareholders-by-concealing-ties-to-suspected-spy-in-nvidia-scandal-lawsuit-says-5040304"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "阿里巴巴因涉嫌隱瞞與英偉達醜聞中涉嫌間諜的關係而被起訴",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHM1QTV1U2M5VVkxVjZuMEtYemNjWXNmc0k3Mzg3RnN0ZFdXamIwNS1TNFJiZDVtUWJzc1ZFTG04enZ2MGZHdWVoNlVBVGVPaEE3alZ1ZGZzRTJkcy02R1NpeEV0QXVvaXJfX0NhVjBpdDQxWVRUN3FoX29MUEhIN2NnTkNQMzU0MVF1TWRPZXczNUUtWDdNSzlPb21ZLTRENkNzcVVHNVI0c3JOWlI4QXBQZXZNTmdnc2JORTNn?oc=5"
         }
       ]
     },
@@ -412,27 +418,6 @@
     },
     {
       "rank": 9,
-      "title": "白宮在一系列網路中斷後更換了最高網路安全官員",
-      "summary": [
-        "Washington Post：白宮在一系列網路中斷後更換了最高網路安全官員",
-        "Financial Times：白宮更換最高網路安全官員"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "白宮在一系列網路中斷後更換了最高網路安全官員",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQk5fekl4bHljR2otN1p2QUo0cnV3Qno2aXI1T2MzQ2czcTktLUFGYVN1QnZycFYyMzVwaWZ2XzFRYXZEcl83X0haTFR1cWFKNHViY1hhdkU0LTJFMmhYZHNXSU1fa1dwcGJGNXVzSGZuOUZUUERhaUN5VWYySXBWLXpWZ3VDQW1fV05KTXVmNmFZOW11YTRiSE1ySDFEQ3JP?oc=5"
-        },
-        {
-          "source": "Financial Times",
-          "title": "白宮更換最高網路安全官員",
-          "url": "https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "據稱DayOne因資料中心和市場擔憂而暫停美國IPO計劃",
       "summary": [
         "Bloomberg Markets：據稱DayOne因資料中心和市場擔憂而暫停美國IPO計劃",
@@ -449,6 +434,27 @@
           "source": "Investing.com",
           "title": "由於人工智慧市場波動，新加坡 DayOne 暫停美國 IPO 計畫",
           "url": "https://www.investing.com/news/stock-market-news/singapores-dayone-pauses-us-ipo-plans-amid-ai-market-volatility--bloomberg-5040732"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
+      "summary": [
+        "Investing.com：報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
+        "Bloomberg Tech：SK 海力士將轉換 Kioxia 債券並成為最大股東"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
+          "url": "https://www.investing.com/news/stock-market-news/sk-hynix-weighs-converting-kioxia-bonds-to-shares-report-says-5040745"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "SK 海力士將轉換 Kioxia 債券並成為最大股東",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion"
         }
       ]
     }
