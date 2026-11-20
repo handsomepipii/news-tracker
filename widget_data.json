@@ -1,62 +1,8 @@
 {
-  "updated_at": "2026-11-20 08:27",
+  "updated_at": "2026-11-20 08:57",
   "taiwan": [
     {
       "rank": 1,
-      "title": "伊朗軍力重建中 紐時：川普評估新一波軍事行動",
-      "summary": [
-        "自由時報：伊朗軍力重建中 紐時：川普評估新一波軍事行動",
-        "經濟日報：稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
-        "ETtoday：川普稱伊朗研究「生化武器」：看元旦後美伊局勢如何發展"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "伊朗軍力重建中 紐時：川普評估新一波軍事行動",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5646889"
-        },
-        {
-          "source": "經濟日報",
-          "title": "稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
-          "url": "https://money.udn.com/money/story/5599/9890306"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普稱伊朗研究「生化武器」：看元旦後美伊局勢如何發展",
-          "url": "https://www.ettoday.net/news/20261120/3275266.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
-      "summary": [
-        "經濟日報：傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
-        "風傳媒：美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
-        "科技新報：傳美出口管制新規衝擊，臺積電、三星暫停部分對中晶片出貨"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "傳美出口管制新規衝擊　臺積電、三星暫停部分對中晶片出貨",
-          "url": "https://money.udn.com/money/story/5599/9889828"
-        },
-        {
-          "source": "風傳媒",
-          "title": "美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oNmZqQkFzVUo0RUVvelZRWVJXaFhWaHpYc2RobW5IWXdqZFNUdENjSXlGYmRVXzRMT1ZENExSS1RGcWwwQXUwWWtoXzZYUQ?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "傳美出口管制新規衝擊，臺積電、三星暫停部分對中晶片出貨",
-          "url": "https://technews.tw/2026/11/20/tsmc-and-samsung-suspend-some-chip-shipments-to-chinese-customers/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "超過SpaceX！ Anthropic募資813億美元「創始上最大IPO」遠開盤飆升",
       "summary": [
         "ETtoday：超過SpaceX！ Anthropic募資813億美元「創始上最大IPO」遠開盤飆升",
@@ -83,7 +29,34 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "title": "稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
+      "summary": [
+        "自由時報：稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
+        "經濟日報：稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
+        "ETtoday：川普稱伊朗研究「生化武器」：看元旦後美伊局勢如何發展"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647032"
+        },
+        {
+          "source": "經濟日報",
+          "title": "稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
+          "url": "https://money.udn.com/money/story/5599/9890306"
+        },
+        {
+          "source": "ETtoday",
+          "title": "川普稱伊朗研究「生化武器」：看元旦後美伊局勢如何發展",
+          "url": "https://www.ettoday.net/news/20261120/3275266.htm"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "中國供應鏈疑慮衝擊超微　股價重挫8%",
       "summary": [
         "自由時報：中國供應鏈疑慮衝擊超微　股價重挫8%",
@@ -110,7 +83,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "最新財務申報曝光　川普9月買進逾870萬輝達股票",
       "summary": [
         "經濟日報：最新財務申報曝光　川普9月買進逾870萬輝達股票",
@@ -137,28 +110,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "張嘉郡麥寮車隊掃街 馬文君、楊瓊瓔助陣：雲林鄉親集中選票",
-      "summary": [
-        "自由時報：張嘉郡麥寮車隊掃街 馬文君、楊瓊瓔助陣：雲林鄉親集中選票",
-        "TVBS新聞：海納百川到中和 李四川蔣萬安車掃｜LIVE"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "張嘉郡麥寮車隊掃街 馬文君、楊瓊瓔助陣：雲林鄉親集中選票",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5646803"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "海納百川到中和 李四川蔣萬安車掃｜LIVE",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fZ0MzRGRXVVpXcGYtSUFVeGttaklpN3RnSmFJVEFibVZvVnBUY1JrdkF1YW9QeFY4X3VGQjM3YzcteEFKa2hNUzFLVWJiOTVjdS14YU9zTEs3YXdweXQ4Z1pNY0pTYjFIVG1tLThfcUZLbEZk?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "直擊／防彈Jin送飛吻！告白「你好性感」　RM霸氣喊：高雄我愛你",
       "summary": [
         "ETtoday：直擊／防彈Jin送飛吻！告白「你好性感」　RM霸氣喊：高雄我愛你",
@@ -179,28 +131,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "租金補貼有望再加碼？內政部選後會同地方討論 容積獎勵也將納入檢討",
-      "summary": [
-        "財訊：租金補貼有望再加碼？內政部選後會同地方討論 容積獎勵也將納入檢討",
-        "ETtoday：租金補貼有望上調？內政部：將依物價狀況檢討是否調整"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "財訊",
-          "title": "租金補貼有望再加碼？內政部選後會同地方討論 容積獎勵也將納入檢討",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEQW1PZnN6Q3lYNWZwbHlHQU9La2U1aF90MFI0U2hQN1FMaU9VemJPZmFLY1Z2WkZWUjMtNWxWaUtITWFhbUJVTlMteHJUci0tb0otWXBISXJoMXVZdE5HQQ?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "租金補貼有望上調？內政部：將依物價狀況檢討是否調整",
-          "url": "https://www.ettoday.net/news/20261119/3275189.htm"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "變性手術完有多痛？　愛裡「下體打滿石膏插5管」揭動刀8小時血淚",
       "summary": [
         "ETtoday：變性手術完有多痛？　愛裡「下體打滿石膏插5管」揭動刀8小時血淚",
@@ -221,7 +152,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "Anthropic 創紀錄 IPO 的贏家：風投持股數百億美元 科技巨頭穩居大股東",
       "summary": [
         "經濟日報：Anthropic 創紀錄 IPO 的贏家：風投持股數百億美元 科技巨頭穩居大股東",
@@ -238,6 +169,69 @@
           "source": "工商時報",
           "title": "Anthropic IPO造富數千名員工晉升百萬富豪- 國際",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JVnplcnBBM0lHeVVCMzdCeTN4SlFpLWVBQXY5S21aY1JicS16VEI4YVRjdGdhQVNoa3RGa2pjc1BkbE8xMGEyWE5Eekh3TEtvR293UV8yd1VCcFNIMGF3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "柯文哲斷言「小草絕不會投沈伯洋」 ​蔣萬安：民進黨對他的態度，小草看得很清楚 | 張大任 | 新聞",
+      "summary": [
+        "風傳媒：柯文哲斷言「小草絕不會投沈伯洋」 ​蔣萬安：民進黨對他的態度，小草看得很清楚 | 張大任 | 新聞",
+        "自由時報：柯文哲喊「小草絕不投沈伯洋」！李忠憲揭話術：可能察覺支持者正在轉向"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "柯文哲斷言「小草絕不會投沈伯洋」 ​蔣萬安：民進黨對他的態度，小草看得很清楚 | 張大任 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FQXRYdWJYcEZNTVRLR1BvMDFhSThnaWhvQTRUYVBmTzRFZlp3ZllxVXRQMV94a293VGRNM0duMnl6VENZckx0a2NfcGZMUQ?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "柯文哲喊「小草絕不投沈伯洋」！李忠憲揭話術：可能察覺支持者正在轉向",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5647092"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "海納百川到中和 李四川蔣萬安車掃｜LIVE",
+      "summary": [
+        "TVBS新聞：海納百川到中和 李四川蔣萬安車掃｜LIVE",
+        "自由時報：林智堅「大桔大利」週六復出 為子弟兵楊玲宜、陳建名車掃"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "海納百川到中和 李四川蔣萬安車掃｜LIVE",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fZ0MzRGRXVVpXcGYtSUFVeGttaklpN3RnSmFJVEFibVZvVnBUY1JrdkF1YW9QeFY4X3VGQjM3YzcteEFKa2hNUzFLVWJiOTVjdS14YU9zTEs3YXdweXQ4Z1pNY0pTYjFIVG1tLThfcUZLbEZk?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "林智堅「大桔大利」週六復出 為子弟兵楊玲宜、陳建名車掃",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5647001"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "臺灣沒有獨步全球 美國也有水庫光電板！當地居民反應曝光",
+      "summary": [
+        "經濟日報：臺灣沒有獨步全球 美國也有水庫光電板！當地居民反應曝光",
+        "ETtoday：美國也有「水庫光電板」　居民反應兩極"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "臺灣沒有獨步全球 美國也有水庫光電板！當地居民反應曝光",
+          "url": "https://money.udn.com/money/story/5599/9890187"
+        },
+        {
+          "source": "ETtoday",
+          "title": "美國也有「水庫光電板」　居民反應兩極",
+          "url": "https://www.ettoday.net/news/20261120/3275280.htm"
         }
       ]
     }
@@ -272,6 +266,33 @@
     },
     {
       "rank": 2,
+      "title": "Anthropic 完成 810 億美元創紀錄的 IPO，估值約 1.5 兆美元",
+      "summary": [
+        "Yahoo Finance：Anthropic 完成 810 億美元創紀錄的 IPO，估值約 1.5 兆美元",
+        "Bloomberg Tech：Anthropic 1073 億美元 IPO 紀錄",
+        "TechCrunch：Anthropic 的 7 位創辦人在破紀錄的 IPO 中套現近 20 億美元"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "Anthropic 完成 810 億美元創紀錄的 IPO，估值約 1.5 兆美元",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNazhYMjA0a2VLTl9LVTlZYWRFRm5aemdjSzRvR3NJYWdDNHUtV1lXbk5EUjRicmhjWXNDdlRFazZ6cGhxaFI0SlVya1R2M2RWcVduaGdra2c2ZG1aUG9EcDE1TEZoS040cjNTNW4xdzZ4SnZCUDdfczBtc1diUkM5dXF1dl9Hb0lqNWE0TVpPZ3dnczdCeFVqUnRCX00?oc=5"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic 1073 億美元 IPO 紀錄",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-sets-record-with-107-3-billion-ipo-video"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Anthropic 的 7 位創辦人在破紀錄的 IPO 中套現近 20 億美元",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "讓 Google Gemini 能夠為您使用 Mac",
       "summary": [
         "TechCrunch：讓 Google Gemini 能夠為您使用 Mac",
@@ -298,7 +319,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
       "summary": [
         "Bloomberg Tech：Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
@@ -321,27 +342,6 @@
           "source": "Investing.com",
           "title": "Intuit 以 36.8 億美元將 Mailchimp 出售給 Bending Spoons",
           "url": "https://www.investing.com/news/stock-market-news/intuit-to-sell-mailchimp-to-bending-spoons-for-368-billion-5039975"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "人為 IPO 激發人工智慧熱情",
-      "summary": [
-        "Bloomberg Markets：人為 IPO 激發人工智慧熱情",
-        "Bloomberg Tech：Anthropic Investor表示IPO為人工智慧樹立了新基準"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "人為 IPO 激發人工智慧熱情",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/the-opening-trade-11-19-2026-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic Investor表示IPO為人工智慧樹立了新基準",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-says-ipo-sets-new-benchmark-for-ai-video"
         }
       ]
     },
@@ -389,27 +389,6 @@
     },
     {
       "rank": 7,
-      "title": "超過10萬英國散戶爭取購買Anthropic IPO股票",
-      "summary": [
-        "Financial Times：超過10萬英國散戶爭取購買Anthropic IPO股票",
-        "Investing.com：根據英國《金融時報》報道，超過 10 萬英國散戶投資者湧入 Anthropic IPO"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "超過10萬英國散戶爭取購買Anthropic IPO股票",
-          "url": "https://www.ft.com/content/30d21725-f889-4e3d-a3a8-63ed6b55e4d8?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Investing.com",
-          "title": "根據英國《金融時報》報道，超過 10 萬英國散戶投資者湧入 Anthropic IPO",
-          "url": "https://www.investing.com/news/stock-market-news/over-100000-uk-retail-investors-pile-into-anthropic-ipo-ft-reports-5038949"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "馬杜羅下臺不到一年，委內瑞拉與美國簽署軍事協議",
       "summary": [
         "BBC World：馬杜羅下臺不到一年，委內瑞拉與美國簽署軍事協議",
@@ -430,7 +409,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "英國法庭稱，英國已下達命令，要求取得蘋果資料",
       "summary": [
         "Investing.com：英國法庭稱，英國已下達命令，要求取得蘋果資料",
@@ -451,7 +430,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "川普、普丁和習近平舉行歷史性三邊會議",
       "summary": [
         "Financial Times：川普、普丁和習近平舉行歷史性三邊會議",
@@ -468,6 +447,27 @@
           "source": "Bloomberg Markets",
           "title": "習近平、川普和普丁在中國達成歷史性三邊協議",
           "url": "https://www.bloomberg.com/news/videos/2026-11-19/xi-trump-and-putin-wrap-historic-trilateral-in-china-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Google 選擇貝佐斯的藍色起源公司於 2029 年發射人工智慧運算衛星",
+      "summary": [
+        "Investing.com：Google 選擇貝佐斯的藍色起源公司於 2029 年發射人工智慧運算衛星",
+        "The Verge：藍色起源將於2029年發射GoogleAI伺服器衛星"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Google 選擇貝佐斯的藍色起源公司於 2029 年發射人工智慧運算衛星",
+          "url": "https://www.investing.com/news/stock-market-news/google-picks-bezos-blue-origin-to-launch-ai-computing-satellites-in-2029-5039183"
+        },
+        {
+          "source": "The Verge",
+          "title": "藍色起源將於2029年發射GoogleAI伺服器衛星",
+          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029"
         }
       ]
     }
