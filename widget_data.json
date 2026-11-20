@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 13:56",
+  "updated_at": "2026-11-20 14:27",
   "taiwan": [
     {
       "rank": 1,
@@ -35,33 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
-      "summary": [
-        "自由時報：稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
-        "經濟日報：稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
-        "ETtoday：川普稱伊朗研究「生化武器」：看元旦後美伊局勢如何發展"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647032"
-        },
-        {
-          "source": "經濟日報",
-          "title": "稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
-          "url": "https://money.udn.com/money/story/5599/9890306"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普稱伊朗研究「生化武器」：看元旦後美伊局勢如何發展",
-          "url": "https://www.ettoday.net/news/20261120/3275266.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "中國供應鏈疑慮衝擊超微　股價重挫8%",
       "summary": [
         "自由時報：中國供應鏈疑慮衝擊超微　股價重挫8%",
@@ -88,6 +61,33 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "美媒：臺積電暫停中國16奈米以下訂單　替代輝達晶片研發受阻",
+      "summary": [
+        "經濟日報：美媒：臺積電暫停中國16奈米以下訂單　替代輝達晶片研發受阻",
+        "自由時報：臺積電出手封殺中國晶片！美出口新規上路 16奈米以下訂單全面喊停",
+        "科技新報：傳暫停中國 16 奈米以下訂單，臺積電：遵循適用法令"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美媒：臺積電暫停中國16奈米以下訂單　替代輝達晶片研發受阻",
+          "url": "https://money.udn.com/money/story/5599/9890458"
+        },
+        {
+          "source": "自由時報",
+          "title": "臺積電出手封殺中國晶片！美出口新規上路 16奈米以下訂單全面喊停",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5647138"
+        },
+        {
+          "source": "科技新報",
+          "title": "傳暫停中國 16 奈米以下訂單，臺積電：遵循適用法令",
+          "url": "https://technews.tw/2026/11/20/reportedly-china-sub-16nm-orders-suspended-tsmc-complying-applicable-laws/"
+        }
+      ]
+    },
+    {
       "rank": 4,
       "title": "美媒看三方峰會贏家 北京取得外交聲望、莫斯科地位提升",
       "summary": [
@@ -110,69 +110,6 @@
     },
     {
       "rank": 5,
-      "title": "葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
-      "summary": [
-        "自由時報：葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
-        "經濟日報：葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647038"
-        },
-        {
-          "source": "經濟日報",
-          "title": "葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
-          "url": "https://money.udn.com/money/story/5599/9890316"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "人擇掛牌掀AI熱潮歐股仍收低",
-      "summary": [
-        "自由時報：人擇掛牌掀AI熱潮歐股仍收低",
-        "經濟日報：人擇掛牌掀AI熱潮歐股仍收低"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "人擇掛牌掀AI熱潮歐股仍收低",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5647037"
-        },
-        {
-          "source": "經濟日報",
-          "title": "人擇掛牌掀AI熱潮歐股仍收低",
-          "url": "https://money.udn.com/money/story/5599/9890315"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Anthropic上市首日開盤漲34%　市值突破2兆美元",
-      "summary": [
-        "自由時報：Anthropic上市首日開盤漲34%　市值突破2兆美元",
-        "經濟日報：Anthropic上市首日開盤漲34%　市值突破2兆美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "Anthropic上市首日開盤漲34%　市值突破2兆美元",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5647033"
-        },
-        {
-          "source": "經濟日報",
-          "title": "Anthropic上市首日開盤漲34%　市值突破2兆美元",
-          "url": "https://money.udn.com/money/story/123398/9890307"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "川普結束中國行返美　20日在白宮召開記者會",
       "summary": [
         "自由時報：川普結束中國行返美　20日在白宮召開記者會",
@@ -193,7 +130,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "美中俄峰會同日基輔遇襲　荷蘭、奧地利使館受損",
       "summary": [
         "自由時報：美中俄峰會同日基輔遇襲　荷蘭、奧地利使館受損",
@@ -214,7 +151,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "油輪運輸受阻抵銷供應過剩疑慮　國際油價持平",
       "summary": [
         "自由時報：油輪運輸受阻抵銷供應過剩疑慮　國際油價持平",
@@ -233,65 +170,74 @@
           "url": "https://money.udn.com/money/story/5599/9890362"
         }
       ]
+    },
+    {
+      "rank": 8,
+      "title": "美特使會歐洲盟友　稱俄不排斥烏克蘭獲得類北約安全保障",
+      "summary": [
+        "自由時報：美特使會歐洲盟友　稱俄不排斥烏克蘭獲得類北約安全保障",
+        "經濟日報：美特使會歐洲盟友　稱俄不排斥烏克蘭獲得類北約安全保障"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美特使會歐洲盟友　稱俄不排斥烏克蘭獲得類北約安全保障",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647046"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美特使會歐洲盟友　稱俄不排斥烏克蘭獲得類北約安全保障",
+          "url": "https://money.udn.com/money/story/5599/9890349"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
+      "summary": [
+        "自由時報：入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
+        "ETtoday：北臺整天寒冷！氣象粉專：今天是冷空氣影響「最明顯一天」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5647050"
+        },
+        {
+          "source": "ETtoday",
+          "title": "北臺整天寒冷！氣象粉專：今天是冷空氣影響「最明顯一天」",
+          "url": "https://www.ettoday.net/news/20261120/3275335.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美股收挫　Anthropic漲逾17%未能帶動大盤",
+      "summary": [
+        "自由時報：美股收挫　Anthropic漲逾17%未能帶動大盤",
+        "經濟日報：美股收挫　Anthropic漲逾17%未能帶動大盤"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美股收挫　Anthropic漲逾17%未能帶動大盤",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5647049"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美股收挫　Anthropic漲逾17%未能帶動大盤",
+          "url": "https://money.udn.com/money/story/123398/9890375"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Anthropic 完成 810 億美元創紀錄的 IPO，估值約 1.5 兆美元",
-      "summary": [
-        "Yahoo Finance：Anthropic 完成 810 億美元創紀錄的 IPO，估值約 1.5 兆美元",
-        "Bloomberg Tech：Anthropic 1073 億美元 IPO 紀錄",
-        "TechCrunch：Anthropic 的 7 位創辦人在破紀錄的 IPO 中套現近 20 億美元"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Anthropic 完成 810 億美元創紀錄的 IPO，估值約 1.5 兆美元",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNazhYMjA0a2VLTl9LVTlZYWRFRm5aemdjSzRvR3NJYWdDNHUtV1lXbk5EUjRicmhjWXNDdlRFazZ6cGhxaFI0SlVya1R2M2RWcVduaGdra2c2ZG1aUG9EcDE1TEZoS040cjNTNW4xdzZ4SnZCUDdfczBtc1diUkM5dXF1dl9Hb0lqNWE0TVpPZ3dnczdCeFVqUnRCX00?oc=5"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic 1073 億美元 IPO 紀錄",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-sets-record-with-107-3-billion-ipo-video"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Anthropic 的 7 位創辦人在破紀錄的 IPO 中套現近 20 億美元",
-          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "讓 Google Gemini 能夠為您使用 Mac",
-      "summary": [
-        "TechCrunch：讓 Google Gemini 能夠為您使用 Mac",
-        "The Verge：Mac 上的 Gemini 現在可以使用您的計算機",
-        "Bloomberg Tech：Google 的 Gemini 現在可以代表使用者控制 Mac 裝置"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "讓 Google Gemini 能夠為您使用 Mac",
-          "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
-        },
-        {
-          "source": "The Verge",
-          "title": "Mac 上的 Gemini 現在可以使用您的計算機",
-          "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Google 的 Gemini 現在可以代表使用者控制 Mac 裝置",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-19/google-s-gemini-can-now-control-mac-devices-on-users-behalf"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "蘋果正在開發用於裝置控制、應用程式、瀏覽和編碼的人工智慧代理",
       "summary": [
         "Bloomberg Tech：蘋果正在開發用於裝置控制、應用程式、瀏覽和編碼的人工智慧代理",
@@ -318,7 +264,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
       "summary": [
         "Bloomberg Tech：Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
@@ -345,7 +291,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "Anthropic 首次亮相未能重振人工智慧熱情，華爾街股市下滑",
       "summary": [
         "Investing.com：Anthropic 首次亮相未能重振人工智慧熱情，華爾街股市下滑",
@@ -366,7 +312,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "加州總檢察長向英偉達發出傳票，調查中國晶片轉移事件",
       "summary": [
         "CNBC：加州總檢察長向英偉達發出傳票，調查中國晶片轉移事件",
@@ -387,7 +333,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "Anthropic 的大型 IPO 不辜負華爾街的炒作，但未能重振人工智慧貿易",
       "summary": [
         "WSJ Markets：Anthropic 的大型 IPO 不辜負華爾街的炒作，但未能重振人工智慧貿易",
@@ -408,28 +354,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "國際法院歷史性裁決　認定緬甸對羅興亞人實施種族滅絕",
-      "summary": [
-        "法廣RFI：國際法院歷史性裁決　認定緬甸對羅興亞人實施種族滅絕",
-        "紐約時報中文：國際法院裁定緬甸對羅辛亞人實施種族滅絕- 紐約時報中文網"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "國際法院歷史性裁決　認定緬甸對羅興亞人實施種族滅絕",
-          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261119-%E5%9C%8B%E9%9A%9B%E6%B3%95%E9%99%A2%E6%AD%B7%E5%8F%B2%E6%80%A7%E8%A3%81%E6%B1%BA-%E8%AA%8D%E5%AE%9A%E7%B7%AC%E7%94%B8%E5%B0%8D%E7%BE%85%E8%88%88%E4%BA%9E%E4%BA%BA%E5%AF%A6%E6%96%BD%E7%A8%AE%E6%97%8F%E6%BB%85%E7%B5%95"
-        },
-        {
-          "source": "紐約時報中文",
-          "title": "國際法院裁定緬甸對羅辛亞人實施種族滅絕- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY3FtSGRPZy16X2o5Slc4UXB5VWFmU2dwU2dwNzVRTk5KNTRVdDN1TF8zTHlxMy1WbDhJbUN6ZWpibHYtR3B1dUo1SEpzd25UcC1Gbk5ITllNeGlRa0YtWUNmYjNqVzBRTUhFcmhNZml4WWdTUk82TFBhOUVQMTBMdU5R?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "Anthropic以破紀錄的IPO首次亮相",
       "summary": [
         "Bloomberg Tech：Anthropic以破紀錄的IPO首次亮相",
@@ -450,7 +375,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "Anthropic 股價飆升至 IPO 價格以上，然後下跌",
       "summary": [
         "Bloomberg Tech：Anthropic 股價飆升至 IPO 價格以上，然後下跌",
@@ -467,6 +392,69 @@
           "source": "MarketWatch",
           "title": "Anthropic 的股價在首次亮相時飆升，而其他市場無論如何都在下跌",
           "url": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Uber 在美國三個城市測試 10 至 12 歲兒童的乘車服務",
+      "summary": [
+        "Bloomberg Tech：Uber 在美國三個城市測試 10 至 12 歲兒童的乘車服務",
+        "TechCrunch：Uber 測試為 10 歲以下兒童提供乘車服務，並為司機提供額外報酬"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Uber 在美國三個城市測試 10 至 12 歲兒童的乘車服務",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/uber-tests-rides-for-10-to-12-year-olds-in-three-us-cities"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Uber 測試為 10 歲以下兒童提供乘車服務，並為司機提供額外報酬",
+          "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Meta 的 Muse Charm 可能售價 300 美元",
+      "summary": [
+        "The Verge：Meta 的 Muse Charm 可能售價 300 美元",
+        "TechCrunch：Meta 的新款 Muse Charm 裝置可能售價 300 美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "Meta 的 Muse Charm 可能售價 300 美元",
+          "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Meta 的新款 Muse Charm 裝置可能售價 300 美元",
+          "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "參議院拒絕阻止川普打擊伊朗的決議",
+      "summary": [
+        "Washington Post：參議院拒絕阻止川普打擊伊朗的決議",
+        "Investing.com：參議院共和黨人拒絕結束伊朗戰爭的立法"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "參議院拒絕阻止川普打擊伊朗的決議",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUhPc1MzUmliSzFkVG16b3R4WmdnM2tTQlhHX19ONGU1Ui15MWZZcmJ0NDA4a0lkenNvRXdvUFRaMDdvcjZoOHd3YW5KNVNEelUxVEx0VU83WlJMTkFLYVV0WEtwNGVGQ2RjRmwxTlNhZ2xseHkxbGxjNTBsWU5XclJnZkRCVHJBVURwOHVoR1JjZEVSSzFuRjRRdVh3NHRpd3VTVnF3?oc=5"
+        },
+        {
+          "source": "Investing.com",
+          "title": "參議院共和黨人拒絕結束伊朗戰爭的立法",
+          "url": "https://www.investing.com/news/stock-market-news/senate-republicans-reject-legislation-to-end-iran-war-93CH-5040382"
         }
       ]
     }
