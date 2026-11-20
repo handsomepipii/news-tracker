@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 00:56",
+  "updated_at": "2026-11-21 01:27",
   "taiwan": [
     {
       "rank": 1,
@@ -254,6 +254,33 @@
     },
     {
       "rank": 2,
+      "title": "Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
+      "summary": [
+        "Bloomberg Markets：Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
+        "MarketWatch：Anthropic 股價逼近 IPO 價格，拖累人工智慧產業",
+        "Bloomberg Tech：Anthropic IPO 考驗人工智慧投資者的胃口"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Anthropic 股價逼近 IPO 價格，拖累人工智慧產業",
+          "url": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic IPO 考驗人工智慧投資者的胃口",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-ipo-tests-ai-investor-appetite-video"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "據稱DayOne因資料中心和市場擔憂而暫停美國IPO計劃",
       "summary": [
         "Bloomberg Markets：據稱DayOne因資料中心和市場擔憂而暫停美國IPO計劃",
@@ -274,7 +301,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "臺灣告訴Meta，數千個與中國有關的帳號試圖影響選舉",
       "summary": [
         "Investing.com：臺灣告訴Meta，數千個與中國有關的帳號試圖影響選舉",
@@ -295,7 +322,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
       "summary": [
         "Investing.com：報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
@@ -316,7 +343,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "隨著 Anthropic 上市，英偉達、博通和美光股價下跌",
       "summary": [
         "Yahoo Finance：隨著 Anthropic 上市，英偉達、博通和美光股價下跌",
@@ -337,7 +364,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "俄羅斯飛彈攻擊摧毀基輔橋樑",
       "summary": [
         "Financial Times：俄羅斯飛彈攻擊摧毀基輔橋樑",
@@ -358,7 +385,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "美國人工智慧公司如何使用中國開放權重模型",
       "summary": [
         "Bloomberg Markets：美國人工智慧公司如何使用中國開放權重模型",
@@ -379,7 +406,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "IPO火熱後，Anthropic股價暴跌",
       "summary": [
         "Yahoo Finance：IPO火熱後，Anthropic股價暴跌",
@@ -400,7 +427,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
       "summary": [
         "Tom's Hardware：OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
@@ -417,27 +444,6 @@
           "source": "Wccftech",
           "title": "OpenAI 車型在 AMD 旗艦 GPU 設計上實現了高達 14% 的 PPA 增益，其中一些變更已傳送至製造",
           "url": "https://wccftech.com/openai-models-deliver-up-to-14-ppa-gains-on-amd-flagship-gpu-designs-with-some-changes-already-sent-to-manufacturing/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
-      "summary": [
-        "Investing.com：關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
-        "Bloomberg Tech：諾華執行長：人工智慧可以將藥物開發時間縮短數年"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
-          "url": "https://www.investing.com/news/stock-market-news/big-pharma-with-eye-on-anthropic-says-ai-is-shrinking-drug-discovery-timelines-5041287"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "諾華執行長：人工智慧可以將藥物開發時間縮短數年",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-20/novartis-ai-could-cut-drug-development-time-by-years-video"
         }
       ]
     }
