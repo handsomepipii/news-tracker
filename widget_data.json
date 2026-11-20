@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 10:56",
+  "updated_at": "2026-11-20 11:26",
   "taiwan": [
     {
       "rank": 1,
@@ -400,27 +400,6 @@
     },
     {
       "rank": 7,
-      "title": "賽諾菲考慮收購美國製藥商 Insmed",
-      "summary": [
-        "Bloomberg Markets：賽諾菲考慮收購美國製藥商 Insmed",
-        "Investing.com：根據彭博社報道，賽諾菲考慮收購美國製藥商 Insmed"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "賽諾菲考慮收購美國製藥商 Insmed",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-19/sanofi-weighs-takeover-of-us-drugmaker-insmed"
-        },
-        {
-          "source": "Investing.com",
-          "title": "根據彭博社報道，賽諾菲考慮收購美國製藥商 Insmed",
-          "url": "https://www.investing.com/news/stock-market-news/sanofi-weighs-takeover-of-us-drugmaker-insmed-bloomberg-news-reports-5039450"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Anthropic 將在納斯達克歷史性地首次亮相",
       "summary": [
         "Bloomberg Markets：Anthropic 將在納斯達克歷史性地首次亮相",
@@ -441,7 +420,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Visa、萬事達卡和摩根大通客戶資料被駭客洩露",
       "summary": [
         "WSJ Markets：Visa、萬事達卡和摩根大通客戶資料被駭客洩露",
@@ -462,7 +441,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Visa、萬事達卡和摩根大通客戶資料在第三方網路攻擊中洩露",
       "summary": [
         "Investing.com：Visa、萬事達卡和摩根大通客戶資料在第三方網路攻擊中洩露",
@@ -479,6 +458,27 @@
           "source": "Yahoo Finance",
           "title": "摩根大通、Visa 和萬事達卡披露針對第三方供應商的網路攻擊",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2R0aHc1VDVIQ3QxYjZFTmdYTktsYjBPdUFfUlY4UVZPekNOSTVwS1JWR1hoVkVlTXFIdFNwakdEMHlXWlpWNWhMdWlZNHZjSTczR2hFUm02M3BBOG1sRzhDVlE1cTlPa1ppNWRack1rMTNfelJpWlJleENsVGhwYlFwdWZUaGd2TjQ1OG9rMzh2TzlEVE1mZmhyQVI2RTFkN25BVnFLNjRlUHBma29Gc05WVHBrTjVhaGNlQzlSaXlDZm9sOGhNZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "聯合國最高法院裁定緬甸對羅興亞少數民族實施種族滅絕",
+      "summary": [
+        "BBC World：聯合國最高法院裁定緬甸對羅興亞少數民族實施種族滅絕",
+        "法廣RFI：國際法院歷史性裁決　認定緬甸對羅興亞人實施種族滅絕"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "聯合國最高法院裁定緬甸對羅興亞少數民族實施種族滅絕",
+          "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "國際法院歷史性裁決　認定緬甸對羅興亞人實施種族滅絕",
+          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261119-%E5%9C%8B%E9%9A%9B%E6%B3%95%E9%99%A2%E6%AD%B7%E5%8F%B2%E6%80%A7%E8%A3%81%E6%B1%BA-%E8%AA%8D%E5%AE%9A%E7%B7%AC%E7%94%B8%E5%B0%8D%E7%BE%85%E8%88%88%E4%BA%9E%E4%BA%BA%E5%AF%A6%E6%96%BD%E7%A8%AE%E6%97%8F%E6%BB%85%E7%B5%95"
         }
       ]
     }
