@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 23:26",
+  "updated_at": "2026-11-20 23:57",
   "taiwan": [
     {
       "rank": 1,
@@ -57,27 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
-      "summary": [
-        "經濟日報：輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
-        "科技新報：輝達共同創辦人員工大會哽咽，批黃仁勳「背叛公司核心價值」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
-          "url": "https://money.udn.com/money/story/5599/9890840"
-        },
-        {
-          "source": "科技新報",
-          "title": "輝達共同創辦人員工大會哽咽，批黃仁勳「背叛公司核心價值」",
-          "url": "https://technews.tw/2026/11/20/nvidia-co-founder-choked-up-employee-meeting-criticizes-jensen-huang-betraying-core-values/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "基輔3座大橋遭俄襲擊釀3死15傷　開戰以來最大規模",
       "summary": [
         "經濟日報：基輔3座大橋遭俄襲擊釀3死15傷　開戰以來最大規模",
@@ -98,7 +77,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "張啟楷路邊「棒流」恐傷民眾黨選情？　柯文哲比喻：像股票波動",
       "summary": [
         "ETtoday：張啟楷路邊「棒流」恐傷民眾黨選情？　柯文哲比喻：像股票波動",
@@ -119,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "法國民議會副議長率團訪臺 林佳龍：盼深化臺法文化交流與科技合作",
       "summary": [
         "自由時報：法國民議會副議長率團訪臺 林佳龍：盼深化臺法文化交流與科技合作",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "阿里在美遭股東提告  被指隱瞞與 Megaspeed 前高層關聯",
       "summary": [
         "科技新報：阿里在美遭股東提告  被指隱瞞與 Megaspeed 前高層關聯",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Intuit 下修財測、市場憂軟體業逆風  盤後崩",
       "summary": [
         "科技新報：Intuit 下修財測、市場憂軟體業逆風  盤後崩",
@@ -178,6 +157,27 @@
           "source": "MoneyDJ理財網",
           "title": "Intuit下修財測、市場憂軟體業逆風盤後崩- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSjRIQnBFeWduUjU2YzQwU3BJUlFIM3RkRVNzQ1ZUbnM1bjBMc1dKWmh6QV94cmEzN3JPeGVvQlpsX0VYT2x4bE82bmZTY2F2cFhpUjBxWnBib3YzRi12bXJDWGdJbHMyeW5aMGxDWTBadGc4V096Z1FHYzgyVndpdHhEdDRLbmdqeWFoMDNYcmlrQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "輝達共同創辦人哽咽批黃仁勳　指背叛公司核心價值",
+      "summary": [
+        "經濟日報：輝達共同創辦人哽咽批黃仁勳　指背叛公司核心價值",
+        "科技新報：輝達共同創辦人員工大會哽咽，批黃仁勳「背叛公司核心價值」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "輝達共同創辦人哽咽批黃仁勳　指背叛公司核心價值",
+          "url": "https://money.udn.com/money/story/5599/9891204"
+        },
+        {
+          "source": "科技新報",
+          "title": "輝達共同創辦人員工大會哽咽，批黃仁勳「背叛公司核心價值」",
+          "url": "https://technews.tw/2026/11/20/nvidia-co-founder-choked-up-employee-meeting-criticizes-jensen-huang-betraying-core-values/"
         }
       ]
     },
@@ -328,6 +328,27 @@
     },
     {
       "rank": 5,
+      "title": "臺灣告訴Meta，數千個與中國有關的帳號試圖影響選舉",
+      "summary": [
+        "Investing.com：臺灣告訴Meta，數千個與中國有關的帳號試圖影響選舉",
+        "法廣RFI：臺灣舉報數千個疑似與中國有關的Threads賬號，意圖影響下週的選舉"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "臺灣告訴Meta，數千個與中國有關的帳號試圖影響選舉",
+          "url": "https://www.investing.com/news/stock-market-news/exclusivetaiwan-tells-meta-thousands-of-chinalinked-accounts-seek-to-influence-elections-5040684"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "臺灣舉報數千個疑似與中國有關的Threads賬號，意圖影響下週的選舉",
+          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261120-%E5%8F%B0%E7%81%A3%E8%88%89%E5%A0%B1%E6%95%B8%E5%8D%83%E5%80%8B%E7%96%91%E4%BC%BC%E8%88%87%E4%B8%AD%E5%9C%8B%E6%9C%89%E9%97%9C%E7%9A%84threads%E8%B3%AC%E8%99%9F%EF%BC%8C%E6%84%8F%E5%9C%96%E5%BD%B1%E9%9F%BF%E4%B8%8B%E5%91%A8%E7%9A%84%E9%81%B8%E8%88%89"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
       "summary": [
         "Investing.com：報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
@@ -348,7 +369,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "俄羅斯飛彈攻擊摧毀基輔橋樑",
       "summary": [
         "Financial Times：俄羅斯飛彈攻擊摧毀基輔橋樑",
@@ -369,7 +390,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "美國人工智慧公司如何使用中國開放權重模型",
       "summary": [
         "Bloomberg Markets：美國人工智慧公司如何使用中國開放權重模型",
@@ -390,7 +411,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
       "summary": [
         "Tom's Hardware：OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
@@ -411,7 +432,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
       "summary": [
         "Investing.com：關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
@@ -428,27 +449,6 @@
           "source": "Bloomberg Tech",
           "title": "諾華執行長：人工智慧可以將藥物開發時間縮短數年",
           "url": "https://www.bloomberg.com/news/videos/2026-11-20/novartis-ai-could-cut-drug-development-time-by-years-video"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
-      "summary": [
-        "Bloomberg Markets：Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
-        "MarketWatch：Anthropic 股價逼近 IPO 價格，拖累人工智慧產業"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
-          "url": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "Anthropic 股價逼近 IPO 價格，拖累人工智慧產業",
-          "url": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories"
         }
       ]
     }
