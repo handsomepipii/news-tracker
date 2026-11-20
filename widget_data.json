@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 09:26",
+  "updated_at": "2026-11-20 09:58",
   "taiwan": [
     {
       "rank": 1,
@@ -111,27 +111,6 @@
     },
     {
       "rank": 5,
-      "title": "Anthropic 創紀錄 IPO 的贏家：風投持股數百億美元 科技巨頭穩居大股東",
-      "summary": [
-        "經濟日報：Anthropic 創紀錄 IPO 的贏家：風投持股數百億美元 科技巨頭穩居大股東",
-        "工商時報：Anthropic IPO造富數千名員工晉升百萬富豪- 國際"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "Anthropic 創紀錄 IPO 的贏家：風投持股數百億美元 科技巨頭穩居大股東",
-          "url": "https://money.udn.com/money/story/123398/9888429"
-        },
-        {
-          "source": "工商時報",
-          "title": "Anthropic IPO造富數千名員工晉升百萬富豪- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JVnplcnBBM0lHeVVCMzdCeTN4SlFpLWVBQXY5S21aY1JicS16VEI4YVRjdGdhQVNoa3RGa2pjc1BkbE8xMGEyWE5Eekh3TEtvR293UV8yd1VCcFNIMGF3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "柯文哲斷言「小草絕不會投沈伯洋」 ​蔣萬安：民進黨對他的態度，小草看得很清楚 | 張大任 | 新聞",
       "summary": [
         "風傳媒：柯文哲斷言「小草絕不會投沈伯洋」 ​蔣萬安：民進黨對他的態度，小草看得很清楚 | 張大任 | 新聞",
@@ -152,7 +131,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "海納百川到中和 李四川蔣萬安車掃｜LIVE",
       "summary": [
         "TVBS新聞：海納百川到中和 李四川蔣萬安車掃｜LIVE",
@@ -173,7 +152,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "直擊／BTS告白高雄！柾國狂讚「香腸好好吃」　Jin羨慕：住這真好",
       "summary": [
         "ETtoday：直擊／BTS告白高雄！柾國狂讚「香腸好好吃」　Jin羨慕：住這真好",
@@ -194,7 +173,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "臺灣沒有獨步全球 美國也有水庫光電板！當地居民反應曝光",
       "summary": [
         "經濟日報：臺灣沒有獨步全球 美國也有水庫光電板！當地居民反應曝光",
@@ -215,7 +194,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "獨家》選前1週！國民黨團擬放行政院6000億追加預算",
       "summary": [
         "自由時報：獨家》選前1週！國民黨團擬放行政院6000億追加預算",
@@ -232,6 +211,27 @@
           "source": "ETtoday",
           "title": "選舉倒數8天！國民黨擬放6000億追加預算　最快今三讀",
           "url": "https://www.ettoday.net/news/20261120/3275274.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
+      "summary": [
+        "風傳媒：美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
+        "科技新報：傳美出口管制新規衝擊，臺積電、三星暫停部分對中晶片出貨"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oNmZqQkFzVUo0RUVvelZRWVJXaFhWaHpYc2RobW5IWXdqZFNUdENjSXlGYmRVXzRMT1ZENExSS1RGcWwwQXUwWWtoXzZYUQ?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "傳美出口管制新規衝擊，臺積電、三星暫停部分對中晶片出貨",
+          "url": "https://technews.tw/2026/11/20/tsmc-and-samsung-suspend-some-chip-shipments-to-chinese-customers/"
         }
       ]
     }
@@ -395,48 +395,6 @@
     },
     {
       "rank": 7,
-      "title": "馬杜羅下臺不到一年，委內瑞拉與美國簽署軍事協議",
-      "summary": [
-        "BBC World：馬杜羅下臺不到一年，委內瑞拉與美國簽署軍事協議",
-        "Washington Post：赫格斯意外現身委內瑞拉，續簽軍事夥伴關係"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "馬杜羅下臺不到一年，委內瑞拉與美國簽署軍事協議",
-          "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Washington Post",
-          "title": "赫格斯意外現身委內瑞拉，續簽軍事夥伴關係",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaDk1dWVDTWtxcHkxQjE0dS1GVzZ1WXhpbmhyZkNDc0F2TlYteGpmLWxabEE2QXAwZnUwYmRKVzQ4aUlIUGFxZl9BUHM1NDJXUEhiUEUzaEJVaks1U1JYVkl4U2hsQWVLOVN0MUZQcFZqQ3VPSDBmLVhVSUZKZXl2bWpIZWRJQzJOS01femYwRlBCLXNPc2owa0t4SmFpWWZqSk5kRGJ1ZXIxcXByRFpMYmdWRHVpUlBhZGN2RA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "英國法庭稱，英國已下達命令，要求取得蘋果資料",
-      "summary": [
-        "Investing.com：英國法庭稱，英國已下達命令，要求取得蘋果資料",
-        "Bloomberg Tech：英國法院對蘋果與政府的使用者資料之爭作出裁決"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "英國法庭稱，英國已下達命令，要求取得蘋果資料",
-          "url": "https://www.investing.com/news/stock-market-news/uk-has-imposed-an-order-demanding-access-to-apple-data-uk-tribunal-says-5039030"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "英國法院對蘋果與政府的使用者資料之爭作出裁決",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-19/uk-court-rules-for-apple-in-user-data-fight-with-government"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "川普、普丁和習近平舉行歷史性三邊會議",
       "summary": [
         "Financial Times：川普、普丁和習近平舉行歷史性三邊會議",
@@ -457,7 +415,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Google 選擇貝佐斯的藍色起源公司於 2029 年發射人工智慧運算衛星",
       "summary": [
         "Investing.com：Google 選擇貝佐斯的藍色起源公司於 2029 年發射人工智慧運算衛星",
@@ -474,6 +432,48 @@
           "source": "The Verge",
           "title": "藍色起源將於2029年發射GoogleAI伺服器衛星",
           "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "人為 IPO：購買股票前需要了解的 3 個奇怪事實",
+      "summary": [
+        "Yahoo Finance：人為 IPO：購買股票前需要了解的 3 個奇怪事實",
+        "Bloomberg Markets：人為 IPO：如何瞭解股價和交易首次亮相"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "人為 IPO：購買股票前需要了解的 3 個奇怪事實",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPek02RWVxSmJXWW1ZdWI0T2lFc3B2a0l5RHZJNG94N29tSEhSX0hYQWFTVU81SHBCOGFNUVpDRzBnZzVyTHpsYlhjQ3lCY3IzUldhY1dicl9mWTdGeElERy1mWkk4RGFPajhwRnFfR0lwekxsUUxINFZPeWd1WmNCX0ZsVHJLMHZhRVBLTEJHVzlvN3RRVXp2bWJnMjI2SElrZkJ1VnF2RGtTX0NSQWg2Vm9ESktTdnMxMU1SVy1ISkZ0dw?oc=5"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "人為 IPO：如何瞭解股價和交易首次亮相",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-what-to-know-about-the-share-price-and-trading-debut"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "賽諾菲考慮收購美國製藥商 Insmed",
+      "summary": [
+        "Bloomberg Markets：賽諾菲考慮收購美國製藥商 Insmed",
+        "Investing.com：根據彭博社報道，賽諾菲考慮收購美國製藥商 Insmed"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "賽諾菲考慮收購美國製藥商 Insmed",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/sanofi-weighs-takeover-of-us-drugmaker-insmed"
+        },
+        {
+          "source": "Investing.com",
+          "title": "根據彭博社報道，賽諾菲考慮收購美國製藥商 Insmed",
+          "url": "https://www.investing.com/news/stock-market-news/sanofi-weighs-takeover-of-us-drugmaker-insmed-bloomberg-news-reports-5039450"
         }
       ]
     }
