@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 17:26",
+  "updated_at": "2026-11-20 17:56",
   "taiwan": [
     {
       "rank": 1,
@@ -89,6 +89,33 @@
     },
     {
       "rank": 4,
+      "title": "SpaceX 太空資料中心惹議  傳債權人憂晶片有去無回",
+      "summary": [
+        "科技新報：SpaceX 太空資料中心惹議  傳債權人憂晶片有去無回",
+        "經濟日報：SpaceX發債320億美元買輝達晶片 銀行先設防：別把擔保品送上太空",
+        "MoneyDJ理財網：SpaceX太空資料中心惹議傳債權人憂晶片有去無回- 新聞"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "SpaceX 太空資料中心惹議  傳債權人憂晶片有去無回",
+          "url": "https://finance.technews.tw/2026/11/20/spacex-space-data-center-controversy-creditors-worry-chips-unrecoverable/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "SpaceX發債320億美元買輝達晶片 銀行先設防：別把擔保品送上太空",
+          "url": "https://money.udn.com/money/story/5599/9891406"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "SpaceX太空資料中心惹議傳債權人憂晶片有去無回- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUlsdWx0WDQyQlRiWEg1eW03cEpLQUo5Y2ZpNHVKYmVqNjVPMUh4YWZzSm1QZ3ZiY0NaUThqaGZyVGdRbFBxZ0Q2Tzl5NjJ0THZNcHNLTlhXSzIzU0FwOGxPR3I1a0lJNV9GR1BNa294eTd5R0llX1hISWZvTl9scHJOMHpyQTBfdGlaZktsZl9QZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
       "summary": [
         "經濟日報：輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
@@ -109,7 +136,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "美股收挫　Anthropic漲逾17%未能帶動大盤",
       "summary": [
         "自由時報：美股收挫　Anthropic漲逾17%未能帶動大盤",
@@ -130,7 +157,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "才表態力挺沈伯洋！公關女王曬合照曝「最打動她的地方」",
       "summary": [
         "自由時報：才表態力挺沈伯洋！公關女王曬合照曝「最打動她的地方」",
@@ -151,7 +178,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "美國商務部揭露已批准向中國出售 87.9 萬顆 AI 晶片，兩黨議員氣炸要嚴查",
       "summary": [
         "科技新報：美國商務部揭露已批准向中國出售 87.9 萬顆 AI 晶片，兩黨議員氣炸要嚴查",
@@ -172,7 +199,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "APEC峰會發布「深圳展望」　強調加強供應鏈韌性",
       "summary": [
         "ETtoday：APEC峰會發布「深圳展望」　強調加強供應鏈韌性",
@@ -193,7 +220,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "美媒：美中俄峰會三方各有盤算　習近平營造強國形象",
       "summary": [
         "經濟日報：美媒：美中俄峰會三方各有盤算　習近平營造強國形象",
@@ -210,27 +237,6 @@
           "source": "自由時報",
           "title": "美媒：美中俄峰會三方各有盤算 習近平營造強國形象",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5647075"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "專家分析川習會：美中關係更加困難　臺灣議題未有共識",
-      "summary": [
-        "經濟日報：專家分析川習會：美中關係更加困難　臺灣議題未有共識",
-        "自由時報：專家分析川習會：美中關係更加困難 臺灣議題未有共識"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "專家分析川習會：美中關係更加困難　臺灣議題未有共識",
-          "url": "https://money.udn.com/money/story/5599/9890437"
-        },
-        {
-          "source": "自由時報",
-          "title": "專家分析川習會：美中關係更加困難 臺灣議題未有共識",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647074"
         }
       ]
     }
@@ -265,81 +271,6 @@
     },
     {
       "rank": 2,
-      "title": "蘋果正在開發用於裝置控制、應用程式、瀏覽和編碼的人工智慧代理",
-      "summary": [
-        "Bloomberg Tech：蘋果正在開發用於裝置控制、應用程式、瀏覽和編碼的人工智慧代理",
-        "The Verge：蘋果正在招募工程師來建立自己的人工智慧代理",
-        "TechCrunch：蘋果可能正在開發自己的人工智慧代理來執行你的Mac"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "蘋果正在開發用於裝置控制、應用程式、瀏覽和編碼的人工智慧代理",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding"
-        },
-        {
-          "source": "The Verge",
-          "title": "蘋果正在招募工程師來建立自己的人工智慧代理",
-          "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "蘋果可能正在開發自己的人工智慧代理來執行你的Mac",
-          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
-      "summary": [
-        "Bloomberg Tech：Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
-        "CNBC：Intuit 以 36.8 億美元將 Mailchimp 出售給 Bending Spoons",
-        "Investing.com：Intuit 以 36.8 億美元將 Mailchimp 出售給 Bending Spoons"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-19/bending-spoons-to-buy-mailchimp-from-intuit-for-3-7-billion"
-        },
-        {
-          "source": "CNBC",
-          "title": "Intuit 以 36.8 億美元將 Mailchimp 出售給 Bending Spoons",
-          "url": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Intuit 以 36.8 億美元將 Mailchimp 出售給 Bending Spoons",
-          "url": "https://www.investing.com/news/stock-market-news/intuit-to-sell-mailchimp-to-bending-spoons-for-368-billion-5039975"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌",
-      "summary": [
-        "Investing.com：由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌",
-        "Yahoo Finance：由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌",
-          "url": "https://www.investing.com/news/stock-market-news/wall-street-ends-sharply-lower-asanthropics-debut-fails-to-revive-ai-fervor-5040108"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFNmNkd1bmdWZnlubzV3QzRrb0FhOHA4cUxudFBiNElPX2dMa3hHbXRPU1BndERKeWVWNzZiRVU5bEtBeDV3Z2RhWXhQRlhRM2RyRGZtSi1YTkc2amdqS3BlVFJhd0lsdzM5cmxfRmVBZUF2V0QxMkZNZjkzU3VaeWZ3OTNWMm8tR3d2T3NqNkZ4YlJVNG9odnh3Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "加州總檢察長向英偉達發出傳票，調查中國晶片轉移事件",
       "summary": [
         "CNBC：加州總檢察長向英偉達發出傳票，調查中國晶片轉移事件",
@@ -360,49 +291,28 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "辛辛那提動物園河馬菲奧娜吞下帽子後死亡",
+      "rank": 3,
+      "title": "由於 Anthropic 首次亮相未能重振人工智慧交易，華爾街期貨下跌",
       "summary": [
-        "BBC World：辛辛那提動物園河馬菲奧娜吞下帽子後死亡",
-        "Wired：河馬菲奧娜吃了帽子後死了。但帽子是如何殺死河馬的呢？"
+        "Investing.com：由於 Anthropic 首次亮相未能重振人工智慧交易，華爾街期貨下跌",
+        "Yahoo Finance：由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "BBC World",
-          "title": "辛辛那提動物園河馬菲奧娜吞下帽子後死亡",
-          "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss"
+          "source": "Investing.com",
+          "title": "由於 Anthropic 首次亮相未能重振人工智慧交易，華爾街期貨下跌",
+          "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-fall-as-anthropic-debut-fails-to-revive-ai-trade-5040450"
         },
         {
-          "source": "Wired",
-          "title": "河馬菲奧娜吃了帽子後死了。但帽子是如何殺死河馬的呢？",
-          "url": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/"
+          "source": "Yahoo Finance",
+          "title": "由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFNmNkd1bmdWZnlubzV3QzRrb0FhOHA4cUxudFBiNElPX2dMa3hHbXRPU1BndERKeWVWNzZiRVU5bEtBeDV3Z2RhWXhQRlhRM2RyRGZtSi1YTkc2amdqS3BlVFJhd0lsdzM5cmxfRmVBZUF2V0QxMkZNZjkzU3VaeWZ3OTNWMm8tR3d2T3NqNkZ4YlJVNG9odnh3Yw?oc=5"
         }
       ]
     },
     {
-      "rank": 7,
-      "title": "隨著更廣泛的科技市場拋售，Anthropic 的 IPO 飆升 17%，創歷史新高結束鐘聲",
-      "summary": [
-        "Bloomberg Markets：隨著更廣泛的科技市場拋售，Anthropic 的 IPO 飆升 17%，創歷史新高結束鐘聲",
-        "Bloomberg Tech：1,073 億美元 IPO 打破紀錄後 Anthropic 股價上漲 17%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "隨著更廣泛的科技市場拋售，Anthropic 的 IPO 飆升 17%，創歷史新高結束鐘聲",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-jumps-17-in-record-ipo-closing-bell-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "1,073 億美元 IPO 打破紀錄後 Anthropic 股價上漲 17%",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-breaks-record-video"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "title": "Anthropic 成為全球上市首日市值最高的上市公司之一",
       "summary": [
         "BBC World：Anthropic 成為全球上市首日市值最高的上市公司之一",
@@ -423,7 +333,49 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
+      "title": "蘋果正在招募工程師來建立自己的人工智慧代理",
+      "summary": [
+        "The Verge：蘋果正在招募工程師來建立自己的人工智慧代理",
+        "TechCrunch：蘋果可能正在開發自己的人工智慧代理來執行你的Mac"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "蘋果正在招募工程師來建立自己的人工智慧代理",
+          "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "蘋果可能正在開發自己的人工智慧代理來執行你的Mac",
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "加州調查中國是否不當取得英偉達技術",
+      "summary": [
+        "BBC World：加州調查中國是否不當取得英偉達技術",
+        "The Guardian：加州調查英偉達晶片出口是否最終銷往中國"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "加州調查中國是否不當取得英偉達技術",
+          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "title": "加州調查英偉達晶片出口是否最終銷往中國",
+          "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "訴訟稱，阿里巴巴隱瞞了與英偉達醜聞中涉嫌間諜的關係，欺騙了股東",
       "summary": [
         "Investing.com：訴訟稱，阿里巴巴隱瞞了與英偉達醜聞中涉嫌間諜的關係，欺騙了股東",
@@ -444,7 +396,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "俄羅斯相關指控後日本菸草股價下跌",
       "summary": [
         "Bloomberg Markets：俄羅斯相關指控後日本菸草股價下跌",
@@ -461,6 +413,48 @@
           "source": "Nikkei Asia",
           "title": "日本菸草股價下跌 10%；俄羅斯扣押90萬投資者",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2ZpMmF5V3BnU0ZKREt1MWY5NVg5ZU1hYW4xcHRyZEFfN1VmVzZXSGpJMXlyNmJtVTZuazh0cm5CeFdKWW02aHd5bEdnaDZxNk1XbkYxWVNkT2RaU1lHY19JSXBLYVhDUHNqX1IwRkk1UVB1NV9hWVI2bVB5MzNHUnFzX3VENlB6SmV3WllRQ3pNNkQ5SndwSmVKRVhmd3NJOWg3UEo3NGt2OU91TFFSeHNQWm9TcW8?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Anthropic 首次亮相後，亞洲科技股遭遇人工智慧拋售，軟銀股價暴跌 16% 以上",
+      "summary": [
+        "CNBC：Anthropic 首次亮相後，亞洲科技股遭遇人工智慧拋售，軟銀股價暴跌 16% 以上",
+        "Nikkei Asia：Anthropic 首次公開發行後亞洲科技股大幅下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "Anthropic 首次亮相後，亞洲科技股遭遇人工智慧拋售，軟銀股價暴跌 16% 以上",
+          "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "Anthropic 首次公開發行後亞洲科技股大幅下跌",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSnFkb0hMYVNJZlhiaHFFdDNFVHBQQ0dGVjdDYkJNamMzRUNmcUt4UTQxdjZQOWd0d0g3c05HSEZmU0tqUVZBOC02Z2pUYmgtRklJMFRfOEF0bGlicjR5aVRLemhfWHI5SkFSdU1JeGFzcjNWMmRXVmJQQk93U0M1MzNRNEdtQmFJOW5sUVhLUHRhSzduYnBDYmxUanBGSTZ4MFVreE1wcDk?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "貸款人旨在阻止 SpaceX 將價值 400 億美元的晶片送入軌道",
+      "summary": [
+        "Financial Times：貸款人旨在阻止 SpaceX 將價值 400 億美元的晶片送入軌道",
+        "Investing.com：SpaceX 貸款人尋求保護措施，防止馬斯克將人工智慧晶片送入太空"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "貸款人旨在阻止 SpaceX 將價值 400 億美元的晶片送入軌道",
+          "url": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "SpaceX 貸款人尋求保護措施，防止馬斯克將人工智慧晶片送入太空",
+          "url": "https://www.investing.com/news/stock-market-news/spacex-lenders-seek-safeguards-against-musk-sending-ai-chips-into-space--ft-5040555"
         }
       ]
     }
