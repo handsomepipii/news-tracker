@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 02:00",
+  "updated_at": "2026-11-21 02:29",
   "taiwan": [
     {
       "rank": 1,
@@ -72,69 +72,6 @@
     },
     {
       "rank": 4,
-      "title": "高齡投資人遭詐案猖獗  美國會透過新法防堵",
-      "summary": [
-        "科技新報：高齡投資人遭詐案猖獗  美國會透過新法防堵",
-        "MoneyDJ理財網：高齡投資人遭詐案猖獗美國會透過新法防堵- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "高齡投資人遭詐案猖獗  美國會透過新法防堵",
-          "url": "https://finance.technews.tw/2026/11/20/us-to-pass-new-law-to-curb-financial-scams-targeting-seniors/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "高齡投資人遭詐案猖獗美國會透過新法防堵- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1FsLTNNQUppMGNVSFpuQWItR2dlVkhaNFBReHR0bV9GMm5fYUsycElmalNDYVBkaThZaEhqdmpJQUg5eEx0amtkdWxBYldsUGNIbGlCaUxqcVVaZFVhbUdJQXNIS3BVd3YwekExRUVHeW9HbnMzYU9FVkxFSTkzc1haU25LLTlEUnpTc2tyLWszUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "傳暫停中國 16 奈米以下訂單，臺積電：遵循適用法令",
-      "summary": [
-        "科技新報：傳暫停中國 16 奈米以下訂單，臺積電：遵循適用法令",
-        "自由時報：輸出中國16奈米以下晶片傳全面喊停 臺積電：遵循適用法令"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "傳暫停中國 16 奈米以下訂單，臺積電：遵循適用法令",
-          "url": "https://technews.tw/2026/11/20/reportedly-china-sub-16nm-orders-suspended-tsmc-complying-applicable-laws/"
-        },
-        {
-          "source": "自由時報",
-          "title": "輸出中國16奈米以下晶片傳全面喊停 臺積電：遵循適用法令",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5647589"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "蘋果公司開發自己的人工智慧代理與OpenAI和Anthropic競爭",
-      "summary": [
-        "經濟日報：蘋果公司開發自己的人工智慧代理與OpenAI和Anthropic競爭",
-        "MoneyDJ理財網：蘋果徵才洩天機？自主AI代理開發中、挑戰Muse"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "蘋果公司開發自己的人工智慧代理與OpenAI和Anthropic競爭",
-          "url": "https://money.udn.com/money/story/5599/9890789"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "蘋果徵才洩天機？自主AI代理開發中、挑戰Muse",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ1F4TDVYenNDOVNlS2lHaU1aR3I2ekdQZGduUlh1RXRuOUxvWjBWdHl0cjdIbFJZZHkzektGWWhKblBQV21iZ1ctRllrU2hnbkpMZEdlN18yOW9vRkZqMWZZOTZjRHRLY3VyQVptMnV0N0xMTGtKTExQY09QLVB0dUZUcmNqWmtjZXY3cWFJaU9Ydw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "網球》臺英混血女將季末8連勝！葛藍喬安娜勇闖雪梨4強",
       "summary": [
         "自由時報：網球》臺英混血女將季末8連勝！葛藍喬安娜勇闖雪梨4強",
@@ -155,7 +92,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "AI投資熱潮還會再修正？IMF總裁示警：1兆美元迴圈融資，暗藏金融風險 | 李靖棠 | 新聞",
       "summary": [
         "風傳媒：AI投資熱潮還會再修正？IMF總裁示警：1兆美元迴圈融資，暗藏金融風險 | 李靖棠 | 新聞",
@@ -176,7 +113,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "Anthropic上市難救行情　日股暴跌逾3000點",
       "summary": [
         "經濟日報：Anthropic上市難救行情　日股暴跌逾3000點",
@@ -197,7 +134,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "民眾黨21日活動 黃國昌：蔣萬安、柯文哲同框加油",
       "summary": [
         "自由時報：民眾黨21日活動 黃國昌：蔣萬安、柯文哲同框加油",
@@ -214,6 +151,69 @@
           "source": "ETtoday",
           "title": "柯文哲南下屏東催票！力挺林育先3人：民眾黨火種一定要當選",
           "url": "https://www.ettoday.net/news/20261120/3275771.htm"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "「都已負重，不該忍辱」 沈伯洋寫信致北市府8萬公務員 拋四大承諾",
+      "summary": [
+        "自由時報：「都已負重，不該忍辱」 沈伯洋寫信致北市府8萬公務員 拋四大承諾",
+        "ETtoday：沈伯洋致北市府公務員1封信　提4承諾「都已負重不該忍辱」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "「都已負重，不該忍辱」 沈伯洋寫信致北市府8萬公務員 拋四大承諾",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5647959"
+        },
+        {
+          "source": "ETtoday",
+          "title": "沈伯洋致北市府公務員1封信　提4承諾「都已負重不該忍辱」",
+          "url": "https://www.ettoday.net/news/20261120/3275733.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "共和黨2028總統提名戰民調　盧比歐超車範斯情勢大逆轉",
+      "summary": [
+        "經濟日報：共和黨2028總統提名戰民調　盧比歐超車範斯情勢大逆轉",
+        "自由時報：民調大逆轉！2028共和黨總統提名戰  魯比歐支援度反超範斯"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "共和黨2028總統提名戰民調　盧比歐超車範斯情勢大逆轉",
+          "url": "https://money.udn.com/money/story/5599/9891973"
+        },
+        {
+          "source": "自由時報",
+          "title": "民調大逆轉！2028共和黨總統提名戰  魯比歐支援度反超範斯",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5648213"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "老農津貼修法3大問題　行政院「不副署」：另以合妥方式保障老農權益",
+      "summary": [
+        "ETtoday：老農津貼修法3大問題　行政院「不副署」：另以合妥方式保障老農權益",
+        "風傳媒：又來了！行政院宣佈不副署「老農津貼修法」 李慧芝：此修法案有3大問題 | 羅立邦 | 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "老農津貼修法3大問題　行政院「不副署」：另以合妥方式保障老農權益",
+          "url": "https://www.ettoday.net/news/20261120/3275734.htm"
+        },
+        {
+          "source": "風傳媒",
+          "title": "又來了！行政院宣佈不副署「老農津貼修法」 李慧芝：此修法案有3大問題 | 羅立邦 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0ydmRjZ25KQUJ2RE1tZzJqa3JuTUdmdzdIb3dwdmJQX2Z3cVdsTGl4cTJQdlFPMC1rbGRhTkd1bHRQdVIzNTA5QVNic1k3UQ?oc=5"
         }
       ]
     }
