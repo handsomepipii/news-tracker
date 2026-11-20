@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 10:26",
+  "updated_at": "2026-11-20 10:56",
   "taiwan": [
     {
       "rank": 1,
@@ -116,48 +116,27 @@
     },
     {
       "rank": 5,
-      "title": "救選情？蔡詩萍稱故宮設光電板　吳思瑤：國民黨喪心病狂",
+      "title": "美媒看三方峰會贏家 北京取得外交聲望、莫斯科地位提升",
       "summary": [
-        "ETtoday：救選情？蔡詩萍稱故宮設光電板　吳思瑤：國民黨喪心病狂",
-        "自由時報：馬英九昔力推屋頂光電藍營今猛攻 吳靜怡批蔡詩萍：連自家政績都打"
+        "經濟日報：美媒看三方峰會贏家 北京取得外交聲望、莫斯科地位提升",
+        "自由時報：美媒：美中俄峰會三方各有盤算 習近平營造強國形象"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "救選情？蔡詩萍稱故宮設光電板　吳思瑤：國民黨喪心病狂",
-          "url": "https://www.ettoday.net/news/20261119/3275215.htm"
+          "source": "經濟日報",
+          "title": "美媒看三方峰會贏家 北京取得外交聲望、莫斯科地位提升",
+          "url": "https://money.udn.com/money/story/5599/9890122"
         },
         {
           "source": "自由時報",
-          "title": "馬英九昔力推屋頂光電藍營今猛攻 吳靜怡批蔡詩萍：連自家政績都打",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5647143"
+          "title": "美媒：美中俄峰會三方各有盤算 習近平營造強國形象",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647075"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "直擊／BTS告白高雄！柾國狂讚「香腸好好吃」　Jin羨慕：住這真好",
-      "summary": [
-        "ETtoday：直擊／BTS告白高雄！柾國狂讚「香腸好好吃」　Jin羨慕：住這真好",
-        "自由時報：六合夜市太圈粉！柾國狂讚「高雄香腸好吃」Jin羨慕市民：住這邊真好"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "直擊／BTS告白高雄！柾國狂讚「香腸好好吃」　Jin羨慕：住這真好",
-          "url": "https://star.ettoday.net/news/3274859"
-        },
-        {
-          "source": "自由時報",
-          "title": "六合夜市太圈粉！柾國狂讚「高雄香腸好吃」Jin羨慕市民：住這邊真好",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5646998"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "臺灣沒有獨步全球 美國也有水庫光電板！當地居民反應曝光",
       "summary": [
         "經濟日報：臺灣沒有獨步全球 美國也有水庫光電板！當地居民反應曝光",
@@ -178,7 +157,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "獨家》選前1週！國民黨團擬放行政院6000億追加預算",
       "summary": [
         "自由時報：獨家》選前1週！國民黨團擬放行政院6000億追加預算",
@@ -199,7 +178,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
       "summary": [
         "風傳媒：美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
@@ -220,7 +199,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "明天的天氣/入冬最強冷氣團來了！「低溫探10度」全臺最濕冷時間曝， 一周天氣一次看",
       "summary": [
         "風傳媒：明天的天氣/入冬最強冷氣團來了！「低溫探10度」全臺最濕冷時間曝， 一周天氣一次看",
@@ -237,6 +216,27 @@
           "source": "自由時報",
           "title": "入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5647050"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
+      "summary": [
+        "自由時報：葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
+        "經濟日報：葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647038"
+        },
+        {
+          "source": "經濟日報",
+          "title": "葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
+          "url": "https://money.udn.com/money/story/5599/9890316"
         }
       ]
     }
@@ -400,27 +400,6 @@
     },
     {
       "rank": 7,
-      "title": "人為 IPO：購買股票前需要了解的 3 個奇怪事實",
-      "summary": [
-        "Yahoo Finance：人為 IPO：購買股票前需要了解的 3 個奇怪事實",
-        "Bloomberg Markets：人為 IPO：如何瞭解股價和交易首次亮相"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "人為 IPO：購買股票前需要了解的 3 個奇怪事實",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPek02RWVxSmJXWW1ZdWI0T2lFc3B2a0l5RHZJNG94N29tSEhSX0hYQWFTVU81SHBCOGFNUVpDRzBnZzVyTHpsYlhjQ3lCY3IzUldhY1dicl9mWTdGeElERy1mWkk4RGFPajhwRnFfR0lwekxsUUxINFZPeWd1WmNCX0ZsVHJLMHZhRVBLTEJHVzlvN3RRVXp2bWJnMjI2SElrZkJ1VnF2RGtTX0NSQWg2Vm9ESktTdnMxMU1SVy1ISkZ0dw?oc=5"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "人為 IPO：如何瞭解股價和交易首次亮相",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-what-to-know-about-the-share-price-and-trading-debut"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "賽諾菲考慮收購美國製藥商 Insmed",
       "summary": [
         "Bloomberg Markets：賽諾菲考慮收購美國製藥商 Insmed",
@@ -441,7 +420,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Anthropic 將在納斯達克歷史性地首次亮相",
       "summary": [
         "Bloomberg Markets：Anthropic 將在納斯達克歷史性地首次亮相",
@@ -462,7 +441,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Visa、萬事達卡和摩根大通客戶資料被駭客洩露",
       "summary": [
         "WSJ Markets：Visa、萬事達卡和摩根大通客戶資料被駭客洩露",
@@ -479,6 +458,27 @@
           "source": "Wccftech",
           "title": "駭客在勒索軟體攻擊中洩露了數千名 Visa、Mastercard 和摩根大通客戶的個人資料",
           "url": "https://wccftech.com/hackers-leak-personal-data-of-thousands-of-visa-mastercard-and-jpmorgan-chase-customers-in-ransomware-attack/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Visa、萬事達卡和摩根大通客戶資料在第三方網路攻擊中洩露",
+      "summary": [
+        "Investing.com：Visa、萬事達卡和摩根大通客戶資料在第三方網路攻擊中洩露",
+        "Yahoo Finance：摩根大通、Visa 和萬事達卡披露針對第三方供應商的網路攻擊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Visa、萬事達卡和摩根大通客戶資料在第三方網路攻擊中洩露",
+          "url": "https://www.investing.com/news/stock-market-news/visa-mastercard-and-jpmorgan-customer-data-leaked-in-thirdparty-cyberattack-5039535"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "摩根大通、Visa 和萬事達卡披露針對第三方供應商的網路攻擊",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2R0aHc1VDVIQ3QxYjZFTmdYTktsYjBPdUFfUlY4UVZPekNOSTVwS1JWR1hoVkVlTXFIdFNwakdEMHlXWlpWNWhMdWlZNHZjSTczR2hFUm02M3BBOG1sRzhDVlE1cTlPa1ppNWRack1rMTNfelJpWlJleENsVGhwYlFwdWZUaGd2TjQ1OG9rMzh2TzlEVE1mZmhyQVI2RTFkN25BVnFLNjRlUHBma29Gc05WVHBrTjVhaGNlQzlSaXlDZm9sOGhNZw?oc=5"
         }
       ]
     }
