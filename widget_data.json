@@ -1,40 +1,8 @@
 {
-  "updated_at": "2026-11-20 17:56",
+  "updated_at": "2026-11-20 18:27",
   "taiwan": [
     {
       "rank": 1,
-      "title": "最新財務申報曝光　川普9月買進逾870萬輝達股票",
-      "summary": [
-        "經濟日報：最新財務申報曝光　川普9月買進逾870萬輝達股票",
-        "自由時報：黃仁勳出事前！川普9月砸近900萬買輝達股票 財務申報曝光",
-        "ETtoday：川普9月買進逾870萬輝達股票　最新財務申報曝光"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "最新財務申報曝光　川普9月買進逾870萬輝達股票",
-          "url": "https://money.udn.com/money/story/5599/9890418"
-        },
-        {
-          "source": "自由時報",
-          "title": "黃仁勳出事前！川普9月砸近900萬買輝達股票 財務申報曝光",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647054"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普9月買進逾870萬輝達股票　最新財務申報曝光",
-          "url": "https://www.ettoday.net/news/20261120/3275283.htm"
-        },
-        {
-          "source": "科技新報",
-          "title": "最新財務申報曝光，川普 9 月買進逾 870 萬輝達股票",
-          "url": "https://finance.technews.tw/2026/11/20/trump-bought-8-7-million-nvidia-shares-september-financial-filings/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "美媒：臺積電暫停中國16奈米以下訂單　替代輝達晶片研發受阻",
       "summary": [
         "經濟日報：美媒：臺積電暫停中國16奈米以下訂單　替代輝達晶片研發受阻",
@@ -61,34 +29,34 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
+      "rank": 2,
+      "title": "黃仁勳出事前！川普9月砸近900萬買輝達股票 財務申報曝光",
       "summary": [
-        "自由時報：入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
-        "ETtoday：北臺整天寒冷！氣象粉專：今天是冷空氣影響「最明顯一天」",
-        "TVBS新聞：天氣/整天最冷是今天 明起白天回溫 週六晨探10度｜氣象主播 彭惠筠｜午間氣象｜TVBS新聞20261120 @TVBSNEWS01"
+        "自由時報：黃仁勳出事前！川普9月砸近900萬買輝達股票 財務申報曝光",
+        "ETtoday：川普9月買進逾870萬輝達股票　最新財務申報曝光",
+        "科技新報：最新財務申報曝光，川普 9 月買進逾 870 萬輝達股票"
       ],
       "media_count": 3,
       "links": [
         {
           "source": "自由時報",
-          "title": "入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5647050"
+          "title": "黃仁勳出事前！川普9月砸近900萬買輝達股票 財務申報曝光",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647054"
         },
         {
           "source": "ETtoday",
-          "title": "北臺整天寒冷！氣象粉專：今天是冷空氣影響「最明顯一天」",
-          "url": "https://www.ettoday.net/news/20261120/3275335.htm"
+          "title": "川普9月買進逾870萬輝達股票　最新財務申報曝光",
+          "url": "https://www.ettoday.net/news/20261120/3275283.htm"
         },
         {
-          "source": "TVBS新聞",
-          "title": "天氣/整天最冷是今天 明起白天回溫 週六晨探10度｜氣象主播 彭惠筠｜午間氣象｜TVBS新聞20261120 @TVBSNEWS01",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBseUNKUldldlowckJtU2VPeElBRVBqeXV3RVNwMkRtMDRSUXR0QlRDcDU0TktwczNDVmgzcDlRWEtlaklLTzFLWU5BRDlxMGJYeHhvZ0ZR?oc=5"
+          "source": "科技新報",
+          "title": "最新財務申報曝光，川普 9 月買進逾 870 萬輝達股票",
+          "url": "https://finance.technews.tw/2026/11/20/trump-bought-8-7-million-nvidia-shares-september-financial-filings/"
         }
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "SpaceX 太空資料中心惹議  傳債權人憂晶片有去無回",
       "summary": [
         "科技新報：SpaceX 太空資料中心惹議  傳債權人憂晶片有去無回",
@@ -115,7 +83,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
       "summary": [
         "經濟日報：輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
@@ -136,28 +104,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "美股收挫　Anthropic漲逾17%未能帶動大盤",
-      "summary": [
-        "自由時報：美股收挫　Anthropic漲逾17%未能帶動大盤",
-        "經濟日報：美股收挫　Anthropic漲逾17%未能帶動大盤"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美股收挫　Anthropic漲逾17%未能帶動大盤",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5647049"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美股收挫　Anthropic漲逾17%未能帶動大盤",
-          "url": "https://money.udn.com/money/story/123398/9890375"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "才表態力挺沈伯洋！公關女王曬合照曝「最打動她的地方」",
       "summary": [
         "自由時報：才表態力挺沈伯洋！公關女王曬合照曝「最打動她的地方」",
@@ -178,7 +125,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "美國商務部揭露已批准向中國出售 87.9 萬顆 AI 晶片，兩黨議員氣炸要嚴查",
       "summary": [
         "科技新報：美國商務部揭露已批准向中國出售 87.9 萬顆 AI 晶片，兩黨議員氣炸要嚴查",
@@ -199,7 +146,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "APEC峰會發布「深圳展望」　強調加強供應鏈韌性",
       "summary": [
         "ETtoday：APEC峰會發布「深圳展望」　強調加強供應鏈韌性",
@@ -220,7 +167,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "美媒：美中俄峰會三方各有盤算　習近平營造強國形象",
       "summary": [
         "經濟日報：美媒：美中俄峰會三方各有盤算　習近平營造強國形象",
@@ -239,6 +186,48 @@
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5647075"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "專家分析川習會：美中關係更加困難　臺灣議題未有共識",
+      "summary": [
+        "經濟日報：專家分析川習會：美中關係更加困難　臺灣議題未有共識",
+        "自由時報：專家分析川習會：美中關係更加困難 臺灣議題未有共識"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "專家分析川習會：美中關係更加困難　臺灣議題未有共識",
+          "url": "https://money.udn.com/money/story/5599/9890437"
+        },
+        {
+          "source": "自由時報",
+          "title": "專家分析川習會：美中關係更加困難 臺灣議題未有共識",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647074"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "蘋果搶攻AI代理 一面拉高對手門檻 Meta、Anthropic盤後下挫",
+      "summary": [
+        "經濟日報：蘋果搶攻AI代理 一面拉高對手門檻 Meta、Anthropic盤後下挫",
+        "科技新報：AI 戰國時代才剛開始，蘋果徵才搶攻 AI 代理人"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "蘋果搶攻AI代理 一面拉高對手門檻 Meta、Anthropic盤後下挫",
+          "url": "https://money.udn.com/money/story/123398/9890430"
+        },
+        {
+          "source": "科技新報",
+          "title": "AI 戰國時代才剛開始，蘋果徵才搶攻 AI 代理人",
+          "url": "https://technews.tw/2026/11/20/the-warring-states-era-of-ai-has-only-just-begun-apple-is-hiring-to-make-a-push-into-ai-agents/"
+        }
+      ]
     }
   ],
   "global": [
@@ -250,7 +239,7 @@
         "Bloomberg Tech：由於 Anthropic IPO 未能消除人工智慧困境，亞洲晶片股下跌",
         "Financial Times：由於 Anthropic IPO 未能重燃人工智慧交易，科技股下跌"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "WSJ Markets",
@@ -266,6 +255,11 @@
           "source": "Financial Times",
           "title": "由於 Anthropic IPO 未能重燃人工智慧交易，科技股下跌",
           "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1"
+        },
+        {
+          "source": "The Guardian",
+          "title": "由於 Anthropic IPO 未能阻止人工智慧拋售，全球股市暴跌",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
         }
       ]
     },
@@ -313,27 +307,6 @@
     },
     {
       "rank": 4,
-      "title": "Anthropic 成為全球上市首日市值最高的上市公司之一",
-      "summary": [
-        "BBC World：Anthropic 成為全球上市首日市值最高的上市公司之一",
-        "Bloomberg Markets：Anthropic 首次公開募股後成為全球第七大最有價值公司"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "Anthropic 成為全球上市首日市值最高的上市公司之一",
-          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic 首次公開募股後成為全球第七大最有價值公司",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-becomes-world-s-7th-most-valuable-company-after-ipo"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "蘋果正在招募工程師來建立自己的人工智慧代理",
       "summary": [
         "The Verge：蘋果正在招募工程師來建立自己的人工智慧代理",
@@ -354,7 +327,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "加州調查中國是否不當取得英偉達技術",
       "summary": [
         "BBC World：加州調查中國是否不當取得英偉達技術",
@@ -375,7 +348,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "訴訟稱，阿里巴巴隱瞞了與英偉達醜聞中涉嫌間諜的關係，欺騙了股東",
       "summary": [
         "Investing.com：訴訟稱，阿里巴巴隱瞞了與英偉達醜聞中涉嫌間諜的關係，欺騙了股東",
@@ -396,7 +369,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "俄羅斯相關指控後日本菸草股價下跌",
       "summary": [
         "Bloomberg Markets：俄羅斯相關指控後日本菸草股價下跌",
@@ -417,7 +390,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Anthropic 首次亮相後，亞洲科技股遭遇人工智慧拋售，軟銀股價暴跌 16% 以上",
       "summary": [
         "CNBC：Anthropic 首次亮相後，亞洲科技股遭遇人工智慧拋售，軟銀股價暴跌 16% 以上",
@@ -438,7 +411,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "貸款人旨在阻止 SpaceX 將價值 400 億美元的晶片送入軌道",
       "summary": [
         "Financial Times：貸款人旨在阻止 SpaceX 將價值 400 億美元的晶片送入軌道",
@@ -455,6 +428,27 @@
           "source": "Investing.com",
           "title": "SpaceX 貸款人尋求保護措施，防止馬斯克將人工智慧晶片送入太空",
           "url": "https://www.investing.com/news/stock-market-news/spacex-lenders-seek-safeguards-against-musk-sending-ai-chips-into-space--ft-5040555"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "APEC直播：深圳事件如何展開",
+      "summary": [
+        "Nikkei Asia：APEC直播：深圳事件如何展開",
+        "紐約時報中文：APEC峰會期間，深圳變「空城」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "APEC直播：深圳事件如何展開",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYUFnc3p3SkxsODc3blRIVHN1elBpNkloZUFucUlDdXlPdG1BUU12MXNkLWtHckVFOXE4UEhYdl81Qlk4aW9CVXhXZlVBRzRRU0ktRHprZlNOTmZKQ2hrcU8zdE1fWlB3eVJSd1FnWHh0QXdWNHhBUVN0ak1LdmNiVG9fYWZ4bjFLWVowdVFIVDBPdjNIMlhmSTgtN1VHTnUwMVpVelJB?oc=5"
+        },
+        {
+          "source": "紐約時報中文",
+          "title": "APEC峰會期間，深圳變「空城」",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnBkdllsMDRkbk1jSmYyZ01zOW1KN1M1aFFXQzZuYjVheW80VVZFYzY3VlJST0pSblUtS2VvQ21JWXQzVHcyZ19CbXI4ekRwb1VWNVF2OWFwWDVsdHVwREgtS3BVN25aRUlia3QzY09Wc1NVQjNjUTk0S0xRSlJFUGh3RTg1WXB3TUZ3X0VQTGkyZDZ0Rml2WFFFYmo4ekNRMHRac0FjNVhXQ2VYYlE?oc=5"
         }
       ]
     }
