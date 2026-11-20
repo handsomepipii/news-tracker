@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 23:57",
+  "updated_at": "2026-11-21 00:26",
   "taiwan": [
     {
       "rank": 1,
@@ -78,27 +78,6 @@
     },
     {
       "rank": 4,
-      "title": "張啟楷路邊「棒流」恐傷民眾黨選情？　柯文哲比喻：像股票波動",
-      "summary": [
-        "ETtoday：張啟楷路邊「棒流」恐傷民眾黨選情？　柯文哲比喻：像股票波動",
-        "自由時報：張啟楷「棒流」影響民眾黨選情？ 柯文哲：只有一刻"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "張啟楷路邊「棒流」恐傷民眾黨選情？　柯文哲比喻：像股票波動",
-          "url": "https://www.ettoday.net/news/20261120/3275431.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "張啟楷「棒流」影響民眾黨選情？ 柯文哲：只有一刻",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5647433"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "法國民議會副議長率團訪臺 林佳龍：盼深化臺法文化交流與科技合作",
       "summary": [
         "自由時報：法國民議會副議長率團訪臺 林佳龍：盼深化臺法文化交流與科技合作",
@@ -119,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "阿里在美遭股東提告  被指隱瞞與 Megaspeed 前高層關聯",
       "summary": [
         "科技新報：阿里在美遭股東提告  被指隱瞞與 Megaspeed 前高層關聯",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Intuit 下修財測、市場憂軟體業逆風  盤後崩",
       "summary": [
         "科技新報：Intuit 下修財測、市場憂軟體業逆風  盤後崩",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "輝達共同創辦人哽咽批黃仁勳　指背叛公司核心價值",
       "summary": [
         "經濟日報：輝達共同創辦人哽咽批黃仁勳　指背叛公司核心價值",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "高齡投資人遭詐案猖獗  美國會透過新法防堵",
       "summary": [
         "科技新報：高齡投資人遭詐案猖獗  美國會透過新法防堵",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "傳暫停中國 16 奈米以下訂單，臺積電：遵循適用法令",
       "summary": [
         "科技新報：傳暫停中國 16 奈米以下訂單，臺積電：遵循適用法令",
@@ -222,24 +201,40 @@
           "url": "https://ec.ltn.com.tw/article/breakingnews/5647589"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "蘋果公司開發自己的人工智慧代理與OpenAI和Anthropic競爭",
+      "summary": [
+        "經濟日報：蘋果公司開發自己的人工智慧代理與OpenAI和Anthropic競爭",
+        "MoneyDJ理財網：蘋果徵才洩天機？自主AI代理開發中、挑戰Muse"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "蘋果公司開發自己的人工智慧代理與OpenAI和Anthropic競爭",
+          "url": "https://money.udn.com/money/story/5599/9890789"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "蘋果徵才洩天機？自主AI代理開發中、挑戰Muse",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ1F4TDVYenNDOVNlS2lHaU1aR3I2ekdQZGduUlh1RXRuOUxvWjBWdHl0cjdIbFJZZHkzektGWWhKblBQV21iZ1ctRllrU2hnbkpMZEdlN18yOW9vRkZqMWZZOTZjRHRLY3VyQVptMnV0N0xMTGtKTExQY09QLVB0dUZUcmNqWmtjZXY3cWFJaU9Ydw?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Anthropic 的 IPO 未能阻止人工智慧股票拋售，亞洲股市下跌",
+      "title": "由於 Anthropic IPO 未能重燃人工智慧交易，科技股下跌",
       "summary": [
-        "WSJ Markets：Anthropic 的 IPO 未能阻止人工智慧股票拋售，亞洲股市下跌",
         "Financial Times：由於 Anthropic IPO 未能重燃人工智慧交易，科技股下跌",
-        "The Guardian：由於 Anthropic IPO 未能阻止人工智慧拋售，全球股市暴跌"
+        "The Guardian：由於 Anthropic IPO 未能阻止人工智慧拋售，全球股市暴跌",
+        "Bloomberg Markets：隨著人工智慧貿易的解體，Anthropic 股價暴跌幾乎抹去了 IPO 的熱潮"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
-        {
-          "source": "WSJ Markets",
-          "title": "Anthropic 的 IPO 未能阻止人工智慧股票拋售，亞洲股市下跌",
-          "url": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?mod=rss_markets_main"
-        },
         {
           "source": "Financial Times",
           "title": "由於 Anthropic IPO 未能重燃人工智慧交易，科技股下跌",
@@ -286,27 +281,6 @@
     },
     {
       "rank": 3,
-      "title": "由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌",
-      "summary": [
-        "Yahoo Finance：由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌",
-        "Investing.com：Anthropic 首次亮相未能引發反彈，歐洲人工智慧相關股票下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFNmNkd1bmdWZnlubzV3QzRrb0FhOHA4cUxudFBiNElPX2dMa3hHbXRPU1BndERKeWVWNzZiRVU5bEtBeDV3Z2RhWXhQRlhRM2RyRGZtSi1YTkc2amdqS3BlVFJhd0lsdzM5cmxfRmVBZUF2V0QxMkZNZjkzU3VaeWZ3OTNWMm8tR3d2T3NqNkZ4YlJVNG9odnh3Yw?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Anthropic 首次亮相未能引發反彈，歐洲人工智慧相關股票下跌",
-          "url": "https://www.investing.com/news/stock-market-news/european-ailinked-shares-fall-as-anthropics-debut-fails-to-spark-rally-93CH-5040976"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "據稱DayOne因資料中心和市場擔憂而暫停美國IPO計劃",
       "summary": [
         "Bloomberg Markets：據稱DayOne因資料中心和市場擔憂而暫停美國IPO計劃",
@@ -327,7 +301,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "臺灣告訴Meta，數千個與中國有關的帳號試圖影響選舉",
       "summary": [
         "Investing.com：臺灣告訴Meta，數千個與中國有關的帳號試圖影響選舉",
@@ -348,7 +322,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
       "summary": [
         "Investing.com：報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
@@ -369,7 +343,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "俄羅斯飛彈攻擊摧毀基輔橋樑",
       "summary": [
         "Financial Times：俄羅斯飛彈攻擊摧毀基輔橋樑",
@@ -390,7 +364,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美國人工智慧公司如何使用中國開放權重模型",
       "summary": [
         "Bloomberg Markets：美國人工智慧公司如何使用中國開放權重模型",
@@ -411,7 +385,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
       "summary": [
         "Tom's Hardware：OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
@@ -432,7 +406,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
       "summary": [
         "Investing.com：關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
@@ -449,6 +423,27 @@
           "source": "Bloomberg Tech",
           "title": "諾華執行長：人工智慧可以將藥物開發時間縮短數年",
           "url": "https://www.bloomberg.com/news/videos/2026-11-20/novartis-ai-could-cut-drug-development-time-by-years-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
+      "summary": [
+        "Bloomberg Markets：Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
+        "MarketWatch：Anthropic 股價逼近 IPO 價格，拖累人工智慧產業"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Anthropic 股價逼近 IPO 價格，拖累人工智慧產業",
+          "url": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories"
         }
       ]
     }
