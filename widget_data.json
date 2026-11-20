@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 04:00",
+  "updated_at": "2026-11-21 04:28",
   "taiwan": [
     {
       "rank": 1,
@@ -24,27 +24,6 @@
     },
     {
       "rank": 2,
-      "title": "基輔3座大橋遭俄襲擊釀3死15傷　開戰以來最大規模",
-      "summary": [
-        "經濟日報：基輔3座大橋遭俄襲擊釀3死15傷　開戰以來最大規模",
-        "公視新聞：俄飛彈襲基輔主要幹道橋梁 已知3死、15人傷"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "基輔3座大橋遭俄襲擊釀3死15傷　開戰以來最大規模",
-          "url": "https://money.udn.com/money/story/5599/9891599"
-        },
-        {
-          "source": "公視新聞",
-          "title": "俄飛彈襲基輔主要幹道橋梁 已知3死、15人傷",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iWEtpbnhSMC0zVDQ0dE9xMVYzZ29GbFpQZ25udktVdG9HSUVJSndPUno0dXFoQ3lWeHdPQlJaV1pFOWE1eDlNMndIS3FpckE?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "韓國 AI 作弊爭議，李在明：改革考試制度嚴懲違規",
       "summary": [
         "科技新報：韓國 AI 作弊爭議，李在明：改革考試制度嚴懲違規",
@@ -65,7 +44,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Anthropic上市難消除AI隱憂　亞股收盤盡墨",
       "summary": [
         "經濟日報：Anthropic上市難消除AI隱憂　亞股收盤盡墨",
@@ -86,28 +65,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "民眾黨21日活動 黃國昌：蔣萬安、柯文哲同框加油",
-      "summary": [
-        "自由時報：民眾黨21日活動 黃國昌：蔣萬安、柯文哲同框加油",
-        "ETtoday：柯文哲南下屏東催票！力挺林育先3人：民眾黨火種一定要當選"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "民眾黨21日活動 黃國昌：蔣萬安、柯文哲同框加油",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5647625"
-        },
-        {
-          "source": "ETtoday",
-          "title": "柯文哲南下屏東催票！力挺林育先3人：民眾黨火種一定要當選",
-          "url": "https://www.ettoday.net/news/20261120/3275771.htm"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "「都已負重，不該忍辱」 沈伯洋寫信致北市府8萬公務員 拋四大承諾",
       "summary": [
         "自由時報：「都已負重，不該忍辱」 沈伯洋寫信致北市府8萬公務員 拋四大承諾",
@@ -128,7 +86,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "共和黨2028總統提名戰民調　盧比歐超車範斯情勢大逆轉",
       "summary": [
         "經濟日報：共和黨2028總統提名戰民調　盧比歐超車範斯情勢大逆轉",
@@ -149,7 +107,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "老農津貼修法3大問題　行政院「不副署」：另以合妥方式保障老農權益",
       "summary": [
         "ETtoday：老農津貼修法3大問題　行政院「不副署」：另以合妥方式保障老農權益",
@@ -170,7 +128,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "徐欣瑩競辦人員被檢警帶走！將赴竹縣警局抗議司法介選",
       "summary": [
         "自由時報：徐欣瑩競辦人員被檢警帶走！將赴竹縣警局抗議司法介選",
@@ -191,7 +149,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "才表態挺沈伯洋就被嗆不紅！八點檔女星不甩酸民 再發文轟「舊思維必須更新」",
       "summary": [
         "自由時報：才表態挺沈伯洋就被嗆不紅！八點檔女星不甩酸民 再發文轟「舊思維必須更新」",
@@ -210,6 +168,48 @@
           "url": "https://star.ettoday.net/news/3275781"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "紐時記者：輝達晶片流入共軍實驗室　協助攻臺研究",
+      "summary": [
+        "經濟日報：紐時記者：輝達晶片流入共軍實驗室　協助攻臺研究",
+        "ETtoday：紐時：輝達晶片流入共軍實驗室　協助攻臺研究"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "紐時記者：輝達晶片流入共軍實驗室　協助攻臺研究",
+          "url": "https://money.udn.com/money/story/5599/9892207"
+        },
+        {
+          "source": "ETtoday",
+          "title": "紐時：輝達晶片流入共軍實驗室　協助攻臺研究",
+          "url": "https://www.ettoday.net/news/20261120/3275786.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "馬斯克出手了！SpaceX旗下公司擬棄用中國AI模型  背後原因曝光",
+      "summary": [
+        "自由時報：馬斯克出手了！SpaceX旗下公司擬棄用中國AI模型  背後原因曝光",
+        "經濟日報：美媒：SpaceX推出Cursor擬終止中國AI模型"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "馬斯克出手了！SpaceX旗下公司擬棄用中國AI模型  背後原因曝光",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5648177"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美媒：SpaceX推出Cursor擬終止中國AI模型",
+          "url": "https://money.udn.com/money/story/5599/9892450"
+        }
+      ]
     }
   ],
   "global": [
@@ -218,7 +218,7 @@
       "title": "由於 Anthropic IPO 未能阻止人工智慧拋售，全球股市暴跌",
       "summary": [
         "The Guardian：由於 Anthropic IPO 未能阻止人工智慧拋售，全球股市暴跌",
-        "Yahoo Finance：IPO 火熱後，Anthropic 股價暴跌",
+        "Yahoo Finance：IPO火熱後，Anthropic股價暴跌",
         "Bloomberg Markets：隨著人工智慧貿易的解體，Anthropic 股價暴跌幾乎抹去了 IPO 的熱潮"
       ],
       "media_count": 4,
@@ -230,7 +230,7 @@
         },
         {
           "source": "Yahoo Finance",
-          "title": "IPO 火熱後，Anthropic 股價暴跌",
+          "title": "IPO火熱後，Anthropic股價暴跌",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1JHbkFlQm5mcHJFMmFVZzhqRnpfMkxwTUtwS0F0OTZicDN0VDNfdnoxVlBLcTViVXNDa2o1ZW4yVkpsd1daOFlQMXdZdjVWYzlkWnFVRHRhanJFRUlXNXBLd0E1Y1NlRlhieWR6V2hzSkkzTkZueE1HT24tOC1ZbHpUZHEzdnVfc3NPdFl3ZWtjMVpLVDdhd2F6VzRCTUJCTEdXMWFGNEJWS0k?oc=5"
         },
         {
@@ -240,7 +240,7 @@
         },
         {
           "source": "Bloomberg Tech",
-          "title": "Anthropic股價暴跌幾乎消除了IPO熱潮",
+          "title": "人為股價暴跌幾乎消除了IPO熱潮",
           "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-video"
         }
       ]
