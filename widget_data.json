@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 12:57",
+  "updated_at": "2026-11-20 13:27",
   "taiwan": [
     {
       "rank": 1,
@@ -137,48 +137,6 @@
     },
     {
       "rank": 6,
-      "title": "輝達共同創辦人補刀！批評黃仁勳「違背創業初衷」：讓我很難受",
-      "summary": [
-        "ETtoday：輝達共同創辦人補刀！批評黃仁勳「違背創業初衷」：讓我很難受",
-        "經濟日報：輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "輝達共同創辦人補刀！批評黃仁勳「違背創業初衷」：讓我很難受",
-          "url": "https://www.ettoday.net/news/20261120/3275251.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "輝達共同創辦人公開批評黃仁勳！發言一度哽咽 直指背叛核心價值",
-          "url": "https://money.udn.com/money/story/5599/9890840"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "蔣萬安正港30年同學現身　感嘆「對手像恐怖情人每天找碴」",
-      "summary": [
-        "ETtoday：蔣萬安正港30年同學現身　感嘆「對手像恐怖情人每天找碴」",
-        "中時新聞：蔣萬安30年老同學不忍了！曬罕見舊照轟對手「像恐怖情人」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "蔣萬安正港30年同學現身　感嘆「對手像恐怖情人每天找碴」",
-          "url": "https://www.ettoday.net/news/20261119/3275244.htm"
-        },
-        {
-          "source": "中時新聞",
-          "title": "蔣萬安30年老同學不忍了！曬罕見舊照轟對手「像恐怖情人」",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90SndLMnFKSXpXaDg1RDlVei1QQ1FBQzduNTA0T0NaNUVmSjJRbFh1N0g2aVJfdG1wY19LVjZuN1FSVUtOYktBdDhvVWpSUi1vdkRfbTE3T0JLTEZ5SlRGRWZYM2RkXzVLbmNtTWRR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
       "summary": [
         "自由時報：葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
@@ -199,7 +157,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "人擇掛牌掀AI熱潮歐股仍收低",
       "summary": [
         "自由時報：人擇掛牌掀AI熱潮歐股仍收低",
@@ -220,7 +178,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Anthropic上市首日開盤漲34%　市值突破2兆美元",
       "summary": [
         "自由時報：Anthropic上市首日開盤漲34%　市值突破2兆美元",
@@ -237,6 +195,48 @@
           "source": "經濟日報",
           "title": "Anthropic上市首日開盤漲34%　市值突破2兆美元",
           "url": "https://money.udn.com/money/story/123398/9890307"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普結束中國行返美　20日在白宮召開記者會",
+      "summary": [
+        "自由時報：川普結束中國行返美　20日在白宮召開記者會",
+        "經濟日報：川普結束中國行返美　20日在白宮召開記者會"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川普結束中國行返美　20日在白宮召開記者會",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647041"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普結束中國行返美　20日在白宮召開記者會",
+          "url": "https://money.udn.com/money/story/5599/9890329"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美中俄峰會同日基輔遇襲　荷蘭、奧地利使館受損",
+      "summary": [
+        "自由時報：美中俄峰會同日基輔遇襲　荷蘭、奧地利使館受損",
+        "經濟日報：美中俄峰會同日基輔遇襲　荷蘭、奧地利使館受損"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美中俄峰會同日基輔遇襲　荷蘭、奧地利使館受損",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5647045"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美中俄峰會同日基輔遇襲　荷蘭、奧地利使館受損",
+          "url": "https://money.udn.com/money/story/5599/9890340"
         }
       ]
     }
@@ -415,48 +415,6 @@
     },
     {
       "rank": 8,
-      "title": "有報告指出與中國的聯絡可能會引起美國的審查，AMD 股價下跌",
-      "summary": [
-        "Investing.com：有報告指出與中國的聯絡可能會引起美國的審查，AMD 股價下跌",
-        "Financial Times：賣空者報告與中國有聯絡後，AMD 股價下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "有報告指出與中國的聯絡可能會引起美國的審查，AMD 股價下跌",
-          "url": "https://www.investing.com/news/stock-market-news/amd-shares-slide-as-report-says-china-links-could-invite-us-scrutiny-5039625"
-        },
-        {
-          "source": "Financial Times",
-          "title": "賣空者報告與中國有聯絡後，AMD 股價下跌",
-          "url": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Anthropic 以 111 美元的價格在納斯達克上市，比 IPO 價格高出 33%",
-      "summary": [
-        "TechCrunch：Anthropic 以 111 美元的價格在納斯達克上市，比 IPO 價格高出 33%",
-        "Bloomberg Tech：Anthropic 開始在納斯達克交易，價格為 111.50 美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "Anthropic 以 111 美元的價格在納斯達克上市，比 IPO 價格高出 33%",
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic 開始在納斯達克交易，價格為 111.50 美元",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-begins-trading-on-nasdaq-at-111-50-video"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "蘋果 iPhone 相機和照片軟體主管 Jon McCormack 離開公司",
       "summary": [
         "Bloomberg Tech：蘋果 iPhone 相機和照片軟體主管 Jon McCormack 離開公司",
@@ -473,6 +431,48 @@
           "source": "The Verge",
           "title": "據報道，蘋果 iPhone 相機負責人已離開公司",
           "url": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "國際法院歷史性裁決　認定緬甸對羅興亞人實施種族滅絕",
+      "summary": [
+        "法廣RFI：國際法院歷史性裁決　認定緬甸對羅興亞人實施種族滅絕",
+        "紐約時報中文：國際法院裁定緬甸對羅辛亞人實施種族滅絕- 紐約時報中文網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "國際法院歷史性裁決　認定緬甸對羅興亞人實施種族滅絕",
+          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261119-%E5%9C%8B%E9%9A%9B%E6%B3%95%E9%99%A2%E6%AD%B7%E5%8F%B2%E6%80%A7%E8%A3%81%E6%B1%BA-%E8%AA%8D%E5%AE%9A%E7%B7%AC%E7%94%B8%E5%B0%8D%E7%BE%85%E8%88%88%E4%BA%9E%E4%BA%BA%E5%AF%A6%E6%96%BD%E7%A8%AE%E6%97%8F%E6%BB%85%E7%B5%95"
+        },
+        {
+          "source": "紐約時報中文",
+          "title": "國際法院裁定緬甸對羅辛亞人實施種族滅絕- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY3FtSGRPZy16X2o5Slc4UXB5VWFmU2dwU2dwNzVRTk5KNTRVdDN1TF8zTHlxMy1WbDhJbUN6ZWpibHYtR3B1dUo1SEpzd25UcC1Gbk5ITllNeGlRa0YtWUNmYjNqVzBRTUhFcmhNZml4WWdTUk82TFBhOUVQMTBMdU5R?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Anthropic以破紀錄的IPO首次亮相",
+      "summary": [
+        "Bloomberg Tech：Anthropic以破紀錄的IPO首次亮相",
+        "Bloomberg Markets：Anthropic 破紀錄的 IPO"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic以破紀錄的IPO首次亮相",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-makes-trading-debut-with-record-breaking-ipo-video"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic 破紀錄的 IPO",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-markets-11-19-2026-video"
         }
       ]
     }
