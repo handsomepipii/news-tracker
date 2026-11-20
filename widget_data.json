@@ -1,29 +1,8 @@
 {
-  "updated_at": "2026-11-21 04:57",
+  "updated_at": "2026-11-21 05:28",
   "taiwan": [
     {
       "rank": 1,
-      "title": "天氣/整天最冷是今天 明起白天回溫 週六晨探10度｜氣象主播 彭惠筠｜午間氣象｜TVBS新聞20261120 @TVBSNEWS01",
-      "summary": [
-        "TVBS新聞：天氣/整天最冷是今天 明起白天回溫 週六晨探10度｜氣象主播 彭惠筠｜午間氣象｜TVBS新聞20261120 @TVBSNEWS01",
-        "風傳媒：天氣預報/首波冷氣團來了！今起越晚越冷「低溫跌到剩10度」， 氣象署曝回暖時間點"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "天氣/整天最冷是今天 明起白天回溫 週六晨探10度｜氣象主播 彭惠筠｜午間氣象｜TVBS新聞20261120 @TVBSNEWS01",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBseUNKUldldlowckJtU2VPeElBRVBqeXV3RVNwMkRtMDRSUXR0QlRDcDU0TktwczNDVmgzcDlRWEtlaklLTzFLWU5BRDlxMGJYeHhvZ0ZR?oc=5"
-        },
-        {
-          "source": "風傳媒",
-          "title": "天氣預報/首波冷氣團來了！今起越晚越冷「低溫跌到剩10度」， 氣象署曝回暖時間點",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83RjdUR0lmeGxsQzZwT1ZERFJlRDBnNXZJaUpCUFdhMWJNVmptczJPVVAtb2U1eVoweWZDVFJzREhmMmd0WlZOMmdiNllyNHc4?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "韓國 AI 作弊爭議，李在明：改革考試制度嚴懲違規",
       "summary": [
         "科技新報：韓國 AI 作弊爭議，李在明：改革考試制度嚴懲違規",
@@ -44,7 +23,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Anthropic上市難消除AI隱憂　亞股收盤盡墨",
       "summary": [
         "經濟日報：Anthropic上市難消除AI隱憂　亞股收盤盡墨",
@@ -61,6 +40,27 @@
           "source": "自由時報",
           "title": "Anthropic上市難消疑慮　歐股受挫",
           "url": "https://ec.ltn.com.tw/article/breakingnews/5648230"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "11/21蔣.柯將合體! 蔣萬安:跟柯請益很珍惜｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+      "summary": [
+        "TVBS新聞：11/21蔣.柯將合體! 蔣萬安:跟柯請益很珍惜｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "自由時報：【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "11/21蔣.柯將合體! 蔣萬安:跟柯請益很珍惜｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UMzc3QzVZVTg0bVZPRHJTMmNLRGNQcDFwRXpHV0F1Y1UtZlA3c2pTeVpYVXZ6OHN0TzBDTGZjVlNmRG9lZV9VTDgySWZxRjlxWno4ODN3?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳",
+          "url": "https://estate.ltn.com.tw/article/29414"
         }
       ]
     },
@@ -301,17 +301,17 @@
     },
     {
       "rank": 4,
-      "title": "為什麼 Var Energi 股票今天會下跌？",
+      "title": "為什麼 Intuit 股票今天會暴跌？",
       "summary": [
-        "Investing.com：為什麼 Var Energi 股票今天會下跌？",
+        "Investing.com：為什麼 Intuit 股票今天會暴跌？",
         "Yahoo Finance：為什麼英偉達股價今天下跌"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Investing.com",
-          "title": "為什麼 Var Energi 股票今天會下跌？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-var-energi-stock-sliding-today-93CH-5040996"
+          "title": "為什麼 Intuit 股票今天會暴跌？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-intuit-stock-tumbling-today-93CH-5041016"
         },
         {
           "source": "Yahoo Finance",
@@ -343,27 +343,6 @@
     },
     {
       "rank": 6,
-      "title": "美國人工智慧公司如何使用中國開放權重模型",
-      "summary": [
-        "Bloomberg Markets：美國人工智慧公司如何使用中國開放權重模型",
-        "Bloomberg Tech：美國人工智慧公司如何使用中國開放權重模型"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "美國人工智慧公司如何使用中國開放權重模型",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-20/how-an-american-ai-company-uses-chinese-open-weight-models"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "美國人工智慧公司如何使用中國開放權重模型",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-20/how-a-us-ai-company-uses-chinese-open-weight-models-video"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
       "summary": [
         "Tom's Hardware：OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
@@ -384,7 +363,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
       "summary": [
         "Investing.com：關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
@@ -405,7 +384,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "隨著人工智慧巨頭遭遇科技股拋售，Anthrotic 股價暴跌",
       "summary": [
         "Financial Times：隨著人工智慧巨頭遭遇科技股拋售，Anthrotic 股價暴跌",
@@ -426,7 +405,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "SpaceX 子公司 Cursor 告訴立法者，它正在考慮逐步淘汰中國人工智慧模型",
       "summary": [
         "CNBC：SpaceX 子公司 Cursor 告訴立法者，它正在考慮逐步淘汰中國人工智慧模型",
@@ -443,6 +422,27 @@
           "source": "Investing.com",
           "title": "根據 CNBC 報導，SpaceX 的 Cursor 正在考慮放棄中國人工智慧模型",
           "url": "https://www.investing.com/news/stock-market-news/spacexs-cursor-weighs-shift-away-from-chinese-ai-models-cnbc-reports-5041995"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "市場上的人工智慧熱潮正在打破",
+      "summary": [
+        "Financial Times：市場上的人工智慧熱潮正在打破",
+        "Yahoo Finance：為什麼市場正遭受人工智慧「完美風暴」的打擊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "市場上的人工智慧熱潮正在打破",
+          "url": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "為什麼市場正遭受人工智慧「完美風暴」的打擊",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaHJxYndCcUhPbEdVazJIcXV4djZ5TWQxMUNneEtHYXRFNndPRlRZcWhLTFJnT0J0cC1ST1JaYVp4UGJCUmthYkZvTjV4OS1TanduQnVGMG1SS3J6dHMtOXVlVHA3Tmw4WGI4Wk43MGFXeWJpR0Z5elJjckJwMUZCNlczdndQSXFkTklLMjA0aHJqcmJpczNQT2YwcGZTazBSWVh3S3J3bw?oc=5"
         }
       ]
     }
