@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 02:57",
+  "updated_at": "2026-11-21 03:28",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,27 @@
     },
     {
       "rank": 2,
+      "title": "天氣/整天最冷是今天 明起白天回溫 週六晨探10度｜氣象主播 彭惠筠｜午間氣象｜TVBS新聞20261120 @TVBSNEWS01",
+      "summary": [
+        "TVBS新聞：天氣/整天最冷是今天 明起白天回溫 週六晨探10度｜氣象主播 彭惠筠｜午間氣象｜TVBS新聞20261120 @TVBSNEWS01",
+        "風傳媒：天氣預報/首波冷氣團來了！今起越晚越冷「低溫跌到剩10度」， 氣象署曝回暖時間點"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "天氣/整天最冷是今天 明起白天回溫 週六晨探10度｜氣象主播 彭惠筠｜午間氣象｜TVBS新聞20261120 @TVBSNEWS01",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBseUNKUldldlowckJtU2VPeElBRVBqeXV3RVNwMkRtMDRSUXR0QlRDcDU0TktwczNDVmgzcDlRWEtlaklLTzFLWU5BRDlxMGJYeHhvZ0ZR?oc=5"
+        },
+        {
+          "source": "風傳媒",
+          "title": "天氣預報/首波冷氣團來了！今起越晚越冷「低溫跌到剩10度」， 氣象署曝回暖時間點",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83RjdUR0lmeGxsQzZwT1ZERFJlRDBnNXZJaUpCUFdhMWJNVmptczJPVVAtb2U1eVoweWZDVFJzREhmMmd0WlZOMmdiNllyNHc4?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "基輔3座大橋遭俄襲擊釀3死15傷　開戰以來最大規模",
       "summary": [
         "經濟日報：基輔3座大橋遭俄襲擊釀3死15傷　開戰以來最大規模",
@@ -50,7 +71,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Anthropic上市難消除AI隱憂　亞股收盤盡墨",
       "summary": [
         "經濟日報：Anthropic上市難消除AI隱憂　亞股收盤盡墨",
@@ -71,7 +92,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "美商務部核准逾 87.9 萬顆 AI 晶片銷中 議員質疑「出口管制失靈」",
       "summary": [
         "INSIDE硬塞：美商務部核准逾 87.9 萬顆 AI 晶片銷中 議員質疑「出口管制失靈」",
@@ -92,7 +113,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Anthropic上市難救行情　日股暴跌逾3000點",
       "summary": [
         "經濟日報：Anthropic上市難救行情　日股暴跌逾3000點",
@@ -113,7 +134,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "民眾黨21日活動 黃國昌：蔣萬安、柯文哲同框加油",
       "summary": [
         "自由時報：民眾黨21日活動 黃國昌：蔣萬安、柯文哲同框加油",
@@ -134,7 +155,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "「都已負重，不該忍辱」 沈伯洋寫信致北市府8萬公務員 拋四大承諾",
       "summary": [
         "自由時報：「都已負重，不該忍辱」 沈伯洋寫信致北市府8萬公務員 拋四大承諾",
@@ -155,7 +176,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "共和黨2028總統提名戰民調　盧比歐超車範斯情勢大逆轉",
       "summary": [
         "經濟日報：共和黨2028總統提名戰民調　盧比歐超車範斯情勢大逆轉",
@@ -176,7 +197,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "老農津貼修法3大問題　行政院「不副署」：另以合妥方式保障老農權益",
       "summary": [
         "ETtoday：老農津貼修法3大問題　行政院「不副署」：另以合妥方式保障老農權益",
@@ -193,27 +214,6 @@
           "source": "風傳媒",
           "title": "又來了！行政院宣佈不副署「老農津貼修法」 李慧芝：此修法案有3大問題 | 羅立邦 | 新聞",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0ydmRjZ25KQUJ2RE1tZzJqa3JuTUdmdzdIb3dwdmJQX2Z3cVdsTGl4cTJQdlFPMC1rbGRhTkd1bHRQdVIzNTA5QVNic1k3UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "徐欣瑩競辦人員被檢警帶走！將赴竹縣警局抗議司法介選",
-      "summary": [
-        "自由時報：徐欣瑩競辦人員被檢警帶走！將赴竹縣警局抗議司法介選",
-        "ETtoday：快訊／徐欣瑩競辦出事！同仁遭帶走　奔竹縣刑警大隊抗議司法介選"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "徐欣瑩競辦人員被檢警帶走！將赴竹縣警局抗議司法介選",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648018"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／徐欣瑩競辦出事！同仁遭帶走　奔竹縣刑警大隊抗議司法介選",
-          "url": "https://www.ettoday.net/news/20261120/3275761.htm"
         }
       ]
     }
@@ -275,27 +275,6 @@
     },
     {
       "rank": 3,
-      "title": "隨著 Anthropic 上市，英偉達、博通和美光股價下跌",
-      "summary": [
-        "Yahoo Finance：隨著 Anthropic 上市，英偉達、博通和美光股價下跌",
-        "Bloomberg Tech：隨著科技股拋售，Anthropic 首次亮相後股價下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "隨著 Anthropic 上市，英偉達、博通和美光股價下跌",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnFiUEhueFNuXzRVcWt0NUlDWXY3b0MwVnYzN0YxYzZBZkoyRnZRQmJqeTJUdlJuaG1ubUdoQkk0Yk5KcHk3N2FTWm5rX2ZqQ2dPeml5dnBHUVZpNFVhdVdWdEZVLVNiRnFpNm15RUktZUdmUV9oV1ZFVWd4VVZwQlYwa19wc3cyMFMzbGRrVXdiYndLeVFUSUhrVTJBSUVmTGR1ZmVsd3QzZ05HTTVabktzRS02aEdDdnhJ?oc=5"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "隨著科技股拋售，Anthropic 首次亮相後股價下跌",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-falls-after-blockbuster-debut-as-tech-sell-off-video"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "俄羅斯飛彈攻擊摧毀基輔橋樑",
       "summary": [
         "Financial Times：俄羅斯飛彈攻擊摧毀基輔橋樑",
@@ -316,7 +295,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "美國人工智慧公司如何使用中國開放權重模型",
       "summary": [
         "Bloomberg Markets：美國人工智慧公司如何使用中國開放權重模型",
@@ -337,7 +316,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "IPO火熱後，Anthropic股價暴跌",
       "summary": [
         "Yahoo Finance：IPO火熱後，Anthropic股價暴跌",
@@ -358,7 +337,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
       "summary": [
         "Tom's Hardware：OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
@@ -379,7 +358,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
       "summary": [
         "Investing.com：關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
@@ -400,7 +379,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "SpaceX 子公司 Cursor 告訴立法者，它正在考慮逐步淘汰中國人工智慧模型",
       "summary": [
         "CNBC：SpaceX 子公司 Cursor 告訴立法者，它正在考慮逐步淘汰中國人工智慧模型",
@@ -421,7 +400,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "市場上的人工智慧熱潮正在打破",
       "summary": [
         "Financial Times：市場上的人工智慧熱潮正在打破",
@@ -438,6 +417,27 @@
           "source": "Yahoo Finance",
           "title": "為什麼市場正遭受人工智慧「完美風暴」的打擊",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaHJxYndCcUhPbEdVazJIcXV4djZ5TWQxMUNneEtHYXRFNndPRlRZcWhLTFJnT0J0cC1ST1JaYVp4UGJCUmthYkZvTjV4OS1TanduQnVGMG1SS3J6dHMtOXVlVHA3Tmw4WGI4Wk43MGFXeWJpR0Z5elJjckJwMUZCNlczdndQSXFkTklLMjA0aHJqcmJpczNQT2YwcGZTazBSWVh3S3J3bw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "人擇數學家聲稱已經與克勞德解決了久負盛名的千禧年獎問題",
+      "summary": [
+        "The Verge：人擇數學家聲稱已經與克勞德解決了久負盛名的千禧年獎問題",
+        "Tom's Hardware：人擇數學家聲稱與克勞德一起解決了167年前的數學難題"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "人擇數學家聲稱已經與克勞德解決了久負盛名的千禧年獎問題",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "人擇數學家聲稱與克勞德一起解決了167年前的數學難題",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed"
         }
       ]
     }
