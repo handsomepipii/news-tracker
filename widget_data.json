@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 12:26",
+  "updated_at": "2026-11-20 12:57",
   "taiwan": [
     {
       "rank": 1,
@@ -137,48 +137,6 @@
     },
     {
       "rank": 6,
-      "title": "美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
-      "summary": [
-        "風傳媒：美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
-        "科技新報：傳美出口管制新規衝擊，臺積電、三星暫停部分對中晶片出貨"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "風傳媒",
-          "title": "美國擴大晶片出口管制！FT：臺積電、三星暫停部分中國客戶出貨，多手機品牌恐受波及| 李靖棠| 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oNmZqQkFzVUo0RUVvelZRWVJXaFhWaHpYc2RobW5IWXdqZFNUdENjSXlGYmRVXzRMT1ZENExSS1RGcWwwQXUwWWtoXzZYUQ?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "傳美出口管制新規衝擊，臺積電、三星暫停部分對中晶片出貨",
-          "url": "https://technews.tw/2026/11/20/tsmc-and-samsung-suspend-some-chip-shipments-to-chinese-customers/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "明天的天氣/入冬最強冷氣團來了！「低溫探10度」全臺最濕冷時間曝， 一周天氣一次看",
-      "summary": [
-        "風傳媒：明天的天氣/入冬最強冷氣團來了！「低溫探10度」全臺最濕冷時間曝， 一周天氣一次看",
-        "自由時報：入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "風傳媒",
-          "title": "明天的天氣/入冬最強冷氣團來了！「低溫探10度」全臺最濕冷時間曝， 一周天氣一次看",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EaEhWaERjeFdNcnppSmtsNzJGUk9KVXN1RnhDa1NSSG9McUhRd3BjbFVBM3JIZHZyZUp4ZE43eUtYMjhfTWw3MmUwekJnRGwy?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5647050"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "輝達共同創辦人補刀！批評黃仁勳「違背創業初衷」：讓我很難受",
       "summary": [
         "ETtoday：輝達共同創辦人補刀！批評黃仁勳「違背創業初衷」：讓我很難受",
@@ -199,7 +157,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "蔣萬安正港30年同學現身　感嘆「對手像恐怖情人每天找碴」",
       "summary": [
         "ETtoday：蔣萬安正港30年同學現身　感嘆「對手像恐怖情人每天找碴」",
@@ -220,7 +178,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
       "summary": [
         "自由時報：葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
@@ -239,38 +197,53 @@
           "url": "https://money.udn.com/money/story/5599/9890316"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "人擇掛牌掀AI熱潮歐股仍收低",
+      "summary": [
+        "自由時報：人擇掛牌掀AI熱潮歐股仍收低",
+        "經濟日報：人擇掛牌掀AI熱潮歐股仍收低"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "人擇掛牌掀AI熱潮歐股仍收低",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5647037"
+        },
+        {
+          "source": "經濟日報",
+          "title": "人擇掛牌掀AI熱潮歐股仍收低",
+          "url": "https://money.udn.com/money/story/5599/9890315"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Anthropic上市首日開盤漲34%　市值突破2兆美元",
+      "summary": [
+        "自由時報：Anthropic上市首日開盤漲34%　市值突破2兆美元",
+        "經濟日報：Anthropic上市首日開盤漲34%　市值突破2兆美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "Anthropic上市首日開盤漲34%　市值突破2兆美元",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5647033"
+        },
+        {
+          "source": "經濟日報",
+          "title": "Anthropic上市首日開盤漲34%　市值突破2兆美元",
+          "url": "https://money.udn.com/money/story/123398/9890307"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "AMD因賣空者報告涉嫌中國業務而下跌",
-      "summary": [
-        "CNBC：AMD因賣空者報告涉嫌中國業務而下跌",
-        "Investing.com：有報告指出與中國的聯絡可能會引起美國的審查，AMD 股價下跌",
-        "Financial Times：賣空者報告與中國有聯絡後，AMD 股價下跌"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "AMD因賣空者報告涉嫌中國業務而下跌",
-          "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "有報告指出與中國的聯絡可能會引起美國的審查，AMD 股價下跌",
-          "url": "https://www.investing.com/news/stock-market-news/amd-shares-slide-as-report-says-china-links-could-invite-us-scrutiny-5039625"
-        },
-        {
-          "source": "Financial Times",
-          "title": "賣空者報告與中國有聯絡後，AMD 股價下跌",
-          "url": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Anthropic 完成 810 億美元創紀錄的 IPO，估值約 1.5 兆美元",
       "summary": [
         "Yahoo Finance：Anthropic 完成 810 億美元創紀錄的 IPO，估值約 1.5 兆美元",
@@ -297,7 +270,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "讓 Google Gemini 能夠為您使用 Mac",
       "summary": [
         "TechCrunch：讓 Google Gemini 能夠為您使用 Mac",
@@ -324,7 +297,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "蘋果正在開發用於裝置控制、應用程式、瀏覽和編碼的人工智慧代理",
       "summary": [
         "Bloomberg Tech：蘋果正在開發用於裝置控制、應用程式、瀏覽和編碼的人工智慧代理",
@@ -351,7 +324,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
       "summary": [
         "Bloomberg Tech：Bending Spoons斥資37億美元從Intuit手中收購Mailchimp",
@@ -378,7 +351,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Anthropic 首次亮相未能重振人工智慧熱情，華爾街股市下滑",
       "summary": [
         "Investing.com：Anthropic 首次亮相未能重振人工智慧熱情，華爾街股市下滑",
@@ -399,7 +372,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "加州總檢察長向英偉達發出傳票，調查中國晶片轉移事件",
       "summary": [
         "CNBC：加州總檢察長向英偉達發出傳票，調查中國晶片轉移事件",
@@ -420,7 +393,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Anthropic 的大型 IPO 不辜負華爾街的炒作，但未能重振人工智慧貿易",
       "summary": [
         "WSJ Markets：Anthropic 的大型 IPO 不辜負華爾街的炒作，但未能重振人工智慧貿易",
@@ -441,44 +414,65 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "聯合國最高法院裁定緬甸對羅興亞少數民族實施種族滅絕",
+      "rank": 8,
+      "title": "有報告指出與中國的聯絡可能會引起美國的審查，AMD 股價下跌",
       "summary": [
-        "BBC World：聯合國最高法院裁定緬甸對羅興亞少數民族實施種族滅絕",
-        "法廣RFI：國際法院歷史性裁決　認定緬甸對羅興亞人實施種族滅絕"
+        "Investing.com：有報告指出與中國的聯絡可能會引起美國的審查，AMD 股價下跌",
+        "Financial Times：賣空者報告與中國有聯絡後，AMD 股價下跌"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "BBC World",
-          "title": "聯合國最高法院裁定緬甸對羅興亞少數民族實施種族滅絕",
-          "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+          "source": "Investing.com",
+          "title": "有報告指出與中國的聯絡可能會引起美國的審查，AMD 股價下跌",
+          "url": "https://www.investing.com/news/stock-market-news/amd-shares-slide-as-report-says-china-links-could-invite-us-scrutiny-5039625"
         },
         {
-          "source": "法廣RFI",
-          "title": "國際法院歷史性裁決　認定緬甸對羅興亞人實施種族滅絕",
-          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261119-%E5%9C%8B%E9%9A%9B%E6%B3%95%E9%99%A2%E6%AD%B7%E5%8F%B2%E6%80%A7%E8%A3%81%E6%B1%BA-%E8%AA%8D%E5%AE%9A%E7%B7%AC%E7%94%B8%E5%B0%8D%E7%BE%85%E8%88%88%E4%BA%9E%E4%BA%BA%E5%AF%A6%E6%96%BD%E7%A8%AE%E6%97%8F%E6%BB%85%E7%B5%95"
+          "source": "Financial Times",
+          "title": "賣空者報告與中國有聯絡後，AMD 股價下跌",
+          "url": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Anthropic 以 111 美元的價格在納斯達克上市，比 IPO 價格高出 33%",
+      "summary": [
+        "TechCrunch：Anthropic 以 111 美元的價格在納斯達克上市，比 IPO 價格高出 33%",
+        "Bloomberg Tech：Anthropic 開始在納斯達克交易，價格為 111.50 美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "Anthropic 以 111 美元的價格在納斯達克上市，比 IPO 價格高出 33%",
+          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic 開始在納斯達克交易，價格為 111.50 美元",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-begins-trading-on-nasdaq-at-111-50-video"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "蘇珊史密斯 (Susan Smith) 在溺水兩個兒子 32 年後再次被拒絕假釋",
+      "title": "蘋果 iPhone 相機和照片軟體主管 Jon McCormack 離開公司",
       "summary": [
-        "BBC World：蘇珊史密斯 (Susan Smith) 在溺水兩個兒子 32 年後再次被拒絕假釋",
-        "Washington Post：蘇珊史密斯 (Susan Smith) 在南卡羅來納州湖溺水兒子 32 年後被拒絕假釋"
+        "Bloomberg Tech：蘋果 iPhone 相機和照片軟體主管 Jon McCormack 離開公司",
+        "The Verge：據報道，蘋果 iPhone 相機負責人已離開公司"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "BBC World",
-          "title": "蘇珊史密斯 (Susan Smith) 在溺水兩個兒子 32 年後再次被拒絕假釋",
-          "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss"
+          "source": "Bloomberg Tech",
+          "title": "蘋果 iPhone 相機和照片軟體主管 Jon McCormack 離開公司",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-s-iphone-camera-and-photos-software-chief-jon-mccormack-leaves-company"
         },
         {
-          "source": "Washington Post",
-          "title": "蘇珊史密斯 (Susan Smith) 在南卡羅來納州湖溺水兒子 32 年後被拒絕假釋",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNER0LXV5UU5rN0lPWjR2VmF6M0xGNVZQcEE1Z3NxQ2pqUzBBdmc2c0FtZmY1UUJrcDExdlJnWEdHZWRnODJENHFkN2c2ejl5ek5tbjJ4Xy01aFpQaXQ0V3VMbDN4UlV0TjdsT01ya1k0d09PWmIzZlVwOWhMWXFJUWl3N0VRRngydXRYZEJoWjhoX3g3d2FZb180UXJxSXAtSWRseV9Mck1uMWQ4cS1yQWRR?oc=5"
+          "source": "The Verge",
+          "title": "據報道，蘋果 iPhone 相機負責人已離開公司",
+          "url": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera"
         }
       ]
     }
