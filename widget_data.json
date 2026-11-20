@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 21:27",
+  "updated_at": "2026-11-20 21:57",
   "taiwan": [
     {
       "rank": 1,
@@ -78,27 +78,6 @@
     },
     {
       "rank": 4,
-      "title": "沃爾瑪財測遜預期  燃料／運輸成本壓力增",
-      "summary": [
-        "科技新報：沃爾瑪財測遜預期  燃料／運輸成本壓力增",
-        "MoneyDJ理財網：沃爾瑪財測遜預期燃料/運輸成本壓力增- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "沃爾瑪財測遜預期  燃料／運輸成本壓力增",
-          "url": "https://finance.technews.tw/2026/11/20/walmart-reports-third-quarter-results-q3/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "沃爾瑪財測遜預期燃料/運輸成本壓力增- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXFqWWtkbmtiSE83aUJ1ZFRpRUFyMU9jeDR1OThSZ21nLWl1WkhSQXh0OGpvUnZZcFVaX2p5V2NzSkhmbVR1X3hndzdVSGR0WlIzMmhtMG5EN3FNek5XMDdyNmVqdkxsdjQxRmQ0bVYzM0JvV2cxbHNuWGtfZ19EMnFGaWVYR3V5UHJ2ZVVpNDdpQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "臺中市農友何國芳、林凡閔  榮獲「全國模範農民」殊榮！",
       "summary": [
         "自由時報：臺中市農友何國芳、林凡閔  榮獲「全國模範農民」殊榮！",
@@ -119,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Visa、萬事達卡與摩根大通使用者個資遭駭，n0n 勒索軟體組織宣稱犯案",
       "summary": [
         "科技新報：Visa、萬事達卡與摩根大通使用者個資遭駭，n0n 勒索軟體組織宣稱犯案",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "科技系統故障引發批評　白宮國家網路總監遭撤換",
       "summary": [
         "經濟日報：科技系統故障引發批評　白宮國家網路總監遭撤換",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Intel 甫獲微軟封裝合作  傳 Google 重新回頭找臺積",
       "summary": [
         "科技新報：Intel 甫獲微軟封裝合作  傳 Google 重新回頭找臺積",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "張啟楷路邊「棒流」恐傷民眾黨選情？　柯文哲比喻：像股票波動",
       "summary": [
         "ETtoday：張啟楷路邊「棒流」恐傷民眾黨選情？　柯文哲比喻：像股票波動",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "阿里在美遭股東提告  被指隱瞞與 Megaspeed 前高層關聯",
       "summary": [
         "科技新報：阿里在美遭股東提告  被指隱瞞與 Megaspeed 前高層關聯",
@@ -220,6 +199,27 @@
           "source": "MoneyDJ理財網",
           "title": "阿里在美遭股東提告被指隱瞞與Megaspeed前高層關聯- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcEx6bHFvcnhwV3BiOGJmVS1heVMzeFJGaEFtVjR0aGxXMHdOQXVsbm1Lc2tyZ29BajlUcVlOQ2ZOeENCaF9WdlJwRDd0WGktc1U3Mkd2TTVtQkpxRjJVZVZfZUZ3Qm12UXZfWGp4XzZsY3B6amxnQ2l4d1BKMndjX3I3Njlaek9uZXBvS0VoRlFiZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Intuit 下修財測、市場憂軟體業逆風  盤後崩",
+      "summary": [
+        "科技新報：Intuit 下修財測、市場憂軟體業逆風  盤後崩",
+        "MoneyDJ理財網：Intuit下修財測、市場憂軟體業逆風盤後崩- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "Intuit 下修財測、市場憂軟體業逆風  盤後崩",
+          "url": "https://finance.technews.tw/2026/11/20/intuit-reports-first-quarter-results-and-enters-agreement-to-sell-mailchimp-to-bending-spoons/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "Intuit下修財測、市場憂軟體業逆風盤後崩- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSjRIQnBFeWduUjU2YzQwU3BJUlFIM3RkRVNzQ1ZUbnM1bjBMc1dKWmh6QV94cmEzN3JPeGVvQlpsX0VYT2x4bE82bmZTY2F2cFhpUjBxWnBib3YzRi12bXJDWGdJbHMyeW5aMGxDWTBadGc4V096Z1FHYzgyVndpdHhEdDRLbmdqeWFoMDNYcmlrQQ?oc=5"
         }
       ]
     }
@@ -286,48 +286,6 @@
     },
     {
       "rank": 3,
-      "title": "由於 Anthropic 首次亮相未能重振人工智慧交易，華爾街期貨下跌",
-      "summary": [
-        "Investing.com：由於 Anthropic 首次亮相未能重振人工智慧交易，華爾街期貨下跌",
-        "Yahoo Finance：由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "由於 Anthropic 首次亮相未能重振人工智慧交易，華爾街期貨下跌",
-          "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-fall-as-anthropic-debut-fails-to-revive-ai-trade-5040450"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFNmNkd1bmdWZnlubzV3QzRrb0FhOHA4cUxudFBiNElPX2dMa3hHbXRPU1BndERKeWVWNzZiRVU5bEtBeDV3Z2RhWXhQRlhRM2RyRGZtSi1YTkc2amdqS3BlVFJhd0lsdzM5cmxfRmVBZUF2V0QxMkZNZjkzU3VaeWZ3OTNWMm8tR3d2T3NqNkZ4YlJVNG9odnh3Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "貸款人旨在阻止 SpaceX 將價值 400 億美元的晶片送入軌道",
-      "summary": [
-        "Financial Times：貸款人旨在阻止 SpaceX 將價值 400 億美元的晶片送入軌道",
-        "Investing.com：SpaceX 貸款人尋求保護措施，防止馬斯克將人工智慧晶片送入太空"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "貸款人旨在阻止 SpaceX 將價值 400 億美元的晶片送入軌道",
-          "url": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Investing.com",
-          "title": "SpaceX 貸款人尋求保護措施，防止馬斯克將人工智慧晶片送入太空",
-          "url": "https://www.investing.com/news/stock-market-news/spacex-lenders-seek-safeguards-against-musk-sending-ai-chips-into-space--ft-5040555"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "APEC直播：深圳事件如何展開",
       "summary": [
         "Nikkei Asia：APEC直播：深圳事件如何展開",
@@ -348,7 +306,28 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "title": "由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌",
+      "summary": [
+        "Yahoo Finance：由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌",
+        "Investing.com：Anthropic 首次亮相未能引發反彈，歐洲人工智慧相關股票下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "由於 Anthropic 的首次亮相未能重振人工智慧熱情，華爾街收盤大幅下跌",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFNmNkd1bmdWZnlubzV3QzRrb0FhOHA4cUxudFBiNElPX2dMa3hHbXRPU1BndERKeWVWNzZiRVU5bEtBeDV3Z2RhWXhQRlhRM2RyRGZtSi1YTkc2amdqS3BlVFJhd0lsdzM5cmxfRmVBZUF2V0QxMkZNZjkzU3VaeWZ3OTNWMm8tR3d2T3NqNkZ4YlJVNG9odnh3Yw?oc=5"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Anthropic 首次亮相未能引發反彈，歐洲人工智慧相關股票下跌",
+          "url": "https://www.investing.com/news/stock-market-news/european-ailinked-shares-fall-as-anthropics-debut-fails-to-spark-rally-93CH-5040976"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "據稱DayOne因資料中心和市場擔憂而暫停美國IPO計劃",
       "summary": [
         "Bloomberg Markets：據稱DayOne因資料中心和市場擔憂而暫停美國IPO計劃",
@@ -369,7 +348,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
       "summary": [
         "Investing.com：報告指出 SK 海力士考慮將 Kioxia 債券轉換為股票",
@@ -390,7 +369,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "俄羅斯飛彈攻擊摧毀基輔橋樑",
       "summary": [
         "Financial Times：俄羅斯飛彈攻擊摧毀基輔橋樑",
@@ -411,7 +390,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "美國人工智慧公司如何使用中國開放權重模型",
       "summary": [
         "Bloomberg Markets：美國人工智慧公司如何使用中國開放權重模型",
@@ -432,7 +411,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
       "summary": [
         "Tom's Hardware：OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
@@ -449,6 +428,27 @@
           "source": "Wccftech",
           "title": "OpenAI 車型在 AMD 旗艦 GPU 設計上實現了高達 14% 的 PPA 增益，其中一些變更已傳送至製造",
           "url": "https://wccftech.com/openai-models-deliver-up-to-14-ppa-gains-on-amd-flagship-gpu-designs-with-some-changes-already-sent-to-manufacturing/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
+      "summary": [
+        "Bloomberg Markets：Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
+        "MarketWatch：Anthropic 股價逼近 IPO 價格，拖累人工智慧產業"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Anthropic 股價逼近 IPO 價格，拖累人工智慧產業",
+          "url": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories"
         }
       ]
     }
