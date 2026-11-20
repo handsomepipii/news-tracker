@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 21:57",
+  "updated_at": "2026-11-20 22:26",
   "taiwan": [
     {
       "rank": 1,
@@ -78,48 +78,27 @@
     },
     {
       "rank": 4,
-      "title": "臺中市農友何國芳、林凡閔  榮獲「全國模範農民」殊榮！",
+      "title": "基輔3座大橋遭俄襲擊釀3死15傷　開戰以來最大規模",
       "summary": [
-        "自由時報：臺中市農友何國芳、林凡閔  榮獲「全國模範農民」殊榮！",
-        "關鍵評論網：《國家定位大擂臺》：臺灣是不是主權獨立國家？（中華民國派）"
+        "經濟日報：基輔3座大橋遭俄襲擊釀3死15傷　開戰以來最大規模",
+        "公視新聞：俄飛彈襲基輔主要幹道橋梁 已知3死、15人傷"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "臺中市農友何國芳、林凡閔  榮獲「全國模範農民」殊榮！",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5647166"
+          "source": "經濟日報",
+          "title": "基輔3座大橋遭俄襲擊釀3死15傷　開戰以來最大規模",
+          "url": "https://money.udn.com/money/story/5599/9891599"
         },
         {
-          "source": "關鍵評論網",
-          "title": "《國家定位大擂臺》：臺灣是不是主權獨立國家？（中華民國派）",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xTExfdDZ6SF9xZm1naUtqWk9BVERQQlVNS04zYTBBeGtTOXAtQzdSdjdpdjVXSXhGUnVRMC1zR1EzdEwybnM4VkxmeHRlYkttX2pGNA?oc=5"
+          "source": "公視新聞",
+          "title": "俄飛彈襲基輔主要幹道橋梁 已知3死、15人傷",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iWEtpbnhSMC0zVDQ0dE9xMVYzZ29GbFpQZ25udktVdG9HSUVJSndPUno0dXFoQ3lWeHdPQlJaV1pFOWE1eDlNMndIS3FpckE?oc=5"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "Visa、萬事達卡與摩根大通使用者個資遭駭，n0n 勒索軟體組織宣稱犯案",
-      "summary": [
-        "科技新報：Visa、萬事達卡與摩根大通使用者個資遭駭，n0n 勒索軟體組織宣稱犯案",
-        "今周刊：Visa、萬事達卡、摩根大通會員個資遭外洩！勒索軟體組織鎖定「這群人」…姓名、信用卡號有外流？業者回應"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "Visa、萬事達卡與摩根大通使用者個資遭駭，n0n 勒索軟體組織宣稱犯案",
-          "url": "https://infosecu.technews.tw/2026/11/20/visa-mastercard-jpmorgan-user-data-hacked-n0n-ransomware-claims-responsibility/"
-        },
-        {
-          "source": "今周刊",
-          "title": "Visa、萬事達卡、摩根大通會員個資遭外洩！勒索軟體組織鎖定「這群人」…姓名、信用卡號有外流？業者回應",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQUZkdXh1VFBwbTFtSk1IUmdRWk9iclNNUFZtYzQxVkFNT1Radm1haU5nZUt3Wi1UNTdnWjQzR3lFNUNEX2JHUFRIM0RSbTJhYVVoQktJTVIyOFlVTUhXejJWSDVfbUdVS1JRZXlPaWwxcWJvU19Jek9FT3FyeGFrSg?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "科技系統故障引發批評　白宮國家網路總監遭撤換",
       "summary": [
         "經濟日報：科技系統故障引發批評　白宮國家網路總監遭撤換",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Intel 甫獲微軟封裝合作  傳 Google 重新回頭找臺積",
       "summary": [
         "科技新報：Intel 甫獲微軟封裝合作  傳 Google 重新回頭找臺積",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "張啟楷路邊「棒流」恐傷民眾黨選情？　柯文哲比喻：像股票波動",
       "summary": [
         "ETtoday：張啟楷路邊「棒流」恐傷民眾黨選情？　柯文哲比喻：像股票波動",
@@ -178,6 +157,27 @@
           "source": "自由時報",
           "title": "張啟楷「棒流」影響民眾黨選情？ 柯文哲：只有一刻",
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5647433"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "法國民議會副議長率團訪臺 林佳龍：盼深化臺法文化交流與科技合作",
+      "summary": [
+        "自由時報：法國民議會副議長率團訪臺 林佳龍：盼深化臺法文化交流與科技合作",
+        "關鍵評論網：《國家定位大擂臺》：臺灣是不是主權獨立國家？（中華民國派）"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "法國民議會副議長率團訪臺 林佳龍：盼深化臺法文化交流與科技合作",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5647387"
+        },
+        {
+          "source": "關鍵評論網",
+          "title": "《國家定位大擂臺》：臺灣是不是主權獨立國家？（中華民國派）",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xTExfdDZ6SF9xZm1naUtqWk9BVERQQlVNS04zYTBBeGtTOXAtQzdSdjdpdjVXSXhGUnVRMC1zR1EzdEwybnM4VkxmeHRlYkttX2pGNA?oc=5"
         }
       ]
     },
@@ -227,19 +227,14 @@
   "global": [
     {
       "rank": 1,
-      "title": "由於 Anthropic IPO 未能消除人工智慧困境，亞洲晶片股下跌",
+      "title": "Anthropic 的 IPO 未能阻止人工智慧股票拋售，亞洲股市下跌",
       "summary": [
-        "Bloomberg Tech：由於 Anthropic IPO 未能消除人工智慧困境，亞洲晶片股下跌",
         "WSJ Markets：Anthropic 的 IPO 未能阻止人工智慧股票拋售，亞洲股市下跌",
-        "Financial Times：由於 Anthropic IPO 未能重燃人工智慧交易，科技股下跌"
+        "Financial Times：由於 Anthropic IPO 未能重燃人工智慧交易，科技股下跌",
+        "The Guardian：由於 Anthropic IPO 未能阻止人工智慧拋售，全球股市暴跌"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "由於 Anthropic IPO 未能消除人工智慧困境，亞洲晶片股下跌",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes"
-        },
         {
           "source": "WSJ Markets",
           "title": "Anthropic 的 IPO 未能阻止人工智慧股票拋售，亞洲股市下跌",
