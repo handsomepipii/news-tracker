@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 14:27",
+  "updated_at": "2026-11-20 14:56",
   "taiwan": [
     {
       "rank": 1,
@@ -35,33 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "中國供應鏈疑慮衝擊超微　股價重挫8%",
-      "summary": [
-        "自由時報：中國供應鏈疑慮衝擊超微　股價重挫8%",
-        "經濟日報：中國供應鏈疑慮衝擊超微　股價重挫8%",
-        "ETtoday：黃仁勳外遇掃到AMD！　中國供應鏈收緊衝擊股價挫近8%"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "中國供應鏈疑慮衝擊超微　股價重挫8%",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5647044"
-        },
-        {
-          "source": "經濟日報",
-          "title": "中國供應鏈疑慮衝擊超微　股價重挫8%",
-          "url": "https://money.udn.com/money/story/123398/9890339"
-        },
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳外遇掃到AMD！　中國供應鏈收緊衝擊股價挫近8%",
-          "url": "https://finance.ettoday.net/news/3275264"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "美媒：臺積電暫停中國16奈米以下訂單　替代輝達晶片研發受阻",
       "summary": [
         "經濟日報：美媒：臺積電暫停中國16奈米以下訂單　替代輝達晶片研發受阻",
@@ -84,6 +57,33 @@
           "source": "科技新報",
           "title": "傳暫停中國 16 奈米以下訂單，臺積電：遵循適用法令",
           "url": "https://technews.tw/2026/11/20/reportedly-china-sub-16nm-orders-suspended-tsmc-complying-applicable-laws/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "中國供應鏈疑慮衝擊超微　股價重挫8%",
+      "summary": [
+        "自由時報：中國供應鏈疑慮衝擊超微　股價重挫8%",
+        "經濟日報：中國供應鏈疑慮衝擊超微　股價重挫8%",
+        "ETtoday：黃仁勳外遇掃到AMD！　中國供應鏈收緊衝擊股價挫近8%"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "中國供應鏈疑慮衝擊超微　股價重挫8%",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5647044"
+        },
+        {
+          "source": "經濟日報",
+          "title": "中國供應鏈疑慮衝擊超微　股價重挫8%",
+          "url": "https://money.udn.com/money/story/123398/9890339"
+        },
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳外遇掃到AMD！　中國供應鏈收緊衝擊股價挫近8%",
+          "url": "https://finance.ettoday.net/news/3275264"
         }
       ]
     },
@@ -131,6 +131,27 @@
     },
     {
       "rank": 6,
+      "title": "全球第四國達成里程碑！南韓晶片外銷火紅 出口突破1兆美元",
+      "summary": [
+        "經濟日報：全球第四國達成里程碑！南韓晶片外銷火紅 出口突破1兆美元",
+        "科技新報：韓今年出口額衝破 1 兆美元  躋身全球第四國"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "全球第四國達成里程碑！南韓晶片外銷火紅 出口突破1兆美元",
+          "url": "https://money.udn.com/money/story/5599/9890109"
+        },
+        {
+          "source": "科技新報",
+          "title": "韓今年出口額衝破 1 兆美元  躋身全球第四國",
+          "url": "https://finance.technews.tw/2026/11/20/south-korea-exports-surpass-1-trillion-for-the-year/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "美中俄峰會同日基輔遇襲　荷蘭、奧地利使館受損",
       "summary": [
         "自由時報：美中俄峰會同日基輔遇襲　荷蘭、奧地利使館受損",
@@ -151,7 +172,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "油輪運輸受阻抵銷供應過剩疑慮　國際油價持平",
       "summary": [
         "自由時報：油輪運輸受阻抵銷供應過剩疑慮　國際油價持平",
@@ -172,7 +193,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "美特使會歐洲盟友　稱俄不排斥烏克蘭獲得類北約安全保障",
       "summary": [
         "自由時報：美特使會歐洲盟友　稱俄不排斥烏克蘭獲得類北約安全保障",
@@ -193,7 +214,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
       "summary": [
         "自由時報：入冬首波冷氣團來襲！氣象粉專：估籠罩到週日清晨、日夜溫差非常大",
@@ -210,27 +231,6 @@
           "source": "ETtoday",
           "title": "北臺整天寒冷！氣象粉專：今天是冷空氣影響「最明顯一天」",
           "url": "https://www.ettoday.net/news/20261120/3275335.htm"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "美股收挫　Anthropic漲逾17%未能帶動大盤",
-      "summary": [
-        "自由時報：美股收挫　Anthropic漲逾17%未能帶動大盤",
-        "經濟日報：美股收挫　Anthropic漲逾17%未能帶動大盤"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美股收挫　Anthropic漲逾17%未能帶動大盤",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5647049"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美股收挫　Anthropic漲逾17%未能帶動大盤",
-          "url": "https://money.udn.com/money/story/123398/9890375"
         }
       ]
     }
@@ -355,27 +355,6 @@
     },
     {
       "rank": 6,
-      "title": "Anthropic以破紀錄的IPO首次亮相",
-      "summary": [
-        "Bloomberg Tech：Anthropic以破紀錄的IPO首次亮相",
-        "Bloomberg Markets：Anthropic 破紀錄的 IPO"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic以破紀錄的IPO首次亮相",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-makes-trading-debut-with-record-breaking-ipo-video"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic 破紀錄的 IPO",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-markets-11-19-2026-video"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Anthropic 股價飆升至 IPO 價格以上，然後下跌",
       "summary": [
         "Bloomberg Tech：Anthropic 股價飆升至 IPO 價格以上，然後下跌",
@@ -396,7 +375,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Uber 在美國三個城市測試 10 至 12 歲兒童的乘車服務",
       "summary": [
         "Bloomberg Tech：Uber 在美國三個城市測試 10 至 12 歲兒童的乘車服務",
@@ -413,6 +392,27 @@
           "source": "TechCrunch",
           "title": "Uber 測試為 10 歲以下兒童提供乘車服務，並為司機提供額外報酬",
           "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Anthropic 破紀錄的 IPO",
+      "summary": [
+        "Bloomberg Markets：Anthropic 破紀錄的 IPO",
+        "Bloomberg Tech：Anthropic 1073 億美元 IPO 紀錄"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic 破紀錄的 IPO",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-markets-11-19-2026-video"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic 1073 億美元 IPO 紀錄",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-sets-record-with-107-3-billion-ipo-video"
         }
       ]
     },
