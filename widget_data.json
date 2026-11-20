@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-21 03:28",
+  "updated_at": "2026-11-21 04:00",
   "taiwan": [
     {
       "rank": 1,
-      "title": "韓國AI作弊爭議 李在明：改革考試制度嚴懲違規",
-      "summary": [
-        "經濟日報：韓國AI作弊爭議 李在明：改革考試制度嚴懲違規",
-        "科技新報：韓國 AI 作弊爭議，李在明：改革考試制度嚴懲違規",
-        "轉角國際：舞弊狀元郎：從國考到修能大考，韓國考生用 AI 作弊該怎麼防？"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "韓國AI作弊爭議 李在明：改革考試制度嚴懲違規",
-          "url": "https://money.udn.com/money/story/5599/9891473"
-        },
-        {
-          "source": "科技新報",
-          "title": "韓國 AI 作弊爭議，李在明：改革考試制度嚴懲違規",
-          "url": "https://technews.tw/2026/11/20/south-korea-ai-cheating-controversy-lee-jae-myung-urges-exam-system-reform-severe-punishment-violations/"
-        },
-        {
-          "source": "轉角國際",
-          "title": "舞弊狀元郎：從國考到修能大考，韓國考生用 AI 作弊該怎麼防？",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJNUtDWVpDcVIyeFRFcG1rX1RLek0yd0FRc1RyUzh3ZVlySWhsMkw2YndTcllNUktNaENCN2FiZm00b29zUHJvZkxQczRhRk1fY1loalJXTXAybC1pN3lIZjgzT3ltVWNzR2NV0gFrQVVfeXFMUEk1S0NZWkNxUjJ4VEVwbWtfVEt6TTJ3QVFzVHJTOHdlWXJJaGwyTDZid1NyWU1SS01oQ0I3YWJmbTRvb3NQcm9mTFBzNGFGTV9jWWhqUldNcDJsLWk3eUhmODNPeW1VY3NHY1U?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "天氣/整天最冷是今天 明起白天回溫 週六晨探10度｜氣象主播 彭惠筠｜午間氣象｜TVBS新聞20261120 @TVBSNEWS01",
       "summary": [
         "TVBS新聞：天氣/整天最冷是今天 明起白天回溫 週六晨探10度｜氣象主播 彭惠筠｜午間氣象｜TVBS新聞20261120 @TVBSNEWS01",
@@ -50,7 +23,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "基輔3座大橋遭俄襲擊釀3死15傷　開戰以來最大規模",
       "summary": [
         "經濟日報：基輔3座大橋遭俄襲擊釀3死15傷　開戰以來最大規模",
@@ -67,6 +40,27 @@
           "source": "公視新聞",
           "title": "俄飛彈襲基輔主要幹道橋梁 已知3死、15人傷",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iWEtpbnhSMC0zVDQ0dE9xMVYzZ29GbFpQZ25udktVdG9HSUVJSndPUno0dXFoQ3lWeHdPQlJaV1pFOWE1eDlNMndIS3FpckE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "韓國 AI 作弊爭議，李在明：改革考試制度嚴懲違規",
+      "summary": [
+        "科技新報：韓國 AI 作弊爭議，李在明：改革考試制度嚴懲違規",
+        "轉角國際：舞弊狀元郎：從國考到修能大考，韓國考生用 AI 作弊該怎麼防？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "韓國 AI 作弊爭議，李在明：改革考試制度嚴懲違規",
+          "url": "https://technews.tw/2026/11/20/south-korea-ai-cheating-controversy-lee-jae-myung-urges-exam-system-reform-severe-punishment-violations/"
+        },
+        {
+          "source": "轉角國際",
+          "title": "舞弊狀元郎：從國考到修能大考，韓國考生用 AI 作弊該怎麼防？",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJNUtDWVpDcVIyeFRFcG1rX1RLek0yd0FRc1RyUzh3ZVlySWhsMkw2YndTcllNUktNaENCN2FiZm00b29zUHJvZkxQczRhRk1fY1loalJXTXAybC1pN3lIZjgzT3ltVWNzR2NV0gFrQVVfeXFMUEk1S0NZWkNxUjJ4VEVwbWtfVEt6TTJ3QVFzVHJTOHdlWXJJaGwyTDZid1NyWU1SS01oQ0I3YWJmbTRvb3NQcm9mTFBzNGFGTV9jWWhqUldNcDJsLWk3eUhmODNPeW1VY3NHY1U?oc=5"
         }
       ]
     },
@@ -93,48 +87,6 @@
     },
     {
       "rank": 5,
-      "title": "美商務部核准逾 87.9 萬顆 AI 晶片銷中 議員質疑「出口管制失靈」",
-      "summary": [
-        "INSIDE硬塞：美商務部核准逾 87.9 萬顆 AI 晶片銷中 議員質疑「出口管制失靈」",
-        "經濟日報：美核准近88萬顆 AI 晶片銷陸 買家涉軍名單引國會追查"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "INSIDE硬塞",
-          "title": "美商務部核准逾 87.9 萬顆 AI 晶片銷中 議員質疑「出口管制失靈」",
-          "url": "https://www.inside.com.tw/article/42970-us-commerce-ai-chip-export-licenses-china-nvidia-h200-879000"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美核准近88萬顆 AI 晶片銷陸 買家涉軍名單引國會追查",
-          "url": "https://money.udn.com/money/story/5599/9892334"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Anthropic上市難救行情　日股暴跌逾3000點",
-      "summary": [
-        "經濟日報：Anthropic上市難救行情　日股暴跌逾3000點",
-        "科技新報：Anthropic 上市難救行情，日股暴跌逾 3,000 點"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "Anthropic上市難救行情　日股暴跌逾3000點",
-          "url": "https://money.udn.com/money/story/5599/9891526"
-        },
-        {
-          "source": "科技新報",
-          "title": "Anthropic 上市難救行情，日股暴跌逾 3,000 點",
-          "url": "https://finance.technews.tw/2026/11/20/nikkei-plunges-more-than-3000-points/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "民眾黨21日活動 黃國昌：蔣萬安、柯文哲同框加油",
       "summary": [
         "自由時報：民眾黨21日活動 黃國昌：蔣萬安、柯文哲同框加油",
@@ -155,7 +107,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "「都已負重，不該忍辱」 沈伯洋寫信致北市府8萬公務員 拋四大承諾",
       "summary": [
         "自由時報：「都已負重，不該忍辱」 沈伯洋寫信致北市府8萬公務員 拋四大承諾",
@@ -176,7 +128,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "共和黨2028總統提名戰民調　盧比歐超車範斯情勢大逆轉",
       "summary": [
         "經濟日報：共和黨2028總統提名戰民調　盧比歐超車範斯情勢大逆轉",
@@ -197,7 +149,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "老農津貼修法3大問題　行政院「不副署」：另以合妥方式保障老農權益",
       "summary": [
         "ETtoday：老農津貼修法3大問題　行政院「不副署」：另以合妥方式保障老農權益",
@@ -216,33 +168,80 @@
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0ydmRjZ25KQUJ2RE1tZzJqa3JuTUdmdzdIb3dwdmJQX2Z3cVdsTGl4cTJQdlFPMC1rbGRhTkd1bHRQdVIzNTA5QVNic1k3UQ?oc=5"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "徐欣瑩競辦人員被檢警帶走！將赴竹縣警局抗議司法介選",
+      "summary": [
+        "自由時報：徐欣瑩競辦人員被檢警帶走！將赴竹縣警局抗議司法介選",
+        "ETtoday：快訊／徐欣瑩競辦出事！同仁遭帶走　奔竹縣刑警大隊抗議司法介選"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "徐欣瑩競辦人員被檢警帶走！將赴竹縣警局抗議司法介選",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648018"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／徐欣瑩競辦出事！同仁遭帶走　奔竹縣刑警大隊抗議司法介選",
+          "url": "https://www.ettoday.net/news/20261120/3275761.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "才表態挺沈伯洋就被嗆不紅！八點檔女星不甩酸民 再發文轟「舊思維必須更新」",
+      "summary": [
+        "自由時報：才表態挺沈伯洋就被嗆不紅！八點檔女星不甩酸民 再發文轟「舊思維必須更新」",
+        "ETtoday：八點檔女星再發聲「舊思維必須更新」　才表態挺沈伯洋挨酸不紅"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "才表態挺沈伯洋就被嗆不紅！八點檔女星不甩酸民 再發文轟「舊思維必須更新」",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5648010"
+        },
+        {
+          "source": "ETtoday",
+          "title": "八點檔女星再發聲「舊思維必須更新」　才表態挺沈伯洋挨酸不紅",
+          "url": "https://star.ettoday.net/news/3275781"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "由於 Anthropic IPO 未能重燃人工智慧交易，科技股下跌",
+      "title": "由於 Anthropic IPO 未能阻止人工智慧拋售，全球股市暴跌",
       "summary": [
-        "Financial Times：由於 Anthropic IPO 未能重燃人工智慧交易，科技股下跌",
         "The Guardian：由於 Anthropic IPO 未能阻止人工智慧拋售，全球股市暴跌",
+        "Yahoo Finance：IPO 火熱後，Anthropic 股價暴跌",
         "Bloomberg Markets：隨著人工智慧貿易的解體，Anthropic 股價暴跌幾乎抹去了 IPO 的熱潮"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
-        {
-          "source": "Financial Times",
-          "title": "由於 Anthropic IPO 未能重燃人工智慧交易，科技股下跌",
-          "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1"
-        },
         {
           "source": "The Guardian",
           "title": "由於 Anthropic IPO 未能阻止人工智慧拋售，全球股市暴跌",
           "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
         },
         {
+          "source": "Yahoo Finance",
+          "title": "IPO 火熱後，Anthropic 股價暴跌",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1JHbkFlQm5mcHJFMmFVZzhqRnpfMkxwTUtwS0F0OTZicDN0VDNfdnoxVlBLcTViVXNDa2o1ZW4yVkpsd1daOFlQMXdZdjVWYzlkWnFVRHRhanJFRUlXNXBLd0E1Y1NlRlhieWR6V2hzSkkzTkZueE1HT24tOC1ZbHpUZHEzdnVfc3NPdFl3ZWtjMVpLVDdhd2F6VzRCTUJCTEdXMWFGNEJWS0k?oc=5"
+        },
+        {
           "source": "Bloomberg Markets",
           "title": "隨著人工智慧貿易的解體，Anthropic 股價暴跌幾乎抹去了 IPO 的熱潮",
           "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic股價暴跌幾乎消除了IPO熱潮",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-video"
         }
       ]
     },
@@ -275,22 +274,22 @@
     },
     {
       "rank": 3,
-      "title": "俄羅斯飛彈攻擊摧毀基輔橋樑",
+      "title": "隨著人工智慧拋售的加深，人類經濟衰退",
       "summary": [
-        "Financial Times：俄羅斯飛彈攻擊摧毀基輔橋樑",
-        "BBC World：基輔三座橋樑在俄羅斯重大飛彈襲擊中被擊中"
+        "Bloomberg Tech：隨著人工智慧拋售的加深，人類經濟衰退",
+        "Bloomberg Markets：人工智慧貿易揭秘； Anthropic 首次亮相後大幅下跌"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "俄羅斯飛彈攻擊摧毀基輔橋樑",
-          "url": "https://www.ft.com/content/d76c0ce7-ba3b-42b3-8efa-7724cc0900d7?syn-25a6b1a6=1"
+          "source": "Bloomberg Tech",
+          "title": "隨著人工智慧拋售的加深，人類經濟衰退",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/the-pulse-with-francine-lacqua-11-20-2026-video"
         },
         {
-          "source": "BBC World",
-          "title": "基輔三座橋樑在俄羅斯重大飛彈襲擊中被擊中",
-          "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
+          "source": "Bloomberg Markets",
+          "title": "人工智慧貿易揭秘； Anthropic 首次亮相後大幅下跌",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-brief-11-20-2026-video"
         }
       ]
     },
@@ -317,27 +316,6 @@
     },
     {
       "rank": 5,
-      "title": "IPO火熱後，Anthropic股價暴跌",
-      "summary": [
-        "Yahoo Finance：IPO火熱後，Anthropic股價暴跌",
-        "Bloomberg Tech：人為股價暴跌幾乎消除了IPO熱潮"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "IPO火熱後，Anthropic股價暴跌",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1JHbkFlQm5mcHJFMmFVZzhqRnpfMkxwTUtwS0F0OTZicDN0VDNfdnoxVlBLcTViVXNDa2o1ZW4yVkpsd1daOFlQMXdZdjVWYzlkWnFVRHRhanJFRUlXNXBLd0E1Y1NlRlhieWR6V2hzSkkzTkZueE1HT24tOC1ZbHpUZHEzdnVfc3NPdFl3ZWtjMVpLVDdhd2F6VzRCTUJCTEdXMWFGNEJWS0k?oc=5"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "人為股價暴跌幾乎消除了IPO熱潮",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-video"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
       "summary": [
         "Tom's Hardware：OpenAI 幫助 AMD 將其即將推出的旗艦 GPU 設計提高了 14% PPA - GPT 模型還幫助 Lisa Su 的團隊提升了其新 CPU",
@@ -358,7 +336,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
       "summary": [
         "Investing.com：關注 Anthropic 的大型製藥公司表示，人工智慧正在縮短藥物發現時間",
@@ -375,6 +353,27 @@
           "source": "Bloomberg Tech",
           "title": "諾華執行長：人工智慧可以將藥物開發時間縮短數年",
           "url": "https://www.bloomberg.com/news/videos/2026-11-20/novartis-ai-could-cut-drug-development-time-by-years-video"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "隨著人工智慧巨頭遭遇科技股拋售，Anthrotic 股價暴跌",
+      "summary": [
+        "Financial Times：隨著人工智慧巨頭遭遇科技股拋售，Anthrotic 股價暴跌",
+        "Bloomberg Tech：隨著科技股拋售，Anthropic 首次亮相後股價下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "隨著人工智慧巨頭遭遇科技股拋售，Anthrotic 股價暴跌",
+          "url": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "隨著科技股拋售，Anthropic 首次亮相後股價下跌",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-falls-after-blockbuster-debut-as-tech-sell-off-video"
         }
       ]
     },
