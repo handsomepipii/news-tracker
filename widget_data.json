@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 19:25",
+  "updated_at": "2026-11-21 19:56",
   "taiwan": [
     {
       "rank": 1,
@@ -254,27 +254,6 @@
     },
     {
       "rank": 2,
-      "title": "根據《華爾街日報》報道，Wonder 探索出售送貨服務 Grubhub",
-      "summary": [
-        "Bloomberg Tech：根據《華爾街日報》報道，Wonder 探索出售送貨服務 Grubhub",
-        "Investing.com：根據《華爾街日報》報道，Wonder 正在探索出售 Grubhub"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "根據《華爾街日報》報道，Wonder 探索出售送貨服務 Grubhub",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-20/wonder-explores-sale-of-delivery-service-grubhub-wsj-reports"
-        },
-        {
-          "source": "Investing.com",
-          "title": "根據《華爾街日報》報道，Wonder 正在探索出售 Grubhub",
-          "url": "https://www.investing.com/news/stock-market-news/wonder-explores-sale-of-grubhub-wall-street-journal-reports-5042912"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "秘魯M6.7地震；國家海洋暨大氣總署沒有海嘯威脅",
       "summary": [
         "NHK新聞：秘魯M6.7地震；國家海洋暨大氣總署沒有海嘯威脅",
@@ -295,7 +274,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Hostinger 優惠碼：2026年11月 85%折扣",
       "summary": [
         "Wired：Hostinger 優惠碼：2026年11月 85%折扣"
@@ -310,92 +289,107 @@
       ]
     },
     {
+      "rank": 4,
+      "title": "Mamdani 宣佈計劃於 2032 年關閉紐約賴克斯島監獄",
+      "summary": [
+        "BBC World：Mamdani 宣佈計劃於 2032 年關閉紐約賴克斯島監獄"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "Mamdani 宣佈計劃於 2032 年關閉紐約賴克斯島監獄",
+          "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
       "rank": 5,
-      "title": "深圳三方會晤：特朗普掉入溫柔鄉，表面上的親近難掩在關鍵問題上沒有共識",
+      "title": "「醒醒吧」：眾議員瑪麗亞‧薩拉查告訴共和黨如何解決移民問題",
       "summary": [
-        "法廣RFI：深圳三方會晤：特朗普掉入溫柔鄉，表面上的親近難掩在關鍵問題上沒有共識"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "深圳三方會晤：特朗普掉入溫柔鄉，表面上的親近難掩在關鍵問題上沒有共識",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E6%B3%95%E5%9C%8B%E4%B8%96%E7%95%8C%E5%A0%B1/20261120-%E6%B7%B1%E5%9C%B3%E4%B8%89%E6%96%B9%E6%9C%83%E6%99%A4-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%89%E5%85%A5%E6%BA%AB%E6%9F%94%E9%84%89%EF%BC%8C%E8%A1%A8%E9%9D%A2%E4%B8%8A%E7%9A%84%E8%A6%AA%E8%BF%91%E9%9B%A3%E6%8E%A9%E5%9C%A8%E9%97%9C%E9%8D%B5%E5%95%8F%E9%A1%8C%E4%B8%8A%E6%B2%92%E6%9C%89%E5%85%B1%E8%AD%98"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "巴西總統盧拉探訪94歲的原住民領袖拉奧尼，宣佈將把其祖居地確立為原住民保護區",
-      "summary": [
-        "法廣RFI：巴西總統盧拉探訪94歲的原住民領袖拉奧尼，宣佈將把其祖居地確立為原住民保護區"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "巴西總統盧拉探訪94歲的原住民領袖拉奧尼，宣佈將把其祖居地確立為原住民保護區",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261120-%E5%B7%B4%E8%A5%BF%E7%B8%BD%E7%B5%B1%E7%9B%A7%E6%8B%89%E6%8E%A2%E8%A8%AA94%E6%AD%B2%E7%9A%84%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%A0%98%E8%A2%96%E6%8B%89%E5%A5%A7%E5%B0%BC%EF%BC%8C%E5%AE%A3%E5%B8%83%E5%B0%87%E6%8A%8A%E5%85%B6%E7%A5%96%E5%B1%85%E5%9C%B0%E7%A2%BA%E7%AB%8B%E7%82%BA%E5%8E%9F%E4%BD%8F%E6%B0%91%E4%BF%9D%E8%AD%B7%E5%8D%80"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "專欄 |這項活動只需一分鐘即可將血糖峰值降低 40%",
-      "summary": [
-        "Washington Post：專欄 |這項活動只需一分鐘即可將血糖峰值降低 40%"
+        "Washington Post：「醒醒吧」：眾議員瑪麗亞‧薩拉查告訴共和黨如何解決移民問題"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Washington Post",
-          "title": "專欄 |這項活動只需一分鐘即可將血糖峰值降低 40%",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlNBSFVmOHYwUjNGaUJUc1R5Ul9YUFZ4bTQtWXZZM2JScU9HbndhZmQ3QTIyU1BCT3BsOXEzOWtkWW9lZi1vQWxoZ1JxRHVab0hGdkJzRGdoeVhYVUlQZ000ekt2M3FycEJnelV0amZOUFNPSDNDdC1jUmMxVDlpWVlHV0N4UFRnSjdEY1djYUhncE16M3BOMm80TlFfdmVJU0JEVlBMeTJucm9FV1ZSQk9KY0NUa2FfMXRCalFxVQ?oc=5"
+          "title": "「醒醒吧」：眾議員瑪麗亞‧薩拉查告訴共和黨如何解決移民問題",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVndkcWNwNlQyTXNabHpOV1llemJHZl9Qck51eUVYaGRhTUFaUVpaU1B3TXIycXdBRF9YYk5lOHpWR0JSMkJDVkQ0b2p2dU9XcndVVTVuOXlhVEJwaTN4SlJ5ZFdIU2J4V2w0Tjh5eHEzT3JQNmpxOHZMd0RkaGh1N3BWOS1CeUdsZ3VWOGJ2RTZEenlMQXRrdnlFQjhXMWhvaFJ1UDJlSnBwbThYX0JuNmpYRG8?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "馬姆達尼提議延長關閉臭名昭著的賴克斯島監獄五年",
+      "summary": [
+        "Washington Post：馬姆達尼提議延長關閉臭名昭著的賴克斯島監獄五年"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "馬姆達尼提議延長關閉臭名昭著的賴克斯島監獄五年",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnktZFl1UHNEekZPOWtxcXlvZ2Z1MTZaVXJXM2VYUVg1NmJkT2pnZmVoYXdvSnp4UFAyZS1RSEE3N2VWX3BfcWVIZ0dJWjF2N3I0NU1YUUJ3R2NnUUR3bkd3Uy1fU2FqMFpQcTQtdkFycTlaVEZEa2JFNVNPak1vdDlqNThZeU84U253RWN0NTJLRkhKb0Vqei1reWZqQVRrTUFTLW1DLVpNZkZ1a3dVellFWHhlTldyTEpKUmt6TGJxaFU?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "蘋果秘密人工智慧特工約翰特努斯 (John Ternus) 不再袖手旁觀人工智慧競賽",
+      "summary": [
+        "Yahoo Finance：蘋果秘密人工智慧特工約翰特努斯 (John Ternus) 不再袖手旁觀人工智慧競賽"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "蘋果秘密人工智慧特工約翰特努斯 (John Ternus) 不再袖手旁觀人工智慧競賽",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSTF6ZkNDaUY2bEFzcFhUYTVGVUE3N2NHR0ptWk9GUm8zWk8yZ29qZlV1eUNiWFJwLXNfd2o1YktkazROZlhvbk81UWNLeHNZSVRhcU0wSnVUa3d1b1lYNUkxNl9mclVJOFBJRW9IckpFbU9NeEk0M0NRcGRPLThISm1XZVdHNWlWVm5RSFdLVzhFTEYtUVpDWlVyNzd0N29pVkE1SGkwa0xZVFdVR0RDb19vTXRJbk9WODZoNkxFRXZMcVRMTUZUSw?oc=5"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "強生休閒食品執行長談第四季業績與消費者信心",
+      "title": "俄羅斯扣押令 90 萬零售股東震驚，日本菸草股價下跌 10%",
       "summary": [
-        "Bloomberg Markets：強生休閒食品執行長談第四季業績與消費者信心"
+        "Nikkei Asia：俄羅斯扣押令 90 萬零售股東震驚，日本菸草股價下跌 10%"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "強生休閒食品執行長談第四季業績與消費者信心",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-20/j-j-snack-foods-ceo-on-4q-results-and-consumer-sentiment-video"
+          "source": "Nikkei Asia",
+          "title": "俄羅斯扣押令 90 萬零售股東震驚，日本菸草股價下跌 10%",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON0tGa0pSamR1dURFYnlkeWJNbnZ1TUNiaG9UUjQ1TkV6XzVSdV9XdWhjVlNiNmxoMzE5OTFha3hQQ0RyTkVpWmtNdFNsX3hsQjU3MFpqY2FWWE1zOXp2dTJVdmZHa0RFcXNBTGJKNlNhSk5LeVZFM0ZqSS1QVXlPSnI5SGtDNnc4WUxlWjlYNmJ2c0Y0NnA2UTZ5X1pQZGkxWlFWYVkwaUVlQVpfOEtQMGJ4Q3lqTTZIV1lHT3h1ck5SbG8?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "救援部署後薩爾瓦多軍隊在海地爆炸中喪生",
+      "title": "印度弱季風和厄爾尼諾現象凸顯工業用水成長問題",
       "summary": [
-        "Bloomberg Markets：救援部署後薩爾瓦多軍隊在海地爆炸中喪生"
+        "Nikkei Asia：印度弱季風和厄爾尼諾現象凸顯工業用水成長問題"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "救援部署後薩爾瓦多軍隊在海地爆炸中喪生",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-20/el-salvador-troops-killed-in-haiti-blast-after-rescue-deployment"
+          "source": "Nikkei Asia",
+          "title": "印度弱季風和厄爾尼諾現象凸顯工業用水成長問題",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObktvSHVFWjZvamszOHJtNmRMbjJFQUFRb1V1YlE4NGtwdC1XRTlTQkt3SVZjMXlpWUR1UWxrRUZXenE4NEF3Q3pjTm1nV203Zmp5VzF1d0ZvTmxod3F5bjM2TDJZb3l4WG5Ebnl4MUVjY0R0ekI0R2VvQXZwdnQ0dG9FQ1M2Q3AwLTZodEFmZmFzLXQwWkxLMTFvSExqMUNPX052cmRTaENMRFlfZHIzS1FodTBtTTQ?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "Tony Wang談CrowdStrike-Zscaler交易、AI Trade",
+      "title": "馬來西亞表示將在土耳其安置1萬名羅興亞難民",
       "summary": [
-        "Bloomberg Tech：Tony Wang談CrowdStrike-Zscaler交易、AI Trade"
+        "Nikkei Asia：馬來西亞表示將在土耳其安置1萬名羅興亞難民"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "Tony Wang談CrowdStrike-Zscaler交易、AI Trade",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-20/tony-wang-on-crowdstrike-zscaler-deal-ai-trade-video"
+          "source": "Nikkei Asia",
+          "title": "馬來西亞表示將在土耳其安置1萬名羅興亞難民",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNekhPOXJiZVBQaDlpcGcyQWFUOHVobkRJMFJ4OHF5d1ZVVEgwaHRLRHdpbUIyZU1lcDNCWkdJTEhzVy1xcVJSckFHanRvbmFCbFJ1M3AzRl9RY3Fab08xOGNZdkZ3MkttWnlkXzFhbVoxckVLM0swNmFEcG9WeGxVMTZCRkNXY2gyV3pIc0o3YTFmamczb3RzVk9IY0hQQ0hzdTczZ01KWE9vaGUxTTNiNFlyTFRZOUNobW9Ob21fYw?oc=5"
         }
       ]
     }
