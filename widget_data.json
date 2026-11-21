@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 07:57",
+  "updated_at": "2026-11-21 08:27",
   "taiwan": [
     {
       "rank": 1,
@@ -57,48 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "徐欣瑩競辦人員被檢警帶走！將赴竹縣警局抗議司法介選",
-      "summary": [
-        "自由時報：徐欣瑩競辦人員被檢警帶走！將赴竹縣警局抗議司法介選",
-        "ETtoday：快訊／徐欣瑩競辦出事！同仁遭帶走　奔竹縣刑警大隊抗議司法介選"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "徐欣瑩競辦人員被檢警帶走！將赴竹縣警局抗議司法介選",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648018"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／徐欣瑩競辦出事！同仁遭帶走　奔竹縣刑警大隊抗議司法介選",
-          "url": "https://www.ettoday.net/news/20261120/3275761.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "才表態挺沈伯洋就被嗆不紅！八點檔女星不甩酸民 再發文轟「舊思維必須更新」",
-      "summary": [
-        "自由時報：才表態挺沈伯洋就被嗆不紅！八點檔女星不甩酸民 再發文轟「舊思維必須更新」",
-        "ETtoday：八點檔女星再發聲「舊思維必須更新」　才表態挺沈伯洋挨酸不紅"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "才表態挺沈伯洋就被嗆不紅！八點檔女星不甩酸民 再發文轟「舊思維必須更新」",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5648010"
-        },
-        {
-          "source": "ETtoday",
-          "title": "八點檔女星再發聲「舊思維必須更新」　才表態挺沈伯洋挨酸不紅",
-          "url": "https://star.ettoday.net/news/3275781"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "紐時記者：輝達晶片流入共軍實驗室　協助攻臺研究",
       "summary": [
         "經濟日報：紐時記者：輝達晶片流入共軍實驗室　協助攻臺研究",
@@ -119,7 +77,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "馬斯克出手了！SpaceX旗下公司擬棄用中國AI模型  背後原因曝光",
       "summary": [
         "自由時報：馬斯克出手了！SpaceX旗下公司擬棄用中國AI模型  背後原因曝光",
@@ -140,7 +98,28 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "title": "快訊／大樂透1億元頭獎「兩注均分」！獎落2縣市",
+      "summary": [
+        "ETtoday：快訊／大樂透1億元頭獎「兩注均分」！獎落2縣市",
+        "自由時報：【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／大樂透1億元頭獎「兩注均分」！獎落2縣市",
+          "url": "https://finance.ettoday.net/news/3275780"
+        },
+        {
+          "source": "自由時報",
+          "title": "【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳",
+          "url": "https://estate.ltn.com.tw/article/29414"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "川普習近平會談　美財長：未提及黃仁勳",
       "summary": [
         "自由時報：川普習近平會談　美財長：未提及黃仁勳",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Anthropic上市難消疑慮　歐股受挫",
       "summary": [
         "自由時報：Anthropic上市難消疑慮　歐股受挫",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
       "summary": [
         "自由時報：美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "川普：美國只想賣中國較舊款晶片　正洽談全面協議",
       "summary": [
         "自由時報：川普：美國只想賣中國較舊款晶片　正洽談全面協議",
@@ -220,6 +199,27 @@
           "source": "經濟日報",
           "title": "川普：美國只想賣中國較舊款晶片　正洽談全面協議",
           "url": "https://money.udn.com/money/story/5599/9892563"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普：普丁盼透過外交途徑　結束俄烏戰爭",
+      "summary": [
+        "自由時報：川普：普丁盼透過外交途徑　結束俄烏戰爭",
+        "經濟日報：川普：普丁盼透過外交途徑　結束俄烏戰爭"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川普：普丁盼透過外交途徑　結束俄烏戰爭",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5648241"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普：普丁盼透過外交途徑　結束俄烏戰爭",
+          "url": "https://money.udn.com/money/story/5599/9892559"
         }
       ]
     }
@@ -347,7 +347,7 @@
       "title": "CrowdStrike 正在洽談收購網路安全公司 Zscaler",
       "summary": [
         "Bloomberg Markets：CrowdStrike 正在洽談收購網路安全公司 Zscaler",
-        "Investing.com：訊息人士稱，CrowdStrike 正在洽談收購 Zscaler"
+        "Investing.com：訊息稱，CrowdStrike 正在洽談收購 Zscaler"
       ],
       "media_count": 2,
       "links": [
@@ -358,7 +358,7 @@
         },
         {
           "source": "Investing.com",
-          "title": "訊息人士稱，CrowdStrike 正在洽談收購 Zscaler",
+          "title": "訊息稱，CrowdStrike 正在洽談收購 Zscaler",
           "url": "https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720"
         }
       ]
