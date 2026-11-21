@@ -1,30 +1,35 @@
 {
-  "updated_at": "2026-11-21 20:56",
+  "updated_at": "2026-11-21 21:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "今年最終懸日下週桃園登場　今起連3天先現身臺中大甲",
+      "title": "滿滿臺灣味！BTS柾國操刀高雄宣傳神片 細節曝光逼哭粉絲",
       "summary": [
-        "ETtoday：今年最終懸日下週桃園登場　今起連3天先現身臺中大甲",
-        "自由時報：南部太陽露臉 臺灣第一水庫「玩埤派對」熱力登場",
-        "公視新聞：蔣萬安發「光榮臺北」明信片沈伯洋赴臺中合體何欣純造勢｜20261121 公視早安新聞｜ 公視新聞PNN"
+        "自由時報：滿滿臺灣味！BTS柾國操刀高雄宣傳神片 細節曝光逼哭粉絲",
+        "公視新聞：蔣萬安發「光榮臺北」明信片沈伯洋赴臺中合體何欣純造勢｜20261121 公視早安新聞｜ 公視新聞PNN",
+        "經濟日報：「苦雨之地」法譯本亮相　吳明益：臺灣是爬山航海民族"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "今年最終懸日下週桃園登場　今起連3天先現身臺中大甲",
-          "url": "https://www.ettoday.net/news/20261121/3274401.htm"
-        },
-        {
           "source": "自由時報",
-          "title": "南部太陽露臉 臺灣第一水庫「玩埤派對」熱力登場",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5648497"
+          "title": "滿滿臺灣味！BTS柾國操刀高雄宣傳神片 細節曝光逼哭粉絲",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5648375"
         },
         {
           "source": "公視新聞",
           "title": "蔣萬安發「光榮臺北」明信片沈伯洋赴臺中合體何欣純造勢｜20261121 公視早安新聞｜ 公視新聞PNN",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ITTVWWXhuZHhUakozcDJJd01NSllnNHhPTTk2eEVuOVpNSnRCbk5rbmJjMXQ0RVRfbHlTcDVGSjFSekNBNWgxM3JiVQ?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "「苦雨之地」法譯本亮相　吳明益：臺灣是爬山航海民族",
+          "url": "https://money.udn.com/money/story/5599/9893453"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／柯志恩鳳山造勢大咖歌手輪番獻唱　3萬人大舞廳畫面曝",
+          "url": "https://www.ettoday.net/news/20261121/3276196.htm"
         }
       ]
     },
@@ -84,48 +89,6 @@
     },
     {
       "rank": 4,
-      "title": "蔣萬安出招反制水庫光電！成立「臺灣好水聯盟」　邀縣市長們連署",
-      "summary": [
-        "ETtoday：蔣萬安出招反制水庫光電！成立「臺灣好水聯盟」　邀縣市長們連署",
-        "自由時報：蔣萬安成立「臺灣好水聯盟」 邀縣市長簽公約"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "蔣萬安出招反制水庫光電！成立「臺灣好水聯盟」　邀縣市長們連署",
-          "url": "https://www.ettoday.net/news/20261121/3275863.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "蔣萬安成立「臺灣好水聯盟」 邀縣市長簽公約",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648364"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "歐洲軍演之際俄飛彈落波蘭　總理控挑釁北約批侵犯領空",
-      "summary": [
-        "經濟日報：歐洲軍演之際俄飛彈落波蘭　總理控挑釁北約批侵犯領空",
-        "ETtoday：俄軍飛彈、無人機墜波蘭！北約怒斥「侵犯領空」　歐洲軍演爆危機"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "歐洲軍演之際俄飛彈落波蘭　總理控挑釁北約批侵犯領空",
-          "url": "https://money.udn.com/money/story/5599/9892723"
-        },
-        {
-          "source": "ETtoday",
-          "title": "俄軍飛彈、無人機墜波蘭！北約怒斥「侵犯領空」　歐洲軍演爆危機",
-          "url": "https://www.ettoday.net/news/20261121/3275884.htm"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "35噸車體搭載120公釐主砲 斯洛伐克「卡爾帕特」中型戰車亮相",
       "summary": [
         "自由時報：35噸車體搭載120公釐主砲 斯洛伐克「卡爾帕特」中型戰車亮相",
@@ -146,7 +109,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "輝達再遭政府盯上！路透：美 SEC 正調查輝達會計處理方式",
       "summary": [
         "科技新報：輝達再遭政府盯上！路透：美 SEC 正調查輝達會計處理方式",
@@ -167,7 +130,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "天冷低溫！三重公園廁所驚見男子倒臥　47歲男死亡",
       "summary": [
         "ETtoday：天冷低溫！三重公園廁所驚見男子倒臥　47歲男死亡",
@@ -188,7 +151,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "普發2萬元三讀過關！綠白聯手否決仍不敵藍營人數優勢- 要聞",
       "summary": [
         "工商時報：普發2萬元三讀過關！綠白聯手否決仍不敵藍營人數優勢- 要聞",
@@ -205,6 +168,48 @@
           "source": "公視新聞",
           "title": "普發兩萬表決罕見「綠白合」 仍不敵藍營人數優勢三讀透過",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01VHRtRGJKS3hadHBvNkVfYXdyTE5UcFktV0Z5UWoxQ29QSzdud3RXWUhiS2lrY1pOZlgxWndxeW5fbWVzX1pUZ05KZFBjNUE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "日本來回機票免費抽！臺灣首家Billboard Live TAIPEI歡慶週年 超大咖天后打頭陣",
+      "summary": [
+        "自由時報：日本來回機票免費抽！臺灣首家Billboard Live TAIPEI歡慶週年 超大咖天后打頭陣",
+        "ETtoday：臺灣首家Billboard Live 臺北週年開唱！還送薪水、住券"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "日本來回機票免費抽！臺灣首家Billboard Live TAIPEI歡慶週年 超大咖天后打頭陣",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5648456"
+        },
+        {
+          "source": "ETtoday",
+          "title": "臺灣首家Billboard Live 臺北週年開唱！還送薪水、住券",
+          "url": "https://star.ettoday.net/news/3276194"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "全美警方查通緝犯都靠它！FBI「執法命脈」資料庫疑遭駭",
+      "summary": [
+        "自由時報：全美警方查通緝犯都靠它！FBI「執法命脈」資料庫疑遭駭",
+        "經濟日報：傳美農業部及FBI遭駭客入侵　幕後黑手身分待查"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "全美警方查通緝犯都靠它！FBI「執法命脈」資料庫疑遭駭",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5648443"
+        },
+        {
+          "source": "經濟日報",
+          "title": "傳美農業部及FBI遭駭客入侵　幕後黑手身分待查",
+          "url": "https://money.udn.com/money/story/5599/9893683"
         }
       ]
     },
@@ -254,27 +259,6 @@
     },
     {
       "rank": 2,
-      "title": "秘魯M6.7地震；國家海洋暨大氣總署沒有海嘯威脅",
-      "summary": [
-        "NHK新聞：秘魯M6.7地震；國家海洋暨大氣總署沒有海嘯威脅",
-        "Bloomberg Markets：秘魯發生6.7級地震，暫無傷亡報告"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "秘魯M6.7地震；國家海洋暨大氣總署沒有海嘯威脅",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79540"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "秘魯發生6.7級地震，暫無傷亡報告",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-21/peru-rattled-by-6-7-magnitude-quake-with-no-casualties-reported"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Hostinger 優惠碼：2026年11月 85%折扣",
       "summary": [
         "Wired：Hostinger 優惠碼：2026年11月 85%折扣"
@@ -289,107 +273,122 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "考慮抑制新建公寓的投機交易 明年稅制改革",
+      "rank": 3,
+      "title": "普丁從川普和習近平峰會中獲益",
       "summary": [
-        "NHK新聞：考慮抑制新建公寓的投機交易 明年稅制改革"
+        "Bloomberg Markets：普丁從川普和習近平峰會中獲益"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "考慮抑制新建公寓的投機交易 明年稅制改革",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79532"
+          "source": "Bloomberg Markets",
+          "title": "普丁從川普和習近平峰會中獲益",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-21/putin-gains-from-trump-xi-summit-spotlight-video"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "川普關閉了備受喜愛的華盛頓高爾夫球場。無論如何，華盛頓正在玩這個遊戲。",
+      "summary": [
+        "Washington Post：川普關閉了備受喜愛的華盛頓高爾夫球場。無論如何，華盛頓正在玩這個遊戲。"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "川普關閉了備受喜愛的華盛頓高爾夫球場。無論如何，華盛頓正在玩這個遊戲。",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS2xoTzdBc1E5WHIzVk12TUhZN0FhX2xCQ1lHOTBPRFFPWmlMelBDcEpoSUl1ekg0VEVRQTdhT0ZzUGc4eDVfWVFVcjF6V0FxZHFhZ0pKbDUtTWliZ2tPeHFOalIzd3gtY2hDMEVRUnMySkkxZ0k1c2l2NE1BY3ZZdmZ4cTZaeE9rUUtmdzcya2lsNE04dEJDeW80UXVxRHhmZEhnclVoR3VjcUE?oc=5"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "埼玉縣三鄉樞紐附近的一處物流設施發生火災；消防工作仍在繼續",
+      "title": "歐盟再度推動AI治理全球協議",
       "summary": [
-        "NHK新聞：埼玉縣三鄉樞紐附近的一處物流設施發生火災；消防工作仍在繼續"
+        "FT中文網：歐盟再度推動AI治理全球協議"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "埼玉縣三鄉樞紐附近的一處物流設施發生火災；消防工作仍在繼續",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79548"
+          "source": "FT中文網",
+          "title": "歐盟再度推動AI治理全球協議",
+          "url": "https://www.ftchinese.com/story/001111386"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "川普總統禁止在美國境外興建資料中心並處以罰款",
+      "title": "Sandisk 股票開始以 8 拆 1 拆股交易，股價下跌",
       "summary": [
-        "NHK新聞：川普總統禁止在美國境外興建資料中心並處以罰款"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "川普總統禁止在美國境外興建資料中心並處以罰款",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79543"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "圖 GP芬蘭站 島田真央首發",
-      "summary": [
-        "NHK新聞：圖 GP芬蘭站 島田真央首發"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "圖 GP芬蘭站 島田真央首發",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79478"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "拜耳癌症案件 72.5 億美元和解協議獲美國法官批准",
-      "summary": [
-        "Financial Times：拜耳癌症案件 72.5 億美元和解協議獲美國法官批准"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "拜耳癌症案件 72.5 億美元和解協議獲美國法官批准",
-          "url": "https://www.ft.com/content/e7d36416-9eb7-4479-a217-d593545499df?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Anthropic 的 IPO 贏家和輸家，從 Ashton Kutcher 到 Sam Bankman-Fried",
-      "summary": [
-        "Yahoo Finance：Anthropic 的 IPO 贏家和輸家，從 Ashton Kutcher 到 Sam Bankman-Fried"
+        "Yahoo Finance：Sandisk 股票開始以 8 拆 1 拆股交易，股價下跌"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "Anthropic 的 IPO 贏家和輸家，從 Ashton Kutcher 到 Sam Bankman-Fried",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaUp6ejhmRlBKU3JDTFV6SFZWd3lJZHNXWk10WkpYM0ctTFNyR1FsaUI4Q0xVcXhMUVBOSGNNaUlmeS1uVHAxX3cyRERvVjlZbS0xUm9nazZLUzlDT2RKakUzSHBkZldDZ3N0MUQySVQzdTVvZVB3djRsVUJxRm1PM1pMS1ZKeGNibjJ4RXc1dVFwVGtHMGdseXNZcjlFMDAwUXFJUkJ4SUt4WTFNb1dvakdtY3hyNVpYRXpxUWdma2dUMVQ0MXhmZVNmRQ?oc=5"
+          "title": "Sandisk 股票開始以 8 拆 1 拆股交易，股價下跌",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN09NNUp2ZXRfM0NMd3ZjWXgxX3JRbHg4Z2ZtYkNESEh6VEJ3ZXpmOHpkMDJ2VHJwV3Z3bkxfcERtWl8wR1FNY1lxMXFELVVoSzFyeFlvRjhlNUZyWmZFU2d1RWpVbG40RVM1WC1kczBuZWk3bnROQjJsM1daQUpaRW1Ibm5DMXlnTW8wX3lMZndjalJSWmZSY0N5eVF1TFkzYnNjQWY4RENFMXFGY05pODN2SThub3lNbXRkUE8tRGFHS3lMa2h3RzFhNVhzbUJRNmlOdjJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "儘管石油供應溢價有所緩解，瑞銀仍表示大宗商品投資具有彈性",
+      "summary": [
+        "Investing.com：儘管石油供應溢價有所緩解，瑞銀仍表示大宗商品投資具有彈性"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "儘管石油供應溢價有所緩解，瑞銀仍表示大宗商品投資具有彈性",
+          "url": "https://www.investing.com/news/stock-market-news/ubs-flags-resilient-commodity-investment-case-despite-easing-oil-supply-premium-5043001"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "勒索軟體攻擊後朝日投入 8,500 萬美元用於人工智慧網路安全升級",
+      "summary": [
+        "Nikkei Asia：勒索軟體攻擊後朝日投入 8,500 萬美元用於人工智慧網路安全升級"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "勒索軟體攻擊後朝日投入 8,500 萬美元用於人工智慧網路安全升級",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeHJXcUQwa2dlS0FJc1JXalVLLUpMUm1maE9WTHR2czMzZm9XZXRETWVRR053NGJPYV9WS0ZCa0pLNjlkdlNUU2wtMzJncDJsSTVTUzNvZ2o1aUMzR0pNRFZWdWlVZTQ2a3NXSkpfTl9DOVowUllhVk85SUwyWWw2ejRJUW1tUVJzaEN1NjJ5ZUJUck1oTjZhaVhCTU9zbTkwZXNiMi1wSXdQSDNfUm5pZGZGc2xQbWRRaHZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "日本從 2027 年起將大型藍鰭鮪魚配額增加 25%",
+      "summary": [
+        "Nikkei Asia：日本從 2027 年起將大型藍鰭鮪魚配額增加 25%"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "日本從 2027 年起將大型藍鰭鮪魚配額增加 25%",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0thal90emdiT09vVWtWYWhUQnZWakpSdjBLRmxfZ2xIWWZNLTJOcmxma1VpbkRuN2s4Z0c4cko2SFlCVkhaeHRYVmlrcHFvN3pUMTVHTHhtWk8tVkVRMnd4SkNwS1pLQWtmS0xXMDdjN2M1MndXTFJCOUJUbEN4cXhtNXk4TzNnQ3hmb3NtRE11ellSSml1ZUkzVzVmeUc4VkFPS1NLZXQ?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "演講嘉賓徵件：2027 AI 影響系列",
+      "title": "日本考慮在美國制裁截止前向國際刑事法院提供早期資金",
       "summary": [
-        "VentureBeat：演講嘉賓徵件：2027 AI 影響系列"
+        "Nikkei Asia：日本考慮在美國制裁截止前向國際刑事法院提供早期資金"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "VentureBeat",
-          "title": "演講嘉賓徵件：2027 AI 影響系列",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PdWJwRFRBZzNTdzltZ2JDZ1N6NkdKYjBIRGlYRklBai1PNEI1MVBJakFvNzEtMWh3OEdlUW13VVFOZHZla1h4NS04Z2VxWThtX0ZqR2xtQWZnRm40d3FLUHhsNTVTeXA0TUlxZGg0R3k?oc=5"
+          "source": "Nikkei Asia",
+          "title": "日本考慮在美國制裁截止前向國際刑事法院提供早期資金",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamVpcTZ4eWZ1X21HSWR5MWlIMkFZeW9mbm1temlMNjcxc1NHUFMzNzk1Z05iWDVnTHVqN0xBTTJ3QlpnMVpXTmpEVzl6Vnh1SXNTQ0ZWSWo5U0lfY0prR1FqdGpTdktlQms2OHBob0hWQzdpeUxoTFlpTjVYNm94bnRfMWV2bkwtRUVmNW50bjJDWnF0akRfZHFXT0xmTm40bk04eEgyY1V4bnhrYmQ3Yl8yU1NaZ2ZF?oc=5"
         }
       ]
     }
