@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-11-21 22:26",
+  "updated_at": "2026-11-21 22:55",
   "taiwan": [
     {
       "rank": 1,
-      "title": "滿滿臺灣味！BTS柾國操刀高雄宣傳神片 細節曝光逼哭粉絲",
+      "title": "南部太陽露臉 臺灣第一水庫「玩埤派對」熱力登場",
       "summary": [
-        "自由時報：滿滿臺灣味！BTS柾國操刀高雄宣傳神片 細節曝光逼哭粉絲",
-        "公視新聞：蔣萬安發「光榮臺北」明信片沈伯洋赴臺中合體何欣純造勢｜20261121 公視早安新聞｜ 公視新聞PNN",
-        "經濟日報：「苦雨之地」法譯本亮相　吳明益：臺灣是爬山航海民族"
+        "自由時報：南部太陽露臉 臺灣第一水庫「玩埤派對」熱力登場",
+        "經濟日報：「苦雨之地」法譯本亮相　吳明益：臺灣是爬山航海民族",
+        "公視新聞：蔣萬安發「光榮臺北」明信片 沈伯洋赴臺中合體何欣純造勢"
       ],
       "media_count": 4,
       "links": [
         {
           "source": "自由時報",
-          "title": "滿滿臺灣味！BTS柾國操刀高雄宣傳神片 細節曝光逼哭粉絲",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5648375"
-        },
-        {
-          "source": "公視新聞",
-          "title": "蔣萬安發「光榮臺北」明信片沈伯洋赴臺中合體何欣純造勢｜20261121 公視早安新聞｜ 公視新聞PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ITTVWWXhuZHhUakozcDJJd01NSllnNHhPTTk2eEVuOVpNSnRCbk5rbmJjMXQ0RVRfbHlTcDVGSjFSekNBNWgxM3JiVQ?oc=5"
+          "title": "南部太陽露臉 臺灣第一水庫「玩埤派對」熱力登場",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5648497"
         },
         {
           "source": "經濟日報",
           "title": "「苦雨之地」法譯本亮相　吳明益：臺灣是爬山航海民族",
           "url": "https://money.udn.com/money/story/5599/9893453"
+        },
+        {
+          "source": "公視新聞",
+          "title": "蔣萬安發「光榮臺北」明信片 沈伯洋赴臺中合體何欣純造勢",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1dnFVZ3AzWW1kMktZdnRFdHZSb3AtVDZnSkFidHhXMkthamFPOU1FaWh0djhoYW5qajd4OERwWHZ5UGFlalNfWExzY3o3dE0?oc=5"
         },
         {
           "source": "ETtoday",
@@ -62,27 +62,6 @@
     },
     {
       "rank": 3,
-      "title": "天冷低溫！三重公園廁所驚見男子倒臥　47歲男死亡",
-      "summary": [
-        "ETtoday：天冷低溫！三重公園廁所驚見男子倒臥　47歲男死亡",
-        "自由時報：三重公園男廁驚見男子倒臥亡 疑突發心血管疾病暴斃"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "天冷低溫！三重公園廁所驚見男子倒臥　47歲男死亡",
-          "url": "https://www.ettoday.net/news/20261121/3275916.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "三重公園男廁驚見男子倒臥亡 疑突發心血管疾病暴斃",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5648630"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "普發2萬元三讀過關！綠白聯手否決仍不敵藍營人數優勢- 要聞",
       "summary": [
         "工商時報：普發2萬元三讀過關！綠白聯手否決仍不敵藍營人數優勢- 要聞",
@@ -103,7 +82,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "日本來回機票免費抽！臺灣首家Billboard Live TAIPEI歡慶週年 超大咖天后打頭陣",
       "summary": [
         "自由時報：日本來回機票免費抽！臺灣首家Billboard Live TAIPEI歡慶週年 超大咖天后打頭陣",
@@ -124,7 +103,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "全美警方查通緝犯都靠它！FBI「執法命脈」資料庫疑遭駭",
       "summary": [
         "自由時報：全美警方查通緝犯都靠它！FBI「執法命脈」資料庫疑遭駭",
@@ -145,7 +124,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "涉為2愛子買票！檢調動員百餘人查集團性賄選 宜蘭老議員遊旺欉等4人聲押",
       "summary": [
         "自由時報：涉為2愛子買票！檢調動員百餘人查集團性賄選 宜蘭老議員遊旺欉等4人聲押",
@@ -166,7 +145,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "核電公投拒領票阻過關？臺灣教授協會：無助提高門檻恐讓同意票超越",
       "summary": [
         "自由時報：核電公投拒領票阻過關？臺灣教授協會：無助提高門檻恐讓同意票超越",
@@ -187,7 +166,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "《黑白清道夫》反派男神私下超反差！　自彈鋼琴畫面曝光網暈船",
       "summary": [
         "ETtoday：《黑白清道夫》反派男神私下超反差！　自彈鋼琴畫面曝光網暈船",
@@ -208,7 +187,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "郵局ATM領錢不怕再被看到餘額！按一鍵才能顯示資訊",
       "summary": [
         "自由時報：郵局ATM領錢不怕再被看到餘額！按一鍵才能顯示資訊",
@@ -225,6 +204,27 @@
           "source": "ETtoday",
           "title": "郵局ATM領錢不怕餘額被看光　預設隱藏「點選才顯示」",
           "url": "https://www.ettoday.net/news/20261121/3276097.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "臺中榮總名醫鄒錫凱涉收醫材回扣被押  即日起停職並免兼主管",
+      "summary": [
+        "自由時報：臺中榮總名醫鄒錫凱涉收醫材回扣被押  即日起停職並免兼主管",
+        "公視新聞：臺中榮總醫師涉收廠商回扣 遭羈押禁見、停職"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "臺中榮總名醫鄒錫凱涉收醫材回扣被押  即日起停職並免兼主管",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5648689"
+        },
+        {
+          "source": "公視新聞",
+          "title": "臺中榮總醫師涉收廠商回扣 遭羈押禁見、停職",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rOGhndzhwRUNGY3E4TzRJNDFzTS0zdTZzaEZ4dFA4U3FjUy1CYUM3WlM1WjViY01vdXJIc19ndzhfbS0ybWhSOXduS053ZWc?oc=5"
         }
       ]
     }
@@ -283,96 +283,6 @@
     },
     {
       "rank": 4,
-      "title": "法國前總理宣佈競選總統，極右派勒龐的頭號支持者",
-      "summary": [
-        "NHK新聞：法國前總理宣佈競選總統，極右派勒龐的頭號支持者"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "法國前總理宣佈競選總統，極右派勒龐的頭號支持者",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79545"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "大腳怪的信徒從一個不太可能的盟友那裡得到了推動：美國林務局",
-      "summary": [
-        "Washington Post：大腳怪的信徒從一個不太可能的盟友那裡得到了推動：美國林務局"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "大腳怪的信徒從一個不太可能的盟友那裡得到了推動：美國林務局",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2VYcjNvQndKb1g5bnlOQzk1cnJiQms0cFdIdmlvUngwNzVqZFBoaGFVbHU3U1FRVEtULWlNT1ZUbWJYZktuREoxbXBzWk5MVHRqTjlIRzd2dnZSUU1sX0hRc2Nfd0E0ZHQ2Q09TWkhTY2ZPbHU5c3h2N0F3R1V1U1pLZUJsTWxIQ2xPNVFRVXBOUU9oc2Y4cTRLbzUwNzhLQUhSdWYxblB1VXQtVExzRmN3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "科技投資者：“成功和名望”損害矽谷企業領導水平",
-      "summary": [
-        "FT中文網：科技投資者：“成功和名望”損害矽谷企業領導水平"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "FT中文網",
-          "title": "科技投資者：“成功和名望”損害矽谷企業領導水平",
-          "url": "https://www.ftchinese.com/story/001111388"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
-      "summary": [
-        "WSJ Markets：華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "WSJ Markets",
-          "title": "華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
-          "url": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "紅旗的超級跑車計劃如何陷入債務、清算和欺詐索賠",
-      "summary": [
-        "Nikkei Asia：紅旗的超級跑車計劃如何陷入債務、清算和欺詐索賠"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "紅旗的超級跑車計劃如何陷入債務、清算和欺詐索賠",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc2RzVlJMZGxaTUprLWRfaGdEaVc1azVtbDJRYXFqZk9iUmNMVWZpR1d4RUF1akNMSDZZdm9scXYzTGdSbC1ySXQ2eGZCWTdOY3poUTFqdkhfQmlZRmdlSjNhX1k4a2V2eVlVSjNzVDI2aS1BVlAycG9DbWlUdjNBc0lzUkF6UnMyektoMVhwLXA1eWtoRDNaYWVudE0zYmVfUU9ON1I1Sl92elkzM1FTZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "使用三星 Galaxy Buds 4 Pro、Buds 3 Pro 和 Buds 3 FE 升級您的日常音訊，起價為 99.99 美元，可享受高達 47% 的折扣",
-      "summary": [
-        "Wccftech：使用三星 Galaxy Buds 4 Pro、Buds 3 Pro 和 Buds 3 FE 升級您的日常音訊，起價為 99.99 美元，可享受高達 47% 的折扣"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Wccftech",
-          "title": "使用三星 Galaxy Buds 4 Pro、Buds 3 Pro 和 Buds 3 FE 升級您的日常音訊，起價為 99.99 美元，可享受高達 47% 的折扣",
-          "url": "https://wccftech.com/samsung-galaxy-buds-4-pro-buds-3-pro-buds-3-fe-black-friday-amazon/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "前橋警察在住宅區發現熊；搜尋繼續",
       "summary": [
         "NHK新聞：前橋警察在住宅區發現熊；搜尋繼續"
@@ -383,6 +293,96 @@
           "source": "NHK新聞",
           "title": "前橋警察在住宅區發現熊；搜尋繼續",
           "url": "https://news.web.nhk/newsweb/na/nd-20261121de79555"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "女子高爾夫美國巡迴賽第二天：吉田尤里升至第三位",
+      "summary": [
+        "NHK新聞：女子高爾夫美國巡迴賽第二天：吉田尤里升至第三位"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "女子高爾夫美國巡迴賽第二天：吉田尤里升至第三位",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79585"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "德州當選州長和川普同意在邊境安全問題上合作",
+      "summary": [
+        "Washington Post：德州當選州長和川普同意在邊境安全問題上合作"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "德州當選州長和川普同意在邊境安全問題上合作",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbWI0UVdraFp2QVV0bnVjUUN1Vk1ZWnFnSlA3RGFmVzlMYVZpaTlXNlA0LUlZclZ3Mi1VQ3dYOHhJSk1fZlFJTDRCckEyV09heHBpMlVzMnJnc1VfZXZTc0FNelhwSEFMN213bHRWeEdsTFgtV0k3bU54UmZEdEwtQ2pESGlGSnRfZm5rYTVLaWZnQkpZSUFfVml6cWFFdFNJOWJqbHYzWG5QZEpKNFRkRTFHV0o?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "「砂紙門」的影響讓澳洲板球陷入困境",
+      "summary": [
+        "Financial Times：「砂紙門」的影響讓澳洲板球陷入困境"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "「砂紙門」的影響讓澳洲板球陷入困境",
+          "url": "https://www.ft.com/content/21e99fa9-325d-4294-a459-97393c0d107f?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "國會即將透過中國汽車禁令，梅賽德斯可能有出路",
+      "summary": [
+        "Yahoo Finance：國會即將透過中國汽車禁令，梅賽德斯可能有出路"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "國會即將透過中國汽車禁令，梅賽德斯可能有出路",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWEgxR2pMbUlSc2kzczRGOGdmTXQtOFljcUxGT3dxdDBqX0ZicThiZk5xYUptcjBYY1ZMNkNzMWhST1hXYklUSlA5dlhhcjBWRks5VVVvS2JjZ0d1bFk1cHhaN3F5SUJmUmM5NllaZ1NRV1RQbkpTZ29FeENsZlpUTjRpV3ZJR1M1dGluNG5aamJoZlQ1Y3UtUXViXzdwaVpQZktqTklqUlhzMzdTUDI5T3ZmVnJLVW42MUdXOHVNbjlhel9iRVZsWGlRckRvY1o3TkJ0RA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "職棒DeNA與歐力士Sou簽約，行使FA權利",
+      "summary": [
+        "NHK新聞：職棒DeNA與歐力士Sou簽約，行使FA權利"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "職棒DeNA與歐力士Sou簽約，行使FA權利",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79591"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Semafor 在更新的文章中揭露了與川普和哈里斯顧問的付費關係",
+      "summary": [
+        "Washington Post：Semafor 在更新的文章中揭露了與川普和哈里斯顧問的付費關係"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "Semafor 在更新的文章中揭露了與川普和哈里斯顧問的付費關係",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRFdHUjdmODdQSHJOb3JvWUtzV1Yyd1J2TGxDVk1HNlFPZm1sNUdBRTJ6bDRMX2g2cUlzTGV5eFUyUkVuLVRXdGtXWlFYbjZycE9TWkNSM0VtMnlMSW41R0ctcURnMDA5V1BrQkxKVktlalBlNUlBR2d4emJRcy1HamFJOVFDRzBIa0ZKM21LUEo1ZHJpblFQNEtwUDFxYllieUNzNlRVNndKX3dhZE9SMU9MSlJ2SUs1QXc?oc=5"
         }
       ]
     }
