@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 23:26",
+  "updated_at": "2026-11-21 23:56",
   "taiwan": [
     {
       "rank": 1,
@@ -62,69 +62,6 @@
     },
     {
       "rank": 3,
-      "title": "日本來回機票免費抽！臺灣首家Billboard Live TAIPEI歡慶週年 超大咖天后打頭陣",
-      "summary": [
-        "自由時報：日本來回機票免費抽！臺灣首家Billboard Live TAIPEI歡慶週年 超大咖天后打頭陣",
-        "ETtoday：臺灣首家Billboard Live 臺北週年開唱！還送薪水、住券"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "日本來回機票免費抽！臺灣首家Billboard Live TAIPEI歡慶週年 超大咖天后打頭陣",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5648456"
-        },
-        {
-          "source": "ETtoday",
-          "title": "臺灣首家Billboard Live 臺北週年開唱！還送薪水、住券",
-          "url": "https://star.ettoday.net/news/3276194"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "全美警方查通緝犯都靠它！FBI「執法命脈」資料庫疑遭駭",
-      "summary": [
-        "自由時報：全美警方查通緝犯都靠它！FBI「執法命脈」資料庫疑遭駭",
-        "經濟日報：傳美農業部及FBI遭駭客入侵　幕後黑手身分待查"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "全美警方查通緝犯都靠它！FBI「執法命脈」資料庫疑遭駭",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5648443"
-        },
-        {
-          "source": "經濟日報",
-          "title": "傳美農業部及FBI遭駭客入侵　幕後黑手身分待查",
-          "url": "https://money.udn.com/money/story/5599/9893683"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "涉為2愛子買票！檢調動員百餘人查集團性賄選 宜蘭老議員遊旺欉等4人聲押",
-      "summary": [
-        "自由時報：涉為2愛子買票！檢調動員百餘人查集團性賄選 宜蘭老議員遊旺欉等4人聲押",
-        "ETtoday：宜蘭爆集團性賄選！2兒選議員鄉代「父掏錢行賄」　4聲押5交保"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "涉為2愛子買票！檢調動員百餘人查集團性賄選 宜蘭老議員遊旺欉等4人聲押",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648427"
-        },
-        {
-          "source": "ETtoday",
-          "title": "宜蘭爆集團性賄選！2兒選議員鄉代「父掏錢行賄」　4聲押5交保",
-          "url": "https://www.ettoday.net/news/20261121/3276036.htm"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "核電公投拒領票阻過關？臺灣教授協會：無助提高門檻恐讓同意票超越",
       "summary": [
         "自由時報：核電公投拒領票阻過關？臺灣教授協會：無助提高門檻恐讓同意票超越",
@@ -145,7 +82,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "《黑白清道夫》反派男神私下超反差！　自彈鋼琴畫面曝光網暈船",
       "summary": [
         "ETtoday：《黑白清道夫》反派男神私下超反差！　自彈鋼琴畫面曝光網暈船",
@@ -166,7 +103,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "郵局ATM領錢不怕再被看到餘額！按一鍵才能顯示資訊",
       "summary": [
         "自由時報：郵局ATM領錢不怕再被看到餘額！按一鍵才能顯示資訊",
@@ -187,7 +124,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "臺中榮總名醫鄒錫凱涉收醫材回扣被押  即日起停職並免兼主管",
       "summary": [
         "自由時報：臺中榮總名醫鄒錫凱涉收醫材回扣被押  即日起停職並免兼主管",
@@ -208,7 +145,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "臺股跳水金管會再出手！宣佈「全面禁止平盤以下放空」等五項措施- 金融",
       "summary": [
         "工商時報：臺股跳水金管會再出手！宣佈「全面禁止平盤以下放空」等五項措施- 金融",
@@ -225,6 +162,69 @@
           "source": "財訊",
           "title": "臺股波動加劇、國安基金已進場護盤 金管會宣佈「全面禁止平盤以下放空」等5項措施",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GS05oVE1hOUVhMlQ3Q0l0cmI5ZWdIUDRLU0cxaF9IYmNCY2tWQTdsdDhSX3hQU0pwR253WWdsR3FIR1JpVEJwb3k1SUowM1VpMXpCaVRsdmhpZmxXY0NKb3Jiak83b1RnamI2YkpmdWJIdkxpMjRQRFhHVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "蔣萬安政見會秀公文反對水庫設光電板　再推崇柯文哲原水管建設",
+      "summary": [
+        "ETtoday：蔣萬安政見會秀公文反對水庫設光電板　再推崇柯文哲原水管建設",
+        "風傳媒：北市政見會》蔣萬安亮公文反對翡翠水庫設光電板 推崇柯文哲原水管「百年建設」 | 蕭宥宸 | 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "蔣萬安政見會秀公文反對水庫設光電板　再推崇柯文哲原水管建設",
+          "url": "https://www.ettoday.net/news/20261121/3276124.htm"
+        },
+        {
+          "source": "風傳媒",
+          "title": "北市政見會》蔣萬安亮公文反對翡翠水庫設光電板 推崇柯文哲原水管「百年建設」 | 蕭宥宸 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iMDJQcFVtQXoweDgxUlVJcThaZlJIZWNNanhRbFphTTVVRk5vLV8xd0k2UlFuQk1CWkFZeDlLZ1VzMTktTmlubTRVM1Y0QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "黃世傑角板山商圈拜票 承諾不因人少路遠忽略復興",
+      "summary": [
+        "自由時報：黃世傑角板山商圈拜票 承諾不因人少路遠忽略復興",
+        "ETtoday：赴角板山商圈徒步拜票　黃世傑：不因人口少、距離遠忽略復興區"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "黃世傑角板山商圈拜票 承諾不因人少路遠忽略復興",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648814"
+        },
+        {
+          "source": "ETtoday",
+          "title": "赴角板山商圈徒步拜票　黃世傑：不因人口少、距離遠忽略復興區",
+          "url": "https://www.ettoday.net/news/20261121/3276169.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "明晨防10度以下低溫　下週二起北部有雨",
+      "summary": [
+        "ETtoday：明晨防10度以下低溫　下週二起北部有雨",
+        "TVBS新聞：天氣/ 還沒冷完! 明晨「區域性低溫10度」 下週二北東雨增｜氣象主播張蕙纖｜午間氣象｜TVBS新聞20261121 @TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "明晨防10度以下低溫　下週二起北部有雨",
+          "url": "https://www.ettoday.net/news/20261121/3276142.htm"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "天氣/ 還沒冷完! 明晨「區域性低溫10度」 下週二北東雨增｜氣象主播張蕙纖｜午間氣象｜TVBS新聞20261121 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZNEJ4NGYxX2VFelAtWWhXSHlQZXNVR1ZNQzRidkhDd3oxQWhGM2pDWEZRVWdxS29ZQ01pRGhJaWE3NjJUZlF1dTAxUzE4RnA3VTVqRWdn?oc=5"
         }
       ]
     }
@@ -304,91 +304,91 @@
     },
     {
       "rank": 5,
-      "title": "職棒DeNA與歐力士Sou簽約，行使FA權利",
+      "title": "加州律師協會調查前白宮新聞秘書凱蒂·扎卡里亞",
       "summary": [
-        "NHK新聞：職棒DeNA與歐力士Sou簽約，行使FA權利"
+        "Washington Post：加州律師協會調查前白宮新聞秘書凱蒂·扎卡里亞"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "職棒DeNA與歐力士Sou簽約，行使FA權利",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79591"
+          "source": "Washington Post",
+          "title": "加州律師協會調查前白宮新聞秘書凱蒂·扎卡里亞",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2VJNG1JcVhrdWw1OGhzQWhjTUtMNEZhaUFRLTNyamhHeFpmeEd3OVRKMjJwUHJ6Q2FzRkhYMnlybG9SQ2s3LTZnbVNncGJFMjY2eGNwWWFRZF84R3BPT0hVY2o4QTVqMzQ3SWhzVWt1Nmt6YUFqMWhNVWhjOGcyU0dDdkxUU1hwZjlxbVUyYTdXeEtVQ2JKSktnelctSDRuR1F5MDNMTnh4OXYyUG04Zno3VFlqMzRacTZRaUFsUk5RbTEwSEkxaA?oc=5"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "Semafor 在更新的文章中揭露了與川普和哈里斯顧問的付費關係",
+      "title": "意見 |美國距離恢復建設僅一票之遙",
       "summary": [
-        "Washington Post：Semafor 在更新的文章中揭露了與川普和哈里斯顧問的付費關係"
+        "Washington Post：意見 |美國距離恢復建設僅一票之遙"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Washington Post",
-          "title": "Semafor 在更新的文章中揭露了與川普和哈里斯顧問的付費關係",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRFdHUjdmODdQSHJOb3JvWUtzV1Yyd1J2TGxDVk1HNlFPZm1sNUdBRTJ6bDRMX2g2cUlzTGV5eFUyUkVuLVRXdGtXWlFYbjZycE9TWkNSM0VtMnlMSW41R0ctcURnMDA5V1BrQkxKVktlalBlNUlBR2d4emJRcy1HamFJOVFDRzBIa0ZKM21LUEo1ZHJpblFQNEtwUDFxYllieUNzNlRVNndKX3dhZE9SMU9MSlJ2SUs1QXc?oc=5"
+          "title": "意見 |美國距離恢復建設僅一票之遙",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa3VWT2s5dFZEXzcwQTd4OXo4U0xnajdMaTZEUWdNd1NjTzVZQXMtODY5b0JkOVd6VGRMQ3V2TW5pOW1taXJJLXcwVkl1M1lrMDBwZVEwTFBEMWFHYlloZEJsbk1WWjNXWE9Ed05acWo5VnkyYmpGeHVxclBTMWFJbVZEdTViNVJVZlVCeG5TM2F3V1BNRzFoNzlWc0xkdkFtT3RXSUpvc0R2N3AyNXlJVVNFcw?oc=5"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "官方批准向中國企業出售58萬塊英偉達晶片",
+      "title": "新創公司在印度起訴蘋果公司，指控其點選共享聯絡人功能",
       "summary": [
-        "Washington Post：官方批准向中國企業出售58萬塊英偉達晶片"
+        "TechCrunch：新創公司在印度起訴蘋果公司，指控其點選共享聯絡人功能"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Washington Post",
-          "title": "官方批准向中國企業出售58萬塊英偉達晶片",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYTNWdm5ZVVFLUDV0SDQtRy1KMzV3dlVUVDg5aTJaMXNZTXpxRmY4Z3VKUFA2dVhKclpKbml2MjQxZmdLdEgyMGE2dkRzdnJnSzRkU0ItdVNuSnpVMHhSeHdzZXM3Y2ZJaGZsVzJ2cVRWTFNZWGlmckVxcUk1eTNSdzVZZ0hnNDE0cHlsblcxVGJuNnYtTUMwNFpISUktUGNyMWZlTGRwWlV0QW5kN3ZWV0wxNnRYQQ?oc=5"
+          "source": "TechCrunch",
+          "title": "新創公司在印度起訴蘋果公司，指控其點選共享聯絡人功能",
+          "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "秘魯發生6.7級地震，暫無傷亡報告",
+      "title": "福島北鹽原村：因樹木倒下而關閉國道； 514戶948人受困",
       "summary": [
-        "Bloomberg Markets：秘魯發生6.7級地震，暫無傷亡報告"
+        "NHK新聞：福島北鹽原村：因樹木倒下而關閉國道； 514戶948人受困"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "秘魯發生6.7級地震，暫無傷亡報告",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-21/peru-rattled-by-6-7-magnitude-quake-with-no-casualties-reported"
+          "source": "NHK新聞",
+          "title": "福島北鹽原村：因樹木倒下而關閉國道； 514戶948人受困",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79612"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "據央視報道，隨著 6G 測試的進展，中國在整個製造基地部署 5G",
+      "title": "納斯達克股指暴跌 4兆美元市值本週消失",
       "summary": [
-        "Bloomberg Tech：據央視報道，隨著 6G 測試的進展，中國在整個製造基地部署 5G"
+        "NHK新聞：納斯達克股指暴跌 4兆美元市值本週消失"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "據央視報道，隨著 6G 測試的進展，中國在整個製造基地部署 5G",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-deploys-5g-across-manufacturing-base-as-6g-testing-advances-cctv-reports"
+          "source": "NHK新聞",
+          "title": "納斯達克股指暴跌 4兆美元市值本週消失",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79604"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "川普前交通部長：美國和日本應引領下一代交通",
+      "title": "澤連斯基總統：“普丁是殺人犯”",
       "summary": [
-        "Nikkei Asia：川普前交通部長：美國和日本應引領下一代交通"
+        "NHK新聞：澤連斯基總統：“普丁是殺人犯”"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Nikkei Asia",
-          "title": "川普前交通部長：美國和日本應引領下一代交通",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbHhxXy1tV3haeUMzQ1ZHSzJqNlkyVVlSU2l1bU5YbVVOM0FvYTJxQ1MyRTZWNFcxenlib0gtd3JldWsyRVF2cm5IN2s0aHZDWW1hbldIT0JVdDRmVjR5RS1zYzJfU25GMmNmV0ktMVN0OG5LV3pyRFF6clkyYVk1UnFNdmN4ZWJtOWlfTmpNWXRfR1liZlRWdHppSmJySGJFV3VkMXZwVTN2ZDk0cVZ3VzZ6V1lKTmxhQ2lqVQ?oc=5"
+          "source": "NHK新聞",
+          "title": "澤連斯基總統：“普丁是殺人犯”",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79605"
         }
       ]
     }
