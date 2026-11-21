@@ -1,21 +1,16 @@
 {
-  "updated_at": "2026-11-22 02:26",
+  "updated_at": "2026-11-22 02:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "「最強會長」南下助攻！蔡其昌陪梁育慈屏東車掃",
+      "title": "蔣萬安發「光榮臺北」明信片 沈伯洋赴臺中合體何欣純造勢",
       "summary": [
-        "自由時報：「最強會長」南下助攻！蔡其昌陪梁育慈屏東車掃",
         "公視新聞：蔣萬安發「光榮臺北」明信片 沈伯洋赴臺中合體何欣純造勢",
-        "ETtoday：HBL松山、光復連勝攜手進12強！高苑奪勝保住「南臺灣希望」"
+        "ETtoday：快訊／柯志恩鳳山造勢大咖歌手輪番獻唱　3萬人大舞廳畫面曝",
+        "自由時報：11/21 今彩539頭獎開1注！800萬獎落新北"
       ],
       "media_count": 3,
       "links": [
-        {
-          "source": "自由時報",
-          "title": "「最強會長」南下助攻！蔡其昌陪梁育慈屏東車掃",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648611"
-        },
         {
           "source": "公視新聞",
           "title": "蔣萬安發「光榮臺北」明信片 沈伯洋赴臺中合體何欣純造勢",
@@ -23,8 +18,13 @@
         },
         {
           "source": "ETtoday",
-          "title": "HBL松山、光復連勝攜手進12強！高苑奪勝保住「南臺灣希望」",
-          "url": "https://sports.ettoday.net/news/3276257"
+          "title": "快訊／柯志恩鳳山造勢大咖歌手輪番獻唱　3萬人大舞廳畫面曝",
+          "url": "https://www.ettoday.net/news/20261121/3276196.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "11/21 今彩539頭獎開1注！800萬獎落新北",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5649097"
         }
       ]
     },
@@ -263,6 +263,27 @@
     },
     {
       "rank": 3,
+      "title": "俄羅斯稱貨船在芬蘭灣遭到無人機攻擊",
+      "summary": [
+        "Bloomberg Markets：俄羅斯稱貨船在芬蘭灣遭到無人機攻擊",
+        "BBC World：駛往俄羅斯的船隻在芬蘭灣遭遇攻擊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "俄羅斯稱貨船在芬蘭灣遭到無人機攻擊",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland"
+        },
+        {
+          "source": "BBC World",
+          "title": "駛往俄羅斯的船隻在芬蘭灣遭遇攻擊",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "分析：為什麼中國不願承擔氣候領導角色？",
       "summary": [
         "德國之聲：分析：為什麼中國不願承擔氣候領導角色？",
@@ -283,7 +304,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "普丁從川普和習近平峰會中獲益",
       "summary": [
         "Bloomberg Markets：普丁從川普和習近平峰會中獲益"
@@ -298,82 +319,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "由於MLB勞資談判困難重重，小田翔樹的談判變得不明朗",
-      "summary": [
-        "NHK新聞：由於MLB勞資談判困難重重，小田翔樹的談判變得不明朗"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "由於MLB勞資談判困難重重，小田翔樹的談判變得不明朗",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79627"
-        }
-      ]
-    },
-    {
       "rank": 6,
-      "title": "米利班德表示與歐盟的交易不依賴學費協議",
-      "summary": [
-        "BBC World：米利班德表示與歐盟的交易不依賴學費協議"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "米利班德表示與歐盟的交易不依賴學費協議",
-          "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "川普總統赦免了 2024 年去世的名譽掃地的 MLB 球星皮特羅斯",
-      "summary": [
-        "Washington Post：川普總統赦免了 2024 年去世的名譽掃地的 MLB 球星皮特羅斯"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "川普總統赦免了 2024 年去世的名譽掃地的 MLB 球星皮特羅斯",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdkpSbE5tY3pjZFNDMlUwSnludngyeVhKandVenhVYkhFRG0wNElTWlBiMzNvUzZINm1qb2xFOWl4RzIwSVpjaTRXU3MteE00VHg2eDlUWWFlaDJHV3dqVUE5MmtJMW5LT0JsLVdqTmk2ZEF1NDd2emZlbV9VNmtCQ1huaWxBTTl5S1FRRkVweFI2QzRSX05aRkxDYnltTWhBWHRiWjkyYVN6cjZZWXZBLW94M2tZR2c?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "澳洲稱天然氣儲備提案談判仍在繼續",
-      "summary": [
-        "Bloomberg Markets：澳洲稱天然氣儲備提案談判仍在繼續"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "澳洲稱天然氣儲備提案談判仍在繼續",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-21/australia-says-negotiations-continue-on-gas-reservation-proposal"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "瑞士延長中立 反省武器投票",
-      "summary": [
-        "Bloomberg Markets：瑞士延長中立 反省武器投票"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "瑞士延長中立 反省武器投票",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-21/switzerland-prolongs-neutrality-soul-searching-with-weapons-vote"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "APEC的特色服飾：從克林頓皮衣到深圳「鯤鵬展翅」絲巾",
       "summary": [
         "BBC中文：APEC的特色服飾：從克林頓皮衣到深圳「鯤鵬展翅」絲巾"
@@ -384,6 +330,66 @@
           "source": "BBC中文",
           "title": "APEC的特色服飾：從克林頓皮衣到深圳「鯤鵬展翅」絲巾",
           "url": "https://www.bbc.com/zhongwen/articles/cmly7er4rze9o/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Anthropic上市：七位即將成為億萬富翁的創辦人",
+      "summary": [
+        "BBC中文：Anthropic上市：七位即將成為億萬富翁的創辦人"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "Anthropic上市：七位即將成為億萬富翁的創辦人",
+          "url": "https://www.bbc.com/zhongwen/articles/cw4gn9359q37o/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "中國如何利用峰會擴大其全球影響力",
+      "summary": [
+        "CNBC：中國如何利用峰會擴大其全球影響力"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "中國如何利用峰會擴大其全球影響力",
+          "url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "極地渦旋的早期崩潰正威脅著已經枯竭的天然氣庫存",
+      "summary": [
+        "CNBC：極地渦旋的早期崩潰正威脅著已經枯竭的天然氣庫存"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "極地渦旋的早期崩潰正威脅著已經枯竭的天然氣庫存",
+          "url": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "歐洲的網路弱點是沒人想到要保護的日常企業",
+      "summary": [
+        "CNBC：歐洲的網路弱點是沒人想到要保護的日常企業"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "歐洲的網路弱點是沒人想到要保護的日常企業",
+          "url": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html"
         }
       ]
     }
