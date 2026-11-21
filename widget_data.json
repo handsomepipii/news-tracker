@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 06:56",
+  "updated_at": "2026-11-22 07:26",
   "taiwan": [
     {
       "rank": 1,
@@ -30,48 +30,33 @@
     },
     {
       "rank": 2,
-      "title": "讓世界看見輔大、看見臺灣！亞太天主教大學運動會明開幕",
+      "title": "加拿大防長：美加軍事合作依舊密切　未見關係生變",
       "summary": [
-        "自由時報：讓世界看見輔大、看見臺灣！亞太天主教大學運動會明開幕",
-        "ETtoday：首屆亞太天主教大學運動會22日開幕！9國700名好手齊聚臺灣"
+        "自由時報：加拿大防長：美加軍事合作依舊密切　未見關係生變",
+        "經濟日報：加拿大防長：美加軍事合作依舊密切　未見關係生變",
+        "ETtoday：美加軍事合作傳遭美方設限　加拿大防長回應了"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "自由時報",
-          "title": "讓世界看見輔大、看見臺灣！亞太天主教大學運動會明開幕",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5648976"
+          "title": "加拿大防長：美加軍事合作依舊密切　未見關係生變",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5649170"
+        },
+        {
+          "source": "經濟日報",
+          "title": "加拿大防長：美加軍事合作依舊密切　未見關係生變",
+          "url": "https://money.udn.com/money/story/5599/9893987"
         },
         {
           "source": "ETtoday",
-          "title": "首屆亞太天主教大學運動會22日開幕！9國700名好手齊聚臺灣",
-          "url": "https://sports.ettoday.net/news/3276260"
+          "title": "美加軍事合作傳遭美方設限　加拿大防長回應了",
+          "url": "https://www.ettoday.net/news/20261122/3276283.htm"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "東帝汶外海強震　德國地球科學研究中心：規模6.8",
-      "summary": [
-        "經濟日報：東帝汶外海強震　德國地球科學研究中心：規模6.8",
-        "ETtoday：東帝汶外海規模6.8強震！　震央距首都226公里"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "東帝汶外海強震　德國地球科學研究中心：規模6.8",
-          "url": "https://money.udn.com/money/story/5599/9893582"
-        },
-        {
-          "source": "ETtoday",
-          "title": "東帝汶外海規模6.8強震！　震央距首都226公里",
-          "url": "https://www.ettoday.net/news/20261121/3276181.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "帥男喝爛醉！信義飢渴妹叫車載回家「整根含住」　他清醒嚇壞報警",
       "summary": [
         "ETtoday：帥男喝爛醉！信義飢渴妹叫車載回家「整根含住」　他清醒嚇壞報警",
@@ -92,7 +77,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "不是芭樂票！陳素月晚會闢謠：65歲免健保費任內必推",
       "summary": [
         "自由時報：不是芭樂票！陳素月晚會闢謠：65歲免健保費任內必推",
@@ -113,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "《傳產》北市大安區仍是豪宅交易核心 士林、北投佔比攀升",
       "summary": [
         "中時新聞：《傳產》北市大安區仍是豪宅交易核心 士林、北投佔比攀升",
@@ -134,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "臺股禁空令來了！金管會祭5大救市措施 下週一全面啟動",
       "summary": [
         "中時新聞：臺股禁空令來了！金管會祭5大救市措施 下週一全面啟動",
@@ -155,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "為白站臺！ 蔣萬安心疼柯受委屈：用選票拒絕政治追殺",
       "summary": [
         "中時新聞：為白站臺！ 蔣萬安心疼柯受委屈：用選票拒絕政治追殺",
@@ -176,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "伊朗盼外交終戰但堅持這紅線 川普：我們不要假協議",
       "summary": [
         "自由時報：伊朗盼外交終戰但堅持這紅線 川普：我們不要假協議",
@@ -197,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "不讓AI主宰戰場決策 美財長：美中領袖認同AI軍事應用底線",
       "summary": [
         "自由時報：不讓AI主宰戰場決策 美財長：美中領袖認同AI軍事應用底線",
@@ -214,6 +199,27 @@
           "source": "經濟日報",
           "title": "美中共識 軍事決策不全靠 AI",
           "url": "https://money.udn.com/money/story/5599/9893849"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "週日好天氣！清晨急凍「這地區」恐跌破10度",
+      "summary": [
+        "自由時報：週日好天氣！清晨急凍「這地區」恐跌破10度",
+        "ETtoday：快訊／2縣市低溫特報！　急凍跌破10度"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "週日好天氣！清晨急凍「這地區」恐跌破10度",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5648888"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／2縣市低溫特報！　急凍跌破10度",
+          "url": "https://www.ettoday.net/news/20261121/3276269.htm"
         }
       ]
     }
@@ -278,106 +284,106 @@
     },
     {
       "rank": 4,
-      "title": "日本外相談中美俄三國首腦會談 不認為中國是亞洲的霸權國家",
+      "title": "聯合國將在未來兩年討論制定殺手機器人管控機制",
       "summary": [
-        "法廣RFI：日本外相談中美俄三國首腦會談 不認為中國是亞洲的霸權國家"
+        "法廣RFI：聯合國將在未來兩年討論制定殺手機器人管控機制"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "日本外相談中美俄三國首腦會談 不認為中國是亞洲的霸權國家",
-          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261121-%E6%97%A5%E6%9C%AC%E5%A4%96%E7%9B%B8%E8%AB%87%E4%B8%AD%E7%BE%8E%E4%BF%84%E4%B8%89%E5%9C%8B%E9%A6%96%E8%85%A6%E6%9C%83%E8%AB%87-%E4%B8%8D%E8%AA%8D%E7%82%BA%E4%B8%AD%E5%9C%8B%E6%98%AF%E4%BA%9E%E6%B4%B2%E7%9A%84%E9%9C%B8%E6%AC%8A%E5%9C%8B%E5%AE%B6"
+          "title": "聯合國將在未來兩年討論制定殺手機器人管控機制",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261121-%E8%81%AF%E5%90%88%E5%9C%8B%E5%B0%87%E5%9C%A8%E6%9C%AA%E4%BE%86%E5%85%A9%E5%B9%B4%E8%A8%8E%E8%AB%96%E5%88%B6%E5%AE%9A%E6%AE%BA%E6%89%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E7%AE%A1%E6%8E%A7%E6%A9%9F%E5%88%B6"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "薩爾瓦多軍隊打擊幫派，海地人興奮但不安",
+      "title": "四屆女子將棋冠軍福間佳奈宣佈懷二胎",
       "summary": [
-        "The Guardian：薩爾瓦多軍隊打擊幫派，海地人興奮但不安"
+        "NHK新聞：四屆女子將棋冠軍福間佳奈宣佈懷二胎"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "The Guardian",
-          "title": "薩爾瓦多軍隊打擊幫派，海地人興奮但不安",
-          "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele"
+          "source": "NHK新聞",
+          "title": "四屆女子將棋冠軍福間佳奈宣佈懷二胎",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79734"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "收入升利潤跌 明基醫院經營壓力大",
+      "title": "速度滑冰世界盃帶廣錦標賽男子500m Kazusa Gunji，21歲，排名第6",
       "summary": [
-        "FT中文網：收入升利潤跌 明基醫院經營壓力大"
+        "NHK新聞：速度滑冰世界盃帶廣錦標賽男子500m Kazusa Gunji，21歲，排名第6"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "FT中文網",
-          "title": "收入升利潤跌 明基醫院經營壓力大",
-          "url": "https://www.ftchinese.com/story/001111393"
+          "source": "NHK新聞",
+          "title": "速度滑冰世界盃帶廣錦標賽男子500m Kazusa Gunji，21歲，排名第6",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79742"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "Anthropic 值 2 萬億美元還是 1.5 萬億美元？如何理解估值",
+      "title": "出口受阻後競相重新種植五株南非猴麵包樹",
       "summary": [
-        "WSJ Markets：Anthropic 值 2 萬億美元還是 1.5 萬億美元？如何理解估值"
+        "The Guardian：出口受阻後競相重新種植五株南非猴麵包樹"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "WSJ Markets",
-          "title": "Anthropic 值 2 萬億美元還是 1.5 萬億美元？如何理解估值",
-          "url": "https://www.wsj.com/finance/investing/is-anthropic-worth-1-1-trillion-or-1-5-trillion-how-to-make-sense-of-the-valuations-721b4df8?mod=rss_markets_main"
+          "source": "The Guardian",
+          "title": "出口受阻後競相重新種植五株南非猴麵包樹",
+          "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "今日股市，11 月 20 日：人工智慧交易平息，股市暴跌",
+      "title": "由於對科技和人工智慧的擔憂，美國股市跌入調整區間",
       "summary": [
-        "Yahoo Finance：今日股市，11 月 20 日：人工智慧交易平息，股市暴跌"
+        "Washington Post：由於對科技和人工智慧的擔憂，美國股市跌入調整區間"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "今日股市，11 月 20 日：人工智慧交易平息，股市暴跌",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVNTeWRtTnJjSGlzc21qVXEtMi1TZDFieWRkTGxRZ3hPV2Q5c0lHRWM5X2hvZmhRdnlWUWtUSUh4X1hncmRYXzBQYW1YOXZUdE13aDVxVXZwV3FwaHpIdUdEQ0hkcnBWQ2tRUHR4dUUyRVJpNElDdVdMbEp4alVsTnpvNl85SVkxRFBZZHJSUVM5SXFZ?oc=5"
+          "source": "Washington Post",
+          "title": "由於對科技和人工智慧的擔憂，美國股市跌入調整區間",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmlPb2NNTTRIVWI5NXJFQUd2MXNkdkFtNzIxODZMZjdEbVFsUWQyWjRQT1AxMUE5YS1nRnZ6U21mN0J1V21IVFFRZEthZms4bkM0MDRNQlR6RkRtcUp2aUJqTnQ2YlloTU9ObkpmLUs1NWgyUXpubUxndklKTElFbExrY3ZtamdWNEpRUG5lNGd2VVZZdHVIUHp3eU1Wc0RzenQ0YQ?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "西班牙將銀行稅延長至 2027 年，為住房政策提供資金",
+      "title": "公開，但只有一點點",
       "summary": [
-        "Investing.com：西班牙將銀行稅延長至 2027 年，為住房政策提供資金"
+        "Financial Times：公開，但只有一點點"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "西班牙將銀行稅延長至 2027 年，為住房政策提供資金",
-          "url": "https://www.investing.com/news/stock-market-news/spain-to-extend-banking-tax-through-2027-to-fund-housing-policies-5043370"
+          "source": "Financial Times",
+          "title": "公開，但只有一點點",
+          "url": "https://www.ft.com/content/c5bcb64e-35b8-40b8-842e-e4b5c9b3150d?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "最適合旅行的筆記型電腦（2026 年）：旅途中隨身攜帶的筆記型電腦",
+      "title": "為什麼大投資者在公寓貸款上燒錢",
       "summary": [
-        "Wired：最適合旅行的筆記型電腦（2026 年）：旅途中隨身攜帶的筆記型電腦"
+        "WSJ Markets：為什麼大投資者在公寓貸款上燒錢"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Wired",
-          "title": "最適合旅行的筆記型電腦（2026 年）：旅途中隨身攜帶的筆記型電腦",
-          "url": "https://www.wired.com/story/best-laptops-for-travel/"
+          "source": "WSJ Markets",
+          "title": "為什麼大投資者在公寓貸款上燒錢",
+          "url": "https://www.wsj.com/real-estate/commercial/why-big-investors-are-burning-lenders-on-apartment-loans-7129d849?mod=rss_markets_main"
         }
       ]
     }
