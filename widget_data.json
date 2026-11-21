@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 14:29",
+  "updated_at": "2026-11-21 14:56",
   "taiwan": [
     {
       "rank": 1,
@@ -239,27 +239,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "為什麼高盛股價今天下跌？",
-      "summary": [
-        "Investing.com：為什麼高盛股價今天下跌？",
-        "Yahoo Finance：為什麼英偉達股價今天下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "為什麼高盛股價今天下跌？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-goldman-sachs-stock-sliding-today-93CH-5042387"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "為什麼英偉達股價今天下跌",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTTIwSEsyUnFmSERReEVhMXhlZ3RKZFQ1anFxYklTWnJLR09LR0JMZ1dWNHBlMGpuRUZfMllGVUpDNDdOcGNlSUt2TnVmbFREWXFoWmUwWVRQX3Y4a1BRVWxCakdPUlR5T2h5ZjlRcjRMOUxWNU9rZGhlZlpjMUlON1RaYXJyQ0hHejJ4al9FWF9qYVlFd0Vv?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "CrowdStrike 正在洽談收購網路安全公司 Zscaler",
       "summary": [
         "Bloomberg Markets：CrowdStrike 正在洽談收購網路安全公司 Zscaler",
@@ -280,28 +259,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "川普威脅將人工智慧資料中心移至美國境外“巨額稅”",
-      "summary": [
-        "The Verge：川普威脅將人工智慧資料中心移至美國境外“巨額稅”",
-        "Financial Times：唐納德·特朗普威脅對美國境外建造的資料中心徵收“巨額”稅"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "川普威脅將人工智慧資料中心移至美國境外“巨額稅”",
-          "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
-        },
-        {
-          "source": "Financial Times",
-          "title": "唐納德·特朗普威脅對美國境外建造的資料中心徵收“巨額”稅",
-          "url": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "title": "川普表示黃仁勳應該道歉並返回英偉達",
       "summary": [
         "Investing.com：川普表示黃仁勳應該道歉並返回英偉達",
@@ -322,49 +280,49 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "‘Grand Theft Auto VI’ Sells $3.79 Billion, Making It Biggest Entertainment Launch Ever",
+      "rank": 3,
+      "title": "根據彭博社報道，YouTube 即將與美國學區就成癮指控達成 30 億美元和解",
       "summary": [
-        "Bloomberg Tech：‘Grand Theft Auto VI’ Sells $3.79 Billion, Making It Biggest Entertainment Launch Ever",
-        "Investing.com：Grand Theft Auto VI 首次亮相，銷售額 $3.79B，創下娛樂紀錄"
+        "Investing.com：根據彭博社報道，YouTube 即將與美國學區就成癮指控達成 30 億美元和解",
+        "The Verge：據報道，YouTube 準備以 30 億美元和解社群媒體成癮索賠"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "‘Grand Theft Auto VI’ Sells $3.79 Billion, Making It Biggest Entertainment Launch Ever",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-20/-grand-theft-auto-vi-sells-3-79-billion-making-it-biggest-entertainment-launch-ever"
+          "source": "Investing.com",
+          "title": "根據彭博社報道，YouTube 即將與美國學區就成癮指控達成 30 億美元和解",
+          "url": "https://www.investing.com/news/stock-market-news/youtube-nears-3-billion-settlement-with-us-school-districts-over-addiction-claims-bloomberg-news-reports-5042475"
+        },
+        {
+          "source": "The Verge",
+          "title": "據報道，YouTube 準備以 30 億美元和解社群媒體成癮索賠",
+          "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Rockstar稱《GTA VI》首日票房達37.9億美元",
+      "summary": [
+        "The Verge：Rockstar稱《GTA VI》首日票房達37.9億美元",
+        "Investing.com：GTA VI 發售首日銷售額創紀錄 37.9 億美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "Rockstar稱《GTA VI》首日票房達37.9億美元",
+          "url": "https://www.theverge.com/games/1036279/gta-vi-sales"
         },
         {
           "source": "Investing.com",
-          "title": "Grand Theft Auto VI 首次亮相，銷售額 $3.79B，創下娛樂紀錄",
-          "url": "https://www.investing.com/news/stock-market-news/grand-theft-auto-vi-debuts-with-379b-in-sales-setting-entertainment-record-5042498"
+          "title": "GTA VI 發售首日銷售額創紀錄 37.9 億美元",
+          "url": "https://www.investing.com/news/stock-market-news/gta-vi-books-record-379-billion-in-sales-on-first-day-of-launch-5042496"
         }
       ]
     },
     {
-      "rank": 6,
-      "title": "Nvidia stock plunges 12%, rides longest weekly losing streak since 2008 financial crisis",
-      "summary": [
-        "CNBC：Nvidia stock plunges 12%, rides longest weekly losing streak since 2008 financial crisis",
-        "Yahoo Finance：Nvidia Stock Plunges 12% After Reuters Reports an SEC Probe of Its Accounting. It’s Nvidia’s Worst Day Since DeepSeek and It Has Lost $2.7 Trillion Since October"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "Nvidia stock plunges 12%, rides longest weekly losing streak since 2008 financial crisis",
-          "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Nvidia Stock Plunges 12% After Reuters Reports an SEC Probe of Its Accounting. It’s Nvidia’s Worst Day Since DeepSeek and It Has Lost $2.7 Trillion Since October",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNek83Um5vdUVIV3dWb2FVZlZSemZJUmh3Zkt6cUxiYUgxVjJzS3k4Z3lRWEhFRzZ4THRWVTlvSzR6TFVPaDVLYVlIV2Q1alRwODNZNndjQnctNFNmcTJGamk1LWR2bl9oMktRWThaeURldFFJRnowaXE4Nzd1T2hUaFpDSVQ2dlZ1TEVVU3EzOXg1STRmWmRQbDZRNU8?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "川普稱美國將懲罰在海外建造資料中心的公司",
       "summary": [
         "Nikkei Asia：川普稱美國將懲罰在海外建造資料中心的公司",
@@ -385,7 +343,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "拜耳 72.5 億美元的農達和解協議獲得法官批准",
       "summary": [
         "Bloomberg Markets：拜耳 72.5 億美元的農達和解協議獲得法官批准",
@@ -406,7 +364,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "丹麥指責俄羅斯企圖暗殺一名烏克蘭說唱歌手",
       "summary": [
         "法廣RFI：丹麥指責俄羅斯企圖暗殺一名烏克蘭說唱歌手",
@@ -427,7 +385,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "根據《華爾街日報》報道，Wonder 探索出售送貨服務 Grubhub",
       "summary": [
         "Bloomberg Tech：根據《華爾街日報》報道，Wonder 探索出售送貨服務 Grubhub",
@@ -444,6 +402,42 @@
           "source": "Investing.com",
           "title": "根據《華爾街日報》報道，Wonder 正在探索出售 Grubhub",
           "url": "https://www.investing.com/news/stock-market-news/wonder-explores-sale-of-grubhub-wall-street-journal-reports-5042912"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "秘魯M6.7地震；國家海洋暨大氣總署沒有海嘯威脅",
+      "summary": [
+        "NHK新聞：秘魯M6.7地震；國家海洋暨大氣總署沒有海嘯威脅",
+        "Bloomberg Markets：秘魯發生6.7級地震，暫無傷亡報告"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "秘魯M6.7地震；國家海洋暨大氣總署沒有海嘯威脅",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79540"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "秘魯發生6.7級地震，暫無傷亡報告",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/peru-rattled-by-6-7-magnitude-quake-with-no-casualties-reported"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "福特、本田、Stellantis 和大眾就法律起訴新澤西州",
+      "summary": [
+        "Investing.com：福特、本田、Stellantis 和大眾就法律起訴新澤西州"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "福特、本田、Stellantis 和大眾就法律起訴新澤西州",
+          "url": "https://www.investing.com/news/stock-market-news/ford-honda-stellantis-and-volkswagen-sue-new-jersey-over-law-93CH-5042541"
         }
       ]
     }
