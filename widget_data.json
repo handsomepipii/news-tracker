@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 09:27",
+  "updated_at": "2026-11-21 09:57",
   "taiwan": [
     {
       "rank": 1,
@@ -78,22 +78,22 @@
     },
     {
       "rank": 4,
-      "title": "紐時記者：輝達晶片流入共軍實驗室　協助攻臺研究",
+      "title": "秘魯發生規模6.7強震 首都居民驚慌逃到室外",
       "summary": [
-        "經濟日報：紐時記者：輝達晶片流入共軍實驗室　協助攻臺研究",
-        "ETtoday：紐時：輝達晶片流入共軍實驗室　協助攻臺研究"
+        "自由時報：秘魯發生規模6.7強震 首都居民驚慌逃到室外",
+        "經濟日報：影／秘魯規模6.7強震！民眾驚慌逃上街頭 新聞主播淡定播報"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "紐時記者：輝達晶片流入共軍實驗室　協助攻臺研究",
-          "url": "https://money.udn.com/money/story/5599/9892207"
+          "source": "自由時報",
+          "title": "秘魯發生規模6.7強震 首都居民驚慌逃到室外",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5648333"
         },
         {
-          "source": "ETtoday",
-          "title": "紐時：輝達晶片流入共軍實驗室　協助攻臺研究",
-          "url": "https://www.ettoday.net/news/20261120/3275786.htm"
+          "source": "經濟日報",
+          "title": "影／秘魯規模6.7強震！民眾驚慌逃上街頭 新聞主播淡定播報",
+          "url": "https://money.udn.com/money/story/5599/9892764"
         }
       ]
     },
@@ -227,33 +227,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
-      "summary": [
-        "Bloomberg Markets：Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
-        "MarketWatch：Anthropic 股價逼近 IPO 價格，拖累人工智慧產業",
-        "Bloomberg Tech：Anthropic IPO 考驗人工智慧投資者的胃口"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic IPO 即時更新：人工智慧貿易擔憂擾亂市場，股市下跌",
-          "url": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "Anthropic 股價逼近 IPO 價格，拖累人工智慧產業",
-          "url": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic IPO 考驗人工智慧投資者的胃口",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-ipo-tests-ai-investor-appetite-video"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "YouTube 與學校達成數十億美元的成癮索賠和解協議",
       "summary": [
         "Bloomberg Tech：YouTube 與學校達成數十億美元的成癮索賠和解協議",
@@ -280,18 +253,18 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "為什麼 Elastic 股票今天下跌？",
+      "rank": 2,
+      "title": "為什麼貝利特生物股票今天下跌？",
       "summary": [
-        "Investing.com：為什麼 Elastic 股票今天下跌？",
+        "Investing.com：為什麼貝利特生物股票今天下跌？",
         "Yahoo Finance：為什麼英偉達股價今天下跌"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Investing.com",
-          "title": "為什麼 Elastic 股票今天下跌？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-elastic-stock-sliding-today-93CH-5041748"
+          "title": "為什麼貝利特生物股票今天下跌？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-belite-bio-stock-sliding-today-93CH-5042122"
         },
         {
           "source": "Yahoo Finance",
@@ -301,7 +274,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "隨著人工智慧巨頭遭遇科技股拋售，Anthrotic 股價暴跌",
       "summary": [
         "Financial Times：隨著人工智慧巨頭遭遇科技股拋售，Anthrotic 股價暴跌",
@@ -322,7 +295,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "為什麼亞德尼會將人工智慧拋售視為買入機會",
       "summary": [
         "Investing.com：為什麼亞德尼會將人工智慧拋售視為買入機會",
@@ -343,7 +316,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "CrowdStrike 正在洽談收購網路安全公司 Zscaler",
       "summary": [
         "Bloomberg Markets：CrowdStrike 正在洽談收購網路安全公司 Zscaler",
@@ -364,7 +337,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "SpaceX 子公司 Cursor 告訴立法者，它正在考慮逐步淘汰中國人工智慧模型",
       "summary": [
         "CNBC：SpaceX 子公司 Cursor 告訴立法者，它正在考慮逐步淘汰中國人工智慧模型",
@@ -385,7 +358,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "市場上的人工智慧熱潮正在打破",
       "summary": [
         "Financial Times：市場上的人工智慧熱潮正在打破",
@@ -406,7 +379,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "比特幣跌破 60,000 美元水平",
       "summary": [
         "Investing.com：比特幣跌破 60,000 美元水平",
@@ -427,7 +400,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "人擇數學家聲稱已經與克勞德解決了久負盛名的千禧年獎問題",
       "summary": [
         "The Verge：人擇數學家聲稱已經與克勞德解決了久負盛名的千禧年獎問題",
@@ -444,6 +417,27 @@
           "source": "Tom's Hardware",
           "title": "人擇數學家聲稱與克勞德一起解決了167年前的數學難題",
           "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "KKR 正在洽談以至少 80 億美元的估值收購 EdgeCore",
+      "summary": [
+        "Bloomberg Markets：KKR 正在洽談以至少 80 億美元的估值收購 EdgeCore",
+        "Investing.com：KKR考慮以80億至100億美元收購Partners Group的EdgeCore"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "KKR 正在洽談以至少 80 億美元的估值收購 EdgeCore",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/kkr-in-talks-to-buy-edgecore-at-valuation-of-at-least-8-billion"
+        },
+        {
+          "source": "Investing.com",
+          "title": "KKR考慮以80億至100億美元收購Partners Group的EdgeCore",
+          "url": "https://www.investing.com/news/stock-market-news/kkr-weighs-8b-to-10b-deal-for-partners-groups-edgecore--bloomberg-5042338"
         }
       ]
     }
