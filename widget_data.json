@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 05:56",
+  "updated_at": "2026-11-22 06:26",
   "taiwan": [
     {
       "rank": 1,
@@ -30,27 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "明晨防10度以下低溫　下週二起北部有雨",
-      "summary": [
-        "ETtoday：明晨防10度以下低溫　下週二起北部有雨",
-        "TVBS新聞：天氣/ 還沒冷完! 明晨「區域性低溫10度」 下週二北東雨增｜氣象主播張蕙纖｜午間氣象｜TVBS新聞20261121 @TVBSNEWS01 │ TVBS新聞網"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "明晨防10度以下低溫　下週二起北部有雨",
-          "url": "https://www.ettoday.net/news/20261121/3276142.htm"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "天氣/ 還沒冷完! 明晨「區域性低溫10度」 下週二北東雨增｜氣象主播張蕙纖｜午間氣象｜TVBS新聞20261121 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZNEJ4NGYxX2VFelAtWWhXSHlQZXNVR1ZNQzRidkhDd3oxQWhGM2pDWEZRVWdxS29ZQ01pRGhJaWE3NjJUZlF1dTAxUzE4RnA3VTVqRWdn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "讓世界看見輔大、看見臺灣！亞太天主教大學運動會明開幕",
       "summary": [
         "自由時報：讓世界看見輔大、看見臺灣！亞太天主教大學運動會明開幕",
@@ -71,7 +50,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "東帝汶外海強震　德國地球科學研究中心：規模6.8",
       "summary": [
         "經濟日報：東帝汶外海強震　德國地球科學研究中心：規模6.8",
@@ -92,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "帥男喝爛醉！信義飢渴妹叫車載回家「整根含住」　他清醒嚇壞報警",
       "summary": [
         "ETtoday：帥男喝爛醉！信義飢渴妹叫車載回家「整根含住」　他清醒嚇壞報警",
@@ -113,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "不是芭樂票！陳素月晚會闢謠：65歲免健保費任內必推",
       "summary": [
         "自由時報：不是芭樂票！陳素月晚會闢謠：65歲免健保費任內必推",
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "《傳產》北市大安區仍是豪宅交易核心 士林、北投佔比攀升",
       "summary": [
         "中時新聞：《傳產》北市大安區仍是豪宅交易核心 士林、北投佔比攀升",
@@ -155,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "臺股禁空令來了！金管會祭5大救市措施 下週一全面啟動",
       "summary": [
         "中時新聞：臺股禁空令來了！金管會祭5大救市措施 下週一全面啟動",
@@ -176,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "為白站臺！ 蔣萬安心疼柯受委屈：用選票拒絕政治追殺",
       "summary": [
         "中時新聞：為白站臺！ 蔣萬安心疼柯受委屈：用選票拒絕政治追殺",
@@ -193,6 +172,27 @@
           "source": "ETtoday",
           "title": "心疼柯文哲遭逢委屈　蔣萬安登民眾黨造勢：用選票拒絕政治追殺",
           "url": "https://www.ettoday.net/news/20261121/3276240.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "伊朗盼外交終戰但堅持這紅線 川普：我們不要假協議",
+      "summary": [
+        "自由時報：伊朗盼外交終戰但堅持這紅線 川普：我們不要假協議",
+        "ETtoday：川普仍有意與伊朗達成永久協議：不在乎政權更迭但絕不容許擁核"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "伊朗盼外交終戰但堅持這紅線 川普：我們不要假協議",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5649064"
+        },
+        {
+          "source": "ETtoday",
+          "title": "川普仍有意與伊朗達成永久協議：不在乎政權更迭但絕不容許擁核",
+          "url": "https://www.ettoday.net/news/20261122/3276281.htm"
         }
       ]
     },
@@ -278,96 +278,6 @@
     },
     {
       "rank": 4,
-      "title": "法國民眾連續第六個週六抗議示威，議會透過新法案將執法人員使用槍支推定為“依法行事”",
-      "summary": [
-        "法廣RFI：法國民眾連續第六個週六抗議示威，議會透過新法案將執法人員使用槍支推定為“依法行事”"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "法國民眾連續第六個週六抗議示威，議會透過新法案將執法人員使用槍支推定為“依法行事”",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261121-%E6%B3%95%E5%9C%8B%E6%B0%91%E7%9C%BE%E9%80%A3%E7%BA%8C%E7%AC%AC%E5%85%AD%E5%80%8B%E5%91%A8%E5%85%AD%E6%8A%97%E8%AD%B0%E7%A4%BA%E5%A8%81%EF%BC%8C%E8%AD%B0%E6%9C%83%E9%80%9A%E9%81%8E%E6%96%B0%E6%B3%95%E6%A1%88%E5%B0%87%E5%9F%B7%E6%B3%95%E4%BA%BA%E5%93%A1%E4%BD%BF%E7%94%A8%E6%A7%8D%E6%94%AF%E6%8E%A8%E5%AE%9A%E7%82%BA-%E4%BE%9D%E6%B3%95%E8%A1%8C%E4%BA%8B"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "中國致力於低碳電氣化並幫助其他國家改善",
-      "summary": [
-        "The Guardian：中國致力於低碳電氣化並幫助其他國家改善"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "中國致力於低碳電氣化並幫助其他國家改善",
-          "url": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "瑞銀評估全國範圍內的地面停靠對美國航空公司第四季前景的影響",
-      "summary": [
-        "Investing.com：瑞銀評估全國範圍內的地面停靠對美國航空公司第四季前景的影響"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "瑞銀評估全國範圍內的地面停靠對美國航空公司第四季前景的影響",
-          "url": "https://www.investing.com/news/stock-market-news/ubs-assesses-impact-of-nationwide-ground-stop-on-us-airlines-4q-outlook-5043328"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "17 件給恩什託世女性的最佳禮物 (2026)",
-      "summary": [
-        "Wired：17 件給恩什託世女性的最佳禮物 (2026)"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Wired",
-          "title": "17 件給恩什託世女性的最佳禮物 (2026)",
-          "url": "https://www.wired.com/story/best-gifts-for-women/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Manosphere 尚未為 Brothercore 做好準備",
-      "summary": [
-        "Wired：Manosphere 尚未為 Brothercore 做好準備"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Wired",
-          "title": "Manosphere 尚未為 Brothercore 做好準備",
-          "url": "https://www.wired.com/story/hey-brother-house-manosphere-content/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "華碩 ROG Strix Scope II 96 遊戲鍵盤在黑色星期五早期促銷中跌至歷史最低價",
-      "summary": [
-        "Tom's Hardware：華碩 ROG Strix Scope II 96 遊戲鍵盤在黑色星期五早期促銷中跌至歷史最低價"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Tom's Hardware",
-          "title": "華碩 ROG Strix Scope II 96 遊戲鍵盤在黑色星期五早期促銷中跌至歷史最低價",
-          "url": "https://www.tomshardware.com/peripherals/gaming-keyboards/asus-rog-strix-scope-ii-96-gaming-keyboard-crashes-to-all-time-low-in-early-black-friday-offer-grab-39-percent-off-a-premium-board-packed-full-of-features"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "「藍白合」示範區：新竹市選情如何透露臺灣第三勢力的未來？",
       "summary": [
         "BBC中文：「藍白合」示範區：新竹市選情如何透露臺灣第三勢力的未來？"
@@ -378,6 +288,96 @@
           "source": "BBC中文",
           "title": "「藍白合」示範區：新竹市選情如何透露臺灣第三勢力的未來？",
           "url": "https://www.bbc.com/zhongwen/articles/cme3d27d7lnpo/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "俄羅斯導彈落入波蘭 北約秘書長：這是“嚴重侵犯”",
+      "summary": [
+        "德國之聲：俄羅斯導彈落入波蘭 北約秘書長：這是“嚴重侵犯”"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "俄羅斯導彈落入波蘭 北約秘書長：這是“嚴重侵犯”",
+          "url": "https://www.dw.com/zh/俄罗斯导弹落入波兰-北约秘书长：这是-严重侵犯/a-80008999?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "皮克敏手遊「中國臺灣」爭議與個資疑慮 引發臺灣玩家退坑潮",
+      "summary": [
+        "法廣RFI：皮克敏手遊「中國臺灣」爭議與個資疑慮 引發臺灣玩家退坑潮"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "皮克敏手遊「中國臺灣」爭議與個資疑慮 引發臺灣玩家退坑潮",
+          "url": "https://www.rfi.fr/tw/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261121-%E7%9A%AE%E5%85%8B%E6%95%8F%E6%89%8B%E6%B8%B8-%E4%B8%AD%E5%9C%8B%E5%8F%B0%E7%81%A3-%E7%88%AD%E8%AD%B0%E8%88%87%E5%80%8B%E8%B3%87%E7%96%91%E6%85%AE-%E5%BC%95%E7%99%BC%E5%8F%B0%E7%81%A3%E7%8E%A9%E5%AE%B6%E9%80%80%E5%9D%91%E6%BD%AE"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "中國計劃加強算力推動方面的AI代幣標準",
+      "summary": [
+        "Bloomberg Tech：中國計劃加強算力推動方面的AI代幣標準"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "中國計劃加強算力推動方面的AI代幣標準",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "人工智慧拋售導緻美股大幅下跌；標準普爾 500 指數、道瓊斯指數正在調整",
+      "summary": [
+        "Nikkei Asia：人工智慧拋售導緻美股大幅下跌；標準普爾 500 指數、道瓊斯指數正在調整"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "人工智慧拋售導緻美股大幅下跌；標準普爾 500 指數、道瓊斯指數正在調整",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQUhxa2dwdW5DN1pNRDdpbTMyWGo0amZ2SHFkdy1VMmc2UzdkdTVYWnFEVGp0dVZRT3ZPVGFXa3Y3LTUxYm5uWVhuZEtLOElaM3RRLUFDQmJ3d0JCN3gtWGNsYTFWTFc5blVucjNJYU1OX2wtbklkaWVNQ0YydGNVenBwdzVOQUxrenROWHI0bHY3SjRhZG51NWJkTFdIbFM3eWEtMmRiT2ZVZkRPdVRabVYtT0hDWURN?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "隨著各國應對全球暖化，氣候談判陷入加時",
+      "summary": [
+        "Nikkei Asia：隨著各國應對全球暖化，氣候談判陷入加時"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "隨著各國應對全球暖化，氣候談判陷入加時",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzJzUWJFU1llMlA1cXBnMk1nZzByX2lEMXItQ21UUmRyRUhNSmJzT1Q2eHhLVXJuWTc3TjZ1b2VjaGRCX1JEdDBBS1ZHTmdvdVVmSzhYRHE5NmVuYjlzNXNkQ01JSG44WWZnNHF5bi1JaXBCcEhFOE5YTi1MQ3EtamZ1LXM5Z1JIRGJMc0l6Y3YzWWktdjZXMDJpMnMzQ3g3THQ3aHZPSDJJT3p3NXBqQXE1dFFqN1dhV2MxaDJxek9OMGps?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "閃迪 512GB MicroSD Express 在亞馬遜黑色星期五促銷活動中將 Switch 2 儲存大幅削減 24% — 由於儲存緊張，價格跌破 100 美元",
+      "summary": [
+        "Tom's Hardware：閃迪 512GB MicroSD Express 在亞馬遜黑色星期五促銷活動中將 Switch 2 儲存大幅削減 24% — 由於儲存緊張，價格跌破 100 美元"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "閃迪 512GB MicroSD Express 在亞馬遜黑色星期五促銷活動中將 Switch 2 儲存大幅削減 24% — 由於儲存緊張，價格跌破 100 美元",
+          "url": "https://www.tomshardware.com/pc-components/microsd-cards/sandisk-512gb-microsd-express-deal-slashes-switch-2-storage-by-24-percent-in-amazon-black-friday-offer-price-hits-under-usd100-amid-storage-squeeze"
         }
       ]
     }
