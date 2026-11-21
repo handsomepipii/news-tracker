@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-22 01:26",
+  "updated_at": "2026-11-22 01:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "楊烈力挺山田摩衣 新北板橋車掃催票拚連任",
+      "title": "「最強會長」南下助攻！蔡其昌陪梁育慈屏東車掃",
       "summary": [
-        "自由時報：楊烈力挺山田摩衣 新北板橋車掃催票拚連任",
+        "自由時報：「最強會長」南下助攻！蔡其昌陪梁育慈屏東車掃",
         "公視新聞：蔣萬安發「光榮臺北」明信片 沈伯洋赴臺中合體何欣純造勢",
-        "ETtoday：快訊／柯志恩鳳山造勢大咖歌手輪番獻唱　3萬人大舞廳畫面曝"
+        "ETtoday：HBL松山、光復連勝攜手進12強！高苑奪勝保住「南臺灣希望」"
       ],
       "media_count": 3,
       "links": [
         {
           "source": "自由時報",
-          "title": "楊烈力挺山田摩衣 新北板橋車掃催票拚連任",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648574"
+          "title": "「最強會長」南下助攻！蔡其昌陪梁育慈屏東車掃",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648611"
         },
         {
           "source": "公視新聞",
@@ -23,8 +23,8 @@
         },
         {
           "source": "ETtoday",
-          "title": "快訊／柯志恩鳳山造勢大咖歌手輪番獻唱　3萬人大舞廳畫面曝",
-          "url": "https://www.ettoday.net/news/20261121/3276196.htm"
+          "title": "HBL松山、光復連勝攜手進12強！高苑奪勝保住「南臺灣希望」",
+          "url": "https://sports.ettoday.net/news/3276257"
         }
       ]
     },
@@ -242,6 +242,27 @@
     },
     {
       "rank": 2,
+      "title": "據報道，聯邦調查局正在調查其犯罪資料庫明顯遭到駭客攻擊",
+      "summary": [
+        "BBC World：據報道，聯邦調查局正在調查其犯罪資料庫明顯遭到駭客攻擊",
+        "The Verge：據報道，聯邦調查局和美國農業部遭到駭客攻擊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "據報道，聯邦調查局正在調查其犯罪資料庫明顯遭到駭客攻擊",
+          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Verge",
+          "title": "據報道，聯邦調查局和美國農業部遭到駭客攻擊",
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "分析：為什麼中國不願承擔氣候領導角色？",
       "summary": [
         "德國之聲：分析：為什麼中國不願承擔氣候領導角色？",
@@ -262,7 +283,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Hostinger 優惠碼：2026年11月 85%折扣",
       "summary": [
         "Wired：Hostinger 優惠碼：2026年11月 85%折扣"
@@ -277,7 +298,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "普丁從川普和習近平峰會中獲益",
       "summary": [
         "Bloomberg Markets：普丁從川普和習近平峰會中獲益"
@@ -292,52 +313,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "中國最高規劃師尋求加速國家專案建設",
-      "summary": [
-        "Bloomberg Markets：中國最高規劃師尋求加速國家專案建設"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "中國最高規劃師尋求加速國家專案建設",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-s-top-planner-seeks-faster-construction-of-state-projects"
-        }
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Age 表示，澳洲能源官員警告資料中心風險",
-      "summary": [
-        "Bloomberg Markets：Age 表示，澳洲能源官員警告資料中心風險"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Age 表示，澳洲能源官員警告資料中心風險",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-21/australian-energy-officials-warned-of-data-center-risk-age-says"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "據報道，美國證券交易委員會 (SEC) 對其會計進行調查，英偉達 (Nvidia) 股價一日暴跌近 5000 億美元",
-      "summary": [
-        "Yahoo Finance：據報道，美國證券交易委員會 (SEC) 對其會計進行調查，英偉達 (Nvidia) 股價一日暴跌近 5000 億美元"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "據報道，美國證券交易委員會 (SEC) 對其會計進行調查，英偉達 (Nvidia) 股價一日暴跌近 5000 億美元",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWFQUldJZnVhd3djV1YwODFlN1FHamxJNVZENFJfRUZ1X29GRUdFTnZNRkVRTFF4T0R5azFKVVpBSEloRko5clVoeEQtSlBiTkt1OHJOVEJNWjZJZXozR1d1UGg1MUFNeHMtU21kSWZxYzdEdm80VEhfaVEwMjdXMFY1Mk85d0xUNUFfZ1dRWTY5aG5Zb3NjaUlVaXZsQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "諾貝爾化學獎得主索艾先生出席瑞典駐華使館慶祝晚會",
       "summary": [
         "NHK新聞：諾貝爾化學獎得主索艾先生出席瑞典駐華使館慶祝晚會"
@@ -352,7 +328,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "輸入 Mercari AI 的個人資訊外洩或“基於清單的攻擊”",
       "summary": [
         "NHK新聞：輸入 Mercari AI 的個人資訊外洩或“基於清單的攻擊”"
@@ -367,17 +343,47 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "自民黨幹事長鈴木回應文部科學大臣質詢“優先透過消費稅法案等”",
+      "rank": 8,
+      "title": "自民黨幹事長鈴木回應關的質詢，「優先考慮消費稅法案等的透過」。",
       "summary": [
-        "NHK新聞：自民黨幹事長鈴木回應文部科學大臣質詢“優先透過消費稅法案等”"
+        "NHK新聞：自民黨幹事長鈴木回應關的質詢，「優先考慮消費稅法案等的透過」。"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "自民黨幹事長鈴木回應文部科學大臣質詢“優先透過消費稅法案等”",
+          "title": "自民黨幹事長鈴木回應關的質詢，「優先考慮消費稅法案等的透過」。",
           "url": "https://news.web.nhk/newsweb/na/nd-20261121de79553"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "五角大廈監管機構將審計與國防科技新創企業的交易",
+      "summary": [
+        "Washington Post：五角大廈監管機構將審計與國防科技新創企業的交易"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "五角大廈監管機構將審計與國防科技新創企業的交易",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2ljbUJ2WkRpSnFueGcwQU9qcTlhb3oxc09Zby15RHZIUUZ2eUdHRllHcG5ZOWVTTzJYTExaaUg4Nk5Mdkh3cWN1aTRFZW53ejluR2lTdTVRVXFfQk4xV0hRTENGX2ZDY3JmS1pPNFB2QkprRldEU055eHdZMkdCM2xqcjJZOWZxeHJNVUFCRncwZnd1MDNCY2ZBdlEzZG44MlZGQVZzbXJCbHlNaEE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Therabody 促銷程式碼：2026 年 11 月 15% 折扣",
+      "summary": [
+        "Wired：Therabody 促銷程式碼：2026 年 11 月 15% 折扣"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Wired",
+          "title": "Therabody 促銷程式碼：2026 年 11 月 15% 折扣",
+          "url": "https://www.wired.com/story/therabody-promo-code/"
         }
       ]
     }
