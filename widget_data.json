@@ -1,83 +1,35 @@
 {
-  "updated_at": "2026-11-22 00:56",
+  "updated_at": "2026-11-22 01:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "蔣萬安發「光榮臺北」明信片沈伯洋赴臺中合體何欣純造勢｜20261121 公視早安新聞｜ 公視新聞PNN",
+      "title": "楊烈力挺山田摩衣 新北板橋車掃催票拚連任",
       "summary": [
-        "公視新聞：蔣萬安發「光榮臺北」明信片沈伯洋赴臺中合體何欣純造勢｜20261121 公視早安新聞｜ 公視新聞PNN",
-        "ETtoday：快訊／柯志恩鳳山造勢大咖歌手輪番獻唱　3萬人大舞廳畫面曝",
-        "自由時報：11/21 今彩539頭獎開1注！800萬獎落新北"
+        "自由時報：楊烈力挺山田摩衣 新北板橋車掃催票拚連任",
+        "公視新聞：蔣萬安發「光榮臺北」明信片 沈伯洋赴臺中合體何欣純造勢",
+        "ETtoday：快訊／柯志恩鳳山造勢大咖歌手輪番獻唱　3萬人大舞廳畫面曝"
       ],
       "media_count": 3,
       "links": [
         {
+          "source": "自由時報",
+          "title": "楊烈力挺山田摩衣 新北板橋車掃催票拚連任",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648574"
+        },
+        {
           "source": "公視新聞",
-          "title": "蔣萬安發「光榮臺北」明信片沈伯洋赴臺中合體何欣純造勢｜20261121 公視早安新聞｜ 公視新聞PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ITTVWWXhuZHhUakozcDJJd01NSllnNHhPTTk2eEVuOVpNSnRCbk5rbmJjMXQ0RVRfbHlTcDVGSjFSekNBNWgxM3JiVQ?oc=5"
+          "title": "蔣萬安發「光榮臺北」明信片 沈伯洋赴臺中合體何欣純造勢",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1dnFVZ3AzWW1kMktZdnRFdHZSb3AtVDZnSkFidHhXMkthamFPOU1FaWh0djhoYW5qajd4OERwWHZ5UGFlalNfWExzY3o3dE0?oc=5"
         },
         {
           "source": "ETtoday",
           "title": "快訊／柯志恩鳳山造勢大咖歌手輪番獻唱　3萬人大舞廳畫面曝",
           "url": "https://www.ettoday.net/news/20261121/3276196.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "11/21 今彩539頭獎開1注！800萬獎落新北",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5649097"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "數學界百年謎題被攻克？傳 AI 破解黎曼猜想 另一數學家也提證明",
-      "summary": [
-        "經濟日報：數學界百年謎題被攻克？傳 AI 破解黎曼猜想 另一數學家也提證明",
-        "INSIDE硬塞：Anthropic 數學家攜手 Claude 宣稱破解 167 年黎曼猜想，人類數學家也提出證明",
-        "ETtoday：AI破解167年世紀難題？　數學家宣稱：用Claude證明「黎曼猜想」"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "數學界百年謎題被攻克？傳 AI 破解黎曼猜想 另一數學家也提證明",
-          "url": "https://money.udn.com/money/story/5599/9893127"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "Anthropic 數學家攜手 Claude 宣稱破解 167 年黎曼猜想，人類數學家也提出證明",
-          "url": "https://www.inside.com.tw/article/42976-anthropic-claude-ai-riemann-hypothesis-proof"
-        },
-        {
-          "source": "ETtoday",
-          "title": "AI破解167年世紀難題？　數學家宣稱：用Claude證明「黎曼猜想」",
-          "url": "https://www.ettoday.net/news/20261121/3276141.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "《黑白清道夫》反派男神私下超反差！　自彈鋼琴畫面曝光網暈船",
-      "summary": [
-        "ETtoday：《黑白清道夫》反派男神私下超反差！　自彈鋼琴畫面曝光網暈船",
-        "中時新聞：《黑白清道夫》超帥反派被起底！孫麥傑反差萌「文青彈鋼琴」電暈粉"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "《黑白清道夫》反派男神私下超反差！　自彈鋼琴畫面曝光網暈船",
-          "url": "https://star.ettoday.net/news/3275981"
-        },
-        {
-          "source": "中時新聞",
-          "title": "《黑白清道夫》超帥反派被起底！孫麥傑反差萌「文青彈鋼琴」電暈粉",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fVUZyTk5NZ1dwWEUxX3d0MUlLZWJLNlJrbUtaSmpzRUhuYUg0RlhWRlE4YTRxNlJONl9CQ1phdmRjVDMwdHNVR3BFWlNDcVMyNThNaUdHRmY2ZFRNWVkxUUE1SFVwaDVsREJLdWR3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "郵局ATM領錢不怕再被看到餘額！按一鍵才能顯示資訊",
       "summary": [
         "自由時報：郵局ATM領錢不怕再被看到餘額！按一鍵才能顯示資訊",
@@ -98,7 +50,28 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "title": "Anthropic 數學家攜手 Claude 宣稱破解 167 年黎曼猜想，人類數學家也提出證明",
+      "summary": [
+        "INSIDE硬塞：Anthropic 數學家攜手 Claude 宣稱破解 167 年黎曼猜想，人類數學家也提出證明",
+        "ETtoday：AI破解167年世紀難題？　數學家宣稱：用Claude證明「黎曼猜想」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "INSIDE硬塞",
+          "title": "Anthropic 數學家攜手 Claude 宣稱破解 167 年黎曼猜想，人類數學家也提出證明",
+          "url": "https://www.inside.com.tw/article/42976-anthropic-claude-ai-riemann-hypothesis-proof"
+        },
+        {
+          "source": "ETtoday",
+          "title": "AI破解167年世紀難題？　數學家宣稱：用Claude證明「黎曼猜想」",
+          "url": "https://www.ettoday.net/news/20261121/3276141.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "臺中榮總名醫鄒錫凱涉收醫材回扣被押  即日起停職並免兼主管",
       "summary": [
         "自由時報：臺中榮總名醫鄒錫凱涉收醫材回扣被押  即日起停職並免兼主管",
@@ -119,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "臺股跳水金管會再出手！宣佈「全面禁止平盤以下放空」等五項措施- 金融",
       "summary": [
         "工商時報：臺股跳水金管會再出手！宣佈「全面禁止平盤以下放空」等五項措施- 金融",
@@ -140,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "蔣萬安政見會秀公文反對水庫設光電板　再推崇柯文哲原水管建設",
       "summary": [
         "ETtoday：蔣萬安政見會秀公文反對水庫設光電板　再推崇柯文哲原水管建設",
@@ -161,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "黃世傑角板山商圈拜票 承諾不因人少路遠忽略復興",
       "summary": [
         "自由時報：黃世傑角板山商圈拜票 承諾不因人少路遠忽略復興",
@@ -182,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "臺股下週平盤下全面禁空、融券保證金升至150％！金管會睽違10年出重手5大措施一次看- 上市櫃",
       "summary": [
         "中時新聞：臺股下週平盤下全面禁空、融券保證金升至150％！金管會睽違10年出重手5大措施一次看- 上市櫃",
@@ -203,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "明晨防10度以下低溫　下週二起北部有雨",
       "summary": [
         "ETtoday：明晨防10度以下低溫　下週二起北部有雨",
@@ -220,6 +193,27 @@
           "source": "TVBS新聞",
           "title": "天氣/ 還沒冷完! 明晨「區域性低溫10度」 下週二北東雨增｜氣象主播張蕙纖｜午間氣象｜TVBS新聞20261121 @TVBSNEWS01 │ TVBS新聞網",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZNEJ4NGYxX2VFelAtWWhXSHlQZXNVR1ZNQzRidkhDd3oxQWhGM2pDWEZRVWdxS29ZQ01pRGhJaWE3NjJUZlF1dTAxUzE4RnA3VTVqRWdn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "讓世界看見輔大、看見臺灣！亞太天主教大學運動會明開幕",
+      "summary": [
+        "自由時報：讓世界看見輔大、看見臺灣！亞太天主教大學運動會明開幕",
+        "ETtoday：首屆亞太天主教大學運動會22日開幕！9國700名好手齊聚臺灣"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "讓世界看見輔大、看見臺灣！亞太天主教大學運動會明開幕",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5648976"
+        },
+        {
+          "source": "ETtoday",
+          "title": "首屆亞太天主教大學運動會22日開幕！9國700名好手齊聚臺灣",
+          "url": "https://sports.ettoday.net/news/3276260"
         }
       ]
     }
@@ -299,91 +293,91 @@
     },
     {
       "rank": 5,
-      "title": "APEC：全球治理機制的新標杆",
+      "title": "中國最高規劃師尋求加速國家專案建設",
       "summary": [
-        "FT中文網：APEC：全球治理機制的新標杆"
+        "Bloomberg Markets：中國最高規劃師尋求加速國家專案建設"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "FT中文網",
-          "title": "APEC：全球治理機制的新標杆",
-          "url": "https://www.ftchinese.com/story/001112098"
+          "source": "Bloomberg Markets",
+          "title": "中國最高規劃師尋求加速國家專案建設",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-s-top-planner-seeks-faster-construction-of-state-projects"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "米爾本 58 億英鎊的青年就業計劃依賴“信仰的飛躍”",
+      "title": "Age 表示，澳洲能源官員警告資料中心風險",
       "summary": [
-        "Financial Times：米爾本 58 億英鎊的青年就業計劃依賴“信仰的飛躍”"
+        "Bloomberg Markets：Age 表示，澳洲能源官員警告資料中心風險"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "米爾本 58 億英鎊的青年就業計劃依賴“信仰的飛躍”",
-          "url": "https://www.ft.com/content/41bcd148-4e1f-4071-940e-ba21dc3700df?syn-25a6b1a6=1"
+          "source": "Bloomberg Markets",
+          "title": "Age 表示，澳洲能源官員警告資料中心風險",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/australian-energy-officials-warned-of-data-center-risk-age-says"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "晶片大戰的下一個戰場",
+      "title": "據報道，美國證券交易委員會 (SEC) 對其會計進行調查，英偉達 (Nvidia) 股價一日暴跌近 5000 億美元",
       "summary": [
-        "Financial Times：晶片大戰的下一個戰場"
+        "Yahoo Finance：據報道，美國證券交易委員會 (SEC) 對其會計進行調查，英偉達 (Nvidia) 股價一日暴跌近 5000 億美元"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "晶片大戰的下一個戰場",
-          "url": "https://www.ft.com/content/cd4ecaf3-0ded-4830-94a8-4d9c24098c07?syn-25a6b1a6=1"
+          "source": "Yahoo Finance",
+          "title": "據報道，美國證券交易委員會 (SEC) 對其會計進行調查，英偉達 (Nvidia) 股價一日暴跌近 5000 億美元",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWFQUldJZnVhd3djV1YwODFlN1FHamxJNVZENFJfRUZ1X29GRUdFTnZNRkVRTFF4T0R5azFKVVpBSEloRko5clVoeEQtSlBiTkt1OHJOVEJNWjZJZXozR1d1UGg1MUFNeHMtU21kSWZxYzdEdm80VEhfaVEwMjdXMFY1Mk85d0xUNUFfZ1dRWTY5aG5Zb3NjaUlVaXZsQQ?oc=5"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "英國每個郵遞區號區確實都有可能實現良好的成長",
+      "title": "諾貝爾化學獎得主索艾先生出席瑞典駐華使館慶祝晚會",
       "summary": [
-        "Financial Times：英國每個郵遞區號區確實都有可能實現良好的成長"
+        "NHK新聞：諾貝爾化學獎得主索艾先生出席瑞典駐華使館慶祝晚會"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "英國每個郵遞區號區確實都有可能實現良好的成長",
-          "url": "https://www.ft.com/content/e8b3bcbc-ab31-408c-a8cb-5e1e6e0cac1e?syn-25a6b1a6=1"
+          "source": "NHK新聞",
+          "title": "諾貝爾化學獎得主索艾先生出席瑞典駐華使館慶祝晚會",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261120de79457"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "「薩爾瓦多皇帝」衝進海地",
+      "title": "輸入 Mercari AI 的個人資訊外洩或“基於清單的攻擊”",
       "summary": [
-        "Financial Times：「薩爾瓦多皇帝」衝進海地"
+        "NHK新聞：輸入 Mercari AI 的個人資訊外洩或“基於清單的攻擊”"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "「薩爾瓦多皇帝」衝進海地",
-          "url": "https://www.ft.com/content/53d9f3ef-e0cc-4605-8203-180a97d0d404?syn-25a6b1a6=1"
+          "source": "NHK新聞",
+          "title": "輸入 Mercari AI 的個人資訊外洩或“基於清單的攻擊”",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79616"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "隨著伊朗罷工增加，透過霍爾木茲運輸的石油減少",
+      "title": "自民黨幹事長鈴木回應文部科學大臣質詢“優先透過消費稅法案等”",
       "summary": [
-        "Financial Times：隨著伊朗罷工增加，透過霍爾木茲運輸的石油減少"
+        "NHK新聞：自民黨幹事長鈴木回應文部科學大臣質詢“優先透過消費稅法案等”"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "隨著伊朗罷工增加，透過霍爾木茲運輸的石油減少",
-          "url": "https://www.ft.com/content/5fbc2b9d-0360-4a1f-9e4a-3e86168cbbc5?syn-25a6b1a6=1"
+          "source": "NHK新聞",
+          "title": "自民黨幹事長鈴木回應文部科學大臣質詢“優先透過消費稅法案等”",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79553"
         }
       ]
     }
