@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-21 12:56",
+  "updated_at": "2026-11-21 13:27",
   "taiwan": [
     {
       "rank": 1,
+      "title": "【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳",
+      "summary": [
+        "自由時報：【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳",
+        "ETtoday：今年最終懸日下週桃園登場　今起連3天先現身臺中大甲",
+        "公視新聞：蔣萬安發「光榮臺北」明信片沈伯洋赴臺中合體何欣純造勢｜20261121 公視早安新聞｜ 公視新聞PNN"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳",
+          "url": "https://estate.ltn.com.tw/article/29414"
+        },
+        {
+          "source": "ETtoday",
+          "title": "今年最終懸日下週桃園登場　今起連3天先現身臺中大甲",
+          "url": "https://www.ettoday.net/news/20261121/3274401.htm"
+        },
+        {
+          "source": "公視新聞",
+          "title": "蔣萬安發「光榮臺北」明信片沈伯洋赴臺中合體何欣純造勢｜20261121 公視早安新聞｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ITTVWWXhuZHhUakozcDJJd01NSllnNHhPTTk2eEVuOVpNSnRCbk5rbmJjMXQ0RVRfbHlTcDVGSjFSekNBNWgxM3JiVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "黃仁勳同意赴美國國會公開作證　中國間諜疑雲成焦點",
       "summary": [
         "自由時報：黃仁勳同意赴美國國會公開作證　中國間諜疑雲成焦點",
@@ -29,7 +56,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "川普籲輝達讓黃仁勳回鍋　稱習近平也讚他是人才",
       "summary": [
         "自由時報：川普籲輝達讓黃仁勳回鍋　稱習近平也讚他是人才",
@@ -56,28 +83,34 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳",
+      "rank": 4,
+      "title": "秘魯發生規模6.7強震 首都居民驚慌逃到室外",
       "summary": [
-        "自由時報：【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳",
-        "ETtoday：今年最終懸日下週桃園登場　今起連3天先現身臺中大甲"
+        "自由時報：秘魯發生規模6.7強震 首都居民驚慌逃到室外",
+        "經濟日報：秘魯中部規模6.8地震　利馬居民逃出家門",
+        "ETtoday：秘魯6.7地震「威力如5.6顆原子彈」　專家示警：恐誘發8.0強震"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "自由時報",
-          "title": "【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳",
-          "url": "https://estate.ltn.com.tw/article/29414"
+          "title": "秘魯發生規模6.7強震 首都居民驚慌逃到室外",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5648333"
+        },
+        {
+          "source": "經濟日報",
+          "title": "秘魯中部規模6.8地震　利馬居民逃出家門",
+          "url": "https://money.udn.com/money/story/5599/9892756"
         },
         {
           "source": "ETtoday",
-          "title": "今年最終懸日下週桃園登場　今起連3天先現身臺中大甲",
-          "url": "https://www.ettoday.net/news/20261121/3274401.htm"
+          "title": "秘魯6.7地震「威力如5.6顆原子彈」　專家示警：恐誘發8.0強震",
+          "url": "https://www.ettoday.net/news/20261121/3275988.htm"
         }
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "廣騰向關係人取得鉅鈺能源55%股權，計2420萬元",
       "summary": [
         "公開資訊觀測站重訊：廣騰向關係人取得鉅鈺能源55%股權，計2420萬元",
@@ -94,27 +127,6 @@
           "source": "MoneyDJ理財網",
           "title": "廣騰向關係人取得鉅鈺能源55%股權，計2420萬元- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcWR0NHhyR1pIallrMTFEWGRXTU1wN0dQenhIWklpdVFFMGo4cWliN1Y3WXM3YkZJU1d1TTFrQm41MFlzQ0ZWN0Jxdkh4V0s3aHEwRzJjMzMxc0hTS1R4c0JMVVBCYXRQdXkwLWZQM2VWbXNUeE1RaTFvY1Nzb1ZzOUtSVHlMbFVad1AwMTdhYndVUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "秘魯發生規模6.7強震 首都居民驚慌逃到室外",
-      "summary": [
-        "自由時報：秘魯發生規模6.7強震 首都居民驚慌逃到室外",
-        "經濟日報：影／秘魯規模6.7強震！民眾驚慌逃上街頭 新聞主播淡定播報"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "秘魯發生規模6.7強震 首都居民驚慌逃到室外",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5648333"
-        },
-        {
-          "source": "經濟日報",
-          "title": "影／秘魯規模6.7強震！民眾驚慌逃上街頭 新聞主播淡定播報",
-          "url": "https://money.udn.com/money/story/5599/9892764"
         }
       ]
     },
@@ -278,7 +290,7 @@
       "title": "CrowdStrike 正在洽談收購網路安全公司 Zscaler",
       "summary": [
         "Bloomberg Markets：CrowdStrike 正在洽談收購網路安全公司 Zscaler",
-        "Investing.com：訊息稱，CrowdStrike 正在洽談收購 Zscaler"
+        "Investing.com：訊息人士稱，CrowdStrike 正在洽談收購 Zscaler"
       ],
       "media_count": 2,
       "links": [
@@ -289,55 +301,13 @@
         },
         {
           "source": "Investing.com",
-          "title": "訊息稱，CrowdStrike 正在洽談收購 Zscaler",
+          "title": "訊息人士稱，CrowdStrike 正在洽談收購 Zscaler",
           "url": "https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720"
         }
       ]
     },
     {
       "rank": 4,
-      "title": "KKR 正在洽談以至少 80 億美元的估值收購 EdgeCore",
-      "summary": [
-        "Bloomberg Markets：KKR 正在洽談以至少 80 億美元的估值收購 EdgeCore",
-        "Investing.com：KKR考慮以80億至100億美元收購Partners Group的EdgeCore"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "KKR 正在洽談以至少 80 億美元的估值收購 EdgeCore",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-20/kkr-in-talks-to-buy-edgecore-at-valuation-of-at-least-8-billion"
-        },
-        {
-          "source": "Investing.com",
-          "title": "KKR考慮以80億至100億美元收購Partners Group的EdgeCore",
-          "url": "https://www.investing.com/news/stock-market-news/kkr-weighs-8b-to-10b-deal-for-partners-groups-edgecore--bloomberg-5042338"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "23 個最佳早期黑色星期五優惠：我們的終極精選 (2026)",
-      "summary": [
-        "Wired：23 個最佳早期黑色星期五優惠：我們的終極精選 (2026)",
-        "The Verge：您已經可以購買的最佳黑色星期五早期優惠"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Wired",
-          "title": "23 個最佳早期黑色星期五優惠：我們的終極精選 (2026)",
-          "url": "https://www.wired.com/story/best-black-friday-deals-11-20-2026/"
-        },
-        {
-          "source": "The Verge",
-          "title": "您已經可以購買的最佳黑色星期五早期優惠",
-          "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "英國向歐盟退一步",
       "summary": [
         "Financial Times：英國向歐盟退一步",
@@ -358,7 +328,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "英國與歐盟深化關係的協議包含哪些內容",
       "summary": [
         "Bloomberg Markets：英國與歐盟深化關係的協議包含哪些內容",
@@ -379,7 +349,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "川普誓言阻止美國公司在海外建造資料中心，威脅徵收“巨額稅收”",
       "summary": [
         "CNBC：川普誓言阻止美國公司在海外建造資料中心，威脅徵收“巨額稅收”",
@@ -400,7 +370,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "川普誓言對在海外建造資料中心的美國公司徵稅",
       "summary": [
         "Bloomberg Tech：川普誓言對在海外建造資料中心的美國公司徵稅",
@@ -421,7 +391,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "川普威脅將人工智慧資料中心移至美國境外“巨額稅”",
       "summary": [
         "The Verge：川普威脅將人工智慧資料中心移至美國境外“巨額稅”",
@@ -438,6 +408,48 @@
           "source": "Financial Times",
           "title": "唐納德·特朗普威脅對美國境外建造的資料中心徵收“巨額”稅",
           "url": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普表示黃仁勳應該道歉並返回英偉達",
+      "summary": [
+        "Investing.com：川普表示黃仁勳應該道歉並返回英偉達",
+        "Bloomberg Markets：川普稱黃在「重大道歉」後應重返英偉達"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "川普表示黃仁勳應該道歉並返回英偉達",
+          "url": "https://www.investing.com/news/stock-market-news/trump-says-huang-should-apologize-and-return-to-nvidia-5042421"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "川普稱黃在「重大道歉」後應重返英偉達",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/trump-huang-should-return-to-nvidia-after-big-apology-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Rockstar稱《GTA VI》首日票房達37.9億美元",
+      "summary": [
+        "The Verge：Rockstar稱《GTA VI》首日票房達37.9億美元",
+        "Investing.com：GTA VI 發售首日銷售額創紀錄 37.9 億美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "Rockstar稱《GTA VI》首日票房達37.9億美元",
+          "url": "https://www.theverge.com/games/1036279/gta-vi-sales"
+        },
+        {
+          "source": "Investing.com",
+          "title": "GTA VI 發售首日銷售額創紀錄 37.9 億美元",
+          "url": "https://www.investing.com/news/stock-market-news/gta-vi-books-record-379-billion-in-sales-on-first-day-of-launch-5042496"
         }
       ]
     }
