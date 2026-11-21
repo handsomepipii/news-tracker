@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 03:26",
+  "updated_at": "2026-11-22 03:56",
   "taiwan": [
     {
       "rank": 1,
@@ -51,27 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "Anthropic 數學家攜手 Claude 宣稱破解 167 年黎曼猜想，人類數學家也提出證明",
-      "summary": [
-        "INSIDE硬塞：Anthropic 數學家攜手 Claude 宣稱破解 167 年黎曼猜想，人類數學家也提出證明",
-        "ETtoday：AI破解167年世紀難題？　數學家宣稱：用Claude證明「黎曼猜想」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "INSIDE硬塞",
-          "title": "Anthropic 數學家攜手 Claude 宣稱破解 167 年黎曼猜想，人類數學家也提出證明",
-          "url": "https://www.inside.com.tw/article/42976-anthropic-claude-ai-riemann-hypothesis-proof"
-        },
-        {
-          "source": "ETtoday",
-          "title": "AI破解167年世紀難題？　數學家宣稱：用Claude證明「黎曼猜想」",
-          "url": "https://www.ettoday.net/news/20261121/3276141.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "臺中榮總名醫鄒錫凱涉收醫材回扣被押  即日起停職並免兼主管",
       "summary": [
         "自由時報：臺中榮總名醫鄒錫凱涉收醫材回扣被押  即日起停職並免兼主管",
@@ -92,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "臺股跳水金管會再出手！宣佈「全面禁止平盤以下放空」等五項措施- 金融",
       "summary": [
         "工商時報：臺股跳水金管會再出手！宣佈「全面禁止平盤以下放空」等五項措施- 金融",
@@ -113,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "蔣萬安政見會秀公文反對水庫設光電板　再推崇柯文哲原水管建設",
       "summary": [
         "ETtoday：蔣萬安政見會秀公文反對水庫設光電板　再推崇柯文哲原水管建設",
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "黃世傑角板山商圈拜票 承諾不因人少路遠忽略復興",
       "summary": [
         "自由時報：黃世傑角板山商圈拜票 承諾不因人少路遠忽略復興",
@@ -155,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "臺股下週平盤下全面禁空、融券保證金升至150％！金管會睽違10年出重手5大措施一次看- 上市櫃",
       "summary": [
         "中時新聞：臺股下週平盤下全面禁空、融券保證金升至150％！金管會睽違10年出重手5大措施一次看- 上市櫃",
@@ -176,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "明晨防10度以下低溫　下週二起北部有雨",
       "summary": [
         "ETtoday：明晨防10度以下低溫　下週二起北部有雨",
@@ -197,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "讓世界看見輔大、看見臺灣！亞太天主教大學運動會明開幕",
       "summary": [
         "自由時報：讓世界看見輔大、看見臺灣！亞太天主教大學運動會明開幕",
@@ -214,6 +193,27 @@
           "source": "ETtoday",
           "title": "首屆亞太天主教大學運動會22日開幕！9國700名好手齊聚臺灣",
           "url": "https://sports.ettoday.net/news/3276260"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "東帝汶外海強震　德國地球科學研究中心：規模6.8",
+      "summary": [
+        "經濟日報：東帝汶外海強震　德國地球科學研究中心：規模6.8",
+        "ETtoday：東帝汶外海規模6.8強震！　震央距首都226公里"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "東帝汶外海強震　德國地球科學研究中心：規模6.8",
+          "url": "https://money.udn.com/money/story/5599/9893582"
+        },
+        {
+          "source": "ETtoday",
+          "title": "東帝汶外海規模6.8強震！　震央距首都226公里",
+          "url": "https://www.ettoday.net/news/20261121/3276181.htm"
         }
       ]
     }
@@ -320,51 +320,6 @@
     },
     {
       "rank": 6,
-      "title": "化石燃料之爭使COP31氣候談判陷入僵局",
-      "summary": [
-        "BBC World：化石燃料之爭使COP31氣候談判陷入僵局"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "化石燃料之爭使COP31氣候談判陷入僵局",
-          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "克里姆林宮希望中美俄會晤後發表“聯合宣告”",
-      "summary": [
-        "FT中文網：克里姆林宮希望中美俄會晤後發表“聯合宣告”"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "FT中文網",
-          "title": "克里姆林宮希望中美俄會晤後發表“聯合宣告”",
-          "url": "https://www.ftchinese.com/story/001111389"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "韓國李在鎔在價值 52 億美元的資料中心參觀期間敦促加快人工智慧投資",
-      "summary": [
-        "Investing.com：韓國李在鎔在價值 52 億美元的資料中心參觀期間敦促加快人工智慧投資"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "韓國李在鎔在價值 52 億美元的資料中心參觀期間敦促加快人工智慧投資",
-          "url": "https://www.investing.com/news/stock-market-news/south-koreas-lee-urges-faster-ai-investment-during-52bn-data-center-visit-5043267"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "橄欖球：迪恩斯“我想在對陣蘇格蘭的比賽中展示我的優勢”",
       "summary": [
         "NHK新聞：橄欖球：迪恩斯“我想在對陣蘇格蘭的比賽中展示我的優勢”"
@@ -379,7 +334,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "這些是參議院民主黨人，支援舒默和範霍倫擔任多數黨領袖",
       "summary": [
         "Washington Post：這些是參議院民主黨人，支援舒默和範霍倫擔任多數黨領袖"
@@ -390,6 +345,51 @@
           "source": "Washington Post",
           "title": "這些是參議院民主黨人，支援舒默和範霍倫擔任多數黨領袖",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVExmN0praFZhQkpOQUJVUUV4N242ZG5IM0F2OU1UY0xtWjJraWdzZmktWjlseGtKNUhTSUhiQ3Q1WGp1cmpZX3dwdWw2YTA4Z3lxYUZPeHdFb083RWhfeHhrRFBDX1Myc0xYYUN3MUJ1ZFZQRy0wN0NLaFIzaGsxMjNaWlc5OHFwX1I3Y2IzYXhaenlOb19QQ04ybzAtNkdxT3Y4ZVMxTGhHUVNtSDJrNUdDMVNmQXZ2cDhEaENKN2YxSzljb3FHYTZMU1NJQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "臺灣禁止賣空股票，以穩定市場的新舉措",
+      "summary": [
+        "Bloomberg Tech：臺灣禁止賣空股票，以穩定市場的新舉措"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "臺灣禁止賣空股票，以穩定市場的新舉措",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "人工智慧潰敗加劇抹去了納斯達克 2026 年的漲幅。 Alphabet 是一個科技亮點",
+      "summary": [
+        "CNBC：人工智慧潰敗加劇抹去了納斯達克 2026 年的漲幅。 Alphabet 是一個科技亮點"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "人工智慧潰敗加劇抹去了納斯達克 2026 年的漲幅。 Alphabet 是一個科技亮點",
+          "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "三星華麗的 49 吋 Odyssey OLED G9 創下歷史新低，售價為 854 美元——亞馬遜黑色星期五促銷遊戲顯示器升級可享 33% 的折扣",
+      "summary": [
+        "Tom's Hardware：三星華麗的 49 吋 Odyssey OLED G9 創下歷史新低，售價為 854 美元——亞馬遜黑色星期五促銷遊戲顯示器升級可享 33% 的折扣"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "三星華麗的 49 吋 Odyssey OLED G9 創下歷史新低，售價為 854 美元——亞馬遜黑色星期五促銷遊戲顯示器升級可享 33% 的折扣",
+          "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsungs-gorgeous-49-inch-odyssey-oled-g9-hits-a-new-all-time-low-price-of-usd854-amazon-black-friday-deal-slashes-33-percent-off-gaming-monitor-upgrade"
         }
       ]
     }
