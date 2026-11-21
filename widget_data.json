@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 10:26",
+  "updated_at": "2026-11-21 10:56",
   "taiwan": [
     {
       "rank": 1,
@@ -57,22 +57,22 @@
     },
     {
       "rank": 3,
-      "title": "快訊／大樂透1億元頭獎「兩注均分」！獎落2縣市",
+      "title": "助理涉散佈不雅影片！徐欣瑩竹檢絕食抗議 吳子嘉到場聲援",
       "summary": [
-        "ETtoday：快訊／大樂透1億元頭獎「兩注均分」！獎落2縣市",
-        "自由時報：【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳"
+        "自由時報：助理涉散佈不雅影片！徐欣瑩竹檢絕食抗議 吳子嘉到場聲援",
+        "ETtoday：助理抹黃沒10萬交保！徐欣瑩還在絕食抗議　曾聖凱喊追究到底"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "快訊／大樂透1億元頭獎「兩注均分」！獎落2縣市",
-          "url": "https://finance.ettoday.net/news/3275780"
+          "source": "自由時報",
+          "title": "助理涉散佈不雅影片！徐欣瑩竹檢絕食抗議 吳子嘉到場聲援",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648223"
         },
         {
-          "source": "自由時報",
-          "title": "【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳",
-          "url": "https://estate.ltn.com.tw/article/29414"
+          "source": "ETtoday",
+          "title": "助理抹黃沒10萬交保！徐欣瑩還在絕食抗議　曾聖凱喊追究到底",
+          "url": "https://www.ettoday.net/news/20261121/3275917.htm"
         }
       ]
     },
@@ -120,27 +120,6 @@
     },
     {
       "rank": 6,
-      "title": "馬斯克出手了！SpaceX旗下公司擬棄用中國AI模型  背後原因曝光",
-      "summary": [
-        "自由時報：馬斯克出手了！SpaceX旗下公司擬棄用中國AI模型  背後原因曝光",
-        "經濟日報：美媒：SpaceX推出Cursor擬終止中國AI模型"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "馬斯克出手了！SpaceX旗下公司擬棄用中國AI模型  背後原因曝光",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5648177"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美媒：SpaceX推出Cursor擬終止中國AI模型",
-          "url": "https://money.udn.com/money/story/5599/9892450"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "川普習近平會談　美財長：未提及黃仁勳",
       "summary": [
         "自由時報：川普習近平會談　美財長：未提及黃仁勳",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Anthropic上市難消疑慮　歐股受挫",
       "summary": [
         "自由時報：Anthropic上市難消疑慮　歐股受挫",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "川普9月再加碼輝達、SpaceX 科技股交易碰上政府政策利益衝突引發疑慮",
       "summary": [
         "經濟日報：川普9月再加碼輝達、SpaceX 科技股交易碰上政府政策利益衝突引發疑慮",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
       "summary": [
         "自由時報：美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
@@ -220,6 +199,27 @@
           "source": "經濟日報",
           "title": "美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
           "url": "https://money.udn.com/money/story/5599/9892548"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普：美國只想賣中國較舊款晶片　正洽談全面協議",
+      "summary": [
+        "自由時報：川普：美國只想賣中國較舊款晶片　正洽談全面協議",
+        "經濟日報：川普：美國只想賣中國較舊款晶片　正洽談全面協議"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川普：美國只想賣中國較舊款晶片　正洽談全面協議",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5648242"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普：美國只想賣中國較舊款晶片　正洽談全面協議",
+          "url": "https://money.udn.com/money/story/5599/9892563"
         }
       ]
     }
