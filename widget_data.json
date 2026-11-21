@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 14:56",
+  "updated_at": "2026-11-21 15:25",
   "taiwan": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
         "ETtoday：今年最終懸日下週桃園登場　今起連3天先現身臺中大甲",
         "公視新聞：蔣萬安發「光榮臺北」明信片沈伯洋赴臺中合體何欣純造勢｜20261121 公視早安新聞｜ 公視新聞PNN"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "自由時報",
@@ -25,6 +25,11 @@
           "source": "公視新聞",
           "title": "蔣萬安發「光榮臺北」明信片沈伯洋赴臺中合體何欣純造勢｜20261121 公視早安新聞｜ 公視新聞PNN",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ITTVWWXhuZHhUakozcDJJd01NSllnNHhPTTk2eEVuOVpNSnRCbk5rbmJjMXQ0RVRfbHlTcDVGSjFSekNBNWgxM3JiVQ?oc=5"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "選前黃金週衝刺 李四川合體侯友宜板橋車掃｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoNHo5QWdTMDRLNFFPNnliRWctZU9KWkdHcE9RbmNtUURsNjFPXzJsVUhBOVFGbW9jRWUyREJ5ckFnU0E0NDVNMWhDSmp2NlE1eVJRWFFB?oc=5"
         }
       ]
     },
@@ -132,27 +137,6 @@
     },
     {
       "rank": 6,
-      "title": "美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
-      "summary": [
-        "自由時報：美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
-        "經濟日報：美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5648239"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
-          "url": "https://money.udn.com/money/story/5599/9892548"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "川普：美國只想賣中國較舊款晶片　正洽談全面協議",
       "summary": [
         "自由時報：川普：美國只想賣中國較舊款晶片　正洽談全面協議",
@@ -173,7 +157,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "川普：普丁盼透過外交途徑　結束俄烏戰爭",
       "summary": [
         "自由時報：川普：普丁盼透過外交途徑　結束俄烏戰爭",
@@ -194,7 +178,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "明天的天氣/冷空氣發威全臺變天！「氣溫驟降剩10度」最凍時間點曝光， 下週氣象一次看",
       "summary": [
         "風傳媒：明天的天氣/冷空氣發威全臺變天！「氣溫驟降剩10度」最凍時間點曝光， 下週氣象一次看",
@@ -215,7 +199,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "AI熱潮降溫拖累風險資產　比特幣跌破6萬美元",
       "summary": [
         "自由時報：AI熱潮降溫拖累風險資產　比特幣跌破6萬美元",
@@ -234,6 +218,27 @@
           "url": "https://money.udn.com/money/story/5599/9892568"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "快訊／今晨最低11.6℃！　下週又有一波鋒面",
+      "summary": [
+        "ETtoday：快訊／今晨最低11.6℃！　下週又有一波鋒面",
+        "自由時報：新北清晨11.1度！下週又有東北季風轉濕冷"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／今晨最低11.6℃！　下週又有一波鋒面",
+          "url": "https://www.ettoday.net/news/20261121/3275830.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "新北清晨11.1度！下週又有東北季風轉濕冷",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5648255"
+        }
+      ]
     }
   ],
   "global": [
@@ -242,7 +247,7 @@
       "title": "CrowdStrike 正在洽談收購網路安全公司 Zscaler",
       "summary": [
         "Bloomberg Markets：CrowdStrike 正在洽談收購網路安全公司 Zscaler",
-        "Investing.com：訊息人士稱，CrowdStrike 正在洽談收購 Zscaler"
+        "Investing.com：訊息稱，CrowdStrike 正在洽談收購 Zscaler"
       ],
       "media_count": 2,
       "links": [
@@ -253,34 +258,13 @@
         },
         {
           "source": "Investing.com",
-          "title": "訊息人士稱，CrowdStrike 正在洽談收購 Zscaler",
+          "title": "訊息稱，CrowdStrike 正在洽談收購 Zscaler",
           "url": "https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "川普表示黃仁勳應該道歉並返回英偉達",
-      "summary": [
-        "Investing.com：川普表示黃仁勳應該道歉並返回英偉達",
-        "Bloomberg Markets：川普稱黃在「重大道歉」後應重返英偉達"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "川普表示黃仁勳應該道歉並返回英偉達",
-          "url": "https://www.investing.com/news/stock-market-news/trump-says-huang-should-apologize-and-return-to-nvidia-5042421"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "川普稱黃在「重大道歉」後應重返英偉達",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-20/trump-huang-should-return-to-nvidia-after-big-apology-video"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "根據彭博社報道，YouTube 即將與美國學區就成癮指控達成 30 億美元和解",
       "summary": [
         "Investing.com：根據彭博社報道，YouTube 即將與美國學區就成癮指控達成 30 億美元和解",
@@ -301,7 +285,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Rockstar稱《GTA VI》首日票房達37.9億美元",
       "summary": [
         "The Verge：Rockstar稱《GTA VI》首日票房達37.9億美元",
@@ -322,7 +306,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "川普稱美國將懲罰在海外建造資料中心的公司",
       "summary": [
         "Nikkei Asia：川普稱美國將懲罰在海外建造資料中心的公司",
@@ -343,7 +327,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "拜耳 72.5 億美元的農達和解協議獲得法官批准",
       "summary": [
         "Bloomberg Markets：拜耳 72.5 億美元的農達和解協議獲得法官批准",
@@ -364,7 +348,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "丹麥指責俄羅斯企圖暗殺一名烏克蘭說唱歌手",
       "summary": [
         "法廣RFI：丹麥指責俄羅斯企圖暗殺一名烏克蘭說唱歌手",
@@ -385,7 +369,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "根據《華爾街日報》報道，Wonder 探索出售送貨服務 Grubhub",
       "summary": [
         "Bloomberg Tech：根據《華爾街日報》報道，Wonder 探索出售送貨服務 Grubhub",
@@ -406,7 +390,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "秘魯M6.7地震；國家海洋暨大氣總署沒有海嘯威脅",
       "summary": [
         "NHK新聞：秘魯M6.7地震；國家海洋暨大氣總署沒有海嘯威脅",
@@ -427,7 +411,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "福特、本田、Stellantis 和大眾就法律起訴新澤西州",
       "summary": [
         "Investing.com：福特、本田、Stellantis 和大眾就法律起訴新澤西州"
@@ -438,6 +422,21 @@
           "source": "Investing.com",
           "title": "福特、本田、Stellantis 和大眾就法律起訴新澤西州",
           "url": "https://www.investing.com/news/stock-market-news/ford-honda-stellantis-and-volkswagen-sue-new-jersey-over-law-93CH-5042541"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "據報道，美國證券交易委員會 (SEC) 正在對其會計進行調查，英偉達 (Nvidia) 股價暴跌 2.5 兆美元",
+      "summary": [
+        "Yahoo Finance：據報道，美國證券交易委員會 (SEC) 正在對其會計進行調查，英偉達 (Nvidia) 股價暴跌 2.5 兆美元"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "據報道，美國證券交易委員會 (SEC) 正在對其會計進行調查，英偉達 (Nvidia) 股價暴跌 2.5 兆美元",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS25iVW9uNHFsc3lYdkNPRTJyTUhYcWRVbjhOZlR4QUpLZGs4RkE0d1lSLTEtN2x6N0ZxZnlZdE9KaTQxeS1TbWRFaGFpd0hGc0ZKWmF5OEVRdnFDX1NNWFlBTl9rdVRUVFlxSVRIelpPNmluWVdUVElhQzh1NWtjemJaUnlhRnJ2N3Q2dDNVYlhVYWtXbkswbXhYLWdiOHE0V1dkQ2xjNjFsTlpEQ0hzRDBja0RqV0VFX0FZaXdKRVZ2RHdGVUUtS2VzanJrTkhiSVcxeGVCRXNlUUhSVWJ3?oc=5"
         }
       ]
     }
