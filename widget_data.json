@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 17:25",
+  "updated_at": "2026-11-21 17:55",
   "taiwan": [
     {
       "rank": 1,
@@ -227,48 +227,27 @@
   "global": [
     {
       "rank": 1,
-      "title": "丹麥指責俄羅斯企圖暗殺一名烏克蘭說唱歌手",
+      "title": "人工智慧如何迫使中國重塑產業政策",
       "summary": [
-        "法廣RFI：丹麥指責俄羅斯企圖暗殺一名烏克蘭說唱歌手",
-        "BBC World：丹麥指責俄羅斯密謀暗殺美國-烏克蘭饒舌歌手"
+        "Bloomberg Markets：人工智慧如何迫使中國重塑產業政策",
+        "Bloomberg Tech：人工智慧如何重塑中國產業政策"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "丹麥指責俄羅斯企圖暗殺一名烏克蘭說唱歌手",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261120-%E4%B8%B9%E9%BA%A5%E6%8C%87%E8%B2%AC%E4%BF%84%E7%BE%85%E6%96%AF%E4%BC%81%E5%9C%96%E6%9A%97%E6%AE%BA%E4%B8%80%E5%90%8D%E7%83%8F%E5%85%8B%E8%98%AD%E8%AA%AA%E5%94%B1%E6%AD%8C%E6%89%8B"
+          "source": "Bloomberg Markets",
+          "title": "人工智慧如何迫使中國重塑產業政策",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy"
         },
         {
-          "source": "BBC World",
-          "title": "丹麥指責俄羅斯密謀暗殺美國-烏克蘭饒舌歌手",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+          "source": "Bloomberg Tech",
+          "title": "人工智慧如何重塑中國產業政策",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-21/how-ai-is-reshaping-china-s-industrial-policy-video"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "訊息稱，CrowdStrike 正在洽談收購 Zscaler",
-      "summary": [
-        "Investing.com：訊息稱，CrowdStrike 正在洽談收購 Zscaler",
-        "Bloomberg Markets：CrowdStrike 在洽談收購網路安全公司 Zscaler 時表示"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "訊息稱，CrowdStrike 正在洽談收購 Zscaler",
-          "url": "https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "CrowdStrike 在洽談收購網路安全公司 Zscaler 時表示",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-20/crowdstrike-said-in-talks-to-buy-zscaler-video"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "根據《華爾街日報》報道，Wonder 探索出售送貨服務 Grubhub",
       "summary": [
         "Bloomberg Tech：根據《華爾街日報》報道，Wonder 探索出售送貨服務 Grubhub",
@@ -289,7 +268,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "秘魯M6.7地震；國家海洋暨大氣總署沒有海嘯威脅",
       "summary": [
         "NHK新聞：秘魯M6.7地震；國家海洋暨大氣總署沒有海嘯威脅",
@@ -310,7 +289,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Hostinger 優惠碼：2026年11月 85%折扣",
       "summary": [
         "Wired：Hostinger 優惠碼：2026年11月 85%折扣"
@@ -325,77 +304,92 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "人工智慧如何迫使中國重塑產業政策",
+      "rank": 5,
+      "title": "丹麥指責俄羅斯密謀暗殺美國-烏克蘭饒舌歌手",
       "summary": [
-        "Bloomberg Markets：人工智慧如何迫使中國重塑產業政策"
+        "BBC World：丹麥指責俄羅斯密謀暗殺美國-烏克蘭饒舌歌手"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "人工智慧如何迫使中國重塑產業政策",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy"
+          "source": "BBC World",
+          "title": "丹麥指責俄羅斯密謀暗殺美國-烏克蘭饒舌歌手",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "川普威脅對在海外建立資料中心的美國科技公司實施“巨額懲罰”",
+      "summary": [
+        "The Guardian：川普威脅對在海外建立資料中心的美國科技公司實施“巨額懲罰”"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "川普威脅對在海外建立資料中心的美國科技公司實施“巨額懲罰”",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "美民主黨議員批特朗普遭習近平普京利用　指美中俄峰會毫無成果",
+      "title": "意見 |一次尷尬的遭遇讓我明白了約會的第一大障礙",
       "summary": [
-        "法廣RFI：美民主黨議員批特朗普遭習近平普京利用　指美中俄峰會毫無成果"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "美民主黨議員批特朗普遭習近平普京利用　指美中俄峰會毫無成果",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261120-%E7%BE%8E%E6%B0%91%E4%B8%BB%E9%BB%A8%E8%AD%B0%E5%93%A1%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E7%BF%92%E8%BF%91%E5%B9%B3%E6%99%AE%E4%BA%AC%E5%88%A9%E7%94%A8-%E6%8C%87%E7%BE%8E%E4%B8%AD%E4%BF%84%E5%B3%B0%E6%9C%83%E6%AF%AB%E7%84%A1%E6%88%90%E6%9E%9C"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "文部科學大臣關因政治資助黨問題多次面臨在野黨的辭職要求",
-      "summary": [
-        "NHK新聞：文部科學大臣關因政治資助黨問題多次面臨在野黨的辭職要求"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "文部科學大臣關因政治資助黨問題多次面臨在野黨的辭職要求",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79475"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "川普總統強調中俄領導人三邊會晤的意義",
-      "summary": [
-        "NHK新聞：川普總統強調中俄領導人三邊會晤的意義"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "川普總統強調中俄領導人三邊會晤的意義",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79489"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "聯合國最高法院裁定緬甸對羅辛亞少數民族實施種族滅絕",
-      "summary": [
-        "Washington Post：聯合國最高法院裁定緬甸對羅辛亞少數民族實施種族滅絕"
+        "Washington Post：意見 |一次尷尬的遭遇讓我明白了約會的第一大障礙"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Washington Post",
-          "title": "聯合國最高法院裁定緬甸對羅辛亞少數民族實施種族滅絕",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUJJYWdxLVpXUWxIM1J4YkNvWXNfM2RtQktxZldfWjZKUWJZS1VrOU5vcmpnLTQ2aVhOdDVUT1JfV3l0V0dQX0dkaFJ6VlotcjBCQXZ3ampET0NWV2h3cW5ZRHBTTU9oT3haQmtYbWw2dlpxckswd19wLTlCY2EzbGtBMTJ3ZkFPcElvMGQ5Y2ZRRjZ0R2kxZjRvSWhMYmZDSHpJaWxpQll0aVBMeXZwMlNVaGhqcTN4ZWczcg?oc=5"
+          "title": "意見 |一次尷尬的遭遇讓我明白了約會的第一大障礙",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTUVPaW95TmNOS3dUOEM5cVowR0FNbVVLOVk4b0pZM1A3VUE5NW12aFlSQU4zQkduR3lfSGtYZG1wdHVUVFV2d2pDajRRcFVGRTgzUGtzdVBoUUVENG5MUUp2NElPYUlRM1k5T3RBUEJPQzc4RmlHSnVkbkItTmwyYWRzYzVScnc4Qk1FZXI4N3I3TDB1?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "英偉達面臨美國監管機構對其會計核算的調查",
+      "summary": [
+        "Financial Times：英偉達面臨美國監管機構對其會計核算的調查"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "英偉達面臨美國監管機構對其會計核算的調查",
+          "url": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "SEC 調查加劇人工智慧市場拋售，英偉達股價暴跌結束鐘聲",
+      "summary": [
+        "Bloomberg Markets：SEC 調查加劇人工智慧市場拋售，英偉達股價暴跌結束鐘聲"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "SEC 調查加劇人工智慧市場拋售，英偉達股價暴跌結束鐘聲",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-plunges-on-sec-probe-closing-bell-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "恐懼與「辣醬」：年輕投資者想要迎頭趕上",
+      "summary": [
+        "Bloomberg Markets：恐懼與「辣醬」：年輕投資者想要迎頭趕上"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "恐懼與「辣醬」：年輕投資者想要迎頭趕上",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/fear-and-hot-sauce-young-investors-want-to-catch-up-video"
         }
       ]
     }
