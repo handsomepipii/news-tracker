@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-21 16:56",
+  "updated_at": "2026-11-21 17:25",
   "taiwan": [
     {
       "rank": 1,
-      "title": "【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳",
+      "title": "今年最終懸日下週桃園登場　今起連3天先現身臺中大甲",
       "summary": [
-        "自由時報：【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳",
         "ETtoday：今年最終懸日下週桃園登場　今起連3天先現身臺中大甲",
+        "自由時報：南部太陽露臉 臺灣第一水庫「玩埤派對」熱力登場",
         "公視新聞：蔣萬安發「光榮臺北」明信片沈伯洋赴臺中合體何欣純造勢｜20261121 公視早安新聞｜ 公視新聞PNN"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "自由時報",
-          "title": "【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳",
-          "url": "https://estate.ltn.com.tw/article/29414"
-        },
-        {
           "source": "ETtoday",
           "title": "今年最終懸日下週桃園登場　今起連3天先現身臺中大甲",
           "url": "https://www.ettoday.net/news/20261121/3274401.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "南部太陽露臉 臺灣第一水庫「玩埤派對」熱力登場",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5648497"
         },
         {
           "source": "公視新聞",
@@ -30,60 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "黃仁勳同意赴美國國會公開作證　中國間諜疑雲成焦點",
-      "summary": [
-        "自由時報：黃仁勳同意赴美國國會公開作證　中國間諜疑雲成焦點",
-        "經濟日報：黃仁勳同意赴美國國會公開作證　中國間諜疑雲成焦點",
-        "ETtoday：黃仁勳同意出席「公開聽證會」　被控與中國女間諜有關係"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "黃仁勳同意赴美國國會公開作證　中國間諜疑雲成焦點",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5648247"
-        },
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳同意赴美國國會公開作證　中國間諜疑雲成焦點",
-          "url": "https://money.udn.com/money/story/5599/9892597"
-        },
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳同意出席「公開聽證會」　被控與中國女間諜有關係",
-          "url": "https://www.ettoday.net/news/20261121/3275831.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "川普籲輝達讓黃仁勳回鍋　稱習近平也讚他是人才",
-      "summary": [
-        "自由時報：川普籲輝達讓黃仁勳回鍋　稱習近平也讚他是人才",
-        "經濟日報：川普籲輝達讓黃仁勳回鍋　稱習近平也讚他是人才",
-        "ETtoday：川普：輝達如果夠聰明應該讓黃仁勳回鍋　習近平也讚是人才"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "川普籲輝達讓黃仁勳回鍋　稱習近平也讚他是人才",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5648246"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普籲輝達讓黃仁勳回鍋　稱習近平也讚他是人才",
-          "url": "https://money.udn.com/money/story/5599/9892594"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普：輝達如果夠聰明應該讓黃仁勳回鍋　習近平也讚是人才",
-          "url": "https://www.ettoday.net/news/20261121/3275824.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "秘魯發生規模6.7強震 首都居民驚慌逃到室外",
       "summary": [
         "自由時報：秘魯發生規模6.7強震 首都居民驚慌逃到室外",
@@ -110,7 +56,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "廣騰向關係人取得鉅鈺能源55%股權，計2420萬元",
       "summary": [
         "公開資訊觀測站重訊：廣騰向關係人取得鉅鈺能源55%股權，計2420萬元",
@@ -131,7 +77,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "快訊／今晨最低11.6℃！　下週又有一波鋒面",
       "summary": [
         "ETtoday：快訊／今晨最低11.6℃！　下週又有一波鋒面",
@@ -152,7 +98,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "軍公教加薪下月入帳！ 行政院昨速發函",
       "summary": [
         "自由時報：軍公教加薪下月入帳！ 行政院昨速發函",
@@ -173,7 +119,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "時代的眼淚！77年「周胖子餃子館」月底全熄燈 雙北最後4店走入歷史",
       "summary": [
         "中時新聞：時代的眼淚！77年「周胖子餃子館」月底全熄燈 雙北最後4店走入歷史",
@@ -194,7 +140,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "川普揚言若美企在其他國家興建資料中心　將祭重稅",
       "summary": [
         "經濟日報：川普揚言若美企在其他國家興建資料中心　將祭重稅",
@@ -215,7 +161,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "助理涉抹黃！徐欣瑩竹檢外絕食抗議 曾聖凱質疑教唆：追究到底",
       "summary": [
         "自由時報：助理涉抹黃！徐欣瑩竹檢外絕食抗議 曾聖凱質疑教唆：追究到底",
@@ -234,74 +180,53 @@
           "url": "https://www.ettoday.net/news/20261121/3275917.htm"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "蔣萬安出招反制水庫光電！成立「臺灣好水聯盟」　邀縣市長們連署",
+      "summary": [
+        "ETtoday：蔣萬安出招反制水庫光電！成立「臺灣好水聯盟」　邀縣市長們連署",
+        "自由時報：蔣萬安成立「臺灣好水聯盟」 邀縣市長簽公約"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "蔣萬安出招反制水庫光電！成立「臺灣好水聯盟」　邀縣市長們連署",
+          "url": "https://www.ettoday.net/news/20261121/3275863.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "蔣萬安成立「臺灣好水聯盟」 邀縣市長簽公約",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648364"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "歐洲軍演之際俄飛彈落波蘭　總理控挑釁北約批侵犯領空",
+      "summary": [
+        "經濟日報：歐洲軍演之際俄飛彈落波蘭　總理控挑釁北約批侵犯領空",
+        "ETtoday：俄軍飛彈、無人機墜波蘭！北約怒斥「侵犯領空」　歐洲軍演爆危機"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "歐洲軍演之際俄飛彈落波蘭　總理控挑釁北約批侵犯領空",
+          "url": "https://money.udn.com/money/story/5599/9892723"
+        },
+        {
+          "source": "ETtoday",
+          "title": "俄軍飛彈、無人機墜波蘭！北約怒斥「侵犯領空」　歐洲軍演爆危機",
+          "url": "https://www.ettoday.net/news/20261121/3275884.htm"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "CrowdStrike 正在洽談收購網路安全公司 Zscaler",
-      "summary": [
-        "Bloomberg Markets：CrowdStrike 正在洽談收購網路安全公司 Zscaler",
-        "Investing.com：訊息稱，CrowdStrike 正在洽談收購 Zscaler"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "CrowdStrike 正在洽談收購網路安全公司 Zscaler",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler"
-        },
-        {
-          "source": "Investing.com",
-          "title": "訊息稱，CrowdStrike 正在洽談收購 Zscaler",
-          "url": "https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "唐納德·特朗普威脅對美國境外建造的資料中心徵收“巨額”稅",
-      "summary": [
-        "Financial Times：唐納德·特朗普威脅對美國境外建造的資料中心徵收“巨額”稅",
-        "The Guardian：川普威脅對在海外建立資料中心的美國科技公司實施“巨額懲罰”"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "唐納德·特朗普威脅對美國境外建造的資料中心徵收“巨額”稅",
-          "url": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1"
-        },
-        {
-          "source": "The Guardian",
-          "title": "川普威脅對在海外建立資料中心的美國科技公司實施“巨額懲罰”",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "拜耳 72.5 億美元的農達和解協議獲得法官批准",
-      "summary": [
-        "Bloomberg Markets：拜耳 72.5 億美元的農達和解協議獲得法官批准",
-        "Investing.com：密蘇裡州法官批准拜耳 72.5 億美元的農達和解協議"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "拜耳 72.5 億美元的農達和解協議獲得法官批准",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-20/bayer-s-7-25-billion-roundup-settlement-approved-by-us-judge"
-        },
-        {
-          "source": "Investing.com",
-          "title": "密蘇裡州法官批准拜耳 72.5 億美元的農達和解協議",
-          "url": "https://www.investing.com/news/stock-market-news/missouri-judge-approves-bayers-725-billion-roundup-settlement-5042643"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "丹麥指責俄羅斯企圖暗殺一名烏克蘭說唱歌手",
       "summary": [
         "法廣RFI：丹麥指責俄羅斯企圖暗殺一名烏克蘭說唱歌手",
@@ -322,7 +247,28 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 2,
+      "title": "訊息稱，CrowdStrike 正在洽談收購 Zscaler",
+      "summary": [
+        "Investing.com：訊息稱，CrowdStrike 正在洽談收購 Zscaler",
+        "Bloomberg Markets：CrowdStrike 在洽談收購網路安全公司 Zscaler 時表示"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "訊息稱，CrowdStrike 正在洽談收購 Zscaler",
+          "url": "https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "CrowdStrike 在洽談收購網路安全公司 Zscaler 時表示",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/crowdstrike-said-in-talks-to-buy-zscaler-video"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "根據《華爾街日報》報道，Wonder 探索出售送貨服務 Grubhub",
       "summary": [
         "Bloomberg Tech：根據《華爾街日報》報道，Wonder 探索出售送貨服務 Grubhub",
@@ -343,7 +289,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "秘魯M6.7地震；國家海洋暨大氣總署沒有海嘯威脅",
       "summary": [
         "NHK新聞：秘魯M6.7地震；國家海洋暨大氣總署沒有海嘯威脅",
@@ -364,22 +310,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "據報道，美國證券交易委員會 (SEC) 正在對其會計進行調查，英偉達 (Nvidia) 股價暴跌 2.5 兆美元",
-      "summary": [
-        "Yahoo Finance：據報道，美國證券交易委員會 (SEC) 正在對其會計進行調查，英偉達 (Nvidia) 股價暴跌 2.5 兆美元"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "據報道，美國證券交易委員會 (SEC) 正在對其會計進行調查，英偉達 (Nvidia) 股價暴跌 2.5 兆美元",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS25iVW9uNHFsc3lYdkNPRTJyTUhYcWRVbjhOZlR4QUpLZGs4RkE0d1lSLTEtN2x6N0ZxZnlZdE9KaTQxeS1TbWRFaGFpd0hGc0ZKWmF5OEVRdnFDX1NNWFlBTl9rdVRUVFlxSVRIelpPNmluWVdUVElhQzh1NWtjemJaUnlhRnJ2N3Q2dDNVYlhVYWtXbkswbXhYLWdiOHE0V1dkQ2xjNjFsTlpEQ0hzRDBja0RqV0VFX0FZaXdKRVZ2RHdGVUUtS2VzanJrTkhiSVcxeGVCRXNlUUhSVWJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "title": "Hostinger 優惠碼：2026年11月 85%折扣",
       "summary": [
         "Wired：Hostinger 優惠碼：2026年11月 85%折扣"
@@ -394,32 +325,77 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "歐洲各地爆發了抗議活動 ，高喊： “為我們的未來而戰，而不是為他們的戰爭而戰”",
+      "rank": 6,
+      "title": "人工智慧如何迫使中國重塑產業政策",
       "summary": [
-        "法廣RFI：歐洲各地爆發了抗議活動 ，高喊： “為我們的未來而戰，而不是為他們的戰爭而戰”"
+        "Bloomberg Markets：人工智慧如何迫使中國重塑產業政策"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "人工智慧如何迫使中國重塑產業政策",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "美民主黨議員批特朗普遭習近平普京利用　指美中俄峰會毫無成果",
+      "summary": [
+        "法廣RFI：美民主黨議員批特朗普遭習近平普京利用　指美中俄峰會毫無成果"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "歐洲各地爆發了抗議活動 ，高喊： “為我們的未來而戰，而不是為他們的戰爭而戰”",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261120-%E6%AD%90%E6%B4%B2%E5%90%84%E5%9C%B0%E7%88%86%E7%99%BC%E4%BA%86%E6%8A%97%E8%AD%B0%E6%B4%BB%E5%8B%95-%EF%BC%8C%E9%AB%98%E5%96%8A-%E7%82%BA%E6%88%91%E5%80%91%E7%9A%84%E6%9C%AA%E4%BE%86%E8%80%8C%E6%88%B0%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E7%82%BA%E4%BB%96%E5%80%91%E7%9A%84%E6%88%B0%E7%88%AD%E8%80%8C%E6%88%B0"
+          "title": "美民主黨議員批特朗普遭習近平普京利用　指美中俄峰會毫無成果",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261120-%E7%BE%8E%E6%B0%91%E4%B8%BB%E9%BB%A8%E8%AD%B0%E5%93%A1%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E7%BF%92%E8%BF%91%E5%B9%B3%E6%99%AE%E4%BA%AC%E5%88%A9%E7%94%A8-%E6%8C%87%E7%BE%8E%E4%B8%AD%E4%BF%84%E5%B3%B0%E6%9C%83%E6%AF%AB%E7%84%A1%E6%88%90%E6%9E%9C"
         }
       ]
     },
     {
-      "rank": 10,
-      "title": "冬季型氣壓分佈 新潟大雨 日本北部及東部山區降雪",
+      "rank": 8,
+      "title": "文部科學大臣關因政治資助黨問題多次面臨在野黨的辭職要求",
       "summary": [
-        "NHK新聞：冬季型氣壓分佈 新潟大雨 日本北部及東部山區降雪"
+        "NHK新聞：文部科學大臣關因政治資助黨問題多次面臨在野黨的辭職要求"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "冬季型氣壓分佈 新潟大雨 日本北部及東部山區降雪",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79490"
+          "title": "文部科學大臣關因政治資助黨問題多次面臨在野黨的辭職要求",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79475"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普總統強調中俄領導人三邊會晤的意義",
+      "summary": [
+        "NHK新聞：川普總統強調中俄領導人三邊會晤的意義"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "川普總統強調中俄領導人三邊會晤的意義",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79489"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "聯合國最高法院裁定緬甸對羅辛亞少數民族實施種族滅絕",
+      "summary": [
+        "Washington Post：聯合國最高法院裁定緬甸對羅辛亞少數民族實施種族滅絕"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "聯合國最高法院裁定緬甸對羅辛亞少數民族實施種族滅絕",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUJJYWdxLVpXUWxIM1J4YkNvWXNfM2RtQktxZldfWjZKUWJZS1VrOU5vcmpnLTQ2aVhOdDVUT1JfV3l0V0dQX0dkaFJ6VlotcjBCQXZ3ampET0NWV2h3cW5ZRHBTTU9oT3haQmtYbWw2dlpxckswd19wLTlCY2EzbGtBMTJ3ZkFPcElvMGQ5Y2ZRRjZ0R2kxZjRvSWhMYmZDSHpJaWxpQll0aVBMeXZwMlNVaGhqcTN4ZWczcg?oc=5"
         }
       ]
     }
