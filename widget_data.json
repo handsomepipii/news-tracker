@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 21:55",
+  "updated_at": "2026-11-21 22:26",
   "taiwan": [
     {
       "rank": 1,
@@ -35,33 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "秘魯發生規模6.7強震 首都居民驚慌逃到室外",
-      "summary": [
-        "自由時報：秘魯發生規模6.7強震 首都居民驚慌逃到室外",
-        "經濟日報：秘魯中部規模6.8地震　利馬居民逃出家門",
-        "ETtoday：秘魯6.7地震「威力如5.6顆原子彈」　專家示警：恐誘發8.0強震"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "秘魯發生規模6.7強震 首都居民驚慌逃到室外",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5648333"
-        },
-        {
-          "source": "經濟日報",
-          "title": "秘魯中部規模6.8地震　利馬居民逃出家門",
-          "url": "https://money.udn.com/money/story/5599/9892756"
-        },
-        {
-          "source": "ETtoday",
-          "title": "秘魯6.7地震「威力如5.6顆原子彈」　專家示警：恐誘發8.0強震",
-          "url": "https://www.ettoday.net/news/20261121/3275988.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "數學界百年謎題被攻克？傳 AI 破解黎曼猜想 另一數學家也提證明",
       "summary": [
         "經濟日報：數學界百年謎題被攻克？傳 AI 破解黎曼猜想 另一數學家也提證明",
@@ -88,49 +61,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "35噸車體搭載120公釐主砲 斯洛伐克「卡爾帕特」中型戰車亮相",
-      "summary": [
-        "自由時報：35噸車體搭載120公釐主砲 斯洛伐克「卡爾帕特」中型戰車亮相",
-        "科技新報：34 噸車身搭載 120 公釐主砲，捷土合作 Karpat 中型戰車首度公開實彈展示"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "35噸車體搭載120公釐主砲 斯洛伐克「卡爾帕特」中型戰車亮相",
-          "url": "https://news.ltn.com.tw/news/def/breakingnews/5648369"
-        },
-        {
-          "source": "科技新報",
-          "title": "34 噸車身搭載 120 公釐主砲，捷土合作 Karpat 中型戰車首度公開實彈展示",
-          "url": "https://technews.tw/2026/11/21/csg-and-fnss-collabeorated-cfl-120-karpat-medium-tank-public-demo/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "輝達再遭政府盯上！路透：美 SEC 正調查輝達會計處理方式",
-      "summary": [
-        "科技新報：輝達再遭政府盯上！路透：美 SEC 正調查輝達會計處理方式",
-        "經濟日報：輝達重挫 路透：美國監管機構正調查該公司的會計操作"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "輝達再遭政府盯上！路透：美 SEC 正調查輝達會計處理方式",
-          "url": "https://technews.tw/2026/11/21/nvidia-us-sec-investigation/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "輝達重挫 路透：美國監管機構正調查該公司的會計操作",
-          "url": "https://money.udn.com/money/story/123398/9892587"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "title": "天冷低溫！三重公園廁所驚見男子倒臥　47歲男死亡",
       "summary": [
         "ETtoday：天冷低溫！三重公園廁所驚見男子倒臥　47歲男死亡",
@@ -151,7 +82,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "普發2萬元三讀過關！綠白聯手否決仍不敵藍營人數優勢- 要聞",
       "summary": [
         "工商時報：普發2萬元三讀過關！綠白聯手否決仍不敵藍營人數優勢- 要聞",
@@ -172,7 +103,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "日本來回機票免費抽！臺灣首家Billboard Live TAIPEI歡慶週年 超大咖天后打頭陣",
       "summary": [
         "自由時報：日本來回機票免費抽！臺灣首家Billboard Live TAIPEI歡慶週年 超大咖天后打頭陣",
@@ -193,7 +124,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "全美警方查通緝犯都靠它！FBI「執法命脈」資料庫疑遭駭",
       "summary": [
         "自由時報：全美警方查通緝犯都靠它！FBI「執法命脈」資料庫疑遭駭",
@@ -214,7 +145,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "涉為2愛子買票！檢調動員百餘人查集團性賄選 宜蘭老議員遊旺欉等4人聲押",
       "summary": [
         "自由時報：涉為2愛子買票！檢調動員百餘人查集團性賄選 宜蘭老議員遊旺欉等4人聲押",
@@ -231,6 +162,69 @@
           "source": "ETtoday",
           "title": "宜蘭爆集團性賄選！2兒選議員鄉代「父掏錢行賄」　4聲押5交保",
           "url": "https://www.ettoday.net/news/20261121/3276036.htm"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "核電公投拒領票阻過關？臺灣教授協會：無助提高門檻恐讓同意票超越",
+      "summary": [
+        "自由時報：核電公投拒領票阻過關？臺灣教授協會：無助提高門檻恐讓同意票超越",
+        "今周刊：核電公投拒領票能擋過關？臺灣教授協會發聲：無助提高門檻，籲票入匭才能護非核家園"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "核電公投拒領票阻過關？臺灣教授協會：無助提高門檻恐讓同意票超越",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648438"
+        },
+        {
+          "source": "今周刊",
+          "title": "核電公投拒領票能擋過關？臺灣教授協會發聲：無助提高門檻，籲票入匭才能護非核家園",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHByeW1HcUktcS1XYWw1YjFwXy1TdlN6aC1yOV9WcllnOFBHR2JoSVRGNDlxYjRjd2hUUmxtY29SRS1OMm1iNFZtMXF3UmNyYVF0TG5GNndjTzFkb0FkUV9MRHdXMXNZekVrc2d6SHBqLXF1ZkNGWFlsMGNiSzdCeQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "《黑白清道夫》反派男神私下超反差！　自彈鋼琴畫面曝光網暈船",
+      "summary": [
+        "ETtoday：《黑白清道夫》反派男神私下超反差！　自彈鋼琴畫面曝光網暈船",
+        "中時新聞：《黑白清道夫》超帥反派被起底！孫麥傑反差萌「文青彈鋼琴」電暈粉"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "《黑白清道夫》反派男神私下超反差！　自彈鋼琴畫面曝光網暈船",
+          "url": "https://star.ettoday.net/news/3275981"
+        },
+        {
+          "source": "中時新聞",
+          "title": "《黑白清道夫》超帥反派被起底！孫麥傑反差萌「文青彈鋼琴」電暈粉",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fVUZyTk5NZ1dwWEUxX3d0MUlLZWJLNlJrbUtaSmpzRUhuYUg0RlhWRlE4YTRxNlJONl9CQ1phdmRjVDMwdHNVR3BFWlNDcVMyNThNaUdHRmY2ZFRNWVkxUUE1SFVwaDVsREJLdWR3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "郵局ATM領錢不怕再被看到餘額！按一鍵才能顯示資訊",
+      "summary": [
+        "自由時報：郵局ATM領錢不怕再被看到餘額！按一鍵才能顯示資訊",
+        "ETtoday：郵局ATM領錢不怕餘額被看光　預設隱藏「點選才顯示」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "郵局ATM領錢不怕再被看到餘額！按一鍵才能顯示資訊",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5648667"
+        },
+        {
+          "source": "ETtoday",
+          "title": "郵局ATM領錢不怕餘額被看光　預設隱藏「點選才顯示」",
+          "url": "https://www.ettoday.net/news/20261121/3276097.htm"
         }
       ]
     }
@@ -289,96 +283,6 @@
     },
     {
       "rank": 4,
-      "title": "東京電力 資本聯盟後政府仍保留重要事項決策的否決權",
-      "summary": [
-        "NHK新聞：東京電力 資本聯盟後政府仍保留重要事項決策的否決權"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "東京電力 資本聯盟後政府仍保留重要事項決策的否決權",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79559"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "愛子公主視察魚尾獅公園並返回日本",
-      "summary": [
-        "NHK新聞：愛子公主視察魚尾獅公園並返回日本"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "愛子公主視察魚尾獅公園並返回日本",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79551"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "磁浮施工現場附近河川噴水 JR東海進行相關調查 川崎",
-      "summary": [
-        "NHK新聞：磁浮施工現場附近河川噴水 JR東海進行相關調查 川崎"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "磁浮施工現場附近河川噴水 JR東海進行相關調查 川崎",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79560"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "黃仁勳與AI的雅爾塔時刻",
-      "summary": [
-        "FT中文網：黃仁勳與AI的雅爾塔時刻"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "FT中文網",
-          "title": "黃仁勳與AI的雅爾塔時刻",
-          "url": "https://www.ftchinese.com/story/001111387"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Anthropic 首次亮相時交易動盪，指責遊戲已經開始",
-      "summary": [
-        "WSJ Markets：Anthropic 首次亮相時交易動盪，指責遊戲已經開始"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "WSJ Markets",
-          "title": "Anthropic 首次亮相時交易動盪，指責遊戲已經開始",
-          "url": "https://www.wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "美國在鹽颱風發生前幾年就收到電信安全風險警告",
-      "summary": [
-        "Investing.com：美國在鹽颱風發生前幾年就收到電信安全風險警告"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "美國在鹽颱風發生前幾年就收到電信安全風險警告",
-          "url": "https://www.investing.com/news/stock-market-news/us-was-warned-of-telecom-security-risks-years-before-salt-typhoon-5043030"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "法國前總理宣佈競選總統，極右派勒龐的頭號支持者",
       "summary": [
         "NHK新聞：法國前總理宣佈競選總統，極右派勒龐的頭號支持者"
@@ -389,6 +293,96 @@
           "source": "NHK新聞",
           "title": "法國前總理宣佈競選總統，極右派勒龐的頭號支持者",
           "url": "https://news.web.nhk/newsweb/na/nd-20261121de79545"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "大腳怪的信徒從一個不太可能的盟友那裡得到了推動：美國林務局",
+      "summary": [
+        "Washington Post：大腳怪的信徒從一個不太可能的盟友那裡得到了推動：美國林務局"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "大腳怪的信徒從一個不太可能的盟友那裡得到了推動：美國林務局",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2VYcjNvQndKb1g5bnlOQzk1cnJiQms0cFdIdmlvUngwNzVqZFBoaGFVbHU3U1FRVEtULWlNT1ZUbWJYZktuREoxbXBzWk5MVHRqTjlIRzd2dnZSUU1sX0hRc2Nfd0E0ZHQ2Q09TWkhTY2ZPbHU5c3h2N0F3R1V1U1pLZUJsTWxIQ2xPNVFRVXBOUU9oc2Y4cTRLbzUwNzhLQUhSdWYxblB1VXQtVExzRmN3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "科技投資者：“成功和名望”損害矽谷企業領導水平",
+      "summary": [
+        "FT中文網：科技投資者：“成功和名望”損害矽谷企業領導水平"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "FT中文網",
+          "title": "科技投資者：“成功和名望”損害矽谷企業領導水平",
+          "url": "https://www.ftchinese.com/story/001111388"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
+      "summary": [
+        "WSJ Markets：華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "WSJ Markets",
+          "title": "華爾街承諾為 Nvidia 籌集 5000 億美元，但並未投入一毛錢",
+          "url": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "紅旗的超級跑車計劃如何陷入債務、清算和欺詐索賠",
+      "summary": [
+        "Nikkei Asia：紅旗的超級跑車計劃如何陷入債務、清算和欺詐索賠"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "紅旗的超級跑車計劃如何陷入債務、清算和欺詐索賠",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc2RzVlJMZGxaTUprLWRfaGdEaVc1azVtbDJRYXFqZk9iUmNMVWZpR1d4RUF1akNMSDZZdm9scXYzTGdSbC1ySXQ2eGZCWTdOY3poUTFqdkhfQmlZRmdlSjNhX1k4a2V2eVlVSjNzVDI2aS1BVlAycG9DbWlUdjNBc0lzUkF6UnMyektoMVhwLXA1eWtoRDNaYWVudE0zYmVfUU9ON1I1Sl92elkzM1FTZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "使用三星 Galaxy Buds 4 Pro、Buds 3 Pro 和 Buds 3 FE 升級您的日常音訊，起價為 99.99 美元，可享受高達 47% 的折扣",
+      "summary": [
+        "Wccftech：使用三星 Galaxy Buds 4 Pro、Buds 3 Pro 和 Buds 3 FE 升級您的日常音訊，起價為 99.99 美元，可享受高達 47% 的折扣"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Wccftech",
+          "title": "使用三星 Galaxy Buds 4 Pro、Buds 3 Pro 和 Buds 3 FE 升級您的日常音訊，起價為 99.99 美元，可享受高達 47% 的折扣",
+          "url": "https://wccftech.com/samsung-galaxy-buds-4-pro-buds-3-pro-buds-3-fe-black-friday-amazon/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "前橋警察在住宅區發現熊；搜尋繼續",
+      "summary": [
+        "NHK新聞：前橋警察在住宅區發現熊；搜尋繼續"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "前橋警察在住宅區發現熊；搜尋繼續",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79555"
         }
       ]
     }
