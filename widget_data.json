@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 12:26",
+  "updated_at": "2026-11-21 12:56",
   "taiwan": [
     {
       "rank": 1,
@@ -57,27 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "助理涉散佈不雅影片！徐欣瑩竹檢絕食抗議 吳子嘉到場聲援",
-      "summary": [
-        "自由時報：助理涉散佈不雅影片！徐欣瑩竹檢絕食抗議 吳子嘉到場聲援",
-        "ETtoday：助理抹黃沒10萬交保！徐欣瑩還在絕食抗議　曾聖凱喊追究到底"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "助理涉散佈不雅影片！徐欣瑩竹檢絕食抗議 吳子嘉到場聲援",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648223"
-        },
-        {
-          "source": "ETtoday",
-          "title": "助理抹黃沒10萬交保！徐欣瑩還在絕食抗議　曾聖凱喊追究到底",
-          "url": "https://www.ettoday.net/news/20261121/3275917.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳",
       "summary": [
         "自由時報：【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳",
@@ -98,7 +77,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "廣騰向關係人取得鉅鈺能源55%股權，計2420萬元",
       "summary": [
         "公開資訊觀測站重訊：廣騰向關係人取得鉅鈺能源55%股權，計2420萬元",
@@ -119,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "秘魯發生規模6.7強震 首都居民驚慌逃到室外",
       "summary": [
         "自由時報：秘魯發生規模6.7強震 首都居民驚慌逃到室外",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "川普習近平會談　美財長：未提及黃仁勳",
       "summary": [
         "自由時報：川普習近平會談　美財長：未提及黃仁勳",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Anthropic上市難消疑慮　歐股受挫",
       "summary": [
         "自由時報：Anthropic上市難消疑慮　歐股受挫",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "川普9月再加碼輝達、SpaceX 科技股交易碰上政府政策利益衝突引發疑慮",
       "summary": [
         "經濟日報：川普9月再加碼輝達、SpaceX 科技股交易碰上政府政策利益衝突引發疑慮",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
       "summary": [
         "自由時報：美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
@@ -220,6 +199,27 @@
           "source": "經濟日報",
           "title": "美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
           "url": "https://money.udn.com/money/story/5599/9892548"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普：美國只想賣中國較舊款晶片　正洽談全面協議",
+      "summary": [
+        "自由時報：川普：美國只想賣中國較舊款晶片　正洽談全面協議",
+        "經濟日報：川普：美國只想賣中國較舊款晶片　正洽談全面協議"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川普：美國只想賣中國較舊款晶片　正洽談全面協議",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5648242"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普：美國只想賣中國較舊款晶片　正洽談全面協議",
+          "url": "https://money.udn.com/money/story/5599/9892563"
         }
       ]
     }
@@ -254,17 +254,17 @@
     },
     {
       "rank": 2,
-      "title": "為什麼博通股票今天會下跌？",
+      "title": "為什麼元平臺股票今天下跌？",
       "summary": [
-        "Investing.com：為什麼博通股票今天會下跌？",
+        "Investing.com：為什麼元平臺股票今天下跌？",
         "Yahoo Finance：為什麼英偉達股價今天下跌"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Investing.com",
-          "title": "為什麼博通股票今天會下跌？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-broadcom-stock-sliding-today-93CH-5042272"
+          "title": "為什麼元平臺股票今天下跌？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-meta-platforms-stock-sliding-today-93CH-5042388"
         },
         {
           "source": "Yahoo Finance",
@@ -278,7 +278,7 @@
       "title": "CrowdStrike 正在洽談收購網路安全公司 Zscaler",
       "summary": [
         "Bloomberg Markets：CrowdStrike 正在洽談收購網路安全公司 Zscaler",
-        "Investing.com：訊息人士稱，CrowdStrike 正在洽談收購 Zscaler"
+        "Investing.com：訊息稱，CrowdStrike 正在洽談收購 Zscaler"
       ],
       "media_count": 2,
       "links": [
@@ -289,55 +289,13 @@
         },
         {
           "source": "Investing.com",
-          "title": "訊息人士稱，CrowdStrike 正在洽談收購 Zscaler",
+          "title": "訊息稱，CrowdStrike 正在洽談收購 Zscaler",
           "url": "https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720"
         }
       ]
     },
     {
       "rank": 4,
-      "title": "比特幣跌破 60,000 美元水平",
-      "summary": [
-        "Investing.com：比特幣跌破 60,000 美元水平",
-        "Yahoo Finance：比特幣跌破 59,000 美元，創 2022 年 6 月以來最糟糕月份"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "比特幣跌破 60,000 美元水平",
-          "url": "https://www.investing.com/news/stock-market-news/bitcoin-falls-below-60000-level-5042271"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "比特幣跌破 59,000 美元，創 2022 年 6 月以來最糟糕月份",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRElXRUZRbXlfNVZIY09CRXlMTDV6a1JZeVpKQV9SYVpqX3F5X2RoYWV4YjNkeUJkX2ZXekpMM3ExRFpJYXRSYkk0cHk1aUk3R0U4ZktpTUI4VTNoUkp0ZEhNM1A0NExvNWhFY2RmVThRY0JuV0JyeUdHdGZEOFE4WE1aTFpxUmZqWnM2dHBaLXNQa1JWN0FGOUdEZzhKeUZPQmlKYmFHZmhNLVFLcUVrc2ZId0k2MjBlSHZ6SFZUT2VsT1FxVU93?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "人擇數學家聲稱已經與克勞德解決了久負盛名的千禧年獎問題",
-      "summary": [
-        "The Verge：人擇數學家聲稱已經與克勞德解決了久負盛名的千禧年獎問題",
-        "Tom's Hardware：人擇數學家聲稱與克勞德一起解決了167年前的數學難題"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "人擇數學家聲稱已經與克勞德解決了久負盛名的千禧年獎問題",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "人擇數學家聲稱與克勞德一起解決了167年前的數學難題",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "KKR 正在洽談以至少 80 億美元的估值收購 EdgeCore",
       "summary": [
         "Bloomberg Markets：KKR 正在洽談以至少 80 億美元的估值收購 EdgeCore",
@@ -358,7 +316,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "23 個最佳早期黑色星期五優惠：我們的終極精選 (2026)",
       "summary": [
         "Wired：23 個最佳早期黑色星期五優惠：我們的終極精選 (2026)",
@@ -379,7 +337,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "英國向歐盟退一步",
       "summary": [
         "Financial Times：英國向歐盟退一步",
@@ -400,7 +358,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "英國與歐盟深化關係的協議包含哪些內容",
       "summary": [
         "Bloomberg Markets：英國與歐盟深化關係的協議包含哪些內容",
@@ -421,7 +379,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "川普誓言阻止美國公司在海外建造資料中心，威脅徵收“巨額稅收”",
       "summary": [
         "CNBC：川普誓言阻止美國公司在海外建造資料中心，威脅徵收“巨額稅收”",
@@ -438,6 +396,48 @@
           "source": "MarketWatch",
           "title": "川普正試圖阻止大型科技公司在美國境外建造資料中心的努力。",
           "url": "https://www.marketwatch.com/story/trump-is-trying-to-stop-big-techs-push-to-build-data-centers-outside-the-u-s-86f32f7f?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普誓言對在海外建造資料中心的美國公司徵稅",
+      "summary": [
+        "Bloomberg Tech：川普誓言對在海外建造資料中心的美國公司徵稅",
+        "Investing.com：川普誓言對在海外建造資料中心的美國公司徵稅"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "川普誓言對在海外建造資料中心的美國公司徵稅",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/trump-wants-tax-on-us-companies-for-foreign-data-centers-video"
+        },
+        {
+          "source": "Investing.com",
+          "title": "川普誓言對在海外建造資料中心的美國公司徵稅",
+          "url": "https://www.investing.com/news/stock-market-news/trump-vows-tax-on-us-firms-building-data-centers-abroad-5042405"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普威脅將人工智慧資料中心移至美國境外“巨額稅”",
+      "summary": [
+        "The Verge：川普威脅將人工智慧資料中心移至美國境外“巨額稅”",
+        "Financial Times：唐納德·特朗普威脅對美國境外建造的資料中心徵收“巨額”稅"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "川普威脅將人工智慧資料中心移至美國境外“巨額稅”",
+          "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+        },
+        {
+          "source": "Financial Times",
+          "title": "唐納德·特朗普威脅對美國境外建造的資料中心徵收“巨額”稅",
+          "url": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1"
         }
       ]
     }
