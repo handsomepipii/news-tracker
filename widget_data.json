@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 08:59",
+  "updated_at": "2026-11-21 09:27",
   "taiwan": [
     {
       "rank": 1,
@@ -57,6 +57,27 @@
     },
     {
       "rank": 3,
+      "title": "快訊／大樂透1億元頭獎「兩注均分」！獎落2縣市",
+      "summary": [
+        "ETtoday：快訊／大樂透1億元頭獎「兩注均分」！獎落2縣市",
+        "自由時報：【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／大樂透1億元頭獎「兩注均分」！獎落2縣市",
+          "url": "https://finance.ettoday.net/news/3275780"
+        },
+        {
+          "source": "自由時報",
+          "title": "【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳",
+          "url": "https://estate.ltn.com.tw/article/29414"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "紐時記者：輝達晶片流入共軍實驗室　協助攻臺研究",
       "summary": [
         "經濟日報：紐時記者：輝達晶片流入共軍實驗室　協助攻臺研究",
@@ -77,7 +98,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "馬斯克出手了！SpaceX旗下公司擬棄用中國AI模型  背後原因曝光",
       "summary": [
         "自由時報：馬斯克出手了！SpaceX旗下公司擬棄用中國AI模型  背後原因曝光",
@@ -94,27 +115,6 @@
           "source": "經濟日報",
           "title": "美媒：SpaceX推出Cursor擬終止中國AI模型",
           "url": "https://money.udn.com/money/story/5599/9892450"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "快訊／大樂透1億元頭獎「兩注均分」！獎落2縣市",
-      "summary": [
-        "ETtoday：快訊／大樂透1億元頭獎「兩注均分」！獎落2縣市",
-        "自由時報：【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／大樂透1億元頭獎「兩注均分」！獎落2縣市",
-          "url": "https://finance.ettoday.net/news/3275780"
-        },
-        {
-          "source": "自由時報",
-          "title": "【臺北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳",
-          "url": "https://estate.ltn.com.tw/article/29414"
         }
       ]
     },
@@ -347,7 +347,7 @@
       "title": "CrowdStrike 正在洽談收購網路安全公司 Zscaler",
       "summary": [
         "Bloomberg Markets：CrowdStrike 正在洽談收購網路安全公司 Zscaler",
-        "Investing.com：訊息人士稱，CrowdStrike 正在洽談收購 Zscaler"
+        "Investing.com：訊息稱，CrowdStrike 正在洽談收購 Zscaler"
       ],
       "media_count": 2,
       "links": [
@@ -358,34 +358,13 @@
         },
         {
           "source": "Investing.com",
-          "title": "訊息人士稱，CrowdStrike 正在洽談收購 Zscaler",
+          "title": "訊息稱，CrowdStrike 正在洽談收購 Zscaler",
           "url": "https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "國際法院以九票對六票認定緬甸對羅興亞人實施種族滅絕",
-      "summary": [
-        "德國之聲：國際法院以九票對六票認定緬甸對羅興亞人實施種族滅絕",
-        "Washington Post：聯合國最高法院裁定緬甸對羅辛亞少數民族實施種族滅絕"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "國際法院以九票對六票認定緬甸對羅興亞人實施種族滅絕",
-          "url": "https://www.dw.com/zh/国际法院以九票对六票认定缅甸对罗兴亚人实施种族灭绝/a-80002919?maca=chi-rss-chi-all-1127-rdf"
-        },
-        {
-          "source": "Washington Post",
-          "title": "聯合國最高法院裁定緬甸對羅辛亞少數民族實施種族滅絕",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUJJYWdxLVpXUWxIM1J4YkNvWXNfM2RtQktxZldfWjZKUWJZS1VrOU5vcmpnLTQ2aVhOdDVUT1JfV3l0V0dQX0dkaFJ6VlotcjBCQXZ3ampET0NWV2h3cW5ZRHBTTU9oT3haQmtYbWw2dlpxckswd19wLTlCY2EzbGtBMTJ3ZkFPcElvMGQ5Y2ZRRjZ0R2kxZjRvSWhMYmZDSHpJaWxpQll0aVBMeXZwMlNVaGhqcTN4ZWczcg?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "SpaceX 子公司 Cursor 告訴立法者，它正在考慮逐步淘汰中國人工智慧模型",
       "summary": [
         "CNBC：SpaceX 子公司 Cursor 告訴立法者，它正在考慮逐步淘汰中國人工智慧模型",
@@ -406,7 +385,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "市場上的人工智慧熱潮正在打破",
       "summary": [
         "Financial Times：市場上的人工智慧熱潮正在打破",
@@ -427,7 +406,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "比特幣跌破 60,000 美元水平",
       "summary": [
         "Investing.com：比特幣跌破 60,000 美元水平",
@@ -444,6 +423,27 @@
           "source": "Yahoo Finance",
           "title": "比特幣跌破 59,000 美元，創 2022 年 6 月以來最糟糕月份",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRElXRUZRbXlfNVZIY09CRXlMTDV6a1JZeVpKQV9SYVpqX3F5X2RoYWV4YjNkeUJkX2ZXekpMM3ExRFpJYXRSYkk0cHk1aUk3R0U4ZktpTUI4VTNoUkp0ZEhNM1A0NExvNWhFY2RmVThRY0JuV0JyeUdHdGZEOFE4WE1aTFpxUmZqWnM2dHBaLXNQa1JWN0FGOUdEZzhKeUZPQmlKYmFHZmhNLVFLcUVrc2ZId0k2MjBlSHZ6SFZUT2VsT1FxVU93?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "人擇數學家聲稱已經與克勞德解決了久負盛名的千禧年獎問題",
+      "summary": [
+        "The Verge：人擇數學家聲稱已經與克勞德解決了久負盛名的千禧年獎問題",
+        "Tom's Hardware：人擇數學家聲稱與克勞德一起解決了167年前的數學難題"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "人擇數學家聲稱已經與克勞德解決了久負盛名的千禧年獎問題",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "人擇數學家聲稱與克勞德一起解決了167年前的數學難題",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed"
         }
       ]
     }
