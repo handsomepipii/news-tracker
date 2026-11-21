@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 08:27",
+  "updated_at": "2026-11-21 08:59",
   "taiwan": [
     {
       "rank": 1,
@@ -162,6 +162,27 @@
     },
     {
       "rank": 8,
+      "title": "川普9月再加碼輝達、SpaceX 科技股交易碰上政府政策利益衝突引發疑慮",
+      "summary": [
+        "經濟日報：川普9月再加碼輝達、SpaceX 科技股交易碰上政府政策利益衝突引發疑慮",
+        "MoneyDJ理財網：川普投顧動作大9月入手輝達、SpaceX、Palantir"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普9月再加碼輝達、SpaceX 科技股交易碰上政府政策利益衝突引發疑慮",
+          "url": "https://money.udn.com/money/story/5599/9892343"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "川普投顧動作大9月入手輝達、SpaceX、Palantir",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWlCVDBiWUxzWmx6NnJZZHh6c0ZRY1RoSkd4ay1adDdxd2dyOFpxQkpDcGJPeVcxZVV2VEV4WVRWZHpCa0kxdXBON0s0OVlDUTk3ME40MGNTeExkV25zWExmRkxVNHdwbTBTT0pKRWJSeVZBcHpPcFR1VnlST1RkaVpHMkZ2cTIxVmxKaWpvTy1TQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
       "summary": [
         "自由時報：美中爭奪AI霸權仍達共識　川習同意重大軍事決策須有人類把關",
@@ -182,7 +203,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "川普：美國只想賣中國較舊款晶片　正洽談全面協議",
       "summary": [
         "自由時報：川普：美國只想賣中國較舊款晶片　正洽談全面協議",
@@ -199,27 +220,6 @@
           "source": "經濟日報",
           "title": "川普：美國只想賣中國較舊款晶片　正洽談全面協議",
           "url": "https://money.udn.com/money/story/5599/9892563"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "川普：普丁盼透過外交途徑　結束俄烏戰爭",
-      "summary": [
-        "自由時報：川普：普丁盼透過外交途徑　結束俄烏戰爭",
-        "經濟日報：川普：普丁盼透過外交途徑　結束俄烏戰爭"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "川普：普丁盼透過外交途徑　結束俄烏戰爭",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5648241"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普：普丁盼透過外交途徑　結束俄烏戰爭",
-          "url": "https://money.udn.com/money/story/5599/9892559"
         }
       ]
     }
@@ -323,17 +323,17 @@
     },
     {
       "rank": 5,
-      "title": "人工智慧貿易揭秘； Anthropic 首次亮相後大幅下跌",
+      "title": "為什麼亞德尼會將人工智慧拋售視為買入機會",
       "summary": [
-        "Bloomberg Markets：人工智慧貿易揭秘； Anthropic 首次亮相後大幅下跌",
+        "Investing.com：為什麼亞德尼會將人工智慧拋售視為買入機會",
         "Bloomberg Tech：隨著人工智慧拋售蔓延，人為因素下滑"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "人工智慧貿易揭秘； Anthropic 首次亮相後大幅下跌",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-brief-11-20-2026-video"
+          "source": "Investing.com",
+          "title": "為什麼亞德尼會將人工智慧拋售視為買入機會",
+          "url": "https://www.investing.com/news/stock-market-news/why-yardeni-sees-the-ai-selloff-as-a-buying-opportunity-5041919"
         },
         {
           "source": "Bloomberg Tech",
@@ -347,7 +347,7 @@
       "title": "CrowdStrike 正在洽談收購網路安全公司 Zscaler",
       "summary": [
         "Bloomberg Markets：CrowdStrike 正在洽談收購網路安全公司 Zscaler",
-        "Investing.com：訊息稱，CrowdStrike 正在洽談收購 Zscaler"
+        "Investing.com：訊息人士稱，CrowdStrike 正在洽談收購 Zscaler"
       ],
       "media_count": 2,
       "links": [
@@ -358,7 +358,7 @@
         },
         {
           "source": "Investing.com",
-          "title": "訊息稱，CrowdStrike 正在洽談收購 Zscaler",
+          "title": "訊息人士稱，CrowdStrike 正在洽談收購 Zscaler",
           "url": "https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720"
         }
       ]
