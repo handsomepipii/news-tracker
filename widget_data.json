@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 17:55",
+  "updated_at": "2026-11-21 18:25",
   "taiwan": [
     {
       "rank": 1,
@@ -57,6 +57,33 @@
     },
     {
       "rank": 3,
+      "title": "數學界百年謎題被攻克？傳 AI 破解黎曼猜想 另一數學家也提證明",
+      "summary": [
+        "經濟日報：數學界百年謎題被攻克？傳 AI 破解黎曼猜想 另一數學家也提證明",
+        "INSIDE硬塞：Anthropic 數學家攜手 Claude 宣稱破解 167 年黎曼猜想，人類數學家也提出證明",
+        "ETtoday：AI破解167年世紀難題？　數學家宣稱：用Claude證明「黎曼猜想」"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "數學界百年謎題被攻克？傳 AI 破解黎曼猜想 另一數學家也提證明",
+          "url": "https://money.udn.com/money/story/5599/9893127"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "Anthropic 數學家攜手 Claude 宣稱破解 167 年黎曼猜想，人類數學家也提出證明",
+          "url": "https://www.inside.com.tw/article/42976-anthropic-claude-ai-riemann-hypothesis-proof"
+        },
+        {
+          "source": "ETtoday",
+          "title": "AI破解167年世紀難題？　數學家宣稱：用Claude證明「黎曼猜想」",
+          "url": "https://www.ettoday.net/news/20261121/3276141.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "廣騰向關係人取得鉅鈺能源55%股權，計2420萬元",
       "summary": [
         "公開資訊觀測站重訊：廣騰向關係人取得鉅鈺能源55%股權，計2420萬元",
@@ -73,27 +100,6 @@
           "source": "MoneyDJ理財網",
           "title": "廣騰向關係人取得鉅鈺能源55%股權，計2420萬元- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcWR0NHhyR1pIallrMTFEWGRXTU1wN0dQenhIWklpdVFFMGo4cWliN1Y3WXM3YkZJU1d1TTFrQm41MFlzQ0ZWN0Jxdkh4V0s3aHEwRzJjMzMxc0hTS1R4c0JMVVBCYXRQdXkwLWZQM2VWbXNUeE1RaTFvY1Nzb1ZzOUtSVHlMbFVad1AwMTdhYndVUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "快訊／今晨最低11.6℃！　下週又有一波鋒面",
-      "summary": [
-        "ETtoday：快訊／今晨最低11.6℃！　下週又有一波鋒面",
-        "自由時報：新北清晨11.1度！下週又有東北季風轉濕冷"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／今晨最低11.6℃！　下週又有一波鋒面",
-          "url": "https://www.ettoday.net/news/20261121/3275830.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "新北清晨11.1度！下週又有東北季風轉濕冷",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5648255"
         }
       ]
     },
@@ -120,6 +126,27 @@
     },
     {
       "rank": 6,
+      "title": "新北清晨11.1度！下週又有東北季風轉濕冷",
+      "summary": [
+        "自由時報：新北清晨11.1度！下週又有東北季風轉濕冷",
+        "ETtoday：明晨防10度以下低溫　下週二起北部有雨"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "新北清晨11.1度！下週又有東北季風轉濕冷",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5648255"
+        },
+        {
+          "source": "ETtoday",
+          "title": "明晨防10度以下低溫　下週二起北部有雨",
+          "url": "https://www.ettoday.net/news/20261121/3276142.htm"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "時代的眼淚！77年「周胖子餃子館」月底全熄燈 雙北最後4店走入歷史",
       "summary": [
         "中時新聞：時代的眼淚！77年「周胖子餃子館」月底全熄燈 雙北最後4店走入歷史",
@@ -140,7 +167,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "川普揚言若美企在其他國家興建資料中心　將祭重稅",
       "summary": [
         "經濟日報：川普揚言若美企在其他國家興建資料中心　將祭重稅",
@@ -161,7 +188,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "助理涉抹黃！徐欣瑩竹檢外絕食抗議 曾聖凱質疑教唆：追究到底",
       "summary": [
         "自由時報：助理涉抹黃！徐欣瑩竹檢外絕食抗議 曾聖凱質疑教唆：追究到底",
@@ -182,7 +209,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "蔣萬安出招反制水庫光電！成立「臺灣好水聯盟」　邀縣市長們連署",
       "summary": [
         "ETtoday：蔣萬安出招反制水庫光電！成立「臺灣好水聯盟」　邀縣市長們連署",
@@ -199,27 +226,6 @@
           "source": "自由時報",
           "title": "蔣萬安成立「臺灣好水聯盟」 邀縣市長簽公約",
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648364"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "歐洲軍演之際俄飛彈落波蘭　總理控挑釁北約批侵犯領空",
-      "summary": [
-        "經濟日報：歐洲軍演之際俄飛彈落波蘭　總理控挑釁北約批侵犯領空",
-        "ETtoday：俄軍飛彈、無人機墜波蘭！北約怒斥「侵犯領空」　歐洲軍演爆危機"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "歐洲軍演之際俄飛彈落波蘭　總理控挑釁北約批侵犯領空",
-          "url": "https://money.udn.com/money/story/5599/9892723"
-        },
-        {
-          "source": "ETtoday",
-          "title": "俄軍飛彈、無人機墜波蘭！北約怒斥「侵犯領空」　歐洲軍演爆危機",
-          "url": "https://www.ettoday.net/news/20261121/3275884.htm"
         }
       ]
     }
@@ -305,91 +311,91 @@
     },
     {
       "rank": 5,
-      "title": "丹麥指責俄羅斯密謀暗殺美國-烏克蘭饒舌歌手",
+      "title": "脫歐公投十年 英國可能重返歐盟嗎？",
       "summary": [
-        "BBC World：丹麥指責俄羅斯密謀暗殺美國-烏克蘭饒舌歌手"
+        "法廣RFI：脫歐公投十年 英國可能重返歐盟嗎？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "BBC World",
-          "title": "丹麥指責俄羅斯密謀暗殺美國-烏克蘭饒舌歌手",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+          "source": "法廣RFI",
+          "title": "脫歐公投十年 英國可能重返歐盟嗎？",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261120-%E8%84%AB%E6%AD%90%E5%85%AC%E6%8A%95%E5%8D%81%E5%B9%B4-%E8%8B%B1%E5%9C%8B%E5%8F%AF%E8%83%BD%E9%87%8D%E8%BF%94%E6%AD%90%E7%9B%9F%E5%97%8E"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "川普威脅對在海外建立資料中心的美國科技公司實施“巨額懲罰”",
+      "title": "【影片】氣象預報員解說未來雨雪預報（21日）",
       "summary": [
-        "The Guardian：川普威脅對在海外建立資料中心的美國科技公司實施“巨額懲罰”"
+        "NHK新聞：【影片】氣象預報員解說未來雨雪預報（21日）"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "The Guardian",
-          "title": "川普威脅對在海外建立資料中心的美國科技公司實施“巨額懲罰”",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+          "source": "NHK新聞",
+          "title": "【影片】氣象預報員解說未來雨雪預報（21日）",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79497"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "意見 |一次尷尬的遭遇讓我明白了約會的第一大障礙",
+      "title": "法國警察因毆打音樂製作人米歇爾·澤克萊爾而被判刑",
       "summary": [
-        "Washington Post：意見 |一次尷尬的遭遇讓我明白了約會的第一大障礙"
+        "BBC World：法國警察因毆打音樂製作人米歇爾·澤克萊爾而被判刑"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Washington Post",
-          "title": "意見 |一次尷尬的遭遇讓我明白了約會的第一大障礙",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTUVPaW95TmNOS3dUOEM5cVowR0FNbVVLOVk4b0pZM1A3VUE5NW12aFlSQU4zQkduR3lfSGtYZG1wdHVUVFV2d2pDajRRcFVGRTgzUGtzdVBoUUVENG5MUUp2NElPYUlRM1k5T3RBUEJPQzc4RmlHSnVkbkItTmwyYWRzYzVScnc4Qk1FZXI4N3I3TDB1?oc=5"
+          "source": "BBC World",
+          "title": "法國警察因毆打音樂製作人米歇爾·澤克萊爾而被判刑",
+          "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "英偉達面臨美國監管機構對其會計核算的調查",
+      "title": "「始終保持流動性」：理查茲",
       "summary": [
-        "Financial Times：英偉達面臨美國監管機構對其會計核算的調查"
+        "Bloomberg Markets：「始終保持流動性」：理查茲"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "英偉達面臨美國監管機構對其會計核算的調查",
-          "url": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1"
+          "source": "Bloomberg Markets",
+          "title": "「始終保持流動性」：理查茲",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/-always-remain-liquid-richards-video"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "SEC 調查加劇人工智慧市場拋售，英偉達股價暴跌結束鐘聲",
+      "title": "川普稱黃在「重大道歉」後應重返英偉達",
       "summary": [
-        "Bloomberg Markets：SEC 調查加劇人工智慧市場拋售，英偉達股價暴跌結束鐘聲"
+        "Bloomberg Markets：川普稱黃在「重大道歉」後應重返英偉達"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "SEC 調查加劇人工智慧市場拋售，英偉達股價暴跌結束鐘聲",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-plunges-on-sec-probe-closing-bell-video"
+          "title": "川普稱黃在「重大道歉」後應重返英偉達",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/trump-huang-should-return-to-nvidia-after-big-apology-video"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "恐懼與「辣醬」：年輕投資者想要迎頭趕上",
+      "title": "隨著投資人拋售科技股，標準普爾和道瓊指數陷入調整",
       "summary": [
-        "Bloomberg Markets：恐懼與「辣醬」：年輕投資者想要迎頭趕上"
+        "Bloomberg Markets：隨著投資人拋售科技股，標準普爾和道瓊指數陷入調整"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "恐懼與「辣醬」：年輕投資者想要迎頭趕上",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-20/fear-and-hot-sauce-young-investors-want-to-catch-up-video"
+          "title": "隨著投資人拋售科技股，標準普爾和道瓊指數陷入調整",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/s-p-dow-slide-into-correction-as-investors-dump-tech-video"
         }
       ]
     }
