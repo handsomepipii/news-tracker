@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 05:26",
+  "updated_at": "2026-11-23 05:56",
   "taiwan": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
         "公視新聞：新北選戰藍綠三重辦造勢晚會 李四川、蘇巧慧隔空拚場",
         "ETtoday：卓揆稱蘇巧慧直達車走向新北　李競辦諷：4500萬公帑頭等艙直達蘇家"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
           "source": "自由時報",
@@ -27,6 +27,11 @@
           "url": "https://www.ettoday.net/news/20261122/3276637.htm"
         },
         {
+          "source": "TVBS新聞",
+          "title": "味全龍「封王遊行」傳葉總卸任 郭天信直呼不捨.球團未證實｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cmFWMVl5dWVNU3g4dXprTktUdmJIVHREVE5KNUsxVUlTNy1fa1JmRlUwb1NfTXY1YWc3TndtdlVrOEJvaGlCemh1eWRmZVFXU3Vfb253?oc=5"
+        },
+        {
           "source": "經濟日報",
           "title": "華僑協會菲律賓分會改選 新會長鄭國賓盼深化菲臺交流",
           "url": "https://money.udn.com/money/story/5599/9895069"
@@ -35,19 +40,13 @@
     },
     {
       "rank": 2,
-      "title": "融資斷頭連環爆助跌，融資維持率130%擬降至120%！不只國安基金，再找它們加碼護盤⋯臺股漲跌幅會減半？",
+      "title": "融資擔保率降至120％? 6400戶追繳戶暫鬆一口氣",
       "summary": [
-        "今周刊：融資斷頭連環爆助跌，融資維持率130%擬降至120%！不只國安基金，再找它們加碼護盤⋯臺股漲跌幅會減半？",
         "自由時報：融資擔保率降至120％? 6400戶追繳戶暫鬆一口氣",
         "風傳媒：臺股慘跌祭救市新招？傳融資維持率「降至120%」 最快明天上路 | 蔣季容 | 新聞"
       ],
-      "media_count": 3,
+      "media_count": 2,
       "links": [
-        {
-          "source": "今周刊",
-          "title": "融資斷頭連環爆助跌，融資維持率130%擬降至120%！不只國安基金，再找它們加碼護盤⋯臺股漲跌幅會減半？",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdHdNUEEtbHlWcjNEQXAzX2hIMUhlUnB2THhKRk9maTRpbkt6cWk3U0xTNl9ydjYwZGJ5ekJDUFZCWDRWRlhESF9aZ05nR2dUcVA5TXBJbTVYcW1hZFpnaWxFczNvREotdnZHcWZQM3hYNFdnazhUVGpOeDd4VTloWA?oc=5"
-        },
         {
           "source": "自由時報",
           "title": "融資擔保率降至120％? 6400戶追繳戶暫鬆一口氣",
@@ -62,27 +61,6 @@
     },
     {
       "rank": 3,
-      "title": "英小村透過象徵性獨立公投　抗議政府擬安置數百移民",
-      "summary": [
-        "經濟日報：英小村透過象徵性獨立公投　抗議政府擬安置數百移民",
-        "公視新聞：不滿政府擬安置大量庇護者 英國小村透過象徵性獨立公投"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "英小村透過象徵性獨立公投　抗議政府擬安置數百移民",
-          "url": "https://money.udn.com/money/story/5599/9894741"
-        },
-        {
-          "source": "公視新聞",
-          "title": "不滿政府擬安置大量庇護者 英國小村透過象徵性獨立公投",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fbGpxNXAzOXhZZjlJNThRVUtrU01ORGlIZVZiSk5kRDVGcGkzNDRLSmd3dnJrbnlmSUlnSDdlNXczTG9mY0szTXpRb1pwWVU?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "柯文哲才剛合體就否認藍白合　蔣萬安：共同目標贏得年底選舉",
       "summary": [
         "ETtoday：柯文哲才剛合體就否認藍白合　蔣萬安：共同目標贏得年底選舉",
@@ -103,7 +81,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "明起再有2波冷空氣報到 週二起先濕後乾",
       "summary": [
         "公視新聞：明起再有2波冷空氣報到 週二起先濕後乾",
@@ -124,7 +102,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "北市科建案工地頂樓起火 市消防局佈水線灌救",
       "summary": [
         "自由時報：北市科建案工地頂樓起火 市消防局佈水線灌救",
@@ -145,7 +123,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "屏東市長選舉公辦政見會 梁育慈提市政新藍圖 盼帶領家鄉脫胎換骨",
       "summary": [
         "自由時報：屏東市長選舉公辦政見會 梁育慈提市政新藍圖 盼帶領家鄉脫胎換骨",
@@ -166,7 +144,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "金馬63》舒淇奪獎揭家醜！爆爸媽「喝酒又打架」霸氣立誓：下次拿最佳導演",
       "summary": [
         "自由時報：金馬63》舒淇奪獎揭家醜！爆爸媽「喝酒又打架」霸氣立誓：下次拿最佳導演",
@@ -187,7 +165,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "小笠原欣幸：洋流外溢影響新北、基隆、臺中、竹市選情",
       "summary": [
         "自由時報：小笠原欣幸：洋流外溢影響新北、基隆、臺中、竹市選情",
@@ -208,7 +186,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "逆轉！臺中清潔隊代理隊長貪汙油錢4925元 二審改判背信原因曝",
       "summary": [
         "自由時報：逆轉！臺中清潔隊代理隊長貪汙油錢4925元 二審改判背信原因曝",
@@ -225,6 +203,27 @@
           "source": "ETtoday",
           "title": "逆轉不算貪汙！前清潔隊長私用公務車刷4925元油錢　二審改判背信",
           "url": "https://www.ettoday.net/news/20261123/3276691.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普：若舒默出任參院多數黨領袖　合作將有困難",
+      "summary": [
+        "經濟日報：川普：若舒默出任參院多數黨領袖　合作將有困難",
+        "自由時報：川普：若舒默出任參院多數黨領袖　合作將有困難"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普：若舒默出任參院多數黨領袖　合作將有困難",
+          "url": "https://money.udn.com/money/story/5599/9895400"
+        },
+        {
+          "source": "自由時報",
+          "title": "川普：若舒默出任參院多數黨領袖　合作將有困難",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650016"
         }
       ]
     }
@@ -406,31 +405,31 @@
     },
     {
       "rank": 9,
-      "title": "緬甸種族滅絕裁決影響深遠的歷史意義",
+      "title": "內閣官房長官木原：“文部科學大臣關的說明很重要。任命應該由首相決定。”",
       "summary": [
-        "BBC中文：緬甸種族滅絕裁決影響深遠的歷史意義"
+        "NHK新聞：內閣官房長官木原：“文部科學大臣關的說明很重要。任命應該由首相決定。”"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "BBC中文",
-          "title": "緬甸種族滅絕裁決影響深遠的歷史意義",
-          "url": "https://www.bbc.com/zhongwen/articles/c5n4eylmmg8po/trad?at_medium=RSS&at_campaign=rss"
+          "source": "NHK新聞",
+          "title": "內閣官房長官木原：“文部科學大臣關的說明很重要。任命應該由首相決定。”",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261122de80043"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "斯洛伐克拒絕參與歐盟新一輪對烏貸款，政府被指親俄，民眾上街抗議",
+      "title": "英國女子遭丈夫下藥，13年間被陌生男子輪流性侵",
       "summary": [
-        "法廣RFI：斯洛伐克拒絕參與歐盟新一輪對烏貸款，政府被指親俄，民眾上街抗議"
+        "BBC中文：英國女子遭丈夫下藥，13年間被陌生男子輪流性侵"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "斯洛伐克拒絕參與歐盟新一輪對烏貸款，政府被指親俄，民眾上街抗議",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261122-%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E6%8B%92%E7%B5%95%E5%8F%83%E8%88%87%E6%AD%90%E7%9B%9F%E6%96%B0%E4%B8%80%E8%BC%AA%E5%B0%8D%E7%83%8F%E8%B2%B8%E6%AC%BE%EF%BC%8C%E6%94%BF%E5%BA%9C%E8%A2%AB%E6%8C%87%E8%A6%AA%E4%BF%84%EF%BC%8C%E6%B0%91%E7%9C%BE%E4%B8%8A%E8%A1%97%E6%8A%97%E8%AD%B0"
+          "source": "BBC中文",
+          "title": "英國女子遭丈夫下藥，13年間被陌生男子輪流性侵",
+          "url": "https://www.bbc.com/zhongwen/articles/cx8dv4e080ldo/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
