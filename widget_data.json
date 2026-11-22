@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 03:26",
+  "updated_at": "2026-11-23 03:56",
   "taiwan": [
     {
       "rank": 1,
@@ -232,6 +232,33 @@
   "global": [
     {
       "rank": 1,
+      "title": "達美航空進出亞特蘭大的航班因係統故障而延誤",
+      "summary": [
+        "The Verge：達美航空進出亞特蘭大的航班因係統故障而延誤",
+        "Financial Times：達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
+        "Investing.com：達美航空航班因自動化系統問題在亞特蘭大機場遭遇短暫延誤"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "達美航空進出亞特蘭大的航班因係統故障而延誤",
+          "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage"
+        },
+        {
+          "source": "Financial Times",
+          "title": "達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
+          "url": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "達美航空航班因自動化系統問題在亞特蘭大機場遭遇短暫延誤",
+          "url": "https://www.investing.com/news/stock-market-news/delta-flights-faced-brief-delays-atatlanta-airport-over-automated-system-issue-5044102"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "美國擬禁止中國移動等電信巨頭直接接入美國電話號碼，中國批評“惡意打壓”",
       "summary": [
         "法廣RFI：美國擬禁止中國移動等電信巨頭直接接入美國電話號碼，中國批評“惡意打壓”",
@@ -252,7 +279,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "韓國教育部長因AI作弊醜聞辭職，稱不確定自己是否有能力杜絕高考AI作弊",
       "summary": [
         "法廣RFI：韓國教育部長因AI作弊醜聞辭職，稱不確定自己是否有能力杜絕高考AI作弊",
@@ -273,7 +300,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "臺灣外交部次長警告加拿大總理卡尼，深化與中國的貿易關係可能帶來經濟脅迫風險",
       "summary": [
         "德國之聲：臺灣外交部次長警告加拿大總理卡尼，深化與中國的貿易關係可能帶來經濟脅迫風險",
@@ -294,7 +321,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "黑色星期五 Nintendo Switch 2 最佳優惠（2026 年）：Switch 2 套裝和遊戲",
       "summary": [
         "Wired：黑色星期五 Nintendo Switch 2 最佳優惠（2026 年）：Switch 2 套裝和遊戲",
@@ -315,7 +342,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "COP31氣候大會未能透過最終決議,歐盟及130多個國家要求加強氣候行動",
       "summary": [
         "德國之聲：COP31氣候大會未能透過最終決議,歐盟及130多個國家要求加強氣候行動",
@@ -336,7 +363,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "官員稱利比亞港口俄羅斯船隻爆炸可能由無人機襲擊造成",
       "summary": [
         "BBC World：官員稱利比亞港口俄羅斯船隻爆炸可能由無人機襲擊造成",
@@ -357,7 +384,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "亞洲國家在人工智慧潰敗後採取措施援助股市",
       "summary": [
         "Investing.com：亞洲國家在人工智慧潰敗後採取措施援助股市",
@@ -378,7 +405,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "貝森特表示，美國就英偉達向中國出售晶片一事尋求答案",
       "summary": [
         "Investing.com：貝森特表示，美國就英偉達向中國出售晶片一事尋求答案",
@@ -399,32 +426,17 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "凱特王妃在BBC紀錄片《療癒》中談癌症如何改變了她",
-      "summary": [
-        "BBC中文：凱特王妃在BBC紀錄片《療癒》中談癌症如何改變了她"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "凱特王妃在BBC紀錄片《療癒》中談癌症如何改變了她",
-          "url": "https://www.bbc.com/zhongwen/articles/crn4kj25vqlyo/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "全國代表玉城：“文部科學大臣關值得譴責他的決議。”",
+      "title": "性交易在捷克：法律的灰色地帶",
       "summary": [
-        "NHK新聞：全國代表玉城：“文部科學大臣關值得譴責他的決議。”"
+        "德國之聲：性交易在捷克：法律的灰色地帶"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "全國代表玉城：“文部科學大臣關值得譴責他的決議。”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261122de79962"
+          "source": "德國之聲",
+          "title": "性交易在捷克：法律的灰色地帶",
+          "url": "https://www.dw.com/zh/性交易在捷克：法律的灰色地带/a-80004617?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     }
