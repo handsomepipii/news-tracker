@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 10:25",
+  "updated_at": "2026-11-22 10:55",
   "taiwan": [
     {
       "rank": 1,
@@ -227,27 +227,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "分析：為什麼中國不願承擔氣候領導角色？",
-      "summary": [
-        "德國之聲：分析：為什麼中國不願承擔氣候領導角色？",
-        "法廣RFI：《解放報》：中國在國際氣候談判中為何如此低調？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "分析：為什麼中國不願承擔氣候領導角色？",
-          "url": "https://www.dw.com/zh/分析：为什么中国不愿承担气候领导角色？/a-80010026?maca=chi-rss-chi-all-1127-rdf"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "《解放報》：中國在國際氣候談判中為何如此低調？",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E6%B3%95%E5%9C%8B%E5%A0%B1%E7%B4%99%E6%91%98%E8%A6%81/20261121-%E8%A7%A3%E6%94%BE%E5%A0%B1-%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%9C%8B%E9%9A%9B%E6%B0%A3%E5%80%99%E8%AB%87%E5%88%A4%E4%B8%AD%E7%82%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E4%BD%8E%E8%AA%BF"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "中國1.7兆美元的人工智慧潰敗讓熱門貿易變成了輸錢賭注",
       "summary": [
         "Bloomberg Markets：中國1.7兆美元的人工智慧潰敗讓熱門貿易變成了輸錢賭注",
@@ -268,6 +247,21 @@
       ]
     },
     {
+      "rank": 2,
+      "title": "由沖繩燒毀的首裡城正殿京都主辦的“修復完成儀式”",
+      "summary": [
+        "NHK新聞：由沖繩燒毀的首裡城正殿京都主辦的“修復完成儀式”"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "由沖繩燒毀的首裡城正殿京都主辦的“修復完成儀式”",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79741"
+        }
+      ]
+    },
+    {
       "rank": 3,
       "title": "德國汽車和造船廠工人將舉行罷工，IG Metall 工會延長罷工時間",
       "summary": [
@@ -284,96 +278,6 @@
     },
     {
       "rank": 4,
-      "title": "深圳要成為文化之都",
-      "summary": [
-        "Bloomberg Markets：深圳要成為文化之都"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "深圳要成為文化之都",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-21/shenzhen-wants-to-become-a-cultural-capital-video"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "華爾街面臨人工智慧現實檢驗",
-      "summary": [
-        "Bloomberg Tech：華爾街面臨人工智慧現實檢驗"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "華爾街面臨人工智慧現實檢驗",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-21/wall-street-confronts-ai-reality-check-video"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "退休人員面臨著迫在眉睫的提款期限——錯過期限可能會引發稅收處罰",
-      "summary": [
-        "CNBC：退休人員面臨著迫在眉睫的提款期限——錯過期限可能會引發稅收處罰"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "退休人員面臨著迫在眉睫的提款期限——錯過期限可能會引發稅收處罰",
-          "url": "https://www.cnbc.com/2026/11/21/rmd-deadline-penalty-2026.html"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "黃仁勳的下一步：華爾街推崇英特爾和 SpaceX，但投注者寄望於出人意料的第二幕",
-      "summary": [
-        "Yahoo Finance：黃仁勳的下一步：華爾街推崇英特爾和 SpaceX，但投注者寄望於出人意料的第二幕"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "黃仁勳的下一步：華爾街推崇英特爾和 SpaceX，但投注者寄望於出人意料的第二幕",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVUtCZC0zLUNQYkUwUVAxSlkxU05NWEt1WC1LZDUweWdKYUlhZnJnVmxOV0dzTXltUHlfbkdyOTB6ZGNaSW1lZlNjTnB0c1UxR1BDcW9yaEMwV0FmVEk1emFGSzN6ZXJJYXhpcjFuZ2luOHJ0TXN0LUNtUGJsNkNZMGJFcWNad0UzTHQ4Mm9FWVZQUXQtUS1EbXRhc25pU0VGeDAxYWtIaDZTUlZ2RlpPSk5QaXR4dGw0VThfb1BrdTVtck5xQTlxMDBKOG0zVmh2blRYV3Q1dlF0ZlkzTGh4WTRZRXl2WkJlamNDazBFUUtOeVozTWNieQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Chess.com 的下一步是建立從麻將到數獨等經典遊戲的新中心",
-      "summary": [
-        "The Verge：Chess.com 的下一步是建立從麻將到數獨等經典遊戲的新中心"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "Chess.com 的下一步是建立從麻將到數獨等經典遊戲的新中心",
-          "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "技嘉 MO27Q2A 27 吋 QHD 280 Hz QD-OLED 遊戲顯示器評測：技嘉的另一款價格殺手",
-      "summary": [
-        "Tom's Hardware：技嘉 MO27Q2A 27 吋 QHD 280 Hz QD-OLED 遊戲顯示器評測：技嘉的另一款價格殺手"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Tom's Hardware",
-          "title": "技嘉 MO27Q2A 27 吋 QHD 280 Hz QD-OLED 遊戲顯示器評測：技嘉的另一款價格殺手",
-          "url": "https://www.tomshardware.com/monitors/gaming-monitors/gigabyte-mo27q2a-27-inch-qhd-280-hz-qd-oled-gaming-monitor-review"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "中國與東盟談不攏：南海行為準則為何難產？",
       "summary": [
         "德國之聲：中國與東盟談不攏：南海行為準則為何難產？"
@@ -384,6 +288,96 @@
           "source": "德國之聲",
           "title": "中國與東盟談不攏：南海行為準則為何難產？",
           "url": "https://www.dw.com/zh/中国与东盟谈不拢：南海行为准则为何难产？/a-80010232?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "肢體語言透露什麼？專家解讀習近平、特朗普與普京的互動",
+      "summary": [
+        "德國之聲：肢體語言透露什麼？專家解讀習近平、特朗普與普京的互動"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "肢體語言透露什麼？專家解讀習近平、特朗普與普京的互動",
+          "url": "https://www.dw.com/zh/肢体语言透露什么？专家解读习近平、特朗普与普京的互动/a-79993639?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "歐洲希望效仿美國收購TikTok， 德國稱已有投資者願出資250億歐元",
+      "summary": [
+        "法廣RFI：歐洲希望效仿美國收購TikTok， 德國稱已有投資者願出資250億歐元"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "歐洲希望效仿美國收購TikTok， 德國稱已有投資者願出資250億歐元",
+          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261121-%E6%AD%90%E6%B4%B2%E5%B8%8C%E6%9C%9B%E6%95%88%E4%BB%BF%E7%BE%8E%E5%9C%8B%E6%94%B6%E8%B3%BCtiktok%EF%BC%8C-%E5%BE%B7%E5%9C%8B%E7%A8%B1%E5%B7%B2%E6%9C%89%E6%8A%95%E8%B3%87%E8%80%85%E9%A1%98%E5%87%BA%E8%B3%87250%E5%84%84%E6%AD%90%E5%85%83"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "《解放報》：中國在國際氣候談判中為何如此低調？",
+      "summary": [
+        "法廣RFI：《解放報》：中國在國際氣候談判中為何如此低調？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "《解放報》：中國在國際氣候談判中為何如此低調？",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E6%B3%95%E5%9C%8B%E5%A0%B1%E7%B4%99%E6%91%98%E8%A6%81/20261121-%E8%A7%A3%E6%94%BE%E5%A0%B1-%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%9C%8B%E9%9A%9B%E6%B0%A3%E5%80%99%E8%AB%87%E5%88%A4%E4%B8%AD%E7%82%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E4%BD%8E%E8%AA%BF"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "兵庫縣西宮市一間房屋內價值4億日圓的金條和約2,500萬日圓現金被盜",
+      "summary": [
+        "NHK新聞：兵庫縣西宮市一間房屋內價值4億日圓的金條和約2,500萬日圓現金被盜"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "兵庫縣西宮市一間房屋內價值4億日圓的金條和約2,500萬日圓現金被盜",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79776"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "圖 GP第5輪島田真央兩連勝晉級決賽",
+      "summary": [
+        "NHK新聞：圖 GP第5輪島田真央兩連勝晉級決賽"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "圖 GP第5輪島田真央兩連勝晉級決賽",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79775"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "FBI十大通緝名單上的墨西哥毒梟在槍戰中被捕",
+      "summary": [
+        "BBC World：FBI十大通緝名單上的墨西哥毒梟在槍戰中被捕"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "FBI十大通緝名單上的墨西哥毒梟在槍戰中被捕",
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
