@@ -1,21 +1,16 @@
 {
-  "updated_at": "2026-11-23 03:56",
+  "updated_at": "2026-11-23 04:27",
   "taiwan": [
     {
       "rank": 1,
-      "title": "嘉義男經商失敗「辣椒水搶郵局」未遂！　21小時落網收押",
+      "title": "嘉義縣長選戰白熱化！蔡易餘車掃拚連線、吳品叡市場反水庫光電",
       "summary": [
-        "ETtoday：嘉義男經商失敗「辣椒水搶郵局」未遂！　21小時落網收押",
         "自由時報：嘉義縣長選戰白熱化！蔡易餘車掃拚連線、吳品叡市場反水庫光電",
-        "公視新聞：新北選戰藍綠三重辦造勢晚會 李四川、蘇巧慧隔空拚場"
+        "公視新聞：新北選戰藍綠三重辦造勢晚會 李四川、蘇巧慧隔空拚場",
+        "ETtoday：卓揆稱蘇巧慧直達車走向新北　李競辦諷：4500萬公帑頭等艙直達蘇家"
       ],
       "media_count": 4,
       "links": [
-        {
-          "source": "ETtoday",
-          "title": "嘉義男經商失敗「辣椒水搶郵局」未遂！　21小時落網收押",
-          "url": "https://www.ettoday.net/news/20261122/3276529.htm"
-        },
         {
           "source": "自由時報",
           "title": "嘉義縣長選戰白熱化！蔡易餘車掃拚連線、吳品叡市場反水庫光電",
@@ -25,6 +20,11 @@
           "source": "公視新聞",
           "title": "新北選戰藍綠三重辦造勢晚會 李四川、蘇巧慧隔空拚場",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LQ1Zwd1hQWWFCb1BaSVJEUTZ0YlB0Z3l5dFgxeUROQ2FMZ3JOQUt2aFJ0TDd4d1gyLVBud1l1eHhuVG1kOUhfX3BpRzFIZTQ?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "卓揆稱蘇巧慧直達車走向新北　李競辦諷：4500萬公帑頭等艙直達蘇家",
+          "url": "https://www.ettoday.net/news/20261122/3276637.htm"
         },
         {
           "source": "經濟日報",
@@ -232,54 +232,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "達美航空進出亞特蘭大的航班因係統故障而延誤",
-      "summary": [
-        "The Verge：達美航空進出亞特蘭大的航班因係統故障而延誤",
-        "Financial Times：達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
-        "Investing.com：達美航空航班因自動化系統問題在亞特蘭大機場遭遇短暫延誤"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "達美航空進出亞特蘭大的航班因係統故障而延誤",
-          "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage"
-        },
-        {
-          "source": "Financial Times",
-          "title": "達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
-          "url": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Investing.com",
-          "title": "達美航空航班因自動化系統問題在亞特蘭大機場遭遇短暫延誤",
-          "url": "https://www.investing.com/news/stock-market-news/delta-flights-faced-brief-delays-atatlanta-airport-over-automated-system-issue-5044102"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "美國擬禁止中國移動等電信巨頭直接接入美國電話號碼，中國批評“惡意打壓”",
-      "summary": [
-        "法廣RFI：美國擬禁止中國移動等電信巨頭直接接入美國電話號碼，中國批評“惡意打壓”",
-        "Nikkei Asia：中國猛烈抨擊美國禁止其電信公司取得美國電話號碼的禁令"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "美國擬禁止中國移動等電信巨頭直接接入美國電話號碼，中國批評“惡意打壓”",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261122-%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%88%87%E6%96%B7%E4%B8%AD%E5%9C%8B%E7%A7%BB%E5%8B%95%E7%AD%89%E9%9B%BB%E4%BF%A1%E5%B7%A8%E9%A0%AD%E7%9B%B4%E6%8E%A5%E6%8E%A5%E5%85%A5%E7%BE%8E%E5%9C%8B%E9%9B%BB%E8%A9%B1%E8%99%9F%E7%A2%BC%EF%BC%8C%E4%B8%AD%E5%9C%8B%E6%89%B9%E8%A9%95-%E6%83%A1%E6%84%8F%E6%89%93%E5%A3%93"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "中國猛烈抨擊美國禁止其電信公司取得美國電話號碼的禁令",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYlMtNjhEVnBVTFZBaG9xbXhBOWdVcGtSMXJwaTJ3cXNoU3hYVWRSZktvOW1fYmtGWi0yc1JoZkdHbGN1dElURU1IbDQ4ZmFITERkQ09ydEkxLUc1eHFCemk4d1ZZNjdJc1ctcUc0RmdPczI2aHBia1laRzlOT2FzeEhLeVNDYlN6MDZOX0xxRVNGeHFmbE1hN2xfQzhzSUlOeW95LXpLQ1dsbEN5NjY5d3ZtSWlRcG5SZjctZkJXZUZLUHN4TFdUVk03VURjRURHSEo5U0hjd0lYUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "韓國教育部長因AI作弊醜聞辭職，稱不確定自己是否有能力杜絕高考AI作弊",
       "summary": [
         "法廣RFI：韓國教育部長因AI作弊醜聞辭職，稱不確定自己是否有能力杜絕高考AI作弊",
@@ -300,7 +252,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "臺灣外交部次長警告加拿大總理卡尼，深化與中國的貿易關係可能帶來經濟脅迫風險",
       "summary": [
         "德國之聲：臺灣外交部次長警告加拿大總理卡尼，深化與中國的貿易關係可能帶來經濟脅迫風險",
@@ -321,7 +273,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "黑色星期五 Nintendo Switch 2 最佳優惠（2026 年）：Switch 2 套裝和遊戲",
       "summary": [
         "Wired：黑色星期五 Nintendo Switch 2 最佳優惠（2026 年）：Switch 2 套裝和遊戲",
@@ -342,7 +294,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "COP31氣候大會未能透過最終決議,歐盟及130多個國家要求加強氣候行動",
       "summary": [
         "德國之聲：COP31氣候大會未能透過最終決議,歐盟及130多個國家要求加強氣候行動",
@@ -363,7 +315,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "官員稱利比亞港口俄羅斯船隻爆炸可能由無人機襲擊造成",
       "summary": [
         "BBC World：官員稱利比亞港口俄羅斯船隻爆炸可能由無人機襲擊造成",
@@ -384,7 +336,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "亞洲國家在人工智慧潰敗後採取措施援助股市",
       "summary": [
         "Investing.com：亞洲國家在人工智慧潰敗後採取措施援助股市",
@@ -405,7 +357,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "貝森特表示，美國就英偉達向中國出售晶片一事尋求答案",
       "summary": [
         "Investing.com：貝森特表示，美國就英偉達向中國出售晶片一事尋求答案",
@@ -426,17 +378,53 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "性交易在捷克：法律的灰色地帶",
+      "rank": 8,
+      "title": "達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
       "summary": [
-        "德國之聲：性交易在捷克：法律的灰色地帶"
+        "Financial Times：達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
+        "Investing.com：達美航空航班因自動化系統問題在亞特蘭大機場遭遇短暫延誤"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
+          "url": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "達美航空航班因自動化系統問題在亞特蘭大機場遭遇短暫延誤",
+          "url": "https://www.investing.com/news/stock-market-news/delta-flights-faced-brief-delays-atatlanta-airport-over-automated-system-issue-5044102"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "臺灣九合一大選前「超級星期六」 藍綠白各自搶攻票倉造勢",
+      "summary": [
+        "法廣RFI：臺灣九合一大選前「超級星期六」 藍綠白各自搶攻票倉造勢"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "性交易在捷克：法律的灰色地帶",
-          "url": "https://www.dw.com/zh/性交易在捷克：法律的灰色地带/a-80004617?maca=chi-rss-chi-all-1127-rdf"
+          "source": "法廣RFI",
+          "title": "臺灣九合一大選前「超級星期六」 藍綠白各自搶攻票倉造勢",
+          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261122-%E5%8F%B0%E7%81%A3%E4%B9%9D%E5%90%88%E4%B8%80%E5%A4%A7%E9%81%B8%E5%89%8D-%E8%B6%85%E7%B4%9A%E6%98%9F%E6%9C%9F%E5%85%AD-%E8%97%8D%E7%B6%A0%E7%99%BD%E5%90%84%E8%87%AA%E6%90%B6%E6%94%BB%E7%A5%A8%E5%80%89%E9%80%A0%E5%8B%A2"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "大相撲九州大會小野裡第七次奪冠，晉級橫綱後首次連勝",
+      "summary": [
+        "NHK新聞：大相撲九州大會小野裡第七次奪冠，晉級橫綱後首次連勝"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "大相撲九州大會小野裡第七次奪冠，晉級橫綱後首次連勝",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261122de79989"
         }
       ]
     }
