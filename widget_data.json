@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 22:25",
+  "updated_at": "2026-11-22 22:56",
   "taiwan": [
     {
       "rank": 1,
@@ -40,27 +40,6 @@
     },
     {
       "rank": 2,
-      "title": "六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
-      "summary": [
-        "自由時報：六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
-        "ETtoday：北海道名店六花亭遭駭！8000筆信用卡個資外洩　顧客被盜刷5萬日圓"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5649259"
-        },
-        {
-          "source": "ETtoday",
-          "title": "北海道名店六花亭遭駭！8000筆信用卡個資外洩　顧客被盜刷5萬日圓",
-          "url": "https://www.ettoday.net/news/20261122/3276439.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光",
       "summary": [
         "今周刊：川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光",
@@ -81,7 +60,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "黃仁勳共諜案竟與太子集團有關？金融時報揭「二把手」助輝達晶片流入中國…走私鏈如何運作？",
       "summary": [
         "今周刊：黃仁勳共諜案竟與太子集團有關？金融時報揭「二把手」助輝達晶片流入中國…走私鏈如何運作？",
@@ -102,7 +81,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "說好的正面選戰呢？賴士葆站臺脫口罵沈伯洋「人渣、洋流是空心流」...蔣萬安致歉喊不認同",
       "summary": [
         "今周刊：說好的正面選戰呢？賴士葆站臺脫口罵沈伯洋「人渣、洋流是空心流」...蔣萬安致歉喊不認同",
@@ -123,7 +102,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "證交所急召十券商！今討論融資維持率是否降至120％備受矚目- 日報",
       "summary": [
         "工商時報：證交所急召十券商！今討論融資維持率是否降至120％備受矚目- 日報",
@@ -144,7 +123,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "陳珮騏隔3年返鄉…抵高雄哀嚎「沒搶到BTS」　爆八點檔男星躺著賺",
       "summary": [
         "ETtoday：陳珮騏隔3年返鄉…抵高雄哀嚎「沒搶到BTS」　爆八點檔男星躺著賺",
@@ -165,7 +144,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "南韓學測AI作弊難防！政策急轉彎引混亂　教育部長崔教振請辭負責",
       "summary": [
         "ETtoday：南韓學測AI作弊難防！政策急轉彎引混亂　教育部長崔教振請辭負責",
@@ -186,7 +165,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "印尼糖果工廠遇祝融3死4傷　36人下落不明",
       "summary": [
         "經濟日報：印尼糖果工廠遇祝融3死4傷　36人下落不明",
@@ -207,7 +186,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "嘉義城隍廟11/30贊境艋舺青山王祭 再現30年前12班陣容",
       "summary": [
         "自由時報：嘉義城隍廟11/30贊境艋舺青山王祭 再現30年前12班陣容",
@@ -224,6 +203,27 @@
           "source": "工商時報",
           "title": "曾登李登輝就職典禮！嘉義城隍駕前十二班睽違30年再現青山王祭- 生活",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EOHA3ZXBYeWdmVTJCT1I3cGxaSEkyRlBpdjY1MWhKaURXUU4wTXRBWUhmWFJkSFNCeXB3SXQwYjZIQ3F5eHNXYUpycHlydVRqX1RTWWVydjAwS2VBTHZJ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "藍委痛罵人渣　沈伯洋笑回：我鬍子沒刮就蠻多渣渣",
+      "summary": [
+        "ETtoday：藍委痛罵人渣　沈伯洋笑回：我鬍子沒刮就蠻多渣渣",
+        "自由時報：賴士葆開罵「人渣」 沈伯洋：鬍子沒刮也會渣渣的"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "藍委痛罵人渣　沈伯洋笑回：我鬍子沒刮就蠻多渣渣",
+          "url": "https://www.ettoday.net/news/20261122/3276480.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "賴士葆開罵「人渣」 沈伯洋：鬍子沒刮也會渣渣的",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649600"
         }
       ]
     }
@@ -327,51 +327,27 @@
     },
     {
       "rank": 5,
-      "title": "首裡城正殿被大火燒毀，政府主辦的修復完成儀式在下午沖繩舉行",
+      "title": "COP31氣候大會未能透過最終決議,歐盟及130多個國家要求加強氣候行動",
       "summary": [
-        "NHK新聞：首裡城正殿被大火燒毀，政府主辦的修復完成儀式在下午沖繩舉行"
+        "德國之聲：COP31氣候大會未能透過最終決議,歐盟及130多個國家要求加強氣候行動",
+        "Nikkei Asia：歐盟和其他國家拒絕達成協議，COP31氣候談判破裂"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "首裡城正殿被大火燒毀，政府主辦的修復完成儀式在下午沖繩舉行",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261122de79841"
+          "source": "德國之聲",
+          "title": "COP31氣候大會未能透過最終決議,歐盟及130多個國家要求加強氣候行動",
+          "url": "https://www.dw.com/zh/cop31气候大会未能通过最终决议-欧盟及130多个国家要求加强气候行动/a-80013909?maca=chi-rss-chi-all-1127-rdf"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "歐盟和其他國家拒絕達成協議，COP31氣候談判破裂",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSkh5N0RjazJfUVVxRHlvbHB0QlM5WEoyUjNacW01VjZad0F6dlFCV0twdlFtV1ZVbDhTcF9XcG1aeEwwMXBhQVpjaEJEWS1ncXg3UnRqaVg3dUZkR1dOTVFEREQ4Y21HTWdocGJoX3YzUXdrN3hkQkN2WVkyZlBfWGhKN0FtMWFMT043alljZG84VWNMVDMxempKQ0xrVWc1NmQxOGw0X205NzI4Vnl4M3BWOVRFQXVVSmc?oc=5"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "韓國今年有望躍居全球第四大出口國",
-      "summary": [
-        "韓聯社：韓國今年有望躍居全球第四大出口國"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "韓國今年有望躍居全球第四大出口國",
-          "url": "https://cn.yna.co.kr/view/ACK20261122000300881"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "偏見的新衣——評黃亞生的經濟觀點",
-      "summary": [
-        "FT中文網：偏見的新衣——評黃亞生的經濟觀點"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "FT中文網",
-          "title": "偏見的新衣——評黃亞生的經濟觀點",
-          "url": "https://www.ftchinese.com/story/001112096"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "晶片股現在正在重演2001年發生的事情",
       "summary": [
         "Yahoo Finance：晶片股現在正在重演2001年發生的事情"
@@ -386,7 +362,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "拉麵講座：日本公司嘗試新的擴張策略",
       "summary": [
         "Nikkei Asia：拉麵講座：日本公司嘗試新的擴張策略"
@@ -401,7 +377,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "伊朗宣佈襲擊美國在巴林的軍事設施；緊張局勢仍在繼續",
       "summary": [
         "NHK新聞：伊朗宣佈襲擊美國在巴林的軍事設施；緊張局勢仍在繼續"
@@ -412,6 +388,36 @@
           "source": "NHK新聞",
           "title": "伊朗宣佈襲擊美國在巴林的軍事設施；緊張局勢仍在繼續",
           "url": "https://news.web.nhk/newsweb/na/nd-20261122de79868"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "分析|人工智慧執行長們有權利卻脫節，他們正在走向衰落",
+      "summary": [
+        "Washington Post：分析|人工智慧執行長們有權利卻脫節，他們正在走向衰落"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "分析|人工智慧執行長們有權利卻脫節，他們正在走向衰落",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVE04c2JFeVQtdll3WmNoaW1ES3dYTzI2eFBXNEs1V2tjOE1pVlE1Tk1vRWl2WnkwY2dVYmxDbzJNaXVRWWs1OTZsRGJ5RGYxNktjZW43UThxUnNsOG5pamR2RjdVaUo3ajMwZDlYbWFXcnZjUzJ6VXJSekhmSnh0RWJqXzhfVXFyVC1kSVhMc0RBVlp3OUJXWS1CWW9OOGttSnRoSkxoWG5uemRi?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "澳洲反對派呼籲改變天然氣儲備計劃",
+      "summary": [
+        "Bloomberg Markets：澳洲反對派呼籲改變天然氣儲備計劃"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "澳洲反對派呼籲改變天然氣儲備計劃",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/australian-opposition-calls-for-changes-to-gas-reservation-plan"
         }
       ]
     }
