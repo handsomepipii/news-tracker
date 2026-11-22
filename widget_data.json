@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 04:27",
+  "updated_at": "2026-11-23 04:57",
   "taiwan": [
     {
       "rank": 1,
@@ -232,27 +232,54 @@
   "global": [
     {
       "rank": 1,
-      "title": "韓國教育部長因AI作弊醜聞辭職，稱不確定自己是否有能力杜絕高考AI作弊",
+      "title": "達美航空進出亞特蘭大的航班因係統故障而延誤",
       "summary": [
-        "法廣RFI：韓國教育部長因AI作弊醜聞辭職，稱不確定自己是否有能力杜絕高考AI作弊",
-        "BBC World：南韓教育部長因考試作弊醜聞辭職"
+        "The Verge：達美航空進出亞特蘭大的航班因係統故障而延誤",
+        "Financial Times：達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
+        "Investing.com：達美航空航班因自動化系統問題在亞特蘭大機場遭遇短暫延誤"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "韓國教育部長因AI作弊醜聞辭職，稱不確定自己是否有能力杜絕高考AI作弊",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261122-%E9%9F%93%E5%9C%8B%E6%95%99%E8%82%B2%E9%83%A8%E9%95%B7%E5%9B%A0ai%E4%BD%9C%E5%BC%8A%E9%86%9C%E8%81%9E%E8%BE%AD%E8%81%B7%EF%BC%8C%E7%A8%B1%E4%B8%8D%E7%A2%BA%E5%AE%9A%E8%87%AA%E5%B7%B1%E6%98%AF%E5%90%A6%E6%9C%89%E8%83%BD%E5%8A%9B%E6%9D%9C%E7%B5%95%E9%AB%98%E8%80%83ai%E4%BD%9C%E5%BC%8A"
+          "source": "The Verge",
+          "title": "達美航空進出亞特蘭大的航班因係統故障而延誤",
+          "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage"
         },
         {
-          "source": "BBC World",
-          "title": "南韓教育部長因考試作弊醜聞辭職",
-          "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+          "source": "Financial Times",
+          "title": "達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
+          "url": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "達美航空航班因自動化系統問題在亞特蘭大機場遭遇短暫延誤",
+          "url": "https://www.investing.com/news/stock-market-news/delta-flights-faced-brief-delays-atatlanta-airport-over-automated-system-issue-5044102"
         }
       ]
     },
     {
       "rank": 2,
+      "title": "歐盟和其他國家拒絕達成協議，COP31氣候談判破裂",
+      "summary": [
+        "Nikkei Asia：歐盟和其他國家拒絕達成協議，COP31氣候談判破裂",
+        "BBC World：COP31未能達成重大氣候協議，談判暴露出深刻分歧"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "歐盟和其他國家拒絕達成協議，COP31氣候談判破裂",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSkh5N0RjazJfUVVxRHlvbHB0QlM5WEoyUjNacW01VjZad0F6dlFCV0twdlFtV1ZVbDhTcF9XcG1aeEwwMXBhQVpjaEJEWS1ncXg3UnRqaVg3dUZkR1dOTVFEREQ4Y21HTWdocGJoX3YzUXdrN3hkQkN2WVkyZlBfWGhKN0FtMWFMT043alljZG84VWNMVDMxempKQ0xrVWc1NmQxOGw0X205NzI4Vnl4M3BWOVRFQXVVSmc?oc=5"
+        },
+        {
+          "source": "BBC World",
+          "title": "COP31未能達成重大氣候協議，談判暴露出深刻分歧",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "臺灣外交部次長警告加拿大總理卡尼，深化與中國的貿易關係可能帶來經濟脅迫風險",
       "summary": [
         "德國之聲：臺灣外交部次長警告加拿大總理卡尼，深化與中國的貿易關係可能帶來經濟脅迫風險",
@@ -273,7 +300,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "黑色星期五 Nintendo Switch 2 最佳優惠（2026 年）：Switch 2 套裝和遊戲",
       "summary": [
         "Wired：黑色星期五 Nintendo Switch 2 最佳優惠（2026 年）：Switch 2 套裝和遊戲",
@@ -290,27 +317,6 @@
           "source": "Tom's Hardware",
           "title": "Nintendo Switch 2 套裝在黑色星期五預售中降至升息前的價格",
           "url": "https://www.tomshardware.com/video-games/handheld-gaming/nintendo-switch-2-bundles-drop-to-pre-hike-pricing-in-black-friday-run-up-sale-get-a-switch-2-along-with-mario-kart-world-and-nintendo-switch-online-for-usd50-off"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "COP31氣候大會未能透過最終決議,歐盟及130多個國家要求加強氣候行動",
-      "summary": [
-        "德國之聲：COP31氣候大會未能透過最終決議,歐盟及130多個國家要求加強氣候行動",
-        "Nikkei Asia：歐盟和其他國家拒絕達成協議，COP31氣候談判破裂"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "COP31氣候大會未能透過最終決議,歐盟及130多個國家要求加強氣候行動",
-          "url": "https://www.dw.com/zh/cop31气候大会未能通过最终决议-欧盟及130多个国家要求加强气候行动/a-80013909?maca=chi-rss-chi-all-1127-rdf"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "歐盟和其他國家拒絕達成協議，COP31氣候談判破裂",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSkh5N0RjazJfUVVxRHlvbHB0QlM5WEoyUjNacW01VjZad0F6dlFCV0twdlFtV1ZVbDhTcF9XcG1aeEwwMXBhQVpjaEJEWS1ncXg3UnRqaVg3dUZkR1dOTVFEREQ4Y21HTWdocGJoX3YzUXdrN3hkQkN2WVkyZlBfWGhKN0FtMWFMT043alljZG84VWNMVDMxempKQ0xrVWc1NmQxOGw0X205NzI4Vnl4M3BWOVRFQXVVSmc?oc=5"
         }
       ]
     },
@@ -379,52 +385,46 @@
     },
     {
       "rank": 8,
-      "title": "達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
+      "title": "菲律賓寵物火葬場醜聞：死去貓狗本應火化，但屍體卻出現在直播畫面中",
       "summary": [
-        "Financial Times：達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
-        "Investing.com：達美航空航班因自動化系統問題在亞特蘭大機場遭遇短暫延誤"
+        "BBC中文：菲律賓寵物火葬場醜聞：死去貓狗本應火化，但屍體卻出現在直播畫面中"
       ],
-      "media_count": 2,
+      "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
-          "url": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Investing.com",
-          "title": "達美航空航班因自動化系統問題在亞特蘭大機場遭遇短暫延誤",
-          "url": "https://www.investing.com/news/stock-market-news/delta-flights-faced-brief-delays-atatlanta-airport-over-automated-system-issue-5044102"
+          "source": "BBC中文",
+          "title": "菲律賓寵物火葬場醜聞：死去貓狗本應火化，但屍體卻出現在直播畫面中",
+          "url": "https://www.bbc.com/zhongwen/articles/cv62pjg5d533o/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "臺灣九合一大選前「超級星期六」 藍綠白各自搶攻票倉造勢",
+      "title": "日本未透露高市APEC期間是否與臺灣代表會談",
       "summary": [
-        "法廣RFI：臺灣九合一大選前「超級星期六」 藍綠白各自搶攻票倉造勢"
+        "法廣RFI：日本未透露高市APEC期間是否與臺灣代表會談"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "臺灣九合一大選前「超級星期六」 藍綠白各自搶攻票倉造勢",
-          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261122-%E5%8F%B0%E7%81%A3%E4%B9%9D%E5%90%88%E4%B8%80%E5%A4%A7%E9%81%B8%E5%89%8D-%E8%B6%85%E7%B4%9A%E6%98%9F%E6%9C%9F%E5%85%AD-%E8%97%8D%E7%B6%A0%E7%99%BD%E5%90%84%E8%87%AA%E6%90%B6%E6%94%BB%E7%A5%A8%E5%80%89%E9%80%A0%E5%8B%A2"
+          "title": "日本未透露高市APEC期間是否與臺灣代表會談",
+          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261122-%E6%97%A5%E6%9C%AC%E6%9C%AA%E9%80%8F%E9%9C%B2%E9%AB%98%E5%B8%82apec%E6%9C%9F%E9%96%93%E6%98%AF%E5%90%A6%E8%88%87%E5%8F%B0%E7%81%A3%E4%BB%A3%E8%A1%A8%E6%9C%83%E8%AB%87"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "大相撲九州大會小野裡第七次奪冠，晉級橫綱後首次連勝",
+      "title": "千葉印羽沼堤壩塌陷，修復工作毫無進展，影響水稻生產",
       "summary": [
-        "NHK新聞：大相撲九州大會小野裡第七次奪冠，晉級橫綱後首次連勝"
+        "NHK新聞：千葉印羽沼堤壩塌陷，修復工作毫無進展，影響水稻生產"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "大相撲九州大會小野裡第七次奪冠，晉級橫綱後首次連勝",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261122de79989"
+          "title": "千葉印羽沼堤壩塌陷，修復工作毫無進展，影響水稻生產",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261122de79985"
         }
       ]
     }
