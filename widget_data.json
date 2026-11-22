@@ -1,40 +1,8 @@
 {
-  "updated_at": "2026-11-22 17:55",
+  "updated_at": "2026-11-22 18:25",
   "taiwan": [
     {
       "rank": 1,
-      "title": "川普仍有意與伊朗達成永久協議：不在乎政權更迭但絕不容許擁核",
-      "summary": [
-        "ETtoday：川普仍有意與伊朗達成永久協議：不在乎政權更迭但絕不容許擁核",
-        "經濟日報：川普盼與伊朗簽永久協議！喊話4年後換無能總統也不能翻盤",
-        "今周刊：川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "川普仍有意與伊朗達成永久協議：不在乎政權更迭但絕不容許擁核",
-          "url": "https://www.ettoday.net/news/20261122/3276281.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普盼與伊朗簽永久協議！喊話4年後換無能總統也不能翻盤",
-          "url": "https://money.udn.com/money/story/5599/9894037"
-        },
-        {
-          "source": "今周刊",
-          "title": "川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZU1CNFpNb1FVRGxORWRpVlJDakZRc1liRjB2ZUNudEFSRDI0UEtGaElHN2lKQlJKUHhBNGVGY1ZpWGw3SExfdUkyOWc2clpUdXN4b3NaZERheGo5QWhsUEQySl9vZFZWeHRxOHNFdWYxQ0d6bUUxRDZ4YWlHbVhSUA?oc=5"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "確保伊朗未來無法取得核武川普盼達成永久協議- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE0xTVpVb2Y0NURubkp2eVB0NEJYa00tRGZZTjR0S0FSSl9ISkZqdTUwRDJXdWo1N1NpVVQ3d0txdmtmeE4tc0tHTjJQSDdLVWx1WWp0QkJwMURXYVB0U2w1S2xjWENnY0JsZlk1b0hpbFE3N05GRlZyU1F6NU9RY1FKUFU2VWlMU1k2c01NdEM4dw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "臺股回檔投資策略法人教戰- 日報",
       "summary": [
         "工商時報：臺股回檔投資策略法人教戰- 日報",
@@ -57,6 +25,33 @@
           "source": "自由時報",
           "title": "臺中市長選舉！「臺中桂綸鎂」與「臺中林俊傑」大車拼",
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649406"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "川普盼與伊朗簽永久協議！喊話4年後換無能總統也不能翻盤",
+      "summary": [
+        "經濟日報：川普盼與伊朗簽永久協議！喊話4年後換無能總統也不能翻盤",
+        "今周刊：川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光",
+        "MoneyDJ理財網：確保伊朗未來無法取得核武川普盼達成永久協議- 新聞"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普盼與伊朗簽永久協議！喊話4年後換無能總統也不能翻盤",
+          "url": "https://money.udn.com/money/story/5599/9894037"
+        },
+        {
+          "source": "今周刊",
+          "title": "川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZU1CNFpNb1FVRGxORWRpVlJDakZRc1liRjB2ZUNudEFSRDI0UEtGaElHN2lKQlJKUHhBNGVGY1ZpWGw3SExfdUkyOWc2clpUdXN4b3NaZERheGo5QWhsUEQySl9vZFZWeHRxOHNFdWYxQ0d6bUUxRDZ4YWlHbVhSUA?oc=5"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "確保伊朗未來無法取得核武川普盼達成永久協議- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE0xTVpVb2Y0NURubkp2eVB0NEJYa00tRGZZTjR0S0FSSl9ISkZqdTUwRDJXdWo1N1NpVVQ3d0txdmtmeE4tc0tHTjJQSDdLVWx1WWp0QkJwMURXYVB0U2w1S2xjWENnY0JsZlk1b0hpbFE3N05GRlZyU1F6NU9RY1FKUFU2VWlMU1k2c01NdEM4dw?oc=5"
         }
       ]
     },
@@ -364,61 +359,61 @@
     },
     {
       "rank": 7,
-      "title": "德國《南方信使報》：中美俄三巨頭會晤成果寥寥無幾",
+      "title": "週六法國多個城市爆發大規模遊行，抗議公共服務差、生活成本高、不平等",
       "summary": [
-        "法廣RFI：德國《南方信使報》：中美俄三巨頭會晤成果寥寥無幾"
+        "法廣RFI：週六法國多個城市爆發大規模遊行，抗議公共服務差、生活成本高、不平等"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "德國《南方信使報》：中美俄三巨頭會晤成果寥寥無幾",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261121-%E5%BE%B7%E5%9C%8B-%E5%8D%97%E6%96%B9%E4%BF%A1%E4%BD%BF%E5%A0%B1-%E4%B8%AD%E7%BE%8E%E4%BF%84%E4%B8%89%E5%B7%A8%E9%A0%AD%E6%9C%83%E6%99%A4%E6%88%90%E6%9E%9C%E5%AF%A5%E5%AF%A5%E7%84%A1%E5%B9%BE"
+          "title": "週六法國多個城市爆發大規模遊行，抗議公共服務差、生活成本高、不平等",
+          "url": "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20261121-%E5%91%A8%E5%85%AD%E6%B3%95%E5%9C%8B%E5%A4%9A%E5%80%8B%E5%9F%8E%E5%B8%82%E7%88%86%E7%99%BC%E4%BA%86%E7%AC%AC%E5%85%AD%E5%80%8B%E5%91%A8%E6%9C%AB%E5%A4%A7%E8%A6%8F%E6%A8%A1%E9%81%8A%E8%A1%8C%EF%BC%8C%E6%8A%97%E8%AD%B0%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8B%99%E5%B7%AE%EF%BC%8C%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E9%AB%98%EF%BC%8C%E4%B8%8D%E5%B9%B3%E7%AD%89"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "美國前總統喬治華盛頓的一縷頭髮售價4000美元",
+      "title": "COP31 : 最終能否達成並透過決議文字充滿懸念",
       "summary": [
-        "BBC World：美國前總統喬治華盛頓的一縷頭髮售價4000美元"
+        "法廣RFI：COP31 : 最終能否達成並透過決議文字充滿懸念"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "BBC World",
-          "title": "美國前總統喬治華盛頓的一縷頭髮售價4000美元",
-          "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss"
+          "source": "法廣RFI",
+          "title": "COP31 : 最終能否達成並透過決議文字充滿懸念",
+          "url": "https://www.rfi.fr/tw/%E7%94%9F%E6%85%8B/20261121-cop31-%E6%9C%80%E7%B5%82%E6%96%87%E6%9C%AC%E9%A0%90%E5%AE%9A%E5%91%A8%E6%97%A5%E4%B8%8A%E5%8D%88%E6%8E%A8%E5%87%BA"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "你應該忘記 SpaceX 股票嗎？",
+      "title": "澤連斯基回應特朗普：普京只是一介屠夫",
       "summary": [
-        "Yahoo Finance：你應該忘記 SpaceX 股票嗎？"
+        "法廣RFI：澤連斯基回應特朗普：普京只是一介屠夫"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "你應該忘記 SpaceX 股票嗎？",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTTBDUVI4MDkyWDRBeWFOM2sxMkExd2hMRWU3STBLSzN6SXFjMldVQV85a1gzOHl4aGFpVXdPWm1Nb2ZZZnZhQVlOSWMwUDJrOGxoamYweEFmaGwtbk8xNVQtQTZYYUo0akZnc2hfZDFRWE5HTFFVcTBIZ3VBYzRnMzFYZ3FaNnEtUzVaWQ?oc=5"
+          "source": "法廣RFI",
+          "title": "澤連斯基回應特朗普：普京只是一介屠夫",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261121-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E5%9B%9E%E6%87%89%E7%89%B9%E6%9C%97%E6%99%AE-%E6%99%AE%E4%BA%AC%E5%8F%AA%E6%98%AF%E4%B8%80%E4%BB%8B%E5%B1%A0%E5%A4%AB"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "亞馬遜也在抱怨紐約市議會在運輸標籤上的做法",
+      "title": "福島縣警察因涉嫌在酒店更衣室秘密拍攝託兒所兒童而被捕",
       "summary": [
-        "The Verge：亞馬遜也在抱怨紐約市議會在運輸標籤上的做法"
+        "NHK新聞：福島縣警察因涉嫌在酒店更衣室秘密拍攝託兒所兒童而被捕"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "The Verge",
-          "title": "亞馬遜也在抱怨紐約市議會在運輸標籤上的做法",
-          "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label"
+          "source": "NHK新聞",
+          "title": "福島縣警察因涉嫌在酒店更衣室秘密拍攝託兒所兒童而被捕",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261122de79820"
         }
       ]
     }
