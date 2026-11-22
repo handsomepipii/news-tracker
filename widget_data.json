@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 07:55",
+  "updated_at": "2026-11-22 08:25",
   "taiwan": [
     {
       "rank": 1,
@@ -57,6 +57,33 @@
     },
     {
       "rank": 3,
+      "title": "墨西哥逮捕FBI十大通緝毒梟　當地爆槍戰與暴力事件",
+      "summary": [
+        "自由時報：墨西哥逮捕FBI十大通緝毒梟　當地爆槍戰與暴力事件",
+        "經濟日報：墨西哥逮捕FBI十大通緝毒梟　當地爆槍戰與暴力事件",
+        "ETtoday：墨西哥逮捕FBI十大通緝毒梟　爆激烈槍戰"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "墨西哥逮捕FBI十大通緝毒梟　當地爆槍戰與暴力事件",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5649165"
+        },
+        {
+          "source": "經濟日報",
+          "title": "墨西哥逮捕FBI十大通緝毒梟　當地爆槍戰與暴力事件",
+          "url": "https://money.udn.com/money/story/5599/9893961"
+        },
+        {
+          "source": "ETtoday",
+          "title": "墨西哥逮捕FBI十大通緝毒梟　爆激烈槍戰",
+          "url": "https://www.ettoday.net/news/20261122/3276288.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "加拿大防長：美加軍事合作依舊密切　未見關係生變",
       "summary": [
         "自由時報：加拿大防長：美加軍事合作依舊密切　未見關係生變",
@@ -83,7 +110,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "不是芭樂票！陳素月晚會闢謠：65歲免健保費任內必推",
       "summary": [
         "自由時報：不是芭樂票！陳素月晚會闢謠：65歲免健保費任內必推",
@@ -104,7 +131,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "《傳產》北市大安區仍是豪宅交易核心 士林、北投佔比攀升",
       "summary": [
         "中時新聞：《傳產》北市大安區仍是豪宅交易核心 士林、北投佔比攀升",
@@ -125,7 +152,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "臺股禁空令來了！金管會祭5大救市措施 下週一全面啟動",
       "summary": [
         "中時新聞：臺股禁空令來了！金管會祭5大救市措施 下週一全面啟動",
@@ -146,7 +173,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "為白站臺！ 蔣萬安心疼柯受委屈：用選票拒絕政治追殺",
       "summary": [
         "中時新聞：為白站臺！ 蔣萬安心疼柯受委屈：用選票拒絕政治追殺",
@@ -167,7 +194,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "不讓AI主宰戰場決策 美財長：美中領袖認同AI軍事應用底線",
       "summary": [
         "自由時報：不讓AI主宰戰場決策 美財長：美中領袖認同AI軍事應用底線",
@@ -188,7 +215,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "週日好天氣！清晨急凍「這地區」恐跌破10度",
       "summary": [
         "自由時報：週日好天氣！清晨急凍「這地區」恐跌破10度",
@@ -207,53 +234,11 @@
           "url": "https://www.ettoday.net/news/20261121/3276269.htm"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14%",
-      "summary": [
-        "鉅亨網：〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14%",
-        "工商時報：美股｜AI賣壓瘋湧！費半大瀉逾10％ 道瓊標普陷修正區間 輝達崩14％ 臺積ADR慘跌近10％"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "鉅亨網",
-          "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14%",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1TWExRndYejA5TkVPZmxTSnNPemZRaHVtMk05bkFkRVVXNld4LTNkM1c4ZnA3d0lObEZkZXZyZUlmMmtDSTZqNy1oMGFwazQ?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "美股｜AI賣壓瘋湧！費半大瀉逾10％ 道瓊標普陷修正區間 輝達崩14％ 臺積ADR慘跌近10％",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUNUYyLU94Mjc1SGxBSWJmRWpockxMVGpVWHVLS3BraHBtbDluQlpiaTFVbENUY28wWGljNy13TXNnd1ZSYjcxSHpYeENMY0lXc2dVenpRdzNHVFl6ZkRJ?oc=5"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "俄羅斯稱貨船在芬蘭灣遭到無人機攻擊",
-      "summary": [
-        "Bloomberg Markets：俄羅斯稱貨船在芬蘭灣遭到無人機攻擊",
-        "BBC World：駛往俄羅斯的船隻在芬蘭灣遭遇攻擊"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "俄羅斯稱貨船在芬蘭灣遭到無人機攻擊",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland"
-        },
-        {
-          "source": "BBC World",
-          "title": "駛往俄羅斯的船隻在芬蘭灣遭遇攻擊",
-          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "分析：為什麼中國不願承擔氣候領導角色？",
       "summary": [
         "德國之聲：分析：為什麼中國不願承擔氣候領導角色？",
@@ -274,7 +259,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "普丁從川普和習近平峰會中獲益",
       "summary": [
         "Bloomberg Markets：普丁從川普和習近平峰會中獲益"
@@ -289,107 +274,122 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "特朗普稱三方會晤“火花四濺”　民主黨批評“丟人現眼”",
+      "rank": 3,
+      "title": "中美俄元首峰會：從烏克蘭、伊朗、和平宣言到承諾核對話",
       "summary": [
-        "德國之聲：特朗普稱三方會晤“火花四濺”　民主黨批評“丟人現眼”"
+        "BBC中文：中美俄元首峰會：從烏克蘭、伊朗、和平宣言到承諾核對話"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "特朗普稱三方會晤“火花四濺”　民主黨批評“丟人現眼”",
-          "url": "https://www.dw.com/zh/特朗普称三方会晤-火花四溅-　民主党批评-丢人现眼/a-80009303?maca=chi-rss-chi-all-1127-rdf"
+          "source": "BBC中文",
+          "title": "中美俄元首峰會：從烏克蘭、伊朗、和平宣言到承諾核對話",
+          "url": "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "rank": 5,
-      "title": "足球J1第15輪FC東京創J1連續10場不失新紀錄",
+      "rank": 4,
+      "title": "支援烏克蘭的聯盟向媒體透露首次軍事演習",
       "summary": [
-        "NHK新聞：足球J1第15輪FC東京創J1連續10場不失新紀錄"
+        "NHK新聞：支援烏克蘭的聯盟向媒體透露首次軍事演習"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "足球J1第15輪FC東京創J1連續10場不失新紀錄",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79744"
+          "title": "支援烏克蘭的聯盟向媒體透露首次軍事演習",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79750"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "意見 |為了生存，伊朗正在改寫女性規則",
+      "summary": [
+        "Washington Post：意見 |為了生存，伊朗正在改寫女性規則"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "意見 |為了生存，伊朗正在改寫女性規則",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbk1wU19zQTUzTEIyZGh2WTlrdFl0NFYwT2QwZjBKei03ck43aGh2YzdrSXlxU0VqYTgtZXo5QkU0MDhJekxIOHNKYWRTQkI3ZG84SFA1ZGFZSHczT0ROWHR1aEItbWY5bUdRVzFLOHdTVXVvMHhHUTYwN3RlTmxvclRrYVZpRFM5c19hUzR3?oc=5"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "澤倫斯基表示克里米亞大橋在會見英國議員斯特里廷時得到了“公平的回應”",
+      "title": "由於其他軍事行動面臨阻力，共和黨將阻止川普五角大廈人選",
       "summary": [
-        "BBC World：澤倫斯基表示克里米亞大橋在會見英國議員斯特里廷時得到了“公平的回應”"
+        "Washington Post：由於其他軍事行動面臨阻力，共和黨將阻止川普五角大廈人選"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "BBC World",
-          "title": "澤倫斯基表示克里米亞大橋在會見英國議員斯特里廷時得到了“公平的回應”",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+          "source": "Washington Post",
+          "title": "由於其他軍事行動面臨阻力，共和黨將阻止川普五角大廈人選",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXJuX3ZtUFRKbjBwa2lBaVc3eHZPakhfNENOa0lhVWZYeDFXcWNIdHpYY01pc2M1ckJ6dkw0VWlhMkxhUHo2VjRtN1F2cEhnekp2YjdSRkpQdVNIRzBnVFVMY3RfaFN3QkZRMGl1RG11My1xT1p4NnYzTFJ2RGw0Q2cxUmV5V0ljWm5BSlprdzNzb2R1MVZIcEYybWVKN04zcHJRMWlNQmtvME4wSGFQMUZvV2kwRUdFM01kTDNjUkZ6dzJvVUs4VlBKcw?oc=5"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "美國航空公司的國際頭等艙已經結束。進入大型商務艙",
+      "title": "拉里·麥克唐納在雷曼兄弟倒閉中倖存​​下來。現在他警告說，信貸市場正在向股市發出成長衝擊的訊號。",
       "summary": [
-        "CNBC：美國航空公司的國際頭等艙已經結束。進入大型商務艙"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "美國航空公司的國際頭等艙已經結束。進入大型商務艙",
-          "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "股市殘酷的一週幾乎抹去了全年漲幅",
-      "summary": [
-        "MarketWatch：股市殘酷的一週幾乎抹去了全年漲幅"
+        "MarketWatch：拉里·麥克唐納在雷曼兄弟倒閉中倖存​​下來。現在他警告說，信貸市場正在向股市發出成長衝擊的訊號。"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "MarketWatch",
-          "title": "股市殘酷的一週幾乎抹去了全年漲幅",
-          "url": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories"
+          "title": "拉里·麥克唐納在雷曼兄弟倒閉中倖存​​下來。現在他警告說，信貸市場正在向股市發出成長衝擊的訊號。",
+          "url": "https://www.marketwatch.com/story/larry-mcdonald-survived-lehmans-collapse-now-he-warns-the-credit-market-is-signaling-a-growth-shock-for-stocks-5c3a62ef?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "鏡頭下：從馬尼拉東協到深圳亞太經合組織",
+      "summary": [
+        "Nikkei Asia：鏡頭下：從馬尼拉東協到深圳亞太經合組織"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "鏡頭下：從馬尼拉東協到深圳亞太經合組織",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmhid0FiOFpIMDNUbFNTLTJHa1RtMDBhQUFmaHVTMFZQUXpfeXpPWmVfNkFQZnprbzdQWG9XenRpWnFnUUxxS1RyZlBvcHM1aVBxLUl4Q3JJRDFrQXVqZmFMd3JHYXg4TjdGeWs2T3UyTWoxUkMyejBMZEFZRkJpSE1kS21FNGthZ1dyOHFCQkhGUQ?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "Harbinger 正在製造平淡無奇的電動車，以保持經濟發展",
+      "title": "據報道，三星的記憶體生產到 2029 年幾乎已滿，客戶尋求 2031 年之前的供應交易",
       "summary": [
-        "The Verge：Harbinger 正在製造平淡無奇的電動車，以保持經濟發展"
+        "Wccftech：據報道，三星的記憶體生產到 2029 年幾乎已滿，客戶尋求 2031 年之前的供應交易"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "The Verge",
-          "title": "Harbinger 正在製造平淡無奇的電動車，以保持經濟發展",
-          "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks"
+          "source": "Wccftech",
+          "title": "據報道，三星的記憶體生產到 2029 年幾乎已滿，客戶尋求 2031 年之前的供應交易",
+          "url": "https://wccftech.com/samsungs-memory-production-reportedly-almost-fully-booked-through-2029-as-customers-seek-supply-deals-until-2031/"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "「種族現實主義」並不現實，也不是好的科學",
+      "title": "九合一前夕：臺灣幾乎年年選舉，會引起「投票疲勞」嗎？",
       "summary": [
-        "Ars Technica：「種族現實主義」並不現實，也不是好的科學"
+        "BBC中文：九合一前夕：臺灣幾乎年年選舉，會引起「投票疲勞」嗎？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Ars Technica",
-          "title": "「種族現實主義」並不現實，也不是好的科學",
-          "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/"
+          "source": "BBC中文",
+          "title": "九合一前夕：臺灣幾乎年年選舉，會引起「投票疲勞」嗎？",
+          "url": "https://www.bbc.com/zhongwen/articles/c63egjkzqpz2o/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
