@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 14:55",
+  "updated_at": "2026-11-22 15:25",
   "taiwan": [
     {
       "rank": 1,
@@ -310,51 +310,6 @@
     },
     {
       "rank": 5,
-      "title": "Crowdstrike與Zscaler的深度展示了AI主導的網路整合",
-      "summary": [
-        "Bloomberg Tech：Crowdstrike與Zscaler的深度展示了AI主導的網路整合"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Crowdstrike與Zscaler的深度展示了AI主導的網路整合",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "新創公司在印度起訴蘋果公司，指控其點選共享聯絡人功能",
-      "summary": [
-        "Yahoo Finance：新創公司在印度起訴蘋果公司，指控其點選共享聯絡人功能"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "新創公司在印度起訴蘋果公司，指控其點選共享聯絡人功能",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa1pkd3czUGx0bk03QlA3OTZ4amt6eFBkOThWNUh3Z0lvRXNVN1ZBOXZxbHlRRDdxWGpfNjBiendJU2pIRmNmdHp1LTA5RDkxYlpYMTBsT3plTEp5R25YY3pSWThTVFlrQUVfX0tyT3JRLXozUEZzSVNjX004Um5od2ZuWGhrc2NvYjJpSUVTN01RZkZC?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "誰真正從人工智慧中獲益？",
-      "summary": [
-        "Investing.com：誰真正從人工智慧中獲益？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "誰真正從人工智慧中獲益？",
-          "url": "https://www.investing.com/news/stock-market-news/who-really-wins-from-ai-5043557"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "香川JR予贊線特快因訊號故障約90名乘客滯留",
       "summary": [
         "NHK新聞：香川JR予贊線特快因訊號故障約90名乘客滯留"
@@ -369,7 +324,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "山形新幹線除部分早班列車外預計正常執行",
       "summary": [
         "NHK新聞：山形新幹線除部分早班列車外預計正常執行"
@@ -384,7 +339,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "一名男子因在加州帕利塞茲引發致命火災而被定罪",
       "summary": [
         "Washington Post：一名男子因在加州帕利塞茲引發致命火災而被定罪"
@@ -395,6 +350,51 @@
           "source": "Washington Post",
           "title": "一名男子因在加州帕利塞茲引發致命火災而被定罪",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0d6bzFiU1FZR2tBSEh5LUxlNmU2bGF5VlFtWUthUEduSFZVTzNoUlhyVk1ZamVfR01DVFlGUVJsUU9selktVExjY2hESWlxbUxOMWxrMGRMQnd1LUJWQnNoQW95UlRNak54a1B6LVlQb25weHkwcURuQlFiYmo4MlAyS2FwQUZZa09ycTJmbHFHaDJDWU9qdVhzU2p6cHduM1VON29wY01FSkhuMUhtT1FMZGdyZVlSX3hXNGg1LUJOUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "「買家熱血沸騰」：隨著房屋銷售創歷史新低，買家正在發號施令",
+      "summary": [
+        "MarketWatch：「買家熱血沸騰」：隨著房屋銷售創歷史新低，買家正在發號施令"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "MarketWatch",
+          "title": "「買家熱血沸騰」：隨著房屋銷售創歷史新低，買家正在發號施令",
+          "url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "我先生 64 歲退休，很高興，他認為我應該繼續工作。他公平嗎？",
+      "summary": [
+        "MarketWatch：我先生 64 歲退休，很高興，他認為我應該繼續工作。他公平嗎？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "MarketWatch",
+          "title": "我先生 64 歲退休，很高興，他認為我應該繼續工作。他公平嗎？",
+          "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "TJMaxx 的母公司將其 4.63 億美元關稅退款中的三分之一用於企業獎金，而且它並不是唯一一家",
+      "summary": [
+        "Yahoo Finance：TJMaxx 的母公司將其 4.63 億美元關稅退款中的三分之一用於企業獎金，而且它並不是唯一一家"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "TJMaxx 的母公司將其 4.63 億美元關稅退款中的三分之一用於企業獎金，而且它並不是唯一一家",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGlaN2NoRFdsZzROTkI5cmRHYkRpWFhraVhjaVZkMURkazFMbEZVbjZBcTlxTlhFbGRVczdQcGFsQmNacEpGdXFEMzByODk3Q2FKV213THlNRjdLYVRyZzItd3RCOEdRcEM5a2p0aHhycm9sNmxoQnF6VjhHRlgzcWl5aXAtdW5fdjVkdF9ySE9BRmJ0bERLdDJZSEtLdlV1?oc=5"
         }
       ]
     }
