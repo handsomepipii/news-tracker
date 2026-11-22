@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 14:25",
+  "updated_at": "2026-11-22 14:55",
   "taiwan": [
     {
       "rank": 1,
@@ -89,22 +89,22 @@
     },
     {
       "rank": 4,
-      "title": "川普籲輝達讓黃仁勳回鍋 強調「應給頂尖人才第二次機會」",
+      "title": "巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
       "summary": [
-        "經濟日報：川普籲輝達讓黃仁勳回鍋 強調「應給頂尖人才第二次機會」",
-        "MoneyDJ理財網：再挺黃仁勳！川普盼輝達給他第2次機會 曝「美中晶片協議洽談中」"
+        "自由時報：巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
+        "經濟日報：巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "川普籲輝達讓黃仁勳回鍋 強調「應給頂尖人才第二次機會」",
-          "url": "https://money.udn.com/money/story/123398/9893844"
+          "source": "自由時報",
+          "title": "巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5649171"
         },
         {
-          "source": "MoneyDJ理財網",
-          "title": "再挺黃仁勳！川普盼輝達給他第2次機會 曝「美中晶片協議洽談中」",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTRQTmNTNjRvMEZTOFdNaFdsaVFTaE45N3R0WWVqb0dYRDQ2cXlib083SWlFUEtDN3g1Skc4V0trUlFXUEJFNGc2dXVxMG15QXBDcFRLNzRDRkxKNEpiWnQ1QzZMdHNCSGZIZXRwWERFb3Z6ZG5OUkwtQzMzQzVnMUZKS21IeGV2RWc0R0c0RjF3Zw?oc=5"
+          "source": "經濟日報",
+          "title": "巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
+          "url": "https://money.udn.com/money/story/5599/9893989"
         }
       ]
     },
@@ -131,27 +131,6 @@
     },
     {
       "rank": 6,
-      "title": "巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
-      "summary": [
-        "自由時報：巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
-        "經濟日報：巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5649171"
-        },
-        {
-          "source": "經濟日報",
-          "title": "巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
-          "url": "https://money.udn.com/money/story/5599/9893989"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "辛苦列車長！ 蔡允潔目擊酒醉搭火車第一現場",
       "summary": [
         "自由時報：辛苦列車長！ 蔡允潔目擊酒醉搭火車第一現場",
@@ -172,7 +151,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "墨西哥逮捕FBI十大通緝毒梟　爆激烈槍戰",
       "summary": [
         "ETtoday：墨西哥逮捕FBI十大通緝毒梟　爆激烈槍戰",
@@ -193,7 +172,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
       "summary": [
         "自由時報：屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
@@ -214,7 +193,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "國巨慘跌逾7成！他想吵架一看朋友持股秒心軟 網笑：仇人都釋懷",
       "summary": [
         "自由時報：國巨慘跌逾7成！他想吵架一看朋友持股秒心軟 網笑：仇人都釋懷",
@@ -231,6 +210,27 @@
           "source": "ETtoday",
           "title": "國巨慘跌到296元！他想吵架見朋友持股秒心軟　網笑：仇人都釋懷",
           "url": "https://www.ettoday.net/news/20261122/3276416.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "快訊／蔣萬安道歉了！　不認同賴士葆造勢罵沈伯洋「人渣」",
+      "summary": [
+        "ETtoday：快訊／蔣萬安道歉了！　不認同賴士葆造勢罵沈伯洋「人渣」",
+        "今周刊：說好的正面選戰呢？賴士葆站臺脫口罵沈伯洋「人渣、洋流是空心流」...蔣萬安致歉喊不認同"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／蔣萬安道歉了！　不認同賴士葆造勢罵沈伯洋「人渣」",
+          "url": "https://www.ettoday.net/news/20261122/3276319.htm"
+        },
+        {
+          "source": "今周刊",
+          "title": "說好的正面選戰呢？賴士葆站臺脫口罵沈伯洋「人渣、洋流是空心流」...蔣萬安致歉喊不認同",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDlxR3NJVXVMLW1jV1VyZGZmUVBfcUcyOUc4V2xQcldiMkFqenJwOFA5aW9pSUd0ektfZ0dWT0ZuSTZWcTduOWM1bnhUMmZ3RzA2akJ1NHhGdnFoZmtFZnk5eFFqR05HX1Q5MG4yTXFpX1pZNjVFaTkzRnJPelRReg?oc=5"
         }
       ]
     }
@@ -310,91 +310,91 @@
     },
     {
       "rank": 5,
-      "title": "駛往俄羅斯的船隻在芬蘭灣遭遇攻擊",
+      "title": "Crowdstrike與Zscaler的深度展示了AI主導的網路整合",
       "summary": [
-        "BBC World：駛往俄羅斯的船隻在芬蘭灣遭遇攻擊"
+        "Bloomberg Tech：Crowdstrike與Zscaler的深度展示了AI主導的網路整合"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "BBC World",
-          "title": "駛往俄羅斯的船隻在芬蘭灣遭遇攻擊",
-          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+          "source": "Bloomberg Tech",
+          "title": "Crowdstrike與Zscaler的深度展示了AI主導的網路整合",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "感恩節什麼時候上路交通最順利",
+      "title": "新創公司在印度起訴蘋果公司，指控其點選共享聯絡人功能",
       "summary": [
-        "Washington Post：感恩節什麼時候上路交通最順利"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "感恩節什麼時候上路交通最順利",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdDNtay05cm4xS2NnSGUxZ3NNeTdiUEFibmNIVlVxQVlyUnNzZmJ0Zk1sTEh4VHBPbC0tY2dCc2IyTFZnV3dsS0xEUHFQaVF2TlVzQVdndGMyOUl3VmI3blUwWVZZMXp0allRRHozeWJZcVZKZ1JSMjIwcERGSnhpdnFWZmxmSFJ0SU95NEpfcGpsSm9T?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "曾經是內部人士的範霍倫引發了民主黨的第一場大戰",
-      "summary": [
-        "Washington Post：曾經是內部人士的範霍倫引發了民主黨的第一場大戰"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "曾經是內部人士的範霍倫引發了民主黨的第一場大戰",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQkRaRk5fU0hyRUlKclk0dU9oV25DQ3N6ajc5NW1fUFFqZXVGdndrZC16WFk0RFM3TkN6RmJRYlhSTHRMQVFkTXBGbzQzeDJlN1BNRkFJM21SZjFLTHZOUWJRM09FMlZiZzNWa05UbC05WDNPcHJRQVA5RDVLbGFxUzZtbDVxSHdoSlUyOWVWZGpScDJDUmN6Qno0YzA4NE4wWWlUdGh3SkpEbTFpcHpPOFZGekU2Mlk?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "「世代竊盜」：透過更多政府借款為社會安全提供資金的計畫遭到嚴厲抵制",
-      "summary": [
-        "Yahoo Finance：「世代竊盜」：透過更多政府借款為社會安全提供資金的計畫遭到嚴厲抵制"
+        "Yahoo Finance：新創公司在印度起訴蘋果公司，指控其點選共享聯絡人功能"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "「世代竊盜」：透過更多政府借款為社會安全提供資金的計畫遭到嚴厲抵制",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcFAyZlhpd0ZxRld0Zm9MMzM3T0pTUEVJYnRsb2xqX1UwOEJqLWYyUnM0NGxPZTJob3FBSG9uTjhNSjlwWGlBRVJmTllnaGdFZER5ejIyYldzM0VqcWpWZGVjZ2Z5aDZWN0pmeDVmaGtEV3R3NDVlN3MwVllhczVqR1l5THB1Q1NOcXdvS05oMllPYkQyT0daU2JVSFAwSVR1ZU0wTlI5VlNWV3owOGsxVzJianZzVWF4RXJGZ3BPMy1NUng1ckYxWTRqY3J6SVBfeEtGZHNuTE9GUXRqUmNjdHV0Q0g3V2lpNGR6Zl9LcTJZWnpOZ1MwZmxYdw?oc=5"
+          "title": "新創公司在印度起訴蘋果公司，指控其點選共享聯絡人功能",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa1pkd3czUGx0bk03QlA3OTZ4amt6eFBkOThWNUh3Z0lvRXNVN1ZBOXZxbHlRRDdxWGpfNjBiendJU2pIRmNmdHp1LTA5RDkxYlpYMTBsT3plTEp5R25YY3pSWThTVFlrQUVfX0tyT3JRLXozUEZzSVNjX004Um5od2ZuWGhrc2NvYjJpSUVTN01RZkZC?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "誰真正從人工智慧中獲益？",
+      "summary": [
+        "Investing.com：誰真正從人工智慧中獲益？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "誰真正從人工智慧中獲益？",
+          "url": "https://www.investing.com/news/stock-market-news/who-really-wins-from-ai-5043557"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "香川JR予贊線特快因訊號故障約90名乘客滯留",
+      "summary": [
+        "NHK新聞：香川JR予贊線特快因訊號故障約90名乘客滯留"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "香川JR予贊線特快因訊號故障約90名乘客滯留",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261122de79790"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "日本的聽力酒吧吸引了全球觀眾",
+      "title": "山形新幹線除部分早班列車外預計正常執行",
       "summary": [
-        "Nikkei Asia：日本的聽力酒吧吸引了全球觀眾"
+        "NHK新聞：山形新幹線除部分早班列車外預計正常執行"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Nikkei Asia",
-          "title": "日本的聽力酒吧吸引了全球觀眾",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX1hhNGp0SnJfNmYza1VLUGUtT1Y4R29zc3RBcmRXbHhQZGpmWTV0QUxJSXVHNkptMUV1ZV9hanFKdWFuT095aHJPWHNwQlU5RW1MNmJfZ3ZEQXlueDFoc1ZxUl9Oa3dCbnJqTkltTHNrUEg1d2hHSTk2LXI0NHpTRVl0NUlVU0pWQXFFNQ?oc=5"
+          "source": "NHK新聞",
+          "title": "山形新幹線除部分早班列車外預計正常執行",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261122de79780"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "川普稱聯邦調查局資料庫遭駭客攻擊的報告“不好”",
+      "title": "一名男子因在加州帕利塞茲引發致命火災而被定罪",
       "summary": [
-        "TechCrunch：川普稱聯邦調查局資料庫遭駭客攻擊的報告“不好”"
+        "Washington Post：一名男子因在加州帕利塞茲引發致命火災而被定罪"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "TechCrunch",
-          "title": "川普稱聯邦調查局資料庫遭駭客攻擊的報告“不好”",
-          "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+          "source": "Washington Post",
+          "title": "一名男子因在加州帕利塞茲引發致命火災而被定罪",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0d6bzFiU1FZR2tBSEh5LUxlNmU2bGF5VlFtWUthUEduSFZVTzNoUlhyVk1ZamVfR01DVFlGUVJsUU9selktVExjY2hESWlxbUxOMWxrMGRMQnd1LUJWQnNoQW95UlRNak54a1B6LVlQb25weHkwcURuQlFiYmo4MlAyS2FwQUZZa09ycTJmbHFHaDJDWU9qdVhzU2p6cHduM1VON29wY01FSkhuMUhtT1FMZGdyZVlSX3hXNGg1LUJOUQ?oc=5"
         }
       ]
     }
