@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-22 09:26",
+  "updated_at": "2026-11-22 09:55",
   "taiwan": [
     {
       "rank": 1,
-      "title": "伊朗盼外交終戰但堅持這紅線 川普：我們不要假協議",
-      "summary": [
-        "自由時報：伊朗盼外交終戰但堅持這紅線 川普：我們不要假協議",
-        "ETtoday：川普仍有意與伊朗達成永久協議：不在乎政權更迭但絕不容許擁核",
-        "經濟日報：川普盼與伊朗簽永久協議！喊話4年後換無能總統也不能翻盤"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "伊朗盼外交終戰但堅持這紅線 川普：我們不要假協議",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5649064"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普仍有意與伊朗達成永久協議：不在乎政權更迭但絕不容許擁核",
-          "url": "https://www.ettoday.net/news/20261122/3276281.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普盼與伊朗簽永久協議！喊話4年後換無能總統也不能翻盤",
-          "url": "https://money.udn.com/money/story/5599/9894037"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "墨西哥逮捕FBI十大通緝毒梟　當地爆槍戰與暴力事件",
       "summary": [
         "自由時報：墨西哥逮捕FBI十大通緝毒梟　當地爆槍戰與暴力事件",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "加拿大防長：美加軍事合作依舊密切　未見關係生變",
       "summary": [
         "自由時報：加拿大防長：美加軍事合作依舊密切　未見關係生變",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "不讓AI主宰戰場決策 美財長：美中領袖認同AI軍事應用底線",
       "summary": [
         "自由時報：不讓AI主宰戰場決策 美財長：美中領袖認同AI軍事應用底線",
@@ -104,7 +77,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "11/21 今彩539頭獎開1注！800萬獎落新北",
       "summary": [
         "自由時報：11/21 今彩539頭獎開1注！800萬獎落新北",
@@ -125,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "週日好天氣！清晨急凍「這地區」恐跌破10度",
       "summary": [
         "自由時報：週日好天氣！清晨急凍「這地區」恐跌破10度",
@@ -146,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14%",
       "summary": [
         "鉅亨網：〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14%",
@@ -167,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "川普籲輝達讓黃仁勳回鍋 強調「應給頂尖人才第二次機會」",
       "summary": [
         "經濟日報：川普籲輝達讓黃仁勳回鍋 強調「應給頂尖人才第二次機會」",
@@ -188,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "統一奔騰基金- 淨值",
       "summary": [
         "MoneyDJ理財網：統一奔騰基金- 淨值",
@@ -209,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
       "summary": [
         "自由時報：巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
@@ -226,6 +199,27 @@
           "source": "經濟日報",
           "title": "巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
           "url": "https://money.udn.com/money/story/5599/9893989"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普仍有意與伊朗達成永久協議：不在乎政權更迭但絕不容許擁核",
+      "summary": [
+        "ETtoday：川普仍有意與伊朗達成永久協議：不在乎政權更迭但絕不容許擁核",
+        "經濟日報：川普盼與伊朗簽永久協議！喊話4年後換無能總統也不能翻盤"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "川普仍有意與伊朗達成永久協議：不在乎政權更迭但絕不容許擁核",
+          "url": "https://www.ettoday.net/news/20261122/3276281.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普盼與伊朗簽永久協議！喊話4年後換無能總統也不能翻盤",
+          "url": "https://money.udn.com/money/story/5599/9894037"
         }
       ]
     }
@@ -275,121 +269,121 @@
     },
     {
       "rank": 3,
-      "title": "[預定發行]日本橄欖球國家隊×蘇格蘭英國巡迴賽",
+      "title": "Cop 31 : 對比中西專家對走出化石能源以及電氣化目標的看法",
       "summary": [
-        "NHK新聞：[預定發行]日本橄欖球國家隊×蘇格蘭英國巡迴賽"
+        "法廣RFI：Cop 31 : 對比中西專家對走出化石能源以及電氣化目標的看法"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "[預定發行]日本橄欖球國家隊×蘇格蘭英國巡迴賽",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79756"
+          "source": "法廣RFI",
+          "title": "Cop 31 : 對比中西專家對走出化石能源以及電氣化目標的看法",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E7%92%B0%E4%BF%9D%E5%A4%A9%E5%9C%B0/20261121-cop-31-%E5%B0%8D%E6%AF%94%E4%B8%AD%E8%A5%BF%E5%B0%88%E5%AE%B6%E5%B0%8D%E8%B5%B0%E5%87%BA%E5%8C%96%E7%9F%B3%E8%83%BD%E6%BA%90%E4%BB%A5%E5%8F%8A%E9%9B%BB%E6%B0%A3%E5%8C%96%E7%9B%AE%E6%A8%99%E7%9A%84%E7%9C%8B%E6%B3%95"
         }
       ]
     },
     {
       "rank": 4,
-      "title": "海軍預算選擇對與小川普有關的承包商進行了家族投資",
+      "title": "川普的普丁外展考驗烏克蘭談判",
       "summary": [
-        "Financial Times：海軍預算選擇對與小川普有關的承包商進行了家族投資"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "海軍預算選擇對與小川普有關的承包商進行了家族投資",
-          "url": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "隨著川普關稅擔憂緩解，貿易商開始將美國銅轉移到中國",
-      "summary": [
-        "Financial Times：隨著川普關稅擔憂緩解，貿易商開始將美國銅轉移到中國"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "隨著川普關稅擔憂緩解，貿易商開始將美國銅轉移到中國",
-          "url": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "強勁的銷售為美國零售商帶來歡樂的假期",
-      "summary": [
-        "Financial Times：強勁的銷售為美國零售商帶來歡樂的假期"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "強勁的銷售為美國零售商帶來歡樂的假期",
-          "url": "https://www.ft.com/content/c893d0fa-ba27-4a3c-bfb6-4df3ccb7e6cc?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "科斯塔重啟歐盟數位稅提案，以期就預算達成協議",
-      "summary": [
-        "Financial Times：科斯塔重啟歐盟數位稅提案，以期就預算達成協議"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "科斯塔重啟歐盟數位稅提案，以期就預算達成協議",
-          "url": "https://www.ft.com/content/2e9c54a8-e2c5-4334-8141-9791267ae3c3?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "人為 IPO 未能平息人工智慧的不安",
-      "summary": [
-        "Bloomberg Markets：人為 IPO 未能平息人工智慧的不安"
+        "Bloomberg Markets：川普的普丁外展考驗烏克蘭談判"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "人為 IPO 未能平息人工智慧的不安",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-video"
+          "title": "川普的普丁外展考驗烏克蘭談判",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-21/trump-s-putin-outreach-tests-ukraine-talks-video"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "「浮華與魅力的幻象」：加州現代淘金熱的內部，礦工可以帶來數百萬美元的收入",
+      "summary": [
+        "CNBC：「浮華與魅力的幻象」：加州現代淘金熱的內部，礦工可以帶來數百萬美元的收入"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "「浮華與魅力的幻象」：加州現代淘金熱的內部，礦工可以帶來數百萬美元的收入",
+          "url": "https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "在華爾街一年多來最糟糕的一週裡，我們投入了資金。我們要買什麼",
+      "summary": [
+        "CNBC：在華爾街一年多來最糟糕的一週裡，我們投入了資金。我們要買什麼"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "在華爾街一年多來最糟糕的一週裡，我們投入了資金。我們要買什麼",
+          "url": "https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "雜貨店在感恩節有「驚人的優惠」——但還沒有習慣這些較低的價格",
+      "summary": [
+        "MarketWatch：雜貨店在感恩節有「驚人的優惠」——但還沒有習慣這些較低的價格"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "MarketWatch",
+          "title": "雜貨店在感恩節有「驚人的優惠」——但還沒有習慣這些較低的價格",
+          "url": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "新型半自動 911 無人機將在 90 秒或更短的時間內到達幾乎整個諾克斯維爾",
+      "summary": [
+        "Tom's Hardware：新型半自動 911 無人機將在 90 秒或更短的時間內到達幾乎整個諾克斯維爾"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "新型半自動 911 無人機將在 90 秒或更短的時間內到達幾乎整個諾克斯維爾",
+          "url": "https://www.tomshardware.com/tech-industry/drones/knoxvilles-police-department-will-send-semi-autonomous-drones-on-911-calls-eyes-in-the-sky-to-aid-situational-awareness-for-officers"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "英偉達的連續劇讓買家遠離歷史上便宜的股票",
+      "title": "防務公司的 EMP「龍」武器同時炸毀 51 架防幹擾無人機",
       "summary": [
-        "MarketWatch：英偉達的連續劇讓買家遠離歷史上便宜的股票"
+        "Tom's Hardware：防務公司的 EMP「龍」武器同時炸毀 51 架防幹擾無人機"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "MarketWatch",
-          "title": "英偉達的連續劇讓買家遠離歷史上便宜的股票",
-          "url": "https://www.marketwatch.com/story/nvidias-nonstop-drama-is-keeping-buyers-away-from-a-historically-cheap-stock-604022da?mod=mw_rss_topstories"
+          "source": "Tom's Hardware",
+          "title": "防務公司的 EMP「龍」武器同時炸毀 51 架防幹擾無人機",
+          "url": "https://www.tomshardware.com/tech-industry/drones/defense-firms-emp-dragon-weapon-fries-51-jam-proof-drones-simultaneously-high-power-electromagnetic-system-relies-on-120-year-old-vacuum-tube-tech-to-defeat-fiber-optic-uavs"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "美國絕對有足夠的財富來解決社會安全和醫療保險問題。方法如下。",
+      "title": "英特爾洩漏的 16 核心 Nova Lake-H 規格表已推出 Core Ultra 系列 4 筆記型電腦的 4.8 GHz Turbo、18 MB 快取、DDR5-8000 記憶體和 25W TDP",
       "summary": [
-        "MarketWatch：美國絕對有足夠的財富來解決社會安全和醫療保險問題。方法如下。"
+        "Wccftech：英特爾洩漏的 16 核心 Nova Lake-H 規格表已推出 Core Ultra 系列 4 筆記型電腦的 4.8 GHz Turbo、18 MB 快取、DDR5-8000 記憶體和 25W TDP"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "MarketWatch",
-          "title": "美國絕對有足夠的財富來解決社會安全和醫療保險問題。方法如下。",
-          "url": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories"
+          "source": "Wccftech",
+          "title": "英特爾洩漏的 16 核心 Nova Lake-H 規格表已推出 Core Ultra 系列 4 筆記型電腦的 4.8 GHz Turbo、18 MB 快取、DDR5-8000 記憶體和 25W TDP",
+          "url": "https://wccftech.com/intel-core-ultra-4-series-16-core-nova-lake-mobile-processor-specifications-leaked/"
         }
       ]
     }
