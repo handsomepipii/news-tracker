@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-22 08:25",
+  "updated_at": "2026-11-22 08:55",
   "taiwan": [
     {
       "rank": 1,
-      "title": "蔣萬安發「光榮臺北」明信片 沈伯洋赴臺中合體何欣純造勢",
-      "summary": [
-        "公視新聞：蔣萬安發「光榮臺北」明信片 沈伯洋赴臺中合體何欣純造勢",
-        "ETtoday：快訊／柯志恩鳳山造勢大咖歌手輪番獻唱　3萬人大舞廳畫面曝",
-        "自由時報：11/21 今彩539頭獎開1注！800萬獎落新北"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "公視新聞",
-          "title": "蔣萬安發「光榮臺北」明信片 沈伯洋赴臺中合體何欣純造勢",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1dnFVZ3AzWW1kMktZdnRFdHZSb3AtVDZnSkFidHhXMkthamFPOU1FaWh0djhoYW5qajd4OERwWHZ5UGFlalNfWExzY3o3dE0?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／柯志恩鳳山造勢大咖歌手輪番獻唱　3萬人大舞廳畫面曝",
-          "url": "https://www.ettoday.net/news/20261121/3276196.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "11/21 今彩539頭獎開1注！800萬獎落新北",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5649097"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "伊朗盼外交終戰但堅持這紅線 川普：我們不要假協議",
       "summary": [
         "自由時報：伊朗盼外交終戰但堅持這紅線 川普：我們不要假協議",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "墨西哥逮捕FBI十大通緝毒梟　當地爆槍戰與暴力事件",
       "summary": [
         "自由時報：墨西哥逮捕FBI十大通緝毒梟　當地爆槍戰與暴力事件",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "加拿大防長：美加軍事合作依舊密切　未見關係生變",
       "summary": [
         "自由時報：加拿大防長：美加軍事合作依舊密切　未見關係生變",
@@ -110,28 +83,28 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "不是芭樂票！陳素月晚會闢謠：65歲免健保費任內必推",
+      "rank": 4,
+      "title": "快訊／柯志恩鳳山造勢大咖歌手輪番獻唱　3萬人大舞廳畫面曝",
       "summary": [
-        "自由時報：不是芭樂票！陳素月晚會闢謠：65歲免健保費任內必推",
-        "ETtoday：回防本命區！蕭美琴站臺　陳素月霸氣承諾：65歲以上免健保費必推"
+        "ETtoday：快訊／柯志恩鳳山造勢大咖歌手輪番獻唱　3萬人大舞廳畫面曝",
+        "公視新聞：新北選戰藍綠陣營三重造勢李四川、蘇巧慧拚場較勁｜20261121 公視晚間新聞｜ 公視新聞PNN"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "不是芭樂票！陳素月晚會闢謠：65歲免健保費任內必推",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649014"
+          "source": "ETtoday",
+          "title": "快訊／柯志恩鳳山造勢大咖歌手輪番獻唱　3萬人大舞廳畫面曝",
+          "url": "https://www.ettoday.net/news/20261121/3276196.htm"
         },
         {
-          "source": "ETtoday",
-          "title": "回防本命區！蕭美琴站臺　陳素月霸氣承諾：65歲以上免健保費必推",
-          "url": "https://www.ettoday.net/news/20261121/3276228.htm"
+          "source": "公視新聞",
+          "title": "新北選戰藍綠陣營三重造勢李四川、蘇巧慧拚場較勁｜20261121 公視晚間新聞｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84Zms3MngybUJlbHJ4TkZSTTh5WWd2ai1FaXg1U1djSjlXeko0MjBEQ2hpSWlnMmFmM3cxWm41UUh4S1Z4b3BYVTM4Yw?oc=5"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "《傳產》北市大安區仍是豪宅交易核心 士林、北投佔比攀升",
       "summary": [
         "中時新聞：《傳產》北市大安區仍是豪宅交易核心 士林、北投佔比攀升",
@@ -152,7 +125,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "臺股禁空令來了！金管會祭5大救市措施 下週一全面啟動",
       "summary": [
         "中時新聞：臺股禁空令來了！金管會祭5大救市措施 下週一全面啟動",
@@ -173,7 +146,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "為白站臺！ 蔣萬安心疼柯受委屈：用選票拒絕政治追殺",
       "summary": [
         "中時新聞：為白站臺！ 蔣萬安心疼柯受委屈：用選票拒絕政治追殺",
@@ -194,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "不讓AI主宰戰場決策 美財長：美中領袖認同AI軍事應用底線",
       "summary": [
         "自由時報：不讓AI主宰戰場決策 美財長：美中領袖認同AI軍事應用底線",
@@ -215,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "週日好天氣！清晨急凍「這地區」恐跌破10度",
       "summary": [
         "自由時報：週日好天氣！清晨急凍「這地區」恐跌破10度",
@@ -232,6 +205,27 @@
           "source": "ETtoday",
           "title": "快訊／2縣市低溫特報！　急凍跌破10度",
           "url": "https://www.ettoday.net/news/20261121/3276269.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14%",
+      "summary": [
+        "鉅亨網：〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14%",
+        "工商時報：美股｜AI賣壓瘋湧！費半大瀉逾10％ 道瓊標普陷修正區間 輝達崩14％ 臺積ADR慘跌近10％"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "鉅亨網",
+          "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14%",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1TWExRndYejA5TkVPZmxTSnNPemZRaHVtMk05bkFkRVVXNld4LTNkM1c4ZnA3d0lObEZkZXZyZUlmMmtDSTZqNy1oMGFwazQ?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "美股｜AI賣壓瘋湧！費半大瀉逾10％ 道瓊標普陷修正區間 輝達崩14％ 臺積ADR慘跌近10％",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUNUYyLU94Mjc1SGxBSWJmRWpockxMVGpVWHVLS3BraHBtbDluQlpiaTFVbENUY28wWGljNy13TXNnd1ZSYjcxSHpYeENMY0lXc2dVenpRdzNHVFl6ZkRJ?oc=5"
         }
       ]
     }
@@ -275,111 +269,6 @@
     },
     {
       "rank": 3,
-      "title": "中美俄元首峰會：從烏克蘭、伊朗、和平宣言到承諾核對話",
-      "summary": [
-        "BBC中文：中美俄元首峰會：從烏克蘭、伊朗、和平宣言到承諾核對話"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "中美俄元首峰會：從烏克蘭、伊朗、和平宣言到承諾核對話",
-          "url": "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "支援烏克蘭的聯盟向媒體透露首次軍事演習",
-      "summary": [
-        "NHK新聞：支援烏克蘭的聯盟向媒體透露首次軍事演習"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "支援烏克蘭的聯盟向媒體透露首次軍事演習",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79750"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "意見 |為了生存，伊朗正在改寫女性規則",
-      "summary": [
-        "Washington Post：意見 |為了生存，伊朗正在改寫女性規則"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "意見 |為了生存，伊朗正在改寫女性規則",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbk1wU19zQTUzTEIyZGh2WTlrdFl0NFYwT2QwZjBKei03ck43aGh2YzdrSXlxU0VqYTgtZXo5QkU0MDhJekxIOHNKYWRTQkI3ZG84SFA1ZGFZSHczT0ROWHR1aEItbWY5bUdRVzFLOHdTVXVvMHhHUTYwN3RlTmxvclRrYVZpRFM5c19hUzR3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "由於其他軍事行動面臨阻力，共和黨將阻止川普五角大廈人選",
-      "summary": [
-        "Washington Post：由於其他軍事行動面臨阻力，共和黨將阻止川普五角大廈人選"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "由於其他軍事行動面臨阻力，共和黨將阻止川普五角大廈人選",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXJuX3ZtUFRKbjBwa2lBaVc3eHZPakhfNENOa0lhVWZYeDFXcWNIdHpYY01pc2M1ckJ6dkw0VWlhMkxhUHo2VjRtN1F2cEhnekp2YjdSRkpQdVNIRzBnVFVMY3RfaFN3QkZRMGl1RG11My1xT1p4NnYzTFJ2RGw0Q2cxUmV5V0ljWm5BSlprdzNzb2R1MVZIcEYybWVKN04zcHJRMWlNQmtvME4wSGFQMUZvV2kwRUdFM01kTDNjUkZ6dzJvVUs4VlBKcw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "拉里·麥克唐納在雷曼兄弟倒閉中倖存​​下來。現在他警告說，信貸市場正在向股市發出成長衝擊的訊號。",
-      "summary": [
-        "MarketWatch：拉里·麥克唐納在雷曼兄弟倒閉中倖存​​下來。現在他警告說，信貸市場正在向股市發出成長衝擊的訊號。"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "MarketWatch",
-          "title": "拉里·麥克唐納在雷曼兄弟倒閉中倖存​​下來。現在他警告說，信貸市場正在向股市發出成長衝擊的訊號。",
-          "url": "https://www.marketwatch.com/story/larry-mcdonald-survived-lehmans-collapse-now-he-warns-the-credit-market-is-signaling-a-growth-shock-for-stocks-5c3a62ef?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "鏡頭下：從馬尼拉東協到深圳亞太經合組織",
-      "summary": [
-        "Nikkei Asia：鏡頭下：從馬尼拉東協到深圳亞太經合組織"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "鏡頭下：從馬尼拉東協到深圳亞太經合組織",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmhid0FiOFpIMDNUbFNTLTJHa1RtMDBhQUFmaHVTMFZQUXpfeXpPWmVfNkFQZnprbzdQWG9XenRpWnFnUUxxS1RyZlBvcHM1aVBxLUl4Q3JJRDFrQXVqZmFMd3JHYXg4TjdGeWs2T3UyTWoxUkMyejBMZEFZRkJpSE1kS21FNGthZ1dyOHFCQkhGUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "據報道，三星的記憶體生產到 2029 年幾乎已滿，客戶尋求 2031 年之前的供應交易",
-      "summary": [
-        "Wccftech：據報道，三星的記憶體生產到 2029 年幾乎已滿，客戶尋求 2031 年之前的供應交易"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Wccftech",
-          "title": "據報道，三星的記憶體生產到 2029 年幾乎已滿，客戶尋求 2031 年之前的供應交易",
-          "url": "https://wccftech.com/samsungs-memory-production-reportedly-almost-fully-booked-through-2029-as-customers-seek-supply-deals-until-2031/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "九合一前夕：臺灣幾乎年年選舉，會引起「投票疲勞」嗎？",
       "summary": [
         "BBC中文：九合一前夕：臺灣幾乎年年選舉，會引起「投票疲勞」嗎？"
@@ -390,6 +279,111 @@
           "source": "BBC中文",
           "title": "九合一前夕：臺灣幾乎年年選舉，會引起「投票疲勞」嗎？",
           "url": "https://www.bbc.com/zhongwen/articles/c63egjkzqpz2o/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "假裝在紐西蘭、提前請假、搶購主機：粉絲為《GTA 6》做足準備",
+      "summary": [
+        "BBC中文：假裝在紐西蘭、提前請假、搶購主機：粉絲為《GTA 6》做足準備"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "假裝在紐西蘭、提前請假、搶購主機：粉絲為《GTA 6》做足準備",
+          "url": "https://www.bbc.com/zhongwen/articles/cmg4659lx27ro/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "英偉達深陷多重調查 特朗普盼黃仁勳迴歸",
+      "summary": [
+        "德國之聲：英偉達深陷多重調查 特朗普盼黃仁勳迴歸"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "英偉達深陷多重調查 特朗普盼黃仁勳迴歸",
+          "url": "https://www.dw.com/zh/英伟达深陷多重调查-特朗普盼黄仁勋回归/a-80009664?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Just Ice Tea繼承了誠實茶的傳統",
+      "summary": [
+        "Bloomberg Markets：Just Ice Tea繼承了誠實茶的傳統"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Just Ice Tea繼承了誠實茶的傳統",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-21/just-ice-tea-builds-on-honest-tea-s-legacy-video"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "「提高稅收，削減支出」：比爾·達德利談債務",
+      "summary": [
+        "Bloomberg Markets：「提高稅收，削減支出」：比爾·達德利談債務"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "「提高稅收，削減支出」：比爾·達德利談債務",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-21/-raise-taxes-cut-spending-bill-dudley-on-the-debt-video"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "華爾街詢問在人為消滅之後什麼可以拯救人工智慧貿易",
+      "summary": [
+        "Bloomberg Markets：華爾街詢問在人為消滅之後什麼可以拯救人工智慧貿易"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "華爾街詢問在人為消滅之後什麼可以拯救人工智慧貿易",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Anthropic首次公開市場",
+      "summary": [
+        "Bloomberg Markets：Anthropic首次公開市場"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic首次公開市場",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-makes-its-public-market-debut-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Apple TV 4K 評論：299 美元的新串流媒體盒很棒，但太貴",
+      "summary": [
+        "Bloomberg Tech：Apple TV 4K 評論：299 美元的新串流媒體盒很棒，但太貴"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Apple TV 4K 評論：299 美元的新串流媒體盒很棒，但太貴",
+          "url": "https://www.bloomberg.com/news/features/2026-11-21/apple-tv-4k-review-new-299-streaming-box-is-excellent-but-too-expensive"
         }
       ]
     }
