@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 21:26",
+  "updated_at": "2026-11-22 21:55",
   "taiwan": [
     {
       "rank": 1,
@@ -67,27 +67,6 @@
     },
     {
       "rank": 3,
-      "title": "屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
-      "summary": [
-        "自由時報：屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
-        "ETtoday：屏東砂石車「閃身步」意外！　衝撞電桿斷兩截、歪斜吊半空"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5649243"
-        },
-        {
-          "source": "ETtoday",
-          "title": "屏東砂石車「閃身步」意外！　衝撞電桿斷兩截、歪斜吊半空",
-          "url": "https://www.ettoday.net/news/20261122/3276330.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "國巨慘跌逾7成！他想吵架一看朋友持股秒心軟 網笑：仇人都釋懷",
       "summary": [
         "自由時報：國巨慘跌逾7成！他想吵架一看朋友持股秒心軟 網笑：仇人都釋懷",
@@ -108,7 +87,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
       "summary": [
         "自由時報：六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
@@ -129,7 +108,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光",
       "summary": [
         "今周刊：川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光",
@@ -150,7 +129,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "黃仁勳共諜案竟與太子集團有關？金融時報揭「二把手」助輝達晶片流入中國…走私鏈如何運作？",
       "summary": [
         "今周刊：黃仁勳共諜案竟與太子集團有關？金融時報揭「二把手」助輝達晶片流入中國…走私鏈如何運作？",
@@ -171,7 +150,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "證交所急召十券商！今討論融資維持率是否降至120％備受矚目- 日報",
       "summary": [
         "工商時報：證交所急召十券商！今討論融資維持率是否降至120％備受矚目- 日報",
@@ -192,7 +171,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "陳珮騏隔3年返鄉…抵高雄哀嚎「沒搶到BTS」　爆八點檔男星躺著賺",
       "summary": [
         "ETtoday：陳珮騏隔3年返鄉…抵高雄哀嚎「沒搶到BTS」　爆八點檔男星躺著賺",
@@ -213,7 +192,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "南韓學測AI作弊難防！政策急轉彎引混亂　教育部長崔教振請辭負責",
       "summary": [
         "ETtoday：南韓學測AI作弊難防！政策急轉彎引混亂　教育部長崔教振請辭負責",
@@ -230,6 +209,27 @@
           "source": "經濟日報",
           "title": "南韓教育部長因AI作弊風波請辭　考前稱沒把握防弊挨批",
           "url": "https://money.udn.com/money/story/5599/9894616"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "印尼糖果工廠遇祝融3死4傷　36人下落不明",
+      "summary": [
+        "經濟日報：印尼糖果工廠遇祝融3死4傷　36人下落不明",
+        "自由時報：印尼糖果工廠傳火警 至少3死36人失蹤"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "印尼糖果工廠遇祝融3死4傷　36人下落不明",
+          "url": "https://money.udn.com/money/story/5599/9894459"
+        },
+        {
+          "source": "自由時報",
+          "title": "印尼糖果工廠傳火警 至少3死36人失蹤",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5649618"
         }
       ]
     }
@@ -333,81 +333,6 @@
     },
     {
       "rank": 5,
-      "title": "地球迎來新的「迷你月亮」——它並不孤單",
-      "summary": [
-        "BBC中文：地球迎來新的「迷你月亮」——它並不孤單"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "地球迎來新的「迷你月亮」——它並不孤單",
-          "url": "https://www.bbc.com/zhongwen/articles/cqy7rg0yyxxko/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "韓今年自華汽車進口額與汽車貿易逆差雙雙創新高",
-      "summary": [
-        "韓聯社：韓今年自華汽車進口額與汽車貿易逆差雙雙創新高"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "韓今年自華汽車進口額與汽車貿易逆差雙雙創新高",
-          "url": "https://cn.yna.co.kr/view/ACK20261122000100881"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "印度 1260 億美元的保險業猛烈抨擊擬議的佣金上限",
-      "summary": [
-        "Financial Times：印度 1260 億美元的保險業猛烈抨擊擬議的佣金上限"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "印度 1260 億美元的保險業猛烈抨擊擬議的佣金上限",
-          "url": "https://www.ft.com/content/2e67313b-d6c5-4e62-bd50-14639fe5ef95?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "預測：Alphabet 股票 5 年後的趨勢",
-      "summary": [
-        "Yahoo Finance：預測：Alphabet 股票 5 年後的趨勢"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "預測：Alphabet 股票 5 年後的趨勢",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVc4Rzl6Uk9IN2tIcUVvUVpOSGFZc2E1a21fZ3pMY1M4Um5JWGRzNlBCek1pczRVcmxEX25Kandxc2VsNlYta2NlTFROMmc3RUNFVVR0UENtNHlGeF9FZDdQaTRqVl9vanpmUWxfcWNjQ014MzczQ2p2NmFUTnBxX2JmaTVYNHFSSWllSGVxbmZaamxRWTBjaHk2dERjeXM?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Cipher Digital Inc. (CIFR) 是最被高估的人工智慧基礎設施股票之一嗎？",
-      "summary": [
-        "Yahoo Finance：Cipher Digital Inc. (CIFR) 是最被高估的人工智慧基礎設施股票之一嗎？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Cipher Digital Inc. (CIFR) 是最被高估的人工智慧基礎設施股票之一嗎？",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPajVOOTU1WTV1aFMwYU4zSVFCWTFlUFJLY2lJU25LWEtlWVBsUmMzeHNQQU4tMnZuTHNlSnZoLWljMUZDeGswaE8xakZYWUVNQUtKdUNIc1dXWjNmM0kxTWRaUWh1NjU2VzJvS04zNXd1ekNzOGZRbXhuUk9ySXcyS3Y2Tnp2S0tRa0xjNkdGQnBSU19XMVBLV0Zn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "分析：APEC上與習近平、特朗普歷史性會晤，對普京是一場重大勝利",
       "summary": [
         "BBC中文：分析：APEC上與習近平、特朗普歷史性會晤，對普京是一場重大勝利"
@@ -418,6 +343,81 @@
           "source": "BBC中文",
           "title": "分析：APEC上與習近平、特朗普歷史性會晤，對普京是一場重大勝利",
           "url": "https://www.bbc.com/zhongwen/articles/cq702kdw845ro/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "英偉達在動盪加劇之際面臨美國會計調查：媒體",
+      "summary": [
+        "Yahoo Finance：英偉達在動盪加劇之際面臨美國會計調查：媒體"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "英偉達在動盪加劇之際面臨美國會計調查：媒體",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkpvTmdpdzNUMVVjZEJXbVdIYXlheTM1ZmpMRl9LdkQ1YjV1VXYtNUxGSTlHZWpzLWhfTFVnR2h0b0NMNGlsTWhOYXpYRVYyR0ZkTmJNRkh2MXAycU5Nd0pKNy1QbG92UGg1TXd0SGx4S1R6UXNDek1fTTFpZnR1VEVfaE9Na0hOYjlBUGlfUC1jTGFCS195ek1ZNjc?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "德國工業罷工擴大，IG Metall 呼籲 23,000 名工人罷工",
+      "summary": [
+        "Investing.com：德國工業罷工擴大，IG Metall 呼籲 23,000 名工人罷工"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "德國工業罷工擴大，IG Metall 呼籲 23,000 名工人罷工",
+          "url": "https://www.investing.com/news/stock-market-news/german-industrial-strikes-widen-as-ig-metall-calls-23000-workers-to-walk-out-5043690"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Hello Kitty 所有者三麗鷗押注遊戲以擴大全球影響力",
+      "summary": [
+        "Nikkei Asia：Hello Kitty 所有者三麗鷗押注遊戲以擴大全球影響力"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Hello Kitty 所有者三麗鷗押注遊戲以擴大全球影響力",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0NIMFUzV2E1Y3hrSE4xSno4OXp1MHdCVFVGRzlCZUd0ZktydURybmpvY2d4ZUtWTG84MEpBZDZRWDZjRlo1alFrT3FrM2I5WWlCMkpFMEg2NlM2Q0V5R19wV2hTcUdfN3Y0ZW1MLXRXek1vSjFKSENjNmlTckVLWG5IMUNIdFVIMXZfa3U0OVdoQk10UW1HVkVnZmlNV3NuajRSUnY1bmxnS3hrNjE0dmtXZDM?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "首裡城正殿被大火燒毀，政府主辦的修復完成儀式在下午沖繩舉行",
+      "summary": [
+        "NHK新聞：首裡城正殿被大火燒毀，政府主辦的修復完成儀式在下午沖繩舉行"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "首裡城正殿被大火燒毀，政府主辦的修復完成儀式在下午沖繩舉行",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261122de79841"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "韓國今年有望躍居全球第四大出口國",
+      "summary": [
+        "韓聯社：韓國今年有望躍居全球第四大出口國"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "韓國今年有望躍居全球第四大出口國",
+          "url": "https://cn.yna.co.kr/view/ACK20261122000300881"
         }
       ]
     }
