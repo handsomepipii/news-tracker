@@ -1,77 +1,47 @@
 {
-  "updated_at": "2026-11-22 23:56",
+  "updated_at": "2026-11-23 00:25",
   "taiwan": [
     {
       "rank": 1,
-      "title": "美媒爆料黃仁勳下臺真正原因！傳董事會震怒 董事長1句話道關鍵",
+      "title": "新北選戰藍綠陣營三重造勢 李四川、蘇巧慧拚場較勁",
       "summary": [
-        "經濟日報：美媒爆料黃仁勳下臺真正原因！傳董事會震怒 董事長1句話道關鍵",
-        "自由時報：林國漳推文化立縣2.0傳承宜蘭多元文化 呂雪鳳登臺力挺"
+        "公視新聞：新北選戰藍綠陣營三重造勢 李四川、蘇巧慧拚場較勁",
+        "自由時報：臺中市長選舉！「臺中桂綸鎂」與「臺中林俊傑」大車拼",
+        "ETtoday：嘉義男經商失敗「辣椒水搶郵局」未遂！　21小時落網收押"
       ],
-      "media_count": 2,
+      "media_count": 4,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "美媒爆料黃仁勳下臺真正原因！傳董事會震怒 董事長1句話道關鍵",
-          "url": "https://money.udn.com/money/story/5599/9894381"
+          "source": "公視新聞",
+          "title": "新北選戰藍綠陣營三重造勢 李四川、蘇巧慧拚場較勁",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEX21DTWVOOUk2QnBmOFZYOU5TREtsZXV4SDZ1ZXpnRFFWTi1aTHlSM3ZyMF84a0ViNkx3ZmE0V2gwMG1Mc2l5YnZzdXhNMFU?oc=5"
         },
         {
           "source": "自由時報",
-          "title": "林國漳推文化立縣2.0傳承宜蘭多元文化 呂雪鳳登臺力挺",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649433"
+          "title": "臺中市長選舉！「臺中桂綸鎂」與「臺中林俊傑」大車拼",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649406"
+        },
+        {
+          "source": "ETtoday",
+          "title": "嘉義男經商失敗「辣椒水搶郵局」未遂！　21小時落網收押",
+          "url": "https://www.ettoday.net/news/20261122/3276529.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "華僑協會菲律賓分會改選 新會長鄭國賓盼深化菲臺交流",
+          "url": "https://money.udn.com/money/story/5599/9895069"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "20261122 公視早安新聞 完整版（無網路版權內容除外）｜新北選戰藍綠三重辦造勢晚會 李四川、蘇巧慧隔空拚場",
-      "summary": [
-        "公視新聞：20261122 公視早安新聞 完整版（無網路版權內容除外）｜新北選戰藍綠三重辦造勢晚會 李四川、蘇巧慧隔空拚場",
-        "自由時報：土城造勢破萬人! 蘇巧慧喊1128出門投票 迎接新北新時代"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公視新聞",
-          "title": "20261122 公視早安新聞 完整版（無網路版權內容除外）｜新北選戰藍綠三重辦造勢晚會 李四川、蘇巧慧隔空拚場",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45cE1xQ19LZl94S3JJdkJ2QkEtUjE1YzlHS0NoQVVFYjdsd0RGdnp5Y2toRlpQbmJMR2VYVXpVV2lkMk1IS0h2d3dtaw?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "土城造勢破萬人! 蘇巧慧喊1128出門投票 迎接新北新時代",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649981"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "說好的正面選戰呢？賴士葆站臺脫口罵沈伯洋「人渣、洋流是空心流」...蔣萬安致歉喊不認同",
-      "summary": [
-        "今周刊：說好的正面選戰呢？賴士葆站臺脫口罵沈伯洋「人渣、洋流是空心流」...蔣萬安致歉喊不認同",
-        "TVBS新聞：賴士葆痛罵沈伯洋「人渣」 蔣萬安道歉了：不認同過度激烈言論"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "今周刊",
-          "title": "說好的正面選戰呢？賴士葆站臺脫口罵沈伯洋「人渣、洋流是空心流」...蔣萬安致歉喊不認同",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDlxR3NJVXVMLW1jV1VyZGZmUVBfcUcyOUc4V2xQcldiMkFqenJwOFA5aW9pSUd0ektfZ0dWT0ZuSTZWcTduOWM1bnhUMmZ3RzA2akJ1NHhGdnFoZmtFZnk5eFFqR05HX1Q5MG4yTXFpX1pZNjVFaTkzRnJPelRReg?oc=5"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "賴士葆痛罵沈伯洋「人渣」 蔣萬安道歉了：不認同過度激烈言論",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SbG96QlU1TUZjYkd0T25peU52WGY3bWVRd1RhN3Eya0ROOS1VNkxZVHlnS2JjUDB2azhpcmxhOWtvNUIwYUVqUXIyNlg0V3djTFpB?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "證交所急召十券商！今討論融資維持率是否降至120％備受矚目- 日報",
       "summary": [
         "工商時報：證交所急召十券商！今討論融資維持率是否降至120％備受矚目- 日報",
-        "自由時報：融資擔保率降至120％? 6400戶追繳戶暫鬆一口氣"
+        "自由時報：融資擔保率降至120％? 6400戶追繳戶暫鬆一口氣",
+        "風傳媒：臺股慘跌祭救市新招？傳融資維持率「降至120%」 最快明天上路 | 蔣季容 | 新聞"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "工商時報",
@@ -82,11 +52,16 @@
           "source": "自由時報",
           "title": "融資擔保率降至120％? 6400戶追繳戶暫鬆一口氣",
           "url": "https://ec.ltn.com.tw/article/breakingnews/5649746"
+        },
+        {
+          "source": "風傳媒",
+          "title": "臺股慘跌祭救市新招？傳融資維持率「降至120%」 最快明天上路 | 蔣季容 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zSlplNEhBSHZkbUEtMXNqRy15RzQ1MDJ6S3Y3QTJpd2VfNWlUaEp5NWdJUF9FbUpDaDRzaXRadFJxVEloRFhLT2I2ZXk3QQ?oc=5"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "陳珮騏隔3年返鄉…抵高雄哀嚎「沒搶到BTS」　爆八點檔男星躺著賺",
       "summary": [
         "ETtoday：陳珮騏隔3年返鄉…抵高雄哀嚎「沒搶到BTS」　爆八點檔男星躺著賺",
@@ -107,7 +82,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "南韓學測AI作弊難防！政策急轉彎引混亂　教育部長崔教振請辭負責",
       "summary": [
         "ETtoday：南韓學測AI作弊難防！政策急轉彎引混亂　教育部長崔教振請辭負責",
@@ -128,7 +103,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "印尼糖果工廠遇祝融3死4傷　36人下落不明",
       "summary": [
         "經濟日報：印尼糖果工廠遇祝融3死4傷　36人下落不明",
@@ -149,7 +124,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "嘉義城隍廟11/30贊境艋舺青山王祭 再現30年前12班陣容",
       "summary": [
         "自由時報：嘉義城隍廟11/30贊境艋舺青山王祭 再現30年前12班陣容",
@@ -170,7 +145,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "藍委痛罵人渣　沈伯洋笑回：我鬍子沒刮就蠻多渣渣",
       "summary": [
         "ETtoday：藍委痛罵人渣　沈伯洋笑回：我鬍子沒刮就蠻多渣渣",
@@ -191,7 +166,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "BTS粉絲自發捐款！ 石崇良驚「有這麼好的事」",
       "summary": [
         "自由時報：BTS粉絲自發捐款！ 石崇良驚「有這麼好的事」",
@@ -208,6 +183,48 @@
           "source": "ETtoday",
           "title": "BTS粉絲追星自發公益捐款　石崇良驚訝：有這麼好的事？",
           "url": "https://health.ettoday.net/news/3276527"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "離太陽最近卻最難抵達！日歐水星探測器飛8年成功入軌",
+      "summary": [
+        "自由時報：離太陽最近卻最難抵達！日歐水星探測器飛8年成功入軌",
+        "經濟日報：歐日探測器歷經8年飛行　成功進入水星軌道"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "離太陽最近卻最難抵達！日歐水星探測器飛8年成功入軌",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5649544"
+        },
+        {
+          "source": "經濟日報",
+          "title": "歐日探測器歷經8年飛行　成功進入水星軌道",
+          "url": "https://money.udn.com/money/story/5599/9894698"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "十分瀑布蜂群螫咬18遊客！區公所火速拆除蜂巢　風景區關閉中",
+      "summary": [
+        "ETtoday：十分瀑布蜂群螫咬18遊客！區公所火速拆除蜂巢　風景區關閉中",
+        "TVBS新聞：十分瀑布虎頭蜂群狂襲18人！區公所火速摘除蜂巢 風景區暫關閉"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "十分瀑布蜂群螫咬18遊客！區公所火速拆除蜂巢　風景區關閉中",
+          "url": "https://www.ettoday.net/news/20261122/3276497.htm"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "十分瀑布虎頭蜂群狂襲18人！區公所火速摘除蜂巢 風景區暫關閉",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ydHN5ZG43RU5VTTVJaTlEdE1mZ0xGNjZRQnVqSzdXTW1SRFRHV1Z4VE1zOEt4Y2pLMHE5bmIwTlJ6MmY5cm1nNmFMNUliRjQ?oc=5"
         }
       ]
     }
@@ -326,51 +343,6 @@
     },
     {
       "rank": 6,
-      "title": "無人機襲擊芬蘭附近的俄羅斯貨船；烏克蘭參與其中？",
-      "summary": [
-        "NHK新聞：無人機襲擊芬蘭附近的俄羅斯貨船；烏克蘭參與其中？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "無人機襲擊芬蘭附近的俄羅斯貨船；烏克蘭參與其中？",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261122de79863"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "美光科技股價較 6 月最高紀錄下跌超過 40%。歷史講述了在其他 5 次跌幅如此之深之後它做了什麼。",
-      "summary": [
-        "Yahoo Finance：美光科技股價較 6 月最高紀錄下跌超過 40%。歷史講述了在其他 5 次跌幅如此之深之後它做了什麼。"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "美光科技股價較 6 月最高紀錄下跌超過 40%。歷史講述了在其他 5 次跌幅如此之深之後它做了什麼。",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZG8yeWFVVTRUTndGRmVPNnRWS3Frc2R1UFBRcFh2eE9acmwxWTI1aHU2YUxwdWdzTlY4cU1yOXNTa0V5RVZ4eDhZSGRYQmdxS1lYblo2Vk1qNW9wem9VWFhxT0JJU1pKc1pTdlNpeWlHVzFabkFMTlFRZFM3Q2ZsYzZ1V3JmbWNjSnlTRUlObER6WEU0?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "華盛頓州州長和工會譴責 ICE 在西雅圖機場逮捕旅客",
-      "summary": [
-        "Investing.com：華盛頓州州長和工會譴責 ICE 在西雅圖機場逮捕旅客"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "華盛頓州州長和工會譴責 ICE 在西雅圖機場逮捕旅客",
-          "url": "https://www.investing.com/news/stock-market-news/washington-governor-union-denounce-ice-arrests-of-travelers-at-seattle-airport-5043737"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "中國石油副總經理涉嫌貪腐被立案調查",
       "summary": [
         "Bloomberg Markets：中國石油副總經理涉嫌貪腐被立案調查"
@@ -385,7 +357,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "泰國計劃禁止化學物質出口以解決汙染問題",
       "summary": [
         "Bloomberg Tech：泰國計劃禁止化學物質出口以解決汙染問題"
@@ -396,6 +368,51 @@
           "source": "Bloomberg Tech",
           "title": "泰國計劃禁止化學物質出口以解決汙染問題",
           "url": "https://www.bloomberg.com/news/articles/2026-11-22/thailand-plans-to-ban-exports-of-chemicals-as-it-tackles-pollution"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "世界銀行的印度貧窮估計因收益規模受到質疑",
+      "summary": [
+        "Nikkei Asia：世界銀行的印度貧窮估計因收益規模受到質疑"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "世界銀行的印度貧窮估計因收益規模受到質疑",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWk9RcjZTdTNPa2s1MnVJLVRfTG1jRFRvd3ROZ0o2TmZrdTFPNWM2RkRac3JxdVNEWnJ3MERrQXd3MEtVVWkyVHpFdEdWd0lNaXh6SE1mZXk4QTkwX080cDQ4QmlTdlFPbFhuVzdEM3VLLXNkZWRocVliUG5MV1prRVlGeFUxN3ItOEQ1RThMSVZMUHJLRXZINnNBdTNzaVJWQl9jLUZrRnpkMmVBbnpn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "未經授權存取六花亭；已確認因未經授權使用信用卡資訊而造成的損失",
+      "summary": [
+        "NHK新聞：未經授權存取六花亭；已確認因未經授權使用信用卡資訊而造成的損失"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "未經授權存取六花亭；已確認因未經授權使用信用卡資訊而造成的損失",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261122de79904"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "李在明受理教育部長官崔敎振辭呈",
+      "summary": [
+        "韓聯社：李在明受理教育部長官崔敎振辭呈"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "李在明受理教育部長官崔敎振辭呈",
+          "url": "https://cn.yna.co.kr/view/ACK20261122000400881"
         }
       ]
     }
