@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 18:55",
+  "updated_at": "2026-11-22 19:26",
   "taiwan": [
     {
       "rank": 1,
@@ -233,6 +233,33 @@
   "global": [
     {
       "rank": 1,
+      "title": "中國反對美國限制電信公司取得電話號碼",
+      "summary": [
+        "Bloomberg Tech：中國反對美國限制電信公司取得電話號碼",
+        "法廣RFI：美國擬禁止中國移動等電信巨頭直接接入美國電話號碼，中國批評“惡意打壓”",
+        "Nikkei Asia：中國猛烈抨擊美國禁止其電信公司取得美國電話號碼的禁令"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "中國反對美國限制電信公司取得電話號碼",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-objects-to-us-curbs-on-telecoms-access-to-phone-numbers"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "美國擬禁止中國移動等電信巨頭直接接入美國電話號碼，中國批評“惡意打壓”",
+          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261122-%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%88%87%E6%96%B7%E4%B8%AD%E5%9C%8B%E7%A7%BB%E5%8B%95%E7%AD%89%E9%9B%BB%E4%BF%A1%E5%B7%A8%E9%A0%AD%E7%9B%B4%E6%8E%A5%E6%8E%A5%E5%85%A5%E7%BE%8E%E5%9C%8B%E9%9B%BB%E8%A9%B1%E8%99%9F%E7%A2%BC%EF%BC%8C%E4%B8%AD%E5%9C%8B%E6%89%B9%E8%A9%95-%E6%83%A1%E6%84%8F%E6%89%93%E5%A3%93"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "中國猛烈抨擊美國禁止其電信公司取得美國電話號碼的禁令",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYlMtNjhEVnBVTFZBaG9xbXhBOWdVcGtSMXJwaTJ3cXNoU3hYVWRSZktvOW1fYmtGWi0yc1JoZkdHbGN1dElURU1IbDQ4ZmFITERkQ09ydEkxLUc1eHFCemk4d1ZZNjdJc1ctcUc0RmdPczI2aHBia1laRzlOT2FzeEhLeVNDYlN6MDZOX0xxRVNGeHFmbE1hN2xfQzhzSUlOeW95LXpLQ1dsbEN5NjY5d3ZtSWlRcG5SZjctZkJXZUZLUHN4TFdUVk03VURjRURHSEo5U0hjd0lYUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "人工智慧作弊醜聞席捲大學考試 韓國教育部長辭職",
       "summary": [
         "The Guardian：人工智慧作弊醜聞席捲大學考試 韓國教育部長辭職",
@@ -259,7 +286,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "中國1.7兆美元的人工智慧潰敗讓熱門貿易變成了輸錢賭注",
       "summary": [
         "Bloomberg Markets：中國1.7兆美元的人工智慧潰敗讓熱門貿易變成了輸錢賭注",
@@ -280,7 +307,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "人擇數學家利用人工智慧證明難題「黎曼猜想」和主張",
       "summary": [
         "NHK新聞：人擇數學家利用人工智慧證明難題「黎曼猜想」和主張",
@@ -301,7 +328,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "北韓延後2027年平壤國際馬拉松賽",
       "summary": [
         "Nikkei Asia：北韓延後2027年平壤國際馬拉松賽",
@@ -322,98 +349,77 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "中國反對美國限制電信公司取得電話號碼",
-      "summary": [
-        "Bloomberg Tech：中國反對美國限制電信公司取得電話號碼",
-        "法廣RFI：美國擬禁止中國移動等電信巨頭直接接入美國電話號碼，中國批評“惡意打壓”"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "中國反對美國限制電信公司取得電話號碼",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-objects-to-us-curbs-on-telecoms-access-to-phone-numbers"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "美國擬禁止中國移動等電信巨頭直接接入美國電話號碼，中國批評“惡意打壓”",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261122-%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%88%87%E6%96%B7%E4%B8%AD%E5%9C%8B%E7%A7%BB%E5%8B%95%E7%AD%89%E9%9B%BB%E4%BF%A1%E5%B7%A8%E9%A0%AD%E7%9B%B4%E6%8E%A5%E6%8E%A5%E5%85%A5%E7%BE%8E%E5%9C%8B%E9%9B%BB%E8%A9%B1%E8%99%9F%E7%A2%BC%EF%BC%8C%E4%B8%AD%E5%9C%8B%E6%89%B9%E8%A9%95-%E6%83%A1%E6%84%8F%E6%89%93%E5%A3%93"
-        }
-      ]
-    },
-    {
       "rank": 6,
-      "title": "德國汽車和造船廠工人將舉行罷工，IG Metall 工會延長罷工時間",
+      "title": "德維爾潘競選總統為何引發熱議",
       "summary": [
-        "Investing.com：德國汽車和造船廠工人將舉行罷工，IG Metall 工會延長罷工時間"
+        "法廣RFI：德維爾潘競選總統為何引發熱議"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "德國汽車和造船廠工人將舉行罷工，IG Metall 工會延長罷工時間",
-          "url": "https://www.investing.com/news/stock-market-news/german-car-and-shipyard-workers-set-to-strike-as-ig-metall-union-extends-walkout-5043609"
+          "source": "法廣RFI",
+          "title": "德維爾潘競選總統為何引發熱議",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261121-%E5%BE%B7%E7%B6%AD%E7%88%BE%E6%BD%98%E7%AB%B6%E9%81%B8%E7%B8%BD%E7%B5%B1%E7%82%BA%E4%BD%95%E5%BC%95%E7%99%BC%E7%86%B1%E8%AD%B0"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "歐盟與印度尼西亞的貿易協議：讓歐盟GDP高出160億歐元， 印度尼西亞GDP高270億歐元",
+      "title": "丹麥宣佈挫敗俄羅斯領導的暗殺陰謀；總理“加強制裁”",
       "summary": [
-        "法廣RFI：歐盟與印度尼西亞的貿易協議：讓歐盟GDP高出160億歐元， 印度尼西亞GDP高270億歐元"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "歐盟與印度尼西亞的貿易協議：讓歐盟GDP高出160億歐元， 印度尼西亞GDP高270億歐元",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261121-%E6%AD%90%E7%9B%9F%E8%88%87%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9E%E7%9A%84%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0-%E8%AE%93%E6%AD%90%E7%9B%9Fgdp%E9%AB%98%E5%87%BA160%E5%84%84%E6%AD%90%E5%85%83%EF%BC%8C-%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9Egdp%E9%AB%98270%E5%84%84%E6%AD%90%E5%85%83"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "COP31 : 歐盟專員說沒有協議總比達成一份糟糕的協議要好， 法國巴拿馬帶頭說目前的協議不夠好",
-      "summary": [
-        "法廣RFI：COP31 : 歐盟專員說沒有協議總比達成一份糟糕的協議要好， 法國巴拿馬帶頭說目前的協議不夠好"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "COP31 : 歐盟專員說沒有協議總比達成一份糟糕的協議要好， 法國巴拿馬帶頭說目前的協議不夠好",
-          "url": "https://www.rfi.fr/tw/%E7%94%9F%E6%85%8B/20261121-cop31-%E6%AD%90%E7%9B%9F%E5%B0%88%E5%93%A1%E8%AA%AA%E6%B2%92%E6%9C%89%E5%8D%94%E8%AD%B0%E7%B8%BD%E6%AF%94%E9%81%94%E6%88%90%E4%B8%80%E4%BB%BD%E7%B3%9F%E7%B3%95%E7%9A%84%E5%8D%94%E8%AD%B0%E8%A6%81%E5%A5%BD%EF%BC%8C-%E6%B3%95%E5%9C%8B%E5%B7%B4%E6%8B%BF%E9%A6%AC%E5%B8%B6%E9%A0%AD%E8%AA%AA%E7%9B%AE%E5%89%8D%E7%9A%84%E5%8D%94%E8%AD%B0%E4%B8%8D%E5%A4%A0%E5%A5%BD"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "歐盟開支預算： 德國認為規模太大，法國認為預算被砍得太厲害了",
-      "summary": [
-        "法廣RFI：歐盟開支預算： 德國認為規模太大，法國認為預算被砍得太厲害了"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "歐盟開支預算： 德國認為規模太大，法國認為預算被砍得太厲害了",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261121-%E6%AD%90%E7%9B%9F%E9%96%8B%E6%94%AF%E9%A0%90%E7%AE%97-%E5%BE%B7%E5%9C%8B%E8%AA%8D%E7%82%BA%E8%A6%8F%E6%A8%A1%E5%A4%AA%E5%A4%A7%EF%BC%8C%E6%B3%95%E5%9C%8B%E8%AA%8D%E7%82%BA%E9%A0%90%E7%AE%97%E8%A2%AB%E7%A0%8D%E5%BE%97%E5%A4%AA%E5%8E%B2%E5%AE%B3%E4%BA%86"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "澤連斯基總統：“三邊峰會對俄羅斯來說是失敗的”",
-      "summary": [
-        "NHK新聞：澤連斯基總統：“三邊峰會對俄羅斯來說是失敗的”"
+        "NHK新聞：丹麥宣佈挫敗俄羅斯領導的暗殺陰謀；總理“加強制裁”"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "澤連斯基總統：“三邊峰會對俄羅斯來說是失敗的”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261122de79819"
+          "title": "丹麥宣佈挫敗俄羅斯領導的暗殺陰謀；總理“加強制裁”",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261122de79796"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "《可能的愛》：鴻溝兩端的幻象",
+      "summary": [
+        "FT中文網：《可能的愛》：鴻溝兩端的幻象"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "FT中文網",
+          "title": "《可能的愛》：鴻溝兩端的幻象",
+          "url": "https://www.ftchinese.com/story/001112099"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "土耳其駁斥馬來西亞宣佈重新安置羅興亞人",
+      "summary": [
+        "Nikkei Asia：土耳其駁斥馬來西亞宣佈重新安置羅興亞人"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "土耳其駁斥馬來西亞宣佈重新安置羅興亞人",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTE5ERE5vZzdFRGV2NVlZc3p5Xzlnb2MzY3FRMGw0Tm9tbDFkam56MVpXZTVfS2lYV2hOcExVMmpXVjZkMnZhM2ljTVFFRUZCYjljNGdoenpNaEV5VVpIT01VQWZ2SWtjd2txc1dDZVNsWTdJTXc5TjNwcEs1S0sydHN6TDAyRWdfcE5UaXVVcUtBSjA2eG1ZZ28zdFhnSXVmTmtfYmItbXA5TnlHcERUVWhNaUJudWVoQWVSRWJMMA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普稱科寧阻止了司法任命，因為他的“感情受到了傷害”",
+      "summary": [
+        "Washington Post：川普稱科寧阻止了司法任命，因為他的“感情受到了傷害”"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "川普稱科寧阻止了司法任命，因為他的“感情受到了傷害”",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTFhSR29UOE9YYlhmdlNIaXVaaHcxR0V0LUJYUTJ2eWxZYm02NV9ISWx5VjFua3BpVi02WEpVX3JIX29XLTdZaDYyWWpmbWU2U2JDaTE0R0NnRUViRVBGa3Z6Qno4VFRtb1Jnc2dsSVBJazhDc1JnNWdZcmx4U0VxVnFFVzFRemRfcnRXNlZyZ3pUdlNaRDFuZW1yVHBEMzlkQVk4SDZKTUYyZGtTVkJiX3dWRlp0dGRmNGxLUi1xZw?oc=5"
         }
       ]
     }
