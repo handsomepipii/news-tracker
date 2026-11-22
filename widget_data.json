@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 19:55",
+  "updated_at": "2026-11-22 20:25",
   "taiwan": [
     {
       "rank": 1,
@@ -57,27 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "墨西哥逮捕FBI十大通緝毒梟　爆激烈槍戰",
-      "summary": [
-        "ETtoday：墨西哥逮捕FBI十大通緝毒梟　爆激烈槍戰",
-        "經濟日報：墨西哥逮捕FBI十大通緝毒梟　行動釀11死"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "墨西哥逮捕FBI十大通緝毒梟　爆激烈槍戰",
-          "url": "https://www.ettoday.net/news/20261122/3276288.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "墨西哥逮捕FBI十大通緝毒梟　行動釀11死",
-          "url": "https://money.udn.com/money/story/5599/9894423"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "俄貨船波羅的海遇襲起火 芬蘭推測：烏克蘭打的",
       "summary": [
         "自由時報：俄貨船波羅的海遇襲起火 芬蘭推測：烏克蘭打的",
@@ -98,7 +77,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "暴雪襲福島！聯外國道封閉 遊客、住戶近1500人受困山區",
       "summary": [
         "自由時報：暴雪襲福島！聯外國道封閉 遊客、住戶近1500人受困山區",
@@ -119,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
       "summary": [
         "自由時報：屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "國巨慘跌逾7成！他想吵架一看朋友持股秒心軟 網笑：仇人都釋懷",
       "summary": [
         "自由時報：國巨慘跌逾7成！他想吵架一看朋友持股秒心軟 網笑：仇人都釋懷",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
       "summary": [
         "自由時報：六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光",
       "summary": [
         "今周刊：川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "黃仁勳共諜案竟與太子集團有關？金融時報揭「二把手」助輝達晶片流入中國…走私鏈如何運作？",
       "summary": [
         "今周刊：黃仁勳共諜案竟與太子集團有關？金融時報揭「二把手」助輝達晶片流入中國…走私鏈如何運作？",
@@ -220,6 +199,27 @@
           "source": "ETtoday",
           "title": "輝達案扯出太子集團　FT：二把手胡小偉助晶片流入中國",
           "url": "https://www.ettoday.net/news/20261122/3276361.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "證交所急召十券商！今討論融資維持率是否降至120％備受矚目- 日報",
+      "summary": [
+        "工商時報：證交所急召十券商！今討論融資維持率是否降至120％備受矚目- 日報",
+        "自由時報：融資擔保率降至120％? 6400戶追繳戶暫鬆一口氣"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "工商時報",
+          "title": "證交所急召十券商！今討論融資維持率是否降至120％備受矚目- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkbG5hb3BlWjl1OE1NeEJ5S1o3WTc0U04zRDFUeVJzSXFmbzB0Njc3SURRdWM4czFaVWVkNDRQZWt3dDBjQ2lqVmRINVczeXJMVk81QkFKcjNwTmg1QWNF?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "融資擔保率降至120％? 6400戶追繳戶暫鬆一口氣",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5649746"
         }
       ]
     }
@@ -344,66 +344,6 @@
     },
     {
       "rank": 6,
-      "title": "川普稱科寧阻止司法任命是因為他的“感情受到傷害”",
-      "summary": [
-        "Washington Post：川普稱科寧阻止司法任命是因為他的“感情受到傷害”"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "川普稱科寧阻止司法任命是因為他的“感情受到傷害”",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTFhSR29UOE9YYlhmdlNIaXVaaHcxR0V0LUJYUTJ2eWxZYm02NV9ISWx5VjFua3BpVi02WEpVX3JIX29XLTdZaDYyWWpmbWU2U2JDaTE0R0NnRUViRVBGa3Z6Qno4VFRtb1Jnc2dsSVBJazhDc1JnNWdZcmx4U0VxVnFFVzFRemRfcnRXNlZyZ3pUdlNaRDFuZW1yVHBEMzlkQVk4SDZKTUYyZGtTVkJiX3dWRlp0dGRmNGxLUi1xZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "APEC峰會：中美從更加均衡走向戰略穩定",
-      "summary": [
-        "FT中文網：APEC峰會：中美從更加均衡走向戰略穩定"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "FT中文網",
-          "title": "APEC峰會：中美從更加均衡走向戰略穩定",
-          "url": "https://www.ftchinese.com/story/001112100"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "我的妻子正在資助她的家人去紐約旅行，這耗盡了我們的積蓄。我該叫她停下來嗎？",
-      "summary": [
-        "MarketWatch：我的妻子正在資助她的家人去紐約旅行，這耗盡了我們的積蓄。我該叫她停下來嗎？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "MarketWatch",
-          "title": "我的妻子正在資助她的家人去紐約旅行，這耗盡了我們的積蓄。我該叫她停下來嗎？",
-          "url": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "以下是西班牙提前大選的預期",
-      "summary": [
-        "Investing.com：以下是西班牙提前大選的預期"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "以下是西班牙提前大選的預期",
-          "url": "https://www.investing.com/news/stock-market-news/here-is-what-to-expect-from-spains-snap-election-5043631"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "印度國大黨警告稱，將有更多針對Meta的抗議活動",
       "summary": [
         "Nikkei Asia：印度國大黨警告稱，將有更多針對Meta的抗議活動"
@@ -414,6 +354,66 @@
           "source": "Nikkei Asia",
           "title": "印度國大黨警告稱，將有更多針對Meta的抗議活動",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWN1alRxWkJQNGhZWTYyenpXUTF5U2l6WG0wcEUybVVseHg1cC1JLXlOOVhXVU9nLUR0SFdHejdjU25VN0FjWTUxcVM3aVNxdHZMMmRLcXgtTGszNHVBM1p2ZFQwWWlvNGczMjRiZllhSTQ0WktjRHN5Y2ZGUmVpSVVPOFc5SldvVDE1a0tzNEc2c0lYVUE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "從倉頡換成漢語拼音：電腦輸入法會影響下一代學習中文嗎？",
+      "summary": [
+        "BBC中文：從倉頡換成漢語拼音：電腦輸入法會影響下一代學習中文嗎？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "從倉頡換成漢語拼音：電腦輸入法會影響下一代學習中文嗎？",
+          "url": "https://www.bbc.com/zhongwen/articles/cxq6e216p7ylo/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "防彈少年團和CORTIS榮膺MAMA大獎",
+      "summary": [
+        "韓聯社：防彈少年團和CORTIS榮膺MAMA大獎"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "防彈少年團和CORTIS榮膺MAMA大獎",
+          "url": "https://cn.yna.co.kr/view/ACK20261122000200881"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "修復後的沖繩城堡重新開放，並採取了廣泛的消防安全措施",
+      "summary": [
+        "Nikkei Asia：修復後的沖繩城堡重新開放，並採取了廣泛的消防安全措施"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "修復後的沖繩城堡重新開放，並採取了廣泛的消防安全措施",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa09YQy1GYktuZ1NNdVFNdWpnSW1xUlZqSVd6ZlQybWNjc2pqaVNNWkxEX2lQTjNrNG53Unl1WVppRExxd3FZdXVIckFyc0xNSXM0Vjg0aWJSTE5yWkpIaV9ZbWtVQ05aS3ozeE50MDBRTGhXT1FLeWdwMml3NHBNX2tyUm1mZmJjNks4aV9STWZqcVhWaXBVVnRBR1Iyc1c5a19pVWtUNU5TZ2drUXMyaVpyZmE5RkxL?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "地球迎來新的「迷你月亮」——它並不孤單",
+      "summary": [
+        "BBC中文：地球迎來新的「迷你月亮」——它並不孤單"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "地球迎來新的「迷你月亮」——它並不孤單",
+          "url": "https://www.bbc.com/zhongwen/articles/cqy7rg0yyxxko/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
