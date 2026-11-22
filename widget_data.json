@@ -1,8 +1,67 @@
 {
-  "updated_at": "2026-11-22 12:26",
+  "updated_at": "2026-11-22 12:55",
   "taiwan": [
     {
       "rank": 1,
+      "title": "川普仍有意與伊朗達成永久協議：不在乎政權更迭但絕不容許擁核",
+      "summary": [
+        "ETtoday：川普仍有意與伊朗達成永久協議：不在乎政權更迭但絕不容許擁核",
+        "經濟日報：川普盼與伊朗簽永久協議！喊話4年後換無能總統也不能翻盤",
+        "今周刊：川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "川普仍有意與伊朗達成永久協議：不在乎政權更迭但絕不容許擁核",
+          "url": "https://www.ettoday.net/news/20261122/3276281.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普盼與伊朗簽永久協議！喊話4年後換無能總統也不能翻盤",
+          "url": "https://money.udn.com/money/story/5599/9894037"
+        },
+        {
+          "source": "今周刊",
+          "title": "川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZU1CNFpNb1FVRGxORWRpVlJDakZRc1liRjB2ZUNudEFSRDI0UEtGaElHN2lKQlJKUHhBNGVGY1ZpWGw3SExfdUkyOWc2clpUdXN4b3NaZERheGo5QWhsUEQySl9vZFZWeHRxOHNFdWYxQ0d6bUUxRDZ4YWlHbVhSUA?oc=5"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "確保伊朗未來無法取得核武川普盼達成永久協議- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE0xTVpVb2Y0NURubkp2eVB0NEJYa00tRGZZTjR0S0FSSl9ISkZqdTUwRDJXdWo1N1NpVVQ3d0txdmtmeE4tc0tHTjJQSDdLVWx1WWp0QkJwMURXYVB0U2w1S2xjWENnY0JsZlk1b0hpbFE3N05GRlZyU1F6NU9RY1FKUFU2VWlMU1k2c01NdEM4dw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "新北選戰藍綠陣營三重造勢李四川、蘇巧慧拚場較勁｜20261121 公視晚間新聞｜ 公視新聞PNN",
+      "summary": [
+        "公視新聞：新北選戰藍綠陣營三重造勢李四川、蘇巧慧拚場較勁｜20261121 公視晚間新聞｜ 公視新聞PNN",
+        "工商時報：李子柒當選四川省文聯副主席 陸媒：兼職身分非「入編」",
+        "經濟日報：美媒爆料黃仁勳下臺真正原因！傳董事會震怒 董事長1句話道關鍵"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "公視新聞",
+          "title": "新北選戰藍綠陣營三重造勢李四川、蘇巧慧拚場較勁｜20261121 公視晚間新聞｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84Zms3MngybUJlbHJ4TkZSTTh5WWd2ai1FaXg1U1djSjlXeko0MjBEQ2hpSWlnMmFmM3cxWm41UUh4S1Z4b3BYVTM4Yw?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "李子柒當選四川省文聯副主席 陸媒：兼職身分非「入編」",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CejJQUjVtTjhLdTJlMkMzUmoyRDVIVm5tQUhLb3hSTGIxelpFZm4yQjJ0M0syN25CS0VoOHdubXAxTS1GY0x4WVEwZWptcDR4YjhDWXE3cV8zUDNIZDVr?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美媒爆料黃仁勳下臺真正原因！傳董事會震怒 董事長1句話道關鍵",
+          "url": "https://money.udn.com/money/story/5599/9894381"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "墨西哥逮捕FBI十大通緝毒梟　當地爆槍戰與暴力事件",
       "summary": [
         "自由時報：墨西哥逮捕FBI十大通緝毒梟　當地爆槍戰與暴力事件",
@@ -29,7 +88,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "加拿大防長：美加軍事合作依舊密切　未見關係生變",
       "summary": [
         "自由時報：加拿大防長：美加軍事合作依舊密切　未見關係生變",
@@ -56,97 +115,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "川普仍有意與伊朗達成永久協議：不在乎政權更迭但絕不容許擁核",
-      "summary": [
-        "ETtoday：川普仍有意與伊朗達成永久協議：不在乎政權更迭但絕不容許擁核",
-        "經濟日報：川普盼與伊朗簽永久協議！喊話4年後換無能總統也不能翻盤",
-        "今周刊：川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "川普仍有意與伊朗達成永久協議：不在乎政權更迭但絕不容許擁核",
-          "url": "https://www.ettoday.net/news/20261122/3276281.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普盼與伊朗簽永久協議！喊話4年後換無能總統也不能翻盤",
-          "url": "https://money.udn.com/money/story/5599/9894037"
-        },
-        {
-          "source": "今周刊",
-          "title": "川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZU1CNFpNb1FVRGxORWRpVlJDakZRc1liRjB2ZUNudEFSRDI0UEtGaElHN2lKQlJKUHhBNGVGY1ZpWGw3SExfdUkyOWc2clpUdXN4b3NaZERheGo5QWhsUEQySl9vZFZWeHRxOHNFdWYxQ0d6bUUxRDZ4YWlHbVhSUA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "打造最接地氣防災片！彰化防火短影音競賽登場AI科技神助攻",
-      "summary": [
-        "自由時報：打造最接地氣防災片！彰化防火短影音競賽登場AI科技神助攻",
-        "公視新聞：新北選戰藍綠陣營三重造勢李四川、蘇巧慧拚場較勁｜20261121 公視晚間新聞｜ 公視新聞PNN"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "打造最接地氣防災片！彰化防火短影音競賽登場AI科技神助攻",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5648917"
-        },
-        {
-          "source": "公視新聞",
-          "title": "新北選戰藍綠陣營三重造勢李四川、蘇巧慧拚場較勁｜20261121 公視晚間新聞｜ 公視新聞PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84Zms3MngybUJlbHJ4TkZSTTh5WWd2ai1FaXg1U1djSjlXeko0MjBEQ2hpSWlnMmFmM3cxWm41UUh4S1Z4b3BYVTM4Yw?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "高雄城市盃龍舟賽蓮池潭熱血開劃 120隊好手競速較勁",
-      "summary": [
-        "自由時報：高雄城市盃龍舟賽蓮池潭熱血開劃 120隊好手競速較勁",
-        "風傳媒：高雄城市盃龍舟賽蓮池潭登場！120隊齊聚競速港澳9隊跨海較勁、真理大學雙料奪冠| 徐炳文 | 地方新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "高雄城市盃龍舟賽蓮池潭熱血開劃 120隊好手競速較勁",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5649018"
-        },
-        {
-          "source": "風傳媒",
-          "title": "高雄城市盃龍舟賽蓮池潭登場！120隊齊聚競速港澳9隊跨海較勁、真理大學雙料奪冠| 徐炳文 | 地方新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OZTQxZ0dDOXNUcnBSWFRhRDl4bmF0Zm9KYk1wU01uR0FxaDVuVDZUUzR0RFVlSFViTHJweExOR2djR2c5TU5YY3ZjVlFMQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "急凍！這2縣市低溫特報 竹苗恐跌破10度",
-      "summary": [
-        "自由時報：急凍！這2縣市低溫特報 竹苗恐跌破10度",
-        "ETtoday：快訊／2縣市低溫特報！　急凍跌破10度"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "急凍！這2縣市低溫特報 竹苗恐跌破10度",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5649163"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／2縣市低溫特報！　急凍跌破10度",
-          "url": "https://www.ettoday.net/news/20261121/3276269.htm"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "川普籲輝達讓黃仁勳回鍋 強調「應給頂尖人才第二次機會」",
       "summary": [
         "經濟日報：川普籲輝達讓黃仁勳回鍋 強調「應給頂尖人才第二次機會」",
@@ -167,7 +136,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "統一奔騰基金- 淨值",
       "summary": [
         "MoneyDJ理財網：統一奔騰基金- 淨值",
@@ -188,7 +157,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
       "summary": [
         "自由時報：巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
@@ -209,7 +178,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "辛苦列車長！ 蔡允潔目擊酒醉搭火車第一現場",
       "summary": [
         "自由時報：辛苦列車長！ 蔡允潔目擊酒醉搭火車第一現場",
@@ -226,6 +195,48 @@
           "source": "ETtoday",
           "title": "蔡允潔搭火車遇醉漢失控！吐滿車廂臭翻　警察一來「卻能走直線」",
           "url": "https://star.ettoday.net/news/3276299"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
+      "summary": [
+        "自由時報：屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
+        "ETtoday：屏東砂石車「閃身步」意外！　衝撞電桿斷兩截、歪斜吊半空"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5649243"
+        },
+        {
+          "source": "ETtoday",
+          "title": "屏東砂石車「閃身步」意外！　衝撞電桿斷兩截、歪斜吊半空",
+          "url": "https://www.ettoday.net/news/20261122/3276330.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "快訊／蔣萬安道歉了！　不認同賴士葆造勢罵沈伯洋「人渣」",
+      "summary": [
+        "ETtoday：快訊／蔣萬安道歉了！　不認同賴士葆造勢罵沈伯洋「人渣」",
+        "今周刊：說好的正面選戰呢？賴士葆站臺脫口罵沈伯洋「人渣、洋流是空心流」...蔣萬安致歉喊不認同"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／蔣萬安道歉了！　不認同賴士葆造勢罵沈伯洋「人渣」",
+          "url": "https://www.ettoday.net/news/20261122/3276319.htm"
+        },
+        {
+          "source": "今周刊",
+          "title": "說好的正面選戰呢？賴士葆站臺脫口罵沈伯洋「人渣、洋流是空心流」...蔣萬安致歉喊不認同",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDlxR3NJVXVMLW1jV1VyZGZmUVBfcUcyOUc4V2xQcldiMkFqenJwOFA5aW9pSUd0ektfZ0dWT0ZuSTZWcTduOWM1bnhUMmZ3RzA2akJ1NHhGdnFoZmtFZnk5eFFqR05HX1Q5MG4yTXFpX1pZNjVFaTkzRnJPelRReg?oc=5"
         }
       ]
     }
@@ -284,106 +295,106 @@
     },
     {
       "rank": 4,
-      "title": "中國、俄羅斯和美國同意和平宣言，但未提及烏克蘭和伊朗戰爭",
+      "title": "高雄選戰「知識藍」對決「新潮流」，國民黨能複製「韓流」嗎？",
       "summary": [
-        "The Guardian：中國、俄羅斯和美國同意和平宣言，但未提及烏克蘭和伊朗戰爭"
+        "BBC中文：高雄選戰「知識藍」對決「新潮流」，國民黨能複製「韓流」嗎？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "The Guardian",
-          "title": "中國、俄羅斯和美國同意和平宣言，但未提及烏克蘭和伊朗戰爭",
-          "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars"
+          "source": "BBC中文",
+          "title": "高雄選戰「知識藍」對決「新潮流」，國民黨能複製「韓流」嗎？",
+          "url": "https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "Anthropic 創紀錄的 IPO 與華爾街科技股自 2020 年以來最糟糕的一週相撞",
+      "title": "像《俠盜獵車手 VI》這樣的電子遊戲可能對大腦有驚人的好處",
       "summary": [
-        "CNBC：Anthropic 創紀錄的 IPO 與華爾街科技股自 2020 年以來最糟糕的一週相撞"
+        "Washington Post：像《俠盜獵車手 VI》這樣的電子遊戲可能對大腦有驚人的好處"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "CNBC",
-          "title": "Anthropic 創紀錄的 IPO 與華爾街科技股自 2020 年以來最糟糕的一週相撞",
-          "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
+          "source": "Washington Post",
+          "title": "像《俠盜獵車手 VI》這樣的電子遊戲可能對大腦有驚人的好處",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcFJ4SDlEYWhtd0xJcWNCbWtpZUp0MHZ4Q2YyWTgtVEhYSF96LXNWLW8weV9MNkplbVY1dUFnUHB6UjRuNTlkYVBnVmZlWjlqQ1BkcV9wTTVvOTEzZmtyZl9xTV96SFNPOGpjelp2VWJqeUVIZ25VbHhnSXdkdDVCazVvcTU4QUg4N3lWU0VYaEUyWm1WR0R4eVo3dTRTNGRUakJzVko2UFZjUUJvdy1JU0RpaVREcTFRTTUtN2VpR0szdw?oc=5"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "社保是龐氏騙局嗎？不，不要被 20 世紀 30 年代末日的預言沖昏頭。",
+      "title": "加州 Nvidia 調查涉及潛在的刑法違法行為",
       "summary": [
-        "MarketWatch：社保是龐氏騙局嗎？不，不要被 20 世紀 30 年代末日的預言沖昏頭。"
+        "Bloomberg Tech：加州 Nvidia 調查涉及潛在的刑法違法行為"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "MarketWatch",
-          "title": "社保是龐氏騙局嗎？不，不要被 20 世紀 30 年代末日的預言沖昏頭。",
-          "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories"
+          "source": "Bloomberg Tech",
+          "title": "加州 Nvidia 調查涉及潛在的刑法違法行為",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "「我厭倦了搭飛機」：我支付了優先登機費，但頭頂行李箱已滿。我被騙了嗎？",
+      "title": "川普表示，最新的聯邦調查局資料庫駭客事件可能會帶來“正面影響”",
       "summary": [
-        "MarketWatch：「我厭倦了搭飛機」：我支付了優先登機費，但頭頂行李箱已滿。我被騙了嗎？"
+        "CNBC：川普表示，最新的聯邦調查局資料庫駭客事件可能會帶來“正面影響”"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "MarketWatch",
-          "title": "「我厭倦了搭飛機」：我支付了優先登機費，但頭頂行李箱已滿。我被騙了嗎？",
-          "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories"
+          "source": "CNBC",
+          "title": "川普表示，最新的聯邦調查局資料庫駭客事件可能會帶來“正面影響”",
+          "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "我害怕市場崩潰。我應該將 100 萬美元退休儲蓄中的 40 萬美元存入年金嗎？",
+      "title": "魯賓獎讓不丹當代藝術成為人們關注的焦點",
       "summary": [
-        "MarketWatch：我害怕市場崩潰。我應該將 100 萬美元退休儲蓄中的 40 萬美元存入年金嗎？"
+        "Nikkei Asia：魯賓獎讓不丹當代藝術成為人們關注的焦點"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "MarketWatch",
-          "title": "我害怕市場崩潰。我應該將 100 萬美元退休儲蓄中的 40 萬美元存入年金嗎？",
-          "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories"
+          "source": "Nikkei Asia",
+          "title": "魯賓獎讓不丹當代藝術成為人們關注的焦點",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS25BNjBQUi1lVTdJbGFZSXRXLTFtcnJJSlc5ZW5OckFFaXU2Ykd5b0pmQkxPRHhOc0FMNUZxSUpVamtJN1FZUmtuV1JVdFJNYlJKWWdON0Z2dy13Vm16UmRIaU1kc2JGMDIybXdDb3RsWEFfR2hsMXJRaG52X1cyazJGV2lod0hQRHZ0Ym5EM19mQk1Ga1Y3cTExODFLd29i?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "2026 年黑色星期五遊戲椅最佳優惠",
+      "title": "以下是可以存在於您的簡訊中的頂級人工智慧代理",
       "summary": [
-        "Tom's Hardware：2026 年黑色星期五遊戲椅最佳優惠"
+        "TechCrunch：以下是可以存在於您的簡訊中的頂級人工智慧代理"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Tom's Hardware",
-          "title": "2026 年黑色星期五遊戲椅最佳優惠",
-          "url": "https://www.tomshardware.com/peripherals/gaming-chairs/best-gaming-chair-deals-secretlab-razer-and-more"
+          "source": "TechCrunch",
+          "title": "以下是可以存在於您的簡訊中的頂級人工智慧代理",
+          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "川普欲禁止美國公司興建海外資料中心 因禁令發展緩慢",
+      "title": "經過艱難的開局後，指揮官的新協調員讓防守負責",
       "summary": [
-        "Tom's Hardware：川普欲禁止美國公司興建海外資料中心 因禁令發展緩慢"
+        "Washington Post：經過艱難的開局後，指揮官的新協調員讓防守負責"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Tom's Hardware",
-          "title": "川普欲禁止美國公司興建海外資料中心 因禁令發展緩慢",
-          "url": "https://www.tomshardware.com/tech-industry/data-centers/trump-wants-to-ban-us-companies-from-building-overseas-data-centers-as-bans-slow-development-also-considers-putting-a-tremendous-tax-in-lieu-of-prohibition"
+          "source": "Washington Post",
+          "title": "經過艱難的開局後，指揮官的新協調員讓防守負責",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0lZMHBFc3FMSElXbUZJRHo0aFZSZlc2Y0pWTFo1M1BtdXc2aEJsZmp4UjlLdHpmSTZPS1FPS3J6eV9LT3M0WWFFOHFBaHhqWjRUXzFyTzBCNl9QMmFSdHhOdU45UzU5a0V4ZHhydTh2UHVTeWcwU2xHbkd6eEFtQktGTlZSSU1yVHZURGhLLVhiekota3BkLWlOdkNHVE9VV1lsbjBvRXhlSmFDZm9FNlV0X0ROU1NFQWoxMg?oc=5"
         }
       ]
     }
