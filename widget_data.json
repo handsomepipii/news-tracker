@@ -1,21 +1,16 @@
 {
-  "updated_at": "2026-11-23 06:26",
+  "updated_at": "2026-11-23 06:57",
   "taiwan": [
     {
       "rank": 1,
-      "title": "嘉義縣長選戰白熱化！蔡易餘車掃拚連線、吳品叡市場反水庫光電",
+      "title": "新北選戰藍綠三重辦造勢晚會 李四川、蘇巧慧隔空拚場",
       "summary": [
-        "自由時報：嘉義縣長選戰白熱化！蔡易餘車掃拚連線、吳品叡市場反水庫光電",
         "公視新聞：新北選戰藍綠三重辦造勢晚會 李四川、蘇巧慧隔空拚場",
-        "ETtoday：卓揆稱蘇巧慧直達車走向新北　李競辦諷：4500萬公帑頭等艙直達蘇家"
+        "ETtoday：卓揆稱蘇巧慧直達車走向新北　李競辦諷：4500萬公帑頭等艙直達蘇家",
+        "TVBS新聞：味全龍「封王遊行」傳葉總卸任 郭天信直呼不捨.球團未證實｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
       ],
       "media_count": 5,
       "links": [
-        {
-          "source": "自由時報",
-          "title": "嘉義縣長選戰白熱化！蔡易餘車掃拚連線、吳品叡市場反水庫光電",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649702"
-        },
         {
           "source": "公視新聞",
           "title": "新北選戰藍綠三重辦造勢晚會 李四川、蘇巧慧隔空拚場",
@@ -35,11 +30,97 @@
           "source": "經濟日報",
           "title": "華僑協會菲律賓分會改選 新會長鄭國賓盼深化菲臺交流",
           "url": "https://money.udn.com/money/story/5599/9895069"
+        },
+        {
+          "source": "自由時報",
+          "title": "陪李四川造勢遭民眾貼「安心貼紙」 侯友宜秒撕引網熱議",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649858"
         }
       ]
     },
     {
       "rank": 2,
+      "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
+      "summary": [
+        "自由時報：達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
+        "經濟日報：達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
+        "ETtoday：美感恩節前夕上千航班又延誤！　達美航空自動化系統爆故障"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650023"
+        },
+        {
+          "source": "經濟日報",
+          "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
+          "url": "https://money.udn.com/money/story/5599/9895424"
+        },
+        {
+          "source": "ETtoday",
+          "title": "美感恩節前夕上千航班又延誤！　達美航空自動化系統爆故障",
+          "url": "https://www.ettoday.net/news/20261123/3276698.htm"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
+      "summary": [
+        "自由時報：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
+        "經濟日報：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
+        "ETtoday：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將召開會議"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650024"
+        },
+        {
+          "source": "經濟日報",
+          "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
+          "url": "https://money.udn.com/money/story/5599/9895430"
+        },
+        {
+          "source": "ETtoday",
+          "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將召開會議",
+          "url": "https://www.ettoday.net/news/20261123/3276702.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
+      "summary": [
+        "自由時報：黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
+        "經濟日報：黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
+        "ETtoday：黃仁勳回歸？　美財長：他已是外部人士"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650029"
+        },
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
+          "url": "https://money.udn.com/money/story/5599/9895441"
+        },
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳回歸？　美財長：他已是外部人士",
+          "url": "https://www.ettoday.net/news/20261123/3276699.htm"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "柯文哲才剛合體就否認藍白合　蔣萬安：共同目標贏得年底選舉",
       "summary": [
         "ETtoday：柯文哲才剛合體就否認藍白合　蔣萬安：共同目標贏得年底選舉",
@@ -60,7 +141,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 6,
       "title": "明起再有2波冷空氣報到 週二起先濕後乾",
       "summary": [
         "公視新聞：明起再有2波冷空氣報到 週二起先濕後乾",
@@ -81,7 +162,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 7,
       "title": "北市科建案工地頂樓起火 市消防局佈水線灌救",
       "summary": [
         "自由時報：北市科建案工地頂樓起火 市消防局佈水線灌救",
@@ -102,7 +183,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 8,
       "title": "屏東市長選舉公辦政見會 梁育慈提市政新藍圖 盼帶領家鄉脫胎換骨",
       "summary": [
         "自由時報：屏東市長選舉公辦政見會 梁育慈提市政新藍圖 盼帶領家鄉脫胎換骨",
@@ -123,7 +204,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 9,
       "title": "金馬63》舒淇奪獎揭家醜！爆爸媽「喝酒又打架」霸氣立誓：下次拿最佳導演",
       "summary": [
         "自由時報：金馬63》舒淇奪獎揭家醜！爆爸媽「喝酒又打架」霸氣立誓：下次拿最佳導演",
@@ -144,7 +225,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "小笠原欣幸：洋流外溢影響新北、基隆、臺中、竹市選情",
       "summary": [
         "自由時報：小笠原欣幸：洋流外溢影響新北、基隆、臺中、竹市選情",
@@ -161,69 +242,6 @@
           "source": "TVBS新聞",
           "title": "洋流外溢! 沈基隆造勢站臺 蔣找「禿子.燕子」車掃｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02alNNUEFlODg1Y01NNUttclFWUl91RGNWclFvTTAtV3FIYzBSWUVpMDNZc29BRzJTUmFqRnFOR051bU5uMXg0TVk5aGVfM2NsV0I3SGVR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "逆轉！臺中清潔隊代理隊長貪汙油錢4925元 二審改判背信原因曝",
-      "summary": [
-        "自由時報：逆轉！臺中清潔隊代理隊長貪汙油錢4925元 二審改判背信原因曝",
-        "ETtoday：逆轉不算貪汙！前清潔隊長私用公務車刷4925元油錢　二審改判背信"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "逆轉！臺中清潔隊代理隊長貪汙油錢4925元 二審改判背信原因曝",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5650007"
-        },
-        {
-          "source": "ETtoday",
-          "title": "逆轉不算貪汙！前清潔隊長私用公務車刷4925元油錢　二審改判背信",
-          "url": "https://www.ettoday.net/news/20261123/3276691.htm"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "川普：若舒默出任參院多數黨領袖　合作將有困難",
-      "summary": [
-        "經濟日報：川普：若舒默出任參院多數黨領袖　合作將有困難",
-        "自由時報：川普：若舒默出任參院多數黨領袖　合作將有困難"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普：若舒默出任參院多數黨領袖　合作將有困難",
-          "url": "https://money.udn.com/money/story/5599/9895400"
-        },
-        {
-          "source": "自由時報",
-          "title": "川普：若舒默出任參院多數黨領袖　合作將有困難",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650016"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "COP31 氣候談判 破局",
-      "summary": [
-        "經濟日報：COP31 氣候談判 破局",
-        "自由時報：史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "COP31 氣候談判 破局",
-          "url": "https://money.udn.com/money/story/5599/9895195"
-        },
-        {
-          "source": "自由時報",
-          "title": "史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650019"
         }
       ]
     }
@@ -279,27 +297,6 @@
     },
     {
       "rank": 3,
-      "title": "臺灣外交部次長警告加拿大總理卡尼，深化與中國的貿易關係可能帶來經濟脅迫風險",
-      "summary": [
-        "德國之聲：臺灣外交部次長警告加拿大總理卡尼，深化與中國的貿易關係可能帶來經濟脅迫風險",
-        "法廣RFI：臺灣副外長警告加拿大總理卡尼：深化對華關係恐面臨“經濟脅迫”"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "臺灣外交部次長警告加拿大總理卡尼，深化與中國的貿易關係可能帶來經濟脅迫風險",
-          "url": "https://www.dw.com/zh/台湾外交部次长警告加拿大总理卡尼，深化与中国的贸易关系可能带来经济胁迫风险/a-80013028?maca=chi-rss-chi-all-1127-rdf"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "臺灣副外長警告加拿大總理卡尼：深化對華關係恐面臨“經濟脅迫”",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261122-%E5%8F%B0%E7%81%A3%E5%89%AF%E5%A4%96%E9%95%B7%E8%AD%A6%E5%91%8A%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%B8%BD%E7%90%86%E5%8D%A1%E5%B0%BC-%E6%B7%B1%E5%8C%96%E5%B0%8D%E8%8F%AF%E9%97%9C%E4%BF%82%E6%81%90%E9%9D%A2%E8%87%A8-%E7%B6%93%E6%BF%9F%E8%84%85%E8%BF%AB"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Kospi暴跌5.2%後韓國準備股市穩定基金",
       "summary": [
         "Investing.com：Kospi暴跌5.2%後韓國準備股市穩定基金",
@@ -320,7 +317,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "黑色星期五 Nintendo Switch 2 最佳優惠（2026 年）：Switch 2 套裝和遊戲",
       "summary": [
         "Wired：黑色星期五 Nintendo Switch 2 最佳優惠（2026 年）：Switch 2 套裝和遊戲",
@@ -341,7 +338,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "官員稱利比亞港口俄羅斯船隻爆炸可能由無人機襲擊造成",
       "summary": [
         "BBC World：官員稱利比亞港口俄羅斯船隻爆炸可能由無人機襲擊造成",
@@ -362,7 +359,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "亞洲國家在人工智慧潰敗後採取措施援助股市",
       "summary": [
         "Investing.com：亞洲國家在人工智慧潰敗後採取措施援助股市",
@@ -383,7 +380,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "貝森特表示，美國就英偉達向中國出售晶片一事尋求答案",
       "summary": [
         "Investing.com：貝森特表示，美國就英偉達向中國出售晶片一事尋求答案",
@@ -404,32 +401,47 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "因上海產特斯拉汽車熱銷，韓國對華汽車貿易逆差創歷史新高",
+      "rank": 8,
+      "title": "[地震新聞]熊本縣地震強度3級，不用擔心海嘯",
       "summary": [
-        "法廣RFI：因上海產特斯拉汽車熱銷，韓國對華汽車貿易逆差創歷史新高"
+        "NHK新聞：[地震新聞]熊本縣地震強度3級，不用擔心海嘯"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "因上海產特斯拉汽車熱銷，韓國對華汽車貿易逆差創歷史新高",
-          "url": "https://www.rfi.fr/tw/%E7%B6%93%E8%B2%BF/20261122-%E5%9B%A0%E4%B8%8A%E6%B5%B7%E7%94%A2%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BB%8A%E7%86%B1%E9%8A%B7%EF%BC%8C%E9%9F%93%E5%9C%8B%E5%B0%8D%E8%8F%AF%E6%B1%BD%E8%BB%8A%E8%B2%BF%E6%98%93%E9%80%86%E5%B7%AE%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98"
+          "source": "NHK新聞",
+          "title": "[地震新聞]熊本縣地震強度3級，不用擔心海嘯",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261122de80074"
         }
       ]
     },
     {
-      "rank": 10,
-      "title": "女團IVE明年1月在首爾舉辦世巡安可演唱會",
+      "rank": 9,
+      "title": "韓國總理：將徹查未在高考考場被發現的作弊行為",
       "summary": [
-        "韓聯社：女團IVE明年1月在首爾舉辦世巡安可演唱會"
+        "韓聯社：韓國總理：將徹查未在高考考場被發現的作弊行為"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "韓聯社",
-          "title": "女團IVE明年1月在首爾舉辦世巡安可演唱會",
-          "url": "https://cn.yna.co.kr/view/ACK20261120003600881"
+          "title": "韓國總理：將徹查未在高考考場被發現的作弊行為",
+          "url": "https://cn.yna.co.kr/view/ACK20261120003700881"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "緬甸種族滅絕裁決後，人們越來越擔心美國將制裁諾貝爾獎得主法官",
+      "summary": [
+        "The Guardian：緬甸種族滅絕裁決後，人們越來越擔心美國將制裁諾貝爾獎得主法官"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "緬甸種族滅絕裁決後，人們越來越擔心美國將制裁諾貝爾獎得主法官",
+          "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court"
         }
       ]
     }
