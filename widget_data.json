@@ -1,30 +1,20 @@
 {
-  "updated_at": "2026-11-23 07:26",
+  "updated_at": "2026-11-23 07:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "新北選戰藍綠三重辦造勢晚會 李四川、蘇巧慧隔空拚場",
+      "title": "卓揆稱蘇巧慧直達車走向新北　李競辦諷：4500萬公帑頭等艙直達蘇家",
       "summary": [
-        "公視新聞：新北選戰藍綠三重辦造勢晚會 李四川、蘇巧慧隔空拚場",
         "ETtoday：卓揆稱蘇巧慧直達車走向新北　李競辦諷：4500萬公帑頭等艙直達蘇家",
-        "TVBS新聞：味全龍「封王遊行」傳葉總卸任 郭天信直呼不捨.球團未證實｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+        "經濟日報：華僑協會菲律賓分會改選 新會長鄭國賓盼深化菲臺交流",
+        "自由時報：陪李四川造勢遭民眾貼「安心貼紙」 侯友宜秒撕引網熱議"
       ],
-      "media_count": 5,
+      "media_count": 3,
       "links": [
-        {
-          "source": "公視新聞",
-          "title": "新北選戰藍綠三重辦造勢晚會 李四川、蘇巧慧隔空拚場",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LQ1Zwd1hQWWFCb1BaSVJEUTZ0YlB0Z3l5dFgxeUROQ2FMZ3JOQUt2aFJ0TDd4d1gyLVBud1l1eHhuVG1kOUhfX3BpRzFIZTQ?oc=5"
-        },
         {
           "source": "ETtoday",
           "title": "卓揆稱蘇巧慧直達車走向新北　李競辦諷：4500萬公帑頭等艙直達蘇家",
           "url": "https://www.ettoday.net/news/20261122/3276637.htm"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "味全龍「封王遊行」傳葉總卸任 郭天信直呼不捨.球團未證實｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cmFWMVl5dWVNU3g4dXprTktUdmJIVHREVE5KNUsxVUlTNy1fa1JmRlUwb1NfTXY1YWc3TndtdlVrOEJvaGlCemh1eWRmZVFXU3Vfb253?oc=5"
         },
         {
           "source": "經濟日報",
@@ -40,60 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
-      "summary": [
-        "自由時報：達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
-        "經濟日報：達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
-        "ETtoday：美感恩節前夕上千航班又延誤！　達美航空自動化系統爆故障"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650023"
-        },
-        {
-          "source": "經濟日報",
-          "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
-          "url": "https://money.udn.com/money/story/5599/9895424"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美感恩節前夕上千航班又延誤！　達美航空自動化系統爆故障",
-          "url": "https://www.ettoday.net/news/20261123/3276698.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
-      "summary": [
-        "自由時報：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
-        "經濟日報：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
-        "ETtoday：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將召開會議"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650024"
-        },
-        {
-          "source": "經濟日報",
-          "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
-          "url": "https://money.udn.com/money/story/5599/9895430"
-        },
-        {
-          "source": "ETtoday",
-          "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將召開會議",
-          "url": "https://www.ettoday.net/news/20261123/3276702.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
       "summary": [
         "自由時報：黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
@@ -120,28 +56,61 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "柯文哲才剛合體就否認藍白合　蔣萬安：共同目標贏得年底選舉",
+      "rank": 3,
+      "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
       "summary": [
-        "ETtoday：柯文哲才剛合體就否認藍白合　蔣萬安：共同目標贏得年底選舉",
-        "自由時報：才說再請益！柯文哲稱藍白合「觀念錯」 蔣萬安：共同目標贏選舉"
+        "自由時報：達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
+        "經濟日報：達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
+        "ETtoday：美感恩節前夕上千航班又延誤！　達美航空自動化系統爆故障"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "柯文哲才剛合體就否認藍白合　蔣萬安：共同目標贏得年底選舉",
-          "url": "https://www.ettoday.net/news/20261122/3276623.htm"
+          "source": "自由時報",
+          "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650023"
         },
         {
-          "source": "自由時報",
-          "title": "才說再請益！柯文哲稱藍白合「觀念錯」 蔣萬安：共同目標贏選舉",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649829"
+          "source": "經濟日報",
+          "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
+          "url": "https://money.udn.com/money/story/5599/9895424"
+        },
+        {
+          "source": "ETtoday",
+          "title": "美感恩節前夕上千航班又延誤！　達美航空自動化系統爆故障",
+          "url": "https://www.ettoday.net/news/20261123/3276698.htm"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
+      "summary": [
+        "自由時報：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
+        "經濟日報：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
+        "ETtoday：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將召開會議"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650024"
+        },
+        {
+          "source": "經濟日報",
+          "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
+          "url": "https://money.udn.com/money/story/5599/9895430"
+        },
+        {
+          "source": "ETtoday",
+          "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將召開會議",
+          "url": "https://www.ettoday.net/news/20261123/3276702.htm"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "明起再有2波冷空氣報到 週二起先濕後乾",
       "summary": [
         "公視新聞：明起再有2波冷空氣報到 週二起先濕後乾",
@@ -162,7 +131,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "北市科建案工地頂樓起火 市消防局佈水線灌救",
       "summary": [
         "自由時報：北市科建案工地頂樓起火 市消防局佈水線灌救",
@@ -183,7 +152,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "屏東市長選舉公辦政見會 梁育慈提市政新藍圖 盼帶領家鄉脫胎換骨",
       "summary": [
         "自由時報：屏東市長選舉公辦政見會 梁育慈提市政新藍圖 盼帶領家鄉脫胎換骨",
@@ -204,7 +173,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "金馬63》舒淇奪獎揭家醜！爆爸媽「喝酒又打架」霸氣立誓：下次拿最佳導演",
       "summary": [
         "自由時報：金馬63》舒淇奪獎揭家醜！爆爸媽「喝酒又打架」霸氣立誓：下次拿最佳導演",
@@ -225,7 +194,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "小笠原欣幸：洋流外溢影響新北、基隆、臺中、竹市選情",
       "summary": [
         "自由時報：小笠原欣幸：洋流外溢影響新北、基隆、臺中、竹市選情",
@@ -242,6 +211,27 @@
           "source": "TVBS新聞",
           "title": "洋流外溢! 沈基隆造勢站臺 蔣找「禿子.燕子」車掃｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02alNNUEFlODg1Y01NNUttclFWUl91RGNWclFvTTAtV3FIYzBSWUVpMDNZc29BRzJTUmFqRnFOR051bU5uMXg0TVk5aGVfM2NsV0I3SGVR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "北士科工地頂樓火警  北市請求新北消防支援火勢撲滅",
+      "summary": [
+        "自由時報：北士科工地頂樓火警  北市請求新北消防支援火勢撲滅",
+        "TVBS新聞：快訊／北士科新建案頂樓火警 強風吹18樓火勢猛烈"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "北士科工地頂樓火警  北市請求新北消防支援火勢撲滅",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5650011"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "快訊／北士科新建案頂樓火警 強風吹18樓火勢猛烈",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vZWVXeFpvdDhJOU1qc1cxLVNwMGI2T3VuRWVVeFZKak9ZR2Y5Y1NRbl9CN25WOWxScllETTJibzVYWlhmZ01OcmhnS0hldnM?oc=5"
         }
       ]
     }
@@ -276,6 +266,33 @@
     },
     {
       "rank": 2,
+      "title": "OpenAI首席科學家敦促產業限制人工智慧發展",
+      "summary": [
+        "Bloomberg Tech：OpenAI首席科學家敦促產業限制人工智慧發展",
+        "TechCrunch：OpenAI首席科學家對如何限制AI發展有思考",
+        "Investing.com：OpenAI 科學家提出與模型智慧指標相關的產業人工智慧限制"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "OpenAI首席科學家敦促產業限制人工智慧發展",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "OpenAI首席科學家對如何限制AI發展有思考",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+        },
+        {
+          "source": "Investing.com",
+          "title": "OpenAI 科學家提出與模型智慧指標相關的產業人工智慧限制",
+          "url": "https://www.investing.com/news/stock-market-news/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric-5044174"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "歐盟和其他國家拒絕達成協議，COP31氣候談判破裂",
       "summary": [
         "Nikkei Asia：歐盟和其他國家拒絕達成協議，COP31氣候談判破裂",
@@ -292,27 +309,6 @@
           "source": "BBC World",
           "title": "COP31未能達成重大氣候協議，談判暴露出深刻分歧",
           "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "黑色星期五 Nintendo Switch 2 最佳優惠（2026 年）：Switch 2 套裝和遊戲",
-      "summary": [
-        "Wired：黑色星期五 Nintendo Switch 2 最佳優惠（2026 年）：Switch 2 套裝和遊戲",
-        "Tom's Hardware：Nintendo Switch 2 套裝在黑色星期五預售中降至升息前的價格"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Wired",
-          "title": "黑色星期五 Nintendo Switch 2 最佳優惠（2026 年）：Switch 2 套裝和遊戲",
-          "url": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "Nintendo Switch 2 套裝在黑色星期五預售中降至升息前的價格",
-          "url": "https://www.tomshardware.com/video-games/handheld-gaming/nintendo-switch-2-bundles-drop-to-pre-hike-pricing-in-black-friday-run-up-sale-get-a-switch-2-along-with-mario-kart-world-and-nintendo-switch-online-for-usd50-off"
         }
       ]
     },
@@ -411,31 +407,31 @@
     },
     {
       "rank": 9,
-      "title": "「虛弱頭暈」：ICE秘密強制餵食策略結束了一位古巴父親的絕食抗議",
+      "title": "英偉達季度營收盈利雙雙翻倍 董事會仍無計劃重聘黃仁勳",
       "summary": [
-        "The Guardian：「虛弱頭暈」：ICE秘密強制餵食策略結束了一位古巴父親的絕食抗議"
+        "德國之聲：英偉達季度營收盈利雙雙翻倍 董事會仍無計劃重聘黃仁勳"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "The Guardian",
-          "title": "「虛弱頭暈」：ICE秘密強制餵食策略結束了一位古巴父親的絕食抗議",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding"
+          "source": "德國之聲",
+          "title": "英偉達季度營收盈利雙雙翻倍 董事會仍無計劃重聘黃仁勳",
+          "url": "https://www.dw.com/zh/英伟达季度营收盈利双双翻倍-董事会仍无计划重聘黄仁勋/a-79979748?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "英偉達強勁的基本面為新任執行長提供了急需的推動力",
+      "title": "韓國大學入學考試因智慧眼鏡等措施而中斷；教育部長辭職",
       "summary": [
-        "WSJ Markets：英偉達強勁的基本面為新任執行長提供了急需的推動力"
+        "NHK新聞：韓國大學入學考試因智慧眼鏡等措施而中斷；教育部長辭職"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "WSJ Markets",
-          "title": "英偉達強勁的基本面為新任執行長提供了急需的推動力",
-          "url": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=rss_markets_main"
+          "source": "NHK新聞",
+          "title": "韓國大學入學考試因智慧眼鏡等措施而中斷；教育部長辭職",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261122de80041"
         }
       ]
     }
