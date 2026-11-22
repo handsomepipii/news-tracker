@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 16:55",
+  "updated_at": "2026-11-22 17:25",
   "taiwan": [
     {
       "rank": 1,
@@ -62,33 +62,6 @@
     },
     {
       "rank": 3,
-      "title": "加拿大防長：美加軍事合作依舊密切　未見關係生變",
-      "summary": [
-        "自由時報：加拿大防長：美加軍事合作依舊密切　未見關係生變",
-        "經濟日報：加拿大防長：美加軍事合作依舊密切　未見關係生變",
-        "ETtoday：美加軍事合作傳遭美方設限　加拿大防長回應了"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "加拿大防長：美加軍事合作依舊密切　未見關係生變",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5649170"
-        },
-        {
-          "source": "經濟日報",
-          "title": "加拿大防長：美加軍事合作依舊密切　未見關係生變",
-          "url": "https://money.udn.com/money/story/5599/9893987"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美加軍事合作傳遭美方設限　加拿大防長回應了",
-          "url": "https://www.ettoday.net/news/20261122/3276283.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "快訊／蔣萬安道歉了！　不認同賴士葆造勢罵沈伯洋「人渣」",
       "summary": [
         "ETtoday：快訊／蔣萬安道歉了！　不認同賴士葆造勢罵沈伯洋「人渣」",
@@ -115,28 +88,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
-      "summary": [
-        "自由時報：巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
-        "經濟日報：巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5649171"
-        },
-        {
-          "source": "經濟日報",
-          "title": "巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
-          "url": "https://money.udn.com/money/story/5599/9893989"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "辛苦列車長！ 蔡允潔目擊酒醉搭火車第一現場",
       "summary": [
         "自由時報：辛苦列車長！ 蔡允潔目擊酒醉搭火車第一現場",
@@ -157,7 +109,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "墨西哥逮捕FBI十大通緝毒梟　爆激烈槍戰",
       "summary": [
         "ETtoday：墨西哥逮捕FBI十大通緝毒梟　爆激烈槍戰",
@@ -178,7 +130,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
       "summary": [
         "自由時報：屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
@@ -199,7 +151,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "國巨慘跌逾7成！他想吵架一看朋友持股秒心軟 網笑：仇人都釋懷",
       "summary": [
         "自由時報：國巨慘跌逾7成！他想吵架一看朋友持股秒心軟 網笑：仇人都釋懷",
@@ -220,7 +172,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
       "summary": [
         "自由時報：六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
@@ -239,11 +191,80 @@
           "url": "https://www.ettoday.net/news/20261122/3276439.htm"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "黃仁勳共諜案竟與太子集團有關？金融時報揭「二把手」助輝達晶片流入中國…走私鏈如何運作？",
+      "summary": [
+        "今周刊：黃仁勳共諜案竟與太子集團有關？金融時報揭「二把手」助輝達晶片流入中國…走私鏈如何運作？",
+        "ETtoday：輝達案扯出太子集團　FT：二把手胡小偉助晶片流入中國"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "今周刊",
+          "title": "黃仁勳共諜案竟與太子集團有關？金融時報揭「二把手」助輝達晶片流入中國…走私鏈如何運作？",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPclFYLVJWS19waWRvN1V6V3dtMWRSM0FjT2NFSzI2aFlqdjk3NHNDM19PNFYtSDhDczduM2NHYUFreVRIQmFYVUx3cEdxbG5hVGRTQ0QwdzV2VUJlUTJvdTM5NDJDaXJHazcxb3NoMzhpb1R6TWl2c3RZZXZUVXJnaA?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "輝達案扯出太子集團　FT：二把手胡小偉助晶片流入中國",
+          "url": "https://www.ettoday.net/news/20261122/3276361.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "陳珮騏隔3年返鄉…抵高雄哀嚎「沒搶到BTS」　爆八點檔男星躺著賺",
+      "summary": [
+        "ETtoday：陳珮騏隔3年返鄉…抵高雄哀嚎「沒搶到BTS」　爆八點檔男星躺著賺",
+        "自由時報：陳珮騏暌違3年回高雄殘念「沒搶到BTS」！爆男星「躺著賺還有紅包拿」驚人內幕"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "陳珮騏隔3年返鄉…抵高雄哀嚎「沒搶到BTS」　爆八點檔男星躺著賺",
+          "url": "https://star.ettoday.net/news/3276427"
+        },
+        {
+          "source": "自由時報",
+          "title": "陳珮騏暌違3年回高雄殘念「沒搶到BTS」！爆男星「躺著賺還有紅包拿」驚人內幕",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5649468"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "人工智慧作弊醜聞席捲大學考試 韓國教育部長辭職",
+      "summary": [
+        "The Guardian：人工智慧作弊醜聞席捲大學考試 韓國教育部長辭職",
+        "法廣RFI：韓國教育部長因AI作弊醜聞辭職，稱不確定自己是否有能力杜絕高考AI作弊",
+        "BBC World：南韓教育部長因考試作弊醜聞辭職"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "人工智慧作弊醜聞席捲大學考試 韓國教育部長辭職",
+          "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "韓國教育部長因AI作弊醜聞辭職，稱不確定自己是否有能力杜絕高考AI作弊",
+          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261122-%E9%9F%93%E5%9C%8B%E6%95%99%E8%82%B2%E9%83%A8%E9%95%B7%E5%9B%A0ai%E4%BD%9C%E5%BC%8A%E9%86%9C%E8%81%9E%E8%BE%AD%E8%81%B7%EF%BC%8C%E7%A8%B1%E4%B8%8D%E7%A2%BA%E5%AE%9A%E8%87%AA%E5%B7%B1%E6%98%AF%E5%90%A6%E6%9C%89%E8%83%BD%E5%8A%9B%E6%9D%9C%E7%B5%95%E9%AB%98%E8%80%83ai%E4%BD%9C%E5%BC%8A"
+        },
+        {
+          "source": "BBC World",
+          "title": "南韓教育部長因考試作弊醜聞辭職",
+          "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "中國1.7兆美元的人工智慧潰敗讓熱門貿易變成了輸錢賭注",
       "summary": [
         "Bloomberg Markets：中國1.7兆美元的人工智慧潰敗讓熱門貿易變成了輸錢賭注",
@@ -264,7 +285,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "人擇數學家利用人工智慧證明難題「黎曼猜想」和主張",
       "summary": [
         "NHK新聞：人擇數學家利用人工智慧證明難題「黎曼猜想」和主張",
@@ -285,7 +306,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "北韓延後2027年平壤國際馬拉松賽",
       "summary": [
         "Nikkei Asia：北韓延後2027年平壤國際馬拉松賽",
@@ -306,7 +327,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "中國反對美國限制電信公司取得電話號碼",
       "summary": [
         "Bloomberg Tech：中國反對美國限制電信公司取得電話號碼",
@@ -327,27 +348,6 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "人工智慧作弊醜聞席捲大學考試 韓國教育部長辭職",
-      "summary": [
-        "The Guardian：人工智慧作弊醜聞席捲大學考試 韓國教育部長辭職",
-        "法廣RFI：韓國教育部長因AI作弊醜聞辭職，稱不確定自己是否有能力杜絕高考AI作弊"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "人工智慧作弊醜聞席捲大學考試 韓國教育部長辭職",
-          "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "韓國教育部長因AI作弊醜聞辭職，稱不確定自己是否有能力杜絕高考AI作弊",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261122-%E9%9F%93%E5%9C%8B%E6%95%99%E8%82%B2%E9%83%A8%E9%95%B7%E5%9B%A0ai%E4%BD%9C%E5%BC%8A%E9%86%9C%E8%81%9E%E8%BE%AD%E8%81%B7%EF%BC%8C%E7%A8%B1%E4%B8%8D%E7%A2%BA%E5%AE%9A%E8%87%AA%E5%B7%B1%E6%98%AF%E5%90%A6%E6%9C%89%E8%83%BD%E5%8A%9B%E6%9D%9C%E7%B5%95%E9%AB%98%E8%80%83ai%E4%BD%9C%E5%BC%8A"
-        }
-      ]
-    },
-    {
       "rank": 6,
       "title": "德國汽車和造船廠工人將舉行罷工，IG Metall 工會延長罷工時間",
       "summary": [
@@ -364,61 +364,61 @@
     },
     {
       "rank": 7,
-      "title": "雨雪主要集中在日本海一側，新潟高度警覺山崩",
+      "title": "加州律師公會調查前白宮發言人紮卡里亞　涉未取得執照卻多次自稱律師",
       "summary": [
-        "NHK新聞：雨雪主要集中在日本海一側，新潟高度警覺山崩"
+        "法廣RFI：加州律師公會調查前白宮發言人紮卡里亞　涉未取得執照卻多次自稱律師"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "雨雪主要集中在日本海一側，新潟高度警覺山崩",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79767"
+          "source": "法廣RFI",
+          "title": "加州律師公會調查前白宮發言人紮卡里亞　涉未取得執照卻多次自稱律師",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261121-%E5%8A%A0%E5%B7%9E%E5%BE%8B%E5%B8%AB%E5%85%AC%E6%9C%83%E8%AA%BF%E6%9F%A5%E5%89%8D%E7%99%BD%E5%AE%AE%E7%99%BC%E8%A8%80%E4%BA%BA%E7%B4%AE%E5%8D%A1%E9%87%8C%E4%BA%9E-%E6%B6%89%E6%9C%AA%E5%8F%96%E5%BE%97%E5%9F%B7%E7%85%A7%E5%8D%BB%E5%A4%9A%E6%AC%A1%E8%87%AA%E7%A8%B1%E5%BE%8B%E5%B8%AB"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "眾多加密資產使用者未報，國家稅務機關加強查處制度",
+      "title": "人工智慧自主武器國際會議未能就具有法律約束力的規則達成協議",
       "summary": [
-        "NHK新聞：眾多加密資產使用者未報，國家稅務機關加強查處制度"
+        "NHK新聞：人工智慧自主武器國際會議未能就具有法律約束力的規則達成協議"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "眾多加密資產使用者未報，國家稅務機關加強查處制度",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79765"
+          "title": "人工智慧自主武器國際會議未能就具有法律約束力的規則達成協議",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79771"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "澳洲爸爸辭職，因為副業每月收入高達 2 萬澳元：“改變了我的生活”",
+      "title": "燃氣動力汽車的夢想在中國氫能之都破滅",
       "summary": [
-        "Yahoo Finance：澳洲爸爸辭職，因為副業每月收入高達 2 萬澳元：“改變了我的生活”"
+        "Financial Times：燃氣動力汽車的夢想在中國氫能之都破滅"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "澳洲爸爸辭職，因為副業每月收入高達 2 萬澳元：“改變了我的生活”",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOWFsV2NDZlhaQ0E1bGI5QTh3MldNUktISGNxdzc3UlByaDg0Q0pOWDhsQ3hPQUl0OEtGTm5CTmR6SDBhNjNPMGVoOWFjWldzN0pYdUFNVlgyV3ZIMzhIU0NFR1FmVkdiQ2x0SmgzSF9jUG44WXZpS3hac0hnZXVaLVVtU3R3SVlVU0F6czhJampkcENCWTFlUVZfZzQydVYxd1hybVdHVlJjQmFjdXNfVV9zUlFsMkxHc084Y29OS0lRem8z?oc=5"
+          "source": "Financial Times",
+          "title": "燃氣動力汽車的夢想在中國氫能之都破滅",
+          "url": "https://www.ft.com/content/91d25e77-efa2-4ced-a9e1-92f53fa18e4d?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "科技股剛剛發生了什麼事？",
+      "title": "谷歌正在向伊隆馬斯克向 SpaceX 支付 300 億美元。吉姆·克萊默（Jim Cramer）剛剛透露了原因",
       "summary": [
-        "Yahoo Finance：科技股剛剛發生了什麼事？"
+        "Yahoo Finance：谷歌正在向伊隆馬斯克向 SpaceX 支付 300 億美元。吉姆·克萊默（Jim Cramer）剛剛透露了原因"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "科技股剛剛發生了什麼事？",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMU1BS09sWFhaUnRtWlBmMm41cFl0QW1nWXBmNFp2SURMaUdQblMteV9yZEd5NVNCcnlfNXU4Nkl1bGNBdXR6TkU3WHp0Y0hlOVR3N0c4V25Dcy1FaVVZOUVrMFZJTGFVVWRjNWo1cXY4Z2E3MFlCdGl6b2I2Q21MMWN4NWFQRThEU2h2aVctRVpucnph?oc=5"
+          "title": "谷歌正在向伊隆馬斯克向 SpaceX 支付 300 億美元。吉姆·克萊默（Jim Cramer）剛剛透露了原因",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWEp2cFJpSnJhdDRCOGRqY3VoRzBpRXptZHdlUk8wLTJBZG82WGJIRWlLNEFMQTY2bU5IVFIxSUM3VzY0ckFlMHlfQkNHamwzLUZFVWxrODJxbGZhNXRHWm95aGl2ZWU1MDFIMEJ3OVpmVE5PeWNLcm1qTTRmTW9LN3owMzdNdTZTMXk5SGxxckNNcVcyNTY5V01n?oc=5"
         }
       ]
     }
