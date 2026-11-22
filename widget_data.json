@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 16:25",
+  "updated_at": "2026-11-22 16:55",
   "taiwan": [
     {
       "rank": 1,
@@ -137,27 +137,6 @@
     },
     {
       "rank": 6,
-      "title": "統一奔騰基金- 淨值",
-      "summary": [
-        "MoneyDJ理財網：統一奔騰基金- 淨值",
-        "自由時報：國安基金護盤 臺股基本面佳"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "統一奔騰基金- 淨值",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxTThMM2xaQlhZemtuN3U3TTItX2Vtc1R5WWNoSTVoc0hkenAzMVFVVm1HNjhabHV5OHl3ZHBxY20tbjRiRi1qU1hESnM0RXJMMmV4aUd6bWpOQjE0cFFfTTBvRkE0eFZD?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "國安基金護盤 臺股基本面佳",
-          "url": "https://ec.ltn.com.tw/article/paper/1779388"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "辛苦列車長！ 蔡允潔目擊酒醉搭火車第一現場",
       "summary": [
         "自由時報：辛苦列車長！ 蔡允潔目擊酒醉搭火車第一現場",
@@ -178,7 +157,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "墨西哥逮捕FBI十大通緝毒梟　爆激烈槍戰",
       "summary": [
         "ETtoday：墨西哥逮捕FBI十大通緝毒梟　爆激烈槍戰",
@@ -199,7 +178,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
       "summary": [
         "自由時報：屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
@@ -220,7 +199,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "國巨慘跌逾7成！他想吵架一看朋友持股秒心軟 網笑：仇人都釋懷",
       "summary": [
         "自由時報：國巨慘跌逾7成！他想吵架一看朋友持股秒心軟 網笑：仇人都釋懷",
@@ -237,6 +216,27 @@
           "source": "ETtoday",
           "title": "國巨慘跌到296元！他想吵架見朋友持股秒心軟　網笑：仇人都釋懷",
           "url": "https://www.ettoday.net/news/20261122/3276416.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
+      "summary": [
+        "自由時報：六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
+        "ETtoday：北海道名店六花亭遭駭！8000筆信用卡個資外洩　顧客被盜刷5萬日圓"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5649259"
+        },
+        {
+          "source": "ETtoday",
+          "title": "北海道名店六花亭遭駭！8000筆信用卡個資外洩　顧客被盜刷5萬日圓",
+          "url": "https://www.ettoday.net/news/20261122/3276439.htm"
         }
       ]
     }
@@ -328,6 +328,27 @@
     },
     {
       "rank": 5,
+      "title": "人工智慧作弊醜聞席捲大學考試 韓國教育部長辭職",
+      "summary": [
+        "The Guardian：人工智慧作弊醜聞席捲大學考試 韓國教育部長辭職",
+        "法廣RFI：韓國教育部長因AI作弊醜聞辭職，稱不確定自己是否有能力杜絕高考AI作弊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "人工智慧作弊醜聞席捲大學考試 韓國教育部長辭職",
+          "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "韓國教育部長因AI作弊醜聞辭職，稱不確定自己是否有能力杜絕高考AI作弊",
+          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261122-%E9%9F%93%E5%9C%8B%E6%95%99%E8%82%B2%E9%83%A8%E9%95%B7%E5%9B%A0ai%E4%BD%9C%E5%BC%8A%E9%86%9C%E8%81%9E%E8%BE%AD%E8%81%B7%EF%BC%8C%E7%A8%B1%E4%B8%8D%E7%A2%BA%E5%AE%9A%E8%87%AA%E5%B7%B1%E6%98%AF%E5%90%A6%E6%9C%89%E8%83%BD%E5%8A%9B%E6%9D%9C%E7%B5%95%E9%AB%98%E8%80%83ai%E4%BD%9C%E5%BC%8A"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "德國汽車和造船廠工人將舉行罷工，IG Metall 工會延長罷工時間",
       "summary": [
         "Investing.com：德國汽車和造船廠工人將舉行罷工，IG Metall 工會延長罷工時間"
@@ -342,77 +363,62 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "前橋市：市內未發現熊，搜尋已於早上恢復",
+      "rank": 7,
+      "title": "雨雪主要集中在日本海一側，新潟高度警覺山崩",
       "summary": [
-        "NHK新聞：前橋市：市內未發現熊，搜尋已於早上恢復"
+        "NHK新聞：雨雪主要集中在日本海一側，新潟高度警覺山崩"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "前橋市：市內未發現熊，搜尋已於早上恢復",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261122de79777"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "《俠盜獵車手 VI》收錄了已故歌手 D’Angelo 未發行的歌曲",
-      "summary": [
-        "Washington Post：《俠盜獵車手 VI》收錄了已故歌手 D’Angelo 未發行的歌曲"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "《俠盜獵車手 VI》收錄了已故歌手 D’Angelo 未發行的歌曲",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYkpVaDU5Y1ZreXY5YWF0WVdjUnVNQ2Y5Z1FBTndMTGR4MktkZWxSSTVpckNFbkdldm5QTHEzLVNFSWZsLUx6dU5iOVFoVm9wWXpxSTZNWHdfRGM5ajJKRndWWFljTEpBUVZOeVdzYjEyY0dqOEpsZnJqUlNIQ2lxbk5hSVhjdEtuRnZlWE1yXzUzVXdTQmFLQ2cxOHRab0o1dWJieEFPY0lRbkdkRlZlWXFXV3hncGVheUZB?oc=5"
+          "title": "雨雪主要集中在日本海一側，新潟高度警覺山崩",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79767"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "假期旅行該戴口罩嗎？這是專家的說法。",
+      "title": "眾多加密資產使用者未報，國家稅務機關加強查處制度",
       "summary": [
-        "Washington Post：假期旅行該戴口罩嗎？這是專家的說法。"
+        "NHK新聞：眾多加密資產使用者未報，國家稅務機關加強查處制度"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Washington Post",
-          "title": "假期旅行該戴口罩嗎？這是專家的說法。",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1hwSDJKX0V6ZjhxYnNnQi1aUDdCSW5PUEdZQWVTQ0lvVFhMVkRWWW1TMmFpbGVtbDZ3OGg1MnpGMHIyT3hNYndlSEU1ZGVCNFZodUp3eVJibTFSSEcwS1Eta01DUk42OTIwRlFadUNCSi1nWGdyQ3VBWEs0bkNYWW9pcXZQQktMMDEzOEExeG4ydEIzd1RaUktjN21acFIwbUR0QnRldm9IOHdC?oc=5"
+          "source": "NHK新聞",
+          "title": "眾多加密資產使用者未報，國家稅務機關加強查處制度",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79765"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "白宮試圖限制承包商應與國會分享的訊息",
+      "title": "澳洲爸爸辭職，因為副業每月收入高達 2 萬澳元：“改變了我的生活”",
       "summary": [
-        "Washington Post：白宮試圖限制承包商應與國會分享的訊息"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "白宮試圖限制承包商應與國會分享的訊息",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWW9ubi1tcjZXaGYwZGlRbGNjbk5ZRk1mVXRoUEZlN2dVWmZGYzY1WTh1SlJTOVZQVFdudGVkUXBhR0RoTms4eGlyaXQwY1Y1ZjlsdF9iMWQxRWh5UTB6bFAtVjNMYlIzRXVNQmdwX3pRRTJ6VkhyeFVvbTBhTmdqd0w3TEZHNEhqbDYzOWRxZlJFTlR6VGg2YUhoRXVPYnpabjF4aXJweXZ2a3BxWENHRk5SM21FN2NJUkNvQUxZZnVST3BtX1E?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Zscaler 與前沿模型供應商合作，幫助企業安全擁抱 AI 並阻止 AI 驅動的攻擊",
-      "summary": [
-        "Yahoo Finance：Zscaler 與前沿模型供應商合作，幫助企業安全擁抱 AI 並阻止 AI 驅動的攻擊"
+        "Yahoo Finance：澳洲爸爸辭職，因為副業每月收入高達 2 萬澳元：“改變了我的生活”"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "Zscaler 與前沿模型供應商合作，幫助企業安全擁抱 AI 並阻止 AI 驅動的攻擊",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOblBWcTJ6dFdqVXVrQ2dPZnNGRE94THppbExtR1VJV2hhNVg5V2FtUFhfbkNiR3M0dmpfTmg3REpqNWFjRDJBeWpKbXAwbkNmS2ZyQ2NoTXU2VXVYcTRoc05wSW1nSmJEbHlkTlp2MEpDODNsVmVEWXpSM19iRktKLXFCaUsyQ0Vsb1Nuc09qUFlyRzFwRVJZVkoxci1IZ014SHNaQWx2Y2o?oc=5"
+          "title": "澳洲爸爸辭職，因為副業每月收入高達 2 萬澳元：“改變了我的生活”",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOWFsV2NDZlhaQ0E1bGI5QTh3MldNUktISGNxdzc3UlByaDg0Q0pOWDhsQ3hPQUl0OEtGTm5CTmR6SDBhNjNPMGVoOWFjWldzN0pYdUFNVlgyV3ZIMzhIU0NFR1FmVkdiQ2x0SmgzSF9jUG44WXZpS3hac0hnZXVaLVVtU3R3SVlVU0F6czhJampkcENCWTFlUVZfZzQydVYxd1hybVdHVlJjQmFjdXNfVV9zUlFsMkxHc084Y29OS0lRem8z?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "科技股剛剛發生了什麼事？",
+      "summary": [
+        "Yahoo Finance：科技股剛剛發生了什麼事？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "科技股剛剛發生了什麼事？",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMU1BS09sWFhaUnRtWlBmMm41cFl0QW1nWXBmNFp2SURMaUdQblMteV9yZEd5NVNCcnlfNXU4Nkl1bGNBdXR6TkU3WHp0Y0hlOVR3N0c4V25Dcy1FaVVZOUVrMFZJTGFVVWRjNWo1cXY4Z2E3MFlCdGl6b2I2Q21MMWN4NWFQRThEU2h2aVctRVpucnph?oc=5"
         }
       ]
     }
