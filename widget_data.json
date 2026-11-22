@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 13:56",
+  "updated_at": "2026-11-22 14:25",
   "taiwan": [
     {
       "rank": 1,
@@ -89,27 +89,6 @@
     },
     {
       "rank": 4,
-      "title": "墨西哥逮捕FBI十大通緝毒梟　當地爆槍戰與暴力事件",
-      "summary": [
-        "經濟日報：墨西哥逮捕FBI十大通緝毒梟　當地爆槍戰與暴力事件",
-        "ETtoday：墨西哥逮捕FBI十大通緝毒梟　爆激烈槍戰"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "墨西哥逮捕FBI十大通緝毒梟　當地爆槍戰與暴力事件",
-          "url": "https://money.udn.com/money/story/5599/9893961"
-        },
-        {
-          "source": "ETtoday",
-          "title": "墨西哥逮捕FBI十大通緝毒梟　爆激烈槍戰",
-          "url": "https://www.ettoday.net/news/20261122/3276288.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "川普籲輝達讓黃仁勳回鍋 強調「應給頂尖人才第二次機會」",
       "summary": [
         "經濟日報：川普籲輝達讓黃仁勳回鍋 強調「應給頂尖人才第二次機會」",
@@ -130,7 +109,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "統一奔騰基金- 淨值",
       "summary": [
         "MoneyDJ理財網：統一奔騰基金- 淨值",
@@ -151,7 +130,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
       "summary": [
         "自由時報：巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
@@ -172,7 +151,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "辛苦列車長！ 蔡允潔目擊酒醉搭火車第一現場",
       "summary": [
         "自由時報：辛苦列車長！ 蔡允潔目擊酒醉搭火車第一現場",
@@ -189,6 +168,27 @@
           "source": "ETtoday",
           "title": "蔡允潔搭火車遇醉漢失控！吐滿車廂臭翻　警察一來「卻能走直線」",
           "url": "https://star.ettoday.net/news/3276299"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "墨西哥逮捕FBI十大通緝毒梟　爆激烈槍戰",
+      "summary": [
+        "ETtoday：墨西哥逮捕FBI十大通緝毒梟　爆激烈槍戰",
+        "經濟日報：墨西哥逮捕FBI十大通緝毒梟　行動釀11死"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "墨西哥逮捕FBI十大通緝毒梟　爆激烈槍戰",
+          "url": "https://www.ettoday.net/news/20261122/3276288.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "墨西哥逮捕FBI十大通緝毒梟　行動釀11死",
+          "url": "https://money.udn.com/money/story/5599/9894423"
         }
       ]
     },
@@ -310,91 +310,91 @@
     },
     {
       "rank": 5,
-      "title": "墨西哥販毒集團頭目「矮子伊西德羅」在特種部隊突襲中被捕",
+      "title": "駛往俄羅斯的船隻在芬蘭灣遭遇攻擊",
       "summary": [
-        "The Guardian：墨西哥販毒集團頭目「矮子伊西德羅」在特種部隊突襲中被捕"
+        "BBC World：駛往俄羅斯的船隻在芬蘭灣遭遇攻擊"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "The Guardian",
-          "title": "墨西哥販毒集團頭目「矮子伊西德羅」在特種部隊突襲中被捕",
-          "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested"
+          "source": "BBC World",
+          "title": "駛往俄羅斯的船隻在芬蘭灣遭遇攻擊",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "加時談判陷入僵局，歐盟提出在 COP31 上「不達成協議」的可能性",
+      "title": "感恩節什麼時候上路交通最順利",
       "summary": [
-        "Financial Times：加時談判陷入僵局，歐盟提出在 COP31 上「不達成協議」的可能性"
+        "Washington Post：感恩節什麼時候上路交通最順利"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "加時談判陷入僵局，歐盟提出在 COP31 上「不達成協議」的可能性",
-          "url": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1"
+          "source": "Washington Post",
+          "title": "感恩節什麼時候上路交通最順利",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdDNtay05cm4xS2NnSGUxZ3NNeTdiUEFibmNIVlVxQVlyUnNzZmJ0Zk1sTEh4VHBPbC0tY2dCc2IyTFZnV3dsS0xEUHFQaVF2TlVzQVdndGMyOUl3VmI3blUwWVZZMXp0allRRHozeWJZcVZKZ1JSMjIwcERGSnhpdnFWZmxmSFJ0SU95NEpfcGpsSm9T?oc=5"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "墨西哥抓獲毒販後錫那羅亞州爆發暴力事件",
+      "title": "曾經是內部人士的範霍倫引發了民主黨的第一場大戰",
       "summary": [
-        "Financial Times：墨西哥抓獲毒販後錫那羅亞州爆發暴力事件"
+        "Washington Post：曾經是內部人士的範霍倫引發了民主黨的第一場大戰"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "墨西哥抓獲毒販後錫那羅亞州爆發暴力事件",
-          "url": "https://www.ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1"
+          "source": "Washington Post",
+          "title": "曾經是內部人士的範霍倫引發了民主黨的第一場大戰",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQkRaRk5fU0hyRUlKclk0dU9oV25DQ3N6ajc5NW1fUFFqZXVGdndrZC16WFk0RFM3TkN6RmJRYlhSTHRMQVFkTXBGbzQzeDJlN1BNRkFJM21SZjFLTHZOUWJRM09FMlZiZzNWa05UbC05WDNPcHJRQVA5RDVLbGFxUzZtbDVxSHdoSlUyOWVWZGpScDJDUmN6Qno0YzA4NE4wWWlUdGh3SkpEbTFpcHpPOFZGekU2Mlk?oc=5"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "亞馬遜完成 75 億美元收購人工智慧新創公司 Decart 的交易",
+      "title": "「世代竊盜」：透過更多政府借款為社會安全提供資金的計畫遭到嚴厲抵制",
       "summary": [
-        "Financial Times：亞馬遜完成 75 億美元收購人工智慧新創公司 Decart 的交易"
+        "Yahoo Finance：「世代竊盜」：透過更多政府借款為社會安全提供資金的計畫遭到嚴厲抵制"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "亞馬遜完成 75 億美元收購人工智慧新創公司 Decart 的交易",
-          "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1"
+          "source": "Yahoo Finance",
+          "title": "「世代竊盜」：透過更多政府借款為社會安全提供資金的計畫遭到嚴厲抵制",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcFAyZlhpd0ZxRld0Zm9MMzM3T0pTUEVJYnRsb2xqX1UwOEJqLWYyUnM0NGxPZTJob3FBSG9uTjhNSjlwWGlBRVJmTllnaGdFZER5ejIyYldzM0VqcWpWZGVjZ2Z5aDZWN0pmeDVmaGtEV3R3NDVlN3MwVllhczVqR1l5THB1Q1NOcXdvS05oMllPYkQyT0daU2JVSFAwSVR1ZU0wTlI5VlNWV3owOGsxVzJianZzVWF4RXJGZ3BPMy1NUng1ckYxWTRqY3J6SVBfeEtGZHNuTE9GUXRqUmNjdHV0Q0g3V2lpNGR6Zl9LcTJZWnpOZ1MwZmxYdw?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "Alice Huang 與晶片黑社會的聯絡方式",
+      "title": "日本的聽力酒吧吸引了全球觀眾",
       "summary": [
-        "Financial Times：Alice Huang 與晶片黑社會的聯絡方式"
+        "Nikkei Asia：日本的聽力酒吧吸引了全球觀眾"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "Alice Huang 與晶片黑社會的聯絡方式",
-          "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1"
+          "source": "Nikkei Asia",
+          "title": "日本的聽力酒吧吸引了全球觀眾",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX1hhNGp0SnJfNmYza1VLUGUtT1Y4R29zc3RBcmRXbHhQZGpmWTV0QUxJSXVHNkptMUV1ZV9hanFKdWFuT095aHJPWHNwQlU5RW1MNmJfZ3ZEQXlueDFoc1ZxUl9Oa3dCbnJqTkltTHNrUEg1d2hHSTk2LXI0NHpTRVl0NUlVU0pWQXFFNQ?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "Anthropic 未能平息人工智慧的不安，放棄廚房過感恩節",
+      "title": "川普稱聯邦調查局資料庫遭駭客攻擊的報告“不好”",
       "summary": [
-        "Bloomberg Markets：Anthropic 未能平息人工智慧的不安，放棄廚房過感恩節"
+        "TechCrunch：川普稱聯邦調查局資料庫遭駭客攻擊的報告“不好”"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic 未能平息人工智慧的不安，放棄廚房過感恩節",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video"
+          "source": "TechCrunch",
+          "title": "川普稱聯邦調查局資料庫遭駭客攻擊的報告“不好”",
+          "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
         }
       ]
     }
