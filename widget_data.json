@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 17:25",
+  "updated_at": "2026-11-22 17:55",
   "taiwan": [
     {
       "rank": 1,
@@ -131,6 +131,27 @@
     },
     {
       "rank": 6,
+      "title": "暴雪襲福島！聯外國道封閉 遊客、住戶近1500人受困山區",
+      "summary": [
+        "自由時報：暴雪襲福島！聯外國道封閉 遊客、住戶近1500人受困山區",
+        "經濟日報：大雪衝擊日本多地　遊客一度受困於福島旅館"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "暴雪襲福島！聯外國道封閉 遊客、住戶近1500人受困山區",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5649195"
+        },
+        {
+          "source": "經濟日報",
+          "title": "大雪衝擊日本多地　遊客一度受困於福島旅館",
+          "url": "https://money.udn.com/money/story/5599/9894777"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
       "summary": [
         "自由時報：屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
@@ -151,7 +172,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "國巨慘跌逾7成！他想吵架一看朋友持股秒心軟 網笑：仇人都釋懷",
       "summary": [
         "自由時報：國巨慘跌逾7成！他想吵架一看朋友持股秒心軟 網笑：仇人都釋懷",
@@ -172,7 +193,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
       "summary": [
         "自由時報：六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
@@ -193,7 +214,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "黃仁勳共諜案竟與太子集團有關？金融時報揭「二把手」助輝達晶片流入中國…走私鏈如何運作？",
       "summary": [
         "今周刊：黃仁勳共諜案竟與太子集團有關？金融時報揭「二把手」助輝達晶片流入中國…走私鏈如何運作？",
@@ -210,27 +231,6 @@
           "source": "ETtoday",
           "title": "輝達案扯出太子集團　FT：二把手胡小偉助晶片流入中國",
           "url": "https://www.ettoday.net/news/20261122/3276361.htm"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "陳珮騏隔3年返鄉…抵高雄哀嚎「沒搶到BTS」　爆八點檔男星躺著賺",
-      "summary": [
-        "ETtoday：陳珮騏隔3年返鄉…抵高雄哀嚎「沒搶到BTS」　爆八點檔男星躺著賺",
-        "自由時報：陳珮騏暌違3年回高雄殘念「沒搶到BTS」！爆男星「躺著賺還有紅包拿」驚人內幕"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "陳珮騏隔3年返鄉…抵高雄哀嚎「沒搶到BTS」　爆八點檔男星躺著賺",
-          "url": "https://star.ettoday.net/news/3276427"
-        },
-        {
-          "source": "自由時報",
-          "title": "陳珮騏暌違3年回高雄殘念「沒搶到BTS」！爆男星「躺著賺還有紅包拿」驚人內幕",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5649468"
         }
       ]
     }
@@ -364,61 +364,61 @@
     },
     {
       "rank": 7,
-      "title": "加州律師公會調查前白宮發言人紮卡里亞　涉未取得執照卻多次自稱律師",
+      "title": "德國《南方信使報》：中美俄三巨頭會晤成果寥寥無幾",
       "summary": [
-        "法廣RFI：加州律師公會調查前白宮發言人紮卡里亞　涉未取得執照卻多次自稱律師"
+        "法廣RFI：德國《南方信使報》：中美俄三巨頭會晤成果寥寥無幾"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "加州律師公會調查前白宮發言人紮卡里亞　涉未取得執照卻多次自稱律師",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261121-%E5%8A%A0%E5%B7%9E%E5%BE%8B%E5%B8%AB%E5%85%AC%E6%9C%83%E8%AA%BF%E6%9F%A5%E5%89%8D%E7%99%BD%E5%AE%AE%E7%99%BC%E8%A8%80%E4%BA%BA%E7%B4%AE%E5%8D%A1%E9%87%8C%E4%BA%9E-%E6%B6%89%E6%9C%AA%E5%8F%96%E5%BE%97%E5%9F%B7%E7%85%A7%E5%8D%BB%E5%A4%9A%E6%AC%A1%E8%87%AA%E7%A8%B1%E5%BE%8B%E5%B8%AB"
+          "title": "德國《南方信使報》：中美俄三巨頭會晤成果寥寥無幾",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261121-%E5%BE%B7%E5%9C%8B-%E5%8D%97%E6%96%B9%E4%BF%A1%E4%BD%BF%E5%A0%B1-%E4%B8%AD%E7%BE%8E%E4%BF%84%E4%B8%89%E5%B7%A8%E9%A0%AD%E6%9C%83%E6%99%A4%E6%88%90%E6%9E%9C%E5%AF%A5%E5%AF%A5%E7%84%A1%E5%B9%BE"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "人工智慧自主武器國際會議未能就具有法律約束力的規則達成協議",
+      "title": "美國前總統喬治華盛頓的一縷頭髮售價4000美元",
       "summary": [
-        "NHK新聞：人工智慧自主武器國際會議未能就具有法律約束力的規則達成協議"
+        "BBC World：美國前總統喬治華盛頓的一縷頭髮售價4000美元"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "人工智慧自主武器國際會議未能就具有法律約束力的規則達成協議",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261121de79771"
+          "source": "BBC World",
+          "title": "美國前總統喬治華盛頓的一縷頭髮售價4000美元",
+          "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "燃氣動力汽車的夢想在中國氫能之都破滅",
+      "title": "你應該忘記 SpaceX 股票嗎？",
       "summary": [
-        "Financial Times：燃氣動力汽車的夢想在中國氫能之都破滅"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "燃氣動力汽車的夢想在中國氫能之都破滅",
-          "url": "https://www.ft.com/content/91d25e77-efa2-4ced-a9e1-92f53fa18e4d?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "谷歌正在向伊隆馬斯克向 SpaceX 支付 300 億美元。吉姆·克萊默（Jim Cramer）剛剛透露了原因",
-      "summary": [
-        "Yahoo Finance：谷歌正在向伊隆馬斯克向 SpaceX 支付 300 億美元。吉姆·克萊默（Jim Cramer）剛剛透露了原因"
+        "Yahoo Finance：你應該忘記 SpaceX 股票嗎？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "谷歌正在向伊隆馬斯克向 SpaceX 支付 300 億美元。吉姆·克萊默（Jim Cramer）剛剛透露了原因",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWEp2cFJpSnJhdDRCOGRqY3VoRzBpRXptZHdlUk8wLTJBZG82WGJIRWlLNEFMQTY2bU5IVFIxSUM3VzY0ckFlMHlfQkNHamwzLUZFVWxrODJxbGZhNXRHWm95aGl2ZWU1MDFIMEJ3OVpmVE5PeWNLcm1qTTRmTW9LN3owMzdNdTZTMXk5SGxxckNNcVcyNTY5V01n?oc=5"
+          "title": "你應該忘記 SpaceX 股票嗎？",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTTBDUVI4MDkyWDRBeWFOM2sxMkExd2hMRWU3STBLSzN6SXFjMldVQV85a1gzOHl4aGFpVXdPWm1Nb2ZZZnZhQVlOSWMwUDJrOGxoamYweEFmaGwtbk8xNVQtQTZYYUo0akZnc2hfZDFRWE5HTFFVcTBIZ3VBYzRnMzFYZ3FaNnEtUzVaWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "亞馬遜也在抱怨紐約市議會在運輸標籤上的做法",
+      "summary": [
+        "The Verge：亞馬遜也在抱怨紐約市議會在運輸標籤上的做法"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "亞馬遜也在抱怨紐約市議會在運輸標籤上的做法",
+          "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label"
         }
       ]
     }
