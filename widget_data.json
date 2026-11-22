@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 11:25",
+  "updated_at": "2026-11-22 11:55",
   "taiwan": [
     {
       "rank": 1,
@@ -84,27 +84,48 @@
     },
     {
       "rank": 4,
-      "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14%",
+      "title": "打造最接地氣防災片！彰化防火短影音競賽登場AI科技神助攻",
       "summary": [
-        "鉅亨網：〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14%",
-        "工商時報：美股｜AI賣壓瘋湧！費半大瀉逾10％ 道瓊標普陷修正區間 輝達崩14％ 臺積ADR慘跌近10％"
+        "自由時報：打造最接地氣防災片！彰化防火短影音競賽登場AI科技神助攻",
+        "公視新聞：新北選戰藍綠陣營三重造勢李四川、蘇巧慧拚場較勁｜20261121 公視晚間新聞｜ 公視新聞PNN"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "鉅亨網",
-          "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14%",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1TWExRndYejA5TkVPZmxTSnNPemZRaHVtMk05bkFkRVVXNld4LTNkM1c4ZnA3d0lObEZkZXZyZUlmMmtDSTZqNy1oMGFwazQ?oc=5"
+          "source": "自由時報",
+          "title": "打造最接地氣防災片！彰化防火短影音競賽登場AI科技神助攻",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5648917"
         },
         {
-          "source": "工商時報",
-          "title": "美股｜AI賣壓瘋湧！費半大瀉逾10％ 道瓊標普陷修正區間 輝達崩14％ 臺積ADR慘跌近10％",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUNUYyLU94Mjc1SGxBSWJmRWpockxMVGpVWHVLS3BraHBtbDluQlpiaTFVbENUY28wWGljNy13TXNnd1ZSYjcxSHpYeENMY0lXc2dVenpRdzNHVFl6ZkRJ?oc=5"
+          "source": "公視新聞",
+          "title": "新北選戰藍綠陣營三重造勢李四川、蘇巧慧拚場較勁｜20261121 公視晚間新聞｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84Zms3MngybUJlbHJ4TkZSTTh5WWd2ai1FaXg1U1djSjlXeko0MjBEQ2hpSWlnMmFmM3cxWm41UUh4S1Z4b3BYVTM4Yw?oc=5"
         }
       ]
     },
     {
       "rank": 5,
+      "title": "高雄城市盃龍舟賽蓮池潭熱血開劃 120隊好手競速較勁",
+      "summary": [
+        "自由時報：高雄城市盃龍舟賽蓮池潭熱血開劃 120隊好手競速較勁",
+        "風傳媒：高雄城市盃龍舟賽蓮池潭登場！120隊齊聚競速港澳9隊跨海較勁、真理大學雙料奪冠| 徐炳文 | 地方新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "高雄城市盃龍舟賽蓮池潭熱血開劃 120隊好手競速較勁",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5649018"
+        },
+        {
+          "source": "風傳媒",
+          "title": "高雄城市盃龍舟賽蓮池潭登場！120隊齊聚競速港澳9隊跨海較勁、真理大學雙料奪冠| 徐炳文 | 地方新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OZTQxZ0dDOXNUcnBSWFRhRDl4bmF0Zm9KYk1wU01uR0FxaDVuVDZUUzR0RFVlSFViTHJweExOR2djR2c5TU5YY3ZjVlFMQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "急凍！這2縣市低溫特報 竹苗恐跌破10度",
       "summary": [
         "自由時報：急凍！這2縣市低溫特報 竹苗恐跌破10度",
@@ -125,7 +146,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "川普籲輝達讓黃仁勳回鍋 強調「應給頂尖人才第二次機會」",
       "summary": [
         "經濟日報：川普籲輝達讓黃仁勳回鍋 強調「應給頂尖人才第二次機會」",
@@ -146,7 +167,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "統一奔騰基金- 淨值",
       "summary": [
         "MoneyDJ理財網：統一奔騰基金- 淨值",
@@ -167,7 +188,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
       "summary": [
         "自由時報：巴林稱民用工業設施遭伊朗襲擊起火　暫未傳傷亡",
@@ -188,7 +209,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "辛苦列車長！ 蔡允潔目擊酒醉搭火車第一現場",
       "summary": [
         "自由時報：辛苦列車長！ 蔡允潔目擊酒醉搭火車第一現場",
@@ -205,27 +226,6 @@
           "source": "ETtoday",
           "title": "蔡允潔搭火車遇醉漢失控！吐滿車廂臭翻　警察一來「卻能走直線」",
           "url": "https://star.ettoday.net/news/3276299"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
-      "summary": [
-        "自由時報：屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
-        "ETtoday：屏東砂石車「閃身步」意外！　衝撞電桿斷兩截、歪斜吊半空"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5649243"
-        },
-        {
-          "source": "ETtoday",
-          "title": "屏東砂石車「閃身步」意外！　衝撞電桿斷兩截、歪斜吊半空",
-          "url": "https://www.ettoday.net/news/20261122/3276330.htm"
         }
       ]
     }
@@ -284,96 +284,6 @@
     },
     {
       "rank": 4,
-      "title": "伊朗外長：俄羅斯和中國都反對伊朗改變核政策",
-      "summary": [
-        "法廣RFI：伊朗外長：俄羅斯和中國都反對伊朗改變核政策"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "伊朗外長：俄羅斯和中國都反對伊朗改變核政策",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261121-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%B7-%E4%BF%84%E7%BE%85%E6%96%AF%E5%92%8C%E4%B8%AD%E5%9C%8B%E9%83%BD%E5%8F%8D%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%94%B9%E8%AE%8A%E6%A0%B8%E6%94%BF%E7%AD%96"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "尖！彭博社針對冒險者的每週新聞測驗",
-      "summary": [
-        "Bloomberg Markets：尖！彭博社針對冒險者的每週新聞測驗"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "尖！彭博社針對冒險者的每週新聞測驗",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "高盛的 SpaceX 推介有助於解決人工智慧債務難題：《信用週刊》",
-      "summary": [
-        "Bloomberg Markets：高盛的 SpaceX 推介有助於解決人工智慧債務難題：《信用週刊》"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "高盛的 SpaceX 推介有助於解決人工智慧債務難題：《信用週刊》",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "感恩節晚餐將轉移到餐館",
-      "summary": [
-        "Bloomberg Markets：感恩節晚餐將轉移到餐館"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "感恩節晚餐將轉移到餐館",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Modder 使用彈跳室鼓風機冷卻遊戲筆記型電腦，降溫 35 度",
-      "summary": [
-        "Tom's Hardware：Modder 使用彈跳室鼓風機冷卻遊戲筆記型電腦，降溫 35 度"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Tom's Hardware",
-          "title": "Modder 使用彈跳室鼓風機冷卻遊戲筆記型電腦，降溫 35 度",
-          "url": "https://www.tomshardware.com/pc-components/air-cooling/laptop-cooled-by-bounce-house-blower-gets-35-degree-drop-in-temperatures-modder-compares-laptop-cooler-with-increasingly-powerful-fan-setups"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "據報道，Rapidus 難以在其 2nm 節點上生產可用的 SRAM，導致 2027 年量產面臨風險",
-      "summary": [
-        "Tom's Hardware：據報道，Rapidus 難以在其 2nm 節點上生產可用的 SRAM，導致 2027 年量產面臨風險"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Tom's Hardware",
-          "title": "據報道，Rapidus 難以在其 2nm 節點上生產可用的 SRAM，導致 2027 年量產面臨風險",
-          "url": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "德語媒體：特朗普助力習近平",
       "summary": [
         "德國之聲：德語媒體：特朗普助力習近平"
@@ -384,6 +294,96 @@
           "source": "德國之聲",
           "title": "德語媒體：特朗普助力習近平",
           "url": "https://www.dw.com/zh/德语媒体：特朗普助力习近平/a-79993891?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "小羅伯特甘迺迪發誓要遏制他最初低估的麻疹危機",
+      "summary": [
+        "Washington Post：小羅伯特甘迺迪發誓要遏制他最初低估的麻疹危機"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "小羅伯特甘迺迪發誓要遏制他最初低估的麻疹危機",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckhpUXNVWXJrVGVkeGZJYVh4aXN2VlV4UHR2SXJMS0V6WFlYVnBjRjNkRldNVDVzTVZiSkFoN3Jqdy01aEMyYWkxRFJSR2FQelg0UnFvcms2NzlIRnJvLWlsQnl1aVFkVXl2MGhRY09OYnNoZ0ZCUDN6cVplS0NhN3g4dHRUZ2JqRFU4QXRoMThiMU9xZC1NRWtOMExHWlJyUDlXUVVXZ0xRWkhsSmc?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Visa、萬事達卡和摩根大通客戶資料被駭客洩露",
+      "summary": [
+        "WSJ Markets：Visa、萬事達卡和摩根大通客戶資料被駭客洩露"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "WSJ Markets",
+          "title": "Visa、萬事達卡和摩根大通客戶資料被駭客洩露",
+          "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "向這家微劇新創公司出售人工智慧版本的臉會是好萊塢的未來嗎？",
+      "summary": [
+        "TechCrunch：向這家微劇新創公司出售人工智慧版本的臉會是好萊塢的未來嗎？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "向這家微劇新創公司出售人工智慧版本的臉會是好萊塢的未來嗎？",
+          "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "琳達貝爾徹 (Linda Belcher) 的配音約翰羅伯茨 (John Roberts) 很高興完成了一件事情",
+      "summary": [
+        "The Verge：琳達貝爾徹 (Linda Belcher) 的配音約翰羅伯茨 (John Roberts) 很高興完成了一件事情"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "琳達貝爾徹 (Linda Belcher) 的配音約翰羅伯茨 (John Roberts) 很高興完成了一件事情",
+          "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "亞馬遜首款數位相框黑色星期五折扣高達 50%",
+      "summary": [
+        "The Verge：亞馬遜首款數位相框黑色星期五折扣高達 50%"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "亞馬遜首款數位相框黑色星期五折扣高達 50%",
+          "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "本週湯姆硬體特惠：2026年11月21日",
+      "summary": [
+        "Tom's Hardware：本週湯姆硬體特惠：2026年11月21日"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "本週湯姆硬體特惠：2026年11月21日",
+          "url": "https://www.tomshardware.com/tech-industry/supercomputers/this-week-on-toms-hardware-premium-21-november-2026-amd-nvidia-and-more-show-off-the-future-of-high-performance-computing-at-sc26"
         }
       ]
     }
