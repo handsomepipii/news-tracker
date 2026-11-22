@@ -1,20 +1,25 @@
 {
-  "updated_at": "2026-11-22 20:55",
+  "updated_at": "2026-11-22 21:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "臺股回檔投資策略法人教戰- 日報",
+      "title": "李子柒當選四川省文聯副主席 陸媒：兼職身分非「入編」",
       "summary": [
-        "工商時報：臺股回檔投資策略法人教戰- 日報",
-        "公視新聞：新北選戰藍綠陣營三重造勢 李四川、蘇巧慧拚場較勁",
-        "自由時報：臺中市長選舉！「臺中桂綸鎂」與「臺中林俊傑」大車拼"
+        "工商時報：李子柒當選四川省文聯副主席 陸媒：兼職身分非「入編」",
+        "經濟日報：美媒爆料黃仁勳下臺真正原因！傳董事會震怒 董事長1句話道關鍵",
+        "公視新聞：新北選戰藍綠陣營三重造勢 李四川、蘇巧慧拚場較勁"
       ],
-      "media_count": 3,
+      "media_count": 5,
       "links": [
         {
           "source": "工商時報",
-          "title": "臺股回檔投資策略法人教戰- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92UHc3a3lpdWd2R0lnZnluWS1mVzNvbE1WSFI1MkhTVmUwS20wQ3FCSnFEbU5sMjBfWlhKdU9kQUdnUXBvMEpoQXZZMG51YU9BRlVZcUVjQWxCRVFGUEQ4?oc=5"
+          "title": "李子柒當選四川省文聯副主席 陸媒：兼職身分非「入編」",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CejJQUjVtTjhLdTJlMkMzUmoyRDVIVm5tQUhLb3hSTGIxelpFZm4yQjJ0M0syN25CS0VoOHdubXAxTS1GY0x4WVEwZWptcDR4YjhDWXE3cV8zUDNIZDVr?oc=5"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美媒爆料黃仁勳下臺真正原因！傳董事會震怒 董事長1句話道關鍵",
+          "url": "https://money.udn.com/money/story/5599/9894381"
         },
         {
           "source": "公視新聞",
@@ -23,8 +28,13 @@
         },
         {
           "source": "自由時報",
-          "title": "臺中市長選舉！「臺中桂綸鎂」與「臺中林俊傑」大車拼",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649406"
+          "title": "林國漳推文化立縣2.0傳承宜蘭多元文化 呂雪鳳登臺力挺",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649433"
+        },
+        {
+          "source": "ETtoday",
+          "title": "嘉義男經商失敗「辣椒水搶郵局」未遂！　21小時落網收押",
+          "url": "https://www.ettoday.net/news/20261122/3276529.htm"
         }
       ]
     },
@@ -57,48 +67,6 @@
     },
     {
       "rank": 3,
-      "title": "俄貨船波羅的海遇襲起火 芬蘭推測：烏克蘭打的",
-      "summary": [
-        "自由時報：俄貨船波羅的海遇襲起火 芬蘭推測：烏克蘭打的",
-        "經濟日報：俄貨船疑遭烏克蘭無人機襲擊　漂流芬蘭水域燃燒不止"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "俄貨船波羅的海遇襲起火 芬蘭推測：烏克蘭打的",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5649185"
-        },
-        {
-          "source": "經濟日報",
-          "title": "俄貨船疑遭烏克蘭無人機襲擊　漂流芬蘭水域燃燒不止",
-          "url": "https://money.udn.com/money/story/5599/9894929"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "暴雪襲福島！聯外國道封閉 遊客、住戶近1500人受困山區",
-      "summary": [
-        "自由時報：暴雪襲福島！聯外國道封閉 遊客、住戶近1500人受困山區",
-        "經濟日報：大雪衝擊日本多地　遊客一度受困於福島旅館"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "暴雪襲福島！聯外國道封閉 遊客、住戶近1500人受困山區",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5649195"
-        },
-        {
-          "source": "經濟日報",
-          "title": "大雪衝擊日本多地　遊客一度受困於福島旅館",
-          "url": "https://money.udn.com/money/story/5599/9894777"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
       "summary": [
         "自由時報：屏東鹽埔砂石車疑閃車偏移自撞 撞斷2根電桿",
@@ -119,7 +87,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "國巨慘跌逾7成！他想吵架一看朋友持股秒心軟 網笑：仇人都釋懷",
       "summary": [
         "自由時報：國巨慘跌逾7成！他想吵架一看朋友持股秒心軟 網笑：仇人都釋懷",
@@ -140,7 +108,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
       "summary": [
         "自由時報：六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
@@ -161,7 +129,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光",
       "summary": [
         "今周刊：川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光",
@@ -182,7 +150,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "黃仁勳共諜案竟與太子集團有關？金融時報揭「二把手」助輝達晶片流入中國…走私鏈如何運作？",
       "summary": [
         "今周刊：黃仁勳共諜案竟與太子集團有關？金融時報揭「二把手」助輝達晶片流入中國…走私鏈如何運作？",
@@ -203,7 +171,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "證交所急召十券商！今討論融資維持率是否降至120％備受矚目- 日報",
       "summary": [
         "工商時報：證交所急召十券商！今討論融資維持率是否降至120％備受矚目- 日報",
@@ -220,6 +188,48 @@
           "source": "自由時報",
           "title": "融資擔保率降至120％? 6400戶追繳戶暫鬆一口氣",
           "url": "https://ec.ltn.com.tw/article/breakingnews/5649746"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "陳珮騏隔3年返鄉…抵高雄哀嚎「沒搶到BTS」　爆八點檔男星躺著賺",
+      "summary": [
+        "ETtoday：陳珮騏隔3年返鄉…抵高雄哀嚎「沒搶到BTS」　爆八點檔男星躺著賺",
+        "自由時報：陳珮騏暌違3年回高雄殘念「沒搶到BTS」！爆男星「躺著賺還有紅包拿」驚人內幕"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "陳珮騏隔3年返鄉…抵高雄哀嚎「沒搶到BTS」　爆八點檔男星躺著賺",
+          "url": "https://star.ettoday.net/news/3276427"
+        },
+        {
+          "source": "自由時報",
+          "title": "陳珮騏暌違3年回高雄殘念「沒搶到BTS」！爆男星「躺著賺還有紅包拿」驚人內幕",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5649468"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "南韓學測AI作弊難防！政策急轉彎引混亂　教育部長崔教振請辭負責",
+      "summary": [
+        "ETtoday：南韓學測AI作弊難防！政策急轉彎引混亂　教育部長崔教振請辭負責",
+        "經濟日報：南韓教育部長因AI作弊風波請辭　考前稱沒把握防弊挨批"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "南韓學測AI作弊難防！政策急轉彎引混亂　教育部長崔教振請辭負責",
+          "url": "https://www.ettoday.net/news/20261122/3276394.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "南韓教育部長因AI作弊風波請辭　考前稱沒把握防弊挨批",
+          "url": "https://money.udn.com/money/story/5599/9894616"
         }
       ]
     }
@@ -281,27 +291,6 @@
     },
     {
       "rank": 3,
-      "title": "人擇數學家利用人工智慧證明難題「黎曼猜想」和主張",
-      "summary": [
-        "NHK新聞：人擇數學家利用人工智慧證明難題「黎曼猜想」和主張",
-        "Washington Post：數學家聲稱利用人工智慧解決了數學的一大謎團"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "人擇數學家利用人工智慧證明難題「黎曼猜想」和主張",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261122de79817"
-        },
-        {
-          "source": "Washington Post",
-          "title": "數學家聲稱利用人工智慧解決了數學的一大謎團",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnR2Ny1uWG1YVUdRQmI2QlEyUkFoalhFZFp3Rng1ZWVlRVR4SHVzaHFnRnZuNWFfRmM5YkpVNFJCSmNHWFk2WDJia1lfOG1mYVY5MHZjY2F1d05XMlhHRUVlVklvc2RiWUR4aURGLWh4MGJMZWFsOW1Obm0taDVHek54Tk1GckZpYl80QXRncVNIbmxLdHlWUkZqMGJfSktFQ0hFV1VJWVQzZDZjbHN6Z3I0LS1aVGNJTElMZ2QzWHo2QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "北韓延後2027年平壤國際馬拉松賽",
       "summary": [
         "Nikkei Asia：北韓延後2027年平壤國際馬拉松賽",
@@ -322,7 +311,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "股市突然反轉，接下來會發生什麼",
       "summary": [
         "Washington Post：股市突然反轉，接下來會發生什麼",
@@ -343,67 +332,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "從倉頡換成漢語拼音：電腦輸入法會影響下一代學習中文嗎？",
-      "summary": [
-        "BBC中文：從倉頡換成漢語拼音：電腦輸入法會影響下一代學習中文嗎？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "從倉頡換成漢語拼音：電腦輸入法會影響下一代學習中文嗎？",
-          "url": "https://www.bbc.com/zhongwen/articles/cxq6e216p7ylo/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "防彈少年團和CORTIS榮膺MAMA大獎",
-      "summary": [
-        "韓聯社：防彈少年團和CORTIS榮膺MAMA大獎"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "防彈少年團和CORTIS榮膺MAMA大獎",
-          "url": "https://cn.yna.co.kr/view/ACK20261122000200881"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "隨著科技股拋售加劇，中國人工智慧股損失 1.7 兆美元",
-      "summary": [
-        "Investing.com：隨著科技股拋售加劇，中國人工智慧股損失 1.7 兆美元"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "隨著科技股拋售加劇，中國人工智慧股損失 1.7 兆美元",
-          "url": "https://www.investing.com/news/stock-market-news/chinas-ai-stocks-lose-17-trillion-as-tech-selloff-deepens-5043672"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "修復後的沖繩城堡重新開放，並採取了廣泛的消防安全措施",
-      "summary": [
-        "Nikkei Asia：修復後的沖繩城堡重新開放，並採取了廣泛的消防安全措施"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "修復後的沖繩城堡重新開放，並採取了廣泛的消防安全措施",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa09YQy1GYktuZ1NNdVFNdWpnSW1xUlZqSVd6ZlQybWNjc2pqaVNNWkxEX2lQTjNrNG53Unl1WVppRExxd3FZdXVIckFyc0xNSXM0Vjg0aWJSTE5yWkpIaV9ZbWtVQ05aS3ozeE50MDBRTGhXT1FLeWdwMml3NHBNX2tyUm1mZmJjNks4aV9STWZqcVhWaXBVVnRBR1Iyc1c5a19pVWtUNU5TZ2drUXMyaVpyZmE5RkxL?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 5,
       "title": "地球迎來新的「迷你月亮」——它並不孤單",
       "summary": [
         "BBC中文：地球迎來新的「迷你月亮」——它並不孤單"
@@ -414,6 +343,81 @@
           "source": "BBC中文",
           "title": "地球迎來新的「迷你月亮」——它並不孤單",
           "url": "https://www.bbc.com/zhongwen/articles/cqy7rg0yyxxko/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "韓今年自華汽車進口額與汽車貿易逆差雙雙創新高",
+      "summary": [
+        "韓聯社：韓今年自華汽車進口額與汽車貿易逆差雙雙創新高"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "韓今年自華汽車進口額與汽車貿易逆差雙雙創新高",
+          "url": "https://cn.yna.co.kr/view/ACK20261122000100881"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "印度 1260 億美元的保險業猛烈抨擊擬議的佣金上限",
+      "summary": [
+        "Financial Times：印度 1260 億美元的保險業猛烈抨擊擬議的佣金上限"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "印度 1260 億美元的保險業猛烈抨擊擬議的佣金上限",
+          "url": "https://www.ft.com/content/2e67313b-d6c5-4e62-bd50-14639fe5ef95?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "預測：Alphabet 股票 5 年後的趨勢",
+      "summary": [
+        "Yahoo Finance：預測：Alphabet 股票 5 年後的趨勢"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "預測：Alphabet 股票 5 年後的趨勢",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVc4Rzl6Uk9IN2tIcUVvUVpOSGFZc2E1a21fZ3pMY1M4Um5JWGRzNlBCek1pczRVcmxEX25Kandxc2VsNlYta2NlTFROMmc3RUNFVVR0UENtNHlGeF9FZDdQaTRqVl9vanpmUWxfcWNjQ014MzczQ2p2NmFUTnBxX2JmaTVYNHFSSWllSGVxbmZaamxRWTBjaHk2dERjeXM?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Cipher Digital Inc. (CIFR) 是最被高估的人工智慧基礎設施股票之一嗎？",
+      "summary": [
+        "Yahoo Finance：Cipher Digital Inc. (CIFR) 是最被高估的人工智慧基礎設施股票之一嗎？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "Cipher Digital Inc. (CIFR) 是最被高估的人工智慧基礎設施股票之一嗎？",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPajVOOTU1WTV1aFMwYU4zSVFCWTFlUFJLY2lJU25LWEtlWVBsUmMzeHNQQU4tMnZuTHNlSnZoLWljMUZDeGswaE8xakZYWUVNQUtKdUNIc1dXWjNmM0kxTWRaUWh1NjU2VzJvS04zNXd1ekNzOGZRbXhuUk9ySXcyS3Y2Tnp2S0tRa0xjNkdGQnBSU19XMVBLV0Zn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "分析：APEC上與習近平、特朗普歷史性會晤，對普京是一場重大勝利",
+      "summary": [
+        "BBC中文：分析：APEC上與習近平、特朗普歷史性會晤，對普京是一場重大勝利"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "分析：APEC上與習近平、特朗普歷史性會晤，對普京是一場重大勝利",
+          "url": "https://www.bbc.com/zhongwen/articles/cq702kdw845ro/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
