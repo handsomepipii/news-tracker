@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 21:55",
+  "updated_at": "2026-11-22 22:25",
   "taiwan": [
     {
       "rank": 1,
@@ -40,54 +40,6 @@
     },
     {
       "rank": 2,
-      "title": "快訊／蔣萬安道歉了！　不認同賴士葆造勢罵沈伯洋「人渣」",
-      "summary": [
-        "ETtoday：快訊／蔣萬安道歉了！　不認同賴士葆造勢罵沈伯洋「人渣」",
-        "今周刊：說好的正面選戰呢？賴士葆站臺脫口罵沈伯洋「人渣、洋流是空心流」...蔣萬安致歉喊不認同",
-        "TVBS新聞：賴士葆痛罵沈伯洋「人渣」 蔣萬安道歉了：不認同過度激烈言論"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／蔣萬安道歉了！　不認同賴士葆造勢罵沈伯洋「人渣」",
-          "url": "https://www.ettoday.net/news/20261122/3276319.htm"
-        },
-        {
-          "source": "今周刊",
-          "title": "說好的正面選戰呢？賴士葆站臺脫口罵沈伯洋「人渣、洋流是空心流」...蔣萬安致歉喊不認同",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDlxR3NJVXVMLW1jV1VyZGZmUVBfcUcyOUc4V2xQcldiMkFqenJwOFA5aW9pSUd0ektfZ0dWT0ZuSTZWcTduOWM1bnhUMmZ3RzA2akJ1NHhGdnFoZmtFZnk5eFFqR05HX1Q5MG4yTXFpX1pZNjVFaTkzRnJPelRReg?oc=5"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "賴士葆痛罵沈伯洋「人渣」 蔣萬安道歉了：不認同過度激烈言論",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SbG96QlU1TUZjYkd0T25peU52WGY3bWVRd1RhN3Eya0ROOS1VNkxZVHlnS2JjUDB2azhpcmxhOWtvNUIwYUVqUXIyNlg0V3djTFpB?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "國巨慘跌逾7成！他想吵架一看朋友持股秒心軟 網笑：仇人都釋懷",
-      "summary": [
-        "自由時報：國巨慘跌逾7成！他想吵架一看朋友持股秒心軟 網笑：仇人都釋懷",
-        "ETtoday：國巨慘跌到296元！他想吵架見朋友持股秒心軟　網笑：仇人都釋懷"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "國巨慘跌逾7成！他想吵架一看朋友持股秒心軟 網笑：仇人都釋懷",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5649287"
-        },
-        {
-          "source": "ETtoday",
-          "title": "國巨慘跌到296元！他想吵架見朋友持股秒心軟　網笑：仇人都釋懷",
-          "url": "https://www.ettoday.net/news/20261122/3276416.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
       "summary": [
         "自由時報：六花亭個資外洩！日本名伴手禮8000信用卡外洩 已有顧客被盜刷",
@@ -108,7 +60,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光",
       "summary": [
         "今周刊：川普盼與伊朗達成「永久」核協議！喊話：即使換無能總統仍持續有效…稱已推翻2個政權，最終目標曝光",
@@ -129,7 +81,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "黃仁勳共諜案竟與太子集團有關？金融時報揭「二把手」助輝達晶片流入中國…走私鏈如何運作？",
       "summary": [
         "今周刊：黃仁勳共諜案竟與太子集團有關？金融時報揭「二把手」助輝達晶片流入中國…走私鏈如何運作？",
@@ -150,7 +102,28 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "title": "說好的正面選戰呢？賴士葆站臺脫口罵沈伯洋「人渣、洋流是空心流」...蔣萬安致歉喊不認同",
+      "summary": [
+        "今周刊：說好的正面選戰呢？賴士葆站臺脫口罵沈伯洋「人渣、洋流是空心流」...蔣萬安致歉喊不認同",
+        "TVBS新聞：賴士葆痛罵沈伯洋「人渣」 蔣萬安道歉了：不認同過度激烈言論"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "今周刊",
+          "title": "說好的正面選戰呢？賴士葆站臺脫口罵沈伯洋「人渣、洋流是空心流」...蔣萬安致歉喊不認同",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDlxR3NJVXVMLW1jV1VyZGZmUVBfcUcyOUc4V2xQcldiMkFqenJwOFA5aW9pSUd0ektfZ0dWT0ZuSTZWcTduOWM1bnhUMmZ3RzA2akJ1NHhGdnFoZmtFZnk5eFFqR05HX1Q5MG4yTXFpX1pZNjVFaTkzRnJPelRReg?oc=5"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "賴士葆痛罵沈伯洋「人渣」 蔣萬安道歉了：不認同過度激烈言論",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SbG96QlU1TUZjYkd0T25peU52WGY3bWVRd1RhN3Eya0ROOS1VNkxZVHlnS2JjUDB2azhpcmxhOWtvNUIwYUVqUXIyNlg0V3djTFpB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "證交所急召十券商！今討論融資維持率是否降至120％備受矚目- 日報",
       "summary": [
         "工商時報：證交所急召十券商！今討論融資維持率是否降至120％備受矚目- 日報",
@@ -171,7 +144,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "陳珮騏隔3年返鄉…抵高雄哀嚎「沒搶到BTS」　爆八點檔男星躺著賺",
       "summary": [
         "ETtoday：陳珮騏隔3年返鄉…抵高雄哀嚎「沒搶到BTS」　爆八點檔男星躺著賺",
@@ -192,7 +165,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "南韓學測AI作弊難防！政策急轉彎引混亂　教育部長崔教振請辭負責",
       "summary": [
         "ETtoday：南韓學測AI作弊難防！政策急轉彎引混亂　教育部長崔教振請辭負責",
@@ -213,7 +186,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "印尼糖果工廠遇祝融3死4傷　36人下落不明",
       "summary": [
         "經濟日報：印尼糖果工廠遇祝融3死4傷　36人下落不明",
@@ -230,6 +203,27 @@
           "source": "自由時報",
           "title": "印尼糖果工廠傳火警 至少3死36人失蹤",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5649618"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "嘉義城隍廟11/30贊境艋舺青山王祭 再現30年前12班陣容",
+      "summary": [
+        "自由時報：嘉義城隍廟11/30贊境艋舺青山王祭 再現30年前12班陣容",
+        "工商時報：曾登李登輝就職典禮！嘉義城隍駕前十二班睽違30年再現青山王祭- 生活"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "嘉義城隍廟11/30贊境艋舺青山王祭 再現30年前12班陣容",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5649483"
+        },
+        {
+          "source": "工商時報",
+          "title": "曾登李登輝就職典禮！嘉義城隍駕前十二班睽違30年再現青山王祭- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EOHA3ZXBYeWdmVTJCT1I3cGxaSEkyRlBpdjY1MWhKaURXUU4wTXRBWUhmWFJkSFNCeXB3SXQwYjZIQ3F5eHNXYUpycHlydVRqX1RTWWVydjAwS2VBTHZJ?oc=5"
         }
       ]
     }
@@ -333,66 +327,6 @@
     },
     {
       "rank": 5,
-      "title": "分析：APEC上與習近平、特朗普歷史性會晤，對普京是一場重大勝利",
-      "summary": [
-        "BBC中文：分析：APEC上與習近平、特朗普歷史性會晤，對普京是一場重大勝利"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "分析：APEC上與習近平、特朗普歷史性會晤，對普京是一場重大勝利",
-          "url": "https://www.bbc.com/zhongwen/articles/cq702kdw845ro/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "英偉達在動盪加劇之際面臨美國會計調查：媒體",
-      "summary": [
-        "Yahoo Finance：英偉達在動盪加劇之際面臨美國會計調查：媒體"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "英偉達在動盪加劇之際面臨美國會計調查：媒體",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkpvTmdpdzNUMVVjZEJXbVdIYXlheTM1ZmpMRl9LdkQ1YjV1VXYtNUxGSTlHZWpzLWhfTFVnR2h0b0NMNGlsTWhOYXpYRVYyR0ZkTmJNRkh2MXAycU5Nd0pKNy1QbG92UGg1TXd0SGx4S1R6UXNDek1fTTFpZnR1VEVfaE9Na0hOYjlBUGlfUC1jTGFCS195ek1ZNjc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "德國工業罷工擴大，IG Metall 呼籲 23,000 名工人罷工",
-      "summary": [
-        "Investing.com：德國工業罷工擴大，IG Metall 呼籲 23,000 名工人罷工"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "德國工業罷工擴大，IG Metall 呼籲 23,000 名工人罷工",
-          "url": "https://www.investing.com/news/stock-market-news/german-industrial-strikes-widen-as-ig-metall-calls-23000-workers-to-walk-out-5043690"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Hello Kitty 所有者三麗鷗押注遊戲以擴大全球影響力",
-      "summary": [
-        "Nikkei Asia：Hello Kitty 所有者三麗鷗押注遊戲以擴大全球影響力"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "Hello Kitty 所有者三麗鷗押注遊戲以擴大全球影響力",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0NIMFUzV2E1Y3hrSE4xSno4OXp1MHdCVFVGRzlCZUd0ZktydURybmpvY2d4ZUtWTG84MEpBZDZRWDZjRlo1alFrT3FrM2I5WWlCMkpFMEg2NlM2Q0V5R19wV2hTcUdfN3Y0ZW1MLXRXek1vSjFKSENjNmlTckVLWG5IMUNIdFVIMXZfa3U0OVdoQk10UW1HVkVnZmlNV3NuajRSUnY1bmxnS3hrNjE0dmtXZDM?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "首裡城正殿被大火燒毀，政府主辦的修復完成儀式在下午沖繩舉行",
       "summary": [
         "NHK新聞：首裡城正殿被大火燒毀，政府主辦的修復完成儀式在下午沖繩舉行"
@@ -407,7 +341,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "韓國今年有望躍居全球第四大出口國",
       "summary": [
         "韓聯社：韓國今年有望躍居全球第四大出口國"
@@ -418,6 +352,66 @@
           "source": "韓聯社",
           "title": "韓國今年有望躍居全球第四大出口國",
           "url": "https://cn.yna.co.kr/view/ACK20261122000300881"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "偏見的新衣——評黃亞生的經濟觀點",
+      "summary": [
+        "FT中文網：偏見的新衣——評黃亞生的經濟觀點"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "FT中文網",
+          "title": "偏見的新衣——評黃亞生的經濟觀點",
+          "url": "https://www.ftchinese.com/story/001112096"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "晶片股現在正在重演2001年發生的事情",
+      "summary": [
+        "Yahoo Finance：晶片股現在正在重演2001年發生的事情"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "晶片股現在正在重演2001年發生的事情",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHl2UUowSHg4R3RCT0RoWnlTeHlYc2sySVplREFvQ1JXalNnSU0yLXVjRkdrZE5sTGZGNUlYVXN1a051b0VMd1R1dUhTdkcxLW5zYzFDSzRaVE05SVhIVXM3Q0JsYmY1WnRnTWZqMlhMbkpVLXVRdkRJcUNpTHNYV0MxblViZFNzUFBNQVJiLTktRHVHMVMxLVFkTXVCaklX?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "拉麵講座：日本公司嘗試新的擴張策略",
+      "summary": [
+        "Nikkei Asia：拉麵講座：日本公司嘗試新的擴張策略"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "拉麵講座：日本公司嘗試新的擴張策略",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPODVvWVpoNlUyUEFqUGQ5VmYtSUFXbHowSXl4c3lQbGlVOER4aFhLUzVIamtheEtLZjI0MnNnTTZGOUVsT3BEem93WldyVXE2b2E1cU9wQVlZZGdsUWRFT0g2eDZCN0stSjlyU3VySTJyOGRPLVZaTGRjTkt3MVRYYjY1b1FoREduMTBodEdRYWs4YzFnRDNLeklBVnRGUjNfbHhDZVQyODN1SEhs?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "伊朗宣佈襲擊美國在巴林的軍事設施；緊張局勢仍在繼續",
+      "summary": [
+        "NHK新聞：伊朗宣佈襲擊美國在巴林的軍事設施；緊張局勢仍在繼續"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "伊朗宣佈襲擊美國在巴林的軍事設施；緊張局勢仍在繼續",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261122de79868"
         }
       ]
     }
