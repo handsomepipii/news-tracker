@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 20:25",
+  "updated_at": "2026-11-22 20:55",
   "taiwan": [
     {
       "rank": 1,
@@ -281,27 +281,6 @@
     },
     {
       "rank": 3,
-      "title": "中國1.7兆美元的人工智慧潰敗讓熱門貿易變成了輸錢賭注",
-      "summary": [
-        "Bloomberg Markets：中國1.7兆美元的人工智慧潰敗讓熱門貿易變成了輸錢賭注",
-        "Investing.com：隨著科技股拋售加劇，中國人工智慧股損失 1.7 兆美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "中國1.7兆美元的人工智慧潰敗讓熱門貿易變成了輸錢賭注",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet"
-        },
-        {
-          "source": "Investing.com",
-          "title": "隨著科技股拋售加劇，中國人工智慧股損失 1.7 兆美元",
-          "url": "https://www.investing.com/news/stock-market-news/chinas-ai-stocks-lose-17-trillion-as-tech-selloff-deepens-5043672"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "人擇數學家利用人工智慧證明難題「黎曼猜想」和主張",
       "summary": [
         "NHK新聞：人擇數學家利用人工智慧證明難題「黎曼猜想」和主張",
@@ -322,7 +301,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "北韓延後2027年平壤國際馬拉松賽",
       "summary": [
         "Nikkei Asia：北韓延後2027年平壤國際馬拉松賽",
@@ -343,22 +322,28 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "印度國大黨警告稱，將有更多針對Meta的抗議活動",
+      "rank": 5,
+      "title": "股市突然反轉，接下來會發生什麼",
       "summary": [
-        "Nikkei Asia：印度國大黨警告稱，將有更多針對Meta的抗議活動"
+        "Washington Post：股市突然反轉，接下來會發生什麼",
+        "MarketWatch：在經歷了殘酷的一週後，股市能否反彈？這個時機模型顯示歷史站在市場這邊。"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "Nikkei Asia",
-          "title": "印度國大黨警告稱，將有更多針對Meta的抗議活動",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWN1alRxWkJQNGhZWTYyenpXUTF5U2l6WG0wcEUybVVseHg1cC1JLXlOOVhXVU9nLUR0SFdHejdjU25VN0FjWTUxcVM3aVNxdHZMMmRLcXgtTGszNHVBM1p2ZFQwWWlvNGczMjRiZllhSTQ0WktjRHN5Y2ZGUmVpSVVPOFc5SldvVDE1a0tzNEc2c0lYVUE?oc=5"
+          "source": "Washington Post",
+          "title": "股市突然反轉，接下來會發生什麼",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSm50RWJ1NlVXc1k3X1NqclJ4Vy1INGk2b1hMOExGTG1wVF9HeGF0M2JTY2s1TEhPeHJ6MWRkSFVPU2ZrYzlsczI2N3ZHN0lHOFJsSXBaeU15QzdXSmRENll4WXA1Qjl1YlQ3M2JKWC0zclRvck9lT2J5cEttTG9qaWQtY2RxUDh1ZWNJaGFldHhiT3pwYW9qYThqdE4?oc=5"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "在經歷了殘酷的一週後，股市能否反彈？這個時機模型顯示歷史站在市場這邊。",
+          "url": "https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "從倉頡換成漢語拼音：電腦輸入法會影響下一代學習中文嗎？",
       "summary": [
         "BBC中文：從倉頡換成漢語拼音：電腦輸入法會影響下一代學習中文嗎？"
@@ -373,7 +358,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "防彈少年團和CORTIS榮膺MAMA大獎",
       "summary": [
         "韓聯社：防彈少年團和CORTIS榮膺MAMA大獎"
@@ -384,6 +369,21 @@
           "source": "韓聯社",
           "title": "防彈少年團和CORTIS榮膺MAMA大獎",
           "url": "https://cn.yna.co.kr/view/ACK20261122000200881"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "隨著科技股拋售加劇，中國人工智慧股損失 1.7 兆美元",
+      "summary": [
+        "Investing.com：隨著科技股拋售加劇，中國人工智慧股損失 1.7 兆美元"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "隨著科技股拋售加劇，中國人工智慧股損失 1.7 兆美元",
+          "url": "https://www.investing.com/news/stock-market-news/chinas-ai-stocks-lose-17-trillion-as-tech-selloff-deepens-5043672"
         }
       ]
     },
