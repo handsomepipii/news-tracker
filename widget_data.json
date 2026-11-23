@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 20:27",
+  "updated_at": "2026-11-23 20:56",
   "taiwan": [
     {
       "rank": 1,
@@ -93,6 +93,27 @@
     },
     {
       "rank": 5,
+      "title": "川普迷因幣晚宴大退燒　規模與價值雙雙暴跌",
+      "summary": [
+        "經濟日報：川普迷因幣晚宴大退燒　規模與價值雙雙暴跌",
+        "科技新報：川普迷因幣晚宴大退燒，規模與價值雙雙暴跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普迷因幣晚宴大退燒　規模與價值雙雙暴跌",
+          "url": "https://money.udn.com/money/story/5599/9895849"
+        },
+        {
+          "source": "科技新報",
+          "title": "川普迷因幣晚宴大退燒，規模與價值雙雙暴跌",
+          "url": "https://finance.technews.tw/2026/11/23/trump-hosts-gala-for-meme-coin-investors-as-his-token-plunges-to-record-lows/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "日月光投控：矽品精密工業11/12~23向聖暉*取得廠務工程，計約14.32億元",
       "summary": [
         "公開資訊觀測站重訊：日月光投控：矽品精密工業11/12~23向聖暉*取得廠務工程，計約14.32億元",
@@ -113,49 +134,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "創本世紀最大多數！民主黨眾院狂掃258席 剩4選區勝負未定",
-      "summary": [
-        "自由時報：創本世紀最大多數！民主黨眾院狂掃258席 剩4選區勝負未定",
-        "經濟日報：美民主黨眾院狂掃258席　寫30多年來最大多數"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "創本世紀最大多數！民主黨眾院狂掃258席 剩4選區勝負未定",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650058"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美民主黨眾院狂掃258席　寫30多年來最大多數",
-          "url": "https://money.udn.com/money/story/5599/9896429"
-        }
-      ]
-    },
-    {
       "rank": 7,
-      "title": "資安體重水準重現？傳 CrowdStrike 陳購 Zscaler",
-      "summary": [
-        "科技新報：資安體重水準重現？傳 CrowdStrike 陳購 Zscaler",
-        "MoneyDJ理財網：資安重磅再現再現？傳CrowdStrike洽購Zscaler"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "資安體重水準重現？傳 CrowdStrike 陳購 Zscaler",
-          "url": "https://infosecu.technews.tw/2026/11/23/crowdstrike-in-talks-to-acquire-zscaler/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "資安重磅再現再現？傳CrowdStrike洽購Zscaler",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYWh6OTI5d2QyUjN3WGtWYmtjTEJReFlBUzBmY1FPX2FpYUM4LUZ5RnI4dlBDVXU4WEZMZUpMNy04ckJSNlhhZ1pDdGNyemk1M21XakRKSVpQVlhnMHcwYjZJNVFHQnM1Q1JwNTFYQ0hYMUFjaEJQdGhockptbkhpNGFiUGNBcXNLVE1VaFhHMDlGQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "風險資產賣壓減輕？比特幣止跌、站回 6 萬美元",
       "summary": [
         "科技新報：風險資產賣壓減輕？比特幣止跌、站回 6 萬美元",
@@ -176,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "輝達永續合約亞洲盤飆 8%  VIX 漲破 40 現落底訊號？",
       "summary": [
         "科技新報：輝達永續合約亞洲盤飆 8%  VIX 漲破 40 現落底訊號？",
@@ -197,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美情報總監示警　系統汰舊換新恐釀更多科技當機",
       "summary": [
         "經濟日報：美情報總監示警　系統汰舊換新恐釀更多科技當機",
@@ -216,6 +195,27 @@
           "url": "https://infosecu.technews.tw/2026/11/23/us-intelligence-director-system-upgrades-tech-outages/"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "OpenAI科學家建議以困惑度為指標　訂定AI發展業界門檻",
+      "summary": [
+        "經濟日報：OpenAI科學家建議以困惑度為指標　訂定AI發展業界門檻",
+        "科技新報：OpenAI 科學家建議以困惑度為指標，訂定 AI 發展業界門檻"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "OpenAI科學家建議以困惑度為指標　訂定AI發展業界門檻",
+          "url": "https://money.udn.com/money/story/5599/9895553"
+        },
+        {
+          "source": "科技新報",
+          "title": "OpenAI 科學家建議以困惑度為指標，訂定 AI 發展業界門檻",
+          "url": "https://technews.tw/2026/11/23/openai-scientists-suggest-perplexity-metric-set-ai-development-industry-thresholds/"
+        }
+      ]
     }
   ],
   "global": [
@@ -227,7 +227,7 @@
         "Bloomberg Tech：CrowdStrike 與 Zscaler 達成 440 億美元網路安全交易",
         "Financial Times：隨著網路威脅增強，CrowdStrike以440億美元收購Zscaler"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
           "source": "Investing.com",
@@ -248,6 +248,11 @@
           "source": "Yahoo Finance",
           "title": "隨著技術中斷蔓延，Crowdstrike 斥資 439 億美元透過一項大規模網路安全交易收購 ZScaler",
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPa0MwNl9mNFFvX25LUERTZmpPSG5BY0tHRFpxRW1KTWRnTWpzNnUzemU3OG5kS2pYdlVIZ3F2UDczXzh3OWlkQWo5c1NSWnJDUFVrNWhYRXlXSkM2TW9VdUpiYkNqdkxqc1BqcU9ndTRDNHY5WE1JZzBDMEFkRnhDd0JLcFVUTXppeGFMTGkwUVRYMXp3bjlucm5VZUJNZTVhVDlHdW9Xd1dTSUQxbjBKbm80NnpXRVlabzYzcFpLd19YV3RvWTV1NnY5eExkaDhWT0s1OVJ6QVNrOHhjZTNGd1l3Rkx1QzFHU0hja2dobER4cXZa?oc=5"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "網路安全股票一直很熱門——現在 CrowdStrike 簽署了收購 Zscaler 的協議",
+          "url": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories"
         }
       ]
     },
