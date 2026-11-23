@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 15:56",
+  "updated_at": "2026-11-23 16:26",
   "taiwan": [
     {
       "rank": 1,
@@ -30,33 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
-      "summary": [
-        "自由時報：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
-        "經濟日報：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
-        "ETtoday：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將召開會議"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650024"
-        },
-        {
-          "source": "經濟日報",
-          "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
-          "url": "https://money.udn.com/money/story/5599/9895430"
-        },
-        {
-          "source": "ETtoday",
-          "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將召開會議",
-          "url": "https://www.ettoday.net/news/20261123/3276702.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
       "summary": [
         "自由時報：史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "臺股重挫謝金河喊「恐懼常醞釀轉折」：危機入市機會來了- 財經",
       "summary": [
         "中時新聞：臺股重挫謝金河喊「恐懼常醞釀轉折」：危機入市機會來了- 財經",
@@ -110,7 +83,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "北士科建案昨火災 業主發聲了",
       "summary": [
         "自由時報：北士科建案昨火災 業主發聲了",
@@ -131,7 +104,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "傳軟銀曾想砸1兆美元買SK海力士 計畫已擱置-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：傳軟銀曾想砸1兆美元買SK海力士 計畫已擱置-新聞內容-基金",
@@ -152,7 +125,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "資安重磅再現再現？傳CrowdStrike洽購Zscaler-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：資安重磅再現再現？傳CrowdStrike洽購Zscaler-新聞內容-基金",
@@ -173,7 +146,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
       "summary": [
         "自由時報：烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
@@ -194,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
       "summary": [
         "經濟日報：川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
@@ -215,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "鋒面要來了！　雨連下3天",
       "summary": [
         "ETtoday：鋒面要來了！　雨連下3天",
@@ -232,6 +205,27 @@
           "source": "自由時報",
           "title": "明起3天降溫有雨！吳德榮曝「週末天氣」：強冷空氣再等等",
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5650094"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳涉中國間諜風波　美情報首長證實調查黃樂與Megaspeed",
+      "summary": [
+        "ETtoday：黃仁勳涉中國間諜風波　美情報首長證實調查黃樂與Megaspeed",
+        "科技新報：美國國家情報總監：正對與黃仁勳有染疑似中國間諜進行調查"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳涉中國間諜風波　美情報首長證實調查黃樂與Megaspeed",
+          "url": "https://www.ettoday.net/news/20261123/3276701.htm"
+        },
+        {
+          "source": "科技新報",
+          "title": "美國國家情報總監：正對與黃仁勳有染疑似中國間諜進行調查",
+          "url": "https://technews.tw/2026/11/23/us-probing-alleged-spy-tied-to-ex-nvidia-ceo/"
         }
       ]
     }
@@ -271,19 +265,13 @@
     },
     {
       "rank": 2,
-      "title": "OpenAI首席科學家敦促產業限制人工智慧發展",
+      "title": "OpenAI首席科學家對如何限制AI發展有思考",
       "summary": [
-        "Bloomberg Tech：OpenAI首席科學家敦促產業限制人工智慧發展",
         "TechCrunch：OpenAI首席科學家對如何限制AI發展有思考",
         "Investing.com：OpenAI 科學家提出與模型智慧指標相關的產業人工智慧限制"
       ],
-      "media_count": 3,
+      "media_count": 2,
       "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "OpenAI首席科學家敦促產業限制人工智慧發展",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development"
-        },
         {
           "source": "TechCrunch",
           "title": "OpenAI首席科學家對如何限制AI發展有思考",
@@ -298,27 +286,6 @@
     },
     {
       "rank": 3,
-      "title": "由於歐盟和其他國家拒絕達成協議，COP31氣候談判將破裂",
-      "summary": [
-        "Nikkei Asia：由於歐盟和其他國家拒絕達成協議，COP31氣候談判將破裂",
-        "BBC中文：COP31未能達成重大氣候協議，談判暴露出嚴重分歧"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "由於歐盟和其他國家拒絕達成協議，COP31氣候談判將破裂",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM3FGTGRvcm5EV2daUWIzaEVJcHFIS0N0NkxsYVdBVENRVTBwMENsNWllQUZCYUU4UWx6bVZidF8wUDJyeUV6a1o1V3YxNEhHaTZlMlFZaGx6OUliaDlHSmh2NEVXaUUzdzlvWDNVdncwUHM2TWhwRXNxRkg4Rk82eEdETERJQVdyWGx4VUIyMVNoRVhVdUJTZnJhMllqUmdnRHpVTUQyTHNDcTFKZ0FpTFdLdG8zVmZfTzJwNWt0X3VnMG8?oc=5"
-        },
-        {
-          "source": "BBC中文",
-          "title": "COP31未能達成重大氣候協議，談判暴露出嚴重分歧",
-          "url": "https://www.bbc.com/zhongwen/articles/cm4gn2l17w5go/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "眾議院民主黨人將在本世紀以最大多陣列成新國會",
       "summary": [
         "Financial Times：眾議院民主黨人將在本世紀以最大多陣列成新國會",
@@ -339,7 +306,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
       "summary": [
         "Bloomberg Markets：銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
@@ -360,7 +327,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
       "summary": [
         "Bloomberg Markets：塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
@@ -381,7 +348,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "如何在人工智慧貿易瓦解之際尋找價值",
       "summary": [
         "Bloomberg Tech：如何在人工智慧貿易瓦解之際尋找價值",
@@ -398,6 +365,27 @@
           "source": "Financial Times",
           "title": "迴圈人工智慧經濟的問題",
           "url": "https://www.ft.com/content/e49add11-3cc8-4edd-8daa-db8daaf994dd?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
+      "summary": [
+        "NHK新聞：「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
+        "Financial Times：烏克蘭在利比亞海岸擊沉俄羅斯軍艦"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261123de80209"
+        },
+        {
+          "source": "Financial Times",
+          "title": "烏克蘭在利比亞海岸擊沉俄羅斯軍艦",
+          "url": "https://www.ft.com/content/b3f020fc-2617-4432-bced-af2a0b120133?syn-25a6b1a6=1"
         }
       ]
     },
