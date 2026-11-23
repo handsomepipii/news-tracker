@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-23 10:56",
+  "updated_at": "2026-11-23 11:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "中興新村藏世界級生技大廠　南投辦論壇邀市民直擊正瀚總部",
-      "summary": [
-        "ETtoday：中興新村藏世界級生技大廠　南投辦論壇邀市民直擊正瀚總部",
-        "自由時報：金馬63》《善男信女》擊敗《雙囍》奪最佳劇情片！劉冠廷、袁澧林勝出內幕曝光",
-        "經濟日報：貝森特：黃仁勳能否重返輝達視責任歸屬...再點名臺灣晶片集中風險"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "中興新村藏世界級生技大廠　南投辦論壇邀市民直擊正瀚總部",
-          "url": "https://www.ettoday.net/news/20261122/3276635.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "金馬63》《善男信女》擊敗《雙囍》奪最佳劇情片！劉冠廷、袁澧林勝出內幕曝光",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5650003"
-        },
-        {
-          "source": "經濟日報",
-          "title": "貝森特：黃仁勳能否重返輝達視責任歸屬...再點名臺灣晶片集中風險",
-          "url": "https://money.udn.com/money/story/5599/9895342"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
       "summary": [
         "自由時報：黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
       "summary": [
         "自由時報：達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
       "summary": [
         "自由時報：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
@@ -106,6 +79,27 @@
           "source": "ETtoday",
           "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將召開會議",
           "url": "https://www.ettoday.net/news/20261123/3276702.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "李四川鶯歌、三峽車掃 侯友宜擔任麥克風手力挺交棒",
+      "summary": [
+        "自由時報：李四川鶯歌、三峽車掃 侯友宜擔任麥克風手力挺交棒",
+        "經濟日報：貝森特：黃仁勳能否重返輝達視責任歸屬...再點名臺灣晶片集中風險"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "李四川鶯歌、三峽車掃 侯友宜擔任麥克風手力挺交棒",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649994"
+        },
+        {
+          "source": "經濟日報",
+          "title": "貝森特：黃仁勳能否重返輝達視責任歸屬...再點名臺灣晶片集中風險",
+          "url": "https://money.udn.com/money/story/5599/9895342"
         }
       ]
     },
@@ -153,27 +147,6 @@
     },
     {
       "rank": 7,
-      "title": "小笠原欣幸：洋流外溢影響新北、基隆、臺中、竹市選情",
-      "summary": [
-        "自由時報：小笠原欣幸：洋流外溢影響新北、基隆、臺中、竹市選情",
-        "TVBS新聞：洋流外溢! 沈基隆造勢站臺 蔣找「禿子.燕子」車掃｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "小笠原欣幸：洋流外溢影響新北、基隆、臺中、竹市選情",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649915"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "洋流外溢! 沈基隆造勢站臺 蔣找「禿子.燕子」車掃｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02alNNUEFlODg1Y01NNUttclFWUl91RGNWclFvTTAtV3FIYzBSWUVpMDNZc29BRzJTUmFqRnFOR051bU5uMXg0TVk5aGVfM2NsV0I3SGVR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "明天的天氣/2波冷空氣來了！全臺降溫變天「這3天最濕冷」低溫下探15度， 一週氣象一次看",
       "summary": [
         "風傳媒：明天的天氣/2波冷空氣來了！全臺降溫變天「這3天最濕冷」低溫下探15度， 一週氣象一次看",
@@ -194,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "北士科工地頂樓火警  北市請求新北消防支援火勢撲滅",
       "summary": [
         "自由時報：北士科工地頂樓火警  北市請求新北消防支援火勢撲滅",
@@ -215,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "逆轉！臺中清潔隊代理隊長貪汙油錢4925元 二審改判背信原因曝",
       "summary": [
         "自由時報：逆轉！臺中清潔隊代理隊長貪汙油錢4925元 二審改判背信原因曝",
@@ -232,6 +205,27 @@
           "source": "ETtoday",
           "title": "逆轉不算貪汙！前清潔隊長私用公務車刷4925元油錢　二審改判背信",
           "url": "https://www.ettoday.net/news/20261123/3276691.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "星座理財／巨蟹天秤雙魚靜觀其變摩羯事業運佳- 樂活",
+      "summary": [
+        "工商時報：星座理財／巨蟹天秤雙魚靜觀其變摩羯事業運佳- 樂活",
+        "ETtoday：唐綺陽運勢／金牛、天蠍職場有貴人相助！巨蟹感情「隨緣反而順利」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "工商時報",
+          "title": "星座理財／巨蟹天秤雙魚靜觀其變摩羯事業運佳- 樂活",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42TFlWZGt4RE1Qb0FLczF0TUFEOTNUNGp2aklnNkVSMWMwNi04T2xPYWxtZGNvclJ6dGdHN1VlSlZuVHNaMmxtczNWS1B5d1RqNXphT09BV1c1NWc4X0Nr?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "唐綺陽運勢／金牛、天蠍職場有貴人相助！巨蟹感情「隨緣反而順利」",
+          "url": "https://star.ettoday.net/news/3276517"
         }
       ]
     }
@@ -293,27 +287,6 @@
     },
     {
       "rank": 3,
-      "title": "Anthropic研究員稱藉助AI破解黎曼猜想，系“千禧年七大數學難題”之一",
-      "summary": [
-        "法廣RFI：Anthropic研究員稱藉助AI破解黎曼猜想，系“千禧年七大數學難題”之一",
-        "BBC中文：Anthropic公司或許已解決重大數學難題：黎曼猜想"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "Anthropic研究員稱藉助AI破解黎曼猜想，系“千禧年七大數學難題”之一",
-          "url": "https://www.rfi.fr/tw/%E7%A7%91%E6%8A%80%E8%88%87%E6%96%87%E5%8C%96/20261122-anthropic%E7%A0%94%E7%A9%B6%E5%93%A1%E7%A8%B1%E8%97%89%E5%8A%A9ai%E7%A0%B4%E8%A7%A3%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%EF%BC%8C%E7%B3%BB-%E5%8D%83%E7%A6%A7%E5%B9%B4%E4%B8%83%E5%A4%A7%E6%95%B8%E5%AD%B8%E9%9B%A3%E9%A1%8C-%E4%B9%8B%E4%B8%80"
-        },
-        {
-          "source": "BBC中文",
-          "title": "Anthropic公司或許已解決重大數學難題：黎曼猜想",
-          "url": "https://www.bbc.com/zhongwen/articles/cwe85gr487dno/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "官員稱利比亞港口俄羅斯船隻爆炸可能由無人機襲擊造成",
       "summary": [
         "BBC World：官員稱利比亞港口俄羅斯船隻爆炸可能由無人機襲擊造成",
@@ -334,7 +307,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "亞洲國家在人工智慧潰敗後採取措施援助股市",
       "summary": [
         "Investing.com：亞洲國家在人工智慧潰敗後採取措施援助股市",
@@ -355,7 +328,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "貝森特表示，美國就英偉達向中國出售晶片一事尋求答案",
       "summary": [
         "Investing.com：貝森特表示，美國就英偉達向中國出售晶片一事尋求答案",
@@ -376,7 +349,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "COP31未能達成重大氣候協議，談判暴露出深刻分歧",
       "summary": [
         "BBC World：COP31未能達成重大氣候協議，談判暴露出深刻分歧",
@@ -397,7 +370,49 @@
       ]
     },
     {
+      "rank": 7,
+      "title": "眾議院民主黨人將在本世紀以最大多陣列成新國會",
+      "summary": [
+        "Financial Times：眾議院民主黨人將在本世紀以最大多陣列成新國會",
+        "Washington Post：眾議院民主黨將以 21 世紀最多多數票開始下一屆國會"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "眾議院民主黨人將在本世紀以最大多陣列成新國會",
+          "url": "https://www.ft.com/content/9d2983a7-196d-4164-a0c1-e262f32fd8c9?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Washington Post",
+          "title": "眾議院民主黨將以 21 世紀最多多數票開始下一屆國會",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDFwYnhlcGdodzRLNmNMQXB4MFJkUXF0TUZMUk1Pa24yamNRUGNRWmxrc3MxRXN6bFdNWFRrR0JONnVxbVpJX0RhYzZBandZa3hIcXlNN0plN3lGYWM3NThPSEZhLXdfVUJ6VFVDS0EzQmFjRDhJVW9PVkl0NTFYRlhmTncxUktiMVl3WTJCQmhZMDNMTG0zaVJ2Rmw4ZU5jSVdvVkkzMllYU3BtZVNsbTg0UlcwWTVvZWMtaGI1cDlyT1ZtOFdZRTJ3?oc=5"
+        }
+      ]
+    },
+    {
       "rank": 8,
+      "title": "美國期貨反彈，亞洲市場準備迎接人工智慧的毀滅",
+      "summary": [
+        "Yahoo Finance：美國期貨反彈，亞洲市場準備迎接人工智慧的毀滅",
+        "Investing.com：儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "美國期貨反彈，亞洲市場準備迎接人工智慧的毀滅",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUV8xQS1Xa09sWUwzZlR6YzZyQTBlRk1jRWJNNWFROHY1ZDdicFNhLXkwRWIyV3YtM2NJSXRJY05mTHhyU3JHTFRndEdmQlZEYXJlMVJzMmhmTGdXOFAzZERRdmduRjZXSmpBLWVWQjBxUWNIVDdHZ0M0VXdja3EyZ2xzWGhSVXc0d0VIczl5Y2UyMDlzTzdBbw?oc=5"
+        },
+        {
+          "source": "Investing.com",
+          "title": "儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
+          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-ai-rout-deepens-despite-rebound-in-us-futures-5044254"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
       "summary": [
         "Bloomberg Markets：銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
@@ -418,32 +433,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "[地震新聞]熊本縣地震強度3級，不用擔心海嘯",
-      "summary": [
-        "NHK新聞：[地震新聞]熊本縣地震強度3級，不用擔心海嘯"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "[地震新聞]熊本縣地震強度3級，不用擔心海嘯",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261122de80074"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退",
+      "title": "塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
       "summary": [
-        "法廣RFI：第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退"
+        "Bloomberg Markets：塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
+        "Investing.com：塔塔鋼鐵公司將以16.7億美元收購APL Apollo Tubes 26.4%的股份"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退",
-          "url": "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20261122-%E7%AC%AC31%E5%B1%86%E8%81%AF%E5%90%88%E5%9C%8B%E6%B0%A3%E5%80%99%E5%A4%A7%E6%9C%83%E4%BB%A5%E5%A4%B1%E6%95%97%E5%91%8A%E7%B5%82-%E6%AD%90%E7%9B%9F%E8%AA%AA%E6%B7%B1%E6%84%9F%E5%A4%B1%E6%9C%9B%EF%BC%8C%E6%B3%95%E5%9C%8B%E8%AA%AA%E6%96%B0%E5%8D%94%E8%AD%B0%E8%8D%89%E6%A1%88%E6%98%AF%E5%80%92%E9%80%80"
+          "source": "Bloomberg Markets",
+          "title": "塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/tata-steel-to-acquire-26-4-in-apl-apollo-tubes-for-1-7-billion"
+        },
+        {
+          "source": "Investing.com",
+          "title": "塔塔鋼鐵公司將以16.7億美元收購APL Apollo Tubes 26.4%的股份",
+          "url": "https://www.investing.com/news/stock-market-news/tata-steel-to-acquire-264-in-apl-apollo-tubes-for-167-billion-5044262"
         }
       ]
     }
