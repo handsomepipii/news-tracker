@@ -1,40 +1,8 @@
 {
-  "updated_at": "2026-11-23 09:26",
+  "updated_at": "2026-11-23 09:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "直擊／BTS高雄最終場催淚告別！柾國「我不想走」V告白：最美風景",
-      "summary": [
-        "ETtoday：直擊／BTS高雄最終場催淚告別！柾國「我不想走」V告白：最美風景",
-        "TVBS新聞：味全龍「封王遊行」傳葉總卸任 郭天信直呼不捨.球團未證實｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-        "經濟日報：華僑協會菲律賓分會改選 新會長鄭國賓盼深化菲臺交流"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "直擊／BTS高雄最終場催淚告別！柾國「我不想走」V告白：最美風景",
-          "url": "https://star.ettoday.net/news/3276653"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "味全龍「封王遊行」傳葉總卸任 郭天信直呼不捨.球團未證實｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cmFWMVl5dWVNU3g4dXprTktUdmJIVHREVE5KNUsxVUlTNy1fa1JmRlUwb1NfTXY1YWc3TndtdlVrOEJvaGlCemh1eWRmZVFXU3Vfb253?oc=5"
-        },
-        {
-          "source": "經濟日報",
-          "title": "華僑協會菲律賓分會改選 新會長鄭國賓盼深化菲臺交流",
-          "url": "https://money.udn.com/money/story/5599/9895069"
-        },
-        {
-          "source": "自由時報",
-          "title": "金馬63》《善男信女》擊敗《雙囍》奪最佳劇情片！劉冠廷、袁澧林勝出內幕曝光",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5650003"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
       "summary": [
         "自由時報：黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
@@ -61,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
       "summary": [
         "自由時報：達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
@@ -88,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
       "summary": [
         "自由時報：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
@@ -115,7 +83,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "COP31 氣候談判 破局",
       "summary": [
         "經濟日報：COP31 氣候談判 破局",
@@ -136,7 +104,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "北士科建案昨火災 業主發聲了",
       "summary": [
         "自由時報：北士科建案昨火災 業主發聲了",
@@ -157,28 +125,28 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "北市科建案工地頂樓起火 市消防局佈水線灌救",
+      "rank": 6,
+      "title": "屏東市長政見會 周佳琪：爭取1加1大於2的幸福",
       "summary": [
-        "自由時報：北市科建案工地頂樓起火 市消防局佈水線灌救",
-        "ETtoday：快訊／北市福國路新建工地大火！18樓整層陷火海　消防急佈線灌救"
+        "自由時報：屏東市長政見會 周佳琪：爭取1加1大於2的幸福",
+        "ETtoday：金馬獎／劉冠廷奪影帝…去年「本想回屏東賣豆花」陷低潮原因曝光"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "北市科建案工地頂樓起火 市消防局佈水線灌救",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5649892"
+          "title": "屏東市長政見會 周佳琪：爭取1加1大於2的幸福",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649891"
         },
         {
           "source": "ETtoday",
-          "title": "快訊／北市福國路新建工地大火！18樓整層陷火海　消防急佈線灌救",
-          "url": "https://www.ettoday.net/news/20261122/3276651.htm"
+          "title": "金馬獎／劉冠廷奪影帝…去年「本想回屏東賣豆花」陷低潮原因曝光",
+          "url": "https://star.ettoday.net/news/3276696"
         }
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "屏東市長選舉公辦政見會 梁育慈提市政新藍圖 盼帶領家鄉脫胎換骨",
       "summary": [
         "自由時報：屏東市長選舉公辦政見會 梁育慈提市政新藍圖 盼帶領家鄉脫胎換骨",
@@ -199,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "金馬63》舒淇奪獎揭家醜！爆爸媽「喝酒又打架」霸氣立誓：下次拿最佳導演",
       "summary": [
         "自由時報：金馬63》舒淇奪獎揭家醜！爆爸媽「喝酒又打架」霸氣立誓：下次拿最佳導演",
@@ -220,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "韓國防股災　準備啟動護盤基金放寬庫藏股嚴管放空",
       "summary": [
         "經濟日報：韓國防股災　準備啟動護盤基金放寬庫藏股嚴管放空",
@@ -237,6 +205,27 @@
           "source": "科技新報",
           "title": "韓國防股災，準備啟動護盤基金放寬庫藏股嚴管放空",
           "url": "https://finance.technews.tw/2026/11/23/south-korea-prepares-launch-stock-stabilization-fund-ease-share-buyback-rules-tighten-short-selling-regulations-avert-market-crash/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "小笠原欣幸：洋流外溢影響新北、基隆、臺中、竹市選情",
+      "summary": [
+        "自由時報：小笠原欣幸：洋流外溢影響新北、基隆、臺中、竹市選情",
+        "TVBS新聞：洋流外溢! 沈基隆造勢站臺 蔣找「禿子.燕子」車掃｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "小笠原欣幸：洋流外溢影響新北、基隆、臺中、竹市選情",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649915"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "洋流外溢! 沈基隆造勢站臺 蔣找「禿子.燕子」車掃｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02alNNUEFlODg1Y01NNUttclFWUl91RGNWclFvTTAtV3FIYzBSWUVpMDNZc29BRzJTUmFqRnFOR051bU5uMXg0TVk5aGVfM2NsV0I3SGVR?oc=5"
         }
       ]
     }
@@ -433,16 +422,16 @@
     },
     {
       "rank": 10,
-      "title": "媒體爆料分析：中國駭客曾襲擊德意志銀行",
+      "title": "COP31氣候大會未能透過最終決議,歐盟及130多個國家要求加強氣候行動",
       "summary": [
-        "德國之聲：媒體爆料分析：中國駭客曾襲擊德意志銀行"
+        "德國之聲：COP31氣候大會未能透過最終決議,歐盟及130多個國家要求加強氣候行動"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "德國之聲",
-          "title": "媒體爆料分析：中國駭客曾襲擊德意志銀行",
-          "url": "https://www.dw.com/zh/媒体爆料分析：中国黑客曾袭击德意志银行/a-80002947?maca=chi-rss-chi-all-1127-rdf"
+          "title": "COP31氣候大會未能透過最終決議,歐盟及130多個國家要求加強氣候行動",
+          "url": "https://www.dw.com/zh/cop31气候大会未能通过最终决议-欧盟及130多个国家要求加强气候行动/a-80013909?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     }
