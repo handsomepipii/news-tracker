@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:26",
+  "updated_at": "2026-11-23 11:55",
   "taiwan": [
     {
       "rank": 1,
@@ -84,48 +84,6 @@
     },
     {
       "rank": 4,
-      "title": "李四川鶯歌、三峽車掃 侯友宜擔任麥克風手力挺交棒",
-      "summary": [
-        "自由時報：李四川鶯歌、三峽車掃 侯友宜擔任麥克風手力挺交棒",
-        "經濟日報：貝森特：黃仁勳能否重返輝達視責任歸屬...再點名臺灣晶片集中風險"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "李四川鶯歌、三峽車掃 侯友宜擔任麥克風手力挺交棒",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649994"
-        },
-        {
-          "source": "經濟日報",
-          "title": "貝森特：黃仁勳能否重返輝達視責任歸屬...再點名臺灣晶片集中風險",
-          "url": "https://money.udn.com/money/story/5599/9895342"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "COP31 氣候談判 破局",
-      "summary": [
-        "經濟日報：COP31 氣候談判 破局",
-        "自由時報：史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "COP31 氣候談判 破局",
-          "url": "https://money.udn.com/money/story/5599/9895195"
-        },
-        {
-          "source": "自由時報",
-          "title": "史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650019"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "北士科建案昨火災 業主發聲了",
       "summary": [
         "自由時報：北士科建案昨火災 業主發聲了",
@@ -146,23 +104,65 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "明天的天氣/2波冷空氣來了！全臺降溫變天「這3天最濕冷」低溫下探15度， 一週氣象一次看",
+      "rank": 5,
+      "title": "李四川鶯歌、三峽車掃 侯友宜擔任麥克風手力挺交棒",
       "summary": [
-        "風傳媒：明天的天氣/2波冷空氣來了！全臺降溫變天「這3天最濕冷」低溫下探15度， 一週氣象一次看",
-        "自由時報：本週2波冷空氣接力！專家曝「降溫時間」：先濕冷、後乾冷"
+        "自由時報：李四川鶯歌、三峽車掃 侯友宜擔任麥克風手力挺交棒",
+        "經濟日報：貝森特：黃仁勳能否重返輝達視責任歸屬...再點名臺灣晶片集中風險"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "風傳媒",
-          "title": "明天的天氣/2波冷空氣來了！全臺降溫變天「這3天最濕冷」低溫下探15度， 一週氣象一次看",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BTDBoZ3JLTm56enE2QUc3cTd3am5TQXZybjZSdlowUHdid3pmRXc4RjM5VmhEUHBzQjJ0UWtzYjBOYkhZcHlzU1J5OFl4QlhL?oc=5"
+          "source": "自由時報",
+          "title": "李四川鶯歌、三峽車掃 侯友宜擔任麥克風手力挺交棒",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649994"
+        },
+        {
+          "source": "經濟日報",
+          "title": "貝森特：黃仁勳能否重返輝達視責任歸屬...再點名臺灣晶片集中風險",
+          "url": "https://money.udn.com/money/story/5599/9895342"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "COP31 氣候談判 破局",
+      "summary": [
+        "經濟日報：COP31 氣候談判 破局",
+        "自由時報：史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "COP31 氣候談判 破局",
+          "url": "https://money.udn.com/money/story/5599/9895195"
         },
         {
           "source": "自由時報",
-          "title": "本週2波冷空氣接力！專家曝「降溫時間」：先濕冷、後乾冷",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5650064"
+          "title": "史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650019"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
+      "summary": [
+        "經濟日報：川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
+        "自由時報：再度公開力挺！ 川普呼籲讓黃仁勳回鍋：對輝達和美國都是最好的"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
+          "url": "https://money.udn.com/money/story/5599/9895928"
+        },
+        {
+          "source": "自由時報",
+          "title": "再度公開力挺！ 川普呼籲讓黃仁勳回鍋：對輝達和美國都是最好的",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650310"
         }
       ]
     },
@@ -287,48 +287,6 @@
     },
     {
       "rank": 3,
-      "title": "官員稱利比亞港口俄羅斯船隻爆炸可能由無人機襲擊造成",
-      "summary": [
-        "BBC World：官員稱利比亞港口俄羅斯船隻爆炸可能由無人機襲擊造成",
-        "The Guardian：利比亞當局稱班加西俄羅斯船隻爆炸疑似無人機攻擊"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "官員稱利比亞港口俄羅斯船隻爆炸可能由無人機襲擊造成",
-          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "title": "利比亞當局稱班加西俄羅斯船隻爆炸疑似無人機攻擊",
-          "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "亞洲國家在人工智慧潰敗後採取措施援助股市",
-      "summary": [
-        "Investing.com：亞洲國家在人工智慧潰敗後採取措施援助股市",
-        "Yahoo Finance：亞洲國家在人工智慧潰敗後採取措施援助股市"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "亞洲國家在人工智慧潰敗後採取措施援助股市",
-          "url": "https://www.investing.com/news/stock-market-news/asian-countries-take-steps-to-aid-stock-markets-after-ai-rout-5044034"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "亞洲國家在人工智慧潰敗後採取措施援助股市",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2hTbGd3Q2JhVFl6bkQyd1BqMGJ1Nnk5ckhIcFlLOTAySEZuV2ExRnVEMmpYcnZPUlVNbzdfMmhpR0F3SEhxeF92WlNSUmFuc0JobFROVmNxU3JTSDBNNDdZZk1NSDdLcGc1TnJZSjd1bDFyam5TdFBFVE00OFBIVmo4dDI3dU82SXJrWUl3LThUUlBEa1N3cm1oZTY?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "貝森特表示，美國就英偉達向中國出售晶片一事尋求答案",
       "summary": [
         "Investing.com：貝森特表示，美國就英偉達向中國出售晶片一事尋求答案",
@@ -349,7 +307,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "COP31未能達成重大氣候協議，談判暴露出深刻分歧",
       "summary": [
         "BBC World：COP31未能達成重大氣候協議，談判暴露出深刻分歧",
@@ -370,7 +328,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "眾議院民主黨人將在本世紀以最大多陣列成新國會",
       "summary": [
         "Financial Times：眾議院民主黨人將在本世紀以最大多陣列成新國會",
@@ -391,7 +349,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "美國期貨反彈，亞洲市場準備迎接人工智慧的毀滅",
       "summary": [
         "Yahoo Finance：美國期貨反彈，亞洲市場準備迎接人工智慧的毀滅",
@@ -412,7 +370,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
       "summary": [
         "Bloomberg Markets：銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
@@ -433,7 +391,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
       "summary": [
         "Bloomberg Markets：塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
@@ -450,6 +408,36 @@
           "source": "Investing.com",
           "title": "塔塔鋼鐵公司將以16.7億美元收購APL Apollo Tubes 26.4%的股份",
           "url": "https://www.investing.com/news/stock-market-news/tata-steel-to-acquire-264-in-apl-apollo-tubes-for-167-billion-5044262"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "[地震新聞]熊本縣地震強度3級，不用擔心海嘯",
+      "summary": [
+        "NHK新聞：[地震新聞]熊本縣地震強度3級，不用擔心海嘯"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "[地震新聞]熊本縣地震強度3級，不用擔心海嘯",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261122de80074"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退",
+      "summary": [
+        "法廣RFI：第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退",
+          "url": "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20261122-%E7%AC%AC31%E5%B1%86%E8%81%AF%E5%90%88%E5%9C%8B%E6%B0%A3%E5%80%99%E5%A4%A7%E6%9C%83%E4%BB%A5%E5%A4%B1%E6%95%97%E5%91%8A%E7%B5%82-%E6%AD%90%E7%9B%9F%E8%AA%AA%E6%B7%B1%E6%84%9F%E5%A4%B1%E6%9C%9B%EF%BC%8C%E6%B3%95%E5%9C%8B%E8%AA%AA%E6%96%B0%E5%8D%94%E8%AD%B0%E8%8D%89%E6%A1%88%E6%98%AF%E5%80%92%E9%80%80"
         }
       ]
     }
