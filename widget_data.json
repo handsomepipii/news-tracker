@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 14:56",
+  "updated_at": "2026-11-23 15:25",
   "taiwan": [
     {
       "rank": 1,
@@ -304,27 +304,6 @@
     },
     {
       "rank": 3,
-      "title": "高盛交易員看到美國股市的切入點，但警告風險",
-      "summary": [
-        "Bloomberg Markets：高盛交易員看到美國股市的切入點，但警告風險",
-        "Yahoo Finance：高盛交易員看到美國股市的切入點，但警告風險"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "高盛交易員看到美國股市的切入點，但警告風險",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "高盛交易員看到美國股市的切入點，但警告風險",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHV3bFNSZmFVVVpJdUhyUUx4UzVhdTVZNVVWUUE1RlBsWDBWMlFGcGlmSzljOHB1SHNkcTUtaG9oZFVkSS1UejEwQk5VdUJzVkpLdlpLcmVvbVhRaHFWbkVOUVhNMmljUmN1NU84cUZvcGZjbHRCT1NoMDFKYzNOZTUwbHBlV2ZHNzRSeGpOUjFQOFBKbXhsbkt0Rkw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
       "summary": [
         "Financial Times：達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
@@ -345,7 +324,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "由於歐盟和其他國家拒絕達成協議，COP31氣候談判將破裂",
       "summary": [
         "Nikkei Asia：由於歐盟和其他國家拒絕達成協議，COP31氣候談判將破裂",
@@ -366,7 +345,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "眾議院民主黨人將在本世紀以最大多陣列成新國會",
       "summary": [
         "Financial Times：眾議院民主黨人將在本世紀以最大多陣列成新國會",
@@ -387,7 +366,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
       "summary": [
         "Bloomberg Markets：銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
@@ -408,7 +387,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
       "summary": [
         "Bloomberg Markets：塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
@@ -429,7 +408,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "如何在人工智慧貿易瓦解之際尋找價值",
       "summary": [
         "Bloomberg Tech：如何在人工智慧貿易瓦解之際尋找價值",
@@ -450,7 +429,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "為什麼Infragreen股票今天會激增？",
       "summary": [
         "Investing.com：為什麼Infragreen股票今天會激增？"
@@ -461,6 +440,21 @@
           "source": "Investing.com",
           "title": "為什麼Infragreen股票今天會激增？",
           "url": "https://www.investing.com/news/stock-market-news/why-is-infragreen-stock-surging-today-93CH-5044279"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃樂親屬及商業夥伴與中國軍工承包商有廣泛聯絡- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：黃樂親屬及商業夥伴與中國軍工承包商有廣泛聯絡- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "黃樂親屬及商業夥伴與中國軍工承包商有廣泛聯絡- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeVZmaUJTZm9KdXhTWWRXOUw3UFBha19fX1ppTF9kVDZmLUxfSnE5T2RuamxhRFRFOURXYTEza3hReHBIZHkxcTZoY2xneXBPRkNiTGdraGtNVnZJSjJPQ2RPREhVUjJ0TF9qbFhhdkVsWjBKNWU4TlhXWGtxVUsyR0dFZkUzZG5wTXc?oc=5"
         }
       ]
     }
