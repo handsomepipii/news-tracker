@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 13:26",
+  "updated_at": "2026-11-23 13:56",
   "taiwan": [
     {
       "rank": 1,
@@ -159,6 +159,27 @@
     },
     {
       "rank": 7,
+      "title": "傳軟銀曾想砸1兆美元買SK海力士 計畫已擱置-新聞內容-基金",
+      "summary": [
+        "MoneyDJ理財網：傳軟銀曾想砸1兆美元買SK海力士 計畫已擱置-新聞內容-基金",
+        "科技新報：傳軟銀曾想砸 1 兆美元買 SK 海力士  計畫已擱置"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "傳軟銀曾想砸1兆美元買SK海力士 計畫已擱置-新聞內容-基金",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkZCWTZxYkliN1BzQkowMFhEUGNwclpfMkV2YnNqUkVBLXA1ang0cHVyQWN0X1ptOWRUMHBoLVp6bFFKbXNUWDJaOTFnSklnVGY3SzYxOVYtUHJBOVRmaFMxWGVtTGhNZkF2RWkyanU4ZkRqSWIwSkxQbmFfTlNiaXJpUGwzRnhjcFA5Y3FSeXU?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "傳軟銀曾想砸 1 兆美元買 SK 海力士  計畫已擱置",
+          "url": "https://technews.tw/2026/11/23/softbanks-masayoshi-son-explored-1-trillion-moonshot-buyout-of-sk-hynix/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "資安重磅再現再現？傳CrowdStrike洽購Zscaler-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：資安重磅再現再現？傳CrowdStrike洽購Zscaler-新聞內容-基金",
@@ -179,7 +200,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
       "summary": [
         "經濟日報：川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
@@ -200,7 +221,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "鋒面要來了！　雨連下3天",
       "summary": [
         "ETtoday：鋒面要來了！　雨連下3天",
@@ -219,59 +240,11 @@
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5650094"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "黃仁勳涉中國間諜風波　美情報首長證實調查黃樂與Megaspeed",
-      "summary": [
-        "ETtoday：黃仁勳涉中國間諜風波　美情報首長證實調查黃樂與Megaspeed",
-        "科技新報：美國國家情報總監：正對與黃仁勳有染疑似中國間諜進行調查"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳涉中國間諜風波　美情報首長證實調查黃樂與Megaspeed",
-          "url": "https://www.ettoday.net/news/20261123/3276701.htm"
-        },
-        {
-          "source": "科技新報",
-          "title": "美國國家情報總監：正對與黃仁勳有染疑似中國間諜進行調查",
-          "url": "https://technews.tw/2026/11/23/us-probing-alleged-spy-tied-to-ex-nvidia-ceo/"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "達美航空進出亞特蘭大的航班因係統故障而延誤",
-      "summary": [
-        "The Verge：達美航空進出亞特蘭大的航班因係統故障而延誤",
-        "Financial Times：達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
-        "Investing.com：達美航空航班因自動化系統問題在亞特蘭大機場遭遇短暫延誤"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "達美航空進出亞特蘭大的航班因係統故障而延誤",
-          "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage"
-        },
-        {
-          "source": "Financial Times",
-          "title": "達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
-          "url": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Investing.com",
-          "title": "達美航空航班因自動化系統問題在亞特蘭大機場遭遇短暫延誤",
-          "url": "https://www.investing.com/news/stock-market-news/delta-flights-faced-brief-delays-atatlanta-airport-over-automated-system-issue-5044102"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "COP31未能達成重大氣候協議，談判暴露出深刻分歧",
       "summary": [
         "BBC World：COP31未能達成重大氣候協議，談判暴露出深刻分歧",
@@ -298,7 +271,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "OpenAI首席科學家敦促產業限制人工智慧發展",
       "summary": [
         "Bloomberg Tech：OpenAI首席科學家敦促產業限制人工智慧發展",
@@ -325,7 +298,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "貝森特表示，美國就英偉達向中國出售晶片一事尋求答案",
       "summary": [
         "Investing.com：貝森特表示，美國就英偉達向中國出售晶片一事尋求答案",
@@ -346,7 +319,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "高盛交易員看到美國股市的切入點，但警告風險",
       "summary": [
         "Bloomberg Markets：高盛交易員看到美國股市的切入點，但警告風險",
@@ -363,6 +336,27 @@
           "source": "Yahoo Finance",
           "title": "高盛交易員看到美國股市的切入點，但警告風險",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHV3bFNSZmFVVVpJdUhyUUx4UzVhdTVZNVVWUUE1RlBsWDBWMlFGcGlmSzljOHB1SHNkcTUtaG9oZFVkSS1UejEwQk5VdUJzVkpLdlpLcmVvbVhRaHFWbkVOUVhNMmljUmN1NU84cUZvcGZjbHRCT1NoMDFKYzNOZTUwbHBlV2ZHNzRSeGpOUjFQOFBKbXhsbkt0Rkw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
+      "summary": [
+        "Financial Times：達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
+        "Investing.com：達美航空航班因自動化系統問題在亞特蘭大機場遭遇短暫延誤"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
+          "url": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "達美航空航班因自動化系統問題在亞特蘭大機場遭遇短暫延誤",
+          "url": "https://www.investing.com/news/stock-market-news/delta-flights-faced-brief-delays-atatlanta-airport-over-automated-system-issue-5044102"
         }
       ]
     },
@@ -389,27 +383,6 @@
     },
     {
       "rank": 7,
-      "title": "美國期貨反彈，亞洲市場準備迎接人工智慧的毀滅",
-      "summary": [
-        "Yahoo Finance：美國期貨反彈，亞洲市場準備迎接人工智慧的毀滅",
-        "Investing.com：儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "美國期貨反彈，亞洲市場準備迎接人工智慧的毀滅",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUV8xQS1Xa09sWUwzZlR6YzZyQTBlRk1jRWJNNWFROHY1ZDdicFNhLXkwRWIyV3YtM2NJSXRJY05mTHhyU3JHTFRndEdmQlZEYXJlMVJzMmhmTGdXOFAzZERRdmduRjZXSmpBLWVWQjBxUWNIVDdHZ0M0VXdja3EyZ2xzWGhSVXc0d0VIczl5Y2UyMDlzTzdBbw?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
-          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-ai-rout-deepens-despite-rebound-in-us-futures-5044254"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
       "summary": [
         "Bloomberg Markets：銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
@@ -430,7 +403,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
       "summary": [
         "Bloomberg Markets：塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
@@ -451,7 +424,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "如何在人工智慧貿易瓦解之際尋找價值",
       "summary": [
         "Bloomberg Tech：如何在人工智慧貿易瓦解之際尋找價值",
@@ -468,6 +441,27 @@
           "source": "Financial Times",
           "title": "迴圈人工智慧經濟的問題",
           "url": "https://www.ft.com/content/e49add11-3cc8-4edd-8daa-db8daaf994dd?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
+      "summary": [
+        "Investing.com：儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
+        "Bloomberg Markets：由於人工智慧擔憂抵消了支援措施，亞洲股市下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
+          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-ai-rout-deepens-despite-rebound-in-us-futures-5044254"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "由於人工智慧擔憂抵消了支援措施，亞洲股市下跌",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-23/asian-stocks-drop-as-ai-worries-offset-support-measures-video"
         }
       ]
     }
