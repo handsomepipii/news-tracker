@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 22:56",
+  "updated_at": "2026-11-23 23:26",
   "taiwan": [
     {
       "rank": 1,
@@ -83,69 +83,6 @@
     },
     {
       "rank": 4,
-      "title": "東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
-      "summary": [
-        "iThome：東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
-        "科技新報：Amazon 揭露：中國駭客出動自主 AI 代理，僅 11 分鐘挖出零時差漏洞攻陷大學伺服器"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
-          "url": "https://www.ithome.com.tw/news/180697"
-        },
-        {
-          "source": "科技新報",
-          "title": "Amazon 揭露：中國駭客出動自主 AI 代理，僅 11 分鐘挖出零時差漏洞攻陷大學伺服器",
-          "url": "https://infosecu.technews.tw/2026/11/23/chinese-hackers-leverage-ai-agents-launch-automated-attacks/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
-      "summary": [
-        "經濟日報：川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
-        "自由時報：再度公開力挺！ 川普呼籲讓黃仁勳回鍋：對輝達和美國都是最好的"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
-          "url": "https://money.udn.com/money/story/5599/9895928"
-        },
-        {
-          "source": "自由時報",
-          "title": "再度公開力挺！ 川普呼籲讓黃仁勳回鍋：對輝達和美國都是最好的",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650310"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "川普迷因幣晚宴大退燒　規模與價值雙雙暴跌",
-      "summary": [
-        "經濟日報：川普迷因幣晚宴大退燒　規模與價值雙雙暴跌",
-        "科技新報：川普迷因幣晚宴大退燒，規模與價值雙雙暴跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普迷因幣晚宴大退燒　規模與價值雙雙暴跌",
-          "url": "https://money.udn.com/money/story/5599/9895849"
-        },
-        {
-          "source": "科技新報",
-          "title": "川普迷因幣晚宴大退燒，規模與價值雙雙暴跌",
-          "url": "https://finance.technews.tw/2026/11/23/trump-hosts-gala-for-meme-coin-investors-as-his-token-plunges-to-record-lows/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
       "summary": [
         "ETtoday：快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
@@ -166,49 +103,28 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "美股資金風向變了  砍成長股、價值股迎輪動行情",
+      "rank": 5,
+      "title": "再度公開力挺！ 川普呼籲讓黃仁勳回鍋：對輝達和美國都是最好的",
       "summary": [
-        "科技新報：美股資金風向變了  砍成長股、價值股迎輪動行情",
-        "MoneyDJ理財網：美股資金風向變了砍成長股、價值股迎輪動行情- 新聞"
+        "自由時報：再度公開力挺！ 川普呼籲讓黃仁勳回鍋：對輝達和美國都是最好的",
+        "經濟日報：川普又發文挺黃仁勳 呼籲董事會讓他回鍋「對輝達和美國都是最好的」"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "科技新報",
-          "title": "美股資金風向變了  砍成長股、價值股迎輪動行情",
-          "url": "https://finance.technews.tw/2026/11/23/value-stocks-emerge-as-the-new-focus-of-us-equity-investors/"
+          "source": "自由時報",
+          "title": "再度公開力挺！ 川普呼籲讓黃仁勳回鍋：對輝達和美國都是最好的",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650310"
         },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "美股資金風向變了砍成長股、價值股迎輪動行情- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0g4ZVNDTFZVN2p1ZmE2UFh2dUdram1NSXNjUGpxeTlJb2U0WXZVX0JMSlU2bFhFYzM3QnI2LXpzcEZTSkNCV0pnVGR1RFo5eDNoRE8zNzN1d1NTS3o3NzAtWDZ4Y0FxTnJfaU1RZnBlektIQmFwaEg1bEE1REtjQnhYYndHZi04cUR6UEc0NW5hQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "韓國三星證券遭駭　逾8000名客戶個資外洩",
-      "summary": [
-        "經濟日報：韓國三星證券遭駭　逾8000名客戶個資外洩",
-        "科技新報：韓國三星證券遭駭，逾 8,000 名客戶個資外洩"
-      ],
-      "media_count": 2,
-      "links": [
         {
           "source": "經濟日報",
-          "title": "韓國三星證券遭駭　逾8000名客戶個資外洩",
-          "url": "https://money.udn.com/money/story/5599/9895894"
-        },
-        {
-          "source": "科技新報",
-          "title": "韓國三星證券遭駭，逾 8,000 名客戶個資外洩",
-          "url": "https://infosecu.technews.tw/2026/11/23/samsung-securities-data-breach/"
+          "title": "川普又發文挺黃仁勳 呼籲董事會讓他回鍋「對輝達和美國都是最好的」",
+          "url": "https://money.udn.com/money/story/5599/9895955"
         }
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "謝龍介宣示捐選舉補助款查弊案 陳亭妃：不要再用選舉話術",
       "summary": [
         "自由時報：謝龍介宣示捐選舉補助款查弊案 陳亭妃：不要再用選舉話術",
@@ -225,6 +141,90 @@
           "source": "中時新聞",
           "title": "陳亭妃麻豆鐵馬拜票 批謝龍介3大宣誓只是選舉話術",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzZ1lLWjRBQ3BrNVhscnBDSlFzeFJBQXgyU3U5c3Vnclg0UlBtTmluUmRQVG9UcWFPaTFwUUppMVZCTERvc19PUjlucGE1aG0taWFPT3A4VkJaZ0U0dlZMVDJLRG50SGNjM3h4ZjdB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "爆炸瞬間曝！俄軍艦「遭無人艇夜襲」擊沉　戰火燒到地中海",
+      "summary": [
+        "ETtoday：爆炸瞬間曝！俄軍艦「遭無人艇夜襲」擊沉　戰火燒到地中海",
+        "自由時報：烏無人艇跨海獵殺？俄軍火貨輪地中海遭襲 神風攻擊畫面曝"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "爆炸瞬間曝！俄軍艦「遭無人艇夜襲」擊沉　戰火燒到地中海",
+          "url": "https://www.ettoday.net/news/20261123/3276759.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "烏無人艇跨海獵殺？俄軍火貨輪地中海遭襲 神風攻擊畫面曝",
+          "url": "https://news.ltn.com.tw/news/def/breakingnews/5650506"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "記憶體股崩跌  超低本益比恐暗示獲利恐見頂",
+      "summary": [
+        "科技新報：記憶體股崩跌  超低本益比恐暗示獲利恐見頂",
+        "MoneyDJ理財網：記憶體股崩跌超低本益比恐暗示獲利恐見頂- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "記憶體股崩跌  超低本益比恐暗示獲利恐見頂",
+          "url": "https://finance.technews.tw/2026/11/23/memory-stocks-plunge-as-profit-growth-may-have-peaked/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "記憶體股崩跌超低本益比恐暗示獲利恐見頂- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3FfTFZZeFdKN0cteFdXMGdnaTAzS21UR1VmTUFRbVNPVHBfNDdTNVNuLXVta3F6N0thYl9Fd09ld0FVdGMxUVVUSHBaU1JZS0ZldEtLZGNfZ1dLQzdJdnlwdXFuclNLczBzalhOUjlJSnRKeUllc1l5b3ZvaXV2TXltZnItSU1kTXZhZ01IdTJ1dw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "崇越發布資安重訊，揭露第三方電商服務商伊比薩發現異常資料存取，子公司全越運動影響待查",
+      "summary": [
+        "iThome：崇越發布資安重訊，揭露第三方電商服務商伊比薩發現異常資料存取，子公司全越運動影響待查",
+        "公開資訊觀測站重訊：崇越發布資安重訊，揭露第三方電商服務商伊比薩發現異常資料存取，子公司全越運動影響待查"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "崇越發布資安重訊，揭露第三方電商服務商伊比薩發現異常資料存取，子公司全越運動影響待查",
+          "url": "https://www.ithome.com.tw/news/180703"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "崇越發布資安重訊，揭露第三方電商服務商伊比薩發現異常資料存取，子公司全越運動影響待查",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UVzBsN3J4N3VVNlBKaWt0bmN1WVNsUV9YcUtrbGJCdTFNeXdFNjJWc1ZSZURFX1NUZFZCbnRnZVhURUFTWU12dlBqQ056dw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "比婚外情更大危機！輝達合作臺積電30年沒簽約 黃仁勳握手協議成隱憂",
+      "summary": [
+        "經濟日報：比婚外情更大危機！輝達合作臺積電30年沒簽約 黃仁勳握手協議成隱憂",
+        "今周刊：黃仁勳搏感情打天下、自豪合作臺積電30年沒簽正式約！輝達「握手協議」會沒了？外媒點最大隱憂"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "比婚外情更大危機！輝達合作臺積電30年沒簽約 黃仁勳握手協議成隱憂",
+          "url": "https://money.udn.com/money/story/5599/9895991"
+        },
+        {
+          "source": "今周刊",
+          "title": "黃仁勳搏感情打天下、自豪合作臺積電30年沒簽正式約！輝達「握手協議」會沒了？外媒點最大隱憂",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWl9VakQzOTJuRFN1c1RBVi0yaVd5TXNsa2dUMm10bnYwRzRmNm9HSmF0ekstU2huMklaT2VDbkl2d3ZIR1FRaVNaQlJvMXdKREEwNHFIU0hRSlRyd3NxakdqZm14RHo0ei0xYUVoOUNfWVE0Qkl0Mm5oQXkxbHU3cw?oc=5"
         }
       ]
     }
@@ -306,19 +306,46 @@
     },
     {
       "rank": 3,
-      "title": "儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
+      "title": "英偉達恢復黃仁勳執行長職務",
       "summary": [
-        "Investing.com：儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
-        "Financial Times：由於人工智慧貿易步履蹣跚，亞洲監管機構急於支援低迷的市場",
-        "Bloomberg Markets：由於人工智慧擔憂抵消了支援措施，亞洲股市下跌"
+        "Financial Times：英偉達恢復黃仁勳執行長職務",
+        "NHK新聞：黃仁勳卸任後重返美國半導體巨頭英偉達執行長",
+        "Bloomberg Tech：英偉達為何恢復黃仁勳擔任執行長"
       ],
       "media_count": 4,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
-          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-ai-rout-deepens-despite-rebound-in-us-futures-5044254"
+          "source": "Financial Times",
+          "title": "英偉達恢復黃仁勳執行長職務",
+          "url": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1"
         },
+        {
+          "source": "NHK新聞",
+          "title": "黃仁勳卸任後重返美國半導體巨頭英偉達執行長",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261123de80304"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "英偉達為何恢復黃仁勳擔任執行長",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-23/why-nvidia-reinstated-jensen-huang-as-ceo-video"
+        },
+        {
+          "source": "德國之聲",
+          "title": "英偉達宣佈黃仁勳即刻復任執行長",
+          "url": "https://www.dw.com/zh/英伟达宣布黄仁勋即刻复任首席执行官/a-80022108?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "由於人工智慧貿易步履蹣跚，亞洲監管機構急於支援低迷的市場",
+      "summary": [
+        "Financial Times：由於人工智慧貿易步履蹣跚，亞洲監管機構急於支援低迷的市場",
+        "Bloomberg Markets：由於人工智慧擔憂抵消了支援措施，亞洲股市下跌",
+        "CNBC：隨著人工智慧低迷導致股市下跌，亞洲國家如何尋求支撐市場"
+      ],
+      "media_count": 3,
+      "links": [
         {
           "source": "Financial Times",
           "title": "由於人工智慧貿易步履蹣跚，亞洲監管機構急於支援低迷的市場",
@@ -333,38 +360,6 @@
           "source": "CNBC",
           "title": "隨著人工智慧低迷導致股市下跌，亞洲國家如何尋求支撐市場",
           "url": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "英偉達恢復黃仁勳執行長職務",
-      "summary": [
-        "Financial Times：英偉達恢復黃仁勳執行長職務",
-        "TechCrunch：英偉達改變方針，讓黃仁勳重新擔任執行長",
-        "NHK新聞：黃仁勳卸任後重返美國半導體巨頭英偉達執行長"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "英偉達恢復黃仁勳執行長職務",
-          "url": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "英偉達改變方針，讓黃仁勳重新擔任執行長",
-          "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "黃仁勳卸任後重返美國半導體巨頭英偉達執行長",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261123de80304"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "英偉達為何恢復黃仁勳擔任執行長",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/why-nvidia-reinstated-jensen-huang-as-ceo-video"
         }
       ]
     },
@@ -397,48 +392,27 @@
     },
     {
       "rank": 6,
-      "title": "救援人員稱，俄羅斯空襲烏克蘭後數小時，7 歲男孩從廢墟中被救出",
+      "title": "川普敦促英偉達董事會重新聘用黃仁勳",
       "summary": [
-        "BBC World：救援人員稱，俄羅斯空襲烏克蘭後數小時，7 歲男孩從廢墟中被救出",
-        "NHK新聞：烏克蘭受損房屋中救出兩人；14小時後7歲男孩獲救"
+        "Investing.com：川普敦促英偉達董事會重新聘用黃仁勳",
+        "Yahoo Finance：唐納德·川普敦促英偉達重新聘用前執行長黃仁勳"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "BBC World",
-          "title": "救援人員稱，俄羅斯空襲烏克蘭後數小時，7 歲男孩從廢墟中被救出",
-          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+          "source": "Investing.com",
+          "title": "川普敦促英偉達董事會重新聘用黃仁勳",
+          "url": "https://www.investing.com/news/stock-market-news/trump-urges-nvidia-board-to-rehire-jensen-huang-5044292"
         },
         {
-          "source": "NHK新聞",
-          "title": "烏克蘭受損房屋中救出兩人；14小時後7歲男孩獲救",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261123de80276"
+          "source": "Yahoo Finance",
+          "title": "唐納德·川普敦促英偉達重新聘用前執行長黃仁勳",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDNFUUdPa2lNN1p0Z19haGVZTkN3aGh4ek40TGFjSW10am5US3dKdW9yODg4bGFodkd4VFpaUUI5bWVLWnJwRVhhaGthcXB4ck5KLXkyUFNvc2N4eDJhV2MzYUZCWGg5aUJwSDBJQzNVUjZ3Q05vQWZwRkNQbTZ1OXBkMUxYcTUwVWo1bzZFeFVaQXkwQk1KZlV4UHo?oc=5"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "如何在人工智慧貿易瓦解之際尋找價值",
-      "summary": [
-        "Bloomberg Tech：如何在人工智慧貿易瓦解之際尋找價值",
-        "Financial Times：迴圈人工智慧經濟的問題"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "如何在人工智慧貿易瓦解之際尋找價值",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/how-to-find-value-as-the-ai-trade-unravels-video"
-        },
-        {
-          "source": "Financial Times",
-          "title": "迴圈人工智慧經濟的問題",
-          "url": "https://www.ft.com/content/e49add11-3cc8-4edd-8daa-db8daaf994dd?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "COP31未能達成重大氣候協議，談判暴露出嚴重分歧",
       "summary": [
         "BBC中文：COP31未能達成重大氣候協議，談判暴露出嚴重分歧",
@@ -459,7 +433,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
       "summary": [
         "NHK新聞：「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
@@ -480,7 +454,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "歐盟對可口可樂裝瓶商發起反壟斷調查",
       "summary": [
         "Financial Times：歐盟對可口可樂裝瓶商發起反壟斷調查",
@@ -497,6 +471,27 @@
           "source": "Bloomberg Markets",
           "title": "可口可樂裝瓶商因濫用市場力量而受到歐盟調查",
           "url": "https://www.bloomberg.com/news/articles/2026-11-23/coca-cola-bottler-hit-by-eu-probe-into-abuse-of-market-power"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Z.ai推出採用環形變壓器設計的GLM-5.4模型",
+      "summary": [
+        "Investing.com：Z.ai推出採用環形變壓器設計的GLM-5.4模型",
+        "Wccftech：Z.ai 首次推出 GLM-5.4，採用新穎的環形變壓器架構，完全跳過 AI 基準測試"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Z.ai推出採用環形變壓器設計的GLM-5.4模型",
+          "url": "https://www.investing.com/news/stock-market-news/zai-unveils-glm54-model-with-loop-transformer-design-93CH-5045609"
+        },
+        {
+          "source": "Wccftech",
+          "title": "Z.ai 首次推出 GLM-5.4，採用新穎的環形變壓器架構，完全跳過 AI 基準測試",
+          "url": "https://wccftech.com/z-ai-debuts-glm-5-4-with-a-novel-looped-transformer-architecture-skipping-ai-benchmarks-entirely/"
         }
       ]
     }
