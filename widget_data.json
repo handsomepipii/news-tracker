@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 15:25",
+  "updated_at": "2026-11-23 15:56",
   "taiwan": [
     {
       "rank": 1,
@@ -30,33 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
-      "summary": [
-        "自由時報：達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
-        "經濟日報：達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
-        "ETtoday：美感恩節前夕上千航班又延誤！　達美航空自動化系統爆故障"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650023"
-        },
-        {
-          "source": "經濟日報",
-          "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
-          "url": "https://money.udn.com/money/story/5599/9895424"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美感恩節前夕上千航班又延誤！　達美航空自動化系統爆故障",
-          "url": "https://www.ettoday.net/news/20261123/3276698.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
       "summary": [
         "自由時報：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
       "summary": [
         "自由時報：史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
@@ -110,7 +83,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "臺股重挫謝金河喊「恐懼常醞釀轉折」：危機入市機會來了- 財經",
       "summary": [
         "中時新聞：臺股重挫謝金河喊「恐懼常醞釀轉折」：危機入市機會來了- 財經",
@@ -137,7 +110,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "北士科建案昨火災 業主發聲了",
       "summary": [
         "自由時報：北士科建案昨火災 業主發聲了",
@@ -158,7 +131,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "傳軟銀曾想砸1兆美元買SK海力士 計畫已擱置-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：傳軟銀曾想砸1兆美元買SK海力士 計畫已擱置-新聞內容-基金",
@@ -179,7 +152,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "資安重磅再現再現？傳CrowdStrike洽購Zscaler-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：資安重磅再現再現？傳CrowdStrike洽購Zscaler-新聞內容-基金",
@@ -196,6 +169,27 @@
           "source": "科技新報",
           "title": "資安體重水準重現？傳 CrowdStrike 陳購 Zscaler",
           "url": "https://infosecu.technews.tw/2026/11/23/crowdstrike-in-talks-to-acquire-zscaler/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
+      "summary": [
+        "自由時報：烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
+        "ETtoday：爆炸瞬間曝！俄軍艦「遭無人艇夜襲」擊沉　戰火燒到地中海"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
+          "url": "https://news.ltn.com.tw/news/def/breakingnews/5650223"
+        },
+        {
+          "source": "ETtoday",
+          "title": "爆炸瞬間曝！俄軍艦「遭無人艇夜襲」擊沉　戰火燒到地中海",
+          "url": "https://www.ettoday.net/news/20261123/3276759.htm"
         }
       ]
     },
@@ -304,27 +298,6 @@
     },
     {
       "rank": 3,
-      "title": "達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
-      "summary": [
-        "Financial Times：達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
-        "Investing.com：達美航空航班因自動化系統問題在亞特蘭大機場遭遇短暫延誤"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
-          "url": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Investing.com",
-          "title": "達美航空航班因自動化系統問題在亞特蘭大機場遭遇短暫延誤",
-          "url": "https://www.investing.com/news/stock-market-news/delta-flights-faced-brief-delays-atatlanta-airport-over-automated-system-issue-5044102"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "由於歐盟和其他國家拒絕達成協議，COP31氣候談判將破裂",
       "summary": [
         "Nikkei Asia：由於歐盟和其他國家拒絕達成協議，COP31氣候談判將破裂",
@@ -345,7 +318,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "眾議院民主黨人將在本世紀以最大多陣列成新國會",
       "summary": [
         "Financial Times：眾議院民主黨人將在本世紀以最大多陣列成新國會",
@@ -366,7 +339,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
       "summary": [
         "Bloomberg Markets：銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
@@ -387,7 +360,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
       "summary": [
         "Bloomberg Markets：塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
@@ -408,7 +381,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "如何在人工智慧貿易瓦解之際尋找價值",
       "summary": [
         "Bloomberg Tech：如何在人工智慧貿易瓦解之際尋找價值",
@@ -429,7 +402,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "為什麼Infragreen股票今天會激增？",
       "summary": [
         "Investing.com：為什麼Infragreen股票今天會激增？"
@@ -444,7 +417,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "黃樂親屬及商業夥伴與中國軍工承包商有廣泛聯絡- 紐約時報中文網",
       "summary": [
         "紐約時報中文：黃樂親屬及商業夥伴與中國軍工承包商有廣泛聯絡- 紐約時報中文網"
@@ -455,6 +428,21 @@
           "source": "紐約時報中文",
           "title": "黃樂親屬及商業夥伴與中國軍工承包商有廣泛聯絡- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeVZmaUJTZm9KdXhTWWRXOUw3UFBha19fX1ppTF9kVDZmLUxfSnE5T2RuamxhRFRFOURXYTEza3hReHBIZHkxcTZoY2xneXBPRkNiTGdraGtNVnZJSjJPQ2RPREhVUjJ0TF9qbFhhdkVsWjBKNWU4TlhXWGtxVUsyR0dFZkUzZG5wTXc?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "英偉達危機擠壓東南亞後，川普對中國的人工智慧晶片打壓",
+      "summary": [
+        "Bloomberg Tech：英偉達危機擠壓東南亞後，川普對中國的人工智慧晶片打壓"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "英偉達危機擠壓東南亞後，川普對中國的人工智慧晶片打壓",
+          "url": "https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia"
         }
       ]
     }
