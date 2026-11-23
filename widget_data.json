@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 02:27",
+  "updated_at": "2026-11-24 03:01",
   "taiwan": [
     {
       "rank": 1,
@@ -56,6 +56,27 @@
     },
     {
       "rank": 3,
+      "title": "歐洲推動主權雲端漸具成效　美國超大規模雲端服務商仍主導市場",
+      "summary": [
+        "經濟日報：歐洲推動主權雲端漸具成效　美國超大規模雲端服務商仍主導市場",
+        "科技新報：歐洲推動主權雲端漸具成效，美國超大規模雲端服務商仍主導市場"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "歐洲推動主權雲端漸具成效　美國超大規模雲端服務商仍主導市場",
+          "url": "https://money.udn.com/money/story/5599/9896666"
+        },
+        {
+          "source": "科技新報",
+          "title": "歐洲推動主權雲端漸具成效，美國超大規模雲端服務商仍主導市場",
+          "url": "https://infosecu.technews.tw/2026/11/23/europe-push-for-digital-sovereignty-in-cloud-computing-gains-momentum/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
       "summary": [
         "ETtoday：快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
@@ -76,7 +97,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Toyz神預言黃仁勳回鍋輝達！「大膽預測」8天後成真",
       "summary": [
         "ETtoday：Toyz神預言黃仁勳回鍋輝達！「大膽預測」8天後成真",
@@ -97,70 +118,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "苗栗縣長決戰關頭 陳品安、鍾東錦25日晚拚場",
-      "summary": [
-        "自由時報：苗栗縣長決戰關頭 陳品安、鍾東錦25日晚拚場",
-        "TVBS新聞：影音／賴清德本命區迎大戰！陳亭妃拚陸戰 謝龍介夜襲掀政黨輪替"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "苗栗縣長決戰關頭 陳品安、鍾東錦25日晚拚場",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5650537"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "影音／賴清德本命區迎大戰！陳亭妃拚陸戰 謝龍介夜襲掀政黨輪替",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HcUpST2VkeUxXTWk1bkROY3hCVHh6QU1jQjhHd1VmSHVoWVUwcEFHYXVXaUVReHVCWFh1SlhvNVBVMFFsN2I0aVJXY2lTMEJIN3hF?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 6,
-      "title": "川普迷因幣晚宴大退燒，規模與價值雙雙暴跌",
-      "summary": [
-        "科技新報：川普迷因幣晚宴大退燒，規模與價值雙雙暴跌",
-        "經濟日報：川普出席迷因幣持有者晚宴 幣價已較峰值暴跌98%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "川普迷因幣晚宴大退燒，規模與價值雙雙暴跌",
-          "url": "https://finance.technews.tw/2026/11/23/trump-hosts-gala-for-meme-coin-investors-as-his-token-plunges-to-record-lows/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普出席迷因幣持有者晚宴 幣價已較峰值暴跌98%",
-          "url": "https://money.udn.com/money/story/5599/9896634"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "川普再次力挺黃仁勳　籲輝達董事會重新聘回任執行長",
-      "summary": [
-        "經濟日報：川普再次力挺黃仁勳　籲輝達董事會重新聘回任執行長",
-        "科技新報：川普再次力挺黃仁勳，籲輝達董事會重新聘回任執行長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普再次力挺黃仁勳　籲輝達董事會重新聘回任執行長",
-          "url": "https://money.udn.com/money/story/5599/9896367"
-        },
-        {
-          "source": "科技新報",
-          "title": "川普再次力挺黃仁勳，籲輝達董事會重新聘回任執行長",
-          "url": "https://finance.technews.tw/2026/11/23/trump-again-urges-nvidia-board-to-bring-back-jensen/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "岡山國小教師霸凌案校長遭解職 教師工會召退休教師陳抗",
       "summary": [
         "公視新聞：岡山國小教師霸凌案校長遭解職 教師工會召退休教師陳抗",
@@ -181,7 +139,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "英國演唱會驚傳不明物質釋放 逾1.2萬人緊急疏散",
       "summary": [
         "自由時報：英國演唱會驚傳不明物質釋放 逾1.2萬人緊急疏散",
@@ -202,7 +160,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "排雲山莊國旗險被換洋流旗 沈伯洋回應了",
       "summary": [
         "自由時報：排雲山莊國旗險被換洋流旗 沈伯洋回應了",
@@ -219,6 +177,48 @@
           "source": "今周刊",
           "title": "排雲山莊國旗差點被換成洋流旗，玉管處揭山友當下想法！沈伯洋：放國旗的地方就放國旗，這樣比較好",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZE9kczRzcFhjS0xKQ04tSHFVbXM0NEczX3RnZF9mSkRhVHp0cUk4TjdzbzlzZ29NRjhESDJXU0pESDhMSFFwa0RwWng5R0l6aWRkclpWRVZRYVJBdWhVWVpnTVM1OHFOZWtlejhEY2VBbUx2WVdHbHctdzFaamc3TA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "死訊瞞1年！「蕭家牛雜湯」創辦人辭世　兒扛不孝罵名曝父遺願",
+      "summary": [
+        "ETtoday：死訊瞞1年！「蕭家牛雜湯」創辦人辭世　兒扛不孝罵名曝父遺願",
+        "自由時報：臺北40年「蕭家牛雜湯」老闆逝世！ 兒瞞死訊1年多揭父親臨終「封口令」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "死訊瞞1年！「蕭家牛雜湯」創辦人辭世　兒扛不孝罵名曝父遺願",
+          "url": "https://www.ettoday.net/news/20261123/3277036.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "臺北40年「蕭家牛雜湯」老闆逝世！ 兒瞞死訊1年多揭父親臨終「封口令」",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5650653"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "華邦電攜手成大成立共同研發中心，每年千萬元聚焦前瞻技術研發及人才培育",
+      "summary": [
+        "科技新報：華邦電攜手成大成立共同研發中心，每年千萬元聚焦前瞻技術研發及人才培育",
+        "自由時報：華邦電攜手成大成立共同研發中心 聚焦AI等前瞻技術研發及人才培育"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "華邦電攜手成大成立共同研發中心，每年千萬元聚焦前瞻技術研發及人才培育",
+          "url": "https://technews.tw/2026/11/23/winbond-partners-with-ncku-to-establish-joint-rd-center/"
+        },
+        {
+          "source": "自由時報",
+          "title": "華邦電攜手成大成立共同研發中心 聚焦AI等前瞻技術研發及人才培育",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5650949"
         }
       ]
     }
@@ -364,6 +364,33 @@
     },
     {
       "rank": 5,
+      "title": "據稱亞馬遜將斥資 75 億美元收購人工智慧新創公司 Decart 的技術",
+      "summary": [
+        "Bloomberg Tech：據稱亞馬遜將斥資 75 億美元收購人工智慧新創公司 Decart 的技術",
+        "TechCrunch：亞馬遜以 7.5B 美元收購 Decart 的人工智慧最佳化技術，準備銷售 Trainium 晶片",
+        "CNBC：亞馬遜將收購人工智慧新創公司Decart的晶片軟體並聘請創辦人"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "據稱亞馬遜將斥資 75 億美元收購人工智慧新創公司 Decart 的技術",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "亞馬遜以 7.5B 美元收購 Decart 的人工智慧最佳化技術，準備銷售 Trainium 晶片",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+        },
+        {
+          "source": "CNBC",
+          "title": "亞馬遜將收購人工智慧新創公司Decart的晶片軟體並聘請創辦人",
+          "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "董事會恢復黃仁勳擔任執行長，英偉達股價飆漲 30%，晶片股上漲",
       "summary": [
         "Yahoo Finance：董事會恢復黃仁勳擔任執行長，英偉達股價飆漲 30%，晶片股上漲",
@@ -384,7 +411,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
       "summary": [
         "NHK新聞：「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
@@ -405,7 +432,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "英偉達董事會不考慮恢復黃仁勳的CEO職位",
       "summary": [
         "FT中文網：英偉達董事會不考慮恢復黃仁勳的CEO職位",
@@ -426,7 +453,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
       "summary": [
         "Investing.com：CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
@@ -447,7 +474,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "歐盟對可口可樂裝瓶商發起反壟斷調查",
       "summary": [
         "Financial Times：歐盟對可口可樂裝瓶商發起反壟斷調查",
@@ -464,27 +491,6 @@
           "source": "Bloomberg Markets",
           "title": "可口可樂裝瓶商因濫用市場力量而受到歐盟調查",
           "url": "https://www.bloomberg.com/news/articles/2026-11-23/coca-cola-bottler-hit-by-eu-probe-into-abuse-of-market-power"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "由於各國未能就氣候協議達成一致，COP31談判破裂",
-      "summary": [
-        "Washington Post：由於各國未能就氣候協議達成一致，COP31談判破裂",
-        "Ars Technica：由於各國在化石燃料、氣候融資議題上存在分歧，COP31以失敗告終"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "由於各國未能就氣候協議達成一致，COP31談判破裂",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOFNSZF85SVFvQ3FoZEU2b0J3endVM3lvRGZ6eWwyVTdSTGFFa3kwdVJTMmhDZ0dLRzBMdDZhV1hkVVB2MVY5YjJKVEJxeTF0ZTUtTnN5TEN5LWJxeUV2anBXajRISnNnb2gxeDA5SUtZdU9BWU9PSV9Va2szNTh2NEpjWkJBRS1nazZEamhORWtDczktd3RhVS1fMENQWEQtTTk2X2pxVW1wVVU0NmhpQktweC1uMDVYWnVUeEIzcm9LNDJl?oc=5"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "由於各國在化石燃料、氣候融資議題上存在分歧，COP31以失敗告終",
-          "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/"
         }
       ]
     }
