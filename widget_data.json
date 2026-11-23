@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 18:27",
+  "updated_at": "2026-11-23 18:56",
   "taiwan": [
     {
       "rank": 1,
@@ -57,6 +57,27 @@
     },
     {
       "rank": 3,
+      "title": "《美債》美股重挫引發避險潮 殖利率跌破5%-新聞內容-基金",
+      "summary": [
+        "MoneyDJ理財網：《美債》美股重挫引發避險潮 殖利率跌破5%-新聞內容-基金",
+        "科技新報：美股資金風向變了  砍成長股、價值股迎輪動行情"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "《美債》美股重挫引發避險潮 殖利率跌破5%-新聞內容-基金",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTU1IQ0g1UXQ3Q01idXRUUUkzX1ktQ0FNdFAtSDhiOUtJR2tqRDhPZXdKT041QzZjOTVyaG5GbXNPQUN0Q1NvRHpCRExoVHRpWE1mb2ZSMUtYUUt1VEhmOFlGQ0QtLThNN1hYd3QtbjhPc1VuRV8zc2Y5SXRPa1JMNW1FM2ppNXNKd2NCa3M4RHI?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "美股資金風向變了  砍成長股、價值股迎輪動行情",
+          "url": "https://finance.technews.tw/2026/11/23/value-stocks-emerge-as-the-new-focus-of-us-equity-investors/"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "北士科建案昨火災 業主發聲了",
       "summary": [
         "自由時報：北士科建案昨火災 業主發聲了",
@@ -73,27 +94,6 @@
           "source": "公開資訊觀測站重訊",
           "title": "北士科建案昨火災 業主發聲了",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pbnhVYnV6VWx1Um44Z0pWNEo2bmI2UVdGZnBnc3kxb2ZfVmtvYktJWkZLWFowZXN4dXNTOU5LRmdsM2pEYnJaaEJfaG4yOXo2dXM1cjFYZVE?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "鋒面要來了！　雨連下3天",
-      "summary": [
-        "ETtoday：鋒面要來了！　雨連下3天",
-        "自由時報：明起3天降溫有雨！吳德榮曝「週末天氣」：強冷空氣再等等"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "鋒面要來了！　雨連下3天",
-          "url": "https://www.ettoday.net/news/20261123/3276705.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "明起3天降溫有雨！吳德榮曝「週末天氣」：強冷空氣再等等",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5650094"
         }
       ]
     },
@@ -162,6 +162,27 @@
     },
     {
       "rank": 8,
+      "title": "東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
+      "summary": [
+        "iThome：東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
+        "科技新報：Amazon 揭露：中國駭客出動自主 AI 代理，僅 11 分鐘挖出零時差漏洞攻陷大學伺服器"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
+          "url": "https://www.ithome.com.tw/news/180697"
+        },
+        {
+          "source": "科技新報",
+          "title": "Amazon 揭露：中國駭客出動自主 AI 代理，僅 11 分鐘挖出零時差漏洞攻陷大學伺服器",
+          "url": "https://infosecu.technews.tw/2026/11/23/chinese-hackers-leverage-ai-agents-launch-automated-attacks/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
       "summary": [
         "經濟日報：川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
@@ -182,44 +203,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將召開會議",
-      "summary": [
-        "ETtoday：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將召開會議",
-        "公視新聞：俄羅斯3飛彈墜落波蘭 遭控蓄意挑釁援烏軍演｜#公視新聞網 #Shorts ｜ 公視新聞 PNN"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將召開會議",
-          "url": "https://www.ettoday.net/news/20261123/3276702.htm"
-        },
-        {
-          "source": "公視新聞",
-          "title": "俄羅斯3飛彈墜落波蘭 遭控蓄意挑釁援烏軍演｜#公視新聞網 #Shorts ｜ 公視新聞 PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xTXBrTEdMckd4OFFtR01lVkRJNEJ0WUNqMTJSdDA5M1JodU5lSjFUVlN6MVZMaFNtbE0zYXJaUW5Wc3Z0ZU0wamk4aw?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "黃仁勳涉中國間諜風波　美情報首長證實調查黃樂與Megaspeed",
+      "title": "桌球》甜蜜復仇！臺灣U19男團直落三橫掃印度 今晚決戰中國拚隊史首金",
       "summary": [
-        "ETtoday：黃仁勳涉中國間諜風波　美情報首長證實調查黃樂與Megaspeed",
-        "科技新報：美國國家情報總監：正對與黃仁勳有染疑似中國間諜進行調查"
+        "自由時報：桌球》甜蜜復仇！臺灣U19男團直落三橫掃印度 今晚決戰中國拚隊史首金",
+        "ETtoday：中華U19世青男團橫掃印度　今晚對戰中國拚金牌"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "黃仁勳涉中國間諜風波　美情報首長證實調查黃樂與Megaspeed",
-          "url": "https://www.ettoday.net/news/20261123/3276701.htm"
+          "source": "自由時報",
+          "title": "桌球》甜蜜復仇！臺灣U19男團直落三橫掃印度 今晚決戰中國拚隊史首金",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5650021"
         },
         {
-          "source": "科技新報",
-          "title": "美國國家情報總監：正對與黃仁勳有染疑似中國間諜進行調查",
-          "url": "https://technews.tw/2026/11/23/us-probing-alleged-spy-tied-to-ex-nvidia-ceo/"
+          "source": "ETtoday",
+          "title": "中華U19世青男團橫掃印度　今晚對戰中國拚金牌",
+          "url": "https://sports.ettoday.net/news/3276750"
         }
       ]
     }
@@ -259,6 +259,27 @@
     },
     {
       "rank": 2,
+      "title": "CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
+      "summary": [
+        "Investing.com：CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
+        "Bloomberg Tech：CrowdStrike 與 Zscaler 達成 440 億美元網路安全交易"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
+          "url": "https://www.investing.com/news/stock-market-news/crowdstrike-weighs-zscaler-buyout-in-potential-265-billion-cyber-deal--bloomberg-5042662"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "CrowdStrike 與 Zscaler 達成 440 億美元網路安全交易",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "眾議院民主黨人將在本世紀以最大多陣列成新國會",
       "summary": [
         "Financial Times：眾議院民主黨人將在本世紀以最大多陣列成新國會",
@@ -279,7 +300,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
       "summary": [
         "Bloomberg Markets：銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
@@ -300,7 +321,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
       "summary": [
         "Bloomberg Markets：塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
@@ -321,7 +342,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "如何在人工智慧貿易瓦解之際尋找價值",
       "summary": [
         "Bloomberg Tech：如何在人工智慧貿易瓦解之際尋找價值",
@@ -342,7 +363,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
       "summary": [
         "NHK新聞：「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
@@ -363,7 +384,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "為什麼Infragreen股票今天會激增？",
       "summary": [
         "Investing.com：為什麼Infragreen股票今天會激增？"
@@ -378,7 +399,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "黃樂親屬及商業夥伴與中國軍工承包商有廣泛聯絡- 紐約時報中文網",
       "summary": [
         "紐約時報中文：黃樂親屬及商業夥伴與中國軍工承包商有廣泛聯絡- 紐約時報中文網"
@@ -393,32 +414,17 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退",
-      "summary": [
-        "法廣RFI：第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退",
-          "url": "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20261122-%E7%AC%AC31%E5%B1%86%E8%81%AF%E5%90%88%E5%9C%8B%E6%B0%A3%E5%80%99%E5%A4%A7%E6%9C%83%E4%BB%A5%E5%A4%B1%E6%95%97%E5%91%8A%E7%B5%82-%E6%AD%90%E7%9B%9F%E8%AA%AA%E6%B7%B1%E6%84%9F%E5%A4%B1%E6%9C%9B%EF%BC%8C%E6%B3%95%E5%9C%8B%E8%AA%AA%E6%96%B0%E5%8D%94%E8%AD%B0%E8%8D%89%E6%A1%88%E6%98%AF%E5%80%92%E9%80%80"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "英偉達醜聞爆發數年前，中國情報機構已將目光瞄準AI晶片",
+      "title": "為什麼彼得沃倫汽車公司的股票今天會下跌？",
       "summary": [
-        "紐約時報中文：英偉達醜聞爆發數年前，中國情報機構已將目光瞄準AI晶片"
+        "Investing.com：為什麼彼得沃倫汽車公司的股票今天會下跌？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "紐約時報中文",
-          "title": "英偉達醜聞爆發數年前，中國情報機構已將目光瞄準AI晶片",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNW1zT3F2VTFtNXdxYTFXa0p6MDZXeGFvY0N2cXpCSFg4bDBaamg1NFVTS0Z6WWlNbTBKYTlmaVNBSm1jbEdlM2dUQ1NUUGloWDdIRWdMSkZicWJhekdjSWFSajFGYmdpRFRQcjVEc0pJd1BTSldDTGl3UlVySDJxXzF6ZTk1RGloNE5MTw?oc=5"
+          "source": "Investing.com",
+          "title": "為什麼彼得沃倫汽車公司的股票今天會下跌？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-peter-warren-automotive-stock-sliding-today-93CH-5044259"
         }
       ]
     }
