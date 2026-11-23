@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 03:28",
+  "updated_at": "2026-11-24 03:58",
   "taiwan": [
     {
       "rank": 1,
@@ -146,27 +146,6 @@
     },
     {
       "rank": 7,
-      "title": "檢抗告成功！苗栗議員候選人涉賄選 50萬交保改羈押禁見",
-      "summary": [
-        "自由時報：檢抗告成功！苗栗議員候選人涉賄選 50萬交保改羈押禁見",
-        "ETtoday：逆轉！苗栗縣議員溫俊勇涉現金賄選50萬交保　今當庭羈押"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "檢抗告成功！苗栗議員候選人涉賄選 50萬交保改羈押禁見",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5650579"
-        },
-        {
-          "source": "ETtoday",
-          "title": "逆轉！苗栗縣議員溫俊勇涉現金賄選50萬交保　今當庭羈押",
-          "url": "https://www.ettoday.net/news/20261123/3277142.htm"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "南韓政府內閣大改組！撤外交、內政5大要職　有望出首位女情報首長",
       "summary": [
         "ETtoday：南韓政府內閣大改組！撤外交、內政5大要職　有望出首位女情報首長",
@@ -187,7 +166,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "明起全臺連下3天雨「週五起轉乾」 週三清晨下探16度",
       "summary": [
         "自由時報：明起全臺連下3天雨「週五起轉乾」 週三清晨下探16度",
@@ -208,7 +187,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "半導體擴廠面臨專業人才荒，Profet AI 助企業擴大專家量能",
       "summary": [
         "科技報橘：半導體擴廠面臨專業人才荒，Profet AI 助企業擴大專家量能",
@@ -225,6 +204,27 @@
           "source": "風傳媒",
           "title": "AI帶動半導體供應鏈擴張 「科技工程師」職缺增6成 | 馮建棨 | 新聞",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rRlk2MmVMRHl4WDZLaXVkbGV4dEtKOWxZRzlaN29HUmJUdFlTOXpUb3cyc3FIR0xPb1g2QUVXNk9ybi1Cc2hLWGFnT3c0QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美連鎖披薩市場退燒瘦瘦針也是衝擊原因- 新聞",
+      "summary": [
+        "MoneyDJ理財網：美連鎖披薩市場退燒瘦瘦針也是衝擊原因- 新聞",
+        "商業周刊：美連鎖披薩市場退燒！瘦瘦針也是衝擊原因"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "美連鎖披薩市場退燒瘦瘦針也是衝擊原因- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3Y0ay1hT3Vja2RmVm1oY3JtWXA5WFBndWNqWnF0dWxxVnJNcTJzb0tzb3lka2lfVDlnazVEZmhwMTdoakE4U0NDVUFOZU9FaXFTYWlhUm9mbG85WXlLME5MakR1Uk5oN21XcHpTVzRrTG1vRFMzcEViMDVRRjRHTFgzelc4d1FVV2FKVXo3elU1dw?oc=5"
+        },
+        {
+          "source": "商業周刊",
+          "title": "美連鎖披薩市場退燒！瘦瘦針也是衝擊原因",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZYnFiV2hZZnBZcFlFTUdZRFFlLS1SWWs0UnlIa3FVLVBvd1lTQ3JBc2lqcEtCTmVJVmNrVVVsVGJ3akx1OTZWNHZQRnM4OTAwUGFhMVdrMnotN1ozM3RRMDBTdTJzQS1FTEZiQg?oc=5"
         }
       ]
     }
