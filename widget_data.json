@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:55",
+  "updated_at": "2026-11-23 12:26",
   "taiwan": [
     {
       "rank": 1,
@@ -105,27 +105,6 @@
     },
     {
       "rank": 5,
-      "title": "李四川鶯歌、三峽車掃 侯友宜擔任麥克風手力挺交棒",
-      "summary": [
-        "自由時報：李四川鶯歌、三峽車掃 侯友宜擔任麥克風手力挺交棒",
-        "經濟日報：貝森特：黃仁勳能否重返輝達視責任歸屬...再點名臺灣晶片集中風險"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "李四川鶯歌、三峽車掃 侯友宜擔任麥克風手力挺交棒",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649994"
-        },
-        {
-          "source": "經濟日報",
-          "title": "貝森特：黃仁勳能否重返輝達視責任歸屬...再點名臺灣晶片集中風險",
-          "url": "https://money.udn.com/money/story/5599/9895342"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "COP31 氣候談判 破局",
       "summary": [
         "經濟日報：COP31 氣候談判 破局",
@@ -142,6 +121,27 @@
           "source": "自由時報",
           "title": "史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5650019"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "資安重磅再現再現？傳CrowdStrike洽購Zscaler-新聞內容-基金",
+      "summary": [
+        "MoneyDJ理財網：資安重磅再現再現？傳CrowdStrike洽購Zscaler-新聞內容-基金",
+        "科技新報：資安體重水準重現？傳 CrowdStrike 陳購 Zscaler"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "資安重磅再現再現？傳CrowdStrike洽購Zscaler-新聞內容-基金",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc0N5NVc2ZjBKX1B1cDl1Umg2d1RaUmN6MFFHSVEyaDVPaGtreUJXclZVeWNzZmpYYXZ5UWxnc1EtT3BESGpGN1pZM05ndjRJWDFudWtjME5CU1htMkFyODhEZHR4SGRiSEcwVHczSGdJbExVeXFRY0FuMUZnWHBBeWVsREFsOFFlUzJNTTV0b3g?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "資安體重水準重現？傳 CrowdStrike 陳購 Zscaler",
+          "url": "https://infosecu.technews.tw/2026/11/23/crowdstrike-in-talks-to-acquire-zscaler/"
         }
       ]
     },
@@ -168,27 +168,6 @@
     },
     {
       "rank": 8,
-      "title": "北士科工地頂樓火警  北市請求新北消防支援火勢撲滅",
-      "summary": [
-        "自由時報：北士科工地頂樓火警  北市請求新北消防支援火勢撲滅",
-        "TVBS新聞：快訊／北士科新建案頂樓火警 強風吹18樓火勢猛烈"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "北士科工地頂樓火警  北市請求新北消防支援火勢撲滅",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5650011"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "快訊／北士科新建案頂樓火警 強風吹18樓火勢猛烈",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vZWVXeFpvdDhJOU1qc1cxLVNwMGI2T3VuRWVVeFZKak9ZR2Y5Y1NRbl9CN25WOWxScllETTJibzVYWlhmZ01OcmhnS0hldnM?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "逆轉！臺中清潔隊代理隊長貪汙油錢4925元 二審改判背信原因曝",
       "summary": [
         "自由時報：逆轉！臺中清潔隊代理隊長貪汙油錢4925元 二審改判背信原因曝",
@@ -209,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "星座理財／巨蟹天秤雙魚靜觀其變摩羯事業運佳- 樂活",
       "summary": [
         "工商時報：星座理財／巨蟹天秤雙魚靜觀其變摩羯事業運佳- 樂活",
@@ -226,6 +205,27 @@
           "source": "ETtoday",
           "title": "唐綺陽運勢／金牛、天蠍職場有貴人相助！巨蟹感情「隨緣反而順利」",
           "url": "https://star.ettoday.net/news/3276517"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普：若舒默出任參院多數黨領袖　合作將有困難",
+      "summary": [
+        "經濟日報：川普：若舒默出任參院多數黨領袖　合作將有困難",
+        "自由時報：川普：若舒默出任參院多數黨領袖　合作將有困難"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普：若舒默出任參院多數黨領袖　合作將有困難",
+          "url": "https://money.udn.com/money/story/5599/9895400"
+        },
+        {
+          "source": "自由時報",
+          "title": "川普：若舒默出任參院多數黨領袖　合作將有困難",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650016"
         }
       ]
     }
@@ -329,6 +329,27 @@
     },
     {
       "rank": 5,
+      "title": "高盛交易員看到美國股市的切入點，但警告風險",
+      "summary": [
+        "Bloomberg Markets：高盛交易員看到美國股市的切入點，但警告風險",
+        "Yahoo Finance：高盛交易員看到美國股市的切入點，但警告風險"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "高盛交易員看到美國股市的切入點，但警告風險",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "高盛交易員看到美國股市的切入點，但警告風險",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHV3bFNSZmFVVVpJdUhyUUx4UzVhdTVZNVVWUUE1RlBsWDBWMlFGcGlmSzljOHB1SHNkcTUtaG9oZFVkSS1UejEwQk5VdUJzVkpLdlpLcmVvbVhRaHFWbkVOUVhNMmljUmN1NU84cUZvcGZjbHRCT1NoMDFKYzNOZTUwbHBlV2ZHNzRSeGpOUjFQOFBKbXhsbkt0Rkw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "眾議院民主黨人將在本世紀以最大多陣列成新國會",
       "summary": [
         "Financial Times：眾議院民主黨人將在本世紀以最大多陣列成新國會",
@@ -349,7 +370,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "美國期貨反彈，亞洲市場準備迎接人工智慧的毀滅",
       "summary": [
         "Yahoo Finance：美國期貨反彈，亞洲市場準備迎接人工智慧的毀滅",
@@ -370,7 +391,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
       "summary": [
         "Bloomberg Markets：銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
@@ -391,7 +412,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
       "summary": [
         "Bloomberg Markets：塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
@@ -412,7 +433,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "[地震新聞]熊本縣地震強度3級，不用擔心海嘯",
       "summary": [
         "NHK新聞：[地震新聞]熊本縣地震強度3級，不用擔心海嘯"
@@ -423,21 +444,6 @@
           "source": "NHK新聞",
           "title": "[地震新聞]熊本縣地震強度3級，不用擔心海嘯",
           "url": "https://news.web.nhk/newsweb/na/nd-20261122de80074"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退",
-      "summary": [
-        "法廣RFI：第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退",
-          "url": "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20261122-%E7%AC%AC31%E5%B1%86%E8%81%AF%E5%90%88%E5%9C%8B%E6%B0%A3%E5%80%99%E5%A4%A7%E6%9C%83%E4%BB%A5%E5%A4%B1%E6%95%97%E5%91%8A%E7%B5%82-%E6%AD%90%E7%9B%9F%E8%AA%AA%E6%B7%B1%E6%84%9F%E5%A4%B1%E6%9C%9B%EF%BC%8C%E6%B3%95%E5%9C%8B%E8%AA%AA%E6%96%B0%E5%8D%94%E8%AD%B0%E8%8D%89%E6%A1%88%E6%98%AF%E5%80%92%E9%80%80"
         }
       ]
     }
