@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 19:58",
+  "updated_at": "2026-11-23 20:27",
   "taiwan": [
     {
       "rank": 1,
@@ -30,27 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "北士科建案昨火災 業主發聲了",
-      "summary": [
-        "自由時報：北士科建案昨火災 業主發聲了",
-        "公開資訊觀測站重訊：北士科建案昨火災 業主發聲了"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "北士科建案昨火災 業主發聲了",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5650048"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "北士科建案昨火災 業主發聲了",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pbnhVYnV6VWx1Um44Z0pWNEo2bmI2UVdGZnBnc3kxb2ZfVmtvYktJWkZLWFowZXN4dXNTOU5LRmdsM2pEYnJaaEJfaG4yOXo2dXM1cjFYZVE?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
       "summary": [
         "自由時報：烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
@@ -71,7 +50,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
       "summary": [
         "iThome：東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
@@ -92,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
       "summary": [
         "經濟日報：川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
@@ -113,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "日月光投控：矽品精密工業11/12~23向聖暉*取得廠務工程，計約14.32億元",
       "summary": [
         "公開資訊觀測站重訊：日月光投控：矽品精密工業11/12~23向聖暉*取得廠務工程，計約14.32億元",
@@ -134,86 +113,107 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "臺股重挫還能救？謝金河曝「1反轉契機」：恐慌往往帶來機會",
+      "rank": 6,
+      "title": "創本世紀最大多數！民主黨眾院狂掃258席 剩4選區勝負未定",
       "summary": [
-        "自由時報：臺股重挫還能救？謝金河曝「1反轉契機」：恐慌往往帶來機會",
-        "財訊：謝金河：恐懼經常醞釀轉折！臺股重挫引爆恐慌 危機入市機會來了？"
+        "自由時報：創本世紀最大多數！民主黨眾院狂掃258席 剩4選區勝負未定",
+        "經濟日報：美民主黨眾院狂掃258席　寫30多年來最大多數"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "臺股重挫還能救？謝金河曝「1反轉契機」：恐慌往往帶來機會",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5650053"
+          "title": "創本世紀最大多數！民主黨眾院狂掃258席 剩4選區勝負未定",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650058"
         },
         {
-          "source": "財訊",
-          "title": "謝金河：恐懼經常醞釀轉折！臺股重挫引爆恐慌 危機入市機會來了？",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WeHNPOUhSc3JDYXdOQ0Y5dVkzSXNFTXRqYnVUeU8xdzJ5SC1QNFhkazhTQkU1RVRGLUtVc1g5dlNNRWhETWV4MlRMLXRlbDJuWlJPZ1dYQUEtb29NV2hZTFJnRWRFTWhZXzdidWNXMkJHOUNZVWtzbnZIbw?oc=5"
+          "source": "經濟日報",
+          "title": "美民主黨眾院狂掃258席　寫30多年來最大多數",
+          "url": "https://money.udn.com/money/story/5599/9896429"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "資安體重水準重現？傳 CrowdStrike 陳購 Zscaler",
+      "summary": [
+        "科技新報：資安體重水準重現？傳 CrowdStrike 陳購 Zscaler",
+        "MoneyDJ理財網：資安重磅再現再現？傳CrowdStrike洽購Zscaler"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "資安體重水準重現？傳 CrowdStrike 陳購 Zscaler",
+          "url": "https://infosecu.technews.tw/2026/11/23/crowdstrike-in-talks-to-acquire-zscaler/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "資安重磅再現再現？傳CrowdStrike洽購Zscaler",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYWh6OTI5d2QyUjN3WGtWYmtjTEJReFlBUzBmY1FPX2FpYUM4LUZ5RnI4dlBDVXU4WEZMZUpMNy04ckJSNlhhZ1pDdGNyemk1M21XakRKSVpQVlhnMHcwYjZJNVFHQnM1Q1JwNTFYQ0hYMUFjaEJQdGhockptbkhpNGFiUGNBcXNLVE1VaFhHMDlGQQ?oc=5"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "傳軟銀曾想砸 1 兆美元買 SK 海力士  計畫已擱置",
+      "title": "風險資產賣壓減輕？比特幣止跌、站回 6 萬美元",
       "summary": [
-        "科技新報：傳軟銀曾想砸 1 兆美元買 SK 海力士  計畫已擱置",
-        "MoneyDJ理財網：傳軟銀曾想砸1兆美元買SK海力士計畫已擱置- 新聞"
+        "科技新報：風險資產賣壓減輕？比特幣止跌、站回 6 萬美元",
+        "MoneyDJ理財網：風險資產賣壓減輕？比特幣止跌、站回6萬美元- 新聞"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "科技新報",
-          "title": "傳軟銀曾想砸 1 兆美元買 SK 海力士  計畫已擱置",
-          "url": "https://technews.tw/2026/11/23/softbanks-masayoshi-son-explored-1-trillion-moonshot-buyout-of-sk-hynix/"
+          "title": "風險資產賣壓減輕？比特幣止跌、站回 6 萬美元",
+          "url": "https://finance.technews.tw/2026/11/23/risk-asset-selling-pressure-eases-bitcoin-halts-decline-reclaims-60000-usd/"
         },
         {
           "source": "MoneyDJ理財網",
-          "title": "傳軟銀曾想砸1兆美元買SK海力士計畫已擱置- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2dKa00wN1ZvTTZjclViMjc5ZEswOTA4cWtNaklLWmE4Q3BNRE1Nd1ExNDFPbU5EdzFqLXZ2Tnd0UnppUmozaFoyMlotS2tCRVB3UGQtRm9zNDMxYnZJNkZSaFFGcHdKMWFrWEwyN3R3Ml8tWm1WcE9nSDE4OFdDYlRWb1gxWXpNZzNkRHpMYWJydw?oc=5"
+          "title": "風險資產賣壓減輕？比特幣止跌、站回6萬美元- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbVFyNTNRenpVcmhRcUl0TXo3ejNWcXBqc0NseDl0c2NiV0g1MS1NSUZYaGxKeWtHZy0xSTZiU3RKSW54S0s4WE44RDYybHdNV3JoUUh0d0Z2QVZEMGtGVlBRbEhxY2tfV3F4ZW90bmxUa2gtRTl6QmVxWGJJdXo3TzFqYmlfSnNsSlY3TTlid3JCQQ?oc=5"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "美前國安顧問：輝達看似規避晶片管制　難說有法律風險",
+      "title": "輝達永續合約亞洲盤飆 8%  VIX 漲破 40 現落底訊號？",
       "summary": [
-        "經濟日報：美前國安顧問：輝達看似規避晶片管制　難說有法律風險",
-        "科技新報：美前國安顧問：輝達看似規避晶片管制，難說有法律風險"
+        "科技新報：輝達永續合約亞洲盤飆 8%  VIX 漲破 40 現落底訊號？",
+        "MoneyDJ理財網：輝達永續合約亞洲盤飆8% VIX漲破40現落底訊號？"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "美前國安顧問：輝達看似規避晶片管制　難說有法律風險",
-          "url": "https://money.udn.com/money/story/5599/9895515"
+          "source": "科技新報",
+          "title": "輝達永續合約亞洲盤飆 8%  VIX 漲破 40 現落底訊號？",
+          "url": "https://finance.technews.tw/2026/11/23/the-fear-gauge-hit-40/"
         },
         {
-          "source": "科技新報",
-          "title": "美前國安顧問：輝達看似規避晶片管制，難說有法律風險",
-          "url": "https://technews.tw/2026/11/23/former-us-national-security-advisor-nvidia-appears-skirt-chip-controls-legal-risks-uncertain/"
+          "source": "MoneyDJ理財網",
+          "title": "輝達永續合約亞洲盤飆8% VIX漲破40現落底訊號？",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0JKMXQ0Sk1Ebm9LLWhlMmI3aW1YMElEbGxJU0M0aFh0U3lpQmJhTW9SOHVvUzFPYjFBQ0ZYQXRfRjNlZ3ZtTVU0d05LQ0hSbHVfeldRRklRYVRLZkpZc3ZiNEpXclVKQkZTXzF2SDBkOXBnT3JYU0JJYm43b09ibnU0dDNsV3k5M0xfLU9KQk5OZw?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "岡山國小霸凌案再掀戰火！工會發聲挺解職校長當事教師反擊了- 生活",
+      "title": "美情報總監示警　系統汰舊換新恐釀更多科技當機",
       "summary": [
-        "工商時報：岡山國小霸凌案再掀戰火！工會發聲挺解職校長當事教師反擊了- 生活",
-        "自由時報：岡山國小職場霸凌爭議 高市中小學校長也發聲了"
+        "經濟日報：美情報總監示警　系統汰舊換新恐釀更多科技當機",
+        "科技新報：美情報總監示警，系統汰舊換新恐釀更多科技當機"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "工商時報",
-          "title": "岡山國小霸凌案再掀戰火！工會發聲挺解職校長當事教師反擊了- 生活",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Rb0t3TGRuZ2pMZVFJNzRudm5FM2RpWmthTTJETDJMOFNyb3BXMHdJVGRFcGZ6T3ZWY1huTXVzaVJVNGtSWVVSeVRDV2p4ODNSSHdhV1h4X1hpaU1mYVgw?oc=5"
+          "source": "經濟日報",
+          "title": "美情報總監示警　系統汰舊換新恐釀更多科技當機",
+          "url": "https://money.udn.com/money/story/5599/9895562"
         },
         {
-          "source": "自由時報",
-          "title": "岡山國小職場霸凌爭議 高市中小學校長也發聲了",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5650118"
+          "source": "科技新報",
+          "title": "美情報總監示警，系統汰舊換新恐釀更多科技當機",
+          "url": "https://infosecu.technews.tw/2026/11/23/us-intelligence-director-system-upgrades-tech-outages/"
         }
       ]
     }
@@ -221,6 +221,38 @@
   "global": [
     {
       "rank": 1,
+      "title": "CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
+      "summary": [
+        "Investing.com：CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
+        "Bloomberg Tech：CrowdStrike 與 Zscaler 達成 440 億美元網路安全交易",
+        "Financial Times：隨著網路威脅增強，CrowdStrike以440億美元收購Zscaler"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
+          "url": "https://www.investing.com/news/stock-market-news/crowdstrike-weighs-zscaler-buyout-in-potential-265-billion-cyber-deal--bloomberg-5042662"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "CrowdStrike 與 Zscaler 達成 440 億美元網路安全交易",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler"
+        },
+        {
+          "source": "Financial Times",
+          "title": "隨著網路威脅增強，CrowdStrike以440億美元收購Zscaler",
+          "url": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "隨著技術中斷蔓延，Crowdstrike 斥資 439 億美元透過一項大規模網路安全交易收購 ZScaler",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPa0MwNl9mNFFvX25LUERTZmpPSG5BY0tHRFpxRW1KTWRnTWpzNnUzemU3OG5kS2pYdlVIZ3F2UDczXzh3OWlkQWo5c1NSWnJDUFVrNWhYRXlXSkM2TW9VdUpiYkNqdkxqc1BqcU9ndTRDNHY5WE1JZzBDMEFkRnhDd0JLcFVUTXppeGFMTGkwUVRYMXp3bjlucm5VZUJNZTVhVDlHdW9Xd1dTSUQxbjBKbm80NnpXRVlabzYzcFpLd19YV3RvWTV1NnY5eExkaDhWT0s1OVJ6QVNrOHhjZTNGd1l3Rkx1QzFHU0hja2dobER4cXZa?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
       "summary": [
         "Investing.com：儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
@@ -252,49 +284,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
-      "summary": [
-        "Investing.com：CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
-        "Bloomberg Tech：CrowdStrike 與 Zscaler 達成 440 億美元網路安全交易"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
-          "url": "https://www.investing.com/news/stock-market-news/crowdstrike-weighs-zscaler-buyout-in-potential-265-billion-cyber-deal--bloomberg-5042662"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "CrowdStrike 與 Zscaler 達成 440 億美元網路安全交易",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler"
-        }
-      ]
-    },
-    {
       "rank": 3,
-      "title": "眾議院民主黨人將在本世紀以最大多陣列成新國會",
-      "summary": [
-        "Financial Times：眾議院民主黨人將在本世紀以最大多陣列成新國會",
-        "Washington Post：眾議院民主黨將以 21 世紀最多多數票開始下一屆國會"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "眾議院民主黨人將在本世紀以最大多陣列成新國會",
-          "url": "https://www.ft.com/content/9d2983a7-196d-4164-a0c1-e262f32fd8c9?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Washington Post",
-          "title": "眾議院民主黨將以 21 世紀最多多數票開始下一屆國會",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDFwYnhlcGdodzRLNmNMQXB4MFJkUXF0TUZMUk1Pa24yamNRUGNRWmxrc3MxRXN6bFdNWFRrR0JONnVxbVpJX0RhYzZBandZa3hIcXlNN0plN3lGYWM3NThPSEZhLXdfVUJ6VFVDS0EzQmFjRDhJVW9PVkl0NTFYRlhmTncxUktiMVl3WTJCQmhZMDNMTG0zaVJ2Rmw4ZU5jSVdvVkkzMllYU3BtZVNsbTg0UlcwWTVvZWMtaGI1cDlyT1ZtOFdZRTJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
       "summary": [
         "Bloomberg Markets：銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
@@ -315,7 +305,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
       "summary": [
         "Bloomberg Markets：塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
@@ -336,7 +326,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "救援人員稱，俄羅斯空襲烏克蘭後數小時，7 歲男孩從廢墟中被救出",
       "summary": [
         "BBC World：救援人員稱，俄羅斯空襲烏克蘭後數小時，7 歲男孩從廢墟中被救出",
@@ -357,7 +347,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "如何在人工智慧貿易瓦解之際尋找價值",
       "summary": [
         "Bloomberg Tech：如何在人工智慧貿易瓦解之際尋找價值",
@@ -378,7 +368,49 @@
       ]
     },
     {
+      "rank": 7,
+      "title": "COP31未能達成重大氣候協議，談判暴露出嚴重分歧",
+      "summary": [
+        "BBC中文：COP31未能達成重大氣候協議，談判暴露出嚴重分歧",
+        "Washington Post：由於各國未能就氣候協議達成一致，COP31談判破裂"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "COP31未能達成重大氣候協議，談判暴露出嚴重分歧",
+          "url": "https://www.bbc.com/zhongwen/articles/cm4gn2l17w5go/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Washington Post",
+          "title": "由於各國未能就氣候協議達成一致，COP31談判破裂",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOFNSZF85SVFvQ3FoZEU2b0J3endVM3lvRGZ6eWwyVTdSTGFFa3kwdVJTMmhDZ0dLRzBMdDZhV1hkVVB2MVY5YjJKVEJxeTF0ZTUtTnN5TEN5LWJxeUV2anBXajRISnNnb2gxeDA5SUtZdU9BWU9PSV9Va2szNTh2NEpjWkJBRS1nazZEamhORWtDczktd3RhVS1fMENQWEQtTTk2X2pxVW1wVVU0NmhpQktweC1uMDVYWnVUeEIzcm9LNDJl?oc=5"
+        }
+      ]
+    },
+    {
       "rank": 8,
+      "title": "「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
+      "summary": [
+        "NHK新聞：「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
+        "The Guardian：烏克蘭證實使用海軍無人機襲擊了利比亞附近的兩艘俄羅斯船隻"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261123de80209"
+        },
+        {
+          "source": "The Guardian",
+          "title": "烏克蘭證實使用海軍無人機襲擊了利比亞附近的兩艘俄羅斯船隻",
+          "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "烏克蘭在利比亞海岸擊沉俄羅斯軍艦",
       "summary": [
         "Financial Times：烏克蘭在利比亞海岸擊沉俄羅斯軍艦",
@@ -399,7 +431,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "歐盟對可口可樂裝瓶商發起反壟斷調查",
       "summary": [
         "Financial Times：歐盟對可口可樂裝瓶商發起反壟斷調查",
@@ -416,21 +448,6 @@
           "source": "Bloomberg Markets",
           "title": "可口可樂裝瓶商因濫用市場力量而受到歐盟調查",
           "url": "https://www.bloomberg.com/news/articles/2026-11-23/coca-cola-bottler-hit-by-eu-probe-into-abuse-of-market-power"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "為什麼Infragreen股票今天會激增？",
-      "summary": [
-        "Investing.com：為什麼Infragreen股票今天會激增？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "為什麼Infragreen股票今天會激增？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-infragreen-stock-surging-today-93CH-5044279"
         }
       ]
     }
