@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 00:30",
+  "updated_at": "2026-11-24 00:58",
   "taiwan": [
     {
       "rank": 1,
@@ -35,33 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "美連鎖披薩市場退燒  瘦瘦針也是衝擊原因",
-      "summary": [
-        "科技新報：美連鎖披薩市場退燒  瘦瘦針也是衝擊原因",
-        "MoneyDJ理財網：美連鎖披薩市場退燒瘦瘦針也是衝擊原因- 新聞",
-        "商業周刊：美連鎖披薩市場退燒！瘦瘦針也是衝擊原因"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "美連鎖披薩市場退燒  瘦瘦針也是衝擊原因",
-          "url": "https://finance.technews.tw/2026/11/23/us-pizza-chains-lose-their-appeal/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "美連鎖披薩市場退燒瘦瘦針也是衝擊原因- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3Y0ay1hT3Vja2RmVm1oY3JtWXA5WFBndWNqWnF0dWxxVnJNcTJzb0tzb3lka2lfVDlnazVEZmhwMTdoakE4U0NDVUFOZU9FaXFTYWlhUm9mbG85WXlLME5MakR1Uk5oN21XcHpTVzRrTG1vRFMzcEViMDVRRjRHTFgzelc4d1FVV2FKVXo3elU1dw?oc=5"
-        },
-        {
-          "source": "商業周刊",
-          "title": "美連鎖披薩市場退燒！瘦瘦針也是衝擊原因",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZYnFiV2hZZnBZcFlFTUdZRFFlLS1SWWs0UnlIa3FVLVBvd1lTQ3JBc2lqcEtCTmVJVmNrVVVsVGJ3akx1OTZWNHZQRnM4OTAwUGFhMVdrMnotN1ozM3RRMDBTdTJzQS1FTEZiQg?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "日月光投控：矽品精密工業11/12~23向聖暉*取得廠務工程，計約14.32億元",
       "summary": [
         "公開資訊觀測站重訊：日月光投控：矽品精密工業11/12~23向聖暉*取得廠務工程，計約14.32億元",
@@ -82,7 +55,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
       "summary": [
         "ETtoday：快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
@@ -103,49 +76,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Amazon 揭露：中國駭客出動自主 AI 代理，僅 11 分鐘挖出零時差漏洞攻陷大學伺服器",
-      "summary": [
-        "科技新報：Amazon 揭露：中國駭客出動自主 AI 代理，僅 11 分鐘挖出零時差漏洞攻陷大學伺服器",
-        "iThome：【資安日報】11月23日，東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "Amazon 揭露：中國駭客出動自主 AI 代理，僅 11 分鐘挖出零時差漏洞攻陷大學伺服器",
-          "url": "https://infosecu.technews.tw/2026/11/23/chinese-hackers-leverage-ai-agents-launch-automated-attacks/"
-        },
-        {
-          "source": "iThome",
-          "title": "【資安日報】11月23日，東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
-          "url": "https://www.ithome.com.tw/news/180718"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "AI 代理在 Amazon 兩樣情：購物網站封鎖第三方機器人，旗下 AWS 卻能用 AI 下單買軟體",
-      "summary": [
-        "數位時代：AI 代理在 Amazon 兩樣情：購物網站封鎖第三方機器人，旗下 AWS 卻能用 AI 下單買軟體",
-        "INSIDE硬塞：Amazon 禁止 AI 幫消費者購物，旗下 AWS 卻開放 AI 自己買軟體"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "數位時代",
-          "title": "AI 代理在 Amazon 兩樣情：購物網站封鎖第三方機器人，旗下 AWS 卻能用 AI 下單買軟體",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YcFR3ZTNxa1hMdC0ySG0tcXFCTERCcGEzSllBVklzSWJsNmNtcGd4dXdCNzZvSm4tUkJrQnRfNDRvZVEzejlJZlRwcFNjVGpuNjBXaw?oc=5"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "Amazon 禁止 AI 幫消費者購物，旗下 AWS 卻開放 AI 自己買軟體",
-          "url": "https://www.inside.com.tw/article/42977-amazon-aws-marketplace-ai-agent-shopping-x402-payments"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "title": "洋流支持者險換玉山國旗！　藍委痛批：沈伯洋還要放任脫序行為？",
       "summary": [
         "ETtoday：洋流支持者險換玉山國旗！　藍委痛批：沈伯洋還要放任脫序行為？",
@@ -166,7 +97,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "金馬慶功》陳澤耀激戰錯失影帝 開嗆劉冠廷：早知道把你鎖廁所",
       "summary": [
         "自由時報：金馬慶功》陳澤耀激戰錯失影帝 開嗆劉冠廷：早知道把你鎖廁所",
@@ -187,7 +118,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "《產業分析》PCB、電源、散熱 AI供應鏈去中化大贏家- 國際",
       "summary": [
         "工商時報：《產業分析》PCB、電源、散熱 AI供應鏈去中化大贏家- 國際",
@@ -208,7 +139,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "苗栗縣長決戰關頭 陳品安、鍾東錦25日晚拚場",
       "summary": [
         "自由時報：苗栗縣長決戰關頭 陳品安、鍾東錦25日晚拚場",
@@ -225,6 +156,69 @@
           "source": "TVBS新聞",
           "title": "影音／賴清德本命區迎大戰！陳亭妃拚陸戰 謝龍介夜襲掀政黨輪替",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HcUpST2VkeUxXTWk1bkROY3hCVHh6QU1jQjhHd1VmSHVoWVUwcEFHYXVXaUVReHVCWFh1SlhvNVBVMFFsN2I0aVJXY2lTMEJIN3hF?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "川普迷因幣晚宴大退燒，規模與價值雙雙暴跌",
+      "summary": [
+        "科技新報：川普迷因幣晚宴大退燒，規模與價值雙雙暴跌",
+        "經濟日報：川普出席迷因幣持有者晚宴 幣價已較峰值暴跌98%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "川普迷因幣晚宴大退燒，規模與價值雙雙暴跌",
+          "url": "https://finance.technews.tw/2026/11/23/trump-hosts-gala-for-meme-coin-investors-as-his-token-plunges-to-record-lows/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普出席迷因幣持有者晚宴 幣價已較峰值暴跌98%",
+          "url": "https://money.udn.com/money/story/5599/9896634"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普再次力挺黃仁勳　籲輝達董事會重新聘回任執行長",
+      "summary": [
+        "經濟日報：川普再次力挺黃仁勳　籲輝達董事會重新聘回任執行長",
+        "科技新報：川普再次力挺黃仁勳，籲輝達董事會重新聘回任執行長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普再次力挺黃仁勳　籲輝達董事會重新聘回任執行長",
+          "url": "https://money.udn.com/money/story/5599/9896367"
+        },
+        {
+          "source": "科技新報",
+          "title": "川普再次力挺黃仁勳，籲輝達董事會重新聘回任執行長",
+          "url": "https://finance.technews.tw/2026/11/23/trump-again-urges-nvidia-board-to-bring-back-jensen/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "岡山國小教師霸凌案校長遭解職 教師工會召退休教師陳抗",
+      "summary": [
+        "公視新聞：岡山國小教師霸凌案校長遭解職 教師工會召退休教師陳抗",
+        "自由時報：高雄岡小校長解職引發工會陳抗 市府重申霸凌零容忍"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公視新聞",
+          "title": "岡山國小教師霸凌案校長遭解職 教師工會召退休教師陳抗",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MdXZMX2ZLNm5NejNxS1ROT1NNSWxraXZaVmZ5SndST09kdkEzM2tRTHRwQ290NjdITld0clhwbldTc1V3cGFwUGZBNW0zZTQ?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "高雄岡小校長解職引發工會陳抗 市府重申霸凌零容忍",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5650588"
         }
       ]
     }
