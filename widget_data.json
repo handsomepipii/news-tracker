@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 01:28",
+  "updated_at": "2026-11-24 01:58",
   "taiwan": [
     {
       "rank": 1,
@@ -98,27 +98,6 @@
     },
     {
       "rank": 5,
-      "title": "金馬慶功》陳澤耀激戰錯失影帝 開嗆劉冠廷：早知道把你鎖廁所",
-      "summary": [
-        "自由時報：金馬慶功》陳澤耀激戰錯失影帝 開嗆劉冠廷：早知道把你鎖廁所",
-        "中時新聞：金馬63》差點把新科影帝鎖廁所？陳澤耀曝與劉冠廷典禮爆笑插曲"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "金馬慶功》陳澤耀激戰錯失影帝 開嗆劉冠廷：早知道把你鎖廁所",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5650455"
-        },
-        {
-          "source": "中時新聞",
-          "title": "金馬63》差點把新科影帝鎖廁所？陳澤耀曝與劉冠廷典禮爆笑插曲",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zOXg1RHBZSEYyemxvUDJPeDUwRHoyb0RxQTEzZ0xGVVFvM0RHMkdQLWtwTmpDQlZZbWhGWDY5dUw1el9ERm5NN0ZRY09RWVFjUlVMMkJIZ250bVd6OWY1Z2dTZGxlcThUZDBoZDdn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "《產業分析》PCB、電源、散熱 AI供應鏈去中化大贏家- 國際",
       "summary": [
         "工商時報：《產業分析》PCB、電源、散熱 AI供應鏈去中化大贏家- 國際",
@@ -139,7 +118,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "苗栗縣長決戰關頭 陳品安、鍾東錦25日晚拚場",
       "summary": [
         "自由時報：苗栗縣長決戰關頭 陳品安、鍾東錦25日晚拚場",
@@ -160,7 +139,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "川普迷因幣晚宴大退燒，規模與價值雙雙暴跌",
       "summary": [
         "科技新報：川普迷因幣晚宴大退燒，規模與價值雙雙暴跌",
@@ -181,7 +160,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "川普再次力挺黃仁勳　籲輝達董事會重新聘回任執行長",
       "summary": [
         "經濟日報：川普再次力挺黃仁勳　籲輝達董事會重新聘回任執行長",
@@ -202,7 +181,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "岡山國小教師霸凌案校長遭解職 教師工會召退休教師陳抗",
       "summary": [
         "公視新聞：岡山國小教師霸凌案校長遭解職 教師工會召退休教師陳抗",
@@ -219,6 +198,27 @@
           "source": "自由時報",
           "title": "高雄岡小校長解職引發工會陳抗 市府重申霸凌零容忍",
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5650588"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "英國演唱會驚傳不明物質釋放 逾1.2萬人緊急疏散",
+      "summary": [
+        "自由時報：英國演唱會驚傳不明物質釋放 逾1.2萬人緊急疏散",
+        "經濟日報：英國演唱會傳不明物質釀多人不適　數千觀眾緊急疏散"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "英國演唱會驚傳不明物質釋放 逾1.2萬人緊急疏散",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650508"
+        },
+        {
+          "source": "經濟日報",
+          "title": "英國演唱會傳不明物質釀多人不適　數千觀眾緊急疏散",
+          "url": "https://money.udn.com/money/story/5599/9896810"
         }
       ]
     }
@@ -364,17 +364,17 @@
     },
     {
       "rank": 5,
-      "title": "由於人工智慧擔憂抵消了支援措施，亞洲股市下跌",
+      "title": "亞洲股市下跌 對人工智慧的擔憂超過了支援措施",
       "summary": [
-        "Bloomberg Markets：由於人工智慧擔憂抵消了支援措施，亞洲股市下跌",
+        "Bloomberg Markets：亞洲股市下跌 對人工智慧的擔憂超過了支援措施",
         "CNBC：隨著人工智慧低迷導致股市下跌，亞洲國家如何尋求支撐市場"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "由於人工智慧擔憂抵消了支援措施，亞洲股市下跌",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/asian-stocks-drop-as-ai-worries-offset-support-measures-video"
+          "title": "亞洲股市下跌 對人工智慧的擔憂超過了支援措施",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-23/the-china-show-11-23-2026-video"
         },
         {
           "source": "CNBC",
