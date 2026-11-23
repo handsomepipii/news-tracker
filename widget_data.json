@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-23 09:56",
+  "updated_at": "2026-11-23 10:25",
   "taiwan": [
     {
       "rank": 1,
+      "title": "陪李四川造勢遭民眾貼「安心貼紙」 侯友宜秒撕引網熱議",
+      "summary": [
+        "自由時報：陪李四川造勢遭民眾貼「安心貼紙」 侯友宜秒撕引網熱議",
+        "ETtoday：中興新村藏世界級生技大廠　南投辦論壇邀市民直擊正瀚總部",
+        "經濟日報：貝森特：黃仁勳能否重返輝達視責任歸屬...再點名臺灣晶片集中風險"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "陪李四川造勢遭民眾貼「安心貼紙」 侯友宜秒撕引網熱議",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649858"
+        },
+        {
+          "source": "ETtoday",
+          "title": "中興新村藏世界級生技大廠　南投辦論壇邀市民直擊正瀚總部",
+          "url": "https://www.ettoday.net/news/20261122/3276635.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "貝森特：黃仁勳能否重返輝達視責任歸屬...再點名臺灣晶片集中風險",
+          "url": "https://money.udn.com/money/story/5599/9895342"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
       "summary": [
         "自由時報：黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
@@ -29,7 +56,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
       "summary": [
         "自由時報：達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
@@ -56,7 +83,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
       "summary": [
         "自由時報：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
@@ -83,7 +110,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "COP31 氣候談判 破局",
       "summary": [
         "經濟日報：COP31 氣候談判 破局",
@@ -104,7 +131,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "北士科建案昨火災 業主發聲了",
       "summary": [
         "自由時報：北士科建案昨火災 業主發聲了",
@@ -121,27 +148,6 @@
           "source": "公開資訊觀測站重訊",
           "title": "北士科建案昨火災 業主發聲了",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pbnhVYnV6VWx1Um44Z0pWNEo2bmI2UVdGZnBnc3kxb2ZfVmtvYktJWkZLWFowZXN4dXNTOU5LRmdsM2pEYnJaaEJfaG4yOXo2dXM1cjFYZVE?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "屏東市長政見會 周佳琪：爭取1加1大於2的幸福",
-      "summary": [
-        "自由時報：屏東市長政見會 周佳琪：爭取1加1大於2的幸福",
-        "ETtoday：金馬獎／劉冠廷奪影帝…去年「本想回屏東賣豆花」陷低潮原因曝光"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "屏東市長政見會 周佳琪：爭取1加1大於2的幸福",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649891"
-        },
-        {
-          "source": "ETtoday",
-          "title": "金馬獎／劉冠廷奪影帝…去年「本想回屏東賣豆花」陷低潮原因曝光",
-          "url": "https://star.ettoday.net/news/3276696"
         }
       ]
     },
@@ -392,6 +398,27 @@
     },
     {
       "rank": 8,
+      "title": "銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
+      "summary": [
+        "Bloomberg Markets：銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
+        "Investing.com：銅價繼上週因人工智慧需求擔憂而下跌 9% 後上漲"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom"
+        },
+        {
+          "source": "Investing.com",
+          "title": "銅價繼上週因人工智慧需求擔憂而下跌 9% 後上漲",
+          "url": "https://www.investing.com/news/stock-market-news/copper-rises-after-last-weeks-9-drop-on-ai-demand-concerns-93CH-5044234"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "[地震新聞]熊本縣地震強度3級，不用擔心海嘯",
       "summary": [
         "NHK新聞：[地震新聞]熊本縣地震強度3級，不用擔心海嘯"
@@ -406,7 +433,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退",
       "summary": [
         "法廣RFI：第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退"
@@ -417,21 +444,6 @@
           "source": "法廣RFI",
           "title": "第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退",
           "url": "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20261122-%E7%AC%AC31%E5%B1%86%E8%81%AF%E5%90%88%E5%9C%8B%E6%B0%A3%E5%80%99%E5%A4%A7%E6%9C%83%E4%BB%A5%E5%A4%B1%E6%95%97%E5%91%8A%E7%B5%82-%E6%AD%90%E7%9B%9F%E8%AA%AA%E6%B7%B1%E6%84%9F%E5%A4%B1%E6%9C%9B%EF%BC%8C%E6%B3%95%E5%9C%8B%E8%AA%AA%E6%96%B0%E5%8D%94%E8%AD%B0%E8%8D%89%E6%A1%88%E6%98%AF%E5%80%92%E9%80%80"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "COP31氣候大會未能透過最終決議,歐盟及130多個國家要求加強氣候行動",
-      "summary": [
-        "德國之聲：COP31氣候大會未能透過最終決議,歐盟及130多個國家要求加強氣候行動"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "COP31氣候大會未能透過最終決議,歐盟及130多個國家要求加強氣候行動",
-          "url": "https://www.dw.com/zh/cop31气候大会未能通过最终决议-欧盟及130多个国家要求加强气候行动/a-80013909?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     }
