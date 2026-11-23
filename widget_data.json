@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-23 14:25",
+  "updated_at": "2026-11-23 14:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "COP31 氣候談判 破局",
-      "summary": [
-        "經濟日報：COP31 氣候談判 破局",
-        "自由時報：史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
-        "ETtoday：史上最久！COP31氣候峰會破局　「化石燃料」談不攏"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "COP31 氣候談判 破局",
-          "url": "https://money.udn.com/money/story/5599/9895195"
-        },
-        {
-          "source": "自由時報",
-          "title": "史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650019"
-        },
-        {
-          "source": "ETtoday",
-          "title": "史上最久！COP31氣候峰會破局　「化石燃料」談不攏",
-          "url": "https://www.ettoday.net/news/20261123/3276749.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
       "summary": [
         "自由時報：黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
       "summary": [
         "自由時報：達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
       "summary": [
         "自由時報：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
@@ -106,6 +79,33 @@
           "source": "ETtoday",
           "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將召開會議",
           "url": "https://www.ettoday.net/news/20261123/3276702.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
+      "summary": [
+        "自由時報：史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
+        "經濟日報：COP31氣候峰會破局　全球氣候外交機制面臨改革壓力",
+        "ETtoday：史上最久！COP31氣候峰會破局　「化石燃料」談不攏"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650019"
+        },
+        {
+          "source": "經濟日報",
+          "title": "COP31氣候峰會破局　全球氣候外交機制面臨改革壓力",
+          "url": "https://money.udn.com/money/story/5599/9895617"
+        },
+        {
+          "source": "ETtoday",
+          "title": "史上最久！COP31氣候峰會破局　「化石燃料」談不攏",
+          "url": "https://www.ettoday.net/news/20261123/3276749.htm"
         }
       ]
     },
@@ -277,33 +277,6 @@
     },
     {
       "rank": 2,
-      "title": "COP31未能達成重大氣候協議，談判暴露出深刻分歧",
-      "summary": [
-        "BBC World：COP31未能達成重大氣候協議，談判暴露出深刻分歧",
-        "Nikkei Asia：由於歐盟和其他國家拒絕達成協議，COP31氣候談判將破裂",
-        "BBC中文：COP31未能達成重大氣候協議，談判暴露出嚴重分歧"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "COP31未能達成重大氣候協議，談判暴露出深刻分歧",
-          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "由於歐盟和其他國家拒絕達成協議，COP31氣候談判將破裂",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM3FGTGRvcm5EV2daUWIzaEVJcHFIS0N0NkxsYVdBVENRVTBwMENsNWllQUZCYUU4UWx6bVZidF8wUDJyeUV6a1o1V3YxNEhHaTZlMlFZaGx6OUliaDlHSmh2NEVXaUUzdzlvWDNVdncwUHM2TWhwRXNxRkg4Rk82eEdETERJQVdyWGx4VUIyMVNoRVhVdUJTZnJhMllqUmdnRHpVTUQyTHNDcTFKZ0FpTFdLdG8zVmZfTzJwNWt0X3VnMG8?oc=5"
-        },
-        {
-          "source": "BBC中文",
-          "title": "COP31未能達成重大氣候協議，談判暴露出嚴重分歧",
-          "url": "https://www.bbc.com/zhongwen/articles/cm4gn2l17w5go/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "OpenAI首席科學家敦促產業限制人工智慧發展",
       "summary": [
         "Bloomberg Tech：OpenAI首席科學家敦促產業限制人工智慧發展",
@@ -330,7 +303,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "高盛交易員看到美國股市的切入點，但警告風險",
       "summary": [
         "Bloomberg Markets：高盛交易員看到美國股市的切入點，但警告風險",
@@ -351,7 +324,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
       "summary": [
         "Financial Times：達美航空航班延誤加劇了人們對美國航空旅行系統的擔憂",
@@ -368,6 +341,27 @@
           "source": "Investing.com",
           "title": "達美航空航班因自動化系統問題在亞特蘭大機場遭遇短暫延誤",
           "url": "https://www.investing.com/news/stock-market-news/delta-flights-faced-brief-delays-atatlanta-airport-over-automated-system-issue-5044102"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "由於歐盟和其他國家拒絕達成協議，COP31氣候談判將破裂",
+      "summary": [
+        "Nikkei Asia：由於歐盟和其他國家拒絕達成協議，COP31氣候談判將破裂",
+        "BBC中文：COP31未能達成重大氣候協議，談判暴露出嚴重分歧"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "由於歐盟和其他國家拒絕達成協議，COP31氣候談判將破裂",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM3FGTGRvcm5EV2daUWIzaEVJcHFIS0N0NkxsYVdBVENRVTBwMENsNWllQUZCYUU4UWx6bVZidF8wUDJyeUV6a1o1V3YxNEhHaTZlMlFZaGx6OUliaDlHSmh2NEVXaUUzdzlvWDNVdncwUHM2TWhwRXNxRkg4Rk82eEdETERJQVdyWGx4VUIyMVNoRVhVdUJTZnJhMllqUmdnRHpVTUQyTHNDcTFKZ0FpTFdLdG8zVmZfTzJwNWt0X3VnMG8?oc=5"
+        },
+        {
+          "source": "BBC中文",
+          "title": "COP31未能達成重大氣候協議，談判暴露出嚴重分歧",
+          "url": "https://www.bbc.com/zhongwen/articles/cm4gn2l17w5go/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
