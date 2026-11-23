@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-23 17:55",
+  "updated_at": "2026-11-23 18:27",
   "taiwan": [
     {
       "rank": 1,
-      "title": "史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
-      "summary": [
-        "自由時報：史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
-        "經濟日報：COP31氣候峰會破局　全球氣候外交機制面臨改革壓力",
-        "ETtoday：史上最久！COP31氣候峰會破局　「化石燃料」談不攏"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650019"
-        },
-        {
-          "source": "經濟日報",
-          "title": "COP31氣候峰會破局　全球氣候外交機制面臨改革壓力",
-          "url": "https://money.udn.com/money/story/5599/9895617"
-        },
-        {
-          "source": "ETtoday",
-          "title": "史上最久！COP31氣候峰會破局　「化石燃料」談不攏",
-          "url": "https://www.ettoday.net/news/20261123/3276749.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "臺股重挫謝金河喊「恐懼常醞釀轉折」：危機入市機會來了- 財經",
       "summary": [
         "中時新聞：臺股重挫謝金河喊「恐懼常醞釀轉折」：危機入市機會來了- 財經",
@@ -52,6 +25,33 @@
           "source": "財訊",
           "title": "謝金河：恐懼經常醞釀轉折！臺股重挫引爆恐慌 危機入市機會來了？",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WeHNPOUhSc3JDYXdOQ0Y5dVkzSXNFTXRqYnVUeU8xdzJ5SC1QNFhkazhTQkU1RVRGLUtVc1g5dlNNRWhETWV4MlRMLXRlbDJuWlJPZ1dYQUEtb29NV2hZTFJnRWRFTWhZXzdidWNXMkJHOUNZVWtzbnZIbw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "美連鎖披薩市場退燒  瘦瘦針也是衝擊原因",
+      "summary": [
+        "科技新報：美連鎖披薩市場退燒  瘦瘦針也是衝擊原因",
+        "MoneyDJ理財網：美連鎖披薩市場退燒瘦瘦針也是衝擊原因- 新聞",
+        "商業周刊：美連鎖披薩市場退燒！瘦瘦針也是衝擊原因"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "美連鎖披薩市場退燒  瘦瘦針也是衝擊原因",
+          "url": "https://finance.technews.tw/2026/11/23/us-pizza-chains-lose-their-appeal/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "美連鎖披薩市場退燒瘦瘦針也是衝擊原因- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3Y0ay1hT3Vja2RmVm1oY3JtWXA5WFBndWNqWnF0dWxxVnJNcTJzb0tzb3lka2lfVDlnazVEZmhwMTdoakE4U0NDVUFOZU9FaXFTYWlhUm9mbG85WXlLME5MakR1Uk5oN21XcHpTVzRrTG1vRFMzcEViMDVRRjRHTFgzelc4d1FVV2FKVXo3elU1dw?oc=5"
+        },
+        {
+          "source": "商業周刊",
+          "title": "美連鎖披薩市場退燒！瘦瘦針也是衝擊原因",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZYnFiV2hZZnBZcFlFTUdZRFFlLS1SWWs0UnlIa3FVLVBvd1lTQ3JBc2lqcEtCTmVJVmNrVVVsVGJ3akx1OTZWNHZQRnM4OTAwUGFhMVdrMnotN1ozM3RRMDBTdTJzQS1FTEZiQg?oc=5"
         }
       ]
     },
@@ -394,21 +394,6 @@
     },
     {
       "rank": 9,
-      "title": "英偉達危機擠壓東南亞後，川普對中國的人工智慧晶片打壓",
-      "summary": [
-        "Bloomberg Tech：英偉達危機擠壓東南亞後，川普對中國的人工智慧晶片打壓"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "英偉達危機擠壓東南亞後，川普對中國的人工智慧晶片打壓",
-          "url": "https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退",
       "summary": [
         "法廣RFI：第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退"
@@ -419,6 +404,21 @@
           "source": "法廣RFI",
           "title": "第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退",
           "url": "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20261122-%E7%AC%AC31%E5%B1%86%E8%81%AF%E5%90%88%E5%9C%8B%E6%B0%A3%E5%80%99%E5%A4%A7%E6%9C%83%E4%BB%A5%E5%A4%B1%E6%95%97%E5%91%8A%E7%B5%82-%E6%AD%90%E7%9B%9F%E8%AA%AA%E6%B7%B1%E6%84%9F%E5%A4%B1%E6%9C%9B%EF%BC%8C%E6%B3%95%E5%9C%8B%E8%AA%AA%E6%96%B0%E5%8D%94%E8%AD%B0%E8%8D%89%E6%A1%88%E6%98%AF%E5%80%92%E9%80%80"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "英偉達醜聞爆發數年前，中國情報機構已將目光瞄準AI晶片",
+      "summary": [
+        "紐約時報中文：英偉達醜聞爆發數年前，中國情報機構已將目光瞄準AI晶片"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "英偉達醜聞爆發數年前，中國情報機構已將目光瞄準AI晶片",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNW1zT3F2VTFtNXdxYTFXa0p6MDZXeGFvY0N2cXpCSFg4bDBaamg1NFVTS0Z6WWlNbTBKYTlmaVNBSm1jbEdlM2dUQ1NUUGloWDdIRWdMSkZicWJhekdjSWFSajFGYmdpRFRQcjVEc0pJd1BTSldDTGl3UlVySDJxXzF6ZTk1RGloNE5MTw?oc=5"
         }
       ]
     }
