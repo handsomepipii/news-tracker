@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 03:01",
+  "updated_at": "2026-11-24 03:28",
   "taiwan": [
     {
       "rank": 1,
@@ -35,6 +35,33 @@
     },
     {
       "rank": 2,
+      "title": "川普稱直接對輝達董事會發表談話 讓黃仁勳回歸",
+      "summary": [
+        "經濟日報：川普稱直接對輝達董事會發表談話 讓黃仁勳回歸",
+        "ETtoday：川普親曝直接聯絡輝達董事會！要求國安保證　力挺黃仁勳回鍋",
+        "自由時報：川普親自與輝達董事會溝通　促成黃仁勳回鍋"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普稱直接對輝達董事會發表談話 讓黃仁勳回歸",
+          "url": "https://money.udn.com/money/story/123398/9897476"
+        },
+        {
+          "source": "ETtoday",
+          "title": "川普親曝直接聯絡輝達董事會！要求國安保證　力挺黃仁勳回鍋",
+          "url": "https://www.ettoday.net/news/20261123/3277297.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "川普親自與輝達董事會溝通　促成黃仁勳回鍋",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5651126"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "日月光投控：矽品精密工業11/12~23向聖暉*取得廠務工程，計約14.32億元",
       "summary": [
         "公開資訊觀測站重訊：日月光投控：矽品精密工業11/12~23向聖暉*取得廠務工程，計約14.32億元",
@@ -55,7 +82,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "歐洲推動主權雲端漸具成效　美國超大規模雲端服務商仍主導市場",
       "summary": [
         "經濟日報：歐洲推動主權雲端漸具成效　美國超大規模雲端服務商仍主導市場",
@@ -76,7 +103,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
       "summary": [
         "ETtoday：快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
@@ -97,7 +124,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Toyz神預言黃仁勳回鍋輝達！「大膽預測」8天後成真",
       "summary": [
         "ETtoday：Toyz神預言黃仁勳回鍋輝達！「大膽預測」8天後成真",
@@ -118,107 +145,86 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "岡山國小教師霸凌案校長遭解職 教師工會召退休教師陳抗",
-      "summary": [
-        "公視新聞：岡山國小教師霸凌案校長遭解職 教師工會召退休教師陳抗",
-        "自由時報：高雄岡小校長解職引發工會陳抗 市府重申霸凌零容忍"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公視新聞",
-          "title": "岡山國小教師霸凌案校長遭解職 教師工會召退休教師陳抗",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MdXZMX2ZLNm5NejNxS1ROT1NNSWxraXZaVmZ5SndST09kdkEzM2tRTHRwQ290NjdITld0clhwbldTc1V3cGFwUGZBNW0zZTQ?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "高雄岡小校長解職引發工會陳抗 市府重申霸凌零容忍",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5650588"
-        }
-      ]
-    },
-    {
       "rank": 7,
-      "title": "英國演唱會驚傳不明物質釋放 逾1.2萬人緊急疏散",
+      "title": "檢抗告成功！苗栗議員候選人涉賄選 50萬交保改羈押禁見",
       "summary": [
-        "自由時報：英國演唱會驚傳不明物質釋放 逾1.2萬人緊急疏散",
-        "經濟日報：英國演唱會傳不明物質釀多人不適　數千觀眾緊急疏散"
+        "自由時報：檢抗告成功！苗栗議員候選人涉賄選 50萬交保改羈押禁見",
+        "ETtoday：逆轉！苗栗縣議員溫俊勇涉現金賄選50萬交保　今當庭羈押"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "英國演唱會驚傳不明物質釋放 逾1.2萬人緊急疏散",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650508"
+          "title": "檢抗告成功！苗栗議員候選人涉賄選 50萬交保改羈押禁見",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5650579"
         },
         {
-          "source": "經濟日報",
-          "title": "英國演唱會傳不明物質釀多人不適　數千觀眾緊急疏散",
-          "url": "https://money.udn.com/money/story/5599/9896810"
+          "source": "ETtoday",
+          "title": "逆轉！苗栗縣議員溫俊勇涉現金賄選50萬交保　今當庭羈押",
+          "url": "https://www.ettoday.net/news/20261123/3277142.htm"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "排雲山莊國旗險被換洋流旗 沈伯洋回應了",
+      "title": "南韓政府內閣大改組！撤外交、內政5大要職　有望出首位女情報首長",
       "summary": [
-        "自由時報：排雲山莊國旗險被換洋流旗 沈伯洋回應了",
-        "今周刊：排雲山莊國旗差點被換成洋流旗，玉管處揭山友當下想法！沈伯洋：放國旗的地方就放國旗，這樣比較好"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "排雲山莊國旗險被換洋流旗 沈伯洋回應了",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5650565"
-        },
-        {
-          "source": "今周刊",
-          "title": "排雲山莊國旗差點被換成洋流旗，玉管處揭山友當下想法！沈伯洋：放國旗的地方就放國旗，這樣比較好",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZE9kczRzcFhjS0xKQ04tSHFVbXM0NEczX3RnZF9mSkRhVHp0cUk4TjdzbzlzZ29NRjhESDJXU0pESDhMSFFwa0RwWng5R0l6aWRkclpWRVZRYVJBdWhVWVpnTVM1OHFOZWtlejhEY2VBbUx2WVdHbHctdzFaamc3TA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "死訊瞞1年！「蕭家牛雜湯」創辦人辭世　兒扛不孝罵名曝父遺願",
-      "summary": [
-        "ETtoday：死訊瞞1年！「蕭家牛雜湯」創辦人辭世　兒扛不孝罵名曝父遺願",
-        "自由時報：臺北40年「蕭家牛雜湯」老闆逝世！ 兒瞞死訊1年多揭父親臨終「封口令」"
+        "ETtoday：南韓政府內閣大改組！撤外交、內政5大要職　有望出首位女情報首長",
+        "經濟日報：南韓內閣改組　情報、外交首長及統一部長換人"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "ETtoday",
-          "title": "死訊瞞1年！「蕭家牛雜湯」創辦人辭世　兒扛不孝罵名曝父遺願",
-          "url": "https://www.ettoday.net/news/20261123/3277036.htm"
+          "title": "南韓政府內閣大改組！撤外交、內政5大要職　有望出首位女情報首長",
+          "url": "https://www.ettoday.net/news/20261123/3277018.htm"
         },
         {
+          "source": "經濟日報",
+          "title": "南韓內閣改組　情報、外交首長及統一部長換人",
+          "url": "https://money.udn.com/money/story/5599/9896942"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "明起全臺連下3天雨「週五起轉乾」 週三清晨下探16度",
+      "summary": [
+        "自由時報：明起全臺連下3天雨「週五起轉乾」 週三清晨下探16度",
+        "風傳媒：明天的天氣／明起全臺變天！鋒面、東北季風接連報到，連3天有雨「這天最冷」只剩16度 | 魏甫丞 | 風生活"
+      ],
+      "media_count": 2,
+      "links": [
+        {
           "source": "自由時報",
-          "title": "臺北40年「蕭家牛雜湯」老闆逝世！ 兒瞞死訊1年多揭父親臨終「封口令」",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5650653"
+          "title": "明起全臺連下3天雨「週五起轉乾」 週三清晨下探16度",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5650779"
+        },
+        {
+          "source": "風傳媒",
+          "title": "明天的天氣／明起全臺變天！鋒面、東北季風接連報到，連3天有雨「這天最冷」只剩16度 | 魏甫丞 | 風生活",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTZ21EQUhpTFVwU1Vjc01HZExzWUJ2ajRwQXhzZmdCWXRWQVFIajhkdmUzQW9DM2J0TTVZYU5rU00xbXhmVk1kU0VkUEtCOFh6?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "華邦電攜手成大成立共同研發中心，每年千萬元聚焦前瞻技術研發及人才培育",
+      "title": "半導體擴廠面臨專業人才荒，Profet AI 助企業擴大專家量能",
       "summary": [
-        "科技新報：華邦電攜手成大成立共同研發中心，每年千萬元聚焦前瞻技術研發及人才培育",
-        "自由時報：華邦電攜手成大成立共同研發中心 聚焦AI等前瞻技術研發及人才培育"
+        "科技報橘：半導體擴廠面臨專業人才荒，Profet AI 助企業擴大專家量能",
+        "風傳媒：AI帶動半導體供應鏈擴張 「科技工程師」職缺增6成 | 馮建棨 | 新聞"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "科技新報",
-          "title": "華邦電攜手成大成立共同研發中心，每年千萬元聚焦前瞻技術研發及人才培育",
-          "url": "https://technews.tw/2026/11/23/winbond-partners-with-ncku-to-establish-joint-rd-center/"
+          "source": "科技報橘",
+          "title": "半導體擴廠面臨專業人才荒，Profet AI 助企業擴大專家量能",
+          "url": "https://techorange.com/2026/11/23/profetai-domaintwin/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
         },
         {
-          "source": "自由時報",
-          "title": "華邦電攜手成大成立共同研發中心 聚焦AI等前瞻技術研發及人才培育",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5650949"
+          "source": "風傳媒",
+          "title": "AI帶動半導體供應鏈擴張 「科技工程師」職缺增6成 | 馮建棨 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rRlk2MmVMRHl4WDZLaXVkbGV4dEtKOWxZRzlaN29HUmJUdFlTOXpUb3cyc3FIR0xPb1g2QUVXNk9ybi1Cc2hLWGFnT3c0QQ?oc=5"
         }
       ]
     }
@@ -391,43 +397,55 @@
     },
     {
       "rank": 6,
-      "title": "董事會恢復黃仁勳擔任執行長，英偉達股價飆漲 30%，晶片股上漲",
+      "title": "英偉達恢復黃仁勳執行長，股價飆升",
       "summary": [
-        "Yahoo Finance：董事會恢復黃仁勳擔任執行長，英偉達股價飆漲 30%，晶片股上漲",
-        "Bloomberg Tech：黃仁勳回歸擔任執行長，英偉達股價飆升"
+        "Yahoo Finance：英偉達恢復黃仁勳執行長，股價飆升",
+        "Bloomberg Tech：黃仁勳回歸擔任執行長，英偉達股價飆升",
+        "Washington Post：黃仁勳重新出任英偉達執行長，市場飆升"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "Yahoo Finance",
-          "title": "董事會恢復黃仁勳擔任執行長，英偉達股價飆漲 30%，晶片股上漲",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5"
+          "title": "英偉達恢復黃仁勳執行長，股價飆升",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeklScUllZng2dVpiZ1U5Q3NheVI4dEdicWM2dk1XUEtvMndMU3laMFRRU21CaTdTOFVUX2lJRlR6SkxYVWRZVkhRc3hVOEhzWWxHdVBHTWd6dUdMc2FHWENBaDVlT0Nyc1hsSlRfTjhzczdrdDEwNm9YcnhrQ2N1M0lWQXBFUE0weG5sUVdNZUFzV2dCNHVXVDQ1aW10SFZneVJWbWw5dzBZejA2cVNDdQ?oc=5"
         },
         {
           "source": "Bloomberg Tech",
           "title": "黃仁勳回歸擔任執行長，英偉達股價飆升",
           "url": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-stock-surges-with-return-of-huang-as-ceo-video"
+        },
+        {
+          "source": "Washington Post",
+          "title": "黃仁勳重新出任英偉達執行長，市場飆升",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE1eld6Ynlnd3ExWkk3QndCd0RUM0E0M3I2eTFHREVyUG5ESEJoUmdJZFhYNG4xRi1VTGlHX0gwOXFMVm9zZl82MlRnZ1QzbU42Z3Fka2VIX0JTakE2b0FSOHBzU2xLaHpwVWMtS0Z5YjhtRnR5MHJLczJrdkh0aGpQT2hXanVWSWZuRkx4RGRwOUE?oc=5"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
+      "title": "唐納德·川普敦促英偉達重新聘用前執行長黃仁勳",
       "summary": [
-        "NHK新聞：「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
-        "The Guardian：烏克蘭證實使用海軍無人機襲擊了利比亞附近的兩艘俄羅斯船隻"
+        "Yahoo Finance：唐納德·川普敦促英偉達重新聘用前執行長黃仁勳",
+        "法廣RFI：特朗普促使英偉達董事會讓黃仁勳復職 據報未徵求臨時CEO等高管意見",
+        "MarketWatch：川普推動黃仁勳復職顯示英偉達執行長太大而不能倒"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261123de80209"
+          "source": "Yahoo Finance",
+          "title": "唐納德·川普敦促英偉達重新聘用前執行長黃仁勳",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDNFUUdPa2lNN1p0Z19haGVZTkN3aGh4ek40TGFjSW10am5US3dKdW9yODg4bGFodkd4VFpaUUI5bWVLWnJwRVhhaGthcXB4ck5KLXkyUFNvc2N4eDJhV2MzYUZCWGg5aUJwSDBJQzNVUjZ3Q05vQWZwRkNQbTZ1OXBkMUxYcTUwVWo1bzZFeFVaQXkwQk1KZlV4UHo?oc=5"
         },
         {
-          "source": "The Guardian",
-          "title": "烏克蘭證實使用海軍無人機襲擊了利比亞附近的兩艘俄羅斯船隻",
-          "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
+          "source": "法廣RFI",
+          "title": "特朗普促使英偉達董事會讓黃仁勳復職 據報未徵求臨時CEO等高管意見",
+          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261123-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BF%83%E4%BD%BF%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83%E8%AE%93%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E6%93%9A%E5%A0%B1%E6%9C%AA%E5%BE%B5%E6%B1%82%E8%87%A8%E6%99%82ceo%E7%AD%89%E9%AB%98%E7%AE%A1%E6%84%8F%E8%A6%8B"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "川普推動黃仁勳復職顯示英偉達執行長太大而不能倒",
+          "url": "https://www.marketwatch.com/story/trumps-push-to-reinstate-jensen-huang-signals-nvidias-ceo-is-too-big-to-fail-10709210?mod=mw_rss_topstories"
         }
       ]
     },
