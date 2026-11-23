@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 04:28",
+  "updated_at": "2026-11-24 04:58",
   "taiwan": [
     {
       "rank": 1,
@@ -41,7 +41,7 @@
         "ETtoday：川普親曝直接聯絡輝達董事會！要求國安保證　力挺黃仁勳回鍋",
         "自由時報：川普親自與輝達董事會溝通　促成黃仁勳回鍋"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "經濟日報",
@@ -57,6 +57,11 @@
           "source": "自由時報",
           "title": "川普親自與輝達董事會溝通　促成黃仁勳回鍋",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5651126"
+        },
+        {
+          "source": "工商時報",
+          "title": "黃仁勳回歸！川普證實親自介入輝達董事會並為國安威脅掛保證- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HNFNoTUNnM0VCUDlRWmk5MzZ3VS1nYWRFU1ZsaVFiUXpBeXJ4OWV0bVVWLXpPUE5CTGdXeFp5WFdZMXh5MWstRlR4TFotZHZPMmdhak5qMU1Xd05vUjk4?oc=5"
         }
       ]
     },
@@ -83,27 +88,6 @@
     },
     {
       "rank": 4,
-      "title": "歐洲推動主權雲端漸具成效　美國超大規模雲端服務商仍主導市場",
-      "summary": [
-        "經濟日報：歐洲推動主權雲端漸具成效　美國超大規模雲端服務商仍主導市場",
-        "科技新報：歐洲推動主權雲端漸具成效，美國超大規模雲端服務商仍主導市場"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "歐洲推動主權雲端漸具成效　美國超大規模雲端服務商仍主導市場",
-          "url": "https://money.udn.com/money/story/5599/9896666"
-        },
-        {
-          "source": "科技新報",
-          "title": "歐洲推動主權雲端漸具成效，美國超大規模雲端服務商仍主導市場",
-          "url": "https://infosecu.technews.tw/2026/11/23/europe-push-for-digital-sovereignty-in-cloud-computing-gains-momentum/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
       "summary": [
         "ETtoday：快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
@@ -124,7 +108,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Toyz神預言黃仁勳回鍋輝達！「大膽預測」8天後成真",
       "summary": [
         "ETtoday：Toyz神預言黃仁勳回鍋輝達！「大膽預測」8天後成真",
@@ -145,28 +129,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "南韓政府內閣大改組！撤外交、內政5大要職　有望出首位女情報首長",
-      "summary": [
-        "ETtoday：南韓政府內閣大改組！撤外交、內政5大要職　有望出首位女情報首長",
-        "經濟日報：南韓內閣改組　情報、外交首長及統一部長換人"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "南韓政府內閣大改組！撤外交、內政5大要職　有望出首位女情報首長",
-          "url": "https://www.ettoday.net/news/20261123/3277018.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "南韓內閣改組　情報、外交首長及統一部長換人",
-          "url": "https://money.udn.com/money/story/5599/9896942"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "title": "明起全臺連下3天雨「週五起轉乾」 週三清晨下探16度",
       "summary": [
         "自由時報：明起全臺連下3天雨「週五起轉乾」 週三清晨下探16度",
@@ -187,7 +150,28 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "title": "歐洲推動主權雲端漸具成效，美國超大規模雲端服務商仍主導市場",
+      "summary": [
+        "科技新報：歐洲推動主權雲端漸具成效，美國超大規模雲端服務商仍主導市場",
+        "經濟日報：歐洲推動主權雲端 跨步"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "歐洲推動主權雲端漸具成效，美國超大規模雲端服務商仍主導市場",
+          "url": "https://infosecu.technews.tw/2026/11/23/europe-push-for-digital-sovereignty-in-cloud-computing-gains-momentum/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "歐洲推動主權雲端 跨步",
+          "url": "https://money.udn.com/money/story/5599/9897351"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "半導體擴廠面臨專業人才荒，Profet AI 助企業擴大專家量能",
       "summary": [
         "科技報橘：半導體擴廠面臨專業人才荒，Profet AI 助企業擴大專家量能",
@@ -208,7 +192,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美連鎖披薩市場退燒瘦瘦針也是衝擊原因- 新聞",
       "summary": [
         "MoneyDJ理財網：美連鎖披薩市場退燒瘦瘦針也是衝擊原因- 新聞",
@@ -225,6 +209,27 @@
           "source": "商業周刊",
           "title": "美連鎖披薩市場退燒！瘦瘦針也是衝擊原因",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZYnFiV2hZZnBZcFlFTUdZRFFlLS1SWWs0UnlIa3FVLVBvd1lTQ3JBc2lqcEtCTmVJVmNrVVVsVGJ3akx1OTZWNHZQRnM4OTAwUGFhMVdrMnotN1ozM3RRMDBTdTJzQS1FTEZiQg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "融資維持率降至120％ 證交所：11/24起實施",
+      "summary": [
+        "財訊：融資維持率降至120％ 證交所：11/24起實施",
+        "工商時報：確定了！證交所宣佈：融資維持率24日起降為120％"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "財訊",
+          "title": "融資維持率降至120％ 證交所：11/24起實施",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YcVZ6czBpa3hnT085YVhodms1MFppLVNfUHN1a1NMR1RlSF9QNlM3YW1fZVFYQ1VVa1JTVzl4c0tqSndDcTY5bGJUMVpoU3QyLUZlb2NGODRuc1NYX0Z4dHhxSjRIQm80Ujg2X01YdW5wbmN2cEVFb1Itbw?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "確定了！證交所宣佈：融資維持率24日起降為120％",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jR3hRczFSdGNSdmJnY2p1RGU2X0s2aVZES0VjWjE3eDlaM1NHM1hjSTlsZ2lzZl9vQVEtbUNSSVZGY3ZIYXpVdnlKWWp3R1VwOTBkWlMxT2pNb0t3VEJJ?oc=5"
         }
       ]
     }
@@ -346,8 +351,8 @@
       "title": "澤連斯基：烏克蘭在利比亞海域襲擊了兩艘俄羅斯船隻",
       "summary": [
         "法廣RFI：澤連斯基：烏克蘭在利比亞海域襲擊了兩艘俄羅斯船隻",
-        "The Guardian：烏克蘭證實使用海軍無人機襲擊了利比亞附近的兩艘俄羅斯船隻",
-        "Bloomberg Markets：烏克蘭聲稱俄羅斯船隻在利比亞海岸遭到攻擊"
+        "Bloomberg Markets：烏克蘭聲稱俄羅斯船隻在利比亞海岸遭到攻擊",
+        "BBC World：俄羅斯船隻在利比亞遭到攻擊說明烏克蘭戰爭蔓延"
       ],
       "media_count": 3,
       "links": [
@@ -357,14 +362,14 @@
           "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261123-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E5%9C%A8%E5%88%A9%E6%AF%94%E4%BA%9E%E6%B5%B7%E5%9F%9F%E8%A5%B2%E6%93%8A%E4%BA%86%E5%85%A9%E8%89%98%E4%BF%84%E7%BE%85%E6%96%AF%E8%88%B9%E9%9A%BB"
         },
         {
-          "source": "The Guardian",
-          "title": "烏克蘭證實使用海軍無人機襲擊了利比亞附近的兩艘俄羅斯船隻",
-          "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
-        },
-        {
           "source": "Bloomberg Markets",
           "title": "烏克蘭聲稱俄羅斯船隻在利比亞海岸遭到攻擊",
           "url": "https://www.bloomberg.com/news/videos/2026-11-23/ukraine-claims-attack-on-russian-ship-off-libyan-coast-video"
+        },
+        {
+          "source": "BBC World",
+          "title": "俄羅斯船隻在利比亞遭到攻擊說明烏克蘭戰爭蔓延",
+          "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
