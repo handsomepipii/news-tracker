@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 01:58",
+  "updated_at": "2026-11-24 02:27",
   "taiwan": [
     {
       "rank": 1,
@@ -98,27 +98,6 @@
     },
     {
       "rank": 5,
-      "title": "《產業分析》PCB、電源、散熱 AI供應鏈去中化大贏家- 國際",
-      "summary": [
-        "工商時報：《產業分析》PCB、電源、散熱 AI供應鏈去中化大贏家- 國際",
-        "中時新聞：《產業分析》PCB、電源、散熱 AI供應鏈去中化大贏家"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "《產業分析》PCB、電源、散熱 AI供應鏈去中化大贏家- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qWFBldEVOVTM0TnVuVi0wRTdmb3V4UnBvVFY3bTZzZlhKcEUwZ3ZyY3Q1VTRqV0hleS1zckRwMHRzVDBaQ0xvaWVHNzJWY1pfQXBvRzl0RFJmUGkyVk13?oc=5"
-        },
-        {
-          "source": "中時新聞",
-          "title": "《產業分析》PCB、電源、散熱 AI供應鏈去中化大贏家",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kdkFNMl9GVzFuclBVNTUxa1ZJb3dyRWRPOFJXTUVGUUZqU01aYUdMY09BdzhrSVhPV0ZSc0o4dll3V1ZreFkwTGg2V2drOFNraldvQzlfeW5Bc2VCbmxsMGU5a29KYTJHVTRmRl9R?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "苗栗縣長決戰關頭 陳品安、鍾東錦25日晚拚場",
       "summary": [
         "自由時報：苗栗縣長決戰關頭 陳品安、鍾東錦25日晚拚場",
@@ -139,7 +118,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "川普迷因幣晚宴大退燒，規模與價值雙雙暴跌",
       "summary": [
         "科技新報：川普迷因幣晚宴大退燒，規模與價值雙雙暴跌",
@@ -160,7 +139,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "川普再次力挺黃仁勳　籲輝達董事會重新聘回任執行長",
       "summary": [
         "經濟日報：川普再次力挺黃仁勳　籲輝達董事會重新聘回任執行長",
@@ -181,7 +160,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "岡山國小教師霸凌案校長遭解職 教師工會召退休教師陳抗",
       "summary": [
         "公視新聞：岡山國小教師霸凌案校長遭解職 教師工會召退休教師陳抗",
@@ -202,7 +181,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "英國演唱會驚傳不明物質釋放 逾1.2萬人緊急疏散",
       "summary": [
         "自由時報：英國演唱會驚傳不明物質釋放 逾1.2萬人緊急疏散",
@@ -219,6 +198,27 @@
           "source": "經濟日報",
           "title": "英國演唱會傳不明物質釀多人不適　數千觀眾緊急疏散",
           "url": "https://money.udn.com/money/story/5599/9896810"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "排雲山莊國旗險被換洋流旗 沈伯洋回應了",
+      "summary": [
+        "自由時報：排雲山莊國旗險被換洋流旗 沈伯洋回應了",
+        "今周刊：排雲山莊國旗差點被換成洋流旗，玉管處揭山友當下想法！沈伯洋：放國旗的地方就放國旗，這樣比較好"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "排雲山莊國旗險被換洋流旗 沈伯洋回應了",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5650565"
+        },
+        {
+          "source": "今周刊",
+          "title": "排雲山莊國旗差點被換成洋流旗，玉管處揭山友當下想法！沈伯洋：放國旗的地方就放國旗，這樣比較好",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZE9kczRzcFhjS0xKQ04tSHFVbXM0NEczX3RnZF9mSkRhVHp0cUk4TjdzbzlzZ29NRjhESDJXU0pESDhMSFFwa0RwWng5R0l6aWRkclpWRVZRYVJBdWhVWVpnTVM1OHFOZWtlejhEY2VBbUx2WVdHbHctdzFaamc3TA?oc=5"
         }
       ]
     }
@@ -364,27 +364,6 @@
     },
     {
       "rank": 5,
-      "title": "亞洲股市下跌 對人工智慧的擔憂超過了支援措施",
-      "summary": [
-        "Bloomberg Markets：亞洲股市下跌 對人工智慧的擔憂超過了支援措施",
-        "CNBC：隨著人工智慧低迷導致股市下跌，亞洲國家如何尋求支撐市場"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "亞洲股市下跌 對人工智慧的擔憂超過了支援措施",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/the-china-show-11-23-2026-video"
-        },
-        {
-          "source": "CNBC",
-          "title": "隨著人工智慧低迷導致股市下跌，亞洲國家如何尋求支撐市場",
-          "url": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "董事會恢復黃仁勳擔任執行長，英偉達股價飆漲 30%，晶片股上漲",
       "summary": [
         "Yahoo Finance：董事會恢復黃仁勳擔任執行長，英偉達股價飆漲 30%，晶片股上漲",
@@ -405,7 +384,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
       "summary": [
         "NHK新聞：「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
@@ -426,7 +405,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "英偉達董事會不考慮恢復黃仁勳的CEO職位",
       "summary": [
         "FT中文網：英偉達董事會不考慮恢復黃仁勳的CEO職位",
@@ -447,7 +426,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
       "summary": [
         "Investing.com：CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
@@ -468,7 +447,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "歐盟對可口可樂裝瓶商發起反壟斷調查",
       "summary": [
         "Financial Times：歐盟對可口可樂裝瓶商發起反壟斷調查",
@@ -485,6 +464,27 @@
           "source": "Bloomberg Markets",
           "title": "可口可樂裝瓶商因濫用市場力量而受到歐盟調查",
           "url": "https://www.bloomberg.com/news/articles/2026-11-23/coca-cola-bottler-hit-by-eu-probe-into-abuse-of-market-power"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "由於各國未能就氣候協議達成一致，COP31談判破裂",
+      "summary": [
+        "Washington Post：由於各國未能就氣候協議達成一致，COP31談判破裂",
+        "Ars Technica：由於各國在化石燃料、氣候融資議題上存在分歧，COP31以失敗告終"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "由於各國未能就氣候協議達成一致，COP31談判破裂",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOFNSZF85SVFvQ3FoZEU2b0J3endVM3lvRGZ6eWwyVTdSTGFFa3kwdVJTMmhDZ0dLRzBMdDZhV1hkVVB2MVY5YjJKVEJxeTF0ZTUtTnN5TEN5LWJxeUV2anBXajRISnNnb2gxeDA5SUtZdU9BWU9PSV9Va2szNTh2NEpjWkJBRS1nazZEamhORWtDczktd3RhVS1fMENQWEQtTTk2X2pxVW1wVVU0NmhpQktweC1uMDVYWnVUeEIzcm9LNDJl?oc=5"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "由於各國在化石燃料、氣候融資議題上存在分歧，COP31以失敗告終",
+          "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/"
         }
       ]
     }
