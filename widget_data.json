@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 06:58",
+  "updated_at": "2026-11-24 07:28",
   "taiwan": [
     {
       "rank": 1,
@@ -67,6 +67,33 @@
     },
     {
       "rank": 3,
+      "title": "黃仁勳返輝達總部員工熱烈歡迎　承諾「第二次會做更好」",
+      "summary": [
+        "自由時報：黃仁勳返輝達總部員工熱烈歡迎　承諾「第二次會做更好」",
+        "經濟日報：黃仁勳返輝達總部員工熱烈歡迎 承諾「第二次會做更好」",
+        "ETtoday：黃仁勳重回輝達承諾：第二次會做更好　總部員工熱烈歡迎"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "黃仁勳返輝達總部員工熱烈歡迎　承諾「第二次會做更好」",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5651133"
+        },
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳返輝達總部員工熱烈歡迎 承諾「第二次會做更好」",
+          "url": "https://money.udn.com/money/story/5599/9897589"
+        },
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳重回輝達承諾：第二次會做更好　總部員工熱烈歡迎",
+          "url": "https://www.ettoday.net/news/20261124/3277344.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "川普：司法部指黃仁勳無涉罪行　失去國家級腦力才是國安威脅",
       "summary": [
         "自由時報：川普：司法部指黃仁勳無涉罪行　失去國家級腦力才是國安威脅",
@@ -89,27 +116,6 @@
           "source": "ETtoday",
           "title": "川普：司法部認定黃仁勳無涉罪行　失去國家級腦力才是國安威脅",
           "url": "https://www.ettoday.net/news/20261124/3277332.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "黃仁勳返輝達總部員工熱烈歡迎　承諾「第二次會做更好」",
-      "summary": [
-        "自由時報：黃仁勳返輝達總部員工熱烈歡迎　承諾「第二次會做更好」",
-        "經濟日報：黃仁勳返輝達總部員工熱烈歡迎 承諾「第二次會做更好」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "黃仁勳返輝達總部員工熱烈歡迎　承諾「第二次會做更好」",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5651133"
-        },
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳返輝達總部員工熱烈歡迎 承諾「第二次會做更好」",
-          "url": "https://money.udn.com/money/story/5599/9897589"
         }
       ]
     },
@@ -280,43 +286,6 @@
     },
     {
       "rank": 2,
-      "title": "CrowdStrike將於440億美元的網路安全交易收購Zscaler",
-      "summary": [
-        "Bloomberg Tech：CrowdStrike將於440億美元的網路安全交易收購Zscaler",
-        "Financial Times：隨著網路威脅增強，CrowdStrike以440億美元收購Zscaler",
-        "Yahoo Finance：隨著技術中斷蔓延，Crowdstrike 斥資 439 億美元透過一項大規模網路安全交易收購 ZScaler"
-      ],
-      "media_count": 5,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "CrowdStrike將於440億美元的網路安全交易收購Zscaler",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/crowdstrike-to-acquire-zscaler-in-44-billion-deal-video"
-        },
-        {
-          "source": "Financial Times",
-          "title": "隨著網路威脅增強，CrowdStrike以440億美元收購Zscaler",
-          "url": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "隨著技術中斷蔓延，Crowdstrike 斥資 439 億美元透過一項大規模網路安全交易收購 ZScaler",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPa0MwNl9mNFFvX25LUERTZmpPSG5BY0tHRFpxRW1KTWRnTWpzNnUzemU3OG5kS2pYdlVIZ3F2UDczXzh3OWlkQWo5c1NSWnJDUFVrNWhYRXlXSkM2TW9VdUpiYkNqdkxqc1BqcU9ndTRDNHY5WE1JZzBDMEFkRnhDd0JLcFVUTXppeGFMTGkwUVRYMXp3bjlucm5VZUJNZTVhVDlHdW9Xd1dTSUQxbjBKbm80NnpXRVlabzYzcFpLd19YV3RvWTV1NnY5eExkaDhWT0s1OVJ6QVNrOHhjZTNGd1l3Rkx1QzFHU0hja2dobER4cXZa?oc=5"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "網路安全股票一直很熱門——現在 CrowdStrike 簽署了收購 Zscaler 的協議",
-          "url": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories"
-        },
-        {
-          "source": "CNBC",
-          "title": "CrowdStrike以440億美元收購Zscaler，人工智慧助推網路攻擊",
-          "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "英偉達恢復黃仁勳執行長職務",
       "summary": [
         "Financial Times：英偉達恢復黃仁勳執行長職務",
@@ -353,14 +322,14 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Semafor 報導，美國計劃因晶片出口問題將 Megaspeed 列入黑名單",
       "summary": [
         "Investing.com：Semafor 報導，美國計劃因晶片出口問題將 Megaspeed 列入黑名單",
         "Bloomberg Tech：美國將英偉達醜聞中心公司 Megaspeed 列入黑名單",
         "TechCrunch：處於黃仁勳醜聞中心的公司 Megaspeed 似乎正被列入美國黑名單"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
           "source": "Investing.com",
@@ -381,6 +350,43 @@
           "source": "BBC World",
           "title": "因英偉達醜聞，美國將亞洲人工智慧公司 Megaspeed 列入黑名單",
           "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "由於英偉達醜聞，美國將 Megaspeed 列入貿易黑名單",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1R6NzQ4SnlnWjJFcTUtendaNnQtamFyRnJCN1R2QXZBczA0Vm1DVlJXa3FDbjhINGdxanRhTDRYc1JyWm5uV3o2THlvT2YtZmszcVRPQVRQLXA3bEx6dFg0VlFpZmtrVTJEeUxRWnY4bEloVTJEZWE5eWtwMDhvQVVhOENST3prcHRLS1p3RjVLT1RrbTVIOFlRUk9SOC1PbzdSQkxQTkJ4cjNPekkwV2VsSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "隨著網路威脅增強，CrowdStrike以440億美元收購Zscaler",
+      "summary": [
+        "Financial Times：隨著網路威脅增強，CrowdStrike以440億美元收購Zscaler",
+        "Yahoo Finance：隨著技術中斷蔓延，Crowdstrike 斥資 439 億美元透過一項大規模網路安全交易收購 ZScaler",
+        "CNBC：CrowdStrike以440億美元收購Zscaler，人工智慧助推網路攻擊"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "隨著網路威脅增強，CrowdStrike以440億美元收購Zscaler",
+          "url": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "隨著技術中斷蔓延，Crowdstrike 斥資 439 億美元透過一項大規模網路安全交易收購 ZScaler",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPa0MwNl9mNFFvX25LUERTZmpPSG5BY0tHRFpxRW1KTWRnTWpzNnUzemU3OG5kS2pYdlVIZ3F2UDczXzh3OWlkQWo5c1NSWnJDUFVrNWhYRXlXSkM2TW9VdUpiYkNqdkxqc1BqcU9ndTRDNHY5WE1JZzBDMEFkRnhDd0JLcFVUTXppeGFMTGkwUVRYMXp3bjlucm5VZUJNZTVhVDlHdW9Xd1dTSUQxbjBKbm80NnpXRVlabzYzcFpLd19YV3RvWTV1NnY5eExkaDhWT0s1OVJ6QVNrOHhjZTNGd1l3Rkx1QzFHU0hja2dobER4cXZa?oc=5"
+        },
+        {
+          "source": "CNBC",
+          "title": "CrowdStrike以440億美元收購Zscaler，人工智慧助推網路攻擊",
+          "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "CrowdStrike 將 440 億美元收購 Zscaler",
+          "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"
         }
       ]
     },
@@ -526,22 +532,22 @@
     },
     {
       "rank": 10,
-      "title": "歐盟對可口可樂裝瓶商發起反壟斷調查",
+      "title": "由於各國未能就氣候協議達成一致，COP31談判破裂",
       "summary": [
-        "Financial Times：歐盟對可口可樂裝瓶商發起反壟斷調查",
-        "Bloomberg Markets：可口可樂裝瓶商因濫用市場力量而受到歐盟調查"
+        "Washington Post：由於各國未能就氣候協議達成一致，COP31談判破裂",
+        "Ars Technica：由於各國在化石燃料、氣候融資議題上存在分歧，COP31以失敗告終"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "歐盟對可口可樂裝瓶商發起反壟斷調查",
-          "url": "https://www.ft.com/content/a9686a35-ba71-4f5c-8fe8-ca3bc34a67b1?syn-25a6b1a6=1"
+          "source": "Washington Post",
+          "title": "由於各國未能就氣候協議達成一致，COP31談判破裂",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOFNSZF85SVFvQ3FoZEU2b0J3endVM3lvRGZ6eWwyVTdSTGFFa3kwdVJTMmhDZ0dLRzBMdDZhV1hkVVB2MVY5YjJKVEJxeTF0ZTUtTnN5TEN5LWJxeUV2anBXajRISnNnb2gxeDA5SUtZdU9BWU9PSV9Va2szNTh2NEpjWkJBRS1nazZEamhORWtDczktd3RhVS1fMENQWEQtTTk2X2pxVW1wVVU0NmhpQktweC1uMDVYWnVUeEIzcm9LNDJl?oc=5"
         },
         {
-          "source": "Bloomberg Markets",
-          "title": "可口可樂裝瓶商因濫用市場力量而受到歐盟調查",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-23/coca-cola-bottler-hit-by-eu-probe-into-abuse-of-market-power"
+          "source": "Ars Technica",
+          "title": "由於各國在化石燃料、氣候融資議題上存在分歧，COP31以失敗告終",
+          "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/"
         }
       ]
     }
