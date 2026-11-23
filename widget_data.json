@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 22:29",
+  "updated_at": "2026-11-23 22:56",
   "taiwan": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
         "經濟日報：輝達董事會透過 恢復黃仁勳總裁、執行長及董事職務",
         "財訊：快訊／黃仁勳王者歸來！輝達重磅宣佈重新回任執行長"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "自由時報",
@@ -25,6 +25,11 @@
           "source": "財訊",
           "title": "快訊／黃仁勳王者歸來！輝達重磅宣佈重新回任執行長",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mMWRKVklhdWNWZ2E0NE4zd1ZmTFZWYkFrd1BIUm1LUGhTYWFHVkhFYXc3bUd4VjdaM0hCektxTWRsSURWZWI3Uld3NC1WdTg2dDlGLWVYYXByekhocEx4c2s3YkdtbFAxemNUMTMzWERSYWlPWGVQOUJuYw?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／輝達宣佈：黃仁勳重返CEO",
+          "url": "https://www.ettoday.net/news/20261123/3277270.htm"
         }
       ]
     },
@@ -78,27 +83,6 @@
     },
     {
       "rank": 4,
-      "title": "烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
-      "summary": [
-        "自由時報：烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
-        "ETtoday：爆炸瞬間曝！俄軍艦「遭無人艇夜襲」擊沉　戰火燒到地中海"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
-          "url": "https://news.ltn.com.tw/news/def/breakingnews/5650223"
-        },
-        {
-          "source": "ETtoday",
-          "title": "爆炸瞬間曝！俄軍艦「遭無人艇夜襲」擊沉　戰火燒到地中海",
-          "url": "https://www.ettoday.net/news/20261123/3276759.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
       "summary": [
         "iThome：東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
@@ -119,7 +103,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
       "summary": [
         "經濟日報：川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
@@ -140,7 +124,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "川普迷因幣晚宴大退燒　規模與價值雙雙暴跌",
       "summary": [
         "經濟日報：川普迷因幣晚宴大退燒　規模與價值雙雙暴跌",
@@ -161,7 +145,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
       "summary": [
         "ETtoday：快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
@@ -182,44 +166,65 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "晶片成本高漲 傳供應商在簽約後將AI伺服器調漲45％",
+      "rank": 8,
+      "title": "美股資金風向變了  砍成長股、價值股迎輪動行情",
       "summary": [
-        "自由時報：晶片成本高漲 傳供應商在簽約後將AI伺服器調漲45％",
-        "MoneyDJ理財網：AI伺服器簽約後還漲價？傳交貨前加價最多45%"
+        "科技新報：美股資金風向變了  砍成長股、價值股迎輪動行情",
+        "MoneyDJ理財網：美股資金風向變了砍成長股、價值股迎輪動行情- 新聞"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "晶片成本高漲 傳供應商在簽約後將AI伺服器調漲45％",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5650073"
+          "source": "科技新報",
+          "title": "美股資金風向變了  砍成長股、價值股迎輪動行情",
+          "url": "https://finance.technews.tw/2026/11/23/value-stocks-emerge-as-the-new-focus-of-us-equity-investors/"
         },
         {
           "source": "MoneyDJ理財網",
-          "title": "AI伺服器簽約後還漲價？傳交貨前加價最多45%",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREJHaXAyX1hrVXdJTjZWYXdTRklCdFRYc3RocWFVdkRmMWVfcnNVei1JNERLS3k0aXFlZThWaENlSTFKOTFZTWdmcmwxU1pYby01ZmlxQnpSalgzRkd4d3paRGpKbk9KY0tKNExiTlNDOWI0WUhhSzRFTWhNY2FfWXJNYzVnRnJIeG90ME9TWGk0Zw?oc=5"
+          "title": "美股資金風向變了砍成長股、價值股迎輪動行情- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0g4ZVNDTFZVN2p1ZmE2UFh2dUdram1NSXNjUGpxeTlJb2U0WXZVX0JMSlU2bFhFYzM3QnI2LXpzcEZTSkNCV0pnVGR1RFo5eDNoRE8zNzN1d1NTS3o3NzAtWDZ4Y0FxTnJfaU1RZnBlektIQmFwaEg1bEE1REtjQnhYYndHZi04cUR6UEc0NW5hQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "韓國三星證券遭駭　逾8000名客戶個資外洩",
+      "summary": [
+        "經濟日報：韓國三星證券遭駭　逾8000名客戶個資外洩",
+        "科技新報：韓國三星證券遭駭，逾 8,000 名客戶個資外洩"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "韓國三星證券遭駭　逾8000名客戶個資外洩",
+          "url": "https://money.udn.com/money/story/5599/9895894"
+        },
+        {
+          "source": "科技新報",
+          "title": "韓國三星證券遭駭，逾 8,000 名客戶個資外洩",
+          "url": "https://infosecu.technews.tw/2026/11/23/samsung-securities-data-breach/"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "臺中榮總接連爆代刀、收回扣爭議 石崇良：若屬實撤除醫師執照",
+      "title": "謝龍介宣示捐選舉補助款查弊案 陳亭妃：不要再用選舉話術",
       "summary": [
-        "自由時報：臺中榮總接連爆代刀、收回扣爭議 石崇良：若屬實撤除醫師執照",
-        "ETtoday：中榮名醫爆涉收回扣　石崇良喊痛心：最重撤醫師執照"
+        "自由時報：謝龍介宣示捐選舉補助款查弊案 陳亭妃：不要再用選舉話術",
+        "中時新聞：陳亭妃麻豆鐵馬拜票 批謝龍介3大宣誓只是選舉話術"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "臺中榮總接連爆代刀、收回扣爭議 石崇良：若屬實撤除醫師執照",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5650216"
+          "title": "謝龍介宣示捐選舉補助款查弊案 陳亭妃：不要再用選舉話術",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5650284"
         },
         {
-          "source": "ETtoday",
-          "title": "中榮名醫爆涉收回扣　石崇良喊痛心：最重撤醫師執照",
-          "url": "https://health.ettoday.net/news/3276816"
+          "source": "中時新聞",
+          "title": "陳亭妃麻豆鐵馬拜票 批謝龍介3大宣誓只是選舉話術",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzZ1lLWjRBQ3BrNVhscnBDSlFzeFJBQXgyU3U5c3Vnclg0UlBtTmluUmRQVG9UcWFPaTFwUUppMVZCTERvc19PUjlucGE1aG0taWFPT3A4VkJaZ0U0dlZMVDJLRG50SGNjM3h4ZjdB?oc=5"
         }
       ]
     }
@@ -227,43 +232,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
-      "summary": [
-        "Investing.com：CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
-        "Bloomberg Tech：CrowdStrike 與 Zscaler 達成 440 億美元網路安全交易",
-        "Financial Times：隨著網路威脅增強，CrowdStrike以440億美元收購Zscaler"
-      ],
-      "media_count": 5,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
-          "url": "https://www.investing.com/news/stock-market-news/crowdstrike-weighs-zscaler-buyout-in-potential-265-billion-cyber-deal--bloomberg-5042662"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "CrowdStrike 與 Zscaler 達成 440 億美元網路安全交易",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler"
-        },
-        {
-          "source": "Financial Times",
-          "title": "隨著網路威脅增強，CrowdStrike以440億美元收購Zscaler",
-          "url": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "隨著技術中斷蔓延，Crowdstrike 斥資 439 億美元透過一項大規模網路安全交易收購 ZScaler",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPa0MwNl9mNFFvX25LUERTZmpPSG5BY0tHRFpxRW1KTWRnTWpzNnUzemU3OG5kS2pYdlVIZ3F2UDczXzh3OWlkQWo5c1NSWnJDUFVrNWhYRXlXSkM2TW9VdUpiYkNqdkxqc1BqcU9ndTRDNHY5WE1JZzBDMEFkRnhDd0JLcFVUTXppeGFMTGkwUVRYMXp3bjlucm5VZUJNZTVhVDlHdW9Xd1dTSUQxbjBKbm80NnpXRVlabzYzcFpLd19YV3RvWTV1NnY5eExkaDhWT0s1OVJ6QVNrOHhjZTNGd1l3Rkx1QzFHU0hja2dobER4cXZa?oc=5"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "網路安全股票一直很熱門——現在 CrowdStrike 簽署了收購 Zscaler 的協議",
-          "url": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Nvidia (NVDA) 恢復黃仁勳擔任執行長：即時更新",
       "summary": [
         "Bloomberg Tech：Nvidia (NVDA) 恢復黃仁勳擔任執行長：即時更新",
@@ -296,6 +264,43 @@
           "source": "Ars Technica",
           "title": "黃仁勳恢復擔任 Nvidia 執行長兼董事會主席",
           "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
+      "summary": [
+        "Investing.com：CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
+        "Bloomberg Tech：CrowdStrike 與 Zscaler 達成 440 億美元網路安全交易",
+        "Financial Times：隨著網路威脅增強，CrowdStrike以440億美元收購Zscaler"
+      ],
+      "media_count": 5,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "CrowdStrike 考慮 Zscaler 大型交易，網路安全股上漲",
+          "url": "https://www.investing.com/news/stock-market-news/crowdstrike-weighs-zscaler-buyout-in-potential-265-billion-cyber-deal--bloomberg-5042662"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "CrowdStrike 與 Zscaler 達成 440 億美元網路安全交易",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler"
+        },
+        {
+          "source": "Financial Times",
+          "title": "隨著網路威脅增強，CrowdStrike以440億美元收購Zscaler",
+          "url": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "隨著技術中斷蔓延，Crowdstrike 斥資 439 億美元透過一項大規模網路安全交易收購 ZScaler",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPa0MwNl9mNFFvX25LUERTZmpPSG5BY0tHRFpxRW1KTWRnTWpzNnUzemU3OG5kS2pYdlVIZ3F2UDczXzh3OWlkQWo5c1NSWnJDUFVrNWhYRXlXSkM2TW9VdUpiYkNqdkxqc1BqcU9ndTRDNHY5WE1JZzBDMEFkRnhDd0JLcFVUTXppeGFMTGkwUVRYMXp3bjlucm5VZUJNZTVhVDlHdW9Xd1dTSUQxbjBKbm80NnpXRVlabzYzcFpLd19YV3RvWTV1NnY5eExkaDhWT0s1OVJ6QVNrOHhjZTNGd1l3Rkx1QzFHU0hja2dobER4cXZa?oc=5"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "網路安全股票一直很熱門——現在 CrowdStrike 簽署了收購 Zscaler 的協議",
+          "url": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories"
         }
       ]
     },
@@ -333,6 +338,38 @@
     },
     {
       "rank": 4,
+      "title": "英偉達恢復黃仁勳執行長職務",
+      "summary": [
+        "Financial Times：英偉達恢復黃仁勳執行長職務",
+        "TechCrunch：英偉達改變方針，讓黃仁勳重新擔任執行長",
+        "NHK新聞：黃仁勳卸任後重返美國半導體巨頭英偉達執行長"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "英偉達恢復黃仁勳執行長職務",
+          "url": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "英偉達改變方針，讓黃仁勳重新擔任執行長",
+          "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "黃仁勳卸任後重返美國半導體巨頭英偉達執行長",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261123de80304"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "英偉達為何恢復黃仁勳擔任執行長",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-23/why-nvidia-reinstated-jensen-huang-as-ceo-video"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "烏克蘭在利比亞海岸擊沉俄羅斯軍艦",
       "summary": [
         "Financial Times：烏克蘭在利比亞海岸擊沉俄羅斯軍艦",
@@ -355,27 +392,6 @@
           "source": "Bloomberg Markets",
           "title": "烏克蘭聲稱俄羅斯船隻在利比亞海岸遭到攻擊",
           "url": "https://www.bloomberg.com/news/videos/2026-11-23/ukraine-claims-attack-on-russian-ship-off-libyan-coast-video"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
-      "summary": [
-        "Bloomberg Markets：塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
-        "Investing.com：塔塔鋼鐵公司將以16.7億美元收購APL Apollo Tubes 26.4%的股份"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-23/tata-steel-to-acquire-26-4-in-apl-apollo-tubes-for-1-7-billion"
-        },
-        {
-          "source": "Investing.com",
-          "title": "塔塔鋼鐵公司將以16.7億美元收購APL Apollo Tubes 26.4%的股份",
-          "url": "https://www.investing.com/news/stock-market-news/tata-steel-to-acquire-264-in-apl-apollo-tubes-for-167-billion-5044262"
         }
       ]
     },
