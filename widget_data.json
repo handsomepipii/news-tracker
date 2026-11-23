@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 08:26",
+  "updated_at": "2026-11-23 08:56",
   "taiwan": [
     {
       "rank": 1,
@@ -195,6 +195,27 @@
     },
     {
       "rank": 9,
+      "title": "韓國防股災　準備啟動護盤基金放寬庫藏股嚴管放空",
+      "summary": [
+        "經濟日報：韓國防股災　準備啟動護盤基金放寬庫藏股嚴管放空",
+        "科技新報：韓國防股災，準備啟動護盤基金放寬庫藏股嚴管放空"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "韓國防股災　準備啟動護盤基金放寬庫藏股嚴管放空",
+          "url": "https://money.udn.com/money/story/5599/9895147"
+        },
+        {
+          "source": "科技新報",
+          "title": "韓國防股災，準備啟動護盤基金放寬庫藏股嚴管放空",
+          "url": "https://finance.technews.tw/2026/11/23/south-korea-prepares-launch-stock-stabilization-fund-ease-share-buyback-rules-tighten-short-selling-regulations-avert-market-crash/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "小笠原欣幸：洋流外溢影響新北、基隆、臺中、竹市選情",
       "summary": [
         "自由時報：小笠原欣幸：洋流外溢影響新北、基隆、臺中、竹市選情",
@@ -211,27 +232,6 @@
           "source": "TVBS新聞",
           "title": "洋流外溢! 沈基隆造勢站臺 蔣找「禿子.燕子」車掃｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02alNNUEFlODg1Y01NNUttclFWUl91RGNWclFvTTAtV3FIYzBSWUVpMDNZc29BRzJTUmFqRnFOR051bU5uMXg0TVk5aGVfM2NsV0I3SGVR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "明天的天氣/2波冷空氣來了！全臺降溫變天「這3天最濕冷」低溫下探15度， 一週氣象一次看",
-      "summary": [
-        "風傳媒：明天的天氣/2波冷空氣來了！全臺降溫變天「這3天最濕冷」低溫下探15度， 一週氣象一次看",
-        "自由時報：本週2波冷空氣接力！專家曝「降溫時間」：先濕冷、後乾冷"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "風傳媒",
-          "title": "明天的天氣/2波冷空氣來了！全臺降溫變天「這3天最濕冷」低溫下探15度， 一週氣象一次看",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BTDBoZ3JLTm56enE2QUc3cTd3am5TQXZybjZSdlowUHdid3pmRXc4RjM5VmhEUHBzQjJ0UWtzYjBOYkhZcHlzU1J5OFl4QlhL?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "本週2波冷空氣接力！專家曝「降溫時間」：先濕冷、後乾冷",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5650064"
         }
       ]
     }
@@ -428,16 +428,16 @@
     },
     {
       "rank": 10,
-      "title": "川普亞洲之行未解決關鍵問題",
+      "title": "臺灣學者張昱謙（Kenny Chang）解讀英偉達風波：美國能否堵住中國獲取先進AI算力的渠道？",
       "summary": [
-        "Bloomberg Markets：川普亞洲之行未解決關鍵問題"
+        "法廣RFI：臺灣學者張昱謙（Kenny Chang）解讀英偉達風波：美國能否堵住中國獲取先進AI算力的渠道？"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "川普亞洲之行未解決關鍵問題",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-22/trump-s-asia-trip-leaves-key-issues-unresolved-video"
+          "source": "法廣RFI",
+          "title": "臺灣學者張昱謙（Kenny Chang）解讀英偉達風波：美國能否堵住中國獲取先進AI算力的渠道？",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E5%8D%B0%E5%A4%AA%E7%B8%B1%E8%A6%BD/20261122-%E5%8F%B0%E7%81%A3%E5%AD%B8%E8%80%85%E5%BC%B5%E6%98%B1%E8%AC%99%E8%A7%A3%E8%AE%80%E8%8B%B1%E5%81%89%E9%81%94%E9%A2%A8%E6%B3%A2-%E7%BE%8E%E5%9C%8B%E8%83%BD%E5%90%A6%E5%A0%B5%E4%BD%8F%E4%B8%AD%E5%9C%8B%E7%8D%B2%E5%8F%96%E5%85%88%E9%80%B2ai%E7%AE%97%E5%8A%9B%E7%9A%84%E6%B8%A0%E9%81%93"
         }
       ]
     }
