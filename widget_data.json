@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 03:58",
+  "updated_at": "2026-11-24 04:28",
   "taiwan": [
     {
       "rank": 1,
@@ -343,23 +343,23 @@
     },
     {
       "rank": 4,
-      "title": "烏克蘭在利比亞海岸擊沉俄羅斯軍艦",
+      "title": "澤連斯基：烏克蘭在利比亞海域襲擊了兩艘俄羅斯船隻",
       "summary": [
-        "Financial Times：烏克蘭在利比亞海岸擊沉俄羅斯軍艦",
         "法廣RFI：澤連斯基：烏克蘭在利比亞海域襲擊了兩艘俄羅斯船隻",
+        "The Guardian：烏克蘭證實使用海軍無人機襲擊了利比亞附近的兩艘俄羅斯船隻",
         "Bloomberg Markets：烏克蘭聲稱俄羅斯船隻在利比亞海岸遭到攻擊"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "烏克蘭在利比亞海岸擊沉俄羅斯軍艦",
-          "url": "https://www.ft.com/content/b3f020fc-2617-4432-bced-af2a0b120133?syn-25a6b1a6=1"
-        },
-        {
           "source": "法廣RFI",
           "title": "澤連斯基：烏克蘭在利比亞海域襲擊了兩艘俄羅斯船隻",
           "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261123-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E5%9C%A8%E5%88%A9%E6%AF%94%E4%BA%9E%E6%B5%B7%E5%9F%9F%E8%A5%B2%E6%93%8A%E4%BA%86%E5%85%A9%E8%89%98%E4%BF%84%E7%BE%85%E6%96%AF%E8%88%B9%E9%9A%BB"
+        },
+        {
+          "source": "The Guardian",
+          "title": "烏克蘭證實使用海軍無人機襲擊了利比亞附近的兩艘俄羅斯船隻",
+          "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
         },
         {
           "source": "Bloomberg Markets",
