@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-23 21:57",
+  "updated_at": "2026-11-23 22:29",
   "taiwan": [
     {
       "rank": 1,
+      "title": "震撼彈！輝達宣佈 黃仁勳回任執行長",
+      "summary": [
+        "自由時報：震撼彈！輝達宣佈 黃仁勳回任執行長",
+        "經濟日報：輝達董事會透過 恢復黃仁勳總裁、執行長及董事職務",
+        "財訊：快訊／黃仁勳王者歸來！輝達重磅宣佈重新回任執行長"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "震撼彈！輝達宣佈 黃仁勳回任執行長",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5651047"
+        },
+        {
+          "source": "經濟日報",
+          "title": "輝達董事會透過 恢復黃仁勳總裁、執行長及董事職務",
+          "url": "https://money.udn.com/money/story/123398/9897265"
+        },
+        {
+          "source": "財訊",
+          "title": "快訊／黃仁勳王者歸來！輝達重磅宣佈重新回任執行長",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mMWRKVklhdWNWZ2E0NE4zd1ZmTFZWYkFrd1BIUm1LUGhTYWFHVkhFYXc3bUd4VjdaM0hCektxTWRsSURWZWI3Uld3NC1WdTg2dDlGLWVYYXByekhocEx4c2s3YkdtbFAxemNUMTMzWERSYWlPWGVQOUJuYw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "美連鎖披薩市場退燒  瘦瘦針也是衝擊原因",
       "summary": [
         "科技新報：美連鎖披薩市場退燒  瘦瘦針也是衝擊原因",
@@ -29,91 +56,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
-      "summary": [
-        "自由時報：烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
-        "ETtoday：爆炸瞬間曝！俄軍艦「遭無人艇夜襲」擊沉　戰火燒到地中海"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
-          "url": "https://news.ltn.com.tw/news/def/breakingnews/5650223"
-        },
-        {
-          "source": "ETtoday",
-          "title": "爆炸瞬間曝！俄軍艦「遭無人艇夜襲」擊沉　戰火燒到地中海",
-          "url": "https://www.ettoday.net/news/20261123/3276759.htm"
-        }
-      ]
-    },
-    {
       "rank": 3,
-      "title": "東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
-      "summary": [
-        "iThome：東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
-        "科技新報：Amazon 揭露：中國駭客出動自主 AI 代理，僅 11 分鐘挖出零時差漏洞攻陷大學伺服器"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
-          "url": "https://www.ithome.com.tw/news/180697"
-        },
-        {
-          "source": "科技新報",
-          "title": "Amazon 揭露：中國駭客出動自主 AI 代理，僅 11 分鐘挖出零時差漏洞攻陷大學伺服器",
-          "url": "https://infosecu.technews.tw/2026/11/23/chinese-hackers-leverage-ai-agents-launch-automated-attacks/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
-      "summary": [
-        "經濟日報：川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
-        "自由時報：再度公開力挺！ 川普呼籲讓黃仁勳回鍋：對輝達和美國都是最好的"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
-          "url": "https://money.udn.com/money/story/5599/9895928"
-        },
-        {
-          "source": "自由時報",
-          "title": "再度公開力挺！ 川普呼籲讓黃仁勳回鍋：對輝達和美國都是最好的",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650310"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "川普迷因幣晚宴大退燒　規模與價值雙雙暴跌",
-      "summary": [
-        "經濟日報：川普迷因幣晚宴大退燒　規模與價值雙雙暴跌",
-        "科技新報：川普迷因幣晚宴大退燒，規模與價值雙雙暴跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普迷因幣晚宴大退燒　規模與價值雙雙暴跌",
-          "url": "https://money.udn.com/money/story/5599/9895849"
-        },
-        {
-          "source": "科技新報",
-          "title": "川普迷因幣晚宴大退燒，規模與價值雙雙暴跌",
-          "url": "https://finance.technews.tw/2026/11/23/trump-hosts-gala-for-meme-coin-investors-as-his-token-plunges-to-record-lows/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "日月光投控：矽品精密工業11/12~23向聖暉*取得廠務工程，計約14.32億元",
       "summary": [
         "公開資訊觀測站重訊：日月光投控：矽品精密工業11/12~23向聖暉*取得廠務工程，計約14.32億元",
@@ -134,7 +77,91 @@
       ]
     },
     {
+      "rank": 4,
+      "title": "烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
+      "summary": [
+        "自由時報：烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
+        "ETtoday：爆炸瞬間曝！俄軍艦「遭無人艇夜襲」擊沉　戰火燒到地中海"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
+          "url": "https://news.ltn.com.tw/news/def/breakingnews/5650223"
+        },
+        {
+          "source": "ETtoday",
+          "title": "爆炸瞬間曝！俄軍艦「遭無人艇夜襲」擊沉　戰火燒到地中海",
+          "url": "https://www.ettoday.net/news/20261123/3276759.htm"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
+      "summary": [
+        "iThome：東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
+        "科技新報：Amazon 揭露：中國駭客出動自主 AI 代理，僅 11 分鐘挖出零時差漏洞攻陷大學伺服器"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
+          "url": "https://www.ithome.com.tw/news/180697"
+        },
+        {
+          "source": "科技新報",
+          "title": "Amazon 揭露：中國駭客出動自主 AI 代理，僅 11 分鐘挖出零時差漏洞攻陷大學伺服器",
+          "url": "https://infosecu.technews.tw/2026/11/23/chinese-hackers-leverage-ai-agents-launch-automated-attacks/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
+      "summary": [
+        "經濟日報：川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
+        "自由時報：再度公開力挺！ 川普呼籲讓黃仁勳回鍋：對輝達和美國都是最好的"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
+          "url": "https://money.udn.com/money/story/5599/9895928"
+        },
+        {
+          "source": "自由時報",
+          "title": "再度公開力挺！ 川普呼籲讓黃仁勳回鍋：對輝達和美國都是最好的",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650310"
+        }
+      ]
+    },
+    {
       "rank": 7,
+      "title": "川普迷因幣晚宴大退燒　規模與價值雙雙暴跌",
+      "summary": [
+        "經濟日報：川普迷因幣晚宴大退燒　規模與價值雙雙暴跌",
+        "科技新報：川普迷因幣晚宴大退燒，規模與價值雙雙暴跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普迷因幣晚宴大退燒　規模與價值雙雙暴跌",
+          "url": "https://money.udn.com/money/story/5599/9895849"
+        },
+        {
+          "source": "科技新報",
+          "title": "川普迷因幣晚宴大退燒，規模與價值雙雙暴跌",
+          "url": "https://finance.technews.tw/2026/11/23/trump-hosts-gala-for-meme-coin-investors-as-his-token-plunges-to-record-lows/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
       "summary": [
         "ETtoday：快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
@@ -155,49 +182,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "繞過法院禁令 美陸軍擬引爆68桶有毒爆裂物",
-      "summary": [
-        "自由時報：繞過法院禁令 美陸軍擬引爆68桶有毒爆裂物",
-        "經濟日報：繞過法院禁令　美陸軍擬引爆68桶劣化含鉛炸藥"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "繞過法院禁令 美陸軍擬引爆68桶有毒爆裂物",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650135"
-        },
-        {
-          "source": "經濟日報",
-          "title": "繞過法院禁令　美陸軍擬引爆68桶劣化含鉛炸藥",
-          "url": "https://money.udn.com/money/story/5599/9896237"
-        }
-      ]
-    },
-    {
       "rank": 9,
-      "title": "駭客鎖定貿易命脈　美國港口每日面臨數千次網攻",
-      "summary": [
-        "經濟日報：駭客鎖定貿易命脈　美國港口每日面臨數千次網攻",
-        "科技新報：駭客鎖定貿易命脈，美國港口每日面臨數千次網攻"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "駭客鎖定貿易命脈　美國港口每日面臨數千次網攻",
-          "url": "https://money.udn.com/money/story/5599/9895720"
-        },
-        {
-          "source": "科技新報",
-          "title": "駭客鎖定貿易命脈，美國港口每日面臨數千次網攻",
-          "url": "https://infosecu.technews.tw/2026/11/23/us-ports-face-cyber-attack-onslaught-as-hackers-target-vital-trade-routes/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "晶片成本高漲 傳供應商在簽約後將AI伺服器調漲45％",
       "summary": [
         "自由時報：晶片成本高漲 傳供應商在簽約後將AI伺服器調漲45％",
@@ -214,6 +199,27 @@
           "source": "MoneyDJ理財網",
           "title": "AI伺服器簽約後還漲價？傳交貨前加價最多45%",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREJHaXAyX1hrVXdJTjZWYXdTRklCdFRYc3RocWFVdkRmMWVfcnNVei1JNERLS3k0aXFlZThWaENlSTFKOTFZTWdmcmwxU1pYby01ZmlxQnpSalgzRkd4d3paRGpKbk9KY0tKNExiTlNDOWI0WUhhSzRFTWhNY2FfWXJNYzVnRnJIeG90ME9TWGk0Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "臺中榮總接連爆代刀、收回扣爭議 石崇良：若屬實撤除醫師執照",
+      "summary": [
+        "自由時報：臺中榮總接連爆代刀、收回扣爭議 石崇良：若屬實撤除醫師執照",
+        "ETtoday：中榮名醫爆涉收回扣　石崇良喊痛心：最重撤醫師執照"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "臺中榮總接連爆代刀、收回扣爭議 石崇良：若屬實撤除醫師執照",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5650216"
+        },
+        {
+          "source": "ETtoday",
+          "title": "中榮名醫爆涉收回扣　石崇良喊痛心：最重撤醫師執照",
+          "url": "https://health.ettoday.net/news/3276816"
         }
       ]
     }
@@ -258,6 +264,43 @@
     },
     {
       "rank": 2,
+      "title": "Nvidia (NVDA) 恢復黃仁勳擔任執行長：即時更新",
+      "summary": [
+        "Bloomberg Tech：Nvidia (NVDA) 恢復黃仁勳擔任執行長：即時更新",
+        "CNBC：Nvidia 恢復黃仁勳擔任執行長。股價暴漲31%",
+        "Investing.com：Nvidia 恢復黃仁勳擔任執行長"
+      ],
+      "media_count": 5,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Nvidia (NVDA) 恢復黃仁勳擔任執行長：即時更新",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-11-23/nvidia-reinstates-jensen-huang-as-ceo-live-updates"
+        },
+        {
+          "source": "CNBC",
+          "title": "Nvidia 恢復黃仁勳擔任執行長。股價暴漲31%",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "Nvidia 恢復黃仁勳擔任執行長",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-reinstates-jensen-huang-as-ceo-5045809"
+        },
+        {
+          "source": "The Verge",
+          "title": "黃仁勳重新擔任 Nvidia 執行長",
+          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "黃仁勳恢復擔任 Nvidia 執行長兼董事會主席",
+          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
       "summary": [
         "Investing.com：儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
@@ -289,7 +332,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "烏克蘭在利比亞海岸擊沉俄羅斯軍艦",
       "summary": [
         "Financial Times：烏克蘭在利比亞海岸擊沉俄羅斯軍艦",
@@ -316,7 +359,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
       "summary": [
         "Bloomberg Markets：塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
@@ -337,7 +380,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "救援人員稱，俄羅斯空襲烏克蘭後數小時，7 歲男孩從廢墟中被救出",
       "summary": [
         "BBC World：救援人員稱，俄羅斯空襲烏克蘭後數小時，7 歲男孩從廢墟中被救出",
@@ -358,7 +401,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "如何在人工智慧貿易瓦解之際尋找價值",
       "summary": [
         "Bloomberg Tech：如何在人工智慧貿易瓦解之際尋找價值",
@@ -379,7 +422,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "COP31未能達成重大氣候協議，談判暴露出嚴重分歧",
       "summary": [
         "BBC中文：COP31未能達成重大氣候協議，談判暴露出嚴重分歧",
@@ -400,7 +443,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
       "summary": [
         "NHK新聞：「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
@@ -421,7 +464,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "歐盟對可口可樂裝瓶商發起反壟斷調查",
       "summary": [
         "Financial Times：歐盟對可口可樂裝瓶商發起反壟斷調查",
@@ -438,21 +481,6 @@
           "source": "Bloomberg Markets",
           "title": "可口可樂裝瓶商因濫用市場力量而受到歐盟調查",
           "url": "https://www.bloomberg.com/news/articles/2026-11-23/coca-cola-bottler-hit-by-eu-probe-into-abuse-of-market-power"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "為什麼Infragreen股票今天會激增？",
-      "summary": [
-        "Investing.com：為什麼Infragreen股票今天會激增？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "為什麼Infragreen股票今天會激增？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-infragreen-stock-surging-today-93CH-5044279"
         }
       ]
     }
