@@ -1,21 +1,16 @@
 {
-  "updated_at": "2026-11-23 16:56",
+  "updated_at": "2026-11-23 17:25",
   "taiwan": [
     {
       "rank": 1,
       "title": "黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
       "summary": [
-        "自由時報：黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
         "經濟日報：黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
-        "ETtoday：黃仁勳回歸？　美財長：他已是外部人士"
+        "ETtoday：黃仁勳回歸？　美財長：他已是外部人士",
+        "自由時報：黃仁勳回歸？貝森特：他已是「外部人士」 待輝達調查"
       ],
       "media_count": 3,
       "links": [
-        {
-          "source": "自由時報",
-          "title": "黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650029"
-        },
         {
           "source": "經濟日報",
           "title": "黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
@@ -25,6 +20,11 @@
           "source": "ETtoday",
           "title": "黃仁勳回歸？　美財長：他已是外部人士",
           "url": "https://www.ettoday.net/news/20261123/3276699.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "黃仁勳回歸？貝森特：他已是「外部人士」 待輝達調查",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5650033"
         }
       ]
     },
@@ -105,90 +105,6 @@
     },
     {
       "rank": 5,
-      "title": "傳軟銀曾想砸1兆美元買SK海力士 計畫已擱置-新聞內容-基金",
-      "summary": [
-        "MoneyDJ理財網：傳軟銀曾想砸1兆美元買SK海力士 計畫已擱置-新聞內容-基金",
-        "科技新報：傳軟銀曾想砸 1 兆美元買 SK 海力士  計畫已擱置"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "傳軟銀曾想砸1兆美元買SK海力士 計畫已擱置-新聞內容-基金",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkZCWTZxYkliN1BzQkowMFhEUGNwclpfMkV2YnNqUkVBLXA1ang0cHVyQWN0X1ptOWRUMHBoLVp6bFFKbXNUWDJaOTFnSklnVGY3SzYxOVYtUHJBOVRmaFMxWGVtTGhNZkF2RWkyanU4ZkRqSWIwSkxQbmFfTlNiaXJpUGwzRnhjcFA5Y3FSeXU?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "傳軟銀曾想砸 1 兆美元買 SK 海力士  計畫已擱置",
-          "url": "https://technews.tw/2026/11/23/softbanks-masayoshi-son-explored-1-trillion-moonshot-buyout-of-sk-hynix/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "資安重磅再現再現？傳CrowdStrike洽購Zscaler-新聞內容-基金",
-      "summary": [
-        "MoneyDJ理財網：資安重磅再現再現？傳CrowdStrike洽購Zscaler-新聞內容-基金",
-        "科技新報：資安體重水準重現？傳 CrowdStrike 陳購 Zscaler"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "資安重磅再現再現？傳CrowdStrike洽購Zscaler-新聞內容-基金",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc0N5NVc2ZjBKX1B1cDl1Umg2d1RaUmN6MFFHSVEyaDVPaGtreUJXclZVeWNzZmpYYXZ5UWxnc1EtT3BESGpGN1pZM05ndjRJWDFudWtjME5CU1htMkFyODhEZHR4SGRiSEcwVHczSGdJbExVeXFRY0FuMUZnWHBBeWVsREFsOFFlUzJNTTV0b3g?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "資安體重水準重現？傳 CrowdStrike 陳購 Zscaler",
-          "url": "https://infosecu.technews.tw/2026/11/23/crowdstrike-in-talks-to-acquire-zscaler/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
-      "summary": [
-        "自由時報：烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
-        "ETtoday：爆炸瞬間曝！俄軍艦「遭無人艇夜襲」擊沉　戰火燒到地中海"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
-          "url": "https://news.ltn.com.tw/news/def/breakingnews/5650223"
-        },
-        {
-          "source": "ETtoday",
-          "title": "爆炸瞬間曝！俄軍艦「遭無人艇夜襲」擊沉　戰火燒到地中海",
-          "url": "https://www.ettoday.net/news/20261123/3276759.htm"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
-      "summary": [
-        "經濟日報：川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
-        "自由時報：再度公開力挺！ 川普呼籲讓黃仁勳回鍋：對輝達和美國都是最好的"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
-          "url": "https://money.udn.com/money/story/5599/9895928"
-        },
-        {
-          "source": "自由時報",
-          "title": "再度公開力挺！ 川普呼籲讓黃仁勳回鍋：對輝達和美國都是最好的",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650310"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "鋒面要來了！　雨連下3天",
       "summary": [
         "ETtoday：鋒面要來了！　雨連下3天",
@@ -209,23 +125,107 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "黃仁勳涉中國間諜風波　美情報首長證實調查黃樂與Megaspeed",
+      "rank": 6,
+      "title": "傳軟銀曾想砸1兆美元買SK海力士 計畫已擱置-新聞內容-基金",
       "summary": [
-        "ETtoday：黃仁勳涉中國間諜風波　美情報首長證實調查黃樂與Megaspeed",
-        "科技新報：美國國家情報總監：正對與黃仁勳有染疑似中國間諜進行調查"
+        "MoneyDJ理財網：傳軟銀曾想砸1兆美元買SK海力士 計畫已擱置-新聞內容-基金",
+        "科技新報：傳軟銀曾想砸 1 兆美元買 SK 海力士  計畫已擱置"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "黃仁勳涉中國間諜風波　美情報首長證實調查黃樂與Megaspeed",
-          "url": "https://www.ettoday.net/news/20261123/3276701.htm"
+          "source": "MoneyDJ理財網",
+          "title": "傳軟銀曾想砸1兆美元買SK海力士 計畫已擱置-新聞內容-基金",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkZCWTZxYkliN1BzQkowMFhEUGNwclpfMkV2YnNqUkVBLXA1ang0cHVyQWN0X1ptOWRUMHBoLVp6bFFKbXNUWDJaOTFnSklnVGY3SzYxOVYtUHJBOVRmaFMxWGVtTGhNZkF2RWkyanU4ZkRqSWIwSkxQbmFfTlNiaXJpUGwzRnhjcFA5Y3FSeXU?oc=5"
         },
         {
           "source": "科技新報",
-          "title": "美國國家情報總監：正對與黃仁勳有染疑似中國間諜進行調查",
-          "url": "https://technews.tw/2026/11/23/us-probing-alleged-spy-tied-to-ex-nvidia-ceo/"
+          "title": "傳軟銀曾想砸 1 兆美元買 SK 海力士  計畫已擱置",
+          "url": "https://technews.tw/2026/11/23/softbanks-masayoshi-son-explored-1-trillion-moonshot-buyout-of-sk-hynix/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "資安重磅再現再現？傳CrowdStrike洽購Zscaler-新聞內容-基金",
+      "summary": [
+        "MoneyDJ理財網：資安重磅再現再現？傳CrowdStrike洽購Zscaler-新聞內容-基金",
+        "科技新報：資安體重水準重現？傳 CrowdStrike 陳購 Zscaler"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "資安重磅再現再現？傳CrowdStrike洽購Zscaler-新聞內容-基金",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc0N5NVc2ZjBKX1B1cDl1Umg2d1RaUmN6MFFHSVEyaDVPaGtreUJXclZVeWNzZmpYYXZ5UWxnc1EtT3BESGpGN1pZM05ndjRJWDFudWtjME5CU1htMkFyODhEZHR4SGRiSEcwVHczSGdJbExVeXFRY0FuMUZnWHBBeWVsREFsOFFlUzJNTTV0b3g?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "資安體重水準重現？傳 CrowdStrike 陳購 Zscaler",
+          "url": "https://infosecu.technews.tw/2026/11/23/crowdstrike-in-talks-to-acquire-zscaler/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
+      "summary": [
+        "自由時報：烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
+        "ETtoday：爆炸瞬間曝！俄軍艦「遭無人艇夜襲」擊沉　戰火燒到地中海"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
+          "url": "https://news.ltn.com.tw/news/def/breakingnews/5650223"
+        },
+        {
+          "source": "ETtoday",
+          "title": "爆炸瞬間曝！俄軍艦「遭無人艇夜襲」擊沉　戰火燒到地中海",
+          "url": "https://www.ettoday.net/news/20261123/3276759.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
+      "summary": [
+        "經濟日報：川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
+        "自由時報：再度公開力挺！ 川普呼籲讓黃仁勳回鍋：對輝達和美國都是最好的"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
+          "url": "https://money.udn.com/money/story/5599/9895928"
+        },
+        {
+          "source": "自由時報",
+          "title": "再度公開力挺！ 川普呼籲讓黃仁勳回鍋：對輝達和美國都是最好的",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650310"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "搶救臺股！ 融資擔保維持率 擬降至120%",
+      "summary": [
+        "自由時報：搶救臺股！ 融資擔保維持率 擬降至120%",
+        "財訊：融資維持率降至120％ 證交所：11/24起實施"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "搶救臺股！ 融資擔保維持率 擬降至120%",
+          "url": "https://ec.ltn.com.tw/article/paper/1779537"
+        },
+        {
+          "source": "財訊",
+          "title": "融資維持率降至120％ 證交所：11/24起實施",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YcVZ6czBpa3hnT085YVhodms1MFppLVNfUHN1a1NMR1RlSF9QNlM3YW1fZVFYQ1VVa1JTVzl4c0tqSndDcTY5bGJUMVpoU3QyLUZlb2NGODRuc1NYX0Z4dHhxSjRIQm80Ujg2X01YdW5wbmN2cEVFb1Itbw?oc=5"
         }
       ]
     }
@@ -265,27 +265,6 @@
     },
     {
       "rank": 2,
-      "title": "OpenAI首席科學家對如何限制AI發展有思考",
-      "summary": [
-        "TechCrunch：OpenAI首席科學家對如何限制AI發展有思考",
-        "Investing.com：OpenAI 科學家提出與模型智慧指標相關的產業人工智慧限制"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "OpenAI首席科學家對如何限制AI發展有思考",
-          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
-        },
-        {
-          "source": "Investing.com",
-          "title": "OpenAI 科學家提出與模型智慧指標相關的產業人工智慧限制",
-          "url": "https://www.investing.com/news/stock-market-news/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric-5044174"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "眾議院民主黨人將在本世紀以最大多陣列成新國會",
       "summary": [
         "Financial Times：眾議院民主黨人將在本世紀以最大多陣列成新國會",
@@ -306,7 +285,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
       "summary": [
         "Bloomberg Markets：銅價在上週因 AI 前景黯淡而下跌超過 9% 後上漲",
@@ -327,7 +306,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
       "summary": [
         "Bloomberg Markets：塔塔鋼鐵公司將以 17 億美元收購 APL Apollo Tubes 26.4% 的股份",
@@ -348,7 +327,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "如何在人工智慧貿易瓦解之際尋找價值",
       "summary": [
         "Bloomberg Tech：如何在人工智慧貿易瓦解之際尋找價值",
@@ -369,7 +348,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
       "summary": [
         "NHK新聞：「俄羅斯軍艦」在利比亞爆炸；烏克蘭可能使用無人機發動攻擊",
@@ -390,7 +369,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "為什麼Infragreen股票今天會激增？",
       "summary": [
         "Investing.com：為什麼Infragreen股票今天會激增？"
@@ -405,7 +384,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "黃樂親屬及商業夥伴與中國軍工承包商有廣泛聯絡- 紐約時報中文網",
       "summary": [
         "紐約時報中文：黃樂親屬及商業夥伴與中國軍工承包商有廣泛聯絡- 紐約時報中文網"
@@ -420,7 +399,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "英偉達危機擠壓東南亞後，川普對中國的人工智慧晶片打壓",
       "summary": [
         "Bloomberg Tech：英偉達危機擠壓東南亞後，川普對中國的人工智慧晶片打壓"
@@ -431,6 +410,21 @@
           "source": "Bloomberg Tech",
           "title": "英偉達危機擠壓東南亞後，川普對中國的人工智慧晶片打壓",
           "url": "https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退",
+      "summary": [
+        "法廣RFI：第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "第31屆聯合國氣候大會以失敗告終 : 歐盟說深感失望，法國說新協議草案是倒退",
+          "url": "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20261122-%E7%AC%AC31%E5%B1%86%E8%81%AF%E5%90%88%E5%9C%8B%E6%B0%A3%E5%80%99%E5%A4%A7%E6%9C%83%E4%BB%A5%E5%A4%B1%E6%95%97%E5%91%8A%E7%B5%82-%E6%AD%90%E7%9B%9F%E8%AA%AA%E6%B7%B1%E6%84%9F%E5%A4%B1%E6%9C%9B%EF%BC%8C%E6%B3%95%E5%9C%8B%E8%AA%AA%E6%96%B0%E5%8D%94%E8%AD%B0%E8%8D%89%E6%A1%88%E6%98%AF%E5%80%92%E9%80%80"
         }
       ]
     }
