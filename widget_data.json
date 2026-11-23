@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-23 17:25",
+  "updated_at": "2026-11-23 17:55",
   "taiwan": [
     {
       "rank": 1,
-      "title": "黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
-      "summary": [
-        "經濟日報：黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
-        "ETtoday：黃仁勳回歸？　美財長：他已是外部人士",
-        "自由時報：黃仁勳回歸？貝森特：他已是「外部人士」 待輝達調查"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳回歸？美財長：他已是外部人士　等待輝達說明",
-          "url": "https://money.udn.com/money/story/5599/9895441"
-        },
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳回歸？　美財長：他已是外部人士",
-          "url": "https://www.ettoday.net/news/20261123/3276699.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "黃仁勳回歸？貝森特：他已是「外部人士」 待輝達調查",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5650033"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
       "summary": [
         "自由時報：史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "臺股重挫謝金河喊「恐懼常醞釀轉折」：危機入市機會來了- 財經",
       "summary": [
         "中時新聞：臺股重挫謝金河喊「恐懼常醞釀轉折」：危機入市機會來了- 財經",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "北士科建案昨火災 業主發聲了",
       "summary": [
         "自由時報：北士科建案昨火災 業主發聲了",
@@ -104,7 +77,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "鋒面要來了！　雨連下3天",
       "summary": [
         "ETtoday：鋒面要來了！　雨連下3天",
@@ -125,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "傳軟銀曾想砸1兆美元買SK海力士 計畫已擱置-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：傳軟銀曾想砸1兆美元買SK海力士 計畫已擱置-新聞內容-基金",
@@ -146,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "資安重磅再現再現？傳CrowdStrike洽購Zscaler-新聞內容-基金",
       "summary": [
         "MoneyDJ理財網：資安重磅再現再現？傳CrowdStrike洽購Zscaler-新聞內容-基金",
@@ -167,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
       "summary": [
         "自由時報：烏開新戰場！俄停泊地中海護衛艦遭無人艇擊沉 波羅的海貨船也遇襲",
@@ -188,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
       "summary": [
         "經濟日報：川普深夜發文救黃仁勳！點名輝達董事會回聘黃「對美國最好」",
@@ -209,23 +182,44 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "搶救臺股！ 融資擔保維持率 擬降至120%",
+      "rank": 9,
+      "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將召開會議",
       "summary": [
-        "自由時報：搶救臺股！ 融資擔保維持率 擬降至120%",
-        "財訊：融資維持率降至120％ 證交所：11/24起實施"
+        "ETtoday：3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將召開會議",
+        "公視新聞：俄羅斯3飛彈墜落波蘭 遭控蓄意挑釁援烏軍演｜#公視新聞網 #Shorts ｜ 公視新聞 PNN"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "搶救臺股！ 融資擔保維持率 擬降至120%",
-          "url": "https://ec.ltn.com.tw/article/paper/1779537"
+          "source": "ETtoday",
+          "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將召開會議",
+          "url": "https://www.ettoday.net/news/20261123/3276702.htm"
         },
         {
-          "source": "財訊",
-          "title": "融資維持率降至120％ 證交所：11/24起實施",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YcVZ6czBpa3hnT085YVhodms1MFppLVNfUHN1a1NMR1RlSF9QNlM3YW1fZVFYQ1VVa1JTVzl4c0tqSndDcTY5bGJUMVpoU3QyLUZlb2NGODRuc1NYX0Z4dHhxSjRIQm80Ujg2X01YdW5wbmN2cEVFb1Itbw?oc=5"
+          "source": "公視新聞",
+          "title": "俄羅斯3飛彈墜落波蘭 遭控蓄意挑釁援烏軍演｜#公視新聞網 #Shorts ｜ 公視新聞 PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xTXBrTEdMckd4OFFtR01lVkRJNEJ0WUNqMTJSdDA5M1JodU5lSjFUVlN6MVZMaFNtbE0zYXJaUW5Wc3Z0ZU0wamk4aw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳涉中國間諜風波　美情報首長證實調查黃樂與Megaspeed",
+      "summary": [
+        "ETtoday：黃仁勳涉中國間諜風波　美情報首長證實調查黃樂與Megaspeed",
+        "科技新報：美國國家情報總監：正對與黃仁勳有染疑似中國間諜進行調查"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳涉中國間諜風波　美情報首長證實調查黃樂與Megaspeed",
+          "url": "https://www.ettoday.net/news/20261123/3276701.htm"
+        },
+        {
+          "source": "科技新報",
+          "title": "美國國家情報總監：正對與黃仁勳有染疑似中國間諜進行調查",
+          "url": "https://technews.tw/2026/11/23/us-probing-alleged-spy-tied-to-ex-nvidia-ceo/"
         }
       ]
     }
