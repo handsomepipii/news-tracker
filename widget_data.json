@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 13:56",
+  "updated_at": "2026-11-23 14:25",
   "taiwan": [
     {
       "rank": 1,
@@ -245,6 +245,38 @@
   "global": [
     {
       "rank": 1,
+      "title": "儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
+      "summary": [
+        "Investing.com：儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
+        "Financial Times：由於人工智慧貿易步履蹣跚，亞洲監管機構急於支援低迷的市場",
+        "Bloomberg Markets：由於人工智慧擔憂抵消了支援措施，亞洲股市下跌"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
+          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-ai-rout-deepens-despite-rebound-in-us-futures-5044254"
+        },
+        {
+          "source": "Financial Times",
+          "title": "由於人工智慧貿易步履蹣跚，亞洲監管機構急於支援低迷的市場",
+          "url": "https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "由於人工智慧擔憂抵消了支援措施，亞洲股市下跌",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-23/asian-stocks-drop-as-ai-worries-offset-support-measures-video"
+        },
+        {
+          "source": "CNBC",
+          "title": "隨著人工智慧低迷導致股市下跌，亞洲國家如何尋求支撐市場",
+          "url": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "COP31未能達成重大氣候協議，談判暴露出深刻分歧",
       "summary": [
         "BBC World：COP31未能達成重大氣候協議，談判暴露出深刻分歧",
@@ -271,7 +303,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "OpenAI首席科學家敦促產業限制人工智慧發展",
       "summary": [
         "Bloomberg Tech：OpenAI首席科學家敦促產業限制人工智慧發展",
@@ -294,27 +326,6 @@
           "source": "Investing.com",
           "title": "OpenAI 科學家提出與模型智慧指標相關的產業人工智慧限制",
           "url": "https://www.investing.com/news/stock-market-news/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric-5044174"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "貝森特表示，美國就英偉達向中國出售晶片一事尋求答案",
-      "summary": [
-        "Investing.com：貝森特表示，美國就英偉達向中國出售晶片一事尋求答案",
-        "Nikkei Asia：美國必須「看看英偉達向中國銷售晶片的責任在哪裡」：Bessent"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "貝森特表示，美國就英偉達向中國出售晶片一事尋求答案",
-          "url": "https://www.investing.com/news/stock-market-news/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says-5044083"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "美國必須「看看英偉達向中國銷售晶片的責任在哪裡」：Bessent",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMXN4dF9GTFo4blZGMUtKUXZ2TzNMTmE3aWVwLXhqby1wVFFWRmI2Zkhmendkb0N1b2tJTHctS0x2a3VvLVhHNmZzQUZLX2FFOTA2XzBRM2ZGdDhWektYVkVYalljZkJranp0Y1dyRXFyVWtxZWRUV0VyajEybnpWSUl5ejEzZnA0bDYyT2NZdTN1bXB0TVNPeU5MZXF0LUV6M2N2QTBOWGtmZ0duMGJva0ZLbXM0Y0NJS1F4ZjR6dExCOG1ELUZ3Rk5NSU1xZmdPRjFiOHYxd00teDYzX1E?oc=5"
         }
       ]
     },
@@ -446,22 +457,16 @@
     },
     {
       "rank": 10,
-      "title": "儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
+      "title": "為什麼Infragreen股票今天會激增？",
       "summary": [
-        "Investing.com：儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
-        "Bloomberg Markets：由於人工智慧擔憂抵消了支援措施，亞洲股市下跌"
+        "Investing.com：為什麼Infragreen股票今天會激增？"
       ],
-      "media_count": 2,
+      "media_count": 1,
       "links": [
         {
           "source": "Investing.com",
-          "title": "儘管美國期貨反彈，但隨著人工智慧潰敗加深，亞洲股市下滑",
-          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-ai-rout-deepens-despite-rebound-in-us-futures-5044254"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "由於人工智慧擔憂抵消了支援措施，亞洲股市下跌",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/asian-stocks-drop-as-ai-worries-offset-support-measures-video"
+          "title": "為什麼Infragreen股票今天會激增？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-infragreen-stock-surging-today-93CH-5044279"
         }
       ]
     }
