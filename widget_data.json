@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 05:59",
+  "updated_at": "2026-11-24 06:28",
   "taiwan": [
     {
       "rank": 1,
@@ -67,6 +67,33 @@
     },
     {
       "rank": 3,
+      "title": "川普：司法部指黃仁勳無涉罪行　失去國家級腦力才是國安威脅",
+      "summary": [
+        "自由時報：川普：司法部指黃仁勳無涉罪行　失去國家級腦力才是國安威脅",
+        "經濟日報：川普：司法部指黃仁勳無涉罪行　失去國家級腦力才是國安威脅",
+        "ETtoday：川普：司法部認定黃仁勳無涉罪行　失去國家級腦力才是國安威脅"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "川普：司法部指黃仁勳無涉罪行　失去國家級腦力才是國安威脅",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5651116"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普：司法部指黃仁勳無涉罪行　失去國家級腦力才是國安威脅",
+          "url": "https://money.udn.com/money/story/5599/9897546"
+        },
+        {
+          "source": "ETtoday",
+          "title": "川普：司法部認定黃仁勳無涉罪行　失去國家級腦力才是國安威脅",
+          "url": "https://www.ettoday.net/news/20261124/3277332.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "日月光投控：矽品精密工業11/12~23向聖暉*取得廠務工程，計約14.32億元",
       "summary": [
         "公開資訊觀測站重訊：日月光投控：矽品精密工業11/12~23向聖暉*取得廠務工程，計約14.32億元",
@@ -87,7 +114,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
       "summary": [
         "ETtoday：快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
@@ -108,7 +135,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "重磅逆轉勝！黃仁勳重掌執行長 股價飆升超過26％",
       "summary": [
         "自由時報：重磅逆轉勝！黃仁勳重掌執行長 股價飆升超過26％",
@@ -129,7 +156,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Toyz神預言黃仁勳回鍋輝達！「大膽預測」8天後成真",
       "summary": [
         "ETtoday：Toyz神預言黃仁勳回鍋輝達！「大膽預測」8天後成真",
@@ -150,7 +177,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "黃仁勳返輝達總部員工熱烈歡迎　承諾「第二次會做更好」",
       "summary": [
         "自由時報：黃仁勳返輝達總部員工熱烈歡迎　承諾「第二次會做更好」",
@@ -167,27 +194,6 @@
           "source": "經濟日報",
           "title": "黃仁勳返輝達總部員工熱烈歡迎 承諾「第二次會做更好」",
           "url": "https://money.udn.com/money/story/5599/9897589"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "自拍恐嚇「砍賴清德、機場放炸彈」被起訴  無業男辯遭脅迫",
-      "summary": [
-        "自由時報：自拍恐嚇「砍賴清德、機場放炸彈」被起訴  無業男辯遭脅迫",
-        "中時新聞：拿身分證自拍嗆「砍殺賴清德、炸機場」 臺南男稱遭脅迫仍檢方起訴"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "自拍恐嚇「砍賴清德、機場放炸彈」被起訴  無業男辯遭脅迫",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5650825"
-        },
-        {
-          "source": "中時新聞",
-          "title": "拿身分證自拍嗆「砍殺賴清德、炸機場」 臺南男稱遭脅迫仍檢方起訴",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90b054WkxkTUFtV3lIVkRoWmFZd2k0dVdWdlFQR1U1aGl2VGJGaGNMa2tKSFhuWDBzQXduLU5LQWpMUkFKRm1NVWIwVHZzME0ySjg1V2o3QVJ3SnprRk1rSTUxZThTM2d5dmZlZ3pn?oc=5"
         }
       ]
     },
@@ -303,9 +309,9 @@
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPa0MwNl9mNFFvX25LUERTZmpPSG5BY0tHRFpxRW1KTWRnTWpzNnUzemU3OG5kS2pYdlVIZ3F2UDczXzh3OWlkQWo5c1NSWnJDUFVrNWhYRXlXSkM2TW9VdUpiYkNqdkxqc1BqcU9ndTRDNHY5WE1JZzBDMEFkRnhDd0JLcFVUTXppeGFMTGkwUVRYMXp3bjlucm5VZUJNZTVhVDlHdW9Xd1dTSUQxbjBKbm80NnpXRVlabzYzcFpLd19YV3RvWTV1NnY5eExkaDhWT0s1OVJ6QVNrOHhjZTNGd1l3Rkx1QzFHU0hja2dobER4cXZa?oc=5"
         },
         {
-          "source": "CNBC",
-          "title": "CrowdStrike以440億美元收購Zscaler，人工智慧助推網路攻擊",
-          "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
+          "source": "MarketWatch",
+          "title": "網路安全股票一直很熱門——現在 CrowdStrike 簽署了收購 Zscaler 的協議",
+          "url": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories"
         }
       ]
     },
@@ -354,7 +360,7 @@
         "Bloomberg Tech：美國將英偉達醜聞中心公司 Megaspeed 列入黑名單",
         "TechCrunch：處於黃仁勳醜聞中心的公司 Megaspeed 似乎正被列入美國黑名單"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "Investing.com",
@@ -370,6 +376,11 @@
           "source": "TechCrunch",
           "title": "處於黃仁勳醜聞中心的公司 Megaspeed 似乎正被列入美國黑名單",
           "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
+        },
+        {
+          "source": "BBC World",
+          "title": "因英偉達醜聞，美國將亞洲人工智慧公司 Megaspeed 列入黑名單",
+          "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -429,33 +440,6 @@
     },
     {
       "rank": 7,
-      "title": "據稱亞馬遜將斥資 75 億美元收購人工智慧新創公司 Decart 的技術",
-      "summary": [
-        "Bloomberg Tech：據稱亞馬遜將斥資 75 億美元收購人工智慧新創公司 Decart 的技術",
-        "TechCrunch：亞馬遜以 7.5B 美元收購 Decart 的人工智慧最佳化技術，準備銷售 Trainium 晶片",
-        "CNBC：亞馬遜將收購人工智慧新創公司Decart的晶片軟體並聘請創辦人"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "據稱亞馬遜將斥資 75 億美元收購人工智慧新創公司 Decart 的技術",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "亞馬遜以 7.5B 美元收購 Decart 的人工智慧最佳化技術，準備銷售 Trainium 晶片",
-          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
-        },
-        {
-          "source": "CNBC",
-          "title": "亞馬遜將收購人工智慧新創公司Decart的晶片軟體並聘請創辦人",
-          "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "英偉達恢復黃仁勳執行長，股價飆升",
       "summary": [
         "Yahoo Finance：英偉達恢復黃仁勳執行長，股價飆升",
@@ -482,7 +466,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "唐納德·川普敦促英偉達重新聘用前執行長黃仁勳",
       "summary": [
         "Yahoo Finance：唐納德·川普敦促英偉達重新聘用前執行長黃仁勳",
@@ -509,23 +493,44 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "英偉達董事會不考慮恢復黃仁勳的CEO職位",
+      "rank": 9,
+      "title": "歐盟對可口可樂裝瓶商發起反壟斷調查",
       "summary": [
-        "FT中文網：英偉達董事會不考慮恢復黃仁勳的CEO職位",
-        "Yahoo Finance：董事會拒絕黃仁勳回歸幾天后，英偉達恢復黃仁勳擔任執行長"
+        "Financial Times：歐盟對可口可樂裝瓶商發起反壟斷調查",
+        "Bloomberg Markets：可口可樂裝瓶商因濫用市場力量而受到歐盟調查"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "FT中文網",
-          "title": "英偉達董事會不考慮恢復黃仁勳的CEO職位",
-          "url": "https://www.ftchinese.com/story/001111390"
+          "source": "Financial Times",
+          "title": "歐盟對可口可樂裝瓶商發起反壟斷調查",
+          "url": "https://www.ft.com/content/a9686a35-ba71-4f5c-8fe8-ca3bc34a67b1?syn-25a6b1a6=1"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "董事會拒絕黃仁勳回歸幾天后，英偉達恢復黃仁勳擔任執行長",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWVl1S2QzZFIyZGQzRDJWNERvNU9XT013czZwZU1zZjB2czAtaTVtQ3hvLVlRWFpHa29RYVA3RU1XZXFuaVlUQnpoVHBJek1RdHBrVW9jNDV5amx6dXJzVGQ1VkgwUHpDaUY1Sko4ZGJJUWRDakZNeTd4dlV2eGxyd3Z4dlN6Sk55elFLeWhYVjV2YXVjWUhpWEc3eFhRMGZ1?oc=5"
+          "source": "Bloomberg Markets",
+          "title": "可口可樂裝瓶商因濫用市場力量而受到歐盟調查",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/coca-cola-bottler-hit-by-eu-probe-into-abuse-of-market-power"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "由於各國未能就氣候協議達成一致，COP31談判破裂",
+      "summary": [
+        "Washington Post：由於各國未能就氣候協議達成一致，COP31談判破裂",
+        "Ars Technica：由於各國在化石燃料、氣候融資議題上存在分歧，COP31以失敗告終"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "由於各國未能就氣候協議達成一致，COP31談判破裂",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOFNSZF85SVFvQ3FoZEU2b0J3endVM3lvRGZ6eWwyVTdSTGFFa3kwdVJTMmhDZ0dLRzBMdDZhV1hkVVB2MVY5YjJKVEJxeTF0ZTUtTnN5TEN5LWJxeUV2anBXajRISnNnb2gxeDA5SUtZdU9BWU9PSV9Va2szNTh2NEpjWkJBRS1nazZEamhORWtDczktd3RhVS1fMENQWEQtTTk2X2pxVW1wVVU0NmhpQktweC1uMDVYWnVUeEIzcm9LNDJl?oc=5"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "由於各國在化石燃料、氣候融資議題上存在分歧，COP31以失敗告終",
+          "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/"
         }
       ]
     }
