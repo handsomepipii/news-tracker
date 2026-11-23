@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 07:28",
+  "updated_at": "2026-11-24 07:57",
   "taiwan": [
     {
       "rank": 1,
@@ -121,27 +121,6 @@
     },
     {
       "rank": 5,
-      "title": "日月光投控：矽品精密工業11/21~23取得廠務工程，計約74億元",
-      "summary": [
-        "公開資訊觀測站重訊：日月光投控：矽品精密工業11/21~23取得廠務工程，計約74億元",
-        "MoneyDJ理財網：日月光投控：矽品精密工業11/12~23向聖暉*取得廠務工程，計約14.32億元- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "日月光投控：矽品精密工業11/21~23取得廠務工程，計約74億元",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzdKRnRQZ0ZuSTQ5TmQwTURzRlpDUnRuZ1FrbnVGOENVclFCMVB6T0ctdTlCR2tmYzM2c1dISFZ6eVY0R08zX1gtWXJ4azZTSXlKVWNQUnVjblI4U2l4X3FUblAtQXk0YVdvOUdWVERUVk1xQjNPRkVsazUtNlpTWllYMzRtektPWmlKNDBKcTFhQQ?oc=5"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "日月光投控：矽品精密工業11/12~23向聖暉*取得廠務工程，計約14.32億元- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalRoeFg5T3NXUXIwZlIyN2FvNjJKYl9FS0pXbDFlRG1HLVltdnpzUy0yZ2YtVWExMHZDNmxoM1dUVWJSTmswNUJCSUNwODBlV1ZSTXJpQ29rM1ZBMndpMzJ6WEtQWkpxR3VsaDJIRkl2dm9DQkt0NzZOc2JNbFhsRXNNUHpyWVlYZjgtMG83b1M2dw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
       "summary": [
         "ETtoday：快訊／新北男刷油漆2F墜1F身亡　妻返家驚見冰冷遺體",
@@ -162,7 +141,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "重磅逆轉勝！黃仁勳重掌執行長 股價飆升超過26％",
       "summary": [
         "自由時報：重磅逆轉勝！黃仁勳重掌執行長 股價飆升超過26％",
@@ -183,7 +162,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Toyz神預言黃仁勳回鍋輝達！「大膽預測」8天後成真",
       "summary": [
         "ETtoday：Toyz神預言黃仁勳回鍋輝達！「大膽預測」8天後成真",
@@ -204,44 +183,65 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "每票1000元！嘉義竹崎鄉代候選人樁腳涉買票 嘉檢傍晚聲押",
+      "rank": 8,
+      "title": "丹麥擬禁國中小生在校用手機 校園網路封鎖社群平臺",
       "summary": [
-        "自由時報：每票1000元！嘉義竹崎鄉代候選人樁腳涉買票 嘉檢傍晚聲押",
-        "ETtoday：嘉義竹崎鄉爆現金買票！女樁腳「每票1000元」賄選　檢聲押禁見"
+        "自由時報：丹麥擬禁國中小生在校用手機 校園網路封鎖社群平臺",
+        "經濟日報：丹麥提案　明年起國中小學內禁用手機實施網路過濾"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "每票1000元！嘉義竹崎鄉代候選人樁腳涉買票 嘉檢傍晚聲押",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5650932"
+          "title": "丹麥擬禁國中小生在校用手機 校園網路封鎖社群平臺",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650942"
         },
         {
+          "source": "經濟日報",
+          "title": "丹麥提案　明年起國中小學內禁用手機實施網路過濾",
+          "url": "https://money.udn.com/money/story/5599/9897292"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "終於肯證實！　沈伯洋競辦：選前之夜仁愛路登場「離市府幾步之遙」",
+      "summary": [
+        "ETtoday：終於肯證實！　沈伯洋競辦：選前之夜仁愛路登場「離市府幾步之遙」",
+        "自由時報：沈伯洋「市民之夜」提前曝光！ 競辦證實仁愛路登場「離市府僅幾步之遙」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
           "source": "ETtoday",
-          "title": "嘉義竹崎鄉爆現金買票！女樁腳「每票1000元」賄選　檢聲押禁見",
-          "url": "https://www.ettoday.net/news/20261123/3277239.htm"
+          "title": "終於肯證實！　沈伯洋競辦：選前之夜仁愛路登場「離市府幾步之遙」",
+          "url": "https://www.ettoday.net/news/20261123/3277225.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "沈伯洋「市民之夜」提前曝光！ 競辦證實仁愛路登場「離市府僅幾步之遙」",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5650976"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "葉門叛軍旗下媒體：沙烏地襲港市荷臺達　釀10死20餘傷",
+      "title": "CrowdStrike斥資439億美元收購Zscaler交易規模超越Google收購Wiz",
       "summary": [
-        "經濟日報：葉門叛軍旗下媒體：沙烏地襲港市荷臺達　釀10死20餘傷",
-        "自由時報：葉門叛軍旗下媒體：沙烏地襲港市荷臺達 釀10死20餘傷"
+        "自由時報：CrowdStrike斥資439億美元收購Zscaler交易規模超越Google收購Wiz",
+        "經濟日報：資安業大規模併購 CrowdStrike 砸下 439 億美元全股票收購 Zscaler"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "葉門叛軍旗下媒體：沙烏地襲港市荷臺達　釀10死20餘傷",
-          "url": "https://money.udn.com/money/story/5599/9897018"
+          "source": "自由時報",
+          "title": "CrowdStrike斥資439億美元收購Zscaler交易規模超越Google收購Wiz",
+          "url": "https://news.ltn.com.tw/news/aichannel/breakingnews/5650979"
         },
         {
-          "source": "自由時報",
-          "title": "葉門叛軍旗下媒體：沙烏地襲港市荷臺達 釀10死20餘傷",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650958"
+          "source": "經濟日報",
+          "title": "資安業大規模併購 CrowdStrike 砸下 439 億美元全股票收購 Zscaler",
+          "url": "https://money.udn.com/money/story/123398/9897349"
         }
       ]
     }
@@ -424,33 +424,6 @@
     },
     {
       "rank": 6,
-      "title": "澤連斯基：烏克蘭在利比亞海域襲擊了兩艘俄羅斯船隻",
-      "summary": [
-        "法廣RFI：澤連斯基：烏克蘭在利比亞海域襲擊了兩艘俄羅斯船隻",
-        "Bloomberg Markets：烏克蘭聲稱俄羅斯船隻在利比亞海岸遭到攻擊",
-        "BBC World：俄羅斯船隻在利比亞遭到攻擊說明烏克蘭戰爭蔓延"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "澤連斯基：烏克蘭在利比亞海域襲擊了兩艘俄羅斯船隻",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261123-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E7%83%8F%E5%85%8B%E8%98%AD%E5%9C%A8%E5%88%A9%E6%AF%94%E4%BA%9E%E6%B5%B7%E5%9F%9F%E8%A5%B2%E6%93%8A%E4%BA%86%E5%85%A9%E8%89%98%E4%BF%84%E7%BE%85%E6%96%AF%E8%88%B9%E9%9A%BB"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "烏克蘭聲稱俄羅斯船隻在利比亞海岸遭到攻擊",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/ukraine-claims-attack-on-russian-ship-off-libyan-coast-video"
-        },
-        {
-          "source": "BBC World",
-          "title": "俄羅斯船隻在利比亞遭到攻擊說明烏克蘭戰爭蔓延",
-          "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "維吉尼亞州、俄勒岡州起訴馬斯克旗下 SpaceX，指控 Grok AI 製作兒童性虐待影象和影片",
       "summary": [
         "Investing.com：維吉尼亞州、俄勒岡州起訴馬斯克旗下 SpaceX，指控 Grok AI 製作兒童性虐待影象和影片",
@@ -477,7 +450,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "據稱亞馬遜將斥資 75 億美元收購人工智慧新創公司 Decart 的技術",
       "summary": [
         "Bloomberg Tech：據稱亞馬遜將斥資 75 億美元收購人工智慧新創公司 Decart 的技術",
@@ -504,7 +477,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "英偉達恢復黃仁勳執行長，股價飆升",
       "summary": [
         "Yahoo Finance：英偉達恢復黃仁勳執行長，股價飆升",
@@ -531,7 +504,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "由於各國未能就氣候協議達成一致，COP31談判破裂",
       "summary": [
         "Washington Post：由於各國未能就氣候協議達成一致，COP31談判破裂",
@@ -548,6 +521,27 @@
           "source": "Ars Technica",
           "title": "由於各國在化石燃料、氣候融資議題上存在分歧，COP31以失敗告終",
           "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "印度宣佈為尼泊爾提供16億美元的洪水復原計劃",
+      "summary": [
+        "Nikkei Asia：印度宣佈為尼泊爾提供16億美元的洪水復原計劃",
+        "BBC World：印度承諾向尼泊爾提供16億美元以重建關係"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "印度宣佈為尼泊爾提供16億美元的洪水復原計劃",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXdjY2tncU9BS2tRQ1A5cHdxeHlZd04zNnhmaEw1V2RPbnA4cFNSOFpUbUhOdkI4VVlmbWIyclVUWXMtZlFaUmw2aHVJUDZpR1VEVk12N1JwOGFFN2VCWEpDZzhVYURNVEVHNk1vTFpsTGV6LTBSU2hRamtqNGp1a3hyUkNRR3RldU5qZFVISUFMNFRlUjFrQWxjamZrelZDaHNxVVJTMkZKLWp6TmN3Tg?oc=5"
+        },
+        {
+          "source": "BBC World",
+          "title": "印度承諾向尼泊爾提供16億美元以重建關係",
+          "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
