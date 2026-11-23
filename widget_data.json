@@ -1,20 +1,25 @@
 {
-  "updated_at": "2026-11-23 08:56",
+  "updated_at": "2026-11-23 09:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "卓揆稱蘇巧慧直達車走向新北　李競辦諷：4500萬公帑頭等艙直達蘇家",
+      "title": "直擊／BTS高雄最終場催淚告別！柾國「我不想走」V告白：最美風景",
       "summary": [
-        "ETtoday：卓揆稱蘇巧慧直達車走向新北　李競辦諷：4500萬公帑頭等艙直達蘇家",
-        "經濟日報：華僑協會菲律賓分會改選 新會長鄭國賓盼深化菲臺交流",
-        "自由時報：陪李四川造勢遭民眾貼「安心貼紙」 侯友宜秒撕引網熱議"
+        "ETtoday：直擊／BTS高雄最終場催淚告別！柾國「我不想走」V告白：最美風景",
+        "TVBS新聞：味全龍「封王遊行」傳葉總卸任 郭天信直呼不捨.球團未證實｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "經濟日報：華僑協會菲律賓分會改選 新會長鄭國賓盼深化菲臺交流"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "ETtoday",
-          "title": "卓揆稱蘇巧慧直達車走向新北　李競辦諷：4500萬公帑頭等艙直達蘇家",
-          "url": "https://www.ettoday.net/news/20261122/3276637.htm"
+          "title": "直擊／BTS高雄最終場催淚告別！柾國「我不想走」V告白：最美風景",
+          "url": "https://star.ettoday.net/news/3276653"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "味全龍「封王遊行」傳葉總卸任 郭天信直呼不捨.球團未證實｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cmFWMVl5dWVNU3g4dXprTktUdmJIVHREVE5KNUsxVUlTNy1fa1JmRlUwb1NfTXY1YWc3TndtdlVrOEJvaGlCemh1eWRmZVFXU3Vfb253?oc=5"
         },
         {
           "source": "經濟日報",
@@ -23,8 +28,8 @@
         },
         {
           "source": "自由時報",
-          "title": "陪李四川造勢遭民眾貼「安心貼紙」 侯友宜秒撕引網熱議",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649858"
+          "title": "金馬63》《善男信女》擊敗《雙囍》奪最佳劇情片！劉冠廷、袁澧林勝出內幕曝光",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5650003"
         }
       ]
     },
@@ -111,6 +116,27 @@
     },
     {
       "rank": 5,
+      "title": "COP31 氣候談判 破局",
+      "summary": [
+        "經濟日報：COP31 氣候談判 破局",
+        "自由時報：史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "COP31 氣候談判 破局",
+          "url": "https://money.udn.com/money/story/5599/9895195"
+        },
+        {
+          "source": "自由時報",
+          "title": "史上最長氣候峰會吞敗！COP31氣候峰會破局 化石燃料爭議談判全面崩盤",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5650019"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "北士科建案昨火災 業主發聲了",
       "summary": [
         "自由時報：北士科建案昨火災 業主發聲了",
@@ -131,7 +157,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "北市科建案工地頂樓起火 市消防局佈水線灌救",
       "summary": [
         "自由時報：北市科建案工地頂樓起火 市消防局佈水線灌救",
@@ -152,7 +178,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "屏東市長選舉公辦政見會 梁育慈提市政新藍圖 盼帶領家鄉脫胎換骨",
       "summary": [
         "自由時報：屏東市長選舉公辦政見會 梁育慈提市政新藍圖 盼帶領家鄉脫胎換骨",
@@ -173,7 +199,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "金馬63》舒淇奪獎揭家醜！爆爸媽「喝酒又打架」霸氣立誓：下次拿最佳導演",
       "summary": [
         "自由時報：金馬63》舒淇奪獎揭家醜！爆爸媽「喝酒又打架」霸氣立誓：下次拿最佳導演",
@@ -194,7 +220,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "韓國防股災　準備啟動護盤基金放寬庫藏股嚴管放空",
       "summary": [
         "經濟日報：韓國防股災　準備啟動護盤基金放寬庫藏股嚴管放空",
@@ -211,27 +237,6 @@
           "source": "科技新報",
           "title": "韓國防股災，準備啟動護盤基金放寬庫藏股嚴管放空",
           "url": "https://finance.technews.tw/2026/11/23/south-korea-prepares-launch-stock-stabilization-fund-ease-share-buyback-rules-tighten-short-selling-regulations-avert-market-crash/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "小笠原欣幸：洋流外溢影響新北、基隆、臺中、竹市選情",
-      "summary": [
-        "自由時報：小笠原欣幸：洋流外溢影響新北、基隆、臺中、竹市選情",
-        "TVBS新聞：洋流外溢! 沈基隆造勢站臺 蔣找「禿子.燕子」車掃｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "小笠原欣幸：洋流外溢影響新北、基隆、臺中、竹市選情",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5649915"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "洋流外溢! 沈基隆造勢站臺 蔣找「禿子.燕子」車掃｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02alNNUEFlODg1Y01NNUttclFWUl91RGNWclFvTTAtV3FIYzBSWUVpMDNZc29BRzJTUmFqRnFOR051bU5uMXg0TVk5aGVfM2NsV0I3SGVR?oc=5"
         }
       ]
     }
@@ -428,16 +433,16 @@
     },
     {
       "rank": 10,
-      "title": "臺灣學者張昱謙（Kenny Chang）解讀英偉達風波：美國能否堵住中國獲取先進AI算力的渠道？",
+      "title": "媒體爆料分析：中國駭客曾襲擊德意志銀行",
       "summary": [
-        "法廣RFI：臺灣學者張昱謙（Kenny Chang）解讀英偉達風波：美國能否堵住中國獲取先進AI算力的渠道？"
+        "德國之聲：媒體爆料分析：中國駭客曾襲擊德意志銀行"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "臺灣學者張昱謙（Kenny Chang）解讀英偉達風波：美國能否堵住中國獲取先進AI算力的渠道？",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E5%8D%B0%E5%A4%AA%E7%B8%B1%E8%A6%BD/20261122-%E5%8F%B0%E7%81%A3%E5%AD%B8%E8%80%85%E5%BC%B5%E6%98%B1%E8%AC%99%E8%A7%A3%E8%AE%80%E8%8B%B1%E5%81%89%E9%81%94%E9%A2%A8%E6%B3%A2-%E7%BE%8E%E5%9C%8B%E8%83%BD%E5%90%A6%E5%A0%B5%E4%BD%8F%E4%B8%AD%E5%9C%8B%E7%8D%B2%E5%8F%96%E5%85%88%E9%80%B2ai%E7%AE%97%E5%8A%9B%E7%9A%84%E6%B8%A0%E9%81%93"
+          "source": "德國之聲",
+          "title": "媒體爆料分析：中國駭客曾襲擊德意志銀行",
+          "url": "https://www.dw.com/zh/媒体爆料分析：中国黑客曾袭击德意志银行/a-80002947?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     }
