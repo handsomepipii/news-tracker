@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 14:26",
+  "updated_at": "2026-11-24 14:56",
   "taiwan": [
     {
       "rank": 1,
@@ -109,45 +109,18 @@
     },
     {
       "rank": 4,
-      "title": "黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長",
+      "title": "CrowdStrike 砸下 440 億美元並 Zscaler 創資安史紀錄",
       "summary": [
-        "自由時報：黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長",
-        "經濟日報：黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長",
-        "中時新聞：黃仁勳喊迫不及待復工 社群帳號火速掛回「輝達CEO」"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5651121"
-        },
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長",
-          "url": "https://money.udn.com/money/story/5599/9897557"
-        },
-        {
-          "source": "中時新聞",
-          "title": "黃仁勳喊迫不及待復工 社群帳號火速掛回「輝達CEO」",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDTTRNMThUNEZnTE9uQl9TSDlLTmhOdWY5YVpNT2gzZkgtMGpXeUZ1OUk3TWFOYm5CVWowNG1qNjBYMUY2em1EWEhSalB2TXRGMldSbF8wVmpKVGN3WGdYWlp3QkRNN1VTOHRudkFR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "資安業大規模併購 CrowdStrike 砸下 439 億美元全股票收購 Zscaler",
-      "summary": [
-        "經濟日報：資安業大規模併購 CrowdStrike 砸下 439 億美元全股票收購 Zscaler",
+        "科技新報：CrowdStrike 砸下 440 億美元並 Zscaler 創資安史紀錄",
         "iThome：CrowdStrike以439億美元收購Zscaler，創資安界交易紀錄",
-        "數位時代：溢價34%吃下Zscaler！CrowdStrike斥資439億美元全股票併購，聯手搶攻「AI代理防護」大餅"
+        "MoneyDJ理財網：CrowdStrike砸下440億美元並Zscaler創資安史紀錄- 新聞"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "資安業大規模併購 CrowdStrike 砸下 439 億美元全股票收購 Zscaler",
-          "url": "https://money.udn.com/money/story/123398/9897349"
+          "source": "科技新報",
+          "title": "CrowdStrike 砸下 440 億美元並 Zscaler 創資安史紀錄",
+          "url": "https://infosecu.technews.tw/2026/11/24/crowdstrike-to-acquire-zscaler/"
         },
         {
           "source": "iThome",
@@ -155,14 +128,14 @@
           "url": "https://www.ithome.com.tw/news/180740"
         },
         {
-          "source": "數位時代",
-          "title": "溢價34%吃下Zscaler！CrowdStrike斥資439億美元全股票併購，聯手搶攻「AI代理防護」大餅",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWFNxOE04WFgxdTBmNi1JRldBazV3ZUtWVjVDYk55Z3I5cUs3VkFLUVBybGtlQUh6V3B0a25GNXYyWEk5SDBCaFVZVHAxdy1UaWJjMEpSZHJQTVowajhYT0tSOTF6NUhfRGZNNnNFendSeDFTU3o0eGUyaU9tUHg2d0dYSk4yMHJuaUZ6cEhR?oc=5"
+          "source": "MoneyDJ理財網",
+          "title": "CrowdStrike砸下440億美元並Zscaler創資安史紀錄- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV1NjbmhJTFdqRXFGbG44N0V3a0VqLTVxUHRiVm10TU9ZQUVtT2ctQzFsU1F4b1FoYmpkWnotNEhjTkdXTEVVSFRVc1JkLWxQcmNleWdySVYyZW1PMnZFSFdPY01rTDNFU254TGNUclAyYkplYkVrUUZlWXhfMWE2Q1EyZ2xPd3pWaEo2TzdZQ3NxUQ?oc=5"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "紐時：川普派範斯私下協調　促成黃仁勳重返輝達",
       "summary": [
         "經濟日報：紐時：川普派範斯私下協調　促成黃仁勳重返輝達",
@@ -189,7 +162,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "期貨最新報價11／23期交所夜盤行情- 證券",
       "summary": [
         "工商時報：期貨最新報價11／23期交所夜盤行情- 證券",
@@ -210,7 +183,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
       "summary": [
         "經濟日報：黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
@@ -231,28 +204,7 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "黃仁勳回任輝達執行長　民主黨高層矢言全面調查",
-      "summary": [
-        "經濟日報：黃仁勳回任輝達執行長　民主黨高層矢言全面調查",
-        "自由時報：黃仁勳回任輝達執行長　民主黨高層矢言全面調查"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳回任輝達執行長　民主黨高層矢言全面調查",
-          "url": "https://money.udn.com/money/story/5599/9897560"
-        },
-        {
-          "source": "自由時報",
-          "title": "黃仁勳回任輝達執行長　民主黨高層矢言全面調查",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5651124"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "title": "黃仁勳回鍋輝達執行長 股價開盤狂飆逾30％",
       "summary": [
         "自由時報：黃仁勳回鍋輝達執行長 股價開盤狂飆逾30％",
@@ -269,6 +221,48 @@
           "source": "經濟日報",
           "title": "黃仁勳返輝達股價飆31%　美股收盤大漲、費半勁揚14%",
           "url": "https://money.udn.com/money/story/123398/9897638"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "原油供應趨於充裕且伊朗情勢緩和　國際油價重挫",
+      "summary": [
+        "自由時報：原油供應趨於充裕且伊朗情勢緩和　國際油價重挫",
+        "經濟日報：原油供應趨於充裕且伊朗情勢緩和　國際油價重挫"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "原油供應趨於充裕且伊朗情勢緩和　國際油價重挫",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5651135"
+        },
+        {
+          "source": "經濟日報",
+          "title": "原油供應趨於充裕且伊朗情勢緩和　國際油價重挫",
+          "url": "https://money.udn.com/money/story/5599/9897604"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "辣個拉風男人回來了！陳沂誇：黃仁勳1人救全世界",
+      "summary": [
+        "自由時報：辣個拉風男人回來了！陳沂誇：黃仁勳1人救全世界",
+        "ETtoday：黃仁勳一人救世界　陳沂：當你強到能救世界、外遇幾個都沒關係"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "辣個拉風男人回來了！陳沂誇：黃仁勳1人救全世界",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5651143"
+        },
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳一人救世界　陳沂：當你強到能救世界、外遇幾個都沒關係",
+          "url": "https://www.ettoday.net/news/20261124/3277367.htm"
         }
       ]
     }
@@ -308,38 +302,6 @@
     },
     {
       "rank": 2,
-      "title": "特朗普促使英偉達董事會讓黃仁勳復職 據報未徵求臨時CEO等高管意見",
-      "summary": [
-        "法廣RFI：特朗普促使英偉達董事會讓黃仁勳復職 據報未徵求臨時CEO等高管意見",
-        "MarketWatch：川普推動黃仁勳復職顯示英偉達執行長太大而不能倒",
-        "Yahoo Finance：在川普和投資者的壓力下，英偉達恢復黃仁勳擔任執行長"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "特朗普促使英偉達董事會讓黃仁勳復職 據報未徵求臨時CEO等高管意見",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261123-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BF%83%E4%BD%BF%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83%E8%AE%93%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7-%E6%93%9A%E5%A0%B1%E6%9C%AA%E5%BE%B5%E6%B1%82%E8%87%A8%E6%99%82ceo%E7%AD%89%E9%AB%98%E7%AE%A1%E6%84%8F%E8%A6%8B"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "川普推動黃仁勳復職顯示英偉達執行長太大而不能倒",
-          "url": "https://www.marketwatch.com/story/trumps-push-to-reinstate-jensen-huang-signals-nvidias-ceo-is-too-big-to-fail-10709210?mod=mw_rss_topstories"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "在川普和投資者的壓力下，英偉達恢復黃仁勳擔任執行長",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3VVSndPZUtqSWJCQklZbldOMWcxbVJmZUhaczVOTllfTHg5ZmVGQkNpSFBTSS0zX0xnSk1DMVA0OTFxVFFZWmxHRXVNclZSNXdsbnA4cFVKSl9zTjRVZi00a2xsVWE4bG9nVUdCSUZSVkoxdkswVU9uWWw4TjNUU0p6d0RLTVU?oc=5"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "川普促成黃仁勳復任英偉達執行長",
-          "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "由於英偉達醜聞，美國將 Megaspeed 列入貿易黑名單",
       "summary": [
         "Nikkei Asia：由於英偉達醜聞，美國將 Megaspeed 列入貿易黑名單",
@@ -366,11 +328,38 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "川普推動黃仁勳復職顯示英偉達執行長太大而不能倒",
+      "summary": [
+        "MarketWatch：川普推動黃仁勳復職顯示英偉達執行長太大而不能倒",
+        "Yahoo Finance：在川普和投資者的壓力下，英偉達恢復黃仁勳擔任執行長",
+        "WSJ Markets：川普促成黃仁勳復任英偉達執行長"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "MarketWatch",
+          "title": "川普推動黃仁勳復職顯示英偉達執行長太大而不能倒",
+          "url": "https://www.marketwatch.com/story/trumps-push-to-reinstate-jensen-huang-signals-nvidias-ceo-is-too-big-to-fail-10709210?mod=mw_rss_topstories"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "在川普和投資者的壓力下，英偉達恢復黃仁勳擔任執行長",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3VVSndPZUtqSWJCQklZbldOMWcxbVJmZUhaczVOTllfTHg5ZmVGQkNpSFBTSS0zX0xnSk1DMVA0OTFxVFFZWmxHRXVNclZSNXdsbnA4cFVKSl9zTjRVZi00a2xsVWE4bG9nVUdCSUZSVkoxdkswVU9uWWw4TjNUU0p6d0RLTVU?oc=5"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "川普促成黃仁勳復任英偉達執行長",
+          "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
       "rank": 4,
       "title": "隨著黃仁勳的回歸重振人工智慧，亞洲股市上漲：市場總結",
       "summary": [
         "Bloomberg Markets：隨著黃仁勳的回歸重振人工智慧，亞洲股市上漲：市場總結",
-        "Bloomberg Tech：黃仁勳回歸重啟人工智慧貿易 日本股市反彈"
+        "Bloomberg Tech：黃仁勳回歸重啟人工智慧貿易，日本股市反彈"
       ],
       "media_count": 2,
       "links": [
@@ -381,7 +370,7 @@
         },
         {
           "source": "Bloomberg Tech",
-          "title": "黃仁勳回歸重啟人工智慧貿易 日本股市反彈",
+          "title": "黃仁勳回歸重啟人工智慧貿易，日本股市反彈",
           "url": "https://www.bloomberg.com/news/articles/2026-11-24/japan-stocks-rebound-as-huang-s-return-resuscitates-ai-trade"
         }
       ]
@@ -430,27 +419,6 @@
     },
     {
       "rank": 7,
-      "title": "俄勒岡州和維吉尼亞州就 Grok 的色情深度假貨起訴 SpaceX",
-      "summary": [
-        "The Verge：俄勒岡州和維吉尼亞州就 Grok 的色情深度假貨起訴 SpaceX",
-        "Ars Technica：各州起訴 SpaceX，阻止 Grok 製作兒童色情圖片和報復性色情內容"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "俄勒岡州和維吉尼亞州就 Grok 的色情深度假貨起訴 SpaceX",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "各州起訴 SpaceX，阻止 Grok 製作兒童色情圖片和報復性色情內容",
-          "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "黃仁勳重新出任英偉達執行長，市場飆升",
       "summary": [
         "Washington Post：黃仁勳重新出任英偉達執行長，市場飆升",
@@ -471,7 +439,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "英偉達飆升：投資者現在應該如何處理股票和人工智慧交易",
       "summary": [
         "CNBC：英偉達飆升：投資者現在應該如何處理股票和人工智慧交易",
@@ -492,7 +460,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "黃仁勳表示他將成為“更好的執行長”，員工為他的回歸鼓掌",
       "summary": [
         "The Verge：黃仁勳表示他將成為“更好的執行長”，員工為他的回歸鼓掌",
@@ -509,6 +477,27 @@
           "source": "CNBC",
           "title": "黃仁勳回國後受到英偉達員工歡呼，承諾成為更好的執行長",
           "url": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳如何再次擔任英偉達執行長",
+      "summary": [
+        "The Verge：黃仁勳如何再次擔任英偉達執行長",
+        "Bloomberg Markets：英偉達為何恢復黃仁勳擔任執行長？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "黃仁勳如何再次擔任英偉達執行長",
+          "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "英偉達為何恢復黃仁勳擔任執行長？",
+          "url": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo"
         }
       ]
     }
