@@ -1,21 +1,16 @@
 {
-  "updated_at": "2026-11-24 18:56",
+  "updated_at": "2026-11-24 19:27",
   "taiwan": [
     {
       "rank": 1,
-      "title": "川普稱若不讓黃仁勳重返輝達 中國可能會延攬他",
+      "title": "黃仁勳險被中國挖角？川普曝隱憂：北京可能出手延攬",
       "summary": [
-        "經濟日報：川普稱若不讓黃仁勳重返輝達 中國可能會延攬他",
         "自由時報：黃仁勳險被中國挖角？川普曝隱憂：北京可能出手延攬",
-        "ETtoday：川普曝黃仁勳「閃電回鍋」內幕：怕他被中國挖角"
+        "ETtoday：川普曝黃仁勳「閃電回鍋」內幕：怕他被中國挖角",
+        "科技新報：川普稱若不讓黃仁勳重返輝達，中國可能會延攬他"
       ],
       "media_count": 4,
       "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普稱若不讓黃仁勳重返輝達 中國可能會延攬他",
-          "url": "https://money.udn.com/money/story/5599/9897643"
-        },
         {
           "source": "自由時報",
           "title": "黃仁勳險被中國挖角？川普曝隱憂：北京可能出手延攬",
@@ -30,38 +25,16 @@
           "source": "科技新報",
           "title": "川普稱若不讓黃仁勳重返輝達，中國可能會延攬他",
           "url": "https://technews.tw/2026/11/24/trump-warns-china-poach-jensen-huang-barred-returning-nvidia/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普：黃仁勳有一點中國血統 若未復職恐遭北京挖角掌華為",
+          "url": "https://money.udn.com/money/story/5599/9897935"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "黃仁勳重回輝達承諾：第二次會做更好　總部員工熱烈歡迎",
-      "summary": [
-        "ETtoday：黃仁勳重回輝達承諾：第二次會做更好　總部員工熱烈歡迎",
-        "中時新聞：影》黃仁勳重返輝達獲員工熱情相迎！承諾「第二次會做更好」",
-        "科技新報：黃仁勳返輝達總部員工熱烈歡迎，承諾「第二次會做更好」"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳重回輝達承諾：第二次會做更好　總部員工熱烈歡迎",
-          "url": "https://www.ettoday.net/news/20261124/3277344.htm"
-        },
-        {
-          "source": "中時新聞",
-          "title": "影》黃仁勳重返輝達獲員工熱情相迎！承諾「第二次會做更好」",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DV0FiTEd1VEJyM2wxakdpQllxb05jNTB1c1lsMEY3aVpNWDlFRWl6MlpnNW1zZkxEdWMweUlZOVJlRndTR3J2cVZPQVN5WVE0ZW9ocVlDLUZuNzBlbW96MVUwVXd0VUNZWnduVFBB?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "黃仁勳返輝達總部員工熱烈歡迎，承諾「第二次會做更好」",
-          "url": "https://technews.tw/2026/11/24/jensen-huang-reinstated-as-nvidia-ceo/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "紐時：川普派範斯私下協調　促成黃仁勳重返輝達",
       "summary": [
         "經濟日報：紐時：川普派範斯私下協調　促成黃仁勳重返輝達",
@@ -88,7 +61,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
       "summary": [
         "經濟日報：黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
@@ -109,7 +82,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "黃仁勳閃辭11天後重掌輝達　躋身美企回鍋執行長行列",
       "summary": [
         "經濟日報：黃仁勳閃辭11天後重掌輝達　躋身美企回鍋執行長行列",
@@ -130,70 +103,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "鋒面來了！　投票日天氣出爐",
-      "summary": [
-        "ETtoday：鋒面來了！　投票日天氣出爐",
-        "自由時報：週四前全臺雨綿綿！投票日陽光露臉、氣溫回升"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "鋒面來了！　投票日天氣出爐",
-          "url": "https://www.ettoday.net/news/20261124/3277334.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "週四前全臺雨綿綿！投票日陽光露臉、氣溫回升",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5651957"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Megaspeed遭美列黑名單　涉助中取得輝達AI晶片",
-      "summary": [
-        "經濟日報：Megaspeed遭美列黑名單　涉助中取得輝達AI晶片",
-        "科技新報：Megaspeed 遭美列黑名單，涉助中取得輝達 AI 晶片"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "Megaspeed遭美列黑名單　涉助中取得輝達AI晶片",
-          "url": "https://money.udn.com/money/story/5599/9897658"
-        },
-        {
-          "source": "科技新報",
-          "title": "Megaspeed 遭美列黑名單，涉助中取得輝達 AI 晶片",
-          "url": "https://technews.tw/2026/11/24/us-blacklists-megaspeed-cloud-company-linked-to-nvidia-scandal/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "AI教父黃仁勳重磅回歸　輝達創紀錄單日拉抬市場2兆美元",
-      "summary": [
-        "經濟日報：AI教父黃仁勳重磅回歸　輝達創紀錄單日拉抬市場2兆美元",
-        "科技新報：AI 教父黃仁勳重量級回歸，輝達創紀錄單日拉抬市場 2 兆美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "AI教父黃仁勳重磅回歸　輝達創紀錄單日拉抬市場2兆美元",
-          "url": "https://money.udn.com/money/story/123398/9897642"
-        },
-        {
-          "source": "科技新報",
-          "title": "AI 教父黃仁勳重量級回歸，輝達創紀錄單日拉抬市場 2 兆美元",
-          "url": "https://finance.technews.tw/2026/11/24/ai-godfather-jensen-huang-returns-nvidia-lifts-market-record-2-trillion-single-day/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 5,
       "title": "金融時報：輝達股價飆逾30% 川普持股最多增值4.7億",
       "summary": [
         "經濟日報：金融時報：輝達股價飆逾30% 川普持股最多增值4.7億",
@@ -214,7 +124,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "影／黃仁勳重返輝達受熱烈歡迎！員工高喊我們愛你 女員工衝上前擁抱",
       "summary": [
         "經濟日報：影／黃仁勳重返輝達受熱烈歡迎！員工高喊我們愛你 女員工衝上前擁抱",
@@ -233,38 +143,95 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ueVZZYk9FVHI5VXB6TjY2RDQ1QV9aMzlYWDdrTlYyMkZLUXJqRVE3bTVOYWlhbmhSR1NuQWpDbUdmLXJBRVlQYTFOaEx1VlVhTWdDWVB3?oc=5"
         }
       ]
+    },
+    {
+      "rank": 7,
+      "title": "74歲《在水一方》原唱江蕾   龍千玉驚喜同框",
+      "summary": [
+        "自由時報：74歲《在水一方》原唱江蕾   龍千玉驚喜同框",
+        "中時新聞：74歲江蕾罕見露面昔唱紅〈在水一方〉龍千玉化身粉絲合照- 娛樂"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "74歲《在水一方》原唱江蕾   龍千玉驚喜同框",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5651160"
+        },
+        {
+          "source": "中時新聞",
+          "title": "74歲江蕾罕見露面昔唱紅〈在水一方〉龍千玉化身粉絲合照- 娛樂",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsS1Y2X1BXTW12T2IwRDdTVVdvQzRPZFJXdTZXelRXRkdDQl95c3BUakxMRm15OURKOXptdlZvRGZGVDhYekF0bENFbGVRTDJtVlNXWTR5dWg3ZEdya2tqYVJEWTNieEJ5YnhkeFVn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "亞股報復性反攻！韓股漲逾6％觸發熔斷 日經暴漲逾1500點",
+      "summary": [
+        "自由時報：亞股報復性反攻！韓股漲逾6％觸發熔斷 日經暴漲逾1500點",
+        "ETtoday：快訊／黃仁勳點火！日經開盤漲逾3％　韓股飆5％觸發「側車機制」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "亞股報復性反攻！韓股漲逾6％觸發熔斷 日經暴漲逾1500點",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5651189"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／黃仁勳點火！日經開盤漲逾3％　韓股飆5％觸發「側車機制」",
+          "url": "https://www.ettoday.net/news/20261124/3277377.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "黃仁勳正式回歸！X自介悄悄改回CEO 馬斯克1句話叫好",
+      "summary": [
+        "經濟日報：黃仁勳正式回歸！X自介悄悄改回CEO 馬斯克1句話叫好",
+        "ETtoday：盤點CEO回鍋史！黃仁勳11天復職不是最快　阿特曼4天逼宮回歸"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳正式回歸！X自介悄悄改回CEO 馬斯克1句話叫好",
+          "url": "https://money.udn.com/money/story/5599/9897690"
+        },
+        {
+          "source": "ETtoday",
+          "title": "盤點CEO回鍋史！黃仁勳11天復職不是最快　阿特曼4天逼宮回歸",
+          "url": "https://www.ettoday.net/news/20261124/3277552.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳回歸華爾街振奮　身家單日暴增逾1兆元",
+      "summary": [
+        "經濟日報：黃仁勳回歸華爾街振奮　身家單日暴增逾1兆元",
+        "科技新報：黃仁勳回歸華爾街振奮，身家單日暴增逾兆元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳回歸華爾街振奮　身家單日暴增逾1兆元",
+          "url": "https://money.udn.com/money/story/123398/9897678"
+        },
+        {
+          "source": "科技新報",
+          "title": "黃仁勳回歸華爾街振奮，身家單日暴增逾兆元",
+          "url": "https://finance.technews.tw/2026/11/24/jensen-huang-wall-street-return-net-worth-surges-trillion-day/"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "由於英偉達醜聞，美國將 Megaspeed 列入貿易黑名單",
-      "summary": [
-        "Nikkei Asia：由於英偉達醜聞，美國將 Megaspeed 列入貿易黑名單",
-        "CNBC：由於英偉達爭議，美國因出口管制擔憂將 Megaspeed 列入貿易黑名單",
-        "紐約時報中文：美國將Megaspeed列入貿易黑名單- 紐約時報中文網"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "由於英偉達醜聞，美國將 Megaspeed 列入貿易黑名單",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1R6NzQ4SnlnWjJFcTUtendaNnQtamFyRnJCN1R2QXZBczA0Vm1DVlJXa3FDbjhINGdxanRhTDRYc1JyWm5uV3o2THlvT2YtZmszcVRPQVRQLXA3bEx6dFg0VlFpZmtrVTJEeUxRWnY4bEloVTJEZWE5eWtwMDhvQVVhOENST3prcHRLS1p3RjVLT1RrbTVIOFlRUk9SOC1PbzdSQkxQTkJ4cjNPekkwV2VsSQ?oc=5"
-        },
-        {
-          "source": "CNBC",
-          "title": "由於英偉達爭議，美國因出口管制擔憂將 Megaspeed 列入貿易黑名單",
-          "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html"
-        },
-        {
-          "source": "紐約時報中文",
-          "title": "美國將Megaspeed列入貿易黑名單- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1AzZlA0OXpHbEFfOVNNSU5vVk0xTEl4ZXprS1NBclZmYXVHUTNZV0xrbEZsM3RYZWE4dllNM1UyWUxmRWlIOFVkT3U4T0FEU0hITmpLcUIzRi1fR0QzYl82Qmg1SGtCNGdhWXFwSEFzYm5sRjh6Q0lWc0E1Vkw1OTQwLUJsa21MbkJZMGVkQXRqbm4wZG0yR1JlbEVzUXFmRVhTOUlR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "賽諾菲將以 410 億美元現金收購 Insmed",
       "summary": [
         "Investing.com：賽諾菲將以 410 億美元現金收購 Insmed",
@@ -291,11 +258,11 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "黃仁勳復出重新點燃人工智慧貿易，亞洲晶片股大漲",
       "summary": [
         "Bloomberg Markets：黃仁勳復出重新點燃人工智慧貿易，亞洲晶片股大漲",
-        "Bloomberg Tech：黃仁勳回歸重啟人工智慧貿易 日本股市反彈"
+        "Bloomberg Tech：黃仁勳回歸重啟人工智慧貿易，日本股市反彈"
       ],
       "media_count": 2,
       "links": [
@@ -306,13 +273,13 @@
         },
         {
           "source": "Bloomberg Tech",
-          "title": "黃仁勳回歸重啟人工智慧貿易 日本股市反彈",
+          "title": "黃仁勳回歸重啟人工智慧貿易，日本股市反彈",
           "url": "https://www.bloomberg.com/news/articles/2026-11-24/japan-stocks-rebound-as-huang-s-return-resuscitates-ai-trade"
         }
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
       "summary": [
         "Financial Times：SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
@@ -333,7 +300,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "新加坡因人工智慧熱潮將 GDP 成長預期上調至“6% 左右”",
       "summary": [
         "Bloomberg Tech：新加坡因人工智慧熱潮將 GDP 成長預期上調至“6% 左右”",
@@ -354,7 +321,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "根據《華盛頓郵報》報道，聯邦調查局副局長將於 12 月退休",
       "summary": [
         "Investing.com：根據《華盛頓郵報》報道，聯邦調查局副局長將於 12 月退休",
@@ -371,6 +338,27 @@
           "source": "Washington Post",
           "title": "聯邦調查局副局長計劃在最近一次離職中退休",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlhBOVZ4M2FPM0FtVDRrRUNKWWpWYUxieUxVVzFGb3lLMnMwV3VwOFlXMWZXRmNic3Z6ekFPR05IbFB2akxTN285TGZvZGNkT0czc1ZTYy1zQkxsWUZNT2tfNnpqWDl0Tk44cm1SXzlCbi1aRnlLREgxMFZMWFVKZnFZQXhNOVNOWERKYmVmOTF1RWwzQlFoNUNBWGdRVlQwYWZNYVZ4UzZKNlFsRVZDMEdCa3pBdE1G?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "黃仁勳回歸後，英偉達亞洲合作夥伴和供應商股價上漲",
+      "summary": [
+        "CNBC：黃仁勳回歸後，英偉達亞洲合作夥伴和供應商股價上漲",
+        "Yahoo Finance：黃仁勳復職後，英偉達股價飆漲"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "黃仁勳回歸後，英偉達亞洲合作夥伴和供應商股價上漲",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "黃仁勳復職後，英偉達股價飆漲",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1ZMbTJuOVhfbGNNekdGNWpwUzZfWXIwMGt4SzJwM2dVOFFORTJoWjN2WUJLRF9paDZlc3RnLTY3SUNqMlE4ZDBMQUduUV9WM3pwaVBuWWhyVFVrWDFXLWt0OTB1cElaaFNrREdfWUZaZ0RrUXBmY1hKNzZJWE1VdFB5djdkdnVIQ25pMzQxMXVmX0xQakZNeFNXOTg?oc=5"
         }
       ]
     },
@@ -439,22 +427,22 @@
     },
     {
       "rank": 10,
-      "title": "澳洲計劃簽署另一項協議以阻止中國進入太平洋",
+      "title": "中國延長暫停美國礦產禁令以維持休戰",
       "summary": [
-        "Bloomberg Markets：澳洲計劃簽署另一項協議以阻止中國進入太平洋",
-        "法廣RFI：索羅門群島已告知北京不再續約中所安全協議 將與澳方簽署新條約"
+        "Bloomberg Markets：中國延長暫停美國礦產禁令以維持休戰",
+        "Financial Times：中國延長暫停對美國關鍵礦產出口的控制"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "澳洲計劃簽署另一項協議以阻止中國進入太平洋",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-24/australia-aims-to-sign-another-deal-to-block-china-in-pacific"
+          "title": "中國延長暫停美國礦產禁令以維持休戰",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us"
         },
         {
-          "source": "法廣RFI",
-          "title": "索羅門群島已告知北京不再續約中所安全協議 將與澳方簽署新條約",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261124-%E6%89%80%E7%BE%85%E9%96%80%E7%BE%A4%E5%B3%B6%E5%B7%B2%E5%91%8A%E7%9F%A5%E5%8C%97%E4%BA%AC%E4%B8%8D%E5%86%8D%E7%BA%8C%E7%B4%84%E4%B8%AD%E6%89%80%E5%AE%89%E5%85%A8%E5%8D%94%E8%AD%B0-%E5%B0%87%E8%88%87%E6%BE%B3%E6%96%B9%E7%B0%BD%E7%BD%B2%E6%96%B0%E6%A2%9D%E7%B4%84"
+          "source": "Financial Times",
+          "title": "中國延長暫停對美國關鍵礦產出口的控制",
+          "url": "https://www.ft.com/content/9104866d-f69e-497d-aeb9-f7e0db59f143?syn-25a6b1a6=1"
         }
       ]
     }
