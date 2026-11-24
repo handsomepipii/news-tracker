@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 22:56",
+  "updated_at": "2026-11-24 23:28",
   "taiwan": [
     {
       "rank": 1,
@@ -51,27 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "輝達暴漲  空軍 7 天獲利吐回逾 8 成、3 倍反向商品崩",
-      "summary": [
-        "科技新報：輝達暴漲  空軍 7 天獲利吐回逾 8 成、3 倍反向商品崩",
-        "MoneyDJ理財網：輝達暴漲空軍7天獲利吐回逾8成、3倍反向商品崩- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "輝達暴漲  空軍 7 天獲利吐回逾 8 成、3 倍反向商品崩",
-          "url": "https://finance.technews.tw/2026/11/24/jensen-return-to-nvidia-leaves-short-sellers-reeling/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "輝達暴漲空軍7天獲利吐回逾8成、3倍反向商品崩- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcjd3Z29yQ0JCZDJZZS0zR2IydWk1LXZIMVFYemZsdkNpUVVHRENrZE84aGRTYl8zVHV0alFpeWJaXzJLQTZ2U3hLTHh6b1VoTXR3ZUliUEt0dWVmSHZRWWU1cGY4ZEZOQklnRkdEa2tacWp3d0FuTkpBNU9ucTNialVBUG4wX3dKUDgzTWZpb215UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "亞馬遜收購新創 Decart 核心 AI 最佳化技術，強化 Trainium 效能並延攬創辦團隊",
       "summary": [
         "科技新報：亞馬遜收購新創 Decart 核心 AI 最佳化技術，強化 Trainium 效能並延攬創辦團隊",
@@ -92,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "川普當波音推銷員  中國有望再添購 250 架新機",
       "summary": [
         "科技新報：川普當波音推銷員  中國有望再添購 250 架新機",
@@ -113,17 +92,17 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Anthropic推出Claude Ship，由AI Agent審查修改，再依團隊政策核准PR",
+      "rank": 5,
+      "title": "Anthropic推出Claude Ship，由AI Agent審查、修改，再依團隊政策核准PR",
       "summary": [
-        "INSIDE硬塞：Anthropic推出Claude Ship，由AI Agent審查修改，再依團隊政策核准PR",
+        "INSIDE硬塞：Anthropic推出Claude Ship，由AI Agent審查、修改，再依團隊政策核准PR",
         "自由時報：Anthropic推出Claude Ship版本AI可接手程式碼審查、修改與核准"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "INSIDE硬塞",
-          "title": "Anthropic推出Claude Ship，由AI Agent審查修改，再依團隊政策核准PR",
+          "title": "Anthropic推出Claude Ship，由AI Agent審查、修改，再依團隊政策核准PR",
           "url": "https://www.inside.com.tw/article/42987-anthropic-claude-ship-ai-agent-code-review-approval"
         },
         {
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "黃仁勳回歸輝達　供應鏈：AI迴圈融資受約束監管不鬆手",
       "summary": [
         "經濟日報：黃仁勳回歸輝達　供應鏈：AI迴圈融資受約束監管不鬆手",
@@ -155,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "高雄下酒祭12月5日登場  擴大串聯日本9大城市",
       "summary": [
         "自由時報：高雄下酒祭12月5日登場  擴大串聯日本9大城市",
@@ -176,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "報復瑞士制裁兒童夏令營　北韓威脅關閉外交辦事處",
       "summary": [
         "經濟日報：報復瑞士制裁兒童夏令營　北韓威脅關閉外交辦事處",
@@ -197,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "臺積電嘉義廠韓籍工程師未早起搭車 驚見他陳屍飯店房內",
       "summary": [
         "自由時報：臺積電嘉義廠韓籍工程師未早起搭車 驚見他陳屍飯店房內",
@@ -214,6 +193,27 @@
           "source": "ETtoday",
           "title": "臺積電韓籍工程師上班未現身！同事衝房間檢視　驚見他陳屍床上",
           "url": "https://www.ettoday.net/news/20261124/3277624.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "聯發科「邊緣AI到雲端AI」技術量能引領產業 17篇論文入選全球頂尖論壇與期刊",
+      "summary": [
+        "自由時報：聯發科「邊緣AI到雲端AI」技術量能引領產業 17篇論文入選全球頂尖論壇與期刊",
+        "MoneyDJ理財網：從邊緣AI到雲端AI，聯發科17篇論文入選國際期刊- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "聯發科「邊緣AI到雲端AI」技術量能引領產業 17篇論文入選全球頂尖論壇與期刊",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5651626"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "從邊緣AI到雲端AI，聯發科17篇論文入選國際期刊- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzVXVTczbkpmMDRuWkpsMDk1WVZQd3Y0bWkzTjlvNDFXWHY4emlPR1ZQVlA4RlFFTTJkMTR1eEJLVmpjeEJtbGx6dG1BbHlaSW85dTRXdFZRTnZHZjNMb2RGV01FS3ZwdW9hcXgwNVVseElPMldRRkRVNWlyU2kxT1prQWhrWmMtSUp4cEFGczVFdw?oc=5"
         }
       ]
     }
@@ -280,6 +280,33 @@
     },
     {
       "rank": 3,
+      "title": "Anthropic 在盤前交易中跌破 83 美元 IPO 價格",
+      "summary": [
+        "Bloomberg Markets：Anthropic 在盤前交易中跌破 83 美元 IPO 價格",
+        "CNBC：Anthropic 股價跌破 83 美元 IPO 價格，但分析師仍基本持樂觀態度",
+        "MarketWatch：Anthropic 的股價首度跌破 IPO 價格"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Anthropic 在盤前交易中跌破 83 美元 IPO 價格",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
+        },
+        {
+          "source": "CNBC",
+          "title": "Anthropic 股價跌破 83 美元 IPO 價格，但分析師仍基本持樂觀態度",
+          "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Anthropic 的股價首度跌破 IPO 價格",
+          "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
       "summary": [
         "Financial Times：SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
@@ -300,7 +327,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "東京23區10月二手公寓價格連續5個月下跌",
       "summary": [
         "NHK新聞：東京23區10月二手公寓價格連續5個月下跌",
@@ -321,7 +348,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "即使在修訂提案中，歐盟的電動車激勵措施也將日本製造的汽車排除在外",
       "summary": [
         "Nikkei Asia：即使在修訂提案中，歐盟的電動車激勵措施也將日本製造的汽車排除在外",
@@ -342,7 +369,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "富蘭克林鄧普頓敦促投資者超越人工智慧產業",
       "summary": [
         "Bloomberg Markets：富蘭克林鄧普頓敦促投資者超越人工智慧產業",
@@ -363,7 +390,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Nvidia醜聞：美國將Megaspeed列入黑名單",
       "summary": [
         "BBC中文：Nvidia醜聞：美國將Megaspeed列入黑名單",
@@ -384,7 +411,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "英偉達的漲勢是否忽略了黃仁勳回歸的風險？",
       "summary": [
         "Bloomberg Markets：英偉達的漲勢是否忽略了黃仁勳回歸的風險？",
@@ -405,7 +432,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "中國延長暫停美國礦產禁令以維持休戰",
       "summary": [
         "Bloomberg Markets：中國延長暫停美國礦產禁令以維持休戰",
@@ -422,27 +449,6 @@
           "source": "Financial Times",
           "title": "中國延長暫停對美國關鍵礦產出口的控制",
           "url": "https://www.ft.com/content/9104866d-f69e-497d-aeb9-f7e0db59f143?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "索羅門群島已告知北京不再續約中所安全協議 將與澳方簽署新條約",
-      "summary": [
-        "法廣RFI：索羅門群島已告知北京不再續約中所安全協議 將與澳方簽署新條約",
-        "德國之聲：媒體：索羅門群島計劃與澳籤條約取代與中國的安全協議"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "索羅門群島已告知北京不再續約中所安全協議 將與澳方簽署新條約",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261124-%E6%89%80%E7%BE%85%E9%96%80%E7%BE%A4%E5%B3%B6%E5%B7%B2%E5%91%8A%E7%9F%A5%E5%8C%97%E4%BA%AC%E4%B8%8D%E5%86%8D%E7%BA%8C%E7%B4%84%E4%B8%AD%E6%89%80%E5%AE%89%E5%85%A8%E5%8D%94%E8%AD%B0-%E5%B0%87%E8%88%87%E6%BE%B3%E6%96%B9%E7%B0%BD%E7%BD%B2%E6%96%B0%E6%A2%9D%E7%B4%84"
-        },
-        {
-          "source": "德國之聲",
-          "title": "媒體：索羅門群島計劃與澳籤條約取代與中國的安全協議",
-          "url": "https://www.dw.com/zh/媒体：所罗门群岛计划与澳签条约取代与中国的安全协议/a-80033220?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     }
