@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 16:26",
+  "updated_at": "2026-11-24 16:56",
   "taiwan": [
     {
       "rank": 1,
@@ -72,33 +72,6 @@
     },
     {
       "rank": 3,
-      "title": "黃仁勳回歸！川普證實親自介入輝達董事會並為國安威脅掛保證- 國際",
-      "summary": [
-        "工商時報：黃仁勳回歸！川普證實親自介入輝達董事會並為國安威脅掛保證- 國際",
-        "ETtoday：川普是「黃仁勳回歸」幕後推手：我說服了輝達董事會",
-        "商業周刊：川普：是我說服了董事會！黃仁勳閃電回鍋輝達，揭白宮介入決策內幕"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "黃仁勳回歸！川普證實親自介入輝達董事會並為國安威脅掛保證- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HNFNoTUNnM0VCUDlRWmk5MzZ3VS1nYWRFU1ZsaVFiUXpBeXJ4OWV0bVVWLXpPUE5CTGdXeFp5WFdZMXh5MWstRlR4TFotZHZPMmdhak5qMU1Xd05vUjk4?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普是「黃仁勳回歸」幕後推手：我說服了輝達董事會",
-          "url": "https://www.ettoday.net/news/20261124/3277335.htm"
-        },
-        {
-          "source": "商業周刊",
-          "title": "川普：是我說服了董事會！黃仁勳閃電回鍋輝達，揭白宮介入決策內幕",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VSzZFYVotVUFYY292eFBIcGE1SnZWT3d5eWpmTHVMMlFwQnVuQVJqUmE2a0RycndaZHZiZVRaeG4tZkRnR3dzeW1NNGVuREJGckVIcWxvZFJ2c0dtZFROc21R?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "CrowdStrike 砸下 440 億美元並 Zscaler 創資安史紀錄",
       "summary": [
         "科技新報：CrowdStrike 砸下 440 億美元並 Zscaler 創資安史紀錄",
@@ -125,7 +98,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "紐時：川普派範斯私下協調　促成黃仁勳重返輝達",
       "summary": [
         "經濟日報：紐時：川普派範斯私下協調　促成黃仁勳重返輝達",
@@ -152,7 +125,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "期貨最新報價11／23期交所夜盤行情- 證券",
       "summary": [
         "工商時報：期貨最新報價11／23期交所夜盤行情- 證券",
@@ -173,7 +146,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
       "summary": [
         "經濟日報：黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
@@ -190,6 +163,27 @@
           "source": "科技新報",
           "title": "黃仁勳回鍋，分析：未消除 AI 生態系統或輝達嚴峻挑戰",
           "url": "https://technews.tw/2026/11/24/jensen-huang-return-analysis-ai-ecosystem-nvidia-challenges-unresolved/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "黃仁勳閃辭11天後重掌輝達　躋身美企回鍋執行長行列",
+      "summary": [
+        "經濟日報：黃仁勳閃辭11天後重掌輝達　躋身美企回鍋執行長行列",
+        "科技新報：黃仁勳閃辭 11 天後重掌輝達，躋身美企回鍋執行長行列"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳閃辭11天後重掌輝達　躋身美企回鍋執行長行列",
+          "url": "https://money.udn.com/money/story/5599/9897849"
+        },
+        {
+          "source": "科技新報",
+          "title": "黃仁勳閃辭 11 天後重掌輝達，躋身美企回鍋執行長行列",
+          "url": "https://technews.tw/2026/11/24/jensen-huangs-nvidia-return-puts-him-on-us-incs-boomerang-ceo-list/"
         }
       ]
     },
@@ -237,22 +231,22 @@
     },
     {
       "rank": 10,
-      "title": "辣個拉風男人回來了！陳沂誇：黃仁勳1人救全世界",
+      "title": "川普是「黃仁勳回歸」幕後推手：我說服了輝達董事會",
       "summary": [
-        "自由時報：辣個拉風男人回來了！陳沂誇：黃仁勳1人救全世界",
-        "ETtoday：黃仁勳一人救世界　陳沂：當你強到能救世界、外遇幾個都沒關係"
+        "ETtoday：川普是「黃仁勳回歸」幕後推手：我說服了輝達董事會",
+        "商業周刊：川普：是我說服了董事會！黃仁勳閃電回鍋輝達，揭白宮介入決策內幕"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "辣個拉風男人回來了！陳沂誇：黃仁勳1人救全世界",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5651143"
+          "source": "ETtoday",
+          "title": "川普是「黃仁勳回歸」幕後推手：我說服了輝達董事會",
+          "url": "https://www.ettoday.net/news/20261124/3277335.htm"
         },
         {
-          "source": "ETtoday",
-          "title": "黃仁勳一人救世界　陳沂：當你強到能救世界、外遇幾個都沒關係",
-          "url": "https://www.ettoday.net/news/20261124/3277367.htm"
+          "source": "商業周刊",
+          "title": "川普：是我說服了董事會！黃仁勳閃電回鍋輝達，揭白宮介入決策內幕",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VSzZFYVotVUFYY292eFBIcGE1SnZWT3d5eWpmTHVMMlFwQnVuQVJqUmE2a0RycndaZHZiZVRaeG4tZkRnR3dzeW1NNGVuREJGckVIcWxvZFJ2c0dtZFROc21R?oc=5"
         }
       ]
     }
@@ -260,23 +254,23 @@
   "global": [
     {
       "rank": 1,
-      "title": "Semafor 報導，美國計劃因晶片出口問題將 Megaspeed 列入黑名單",
+      "title": "美國將英偉達醜聞中心公司 Megaspeed 列入黑名單",
       "summary": [
-        "Investing.com：Semafor 報導，美國計劃因晶片出口問題將 Megaspeed 列入黑名單",
         "Bloomberg Tech：美國將英偉達醜聞中心公司 Megaspeed 列入黑名單",
+        "Investing.com：訊息人士稱，美國將與英偉達醜聞有關的 Megaspeed 晶片公司列入黑名單",
         "TechCrunch：處於黃仁勳醜聞中心的公司 Megaspeed 似乎正被列入美國黑名單"
       ],
       "media_count": 4,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "Semafor 報導，美國計劃因晶片出口問題將 Megaspeed 列入黑名單",
-          "url": "https://www.investing.com/news/stock-market-news/us-plans-to-blacklist-megaspeed-over-chip-export-concerns-semafor-reports-5046316"
-        },
-        {
           "source": "Bloomberg Tech",
           "title": "美國將英偉達醜聞中心公司 Megaspeed 列入黑名單",
           "url": "https://www.bloomberg.com/news/articles/2026-11-23/us-to-blacklist-megaspeed-the-firm-at-center-of-nvidia-scandal"
+        },
+        {
+          "source": "Investing.com",
+          "title": "訊息人士稱，美國將與英偉達醜聞有關的 Megaspeed 晶片公司列入黑名單",
+          "url": "https://www.investing.com/news/stock-market-news/us-to-blacklist-megaspeed-chip-firm-linked-to-nvidia-scandal-source-says-5046337"
         },
         {
           "source": "TechCrunch",
@@ -382,69 +376,6 @@
     },
     {
       "rank": 6,
-      "title": "黃仁勳速返英偉達的內幕和初步反響",
-      "summary": [
-        "法廣RFI：黃仁勳速返英偉達的內幕和初步反響",
-        "Bloomberg Tech：黃仁勳回歸，英偉達推動歷史反彈"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "黃仁勳速返英偉達的內幕和初步反響",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E5%88%86%E6%9E%90/20261123-%E9%BB%83%E4%BB%81%E5%8B%B3%E9%80%9F%E8%BF%94%E8%8B%B1%E5%81%89%E9%81%94%E7%9A%84%E5%85%A7%E5%B9%95%E5%92%8C%E5%88%9D%E6%AD%A5%E5%8F%8D%E9%9F%BF"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "黃仁勳回歸，英偉達推動歷史反彈",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/the-close-11-23-2026-video"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "大事件：黃仁勳回來了",
-      "summary": [
-        "Bloomberg Tech：大事件：黃仁勳回來了",
-        "The Verge：英偉達執行長黃仁勳回來了。接下來會發生什麼事？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "大事件：黃仁勳回來了",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/big-take-jensen-huang-is-back-video"
-        },
-        {
-          "source": "The Verge",
-          "title": "英偉達執行長黃仁勳回來了。接下來會發生什麼事？",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "彼得森：貝森特對黃仁勳的態度大轉變揭示了川普和中國的情況",
-      "summary": [
-        "CNBC：彼得森：貝森特對黃仁勳的態度大轉變揭示了川普和中國的情況",
-        "Washington Post：意見 |川普尷尬的中國之行告訴世界什麼"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "彼得森：貝森特對黃仁勳的態度大轉變揭示了川普和中國的情況",
-          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html"
-        },
-        {
-          "source": "Washington Post",
-          "title": "意見 |川普尷尬的中國之行告訴世界什麼",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUNCcF9DcnlBN1FpdDJCUy13SGNFWmxwcTJsemdSY01GaF9XWWJicGlMcjU0Z3VWZ3k3UTNlMjV2bURidzhFODE2dGZWRmJtYW1kLXVib2ljRDVSOFFYbFhsQTF1Ul9pclhsNGUyaWl0c1VQWncwYUpXVUJBQ0NqNzZvSE9odzc3c0VuVWIyYkF5UGlrLVNkeDVJTm5DaGI3dmhjVGhB?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "聯準會約翰威廉斯表示，「隨著時間的推移」可能會提高利率以應對通膨",
       "summary": [
         "CNBC：聯準會約翰威廉斯表示，「隨著時間的推移」可能會提高利率以應對通膨",
@@ -465,7 +396,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "在川普和投資者的壓力下，英偉達恢復黃仁勳擔任執行長",
       "summary": [
         "Yahoo Finance：在川普和投資者的壓力下，英偉達恢復黃仁勳擔任執行長",
@@ -482,6 +413,69 @@
           "source": "WSJ Markets",
           "title": "川普促成黃仁勳復任英偉達執行長",
           "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "英偉達 (Nvidia) 恢復黃仁勳 (Jensen Huang) 辦公後，股市飆升",
+      "summary": [
+        "Bloomberg Tech：英偉達 (Nvidia) 恢復黃仁勳 (Jensen Huang) 辦公後，股市飆升",
+        "Nikkei Asia：英偉達 (Nvidia) 黃仁勳 (Jensen Huang) 回歸，亞洲股市大幅上漲"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "英偉達 (Nvidia) 恢復黃仁勳 (Jensen Huang) 辦公後，股市飆升",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-23/stocks-take-off-after-nvidia-reinstates-jensen-huang-video"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "英偉達 (Nvidia) 黃仁勳 (Jensen Huang) 回歸，亞洲股市大幅上漲",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVQ4UWRLWWpYZ1VvNHV2RVpnOVVPcDNhZG9heVJmMWdmbk9DMHlNNnhhdFlZcVkybHJtX1VZaXZqOGtydkFxMWJfa2d0dVZiSW51RUdsMFAtemV3VHdJbnY1YzlSdGJoT0Q3VnIxUHB5alFyWEtNSGFrbE94Mm0tTWZCTHNyWDJ3bkI4SmJSd0RWRWpJNUtHTw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "新加坡因人工智慧熱潮將 GDP 成長預期上調至“6% 左右”",
+      "summary": [
+        "Bloomberg Tech：新加坡因人工智慧熱潮將 GDP 成長預期上調至“6% 左右”",
+        "Nikkei Asia：人工智慧需求維持強勁，新加坡第三季 GDP 成長 6.1%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "新加坡因人工智慧熱潮將 GDP 成長預期上調至“6% 左右”",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-raises-gdp-growth-outlook-to-around-6-on-ai-boom"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "人工智慧需求維持強勁，新加坡第三季 GDP 成長 6.1%",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVjN6eFVHZTJkWWoxX0FZN1EyRWxNZlBGQmJvazlNMkFhWW9CRWhjSFUxVXR1b0tsejNIRVd1TjQ4UUhFenZmTUdrQjdRZVpfSThnRGVrbDExRk5oYjNNMTNLeHlKQ3pyaHE2U1FtTUQ2QUQzZ1Nnc1FaTndPVmc0YWpDeHdJNlhLLXkyTVZyTTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "根據《華盛頓郵報》報道，聯邦調查局副局長將於 12 月退休",
+      "summary": [
+        "Investing.com：根據《華盛頓郵報》報道，聯邦調查局副局長將於 12 月退休",
+        "Washington Post：聯邦調查局副局長計劃在最近一次離職中退休"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "根據《華盛頓郵報》報道，聯邦調查局副局長將於 12 月退休",
+          "url": "https://www.investing.com/news/stock-market-news/deputy-fbi-director-to-retire-in-december-washington-post-reports-5046736"
+        },
+        {
+          "source": "Washington Post",
+          "title": "聯邦調查局副局長計劃在最近一次離職中退休",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlhBOVZ4M2FPM0FtVDRrRUNKWWpWYUxieUxVVzFGb3lLMnMwV3VwOFlXMWZXRmNic3Z6ekFPR05IbFB2akxTN285TGZvZGNkT0czc1ZTYy1zQkxsWUZNT2tfNnpqWDl0Tk44cm1SXzlCbi1aRnlLREgxMFZMWFVKZnFZQXhNOVNOWERKYmVmOTF1RWwzQlFoNUNBWGdRVlQwYWZNYVZ4UzZKNlFsRVZDMEdCa3pBdE1G?oc=5"
         }
       ]
     }
