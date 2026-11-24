@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 18:26",
+  "updated_at": "2026-11-24 18:56",
   "taiwan": [
     {
       "rank": 1,
@@ -35,19 +35,14 @@
     },
     {
       "rank": 2,
-      "title": "黃仁勳現身輝達！員工歡呼迎接 他承諾「第二次會做更好」",
+      "title": "黃仁勳重回輝達承諾：第二次會做更好　總部員工熱烈歡迎",
       "summary": [
-        "自由時報：黃仁勳現身輝達！員工歡呼迎接 他承諾「第二次會做更好」",
         "ETtoday：黃仁勳重回輝達承諾：第二次會做更好　總部員工熱烈歡迎",
-        "中時新聞：影》黃仁勳重返輝達獲員工熱情相迎！承諾「第二次會做更好」"
+        "中時新聞：影》黃仁勳重返輝達獲員工熱情相迎！承諾「第二次會做更好」",
+        "科技新報：黃仁勳返輝達總部員工熱烈歡迎，承諾「第二次會做更好」"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
-        {
-          "source": "自由時報",
-          "title": "黃仁勳現身輝達！員工歡呼迎接 他承諾「第二次會做更好」",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5651139"
-        },
         {
           "source": "ETtoday",
           "title": "黃仁勳重回輝達承諾：第二次會做更好　總部員工熱烈歡迎",
@@ -94,27 +89,6 @@
     },
     {
       "rank": 4,
-      "title": "期貨最新報價11／23期交所夜盤行情- 證券",
-      "summary": [
-        "工商時報：期貨最新報價11／23期交所夜盤行情- 證券",
-        "MoneyDJ理財網：美股指數期貨最新報價 11:38"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "期貨最新報價11／23期交所夜盤行情- 證券",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHenBXcnM4cVNYWGxlR1lYOFAza1R3Uk5DYVdDMTdHbXpGV0Vld3R2dzdtZk9QZWQ0UHFsdVZGTHc1Q1JOUFVRX0RZenBoaGV5QWVmamdzenZrb0FYLS1J?oc=5"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "美股指數期貨最新報價 11:38",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX3RYRG1TWm56QXNwODV2T2FaVFNid09kMWt1ZmJ1NVgzT1VVWWl4YzhYZEh6b2d3V1ZNYWVIT19LYmhKcnhyMG1SUGZOM0VKS0c3VXQ0eF9YZFdVQmxZUmhoLVpVcjViNUR1cF93RHNpNzdRLVM3WThkZjFkQU9pWlpn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
       "summary": [
         "經濟日報：黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
@@ -135,7 +109,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "黃仁勳閃辭11天後重掌輝達　躋身美企回鍋執行長行列",
       "summary": [
         "經濟日報：黃仁勳閃辭11天後重掌輝達　躋身美企回鍋執行長行列",
@@ -156,28 +130,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "辣個拉風男人回來了！陳沂誇：黃仁勳1人救全世界",
-      "summary": [
-        "自由時報：辣個拉風男人回來了！陳沂誇：黃仁勳1人救全世界",
-        "ETtoday：黃仁勳一人救世界　陳沂：當你強到能救世界、外遇幾個都沒關係"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "辣個拉風男人回來了！陳沂誇：黃仁勳1人救全世界",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5651143"
-        },
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳一人救世界　陳沂：當你強到能救世界、外遇幾個都沒關係",
-          "url": "https://www.ettoday.net/news/20261124/3277367.htm"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "title": "鋒面來了！　投票日天氣出爐",
       "summary": [
         "ETtoday：鋒面來了！　投票日天氣出爐",
@@ -198,7 +151,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Megaspeed遭美列黑名單　涉助中取得輝達AI晶片",
       "summary": [
         "經濟日報：Megaspeed遭美列黑名單　涉助中取得輝達AI晶片",
@@ -219,7 +172,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "AI教父黃仁勳重磅回歸　輝達創紀錄單日拉抬市場2兆美元",
       "summary": [
         "經濟日報：AI教父黃仁勳重磅回歸　輝達創紀錄單日拉抬市場2兆美元",
@@ -236,6 +189,48 @@
           "source": "科技新報",
           "title": "AI 教父黃仁勳重量級回歸，輝達創紀錄單日拉抬市場 2 兆美元",
           "url": "https://finance.technews.tw/2026/11/24/ai-godfather-jensen-huang-returns-nvidia-lifts-market-record-2-trillion-single-day/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "金融時報：輝達股價飆逾30% 川普持股最多增值4.7億",
+      "summary": [
+        "經濟日報：金融時報：輝達股價飆逾30% 川普持股最多增值4.7億",
+        "ETtoday：輝達暴漲逾30%！　川普持股單日最高「大增4.93億元」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "金融時報：輝達股價飆逾30% 川普持股最多增值4.7億",
+          "url": "https://money.udn.com/money/story/123398/9897669"
+        },
+        {
+          "source": "ETtoday",
+          "title": "輝達暴漲逾30%！　川普持股單日最高「大增4.93億元」",
+          "url": "https://www.ettoday.net/news/20261124/3277374.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "影／黃仁勳重返輝達受熱烈歡迎！員工高喊我們愛你 女員工衝上前擁抱",
+      "summary": [
+        "經濟日報：影／黃仁勳重返輝達受熱烈歡迎！員工高喊我們愛你 女員工衝上前擁抱",
+        "TVBS新聞：黃仁勳回輝達總部 員工鼓掌歡呼:我愛你!｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "影／黃仁勳重返輝達受熱烈歡迎！員工高喊我們愛你 女員工衝上前擁抱",
+          "url": "https://money.udn.com/money/story/5599/9897665"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "黃仁勳回輝達總部 員工鼓掌歡呼:我愛你!｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ueVZZYk9FVHI5VXB6TjY2RDQ1QV9aMzlYWDdrTlYyMkZLUXJqRVE3bTVOYWlhbmhSR1NuQWpDbUdmLXJBRVlQYTFOaEx1VlVhTWdDWVB3?oc=5"
         }
       ]
     }
@@ -297,17 +292,17 @@
     },
     {
       "rank": 3,
-      "title": "隨著黃仁勳的回歸重振人工智慧，亞洲股市上漲：市場總結",
+      "title": "黃仁勳復出重新點燃人工智慧貿易，亞洲晶片股大漲",
       "summary": [
-        "Bloomberg Markets：隨著黃仁勳的回歸重振人工智慧，亞洲股市上漲：市場總結",
+        "Bloomberg Markets：黃仁勳復出重新點燃人工智慧貿易，亞洲晶片股大漲",
         "Bloomberg Tech：黃仁勳回歸重啟人工智慧貿易 日本股市反彈"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "隨著黃仁勳的回歸重振人工智慧，亞洲股市上漲：市場總結",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates"
+          "title": "黃仁勳復出重新點燃人工智慧貿易，亞洲晶片股大漲",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade"
         },
         {
           "source": "Bloomberg Tech",
@@ -339,27 +334,6 @@
     },
     {
       "rank": 5,
-      "title": "英偉達 (Nvidia) 恢復黃仁勳 (Jensen Huang) 辦公後，股市飆升",
-      "summary": [
-        "Bloomberg Tech：英偉達 (Nvidia) 恢復黃仁勳 (Jensen Huang) 辦公後，股市飆升",
-        "Nikkei Asia：英偉達 (Nvidia) 黃仁勳 (Jensen Huang) 回歸，亞洲股市大幅上漲"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "英偉達 (Nvidia) 恢復黃仁勳 (Jensen Huang) 辦公後，股市飆升",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/stocks-take-off-after-nvidia-reinstates-jensen-huang-video"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "英偉達 (Nvidia) 黃仁勳 (Jensen Huang) 回歸，亞洲股市大幅上漲",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVQ4UWRLWWpYZ1VvNHV2RVpnOVVPcDNhZG9heVJmMWdmbk9DMHlNNnhhdFlZcVkybHJtX1VZaXZqOGtydkFxMWJfa2d0dVZiSW51RUdsMFAtemV3VHdJbnY1YzlSdGJoT0Q3VnIxUHB5alFyWEtNSGFrbE94Mm0tTWZCTHNyWDJ3bkI4SmJSd0RWRWpJNUtHTw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "新加坡因人工智慧熱潮將 GDP 成長預期上調至“6% 左右”",
       "summary": [
         "Bloomberg Tech：新加坡因人工智慧熱潮將 GDP 成長預期上調至“6% 左右”",
@@ -380,7 +354,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "根據《華盛頓郵報》報道，聯邦調查局副局長將於 12 月退休",
       "summary": [
         "Investing.com：根據《華盛頓郵報》報道，聯邦調查局副局長將於 12 月退休",
@@ -401,7 +375,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Nvidia 對黃仁勳重新擔任執行長有何反應",
       "summary": [
         "BBC World：Nvidia 對黃仁勳重新擔任執行長有何反應",
@@ -422,7 +396,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "東京23區10月二手公寓價格連續5個月下跌",
       "summary": [
         "NHK新聞：東京23區10月二手公寓價格連續5個月下跌",
@@ -443,7 +417,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "即使在修訂提案中，歐盟的電動車激勵措施也將日本製造的汽車排除在外",
       "summary": [
         "Nikkei Asia：即使在修訂提案中，歐盟的電動車激勵措施也將日本製造的汽車排除在外",
@@ -460,6 +434,27 @@
           "source": "法廣RFI",
           "title": "歐盟電動汽車優惠政策修正案排除日本 日本表示關切",
           "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261124-%E6%AD%90%E7%9B%9F%E9%9B%BB%E5%8B%95%E6%B1%BD%E8%BB%8A%E5%84%AA%E6%83%A0%E6%94%BF%E7%AD%96%E4%BF%AE%E6%AD%A3%E6%A1%88%E6%8E%92%E9%99%A4%E6%97%A5%E6%9C%AC-%E6%97%A5%E6%9C%AC%E8%A1%A8%E7%A4%BA%E9%97%9C%E5%88%87"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "澳洲計劃簽署另一項協議以阻止中國進入太平洋",
+      "summary": [
+        "Bloomberg Markets：澳洲計劃簽署另一項協議以阻止中國進入太平洋",
+        "法廣RFI：索羅門群島已告知北京不再續約中所安全協議 將與澳方簽署新條約"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "澳洲計劃簽署另一項協議以阻止中國進入太平洋",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/australia-aims-to-sign-another-deal-to-block-china-in-pacific"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "索羅門群島已告知北京不再續約中所安全協議 將與澳方簽署新條約",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261124-%E6%89%80%E7%BE%85%E9%96%80%E7%BE%A4%E5%B3%B6%E5%B7%B2%E5%91%8A%E7%9F%A5%E5%8C%97%E4%BA%AC%E4%B8%8D%E5%86%8D%E7%BA%8C%E7%B4%84%E4%B8%AD%E6%89%80%E5%AE%89%E5%85%A8%E5%8D%94%E8%AD%B0-%E5%B0%87%E8%88%87%E6%BE%B3%E6%96%B9%E7%B0%BD%E7%BD%B2%E6%96%B0%E6%A2%9D%E7%B4%84"
         }
       ]
     }
