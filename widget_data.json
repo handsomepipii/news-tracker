@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 09:57",
+  "updated_at": "2026-11-24 10:27",
   "taiwan": [
     {
       "rank": 1,
@@ -40,38 +40,6 @@
     },
     {
       "rank": 2,
-      "title": "川普稱直接對輝達董事會發表談話 讓黃仁勳回歸",
-      "summary": [
-        "經濟日報：川普稱直接對輝達董事會發表談話 讓黃仁勳回歸",
-        "ETtoday：川普親曝直接聯絡輝達董事會！要求國安保證　力挺黃仁勳回鍋",
-        "自由時報：川普親自與輝達董事會溝通　促成黃仁勳回鍋"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普稱直接對輝達董事會發表談話 讓黃仁勳回歸",
-          "url": "https://money.udn.com/money/story/123398/9897476"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普親曝直接聯絡輝達董事會！要求國安保證　力挺黃仁勳回鍋",
-          "url": "https://www.ettoday.net/news/20261123/3277297.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "川普親自與輝達董事會溝通　促成黃仁勳回鍋",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5651126"
-        },
-        {
-          "source": "工商時報",
-          "title": "黃仁勳回歸！川普證實親自介入輝達董事會並為國安威脅掛保證- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HNFNoTUNnM0VCUDlRWmk5MzZ3VS1nYWRFU1ZsaVFiUXpBeXJ4OWV0bVVWLXpPUE5CTGdXeFp5WFdZMXh5MWstRlR4TFotZHZPMmdhak5qMU1Xd05vUjk4?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "震撼彈！輝達宣佈 黃仁勳回任執行長",
       "summary": [
         "自由時報：震撼彈！輝達宣佈 黃仁勳回任執行長",
@@ -99,6 +67,38 @@
           "source": "ETtoday",
           "title": "快訊／輝達宣佈：黃仁勳重返CEO",
           "url": "https://www.ettoday.net/news/20261123/3277270.htm"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "川普稱直接對輝達董事會發表談話 讓黃仁勳回歸",
+      "summary": [
+        "經濟日報：川普稱直接對輝達董事會發表談話 讓黃仁勳回歸",
+        "ETtoday：川普親曝直接聯絡輝達董事會！要求國安保證　力挺黃仁勳回鍋",
+        "自由時報：川普親自與輝達董事會溝通　促成黃仁勳回鍋"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普稱直接對輝達董事會發表談話 讓黃仁勳回歸",
+          "url": "https://money.udn.com/money/story/123398/9897476"
+        },
+        {
+          "source": "ETtoday",
+          "title": "川普親曝直接聯絡輝達董事會！要求國安保證　力挺黃仁勳回鍋",
+          "url": "https://www.ettoday.net/news/20261123/3277297.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "川普親自與輝達董事會溝通　促成黃仁勳回鍋",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5651126"
+        },
+        {
+          "source": "工商時報",
+          "title": "黃仁勳回歸！川普證實親自介入輝達董事會並為國安威脅掛保證- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HNFNoTUNnM0VCUDlRWmk5MzZ3VS1nYWRFU1ZsaVFiUXpBeXJ4OWV0bVVWLXpPUE5CTGdXeFp5WFdZMXh5MWstRlR4TFotZHZPMmdhak5qMU1Xd05vUjk4?oc=5"
         }
       ]
     },
@@ -200,6 +200,27 @@
     },
     {
       "rank": 8,
+      "title": "期貨最新報價11／23期交所夜盤行情- 證券",
+      "summary": [
+        "工商時報：期貨最新報價11／23期交所夜盤行情- 證券",
+        "MoneyDJ理財網：美股指數期貨最新報價 11:38"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "工商時報",
+          "title": "期貨最新報價11／23期交所夜盤行情- 證券",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHenBXcnM4cVNYWGxlR1lYOFAza1R3Uk5DYVdDMTdHbXpGV0Vld3R2dzdtZk9QZWQ0UHFsdVZGTHc1Q1JOUFVRX0RZenBoaGV5QWVmamdzenZrb0FYLS1J?oc=5"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "美股指數期貨最新報價 11:38",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX3RYRG1TWm56QXNwODV2T2FaVFNid09kMWt1ZmJ1NVgzT1VVWWl4YzhYZEh6b2d3V1ZNYWVIT19LYmhKcnhyMG1SUGZOM0VKS0c3VXQ0eF9YZFdVQmxZUmhoLVpVcjViNUR1cF93RHNpNzdRLVM3WThkZjFkQU9pWlpn?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
       "summary": [
         "經濟日報：黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
@@ -220,7 +241,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "快訊》董事會宣佈立即恢復黃仁勳職位，輝達股價暴漲逾 25%",
       "summary": [
         "科技新報：快訊》董事會宣佈立即恢復黃仁勳職位，輝達股價暴漲逾 25%",
@@ -237,27 +258,6 @@
           "source": "經濟日報",
           "title": "大翻盤、輝達董事會恢復黃仁勳職務 輝達暴衝26%",
           "url": "https://money.udn.com/money/story/123398/9897248"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "川普恭喜黃仁勳復職！強調美國沒證據顯示黃仁勳有違法行為",
-      "summary": [
-        "經濟日報：川普恭喜黃仁勳復職！強調美國沒證據顯示黃仁勳有違法行為",
-        "財訊：黃仁勳重返輝達擔任執行長 川普：美國政府沒有證據顯示他曾從事任何違法行為"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普恭喜黃仁勳復職！強調美國沒證據顯示黃仁勳有違法行為",
-          "url": "https://money.udn.com/money/story/5599/9897271"
-        },
-        {
-          "source": "財訊",
-          "title": "黃仁勳重返輝達擔任執行長 川普：美國政府沒有證據顯示他曾從事任何違法行為",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vS0JWS2YwbnVpazN1SFdISmNUbGxyYjhsczV5bWVFNTNCeWhfX2N0d21pb2RFTFZhb2RGSmVuMnlNOWE4a0xQTWkwcmxZQVViS3lFeklJdHZEdFhjSDVtbzB3ajJNS0NKSVlFc0pmeWYzcFYzczFyRGVvbw?oc=5"
         }
       ]
     }
@@ -345,7 +345,7 @@
         "Bloomberg Tech：美國將英偉達醜聞中心公司 Megaspeed 列入黑名單",
         "TechCrunch：處於黃仁勳醜聞中心的公司 Megaspeed 似乎正被列入美國黑名單"
       ],
-      "media_count": 5,
+      "media_count": 4,
       "links": [
         {
           "source": "Investing.com",
@@ -366,11 +366,6 @@
           "source": "BBC World",
           "title": "因英偉達醜聞，美國將亞洲人工智慧公司 Megaspeed 列入黑名單",
           "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "由於英偉達醜聞，美國將 Megaspeed 列入貿易黑名單",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1R6NzQ4SnlnWjJFcTUtendaNnQtamFyRnJCN1R2QXZBczA0Vm1DVlJXa3FDbjhINGdxanRhTDRYc1JyWm5uV3o2THlvT2YtZmszcVRPQVRQLXA3bEx6dFg0VlFpZmtrVTJEeUxRWnY4bEloVTJEZWE5eWtwMDhvQVVhOENST3prcHRLS1p3RjVLT1RrbTVIOFlRUk9SOC1PbzdSQkxQTkJ4cjNPekkwV2VsSQ?oc=5"
         }
       ]
     },
