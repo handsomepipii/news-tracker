@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 10:27",
+  "updated_at": "2026-11-24 10:57",
   "taiwan": [
     {
       "rank": 1,
@@ -40,38 +40,6 @@
     },
     {
       "rank": 2,
-      "title": "震撼彈！輝達宣佈 黃仁勳回任執行長",
-      "summary": [
-        "自由時報：震撼彈！輝達宣佈 黃仁勳回任執行長",
-        "經濟日報：輝達宣佈 黃仁勳將回任執行長",
-        "財訊：快訊／黃仁勳王者歸來！輝達重磅宣佈重新回任執行長"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "震撼彈！輝達宣佈 黃仁勳回任執行長",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5651047"
-        },
-        {
-          "source": "經濟日報",
-          "title": "輝達宣佈 黃仁勳將回任執行長",
-          "url": "https://money.udn.com/money/story/123398/9897261"
-        },
-        {
-          "source": "財訊",
-          "title": "快訊／黃仁勳王者歸來！輝達重磅宣佈重新回任執行長",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mMWRKVklhdWNWZ2E0NE4zd1ZmTFZWYkFrd1BIUm1LUGhTYWFHVkhFYXc3bUd4VjdaM0hCektxTWRsSURWZWI3Uld3NC1WdTg2dDlGLWVYYXByekhocEx4c2s3YkdtbFAxemNUMTMzWERSYWlPWGVQOUJuYw?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／輝達宣佈：黃仁勳重返CEO",
-          "url": "https://www.ettoday.net/news/20261123/3277270.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "川普稱直接對輝達董事會發表談話 讓黃仁勳回歸",
       "summary": [
         "經濟日報：川普稱直接對輝達董事會發表談話 讓黃仁勳回歸",
@@ -103,34 +71,39 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "創辦人回歸！黃仁勳重任 NVIDIA 總裁暨執行長 董事會全票透過",
+      "rank": 3,
+      "title": "川普稱若不讓黃仁勳重返輝達 中國可能會延攬他",
       "summary": [
-        "INSIDE硬塞：創辦人回歸！黃仁勳重任 NVIDIA 總裁暨執行長 董事會全票透過",
-        "癮科技Cool3c：NVIDIA董事會宣佈恢復黃仁勳總裁、執行長與董事會成員身分，表示聽取美國政府認定黃仁勳無造成國安風險疑慮",
-        "iThome：Nvidia董事會宣佈黃仁勳回鍋，離職11天後重掌執行長職務"
+        "經濟日報：川普稱若不讓黃仁勳重返輝達 中國可能會延攬他",
+        "自由時報：黃仁勳險被中國挖角？川普曝隱憂：北京可能出手延攬",
+        "ETtoday：川普曝黃仁勳「閃電回鍋」內幕：怕他被中國挖角"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
-          "source": "INSIDE硬塞",
-          "title": "創辦人回歸！黃仁勳重任 NVIDIA 總裁暨執行長 董事會全票透過",
-          "url": "https://www.inside.com.tw/article/42986-jensen-huang-will-return"
+          "source": "經濟日報",
+          "title": "川普稱若不讓黃仁勳重返輝達 中國可能會延攬他",
+          "url": "https://money.udn.com/money/story/5599/9897643"
         },
         {
-          "source": "癮科技Cool3c",
-          "title": "NVIDIA董事會宣佈恢復黃仁勳總裁、執行長與董事會成員身分，表示聽取美國政府認定黃仁勳無造成國安風險疑慮",
-          "url": "https://www.cool3c.com/article/254311"
+          "source": "自由時報",
+          "title": "黃仁勳險被中國挖角？川普曝隱憂：北京可能出手延攬",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5651153"
         },
         {
-          "source": "iThome",
-          "title": "Nvidia董事會宣佈黃仁勳回鍋，離職11天後重掌執行長職務",
-          "url": "https://www.ithome.com.tw/news/180739"
+          "source": "ETtoday",
+          "title": "川普曝黃仁勳「閃電回鍋」內幕：怕他被中國挖角",
+          "url": "https://www.ettoday.net/news/20261124/3277353.htm"
+        },
+        {
+          "source": "科技新報",
+          "title": "川普稱若不讓黃仁勳重返輝達，中國可能會延攬他",
+          "url": "https://technews.tw/2026/11/24/trump-warns-china-poach-jensen-huang-barred-returning-nvidia/"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "川普：司法部指黃仁勳無涉罪行　失去國家級腦力才是國安威脅",
       "summary": [
         "自由時報：川普：司法部指黃仁勳無涉罪行　失去國家級腦力才是國安威脅",
@@ -157,28 +130,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "重磅逆轉勝！黃仁勳重掌執行長 股價飆升超過26％",
-      "summary": [
-        "自由時報：重磅逆轉勝！黃仁勳重掌執行長 股價飆升超過26％",
-        "ETtoday：黃仁勳逆襲成功！輝達CEO即刻復職　股價盤前飆30%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "重磅逆轉勝！黃仁勳重掌執行長 股價飆升超過26％",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5651046"
-        },
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳逆襲成功！輝達CEO即刻復職　股價盤前飆30%",
-          "url": "https://finance.ettoday.net/news/3277280"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "Toyz神預言黃仁勳回鍋輝達！「大膽預測」8天後成真",
       "summary": [
         "ETtoday：Toyz神預言黃仁勳回鍋輝達！「大膽預測」8天後成真",
@@ -199,7 +151,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "期貨最新報價11／23期交所夜盤行情- 證券",
       "summary": [
         "工商時報：期貨最新報價11／23期交所夜盤行情- 證券",
@@ -220,7 +172,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
       "summary": [
         "經濟日報：黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
@@ -241,23 +193,65 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "快訊》董事會宣佈立即恢復黃仁勳職位，輝達股價暴漲逾 25%",
+      "rank": 8,
+      "title": "NVIDIA董事會宣佈恢復黃仁勳總裁、執行長與董事會成員身分，表示聽取美國政府認定黃仁勳無造成國安風險疑慮",
       "summary": [
-        "科技新報：快訊》董事會宣佈立即恢復黃仁勳職位，輝達股價暴漲逾 25%",
-        "經濟日報：大翻盤、輝達董事會恢復黃仁勳職務 輝達暴衝26%"
+        "癮科技Cool3c：NVIDIA董事會宣佈恢復黃仁勳總裁、執行長與董事會成員身分，表示聽取美國政府認定黃仁勳無造成國安風險疑慮",
+        "iThome：Nvidia董事會宣佈黃仁勳回鍋，離職11天後重掌執行長職務"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "科技新報",
-          "title": "快訊》董事會宣佈立即恢復黃仁勳職位，輝達股價暴漲逾 25%",
-          "url": "https://finance.technews.tw/2026/11/23/the-board-of-directors-announces-the-immediate-reinstatement-of-jensen-huang/"
+          "source": "癮科技Cool3c",
+          "title": "NVIDIA董事會宣佈恢復黃仁勳總裁、執行長與董事會成員身分，表示聽取美國政府認定黃仁勳無造成國安風險疑慮",
+          "url": "https://www.cool3c.com/article/254311"
         },
         {
+          "source": "iThome",
+          "title": "Nvidia董事會宣佈黃仁勳回鍋，離職11天後重掌執行長職務",
+          "url": "https://www.ithome.com.tw/news/180739"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "快訊》黃仁勳重返輝達太震撼！臺指期夜盤一度漲停 衝上40324點",
+      "summary": [
+        "中時新聞：快訊》黃仁勳重返輝達太震撼！臺指期夜盤一度漲停 衝上40324點",
+        "ETtoday：快訊／黃仁勳歸位！臺指期夜盤漲3170點　臺積電一度漲停"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "快訊》黃仁勳重返輝達太震撼！臺指期夜盤一度漲停 衝上40324點",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzd3I1QTdQUUt3Z2hRejNDRVhRMWJOVmxmZTI5amdUeF9OeTdMUldOM19zNmhEeERhaGVMSi1laEVLVTNfVjJjSEIwdXlVdjU2YjlQbDl4b0RfeUJCNjV3ZDFoTm83eHJZTGh6SHp3?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／黃仁勳歸位！臺指期夜盤漲3170點　臺積電一度漲停",
+          "url": "https://finance.ettoday.net/news/3277331"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美媒：輝達股價狂飆33% 幾乎收復黃仁勳坦承婚外情後跌幅",
+      "summary": [
+        "經濟日報：美媒：輝達股價狂飆33% 幾乎收復黃仁勳坦承婚外情後跌幅",
+        "ETtoday：輝達股價狂飆33%　美媒：幾乎收復黃仁勳坦承婚外情後跌幅"
+      ],
+      "media_count": 2,
+      "links": [
+        {
           "source": "經濟日報",
-          "title": "大翻盤、輝達董事會恢復黃仁勳職務 輝達暴衝26%",
-          "url": "https://money.udn.com/money/story/123398/9897248"
+          "title": "美媒：輝達股價狂飆33% 幾乎收復黃仁勳坦承婚外情後跌幅",
+          "url": "https://money.udn.com/money/story/123398/9897463"
+        },
+        {
+          "source": "ETtoday",
+          "title": "輝達股價狂飆33%　美媒：幾乎收復黃仁勳坦承婚外情後跌幅",
+          "url": "https://www.ettoday.net/news/20261124/3277307.htm"
         }
       ]
     }
@@ -265,80 +259,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "Nvidia (NVDA) 恢復黃仁勳擔任執行長：即時更新",
-      "summary": [
-        "Bloomberg Tech：Nvidia (NVDA) 恢復黃仁勳擔任執行長：即時更新",
-        "CNBC：Nvidia 恢復黃仁勳擔任執行長。股價暴漲31%",
-        "Investing.com：Nvidia 恢復黃仁勳擔任執行長"
-      ],
-      "media_count": 5,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Nvidia (NVDA) 恢復黃仁勳擔任執行長：即時更新",
-          "url": "https://www.bloomberg.com/news/live-blog/2026-11-23/nvidia-reinstates-jensen-huang-as-ceo-live-updates"
-        },
-        {
-          "source": "CNBC",
-          "title": "Nvidia 恢復黃仁勳擔任執行長。股價暴漲31%",
-          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Nvidia 恢復黃仁勳擔任執行長",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-reinstates-jensen-huang-as-ceo-5045809"
-        },
-        {
-          "source": "The Verge",
-          "title": "黃仁勳重新擔任 Nvidia 執行長",
-          "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "黃仁勳恢復擔任 Nvidia 執行長兼董事會主席",
-          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "英偉達恢復黃仁勳執行長職務",
-      "summary": [
-        "Financial Times：英偉達恢復黃仁勳執行長職務",
-        "NHK新聞：黃仁勳卸任後重返美國半導體巨頭英偉達執行長",
-        "Bloomberg Tech：英偉達為何恢復黃仁勳擔任執行長"
-      ],
-      "media_count": 5,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "英偉達恢復黃仁勳執行長職務",
-          "url": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "黃仁勳卸任後重返美國半導體巨頭英偉達執行長",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261123de80304"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "英偉達為何恢復黃仁勳擔任執行長",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/why-nvidia-reinstated-jensen-huang-as-ceo-video"
-        },
-        {
-          "source": "德國之聲",
-          "title": "英偉達宣佈黃仁勳即刻復任執行長",
-          "url": "https://www.dw.com/zh/英伟达宣布黄仁勋即刻复任首席执行官/a-80022108?maca=chi-rss-chi-all-1127-rdf"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "英偉達董事會一致恢復黃仁勳擔任執行長",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNlpPd0dWTElwdUhsMXZsSDRTQ2g2dzhmc1NzNEhOY042enVuNmphNnJkRDhlY3drQkRYdTlrY0V1RnVXVTdEbzYwdEtzNWNwQW9OdzA0bVRPVl9PTkFPREd6MWJNT1JBb2JBYjNUWm91a3g4TmNPMXFSclc4Z0RlbVJSX3piZGQzZ3VWQ1V2RElQLTk3MWdJMGlUdk5vR3QyajJvWUxKeDQtMFU?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Semafor 報導，美國計劃因晶片出口問題將 Megaspeed 列入黑名單",
       "summary": [
         "Investing.com：Semafor 報導，美國計劃因晶片出口問題將 Megaspeed 列入黑名單",
@@ -370,7 +290,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "特朗普促使英偉達董事會讓黃仁勳復職 據報未徵求臨時CEO等高管意見",
       "summary": [
         "法廣RFI：特朗普促使英偉達董事會讓黃仁勳復職 據報未徵求臨時CEO等高管意見",
@@ -402,118 +322,88 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "英偉達恢復黃仁勳執行長，股價飆升",
+      "rank": 3,
+      "title": "在黃仁勳重新擔任 Nvidia 執行長之前，股市上漲",
       "summary": [
-        "Yahoo Finance：英偉達恢復黃仁勳執行長，股價飆升",
-        "Bloomberg Tech：黃仁勳回歸擔任執行長，英偉達股價飆升",
-        "Washington Post：黃仁勳重新出任英偉達執行長，市場飆升"
+        "Bloomberg Tech：在黃仁勳重新擔任 Nvidia 執行長之前，股市上漲",
+        "Yahoo Finance：黃仁勳以驚人的逆轉重新擔任 Nvidia 執行長。股價飆漲超過 30%。",
+        "BBC World：Nvidia 對黃仁勳重新擔任執行長有何反應"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "英偉達恢復黃仁勳執行長，股價飆升",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeklScUllZng2dVpiZ1U5Q3NheVI4dEdicWM2dk1XUEtvMndMU3laMFRRU21CaTdTOFVUX2lJRlR6SkxYVWRZVkhRc3hVOEhzWWxHdVBHTWd6dUdMc2FHWENBaDVlT0Nyc1hsSlRfTjhzczdrdDEwNm9YcnhrQ2N1M0lWQXBFUE0weG5sUVdNZUFzV2dCNHVXVDQ1aW10SFZneVJWbWw5dzBZejA2cVNDdQ?oc=5"
-        },
-        {
           "source": "Bloomberg Tech",
-          "title": "黃仁勳回歸擔任執行長，英偉達股價飆升",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-stock-surges-with-return-of-huang-as-ceo-video"
+          "title": "在黃仁勳重新擔任 Nvidia 執行長之前，股市上漲",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-23/bloomberg-surveillance-11-23-2026-video"
         },
         {
-          "source": "Washington Post",
-          "title": "黃仁勳重新出任英偉達執行長，市場飆升",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE1eld6Ynlnd3ExWkk3QndCd0RUM0E0M3I2eTFHREVyUG5ESEJoUmdJZFhYNG4xRi1VTGlHX0gwOXFMVm9zZl82MlRnZ1QzbU42Z3Fka2VIX0JTakE2b0FSOHBzU2xLaHpwVWMtS0Z5YjhtRnR5MHJLczJrdkh0aGpQT2hXanVWSWZuRkx4RGRwOUE?oc=5"
+          "source": "Yahoo Finance",
+          "title": "黃仁勳以驚人的逆轉重新擔任 Nvidia 執行長。股價飆漲超過 30%。",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMHRSZkQ2dzVhQVQ3VExJb3JZbEFVUTFKcWI4ZngxdDR1dnBSelVuRFBwejVESlVadDZlSU1VMWxqYUd6amJmNlRpTUhYU25yNE5yWVB4RmpFTFRYaWpRQ0Fnc0FKWlhMTGlPaVNSV0UyRzFmaTNOVmUyUk5VeXYtendMR0xwMzBNN2ZLVHFHdUNjd2RoeDRaSWdOMUc?oc=5"
+        },
+        {
+          "source": "BBC World",
+          "title": "Nvidia 對黃仁勳重新擔任執行長有何反應",
+          "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "英偉達宣佈黃仁勳即刻復任執行長",
+      "summary": [
+        "德國之聲：英偉達宣佈黃仁勳即刻復任執行長",
+        "The Verge：黃仁勳如何再次擔任英偉達執行長",
+        "Bloomberg Markets：英偉達為何恢復黃仁勳擔任執行長？"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "英偉達宣佈黃仁勳即刻復任執行長",
+          "url": "https://www.dw.com/zh/英伟达宣布黄仁勋即刻复任首席执行官/a-80022108?maca=chi-rss-chi-all-1127-rdf"
+        },
+        {
+          "source": "The Verge",
+          "title": "黃仁勳如何再次擔任英偉達執行長",
+          "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "英偉達為何恢復黃仁勳擔任執行長？",
+          "url": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "CrowdStrike 將 440 億美元收購 Zscaler",
+      "summary": [
+        "TechCrunch：CrowdStrike 將 440 億美元收購 Zscaler",
+        "Investing.com：CrowdStrike 的獲利因 $43.9B Zscaler 收購而黯然失色",
+        "CNBC：CrowdStrike執行長為Zscaler收購辯護，稱其為“成功組合”"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "CrowdStrike 將 440 億美元收購 Zscaler",
+          "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"
+        },
+        {
+          "source": "Investing.com",
+          "title": "CrowdStrike 的獲利因 $43.9B Zscaler 收購而黯然失色",
+          "url": "https://www.investing.com/news/stock-market-news/crowdstrike-earnings-beat-overshadowed-by-439b-zscaler-acquisition-93CH-5046206"
+        },
+        {
+          "source": "CNBC",
+          "title": "CrowdStrike執行長為Zscaler收購辯護，稱其為“成功組合”",
+          "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "CrowdStrike以440億美元收購Zscaler，人工智慧助推網路攻擊",
-      "summary": [
-        "CNBC：CrowdStrike以440億美元收購Zscaler，人工智慧助推網路攻擊",
-        "TechCrunch：CrowdStrike 將 440 億美元收購 Zscaler"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "CrowdStrike以440億美元收購Zscaler，人工智慧助推網路攻擊",
-          "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "CrowdStrike 將 440 億美元收購 Zscaler",
-          "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "英偉達 (Nvidia) 在政府投入下恢復黃仁勳 (Jensen Huang) 執行長職務",
-      "summary": [
-        "Bloomberg Tech：英偉達 (Nvidia) 在政府投入下恢復黃仁勳 (Jensen Huang) 執行長職務",
-        "Tom's Hardware：經公司董事會一致投票，Nvidia 恢復黃仁勳 (Jensen Huang) 執行長職務"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "英偉達 (Nvidia) 在政府投入下恢復黃仁勳 (Jensen Huang) 執行長職務",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-reinstates-jensen-huang-as-ceo-with-government-input"
-        },
-        {
-          "source": "Tom's Hardware",
-          "title": "經公司董事會一致投票，Nvidia 恢復黃仁勳 (Jensen Huang) 執行長職務",
-          "url": "https://www.tomshardware.com/tech-industry/nvidia-reinstates-jensen-huang-as-ceo-following-unanimous-vote-by-company-board-11-day-exit-from-company-saw-stock-prices-fall-by-24-percent-after-affair-scandal"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "董事會宣佈黃仁勳復職，NVIDIA 股價飆漲 30%",
-      "summary": [
-        "Investing.com：董事會宣佈黃仁勳復職，NVIDIA 股價飆漲 30%",
-        "Financial Times：黃仁勳復職後，英偉達股價飆漲 30%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "董事會宣佈黃仁勳復職，NVIDIA 股價飆漲 30%",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-shares-surge-30-as-board-announces-jensen-huangs-reinstatement-5045795"
-        },
-        {
-          "source": "Financial Times",
-          "title": "黃仁勳復職後，英偉達股價飆漲 30%",
-          "url": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "英偉達改變方針，讓黃仁勳重新擔任執行長",
-      "summary": [
-        "TechCrunch：英偉達改變方針，讓黃仁勳重新擔任執行長",
-        "Investing.com：政治和企業領導人對黃仁勳重返英偉達執行長做出反應"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "英偉達改變方針，讓黃仁勳重新擔任執行長",
-          "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
-        },
-        {
-          "source": "Investing.com",
-          "title": "政治和企業領導人對黃仁勳重返英偉達執行長做出反應",
-          "url": "https://www.investing.com/news/stock-market-news/political-and-corporate-leaders-react-to-huangs-return-as-nvidia-ceo-5045985"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "川普告訴 CNBC，他直接與 Nvidia 董事會討論了黃仁勳的事",
       "summary": [
         "CNBC：川普告訴 CNBC，他直接與 Nvidia 董事會討論了黃仁勳的事",
@@ -530,6 +420,90 @@
           "source": "Yahoo Finance",
           "title": "川普總統剛剛向 Nvidia 董事會傳送了有關黃仁勳的資訊",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUdHYU1PdFpTYzBfZjlURkFNSFBKeWZnUUhhdHBxTkZPZVVIVkZzZ1RtSjdjVm4yOHhPNktUdHRjZGJKMGMzQWd2YmFacEhiRFBxNzFYZHdkZ0liMHl1SnRoN25vb0JESU1BZ0ExOWRZT1JIRFRYYWtJc2FneVQ1Unk4ZWhjRHp1a1F6b0FLMHVtNHlJWlZIek93?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "黃仁勳回歸擔任執行長，英偉達股價飆升",
+      "summary": [
+        "Bloomberg Tech：黃仁勳回歸擔任執行長，英偉達股價飆升",
+        "Washington Post：黃仁勳重新出任英偉達執行長，市場飆升"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "黃仁勳回歸擔任執行長，英偉達股價飆升",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-stock-surges-with-return-of-huang-as-ceo-video"
+        },
+        {
+          "source": "Washington Post",
+          "title": "黃仁勳重新出任英偉達執行長，市場飆升",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE1eld6Ynlnd3ExWkk3QndCd0RUM0E0M3I2eTFHREVyUG5ESEJoUmdJZFhYNG4xRi1VTGlHX0gwOXFMVm9zZl82MlRnZ1QzbU42Z3Fka2VIX0JTakE2b0FSOHBzU2xLaHpwVWMtS0Z5YjhtRnR5MHJLczJrdkh0aGpQT2hXanVWSWZuRkx4RGRwOUE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "黃仁勳復職前數小時 特朗普據報曾親自致電英偉達董事會，力主其回歸",
+      "summary": [
+        "法廣RFI：黃仁勳復職前數小時 特朗普據報曾親自致電英偉達董事會，力主其回歸",
+        "TechCrunch：據報道，川普召集了英偉達董事會會議，主張黃仁勳回歸"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "黃仁勳復職前數小時 特朗普據報曾親自致電英偉達董事會，力主其回歸",
+          "url": "https://www.rfi.fr/tw/%E7%A7%91%E6%8A%80%E8%88%87%E6%96%87%E5%8C%96/20261123-%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%A9%E8%81%B7%E5%89%8D%E6%95%B8%E5%B0%8F%E6%99%82-%E7%89%B9%E6%9C%97%E6%99%AE%E6%93%9A%E5%A0%B1%E6%9B%BE%E8%A6%AA%E8%87%AA%E8%87%B4%E9%9B%BB%E8%8B%B1%E5%81%89%E9%81%94%E8%91%A3%E4%BA%8B%E6%9C%83%EF%BC%8C%E5%8A%9B%E4%B8%BB%E5%85%B6%E5%9B%9E%E6%AD%B8"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "據報道，川普召集了英偉達董事會會議，主張黃仁勳回歸",
+          "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "黃仁勳回歸英偉達推動人工智慧押注，股市飆升",
+      "summary": [
+        "Bloomberg Tech：黃仁勳回歸英偉達推動人工智慧押注，股市飆升",
+        "Bloomberg Markets：隨著黃仁勳的回歸重振人工智慧，亞洲股市上漲：市場總結"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "黃仁勳回歸英偉達推動人工智慧押注，股市飆升",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-23/stocks-soar-as-huang-s-nvidia-return-fuels-ai-bets-video"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "隨著黃仁勳的回歸重振人工智慧，亞洲股市上漲：市場總結",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "亞馬遜以 7.5B 美元收購 Decart 的人工智慧最佳化技術，準備銷售 Trainium 晶片",
+      "summary": [
+        "TechCrunch：亞馬遜以 7.5B 美元收購 Decart 的人工智慧最佳化技術，準備銷售 Trainium 晶片",
+        "CNBC：亞馬遜將收購人工智慧新創公司Decart的晶片軟體並聘請創辦人"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "亞馬遜以 7.5B 美元收購 Decart 的人工智慧最佳化技術，準備銷售 Trainium 晶片",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+        },
+        {
+          "source": "CNBC",
+          "title": "亞馬遜將收購人工智慧新創公司Decart的晶片軟體並聘請創辦人",
+          "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html"
         }
       ]
     }
