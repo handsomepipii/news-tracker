@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 15:56",
+  "updated_at": "2026-11-24 16:26",
   "taiwan": [
     {
       "rank": 1,
@@ -382,69 +382,6 @@
     },
     {
       "rank": 6,
-      "title": "英偉達飆升：投資者現在應該如何處理股票和人工智慧交易",
-      "summary": [
-        "CNBC：英偉達飆升：投資者現在應該如何處理股票和人工智慧交易",
-        "MarketWatch：英偉達的股價再次飆升。在追趕人工智慧漲勢之前需要了解什麼。"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "英偉達飆升：投資者現在應該如何處理股票和人工智慧交易",
-          "url": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "英偉達的股價再次飆升。在追趕人工智慧漲勢之前需要了解什麼。",
-          "url": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "黃仁勳表示他將成為“更好的執行長”，員工為他的回歸鼓掌",
-      "summary": [
-        "The Verge：黃仁勳表示他將成為“更好的執行長”，員工為他的回歸鼓掌",
-        "CNBC：黃仁勳回國後受到英偉達員工歡呼，承諾成為更好的執行長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "黃仁勳表示他將成為“更好的執行長”，員工為他的回歸鼓掌",
-          "url": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return"
-        },
-        {
-          "source": "CNBC",
-          "title": "黃仁勳回國後受到英偉達員工歡呼，承諾成為更好的執行長",
-          "url": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "黃仁勳如何再次擔任英偉達執行長",
-      "summary": [
-        "The Verge：黃仁勳如何再次擔任英偉達執行長",
-        "Bloomberg Markets：英偉達為何恢復黃仁勳擔任執行長？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "黃仁勳如何再次擔任英偉達執行長",
-          "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "英偉達為何恢復黃仁勳擔任執行長？",
-          "url": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "黃仁勳速返英偉達的內幕和初步反響",
       "summary": [
         "法廣RFI：黃仁勳速返英偉達的內幕和初步反響",
@@ -465,7 +402,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "大事件：黃仁勳回來了",
       "summary": [
         "Bloomberg Tech：大事件：黃仁勳回來了",
@@ -482,6 +419,69 @@
           "source": "The Verge",
           "title": "英偉達執行長黃仁勳回來了。接下來會發生什麼事？",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "彼得森：貝森特對黃仁勳的態度大轉變揭示了川普和中國的情況",
+      "summary": [
+        "CNBC：彼得森：貝森特對黃仁勳的態度大轉變揭示了川普和中國的情況",
+        "Washington Post：意見 |川普尷尬的中國之行告訴世界什麼"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "彼得森：貝森特對黃仁勳的態度大轉變揭示了川普和中國的情況",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html"
+        },
+        {
+          "source": "Washington Post",
+          "title": "意見 |川普尷尬的中國之行告訴世界什麼",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUNCcF9DcnlBN1FpdDJCUy13SGNFWmxwcTJsemdSY01GaF9XWWJicGlMcjU0Z3VWZ3k3UTNlMjV2bURidzhFODE2dGZWRmJtYW1kLXVib2ljRDVSOFFYbFhsQTF1Ul9pclhsNGUyaWl0c1VQWncwYUpXVUJBQ0NqNzZvSE9odzc3c0VuVWIyYkF5UGlrLVNkeDVJTm5DaGI3dmhjVGhB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "聯準會約翰威廉斯表示，「隨著時間的推移」可能會提高利率以應對通膨",
+      "summary": [
+        "CNBC：聯準會約翰威廉斯表示，「隨著時間的推移」可能會提高利率以應對通膨",
+        "Investing.com：紐約聯邦儲備銀行威廉斯表示，高通膨需要進一步升息"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "聯準會約翰威廉斯表示，「隨著時間的推移」可能會提高利率以應對通膨",
+          "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "紐約聯邦儲備銀行威廉斯表示，高通膨需要進一步升息",
+          "url": "https://www.investing.com/news/stock-market-news/ny-feds-williams-says-high-inflation-necessitates-more-rate-hikes-93CH-5046727"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "在川普和投資者的壓力下，英偉達恢復黃仁勳擔任執行長",
+      "summary": [
+        "Yahoo Finance：在川普和投資者的壓力下，英偉達恢復黃仁勳擔任執行長",
+        "WSJ Markets：川普促成黃仁勳復任英偉達執行長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "在川普和投資者的壓力下，英偉達恢復黃仁勳擔任執行長",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3VVSndPZUtqSWJCQklZbldOMWcxbVJmZUhaczVOTllfTHg5ZmVGQkNpSFBTSS0zX0xnSk1DMVA0OTFxVFFZWmxHRXVNclZSNXdsbnA4cFVKSl9zTjRVZi00a2xsVWE4bG9nVUdCSUZSVkoxdkswVU9uWWw4TjNUU0p6d0RLTVU?oc=5"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "川普促成黃仁勳復任英偉達執行長",
+          "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main"
         }
       ]
     }
