@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 06:57",
+  "updated_at": "2026-11-25 07:27",
   "taiwan": [
     {
       "rank": 1,
@@ -57,6 +57,33 @@
     },
     {
       "rank": 3,
+      "title": "以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
+      "summary": [
+        "自由時報：以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
+        "經濟日報：以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
+        "ETtoday：以色列防長稱伊朗研發化武：我們絕不能讓這件事繼續下去"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5652307"
+        },
+        {
+          "source": "經濟日報",
+          "title": "以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
+          "url": "https://money.udn.com/money/story/5599/9899997"
+        },
+        {
+          "source": "ETtoday",
+          "title": "以色列防長稱伊朗研發化武：我們絕不能讓這件事繼續下去",
+          "url": "https://www.ettoday.net/news/20261125/3277967.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "俄羅斯戰機進入韓國防空識別區 韓軍緊急出動戰機並發布空襲警報",
       "summary": [
         "經濟日報：俄羅斯戰機進入韓國防空識別區 韓軍緊急出動戰機並發布空襲警報",
@@ -77,7 +104,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "《單身3》尹廈情怒控賓客「搶先模擬婚禮」這2人遭肉搜急道歉",
       "summary": [
         "自由時報：《單身3》尹廈情怒控賓客「搶先模擬婚禮」這2人遭肉搜急道歉",
@@ -98,7 +125,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "屏東潮州傳議員、鎮代「包裹式賄選」 2樁腳收押、1人5萬交保",
       "summary": [
         "自由時報：屏東潮州傳議員、鎮代「包裹式賄選」 2樁腳收押、1人5萬交保",
@@ -119,7 +146,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "明天天氣／週三低溫1字頭 週四回暖有雨 投票日全臺放晴",
       "summary": [
         "自由時報：明天天氣／週三低溫1字頭 週四回暖有雨 投票日全臺放晴",
@@ -140,7 +167,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "威廉凱特鄉間宅邸遭闖入　英警逮2男",
       "summary": [
         "經濟日報：威廉凱特鄉間宅邸遭闖入　英警逮2男",
@@ -161,7 +188,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "沈伯洋直播髮型投票 結果讓他超崩潰直呼「選舉無效」",
       "summary": [
         "自由時報：沈伯洋直播髮型投票 結果讓他超崩潰直呼「選舉無效」",
@@ -182,7 +209,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "沙烏地首都最高摩天大樓被擊中　一週內2度遇襲",
       "summary": [
         "經濟日報：沙烏地首都最高摩天大樓被擊中　一週內2度遇襲",
@@ -201,69 +228,11 @@
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5652261"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "黃仁勳曾想騎重機橫越美國？Podcast主持人曝收邀約訊息",
-      "summary": [
-        "經濟日報：黃仁勳曾想騎重機橫越美國？Podcast主持人曝收邀約訊息",
-        "自由時報：黃仁勳曾想騎重機橫越美國？Podcast主持人曝收邀約訊息"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳曾想騎重機橫越美國？Podcast主持人曝收邀約訊息",
-          "url": "https://money.udn.com/money/story/5599/9899889"
-        },
-        {
-          "source": "自由時報",
-          "title": "黃仁勳曾想騎重機橫越美國？Podcast主持人曝收邀約訊息",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5652277"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Anthropic 在盤前交易中跌破 83 美元 IPO 價格",
-      "summary": [
-        "Bloomberg Markets：Anthropic 在盤前交易中跌破 83 美元 IPO 價格",
-        "CNBC：Anthropic 股價跌破 83 美元 IPO 價格，但分析師仍基本持樂觀態度",
-        "MarketWatch：Anthropic 的股價首度跌破 IPO 價格"
-      ],
-      "media_count": 5,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Anthropic 在盤前交易中跌破 83 美元 IPO 價格",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
-        },
-        {
-          "source": "CNBC",
-          "title": "Anthropic 股價跌破 83 美元 IPO 價格，但分析師仍基本持樂觀態度",
-          "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "Anthropic 的股價首度跌破 IPO 價格",
-          "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic股價跌破83美元的IPO價格",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-24/anthropic-shares-fall-below-ipo-price-of-83-video"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Anthropic 股價跌破 IPO 價格，這對人工智慧新創公司來說是一個令人擔憂的跡象",
-          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "中國對中央政治局委員、上海市委書記陳吉寧立案調查",
       "summary": [
         "Bloomberg Markets：中國對中央政治局委員、上海市委書記陳吉寧立案調查",
@@ -296,6 +265,43 @@
           "source": "Nikkei Asia",
           "title": "上海市委書記陳吉寧接受調查",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb0F2dFB6dVVxLWF4Z293bl9kRjNacXRPRHJ4WWFXZzZLMzZVOFU0STdCcHd2NVU4eERqNEpBY2xwZ0xKaE03ZjNJVFFXb1RvV2FmSkxuMzRqaGZJaHZPSEk4Q0NsZ2pqS3dKNWNsUWlRNlZQMWRNUURrTVdiQkVkQTRmNVZsSzBVcGxHNEFLb1lqaGpERlNfNEtGV0hNams?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic 股價跌破 83 美元 IPO 價格，但分析師仍基本持樂觀態度",
+      "summary": [
+        "CNBC：Anthropic 股價跌破 83 美元 IPO 價格，但分析師仍基本持樂觀態度",
+        "MarketWatch：Anthropic 的股價首度跌破 IPO 價格",
+        "Bloomberg Tech：Anthropic股價跌破83美元的IPO價格"
+      ],
+      "media_count": 5,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "Anthropic 股價跌破 83 美元 IPO 價格，但分析師仍基本持樂觀態度",
+          "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "Anthropic 的股價首度跌破 IPO 價格",
+          "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Anthropic股價跌破83美元的IPO價格",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-24/anthropic-shares-fall-below-ipo-price-of-83-video"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Anthropic 股價跌破 IPO 價格，這對人工智慧新創公司來說是一個令人擔憂的跡象",
+          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "隨著第一天的上漲消失，Anthrotic 股價跌破 83 美元 IPO 價格",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdF9semMwVkFDQkVHWEd3QVVjT2NGTjBHcDJWTTJBZlhsS3FsVmU3S2p4dDBGVktPV3dBUlBQc2p3OERudGJyWHgtU1lWNWlxOFhDVHNfREZzMDNIeDdPODc5Y3VtSGR0dmY5a0x6dlRWM0FqeFpRVGlZT0JCSEVIQXJ3cEE2Vi1sZjN0bGR2TUpmUlpHTnVpd293dXNMRUhhTV9zd1UxSU9Sc3BxSWFZaW9JeTAxTFpQSzVZLVhn?oc=5"
         }
       ]
     },
