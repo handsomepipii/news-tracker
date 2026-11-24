@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 05:27",
+  "updated_at": "2026-11-25 05:58",
   "taiwan": [
     {
       "rank": 1,
@@ -35,69 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "馬來西亞防規避出口管制，籲資料中心勿服務美國列名企業",
-      "summary": [
-        "科技新報：馬來西亞防規避出口管制，籲資料中心勿服務美國列名企業",
-        "經濟日報：馬來西亞將建議資料中心停止向美國列入貿易黑名單的企業提供服務"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "馬來西亞防規避出口管制，籲資料中心勿服務美國列名企業",
-          "url": "https://technews.tw/2026/11/24/malaysia-prevents-export-control-evasion-data-centers-us-entities/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "馬來西亞將建議資料中心停止向美國列入貿易黑名單的企業提供服務",
-          "url": "https://money.udn.com/money/story/5599/9898883"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "車麗屋購物網站遭自動化攻擊，部分會員個資疑似外洩",
-      "summary": [
-        "iThome：車麗屋購物網站遭自動化攻擊，部分會員個資疑似外洩",
-        "公開資訊觀測站重訊：車麗屋購物網站遭自動化攻擊，部分會員個資疑似外洩"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "車麗屋購物網站遭自動化攻擊，部分會員個資疑似外洩",
-          "url": "https://www.ithome.com.tw/news/180759"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "車麗屋購物網站遭自動化攻擊，部分會員個資疑似外洩",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YYlFKM21UTlVoRDNvU3hfQTVPR1ZUa2JTeFRqU216SnI2cXkwTmFXTHpjUUl3SEJJSV9PdVdEcktWbjduTkJBUXpZT3NQdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "高市早苗深圳下機40公分落差 官房長官：日方自行發現異常",
-      "summary": [
-        "經濟日報：高市早苗深圳下機40公分落差 官房長官：日方自行發現異常",
-        "自由時報：高市早苗深圳下機40公分落差  官房長官：日方自行發現異常"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "高市早苗深圳下機40公分落差 官房長官：日方自行發現異常",
-          "url": "https://money.udn.com/money/story/5599/9899187"
-        },
-        {
-          "source": "自由時報",
-          "title": "高市早苗深圳下機40公分落差  官房長官：日方自行發現異常",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5651968"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "「北一女神」蔡瑞雪結婚了！甜蜜合照放閃醫生老公身分曝光- 娛樂",
       "summary": [
         "中時新聞：「北一女神」蔡瑞雪結婚了！甜蜜合照放閃醫生老公身分曝光- 娛樂",
@@ -118,7 +55,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 3,
       "title": "川普受訪讚魏哲家是傑出人才，稱臺積電將在德州建廠",
       "summary": [
         "科技新報：川普受訪讚魏哲家是傑出人才，稱臺積電將在德州建廠",
@@ -139,7 +76,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "76歲阿嬤樁腳涉為議員買票  嘉檢聲押禁見",
       "summary": [
         "自由時報：76歲阿嬤樁腳涉為議員買票  嘉檢聲押禁見",
@@ -160,7 +97,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "元大臺灣50反1爆違約交割 金額3946.9萬元",
       "summary": [
         "自由時報：元大臺灣50反1爆違約交割 金額3946.9萬元",
@@ -181,7 +118,28 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
+      "title": "九合一選舉人數出爐　1957萬人可投地方公職、彰化縣選舉人破百萬",
+      "summary": [
+        "ETtoday：九合一選舉人數出爐　1957萬人可投地方公職、彰化縣選舉人破百萬",
+        "自由時報：中選會公告》六都及縣市長選舉 1957萬人有投票資格"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "九合一選舉人數出爐　1957萬人可投地方公職、彰化縣選舉人破百萬",
+          "url": "https://www.ettoday.net/news/20261124/3277850.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "中選會公告》六都及縣市長選舉 1957萬人有投票資格",
+          "url": "https://news.ltn.com.tw/news/politics/paper/1779836"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "韓國召見俄大使館武官　抗議俄軍機逼近鬱陵島領空",
       "summary": [
         "經濟日報：韓國召見俄大使館武官　抗議俄軍機逼近鬱陵島領空",
@@ -202,7 +160,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "《單身3》尹廈情怒控賓客「搶先模擬婚禮」這2人遭肉搜急道歉",
       "summary": [
         "自由時報：《單身3》尹廈情怒控賓客「搶先模擬婚禮」這2人遭肉搜急道歉",
@@ -219,6 +177,48 @@
           "source": "ETtoday",
           "title": "偷走婚禮紅毯被罵翻！　《單身3》李官熙情侶檔道歉：無知且輕率",
           "url": "https://star.ettoday.net/news/3277886"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "屏東潮州傳議員、鎮代「包裹式賄選」 2樁腳收押、1人5萬交保",
+      "summary": [
+        "自由時報：屏東潮州傳議員、鎮代「包裹式賄選」 2樁腳收押、1人5萬交保",
+        "ETtoday：2票1000元！屏東潮州爆賄選　2樁腳遭收押"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "屏東潮州傳議員、鎮代「包裹式賄選」 2樁腳收押、1人5萬交保",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5652133"
+        },
+        {
+          "source": "ETtoday",
+          "title": "2票1000元！屏東潮州爆賄選　2樁腳遭收押",
+          "url": "https://www.ettoday.net/news/20261124/3277895.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "威廉凱特鄉間宅邸遭闖入　英警逮2男",
+      "summary": [
+        "經濟日報：威廉凱特鄉間宅邸遭闖入　英警逮2男",
+        "自由時報：威廉凱特鄉間宅邸遭闖入 英警逮2男"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "威廉凱特鄉間宅邸遭闖入　英警逮2男",
+          "url": "https://money.udn.com/money/story/5599/9899652"
+        },
+        {
+          "source": "自由時報",
+          "title": "威廉凱特鄉間宅邸遭闖入 英警逮2男",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5652239"
         }
       ]
     }
@@ -354,22 +354,22 @@
     },
     {
       "rank": 5,
-      "title": "索羅門群島已告知北京不再續約中所安全協議 將與澳方簽署新條約",
+      "title": "由於人工智慧伺服器需求不斷增長，戴爾再次上調年度銷售預測",
       "summary": [
-        "法廣RFI：索羅門群島已告知北京不再續約中所安全協議 將與澳方簽署新條約",
-        "德國之聲：媒體：索羅門群島計劃與澳籤條約取代與中國的安全協議"
+        "Bloomberg Tech：由於人工智慧伺服器需求不斷增長，戴爾再次上調年度銷售預測",
+        "Investing.com：人工智慧伺服器需求激增，創紀錄季度後戴爾上調年度預測"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "索羅門群島已告知北京不再續約中所安全協議 將與澳方簽署新條約",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261124-%E6%89%80%E7%BE%85%E9%96%80%E7%BE%A4%E5%B3%B6%E5%B7%B2%E5%91%8A%E7%9F%A5%E5%8C%97%E4%BA%AC%E4%B8%8D%E5%86%8D%E7%BA%8C%E7%B4%84%E4%B8%AD%E6%89%80%E5%AE%89%E5%85%A8%E5%8D%94%E8%AD%B0-%E5%B0%87%E8%88%87%E6%BE%B3%E6%96%B9%E7%B0%BD%E7%BD%B2%E6%96%B0%E6%A2%9D%E7%B4%84"
+          "source": "Bloomberg Tech",
+          "title": "由於人工智慧伺服器需求不斷增長，戴爾再次上調年度銷售預測",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/dell-ups-annual-sales-forecast-again-on-rising-ai-server-demand"
         },
         {
-          "source": "德國之聲",
-          "title": "媒體：索羅門群島計劃與澳籤條約取代與中國的安全協議",
-          "url": "https://www.dw.com/zh/媒体：所罗门群岛计划与澳签条约取代与中国的安全协议/a-80033220?maca=chi-rss-chi-all-1127-rdf"
+          "source": "Investing.com",
+          "title": "人工智慧伺服器需求激增，創紀錄季度後戴爾上調年度預測",
+          "url": "https://www.investing.com/news/stock-market-news/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand-5049024"
         }
       ]
     },
@@ -459,16 +459,22 @@
     },
     {
       "rank": 10,
-      "title": "為什麼 Symbotic 股票今天會下跌？",
+      "title": "中國華為因伊朗業務在美國刑事審判中被判有罪",
       "summary": [
-        "Investing.com：為什麼 Symbotic 股票今天會下跌？"
+        "Nikkei Asia：中國華為因伊朗業務在美國刑事審判中被判有罪",
+        "法廣RFI：華為因與伊朗有關的刑事犯罪而被美國一家法院定罪"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "為什麼 Symbotic 股票今天會下跌？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-symbotic-stock-sliding-today-93CH-5047410"
+          "source": "Nikkei Asia",
+          "title": "中國華為因伊朗業務在美國刑事審判中被判有罪",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkJsdlJRTVBUeHlhYloyWTJRc0dnWDNNVVJUVjIzZzBqbGZLTmpGRVdlMVRNWlpUWGxUajhzVXRwV0dDak5vSGFjRC1zNUx1d2w5RGtaOGtGQ00yRlg3bk9QNEhHYUl4MEszMUthQWQ1VENkMF9oNVB6eng2MGhaZDI4ZkpXUWpkWE5LOHg5RHpYX0lSV2J6UUI0SUZ3SlJmcUU5c3l1NF9uc28?oc=5"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "華為因與伊朗有關的刑事犯罪而被美國一家法院定罪",
+          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261124-%E8%8F%AF%E7%82%BA%E5%9B%A0%E8%88%87%E4%BC%8A%E6%9C%97%E6%9C%89%E9%97%9C%E7%9A%84%E5%88%91%E4%BA%8B%E7%8A%AF%E7%BD%AA%E8%80%8C%E8%A2%AB%E5%AE%9A%E7%BD%AA"
         }
       ]
     }
