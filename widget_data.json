@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 04:58",
+  "updated_at": "2026-11-25 05:27",
   "taiwan": [
     {
       "rank": 1,
@@ -35,27 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "黃仁勳回歸帶動韓股反彈，業者：AI 投資信心回升",
-      "summary": [
-        "科技新報：黃仁勳回歸帶動韓股反彈，業者：AI 投資信心回升",
-        "經濟日報：黃仁勳回歸帶動韓股反彈　業者：AI投資信心回升"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "黃仁勳回歸帶動韓股反彈，業者：AI 投資信心回升",
-          "url": "https://finance.technews.tw/2026/11/24/jensen-huang-return-boosts-korean-stocks-ai-investment-confidence-recovery/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳回歸帶動韓股反彈　業者：AI投資信心回升",
-          "url": "https://money.udn.com/money/story/5599/9899121"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "馬來西亞防規避出口管制，籲資料中心勿服務美國列名企業",
       "summary": [
         "科技新報：馬來西亞防規避出口管制，籲資料中心勿服務美國列名企業",
@@ -76,7 +55,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "車麗屋購物網站遭自動化攻擊，部分會員個資疑似外洩",
       "summary": [
         "iThome：車麗屋購物網站遭自動化攻擊，部分會員個資疑似外洩",
@@ -97,7 +76,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "高市早苗深圳下機40公分落差 官房長官：日方自行發現異常",
       "summary": [
         "經濟日報：高市早苗深圳下機40公分落差 官房長官：日方自行發現異常",
@@ -118,7 +97,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "「北一女神」蔡瑞雪結婚了！甜蜜合照放閃醫生老公身分曝光- 娛樂",
       "summary": [
         "中時新聞：「北一女神」蔡瑞雪結婚了！甜蜜合照放閃醫生老公身分曝光- 娛樂",
@@ -139,7 +118,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "川普受訪讚魏哲家是傑出人才，稱臺積電將在德州建廠",
       "summary": [
         "科技新報：川普受訪讚魏哲家是傑出人才，稱臺積電將在德州建廠",
@@ -160,7 +139,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "76歲阿嬤樁腳涉為議員買票  嘉檢聲押禁見",
       "summary": [
         "自由時報：76歲阿嬤樁腳涉為議員買票  嘉檢聲押禁見",
@@ -181,7 +160,49 @@
       ]
     },
     {
+      "rank": 8,
+      "title": "元大臺灣50反1爆違約交割 金額3946.9萬元",
+      "summary": [
+        "自由時報：元大臺灣50反1爆違約交割 金額3946.9萬元",
+        "工商時報：連ETF都會翻車！ 元大臺灣50反1首見鉅額違約交割3,946.9萬元- 證券"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "元大臺灣50反1爆違約交割 金額3946.9萬元",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5652050"
+        },
+        {
+          "source": "工商時報",
+          "title": "連ETF都會翻車！ 元大臺灣50反1首見鉅額違約交割3,946.9萬元- 證券",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WeEV0bDFLWXlkT0dpMlJ3Ty1ocksyUEVRMUVBSjR3amxUSVhQMFFWcHFpOVQxNkh6OFhoLUpwNElydm9UVXBlN2I1dVZmaTFNOFhIaGFEaVd6NWkzaEVV?oc=5"
+        }
+      ]
+    },
+    {
       "rank": 9,
+      "title": "韓國召見俄大使館武官　抗議俄軍機逼近鬱陵島領空",
+      "summary": [
+        "經濟日報：韓國召見俄大使館武官　抗議俄軍機逼近鬱陵島領空",
+        "公視新聞：南韓發現俄軍機入侵防空識別區 擬召見武官表達抗議"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "韓國召見俄大使館武官　抗議俄軍機逼近鬱陵島領空",
+          "url": "https://money.udn.com/money/story/5599/9899317"
+        },
+        {
+          "source": "公視新聞",
+          "title": "南韓發現俄軍機入侵防空識別區 擬召見武官表達抗議",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LYWNUcjNtdWJQQWxRWDZkUFNTb0VKeGtHcFZRdGZYMmtTNnJNUjdMbGZrbFpDVm4zT3NRYXc3eEdxU3hKbGZaMW1rdjE5ZUk?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "《單身3》尹廈情怒控賓客「搶先模擬婚禮」這2人遭肉搜急道歉",
       "summary": [
         "自由時報：《單身3》尹廈情怒控賓客「搶先模擬婚禮」這2人遭肉搜急道歉",
@@ -198,27 +219,6 @@
           "source": "ETtoday",
           "title": "偷走婚禮紅毯被罵翻！　《單身3》李官熙情侶檔道歉：無知且輕率",
           "url": "https://star.ettoday.net/news/3277886"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "屏東潮州傳議員、鎮代「包裹式賄選」 2樁腳收押、1人5萬交保",
-      "summary": [
-        "自由時報：屏東潮州傳議員、鎮代「包裹式賄選」 2樁腳收押、1人5萬交保",
-        "ETtoday：2票1000元！屏東潮州爆賄選　2樁腳遭收押"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "屏東潮州傳議員、鎮代「包裹式賄選」 2樁腳收押、1人5萬交保",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5652133"
-        },
-        {
-          "source": "ETtoday",
-          "title": "2票1000元！屏東潮州爆賄選　2樁腳遭收押",
-          "url": "https://www.ettoday.net/news/20261124/3277895.htm"
         }
       ]
     }
@@ -300,6 +300,33 @@
     },
     {
       "rank": 3,
+      "title": "由於投資者評估圍繞黃仁勳重新擔任執行長的風險，英偉達股價下跌",
+      "summary": [
+        "Investing.com：由於投資者評估圍繞黃仁勳重新擔任執行長的風險，英偉達股價下跌",
+        "MarketWatch：由於黃仁勳回歸面臨這些重大問題，英偉達股價下跌",
+        "法廣RFI：英偉達股價出現下跌"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "由於投資者評估圍繞黃仁勳重新擔任執行長的風險，英偉達股價下跌",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "由於黃仁勳回歸面臨這些重大問題，英偉達股價下跌",
+          "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "英偉達股價出現下跌",
+          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261124-%E8%8B%B1%E5%81%89%E9%81%94%E8%82%A1%E5%83%B9%E5%87%BA%E7%8F%BE%E4%B8%8B%E8%B7%8C"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Uber 和 Nuro 將在灣區開始 Lucid Robotaxis 的無人駕駛測試",
       "summary": [
         "Bloomberg Tech：Uber 和 Nuro 將在灣區開始 Lucid Robotaxis 的無人駕駛測試",
@@ -326,27 +353,6 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "中國延長暫停美國礦產禁令以維持休戰",
-      "summary": [
-        "Bloomberg Markets：中國延長暫停美國礦產禁令以維持休戰",
-        "Financial Times：中國延長暫停對美國關鍵礦產出口的控制"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "中國延長暫停美國礦產禁令以維持休戰",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us"
-        },
-        {
-          "source": "Financial Times",
-          "title": "中國延長暫停對美國關鍵礦產出口的控制",
-          "url": "https://www.ft.com/content/9104866d-f69e-497d-aeb9-f7e0db59f143?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
       "rank": 5,
       "title": "索羅門群島已告知北京不再續約中所安全協議 將與澳方簽署新條約",
       "summary": [
@@ -369,27 +375,6 @@
     },
     {
       "rank": 6,
-      "title": "由於投資者評估圍繞黃仁勳重新擔任執行長的風險，英偉達股價下跌",
-      "summary": [
-        "Investing.com：由於投資者評估圍繞黃仁勳重新擔任執行長的風險，英偉達股價下跌",
-        "MarketWatch：由於黃仁勳回歸面臨這些重大問題，英偉達股價下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "由於投資者評估圍繞黃仁勳重新擔任執行長的風險，英偉達股價下跌",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757"
-        },
-        {
-          "source": "MarketWatch",
-          "title": "由於黃仁勳回歸面臨這些重大問題，英偉達股價下跌",
-          "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "為什麼美光科技股價今天下跌？",
       "summary": [
         "Investing.com：為什麼美光科技股價今天下跌？",
@@ -410,7 +395,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "委內瑞拉在重組前公佈了 2,370 億美元的債務負擔",
       "summary": [
         "Bloomberg Markets：委內瑞拉在重組前公佈了 2,370 億美元的債務負擔",
@@ -431,7 +416,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Tidal 將於下個月開始禁止人工智慧產生的音樂",
       "summary": [
         "The Verge：Tidal 將於下個月開始禁止人工智慧產生的音樂",
@@ -452,17 +437,38 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "為什麼惠普企業股票今天會暴跌？",
+      "rank": 9,
+      "title": "美國司法部長迴避解釋英偉達黃仁勳的風險評估",
       "summary": [
-        "Investing.com：為什麼惠普企業股票今天會暴跌？"
+        "NHK新聞：美國司法部長迴避解釋英偉達黃仁勳的風險評估",
+        "法廣RFI：美國司法部長迴避黃仁勳是否遭調查"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "美國司法部長迴避解釋英偉達黃仁勳的風險評估",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261125de80921"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "美國司法部長迴避黃仁勳是否遭調查",
+          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261124-%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8%E9%95%B7%E8%BF%B4%E9%81%BF%E9%BB%83%E4%BB%81%E5%8B%B3%E6%98%AF%E5%90%A6%E9%81%AD%E8%AA%BF%E6%9F%A5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "為什麼 Symbotic 股票今天會下跌？",
+      "summary": [
+        "Investing.com：為什麼 Symbotic 股票今天會下跌？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Investing.com",
-          "title": "為什麼惠普企業股票今天會暴跌？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-hewlett-packard-enterprise-stock-tumbling-today-93CH-5047400"
+          "title": "為什麼 Symbotic 股票今天會下跌？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-symbotic-stock-sliding-today-93CH-5047410"
         }
       ]
     }
