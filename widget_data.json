@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 08:59",
+  "updated_at": "2026-11-24 09:27",
   "taiwan": [
     {
       "rank": 1,
@@ -200,27 +200,6 @@
     },
     {
       "rank": 8,
-      "title": "訊芯-KY後續光通訊新品將集中於訊芸(北江)生產，擬辦理訊芸河內解散清算",
-      "summary": [
-        "公開資訊觀測站重訊：訊芯-KY後續光通訊新品將集中於訊芸(北江)生產，擬辦理訊芸河內解散清算",
-        "MoneyDJ理財網：訊芯-KY後續光通訊新品將集中於訊芸(北江)生產，擬辦理訊芸河內解散清算- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "訊芯-KY後續光通訊新品將集中於訊芸(北江)生產，擬辦理訊芸河內解散清算",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMnNlVlp6NFRzSGRjN25YWnpXak03X0JTbVdnUW9lWUJObnRVYVF1WmhnVDdsUWpIRi1HV3E4SG9HcUk0RVpPak95cGhQdG9ubG41aVJpVXp2N1JaTUFJd3JveG8zcGZhOU0wS1VtLTVwWnZlSE9uZFRybjJJNTREOXMycURZSmxzNGVXS0U4UkFSZw?oc=5"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "訊芯-KY後續光通訊新品將集中於訊芸(北江)生產，擬辦理訊芸河內解散清算- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNk0wQVNaTVU1N0Q2bkRmY25GSWtBYjNCVkpVR1BVbXhRcWk3X3ZzVl9DcU92TWxhVnFqU0ljVkNlblNEOHBMQ1F5X20tZThNekJ1VW1XdFF0NzNSeVJJOGpxWl9ZcjR2SnJJbjFTY0dabmFhTzBZTlFYRGFXRDJyci1KN0xPWEVIYjNoeWdPQnFNQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "快訊》董事會宣佈立即恢復黃仁勳職位，輝達股價暴漲逾 25%",
       "summary": [
         "科技新報：快訊》董事會宣佈立即恢復黃仁勳職位，輝達股價暴漲逾 25%",
@@ -241,7 +220,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "川普恭喜黃仁勳復職！強調美國沒證據顯示黃仁勳有違法行為",
       "summary": [
         "經濟日報：川普恭喜黃仁勳復職！強調美國沒證據顯示黃仁勳有違法行為",
@@ -258,6 +237,27 @@
           "source": "財訊",
           "title": "黃仁勳重返輝達擔任執行長 川普：美國政府沒有證據顯示他曾從事任何違法行為",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vS0JWS2YwbnVpazN1SFdISmNUbGxyYjhsczV5bWVFNTNCeWhfX2N0d21pb2RFTFZhb2RGSmVuMnlNOWE4a0xQTWkwcmxZQVViS3lFeklJdHZEdFhjSDVtbzB3ajJNS0NKSVlFc0pmeWYzcFYzczFyRGVvbw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳夫婦握逾8.7億股輝達　華爾街日報揭節稅佈局",
+      "summary": [
+        "經濟日報：黃仁勳夫婦握逾8.7億股輝達　華爾街日報揭節稅佈局",
+        "科技新報：黃仁勳夫婦握逾 8.7 億股輝達，華爾街日報揭節稅佈局"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳夫婦握逾8.7億股輝達　華爾街日報揭節稅佈局",
+          "url": "https://money.udn.com/money/story/123398/9897251"
+        },
+        {
+          "source": "科技新報",
+          "title": "黃仁勳夫婦握逾 8.7 億股輝達，華爾街日報揭節稅佈局",
+          "url": "https://finance.technews.tw/2026/11/24/jensen-and-lori-huang-have-amassed-a-vast-fortune/"
         }
       ]
     }
@@ -408,28 +408,28 @@
     },
     {
       "rank": 5,
-      "title": "CrowdStrike 以 440 億美元收購 Zscaler，人工智慧助推網路攻擊",
+      "title": "據稱亞馬遜將斥資 75 億美元收購人工智慧新創公司 Decart 的技術",
       "summary": [
-        "CNBC：CrowdStrike 以 440 億美元收購 Zscaler，人工智慧助推網路攻擊",
-        "TechCrunch：CrowdStrike 將以 440 億美元收購 Zscaler",
-        "Investing.com：CrowdStrike 的獲利因 $43.9B Zscaler 收購而黯然失色"
+        "Bloomberg Tech：據稱亞馬遜將斥資 75 億美元收購人工智慧新創公司 Decart 的技術",
+        "TechCrunch：亞馬遜以 7.5B 美元收購 Decart 的人工智慧最佳化技術，準備銷售 Trainium 晶片",
+        "CNBC：亞馬遜將收購人工智慧新創公司Decart的晶片軟體並聘請創辦人"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "CNBC",
-          "title": "CrowdStrike 以 440 億美元收購 Zscaler，人工智慧助推網路攻擊",
-          "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
+          "source": "Bloomberg Tech",
+          "title": "據稱亞馬遜將斥資 75 億美元收購人工智慧新創公司 Decart 的技術",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech"
         },
         {
           "source": "TechCrunch",
-          "title": "CrowdStrike 將以 440 億美元收購 Zscaler",
-          "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"
+          "title": "亞馬遜以 7.5B 美元收購 Decart 的人工智慧最佳化技術，準備銷售 Trainium 晶片",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
         },
         {
-          "source": "Investing.com",
-          "title": "CrowdStrike 的獲利因 $43.9B Zscaler 收購而黯然失色",
-          "url": "https://www.investing.com/news/stock-market-news/crowdstrike-earnings-beat-overshadowed-by-439b-zscaler-acquisition-93CH-5046206"
+          "source": "CNBC",
+          "title": "亞馬遜將收購人工智慧新創公司Decart的晶片軟體並聘請創辦人",
+          "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html"
         }
       ]
     },
@@ -462,69 +462,27 @@
     },
     {
       "rank": 7,
-      "title": "黃仁勳回歸英偉達推動人工智慧押注，股市飆升",
+      "title": "CrowdStrike以440億美元收購Zscaler，人工智慧助推網路攻擊",
       "summary": [
-        "Bloomberg Tech：黃仁勳回歸英偉達推動人工智慧押注，股市飆升",
-        "Bloomberg Markets：隨著黃仁勳的回歸重振人工智慧，亞洲股市上漲：市場總結"
+        "CNBC：CrowdStrike以440億美元收購Zscaler，人工智慧助推網路攻擊",
+        "TechCrunch：CrowdStrike 將 440 億美元收購 Zscaler"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "黃仁勳回歸英偉達推動人工智慧押注，股市飆升",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/stocks-soar-as-huang-s-nvidia-return-fuels-ai-bets-video"
+          "source": "CNBC",
+          "title": "CrowdStrike以440億美元收購Zscaler，人工智慧助推網路攻擊",
+          "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
         },
         {
-          "source": "Bloomberg Markets",
-          "title": "隨著黃仁勳的回歸重振人工智慧，亞洲股市上漲：市場總結",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates"
+          "source": "TechCrunch",
+          "title": "CrowdStrike 將 440 億美元收購 Zscaler",
+          "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "烏克蘭聲稱俄羅斯船隻在利比亞海岸遭到攻擊",
-      "summary": [
-        "Bloomberg Markets：烏克蘭聲稱俄羅斯船隻在利比亞海岸遭到攻擊",
-        "BBC World：俄羅斯船隻在利比亞遭到攻擊說明烏克蘭戰爭蔓延"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "烏克蘭聲稱俄羅斯船隻在利比亞海岸遭到攻擊",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/ukraine-claims-attack-on-russian-ship-off-libyan-coast-video"
-        },
-        {
-          "source": "BBC World",
-          "title": "俄羅斯船隻在利比亞遭到攻擊說明烏克蘭戰爭蔓延",
-          "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "據稱亞馬遜將斥資 75 億美元收購人工智慧新創公司 Decart 的技術",
-      "summary": [
-        "Bloomberg Tech：據稱亞馬遜將斥資 75 億美元收購人工智慧新創公司 Decart 的技術",
-        "TechCrunch：亞馬遜以 7.5B 美元收購 Decart 的人工智慧最佳化技術，準備銷售 Trainium 晶片"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "據稱亞馬遜將斥資 75 億美元收購人工智慧新創公司 Decart 的技術",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "亞馬遜以 7.5B 美元收購 Decart 的人工智慧最佳化技術，準備銷售 Trainium 晶片",
-          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Z.ai推出採用環形變壓器設計的GLM-5.4模型",
       "summary": [
         "Investing.com：Z.ai推出採用環形變壓器設計的GLM-5.4模型",
@@ -541,6 +499,48 @@
           "source": "Wccftech",
           "title": "Z.ai 首次推出 GLM-5.4，採用新穎的環形變壓器架構，完全跳過 AI 基準測試",
           "url": "https://wccftech.com/z-ai-debuts-glm-5-4-with-a-novel-looped-transformer-architecture-skipping-ai-benchmarks-entirely/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "英偉達 (Nvidia) 在政府投入下恢復黃仁勳 (Jensen Huang) 執行長職務",
+      "summary": [
+        "Bloomberg Tech：英偉達 (Nvidia) 在政府投入下恢復黃仁勳 (Jensen Huang) 執行長職務",
+        "Tom's Hardware：經公司董事會一致投票，Nvidia 恢復黃仁勳 (Jensen Huang) 執行長職務"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "英偉達 (Nvidia) 在政府投入下恢復黃仁勳 (Jensen Huang) 執行長職務",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-reinstates-jensen-huang-as-ceo-with-government-input"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "經公司董事會一致投票，Nvidia 恢復黃仁勳 (Jensen Huang) 執行長職務",
+          "url": "https://www.tomshardware.com/tech-industry/nvidia-reinstates-jensen-huang-as-ceo-following-unanimous-vote-by-company-board-11-day-exit-from-company-saw-stock-prices-fall-by-24-percent-after-affair-scandal"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "董事會宣佈黃仁勳復職，NVIDIA 股價飆漲 30%",
+      "summary": [
+        "Investing.com：董事會宣佈黃仁勳復職，NVIDIA 股價飆漲 30%",
+        "Financial Times：黃仁勳復職後，英偉達股價飆漲 30%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "董事會宣佈黃仁勳復職，NVIDIA 股價飆漲 30%",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-shares-surge-30-as-board-announces-jensen-huangs-reinstatement-5045795"
+        },
+        {
+          "source": "Financial Times",
+          "title": "黃仁勳復職後，英偉達股價飆漲 30%",
+          "url": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1"
         }
       ]
     }
