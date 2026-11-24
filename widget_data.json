@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 09:27",
+  "updated_at": "2026-11-24 09:57",
   "taiwan": [
     {
       "rank": 1,
@@ -200,6 +200,27 @@
     },
     {
       "rank": 8,
+      "title": "黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
+      "summary": [
+        "經濟日報：黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
+        "科技新報：黃仁勳回鍋，分析：未消除 AI 生態系統或輝達嚴峻挑戰"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
+          "url": "https://money.udn.com/money/story/5599/9897667"
+        },
+        {
+          "source": "科技新報",
+          "title": "黃仁勳回鍋，分析：未消除 AI 生態系統或輝達嚴峻挑戰",
+          "url": "https://technews.tw/2026/11/24/jensen-huang-return-analysis-ai-ecosystem-nvidia-challenges-unresolved/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "快訊》董事會宣佈立即恢復黃仁勳職位，輝達股價暴漲逾 25%",
       "summary": [
         "科技新報：快訊》董事會宣佈立即恢復黃仁勳職位，輝達股價暴漲逾 25%",
@@ -220,7 +241,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "川普恭喜黃仁勳復職！強調美國沒證據顯示黃仁勳有違法行為",
       "summary": [
         "經濟日報：川普恭喜黃仁勳復職！強調美國沒證據顯示黃仁勳有違法行為",
@@ -237,27 +258,6 @@
           "source": "財訊",
           "title": "黃仁勳重返輝達擔任執行長 川普：美國政府沒有證據顯示他曾從事任何違法行為",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vS0JWS2YwbnVpazN1SFdISmNUbGxyYjhsczV5bWVFNTNCeWhfX2N0d21pb2RFTFZhb2RGSmVuMnlNOWE4a0xQTWkwcmxZQVViS3lFeklJdHZEdFhjSDVtbzB3ajJNS0NKSVlFc0pmeWYzcFYzczFyRGVvbw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "黃仁勳夫婦握逾8.7億股輝達　華爾街日報揭節稅佈局",
-      "summary": [
-        "經濟日報：黃仁勳夫婦握逾8.7億股輝達　華爾街日報揭節稅佈局",
-        "科技新報：黃仁勳夫婦握逾 8.7 億股輝達，華爾街日報揭節稅佈局"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳夫婦握逾8.7億股輝達　華爾街日報揭節稅佈局",
-          "url": "https://money.udn.com/money/story/123398/9897251"
-        },
-        {
-          "source": "科技新報",
-          "title": "黃仁勳夫婦握逾 8.7 億股輝達，華爾街日報揭節稅佈局",
-          "url": "https://finance.technews.tw/2026/11/24/jensen-and-lori-huang-have-amassed-a-vast-fortune/"
         }
       ]
     }
@@ -408,33 +408,6 @@
     },
     {
       "rank": 5,
-      "title": "據稱亞馬遜將斥資 75 億美元收購人工智慧新創公司 Decart 的技術",
-      "summary": [
-        "Bloomberg Tech：據稱亞馬遜將斥資 75 億美元收購人工智慧新創公司 Decart 的技術",
-        "TechCrunch：亞馬遜以 7.5B 美元收購 Decart 的人工智慧最佳化技術，準備銷售 Trainium 晶片",
-        "CNBC：亞馬遜將收購人工智慧新創公司Decart的晶片軟體並聘請創辦人"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "據稱亞馬遜將斥資 75 億美元收購人工智慧新創公司 Decart 的技術",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "亞馬遜以 7.5B 美元收購 Decart 的人工智慧最佳化技術，準備銷售 Trainium 晶片",
-          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
-        },
-        {
-          "source": "CNBC",
-          "title": "亞馬遜將收購人工智慧新創公司Decart的晶片軟體並聘請創辦人",
-          "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "英偉達恢復黃仁勳執行長，股價飆升",
       "summary": [
         "Yahoo Finance：英偉達恢復黃仁勳執行長，股價飆升",
@@ -461,7 +434,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "CrowdStrike以440億美元收購Zscaler，人工智慧助推網路攻擊",
       "summary": [
         "CNBC：CrowdStrike以440億美元收購Zscaler，人工智慧助推網路攻擊",
@@ -482,28 +455,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Z.ai推出採用環形變壓器設計的GLM-5.4模型",
-      "summary": [
-        "Investing.com：Z.ai推出採用環形變壓器設計的GLM-5.4模型",
-        "Wccftech：Z.ai 首次推出 GLM-5.4，採用新穎的環形變壓器架構，完全跳過 AI 基準測試"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Z.ai推出採用環形變壓器設計的GLM-5.4模型",
-          "url": "https://www.investing.com/news/stock-market-news/zai-unveils-glm54-model-with-loop-transformer-design-93CH-5045609"
-        },
-        {
-          "source": "Wccftech",
-          "title": "Z.ai 首次推出 GLM-5.4，採用新穎的環形變壓器架構，完全跳過 AI 基準測試",
-          "url": "https://wccftech.com/z-ai-debuts-glm-5-4-with-a-novel-looped-transformer-architecture-skipping-ai-benchmarks-entirely/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "title": "英偉達 (Nvidia) 在政府投入下恢復黃仁勳 (Jensen Huang) 執行長職務",
       "summary": [
         "Bloomberg Tech：英偉達 (Nvidia) 在政府投入下恢復黃仁勳 (Jensen Huang) 執行長職務",
@@ -524,7 +476,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "董事會宣佈黃仁勳復職，NVIDIA 股價飆漲 30%",
       "summary": [
         "Investing.com：董事會宣佈黃仁勳復職，NVIDIA 股價飆漲 30%",
@@ -541,6 +493,48 @@
           "source": "Financial Times",
           "title": "黃仁勳復職後，英偉達股價飆漲 30%",
           "url": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "英偉達改變方針，讓黃仁勳重新擔任執行長",
+      "summary": [
+        "TechCrunch：英偉達改變方針，讓黃仁勳重新擔任執行長",
+        "Investing.com：政治和企業領導人對黃仁勳重返英偉達執行長做出反應"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "英偉達改變方針，讓黃仁勳重新擔任執行長",
+          "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+        },
+        {
+          "source": "Investing.com",
+          "title": "政治和企業領導人對黃仁勳重返英偉達執行長做出反應",
+          "url": "https://www.investing.com/news/stock-market-news/political-and-corporate-leaders-react-to-huangs-return-as-nvidia-ceo-5045985"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普告訴 CNBC，他直接與 Nvidia 董事會討論了黃仁勳的事",
+      "summary": [
+        "CNBC：川普告訴 CNBC，他直接與 Nvidia 董事會討論了黃仁勳的事",
+        "Yahoo Finance：川普總統剛剛向 Nvidia 董事會傳送了有關黃仁勳的資訊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "川普告訴 CNBC，他直接與 Nvidia 董事會討論了黃仁勳的事",
+          "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "川普總統剛剛向 Nvidia 董事會傳送了有關黃仁勳的資訊",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUdHYU1PdFpTYzBfZjlURkFNSFBKeWZnUUhhdHBxTkZPZVVIVkZzZ1RtSjdjVm4yOHhPNktUdHRjZGJKMGMzQWd2YmFacEhiRFBxNzFYZHdkZ0liMHl1SnRoN25vb0JESU1BZ0ExOWRZT1JIRFRYYWtJc2FneVQ1Unk4ZWhjRHp1a1F6b0FLMHVtNHlJWlZIek93?oc=5"
         }
       ]
     }
