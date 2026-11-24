@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 14:56",
+  "updated_at": "2026-11-24 15:26",
   "taiwan": [
     {
       "rank": 1,
@@ -40,43 +40,6 @@
     },
     {
       "rank": 2,
-      "title": "川普親自與輝達董事會溝通　促成黃仁勳回鍋",
-      "summary": [
-        "自由時報：川普親自與輝達董事會溝通　促成黃仁勳回鍋",
-        "經濟日報：川普親自與輝達董事會溝通　促成黃仁勳回鍋",
-        "工商時報：黃仁勳回歸！川普證實親自介入輝達董事會並為國安威脅掛保證- 國際"
-      ],
-      "media_count": 5,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "川普親自與輝達董事會溝通　促成黃仁勳回鍋",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5651126"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普親自與輝達董事會溝通　促成黃仁勳回鍋",
-          "url": "https://money.udn.com/money/story/5599/9897565"
-        },
-        {
-          "source": "工商時報",
-          "title": "黃仁勳回歸！川普證實親自介入輝達董事會並為國安威脅掛保證- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HNFNoTUNnM0VCUDlRWmk5MzZ3VS1nYWRFU1ZsaVFiUXpBeXJ4OWV0bVVWLXpPUE5CTGdXeFp5WFdZMXh5MWstRlR4TFotZHZPMmdhak5qMU1Xd05vUjk4?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普是「黃仁勳回歸」幕後推手：我說服了輝達董事會",
-          "url": "https://www.ettoday.net/news/20261124/3277335.htm"
-        },
-        {
-          "source": "商業周刊",
-          "title": "川普：是我說服了董事會！黃仁勳閃電回鍋輝達，揭白宮介入決策內幕",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VSzZFYVotVUFYY292eFBIcGE1SnZWT3d5eWpmTHVMMlFwQnVuQVJqUmE2a0RycndaZHZiZVRaeG4tZkRnR3dzeW1NNGVuREJGckVIcWxvZFJ2c0dtZFROc21R?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "川普稱若不讓黃仁勳重返輝達 中國可能會延攬他",
       "summary": [
         "經濟日報：川普稱若不讓黃仁勳重返輝達 中國可能會延攬他",
@@ -104,6 +67,38 @@
           "source": "科技新報",
           "title": "川普稱若不讓黃仁勳重返輝達，中國可能會延攬他",
           "url": "https://technews.tw/2026/11/24/trump-warns-china-poach-jensen-huang-barred-returning-nvidia/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "川普親自與輝達董事會溝通　促成黃仁勳回鍋",
+      "summary": [
+        "經濟日報：川普親自與輝達董事會溝通　促成黃仁勳回鍋",
+        "工商時報：黃仁勳回歸！川普證實親自介入輝達董事會並為國安威脅掛保證- 國際",
+        "ETtoday：川普是「黃仁勳回歸」幕後推手：我說服了輝達董事會"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普親自與輝達董事會溝通　促成黃仁勳回鍋",
+          "url": "https://money.udn.com/money/story/5599/9897565"
+        },
+        {
+          "source": "工商時報",
+          "title": "黃仁勳回歸！川普證實親自介入輝達董事會並為國安威脅掛保證- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HNFNoTUNnM0VCUDlRWmk5MzZ3VS1nYWRFU1ZsaVFiUXpBeXJ4OWV0bVVWLXpPUE5CTGdXeFp5WFdZMXh5MWstRlR4TFotZHZPMmdhak5qMU1Xd05vUjk4?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "川普是「黃仁勳回歸」幕後推手：我說服了輝達董事會",
+          "url": "https://www.ettoday.net/news/20261124/3277335.htm"
+        },
+        {
+          "source": "商業周刊",
+          "title": "川普：是我說服了董事會！黃仁勳閃電回鍋輝達，揭白宮介入決策內幕",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VSzZFYVotVUFYY292eFBIcGE1SnZWT3d5eWpmTHVMMlFwQnVuQVJqUmE2a0RycndaZHZiZVRaeG4tZkRnR3dzeW1NNGVuREJGckVIcWxvZFJ2c0dtZFROc21R?oc=5"
         }
       ]
     },
@@ -140,7 +135,7 @@
       "summary": [
         "經濟日報：紐時：川普派範斯私下協調　促成黃仁勳重返輝達",
         "ETtoday：前所未見！「川普直接介入」黃仁勳回歸　恐創政治幹預先例",
-        "轉角國際：黃仁勳重返輝達CEO：川普表明直接介入人事，但輝達國安疑慮仍未解惑"
+        "中時新聞：黃仁勳回鍋照見川普對陸底線貝森特一週就改口原因曝- 國際"
       ],
       "media_count": 3,
       "links": [
@@ -155,9 +150,9 @@
           "url": "https://www.ettoday.net/news/20261124/3277535.htm"
         },
         {
-          "source": "轉角國際",
-          "title": "黃仁勳重返輝達CEO：川普表明直接介入人事，但輝達國安疑慮仍未解惑",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuUG82YzhzQXlsUHJwSFZzaFB0QlFERVBWRk9qWTZETkpfUUh0bGJoY0lmVm5TMWlpbFJvb1pidFVjb05pTzRQLWhoRGtYRXAyVjZzT0JubXhPLUplOWhvc0tTN3NKV1V2aXQw0gFrQVVfeXFMUG5QbzZjOHNBeWxQcnBIVnNoUHRCUURFUFZGT2pZNkROSl9RSHRsYmhjSWZWblMxaWlsUm9vWmJ0VWNvTmlPNFAtaGhEa1hFcDJWNnNPQm5teE8tSmU5aG9zS1M3c0pXVXZpdDA?oc=5"
+          "source": "中時新聞",
+          "title": "黃仁勳回鍋照見川普對陸底線貝森特一週就改口原因曝- 國際",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KbDFMdlFRVFF3bTFCQ0pJWV8tSW1IZ3lHaFZqVW9qSm85Ul9PdmdKTFM5Wk5RM2prS3NaQl83VFJRVS1PVXFVRjBkS0FJanQzcGEtTURaSVFZVmlFMl9wY0UxZEhMVXp5aWVNYTBR?oc=5"
         }
       ]
     },
@@ -329,33 +324,6 @@
     },
     {
       "rank": 3,
-      "title": "川普推動黃仁勳復職顯示英偉達執行長太大而不能倒",
-      "summary": [
-        "MarketWatch：川普推動黃仁勳復職顯示英偉達執行長太大而不能倒",
-        "Yahoo Finance：在川普和投資者的壓力下，英偉達恢復黃仁勳擔任執行長",
-        "WSJ Markets：川普促成黃仁勳復任英偉達執行長"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "MarketWatch",
-          "title": "川普推動黃仁勳復職顯示英偉達執行長太大而不能倒",
-          "url": "https://www.marketwatch.com/story/trumps-push-to-reinstate-jensen-huang-signals-nvidias-ceo-is-too-big-to-fail-10709210?mod=mw_rss_topstories"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "在川普和投資者的壓力下，英偉達恢復黃仁勳擔任執行長",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3VVSndPZUtqSWJCQklZbldOMWcxbVJmZUhaczVOTllfTHg5ZmVGQkNpSFBTSS0zX0xnSk1DMVA0OTFxVFFZWmxHRXVNclZSNXdsbnA4cFVKSl9zTjRVZi00a2xsVWE4bG9nVUdCSUZSVkoxdkswVU9uWWw4TjNUU0p6d0RLTVU?oc=5"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "川普促成黃仁勳復任英偉達執行長",
-          "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "隨著黃仁勳的回歸重振人工智慧，亞洲股市上漲：市場總結",
       "summary": [
         "Bloomberg Markets：隨著黃仁勳的回歸重振人工智慧，亞洲股市上漲：市場總結",
@@ -376,28 +344,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "黃仁勳重新擔任 Nvidia 執行長",
-      "summary": [
-        "Bloomberg Tech：黃仁勳重新擔任 Nvidia 執行長",
-        "BBC World：Nvidia 對黃仁勳重新擔任執行長有何反應"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "黃仁勳重新擔任 Nvidia 執行長",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/bloomberg-tech-11-23-2026-video"
-        },
-        {
-          "source": "BBC World",
-          "title": "Nvidia 對黃仁勳重新擔任執行長有何反應",
-          "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
       "summary": [
         "Financial Times：SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
@@ -418,28 +365,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "黃仁勳重新出任英偉達執行長，市場飆升",
-      "summary": [
-        "Washington Post：黃仁勳重新出任英偉達執行長，市場飆升",
-        "Investing.com：分析師評論黃仁勳重新擔任英偉達執行長的市場影響"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "黃仁勳重新出任英偉達執行長，市場飆升",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE1eld6Ynlnd3ExWkk3QndCd0RUM0E0M3I2eTFHREVyUG5ESEJoUmdJZFhYNG4xRi1VTGlHX0gwOXFMVm9zZl82MlRnZ1QzbU42Z3Fka2VIX0JTakE2b0FSOHBzU2xLaHpwVWMtS0Z5YjhtRnR5MHJLczJrdkh0aGpQT2hXanVWSWZuRkx4RGRwOUE?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "分析師評論黃仁勳重新擔任英偉達執行長的市場影響",
-          "url": "https://www.investing.com/news/stock-market-news/analysts-comment-on-market-impact-of-huangs-return-as-nvidia-ceo-5046890"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "title": "英偉達飆升：投資者現在應該如何處理股票和人工智慧交易",
       "summary": [
         "CNBC：英偉達飆升：投資者現在應該如何處理股票和人工智慧交易",
@@ -460,7 +386,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "黃仁勳表示他將成為“更好的執行長”，員工為他的回歸鼓掌",
       "summary": [
         "The Verge：黃仁勳表示他將成為“更好的執行長”，員工為他的回歸鼓掌",
@@ -481,7 +407,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "黃仁勳如何再次擔任英偉達執行長",
       "summary": [
         "The Verge：黃仁勳如何再次擔任英偉達執行長",
@@ -498,6 +424,69 @@
           "source": "Bloomberg Markets",
           "title": "英偉達為何恢復黃仁勳擔任執行長？",
           "url": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "黃仁勳速返英偉達的內幕和初步反響",
+      "summary": [
+        "法廣RFI：黃仁勳速返英偉達的內幕和初步反響",
+        "Bloomberg Tech：黃仁勳回歸，英偉達推動歷史反彈"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "黃仁勳速返英偉達的內幕和初步反響",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E5%88%86%E6%9E%90/20261123-%E9%BB%83%E4%BB%81%E5%8B%B3%E9%80%9F%E8%BF%94%E8%8B%B1%E5%81%89%E9%81%94%E7%9A%84%E5%85%A7%E5%B9%95%E5%92%8C%E5%88%9D%E6%AD%A5%E5%8F%8D%E9%9F%BF"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "黃仁勳回歸，英偉達推動歷史反彈",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-23/the-close-11-23-2026-video"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "大事件：黃仁勳回來了",
+      "summary": [
+        "Bloomberg Tech：大事件：黃仁勳回來了",
+        "The Verge：英偉達執行長黃仁勳回來了。接下來會發生什麼事？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "大事件：黃仁勳回來了",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-23/big-take-jensen-huang-is-back-video"
+        },
+        {
+          "source": "The Verge",
+          "title": "英偉達執行長黃仁勳回來了。接下來會發生什麼事？",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "彼得森：貝森特對黃仁勳的態度大轉變揭示了川普和中國的情況",
+      "summary": [
+        "CNBC：彼得森：貝森特對黃仁勳的態度大轉變揭示了川普和中國的情況",
+        "Washington Post：意見 |川普尷尬的中國之行告訴世界什麼"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "彼得森：貝森特對黃仁勳的態度大轉變揭示了川普和中國的情況",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html"
+        },
+        {
+          "source": "Washington Post",
+          "title": "意見 |川普尷尬的中國之行告訴世界什麼",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUNCcF9DcnlBN1FpdDJCUy13SGNFWmxwcTJsemdSY01GaF9XWWJicGlMcjU0Z3VWZ3k3UTNlMjV2bURidzhFODE2dGZWRmJtYW1kLXVib2ljRDVSOFFYbFhsQTF1Ul9pclhsNGUyaWl0c1VQWncwYUpXVUJBQ0NqNzZvSE9odzc3c0VuVWIyYkF5UGlrLVNkeDVJTm5DaGI3dmhjVGhB?oc=5"
         }
       ]
     }
