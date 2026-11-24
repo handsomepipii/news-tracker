@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 23:28",
+  "updated_at": "2026-11-24 23:56",
   "taiwan": [
     {
       "rank": 1,
@@ -51,90 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "亞馬遜收購新創 Decart 核心 AI 最佳化技術，強化 Trainium 效能並延攬創辦團隊",
-      "summary": [
-        "科技新報：亞馬遜收購新創 Decart 核心 AI 最佳化技術，強化 Trainium 效能並延攬創辦團隊",
-        "iThome：Amazon收購Decart AI運算最佳化技術，延攬核心研發團隊"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "亞馬遜收購新創 Decart 核心 AI 最佳化技術，強化 Trainium 效能並延攬創辦團隊",
-          "url": "https://finance.technews.tw/2026/11/24/amazon-acquires-decart/"
-        },
-        {
-          "source": "iThome",
-          "title": "Amazon收購Decart AI運算最佳化技術，延攬核心研發團隊",
-          "url": "https://www.ithome.com.tw/news/180751"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "川普當波音推銷員  中國有望再添購 250 架新機",
-      "summary": [
-        "科技新報：川普當波音推銷員  中國有望再添購 250 架新機",
-        "MoneyDJ理財網：川普當波音推銷員中國有望再添購250架新機- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "川普當波音推銷員  中國有望再添購 250 架新機",
-          "url": "https://technews.tw/2026/11/24/trump-thinks-china-will-buy-another-250-boeing-airplanes/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "川普當波音推銷員中國有望再添購250架新機- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMm8zZm1xS0hhUko0MFdvejBTM3Rpc1VkM2VJd2szYUpwYU91cmhUdWVVMk5MeC1FUlVMS0YyeVJpQjJzQnViX1BaSDFpY0pKSGs2U2xiNFVNU2FKdUtEejRQbUFiYzNEUnd5YTc5d1JORzVuQ1ZLRkZ4TzRLVE52Z1JUR1BNV2ZsUHF3eWhoRDU2dw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Anthropic推出Claude Ship，由AI Agent審查、修改，再依團隊政策核准PR",
-      "summary": [
-        "INSIDE硬塞：Anthropic推出Claude Ship，由AI Agent審查、修改，再依團隊政策核准PR",
-        "自由時報：Anthropic推出Claude Ship版本AI可接手程式碼審查、修改與核准"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "INSIDE硬塞",
-          "title": "Anthropic推出Claude Ship，由AI Agent審查、修改，再依團隊政策核准PR",
-          "url": "https://www.inside.com.tw/article/42987-anthropic-claude-ship-ai-agent-code-review-approval"
-        },
-        {
-          "source": "自由時報",
-          "title": "Anthropic推出Claude Ship版本AI可接手程式碼審查、修改與核准",
-          "url": "https://news.ltn.com.tw/news/aichannel/breakingnews/5652245"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "黃仁勳回歸輝達　供應鏈：AI迴圈融資受約束監管不鬆手",
-      "summary": [
-        "經濟日報：黃仁勳回歸輝達　供應鏈：AI迴圈融資受約束監管不鬆手",
-        "科技新報：黃仁勳回歸，供應鏈：AI「迴圈融資」更受約束、美監管不鬆手"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳回歸輝達　供應鏈：AI迴圈融資受約束監管不鬆手",
-          "url": "https://money.udn.com/money/story/123398/9898197"
-        },
-        {
-          "source": "科技新報",
-          "title": "黃仁勳回歸，供應鏈：AI「迴圈融資」更受約束、美監管不鬆手",
-          "url": "https://technews.tw/2026/11/24/jensen-huang-returns-supply-chain-ai-circular-financing-tighter-constraints-us-regulation-strict/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "高雄下酒祭12月5日登場  擴大串聯日本9大城市",
       "summary": [
         "自由時報：高雄下酒祭12月5日登場  擴大串聯日本9大城市",
@@ -155,7 +71,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
       "title": "報復瑞士制裁兒童夏令營　北韓威脅關閉外交辦事處",
       "summary": [
         "經濟日報：報復瑞士制裁兒童夏令營　北韓威脅關閉外交辦事處",
@@ -176,7 +92,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "臺積電嘉義廠韓籍工程師未早起搭車 驚見他陳屍飯店房內",
       "summary": [
         "自由時報：臺積電嘉義廠韓籍工程師未早起搭車 驚見他陳屍飯店房內",
@@ -197,7 +113,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "聯發科「邊緣AI到雲端AI」技術量能引領產業 17篇論文入選全球頂尖論壇與期刊",
       "summary": [
         "自由時報：聯發科「邊緣AI到雲端AI」技術量能引領產業 17篇論文入選全球頂尖論壇與期刊",
@@ -216,6 +132,90 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzVXVTczbkpmMDRuWkpsMDk1WVZQd3Y0bWkzTjlvNDFXWHY4emlPR1ZQVlA4RlFFTTJkMTR1eEJLVmpjeEJtbGx6dG1BbHlaSW85dTRXdFZRTnZHZjNMb2RGV01FS3ZwdW9hcXgwNVVseElPMldRRkRVNWlyU2kxT1prQWhrWmMtSUp4cEFGczVFdw?oc=5"
         }
       ]
+    },
+    {
+      "rank": 7,
+      "title": "三星搶攻 AI 商機  西安廠 V9 NAND 產能拚增四倍",
+      "summary": [
+        "科技新報：三星搶攻 AI 商機  西安廠 V9 NAND 產能拚增四倍",
+        "MoneyDJ理財網：三星搶攻AI商機西安廠V9 NAND產能拚增四倍- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "三星搶攻 AI 商機  西安廠 V9 NAND 產能拚增四倍",
+          "url": "https://technews.tw/2026/11/24/samsung-plans-to-expand-v9-nand-production-capacity-at-xi-an-plant/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "三星搶攻AI商機西安廠V9 NAND產能拚增四倍- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONEFaWWdXSmNyUVNQbkVrQ2NlNENHN3dmLVV5MzNxMmlPWko1Q2R0Skw3R0d3RkNyUjhpUnpSMFN3elBFR2x4MzlUdTNTLU12c2VjbkNKMzRSQ1ZGcURSdmNaTG5ocWlGOW13WDVFNDhodFpJN0d1MU1KcFEtR1c0MGJoN1o1UFdHNDdtZGloSnM2Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "北市機車行駛中突起火  騎士嚇壞急借滅火器自救",
+      "summary": [
+        "自由時報：北市機車行駛中突起火  騎士嚇壞急借滅火器自救",
+        "ETtoday：北市機車行駛途中突冒煙起火　騎士下車狂奔借滅火器撲滅"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "北市機車行駛中突起火  騎士嚇壞急借滅火器自救",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5651696"
+        },
+        {
+          "source": "ETtoday",
+          "title": "北市機車行駛途中突冒煙起火　騎士下車狂奔借滅火器撲滅",
+          "url": "https://www.ettoday.net/news/20261124/3277661.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普讚黃仁勳、魏哲家！稱臺灣搶走晶片　曝臺積電赴德州建廠",
+      "summary": [
+        "ETtoday：川普讚黃仁勳、魏哲家！稱臺灣搶走晶片　曝臺積電赴德州建廠",
+        "經濟日報：川普談黃仁勳突點名臺灣！3度提魏哲家讚天才 再批臺灣偷晶片產業"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "川普讚黃仁勳、魏哲家！稱臺灣搶走晶片　曝臺積電赴德州建廠",
+          "url": "https://www.ettoday.net/news/20261124/3277629.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "川普談黃仁勳突點名臺灣！3度提魏哲家讚天才 再批臺灣偷晶片產業",
+          "url": "https://money.udn.com/money/story/5599/9898811"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "民主剛果伊波拉病例破萬、致死率48.9%　臺邊境管制再延90天",
+      "summary": [
+        "ETtoday：民主剛果伊波拉病例破萬、致死率48.9%　臺邊境管制再延90天",
+        "風傳媒：民主剛果爆伊波拉疫情！1.1萬人確診「致死率近5成」 疾管署再延長邊境管制90天 | 黃天如 | 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "民主剛果伊波拉病例破萬、致死率48.9%　臺邊境管制再延90天",
+          "url": "https://health.ettoday.net/news/3277655"
+        },
+        {
+          "source": "風傳媒",
+          "title": "民主剛果爆伊波拉疫情！1.1萬人確診「致死率近5成」 疾管署再延長邊境管制90天 | 黃天如 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXREFpak5VOW1FbDBNR0hUXzdvekVaZXNFcXpPRGRZeGJSamJoRW5pd0Zfd25NZzlQZlZKZEtBbzB3ZDBqbGllNWNQcDF6UQ?oc=5"
+        }
+      ]
     }
   ],
   "global": [
@@ -227,7 +227,7 @@
         "法廣RFI：官宣上海市委書記陳吉寧涉嫌嚴重違紀違法 正接受審查調查",
         "德國之聲：涉嫌嚴重違紀違法 上海市委書記陳吉寧被立案調查"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
           "source": "Bloomberg Markets",
@@ -248,6 +248,11 @@
           "source": "NHK新聞",
           "title": "上海市長涉嫌違紀被立案調查",
           "url": "https://news.web.nhk/newsweb/na/nd-20261124de80879"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "上海市委書記陳吉寧接受調查",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb0F2dFB6dVVxLWF4Z293bl9kRjNacXRPRHJ4WWFXZzZLMzZVOFU0STdCcHd2NVU4eERqNEpBY2xwZ0xKaE03ZjNJVFFXb1RvV2FmSkxuMzRqaGZJaHZPSEk4Q0NsZ2pqS3dKNWNsUWlRNlZQMWRNUURrTVdiQkVkQTRmNVZsSzBVcGxHNEFLb1lqaGpERlNfNEtGV0hNams?oc=5"
         }
       ]
     },
