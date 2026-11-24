@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 13:26",
+  "updated_at": "2026-11-24 13:56",
   "taiwan": [
     {
       "rank": 1,
@@ -136,6 +136,33 @@
     },
     {
       "rank": 5,
+      "title": "黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長",
+      "summary": [
+        "自由時報：黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長",
+        "經濟日報：黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長",
+        "中時新聞：黃仁勳喊迫不及待復工 社群帳號火速掛回「輝達CEO」"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5651121"
+        },
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長",
+          "url": "https://money.udn.com/money/story/5599/9897557"
+        },
+        {
+          "source": "中時新聞",
+          "title": "黃仁勳喊迫不及待復工 社群帳號火速掛回「輝達CEO」",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDTTRNMThUNEZnTE9uQl9TSDlLTmhOdWY5YVpNT2gzZkgtMGpXeUZ1OUk3TWFOYm5CVWowNG1qNjBYMUY2em1EWEhSalB2TXRGMldSbF8wVmpKVGN3WGdYWlp3QkRNN1VTOHRudkFR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "資安業大規模併購 CrowdStrike 砸下 439 億美元全股票收購 Zscaler",
       "summary": [
         "經濟日報：資安業大規模併購 CrowdStrike 砸下 439 億美元全股票收購 Zscaler",
@@ -162,7 +189,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "期貨最新報價11／23期交所夜盤行情- 證券",
       "summary": [
         "工商時報：期貨最新報價11／23期交所夜盤行情- 證券",
@@ -183,7 +210,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
       "summary": [
         "經濟日報：黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
@@ -204,7 +231,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "黃仁勳重掌輝達激勵投資人　歐洲股市收盤勁揚",
       "summary": [
         "自由時報：黃仁勳重掌輝達激勵投資人　歐洲股市收盤勁揚",
@@ -225,7 +252,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "明天的天氣／明起全臺變天！鋒面、東北季風接連報到，連3天有雨「這天最冷」只剩16度 | 魏甫丞 | 風生活",
       "summary": [
         "風傳媒：明天的天氣／明起全臺變天！鋒面、東北季風接連報到，連3天有雨「這天最冷」只剩16度 | 魏甫丞 | 風生活",
@@ -242,27 +269,6 @@
           "source": "TVBS新聞",
           "title": "天氣/ 今起雨連下3天!週三低溫16度投票日北部舒適南部暖｜氣象主播謝宜倫｜早安氣象｜TVBS新聞 20261124 @TVBSNEWS01 │ TVBS新聞網",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZmxVNk1YZFpITTlPSjl3NDdNWE1xZzZUUlhLeG9aNjJiMmVfTUtRQURtcy1PTmNtZmt3bFBreXpRQWhjWVlDVm5uY2ZyZmxKNVk0X0VB?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長",
-      "summary": [
-        "自由時報：黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長",
-        "經濟日報：黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5651121"
-        },
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長",
-          "url": "https://money.udn.com/money/story/5599/9897557"
         }
       ]
     }
@@ -334,23 +340,23 @@
     },
     {
       "rank": 3,
-      "title": "在黃仁勳重新擔任 Nvidia 執行長之前，股市上漲",
+      "title": "黃仁勳以驚人的逆轉重新擔任 Nvidia 執行長。股價飆漲超過 30%。",
       "summary": [
-        "Bloomberg Tech：在黃仁勳重新擔任 Nvidia 執行長之前，股市上漲",
         "Yahoo Finance：黃仁勳以驚人的逆轉重新擔任 Nvidia 執行長。股價飆漲超過 30%。",
+        "Bloomberg Tech：黃仁勳重新擔任 Nvidia 執行長",
         "BBC World：Nvidia 對黃仁勳重新擔任執行長有何反應"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "在黃仁勳重新擔任 Nvidia 執行長之前，股市上漲",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/bloomberg-surveillance-11-23-2026-video"
-        },
-        {
           "source": "Yahoo Finance",
           "title": "黃仁勳以驚人的逆轉重新擔任 Nvidia 執行長。股價飆漲超過 30%。",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMHRSZkQ2dzVhQVQ3VExJb3JZbEFVUTFKcWI4ZngxdDR1dnBSelVuRFBwejVESlVadDZlSU1VMWxqYUd6amJmNlRpTUhYU25yNE5yWVB4RmpFTFRYaWpRQ0Fnc0FKWlhMTGlPaVNSV0UyRzFmaTNOVmUyUk5VeXYtendMR0xwMzBNN2ZLVHFHdUNjd2RoeDRaSWdOMUc?oc=5"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "黃仁勳重新擔任 Nvidia 執行長",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-23/bloomberg-tech-11-23-2026-video"
         },
         {
           "source": "BBC World",
