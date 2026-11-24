@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 15:26",
+  "updated_at": "2026-11-24 15:56",
   "taiwan": [
     {
       "rank": 1,
@@ -72,19 +72,14 @@
     },
     {
       "rank": 3,
-      "title": "川普親自與輝達董事會溝通　促成黃仁勳回鍋",
+      "title": "黃仁勳回歸！川普證實親自介入輝達董事會並為國安威脅掛保證- 國際",
       "summary": [
-        "經濟日報：川普親自與輝達董事會溝通　促成黃仁勳回鍋",
         "工商時報：黃仁勳回歸！川普證實親自介入輝達董事會並為國安威脅掛保證- 國際",
-        "ETtoday：川普是「黃仁勳回歸」幕後推手：我說服了輝達董事會"
+        "ETtoday：川普是「黃仁勳回歸」幕後推手：我說服了輝達董事會",
+        "商業周刊：川普：是我說服了董事會！黃仁勳閃電回鍋輝達，揭白宮介入決策內幕"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普親自與輝達董事會溝通　促成黃仁勳回鍋",
-          "url": "https://money.udn.com/money/story/5599/9897565"
-        },
         {
           "source": "工商時報",
           "title": "黃仁勳回歸！川普證實親自介入輝達董事會並為國安威脅掛保證- 國際",
@@ -327,7 +322,7 @@
       "title": "隨著黃仁勳的回歸重振人工智慧，亞洲股市上漲：市場總結",
       "summary": [
         "Bloomberg Markets：隨著黃仁勳的回歸重振人工智慧，亞洲股市上漲：市場總結",
-        "Bloomberg Tech：黃仁勳回歸重啟人工智慧貿易，日本股市反彈"
+        "Bloomberg Tech：黃仁勳回歸重啟人工智慧貿易 日本股市反彈"
       ],
       "media_count": 2,
       "links": [
@@ -338,7 +333,7 @@
         },
         {
           "source": "Bloomberg Tech",
-          "title": "黃仁勳回歸重啟人工智慧貿易，日本股市反彈",
+          "title": "黃仁勳回歸重啟人工智慧貿易 日本股市反彈",
           "url": "https://www.bloomberg.com/news/articles/2026-11-24/japan-stocks-rebound-as-huang-s-return-resuscitates-ai-trade"
         }
       ]
@@ -366,6 +361,27 @@
     },
     {
       "rank": 5,
+      "title": "賽諾菲將以 410 億美元現金收購 Insmed",
+      "summary": [
+        "Investing.com：賽諾菲將以 410 億美元現金收購 Insmed",
+        "Financial Times：賽諾菲斥資 410 億美元收購美國生技公司 Insmed"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "賽諾菲將以 410 億美元現金收購 Insmed",
+          "url": "https://www.investing.com/news/stock-market-news/sanofi-to-acquire-insmed-in-41-billion-cash-deal-5047167"
+        },
+        {
+          "source": "Financial Times",
+          "title": "賽諾菲斥資 410 億美元收購美國生技公司 Insmed",
+          "url": "https://www.ft.com/content/94e3ca43-cf90-4566-90df-86dd6a1554b2?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "英偉達飆升：投資者現在應該如何處理股票和人工智慧交易",
       "summary": [
         "CNBC：英偉達飆升：投資者現在應該如何處理股票和人工智慧交易",
@@ -386,7 +402,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "黃仁勳表示他將成為“更好的執行長”，員工為他的回歸鼓掌",
       "summary": [
         "The Verge：黃仁勳表示他將成為“更好的執行長”，員工為他的回歸鼓掌",
@@ -407,7 +423,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "黃仁勳如何再次擔任英偉達執行長",
       "summary": [
         "The Verge：黃仁勳如何再次擔任英偉達執行長",
@@ -428,7 +444,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "黃仁勳速返英偉達的內幕和初步反響",
       "summary": [
         "法廣RFI：黃仁勳速返英偉達的內幕和初步反響",
@@ -449,7 +465,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "大事件：黃仁勳回來了",
       "summary": [
         "Bloomberg Tech：大事件：黃仁勳回來了",
@@ -466,27 +482,6 @@
           "source": "The Verge",
           "title": "英偉達執行長黃仁勳回來了。接下來會發生什麼事？",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "彼得森：貝森特對黃仁勳的態度大轉變揭示了川普和中國的情況",
-      "summary": [
-        "CNBC：彼得森：貝森特對黃仁勳的態度大轉變揭示了川普和中國的情況",
-        "Washington Post：意見 |川普尷尬的中國之行告訴世界什麼"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "彼得森：貝森特對黃仁勳的態度大轉變揭示了川普和中國的情況",
-          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html"
-        },
-        {
-          "source": "Washington Post",
-          "title": "意見 |川普尷尬的中國之行告訴世界什麼",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUNCcF9DcnlBN1FpdDJCUy13SGNFWmxwcTJsemdSY01GaF9XWWJicGlMcjU0Z3VWZ3k3UTNlMjV2bURidzhFODE2dGZWRmJtYW1kLXVib2ljRDVSOFFYbFhsQTF1Ul9pclhsNGUyaWl0c1VQWncwYUpXVUJBQ0NqNzZvSE9odzc3c0VuVWIyYkF5UGlrLVNkeDVJTm5DaGI3dmhjVGhB?oc=5"
         }
       ]
     }
