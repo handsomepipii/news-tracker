@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 01:27",
+  "updated_at": "2026-11-25 01:58",
   "taiwan": [
     {
       "rank": 1,
@@ -45,48 +45,6 @@
     },
     {
       "rank": 3,
-      "title": "聯發科「邊緣AI到雲端AI」技術量能引領產業 17篇論文入選全球頂尖論壇與期刊",
-      "summary": [
-        "自由時報：聯發科「邊緣AI到雲端AI」技術量能引領產業 17篇論文入選全球頂尖論壇與期刊",
-        "MoneyDJ理財網：從邊緣AI到雲端AI，聯發科17篇論文入選國際期刊- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "聯發科「邊緣AI到雲端AI」技術量能引領產業 17篇論文入選全球頂尖論壇與期刊",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5651626"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "從邊緣AI到雲端AI，聯發科17篇論文入選國際期刊- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzVXVTczbkpmMDRuWkpsMDk1WVZQd3Y0bWkzTjlvNDFXWHY4emlPR1ZQVlA4RlFFTTJkMTR1eEJLVmpjeEJtbGx6dG1BbHlaSW85dTRXdFZRTnZHZjNMb2RGV01FS3ZwdW9hcXgwNVVseElPMldRRkRVNWlyU2kxT1prQWhrWmMtSUp4cEFGczVFdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "三星搶攻 AI 商機  西安廠 V9 NAND 產能拚增四倍",
-      "summary": [
-        "科技新報：三星搶攻 AI 商機  西安廠 V9 NAND 產能拚增四倍",
-        "MoneyDJ理財網：三星搶攻AI商機西安廠V9 NAND產能拚增四倍- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "三星搶攻 AI 商機  西安廠 V9 NAND 產能拚增四倍",
-          "url": "https://technews.tw/2026/11/24/samsung-plans-to-expand-v9-nand-production-capacity-at-xi-an-plant/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "三星搶攻AI商機西安廠V9 NAND產能拚增四倍- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONEFaWWdXSmNyUVNQbkVrQ2NlNENHN3dmLVV5MzNxMmlPWko1Q2R0Skw3R0d3RkNyUjhpUnpSMFN3elBFR2x4MzlUdTNTLU12c2VjbkNKMzRSQ1ZGcURSdmNaTG5ocWlGOW13WDVFNDhodFpJN0d1MU1KcFEtR1c0MGJoN1o1UFdHNDdtZGloSnM2Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "北市機車行駛中突起火  騎士嚇壞急借滅火器自救",
       "summary": [
         "自由時報：北市機車行駛中突起火  騎士嚇壞急借滅火器自救",
@@ -107,7 +65,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "川普讚黃仁勳、魏哲家！稱臺灣搶走晶片　曝臺積電赴德州建廠",
       "summary": [
         "ETtoday：川普讚黃仁勳、魏哲家！稱臺灣搶走晶片　曝臺積電赴德州建廠",
@@ -128,7 +86,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "民主剛果伊波拉病例破萬、致死率48.9%　臺邊境管制再延90天",
       "summary": [
         "ETtoday：民主剛果伊波拉病例破萬、致死率48.9%　臺邊境管制再延90天",
@@ -149,7 +107,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "日本藏壽司宣佈22款商品漲價 另有34款降價",
       "summary": [
         "自由時報：日本藏壽司宣佈22款商品漲價 另有34款降價",
@@ -170,7 +128,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "AI 安全不能只靠「緊急煞車」，AWS 執行長：模型周邊的工程，比選哪個模型更重要",
       "summary": [
         "科技報橘：AI 安全不能只靠「緊急煞車」，AWS 執行長：模型周邊的工程，比選哪個模型更重要",
@@ -191,7 +149,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "烏克蘭利比亞港口擊沉俄艦　莫斯科揚言痛苦後果",
       "summary": [
         "經濟日報：烏克蘭利比亞港口擊沉俄艦　莫斯科揚言痛苦後果",
@@ -208,6 +166,48 @@
           "source": "自由時報",
           "title": "自由說新聞》烏克蘭反擊超狂一幕！俄羅斯驚人損失全被掀底",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5651963"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "習近平怎麼看黃仁勳 川普代替他說了！擔心老黃會被挖角",
+      "summary": [
+        "自由時報：習近平怎麼看黃仁勳 川普代替他說了！擔心老黃會被挖角",
+        "財訊：黃仁勳重返輝達揭示川普弱點 習近平會如何對美國出招？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "習近平怎麼看黃仁勳 川普代替他說了！擔心老黃會被挖角",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5651797"
+        },
+        {
+          "source": "財訊",
+          "title": "黃仁勳重返輝達揭示川普弱點 習近平會如何對美國出招？",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jcXJrWDlXSDdzOXJkMkp2RDJlbFpfOXEzN291ME1ieHVtYWEwbU1vOWZNZnpmUldMbFJ5Wjc4ODRFQXdoU0ZBdjVmekIyQlNVMlBSUTVLWkFIakZDUDk0SGt1bnhBOVd1SGVMQmhybzdFeDh0dko2VDBzTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "冬盟》臺灣山林3：0勝大專明星隊 莊孟源獲選單場MVP",
+      "summary": [
+        "自由時報：冬盟》臺灣山林3：0勝大專明星隊 莊孟源獲選單場MVP",
+        "ETtoday：桃猿莊孟源4局僅挨1安奪MVP！臺灣山林5投聯手完封大學明星"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "冬盟》臺灣山林3：0勝大專明星隊 莊孟源獲選單場MVP",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5651782"
+        },
+        {
+          "source": "ETtoday",
+          "title": "桃猿莊孟源4局僅挨1安奪MVP！臺灣山林5投聯手完封大學明星",
+          "url": "https://sports.ettoday.net/news/3277849"
         }
       ]
     }
@@ -338,27 +338,6 @@
     },
     {
       "rank": 5,
-      "title": "SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
-      "summary": [
-        "Financial Times：SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
-        "Investing.com：根據英國《金融時報》報道，SpaceX 和特斯拉委託五位董事進行合併談判"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
-          "url": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Investing.com",
-          "title": "根據英國《金融時報》報道，SpaceX 和特斯拉委託五位董事進行合併談判",
-          "url": "https://www.investing.com/news/stock-market-news/spacex-and-tesla-entrusts-five-directors-for-merger-talks-ft-reports-5047055"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "富蘭克林鄧普頓敦促投資者超越人工智慧產業",
       "summary": [
         "Bloomberg Markets：富蘭克林鄧普頓敦促投資者超越人工智慧產業",
@@ -379,7 +358,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Nvidia醜聞：美國將Megaspeed列入黑名單",
       "summary": [
         "BBC中文：Nvidia醜聞：美國將Megaspeed列入黑名單",
@@ -400,7 +379,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "英偉達的漲勢是否忽略了黃仁勳回歸的風險？",
       "summary": [
         "Bloomberg Markets：英偉達的漲勢是否忽略了黃仁勳回歸的風險？",
@@ -421,7 +400,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "中國延長暫停美國礦產禁令以維持休戰",
       "summary": [
         "Bloomberg Markets：中國延長暫停美國礦產禁令以維持休戰",
@@ -442,7 +421,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "索羅門群島已告知北京不再續約中所安全協議 將與澳方簽署新條約",
       "summary": [
         "法廣RFI：索羅門群島已告知北京不再續約中所安全協議 將與澳方簽署新條約",
@@ -459,6 +438,27 @@
           "source": "德國之聲",
           "title": "媒體：索羅門群島計劃與澳籤條約取代與中國的安全協議",
           "url": "https://www.dw.com/zh/媒体：所罗门群岛计划与澳签条约取代与中国的安全协议/a-80033220?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "由於投資者評估圍繞黃仁勳重新擔任執行長的風險，英偉達股價下跌",
+      "summary": [
+        "Investing.com：由於投資者評估圍繞黃仁勳重新擔任執行長的風險，英偉達股價下跌",
+        "MarketWatch：由於黃仁勳回歸面臨這些重大問題，英偉達股價下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "由於投資者評估圍繞黃仁勳重新擔任執行長的風險，英偉達股價下跌",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757"
+        },
+        {
+          "source": "MarketWatch",
+          "title": "由於黃仁勳回歸面臨這些重大問題，英偉達股價下跌",
+          "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories"
         }
       ]
     }
