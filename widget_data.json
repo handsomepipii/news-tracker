@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 00:28",
+  "updated_at": "2026-11-25 00:57",
   "taiwan": [
     {
       "rank": 1,
@@ -311,6 +311,33 @@
     },
     {
       "rank": 4,
+      "title": "Uber 和 Nuro 將在灣區開始 Lucid Robotaxis 的無人駕駛測試",
+      "summary": [
+        "Bloomberg Tech：Uber 和 Nuro 將在灣區開始 Lucid Robotaxis 的無人駕駛測試",
+        "The Verge：Uber、Nuro 和 Lucid 啟動完全無人駕駛機器人計畫測試",
+        "TechCrunch：Uber 和 Nuro 於 2027 年推出前開始對 Lucid 機器人計畫車進行無人駕駛測試"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Uber 和 Nuro 將在灣區開始 Lucid Robotaxis 的無人駕駛測試",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/uber-nuro-to-start-driverless-testing-of-lucid-robotaxis-in-the-bay-area"
+        },
+        {
+          "source": "The Verge",
+          "title": "Uber、Nuro 和 Lucid 啟動完全無人駕駛機器人計畫測試",
+          "url": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Uber 和 Nuro 於 2027 年推出前開始對 Lucid 機器人計畫車進行無人駕駛測試",
+          "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
       "summary": [
         "Financial Times：SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
@@ -331,7 +358,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "東京23區10月二手公寓價格連續5個月下跌",
       "summary": [
         "NHK新聞：東京23區10月二手公寓價格連續5個月下跌",
@@ -352,7 +379,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "即使在修訂提案中，歐盟的電動車激勵措施也將日本製造的汽車排除在外",
       "summary": [
         "Nikkei Asia：即使在修訂提案中，歐盟的電動車激勵措施也將日本製造的汽車排除在外",
@@ -373,7 +400,28 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "美國將Megaspeed列入貿易黑名單- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：美國將Megaspeed列入貿易黑名單- 紐約時報中文網",
+        "The Verge：隨著黃仁勳重新控制英偉達，美國商務部將 Megaspeed 列入貿易黑名單"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "美國將Megaspeed列入貿易黑名單- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnF1a2V0WVUwNzc0Z2NNRkxkdi1mbHVlRGMtZnAzRzRUbWFNZjVhcjU2VS1Rc3dBTmo3cG81MEE3TXpRdXhwQ3k4a2NtVnYtYVVwY2ZUUktTeVR3TXBwQW5qbFNRaHYwdTBJVlp4SXNBOXMxUGU4eWhTdG50MVFldkhnTkxiTlBpMER5UWlHSjN2ZkFNS0pfZ25vSV9CQUs1OUppYw?oc=5"
+        },
+        {
+          "source": "The Verge",
+          "title": "隨著黃仁勳重新控制英偉達，美國商務部將 Megaspeed 列入貿易黑名單",
+          "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "富蘭克林鄧普頓敦促投資者超越人工智慧產業",
       "summary": [
         "Bloomberg Markets：富蘭克林鄧普頓敦促投資者超越人工智慧產業",
@@ -394,7 +442,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Nvidia醜聞：美國將Megaspeed列入黑名單",
       "summary": [
         "BBC中文：Nvidia醜聞：美國將Megaspeed列入黑名單",
@@ -411,48 +459,6 @@
           "source": "Investing.com",
           "title": "Factbox-我們對被美國列入黑名單的 Nvidia 客戶 Megaspeed 的瞭解",
           "url": "https://www.investing.com/news/stock-market-news/factboxwhat-we-know-about-megaspeed-the-nvidia-customer-blacklisted-by-us-5047829"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "英偉達的漲勢是否忽略了黃仁勳回歸的風險？",
-      "summary": [
-        "Bloomberg Markets：英偉達的漲勢是否忽略了黃仁勳回歸的風險？",
-        "Bloomberg Tech：黃仁勳的回歸暴露了英偉達尚未解決的脆弱性"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "英偉達的漲勢是否忽略了黃仁勳回歸的風險？",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-24/insight-with-haslinda-amin-11-24-2026-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "黃仁勳的回歸暴露了英偉達尚未解決的脆弱性",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/jensen-huang-s-return-exposes-nvidia-s-unresolved-fragilities"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "中國延長暫停美國礦產禁令以維持休戰",
-      "summary": [
-        "Bloomberg Markets：中國延長暫停美國礦產禁令以維持休戰",
-        "Financial Times：中國延長暫停對美國關鍵礦產出口的控制"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "中國延長暫停美國礦產禁令以維持休戰",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us"
-        },
-        {
-          "source": "Financial Times",
-          "title": "中國延長暫停對美國關鍵礦產出口的控制",
-          "url": "https://www.ft.com/content/9104866d-f69e-497d-aeb9-f7e0db59f143?syn-25a6b1a6=1"
         }
       ]
     }
