@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 06:27",
+  "updated_at": "2026-11-25 06:57",
   "taiwan": [
     {
       "rank": 1,
@@ -30,80 +30,44 @@
     },
     {
       "rank": 2,
-      "title": "76歲阿嬤樁腳涉為議員買票  嘉檢聲押禁見",
+      "title": "土耳其軍方直升機訓練時墜毀　導致5名官兵喪命",
       "summary": [
-        "自由時報：76歲阿嬤樁腳涉為議員買票  嘉檢聲押禁見",
-        "ETtoday：76歲阿嬤涉1000元幫議員買票　檢方聲押禁見"
+        "自由時報：土耳其軍方直升機訓練時墜毀　導致5名官兵喪命",
+        "經濟日報：土耳其軍方直升機訓練時墜毀　導致5名官兵喪命",
+        "ETtoday：土耳其軍用直升機墜毀釀5死　本月連2起重大軍機事故"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "自由時報",
-          "title": "76歲阿嬤樁腳涉為議員買票  嘉檢聲押禁見",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5652061"
+          "title": "土耳其軍方直升機訓練時墜毀　導致5名官兵喪命",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5652306"
+        },
+        {
+          "source": "經濟日報",
+          "title": "土耳其軍方直升機訓練時墜毀　導致5名官兵喪命",
+          "url": "https://money.udn.com/money/story/5599/9899982"
         },
         {
           "source": "ETtoday",
-          "title": "76歲阿嬤涉1000元幫議員買票　檢方聲押禁見",
-          "url": "https://www.ettoday.net/news/20261124/3277872.htm"
+          "title": "土耳其軍用直升機墜毀釀5死　本月連2起重大軍機事故",
+          "url": "https://www.ettoday.net/news/20261125/3277947.htm"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "元大臺灣50反1爆違約交割 金額3946.9萬元",
+      "title": "俄羅斯戰機進入韓國防空識別區 韓軍緊急出動戰機並發布空襲警報",
       "summary": [
-        "自由時報：元大臺灣50反1爆違約交割 金額3946.9萬元",
-        "工商時報：連ETF都會翻車！ 元大臺灣50反1首見鉅額違約交割3,946.9萬元- 證券"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "元大臺灣50反1爆違約交割 金額3946.9萬元",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5652050"
-        },
-        {
-          "source": "工商時報",
-          "title": "連ETF都會翻車！ 元大臺灣50反1首見鉅額違約交割3,946.9萬元- 證券",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WeEV0bDFLWXlkT0dpMlJ3Ty1ocksyUEVRMUVBSjR3amxUSVhQMFFWcHFpOVQxNkh6OFhoLUpwNElydm9UVXBlN2I1dVZmaTFNOFhIaGFEaVd6NWkzaEVV?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "九合一選舉人數出爐　1957萬人可投地方公職、彰化縣選舉人破百萬",
-      "summary": [
-        "ETtoday：九合一選舉人數出爐　1957萬人可投地方公職、彰化縣選舉人破百萬",
-        "自由時報：中選會公告》六都及縣市長選舉 1957萬人有投票資格"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "九合一選舉人數出爐　1957萬人可投地方公職、彰化縣選舉人破百萬",
-          "url": "https://www.ettoday.net/news/20261124/3277850.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "中選會公告》六都及縣市長選舉 1957萬人有投票資格",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1779836"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "韓國召見俄大使館武官　抗議俄軍機逼近鬱陵島領空",
-      "summary": [
-        "經濟日報：韓國召見俄大使館武官　抗議俄軍機逼近鬱陵島領空",
+        "經濟日報：俄羅斯戰機進入韓國防空識別區 韓軍緊急出動戰機並發布空襲警報",
         "公視新聞：南韓發現俄軍機入侵防空識別區 擬召見武官表達抗議"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "經濟日報",
-          "title": "韓國召見俄大使館武官　抗議俄軍機逼近鬱陵島領空",
-          "url": "https://money.udn.com/money/story/5599/9899317"
+          "title": "俄羅斯戰機進入韓國防空識別區 韓軍緊急出動戰機並發布空襲警報",
+          "url": "https://money.udn.com/money/story/5599/9898733"
         },
         {
           "source": "公視新聞",
@@ -113,7 +77,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "《單身3》尹廈情怒控賓客「搶先模擬婚禮」這2人遭肉搜急道歉",
       "summary": [
         "自由時報：《單身3》尹廈情怒控賓客「搶先模擬婚禮」這2人遭肉搜急道歉",
@@ -134,7 +98,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "屏東潮州傳議員、鎮代「包裹式賄選」 2樁腳收押、1人5萬交保",
       "summary": [
         "自由時報：屏東潮州傳議員、鎮代「包裹式賄選」 2樁腳收押、1人5萬交保",
@@ -155,7 +119,28 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "title": "明天天氣／週三低溫1字頭 週四回暖有雨 投票日全臺放晴",
+      "summary": [
+        "自由時報：明天天氣／週三低溫1字頭 週四回暖有雨 投票日全臺放晴",
+        "ETtoday：今明「全臺有雨」　投票日天氣曝"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "明天天氣／週三低溫1字頭 週四回暖有雨 投票日全臺放晴",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5652166"
+        },
+        {
+          "source": "ETtoday",
+          "title": "今明「全臺有雨」　投票日天氣曝",
+          "url": "https://www.ettoday.net/news/20261125/3277945.htm"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "威廉凱特鄉間宅邸遭闖入　英警逮2男",
       "summary": [
         "經濟日報：威廉凱特鄉間宅邸遭闖入　英警逮2男",
@@ -172,6 +157,27 @@
           "source": "自由時報",
           "title": "威廉凱特鄉間宅邸遭闖入 英警逮2男",
           "url": "https://news.ltn.com.tw/news/world/breakingnews/5652239"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "沈伯洋直播髮型投票 結果讓他超崩潰直呼「選舉無效」",
+      "summary": [
+        "自由時報：沈伯洋直播髮型投票 結果讓他超崩潰直呼「選舉無效」",
+        "ETtoday：沈伯洋髮型投票　結果「破防」大喊選舉無效"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "沈伯洋直播髮型投票 結果讓他超崩潰直呼「選舉無效」",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5652256"
+        },
+        {
+          "source": "ETtoday",
+          "title": "沈伯洋髮型投票　結果「破防」大喊選舉無效",
+          "url": "https://www.ettoday.net/news/20261125/3277951.htm"
         }
       ]
     },
