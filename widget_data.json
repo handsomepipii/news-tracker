@@ -1,45 +1,8 @@
 {
-  "updated_at": "2026-11-24 17:26",
+  "updated_at": "2026-11-24 17:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "黃仁勳返輝達總部員工熱烈歡迎 承諾「第二次會做更好」",
-      "summary": [
-        "經濟日報：黃仁勳返輝達總部員工熱烈歡迎 承諾「第二次會做更好」",
-        "自由時報：黃仁勳現身輝達！員工歡呼迎接 他承諾「第二次會做更好」",
-        "ETtoday：黃仁勳重回輝達承諾：第二次會做更好　總部員工熱烈歡迎"
-      ],
-      "media_count": 5,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳返輝達總部員工熱烈歡迎 承諾「第二次會做更好」",
-          "url": "https://money.udn.com/money/story/123398/9897589"
-        },
-        {
-          "source": "自由時報",
-          "title": "黃仁勳現身輝達！員工歡呼迎接 他承諾「第二次會做更好」",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5651139"
-        },
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳重回輝達承諾：第二次會做更好　總部員工熱烈歡迎",
-          "url": "https://www.ettoday.net/news/20261124/3277344.htm"
-        },
-        {
-          "source": "中時新聞",
-          "title": "影》黃仁勳重返輝達獲員工熱情相迎！承諾「第二次會做更好」",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DV0FiTEd1VEJyM2wxakdpQllxb05jNTB1c1lsMEY3aVpNWDlFRWl6MlpnNW1zZkxEdWMweUlZOVJlRndTR3J2cVZPQVN5WVE0ZW9ocVlDLUZuNzBlbW96MVUwVXd0VUNZWnduVFBB?oc=5"
-        },
-        {
-          "source": "科技新報",
-          "title": "黃仁勳返輝達總部員工熱烈歡迎，承諾「第二次會做更好」",
-          "url": "https://technews.tw/2026/11/24/jensen-huang-reinstated-as-nvidia-ceo/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "川普稱若不讓黃仁勳重返輝達 中國可能會延攬他",
       "summary": [
         "經濟日報：川普稱若不讓黃仁勳重返輝達 中國可能會延攬他",
@@ -67,6 +30,38 @@
           "source": "科技新報",
           "title": "川普稱若不讓黃仁勳重返輝達，中國可能會延攬他",
           "url": "https://technews.tw/2026/11/24/trump-warns-china-poach-jensen-huang-barred-returning-nvidia/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "黃仁勳現身輝達！員工歡呼迎接 他承諾「第二次會做更好」",
+      "summary": [
+        "自由時報：黃仁勳現身輝達！員工歡呼迎接 他承諾「第二次會做更好」",
+        "ETtoday：黃仁勳重回輝達承諾：第二次會做更好　總部員工熱烈歡迎",
+        "中時新聞：影》黃仁勳重返輝達獲員工熱情相迎！承諾「第二次會做更好」"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "黃仁勳現身輝達！員工歡呼迎接 他承諾「第二次會做更好」",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5651139"
+        },
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳重回輝達承諾：第二次會做更好　總部員工熱烈歡迎",
+          "url": "https://www.ettoday.net/news/20261124/3277344.htm"
+        },
+        {
+          "source": "中時新聞",
+          "title": "影》黃仁勳重返輝達獲員工熱情相迎！承諾「第二次會做更好」",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DV0FiTEd1VEJyM2wxakdpQllxb05jNTB1c1lsMEY3aVpNWDlFRWl6MlpnNW1zZkxEdWMweUlZOVJlRndTR3J2cVZPQVN5WVE0ZW9ocVlDLUZuNzBlbW96MVUwVXd0VUNZWnduVFBB?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "黃仁勳返輝達總部員工熱烈歡迎，承諾「第二次會做更好」",
+          "url": "https://technews.tw/2026/11/24/jensen-huang-reinstated-as-nvidia-ceo/"
         }
       ]
     },
@@ -189,27 +184,6 @@
     },
     {
       "rank": 8,
-      "title": "黃仁勳回鍋輝達執行長 股價開盤狂飆逾30％",
-      "summary": [
-        "自由時報：黃仁勳回鍋輝達執行長 股價開盤狂飆逾30％",
-        "經濟日報：黃仁勳返輝達股價飆31%　美股收盤大漲、費半勁揚14%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "黃仁勳回鍋輝達執行長 股價開盤狂飆逾30％",
-          "url": "https://ec.ltn.com.tw/article/paper/1779669"
-        },
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳返輝達股價飆31%　美股收盤大漲、費半勁揚14%",
-          "url": "https://money.udn.com/money/story/123398/9897638"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "原油供應趨於充裕且伊朗情勢緩和　國際油價重挫",
       "summary": [
         "自由時報：原油供應趨於充裕且伊朗情勢緩和　國際油價重挫",
@@ -230,7 +204,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "川普是「黃仁勳回歸」幕後推手：我說服了輝達董事會",
       "summary": [
         "ETtoday：川普是「黃仁勳回歸」幕後推手：我說服了輝達董事會",
@@ -249,38 +223,32 @@
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VSzZFYVotVUFYY292eFBIcGE1SnZWT3d5eWpmTHVMMlFwQnVuQVJqUmE2a0RycndaZHZiZVRaeG4tZkRnR3dzeW1NNGVuREJGckVIcWxvZFJ2c0dtZFROc21R?oc=5"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "辣個拉風男人回來了！陳沂誇：黃仁勳1人救全世界",
+      "summary": [
+        "自由時報：辣個拉風男人回來了！陳沂誇：黃仁勳1人救全世界",
+        "ETtoday：黃仁勳一人救世界　陳沂：當你強到能救世界、外遇幾個都沒關係"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "辣個拉風男人回來了！陳沂誇：黃仁勳1人救全世界",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5651143"
+        },
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳一人救世界　陳沂：當你強到能救世界、外遇幾個都沒關係",
+          "url": "https://www.ettoday.net/news/20261124/3277367.htm"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "處於黃仁勳醜聞中心的公司 Megaspeed 似乎正被列入美國黑名單",
-      "summary": [
-        "TechCrunch：處於黃仁勳醜聞中心的公司 Megaspeed 似乎正被列入美國黑名單",
-        "BBC World：因英偉達醜聞，美國將亞洲人工智慧公司 Megaspeed 列入黑名單",
-        "Bloomberg Tech：美國將Megaspeed列入黑名單，針對英偉達危機中的關鍵參與者"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "處於黃仁勳醜聞中心的公司 Megaspeed 似乎正被列入美國黑名單",
-          "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
-        },
-        {
-          "source": "BBC World",
-          "title": "因英偉達醜聞，美國將亞洲人工智慧公司 Megaspeed 列入黑名單",
-          "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "美國將Megaspeed列入黑名單，針對英偉達危機中的關鍵參與者",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "由於英偉達醜聞，美國將 Megaspeed 列入貿易黑名單",
       "summary": [
         "Nikkei Asia：由於英偉達醜聞，美國將 Megaspeed 列入貿易黑名單",
@@ -307,6 +275,33 @@
       ]
     },
     {
+      "rank": 2,
+      "title": "賽諾菲將以 410 億美元現金收購 Insmed",
+      "summary": [
+        "Investing.com：賽諾菲將以 410 億美元現金收購 Insmed",
+        "Financial Times：賽諾菲斥資 410 億美元收購美國生技公司 Insmed",
+        "Bloomberg Markets：賽諾菲同意以 410 億美元收購美國生技公司 Insmed"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "賽諾菲將以 410 億美元現金收購 Insmed",
+          "url": "https://www.investing.com/news/stock-market-news/sanofi-to-acquire-insmed-in-41-billion-cash-deal-5047167"
+        },
+        {
+          "source": "Financial Times",
+          "title": "賽諾菲斥資 410 億美元收購美國生技公司 Insmed",
+          "url": "https://www.ft.com/content/94e3ca43-cf90-4566-90df-86dd6a1554b2?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "賽諾菲同意以 410 億美元收購美國生技公司 Insmed",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-24/sanofi-agrees-to-buy-us-biotech-insmed-for-41-billion-video"
+        }
+      ]
+    },
+    {
       "rank": 3,
       "title": "隨著黃仁勳的回歸重振人工智慧，亞洲股市上漲：市場總結",
       "summary": [
@@ -329,6 +324,27 @@
     },
     {
       "rank": 4,
+      "title": "因英偉達醜聞，美國將亞洲人工智慧公司 Megaspeed 列入黑名單",
+      "summary": [
+        "BBC World：因英偉達醜聞，美國將亞洲人工智慧公司 Megaspeed 列入黑名單",
+        "Bloomberg Tech：美國將Megaspeed列入黑名單，針對英偉達危機中的關鍵參與者"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "因英偉達醜聞，美國將亞洲人工智慧公司 Megaspeed 列入黑名單",
+          "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "美國將Megaspeed列入黑名單，針對英偉達危機中的關鍵參與者",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
       "summary": [
         "Financial Times：SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
@@ -345,27 +361,6 @@
           "source": "Investing.com",
           "title": "根據英國《金融時報》報道，SpaceX 和特斯拉委託五位董事進行合併談判",
           "url": "https://www.investing.com/news/stock-market-news/spacex-and-tesla-entrusts-five-directors-for-merger-talks-ft-reports-5047055"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "賽諾菲將以 410 億美元現金收購 Insmed",
-      "summary": [
-        "Investing.com：賽諾菲將以 410 億美元現金收購 Insmed",
-        "Financial Times：賽諾菲斥資 410 億美元收購美國生技公司 Insmed"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "賽諾菲將以 410 億美元現金收購 Insmed",
-          "url": "https://www.investing.com/news/stock-market-news/sanofi-to-acquire-insmed-in-41-billion-cash-deal-5047167"
-        },
-        {
-          "source": "Financial Times",
-          "title": "賽諾菲斥資 410 億美元收購美國生技公司 Insmed",
-          "url": "https://www.ft.com/content/94e3ca43-cf90-4566-90df-86dd6a1554b2?syn-25a6b1a6=1"
         }
       ]
     },
