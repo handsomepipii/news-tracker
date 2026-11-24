@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 02:58",
+  "updated_at": "2026-11-25 03:27",
   "taiwan": [
     {
       "rank": 1,
@@ -45,69 +45,6 @@
     },
     {
       "rank": 3,
-      "title": "日本藏壽司宣佈22款商品漲價 另有34款降價",
-      "summary": [
-        "自由時報：日本藏壽司宣佈22款商品漲價 另有34款降價",
-        "經濟日報：日本藏壽司不到3個月又漲價　22款壽司變貴"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "日本藏壽司宣佈22款商品漲價 另有34款降價",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5651715"
-        },
-        {
-          "source": "經濟日報",
-          "title": "日本藏壽司不到3個月又漲價　22款壽司變貴",
-          "url": "https://money.udn.com/money/story/5599/9899003"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "AI 安全不能只靠「緊急煞車」，AWS 執行長：模型周邊的工程，比選哪個模型更重要",
-      "summary": [
-        "科技報橘：AI 安全不能只靠「緊急煞車」，AWS 執行長：模型周邊的工程，比選哪個模型更重要",
-        "MoneyDJ理財網：AI安全不能只靠緊急停止開關AWS執行長提四解方- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技報橘",
-          "title": "AI 安全不能只靠「緊急煞車」，AWS 執行長：模型周邊的工程，比選哪個模型更重要",
-          "url": "https://techorange.com/2026/11/24/ai-safety-cant-depend-emergency-brake-engineering/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "AI安全不能只靠緊急停止開關AWS執行長提四解方- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTMtcXhSeUFKVnZ6NjRWOGtZX2puUEllTUJwd1kxRnBZX1FZVmhfYWZWTjNMMmpvdkc0bUVUNENKMXJucWNtakN1Z2V3RmNIVXVueXNwQkEwemIxOHpGa2dWSW1GalB4NDFWLVMyVEJHY3JWdVVQRmJtN1hoSjlvcThBd0dtX1A5TEhFc2c3dnVhQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "烏克蘭利比亞港口擊沉俄艦　莫斯科揚言痛苦後果",
-      "summary": [
-        "經濟日報：烏克蘭利比亞港口擊沉俄艦　莫斯科揚言痛苦後果",
-        "自由時報：自由說新聞》烏克蘭反擊超狂一幕！俄羅斯驚人損失全被掀底"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "烏克蘭利比亞港口擊沉俄艦　莫斯科揚言痛苦後果",
-          "url": "https://money.udn.com/money/story/5599/9898785"
-        },
-        {
-          "source": "自由時報",
-          "title": "自由說新聞》烏克蘭反擊超狂一幕！俄羅斯驚人損失全被掀底",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5651963"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "習近平怎麼看黃仁勳 川普代替他說了！擔心老黃會被挖角",
       "summary": [
         "自由時報：習近平怎麼看黃仁勳 川普代替他說了！擔心老黃會被挖角",
@@ -128,7 +65,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "冬盟》臺灣山林3：0勝大專明星隊 莊孟源獲選單場MVP",
       "summary": [
         "自由時報：冬盟》臺灣山林3：0勝大專明星隊 莊孟源獲選單場MVP",
@@ -149,7 +86,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "博來科技明年首季上櫃 搶攻邊緣AI、機器人商機",
       "summary": [
         "自由時報：博來科技明年首季上櫃 搶攻邊緣AI、機器人商機",
@@ -170,7 +107,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "黃仁勳閃辭不到兩週復職　矽谷戰情室幕後力挽狂瀾",
       "summary": [
         "經濟日報：黃仁勳閃辭不到兩週復職　矽谷戰情室幕後力挽狂瀾",
@@ -191,7 +128,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "郭正亮又大翻車！剛嗆完「黃仁勳回不去了！別作夢」　下秒臉腫了",
       "summary": [
         "ETtoday：郭正亮又大翻車！剛嗆完「黃仁勳回不去了！別作夢」　下秒臉腫了",
@@ -208,6 +145,69 @@
           "source": "自由時報",
           "title": "光速翻車！郭正亮斷言黃仁勳不可能回鍋 1小時後遭輝達狠打臉",
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5652164"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "子公司遭美列黑名單，阿里否認轉售受管制先進晶片",
+      "summary": [
+        "科技新報：子公司遭美列黑名單，阿里否認轉售受管制先進晶片",
+        "MoneyDJ理財網：子公司遭美列黑名單，阿里否認轉售受管制先進晶片- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "子公司遭美列黑名單，阿里否認轉售受管制先進晶片",
+          "url": "https://technews.tw/2026/11/24/alibaba-denies-reselling-controlled-advanced-chips-us-blacklists-subsidiary/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "子公司遭美列黑名單，阿里否認轉售受管制先進晶片- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUG1oVjFLQnZIdTRPUXZOYXh4ZWYyc0Fhb3BINWVMeTBtMVIzeDFCYkxwc3FGZldtbkZ5LXdRN3Vidm9LNUo1N3dTeDloYlJnMDMtUDlONUJuTmJzc3dMcEJuMnRJU1BlVy1WNFVNUkF2TG5weHQ4aVdqMzQ2a3FPNFpyb3VSMWc0YjJWMkhVeG5uQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "黃仁勳回鍋掀白宮與國會裂痕　美兩黨議員同聲抨擊",
+      "summary": [
+        "經濟日報：黃仁勳回鍋掀白宮與國會裂痕　美兩黨議員同聲抨擊",
+        "科技新報：黃仁勳回鍋掀白宮與國會裂痕，美兩黨議員同聲抨擊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳回鍋掀白宮與國會裂痕　美兩黨議員同聲抨擊",
+          "url": "https://money.udn.com/money/story/5599/9898948"
+        },
+        {
+          "source": "科技新報",
+          "title": "黃仁勳回鍋掀白宮與國會裂痕，美兩黨議員同聲抨擊",
+          "url": "https://technews.tw/2026/11/24/jensen-huang-return-stirs-white-house-congress-rift-bipartisan-criticism-us-lawmakers/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳回歸帶動韓股反彈，業者：AI 投資信心回升",
+      "summary": [
+        "科技新報：黃仁勳回歸帶動韓股反彈，業者：AI 投資信心回升",
+        "經濟日報：黃仁勳回歸帶動韓股反彈　業者：AI投資信心回升"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "黃仁勳回歸帶動韓股反彈，業者：AI 投資信心回升",
+          "url": "https://finance.technews.tw/2026/11/24/jensen-huang-return-boosts-korean-stocks-ai-investment-confidence-recovery/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳回歸帶動韓股反彈　業者：AI投資信心回升",
+          "url": "https://money.udn.com/money/story/5599/9899121"
         }
       ]
     }
