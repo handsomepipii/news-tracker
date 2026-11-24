@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 13:56",
+  "updated_at": "2026-11-24 14:26",
   "taiwan": [
     {
       "rank": 1,
@@ -109,33 +109,6 @@
     },
     {
       "rank": 4,
-      "title": "川普：司法部指黃仁勳無涉罪行　失去國家級腦力才是國安威脅",
-      "summary": [
-        "自由時報：川普：司法部指黃仁勳無涉罪行　失去國家級腦力才是國安威脅",
-        "經濟日報：川普：司法部指黃仁勳無涉罪行　失去國家級腦力才是國安威脅",
-        "ETtoday：川普：司法部認定黃仁勳無涉罪行　失去國家級腦力才是國安威脅"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "川普：司法部指黃仁勳無涉罪行　失去國家級腦力才是國安威脅",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5651116"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普：司法部指黃仁勳無涉罪行　失去國家級腦力才是國安威脅",
-          "url": "https://money.udn.com/money/story/5599/9897546"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普：司法部認定黃仁勳無涉罪行　失去國家級腦力才是國安威脅",
-          "url": "https://www.ettoday.net/news/20261124/3277332.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長",
       "summary": [
         "自由時報：黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長",
@@ -162,7 +135,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "資安業大規模併購 CrowdStrike 砸下 439 億美元全股票收購 Zscaler",
       "summary": [
         "經濟日報：資安業大規模併購 CrowdStrike 砸下 439 億美元全股票收購 Zscaler",
@@ -185,6 +158,33 @@
           "source": "數位時代",
           "title": "溢價34%吃下Zscaler！CrowdStrike斥資439億美元全股票併購，聯手搶攻「AI代理防護」大餅",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWFNxOE04WFgxdTBmNi1JRldBazV3ZUtWVjVDYk55Z3I5cUs3VkFLUVBybGtlQUh6V3B0a25GNXYyWEk5SDBCaFVZVHAxdy1UaWJjMEpSZHJQTVowajhYT0tSOTF6NUhfRGZNNnNFendSeDFTU3o0eGUyaU9tUHg2d0dYSk4yMHJuaUZ6cEhR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "紐時：川普派範斯私下協調　促成黃仁勳重返輝達",
+      "summary": [
+        "經濟日報：紐時：川普派範斯私下協調　促成黃仁勳重返輝達",
+        "ETtoday：前所未見！「川普直接介入」黃仁勳回歸　恐創政治幹預先例",
+        "轉角國際：黃仁勳重返輝達CEO：川普表明直接介入人事，但輝達國安疑慮仍未解惑"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "紐時：川普派範斯私下協調　促成黃仁勳重返輝達",
+          "url": "https://money.udn.com/money/story/5599/9898335"
+        },
+        {
+          "source": "ETtoday",
+          "title": "前所未見！「川普直接介入」黃仁勳回歸　恐創政治幹預先例",
+          "url": "https://www.ettoday.net/news/20261124/3277535.htm"
+        },
+        {
+          "source": "轉角國際",
+          "title": "黃仁勳重返輝達CEO：川普表明直接介入人事，但輝達國安疑慮仍未解惑",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuUG82YzhzQXlsUHJwSFZzaFB0QlFERVBWRk9qWTZETkpfUUh0bGJoY0lmVm5TMWlpbFJvb1pidFVjb05pTzRQLWhoRGtYRXAyVjZzT0JubXhPLUplOWhvc0tTN3NKV1V2aXQw0gFrQVVfeXFMUG5QbzZjOHNBeWxQcnBIVnNoUHRCUURFUFZGT2pZNkROSl9RSHRsYmhjSWZWblMxaWlsUm9vWmJ0VWNvTmlPNFAtaGhEa1hFcDJWNnNPQm5teE8tSmU5aG9zS1M3c0pXVXZpdDA?oc=5"
         }
       ]
     },
@@ -232,43 +232,43 @@
     },
     {
       "rank": 9,
-      "title": "黃仁勳重掌輝達激勵投資人　歐洲股市收盤勁揚",
+      "title": "黃仁勳回任輝達執行長　民主黨高層矢言全面調查",
       "summary": [
-        "自由時報：黃仁勳重掌輝達激勵投資人　歐洲股市收盤勁揚",
-        "經濟日報：黃仁勳重掌輝達激勵投資人　歐洲股市收盤勁揚"
+        "經濟日報：黃仁勳回任輝達執行長　民主黨高層矢言全面調查",
+        "自由時報：黃仁勳回任輝達執行長　民主黨高層矢言全面調查"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "黃仁勳重掌輝達激勵投資人　歐洲股市收盤勁揚",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5651117"
+          "source": "經濟日報",
+          "title": "黃仁勳回任輝達執行長　民主黨高層矢言全面調查",
+          "url": "https://money.udn.com/money/story/5599/9897560"
         },
         {
-          "source": "經濟日報",
-          "title": "黃仁勳重掌輝達激勵投資人　歐洲股市收盤勁揚",
-          "url": "https://money.udn.com/money/story/5599/9897550"
+          "source": "自由時報",
+          "title": "黃仁勳回任輝達執行長　民主黨高層矢言全面調查",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5651124"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "明天的天氣／明起全臺變天！鋒面、東北季風接連報到，連3天有雨「這天最冷」只剩16度 | 魏甫丞 | 風生活",
+      "title": "黃仁勳回鍋輝達執行長 股價開盤狂飆逾30％",
       "summary": [
-        "風傳媒：明天的天氣／明起全臺變天！鋒面、東北季風接連報到，連3天有雨「這天最冷」只剩16度 | 魏甫丞 | 風生活",
-        "TVBS新聞：天氣/ 今起雨連下3天!週三低溫16度投票日北部舒適南部暖｜氣象主播謝宜倫｜早安氣象｜TVBS新聞 20261124 @TVBSNEWS01 │ TVBS新聞網"
+        "自由時報：黃仁勳回鍋輝達執行長 股價開盤狂飆逾30％",
+        "經濟日報：黃仁勳返輝達股價飆31%　美股收盤大漲、費半勁揚14%"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "風傳媒",
-          "title": "明天的天氣／明起全臺變天！鋒面、東北季風接連報到，連3天有雨「這天最冷」只剩16度 | 魏甫丞 | 風生活",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTZ21EQUhpTFVwU1Vjc01HZExzWUJ2ajRwQXhzZmdCWXRWQVFIajhkdmUzQW9DM2J0TTVZYU5rU00xbXhmVk1kU0VkUEtCOFh6?oc=5"
+          "source": "自由時報",
+          "title": "黃仁勳回鍋輝達執行長 股價開盤狂飆逾30％",
+          "url": "https://ec.ltn.com.tw/article/paper/1779669"
         },
         {
-          "source": "TVBS新聞",
-          "title": "天氣/ 今起雨連下3天!週三低溫16度投票日北部舒適南部暖｜氣象主播謝宜倫｜早安氣象｜TVBS新聞 20261124 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZmxVNk1YZFpITTlPSjl3NDdNWE1xZzZUUlhLeG9aNjJiMmVfTUtRQURtcy1PTmNtZmt3bFBreXpRQWhjWVlDVm5uY2ZyZmxKNVk0X0VB?oc=5"
+          "source": "經濟日報",
+          "title": "黃仁勳返輝達股價飆31%　美股收盤大漲、費半勁揚14%",
+          "url": "https://money.udn.com/money/story/123398/9897638"
         }
       ]
     }
@@ -340,33 +340,6 @@
     },
     {
       "rank": 3,
-      "title": "黃仁勳以驚人的逆轉重新擔任 Nvidia 執行長。股價飆漲超過 30%。",
-      "summary": [
-        "Yahoo Finance：黃仁勳以驚人的逆轉重新擔任 Nvidia 執行長。股價飆漲超過 30%。",
-        "Bloomberg Tech：黃仁勳重新擔任 Nvidia 執行長",
-        "BBC World：Nvidia 對黃仁勳重新擔任執行長有何反應"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "黃仁勳以驚人的逆轉重新擔任 Nvidia 執行長。股價飆漲超過 30%。",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMHRSZkQ2dzVhQVQ3VExJb3JZbEFVUTFKcWI4ZngxdDR1dnBSelVuRFBwejVESlVadDZlSU1VMWxqYUd6amJmNlRpTUhYU25yNE5yWVB4RmpFTFRYaWpRQ0Fnc0FKWlhMTGlPaVNSV0UyRzFmaTNOVmUyUk5VeXYtendMR0xwMzBNN2ZLVHFHdUNjd2RoeDRaSWdOMUc?oc=5"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "黃仁勳重新擔任 Nvidia 執行長",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/bloomberg-tech-11-23-2026-video"
-        },
-        {
-          "source": "BBC World",
-          "title": "Nvidia 對黃仁勳重新擔任執行長有何反應",
-          "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "由於英偉達醜聞，美國將 Megaspeed 列入貿易黑名單",
       "summary": [
         "Nikkei Asia：由於英偉達醜聞，美國將 Megaspeed 列入貿易黑名單",
@@ -393,7 +366,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "隨著黃仁勳的回歸重振人工智慧，亞洲股市上漲：市場總結",
       "summary": [
         "Bloomberg Markets：隨著黃仁勳的回歸重振人工智慧，亞洲股市上漲：市場總結",
@@ -414,7 +387,49 @@
       ]
     },
     {
+      "rank": 5,
+      "title": "黃仁勳重新擔任 Nvidia 執行長",
+      "summary": [
+        "Bloomberg Tech：黃仁勳重新擔任 Nvidia 執行長",
+        "BBC World：Nvidia 對黃仁勳重新擔任執行長有何反應"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "黃仁勳重新擔任 Nvidia 執行長",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-23/bloomberg-tech-11-23-2026-video"
+        },
+        {
+          "source": "BBC World",
+          "title": "Nvidia 對黃仁勳重新擔任執行長有何反應",
+          "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
       "rank": 6,
+      "title": "SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
+      "summary": [
+        "Financial Times：SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
+        "Investing.com：根據英國《金融時報》報道，SpaceX 和特斯拉委託五位董事進行合併談判"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
+          "url": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "根據英國《金融時報》報道，SpaceX 和特斯拉委託五位董事進行合併談判",
+          "url": "https://www.investing.com/news/stock-market-news/spacex-and-tesla-entrusts-five-directors-for-merger-talks-ft-reports-5047055"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "俄勒岡州和維吉尼亞州就 Grok 的色情深度假貨起訴 SpaceX",
       "summary": [
         "The Verge：俄勒岡州和維吉尼亞州就 Grok 的色情深度假貨起訴 SpaceX",
@@ -435,7 +450,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "黃仁勳重新出任英偉達執行長，市場飆升",
       "summary": [
         "Washington Post：黃仁勳重新出任英偉達執行長，市場飆升",
@@ -456,7 +471,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "英偉達飆升：投資者現在應該如何處理股票和人工智慧交易",
       "summary": [
         "CNBC：英偉達飆升：投資者現在應該如何處理股票和人工智慧交易",
@@ -477,7 +492,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "黃仁勳表示他將成為“更好的執行長”，員工為他的回歸鼓掌",
       "summary": [
         "The Verge：黃仁勳表示他將成為“更好的執行長”，員工為他的回歸鼓掌",
@@ -494,27 +509,6 @@
           "source": "CNBC",
           "title": "黃仁勳回國後受到英偉達員工歡呼，承諾成為更好的執行長",
           "url": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "黃仁勳如何再次擔任英偉達執行長",
-      "summary": [
-        "The Verge：黃仁勳如何再次擔任英偉達執行長",
-        "Bloomberg Markets：英偉達為何恢復黃仁勳擔任執行長？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "黃仁勳如何再次擔任英偉達執行長",
-          "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "英偉達為何恢復黃仁勳擔任執行長？",
-          "url": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo"
         }
       ]
     }
