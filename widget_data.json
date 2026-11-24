@@ -1,40 +1,8 @@
 {
-  "updated_at": "2026-11-24 19:27",
+  "updated_at": "2026-11-24 19:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "黃仁勳險被中國挖角？川普曝隱憂：北京可能出手延攬",
-      "summary": [
-        "自由時報：黃仁勳險被中國挖角？川普曝隱憂：北京可能出手延攬",
-        "ETtoday：川普曝黃仁勳「閃電回鍋」內幕：怕他被中國挖角",
-        "科技新報：川普稱若不讓黃仁勳重返輝達，中國可能會延攬他"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "黃仁勳險被中國挖角？川普曝隱憂：北京可能出手延攬",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5651153"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普曝黃仁勳「閃電回鍋」內幕：怕他被中國挖角",
-          "url": "https://www.ettoday.net/news/20261124/3277353.htm"
-        },
-        {
-          "source": "科技新報",
-          "title": "川普稱若不讓黃仁勳重返輝達，中國可能會延攬他",
-          "url": "https://technews.tw/2026/11/24/trump-warns-china-poach-jensen-huang-barred-returning-nvidia/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "川普：黃仁勳有一點中國血統 若未復職恐遭北京挖角掌華為",
-          "url": "https://money.udn.com/money/story/5599/9897935"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "紐時：川普派範斯私下協調　促成黃仁勳重返輝達",
       "summary": [
         "經濟日報：紐時：川普派範斯私下協調　促成黃仁勳重返輝達",
@@ -61,28 +29,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
-      "summary": [
-        "經濟日報：黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
-        "科技新報：黃仁勳回鍋，分析：未消除 AI 生態系統或輝達嚴峻挑戰"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
-          "url": "https://money.udn.com/money/story/5599/9897667"
-        },
-        {
-          "source": "科技新報",
-          "title": "黃仁勳回鍋，分析：未消除 AI 生態系統或輝達嚴峻挑戰",
-          "url": "https://technews.tw/2026/11/24/jensen-huang-return-analysis-ai-ecosystem-nvidia-challenges-unresolved/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "title": "黃仁勳閃辭11天後重掌輝達　躋身美企回鍋執行長行列",
       "summary": [
         "經濟日報：黃仁勳閃辭11天後重掌輝達　躋身美企回鍋執行長行列",
@@ -103,49 +50,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "金融時報：輝達股價飆逾30% 川普持股最多增值4.7億",
-      "summary": [
-        "經濟日報：金融時報：輝達股價飆逾30% 川普持股最多增值4.7億",
-        "ETtoday：輝達暴漲逾30%！　川普持股單日最高「大增4.93億元」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "金融時報：輝達股價飆逾30% 川普持股最多增值4.7億",
-          "url": "https://money.udn.com/money/story/123398/9897669"
-        },
-        {
-          "source": "ETtoday",
-          "title": "輝達暴漲逾30%！　川普持股單日最高「大增4.93億元」",
-          "url": "https://www.ettoday.net/news/20261124/3277374.htm"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "影／黃仁勳重返輝達受熱烈歡迎！員工高喊我們愛你 女員工衝上前擁抱",
-      "summary": [
-        "經濟日報：影／黃仁勳重返輝達受熱烈歡迎！員工高喊我們愛你 女員工衝上前擁抱",
-        "TVBS新聞：黃仁勳回輝達總部 員工鼓掌歡呼:我愛你!｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "影／黃仁勳重返輝達受熱烈歡迎！員工高喊我們愛你 女員工衝上前擁抱",
-          "url": "https://money.udn.com/money/story/5599/9897665"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "黃仁勳回輝達總部 員工鼓掌歡呼:我愛你!｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ueVZZYk9FVHI5VXB6TjY2RDQ1QV9aMzlYWDdrTlYyMkZLUXJqRVE3bTVOYWlhbmhSR1NuQWpDbUdmLXJBRVlQYTFOaEx1VlVhTWdDWVB3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 3,
       "title": "74歲《在水一方》原唱江蕾   龍千玉驚喜同框",
       "summary": [
         "自由時報：74歲《在水一方》原唱江蕾   龍千玉驚喜同框",
@@ -166,7 +71,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
       "title": "亞股報復性反攻！韓股漲逾6％觸發熔斷 日經暴漲逾1500點",
       "summary": [
         "自由時報：亞股報復性反攻！韓股漲逾6％觸發熔斷 日經暴漲逾1500點",
@@ -187,7 +92,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "黃仁勳正式回歸！X自介悄悄改回CEO 馬斯克1句話叫好",
       "summary": [
         "經濟日報：黃仁勳正式回歸！X自介悄悄改回CEO 馬斯克1句話叫好",
@@ -208,7 +113,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "黃仁勳回歸華爾街振奮　身家單日暴增逾1兆元",
       "summary": [
         "經濟日報：黃仁勳回歸華爾街振奮　身家單日暴增逾1兆元",
@@ -225,6 +130,90 @@
           "source": "科技新報",
           "title": "黃仁勳回歸華爾街振奮，身家單日暴增逾兆元",
           "url": "https://finance.technews.tw/2026/11/24/jensen-huang-wall-street-return-net-worth-surges-trillion-day/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "影》黃仁勳重返輝達獲員工熱情相迎！承諾「第二次會做更好」",
+      "summary": [
+        "中時新聞：影》黃仁勳重返輝達獲員工熱情相迎！承諾「第二次會做更好」",
+        "科技新報：黃仁勳返輝達總部員工熱烈歡迎，承諾「第二次會做更好」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "影》黃仁勳重返輝達獲員工熱情相迎！承諾「第二次會做更好」",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DV0FiTEd1VEJyM2wxakdpQllxb05jNTB1c1lsMEY3aVpNWDlFRWl6MlpnNW1zZkxEdWMweUlZOVJlRndTR3J2cVZPQVN5WVE0ZW9ocVlDLUZuNzBlbW96MVUwVXd0VUNZWnduVFBB?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "黃仁勳返輝達總部員工熱烈歡迎，承諾「第二次會做更好」",
+          "url": "https://technews.tw/2026/11/24/jensen-huang-reinstated-as-nvidia-ceo/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "CrowdStrike 砸下 440 億美元並 Zscaler 創資安史紀錄",
+      "summary": [
+        "科技新報：CrowdStrike 砸下 440 億美元並 Zscaler 創資安史紀錄",
+        "MoneyDJ理財網：CrowdStrike砸下440億美元並Zscaler創資安史紀錄- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "CrowdStrike 砸下 440 億美元並 Zscaler 創資安史紀錄",
+          "url": "https://infosecu.technews.tw/2026/11/24/crowdstrike-to-acquire-zscaler/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "CrowdStrike砸下440億美元並Zscaler創資安史紀錄- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV1NjbmhJTFdqRXFGbG44N0V3a0VqLTVxUHRiVm10TU9ZQUVtT2ctQzFsU1F4b1FoYmpkWnotNEhjTkdXTEVVSFRVc1JkLWxQcmNleWdySVYyZW1PMnZFSFdPY01rTDNFU254TGNUclAyYkplYkVrUUZlWXhfMWE2Q1EyZ2xPd3pWaEo2TzdZQ3NxUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "黃仁勳回鍋平息信心危機　AI生態系吃定心丸",
+      "summary": [
+        "經濟日報：黃仁勳回鍋平息信心危機　AI生態系吃定心丸",
+        "科技新報：黃仁勳回鍋，分析：未消除 AI 生態系統或輝達嚴峻挑戰"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳回鍋平息信心危機　AI生態系吃定心丸",
+          "url": "https://money.udn.com/money/story/123398/9897761"
+        },
+        {
+          "source": "科技新報",
+          "title": "黃仁勳回鍋，分析：未消除 AI 生態系統或輝達嚴峻挑戰",
+          "url": "https://technews.tw/2026/11/24/jensen-huang-return-analysis-ai-ecosystem-nvidia-challenges-unresolved/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳重掌輝達　美媒警告風波未息、川普恐要求回報",
+      "summary": [
+        "經濟日報：黃仁勳重掌輝達　美媒警告風波未息、川普恐要求回報",
+        "科技新報：黃仁勳重掌輝達，美媒警告風波未息、川普恐要求回報"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳重掌輝達　美媒警告風波未息、川普恐要求回報",
+          "url": "https://money.udn.com/money/story/123398/9897745"
+        },
+        {
+          "source": "科技新報",
+          "title": "黃仁勳重掌輝達，美媒警告風波未息、川普恐要求回報",
+          "url": "https://technews.tw/2026/11/24/jensen-huang-retakes-control-nvidia-us-media-warns-lingering-controversy-potential-trump-demands-reciprocity/"
         }
       ]
     }
@@ -280,69 +269,6 @@
     },
     {
       "rank": 3,
-      "title": "SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
-      "summary": [
-        "Financial Times：SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
-        "Investing.com：根據英國《金融時報》報道，SpaceX 和特斯拉委託五位董事進行合併談判"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
-          "url": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Investing.com",
-          "title": "根據英國《金融時報》報道，SpaceX 和特斯拉委託五位董事進行合併談判",
-          "url": "https://www.investing.com/news/stock-market-news/spacex-and-tesla-entrusts-five-directors-for-merger-talks-ft-reports-5047055"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "新加坡因人工智慧熱潮將 GDP 成長預期上調至“6% 左右”",
-      "summary": [
-        "Bloomberg Tech：新加坡因人工智慧熱潮將 GDP 成長預期上調至“6% 左右”",
-        "Nikkei Asia：人工智慧需求維持強勁，新加坡第三季 GDP 成長 6.1%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "新加坡因人工智慧熱潮將 GDP 成長預期上調至“6% 左右”",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-raises-gdp-growth-outlook-to-around-6-on-ai-boom"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "人工智慧需求維持強勁，新加坡第三季 GDP 成長 6.1%",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVjN6eFVHZTJkWWoxX0FZN1EyRWxNZlBGQmJvazlNMkFhWW9CRWhjSFUxVXR1b0tsejNIRVd1TjQ4UUhFenZmTUdrQjdRZVpfSThnRGVrbDExRk5oYjNNMTNLeHlKQ3pyaHE2U1FtTUQ2QUQzZ1Nnc1FaTndPVmc0YWpDeHdJNlhLLXkyTVZyTTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "根據《華盛頓郵報》報道，聯邦調查局副局長將於 12 月退休",
-      "summary": [
-        "Investing.com：根據《華盛頓郵報》報道，聯邦調查局副局長將於 12 月退休",
-        "Washington Post：聯邦調查局副局長計劃在最近一次離職中退休"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "根據《華盛頓郵報》報道，聯邦調查局副局長將於 12 月退休",
-          "url": "https://www.investing.com/news/stock-market-news/deputy-fbi-director-to-retire-in-december-washington-post-reports-5046736"
-        },
-        {
-          "source": "Washington Post",
-          "title": "聯邦調查局副局長計劃在最近一次離職中退休",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlhBOVZ4M2FPM0FtVDRrRUNKWWpWYUxieUxVVzFGb3lLMnMwV3VwOFlXMWZXRmNic3Z6ekFPR05IbFB2akxTN285TGZvZGNkT0czc1ZTYy1zQkxsWUZNT2tfNnpqWDl0Tk44cm1SXzlCbi1aRnlLREgxMFZMWFVKZnFZQXhNOVNOWERKYmVmOTF1RWwzQlFoNUNBWGdRVlQwYWZNYVZ4UzZKNlFsRVZDMEdCa3pBdE1G?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "黃仁勳回歸後，英偉達亞洲合作夥伴和供應商股價上漲",
       "summary": [
         "CNBC：黃仁勳回歸後，英偉達亞洲合作夥伴和供應商股價上漲",
@@ -363,7 +289,91 @@
       ]
     },
     {
+      "rank": 4,
+      "title": "SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
+      "summary": [
+        "Financial Times：SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
+        "Investing.com：根據英國《金融時報》報道，SpaceX 和特斯拉委託五位董事進行合併談判"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
+          "url": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "根據英國《金融時報》報道，SpaceX 和特斯拉委託五位董事進行合併談判",
+          "url": "https://www.investing.com/news/stock-market-news/spacex-and-tesla-entrusts-five-directors-for-merger-talks-ft-reports-5047055"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "新加坡因人工智慧熱潮將 GDP 成長預期上調至“6% 左右”",
+      "summary": [
+        "Bloomberg Tech：新加坡因人工智慧熱潮將 GDP 成長預期上調至“6% 左右”",
+        "Nikkei Asia：人工智慧需求維持強勁，新加坡第三季 GDP 成長 6.1%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "新加坡因人工智慧熱潮將 GDP 成長預期上調至“6% 左右”",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-raises-gdp-growth-outlook-to-around-6-on-ai-boom"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "人工智慧需求維持強勁，新加坡第三季 GDP 成長 6.1%",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVjN6eFVHZTJkWWoxX0FZN1EyRWxNZlBGQmJvazlNMkFhWW9CRWhjSFUxVXR1b0tsejNIRVd1TjQ4UUhFenZmTUdrQjdRZVpfSThnRGVrbDExRk5oYjNNMTNLeHlKQ3pyaHE2U1FtTUQ2QUQzZ1Nnc1FaTndPVmc0YWpDeHdJNlhLLXkyTVZyTTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "根據《華盛頓郵報》報道，聯邦調查局副局長將於 12 月退休",
+      "summary": [
+        "Investing.com：根據《華盛頓郵報》報道，聯邦調查局副局長將於 12 月退休",
+        "Washington Post：聯邦調查局副局長計劃在最近一次離職中退休"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "根據《華盛頓郵報》報道，聯邦調查局副局長將於 12 月退休",
+          "url": "https://www.investing.com/news/stock-market-news/deputy-fbi-director-to-retire-in-december-washington-post-reports-5046736"
+        },
+        {
+          "source": "Washington Post",
+          "title": "聯邦調查局副局長計劃在最近一次離職中退休",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlhBOVZ4M2FPM0FtVDRrRUNKWWpWYUxieUxVVzFGb3lLMnMwV3VwOFlXMWZXRmNic3Z6ekFPR05IbFB2akxTN285TGZvZGNkT0czc1ZTYy1zQkxsWUZNT2tfNnpqWDl0Tk44cm1SXzlCbi1aRnlLREgxMFZMWFVKZnFZQXhNOVNOWERKYmVmOTF1RWwzQlFoNUNBWGdRVlQwYWZNYVZ4UzZKNlFsRVZDMEdCa3pBdE1G?oc=5"
+        }
+      ]
+    },
+    {
       "rank": 7,
+      "title": "詳訊：俄羅斯軍機進入韓國防識區 韓一度釋出警報",
+      "summary": [
+        "韓聯社：詳訊：俄羅斯軍機進入韓國防識區 韓一度釋出警報",
+        "法廣RFI：俄軍機接連引發安全警報，韓國與波蘭報告領空事件"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "詳訊：俄羅斯軍機進入韓國防識區 韓一度釋出警報",
+          "url": "https://cn.yna.co.kr/view/ACK20261124000800881"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "俄軍機接連引發安全警報，韓國與波蘭報告領空事件",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261124-%E4%BF%84%E8%BB%8D%E6%A9%9F%E6%8E%A5%E9%80%A3%E5%BC%95%E7%99%BC%E5%AE%89%E5%85%A8%E8%AD%A6%E5%A0%B1%EF%BC%8C%E9%9F%93%E5%9C%8B%E8%88%87%E6%B3%A2%E8%98%AD%E7%9B%B8%E7%B9%BC%E5%A0%B1%E5%91%8A%E9%A0%98%E7%A9%BA%E4%BA%8B%E4%BB%B6"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Nvidia 對黃仁勳重新擔任執行長有何反應",
       "summary": [
         "BBC World：Nvidia 對黃仁勳重新擔任執行長有何反應",
@@ -384,7 +394,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "東京23區10月二手公寓價格連續5個月下跌",
       "summary": [
         "NHK新聞：東京23區10月二手公寓價格連續5個月下跌",
@@ -405,7 +415,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "即使在修訂提案中，歐盟的電動車激勵措施也將日本製造的汽車排除在外",
       "summary": [
         "Nikkei Asia：即使在修訂提案中，歐盟的電動車激勵措施也將日本製造的汽車排除在外",
@@ -422,27 +432,6 @@
           "source": "法廣RFI",
           "title": "歐盟電動汽車優惠政策修正案排除日本 日本表示關切",
           "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261124-%E6%AD%90%E7%9B%9F%E9%9B%BB%E5%8B%95%E6%B1%BD%E8%BB%8A%E5%84%AA%E6%83%A0%E6%94%BF%E7%AD%96%E4%BF%AE%E6%AD%A3%E6%A1%88%E6%8E%92%E9%99%A4%E6%97%A5%E6%9C%AC-%E6%97%A5%E6%9C%AC%E8%A1%A8%E7%A4%BA%E9%97%9C%E5%88%87"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "中國延長暫停美國礦產禁令以維持休戰",
-      "summary": [
-        "Bloomberg Markets：中國延長暫停美國礦產禁令以維持休戰",
-        "Financial Times：中國延長暫停對美國關鍵礦產出口的控制"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "中國延長暫停美國礦產禁令以維持休戰",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us"
-        },
-        {
-          "source": "Financial Times",
-          "title": "中國延長暫停對美國關鍵礦產出口的控制",
-          "url": "https://www.ft.com/content/9104866d-f69e-497d-aeb9-f7e0db59f143?syn-25a6b1a6=1"
         }
       ]
     }
