@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 21:31",
+  "updated_at": "2026-11-24 21:57",
   "taiwan": [
     {
       "rank": 1,
@@ -30,27 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "黃仁勳閃辭11天後重掌輝達　躋身美企回鍋執行長行列",
-      "summary": [
-        "經濟日報：黃仁勳閃辭11天後重掌輝達　躋身美企回鍋執行長行列",
-        "科技新報：黃仁勳閃辭 11 天後重掌輝達，躋身美企回鍋執行長行列"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳閃辭11天後重掌輝達　躋身美企回鍋執行長行列",
-          "url": "https://money.udn.com/money/story/5599/9897849"
-        },
-        {
-          "source": "科技新報",
-          "title": "黃仁勳閃辭 11 天後重掌輝達，躋身美企回鍋執行長行列",
-          "url": "https://technews.tw/2026/11/24/jensen-huangs-nvidia-return-puts-him-on-us-incs-boomerang-ceo-list/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "馬來西亞防規避出口管制　籲資料中心勿服務美國列名企業",
       "summary": [
         "經濟日報：馬來西亞防規避出口管制　籲資料中心勿服務美國列名企業",
@@ -71,149 +50,170 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "美陸戰隊擬將NSM反艦飛彈射程倍增至500公里 強化印太分散式作戰",
+      "rank": 3,
+      "title": "黃國昌批新潮流炒地集團 吳宗憲籲林國漳把話說清楚",
       "summary": [
-        "自由時報：美陸戰隊擬將NSM反艦飛彈射程倍增至500公里 強化印太分散式作戰",
-        "科技新報：岸置反艦飛彈射程拚翻倍，美國陸戰隊計劃開發增程型 NSM"
+        "自由時報：黃國昌批新潮流炒地集團 吳宗憲籲林國漳把話說清楚",
+        "中時新聞：海納百川》輝達神劇給臺灣一個提醒（陳世昌）"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "美陸戰隊擬將NSM反艦飛彈射程倍增至500公里 強化印太分散式作戰",
-          "url": "https://news.ltn.com.tw/news/def/breakingnews/5651285"
+          "title": "黃國昌批新潮流炒地集團 吳宗憲籲林國漳把話說清楚",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5651304"
         },
         {
+          "source": "中時新聞",
+          "title": "海納百川》輝達神劇給臺灣一個提醒（陳世昌）",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvQlAwbHZYX0JRMk9rT3RXWXdYMC1URDMwQ0lNbHFkaUd6U29aSHoxd05ZSURaeEhqU2locmJHNjFVWkYxY2pQWXhIWFdPalBxUVdvNE0yQVFIb2c5S3ZnTURzZDE5WG8?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "黃仁勳戲劇性回歸！輝達董事會 180 度轉彎，背後關鍵推手竟是川普",
+      "summary": [
+        "科技新報：黃仁勳戲劇性回歸！輝達董事會 180 度轉彎，背後關鍵推手竟是川普",
+        "自由時報：貝森特對黃仁勳態度180度大轉彎！從逼退到挺復職 揭川普對中晶片路線真實底牌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
           "source": "科技新報",
-          "title": "岸置反艦飛彈射程拚翻倍，美國陸戰隊計劃開發增程型 NSM",
-          "url": "https://technews.tw/2026/11/24/us-marine-aims-for-doubling-up-the-range-of-nsm/"
+          "title": "黃仁勳戲劇性回歸！輝達董事會 180 度轉彎，背後關鍵推手竟是川普",
+          "url": "https://technews.tw/2026/11/24/trump-pushed-jensen-huang-comeback/"
+        },
+        {
+          "source": "自由時報",
+          "title": "貝森特對黃仁勳態度180度大轉彎！從逼退到挺復職 揭川普對中晶片路線真實底牌",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5651175"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "LINE 傳災情！使用者哀號「沒通知、漏接電話」 3 招暫時自救",
+      "title": "黃仁勳歸來  甲骨文、新雲端商資金斷鏈疑慮暫消",
       "summary": [
-        "ETtoday：LINE 傳災情！使用者哀號「沒通知、漏接電話」 3 招暫時自救",
-        "自由時報：LINE又傳災情！訊息沒通知、電話也不響　網友曝3招自救"
+        "科技新報：黃仁勳歸來  甲骨文、新雲端商資金斷鏈疑慮暫消",
+        "MoneyDJ理財網：黃仁勳歸來甲骨文、新雲端商資金斷鏈疑慮暫消- 新聞"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "LINE 傳災情！使用者哀號「沒通知、漏接電話」 3 招暫時自救",
-          "url": "https://www.ettoday.net/news/20261124/3277405.htm"
+          "source": "科技新報",
+          "title": "黃仁勳歸來  甲骨文、新雲端商資金斷鏈疑慮暫消",
+          "url": "https://finance.technews.tw/2026/11/24/jensen-huang-returns-temporarily-easing-funding-chain-concerns-oracle-new-cloud-providers/"
         },
         {
-          "source": "自由時報",
-          "title": "LINE又傳災情！訊息沒通知、電話也不響　網友曝3招自救",
-          "url": "https://3c.ltn.com.tw/news/68401"
+          "source": "MoneyDJ理財網",
+          "title": "黃仁勳歸來甲骨文、新雲端商資金斷鏈疑慮暫消- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSmExaVJIc2tEQm8wVlNUaHpYRklmbVQxczNYYVJLMFF2Tm9pVk5TVXpTT0ZVN2pqS1pySkZIdFFFNGVBWkRLYWlXbEhQZWNncUFkR2RmQ2RUSmJkZ3BxaWMtRXduZWpkQXlSRE5Cbm40NlExZWtCVkdfenFveFRfUWdPaHJtc1l0NkNEZjltSkhzQQ?oc=5"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "快訊／黃仁勳加持！臺股暴漲3300點收復40K　臺積電漲停",
+      "title": "AI 股狂歡 Anthropic 獨垂淚  黃仁勳、售股解禁成憂",
       "summary": [
-        "ETtoday：快訊／黃仁勳加持！臺股暴漲3300點收復40K　臺積電漲停",
-        "風傳媒：黃仁勳回鍋加持！臺股暴漲3300點重返4萬大關 臺積電率逾550家飆漲停 | 張庭維 | 新聞"
+        "科技新報：AI 股狂歡 Anthropic 獨垂淚  黃仁勳、售股解禁成憂",
+        "MoneyDJ理財網：AI股狂歡Anthropic獨垂淚黃仁勳、售股解禁成憂- 新聞"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "快訊／黃仁勳加持！臺股暴漲3300點收復40K　臺積電漲停",
-          "url": "https://finance.ettoday.net/news/3277398"
+          "source": "科技新報",
+          "title": "AI 股狂歡 Anthropic 獨垂淚  黃仁勳、售股解禁成憂",
+          "url": "https://finance.technews.tw/2026/11/24/ai-stocks-rally-anthropic-struggles-jensen-huang-share-lockup-expiry-concerns/"
         },
         {
-          "source": "風傳媒",
-          "title": "黃仁勳回鍋加持！臺股暴漲3300點重返4萬大關 臺積電率逾550家飆漲停 | 張庭維 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OWXVOck9ES3hQbHBXTHhXYmZqeVR4RDZ3SkU0bEtVWE84T0FzWlVfY3JXVnBqeUQxOWtPRnQxZG13eEs1OG54YlZiaDR5dw?oc=5"
+          "source": "MoneyDJ理財網",
+          "title": "AI股狂歡Anthropic獨垂淚黃仁勳、售股解禁成憂- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdW05TU0zejRYV0o3dlpCbklSUGZsVU1xVnZES2gwWUkzTTFhYlp0YTdBaEhPRjhHX2IxS0VjLXNmV0FzXzVjc0RnT1NlSmEzVU55bnppYlZtN1hIN1g1aHp3c0syTWVhRHlLeXJfTTljOEpzbmhJQ1pIcHV1elp2VzVmbURzSW5nN25RVC1uY2t3Zw?oc=5"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "川普稱若不讓黃仁勳重返輝達，中國可能會延攬他",
+      "title": "「第二次上任，我會成為更好的CEO！」黃仁勳辭職11天戲劇性復職，輝達股價單日暴漲31%",
       "summary": [
-        "科技新報：川普稱若不讓黃仁勳重返輝達，中國可能會延攬他",
-        "經濟日報：川普：黃仁勳有一點中國血統 若未復職恐遭北京挖角掌華為"
+        "數位時代：「第二次上任，我會成為更好的CEO！」黃仁勳辭職11天戲劇性復職，輝達股價單日暴漲31%",
+        "中時新聞：重回輝達場面超震撼黃仁勳：第二次擔任CEO會做得更好- 生活"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "科技新報",
-          "title": "川普稱若不讓黃仁勳重返輝達，中國可能會延攬他",
-          "url": "https://technews.tw/2026/11/24/trump-warns-china-poach-jensen-huang-barred-returning-nvidia/"
+          "source": "數位時代",
+          "title": "「第二次上任，我會成為更好的CEO！」黃仁勳辭職11天戲劇性復職，輝達股價單日暴漲31%",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3BuMXFOUGZzRlZUQlZRWHlQZDFFUjV6LUVKWEdwQUUyT3JuRHRrRUtKNlNtNWNBbDNTM3BYTWhOeHJsRUIzOFowTTVXTEhSZEhXMnVqOWU5T25DUGJFYk5MN1BxUGZET2lrcWxkX2RUb3MydWo5WVF5MU52cHhRSkFDZjJYOFV5?oc=5"
         },
         {
-          "source": "經濟日報",
-          "title": "川普：黃仁勳有一點中國血統 若未復職恐遭北京挖角掌華為",
-          "url": "https://money.udn.com/money/story/5599/9897935"
+          "source": "中時新聞",
+          "title": "重回輝達場面超震撼黃仁勳：第二次擔任CEO會做得更好- 生活",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13WDVFWU4zQkdkWlJNRXltU0VidUJEN3BPLTNDYjBEZXFUZF9mbTJEbF9scExUcnNhNjYxbWFGX2pqdk5taTNVTXhtTnBNanVGRWt6RzZVeF8yZXhxMk16d2psX2owMi1hMkNLWTJ3?oc=5"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "Anthropic推出Claude Ship，AI自動審查、修改及核准程式碼",
+      "title": "蔣萬安、秦慧珠終於破冰互動！　上演選前和解「握手握一下」",
       "summary": [
-        "iThome：Anthropic推出Claude Ship，AI自動審查、修改及核准程式碼",
-        "INSIDE硬塞：Anthropic推出Claude Ship，由AI Agent審查、修改，再依團隊政策核准PR"
+        "ETtoday：蔣萬安、秦慧珠終於破冰互動！　上演選前和解「握手握一下」",
+        "自由時報：破冰？被拱和蔣萬安「再握一次手」 秦慧珠急搖手：不用不用！"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "iThome",
-          "title": "Anthropic推出Claude Ship，AI自動審查、修改及核准程式碼",
-          "url": "https://www.ithome.com.tw/news/180741"
+          "source": "ETtoday",
+          "title": "蔣萬安、秦慧珠終於破冰互動！　上演選前和解「握手握一下」",
+          "url": "https://www.ettoday.net/news/20261124/3277454.htm"
         },
         {
-          "source": "INSIDE硬塞",
-          "title": "Anthropic推出Claude Ship，由AI Agent審查、修改，再依團隊政策核准PR",
-          "url": "https://www.inside.com.tw/article/42987-anthropic-claude-ship-ai-agent-code-review-approval"
+          "source": "自由時報",
+          "title": "破冰？被拱和蔣萬安「再握一次手」 秦慧珠急搖手：不用不用！",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5651985"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "黃仁勳閃電回鍋輝達　凸顯對AI產業龐大掌控力",
+      "title": "APLD 再簽 18 年 AI 算力長約  潛在營收上看 127 億美元",
       "summary": [
-        "經濟日報：黃仁勳閃電回鍋輝達　凸顯對AI產業龐大掌控力",
-        "科技新報：黃仁勳閃電回鍋輝達，凸顯對 AI 產業龐大掌控力"
+        "科技新報：APLD 再簽 18 年 AI 算力長約  潛在營收上看 127 億美元",
+        "MoneyDJ理財網：APLD再簽18年AI算力長約潛在營收上看127億美元- 新聞"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "黃仁勳閃電回鍋輝達　凸顯對AI產業龐大掌控力",
-          "url": "https://money.udn.com/money/story/5599/9897860"
+          "source": "科技新報",
+          "title": "APLD 再簽 18 年 AI 算力長約  潛在營收上看 127 億美元",
+          "url": "https://finance.technews.tw/2026/11/24/applied-digital-secures-new-150-mw-18-year-lease-with-tier-one-investment-grade-hyperscaler/"
         },
         {
-          "source": "科技新報",
-          "title": "黃仁勳閃電回鍋輝達，凸顯對 AI 產業龐大掌控力",
-          "url": "https://technews.tw/2026/11/24/jensen-huang-swift-return-nvidia-highlights-immense-control-ai-industry/"
+          "source": "MoneyDJ理財網",
+          "title": "APLD再簽18年AI算力長約潛在營收上看127億美元- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONnZWcFdLdVRlQ0Ewb2t4bGxCWXg3UWVybkE0cUVTVkJYMUlwSUJOZC1wc01qV2xaU0R2TDRpb09TdWZicG1IV1dpTzY1aV9neThsQWV6MWhmX0VQa3FxbkpOeFB0V0tOZEhwUWh5MkNxRDFNQ3hRTTRGOUFqODg4V1h3a2VwWGdsclFDMVhLLW9hQQ?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "川普為何急挺黃仁勳復職？美媒提3可能：下臺恐成危險證人不利白宮",
+      "title": "黃仁勳重返輝達股價狂飆　川普帳面獲利最高達4.9億元",
       "summary": [
-        "經濟日報：川普為何急挺黃仁勳復職？美媒提3可能：下臺恐成危險證人不利白宮",
-        "關鍵評論網：川普出手保黃仁勳回鍋輝達：國安調查未結案，為何白宮甘冒雙標風險也要救人？"
+        "經濟日報：黃仁勳重返輝達股價狂飆　川普帳面獲利最高達4.9億元",
+        "科技新報：黃仁勳重返輝達股價狂飆，川普帳面獲利最高達 4.9 億元"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "經濟日報",
-          "title": "川普為何急挺黃仁勳復職？美媒提3可能：下臺恐成危險證人不利白宮",
-          "url": "https://money.udn.com/money/story/5599/9897844"
+          "title": "黃仁勳重返輝達股價狂飆　川普帳面獲利最高達4.9億元",
+          "url": "https://money.udn.com/money/story/5599/9897969"
         },
         {
-          "source": "關鍵評論網",
-          "title": "川普出手保黃仁勳回鍋輝達：國安調查未結案，為何白宮甘冒雙標風險也要救人？",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFUW5EaV81LW5JZHpYN2o0SzQtX2J4Y2NPR1RaWmtDSDE0QkE0UHQzaUkzeGdIcGYzUldXOTEzdGMwTTdGQ1oyQVJjVkU2aGdibElfNg?oc=5"
+          "source": "科技新報",
+          "title": "黃仁勳重返輝達股價狂飆，川普帳面獲利最高達 4.9 億元",
+          "url": "https://finance.technews.tw/2026/11/24/jensen-huang-comeback-nvidia-stock-surge-trump-profit-490-million/"
         }
       ]
     }
@@ -248,6 +248,33 @@
     },
     {
       "rank": 2,
+      "title": "中國對中央政治局委員、上海市委書記陳吉寧立案調查",
+      "summary": [
+        "Bloomberg Markets：中國對中央政治局委員、上海市委書記陳吉寧立案調查",
+        "法廣RFI：官宣上海市委書記陳吉寧涉嫌嚴重違紀違法 正接受審查調查",
+        "德國之聲：涉嫌嚴重違紀違法 上海市委書記陳吉寧被立案調查"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "中國對中央政治局委員、上海市委書記陳吉寧立案調查",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-probes-politburo-member-and-shanghai-chief-chen-jining"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "官宣上海市委書記陳吉寧涉嫌嚴重違紀違法 正接受審查調查",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261124-%E5%AE%98%E5%AE%A3%E9%99%B3%E5%90%89%E5%AF%A7%E6%B6%89%E5%AB%8C%E5%9A%B4%E9%87%8D%E9%81%95%E7%B4%80%E9%81%95%E6%B3%95-%E6%AD%A3%E6%8E%A5%E5%8F%97%E5%AF%A9%E6%9F%A5%E8%AA%BF%E6%9F%A5"
+        },
+        {
+          "source": "德國之聲",
+          "title": "涉嫌嚴重違紀違法 上海市委書記陳吉寧被立案調查",
+          "url": "https://www.dw.com/zh/涉嫌严重违纪违法-上海市委书记陈吉宁被立案调查/a-80034033?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
       "summary": [
         "Financial Times：SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
@@ -268,7 +295,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Nvidia 對黃仁勳重新擔任執行長有何反應",
       "summary": [
         "BBC World：Nvidia 對黃仁勳重新擔任執行長有何反應",
@@ -289,7 +316,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "東京23區10月二手公寓價格連續5個月下跌",
       "summary": [
         "NHK新聞：東京23區10月二手公寓價格連續5個月下跌",
@@ -310,7 +337,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "即使在修訂提案中，歐盟的電動車激勵措施也將日本製造的汽車排除在外",
       "summary": [
         "Nikkei Asia：即使在修訂提案中，歐盟的電動車激勵措施也將日本製造的汽車排除在外",
@@ -331,7 +358,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "富蘭克林鄧普頓敦促投資者超越人工智慧產業",
       "summary": [
         "Bloomberg Markets：富蘭克林鄧普頓敦促投資者超越人工智慧產業",
@@ -352,7 +379,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Nvidia醜聞：美國將Megaspeed列入黑名單",
       "summary": [
         "BBC中文：Nvidia醜聞：美國將Megaspeed列入黑名單",
@@ -373,7 +400,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "英偉達的漲勢是否忽略了黃仁勳回歸的風險？",
       "summary": [
         "Bloomberg Markets：英偉達的漲勢是否忽略了黃仁勳回歸的風險？",
@@ -394,7 +421,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "中國延長暫停美國礦產禁令以維持休戰",
       "summary": [
         "Bloomberg Markets：中國延長暫停美國礦產禁令以維持休戰",
@@ -411,27 +438,6 @@
           "source": "Financial Times",
           "title": "中國延長暫停對美國關鍵礦產出口的控制",
           "url": "https://www.ft.com/content/9104866d-f69e-497d-aeb9-f7e0db59f143?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "索羅門群島已告知北京不再續約中所安全協議 將與澳方簽署新條約",
-      "summary": [
-        "法廣RFI：索羅門群島已告知北京不再續約中所安全協議 將與澳方簽署新條約",
-        "德國之聲：媒體：索羅門群島計劃與澳籤條約取代與中國的安全協議"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "索羅門群島已告知北京不再續約中所安全協議 將與澳方簽署新條約",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261124-%E6%89%80%E7%BE%85%E9%96%80%E7%BE%A4%E5%B3%B6%E5%B7%B2%E5%91%8A%E7%9F%A5%E5%8C%97%E4%BA%AC%E4%B8%8D%E5%86%8D%E7%BA%8C%E7%B4%84%E4%B8%AD%E6%89%80%E5%AE%89%E5%85%A8%E5%8D%94%E8%AD%B0-%E5%B0%87%E8%88%87%E6%BE%B3%E6%96%B9%E7%B0%BD%E7%BD%B2%E6%96%B0%E6%A2%9D%E7%B4%84"
-        },
-        {
-          "source": "德國之聲",
-          "title": "媒體：索羅門群島計劃與澳籤條約取代與中國的安全協議",
-          "url": "https://www.dw.com/zh/媒体：所罗门群岛计划与澳签条约取代与中国的安全协议/a-80033220?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     }
