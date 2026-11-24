@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 17:56",
+  "updated_at": "2026-11-24 18:26",
   "taiwan": [
     {
       "rank": 1,
@@ -67,33 +67,6 @@
     },
     {
       "rank": 3,
-      "title": "CrowdStrike 砸下 440 億美元並 Zscaler 創資安史紀錄",
-      "summary": [
-        "科技新報：CrowdStrike 砸下 440 億美元並 Zscaler 創資安史紀錄",
-        "iThome：CrowdStrike以439億美元收購Zscaler，創資安界交易紀錄",
-        "MoneyDJ理財網：CrowdStrike砸下440億美元並Zscaler創資安史紀錄- 新聞"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "CrowdStrike 砸下 440 億美元並 Zscaler 創資安史紀錄",
-          "url": "https://infosecu.technews.tw/2026/11/24/crowdstrike-to-acquire-zscaler/"
-        },
-        {
-          "source": "iThome",
-          "title": "CrowdStrike以439億美元收購Zscaler，創資安界交易紀錄",
-          "url": "https://www.ithome.com.tw/news/180740"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "CrowdStrike砸下440億美元並Zscaler創資安史紀錄- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV1NjbmhJTFdqRXFGbG44N0V3a0VqLTVxUHRiVm10TU9ZQUVtT2ctQzFsU1F4b1FoYmpkWnotNEhjTkdXTEVVSFRVc1JkLWxQcmNleWdySVYyZW1PMnZFSFdPY01rTDNFU254TGNUclAyYkplYkVrUUZlWXhfMWE2Q1EyZ2xPd3pWaEo2TzdZQ3NxUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "紐時：川普派範斯私下協調　促成黃仁勳重返輝達",
       "summary": [
         "經濟日報：紐時：川普派範斯私下協調　促成黃仁勳重返輝達",
@@ -120,7 +93,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "期貨最新報價11／23期交所夜盤行情- 證券",
       "summary": [
         "工商時報：期貨最新報價11／23期交所夜盤行情- 證券",
@@ -141,7 +114,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
       "summary": [
         "經濟日報：黃仁勳回鍋　分析：未消除AI生態系統或輝達嚴峻挑戰",
@@ -162,7 +135,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "黃仁勳閃辭11天後重掌輝達　躋身美企回鍋執行長行列",
       "summary": [
         "經濟日報：黃仁勳閃辭11天後重掌輝達　躋身美企回鍋執行長行列",
@@ -183,49 +156,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "原油供應趨於充裕且伊朗情勢緩和　國際油價重挫",
-      "summary": [
-        "自由時報：原油供應趨於充裕且伊朗情勢緩和　國際油價重挫",
-        "經濟日報：原油供應趨於充裕且伊朗情勢緩和　國際油價重挫"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "原油供應趨於充裕且伊朗情勢緩和　國際油價重挫",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5651135"
-        },
-        {
-          "source": "經濟日報",
-          "title": "原油供應趨於充裕且伊朗情勢緩和　國際油價重挫",
-          "url": "https://money.udn.com/money/story/5599/9897604"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "川普是「黃仁勳回歸」幕後推手：我說服了輝達董事會",
-      "summary": [
-        "ETtoday：川普是「黃仁勳回歸」幕後推手：我說服了輝達董事會",
-        "商業周刊：川普：是我說服了董事會！黃仁勳閃電回鍋輝達，揭白宮介入決策內幕"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "川普是「黃仁勳回歸」幕後推手：我說服了輝達董事會",
-          "url": "https://www.ettoday.net/news/20261124/3277335.htm"
-        },
-        {
-          "source": "商業周刊",
-          "title": "川普：是我說服了董事會！黃仁勳閃電回鍋輝達，揭白宮介入決策內幕",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VSzZFYVotVUFYY292eFBIcGE1SnZWT3d5eWpmTHVMMlFwQnVuQVJqUmE2a0RycndaZHZiZVRaeG4tZkRnR3dzeW1NNGVuREJGckVIcWxvZFJ2c0dtZFROc21R?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 7,
       "title": "辣個拉風男人回來了！陳沂誇：黃仁勳1人救全世界",
       "summary": [
         "自由時報：辣個拉風男人回來了！陳沂誇：黃仁勳1人救全世界",
@@ -242,6 +173,69 @@
           "source": "ETtoday",
           "title": "黃仁勳一人救世界　陳沂：當你強到能救世界、外遇幾個都沒關係",
           "url": "https://www.ettoday.net/news/20261124/3277367.htm"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "鋒面來了！　投票日天氣出爐",
+      "summary": [
+        "ETtoday：鋒面來了！　投票日天氣出爐",
+        "自由時報：週四前全臺雨綿綿！投票日陽光露臉、氣溫回升"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "鋒面來了！　投票日天氣出爐",
+          "url": "https://www.ettoday.net/news/20261124/3277334.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "週四前全臺雨綿綿！投票日陽光露臉、氣溫回升",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5651957"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Megaspeed遭美列黑名單　涉助中取得輝達AI晶片",
+      "summary": [
+        "經濟日報：Megaspeed遭美列黑名單　涉助中取得輝達AI晶片",
+        "科技新報：Megaspeed 遭美列黑名單，涉助中取得輝達 AI 晶片"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "Megaspeed遭美列黑名單　涉助中取得輝達AI晶片",
+          "url": "https://money.udn.com/money/story/5599/9897658"
+        },
+        {
+          "source": "科技新報",
+          "title": "Megaspeed 遭美列黑名單，涉助中取得輝達 AI 晶片",
+          "url": "https://technews.tw/2026/11/24/us-blacklists-megaspeed-cloud-company-linked-to-nvidia-scandal/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "AI教父黃仁勳重磅回歸　輝達創紀錄單日拉抬市場2兆美元",
+      "summary": [
+        "經濟日報：AI教父黃仁勳重磅回歸　輝達創紀錄單日拉抬市場2兆美元",
+        "科技新報：AI 教父黃仁勳重量級回歸，輝達創紀錄單日拉抬市場 2 兆美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "AI教父黃仁勳重磅回歸　輝達創紀錄單日拉抬市場2兆美元",
+          "url": "https://money.udn.com/money/story/123398/9897642"
+        },
+        {
+          "source": "科技新報",
+          "title": "AI 教父黃仁勳重量級回歸，輝達創紀錄單日拉抬市場 2 兆美元",
+          "url": "https://finance.technews.tw/2026/11/24/ai-godfather-jensen-huang-returns-nvidia-lifts-market-record-2-trillion-single-day/"
         }
       ]
     }
@@ -324,27 +318,6 @@
     },
     {
       "rank": 4,
-      "title": "因英偉達醜聞，美國將亞洲人工智慧公司 Megaspeed 列入黑名單",
-      "summary": [
-        "BBC World：因英偉達醜聞，美國將亞洲人工智慧公司 Megaspeed 列入黑名單",
-        "Bloomberg Tech：美國將Megaspeed列入黑名單，針對英偉達危機中的關鍵參與者"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "因英偉達醜聞，美國將亞洲人工智慧公司 Megaspeed 列入黑名單",
-          "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "美國將Megaspeed列入黑名單，針對英偉達危機中的關鍵參與者",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
       "summary": [
         "Financial Times：SpaceX-特斯拉：董事們正在談判有史以來最大的合併",
@@ -365,7 +338,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "英偉達 (Nvidia) 恢復黃仁勳 (Jensen Huang) 辦公後，股市飆升",
       "summary": [
         "Bloomberg Tech：英偉達 (Nvidia) 恢復黃仁勳 (Jensen Huang) 辦公後，股市飆升",
@@ -386,7 +359,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "新加坡因人工智慧熱潮將 GDP 成長預期上調至“6% 左右”",
       "summary": [
         "Bloomberg Tech：新加坡因人工智慧熱潮將 GDP 成長預期上調至“6% 左右”",
@@ -407,7 +380,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "根據《華盛頓郵報》報道，聯邦調查局副局長將於 12 月退休",
       "summary": [
         "Investing.com：根據《華盛頓郵報》報道，聯邦調查局副局長將於 12 月退休",
@@ -428,7 +401,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Nvidia 對黃仁勳重新擔任執行長有何反應",
       "summary": [
         "BBC World：Nvidia 對黃仁勳重新擔任執行長有何反應",
@@ -449,7 +422,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "東京23區10月二手公寓價格連續5個月下跌",
       "summary": [
         "NHK新聞：東京23區10月二手公寓價格連續5個月下跌",
@@ -466,6 +439,27 @@
           "source": "Bloomberg Markets",
           "title": "東京核心二手公寓價格自 2013 年以來首次下跌",
           "url": "https://www.bloomberg.com/news/articles/2026-11-24/central-tokyo-used-condo-prices-fall-for-first-time-since-2013"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "即使在修訂提案中，歐盟的電動車激勵措施也將日本製造的汽車排除在外",
+      "summary": [
+        "Nikkei Asia：即使在修訂提案中，歐盟的電動車激勵措施也將日本製造的汽車排除在外",
+        "法廣RFI：歐盟電動汽車優惠政策修正案排除日本 日本表示關切"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "即使在修訂提案中，歐盟的電動車激勵措施也將日本製造的汽車排除在外",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUmFPLUstQ2JTVGt1Y1E1R1RtZXo2d1daQmZnck9YVTNKTEU2STVuREIyenNFSVNQM3FYYXJjSXpURlFsWDhzRWI4WjBpVEZqYmkzNWhYSm9tTGl5UFhUcUtKTS1weWFTZFo1d0EzTjBlV2NWWnlTSVJ0NWplcjlJSmVrMzRyUjN1dWs4cG9xc1NDZTZRY2xSWXFubTJOQlp0YTRhbUZUU3RFcUxESW5qd2dNNFlBMEdPbW5JYTVnVUpPQm9Cc212bGdrMzR2UQ?oc=5"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "歐盟電動汽車優惠政策修正案排除日本 日本表示關切",
+          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261124-%E6%AD%90%E7%9B%9F%E9%9B%BB%E5%8B%95%E6%B1%BD%E8%BB%8A%E5%84%AA%E6%83%A0%E6%94%BF%E7%AD%96%E4%BF%AE%E6%AD%A3%E6%A1%88%E6%8E%92%E9%99%A4%E6%97%A5%E6%9C%AC-%E6%97%A5%E6%9C%AC%E8%A1%A8%E7%A4%BA%E9%97%9C%E5%88%87"
         }
       ]
     }
