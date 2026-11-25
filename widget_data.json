@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 00:58",
+  "updated_at": "2026-11-26 01:28",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "中教大生持美工刀威脅女老師  校方禁入校園、啟動退學審議",
+      "summary": [
+        "自由時報：中教大生持美工刀威脅女老師  校方禁入校園、啟動退學審議",
+        "TVBS新聞：嗆「把老師滅了」！男大生亮美工刀逼頸 中教大：禁止該生入校擬辦退學",
+        "風傳媒：臺中教育大學美工刀事件！男大生嗆「把老師滅了」 校方宣佈禁止入校： 擬辦退學"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "中教大生持美工刀威脅女老師  校方禁入校園、啟動退學審議",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5653203"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "嗆「把老師滅了」！男大生亮美工刀逼頸 中教大：禁止該生入校擬辦退學",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00MFhGNGJ3OF82Si1kMVhQUU05cmYwV2FCcFgxcmxTOFF5dFg2U2xmM3ZJTUFPV1Q3UU5PUE44cmpqU1ZzeE9hWWFQLXYxUVE?oc=5"
+        },
+        {
+          "source": "風傳媒",
+          "title": "臺中教育大學美工刀事件！男大生嗆「把老師滅了」 校方宣佈禁止入校： 擬辦退學",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rVFhiR0xGaFhiSGtkY2JkMGNaYW9kYUdkYlhOSDNibHRjUWViTjdlYUFIS1F0aHVPYU5rTHFTTWJnMEdUSkRKNHVIVnlRV01C?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "森崴下市衝擊 富威電力砍現金股利降至1.6067元",
       "summary": [
         "自由時報：森崴下市衝擊 富威電力砍現金股利降至1.6067元",
@@ -50,70 +77,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "新北國中割喉案二審判賠1782萬 楊家：不覺得勝利、要公平正義",
-      "summary": [
-        "自由時報：新北國中割喉案二審判賠1782萬 楊家：不覺得勝利、要公平正義",
-        "公視新聞：新北國中生割頸案民事賠償改判 二審裁定加碼至1782萬"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "新北國中割喉案二審判賠1782萬 楊家：不覺得勝利、要公平正義",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5652733"
-        },
-        {
-          "source": "公視新聞",
-          "title": "新北國中生割頸案民事賠償改判 二審裁定加碼至1782萬",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WTzRtb2pkMEpseFYtODJyWDJqZ0hkWEo3V3FfYnU0Z0NEcEN4Y0FYNVZwZElOU3htZzRQTXJKWUxGd28wUkRUalhLTDM3YTA?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 4,
-      "title": "CrowdStrike以439億美元全股票收購Zscaler，認定網路安全並進Falcon平臺",
-      "summary": [
-        "INSIDE硬塞：CrowdStrike以439億美元全股票收購Zscaler，認定網路安全並進Falcon平臺",
-        "MoneyDJ理財網：資安巨擘CrowdStrike收購Zscaler，市場估值關閉- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "INSIDE硬塞",
-          "title": "CrowdStrike以439億美元全股票收購Zscaler，認定網路安全並進Falcon平臺",
-          "url": "https://www.inside.com.tw/article/43002-crowdstrike-to-acquire-zscaler-43-9-billion-usd-all-stock-network-security-falcon"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "資安巨擘CrowdStrike收購Zscaler，市場估值關閉- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc082SVhwUG1tWlJMVzZzQ3pHS0Q2Ump5QUlJVUFiWnhqQ18wVEdRbmtUSXNkemE4Y194N2Fjci1wWkdtY2tMTzZYX3dVcFZnWHZvRHI2N3ItVW9JV0R1cFlBLThBTkpMS2N2ZDZfWktRak83WDBtVUNGQmliZWowcHllQW1GNEhQRzhXMlVBRE5JZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "AI驅動藥局升級，讓服務重回主場",
-      "summary": [
-        "癮科技Cool3c：AI驅動藥局升級，讓服務重回主場",
-        "關鍵評論網：AI驅動藥局升級，讓服務重回主場"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "癮科技Cool3c",
-          "title": "AI驅動藥局升級，讓服務重回主場",
-          "url": "https://www.cool3c.com/article/254336"
-        },
-        {
-          "source": "關鍵評論網",
-          "title": "AI驅動藥局升級，讓服務重回主場",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dkR5ZWVuUmxmQ05UZ0JfS1c0N285bzNKV0J0SHFBNnp2NWthbVhndURLTE1TN3U0SS11RlMzM0lzenpqQU9TSGROaVBwQXFNT0dwbw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "督導病房整修工程索賄18萬 前國軍桃園總醫院士官長起訴",
       "summary": [
         "自由時報：督導病房整修工程索賄18萬 前國軍桃園總醫院士官長起訴",
@@ -134,7 +98,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "美國301調查將出爐　臺美經貿人士估：最終稅率「15%不疊加」",
       "summary": [
         "ETtoday：美國301調查將出爐　臺美經貿人士估：最終稅率「15%不疊加」",
@@ -155,7 +119,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "林心如遭瞎爆脾氣壞！　御用妝髮師打臉：你工作3年，化得到她？",
       "summary": [
         "ETtoday：林心如遭瞎爆脾氣壞！　御用妝髮師打臉：你工作3年，化得到她？",
@@ -176,7 +140,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "AI 投資撐盤美股不改多頭格局  明年有望再漲 13%",
       "summary": [
         "科技新報：AI 投資撐盤美股不改多頭格局  明年有望再漲 13%",
@@ -197,7 +161,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "星巴克據悉聘請銀行為可能出售日本業務做準備",
       "summary": [
         "經濟日報：星巴克據悉聘請銀行為可能出售日本業務做準備",
@@ -216,11 +180,90 @@
           "url": "https://ec.ltn.com.tw/article/breakingnews/5652968"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "分析師示警記憶體供應過剩風險  大砍美光目標價",
+      "summary": [
+        "科技新報：分析師示警記憶體供應過剩風險  大砍美光目標價",
+        "MoneyDJ理財網：分析師示警記憶體供應過剩風險大砍美光目標價- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "分析師示警記憶體供應過剩風險  大砍美光目標價",
+          "url": "https://finance.technews.tw/2026/11/25/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "分析師示警記憶體供應過剩風險大砍美光目標價- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGU0d1JiOWR1NjA3aWxzLXZZLWdjUlJJSmhOWkJpWm5qUFVMb2tBMS03SjhSNEtQMDQtbHNBZmtvVjhoWFBKV0pPTWxRWlZ5cEsxZHU0RDNHbDRiOVBsdmFVcG5QMXRqUzVDcFBpeUJKdlRpblNiVTMtaEZLOVFFSXFYcnI2Sm1KRXluTHV2b3kwUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "CBS：黃仁勳捲國安疑雲仍持安全許可　美政府曾討論撤銷",
+      "summary": [
+        "經濟日報：CBS：黃仁勳捲國安疑雲仍持安全許可　美政府曾討論撤銷",
+        "ETtoday：捲共諜案！黃仁勳爆仍持「美國安全許可」　政府曾討論撤銷"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "CBS：黃仁勳捲國安疑雲仍持安全許可　美政府曾討論撤銷",
+          "url": "https://money.udn.com/money/story/5599/9901064"
+        },
+        {
+          "source": "ETtoday",
+          "title": "捲共諜案！黃仁勳爆仍持「美國安全許可」　政府曾討論撤銷",
+          "url": "https://www.ettoday.net/news/20261125/3278274.htm"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
+      "summary": [
+        "Bloomberg Markets：由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
+        "WSJ Markets：今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑",
+        "Investing.com：人工智慧股票因對基礎設施建設成本的擔憂而下滑"
+      ],
+      "media_count": 5,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main"
+        },
+        {
+          "source": "Investing.com",
+          "title": "人工智慧股票因對基礎設施建設成本的擔憂而下滑",
+          "url": "https://www.investing.com/news/stock-market-news/ai-stocks-slide-on-fears-over-infrastructure-buildout-costs-5050519"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "隨著美國新關稅的臨近，世界股市下跌，人工智慧反彈失敗",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFdBa09BUFRidnFKcTFWQkJCb1R2Smh3ZjJ0NkdvMFE1WkdEUklRdzUyZmhFWHgyUHRIS3prWmJQRFlYNGpLSHJ6OThoZVEyWmVDV0NxRTZHblh2cXc4Q0l4MkZXRm83amRNc1l3Qk95UHZJeFpfUENWNTdlLW9sakhBV013cGJicjYxU0pkMlQ4M0tWcTh3dVg5dVJhMzlF?oc=5"
+        },
+        {
+          "source": "BBC World",
+          "title": "由於對人工智慧的擔憂加劇，美股進一步下跌",
+          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "隨著英偉達的反彈掩蓋了大型科技支出緊縮，人工智慧債務擔憂加劇",
       "summary": [
         "CNBC：隨著英偉達的反彈掩蓋了大型科技支出緊縮，人工智慧債務擔憂加劇",
@@ -247,12 +290,12 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "美國擬對中國、歐盟等14個貿易夥伴加徵新關稅",
       "summary": [
         "CNBC：美國擬對中國、歐盟等14個貿易夥伴加徵新關稅",
         "法廣RFI：特朗普政府提對14個貿易夥伴加徵新關稅：對中國稅率為20%",
-        "Yahoo Finance：美國宣佈對中國、歐盟和其他12個國家徵收高達20%的新關稅"
+        "Nikkei Asia：川普提議對中國、日本、印度等14個合作夥伴徵收新關稅"
       ],
       "media_count": 3,
       "links": [
@@ -267,14 +310,14 @@
           "url": "https://www.rfi.fr/tw/%E7%B6%93%E8%B2%BF/20261125-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%8F%90%E5%B0%8D14%E5%80%8B%E8%B2%BF%E6%98%93%E5%A4%A5%E4%BC%B4%E5%8A%A0%E5%BE%81%E6%96%B0%E9%97%9C%E7%A8%85-%E5%B0%8D%E8%8F%AF%E7%A8%85%E7%8E%87%E7%82%BA20"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "美國宣佈對中國、歐盟和其他12個國家徵收高達20%的新關稅",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUU1FZDY5UnlETEhNeFdMUGJEOUpJWUh2TTRVU2pYa1NIaWJPZmIxZTVOZ3MyOU1kUmk4RXluQThXd0lnbWJJcGNPbzlLYnFrZHI4R094VnB2UHVCdjFDRmNleVNZT1pxTUJxdzFWdWkzS29senQ0WGRRZmxKcjZ3NThMemZSQzJEX2JxcVRrczF4ZlpHOUt0TGlMSGVPSE1seWo2bXluSjhJME1oa2Ytd0l6N0UxWXB5S3E4X2RaZDV3V2RpbVNicUR3?oc=5"
+          "source": "Nikkei Asia",
+          "title": "川普提議對中國、日本、印度等14個合作夥伴徵收新關稅",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdjRHdUY0ZEUwQ3o2c3h3Y1JBQUMxTEdyYkxjR09VZElUUXR6aUZIVXBNZkNXYldnQjVuOWptcUZZbExXMXJwZ1E2OWJ2eGd3WjJxdm5DQWpac3NnOEdQNlhzY1UzbkYta3VkbzNQQ1FyR1lUN0dZZ3p3ZzZQdEI4RDJZdy12TjhwOGUxeVN1bEtMYUtLZGJlOGQza0cwS2w3QzZPelVaWF9CN2k5VG5JdEEzN0VEMGphb3JVNkNjaG1DZ3lvQ3gw?oc=5"
         }
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "歐盟計畫設立500億歐元科技基金以縮小與美國和中國的差距",
       "summary": [
         "Financial Times：歐盟計畫設立500億歐元科技基金以縮小與美國和中國的差距",
@@ -295,7 +338,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "沙烏地阿拉伯與胡塞武裝的戰鬥愈演愈烈",
       "summary": [
         "Bloomberg Markets：沙烏地阿拉伯與胡塞武裝的戰鬥愈演愈烈",
@@ -316,7 +359,28 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "中國將首位外國公民——巴基斯坦飛行員送入太空站",
+      "summary": [
+        "Nikkei Asia：中國將首位外國公民——巴基斯坦飛行員送入太空站",
+        "BBC World：中國太空任務升空，首位巴基斯坦太空人登上太空"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "中國將首位外國公民——巴基斯坦飛行員送入太空站",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORXJ2MUEzeUxYMVBUTkx6empwajd6eWllMmVpMEhrb2xQVWx6azZLeTJwcWt6Nm1BRVFNVXlwamV1UUZzNmV2czNBM09HMjdoNlE3ZS1ZOFF3T3VUeGFjWmtGa01lV3ludWJYSjktZjBlWk5pazlPNDBnd2FnTzVTb1ZPNFdlaE50TGFiOUR4Yk54Sk5tMTc3aTRXZmNVWUFQb3FtakdHRDNpdTNwazZzTy04UUplWTVJcUp3TjlNSXlnQWhqQVJxdk5ZOGh2VDRz?oc=5"
+        },
+        {
+          "source": "BBC World",
+          "title": "中國太空任務升空，首位巴基斯坦太空人登上太空",
+          "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "中國斥美國關稅前景為“政治操縱”",
       "summary": [
         "Bloomberg Markets：中國斥美國關稅前景為“政治操縱”",
@@ -337,28 +401,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
-      "summary": [
-        "Bloomberg Markets：由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
-        "Investing.com：人工智慧股票因對基礎設施建設成本的擔憂而下滑"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses"
-        },
-        {
-          "source": "Investing.com",
-          "title": "人工智慧股票因對基礎設施建設成本的擔憂而下滑",
-          "url": "https://www.investing.com/news/stock-market-news/ai-stocks-slide-on-fears-over-infrastructure-buildout-costs-5050519"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "title": "沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
       "summary": [
         "Investing.com：沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
@@ -375,27 +418,6 @@
           "source": "TechCrunch",
           "title": "由於 IPO 不確定性，Flipkart 執行長 Kalyan Krishnamurthy 將於下週辭職",
           "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑",
-      "summary": [
-        "WSJ Markets：今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑",
-        "Yahoo Finance：隨著美國新關稅的臨近，世界股市下跌，人工智慧反彈失敗"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "WSJ Markets",
-          "title": "今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "隨著美國新關稅的臨近，世界股市下跌，人工智慧反彈失敗",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFdBa09BUFRidnFKcTFWQkJCb1R2Smh3ZjJ0NkdvMFE1WkdEUklRdzUyZmhFWHgyUHRIS3prWmJQRFlYNGpLSHJ6OThoZVEyWmVDV0NxRTZHblh2cXc4Q0l4MkZXRm83amRNc1l3Qk95UHZJeFpfUENWNTdlLW9sakhBV013cGJicjYxU0pkMlQ4M0tWcTh3dVg5dVJhMzlF?oc=5"
         }
       ]
     },
