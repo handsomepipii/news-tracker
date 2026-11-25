@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 05:57",
+  "updated_at": "2026-11-26 06:27",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "美媒：盧比歐憂輝達不利對中政策　向川普示警國安威脅",
+      "summary": [
+        "自由時報：美媒：盧比歐憂輝達不利對中政策　向川普示警國安威脅",
+        "經濟日報：美媒：盧比歐憂輝達不利對中政策　向川普示警國安威脅",
+        "ETtoday：盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美媒：盧比歐憂輝達不利對中政策　向川普示警國安威脅",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5653594"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美媒：盧比歐憂輝達不利對中政策　向川普示警國安威脅",
+          "url": "https://money.udn.com/money/story/5599/9902447"
+        },
+        {
+          "source": "ETtoday",
+          "title": "盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
+          "url": "https://www.ettoday.net/news/20261126/3278609.htm"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "森崴下市衝擊 富威電力砍現金股利降至1.6067元",
       "summary": [
         "自由時報：森崴下市衝擊 富威電力砍現金股利降至1.6067元",
@@ -50,7 +77,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
       "summary": [
         "自由時報：重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
@@ -71,49 +98,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "選前之夜還沒到路先封4天！仁愛路交管惹民怨 沈伯洋致歉：已打給周邊6位裡長 | 蕭宥宸 | 新聞",
-      "summary": [
-        "風傳媒：選前之夜還沒到路先封4天！仁愛路交管惹民怨 沈伯洋致歉：已打給周邊6位裡長 | 蕭宥宸 | 新聞",
-        "自由時報：選前之夜仁愛路周邊封4天惹怨 沈伯洋致歉：協調縮小管制區域"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "風傳媒",
-          "title": "選前之夜還沒到路先封4天！仁愛路交管惹民怨 沈伯洋致歉：已打給周邊6位裡長 | 蕭宥宸 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tR3p5S3k3ZWNWR0R6RkYtYnVXSnlidUVOYTV1dk0xZzctSmVjWFJvNTU3WGo1QlA5Sk1SczZCQUFRVlRLYWRNQWNzSE1OZw?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "選前之夜仁愛路周邊封4天惹怨 沈伯洋致歉：協調縮小管制區域",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653395"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "嗆「把老師滅了」！男大生亮美工刀逼頸 中教大：禁止該生入校擬辦退學",
-      "summary": [
-        "TVBS新聞：嗆「把老師滅了」！男大生亮美工刀逼頸 中教大：禁止該生入校擬辦退學",
-        "風傳媒：臺中教育大學美工刀事件！男大生嗆「把老師滅了」 校方宣佈禁止入校： 擬辦退學"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "嗆「把老師滅了」！男大生亮美工刀逼頸 中教大：禁止該生入校擬辦退學",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00MFhGNGJ3OF82Si1kMVhQUU05cmYwV2FCcFgxcmxTOFF5dFg2U2xmM3ZJTUFPV1Q3UU5PUE44cmpqU1ZzeE9hWWFQLXYxUVE?oc=5"
-        },
-        {
-          "source": "風傳媒",
-          "title": "臺中教育大學美工刀事件！男大生嗆「把老師滅了」 校方宣佈禁止入校： 擬辦退學",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rVFhiR0xGaFhiSGtkY2JkMGNaYW9kYUdkYlhOSDNibHRjUWViTjdlYUFIS1F0aHVPYU5rTHFTTWJnMEdUSkRKNHVIVnlRV01C?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "學者：ART護臺灣301稅率不逾15％ 保持相對競爭力",
       "summary": [
         "自由時報：學者：ART護臺灣301稅率不逾15％ 保持相對競爭力",
@@ -134,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "何欣純遭影射賄選一票2千5　網友脆上亂發文造謠被抓到了",
       "summary": [
         "ETtoday：何欣純遭影射賄選一票2千5　網友脆上亂發文造謠被抓到了",
@@ -155,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "建通看好明年獲利成長 特殊新型銅材營收比重衝5成",
       "summary": [
         "鉅亨網：建通看好明年獲利成長 特殊新型銅材營收比重衝5成",
@@ -176,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "王世堅喊讓沈伯洋當史上最高票市長 4年後接棒總統賴清德",
       "summary": [
         "自由時報：王世堅喊讓沈伯洋當史上最高票市長 4年後接棒總統賴清德",
@@ -197,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "威健國內第八次無擔保轉換債完成訂價，每股35.29元",
       "summary": [
         "公開資訊觀測站重訊：威健國內第八次無擔保轉換債完成訂價，每股35.29元",
@@ -214,6 +199,27 @@
           "source": "MoneyDJ理財網",
           "title": "威健國內第八次無擔保轉換債完成訂價，每股35.29元",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemJ4V3RvX2RJeU5UWFZmTlJBUUEtY1o2RVNhWWFRX29ZOWhDSlhsZ0xQTUVRNktSR3N5dXl3SlkxaHlablpsV3VPb1dJRW50TndyX0I4VmtKcWlVbFdad0pJamxRb2JnZ0dlTnJtOFpOTWh6WmdjcXVaVWhfTlROMTBVT04yd1ZVWHhFMUpXbi1EUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元- 新聞",
+      "summary": [
+        "MoneyDJ理財網：昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元- 新聞",
+        "公開資訊觀測站重訊：昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "MoneyDJ理財網",
+          "title": "昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUms4RVBMaDBvUFhYR0wtakZUb2VXV0Q4bEZJSVZTaEd6N3ZXVWxkeUFaQUctS1M5ajloOGRRaDNHZlBleWZkc0E4QU5CU2tYU0hmdmt1YndvWm9La3FWTWp3ZUt5ZVNUTDF2TzhlbDdUblNna21uUHBoZ0hOdGpZX0JCa1V1ekFOb3NuY1JWUEo5QQ?oc=5"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWFROVBMWnM3aDhpRTBsTm9qWTdyeU5LNDFQbEluNEN0VS04cEVaNjVtU1ZscmxiNC1oUW9iaTFaaEVtSXc0NHZ5RnJsd0hGREM4ZUNiS2psVWF1WFVld0FDb3BMMkhEUmMta0ZzcHVZZy03azBnamQ3eS1fTUNfTE91RlA3bkVma25ldld4Z2Y0UQ?oc=5"
         }
       ]
     }
@@ -317,27 +323,6 @@
     },
     {
       "rank": 4,
-      "title": "今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑",
-      "summary": [
-        "WSJ Markets：今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑",
-        "Yahoo Finance：隨著美國新關稅的臨近，世界股市下跌，人工智慧反彈失敗"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "WSJ Markets",
-          "title": "今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "隨著美國新關稅的臨近，世界股市下跌，人工智慧反彈失敗",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFdBa09BUFRidnFKcTFWQkJCb1R2Smh3ZjJ0NkdvMFE1WkdEUklRdzUyZmhFWHgyUHRIS3prWmJQRFlYNGpLSHJ6OThoZVEyWmVDV0NxRTZHblh2cXc4Q0l4MkZXRm83amRNc1l3Qk95UHZJeFpfUENWNTdlLW9sakhBV013cGJicjYxU0pkMlQ4M0tWcTh3dVg5dVJhMzlF?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
       "summary": [
         "BBC World：美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
@@ -358,7 +343,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "南非拉馬福薩贏得彈劾威脅法庭訴訟",
       "summary": [
         "BBC World：南非拉馬福薩贏得彈劾威脅法庭訴訟",
@@ -379,7 +364,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "密西西比海岸飛機失事後六人中的兩名兒童死亡",
       "summary": [
         "BBC World：密西西比海岸飛機失事後六人中的兩名兒童死亡",
@@ -400,7 +385,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "人工智慧交易陷入困境，納斯達克 100 指數將進入熊市",
       "summary": [
         "Bloomberg Markets：人工智慧交易陷入困境，納斯達克 100 指數將進入熊市",
@@ -421,7 +406,49 @@
       ]
     },
     {
+      "rank": 8,
+      "title": "邁克爾·伯裡 (Michael Burry) 出售剩餘的納斯達克 100 看跌期權，稱投資組合為多頭",
+      "summary": [
+        "Investing.com：邁克爾·伯裡 (Michael Burry) 出售剩餘的納斯達克 100 看跌期權，稱投資組合為多頭",
+        "Yahoo Finance：邁克爾·伯裡 (Michael Burry) 出售剩餘的納斯達克 100 看跌期權，關注近 200 美元的英偉達空頭：“我做多被低估的普通股”"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "邁克爾·伯裡 (Michael Burry) 出售剩餘的納斯達克 100 看跌期權，稱投資組合為多頭",
+          "url": "https://www.investing.com/news/stock-market-news/michael-burry-sells-remaining-nasdaq-100-puts-says-portfolio-is-long-5051231"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "邁克爾·伯裡 (Michael Burry) 出售剩餘的納斯達克 100 看跌期權，關注近 200 美元的英偉達空頭：“我做多被低估的普通股”",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa24yNldmdm9ka0ZMV3lCenF3S0RjMmduUVZmdGRoTFN5S0xHNUdOQzhUY2JTV2JiQnYzN1p3S3FRdDlnb2p3TmlMVnpzQlRxVXpybVdWdk92bFNxZlFJT3IyOHlVT1VLOEM3SEwzLXJtbVBDRjlzOE9zODJ2eUlmVHhTdzN5OGJiSVBmOXk0bW9PUTU4RjFDUGxfcXYwYnhNRVdGRg?oc=5"
+        }
+      ]
+    },
+    {
       "rank": 9,
+      "title": "1Password稱駭客侵入其內部系統，但客戶密碼是安全的",
+      "summary": [
+        "TechCrunch：1Password稱駭客侵入其內部系統，但客戶密碼是安全的",
+        "Bloomberg Tech：1Password 表示駭客存取了使用者資料，密碼仍然安全"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "1Password稱駭客侵入其內部系統，但客戶密碼是安全的",
+          "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "1Password 表示駭客存取了使用者資料，密碼仍然安全",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/1password-says-hacker-accessed-user-data-passwords-remain-safe"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "北韓因制裁驅逐瑞士外交官",
       "summary": [
         "BBC World：北韓因制裁驅逐瑞士外交官",
@@ -438,27 +465,6 @@
           "source": "法廣RFI",
           "title": "朝鮮驅逐瑞士外交辦事處代表",
           "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261125-%E6%9C%9D%E9%AE%AE%E9%A9%85%E9%80%90%E7%91%9E%E5%A3%AB%E5%A4%96%E4%BA%A4%E8%BE%A6%E4%BA%8B%E8%99%95%E4%BB%A3%E8%A1%A8"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "隨著英偉達恢復漲勢消退，股市持續下跌",
-      "summary": [
-        "Bloomberg Markets：隨著英偉達恢復漲勢消退，股市持續下跌",
-        "WSJ Markets：瘋狂交易後股市收低"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "隨著英偉達恢復漲勢消退，股市持續下跌",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-continue-fall-as-nvidia-reinstatement-rally-fades"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "瘋狂交易後股市收低",
-          "url": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main"
         }
       ]
     }
