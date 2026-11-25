@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 03:27",
+  "updated_at": "2026-11-26 03:58",
   "taiwan": [
     {
       "rank": 1,
@@ -78,69 +78,6 @@
     },
     {
       "rank": 4,
-      "title": "賴清德將再赴桃園站臺 黃世傑南桃園造勢晚會明登場",
-      "summary": [
-        "自由時報：賴清德將再赴桃園站臺 黃世傑南桃園造勢晚會明登場",
-        "經濟日報：臺日藝術跨越疆界　「視界交錯」美術交流展東京登場"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "賴清德將再赴桃園站臺 黃世傑南桃園造勢晚會明登場",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5652986"
-        },
-        {
-          "source": "經濟日報",
-          "title": "臺日藝術跨越疆界　「視界交錯」美術交流展東京登場",
-          "url": "https://money.udn.com/money/story/5599/9901399"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "葡萄王集團不到一個月兩度受委外廠商資安事件波及，子公司葡眾接獲統一資訊通知，加密會員資料遭異常存取",
-      "summary": [
-        "iThome：葡萄王集團不到一個月兩度受委外廠商資安事件波及，子公司葡眾接獲統一資訊通知，加密會員資料遭異常存取",
-        "公開資訊觀測站重訊：葡萄王集團不到一個月兩度受委外廠商資安事件波及，子公司葡眾接獲統一資訊通知，加密會員資料遭異常存取"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "葡萄王集團不到一個月兩度受委外廠商資安事件波及，子公司葡眾接獲統一資訊通知，加密會員資料遭異常存取",
-          "url": "https://www.ithome.com.tw/news/180795"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "葡萄王集團不到一個月兩度受委外廠商資安事件波及，子公司葡眾接獲統一資訊通知，加密會員資料遭異常存取",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uSjlRTXUtdDZsSGNic2xnWWpNb2hoanE0c3lXSGdvb2NTNld1T0dsdjVNSFYzb1pycWxieGJOVHJqQ29rcmo2Vm9jOVVMdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "輝達晶片走私新線索！路透：黃樂關聯企業在中國涉足2.7億美元AI裝置",
-      "summary": [
-        "經濟日報：輝達晶片走私新線索！路透：黃樂關聯企業在中國涉足2.7億美元AI裝置",
-        "風傳媒：黃樂「輝達走私網路」曝光？路透揭密：家族關係企業幫中國引進2.7億美元AI裝置 | 張大任 | 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "輝達晶片走私新線索！路透：黃樂關聯企業在中國涉足2.7億美元AI裝置",
-          "url": "https://money.udn.com/money/story/5599/9901363"
-        },
-        {
-          "source": "風傳媒",
-          "title": "黃樂「輝達走私網路」曝光？路透揭密：家族關係企業幫中國引進2.7億美元AI裝置 | 張大任 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCRUhIb29LQWhfYW5RRGhpWVdkYi1ZSFpkUWx2elVHVFpwa1R0QWc3MldhRFlFeGc1TGJwbWdiVFA0S3VpS3I5aTIzUnVkZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "歐盟擬設立500億歐元科技基金　設法縮小與美中差距",
       "summary": [
         "經濟日報：歐盟擬設立500億歐元科技基金　設法縮小與美中差距",
@@ -161,7 +98,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "韓國防堵AI作弊　擬試卷中嵌入提示指令及浮水印",
       "summary": [
         "經濟日報：韓國防堵AI作弊　擬試卷中嵌入提示指令及浮水印",
@@ -182,7 +119,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "選前之夜還沒到路先封4天！仁愛路交管惹民怨 沈伯洋致歉：已打給周邊6位裡長 | 蕭宥宸 | 新聞",
       "summary": [
         "風傳媒：選前之夜還沒到路先封4天！仁愛路交管惹民怨 沈伯洋致歉：已打給周邊6位裡長 | 蕭宥宸 | 新聞",
@@ -203,7 +140,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "學者：ART護臺灣301稅率不逾15％ 保持相對競爭力",
       "summary": [
         "自由時報：學者：ART護臺灣301稅率不逾15％ 保持相對競爭力",
@@ -220,6 +157,69 @@
           "source": "ETtoday",
           "title": "臺灣301關稅列「最低階別15%不疊加」　臺美經貿小組：努力鞏固談判結果",
           "url": "https://www.ettoday.net/news/20261126/3278590.htm"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "何欣純遭影射賄選一票2千5　網友脆上亂發文造謠被抓到了",
+      "summary": [
+        "ETtoday：何欣純遭影射賄選一票2千5　網友脆上亂發文造謠被抓到了",
+        "自由時報：一票2500？Threads影射何欣純賄選 臺中男散佈假訊息被逮了"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "何欣純遭影射賄選一票2千5　網友脆上亂發文造謠被抓到了",
+          "url": "https://www.ettoday.net/news/20261125/3278517.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "一票2500？Threads影射何欣純賄選 臺中男散佈假訊息被逮了",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653399"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "建通看好明年獲利成長 特殊新型銅材營收比重衝5成",
+      "summary": [
+        "鉅亨網：建通看好明年獲利成長 特殊新型銅材營收比重衝5成",
+        "MoneyDJ理財網：建通明年銅材營收貢獻衝五成；微通道產品小量交貨- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "鉅亨網",
+          "title": "建通看好明年獲利成長 特殊新型銅材營收比重衝5成",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sVFlrTXhmV1FvRmFmbDV1aW1ldUhBcHMtNHBqTzdBZFNUbER1bWxxT1RBTWl5enk2LTNqQmtVZktjUUpYRHF3RTFFNlpuLVU?oc=5"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "建通明年銅材營收貢獻衝五成；微通道產品小量交貨- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRDNtVFY4YnBabnVxRVNPT043Qkh0U2xHRWw5QkhpYXVMUEgyUkcyVjc4SWRpd3dWWHFGaUx5bW5HSzAyb1hOZEZCdXFqUUh1c3k1bzJVbGl1QUJLX01mRmYwcWJXWmJ3MEtWYzVVakNhT0tUTHl6VFo2Zl9aRlNqd2V6cHNGUlJWN2U5cFFkdGVzdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "王世堅喊讓沈伯洋當史上最高票市長 4年後接棒總統賴清德",
+      "summary": [
+        "自由時報：王世堅喊讓沈伯洋當史上最高票市長 4年後接棒總統賴清德",
+        "ETtoday：王世堅嗨喊讓沈伯洋成為史上最高票市長　4年後接棒賴清德"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "王世堅喊讓沈伯洋當史上最高票市長 4年後接棒總統賴清德",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653433"
+        },
+        {
+          "source": "ETtoday",
+          "title": "王世堅嗨喊讓沈伯洋成為史上最高票市長　4年後接棒賴清德",
+          "url": "https://www.ettoday.net/news/20261125/3278548.htm"
         }
       ]
     }
@@ -323,27 +323,6 @@
     },
     {
       "rank": 4,
-      "title": "由於制裁，北韓要求瑞士外交機構代表離開該國",
-      "summary": [
-        "NHK新聞：由於制裁，北韓要求瑞士外交機構代表離開該國",
-        "BBC World：北韓因制裁驅逐瑞士外交官"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "由於制裁，北韓要求瑞士外交機構代表離開該國",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261125de81219"
-        },
-        {
-          "source": "BBC World",
-          "title": "北韓因制裁驅逐瑞士外交官",
-          "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "中國斥美國關稅前景為“政治操縱”",
       "summary": [
         "Bloomberg Markets：中國斥美國關稅前景為“政治操縱”",
@@ -364,7 +343,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
       "summary": [
         "Investing.com：沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
@@ -385,7 +364,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "神舟二十四號成功發射 首位巴基斯坦航天員登中國「天宮」意味什麼？",
       "summary": [
         "BBC中文：神舟二十四號成功發射 首位巴基斯坦航天員登中國「天宮」意味什麼？",
@@ -406,7 +385,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑",
       "summary": [
         "WSJ Markets：今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑",
@@ -427,7 +406,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
       "summary": [
         "BBC World：美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
@@ -448,7 +427,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "南非拉馬福薩贏得彈劾威脅法庭訴訟",
       "summary": [
         "BBC World：南非拉馬福薩贏得彈劾威脅法庭訴訟",
@@ -465,6 +444,27 @@
           "source": "Financial Times",
           "title": "南非拉馬福薩贏得阻止彈劾的鬥爭",
           "url": "https://www.ft.com/content/e8081338-7139-4fcb-9643-73079d4913c4?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "隨著人工智慧擔憂持續存在，科技股遭遇拋售",
+      "summary": [
+        "Bloomberg Markets：隨著人工智慧擔憂持續存在，科技股遭遇拋售",
+        "CNBC：隨著黃仁勳復出集會失敗以及人工智慧擔憂捲土重來，英偉達引領科技股拋售"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "隨著人工智慧擔憂持續存在，科技股遭遇拋售",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-25/the-opening-trade-11-25-2026-video"
+        },
+        {
+          "source": "CNBC",
+          "title": "隨著黃仁勳復出集會失敗以及人工智慧擔憂捲土重來，英偉達引領科技股拋售",
+          "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
         }
       ]
     }
