@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 19:57",
+  "updated_at": "2026-11-25 20:31",
   "taiwan": [
     {
       "rank": 1,
@@ -62,27 +62,6 @@
     },
     {
       "rank": 3,
-      "title": "快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
-      "summary": [
-        "ETtoday：快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
-        "科技新報：川普稱必要時願意特赦輝達執行長黃仁勳"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
-          "url": "https://www.ettoday.net/news/20261125/3277972.htm"
-        },
-        {
-          "source": "科技新報",
-          "title": "川普稱必要時願意特赦輝達執行長黃仁勳",
-          "url": "https://finance.technews.tw/2026/11/25/trump-says-he-would-be-willing-to-pardon-nvidia-ceo-jensen-huang-if-necessary/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "美陪審團判華為10項罪名成立　共謀從事組織犯罪無罪",
       "summary": [
         "經濟日報：美陪審團判華為10項罪名成立　共謀從事組織犯罪無罪",
@@ -103,7 +82,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "新北國中生割頸案二審判加重賠償1782萬！乾哥、乾妹聽判表情曝",
       "summary": [
         "自由時報：新北國中生割頸案二審判加重賠償1782萬！乾哥、乾妹聽判表情曝",
@@ -124,107 +103,128 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "臺股剉咧等！韓股暴跌逾5％ 日經狂瀉逾1400點",
+      "rank": 5,
+      "title": "臺積電暴跌140元史上第2慘！指數狂瀉逾2000點",
       "summary": [
-        "自由時報：臺股剉咧等！韓股暴跌逾5％ 日經狂瀉逾1400點",
-        "經濟日報：韓股開盤又大跌5%觸發熔斷 日股也殺低 美股期指低迷"
+        "自由時報：臺積電暴跌140元史上第2慘！指數狂瀉逾2000點",
+        "中時新聞：臺股史詩級暴跌！指數狂瀉3400點、臺積電殺210元 創史上第2慘"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "臺股剉咧等！韓股暴跌逾5％ 日經狂瀉逾1400點",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5652348"
+          "title": "臺積電暴跌140元史上第2慘！指數狂瀉逾2000點",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5652412"
         },
         {
+          "source": "中時新聞",
+          "title": "臺股史詩級暴跌！指數狂瀉3400點、臺積電殺210元 創史上第2慘",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IbjYxa3l2Y0tIT1VzUU5zVVY0aV85cWd1cmExczNTNHl4dnFLX1E1QjYwYndfTk01MHlCanpIaG5FWTlfdF84Z01KdXBaaUNBSklSM1ZDMVFhLXg4R1lDblUtS1BJRndkc0tvU21R?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "黃仁勳復任國會嚴陣以待　民主黨參院領袖控違反出口管制",
+      "summary": [
+        "經濟日報：黃仁勳復任國會嚴陣以待　民主黨參院領袖控違反出口管制",
+        "科技新報：黃仁勳復任國會嚴陣以待，民主黨參院領袖控違反出口管制"
+      ],
+      "media_count": 2,
+      "links": [
+        {
           "source": "經濟日報",
-          "title": "韓股開盤又大跌5%觸發熔斷 日股也殺低 美股期指低迷",
-          "url": "https://money.udn.com/money/story/5599/9900171"
+          "title": "黃仁勳復任國會嚴陣以待　民主黨參院領袖控違反出口管制",
+          "url": "https://money.udn.com/money/story/5599/9900194"
+        },
+        {
+          "source": "科技新報",
+          "title": "黃仁勳復任國會嚴陣以待，民主黨參院領袖控違反出口管制",
+          "url": "https://technews.tw/2026/11/25/schumer-accuses-nvidia-ceo-of-violating-us-export-control-law/"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "11級狂風吹落「血滴子」鐵片 恆春女下班險遭砸中！",
+      "title": "黃仁勳外遇對比羅大佑言論　作家：臺灣呈現雙標景象",
       "summary": [
-        "自由時報：11級狂風吹落「血滴子」鐵片 恆春女下班險遭砸中！",
-        "ETtoday：11級落山風颳起血滴子！大片鐵皮凌空墜地...下班女驚險逃劫"
+        "ETtoday：黃仁勳外遇對比羅大佑言論　作家：臺灣呈現雙標景象",
+        "中時新聞：高雄半年3師離世 工會抗議陳其邁未現身 謝寒冰：換在臺北閃得掉？"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "11級狂風吹落「血滴子」鐵片 恆春女下班險遭砸中！",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5652341"
+          "source": "ETtoday",
+          "title": "黃仁勳外遇對比羅大佑言論　作家：臺灣呈現雙標景象",
+          "url": "https://www.ettoday.net/news/20261125/3278032.htm"
         },
         {
-          "source": "ETtoday",
-          "title": "11級落山風颳起血滴子！大片鐵皮凌空墜地...下班女驚險逃劫",
-          "url": "https://www.ettoday.net/news/20261125/3278087.htm"
+          "source": "中時新聞",
+          "title": "高雄半年3師離世 工會抗議陳其邁未現身 謝寒冰：換在臺北閃得掉？",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wMVdyUjFWd3VEWGdSOFZyaUFzWWpNSXRuQmlNdllmU3dxNnpJLUxkeERabGpBejY0ejBjX05tVkN5clF3S0MySDV3ZUlZQmJsNW5TVUl0cFRSakEwQ09hQlBycFo1RmtoeFFqeElR?oc=5"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "茵聲勾手摟腰全被拍  爆有新歡甜蜜約會金髮男",
+      "title": "馬斯克坦言 AI「競爭失利」：SpaceX 轉當算力房東，Anthropic 每月租金 31 億美元",
       "summary": [
-        "自由時報：茵聲勾手摟腰全被拍  爆有新歡甜蜜約會金髮男",
-        "ETtoday：茵聲爆新歡「甜蜜約會金髮男」！勾手摟腰全被拍　凌晨接送回香閨"
+        "科技新報：馬斯克坦言 AI「競爭失利」：SpaceX 轉當算力房東，Anthropic 每月租金 31 億美元",
+        "INSIDE硬塞：馬斯克坦承 SpaceX AI 競爭落後！出租算力比自研 Grok 更賺錢"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "茵聲勾手摟腰全被拍  爆有新歡甜蜜約會金髮男",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5652327"
+          "source": "科技新報",
+          "title": "馬斯克坦言 AI「競爭失利」：SpaceX 轉當算力房東，Anthropic 每月租金 31 億美元",
+          "url": "https://technews.tw/2026/11/25/musk-told-spacex-staff-the-company-was-failing-to-compete-on-ai/"
         },
         {
-          "source": "ETtoday",
-          "title": "茵聲爆新歡「甜蜜約會金髮男」！勾手摟腰全被拍　凌晨接送回香閨",
-          "url": "https://star.ettoday.net/news/3277970"
+          "source": "INSIDE硬塞",
+          "title": "馬斯克坦承 SpaceX AI 競爭落後！出租算力比自研 Grok 更賺錢",
+          "url": "https://www.inside.com.tw/article/42999-spacex-ai-compute-rental-anthropic-google-grok"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "10重點一次看！　黃仁勳回歸「首場員工大會」認錯道歉",
+      "title": "AI 伺服器賣翻  戴爾 Q3 超旺、營收翻倍創新高",
       "summary": [
-        "ETtoday：10重點一次看！　黃仁勳回歸「首場員工大會」認錯道歉",
-        "財訊：黃仁勳在重返輝達的第一場員工會議上道歉 談到接班人規劃時他這樣說"
+        "科技新報：AI 伺服器賣翻  戴爾 Q3 超旺、營收翻倍創新高",
+        "MoneyDJ理財網：AI伺服器賣翻戴爾Q3超旺、營收翻倍創新高- 新聞"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "10重點一次看！　黃仁勳回歸「首場員工大會」認錯道歉",
-          "url": "https://www.ettoday.net/news/20261125/3277969.htm"
+          "source": "科技新報",
+          "title": "AI 伺服器賣翻  戴爾 Q3 超旺、營收翻倍創新高",
+          "url": "https://finance.technews.tw/2026/11/25/dell-q3-revenue-doubles-to-a-record-high/"
         },
         {
-          "source": "財訊",
-          "title": "黃仁勳在重返輝達的第一場員工會議上道歉 談到接班人規劃時他這樣說",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ON0xHR0Z4bE11X0YyTUVsTE4xR3llckpfSHJaX1BIeVZKQXQyMy0zNnlIRHR6N0pSVmtQSzg1TFhlYU9TbS1odDZmMlBEWEpia1VBeGt3NDZ0QWxGb2w4dC1Ia1Q4SE1wQVF6X01rSFowTkY0VV9xT2NERQ?oc=5"
+          "source": "MoneyDJ理財網",
+          "title": "AI伺服器賣翻戴爾Q3超旺、營收翻倍創新高- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkpyTDRRRHFBWC1jMl9VS24wcF9aVUxIcUs5dXd3TDU3bjczOE1xZzFPZ0loOHY4Yzd1NWhlRHhnTm5GdzJtdFpCNFk2V3RoanBNLWQwZXNHQmFkVjU0Vkw1UHdBTXY1UHRLSUZmbzViZklta1FIcF9Hd0RYTXdJWEZ4ZXBVTVdLUnc1YXc3RTc2Zw?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "川普自曝曾考慮美政府入股輝達！直言：現在提出還不算太晚",
+      "title": "NVIDIA釋出GeForce 621.40 WHQL認證驅動，正式修復SSD背景異常寫入災情",
       "summary": [
-        "經濟日報：川普自曝曾考慮美政府入股輝達！直言：現在提出還不算太晚",
-        "鉅亨網：川普鬆口考慮美政府入股輝達 「現在或許還不算太晚！」"
+        "科技新報：NVIDIA釋出GeForce 621.40 WHQL認證驅動，正式修復SSD背景異常寫入災情",
+        "癮科技Cool3c：NVIDIA GeForce 621.40驅動聲稱修復後臺異常寫入問題"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "川普自曝曾考慮美政府入股輝達！直言：現在提出還不算太晚",
-          "url": "https://money.udn.com/money/story/123398/9900139"
+          "source": "科技新報",
+          "title": "NVIDIA釋出GeForce 621.40 WHQL認證驅動，正式修復SSD背景異常寫入災情",
+          "url": "https://technews.tw/2026/11/25/nvidia-621-40-driver-fixes-ssd-abnormal-writes-excessive-background-log-flushing-risk/"
         },
         {
-          "source": "鉅亨網",
-          "title": "川普鬆口考慮美政府入股輝達 「現在或許還不算太晚！」",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05eWMxd3NONXI1R0ZrMDlHanQwdU5QbHF6QUJLY1RhLXVScXMtMFBBdVpVbjBXZEs1cWhDX3FwQ0tJVVdPRGluVTJNNEhjVm8?oc=5"
+          "source": "癮科技Cool3c",
+          "title": "NVIDIA GeForce 621.40驅動聲稱修復後臺異常寫入問題",
+          "url": "https://www.cool3c.com/article/254353"
         }
       ]
     }
@@ -232,87 +232,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "隨著人工智慧恐懼捲土重來，亞洲市場失勢",
-      "summary": [
-        "Financial Times：隨著人工智慧恐懼捲土重來，亞洲市場失勢",
-        "Investing.com：隨著人工智慧拋售加劇，亞洲股市下滑，美國關稅威脅壓制市場情緒",
-        "Bloomberg Tech：由於人工智慧擔憂衝擊晶片製造商，亞洲股市恢復下滑"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "隨著人工智慧恐懼捲土重來，亞洲市場失勢",
-          "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Investing.com",
-          "title": "隨著人工智慧拋售加劇，亞洲股市下滑，美國關稅威脅壓制市場情緒",
-          "url": "https://www.investing.com/news/stock-market-news/asian-stocks-slide-as-ai-selloff-deepens-us-tariff-threats-weigh-on-sentiment-5049630"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "由於人工智慧擔憂衝擊晶片製造商，亞洲股市恢復下滑",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-25/asian-stocks-resume-slide-as-ai-concerns-hit-chipmakers-video"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "中國發射首艘載有外國太空人的載人太空船",
-      "summary": [
-        "NHK新聞：中國發射首艘載有外國太空人的載人太空船",
-        "Financial Times：中國首次與外國太空人一起執行太空任務",
-        "Nikkei Asia：中國將首位外國公民——巴基斯坦飛行員送入太空站"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "中國發射首艘載有外國太空人的載人太空船",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261125de80985"
-        },
-        {
-          "source": "Financial Times",
-          "title": "中國首次與外國太空人一起執行太空任務",
-          "url": "https://www.ft.com/content/a1d7d4bd-ecd0-4726-8f62-de75ce2b034c?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "中國將首位外國公民——巴基斯坦飛行員送入太空站",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORXJ2MUEzeUxYMVBUTkx6empwajd6eWllMmVpMEhrb2xQVWx6azZLeTJwcWt6Nm1BRVFNVXlwamV1UUZzNmV2czNBM09HMjdoNlE3ZS1ZOFF3T3VUeGFjWmtGa01lV3ludWJYSjktZjBlWk5pazlPNDBnd2FnTzVTb1ZPNFdlaE50TGFiOUR4Yk54Sk5tMTc3aTRXZmNVWUFQb3FtakdHRDNpdTNwazZzTy04UUplWTVJcUp3TjlNSXlnQWhqQVJxdk5ZOGh2VDRz?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "由於對現金流的不安，人工智慧信用違約掉期利差擴大",
-      "summary": [
-        "Investing.com：由於對現金流的不安，人工智慧信用違約掉期利差擴大",
-        "CNBC：隨著英偉達的反彈掩蓋了大型科技支出緊縮，人工智慧債務擔憂加劇",
-        "Bloomberg Markets：人工智慧擔憂削弱風險情緒，美國國債全面上漲"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "由於對現金流的不安，人工智慧信用違約掉期利差擴大",
-          "url": "https://www.investing.com/news/stock-market-news/ai-credit-default-swap-spreads-widen-on-unease-over-cash-flow-5049729"
-        },
-        {
-          "source": "CNBC",
-          "title": "隨著英偉達的反彈掩蓋了大型科技支出緊縮，人工智慧債務擔憂加劇",
-          "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "人工智慧擔憂削弱風險情緒，美國國債全面上漲",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "據說星巴克正在與銀行合作出售日本業務",
       "summary": [
         "Bloomberg Markets：據說星巴克正在與銀行合作出售日本業務",
@@ -333,7 +252,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 2,
       "title": "南航訂購 50 架飛機，這是波音近十年來最大的中國交易",
       "summary": [
         "Investing.com：南航訂購 50 架飛機，這是波音近十年來最大的中國交易",
@@ -354,7 +273,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 3,
       "title": "在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
       "summary": [
         "Investing.com：在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
@@ -375,7 +294,28 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "title": "隨著人工智慧恐懼捲土重來，亞洲市場失勢",
+      "summary": [
+        "Financial Times：隨著人工智慧恐懼捲土重來，亞洲市場失勢",
+        "Investing.com：隨著人工智慧拋售加劇，亞洲股市下滑，美國關稅威脅壓制市場情緒"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "隨著人工智慧恐懼捲土重來，亞洲市場失勢",
+          "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "隨著人工智慧拋售加劇，亞洲股市下滑，美國關稅威脅壓制市場情緒",
+          "url": "https://www.investing.com/news/stock-market-news/asian-stocks-slide-as-ai-selloff-deepens-us-tariff-threats-weigh-on-sentiment-5049630"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "紐約郵報：如果需要，川普願意赦免黃仁勳",
       "summary": [
         "CNBC：紐約郵報：如果需要，川普願意赦免黃仁勳",
@@ -396,7 +336,28 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "title": "中國發射首艘載有外國太空人的載人太空船",
+      "summary": [
+        "NHK新聞：中國發射首艘載有外國太空人的載人太空船",
+        "Financial Times：中國首次與外國太空人一起執行太空任務"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "中國發射首艘載有外國太空人的載人太空船",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261125de80985"
+        },
+        {
+          "source": "Financial Times",
+          "title": "中國首次與外國太空人一起執行太空任務",
+          "url": "https://www.ft.com/content/a1d7d4bd-ecd0-4726-8f62-de75ce2b034c?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "索羅門群島選擇澳洲作為“主要安全夥伴”",
       "summary": [
         "Nikkei Asia：索羅門群島選擇澳洲作為“主要安全夥伴”",
@@ -417,44 +378,59 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "沙烏地阿拉伯與胡塞武裝的戰鬥愈演愈烈",
+      "rank": 8,
+      "title": "由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
       "summary": [
-        "Bloomberg Markets：沙烏地阿拉伯與胡塞武裝的戰鬥愈演愈烈",
-        "Investing.com：葉門衝突升級，胡塞武裝威脅沙烏地阿拉伯港口"
+        "Bloomberg Markets：由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
+        "WSJ Markets：今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "沙烏地阿拉伯與胡塞武裝的戰鬥愈演愈烈",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-25/saudi-houthi-fighting-intensifies-video"
+          "title": "由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses"
         },
         {
-          "source": "Investing.com",
-          "title": "葉門衝突升級，胡塞武裝威脅沙烏地阿拉伯港口",
-          "url": "https://www.investing.com/news/stock-market-news/houthis-threaten-saudi-ports-amid-yemen-conflict-escalation-93CH-5049796"
+          "source": "WSJ Markets",
+          "title": "今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
+      "summary": [
+        "BBC World：美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
+        "BBC中文：美國準備公佈對全球貿易夥伴加徵新關稅的計劃"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC中文",
+          "title": "美國準備公佈對全球貿易夥伴加徵新關稅的計劃",
+          "url": "https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "Flipkart 執行長將在沃爾瑪印度業務轉型後辭職",
+      "title": "今天嗶哩嗶哩股價為何大漲？",
       "summary": [
-        "Bloomberg Tech：Flipkart 執行長將在沃爾瑪印度業務轉型後辭職",
-        "Investing.com：沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務"
+        "Investing.com：今天嗶哩嗶哩股價為何大漲？"
       ],
-      "media_count": 2,
+      "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "Flipkart 執行長將在沃爾瑪印度業務轉型後辭職",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/flipkart-ceo-to-exit-after-transforming-walmart-s-india-play"
-        },
-        {
           "source": "Investing.com",
-          "title": "沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
-          "url": "https://www.investing.com/news/stock-market-news/walmartowned-flipkarts-kalyan-krishnamurthy-steps-down-as-ceo-5049946"
+          "title": "今天嗶哩嗶哩股價為何大漲？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-bilibili-stock-surging-today-93CH-5049728"
         }
       ]
     }
