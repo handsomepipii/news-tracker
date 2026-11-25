@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 03:58",
+  "updated_at": "2026-11-26 04:27",
   "taiwan": [
     {
       "rank": 1,
@@ -78,27 +78,6 @@
     },
     {
       "rank": 4,
-      "title": "歐盟擬設立500億歐元科技基金　設法縮小與美中差距",
-      "summary": [
-        "經濟日報：歐盟擬設立500億歐元科技基金　設法縮小與美中差距",
-        "科技新報：歐盟擬設立 500 億歐元科技基金，設法縮小與美中差距"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "歐盟擬設立500億歐元科技基金　設法縮小與美中差距",
-          "url": "https://money.udn.com/money/story/5599/9901422"
-        },
-        {
-          "source": "科技新報",
-          "title": "歐盟擬設立 500 億歐元科技基金，設法縮小與美中差距",
-          "url": "https://finance.technews.tw/2026/11/25/eu-plans-e50-billion-technology-fund/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "韓國防堵AI作弊　擬試卷中嵌入提示指令及浮水印",
       "summary": [
         "經濟日報：韓國防堵AI作弊　擬試卷中嵌入提示指令及浮水印",
@@ -119,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "選前之夜還沒到路先封4天！仁愛路交管惹民怨 沈伯洋致歉：已打給周邊6位裡長 | 蕭宥宸 | 新聞",
       "summary": [
         "風傳媒：選前之夜還沒到路先封4天！仁愛路交管惹民怨 沈伯洋致歉：已打給周邊6位裡長 | 蕭宥宸 | 新聞",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "學者：ART護臺灣301稅率不逾15％ 保持相對競爭力",
       "summary": [
         "自由時報：學者：ART護臺灣301稅率不逾15％ 保持相對競爭力",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "何欣純遭影射賄選一票2千5　網友脆上亂發文造謠被抓到了",
       "summary": [
         "ETtoday：何欣純遭影射賄選一票2千5　網友脆上亂發文造謠被抓到了",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "建通看好明年獲利成長 特殊新型銅材營收比重衝5成",
       "summary": [
         "鉅亨網：建通看好明年獲利成長 特殊新型銅材營收比重衝5成",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "王世堅喊讓沈伯洋當史上最高票市長 4年後接棒總統賴清德",
       "summary": [
         "自由時報：王世堅喊讓沈伯洋當史上最高票市長 4年後接棒總統賴清德",
@@ -222,48 +201,32 @@
           "url": "https://www.ettoday.net/news/20261125/3278548.htm"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "威健國內第八次無擔保轉換債完成訂價，每股35.29元",
+      "summary": [
+        "公開資訊觀測站重訊：威健國內第八次無擔保轉換債完成訂價，每股35.29元",
+        "MoneyDJ理財網：威健國內第八次無擔保轉換債完成訂價，每股35.29元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "威健國內第八次無擔保轉換債完成訂價，每股35.29元",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNam5TMVB1dU5OX2VDUHZZRm16dm5ETnJQNy1neDhaR3hLc1NEbUFaQnd6QnZ4THNFVzZrRm1hbWhfNEpIbWFyN1g0SHp2NFFudVBCUUZ5UExQVlB3NEI1VVRJNTRLaWQwVVFBdHpqZTh3d2psQWRSRDJSRW1MZzhiNnpjSUZLMEtYUnlkRDBBLUZIZw?oc=5"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "威健國內第八次無擔保轉換債完成訂價，每股35.29元",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemJ4V3RvX2RJeU5UWFZmTlJBUUEtY1o2RVNhWWFRX29ZOWhDSlhsZ0xQTUVRNktSR3N5dXl3SlkxaHlablpsV3VPb1dJRW50TndyX0I4VmtKcWlVbFdad0pJamxRb2JnZ0dlTnJtOFpOTWh6WmdjcXVaVWhfTlROMTBVT04yd1ZVWHhFMUpXbi1EUQ?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
-      "summary": [
-        "Bloomberg Markets：由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
-        "Investing.com：人工智慧股票因對基礎設施建設成本的擔憂而下滑",
-        "BBC World：由於對人工智慧的擔憂加劇，美股進一步下跌"
-      ],
-      "media_count": 5,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses"
-        },
-        {
-          "source": "Investing.com",
-          "title": "人工智慧股票因對基礎設施建設成本的擔憂而下滑",
-          "url": "https://www.investing.com/news/stock-market-news/ai-stocks-slide-on-fears-over-infrastructure-buildout-costs-5050519"
-        },
-        {
-          "source": "BBC World",
-          "title": "由於對人工智慧的擔憂加劇，美股進一步下跌",
-          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "隨著投資者逃離人工智慧交易，英偉達、AMD 和美光股價下跌",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVk9mVUxsUll4NmpxRklUb1dFaHduU3ZURXZRV2ktV0pDM2ZMNElPb3RrV0NiS0JlLTVXQXJKNnpTV1JmV1k2NGMtdzNLa0F0c2tsY2xRMmJKZHhwY1dueWZXb0l4VXhWNkl4NmJ6QUlTNjBpZUItN0xkX21JUXJ5WGlUbWdON0E0V2FOT2lGYkozcm9VSjlXVjR3SDc5WWQ3VzJhWm5mb29YbjBQSU1hQURkYw?oc=5"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "由於人工智慧焦慮加劇損失，科技股在「先賣」模式下暴跌",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-25/tech-stocks-tumble-as-ai-angst-fuels-losses-video"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "美國授權SpaceX在太空部署100萬顆衛星用於資料中心",
       "summary": [
         "Investing.com：美國授權SpaceX在太空部署100萬顆衛星用於資料中心",
@@ -291,6 +254,38 @@
           "source": "Ars Technica",
           "title": "FCC已授權SpaceX部署100萬顆衛星",
           "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "隨著人工智慧擔憂持續存在，科技股遭遇拋售",
+      "summary": [
+        "Bloomberg Markets：隨著人工智慧擔憂持續存在，科技股遭遇拋售",
+        "Investing.com：人工智慧股票因對基礎設施建設成本的擔憂而下滑",
+        "BBC World：由於對人工智慧的擔憂加劇，美股進一步下跌"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "隨著人工智慧擔憂持續存在，科技股遭遇拋售",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-25/the-opening-trade-11-25-2026-video"
+        },
+        {
+          "source": "Investing.com",
+          "title": "人工智慧股票因對基礎設施建設成本的擔憂而下滑",
+          "url": "https://www.investing.com/news/stock-market-news/ai-stocks-slide-on-fears-over-infrastructure-buildout-costs-5050519"
+        },
+        {
+          "source": "BBC World",
+          "title": "由於對人工智慧的擔憂加劇，美股進一步下跌",
+          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "由於人工智慧焦慮加劇損失，科技股在「先賣」模式下暴跌",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-25/tech-stocks-tumble-as-ai-angst-fuels-losses-video"
         }
       ]
     },
@@ -323,48 +318,6 @@
     },
     {
       "rank": 4,
-      "title": "中國斥美國關稅前景為“政治操縱”",
-      "summary": [
-        "Bloomberg Markets：中國斥美國關稅前景為“政治操縱”",
-        "德國之聲：美國擬對中國等貿易夥伴加徵關稅 北京:“產能過剩”是偽命題"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "中國斥美國關稅前景為“政治操縱”",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-dismisses-us-tariff-prospect-as-political-maneuvering"
-        },
-        {
-          "source": "德國之聲",
-          "title": "美國擬對中國等貿易夥伴加徵關稅 北京:“產能過剩”是偽命題",
-          "url": "https://www.dw.com/zh/美国拟对中国等贸易伙伴加征关税-北京-产能过剩-是伪命题/a-80049070?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
-      "summary": [
-        "Investing.com：沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
-        "TechCrunch：由於 IPO 不確定性，Flipkart 執行長 Kalyan Krishnamurthy 將於下週辭職"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
-          "url": "https://www.investing.com/news/stock-market-news/walmartowned-flipkarts-kalyan-krishnamurthy-steps-down-as-ceo-5049946"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "由於 IPO 不確定性，Flipkart 執行長 Kalyan Krishnamurthy 將於下週辭職",
-          "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "神舟二十四號成功發射 首位巴基斯坦航天員登中國「天宮」意味什麼？",
       "summary": [
         "BBC中文：神舟二十四號成功發射 首位巴基斯坦航天員登中國「天宮」意味什麼？",
@@ -385,7 +338,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑",
       "summary": [
         "WSJ Markets：今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑",
@@ -406,7 +359,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
       "summary": [
         "BBC World：美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
@@ -427,7 +380,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "南非拉馬福薩贏得彈劾威脅法庭訴訟",
       "summary": [
         "BBC World：南非拉馬福薩贏得彈劾威脅法庭訴訟",
@@ -448,23 +401,59 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "隨著人工智慧擔憂持續存在，科技股遭遇拋售",
+      "rank": 8,
+      "title": "人工智慧交易陷入困境，納斯達克 100 指數將進入熊市",
       "summary": [
-        "Bloomberg Markets：隨著人工智慧擔憂持續存在，科技股遭遇拋售",
-        "CNBC：隨著黃仁勳復出集會失敗以及人工智慧擔憂捲土重來，英偉達引領科技股拋售"
+        "Bloomberg Markets：人工智慧交易陷入困境，納斯達克 100 指數將進入熊市",
+        "Bloomberg Tech：納斯達克 100 指數進入熊市，人工智慧焦慮加劇損失"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Markets",
-          "title": "隨著人工智慧擔憂持續存在，科技股遭遇拋售",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-25/the-opening-trade-11-25-2026-video"
+          "title": "人工智慧交易陷入困境，納斯達克 100 指數將進入熊市",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "納斯達克 100 指數進入熊市，人工智慧焦慮加劇損失",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-25/nasdaq-100-enters-bear-market-territory-on-ai-angst-video"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
+      "summary": [
+        "Investing.com：SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
+        "CNBC：SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
+          "url": "https://www.investing.com/news/stock-market-news/spacex-to-contribute-one-class-a-share-to-every-trump-account-5051378"
         },
         {
           "source": "CNBC",
-          "title": "隨著黃仁勳復出集會失敗以及人工智慧擔憂捲土重來，英偉達引領科技股拋售",
-          "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
+          "title": "SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "為什麼 Prosus 股票今天會下跌？",
+      "summary": [
+        "Investing.com：為什麼 Prosus 股票今天會下跌？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "為什麼 Prosus 股票今天會下跌？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-prosus-stock-sliding-today-93CH-5049978"
         }
       ]
     }
