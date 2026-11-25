@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:26",
+  "updated_at": "2026-11-25 16:57",
   "taiwan": [
     {
       "rank": 1,
@@ -62,33 +62,6 @@
     },
     {
       "rank": 3,
-      "title": "以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
-      "summary": [
-        "自由時報：以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
-        "經濟日報：以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
-        "ETtoday：以色列防長稱伊朗研發化武：我們絕不能讓這件事繼續下去"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5652307"
-        },
-        {
-          "source": "經濟日報",
-          "title": "以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
-          "url": "https://money.udn.com/money/story/5599/9899997"
-        },
-        {
-          "source": "ETtoday",
-          "title": "以色列防長稱伊朗研發化武：我們絕不能讓這件事繼續下去",
-          "url": "https://www.ettoday.net/news/20261125/3277967.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
       "summary": [
         "ETtoday：快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
@@ -109,7 +82,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "新北國中生割頸案二審判加重賠償1782萬！乾哥、乾妹聽判表情曝",
       "summary": [
         "自由時報：新北國中生割頸案二審判加重賠償1782萬！乾哥、乾妹聽判表情曝",
@@ -130,7 +103,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "荷莫茲海峽頻傳油輪遇襲　國際油價小升",
       "summary": [
         "自由時報：荷莫茲海峽頻傳油輪遇襲　國際油價小升",
@@ -151,7 +124,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "涉揪團赴中招待旅遊介選 國民黨前高市議員黃紹庭60萬交保",
       "summary": [
         "自由時報：涉揪團赴中招待旅遊介選 國民黨前高市議員黃紹庭60萬交保",
@@ -172,7 +145,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "今明「全臺有雨」　投票日天氣曝",
       "summary": [
         "ETtoday：今明「全臺有雨」　投票日天氣曝",
@@ -193,7 +166,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "蔡康永金句「超直白」：我們也沒道理特地矇眼去吃屎",
       "summary": [
         "ETtoday：蔡康永金句「超直白」：我們也沒道理特地矇眼去吃屎",
@@ -214,7 +187,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "快訊／臺指期夜盤跌近2000點　臺積電夜盤跌近4%",
       "summary": [
         "ETtoday：快訊／臺指期夜盤跌近2000點　臺積電夜盤跌近4%",
@@ -231,6 +204,27 @@
           "source": "經濟日報",
           "title": "臺積電ADR跌近4% 臺指期夜盤重摔1,842點",
           "url": "https://money.udn.com/money/story/123398/9900102"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳向輝達員工緻歉 坦承違反行為準則、接受心理治療",
+      "summary": [
+        "經濟日報：黃仁勳向輝達員工緻歉 坦承違反行為準則、接受心理治療",
+        "科技新報：坦承違反輝達行為準則！黃仁勳向員工道歉：犯了糟糕的錯誤"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳向輝達員工緻歉 坦承違反行為準則、接受心理治療",
+          "url": "https://money.udn.com/money/story/5599/9900071"
+        },
+        {
+          "source": "科技新報",
+          "title": "坦承違反輝達行為準則！黃仁勳向員工道歉：犯了糟糕的錯誤",
+          "url": "https://technews.tw/2026/11/25/nvidia-jensen-huang-2/"
         }
       ]
     }
@@ -371,69 +365,6 @@
     },
     {
       "rank": 6,
-      "title": "美國司法部長迴避解釋英偉達黃仁勳的風險評估",
-      "summary": [
-        "NHK新聞：美國司法部長迴避解釋英偉達黃仁勳的風險評估",
-        "法廣RFI：美國司法部長迴避黃仁勳是否遭調查"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "美國司法部長迴避解釋英偉達黃仁勳的風險評估",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261125de80921"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "美國司法部長迴避黃仁勳是否遭調查",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261124-%E7%BE%8E%E5%9C%8B%E5%8F%B8%E6%B3%95%E9%83%A8%E9%95%B7%E8%BF%B4%E9%81%BF%E9%BB%83%E4%BB%81%E5%8B%B3%E6%98%AF%E5%90%A6%E9%81%AD%E8%AA%BF%E6%9F%A5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "華為被判竊取商業機密罪，但敲詐勒索罪被判無罪",
-      "summary": [
-        "BBC World：華為被判竊取商業機密罪，但敲詐勒索罪被判無罪",
-        "The Verge：華為被判竊取商業機密罪"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "華為被判竊取商業機密罪，但敲詐勒索罪被判無罪",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Verge",
-          "title": "華為被判竊取商業機密罪",
-          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
-      "summary": [
-        "Financial Times：華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
-        "CNBC：美國陪審團在刑事審判中判定華為欺詐和商業機密有罪"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
-          "url": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1"
-        },
-        {
-          "source": "CNBC",
-          "title": "美國陪審團在刑事審判中判定華為欺詐和商業機密有罪",
-          "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "中國華為因伊朗業務在美國刑事審判中被判有罪",
       "summary": [
         "Nikkei Asia：中國華為因伊朗業務在美國刑事審判中被判有罪",
@@ -454,7 +385,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "俄羅斯獨立媒體分析稱，超過49萬名俄羅斯士兵在戰鬥中喪生",
       "summary": [
         "NHK新聞：俄羅斯獨立媒體分析稱，超過49萬名俄羅斯士兵在戰鬥中喪生",
@@ -471,6 +402,69 @@
           "source": "BBC World",
           "title": "俄羅斯自己的資料顯示近50萬人在烏克蘭戰爭中死亡",
           "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "南航訂購 50 架飛機，這是波音近十年來最大的中國交易",
+      "summary": [
+        "Investing.com：南航訂購 50 架飛機，這是波音近十年來最大的中國交易",
+        "CNBC：中國廈門航空斥資74億美元購買50架波音飛機"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "南航訂購 50 架飛機，這是波音近十年來最大的中國交易",
+          "url": "https://www.investing.com/news/stock-market-news/china-southern-airlines-unit-to-buy-50-boeing-7378-aircraft-5047529"
+        },
+        {
+          "source": "CNBC",
+          "title": "中國廈門航空斥資74億美元購買50架波音飛機",
+          "url": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
+      "summary": [
+        "Investing.com：在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
+        "NHK新聞：黃仁勳重返英偉達執行長，因川普總統的參與而受到批評"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
+          "url": "https://www.investing.com/news/stock-market-news/huang-returns-as-nvidia-ceo-after-trump-intervention-in-abrupt-board-reversal-5049490"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "黃仁勳重返英偉達執行長，因川普總統的參與而受到批評",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261125de81016"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "索羅門群島選擇澳洲作為“主要安全夥伴”",
+      "summary": [
+        "Nikkei Asia：索羅門群島選擇澳洲作為“主要安全夥伴”",
+        "德國之聲：外交立場轉彎？索羅門群島與澳洲籤安全協議"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "索羅門群島選擇澳洲作為“主要安全夥伴”",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbm1WUmJuZ3Qwd1NadklXSUlXdGZpcWliaXNTbk9rRWJKRl9iVjl1b3hxOGhJcmVCaklOSmxEbElHTklfUHJqWklTUjc5T05tbHJ2azNQZVRCcm5VNnhmNHFYNTl4UWl2ak9FbTVCYnhXekF5NmxFQTg0S3FJQ1RvVkJUVFV0RXhOY0FBS3NEbnFRWlJzWERtZmFDNG5VSWJlYUJ5cXFQQmpvV1Fvb3RSd1I3bzZiZnZwcWc?oc=5"
+        },
+        {
+          "source": "德國之聲",
+          "title": "外交立場轉彎？索羅門群島與澳洲籤安全協議",
+          "url": "https://www.dw.com/zh/外交立场转弯？所罗门群岛与澳洲签安全协议/a-80033220?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     }
