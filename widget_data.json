@@ -1,8 +1,40 @@
 {
-  "updated_at": "2026-11-26 06:27",
+  "updated_at": "2026-11-26 06:57",
   "taiwan": [
     {
       "rank": 1,
+      "title": "美301調查出爐擬對14經濟體加關稅　臺灣協議稅率至少15%",
+      "summary": [
+        "經濟日報：美301調查出爐擬對14經濟體加關稅　臺灣協議稅率至少15%",
+        "自由時報：美國提議對14國課徵產能過剩關稅  臺灣上限15％ 中國恐跳升至40％",
+        "風傳媒：美301調查出爐 擬對14經濟體加關稅 臺灣上限15%且不疊加 | 蕭宥宸 | 新聞"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美301調查出爐擬對14經濟體加關稅　臺灣協議稅率至少15%",
+          "url": "https://money.udn.com/money/story/5599/9902132"
+        },
+        {
+          "source": "自由時報",
+          "title": "美國提議對14國課徵產能過剩關稅  臺灣上限15％ 中國恐跳升至40％",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5653486"
+        },
+        {
+          "source": "風傳媒",
+          "title": "美301調查出爐 擬對14經濟體加關稅 臺灣上限15%且不疊加 | 蕭宥宸 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kRk1LSm5FVTJET1E2SzVxOUotaW4tR1FCY05qUFB2YWRxbHI0QmpoWVlHQlFFdDFYS3ZLZXNmdkV0anFzTlZ3RkpqY2Nvdw?oc=5"
+        },
+        {
+          "source": "科技新報",
+          "title": "美國擬對 14 個經濟體祭出新關稅，臺灣課徵 15% 中國關稅恐升至約 45%",
+          "url": "https://finance.technews.tw/2026/11/26/us-plans-new-tariffs-on-14-economies/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "真愛！黃仁勳才重返王座　馬斯克秒帶兒子衝輝達總部同框合照",
       "summary": [
         "ETtoday：真愛！黃仁勳才重返王座　馬斯克秒帶兒子衝輝達總部同框合照",
@@ -29,7 +61,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "美媒：盧比歐憂輝達不利對中政策　向川普示警國安威脅",
       "summary": [
         "自由時報：美媒：盧比歐憂輝達不利對中政策　向川普示警國安威脅",
@@ -52,27 +84,6 @@
           "source": "ETtoday",
           "title": "盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
           "url": "https://www.ettoday.net/news/20261126/3278609.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "森崴下市衝擊 富威電力砍現金股利降至1.6067元",
-      "summary": [
-        "自由時報：森崴下市衝擊 富威電力砍現金股利降至1.6067元",
-        "公開資訊觀測站重訊：森崴下市衝擊 富威電力砍現金股利降至1.6067元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "森崴下市衝擊 富威電力砍現金股利降至1.6067元",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5653254"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "森崴下市衝擊 富威電力砍現金股利降至1.6067元",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iQ05ZZlhVYzFNLXlFaGVhaE05Q0twTmNGYnlKeGEzalpaajJELWJwY0ZWWlVVYjlRZXlCMERkaFhEejc0NHVYM1pyRlB6ZjVSRkUwWkJDM08?oc=5"
         }
       ]
     },
@@ -323,69 +334,6 @@
     },
     {
       "rank": 4,
-      "title": "美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
-      "summary": [
-        "BBC World：美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
-        "BBC中文：美國準備公佈對全球貿易夥伴加徵新關稅的計劃"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
-          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC中文",
-          "title": "美國準備公佈對全球貿易夥伴加徵新關稅的計劃",
-          "url": "https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "南非拉馬福薩贏得彈劾威脅法庭訴訟",
-      "summary": [
-        "BBC World：南非拉馬福薩贏得彈劾威脅法庭訴訟",
-        "Financial Times：南非拉馬福薩贏得阻止彈劾的鬥爭"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "南非拉馬福薩贏得彈劾威脅法庭訴訟",
-          "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Financial Times",
-          "title": "南非拉馬福薩贏得阻止彈劾的鬥爭",
-          "url": "https://www.ft.com/content/e8081338-7139-4fcb-9643-73079d4913c4?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "密西西比海岸飛機失事後六人中的兩名兒童死亡",
-      "summary": [
-        "BBC World：密西西比海岸飛機失事後六人中的兩名兒童死亡",
-        "Washington Post：密西西比海岸霍恩島附近的飛機失事造成六人死亡"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "密西西比海岸飛機失事後六人中的兩名兒童死亡",
-          "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Washington Post",
-          "title": "密西西比海岸霍恩島附近的飛機失事造成六人死亡",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEFjMk9lQ3dHUjRiQkJac1pDYzg5WERndkZWV0F4VWMzS015ZjE5LUtmY1VlRzlhTHRVTENGYWpXN2twSmtoeld4QndoQzhWNC1TbDI3TnpmeWhKbzNOdGdDVkdZVTU3UHVrcG9TbWpSZkpYMmxwTkc3WEtjU21ObFRpTTdkdmVJRjNEQVVKb0lHTFVGWXFwOTF5TVh3c0lucVczVm1kMHBLZjlfN0FveQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "人工智慧交易陷入困境，納斯達克 100 指數將進入熊市",
       "summary": [
         "Bloomberg Markets：人工智慧交易陷入困境，納斯達克 100 指數將進入熊市",
@@ -406,7 +354,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "邁克爾·伯裡 (Michael Burry) 出售剩餘的納斯達克 100 看跌期權，稱投資組合為多頭",
       "summary": [
         "Investing.com：邁克爾·伯裡 (Michael Burry) 出售剩餘的納斯達克 100 看跌期權，稱投資組合為多頭",
@@ -427,7 +375,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "1Password稱駭客侵入其內部系統，但客戶密碼是安全的",
       "summary": [
         "TechCrunch：1Password稱駭客侵入其內部系統，但客戶密碼是安全的",
@@ -448,7 +396,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "北韓因制裁驅逐瑞士外交官",
       "summary": [
         "BBC World：北韓因制裁驅逐瑞士外交官",
@@ -465,6 +413,69 @@
           "source": "法廣RFI",
           "title": "朝鮮驅逐瑞士外交辦事處代表",
           "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261125-%E6%9C%9D%E9%AE%AE%E9%A9%85%E9%80%90%E7%91%9E%E5%A3%AB%E5%A4%96%E4%BA%A4%E8%BE%A6%E4%BA%8B%E8%99%95%E4%BB%A3%E8%A1%A8"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "標準普爾表示可能因治理擔憂而下調英偉達評級",
+      "summary": [
+        "Bloomberg Tech：標準普爾表示可能因治理擔憂而下調英偉達評級",
+        "TechCrunch：標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "標準普爾表示可能因治理擔憂而下調英偉達評級",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "隨著英偉達恢復漲勢消退，股市持續下跌",
+      "summary": [
+        "Bloomberg Markets：隨著英偉達恢復漲勢消退，股市持續下跌",
+        "WSJ Markets：瘋狂交易後股市收低"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "隨著英偉達恢復漲勢消退，股市持續下跌",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-continue-fall-as-nvidia-reinstatement-rally-fades"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "瘋狂交易後股市收低",
+          "url": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
+      "summary": [
+        "Investing.com：SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
+        "CNBC：SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
+          "url": "https://www.investing.com/news/stock-market-news/spacex-to-contribute-one-class-a-share-to-every-trump-account-5051378"
+        },
+        {
+          "source": "CNBC",
+          "title": "SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
         }
       ]
     }
