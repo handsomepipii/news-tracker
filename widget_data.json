@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 21:28",
+  "updated_at": "2026-11-25 21:57",
   "taiwan": [
     {
       "rank": 1,
@@ -237,7 +237,7 @@
       "summary": [
         "Financial Times：隨著人工智慧恐懼捲土重來，亞洲市場失勢",
         "Investing.com：隨著人工智慧拋售加劇，亞洲股市下滑，美國關稅威脅壓制市場情緒",
-        "Bloomberg Tech：由於人工智慧擔憂衝擊晶片製造商，亞洲股市恢復下滑"
+        "Bloomberg Tech：由於人工智慧擔憂打擊晶片製造商，亞洲股市恢復下滑"
       ],
       "media_count": 3,
       "links": [
@@ -253,7 +253,7 @@
         },
         {
           "source": "Bloomberg Tech",
-          "title": "由於人工智慧擔憂衝擊晶片製造商，亞洲股市恢復下滑",
+          "title": "由於人工智慧擔憂打擊晶片製造商，亞洲股市恢復下滑",
           "url": "https://www.bloomberg.com/news/videos/2026-11-25/asian-stocks-resume-slide-as-ai-concerns-hit-chipmakers-video"
         }
       ]
@@ -335,27 +335,6 @@
     },
     {
       "rank": 5,
-      "title": "在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
-      "summary": [
-        "Investing.com：在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
-        "NHK新聞：黃仁勳重返英偉達執行長，因川普總統的參與而受到批評"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
-          "url": "https://www.investing.com/news/stock-market-news/huang-returns-as-nvidia-ceo-after-trump-intervention-in-abrupt-board-reversal-5049490"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "黃仁勳重返英偉達執行長，因川普總統的參與而受到批評",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261125de81016"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "紐約郵報：如果需要，川普願意赦免黃仁勳",
       "summary": [
         "CNBC：紐約郵報：如果需要，川普願意赦免黃仁勳",
@@ -376,7 +355,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "美國陪審團在刑事審判中判定華為欺詐和商業機密有罪",
       "summary": [
         "CNBC：美國陪審團在刑事審判中判定華為欺詐和商業機密有罪",
@@ -397,7 +376,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "索羅門群島選擇澳洲作為“主要安全夥伴”",
       "summary": [
         "Nikkei Asia：索羅門群島選擇澳洲作為“主要安全夥伴”",
@@ -418,7 +397,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "沙烏地阿拉伯與胡塞武裝的戰鬥愈演愈烈",
       "summary": [
         "Bloomberg Markets：沙烏地阿拉伯與胡塞武裝的戰鬥愈演愈烈",
@@ -439,7 +418,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
       "summary": [
         "Bloomberg Markets：由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
@@ -456,6 +435,27 @@
           "source": "Investing.com",
           "title": "人工智慧股票因對基礎設施建設成本的擔憂而下滑",
           "url": "https://www.investing.com/news/stock-market-news/ai-stocks-slide-on-fears-over-infrastructure-buildout-costs-5050519"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
+      "summary": [
+        "Investing.com：沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
+        "TechCrunch：由於 IPO 不確定性，Flipkart 執行長 Kalyan Krishnamurthy 將於下週辭職"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
+          "url": "https://www.investing.com/news/stock-market-news/walmartowned-flipkarts-kalyan-krishnamurthy-steps-down-as-ceo-5049946"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "由於 IPO 不確定性，Flipkart 執行長 Kalyan Krishnamurthy 將於下週辭職",
+          "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/"
         }
       ]
     }
