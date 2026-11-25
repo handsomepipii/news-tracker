@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-25 08:27",
+  "updated_at": "2026-11-25 08:57",
   "taiwan": [
     {
       "rank": 1,
-      "title": "與臺灣政商界多次公開互動！中共上海市委書記陳吉寧驚傳落馬",
-      "summary": [
-        "自由時報：與臺灣政商界多次公開互動！中共上海市委書記陳吉寧驚傳落馬",
-        "中時新聞：海納百川》輝達神劇給臺灣一個提醒（陳世昌）",
-        "ETtoday：中共明日之星落馬！　陸官媒：上海市委書記陳吉寧涉嚴重違紀違法"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "與臺灣政商界多次公開互動！中共上海市委書記陳吉寧驚傳落馬",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5652132"
-        },
-        {
-          "source": "中時新聞",
-          "title": "海納百川》輝達神劇給臺灣一個提醒（陳世昌）",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvQlAwbHZYX0JRMk9rT3RXWXdYMC1URDMwQ0lNbHFkaUd6U29aSHoxd05ZSURaeEhqU2locmJHNjFVWkYxY2pQWXhIWFdPalBxUVdvNE0yQVFIb2c5S3ZnTURzZDE5WG8?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "中共明日之星落馬！　陸官媒：上海市委書記陳吉寧涉嚴重違紀違法",
-          "url": "https://www.ettoday.net/news/20261124/3277879.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "土耳其軍方直升機訓練時墜毀　導致5名官兵喪命",
       "summary": [
         "自由時報：土耳其軍方直升機訓練時墜毀　導致5名官兵喪命",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
       "summary": [
         "自由時報：以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "臺韓跨國白犀牛保育合作 2噸重「阿里郎」啟程赴韓｜#公視新聞網 #Shorts ｜ 公視新聞 PNN",
       "summary": [
         "公視新聞：臺韓跨國白犀牛保育合作 2噸重「阿里郎」啟程赴韓｜#公視新聞網 #Shorts ｜ 公視新聞 PNN",
@@ -100,6 +73,27 @@
           "source": "自由時報",
           "title": "2公噸近危白犀牛「阿里郎」六福村飛往韓國血緣交流",
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5652356"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "明天天氣／週三低溫1字頭 週四回暖有雨 投票日全臺放晴",
+      "summary": [
+        "自由時報：明天天氣／週三低溫1字頭 週四回暖有雨 投票日全臺放晴",
+        "ETtoday：今明「全臺有雨」　投票日天氣曝"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "明天天氣／週三低溫1字頭 週四回暖有雨 投票日全臺放晴",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5652166"
+        },
+        {
+          "source": "ETtoday",
+          "title": "今明「全臺有雨」　投票日天氣曝",
+          "url": "https://www.ettoday.net/news/20261125/3277945.htm"
         }
       ]
     },
@@ -126,27 +120,6 @@
     },
     {
       "rank": 6,
-      "title": "俄羅斯戰機進入韓國防空識別區 韓軍緊急出動戰機並發布空襲警報",
-      "summary": [
-        "經濟日報：俄羅斯戰機進入韓國防空識別區 韓軍緊急出動戰機並發布空襲警報",
-        "公視新聞：南韓發現俄軍機入侵防空識別區 擬召見武官表達抗議"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "俄羅斯戰機進入韓國防空識別區 韓軍緊急出動戰機並發布空襲警報",
-          "url": "https://money.udn.com/money/story/5599/9898733"
-        },
-        {
-          "source": "公視新聞",
-          "title": "南韓發現俄軍機入侵防空識別區 擬召見武官表達抗議",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LYWNUcjNtdWJQQWxRWDZkUFNTb0VKeGtHcFZRdGZYMmtTNnJNUjdMbGZrbFpDVm4zT3NRYXc3eEdxU3hKbGZaMW1rdjE5ZUk?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "《單身3》尹廈情怒控賓客「搶先模擬婚禮」這2人遭肉搜急道歉",
       "summary": [
         "自由時報：《單身3》尹廈情怒控賓客「搶先模擬婚禮」這2人遭肉搜急道歉",
@@ -167,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "屏東潮州傳議員、鎮代「包裹式賄選」 2樁腳收押、1人5萬交保",
       "summary": [
         "自由時報：屏東潮州傳議員、鎮代「包裹式賄選」 2樁腳收押、1人5萬交保",
@@ -188,23 +161,44 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "明天天氣／週三低溫1字頭 週四回暖有雨 投票日全臺放晴",
+      "rank": 8,
+      "title": "Anthropic上市不到一週跌破發行價　盤前下挫逾6%",
       "summary": [
-        "自由時報：明天天氣／週三低溫1字頭 週四回暖有雨 投票日全臺放晴",
-        "ETtoday：今明「全臺有雨」　投票日天氣曝"
+        "經濟日報：Anthropic上市不到一週跌破發行價　盤前下挫逾6%",
+        "科技新報：Anthropic 上市不到一週跌破發行價，盤前下挫逾 6%"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "明天天氣／週三低溫1字頭 週四回暖有雨 投票日全臺放晴",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5652166"
+          "source": "經濟日報",
+          "title": "Anthropic上市不到一週跌破發行價　盤前下挫逾6%",
+          "url": "https://money.udn.com/money/story/123398/9899552"
         },
         {
+          "source": "科技新報",
+          "title": "Anthropic 上市不到一週跌破發行價，盤前下挫逾 6%",
+          "url": "https://finance.technews.tw/2026/11/25/anthropic-shares-tumble-below-83-ipo-price/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "《蜘蛛人：重生日》全新加長版明年1月上映　刪減片段終於曝光",
+      "summary": [
+        "ETtoday：《蜘蛛人：重生日》全新加長版明年1月上映　刪減片段終於曝光",
+        "自由時報：《蜘蛛人：重生日》加長版確定上映！「午夜護士」蘿莎瑞道森回歸同框蜘蛛人"
+      ],
+      "media_count": 2,
+      "links": [
+        {
           "source": "ETtoday",
-          "title": "今明「全臺有雨」　投票日天氣曝",
-          "url": "https://www.ettoday.net/news/20261125/3277945.htm"
+          "title": "《蜘蛛人：重生日》全新加長版明年1月上映　刪減片段終於曝光",
+          "url": "https://star.ettoday.net/news/3277818"
+        },
+        {
+          "source": "自由時報",
+          "title": "《蜘蛛人：重生日》加長版確定上映！「午夜護士」蘿莎瑞道森回歸同框蜘蛛人",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5652279"
         }
       ]
     },
