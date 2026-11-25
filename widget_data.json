@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 21:57",
+  "updated_at": "2026-11-25 22:27",
   "taiwan": [
     {
       "rank": 1,
@@ -126,48 +126,6 @@
     },
     {
       "rank": 6,
-      "title": "黃仁勳外遇對比羅大佑言論　作家：臺灣呈現雙標景象",
-      "summary": [
-        "ETtoday：黃仁勳外遇對比羅大佑言論　作家：臺灣呈現雙標景象",
-        "中時新聞：高雄半年3師離世 工會抗議陳其邁未現身 謝寒冰：換在臺北閃得掉？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳外遇對比羅大佑言論　作家：臺灣呈現雙標景象",
-          "url": "https://www.ettoday.net/news/20261125/3278032.htm"
-        },
-        {
-          "source": "中時新聞",
-          "title": "高雄半年3師離世 工會抗議陳其邁未現身 謝寒冰：換在臺北閃得掉？",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wMVdyUjFWd3VEWGdSOFZyaUFzWWpNSXRuQmlNdllmU3dxNnpJLUxkeERabGpBejY0ejBjX05tVkN5clF3S0MySDV3ZUlZQmJsNW5TVUl0cFRSakEwQ09hQlBycFo1RmtoeFFqeElR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "馬斯克坦言 AI「競爭失利」：SpaceX 轉當算力房東，Anthropic 每月租金 31 億美元",
-      "summary": [
-        "科技新報：馬斯克坦言 AI「競爭失利」：SpaceX 轉當算力房東，Anthropic 每月租金 31 億美元",
-        "INSIDE硬塞：馬斯克坦承 SpaceX AI 競爭落後！出租算力比自研 Grok 更賺錢"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "馬斯克坦言 AI「競爭失利」：SpaceX 轉當算力房東，Anthropic 每月租金 31 億美元",
-          "url": "https://technews.tw/2026/11/25/musk-told-spacex-staff-the-company-was-failing-to-compete-on-ai/"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "馬斯克坦承 SpaceX AI 競爭落後！出租算力比自研 Grok 更賺錢",
-          "url": "https://www.inside.com.tw/article/42999-spacex-ai-compute-rental-anthropic-google-grok"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "AI 伺服器賣翻  戴爾 Q3 超旺、營收翻倍創新高",
       "summary": [
         "科技新報：AI 伺服器賣翻  戴爾 Q3 超旺、營收翻倍創新高",
@@ -188,7 +146,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "NVIDIA釋出GeForce 621.40 WHQL認證驅動，正式修復SSD背景異常寫入災情",
       "summary": [
         "科技新報：NVIDIA釋出GeForce 621.40 WHQL認證驅動，正式修復SSD背景異常寫入災情",
@@ -209,7 +167,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "川普稱必要時願特赦黃仁勳　盼下週國會作證說實話",
       "summary": [
         "經濟日報：川普稱必要時願特赦黃仁勳　盼下週國會作證說實話",
@@ -228,24 +186,61 @@
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QWVhSOXFjS1hYODZYMHdlNmNyenpidW15NjdnTU9KTWNfVGRaLVN6SUxHck51aUdZd2JHcUhSS0NEQnU5Y3I3aGJVNA?oc=5"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "貝瑞搶在輝達暴漲前減空單、近 200 美元考慮再空",
+      "summary": [
+        "科技新報：貝瑞搶在輝達暴漲前減空單、近 200 美元考慮再空",
+        "MoneyDJ理財網：貝瑞搶在輝達暴漲前減空單、近200美元考慮再空- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "貝瑞搶在輝達暴漲前減空單、近 200 美元考慮再空",
+          "url": "https://finance.technews.tw/2026/11/25/michael-burry-cuts-nvidia-short-position-ahead-of-stock-surge/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "貝瑞搶在輝達暴漲前減空單、近200美元考慮再空- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSjB1c3RMYVdaenNpSGpfc0JselZsaGtyQWwzODRFekdzYnFDakpSWTktRXZaYm15em9VaG9tYmlkNFpnQW1TdG1xS1NkM2ZqMlBWNVVjYWhtZHdQamsxS0pXQ1N2OWgxNXhnVlplVE92SG9tdU5hdkZPNms0SlBKdFB5NVBmcElZUzFKNTBSU0d6QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "微軟啟動紅色警戒計畫，目標1小時內修復全球服務故障",
+      "summary": [
+        "iThome：微軟啟動紅色警戒計畫，目標1小時內修復全球服務故障",
+        "科技新報：服務中斷遭重創！微軟啟動紅色警戒，目標一小時內恢復全球服務"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "微軟啟動紅色警戒計畫，目標1小時內修復全球服務故障",
+          "url": "https://www.ithome.com.tw/news/180785"
+        },
+        {
+          "source": "科技新報",
+          "title": "服務中斷遭重創！微軟啟動紅色警戒，目標一小時內恢復全球服務",
+          "url": "https://infosecu.technews.tw/2026/11/25/microsoft-declares-code-red-to-overhaul-service-failure-prevention-and-response/"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "隨著人工智慧恐懼捲土重來，亞洲市場失勢",
+      "title": "隨著人工智慧拋售加劇，亞洲股市下滑，美國關稅威脅壓制市場情緒",
       "summary": [
-        "Financial Times：隨著人工智慧恐懼捲土重來，亞洲市場失勢",
         "Investing.com：隨著人工智慧拋售加劇，亞洲股市下滑，美國關稅威脅壓制市場情緒",
-        "Bloomberg Tech：由於人工智慧擔憂打擊晶片製造商，亞洲股市恢復下滑"
+        "Bloomberg Tech：由於人工智慧擔憂衝擊晶片製造商，亞洲股市恢復下滑",
+        "WSJ Markets：今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
-        {
-          "source": "Financial Times",
-          "title": "隨著人工智慧恐懼捲土重來，亞洲市場失勢",
-          "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1"
-        },
         {
           "source": "Investing.com",
           "title": "隨著人工智慧拋售加劇，亞洲股市下滑，美國關稅威脅壓制市場情緒",
@@ -253,8 +248,18 @@
         },
         {
           "source": "Bloomberg Tech",
-          "title": "由於人工智慧擔憂打擊晶片製造商，亞洲股市恢復下滑",
+          "title": "由於人工智慧擔憂衝擊晶片製造商，亞洲股市恢復下滑",
           "url": "https://www.bloomberg.com/news/videos/2026-11-25/asian-stocks-resume-slide-as-ai-concerns-hit-chipmakers-video"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "隨著美國新關稅的臨近，世界股市下跌，人工智慧反彈失敗",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFdBa09BUFRidnFKcTFWQkJCb1R2Smh3ZjJ0NkdvMFE1WkdEUklRdzUyZmhFWHgyUHRIS3prWmJQRFlYNGpLSHJ6OThoZVEyWmVDV0NxRTZHblh2cXc4Q0l4MkZXRm83amRNc1l3Qk95UHZJeFpfUENWNTdlLW9sakhBV013cGJicjYxU0pkMlQ4M0tWcTh3dVg5dVJhMzlF?oc=5"
         }
       ]
     },
@@ -335,27 +340,6 @@
     },
     {
       "rank": 5,
-      "title": "紐約郵報：如果需要，川普願意赦免黃仁勳",
-      "summary": [
-        "CNBC：紐約郵報：如果需要，川普願意赦免黃仁勳",
-        "德國之聲：特朗普稱必要時願赦免黃仁勳"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "紐約郵報：如果需要，川普願意赦免黃仁勳",
-          "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html"
-        },
-        {
-          "source": "德國之聲",
-          "title": "特朗普稱必要時願赦免黃仁勳",
-          "url": "https://www.dw.com/zh/特朗普称必要时愿赦免黄仁勋/a-80044285?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "美國陪審團在刑事審判中判定華為欺詐和商業機密有罪",
       "summary": [
         "CNBC：美國陪審團在刑事審判中判定華為欺詐和商業機密有罪",
@@ -376,7 +360,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "索羅門群島選擇澳洲作為“主要安全夥伴”",
       "summary": [
         "Nikkei Asia：索羅門群島選擇澳洲作為“主要安全夥伴”",
@@ -397,7 +381,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "沙烏地阿拉伯與胡塞武裝的戰鬥愈演愈烈",
       "summary": [
         "Bloomberg Markets：沙烏地阿拉伯與胡塞武裝的戰鬥愈演愈烈",
@@ -414,6 +398,27 @@
           "source": "Investing.com",
           "title": "葉門衝突升級，胡塞武裝威脅沙烏地阿拉伯港口",
           "url": "https://www.investing.com/news/stock-market-news/houthis-threaten-saudi-ports-amid-yemen-conflict-escalation-93CH-5049796"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "中國斥美國關稅前景為“政治操縱”",
+      "summary": [
+        "Bloomberg Markets：中國斥美國關稅前景為“政治操縱”",
+        "德國之聲：美國擬對中國等貿易夥伴加徵關稅 北京:“產能過剩”是偽命題"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "中國斥美國關稅前景為“政治操縱”",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-dismisses-us-tariff-prospect-as-political-maneuvering"
+        },
+        {
+          "source": "德國之聲",
+          "title": "美國擬對中國等貿易夥伴加徵關稅 北京:“產能過剩”是偽命題",
+          "url": "https://www.dw.com/zh/美国拟对中国等贸易伙伴加征关税-北京-产能过剩-是伪命题/a-80049070?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
