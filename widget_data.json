@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 12:27",
+  "updated_at": "2026-11-25 12:56",
   "taiwan": [
     {
       "rank": 1,
@@ -84,6 +84,27 @@
     },
     {
       "rank": 4,
+      "title": "正妹直播主「本尊高畫質照震撼曝光」！網驚喊：榜一大哥會不會哭？",
+      "summary": [
+        "ETtoday：正妹直播主「本尊高畫質照震撼曝光」！網驚喊：榜一大哥會不會哭？",
+        "工商時報：輝達GPU新單交期拉長- 日報"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "正妹直播主「本尊高畫質照震撼曝光」！網驚喊：榜一大哥會不會哭？",
+          "url": "https://www.ettoday.net/news/20261125/3277395.htm"
+        },
+        {
+          "source": "工商時報",
+          "title": "輝達GPU新單交期拉長- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42M2VmQVctSVFURkhPdS10eERhcTlVZkU4eDdUbTZBMDJQRmdNOXRvbElteDBxNTJlb1hxczY0LTU0cWx4V3NQZTRBTzJKT0hrRTQ4a1I5WWplalpMenBJ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
       "summary": [
         "ETtoday：快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
@@ -104,49 +125,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "傳美國準備調高對中國與其他國家關稅　最快本週公佈",
-      "summary": [
-        "自由時報：傳美國準備調高對中國與其他國家關稅　最快本週公佈",
-        "經濟日報：傳美國準備調高對中國與其他國家關稅　最快本週公佈"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "傳美國準備調高對中國與其他國家關稅　最快本週公佈",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5652284"
-        },
-        {
-          "source": "經濟日報",
-          "title": "傳美國準備調高對中國與其他國家關稅　最快本週公佈",
-          "url": "https://money.udn.com/money/story/5599/9899935"
-        }
-      ]
-    },
-    {
       "rank": 6,
-      "title": "影音／決戰新北！李四川找韓國瑜 蘇巧慧淡水車掃",
-      "summary": [
-        "TVBS新聞：影音／決戰新北！李四川找韓國瑜 蘇巧慧淡水車掃",
-        "ETtoday：快訊／新北國中少年割頸案民事部分　二審加碼改判賠1782萬"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "影音／決戰新北！李四川找韓國瑜 蘇巧慧淡水車掃",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TbnhzOVBVbXFuRkVaWDhFYy1kNE5mUjFtX2tmVjIyc0tMVDhtQ3Q4Vjd5NWVOOGZaMVcyOXhLcFh2ZXBWcWZmdHBRS1g5NHFfWWxn?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／新北國中少年割頸案民事部分　二審加碼改判賠1782萬",
-          "url": "https://www.ettoday.net/news/20261125/3278015.htm"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "受美國關稅訊息拖累　歐洲股市收盤下跌",
       "summary": [
         "自由時報：受美國關稅訊息拖累　歐洲股市收盤下跌",
@@ -167,7 +146,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美股開盤》黃仁勳行情熄火！費半重挫逾6% 輝達跌6% Anthropic跌破發行價再創新低| 蕭宥宸 | 新聞",
       "summary": [
         "風傳媒：美股開盤》黃仁勳行情熄火！費半重挫逾6% 輝達跌6% Anthropic跌破發行價再創新低| 蕭宥宸 | 新聞",
@@ -188,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊",
       "summary": [
         "自由時報：沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊",
@@ -209,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Shein遭美指控誤導消費者　傳將支付1億美元和解",
       "summary": [
         "自由時報：Shein遭美指控誤導消費者　傳將支付1億美元和解",
@@ -226,6 +205,27 @@
           "source": "經濟日報",
           "title": "Shein遭美指控誤導消費者　傳將支付1億美元和解",
           "url": "https://money.udn.com/money/story/5599/9899976"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "荷莫茲海峽頻傳油輪遇襲　國際油價小升",
+      "summary": [
+        "自由時報：荷莫茲海峽頻傳油輪遇襲　國際油價小升",
+        "經濟日報：荷莫茲海峽頻傳油輪遇襲　國際油價小升"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "荷莫茲海峽頻傳油輪遇襲　國際油價小升",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5652308"
+        },
+        {
+          "source": "經濟日報",
+          "title": "荷莫茲海峽頻傳油輪遇襲　國際油價小升",
+          "url": "https://money.udn.com/money/story/5599/9900010"
         }
       ]
     }
