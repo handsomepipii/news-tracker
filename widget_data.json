@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 20:57",
+  "updated_at": "2026-11-25 21:28",
   "taiwan": [
     {
       "rank": 1,
@@ -84,27 +84,6 @@
     },
     {
       "rank": 4,
-      "title": "美陪審團判華為10項罪名成立　共謀從事組織犯罪無罪",
-      "summary": [
-        "經濟日報：美陪審團判華為10項罪名成立　共謀從事組織犯罪無罪",
-        "公視新聞：美陪審團裁定華為10罪名成立 含銀行詐欺、竊商業機密"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美陪審團判華為10項罪名成立　共謀從事組織犯罪無罪",
-          "url": "https://money.udn.com/money/story/5599/9900246"
-        },
-        {
-          "source": "公視新聞",
-          "title": "美陪審團裁定華為10罪名成立 含銀行詐欺、竊商業機密",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15eVZETzlRcU9TemJtemFKXzhzQnlhNkhMdzB2NUt6VTFDTnBUbWlvQzZqemxJMEE2dzl2TVNDaWg2RWlMOHhCX1l1MlZVVnM?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "新北國中生割頸案二審判加重賠償1782萬！乾哥、乾妹聽判表情曝",
       "summary": [
         "自由時報：新北國中生割頸案二審判加重賠償1782萬！乾哥、乾妹聽判表情曝",
@@ -125,7 +104,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "森崴下市衝擊 富威電力砍現金股利降至1.6067元",
       "summary": [
         "自由時報：森崴下市衝擊 富威電力砍現金股利降至1.6067元",
@@ -146,49 +125,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "臺積電暴跌140元史上第2慘！指數狂瀉逾2000點",
-      "summary": [
-        "自由時報：臺積電暴跌140元史上第2慘！指數狂瀉逾2000點",
-        "中時新聞：臺股史詩級暴跌！指數狂瀉3400點、臺積電殺210元 創史上第2慘"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "臺積電暴跌140元史上第2慘！指數狂瀉逾2000點",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5652412"
-        },
-        {
-          "source": "中時新聞",
-          "title": "臺股史詩級暴跌！指數狂瀉3400點、臺積電殺210元 創史上第2慘",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IbjYxa3l2Y0tIT1VzUU5zVVY0aV85cWd1cmExczNTNHl4dnFLX1E1QjYwYndfTk01MHlCanpIaG5FWTlfdF84Z01KdXBaaUNBSklSM1ZDMVFhLXg4R1lDblUtS1BJRndkc0tvU21R?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "黃仁勳復任國會嚴陣以待　民主黨參院領袖控違反出口管制",
-      "summary": [
-        "經濟日報：黃仁勳復任國會嚴陣以待　民主黨參院領袖控違反出口管制",
-        "科技新報：黃仁勳復任國會嚴陣以待，民主黨參院領袖控違反出口管制"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳復任國會嚴陣以待　民主黨參院領袖控違反出口管制",
-          "url": "https://money.udn.com/money/story/5599/9900194"
-        },
-        {
-          "source": "科技新報",
-          "title": "黃仁勳復任國會嚴陣以待，民主黨參院領袖控違反出口管制",
-          "url": "https://technews.tw/2026/11/25/schumer-accuses-nvidia-ceo-of-violating-us-export-control-law/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "黃仁勳外遇對比羅大佑言論　作家：臺灣呈現雙標景象",
       "summary": [
         "ETtoday：黃仁勳外遇對比羅大佑言論　作家：臺灣呈現雙標景象",
@@ -209,7 +146,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "馬斯克坦言 AI「競爭失利」：SpaceX 轉當算力房東，Anthropic 每月租金 31 億美元",
       "summary": [
         "科技新報：馬斯克坦言 AI「競爭失利」：SpaceX 轉當算力房東，Anthropic 每月租金 31 億美元",
@@ -226,6 +163,69 @@
           "source": "INSIDE硬塞",
           "title": "馬斯克坦承 SpaceX AI 競爭落後！出租算力比自研 Grok 更賺錢",
           "url": "https://www.inside.com.tw/article/42999-spacex-ai-compute-rental-anthropic-google-grok"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "AI 伺服器賣翻  戴爾 Q3 超旺、營收翻倍創新高",
+      "summary": [
+        "科技新報：AI 伺服器賣翻  戴爾 Q3 超旺、營收翻倍創新高",
+        "MoneyDJ理財網：AI伺服器賣翻戴爾Q3超旺、營收翻倍創新高- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "AI 伺服器賣翻  戴爾 Q3 超旺、營收翻倍創新高",
+          "url": "https://finance.technews.tw/2026/11/25/dell-q3-revenue-doubles-to-a-record-high/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "AI伺服器賣翻戴爾Q3超旺、營收翻倍創新高- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkpyTDRRRHFBWC1jMl9VS24wcF9aVUxIcUs5dXd3TDU3bjczOE1xZzFPZ0loOHY4Yzd1NWhlRHhnTm5GdzJtdFpCNFk2V3RoanBNLWQwZXNHQmFkVjU0Vkw1UHdBTXY1UHRLSUZmbzViZklta1FIcF9Hd0RYTXdJWEZ4ZXBVTVdLUnc1YXc3RTc2Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "NVIDIA釋出GeForce 621.40 WHQL認證驅動，正式修復SSD背景異常寫入災情",
+      "summary": [
+        "科技新報：NVIDIA釋出GeForce 621.40 WHQL認證驅動，正式修復SSD背景異常寫入災情",
+        "癮科技Cool3c：NVIDIA GeForce 621.40驅動聲稱修復後臺異常寫入問題"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "NVIDIA釋出GeForce 621.40 WHQL認證驅動，正式修復SSD背景異常寫入災情",
+          "url": "https://technews.tw/2026/11/25/nvidia-621-40-driver-fixes-ssd-abnormal-writes-excessive-background-log-flushing-risk/"
+        },
+        {
+          "source": "癮科技Cool3c",
+          "title": "NVIDIA GeForce 621.40驅動聲稱修復後臺異常寫入問題",
+          "url": "https://www.cool3c.com/article/254353"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普稱必要時願特赦黃仁勳　盼下週國會作證說實話",
+      "summary": [
+        "經濟日報：川普稱必要時願特赦黃仁勳　盼下週國會作證說實話",
+        "公視新聞：川普稱不排除特赦黃仁勳盼他下週赴美國會據實以告｜20261125 公視午間新聞｜ 公視新聞PNN"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普稱必要時願特赦黃仁勳　盼下週國會作證說實話",
+          "url": "https://money.udn.com/money/story/5599/9900375"
+        },
+        {
+          "source": "公視新聞",
+          "title": "川普稱不排除特赦黃仁勳盼他下週赴美國會據實以告｜20261125 公視午間新聞｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QWVhSOXFjS1hYODZYMHdlNmNyenpidW15NjdnTU9KTWNfVGRaLVN6SUxHck51aUdZd2JHcUhSS0NEQnU5Y3I3aGJVNA?oc=5"
         }
       ]
     }
@@ -440,22 +440,22 @@
     },
     {
       "rank": 10,
-      "title": "Flipkart 執行長將在沃爾瑪印度業務轉型後辭職",
+      "title": "由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
       "summary": [
-        "Bloomberg Tech：Flipkart 執行長將在沃爾瑪印度業務轉型後辭職",
-        "Investing.com：沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務"
+        "Bloomberg Markets：由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
+        "Investing.com：人工智慧股票因對基礎設施建設成本的擔憂而下滑"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "Flipkart 執行長將在沃爾瑪印度業務轉型後辭職",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/flipkart-ceo-to-exit-after-transforming-walmart-s-india-play"
+          "source": "Bloomberg Markets",
+          "title": "由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses"
         },
         {
           "source": "Investing.com",
-          "title": "沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
-          "url": "https://www.investing.com/news/stock-market-news/walmartowned-flipkarts-kalyan-krishnamurthy-steps-down-as-ceo-5049946"
+          "title": "人工智慧股票因對基礎設施建設成本的擔憂而下滑",
+          "url": "https://www.investing.com/news/stock-market-news/ai-stocks-slide-on-fears-over-infrastructure-buildout-costs-5050519"
         }
       ]
     }
