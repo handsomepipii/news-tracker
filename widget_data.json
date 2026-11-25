@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-25 10:56",
+  "updated_at": "2026-11-25 11:26",
   "taiwan": [
     {
       "rank": 1,
+      "title": "黃仁勳回歸首場員工大會道歉：傷害了你們　輝達不需傳統接班計畫",
+      "summary": [
+        "ETtoday：黃仁勳回歸首場員工大會道歉：傷害了你們　輝達不需傳統接班計畫",
+        "自由時報：黃仁勳復職首開員工大會致歉  稱輝達不需要傳統接班計畫",
+        "財訊：黃仁勳在重返輝達的第一場員工會議上道歉 談到接班人規劃時他這樣說"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳回歸首場員工大會道歉：傷害了你們　輝達不需傳統接班計畫",
+          "url": "https://www.ettoday.net/news/20261125/3277952.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "黃仁勳復職首開員工大會致歉  稱輝達不需要傳統接班計畫",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5652315"
+        },
+        {
+          "source": "財訊",
+          "title": "黃仁勳在重返輝達的第一場員工會議上道歉 談到接班人規劃時他這樣說",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ON0xHR0Z4bE11X0YyTUVsTE4xR3llckpfSHJaX1BIeVZKQXQyMy0zNnlIRHR6N0pSVmtQSzg1TFhlYU9TbS1odDZmMlBEWEpia1VBeGt3NDZ0QWxGb2w4dC1Ia1Q4SE1wQVF6X01rSFowTkY0VV9xT2NERQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "土耳其軍方直升機訓練時墜毀　導致5名官兵喪命",
       "summary": [
         "自由時報：土耳其軍方直升機訓練時墜毀　導致5名官兵喪命",
@@ -29,7 +56,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
       "summary": [
         "自由時報：以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
@@ -56,70 +83,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "黃仁勳回歸首場員工大會道歉：傷害了你們　輝達不需傳統接班計畫",
-      "summary": [
-        "ETtoday：黃仁勳回歸首場員工大會道歉：傷害了你們　輝達不需傳統接班計畫",
-        "自由時報：黃仁勳復職首開員工大會致歉  稱輝達不需要傳統接班計畫"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳回歸首場員工大會道歉：傷害了你們　輝達不需傳統接班計畫",
-          "url": "https://www.ettoday.net/news/20261125/3277952.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "黃仁勳復職首開員工大會致歉  稱輝達不需要傳統接班計畫",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5652315"
-        }
-      ]
-    },
-    {
       "rank": 4,
-      "title": "沈伯洋直播髮型投票 結果讓他超崩潰直呼「選舉無效」",
-      "summary": [
-        "自由時報：沈伯洋直播髮型投票 結果讓他超崩潰直呼「選舉無效」",
-        "ETtoday：沈伯洋髮型投票　結果「破防」大喊選舉無效"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "沈伯洋直播髮型投票 結果讓他超崩潰直呼「選舉無效」",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5652256"
-        },
-        {
-          "source": "ETtoday",
-          "title": "沈伯洋髮型投票　結果「破防」大喊選舉無效",
-          "url": "https://www.ettoday.net/news/20261125/3277951.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "沙烏地首都最高摩天大樓被擊中　一週內2度遇襲",
-      "summary": [
-        "經濟日報：沙烏地首都最高摩天大樓被擊中　一週內2度遇襲",
-        "自由時報：沙烏地首都最高摩天大樓被擊中 一週內2度遇襲"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "沙烏地首都最高摩天大樓被擊中　一週內2度遇襲",
-          "url": "https://money.udn.com/money/story/5599/9899772"
-        },
-        {
-          "source": "自由時報",
-          "title": "沙烏地首都最高摩天大樓被擊中 一週內2度遇襲",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5652261"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "全臺人口減10萬「家戶反暴增近10萬」 新北3區成最大贏家",
       "summary": [
         "自由時報：全臺人口減10萬「家戶反暴增近10萬」 新北3區成最大贏家",
@@ -140,7 +104,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "臉書沒被盜卻連兩晚噴錢！　史丹利曝詐騙盜刷手法：我真的是驚醒",
       "summary": [
         "ETtoday：臉書沒被盜卻連兩晚噴錢！　史丹利曝詐騙盜刷手法：我真的是驚醒",
@@ -161,7 +125,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "黃仁勳曾想騎重機橫越美國？Podcast主持人曝收邀約訊息",
       "summary": [
         "經濟日報：黃仁勳曾想騎重機橫越美國？Podcast主持人曝收邀約訊息",
@@ -182,7 +146,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "傳美國準備調高對中國與其他國家關稅　最快本週公佈",
       "summary": [
         "自由時報：傳美國準備調高對中國與其他國家關稅　最快本週公佈",
@@ -203,7 +167,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "受美國關稅訊息拖累　歐洲股市收盤下跌",
       "summary": [
         "自由時報：受美國關稅訊息拖累　歐洲股市收盤下跌",
@@ -222,70 +186,53 @@
           "url": "https://money.udn.com/money/story/5599/9899950"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "美股開盤》黃仁勳行情熄火！費半重挫逾6% 輝達跌6% Anthropic跌破發行價再創新低| 蕭宥宸 | 新聞",
+      "summary": [
+        "風傳媒：美股開盤》黃仁勳行情熄火！費半重挫逾6% 輝達跌6% Anthropic跌破發行價再創新低| 蕭宥宸 | 新聞",
+        "ETtoday：黃仁勳行情熄火！美股晶片類股跌逾7％　Anthropic破發"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "美股開盤》黃仁勳行情熄火！費半重挫逾6% 輝達跌6% Anthropic跌破發行價再創新低| 蕭宥宸 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PbDI4bngycWZyR0VmV2hRWm95TUJDMVlVb29pZ2tZemhmeG9NV1JuQUNkTXlhWVduVmU1LUFDb1QxOG9sZ19md05PS1JXQQ?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳行情熄火！美股晶片類股跌逾7％　Anthropic破發",
+          "url": "https://www.ettoday.net/news/20261125/3277950.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊",
+      "summary": [
+        "自由時報：沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊",
+        "經濟日報：沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5652297"
+        },
+        {
+          "source": "經濟日報",
+          "title": "沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊",
+          "url": "https://money.udn.com/money/story/5599/9899956"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Anthropic 的股價首度跌破 IPO 價格",
-      "summary": [
-        "MarketWatch：Anthropic 的股價首度跌破 IPO 價格",
-        "Bloomberg Tech：Anthropic股價跌破83美元的IPO價格",
-        "TechCrunch：Anthropic 股價跌破 IPO 價格，這對人工智慧新創公司來說是一個令人擔憂的跡象"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "MarketWatch",
-          "title": "Anthropic 的股價首度跌破 IPO 價格",
-          "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic股價跌破83美元的IPO價格",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-24/anthropic-shares-fall-below-ipo-price-of-83-video"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Anthropic 股價跌破 IPO 價格，這對人工智慧新創公司來說是一個令人擔憂的跡象",
-          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "隨著第一天的上漲消失，Anthrotic 股價跌破 83 美元 IPO 價格",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdF9semMwVkFDQkVHWEd3QVVjT2NGTjBHcDJWTTJBZlhsS3FsVmU3S2p4dDBGVktPV3dBUlBQc2p3OERudGJyWHgtU1lWNWlxOFhDVHNfREZzMDNIeDdPODc5Y3VtSGR0dmY5a0x6dlRWM0FqeFpRVGlZT0JCSEVIQXJ3cEE2Vi1sZjN0bGR2TUpmUlpHTnVpd293dXNMRUhhTV9zd1UxSU9Sc3BxSWFZaW9JeTAxTFpQSzVZLVhn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "委內瑞拉在重組前公佈了 2,370 億美元的債務負擔",
-      "summary": [
-        "Bloomberg Markets：委內瑞拉在重組前公佈了 2,370 億美元的債務負擔",
-        "Financial Times：委內瑞拉在歷史重組之前公佈了2400億美元的債務",
-        "WSJ Markets：委內瑞拉債務負擔高達 2,370 億美元"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "委內瑞拉在重組前公佈了 2,370 億美元的債務負擔",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-24/venezuela-unveils-237-billion-debt-load-ahead-of-restructuring"
-        },
-        {
-          "source": "Financial Times",
-          "title": "委內瑞拉在歷史重組之前公佈了2400億美元的債務",
-          "url": "https://www.ft.com/content/5975ac9e-20a2-4c20-a0e8-805892253272?syn-25a6b1a6=1"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "委內瑞拉債務負擔高達 2,370 億美元",
-          "url": "https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "上海市委書記陳吉寧接受調查",
       "summary": [
         "Nikkei Asia：上海市委書記陳吉寧接受調查",
@@ -306,7 +253,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "由於人工智慧伺服器需求不斷增長，戴爾再次上調年度銷售預測",
       "summary": [
         "Bloomberg Tech：由於人工智慧伺服器需求不斷增長，戴爾再次上調年度銷售預測",
@@ -327,28 +274,28 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "由於黃仁勳回歸面臨這些重大問題，英偉達股價下跌",
+      "rank": 3,
+      "title": "Anthropic股價跌破83美元的IPO價格",
       "summary": [
-        "MarketWatch：由於黃仁勳回歸面臨這些重大問題，英偉達股價下跌",
-        "法廣RFI：英偉達股價出現下跌"
+        "Bloomberg Tech：Anthropic股價跌破83美元的IPO價格",
+        "Yahoo Finance：隨著第一天的上漲消失，Anthrotic 股價跌破 83 美元 IPO 價格"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "MarketWatch",
-          "title": "由於黃仁勳回歸面臨這些重大問題，英偉達股價下跌",
-          "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories"
+          "source": "Bloomberg Tech",
+          "title": "Anthropic股價跌破83美元的IPO價格",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-24/anthropic-shares-fall-below-ipo-price-of-83-video"
         },
         {
-          "source": "法廣RFI",
-          "title": "英偉達股價出現下跌",
-          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261124-%E8%8B%B1%E5%81%89%E9%81%94%E8%82%A1%E5%83%B9%E5%87%BA%E7%8F%BE%E4%B8%8B%E8%B7%8C"
+          "source": "Yahoo Finance",
+          "title": "隨著第一天的上漲消失，Anthrotic 股價跌破 83 美元 IPO 價格",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdF9semMwVkFDQkVHWEd3QVVjT2NGTjBHcDJWTTJBZlhsS3FsVmU3S2p4dDBGVktPV3dBUlBQc2p3OERudGJyWHgtU1lWNWlxOFhDVHNfREZzMDNIeDdPODc5Y3VtSGR0dmY5a0x6dlRWM0FqeFpRVGlZT0JCSEVIQXJ3cEE2Vi1sZjN0bGR2TUpmUlpHTnVpd293dXNMRUhhTV9zd1UxSU9Sc3BxSWFZaW9JeTAxTFpQSzVZLVhn?oc=5"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "Tidal 將於下個月開始禁止人工智慧產生的音樂",
       "summary": [
         "The Verge：Tidal 將於下個月開始禁止人工智慧產生的音樂",
@@ -365,6 +312,48 @@
           "source": "Ars Technica",
           "title": "Tidal 宣佈禁止人工智慧生成音樂；2700萬首曲目將被刪除",
           "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "委內瑞拉在歷史重組之前公佈了2400億美元的債務",
+      "summary": [
+        "Financial Times：委內瑞拉在歷史重組之前公佈了2400億美元的債務",
+        "WSJ Markets：委內瑞拉債務負擔高達 2,370 億美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "委內瑞拉在歷史重組之前公佈了2400億美元的債務",
+          "url": "https://www.ft.com/content/5975ac9e-20a2-4c20-a0e8-805892253272?syn-25a6b1a6=1"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "委內瑞拉債務負擔高達 2,370 億美元",
+          "url": "https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "隨著 Anthropic 跌破 IPO 價格，大筆交易者的反應如下",
+      "summary": [
+        "CNBC：隨著 Anthropic 跌破 IPO 價格，大筆交易者的反應如下",
+        "TechCrunch：Anthropic 股價跌破 IPO 價格，這對人工智慧新創公司來說是一個令人擔憂的跡象"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "隨著 Anthropic 跌破 IPO 價格，大筆交易者的反應如下",
+          "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Anthropic 股價跌破 IPO 價格，這對人工智慧新創公司來說是一個令人擔憂的跡象",
+          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
         }
       ]
     },
