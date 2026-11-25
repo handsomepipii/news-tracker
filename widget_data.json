@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 07:27",
+  "updated_at": "2026-11-26 07:56",
   "taiwan": [
     {
       "rank": 1,
@@ -89,6 +89,54 @@
     },
     {
       "rank": 4,
+      "title": "2028美國總統大選　共和黨多名眾議員力拱盧比歐參選",
+      "summary": [
+        "自由時報：2028美國總統大選　共和黨多名眾議員力拱盧比歐參選",
+        "經濟日報：2028美國總統大選　共和黨多名眾議員力拱盧比歐參選",
+        "ETtoday：盧比歐將成共和黨共主？　多名眾議員力挺角逐2028總統大選"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "2028美國總統大選　共和黨多名眾議員力拱盧比歐參選",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5653609"
+        },
+        {
+          "source": "經濟日報",
+          "title": "2028美國總統大選　共和黨多名眾議員力拱盧比歐參選",
+          "url": "https://money.udn.com/money/story/5599/9902470"
+        },
+        {
+          "source": "ETtoday",
+          "title": "盧比歐將成共和黨共主？　多名眾議員力挺角逐2028總統大選",
+          "url": "https://www.ettoday.net/news/20261126/3278620.htm"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "沈伯洋選前之夜喊卡！柯昱安揭當年柯市府也沒搶到路權 怒嗆藍營1句",
+      "summary": [
+        "自由時報：沈伯洋選前之夜喊卡！柯昱安揭當年柯市府也沒搶到路權 怒嗆藍營1句",
+        "ETtoday：沈伯洋選前之夜喊卡　楊智伃：裝可憐也要怪蔣萬安？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "沈伯洋選前之夜喊卡！柯昱安揭當年柯市府也沒搶到路權 怒嗆藍營1句",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653547"
+        },
+        {
+          "source": "ETtoday",
+          "title": "沈伯洋選前之夜喊卡　楊智伃：裝可憐也要怪蔣萬安？",
+          "url": "https://www.ettoday.net/news/20261126/3278623.htm"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
       "summary": [
         "自由時報：重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
@@ -109,7 +157,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "學者：ART護臺灣301稅率不逾15％ 保持相對競爭力",
       "summary": [
         "自由時報：學者：ART護臺灣301稅率不逾15％ 保持相對競爭力",
@@ -130,7 +178,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "何欣純遭影射賄選一票2千5　網友脆上亂發文造謠被抓到了",
       "summary": [
         "ETtoday：何欣純遭影射賄選一票2千5　網友脆上亂發文造謠被抓到了",
@@ -151,7 +199,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "建通看好明年獲利成長 特殊新型銅材營收比重衝5成",
       "summary": [
         "鉅亨網：建通看好明年獲利成長 特殊新型銅材營收比重衝5成",
@@ -172,7 +220,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "王世堅喊讓沈伯洋當史上最高票市長 4年後接棒總統賴清德",
       "summary": [
         "自由時報：王世堅喊讓沈伯洋當史上最高票市長 4年後接棒總統賴清德",
@@ -189,48 +237,6 @@
           "source": "ETtoday",
           "title": "王世堅嗨喊讓沈伯洋成為史上最高票市長　4年後接棒賴清德",
           "url": "https://www.ettoday.net/news/20261125/3278548.htm"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "威健國內第八次無擔保轉換債完成訂價，每股35.29元",
-      "summary": [
-        "公開資訊觀測站重訊：威健國內第八次無擔保轉換債完成訂價，每股35.29元",
-        "MoneyDJ理財網：威健國內第八次無擔保轉換債完成訂價，每股35.29元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "威健國內第八次無擔保轉換債完成訂價，每股35.29元",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNam5TMVB1dU5OX2VDUHZZRm16dm5ETnJQNy1neDhaR3hLc1NEbUFaQnd6QnZ4THNFVzZrRm1hbWhfNEpIbWFyN1g0SHp2NFFudVBCUUZ5UExQVlB3NEI1VVRJNTRLaWQwVVFBdHpqZTh3d2psQWRSRDJSRW1MZzhiNnpjSUZLMEtYUnlkRDBBLUZIZw?oc=5"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "威健國內第八次無擔保轉換債完成訂價，每股35.29元",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemJ4V3RvX2RJeU5UWFZmTlJBUUEtY1o2RVNhWWFRX29ZOWhDSlhsZ0xQTUVRNktSR3N5dXl3SlkxaHlablpsV3VPb1dJRW50TndyX0I4VmtKcWlVbFdad0pJamxRb2JnZ0dlTnJtOFpOTWh6WmdjcXVaVWhfTlROMTBVT04yd1ZVWHhFMUpXbi1EUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元- 新聞",
-      "summary": [
-        "MoneyDJ理財網：昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元- 新聞",
-        "公開資訊觀測站重訊：昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUms4RVBMaDBvUFhYR0wtakZUb2VXV0Q4bEZJSVZTaEd6N3ZXVWxkeUFaQUctS1M5ajloOGRRaDNHZlBleWZkc0E4QU5CU2tYU0hmdmt1YndvWm9La3FWTWp3ZUt5ZVNUTDF2TzhlbDdUblNna21uUHBoZ0hOdGpZX0JCa1V1ekFOb3NuY1JWUEo5QQ?oc=5"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWFROVBMWnM3aDhpRTBsTm9qWTdyeU5LNDFQbEluNEN0VS04cEVaNjVtU1ZscmxiNC1oUW9iaTFaaEVtSXc0NHZ5RnJsd0hGREM4ZUNiS2psVWF1WFVld0FDb3BMMkhEUmMta0ZzcHVZZy03azBnamQ3eS1fTUNfTE91RlA3bkVma25ldld4Z2Y0UQ?oc=5"
         }
       ]
     }
