@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 14:27",
+  "updated_at": "2026-11-25 14:57",
   "taiwan": [
     {
       "rank": 1,
@@ -239,33 +239,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "隨著 Anthropic 跌破 IPO 價格，大筆交易者的反應如下",
-      "summary": [
-        "CNBC：隨著 Anthropic 跌破 IPO 價格，大筆交易者的反應如下",
-        "TechCrunch：Anthropic 股價跌破 IPO 價格，這對人工智慧新創公司來說是一個令人擔憂的跡象",
-        "Yahoo Finance：隨著 Anthropic 跌破 IPO 價格，股市回吐漲幅"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "隨著 Anthropic 跌破 IPO 價格，大筆交易者的反應如下",
-          "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Anthropic 股價跌破 IPO 價格，這對人工智慧新創公司來說是一個令人擔憂的跡象",
-          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "隨著 Anthropic 跌破 IPO 價格，股市回吐漲幅",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUpJbVNsM01ud2xoWmpRcFUzc3dUcWFHaWx4LXpiX05EYjFIbkJzNlhOQmlDb0ROeWlzT3drSDlFRDhITlB6QTBFc0ZicVZQd245N2hLYWN6X3E3RVRia3c1UFdjZVJ5cWp4U0xHU0hmeE5fRU9CQXdLU2ZLd1dITlJHMlpVbGp2bFZ6bl90R1pMZ0tvRFVGLTRrU0N5eE5VdnJjNUtR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "中國的“天宮”迎來首位外籍宇航員",
       "summary": [
         "法廣RFI：中國的“天宮”迎來首位外籍宇航員",
@@ -292,7 +265,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "隨著人工智慧貿易疑慮重新浮現，亞洲股市將下滑：市場結束",
       "summary": [
         "Bloomberg Markets：隨著人工智慧貿易疑慮重新浮現，亞洲股市將下滑：市場結束",
@@ -319,7 +292,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "由於人工智慧伺服器需求不斷增長，戴爾再次上調年度銷售預測",
       "summary": [
         "Bloomberg Tech：由於人工智慧伺服器需求不斷增長，戴爾再次上調年度銷售預測",
@@ -340,7 +313,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "據說星巴克正在與銀行合作出售日本業務",
       "summary": [
         "Bloomberg Markets：據說星巴克正在與銀行合作出售日本業務",
@@ -361,7 +334,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "美國司法部長迴避解釋英偉達黃仁勳的風險評估",
       "summary": [
         "NHK新聞：美國司法部長迴避解釋英偉達黃仁勳的風險評估",
@@ -382,28 +355,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "華為被判竊取商業機密罪，但敲詐勒索罪被判無罪",
-      "summary": [
-        "BBC World：華為被判竊取商業機密罪，但敲詐勒索罪被判無罪",
-        "The Verge：華為被判竊取商業機密罪"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "華為被判竊取商業機密罪，但敲詐勒索罪被判無罪",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Verge",
-          "title": "華為被判竊取商業機密罪",
-          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "title": "華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
       "summary": [
         "Financial Times：華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
@@ -424,7 +376,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "中國華為因伊朗業務在美國刑事審判中被判有罪",
       "summary": [
         "Nikkei Asia：中國華為因伊朗業務在美國刑事審判中被判有罪",
@@ -445,7 +397,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "俄羅斯獨立媒體分析稱，超過49萬名俄羅斯士兵在戰鬥中喪生",
       "summary": [
         "NHK新聞：俄羅斯獨立媒體分析稱，超過49萬名俄羅斯士兵在戰鬥中喪生",
@@ -462,6 +414,48 @@
           "source": "BBC World",
           "title": "俄羅斯自己的資料顯示近50萬人在烏克蘭戰爭中死亡",
           "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "南航訂購 50 架飛機，這是波音近十年來最大的中國交易",
+      "summary": [
+        "Investing.com：南航訂購 50 架飛機，這是波音近十年來最大的中國交易",
+        "CNBC：中國廈門航空斥資74億美元購買50架波音飛機"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "南航訂購 50 架飛機，這是波音近十年來最大的中國交易",
+          "url": "https://www.investing.com/news/stock-market-news/china-southern-airlines-unit-to-buy-50-boeing-7378-aircraft-5047529"
+        },
+        {
+          "source": "CNBC",
+          "title": "中國廈門航空斥資74億美元購買50架波音飛機",
+          "url": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
+      "summary": [
+        "Investing.com：在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
+        "NHK新聞：黃仁勳重返英偉達執行長，因川普總統的參與而受到批評"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
+          "url": "https://www.investing.com/news/stock-market-news/huang-returns-as-nvidia-ceo-after-trump-intervention-in-abrupt-board-reversal-5049490"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "黃仁勳重返英偉達執行長，因川普總統的參與而受到批評",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261125de81016"
         }
       ]
     }
