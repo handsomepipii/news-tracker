@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 11:26",
+  "updated_at": "2026-11-25 11:56",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "連白沙屯媽祖進香都貪 前通霄鎮長陳漢志貪汙二審判更重",
+      "summary": [
+        "自由時報：連白沙屯媽祖進香都貪 前通霄鎮長陳漢志貪汙二審判更重",
+        "工商時報：輝達GPU新單交期拉長- 日報",
+        "ETtoday：快訊／新北國中少年割頸案民事部分　二審加碼改判賠1782萬"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "連白沙屯媽祖進香都貪 前通霄鎮長陳漢志貪汙二審判更重",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5652278"
+        },
+        {
+          "source": "工商時報",
+          "title": "輝達GPU新單交期拉長- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42M2VmQVctSVFURkhPdS10eERhcTlVZkU4eDdUbTZBMDJQRmdNOXRvbElteDBxNTJlb1hxczY0LTU0cWx4V3NQZTRBTzJKT0hrRTQ4a1I5WWplalpMenBJ?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／新北國中少年割頸案民事部分　二審加碼改判賠1782萬",
+          "url": "https://www.ettoday.net/news/20261125/3278015.htm"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "土耳其軍方直升機訓練時墜毀　導致5名官兵喪命",
       "summary": [
         "自由時報：土耳其軍方直升機訓練時墜毀　導致5名官兵喪命",
@@ -56,7 +83,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
       "summary": [
         "自由時報：以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
@@ -83,44 +110,23 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "全臺人口減10萬「家戶反暴增近10萬」 新北3區成最大贏家",
-      "summary": [
-        "自由時報：全臺人口減10萬「家戶反暴增近10萬」 新北3區成最大贏家",
-        "TVBS新聞：影音／決戰新北！李四川找韓國瑜 蘇巧慧淡水車掃"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "全臺人口減10萬「家戶反暴增近10萬」 新北3區成最大贏家",
-          "url": "https://estate.ltn.com.tw/article/29443"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "影音／決戰新北！李四川找韓國瑜 蘇巧慧淡水車掃",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TbnhzOVBVbXFuRkVaWDhFYy1kNE5mUjFtX2tmVjIyc0tMVDhtQ3Q4Vjd5NWVOOGZaMVcyOXhLcFh2ZXBWcWZmdHBRS1g5NHFfWWxn?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "臉書沒被盜卻連兩晚噴錢！　史丹利曝詐騙盜刷手法：我真的是驚醒",
+      "title": "快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
       "summary": [
-        "ETtoday：臉書沒被盜卻連兩晚噴錢！　史丹利曝詐騙盜刷手法：我真的是驚醒",
-        "自由時報：臉書沒被盜竟連續噴錢！史丹利2晚遭刷8000元「驚揭詐騙手法」"
+        "ETtoday：快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
+        "科技新報：川普稱必要時願意特赦輝達執行長黃仁勳"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "ETtoday",
-          "title": "臉書沒被盜卻連兩晚噴錢！　史丹利曝詐騙盜刷手法：我真的是驚醒",
-          "url": "https://star.ettoday.net/news/3277924"
+          "title": "快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
+          "url": "https://www.ettoday.net/news/20261125/3277972.htm"
         },
         {
-          "source": "自由時報",
-          "title": "臉書沒被盜竟連續噴錢！史丹利2晚遭刷8000元「驚揭詐騙手法」",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5652291"
+          "source": "科技新報",
+          "title": "川普稱必要時願意特赦輝達執行長黃仁勳",
+          "url": "https://finance.technews.tw/2026/11/25/trump-says-he-would-be-willing-to-pardon-nvidia-ceo-jensen-huang-if-necessary/"
         }
       ]
     },
@@ -233,27 +239,60 @@
   "global": [
     {
       "rank": 1,
-      "title": "上海市委書記陳吉寧接受調查",
+      "title": "中國的“天宮”迎來首位外籍宇航員",
       "summary": [
-        "Nikkei Asia：上海市委書記陳吉寧接受調查",
-        "紐約時報中文：上海市委書記陳吉寧被調查- 紐約時報中文網"
+        "法廣RFI：中國的“天宮”迎來首位外籍宇航員",
+        "NHK新聞：中國發射首艘載有外國太空人的載人太空船",
+        "Financial Times：中國首次與外國太空人一起執行太空任務"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "Nikkei Asia",
-          "title": "上海市委書記陳吉寧接受調查",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb0F2dFB6dVVxLWF4Z293bl9kRjNacXRPRHJ4WWFXZzZLMzZVOFU0STdCcHd2NVU4eERqNEpBY2xwZ0xKaE03ZjNJVFFXb1RvV2FmSkxuMzRqaGZJaHZPSEk4Q0NsZ2pqS3dKNWNsUWlRNlZQMWRNUURrTVdiQkVkQTRmNVZsSzBVcGxHNEFLb1lqaGpERlNfNEtGV0hNams?oc=5"
+          "source": "法廣RFI",
+          "title": "中國的“天宮”迎來首位外籍宇航員",
+          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261124-%E4%B8%AD%E5%9C%8B%E7%9A%84-%E5%A4%A9%E5%AE%AE-%E8%BF%8E%E4%BE%86%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E5%AE%87%E8%88%AA%E5%93%A1"
         },
         {
-          "source": "紐約時報中文",
-          "title": "上海市委書記陳吉寧被調查- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXBJR3lIT2YyY2pfTDZOclRuVndGQnBLUy1fZkQtTHk4ZVhkT25sZ1Jjd2FFSHdVTFUzSmttcThsNl9YYmUwOXY0aEJaSnFURmRha3gyMENlWWRXWUljdHJwYlk5V29Yc3dyMHB3bjFUdC1WVVNxUXpQZGczUEVleXZMVVBHZ3BaZzNsSVFHUF9iaFdrcHc?oc=5"
+          "source": "NHK新聞",
+          "title": "中國發射首艘載有外國太空人的載人太空船",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261125de80985"
+        },
+        {
+          "source": "Financial Times",
+          "title": "中國首次與外國太空人一起執行太空任務",
+          "url": "https://www.ft.com/content/a1d7d4bd-ecd0-4726-8f62-de75ce2b034c?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 2,
+      "title": "隨著人工智慧貿易疑慮重新浮現，亞洲股市將下滑：市場結束",
+      "summary": [
+        "Bloomberg Markets：隨著人工智慧貿易疑慮重新浮現，亞洲股市將下滑：市場結束",
+        "Financial Times：隨著人工智慧恐懼捲土重來，亞洲市場失勢",
+        "Investing.com：隨著人工智慧拋售加劇，亞洲股市下滑，美國關稅威脅壓制市場情緒"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "隨著人工智慧貿易疑慮重新浮現，亞洲股市將下滑：市場結束",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap"
+        },
+        {
+          "source": "Financial Times",
+          "title": "隨著人工智慧恐懼捲土重來，亞洲市場失勢",
+          "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "隨著人工智慧拋售加劇，亞洲股市下滑，美國關稅威脅壓制市場情緒",
+          "url": "https://www.investing.com/news/stock-market-news/asian-stocks-slide-as-ai-selloff-deepens-us-tariff-threats-weigh-on-sentiment-5049630"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "由於人工智慧伺服器需求不斷增長，戴爾再次上調年度銷售預測",
       "summary": [
         "Bloomberg Tech：由於人工智慧伺服器需求不斷增長，戴爾再次上調年度銷售預測",
@@ -274,7 +313,28 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "據說星巴克正在與銀行合作出售日本業務",
+      "summary": [
+        "Bloomberg Markets：據說星巴克正在與銀行合作出售日本業務",
+        "Investing.com：星巴克考慮出售價值數十億美元的日本業務"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "據說星巴克正在與銀行合作出售日本業務",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business"
+        },
+        {
+          "source": "Investing.com",
+          "title": "星巴克考慮出售價值數十億美元的日本業務",
+          "url": "https://www.investing.com/news/stock-market-news/starbucks-weighs-sale-of-japan-business-worth-several-billion-dollars--bloomberg-5049634"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Anthropic股價跌破83美元的IPO價格",
       "summary": [
         "Bloomberg Tech：Anthropic股價跌破83美元的IPO價格",
@@ -295,7 +355,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Tidal 將於下個月開始禁止人工智慧產生的音樂",
       "summary": [
         "The Verge：Tidal 將於下個月開始禁止人工智慧產生的音樂",
@@ -316,7 +376,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "委內瑞拉在歷史重組之前公佈了2400億美元的債務",
       "summary": [
         "Financial Times：委內瑞拉在歷史重組之前公佈了2400億美元的債務",
@@ -337,7 +397,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "隨著 Anthropic 跌破 IPO 價格，大筆交易者的反應如下",
       "summary": [
         "CNBC：隨著 Anthropic 跌破 IPO 價格，大筆交易者的反應如下",
@@ -358,7 +418,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "美國司法部長迴避解釋英偉達黃仁勳的風險評估",
       "summary": [
         "NHK新聞：美國司法部長迴避解釋英偉達黃仁勳的風險評估",
@@ -379,7 +439,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "華為被判竊取商業機密罪，但敲詐勒索罪被判無罪",
       "summary": [
         "BBC World：華為被判竊取商業機密罪，但敲詐勒索罪被判無罪",
@@ -396,48 +456,6 @@
           "source": "The Verge",
           "title": "華為被判竊取商業機密罪",
           "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
-      "summary": [
-        "Financial Times：華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
-        "CNBC：美國陪審團在刑事審判中判定華為欺詐和商業機密有罪"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
-          "url": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1"
-        },
-        {
-          "source": "CNBC",
-          "title": "美國陪審團在刑事審判中判定華為欺詐和商業機密有罪",
-          "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "中國的“天宮”迎來首位外籍宇航員",
-      "summary": [
-        "法廣RFI：中國的“天宮”迎來首位外籍宇航員",
-        "NHK新聞：中國發射首艘載有外國太空人的載人太空船"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "中國的“天宮”迎來首位外籍宇航員",
-          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261124-%E4%B8%AD%E5%9C%8B%E7%9A%84-%E5%A4%A9%E5%AE%AE-%E8%BF%8E%E4%BE%86%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E5%AE%87%E8%88%AA%E5%93%A1"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "中國發射首艘載有外國太空人的載人太空船",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261125de80985"
         }
       ]
     }
