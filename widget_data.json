@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 11:56",
+  "updated_at": "2026-11-25 12:27",
   "taiwan": [
     {
       "rank": 1,
@@ -30,33 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "連白沙屯媽祖進香都貪 前通霄鎮長陳漢志貪汙二審判更重",
-      "summary": [
-        "自由時報：連白沙屯媽祖進香都貪 前通霄鎮長陳漢志貪汙二審判更重",
-        "工商時報：輝達GPU新單交期拉長- 日報",
-        "ETtoday：快訊／新北國中少年割頸案民事部分　二審加碼改判賠1782萬"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "連白沙屯媽祖進香都貪 前通霄鎮長陳漢志貪汙二審判更重",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5652278"
-        },
-        {
-          "source": "工商時報",
-          "title": "輝達GPU新單交期拉長- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42M2VmQVctSVFURkhPdS10eERhcTlVZkU4eDdUbTZBMDJQRmdNOXRvbElteDBxNTJlb1hxczY0LTU0cWx4V3NQZTRBTzJKT0hrRTQ4a1I5WWplalpMenBJ?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／新北國中少年割頸案民事部分　二審加碼改判賠1782萬",
-          "url": "https://www.ettoday.net/news/20261125/3278015.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "土耳其軍方直升機訓練時墜毀　導致5名官兵喪命",
       "summary": [
         "自由時報：土耳其軍方直升機訓練時墜毀　導致5名官兵喪命",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
       "summary": [
         "自由時報：以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
@@ -110,7 +83,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
       "summary": [
         "ETtoday：快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
@@ -131,28 +104,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "黃仁勳曾想騎重機橫越美國？Podcast主持人曝收邀約訊息",
-      "summary": [
-        "經濟日報：黃仁勳曾想騎重機橫越美國？Podcast主持人曝收邀約訊息",
-        "自由時報：黃仁勳曾想騎重機橫越美國？Podcast主持人曝收邀約訊息"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳曾想騎重機橫越美國？Podcast主持人曝收邀約訊息",
-          "url": "https://money.udn.com/money/story/5599/9899889"
-        },
-        {
-          "source": "自由時報",
-          "title": "黃仁勳曾想騎重機橫越美國？Podcast主持人曝收邀約訊息",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5652277"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "傳美國準備調高對中國與其他國家關稅　最快本週公佈",
       "summary": [
         "自由時報：傳美國準備調高對中國與其他國家關稅　最快本週公佈",
@@ -173,7 +125,28 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "title": "影音／決戰新北！李四川找韓國瑜 蘇巧慧淡水車掃",
+      "summary": [
+        "TVBS新聞：影音／決戰新北！李四川找韓國瑜 蘇巧慧淡水車掃",
+        "ETtoday：快訊／新北國中少年割頸案民事部分　二審加碼改判賠1782萬"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "影音／決戰新北！李四川找韓國瑜 蘇巧慧淡水車掃",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TbnhzOVBVbXFuRkVaWDhFYy1kNE5mUjFtX2tmVjIyc0tMVDhtQ3Q4Vjd5NWVOOGZaMVcyOXhLcFh2ZXBWcWZmdHBRS1g5NHFfWWxn?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／新北國中少年割頸案民事部分　二審加碼改判賠1782萬",
+          "url": "https://www.ettoday.net/news/20261125/3278015.htm"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "受美國關稅訊息拖累　歐洲股市收盤下跌",
       "summary": [
         "自由時報：受美國關稅訊息拖累　歐洲股市收盤下跌",
@@ -194,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "美股開盤》黃仁勳行情熄火！費半重挫逾6% 輝達跌6% Anthropic跌破發行價再創新低| 蕭宥宸 | 新聞",
       "summary": [
         "風傳媒：美股開盤》黃仁勳行情熄火！費半重挫逾6% 輝達跌6% Anthropic跌破發行價再創新低| 蕭宥宸 | 新聞",
@@ -215,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊",
       "summary": [
         "自由時報：沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊",
@@ -234,11 +207,59 @@
           "url": "https://money.udn.com/money/story/5599/9899956"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "Shein遭美指控誤導消費者　傳將支付1億美元和解",
+      "summary": [
+        "自由時報：Shein遭美指控誤導消費者　傳將支付1億美元和解",
+        "經濟日報：Shein遭美指控誤導消費者　傳將支付1億美元和解"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "Shein遭美指控誤導消費者　傳將支付1億美元和解",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5652305"
+        },
+        {
+          "source": "經濟日報",
+          "title": "Shein遭美指控誤導消費者　傳將支付1億美元和解",
+          "url": "https://money.udn.com/money/story/5599/9899976"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "隨著 Anthropic 跌破 IPO 價格，大筆交易者的反應如下",
+      "summary": [
+        "CNBC：隨著 Anthropic 跌破 IPO 價格，大筆交易者的反應如下",
+        "TechCrunch：Anthropic 股價跌破 IPO 價格，這對人工智慧新創公司來說是一個令人擔憂的跡象",
+        "Yahoo Finance：隨著 Anthropic 跌破 IPO 價格，股市回吐漲幅"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "隨著 Anthropic 跌破 IPO 價格，大筆交易者的反應如下",
+          "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Anthropic 股價跌破 IPO 價格，這對人工智慧新創公司來說是一個令人擔憂的跡象",
+          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "隨著 Anthropic 跌破 IPO 價格，股市回吐漲幅",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUpJbVNsM01ud2xoWmpRcFUzc3dUcWFHaWx4LXpiX05EYjFIbkJzNlhOQmlDb0ROeWlzT3drSDlFRDhITlB6QTBFc0ZicVZQd245N2hLYWN6X3E3RVRia3c1UFdjZVJ5cWp4U0xHU0hmeE5fRU9CQXdLU2ZLd1dITlJHMlpVbGp2bFZ6bl90R1pMZ0tvRFVGLTRrU0N5eE5VdnJjNUtR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "中國的“天宮”迎來首位外籍宇航員",
       "summary": [
         "法廣RFI：中國的“天宮”迎來首位外籍宇航員",
@@ -265,7 +286,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "隨著人工智慧貿易疑慮重新浮現，亞洲股市將下滑：市場結束",
       "summary": [
         "Bloomberg Markets：隨著人工智慧貿易疑慮重新浮現，亞洲股市將下滑：市場結束",
@@ -292,7 +313,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "由於人工智慧伺服器需求不斷增長，戴爾再次上調年度銷售預測",
       "summary": [
         "Bloomberg Tech：由於人工智慧伺服器需求不斷增長，戴爾再次上調年度銷售預測",
@@ -313,7 +334,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "據說星巴克正在與銀行合作出售日本業務",
       "summary": [
         "Bloomberg Markets：據說星巴克正在與銀行合作出售日本業務",
@@ -330,27 +351,6 @@
           "source": "Investing.com",
           "title": "星巴克考慮出售價值數十億美元的日本業務",
           "url": "https://www.investing.com/news/stock-market-news/starbucks-weighs-sale-of-japan-business-worth-several-billion-dollars--bloomberg-5049634"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Anthropic股價跌破83美元的IPO價格",
-      "summary": [
-        "Bloomberg Tech：Anthropic股價跌破83美元的IPO價格",
-        "Yahoo Finance：隨著第一天的上漲消失，Anthrotic 股價跌破 83 美元 IPO 價格"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Anthropic股價跌破83美元的IPO價格",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-24/anthropic-shares-fall-below-ipo-price-of-83-video"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "隨著第一天的上漲消失，Anthrotic 股價跌破 83 美元 IPO 價格",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdF9semMwVkFDQkVHWEd3QVVjT2NGTjBHcDJWTTJBZlhsS3FsVmU3S2p4dDBGVktPV3dBUlBQc2p3OERudGJyWHgtU1lWNWlxOFhDVHNfREZzMDNIeDdPODc5Y3VtSGR0dmY5a0x6dlRWM0FqeFpRVGlZT0JCSEVIQXJ3cEE2Vi1sZjN0bGR2TUpmUlpHTnVpd293dXNMRUhhTV9zd1UxSU9Sc3BxSWFZaW9JeTAxTFpQSzVZLVhn?oc=5"
         }
       ]
     },
@@ -398,27 +398,6 @@
     },
     {
       "rank": 8,
-      "title": "隨著 Anthropic 跌破 IPO 價格，大筆交易者的反應如下",
-      "summary": [
-        "CNBC：隨著 Anthropic 跌破 IPO 價格，大筆交易者的反應如下",
-        "TechCrunch：Anthropic 股價跌破 IPO 價格，這對人工智慧新創公司來說是一個令人擔憂的跡象"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "隨著 Anthropic 跌破 IPO 價格，大筆交易者的反應如下",
-          "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Anthropic 股價跌破 IPO 價格，這對人工智慧新創公司來說是一個令人擔憂的跡象",
-          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "美國司法部長迴避解釋英偉達黃仁勳的風險評估",
       "summary": [
         "NHK新聞：美國司法部長迴避解釋英偉達黃仁勳的風險評估",
@@ -439,7 +418,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "華為被判竊取商業機密罪，但敲詐勒索罪被判無罪",
       "summary": [
         "BBC World：華為被判竊取商業機密罪，但敲詐勒索罪被判無罪",
@@ -456,6 +435,27 @@
           "source": "The Verge",
           "title": "華為被判竊取商業機密罪",
           "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
+      "summary": [
+        "Financial Times：華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
+        "CNBC：美國陪審團在刑事審判中判定華為欺詐和商業機密有罪"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
+          "url": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1"
+        },
+        {
+          "source": "CNBC",
+          "title": "美國陪審團在刑事審判中判定華為欺詐和商業機密有罪",
+          "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html"
         }
       ]
     }
