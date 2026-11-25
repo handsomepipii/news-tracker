@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 15:28",
+  "updated_at": "2026-11-25 15:55",
   "taiwan": [
     {
       "rank": 1,
@@ -111,27 +111,6 @@
     },
     {
       "rank": 5,
-      "title": "Shein遭美指控誤導消費者　傳將支付1億美元和解",
-      "summary": [
-        "自由時報：Shein遭美指控誤導消費者　傳將支付1億美元和解",
-        "經濟日報：Shein遭美指控誤導消費者　傳將支付1億美元和解"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "Shein遭美指控誤導消費者　傳將支付1億美元和解",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5652305"
-        },
-        {
-          "source": "經濟日報",
-          "title": "Shein遭美指控誤導消費者　傳將支付1億美元和解",
-          "url": "https://money.udn.com/money/story/5599/9899976"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
       "summary": [
         "ETtoday：快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
@@ -152,7 +131,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "新北國中生割頸案二審判加重賠償1782萬！乾哥、乾妹聽判表情曝",
       "summary": [
         "自由時報：新北國中生割頸案二審判加重賠償1782萬！乾哥、乾妹聽判表情曝",
@@ -173,7 +152,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "荷莫茲海峽頻傳油輪遇襲　國際油價小升",
       "summary": [
         "自由時報：荷莫茲海峽頻傳油輪遇襲　國際油價小升",
@@ -194,7 +173,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "涉揪團赴中招待旅遊介選 國民黨前高市議員黃紹庭60萬交保",
       "summary": [
         "自由時報：涉揪團赴中招待旅遊介選 國民黨前高市議員黃紹庭60萬交保",
@@ -215,7 +194,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "今明「全臺有雨」　投票日天氣曝",
       "summary": [
         "ETtoday：今明「全臺有雨」　投票日天氣曝",
@@ -234,6 +213,27 @@
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5652368"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "蔡康永金句「超直白」：我們也沒道理特地矇眼去吃屎",
+      "summary": [
+        "ETtoday：蔡康永金句「超直白」：我們也沒道理特地矇眼去吃屎",
+        "自由時報：蔡康永再寫金句「沒道理矇眼去吃屎」 沈伯洋：比喻妙語如珠"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "蔡康永金句「超直白」：我們也沒道理特地矇眼去吃屎",
+          "url": "https://www.ettoday.net/news/20261125/3277942.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "蔡康永再寫金句「沒道理矇眼去吃屎」 沈伯洋：比喻妙語如珠",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5652471"
+        }
+      ]
     }
   ],
   "global": [
@@ -245,7 +245,7 @@
         "NHK新聞：中國發射首艘載有外國太空人的載人太空船",
         "Financial Times：中國首次與外國太空人一起執行太空任務"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "法廣RFI",
@@ -261,6 +261,11 @@
           "source": "Financial Times",
           "title": "中國首次與外國太空人一起執行太空任務",
           "url": "https://www.ft.com/content/a1d7d4bd-ecd0-4726-8f62-de75ce2b034c?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "中國將首位外國公民——巴基斯坦飛行員送入太空站",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORXJ2MUEzeUxYMVBUTkx6empwajd6eWllMmVpMEhrb2xQVWx6azZLeTJwcWt6Nm1BRVFNVXlwamV1UUZzNmV2czNBM09HMjdoNlE3ZS1ZOFF3T3VUeGFjWmtGa01lV3ludWJYSjktZjBlWk5pazlPNDBnd2FnTzVTb1ZPNFdlaE50TGFiOUR4Yk54Sk5tMTc3aTRXZmNVWUFQb3FtakdHRDNpdTNwazZzTy04UUplWTVJcUp3TjlNSXlnQWhqQVJxdk5ZOGh2VDRz?oc=5"
         }
       ]
     },
@@ -272,7 +277,7 @@
         "Financial Times：隨著人工智慧恐懼捲土重來，亞洲市場失勢",
         "Investing.com：隨著人工智慧拋售加劇，亞洲股市下滑，美國關稅威脅壓制市場情緒"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "Bloomberg Markets",
@@ -288,11 +293,43 @@
           "source": "Investing.com",
           "title": "隨著人工智慧拋售加劇，亞洲股市下滑，美國關稅威脅壓制市場情緒",
           "url": "https://www.investing.com/news/stock-market-news/asian-stocks-slide-as-ai-selloff-deepens-us-tariff-threats-weigh-on-sentiment-5049630"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "由於人工智慧擔憂打擊晶片製造商，亞洲股市恢復下滑",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-25/asian-stocks-resume-slide-as-ai-concerns-hit-chipmakers-video"
         }
       ]
     },
     {
       "rank": 3,
+      "title": "由於對現金流的不安，人工智慧信用違約掉期利差擴大",
+      "summary": [
+        "Investing.com：由於對現金流的不安，人工智慧信用違約掉期利差擴大",
+        "CNBC：隨著英偉達的反彈掩蓋了大型科技支出緊縮，人工智慧債務擔憂加劇",
+        "Bloomberg Markets：人工智慧擔憂削弱風險情緒，美國國債全面上漲"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "由於對現金流的不安，人工智慧信用違約掉期利差擴大",
+          "url": "https://www.investing.com/news/stock-market-news/ai-credit-default-swap-spreads-widen-on-unease-over-cash-flow-5049729"
+        },
+        {
+          "source": "CNBC",
+          "title": "隨著英偉達的反彈掩蓋了大型科技支出緊縮，人工智慧債務擔憂加劇",
+          "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "人工智慧擔憂削弱風險情緒，美國國債全面上漲",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "由於人工智慧伺服器需求不斷增長，戴爾再次上調年度銷售預測",
       "summary": [
         "Bloomberg Tech：由於人工智慧伺服器需求不斷增長，戴爾再次上調年度銷售預測",
@@ -313,7 +350,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "據說星巴克正在與銀行合作出售日本業務",
       "summary": [
         "Bloomberg Markets：據說星巴克正在與銀行合作出售日本業務",
@@ -334,7 +371,28 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "英偉達的黃仁勳向員工道歉，說他正在接受治療",
+      "summary": [
+        "Investing.com：英偉達的黃仁勳向員工道歉，說他正在接受治療",
+        "Bloomberg Tech：黃仁勳在重任執行長後向英偉達員工道歉"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "英偉達的黃仁勳向員工道歉，說他正在接受治療",
+          "url": "https://www.investing.com/news/stock-market-news/nvidias-jensen-huang-apologizes-to-employees-says-he-is-in-therapy-5048912"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "黃仁勳在重任執行長後向英偉達員工道歉",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-25/huang-apologizes-to-nvidia-staff-after-returning-as-ceo-video"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "美國司法部長迴避解釋英偉達黃仁勳的風險評估",
       "summary": [
         "NHK新聞：美國司法部長迴避解釋英偉達黃仁勳的風險評估",
@@ -355,7 +413,28 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "title": "華為被判竊取商業機密罪，但敲詐勒索罪被判無罪",
+      "summary": [
+        "BBC World：華為被判竊取商業機密罪，但敲詐勒索罪被判無罪",
+        "The Verge：華為被判竊取商業機密罪"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "華為被判竊取商業機密罪，但敲詐勒索罪被判無罪",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Verge",
+          "title": "華為被判竊取商業機密罪",
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
       "summary": [
         "Financial Times：華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
@@ -376,7 +455,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "中國華為因伊朗業務在美國刑事審判中被判有罪",
       "summary": [
         "Nikkei Asia：中國華為因伊朗業務在美國刑事審判中被判有罪",
@@ -393,69 +472,6 @@
           "source": "法廣RFI",
           "title": "華為因與伊朗有關的刑事犯罪而被美國一家法院定罪",
           "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261124-%E8%8F%AF%E7%82%BA%E5%9B%A0%E8%88%87%E4%BC%8A%E6%9C%97%E6%9C%89%E9%97%9C%E7%9A%84%E5%88%91%E4%BA%8B%E7%8A%AF%E7%BD%AA%E8%80%8C%E8%A2%AB%E5%AE%9A%E7%BD%AA"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "俄羅斯獨立媒體分析稱，超過49萬名俄羅斯士兵在戰鬥中喪生",
-      "summary": [
-        "NHK新聞：俄羅斯獨立媒體分析稱，超過49萬名俄羅斯士兵在戰鬥中喪生",
-        "BBC World：俄羅斯自己的資料顯示近50萬人在烏克蘭戰爭中死亡"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "俄羅斯獨立媒體分析稱，超過49萬名俄羅斯士兵在戰鬥中喪生",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261125de80935"
-        },
-        {
-          "source": "BBC World",
-          "title": "俄羅斯自己的資料顯示近50萬人在烏克蘭戰爭中死亡",
-          "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "南航訂購 50 架飛機，這是波音近十年來最大的中國交易",
-      "summary": [
-        "Investing.com：南航訂購 50 架飛機，這是波音近十年來最大的中國交易",
-        "CNBC：中國廈門航空斥資74億美元購買50架波音飛機"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "南航訂購 50 架飛機，這是波音近十年來最大的中國交易",
-          "url": "https://www.investing.com/news/stock-market-news/china-southern-airlines-unit-to-buy-50-boeing-7378-aircraft-5047529"
-        },
-        {
-          "source": "CNBC",
-          "title": "中國廈門航空斥資74億美元購買50架波音飛機",
-          "url": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
-      "summary": [
-        "Investing.com：在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
-        "NHK新聞：黃仁勳重返英偉達執行長，因川普總統的參與而受到批評"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
-          "url": "https://www.investing.com/news/stock-market-news/huang-returns-as-nvidia-ceo-after-trump-intervention-in-abrupt-board-reversal-5049490"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "黃仁勳重返英偉達執行長，因川普總統的參與而受到批評",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261125de81016"
         }
       ]
     }
