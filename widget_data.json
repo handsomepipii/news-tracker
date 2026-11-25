@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 22:27",
+  "updated_at": "2026-11-25 22:56",
   "taiwan": [
     {
       "rank": 1,
@@ -126,69 +126,6 @@
     },
     {
       "rank": 6,
-      "title": "AI 伺服器賣翻  戴爾 Q3 超旺、營收翻倍創新高",
-      "summary": [
-        "科技新報：AI 伺服器賣翻  戴爾 Q3 超旺、營收翻倍創新高",
-        "MoneyDJ理財網：AI伺服器賣翻戴爾Q3超旺、營收翻倍創新高- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "AI 伺服器賣翻  戴爾 Q3 超旺、營收翻倍創新高",
-          "url": "https://finance.technews.tw/2026/11/25/dell-q3-revenue-doubles-to-a-record-high/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "AI伺服器賣翻戴爾Q3超旺、營收翻倍創新高- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkpyTDRRRHFBWC1jMl9VS24wcF9aVUxIcUs5dXd3TDU3bjczOE1xZzFPZ0loOHY4Yzd1NWhlRHhnTm5GdzJtdFpCNFk2V3RoanBNLWQwZXNHQmFkVjU0Vkw1UHdBTXY1UHRLSUZmbzViZklta1FIcF9Hd0RYTXdJWEZ4ZXBVTVdLUnc1YXc3RTc2Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "NVIDIA釋出GeForce 621.40 WHQL認證驅動，正式修復SSD背景異常寫入災情",
-      "summary": [
-        "科技新報：NVIDIA釋出GeForce 621.40 WHQL認證驅動，正式修復SSD背景異常寫入災情",
-        "癮科技Cool3c：NVIDIA GeForce 621.40驅動聲稱修復後臺異常寫入問題"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "NVIDIA釋出GeForce 621.40 WHQL認證驅動，正式修復SSD背景異常寫入災情",
-          "url": "https://technews.tw/2026/11/25/nvidia-621-40-driver-fixes-ssd-abnormal-writes-excessive-background-log-flushing-risk/"
-        },
-        {
-          "source": "癮科技Cool3c",
-          "title": "NVIDIA GeForce 621.40驅動聲稱修復後臺異常寫入問題",
-          "url": "https://www.cool3c.com/article/254353"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "川普稱必要時願特赦黃仁勳　盼下週國會作證說實話",
-      "summary": [
-        "經濟日報：川普稱必要時願特赦黃仁勳　盼下週國會作證說實話",
-        "公視新聞：川普稱不排除特赦黃仁勳盼他下週赴美國會據實以告｜20261125 公視午間新聞｜ 公視新聞PNN"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普稱必要時願特赦黃仁勳　盼下週國會作證說實話",
-          "url": "https://money.udn.com/money/story/5599/9900375"
-        },
-        {
-          "source": "公視新聞",
-          "title": "川普稱不排除特赦黃仁勳盼他下週赴美國會據實以告｜20261125 公視午間新聞｜ 公視新聞PNN",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QWVhSOXFjS1hYODZYMHdlNmNyenpidW15NjdnTU9KTWNfVGRaLVN6SUxHck51aUdZd2JHcUhSS0NEQnU5Y3I3aGJVNA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "貝瑞搶在輝達暴漲前減空單、近 200 美元考慮再空",
       "summary": [
         "科技新報：貝瑞搶在輝達暴漲前減空單、近 200 美元考慮再空",
@@ -209,7 +146,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "微軟啟動紅色警戒計畫，目標1小時內修復全球服務故障",
       "summary": [
         "iThome：微軟啟動紅色警戒計畫，目標1小時內修復全球服務故障",
@@ -228,6 +165,69 @@
           "url": "https://infosecu.technews.tw/2026/11/25/microsoft-declares-code-red-to-overhaul-service-failure-prevention-and-response/"
         }
       ]
+    },
+    {
+      "rank": 8,
+      "title": "小米 Q3 經調整淨利年減 56%；明年 Q3 進軍德國車市",
+      "summary": [
+        "科技新報：小米 Q3 經調整淨利年減 56%；明年 Q3 進軍德國車市",
+        "MoneyDJ理財網：小米Q3經調整淨利年減56%；明年Q3進軍德國車市- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "小米 Q3 經調整淨利年減 56%；明年 Q3 進軍德國車市",
+          "url": "https://finance.technews.tw/2026/11/25/xiaomi-q3-net-profit-falls-56/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "小米Q3經調整淨利年減56%；明年Q3進軍德國車市- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMGZhb2REbHp6VS1Fa21ud2g5X1piTUtzUnlRYVhTcDBDTTRzQUZSQURobUlUUnB3X0k0NnlFZWVOeWJlcDM1UVFVamhkcEtzaEdURkdPUWJ5Rng5THVsdThud3NrRnFOc1VBWFFyN05yUWVvV1pMU3R0WDB5bUFDNG05aUFMazhRZnNReHRzcFpuQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "愛思強遭降評、憂光通訊裝置需求放緩  股價崩",
+      "summary": [
+        "科技新報：愛思強遭降評、憂光通訊裝置需求放緩  股價崩",
+        "MoneyDJ理財網：愛思強遭降評、憂光通訊裝置需求放緩股價崩- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "愛思強遭降評、憂光通訊裝置需求放緩  股價崩",
+          "url": "https://finance.technews.tw/2026/11/25/aixtron-downgraded-to-sell-as-shares-plunge/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "愛思強遭降評、憂光通訊裝置需求放緩股價崩- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVV9nVzk0WlVmNVoySkJyV1JWWkVUcFNOa3VKMjdGdE5mZ09IZV9sTU00VkViZEZaTUx0TkpSREd1OGNBdWxVd2xDaHpRczRWWlp2b05NY3I3YkdJODZiRnlOb1ZNSFFaLTZOa2RwS1NtT1ZGTW4xZXdaSlE4dm9LLU85WVFQejBFbnBTMzhMaDNfZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "《星光大道》20年了！一二三班罕見合體...他為一事隔多年當眾道歉",
+      "summary": [
+        "ETtoday：《星光大道》20年了！一二三班罕見合體...他為一事隔多年當眾道歉",
+        "自由時報：《超級星光大道》20年了！參賽大咖世紀合體 他當眾道歉"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "《星光大道》20年了！一二三班罕見合體...他為一事隔多年當眾道歉",
+          "url": "https://star.ettoday.net/news/3278190"
+        },
+        {
+          "source": "自由時報",
+          "title": "《超級星光大道》20年了！參賽大咖世紀合體 他當眾道歉",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5652807"
+        }
+      ]
     }
   ],
   "global": [
@@ -236,7 +236,7 @@
       "title": "隨著人工智慧拋售加劇，亞洲股市下滑，美國關稅威脅壓制市場情緒",
       "summary": [
         "Investing.com：隨著人工智慧拋售加劇，亞洲股市下滑，美國關稅威脅壓制市場情緒",
-        "Bloomberg Tech：由於人工智慧擔憂衝擊晶片製造商，亞洲股市恢復下滑",
+        "Bloomberg Tech：由於人工智慧擔憂打擊晶片製造商，亞洲股市恢復下滑",
         "WSJ Markets：今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑"
       ],
       "media_count": 4,
@@ -248,7 +248,7 @@
         },
         {
           "source": "Bloomberg Tech",
-          "title": "由於人工智慧擔憂衝擊晶片製造商，亞洲股市恢復下滑",
+          "title": "由於人工智慧擔憂打擊晶片製造商，亞洲股市恢復下滑",
           "url": "https://www.bloomberg.com/news/videos/2026-11-25/asian-stocks-resume-slide-as-ai-concerns-hit-chipmakers-video"
         },
         {
@@ -265,33 +265,6 @@
     },
     {
       "rank": 2,
-      "title": "中國發射首艘載有外國太空人的載人太空船",
-      "summary": [
-        "NHK新聞：中國發射首艘載有外國太空人的載人太空船",
-        "Financial Times：中國首次與外國太空人一起執行太空任務",
-        "Nikkei Asia：中國將首位外國公民——巴基斯坦飛行員送入太空站"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "中國發射首艘載有外國太空人的載人太空船",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261125de80985"
-        },
-        {
-          "source": "Financial Times",
-          "title": "中國首次與外國太空人一起執行太空任務",
-          "url": "https://www.ft.com/content/a1d7d4bd-ecd0-4726-8f62-de75ce2b034c?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "中國將首位外國公民——巴基斯坦飛行員送入太空站",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORXJ2MUEzeUxYMVBUTkx6empwajd6eWllMmVpMEhrb2xQVWx6azZLeTJwcWt6Nm1BRVFNVXlwamV1UUZzNmV2czNBM09HMjdoNlE3ZS1ZOFF3T3VUeGFjWmtGa01lV3ludWJYSjktZjBlWk5pazlPNDBnd2FnTzVTb1ZPNFdlaE50TGFiOUR4Yk54Sk5tMTc3aTRXZmNVWUFQb3FtakdHRDNpdTNwazZzTy04UUplWTVJcUp3TjlNSXlnQWhqQVJxdk5ZOGh2VDRz?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "由於對現金流的不安，人工智慧信用違約掉期利差擴大",
       "summary": [
         "Investing.com：由於對現金流的不安，人工智慧信用違約掉期利差擴大",
@@ -318,7 +291,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "據說星巴克正在與銀行合作出售日本業務",
       "summary": [
         "Bloomberg Markets：據說星巴克正在與銀行合作出售日本業務",
@@ -339,49 +312,49 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "美國陪審團在刑事審判中判定華為欺詐和商業機密有罪",
+      "rank": 4,
+      "title": "中國首次與外國太空人一起執行太空任務",
       "summary": [
-        "CNBC：美國陪審團在刑事審判中判定華為欺詐和商業機密有罪",
-        "Tom's Hardware：華為被美國陪審團判洗錢、共謀竊取商業機密和詐欺罪"
+        "Financial Times：中國首次與外國太空人一起執行太空任務",
+        "Nikkei Asia：中國將首位外國公民——巴基斯坦飛行員送入太空站"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "CNBC",
-          "title": "美國陪審團在刑事審判中判定華為欺詐和商業機密有罪",
-          "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html"
+          "source": "Financial Times",
+          "title": "中國首次與外國太空人一起執行太空任務",
+          "url": "https://www.ft.com/content/a1d7d4bd-ecd0-4726-8f62-de75ce2b034c?syn-25a6b1a6=1"
         },
         {
-          "source": "Tom's Hardware",
-          "title": "華為被美國陪審團判洗錢、共謀竊取商業機密和詐欺罪",
-          "url": "https://www.tomshardware.com/tech-industry/huawei-convicted-of-money-laundering-conspiracy-to-steal-trade-secrets-and-fraud-by-us-jury-fbi-says-chinese-tech-giant-built-its-success-on-deception-and-theft"
+          "source": "Nikkei Asia",
+          "title": "中國將首位外國公民——巴基斯坦飛行員送入太空站",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORXJ2MUEzeUxYMVBUTkx6empwajd6eWllMmVpMEhrb2xQVWx6azZLeTJwcWt6Nm1BRVFNVXlwamV1UUZzNmV2czNBM09HMjdoNlE3ZS1ZOFF3T3VUeGFjWmtGa01lV3ludWJYSjktZjBlWk5pazlPNDBnd2FnTzVTb1ZPNFdlaE50TGFiOUR4Yk54Sk5tMTc3aTRXZmNVWUFQb3FtakdHRDNpdTNwazZzTy04UUplWTVJcUp3TjlNSXlnQWhqQVJxdk5ZOGh2VDRz?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "歐盟計畫設立500億歐元科技基金以縮小與美國和中國的差距",
+      "summary": [
+        "Financial Times：歐盟計畫設立500億歐元科技基金以縮小與美國和中國的差距",
+        "Bloomberg Tech：歐盟尋求500億歐元尖端技術對抗美國和中國"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "歐盟計畫設立500億歐元科技基金以縮小與美國和中國的差距",
+          "url": "https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "歐盟尋求500億歐元尖端技術對抗美國和中國",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/eu-seeks-50-billion-for-frontier-technology-to-rival-us-china"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "索羅門群島選擇澳洲作為“主要安全夥伴”",
-      "summary": [
-        "Nikkei Asia：索羅門群島選擇澳洲作為“主要安全夥伴”",
-        "德國之聲：外交立場轉彎？索羅門群島與澳洲籤安全協議"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Nikkei Asia",
-          "title": "索羅門群島選擇澳洲作為“主要安全夥伴”",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbm1WUmJuZ3Qwd1NadklXSUlXdGZpcWliaXNTbk9rRWJKRl9iVjl1b3hxOGhJcmVCaklOSmxEbElHTklfUHJqWklTUjc5T05tbHJ2azNQZVRCcm5VNnhmNHFYNTl4UWl2ak9FbTVCYnhXekF5NmxFQTg0S3FJQ1RvVkJUVFV0RXhOY0FBS3NEbnFRWlJzWERtZmFDNG5VSWJlYUJ5cXFQQmpvV1Fvb3RSd1I3bzZiZnZwcWc?oc=5"
-        },
-        {
-          "source": "德國之聲",
-          "title": "外交立場轉彎？索羅門群島與澳洲籤安全協議",
-          "url": "https://www.dw.com/zh/外交立场转弯？所罗门群岛与澳洲签安全协议/a-80033220?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "沙烏地阿拉伯與胡塞武裝的戰鬥愈演愈烈",
       "summary": [
         "Bloomberg Markets：沙烏地阿拉伯與胡塞武裝的戰鬥愈演愈烈",
@@ -402,7 +375,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "中國斥美國關稅前景為“政治操縱”",
       "summary": [
         "Bloomberg Markets：中國斥美國關稅前景為“政治操縱”",
@@ -423,7 +396,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
       "summary": [
         "Bloomberg Markets：由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
@@ -444,7 +417,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
       "summary": [
         "Investing.com：沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
@@ -461,6 +434,27 @@
           "source": "TechCrunch",
           "title": "由於 IPO 不確定性，Flipkart 執行長 Kalyan Krishnamurthy 將於下週辭職",
           "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
+      "summary": [
+        "BBC World：美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
+        "BBC中文：美國準備公佈對全球貿易夥伴加徵新關稅的計劃"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC中文",
+          "title": "美國準備公佈對全球貿易夥伴加徵新關稅的計劃",
+          "url": "https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
