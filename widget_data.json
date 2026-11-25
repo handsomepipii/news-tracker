@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 02:27",
+  "updated_at": "2026-11-26 02:57",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "真愛！黃仁勳才重返王座　馬斯克秒帶兒子衝輝達總部同框合照",
+      "summary": [
+        "ETtoday：真愛！黃仁勳才重返王座　馬斯克秒帶兒子衝輝達總部同框合照",
+        "自由時報：黃仁勳強勢回歸輝達總部　馬斯克攜子現身合體慶賀",
+        "經濟日報：黃仁勳強勢回歸輝達總部　馬斯克攜子現身合體慶賀"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "真愛！黃仁勳才重返王座　馬斯克秒帶兒子衝輝達總部同框合照",
+          "url": "https://www.ettoday.net/news/20261125/3278541.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "黃仁勳強勢回歸輝達總部　馬斯克攜子現身合體慶賀",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5653608"
+        },
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳強勢回歸輝達總部　馬斯克攜子現身合體慶賀",
+          "url": "https://money.udn.com/money/story/5599/9902468"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "森崴下市衝擊 富威電力砍現金股利降至1.6067元",
       "summary": [
         "自由時報：森崴下市衝擊 富威電力砍現金股利降至1.6067元",
@@ -46,27 +73,6 @@
           "source": "公開資訊觀測站重訊",
           "title": "森崴下市衝擊 富威電力砍現金股利降至1.6067元",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iQ05ZZlhVYzFNLXlFaGVhaE05Q0twTmNGYnlKeGEzalpaajJELWJwY0ZWWlVVYjlRZXlCMERkaFhEejc0NHVYM1pyRlB6ZjVSRkUwWkJDM08?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "增加矽光子晶圓級檢測裝置產能，光焱科技斥資 10 億元路竹新廠動土",
-      "summary": [
-        "科技新報：增加矽光子晶圓級檢測裝置產能，光焱科技斥資 10 億元路竹新廠動土",
-        "ETtoday：光焱高雄路竹新廠動土　擴充矽光子晶圓級檢測產能"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "增加矽光子晶圓級檢測裝置產能，光焱科技斥資 10 億元路竹新廠動土",
-          "url": "https://technews.tw/2026/11/25/increase-production-capacity-for-wafer-level-inspection-equipment-for-silicon-photonics/"
-        },
-        {
-          "source": "ETtoday",
-          "title": "光焱高雄路竹新廠動土　擴充矽光子晶圓級檢測產能",
-          "url": "https://finance.ettoday.net/news/3278578"
         }
       ]
     },
@@ -262,9 +268,9 @@
       "summary": [
         "Investing.com：美國授權SpaceX在太空部署100萬顆衛星用於資料中心",
         "The Verge：FCC 批准 SpaceX 將多達 100 萬顆資料中心衛星送入太空的計劃",
-        "Bloomberg Tech：SpaceX 獲得政府批准啟動太空資料中心"
+        "CNBC：SpaceX 獲得 FCC 批准部署 100 萬顆軌道資料中心衛星"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "Investing.com",
@@ -277,41 +283,19 @@
           "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
         },
         {
-          "source": "Bloomberg Tech",
-          "title": "SpaceX 獲得政府批准啟動太空資料中心",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers"
+          "source": "CNBC",
+          "title": "SpaceX 獲得 FCC 批准部署 100 萬顆軌道資料中心衛星",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "FCC已授權SpaceX部署100萬顆衛星",
+          "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "隨著英偉達的反彈掩蓋了大型科技支出緊縮，人工智慧債務擔憂加劇",
-      "summary": [
-        "CNBC：隨著英偉達的反彈掩蓋了大型科技支出緊縮，人工智慧債務擔憂加劇",
-        "Bloomberg Markets：人工智慧擔憂削弱風險情緒，美國國債全面上漲",
-        "Bloomberg Tech：由於對人工智慧的擔憂刺激人們紛紛湧向美國公債，股市暴跌"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "隨著英偉達的反彈掩蓋了大型科技支出緊縮，人工智慧債務擔憂加劇",
-          "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "人工智慧擔憂削弱風險情緒，美國國債全面上漲",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "由於對人工智慧的擔憂刺激人們紛紛湧向美國公債，股市暴跌",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-swoon-as-ai-fears-spur-rush-to-treasuries-video"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "由於人工智慧擔憂打擊晶片製造商，亞洲股市恢復下滑",
       "summary": [
         "Bloomberg Tech：由於人工智慧擔憂打擊晶片製造商，亞洲股市恢復下滑",
@@ -338,7 +322,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "美國擬對中國、歐盟等14個貿易夥伴加徵新關稅",
       "summary": [
         "CNBC：美國擬對中國、歐盟等14個貿易夥伴加徵新關稅",
@@ -361,6 +345,27 @@
           "source": "Nikkei Asia",
           "title": "川普提議對中國、日本、印度等14個合作夥伴徵收新關稅",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdjRHdUY0ZEUwQ3o2c3h3Y1JBQUMxTEdyYkxjR09VZElUUXR6aUZIVXBNZkNXYldnQjVuOWptcUZZbExXMXJwZ1E2OWJ2eGd3WjJxdm5DQWpac3NnOEdQNlhzY1UzbkYta3VkbzNQQ1FyR1lUN0dZZ3p3ZzZQdEI4RDJZdy12TjhwOGUxeVN1bEtMYUtLZGJlOGQza0cwS2w3QzZPelVaWF9CN2k5VG5JdEEzN0VEMGphb3JVNkNjaG1DZ3lvQ3gw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "人工智慧擔憂削弱風險情緒，美國國債全面上漲",
+      "summary": [
+        "Bloomberg Markets：人工智慧擔憂削弱風險情緒，美國國債全面上漲",
+        "Bloomberg Tech：由於對人工智慧的擔憂刺激人們紛紛湧向美國公債，股市暴跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "人工智慧擔憂削弱風險情緒，美國國債全面上漲",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "由於對人工智慧的擔憂刺激人們紛紛湧向美國公債，股市暴跌",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-swoon-as-ai-fears-spur-rush-to-treasuries-video"
         }
       ]
     },
