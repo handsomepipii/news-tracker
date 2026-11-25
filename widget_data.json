@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 17:59",
+  "updated_at": "2026-11-25 18:27",
   "taiwan": [
     {
       "rank": 1,
@@ -62,6 +62,33 @@
     },
     {
       "rank": 3,
+      "title": "SpaceX 有望提前進標普 500  被動買盤效應可期",
+      "summary": [
+        "科技新報：SpaceX 有望提前進標普 500  被動買盤效應可期",
+        "工商時報：SpaceX有望提前進標普500 被動買盤效應可期- 國際",
+        "MoneyDJ理財網：SpaceX有望提前進標普500 被動買盤效應可期- 新聞"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "SpaceX 有望提前進標普 500  被動買盤效應可期",
+          "url": "https://finance.technews.tw/2026/11/25/possible-tesla-merger-could-aid-spacexs-sp-500-entry/"
+        },
+        {
+          "source": "工商時報",
+          "title": "SpaceX有望提前進標普500 被動買盤效應可期- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51dUQ2aVdJcVBwdDBtYk5yRWxhLUlFbnBpRmZlS1hlQ1drZkhTLUtmaVI4eWNyWk1hRzNSRTlSR0VEXzEzSGFPUEloQWQxN3hHV1piNzFjMVpiYnB6YUdv?oc=5"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "SpaceX有望提前進標普500 被動買盤效應可期- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMm5paEItSk1LejR0ZlVBUkV2dHljZC1Nem5HZkwxbzRodldROW5TVGNvbjJJTEpNbDNnUHhsLXpjV1A3R0NVdkhZeTRnOElaNFRVamU5dk9WUVFQX2lBaWR5bm44T0tVY050M0ZwLVQ1QUNtSnVkWXBkS1Nwa2RzR0M0WHl5Zk5DcXJQY2NueDlzUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
       "summary": [
         "ETtoday：快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
@@ -82,7 +109,28 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "美陪審團判華為10項罪名成立　共謀從事組織犯罪無罪",
+      "summary": [
+        "經濟日報：美陪審團判華為10項罪名成立　共謀從事組織犯罪無罪",
+        "公視新聞：美陪審團裁定華為10罪名成立 含銀行詐欺、竊商業機密"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美陪審團判華為10項罪名成立　共謀從事組織犯罪無罪",
+          "url": "https://money.udn.com/money/story/5599/9900246"
+        },
+        {
+          "source": "公視新聞",
+          "title": "美陪審團裁定華為10罪名成立 含銀行詐欺、竊商業機密",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15eVZETzlRcU9TemJtemFKXzhzQnlhNkhMdzB2NUt6VTFDTnBUbWlvQzZqemxJMEE2dzl2TVNDaWg2RWlMOHhCX1l1MlZVVnM?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "新北國中生割頸案二審判加重賠償1782萬！乾哥、乾妹聽判表情曝",
       "summary": [
         "自由時報：新北國中生割頸案二審判加重賠償1782萬！乾哥、乾妹聽判表情曝",
@@ -103,7 +151,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "今明「全臺有雨」　投票日天氣曝",
       "summary": [
         "ETtoday：今明「全臺有雨」　投票日天氣曝",
@@ -124,7 +172,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "蔡康永金句「超直白」：我們也沒道理特地矇眼去吃屎",
       "summary": [
         "ETtoday：蔡康永金句「超直白」：我們也沒道理特地矇眼去吃屎",
@@ -145,7 +193,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "快訊／臺指期夜盤跌近2000點　臺積電夜盤跌近4%",
       "summary": [
         "ETtoday：快訊／臺指期夜盤跌近2000點　臺積電夜盤跌近4%",
@@ -166,7 +214,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "黃仁勳向輝達員工緻歉 坦承違反行為準則、接受心理治療",
       "summary": [
         "經濟日報：黃仁勳向輝達員工緻歉 坦承違反行為準則、接受心理治療",
@@ -183,48 +231,6 @@
           "source": "科技新報",
           "title": "坦承違反輝達行為準則！黃仁勳向員工道歉：犯了糟糕的錯誤",
           "url": "https://technews.tw/2026/11/25/nvidia-jensen-huang-2/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "竊取商業機密、隱瞞伊朗業務　華為遭美國陪審團定罪",
-      "summary": [
-        "經濟日報：竊取商業機密、隱瞞伊朗業務　華為遭美國陪審團定罪",
-        "自由時報：竊取商業機密、隱瞞伊朗業務 華為遭美國陪審團定罪"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "竊取商業機密、隱瞞伊朗業務　華為遭美國陪審團定罪",
-          "url": "https://money.udn.com/money/story/5599/9900064"
-        },
-        {
-          "source": "自由時報",
-          "title": "竊取商業機密、隱瞞伊朗業務 華為遭美國陪審團定罪",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5652314"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "舞臺劇爆意外！小煜中場衝出門「接小孩緊急電話」 慘被反鎖險開天窗",
-      "summary": [
-        "自由時報：舞臺劇爆意外！小煜中場衝出門「接小孩緊急電話」 慘被反鎖險開天窗",
-        "ETtoday：舞臺劇中場休息衝出門「接兒緊急電話」　楊奇煜被反鎖…險出大事"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "舞臺劇爆意外！小煜中場衝出門「接小孩緊急電話」 慘被反鎖險開天窗",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5652270"
-        },
-        {
-          "source": "ETtoday",
-          "title": "舞臺劇中場休息衝出門「接兒緊急電話」　楊奇煜被反鎖…險出大事",
-          "url": "https://star.ettoday.net/news/3277794"
         }
       ]
     }
@@ -264,6 +270,33 @@
     },
     {
       "rank": 2,
+      "title": "隨著市場超越科技領域，人工智慧股票回落",
+      "summary": [
+        "Bloomberg Tech：隨著市場超越科技領域，人工智慧股票回落",
+        "Bloomberg Markets：由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
+        "WSJ Markets：今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "隨著市場超越科技領域，人工智慧股票回落",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-24/the-close-11-24-2026-video"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses"
+        },
+        {
+          "source": "WSJ Markets",
+          "title": "今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "中國發射首艘載有外國太空人的載人太空船",
       "summary": [
         "NHK新聞：中國發射首艘載有外國太空人的載人太空船",
@@ -290,7 +323,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "由於對現金流的不安，人工智慧信用違約掉期利差擴大",
       "summary": [
         "Investing.com：由於對現金流的不安，人工智慧信用違約掉期利差擴大",
@@ -317,7 +350,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "據說星巴克正在與銀行合作出售日本業務",
       "summary": [
         "Bloomberg Markets：據說星巴克正在與銀行合作出售日本業務",
@@ -338,7 +371,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "俄羅斯獨立媒體分析稱，超過49萬名俄羅斯士兵在戰鬥中喪生",
       "summary": [
         "NHK新聞：俄羅斯獨立媒體分析稱，超過49萬名俄羅斯士兵在戰鬥中喪生",
@@ -359,7 +392,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "南航訂購 50 架飛機，這是波音近十年來最大的中國交易",
       "summary": [
         "Investing.com：南航訂購 50 架飛機，這是波音近十年來最大的中國交易",
@@ -380,7 +413,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
       "summary": [
         "Investing.com：在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
@@ -401,7 +434,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "索羅門群島選擇澳洲作為“主要安全夥伴”",
       "summary": [
         "Nikkei Asia：索羅門群島選擇澳洲作為“主要安全夥伴”",
@@ -422,7 +455,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "沙烏地阿拉伯與胡塞武裝的戰鬥愈演愈烈",
       "summary": [
         "Bloomberg Markets：沙烏地阿拉伯與胡塞武裝的戰鬥愈演愈烈",
@@ -439,27 +472,6 @@
           "source": "Investing.com",
           "title": "葉門衝突升級，胡塞武裝威脅沙烏地阿拉伯港口",
           "url": "https://www.investing.com/news/stock-market-news/houthis-threaten-saudi-ports-amid-yemen-conflict-escalation-93CH-5049796"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Flipkart 執行長將在沃爾瑪印度業務轉型後辭職",
-      "summary": [
-        "Bloomberg Tech：Flipkart 執行長將在沃爾瑪印度業務轉型後辭職",
-        "Investing.com：沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Flipkart 執行長將在沃爾瑪印度業務轉型後辭職",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/flipkart-ceo-to-exit-after-transforming-walmart-s-india-play"
-        },
-        {
-          "source": "Investing.com",
-          "title": "沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
-          "url": "https://www.investing.com/news/stock-market-news/walmartowned-flipkarts-kalyan-krishnamurthy-steps-down-as-ceo-5049946"
         }
       ]
     }
