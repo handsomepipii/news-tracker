@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 13:27",
+  "updated_at": "2026-11-25 13:56",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "輝達GPU新單交期拉長- 日報",
+      "summary": [
+        "工商時報：輝達GPU新單交期拉長- 日報",
+        "ETtoday：快訊／新北國中少年割頸案民事部分　二審加碼改判賠1782萬",
+        "自由時報：高虹安造勢藍議員陳慶齡致詞違選罷法 竹市選委會：依法查證"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "工商時報",
+          "title": "輝達GPU新單交期拉長- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42M2VmQVctSVFURkhPdS10eERhcTlVZkU4eDdUbTZBMDJQRmdNOXRvbElteDBxNTJlb1hxczY0LTU0cWx4V3NQZTRBTzJKT0hrRTQ4a1I5WWplalpMenBJ?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／新北國中少年割頸案民事部分　二審加碼改判賠1782萬",
+          "url": "https://www.ettoday.net/news/20261125/3278015.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "高虹安造勢藍議員陳慶齡致詞違選罷法 竹市選委會：依法查證",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5652767"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "土耳其軍方直升機訓練時墜毀　導致5名官兵喪命",
       "summary": [
         "自由時報：土耳其軍方直升機訓練時墜毀　導致5名官兵喪命",
@@ -56,7 +83,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
       "summary": [
         "自由時報：以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
@@ -83,91 +110,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
-      "summary": [
-        "ETtoday：快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
-        "科技新報：川普稱必要時願意特赦輝達執行長黃仁勳"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
-          "url": "https://www.ettoday.net/news/20261125/3277972.htm"
-        },
-        {
-          "source": "科技新報",
-          "title": "川普稱必要時願意特赦輝達執行長黃仁勳",
-          "url": "https://finance.technews.tw/2026/11/25/trump-says-he-would-be-willing-to-pardon-nvidia-ceo-jensen-huang-if-necessary/"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "受美國關稅訊息拖累　歐洲股市收盤下跌",
-      "summary": [
-        "自由時報：受美國關稅訊息拖累　歐洲股市收盤下跌",
-        "經濟日報：受美國關稅訊息拖累　歐洲股市收盤下跌"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "受美國關稅訊息拖累　歐洲股市收盤下跌",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5652294"
-        },
-        {
-          "source": "經濟日報",
-          "title": "受美國關稅訊息拖累　歐洲股市收盤下跌",
-          "url": "https://money.udn.com/money/story/5599/9899950"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "美股開盤》黃仁勳行情熄火！費半重挫逾6% 輝達跌6% Anthropic跌破發行價再創新低| 蕭宥宸 | 新聞",
-      "summary": [
-        "風傳媒：美股開盤》黃仁勳行情熄火！費半重挫逾6% 輝達跌6% Anthropic跌破發行價再創新低| 蕭宥宸 | 新聞",
-        "ETtoday：黃仁勳行情熄火！美股晶片類股跌逾7％　Anthropic破發"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "風傳媒",
-          "title": "美股開盤》黃仁勳行情熄火！費半重挫逾6% 輝達跌6% Anthropic跌破發行價再創新低| 蕭宥宸 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PbDI4bngycWZyR0VmV2hRWm95TUJDMVlVb29pZ2tZemhmeG9NV1JuQUNkTXlhWVduVmU1LUFDb1QxOG9sZ19md05PS1JXQQ?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "黃仁勳行情熄火！美股晶片類股跌逾7％　Anthropic破發",
-          "url": "https://www.ettoday.net/news/20261125/3277950.htm"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊",
-      "summary": [
-        "自由時報：沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊",
-        "經濟日報：沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5652297"
-        },
-        {
-          "source": "經濟日報",
-          "title": "沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊",
-          "url": "https://money.udn.com/money/story/5599/9899956"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Shein遭美指控誤導消費者　傳將支付1億美元和解",
       "summary": [
         "自由時報：Shein遭美指控誤導消費者　傳將支付1億美元和解",
@@ -188,44 +131,107 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "荷莫茲海峽頻傳油輪遇襲　國際油價小升",
+      "rank": 6,
+      "title": "快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
       "summary": [
-        "自由時報：荷莫茲海峽頻傳油輪遇襲　國際油價小升",
-        "經濟日報：荷莫茲海峽頻傳油輪遇襲　國際油價小升"
+        "ETtoday：快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
+        "科技新報：川普稱必要時願意特赦輝達執行長黃仁勳"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／川普：必要時願意特赦黃仁勳　坦言考慮入股輝達",
+          "url": "https://www.ettoday.net/news/20261125/3277972.htm"
+        },
+        {
+          "source": "科技新報",
+          "title": "川普稱必要時願意特赦輝達執行長黃仁勳",
+          "url": "https://finance.technews.tw/2026/11/25/trump-says-he-would-be-willing-to-pardon-nvidia-ceo-jensen-huang-if-necessary/"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "新北國中生割頸案二審判加重賠償1782萬！乾哥、乾妹聽判表情曝",
+      "summary": [
+        "自由時報：新北國中生割頸案二審判加重賠償1782萬！乾哥、乾妹聽判表情曝",
+        "公視新聞：新北國中生割頸案民事賠償改判 二審裁定加碼至1782萬"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "荷莫茲海峽頻傳油輪遇襲　國際油價小升",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5652308"
+          "title": "新北國中生割頸案二審判加重賠償1782萬！乾哥、乾妹聽判表情曝",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5652640"
+        },
+        {
+          "source": "公視新聞",
+          "title": "新北國中生割頸案民事賠償改判 二審裁定加碼至1782萬",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WTzRtb2pkMEpseFYtODJyWDJqZ0hkWEo3V3FfYnU0Z0NEcEN4Y0FYNVZwZElOU3htZzRQTXJKWUxGd28wUkRUalhLTDM3YTA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "受美國關稅訊息拖累　歐洲股市收盤下跌",
+      "summary": [
+        "自由時報：受美國關稅訊息拖累　歐洲股市收盤下跌",
+        "經濟日報：受美國關稅訊息拖累　歐洲股市收盤下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "受美國關稅訊息拖累　歐洲股市收盤下跌",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5652294"
         },
         {
           "source": "經濟日報",
-          "title": "荷莫茲海峽頻傳油輪遇襲　國際油價小升",
-          "url": "https://money.udn.com/money/story/5599/9900010"
+          "title": "受美國關稅訊息拖累　歐洲股市收盤下跌",
+          "url": "https://money.udn.com/money/story/5599/9899950"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "美股開盤》黃仁勳行情熄火！費半重挫逾6% 輝達跌6% Anthropic跌破發行價再創新低| 蕭宥宸 | 新聞",
+      "summary": [
+        "風傳媒：美股開盤》黃仁勳行情熄火！費半重挫逾6% 輝達跌6% Anthropic跌破發行價再創新低| 蕭宥宸 | 新聞",
+        "ETtoday：黃仁勳行情熄火！美股晶片類股跌逾7％　Anthropic破發"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "美股開盤》黃仁勳行情熄火！費半重挫逾6% 輝達跌6% Anthropic跌破發行價再創新低| 蕭宥宸 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PbDI4bngycWZyR0VmV2hRWm95TUJDMVlVb29pZ2tZemhmeG9NV1JuQUNkTXlhWVduVmU1LUFDb1QxOG9sZ19md05PS1JXQQ?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "黃仁勳行情熄火！美股晶片類股跌逾7％　Anthropic破發",
+          "url": "https://www.ettoday.net/news/20261125/3277950.htm"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "涉揪團赴中招待旅遊介選 國民黨前高市議員黃紹庭60萬交保",
+      "title": "沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊",
       "summary": [
-        "自由時報：涉揪團赴中招待旅遊介選 國民黨前高市議員黃紹庭60萬交保",
-        "公視新聞：涉招待選民赴中旅遊介選 高雄前議員黃紹庭60萬交保"
+        "自由時報：沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊",
+        "經濟日報：沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "涉揪團赴中招待旅遊介選 國民黨前高市議員黃紹庭60萬交保",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1779835"
+          "title": "沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5652297"
         },
         {
-          "source": "公視新聞",
-          "title": "涉招待選民赴中旅遊介選 高雄前議員黃紹庭60萬交保",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMMlBKRGQtWS1mOVliLWVtVGwyWEVqemlzVWxsZ1ZEYUdQeUcwbkh3SkVNV2NzUmVCNF9IZ3hxblJ2cmlNajhVNk5xa1FnbDA?oc=5"
+          "source": "經濟日報",
+          "title": "沙國首都摩天大樓再度遇襲11人傷　聯軍譴責恐怖攻擊",
+          "url": "https://money.udn.com/money/story/5599/9899956"
         }
       ]
     }
@@ -356,27 +362,6 @@
     },
     {
       "rank": 6,
-      "title": "委內瑞拉在歷史重組之前公佈了2400億美元的債務",
-      "summary": [
-        "Financial Times：委內瑞拉在歷史重組之前公佈了2400億美元的債務",
-        "WSJ Markets：委內瑞拉債務負擔高達 2,370 億美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "委內瑞拉在歷史重組之前公佈了2400億美元的債務",
-          "url": "https://www.ft.com/content/5975ac9e-20a2-4c20-a0e8-805892253272?syn-25a6b1a6=1"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "委內瑞拉債務負擔高達 2,370 億美元",
-          "url": "https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "美國司法部長迴避解釋英偉達黃仁勳的風險評估",
       "summary": [
         "NHK新聞：美國司法部長迴避解釋英偉達黃仁勳的風險評估",
@@ -397,7 +382,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "華為被判竊取商業機密罪，但敲詐勒索罪被判無罪",
       "summary": [
         "BBC World：華為被判竊取商業機密罪，但敲詐勒索罪被判無罪",
@@ -418,7 +403,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
       "summary": [
         "Financial Times：華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
@@ -439,7 +424,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "中國華為因伊朗業務在美國刑事審判中被判有罪",
       "summary": [
         "Nikkei Asia：中國華為因伊朗業務在美國刑事審判中被判有罪",
@@ -456,6 +441,27 @@
           "source": "法廣RFI",
           "title": "華為因與伊朗有關的刑事犯罪而被美國一家法院定罪",
           "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261124-%E8%8F%AF%E7%82%BA%E5%9B%A0%E8%88%87%E4%BC%8A%E6%9C%97%E6%9C%89%E9%97%9C%E7%9A%84%E5%88%91%E4%BA%8B%E7%8A%AF%E7%BD%AA%E8%80%8C%E8%A2%AB%E5%AE%9A%E7%BD%AA"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "俄羅斯獨立媒體分析稱，超過49萬名俄羅斯士兵在戰鬥中喪生",
+      "summary": [
+        "NHK新聞：俄羅斯獨立媒體分析稱，超過49萬名俄羅斯士兵在戰鬥中喪生",
+        "BBC World：俄羅斯自己的資料顯示近50萬人在烏克蘭戰爭中死亡"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "俄羅斯獨立媒體分析稱，超過49萬名俄羅斯士兵在戰鬥中喪生",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261125de80935"
+        },
+        {
+          "source": "BBC World",
+          "title": "俄羅斯自己的資料顯示近50萬人在烏克蘭戰爭中死亡",
+          "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
