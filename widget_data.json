@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 10:26",
+  "updated_at": "2026-11-25 10:56",
   "taiwan": [
     {
       "rank": 1,
@@ -78,27 +78,6 @@
     },
     {
       "rank": 4,
-      "title": "威廉凱特鄉間宅邸遭闖入　英警逮2男",
-      "summary": [
-        "經濟日報：威廉凱特鄉間宅邸遭闖入　英警逮2男",
-        "自由時報：威廉凱特鄉間宅邸遭闖入 英警逮2男"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "威廉凱特鄉間宅邸遭闖入　英警逮2男",
-          "url": "https://money.udn.com/money/story/5599/9899652"
-        },
-        {
-          "source": "自由時報",
-          "title": "威廉凱特鄉間宅邸遭闖入 英警逮2男",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5652239"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "沈伯洋直播髮型投票 結果讓他超崩潰直呼「選舉無效」",
       "summary": [
         "自由時報：沈伯洋直播髮型投票 結果讓他超崩潰直呼「選舉無效」",
@@ -119,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "沙烏地首都最高摩天大樓被擊中　一週內2度遇襲",
       "summary": [
         "經濟日報：沙烏地首都最高摩天大樓被擊中　一週內2度遇襲",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "全臺人口減10萬「家戶反暴增近10萬」 新北3區成最大贏家",
       "summary": [
         "自由時報：全臺人口減10萬「家戶反暴增近10萬」 新北3區成最大贏家",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "臉書沒被盜卻連兩晚噴錢！　史丹利曝詐騙盜刷手法：我真的是驚醒",
       "summary": [
         "ETtoday：臉書沒被盜卻連兩晚噴錢！　史丹利曝詐騙盜刷手法：我真的是驚醒",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "黃仁勳曾想騎重機橫越美國？Podcast主持人曝收邀約訊息",
       "summary": [
         "經濟日報：黃仁勳曾想騎重機橫越美國？Podcast主持人曝收邀約訊息",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "傳美國準備調高對中國與其他國家關稅　最快本週公佈",
       "summary": [
         "自由時報：傳美國準備調高對中國與其他國家關稅　最快本週公佈",
@@ -222,24 +201,40 @@
           "url": "https://money.udn.com/money/story/5599/9899935"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "受美國關稅訊息拖累　歐洲股市收盤下跌",
+      "summary": [
+        "自由時報：受美國關稅訊息拖累　歐洲股市收盤下跌",
+        "經濟日報：受美國關稅訊息拖累　歐洲股市收盤下跌"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "受美國關稅訊息拖累　歐洲股市收盤下跌",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5652294"
+        },
+        {
+          "source": "經濟日報",
+          "title": "受美國關稅訊息拖累　歐洲股市收盤下跌",
+          "url": "https://money.udn.com/money/story/5599/9899950"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Anthropic 股價跌破 83 美元 IPO 價格，但分析師仍基本持樂觀態度",
+      "title": "Anthropic 的股價首度跌破 IPO 價格",
       "summary": [
-        "CNBC：Anthropic 股價跌破 83 美元 IPO 價格，但分析師仍基本持樂觀態度",
         "MarketWatch：Anthropic 的股價首度跌破 IPO 價格",
-        "Bloomberg Tech：Anthropic股價跌破83美元的IPO價格"
+        "Bloomberg Tech：Anthropic股價跌破83美元的IPO價格",
+        "TechCrunch：Anthropic 股價跌破 IPO 價格，這對人工智慧新創公司來說是一個令人擔憂的跡象"
       ],
-      "media_count": 5,
+      "media_count": 4,
       "links": [
-        {
-          "source": "CNBC",
-          "title": "Anthropic 股價跌破 83 美元 IPO 價格，但分析師仍基本持樂觀態度",
-          "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
-        },
         {
           "source": "MarketWatch",
           "title": "Anthropic 的股價首度跌破 IPO 價格",
@@ -417,43 +412,43 @@
     },
     {
       "rank": 9,
-      "title": "中國華為因伊朗業務在美國刑事審判中被判有罪",
+      "title": "華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
       "summary": [
-        "Nikkei Asia：中國華為因伊朗業務在美國刑事審判中被判有罪",
-        "法廣RFI：華為因與伊朗有關的刑事犯罪而被美國一家法院定罪"
+        "Financial Times：華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
+        "CNBC：美國陪審團在刑事審判中判定華為欺詐和商業機密有罪"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Nikkei Asia",
-          "title": "中國華為因伊朗業務在美國刑事審判中被判有罪",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkJsdlJRTVBUeHlhYloyWTJRc0dnWDNNVVJUVjIzZzBqbGZLTmpGRVdlMVRNWlpUWGxUajhzVXRwV0dDak5vSGFjRC1zNUx1d2w5RGtaOGtGQ00yRlg3bk9QNEhHYUl4MEszMUthQWQ1VENkMF9oNVB6eng2MGhaZDI4ZkpXUWpkWE5LOHg5RHpYX0lSV2J6UUI0SUZ3SlJmcUU5c3l1NF9uc28?oc=5"
+          "source": "Financial Times",
+          "title": "華為在美國審判中被定罪，揭露企業間諜活動和逃避制裁行為",
+          "url": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1"
         },
         {
-          "source": "法廣RFI",
-          "title": "華為因與伊朗有關的刑事犯罪而被美國一家法院定罪",
-          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261124-%E8%8F%AF%E7%82%BA%E5%9B%A0%E8%88%87%E4%BC%8A%E6%9C%97%E6%9C%89%E9%97%9C%E7%9A%84%E5%88%91%E4%BA%8B%E7%8A%AF%E7%BD%AA%E8%80%8C%E8%A2%AB%E5%AE%9A%E7%BD%AA"
+          "source": "CNBC",
+          "title": "美國陪審團在刑事審判中判定華為欺詐和商業機密有罪",
+          "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "隨著人工智慧貿易疑慮重新浮現，亞洲股市將下滑：市場結束",
+      "title": "中國的“天宮”迎來首位外籍宇航員",
       "summary": [
-        "Bloomberg Markets：隨著人工智慧貿易疑慮重新浮現，亞洲股市將下滑：市場結束",
-        "Financial Times：隨著人工智慧恐懼捲土重來，亞洲市場失勢"
+        "法廣RFI：中國的“天宮”迎來首位外籍宇航員",
+        "NHK新聞：中國發射首艘載有外國太空人的載人太空船"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "隨著人工智慧貿易疑慮重新浮現，亞洲股市將下滑：市場結束",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap"
+          "source": "法廣RFI",
+          "title": "中國的“天宮”迎來首位外籍宇航員",
+          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261124-%E4%B8%AD%E5%9C%8B%E7%9A%84-%E5%A4%A9%E5%AE%AE-%E8%BF%8E%E4%BE%86%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E5%AE%87%E8%88%AA%E5%93%A1"
         },
         {
-          "source": "Financial Times",
-          "title": "隨著人工智慧恐懼捲土重來，亞洲市場失勢",
-          "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1"
+          "source": "NHK新聞",
+          "title": "中國發射首艘載有外國太空人的載人太空船",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261125de80985"
         }
       ]
     }
