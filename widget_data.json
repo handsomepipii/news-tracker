@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 22:56",
+  "updated_at": "2026-11-25 23:26",
   "taiwan": [
     {
       "rank": 1,
@@ -126,48 +126,6 @@
     },
     {
       "rank": 6,
-      "title": "貝瑞搶在輝達暴漲前減空單、近 200 美元考慮再空",
-      "summary": [
-        "科技新報：貝瑞搶在輝達暴漲前減空單、近 200 美元考慮再空",
-        "MoneyDJ理財網：貝瑞搶在輝達暴漲前減空單、近200美元考慮再空- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "貝瑞搶在輝達暴漲前減空單、近 200 美元考慮再空",
-          "url": "https://finance.technews.tw/2026/11/25/michael-burry-cuts-nvidia-short-position-ahead-of-stock-surge/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "貝瑞搶在輝達暴漲前減空單、近200美元考慮再空- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSjB1c3RMYVdaenNpSGpfc0JselZsaGtyQWwzODRFekdzYnFDakpSWTktRXZaYm15em9VaG9tYmlkNFpnQW1TdG1xS1NkM2ZqMlBWNVVjYWhtZHdQamsxS0pXQ1N2OWgxNXhnVlplVE92SG9tdU5hdkZPNms0SlBKdFB5NVBmcElZUzFKNTBSU0d6QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "微軟啟動紅色警戒計畫，目標1小時內修復全球服務故障",
-      "summary": [
-        "iThome：微軟啟動紅色警戒計畫，目標1小時內修復全球服務故障",
-        "科技新報：服務中斷遭重創！微軟啟動紅色警戒，目標一小時內恢復全球服務"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "微軟啟動紅色警戒計畫，目標1小時內修復全球服務故障",
-          "url": "https://www.ithome.com.tw/news/180785"
-        },
-        {
-          "source": "科技新報",
-          "title": "服務中斷遭重創！微軟啟動紅色警戒，目標一小時內恢復全球服務",
-          "url": "https://infosecu.technews.tw/2026/11/25/microsoft-declares-code-red-to-overhaul-service-failure-prevention-and-response/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "小米 Q3 經調整淨利年減 56%；明年 Q3 進軍德國車市",
       "summary": [
         "科技新報：小米 Q3 經調整淨利年減 56%；明年 Q3 進軍德國車市",
@@ -188,7 +146,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "愛思強遭降評、憂光通訊裝置需求放緩  股價崩",
       "summary": [
         "科技新報：愛思強遭降評、憂光通訊裝置需求放緩  股價崩",
@@ -209,7 +167,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "《星光大道》20年了！一二三班罕見合體...他為一事隔多年當眾道歉",
       "summary": [
         "ETtoday：《星光大道》20年了！一二三班罕見合體...他為一事隔多年當眾道歉",
@@ -226,6 +184,48 @@
           "source": "自由時報",
           "title": "《超級星光大道》20年了！參賽大咖世紀合體 他當眾道歉",
           "url": "https://ent.ltn.com.tw/news/breakingnews/5652807"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "傳三星新旗艦 S27 Ultra 砍規格　3 倍長焦、雷射對焦都沒了",
+      "summary": [
+        "ETtoday：傳三星新旗艦 S27 Ultra 砍規格　3 倍長焦、雷射對焦都沒了",
+        "自由時報：三星S27 Ultra相機傳大改！3倍長焦鏡頭、雷射對焦都要砍了"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "傳三星新旗艦 S27 Ultra 砍規格　3 倍長焦、雷射對焦都沒了",
+          "url": "https://www.ettoday.net/news/20261125/3278004.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "三星S27 Ultra相機傳大改！3倍長焦鏡頭、雷射對焦都要砍了",
+          "url": "https://3c.ltn.com.tw/news/68412"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "臺東再傳賄選！鄉代候選人現金買票遭聲押　樁腳5千元交保",
+      "summary": [
+        "ETtoday：臺東再傳賄選！鄉代候選人現金買票遭聲押　樁腳5千元交保",
+        "自由時報：政壇老將涉賄！彰化2鄉代候選人爆現金買票 1收押1交保"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "臺東再傳賄選！鄉代候選人現金買票遭聲押　樁腳5千元交保",
+          "url": "https://www.ettoday.net/news/20261125/3278178.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "政壇老將涉賄！彰化2鄉代候選人爆現金買票 1收押1交保",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5652775"
         }
       ]
     }
@@ -292,27 +292,6 @@
     },
     {
       "rank": 3,
-      "title": "據說星巴克正在與銀行合作出售日本業務",
-      "summary": [
-        "Bloomberg Markets：據說星巴克正在與銀行合作出售日本業務",
-        "Investing.com：星巴克考慮出售價值數十億美元的日本業務"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "據說星巴克正在與銀行合作出售日本業務",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business"
-        },
-        {
-          "source": "Investing.com",
-          "title": "星巴克考慮出售價值數十億美元的日本業務",
-          "url": "https://www.investing.com/news/stock-market-news/starbucks-weighs-sale-of-japan-business-worth-several-billion-dollars--bloomberg-5049634"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "中國首次與外國太空人一起執行太空任務",
       "summary": [
         "Financial Times：中國首次與外國太空人一起執行太空任務",
@@ -333,7 +312,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "歐盟計畫設立500億歐元科技基金以縮小與美國和中國的差距",
       "summary": [
         "Financial Times：歐盟計畫設立500億歐元科技基金以縮小與美國和中國的差距",
@@ -354,7 +333,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "沙烏地阿拉伯與胡塞武裝的戰鬥愈演愈烈",
       "summary": [
         "Bloomberg Markets：沙烏地阿拉伯與胡塞武裝的戰鬥愈演愈烈",
@@ -375,7 +354,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "中國斥美國關稅前景為“政治操縱”",
       "summary": [
         "Bloomberg Markets：中國斥美國關稅前景為“政治操縱”",
@@ -396,7 +375,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
       "summary": [
         "Bloomberg Markets：由於人工智慧擔憂加劇科技損失，美國股指期貨下跌",
@@ -417,7 +396,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
       "summary": [
         "Investing.com：沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
@@ -438,7 +417,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
       "summary": [
         "BBC World：美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
@@ -455,6 +434,27 @@
           "source": "BBC中文",
           "title": "美國準備公佈對全球貿易夥伴加徵新關稅的計劃",
           "url": "https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "南非拉馬福薩贏得彈劾威脅法庭訴訟",
+      "summary": [
+        "BBC World：南非拉馬福薩贏得彈劾威脅法庭訴訟",
+        "Financial Times：南非拉馬福薩贏得阻止彈劾的鬥爭"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "南非拉馬福薩贏得彈劾威脅法庭訴訟",
+          "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Financial Times",
+          "title": "南非拉馬福薩贏得阻止彈劾的鬥爭",
+          "url": "https://www.ft.com/content/e8081338-7139-4fcb-9643-73079d4913c4?syn-25a6b1a6=1"
         }
       ]
     }
