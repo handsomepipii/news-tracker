@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-26 05:27",
+  "updated_at": "2026-11-26 05:57",
   "taiwan": [
     {
       "rank": 1,
-      "title": "中教大生持美工刀威脅女老師  校方禁入校園、啟動退學審議",
-      "summary": [
-        "自由時報：中教大生持美工刀威脅女老師  校方禁入校園、啟動退學審議",
-        "TVBS新聞：嗆「把老師滅了」！男大生亮美工刀逼頸 中教大：禁止該生入校擬辦退學",
-        "風傳媒：臺中教育大學美工刀事件！男大生嗆「把老師滅了」 校方宣佈禁止入校： 擬辦退學"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "中教大生持美工刀威脅女老師  校方禁入校園、啟動退學審議",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5653203"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "嗆「把老師滅了」！男大生亮美工刀逼頸 中教大：禁止該生入校擬辦退學",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00MFhGNGJ3OF82Si1kMVhQUU05cmYwV2FCcFgxcmxTOFF5dFg2U2xmM3ZJTUFPV1Q3UU5PUE44cmpqU1ZzeE9hWWFQLXYxUVE?oc=5"
-        },
-        {
-          "source": "風傳媒",
-          "title": "臺中教育大學美工刀事件！男大生嗆「把老師滅了」 校方宣佈禁止入校： 擬辦退學",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rVFhiR0xGaFhiSGtkY2JkMGNaYW9kYUdkYlhOSDNibHRjUWViTjdlYUFIS1F0aHVPYU5rTHFTTWJnMEdUSkRKNHVIVnlRV01C?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "真愛！黃仁勳才重返王座　馬斯克秒帶兒子衝輝達總部同框合照",
       "summary": [
         "ETtoday：真愛！黃仁勳才重返王座　馬斯克秒帶兒子衝輝達總部同框合照",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "森崴下市衝擊 富威電力砍現金股利降至1.6067元",
       "summary": [
         "自由時報：森崴下市衝擊 富威電力砍現金股利降至1.6067元",
@@ -73,6 +46,27 @@
           "source": "公開資訊觀測站重訊",
           "title": "森崴下市衝擊 富威電力砍現金股利降至1.6067元",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iQ05ZZlhVYzFNLXlFaGVhaE05Q0twTmNGYnlKeGEzalpaajJELWJwY0ZWWlVVYjlRZXlCMERkaFhEejc0NHVYM1pyRlB6ZjVSRkUwWkJDM08?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
+      "summary": [
+        "自由時報：重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
+        "經濟日報：重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5653613"
+        },
+        {
+          "source": "經濟日報",
+          "title": "重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
+          "url": "https://money.udn.com/money/story/5599/9902491"
         }
       ]
     },
@@ -99,6 +93,27 @@
     },
     {
       "rank": 5,
+      "title": "嗆「把老師滅了」！男大生亮美工刀逼頸 中教大：禁止該生入校擬辦退學",
+      "summary": [
+        "TVBS新聞：嗆「把老師滅了」！男大生亮美工刀逼頸 中教大：禁止該生入校擬辦退學",
+        "風傳媒：臺中教育大學美工刀事件！男大生嗆「把老師滅了」 校方宣佈禁止入校： 擬辦退學"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "嗆「把老師滅了」！男大生亮美工刀逼頸 中教大：禁止該生入校擬辦退學",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00MFhGNGJ3OF82Si1kMVhQUU05cmYwV2FCcFgxcmxTOFF5dFg2U2xmM3ZJTUFPV1Q3UU5PUE44cmpqU1ZzeE9hWWFQLXYxUVE?oc=5"
+        },
+        {
+          "source": "風傳媒",
+          "title": "臺中教育大學美工刀事件！男大生嗆「把老師滅了」 校方宣佈禁止入校： 擬辦退學",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rVFhiR0xGaFhiSGtkY2JkMGNaYW9kYUdkYlhOSDNibHRjUWViTjdlYUFIS1F0aHVPYU5rTHFTTWJnMEdUSkRKNHVIVnlRV01C?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "學者：ART護臺灣301稅率不逾15％ 保持相對競爭力",
       "summary": [
         "自由時報：學者：ART護臺灣301稅率不逾15％ 保持相對競爭力",
@@ -119,7 +134,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "何欣純遭影射賄選一票2千5　網友脆上亂發文造謠被抓到了",
       "summary": [
         "ETtoday：何欣純遭影射賄選一票2千5　網友脆上亂發文造謠被抓到了",
@@ -140,7 +155,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "建通看好明年獲利成長 特殊新型銅材營收比重衝5成",
       "summary": [
         "鉅亨網：建通看好明年獲利成長 特殊新型銅材營收比重衝5成",
@@ -161,7 +176,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "王世堅喊讓沈伯洋當史上最高票市長 4年後接棒總統賴清德",
       "summary": [
         "自由時報：王世堅喊讓沈伯洋當史上最高票市長 4年後接棒總統賴清德",
@@ -182,7 +197,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "威健國內第八次無擔保轉換債完成訂價，每股35.29元",
       "summary": [
         "公開資訊觀測站重訊：威健國內第八次無擔保轉換債完成訂價，每股35.29元",
@@ -199,27 +214,6 @@
           "source": "MoneyDJ理財網",
           "title": "威健國內第八次無擔保轉換債完成訂價，每股35.29元",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemJ4V3RvX2RJeU5UWFZmTlJBUUEtY1o2RVNhWWFRX29ZOWhDSlhsZ0xQTUVRNktSR3N5dXl3SlkxaHlablpsV3VPb1dJRW50TndyX0I4VmtKcWlVbFdad0pJamxRb2JnZ0dlTnJtOFpOTWh6WmdjcXVaVWhfTlROMTBVT04yd1ZVWHhFMUpXbi1EUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元- 新聞",
-      "summary": [
-        "MoneyDJ理財網：昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元- 新聞",
-        "公開資訊觀測站重訊：昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUms4RVBMaDBvUFhYR0wtakZUb2VXV0Q4bEZJSVZTaEd6N3ZXVWxkeUFaQUctS1M5ajloOGRRaDNHZlBleWZkc0E4QU5CU2tYU0hmdmt1YndvWm9La3FWTWp3ZUt5ZVNUTDF2TzhlbDdUblNna21uUHBoZ0hOdGpZX0JCa1V1ekFOb3NuY1JWUEo5QQ?oc=5"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWFROVBMWnM3aDhpRTBsTm9qWTdyeU5LNDFQbEluNEN0VS04cEVaNjVtU1ZscmxiNC1oUW9iaTFaaEVtSXc0NHZ5RnJsd0hGREM4ZUNiS2psVWF1WFVld0FDb3BMMkhEUmMta0ZzcHVZZy03azBnamQ3eS1fTUNfTE91RlA3bkVma25ldld4Z2Y0UQ?oc=5"
         }
       ]
     }
@@ -323,27 +317,6 @@
     },
     {
       "rank": 4,
-      "title": "神舟二十四號成功發射 首位巴基斯坦航天員登中國「天宮」意味什麼？",
-      "summary": [
-        "BBC中文：神舟二十四號成功發射 首位巴基斯坦航天員登中國「天宮」意味什麼？",
-        "BBC World：中國太空任務升空，首位巴基斯坦太空人登上太空"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "神舟二十四號成功發射 首位巴基斯坦航天員登中國「天宮」意味什麼？",
-          "url": "https://www.bbc.com/zhongwen/articles/cm9w91y0pge7o/trad?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "title": "中國太空任務升空，首位巴基斯坦太空人登上太空",
-          "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑",
       "summary": [
         "WSJ Markets：今日股市：隨著對人工智慧貿易的信心減弱，科技主導的股市持續下滑",
@@ -364,7 +337,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
       "summary": [
         "BBC World：美國準備宣佈對全球貿易夥伴徵收新關稅的計劃",
@@ -385,7 +358,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "南非拉馬福薩贏得彈劾威脅法庭訴訟",
       "summary": [
         "BBC World：南非拉馬福薩贏得彈劾威脅法庭訴訟",
@@ -402,6 +375,27 @@
           "source": "Financial Times",
           "title": "南非拉馬福薩贏得阻止彈劾的鬥爭",
           "url": "https://www.ft.com/content/e8081338-7139-4fcb-9643-73079d4913c4?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "密西西比海岸飛機失事後六人中的兩名兒童死亡",
+      "summary": [
+        "BBC World：密西西比海岸飛機失事後六人中的兩名兒童死亡",
+        "Washington Post：密西西比海岸霍恩島附近的飛機失事造成六人死亡"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "密西西比海岸飛機失事後六人中的兩名兒童死亡",
+          "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Washington Post",
+          "title": "密西西比海岸霍恩島附近的飛機失事造成六人死亡",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEFjMk9lQ3dHUjRiQkJac1pDYzg5WERndkZWV0F4VWMzS015ZjE5LUtmY1VlRzlhTHRVTENGYWpXN2twSmtoeld4QndoQzhWNC1TbDI3TnpmeWhKbzNOdGdDVkdZVTU3UHVrcG9TbWpSZkpYMmxwTkc3WEtjU21ObFRpTTdkdmVJRjNEQVVKb0lHTFVGWXFwOTF5TVh3c0lucVczVm1kMHBLZjlfN0FveQ?oc=5"
         }
       ]
     },
@@ -449,22 +443,22 @@
     },
     {
       "rank": 10,
-      "title": "SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
+      "title": "隨著英偉達恢復漲勢消退，股市持續下跌",
       "summary": [
-        "Investing.com：SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
-        "CNBC：SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股"
+        "Bloomberg Markets：隨著英偉達恢復漲勢消退，股市持續下跌",
+        "WSJ Markets：瘋狂交易後股市收低"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
-          "url": "https://www.investing.com/news/stock-market-news/spacex-to-contribute-one-class-a-share-to-every-trump-account-5051378"
+          "source": "Bloomberg Markets",
+          "title": "隨著英偉達恢復漲勢消退，股市持續下跌",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-continue-fall-as-nvidia-reinstatement-rally-fades"
         },
         {
-          "source": "CNBC",
-          "title": "SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股",
-          "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
+          "source": "WSJ Markets",
+          "title": "瘋狂交易後股市收低",
+          "url": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main"
         }
       ]
     }
