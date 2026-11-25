@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 17:25",
+  "updated_at": "2026-11-25 17:59",
   "taiwan": [
     {
       "rank": 1,
@@ -104,27 +104,6 @@
     },
     {
       "rank": 5,
-      "title": "涉揪團赴中招待旅遊介選 國民黨前高市議員黃紹庭60萬交保",
-      "summary": [
-        "自由時報：涉揪團赴中招待旅遊介選 國民黨前高市議員黃紹庭60萬交保",
-        "公視新聞：涉招待選民赴中旅遊介選 高雄前議員黃紹庭60萬交保"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "涉揪團赴中招待旅遊介選 國民黨前高市議員黃紹庭60萬交保",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1779835"
-        },
-        {
-          "source": "公視新聞",
-          "title": "涉招待選民赴中旅遊介選 高雄前議員黃紹庭60萬交保",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMMlBKRGQtWS1mOVliLWVtVGwyWEVqemlzVWxsZ1ZEYUdQeUcwbkh3SkVNV2NzUmVCNF9IZ3hxblJ2cmlNajhVNk5xa1FnbDA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "今明「全臺有雨」　投票日天氣曝",
       "summary": [
         "ETtoday：今明「全臺有雨」　投票日天氣曝",
@@ -145,7 +124,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "蔡康永金句「超直白」：我們也沒道理特地矇眼去吃屎",
       "summary": [
         "ETtoday：蔡康永金句「超直白」：我們也沒道理特地矇眼去吃屎",
@@ -166,7 +145,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "快訊／臺指期夜盤跌近2000點　臺積電夜盤跌近4%",
       "summary": [
         "ETtoday：快訊／臺指期夜盤跌近2000點　臺積電夜盤跌近4%",
@@ -187,7 +166,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "黃仁勳向輝達員工緻歉 坦承違反行為準則、接受心理治療",
       "summary": [
         "經濟日報：黃仁勳向輝達員工緻歉 坦承違反行為準則、接受心理治療",
@@ -208,7 +187,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "竊取商業機密、隱瞞伊朗業務　華為遭美國陪審團定罪",
       "summary": [
         "經濟日報：竊取商業機密、隱瞞伊朗業務　華為遭美國陪審團定罪",
@@ -225,6 +204,27 @@
           "source": "自由時報",
           "title": "竊取商業機密、隱瞞伊朗業務 華為遭美國陪審團定罪",
           "url": "https://ec.ltn.com.tw/article/breakingnews/5652314"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "舞臺劇爆意外！小煜中場衝出門「接小孩緊急電話」 慘被反鎖險開天窗",
+      "summary": [
+        "自由時報：舞臺劇爆意外！小煜中場衝出門「接小孩緊急電話」 慘被反鎖險開天窗",
+        "ETtoday：舞臺劇中場休息衝出門「接兒緊急電話」　楊奇煜被反鎖…險出大事"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "舞臺劇爆意外！小煜中場衝出門「接小孩緊急電話」 慘被反鎖險開天窗",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5652270"
+        },
+        {
+          "source": "ETtoday",
+          "title": "舞臺劇中場休息衝出門「接兒緊急電話」　楊奇煜被反鎖…險出大事",
+          "url": "https://star.ettoday.net/news/3277794"
         }
       ]
     }
@@ -257,7 +257,7 @@
         },
         {
           "source": "Bloomberg Tech",
-          "title": "由於人工智慧擔憂打擊晶片製造商，亞洲股市恢復下滑",
+          "title": "由於人工智慧擔憂衝擊晶片製造商，亞洲股市恢復下滑",
           "url": "https://www.bloomberg.com/news/videos/2026-11-25/asian-stocks-resume-slide-as-ai-concerns-hit-chipmakers-video"
         }
       ]
@@ -339,27 +339,6 @@
     },
     {
       "rank": 5,
-      "title": "由於人工智慧伺服器需求不斷增長，戴爾再次上調年度銷售預測",
-      "summary": [
-        "Bloomberg Tech：由於人工智慧伺服器需求不斷增長，戴爾再次上調年度銷售預測",
-        "Investing.com：人工智慧伺服器需求激增，創紀錄季度後戴爾上調年度預測"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "由於人工智慧伺服器需求不斷增長，戴爾再次上調年度銷售預測",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-24/dell-ups-annual-sales-forecast-again-video"
-        },
-        {
-          "source": "Investing.com",
-          "title": "人工智慧伺服器需求激增，創紀錄季度後戴爾上調年度預測",
-          "url": "https://www.investing.com/news/stock-market-news/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand-5049024"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "俄羅斯獨立媒體分析稱，超過49萬名俄羅斯士兵在戰鬥中喪生",
       "summary": [
         "NHK新聞：俄羅斯獨立媒體分析稱，超過49萬名俄羅斯士兵在戰鬥中喪生",
@@ -380,7 +359,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "南航訂購 50 架飛機，這是波音近十年來最大的中國交易",
       "summary": [
         "Investing.com：南航訂購 50 架飛機，這是波音近十年來最大的中國交易",
@@ -401,7 +380,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
       "summary": [
         "Investing.com：在川普幹預董事會突然逆轉後，黃仁勳重新擔任英偉達執行長",
@@ -422,7 +401,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "索羅門群島選擇澳洲作為“主要安全夥伴”",
       "summary": [
         "Nikkei Asia：索羅門群島選擇澳洲作為“主要安全夥伴”",
@@ -443,7 +422,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "沙烏地阿拉伯與胡塞武裝的戰鬥愈演愈烈",
       "summary": [
         "Bloomberg Markets：沙烏地阿拉伯與胡塞武裝的戰鬥愈演愈烈",
@@ -460,6 +439,27 @@
           "source": "Investing.com",
           "title": "葉門衝突升級，胡塞武裝威脅沙烏地阿拉伯港口",
           "url": "https://www.investing.com/news/stock-market-news/houthis-threaten-saudi-ports-amid-yemen-conflict-escalation-93CH-5049796"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Flipkart 執行長將在沃爾瑪印度業務轉型後辭職",
+      "summary": [
+        "Bloomberg Tech：Flipkart 執行長將在沃爾瑪印度業務轉型後辭職",
+        "Investing.com：沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Flipkart 執行長將在沃爾瑪印度業務轉型後辭職",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/flipkart-ceo-to-exit-after-transforming-walmart-s-india-play"
+        },
+        {
+          "source": "Investing.com",
+          "title": "沃爾瑪智慧 Flipkart 的 Kalyan Krishnamurthy 辭去執行長職務",
+          "url": "https://www.investing.com/news/stock-market-news/walmartowned-flipkarts-kalyan-krishnamurthy-steps-down-as-ceo-5049946"
         }
       ]
     }
