@@ -1,8 +1,45 @@
 {
-  "updated_at": "2026-11-26 09:29",
+  "updated_at": "2026-11-26 09:56",
   "taiwan": [
     {
       "rank": 1,
+      "title": "美批准SpaceX部署100萬顆衛星　建太空資料中心",
+      "summary": [
+        "自由時報：美批准SpaceX部署100萬顆衛星　建太空資料中心",
+        "經濟日報：美批准 SpaceX 部署100萬顆衛星 建太空資料中心",
+        "科技新報：美批准 SpaceX 部署 100 萬顆衛星，建太空資料中心"
+      ],
+      "media_count": 5,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美批准SpaceX部署100萬顆衛星　建太空資料中心",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5653616"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美批准 SpaceX 部署100萬顆衛星 建太空資料中心",
+          "url": "https://money.udn.com/money/story/123398/9902518"
+        },
+        {
+          "source": "科技新報",
+          "title": "美批准 SpaceX 部署 100 萬顆衛星，建太空資料中心",
+          "url": "https://technews.tw/2026/11/26/us-authorizes-spacex-to-deploy-1-million-satellites-for-data-centers-in-space/"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "馬斯克太空AI夢邁出一大步！SpaceX獲有條件核准發射最多100萬顆衛星",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BRldUVWZlODl1VGJrVE01b2RtZG5XTFlBdUdnWlFvYkRZOEN1TnJncnJCcWlTNzIwdllJeUpVYzRLTElfNjRldHk2UmJWNE0?oc=5"
+        },
+        {
+          "source": "iThome",
+          "title": "SpaceX取得100萬顆衛星部署許可，以打造太空資料中心",
+          "url": "https://www.ithome.com.tw/news/180802"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "美301調查出爐擬對14經濟體加關稅　臺灣協議稅率至少15%",
       "summary": [
         "經濟日報：美301調查出爐擬對14經濟體加關稅　臺灣協議稅率至少15%",
@@ -30,38 +67,6 @@
           "source": "科技新報",
           "title": "美國擬對 14 個經濟體祭出新關稅，臺灣課徵 15% 中國關稅恐升至約 45%",
           "url": "https://finance.technews.tw/2026/11/26/us-plans-new-tariffs-on-14-economies/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "美批准SpaceX部署100萬顆衛星　建太空資料中心",
-      "summary": [
-        "自由時報：美批准SpaceX部署100萬顆衛星　建太空資料中心",
-        "經濟日報：美批准 SpaceX 部署100萬顆衛星 建太空資料中心",
-        "科技新報：美批准 SpaceX 部署 100 萬顆衛星，建太空資料中心"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美批准SpaceX部署100萬顆衛星　建太空資料中心",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5653616"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美批准 SpaceX 部署100萬顆衛星 建太空資料中心",
-          "url": "https://money.udn.com/money/story/123398/9902518"
-        },
-        {
-          "source": "科技新報",
-          "title": "美批准 SpaceX 部署 100 萬顆衛星，建太空資料中心",
-          "url": "https://technews.tw/2026/11/26/us-authorizes-spacex-to-deploy-1-million-satellites-for-data-centers-in-space/"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "馬斯克太空AI夢邁出一大步！SpaceX獲有條件核准發射最多100萬顆衛星",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BRldUVWZlODl1VGJrVE01b2RtZG5XTFlBdUdnWlFvYkRZOEN1TnJncnJCcWlTNzIwdllJeUpVYzRLTElfNjRldHk2UmJWNE0?oc=5"
         }
       ]
     },
@@ -148,6 +153,27 @@
     },
     {
       "rank": 6,
+      "title": "震撼！沈伯洋宣佈停辦選前市民之夜 親自曝原因",
+      "summary": [
+        "自由時報：震撼！沈伯洋宣佈停辦選前市民之夜 親自曝原因",
+        "關鍵評論網：取消選前市民之夜，沈伯洋這次真的開大招了！"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "震撼！沈伯洋宣佈停辦選前市民之夜 親自曝原因",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653531"
+        },
+        {
+          "source": "關鍵評論網",
+          "title": "取消選前市民之夜，沈伯洋這次真的開大招了！",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtVDFJQkZyTDVRaHNDQ3h2YVpWLWhhVHJaOUJfRFFVYWlPYzFJbmhBOHlBLW1LSnJoNy1QZE95ZFI4Z3BpV2ZvQ2VsQ2lHczM0cFNvVA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "快訊／震撼彈！沈伯洋宣佈取消選前之夜　「市民交通最重要」",
       "summary": [
         "ETtoday：快訊／震撼彈！沈伯洋宣佈取消選前之夜　「市民交通最重要」",
@@ -168,7 +194,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "沈伯洋選前之夜喊卡！柯昱安揭當年柯市府也沒搶到路權 怒嗆藍營1句",
       "summary": [
         "自由時報：沈伯洋選前之夜喊卡！柯昱安揭當年柯市府也沒搶到路權 怒嗆藍營1句",
@@ -189,7 +215,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
       "summary": [
         "自由時報：重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
@@ -210,7 +236,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "國1彰化段重大車禍！3大型車追撞3死2命危14傷 南下全線封閉",
       "summary": [
         "自由時報：國1彰化段重大車禍！3大型車追撞3死2命危14傷 南下全線封閉",
@@ -227,27 +253,6 @@
           "source": "ETtoday",
           "title": "快訊／國1彰化段「遊覽車、2大車追撞」　3命危16傷",
           "url": "https://www.ettoday.net/news/20261126/3278624.htm"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元- 新聞",
-      "summary": [
-        "MoneyDJ理財網：昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元- 新聞",
-        "公開資訊觀測站重訊：昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "MoneyDJ理財網",
-          "title": "昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUms4RVBMaDBvUFhYR0wtakZUb2VXV0Q4bEZJSVZTaEd6N3ZXVWxkeUFaQUctS1M5ajloOGRRaDNHZlBleWZkc0E4QU5CU2tYU0hmdmt1YndvWm9La3FWTWp3ZUt5ZVNUTDF2TzhlbDdUblNna21uUHBoZ0hOdGpZX0JCa1V1ekFOb3NuY1JWUEo5QQ?oc=5"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "昇達科：巨頻科技董事會透過建廠及裝置投資計畫，合計8億元",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWFROVBMWnM3aDhpRTBsTm9qWTdyeU5LNDFQbEluNEN0VS04cEVaNjVtU1ZscmxiNC1oUW9iaTFaaEVtSXc0NHZ5RnJsd0hGREM4ZUNiS2psVWF1WFVld0FDb3BMMkhEUmMta0ZzcHVZZy03azBnamQ3eS1fTUNfTE91RlA3bkVma25ldld4Z2Y0UQ?oc=5"
         }
       ]
     }
@@ -324,6 +329,33 @@
     },
     {
       "rank": 3,
+      "title": "SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
+      "summary": [
+        "Investing.com：SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
+        "CNBC：SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股",
+        "Yahoo Finance：SpaceX 和伊隆馬斯克將各向活躍的川普帳戶分配一股"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
+          "url": "https://www.investing.com/news/stock-market-news/spacex-to-contribute-one-class-a-share-to-every-trump-account-5051378"
+        },
+        {
+          "source": "CNBC",
+          "title": "SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "SpaceX 和伊隆馬斯克將各向活躍的川普帳戶分配一股",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX19Rdm5qYUwtN1FLbDk5cmtvclRlcHJhUktLMF9hY3lWbjZXVm1WQlVsQUpJb1paR09SRFQxcmtxaXRyVEw3X3k5dnM5clY5MkI2MkVKcW0yVFQ2dUZTTFFyUTNGVzBKR1N6dWVXZjlMZUNXRlcwNHczbVUtcFUtX2tBcHNiVXROU09mb1VUU05vd1ZmTk85TGREM0FPQW1seHhiZVZGcmp6NjdpN2p5czlXNXgxalFYZjBEam9B?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "梅西百貨因惡劣天氣延後感恩節遊行",
       "summary": [
         "CNBC：梅西百貨因惡劣天氣延後感恩節遊行",
@@ -350,7 +382,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "特朗普政府提對14個貿易夥伴加徵新關稅：對中國稅率為20%",
       "summary": [
         "法廣RFI：特朗普政府提對14個貿易夥伴加徵新關稅：對中國稅率為20%",
@@ -371,7 +403,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "人工智慧交易陷入困境，納斯達克 100 指數將進入熊市",
       "summary": [
         "Bloomberg Markets：人工智慧交易陷入困境，納斯達克 100 指數將進入熊市",
@@ -392,7 +424,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "檢視自 1 月以來川普持有的所有 Nvidia 股票交易",
       "summary": [
         "Washington Post：檢視自 1 月以來川普持有的所有 Nvidia 股票交易",
@@ -413,7 +445,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "邁克爾·伯裡 (Michael Burry) 出售剩餘的納斯達克 100 看跌期權，稱投資組合為多頭",
       "summary": [
         "Investing.com：邁克爾·伯裡 (Michael Burry) 出售剩餘的納斯達克 100 看跌期權，稱投資組合為多頭",
@@ -434,7 +466,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "1Password稱駭客侵入其內部系統，但客戶密碼是安全的",
       "summary": [
         "TechCrunch：1Password稱駭客侵入其內部系統，但客戶密碼是安全的",
@@ -455,7 +487,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "北韓因制裁驅逐瑞士外交官",
       "summary": [
         "BBC World：北韓因制裁驅逐瑞士外交官",
@@ -472,27 +504,6 @@
           "source": "法廣RFI",
           "title": "朝鮮驅逐瑞士外交辦事處代表",
           "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261125-%E6%9C%9D%E9%AE%AE%E9%A9%85%E9%80%90%E7%91%9E%E5%A3%AB%E5%A4%96%E4%BA%A4%E8%BE%A6%E4%BA%8B%E8%99%95%E4%BB%A3%E8%A1%A8"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "標準普爾表示可能因治理擔憂而下調英偉達評級",
-      "summary": [
-        "Bloomberg Tech：標準普爾表示可能因治理擔憂而下調英偉達評級",
-        "TechCrunch：標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "標準普爾表示可能因治理擔憂而下調英偉達評級",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
-          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
         }
       ]
     }
