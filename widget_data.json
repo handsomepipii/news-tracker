@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 01:26",
+  "updated_at": "2026-11-27 01:55",
   "taiwan": [
     {
       "rank": 1,
@@ -45,90 +45,27 @@
     },
     {
       "rank": 3,
-      "title": "黑豹旗／扳倒去年亞軍再退西苑！臺南海事首闖4強寫校史最佳成績",
+      "title": "科技股下殺後反彈　亞股回穩多收高",
       "summary": [
-        "ETtoday：黑豹旗／扳倒去年亞軍再退西苑！臺南海事首闖4強寫校史最佳成績",
-        "自由時報：黑豹旗》去年首戰淘汰→今年勇闖4強  「南水潛艇」直呼太神奇！"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "黑豹旗／扳倒去年亞軍再退西苑！臺南海事首闖4強寫校史最佳成績",
-          "url": "https://sports.ettoday.net/news/3278884"
-        },
-        {
-          "source": "自由時報",
-          "title": "黑豹旗》去年首戰淘汰→今年勇闖4強  「南水潛艇」直呼太神奇！",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5654192"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "校園霸凌逼喝尿！韓男高生「在保溫杯撒尿」　女同學被迫自請退學",
-      "summary": [
-        "ETtoday：校園霸凌逼喝尿！韓男高生「在保溫杯撒尿」　女同學被迫自請退學",
-        "中時新聞：離譜！韓男高中生偷尿同學保溫杯女學生誤飲崩潰退學- 社會"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "校園霸凌逼喝尿！韓男高生「在保溫杯撒尿」　女同學被迫自請退學",
-          "url": "https://www.ettoday.net/news/20261126/3278843.htm"
-        },
-        {
-          "source": "中時新聞",
-          "title": "離譜！韓男高中生偷尿同學保溫杯女學生誤飲崩潰退學- 社會",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11aHpJT0QyR2dJcmRWLXNZYTVoTHFRZDFCaC10S1ZjRHhOeElJaWI1RWVCWTI4T3VkQlpEc3F1Mm9QOVdpT0dRek9FekdKRVhMREFOMGNneU9GSFppR1NNU0RyaHFySy1FWTJwUTFB?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "駭客入侵1Password員工GitHub帳號竊走公司原始碼，植入惡意程式碼下載客戶資料",
-      "summary": [
-        "iThome：駭客入侵1Password員工GitHub帳號竊走公司原始碼，植入惡意程式碼下載客戶資料",
-        "INSIDE硬塞：1Password 確認內部系統遭竊，駭員工 GitHub 帳號遭入侵，使用者名稱與電子郵件外洩但保管庫未進行"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "駭客入侵1Password員工GitHub帳號竊走公司原始碼，植入惡意程式碼下載客戶資料",
-          "url": "https://www.ithome.com.tw/news/180820"
-        },
-        {
-          "source": "INSIDE硬塞",
-          "title": "1Password 確認內部系統遭竊，駭員工 GitHub 帳號遭入侵，使用者名稱與電子郵件外洩但保管庫未進行",
-          "url": "https://www.inside.com.tw/article/43017-1password-confirms-internal-systems-breach-employee-github-account-names-emails-vaults-not-accessed"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "調查：歐洲半數工企陷財務壓力　370萬職位恐不保",
-      "summary": [
-        "經濟日報：調查：歐洲半數工企陷財務壓力　370萬職位恐不保",
-        "科技新報：調查：歐洲半數工企陷財務壓力，370 萬職位恐不保"
+        "經濟日報：科技股下殺後反彈　亞股回穩多收高",
+        "自由時報：科技股回穩　歐股隨亞股走揚收高"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "經濟日報",
-          "title": "調查：歐洲半數工企陷財務壓力　370萬職位恐不保",
-          "url": "https://money.udn.com/money/story/5599/9903468"
+          "title": "科技股下殺後反彈　亞股回穩多收高",
+          "url": "https://money.udn.com/money/story/5599/9904142"
         },
         {
-          "source": "科技新報",
-          "title": "調查：歐洲半數工企陷財務壓力，370 萬職位恐不保",
-          "url": "https://technews.tw/2026/11/26/half-of-european-industrial-companies-under-serious-financial-stress/"
+          "source": "自由時報",
+          "title": "科技股回穩　歐股隨亞股走揚收高",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5654830"
         }
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "AI 逆風延燒  OpenAI 明年 6 月前 IPO 機率跌至 28%",
       "summary": [
         "科技新報：AI 逆風延燒  OpenAI 明年 6 月前 IPO 機率跌至 28%",
@@ -149,7 +86,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "快訊》疊加最高破40％！川普拋新關稅臺灣等14個經濟體一次看- 國際",
       "summary": [
         "中時新聞：快訊》疊加最高破40％！川普拋新關稅臺灣等14個經濟體一次看- 國際",
@@ -170,7 +107,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "美 AI 資料中心擴張受阻  至少 4 州喊停機率達 57%",
       "summary": [
         "科技新報：美 AI 資料中心擴張受阻  至少 4 州喊停機率達 57%",
@@ -191,7 +128,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "美擬對14經濟體加徵新關稅　主要貿易夥伴紛表不滿",
       "summary": [
         "經濟日報：美擬對14經濟體加徵新關稅　主要貿易夥伴紛表不滿",
@@ -208,6 +145,69 @@
           "source": "科技新報",
           "title": "美擬對 14 經濟體加徵新關稅，主要貿易夥伴紛表不滿",
           "url": "https://technews.tw/2026/11/26/us-plans-new-tariffs-14-economies-major-trade-partners-discontent/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "銅礦商 ETF 連跌 13 週、史上首見  反彈可期？",
+      "summary": [
+        "科技新報：銅礦商 ETF 連跌 13 週、史上首見  反彈可期？",
+        "MoneyDJ理財網：銅礦商ETF連跌13週、史上首見 反彈可期？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "銅礦商 ETF 連跌 13 週、史上首見  反彈可期？",
+          "url": "https://finance.technews.tw/2026/11/26/copper-miners-etf-13-week-losing-streak-unprecedented-rebound-expected/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "銅礦商ETF連跌13週、史上首見 反彈可期？",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZmJtQllLeTlqUExtTTl0dm0yR1pVSkF5SlZTaTk4bWtXUklMN0d3LWMtNWRZVERSVDFwWkRIQVRfc0RqRzk1MlZJV1dOZVI2MUdQQWRUWFFxZzVkZUhfYWVXSjhrVEZzWmNqNm1CSTlkMFQzWXRvX0FvbnpIUFB0MHA5bDA4clRGRzJmeFMtMTJWUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "楊承勳父親輔選新北選將陳俊諺 盼落實全市校園緊急求救鈴裝設",
+      "summary": [
+        "自由時報：楊承勳父親輔選新北選將陳俊諺 盼落實全市校園緊急求救鈴裝設",
+        "公視新聞：新北選戰蘇巧慧一天車掃7區 李四川請朱立倫、侯友宜陪掃街"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "楊承勳父親輔選新北選將陳俊諺 盼落實全市校園緊急求救鈴裝設",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5654303"
+        },
+        {
+          "source": "公視新聞",
+          "title": "新北選戰蘇巧慧一天車掃7區 李四川請朱立倫、侯友宜陪掃街",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13Ry11QTFaZVpJZG4wcHB6bXJLT3pCV3NhMVg2cnNwdjZfeDh3bjNBeF9NcXFuQks3ZkxLck9OcXZ3alJ1LUpNTWJwSzRTVWM?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "網路賣「習唯呢公仔」遭跨境恐嚇下架  警逮6弘仁會成員",
+      "summary": [
+        "自由時報：網路賣「習唯呢公仔」遭跨境恐嚇下架  警逮6弘仁會成員",
+        "ETtoday：跨境鎮壓又一件！賣「習唯呢」公仔竟遭竹聯黑幫恐嚇　6嫌起訴"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "網路賣「習唯呢公仔」遭跨境恐嚇下架  警逮6弘仁會成員",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5654300"
+        },
+        {
+          "source": "ETtoday",
+          "title": "跨境鎮壓又一件！賣「習唯呢」公仔竟遭竹聯黑幫恐嚇　6嫌起訴",
+          "url": "https://www.ettoday.net/news/20261126/3279012.htm"
         }
       ]
     }
