@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 14:26",
+  "updated_at": "2026-11-26 14:56",
   "taiwan": [
     {
       "rank": 1,
@@ -67,28 +67,28 @@
     },
     {
       "rank": 3,
-      "title": "黃仁勳強勢回歸輝達總部　馬斯克攜子現身合體慶賀",
+      "title": "《臺北時報》 美國擬對中國臺灣等14個貿易夥伴加徵新關稅",
       "summary": [
-        "自由時報：黃仁勳強勢回歸輝達總部　馬斯克攜子現身合體慶賀",
-        "經濟日報：黃仁勳強勢回歸輝達總部　馬斯克攜子現身合體慶賀",
-        "科技新報：黃仁勳強勢回歸輝達總部，馬斯克攜子現身合體慶賀"
+        "自由時報：《臺北時報》 美國擬對中國臺灣等14個貿易夥伴加徵新關稅",
+        "科技新報：美國擬對 14 個經濟體祭出新關稅，臺灣課徵 15% 中國關稅恐升至約 45%",
+        "經濟日報：美擬對14經濟體加徵新關稅　主要貿易夥伴紛表不滿"
       ],
       "media_count": 3,
       "links": [
         {
           "source": "自由時報",
-          "title": "黃仁勳強勢回歸輝達總部　馬斯克攜子現身合體慶賀",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5653608"
-        },
-        {
-          "source": "經濟日報",
-          "title": "黃仁勳強勢回歸輝達總部　馬斯克攜子現身合體慶賀",
-          "url": "https://money.udn.com/money/story/5599/9902468"
+          "title": "《臺北時報》 美國擬對中國臺灣等14個貿易夥伴加徵新關稅",
+          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5653523"
         },
         {
           "source": "科技新報",
-          "title": "黃仁勳強勢回歸輝達總部，馬斯克攜子現身合體慶賀",
-          "url": "https://technews.tw/2026/11/26/jensen-huang-triumphant-return-nvidia-hq-elon-musk-son-celebrate/"
+          "title": "美國擬對 14 個經濟體祭出新關稅，臺灣課徵 15% 中國關稅恐升至約 45%",
+          "url": "https://finance.technews.tw/2026/11/26/us-plans-new-tariffs-on-14-economies/"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美擬對14經濟體加徵新關稅　主要貿易夥伴紛表不滿",
+          "url": "https://money.udn.com/money/story/5599/9903687"
         }
       ]
     },
@@ -169,27 +169,6 @@
     },
     {
       "rank": 7,
-      "title": "《臺北時報》 美國擬對中國臺灣等14個貿易夥伴加徵新關稅",
-      "summary": [
-        "自由時報：《臺北時報》 美國擬對中國臺灣等14個貿易夥伴加徵新關稅",
-        "科技新報：美國擬對 14 個經濟體祭出新關稅，臺灣課徵 15% 中國關稅恐升至約 45%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "《臺北時報》 美國擬對中國臺灣等14個貿易夥伴加徵新關稅",
-          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5653523"
-        },
-        {
-          "source": "科技新報",
-          "title": "美國擬對 14 個經濟體祭出新關稅，臺灣課徵 15% 中國關稅恐升至約 45%",
-          "url": "https://finance.technews.tw/2026/11/26/us-plans-new-tariffs-on-14-economies/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
       "summary": [
         "自由時報：重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
@@ -210,44 +189,65 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "沈伯洋取消選前之夜　蔣萬安願出讓27日市府路給沈、開票夜改線上",
+      "rank": 8,
+      "title": "科技股逢賣壓　美股多收黑",
       "summary": [
-        "ETtoday：沈伯洋取消選前之夜　蔣萬安願出讓27日市府路給沈、開票夜改線上",
-        "自由時報：沈伯洋為市民交通取消選前之夜！周軒揭徹夜拆除舞臺成果"
+        "自由時報：科技股逢賣壓　美股多收黑",
+        "經濟日報：科技股逢賣壓　美股多收黑"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "沈伯洋取消選前之夜　蔣萬安願出讓27日市府路給沈、開票夜改線上",
-          "url": "https://www.ettoday.net/news/20261126/3278595.htm"
+          "source": "自由時報",
+          "title": "科技股逢賣壓　美股多收黑",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5653617"
         },
         {
+          "source": "經濟日報",
+          "title": "科技股逢賣壓　美股多收黑",
+          "url": "https://money.udn.com/money/story/123398/9902519"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "沈伯洋選前之夜喊停！蔣萬安被灌爆 楊植鬥搬吳思瑤4年前的話反嗆",
+      "summary": [
+        "自由時報：沈伯洋選前之夜喊停！蔣萬安被灌爆 楊植鬥搬吳思瑤4年前的話反嗆",
+        "ETtoday：沈伯洋選前之夜喊卡　楊智伃：裝可憐也要怪蔣萬安？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
           "source": "自由時報",
-          "title": "沈伯洋為市民交通取消選前之夜！周軒揭徹夜拆除舞臺成果",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653656"
+          "title": "沈伯洋選前之夜喊停！蔣萬安被灌爆 楊植鬥搬吳思瑤4年前的話反嗆",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653600"
+        },
+        {
+          "source": "ETtoday",
+          "title": "沈伯洋選前之夜喊卡　楊智伃：裝可憐也要怪蔣萬安？",
+          "url": "https://www.ettoday.net/news/20261126/3278623.htm"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "臺灣301關稅列「最低階別15%不疊加」　臺美經貿小組：努力鞏固談判結果",
+      "title": "盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
       "summary": [
-        "ETtoday：臺灣301關稅列「最低階別15%不疊加」　臺美經貿小組：努力鞏固談判結果",
-        "科技報橘：美 301 新關稅點名臺灣等 14 個經濟體，臺灣政府：有信心維持 15%、協議不重談"
+        "ETtoday：盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
+        "科技新報：美媒：盧比歐憂輝達不利對中政策，向川普示警國安威脅"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "ETtoday",
-          "title": "臺灣301關稅列「最低階別15%不疊加」　臺美經貿小組：努力鞏固談判結果",
-          "url": "https://www.ettoday.net/news/20261126/3278590.htm"
+          "title": "盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
+          "url": "https://www.ettoday.net/news/20261126/3278609.htm"
         },
         {
-          "source": "科技報橘",
-          "title": "美 301 新關稅點名臺灣等 14 個經濟體，臺灣政府：有信心維持 15%、協議不重談",
-          "url": "https://techorange.com/2026/11/26/new-tariffs-14-trading-partners-fight-excess-factory-capacity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+          "source": "科技新報",
+          "title": "美媒：盧比歐憂輝達不利對中政策，向川普示警國安威脅",
+          "url": "https://technews.tw/2026/11/26/rubio-warns-trump-nvidia-harms-china-policy-national-security-threat/"
         }
       ]
     }
@@ -255,33 +255,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "SpaceX 獲得 FCC 批准部署 100 萬顆軌道資料中心衛星",
-      "summary": [
-        "CNBC：SpaceX 獲得 FCC 批准部署 100 萬顆軌道資料中心衛星",
-        "Ars Technica：FCC已授權SpaceX部署100萬顆衛星",
-        "TechCrunch：FCC 批准 SpaceX 將人工智慧資料中心送入太空的計劃"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "SpaceX 獲得 FCC 批准部署 100 萬顆軌道資料中心衛星",
-          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "FCC已授權SpaceX部署100萬顆衛星",
-          "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "FCC 批准 SpaceX 將人工智慧資料中心送入太空的計劃",
-          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "標準普爾表示可能因治理擔憂而下調英偉達評級",
       "summary": [
         "Bloomberg Tech：標準普爾表示可能因治理擔憂而下調英偉達評級",
@@ -308,7 +281,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
       "summary": [
         "Investing.com：SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
@@ -335,7 +308,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Palo Alto Networks 前經理指控會計欺詐",
       "summary": [
         "Bloomberg Tech：Palo Alto Networks 前經理指控會計欺詐",
@@ -362,7 +335,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "梅西百貨因惡劣天氣延後感恩節遊行",
       "summary": [
         "CNBC：梅西百貨因惡劣天氣延後感恩節遊行",
@@ -389,7 +362,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "簡訊：韓國央行上調基準利率25個基點至3.25%",
       "summary": [
         "韓聯社：簡訊：韓國央行上調基準利率25個基點至3.25%",
@@ -410,7 +383,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
       "summary": [
         "Investing.com：馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
@@ -431,28 +404,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "1Password稱駭客侵入其內部系統，但客戶密碼是安全的",
-      "summary": [
-        "TechCrunch：1Password稱駭客侵入其內部系統，但客戶密碼是安全的",
-        "Bloomberg Tech：1Password 表示駭客存取了使用者資料，密碼仍然安全"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "1Password稱駭客侵入其內部系統，但客戶密碼是安全的",
-          "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "1Password 表示駭客存取了使用者資料，密碼仍然安全",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/1password-says-hacker-accessed-user-data-passwords-remain-safe"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "title": "北韓因制裁驅逐瑞士外交官",
       "summary": [
         "BBC World：北韓因制裁驅逐瑞士外交官",
@@ -473,7 +425,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "隨著英偉達恢復漲勢消退，股市持續下跌",
       "summary": [
         "Bloomberg Markets：隨著英偉達恢復漲勢消退，股市持續下跌",
@@ -490,6 +442,48 @@
           "source": "WSJ Markets",
           "title": "瘋狂交易後股市收低",
           "url": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "以色列法官建議撤銷內塔尼亞胡最嚴重的指控",
+      "summary": [
+        "BBC World：以色列法官建議撤銷內塔尼亞胡最嚴重的指控",
+        "Financial Times：以色列法官建議檢察官撤銷內塔尼亞胡的部分指控"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "以色列法官建議撤銷內塔尼亞胡最嚴重的指控",
+          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Financial Times",
+          "title": "以色列法官建議檢察官撤銷內塔尼亞胡的部分指控",
+          "url": "https://www.ft.com/content/db700af5-22b2-4903-ae2e-124513681071?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "埃及大開羅地區道路交通事故造成至少30人死亡",
+      "summary": [
+        "Bloomberg Markets：埃及大開羅地區道路交通事故造成至少30人死亡",
+        "NHK新聞：埃及開羅附近發生交通事故及火災 造成31人死亡"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "埃及大開羅地區道路交通事故造成至少30人死亡",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/egypt-road-accident-kills-at-least-30-in-greater-cairo"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "埃及開羅附近發生交通事故及火災 造成31人死亡",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261126de81584"
         }
       ]
     }
