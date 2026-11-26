@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 18:26",
+  "updated_at": "2026-11-26 18:56",
   "taiwan": [
     {
       "rank": 1,
@@ -318,27 +318,6 @@
     },
     {
       "rank": 4,
-      "title": "標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
-      "summary": [
-        "TechCrunch：標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
-        "CNBC：標準普爾警告英偉達信用評等可能因「上升」的管理和治理風險而被下調"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
-          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
-        },
-        {
-          "source": "CNBC",
-          "title": "標準普爾警告英偉達信用評等可能因「上升」的管理和治理風險而被下調",
-          "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "警告財務「危急」後北歐大西洋航班暫停",
       "summary": [
         "CNBC：警告財務「危急」後北歐大西洋航班暫停",
@@ -359,7 +338,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
       "summary": [
         "Investing.com：美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
@@ -380,7 +359,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
       "summary": [
         "BBC中文：美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
@@ -401,7 +380,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "裕信銀行掃清了收購德國商業銀行的最後障礙",
       "summary": [
         "Investing.com：裕信銀行掃清了收購德國商業銀行的最後障礙",
@@ -422,7 +401,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
       "summary": [
         "Financial Times：中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
@@ -443,7 +422,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
       "summary": [
         "Investing.com：巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
@@ -460,6 +439,27 @@
           "source": "Financial Times",
           "title": "巴布科克獲得創紀錄的 87 億英鎊合約以支援皇家海軍潛艇",
           "url": "https://www.ft.com/content/b6db41b9-5af1-4105-a063-7dbf40e7fb2c?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Marc Levinson 講述 UPS 如何創造現代物流",
+      "summary": [
+        "Bloomberg Markets：Marc Levinson 講述 UPS 如何創造現代物流",
+        "Bloomberg Tech：Marc Levinson 講述 UPS 如何創造現代物流"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Marc Levinson 講述 UPS 如何創造現代物流",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Marc Levinson 講述 UPS 如何創造現代物流",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics-video"
         }
       ]
     }
