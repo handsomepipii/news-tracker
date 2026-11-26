@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 15:27",
+  "updated_at": "2026-11-26 15:56",
   "taiwan": [
     {
       "rank": 1,
@@ -136,6 +136,48 @@
     },
     {
       "rank": 6,
+      "title": "AI泡沫破恐比網路泡沫更傷- 日報",
+      "summary": [
+        "工商時報：AI泡沫破恐比網路泡沫更傷- 日報",
+        "風傳媒：AI泡沫如果破裂，經濟會有多慘？最可怕的不是股災，學者警告連鎖危機"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "工商時報",
+          "title": "AI泡沫破恐比網路泡沫更傷- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoS08zRHpjUWduVTJhUkNfQXFvaC1DcHZsZ3BjaXFYVFRiVkNLSXRoN0ZkcHROSlRFRmgxTDhyV0VPckRoc3ZLZFlaOGJMdElqUGV3clFoTWIzT0g2M2NV?oc=5"
+        },
+        {
+          "source": "風傳媒",
+          "title": "AI泡沫如果破裂，經濟會有多慘？最可怕的不是股災，學者警告連鎖危機",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWlE5VzdtYUdnUC1OUDNpUUtkVURpdDVTS0tTMDY4SGRiMk05Mk1JWk1QajlsU1NWQVVKZUtpYUgzV3BleHloUE9ieVJNdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
+      "summary": [
+        "經濟日報：輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
+        "ETtoday：美收緊管制！　輝達傳要求合作夥伴「暫停出貨東南亞4國」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
+          "url": "https://money.udn.com/money/story/123398/9903573"
+        },
+        {
+          "source": "ETtoday",
+          "title": "美收緊管制！　輝達傳要求合作夥伴「暫停出貨東南亞4國」",
+          "url": "https://www.ettoday.net/news/20261126/3278933.htm"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "科技股逢賣壓　美股多收黑",
       "summary": [
         "自由時報：科技股逢賣壓　美股多收黑",
@@ -156,7 +198,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "沈伯洋選前之夜喊停！蔣萬安被灌爆 楊植鬥搬吳思瑤4年前的話反嗆",
       "summary": [
         "自由時報：沈伯洋選前之夜喊停！蔣萬安被灌爆 楊植鬥搬吳思瑤4年前的話反嗆",
@@ -177,7 +219,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
       "summary": [
         "ETtoday：盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
@@ -196,80 +238,11 @@
           "url": "https://technews.tw/2026/11/26/rubio-warns-trump-nvidia-harms-china-policy-national-security-threat/"
         }
       ]
-    },
-    {
-      "rank": 9,
-      "title": "溼答答！　今全臺有雨",
-      "summary": [
-        "ETtoday：溼答答！　今全臺有雨",
-        "自由時報：華南雲雨區東移！今全臺有雨、早晚涼 週六投票日天氣曝光"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "溼答答！　今全臺有雨",
-          "url": "https://www.ettoday.net/news/20261126/3278597.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "華南雲雨區東移！今全臺有雨、早晚涼 週六投票日天氣曝光",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5653625"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "屏東長治工廠大火驚傳連續爆炸聲 民眾嚇醒",
-      "summary": [
-        "自由時報：屏東長治工廠大火驚傳連續爆炸聲 民眾嚇醒",
-        "ETtoday：屏東長治鄉工廠大火！爆炸聲頻傳　恐怖火煙竄天消防急灌救"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "屏東長治工廠大火驚傳連續爆炸聲 民眾嚇醒",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5653635"
-        },
-        {
-          "source": "ETtoday",
-          "title": "屏東長治鄉工廠大火！爆炸聲頻傳　恐怖火煙竄天消防急灌救",
-          "url": "https://www.ettoday.net/news/20261126/3278671.htm"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
-      "summary": [
-        "Investing.com：SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
-        "CNBC：SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股",
-        "Yahoo Finance：SpaceX 和伊隆馬斯克將各向活躍的川普帳戶分配一股"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
-          "url": "https://www.investing.com/news/stock-market-news/spacex-to-contribute-one-class-a-share-to-every-trump-account-5051378"
-        },
-        {
-          "source": "CNBC",
-          "title": "SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股",
-          "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "SpaceX 和伊隆馬斯克將各向活躍的川普帳戶分配一股",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX19Rdm5qYUwtN1FLbDk5cmtvclRlcHJhUktLMF9hY3lWbjZXVm1WQlVsQUpJb1paR09SRFQxcmtxaXRyVEw3X3k5dnM5clY5MkI2MkVKcW0yVFQ2dUZTTFFyUTNGVzBKR1N6dWVXZjlMZUNXRlcwNHczbVUtcFUtX2tBcHNiVXROU09mb1VUU05vd1ZmTk85TGREM0FPQW1seHhiZVZGcmp6NjdpN2p5czlXNXgxalFYZjBEam9B?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Palo Alto Networks 前經理指控會計欺詐",
       "summary": [
         "Bloomberg Tech：Palo Alto Networks 前經理指控會計欺詐",
@@ -296,7 +269,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "梅西百貨因惡劣天氣延後感恩節遊行",
       "summary": [
         "CNBC：梅西百貨因惡劣天氣延後感恩節遊行",
@@ -323,7 +296,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "簡訊：韓國央行上調基準利率25個基點至3.25%",
       "summary": [
         "韓聯社：簡訊：韓國央行上調基準利率25個基點至3.25%",
@@ -344,7 +317,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
       "summary": [
         "Investing.com：馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
@@ -365,28 +338,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "隨著英偉達恢復漲勢消退，股市持續下跌",
-      "summary": [
-        "Bloomberg Markets：隨著英偉達恢復漲勢消退，股市持續下跌",
-        "WSJ Markets：瘋狂交易後股市收低"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "隨著英偉達恢復漲勢消退，股市持續下跌",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-continue-fall-as-nvidia-reinstatement-rally-fades"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "瘋狂交易後股市收低",
-          "url": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "以色列法官建議撤銷內塔尼亞胡最嚴重的指控",
       "summary": [
         "BBC World：以色列法官建議撤銷內塔尼亞胡最嚴重的指控",
@@ -407,7 +359,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "埃及大開羅地區道路交通事故造成至少30人死亡",
       "summary": [
         "Bloomberg Markets：埃及大開羅地區道路交通事故造成至少30人死亡",
@@ -428,7 +380,28 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "title": "SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股",
+      "summary": [
+        "CNBC：SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股",
+        "Yahoo Finance：SpaceX 和伊隆馬斯克將各向活躍的川普帳戶分配一股"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "SpaceX 和伊隆馬斯克將各向活躍的川普帳戶分配一股",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX19Rdm5qYUwtN1FLbDk5cmtvclRlcHJhUktLMF9hY3lWbjZXVm1WQlVsQUpJb1paR09SRFQxcmtxaXRyVEw3X3k5dnM5clY5MkI2MkVKcW0yVFQ2dUZTTFFyUTNGVzBKR1N6dWVXZjlMZUNXRlcwNHczbVUtcFUtX2tBcHNiVXROU09mb1VUU05vd1ZmTk85TGREM0FPQW1seHhiZVZGcmp6NjdpN2p5czlXNXgxalFYZjBEam9B?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "埃及載油車輛翻側起火  已知30人死亡",
       "summary": [
         "法廣RFI：埃及載油車輛翻側起火  已知30人死亡",
@@ -449,7 +422,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
       "summary": [
         "TechCrunch：標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
@@ -466,6 +439,27 @@
           "source": "CNBC",
           "title": "標準普爾警告英偉達信用評等可能因「上升」的管理和治理風險而被下調",
           "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "人工智慧風險導緻美國交易波動，亞洲股市上漲",
+      "summary": [
+        "Financial Times：人工智慧風險導緻美國交易波動，亞洲股市上漲",
+        "Investing.com：亞洲股市反彈，人工智慧和關稅潛伏在幕後"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "人工智慧風險導緻美國交易波動，亞洲股市上漲",
+          "url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679"
+        },
+        {
+          "source": "Investing.com",
+          "title": "亞洲股市反彈，人工智慧和關稅潛伏在幕後",
+          "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871"
         }
       ]
     }
