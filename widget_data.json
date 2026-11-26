@@ -1,8 +1,29 @@
 {
-  "updated_at": "2026-11-27 02:26",
+  "updated_at": "2026-11-27 02:56",
   "taiwan": [
     {
       "rank": 1,
+      "title": "馬斯克宣佈贈全美孩子2股SpaceX股票 網友嗨喊：謝謝太空爸爸",
+      "summary": [
+        "自由時報：馬斯克宣佈贈全美孩子2股SpaceX股票 網友嗨喊：謝謝太空爸爸",
+        "經濟日報：馬斯克宣佈送SpaceX股票　美國每名孩童有望獲2股"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "馬斯克宣佈贈全美孩子2股SpaceX股票 網友嗨喊：謝謝太空爸爸",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5654307"
+        },
+        {
+          "source": "經濟日報",
+          "title": "馬斯克宣佈送SpaceX股票　美國每名孩童有望獲2股",
+          "url": "https://money.udn.com/money/story/123398/9904016"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
       "summary": [
         "自由時報：泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
@@ -23,7 +44,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "科技股下殺後反彈　亞股回穩多收高",
       "summary": [
         "經濟日報：科技股下殺後反彈　亞股回穩多收高",
@@ -44,91 +65,28 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "快訊》疊加最高破40％！川普拋新關稅臺灣等14個經濟體一次看- 國際",
-      "summary": [
-        "中時新聞：快訊》疊加最高破40％！川普拋新關稅臺灣等14個經濟體一次看- 國際",
-        "商業周刊：川普關稅捲土重來！臺灣拿最低15％、半導體暫躲過，為何還不能鬆口氣？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "快訊》疊加最高破40％！川普拋新關稅臺灣等14個經濟體一次看- 國際",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZMXdLMDFWM1NKZFlZaUFGZnRsWGhCSnZPMEdYSnA3dXh1bVZRbjFUc01yQ2laaTF3aG9sdXdMemhpaUUxdkw0M2thR2s2Y1JlSVBjeGVTSnBPQi1reE93QVB4NVo5dFdnbmEwaXh3?oc=5"
-        },
-        {
-          "source": "商業周刊",
-          "title": "川普關稅捲土重來！臺灣拿最低15％、半導體暫躲過，為何還不能鬆口氣？",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55ZmdxMFhvejF0ZVBON3NjN0xmU0t4SHRXanlBSV8tMWU0WjRndHFnYVBSZE5LZ3k1RUt1UFdJZkpMRFl5TUNZZzFYVXVobndpN0ZYYURoUWNfazJJT3JqVzBR?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 4,
-      "title": "美 AI 資料中心擴張受阻  至少 4 州喊停機率達 57%",
+      "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
       "summary": [
-        "科技新報：美 AI 資料中心擴張受阻  至少 4 州喊停機率達 57%",
-        "MoneyDJ理財網：美AI資料中心擴張受阻 至少4州喊停機率達57%"
+        "自由時報：烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
+        "經濟日報：烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "科技新報",
-          "title": "美 AI 資料中心擴張受阻  至少 4 州喊停機率達 57%",
-          "url": "https://technews.tw/2026/11/26/kalshi-traders-say-state-data-center-moratoriums-are-more-likely-than-not/"
+          "source": "自由時報",
+          "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654828"
         },
         {
-          "source": "MoneyDJ理財網",
-          "title": "美AI資料中心擴張受阻 至少4州喊停機率達57%",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkgyZ3BMcmhpNEhLOERfWHFTNXpDd2drUTY1Um1mX1ZvcjlLZWRBcnpKNUtrblpCT3BkSFFxWlAxLXBNNlhBRTYzZzFjaXZqdnNUYXBBM1VCaGZvaEVNUGUxdzN2T29OT0Fmbk9fdjAzbGw4cXVUNXhfUTR5dVBNSDB2WUREWnlCVkdjZmlHVlM1dw?oc=5"
+          "source": "經濟日報",
+          "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
+          "url": "https://money.udn.com/money/story/5599/9904801"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "美擬對14經濟體加徵新關稅　主要貿易夥伴紛表不滿",
-      "summary": [
-        "經濟日報：美擬對14經濟體加徵新關稅　主要貿易夥伴紛表不滿",
-        "科技新報：美擬對 14 經濟體加徵新關稅，主要貿易夥伴紛表不滿"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美擬對14經濟體加徵新關稅　主要貿易夥伴紛表不滿",
-          "url": "https://money.udn.com/money/story/5599/9903687"
-        },
-        {
-          "source": "科技新報",
-          "title": "美擬對 14 經濟體加徵新關稅，主要貿易夥伴紛表不滿",
-          "url": "https://technews.tw/2026/11/26/us-plans-new-tariffs-14-economies-major-trade-partners-discontent/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
-      "summary": [
-        "經濟日報：輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
-        "ETtoday：美收緊管制！　輝達傳要求合作夥伴「暫停出貨東南亞4國」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
-          "url": "https://money.udn.com/money/story/5599/9903573"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美收緊管制！　輝達傳要求合作夥伴「暫停出貨東南亞4國」",
-          "url": "https://www.ettoday.net/news/20261126/3278933.htm"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "銅礦商 ETF 連跌 13 週、史上首見  反彈可期？",
       "summary": [
         "科技新報：銅礦商 ETF 連跌 13 週、史上首見  反彈可期？",
@@ -149,7 +107,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "楊承勳父親輔選新北選將陳俊諺 盼落實全市校園緊急求救鈴裝設",
       "summary": [
         "自由時報：楊承勳父親輔選新北選將陳俊諺 盼落實全市校園緊急求救鈴裝設",
@@ -170,7 +128,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "網路賣「習唯呢公仔」遭跨境恐嚇下架  警逮6弘仁會成員",
       "summary": [
         "自由時報：網路賣「習唯呢公仔」遭跨境恐嚇下架  警逮6弘仁會成員",
@@ -191,7 +149,28 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "title": "美收緊管制！　輝達傳要求合作夥伴「暫停出貨東南亞4國」",
+      "summary": [
+        "ETtoday：美收緊管制！　輝達傳要求合作夥伴「暫停出貨東南亞4國」",
+        "經濟日報：金融時報：輝達暫停對東南亞4國出貨　防堵中國取得AI算力"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "美收緊管制！　輝達傳要求合作夥伴「暫停出貨東南亞4國」",
+          "url": "https://www.ettoday.net/news/20261126/3278933.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "金融時報：輝達暫停對東南亞4國出貨　防堵中國取得AI算力",
+          "url": "https://money.udn.com/money/story/123398/9903912"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "搶攻AI算力！SpaceX獲FCC核准百萬顆太空資料中心衛星，最晚2033年須開始部署",
       "summary": [
         "數位時代：搶攻AI算力！SpaceX獲FCC核准百萬顆太空資料中心衛星，最晚2033年須開始部署",
@@ -210,11 +189,59 @@
           "url": "https://techorange.com/2026/11/26/fcc-approves-spacex-orbital-datacenter/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "國民黨借光場地？沈伯洋取消選前之夜作家揭真相：討拍不成變討厭- 政治",
+      "summary": [
+        "中時新聞：國民黨借光場地？沈伯洋取消選前之夜作家揭真相：討拍不成變討厭- 政治",
+        "ETtoday：沈伯洋選前之夜突取消　葉元之：搞政治受虐兒戰術"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "國民黨借光場地？沈伯洋取消選前之夜作家揭真相：討拍不成變討厭- 政治",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oeEY1VW9sdW5WMDhiUHctbkxVR3Bkc3VyZUdDWnoxT3ZON0VRR25mb2Z3bm55Zm8wa1RTVlQ2VHZsWjBQdzhZX3JTX0dDUVQzSkVXWUpCa1hpNTlYYWhMbHRnd1BuUlJCaEdYaFF3?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "沈伯洋選前之夜突取消　葉元之：搞政治受虐兒戰術",
+          "url": "https://www.ettoday.net/news/20261127/3279144.htm"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "兩名義大利人伊朗襲擊科威特後喪生",
+      "summary": [
+        "BBC World：兩名義大利人伊朗襲擊科威特後喪生",
+        "Financial Times：兩名義大利人在伊朗襲擊科威特時喪生",
+        "Washington Post：緊張的伊朗加強襲擊力度，兩名義大利人在科威特喪生"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "兩名義大利人伊朗襲擊科威特後喪生",
+          "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Financial Times",
+          "title": "兩名義大利人在伊朗襲擊科威特時喪生",
+          "url": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Washington Post",
+          "title": "緊張的伊朗加強襲擊力度，兩名義大利人在科威特喪生",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdFVJenQ4a3hlOERnbnhWVGJ1QkNhUVQ1UjFGdUl2QjRFTjVaQUM4VC1sN2ZIWV9INVA3Y1hjUDA5VV94Zk4yOGF2Z00zak5OcGVNYTA3d2trbUxneVR6NnV0YXZ5Y3R5RDh3cTN0LVNqenltbmZMX2E1VkswTmNOT0t4R3hKWDNNeTRRbThMN2lFcUpRUjRwTjVnWS1sSDRLN2NTczlQNGg1Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "奧馳亞探索帝國品牌的收購要約",
       "summary": [
         "Financial Times：奧馳亞探索帝國品牌的收購要約",
@@ -235,7 +262,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "裕信銀行掃清了收購德國商業銀行的最後障礙",
       "summary": [
         "Investing.com：裕信銀行掃清了收購德國商業銀行的最後障礙",
@@ -252,27 +279,6 @@
           "source": "Bloomberg Markets",
           "title": "裕信銀行掃清了接管德國商業銀行的最後障礙",
           "url": "https://www.bloomberg.com/news/videos/2026-11-26/unicredit-clears-final-hurdle-to-take-over-commerzbank-video"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "根據英國《金融時報》報道，英偉達停止向四個東南亞國家供應伺服器",
-      "summary": [
-        "Investing.com：根據英國《金融時報》報道，英偉達停止向四個東南亞國家供應伺服器",
-        "Yahoo Finance：英偉達停止向 4 個東南亞國家運送人工智慧伺服器"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "根據英國《金融時報》報道，英偉達停止向四個東南亞國家供應伺服器",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5052112"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "英偉達停止向 4 個東南亞國家運送人工智慧伺服器",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVZtX2ZuWFcxUVB0dkRVVlBMVkZNNkd0X2dPTFExMmF1YndMOE82TERFUDlENkZRcEVxQ2lmaTNxelllYm13dDdiWEtNMzhqVVRGYTN5VXlfOThLeUQ5bk1PMF81U0RCaVRtUGJhVEc2OFFUMWRRN2xxVERFb2s0aEJKRl9XY3JYQlBfVWtJOUk2aGJaTmNsMWFPYkM?oc=5"
         }
       ]
     },
