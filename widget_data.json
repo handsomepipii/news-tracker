@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 16:57",
+  "updated_at": "2026-11-26 17:27",
   "taiwan": [
     {
       "rank": 1,
@@ -136,6 +136,27 @@
     },
     {
       "rank": 6,
+      "title": "大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
+      "summary": [
+        "經濟日報：大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
+        "自由時報：馬斯克宣佈贈全美孩子2股SpaceX股票 網友嗨喊：謝謝太空爸爸"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
+          "url": "https://money.udn.com/money/story/123398/9903397"
+        },
+        {
+          "source": "自由時報",
+          "title": "馬斯克宣佈贈全美孩子2股SpaceX股票 網友嗨喊：謝謝太空爸爸",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5654307"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
       "summary": [
         "經濟日報：輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
@@ -156,7 +177,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "科技股逢賣壓　美股多收黑",
       "summary": [
         "自由時報：科技股逢賣壓　美股多收黑",
@@ -177,7 +198,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "沈伯洋選前之夜喊停！蔣萬安被灌爆 楊植鬥搬吳思瑤4年前的話反嗆",
       "summary": [
         "自由時報：沈伯洋選前之夜喊停！蔣萬安被灌爆 楊植鬥搬吳思瑤4年前的話反嗆",
@@ -198,7 +219,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
       "summary": [
         "ETtoday：盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
@@ -217,86 +238,11 @@
           "url": "https://technews.tw/2026/11/26/rubio-warns-trump-nvidia-harms-china-policy-national-security-threat/"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "溼答答！　今全臺有雨",
-      "summary": [
-        "ETtoday：溼答答！　今全臺有雨",
-        "自由時報：華南雲雨區東移！今全臺有雨、早晚涼 週六投票日天氣曝光"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "溼答答！　今全臺有雨",
-          "url": "https://www.ettoday.net/news/20261126/3278597.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "華南雲雨區東移！今全臺有雨、早晚涼 週六投票日天氣曝光",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5653625"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "Palo Alto Networks 前經理指控會計欺詐",
-      "summary": [
-        "Bloomberg Tech：Palo Alto Networks 前經理指控會計欺詐",
-        "Investing.com：Palo Alto Networks 因涉嫌會計詐騙而被起訴",
-        "Yahoo Finance：Palo Alto Networks 因涉嫌會計詐騙而被起訴"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Palo Alto Networks 前經理指控會計欺詐",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/palo-alto-networks-accused-by-ex-executive-of-accounting-fraud"
-        },
-        {
-          "source": "Investing.com",
-          "title": "Palo Alto Networks 因涉嫌會計詐騙而被起訴",
-          "url": "https://www.investing.com/news/stock-market-news/palo-alto-networks-sued-over-alleged-accounting-fraud-claims-5051500"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Palo Alto Networks 因涉嫌會計詐騙而被起訴",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdUE2MVZVSnluMFRvYjBvWHFjMlVkalJjM3JxVGFPYXp0bzE0NHhjWG8xX0lyamlLSDJYeWxpQ1A1dlE0SFczZFJzdnUwYW0tTEVMdUpOekdVVUR5UUxNeEVudXFxVjY4bFluZ2xNZ2I4YTFPcFR3eF9MNXZzTGlNZFVfNkI1RjFUa0oyb1RsQ21MSnNybXFmWA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "梅西百貨因惡劣天氣延後感恩節遊行",
-      "summary": [
-        "CNBC：梅西百貨因惡劣天氣延後感恩節遊行",
-        "Investing.com：紐約市梅西百貨感恩節遊行因風暴預報而推遲",
-        "BBC World：梅西百貨因天氣原因延後感恩節遊行"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "梅西百貨因惡劣天氣延後感恩節遊行",
-          "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "紐約市梅西百貨感恩節遊行因風暴預報而推遲",
-          "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483"
-        },
-        {
-          "source": "BBC World",
-          "title": "梅西百貨因天氣原因延後感恩節遊行",
-          "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "簡訊：韓國央行上調基準利率25個基點至3.25%",
       "summary": [
         "韓聯社：簡訊：韓國央行上調基準利率25個基點至3.25%",
@@ -317,7 +263,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
       "summary": [
         "Investing.com：馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
@@ -338,28 +284,49 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "埃及載油車輛翻側起火  已知30人死亡",
+      "rank": 3,
+      "title": "紐約市梅西百貨感恩節遊行因風暴預報而推遲",
       "summary": [
-        "法廣RFI：埃及載油車輛翻側起火  已知30人死亡",
-        "NHK新聞：埃及開羅附近發生交通事故及火災 造成31人死亡"
+        "Investing.com：紐約市梅西百貨感恩節遊行因風暴預報而推遲",
+        "BBC World：梅西百貨因天氣原因延後感恩節遊行"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "埃及載油車輛翻側起火  已知30人死亡",
-          "url": "https://www.rfi.fr/tw/%E9%9D%9E%E6%B4%B2/20261125-%E5%9F%83%E5%8F%8A%E8%BC%89%E6%B2%B9%E8%BB%8A%E8%BC%9B%E7%BF%BB%E5%81%B4%E8%B5%B7%E7%81%AB-%E5%B7%B2%E7%9F%A530%E4%BA%BA%E6%AD%BB%E4%BA%A1"
+          "source": "Investing.com",
+          "title": "紐約市梅西百貨感恩節遊行因風暴預報而推遲",
+          "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483"
         },
         {
-          "source": "NHK新聞",
-          "title": "埃及開羅附近發生交通事故及火災 造成31人死亡",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261126de81584"
+          "source": "BBC World",
+          "title": "梅西百貨因天氣原因延後感恩節遊行",
+          "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "title": "Palo Alto Networks 因涉嫌會計詐騙而被起訴",
+      "summary": [
+        "Investing.com：Palo Alto Networks 因涉嫌會計詐騙而被起訴",
+        "Yahoo Finance：Palo Alto Networks 因涉嫌會計詐騙而被起訴"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Palo Alto Networks 因涉嫌會計詐騙而被起訴",
+          "url": "https://www.investing.com/news/stock-market-news/palo-alto-networks-sued-over-alleged-accounting-fraud-claims-5051500"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Palo Alto Networks 因涉嫌會計詐騙而被起訴",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdUE2MVZVSnluMFRvYjBvWHFjMlVkalJjM3JxVGFPYXp0bzE0NHhjWG8xX0lyamlLSDJYeWxpQ1A1dlE0SFczZFJzdnUwYW0tTEVMdUpOekdVVUR5UUxNeEVudXFxVjY4bFluZ2xNZ2I4YTFPcFR3eF9MNXZzTGlNZFVfNkI1RjFUa0oyb1RsQ21MSnNybXFmWA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
       "summary": [
         "TechCrunch：標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
@@ -380,7 +347,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "警告財務「危急」後北歐大西洋航班暫停",
       "summary": [
         "CNBC：警告財務「危急」後北歐大西洋航班暫停",
@@ -401,7 +368,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
       "summary": [
         "Investing.com：美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
@@ -422,7 +389,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "裕信銀行掃清了收購德國商業銀行的最後障礙",
       "summary": [
         "Investing.com：裕信銀行掃清了收購德國商業銀行的最後障礙",
@@ -443,17 +410,44 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "中國人工智慧雄心面臨一個嚴峻問題：去哪裡找錢- 紐約時報中文網",
+      "rank": 9,
+      "title": "中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
       "summary": [
-        "紐約時報中文：中國人工智慧雄心面臨一個嚴峻問題：去哪裡找錢- 紐約時報中文網"
+        "Financial Times：中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
+        "Nikkei Asia：中國讓深圳成為亞太經合組織高峰會科技實力的展示中心"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "紐約時報中文",
-          "title": "中國人工智慧雄心面臨一個嚴峻問題：去哪裡找錢- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQW81LTJtY2JsdlhfckVnSXhfWWVJTms2MkNPV2lYUFFQWUQwTGV3RFFtZHJ5MHk5UERVRzl3RUoySWZ4ME9ta2dMY3RxN191V0xPMm9FTUlJdzViaGVRT25hQzdQUlk4WTBIcTZtTEwwX09LeDg1WHlIQ19DaFhTbE1VZjI?oc=5"
+          "source": "Financial Times",
+          "title": "中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
+          "url": "https://www.ft.com/content/05a51863-48f4-44f5-90a0-3fbaebb72c79?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "中國讓深圳成為亞太經合組織高峰會科技實力的展示中心",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFFtNUMzV1lTdHVmanFQRXMzLVpCZ1BaMENtX1JwVkJjdUxLc3JSN01xRF93TTZMcjVqektEZUpsNzlyLVJCUHgwdXZNLURtOHlXLVc2TldZcGR4TUI3N29JVm1TRzJhR0QzelBZQko5dk9ua3dzRWhtbkl1VG9pQUlMTUVwMWJwQlhKX3pobVhZMmliQ3lFQzFpQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
+      "summary": [
+        "Investing.com：巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
+        "Financial Times：巴布科克獲得創紀錄的 87 億英鎊合約以支援皇家海軍潛艇"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
+          "url": "https://www.investing.com/news/stock-market-news/babcock-signs-record-87-billion-uk-submarine-support-agreement-5052230"
+        },
+        {
+          "source": "Financial Times",
+          "title": "巴布科克獲得創紀錄的 87 億英鎊合約以支援皇家海軍潛艇",
+          "url": "https://www.ft.com/content/b6db41b9-5af1-4105-a063-7dbf40e7fb2c?syn-25a6b1a6=1"
         }
       ]
     }
