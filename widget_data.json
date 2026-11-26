@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 18:56",
+  "updated_at": "2026-11-26 19:27",
   "taiwan": [
     {
       "rank": 1,
@@ -40,33 +40,6 @@
     },
     {
       "rank": 2,
-      "title": "國1彰化段重大車禍！3大型車追撞3死2命危14傷 南下全線封閉",
-      "summary": [
-        "自由時報：國1彰化段重大車禍！3大型車追撞3死2命危14傷 南下全線封閉",
-        "ETtoday：快訊／國1彰化段「遊覽車、2大車追撞」　3命危16傷",
-        "TVBS新聞：快訊／國1彰化段連環事故！和欣客運挨撞 司機乘客3人傷重亡"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "國1彰化段重大車禍！3大型車追撞3死2命危14傷 南下全線封閉",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5653629"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／國1彰化段「遊覽車、2大車追撞」　3命危16傷",
-          "url": "https://www.ettoday.net/news/20261126/3278624.htm"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "快訊／國1彰化段連環事故！和欣客運挨撞 司機乘客3人傷重亡",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DWmJjMGRIS1g2Z2VrMWtlZ2RWby1feXFtb1U5X2l3aW40dXV5RGlvSm82bm5TTGZkaGNNam5oQkVMZmZNd2pGRDFzaWo3ZG8?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "1Password 證實內部系統遭駭，強呼叫戶密碼保管未受影響",
       "summary": [
         "科技新報：1Password 證實內部系統遭駭，強呼叫戶密碼保管未受影響",
@@ -93,7 +66,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "「大賣空」貝瑞罕見轉多！空單幾乎清零 握25％現金準備抄底納指",
       "summary": [
         "自由時報：「大賣空」貝瑞罕見轉多！空單幾乎清零 握25％現金準備抄底納指",
@@ -120,7 +93,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "美國301調查報告出爐、臺灣關稅建議稅率為「15％不疊加」 半導體列入擬議豁免商品",
       "summary": [
         "財訊：美國301調查報告出爐、臺灣關稅建議稅率為「15％不疊加」 半導體列入擬議豁免商品",
@@ -147,7 +120,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "沈伯洋取消選前之夜 羅智強凌晨急發宣告 網抓包刪改文：露餡了？",
       "summary": [
         "自由時報：沈伯洋取消選前之夜 羅智強凌晨急發宣告 網抓包刪改文：露餡了？",
@@ -168,28 +141,28 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "華南雲雨區東移！今全臺有雨、早晚涼 週六投票日天氣曝光",
+      "rank": 6,
+      "title": "快訊／國1彰化段「遊覽車、2大車追撞」　3命危16傷",
       "summary": [
-        "自由時報：華南雲雨區東移！今全臺有雨、早晚涼 週六投票日天氣曝光",
-        "TVBS新聞：天氣/ 綿綿陰雨再一天! 週五熱到快30度.投票日放晴早晚涼探1字頭｜氣象主播簡雅婷｜早安氣象｜TVBS新聞 20261126 @TVBSNEWS01 │ TVBS新聞網"
+        "ETtoday：快訊／國1彰化段「遊覽車、2大車追撞」　3命危16傷",
+        "TVBS新聞：快訊／國1彰化段連環事故！和欣客運挨撞 司機乘客3人傷重亡"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "華南雲雨區東移！今全臺有雨、早晚涼 週六投票日天氣曝光",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5653625"
+          "source": "ETtoday",
+          "title": "快訊／國1彰化段「遊覽車、2大車追撞」　3命危16傷",
+          "url": "https://www.ettoday.net/news/20261126/3278624.htm"
         },
         {
           "source": "TVBS新聞",
-          "title": "天氣/ 綿綿陰雨再一天! 週五熱到快30度.投票日放晴早晚涼探1字頭｜氣象主播簡雅婷｜早安氣象｜TVBS新聞 20261126 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWXBMbDdIZEloMXpYOGF1M2QxelhWYXlYZmVYNV82N2RKS0xZVUg2WmlOMnpsZkJLRnhnZFoyWHpjN0ZybHdJazVrNXl0OWtxVnNBZ2hkdW1yZjBoeFZWQTJJc2tEZFMxNmJzTWZscXhHYlhnZTc2bFVGTm5uT1FMbkprb2xFRlBPMUpYWGtEZmc?oc=5"
+          "title": "快訊／國1彰化段連環事故！和欣客運挨撞 司機乘客3人傷重亡",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DWmJjMGRIS1g2Z2VrMWtlZ2RWby1feXFtb1U5X2l3aW40dXV5RGlvSm82bm5TTGZkaGNNam5oQkVMZmZNd2pGRDFzaWo3ZG8?oc=5"
         }
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "AI泡沫破恐比網路泡沫更傷- 日報",
       "summary": [
         "工商時報：AI泡沫破恐比網路泡沫更傷- 日報",
@@ -210,7 +183,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
       "summary": [
         "經濟日報：大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
@@ -231,7 +204,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
       "summary": [
         "經濟日報：輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
@@ -248,6 +221,27 @@
           "source": "ETtoday",
           "title": "美收緊管制！　輝達傳要求合作夥伴「暫停出貨東南亞4國」",
           "url": "https://www.ettoday.net/news/20261126/3278933.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
+      "summary": [
+        "自由時報：泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
+        "經濟日報：泰國曼谷油庫爆炸濃煙竄天　當局籲居民撤離"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654395"
+        },
+        {
+          "source": "經濟日報",
+          "title": "泰國曼谷油庫爆炸濃煙竄天　當局籲居民撤離",
+          "url": "https://money.udn.com/money/story/5599/9903977"
         }
       ]
     }
@@ -318,6 +312,27 @@
     },
     {
       "rank": 4,
+      "title": "裕信銀行掃清了收購德國商業銀行的最後障礙",
+      "summary": [
+        "Investing.com：裕信銀行掃清了收購德國商業銀行的最後障礙",
+        "Bloomberg Markets：裕信銀行掃清了接管德國商業銀行的最後障礙"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "裕信銀行掃清了收購德國商業銀行的最後障礙",
+          "url": "https://www.investing.com/news/stock-market-news/unicredit-clears-final-hurdles-for-commerzbank-takeover-5052161"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "裕信銀行掃清了接管德國商業銀行的最後障礙",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-26/unicredit-clears-final-hurdle-to-take-over-commerzbank-video"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "警告財務「危急」後北歐大西洋航班暫停",
       "summary": [
         "CNBC：警告財務「危急」後北歐大西洋航班暫停",
@@ -338,7 +353,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
       "summary": [
         "Investing.com：美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
@@ -359,7 +374,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
       "summary": [
         "BBC中文：美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
@@ -376,27 +391,6 @@
           "source": "紐約時報中文",
           "title": "華為在美被判竊取商業機密等罪名成立- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43eUt1UTY3RGU2a19PRFNpY3A1Z1dJd3c1T2x3ZUhrY3hDV2VLY0VyMWJVWHpnb3JxWGx4Z0JmaUFmZ0FOd2laeEJ5VXpwZWI2cnYtREtoU004aVhrN2ptcFRFR0Z1MTBTXzEyUDZVeExXQXBFejZueVh3QkU?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "裕信銀行掃清了收購德國商業銀行的最後障礙",
-      "summary": [
-        "Investing.com：裕信銀行掃清了收購德國商業銀行的最後障礙",
-        "Bloomberg Markets：裕信銀行掃清了接管德國商業銀行的最後障礙"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "裕信銀行掃清了收購德國商業銀行的最後障礙",
-          "url": "https://www.investing.com/news/stock-market-news/unicredit-clears-final-hurdles-for-commerzbank-takeover-5052161"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "裕信銀行掃清了接管德國商業銀行的最後障礙",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-26/unicredit-clears-final-hurdle-to-take-over-commerzbank-video"
         }
       ]
     },
