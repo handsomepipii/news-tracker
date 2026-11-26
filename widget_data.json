@@ -1,29 +1,8 @@
 {
-  "updated_at": "2026-11-27 04:26",
+  "updated_at": "2026-11-27 04:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "馬斯克宣佈贈全美孩子2股SpaceX股票 網友嗨喊：謝謝太空爸爸",
-      "summary": [
-        "自由時報：馬斯克宣佈贈全美孩子2股SpaceX股票 網友嗨喊：謝謝太空爸爸",
-        "經濟日報：馬斯克宣佈送SpaceX股票　美國每名孩童有望獲2股"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "馬斯克宣佈贈全美孩子2股SpaceX股票 網友嗨喊：謝謝太空爸爸",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5654307"
-        },
-        {
-          "source": "經濟日報",
-          "title": "馬斯克宣佈送SpaceX股票　美國每名孩童有望獲2股",
-          "url": "https://money.udn.com/money/story/123398/9904016"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
       "summary": [
         "自由時報：泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
@@ -44,7 +23,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "科技股下殺後反彈　亞股回穩多收高",
       "summary": [
         "經濟日報：科技股下殺後反彈　亞股回穩多收高",
@@ -65,7 +44,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
       "summary": [
         "自由時報：烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
@@ -86,7 +65,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "民主剛果伊波拉疫情延燒 逾1.2萬人確診 近6千人病歿",
       "summary": [
         "自由時報：民主剛果伊波拉疫情延燒 逾1.2萬人確診 近6千人病歿",
@@ -107,7 +86,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "新北前議員蔡明堂涉為兒賄選遭聲押 檢方查扣2715萬現金",
       "summary": [
         "公視新聞：新北前議員蔡明堂涉為兒賄選遭聲押 檢方查扣2715萬現金",
@@ -128,7 +107,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "感染 RSV 為何咳不停？中研院揭氣道敏感機制",
       "summary": [
         "科技新報：感染 RSV 為何咳不停？中研院揭氣道敏感機制",
@@ -149,7 +128,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "蔣萬安車隊掃進內湖　突遇支持者「攔車下跪陳情」",
       "summary": [
         "ETtoday：蔣萬安車隊掃進內湖　突遇支持者「攔車下跪陳情」",
@@ -170,7 +149,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "股王信驊祭庫藏股！擬買回100張　最高斥資12.8億元",
       "summary": [
         "ETtoday：股王信驊祭庫藏股！擬買回100張　最高斥資12.8億元",
@@ -191,7 +170,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "駭客遠端盜轉！金管會接獲8銀行通報 涉10客戶共 182 萬",
       "summary": [
         "自由時報：駭客遠端盜轉！金管會接獲8銀行通報 涉10客戶共 182 萬",
@@ -208,6 +187,27 @@
           "source": "TVBS新聞",
           "title": "網銀盜轉案擴大！8家銀行通報受害 涉10客戶共182萬",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ublJGb1I1UXVndGp2M1dlSEJwc2JMN3pVeVVmdl94ckYtNWFVM1g5NEdOenh0b3RoVzgzSjBJYmM4dUdodHRnWTItSjlkalk?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "原油價格維持漲勢 中東緊張局勢令市場不安",
+      "summary": [
+        "經濟日報：原油價格維持漲勢 中東緊張局勢令市場不安",
+        "自由時報：中東供應疑慮再起　布倫特原油收高"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "原油價格維持漲勢 中東緊張局勢令市場不安",
+          "url": "https://money.udn.com/money/story/5599/9903784"
+        },
+        {
+          "source": "自由時報",
+          "title": "中東供應疑慮再起　布倫特原油收高",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5654846"
         }
       ]
     }
@@ -263,69 +263,6 @@
     },
     {
       "rank": 3,
-      "title": "人工智慧風險引發美國交易波動後，全球股市持穩",
-      "summary": [
-        "Financial Times：人工智慧風險引發美國交易波動後，全球股市持穩",
-        "Bloomberg Markets：隨著人工智慧貿易反彈，全球股市上漲"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "人工智慧風險引發美國交易波動後，全球股市持穩",
-          "url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "隨著人工智慧貿易反彈，全球股市上漲",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-26/the-opening-trade-11-26-2026-video"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
-      "summary": [
-        "Financial Times：中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
-        "Nikkei Asia：中國讓深圳成為亞太經合組織高峰會科技實力的展示中心"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
-          "url": "https://www.ft.com/content/05a51863-48f4-44f5-90a0-3fbaebb72c79?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "中國讓深圳成為亞太經合組織高峰會科技實力的展示中心",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFFtNUMzV1lTdHVmanFQRXMzLVpCZ1BaMENtX1JwVkJjdUxLc3JSN01xRF93TTZMcjVqektEZUpsNzlyLVJCUHgwdXZNLURtOHlXLVc2TldZcGR4TUI3N29JVm1TRzJhR0QzelBZQko5dk9ua3dzRWhtbkl1VG9pQUlMTUVwMWJwQlhKX3pobVhZMmliQ3lFQzFpQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
-      "summary": [
-        "Investing.com：巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
-        "Financial Times：巴布科克獲得創紀錄的 87 億英鎊合約以支援皇家海軍潛艇"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
-          "url": "https://www.investing.com/news/stock-market-news/babcock-signs-record-87-billion-uk-submarine-support-agreement-5052230"
-        },
-        {
-          "source": "Financial Times",
-          "title": "巴布科克獲得創紀錄的 87 億英鎊合約以支援皇家海軍潛艇",
-          "url": "https://www.ft.com/content/b6db41b9-5af1-4105-a063-7dbf40e7fb2c?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Marc Levinson 講述 UPS 如何創造現代物流",
       "summary": [
         "Bloomberg Markets：Marc Levinson 講述 UPS 如何創造現代物流",
@@ -346,7 +283,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "AMD Ryzen 7 9800X3D 在亞馬遜跌至歷史最低價 369 美元",
       "summary": [
         "Tom's Hardware：AMD Ryzen 7 9800X3D 在亞馬遜跌至歷史最低價 369 美元",
@@ -367,7 +304,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "西班牙德科斯將接替拉加德出任歐洲央行總裁",
       "summary": [
         "Bloomberg Markets：西班牙德科斯將接替拉加德出任歐洲央行總裁",
@@ -388,7 +325,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "SAP 考慮在 AI 重組中削減至少 10,000 個職位",
       "summary": [
         "Bloomberg Tech：SAP 考慮在 AI 重組中削減至少 10,000 個職位",
@@ -409,17 +346,62 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "為什麼巴布科克國際股票今天上漲？",
+      "rank": 7,
+      "title": "挪威股市收盤走高；奧斯陸OBX上漲1.50%",
       "summary": [
-        "Investing.com：為什麼巴布科克國際股票今天上漲？"
+        "Investing.com：挪威股市收盤走高；奧斯陸OBX上漲1.50%"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Investing.com",
-          "title": "為什麼巴布科克國際股票今天上漲？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-babcock-international-stock-rallying-today-93CH-5052219"
+          "title": "挪威股市收盤走高；奧斯陸OBX上漲1.50%",
+          "url": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-150-5052605"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "為什麼塔洛石油公司股票今天上漲？",
+      "summary": [
+        "Investing.com：為什麼塔洛石油公司股票今天上漲？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "為什麼塔洛石油公司股票今天上漲？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-tullow-oil-stock-rallying-today-93CH-5052298"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "黑色星期五特惠：在今天促銷結束前享受 InvestingPro 60% 的折扣",
+      "summary": [
+        "Investing.com：黑色星期五特惠：在今天促銷結束前享受 InvestingPro 60% 的折扣"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "黑色星期五特惠：在今天促銷結束前享受 InvestingPro 60% 的折扣",
+          "url": "https://www.investing.com/news/stock-market-news/black-friday-special-only-until-today-can-you-lock-in-the-best-sale-of-the-year-5052313"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "英國性調查：年輕人中五成女性、九成男性觀看色情片 三分之一未有性經驗",
+      "summary": [
+        "BBC中文：英國性調查：年輕人中五成女性、九成男性觀看色情片 三分之一未有性經驗"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "英國性調查：年輕人中五成女性、九成男性觀看色情片 三分之一未有性經驗",
+          "url": "https://www.bbc.com/zhongwen/articles/cmewv0vkgwplo/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
