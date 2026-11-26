@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 10:26",
+  "updated_at": "2026-11-26 10:55",
   "taiwan": [
     {
       "rank": 1,
@@ -40,19 +40,46 @@
     },
     {
       "rank": 2,
-      "title": "美國提議對14國課徵產能過剩關稅  臺灣上限15％ 中國恐跳升至40％",
+      "title": "美媒：盧比歐憂輝達不利對中政策　向川普示警國安威脅",
       "summary": [
-        "自由時報：美國提議對14國課徵產能過剩關稅  臺灣上限15％ 中國恐跳升至40％",
-        "經濟日報：美擬對14經濟體加徵關稅　中國20%最高、臺韓日歐盟15%",
-        "風傳媒：美301調查出爐 擬對14經濟體加關稅 臺灣上限15%且不疊加 | 蕭宥宸 | 新聞"
+        "自由時報：美媒：盧比歐憂輝達不利對中政策　向川普示警國安威脅",
+        "經濟日報：美媒：盧比歐憂輝達不利對中政策　向川普示警國安威脅",
+        "ETtoday：盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場"
       ],
       "media_count": 4,
       "links": [
         {
           "source": "自由時報",
-          "title": "美國提議對14國課徵產能過剩關稅  臺灣上限15％ 中國恐跳升至40％",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5653486"
+          "title": "美媒：盧比歐憂輝達不利對中政策　向川普示警國安威脅",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5653594"
         },
+        {
+          "source": "經濟日報",
+          "title": "美媒：盧比歐憂輝達不利對中政策　向川普示警國安威脅",
+          "url": "https://money.udn.com/money/story/5599/9902447"
+        },
+        {
+          "source": "ETtoday",
+          "title": "盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
+          "url": "https://www.ettoday.net/news/20261126/3278609.htm"
+        },
+        {
+          "source": "科技新報",
+          "title": "美媒：盧比歐憂輝達不利對中政策，向川普示警國安威脅",
+          "url": "https://technews.tw/2026/11/26/rubio-warns-trump-nvidia-harms-china-policy-national-security-threat/"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "美擬對14經濟體加徵關稅　中國20%最高、臺韓日歐盟15%",
+      "summary": [
+        "經濟日報：美擬對14經濟體加徵關稅　中國20%最高、臺韓日歐盟15%",
+        "風傳媒：美301調查出爐 擬對14經濟體加關稅 臺灣上限15%且不疊加 | 蕭宥宸 | 新聞",
+        "科技新報：美國擬對 14 個經濟體祭出新關稅，臺灣課徵 15% 中國關稅恐升至約 45%"
+      ],
+      "media_count": 3,
+      "links": [
         {
           "source": "經濟日報",
           "title": "美擬對14經濟體加徵關稅　中國20%最高、臺韓日歐盟15%",
@@ -71,7 +98,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "美301調查出爐　擬對臺稅率最高15%、特定商品可豁免",
       "summary": [
         "自由時報：美301調查出爐　擬對臺稅率最高15%、特定商品可豁免",
@@ -94,33 +121,6 @@
           "source": "財訊",
           "title": "美國301調查報告出爐、臺灣關稅建議稅率為「15％不疊加」 半導體列入擬議豁免商品",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLREI0b3FQbVpkM0RMZVlSMEVHRk9Hb3JsRXIzRThRNVhFbnh0Q283ME1vUGRCTzRPUXJYeFlUTVpmc1c1MTQwTlAzMzd1N1ZmNVZQd2FldDh1amNCekt1djNfM01JMm9SZzlBaWx3c2dXOW5hWFRuN0I0WQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "美媒：盧比歐憂輝達不利對中政策　向川普示警國安威脅",
-      "summary": [
-        "自由時報：美媒：盧比歐憂輝達不利對中政策　向川普示警國安威脅",
-        "經濟日報：美媒：盧比歐憂輝達不利對中政策　向川普示警國安威脅",
-        "ETtoday：盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美媒：盧比歐憂輝達不利對中政策　向川普示警國安威脅",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5653594"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美媒：盧比歐憂輝達不利對中政策　向川普示警國安威脅",
-          "url": "https://money.udn.com/money/story/5599/9902447"
-        },
-        {
-          "source": "ETtoday",
-          "title": "盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
-          "url": "https://www.ettoday.net/news/20261126/3278609.htm"
         }
       ]
     },
@@ -416,27 +416,6 @@
     },
     {
       "rank": 6,
-      "title": "特朗普政府提對14個貿易夥伴加徵新關稅：對中國稅率為20%",
-      "summary": [
-        "法廣RFI：特朗普政府提對14個貿易夥伴加徵新關稅：對中國稅率為20%",
-        "Nikkei Asia：川普提議對中國、日本、印度等14個合作夥伴徵收新關稅"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "特朗普政府提對14個貿易夥伴加徵新關稅：對中國稅率為20%",
-          "url": "https://www.rfi.fr/tw/%E7%B6%93%E8%B2%BF/20261125-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%8F%90%E5%B0%8D14%E5%80%8B%E8%B2%BF%E6%98%93%E5%A4%A5%E4%BC%B4%E5%8A%A0%E5%BE%81%E6%96%B0%E9%97%9C%E7%A8%85-%E5%B0%8D%E8%8F%AF%E7%A8%85%E7%8E%87%E7%82%BA20"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "川普提議對中國、日本、印度等14個合作夥伴徵收新關稅",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdjRHdUY0ZEUwQ3o2c3h3Y1JBQUMxTEdyYkxjR09VZElUUXR6aUZIVXBNZkNXYldnQjVuOWptcUZZbExXMXJwZ1E2OWJ2eGd3WjJxdm5DQWpac3NnOEdQNlhzY1UzbkYta3VkbzNQQ1FyR1lUN0dZZ3p3ZzZQdEI4RDJZdy12TjhwOGUxeVN1bEtMYUtLZGJlOGQza0cwS2w3QzZPelVaWF9CN2k5VG5JdEEzN0VEMGphb3JVNkNjaG1DZ3lvQ3gw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "人工智慧交易陷入困境，納斯達克 100 指數將進入熊市",
       "summary": [
         "Bloomberg Markets：人工智慧交易陷入困境，納斯達克 100 指數將進入熊市",
@@ -453,6 +432,27 @@
           "source": "Bloomberg Tech",
           "title": "納斯達克 100 指數進入熊市，人工智慧焦慮加劇損失",
           "url": "https://www.bloomberg.com/news/videos/2026-11-25/nasdaq-100-enters-bear-market-territory-on-ai-angst-video"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "人工智慧晶片受到限制後，數十億美元的資料中心交易陷入停滯",
+      "summary": [
+        "Bloomberg Tech：人工智慧晶片受到限制後，數十億美元的資料中心交易陷入停滯",
+        "Yahoo Finance：人工智慧晶片受到限制後，數十億美元的資料中心交易陷入停滯"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "人工智慧晶片受到限制後，數十億美元的資料中心交易陷入停滯",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "人工智慧晶片受到限制後，數十億美元的資料中心交易陷入停滯",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMzBLOEdxVEtoZ2Z4Q0I3ZXBNTXZDV2FwckpNNjJIaVVqZWlBM25XUVdabFlsNWVYZ0hUY2pwU1AyY0dHZUwyZ0JGTGo4clRnMDl5a0tweEFtdzJNWWNCRlZZWXU3bmtXMEZvNDZEMEhSNUI0ei1mNThRaXlkVmpMUnJZSjZsLV9qOVZVbDFHeG82dXJyblBjdi1MbWk?oc=5"
         }
       ]
     },
@@ -479,6 +479,27 @@
     },
     {
       "rank": 9,
+      "title": "美國宣佈對中國、歐盟和其他12個國家徵收高達20%的新關稅",
+      "summary": [
+        "Yahoo Finance：美國宣佈對中國、歐盟和其他12個國家徵收高達20%的新關稅",
+        "紐約時報中文：美國宣佈對中國、歐盟等加徵新關稅- 紐約時報中文網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "美國宣佈對中國、歐盟和其他12個國家徵收高達20%的新關稅",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUU1FZDY5UnlETEhNeFdMUGJEOUpJWUh2TTRVU2pYa1NIaWJPZmIxZTVOZ3MyOU1kUmk4RXluQThXd0lnbWJJcGNPbzlLYnFrZHI4R094VnB2UHVCdjFDRmNleVNZT1pxTUJxdzFWdWkzS29senQ0WGRRZmxKcjZ3NThMemZSQzJEX2JxcVRrczF4ZlpHOUt0TGlMSGVPSE1seWo2bXluSjhJME1oa2Ytd0l6N0UxWXB5S3E4X2RaZDV3V2RpbVNicUR3?oc=5"
+        },
+        {
+          "source": "紐約時報中文",
+          "title": "美國宣佈對中國、歐盟等加徵新關稅- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDbWpjZWtBQnNGdWozLUdCQk1qNy04OHMyemRFYV9BYjY3WFhILWhBTjhOZWpTdEVzUDBzT0lpV21VeXgzd200M0JKYzBULW9UMC1xd1h4MWZ6VkVqazM3N2pVOUR2cnBGR0gzREVYYXoxVTBiUmhReg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "邁克爾·伯裡 (Michael Burry) 出售剩餘的納斯達克 100 看跌期權，稱投資組合為多頭",
       "summary": [
         "Investing.com：邁克爾·伯裡 (Michael Burry) 出售剩餘的納斯達克 100 看跌期權，稱投資組合為多頭",
@@ -495,27 +516,6 @@
           "source": "Yahoo Finance",
           "title": "邁克爾·伯裡 (Michael Burry) 出售剩餘的納斯達克 100 看跌期權，關注近 200 美元的英偉達空頭：“我做多被低估的普通股”",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa24yNldmdm9ka0ZMV3lCenF3S0RjMmduUVZmdGRoTFN5S0xHNUdOQzhUY2JTV2JiQnYzN1p3S3FRdDlnb2p3TmlMVnpzQlRxVXpybVdWdk92bFNxZlFJT3IyOHlVT1VLOEM3SEwzLXJtbVBDRjlzOE9zODJ2eUlmVHhTdzN5OGJiSVBmOXk0bW9PUTU4RjFDUGxfcXYwYnhNRVdGRg?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "1Password稱駭客侵入其內部系統，但客戶密碼是安全的",
-      "summary": [
-        "TechCrunch：1Password稱駭客侵入其內部系統，但客戶密碼是安全的",
-        "Bloomberg Tech：1Password 表示駭客存取了使用者資料，密碼仍然安全"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "1Password稱駭客侵入其內部系統，但客戶密碼是安全的",
-          "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "1Password 表示駭客存取了使用者資料，密碼仍然安全",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/1password-says-hacker-accessed-user-data-passwords-remain-safe"
         }
       ]
     }
