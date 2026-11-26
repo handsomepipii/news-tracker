@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 17:56",
+  "updated_at": "2026-11-26 18:26",
   "taiwan": [
     {
       "rank": 1,
@@ -121,6 +121,33 @@
     },
     {
       "rank": 5,
+      "title": "美國301調查報告出爐、臺灣關稅建議稅率為「15％不疊加」 半導體列入擬議豁免商品",
+      "summary": [
+        "財訊：美國301調查報告出爐、臺灣關稅建議稅率為「15％不疊加」 半導體列入擬議豁免商品",
+        "ETtoday：臺灣獲「15%不疊加」最低稅率　2232個豁免品項比ART還多！",
+        "關鍵評論網：美國301調查點名臺灣「產能過剩」，擬課最高15%關稅、半導體列入豁免"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "財訊",
+          "title": "美國301調查報告出爐、臺灣關稅建議稅率為「15％不疊加」 半導體列入擬議豁免商品",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLREI0b3FQbVpkM0RMZVlSMEVHRk9Hb3JsRXIzRThRNVhFbnh0Q283ME1vUGRCTzRPUXJYeFlUTVpmc1c1MTQwTlAzMzd1N1ZmNVZQd2FldDh1amNCekt1djNfM01JMm9SZzlBaWx3c2dXOW5hWFRuN0I0WQ?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "臺灣獲「15%不疊加」最低稅率　2232個豁免品項比ART還多！",
+          "url": "https://www.ettoday.net/news/20261126/3278826.htm"
+        },
+        {
+          "source": "關鍵評論網",
+          "title": "美國301調查點名臺灣「產能過剩」，擬課最高15%關稅、半導體列入豁免",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGek5KUXJjQU9XNzNkZjNKaGF0RENNZU93LWd0a29RV1ltTTRfNno5eU13c3NOaGxZWXN2Sm5ESE5yQ20xTHBOejMzYUc0VzN1X3B4WQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "沈伯洋取消選前之夜 羅智強凌晨急發宣告 網抓包刪改文：露餡了？",
       "summary": [
         "自由時報：沈伯洋取消選前之夜 羅智強凌晨急發宣告 網抓包刪改文：露餡了？",
@@ -141,7 +168,28 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "華南雲雨區東移！今全臺有雨、早晚涼 週六投票日天氣曝光",
+      "summary": [
+        "自由時報：華南雲雨區東移！今全臺有雨、早晚涼 週六投票日天氣曝光",
+        "TVBS新聞：天氣/ 綿綿陰雨再一天! 週五熱到快30度.投票日放晴早晚涼探1字頭｜氣象主播簡雅婷｜早安氣象｜TVBS新聞 20261126 @TVBSNEWS01 │ TVBS新聞網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "華南雲雨區東移！今全臺有雨、早晚涼 週六投票日天氣曝光",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5653625"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "天氣/ 綿綿陰雨再一天! 週五熱到快30度.投票日放晴早晚涼探1字頭｜氣象主播簡雅婷｜早安氣象｜TVBS新聞 20261126 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWXBMbDdIZEloMXpYOGF1M2QxelhWYXlYZmVYNV82N2RKS0xZVUg2WmlOMnpsZkJLRnhnZFoyWHpjN0ZybHdJazVrNXl0OWtxVnNBZ2hkdW1yZjBoeFZWQTJJc2tEZFMxNmJzTWZscXhHYlhnZTc2bFVGTm5uT1FMbkprb2xFRlBPMUpYWGtEZmc?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "AI泡沫破恐比網路泡沫更傷- 日報",
       "summary": [
         "工商時報：AI泡沫破恐比網路泡沫更傷- 日報",
@@ -162,7 +210,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
       "summary": [
         "經濟日報：大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
@@ -183,7 +231,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
       "summary": [
         "經濟日報：輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
@@ -200,48 +248,6 @@
           "source": "ETtoday",
           "title": "美收緊管制！　輝達傳要求合作夥伴「暫停出貨東南亞4國」",
           "url": "https://www.ettoday.net/news/20261126/3278933.htm"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "沈伯洋選前之夜喊停！蔣萬安被灌爆 楊植鬥搬吳思瑤4年前的話反嗆",
-      "summary": [
-        "自由時報：沈伯洋選前之夜喊停！蔣萬安被灌爆 楊植鬥搬吳思瑤4年前的話反嗆",
-        "ETtoday：沈伯洋選前之夜喊卡　楊智伃：裝可憐也要怪蔣萬安？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "沈伯洋選前之夜喊停！蔣萬安被灌爆 楊植鬥搬吳思瑤4年前的話反嗆",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653600"
-        },
-        {
-          "source": "ETtoday",
-          "title": "沈伯洋選前之夜喊卡　楊智伃：裝可憐也要怪蔣萬安？",
-          "url": "https://www.ettoday.net/news/20261126/3278623.htm"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
-      "summary": [
-        "ETtoday：盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
-        "科技新報：美媒：盧比歐憂輝達不利對中政策，向川普示警國安威脅"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
-          "url": "https://www.ettoday.net/news/20261126/3278609.htm"
-        },
-        {
-          "source": "科技新報",
-          "title": "美媒：盧比歐憂輝達不利對中政策，向川普示警國安威脅",
-          "url": "https://technews.tw/2026/11/26/rubio-warns-trump-nvidia-harms-china-policy-national-security-threat/"
         }
       ]
     }
@@ -291,6 +297,27 @@
     },
     {
       "rank": 3,
+      "title": "英偉達停止向 4 個東南亞國家運送人工智慧伺服器",
+      "summary": [
+        "Investing.com：英偉達停止向 4 個東南亞國家運送人工智慧伺服器",
+        "Yahoo Finance：英偉達停止向 4 個東南亞國家運送人工智慧伺服器"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "英偉達停止向 4 個東南亞國家運送人工智慧伺服器",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-stops-shipping-ai-servers-to-4-southeast-asian-countries-ft-5052075"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "英偉達停止向 4 個東南亞國家運送人工智慧伺服器",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVZtX2ZuWFcxUVB0dkRVVlBMVkZNNkd0X2dPTFExMmF1YndMOE82TERFUDlENkZRcEVxQ2lmaTNxelllYm13dDdiWEtNMzhqVVRGYTN5VXlfOThLeUQ5bk1PMF81U0RCaVRtUGJhVEc2OFFUMWRRN2xxVERFb2s0aEJKRl9XY3JYQlBfVWtJOUk2aGJaTmNsMWFPYkM?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
       "summary": [
         "TechCrunch：標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
@@ -311,7 +338,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "警告財務「危急」後北歐大西洋航班暫停",
       "summary": [
         "CNBC：警告財務「危急」後北歐大西洋航班暫停",
@@ -332,7 +359,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
       "summary": [
         "Investing.com：美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
@@ -353,7 +380,28 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
+      "summary": [
+        "BBC中文：美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
+        "紐約時報中文：華為在美被判竊取商業機密等罪名成立- 紐約時報中文網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
+          "url": "https://www.bbc.com/zhongwen/articles/cmq8lz8ddyg9o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "紐約時報中文",
+          "title": "華為在美被判竊取商業機密等罪名成立- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43eUt1UTY3RGU2a19PRFNpY3A1Z1dJd3c1T2x3ZUhrY3hDV2VLY0VyMWJVWHpnb3JxWGx4Z0JmaUFmZ0FOd2laeEJ5VXpwZWI2cnYtREtoU004aVhrN2ptcFRFR0Z1MTBTXzEyUDZVeExXQXBFejZueVh3QkU?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "裕信銀行掃清了收購德國商業銀行的最後障礙",
       "summary": [
         "Investing.com：裕信銀行掃清了收購德國商業銀行的最後障礙",
@@ -374,7 +422,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
       "summary": [
         "Financial Times：中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
@@ -395,7 +443,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
       "summary": [
         "Investing.com：巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
@@ -412,42 +460,6 @@
           "source": "Financial Times",
           "title": "巴布科克獲得創紀錄的 87 億英鎊合約以支援皇家海軍潛艇",
           "url": "https://www.ft.com/content/b6db41b9-5af1-4105-a063-7dbf40e7fb2c?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Marc Levinson 講述 UPS 如何創造現代物流",
-      "summary": [
-        "Bloomberg Markets：Marc Levinson 講述 UPS 如何創造現代物流",
-        "Bloomberg Tech：Marc Levinson 講述 UPS 如何創造現代物流"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Marc Levinson 講述 UPS 如何創造現代物流",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Marc Levinson 講述 UPS 如何創造現代物流",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics-video"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "中國人工智慧雄心面臨一個嚴峻問題：去哪裡找錢- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：中國人工智慧雄心面臨一個嚴峻問題：去哪裡找錢- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "中國人工智慧雄心面臨一個嚴峻問題：去哪裡找錢- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQW81LTJtY2JsdlhfckVnSXhfWWVJTms2MkNPV2lYUFFQWUQwTGV3RFFtZHJ5MHk5UERVRzl3RUoySWZ4ME9ta2dMY3RxN191V0xPMm9FTUlJdzViaGVRT25hQzdQUlk4WTBIcTZtTEwwX09LeDg1WHlIQ19DaFhTbE1VZjI?oc=5"
         }
       ]
     }
