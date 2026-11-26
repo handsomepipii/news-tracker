@@ -1,92 +1,62 @@
 {
-  "updated_at": "2026-11-27 07:26",
+  "updated_at": "2026-11-27 07:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "強茂：JOYSTAR INTL出售VTEAM SIEGFRIED供應鏈專題人類基金，獲利上看498萬美元",
+      "title": "沈伯洋取消選前之夜   陳素月預告明扮「彰化分身」力挺",
       "summary": [
-        "公開資訊觀測站重訊：強茂：JOYSTAR INTL出售VTEAM SIEGFRIED供應鏈專題人類基金，獲利上看498萬美元",
-        "MoneyDJ理財網：強茂：JOYSTAR INTL 10/29~11/26售VTEAM SIEGFRIED供應鏈人，盈利上看547萬美元- 新聞"
+        "自由時報：沈伯洋取消選前之夜   陳素月預告明扮「彰化分身」力挺",
+        "公視新聞：沈伯洋取消選前之夜實體造勢 蔣萬安競辦：願讓市府路權",
+        "ETtoday：沈伯洋突取消選前之夜　吳子嘉曝背後原因"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "公開資訊觀測站重訊",
-          "title": "強茂：JOYSTAR INTL出售VTEAM SIEGFRIED供應鏈專題人類基金，獲利上看498萬美元",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNclpFenBoTXVBR2xJNHp3S0VicXVPWTF3OFJFdDh3VWstT29CSjkwYXFsUVE4cjVZN3BVWmlId0I4Q0owd1RHRXgyb0doMFZ4M1IzQ280ajJfLS1WWkU3WlRCUGJlXy1SQUxkUmdpVFk1WkdmM3ZhSE5Qci1pUE9YN2NKdUpyc0puVHltVHhaWWdQUQ?oc=5"
+          "source": "自由時報",
+          "title": "沈伯洋取消選前之夜   陳素月預告明扮「彰化分身」力挺",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5654727"
         },
         {
-          "source": "MoneyDJ理財網",
-          "title": "強茂：JOYSTAR INTL 10/29~11/26售VTEAM SIEGFRIED供應鏈人，盈利上看547萬美元- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0RpbXpvcDVzY1ZTMWF0V2VibWVVbEJtejRNb3lIOUQzOHI2aFJVR3VfQ2dTLTVJRURVaHE2MU1tcmYzT1RuTHRfdjNlV1dvdUpPMEROanZJMWRZZGtzalBFbV90MWJYZWtiV3RyeUxPTGVTZDJtcllvUUt1S3lqT0VkbmdTbGxnTzRWOEVUYkpNUQ?oc=5"
+          "source": "公視新聞",
+          "title": "沈伯洋取消選前之夜實體造勢 蔣萬安競辦：願讓市府路權",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuZUM1SDVaZkI0X2tCZ3V1dTNNTXdRMVhZTVFEQ3B5VGQyUGxFdVB3OFFEalA5Zm9iS0NlSHI2bWEtOU5hZTJ4emtMS2FhVXM?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "沈伯洋突取消選前之夜　吳子嘉曝背後原因",
+          "url": "https://www.ettoday.net/news/20261127/3279189.htm"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
+      "title": "美第3季GDP大幅上修　川普控選前資料造假要求調查",
       "summary": [
-        "自由時報：烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
-        "經濟日報：烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈"
+        "自由時報：美第3季GDP大幅上修　川普控選前資料造假要求調查",
+        "ETtoday：川普控「第3季GDP」選前造假　要求調查",
+        "經濟日報：美第3季GDP大幅上修　川普控選前資料造假要求調查"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "自由時報",
-          "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654828"
+          "title": "美第3季GDP大幅上修　川普控選前資料造假要求調查",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654849"
+        },
+        {
+          "source": "ETtoday",
+          "title": "川普控「第3季GDP」選前造假　要求調查",
+          "url": "https://www.ettoday.net/news/20261127/3279180.htm"
         },
         {
           "source": "經濟日報",
-          "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
-          "url": "https://money.udn.com/money/story/5599/9904801"
+          "title": "美第3季GDP大幅上修　川普控選前資料造假要求調查",
+          "url": "https://money.udn.com/money/story/5599/9904848"
         }
       ]
     },
     {
       "rank": 3,
-      "title": "印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
-      "summary": [
-        "自由時報：印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
-        "ETtoday：印度最窮邦議員「豪奢嫁女」　宴請40萬人、停機坪蓋6座"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654840"
-        },
-        {
-          "source": "ETtoday",
-          "title": "印度最窮邦議員「豪奢嫁女」　宴請40萬人、停機坪蓋6座",
-          "url": "https://www.ettoday.net/news/20261127/3279179.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "駭客遠端盜轉！金管會接獲8銀行通報 涉10客戶共 182 萬",
-      "summary": [
-        "自由時報：駭客遠端盜轉！金管會接獲8銀行通報 涉10客戶共 182 萬",
-        "TVBS新聞：網銀盜轉案擴大！8家銀行通報受害 涉10客戶共182萬"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "駭客遠端盜轉！金管會接獲8銀行通報 涉10客戶共 182 萬",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5654634"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "網銀盜轉案擴大！8家銀行通報受害 涉10客戶共182萬",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ublJGb1I1UXVndGp2M1dlSEJwc2JMN3pVeVVmdl94ckYtNWFVM1g5NEdOenh0b3RoVzgzSjBJYmM4dUdodHRnWTItSjlkalk?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "原油價格維持漲勢 中東緊張局勢令市場不安",
       "summary": [
         "經濟日報：原油價格維持漲勢 中東緊張局勢令市場不安",
@@ -107,28 +77,112 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "沈伯洋取消選前之夜   陳素月預告明扮「彰化分身」力挺",
+      "rank": 4,
+      "title": "強茂：JOYSTAR INTL出售VTEAM SIEGFRIED供應鏈專題人類基金，獲利上看498萬美元",
       "summary": [
-        "自由時報：沈伯洋取消選前之夜   陳素月預告明扮「彰化分身」力挺",
-        "公視新聞：沈伯洋取消選前之夜實體造勢 蔣萬安競辦：願讓市府路權"
+        "公開資訊觀測站重訊：強茂：JOYSTAR INTL出售VTEAM SIEGFRIED供應鏈專題人類基金，獲利上看498萬美元",
+        "MoneyDJ理財網：強茂：JOYSTAR INTL 10/29~11/26售VTEAM SIEGFRIED供應鏈人，盈利上看547萬美元- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "強茂：JOYSTAR INTL出售VTEAM SIEGFRIED供應鏈專題人類基金，獲利上看498萬美元",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNclpFenBoTXVBR2xJNHp3S0VicXVPWTF3OFJFdDh3VWstT29CSjkwYXFsUVE4cjVZN3BVWmlId0I4Q0owd1RHRXgyb0doMFZ4M1IzQ280ajJfLS1WWkU3WlRCUGJlXy1SQUxkUmdpVFk1WkdmM3ZhSE5Qci1pUE9YN2NKdUpyc0puVHltVHhaWWdQUQ?oc=5"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "強茂：JOYSTAR INTL 10/29~11/26售VTEAM SIEGFRIED供應鏈人，盈利上看547萬美元- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0RpbXpvcDVzY1ZTMWF0V2VibWVVbEJtejRNb3lIOUQzOHI2aFJVR3VfQ2dTLTVJRURVaHE2MU1tcmYzT1RuTHRfdjNlV1dvdUpPMEROanZJMWRZZGtzalBFbV90MWJYZWtiV3RyeUxPTGVTZDJtcllvUUt1S3lqT0VkbmdTbGxnTzRWOEVUYkpNUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
+      "summary": [
+        "自由時報：烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
+        "經濟日報：烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "沈伯洋取消選前之夜   陳素月預告明扮「彰化分身」力挺",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5654727"
+          "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654828"
         },
         {
-          "source": "公視新聞",
-          "title": "沈伯洋取消選前之夜實體造勢 蔣萬安競辦：願讓市府路權",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuZUM1SDVaZkI0X2tCZ3V1dTNNTXdRMVhZTVFEQ3B5VGQyUGxFdVB3OFFEalA5Zm9iS0NlSHI2bWEtOU5hZTJ4emtMS2FhVXM?oc=5"
+          "source": "經濟日報",
+          "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
+          "url": "https://money.udn.com/money/story/5599/9904801"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
+      "summary": [
+        "經濟日報：美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
+        "自由時報：美東風暴釀停電　紐約梅西感恩節大遊行延至28日"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
+          "url": "https://money.udn.com/money/story/5599/9904818"
+        },
+        {
+          "source": "自由時報",
+          "title": "美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654836"
         }
       ]
     },
     {
       "rank": 7,
+      "title": "印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
+      "summary": [
+        "自由時報：印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
+        "ETtoday：印度最窮邦議員「豪奢嫁女」　宴請40萬人、停機坪蓋6座"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654840"
+        },
+        {
+          "source": "ETtoday",
+          "title": "印度最窮邦議員「豪奢嫁女」　宴請40萬人、停機坪蓋6座",
+          "url": "https://www.ettoday.net/news/20261127/3279179.htm"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "臺積電神話破功？高雄屋主慘賠280萬、還有85折求售 哪些地區重災",
+      "summary": [
+        "中時新聞：臺積電神話破功？高雄屋主慘賠280萬、還有85折求售 哪些地區重災",
+        "工商時報：臺積電概念區房價鬆動！高雄屋主賠售280萬部分開價打85折求成交- 房市"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "臺積電神話破功？高雄屋主慘賠280萬、還有85折求售 哪些地區重災",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5McTIyVjAtSmw3NTZtbV9WSU95Nno2dEFwXzg2OXZnODZFUmV4aUNFY3RPc09hV0VWMFRPdHIya1JsTXFYMG9DeHFjYmpTMEdBTG03eWVERi1MSU1ENmNwM0F2VTIwMGZ1Q0JmVDR3?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "臺積電概念區房價鬆動！高雄屋主賠售280萬部分開價打85折求成交- 房市",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tc2pjQ1hPX3U0cTE5R0NWbnhxcDBVQlFpb3ZjRnhQVE8zYWdlaWZPQjJ6eTVMRmFqSFphTmVObFJYdFdXT2U3OW5RdXlQeEFpRlctOUZqVWhfalRNRFU4?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "天氣/投票日各地好天氣東北季風下午報到週日夜晨輻射冷卻凍一波嘉義以北、宜花空曠處約14度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：天氣/投票日各地好天氣東北季風下午報到週日夜晨輻射冷卻凍一波嘉義以北、宜花空曠處約14度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -149,7 +203,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "泰國曼谷煉油廠爆炸9傷3人命危　事故原因調查中",
       "summary": [
         "經濟日報：泰國曼谷煉油廠爆炸9傷3人命危　事故原因調查中",
@@ -166,48 +220,6 @@
           "source": "公視新聞",
           "title": "曼谷市區煉油廠油庫爆炸 至少4人命危、7人傷｜20261126 8點新世界",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0R2kya2UxNDhTMUtCM2pfbVJVdWZFMmtQTkhjbHdHT3E3bmFlYjk4VFQ5LUQteWdYNnFzYXdCcGdHaEc5azlHM2Z6OA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "槓上美國！荷蘭將阻擋 ASML 對中出口進一步受限",
-      "summary": [
-        "經濟日報：槓上美國！荷蘭將阻擋 ASML 對中出口進一步受限",
-        "科技新報：不願任由美國擺布，荷蘭反對擴大 ASML 出口限制"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "槓上美國！荷蘭將阻擋 ASML 對中出口進一步受限",
-          "url": "https://money.udn.com/money/story/5599/9904501"
-        },
-        {
-          "source": "科技新報",
-          "title": "不願任由美國擺布，荷蘭反對擴大 ASML 出口限制",
-          "url": "https://technews.tw/2026/11/27/netherlands-opposes-expanding-asml-export-restrictions-resists-us-dictation/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "北市預售低價王重現「6字頭」房價鬆動？專家曝真相",
-      "summary": [
-        "中時新聞：北市預售低價王重現「6字頭」房價鬆動？專家曝真相",
-        "工商時報：首都房價真鬆動？臺北市預售低價王重現「6字頭」 專家揭真相：只是大坪數低樓層個案- 房市"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "北市預售低價王重現「6字頭」房價鬆動？專家曝真相",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aMTJGMV8wNXR3OW9Uc3k2R25ZQ1FCbXg0RHk4TTB5Vm11X3g4ak5qVnhQUXVZU2pSeFpXZjc2eldITjQwLTNMNTU3UWRacWd5b253d3JoN2JYY2Q3Sm91LU9TM3dPM3gwNC04Tldn?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "首都房價真鬆動？臺北市預售低價王重現「6字頭」 專家揭真相：只是大坪數低樓層個案- 房市",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42dEFuZHphT1BlVHRYbkdJSHBHelNZN1RIdkF4SmRacFZ4NVdqY3Q2NU55WWhoM3JEbEN0aVlKWm9MQl9TMDVUVG1uYzJLRWFsLUFPcHZRY19PM1NhQ0F3?oc=5"
         }
       ]
     }
@@ -347,61 +359,61 @@
     },
     {
       "rank": 7,
-      "title": "美國新關稅瞄準中國但沒撕破臉 北京稱堅決反對但尚未威脅報復措施",
+      "title": "德國頂級經濟學家建議將大眾汽車出售給中國：“趁我們還能賣個好價錢”",
       "summary": [
-        "德國之聲：美國新關稅瞄準中國但沒撕破臉 北京稱堅決反對但尚未威脅報復措施"
+        "法廣RFI：德國頂級經濟學家建議將大眾汽車出售給中國：“趁我們還能賣個好價錢”"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "美國新關稅瞄準中國但沒撕破臉 北京稱堅決反對但尚未威脅報復措施",
-          "url": "https://www.dw.com/zh/美国新关税瞄准中国但没撕破脸-北京称坚决反对但尚未威胁报复措施/a-80060086?maca=chi-rss-chi-all-1127-rdf"
+          "source": "法廣RFI",
+          "title": "德國頂級經濟學家建議將大眾汽車出售給中國：“趁我們還能賣個好價錢”",
+          "url": "https://www.rfi.fr/tw/%E7%B6%93%E8%B2%BF/20261126-%E5%BE%B7%E5%9C%8B%E9%A0%82%E7%B4%9A%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%AE%B6%E5%BB%BA%E8%AD%B0%E5%B0%87%E5%A4%A7%E7%9C%BE%E6%B1%BD%E8%BB%8A%E5%87%BA%E5%94%AE%E7%B5%A6%E4%B8%AD%E5%9C%8B-%E8%B6%81%E6%88%91%E5%80%91%E9%82%84%E8%83%BD%E8%B3%A3%E5%80%8B%E5%A5%BD%E5%83%B9%E9%8C%A2"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "自民黨研究會制定緊急決議解決“師資荒”",
+      "title": "最高法院確認阿波登搶劫案三名被告被判無期徒刑",
       "summary": [
-        "NHK新聞：自民黨研究會制定緊急決議解決“師資荒”"
+        "NHK新聞：最高法院確認阿波登搶劫案三名被告被判無期徒刑"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "自民黨研究會制定緊急決議解決“師資荒”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261126de82088"
+          "title": "最高法院確認阿波登搶劫案三名被告被判無期徒刑",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261126de82095"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "沖繩：兩艘中國海警船侵入尖閣列島沿岸的日本領海",
+      "title": "德島縣阿波市長因涉嫌詐騙被捕，透過律師提出辭職",
       "summary": [
-        "NHK新聞：沖繩：兩艘中國海警船侵入尖閣列島沿岸的日本領海"
+        "NHK新聞：德島縣阿波市長因涉嫌詐騙被捕，透過律師提出辭職"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "沖繩：兩艘中國海警船侵入尖閣列島沿岸的日本領海",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261126de82093"
+          "title": "德島縣阿波市長因涉嫌詐騙被捕，透過律師提出辭職",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261126de82106"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "土耳其計劃降低里拉存款稅以支援貨幣",
+      "title": "韓國憲院裁定全面禁止外國人從事政治活動違憲",
       "summary": [
-        "Bloomberg Markets：土耳其計劃降低里拉存款稅以支援貨幣"
+        "韓聯社：韓國憲院裁定全面禁止外國人從事政治活動違憲"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "土耳其計劃降低里拉存款稅以支援貨幣",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-26/turkey-plans-lower-taxes-on-lira-deposits-to-support-currency"
+          "source": "韓聯社",
+          "title": "韓國憲院裁定全面禁止外國人從事政治活動違憲",
+          "url": "https://cn.yna.co.kr/view/ACK20261126004600881"
         }
       ]
     }
