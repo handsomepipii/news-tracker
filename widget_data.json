@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 07:56",
+  "updated_at": "2026-11-26 08:26",
   "taiwan": [
     {
       "rank": 1,
@@ -158,22 +158,22 @@
     },
     {
       "rank": 7,
-      "title": "學者：ART護臺灣301稅率不逾15％ 保持相對競爭力",
+      "title": "國1彰化段重大車禍！3大型車追撞3死2命危14傷 南下全線封閉",
       "summary": [
-        "自由時報：學者：ART護臺灣301稅率不逾15％ 保持相對競爭力",
-        "ETtoday：臺灣301關稅列「最低階別15%不疊加」　臺美經貿小組：努力鞏固談判結果"
+        "自由時報：國1彰化段重大車禍！3大型車追撞3死2命危14傷 南下全線封閉",
+        "ETtoday：快訊／國1彰化段「遊覽車、2大車追撞」　3命危16傷"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "學者：ART護臺灣301稅率不逾15％ 保持相對競爭力",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5653387"
+          "title": "國1彰化段重大車禍！3大型車追撞3死2命危14傷 南下全線封閉",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5653629"
         },
         {
           "source": "ETtoday",
-          "title": "臺灣301關稅列「最低階別15%不疊加」　臺美經貿小組：努力鞏固談判結果",
-          "url": "https://www.ettoday.net/news/20261126/3278590.htm"
+          "title": "快訊／國1彰化段「遊覽車、2大車追撞」　3命危16傷",
+          "url": "https://www.ettoday.net/news/20261126/3278624.htm"
         }
       ]
     },
@@ -281,33 +281,33 @@
     },
     {
       "rank": 2,
-      "title": "隨著人工智慧擔憂持續存在，科技股遭遇拋售",
+      "title": "由於對人工智慧的擔憂加劇，美股進一步下跌",
       "summary": [
-        "Bloomberg Markets：隨著人工智慧擔憂持續存在，科技股遭遇拋售",
-        "Investing.com：人工智慧股票因對基礎設施建設成本的擔憂而下滑",
-        "BBC World：由於對人工智慧的擔憂加劇，美股進一步下跌"
+        "BBC World：由於對人工智慧的擔憂加劇，美股進一步下跌",
+        "Yahoo Finance：隨著投資者逃離人工智慧交易，英偉達、AMD 和美光股價下跌",
+        "Bloomberg Tech：由於人工智慧焦慮加劇損失，科技股在「先賣」模式下暴跌"
       ],
       "media_count": 4,
       "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "隨著人工智慧擔憂持續存在，科技股遭遇拋售",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-25/the-opening-trade-11-25-2026-video"
-        },
-        {
-          "source": "Investing.com",
-          "title": "人工智慧股票因對基礎設施建設成本的擔憂而下滑",
-          "url": "https://www.investing.com/news/stock-market-news/ai-stocks-slide-on-fears-over-infrastructure-buildout-costs-5050519"
-        },
         {
           "source": "BBC World",
           "title": "由於對人工智慧的擔憂加劇，美股進一步下跌",
           "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "source": "Yahoo Finance",
+          "title": "隨著投資者逃離人工智慧交易，英偉達、AMD 和美光股價下跌",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVk9mVUxsUll4NmpxRklUb1dFaHduU3ZURXZRV2ktV0pDM2ZMNElPb3RrV0NiS0JlLTVXQXJKNnpTV1JmV1k2NGMtdzNLa0F0c2tsY2xRMmJKZHhwY1dueWZXb0l4VXhWNkl4NmJ6QUlTNjBpZUItN0xkX21JUXJ5WGlUbWdON0E0V2FOT2lGYkozcm9VSjlXVjR3SDc5WWQ3VzJhWm5mb29YbjBQSU1hQURkYw?oc=5"
+        },
+        {
           "source": "Bloomberg Tech",
           "title": "由於人工智慧焦慮加劇損失，科技股在「先賣」模式下暴跌",
           "url": "https://www.bloomberg.com/news/videos/2026-11-25/tech-stocks-tumble-as-ai-angst-fuels-losses-video"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "隨著逢低買家的出現，股市削減了人工智慧驅動的損失",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-pare-ai-driven-losses-as-dip-buyers-emerge-video"
         }
       ]
     },
