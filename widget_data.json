@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 23:26",
+  "updated_at": "2026-11-26 23:56",
   "taiwan": [
     {
       "rank": 1,
@@ -66,69 +66,6 @@
     },
     {
       "rank": 4,
-      "title": "沈伯洋取消選前之夜 民眾黨團酸：真是奢侈的煩惱",
-      "summary": [
-        "自由時報：沈伯洋取消選前之夜 民眾黨團酸：真是奢侈的煩惱",
-        "中時新聞：國民黨借光場地？沈伯洋取消選前之夜作家揭真相：討拍不成變討厭- 政治"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "沈伯洋取消選前之夜 民眾黨團酸：真是奢侈的煩惱",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653877"
-        },
-        {
-          "source": "中時新聞",
-          "title": "國民黨借光場地？沈伯洋取消選前之夜作家揭真相：討拍不成變討厭- 政治",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oeEY1VW9sdW5WMDhiUHctbkxVR3Bkc3VyZUdDWnoxT3ZON0VRR25mb2Z3bm55Zm8wa1RTVlQ2VHZsWjBQdzhZX3JTX0dDUVQzSkVXWUpCa1hpNTlYYWhMbHRnd1BuUlJCaEdYaFF3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "泰味國際委外雲端發票平臺遭異常存取，290人受影響",
-      "summary": [
-        "iThome：泰味國際委外雲端發票平臺遭異常存取，290人受影響",
-        "公開資訊觀測站重訊：泰味國際委外雲端發票平臺遭異常存取，290人受影響"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "泰味國際委外雲端發票平臺遭異常存取，290人受影響",
-          "url": "https://www.ithome.com.tw/news/180806"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "泰味國際委外雲端發票平臺遭異常存取，290人受影響",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjaTA1S004YTAzZ1NyRkJBNDI4R001bkdWdzZHNXVxb3ByUFJ1OVY1ZVZuX195LUVkb0RfSTh5U2U1aUxNWXJ6RXVTdzd0Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "川普力挺黃仁勳回任輝達執行長　司法部證實無國安威脅",
-      "summary": [
-        "經濟日報：川普力挺黃仁勳回任輝達執行長　司法部證實無國安威脅",
-        "科技新報：川普力挺黃仁勳回任輝達執行長，司法部證實無國安威脅"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普力挺黃仁勳回任輝達執行長　司法部證實無國安威脅",
-          "url": "https://money.udn.com/money/story/5599/9903053"
-        },
-        {
-          "source": "科技新報",
-          "title": "川普力挺黃仁勳回任輝達執行長，司法部證實無國安威脅",
-          "url": "https://technews.tw/2026/11/26/trump-backs-jensen-huang-nvidia-ceo-doj-no-security-threat/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "臺灣獲「15%不疊加」最低稅率　2232個豁免品項比ART還多！",
       "summary": [
         "ETtoday：臺灣獲「15%不疊加」最低稅率　2232個豁免品項比ART還多！",
@@ -149,7 +86,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "密碼管理工具1Password遭駭！官方證實客戶資料外洩，需要換密碼嗎？6招防範釣魚攻擊",
       "summary": [
         "數位時代：密碼管理工具1Password遭駭！官方證實客戶資料外洩，需要換密碼嗎？6招防範釣魚攻擊",
@@ -170,7 +107,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "小心手機被奪舍！假追劇App藏木馬遙控網銀 百人受害財損逾千萬",
       "summary": [
         "自由時報：小心手機被奪舍！假追劇App藏木馬遙控網銀 百人受害財損逾千萬",
@@ -191,7 +128,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "AI 金童基金 Q3 慘虧 65%  預言 2027 恐是最後正常年",
       "summary": [
         "科技新報：AI 金童基金 Q3 慘虧 65%  預言 2027 恐是最後正常年",
@@ -208,6 +145,69 @@
           "source": "MoneyDJ理財網",
           "title": "AI金童基金Q3慘虧65% 預言2027恐是最後正常年- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQODBVam9pZGx1QURRMmE3clJvbmU3TWtMbHpudHBRVmxXUV9sQnk4SXpHVmlNOS1IMkQ0NWZhRC1uNU5qY0IwZ2RJdy1ORUhBSEFOMC1iRUlZbmJ2WVFuaFdEVWJLLUNFWGwzRExhTjFCYkEtMW54Z0h0cW1rMGxqQW1rQ0c0V1p5RDZEdTJ4cGRmZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "埃及油罐車撞車爆炸引發大火　至少31死、21傷",
+      "summary": [
+        "經濟日報：埃及油罐車撞車爆炸引發大火　至少31死、21傷",
+        "自由時報：埃及油罐車翻覆大火致31死15傷 巨大火球與濃密黑煙駭人"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "埃及油罐車撞車爆炸引發大火　至少31死、21傷",
+          "url": "https://money.udn.com/money/story/5599/9903333"
+        },
+        {
+          "source": "自由時報",
+          "title": "埃及油罐車翻覆大火致31死15傷 巨大火球與濃密黑煙駭人",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654276"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "CBS：中資美企獲輝達高階晶片　出口管制漏洞浮現",
+      "summary": [
+        "經濟日報：CBS：中資美企獲輝達高階晶片　出口管制漏洞浮現",
+        "科技新報：CBS：中資美企獲輝達高階晶片，出口管制漏洞浮現"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "CBS：中資美企獲輝達高階晶片　出口管制漏洞浮現",
+          "url": "https://money.udn.com/money/story/5599/9903377"
+        },
+        {
+          "source": "科技新報",
+          "title": "CBS：中資美企獲輝達高階晶片，出口管制漏洞浮現",
+          "url": "https://technews.tw/2026/11/26/cbs-export-control-loopholes-chinese-funded-us-firms-nvidia-advanced-chips/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黑豹旗／扳倒去年亞軍再退西苑！臺南海事首闖4強寫校史最佳成績",
+      "summary": [
+        "ETtoday：黑豹旗／扳倒去年亞軍再退西苑！臺南海事首闖4強寫校史最佳成績",
+        "自由時報：黑豹旗》去年首戰淘汰→今年勇闖4強  「南水潛艇」直呼太神奇！"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "黑豹旗／扳倒去年亞軍再退西苑！臺南海事首闖4強寫校史最佳成績",
+          "url": "https://sports.ettoday.net/news/3278884"
+        },
+        {
+          "source": "自由時報",
+          "title": "黑豹旗》去年首戰淘汰→今年勇闖4強  「南水潛艇」直呼太神奇！",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5654192"
         }
       ]
     }
