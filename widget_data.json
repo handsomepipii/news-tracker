@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 06:26",
+  "updated_at": "2026-11-27 06:56",
   "taiwan": [
     {
       "rank": 1,
@@ -56,6 +56,27 @@
     },
     {
       "rank": 3,
+      "title": "印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
+      "summary": [
+        "自由時報：印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
+        "ETtoday：印度最窮邦議員「豪奢嫁女」　宴請40萬人、停機坪蓋6座"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654840"
+        },
+        {
+          "source": "ETtoday",
+          "title": "印度最窮邦議員「豪奢嫁女」　宴請40萬人、停機坪蓋6座",
+          "url": "https://www.ettoday.net/news/20261127/3279179.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "駭客遠端盜轉！金管會接獲8銀行通報 涉10客戶共 182 萬",
       "summary": [
         "自由時報：駭客遠端盜轉！金管會接獲8銀行通報 涉10客戶共 182 萬",
@@ -76,7 +97,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "原油價格維持漲勢 中東緊張局勢令市場不安",
       "summary": [
         "經濟日報：原油價格維持漲勢 中東緊張局勢令市場不安",
@@ -97,7 +118,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "沈伯洋取消選前之夜   陳素月預告明扮「彰化分身」力挺",
       "summary": [
         "自由時報：沈伯洋取消選前之夜   陳素月預告明扮「彰化分身」力挺",
@@ -118,7 +139,28 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "天氣/投票日各地好天氣東北季風下午報到週日夜晨輻射冷卻凍一波嘉義以北、宜花空曠處約14度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+      "summary": [
+        "TVBS新聞：天氣/投票日各地好天氣東北季風下午報到週日夜晨輻射冷卻凍一波嘉義以北、宜花空曠處約14度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "自由時報：北東偶雨日夜溫差大 明投票日東北季風增強"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "天氣/投票日各地好天氣東北季風下午報到週日夜晨輻射冷卻凍一波嘉義以北、宜花空曠處約14度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMbm1SODBvaWtyblVwT0V5WjJ4Rk5jemc5TTg2MTRXOUhQRTJrVW9FMmE3MzBGZHN2Rl9uSUxOOHRrOGdVX2VFNmNwQTF6Qk9DMGt4TFhn?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "北東偶雨日夜溫差大 明投票日東北季風增強",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5654851"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "泰國曼谷煉油廠爆炸9傷3人命危　事故原因調查中",
       "summary": [
         "經濟日報：泰國曼谷煉油廠爆炸9傷3人命危　事故原因調查中",
@@ -139,7 +181,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "北市預售低價王重現「6字頭」房價鬆動？專家曝真相",
       "summary": [
         "中時新聞：北市預售低價王重現「6字頭」房價鬆動？專家曝真相",
@@ -160,7 +202,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "科技股回穩　歐股隨亞股走揚收高",
       "summary": [
         "自由時報：科技股回穩　歐股隨亞股走揚收高",
@@ -177,42 +219,6 @@
           "source": "經濟日報",
           "title": "科技股回穩　歐股隨亞股走揚收高",
           "url": "https://money.udn.com/money/story/5599/9904809"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
-      "summary": [
-        "經濟日報：美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
-        "自由時報：美東風暴釀停電　紐約梅西感恩節大遊行延至28日"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
-          "url": "https://money.udn.com/money/story/5599/9904818"
-        },
-        {
-          "source": "自由時報",
-          "title": "美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654836"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "赴竹北代徐欣瑩掃街 吳志揚：今晚所有人都是徐欣瑩",
-      "summary": [
-        "自由時報：赴竹北代徐欣瑩掃街 吳志揚：今晚所有人都是徐欣瑩"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "赴竹北代徐欣瑩掃街 吳志揚：今晚所有人都是徐欣瑩",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5654586"
         }
       ]
     }
@@ -352,61 +358,61 @@
     },
     {
       "rank": 7,
-      "title": "黑色星期五特惠：在今天促銷結束前享受 InvestingPro 60% 的折扣",
+      "title": "九合一選前反轉：沈伯洋破天荒取消臺北「選前之夜」，如何影響選情？",
       "summary": [
-        "Investing.com：黑色星期五特惠：在今天促銷結束前享受 InvestingPro 60% 的折扣"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "黑色星期五特惠：在今天促銷結束前享受 InvestingPro 60% 的折扣",
-          "url": "https://www.investing.com/news/stock-market-news/black-friday-special-only-until-today-can-you-lock-in-the-best-sale-of-the-year-5052313"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "宏福苑大火一週年：居民受壓、媒體噤聲，為何悼念變得小心翼翼？",
-      "summary": [
-        "BBC中文：宏福苑大火一週年：居民受壓、媒體噤聲，為何悼念變得小心翼翼？"
+        "BBC中文：九合一選前反轉：沈伯洋破天荒取消臺北「選前之夜」，如何影響選情？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "BBC中文",
-          "title": "宏福苑大火一週年：居民受壓、媒體噤聲，為何悼念變得小心翼翼？",
-          "url": "https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad?at_medium=RSS&at_campaign=rss"
+          "title": "九合一選前反轉：沈伯洋破天荒取消臺北「選前之夜」，如何影響選情？",
+          "url": "https://www.bbc.com/zhongwen/articles/cwz0kymdzdd8o/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "rank": 9,
-      "title": "“馬六甲數字海峽”：馬來西亞為中國人工智慧企業提供資料中心",
+      "rank": 8,
+      "title": "賓士暫停對德國工廠投資 德國車企還能否扭轉局面？",
       "summary": [
-        "德國之聲：“馬六甲數字海峽”：馬來西亞為中國人工智慧企業提供資料中心"
+        "德國之聲：賓士暫停對德國工廠投資 德國車企還能否扭轉局面？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "德國之聲",
-          "title": "“馬六甲數字海峽”：馬來西亞為中國人工智慧企業提供資料中心",
-          "url": "https://www.dw.com/zh/马六甲数字海峡-：马来西亚为中国人工智能企业提供数据中心/a-80058663?maca=chi-rss-chi-all-1127-rdf"
+          "title": "賓士暫停對德國工廠投資 德國車企還能否扭轉局面？",
+          "url": "https://www.dw.com/zh/奔驰暂停对德国工厂投资-德国车企还能否扭转局面？/a-80022159?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
     {
-      "rank": 10,
-      "title": "美晶片、算力等限制及對蒸餾防範加強迫使中國AI模型發展放緩",
+      "rank": 9,
+      "title": "尼泊爾啟動程式將宣佈8月洪災中失蹤的人員死亡",
       "summary": [
-        "法廣RFI：美晶片、算力等限制及對蒸餾防範加強迫使中國AI模型發展放緩"
+        "法廣RFI：尼泊爾啟動程式將宣佈8月洪災中失蹤的人員死亡"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "美晶片、算力等限制及對蒸餾防範加強迫使中國AI模型發展放緩",
-          "url": "https://www.rfi.fr/tw/%E7%A7%91%E6%8A%80%E8%88%87%E6%96%87%E5%8C%96/20261126-%E7%BE%8E%E8%8A%AF%E7%89%87%E7%AE%97%E5%8A%9B%E7%AD%89%E9%99%90%E5%88%B6%E5%8F%8A%E5%B0%8D%E8%92%B8%E9%A4%BE%E9%98%B2%E7%AF%84%E5%8A%A0%E5%BC%B7%E8%BF%AB%E4%BD%BF%E4%B8%AD%E5%9C%8Bai%E6%A8%A1%E5%9E%8B%E7%99%BC%E5%B1%95%E6%94%BE%E7%B7%A9"
+          "title": "尼泊爾啟動程式將宣佈8月洪災中失蹤的人員死亡",
+          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261126-%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%95%9F%E5%8B%95%E7%A8%8B%E5%BA%8F%E5%B0%87%E5%AE%A3%E5%B8%838%E6%9C%88%E6%B4%AA%E7%81%BD%E4%B8%AD%E5%A4%B1%E8%B9%A4%E7%9A%84%E4%BA%BA%E5%93%A1%E6%AD%BB%E4%BA%A1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "東亞地緣政治格局正在悄然改變",
+      "summary": [
+        "法廣RFI：東亞地緣政治格局正在悄然改變"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "東亞地緣政治格局正在悄然改變",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E6%9B%BC%E8%B0%B7%E5%B0%88%E6%AC%84/20261126-%E6%9D%B1%E4%BA%9E%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E6%A0%BC%E5%B1%80%E6%AD%A3%E5%9C%A8%E6%82%84%E7%84%B6%E6%94%B9%E8%AE%8A"
         }
       ]
     }
