@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 19:27",
+  "updated_at": "2026-11-26 19:56",
   "taiwan": [
     {
       "rank": 1,
@@ -121,17 +121,17 @@
     },
     {
       "rank": 5,
-      "title": "沈伯洋取消選前之夜 羅智強凌晨急發宣告 網抓包刪改文：露餡了？",
+      "title": "沈伯洋取消選前之夜 梁文傑：可看出格局和氣度",
       "summary": [
-        "自由時報：沈伯洋取消選前之夜 羅智強凌晨急發宣告 網抓包刪改文：露餡了？",
+        "自由時報：沈伯洋取消選前之夜 梁文傑：可看出格局和氣度",
         "關鍵評論網：取消選前市民之夜，沈伯洋這次真的開大招了！"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "沈伯洋取消選前之夜 羅智強凌晨急發宣告 網抓包刪改文：露餡了？",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653628"
+          "title": "沈伯洋取消選前之夜 梁文傑：可看出格局和氣度",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653653"
         },
         {
           "source": "關鍵評論網",
@@ -142,27 +142,6 @@
     },
     {
       "rank": 6,
-      "title": "快訊／國1彰化段「遊覽車、2大車追撞」　3命危16傷",
-      "summary": [
-        "ETtoday：快訊／國1彰化段「遊覽車、2大車追撞」　3命危16傷",
-        "TVBS新聞：快訊／國1彰化段連環事故！和欣客運挨撞 司機乘客3人傷重亡"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／國1彰化段「遊覽車、2大車追撞」　3命危16傷",
-          "url": "https://www.ettoday.net/news/20261126/3278624.htm"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "快訊／國1彰化段連環事故！和欣客運挨撞 司機乘客3人傷重亡",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DWmJjMGRIS1g2Z2VrMWtlZ2RWby1feXFtb1U5X2l3aW40dXV5RGlvSm82bm5TTGZkaGNNam5oQkVMZmZNd2pGRDFzaWo3ZG8?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "AI泡沫破恐比網路泡沫更傷- 日報",
       "summary": [
         "工商時報：AI泡沫破恐比網路泡沫更傷- 日報",
@@ -183,7 +162,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
       "summary": [
         "經濟日報：大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
@@ -204,7 +183,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
       "summary": [
         "經濟日報：輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
@@ -225,7 +204,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
       "summary": [
         "自由時報：泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
@@ -242,6 +221,27 @@
           "source": "經濟日報",
           "title": "泰國曼谷油庫爆炸濃煙竄天　當局籲居民撤離",
           "url": "https://money.udn.com/money/story/5599/9903977"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "AI靠指紋測血型研究爆疑雲 逾10篇論文原始資料竟無血型紀錄",
+      "summary": [
+        "自由時報：AI靠指紋測血型研究爆疑雲 逾10篇論文原始資料竟無血型紀錄",
+        "科技新報：AI 看指紋就能判斷血型？逾 10 篇論文遭質疑，資料集根本沒有血型資訊"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "AI靠指紋測血型研究爆疑雲 逾10篇論文原始資料竟無血型紀錄",
+          "url": "https://news.ltn.com.tw/news/aichannel/breakingnews/5653658"
+        },
+        {
+          "source": "科技新報",
+          "title": "AI 看指紋就能判斷血型？逾 10 篇論文遭質疑，資料集根本沒有血型資訊",
+          "url": "https://technews.tw/2026/11/26/over-a-dozen-studies-said-ai-can-read-your-blood-type-from-a-fingerprint/"
         }
       ]
     }
@@ -354,6 +354,27 @@
     },
     {
       "rank": 6,
+      "title": "美國晶片限制亞洲資料中心融資",
+      "summary": [
+        "Bloomberg Tech：美國晶片限制亞洲資料中心融資",
+        "Investing.com：惠譽表示，美國晶片限制將減緩亞洲資料中心投資"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "美國晶片限制亞洲資料中心融資",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-26/us-chip-curbs-stall-asia-data-center-financing-video"
+        },
+        {
+          "source": "Investing.com",
+          "title": "惠譽表示，美國晶片限制將減緩亞洲資料中心投資",
+          "url": "https://www.investing.com/news/stock-market-news/us-chip-curbs-will-slow-asia-datacenter-investment-fitch-says-5052417"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
       "summary": [
         "Investing.com：美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
@@ -374,7 +395,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
       "summary": [
         "BBC中文：美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
@@ -395,7 +416,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
       "summary": [
         "Financial Times：中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
@@ -416,7 +437,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
       "summary": [
         "Investing.com：巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
@@ -433,27 +454,6 @@
           "source": "Financial Times",
           "title": "巴布科克獲得創紀錄的 87 億英鎊合約以支援皇家海軍潛艇",
           "url": "https://www.ft.com/content/b6db41b9-5af1-4105-a063-7dbf40e7fb2c?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Marc Levinson 講述 UPS 如何創造現代物流",
-      "summary": [
-        "Bloomberg Markets：Marc Levinson 講述 UPS 如何創造現代物流",
-        "Bloomberg Tech：Marc Levinson 講述 UPS 如何創造現代物流"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Marc Levinson 講述 UPS 如何創造現代物流",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Marc Levinson 講述 UPS 如何創造現代物流",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics-video"
         }
       ]
     }
