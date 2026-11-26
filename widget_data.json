@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 19:56",
+  "updated_at": "2026-11-26 20:26",
   "taiwan": [
     {
       "rank": 1,
@@ -40,33 +40,6 @@
     },
     {
       "rank": 2,
-      "title": "1Password 證實內部系統遭駭，強呼叫戶密碼保管未受影響",
-      "summary": [
-        "科技新報：1Password 證實內部系統遭駭，強呼叫戶密碼保管未受影響",
-        "數位時代：密碼管理工具1Password遭駭！官方證實客戶資料外洩，需要換密碼嗎？6招防範釣魚攻擊",
-        "自由時報：幫你管密碼的1Password竟遭駭！個資外洩　使用者該怎麼辦？"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "1Password 證實內部系統遭駭，強呼叫戶密碼保管未受影響",
-          "url": "https://infosecu.technews.tw/2026/11/26/1password-releases-update-on-backend-systems-security-incident/"
-        },
-        {
-          "source": "數位時代",
-          "title": "密碼管理工具1Password遭駭！官方證實客戶資料外洩，需要換密碼嗎？6招防範釣魚攻擊",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmI1bGg5U0pKb05ZT0NjSjZHNFczX1ZFc0V4V3B6QTU3MWFNXzJEQno3ckEtTDk3X1FlaEl3S2o0bERuekVCN1pPcVBoNTRPbGN0dkM3SU0zRUc2Zlp0bVhZc2puUVg0T2xMaWFTSnE5TElwZXB3Y2tIVWE4dFBMTGtsSDY?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "幫你管密碼的1Password竟遭駭！個資外洩　使用者該怎麼辦？",
-          "url": "https://3c.ltn.com.tw/news/68437"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "「大賣空」貝瑞罕見轉多！空單幾乎清零 握25％現金準備抄底納指",
       "summary": [
         "自由時報：「大賣空」貝瑞罕見轉多！空單幾乎清零 握25％現金準備抄底納指",
@@ -93,7 +66,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "美國301調查報告出爐、臺灣關稅建議稅率為「15％不疊加」 半導體列入擬議豁免商品",
       "summary": [
         "財訊：美國301調查報告出爐、臺灣關稅建議稅率為「15％不疊加」 半導體列入擬議豁免商品",
@@ -120,28 +93,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "沈伯洋取消選前之夜 梁文傑：可看出格局和氣度",
-      "summary": [
-        "自由時報：沈伯洋取消選前之夜 梁文傑：可看出格局和氣度",
-        "關鍵評論網：取消選前市民之夜，沈伯洋這次真的開大招了！"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "沈伯洋取消選前之夜 梁文傑：可看出格局和氣度",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653653"
-        },
-        {
-          "source": "關鍵評論網",
-          "title": "取消選前市民之夜，沈伯洋這次真的開大招了！",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtVDFJQkZyTDVRaHNDQ3h2YVpWLWhhVHJaOUJfRFFVYWlPYzFJbmhBOHlBLW1LSnJoNy1QZE95ZFI4Z3BpV2ZvQ2VsQ2lHczM0cFNvVA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "AI泡沫破恐比網路泡沫更傷- 日報",
       "summary": [
         "工商時報：AI泡沫破恐比網路泡沫更傷- 日報",
@@ -162,7 +114,28 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "title": "取消選前市民之夜，沈伯洋這次真的開大招了！",
+      "summary": [
+        "關鍵評論網：取消選前市民之夜，沈伯洋這次真的開大招了！",
+        "自由時報：沈伯洋取消選前之夜 柯文哲：一晚拆東西是不是更擾民？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "關鍵評論網",
+          "title": "取消選前市民之夜，沈伯洋這次真的開大招了！",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtVDFJQkZyTDVRaHNDQ3h2YVpWLWhhVHJaOUJfRFFVYWlPYzFJbmhBOHlBLW1LSnJoNy1QZE95ZFI4Z3BpV2ZvQ2VsQ2lHczM0cFNvVA?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "沈伯洋取消選前之夜 柯文哲：一晚拆東西是不是更擾民？",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653788"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
       "summary": [
         "經濟日報：大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
@@ -183,7 +156,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
       "summary": [
         "經濟日報：輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
@@ -204,7 +177,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
       "summary": [
         "自由時報：泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
@@ -225,23 +198,44 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "AI靠指紋測血型研究爆疑雲 逾10篇論文原始資料竟無血型紀錄",
+      "rank": 9,
+      "title": "臺股有救了？日經飆逾1100點 韓股漲逾2.5％",
       "summary": [
-        "自由時報：AI靠指紋測血型研究爆疑雲 逾10篇論文原始資料竟無血型紀錄",
-        "科技新報：AI 看指紋就能判斷血型？逾 10 篇論文遭質疑，資料集根本沒有血型資訊"
+        "自由時報：臺股有救了？日經飆逾1100點 韓股漲逾2.5％",
+        "經濟日報：南韓升息至兩年新高！晶片榮景推升通膨 韓股早盤仍漲逾2%"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "AI靠指紋測血型研究爆疑雲 逾10篇論文原始資料竟無血型紀錄",
-          "url": "https://news.ltn.com.tw/news/aichannel/breakingnews/5653658"
+          "title": "臺股有救了？日經飆逾1100點 韓股漲逾2.5％",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5653650"
+        },
+        {
+          "source": "經濟日報",
+          "title": "南韓升息至兩年新高！晶片榮景推升通膨 韓股早盤仍漲逾2%",
+          "url": "https://money.udn.com/money/story/5599/9902718"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳回鍋引分歧 標普列降級觀察、穆迪維持評等",
+      "summary": [
+        "經濟日報：黃仁勳回鍋引分歧 標普列降級觀察、穆迪維持評等",
+        "科技新報：黃仁勳回鍋引分歧，標普列降級觀察、穆迪維持評等"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "黃仁勳回鍋引分歧 標普列降級觀察、穆迪維持評等",
+          "url": "https://money.udn.com/money/story/5599/9902625"
         },
         {
           "source": "科技新報",
-          "title": "AI 看指紋就能判斷血型？逾 10 篇論文遭質疑，資料集根本沒有血型資訊",
-          "url": "https://technews.tw/2026/11/26/over-a-dozen-studies-said-ai-can-read-your-blood-type-from-a-fingerprint/"
+          "title": "黃仁勳回鍋引分歧，標普列降級觀察、穆迪維持評等",
+          "url": "https://finance.technews.tw/2026/11/26/sp-global-places-nvidia-rating-on-creditwatch-negative-on-rising-management-and-governance-risks/"
         }
       ]
     }
