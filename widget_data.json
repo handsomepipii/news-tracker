@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 13:57",
+  "updated_at": "2026-11-26 14:26",
   "taiwan": [
     {
       "rank": 1,
@@ -121,28 +121,28 @@
     },
     {
       "rank": 5,
-      "title": "臺灣享最優待遇！美301稅率15％不疊加 蘭花仍0關稅豁免清單",
+      "title": "「大賣空」貝瑞罕見轉多！空單幾乎清零 握25％現金準備抄底納指",
       "summary": [
-        "自由時報：臺灣享最優待遇！美301稅率15％不疊加 蘭花仍0關稅豁免清單",
-        "財訊：美國301調查報告出爐、臺灣關稅建議稅率為「15％不疊加」 半導體列入擬議豁免商品",
-        "ETtoday：臺灣獲「15%不疊加」最低稅率　2232個豁免品項比ART還多！"
+        "自由時報：「大賣空」貝瑞罕見轉多！空單幾乎清零 握25％現金準備抄底納指",
+        "科技新報：大賣空本尊貝瑞暫轉多  出清那指賣權、留 25% 現金",
+        "MoneyDJ理財網：大賣空本尊貝瑞暫轉多 出清那指賣權、留25%現金"
       ],
       "media_count": 3,
       "links": [
         {
           "source": "自由時報",
-          "title": "臺灣享最優待遇！美301稅率15％不疊加 蘭花仍0關稅豁免清單",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5653675"
+          "title": "「大賣空」貝瑞罕見轉多！空單幾乎清零 握25％現金準備抄底納指",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5653649"
         },
         {
-          "source": "財訊",
-          "title": "美國301調查報告出爐、臺灣關稅建議稅率為「15％不疊加」 半導體列入擬議豁免商品",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLREI0b3FQbVpkM0RMZVlSMEVHRk9Hb3JsRXIzRThRNVhFbnh0Q283ME1vUGRCTzRPUXJYeFlUTVpmc1c1MTQwTlAzMzd1N1ZmNVZQd2FldDh1amNCekt1djNfM01JMm9SZzlBaWx3c2dXOW5hWFRuN0I0WQ?oc=5"
+          "source": "科技新報",
+          "title": "大賣空本尊貝瑞暫轉多  出清那指賣權、留 25% 現金",
+          "url": "https://finance.technews.tw/2026/11/26/michael-burry-exits-nasdaq-100-put-options/"
         },
         {
-          "source": "ETtoday",
-          "title": "臺灣獲「15%不疊加」最低稅率　2232個豁免品項比ART還多！",
-          "url": "https://www.ettoday.net/news/20261126/3278826.htm"
+          "source": "MoneyDJ理財網",
+          "title": "大賣空本尊貝瑞暫轉多 出清那指賣權、留25%現金",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTzFuMnZXTm80Y29JZ3puX0hnN3VJN1JtUllKUGx0WlBnR0xucWdjWVpnRFFTZFJyNVBKdjBUbVlxc0NIcEp0V0t6OThJenBaM01hRkp3NUVkUzhGYzhHZS00enk0NzlNX0FvMzQ1Y3dOcWpEa3psTXhYLWxKbXR3SVVlWGtDZHZNRnhjbGVpclZOUQ?oc=5"
         }
       ]
     },
@@ -255,6 +255,33 @@
   "global": [
     {
       "rank": 1,
+      "title": "SpaceX 獲得 FCC 批准部署 100 萬顆軌道資料中心衛星",
+      "summary": [
+        "CNBC：SpaceX 獲得 FCC 批准部署 100 萬顆軌道資料中心衛星",
+        "Ars Technica：FCC已授權SpaceX部署100萬顆衛星",
+        "TechCrunch：FCC 批准 SpaceX 將人工智慧資料中心送入太空的計劃"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "SpaceX 獲得 FCC 批准部署 100 萬顆軌道資料中心衛星",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "FCC已授權SpaceX部署100萬顆衛星",
+          "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "FCC 批准 SpaceX 將人工智慧資料中心送入太空的計劃",
+          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "標準普爾表示可能因治理擔憂而下調英偉達評級",
       "summary": [
         "Bloomberg Tech：標準普爾表示可能因治理擔憂而下調英偉達評級",
@@ -281,7 +308,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
       "summary": [
         "Investing.com：SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
@@ -308,7 +335,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Palo Alto Networks 前經理指控會計欺詐",
       "summary": [
         "Bloomberg Tech：Palo Alto Networks 前經理指控會計欺詐",
@@ -335,7 +362,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "梅西百貨因惡劣天氣延後感恩節遊行",
       "summary": [
         "CNBC：梅西百貨因惡劣天氣延後感恩節遊行",
@@ -362,7 +389,28 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "簡訊：韓國央行上調基準利率25個基點至3.25%",
+      "summary": [
+        "韓聯社：簡訊：韓國央行上調基準利率25個基點至3.25%",
+        "Bloomberg Markets：韓國央行將關鍵利率上調至 3.25%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "簡訊：韓國央行上調基準利率25個基點至3.25%",
+          "url": "https://cn.yna.co.kr/view/ACK20261126000800881"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "韓國央行將關鍵利率上調至 3.25%",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-26/bok-hikes-key-rate-to-3-25-video"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
       "summary": [
         "Investing.com：馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
@@ -379,48 +427,6 @@
           "source": "Bloomberg Tech",
           "title": "馬斯克稱每個美國孩子可以獲得兩份 SpaceX 股票，承諾加倍",
           "url": "https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "SpaceX 獲得政府批准啟動太空資料中心",
-      "summary": [
-        "Bloomberg Tech：SpaceX 獲得政府批准啟動太空資料中心",
-        "TechCrunch：FCC 批准 SpaceX 將人工智慧資料中心送入太空的計劃"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "SpaceX 獲得政府批准啟動太空資料中心",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "FCC 批准 SpaceX 將人工智慧資料中心送入太空的計劃",
-          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "SpaceX 獲得 FCC 批准部署 100 萬顆軌道資料中心衛星",
-      "summary": [
-        "CNBC：SpaceX 獲得 FCC 批准部署 100 萬顆軌道資料中心衛星",
-        "Ars Technica：FCC已授權SpaceX部署100萬顆衛星"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "SpaceX 獲得 FCC 批准部署 100 萬顆軌道資料中心衛星",
-          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "FCC已授權SpaceX部署100萬顆衛星",
-          "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
         }
       ]
     },
