@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 00:26",
+  "updated_at": "2026-11-27 00:56",
   "taiwan": [
     {
       "rank": 1,
@@ -66,69 +66,6 @@
     },
     {
       "rank": 4,
-      "title": "小心手機被奪舍！假追劇App藏木馬遙控網銀 百人受害財損逾千萬",
-      "summary": [
-        "自由時報：小心手機被奪舍！假追劇App藏木馬遙控網銀 百人受害財損逾千萬",
-        "關鍵評論網：假追劇App藏木馬遙控手機盜轉網銀存款， iPhone使用者也需留意"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "小心手機被奪舍！假追劇App藏木馬遙控網銀 百人受害財損逾千萬",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5653959"
-        },
-        {
-          "source": "關鍵評論網",
-          "title": "假追劇App藏木馬遙控手機盜轉網銀存款， iPhone使用者也需留意",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZcW11VEhMMDk0NUdXX09SdlRZMHRHQVhuZmxhajlrU1RiU2w1MGlkcnRnTk1nRHNGSTc1bG5FNVgtNUNtSkhXVE5FOFhFVFZieGVhOA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "AI 金童基金 Q3 慘虧 65%  預言 2027 恐是最後正常年",
-      "summary": [
-        "科技新報：AI 金童基金 Q3 慘虧 65%  預言 2027 恐是最後正常年",
-        "MoneyDJ理財網：AI金童基金Q3慘虧65% 預言2027恐是最後正常年- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "AI 金童基金 Q3 慘虧 65%  預言 2027 恐是最後正常年",
-          "url": "https://finance.technews.tw/2026/11/26/aschenbrenners-situational-awareness-tells-investors-it-lost-65-percent-in-third-quarter/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "AI金童基金Q3慘虧65% 預言2027恐是最後正常年- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQODBVam9pZGx1QURRMmE3clJvbmU3TWtMbHpudHBRVmxXUV9sQnk4SXpHVmlNOS1IMkQ0NWZhRC1uNU5qY0IwZ2RJdy1ORUhBSEFOMC1iRUlZbmJ2WVFuaFdEVWJLLUNFWGwzRExhTjFCYkEtMW54Z0h0cW1rMGxqQW1rQ0c0V1p5RDZEdTJ4cGRmZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "埃及油罐車撞車爆炸引發大火　至少31死、21傷",
-      "summary": [
-        "經濟日報：埃及油罐車撞車爆炸引發大火　至少31死、21傷",
-        "自由時報：埃及油罐車翻覆大火致31死15傷 巨大火球與濃密黑煙駭人"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "埃及油罐車撞車爆炸引發大火　至少31死、21傷",
-          "url": "https://money.udn.com/money/story/5599/9903333"
-        },
-        {
-          "source": "自由時報",
-          "title": "埃及油罐車翻覆大火致31死15傷 巨大火球與濃密黑煙駭人",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654276"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "CBS：中資美企獲輝達高階晶片　出口管制漏洞浮現",
       "summary": [
         "經濟日報：CBS：中資美企獲輝達高階晶片　出口管制漏洞浮現",
@@ -149,7 +86,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "黑豹旗／扳倒去年亞軍再退西苑！臺南海事首闖4強寫校史最佳成績",
       "summary": [
         "ETtoday：黑豹旗／扳倒去年亞軍再退西苑！臺南海事首闖4強寫校史最佳成績",
@@ -170,7 +107,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "駭客入侵1Password員工GitHub帳號竊走公司原始碼，植入惡意程式碼下載客戶資料",
       "summary": [
         "iThome：駭客入侵1Password員工GitHub帳號竊走公司原始碼，植入惡意程式碼下載客戶資料",
@@ -191,7 +128,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "調查：歐洲半數工企陷財務壓力　370萬職位恐不保",
       "summary": [
         "經濟日報：調查：歐洲半數工企陷財務壓力　370萬職位恐不保",
@@ -208,6 +145,69 @@
           "source": "科技新報",
           "title": "調查：歐洲半數工企陷財務壓力，370 萬職位恐不保",
           "url": "https://technews.tw/2026/11/26/half-of-european-industrial-companies-under-serious-financial-stress/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "AI 逆風延燒  OpenAI 明年 6 月前 IPO 機率跌至 28%",
+      "summary": [
+        "科技新報：AI 逆風延燒  OpenAI 明年 6 月前 IPO 機率跌至 28%",
+        "MoneyDJ理財網：AI逆風延燒 OpenAI明年6月前IPO機率跌至28%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "AI 逆風延燒  OpenAI 明年 6 月前 IPO 機率跌至 28%",
+          "url": "https://finance.technews.tw/2026/11/26/openai-ipo-odds-by-june-next-year-fall-to-28/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "AI逆風延燒 OpenAI明年6月前IPO機率跌至28%",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeE1qbGV1T3MxLXhoaTdicGIwTmdJekRsSmFVZ0lBS2Q5bW9CdXlsZWpXRDVhSl82TUV1QmxNM21NWGdhTVBZY3p1Rm9QRHdrNS1hM0hxNlBoRTQ5bUdXRU1VZ0JwN2tGYkJKejkwOUlhbldIeTlrT1JkREhOdFVxU19xSXNVTkpGcm43d3N4Y3pidw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "快訊》疊加最高破40％！川普拋新關稅臺灣等14個經濟體一次看- 國際",
+      "summary": [
+        "中時新聞：快訊》疊加最高破40％！川普拋新關稅臺灣等14個經濟體一次看- 國際",
+        "商業周刊：川普關稅捲土重來！臺灣拿最低15％、半導體暫躲過，為何還不能鬆口氣？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "快訊》疊加最高破40％！川普拋新關稅臺灣等14個經濟體一次看- 國際",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZMXdLMDFWM1NKZFlZaUFGZnRsWGhCSnZPMEdYSnA3dXh1bVZRbjFUc01yQ2laaTF3aG9sdXdMemhpaUUxdkw0M2thR2s2Y1JlSVBjeGVTSnBPQi1reE93QVB4NVo5dFdnbmEwaXh3?oc=5"
+        },
+        {
+          "source": "商業周刊",
+          "title": "川普關稅捲土重來！臺灣拿最低15％、半導體暫躲過，為何還不能鬆口氣？",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55ZmdxMFhvejF0ZVBON3NjN0xmU0t4SHRXanlBSV8tMWU0WjRndHFnYVBSZE5LZ3k1RUt1UFdJZkpMRFl5TUNZZzFYVXVobndpN0ZYYURoUWNfazJJT3JqVzBR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美 AI 資料中心擴張受阻  至少 4 州喊停機率達 57%",
+      "summary": [
+        "科技新報：美 AI 資料中心擴張受阻  至少 4 州喊停機率達 57%",
+        "MoneyDJ理財網：美AI資料中心擴張受阻 至少4州喊停機率達57%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "美 AI 資料中心擴張受阻  至少 4 州喊停機率達 57%",
+          "url": "https://technews.tw/2026/11/26/kalshi-traders-say-state-data-center-moratoriums-are-more-likely-than-not/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "美AI資料中心擴張受阻 至少4州喊停機率達57%",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkgyZ3BMcmhpNEhLOERfWHFTNXpDd2drUTY1Um1mX1ZvcjlLZWRBcnpKNUtrblpCT3BkSFFxWlAxLXBNNlhBRTYzZzFjaXZqdnNUYXBBM1VCaGZvaEVNUGUxdzN2T29OT0Fmbk9fdjAzbGw4cXVUNXhfUTR5dVBNSDB2WUREWnlCVkdjZmlHVlM1dw?oc=5"
         }
       ]
     }
