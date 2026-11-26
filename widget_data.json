@@ -1,21 +1,16 @@
 {
-  "updated_at": "2026-11-26 20:26",
+  "updated_at": "2026-11-26 20:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "美批准 SpaceX 部署 100 萬顆衛星，建太空資料中心",
+      "title": "史上首次！SpaceX獲準發射100萬顆衛星 2040年前打造太空AI帝國",
       "summary": [
-        "科技新報：美批准 SpaceX 部署 100 萬顆衛星，建太空資料中心",
         "自由時報：史上首次！SpaceX獲準發射100萬顆衛星 2040年前打造太空AI帝國",
-        "鉅亨網：馬斯克太空AI夢邁出一大步！SpaceX獲有條件核准發射最多100萬顆衛星"
+        "鉅亨網：馬斯克太空AI夢邁出一大步！SpaceX獲有條件核准發射最多100萬顆衛星",
+        "iThome：SpaceX取得100萬顆衛星部署許可，以打造太空資料中心"
       ],
       "media_count": 5,
       "links": [
-        {
-          "source": "科技新報",
-          "title": "美批准 SpaceX 部署 100 萬顆衛星，建太空資料中心",
-          "url": "https://technews.tw/2026/11/26/us-authorizes-spacex-to-deploy-1-million-satellites-for-data-centers-in-space/"
-        },
         {
           "source": "自由時報",
           "title": "史上首次！SpaceX獲準發射100萬顆衛星 2040年前打造太空AI帝國",
@@ -35,38 +30,16 @@
           "source": "數位時代",
           "title": "搶攻AI算力！SpaceX獲FCC核准百萬顆太空資料中心衛星，最晚2033年須開始部署",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mZ2ROYjc0NGpWWndFVE9pc2w2VGdnOElVNFRSbEhCdUEzRktsa1AwSWZmMXQyUzZjYm9iT1hLVHhYVWlaVTVFenpTZ1ZlZXRVUTRkLU1KSEFiX2tFVGVLWHBXYnNickVzVkZiQjVRdzdEOElmTXc?oc=5"
+        },
+        {
+          "source": "科技報橘",
+          "title": "FCC 首度放行太空資料中心：SpaceX 獲準部署百萬顆低軌 AI 衛星，規模達目前全球衛星總數近 60 倍",
+          "url": "https://techorange.com/2026/11/26/fcc-approves-spacex-orbital-datacenter/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "「大賣空」貝瑞罕見轉多！空單幾乎清零 握25％現金準備抄底納指",
-      "summary": [
-        "自由時報：「大賣空」貝瑞罕見轉多！空單幾乎清零 握25％現金準備抄底納指",
-        "科技新報：大賣空本尊貝瑞暫轉多  出清那指賣權、留 25% 現金",
-        "MoneyDJ理財網：大賣空本尊貝瑞暫轉多 出清那指賣權、留25%現金"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "「大賣空」貝瑞罕見轉多！空單幾乎清零 握25％現金準備抄底納指",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5653649"
-        },
-        {
-          "source": "科技新報",
-          "title": "大賣空本尊貝瑞暫轉多  出清那指賣權、留 25% 現金",
-          "url": "https://finance.technews.tw/2026/11/26/michael-burry-exits-nasdaq-100-put-options/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "大賣空本尊貝瑞暫轉多 出清那指賣權、留25%現金",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTzFuMnZXTm80Y29JZ3puX0hnN3VJN1JtUllKUGx0WlBnR0xucWdjWVpnRFFTZFJyNVBKdjBUbVlxc0NIcEp0V0t6OThJenBaM01hRkp3NUVkUzhGYzhHZS00enk0NzlNX0FvMzQ1Y3dOcWpEa3psTXhYLWxKbXR3SVVlWGtDZHZNRnhjbGVpclZOUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "美國301調查報告出爐、臺灣關稅建議稅率為「15％不疊加」 半導體列入擬議豁免商品",
       "summary": [
         "財訊：美國301調查報告出爐、臺灣關稅建議稅率為「15％不疊加」 半導體列入擬議豁免商品",
@@ -93,7 +66,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "AI泡沫破恐比網路泡沫更傷- 日報",
       "summary": [
         "工商時報：AI泡沫破恐比網路泡沫更傷- 日報",
@@ -114,28 +87,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "取消選前市民之夜，沈伯洋這次真的開大招了！",
-      "summary": [
-        "關鍵評論網：取消選前市民之夜，沈伯洋這次真的開大招了！",
-        "自由時報：沈伯洋取消選前之夜 柯文哲：一晚拆東西是不是更擾民？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "關鍵評論網",
-          "title": "取消選前市民之夜，沈伯洋這次真的開大招了！",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtVDFJQkZyTDVRaHNDQ3h2YVpWLWhhVHJaOUJfRFFVYWlPYzFJbmhBOHlBLW1LSnJoNy1QZE95ZFI4Z3BpV2ZvQ2VsQ2lHczM0cFNvVA?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "沈伯洋取消選前之夜 柯文哲：一晚拆東西是不是更擾民？",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653788"
-        }
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
       "summary": [
         "經濟日報：大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
@@ -156,7 +108,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
       "summary": [
         "經濟日報：輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
@@ -177,7 +129,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
       "summary": [
         "自由時報：泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
@@ -198,44 +150,86 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "臺股有救了？日經飆逾1100點 韓股漲逾2.5％",
+      "rank": 7,
+      "title": "屏東長治工廠爆炸大火！疑有化學品燃燒 歷5小時撲滅",
       "summary": [
-        "自由時報：臺股有救了？日經飆逾1100點 韓股漲逾2.5％",
-        "經濟日報：南韓升息至兩年新高！晶片榮景推升通膨 韓股早盤仍漲逾2%"
+        "自由時報：屏東長治工廠爆炸大火！疑有化學品燃燒 歷5小時撲滅",
+        "ETtoday：屏東長治鄉工廠大火！爆炸聲頻傳　恐怖火煙竄天消防急灌救"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "臺股有救了？日經飆逾1100點 韓股漲逾2.5％",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5653650"
+          "title": "屏東長治工廠爆炸大火！疑有化學品燃燒 歷5小時撲滅",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5653708"
         },
         {
-          "source": "經濟日報",
-          "title": "南韓升息至兩年新高！晶片榮景推升通膨 韓股早盤仍漲逾2%",
-          "url": "https://money.udn.com/money/story/5599/9902718"
+          "source": "ETtoday",
+          "title": "屏東長治鄉工廠大火！爆炸聲頻傳　恐怖火煙竄天消防急灌救",
+          "url": "https://www.ettoday.net/news/20261126/3278671.htm"
         }
       ]
     },
     {
-      "rank": 10,
-      "title": "黃仁勳回鍋引分歧 標普列降級觀察、穆迪維持評等",
+      "rank": 8,
+      "title": "AI 舉債疑慮未消  甲骨文長債殖利率升至 9%",
       "summary": [
-        "經濟日報：黃仁勳回鍋引分歧 標普列降級觀察、穆迪維持評等",
-        "科技新報：黃仁勳回鍋引分歧，標普列降級觀察、穆迪維持評等"
+        "科技新報：AI 舉債疑慮未消  甲骨文長債殖利率升至 9%",
+        "MoneyDJ理財網：AI舉債疑慮未消 甲骨文長債殖利率升至9%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "AI 舉債疑慮未消  甲骨文長債殖利率升至 9%",
+          "url": "https://finance.technews.tw/2026/11/26/oracle-bonds-yield-a-towering-9-on-debt-and-data-center-concerns/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "AI舉債疑慮未消 甲骨文長債殖利率升至9%",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcjFmOTZyNjJQdElvUlhvSHVldUl1eEZJTmE1bFdfU0ZKTDl6dENfNlZyc2FtTHBGX3k1TE9PeUdVbl9NYkV6TG5SbjlZV1MwMVZNSWhBNjNPODdUWkpDeDY2aGdPUnAwU1JzRVNQUnMyS09oM2JpdW5URk5odFd1YzlCN2xPMkpYVmJFQmVKcS1Vdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "美經濟持續溫和成長　聯準會褐皮書示警通膨居高不下",
+      "summary": [
+        "經濟日報：美經濟持續溫和成長　聯準會褐皮書示警通膨居高不下",
+        "科技新報：美經濟持續溫和成長，聯準會褐皮書示警通膨居高不下"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "經濟日報",
-          "title": "黃仁勳回鍋引分歧 標普列降級觀察、穆迪維持評等",
-          "url": "https://money.udn.com/money/story/5599/9902625"
+          "title": "美經濟持續溫和成長　聯準會褐皮書示警通膨居高不下",
+          "url": "https://money.udn.com/money/story/5599/9902691"
         },
         {
           "source": "科技新報",
-          "title": "黃仁勳回鍋引分歧，標普列降級觀察、穆迪維持評等",
-          "url": "https://finance.technews.tw/2026/11/26/sp-global-places-nvidia-rating-on-creditwatch-negative-on-rising-management-and-governance-risks/"
+          "title": "美經濟持續溫和成長，聯準會褐皮書示警通膨居高不下",
+          "url": "https://finance.technews.tw/2026/11/26/fed-survey-shows-continued-economic-growth/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "焦點股》華通：SpaceX獲準發射100萬顆衛星    股價直奔漲停",
+      "summary": [
+        "自由時報：焦點股》華通：SpaceX獲準發射100萬顆衛星    股價直奔漲停",
+        "今周刊：華通、昇達科、啟碁、穩懋…低軌衛星概念股全噴發，原來是SpaceX百萬顆衛星利多吃補、連外資都買超了"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "焦點股》華通：SpaceX獲準發射100萬顆衛星    股價直奔漲停",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5653754"
+        },
+        {
+          "source": "今周刊",
+          "title": "華通、昇達科、啟碁、穩懋…低軌衛星概念股全噴發，原來是SpaceX百萬顆衛星利多吃補、連外資都買超了",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQendmVXh3UlNwMno3d1pyYXQ2d0hBY1RGZGVoWXJ6MGEzc0RzM1NWYS1ZczZQTzY1WEkwa0JXdEo2cWlzTmpGTEd0SGFkNm4zUjdKY0Y4dG8tTjRWaXA2OEF6M19lRzQ4WUhZYlQ0X21VNVdiTnQtaW9GSTdhNmkwbA?oc=5"
         }
       ]
     }
@@ -327,27 +321,6 @@
     },
     {
       "rank": 5,
-      "title": "警告財務「危急」後北歐大西洋航班暫停",
-      "summary": [
-        "CNBC：警告財務「危急」後北歐大西洋航班暫停",
-        "Investing.com：挪威大西洋航空因破產風險暫停航班"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "警告財務「危急」後北歐大西洋航班暫停",
-          "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "挪威大西洋航空因破產風險暫停航班",
-          "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-suspends-flights-amid-bankruptcy-risk-93CH-5052182"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "美國晶片限制亞洲資料中心融資",
       "summary": [
         "Bloomberg Tech：美國晶片限制亞洲資料中心融資",
@@ -368,7 +341,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
       "summary": [
         "Investing.com：美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
@@ -389,7 +362,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
       "summary": [
         "BBC中文：美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
@@ -410,7 +383,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
       "summary": [
         "Financial Times：中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
@@ -431,7 +404,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
       "summary": [
         "Investing.com：巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
@@ -448,6 +421,27 @@
           "source": "Financial Times",
           "title": "巴布科克獲得創紀錄的 87 億英鎊合約以支援皇家海軍潛艇",
           "url": "https://www.ft.com/content/b6db41b9-5af1-4105-a063-7dbf40e7fb2c?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Marc Levinson 講述 UPS 如何創造現代物流",
+      "summary": [
+        "Bloomberg Markets：Marc Levinson 講述 UPS 如何創造現代物流",
+        "Bloomberg Tech：Marc Levinson 講述 UPS 如何創造現代物流"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Marc Levinson 講述 UPS 如何創造現代物流",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Marc Levinson 講述 UPS 如何創造現代物流",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics-video"
         }
       ]
     }
