@@ -1,56 +1,8 @@
 {
-  "updated_at": "2026-11-26 21:56",
+  "updated_at": "2026-11-26 22:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "美國301調查報告出爐、臺灣關稅建議稅率為「15％不疊加」 半導體列入擬議豁免商品",
-      "summary": [
-        "財訊：美國301調查報告出爐、臺灣關稅建議稅率為「15％不疊加」 半導體列入擬議豁免商品",
-        "ETtoday：臺灣獲「15%不疊加」最低稅率　2232個豁免品項比ART還多！",
-        "關鍵評論網：美國301調查點名臺灣「產能過剩」，擬課最高15%關稅、半導體列入豁免"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "財訊",
-          "title": "美國301調查報告出爐、臺灣關稅建議稅率為「15％不疊加」 半導體列入擬議豁免商品",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLREI0b3FQbVpkM0RMZVlSMEVHRk9Hb3JsRXIzRThRNVhFbnh0Q283ME1vUGRCTzRPUXJYeFlUTVpmc1c1MTQwTlAzMzd1N1ZmNVZQd2FldDh1amNCekt1djNfM01JMm9SZzlBaWx3c2dXOW5hWFRuN0I0WQ?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "臺灣獲「15%不疊加」最低稅率　2232個豁免品項比ART還多！",
-          "url": "https://www.ettoday.net/news/20261126/3278826.htm"
-        },
-        {
-          "source": "關鍵評論網",
-          "title": "美國301調查點名臺灣「產能過剩」，擬課最高15%關稅、半導體列入豁免",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGek5KUXJjQU9XNzNkZjNKaGF0RENNZU93LWd0a29RV1ltTTRfNno5eU13c3NOaGxZWXN2Sm5ESE5yQ20xTHBOejMzYUc0VzN1X3B4WQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "迴龍地跨桃園、新北生活圈 黃世傑盼串聯3線捷運",
-      "summary": [
-        "自由時報：迴龍地跨桃園、新北生活圈 黃世傑盼串聯3線捷運",
-        "公視新聞：新北選戰蘇巧慧一天車掃7區 李四川請朱立倫、侯友宜陪掃街"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "迴龍地跨桃園、新北生活圈 黃世傑盼串聯3線捷運",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653801"
-        },
-        {
-          "source": "公視新聞",
-          "title": "新北選戰蘇巧慧一天車掃7區 李四川請朱立倫、侯友宜陪掃街",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13Ry11QTFaZVpJZG4wcHB6bXJLT3pCV3NhMVg2cnNwdjZfeDh3bjNBeF9NcXFuQks3ZkxLck9OcXZ3alJ1LUpNTWJwSzRTVWM?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
       "summary": [
         "經濟日報：大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
@@ -71,7 +23,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
       "summary": [
         "經濟日報：輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
@@ -92,7 +44,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
       "summary": [
         "自由時報：泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
@@ -113,7 +65,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "沈伯洋取消選前之夜 柯文哲：一晚拆東西是不是更擾民？",
       "summary": [
         "自由時報：沈伯洋取消選前之夜 柯文哲：一晚拆東西是不是更擾民？",
@@ -134,7 +86,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "301 臺灣稅率估 15%，鄭麗君：等同美 FTA 國優於中國東南亞",
       "summary": [
         "科技新報：301 臺灣稅率估 15%，鄭麗君：等同美 FTA 國優於中國東南亞",
@@ -155,28 +107,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "金正恩視察北韓核武設施 強調應擴大發射核武能力",
-      "summary": [
-        "自由時報：金正恩視察北韓核武設施 強調應擴大發射核武能力",
-        "經濟日報：金正恩促擴大戰術核武部署　稱核材料產能擴充中"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "金正恩視察北韓核武設施 強調應擴大發射核武能力",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5653831"
-        },
-        {
-          "source": "經濟日報",
-          "title": "金正恩促擴大戰術核武部署　稱核材料產能擴充中",
-          "url": "https://money.udn.com/money/story/5599/9903018"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "大賣空本尊貝瑞暫轉多  出清那指賣權、留 25% 現金",
       "summary": [
         "科技新報：大賣空本尊貝瑞暫轉多  出清那指賣權、留 25% 現金",
@@ -197,7 +128,28 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "title": "金正恩促擴大戰術核武部署　稱核材料產能擴充中",
+      "summary": [
+        "經濟日報：金正恩促擴大戰術核武部署　稱核材料產能擴充中",
+        "公視新聞：20261126 8點新世界 完整版（無網路版權內容除外）｜金正恩要求擴大戰術核武部署，宣稱核材料產能正穩定擴充"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "金正恩促擴大戰術核武部署　稱核材料產能擴充中",
+          "url": "https://money.udn.com/money/story/5599/9903018"
+        },
+        {
+          "source": "公視新聞",
+          "title": "20261126 8點新世界 完整版（無網路版權內容除外）｜金正恩要求擴大戰術核武部署，宣稱核材料產能正穩定擴充",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zQXJ1S0RRVkJIVWNBUXNSZFNoTDB3THpjcFVHenRWVFhKNkpsZm1PT3FpZlNYeEdfY1BqS0xZdjVaaHBBQTE4aldWaw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "沈伯洋取消選前之夜 民眾黨團酸：真是奢侈的煩惱",
       "summary": [
         "自由時報：沈伯洋取消選前之夜 民眾黨團酸：真是奢侈的煩惱",
@@ -216,38 +168,53 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oeEY1VW9sdW5WMDhiUHctbkxVR3Bkc3VyZUdDWnoxT3ZON0VRR25mb2Z3bm55Zm8wa1RTVlQ2VHZsWjBQdzhZX3JTX0dDUVQzSkVXWUpCa1hpNTlYYWhMbHRnd1BuUlJCaEdYaFF3?oc=5"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "泰味國際委外雲端發票平臺遭異常存取，290人受影響",
+      "summary": [
+        "iThome：泰味國際委外雲端發票平臺遭異常存取，290人受影響",
+        "公開資訊觀測站重訊：泰味國際委外雲端發票平臺遭異常存取，290人受影響"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "泰味國際委外雲端發票平臺遭異常存取，290人受影響",
+          "url": "https://www.ithome.com.tw/news/180806"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "泰味國際委外雲端發票平臺遭異常存取，290人受影響",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjaTA1S004YTAzZ1NyRkJBNDI4R001bkdWdzZHNXVxb3ByUFJ1OVY1ZVZuX195LUVkb0RfSTh5U2U1aUxNWXJ6RXVTdzd0Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普力挺黃仁勳回任輝達執行長　司法部證實無國安威脅",
+      "summary": [
+        "經濟日報：川普力挺黃仁勳回任輝達執行長　司法部證實無國安威脅",
+        "科技新報：川普力挺黃仁勳回任輝達執行長，司法部證實無國安威脅"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "川普力挺黃仁勳回任輝達執行長　司法部證實無國安威脅",
+          "url": "https://money.udn.com/money/story/5599/9903053"
+        },
+        {
+          "source": "科技新報",
+          "title": "川普力挺黃仁勳回任輝達執行長，司法部證實無國安威脅",
+          "url": "https://technews.tw/2026/11/26/trump-backs-jensen-huang-nvidia-ceo-doj-no-security-threat/"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "詳訊：韓國央行上調基準利率25個基點至3.25%",
-      "summary": [
-        "韓聯社：詳訊：韓國央行上調基準利率25個基點至3.25%",
-        "Bloomberg Markets：韓國央行將關鍵利率上調至 3.25%",
-        "Nikkei Asia：經濟強勁背景下韓國央行升息至3.25%"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "韓聯社",
-          "title": "詳訊：韓國央行上調基準利率25個基點至3.25%",
-          "url": "https://cn.yna.co.kr/view/ACK20261126001600881"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "韓國央行將關鍵利率上調至 3.25%",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-26/bok-hikes-key-rate-to-3-25-video"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "經濟強勁背景下韓國央行升息至3.25%",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUjNLNk9pYThsbWZkbV9UM1VNVFRkbGtMQXZjMlB5RmUzUWtINW5zVFpWbzM0WUZremdmblZGQmV1dHdMVDY1VnpqekhtZjF2RTVvY3RUdkIzTTJXU0l5SFJCWHQ2M0IyUU5WS0FFSFAyOGNHaFpxd1M1WHlRb0x3aFFDYldKRFYtOXNLckhGMWVRaDFTN0NqUXBVa2o5UUF5NmEzQ01uajNXZXJoVmJPZkRoNA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
       "summary": [
         "Investing.com：馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
@@ -268,7 +235,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "英偉達停止向 4 個東南亞國家運送人工智慧伺服器",
       "summary": [
         "Investing.com：英偉達停止向 4 個東南亞國家運送人工智慧伺服器",
@@ -289,7 +256,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "裕信銀行掃清了收購德國商業銀行的最後障礙",
       "summary": [
         "Investing.com：裕信銀行掃清了收購德國商業銀行的最後障礙",
@@ -310,7 +277,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "美國晶片限制亞洲資料中心融資",
       "summary": [
         "Bloomberg Tech：美國晶片限制亞洲資料中心融資",
@@ -331,7 +298,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
       "summary": [
         "Investing.com：美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
@@ -348,6 +315,27 @@
           "source": "CNBC",
           "title": "法官暫時阻止 FCC 對迪士尼旗下 ABC 電視臺的提前更新程式",
           "url": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "韓國央行將關鍵利率上調至 3.25%",
+      "summary": [
+        "Bloomberg Markets：韓國央行將關鍵利率上調至 3.25%",
+        "Nikkei Asia：經濟強勁背景下韓國央行升息至3.25%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "韓國央行將關鍵利率上調至 3.25%",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-26/bok-hikes-key-rate-to-3-25-video"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "經濟強勁背景下韓國央行升息至3.25%",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUjNLNk9pYThsbWZkbV9UM1VNVFRkbGtMQXZjMlB5RmUzUWtINW5zVFpWbzM0WUZremdmblZGQmV1dHdMVDY1VnpqekhtZjF2RTVvY3RUdkIzTTJXU0l5SFJCWHQ2M0IyUU5WS0FFSFAyOGNHaFpxd1M1WHlRb0x3aFFDYldKRFYtOXNLckhGMWVRaDFTN0NqUXBVa2o5UUF5NmEzQ01uajNXZXJoVmJPZkRoNA?oc=5"
         }
       ]
     },
