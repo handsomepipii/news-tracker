@@ -1,26 +1,16 @@
 {
-  "updated_at": "2026-11-26 20:56",
+  "updated_at": "2026-11-26 21:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "史上首次！SpaceX獲準發射100萬顆衛星 2040年前打造太空AI帝國",
+      "title": "SpaceX取得100萬顆衛星部署許可，以打造太空資料中心",
       "summary": [
-        "自由時報：史上首次！SpaceX獲準發射100萬顆衛星 2040年前打造太空AI帝國",
-        "鉅亨網：馬斯克太空AI夢邁出一大步！SpaceX獲有條件核准發射最多100萬顆衛星",
-        "iThome：SpaceX取得100萬顆衛星部署許可，以打造太空資料中心"
+        "iThome：SpaceX取得100萬顆衛星部署許可，以打造太空資料中心",
+        "數位時代：搶攻AI算力！SpaceX獲FCC核准百萬顆太空資料中心衛星，最晚2033年須開始部署",
+        "科技報橘：FCC 首度放行太空資料中心：SpaceX 獲準部署百萬顆低軌 AI 衛星，規模達目前全球衛星總數近 60 倍"
       ],
-      "media_count": 5,
+      "media_count": 3,
       "links": [
-        {
-          "source": "自由時報",
-          "title": "史上首次！SpaceX獲準發射100萬顆衛星 2040年前打造太空AI帝國",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5653696"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "馬斯克太空AI夢邁出一大步！SpaceX獲有條件核准發射最多100萬顆衛星",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BRldUVWZlODl1VGJrVE01b2RtZG5XTFlBdUdnWlFvYkRZOEN1TnJncnJCcWlTNzIwdllJeUpVYzRLTElfNjRldHk2UmJWNE0?oc=5"
-        },
         {
           "source": "iThome",
           "title": "SpaceX取得100萬顆衛星部署許可，以打造太空資料中心",
@@ -67,27 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "AI泡沫破恐比網路泡沫更傷- 日報",
-      "summary": [
-        "工商時報：AI泡沫破恐比網路泡沫更傷- 日報",
-        "風傳媒：AI泡沫如果破裂，經濟會有多慘？最可怕的不是股災，學者警告連鎖危機"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "AI泡沫破恐比網路泡沫更傷- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoS08zRHpjUWduVTJhUkNfQXFvaC1DcHZsZ3BjaXFYVFRiVkNLSXRoN0ZkcHROSlRFRmgxTDhyV0VPckRoc3ZLZFlaOGJMdElqUGV3clFoTWIzT0g2M2NV?oc=5"
-        },
-        {
-          "source": "風傳媒",
-          "title": "AI泡沫如果破裂，經濟會有多慘？最可怕的不是股災，學者警告連鎖危機",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWlE5VzdtYUdnUC1OUDNpUUtkVURpdDVTS0tTMDY4SGRiMk05Mk1JWk1QajlsU1NWQVVKZUtpYUgzV3BleHloUE9ieVJNdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
       "summary": [
         "經濟日報：大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
@@ -108,7 +77,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
       "summary": [
         "經濟日報：輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
@@ -129,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
       "summary": [
         "自由時報：泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
@@ -150,70 +119,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "屏東長治工廠爆炸大火！疑有化學品燃燒 歷5小時撲滅",
-      "summary": [
-        "自由時報：屏東長治工廠爆炸大火！疑有化學品燃燒 歷5小時撲滅",
-        "ETtoday：屏東長治鄉工廠大火！爆炸聲頻傳　恐怖火煙竄天消防急灌救"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "屏東長治工廠爆炸大火！疑有化學品燃燒 歷5小時撲滅",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5653708"
-        },
-        {
-          "source": "ETtoday",
-          "title": "屏東長治鄉工廠大火！爆炸聲頻傳　恐怖火煙竄天消防急灌救",
-          "url": "https://www.ettoday.net/news/20261126/3278671.htm"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "AI 舉債疑慮未消  甲骨文長債殖利率升至 9%",
-      "summary": [
-        "科技新報：AI 舉債疑慮未消  甲骨文長債殖利率升至 9%",
-        "MoneyDJ理財網：AI舉債疑慮未消 甲骨文長債殖利率升至9%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "AI 舉債疑慮未消  甲骨文長債殖利率升至 9%",
-          "url": "https://finance.technews.tw/2026/11/26/oracle-bonds-yield-a-towering-9-on-debt-and-data-center-concerns/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "AI舉債疑慮未消 甲骨文長債殖利率升至9%",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcjFmOTZyNjJQdElvUlhvSHVldUl1eEZJTmE1bFdfU0ZKTDl6dENfNlZyc2FtTHBGX3k1TE9PeUdVbl9NYkV6TG5SbjlZV1MwMVZNSWhBNjNPODdUWkpDeDY2aGdPUnAwU1JzRVNQUnMyS09oM2JpdW5URk5odFd1YzlCN2xPMkpYVmJFQmVKcS1Vdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "美經濟持續溫和成長　聯準會褐皮書示警通膨居高不下",
-      "summary": [
-        "經濟日報：美經濟持續溫和成長　聯準會褐皮書示警通膨居高不下",
-        "科技新報：美經濟持續溫和成長，聯準會褐皮書示警通膨居高不下"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美經濟持續溫和成長　聯準會褐皮書示警通膨居高不下",
-          "url": "https://money.udn.com/money/story/5599/9902691"
-        },
-        {
-          "source": "科技新報",
-          "title": "美經濟持續溫和成長，聯準會褐皮書示警通膨居高不下",
-          "url": "https://finance.technews.tw/2026/11/26/fed-survey-shows-continued-economic-growth/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 6,
       "title": "焦點股》華通：SpaceX獲準發射100萬顆衛星    股價直奔漲停",
       "summary": [
         "自由時報：焦點股》華通：SpaceX獲準發射100萬顆衛星    股價直奔漲停",
@@ -232,27 +138,117 @@
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQendmVXh3UlNwMno3d1pyYXQ2d0hBY1RGZGVoWXJ6MGEzc0RzM1NWYS1ZczZQTzY1WEkwa0JXdEo2cWlzTmpGTEd0SGFkNm4zUjdKY0Y4dG8tTjRWaXA2OEF6M19lRzQ4WUhZYlQ0X21VNVdiTnQtaW9GSTdhNmkwbA?oc=5"
         }
       ]
+    },
+    {
+      "rank": 7,
+      "title": "取消選前市民之夜，沈伯洋這次真的開大招了！",
+      "summary": [
+        "關鍵評論網：取消選前市民之夜，沈伯洋這次真的開大招了！",
+        "自由時報：沈伯洋取消選前之夜 民眾黨團酸：真是奢侈的煩惱"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "關鍵評論網",
+          "title": "取消選前市民之夜，沈伯洋這次真的開大招了！",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtVDFJQkZyTDVRaHNDQ3h2YVpWLWhhVHJaOUJfRFFVYWlPYzFJbmhBOHlBLW1LSnJoNy1QZE95ZFI4Z3BpV2ZvQ2VsQ2lHczM0cFNvVA?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "沈伯洋取消選前之夜 民眾黨團酸：真是奢侈的煩惱",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653877"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "沈伯洋取消選前之夜 柯文哲：一晚拆東西是不是更擾民？",
+      "summary": [
+        "自由時報：沈伯洋取消選前之夜 柯文哲：一晚拆東西是不是更擾民？",
+        "風傳媒：沈伯洋取消選前之夜「連夜拆舞臺」 柯文哲批莽撞：整晚拆東西更擾民 | 張庭維 | 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "沈伯洋取消選前之夜 柯文哲：一晚拆東西是不是更擾民？",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653788"
+        },
+        {
+          "source": "風傳媒",
+          "title": "沈伯洋取消選前之夜「連夜拆舞臺」 柯文哲批莽撞：整晚拆東西更擾民 | 張庭維 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NMGV1QkZtTU8wMHFVbnVNMWVuX0hja2RJZDJ3WVNyRnBncGZKSVY4aXM4RUp4QmxkOWJUaGlnQmpTTWN4MGlCcVpNREZtQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "301 臺灣稅率估 15%，鄭麗君：等同美 FTA 國優於中國東南亞",
+      "summary": [
+        "科技新報：301 臺灣稅率估 15%，鄭麗君：等同美 FTA 國優於中國東南亞",
+        "科技報橘：美 301 新關稅點名臺灣等 14 個經濟體，臺灣政府：有信心維持 15%、協議不重談"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "301 臺灣稅率估 15%，鄭麗君：等同美 FTA 國優於中國東南亞",
+          "url": "https://finance.technews.tw/2026/11/26/taiwan-301-tariff-rate-15-cheng-li-chun-equivalent-us-fta-superior-china-southeast-asia/"
+        },
+        {
+          "source": "科技報橘",
+          "title": "美 301 新關稅點名臺灣等 14 個經濟體，臺灣政府：有信心維持 15%、協議不重談",
+          "url": "https://techorange.com/2026/11/26/new-tariffs-14-trading-partners-fight-excess-factory-capacity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "金正恩視察北韓核武設施 強調應擴大發射核武能力",
+      "summary": [
+        "自由時報：金正恩視察北韓核武設施 強調應擴大發射核武能力",
+        "經濟日報：金正恩促擴大戰術核武部署　稱核材料產能擴充中"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "金正恩視察北韓核武設施 強調應擴大發射核武能力",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5653831"
+        },
+        {
+          "source": "經濟日報",
+          "title": "金正恩促擴大戰術核武部署　稱核材料產能擴充中",
+          "url": "https://money.udn.com/money/story/5599/9903018"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "簡訊：韓國央行上調基準利率25個基點至3.25%",
+      "title": "詳訊：韓國央行上調基準利率25個基點至3.25%",
       "summary": [
-        "韓聯社：簡訊：韓國央行上調基準利率25個基點至3.25%",
-        "Bloomberg Markets：韓國央行將關鍵利率上調至 3.25%"
+        "韓聯社：詳訊：韓國央行上調基準利率25個基點至3.25%",
+        "Bloomberg Markets：韓國央行將關鍵利率上調至 3.25%",
+        "Nikkei Asia：經濟強勁背景下韓國央行升息至3.25%"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "韓聯社",
-          "title": "簡訊：韓國央行上調基準利率25個基點至3.25%",
-          "url": "https://cn.yna.co.kr/view/ACK20261126000800881"
+          "title": "詳訊：韓國央行上調基準利率25個基點至3.25%",
+          "url": "https://cn.yna.co.kr/view/ACK20261126001600881"
         },
         {
           "source": "Bloomberg Markets",
           "title": "韓國央行將關鍵利率上調至 3.25%",
           "url": "https://www.bloomberg.com/news/videos/2026-11-26/bok-hikes-key-rate-to-3-25-video"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "經濟強勁背景下韓國央行升息至3.25%",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUjNLNk9pYThsbWZkbV9UM1VNVFRkbGtMQXZjMlB5RmUzUWtINW5zVFpWbzM0WUZremdmblZGQmV1dHdMVDY1VnpqekhtZjF2RTVvY3RUdkIzTTJXU0l5SFJCWHQ2M0IyUU5WS0FFSFAyOGNHaFpxd1M1WHlRb0x3aFFDYldKRFYtOXNLckhGMWVRaDFTN0NqUXBVa2o5UUF5NmEzQ01uajNXZXJoVmJPZkRoNA?oc=5"
         }
       ]
     },
