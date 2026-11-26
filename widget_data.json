@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 02:56",
+  "updated_at": "2026-11-27 03:26",
   "taiwan": [
     {
       "rank": 1,
@@ -87,27 +87,6 @@
     },
     {
       "rank": 5,
-      "title": "銅礦商 ETF 連跌 13 週、史上首見  反彈可期？",
-      "summary": [
-        "科技新報：銅礦商 ETF 連跌 13 週、史上首見  反彈可期？",
-        "MoneyDJ理財網：銅礦商ETF連跌13週、史上首見 反彈可期？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "銅礦商 ETF 連跌 13 週、史上首見  反彈可期？",
-          "url": "https://finance.technews.tw/2026/11/26/copper-miners-etf-13-week-losing-streak-unprecedented-rebound-expected/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "銅礦商ETF連跌13週、史上首見 反彈可期？",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZmJtQllLeTlqUExtTTl0dm0yR1pVSkF5SlZTaTk4bWtXUklMN0d3LWMtNWRZVERSVDFwWkRIQVRfc0RqRzk1MlZJV1dOZVI2MUdQQWRUWFFxZzVkZUhfYWVXSjhrVEZzWmNqNm1CSTlkMFQzWXRvX0FvbnpIUFB0MHA5bDA4clRGRzJmeFMtMTJWUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "楊承勳父親輔選新北選將陳俊諺 盼落實全市校園緊急求救鈴裝設",
       "summary": [
         "自由時報：楊承勳父親輔選新北選將陳俊諺 盼落實全市校園緊急求救鈴裝設",
@@ -128,7 +107,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "網路賣「習唯呢公仔」遭跨境恐嚇下架  警逮6弘仁會成員",
       "summary": [
         "自由時報：網路賣「習唯呢公仔」遭跨境恐嚇下架  警逮6弘仁會成員",
@@ -149,7 +128,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "美收緊管制！　輝達傳要求合作夥伴「暫停出貨東南亞4國」",
       "summary": [
         "ETtoday：美收緊管制！　輝達傳要求合作夥伴「暫停出貨東南亞4國」",
@@ -170,7 +149,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "搶攻AI算力！SpaceX獲FCC核准百萬顆太空資料中心衛星，最晚2033年須開始部署",
       "summary": [
         "數位時代：搶攻AI算力！SpaceX獲FCC核准百萬顆太空資料中心衛星，最晚2033年須開始部署",
@@ -191,7 +170,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "國民黨借光場地？沈伯洋取消選前之夜作家揭真相：討拍不成變討厭- 政治",
       "summary": [
         "中時新聞：國民黨借光場地？沈伯洋取消選前之夜作家揭真相：討拍不成變討厭- 政治",
@@ -208,6 +187,27 @@
           "source": "ETtoday",
           "title": "沈伯洋選前之夜突取消　葉元之：搞政治受虐兒戰術",
           "url": "https://www.ettoday.net/news/20261127/3279144.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "《盤後解析》震盪收漲956點重登3.9萬點分析師提四大止跌訊號- 上市櫃",
+      "summary": [
+        "中時新聞：《盤後解析》震盪收漲956點重登3.9萬點分析師提四大止跌訊號- 上市櫃",
+        "工商時報：《盤後解析》震盪收漲956點重登3.9萬點分析師提四大止跌訊號- 證券"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "《盤後解析》震盪收漲956點重登3.9萬點分析師提四大止跌訊號- 上市櫃",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVMzhWNkpNNDdWN1l4eElaYVRlU1RCLTdHSEZHSm1VR1BWcGVUUlJzSlF1ZWR6WmtEeWpuVnVaRnFEY1pRUkt3VVd3R1NVMUdWSWRRZXl2d1hPV3BqTHJIa1QyempDVTdQc3c?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "《盤後解析》震盪收漲956點重登3.9萬點分析師提四大止跌訊號- 證券",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43em1IWTlBTEZqeXFhejROMGZFXzM5UHRBd0NsckNOeTVPd1lBREExRFBMUml6WVZpdkV0TldiLUlHRld0cXFETzB4SVVUNk5GMnhuVkdkQ0F6aFc1ZjY4?oc=5"
         }
       ]
     }
