@@ -1,29 +1,8 @@
 {
-  "updated_at": "2026-11-27 01:55",
+  "updated_at": "2026-11-27 02:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
-      "summary": [
-        "經濟日報：輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
-        "ETtoday：美收緊管制！　輝達傳要求合作夥伴「暫停出貨東南亞4國」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
-          "url": "https://money.udn.com/money/story/123398/9903573"
-        },
-        {
-          "source": "ETtoday",
-          "title": "美收緊管制！　輝達傳要求合作夥伴「暫停出貨東南亞4國」",
-          "url": "https://www.ettoday.net/news/20261126/3278933.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
       "summary": [
         "自由時報：泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
@@ -44,7 +23,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "科技股下殺後反彈　亞股回穩多收高",
       "summary": [
         "經濟日報：科技股下殺後反彈　亞股回穩多收高",
@@ -65,28 +44,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "AI 逆風延燒  OpenAI 明年 6 月前 IPO 機率跌至 28%",
-      "summary": [
-        "科技新報：AI 逆風延燒  OpenAI 明年 6 月前 IPO 機率跌至 28%",
-        "MoneyDJ理財網：AI逆風延燒 OpenAI明年6月前IPO機率跌至28%"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "AI 逆風延燒  OpenAI 明年 6 月前 IPO 機率跌至 28%",
-          "url": "https://finance.technews.tw/2026/11/26/openai-ipo-odds-by-june-next-year-fall-to-28/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "AI逆風延燒 OpenAI明年6月前IPO機率跌至28%",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeE1qbGV1T3MxLXhoaTdicGIwTmdJekRsSmFVZ0lBS2Q5bW9CdXlsZWpXRDVhSl82TUV1QmxNM21NWGdhTVBZY3p1Rm9QRHdrNS1hM0hxNlBoRTQ5bUdXRU1VZ0JwN2tGYkJKejkwOUlhbldIeTlrT1JkREhOdFVxU19xSXNVTkpGcm43d3N4Y3pidw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "title": "快訊》疊加最高破40％！川普拋新關稅臺灣等14個經濟體一次看- 國際",
       "summary": [
         "中時新聞：快訊》疊加最高破40％！川普拋新關稅臺灣等14個經濟體一次看- 國際",
@@ -107,7 +65,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "美 AI 資料中心擴張受阻  至少 4 州喊停機率達 57%",
       "summary": [
         "科技新報：美 AI 資料中心擴張受阻  至少 4 州喊停機率達 57%",
@@ -128,7 +86,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "美擬對14經濟體加徵新關稅　主要貿易夥伴紛表不滿",
       "summary": [
         "經濟日報：美擬對14經濟體加徵新關稅　主要貿易夥伴紛表不滿",
@@ -149,7 +107,28 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
+      "summary": [
+        "經濟日報：輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
+        "ETtoday：美收緊管制！　輝達傳要求合作夥伴「暫停出貨東南亞4國」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
+          "url": "https://money.udn.com/money/story/5599/9903573"
+        },
+        {
+          "source": "ETtoday",
+          "title": "美收緊管制！　輝達傳要求合作夥伴「暫停出貨東南亞4國」",
+          "url": "https://www.ettoday.net/news/20261126/3278933.htm"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "銅礦商 ETF 連跌 13 週、史上首見  反彈可期？",
       "summary": [
         "科技新報：銅礦商 ETF 連跌 13 週、史上首見  反彈可期？",
@@ -170,7 +149,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "楊承勳父親輔選新北選將陳俊諺 盼落實全市校園緊急求救鈴裝設",
       "summary": [
         "自由時報：楊承勳父親輔選新北選將陳俊諺 盼落實全市校園緊急求救鈴裝設",
@@ -191,7 +170,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "網路賣「習唯呢公仔」遭跨境恐嚇下架  警逮6弘仁會成員",
       "summary": [
         "自由時報：網路賣「習唯呢公仔」遭跨境恐嚇下架  警逮6弘仁會成員",
@@ -208,6 +187,27 @@
           "source": "ETtoday",
           "title": "跨境鎮壓又一件！賣「習唯呢」公仔竟遭竹聯黑幫恐嚇　6嫌起訴",
           "url": "https://www.ettoday.net/news/20261126/3279012.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "搶攻AI算力！SpaceX獲FCC核准百萬顆太空資料中心衛星，最晚2033年須開始部署",
+      "summary": [
+        "數位時代：搶攻AI算力！SpaceX獲FCC核准百萬顆太空資料中心衛星，最晚2033年須開始部署",
+        "科技報橘：FCC 首度放行太空資料中心：SpaceX 獲準部署百萬顆低軌 AI 衛星，規模達目前全球衛星總數近 60 倍"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "數位時代",
+          "title": "搶攻AI算力！SpaceX獲FCC核准百萬顆太空資料中心衛星，最晚2033年須開始部署",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mZ2ROYjc0NGpWWndFVE9pc2w2VGdnOElVNFRSbEhCdUEzRktsa1AwSWZmMXQyUzZjYm9iT1hLVHhYVWlaVTVFenpTZ1ZlZXRVUTRkLU1KSEFiX2tFVGVLWHBXYnNickVzVkZiQjVRdzdEOElmTXc?oc=5"
+        },
+        {
+          "source": "科技報橘",
+          "title": "FCC 首度放行太空資料中心：SpaceX 獲準部署百萬顆低軌 AI 衛星，規模達目前全球衛星總數近 60 倍",
+          "url": "https://techorange.com/2026/11/26/fcc-approves-spacex-orbital-datacenter/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
         }
       ]
     }
@@ -236,27 +236,6 @@
     },
     {
       "rank": 2,
-      "title": "英偉達停止向 4 個東南亞國家運送人工智慧伺服器",
-      "summary": [
-        "Investing.com：英偉達停止向 4 個東南亞國家運送人工智慧伺服器",
-        "Yahoo Finance：英偉達停止向 4 個東南亞國家運送人工智慧伺服器"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "英偉達停止向 4 個東南亞國家運送人工智慧伺服器",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-stops-shipping-ai-servers-to-4-southeast-asian-countries-ft-5052075"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "英偉達停止向 4 個東南亞國家運送人工智慧伺服器",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVZtX2ZuWFcxUVB0dkRVVlBMVkZNNkd0X2dPTFExMmF1YndMOE82TERFUDlENkZRcEVxQ2lmaTNxelllYm13dDdiWEtNMzhqVVRGYTN5VXlfOThLeUQ5bk1PMF81U0RCaVRtUGJhVEc2OFFUMWRRN2xxVERFb2s0aEJKRl9XY3JYQlBfVWtJOUk2aGJaTmNsMWFPYkM?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "裕信銀行掃清了收購德國商業銀行的最後障礙",
       "summary": [
         "Investing.com：裕信銀行掃清了收購德國商業銀行的最後障礙",
@@ -277,28 +256,28 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "韓國央行將關鍵利率上調至 3.25%",
+      "rank": 3,
+      "title": "根據英國《金融時報》報道，英偉達停止向四個東南亞國家供應伺服器",
       "summary": [
-        "Bloomberg Markets：韓國央行將關鍵利率上調至 3.25%",
-        "Nikkei Asia：經濟強勁背景下韓國央行升息至3.25%"
+        "Investing.com：根據英國《金融時報》報道，英偉達停止向四個東南亞國家供應伺服器",
+        "Yahoo Finance：英偉達停止向 4 個東南亞國家運送人工智慧伺服器"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "韓國央行將關鍵利率上調至 3.25%",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-26/bok-hikes-key-rate-to-3-25-video"
+          "source": "Investing.com",
+          "title": "根據英國《金融時報》報道，英偉達停止向四個東南亞國家供應伺服器",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5052112"
         },
         {
-          "source": "Nikkei Asia",
-          "title": "經濟強勁背景下韓國央行升息至3.25%",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUjNLNk9pYThsbWZkbV9UM1VNVFRkbGtMQXZjMlB5RmUzUWtINW5zVFpWbzM0WUZremdmblZGQmV1dHdMVDY1VnpqekhtZjF2RTVvY3RUdkIzTTJXU0l5SFJCWHQ2M0IyUU5WS0FFSFAyOGNHaFpxd1M1WHlRb0x3aFFDYldKRFYtOXNLckhGMWVRaDFTN0NqUXBVa2o5UUF5NmEzQ01uajNXZXJoVmJPZkRoNA?oc=5"
+          "source": "Yahoo Finance",
+          "title": "英偉達停止向 4 個東南亞國家運送人工智慧伺服器",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVZtX2ZuWFcxUVB0dkRVVlBMVkZNNkd0X2dPTFExMmF1YndMOE82TERFUDlENkZRcEVxQ2lmaTNxelllYm13dDdiWEtNMzhqVVRGYTN5VXlfOThLeUQ5bk1PMF81U0RCaVRtUGJhVEc2OFFUMWRRN2xxVERFb2s0aEJKRl9XY3JYQlBfVWtJOUk2aGJaTmNsMWFPYkM?oc=5"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
       "summary": [
         "BBC中文：美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
@@ -319,7 +298,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "人工智慧風險引發美國交易波動後，全球股市持穩",
       "summary": [
         "Financial Times：人工智慧風險引發美國交易波動後，全球股市持穩",
@@ -340,7 +319,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
       "summary": [
         "Financial Times：中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
@@ -361,7 +340,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
       "summary": [
         "Investing.com：巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
@@ -382,7 +361,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Marc Levinson 講述 UPS 如何創造現代物流",
       "summary": [
         "Bloomberg Markets：Marc Levinson 講述 UPS 如何創造現代物流",
@@ -403,7 +382,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "AMD Ryzen 7 9800X3D 在亞馬遜跌至歷史最低價 369 美元",
       "summary": [
         "Tom's Hardware：AMD Ryzen 7 9800X3D 在亞馬遜跌至歷史最低價 369 美元",
@@ -420,6 +399,27 @@
           "source": "Wccftech",
           "title": "AMD Ryzen 7 9800X3D 降價幅度更大：現限時僅售 369 美元",
           "url": "https://wccftech.com/amd-ryzen-7-9800x3d-price-drops-even-hardware-at-just-369/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "西班牙德科斯將接替拉加德出任歐洲央行總裁",
+      "summary": [
+        "Bloomberg Markets：西班牙德科斯將接替拉加德出任歐洲央行總裁",
+        "CNBC：西班牙央行總裁巴勃羅·埃爾南德斯·德科斯將出任歐洲央行總裁"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "西班牙德科斯將接替拉加德出任歐洲央行總裁",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-26/spain-s-de-cos-set-to-succeed-lagarde-as-ecb-president-video-mwxmko5n"
+        },
+        {
+          "source": "CNBC",
+          "title": "西班牙央行總裁巴勃羅·埃爾南德斯·德科斯將出任歐洲央行總裁",
+          "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
         }
       ]
     }
