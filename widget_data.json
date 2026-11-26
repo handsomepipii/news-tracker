@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 15:56",
+  "updated_at": "2026-11-26 16:25",
   "taiwan": [
     {
       "rank": 1,
@@ -339,73 +339,10 @@
     },
     {
       "rank": 5,
-      "title": "以色列法官建議撤銷內塔尼亞胡最嚴重的指控",
-      "summary": [
-        "BBC World：以色列法官建議撤銷內塔尼亞胡最嚴重的指控",
-        "Financial Times：以色列法官建議檢察官撤銷內塔尼亞胡的部分指控"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "以色列法官建議撤銷內塔尼亞胡最嚴重的指控",
-          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Financial Times",
-          "title": "以色列法官建議檢察官撤銷內塔尼亞胡的部分指控",
-          "url": "https://www.ft.com/content/db700af5-22b2-4903-ae2e-124513681071?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "埃及大開羅地區道路交通事故造成至少30人死亡",
-      "summary": [
-        "Bloomberg Markets：埃及大開羅地區道路交通事故造成至少30人死亡",
-        "NHK新聞：埃及開羅附近發生交通事故及火災 造成31人死亡"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "埃及大開羅地區道路交通事故造成至少30人死亡",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/egypt-road-accident-kills-at-least-30-in-greater-cairo"
-        },
-        {
-          "source": "NHK新聞",
-          "title": "埃及開羅附近發生交通事故及火災 造成31人死亡",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261126de81584"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股",
-      "summary": [
-        "CNBC：SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股",
-        "Yahoo Finance：SpaceX 和伊隆馬斯克將各向活躍的川普帳戶分配一股"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股",
-          "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "SpaceX 和伊隆馬斯克將各向活躍的川普帳戶分配一股",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX19Rdm5qYUwtN1FLbDk5cmtvclRlcHJhUktLMF9hY3lWbjZXVm1WQlVsQUpJb1paR09SRFQxcmtxaXRyVEw3X3k5dnM5clY5MkI2MkVKcW0yVFQ2dUZTTFFyUTNGVzBKR1N6dWVXZjlMZUNXRlcwNHczbVUtcFUtX2tBcHNiVXROU09mb1VUU05vd1ZmTk85TGREM0FPQW1seHhiZVZGcmp6NjdpN2p5czlXNXgxalFYZjBEam9B?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "埃及載油車輛翻側起火  已知30人死亡",
       "summary": [
         "法廣RFI：埃及載油車輛翻側起火  已知30人死亡",
-        "BBC World：開羅高速公路油罐車相撞引發大火 至少30人死亡"
+        "NHK新聞：埃及開羅附近發生交通事故及火災 造成31人死亡"
       ],
       "media_count": 2,
       "links": [
@@ -415,14 +352,14 @@
           "url": "https://www.rfi.fr/tw/%E9%9D%9E%E6%B4%B2/20261125-%E5%9F%83%E5%8F%8A%E8%BC%89%E6%B2%B9%E8%BB%8A%E8%BC%9B%E7%BF%BB%E5%81%B4%E8%B5%B7%E7%81%AB-%E5%B7%B2%E7%9F%A530%E4%BA%BA%E6%AD%BB%E4%BA%A1"
         },
         {
-          "source": "BBC World",
-          "title": "開羅高速公路油罐車相撞引發大火 至少30人死亡",
-          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+          "source": "NHK新聞",
+          "title": "埃及開羅附近發生交通事故及火災 造成31人死亡",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261126de81584"
         }
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
       "title": "標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
       "summary": [
         "TechCrunch：標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
@@ -443,7 +380,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "人工智慧風險導緻美國交易波動，亞洲股市上漲",
       "summary": [
         "Financial Times：人工智慧風險導緻美國交易波動，亞洲股市上漲",
@@ -460,6 +397,63 @@
           "source": "Investing.com",
           "title": "亞洲股市反彈，人工智慧和關稅潛伏在幕後",
           "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "警告財務「危急」後北歐大西洋航班暫停",
+      "summary": [
+        "CNBC：警告財務「危急」後北歐大西洋航班暫停",
+        "Investing.com：挪威大西洋航空因破產風險暫停航班"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "警告財務「危急」後北歐大西洋航班暫停",
+          "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "挪威大西洋航空因破產風險暫停航班",
+          "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-suspends-flights-amid-bankruptcy-risk-93CH-5052182"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
+      "summary": [
+        "Investing.com：美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
+        "CNBC：法官暫時阻止 FCC 對迪士尼旗下 ABC 電視臺的提前更新程式"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
+          "url": "https://www.investing.com/news/stock-market-news/us-judge-blocks-fcc-from-revoking-disneys-abc-tv-licenses-5051928"
+        },
+        {
+          "source": "CNBC",
+          "title": "法官暫時阻止 FCC 對迪士尼旗下 ABC 電視臺的提前更新程式",
+          "url": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "中國人工智慧雄心面臨一個嚴峻問題：去哪裡找錢- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：中國人工智慧雄心面臨一個嚴峻問題：去哪裡找錢- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "中國人工智慧雄心面臨一個嚴峻問題：去哪裡找錢- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQW81LTJtY2JsdlhfckVnSXhfWWVJTms2MkNPV2lYUFFQWUQwTGV3RFFtZHJ5MHk5UERVRzl3RUoySWZ4ME9ta2dMY3RxN191V0xPMm9FTUlJdzViaGVRT25hQzdQUlk4WTBIcTZtTEwwX09LeDg1WHlIQ19DaFhTbE1VZjI?oc=5"
         }
       ]
     }
