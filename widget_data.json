@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 08:26",
+  "updated_at": "2026-11-26 08:56",
   "taiwan": [
     {
       "rank": 1,
@@ -116,6 +116,54 @@
     },
     {
       "rank": 5,
+      "title": "美批准SpaceX部署100萬顆衛星　建太空資料中心",
+      "summary": [
+        "自由時報：美批准SpaceX部署100萬顆衛星　建太空資料中心",
+        "經濟日報：美批准 SpaceX 部署100萬顆衛星 建太空資料中心",
+        "科技新報：美批准 SpaceX 部署 100 萬顆衛星，建太空資料中心"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美批准SpaceX部署100萬顆衛星　建太空資料中心",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5653616"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美批准 SpaceX 部署100萬顆衛星 建太空資料中心",
+          "url": "https://money.udn.com/money/story/123398/9902518"
+        },
+        {
+          "source": "科技新報",
+          "title": "美批准 SpaceX 部署 100 萬顆衛星，建太空資料中心",
+          "url": "https://technews.tw/2026/11/26/us-authorizes-spacex-to-deploy-1-million-satellites-for-data-centers-in-space/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "快訊／震撼彈！沈伯洋宣佈取消選前之夜　「市民交通最重要」",
+      "summary": [
+        "ETtoday：快訊／震撼彈！沈伯洋宣佈取消選前之夜　「市民交通最重要」",
+        "自由時報：沈伯洋為市民交通取消選前之夜 郝明義：和「蔣不聽」對比太大"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "快訊／震撼彈！沈伯洋宣佈取消選前之夜　「市民交通最重要」",
+          "url": "https://www.ettoday.net/news/20261125/3278565.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "沈伯洋為市民交通取消選前之夜 郝明義：和「蔣不聽」對比太大",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653510"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "沈伯洋選前之夜喊卡！柯昱安揭當年柯市府也沒搶到路權 怒嗆藍營1句",
       "summary": [
         "自由時報：沈伯洋選前之夜喊卡！柯昱安揭當年柯市府也沒搶到路權 怒嗆藍營1句",
@@ -136,7 +184,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
       "summary": [
         "自由時報：重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
@@ -157,7 +205,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "國1彰化段重大車禍！3大型車追撞3死2命危14傷 南下全線封閉",
       "summary": [
         "自由時報：國1彰化段重大車禍！3大型車追撞3死2命危14傷 南下全線封閉",
@@ -174,48 +222,6 @@
           "source": "ETtoday",
           "title": "快訊／國1彰化段「遊覽車、2大車追撞」　3命危16傷",
           "url": "https://www.ettoday.net/news/20261126/3278624.htm"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "何欣純遭影射賄選一票2千5　網友脆上亂發文造謠被抓到了",
-      "summary": [
-        "ETtoday：何欣純遭影射賄選一票2千5　網友脆上亂發文造謠被抓到了",
-        "自由時報：一票2500？Threads影射何欣純賄選 臺中男散佈假訊息被逮了"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "何欣純遭影射賄選一票2千5　網友脆上亂發文造謠被抓到了",
-          "url": "https://www.ettoday.net/news/20261125/3278517.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "一票2500？Threads影射何欣純賄選 臺中男散佈假訊息被逮了",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653399"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "建通看好明年獲利成長 特殊新型銅材營收比重衝5成",
-      "summary": [
-        "鉅亨網：建通看好明年獲利成長 特殊新型銅材營收比重衝5成",
-        "MoneyDJ理財網：建通明年銅材營收貢獻衝五成；微通道產品小量交貨- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "鉅亨網",
-          "title": "建通看好明年獲利成長 特殊新型銅材營收比重衝5成",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sVFlrTXhmV1FvRmFmbDV1aW1ldUhBcHMtNHBqTzdBZFNUbER1bWxxT1RBTWl5enk2LTNqQmtVZktjUUpYRHF3RTFFNlpuLVU?oc=5"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "建通明年銅材營收貢獻衝五成；微通道產品小量交貨- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRDNtVFY4YnBabnVxRVNPT043Qkh0U2xHRWw5QkhpYXVMUEgyUkcyVjc4SWRpd3dWWHFGaUx5bW5HSzAyb1hOZEZCdXFqUUh1c3k1bzJVbGl1QUJLX01mRmYwcWJXWmJ3MEtWYzVVakNhT0tUTHl6VFo2Zl9aRlNqd2V6cHNGUlJWN2U5cFFkdGVzdw?oc=5"
         }
       ]
     },
@@ -340,6 +346,33 @@
     },
     {
       "rank": 4,
+      "title": "梅西百貨因惡劣天氣延後感恩節遊行",
+      "summary": [
+        "CNBC：梅西百貨因惡劣天氣延後感恩節遊行",
+        "Investing.com：紐約市梅西百貨感恩節遊行因風暴預報而推遲",
+        "BBC World：梅西百貨因天氣原因延後感恩節遊行"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "梅西百貨因惡劣天氣延後感恩節遊行",
+          "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html"
+        },
+        {
+          "source": "Investing.com",
+          "title": "紐約市梅西百貨感恩節遊行因風暴預報而推遲",
+          "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483"
+        },
+        {
+          "source": "BBC World",
+          "title": "梅西百貨因天氣原因延後感恩節遊行",
+          "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "人工智慧交易陷入困境，納斯達克 100 指數將進入熊市",
       "summary": [
         "Bloomberg Markets：人工智慧交易陷入困境，納斯達克 100 指數將進入熊市",
@@ -360,7 +393,28 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "檢視自 1 月以來川普持有的所有 Nvidia 股票交易",
+      "summary": [
+        "Washington Post：檢視自 1 月以來川普持有的所有 Nvidia 股票交易",
+        "BBC World：記錄顯示，川普的帳戶今年交易了 Nvidia 股票 44 次"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "檢視自 1 月以來川普持有的所有 Nvidia 股票交易",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFN1NjNabnl6R0dSSEk4dUdzSFNhM0pRS1phcHh1WGNQcjRLbjk5RG5wNlI3TURtRTR3cmZuQVV6TGZhOXJsUldWOTF0WHVhVFlLQy1CaXdFZ1NTbVdXai1FZ2M0WEh4UmRCYnlPWEZMaUh2NlF5cjZUMGc4Uldwc3lnV2ZlZ0hmYURSQWtLd2RWd2RDX0RfVi1vY1liMnVVeGc?oc=5"
+        },
+        {
+          "source": "BBC World",
+          "title": "記錄顯示，川普的帳戶今年交易了 Nvidia 股票 44 次",
+          "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "邁克爾·伯裡 (Michael Burry) 出售剩餘的納斯達克 100 看跌期權，稱投資組合為多頭",
       "summary": [
         "Investing.com：邁克爾·伯裡 (Michael Burry) 出售剩餘的納斯達克 100 看跌期權，稱投資組合為多頭",
@@ -381,7 +435,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "1Password稱駭客侵入其內部系統，但客戶密碼是安全的",
       "summary": [
         "TechCrunch：1Password稱駭客侵入其內部系統，但客戶密碼是安全的",
@@ -402,7 +456,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "北韓因制裁驅逐瑞士外交官",
       "summary": [
         "BBC World：北韓因制裁驅逐瑞士外交官",
@@ -423,7 +477,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "標準普爾表示可能因治理擔憂而下調英偉達評級",
       "summary": [
         "Bloomberg Tech：標準普爾表示可能因治理擔憂而下調英偉達評級",
@@ -440,48 +494,6 @@
           "source": "TechCrunch",
           "title": "標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
           "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "隨著英偉達恢復漲勢消退，股市持續下跌",
-      "summary": [
-        "Bloomberg Markets：隨著英偉達恢復漲勢消退，股市持續下跌",
-        "WSJ Markets：瘋狂交易後股市收低"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "隨著英偉達恢復漲勢消退，股市持續下跌",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-continue-fall-as-nvidia-reinstatement-rally-fades"
-        },
-        {
-          "source": "WSJ Markets",
-          "title": "瘋狂交易後股市收低",
-          "url": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
-      "summary": [
-        "Investing.com：SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
-        "CNBC：SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
-          "url": "https://www.investing.com/news/stock-market-news/spacex-to-contribute-one-class-a-share-to-every-trump-account-5051378"
-        },
-        {
-          "source": "CNBC",
-          "title": "SpaceX 和馬斯克承諾各自向活躍的川普帳號捐贈一股",
-          "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
         }
       ]
     }
