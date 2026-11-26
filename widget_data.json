@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 23:56",
+  "updated_at": "2026-11-27 00:26",
   "taiwan": [
     {
       "rank": 1,
@@ -66,48 +66,6 @@
     },
     {
       "rank": 4,
-      "title": "臺灣獲「15%不疊加」最低稅率　2232個豁免品項比ART還多！",
-      "summary": [
-        "ETtoday：臺灣獲「15%不疊加」最低稅率　2232個豁免品項比ART還多！",
-        "關鍵評論網：美國301調查點名臺灣「產能過剩」，擬課最高15%關稅、半導體列入豁免"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "臺灣獲「15%不疊加」最低稅率　2232個豁免品項比ART還多！",
-          "url": "https://www.ettoday.net/news/20261126/3278826.htm"
-        },
-        {
-          "source": "關鍵評論網",
-          "title": "美國301調查點名臺灣「產能過剩」，擬課最高15%關稅、半導體列入豁免",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGek5KUXJjQU9XNzNkZjNKaGF0RENNZU93LWd0a29RV1ltTTRfNno5eU13c3NOaGxZWXN2Sm5ESE5yQ20xTHBOejMzYUc0VzN1X3B4WQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "密碼管理工具1Password遭駭！官方證實客戶資料外洩，需要換密碼嗎？6招防範釣魚攻擊",
-      "summary": [
-        "數位時代：密碼管理工具1Password遭駭！官方證實客戶資料外洩，需要換密碼嗎？6招防範釣魚攻擊",
-        "自由時報：幫你管密碼的1Password竟遭駭！個資外洩　使用者該怎麼辦？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "數位時代",
-          "title": "密碼管理工具1Password遭駭！官方證實客戶資料外洩，需要換密碼嗎？6招防範釣魚攻擊",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmI1bGg5U0pKb05ZT0NjSjZHNFczX1ZFc0V4V3B6QTU3MWFNXzJEQno3ckEtTDk3X1FlaEl3S2o0bERuekVCN1pPcVBoNTRPbGN0dkM3SU0zRUc2Zlp0bVhZc2puUVg0T2xMaWFTSnE5TElwZXB3Y2tIVWE4dFBMTGtsSDY?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "幫你管密碼的1Password竟遭駭！個資外洩　使用者該怎麼辦？",
-          "url": "https://3c.ltn.com.tw/news/68437"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "小心手機被奪舍！假追劇App藏木馬遙控網銀 百人受害財損逾千萬",
       "summary": [
         "自由時報：小心手機被奪舍！假追劇App藏木馬遙控網銀 百人受害財損逾千萬",
@@ -128,7 +86,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "AI 金童基金 Q3 慘虧 65%  預言 2027 恐是最後正常年",
       "summary": [
         "科技新報：AI 金童基金 Q3 慘虧 65%  預言 2027 恐是最後正常年",
@@ -149,7 +107,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "埃及油罐車撞車爆炸引發大火　至少31死、21傷",
       "summary": [
         "經濟日報：埃及油罐車撞車爆炸引發大火　至少31死、21傷",
@@ -170,7 +128,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "CBS：中資美企獲輝達高階晶片　出口管制漏洞浮現",
       "summary": [
         "經濟日報：CBS：中資美企獲輝達高階晶片　出口管制漏洞浮現",
@@ -191,7 +149,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "黑豹旗／扳倒去年亞軍再退西苑！臺南海事首闖4強寫校史最佳成績",
       "summary": [
         "ETtoday：黑豹旗／扳倒去年亞軍再退西苑！臺南海事首闖4強寫校史最佳成績",
@@ -208,6 +166,48 @@
           "source": "自由時報",
           "title": "黑豹旗》去年首戰淘汰→今年勇闖4強  「南水潛艇」直呼太神奇！",
           "url": "https://sports.ltn.com.tw/news/breakingnews/5654192"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "駭客入侵1Password員工GitHub帳號竊走公司原始碼，植入惡意程式碼下載客戶資料",
+      "summary": [
+        "iThome：駭客入侵1Password員工GitHub帳號竊走公司原始碼，植入惡意程式碼下載客戶資料",
+        "INSIDE硬塞：1Password 確認內部系統遭竊，駭員工 GitHub 帳號遭入侵，使用者名稱與電子郵件外洩但保管庫未進行"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "iThome",
+          "title": "駭客入侵1Password員工GitHub帳號竊走公司原始碼，植入惡意程式碼下載客戶資料",
+          "url": "https://www.ithome.com.tw/news/180820"
+        },
+        {
+          "source": "INSIDE硬塞",
+          "title": "1Password 確認內部系統遭竊，駭員工 GitHub 帳號遭入侵，使用者名稱與電子郵件外洩但保管庫未進行",
+          "url": "https://www.inside.com.tw/article/43017-1password-confirms-internal-systems-breach-employee-github-account-names-emails-vaults-not-accessed"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "調查：歐洲半數工企陷財務壓力　370萬職位恐不保",
+      "summary": [
+        "經濟日報：調查：歐洲半數工企陷財務壓力　370萬職位恐不保",
+        "科技新報：調查：歐洲半數工企陷財務壓力，370 萬職位恐不保"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "調查：歐洲半數工企陷財務壓力　370萬職位恐不保",
+          "url": "https://money.udn.com/money/story/5599/9903468"
+        },
+        {
+          "source": "科技新報",
+          "title": "調查：歐洲半數工企陷財務壓力，370 萬職位恐不保",
+          "url": "https://technews.tw/2026/11/26/half-of-european-industrial-companies-under-serious-financial-stress/"
         }
       ]
     }
@@ -236,27 +236,6 @@
     },
     {
       "rank": 2,
-      "title": "馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
-      "summary": [
-        "Investing.com：馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
-        "Bloomberg Tech：馬斯克稱每個美國孩子可以獲得兩份 SpaceX 股票，承諾加倍"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
-          "url": "https://www.investing.com/news/stock-market-news/musk-says-every-child-in-the-us-will-get-two-spacex-shares-5052006"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "馬斯克稱每個美國孩子可以獲得兩份 SpaceX 股票，承諾加倍",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "英偉達停止向 4 個東南亞國家運送人工智慧伺服器",
       "summary": [
         "Investing.com：英偉達停止向 4 個東南亞國家運送人工智慧伺服器",
@@ -277,7 +256,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "裕信銀行掃清了收購德國商業銀行的最後障礙",
       "summary": [
         "Investing.com：裕信銀行掃清了收購德國商業銀行的最後障礙",
@@ -294,6 +273,27 @@
           "source": "Bloomberg Markets",
           "title": "裕信銀行掃清了接管德國商業銀行的最後障礙",
           "url": "https://www.bloomberg.com/news/videos/2026-11-26/unicredit-clears-final-hurdle-to-take-over-commerzbank-video"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "馬斯克稱每個美國孩子可以獲得兩份 SpaceX 股票，承諾加倍",
+      "summary": [
+        "Bloomberg Tech：馬斯克稱每個美國孩子可以獲得兩份 SpaceX 股票，承諾加倍",
+        "Investing.com：馬斯克稱每個美國兒童將獲得兩股 SpaceX 股票"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "馬斯克稱每個美國孩子可以獲得兩份 SpaceX 股票，承諾加倍",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge"
+        },
+        {
+          "source": "Investing.com",
+          "title": "馬斯克稱每個美國兒童將獲得兩股 SpaceX 股票",
+          "url": "https://www.investing.com/news/stock-market-news/musk-says-every-us-child-will-receive-two-spacex-shares-5052023"
         }
       ]
     },
