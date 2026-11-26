@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 22:26",
+  "updated_at": "2026-11-26 22:57",
   "taiwan": [
     {
       "rank": 1,
@@ -66,48 +66,6 @@
     },
     {
       "rank": 4,
-      "title": "沈伯洋取消選前之夜 柯文哲：一晚拆東西是不是更擾民？",
-      "summary": [
-        "自由時報：沈伯洋取消選前之夜 柯文哲：一晚拆東西是不是更擾民？",
-        "風傳媒：沈伯洋取消選前之夜「連夜拆舞臺」 柯文哲批莽撞：整晚拆東西更擾民 | 張庭維 | 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "沈伯洋取消選前之夜 柯文哲：一晚拆東西是不是更擾民？",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653788"
-        },
-        {
-          "source": "風傳媒",
-          "title": "沈伯洋取消選前之夜「連夜拆舞臺」 柯文哲批莽撞：整晚拆東西更擾民 | 張庭維 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NMGV1QkZtTU8wMHFVbnVNMWVuX0hja2RJZDJ3WVNyRnBncGZKSVY4aXM4RUp4QmxkOWJUaGlnQmpTTWN4MGlCcVpNREZtQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "301 臺灣稅率估 15%，鄭麗君：等同美 FTA 國優於中國東南亞",
-      "summary": [
-        "科技新報：301 臺灣稅率估 15%，鄭麗君：等同美 FTA 國優於中國東南亞",
-        "科技報橘：美 301 新關稅點名臺灣等 14 個經濟體，臺灣政府：有信心維持 15%、協議不重談"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "301 臺灣稅率估 15%，鄭麗君：等同美 FTA 國優於中國東南亞",
-          "url": "https://finance.technews.tw/2026/11/26/taiwan-301-tariff-rate-15-cheng-li-chun-equivalent-us-fta-superior-china-southeast-asia/"
-        },
-        {
-          "source": "科技報橘",
-          "title": "美 301 新關稅點名臺灣等 14 個經濟體，臺灣政府：有信心維持 15%、協議不重談",
-          "url": "https://techorange.com/2026/11/26/new-tariffs-14-trading-partners-fight-excess-factory-capacity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "大賣空本尊貝瑞暫轉多  出清那指賣權、留 25% 現金",
       "summary": [
         "科技新報：大賣空本尊貝瑞暫轉多  出清那指賣權、留 25% 現金",
@@ -128,7 +86,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "金正恩促擴大戰術核武部署　稱核材料產能擴充中",
       "summary": [
         "經濟日報：金正恩促擴大戰術核武部署　稱核材料產能擴充中",
@@ -149,7 +107,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "沈伯洋取消選前之夜 民眾黨團酸：真是奢侈的煩惱",
       "summary": [
         "自由時報：沈伯洋取消選前之夜 民眾黨團酸：真是奢侈的煩惱",
@@ -170,7 +128,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "泰味國際委外雲端發票平臺遭異常存取，290人受影響",
       "summary": [
         "iThome：泰味國際委外雲端發票平臺遭異常存取，290人受影響",
@@ -191,7 +149,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "川普力挺黃仁勳回任輝達執行長　司法部證實無國安威脅",
       "summary": [
         "經濟日報：川普力挺黃仁勳回任輝達執行長　司法部證實無國安威脅",
@@ -208,6 +166,48 @@
           "source": "科技新報",
           "title": "川普力挺黃仁勳回任輝達執行長，司法部證實無國安威脅",
           "url": "https://technews.tw/2026/11/26/trump-backs-jensen-huang-nvidia-ceo-doj-no-security-threat/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "臺灣獲「15%不疊加」最低稅率　2232個豁免品項比ART還多！",
+      "summary": [
+        "ETtoday：臺灣獲「15%不疊加」最低稅率　2232個豁免品項比ART還多！",
+        "關鍵評論網：美國301調查點名臺灣「產能過剩」，擬課最高15%關稅、半導體列入豁免"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "臺灣獲「15%不疊加」最低稅率　2232個豁免品項比ART還多！",
+          "url": "https://www.ettoday.net/news/20261126/3278826.htm"
+        },
+        {
+          "source": "關鍵評論網",
+          "title": "美國301調查點名臺灣「產能過剩」，擬課最高15%關稅、半導體列入豁免",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGek5KUXJjQU9XNzNkZjNKaGF0RENNZU93LWd0a29RV1ltTTRfNno5eU13c3NOaGxZWXN2Sm5ESE5yQ20xTHBOejMzYUc0VzN1X3B4WQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "密碼管理工具1Password遭駭！官方證實客戶資料外洩，需要換密碼嗎？6招防範釣魚攻擊",
+      "summary": [
+        "數位時代：密碼管理工具1Password遭駭！官方證實客戶資料外洩，需要換密碼嗎？6招防範釣魚攻擊",
+        "自由時報：幫你管密碼的1Password竟遭駭！個資外洩　使用者該怎麼辦？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "數位時代",
+          "title": "密碼管理工具1Password遭駭！官方證實客戶資料外洩，需要換密碼嗎？6招防範釣魚攻擊",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmI1bGg5U0pKb05ZT0NjSjZHNFczX1ZFc0V4V3B6QTU3MWFNXzJEQno3ckEtTDk3X1FlaEl3S2o0bERuekVCN1pPcVBoNTRPbGN0dkM3SU0zRUc2Zlp0bVhZc2puUVg0T2xMaWFTSnE5TElwZXB3Y2tIVWE4dFBMTGtsSDY?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "幫你管密碼的1Password竟遭駭！個資外洩　使用者該怎麼辦？",
+          "url": "https://3c.ltn.com.tw/news/68437"
         }
       ]
     }
@@ -278,27 +278,6 @@
     },
     {
       "rank": 4,
-      "title": "美國晶片限制亞洲資料中心融資",
-      "summary": [
-        "Bloomberg Tech：美國晶片限制亞洲資料中心融資",
-        "Investing.com：惠譽表示，美國晶片限制將減緩亞洲資料中心投資"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "美國晶片限制亞洲資料中心融資",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-26/us-chip-curbs-stall-asia-data-center-financing-video"
-        },
-        {
-          "source": "Investing.com",
-          "title": "惠譽表示，美國晶片限制將減緩亞洲資料中心投資",
-          "url": "https://www.investing.com/news/stock-market-news/us-chip-curbs-will-slow-asia-datacenter-investment-fitch-says-5052417"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
       "summary": [
         "Investing.com：美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
@@ -319,7 +298,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "韓國央行將關鍵利率上調至 3.25%",
       "summary": [
         "Bloomberg Markets：韓國央行將關鍵利率上調至 3.25%",
@@ -340,7 +319,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
       "summary": [
         "BBC中文：美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
@@ -361,7 +340,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "人工智慧風險引發美國交易波動後，全球股市持穩",
       "summary": [
         "Financial Times：人工智慧風險引發美國交易波動後，全球股市持穩",
@@ -382,7 +361,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
       "summary": [
         "Financial Times：中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
@@ -403,7 +382,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
       "summary": [
         "Investing.com：巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
@@ -420,6 +399,27 @@
           "source": "Financial Times",
           "title": "巴布科克獲得創紀錄的 87 億英鎊合約以支援皇家海軍潛艇",
           "url": "https://www.ft.com/content/b6db41b9-5af1-4105-a063-7dbf40e7fb2c?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Marc Levinson 講述 UPS 如何創造現代物流",
+      "summary": [
+        "Bloomberg Markets：Marc Levinson 講述 UPS 如何創造現代物流",
+        "Bloomberg Tech：Marc Levinson 講述 UPS 如何創造現代物流"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Marc Levinson 講述 UPS 如何創造現代物流",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Marc Levinson 講述 UPS 如何創造現代物流",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics-video"
         }
       ]
     }
