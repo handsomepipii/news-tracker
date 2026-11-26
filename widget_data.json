@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 22:57",
+  "updated_at": "2026-11-26 23:26",
   "taiwan": [
     {
       "rank": 1,
@@ -66,48 +66,6 @@
     },
     {
       "rank": 4,
-      "title": "大賣空本尊貝瑞暫轉多  出清那指賣權、留 25% 現金",
-      "summary": [
-        "科技新報：大賣空本尊貝瑞暫轉多  出清那指賣權、留 25% 現金",
-        "MoneyDJ理財網：大賣空本尊貝瑞暫轉多 出清那指賣權、留25%現金"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "大賣空本尊貝瑞暫轉多  出清那指賣權、留 25% 現金",
-          "url": "https://finance.technews.tw/2026/11/26/michael-burry-exits-nasdaq-100-put-options/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "大賣空本尊貝瑞暫轉多 出清那指賣權、留25%現金",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTzFuMnZXTm80Y29JZ3puX0hnN3VJN1JtUllKUGx0WlBnR0xucWdjWVpnRFFTZFJyNVBKdjBUbVlxc0NIcEp0V0t6OThJenBaM01hRkp3NUVkUzhGYzhHZS00enk0NzlNX0FvMzQ1Y3dOcWpEa3psTXhYLWxKbXR3SVVlWGtDZHZNRnhjbGVpclZOUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "金正恩促擴大戰術核武部署　稱核材料產能擴充中",
-      "summary": [
-        "經濟日報：金正恩促擴大戰術核武部署　稱核材料產能擴充中",
-        "公視新聞：20261126 8點新世界 完整版（無網路版權內容除外）｜金正恩要求擴大戰術核武部署，宣稱核材料產能正穩定擴充"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "金正恩促擴大戰術核武部署　稱核材料產能擴充中",
-          "url": "https://money.udn.com/money/story/5599/9903018"
-        },
-        {
-          "source": "公視新聞",
-          "title": "20261126 8點新世界 完整版（無網路版權內容除外）｜金正恩要求擴大戰術核武部署，宣稱核材料產能正穩定擴充",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zQXJ1S0RRVkJIVWNBUXNSZFNoTDB3THpjcFVHenRWVFhKNkpsZm1PT3FpZlNYeEdfY1BqS0xZdjVaaHBBQTE4aldWaw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "沈伯洋取消選前之夜 民眾黨團酸：真是奢侈的煩惱",
       "summary": [
         "自由時報：沈伯洋取消選前之夜 民眾黨團酸：真是奢侈的煩惱",
@@ -128,7 +86,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "泰味國際委外雲端發票平臺遭異常存取，290人受影響",
       "summary": [
         "iThome：泰味國際委外雲端發票平臺遭異常存取，290人受影響",
@@ -149,7 +107,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "川普力挺黃仁勳回任輝達執行長　司法部證實無國安威脅",
       "summary": [
         "經濟日報：川普力挺黃仁勳回任輝達執行長　司法部證實無國安威脅",
@@ -170,7 +128,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "臺灣獲「15%不疊加」最低稅率　2232個豁免品項比ART還多！",
       "summary": [
         "ETtoday：臺灣獲「15%不疊加」最低稅率　2232個豁免品項比ART還多！",
@@ -191,7 +149,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "密碼管理工具1Password遭駭！官方證實客戶資料外洩，需要換密碼嗎？6招防範釣魚攻擊",
       "summary": [
         "數位時代：密碼管理工具1Password遭駭！官方證實客戶資料外洩，需要換密碼嗎？6招防範釣魚攻擊",
@@ -210,11 +168,74 @@
           "url": "https://3c.ltn.com.tw/news/68437"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "小心手機被奪舍！假追劇App藏木馬遙控網銀 百人受害財損逾千萬",
+      "summary": [
+        "自由時報：小心手機被奪舍！假追劇App藏木馬遙控網銀 百人受害財損逾千萬",
+        "關鍵評論網：假追劇App藏木馬遙控手機盜轉網銀存款， iPhone使用者也需留意"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "小心手機被奪舍！假追劇App藏木馬遙控網銀 百人受害財損逾千萬",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5653959"
+        },
+        {
+          "source": "關鍵評論網",
+          "title": "假追劇App藏木馬遙控手機盜轉網銀存款， iPhone使用者也需留意",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZcW11VEhMMDk0NUdXX09SdlRZMHRHQVhuZmxhajlrU1RiU2w1MGlkcnRnTk1nRHNGSTc1bG5FNVgtNUNtSkhXVE5FOFhFVFZieGVhOA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "AI 金童基金 Q3 慘虧 65%  預言 2027 恐是最後正常年",
+      "summary": [
+        "科技新報：AI 金童基金 Q3 慘虧 65%  預言 2027 恐是最後正常年",
+        "MoneyDJ理財網：AI金童基金Q3慘虧65% 預言2027恐是最後正常年- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "AI 金童基金 Q3 慘虧 65%  預言 2027 恐是最後正常年",
+          "url": "https://finance.technews.tw/2026/11/26/aschenbrenners-situational-awareness-tells-investors-it-lost-65-percent-in-third-quarter/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "AI金童基金Q3慘虧65% 預言2027恐是最後正常年- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQODBVam9pZGx1QURRMmE3clJvbmU3TWtMbHpudHBRVmxXUV9sQnk4SXpHVmlNOS1IMkQ0NWZhRC1uNU5qY0IwZ2RJdy1ORUhBSEFOMC1iRUlZbmJ2WVFuaFdEVWJLLUNFWGwzRExhTjFCYkEtMW54Z0h0cW1rMGxqQW1rQ0c0V1p5RDZEdTJ4cGRmZw?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "奧馳亞探索帝國品牌的收購要約",
+      "summary": [
+        "Financial Times：奧馳亞探索帝國品牌的收購要約",
+        "Investing.com：奧馳亞正在考慮收購英國帝國品牌的可能報價"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "奧馳亞探索帝國品牌的收購要約",
+          "url": "https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9"
+        },
+        {
+          "source": "Investing.com",
+          "title": "奧馳亞正在考慮收購英國帝國品牌的可能報價",
+          "url": "https://www.investing.com/news/stock-market-news/altria-weighs-possible-offer-for-uks-imperial-brands-5052505"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
       "summary": [
         "Investing.com：馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
@@ -235,7 +256,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "英偉達停止向 4 個東南亞國家運送人工智慧伺服器",
       "summary": [
         "Investing.com：英偉達停止向 4 個東南亞國家運送人工智慧伺服器",
@@ -256,7 +277,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "裕信銀行掃清了收購德國商業銀行的最後障礙",
       "summary": [
         "Investing.com：裕信銀行掃清了收購德國商業銀行的最後障礙",
@@ -273,27 +294,6 @@
           "source": "Bloomberg Markets",
           "title": "裕信銀行掃清了接管德國商業銀行的最後障礙",
           "url": "https://www.bloomberg.com/news/videos/2026-11-26/unicredit-clears-final-hurdle-to-take-over-commerzbank-video"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
-      "summary": [
-        "Investing.com：美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
-        "CNBC：法官暫時阻止 FCC 對迪士尼旗下 ABC 電視臺的提前更新程式"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
-          "url": "https://www.investing.com/news/stock-market-news/us-judge-blocks-fcc-from-revoking-disneys-abc-tv-licenses-5051928"
-        },
-        {
-          "source": "CNBC",
-          "title": "法官暫時阻止 FCC 對迪士尼旗下 ABC 電視臺的提前更新程式",
-          "url": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html"
         }
       ]
     },
