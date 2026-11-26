@@ -1,29 +1,8 @@
 {
-  "updated_at": "2026-11-27 04:56",
+  "updated_at": "2026-11-27 05:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
-      "summary": [
-        "自由時報：泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
-        "經濟日報：泰國曼谷油庫爆炸濃煙竄天　當局籲居民撤離"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654395"
-        },
-        {
-          "source": "經濟日報",
-          "title": "泰國曼谷油庫爆炸濃煙竄天　當局籲居民撤離",
-          "url": "https://money.udn.com/money/story/5599/9903977"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "科技股下殺後反彈　亞股回穩多收高",
       "summary": [
         "經濟日報：科技股下殺後反彈　亞股回穩多收高",
@@ -40,6 +19,27 @@
           "source": "自由時報",
           "title": "科技股回穩　歐股隨亞股走揚收高",
           "url": "https://ec.ltn.com.tw/article/breakingnews/5654830"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "泰國曼谷油庫爆炸起火7傷4命危 當局已控制火勢",
+      "summary": [
+        "經濟日報：泰國曼谷油庫爆炸起火7傷4命危 當局已控制火勢",
+        "公視新聞：曼谷市區煉油廠油庫爆炸 至少4人命危、7人傷｜20261126 8點新世界"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "泰國曼谷油庫爆炸起火7傷4命危 當局已控制火勢",
+          "url": "https://money.udn.com/money/story/5599/9904141"
+        },
+        {
+          "source": "公視新聞",
+          "title": "曼谷市區煉油廠油庫爆炸 至少4人命危、7人傷｜20261126 8點新世界",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0R2kya2UxNDhTMUtCM2pfbVJVdWZFMmtQTkhjbHdHT3E3bmFlYjk4VFQ5LUQteWdYNnFzYXdCcGdHaEc5azlHM2Z6OA?oc=5"
         }
       ]
     },
@@ -66,27 +66,6 @@
     },
     {
       "rank": 4,
-      "title": "民主剛果伊波拉疫情延燒 逾1.2萬人確診 近6千人病歿",
-      "summary": [
-        "自由時報：民主剛果伊波拉疫情延燒 逾1.2萬人確診 近6千人病歿",
-        "經濟日報：民主剛果逾1萬2000起伊波拉確診病例　疫情仍難遏制"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "民主剛果伊波拉疫情延燒 逾1.2萬人確診 近6千人病歿",
-          "url": "https://health.ltn.com.tw/article/breakingnews/5654440"
-        },
-        {
-          "source": "經濟日報",
-          "title": "民主剛果逾1萬2000起伊波拉確診病例　疫情仍難遏制",
-          "url": "https://money.udn.com/money/story/5599/9904189"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "新北前議員蔡明堂涉為兒賄選遭聲押 檢方查扣2715萬現金",
       "summary": [
         "公視新聞：新北前議員蔡明堂涉為兒賄選遭聲押 檢方查扣2715萬現金",
@@ -107,7 +86,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "感染 RSV 為何咳不停？中研院揭氣道敏感機制",
       "summary": [
         "科技新報：感染 RSV 為何咳不停？中研院揭氣道敏感機制",
@@ -128,7 +107,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "蔣萬安車隊掃進內湖　突遇支持者「攔車下跪陳情」",
       "summary": [
         "ETtoday：蔣萬安車隊掃進內湖　突遇支持者「攔車下跪陳情」",
@@ -149,7 +128,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "股王信驊祭庫藏股！擬買回100張　最高斥資12.8億元",
       "summary": [
         "ETtoday：股王信驊祭庫藏股！擬買回100張　最高斥資12.8億元",
@@ -170,7 +149,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "駭客遠端盜轉！金管會接獲8銀行通報 涉10客戶共 182 萬",
       "summary": [
         "自由時報：駭客遠端盜轉！金管會接獲8銀行通報 涉10客戶共 182 萬",
@@ -191,7 +170,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "原油價格維持漲勢 中東緊張局勢令市場不安",
       "summary": [
         "經濟日報：原油價格維持漲勢 中東緊張局勢令市場不安",
@@ -210,11 +189,59 @@
           "url": "https://ec.ltn.com.tw/article/breakingnews/5654846"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "沈伯洋取消選前之夜   陳素月預告明扮「彰化分身」力挺",
+      "summary": [
+        "自由時報：沈伯洋取消選前之夜   陳素月預告明扮「彰化分身」力挺",
+        "公視新聞：沈伯洋取消選前之夜實體造勢 蔣萬安競辦：願讓市府路權"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "沈伯洋取消選前之夜   陳素月預告明扮「彰化分身」力挺",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5654727"
+        },
+        {
+          "source": "公視新聞",
+          "title": "沈伯洋取消選前之夜實體造勢 蔣萬安競辦：願讓市府路權",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuZUM1SDVaZkI0X2tCZ3V1dTNNTXdRMVhZTVFEQ3B5VGQyUGxFdVB3OFFEalA5Zm9iS0NlSHI2bWEtOU5hZTJ4emtMS2FhVXM?oc=5"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "西班牙德科斯將接替拉加德出任歐洲央行總裁",
+      "summary": [
+        "Bloomberg Markets：西班牙德科斯將接替拉加德出任歐洲央行總裁",
+        "CNBC：西班牙央行總裁巴勃羅·埃爾南德斯·德科斯將出任歐洲央行總裁",
+        "NHK新聞：同意提名西班牙德科斯為下一任歐洲央行總裁"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "西班牙德科斯將接替拉加德出任歐洲央行總裁",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-26/spain-s-de-cos-set-to-succeed-lagarde-as-ecb-president-video-mwxmko5n"
+        },
+        {
+          "source": "CNBC",
+          "title": "西班牙央行總裁巴勃羅·埃爾南德斯·德科斯將出任歐洲央行總裁",
+          "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+        },
+        {
+          "source": "NHK新聞",
+          "title": "同意提名西班牙德科斯為下一任歐洲央行總裁",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261127de82180"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "兩名義大利人伊朗襲擊科威特後喪生",
       "summary": [
         "BBC World：兩名義大利人伊朗襲擊科威特後喪生",
@@ -241,7 +268,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "奧馳亞探索帝國品牌的收購要約",
       "summary": [
         "Financial Times：奧馳亞探索帝國品牌的收購要約",
@@ -258,27 +285,6 @@
           "source": "Investing.com",
           "title": "奧馳亞正在考慮收購英國帝國品牌的可能報價",
           "url": "https://www.investing.com/news/stock-market-news/altria-weighs-possible-offer-for-uks-imperial-brands-5052505"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Marc Levinson 講述 UPS 如何創造現代物流",
-      "summary": [
-        "Bloomberg Markets：Marc Levinson 講述 UPS 如何創造現代物流",
-        "Bloomberg Tech：Marc Levinson 講述 UPS 如何創造現代物流"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "Marc Levinson 講述 UPS 如何創造現代物流",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "Marc Levinson 講述 UPS 如何創造現代物流",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics-video"
         }
       ]
     },
@@ -305,27 +311,6 @@
     },
     {
       "rank": 5,
-      "title": "西班牙德科斯將接替拉加德出任歐洲央行總裁",
-      "summary": [
-        "Bloomberg Markets：西班牙德科斯將接替拉加德出任歐洲央行總裁",
-        "CNBC：西班牙央行總裁巴勃羅·埃爾南德斯·德科斯將出任歐洲央行總裁"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "西班牙德科斯將接替拉加德出任歐洲央行總裁",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-26/spain-s-de-cos-set-to-succeed-lagarde-as-ecb-president-video-mwxmko5n"
-        },
-        {
-          "source": "CNBC",
-          "title": "西班牙央行總裁巴勃羅·埃爾南德斯·德科斯將出任歐洲央行總裁",
-          "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "SAP 考慮在 AI 重組中削減至少 10,000 個職位",
       "summary": [
         "Bloomberg Tech：SAP 考慮在 AI 重組中削減至少 10,000 個職位",
@@ -346,7 +331,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "挪威股市收盤走高；奧斯陸OBX上漲1.50%",
       "summary": [
         "Investing.com：挪威股市收盤走高；奧斯陸OBX上漲1.50%"
@@ -361,22 +346,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "為什麼塔洛石油公司股票今天上漲？",
-      "summary": [
-        "Investing.com：為什麼塔洛石油公司股票今天上漲？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "為什麼塔洛石油公司股票今天上漲？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-tullow-oil-stock-rallying-today-93CH-5052298"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "title": "黑色星期五特惠：在今天促銷結束前享受 InvestingPro 60% 的折扣",
       "summary": [
         "Investing.com：黑色星期五特惠：在今天促銷結束前享受 InvestingPro 60% 的折扣"
@@ -391,17 +361,47 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "英國性調查：年輕人中五成女性、九成男性觀看色情片 三分之一未有性經驗",
+      "rank": 8,
+      "title": "臺灣九合一選舉：從「洋流」看民進黨戰略性擱置「抗中保臺」牌",
       "summary": [
-        "BBC中文：英國性調查：年輕人中五成女性、九成男性觀看色情片 三分之一未有性經驗"
+        "BBC中文：臺灣九合一選舉：從「洋流」看民進黨戰略性擱置「抗中保臺」牌"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "BBC中文",
-          "title": "英國性調查：年輕人中五成女性、九成男性觀看色情片 三分之一未有性經驗",
-          "url": "https://www.bbc.com/zhongwen/articles/cmewv0vkgwplo/trad?at_medium=RSS&at_campaign=rss"
+          "title": "臺灣九合一選舉：從「洋流」看民進黨戰略性擱置「抗中保臺」牌",
+          "url": "https://www.bbc.com/zhongwen/articles/cmx29vxzgj25o/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "李在明內閣重大改組，涉外交部長、統一部部長、情報院長等",
+      "summary": [
+        "法廣RFI：李在明內閣重大改組，涉外交部長、統一部部長、情報院長等"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "李在明內閣重大改組，涉外交部長、統一部部長、情報院長等",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261126-%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%85%A7%E9%96%A3%E9%87%8D%E5%A4%A7%E6%94%B9%E7%B5%84%EF%BC%8C%E6%B6%89%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%B7-%E7%B5%B1%E4%B8%80%E9%83%A8%E9%83%A8%E9%95%B7-%E6%83%85%E5%A0%B1%E9%99%A2%E9%95%B7%E7%AD%89"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "359,424 名小學生拒絕上學，創歷史最高數字。父母也紛紛離職。",
+      "summary": [
+        "NHK新聞：359,424 名小學生拒絕上學，創歷史最高數字。父母也紛紛離職。"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "359,424 名小學生拒絕上學，創歷史最高數字。父母也紛紛離職。",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261126de81766"
         }
       ]
     }
