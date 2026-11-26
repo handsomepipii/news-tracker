@@ -1,30 +1,25 @@
 {
-  "updated_at": "2026-11-26 17:27",
+  "updated_at": "2026-11-26 17:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "美批准SpaceX部署100萬顆衛星　建太空資料中心",
+      "title": "美批准 SpaceX 部署 100 萬顆衛星，建太空資料中心",
       "summary": [
-        "自由時報：美批准SpaceX部署100萬顆衛星　建太空資料中心",
-        "經濟日報：美批准 SpaceX 部署100萬顆衛星 建太空資料中心",
-        "科技新報：美批准 SpaceX 部署 100 萬顆衛星，建太空資料中心"
+        "科技新報：美批准 SpaceX 部署 100 萬顆衛星，建太空資料中心",
+        "自由時報：史上首次！SpaceX獲準發射100萬顆衛星 2040年前打造太空AI帝國",
+        "鉅亨網：馬斯克太空AI夢邁出一大步！SpaceX獲有條件核准發射最多100萬顆衛星"
       ],
       "media_count": 5,
       "links": [
         {
-          "source": "自由時報",
-          "title": "美批准SpaceX部署100萬顆衛星　建太空資料中心",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5653616"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美批准 SpaceX 部署100萬顆衛星 建太空資料中心",
-          "url": "https://money.udn.com/money/story/123398/9902518"
-        },
-        {
           "source": "科技新報",
           "title": "美批准 SpaceX 部署 100 萬顆衛星，建太空資料中心",
           "url": "https://technews.tw/2026/11/26/us-authorizes-spacex-to-deploy-1-million-satellites-for-data-centers-in-space/"
+        },
+        {
+          "source": "自由時報",
+          "title": "史上首次！SpaceX獲準發射100萬顆衛星 2040年前打造太空AI帝國",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5653696"
         },
         {
           "source": "鉅亨網",
@@ -35,6 +30,11 @@
           "source": "iThome",
           "title": "SpaceX取得100萬顆衛星部署許可，以打造太空資料中心",
           "url": "https://www.ithome.com.tw/news/180802"
+        },
+        {
+          "source": "數位時代",
+          "title": "搶攻AI算力！SpaceX獲FCC核准百萬顆太空資料中心衛星，最晚2033年須開始部署",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mZ2ROYjc0NGpWWndFVE9pc2w2VGdnOElVNFRSbEhCdUEzRktsa1AwSWZmMXQyUzZjYm9iT1hLVHhYVWlaVTVFenpTZ1ZlZXRVUTRkLU1KSEFiX2tFVGVLWHBXYnNickVzVkZiQjVRdzdEOElmTXc?oc=5"
         }
       ]
     },
@@ -67,6 +67,33 @@
     },
     {
       "rank": 3,
+      "title": "1Password 證實內部系統遭駭，強呼叫戶密碼保管未受影響",
+      "summary": [
+        "科技新報：1Password 證實內部系統遭駭，強呼叫戶密碼保管未受影響",
+        "數位時代：密碼管理工具1Password遭駭！官方證實客戶資料外洩，需要換密碼嗎？6招防範釣魚攻擊",
+        "自由時報：幫你管密碼的1Password竟遭駭！個資外洩　使用者該怎麼辦？"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "1Password 證實內部系統遭駭，強呼叫戶密碼保管未受影響",
+          "url": "https://infosecu.technews.tw/2026/11/26/1password-releases-update-on-backend-systems-security-incident/"
+        },
+        {
+          "source": "數位時代",
+          "title": "密碼管理工具1Password遭駭！官方證實客戶資料外洩，需要換密碼嗎？6招防範釣魚攻擊",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmI1bGg5U0pKb05ZT0NjSjZHNFczX1ZFc0V4V3B6QTU3MWFNXzJEQno3ckEtTDk3X1FlaEl3S2o0bERuekVCN1pPcVBoNTRPbGN0dkM3SU0zRUc2Zlp0bVhZc2puUVg0T2xMaWFTSnE5TElwZXB3Y2tIVWE4dFBMTGtsSDY?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "幫你管密碼的1Password竟遭駭！個資外洩　使用者該怎麼辦？",
+          "url": "https://3c.ltn.com.tw/news/68437"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "「大賣空」貝瑞罕見轉多！空單幾乎清零 握25％現金準備抄底納指",
       "summary": [
         "自由時報：「大賣空」貝瑞罕見轉多！空單幾乎清零 握25％現金準備抄底納指",
@@ -93,7 +120,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "沈伯洋取消選前之夜 羅智強凌晨急發宣告 網抓包刪改文：露餡了？",
       "summary": [
         "自由時報：沈伯洋取消選前之夜 羅智強凌晨急發宣告 網抓包刪改文：露餡了？",
@@ -114,7 +141,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "AI泡沫破恐比網路泡沫更傷- 日報",
       "summary": [
         "工商時報：AI泡沫破恐比網路泡沫更傷- 日報",
@@ -135,7 +162,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
       "summary": [
         "經濟日報：大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
@@ -156,7 +183,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
       "summary": [
         "經濟日報：輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
@@ -173,27 +200,6 @@
           "source": "ETtoday",
           "title": "美收緊管制！　輝達傳要求合作夥伴「暫停出貨東南亞4國」",
           "url": "https://www.ettoday.net/news/20261126/3278933.htm"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "科技股逢賣壓　美股多收黑",
-      "summary": [
-        "自由時報：科技股逢賣壓　美股多收黑",
-        "經濟日報：科技股逢賣壓　美股多收黑"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "科技股逢賣壓　美股多收黑",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5653617"
-        },
-        {
-          "source": "經濟日報",
-          "title": "科技股逢賣壓　美股多收黑",
-          "url": "https://money.udn.com/money/story/123398/9902519"
         }
       ]
     },
@@ -285,48 +291,6 @@
     },
     {
       "rank": 3,
-      "title": "紐約市梅西百貨感恩節遊行因風暴預報而推遲",
-      "summary": [
-        "Investing.com：紐約市梅西百貨感恩節遊行因風暴預報而推遲",
-        "BBC World：梅西百貨因天氣原因延後感恩節遊行"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "紐約市梅西百貨感恩節遊行因風暴預報而推遲",
-          "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483"
-        },
-        {
-          "source": "BBC World",
-          "title": "梅西百貨因天氣原因延後感恩節遊行",
-          "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Palo Alto Networks 因涉嫌會計詐騙而被起訴",
-      "summary": [
-        "Investing.com：Palo Alto Networks 因涉嫌會計詐騙而被起訴",
-        "Yahoo Finance：Palo Alto Networks 因涉嫌會計詐騙而被起訴"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "Palo Alto Networks 因涉嫌會計詐騙而被起訴",
-          "url": "https://www.investing.com/news/stock-market-news/palo-alto-networks-sued-over-alleged-accounting-fraud-claims-5051500"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Palo Alto Networks 因涉嫌會計詐騙而被起訴",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdUE2MVZVSnluMFRvYjBvWHFjMlVkalJjM3JxVGFPYXp0bzE0NHhjWG8xX0lyamlLSDJYeWxpQ1A1dlE0SFczZFJzdnUwYW0tTEVMdUpOekdVVUR5UUxNeEVudXFxVjY4bFluZ2xNZ2I4YTFPcFR3eF9MNXZzTGlNZFVfNkI1RjFUa0oyb1RsQ21MSnNybXFmWA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
       "summary": [
         "TechCrunch：標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
@@ -347,7 +311,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "警告財務「危急」後北歐大西洋航班暫停",
       "summary": [
         "CNBC：警告財務「危急」後北歐大西洋航班暫停",
@@ -368,7 +332,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
       "summary": [
         "Investing.com：美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
@@ -389,7 +353,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "裕信銀行掃清了收購德國商業銀行的最後障礙",
       "summary": [
         "Investing.com：裕信銀行掃清了收購德國商業銀行的最後障礙",
@@ -410,7 +374,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
       "summary": [
         "Financial Times：中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
@@ -431,7 +395,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
       "summary": [
         "Investing.com：巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
@@ -448,6 +412,42 @@
           "source": "Financial Times",
           "title": "巴布科克獲得創紀錄的 87 億英鎊合約以支援皇家海軍潛艇",
           "url": "https://www.ft.com/content/b6db41b9-5af1-4105-a063-7dbf40e7fb2c?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Marc Levinson 講述 UPS 如何創造現代物流",
+      "summary": [
+        "Bloomberg Markets：Marc Levinson 講述 UPS 如何創造現代物流",
+        "Bloomberg Tech：Marc Levinson 講述 UPS 如何創造現代物流"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "Marc Levinson 講述 UPS 如何創造現代物流",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "Marc Levinson 講述 UPS 如何創造現代物流",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "中國人工智慧雄心面臨一個嚴峻問題：去哪裡找錢- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：中國人工智慧雄心面臨一個嚴峻問題：去哪裡找錢- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "中國人工智慧雄心面臨一個嚴峻問題：去哪裡找錢- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQW81LTJtY2JsdlhfckVnSXhfWWVJTms2MkNPV2lYUFFQWUQwTGV3RFFtZHJ5MHk5UERVRzl3RUoySWZ4ME9ta2dMY3RxN191V0xPMm9FTUlJdzViaGVRT25hQzdQUlk4WTBIcTZtTEwwX09LeDg1WHlIQ19DaFhTbE1VZjI?oc=5"
         }
       ]
     }
