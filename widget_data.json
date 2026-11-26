@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 10:55",
+  "updated_at": "2026-11-26 11:26",
   "taiwan": [
     {
       "rank": 1,
@@ -180,17 +180,17 @@
     },
     {
       "rank": 7,
-      "title": "震撼！沈伯洋宣佈停辦選前市民之夜 親自曝原因",
+      "title": "太明顯了！沈伯洋無奈取消選前之夜 蔡康永「超兇」發聲網暴動！",
       "summary": [
-        "自由時報：震撼！沈伯洋宣佈停辦選前市民之夜 親自曝原因",
+        "自由時報：太明顯了！沈伯洋無奈取消選前之夜 蔡康永「超兇」發聲網暴動！",
         "關鍵評論網：取消選前市民之夜，沈伯洋這次真的開大招了！"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "震撼！沈伯洋宣佈停辦選前市民之夜 親自曝原因",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653531"
+          "title": "太明顯了！沈伯洋無奈取消選前之夜 蔡康永「超兇」發聲網暴動！",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653569"
         },
         {
           "source": "關鍵評論網",
@@ -335,6 +335,33 @@
     },
     {
       "rank": 3,
+      "title": "標準普爾表示可能因治理擔憂而下調英偉達評級",
+      "summary": [
+        "Bloomberg Tech：標準普爾表示可能因治理擔憂而下調英偉達評級",
+        "TechCrunch：標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
+        "CNBC：標準普爾警告英偉達信用評等可能因「上升」的管理和治理風險而被下調"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "標準普爾表示可能因治理擔憂而下調英偉達評級",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+        },
+        {
+          "source": "CNBC",
+          "title": "標準普爾警告英偉達信用評等可能因「上升」的管理和治理風險而被下調",
+          "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
       "summary": [
         "Investing.com：SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
@@ -361,7 +388,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Palo Alto Networks 前經理指控會計欺詐",
       "summary": [
         "Bloomberg Tech：Palo Alto Networks 前經理指控會計欺詐",
@@ -388,7 +415,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "梅西百貨因惡劣天氣延後感恩節遊行",
       "summary": [
         "CNBC：梅西百貨因惡劣天氣延後感恩節遊行",
@@ -411,27 +438,6 @@
           "source": "BBC World",
           "title": "梅西百貨因天氣原因延後感恩節遊行",
           "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "人工智慧交易陷入困境，納斯達克 100 指數將進入熊市",
-      "summary": [
-        "Bloomberg Markets：人工智慧交易陷入困境，納斯達克 100 指數將進入熊市",
-        "Bloomberg Tech：納斯達克 100 指數進入熊市，人工智慧焦慮加劇損失"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "人工智慧交易陷入困境，納斯達克 100 指數將進入熊市",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "納斯達克 100 指數進入熊市，人工智慧焦慮加劇損失",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-25/nasdaq-100-enters-bear-market-territory-on-ai-angst-video"
         }
       ]
     },
