@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 11:26",
+  "updated_at": "2026-11-26 11:56",
   "taiwan": [
     {
       "rank": 1,
@@ -72,28 +72,28 @@
     },
     {
       "rank": 3,
-      "title": "美擬對14經濟體加徵關稅　中國20%最高、臺韓日歐盟15%",
+      "title": "國1彰化段重大車禍！3大型車追撞3死2命危14傷 南下全線封閉",
       "summary": [
-        "經濟日報：美擬對14經濟體加徵關稅　中國20%最高、臺韓日歐盟15%",
-        "風傳媒：美301調查出爐 擬對14經濟體加關稅 臺灣上限15%且不疊加 | 蕭宥宸 | 新聞",
-        "科技新報：美國擬對 14 個經濟體祭出新關稅，臺灣課徵 15% 中國關稅恐升至約 45%"
+        "自由時報：國1彰化段重大車禍！3大型車追撞3死2命危14傷 南下全線封閉",
+        "ETtoday：快訊／國1彰化段「遊覽車、2大車追撞」　3命危16傷",
+        "TVBS新聞：快訊／國1彰化段連環事故！和欣客運挨撞 司機乘客3人傷重亡"
       ],
       "media_count": 3,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "美擬對14經濟體加徵關稅　中國20%最高、臺韓日歐盟15%",
-          "url": "https://money.udn.com/money/story/5599/9902327"
+          "source": "自由時報",
+          "title": "國1彰化段重大車禍！3大型車追撞3死2命危14傷 南下全線封閉",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5653629"
         },
         {
-          "source": "風傳媒",
-          "title": "美301調查出爐 擬對14經濟體加關稅 臺灣上限15%且不疊加 | 蕭宥宸 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kRk1LSm5FVTJET1E2SzVxOUotaW4tR1FCY05qUFB2YWRxbHI0QmpoWVlHQlFFdDFYS3ZLZXNmdkV0anFzTlZ3RkpqY2Nvdw?oc=5"
+          "source": "ETtoday",
+          "title": "快訊／國1彰化段「遊覽車、2大車追撞」　3命危16傷",
+          "url": "https://www.ettoday.net/news/20261126/3278624.htm"
         },
         {
-          "source": "科技新報",
-          "title": "美國擬對 14 個經濟體祭出新關稅，臺灣課徵 15% 中國關稅恐升至約 45%",
-          "url": "https://finance.technews.tw/2026/11/26/us-plans-new-tariffs-on-14-economies/"
+          "source": "TVBS新聞",
+          "title": "快訊／國1彰化段連環事故！和欣客運挨撞 司機乘客3人傷重亡",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DWmJjMGRIS1g2Z2VrMWtlZ2RWby1feXFtb1U5X2l3aW40dXV5RGlvSm82bm5TTGZkaGNNam5oQkVMZmZNd2pGRDFzaWo3ZG8?oc=5"
         }
       ]
     },
@@ -201,27 +201,6 @@
     },
     {
       "rank": 8,
-      "title": "快訊／震撼彈！沈伯洋宣佈取消選前之夜　「市民交通最重要」",
-      "summary": [
-        "ETtoday：快訊／震撼彈！沈伯洋宣佈取消選前之夜　「市民交通最重要」",
-        "自由時報：沈伯洋為市民交通取消選前之夜 郝明義：和「蔣不聽」對比太大"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／震撼彈！沈伯洋宣佈取消選前之夜　「市民交通最重要」",
-          "url": "https://www.ettoday.net/news/20261125/3278565.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "沈伯洋為市民交通取消選前之夜 郝明義：和「蔣不聽」對比太大",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653510"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "沈伯洋選前之夜喊卡！柯昱安揭當年柯市府也沒搶到路權 怒嗆藍營1句",
       "summary": [
         "自由時報：沈伯洋選前之夜喊卡！柯昱安揭當年柯市府也沒搶到路權 怒嗆藍營1句",
@@ -238,6 +217,27 @@
           "source": "ETtoday",
           "title": "沈伯洋選前之夜喊卡　楊智伃：裝可憐也要怪蔣萬安？",
           "url": "https://www.ettoday.net/news/20261126/3278623.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "《臺北時報》 美國擬對中國臺灣等14個貿易夥伴加徵新關稅",
+      "summary": [
+        "自由時報：《臺北時報》 美國擬對中國臺灣等14個貿易夥伴加徵新關稅",
+        "科技新報：美國擬對 14 個經濟體祭出新關稅，臺灣課徵 15% 中國關稅恐升至約 45%"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "《臺北時報》 美國擬對中國臺灣等14個貿易夥伴加徵新關稅",
+          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5653523"
+        },
+        {
+          "source": "科技新報",
+          "title": "美國擬對 14 個經濟體祭出新關稅，臺灣課徵 15% 中國關稅恐升至約 45%",
+          "url": "https://finance.technews.tw/2026/11/26/us-plans-new-tariffs-on-14-economies/"
         }
       ]
     },
