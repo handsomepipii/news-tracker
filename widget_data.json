@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 16:25",
+  "updated_at": "2026-11-26 16:57",
   "taiwan": [
     {
       "rank": 1,
@@ -115,27 +115,6 @@
     },
     {
       "rank": 5,
-      "title": "重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
-      "summary": [
-        "自由時報：重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
-        "經濟日報：重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5653613"
-        },
-        {
-          "source": "經濟日報",
-          "title": "重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
-          "url": "https://money.udn.com/money/story/5599/9902491"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "AI泡沫破恐比網路泡沫更傷- 日報",
       "summary": [
         "工商時報：AI泡沫破恐比網路泡沫更傷- 日報",
@@ -156,7 +135,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
       "summary": [
         "經濟日報：輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
@@ -177,7 +156,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "科技股逢賣壓　美股多收黑",
       "summary": [
         "自由時報：科技股逢賣壓　美股多收黑",
@@ -198,7 +177,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "沈伯洋選前之夜喊停！蔣萬安被灌爆 楊植鬥搬吳思瑤4年前的話反嗆",
       "summary": [
         "自由時報：沈伯洋選前之夜喊停！蔣萬安被灌爆 楊植鬥搬吳思瑤4年前的話反嗆",
@@ -219,7 +198,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
       "summary": [
         "ETtoday：盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
@@ -236,6 +215,27 @@
           "source": "科技新報",
           "title": "美媒：盧比歐憂輝達不利對中政策，向川普示警國安威脅",
           "url": "https://technews.tw/2026/11/26/rubio-warns-trump-nvidia-harms-china-policy-national-security-threat/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "溼答答！　今全臺有雨",
+      "summary": [
+        "ETtoday：溼答答！　今全臺有雨",
+        "自由時報：華南雲雨區東移！今全臺有雨、早晚涼 週六投票日天氣曝光"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "溼答答！　今全臺有雨",
+          "url": "https://www.ettoday.net/news/20261126/3278597.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "華南雲雨區東移！今全臺有雨、早晚涼 週六投票日天氣曝光",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5653625"
         }
       ]
     }
@@ -381,27 +381,6 @@
     },
     {
       "rank": 7,
-      "title": "人工智慧風險導緻美國交易波動，亞洲股市上漲",
-      "summary": [
-        "Financial Times：人工智慧風險導緻美國交易波動，亞洲股市上漲",
-        "Investing.com：亞洲股市反彈，人工智慧和關稅潛伏在幕後"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "人工智慧風險導緻美國交易波動，亞洲股市上漲",
-          "url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679"
-        },
-        {
-          "source": "Investing.com",
-          "title": "亞洲股市反彈，人工智慧和關稅潛伏在幕後",
-          "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "警告財務「危急」後北歐大西洋航班暫停",
       "summary": [
         "CNBC：警告財務「危急」後北歐大西洋航班暫停",
@@ -422,7 +401,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
       "summary": [
         "Investing.com：美國法官阻止 FCC 撤銷迪士尼 ABC 電視牌照",
@@ -439,6 +418,27 @@
           "source": "CNBC",
           "title": "法官暫時阻止 FCC 對迪士尼旗下 ABC 電視臺的提前更新程式",
           "url": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "裕信銀行掃清了收購德國商業銀行的最後障礙",
+      "summary": [
+        "Investing.com：裕信銀行掃清了收購德國商業銀行的最後障礙",
+        "Bloomberg Markets：裕信銀行掃清了接管德國商業銀行的最後障礙"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "裕信銀行掃清了收購德國商業銀行的最後障礙",
+          "url": "https://www.investing.com/news/stock-market-news/unicredit-clears-final-hurdles-for-commerzbank-takeover-5052161"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "裕信銀行掃清了接管德國商業銀行的最後障礙",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-26/unicredit-clears-final-hurdle-to-take-over-commerzbank-video"
         }
       ]
     },
