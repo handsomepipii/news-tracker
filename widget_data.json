@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 12:56",
+  "updated_at": "2026-11-26 13:26",
   "taiwan": [
     {
       "rank": 1,
@@ -153,17 +153,17 @@
     },
     {
       "rank": 6,
-      "title": "圖輯》市民最重要！沈伯洋取消選前之夜 漏夜拆除舞臺畫面曝",
+      "title": "沈伯洋取消選前之夜 羅智強凌晨急發宣告 網抓包刪改文：露餡了？",
       "summary": [
-        "自由時報：圖輯》市民最重要！沈伯洋取消選前之夜 漏夜拆除舞臺畫面曝",
+        "自由時報：沈伯洋取消選前之夜 羅智強凌晨急發宣告 網抓包刪改文：露餡了？",
         "關鍵評論網：取消選前市民之夜，沈伯洋這次真的開大招了！"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "自由時報",
-          "title": "圖輯》市民最重要！沈伯洋取消選前之夜 漏夜拆除舞臺畫面曝",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653589"
+          "title": "沈伯洋取消選前之夜 羅智強凌晨急發宣告 網抓包刪改文：露餡了？",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653628"
         },
         {
           "source": "關鍵評論網",
@@ -260,9 +260,9 @@
   "global": [
     {
       "rank": 1,
-      "title": "美國授權SpaceX在太空部署100萬顆衛星用於資料中心",
+      "title": "SpaceX 贏得具有里程碑意義的 FCC 對 100 萬顆衛星資料中心星座的支援",
       "summary": [
-        "Investing.com：美國授權SpaceX在太空部署100萬顆衛星用於資料中心",
+        "Investing.com：SpaceX 贏得具有里程碑意義的 FCC 對 100 萬顆衛星資料中心星座的支援",
         "The Verge：FCC 批准 SpaceX 將多達 100 萬顆資料中心衛星送入太空的計劃",
         "Bloomberg Tech：SpaceX 獲得政府批准啟動太空資料中心"
       ],
@@ -270,8 +270,8 @@
       "links": [
         {
           "source": "Investing.com",
-          "title": "美國授權SpaceX在太空部署100萬顆衛星用於資料中心",
-          "url": "https://www.investing.com/news/stock-market-news/us-authorizes-spacex-to-deploy-1-million-satellites-for-data-centers-in-space-5051261"
+          "title": "SpaceX 贏得具有里程碑意義的 FCC 對 100 萬顆衛星資料中心星座的支援",
+          "url": "https://www.investing.com/news/stock-market-news/spacex-wins-landmark-fcc-backing-for-1-millionsatellite-data-center-constellation-5051292"
         },
         {
           "source": "The Verge",
@@ -297,38 +297,6 @@
     },
     {
       "rank": 2,
-      "title": "由於對人工智慧的擔憂加劇，美股進一步下跌",
-      "summary": [
-        "BBC World：由於對人工智慧的擔憂加劇，美股進一步下跌",
-        "Yahoo Finance：隨著投資者逃離人工智慧交易，英偉達、AMD 和美光股價下跌",
-        "Bloomberg Tech：由於人工智慧焦慮加劇損失，科技股在「先賣」模式下暴跌"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "由於對人工智慧的擔憂加劇，美股進一步下跌",
-          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "隨著投資者逃離人工智慧交易，英偉達、AMD 和美光股價下跌",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVk9mVUxsUll4NmpxRklUb1dFaHduU3ZURXZRV2ktV0pDM2ZMNElPb3RrV0NiS0JlLTVXQXJKNnpTV1JmV1k2NGMtdzNLa0F0c2tsY2xRMmJKZHhwY1dueWZXb0l4VXhWNkl4NmJ6QUlTNjBpZUItN0xkX21JUXJ5WGlUbWdON0E0V2FOT2lGYkozcm9VSjlXVjR3SDc5WWQ3VzJhWm5mb29YbjBQSU1hQURkYw?oc=5"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "由於人工智慧焦慮加劇損失，科技股在「先賣」模式下暴跌",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-25/tech-stocks-tumble-as-ai-angst-fuels-losses-video"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "隨著逢低買家的出現，股市削減了人工智慧驅動的損失",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-pare-ai-driven-losses-as-dip-buyers-emerge-video"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "標準普爾表示可能因治理擔憂而下調英偉達評級",
       "summary": [
         "Bloomberg Tech：標準普爾表示可能因治理擔憂而下調英偉達評級",
@@ -355,7 +323,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
       "summary": [
         "Investing.com：SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
@@ -382,7 +350,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Palo Alto Networks 前經理指控會計欺詐",
       "summary": [
         "Bloomberg Tech：Palo Alto Networks 前經理指控會計欺詐",
@@ -409,7 +377,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "梅西百貨因惡劣天氣延後感恩節遊行",
       "summary": [
         "CNBC：梅西百貨因惡劣天氣延後感恩節遊行",
@@ -436,7 +404,49 @@
       ]
     },
     {
+      "rank": 6,
+      "title": "馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
+      "summary": [
+        "Investing.com：馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
+        "Bloomberg Tech：馬斯克稱每個美國孩子可以獲得兩份 SpaceX 股票，承諾加倍"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
+          "url": "https://www.investing.com/news/stock-market-news/musk-says-every-child-in-the-us-will-get-two-spacex-shares-5052006"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "馬斯克稱每個美國孩子可以獲得兩份 SpaceX 股票，承諾加倍",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge"
+        }
+      ]
+    },
+    {
       "rank": 7,
+      "title": "由於人工智慧焦慮加劇損失，科技股在「先賣」模式下暴跌",
+      "summary": [
+        "Bloomberg Tech：由於人工智慧焦慮加劇損失，科技股在「先賣」模式下暴跌",
+        "Bloomberg Markets：隨著逢低買家的出現，股市削減了人工智慧驅動的損失"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "由於人工智慧焦慮加劇損失，科技股在「先賣」模式下暴跌",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-25/tech-stocks-tumble-as-ai-angst-fuels-losses-video"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "隨著逢低買家的出現，股市削減了人工智慧驅動的損失",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-pare-ai-driven-losses-as-dip-buyers-emerge-video"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "1Password稱駭客侵入其內部系統，但客戶密碼是安全的",
       "summary": [
         "TechCrunch：1Password稱駭客侵入其內部系統，但客戶密碼是安全的",
@@ -457,7 +467,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "北韓因制裁驅逐瑞士外交官",
       "summary": [
         "BBC World：北韓因制裁驅逐瑞士外交官",
@@ -478,7 +488,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "隨著英偉達恢復漲勢消退，股市持續下跌",
       "summary": [
         "Bloomberg Markets：隨著英偉達恢復漲勢消退，股市持續下跌",
@@ -495,27 +505,6 @@
           "source": "WSJ Markets",
           "title": "瘋狂交易後股市收低",
           "url": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "以色列法官建議撤銷內塔尼亞胡最嚴重的指控",
-      "summary": [
-        "BBC World：以色列法官建議撤銷內塔尼亞胡最嚴重的指控",
-        "Financial Times：以色列法官建議檢察官撤銷內塔尼亞胡的部分指控"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "以色列法官建議撤銷內塔尼亞胡最嚴重的指控",
-          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Financial Times",
-          "title": "以色列法官建議檢察官撤銷內塔尼亞胡的部分指控",
-          "url": "https://www.ft.com/content/db700af5-22b2-4903-ae2e-124513681071?syn-25a6b1a6=1"
         }
       ]
     }
