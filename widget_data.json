@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 14:56",
+  "updated_at": "2026-11-26 15:27",
   "taiwan": [
     {
       "rank": 1,
@@ -67,60 +67,6 @@
     },
     {
       "rank": 3,
-      "title": "《臺北時報》 美國擬對中國臺灣等14個貿易夥伴加徵新關稅",
-      "summary": [
-        "自由時報：《臺北時報》 美國擬對中國臺灣等14個貿易夥伴加徵新關稅",
-        "科技新報：美國擬對 14 個經濟體祭出新關稅，臺灣課徵 15% 中國關稅恐升至約 45%",
-        "經濟日報：美擬對14經濟體加徵新關稅　主要貿易夥伴紛表不滿"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "《臺北時報》 美國擬對中國臺灣等14個貿易夥伴加徵新關稅",
-          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5653523"
-        },
-        {
-          "source": "科技新報",
-          "title": "美國擬對 14 個經濟體祭出新關稅，臺灣課徵 15% 中國關稅恐升至約 45%",
-          "url": "https://finance.technews.tw/2026/11/26/us-plans-new-tariffs-on-14-economies/"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美擬對14經濟體加徵新關稅　主要貿易夥伴紛表不滿",
-          "url": "https://money.udn.com/money/story/5599/9903687"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "2028美國總統大選　共和黨多名眾議員力拱盧比歐參選",
-      "summary": [
-        "自由時報：2028美國總統大選　共和黨多名眾議員力拱盧比歐參選",
-        "經濟日報：2028美國總統大選　共和黨多名眾議員力拱盧比歐參選",
-        "ETtoday：盧比歐將成共和黨共主？　多名眾議員力挺角逐2028總統大選"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "2028美國總統大選　共和黨多名眾議員力拱盧比歐參選",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5653609"
-        },
-        {
-          "source": "經濟日報",
-          "title": "2028美國總統大選　共和黨多名眾議員力拱盧比歐參選",
-          "url": "https://money.udn.com/money/story/5599/9902470"
-        },
-        {
-          "source": "ETtoday",
-          "title": "盧比歐將成共和黨共主？　多名眾議員力挺角逐2028總統大選",
-          "url": "https://www.ettoday.net/news/20261126/3278620.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "「大賣空」貝瑞罕見轉多！空單幾乎清零 握25％現金準備抄底納指",
       "summary": [
         "自由時報：「大賣空」貝瑞罕見轉多！空單幾乎清零 握25％現金準備抄底納指",
@@ -147,7 +93,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "沈伯洋取消選前之夜 羅智強凌晨急發宣告 網抓包刪改文：露餡了？",
       "summary": [
         "自由時報：沈伯洋取消選前之夜 羅智強凌晨急發宣告 網抓包刪改文：露餡了？",
@@ -168,7 +114,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
       "summary": [
         "自由時報：重大當機暴露系統缺陷　微軟宣佈進入「紅色警戒」",
@@ -189,7 +135,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "科技股逢賣壓　美股多收黑",
       "summary": [
         "自由時報：科技股逢賣壓　美股多收黑",
@@ -210,7 +156,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "沈伯洋選前之夜喊停！蔣萬安被灌爆 楊植鬥搬吳思瑤4年前的話反嗆",
       "summary": [
         "自由時報：沈伯洋選前之夜喊停！蔣萬安被灌爆 楊植鬥搬吳思瑤4年前的話反嗆",
@@ -231,7 +177,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
       "summary": [
         "ETtoday：盧比歐憂輝達釀國安威脅　曾向川普示警黃仁勳對中政策立場",
@@ -250,38 +196,53 @@
           "url": "https://technews.tw/2026/11/26/rubio-warns-trump-nvidia-harms-china-policy-national-security-threat/"
         }
       ]
+    },
+    {
+      "rank": 9,
+      "title": "溼答答！　今全臺有雨",
+      "summary": [
+        "ETtoday：溼答答！　今全臺有雨",
+        "自由時報：華南雲雨區東移！今全臺有雨、早晚涼 週六投票日天氣曝光"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "溼答答！　今全臺有雨",
+          "url": "https://www.ettoday.net/news/20261126/3278597.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "華南雲雨區東移！今全臺有雨、早晚涼 週六投票日天氣曝光",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5653625"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "屏東長治工廠大火驚傳連續爆炸聲 民眾嚇醒",
+      "summary": [
+        "自由時報：屏東長治工廠大火驚傳連續爆炸聲 民眾嚇醒",
+        "ETtoday：屏東長治鄉工廠大火！爆炸聲頻傳　恐怖火煙竄天消防急灌救"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "屏東長治工廠大火驚傳連續爆炸聲 民眾嚇醒",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5653635"
+        },
+        {
+          "source": "ETtoday",
+          "title": "屏東長治鄉工廠大火！爆炸聲頻傳　恐怖火煙竄天消防急灌救",
+          "url": "https://www.ettoday.net/news/20261126/3278671.htm"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "標準普爾表示可能因治理擔憂而下調英偉達評級",
-      "summary": [
-        "Bloomberg Tech：標準普爾表示可能因治理擔憂而下調英偉達評級",
-        "TechCrunch：標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
-        "CNBC：標準普爾警告英偉達信用評等可能因「上升」的管理和治理風險而被下調"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "標準普爾表示可能因治理擔憂而下調英偉達評級",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
-          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
-        },
-        {
-          "source": "CNBC",
-          "title": "標準普爾警告英偉達信用評等可能因「上升」的管理和治理風險而被下調",
-          "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
       "summary": [
         "Investing.com：SpaceX 將為每個川普帳戶貢獻一股 A 類股票",
@@ -308,7 +269,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Palo Alto Networks 前經理指控會計欺詐",
       "summary": [
         "Bloomberg Tech：Palo Alto Networks 前經理指控會計欺詐",
@@ -335,7 +296,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "梅西百貨因惡劣天氣延後感恩節遊行",
       "summary": [
         "CNBC：梅西百貨因惡劣天氣延後感恩節遊行",
@@ -362,7 +323,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "簡訊：韓國央行上調基準利率25個基點至3.25%",
       "summary": [
         "韓聯社：簡訊：韓國央行上調基準利率25個基點至3.25%",
@@ -383,7 +344,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
       "summary": [
         "Investing.com：馬斯克表示，美國每個孩子將獲得兩份 SpaceX 股票",
@@ -404,28 +365,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "北韓因制裁驅逐瑞士外交官",
-      "summary": [
-        "BBC World：北韓因制裁驅逐瑞士外交官",
-        "法廣RFI：朝鮮驅逐瑞士外交辦事處代表"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "北韓因制裁驅逐瑞士外交官",
-          "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "朝鮮驅逐瑞士外交辦事處代表",
-          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261125-%E6%9C%9D%E9%AE%AE%E9%A9%85%E9%80%90%E7%91%9E%E5%A3%AB%E5%A4%96%E4%BA%A4%E8%BE%A6%E4%BA%8B%E8%99%95%E4%BB%A3%E8%A1%A8"
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "title": "隨著英偉達恢復漲勢消退，股市持續下跌",
       "summary": [
         "Bloomberg Markets：隨著英偉達恢復漲勢消退，股市持續下跌",
@@ -446,7 +386,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "以色列法官建議撤銷內塔尼亞胡最嚴重的指控",
       "summary": [
         "BBC World：以色列法官建議撤銷內塔尼亞胡最嚴重的指控",
@@ -467,7 +407,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "埃及大開羅地區道路交通事故造成至少30人死亡",
       "summary": [
         "Bloomberg Markets：埃及大開羅地區道路交通事故造成至少30人死亡",
@@ -484,6 +424,48 @@
           "source": "NHK新聞",
           "title": "埃及開羅附近發生交通事故及火災 造成31人死亡",
           "url": "https://news.web.nhk/newsweb/na/nd-20261126de81584"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "埃及載油車輛翻側起火  已知30人死亡",
+      "summary": [
+        "法廣RFI：埃及載油車輛翻側起火  已知30人死亡",
+        "BBC World：開羅高速公路油罐車相撞引發大火 至少30人死亡"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "埃及載油車輛翻側起火  已知30人死亡",
+          "url": "https://www.rfi.fr/tw/%E9%9D%9E%E6%B4%B2/20261125-%E5%9F%83%E5%8F%8A%E8%BC%89%E6%B2%B9%E8%BB%8A%E8%BC%9B%E7%BF%BB%E5%81%B4%E8%B5%B7%E7%81%AB-%E5%B7%B2%E7%9F%A530%E4%BA%BA%E6%AD%BB%E4%BA%A1"
+        },
+        {
+          "source": "BBC World",
+          "title": "開羅高速公路油罐車相撞引發大火 至少30人死亡",
+          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
+      "summary": [
+        "TechCrunch：標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
+        "CNBC：標準普爾警告英偉達信用評等可能因「上升」的管理和治理風險而被下調"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+        },
+        {
+          "source": "CNBC",
+          "title": "標準普爾警告英偉達信用評等可能因「上升」的管理和治理風險而被下調",
+          "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html"
         }
       ]
     }
