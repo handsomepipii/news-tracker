@@ -1,29 +1,8 @@
 {
-  "updated_at": "2026-11-27 00:56",
+  "updated_at": "2026-11-27 01:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
-      "summary": [
-        "經濟日報：大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
-        "自由時報：馬斯克宣佈贈全美孩子2股SpaceX股票 網友嗨喊：謝謝太空爸爸"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "大手筆！馬斯克稱美國每名兒童可獲2股SpaceX股票 未來還會送",
-          "url": "https://money.udn.com/money/story/123398/9903397"
-        },
-        {
-          "source": "自由時報",
-          "title": "馬斯克宣佈贈全美孩子2股SpaceX股票 網友嗨喊：謝謝太空爸爸",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5654307"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
       "summary": [
         "經濟日報：輝達傳要求合作夥伴暫停向東南亞四國出貨伺服器",
@@ -44,7 +23,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
       "summary": [
         "自由時報：泰國曼谷油庫爆炸！火焰狂竄黑煙沖天畫面曝",
@@ -65,28 +44,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "CBS：中資美企獲輝達高階晶片　出口管制漏洞浮現",
-      "summary": [
-        "經濟日報：CBS：中資美企獲輝達高階晶片　出口管制漏洞浮現",
-        "科技新報：CBS：中資美企獲輝達高階晶片，出口管制漏洞浮現"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "CBS：中資美企獲輝達高階晶片　出口管制漏洞浮現",
-          "url": "https://money.udn.com/money/story/5599/9903377"
-        },
-        {
-          "source": "科技新報",
-          "title": "CBS：中資美企獲輝達高階晶片，出口管制漏洞浮現",
-          "url": "https://technews.tw/2026/11/26/cbs-export-control-loopholes-chinese-funded-us-firms-nvidia-advanced-chips/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "title": "黑豹旗／扳倒去年亞軍再退西苑！臺南海事首闖4強寫校史最佳成績",
       "summary": [
         "ETtoday：黑豹旗／扳倒去年亞軍再退西苑！臺南海事首闖4強寫校史最佳成績",
@@ -107,7 +65,28 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "title": "校園霸凌逼喝尿！韓男高生「在保溫杯撒尿」　女同學被迫自請退學",
+      "summary": [
+        "ETtoday：校園霸凌逼喝尿！韓男高生「在保溫杯撒尿」　女同學被迫自請退學",
+        "中時新聞：離譜！韓男高中生偷尿同學保溫杯女學生誤飲崩潰退學- 社會"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "校園霸凌逼喝尿！韓男高生「在保溫杯撒尿」　女同學被迫自請退學",
+          "url": "https://www.ettoday.net/news/20261126/3278843.htm"
+        },
+        {
+          "source": "中時新聞",
+          "title": "離譜！韓男高中生偷尿同學保溫杯女學生誤飲崩潰退學- 社會",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11aHpJT0QyR2dJcmRWLXNZYTVoTHFRZDFCaC10S1ZjRHhOeElJaWI1RWVCWTI4T3VkQlpEc3F1Mm9QOVdpT0dRek9FekdKRVhMREFOMGNneU9GSFppR1NNU0RyaHFySy1FWTJwUTFB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "駭客入侵1Password員工GitHub帳號竊走公司原始碼，植入惡意程式碼下載客戶資料",
       "summary": [
         "iThome：駭客入侵1Password員工GitHub帳號竊走公司原始碼，植入惡意程式碼下載客戶資料",
@@ -128,7 +107,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "調查：歐洲半數工企陷財務壓力　370萬職位恐不保",
       "summary": [
         "經濟日報：調查：歐洲半數工企陷財務壓力　370萬職位恐不保",
@@ -149,7 +128,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "AI 逆風延燒  OpenAI 明年 6 月前 IPO 機率跌至 28%",
       "summary": [
         "科技新報：AI 逆風延燒  OpenAI 明年 6 月前 IPO 機率跌至 28%",
@@ -170,7 +149,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "快訊》疊加最高破40％！川普拋新關稅臺灣等14個經濟體一次看- 國際",
       "summary": [
         "中時新聞：快訊》疊加最高破40％！川普拋新關稅臺灣等14個經濟體一次看- 國際",
@@ -191,7 +170,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "美 AI 資料中心擴張受阻  至少 4 州喊停機率達 57%",
       "summary": [
         "科技新報：美 AI 資料中心擴張受阻  至少 4 州喊停機率達 57%",
@@ -208,6 +187,27 @@
           "source": "MoneyDJ理財網",
           "title": "美AI資料中心擴張受阻 至少4州喊停機率達57%",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkgyZ3BMcmhpNEhLOERfWHFTNXpDd2drUTY1Um1mX1ZvcjlLZWRBcnpKNUtrblpCT3BkSFFxWlAxLXBNNlhBRTYzZzFjaXZqdnNUYXBBM1VCaGZvaEVNUGUxdzN2T29OT0Fmbk9fdjAzbGw4cXVUNXhfUTR5dVBNSDB2WUREWnlCVkdjZmlHVlM1dw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "美擬對14經濟體加徵新關稅　主要貿易夥伴紛表不滿",
+      "summary": [
+        "經濟日報：美擬對14經濟體加徵新關稅　主要貿易夥伴紛表不滿",
+        "科技新報：美擬對 14 經濟體加徵新關稅，主要貿易夥伴紛表不滿"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "美擬對14經濟體加徵新關稅　主要貿易夥伴紛表不滿",
+          "url": "https://money.udn.com/money/story/5599/9903687"
+        },
+        {
+          "source": "科技新報",
+          "title": "美擬對 14 經濟體加徵新關稅，主要貿易夥伴紛表不滿",
+          "url": "https://technews.tw/2026/11/26/us-plans-new-tariffs-14-economies-major-trade-partners-discontent/"
         }
       ]
     }
@@ -278,27 +278,6 @@
     },
     {
       "rank": 4,
-      "title": "馬斯克稱每個美國孩子可以獲得兩份 SpaceX 股票，承諾加倍",
-      "summary": [
-        "Bloomberg Tech：馬斯克稱每個美國孩子可以獲得兩份 SpaceX 股票，承諾加倍",
-        "Investing.com：馬斯克稱每個美國兒童將獲得兩股 SpaceX 股票"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "馬斯克稱每個美國孩子可以獲得兩份 SpaceX 股票，承諾加倍",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge"
-        },
-        {
-          "source": "Investing.com",
-          "title": "馬斯克稱每個美國兒童將獲得兩股 SpaceX 股票",
-          "url": "https://www.investing.com/news/stock-market-news/musk-says-every-us-child-will-receive-two-spacex-shares-5052023"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "韓國央行將關鍵利率上調至 3.25%",
       "summary": [
         "Bloomberg Markets：韓國央行將關鍵利率上調至 3.25%",
@@ -319,7 +298,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
       "summary": [
         "BBC中文：美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
@@ -340,7 +319,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "人工智慧風險引發美國交易波動後，全球股市持穩",
       "summary": [
         "Financial Times：人工智慧風險引發美國交易波動後，全球股市持穩",
@@ -361,7 +340,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
       "summary": [
         "Financial Times：中國讓深圳成為亞太經合組織高峰會上科技實力的展示中心",
@@ -382,7 +361,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
       "summary": [
         "Investing.com：巴布科克簽署創紀錄的價值87億英鎊的英國潛艇支援協議",
@@ -403,7 +382,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Marc Levinson 講述 UPS 如何創造現代物流",
       "summary": [
         "Bloomberg Markets：Marc Levinson 講述 UPS 如何創造現代物流",
@@ -420,6 +399,27 @@
           "source": "Bloomberg Tech",
           "title": "Marc Levinson 講述 UPS 如何創造現代物流",
           "url": "https://www.bloomberg.com/news/videos/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics-video"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "AMD Ryzen 7 9800X3D 在亞馬遜跌至歷史最低價 369 美元",
+      "summary": [
+        "Tom's Hardware：AMD Ryzen 7 9800X3D 在亞馬遜跌至歷史最低價 369 美元",
+        "Wccftech：AMD Ryzen 7 9800X3D 降價幅度更大：現限時僅售 369 美元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "AMD Ryzen 7 9800X3D 在亞馬遜跌至歷史最低價 369 美元",
+          "url": "https://www.tomshardware.com/pc-components/cpus/amds-dominant-ryzen-7-9800x3d-plummets-to-all-time-low-of-usd369-at-amazon-astonishing-gaming-performance-for-am5"
+        },
+        {
+          "source": "Wccftech",
+          "title": "AMD Ryzen 7 9800X3D 降價幅度更大：現限時僅售 369 美元",
+          "url": "https://wccftech.com/amd-ryzen-7-9800x3d-price-drops-even-hardware-at-just-369/"
         }
       ]
     }
