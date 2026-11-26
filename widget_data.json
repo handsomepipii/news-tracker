@@ -1,35 +1,24 @@
 {
-  "updated_at": "2026-11-27 06:56",
+  "updated_at": "2026-11-27 07:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "商周CEO學院_百億CEO班_師資",
+      "title": "強茂：JOYSTAR INTL出售VTEAM SIEGFRIED供應鏈專題人類基金，獲利上看498萬美元",
       "summary": [
-        "商業周刊：商周CEO學院_百億CEO班_師資",
-        "自由時報：《我們的藍調時光》澎湖首映 監製柴智屏率男女主角見粉絲",
-        "公視新聞：新北選戰蘇巧慧一天車掃7區 李四川請朱立倫、侯友宜陪掃街"
+        "公開資訊觀測站重訊：強茂：JOYSTAR INTL出售VTEAM SIEGFRIED供應鏈專題人類基金，獲利上看498萬美元",
+        "MoneyDJ理財網：強茂：JOYSTAR INTL 10/29~11/26售VTEAM SIEGFRIED供應鏈人，盈利上看547萬美元- 新聞"
       ],
-      "media_count": 4,
+      "media_count": 2,
       "links": [
         {
-          "source": "商業周刊",
-          "title": "商周CEO學院_百億CEO班_師資",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YZWE4RXRsWDN6UTl5Nmx4MzkxSndoMGNEWlVZallPQWtTUnVlWEFKNU9Yb2wyRmNQZFRpN3VkdzNkOGxRTkhSODJ4Vk1GZm1pNlFYWGZXbnZZUQ?oc=5"
+          "source": "公開資訊觀測站重訊",
+          "title": "強茂：JOYSTAR INTL出售VTEAM SIEGFRIED供應鏈專題人類基金，獲利上看498萬美元",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNclpFenBoTXVBR2xJNHp3S0VicXVPWTF3OFJFdDh3VWstT29CSjkwYXFsUVE4cjVZN3BVWmlId0I4Q0owd1RHRXgyb0doMFZ4M1IzQ280ajJfLS1WWkU3WlRCUGJlXy1SQUxkUmdpVFk1WkdmM3ZhSE5Qci1pUE9YN2NKdUpyc0puVHltVHhaWWdQUQ?oc=5"
         },
         {
-          "source": "自由時報",
-          "title": "《我們的藍調時光》澎湖首映 監製柴智屏率男女主角見粉絲",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5654569"
-        },
-        {
-          "source": "公視新聞",
-          "title": "新北選戰蘇巧慧一天車掃7區 李四川請朱立倫、侯友宜陪掃街",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13Ry11QTFaZVpJZG4wcHB6bXJLT3pCV3NhMVg2cnNwdjZfeDh3bjNBeF9NcXFuQks3ZkxLck9OcXZ3alJ1LUpNTWJwSzRTVWM?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／南投駕駛國6「逆向狂飆」12公里　一查又是酒駕",
-          "url": "https://www.ettoday.net/news/20261127/3279159.htm"
+          "source": "MoneyDJ理財網",
+          "title": "強茂：JOYSTAR INTL 10/29~11/26售VTEAM SIEGFRIED供應鏈人，盈利上看547萬美元- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0RpbXpvcDVzY1ZTMWF0V2VibWVVbEJtejRNb3lIOUQzOHI2aFJVR3VfQ2dTLTVJRURVaHE2MU1tcmYzT1RuTHRfdjNlV1dvdUpPMEROanZJMWRZZGtzalBFbV90MWJYZWtiV3RyeUxPTGVTZDJtcllvUUt1S3lqT0VkbmdTbGxnTzRWOEVUYkpNUQ?oc=5"
         }
       ]
     },
@@ -182,6 +171,27 @@
     },
     {
       "rank": 9,
+      "title": "槓上美國！荷蘭將阻擋 ASML 對中出口進一步受限",
+      "summary": [
+        "經濟日報：槓上美國！荷蘭將阻擋 ASML 對中出口進一步受限",
+        "科技新報：不願任由美國擺布，荷蘭反對擴大 ASML 出口限制"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "槓上美國！荷蘭將阻擋 ASML 對中出口進一步受限",
+          "url": "https://money.udn.com/money/story/5599/9904501"
+        },
+        {
+          "source": "科技新報",
+          "title": "不願任由美國擺布，荷蘭反對擴大 ASML 出口限制",
+          "url": "https://technews.tw/2026/11/27/netherlands-opposes-expanding-asml-export-restrictions-resists-us-dictation/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "北市預售低價王重現「6字頭」房價鬆動？專家曝真相",
       "summary": [
         "中時新聞：北市預售低價王重現「6字頭」房價鬆動？專家曝真相",
@@ -198,27 +208,6 @@
           "source": "工商時報",
           "title": "首都房價真鬆動？臺北市預售低價王重現「6字頭」 專家揭真相：只是大坪數低樓層個案- 房市",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42dEFuZHphT1BlVHRYbkdJSHBHelNZN1RIdkF4SmRacFZ4NVdqY3Q2NU55WWhoM3JEbEN0aVlKWm9MQl9TMDVUVG1uYzJLRWFsLUFPcHZRY19PM1NhQ0F3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "科技股回穩　歐股隨亞股走揚收高",
-      "summary": [
-        "自由時報：科技股回穩　歐股隨亞股走揚收高",
-        "經濟日報：科技股回穩　歐股隨亞股走揚收高"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "科技股回穩　歐股隨亞股走揚收高",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5654830"
-        },
-        {
-          "source": "經濟日報",
-          "title": "科技股回穩　歐股隨亞股走揚收高",
-          "url": "https://money.udn.com/money/story/5599/9904809"
         }
       ]
     }
@@ -358,61 +347,61 @@
     },
     {
       "rank": 7,
-      "title": "九合一選前反轉：沈伯洋破天荒取消臺北「選前之夜」，如何影響選情？",
+      "title": "美國新關稅瞄準中國但沒撕破臉 北京稱堅決反對但尚未威脅報復措施",
       "summary": [
-        "BBC中文：九合一選前反轉：沈伯洋破天荒取消臺北「選前之夜」，如何影響選情？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "九合一選前反轉：沈伯洋破天荒取消臺北「選前之夜」，如何影響選情？",
-          "url": "https://www.bbc.com/zhongwen/articles/cwz0kymdzdd8o/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "賓士暫停對德國工廠投資 德國車企還能否扭轉局面？",
-      "summary": [
-        "德國之聲：賓士暫停對德國工廠投資 德國車企還能否扭轉局面？"
+        "德國之聲：美國新關稅瞄準中國但沒撕破臉 北京稱堅決反對但尚未威脅報復措施"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "德國之聲",
-          "title": "賓士暫停對德國工廠投資 德國車企還能否扭轉局面？",
-          "url": "https://www.dw.com/zh/奔驰暂停对德国工厂投资-德国车企还能否扭转局面？/a-80022159?maca=chi-rss-chi-all-1127-rdf"
+          "title": "美國新關稅瞄準中國但沒撕破臉 北京稱堅決反對但尚未威脅報復措施",
+          "url": "https://www.dw.com/zh/美国新关税瞄准中国但没撕破脸-北京称坚决反对但尚未威胁报复措施/a-80060086?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "自民黨研究會制定緊急決議解決“師資荒”",
+      "summary": [
+        "NHK新聞：自民黨研究會制定緊急決議解決“師資荒”"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "NHK新聞",
+          "title": "自民黨研究會制定緊急決議解決“師資荒”",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261126de82088"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "尼泊爾啟動程式將宣佈8月洪災中失蹤的人員死亡",
+      "title": "沖繩：兩艘中國海警船侵入尖閣列島沿岸的日本領海",
       "summary": [
-        "法廣RFI：尼泊爾啟動程式將宣佈8月洪災中失蹤的人員死亡"
+        "NHK新聞：沖繩：兩艘中國海警船侵入尖閣列島沿岸的日本領海"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "尼泊爾啟動程式將宣佈8月洪災中失蹤的人員死亡",
-          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261126-%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%95%9F%E5%8B%95%E7%A8%8B%E5%BA%8F%E5%B0%87%E5%AE%A3%E5%B8%838%E6%9C%88%E6%B4%AA%E7%81%BD%E4%B8%AD%E5%A4%B1%E8%B9%A4%E7%9A%84%E4%BA%BA%E5%93%A1%E6%AD%BB%E4%BA%A1"
+          "source": "NHK新聞",
+          "title": "沖繩：兩艘中國海警船侵入尖閣列島沿岸的日本領海",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261126de82093"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "東亞地緣政治格局正在悄然改變",
+      "title": "土耳其計劃降低里拉存款稅以支援貨幣",
       "summary": [
-        "法廣RFI：東亞地緣政治格局正在悄然改變"
+        "Bloomberg Markets：土耳其計劃降低里拉存款稅以支援貨幣"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "東亞地緣政治格局正在悄然改變",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E6%9B%BC%E8%B0%B7%E5%B0%88%E6%AC%84/20261126-%E6%9D%B1%E4%BA%9E%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E6%A0%BC%E5%B1%80%E6%AD%A3%E5%9C%A8%E6%82%84%E7%84%B6%E6%94%B9%E8%AE%8A"
+          "source": "Bloomberg Markets",
+          "title": "土耳其計劃降低里拉存款稅以支援貨幣",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/turkey-plans-lower-taxes-on-lira-deposits-to-support-currency"
         }
       ]
     }
