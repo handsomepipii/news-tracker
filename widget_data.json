@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 07:27",
+  "updated_at": "2026-11-28 07:57",
   "taiwan": [
     {
       "rank": 1,
@@ -120,22 +120,22 @@
     },
     {
       "rank": 6,
-      "title": "烏坵鄉投票專船停開 中選會：明日照常辦理投開票作業",
+      "title": "美空軍雲端平臺驚傳遭駭 戰術、人事與後勤資料恐外洩",
       "summary": [
-        "自由時報：烏坵鄉投票專船停開 中選會：明日照常辦理投開票作業",
-        "今周刊：2026九合一投票懶人包》要領幾張票、投票時間到幾點、沒通知單可以投？縣市長選舉、公投票、禁止行為必看"
+        "經濟日報：美空軍雲端平臺驚傳遭駭 戰術、人事與後勤資料恐外洩",
+        "自由時報：美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "烏坵鄉投票專船停開 中選會：明日照常辦理投開票作業",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655716"
+          "source": "經濟日報",
+          "title": "美空軍雲端平臺驚傳遭駭 戰術、人事與後勤資料恐外洩",
+          "url": "https://money.udn.com/money/story/5599/9906764"
         },
         {
-          "source": "今周刊",
-          "title": "2026九合一投票懶人包》要領幾張票、投票時間到幾點、沒通知單可以投？縣市長選舉、公投票、禁止行為必看",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbm5UNEFLOUNsSW5nUVpLZnVMb2hrRXczMjNJM0hJQld0ZERUR2Z0NVdDNWxRZ044SW5hVlBieVV3QUJLYU56MENFTGg3VDRoMGJBOE5KU0FHaWhXcllZWjVralhVQnFCRjBDbU1NZWJFTk94aDZPVFJrWm5DbnFxQQ?oc=5"
+          "source": "自由時報",
+          "title": "美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5655976"
         }
       ]
     },
@@ -227,9 +227,9 @@
   "global": [
     {
       "rank": 1,
-      "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
+      "title": "在與 Alice Huang 相關的中國網站中發現 Blackwell 晶片",
       "summary": [
-        "Bloomberg Tech：Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
+        "Bloomberg Tech：在與 Alice Huang 相關的中國網站中發現 Blackwell 晶片",
         "Investing.com：上海資料中心與 Alice Huang 發現相關的 Nvidia Blackwell 晶片",
         "Yahoo Finance：Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上"
       ],
@@ -237,8 +237,8 @@
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang"
+          "title": "在與 Alice Huang 相關的中國網站中發現 Blackwell 晶片",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-27/blackwell-chips-found-at-alice-huang-linked-china-site-video"
         },
         {
           "source": "Investing.com",
@@ -281,17 +281,17 @@
     },
     {
       "rank": 3,
-      "title": "2026 年黑色星期五遊戲顯示器現場促銷",
+      "title": "2026 年黑色星期五最佳遊戲顯示器優惠",
       "summary": [
-        "Tom's Hardware：2026 年黑色星期五遊戲顯示器現場促銷",
+        "Tom's Hardware：2026 年黑色星期五最佳遊戲顯示器優惠",
         "Wired：我發現的最佳黑色星期五遊戲優惠（2026）"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Tom's Hardware",
-          "title": "2026 年黑色星期五遊戲顯示器現場促銷",
-          "url": "https://www.tomshardware.com/live/news/black-friday-2026-monitor-deals"
+          "title": "2026 年黑色星期五最佳遊戲顯示器優惠",
+          "url": "https://www.tomshardware.com/monitors/gaming-monitors/best-gaming-monitor-deals-oled"
         },
         {
           "source": "Wired",
@@ -302,27 +302,6 @@
     },
     {
       "rank": 4,
-      "title": "獨家-駭客攻破美國空軍旗艦雲一運算平臺",
-      "summary": [
-        "Investing.com：獨家-駭客攻破美國空軍旗艦雲一運算平臺",
-        "法廣RFI：美國空軍核心雲平臺遭駭客入侵 敏感資料或受影響"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "獨家-駭客攻破美國空軍旗艦雲一運算平臺",
-          "url": "https://www.investing.com/news/stock-market-news/exclusivehackers-breach-us-air-force-flagship-cloud-one-computing-platform-5053314"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "美國空軍核心雲平臺遭駭客入侵 敏感資料或受影響",
-          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261127-%E7%BE%8E%E5%9C%8B%E7%A9%BA%E8%BB%8D%E6%A0%B8%E5%BF%83%E9%9B%B2%E5%B9%B3%E5%8F%B0%E9%81%AD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-%E6%95%8F%E6%84%9F%E6%95%B8%E6%93%9A%E6%88%96%E5%8F%97%E5%BD%B1%E9%9F%BF"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "廉價航空公司挪威大西洋航空公司因未能獲得資金而在歐洲申請破產",
       "summary": [
         "CNBC：廉價航空公司挪威大西洋航空公司因未能獲得資金而在歐洲申請破產",
@@ -343,7 +322,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "川普捍衛普丁的友誼，澤倫斯基稱這種友誼“奇怪”",
       "summary": [
         "Washington Post：川普捍衛普丁的友誼，澤倫斯基稱這種友誼“奇怪”",
@@ -364,7 +343,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "人工智慧如何改變黑色星期五",
       "summary": [
         "Bloomberg Tech：人工智慧如何改變黑色星期五",
@@ -385,7 +364,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
       "summary": [
         "The Verge：黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
@@ -406,17 +385,17 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
+      "rank": 8,
+      "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
       "summary": [
-        "Bloomberg Tech：英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
+        "Bloomberg Tech：英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
         "Financial Times：Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
+          "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
           "url": "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says"
         },
         {
@@ -427,7 +406,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "OpenAI 反訴蘋果竊取商業機密",
       "summary": [
         "Financial Times：OpenAI 反訴蘋果竊取商業機密",
@@ -444,6 +423,21 @@
           "source": "Investing.com",
           "title": "根據英國《金融時報》報道，OpenAI 反訴蘋果竊取商業機密",
           "url": "https://www.investing.com/news/stock-market-news/openai-countersues-apple-for-stealing-trade-secrets-ft-reports-5053798"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "為什麼嘉能可股票今天上漲？",
+      "summary": [
+        "Investing.com：為什麼嘉能可股票今天上漲？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "為什麼嘉能可股票今天上漲？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-glencore-stock-rallying-today-93CH-5053532"
         }
       ]
     }
