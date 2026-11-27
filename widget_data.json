@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 06:28",
+  "updated_at": "2026-11-28 06:57",
   "taiwan": [
     {
       "rank": 1,
@@ -57,22 +57,22 @@
     },
     {
       "rank": 3,
-      "title": "吳宗憲選前之夜找於美人站臺 籲宜蘭鄉親共同迎向勝利",
+      "title": "LIVE／李四川選前之夜藍白合　蔣萬安、韓國瑜、侯友宜助講催票",
       "summary": [
-        "自由時報：吳宗憲選前之夜找於美人站臺 籲宜蘭鄉親共同迎向勝利",
-        "ETtoday：相信臺北市民智慧　李四川登蔣萬安選前之夜：你們要把萬安顧好"
+        "ETtoday：LIVE／李四川選前之夜藍白合　蔣萬安、韓國瑜、侯友宜助講催票",
+        "TVBS新聞：陳其邁北上助陣 合體蘇巧慧板橋車掃｜LIVE"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "吳宗憲選前之夜找於美人站臺 籲宜蘭鄉親共同迎向勝利",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655664"
+          "source": "ETtoday",
+          "title": "LIVE／李四川選前之夜藍白合　蔣萬安、韓國瑜、侯友宜助講催票",
+          "url": "https://www.ettoday.net/news/20261127/3279325.htm"
         },
         {
-          "source": "ETtoday",
-          "title": "相信臺北市民智慧　李四川登蔣萬安選前之夜：你們要把萬安顧好",
-          "url": "https://www.ettoday.net/news/20261127/3279649.htm"
+          "source": "TVBS新聞",
+          "title": "陳其邁北上助陣 合體蘇巧慧板橋車掃｜LIVE",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxR1ZHdmRMZlE5ODNUNnJpd3RVQktiSjN0VUdnMndPWmZreEZZVkRIYkpNVWRQRWZ5UkJvMDJoeW1JbnI5Zmg0bE1hazgzR1YtMGQ4VEt3?oc=5"
         }
       ]
     },
@@ -99,6 +99,27 @@
     },
     {
       "rank": 5,
+      "title": "相信臺北市民智慧　李四川登蔣萬安選前之夜：你們要把萬安顧好",
+      "summary": [
+        "ETtoday：相信臺北市民智慧　李四川登蔣萬安選前之夜：你們要把萬安顧好",
+        "自由時報：何欣純選前之夜引蔡康永金句  卓榮泰：決戰中臺灣才能徹底的贏"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "相信臺北市民智慧　李四川登蔣萬安選前之夜：你們要把萬安顧好",
+          "url": "https://www.ettoday.net/news/20261127/3279649.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "何欣純選前之夜引蔡康永金句  卓榮泰：決戰中臺灣才能徹底的贏",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655837"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "侯友宜10度合體車掃 李四川：明天請投給跟你一樣靠雙手打拚的人",
       "summary": [
         "自由時報：侯友宜10度合體車掃 李四川：明天請投給跟你一樣靠雙手打拚的人",
@@ -119,7 +140,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "LIVE／蘇巧慧「新時代新市長」選前之夜　賴清德、蔡英文接力助講",
       "summary": [
         "ETtoday：LIVE／蘇巧慧「新時代新市長」選前之夜　賴清德、蔡英文接力助講",
@@ -140,7 +161,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "LIVE／蔣萬安1900凱道選前之夜　石舫亙和三寶「獻聲」成彩蛋",
       "summary": [
         "ETtoday：LIVE／蔣萬安1900凱道選前之夜　石舫亙和三寶「獻聲」成彩蛋",
@@ -161,7 +182,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "天氣/投票日舒適好天氣 下週回溫｢冬日暫歇｣｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20261109 @TVBSNEWS01",
       "summary": [
         "TVBS新聞：天氣/投票日舒適好天氣 下週回溫｢冬日暫歇｣｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20261109 @TVBSNEWS01",
@@ -182,7 +203,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "烏坵鄉投票專船停開 中選會：明日照常辦理投開票作業",
       "summary": [
         "自由時報：烏坵鄉投票專船停開 中選會：明日照常辦理投開票作業",
@@ -199,27 +220,6 @@
           "source": "今周刊",
           "title": "2026九合一投票懶人包》要領幾張票、投票時間到幾點、沒通知單可以投？縣市長選舉、公投票、禁止行為必看",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbm5UNEFLOUNsSW5nUVpLZnVMb2hrRXczMjNJM0hJQld0ZERUR2Z0NVdDNWxRZ044SW5hVlBieVV3QUJLYU56MENFTGg3VDRoMGJBOE5KU0FHaWhXcllZWjVralhVQnFCRjBDbU1NZWJFTk94aDZPVFJrWm5DbnFxQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "蘇巧慧選前之夜開場 主辦方喊已3萬人、直播觀看數超過蔣萬安",
-      "summary": [
-        "自由時報：蘇巧慧選前之夜開場 主辦方喊已3萬人、直播觀看數超過蔣萬安",
-        "ETtoday：圖／藍色飄揚！李四川選前之夜開場前40分鐘　主持人喊現場3萬人"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "蘇巧慧選前之夜開場 主辦方喊已3萬人、直播觀看數超過蔣萬安",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655748"
-        },
-        {
-          "source": "ETtoday",
-          "title": "圖／藍色飄揚！李四川選前之夜開場前40分鐘　主持人喊現場3萬人",
-          "url": "https://www.ettoday.net/news/20261127/3279639.htm"
         }
       ]
     }
@@ -386,16 +386,16 @@
     },
     {
       "rank": 8,
-      "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
+      "title": "英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
       "summary": [
-        "Bloomberg Tech：英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
+        "Bloomberg Tech：英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
         "Financial Times：Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
+          "title": "英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
           "url": "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says"
         },
         {
