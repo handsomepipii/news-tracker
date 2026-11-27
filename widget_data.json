@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 14:26",
+  "updated_at": "2026-11-27 14:56",
   "taiwan": [
     {
       "rank": 1,
@@ -35,33 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "1分鐘看世界／美國馬斯克將加碼SpaceX股票 全國兒童皆可獲贈兩股",
-      "summary": [
-        "經濟日報：1分鐘看世界／美國馬斯克將加碼SpaceX股票 全國兒童皆可獲贈兩股",
-        "科技新報：馬斯克宣佈送全美兒童 2 股 SpaceX 股票，估值近 180 億美元",
-        "財訊：馬斯克全美孩童每人送2股SpaceX股票 總值逾180億美元"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "1分鐘看世界／美國馬斯克將加碼SpaceX股票 全國兒童皆可獲贈兩股",
-          "url": "https://money.udn.com/money/story/5599/9904712"
-        },
-        {
-          "source": "科技新報",
-          "title": "馬斯克宣佈送全美兒童 2 股 SpaceX 股票，估值近 180 億美元",
-          "url": "https://finance.technews.tw/2026/11/27/musk-to-give-every-us-child-two-shares-of-spacex/"
-        },
-        {
-          "source": "財訊",
-          "title": "馬斯克全美孩童每人送2股SpaceX股票 總值逾180億美元",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ITmdMZE9sWUZBOUJrS1R3cWN2STVfSDhFT0lKX1dubEpiTlJiS1Z1NThhMm1rbG9abUFNQTF3LXlEZ2d4WlRpcmhqRTZOYWo0aWNDVFdUMXdwdXdBcmYxNHZPYk1rVVp3UTZLc0ZuamM1cHNPM1lCZlNyUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "美第3季GDP大幅上修　川普控選前資料造假要求調查",
       "summary": [
         "自由時報：美第3季GDP大幅上修　川普控選前資料造假要求調查",
@@ -88,7 +61,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "5臺廠受惠！　馬斯克打造100萬衛星太空中心",
       "summary": [
         "ETtoday：5臺廠受惠！　馬斯克打造100萬衛星太空中心",
@@ -115,7 +88,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "《臺北時報》 藝人諾諾強暴案終審敗訴",
       "summary": [
         "自由時報：《臺北時報》 藝人諾諾強暴案終審敗訴",
@@ -136,7 +109,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
       "summary": [
         "自由時報：印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
@@ -157,7 +130,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
       "summary": [
         "iThome：袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
@@ -178,28 +151,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
-      "summary": [
-        "自由時報：美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
-        "經濟日報：今晨國際頭條一次看／美國感恩節風暴釀大停電 紐約百年遊行首度延期"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654836"
-        },
-        {
-          "source": "經濟日報",
-          "title": "今晨國際頭條一次看／美國感恩節風暴釀大停電 紐約百年遊行首度延期",
-          "url": "https://money.udn.com/money/story/5599/9904935"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "title": "因應美國加強AI晶片出口管制 金融時報：輝達暫停向星馬泰印東南亞4國出貨 | 李靖棠 | 新聞",
       "summary": [
         "風傳媒：因應美國加強AI晶片出口管制 金融時報：輝達暫停向星馬泰印東南亞4國出貨 | 李靖棠 | 新聞",
@@ -220,7 +172,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "中東供應疑慮再起　布倫特原油收高",
       "summary": [
         "自由時報：中東供應疑慮再起　布倫特原油收高",
@@ -237,6 +189,48 @@
           "source": "經濟日報",
           "title": "中東供應疑慮再起　布倫特原油收高",
           "url": "https://money.udn.com/money/story/5599/9904835"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "沙烏地阿拉伯煉油廠遇襲　1死多傷部分停工",
+      "summary": [
+        "自由時報：沙烏地阿拉伯煉油廠遇襲　1死多傷部分停工",
+        "經濟日報：沙烏地阿拉伯煉油廠遇襲　1死多傷部分停工"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "沙烏地阿拉伯煉油廠遇襲　1死多傷部分停工",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654848"
+        },
+        {
+          "source": "經濟日報",
+          "title": "沙烏地阿拉伯煉油廠遇襲　1死多傷部分停工",
+          "url": "https://money.udn.com/money/story/5599/9904844"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "蔡英文送10歲的他這段話 沈伯洋：早知道一個人在家看",
+      "summary": [
+        "自由時報：蔡英文送10歲的他這段話 沈伯洋：早知道一個人在家看",
+        "ETtoday：沈伯洋搶看蔡英文送「10歲的他一段話」　反應曝光：早知在家看"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "蔡英文送10歲的他這段話 沈伯洋：早知道一個人在家看",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5654825"
+        },
+        {
+          "source": "ETtoday",
+          "title": "沈伯洋搶看蔡英文送「10歲的他一段話」　反應曝光：早知在家看",
+          "url": "https://www.ettoday.net/news/20261127/3279177.htm"
         }
       ]
     }
@@ -286,6 +280,27 @@
     },
     {
       "rank": 3,
+      "title": "馬斯克表示，他每年都會向美國兒童捐贈另一份 SpaceX 股份",
+      "summary": [
+        "Investing.com：馬斯克表示，他每年都會向美國兒童捐贈另一份 SpaceX 股份",
+        "Yahoo Finance：馬斯克表示將向「美國每個孩子」贈送兩股 SpaceX 股票"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "馬斯克表示，他每年都會向美國兒童捐贈另一份 SpaceX 股份",
+          "url": "https://www.investing.com/news/stock-market-news/musk-says-he-will-donate-another-spacex-share-to-american-kids-annually-5052757"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "馬斯克表示將向「美國每個孩子」贈送兩股 SpaceX 股票",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYWVQZjJEZjJIaDBac2JiNXlUbGFOTHd6V1UzR0Q2UnNkRW0tVVVPMEVEdEtucUJPMWhCVDNZeExwZ0liZko2LWNXcnlTU0t6ejJCNExhVi1uVXpuM3V6cHNzeV9ON0w4OWpJWDR6eVJDNnlESkRvTE5nNDZtZ1pIeUFnTFNSeTkwVnBUbWFVRXNCbG16cHJz?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "盧拉任命銀行家為巴西財政部長，試圖安撫市場",
       "summary": [
         "Financial Times：盧拉任命銀行家為巴西財政部長，試圖安撫市場",
@@ -306,7 +321,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "10月份中國工業獲利成長率飆升至5個月新高20.1%",
       "summary": [
         "CNBC：10月份中國工業獲利成長率飆升至5個月新高20.1%",
@@ -327,7 +342,28 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "午間罕見發表市場支援宣告後中國股市上漲",
+      "summary": [
+        "Bloomberg Markets：午間罕見發表市場支援宣告後中國股市上漲",
+        "Financial Times：北京發出更多支援訊號後中國股市飆升"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "午間罕見發表市場支援宣告後中國股市上漲",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-cabinet-stresses-market-support-in-midday-release"
+        },
+        {
+          "source": "Financial Times",
+          "title": "北京發出更多支援訊號後中國股市飆升",
+          "url": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "為什麼慧諮環球股價今天大漲？",
       "summary": [
         "Investing.com：為什麼慧諮環球股價今天大漲？"
@@ -342,7 +378,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "高市早苗訪問中國時是否遭到冷遇？",
       "summary": [
         "紐約時報中文：高市早苗訪問中國時是否遭到冷遇？"
@@ -357,7 +393,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "川普新關稅再將矛頭指向北京，旨在削弱中國供應鏈優勢- 紐約時報中文網",
       "summary": [
         "紐約時報中文：川普新關稅再將矛頭指向北京，旨在削弱中國供應鏈優勢- 紐約時報中文網"
@@ -372,7 +408,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "宏福苑大火一週年：民眾紀念逝者，北京警告「以災亂港」",
       "summary": [
         "紐約時報中文：宏福苑大火一週年：民眾紀念逝者，北京警告「以災亂港」"
@@ -383,36 +419,6 @@
           "source": "紐約時報中文",
           "title": "宏福苑大火一週年：民眾紀念逝者，北京警告「以災亂港」",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLTVvNUxSQl9BQkRNalppTXBHSHBpVkhEemlUTXM1WllUaXFGVC1COXE4X2dwUWEzWEI0VVNmOE50Y2RwZ0lZd1NrNk5XV3ZYcXJPaG1Ea1ZYM2VHdm95aWFuRDhMU1ZIcDFMbW9mM3QxcmFDbWpCQ2RlX1d1YnprQlFGdENaX3g4NWx0MU1EaEs4Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "在中國，「女凝」正在推動一場新的娛樂消費熱潮- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：在中國，「女凝」正在推動一場新的娛樂消費熱潮- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "在中國，「女凝」正在推動一場新的娛樂消費熱潮- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmJva1FOeFNhN2hUdjU1eUc1SjVZb09jOVhTczZ0c25XUFlRU1hPT3BxWk5qckRNdUdfcUdrSHMxR0pTSC1OaTdVamkwcUs4OWRzUlNIWDQ4Y0o3TUlhQllURW1kTVpJbDVCc0x2Vk9BckpGU2Y4Uk9fOEdNcXZreUU2cXh0WW9tdnRVbw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "華為：從被美國制裁到成為中國人工智慧戰略的核心- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：華為：從被美國制裁到成為中國人工智慧戰略的核心- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "華為：從被美國制裁到成為中國人工智慧戰略的核心- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vNUlxc0NGMVpRV2VsRGJWa0M4OWZEcERkeVgxVjRsTlFiUmY3TThBSlAtU1FwVE1ZR1VPTmt3TnIwbXpHRjVIdjlySklKRjdqTks1TTVrR3g3RXpGWTlhV09MdUxZd0ZVN0QtQ1pPbUhBYVQyRUZUczZ6QQ?oc=5"
         }
       ]
     }
