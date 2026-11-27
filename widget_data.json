@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-27 08:26",
+  "updated_at": "2026-11-27 08:56",
   "taiwan": [
     {
       "rank": 1,
+      "title": "新北選戰蘇巧慧一天車掃7區 李四川請朱立倫、侯友宜陪掃街",
+      "summary": [
+        "公視新聞：新北選戰蘇巧慧一天車掃7區 李四川請朱立倫、侯友宜陪掃街",
+        "ETtoday：快訊／南投駕駛國6「逆向狂飆」12公里　一查又是酒駕",
+        "自由時報：《臺北時報》 藝人諾諾強暴案終審敗訴"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "公視新聞",
+          "title": "新北選戰蘇巧慧一天車掃7區 李四川請朱立倫、侯友宜陪掃街",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13Ry11QTFaZVpJZG4wcHB6bXJLT3pCV3NhMVg2cnNwdjZfeDh3bjNBeF9NcXFuQks3ZkxLck9OcXZ3alJ1LUpNTWJwSzRTVWM?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／南投駕駛國6「逆向狂飆」12公里　一查又是酒駕",
+          "url": "https://www.ettoday.net/news/20261127/3279159.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "《臺北時報》 藝人諾諾強暴案終審敗訴",
+          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5654807"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "沈伯洋取消選前之夜   陳素月預告明扮「彰化分身」力挺",
       "summary": [
         "自由時報：沈伯洋取消選前之夜   陳素月預告明扮「彰化分身」力挺",
@@ -29,7 +56,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "美第3季GDP大幅上修　川普控選前資料造假要求調查",
       "summary": [
         "自由時報：美第3季GDP大幅上修　川普控選前資料造假要求調查",
@@ -56,7 +83,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "強茂：JOYSTAR INTL出售VTEAM SIEGFRIED供應鏈專題人類基金，獲利上看498萬美元",
       "summary": [
         "公開資訊觀測站重訊：強茂：JOYSTAR INTL出售VTEAM SIEGFRIED供應鏈專題人類基金，獲利上看498萬美元",
@@ -77,7 +104,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
       "summary": [
         "自由時報：烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
@@ -98,7 +125,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
       "summary": [
         "經濟日報：美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
@@ -119,7 +146,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
       "summary": [
         "自由時報：印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
@@ -140,49 +167,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "臺積電神話破功？高雄屋主慘賠280萬、還有85折求售 哪些地區重災",
-      "summary": [
-        "中時新聞：臺積電神話破功？高雄屋主慘賠280萬、還有85折求售 哪些地區重災",
-        "工商時報：臺積電概念區房價鬆動！高雄屋主賠售280萬部分開價打85折求成交- 房市"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "中時新聞",
-          "title": "臺積電神話破功？高雄屋主慘賠280萬、還有85折求售 哪些地區重災",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5McTIyVjAtSmw3NTZtbV9WSU95Nno2dEFwXzg2OXZnODZFUmV4aUNFY3RPc09hV0VWMFRPdHIya1JsTXFYMG9DeHFjYmpTMEdBTG03eWVERi1MSU1ENmNwM0F2VTIwMGZ1Q0JmVDR3?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "臺積電概念區房價鬆動！高雄屋主賠售280萬部分開價打85折求成交- 房市",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tc2pjQ1hPX3U0cTE5R0NWbnhxcDBVQlFpb3ZjRnhQVE8zYWdlaWZPQjJ6eTVMRmFqSFphTmVObFJYdFdXT2U3OW5RdXlQeEFpRlctOUZqVWhfalRNRFU4?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 8,
-      "title": "天氣/投票日各地好天氣東北季風下午報到週日夜晨輻射冷卻凍一波嘉義以北、宜花空曠處約14度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-      "summary": [
-        "TVBS新聞：天氣/投票日各地好天氣東北季風下午報到週日夜晨輻射冷卻凍一波嘉義以北、宜花空曠處約14度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-        "自由時報：北東偶雨日夜溫差大 明投票日東北季風增強"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "天氣/投票日各地好天氣東北季風下午報到週日夜晨輻射冷卻凍一波嘉義以北、宜花空曠處約14度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMbm1SODBvaWtyblVwT0V5WjJ4Rk5jemc5TTg2MTRXOUhQRTJrVW9FMmE3MzBGZHN2Rl9uSUxOOHRrOGdVX2VFNmNwQTF6Qk9DMGt4TFhn?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "北東偶雨日夜溫差大 明投票日東北季風增強",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5654851"
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "title": "泰國曼谷煉油廠爆炸9傷3人命危　事故原因調查中",
       "summary": [
         "經濟日報：泰國曼谷煉油廠爆炸9傷3人命危　事故原因調查中",
@@ -203,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "槓上美國！荷蘭將阻擋 ASML 對中出口進一步受限",
       "summary": [
         "經濟日報：槓上美國！荷蘭將阻擋 ASML 對中出口進一步受限",
@@ -220,6 +205,27 @@
           "source": "科技新報",
           "title": "不願任由美國擺布，荷蘭反對擴大 ASML 出口限制",
           "url": "https://technews.tw/2026/11/27/netherlands-opposes-expanding-asml-export-restrictions-resists-us-dictation/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "北市預售低價王重現「6字頭」房價鬆動？專家曝真相",
+      "summary": [
+        "中時新聞：北市預售低價王重現「6字頭」房價鬆動？專家曝真相",
+        "工商時報：首都房價真鬆動？臺北市預售低價王重現「6字頭」 專家揭真相：只是大坪數低樓層個案- 房市"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "北市預售低價王重現「6字頭」房價鬆動？專家曝真相",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aMTJGMV8wNXR3OW9Uc3k2R25ZQ1FCbXg0RHk4TTB5Vm11X3g4ak5qVnhQUXVZU2pSeFpXZjc2eldITjQwLTNMNTU3UWRacWd5b253d3JoN2JYY2Q3Sm91LU9TM3dPM3gwNC04Tldn?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "首都房價真鬆動？臺北市預售低價王重現「6字頭」 專家揭真相：只是大坪數低樓層個案- 房市",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42dEFuZHphT1BlVHRYbkdJSHBHelNZN1RIdkF4SmRacFZ4NVdqY3Q2NU55WWhoM3JEbEN0aVlKWm9MQl9TMDVUVG1uYzJLRWFsLUFPcHZRY19PM1NhQ0F3?oc=5"
         }
       ]
     }
@@ -359,61 +365,61 @@
     },
     {
       "rank": 7,
-      "title": "德國基金會調查：多數受訪者反對對烏軍援",
+      "title": "陳吉寧：「清華系」失勢、「上海跳板」失靈與政治局委員落馬",
       "summary": [
-        "德國之聲：德國基金會調查：多數受訪者反對對烏軍援"
+        "BBC中文：陳吉寧：「清華系」失勢、「上海跳板」失靈與政治局委員落馬"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "德國基金會調查：多數受訪者反對對烏軍援",
-          "url": "https://www.dw.com/zh/德国基金会调查：多数受访者反对对乌军援/a-80033072?maca=chi-rss-chi-all-1127-rdf"
+          "source": "BBC中文",
+          "title": "陳吉寧：「清華系」失勢、「上海跳板」失靈與政治局委員落馬",
+          "url": "https://www.bbc.com/zhongwen/articles/ck7v27vn9659o/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "年終銷售旺季前警惕暗紋和詐騙網站",
+      "title": "調查揭示中資加州公司購買英偉達受限尖端晶片漏洞",
       "summary": [
-        "NHK新聞：年終銷售旺季前警惕暗紋和詐騙網站"
+        "法廣RFI：調查揭示中資加州公司購買英偉達受限尖端晶片漏洞"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "年終銷售旺季前警惕暗紋和詐騙網站",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261126de81876"
+          "source": "法廣RFI",
+          "title": "調查揭示中資加州公司購買英偉達受限尖端晶片漏洞",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261126-%E8%AA%BF%E6%9F%A5%E6%8F%AD%E7%A4%BA%E4%B8%AD%E8%B3%87%E5%8A%A0%E5%B7%9E%E5%85%AC%E5%8F%B8%E8%B3%BC%E8%B2%B7%E8%8B%B1%E5%81%89%E9%81%94%E5%8F%97%E9%99%90%E5%B0%96%E7%AB%AF%E8%8A%AF%E7%89%87%E6%BC%8F%E6%B4%9E"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "美國殖民者出版的第一本聖經是萬帕諾亞格語，一種原住民語言",
+      "title": "曼德森根據他創立的公司的建議淡化了對中國的言論",
       "summary": [
-        "Washington Post：美國殖民者出版的第一本聖經是萬帕諾亞格語，一種原住民語言"
+        "Financial Times：曼德森根據他創立的公司的建議淡化了對中國的言論"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Washington Post",
-          "title": "美國殖民者出版的第一本聖經是萬帕諾亞格語，一種原住民語言",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbG9paGphdHRWNFVjeElOSUJ3WENLOGttcS10aVA0WjBiSGNIZWd3aHN5eXlPc0lLeFlJY0xzbXY4NF84dkZScXowNFJUbmJzaEk1TTk5X2t0Q3llOUtQZmdCM0NsZHBhU2JuNzd4NFpCSXNsS3o0Ql9tUmtGZHJUMFZGZ2hDVVZiYVlkLWFPM28tek9uSWtiVGw3X3NrZDhEaDVRQkZ6UGtubktrQnZsSnBUdjI?oc=5"
+          "source": "Financial Times",
+          "title": "曼德森根據他創立的公司的建議淡化了對中國的言論",
+          "url": "https://www.ft.com/content/2f5970e6-fe6c-416c-aff8-3f8b889802de?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "隨著礦業繁榮，剛果推出 150 億美元的基礎設施交易",
+      "title": "英國將支付額外的「參與費」作為歐盟重置協議的代價",
       "summary": [
-        "Bloomberg Markets：隨著礦業繁榮，剛果推出 150 億美元的基礎設施交易"
+        "Financial Times：英國將支付額外的「參與費」作為歐盟重置協議的代價"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "隨著礦業繁榮，剛果推出 150 億美元的基礎設施交易",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-26/congo-pitches-15-billion-infrastructure-deals-as-mining-booms"
+          "source": "Financial Times",
+          "title": "英國將支付額外的「參與費」作為歐盟重置協議的代價",
+          "url": "https://www.ft.com/content/00e41702-b11f-4a28-9233-16ce4cff99c7?syn-25a6b1a6=1"
         }
       ]
     }
