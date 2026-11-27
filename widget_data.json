@@ -1,21 +1,16 @@
 {
-  "updated_at": "2026-11-27 08:56",
+  "updated_at": "2026-11-27 09:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "新北選戰蘇巧慧一天車掃7區 李四川請朱立倫、侯友宜陪掃街",
+      "title": "快訊／南投駕駛國6「逆向狂飆」12公里　一查又是酒駕",
       "summary": [
-        "公視新聞：新北選戰蘇巧慧一天車掃7區 李四川請朱立倫、侯友宜陪掃街",
         "ETtoday：快訊／南投駕駛國6「逆向狂飆」12公里　一查又是酒駕",
-        "自由時報：《臺北時報》 藝人諾諾強暴案終審敗訴"
+        "自由時報：《臺北時報》 藝人諾諾強暴案終審敗訴",
+        "商業周刊：宏普三井新北第一案臺日首發「臺北橋站」軌道精品宅-房地產"
       ],
       "media_count": 3,
       "links": [
-        {
-          "source": "公視新聞",
-          "title": "新北選戰蘇巧慧一天車掃7區 李四川請朱立倫、侯友宜陪掃街",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13Ry11QTFaZVpJZG4wcHB6bXJLT3pCV3NhMVg2cnNwdjZfeDh3bjNBeF9NcXFuQks3ZkxLck9OcXZ3alJ1LUpNTWJwSzRTVWM?oc=5"
-        },
         {
           "source": "ETtoday",
           "title": "快訊／南投駕駛國6「逆向狂飆」12公里　一查又是酒駕",
@@ -25,38 +20,16 @@
           "source": "自由時報",
           "title": "《臺北時報》 藝人諾諾強暴案終審敗訴",
           "url": "https://news.ltn.com.tw/news/focus/breakingnews/5654807"
+        },
+        {
+          "source": "商業周刊",
+          "title": "宏普三井新北第一案臺日首發「臺北橋站」軌道精品宅-房地產",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hVWoyOUY3cVpyLWE1dlpBeFdLeU5qTGQxSjRoZHJLRDFxd3p3c3BpNGFjRklPV053SXNBanhITDU3WmZJQ2pGd0pneWU0cnBqUnd6MTNJOFRLN1gyR3VNbUJseVlVSWJ2SXBnN3E1NENfN2J3WVE?oc=5"
         }
       ]
     },
     {
       "rank": 2,
-      "title": "沈伯洋取消選前之夜   陳素月預告明扮「彰化分身」力挺",
-      "summary": [
-        "自由時報：沈伯洋取消選前之夜   陳素月預告明扮「彰化分身」力挺",
-        "公視新聞：沈伯洋取消選前之夜實體造勢 蔣萬安競辦：願讓市府路權",
-        "ETtoday：沈伯洋突取消選前之夜　吳子嘉曝背後原因"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "沈伯洋取消選前之夜   陳素月預告明扮「彰化分身」力挺",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5654727"
-        },
-        {
-          "source": "公視新聞",
-          "title": "沈伯洋取消選前之夜實體造勢 蔣萬安競辦：願讓市府路權",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuZUM1SDVaZkI0X2tCZ3V1dTNNTXdRMVhZTVFEQ3B5VGQyUGxFdVB3OFFEalA5Zm9iS0NlSHI2bWEtOU5hZTJ4emtMS2FhVXM?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "沈伯洋突取消選前之夜　吳子嘉曝背後原因",
-          "url": "https://www.ettoday.net/news/20261127/3279189.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "美第3季GDP大幅上修　川普控選前資料造假要求調查",
       "summary": [
         "自由時報：美第3季GDP大幅上修　川普控選前資料造假要求調查",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "強茂：JOYSTAR INTL出售VTEAM SIEGFRIED供應鏈專題人類基金，獲利上看498萬美元",
       "summary": [
         "公開資訊觀測站重訊：強茂：JOYSTAR INTL出售VTEAM SIEGFRIED供應鏈專題人類基金，獲利上看498萬美元",
@@ -104,7 +77,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
       "summary": [
         "自由時報：烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
@@ -125,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
       "summary": [
         "經濟日報：美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
@@ -146,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
       "summary": [
         "自由時報：印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
@@ -167,28 +140,28 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "泰國曼谷煉油廠爆炸9傷3人命危　事故原因調查中",
+      "rank": 7,
+      "title": "臺中市長選戰倒數衝刺何欣純、江啟臣互攻本命區拜票｜20261126 公視晚間新聞｜ 公視新聞PNN",
       "summary": [
-        "經濟日報：泰國曼谷煉油廠爆炸9傷3人命危　事故原因調查中",
-        "公視新聞：曼谷市區煉油廠油庫爆炸 至少4人命危、7人傷｜20261126 8點新世界"
+        "公視新聞：臺中市長選戰倒數衝刺何欣純、江啟臣互攻本命區拜票｜20261126 公視晚間新聞｜ 公視新聞PNN",
+        "自由時報：選戰最後衝刺！周春米、梁育慈率屏東隊屏市大車掃 籲鄉親出門投票"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "經濟日報",
-          "title": "泰國曼谷煉油廠爆炸9傷3人命危　事故原因調查中",
-          "url": "https://money.udn.com/money/story/5599/9904477"
+          "source": "公視新聞",
+          "title": "臺中市長選戰倒數衝刺何欣純、江啟臣互攻本命區拜票｜20261126 公視晚間新聞｜ 公視新聞PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLQUhfb2NCNlJ3S185cGNoRU93aVpYY2NSdXl3S2pwdTBRZHlJU1R6Y2tQUnF2TndtZ2xKb2t6M1NKY1ZmZXVXN3VRQQ?oc=5"
         },
         {
-          "source": "公視新聞",
-          "title": "曼谷市區煉油廠油庫爆炸 至少4人命危、7人傷｜20261126 8點新世界",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0R2kya2UxNDhTMUtCM2pfbVJVdWZFMmtQTkhjbHdHT3E3bmFlYjk4VFQ5LUQteWdYNnFzYXdCcGdHaEc5azlHM2Z6OA?oc=5"
+          "source": "自由時報",
+          "title": "選戰最後衝刺！周春米、梁育慈率屏東隊屏市大車掃 籲鄉親出門投票",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5654972"
         }
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "槓上美國！荷蘭將阻擋 ASML 對中出口進一步受限",
       "summary": [
         "經濟日報：槓上美國！荷蘭將阻擋 ASML 對中出口進一步受限",
@@ -209,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "北市預售低價王重現「6字頭」房價鬆動？專家曝真相",
       "summary": [
         "中時新聞：北市預售低價王重現「6字頭」房價鬆動？專家曝真相",
@@ -226,6 +199,27 @@
           "source": "工商時報",
           "title": "首都房價真鬆動？臺北市預售低價王重現「6字頭」 專家揭真相：只是大坪數低樓層個案- 房市",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42dEFuZHphT1BlVHRYbkdJSHBHelNZN1RIdkF4SmRacFZ4NVdqY3Q2NU55WWhoM3JEbEN0aVlKWm9MQl9TMDVUVG1uYzJLRWFsLUFPcHZRY19PM1NhQ0F3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "科技股回穩　歐股隨亞股走揚收高",
+      "summary": [
+        "自由時報：科技股回穩　歐股隨亞股走揚收高",
+        "經濟日報：科技股回穩　歐股隨亞股走揚收高"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "科技股回穩　歐股隨亞股走揚收高",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5654830"
+        },
+        {
+          "source": "經濟日報",
+          "title": "科技股回穩　歐股隨亞股走揚收高",
+          "url": "https://money.udn.com/money/story/5599/9904809"
         }
       ]
     }
@@ -287,22 +281,22 @@
     },
     {
       "rank": 3,
-      "title": "奧馳亞探索帝國品牌的收購要約",
+      "title": "奧馳亞探索收購帝國品牌",
       "summary": [
-        "Financial Times：奧馳亞探索帝國品牌的收購要約",
-        "Investing.com：奧馳亞正在考慮收購英國帝國品牌的可能報價"
+        "Financial Times：奧馳亞探索收購帝國品牌",
+        "Investing.com：萬寶路製造商奧馳亞探索收購英國帝國品牌"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Financial Times",
-          "title": "奧馳亞探索帝國品牌的收購要約",
-          "url": "https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9"
+          "title": "奧馳亞探索收購帝國品牌",
+          "url": "https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9?syn-25a6b1a6=1"
         },
         {
           "source": "Investing.com",
-          "title": "奧馳亞正在考慮收購英國帝國品牌的可能報價",
-          "url": "https://www.investing.com/news/stock-market-news/altria-weighs-possible-offer-for-uks-imperial-brands-5052505"
+          "title": "萬寶路製造商奧馳亞探索收購英國帝國品牌",
+          "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558"
         }
       ]
     },
@@ -350,6 +344,48 @@
     },
     {
       "rank": 6,
+      "title": "英偉達暫停向東南亞供應晶片",
+      "summary": [
+        "TechCrunch：英偉達暫停向東南亞供應晶片",
+        "紐約時報中文：英偉達暫停向東南亞銷售部分晶片，回應政府對華限制措施- 紐約時報中文網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "英偉達暫停向東南亞供應晶片",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+        },
+        {
+          "source": "紐約時報中文",
+          "title": "英偉達暫停向東南亞銷售部分晶片，回應政府對華限制措施- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVkFEMHQ5LWxJODlpNGVYbG9CaUE5b21QVEF1Z2ZpOGpyaTJ4X3JPX1FJM1B4ZElTWkotcms5TjBFQkZlaHNmWDNfNmVmdkVEMFFyM3h1SExaRWdGdlMxVnJ3VWZjLTlLbHkxSkpNeEZFc0pvWUYzYmlKLW1GRFdURzR3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "盧拉任命銀行家為巴西財政部長，試圖安撫市場",
+      "summary": [
+        "Financial Times：盧拉任命銀行家為巴西財政部長，試圖安撫市場",
+        "Bloomberg Markets：盧拉任命銀行家為財政部長後巴西資產上漲"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "盧拉任命銀行家為巴西財政部長，試圖安撫市場",
+          "url": "https://www.ft.com/content/94f93408-476b-479c-be0e-d7f7942f9491?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "盧拉任命銀行家為財政部長後巴西資產上漲",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "挪威股市收盤走高；奧斯陸OBX上漲1.50%",
       "summary": [
         "Investing.com：挪威股市收盤走高；奧斯陸OBX上漲1.50%"
@@ -364,62 +400,32 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "陳吉寧：「清華系」失勢、「上海跳板」失靈與政治局委員落馬",
-      "summary": [
-        "BBC中文：陳吉寧：「清華系」失勢、「上海跳板」失靈與政治局委員落馬"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "BBC中文",
-          "title": "陳吉寧：「清華系」失勢、「上海跳板」失靈與政治局委員落馬",
-          "url": "https://www.bbc.com/zhongwen/articles/ck7v27vn9659o/trad?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "調查揭示中資加州公司購買英偉達受限尖端晶片漏洞",
-      "summary": [
-        "法廣RFI：調查揭示中資加州公司購買英偉達受限尖端晶片漏洞"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "調查揭示中資加州公司購買英偉達受限尖端晶片漏洞",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261126-%E8%AA%BF%E6%9F%A5%E6%8F%AD%E7%A4%BA%E4%B8%AD%E8%B3%87%E5%8A%A0%E5%B7%9E%E5%85%AC%E5%8F%B8%E8%B3%BC%E8%B2%B7%E8%8B%B1%E5%81%89%E9%81%94%E5%8F%97%E9%99%90%E5%B0%96%E7%AB%AF%E8%8A%AF%E7%89%87%E6%BC%8F%E6%B4%9E"
-        }
-      ]
-    },
-    {
       "rank": 9,
-      "title": "曼德森根據他創立的公司的建議淡化了對中國的言論",
+      "title": "日本與馬歇爾首腦會談確認擴大安全領域合作等",
       "summary": [
-        "Financial Times：曼德森根據他創立的公司的建議淡化了對中國的言論"
+        "NHK新聞：日本與馬歇爾首腦會談確認擴大安全領域合作等"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "曼德森根據他創立的公司的建議淡化了對中國的言論",
-          "url": "https://www.ft.com/content/2f5970e6-fe6c-416c-aff8-3f8b889802de?syn-25a6b1a6=1"
+          "source": "NHK新聞",
+          "title": "日本與馬歇爾首腦會談確認擴大安全領域合作等",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261126de82126"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "英國將支付額外的「參與費」作為歐盟重置協議的代價",
+      "title": "意見 |民主黨把目標瞄準了以色列。他們反而襲擊了亞利桑那州的工人。",
       "summary": [
-        "Financial Times：英國將支付額外的「參與費」作為歐盟重置協議的代價"
+        "Washington Post：意見 |民主黨把目標瞄準了以色列。他們反而襲擊了亞利桑那州的工人。"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Financial Times",
-          "title": "英國將支付額外的「參與費」作為歐盟重置協議的代價",
-          "url": "https://www.ft.com/content/00e41702-b11f-4a28-9233-16ce4cff99c7?syn-25a6b1a6=1"
+          "source": "Washington Post",
+          "title": "意見 |民主黨把目標瞄準了以色列。他們反而襲擊了亞利桑那州的工人。",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZWN6bzEyRVlKSHNzd183aHRBVjJuYnNQeU9VSU51YVRsVGlFelgwY2NXX2NEMG1nNzUzYmJiWnJ1YTRwQXozTFRoSGF6ampvMnhiX3FlUWhrQlhJWEVzVEp2TWNKZGJvSEdQVXZ6WlVtNDhjOUw4aWN3QnkxbklzV1BuaTFkdWhjajdIanlvY0Zzb28zOEVRLWNiQkFLb3Eya1VZ?oc=5"
         }
       ]
     }
