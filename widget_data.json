@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 19:57",
+  "updated_at": "2026-11-27 20:26",
   "taiwan": [
     {
       "rank": 1,
@@ -141,48 +141,6 @@
     },
     {
       "rank": 6,
-      "title": "臺灣人一天開幾次LINE？最新調查出爐　你超過平均值了嗎？",
-      "summary": [
-        "自由時報：臺灣人一天開幾次LINE？最新調查出爐　你超過平均值了嗎？",
-        "ETtoday：你一天會開幾次 LINE？調查揭臺灣人平均數、10 次都嫌少"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "臺灣人一天開幾次LINE？最新調查出爐　你超過平均值了嗎？",
-          "url": "https://3c.ltn.com.tw/news/68440"
-        },
-        {
-          "source": "ETtoday",
-          "title": "你一天會開幾次 LINE？調查揭臺灣人平均數、10 次都嫌少",
-          "url": "https://www.ettoday.net/news/20261127/3279219.htm"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "又一重量級ETF爆鉅額違約交割！00981A翻船 違約交割破1億",
-      "summary": [
-        "工商時報：又一重量級ETF爆鉅額違約交割！00981A翻船 違約交割破1億",
-        "鉅亨網：狂歡變調！00981A驚爆1.03億元鉅額違約交割 創主動式ETF首例"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "又一重量級ETF爆鉅額違約交割！00981A翻船 違約交割破1億",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wTXBncEV5Q0Q0RHU1SEgydnVocVAxUkRZcTFMQUhIVTExRlRxS3VBbzloZXNtWllWNDhROTFURWZRV0ZlS1ZxLURPb1lhcE1Dcy16Q3NmYnp0dWhrUHlz?oc=5"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "狂歡變調！00981A驚爆1.03億元鉅額違約交割 創主動式ETF首例",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxTF80eEh5RWdUM1MwV3AtUUY5clgwTEoxSlRPRmh2T2poU3NXU1d5cWxINl81ZlgwSmZvNXFNWmFaOGNxTE1ERjlOdXB2dUk?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "聲援性侵犯男諧星挨轟！女星IG刪合照道歉：對自己的無知感到羞愧",
       "summary": [
         "ETtoday：聲援性侵犯男諧星挨轟！女星IG刪合照道歉：對自己的無知感到羞愧",
@@ -203,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "西班牙老將德科斯將掌 ECB  危機處理能力獲看重",
       "summary": [
         "科技新報：西班牙老將德科斯將掌 ECB  危機處理能力獲看重",
@@ -224,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "評估 EV 需求  豐田傳再度推遲日本電池工廠興建計畫",
       "summary": [
         "科技新報：評估 EV 需求  豐田傳再度推遲日本電池工廠興建計畫",
@@ -241,6 +199,48 @@
           "source": "MoneyDJ理財網",
           "title": "評估EV需求豐田傳再度推遲日本電池工廠興建計劃- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONFUweGxhZ3pLc0IycVloQ2Vhb0JJRTI5bXgyN0RtREd2bVBtdTNyUVBtUlgyUk15SEcweXZhWDdIOWNpdjJ1aVdVdGVpUVBxdngzd29HNWpmVmpScXYySXdxVlZqei1ja0dSZ2xPNHE2WHhoYmpuNzM1NGUwUUxBcndnU21ka01CZzlxb2EyYWNBQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "EV 需求加持  比亞迪超越 GM、躍居全球第 4 大車廠",
+      "summary": [
+        "科技新報：EV 需求加持  比亞迪超越 GM、躍居全球第 4 大車廠",
+        "MoneyDJ理財網：EV需求加持比亞迪超越GM、躍居全球第4大車廠- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "EV 需求加持  比亞迪超越 GM、躍居全球第 4 大車廠",
+          "url": "https://technews.tw/2026/11/27/byd-overtakes-gm-4th-largest-automaker-ev-demand/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "EV需求加持比亞迪超越GM、躍居全球第4大車廠- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeW42ZzdKU3NQcm5FY0tZb3ZLT0loMFdkT0dQTmFxM3puOTBHdnI4R244di1QSThCY1lwYWhvajZ6Zm9yMU8wbW5mT2l4d185dzZ0TUJ4QWJhN2Z3Z3hrWWswQVl5Ry1DUWdUbXd6QkNYSEJFSmRYSFI2eUdxZDAzM2E5LXNmV3d2MnRrcXJ2RThJUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "新竹某裡長候選人「一票1千」買票遭起訴！　3收賄選民不起訴",
+      "summary": [
+        "ETtoday：新竹某裡長候選人「一票1千」買票遭起訴！　3收賄選民不起訴",
+        "自由時報：嘉義檢警連破3起賄選案 村長候選人涉每票3000元買票"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "新竹某裡長候選人「一票1千」買票遭起訴！　3收賄選民不起訴",
+          "url": "https://www.ettoday.net/news/20261127/3279232.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "嘉義檢警連破3起賄選案 村長候選人涉每票3000元買票",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655013"
         }
       ]
     }
@@ -449,22 +449,22 @@
     },
     {
       "rank": 10,
-      "title": "2026 年黑色星期五最佳科技交易直播",
+      "title": "馬斯克表示將向「美國每個孩子」贈送兩股 SpaceX 股票",
       "summary": [
-        "Tom's Hardware：2026 年黑色星期五最佳科技交易直播",
-        "Wired：黑色星期五最佳優惠現已上線：我們的 2026 年專家精選"
+        "Yahoo Finance：馬斯克表示將向「美國每個孩子」贈送兩股 SpaceX 股票",
+        "德國之聲：馬斯克承諾贈送全美兒童兩股SpaceX股票 總價值約180億美元"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Tom's Hardware",
-          "title": "2026 年黑色星期五最佳科技交易直播",
-          "url": "https://www.tomshardware.com/live/news/black-friday-2026-day-three"
+          "source": "Yahoo Finance",
+          "title": "馬斯克表示將向「美國每個孩子」贈送兩股 SpaceX 股票",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYWVQZjJEZjJIaDBac2JiNXlUbGFOTHd6V1UzR0Q2UnNkRW0tVVVPMEVEdEtucUJPMWhCVDNZeExwZ0liZko2LWNXcnlTU0t6ejJCNExhVi1uVXpuM3V6cHNzeV9ON0w4OWpJWDR6eVJDNnlESkRvTE5nNDZtZ1pIeUFnTFNSeTkwVnBUbWFVRXNCbG16cHJz?oc=5"
         },
         {
-          "source": "Wired",
-          "title": "黑色星期五最佳優惠現已上線：我們的 2026 年專家精選",
-          "url": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/"
+          "source": "德國之聲",
+          "title": "馬斯克承諾贈送全美兒童兩股SpaceX股票 總價值約180億美元",
+          "url": "https://www.dw.com/zh/马斯克承诺赠送全美儿童两股spacex股票-总价值约180亿美元/a-80074766?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     }
