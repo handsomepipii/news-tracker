@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 05:57",
+  "updated_at": "2026-11-28 06:28",
   "taiwan": [
     {
       "rank": 1,
@@ -78,6 +78,27 @@
     },
     {
       "rank": 4,
+      "title": "天氣/投票日先放晴再轉涼週日北臺灣降溫較多\"掉3-5度\" 晨探15度下下週回溫明顯高溫上看30度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+      "summary": [
+        "TVBS新聞：天氣/投票日先放晴再轉涼週日北臺灣降溫較多\"掉3-5度\" 晨探15度下下週回溫明顯高溫上看30度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "ETtoday：今投票日乾空氣南下　吳德榮：明晨最低溫跌破12℃"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "天氣/投票日先放晴再轉涼週日北臺灣降溫較多\"掉3-5度\" 晨探15度下下週回溫明顯高溫上看30度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iT25sRW9NVDFDYjhyTE1NeXJiUFFGZER2aFJWb2R2MGlFY1lid08tWG1OUkdUMDR1YVVFY19KaVZ3UWJzUFRZNWRvN0l3NmxzZVM4Q3pn?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "今投票日乾空氣南下　吳德榮：明晨最低溫跌破12℃",
+          "url": "https://www.ettoday.net/news/20261128/3279728.htm"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "侯友宜10度合體車掃 李四川：明天請投給跟你一樣靠雙手打拚的人",
       "summary": [
         "自由時報：侯友宜10度合體車掃 李四川：明天請投給跟你一樣靠雙手打拚的人",
@@ -98,7 +119,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "LIVE／蘇巧慧「新時代新市長」選前之夜　賴清德、蔡英文接力助講",
       "summary": [
         "ETtoday：LIVE／蘇巧慧「新時代新市長」選前之夜　賴清德、蔡英文接力助講",
@@ -119,7 +140,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "LIVE／蔣萬安1900凱道選前之夜　石舫亙和三寶「獻聲」成彩蛋",
       "summary": [
         "ETtoday：LIVE／蔣萬安1900凱道選前之夜　石舫亙和三寶「獻聲」成彩蛋",
@@ -140,7 +161,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "天氣/投票日舒適好天氣 下週回溫｢冬日暫歇｣｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20261109 @TVBSNEWS01",
       "summary": [
         "TVBS新聞：天氣/投票日舒適好天氣 下週回溫｢冬日暫歇｣｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20261109 @TVBSNEWS01",
@@ -161,7 +182,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "烏坵鄉投票專船停開 中選會：明日照常辦理投開票作業",
       "summary": [
         "自由時報：烏坵鄉投票專船停開 中選會：明日照常辦理投開票作業",
@@ -182,7 +203,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "蘇巧慧選前之夜開場 主辦方喊已3萬人、直播觀看數超過蔣萬安",
       "summary": [
         "自由時報：蘇巧慧選前之夜開場 主辦方喊已3萬人、直播觀看數超過蔣萬安",
@@ -201,27 +222,6 @@
           "url": "https://www.ettoday.net/news/20261127/3279639.htm"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "20261127 8點新世界 完整版（無網路版權內容除外）｜馬斯克送大禮，美國兒童獲贈2股SpaceX，承諾「每年送1股」",
-      "summary": [
-        "公視新聞：20261127 8點新世界 完整版（無網路版權內容除外）｜馬斯克送大禮，美國兒童獲贈2股SpaceX，承諾「每年送1股」",
-        "自由時報：馬斯克叔叔「紅包」加碼！全美兒童2股SpaceX、每年再贈1股"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公視新聞",
-          "title": "20261127 8點新世界 完整版（無網路版權內容除外）｜馬斯克送大禮，美國兒童獲贈2股SpaceX，承諾「每年送1股」",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00aEtrYmdQd1djbS1icjItM1AzZ3JfTUpYUHpicGl1aUZkV2NDMmRFZWlQWUxGeWZvcFlYMlc5b2VGT3Y1am1JTEp4NA?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "馬斯克叔叔「紅包」加碼！全美兒童2股SpaceX、每年再贈1股",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5655906"
-        }
-      ]
     }
   ],
   "global": [
@@ -230,7 +230,7 @@
       "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
       "summary": [
         "Bloomberg Tech：Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
-        "Investing.com：上海資料中心發現與 Alice Huang 相關的 Nvidia Blackwell 晶片",
+        "Investing.com：上海資料中心與 Alice Huang 發現相關的 Nvidia Blackwell 晶片",
         "Yahoo Finance：Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上"
       ],
       "media_count": 3,
@@ -242,7 +242,7 @@
         },
         {
           "source": "Investing.com",
-          "title": "上海資料中心發現與 Alice Huang 相關的 Nvidia Blackwell 晶片",
+          "title": "上海資料中心與 Alice Huang 發現相關的 Nvidia Blackwell 晶片",
           "url": "https://www.investing.com/news/stock-market-news/nvidia-blackwell-chips-found-in-shanghai-data-center-tied-to-alice-huang-5053414"
         },
         {
@@ -323,6 +323,27 @@
     },
     {
       "rank": 5,
+      "title": "川普捍衛普丁的友誼，澤倫斯基稱這種友誼“奇怪”",
+      "summary": [
+        "Washington Post：川普捍衛普丁的友誼，澤倫斯基稱這種友誼“奇怪”",
+        "BBC World：澤倫斯基在 BBC 採訪中質疑川普與普丁的「奇怪」友誼"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "川普捍衛普丁的友誼，澤倫斯基稱這種友誼“奇怪”",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSEhWSUd0Rk5DOUVkZU15Uk5Qak9DY0p3aUFWZzJsb0tKQTJleDdRdWREeFllMkVsV1ZBUDNDa0I4NVVfRXBiVDVQSEkxUHR1bE5RYkpyaE83am5JZnBEVWJpNjVwa21sQzRsRktPQWNGeHBUMldMTzVVcGtiUE1nY1p1eTl1MEl5ZVVNR1ppbnhpRWlQQUpsWWNob0ZUM0FuazcxcDMxbGN5aUk?oc=5"
+        },
+        {
+          "source": "BBC World",
+          "title": "澤倫斯基在 BBC 採訪中質疑川普與普丁的「奇怪」友誼",
+          "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "人工智慧如何改變黑色星期五",
       "summary": [
         "Bloomberg Tech：人工智慧如何改變黑色星期五",
@@ -343,38 +364,38 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "黑色星期五 AirPods、MacBook 和其他 Apple 裝置的最佳優惠",
+      "rank": 7,
+      "title": "黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
       "summary": [
-        "The Verge：黑色星期五 AirPods、MacBook 和其他 Apple 裝置的最佳優惠",
-        "Wired：Apple 黑色星期五特惠 (2026)：AirPods、iPad、MacBook 等"
+        "The Verge：黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
+        "Wired：蘋果黑色星期五特惠(2026)：AirPods、iPad、MacBook等"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "The Verge",
-          "title": "黑色星期五 AirPods、MacBook 和其他 Apple 裝置的最佳優惠",
+          "title": "黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
           "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026"
         },
         {
           "source": "Wired",
-          "title": "Apple 黑色星期五特惠 (2026)：AirPods、iPad、MacBook 等",
+          "title": "蘋果黑色星期五特惠(2026)：AirPods、iPad、MacBook等",
           "url": "https://www.wired.com/story/black-friday-apple-deals-11-27-2026/"
         }
       ]
     },
     {
-      "rank": 7,
-      "title": "Verizon in Talks to Buy Fidium in $6 Billion Deal, FT Says",
+      "rank": 8,
+      "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
       "summary": [
-        "Bloomberg Tech：Verizon in Talks to Buy Fidium in $6 Billion Deal, FT Says",
+        "Bloomberg Tech：英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
         "Financial Times：Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "Verizon in Talks to Buy Fidium in $6 Billion Deal, FT Says",
+          "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
           "url": "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says"
         },
         {
@@ -385,7 +406,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "OpenAI 反訴蘋果竊取商業機密",
       "summary": [
         "Financial Times：OpenAI 反訴蘋果竊取商業機密",
@@ -406,32 +427,17 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "為什麼貝卡爾特股票今天飆升？",
+      "rank": 10,
+      "title": "為什麼嘉能可股票今天上漲？",
       "summary": [
-        "Investing.com：為什麼貝卡爾特股票今天飆升？"
+        "Investing.com：為什麼嘉能可股票今天上漲？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Investing.com",
-          "title": "為什麼貝卡爾特股票今天飆升？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-bekaert-stock-surging-today-93CH-5053191"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "16 款黑色星期五最佳耳機優惠 (2026)：最高 57% 折扣",
-      "summary": [
-        "Wired：16 款黑色星期五最佳耳機優惠 (2026)：最高 57% 折扣"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Wired",
-          "title": "16 款黑色星期五最佳耳機優惠 (2026)：最高 57% 折扣",
-          "url": "https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/"
+          "title": "為什麼嘉能可股票今天上漲？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-glencore-stock-rallying-today-93CH-5053532"
         }
       ]
     }
