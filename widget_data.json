@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 00:58",
+  "updated_at": "2026-11-28 01:26",
   "taiwan": [
     {
       "rank": 1,
@@ -78,48 +78,6 @@
     },
     {
       "rank": 4,
-      "title": "蔡其昌喊話臺中人挺何欣純 保住江啟臣副院長",
-      "summary": [
-        "自由時報：蔡其昌喊話臺中人挺何欣純 保住江啟臣副院長",
-        "ETtoday：臺下狂喊「大家都愛侯友宜」　侯喊話：若認同我、請你相信李四川"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "蔡其昌喊話臺中人挺何欣純 保住江啟臣副院長",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655141"
-        },
-        {
-          "source": "ETtoday",
-          "title": "臺下狂喊「大家都愛侯友宜」　侯喊話：若認同我、請你相信李四川",
-          "url": "https://www.ettoday.net/news/20261127/3279699.htm"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "美收緊先進AI晶片出口管制　東南亞AI基礎建設面臨考驗",
-      "summary": [
-        "經濟日報：美收緊先進AI晶片出口管制　東南亞AI基礎建設面臨考驗",
-        "科技新報：美收緊先進 AI 晶片出口管制，東南亞 AI 基礎建設面臨考驗"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美收緊先進AI晶片出口管制　東南亞AI基礎建設面臨考驗",
-          "url": "https://money.udn.com/money/story/5599/9905655"
-        },
-        {
-          "source": "科技新報",
-          "title": "美收緊先進 AI 晶片出口管制，東南亞 AI 基礎建設面臨考驗",
-          "url": "https://technews.tw/2026/11/27/us-tightens-ai-chip-export-controls-southeast-asia-ai-infrastructure-challenge/"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "臺中牙醫8年前被刺死 兒今收到兇手賠償 入帳265元",
       "summary": [
         "中時新聞：臺中牙醫8年前被刺死 兒今收到兇手賠償 入帳265元",
@@ -140,7 +98,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "美國防堵中國租用遠端算力　新規加查緝爭搶AI競賽優勢",
       "summary": [
         "經濟日報：美國防堵中國租用遠端算力　新規加查緝爭搶AI競賽優勢",
@@ -161,7 +119,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "ILLIT MOKA停工5個月宣佈回歸！親自報喜「一直在等這天」",
       "summary": [
         "ETtoday：ILLIT MOKA停工5個月宣佈回歸！親自報喜「一直在等這天」",
@@ -182,7 +140,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "川普投顧發言：美股大跌有點擔心、市場挺黃仁勳",
       "summary": [
         "科技新報：川普投顧發言：美股大跌有點擔心、市場挺黃仁勳",
@@ -203,7 +161,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "難撐高油價  挪威廉航 Norse 全面停飛、瀕破產",
       "summary": [
         "科技新報：難撐高油價  挪威廉航 Norse 全面停飛、瀕破產",
@@ -220,6 +178,48 @@
           "source": "MoneyDJ理財網",
           "title": "難撐高油價挪威廉航Norse全面停飛、瀕破產- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSkNJTGdxRTh6UXV5QlViYUlkS1h0dE1lc0xUVWxqTFFxQ1RQU3NpRl96MERmRlRNaUFwakJGWXlndjRhcXBYS3BLalZuRzJqTTR0amJnVU1Jb0llcENacDdtNWQ5ZUJDTEVOSk5aUldQQlFaOU5DR1g4WE5IY095T3pyeFQ5dlZud3Y4b295MUJzdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "日本提國防AI願景　判斷與責任由人類承擔",
+      "summary": [
+        "經濟日報：日本提國防AI願景　判斷與責任由人類承擔",
+        "科技新報：日本提國防 AI 願景，判斷與責任由人類承擔"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "日本提國防AI願景　判斷與責任由人類承擔",
+          "url": "https://money.udn.com/money/story/5599/9905840"
+        },
+        {
+          "source": "科技新報",
+          "title": "日本提國防 AI 願景，判斷與責任由人類承擔",
+          "url": "https://technews.tw/2026/11/27/japan-defense-ai-vision-human-judgment-responsibility/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "馬斯克搶記憶體傳碰壁  李在鎔問：還能給什麼？",
+      "summary": [
+        "科技新報：馬斯克搶記憶體傳碰壁  李在鎔問：還能給什麼？",
+        "MoneyDJ理財網：馬斯克搶記憶體傳碰壁 李在鎔問：還能給什麼？"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "馬斯克搶記憶體傳碰壁  李在鎔問：還能給什麼？",
+          "url": "https://finance.technews.tw/2026/11/27/samsungs-lee-rejects-musks-memory-chip-offer/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "馬斯克搶記憶體傳碰壁 李在鎔問：還能給什麼？",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUWQtWkNDOUhZaG91MWFtSkNqOEoxekxwUTZlT0ttMkV5NG5IOGVwR0hMZGtsTWtDVnN1SnlrTXNDVklwczBsSk5CX0owTkNDVDFZOVYwbklIbDBrTTlfNm9rcmdQdVpLejItcXVnZEgwSjdLN1h1b2V3VGdWYmFNQ3lNUTlRVm5OYWNtSUtzLXdUZw?oc=5"
         }
       ]
     }
@@ -281,6 +281,27 @@
     },
     {
       "rank": 3,
+      "title": "因漂流南下獲救的朝鮮漁船返朝 7名船員中1人留韓",
+      "summary": [
+        "韓聯社：因漂流南下獲救的朝鮮漁船返朝 7名船員中1人留韓",
+        "法廣RFI：首爾遣返六名在海上獲救的朝鮮漁民  一人選擇留韓"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "韓聯社",
+          "title": "因漂流南下獲救的朝鮮漁船返朝 7名船員中1人留韓",
+          "url": "https://cn.yna.co.kr/view/ACK20261127001700881"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "首爾遣返六名在海上獲救的朝鮮漁民  一人選擇留韓",
+          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261127-%E9%A6%96%E7%88%BE%E9%81%A3%E8%BF%94%E5%85%AD%E5%90%8D%E5%9C%A8%E6%B5%B7%E4%B8%8A%E7%8D%B2%E6%95%91%E7%9A%84%E6%9C%9D%E9%AE%AE%E6%BC%81%E6%B0%91-%E4%B8%80%E4%BA%BA%E9%81%B8%E6%93%87%E7%95%99%E9%9F%93"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "軟體公司 SAP 考慮裁員至少 1 萬人",
       "summary": [
         "Bloomberg Tech：軟體公司 SAP 考慮裁員至少 1 萬人",
@@ -301,7 +322,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "北京發出更多支援訊號後中國股市飆升",
       "summary": [
         "Financial Times：北京發出更多支援訊號後中國股市飆升",
@@ -322,7 +343,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "人工智慧貿易反彈，亞洲股市延續復甦",
       "summary": [
         "Bloomberg Markets：人工智慧貿易反彈，亞洲股市延續復甦",
@@ -343,7 +364,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "德國軟體巨頭 SAP 考慮在人工智慧推動領域裁員至少 1 萬人：彭博社",
       "summary": [
         "CNBC：德國軟體巨頭 SAP 考慮在人工智慧推動領域裁員至少 1 萬人：彭博社",
@@ -364,7 +385,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "馬斯克表示將向「美國每個孩子」贈送兩股 SpaceX 股票",
       "summary": [
         "Yahoo Finance：馬斯克表示將向「美國每個孩子」贈送兩股 SpaceX 股票",
@@ -385,28 +406,28 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "2026 年黑色星期五最佳科技交易直播",
+      "rank": 9,
+      "title": "我們發現的絕對最好的黑色星期五優惠（到目前為止）",
       "summary": [
-        "Tom's Hardware：2026 年黑色星期五最佳科技交易直播",
-        "Wired：黑色星期五最佳優惠現已上線：我們的 2026 年專家精選"
+        "The Verge：我們發現的絕對最好的黑色星期五優惠（到目前為止）",
+        "Ars Technica：Ars 能找到的最佳黑色星期五優惠"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Tom's Hardware",
-          "title": "2026 年黑色星期五最佳科技交易直播",
-          "url": "https://www.tomshardware.com/live/news/black-friday-2026-day-three"
+          "source": "The Verge",
+          "title": "我們發現的絕對最好的黑色星期五優惠（到目前為止）",
+          "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas"
         },
         {
-          "source": "Wired",
-          "title": "黑色星期五最佳優惠現已上線：我們的 2026 年專家精選",
-          "url": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/"
+          "source": "Ars Technica",
+          "title": "Ars 能找到的最佳黑色星期五優惠",
+          "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/"
         }
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "廉價航空公司挪威大西洋航空公司因未能獲得資金而在歐洲申請破產",
       "summary": [
         "CNBC：廉價航空公司挪威大西洋航空公司因未能獲得資金而在歐洲申請破產",
@@ -423,27 +444,6 @@
           "source": "Investing.com",
           "title": "挪威大西洋航空公司在挪威申請破產",
           "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-airways-files-for-bankruptcy-in-norway-5053483"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "人工智慧如何改變黑色星期五",
-      "summary": [
-        "Bloomberg Tech：人工智慧如何改變黑色星期五",
-        "Bloomberg Markets：人工智慧工具重塑黑色星期五體驗"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "人工智慧如何改變黑色星期五",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-27/how-ai-is-changing-black-friday-video"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "人工智慧工具重塑黑色星期五體驗",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-27/ai-tools-reshape-the-black-friday-experience-video"
         }
       ]
     }
