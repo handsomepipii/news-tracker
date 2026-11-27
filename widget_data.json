@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 20:26",
+  "updated_at": "2026-11-27 20:56",
   "taiwan": [
     {
       "rank": 1,
@@ -35,38 +35,6 @@
     },
     {
       "rank": 2,
-      "title": "抗衡馬斯克 Starlink 歐洲最大衛星工廠啟用 年產能上看500顆",
-      "summary": [
-        "經濟日報：抗衡馬斯克 Starlink 歐洲最大衛星工廠啟用 年產能上看500顆",
-        "科技新報：歐洲最大衛星工廠啟用  力拚抗衡 Starlink",
-        "MoneyDJ理財網：歐洲最大衛星工廠啟用 力拚抗衡Starlink"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "抗衡馬斯克 Starlink 歐洲最大衛星工廠啟用 年產能上看500顆",
-          "url": "https://money.udn.com/money/story/5599/9904996"
-        },
-        {
-          "source": "科技新報",
-          "title": "歐洲最大衛星工廠啟用  力拚抗衡 Starlink",
-          "url": "https://technews.tw/2026/11/27/europes-largest-satellite-factory-opens-in-push-to-rival-musk/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "歐洲最大衛星工廠啟用 力拚抗衡Starlink",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaTJTNjNEOXBPNlFTRTlJSXp3MWtISWhranVWUkFqdHgzbDFHcjdlaUF1bTAyalM3NGRzT3J0NDBkYWVfRXJpLXppeG04Wkx6U0tVeU04TnpPaDdMR1dtT2paN1d0ZTBiaGptcmhrUndZQUVRZ2ZwaUsyaTVHLUUtQ1NVbmY5SjIwYk9sbWtpYktuUQ?oc=5"
-        },
-        {
-          "source": "科技報橘",
-          "title": "迎戰星鏈！歐洲最大衛星工廠比利時開幕，年產可達 500 顆、撐起歐盟 IRIS² 計畫",
-          "url": "https://techorange.com/2026/11/27/europe-satellite-factory-iris2-starlink/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "SpaceX百萬顆衛星獲準發射- 日報",
       "summary": [
         "工商時報：SpaceX百萬顆衛星獲準發射- 日報",
@@ -94,6 +62,33 @@
           "source": "財訊",
           "title": "臺股新主流出爐！SpaceX百萬顆衛星引爆行情 低軌衛星族群再掀漲停潮",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81WVl2YVNLMXE3Wi1zdUdwbkVkamg4Y2JubzdVTEkxclplSUdZMDl2ZXFjZHM0NlYyODRtOU1BajZqb0ZkalBvdE16UkdJXzVvRlZOdV9oalFLU0h3UXMzSGtPcnN6Tkc2TUs0ZmZ2V210ZjVncFRfVW83SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "歐洲最大衛星工廠啟用  力拚抗衡 Starlink",
+      "summary": [
+        "科技新報：歐洲最大衛星工廠啟用  力拚抗衡 Starlink",
+        "MoneyDJ理財網：歐洲最大衛星工廠啟用 力拚抗衡Starlink",
+        "科技報橘：迎戰星鏈！歐洲最大衛星工廠比利時開幕，年產可達 500 顆、撐起歐盟 IRIS² 計畫"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "歐洲最大衛星工廠啟用  力拚抗衡 Starlink",
+          "url": "https://technews.tw/2026/11/27/europes-largest-satellite-factory-opens-in-push-to-rival-musk/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "歐洲最大衛星工廠啟用 力拚抗衡Starlink",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaTJTNjNEOXBPNlFTRTlJSXp3MWtISWhranVWUkFqdHgzbDFHcjdlaUF1bTAyalM3NGRzT3J0NDBkYWVfRXJpLXppeG04Wkx6U0tVeU04TnpPaDdMR1dtT2paN1d0ZTBiaGptcmhrUndZQUVRZ2ZwaUsyaTVHLUUtQ1NVbmY5SjIwYk9sbWtpYktuUQ?oc=5"
+        },
+        {
+          "source": "科技報橘",
+          "title": "迎戰星鏈！歐洲最大衛星工廠比利時開幕，年產可達 500 顆、撐起歐盟 IRIS² 計畫",
+          "url": "https://techorange.com/2026/11/27/europe-satellite-factory-iris2-starlink/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
         }
       ]
     },
@@ -141,90 +136,6 @@
     },
     {
       "rank": 6,
-      "title": "聲援性侵犯男諧星挨轟！女星IG刪合照道歉：對自己的無知感到羞愧",
-      "summary": [
-        "ETtoday：聲援性侵犯男諧星挨轟！女星IG刪合照道歉：對自己的無知感到羞愧",
-        "自由時報：力挺性侵男星挨轟！女星道歉認錯：對自己的無知感到羞愧"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "聲援性侵犯男諧星挨轟！女星IG刪合照道歉：對自己的無知感到羞愧",
-          "url": "https://star.ettoday.net/news/3279203"
-        },
-        {
-          "source": "自由時報",
-          "title": "力挺性侵男星挨轟！女星道歉認錯：對自己的無知感到羞愧",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5655079"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "西班牙老將德科斯將掌 ECB  危機處理能力獲看重",
-      "summary": [
-        "科技新報：西班牙老將德科斯將掌 ECB  危機處理能力獲看重",
-        "MoneyDJ理財網：西班牙老將德科斯將掌ECB 危機處理能力獲看重- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "西班牙老將德科斯將掌 ECB  危機處理能力獲看重",
-          "url": "https://finance.technews.tw/2026/11/27/spains-de-cos-to-take-over-as-ecb-president-from-lagarde/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "西班牙老將德科斯將掌ECB 危機處理能力獲看重- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWFVDLVVhVEJ2VXpNOTZ2SkdwNU1NUGcxcm5XdU04TnhuVWcwV0k5TkJRSGpFR0tLVkJ6YW5fSWstLTZ4TXVMdHEtaTBfN1lGbjVfQXBhN0tZaW91d1RwY3FYQXV5SnZadlBQNm5leEdRbmo4dURPOE9zX0NrSlNNQlFKQUk1bEs3UW82TlVzVElPZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "評估 EV 需求  豐田傳再度推遲日本電池工廠興建計畫",
-      "summary": [
-        "科技新報：評估 EV 需求  豐田傳再度推遲日本電池工廠興建計畫",
-        "MoneyDJ理財網：評估EV需求豐田傳再度推遲日本電池工廠興建計劃- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "評估 EV 需求  豐田傳再度推遲日本電池工廠興建計畫",
-          "url": "https://technews.tw/2026/11/27/ev-demand-assessment-toyota-delays-japan-battery-plant-construction-again/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "評估EV需求豐田傳再度推遲日本電池工廠興建計劃- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONFUweGxhZ3pLc0IycVloQ2Vhb0JJRTI5bXgyN0RtREd2bVBtdTNyUVBtUlgyUk15SEcweXZhWDdIOWNpdjJ1aVdVdGVpUVBxdngzd29HNWpmVmpScXYySXdxVlZqei1ja0dSZ2xPNHE2WHhoYmpuNzM1NGUwUUxBcndnU21ka01CZzlxb2EyYWNBQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "EV 需求加持  比亞迪超越 GM、躍居全球第 4 大車廠",
-      "summary": [
-        "科技新報：EV 需求加持  比亞迪超越 GM、躍居全球第 4 大車廠",
-        "MoneyDJ理財網：EV需求加持比亞迪超越GM、躍居全球第4大車廠- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "EV 需求加持  比亞迪超越 GM、躍居全球第 4 大車廠",
-          "url": "https://technews.tw/2026/11/27/byd-overtakes-gm-4th-largest-automaker-ev-demand/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "EV需求加持比亞迪超越GM、躍居全球第4大車廠- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeW42ZzdKU3NQcm5FY0tZb3ZLT0loMFdkT0dQTmFxM3puOTBHdnI4R244di1QSThCY1lwYWhvajZ6Zm9yMU8wbW5mT2l4d185dzZ0TUJ4QWJhN2Z3Z3hrWWswQVl5Ry1DUWdUbXd6QkNYSEJFSmRYSFI2eUdxZDAzM2E5LXNmV3d2MnRrcXJ2RThJUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "title": "新竹某裡長候選人「一票1千」買票遭起訴！　3收賄選民不起訴",
       "summary": [
         "ETtoday：新竹某裡長候選人「一票1千」買票遭起訴！　3收賄選民不起訴",
@@ -241,6 +152,90 @@
           "source": "自由時報",
           "title": "嘉義檢警連破3起賄選案 村長候選人涉每票3000元買票",
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655013"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "旺矽產能再擴大！花旗看好明年營收超預期，維持買進、高推薦評級",
+      "summary": [
+        "科技新報：旺矽產能再擴大！花旗看好明年營收超預期，維持買進、高推薦評級",
+        "MoneyDJ理財網：臺勝科矽晶圓產能全面滿載，明年營運看顯增- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "旺矽產能再擴大！花旗看好明年營收超預期，維持買進、高推薦評級",
+          "url": "https://technews.tw/2026/11/27/citi-see-2026-mpi-vpc-mems/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "臺勝科矽晶圓產能全面滿載，明年營運看顯增- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2E4TFpzQ24tb1hGbHlocmN1Q2RPOWlNNkM5ei1BaDJrRHUtTDZiczQxVW5qYTNLLWE3U3h4OHQ0aVVhX1RabEJTd0hXbGVhNlhCV2JyOFhhcHNjekVxTUhxNUUwTXo2cVNKYTlFR2tFWDR1b25Kc29YeHVHeGxmWmcxMTI1UW1IczF0V1ZWYVc2UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "AI 幫你買東西 誰的廣告生意被搶走？ChatGPT 挑戰 Google、亞馬遜",
+      "summary": [
+        "經濟日報：AI 幫你買東西 誰的廣告生意被搶走？ChatGPT 挑戰 Google、亞馬遜",
+        "科技報橘：AI購物助理迎假期大考：Google、Meta、OpenAI搶進，亞馬遜築牆今年護航超800億美元廣告事業"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "AI 幫你買東西 誰的廣告生意被搶走？ChatGPT 挑戰 Google、亞馬遜",
+          "url": "https://money.udn.com/money/story/5599/9905059"
+        },
+        {
+          "source": "科技報橘",
+          "title": "AI購物助理迎假期大考：Google、Meta、OpenAI搶進，亞馬遜築牆今年護航超800億美元廣告事業",
+          "url": "https://techorange.com/2026/11/27/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "歐盟預算談判牽動法國大選　馬克宏、雷朋掀政治攻防",
+      "summary": [
+        "經濟日報：歐盟預算談判牽動法國大選　馬克宏、雷朋掀政治攻防",
+        "關鍵評論網：法國大選倒數：馬琳勒龐若勝選恐否決，歐盟急談1.6兆預算與援烏貸款"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "歐盟預算談判牽動法國大選　馬克宏、雷朋掀政治攻防",
+          "url": "https://money.udn.com/money/story/5599/9905042"
+        },
+        {
+          "source": "關鍵評論網",
+          "title": "法國大選倒數：馬琳勒龐若勝選恐否決，歐盟急談1.6兆預算與援烏貸款",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYYWlYMUVpRUgxeWRMZFFpQU1DaHlxekpKNXBIZGpUbHQzdGxxYy1nc2h1S1h3RHpycW8yVENMNWpNS1FwSV9MLUw1aFNJYzJZczNQZQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "遠見科技經營權塵埃落定！改選合法過關、股利全改發現金 3.5 元",
+      "summary": [
+        "科技新報：遠見科技經營權塵埃落定！改選合法過關、股利全改發現金 3.5 元",
+        "公開資訊觀測站重訊：遠見科技經營權塵埃落定！改選合法過關、股利全改發現金 3.5 元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "遠見科技經營權塵埃落定！改選合法過關、股利全改發現金 3.5 元",
+          "url": "https://finance.technews.tw/2026/11/27/convened-in-accordance-with-the-law/"
+        },
+        {
+          "source": "公開資訊觀測站重訊",
+          "title": "遠見科技經營權塵埃落定！改選合法過關、股利全改發現金 3.5 元",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaW9sRllWMGk0OHBsa0lHVE5qd3QwTkQyREhRdzhQQXdYYjNhWkdRdmpDTE8zT25XNFZLTGNHRkZIOG9YNkRhbWNzbEVySGhHbjBudXowbThxenNzbDhfNlVSUm4wZ1FYdTZxZXdUeER5YXBwMF9GM3BRMWFkOFFCUA?oc=5"
         }
       ]
     }
@@ -302,6 +297,27 @@
     },
     {
       "rank": 3,
+      "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
+      "summary": [
+        "Bloomberg Tech：Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
+        "Investing.com：上海資料中心與 Alice Huang 發現相關的 Nvidia Blackwell 晶片"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang"
+        },
+        {
+          "source": "Investing.com",
+          "title": "上海資料中心與 Alice Huang 發現相關的 Nvidia Blackwell 晶片",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-blackwell-chips-found-in-shanghai-data-center-tied-to-alice-huang-5053414"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "盧拉任命銀行家為巴西財政部長，試圖安撫市場",
       "summary": [
         "Financial Times：盧拉任命銀行家為巴西財政部長，試圖安撫市場",
@@ -322,7 +338,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "伯納姆內閣盟友堅稱，歐盟協議是英國脫歐重置的下限“而非上限”",
       "summary": [
         "Financial Times：伯納姆內閣盟友堅稱，歐盟協議是英國脫歐重置的下限“而非上限”",
@@ -343,7 +359,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "10月份中國工業獲利成長率飆升至5個月新高20.1%",
       "summary": [
         "CNBC：10月份中國工業獲利成長率飆升至5個月新高20.1%",
@@ -364,7 +380,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "軟體公司 SAP 考慮裁員至少 1 萬人",
       "summary": [
         "Bloomberg Tech：軟體公司 SAP 考慮裁員至少 1 萬人",
@@ -385,7 +401,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "北京發出更多支援訊號後中國股市飆升",
       "summary": [
         "Financial Times：北京發出更多支援訊號後中國股市飆升",
@@ -406,7 +422,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "人工智慧貿易反彈，亞洲股市延續復甦",
       "summary": [
         "Bloomberg Markets：人工智慧貿易反彈，亞洲股市延續復甦",
@@ -427,7 +443,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "德國軟體巨頭 SAP 考慮在人工智慧推動領域裁員至少 1 萬人：彭博社",
       "summary": [
         "CNBC：德國軟體巨頭 SAP 考慮在人工智慧推動領域裁員至少 1 萬人：彭博社",
@@ -444,27 +460,6 @@
           "source": "Bloomberg Tech",
           "title": "人工智慧重塑科技產業 SAP 考慮裁員 1 萬人",
           "url": "https://www.bloomberg.com/news/videos/2026-11-27/the-pulse-11-27-2026-video"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "馬斯克表示將向「美國每個孩子」贈送兩股 SpaceX 股票",
-      "summary": [
-        "Yahoo Finance：馬斯克表示將向「美國每個孩子」贈送兩股 SpaceX 股票",
-        "德國之聲：馬斯克承諾贈送全美兒童兩股SpaceX股票 總價值約180億美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "馬斯克表示將向「美國每個孩子」贈送兩股 SpaceX 股票",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYWVQZjJEZjJIaDBac2JiNXlUbGFOTHd6V1UzR0Q2UnNkRW0tVVVPMEVEdEtucUJPMWhCVDNZeExwZ0liZko2LWNXcnlTU0t6ejJCNExhVi1uVXpuM3V6cHNzeV9ON0w4OWpJWDR6eVJDNnlESkRvTE5nNDZtZ1pIeUFnTFNSeTkwVnBUbWFVRXNCbG16cHJz?oc=5"
-        },
-        {
-          "source": "德國之聲",
-          "title": "馬斯克承諾贈送全美兒童兩股SpaceX股票 總價值約180億美元",
-          "url": "https://www.dw.com/zh/马斯克承诺赠送全美儿童两股spacex股票-总价值约180亿美元/a-80074766?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     }
