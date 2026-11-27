@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 01:57",
+  "updated_at": "2026-11-28 02:27",
   "taiwan": [
     {
       "rank": 1,
@@ -78,90 +78,6 @@
     },
     {
       "rank": 4,
-      "title": "ILLIT MOKA停工5個月宣佈回歸！親自報喜「一直在等這天」",
-      "summary": [
-        "ETtoday：ILLIT MOKA停工5個月宣佈回歸！親自報喜「一直在等這天」",
-        "自由時報：韓女團ILLIT成員MOKA休養5個月終於回歸  親曝近況"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "ILLIT MOKA停工5個月宣佈回歸！親自報喜「一直在等這天」",
-          "url": "https://star.ettoday.net/news/3279453"
-        },
-        {
-          "source": "自由時報",
-          "title": "韓女團ILLIT成員MOKA休養5個月終於回歸  親曝近況",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5655562"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "川普投顧發言：美股大跌有點擔心、市場挺黃仁勳",
-      "summary": [
-        "科技新報：川普投顧發言：美股大跌有點擔心、市場挺黃仁勳",
-        "MoneyDJ理財網：川普投顧發言：美股大跌有點擔心、市場挺黃仁勳- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "川普投顧發言：美股大跌有點擔心、市場挺黃仁勳",
-          "url": "https://finance.technews.tw/2026/11/27/trump-says-wednesdays-market-had-him-briefly-concerned-before-stocks-recovered/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "川普投顧發言：美股大跌有點擔心、市場挺黃仁勳- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb2hraGhUN2pFcy05V2dqMWRSZE5pUjdmRnBzSGRXeWpWWWxXWTlvNm03cFdvSXRLTjJKMmI3c080aThTLXFESmo5OHJOWng5T1JORDVORGdqMW9MVFZjYjlkUy12ZjRLaWVVTHNWWnJxVGJCU3o4RmVudV92STNJUWNidDhfcEhidGtoT2ltcEZuZw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "難撐高油價  挪威廉航 Norse 全面停飛、瀕破產",
-      "summary": [
-        "科技新報：難撐高油價  挪威廉航 Norse 全面停飛、瀕破產",
-        "MoneyDJ理財網：難撐高油價挪威廉航Norse全面停飛、瀕破產- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "難撐高油價  挪威廉航 Norse 全面停飛、瀕破產",
-          "url": "https://finance.technews.tw/2026/11/27/norse-airline-suspends-flights-nears-bankruptcy-high-oil-prices/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "難撐高油價挪威廉航Norse全面停飛、瀕破產- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSkNJTGdxRTh6UXV5QlViYUlkS1h0dE1lc0xUVWxqTFFxQ1RQU3NpRl96MERmRlRNaUFwakJGWXlndjRhcXBYS3BLalZuRzJqTTR0amJnVU1Jb0llcENacDdtNWQ5ZUJDTEVOSk5aUldQQlFaOU5DR1g4WE5IY095T3pyeFQ5dlZud3Y4b295MUJzdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "日本提國防AI願景　判斷與責任由人類承擔",
-      "summary": [
-        "經濟日報：日本提國防AI願景　判斷與責任由人類承擔",
-        "科技新報：日本提國防 AI 願景，判斷與責任由人類承擔"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "日本提國防AI願景　判斷與責任由人類承擔",
-          "url": "https://money.udn.com/money/story/5599/9905840"
-        },
-        {
-          "source": "科技新報",
-          "title": "日本提國防 AI 願景，判斷與責任由人類承擔",
-          "url": "https://technews.tw/2026/11/27/japan-defense-ai-vision-human-judgment-responsibility/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "title": "馬斯克搶記憶體傳碰壁  李在鎔問：還能給什麼？",
       "summary": [
         "科技新報：馬斯克搶記憶體傳碰壁  李在鎔問：還能給什麼？",
@@ -182,7 +98,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "SpaceX百萬顆衛星獲放行！20檔低軌衛星概念股盤點，華通、昇達科迎利多",
       "summary": [
         "數位時代：SpaceX百萬顆衛星獲放行！20檔低軌衛星概念股盤點，華通、昇達科迎利多",
@@ -203,7 +119,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "中東不平靜、沙烏地煉油廠遭襲  油價跳高",
       "summary": [
         "科技新報：中東不平靜、沙烏地煉油廠遭襲  油價跳高",
@@ -220,6 +136,90 @@
           "source": "MoneyDJ理財網",
           "title": "中東不平靜、沙烏地煉油廠遭襲油價跳高- 新聞",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdHdkY3AzSnBqRFBoWWZWNjgyd2RNX3pMTEE0dUJ2WkFUcG5pd1FyclRVSHhXT29XdlU2aGx3QktZa1NOUjR0b1luRVg4SWxMcWRVNW9DeGFPMnlYMjQ4bktPd1JQS3FManZMNk91NEJMa3NabTVzcGpLUFFfWFJQUUtnVEEzMEp3MXBvRFd6eWlwZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "友達華亞廠換買家！矽品197億接手 估處分利益104億",
+      "summary": [
+        "自由時報：友達華亞廠換買家！矽品197億接手 估處分利益104億",
+        "鉅亨網：友達華亞廠找到新買家 售予矽品處分利益估104億元"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "友達華亞廠換買家！矽品197億接手 估處分利益104億",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5655532"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "友達華亞廠找到新買家 售予矽品處分利益估104億元",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mSEg5SDlCZnAzdEFHeVpGaTAyMFM0N1hwa1BxUllqTDhkYUVEc3ZLMUI4MGJ6VHBmNU9CaWFQNndzSk5NSy1sLUNqbzRUeFU?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "侯友宜10度合體車掃 李四川：明天請投給跟你一樣靠雙手打拚的人",
+      "summary": [
+        "自由時報：侯友宜10度合體車掃 李四川：明天請投給跟你一樣靠雙手打拚的人",
+        "ETtoday：選前最後車掃　李四川十度合體侯友宜：明天請投給靠雙手打拚的人"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "侯友宜10度合體車掃 李四川：明天請投給跟你一樣靠雙手打拚的人",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655672"
+        },
+        {
+          "source": "ETtoday",
+          "title": "選前最後車掃　李四川十度合體侯友宜：明天請投給靠雙手打拚的人",
+          "url": "https://www.ettoday.net/news/20261127/3279622.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "LIVE／蘇巧慧「新時代新市長」選前之夜　賴清德、蔡英文接力助講",
+      "summary": [
+        "ETtoday：LIVE／蘇巧慧「新時代新市長」選前之夜　賴清德、蔡英文接力助講",
+        "自由時報：喊讓李四川「退休」 賴清德：讓蘇巧慧成為新北首位女市長"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "LIVE／蘇巧慧「新時代新市長」選前之夜　賴清德、蔡英文接力助講",
+          "url": "https://www.ettoday.net/news/20261127/3279391.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "喊讓李四川「退休」 賴清德：讓蘇巧慧成為新北首位女市長",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655878"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "LIVE／蔣萬安1900凱道選前之夜　石舫亙和三寶「獻聲」成彩蛋",
+      "summary": [
+        "ETtoday：LIVE／蔣萬安1900凱道選前之夜　石舫亙和三寶「獻聲」成彩蛋",
+        "自由時報：蔣萬安選前之夜彩蛋? 傳找羅大佑當神秘嘉賓 網狂吐槽......"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "LIVE／蔣萬安1900凱道選前之夜　石舫亙和三寶「獻聲」成彩蛋",
+          "url": "https://www.ettoday.net/news/20261127/3279316.htm"
+        },
+        {
+          "source": "自由時報",
+          "title": "蔣萬安選前之夜彩蛋? 傳找羅大佑當神秘嘉賓 網狂吐槽......",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655740"
         }
       ]
     }
