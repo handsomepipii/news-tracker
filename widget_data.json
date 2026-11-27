@@ -1,8 +1,45 @@
 {
-  "updated_at": "2026-11-28 02:27",
+  "updated_at": "2026-11-28 02:57",
   "taiwan": [
     {
       "rank": 1,
+      "title": "宏普三井新北第一案 臺日首發「臺北橋站」軌道精品宅",
+      "summary": [
+        "商業周刊：宏普三井新北第一案 臺日首發「臺北橋站」軌道精品宅",
+        "TVBS新聞：蔣萬安車掃遇沈伯洋車隊 徐巧芯:一起加油｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+        "中時新聞：踢爆蘇巧純往來蘇巧慧1200萬元 李競辦：新北人的錢不能變蘇家的"
+      ],
+      "media_count": 5,
+      "links": [
+        {
+          "source": "商業周刊",
+          "title": "宏普三井新北第一案 臺日首發「臺北橋站」軌道精品宅",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV1otQm50STFDTUxXbWwtaUwyd0l0QnF0OTdyclByYWtjaG1hNDJWaVdYQ2tYTmRlVGt0eHFkQWh6dXpzYl9pRUN2LWYwcEhZX3FkZGxuV3VGbzBXYWI4NHZTZkVnbWZ6dHhwQ0JaZ2t4R19tbkpDa0w5Zm5zUlBDUld3?oc=5"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "蔣萬安車掃遇沈伯洋車隊 徐巧芯:一起加油｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrSEhVX2g3d3JSNHF2N3BnOUxwdnZMZTJpN1ZGMDF1S2FWMEhFQUVpYVp2cGs5VWVpTGc3emVQSWJFWUgybFc3SWhBYmJsSGJxYTdGTlN3?oc=5"
+        },
+        {
+          "source": "中時新聞",
+          "title": "踢爆蘇巧純往來蘇巧慧1200萬元 李競辦：新北人的錢不能變蘇家的",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lcGhaQUJTRG1NWDR4NVAzTTJmckxQVTdjYnVtXzR6R3UtaV9iWTJsa2FuSmFyVzNTYWwtLVJfTWIzZWFGU2FCMnJ5eHhNSGNYSWxPTkdUNjA1Q1NsRVBVcjBHZ3Q4Q2lQTjE4ZTZ3?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "臺北、嘉義車站迎返鄉青年 臺聯青年為何苡睿催票",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655466"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／蔣萬安凱道破12萬人　10點加碼與石舫亙直播開箱甜蜜小窩",
+          "url": "https://www.ettoday.net/news/20261127/3279672.htm"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "快訊／神秘嘉賓登場！沈伯洋直播人數破40萬　衝YT即時「全球第一」",
       "summary": [
         "ETtoday：快訊／神秘嘉賓登場！沈伯洋直播人數破40萬　衝YT即時「全球第一」",
@@ -29,7 +66,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "半導體晶片成為新石油　全球出口總值首度超越油氣",
       "summary": [
         "經濟日報：半導體晶片成為新石油　全球出口總值首度超越油氣",
@@ -56,7 +93,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "追曠世智慧案！蘇巧慧遭爆往來胞妹1200萬　李四川籲用選票逼她講",
       "summary": [
         "ETtoday：追曠世智慧案！蘇巧慧遭爆往來胞妹1200萬　李四川籲用選票逼她講",
@@ -73,27 +110,6 @@
           "source": "自由時報",
           "title": "旅日臺灣人快閃返臺投票  日媒曝臺人珍惜選票原因",
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655417"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "馬斯克搶記憶體傳碰壁  李在鎔問：還能給什麼？",
-      "summary": [
-        "科技新報：馬斯克搶記憶體傳碰壁  李在鎔問：還能給什麼？",
-        "MoneyDJ理財網：馬斯克搶記憶體傳碰壁 李在鎔問：還能給什麼？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "馬斯克搶記憶體傳碰壁  李在鎔問：還能給什麼？",
-          "url": "https://finance.technews.tw/2026/11/27/samsungs-lee-rejects-musks-memory-chip-offer/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "馬斯克搶記憶體傳碰壁 李在鎔問：還能給什麼？",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUWQtWkNDOUhZaG91MWFtSkNqOEoxekxwUTZlT0ttMkV5NG5IOGVwR0hMZGtsTWtDVnN1SnlrTXNDVklwczBsSk5CX0owTkNDVDFZOVYwbklIbDBrTTlfNm9rcmdQdVpLejItcXVnZEgwSjdLN1h1b2V3VGdWYmFNQ3lNUTlRVm5OYWNtSUtzLXdUZw?oc=5"
         }
       ]
     },
@@ -141,6 +157,27 @@
     },
     {
       "rank": 7,
+      "title": "需求能見度低、供應鏈轉趨保守，2028 年 DRAM 合約價走跌風險升溫",
+      "summary": [
+        "科技新報：需求能見度低、供應鏈轉趨保守，2028 年 DRAM 合約價走跌風險升溫",
+        "ETtoday：需求能見度低、供應鏈轉趨保守　2028年DRAM合約價走跌風險升溫"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "需求能見度低、供應鏈轉趨保守，2028 年 DRAM 合約價走跌風險升溫",
+          "url": "https://technews.tw/2026/11/27/low-demand-visibility-conservative-supply-chains-2028-dram-contract-price-decline-risk/"
+        },
+        {
+          "source": "ETtoday",
+          "title": "需求能見度低、供應鏈轉趨保守　2028年DRAM合約價走跌風險升溫",
+          "url": "https://finance.ettoday.net/news/3279709"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "友達華亞廠換買家！矽品197億接手 估處分利益104億",
       "summary": [
         "自由時報：友達華亞廠換買家！矽品197億接手 估處分利益104億",
@@ -161,7 +198,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "侯友宜10度合體車掃 李四川：明天請投給跟你一樣靠雙手打拚的人",
       "summary": [
         "自由時報：侯友宜10度合體車掃 李四川：明天請投給跟你一樣靠雙手打拚的人",
@@ -182,7 +219,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "LIVE／蘇巧慧「新時代新市長」選前之夜　賴清德、蔡英文接力助講",
       "summary": [
         "ETtoday：LIVE／蘇巧慧「新時代新市長」選前之夜　賴清德、蔡英文接力助講",
@@ -199,27 +236,6 @@
           "source": "自由時報",
           "title": "喊讓李四川「退休」 賴清德：讓蘇巧慧成為新北首位女市長",
           "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655878"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "LIVE／蔣萬安1900凱道選前之夜　石舫亙和三寶「獻聲」成彩蛋",
-      "summary": [
-        "ETtoday：LIVE／蔣萬安1900凱道選前之夜　石舫亙和三寶「獻聲」成彩蛋",
-        "自由時報：蔣萬安選前之夜彩蛋? 傳找羅大佑當神秘嘉賓 網狂吐槽......"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "LIVE／蔣萬安1900凱道選前之夜　石舫亙和三寶「獻聲」成彩蛋",
-          "url": "https://www.ettoday.net/news/20261127/3279316.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "蔣萬安選前之夜彩蛋? 傳找羅大佑當神秘嘉賓 網狂吐槽......",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655740"
         }
       ]
     }
@@ -281,90 +297,6 @@
     },
     {
       "rank": 3,
-      "title": "北京發出更多支援訊號後中國股市飆升",
-      "summary": [
-        "Financial Times：北京發出更多支援訊號後中國股市飆升",
-        "Investing.com：北京承諾提供更強有力的市場支援後，中國股市和人民幣上漲"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "北京發出更多支援訊號後中國股市飆升",
-          "url": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Investing.com",
-          "title": "北京承諾提供更強有力的市場支援後，中國股市和人民幣上漲",
-          "url": "https://www.investing.com/news/stock-market-news/china-stocks-yuan-rally-after-beijing-vows-stronger-market-support-5053026"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "人工智慧貿易反彈，亞洲股市延續復甦",
-      "summary": [
-        "Bloomberg Markets：人工智慧貿易反彈，亞洲股市延續復甦",
-        "Bloomberg Tech：隨著人工智慧貿易反彈，股市延續復甦"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Markets",
-          "title": "人工智慧貿易反彈，亞洲股市延續復甦",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-27/the-asia-trade-11-27-2026-video"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "隨著人工智慧貿易反彈，股市延續復甦",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-27/equities-extend-recovery-as-ai-trade-rebounds-video"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "德國軟體巨頭 SAP 考慮在人工智慧推動領域裁員至少 1 萬人：彭博社",
-      "summary": [
-        "CNBC：德國軟體巨頭 SAP 考慮在人工智慧推動領域裁員至少 1 萬人：彭博社",
-        "Bloomberg Tech：人工智慧重塑科技產業 SAP 考慮裁員 1 萬人"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "德國軟體巨頭 SAP 考慮在人工智慧推動領域裁員至少 1 萬人：彭博社",
-          "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
-        },
-        {
-          "source": "Bloomberg Tech",
-          "title": "人工智慧重塑科技產業 SAP 考慮裁員 1 萬人",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-27/the-pulse-11-27-2026-video"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "馬斯克表示將向「美國每個孩子」贈送兩股 SpaceX 股票",
-      "summary": [
-        "Yahoo Finance：馬斯克表示將向「美國每個孩子」贈送兩股 SpaceX 股票",
-        "德國之聲：馬斯克承諾贈送全美兒童兩股SpaceX股票 總價值約180億美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "馬斯克表示將向「美國每個孩子」贈送兩股 SpaceX 股票",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYWVQZjJEZjJIaDBac2JiNXlUbGFOTHd6V1UzR0Q2UnNkRW0tVVVPMEVEdEtucUJPMWhCVDNZeExwZ0liZko2LWNXcnlTU0t6ejJCNExhVi1uVXpuM3V6cHNzeV9ON0w4OWpJWDR6eVJDNnlESkRvTE5nNDZtZ1pIeUFnTFNSeTkwVnBUbWFVRXNCbG16cHJz?oc=5"
-        },
-        {
-          "source": "德國之聲",
-          "title": "馬斯克承諾贈送全美兒童兩股SpaceX股票 總價值約180億美元",
-          "url": "https://www.dw.com/zh/马斯克承诺赠送全美儿童两股spacex股票-总价值约180亿美元/a-80074766?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "我們發現的絕對最好的黑色星期五優惠（到目前為止）",
       "summary": [
         "The Verge：我們發現的絕對最好的黑色星期五優惠（到目前為止）",
@@ -385,7 +317,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 4,
       "title": "22 個 100 美元以下的黑色星期五最佳折扣 (2026)",
       "summary": [
         "Wired：22 個 100 美元以下的黑色星期五最佳折扣 (2026)",
@@ -406,7 +338,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "廉價航空公司挪威大西洋航空公司因未能獲得資金而在歐洲申請破產",
       "summary": [
         "CNBC：廉價航空公司挪威大西洋航空公司因未能獲得資金而在歐洲申請破產",
@@ -427,7 +359,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "人工智慧如何改變黑色星期五",
       "summary": [
         "Bloomberg Tech：人工智慧如何改變黑色星期五",
@@ -444,6 +376,78 @@
           "source": "Bloomberg Markets",
           "title": "人工智慧工具重塑黑色星期五體驗",
           "url": "https://www.bloomberg.com/news/videos/2026-11-27/ai-tools-reshape-the-black-friday-experience-video"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
+      "summary": [
+        "The Verge：黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
+        "Wired：蘋果黑色星期五特惠(2026)：AirPods、iPad、MacBook等"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Verge",
+          "title": "黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
+          "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026"
+        },
+        {
+          "source": "Wired",
+          "title": "蘋果黑色星期五特惠(2026)：AirPods、iPad、MacBook等",
+          "url": "https://www.wired.com/story/black-friday-apple-deals-11-27-2026/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
+      "summary": [
+        "Bloomberg Tech：英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
+        "Financial Times：Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says"
+        },
+        {
+          "source": "Financial Times",
+          "title": "Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍",
+          "url": "https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "為什麼2Crsi股票今天飆升？",
+      "summary": [
+        "Investing.com：為什麼2Crsi股票今天飆升？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "為什麼2Crsi股票今天飆升？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-2crsi-stock-surging-today-93CH-5053137"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黑色星期五最佳遊戲電腦現場促銷",
+      "summary": [
+        "Tom's Hardware：黑色星期五最佳遊戲電腦現場促銷"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "黑色星期五最佳遊戲電腦現場促銷",
+          "url": "https://www.tomshardware.com/live/news/black-friday-gaming-pc-deals-2026"
         }
       ]
     }
