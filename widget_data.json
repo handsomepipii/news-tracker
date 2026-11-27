@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-11-27 22:26",
+  "updated_at": "2026-11-27 22:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "鐵欄門關百人！住民睡沙發吃廚餘  老翁死諫揭發無良新北黑心護理之家",
+      "title": "快訊／神秘嘉賓登場！沈伯洋直播人數破40萬　衝YT即時「全球第一」",
       "summary": [
-        "自由時報：鐵欄門關百人！住民睡沙發吃廚餘  老翁死諫揭發無良新北黑心護理之家",
-        "商業周刊：宏普三井新北第一案 臺日首發「臺北橋站」軌道精品宅",
-        "中時新聞：踢爆蘇巧純往來蘇巧慧1200萬元 李競辦：新北人的錢不能變蘇家的"
+        "ETtoday：快訊／神秘嘉賓登場！沈伯洋直播人數破40萬　衝YT即時「全球第一」",
+        "自由時報：賈永婕現身沈柏洋直播！合體賴清德 直播瞬間衝破46萬",
+        "TVBS新聞：沈伯洋選前直播「賈永婕登場破50萬觀看」 登YT全球即時榜第1名"
       ],
       "media_count": 3,
       "links": [
         {
+          "source": "ETtoday",
+          "title": "快訊／神秘嘉賓登場！沈伯洋直播人數破40萬　衝YT即時「全球第一」",
+          "url": "https://www.ettoday.net/news/20261127/3279671.htm"
+        },
+        {
           "source": "自由時報",
-          "title": "鐵欄門關百人！住民睡沙發吃廚餘  老翁死諫揭發無良新北黑心護理之家",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5655004"
+          "title": "賈永婕現身沈柏洋直播！合體賴清德 直播瞬間衝破46萬",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5655881"
         },
         {
-          "source": "商業周刊",
-          "title": "宏普三井新北第一案 臺日首發「臺北橋站」軌道精品宅",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV1otQm50STFDTUxXbWwtaUwyd0l0QnF0OTdyclByYWtjaG1hNDJWaVdYQ2tYTmRlVGt0eHFkQWh6dXpzYl9pRUN2LWYwcEhZX3FkZGxuV3VGbzBXYWI4NHZTZkVnbWZ6dHhwQ0JaZ2t4R19tbkpDa0w5Zm5zUlBDUld3?oc=5"
-        },
-        {
-          "source": "中時新聞",
-          "title": "踢爆蘇巧純往來蘇巧慧1200萬元 李競辦：新北人的錢不能變蘇家的",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lcGhaQUJTRG1NWDR4NVAzTTJmckxQVTdjYnVtXzR6R3UtaV9iWTJsa2FuSmFyVzNTYWwtLVJfTWIzZWFGU2FCMnJ5eHhNSGNYSWxPTkdUNjA1Q1NsRVBVcjBHZ3Q4Q2lQTjE4ZTZ3?oc=5"
+          "source": "TVBS新聞",
+          "title": "沈伯洋選前直播「賈永婕登場破50萬觀看」 登YT全球即時榜第1名",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jREFzd1FIWHRMSFNmUGJZNGoydkpoVjBDbDZwcmtEUm5PYzNxZld5TzE0VVBsZVczbU5lREJTbGxkSlFVVWE1LUV2TnF1RGRHWTRR?oc=5"
         }
       ]
     },
@@ -84,27 +84,6 @@
     },
     {
       "rank": 4,
-      "title": "袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
-      "summary": [
-        "iThome：袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
-        "公開資訊觀測站重訊：袋鼠金融平臺遭外部攻擊，部分使用者個資外洩"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "iThome",
-          "title": "袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
-          "url": "https://www.ithome.com.tw/news/180841"
-        },
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VZGp2MmEyVWdFcGJweVRwSGdsX05Kd1NFSmxiRl9mNW9neDhISVVJaU9VZWpDWFRQTjlLUTNDd2twR0xqYmZFcFVldHpVQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "追曠世智慧案！蘇巧慧遭爆往來胞妹1200萬　李四川籲用選票逼她講",
       "summary": [
         "ETtoday：追曠世智慧案！蘇巧慧遭爆往來胞妹1200萬　李四川籲用選票逼她講",
@@ -125,70 +104,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "SpaceX 每股價值上看 95 億美元？馬斯克籲千萬別賣",
-      "summary": [
-        "科技新報：SpaceX 每股價值上看 95 億美元？馬斯克籲千萬別賣",
-        "MoneyDJ理財網：SpaceX每股價值上看95億美元？馬斯克籲千萬別賣- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "科技新報",
-          "title": "SpaceX 每股價值上看 95 億美元？馬斯克籲千萬別賣",
-          "url": "https://finance.technews.tw/2026/11/27/musk-urges-investors-not-to-sell-spacex-shares/"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "SpaceX每股價值上看95億美元？馬斯克籲千萬別賣- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGt1WmdZX1YydHVXcElqWjExQm5nZlhLdDE1TU9rNk9oRlYtdGRwUHA3OGh2clR2d2ptdFd1bE1naDVXbGNwamZkQXJDYjAxdzlubGNqNFp0bGxTRVJpTFZoLXRRX1hfVkxuQUswNnc0RE5raXh4UnE0UElBSktoUlJiazYyM2dmM1lPdHFKM0hOdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "川普稱黃仁勳絕非國安威脅　稱助他復職對世界是件好事",
-      "summary": [
-        "經濟日報：川普稱黃仁勳絕非國安威脅　稱助他復職對世界是件好事",
-        "科技新報：川普稱黃仁勳絕非國安威脅，稱助他復職對世界是件好事"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "川普稱黃仁勳絕非國安威脅　稱助他復職對世界是件好事",
-          "url": "https://money.udn.com/money/story/5599/9905220"
-        },
-        {
-          "source": "科技新報",
-          "title": "川普稱黃仁勳絕非國安威脅，稱助他復職對世界是件好事",
-          "url": "https://technews.tw/2026/11/27/trump-jensen-huang-not-national-security-threat-return-office-good-world/"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "美國新規堵漏洞　輝達晶片買家恐禁租算力予中企",
-      "summary": [
-        "經濟日報：美國新規堵漏洞　輝達晶片買家恐禁租算力予中企",
-        "科技新報：美國新規堵漏洞，輝達晶片買家恐禁租算力予中企"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美國新規堵漏洞　輝達晶片買家恐禁租算力予中企",
-          "url": "https://money.udn.com/money/story/5599/9905206"
-        },
-        {
-          "source": "科技新報",
-          "title": "美國新規堵漏洞，輝達晶片買家恐禁租算力予中企",
-          "url": "https://technews.tw/2026/11/27/nvidia-chip-buyers-told-to-rule-out-chinese-renters-to-purchase-gpus/"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 5,
       "title": "投票日好天氣！吳德榮曝「這天」低溫探12度：下週高溫再飆破30度",
       "summary": [
         "自由時報：投票日好天氣！吳德榮曝「這天」低溫探12度：下週高溫再飆破30度",
@@ -209,7 +125,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "襲擊俄軍艦與貨船致利比亞士兵亡 烏克蘭稱無意將戰火擴大",
       "summary": [
         "自由時報：襲擊俄軍艦與貨船致利比亞士兵亡 烏克蘭稱無意將戰火擴大",
@@ -228,11 +144,122 @@
           "url": "https://money.udn.com/money/story/5599/9905502"
         }
       ]
+    },
+    {
+      "rank": 7,
+      "title": "退休日期「差2天」竟少領3萬！　專家教勞保最賺領法",
+      "summary": [
+        "ETtoday：退休日期「差2天」竟少領3萬！　專家教勞保最賺領法",
+        "財訊：勞保年金怎麼領最划算 退休日「差1天少領一個月」 內行教2招"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "退休日期「差2天」竟少領3萬！　專家教勞保最賺領法",
+          "url": "https://www.ettoday.net/news/20261127/3279271.htm"
+        },
+        {
+          "source": "財訊",
+          "title": "勞保年金怎麼領最划算 退休日「差1天少領一個月」 內行教2招",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HdDhfb0xUbVBmU0xwb1VuNE9LNGRNYUNmOWFOaHpPRWM1VW1wS1l4ZldPdi1RUWlLcU5hRnh0VEJadzRiVms3LVBNYTRkd191UlhRTE9HNVhhX0lpbjJLMVlLR1V4YTVhQnloeGZkaGpXYTdLTjFvb01oZw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "奧馳亞評估併購帝國菸草  傳日本菸草有意聯手",
+      "summary": [
+        "科技新報：奧馳亞評估併購帝國菸草  傳日本菸草有意聯手",
+        "MoneyDJ理財網：奧馳亞評估併購帝國菸草傳日本菸草有意聯手- 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "奧馳亞評估併購帝國菸草  傳日本菸草有意聯手",
+          "url": "https://finance.technews.tw/2026/11/27/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands/"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "奧馳亞評估併購帝國菸草傳日本菸草有意聯手- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMTZ0SXQ2d3NzNXBKcFFwd2w5WHU1MGEtR09Ta2lDR1Rpa0UtZDhXYktrcGMyc19jc0NuYXhxQjRCeF9TZWF5WE5aLWNfanVnRE8yWTFOMDBnSDJwMnMzZ1p6Mk1kbkJZaXl3bXZPdGNBMWxid0I2bHZYaHhTbjhPSGdSWG5XZUprYWxRQmFKNi15UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Character.AI 破產擬拍賣 2,100 萬使用者聊天紀錄，美國 42 州檢察長聯手阻擋",
+      "summary": [
+        "科技新報：Character.AI 破產擬拍賣 2,100 萬使用者聊天紀錄，美國 42 州檢察長聯手阻擋",
+        "iThome：Character.AI擬拍賣使用者聊天紀錄，美國42名檢察長反對"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "科技新報",
+          "title": "Character.AI 破產擬拍賣 2,100 萬使用者聊天紀錄，美國 42 州檢察長聯手阻擋",
+          "url": "https://infosecu.technews.tw/2026/11/27/ai-company-bankruptcy-triggers-privacy-crisis/"
+        },
+        {
+          "source": "iThome",
+          "title": "Character.AI擬拍賣使用者聊天紀錄，美國42名檢察長反對",
+          "url": "https://www.ithome.com.tw/news/180847"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "涉向未成年人傳性暗示訊息　蘋果下架AI聊天機器人Talkie",
+      "summary": [
+        "經濟日報：涉向未成年人傳性暗示訊息　蘋果下架AI聊天機器人Talkie",
+        "科技新報：涉向未成年人傳性暗示訊息，蘋果下架 AI 聊天機器人 Talkie"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "涉向未成年人傳性暗示訊息　蘋果下架AI聊天機器人Talkie",
+          "url": "https://money.udn.com/money/story/123398/9905301"
+        },
+        {
+          "source": "科技新報",
+          "title": "涉向未成年人傳性暗示訊息，蘋果下架 AI 聊天機器人 Talkie",
+          "url": "https://technews.tw/2026/11/27/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns/"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
+      "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
+      "summary": [
+        "Bloomberg Tech：Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
+        "Investing.com：上海資料中心與 Alice Huang 發現相關的 Nvidia Blackwell 晶片",
+        "Yahoo Finance：Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang"
+        },
+        {
+          "source": "Investing.com",
+          "title": "上海資料中心與 Alice Huang 發現相關的 Nvidia Blackwell 晶片",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-blackwell-chips-found-in-shanghai-data-center-tied-to-alice-huang-5053414"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV3pxZ1JQb19TUl83aU9NZDBDQlV3M2ZPOFg3bVlSVXgxZHlMWTVObzlmNTBWa0w4YXB0M1VoemRXYTg5cEtITl9jMzJQLVZuWEQyM005alFFYzB0bDNtSW1SS1V1cjF6MlhYSmNJWEZUeFpfOGR4bWJlc0M3Y2tjbWExUUwyekhoWV9EM0JNd2dRVFdJMEY2Q3h3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "印尼逮捕了三名涉嫌參與 MSCI 審查的股票交易的人",
       "summary": [
         "Bloomberg Markets：印尼逮捕了三名涉嫌參與 MSCI 審查的股票交易的人",
@@ -255,27 +282,6 @@
           "source": "Financial Times",
           "title": "印尼因涉嫌「油炸」市場操縱而逮捕三人",
           "url": "https://www.ft.com/content/50626b00-6d7b-47ac-b1f2-4b150ff9417e?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
-      "summary": [
-        "Bloomberg Tech：Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
-        "Investing.com：上海資料中心與 Alice Huang 發現相關的 Nvidia Blackwell 晶片"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang"
-        },
-        {
-          "source": "Investing.com",
-          "title": "上海資料中心與 Alice Huang 發現相關的 Nvidia Blackwell 晶片",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-blackwell-chips-found-in-shanghai-data-center-tied-to-alice-huang-5053414"
         }
       ]
     },
