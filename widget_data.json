@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 07:56",
+  "updated_at": "2026-11-27 08:26",
   "taiwan": [
     {
       "rank": 1,
@@ -57,27 +57,6 @@
     },
     {
       "rank": 3,
-      "title": "原油價格維持漲勢 中東緊張局勢令市場不安",
-      "summary": [
-        "經濟日報：原油價格維持漲勢 中東緊張局勢令市場不安",
-        "自由時報：中東供應疑慮再起　布倫特原油收高"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "原油價格維持漲勢 中東緊張局勢令市場不安",
-          "url": "https://money.udn.com/money/story/5599/9903784"
-        },
-        {
-          "source": "自由時報",
-          "title": "中東供應疑慮再起　布倫特原油收高",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5654846"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "強茂：JOYSTAR INTL出售VTEAM SIEGFRIED供應鏈專題人類基金，獲利上看498萬美元",
       "summary": [
         "公開資訊觀測站重訊：強茂：JOYSTAR INTL出售VTEAM SIEGFRIED供應鏈專題人類基金，獲利上看498萬美元",
@@ -98,7 +77,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
       "summary": [
         "自由時報：烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
@@ -119,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
       "summary": [
         "經濟日報：美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
@@ -140,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
       "summary": [
         "自由時報：印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
@@ -161,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "臺積電神話破功？高雄屋主慘賠280萬、還有85折求售 哪些地區重災",
       "summary": [
         "中時新聞：臺積電神話破功？高雄屋主慘賠280萬、還有85折求售 哪些地區重災",
@@ -182,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "天氣/投票日各地好天氣東北季風下午報到週日夜晨輻射冷卻凍一波嘉義以北、宜花空曠處約14度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：天氣/投票日各地好天氣東北季風下午報到週日夜晨輻射冷卻凍一波嘉義以北、宜花空曠處約14度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -203,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "泰國曼谷煉油廠爆炸9傷3人命危　事故原因調查中",
       "summary": [
         "經濟日報：泰國曼谷煉油廠爆炸9傷3人命危　事故原因調查中",
@@ -220,6 +199,27 @@
           "source": "公視新聞",
           "title": "曼谷市區煉油廠油庫爆炸 至少4人命危、7人傷｜20261126 8點新世界",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0R2kya2UxNDhTMUtCM2pfbVJVdWZFMmtQTkhjbHdHT3E3bmFlYjk4VFQ5LUQteWdYNnFzYXdCcGdHaEc5azlHM2Z6OA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "槓上美國！荷蘭將阻擋 ASML 對中出口進一步受限",
+      "summary": [
+        "經濟日報：槓上美國！荷蘭將阻擋 ASML 對中出口進一步受限",
+        "科技新報：不願任由美國擺布，荷蘭反對擴大 ASML 出口限制"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "槓上美國！荷蘭將阻擋 ASML 對中出口進一步受限",
+          "url": "https://money.udn.com/money/story/5599/9904501"
+        },
+        {
+          "source": "科技新報",
+          "title": "不願任由美國擺布，荷蘭反對擴大 ASML 出口限制",
+          "url": "https://technews.tw/2026/11/27/netherlands-opposes-expanding-asml-export-restrictions-resists-us-dictation/"
         }
       ]
     }
@@ -302,27 +302,6 @@
     },
     {
       "rank": 4,
-      "title": "AMD Ryzen 7 9800X3D 在亞馬遜跌至歷史最低價 369 美元",
-      "summary": [
-        "Tom's Hardware：AMD Ryzen 7 9800X3D 在亞馬遜跌至歷史最低價 369 美元",
-        "Wccftech：AMD Ryzen 7 9800X3D 降價幅度更大：現限時僅售 369 美元"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Tom's Hardware",
-          "title": "AMD Ryzen 7 9800X3D 在亞馬遜跌至歷史最低價 369 美元",
-          "url": "https://www.tomshardware.com/pc-components/cpus/amds-dominant-ryzen-7-9800x3d-plummets-to-all-time-low-of-usd369-at-amazon-astonishing-gaming-performance-for-am5"
-        },
-        {
-          "source": "Wccftech",
-          "title": "AMD Ryzen 7 9800X3D 降價幅度更大：現限時僅售 369 美元",
-          "url": "https://wccftech.com/amd-ryzen-7-9800x3d-price-drops-even-hardware-at-just-369/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "SAP 考慮在 AI 重組中削減至少 10,000 個職位",
       "summary": [
         "Bloomberg Tech：SAP 考慮在 AI 重組中削減至少 10,000 個職位",
@@ -343,6 +322,27 @@
       ]
     },
     {
+      "rank": 5,
+      "title": "第三季GDP資料大幅修正後，川普要求調查“創紀錄錯誤”",
+      "summary": [
+        "CNBC：第三季GDP資料大幅修正後，川普要求調查“創紀錄錯誤”",
+        "Yahoo Finance：川普稱修正後的GDP資料“假”，呼籲調查"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "第三季GDP資料大幅修正後，川普要求調查“創紀錄錯誤”",
+          "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "川普稱修正後的GDP資料“假”，呼籲調查",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlotSWo0OUFTWDc5MHhtTGVLOUxOakNkbmNwRkNvTmQyU3NfWVAwWEFWU3p4SFZvMFJfYno1RGlYY010TFpZRWNpdEF4dDNIV296NGZGU3BESUk5VnNUaFJrTjY4TFhmTXhCVm41cDdJVElYTkZXQzNuNVVpOUl2WkVoSUs2QjlLZmxDdTZYUjQxdw?oc=5"
+        }
+      ]
+    },
+    {
       "rank": 6,
       "title": "挪威股市收盤走高；奧斯陸OBX上漲1.50%",
       "summary": [
@@ -359,61 +359,61 @@
     },
     {
       "rank": 7,
-      "title": "德國頂級經濟學家建議將大眾汽車出售給中國：“趁我們還能賣個好價錢”",
+      "title": "德國基金會調查：多數受訪者反對對烏軍援",
       "summary": [
-        "法廣RFI：德國頂級經濟學家建議將大眾汽車出售給中國：“趁我們還能賣個好價錢”"
+        "德國之聲：德國基金會調查：多數受訪者反對對烏軍援"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "德國頂級經濟學家建議將大眾汽車出售給中國：“趁我們還能賣個好價錢”",
-          "url": "https://www.rfi.fr/tw/%E7%B6%93%E8%B2%BF/20261126-%E5%BE%B7%E5%9C%8B%E9%A0%82%E7%B4%9A%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%AE%B6%E5%BB%BA%E8%AD%B0%E5%B0%87%E5%A4%A7%E7%9C%BE%E6%B1%BD%E8%BB%8A%E5%87%BA%E5%94%AE%E7%B5%A6%E4%B8%AD%E5%9C%8B-%E8%B6%81%E6%88%91%E5%80%91%E9%82%84%E8%83%BD%E8%B3%A3%E5%80%8B%E5%A5%BD%E5%83%B9%E9%8C%A2"
+          "source": "德國之聲",
+          "title": "德國基金會調查：多數受訪者反對對烏軍援",
+          "url": "https://www.dw.com/zh/德国基金会调查：多数受访者反对对乌军援/a-80033072?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "最高法院確認阿波登搶劫案三名被告被判無期徒刑",
+      "title": "年終銷售旺季前警惕暗紋和詐騙網站",
       "summary": [
-        "NHK新聞：最高法院確認阿波登搶劫案三名被告被判無期徒刑"
+        "NHK新聞：年終銷售旺季前警惕暗紋和詐騙網站"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "NHK新聞",
-          "title": "最高法院確認阿波登搶劫案三名被告被判無期徒刑",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261126de82095"
+          "title": "年終銷售旺季前警惕暗紋和詐騙網站",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261126de81876"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "德島縣阿波市長因涉嫌詐騙被捕，透過律師提出辭職",
+      "title": "美國殖民者出版的第一本聖經是萬帕諾亞格語，一種原住民語言",
       "summary": [
-        "NHK新聞：德島縣阿波市長因涉嫌詐騙被捕，透過律師提出辭職"
+        "Washington Post：美國殖民者出版的第一本聖經是萬帕諾亞格語，一種原住民語言"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "德島縣阿波市長因涉嫌詐騙被捕，透過律師提出辭職",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261126de82106"
+          "source": "Washington Post",
+          "title": "美國殖民者出版的第一本聖經是萬帕諾亞格語，一種原住民語言",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbG9paGphdHRWNFVjeElOSUJ3WENLOGttcS10aVA0WjBiSGNIZWd3aHN5eXlPc0lLeFlJY0xzbXY4NF84dkZScXowNFJUbmJzaEk1TTk5X2t0Q3llOUtQZmdCM0NsZHBhU2JuNzd4NFpCSXNsS3o0Ql9tUmtGZHJUMFZGZ2hDVVZiYVlkLWFPM28tek9uSWtiVGw3X3NrZDhEaDVRQkZ6UGtubktrQnZsSnBUdjI?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "韓國憲院裁定全面禁止外國人從事政治活動違憲",
+      "title": "隨著礦業繁榮，剛果推出 150 億美元的基礎設施交易",
       "summary": [
-        "韓聯社：韓國憲院裁定全面禁止外國人從事政治活動違憲"
+        "Bloomberg Markets：隨著礦業繁榮，剛果推出 150 億美元的基礎設施交易"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "韓聯社",
-          "title": "韓國憲院裁定全面禁止外國人從事政治活動違憲",
-          "url": "https://cn.yna.co.kr/view/ACK20261126004600881"
+          "source": "Bloomberg Markets",
+          "title": "隨著礦業繁榮，剛果推出 150 億美元的基礎設施交易",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/congo-pitches-15-billion-infrastructure-deals-as-mining-booms"
         }
       ]
     }
