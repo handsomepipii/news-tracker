@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 15:26",
+  "updated_at": "2026-11-27 15:57",
   "taiwan": [
     {
       "rank": 1,
@@ -94,6 +94,33 @@
     },
     {
       "rank": 4,
+      "title": "中東供應疑慮再起　布倫特原油收高",
+      "summary": [
+        "自由時報：中東供應疑慮再起　布倫特原油收高",
+        "經濟日報：中東供應疑慮再起　布倫特原油收高",
+        "科技新報：中東不平靜、沙烏地煉油廠遭襲  油價跳高"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "中東供應疑慮再起　布倫特原油收高",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5654846"
+        },
+        {
+          "source": "經濟日報",
+          "title": "中東供應疑慮再起　布倫特原油收高",
+          "url": "https://money.udn.com/money/story/5599/9904835"
+        },
+        {
+          "source": "科技新報",
+          "title": "中東不平靜、沙烏地煉油廠遭襲  油價跳高",
+          "url": "https://finance.technews.tw/2026/11/27/middle-east-unrest-saudi-refinery-attack-surging-oil-prices/"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "美第3季GDP大幅上修　川普控選前資料造假要求調查",
       "summary": [
         "自由時報：美第3季GDP大幅上修　川普控選前資料造假要求調查",
@@ -120,7 +147,34 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "超奢華！印度最窮邦議員嫁女宴40萬賓客 架6座直升機坪",
+      "summary": [
+        "自由時報：超奢華！印度最窮邦議員嫁女宴40萬賓客 架6座直升機坪",
+        "ETtoday：印度最窮邦議員「豪奢嫁女」　宴請40萬人、停機坪蓋6座",
+        "財訊：印度最窮邦辦40萬人「世紀婚宴」！議員嫁女豪蓋6座停機坪 排場驚呆全網"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "超奢華！印度最窮邦議員嫁女宴40萬賓客 架6座直升機坪",
+          "url": "https://news.ltn.com.tw/news/novelty/breakingnews/5654840"
+        },
+        {
+          "source": "ETtoday",
+          "title": "印度最窮邦議員「豪奢嫁女」　宴請40萬人、停機坪蓋6座",
+          "url": "https://www.ettoday.net/news/20261127/3279179.htm"
+        },
+        {
+          "source": "財訊",
+          "title": "印度最窮邦辦40萬人「世紀婚宴」！議員嫁女豪蓋6座停機坪 排場驚呆全網",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IdTQ0S1VzbkVWZTYySkR4MlBOUXRkcWo3OXdMb1Y4TGVHRVc2Sm0zYjNTaG1VbUY3WFQwNTFlR1Nramh2cVRrSVdtU1MyblZQMDV4UDdmMFc1amFTT3Y5bnQ4M0kwcEtrOFQ5eWdVN29OdGt2clR1a1JOaw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
       "summary": [
         "iThome：袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
@@ -137,48 +191,6 @@
           "source": "公開資訊觀測站重訊",
           "title": "袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VZGp2MmEyVWdFcGJweVRwSGdsX05Kd1NFSmxiRl9mNW9neDhISVVJaU9VZWpDWFRQTjlLUTNDd2twR0xqYmZFcFVldHpVQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "因應美國加強AI晶片出口管制 金融時報：輝達暫停向星馬泰印東南亞4國出貨 | 李靖棠 | 新聞",
-      "summary": [
-        "風傳媒：因應美國加強AI晶片出口管制 金融時報：輝達暫停向星馬泰印東南亞4國出貨 | 李靖棠 | 新聞",
-        "財訊：美國防堵中企海外AI算力漏洞！金融時報：輝達高階AI晶片暫停對東南亞4國部分業者出貨"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "風傳媒",
-          "title": "因應美國加強AI晶片出口管制 金融時報：輝達暫停向星馬泰印東南亞4國出貨 | 李靖棠 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PeUdUUDF5amt4Yno0VXMtZjlZZHp1QjNXd2ZlY29STVBPX3RjdFBjOURIS1lyeUo4am1fdjJfMXVwaVFZQ085YzB0TmswQQ?oc=5"
-        },
-        {
-          "source": "財訊",
-          "title": "美國防堵中企海外AI算力漏洞！金融時報：輝達高階AI晶片暫停對東南亞4國部分業者出貨",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvMTVYNzZKemJrRHVfeHFHYnpJdXJPY3NrMG1MWlRXR3JEQTRmMVpZNTlTMW16MjFiX2ZUMkNFOENvUFE1SHd6S0FvbkU5OEViMDhiSGxSM0hpcUF3NVlnZmlxRVE0aFZUb053Z0szcnV1emxkTy1BbGd2OA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "中東供應疑慮再起　布倫特原油收高",
-      "summary": [
-        "自由時報：中東供應疑慮再起　布倫特原油收高",
-        "經濟日報：中東供應疑慮再起　布倫特原油收高"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "中東供應疑慮再起　布倫特原油收高",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5654846"
-        },
-        {
-          "source": "經濟日報",
-          "title": "中東供應疑慮再起　布倫特原油收高",
-          "url": "https://money.udn.com/money/story/5599/9904835"
         }
       ]
     },
@@ -252,9 +264,10 @@
       "title": "日本菸草股價因帝國品牌潛在收購而上漲",
       "summary": [
         "Bloomberg Markets：日本菸草股價因帝國品牌潛在收購而上漲",
-        "Investing.com：日本菸草公司股價因帝國品牌收購報道而飆升"
+        "Investing.com：日本菸草公司股價因帝國品牌收購報道而飆升",
+        "Yahoo Finance：受日本菸草交易報告影響，帝國股價躍升至 2017 年以來最高水平"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "Bloomberg Markets",
@@ -265,6 +278,11 @@
           "source": "Investing.com",
           "title": "日本菸草公司股價因帝國品牌收購報道而飆升",
           "url": "https://www.investing.com/news/stock-market-news/japan-tobacco-shares-surge-on-report-of-imperial-brands-takeover-5052817"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "受日本菸草交易報告影響，帝國股價躍升至 2017 年以來最高水平",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUnF2bXAyQVZZbjRSVzgwVUhuM2VnaUw3Y2hyT0oxTVV0VUFkblpmSlpjYW5NN0l5T0dfeHJLSi1MbVBud0w3dkRKeVdPNWRTb2ZqLXJlMHpUX2NTWXc5d3VYZWQxZzJDS3dzcDl4bmJXWUpsdVRsc1llZnQwejBxeU1LSGprdUdXRmNVa0hkZkpHR2NJbGdXOTVuU3JyaUNx?oc=5"
         }
       ]
     },
