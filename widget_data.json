@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 12:26",
+  "updated_at": "2026-11-27 12:56",
   "taiwan": [
     {
       "rank": 1,
@@ -84,6 +84,33 @@
     },
     {
       "rank": 4,
+      "title": "5臺廠受惠！　馬斯克打造100萬衛星太空中心",
+      "summary": [
+        "ETtoday：5臺廠受惠！　馬斯克打造100萬衛星太空中心",
+        "工商時報：SpaceX百萬顆衛星獲準發射- 日報",
+        "鉅亨網：〈焦點股〉SpaceX獲準發射百萬顆衛星 激勵穩懋亮燈漲停領7檔題材股齊嗨"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "5臺廠受惠！　馬斯克打造100萬衛星太空中心",
+          "url": "https://finance.ettoday.net/news/3279191"
+        },
+        {
+          "source": "工商時報",
+          "title": "SpaceX百萬顆衛星獲準發射- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tY2dnZ1RWN0RPXy1JaXdaS01TeXdsVldCa1E4MjMwRlpuRnZaMjBHLUhyZ25jQ21nRGItaW85YnZXM2hsSUU5M29RTGNlZDhPZDFiNGpMeTR0LUhTYjFv?oc=5"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "〈焦點股〉SpaceX獲準發射百萬顆衛星 激勵穩懋亮燈漲停領7檔題材股齊嗨",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NMEJYUVNYT3VRaDYyRk9sQ2hqSlRnU0ZpZDlKUUVjVkxLREFyVzVNY3VONEd3ODZFR2tiNDljaFlPb0xZQ0NmblppazBLOEk?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "title": "抗衡馬斯克 Starlink 歐洲最大衛星工廠啟用 年產能上看500顆",
       "summary": [
         "經濟日報：抗衡馬斯克 Starlink 歐洲最大衛星工廠啟用 年產能上看500顆",
@@ -110,7 +137,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
       "summary": [
         "自由時報：烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
@@ -131,7 +158,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
       "summary": [
         "經濟日報：美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
@@ -152,7 +179,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
       "summary": [
         "自由時報：印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
@@ -173,7 +200,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
       "summary": [
         "iThome：袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
@@ -194,7 +221,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "科技股回穩　歐股隨亞股走揚收高",
       "summary": [
         "自由時報：科技股回穩　歐股隨亞股走揚收高",
@@ -211,27 +238,6 @@
           "source": "經濟日報",
           "title": "科技股回穩　歐股隨亞股走揚收高",
           "url": "https://money.udn.com/money/story/5599/9904809"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "強茂：JOYSTAR INTL取得VTEAM SIEGFRIED供應鏈P類私募基金計劃，3500萬美元",
-      "summary": [
-        "公開資訊觀測站重訊：強茂：JOYSTAR INTL取得VTEAM SIEGFRIED供應鏈P類私募基金計劃，3500萬美元",
-        "MoneyDJ理財網：強茂：JOYSTAR INTL 10/29~11/26售VTEAM SIEGFRIED供應鏈人，盈利上看547萬美元- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公開資訊觀測站重訊",
-          "title": "強茂：JOYSTAR INTL取得VTEAM SIEGFRIED供應鏈P類私募基金計劃，3500萬美元",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdEJBREw1U2NRY0h1MlVSaXJONVhqUlZFNUpIOEFTaXM5SFFBdEFGeE05QmF5TWU3ZDhaZnBBMWJrOU1RVzZVRHNUR2tleFVXaUF1TWxzMGYxV2h3UFd1MUMwUER6a2JsT255SXR2VHlfWHVLVUZUSFF4dmFvcE5KZnE0bTRxRktZem5XMUpGbzNfZw?oc=5"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "強茂：JOYSTAR INTL 10/29~11/26售VTEAM SIEGFRIED供應鏈人，盈利上看547萬美元- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0RpbXpvcDVzY1ZTMWF0V2VibWVVbEJtejRNb3lIOUQzOHI2aFJVR3VfQ2dTLTVJRURVaHE2MU1tcmYzT1RuTHRfdjNlV1dvdUpPMEROanZJMWRZZGtzalBFbV90MWJYZWtiV3RyeUxPTGVTZDJtcllvUUt1S3lqT0VkbmdTbGxnTzRWOEVUYkpNUQ?oc=5"
         }
       ]
     }
@@ -344,21 +350,6 @@
     },
     {
       "rank": 6,
-      "title": "丹麥股市收盤走高； OMX哥本哈根20指數上漲1.32%",
-      "summary": [
-        "Investing.com：丹麥股市收盤走高； OMX哥本哈根20指數上漲1.32%"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "丹麥股市收盤走高； OMX哥本哈根20指數上漲1.32%",
-          "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-132-5052620"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "高市早苗訪問中國時是否遭到冷遇？",
       "summary": [
         "紐約時報中文：高市早苗訪問中國時是否遭到冷遇？"
@@ -373,7 +364,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "川普新關稅再將矛頭指向北京，旨在削弱中國供應鏈優勢- 紐約時報中文網",
       "summary": [
         "紐約時報中文：川普新關稅再將矛頭指向北京，旨在削弱中國供應鏈優勢- 紐約時報中文網"
@@ -388,7 +379,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "宏福苑大火一週年：民眾紀念逝者，北京警告「以災亂港」",
       "summary": [
         "紐約時報中文：宏福苑大火一週年：民眾紀念逝者，北京警告「以災亂港」"
@@ -403,17 +394,32 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "隨著美國經濟壓力加大，伊朗實施全面緊縮措施",
+      "rank": 9,
+      "title": "「168個死者的公義到現在都沒有」——宏福苑大火一週年悼念",
       "summary": [
-        "Washington Post：隨著美國經濟壓力加大，伊朗實施全面緊縮措施"
+        "德國之聲：「168個死者的公義到現在都沒有」——宏福苑大火一週年悼念"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Washington Post",
-          "title": "隨著美國經濟壓力加大，伊朗實施全面緊縮措施",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXVKN203dmhrRzdjSEV3RC1tMTJnQV9XU1pUdnpwdXVucnlpQzl6RTBjVGhHQWZDRjAxV0Rxd0IwOXNSckNTeDc5TEtjZTRQdFFWdlMwbkdkZTBkNWRtWmVfQzFZT0F6c0Y2TTJjOXJRU3YzRUplVG1FNVVsRzE2M0Q5TkJLSEF4anRtci1LU3BQLVNKQlo2aDBObUZBNG85c0V5dmJDaG9ZcUNSX2R0eHlYeXg3RE1BTHc?oc=5"
+          "source": "德國之聲",
+          "title": "「168個死者的公義到現在都沒有」——宏福苑大火一週年悼念",
+          "url": "https://www.dw.com/zh/「168個死者的公義到現在都沒有」-宏福苑大火一周年悼念/a-80067919?maca=chi-rss-chi-all-1127-rdf"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "AI新雲被告知若算力出租給中國公司，將無法購買英偉達晶片",
+      "summary": [
+        "法廣RFI：AI新雲被告知若算力出租給中國公司，將無法購買英偉達晶片"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "法廣RFI",
+          "title": "AI新雲被告知若算力出租給中國公司，將無法購買英偉達晶片",
+          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261126-ai%E6%96%B0%E9%9B%B2%E8%A2%AB%E5%91%8A%E7%9F%A5%E8%8B%A5%E7%AE%97%E5%8A%9B%E5%87%BA%E7%A7%9F%E7%B5%A6%E4%B8%AD%E5%9C%8B%E5%85%AC%E5%8F%B8%EF%BC%8C%E5%B0%87%E7%84%A1%E6%B3%95%E8%B3%BC%E8%B2%B7%E8%8B%B1%E5%81%89%E9%81%94%E8%8A%AF%E7%89%87"
         }
       ]
     }
