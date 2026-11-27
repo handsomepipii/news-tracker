@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 04:57",
+  "updated_at": "2026-11-28 05:26",
   "taiwan": [
     {
       "rank": 1,
@@ -30,33 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "友達華亞廠換買家！矽品197億接手 估處分利益104億",
-      "summary": [
-        "自由時報：友達華亞廠換買家！矽品197億接手 估處分利益104億",
-        "鉅亨網：友達華亞廠找到新買家 售予矽品處分利益估104億元",
-        "工商時報：交易案大洗牌！友達華亞廠197億元賣給矽品估處分利益逾百億- 產業"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "友達華亞廠換買家！矽品197億接手 估處分利益104億",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5655532"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "友達華亞廠找到新買家 售予矽品處分利益估104億元",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mSEg5SDlCZnAzdEFHeVpGaTAyMFM0N1hwa1BxUllqTDhkYUVEc3ZLMUI4MGJ6VHBmNU9CaWFQNndzSk5NSy1sLUNqbzRUeFU?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "交易案大洗牌！友達華亞廠197億元賣給矽品估處分利益逾百億- 產業",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RUFvc0ZKTDY3NzVrcW1LQjJQUllMWGZ1YkJDOHR5QXBZYjhVZGdSWVJzWjFFNW8wT21BSktXWDF0SUQ4RGNieGd2bzI5ZFZHdlB2TE5UbVF6UW5DM3Bj?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "惡劣天氣夾擊美國感恩節 強風豪雨釀大停電 全美數千航班延誤取消",
       "summary": [
         "鉅亨網：惡劣天氣夾擊美國感恩節 強風豪雨釀大停電 全美數千航班延誤取消",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "吳宗憲選前之夜找於美人站臺 籲宜蘭鄉親共同迎向勝利",
       "summary": [
         "自由時報：吳宗憲選前之夜找於美人站臺 籲宜蘭鄉親共同迎向勝利",
@@ -104,7 +77,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "侯友宜10度合體車掃 李四川：明天請投給跟你一樣靠雙手打拚的人",
       "summary": [
         "自由時報：侯友宜10度合體車掃 李四川：明天請投給跟你一樣靠雙手打拚的人",
@@ -125,7 +98,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "LIVE／蘇巧慧「新時代新市長」選前之夜　賴清德、蔡英文接力助講",
       "summary": [
         "ETtoday：LIVE／蘇巧慧「新時代新市長」選前之夜　賴清德、蔡英文接力助講",
@@ -146,7 +119,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "LIVE／蔣萬安1900凱道選前之夜　石舫亙和三寶「獻聲」成彩蛋",
       "summary": [
         "ETtoday：LIVE／蔣萬安1900凱道選前之夜　石舫亙和三寶「獻聲」成彩蛋",
@@ -167,7 +140,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "天氣/投票日舒適好天氣 下週回溫｢冬日暫歇｣｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20261109 @TVBSNEWS01",
       "summary": [
         "TVBS新聞：天氣/投票日舒適好天氣 下週回溫｢冬日暫歇｣｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20261109 @TVBSNEWS01",
@@ -188,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "烏坵鄉投票專船停開 中選會：明日照常辦理投開票作業",
       "summary": [
         "自由時報：烏坵鄉投票專船停開 中選會：明日照常辦理投開票作業",
@@ -209,7 +182,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "蘇巧慧選前之夜開場 主辦方喊已3萬人、直播觀看數超過蔣萬安",
       "summary": [
         "自由時報：蘇巧慧選前之夜開場 主辦方喊已3萬人、直播觀看數超過蔣萬安",
@@ -226,6 +199,27 @@
           "source": "ETtoday",
           "title": "圖／藍色飄揚！李四川選前之夜開場前40分鐘　主持人喊現場3萬人",
           "url": "https://www.ettoday.net/news/20261127/3279639.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "20261127 8點新世界 完整版（無網路版權內容除外）｜馬斯克送大禮，美國兒童獲贈2股SpaceX，承諾「每年送1股」",
+      "summary": [
+        "公視新聞：20261127 8點新世界 完整版（無網路版權內容除外）｜馬斯克送大禮，美國兒童獲贈2股SpaceX，承諾「每年送1股」",
+        "自由時報：馬斯克叔叔「紅包」加碼！全美兒童2股SpaceX、每年再贈1股"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "公視新聞",
+          "title": "20261127 8點新世界 完整版（無網路版權內容除外）｜馬斯克送大禮，美國兒童獲贈2股SpaceX，承諾「每年送1股」",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00aEtrYmdQd1djbS1icjItM1AzZ3JfTUpYUHpicGl1aUZkV2NDMmRFZWlQWUxGeWZvcFlYMlc5b2VGT3Y1am1JTEp4NA?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "馬斯克叔叔「紅包」加碼！全美兒童2股SpaceX、每年再贈1股",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5655906"
         }
       ]
     }
@@ -350,6 +344,27 @@
     },
     {
       "rank": 6,
+      "title": "獨家-駭客攻破美國空軍旗艦雲一運算平臺",
+      "summary": [
+        "Investing.com：獨家-駭客攻破美國空軍旗艦雲一運算平臺",
+        "法廣RFI：美國空軍核心雲平臺遭駭客入侵 敏感資料或受影響"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "獨家-駭客攻破美國空軍旗艦雲一運算平臺",
+          "url": "https://www.investing.com/news/stock-market-news/exclusivehackers-breach-us-air-force-flagship-cloud-one-computing-platform-5053314"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "美國空軍核心雲平臺遭駭客入侵 敏感資料或受影響",
+          "url": "https://www.rfi.fr/tw/%E7%BE%8E%E6%B4%B2/20261127-%E7%BE%8E%E5%9C%8B%E7%A9%BA%E8%BB%8D%E6%A0%B8%E5%BF%83%E9%9B%B2%E5%B9%B3%E5%8F%B0%E9%81%AD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-%E6%95%8F%E6%84%9F%E6%95%B8%E6%93%9A%E6%88%96%E5%8F%97%E5%BD%B1%E9%9F%BF"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "廉價航空公司挪威大西洋航空公司因未能獲得資金而在歐洲申請破產",
       "summary": [
         "CNBC：廉價航空公司挪威大西洋航空公司因未能獲得資金而在歐洲申請破產",
@@ -370,7 +385,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "人工智慧如何改變黑色星期五",
       "summary": [
         "Bloomberg Tech：人工智慧如何改變黑色星期五",
@@ -391,7 +406,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
       "summary": [
         "The Verge：黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
@@ -412,44 +427,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
+      "rank": 10,
+      "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
       "summary": [
-        "Bloomberg Tech：英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
+        "Bloomberg Tech：英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
         "Financial Times：Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
+          "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
           "url": "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says"
         },
         {
           "source": "Financial Times",
           "title": "Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍",
           "url": "https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "OpenAI 反訴蘋果竊取商業機密",
-      "summary": [
-        "Financial Times：OpenAI 反訴蘋果竊取商業機密",
-        "Investing.com：根據英國《金融時報》報道，OpenAI 反訴蘋果竊取商業機密"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "OpenAI 反訴蘋果竊取商業機密",
-          "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Investing.com",
-          "title": "根據英國《金融時報》報道，OpenAI 反訴蘋果竊取商業機密",
-          "url": "https://www.investing.com/news/stock-market-news/openai-countersues-apple-for-stealing-trade-secrets-ft-reports-5053798"
         }
       ]
     }
