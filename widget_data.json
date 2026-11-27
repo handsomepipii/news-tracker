@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 05:26",
+  "updated_at": "2026-11-28 05:57",
   "taiwan": [
     {
       "rank": 1,
@@ -230,7 +230,7 @@
       "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
       "summary": [
         "Bloomberg Tech：Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
-        "Investing.com：上海資料中心與 Alice Huang 發現相關的 Nvidia Blackwell 晶片",
+        "Investing.com：上海資料中心發現與 Alice Huang 相關的 Nvidia Blackwell 晶片",
         "Yahoo Finance：Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上"
       ],
       "media_count": 3,
@@ -242,7 +242,7 @@
         },
         {
           "source": "Investing.com",
-          "title": "上海資料中心與 Alice Huang 發現相關的 Nvidia Blackwell 晶片",
+          "title": "上海資料中心發現與 Alice Huang 相關的 Nvidia Blackwell 晶片",
           "url": "https://www.investing.com/news/stock-market-news/nvidia-blackwell-chips-found-in-shanghai-data-center-tied-to-alice-huang-5053414"
         },
         {
@@ -281,69 +281,6 @@
     },
     {
       "rank": 3,
-      "title": "FCC 批准 SpaceX 在太空建立 100 萬個資料中心。天文學家感到沮喪。",
-      "summary": [
-        "Washington Post：FCC 批准 SpaceX 在太空建立 100 萬個資料中心。天文學家感到沮喪。",
-        "Ars Technica：FCC已授權SpaceX部署100萬顆衛星"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "FCC 批准 SpaceX 在太空建立 100 萬個資料中心。天文學家感到沮喪。",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWRGMWR3bjFJZmlWaVE5Si0zTk56UnpEcDNYS0gxalgyV2Q5ZVBiNWRoMVAycmRvVUlfN1Mydm00dlpZdWZsTkVPMGtabEZsQ3FlNC1QbXFSZTF1MXhMQ2p0R3JtRUg1VlEyUFc2aVBGVkMwWHFrZl9UanJfQkg3VkNMejE1ZEs4TUdNVE1KdkZELURVd0NHNnZaOHJRZUhCMUxyckJqMmZGUEl2enh2MmRVd2V5VnpnaUNpakx5QnVUSXdWUmc?oc=5"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "FCC已授權SpaceX部署100萬顆衛星",
-          "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "我們發現的絕對最好的黑色星期五優惠（到目前為止）",
-      "summary": [
-        "The Verge：我們發現的絕對最好的黑色星期五優惠（到目前為止）",
-        "Ars Technica：Ars 能找到的最佳黑色星期五優惠"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "我們發現的絕對最好的黑色星期五優惠（到目前為止）",
-          "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "Ars 能找到的最佳黑色星期五優惠",
-          "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "22 個 100 美元以下的黑色星期五最佳折扣 (2026)",
-      "summary": [
-        "Wired：22 個 100 美元以下的黑色星期五最佳折扣 (2026)",
-        "The Verge：以下是您可以以 30 美元或以下的價格買到的最佳黑色星期五優惠"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Wired",
-          "title": "22 個 100 美元以下的黑色星期五最佳折扣 (2026)",
-          "url": "https://www.wired.com/story/best-black-friday-deals-under-100-11-27-2026/"
-        },
-        {
-          "source": "The Verge",
-          "title": "以下是您可以以 30 美元或以下的價格買到的最佳黑色星期五優惠",
-          "url": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "獨家-駭客攻破美國空軍旗艦雲一運算平臺",
       "summary": [
         "Investing.com：獨家-駭客攻破美國空軍旗艦雲一運算平臺",
@@ -364,7 +301,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "廉價航空公司挪威大西洋航空公司因未能獲得資金而在歐洲申請破產",
       "summary": [
         "CNBC：廉價航空公司挪威大西洋航空公司因未能獲得資金而在歐洲申請破產",
@@ -385,7 +322,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "人工智慧如何改變黑色星期五",
       "summary": [
         "Bloomberg Tech：人工智慧如何改變黑色星期五",
@@ -406,44 +343,95 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
+      "rank": 6,
+      "title": "黑色星期五 AirPods、MacBook 和其他 Apple 裝置的最佳優惠",
       "summary": [
-        "The Verge：黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
-        "Wired：蘋果黑色星期五特惠(2026)：AirPods、iPad、MacBook等"
+        "The Verge：黑色星期五 AirPods、MacBook 和其他 Apple 裝置的最佳優惠",
+        "Wired：Apple 黑色星期五特惠 (2026)：AirPods、iPad、MacBook 等"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "The Verge",
-          "title": "黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
+          "title": "黑色星期五 AirPods、MacBook 和其他 Apple 裝置的最佳優惠",
           "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026"
         },
         {
           "source": "Wired",
-          "title": "蘋果黑色星期五特惠(2026)：AirPods、iPad、MacBook等",
+          "title": "Apple 黑色星期五特惠 (2026)：AirPods、iPad、MacBook 等",
           "url": "https://www.wired.com/story/black-friday-apple-deals-11-27-2026/"
         }
       ]
     },
     {
-      "rank": 10,
-      "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
+      "rank": 7,
+      "title": "Verizon in Talks to Buy Fidium in $6 Billion Deal, FT Says",
       "summary": [
-        "Bloomberg Tech：英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
+        "Bloomberg Tech：Verizon in Talks to Buy Fidium in $6 Billion Deal, FT Says",
         "Financial Times：Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
+          "title": "Verizon in Talks to Buy Fidium in $6 Billion Deal, FT Says",
           "url": "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says"
         },
         {
           "source": "Financial Times",
           "title": "Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍",
           "url": "https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "OpenAI 反訴蘋果竊取商業機密",
+      "summary": [
+        "Financial Times：OpenAI 反訴蘋果竊取商業機密",
+        "Investing.com：根據英國《金融時報》報道，OpenAI 反訴蘋果竊取商業機密"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "OpenAI 反訴蘋果竊取商業機密",
+          "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "根據英國《金融時報》報道，OpenAI 反訴蘋果竊取商業機密",
+          "url": "https://www.investing.com/news/stock-market-news/openai-countersues-apple-for-stealing-trade-secrets-ft-reports-5053798"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "為什麼貝卡爾特股票今天飆升？",
+      "summary": [
+        "Investing.com：為什麼貝卡爾特股票今天飆升？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "為什麼貝卡爾特股票今天飆升？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-bekaert-stock-surging-today-93CH-5053191"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "16 款黑色星期五最佳耳機優惠 (2026)：最高 57% 折扣",
+      "summary": [
+        "Wired：16 款黑色星期五最佳耳機優惠 (2026)：最高 57% 折扣"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Wired",
+          "title": "16 款黑色星期五最佳耳機優惠 (2026)：最高 57% 折扣",
+          "url": "https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/"
         }
       ]
     }
