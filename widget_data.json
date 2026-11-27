@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 17:26",
+  "updated_at": "2026-11-27 17:55",
   "taiwan": [
     {
       "rank": 1,
@@ -147,6 +147,27 @@
     },
     {
       "rank": 6,
+      "title": "沈伯洋突取消選前之夜　吳子嘉曝背後原因",
+      "summary": [
+        "ETtoday：沈伯洋突取消選前之夜　吳子嘉曝背後原因",
+        "中時新聞：沈伯洋取消選前之夜郭正亮質疑苦肉計把責任推給蔣萬安轉移焦點- 政治"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "沈伯洋突取消選前之夜　吳子嘉曝背後原因",
+          "url": "https://www.ettoday.net/news/20261127/3279189.htm"
+        },
+        {
+          "source": "中時新聞",
+          "title": "沈伯洋取消選前之夜郭正亮質疑苦肉計把責任推給蔣萬安轉移焦點- 政治",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CZFBWOGQ0SjVPVWpVOTlzQ1ZTYmUtalRoemluODd4SUkxWmpFRkV5dTA3ajZKOXRKdzU3cU9iRGZzZDFwNWdDQ0trWl94Wnh0OUNXUnBxNHhtSTNfbzR4aDYzeUZZR2IzcjZ5RktB?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "選戰最後衝刺！周春米、梁育慈率屏東隊屏市大車掃 籲鄉親出門投票",
       "summary": [
         "自由時報：選戰最後衝刺！周春米、梁育慈率屏東隊屏市大車掃 籲鄉親出門投票",
@@ -167,7 +188,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "蔡英文送10歲的他這段話 沈伯洋：早知道一個人在家看",
       "summary": [
         "自由時報：蔡英文送10歲的他這段話 沈伯洋：早知道一個人在家看",
@@ -188,7 +209,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "北東偶雨日夜溫差大 明投票日東北季風增強",
       "summary": [
         "自由時報：北東偶雨日夜溫差大 明投票日東北季風增強",
@@ -209,7 +230,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "今起放晴回溫　吳德榮：下週飆30度「冷氣團有得等」",
       "summary": [
         "ETtoday：今起放晴回溫　吳德榮：下週飆30度「冷氣團有得等」",
@@ -226,27 +247,6 @@
           "source": "自由時報",
           "title": "投票日好天氣！吳德榮曝「這天」低溫探12度：下週高溫再飆破30度",
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5654883"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "川普控「第3季GDP」選前造假　要求調查",
-      "summary": [
-        "ETtoday：川普控「第3季GDP」選前造假　要求調查",
-        "經濟日報：美第3季GDP大幅上修　川普控選前資料造假要求調查"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "川普控「第3季GDP」選前造假　要求調查",
-          "url": "https://www.ettoday.net/news/20261127/3279180.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美第3季GDP大幅上修　川普控選前資料造假要求調查",
-          "url": "https://money.udn.com/money/story/5599/9904848"
         }
       ]
     }
@@ -407,6 +407,27 @@
     },
     {
       "rank": 8,
+      "title": "2026 年黑色星期五最佳科技交易直播",
+      "summary": [
+        "Tom's Hardware：2026 年黑色星期五最佳科技交易直播",
+        "Wired：黑色星期五最佳優惠現已上線：我們的 2026 年專家精選"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "2026 年黑色星期五最佳科技交易直播",
+          "url": "https://www.tomshardware.com/live/news/black-friday-2026-day-three"
+        },
+        {
+          "source": "Wired",
+          "title": "黑色星期五最佳優惠現已上線：我們的 2026 年專家精選",
+          "url": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "為什麼慧諮環球股價今天大漲？",
       "summary": [
         "Investing.com：為什麼慧諮環球股價今天大漲？"
@@ -421,7 +442,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "華為：從被美國制裁到成為中國人工智慧戰略的核心- 紐約時報中文網",
       "summary": [
         "紐約時報中文：華為：從被美國制裁到成為中國人工智慧戰略的核心- 紐約時報中文網"
@@ -432,21 +453,6 @@
           "source": "紐約時報中文",
           "title": "華為：從被美國制裁到成為中國人工智慧戰略的核心- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vNUlxc0NGMVpRV2VsRGJWa0M4OWZEcERkeVgxVjRsTlFiUmY3TThBSlAtU1FwVE1ZR1VPTmt3TnIwbXpHRjVIdjlySklKRjdqTks1TTVrR3g3RXpGWTlhV09MdUxZd0ZVN0QtQ1pPbUhBYVQyRUZUczZ6QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "高市早苗訪問中國時是否遭到冷遇？",
-      "summary": [
-        "紐約時報中文：高市早苗訪問中國時是否遭到冷遇？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "高市早苗訪問中國時是否遭到冷遇？",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1pGOERfTnNlUlViRWR1YlVGaFFveEl3Ym8zVFZnQTFLdDl0UXBhNjNpakxQdHltWndLTUdrdFdZcF9FSHQ3dmExS0plOWYwTTJaTVptV1hFYVBLWFY1N3kxOXVuUU8zYnJfNGNIN3dxS3BieW56Qnl1Y1JUTEF2MGlDUHBibThZeVE?oc=5"
         }
       ]
     }
