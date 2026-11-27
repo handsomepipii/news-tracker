@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-27 12:56",
+  "updated_at": "2026-11-27 13:27",
   "taiwan": [
     {
       "rank": 1,
-      "title": "快訊／南投駕駛國6「逆向狂飆」12公里　一查又是酒駕",
-      "summary": [
-        "ETtoday：快訊／南投駕駛國6「逆向狂飆」12公里　一查又是酒駕",
-        "自由時報：《臺北時報》 藝人諾諾強暴案終審敗訴",
-        "商業周刊：宏普三井新北第一案臺日首發「臺北橋站」軌道精品宅-房地產"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／南投駕駛國6「逆向狂飆」12公里　一查又是酒駕",
-          "url": "https://www.ettoday.net/news/20261127/3279159.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "《臺北時報》 藝人諾諾強暴案終審敗訴",
-          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5654807"
-        },
-        {
-          "source": "商業周刊",
-          "title": "宏普三井新北第一案臺日首發「臺北橋站」軌道精品宅-房地產",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hVWoyOUY3cVpyLWE1dlpBeFdLeU5qTGQxSjRoZHJLRDFxd3p3c3BpNGFjRklPV053SXNBanhITDU3WmZJQ2pGd0pneWU0cnBqUnd6MTNJOFRLN1gyR3VNbUJseVlVSWJ2SXBnN3E1NENfN2J3WVE?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "1分鐘看世界／美國馬斯克將加碼SpaceX股票 全國兒童皆可獲贈兩股",
       "summary": [
         "經濟日報：1分鐘看世界／美國馬斯克將加碼SpaceX股票 全國兒童皆可獲贈兩股",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "美第3季GDP大幅上修　川普控選前資料造假要求調查",
       "summary": [
         "自由時報：美第3季GDP大幅上修　川普控選前資料造假要求調查",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "5臺廠受惠！　馬斯克打造100萬衛星太空中心",
       "summary": [
         "ETtoday：5臺廠受惠！　馬斯克打造100萬衛星太空中心",
@@ -110,7 +83,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "抗衡馬斯克 Starlink 歐洲最大衛星工廠啟用 年產能上看500顆",
       "summary": [
         "經濟日報：抗衡馬斯克 Starlink 歐洲最大衛星工廠啟用 年產能上看500顆",
@@ -133,6 +106,27 @@
           "source": "MoneyDJ理財網",
           "title": "歐洲最大衛星工廠啟用 力拚抗衡Starlink",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaTJTNjNEOXBPNlFTRTlJSXp3MWtISWhranVWUkFqdHgzbDFHcjdlaUF1bTAyalM3NGRzT3J0NDBkYWVfRXJpLXppeG04Wkx6U0tVeU04TnpPaDdMR1dtT2paN1d0ZTBiaGptcmhrUndZQUVRZ2ZwaUsyaTVHLUUtQ1NVbmY5SjIwYk9sbWtpYktuUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "《臺北時報》 藝人諾諾強暴案終審敗訴",
+      "summary": [
+        "自由時報：《臺北時報》 藝人諾諾強暴案終審敗訴",
+        "商業周刊：宏普三井新北第一案臺日首發「臺北橋站」軌道精品宅-房地產"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "《臺北時報》 藝人諾諾強暴案終審敗訴",
+          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5654807"
+        },
+        {
+          "source": "商業周刊",
+          "title": "宏普三井新北第一案臺日首發「臺北橋站」軌道精品宅-房地產",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hVWoyOUY3cVpyLWE1dlpBeFdLeU5qTGQxSjRoZHJLRDFxd3p3c3BpNGFjRklPV053SXNBanhITDU3WmZJQ2pGd0pneWU0cnBqUnd6MTNJOFRLN1gyR3VNbUJseVlVSWJ2SXBnN3E1NENfN2J3WVE?oc=5"
         }
       ]
     },
@@ -395,31 +389,31 @@
     },
     {
       "rank": 9,
-      "title": "「168個死者的公義到現在都沒有」——宏福苑大火一週年悼念",
+      "title": "當被問及伊朗門時，雷根開玩笑說要赦免一隻火雞。隨之而來的是一個傳統。",
       "summary": [
-        "德國之聲：「168個死者的公義到現在都沒有」——宏福苑大火一週年悼念"
+        "Washington Post：當被問及伊朗門時，雷根開玩笑說要赦免一隻火雞。隨之而來的是一個傳統。"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "德國之聲",
-          "title": "「168個死者的公義到現在都沒有」——宏福苑大火一週年悼念",
-          "url": "https://www.dw.com/zh/「168個死者的公義到現在都沒有」-宏福苑大火一周年悼念/a-80067919?maca=chi-rss-chi-all-1127-rdf"
+          "source": "Washington Post",
+          "title": "當被問及伊朗門時，雷根開玩笑說要赦免一隻火雞。隨之而來的是一個傳統。",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOFlpTlR1RDB1VGpDTi1HdUw1cURWbXg1SU1ROWNUMy1jc1c2SHhXVGhtd2RwSXpCU05WY1A0RWhmOWJlVkVCd0xEX1BQOU04WVBNRnZ3WUJxUEZzN3BRSjB2MTNhTVJ3bGZhcFBRY3ZYQk9nWWIzUFRQakVlVnNYSU5sUnd0ZmFDay1Sa3VYSXBxQy02NXdDMl9JOFZUR1BQa3RrX3BsSVNLdVRmclBUTFE1b1VGbmhtR0QzQW8tX21kNHJTQmNZ?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "AI新雲被告知若算力出租給中國公司，將無法購買英偉達晶片",
+      "title": "KKR 銀行舉債 5.5 億歐元支援 Logoplaste 收購",
       "summary": [
-        "法廣RFI：AI新雲被告知若算力出租給中國公司，將無法購買英偉達晶片"
+        "Bloomberg Markets：KKR 銀行舉債 5.5 億歐元支援 Logoplaste 收購"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "AI新雲被告知若算力出租給中國公司，將無法購買英偉達晶片",
-          "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20261126-ai%E6%96%B0%E9%9B%B2%E8%A2%AB%E5%91%8A%E7%9F%A5%E8%8B%A5%E7%AE%97%E5%8A%9B%E5%87%BA%E7%A7%9F%E7%B5%A6%E4%B8%AD%E5%9C%8B%E5%85%AC%E5%8F%B8%EF%BC%8C%E5%B0%87%E7%84%A1%E6%B3%95%E8%B3%BC%E8%B2%B7%E8%8B%B1%E5%81%89%E9%81%94%E8%8A%AF%E7%89%87"
+          "source": "Bloomberg Markets",
+          "title": "KKR 銀行舉債 5.5 億歐元支援 Logoplaste 收購",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/kkr-banks-line-up-550-million-of-debt-to-back-logoplaste-buyout"
         }
       ]
     }
