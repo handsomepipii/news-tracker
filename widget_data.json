@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-28 04:27",
+  "updated_at": "2026-11-28 04:57",
   "taiwan": [
     {
       "rank": 1,
-      "title": "臺北、嘉義車站迎返鄉青年 臺聯青年為何苡睿催票",
-      "summary": [
-        "自由時報：臺北、嘉義車站迎返鄉青年 臺聯青年為何苡睿催票",
-        "ETtoday：LIVE／「翻轉高雄選好市長」柯志恩選前之夜全力催票",
-        "TVBS新聞：陳其邁北上助陣 合體蘇巧慧板橋車掃｜LIVE"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "臺北、嘉義車站迎返鄉青年 臺聯青年為何苡睿催票",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655466"
-        },
-        {
-          "source": "ETtoday",
-          "title": "LIVE／「翻轉高雄選好市長」柯志恩選前之夜全力催票",
-          "url": "https://www.ettoday.net/news/20261127/3279472.htm"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "陳其邁北上助陣 合體蘇巧慧板橋車掃｜LIVE",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxR1ZHdmRMZlE5ODNUNnJpd3RVQktiSjN0VUdnMndPWmZreEZZVkRIYkpNVWRQRWZ5UkJvMDJoeW1JbnI5Zmg0bE1hazgzR1YtMGQ4VEt3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "快訊／神秘嘉賓登場！沈伯洋直播人數破40萬　衝YT即時「全球第一」",
       "summary": [
         "ETtoday：快訊／神秘嘉賓登場！沈伯洋直播人數破40萬　衝YT即時「全球第一」",
@@ -56,7 +29,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "友達華亞廠換買家！矽品197億接手 估處分利益104億",
       "summary": [
         "自由時報：友達華亞廠換買家！矽品197億接手 估處分利益104億",
@@ -83,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "惡劣天氣夾擊美國感恩節 強風豪雨釀大停電 全美數千航班延誤取消",
       "summary": [
         "鉅亨網：惡劣天氣夾擊美國感恩節 強風豪雨釀大停電 全美數千航班延誤取消",
@@ -110,7 +83,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "吳宗憲選前之夜找於美人站臺 籲宜蘭鄉親共同迎向勝利",
       "summary": [
         "自由時報：吳宗憲選前之夜找於美人站臺 籲宜蘭鄉親共同迎向勝利",
@@ -131,7 +104,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "侯友宜10度合體車掃 李四川：明天請投給跟你一樣靠雙手打拚的人",
       "summary": [
         "自由時報：侯友宜10度合體車掃 李四川：明天請投給跟你一樣靠雙手打拚的人",
@@ -152,7 +125,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "LIVE／蘇巧慧「新時代新市長」選前之夜　賴清德、蔡英文接力助講",
       "summary": [
         "ETtoday：LIVE／蘇巧慧「新時代新市長」選前之夜　賴清德、蔡英文接力助講",
@@ -173,7 +146,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "LIVE／蔣萬安1900凱道選前之夜　石舫亙和三寶「獻聲」成彩蛋",
       "summary": [
         "ETtoday：LIVE／蔣萬安1900凱道選前之夜　石舫亙和三寶「獻聲」成彩蛋",
@@ -194,7 +167,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "天氣/投票日舒適好天氣 下週回溫｢冬日暫歇｣｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20261109 @TVBSNEWS01",
       "summary": [
         "TVBS新聞：天氣/投票日舒適好天氣 下週回溫｢冬日暫歇｣｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20261109 @TVBSNEWS01",
@@ -215,7 +188,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "烏坵鄉投票專船停開 中選會：明日照常辦理投開票作業",
       "summary": [
         "自由時報：烏坵鄉投票專船停開 中選會：明日照常辦理投開票作業",
@@ -232,6 +205,27 @@
           "source": "今周刊",
           "title": "2026九合一投票懶人包》要領幾張票、投票時間到幾點、沒通知單可以投？縣市長選舉、公投票、禁止行為必看",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbm5UNEFLOUNsSW5nUVpLZnVMb2hrRXczMjNJM0hJQld0ZERUR2Z0NVdDNWxRZ044SW5hVlBieVV3QUJLYU56MENFTGg3VDRoMGJBOE5KU0FHaWhXcllZWjVralhVQnFCRjBDbU1NZWJFTk94aDZPVFJrWm5DbnFxQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "蘇巧慧選前之夜開場 主辦方喊已3萬人、直播觀看數超過蔣萬安",
+      "summary": [
+        "自由時報：蘇巧慧選前之夜開場 主辦方喊已3萬人、直播觀看數超過蔣萬安",
+        "ETtoday：圖／藍色飄揚！李四川選前之夜開場前40分鐘　主持人喊現場3萬人"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "蘇巧慧選前之夜開場 主辦方喊已3萬人、直播觀看數超過蔣萬安",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655748"
+        },
+        {
+          "source": "ETtoday",
+          "title": "圖／藍色飄揚！李四川選前之夜開場前40分鐘　主持人喊現場3萬人",
+          "url": "https://www.ettoday.net/news/20261127/3279639.htm"
         }
       ]
     }
