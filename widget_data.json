@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 16:56",
+  "updated_at": "2026-11-27 17:26",
   "taiwan": [
     {
       "rank": 1,
@@ -99,33 +99,6 @@
     },
     {
       "rank": 4,
-      "title": "美第3季GDP大幅上修　川普控選前資料造假要求調查",
-      "summary": [
-        "自由時報：美第3季GDP大幅上修　川普控選前資料造假要求調查",
-        "ETtoday：川普控「第3季GDP」選前造假　要求調查",
-        "經濟日報：美第3季GDP大幅上修　川普控選前資料造假要求調查"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美第3季GDP大幅上修　川普控選前資料造假要求調查",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654849"
-        },
-        {
-          "source": "ETtoday",
-          "title": "川普控「第3季GDP」選前造假　要求調查",
-          "url": "https://www.ettoday.net/news/20261127/3279180.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美第3季GDP大幅上修　川普控選前資料造假要求調查",
-          "url": "https://money.udn.com/money/story/5599/9904848"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "超奢華！印度最窮邦議員嫁女宴40萬賓客 架6座直升機坪",
       "summary": [
         "自由時報：超奢華！印度最窮邦議員嫁女宴40萬賓客 架6座直升機坪",
@@ -152,7 +125,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
       "summary": [
         "iThome：袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
@@ -173,7 +146,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "選戰最後衝刺！周春米、梁育慈率屏東隊屏市大車掃 籲鄉親出門投票",
       "summary": [
         "自由時報：選戰最後衝刺！周春米、梁育慈率屏東隊屏市大車掃 籲鄉親出門投票",
@@ -194,7 +167,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "蔡英文送10歲的他這段話 沈伯洋：早知道一個人在家看",
       "summary": [
         "自由時報：蔡英文送10歲的他這段話 沈伯洋：早知道一個人在家看",
@@ -215,7 +188,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "北東偶雨日夜溫差大 明投票日東北季風增強",
       "summary": [
         "自由時報：北東偶雨日夜溫差大 明投票日東北季風增強",
@@ -236,7 +209,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "今起放晴回溫　吳德榮：下週飆30度「冷氣團有得等」",
       "summary": [
         "ETtoday：今起放晴回溫　吳德榮：下週飆30度「冷氣團有得等」",
@@ -253,6 +226,27 @@
           "source": "自由時報",
           "title": "投票日好天氣！吳德榮曝「這天」低溫探12度：下週高溫再飆破30度",
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5654883"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "川普控「第3季GDP」選前造假　要求調查",
+      "summary": [
+        "ETtoday：川普控「第3季GDP」選前造假　要求調查",
+        "經濟日報：美第3季GDP大幅上修　川普控選前資料造假要求調查"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "川普控「第3季GDP」選前造假　要求調查",
+          "url": "https://www.ettoday.net/news/20261127/3279180.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美第3季GDP大幅上修　川普控選前資料造假要求調查",
+          "url": "https://money.udn.com/money/story/5599/9904848"
         }
       ]
     }
@@ -428,6 +422,21 @@
     },
     {
       "rank": 9,
+      "title": "華為：從被美國制裁到成為中國人工智慧戰略的核心- 紐約時報中文網",
+      "summary": [
+        "紐約時報中文：華為：從被美國制裁到成為中國人工智慧戰略的核心- 紐約時報中文網"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "華為：從被美國制裁到成為中國人工智慧戰略的核心- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vNUlxc0NGMVpRV2VsRGJWa0M4OWZEcERkeVgxVjRsTlFiUmY3TThBSlAtU1FwVE1ZR1VPTmt3TnIwbXpHRjVIdjlySklKRjdqTks1TTVrR3g3RXpGWTlhV09MdUxZd0ZVN0QtQ1pPbUhBYVQyRUZUczZ6QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "高市早苗訪問中國時是否遭到冷遇？",
       "summary": [
         "紐約時報中文：高市早苗訪問中國時是否遭到冷遇？"
@@ -438,21 +447,6 @@
           "source": "紐約時報中文",
           "title": "高市早苗訪問中國時是否遭到冷遇？",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1pGOERfTnNlUlViRWR1YlVGaFFveEl3Ym8zVFZnQTFLdDl0UXBhNjNpakxQdHltWndLTUdrdFdZcF9FSHQ3dmExS0plOWYwTTJaTVptV1hFYVBLWFY1N3kxOXVuUU8zYnJfNGNIN3dxS3BieW56Qnl1Y1JUTEF2MGlDUHBibThZeVE?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "川普新關稅再將矛頭指向北京，旨在削弱中國供應鏈優勢- 紐約時報中文網",
-      "summary": [
-        "紐約時報中文：川普新關稅再將矛頭指向北京，旨在削弱中國供應鏈優勢- 紐約時報中文網"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "川普新關稅再將矛頭指向北京，旨在削弱中國供應鏈優勢- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Sa1NEWFRFYURrZ2YyRVQ0dzVlQ1JwTUhielRBN05aNTlxS1pNRElaaE1lYUpxZk1zLUo2OWVranFURGw2RWJ6TEdFOEFDSng1QXR1MFpXeEt2bXVYdmZJUkxULTRLcXlnYkRNd2ttMFlhVEg0Z3c?oc=5"
         }
       ]
     }
