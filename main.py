@@ -109,7 +109,7 @@ INTL_FEEDS = {
     "韓聯社": "https://cn.yna.co.kr/RSS/news.xml",
     "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "CNN World": "http://rss.cnn.com/rss/edition_world.rss",
-    "The Guardian": "https://www.theguardian.com/world/rss",
+    "The Guardian": "https://news.google.com/rss/search?q=site:theguardian.com+when:1d&hl=en-US&gl=US&ceid=US:en",
     "Washington Post": "https://news.google.com/rss/search?q=site:washingtonpost.com+when:1d&hl=en-US&gl=US&ceid=US:en",
     # --- 國際財經與美股權威 ---
     "FT中文網": "https://www.ftchinese.com/rss/feed",
