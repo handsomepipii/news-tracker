@@ -1,21 +1,16 @@
 {
-  "updated_at": "2026-11-28 03:56",
+  "updated_at": "2026-11-28 04:27",
   "taiwan": [
     {
       "rank": 1,
-      "title": "踢爆蘇巧純往來蘇巧慧1200萬元 李競辦：新北人的錢不能變蘇家的",
+      "title": "臺北、嘉義車站迎返鄉青年 臺聯青年為何苡睿催票",
       "summary": [
-        "中時新聞：踢爆蘇巧純往來蘇巧慧1200萬元 李競辦：新北人的錢不能變蘇家的",
         "自由時報：臺北、嘉義車站迎返鄉青年 臺聯青年為何苡睿催票",
-        "ETtoday：快訊／蔣萬安凱道破12萬人　10點加碼與石舫亙直播開箱甜蜜小窩"
+        "ETtoday：LIVE／「翻轉高雄選好市長」柯志恩選前之夜全力催票",
+        "TVBS新聞：陳其邁北上助陣 合體蘇巧慧板橋車掃｜LIVE"
       ],
-      "media_count": 4,
+      "media_count": 3,
       "links": [
-        {
-          "source": "中時新聞",
-          "title": "踢爆蘇巧純往來蘇巧慧1200萬元 李競辦：新北人的錢不能變蘇家的",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lcGhaQUJTRG1NWDR4NVAzTTJmckxQVTdjYnVtXzR6R3UtaV9iWTJsa2FuSmFyVzNTYWwtLVJfTWIzZWFGU2FCMnJ5eHhNSGNYSWxPTkdUNjA1Q1NsRVBVcjBHZ3Q4Q2lQTjE4ZTZ3?oc=5"
-        },
         {
           "source": "自由時報",
           "title": "臺北、嘉義車站迎返鄉青年 臺聯青年為何苡睿催票",
@@ -23,8 +18,8 @@
         },
         {
           "source": "ETtoday",
-          "title": "快訊／蔣萬安凱道破12萬人　10點加碼與石舫亙直播開箱甜蜜小窩",
-          "url": "https://www.ettoday.net/news/20261127/3279672.htm"
+          "title": "LIVE／「翻轉高雄選好市長」柯志恩選前之夜全力催票",
+          "url": "https://www.ettoday.net/news/20261127/3279472.htm"
         },
         {
           "source": "TVBS新聞",
@@ -116,6 +111,27 @@
     },
     {
       "rank": 5,
+      "title": "吳宗憲選前之夜找於美人站臺 籲宜蘭鄉親共同迎向勝利",
+      "summary": [
+        "自由時報：吳宗憲選前之夜找於美人站臺 籲宜蘭鄉親共同迎向勝利",
+        "ETtoday：相信臺北市民智慧　李四川登蔣萬安選前之夜：你們要把萬安顧好"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "吳宗憲選前之夜找於美人站臺 籲宜蘭鄉親共同迎向勝利",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655664"
+        },
+        {
+          "source": "ETtoday",
+          "title": "相信臺北市民智慧　李四川登蔣萬安選前之夜：你們要把萬安顧好",
+          "url": "https://www.ettoday.net/news/20261127/3279649.htm"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "侯友宜10度合體車掃 李四川：明天請投給跟你一樣靠雙手打拚的人",
       "summary": [
         "自由時報：侯友宜10度合體車掃 李四川：明天請投給跟你一樣靠雙手打拚的人",
@@ -136,7 +152,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "LIVE／蘇巧慧「新時代新市長」選前之夜　賴清德、蔡英文接力助講",
       "summary": [
         "ETtoday：LIVE／蘇巧慧「新時代新市長」選前之夜　賴清德、蔡英文接力助講",
@@ -157,7 +173,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "LIVE／蔣萬安1900凱道選前之夜　石舫亙和三寶「獻聲」成彩蛋",
       "summary": [
         "ETtoday：LIVE／蔣萬安1900凱道選前之夜　石舫亙和三寶「獻聲」成彩蛋",
@@ -178,7 +194,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "天氣/投票日舒適好天氣 下週回溫｢冬日暫歇｣｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20261109 @TVBSNEWS01",
       "summary": [
         "TVBS新聞：天氣/投票日舒適好天氣 下週回溫｢冬日暫歇｣｜氣象主播 吳軒彤｜TVBS氣象站｜TVBS新聞20261109 @TVBSNEWS01",
@@ -199,7 +215,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "烏坵鄉投票專船停開 中選會：明日照常辦理投開票作業",
       "summary": [
         "自由時報：烏坵鄉投票專船停開 中選會：明日照常辦理投開票作業",
@@ -216,27 +232,6 @@
           "source": "今周刊",
           "title": "2026九合一投票懶人包》要領幾張票、投票時間到幾點、沒通知單可以投？縣市長選舉、公投票、禁止行為必看",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbm5UNEFLOUNsSW5nUVpLZnVMb2hrRXczMjNJM0hJQld0ZERUR2Z0NVdDNWxRZ044SW5hVlBieVV3QUJLYU56MENFTGg3VDRoMGJBOE5KU0FHaWhXcllZWjVralhVQnFCRjBDbU1NZWJFTk94aDZPVFJrWm5DbnFxQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "蘇巧慧選前之夜開場 主辦方喊已3萬人、直播觀看數超過蔣萬安",
-      "summary": [
-        "自由時報：蘇巧慧選前之夜開場 主辦方喊已3萬人、直播觀看數超過蔣萬安",
-        "ETtoday：圖／藍色飄揚！李四川選前之夜開場前40分鐘　主持人喊現場3萬人"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "蘇巧慧選前之夜開場 主辦方喊已3萬人、直播觀看數超過蔣萬安",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655748"
-        },
-        {
-          "source": "ETtoday",
-          "title": "圖／藍色飄揚！李四川選前之夜開場前40分鐘　主持人喊現場3萬人",
-          "url": "https://www.ettoday.net/news/20261127/3279639.htm"
         }
       ]
     }
@@ -271,22 +266,28 @@
     },
     {
       "rank": 2,
-      "title": "印尼警方在 Dian Swastatika 股票操縱案中逮捕了三人",
+      "title": "加拿大最高法院基本上維持魁北克禁止公務員使用宗教標誌的禁令",
       "summary": [
-        "Investing.com：印尼警方在 Dian Swastatika 股票操縱案中逮捕了三人",
-        "Financial Times：印尼因涉嫌「油炸」市場操縱而逮捕三人"
+        "BBC World：加拿大最高法院基本上維持魁北克禁止公務員使用宗教標誌的禁令",
+        "The Guardian：加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
+        "Financial Times：加拿大維護禁止公共部門工作人員佩戴宗教標誌的法律"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "印尼警方在 Dian Swastatika 股票操縱案中逮捕了三人",
-          "url": "https://www.investing.com/news/stock-market-news/indonesian-police-arrest-three-in-dian-swastatika-share-manipulation-case-93CH-5053063"
+          "source": "BBC World",
+          "title": "加拿大最高法院基本上維持魁北克禁止公務員使用宗教標誌的禁令",
+          "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "The Guardian",
+          "title": "加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT2cxcXk0cndGZjRuQlVTRDdYRGdSS0d1a3l2cU9UR21LTXBrX0d4SHBwUEp6UWFBaXNsTWMyRGY5b3FTSXFXOGg2ODNmM2EyRFVqQjdnQmxXdTR1MzBrakMzRDhoRXdkUlllYmw1QWVKbWIyMzBDZ19pS2RFVFdpcnpHSGhSQjczVFoxVkMzOFVFSndTVzdVbG5laVJmb201ZVBGTXVNVi1RNzhkNTFweEoydWRvRlZNc05TendNOUkxamtwdS1JcVp3UzRpM3V2R01JdERjMjA4dXM?oc=5"
         },
         {
           "source": "Financial Times",
-          "title": "印尼因涉嫌「油炸」市場操縱而逮捕三人",
-          "url": "https://www.ft.com/content/50626b00-6d7b-47ac-b1f2-4b150ff9417e?syn-25a6b1a6=1"
+          "title": "加拿大維護禁止公共部門工作人員佩戴宗教標誌的法律",
+          "url": "https://www.ft.com/content/240e1fe6-6c82-4d18-b73d-b0b52e7edae4?syn-25a6b1a6=1"
         }
       ]
     },
