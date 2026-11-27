@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 14:56",
+  "updated_at": "2026-11-27 15:26",
   "taiwan": [
     {
       "rank": 1,
@@ -35,6 +35,65 @@
     },
     {
       "rank": 2,
+      "title": "SpaceX百萬顆衛星獲準發射- 日報",
+      "summary": [
+        "工商時報：SpaceX百萬顆衛星獲準發射- 日報",
+        "鉅亨網：〈焦點股〉SpaceX獲準發射百萬顆衛星 激勵穩懋亮燈漲停領7檔題材股齊嗨",
+        "數位時代：SpaceX百萬顆衛星獲放行！20檔低軌衛星概念股盤點，華通、昇達科迎利多"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "工商時報",
+          "title": "SpaceX百萬顆衛星獲準發射- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tY2dnZ1RWN0RPXy1JaXdaS01TeXdsVldCa1E4MjMwRlpuRnZaMjBHLUhyZ25jQ21nRGItaW85YnZXM2hsSUU5M29RTGNlZDhPZDFiNGpMeTR0LUhTYjFv?oc=5"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "〈焦點股〉SpaceX獲準發射百萬顆衛星 激勵穩懋亮燈漲停領7檔題材股齊嗨",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NMEJYUVNYT3VRaDYyRk9sQ2hqSlRnU0ZpZDlKUUVjVkxLREFyVzVNY3VONEd3ODZFR2tiNDljaFlPb0xZQ0NmblppazBLOEk?oc=5"
+        },
+        {
+          "source": "數位時代",
+          "title": "SpaceX百萬顆衛星獲放行！20檔低軌衛星概念股盤點，華通、昇達科迎利多",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0JTSW1XS1lod1FJSGVXMUtFWXdqR0tfU1paZTBkY0o0YkxnY1dDbmgwLW5OT05yZlJzTFB5RC1NaWoyRWFXYWNkeVg2S2FsUW1DbWp6NEtEY0hfcFBhS19BbVhDTUJXNjFTOENPYVpTa1FpWG1RdzNqdy1sT3JrZEx6SGNDWEdMN0d3U2Z4UGRPbHV2?oc=5"
+        },
+        {
+          "source": "財訊",
+          "title": "臺股新主流出爐！SpaceX百萬顆衛星引爆行情 低軌衛星族群再掀漲停潮",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81WVl2YVNLMXE3Wi1zdUdwbkVkamg4Y2JubzdVTEkxclplSUdZMDl2ZXFjZHM0NlYyODRtOU1BajZqb0ZkalBvdE16UkdJXzVvRlZOdV9oalFLU0h3UXMzSGtPcnN6Tkc2TUs0ZmZ2V210ZjVncFRfVW83SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "宏普三井新北第一案臺日首發「臺北橋站」軌道精品宅-房地產",
+      "summary": [
+        "商業周刊：宏普三井新北第一案臺日首發「臺北橋站」軌道精品宅-房地產",
+        "自由時報：鐵欄門關百人！住民睡沙發吃廚餘  老翁死諫揭發無良新北黑心護理之家",
+        "工商時報：富邦投信董事長黃昭棠：臺股明年走麥當勞行情- 日報"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "商業周刊",
+          "title": "宏普三井新北第一案臺日首發「臺北橋站」軌道精品宅-房地產",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hVWoyOUY3cVpyLWE1dlpBeFdLeU5qTGQxSjRoZHJLRDFxd3p3c3BpNGFjRklPV053SXNBanhITDU3WmZJQ2pGd0pneWU0cnBqUnd6MTNJOFRLN1gyR3VNbUJseVlVSWJ2SXBnN3E1NENfN2J3WVE?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "鐵欄門關百人！住民睡沙發吃廚餘  老翁死諫揭發無良新北黑心護理之家",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5655004"
+        },
+        {
+          "source": "工商時報",
+          "title": "富邦投信董事長黃昭棠：臺股明年走麥當勞行情- 日報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqNE1hcVhCdnBGaDJpaE8zUVY5M0RmY0xKN3QzRU5xaktuWWhqZ0tlZUl4SklTSnJ5TGllRDFoTnZldHNFUGhOc0lEU2NNWUxsaEZ6ZmhfMkR5bTBna25J?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "美第3季GDP大幅上修　川普控選前資料造假要求調查",
       "summary": [
         "自由時報：美第3季GDP大幅上修　川普控選前資料造假要求調查",
@@ -61,76 +120,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "5臺廠受惠！　馬斯克打造100萬衛星太空中心",
-      "summary": [
-        "ETtoday：5臺廠受惠！　馬斯克打造100萬衛星太空中心",
-        "工商時報：SpaceX百萬顆衛星獲準發射- 日報",
-        "鉅亨網：〈焦點股〉SpaceX獲準發射百萬顆衛星 激勵穩懋亮燈漲停領7檔題材股齊嗨"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "5臺廠受惠！　馬斯克打造100萬衛星太空中心",
-          "url": "https://finance.ettoday.net/news/3279191"
-        },
-        {
-          "source": "工商時報",
-          "title": "SpaceX百萬顆衛星獲準發射- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tY2dnZ1RWN0RPXy1JaXdaS01TeXdsVldCa1E4MjMwRlpuRnZaMjBHLUhyZ25jQ21nRGItaW85YnZXM2hsSUU5M29RTGNlZDhPZDFiNGpMeTR0LUhTYjFv?oc=5"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "〈焦點股〉SpaceX獲準發射百萬顆衛星 激勵穩懋亮燈漲停領7檔題材股齊嗨",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NMEJYUVNYT3VRaDYyRk9sQ2hqSlRnU0ZpZDlKUUVjVkxLREFyVzVNY3VONEd3ODZFR2tiNDljaFlPb0xZQ0NmblppazBLOEk?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "《臺北時報》 藝人諾諾強暴案終審敗訴",
-      "summary": [
-        "自由時報：《臺北時報》 藝人諾諾強暴案終審敗訴",
-        "商業周刊：宏普三井新北第一案臺日首發「臺北橋站」軌道精品宅-房地產"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "《臺北時報》 藝人諾諾強暴案終審敗訴",
-          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5654807"
-        },
-        {
-          "source": "商業周刊",
-          "title": "宏普三井新北第一案臺日首發「臺北橋站」軌道精品宅-房地產",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hVWoyOUY3cVpyLWE1dlpBeFdLeU5qTGQxSjRoZHJLRDFxd3p3c3BpNGFjRklPV053SXNBanhITDU3WmZJQ2pGd0pneWU0cnBqUnd6MTNJOFRLN1gyR3VNbUJseVlVSWJ2SXBnN3E1NENfN2J3WVE?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 5,
-      "title": "印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
-      "summary": [
-        "自由時報：印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
-        "ETtoday：印度最窮邦議員「豪奢嫁女」　宴請40萬人、停機坪蓋6座"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654840"
-        },
-        {
-          "source": "ETtoday",
-          "title": "印度最窮邦議員「豪奢嫁女」　宴請40萬人、停機坪蓋6座",
-          "url": "https://www.ettoday.net/news/20261127/3279179.htm"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
       "summary": [
         "iThome：袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
@@ -151,7 +141,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "因應美國加強AI晶片出口管制 金融時報：輝達暫停向星馬泰印東南亞4國出貨 | 李靖棠 | 新聞",
       "summary": [
         "風傳媒：因應美國加強AI晶片出口管制 金融時報：輝達暫停向星馬泰印東南亞4國出貨 | 李靖棠 | 新聞",
@@ -172,7 +162,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "中東供應疑慮再起　布倫特原油收高",
       "summary": [
         "自由時報：中東供應疑慮再起　布倫特原油收高",
@@ -193,7 +183,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "沙烏地阿拉伯煉油廠遇襲　1死多傷部分停工",
       "summary": [
         "自由時報：沙烏地阿拉伯煉油廠遇襲　1死多傷部分停工",
@@ -214,7 +204,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "蔡英文送10歲的他這段話 沈伯洋：早知道一個人在家看",
       "summary": [
         "自由時報：蔡英文送10歲的他這段話 沈伯洋：早知道一個人在家看",
@@ -231,6 +221,27 @@
           "source": "ETtoday",
           "title": "沈伯洋搶看蔡英文送「10歲的他一段話」　反應曝光：早知在家看",
           "url": "https://www.ettoday.net/news/20261127/3279177.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "北東偶雨日夜溫差大 明投票日東北季風增強",
+      "summary": [
+        "自由時報：北東偶雨日夜溫差大 明投票日東北季風增強",
+        "ETtoday：今3區有雨　明「投票日」東北季風稍涼"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "北東偶雨日夜溫差大 明投票日東北季風增強",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5654851"
+        },
+        {
+          "source": "ETtoday",
+          "title": "今3區有雨　明「投票日」東北季風稍涼",
+          "url": "https://www.ettoday.net/news/20261127/3279181.htm"
         }
       ]
     }
@@ -343,27 +354,48 @@
     },
     {
       "rank": 6,
-      "title": "午間罕見發表市場支援宣告後中國股市上漲",
+      "title": "北京發出更多支援訊號後中國股市飆升",
       "summary": [
-        "Bloomberg Markets：午間罕見發表市場支援宣告後中國股市上漲",
-        "Financial Times：北京發出更多支援訊號後中國股市飆升"
+        "Financial Times：北京發出更多支援訊號後中國股市飆升",
+        "Investing.com：北京承諾提供更強有力的市場支援後，中國股市和人民幣上漲"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "午間罕見發表市場支援宣告後中國股市上漲",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-cabinet-stresses-market-support-in-midday-release"
-        },
-        {
           "source": "Financial Times",
           "title": "北京發出更多支援訊號後中國股市飆升",
           "url": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "北京承諾提供更強有力的市場支援後，中國股市和人民幣上漲",
+          "url": "https://www.investing.com/news/stock-market-news/china-stocks-yuan-rally-after-beijing-vows-stronger-market-support-5053026"
         }
       ]
     },
     {
       "rank": 7,
+      "title": "人工智慧貿易反彈，亞洲股市延續復甦",
+      "summary": [
+        "Bloomberg Markets：人工智慧貿易反彈，亞洲股市延續復甦",
+        "Bloomberg Tech：隨著人工智慧貿易反彈，股市延續復甦"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "人工智慧貿易反彈，亞洲股市延續復甦",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-27/the-asia-trade-11-27-2026-video"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "隨著人工智慧貿易反彈，股市延續復甦",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-27/equities-extend-recovery-as-ai-trade-rebounds-video"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "為什麼慧諮環球股價今天大漲？",
       "summary": [
         "Investing.com：為什麼慧諮環球股價今天大漲？"
@@ -378,7 +410,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "高市早苗訪問中國時是否遭到冷遇？",
       "summary": [
         "紐約時報中文：高市早苗訪問中國時是否遭到冷遇？"
@@ -393,7 +425,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "川普新關稅再將矛頭指向北京，旨在削弱中國供應鏈優勢- 紐約時報中文網",
       "summary": [
         "紐約時報中文：川普新關稅再將矛頭指向北京，旨在削弱中國供應鏈優勢- 紐約時報中文網"
@@ -404,21 +436,6 @@
           "source": "紐約時報中文",
           "title": "川普新關稅再將矛頭指向北京，旨在削弱中國供應鏈優勢- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Sa1NEWFRFYURrZ2YyRVQ0dzVlQ1JwTUhielRBN05aNTlxS1pNRElaaE1lYUpxZk1zLUo2OWVranFURGw2RWJ6TEdFOEFDSng1QXR1MFpXeEt2bXVYdmZJUkxULTRLcXlnYkRNd2ttMFlhVEg0Z3c?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "宏福苑大火一週年：民眾紀念逝者，北京警告「以災亂港」",
-      "summary": [
-        "紐約時報中文：宏福苑大火一週年：民眾紀念逝者，北京警告「以災亂港」"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "紐約時報中文",
-          "title": "宏福苑大火一週年：民眾紀念逝者，北京警告「以災亂港」",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLTVvNUxSQl9BQkRNalppTXBHSHBpVkhEemlUTXM1WllUaXFGVC1COXE4X2dwUWEzWEI0VVNmOE50Y2RwZ0lZd1NrNk5XV3ZYcXJPaG1Ea1ZYM2VHdm95aWFuRDhMU1ZIcDFMbW9mM3QxcmFDbWpCQ2RlX1d1YnprQlFGdENaX3g4NWx0MU1EaEs4Zw?oc=5"
         }
       ]
     }
