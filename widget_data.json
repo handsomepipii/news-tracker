@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 10:26",
+  "updated_at": "2026-11-27 10:55",
   "taiwan": [
     {
       "rank": 1,
@@ -147,22 +147,22 @@
     },
     {
       "rank": 7,
-      "title": "週五雲多北東零星雨 早晚稍涼注意保暖",
+      "title": "袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
       "summary": [
-        "自由時報：週五雲多北東零星雨 早晚稍涼注意保暖",
-        "公視新聞：20261127 公視AI手語天氣報導 ｜雲稍多北東零星雨 舒適溫暖早晚稍涼"
+        "iThome：袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
+        "公開資訊觀測站重訊：袋鼠金融平臺遭外部攻擊，部分使用者個資外洩"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "週五雲多北東零星雨 早晚稍涼注意保暖",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5654509"
+          "source": "iThome",
+          "title": "袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
+          "url": "https://www.ithome.com.tw/news/180841"
         },
         {
-          "source": "公視新聞",
-          "title": "20261127 公視AI手語天氣報導 ｜雲稍多北東零星雨 舒適溫暖早晚稍涼",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zSW1Dc0JZV3h0SVdWUDdoQnJJcW8xWW9oQzNxbHVuZnJ5QURnbDlBMnZpbnV1LS13UnUyazF0YnJvRW5YRzBSRnF4cw?oc=5"
+          "source": "公開資訊觀測站重訊",
+          "title": "袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VZGp2MmEyVWdFcGJweVRwSGdsX05Kd1NFSmxiRl9mNW9neDhISVVJaU9VZWpDWFRQTjlLUTNDd2twR0xqYmZFcFVldHpVQQ?oc=5"
         }
       ]
     },
@@ -260,90 +260,6 @@
     },
     {
       "rank": 2,
-      "title": "SAP 考慮在 AI 重組中削減至少 10,000 個職位",
-      "summary": [
-        "Bloomberg Tech：SAP 考慮在 AI 重組中削減至少 10,000 個職位",
-        "Yahoo Finance：SAP 考慮在 AI 重組中削減至少 10,000 個職位"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "SAP 考慮在 AI 重組中削減至少 10,000 個職位",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "SAP 考慮在 AI 重組中削減至少 10,000 個職位",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZl9kNWloY0RxRFF1QjBna0FEOWg0cXNvZzZnaWFnY3RCTU0yZWkzeFJjS0ZpRnZoVk1lWE5yZW1YZ0NrX1BZOXRVQWE4dndMME9RLTV6cnFIbUJzQWlmU0VSQnRnZjB2bmVqNnkxa2VWcmdaZzNxSFpYOVJFcW1DWm1wTFp5LXRreFdYWFljT3MtUmZYaEE?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "第三季GDP資料大幅修正後，川普要求調查“創紀錄錯誤”",
-      "summary": [
-        "CNBC：第三季GDP資料大幅修正後，川普要求調查“創紀錄錯誤”",
-        "Yahoo Finance：川普稱修正後的GDP資料“假”，呼籲調查"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "第三季GDP資料大幅修正後，川普要求調查“創紀錄錯誤”",
-          "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "川普稱修正後的GDP資料“假”，呼籲調查",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlotSWo0OUFTWDc5MHhtTGVLOUxOakNkbmNwRkNvTmQyU3NfWVAwWEFWU3p4SFZvMFJfYno1RGlYY010TFpZRWNpdEF4dDNIV296NGZGU3BESUk5VnNUaFJrTjY4TFhmTXhCVm41cDdJVElYTkZXQzNuNVVpOUl2WkVoSUs2QjlLZmxDdTZYUjQxdw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "英偉達暫停向東南亞供應晶片",
-      "summary": [
-        "TechCrunch：英偉達暫停向東南亞供應晶片",
-        "紐約時報中文：英偉達暫停向東南亞銷售部分晶片，回應政府對華限制措施- 紐約時報中文網"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TechCrunch",
-          "title": "英偉達暫停向東南亞供應晶片",
-          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
-        },
-        {
-          "source": "紐約時報中文",
-          "title": "英偉達暫停向東南亞銷售部分晶片，回應政府對華限制措施- 紐約時報中文網",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVkFEMHQ5LWxJODlpNGVYbG9CaUE5b21QVEF1Z2ZpOGpyaTJ4X3JPX1FJM1B4ZElTWkotcms5TjBFQkZlaHNmWDNfNmVmdkVEMFFyM3h1SExaRWdGdlMxVnJ3VWZjLTlLbHkxSkpNeEZFc0pvWUYzYmlKLW1GRFdURzR3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "盧拉任命銀行家為巴西財政部長，試圖安撫市場",
-      "summary": [
-        "Financial Times：盧拉任命銀行家為巴西財政部長，試圖安撫市場",
-        "Bloomberg Markets：盧拉任命銀行家為財政部長後巴西資產上漲"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "盧拉任命銀行家為巴西財政部長，試圖安撫市場",
-          "url": "https://www.ft.com/content/94f93408-476b-479c-be0e-d7f7942f9491?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "盧拉任命銀行家為財政部長後巴西資產上漲",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "日本菸草股價因帝國品牌潛在收購而上漲",
       "summary": [
         "Bloomberg Markets：日本菸草股價因帝國品牌潛在收購而上漲",
@@ -364,7 +280,112 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "SAP 考慮在 AI 重組中削減至少 10,000 個職位",
+      "summary": [
+        "Bloomberg Tech：SAP 考慮在 AI 重組中削減至少 10,000 個職位",
+        "Yahoo Finance：SAP 考慮在 AI 重組中削減至少 10,000 個職位"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Bloomberg Tech",
+          "title": "SAP 考慮在 AI 重組中削減至少 10,000 個職位",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "SAP 考慮在 AI 重組中削減至少 10,000 個職位",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZl9kNWloY0RxRFF1QjBna0FEOWg0cXNvZzZnaWFnY3RCTU0yZWkzeFJjS0ZpRnZoVk1lWE5yZW1YZ0NrX1BZOXRVQWE4dndMME9RLTV6cnFIbUJzQWlmU0VSQnRnZjB2bmVqNnkxa2VWcmdaZzNxSFpYOVJFcW1DWm1wTFp5LXRreFdYWFljT3MtUmZYaEE?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "第三季GDP資料大幅修正後，川普要求調查“創紀錄錯誤”",
+      "summary": [
+        "CNBC：第三季GDP資料大幅修正後，川普要求調查“創紀錄錯誤”",
+        "Yahoo Finance：川普稱修正後的GDP資料“假”，呼籲調查"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "第三季GDP資料大幅修正後，川普要求調查“創紀錄錯誤”",
+          "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "川普稱修正後的GDP資料“假”，呼籲調查",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlotSWo0OUFTWDc5MHhtTGVLOUxOakNkbmNwRkNvTmQyU3NfWVAwWEFWU3p4SFZvMFJfYno1RGlYY010TFpZRWNpdEF4dDNIV296NGZGU3BESUk5VnNUaFJrTjY4TFhmTXhCVm41cDdJVElYTkZXQzNuNVVpOUl2WkVoSUs2QjlLZmxDdTZYUjQxdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "英偉達暫停向東南亞供應晶片",
+      "summary": [
+        "TechCrunch：英偉達暫停向東南亞供應晶片",
+        "紐約時報中文：英偉達暫停向東南亞銷售部分晶片，回應政府對華限制措施- 紐約時報中文網"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TechCrunch",
+          "title": "英偉達暫停向東南亞供應晶片",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+        },
+        {
+          "source": "紐約時報中文",
+          "title": "英偉達暫停向東南亞銷售部分晶片，回應政府對華限制措施- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVkFEMHQ5LWxJODlpNGVYbG9CaUE5b21QVEF1Z2ZpOGpyaTJ4X3JPX1FJM1B4ZElTWkotcms5TjBFQkZlaHNmWDNfNmVmdkVEMFFyM3h1SExaRWdGdlMxVnJ3VWZjLTlLbHkxSkpNeEZFc0pvWUYzYmlKLW1GRFdURzR3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "盧拉任命銀行家為巴西財政部長，試圖安撫市場",
+      "summary": [
+        "Financial Times：盧拉任命銀行家為巴西財政部長，試圖安撫市場",
+        "Bloomberg Markets：盧拉任命銀行家為財政部長後巴西資產上漲"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "盧拉任命銀行家為巴西財政部長，試圖安撫市場",
+          "url": "https://www.ft.com/content/94f93408-476b-479c-be0e-d7f7942f9491?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Bloomberg Markets",
+          "title": "盧拉任命銀行家為財政部長後巴西資產上漲",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister"
+        }
+      ]
+    },
+    {
       "rank": 7,
+      "title": "10月份中國工業獲利成長率飆升至5個月新高20.1%",
+      "summary": [
+        "CNBC：10月份中國工業獲利成長率飆升至5個月新高20.1%",
+        "Bloomberg Tech：中國工業獲利創五個月最快成長速度"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "CNBC",
+          "title": "10月份中國工業獲利成長率飆升至5個月新高20.1%",
+          "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html"
+        },
+        {
+          "source": "Bloomberg Tech",
+          "title": "中國工業獲利創五個月最快成長速度",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-industrial-profits-jump-at-fastest-pace-in-five-months"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "挪威股市收盤走高；奧斯陸OBX上漲1.50%",
       "summary": [
         "Investing.com：挪威股市收盤走高；奧斯陸OBX上漲1.50%"
@@ -379,47 +400,32 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "美國限制海外算力 知情人士稱中國AI公司受衝擊",
+      "rank": 9,
+      "title": "德語媒體：陳吉寧落馬 一種政治晉升模式的終結？",
       "summary": [
-        "德國之聲：美國限制海外算力 知情人士稱中國AI公司受衝擊"
+        "德國之聲：德語媒體：陳吉寧落馬 一種政治晉升模式的終結？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "德國之聲",
-          "title": "美國限制海外算力 知情人士稱中國AI公司受衝擊",
-          "url": "https://www.dw.com/zh/美国限制海外算力-知情人士称中国ai公司受冲击/a-80064912?maca=chi-rss-chi-all-1127-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "中俄兩軍舉行戰略磋商 日本修訂安保檔案擬提中俄朝軍事合作深化",
-      "summary": [
-        "法廣RFI：中俄兩軍舉行戰略磋商 日本修訂安保檔案擬提中俄朝軍事合作深化"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "中俄兩軍舉行戰略磋商 日本修訂安保檔案擬提中俄朝軍事合作深化",
-          "url": "https://www.rfi.fr/tw/%E4%BA%9E%E6%B4%B2/20261126-%E4%B8%AD%E4%BF%84%E5%9C%8B%E9%98%B2%E9%83%A8%E8%88%89%E8%A1%8C%E9%A6%96%E8%BC%AA%E6%88%B0%E7%95%A5%E7%A3%8B%E5%95%86-%E6%97%A5%E6%9C%AC%E4%BF%AE%E8%A8%82%E5%AE%89%E4%BF%9D%E6%96%87%E4%BB%B6%E6%93%AC%E6%8F%90%E4%B8%AD%E4%BF%84%E6%9C%9D%E8%BB%8D%E4%BA%8B%E5%90%88%E4%BD%9C%E6%B7%B1%E5%8C%96"
+          "title": "德語媒體：陳吉寧落馬 一種政治晉升模式的終結？",
+          "url": "https://www.dw.com/zh/德语媒体：陈吉宁落马-一种政治晋升模式的终结？/a-80065059?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "懷孕的美國囚犯就診後搭乘監獄車輛越獄",
+      "title": "涉嫌間諜活動的北約加拿大華裔實習生將繼續被羈押",
       "summary": [
-        "BBC World：懷孕的美國囚犯就診後搭乘監獄車輛越獄"
+        "法廣RFI：涉嫌間諜活動的北約加拿大華裔實習生將繼續被羈押"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "BBC World",
-          "title": "懷孕的美國囚犯就診後搭乘監獄車輛越獄",
-          "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss"
+          "source": "法廣RFI",
+          "title": "涉嫌間諜活動的北約加拿大華裔實習生將繼續被羈押",
+          "url": "https://www.rfi.fr/tw/%E6%AD%90%E6%B4%B2/20261126-%E6%B6%89%E5%AB%8C%E5%BE%9E%E4%BA%8B%E9%96%93%E8%AB%9C%E6%B4%BB%E5%8B%95%E7%9A%84%E5%8C%97%E7%B4%84%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%8F%AF%E8%A3%94%E5%AF%A6%E7%BF%92%E7%94%9F%E5%B0%87%E7%B9%BC%E7%BA%8C%E8%A2%AB%E7%BE%88%E6%8A%BC"
         }
       ]
     }
