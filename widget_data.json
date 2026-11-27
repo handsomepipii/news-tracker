@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 13:27",
+  "updated_at": "2026-11-27 13:57",
   "taiwan": [
     {
       "rank": 1,
@@ -132,27 +132,6 @@
     },
     {
       "rank": 6,
-      "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
-      "summary": [
-        "自由時報：烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
-        "經濟日報：烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5654828"
-        },
-        {
-          "source": "經濟日報",
-          "title": "烏情報機構：俄朝外交現裂痕　北韓暫停向俄運送飛彈",
-          "url": "https://money.udn.com/money/story/5599/9904801"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
       "summary": [
         "經濟日報：美東風暴釀停電　紐約梅西感恩節大遊行延至28日",
@@ -173,7 +152,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
       "summary": [
         "自由時報：印度最窮邦議員奢華嫁女！席開2.5公頃宴請40萬賓客 架6座直升機坪",
@@ -194,7 +173,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
       "summary": [
         "iThome：袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
@@ -215,23 +194,44 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "科技股回穩　歐股隨亞股走揚收高",
+      "rank": 9,
+      "title": "強茂：JOYSTAR INTL取得VTEAM SIEGFRIED供應鏈P類私募基金計劃，3500萬美元",
       "summary": [
-        "自由時報：科技股回穩　歐股隨亞股走揚收高",
-        "經濟日報：科技股回穩　歐股隨亞股走揚收高"
+        "公開資訊觀測站重訊：強茂：JOYSTAR INTL取得VTEAM SIEGFRIED供應鏈P類私募基金計劃，3500萬美元",
+        "MoneyDJ理財網：強茂：JOYSTAR INTL 10/29~11/26售VTEAM SIEGFRIED供應鏈人，盈利上看547萬美元- 新聞"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "科技股回穩　歐股隨亞股走揚收高",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5654830"
+          "source": "公開資訊觀測站重訊",
+          "title": "強茂：JOYSTAR INTL取得VTEAM SIEGFRIED供應鏈P類私募基金計劃，3500萬美元",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdEJBREw1U2NRY0h1MlVSaXJONVhqUlZFNUpIOEFTaXM5SFFBdEFGeE05QmF5TWU3ZDhaZnBBMWJrOU1RVzZVRHNUR2tleFVXaUF1TWxzMGYxV2h3UFd1MUMwUER6a2JsT255SXR2VHlfWHVLVUZUSFF4dmFvcE5KZnE0bTRxRktZem5XMUpGbzNfZw?oc=5"
         },
         {
-          "source": "經濟日報",
-          "title": "科技股回穩　歐股隨亞股走揚收高",
-          "url": "https://money.udn.com/money/story/5599/9904809"
+          "source": "MoneyDJ理財網",
+          "title": "強茂：JOYSTAR INTL 10/29~11/26售VTEAM SIEGFRIED供應鏈人，盈利上看547萬美元- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0RpbXpvcDVzY1ZTMWF0V2VibWVVbEJtejRNb3lIOUQzOHI2aFJVR3VfQ2dTLTVJRURVaHE2MU1tcmYzT1RuTHRfdjNlV1dvdUpPMEROanZJMWRZZGtzalBFbV90MWJYZWtiV3RyeUxPTGVTZDJtcllvUUt1S3lqT0VkbmdTbGxnTzRWOEVUYkpNUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "因應美國加強AI晶片出口管制 金融時報：輝達暫停向星馬泰印東南亞4國出貨 | 李靖棠 | 新聞",
+      "summary": [
+        "風傳媒：因應美國加強AI晶片出口管制 金融時報：輝達暫停向星馬泰印東南亞4國出貨 | 李靖棠 | 新聞",
+        "財訊：美國防堵中企海外AI算力漏洞！金融時報：輝達高階AI晶片暫停對東南亞4國部分業者出貨"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "風傳媒",
+          "title": "因應美國加強AI晶片出口管制 金融時報：輝達暫停向星馬泰印東南亞4國出貨 | 李靖棠 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PeUdUUDF5amt4Yno0VXMtZjlZZHp1QjNXd2ZlY29STVBPX3RjdFBjOURIS1lyeUo4am1fdjJfMXVwaVFZQ085YzB0TmswQQ?oc=5"
+        },
+        {
+          "source": "財訊",
+          "title": "美國防堵中企海外AI算力漏洞！金融時報：輝達高階AI晶片暫停對東南亞4國部分業者出貨",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvMTVYNzZKemJrRHVfeHFHYnpJdXJPY3NrMG1MWlRXR3JEQTRmMVpZNTlTMW16MjFiX2ZUMkNFOENvUFE1SHd6S0FvbkU5OEViMDhiSGxSM0hpcUF3NVlnZmlxRVE0aFZUb053Z0szcnV1emxkTy1BbGd2OA?oc=5"
         }
       ]
     }
@@ -344,6 +344,21 @@
     },
     {
       "rank": 6,
+      "title": "為什麼慧諮環球股價今天大漲？",
+      "summary": [
+        "Investing.com：為什麼慧諮環球股價今天大漲？"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "為什麼慧諮環球股價今天大漲？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-wisetech-global-stock-surging-today-93CH-5052791"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "高市早苗訪問中國時是否遭到冷遇？",
       "summary": [
         "紐約時報中文：高市早苗訪問中國時是否遭到冷遇？"
@@ -358,7 +373,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "川普新關稅再將矛頭指向北京，旨在削弱中國供應鏈優勢- 紐約時報中文網",
       "summary": [
         "紐約時報中文：川普新關稅再將矛頭指向北京，旨在削弱中國供應鏈優勢- 紐約時報中文網"
@@ -373,7 +388,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "宏福苑大火一週年：民眾紀念逝者，北京警告「以災亂港」",
       "summary": [
         "紐約時報中文：宏福苑大火一週年：民眾紀念逝者，北京警告「以災亂港」"
@@ -388,32 +403,17 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "當被問及伊朗門時，雷根開玩笑說要赦免一隻火雞。隨之而來的是一個傳統。",
-      "summary": [
-        "Washington Post：當被問及伊朗門時，雷根開玩笑說要赦免一隻火雞。隨之而來的是一個傳統。"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "當被問及伊朗門時，雷根開玩笑說要赦免一隻火雞。隨之而來的是一個傳統。",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOFlpTlR1RDB1VGpDTi1HdUw1cURWbXg1SU1ROWNUMy1jc1c2SHhXVGhtd2RwSXpCU05WY1A0RWhmOWJlVkVCd0xEX1BQOU04WVBNRnZ3WUJxUEZzN3BRSjB2MTNhTVJ3bGZhcFBRY3ZYQk9nWWIzUFRQakVlVnNYSU5sUnd0ZmFDay1Sa3VYSXBxQy02NXdDMl9JOFZUR1BQa3RrX3BsSVNLdVRmclBUTFE1b1VGbmhtR0QzQW8tX21kNHJTQmNZ?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 10,
-      "title": "KKR 銀行舉債 5.5 億歐元支援 Logoplaste 收購",
+      "title": "在中國，「女凝」正在推動一場新的娛樂消費熱潮- 紐約時報中文網",
       "summary": [
-        "Bloomberg Markets：KKR 銀行舉債 5.5 億歐元支援 Logoplaste 收購"
+        "紐約時報中文：在中國，「女凝」正在推動一場新的娛樂消費熱潮- 紐約時報中文網"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "KKR 銀行舉債 5.5 億歐元支援 Logoplaste 收購",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-26/kkr-banks-line-up-550-million-of-debt-to-back-logoplaste-buyout"
+          "source": "紐約時報中文",
+          "title": "在中國，「女凝」正在推動一場新的娛樂消費熱潮- 紐約時報中文網",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmJva1FOeFNhN2hUdjU1eUc1SjVZb09jOVhTczZ0c25XUFlRU1hPT3BxWk5qckRNdUdfcUdrSHMxR0pTSC1OaTdVamkwcUs4OWRzUlNIWDQ4Y0o3TUlhQllURW1kTVpJbDVCc0x2Vk9BckpGU2Y4Uk9fOEdNcXZreUU2cXh0WW9tdnRVbw?oc=5"
         }
       ]
     }
