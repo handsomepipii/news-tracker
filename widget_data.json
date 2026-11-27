@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 11:56",
+  "updated_at": "2026-11-27 12:26",
   "taiwan": [
     {
       "rank": 1,
@@ -239,33 +239,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "兩名義大利人伊朗襲擊科威特後喪生",
-      "summary": [
-        "BBC World：兩名義大利人伊朗襲擊科威特後喪生",
-        "Financial Times：兩名義大利人在伊朗襲擊科威特時喪生",
-        "Washington Post：緊張的伊朗加強襲擊力度，兩名義大利人在科威特喪生"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "兩名義大利人伊朗襲擊科威特後喪生",
-          "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Financial Times",
-          "title": "兩名義大利人在伊朗襲擊科威特時喪生",
-          "url": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Washington Post",
-          "title": "緊張的伊朗加強襲擊力度，兩名義大利人在科威特喪生",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdFVJenQ4a3hlOERnbnhWVGJ1QkNhUVQ1UjFGdUl2QjRFTjVaQUM4VC1sN2ZIWV9INVA3Y1hjUDA5VV94Zk4yOGF2Z00zak5OcGVNYTA3d2trbUxneVR6NnV0YXZ5Y3R5RDh3cTN0LVNqenltbmZMX2E1VkswTmNOT0t4R3hKWDNNeTRRbThMN2lFcUpRUjRwTjVnWS1sSDRLN2NTczlQNGg1Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "日本菸草股價因帝國品牌潛在收購而上漲",
       "summary": [
         "Bloomberg Markets：日本菸草股價因帝國品牌潛在收購而上漲",
@@ -286,28 +259,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "SAP 考慮在 AI 重組中削減至少 10,000 個職位",
-      "summary": [
-        "Bloomberg Tech：SAP 考慮在 AI 重組中削減至少 10,000 個職位",
-        "Yahoo Finance：SAP 考慮在 AI 重組中削減至少 10,000 個職位"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "SAP 考慮在 AI 重組中削減至少 10,000 個職位",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "SAP 考慮在 AI 重組中削減至少 10,000 個職位",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZl9kNWloY0RxRFF1QjBna0FEOWg0cXNvZzZnaWFnY3RCTU0yZWkzeFJjS0ZpRnZoVk1lWE5yZW1YZ0NrX1BZOXRVQWE4dndMME9RLTV6cnFIbUJzQWlmU0VSQnRnZjB2bmVqNnkxa2VWcmdaZzNxSFpYOVJFcW1DWm1wTFp5LXRreFdYWFljT3MtUmZYaEE?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "title": "第三季GDP資料大幅修正後，川普要求調查“創紀錄錯誤”",
       "summary": [
         "CNBC：第三季GDP資料大幅修正後，川普要求調查“創紀錄錯誤”",
@@ -328,7 +280,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "英偉達暫停向東南亞供應晶片",
       "summary": [
         "TechCrunch：英偉達暫停向東南亞供應晶片",
@@ -349,7 +301,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "盧拉任命銀行家為巴西財政部長，試圖安撫市場",
       "summary": [
         "Financial Times：盧拉任命銀行家為巴西財政部長，試圖安撫市場",
@@ -370,7 +322,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "10月份中國工業獲利成長率飆升至5個月新高20.1%",
       "summary": [
         "CNBC：10月份中國工業獲利成長率飆升至5個月新高20.1%",
@@ -391,22 +343,22 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "挪威股市收盤走高；奧斯陸OBX上漲1.50%",
+      "rank": 6,
+      "title": "丹麥股市收盤走高； OMX哥本哈根20指數上漲1.32%",
       "summary": [
-        "Investing.com：挪威股市收盤走高；奧斯陸OBX上漲1.50%"
+        "Investing.com：丹麥股市收盤走高； OMX哥本哈根20指數上漲1.32%"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Investing.com",
-          "title": "挪威股市收盤走高；奧斯陸OBX上漲1.50%",
-          "url": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-150-5052605"
+          "title": "丹麥股市收盤走高； OMX哥本哈根20指數上漲1.32%",
+          "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-132-5052620"
         }
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "高市早苗訪問中國時是否遭到冷遇？",
       "summary": [
         "紐約時報中文：高市早苗訪問中國時是否遭到冷遇？"
@@ -421,7 +373,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "川普新關稅再將矛頭指向北京，旨在削弱中國供應鏈優勢- 紐約時報中文網",
       "summary": [
         "紐約時報中文：川普新關稅再將矛頭指向北京，旨在削弱中國供應鏈優勢- 紐約時報中文網"
@@ -432,6 +384,36 @@
           "source": "紐約時報中文",
           "title": "川普新關稅再將矛頭指向北京，旨在削弱中國供應鏈優勢- 紐約時報中文網",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Sa1NEWFRFYURrZ2YyRVQ0dzVlQ1JwTUhielRBN05aNTlxS1pNRElaaE1lYUpxZk1zLUo2OWVranFURGw2RWJ6TEdFOEFDSng1QXR1MFpXeEt2bXVYdmZJUkxULTRLcXlnYkRNd2ttMFlhVEg0Z3c?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "宏福苑大火一週年：民眾紀念逝者，北京警告「以災亂港」",
+      "summary": [
+        "紐約時報中文：宏福苑大火一週年：民眾紀念逝者，北京警告「以災亂港」"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "紐約時報中文",
+          "title": "宏福苑大火一週年：民眾紀念逝者，北京警告「以災亂港」",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLTVvNUxSQl9BQkRNalppTXBHSHBpVkhEemlUTXM1WllUaXFGVC1COXE4X2dwUWEzWEI0VVNmOE50Y2RwZ0lZd1NrNk5XV3ZYcXJPaG1Ea1ZYM2VHdm95aWFuRDhMU1ZIcDFMbW9mM3QxcmFDbWpCQ2RlX1d1YnprQlFGdENaX3g4NWx0MU1EaEs4Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "隨著美國經濟壓力加大，伊朗實施全面緊縮措施",
+      "summary": [
+        "Washington Post：隨著美國經濟壓力加大，伊朗實施全面緊縮措施"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "隨著美國經濟壓力加大，伊朗實施全面緊縮措施",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXVKN203dmhrRzdjSEV3RC1tMTJnQV9XU1pUdnpwdXVucnlpQzl6RTBjVGhHQWZDRjAxV0Rxd0IwOXNSckNTeDc5TEtjZTRQdFFWdlMwbkdkZTBkNWRtWmVfQzFZT0F6c0Y2TTJjOXJRU3YzRUplVG1FNVVsRzE2M0Q5TkJLSEF4anRtci1LU3BQLVNKQlo2aDBObUZBNG85c0V5dmJDaG9ZcUNSX2R0eHlYeXg3RE1BTHc?oc=5"
         }
       ]
     }
