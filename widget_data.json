@@ -1,24 +1,30 @@
 {
-  "updated_at": "2026-11-28 10:56",
+  "updated_at": "2026-11-28 11:28",
   "taiwan": [
     {
       "rank": 1,
       "title": "陳其邁北上助陣 合體蘇巧慧板橋車掃｜LIVE",
       "summary": [
         "TVBS新聞：陳其邁北上助陣 合體蘇巧慧板橋車掃｜LIVE",
-        "自由時報：（專訪）VERIVERY超愛臺灣味！點名崔立於帶路逛臺北 全員爭搶大巨蛋開球"
+        "自由時報：（專訪）VERIVERY超愛臺灣味！點名崔立於帶路逛臺北 全員爭搶大巨蛋開球",
+        "ETtoday：何欣純現身投票所！曝昨夜回家煮餛飩湯當宵夜　盼迎臺中「欣開始」"
       ],
-      "media_count": 2,
+      "media_count": 3,
       "links": [
         {
           "source": "TVBS新聞",
           "title": "陳其邁北上助陣 合體蘇巧慧板橋車掃｜LIVE",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxR1ZHdmRMZlE5ODNUNnJpd3RVQktiSjN0VUdnMndPWmZreEZZVkRIYkpNVWRQRWZ5UkJvMDJoeW1JbnI5Zmg0bE1hazgzR1YtMGQ4VEt3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTX1hFenVVb1hiQ243Qzh6MGJQem00cWpwUFZidHdDMGFxT3J6d3UwdXVUVi0wNlNKY2xCT0NTTndvSnRCRnZFREVHMFh1WDVWODBTTS14SUVvU3lfU3JWSFE1MkVRdGtiUkgxT3hnZ1hya043?oc=5"
         },
         {
           "source": "自由時報",
           "title": "（專訪）VERIVERY超愛臺灣味！點名崔立於帶路逛臺北 全員爭搶大巨蛋開球",
           "url": "https://ent.ltn.com.tw/news/breakingnews/5655949"
+        },
+        {
+          "source": "ETtoday",
+          "title": "何欣純現身投票所！曝昨夜回家煮餛飩湯當宵夜　盼迎臺中「欣開始」",
+          "url": "https://www.ettoday.net/news/20261128/3279811.htm"
         }
       ]
     },
@@ -66,27 +72,6 @@
     },
     {
       "rank": 4,
-      "title": "不堪燃料價格大漲再倒1家　挪威北歐大西洋航空聲請破產",
-      "summary": [
-        "經濟日報：不堪燃料價格大漲再倒1家　挪威北歐大西洋航空聲請破產",
-        "自由時報：不堪燃料價格大漲再倒1家 挪威廉航北歐大西洋航空聲請破產"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "不堪燃料價格大漲再倒1家　挪威北歐大西洋航空聲請破產",
-          "url": "https://money.udn.com/money/story/5599/9906777"
-        },
-        {
-          "source": "自由時報",
-          "title": "不堪燃料價格大漲再倒1家 挪威廉航北歐大西洋航空聲請破產",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5655944"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "手機漲價兩樣情！Android 使用者乾脆不買、iPhone 果粉照單全收",
       "summary": [
         "ETtoday：手機漲價兩樣情！Android 使用者乾脆不買、iPhone 果粉照單全收",
@@ -107,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "友達華亞廠找到新買家 售予矽品處分利益估104億元",
       "summary": [
         "鉅亨網：友達華亞廠找到新買家 售予矽品處分利益估104億元",
@@ -128,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "屏檢查獲選舉賭盤每注1萬元　2組頭遭收押",
       "summary": [
         "自由時報：屏檢查獲選舉賭盤每注1萬元　2組頭遭收押",
@@ -149,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "科技股續漲帶動　歐股收紅結束震盪一週",
       "summary": [
         "自由時報：科技股續漲帶動　歐股收紅結束震盪一週",
@@ -170,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "無人機襲科威特釀2義大利人死亡　聯合國秘書長籲各方剋制",
       "summary": [
         "自由時報：無人機襲科威特釀2義大利人死亡　聯合國秘書長籲各方剋制",
@@ -191,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "川普挺到底！出席臺積電亞利桑那新廠動土　想帶黃仁勳一起去",
       "summary": [
         "ETtoday：川普挺到底！出席臺積電亞利桑那新廠動土　想帶黃仁勳一起去",
@@ -210,38 +195,32 @@
           "url": "https://money.udn.com/money/story/5599/9906798"
         }
       ]
+    },
+    {
+      "rank": 10,
+      "title": "感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
+      "summary": [
+        "自由時報：感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
+        "經濟日報：感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5655968"
+        },
+        {
+          "source": "經濟日報",
+          "title": "感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
+          "url": "https://money.udn.com/money/story/5599/9906931"
+        }
+      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "加拿大最高法院基本上維持魁北克禁止公務員使用宗教標誌的禁令",
-      "summary": [
-        "BBC World：加拿大最高法院基本上維持魁北克禁止公務員使用宗教標誌的禁令",
-        "The Guardian：加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
-        "Financial Times：加拿大維護禁止公共部門工作人員佩戴宗教標誌的法律"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "加拿大最高法院基本上維持魁北克禁止公務員使用宗教標誌的禁令",
-          "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "The Guardian",
-          "title": "加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT2cxcXk0cndGZjRuQlVTRDdYRGdSS0d1a3l2cU9UR21LTXBrX0d4SHBwUEp6UWFBaXNsTWMyRGY5b3FTSXFXOGg2ODNmM2EyRFVqQjdnQmxXdTR1MzBrakMzRDhoRXdkUlllYmw1QWVKbWIyMzBDZ19pS2RFVFdpcnpHSGhSQjczVFoxVkMzOFVFSndTVzdVbG5laVJmb201ZVBGTXVNVi1RNzhkNTFweEoydWRvRlZNc05TendNOUkxamtwdS1JcVp3UzRpM3V2R01JdERjMjA4dXM?oc=5"
-        },
-        {
-          "source": "Financial Times",
-          "title": "加拿大維護禁止公共部門工作人員佩戴宗教標誌的法律",
-          "url": "https://www.ft.com/content/240e1fe6-6c82-4d18-b73d-b0b52e7edae4?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "2026 年黑色星期五最佳遊戲顯示器優惠",
       "summary": [
         "Tom's Hardware：2026 年黑色星期五最佳遊戲顯示器優惠",
@@ -262,49 +241,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "川普捍衛普丁的友誼，澤倫斯基稱這種友誼“奇怪”",
-      "summary": [
-        "Washington Post：川普捍衛普丁的友誼，澤倫斯基稱這種友誼“奇怪”",
-        "BBC World：澤倫斯基在 BBC 採訪中質疑川普與普丁的「奇怪」友誼"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "川普捍衛普丁的友誼，澤倫斯基稱這種友誼“奇怪”",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSEhWSUd0Rk5DOUVkZU15Uk5Qak9DY0p3aUFWZzJsb0tKQTJleDdRdWREeFllMkVsV1ZBUDNDa0I4NVVfRXBiVDVQSEkxUHR1bE5RYkpyaE83am5JZnBEVWJpNjVwa21sQzRsRktPQWNGeHBUMldMTzVVcGtiUE1nY1p1eTl1MEl5ZVVNR1ppbnhpRWlQQUpsWWNob0ZUM0FuazcxcDMxbGN5aUk?oc=5"
-        },
-        {
-          "source": "BBC World",
-          "title": "澤倫斯基在 BBC 採訪中質疑川普與普丁的「奇怪」友誼",
-          "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "人工智慧如何改變黑色星期五",
-      "summary": [
-        "Bloomberg Tech：人工智慧如何改變黑色星期五",
-        "Bloomberg Markets：人工智慧工具重塑黑色星期五體驗"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "人工智慧如何改變黑色星期五",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-27/how-ai-is-changing-black-friday-video"
-        },
-        {
-          "source": "Bloomberg Markets",
-          "title": "人工智慧工具重塑黑色星期五體驗",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-27/ai-tools-reshape-the-black-friday-experience-video"
-        }
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "title": "黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
       "summary": [
         "The Verge：黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
@@ -325,17 +262,17 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
+      "rank": 3,
+      "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
       "summary": [
-        "Bloomberg Tech：英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
+        "Bloomberg Tech：英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
         "Financial Times：Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
+          "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
           "url": "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says"
         },
         {
@@ -346,7 +283,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "OpenAI 反訴蘋果竊取商業機密",
       "summary": [
         "Financial Times：OpenAI 反訴蘋果竊取商業機密",
@@ -367,7 +304,49 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "title": "FCC已授權SpaceX部署100萬顆衛星",
+      "summary": [
+        "Ars Technica：FCC已授權SpaceX部署100萬顆衛星",
+        "Wccftech：SpaceX 的 100 萬顆資料中心衛星獲得 FCC 批准，但將不需要的衛星停放在太陽周圍的計劃被擱置"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Ars Technica",
+          "title": "FCC已授權SpaceX部署100萬顆衛星",
+          "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+        },
+        {
+          "source": "Wccftech",
+          "title": "SpaceX 的 100 萬顆資料中心衛星獲得 FCC 批准，但將不需要的衛星停放在太陽周圍的計劃被擱置",
+          "url": "https://wccftech.com/spacexs-one-million-data-center-satellites-got-fcc-approval-but-plans-to-park-unneeded-satellites-around-the-sun-are-on-hold/"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
+      "summary": [
+        "The Guardian：加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
+        "Financial Times：加拿大維護禁止公共部門工作人員佩戴宗教標誌的法律"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT2cxcXk0cndGZjRuQlVTRDdYRGdSS0d1a3l2cU9UR21LTXBrX0d4SHBwUEp6UWFBaXNsTWMyRGY5b3FTSXFXOGg2ODNmM2EyRFVqQjdnQmxXdTR1MzBrakMzRDhoRXdkUlllYmw1QWVKbWIyMzBDZ19pS2RFVFdpcnpHSGhSQjczVFoxVkMzOFVFSndTVzdVbG5laVJmb201ZVBGTXVNVi1RNzhkNTFweEoydWRvRlZNc05TendNOUkxamtwdS1JcVp3UzRpM3V2R01JdERjMjA4dXM?oc=5"
+        },
+        {
+          "source": "Financial Times",
+          "title": "加拿大維護禁止公共部門工作人員佩戴宗教標誌的法律",
+          "url": "https://www.ft.com/content/240e1fe6-6c82-4d18-b73d-b0b52e7edae4?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "雷根國家機場兩架飛機折斷機翼",
       "summary": [
         "Washington Post：雷根國家機場兩架飛機折斷機翼",
@@ -388,32 +367,47 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "為什麼相干公司的股票今天飆升？",
+      "rank": 8,
+      "title": "為什麼Palantir Technologies股票今天會上漲？",
       "summary": [
-        "Investing.com：為什麼相干公司的股票今天飆升？"
+        "Investing.com：為什麼Palantir Technologies股票今天會上漲？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Investing.com",
-          "title": "為什麼相干公司的股票今天飆升？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-coherent-stock-surging-today-93CH-5053611"
+          "title": "為什麼Palantir Technologies股票今天會上漲？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-palantir-technologies-stock-rallying-today-93CH-5053635"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "FDA 延後腎臟藥物決定後 Vertex 股價下跌",
+      "summary": [
+        "Investing.com：FDA 延後腎臟藥物決定後 Vertex 股價下跌"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "FDA 延後腎臟藥物決定後 Vertex 股價下跌",
+          "url": "https://www.investing.com/news/stock-market-news/vertex-shares-drop-after-fda-delays-kidney-drug-decision-5053654"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "黑色星期五最佳遊戲筆記型電腦現場促銷",
+      "title": "黑色星期五期間目標股技術面",
       "summary": [
-        "Tom's Hardware：黑色星期五最佳遊戲筆記型電腦現場促銷"
+        "Investing.com：黑色星期五期間目標股技術面"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Tom's Hardware",
-          "title": "黑色星期五最佳遊戲筆記型電腦現場促銷",
-          "url": "https://www.tomshardware.com/live/news/best-black-friday-gaming-laptop-deals-live"
+          "source": "Investing.com",
+          "title": "黑色星期五期間目標股技術面",
+          "url": "https://www.investing.com/news/stock-market-news/target-stock-technicals-amid-black-friday-93CH-5053643"
         }
       ]
     }
