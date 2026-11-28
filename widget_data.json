@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-29 00:26",
+  "updated_at": "2026-11-29 00:56",
   "taiwan": [
     {
       "rank": 1,
@@ -200,22 +200,22 @@
     },
     {
       "rank": 9,
-      "title": "NVIDIA 傳暫停向東南亞四國出貨 AI 伺服器，美國出口管制延伸至遠端算力",
+      "title": "選票不夠保證金沒收！彰化縣長4候選人有2人拿不回",
       "summary": [
-        "INSIDE硬塞：NVIDIA 傳暫停向東南亞四國出貨 AI 伺服器，美國出口管制延伸至遠端算力",
-        "MoneyDJ理財網：NVIDIA 傳暫停向東南亞四國出貨AI 伺服器，美國出口管制延伸至遠端算力- 新聞"
+        "自由時報：選票不夠保證金沒收！彰化縣長4候選人有2人拿不回",
+        "ETtoday：「選政客不如選智障」候選人奪1022票！距領回10萬保證金僅差198票"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "INSIDE硬塞",
-          "title": "NVIDIA 傳暫停向東南亞四國出貨 AI 伺服器，美國出口管制延伸至遠端算力",
-          "url": "https://www.inside.com.tw/article/43032-nvidia-hits-pause-on-chip-shipments-to-southeast-asia"
+          "source": "自由時報",
+          "title": "選票不夠保證金沒收！彰化縣長4候選人有2人拿不回",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656552"
         },
         {
-          "source": "MoneyDJ理財網",
-          "title": "NVIDIA 傳暫停向東南亞四國出貨AI 伺服器，美國出口管制延伸至遠端算力- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSm5GUUVqZnhaa05ReHNJd2lYME8wMzJ6RHV6VEM2b1RYMFp1UVpDZnQtR1BOVDVFTnBMemt6QnBUcHR6b0EtcWc0UFRxLWloWDVjemdZYkNFTHV3SWt5ckhzN2ppTjB4M0FRR1YyTzBlbWY1YVhIb01EaWVhQ1dyZGdPSHJyVFB1eTZESkp1QlhIdw?oc=5"
+          "source": "ETtoday",
+          "title": "「選政客不如選智障」候選人奪1022票！距領回10萬保證金僅差198票",
+          "url": "https://www.ettoday.net/news/20261129/3280269.htm"
         }
       ]
     },
@@ -286,6 +286,27 @@
     },
     {
       "rank": 3,
+      "title": "美軍在英國皇家空軍基地擊退無人機",
+      "summary": [
+        "Financial Times：美軍在英國皇家空軍基地擊退無人機",
+        "Washington Post：美國擊退無人機入侵英國空軍基地"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "美軍在英國皇家空軍基地擊退無人機",
+          "url": "https://www.ft.com/content/57795d58-2b9e-45cb-81e3-6c63aee434a4?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Washington Post",
+          "title": "美國擊退無人機入侵英國空軍基地",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3RnSnlGM1lhRXp1eHlwSXFXQlNCbFhjVnRWLXF5Z0UxM1dOb3prU3B4dnFic0UyZVRmM1Nja3pDdldIUDhRdS1ZRVVzSUFZbDJ3SFlKTmt3aGpJSm83WHdwZFFlVjhiV1YydzJLaWMtLUhTa3hWZmNqcXhtcG9QWjVWYUpBNlJTbHNiZTdXdTFsSW93OElITnRQRlJ4bHcxVm15cA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "金正恩又要訪華？韓國情報機構稱密切關注",
       "summary": [
         "德國之聲：金正恩又要訪華？韓國情報機構稱密切關注",
@@ -306,7 +327,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "馬斯克表示，Google有興趣向 SpaceX 租用更多運算能力",
       "summary": [
         "Investing.com：馬斯克表示，Google有興趣向 SpaceX 租用更多運算能力",
@@ -327,7 +348,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "阿富汗官員稱爆炸造成7名學生死亡、近100人受傷",
       "summary": [
         "BBC World：阿富汗官員稱爆炸造成7名學生死亡、近100人受傷",
@@ -348,7 +369,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "無國界醫生表示，以色列對加薩醫療診所的攻擊造成兩名工作人員死亡",
       "summary": [
         "BBC World：無國界醫生表示，以色列對加薩醫療診所的攻擊造成兩名工作人員死亡",
@@ -369,7 +390,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "阿根廷停止福克蘭群島石油鑽探的提議被拒絕",
       "summary": [
         "BBC World：阿根廷停止福克蘭群島石油鑽探的提議被拒絕",
@@ -390,7 +411,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "沃爾瑪促銷程式碼：2026 年 11 月 20% 折扣",
       "summary": [
         "Wired：沃爾瑪促銷程式碼：2026 年 11 月 20% 折扣"
@@ -405,7 +426,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "黑色星期五最佳遊戲電腦現場促銷",
       "summary": [
         "Tom's Hardware：黑色星期五最佳遊戲電腦現場促銷"
@@ -416,21 +437,6 @@
           "source": "Tom's Hardware",
           "title": "黑色星期五最佳遊戲電腦現場促銷",
           "url": "https://www.tomshardware.com/live/news/black-friday-gaming-pc-deals-2026-day-two"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "我找到了最佳黑色星期五串流優惠（2026 年）：Apple TV、迪士尼、HBO Max",
-      "summary": [
-        "Wired：我找到了最佳黑色星期五串流優惠（2026 年）：Apple TV、迪士尼、HBO Max"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Wired",
-          "title": "我找到了最佳黑色星期五串流優惠（2026 年）：Apple TV、迪士尼、HBO Max",
-          "url": "https://www.wired.com/story/black-friday-streaming-deals-11-28-2026/"
         }
       ]
     }
