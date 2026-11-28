@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 13:56",
+  "updated_at": "2026-11-28 14:25",
   "taiwan": [
     {
       "rank": 1,
@@ -242,27 +242,6 @@
     },
     {
       "rank": 2,
-      "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
-      "summary": [
-        "Bloomberg Tech：英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
-        "Financial Times：Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says"
-        },
-        {
-          "source": "Financial Times",
-          "title": "Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍",
-          "url": "https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "FCC已授權SpaceX部署100萬顆衛星",
       "summary": [
         "Ars Technica：FCC已授權SpaceX部署100萬顆衛星",
@@ -283,7 +262,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
       "summary": [
         "The Guardian：加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
@@ -304,7 +283,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "雷根國家機場兩架飛機折斷機翼",
       "summary": [
         "Washington Post：雷根國家機場兩架飛機折斷機翼",
@@ -325,7 +304,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "黑色星期五最佳電腦組裝工具優惠",
       "summary": [
         "Tom's Hardware：黑色星期五最佳電腦組裝工具優惠"
@@ -340,7 +319,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Adobe 稱美國黑色星期五線上銷售額將突破 130 億美元",
       "summary": [
         "Investing.com：Adobe 稱美國黑色星期五線上銷售額將突破 130 億美元"
@@ -355,47 +334,62 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "桑普：港裔臺人參選限制多 暫難成氣候",
+      "rank": 7,
+      "title": "沃爾瑪促銷程式碼：2026 年 11 月 20% 折扣",
       "summary": [
-        "法廣RFI：桑普：港裔臺人參選限制多 暫難成氣候"
+        "Wired：沃爾瑪促銷程式碼：2026 年 11 月 20% 折扣"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "桑普：港裔臺人參選限制多 暫難成氣候",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E7%89%B9%E5%88%A5%E7%AF%80%E7%9B%AE/20261127-%E6%A1%91%E6%99%AE-%E6%B8%AF%E8%A3%94%E5%8F%B0%E4%BA%BA%E5%8F%83%E9%81%B8%E9%99%90%E5%88%B6%E5%A4%9A-%E6%9A%AB%E9%9B%A3%E6%88%90%E6%B0%A3%E5%80%99"
+          "source": "Wired",
+          "title": "沃爾瑪促銷程式碼：2026 年 11 月 20% 折扣",
+          "url": "https://www.wired.com/story/top-walmart-promo-codes/"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "川普幹預英偉達讓美股付出代價",
+      "summary": [
+        "Financial Times：川普幹預英偉達讓美股付出代價"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "川普幹預英偉達讓美股付出代價",
+          "url": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "比利時當局因缺乏許可證而命令谷歌停止資料中心建設",
+      "title": "護髮大亨赫爾曼·馬沙巴被任命為約翰內斯堡市長",
       "summary": [
-        "The Guardian：比利時當局因缺乏許可證而命令谷歌停止資料中心建設"
+        "Financial Times：護髮大亨赫爾曼·馬沙巴被任命為約翰內斯堡市長"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "The Guardian",
-          "title": "比利時當局因缺乏許可證而命令谷歌停止資料中心建設",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObDlxb085c3A5SVdEVmdRbk1iQ05RTFZ6cHRMZ0VFLU5SR3NlYV9YX084UjNNMWxPMk9JZ1FUd2huNk50V3pwRmRtY1h6dVFfZkRXTjNFcUtHWVhvdmRGaDNIODFnQ1gwd25CXzlxY2RDaVN2aUl6RDdjdWZMV040MXd5VkVxekVOLWhqdGVHS003QWtFbE96MVU2MUd3NlNoLUZTLU9UTi14SHdfbDVBdmdxLVNLbEFQX1FRdzRxTGx1M0VEVjd3aVo3dw?oc=5"
+          "source": "Financial Times",
+          "title": "護髮大亨赫爾曼·馬沙巴被任命為約翰內斯堡市長",
+          "url": "https://www.ft.com/content/9cdc5817-0c7f-42d0-a6ae-bfd7006e4c9b?syn-25a6b1a6=1"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "新墨西哥州一名懷孕囚犯從公務車輛中逃跑",
+      "title": "Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍",
       "summary": [
-        "Washington Post：新墨西哥州一名懷孕囚犯從公務車輛中逃跑"
+        "Financial Times：Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Washington Post",
-          "title": "新墨西哥州一名懷孕囚犯從公務車輛中逃跑",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMFlLSU5nNkVubHpCcUI0X1FfTlVxdk1FMVk1bHdNcVZZSUM4TnpZUk9TbVZvZFRmMjE0UkU2WkNqY0Q2OVFZS3h0cml6eER4dEhoTnlKOXh4VEd4THBKN1dzTHRYMzIzbGpwWXRlcHB4UndCNHQ0aG5tdEt6Ry13WnNZTW52ZzBpMnhPVGtOdW5XOW0yaVNUM2RMZ0N6NjNBanJKREpSU0czLUtDNkkwQmw2cUlFUQ?oc=5"
+          "source": "Financial Times",
+          "title": "Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍",
+          "url": "https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398?syn-25a6b1a6=1"
         }
       ]
     }
