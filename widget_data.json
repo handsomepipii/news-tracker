@@ -1,29 +1,8 @@
 {
-  "updated_at": "2026-11-28 13:25",
+  "updated_at": "2026-11-28 13:56",
   "taiwan": [
     {
       "rank": 1,
-      "title": "美空軍雲端平臺驚傳遭駭 戰術、人事與後勤資料恐外洩",
-      "summary": [
-        "經濟日報：美空軍雲端平臺驚傳遭駭 戰術、人事與後勤資料恐外洩",
-        "自由時報：美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "經濟日報",
-          "title": "美空軍雲端平臺驚傳遭駭 戰術、人事與後勤資料恐外洩",
-          "url": "https://money.udn.com/money/story/5599/9906764"
-        },
-        {
-          "source": "自由時報",
-          "title": "美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5655976"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "天氣/投票日先放晴再轉涼週日北臺灣降溫較多\"掉3-5度\" 晨探15度下下週回溫明顯高溫上看30度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：天氣/投票日先放晴再轉涼週日北臺灣降溫較多\"掉3-5度\" 晨探15度下下週回溫明顯高溫上看30度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -44,28 +23,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "科技股續漲帶動　歐股收紅結束震盪一週",
-      "summary": [
-        "自由時報：科技股續漲帶動　歐股收紅結束震盪一週",
-        "經濟日報：科技股續漲帶動　歐股收紅結束震盪一週"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "科技股續漲帶動　歐股收紅結束震盪一週",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5655962"
-        },
-        {
-          "source": "經濟日報",
-          "title": "科技股續漲帶動　歐股收紅結束震盪一週",
-          "url": "https://money.udn.com/money/story/5599/9906914"
-        }
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "title": "無人機襲科威特釀2義大利人死亡　聯合國秘書長籲各方剋制",
       "summary": [
         "自由時報：無人機襲科威特釀2義大利人死亡　聯合國秘書長籲各方剋制",
@@ -86,7 +44,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "川普挺到底！出席臺積電亞利桑那新廠動土　想帶黃仁勳一起去",
       "summary": [
         "ETtoday：川普挺到底！出席臺積電亞利桑那新廠動土　想帶黃仁勳一起去",
@@ -107,7 +65,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
       "summary": [
         "自由時報：感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
@@ -128,7 +86,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "AI股帶領科技股跌深勁彈　美股收紅",
       "summary": [
         "自由時報：AI股帶領科技股跌深勁彈　美股收紅",
@@ -149,7 +107,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "11／28九合一選舉、公投登場！投票三寶、時間與首投族注意事項全攻略- 要聞",
       "summary": [
         "工商時報：11／28九合一選舉、公投登場！投票三寶、時間與首投族注意事項全攻略- 要聞",
@@ -170,7 +128,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "新北黑心護理之家 還想找點擴大超收",
       "summary": [
         "自由時報：新北黑心護理之家 還想找點擴大超收",
@@ -191,7 +149,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "傳南韓國情院為營救情報員 擬向中國提供臺灣情資惹美震怒",
       "summary": [
         "自由時報：傳南韓國情院為營救情報員 擬向中國提供臺灣情資惹美震怒",
@@ -208,6 +166,48 @@
           "source": "ETtoday",
           "title": "南韓爆向中國提供「臺灣機密」救情報員　惹怒美國",
           "url": "https://www.ettoday.net/news/20261128/3279729.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "烏克蘭雷射防空武器首傳戰果　擊落俄羅斯噴射無人機",
+      "summary": [
+        "經濟日報：烏克蘭雷射防空武器首傳戰果　擊落俄羅斯噴射無人機",
+        "自由時報：烏克蘭雷射防空武器首傳戰果 擊落俄羅斯噴射無人機"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "經濟日報",
+          "title": "烏克蘭雷射防空武器首傳戰果　擊落俄羅斯噴射無人機",
+          "url": "https://money.udn.com/money/story/5599/9907006"
+        },
+        {
+          "source": "自由時報",
+          "title": "烏克蘭雷射防空武器首傳戰果 擊落俄羅斯噴射無人機",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5655978"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "12強》晉級告急！遭英國完封太傷 中國隊教頭說話了",
+      "summary": [
+        "自由時報：12強》晉級告急！遭英國完封太傷 中國隊教頭說話了",
+        "ETtoday：中國隊12強門票告急！遭英國一安打完封　教頭嘆沒打出自身風格"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "12強》晉級告急！遭英國完封太傷 中國隊教頭說話了",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5655955"
+        },
+        {
+          "source": "ETtoday",
+          "title": "中國隊12強門票告急！遭英國一安打完封　教頭嘆沒打出自身風格",
+          "url": "https://sports.ettoday.net/news/3279774"
         }
       ]
     }
@@ -356,46 +356,46 @@
     },
     {
       "rank": 8,
-      "title": "為什麼整個歐洲都應該關注西班牙極右翼 Vox 的掌權 |伊根吉爾馬丁",
+      "title": "桑普：港裔臺人參選限制多 暫難成氣候",
       "summary": [
-        "The Guardian：為什麼整個歐洲都應該關注西班牙極右翼 Vox 的掌權 |伊根吉爾馬丁"
+        "法廣RFI：桑普：港裔臺人參選限制多 暫難成氣候"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "The Guardian",
-          "title": "為什麼整個歐洲都應該關注西班牙極右翼 Vox 的掌權 |伊根吉爾馬丁",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOG51WW1CUVpUVjFRWHNtUFREMElRZEtmV0hmVFA2U21GWEMxWUxtS3dVMkxsbXphdm9tWElXQWh3NDlOYlI0SEpsLTBHb3Fhb1o5dWRmWTRpTTNhT0F0blE3VzVJWjhsSkNWVU00aHZIc3lTaUJGNWxtR1hlMnZaYzQ4MDBmeS1qekNpdmU1RzMzVDhPenpITDJDNDNvV2ZlUHVFUWFlRHlnbFZYS0ZqeUY1Qm8?oc=5"
+          "source": "法廣RFI",
+          "title": "桑普：港裔臺人參選限制多 暫難成氣候",
+          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E7%89%B9%E5%88%A5%E7%AF%80%E7%9B%AE/20261127-%E6%A1%91%E6%99%AE-%E6%B8%AF%E8%A3%94%E5%8F%B0%E4%BA%BA%E5%8F%83%E9%81%B8%E9%99%90%E5%88%B6%E5%A4%9A-%E6%9A%AB%E9%9B%A3%E6%88%90%E6%B0%A3%E5%80%99"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "智庫稱，俄羅斯破壞活動增多，歐洲可能發生“大規模傷亡事件”",
+      "title": "比利時當局因缺乏許可證而命令谷歌停止資料中心建設",
       "summary": [
-        "The Guardian：智庫稱，俄羅斯破壞活動增多，歐洲可能發生“大規模傷亡事件”"
+        "The Guardian：比利時當局因缺乏許可證而命令谷歌停止資料中心建設"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "The Guardian",
-          "title": "智庫稱，俄羅斯破壞活動增多，歐洲可能發生“大規模傷亡事件”",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQckNGajRKWDh1VXh1QU9GOWVpSExSRnJqX0pwbG5SZElCeXpBUUs3N3FNREZlX2xCMmp0ZHdsdmlsd0U1SnRRbl9WY185amVBZ2VOQm5haTFSNkE4QjhJNFBWTC16NDg0d2ZjU0czbDJQLTNmYUVGOG11Q01pd1N4bWNKR0FtazVlY05vV1R6bGFWcEtfMzBGNDBmVlhXVXRqbl9sdERFYlBmU3BWb2ZORWR6cw?oc=5"
+          "title": "比利時當局因缺乏許可證而命令谷歌停止資料中心建設",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObDlxb085c3A5SVdEVmdRbk1iQ05RTFZ6cHRMZ0VFLU5SR3NlYV9YX084UjNNMWxPMk9JZ1FUd2huNk50V3pwRmRtY1h6dVFfZkRXTjNFcUtHWVhvdmRGaDNIODFnQ1gwd25CXzlxY2RDaVN2aUl6RDdjdWZMV040MXd5VkVxekVOLWhqdGVHS003QWtFbE96MVU2MUd3NlNoLUZTLU9UTi14SHdfbDVBdmdxLVNLbEFQX1FRdzRxTGx1M0VEVjd3aVo3dw?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "黃仁勳下一步的行動可能會影響全球人工智慧主導地位的競爭",
+      "title": "新墨西哥州一名懷孕囚犯從公務車輛中逃跑",
       "summary": [
-        "Washington Post：黃仁勳下一步的行動可能會影響全球人工智慧主導地位的競爭"
+        "Washington Post：新墨西哥州一名懷孕囚犯從公務車輛中逃跑"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Washington Post",
-          "title": "黃仁勳下一步的行動可能會影響全球人工智慧主導地位的競爭",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVVId25KSXJqbHR2LXZBTmhILXQzU1RYQnFfSjVaWDE5ODROSGFLN295dHRlNEJUeHNIaUlxSzktR2hzZzVWcGVKaE5Kb2tObGFXUzlJb25BY1M3MXpoTjJtWTUzZnZMSVNPa2NNNS15UzcxOWppNFVWZU00WWdudDA5aXMzLXdoRVBTMzUtaXZVcVV3amlRcm5BSUVMUUxJZ2xBdGZxR3diNWhnT2MyVC16b1J0bDl5Rmc?oc=5"
+          "title": "新墨西哥州一名懷孕囚犯從公務車輛中逃跑",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMFlLSU5nNkVubHpCcUI0X1FfTlVxdk1FMVk1bHdNcVZZSUM4TnpZUk9TbVZvZFRmMjE0UkU2WkNqY0Q2OVFZS3h0cml6eER4dEhoTnlKOXh4VEd4THBKN1dzTHRYMzIzbGpwWXRlcHB4UndCNHQ0aG5tdEt6Ry13WnNZTW52ZzBpMnhPVGtOdW5XOW0yaVNUM2RMZ0N6NjNBanJKREpSU0czLUtDNkkwQmw2cUlFUQ?oc=5"
         }
       ]
     }
