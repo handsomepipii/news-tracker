@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-29 00:56",
+  "updated_at": "2026-11-29 01:25",
   "taiwan": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
         "商業周刊：2026九合一選舉開票結果》22縣市長當選名單、得票數、投票率一次看－商周頭條｜商周",
         "財訊：2026九合一大選》全臺22縣市長選舉結果一次看！最新開票進度及當選名單持續更新"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
           "source": "TVBS新聞",
@@ -30,6 +30,11 @@
           "source": "今周刊",
           "title": "2026九合一大選》全臺22縣市長當選名單一次看！最新藍綠版圖「藍10綠9」，開票進度及當選名單持續更新",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSGVXQmtfdmFFS28zZS1ZMGdLdnR5LWNBV1JmTzJNaE9fa0R2UFZfd2JXeDRULTA2VEhFZ2I2ZHlvQzhOMzhWQTdfTHBTN0ZqaDVrT1VLbFZDRHVPRFRVcUNtbDhTeDVhMkJ4N3VibTRfR1RGWTJRR0NSOVU0M0NRYQ?oc=5"
+        },
+        {
+          "source": "數位時代",
+          "title": "2026九合一選舉結果｜全臺22縣市長當選名單、候選人得票數、得票率及投票率一次看",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85UHMzck13bDdyTXU5S2lUN0oyaExObXdpYkVuNTZ5ZXJZaFgtaVUxcFlDYlozVjI1MDdvaVV2bEpUajd2Q2t5Nk5JYzl5OTV5ZXp1NG11RXFmZktPUEFTYmZTenlYZFNfM21WTHM1U2I5NExPNVFVVTJWdGlQdw?oc=5"
         }
       ]
     },
@@ -116,6 +121,33 @@
     },
     {
       "rank": 5,
+      "title": "173票輸掉雲林縣長  張嘉郡：儘速聲請驗票",
+      "summary": [
+        "自由時報：173票輸掉雲林縣長  張嘉郡：儘速聲請驗票",
+        "ETtoday：快訊／雲林縣長差173票！張嘉郡出面提驗票：廢票高達8000多張",
+        "TVBS新聞：雲林縣長劉建國173票驚險勝出！張嘉郡將提驗票：廢票高達8千多張"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "173票輸掉雲林縣長  張嘉郡：儘速聲請驗票",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5657039"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／雲林縣長差173票！張嘉郡出面提驗票：廢票高達8000多張",
+          "url": "https://www.ettoday.net/news/20261128/3280272.htm"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "雲林縣長劉建國173票驚險勝出！張嘉郡將提驗票：廢票高達8千多張",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMeXEtQVdUWTVzQ1NnVWpVQjRFamQ5Zk9DYlpRSEl4Rk1HLUNyT1g2dTdrVEFmZFRpM0F3VnhkemJOekluWmQ0WEJqNG9MMG9VWEkw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "新竹縣長開票激戰中  鄭朝方暫時領先！（不斷更新）",
       "summary": [
         "自由時報：新竹縣長開票激戰中  鄭朝方暫時領先！（不斷更新）",
@@ -136,7 +168,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "「廢除非核家園」公投即將透過！雙門檻皆達成",
       "summary": [
         "自由時報：「廢除非核家園」公投即將透過！雙門檻皆達成",
@@ -157,7 +189,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "西班牙耶羅島移民船難 釀14死、84人生還｜20261128 公視午間新聞 ｜ 公視新聞 PNN",
       "summary": [
         "公視新聞：西班牙耶羅島移民船難 釀14死、84人生還｜20261128 公視午間新聞 ｜ 公視新聞 PNN",
@@ -178,7 +210,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "臺中市開票不斷更新》盧秀燕交棒誰？江啟臣、何欣純最新票數一次看- 政治",
       "summary": [
         "中時新聞：臺中市開票不斷更新》盧秀燕交棒誰？江啟臣、何欣純最新票數一次看- 政治",
@@ -199,7 +231,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "選票不夠保證金沒收！彰化縣長4候選人有2人拿不回",
       "summary": [
         "自由時報：選票不夠保證金沒收！彰化縣長4候選人有2人拿不回",
@@ -216,27 +248,6 @@
           "source": "ETtoday",
           "title": "「選政客不如選智障」候選人奪1022票！距領回10萬保證金僅差198票",
           "url": "https://www.ettoday.net/news/20261129/3280269.htm"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "北市「章魚裡」湧投票潮！ 天玉里民直呼選情超熱：人潮比以往多2.5至3倍",
-      "summary": [
-        "自由時報：北市「章魚裡」湧投票潮！ 天玉里民直呼選情超熱：人潮比以往多2.5至3倍",
-        "今周刊：「章魚裡」天玉里投票結果好關鍵！里民排隊喊體感人潮多3倍…過去兩次開票和全北市得票有多接近？"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "北市「章魚裡」湧投票潮！ 天玉里民直呼選情超熱：人潮比以往多2.5至3倍",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656274"
-        },
-        {
-          "source": "今周刊",
-          "title": "「章魚裡」天玉里投票結果好關鍵！里民排隊喊體感人潮多3倍…過去兩次開票和全北市得票有多接近？",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkxxVW12RktmczZQb0FoZEVWdE1KMzgycldIY1BFOURGRHhVbUxKa1FHZXAxTzNnVHFZNTJ3c1lqQzJuc0loaGdkZmEzeFA5OGZLQTA5YlFPVnoyZWNpajAxeVE3SXRMSVVlN1pOeE1LWlhuS19vU1ZkM2xNTW5laQ?oc=5"
         }
       ]
     }
