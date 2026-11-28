@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 08:27",
+  "updated_at": "2026-11-28 08:56",
   "taiwan": [
     {
       "rank": 1,
@@ -238,33 +238,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
-      "summary": [
-        "Bloomberg Tech：Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
-        "Investing.com：上海資料中心與 Alice Huang 發現相關的 Nvidia Blackwell 晶片",
-        "Yahoo Finance：Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "Bloomberg Tech",
-          "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-video"
-        },
-        {
-          "source": "Investing.com",
-          "title": "上海資料中心與 Alice Huang 發現相關的 Nvidia Blackwell 晶片",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-blackwell-chips-found-in-shanghai-data-center-tied-to-alice-huang-5053414"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV3pxZ1JQb19TUl83aU9NZDBDQlV3M2ZPOFg3bVlSVXgxZHlMWTVObzlmNTBWa0w4YXB0M1VoemRXYTg5cEtITl9jMzJQLVZuWEQyM005alFFYzB0bDNtSW1SS1V1cjF6MlhYSmNJWEZUeFpfOGR4bWJlc0M3Y2tjbWExUUwyekhoWV9EM0JNd2dRVFdJMEY2Q3h3?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "加拿大最高法院基本上維持魁北克禁止公務員使用宗教標誌的禁令",
       "summary": [
         "BBC World：加拿大最高法院基本上維持魁北克禁止公務員使用宗教標誌的禁令",
@@ -291,7 +264,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "2026 年黑色星期五最佳遊戲顯示器優惠",
       "summary": [
         "Tom's Hardware：2026 年黑色星期五最佳遊戲顯示器優惠",
@@ -312,7 +285,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "廉價航空公司挪威大西洋航空公司因未能獲得資金而在歐洲申請破產",
       "summary": [
         "CNBC：廉價航空公司挪威大西洋航空公司因未能獲得資金而在歐洲申請破產",
@@ -333,7 +306,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "川普捍衛普丁的友誼，澤倫斯基稱這種友誼“奇怪”",
       "summary": [
         "Washington Post：川普捍衛普丁的友誼，澤倫斯基稱這種友誼“奇怪”",
@@ -354,7 +327,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "人工智慧如何改變黑色星期五",
       "summary": [
         "Bloomberg Tech：人工智慧如何改變黑色星期五",
@@ -375,7 +348,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
       "summary": [
         "The Verge：黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
@@ -396,7 +369,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
       "summary": [
         "Bloomberg Tech：英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
@@ -417,7 +390,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "OpenAI 反訴蘋果竊取商業機密",
       "summary": [
         "Financial Times：OpenAI 反訴蘋果竊取商業機密",
@@ -438,7 +411,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "為什麼嘉能可股票今天上漲？",
       "summary": [
         "Investing.com：為什麼嘉能可股票今天上漲？"
@@ -449,6 +422,21 @@
           "source": "Investing.com",
           "title": "為什麼嘉能可股票今天上漲？",
           "url": "https://www.investing.com/news/stock-market-news/why-is-glencore-stock-rallying-today-93CH-5053532"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黑色星期五最佳遊戲筆記型電腦現場促銷",
+      "summary": [
+        "Tom's Hardware：黑色星期五最佳遊戲筆記型電腦現場促銷"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "黑色星期五最佳遊戲筆記型電腦現場促銷",
+          "url": "https://www.tomshardware.com/live/news/best-black-friday-gaming-laptop-deals-live"
         }
       ]
     }
