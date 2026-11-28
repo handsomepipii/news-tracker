@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 20:55",
+  "updated_at": "2026-11-28 21:25",
   "taiwan": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
         "工商時報：不斷更新》2026九合一大選開票直播縣市長投票結果一次看- 要聞",
         "商業周刊：2026九合一選舉開票結果》22縣市長當選名單、得票數、投票率一次看－商周頭條｜商周"
       ],
-      "media_count": 4,
+      "media_count": 5,
       "links": [
         {
           "source": "TVBS新聞",
@@ -30,11 +30,43 @@
           "source": "財訊",
           "title": "2026九合一大選》全臺22縣市長選舉結果一次看！最新開票進度及當選名單持續更新",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PLVlfTTFYMVAwWHN1MFFSMHBSc08wWXRITmZFM0pCY2VYYnZXYXpKRFliakRyZVg4UC1IcFB1ajYtZjM5b21LRTdGazByUjhBcGwzVFdHMmszUks0Vkh5R1o2X3VXSjRvbkkycmIyM0I2SFF0bUg0UlE1dw?oc=5"
+        },
+        {
+          "source": "公視新聞",
+          "title": "2026 九合一大選即時開票不斷更新｜公視新聞 ｜ 公視新聞 PNN",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YVzdSWGNlcUF4TXpMcGhaZUF3cVg4YW5hWE1adUpScGtDbWdDRVVYVk9QSE1kWW1SczRTdHRtNFUyZHRWZVdZ?oc=5"
         }
       ]
     },
     {
       "rank": 2,
+      "title": "何欣純現身投票所！曝昨夜回家煮餛飩湯當宵夜　盼迎臺中「欣開始」",
+      "summary": [
+        "ETtoday：何欣純現身投票所！曝昨夜回家煮餛飩湯當宵夜　盼迎臺中「欣開始」",
+        "MoneyDJ理財網：寶得利公告本公司總經理異動- 新聞",
+        "工商時報：獨》選後延續經貿交流兩岸企業家峰會12／8廈門登場- 兩岸"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "何欣純現身投票所！曝昨夜回家煮餛飩湯當宵夜　盼迎臺中「欣開始」",
+          "url": "https://www.ettoday.net/news/20261128/3279811.htm"
+        },
+        {
+          "source": "MoneyDJ理財網",
+          "title": "寶得利公告本公司總經理異動- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONGdPQzZqZVc0NnBERnVYTktXcUY2RzJfeVpIbzY5T19pOTJCOTR6V1h2MEM1aGlTenppZF8xZ2llRHhUazZsZ2FsLXNEV3IwR0tSZ1ItRnVLaGN3M01nNmpsNkZlSzM5TURLSWJEcjRya0FDYnhtRkZfX2hoQUVvWk1PSTd6U3ZxVzN3TW1LWHdxdw?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "獨》選後延續經貿交流兩岸企業家峰會12／8廈門登場- 兩岸",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05R2ZoYkNJVDZ4RUNrY21KSzV5b2ZjRTBjeEN4bU5mYlFmeVlxbkxBNW9Bbzkwb2V1ODk1NFJTUjVkMEZDMkhmSFhEVkFiOHBCWV9NM0JQU2VvcUV5Nzl3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "連江縣長拚連任 王忠銘獲逾4000票17:06自行宣佈當選",
       "summary": [
         "自由時報：連江縣長拚連任 王忠銘獲逾4000票17:06自行宣佈當選",
@@ -61,7 +93,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "鍾明軒投票日發長文！被檢舉違反《選罷法》最高恐罰100萬",
       "summary": [
         "自由時報：鍾明軒投票日發長文！被檢舉違反《選罷法》最高恐罰100萬",
@@ -88,7 +120,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "關心臺南投票率 陳水扁憂：聽說臺北投票率不高",
       "summary": [
         "自由時報：關心臺南投票率 陳水扁憂：聽說臺北投票率不高",
@@ -115,49 +147,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "何欣純現身投票所！曝昨夜回家煮餛飩湯當宵夜　盼迎臺中「欣開始」",
-      "summary": [
-        "ETtoday：何欣純現身投票所！曝昨夜回家煮餛飩湯當宵夜　盼迎臺中「欣開始」",
-        "MoneyDJ理財網：寶得利公告本公司總經理異動- 新聞"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "何欣純現身投票所！曝昨夜回家煮餛飩湯當宵夜　盼迎臺中「欣開始」",
-          "url": "https://www.ettoday.net/news/20261128/3279811.htm"
-        },
-        {
-          "source": "MoneyDJ理財網",
-          "title": "寶得利公告本公司總經理異動- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONGdPQzZqZVc0NnBERnVYTktXcUY2RzJfeVpIbzY5T19pOTJCOTR6V1h2MEM1aGlTenppZF8xZ2llRHhUazZsZ2FsLXNEV3IwR0tSZ1ItRnVLaGN3M01nNmpsNkZlSzM5TURLSWJEcjRya0FDYnhtRkZfX2hoQUVvWk1PSTd6U3ZxVzN3TW1LWHdxdw?oc=5"
-        }
-      ]
-    },
-    {
       "rank": 6,
-      "title": "蘇巧慧一早投票先摸這裡「帶好運」 讚臺灣民主成熟",
-      "summary": [
-        "自由時報：蘇巧慧一早投票先摸這裡「帶好運」 讚臺灣民主成熟",
-        "ETtoday：快訊／蘇巧慧一早現身投票　看到人潮很感動：臺灣民主成熟了"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "蘇巧慧一早投票先摸這裡「帶好運」 讚臺灣民主成熟",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656017"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／蘇巧慧一早現身投票　看到人潮很感動：臺灣民主成熟了",
-          "url": "https://www.ettoday.net/news/20261128/3279747.htm"
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "title": "西班牙耶羅島移民船難 釀14死、84人生還｜20261128 公視午間新聞 ｜ 公視新聞 PNN",
       "summary": [
         "公視新聞：西班牙耶羅島移民船難 釀14死、84人生還｜20261128 公視午間新聞 ｜ 公視新聞 PNN",
@@ -178,7 +168,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "臺中市開票不斷更新》盧秀燕交棒誰？江啟臣、何欣純最新票數一次看- 政治",
       "summary": [
         "中時新聞：臺中市開票不斷更新》盧秀燕交棒誰？江啟臣、何欣純最新票數一次看- 政治",
@@ -199,44 +189,65 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "今晨國際頭條／上海驚見輝達Blackwell晶片　OpenAI反告蘋果竊密",
+      "rank": 8,
+      "title": "沈伯洋攜妻女現身投票！曝遲到半小時原因：小麻糬太興奮半夜才睡",
       "summary": [
-        "ETtoday：今晨國際頭條／上海驚見輝達Blackwell晶片　OpenAI反告蘋果竊密",
-        "經濟日報：OpenAI反告蘋果　控竊商業機密"
+        "自由時報：沈伯洋攜妻女現身投票！曝遲到半小時原因：小麻糬太興奮半夜才睡",
+        "ETtoday：魏平政一早陪媽媽投票！心情陽光燦爛...選前之夜吃宵夜睡得香"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "ETtoday",
-          "title": "今晨國際頭條／上海驚見輝達Blackwell晶片　OpenAI反告蘋果竊密",
-          "url": "https://www.ettoday.net/news/20261128/3279748.htm"
+          "source": "自由時報",
+          "title": "沈伯洋攜妻女現身投票！曝遲到半小時原因：小麻糬太興奮半夜才睡",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656043"
         },
         {
+          "source": "ETtoday",
+          "title": "魏平政一早陪媽媽投票！心情陽光燦爛...選前之夜吃宵夜睡得香",
+          "url": "https://www.ettoday.net/news/20261128/3279792.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "美軍擊癱試圖駛離伊朗商船　德黑蘭誓言突破美國封鎖",
+      "summary": [
+        "經濟日報：美軍擊癱試圖駛離伊朗商船　德黑蘭誓言突破美國封鎖",
+        "ETtoday：商船試圖駛離伊朗遭美軍擊癱　德黑蘭誓言突破美國封鎖"
+      ],
+      "media_count": 2,
+      "links": [
+        {
           "source": "經濟日報",
-          "title": "OpenAI反告蘋果　控竊商業機密",
-          "url": "https://money.udn.com/money/story/5599/9907103"
+          "title": "美軍擊癱試圖駛離伊朗商船　德黑蘭誓言突破美國封鎖",
+          "url": "https://money.udn.com/money/story/5599/9907102"
+        },
+        {
+          "source": "ETtoday",
+          "title": "商船試圖駛離伊朗遭美軍擊癱　德黑蘭誓言突破美國封鎖",
+          "url": "https://www.ettoday.net/news/20261128/3279854.htm"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "川普：黃仁勳不是國安威脅！　親曝「他完全沒問題」",
+      "title": "蔣萬安父母一起投票　黃美倫：我充滿信心",
       "summary": [
-        "ETtoday：川普：黃仁勳不是國安威脅！　親曝「他完全沒問題」",
-        "今周刊：「黃仁勳絕對沒問題」！川普稱不構成國安威脅才出手，介入輝達人事自豪喊：為全世界做很棒的事"
+        "ETtoday：蔣萬安父母一起投票　黃美倫：我充滿信心",
+        "自由時報：巧合撞點沈伯洋！蔣萬安父母金華國中投票 黃美倫：充滿信心"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "ETtoday",
-          "title": "川普：黃仁勳不是國安威脅！　親曝「他完全沒問題」",
-          "url": "https://www.ettoday.net/news/20261128/3279749.htm"
+          "title": "蔣萬安父母一起投票　黃美倫：我充滿信心",
+          "url": "https://www.ettoday.net/news/20261128/3279807.htm"
         },
         {
-          "source": "今周刊",
-          "title": "「黃仁勳絕對沒問題」！川普稱不構成國安威脅才出手，介入輝達人事自豪喊：為全世界做很棒的事",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONUItUGQ3Sl9LajJzWnVyU3Z0bEZxZUhtOHBMZ2ZOSkRFaEJKZmRySnI2M2RYUW1VV3lCSEJ1bGh1cDB3WWVaejViUHdlWEpWSC1fWlNTQUh3WXA5c3JaVndxVW81Wkxqa2lQOTU5eEk5dEVMVEZFaFJCZWM0djU3SA?oc=5"
+          "source": "自由時報",
+          "title": "巧合撞點沈伯洋！蔣萬安父母金華國中投票 黃美倫：充滿信心",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656175"
         }
       ]
     }
@@ -265,90 +276,6 @@
     },
     {
       "rank": 2,
-      "title": "雷根國家機場兩架飛機折斷機翼",
-      "summary": [
-        "Washington Post：雷根國家機場兩架飛機折斷機翼",
-        "Investing.com：美國航空噴射機在雷根國家機場滑行道上折斷機翼"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Washington Post",
-          "title": "雷根國家機場兩架飛機折斷機翼",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU1JBQ1NyNU5ldGtkRDVpMDY4QmQtU2s0T1Q4VnJMS01IQUtIa2Qtd01BMVNaVktUY3g2Qml2bnY4WmlXdVc4YUEyMkh5ekxyZWhsVjVPbU54X3B2OUwwOFRia3pwTmNDRGRyRFExdzc5Y0lQWXNWM3ZhTjJCY1FHdEVRSmhJSUVBZlpQSHBiT290akFrTjRXWElEeWVmQQ?oc=5"
-        },
-        {
-          "source": "Investing.com",
-          "title": "美國航空噴射機在雷根國家機場滑行道上折斷機翼",
-          "url": "https://www.investing.com/news/stock-market-news/american-airlines-jets-clip-wings-on-taxiway-at-reagan-national-airport-5054097"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "OpenAI 反訴蘋果涉嫌竊取商業機密",
-      "summary": [
-        "The Guardian：OpenAI 反訴蘋果涉嫌竊取商業機密",
-        "BBC World：OpenAI 反訴蘋果涉嫌竊取商業機密"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "OpenAI 反訴蘋果涉嫌竊取商業機密",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSXFKVXgwaFUxNkE1Y1VESzlmazB2TXgxNW1KM28yUjJVZDZFamRUMXRCdDJscGtxT2ZPUnVpeTJiV0FRazA2RjdNZnZRLUVnS0wzOG1YSFd4UXdYTklUZjRBZzNYVkN3eGllVDhIVkFyUlJ4WnlLYU4wTXdpT1J3SEYyZkRSNklRTHNHZEVXLXMyaXc?oc=5"
-        },
-        {
-          "source": "BBC World",
-          "title": "OpenAI 反訴蘋果涉嫌竊取商業機密",
-          "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "金正恩又要訪華？韓國情報機構稱密切關注",
-      "summary": [
-        "德國之聲：金正恩又要訪華？韓國情報機構稱密切關注",
-        "法廣RFI：韓國情報部門：密切關注金正恩可能訪華的各種動態"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "德國之聲",
-          "title": "金正恩又要訪華？韓國情報機構稱密切關注",
-          "url": "https://www.dw.com/zh/金正恩又要访华？韩国情报机构称密切关注/a-80083800?maca=chi-rss-chi-all-1127-rdf"
-        },
-        {
-          "source": "法廣RFI",
-          "title": "韓國情報部門：密切關注金正恩可能訪華的各種動態",
-          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261128-%E9%9F%93%E5%9C%8B%E6%83%85%E5%A0%B1%E9%83%A8%E9%96%80-%E5%AF%86%E5%88%87%E9%97%9C%E6%B3%A8%E9%87%91%E6%AD%A3%E6%81%A9%E5%8F%AF%E8%83%BD%E8%A8%AA%E8%8F%AF%E7%9A%84%E5%90%84%E7%A8%AE%E5%8B%95%E6%85%8B"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "無國界醫生表示，以色列對加薩醫療診所的攻擊造成兩名工作人員死亡",
-      "summary": [
-        "BBC World：無國界醫生表示，以色列對加薩醫療診所的攻擊造成兩名工作人員死亡",
-        "Financial Times：以色列罷工導致加薩無國界醫生兩名工作人員死亡"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "BBC World",
-          "title": "無國界醫生表示，以色列對加薩醫療診所的攻擊造成兩名工作人員死亡",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Financial Times",
-          "title": "以色列罷工導致加薩無國界醫生兩名工作人員死亡",
-          "url": "https://www.ft.com/content/b50e55af-58a3-452b-a282-4d4be735229c?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "臺灣地方選舉：沈伯洋承認在臺北市長選舉中敗選",
       "summary": [
         "法廣RFI：臺灣地方選舉：沈伯洋承認在臺北市長選舉中敗選",
@@ -369,7 +296,112 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "雷根國家機場兩架飛機折斷機翼",
+      "summary": [
+        "Washington Post：雷根國家機場兩架飛機折斷機翼",
+        "Investing.com：美國航空噴射機在雷根國家機場滑行道上折斷機翼"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "雷根國家機場兩架飛機折斷機翼",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU1JBQ1NyNU5ldGtkRDVpMDY4QmQtU2s0T1Q4VnJMS01IQUtIa2Qtd01BMVNaVktUY3g2Qml2bnY4WmlXdVc4YUEyMkh5ekxyZWhsVjVPbU54X3B2OUwwOFRia3pwTmNDRGRyRFExdzc5Y0lQWXNWM3ZhTjJCY1FHdEVRSmhJSUVBZlpQSHBiT290akFrTjRXWElEeWVmQQ?oc=5"
+        },
+        {
+          "source": "Investing.com",
+          "title": "美國航空噴射機在雷根國家機場滑行道上折斷機翼",
+          "url": "https://www.investing.com/news/stock-market-news/american-airlines-jets-clip-wings-on-taxiway-at-reagan-national-airport-5054097"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "SpaceX 的 100 萬顆資料中心衛星獲得 FCC 批准，但將不需要的衛星停放在太陽周圍的計劃被擱置",
+      "summary": [
+        "Wccftech：SpaceX 的 100 萬顆資料中心衛星獲得 FCC 批准，但將不需要的衛星停放在太陽周圍的計劃被擱置",
+        "Tom's Hardware：FCC 批准伊隆馬斯克的 100 萬顆衛星「Starmind」軌道資料中心計劃"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Wccftech",
+          "title": "SpaceX 的 100 萬顆資料中心衛星獲得 FCC 批准，但將不需要的衛星停放在太陽周圍的計劃被擱置",
+          "url": "https://wccftech.com/spacexs-one-million-data-center-satellites-got-fcc-approval-but-plans-to-park-unneeded-satellites-around-the-sun-are-on-hold/"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "FCC 批准伊隆馬斯克的 100 萬顆衛星「Starmind」軌道資料中心計劃",
+          "url": "https://www.tomshardware.com/tech-industry/space/fcc-approves-elon-musks-1-million-satellite-starmind-orbital-data-center-plan-first-747-sized-compute-unit-due-by-2033-despite-kessler-syndrome-fears"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "OpenAI 反訴蘋果涉嫌竊取商業機密",
+      "summary": [
+        "The Guardian：OpenAI 反訴蘋果涉嫌竊取商業機密",
+        "BBC World：OpenAI 反訴蘋果涉嫌竊取商業機密"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "OpenAI 反訴蘋果涉嫌竊取商業機密",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSXFKVXgwaFUxNkE1Y1VESzlmazB2TXgxNW1KM28yUjJVZDZFamRUMXRCdDJscGtxT2ZPUnVpeTJiV0FRazA2RjdNZnZRLUVnS0wzOG1YSFd4UXdYTklUZjRBZzNYVkN3eGllVDhIVkFyUlJ4WnlLYU4wTXdpT1J3SEYyZkRSNklRTHNHZEVXLXMyaXc?oc=5"
+        },
+        {
+          "source": "BBC World",
+          "title": "OpenAI 反訴蘋果涉嫌竊取商業機密",
+          "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "金正恩又要訪華？韓國情報機構稱密切關注",
+      "summary": [
+        "德國之聲：金正恩又要訪華？韓國情報機構稱密切關注",
+        "法廣RFI：韓國情報部門：密切關注金正恩可能訪華的各種動態"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "金正恩又要訪華？韓國情報機構稱密切關注",
+          "url": "https://www.dw.com/zh/金正恩又要访华？韩国情报机构称密切关注/a-80083800?maca=chi-rss-chi-all-1127-rdf"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "韓國情報部門：密切關注金正恩可能訪華的各種動態",
+          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261128-%E9%9F%93%E5%9C%8B%E6%83%85%E5%A0%B1%E9%83%A8%E9%96%80-%E5%AF%86%E5%88%87%E9%97%9C%E6%B3%A8%E9%87%91%E6%AD%A3%E6%81%A9%E5%8F%AF%E8%83%BD%E8%A8%AA%E8%8F%AF%E7%9A%84%E5%90%84%E7%A8%AE%E5%8B%95%E6%85%8B"
+        }
+      ]
+    },
+    {
       "rank": 7,
+      "title": "無國界醫生表示，以色列對加薩醫療診所的攻擊造成兩名工作人員死亡",
+      "summary": [
+        "BBC World：無國界醫生表示，以色列對加薩醫療診所的攻擊造成兩名工作人員死亡",
+        "Financial Times：以色列罷工導致加薩無國界醫生兩名工作人員死亡"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "BBC World",
+          "title": "無國界醫生表示，以色列對加薩醫療診所的攻擊造成兩名工作人員死亡",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Financial Times",
+          "title": "以色列罷工導致加薩無國界醫生兩名工作人員死亡",
+          "url": "https://www.ft.com/content/b50e55af-58a3-452b-a282-4d4be735229c?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "title": "阿根廷停止福克蘭群島石油鑽探的提議被拒絕",
       "summary": [
         "BBC World：阿根廷停止福克蘭群島石油鑽探的提議被拒絕",
@@ -390,7 +422,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "沃爾瑪促銷程式碼：2026 年 11 月 20% 折扣",
       "summary": [
         "Wired：沃爾瑪促銷程式碼：2026 年 11 月 20% 折扣"
@@ -405,7 +437,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "黑色星期五最佳遊戲電腦現場促銷",
       "summary": [
         "Tom's Hardware：黑色星期五最佳遊戲電腦現場促銷"
@@ -416,21 +448,6 @@
           "source": "Tom's Hardware",
           "title": "黑色星期五最佳遊戲電腦現場促銷",
           "url": "https://www.tomshardware.com/live/news/black-friday-gaming-pc-deals-2026-day-two"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "我找到了最佳黑色星期五串流優惠（2026 年）：Apple TV、迪士尼、HBO Max",
-      "summary": [
-        "Wired：我找到了最佳黑色星期五串流優惠（2026 年）：Apple TV、迪士尼、HBO Max"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Wired",
-          "title": "我找到了最佳黑色星期五串流優惠（2026 年）：Apple TV、迪士尼、HBO Max",
-          "url": "https://www.wired.com/story/black-friday-streaming-deals-11-28-2026/"
         }
       ]
     }
