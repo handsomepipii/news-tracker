@@ -1,8 +1,29 @@
 {
-  "updated_at": "2026-11-28 10:26",
+  "updated_at": "2026-11-28 10:56",
   "taiwan": [
     {
       "rank": 1,
+      "title": "陳其邁北上助陣 合體蘇巧慧板橋車掃｜LIVE",
+      "summary": [
+        "TVBS新聞：陳其邁北上助陣 合體蘇巧慧板橋車掃｜LIVE",
+        "自由時報：（專訪）VERIVERY超愛臺灣味！點名崔立於帶路逛臺北 全員爭搶大巨蛋開球"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "陳其邁北上助陣 合體蘇巧慧板橋車掃｜LIVE",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxR1ZHdmRMZlE5ODNUNnJpd3RVQktiSjN0VUdnMndPWmZreEZZVkRIYkpNVWRQRWZ5UkJvMDJoeW1JbnI5Zmg0bE1hazgzR1YtMGQ4VEt3?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "（專訪）VERIVERY超愛臺灣味！點名崔立於帶路逛臺北 全員爭搶大巨蛋開球",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5655949"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "美空軍雲端平臺驚傳遭駭 戰術、人事與後勤資料恐外洩",
       "summary": [
         "經濟日報：美空軍雲端平臺驚傳遭駭 戰術、人事與後勤資料恐外洩",
@@ -23,7 +44,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "天氣/投票日先放晴再轉涼週日北臺灣降溫較多\"掉3-5度\" 晨探15度下下週回溫明顯高溫上看30度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：天氣/投票日先放晴再轉涼週日北臺灣降溫較多\"掉3-5度\" 晨探15度下下週回溫明顯高溫上看30度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -44,7 +65,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "不堪燃料價格大漲再倒1家　挪威北歐大西洋航空聲請破產",
       "summary": [
         "經濟日報：不堪燃料價格大漲再倒1家　挪威北歐大西洋航空聲請破產",
@@ -65,7 +86,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "手機漲價兩樣情！Android 使用者乾脆不買、iPhone 果粉照單全收",
       "summary": [
         "ETtoday：手機漲價兩樣情！Android 使用者乾脆不買、iPhone 果粉照單全收",
@@ -86,7 +107,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "友達華亞廠找到新買家 售予矽品處分利益估104億元",
       "summary": [
         "鉅亨網：友達華亞廠找到新買家 售予矽品處分利益估104億元",
@@ -107,7 +128,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "屏檢查獲選舉賭盤每注1萬元　2組頭遭收押",
       "summary": [
         "自由時報：屏檢查獲選舉賭盤每注1萬元　2組頭遭收押",
@@ -128,7 +149,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "科技股續漲帶動　歐股收紅結束震盪一週",
       "summary": [
         "自由時報：科技股續漲帶動　歐股收紅結束震盪一週",
@@ -149,7 +170,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "無人機襲科威特釀2義大利人死亡　聯合國秘書長籲各方剋制",
       "summary": [
         "自由時報：無人機襲科威特釀2義大利人死亡　聯合國秘書長籲各方剋制",
@@ -170,7 +191,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "川普挺到底！出席臺積電亞利桑那新廠動土　想帶黃仁勳一起去",
       "summary": [
         "ETtoday：川普挺到底！出席臺積電亞利桑那新廠動土　想帶黃仁勳一起去",
@@ -187,27 +208,6 @@
           "source": "經濟日報",
           "title": "臺積美國擴廠典禮 川普：很樂意帶黃仁勳去",
           "url": "https://money.udn.com/money/story/5599/9906798"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
-      "summary": [
-        "自由時報：感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
-        "經濟日報：感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5655968"
-        },
-        {
-          "source": "經濟日報",
-          "title": "感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
-          "url": "https://money.udn.com/money/story/5599/9906931"
         }
       ]
     }
@@ -326,16 +326,16 @@
     },
     {
       "rank": 6,
-      "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
+      "title": "英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
       "summary": [
-        "Bloomberg Tech：英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
+        "Bloomberg Tech：英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
         "Financial Times：Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
+          "title": "英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
           "url": "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says"
         },
         {
@@ -368,6 +368,27 @@
     },
     {
       "rank": 8,
+      "title": "雷根國家機場兩架飛機折斷機翼",
+      "summary": [
+        "Washington Post：雷根國家機場兩架飛機折斷機翼",
+        "Investing.com：美國航空噴射機在雷根國家機場滑行道上折斷機翼"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "雷根國家機場兩架飛機折斷機翼",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU1JBQ1NyNU5ldGtkRDVpMDY4QmQtU2s0T1Q4VnJMS01IQUtIa2Qtd01BMVNaVktUY3g2Qml2bnY4WmlXdVc4YUEyMkh5ekxyZWhsVjVPbU54X3B2OUwwOFRia3pwTmNDRGRyRFExdzc5Y0lQWXNWM3ZhTjJCY1FHdEVRSmhJSUVBZlpQSHBiT290akFrTjRXWElEeWVmQQ?oc=5"
+        },
+        {
+          "source": "Investing.com",
+          "title": "美國航空噴射機在雷根國家機場滑行道上折斷機翼",
+          "url": "https://www.investing.com/news/stock-market-news/american-airlines-jets-clip-wings-on-taxiway-at-reagan-national-airport-5054097"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "為什麼相干公司的股票今天飆升？",
       "summary": [
         "Investing.com：為什麼相干公司的股票今天飆升？"
@@ -382,7 +403,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "黑色星期五最佳遊戲筆記型電腦現場促銷",
       "summary": [
         "Tom's Hardware：黑色星期五最佳遊戲筆記型電腦現場促銷"
@@ -393,21 +414,6 @@
           "source": "Tom's Hardware",
           "title": "黑色星期五最佳遊戲筆記型電腦現場促銷",
           "url": "https://www.tomshardware.com/live/news/best-black-friday-gaming-laptop-deals-live"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
-      "summary": [
-        "Yahoo Finance：Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV3pxZ1JQb19TUl83aU9NZDBDQlV3M2ZPOFg3bVlSVXgxZHlMWTVObzlmNTBWa0w4YXB0M1VoemRXYTg5cEtITl9jMzJQLVZuWEQyM005alFFYzB0bDNtSW1SS1V1cjF6MlhYSmNJWEZUeFpfOGR4bWJlc0M3Y2tjbWExUUwyekhoWV9EM0JNd2dRVFdJMEY2Q3h3?oc=5"
         }
       ]
     }
