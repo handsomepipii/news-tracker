@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 12:25",
+  "updated_at": "2026-11-28 12:56",
   "taiwan": [
     {
       "rank": 1,
@@ -45,27 +45,6 @@
     },
     {
       "rank": 3,
-      "title": "屏檢查獲選舉賭盤每注1萬元　2組頭遭收押",
-      "summary": [
-        "自由時報：屏檢查獲選舉賭盤每注1萬元　2組頭遭收押",
-        "ETtoday：每注1萬元！　選舉賭盤2組頭被收押"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "屏檢查獲選舉賭盤每注1萬元　2組頭遭收押",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5655957"
-        },
-        {
-          "source": "ETtoday",
-          "title": "每注1萬元！　選舉賭盤2組頭被收押",
-          "url": "https://www.ettoday.net/news/20261128/3279726.htm"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "科技股續漲帶動　歐股收紅結束震盪一週",
       "summary": [
         "自由時報：科技股續漲帶動　歐股收紅結束震盪一週",
@@ -86,7 +65,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "無人機襲科威特釀2義大利人死亡　聯合國秘書長籲各方剋制",
       "summary": [
         "自由時報：無人機襲科威特釀2義大利人死亡　聯合國秘書長籲各方剋制",
@@ -107,7 +86,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "川普挺到底！出席臺積電亞利桑那新廠動土　想帶黃仁勳一起去",
       "summary": [
         "ETtoday：川普挺到底！出席臺積電亞利桑那新廠動土　想帶黃仁勳一起去",
@@ -128,7 +107,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
       "summary": [
         "自由時報：感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
@@ -149,7 +128,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "AI股帶領科技股跌深勁彈　美股收紅",
       "summary": [
         "自由時報：AI股帶領科技股跌深勁彈　美股收紅",
@@ -170,7 +149,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "11／28九合一選舉、公投登場！投票三寶、時間與首投族注意事項全攻略- 要聞",
       "summary": [
         "工商時報：11／28九合一選舉、公投登場！投票三寶、時間與首投族注意事項全攻略- 要聞",
@@ -191,7 +170,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "新北黑心護理之家 還想找點擴大超收",
       "summary": [
         "自由時報：新北黑心護理之家 還想找點擴大超收",
@@ -208,6 +187,27 @@
           "source": "ETtoday",
           "title": "蘆洲黑心護理之家如「人肉倉庫」　還要找點擴大超收",
           "url": "https://www.ettoday.net/news/20261128/3279731.htm"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "傳南韓國情院為營救情報員 擬向中國提供臺灣情資惹美震怒",
+      "summary": [
+        "自由時報：傳南韓國情院為營救情報員 擬向中國提供臺灣情資惹美震怒",
+        "ETtoday：南韓爆向中國提供「臺灣機密」救情報員　惹怒美國"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "傳南韓國情院為營救情報員 擬向中國提供臺灣情資惹美震怒",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5655970"
+        },
+        {
+          "source": "ETtoday",
+          "title": "南韓爆向中國提供「臺灣機密」救情報員　惹怒美國",
+          "url": "https://www.ettoday.net/news/20261128/3279729.htm"
         }
       ]
     }
@@ -263,27 +263,6 @@
     },
     {
       "rank": 3,
-      "title": "黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
-      "summary": [
-        "The Verge：黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
-        "Wired：蘋果黑色星期五特惠(2026)：AirPods、iPad、MacBook等"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Verge",
-          "title": "黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
-          "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026"
-        },
-        {
-          "source": "Wired",
-          "title": "蘋果黑色星期五特惠(2026)：AirPods、iPad、MacBook等",
-          "url": "https://www.wired.com/story/black-friday-apple-deals-11-27-2026/"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
       "summary": [
         "Bloomberg Tech：英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
@@ -304,7 +283,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "FCC已授權SpaceX部署100萬顆衛星",
       "summary": [
         "Ars Technica：FCC已授權SpaceX部署100萬顆衛星",
@@ -325,7 +304,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
       "summary": [
         "The Guardian：加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
@@ -346,7 +325,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "雷根國家機場兩架飛機折斷機翼",
       "summary": [
         "Washington Post：雷根國家機場兩架飛機折斷機翼",
@@ -367,7 +346,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "為什麼甲骨文股票今天上漲？",
       "summary": [
         "Investing.com：為什麼甲骨文股票今天上漲？"
@@ -382,7 +361,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "瑞典股市收盤走高； OMX斯德哥爾摩30指數上漲1.42%",
       "summary": [
         "Investing.com：瑞典股市收盤走高； OMX斯德哥爾摩30指數上漲1.42%"
@@ -397,7 +376,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "黑色星期五最佳電腦組裝工具優惠",
       "summary": [
         "Tom's Hardware：黑色星期五最佳電腦組裝工具優惠"
@@ -408,6 +387,21 @@
           "source": "Tom's Hardware",
           "title": "黑色星期五最佳電腦組裝工具優惠",
           "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/best-pc-building-tool-deals-screwdrivers-blowers"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Adobe 稱美國黑色星期五線上銷售額將突破 130 億美元",
+      "summary": [
+        "Investing.com：Adobe 稱美國黑色星期五線上銷售額將突破 130 億美元"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "Adobe 稱美國黑色星期五線上銷售額將突破 130 億美元",
+          "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031"
         }
       ]
     }
