@@ -1,8 +1,29 @@
 {
-  "updated_at": "2026-11-28 14:56",
+  "updated_at": "2026-11-28 15:25",
   "taiwan": [
     {
       "rank": 1,
+      "title": "美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
+      "summary": [
+        "自由時報：美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
+        "經濟日報：美空軍旗艦雲端平臺傳遭駭！恐危及大量敏感軍事資料"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5655976"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美空軍旗艦雲端平臺傳遭駭！恐危及大量敏感軍事資料",
+          "url": "https://money.udn.com/money/story/5599/9907028"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
       "summary": [
         "自由時報：感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
@@ -23,7 +44,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "AI股帶領科技股跌深勁彈　美股收紅",
       "summary": [
         "自由時報：AI股帶領科技股跌深勁彈　美股收紅",
@@ -44,7 +65,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "11／28九合一選舉、公投登場！投票三寶、時間與首投族注意事項全攻略- 要聞",
       "summary": [
         "工商時報：11／28九合一選舉、公投登場！投票三寶、時間與首投族注意事項全攻略- 要聞",
@@ -65,7 +86,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "新北黑心護理之家 還想找點擴大超收",
       "summary": [
         "自由時報：新北黑心護理之家 還想找點擴大超收",
@@ -86,7 +107,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "傳南韓國情院為營救情報員 擬向中國提供臺灣情資惹美震怒",
       "summary": [
         "自由時報：傳南韓國情院為營救情報員 擬向中國提供臺灣情資惹美震怒",
@@ -107,7 +128,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "烏克蘭雷射防空武器首傳戰果　擊落俄羅斯噴射無人機",
       "summary": [
         "經濟日報：烏克蘭雷射防空武器首傳戰果　擊落俄羅斯噴射無人機",
@@ -128,7 +149,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "12強》晉級告急！遭英國完封太傷 中國隊教頭說話了",
       "summary": [
         "自由時報：12強》晉級告急！遭英國完封太傷 中國隊教頭說話了",
@@ -149,7 +170,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "今日夜溫差10度　午後冷空氣南下「乾冷風大」",
       "summary": [
         "ETtoday：今日夜溫差10度　午後冷空氣南下「乾冷風大」",
@@ -166,27 +187,6 @@
           "source": "自由時報",
           "title": "乾空氣南下明恐跌破12度 下週暖熱白天飆3字頭",
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5655986"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
-      "summary": [
-        "自由時報：美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
-        "經濟日報：美空軍旗艦雲端平臺傳遭駭！恐危及大量敏感軍事資料"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5655976"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美空軍旗艦雲端平臺傳遭駭！恐危及大量敏感軍事資料",
-          "url": "https://money.udn.com/money/story/5599/9907028"
         }
       ]
     },
@@ -215,48 +215,6 @@
   "global": [
     {
       "rank": 1,
-      "title": "根據英國《金融時報》報道，OpenAI 反訴蘋果竊取商業機密",
-      "summary": [
-        "Investing.com：根據英國《金融時報》報道，OpenAI 反訴蘋果竊取商業機密",
-        "The Guardian：OpenAI 反訴蘋果涉嫌竊取商業機密"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "根據英國《金融時報》報道，OpenAI 反訴蘋果竊取商業機密",
-          "url": "https://www.investing.com/news/stock-market-news/openai-countersues-apple-for-stealing-trade-secrets-ft-reports-5053798"
-        },
-        {
-          "source": "The Guardian",
-          "title": "OpenAI 反訴蘋果涉嫌竊取商業機密",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSXFKVXgwaFUxNkE1Y1VESzlmazB2TXgxNW1KM28yUjJVZDZFamRUMXRCdDJscGtxT2ZPUnVpeTJiV0FRazA2RjdNZnZRLUVnS0wzOG1YSFd4UXdYTklUZjRBZzNYVkN3eGllVDhIVkFyUlJ4WnlLYU4wTXdpT1J3SEYyZkRSNklRTHNHZEVXLXMyaXc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "FCC已授權SpaceX部署100萬顆衛星",
-      "summary": [
-        "Ars Technica：FCC已授權SpaceX部署100萬顆衛星",
-        "Wccftech：SpaceX 的 100 萬顆資料中心衛星獲得 FCC 批准，但將不需要的衛星停放在太陽周圍的計劃被擱置"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Ars Technica",
-          "title": "FCC已授權SpaceX部署100萬顆衛星",
-          "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
-        },
-        {
-          "source": "Wccftech",
-          "title": "SpaceX 的 100 萬顆資料中心衛星獲得 FCC 批准，但將不需要的衛星停放在太陽周圍的計劃被擱置",
-          "url": "https://wccftech.com/spacexs-one-million-data-center-satellites-got-fcc-approval-but-plans-to-park-unneeded-satellites-around-the-sun-are-on-hold/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
       "summary": [
         "The Guardian：加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
@@ -277,7 +235,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "雷根國家機場兩架飛機折斷機翼",
       "summary": [
         "Washington Post：雷根國家機場兩架飛機折斷機翼",
@@ -298,7 +256,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "Adobe 稱美國黑色星期五線上銷售額將突破 130 億美元",
       "summary": [
         "Investing.com：Adobe 稱美國黑色星期五線上銷售額將突破 130 億美元"
@@ -313,7 +271,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "沃爾瑪促銷程式碼：2026 年 11 月 20% 折扣",
       "summary": [
         "Wired：沃爾瑪促銷程式碼：2026 年 11 月 20% 折扣"
@@ -328,62 +286,92 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "川普的人工智慧策略推動了華爾街瘋狂的感恩節週",
+      "rank": 5,
+      "title": "《我很害怕》：《粗心人》作者莎拉·韋恩-威廉斯講述在禁言令下的生活——以及為什麼是時候公開反對大型科技公司",
       "summary": [
-        "Bloomberg Markets：川普的人工智慧策略推動了華爾街瘋狂的感恩節週"
+        "The Guardian：《我很害怕》：《粗心人》作者莎拉·韋恩-威廉斯講述在禁言令下的生活——以及為什麼是時候公開反對大型科技公司"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Markets",
-          "title": "川普的人工智慧策略推動了華爾街瘋狂的感恩節週",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-s-ai-gambit-fuels-wild-thanksgiving-week-on-wall-street"
+          "source": "The Guardian",
+          "title": "《我很害怕》：《粗心人》作者莎拉·韋恩-威廉斯講述在禁言令下的生活——以及為什麼是時候公開反對大型科技公司",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUVZFcWtyd3ZZeXVvalRaUmR5QkhMNUdreHltTVVkelROUmFtUi1vd1JsVklaWGNPRktaeXRSbTk0amJLWGtWZmlTV0lLLXZ6NDk4NzczM0RtQXk5YWRXRld6YUFmYTRIa2xia2Z2NGJKVUNYT09qNHAzb0ZZbDVmWnM3UVoxLS1WVXlVVVZtSEY1NXd0Y19xSkxhUU84c3lpbFRiVVRFc3pKSTduQ1JMRUJ4c3QwQU9tXzlHOTdoN09uZWl4NURUMnFyN2wzOUt3?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "韓國正在利用金屬探測器和隨身攝影機打擊人工智慧作弊行為",
+      "summary": [
+        "Washington Post：韓國正在利用金屬探測器和隨身攝影機打擊人工智慧作弊行為"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "韓國正在利用金屬探測器和隨身攝影機打擊人工智慧作弊行為",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzJ0MHlPSlY5eEJ0QTUxa283YlJ0RWVpUnlyQlU3UktfMFZGM3lzOEJCd0EtdEN1bUFuRFpGbHBuME5ITy04VUJrTmptLUFHcHkxajFmWV9GNlhlN01qUW40cTU3SXUzS3E3Vkx3bzNJWDAwZHRLdzJxVEpCT2VTZkZqUmdFMGtyZEFzR21Rc0NBOEVNdGtfSTN0UXhvLXdvMjUyRE9TblktQldGakotbUlLSm5JTDZmN3VSS0VRSUs?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "梅拉尼婭·川普曾使用過的「非凡能力」簽證計畫遭拒率飆升",
+      "summary": [
+        "Washington Post：梅拉尼婭·川普曾使用過的「非凡能力」簽證計畫遭拒率飆升"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "梅拉尼婭·川普曾使用過的「非凡能力」簽證計畫遭拒率飆升",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXlELURHYnM2bUFydEtEUmxSeUtjVmhqM19ONjI0Qy15MUpaV3hxZERwVmZROWh3czBvZGUzY2MyUzh2a3ZGVHNEUGl1Y0ZxUndSRG9xZjNsM0IwdUFFbUJZVHM5bVlCN2ZiZzVuaDJyVUpxLVF4Vm5DdF95LUxEb3d2dmxEUmQ3cWJKTXRoNmRiZ1NhWXN2SlFJMV9VNmlzeDRMc1h3T3RxNWJt?oc=5"
         }
       ]
     },
     {
       "rank": 8,
-      "title": "OpenAI 稱蘋果向供應商施壓，要求他們放棄其裝置",
+      "title": "黑色星期五家居必需品和實惠玩具捐贈優惠",
       "summary": [
-        "Bloomberg Tech：OpenAI 稱蘋果向供應商施壓，要求他們放棄其裝置"
+        "Wired：黑色星期五家居必需品和實惠玩具捐贈優惠"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Bloomberg Tech",
-          "title": "OpenAI 稱蘋果向供應商施壓，要求他們放棄其裝置",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices"
+          "source": "Wired",
+          "title": "黑色星期五家居必需品和實惠玩具捐贈優惠",
+          "url": "https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/"
         }
       ]
     },
     {
       "rank": 9,
-      "title": "受創的人工智慧股在動盪的一週中上漲，華爾街收高",
+      "title": "只需 169.99 美元即可購買帶有 ANC 功能的索尼 WH-1000 MX5 耳機 — 為您的遊戲和電影帶來聽覺上的享受",
       "summary": [
-        "Yahoo Finance：受創的人工智慧股在動盪的一週中上漲，華爾街收高"
+        "Tom's Hardware：只需 169.99 美元即可購買帶有 ANC 功能的索尼 WH-1000 MX5 耳機 — 為您的遊戲和電影帶來聽覺上的享受"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Yahoo Finance",
-          "title": "受創的人工智慧股在動盪的一週中上漲，華爾街收高",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5"
+          "source": "Tom's Hardware",
+          "title": "只需 169.99 美元即可購買帶有 ANC 功能的索尼 WH-1000 MX5 耳機 — 為您的遊戲和電影帶來聽覺上的享受",
+          "url": "https://www.tomshardware.com/pc-components/get-a-sony-wh-1000-mx5-headset-with-anc-for-only-usd169-99-aural-bliss-for-your-games-and-movies"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "訊息人士稱，獨家阿瑪尼繼承人考慮透過股權出售購買時裝公司的一小部分股份",
+      "title": "使用技嘉 839 美元的遊戲 OC 卡在這個黑色星期五購買最便宜的 RTX 5070",
       "summary": [
-        "Investing.com：訊息人士稱，獨家阿瑪尼繼承人考慮透過股權出售購買時裝公司的一小部分股份"
+        "Tom's Hardware：使用技嘉 839 美元的遊戲 OC 卡在這個黑色星期五購買最便宜的 RTX 5070"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "Investing.com",
-          "title": "訊息人士稱，獨家阿瑪尼繼承人考慮透過股權出售購買時裝公司的一小部分股份",
-          "url": "https://www.investing.com/news/stock-market-news/exclusivearmani-heirs-consider-buying-small-slice-of-fashion-house-in-stake-sale-sources-say-5053801"
+          "source": "Tom's Hardware",
+          "title": "使用技嘉 839 美元的遊戲 OC 卡在這個黑色星期五購買最便宜的 RTX 5070",
+          "url": "https://www.tomshardware.com/pc-components/gpus/get-the-cheapest-rtx-5070-around-this-black-friday-with-gigabytes-usd839-gaming-oc-card-midrange-blackwell-continues-to-shine-with-dlss-4-5-and-dlss-5"
         }
       ]
     }
