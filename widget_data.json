@@ -1,35 +1,8 @@
 {
-  "updated_at": "2026-11-28 09:56",
+  "updated_at": "2026-11-28 10:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "惡劣天氣夾擊美國感恩節 強風豪雨釀大停電 全美數千航班延誤取消",
-      "summary": [
-        "鉅亨網：惡劣天氣夾擊美國感恩節 強風豪雨釀大停電 全美數千航班延誤取消",
-        "自由時報：感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
-        "經濟日報：感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "鉅亨網",
-          "title": "惡劣天氣夾擊美國感恩節 強風豪雨釀大停電 全美數千航班延誤取消",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIMDczcVZVcnNkdy0yOXpSN2dpV0JQQ09kY3RiSkY3UTRpUkNnRTRERzdFVF9LdTVpaFlhZ2ZJMnE1M2hwMkw2UW55YnhORDA?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5655968"
-        },
-        {
-          "source": "經濟日報",
-          "title": "感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
-          "url": "https://money.udn.com/money/story/5599/9906931"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "美空軍雲端平臺驚傳遭駭 戰術、人事與後勤資料恐外洩",
       "summary": [
         "經濟日報：美空軍雲端平臺驚傳遭駭 戰術、人事與後勤資料恐外洩",
@@ -50,7 +23,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "天氣/投票日先放晴再轉涼週日北臺灣降溫較多\"掉3-5度\" 晨探15度下下週回溫明顯高溫上看30度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：天氣/投票日先放晴再轉涼週日北臺灣降溫較多\"掉3-5度\" 晨探15度下下週回溫明顯高溫上看30度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -71,28 +44,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "沈伯洋選前直播「賈永婕登場破50萬觀看」 登YT全球即時榜第1名",
-      "summary": [
-        "TVBS新聞：沈伯洋選前直播「賈永婕登場破50萬觀看」 登YT全球即時榜第1名",
-        "自由時報：賈永婕相挺沈伯洋！直播衝破52萬人穩居全球第一 狠甩蔣萬安11倍"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "沈伯洋選前直播「賈永婕登場破50萬觀看」 登YT全球即時榜第1名",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jREFzd1FIWHRMSFNmUGJZNGoydkpoVjBDbDZwcmtEUm5PYzNxZld5TzE0VVBsZVczbU5lREJTbGxkSlFVVWE1LUV2TnF1RGRHWTRR?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "賈永婕相挺沈伯洋！直播衝破52萬人穩居全球第一 狠甩蔣萬安11倍",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655826"
-        }
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "title": "不堪燃料價格大漲再倒1家　挪威北歐大西洋航空聲請破產",
       "summary": [
         "經濟日報：不堪燃料價格大漲再倒1家　挪威北歐大西洋航空聲請破產",
@@ -113,7 +65,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "手機漲價兩樣情！Android 使用者乾脆不買、iPhone 果粉照單全收",
       "summary": [
         "ETtoday：手機漲價兩樣情！Android 使用者乾脆不買、iPhone 果粉照單全收",
@@ -134,7 +86,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "友達華亞廠找到新買家 售予矽品處分利益估104億元",
       "summary": [
         "鉅亨網：友達華亞廠找到新買家 售予矽品處分利益估104億元",
@@ -155,7 +107,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "屏檢查獲選舉賭盤每注1萬元　2組頭遭收押",
       "summary": [
         "自由時報：屏檢查獲選舉賭盤每注1萬元　2組頭遭收押",
@@ -176,7 +128,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "科技股續漲帶動　歐股收紅結束震盪一週",
       "summary": [
         "自由時報：科技股續漲帶動　歐股收紅結束震盪一週",
@@ -197,7 +149,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "無人機襲科威特釀2義大利人死亡　聯合國秘書長籲各方剋制",
       "summary": [
         "自由時報：無人機襲科威特釀2義大利人死亡　聯合國秘書長籲各方剋制",
@@ -214,6 +166,48 @@
           "source": "經濟日報",
           "title": "無人機襲科威特釀2義大利人死亡　聯合國秘書長籲各方剋制",
           "url": "https://money.udn.com/money/story/5599/9906921"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "川普挺到底！出席臺積電亞利桑那新廠動土　想帶黃仁勳一起去",
+      "summary": [
+        "ETtoday：川普挺到底！出席臺積電亞利桑那新廠動土　想帶黃仁勳一起去",
+        "經濟日報：臺積美國擴廠典禮 川普：很樂意帶黃仁勳去"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "川普挺到底！出席臺積電亞利桑那新廠動土　想帶黃仁勳一起去",
+          "url": "https://www.ettoday.net/news/20261128/3279718.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "臺積美國擴廠典禮 川普：很樂意帶黃仁勳去",
+          "url": "https://money.udn.com/money/story/5599/9906798"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
+      "summary": [
+        "自由時報：感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
+        "經濟日報：感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5655968"
+        },
+        {
+          "source": "經濟日報",
+          "title": "感恩節風暴襲美東造成數十萬戶停電　航班延誤、遊行改期",
+          "url": "https://money.udn.com/money/story/5599/9906931"
         }
       ]
     }
@@ -332,16 +326,16 @@
     },
     {
       "rank": 6,
-      "title": "英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
+      "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
       "summary": [
-        "Bloomberg Tech：英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
+        "Bloomberg Tech：英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
         "Financial Times：Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
+          "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
           "url": "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says"
         },
         {
