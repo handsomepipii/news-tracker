@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 17:55",
+  "updated_at": "2026-11-28 18:26",
   "taiwan": [
     {
       "rank": 1,
@@ -30,6 +30,33 @@
     },
     {
       "rank": 2,
+      "title": "關心臺南投票率 陳水扁憂：聽說臺北投票率不高",
+      "summary": [
+        "自由時報：關心臺南投票率 陳水扁憂：聽說臺北投票率不高",
+        "TVBS新聞：雙北好天氣湧投票潮！臺北投票率破68％ 可望達7成",
+        "今周刊：臺北市長開票直播／沈伯洋衝破4萬票、蔣萬安緊咬！北市投票率逼7成，估僅「這2區」相對低（不斷更新）"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "關心臺南投票率 陳水扁憂：聽說臺北投票率不高",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656354"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "雙北好天氣湧投票潮！臺北投票率破68％ 可望達7成",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xZnFNV1lfUjVnek5XSkJDQUE1eEROZ0Ruend6SUc0QlhnX1VPYkhscnhuSHJSSTExRHJyMEc3WXZ4OTRkS2FJMEFlYzJvcnNTMU8w?oc=5"
+        },
+        {
+          "source": "今周刊",
+          "title": "臺北市長開票直播／沈伯洋衝破4萬票、蔣萬安緊咬！北市投票率逼7成，估僅「這2區」相對低（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNV9NSlZVbWpGQVRmcDYya0pqQXI4UUF4QVZ0bFBsTTA3UEdpUmR0QkhKbFhrakZ4VGxHR0NZTkc1bXhTQ0Vna1loM1k4MUJvMzM4dE9tYVBMczdnWEUwZGJjY1NNSUNRTjBGcFpFcTA0Q2psYmNIanROczAzRHhUcw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "（專訪）VERIVERY超愛臺灣味！點名崔立於帶路逛臺北 全員爭搶大巨蛋開球",
       "summary": [
         "自由時報：（專訪）VERIVERY超愛臺灣味！點名崔立於帶路逛臺北 全員爭搶大巨蛋開球",
@@ -50,7 +77,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "蘇巧慧一早投票先摸這裡「帶好運」 讚臺灣民主成熟",
       "summary": [
         "自由時報：蘇巧慧一早投票先摸這裡「帶好運」 讚臺灣民主成熟",
@@ -71,7 +98,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "西班牙耶羅島移民船難 釀14死、84人生還｜20261128 公視午間新聞 ｜ 公視新聞 PNN",
       "summary": [
         "公視新聞：西班牙耶羅島移民船難 釀14死、84人生還｜20261128 公視午間新聞 ｜ 公視新聞 PNN",
@@ -88,27 +115,6 @@
           "source": "經濟日報",
           "title": "西班牙外海移民船獲救　逾百人遇險14死",
           "url": "https://money.udn.com/money/story/5599/9907783"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "傳南韓國情院為營救情報員 擬向中國提供臺灣情資惹美震怒",
-      "summary": [
-        "自由時報：傳南韓國情院為營救情報員 擬向中國提供臺灣情資惹美震怒",
-        "ETtoday：南韓爆向中國提供「臺灣機密」救情報員　惹怒美國"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "傳南韓國情院為營救情報員 擬向中國提供臺灣情資惹美震怒",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5655970"
-        },
-        {
-          "source": "ETtoday",
-          "title": "南韓爆向中國提供「臺灣機密」救情報員　惹怒美國",
-          "url": "https://www.ettoday.net/news/20261128/3279729.htm"
         }
       ]
     },
@@ -359,31 +365,31 @@
     },
     {
       "rank": 9,
-      "title": "美農民憂特朗普關稅措施將使出口受阻及成本上升",
+      "title": "接班人問題是死結？",
       "summary": [
-        "法廣RFI：美農民憂特朗普關稅措施將使出口受阻及成本上升"
+        "法廣RFI：接班人問題是死結？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "法廣RFI",
-          "title": "美農民憂特朗普關稅措施將使出口受阻及成本上升",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261127-%E7%BE%8E%E8%BE%B2%E6%B0%91%E6%86%82%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%8E%AA%E6%96%BD%E5%B0%87%E4%BD%BF%E5%87%BA%E5%8F%A3%E5%8F%97%E9%98%BB%E5%8F%8A%E6%88%90%E6%9C%AC%E4%B8%8A%E5%8D%87"
+          "title": "接班人問題是死結？",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261127-%E6%8E%A5%E7%8F%AD%E4%BA%BA%E5%95%8F%E9%A1%8C%E6%98%AF%E6%AD%BB%E7%B5%90"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "法國陷入經濟衰退",
+      "title": "感恩節嚴重暴風雨導致道路淹水、樹木倒塌",
       "summary": [
-        "法廣RFI：法國陷入經濟衰退"
+        "BBC World：感恩節嚴重暴風雨導致道路淹水、樹木倒塌"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "法國陷入經濟衰退",
-          "url": "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20261127-%E6%B3%95%E5%9C%8B%E9%99%B7%E5%85%A5%E7%B6%93%E6%BF%9F%E8%A1%B0%E9%80%80"
+          "source": "BBC World",
+          "title": "感恩節嚴重暴風雨導致道路淹水、樹木倒塌",
+          "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
