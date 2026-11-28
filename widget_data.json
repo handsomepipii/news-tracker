@@ -1,42 +1,15 @@
 {
-  "updated_at": "2026-11-28 19:25",
+  "updated_at": "2026-11-28 19:55",
   "taiwan": [
     {
       "rank": 1,
-      "title": "美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
-      "summary": [
-        "自由時報：美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
-        "經濟日報：美空軍旗艦雲端平臺傳遭駭！恐危及大量敏感軍事資料",
-        "鉅亨網：美國空軍核心雲端平臺Cloud One遭駭！軍機作戰、彈藥庫存資料恐面臨風險"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5655976"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美空軍旗艦雲端平臺傳遭駭！恐危及大量敏感軍事資料",
-          "url": "https://money.udn.com/money/story/5599/9907028"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "美國空軍核心雲端平臺Cloud One遭駭！軍機作戰、彈藥庫存資料恐面臨風險",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yMEItRjRDbC02WFg3cUVzSlVWcjFnYUl0bzVBY09sWEpqTmd4MEl0NHh2aGc1REthWHFOQU11UTRzWmFSUGg0Y2p0WmJFV0k?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "連江縣長拚連任 王忠銘獲逾4000票17:06自行宣佈當選",
       "summary": [
         "自由時報：連江縣長拚連任 王忠銘獲逾4000票17:06自行宣佈當選",
         "中時新聞：快訊》連任成功！南投縣長許淑華「自行宣佈當選」",
         "ETtoday：快訊／臺東縣長結果出爐　國民黨吳秀華自行宣佈當選"
       ],
-      "media_count": 3,
+      "media_count": 4,
       "links": [
         {
           "source": "自由時報",
@@ -52,6 +25,43 @@
           "source": "ETtoday",
           "title": "快訊／臺東縣長結果出爐　國民黨吳秀華自行宣佈當選",
           "url": "https://www.ettoday.net/news/20261128/3280013.htm"
+        },
+        {
+          "source": "今周刊",
+          "title": "苗栗縣長／鍾東錦自行宣佈當選！得票率突破6成連任成功：苗栗人民的責任，由我一肩扛起",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWkU3dkZUME9vV1JhLUZvZHpnSnN4N0VvbC1zVFRCMzNaSFRRXzJOWEd2OC1aNG5kYnU0N3p4T1hzdWkxXzN3dDFoSG1SaTVfdDR1YmxCLTFLUGNWeWFuSVp0N1FpN1FoVWFHVUZkMnY1VzZTRGxuQnF5QXNnZnVFOQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "2026九合一開票即時結果》22縣市長當選名單與得票率（不斷更新）",
+      "summary": [
+        "TVBS新聞：2026九合一開票即時結果》22縣市長當選名單與得票率（不斷更新）",
+        "工商時報：不斷更新》2026九合一大選開票直播縣市長投票結果一次看- 要聞",
+        "商業周刊：2026九合一選舉開票結果》22縣市長當選名單、得票數、投票率一次看－商周頭條｜商周"
+      ],
+      "media_count": 4,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "2026九合一開票即時結果》22縣市長當選名單與得票率（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yeHR3dVltWFlDbkI0MDhocE9jNnZHTEJDZDBIUXRkd2dfcWZ0LTduMk15VVNVaG96a0t0amFPTnR1cG92b0FaNks2QkpxdXZkU28w?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "不斷更新》2026九合一大選開票直播縣市長投票結果一次看- 要聞",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aSDd0SGJoSVprLUZfVU9mV3pUSE1Ec0NGWHVSUU1uNFNwb1BLWFdscUl4enNkYmFaNU1qQWd1TUpPdW9xcENtNlhqVjd3YWY3czRYMjBMd2tRdWRmYV9v?oc=5"
+        },
+        {
+          "source": "商業周刊",
+          "title": "2026九合一選舉開票結果》22縣市長當選名單、得票數、投票率一次看－商周頭條｜商周",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12NHBNZ1o1Q2gzQlRuWmFqT1lIS0tsVHcwNElCRmpuVmF6SHlSNGNENlFxYmlONDl5WlZrcW9VbU9GWHg5QS1zQWNPWlJpYkdVT2UwZkFCU0toNnlSY0JjNENn?oc=5"
+        },
+        {
+          "source": "財訊",
+          "title": "2026九合一大選》全臺22縣市長選舉結果一次看！最新開票進度及當選名單持續更新",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PLVlfTTFYMVAwWHN1MFFSMHBSc08wWXRITmZFM0pCY2VYYnZXYXpKRFliakRyZVg4UC1IcFB1ajYtZjM5b21LRTdGazByUjhBcGwzVFdHMmszUks0Vkh5R1o2X3VXSjRvbkkycmIyM0I2SFF0bUg0UlE1dw?oc=5"
         }
       ]
     },
@@ -111,33 +121,6 @@
     },
     {
       "rank": 5,
-      "title": "2026九合一開票即時結果》22縣市長當選名單與得票率（不斷更新）",
-      "summary": [
-        "TVBS新聞：2026九合一開票即時結果》22縣市長當選名單與得票率（不斷更新）",
-        "工商時報：不斷更新》2026九合一大選開票直播縣市長投票結果一次看- 要聞",
-        "商業周刊：2026九合一選舉開票結果》22縣市長當選名單、得票數、投票率一次看－商周頭條｜商周"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "TVBS新聞",
-          "title": "2026九合一開票即時結果》22縣市長當選名單與得票率（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yeHR3dVltWFlDbkI0MDhocE9jNnZHTEJDZDBIUXRkd2dfcWZ0LTduMk15VVNVaG96a0t0amFPTnR1cG92b0FaNks2QkpxdXZkU28w?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "不斷更新》2026九合一大選開票直播縣市長投票結果一次看- 要聞",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aSDd0SGJoSVprLUZfVU9mV3pUSE1Ec0NGWHVSUU1uNFNwb1BLWFdscUl4enNkYmFaNU1qQWd1TUpPdW9xcENtNlhqVjd3YWY3czRYMjBMd2tRdWRmYV9v?oc=5"
-        },
-        {
-          "source": "商業周刊",
-          "title": "2026九合一選舉開票結果》22縣市長當選名單、得票數、投票率一次看－商周頭條｜商周",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12NHBNZ1o1Q2gzQlRuWmFqT1lIS0tsVHcwNElCRmpuVmF6SHlSNGNENlFxYmlONDl5WlZrcW9VbU9GWHg5QS1zQWNPWlJpYkdVT2UwZkFCU0toNnlSY0JjNENn?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "何欣純現身投票所！曝昨夜回家煮餛飩湯當宵夜　盼迎臺中「欣開始」",
       "summary": [
         "ETtoday：何欣純現身投票所！曝昨夜回家煮餛飩湯當宵夜　盼迎臺中「欣開始」",
@@ -158,7 +141,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "蘇巧慧一早投票先摸這裡「帶好運」 讚臺灣民主成熟",
       "summary": [
         "自由時報：蘇巧慧一早投票先摸這裡「帶好運」 讚臺灣民主成熟",
@@ -179,7 +162,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "西班牙耶羅島移民船難 釀14死、84人生還｜20261128 公視午間新聞 ｜ 公視新聞 PNN",
       "summary": [
         "公視新聞：西班牙耶羅島移民船難 釀14死、84人生還｜20261128 公視午間新聞 ｜ 公視新聞 PNN",
@@ -200,7 +183,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "今晨國際頭條／上海驚見輝達Blackwell晶片　OpenAI反告蘋果竊密",
       "summary": [
         "ETtoday：今晨國際頭條／上海驚見輝達Blackwell晶片　OpenAI反告蘋果竊密",
@@ -221,7 +204,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "川普：黃仁勳不是國安威脅！　親曝「他完全沒問題」",
       "summary": [
         "ETtoday：川普：黃仁勳不是國安威脅！　親曝「他完全沒問題」",
@@ -238,6 +221,27 @@
           "source": "今周刊",
           "title": "「黃仁勳絕對沒問題」！川普稱不構成國安威脅才出手，介入輝達人事自豪喊：為全世界做很棒的事",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONUItUGQ3Sl9LajJzWnVyU3Z0bEZxZUhtOHBMZ2ZOSkRFaEJKZmRySnI2M2RYUW1VV3lCSEJ1bGh1cDB3WWVaejViUHdlWEpWSC1fWlNTQUh3WXA5c3JaVndxVW81Wkxqa2lQOTU5eEk5dEVMVEZFaFJCZWM0djU3SA?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "沈伯洋攜妻女現身投票！曝遲到半小時原因：小麻糬太興奮半夜才睡",
+      "summary": [
+        "自由時報：沈伯洋攜妻女現身投票！曝遲到半小時原因：小麻糬太興奮半夜才睡",
+        "ETtoday：魏平政一早陪媽媽投票！心情陽光燦爛...選前之夜吃宵夜睡得香"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "沈伯洋攜妻女現身投票！曝遲到半小時原因：小麻糬太興奮半夜才睡",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656043"
+        },
+        {
+          "source": "ETtoday",
+          "title": "魏平政一早陪媽媽投票！心情陽光燦爛...選前之夜吃宵夜睡得香",
+          "url": "https://www.ettoday.net/news/20261128/3279792.htm"
         }
       ]
     }
@@ -404,16 +408,16 @@
     },
     {
       "rank": 10,
-      "title": "在中國，“中國製造”已經成為一種時尚",
+      "title": "去年，種族仇恨在這個西班牙小鎮爆發。現在，其居民正準備迎接更多",
       "summary": [
-        "法廣RFI：在中國，“中國製造”已經成為一種時尚"
+        "The Guardian：去年，種族仇恨在這個西班牙小鎮爆發。現在，其居民正準備迎接更多"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "在中國，“中國製造”已經成為一種時尚",
-          "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E6%B3%95%E5%9C%8B%E4%B8%96%E7%95%8C%E5%A0%B1/20261127-%E5%9C%A8%E4%B8%AD%E5%9C%8B%EF%BC%8C-%E4%B8%AD%E5%9C%8B%E8%A3%BD%E9%80%A0-%E5%B7%B2%E7%B6%93%E6%88%90%E7%82%BA%E4%B8%80%E7%A8%AE%E6%99%82%E5%B0%9A"
+          "source": "The Guardian",
+          "title": "去年，種族仇恨在這個西班牙小鎮爆發。現在，其居民正準備迎接更多",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1lZbU02Y3NDWmIwS1NnVC02dFd6NnJ1Y1Y3cWE0VU5oSmlES3JiQkJrdHU4Umw3cWRHbVU4MVVKTzg4M3RPWVI0WFVRNm1OUkdUZklXZGM0dTRpOEJrR05OSE0yWXp1Q2JKXzVFcWk4bkpEdVQ1SjVON2R5TF9TTi1iZzQwUEhOYVpZYVpaS2pJRlY5?oc=5"
         }
       ]
     }
