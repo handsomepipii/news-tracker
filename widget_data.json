@@ -1,40 +1,8 @@
 {
-  "updated_at": "2026-11-28 20:27",
+  "updated_at": "2026-11-28 20:55",
   "taiwan": [
     {
       "rank": 1,
-      "title": "連江縣長拚連任 王忠銘獲逾4000票17:06自行宣佈當選",
-      "summary": [
-        "自由時報：連江縣長拚連任 王忠銘獲逾4000票17:06自行宣佈當選",
-        "中時新聞：快訊》連任成功！南投縣長許淑華「自行宣佈當選」",
-        "ETtoday：快訊／臺東縣長結果出爐　國民黨吳秀華自行宣佈當選"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "連江縣長拚連任 王忠銘獲逾4000票17:06自行宣佈當選",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656468"
-        },
-        {
-          "source": "中時新聞",
-          "title": "快訊》連任成功！南投縣長許淑華「自行宣佈當選」",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ET0N4OGZFZDk2NzV1eXN5aF9mUTFtbE91TjFBdFpmaEtpMUVuRjVrWS0zbkw4NkVsNV9qQnNnMFZCWGZCUmpBRWEyY05qMUZCWlNNNWNiUEFHX2N0Ti05V3laN1FOb2xWNWF2MURB?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／臺東縣長結果出爐　國民黨吳秀華自行宣佈當選",
-          "url": "https://www.ettoday.net/news/20261128/3280013.htm"
-        },
-        {
-          "source": "今周刊",
-          "title": "苗栗縣長／鍾東錦自行宣佈當選！得票率突破6成連任成功：苗栗人民的責任，由我一肩扛起",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWkU3dkZUME9vV1JhLUZvZHpnSnN4N0VvbC1zVFRCMzNaSFRRXzJOWEd2OC1aNG5kYnU0N3p4T1hzdWkxXzN3dDFoSG1SaTVfdDR1YmxCLTFLUGNWeWFuSVp0N1FpN1FoVWFHVUZkMnY1VzZTRGxuQnF5QXNnZnVFOQ?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "2026九合一開票即時結果》22縣市長當選名單與得票率（不斷更新）",
       "summary": [
         "TVBS新聞：2026九合一開票即時結果》22縣市長當選名單與得票率（不斷更新）",
@@ -62,6 +30,33 @@
           "source": "財訊",
           "title": "2026九合一大選》全臺22縣市長選舉結果一次看！最新開票進度及當選名單持續更新",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PLVlfTTFYMVAwWHN1MFFSMHBSc08wWXRITmZFM0pCY2VYYnZXYXpKRFliakRyZVg4UC1IcFB1ajYtZjM5b21LRTdGazByUjhBcGwzVFdHMmszUks0Vkh5R1o2X3VXSjRvbkkycmIyM0I2SFF0bUg0UlE1dw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "連江縣長拚連任 王忠銘獲逾4000票17:06自行宣佈當選",
+      "summary": [
+        "自由時報：連江縣長拚連任 王忠銘獲逾4000票17:06自行宣佈當選",
+        "中時新聞：快訊》連任成功！南投縣長許淑華「自行宣佈當選」",
+        "ETtoday：快訊／臺東縣長結果出爐　國民黨吳秀華自行宣佈當選"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "連江縣長拚連任 王忠銘獲逾4000票17:06自行宣佈當選",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656468"
+        },
+        {
+          "source": "中時新聞",
+          "title": "快訊》連任成功！南投縣長許淑華「自行宣佈當選」",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ET0N4OGZFZDk2NzV1eXN5aF9mUTFtbE91TjFBdFpmaEtpMUVuRjVrWS0zbkw4NkVsNV9qQnNnMFZCWGZCUmpBRWEyY05qMUZCWlNNNWNiUEFHX2N0Ti05V3laN1FOb2xWNWF2MURB?oc=5"
+        },
+        {
+          "source": "ETtoday",
+          "title": "快訊／臺東縣長結果出爐　國民黨吳秀華自行宣佈當選",
+          "url": "https://www.ettoday.net/news/20261128/3280013.htm"
         }
       ]
     },
@@ -184,6 +179,27 @@
     },
     {
       "rank": 8,
+      "title": "臺中市開票不斷更新》盧秀燕交棒誰？江啟臣、何欣純最新票數一次看- 政治",
+      "summary": [
+        "中時新聞：臺中市開票不斷更新》盧秀燕交棒誰？江啟臣、何欣純最新票數一次看- 政治",
+        "自由時報：花蓮縣長選舉開票 三腳督拉鋸中！（不斷更新）"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "中時新聞",
+          "title": "臺中市開票不斷更新》盧秀燕交棒誰？江啟臣、何欣純最新票數一次看- 政治",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FRGRNMlh4VG1DcjRDNnlNc1hrb1lNdUJMSVJvcjVVNHVNQk5jZnphZklwVGdQTXVfRmNFOVR0cFd3b2VXWEJQQl9rTW5rZkRGTTYwUER4d0V4VkNTQ015cmljVDFIaVVQNWZiekFB?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "花蓮縣長選舉開票 三腳督拉鋸中！（不斷更新）",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656385"
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "title": "今晨國際頭條／上海驚見輝達Blackwell晶片　OpenAI反告蘋果竊密",
       "summary": [
         "ETtoday：今晨國際頭條／上海驚見輝達Blackwell晶片　OpenAI反告蘋果竊密",
@@ -204,7 +220,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "川普：黃仁勳不是國安威脅！　親曝「他完全沒問題」",
       "summary": [
         "ETtoday：川普：黃仁勳不是國安威脅！　親曝「他完全沒問題」",
@@ -221,27 +237,6 @@
           "source": "今周刊",
           "title": "「黃仁勳絕對沒問題」！川普稱不構成國安威脅才出手，介入輝達人事自豪喊：為全世界做很棒的事",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONUItUGQ3Sl9LajJzWnVyU3Z0bEZxZUhtOHBMZ2ZOSkRFaEJKZmRySnI2M2RYUW1VV3lCSEJ1bGh1cDB3WWVaejViUHdlWEpWSC1fWlNTQUh3WXA5c3JaVndxVW81Wkxqa2lQOTU5eEk5dEVMVEZFaFJCZWM0djU3SA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "沈伯洋攜妻女現身投票！曝遲到半小時原因：小麻糬太興奮半夜才睡",
-      "summary": [
-        "自由時報：沈伯洋攜妻女現身投票！曝遲到半小時原因：小麻糬太興奮半夜才睡",
-        "ETtoday：魏平政一早陪媽媽投票！心情陽光燦爛...選前之夜吃宵夜睡得香"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "沈伯洋攜妻女現身投票！曝遲到半小時原因：小麻糬太興奮半夜才睡",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656043"
-        },
-        {
-          "source": "ETtoday",
-          "title": "魏平政一早陪媽媽投票！心情陽光燦爛...選前之夜吃宵夜睡得香",
-          "url": "https://www.ettoday.net/news/20261128/3279792.htm"
         }
       ]
     }
@@ -354,31 +349,43 @@
     },
     {
       "rank": 6,
-      "title": "臺灣「九合一」選舉開始投票 核電政策公投同步舉行",
+      "title": "臺灣地方選舉：沈伯洋承認在臺北市長選舉中敗選",
       "summary": [
-        "BBC中文：臺灣「九合一」選舉開始投票 核電政策公投同步舉行"
+        "法廣RFI：臺灣地方選舉：沈伯洋承認在臺北市長選舉中敗選",
+        "德國之聲：「臺灣民主仍是贏家」：沈伯洋自行宣佈敗選臺北市長選舉"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
-          "source": "BBC中文",
-          "title": "臺灣「九合一」選舉開始投票 核電政策公投同步舉行",
-          "url": "https://www.bbc.com/zhongwen/live/c60evlqlpx32t/trad?at_medium=RSS&at_campaign=rss"
+          "source": "法廣RFI",
+          "title": "臺灣地方選舉：沈伯洋承認在臺北市長選舉中敗選",
+          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261128-%E5%8F%B0%E7%81%A3%E5%9C%B0%E6%96%B9%E9%81%B8%E8%88%89-%E6%B2%88%E4%BC%AF%E6%B4%8B%E6%89%BF%E8%AA%8D%E5%9C%A8%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E9%81%B8%E8%88%89%E4%B8%AD%E6%95%97%E9%81%B8"
+        },
+        {
+          "source": "德國之聲",
+          "title": "「臺灣民主仍是贏家」：沈伯洋自行宣佈敗選臺北市長選舉",
+          "url": "https://www.dw.com/zh/「台灣民主仍是贏家」：沈伯洋自行宣布敗選台北市長選舉/live-80083720?maca=chi-rss-chi-all-1127-rdf"
         }
       ]
     },
     {
       "rank": 7,
-      "title": "Adobe 稱美國黑色星期五線上銷售額將突破 130 億美元",
+      "title": "阿根廷停止福克蘭群島石油鑽探的提議被拒絕",
       "summary": [
-        "Investing.com：Adobe 稱美國黑色星期五線上銷售額將突破 130 億美元"
+        "BBC World：阿根廷停止福克蘭群島石油鑽探的提議被拒絕",
+        "Investing.com：國際法院駁回阿根廷要求停止英國在福克蘭群島附近石油活動的請求"
       ],
-      "media_count": 1,
+      "media_count": 2,
       "links": [
         {
+          "source": "BBC World",
+          "title": "阿根廷停止福克蘭群島石油鑽探的提議被拒絕",
+          "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "source": "Investing.com",
-          "title": "Adobe 稱美國黑色星期五線上銷售額將突破 130 億美元",
-          "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031"
+          "title": "國際法院駁回阿根廷要求停止英國在福克蘭群島附近石油活動的請求",
+          "url": "https://www.investing.com/news/stock-market-news/international-court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands-5054314"
         }
       ]
     },
