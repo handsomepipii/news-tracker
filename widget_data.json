@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 12:56",
+  "updated_at": "2026-11-28 13:25",
   "taiwan": [
     {
       "rank": 1,
@@ -242,27 +242,6 @@
     },
     {
       "rank": 2,
-      "title": "2026 年黑色星期五最佳遊戲顯示器優惠",
-      "summary": [
-        "Tom's Hardware：2026 年黑色星期五最佳遊戲顯示器優惠",
-        "Wired：我發現的最佳黑色星期五遊戲優惠（2026）"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Tom's Hardware",
-          "title": "2026 年黑色星期五最佳遊戲顯示器優惠",
-          "url": "https://www.tomshardware.com/monitors/gaming-monitors/best-gaming-monitor-deals-oled"
-        },
-        {
-          "source": "Wired",
-          "title": "我發現的最佳黑色星期五遊戲優惠（2026）",
-          "url": "https://www.wired.com/story/black-friday-gaming-deals-11-27-2026/"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
       "summary": [
         "Bloomberg Tech：英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
@@ -283,7 +262,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "FCC已授權SpaceX部署100萬顆衛星",
       "summary": [
         "Ars Technica：FCC已授權SpaceX部署100萬顆衛星",
@@ -304,7 +283,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
       "summary": [
         "The Guardian：加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
@@ -325,7 +304,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "雷根國家機場兩架飛機折斷機翼",
       "summary": [
         "Washington Post：雷根國家機場兩架飛機折斷機翼",
@@ -346,37 +325,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "為什麼甲骨文股票今天上漲？",
-      "summary": [
-        "Investing.com：為什麼甲骨文股票今天上漲？"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "為什麼甲骨文股票今天上漲？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-oracle-stock-rallying-today-93CH-5053726"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "瑞典股市收盤走高； OMX斯德哥爾摩30指數上漲1.42%",
-      "summary": [
-        "Investing.com：瑞典股市收盤走高； OMX斯德哥爾摩30指數上漲1.42%"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "Investing.com",
-          "title": "瑞典股市收盤走高； OMX斯德哥爾摩30指數上漲1.42%",
-          "url": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-142-5053731"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "黑色星期五最佳電腦組裝工具優惠",
       "summary": [
         "Tom's Hardware：黑色星期五最佳電腦組裝工具優惠"
@@ -391,7 +340,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 7,
       "title": "Adobe 稱美國黑色星期五線上銷售額將突破 130 億美元",
       "summary": [
         "Investing.com：Adobe 稱美國黑色星期五線上銷售額將突破 130 億美元"
@@ -402,6 +351,51 @@
           "source": "Investing.com",
           "title": "Adobe 稱美國黑色星期五線上銷售額將突破 130 億美元",
           "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "為什麼整個歐洲都應該關注西班牙極右翼 Vox 的掌權 |伊根吉爾馬丁",
+      "summary": [
+        "The Guardian：為什麼整個歐洲都應該關注西班牙極右翼 Vox 的掌權 |伊根吉爾馬丁"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "為什麼整個歐洲都應該關注西班牙極右翼 Vox 的掌權 |伊根吉爾馬丁",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOG51WW1CUVpUVjFRWHNtUFREMElRZEtmV0hmVFA2U21GWEMxWUxtS3dVMkxsbXphdm9tWElXQWh3NDlOYlI0SEpsLTBHb3Fhb1o5dWRmWTRpTTNhT0F0blE3VzVJWjhsSkNWVU00aHZIc3lTaUJGNWxtR1hlMnZaYzQ4MDBmeS1qekNpdmU1RzMzVDhPenpITDJDNDNvV2ZlUHVFUWFlRHlnbFZYS0ZqeUY1Qm8?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "智庫稱，俄羅斯破壞活動增多，歐洲可能發生“大規模傷亡事件”",
+      "summary": [
+        "The Guardian：智庫稱，俄羅斯破壞活動增多，歐洲可能發生“大規模傷亡事件”"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "智庫稱，俄羅斯破壞活動增多，歐洲可能發生“大規模傷亡事件”",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQckNGajRKWDh1VXh1QU9GOWVpSExSRnJqX0pwbG5SZElCeXpBUUs3N3FNREZlX2xCMmp0ZHdsdmlsd0U1SnRRbl9WY185amVBZ2VOQm5haTFSNkE4QjhJNFBWTC16NDg0d2ZjU0czbDJQLTNmYUVGOG11Q01pd1N4bWNKR0FtazVlY05vV1R6bGFWcEtfMzBGNDBmVlhXVXRqbl9sdERFYlBmU3BWb2ZORWR6cw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黃仁勳下一步的行動可能會影響全球人工智慧主導地位的競爭",
+      "summary": [
+        "Washington Post：黃仁勳下一步的行動可能會影響全球人工智慧主導地位的競爭"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Washington Post",
+          "title": "黃仁勳下一步的行動可能會影響全球人工智慧主導地位的競爭",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVVId25KSXJqbHR2LXZBTmhILXQzU1RYQnFfSjVaWDE5ODROSGFLN295dHRlNEJUeHNIaUlxSzktR2hzZzVWcGVKaE5Kb2tObGFXUzlJb25BY1M3MXpoTjJtWTUzZnZMSVNPa2NNNS15UzcxOWppNFVWZU00WWdudDA5aXMzLXdoRVBTMzUtaXZVcVV3amlRcm5BSUVMUUxJZ2xBdGZxR3diNWhnT2MyVC16b1J0bDl5Rmc?oc=5"
         }
       ]
     }
