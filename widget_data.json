@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 15:55",
+  "updated_at": "2026-11-28 16:26",
   "taiwan": [
     {
       "rank": 1,
@@ -45,27 +45,6 @@
     },
     {
       "rank": 3,
-      "title": "AI股帶領科技股跌深勁彈　美股收紅",
-      "summary": [
-        "自由時報：AI股帶領科技股跌深勁彈　美股收紅",
-        "經濟日報：AI股帶領科技股跌深勁彈　美股收紅"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "AI股帶領科技股跌深勁彈　美股收紅",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5655969"
-        },
-        {
-          "source": "經濟日報",
-          "title": "AI股帶領科技股跌深勁彈　美股收紅",
-          "url": "https://money.udn.com/money/story/123398/9906945"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "11／28九合一選舉、公投登場！投票三寶、時間與首投族注意事項全攻略- 要聞",
       "summary": [
         "工商時報：11／28九合一選舉、公投登場！投票三寶、時間與首投族注意事項全攻略- 要聞",
@@ -86,7 +65,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "新北黑心護理之家 還想找點擴大超收",
       "summary": [
         "自由時報：新北黑心護理之家 還想找點擴大超收",
@@ -103,6 +82,27 @@
           "source": "ETtoday",
           "title": "蘆洲黑心護理之家如「人肉倉庫」　還要找點擴大超收",
           "url": "https://www.ettoday.net/news/20261128/3279731.htm"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "核能公投案今投票 國民黨籲選民切莫遺漏公投票",
+      "summary": [
+        "自由時報：核能公投案今投票 國民黨籲選民切莫遺漏公投票",
+        "TVBS新聞：2026核電公投開票即時結果》同意票、不同意票與投票率（不斷更新）"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "核能公投案今投票 國民黨籲選民切莫遺漏公投票",
+          "url": "https://news.ltn.com.tw/news/politics/paper/1780187"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "2026核電公投開票即時結果》同意票、不同意票與投票率（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vTmFra0MwajVQZ0JSS0I4VzlBcC1ZYnR6cGc5X2ZMUWt5RC1CcWJGRU03Y0UyRTE3VXpaOG5GT3hCa0lNUEdoNG9mZV9JWWZYbXBF?oc=5"
         }
       ]
     },
@@ -171,6 +171,27 @@
     },
     {
       "rank": 9,
+      "title": "20名日本AV女優涉赴韓賣淫！首爾接客「驚人價碼曝光」警通緝主嫌",
+      "summary": [
+        "ETtoday：20名日本AV女優涉赴韓賣淫！首爾接客「驚人價碼曝光」警通緝主嫌",
+        "風傳媒：南韓查獲跨國賣淫！20名日本AV女優赴首爾性交易，主嫌藏身越南遠端操控 | 國際中心 | 新聞"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "20名日本AV女優涉赴韓賣淫！首爾接客「驚人價碼曝光」警通緝主嫌",
+          "url": "https://star.ettoday.net/news/3279735"
+        },
+        {
+          "source": "風傳媒",
+          "title": "南韓查獲跨國賣淫！20名日本AV女優赴首爾性交易，主嫌藏身越南遠端操控 | 國際中心 | 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SSzlWd2ptaVZtREpRQnJoemR4QWNPV1J6aDRvRDE5TWxwSzd3UzZIN1RzZjQxY1ZYZjM4NGFMS2JjSVp2a2s2R3JpeGxBdw?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "今日夜溫差10度　午後冷空氣南下「乾冷風大」",
       "summary": [
         "ETtoday：今日夜溫差10度　午後冷空氣南下「乾冷風大」",
@@ -189,53 +210,11 @@
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5655986"
         }
       ]
-    },
-    {
-      "rank": 10,
-      "title": "今晨國際頭條／上海驚見輝達Blackwell晶片　OpenAI反告蘋果竊密",
-      "summary": [
-        "ETtoday：今晨國際頭條／上海驚見輝達Blackwell晶片　OpenAI反告蘋果竊密",
-        "經濟日報：OpenAI反告蘋果　控竊商業機密"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "今晨國際頭條／上海驚見輝達Blackwell晶片　OpenAI反告蘋果竊密",
-          "url": "https://www.ettoday.net/news/20261128/3279748.htm"
-        },
-        {
-          "source": "經濟日報",
-          "title": "OpenAI反告蘋果　控竊商業機密",
-          "url": "https://money.udn.com/money/story/5599/9907103"
-        }
-      ]
     }
   ],
   "global": [
     {
       "rank": 1,
-      "title": "加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
-      "summary": [
-        "The Guardian：加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
-        "Financial Times：加拿大維護禁止公共部門工作人員佩戴宗教標誌的法律"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "加拿大最高法院維持魁北克禁止公共部門工作人員佩戴宗教標誌的法律",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT2cxcXk0cndGZjRuQlVTRDdYRGdSS0d1a3l2cU9UR21LTXBrX0d4SHBwUEp6UWFBaXNsTWMyRGY5b3FTSXFXOGg2ODNmM2EyRFVqQjdnQmxXdTR1MzBrakMzRDhoRXdkUlllYmw1QWVKbWIyMzBDZ19pS2RFVFdpcnpHSGhSQjczVFoxVkMzOFVFSndTVzdVbG5laVJmb201ZVBGTXVNVi1RNzhkNTFweEoydWRvRlZNc05TendNOUkxamtwdS1JcVp3UzRpM3V2R01JdERjMjA4dXM?oc=5"
-        },
-        {
-          "source": "Financial Times",
-          "title": "加拿大維護禁止公共部門工作人員佩戴宗教標誌的法律",
-          "url": "https://www.ft.com/content/240e1fe6-6c82-4d18-b73d-b0b52e7edae4?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "title": "雷根國家機場兩架飛機折斷機翼",
       "summary": [
         "Washington Post：雷根國家機場兩架飛機折斷機翼",
@@ -252,6 +231,21 @@
           "source": "Investing.com",
           "title": "美國航空噴射機在雷根國家機場滑行道上折斷機翼",
           "url": "https://www.investing.com/news/stock-market-news/american-airlines-jets-clip-wings-on-taxiway-at-reagan-national-airport-5054097"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "臺灣「九合一」選舉開始投票 核電政策公投同步舉行",
+      "summary": [
+        "BBC中文：臺灣「九合一」選舉開始投票 核電政策公投同步舉行"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "BBC中文",
+          "title": "臺灣「九合一」選舉開始投票 核電政策公投同步舉行",
+          "url": "https://www.bbc.com/zhongwen/live/c60evlqlpx32t/trad?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -287,91 +281,91 @@
     },
     {
       "rank": 5,
-      "title": "譴責決議被駁回 執政黨“透過消費稅法案” 反對黨“追查嫌疑”",
+      "title": "黑色星期五最佳遊戲電腦現場促銷",
       "summary": [
-        "NHK新聞：譴責決議被駁回 執政黨“透過消費稅法案” 反對黨“追查嫌疑”"
+        "Tom's Hardware：黑色星期五最佳遊戲電腦現場促銷"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "NHK新聞",
-          "title": "譴責決議被駁回 執政黨“透過消費稅法案” 反對黨“追查嫌疑”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261128de82805"
+          "source": "Tom's Hardware",
+          "title": "黑色星期五最佳遊戲電腦現場促銷",
+          "url": "https://www.tomshardware.com/live/news/black-friday-gaming-pc-deals-2026-day-two"
         }
       ]
     },
     {
       "rank": 6,
-      "title": "東京電力告訴資本聯盟談判代表“出售股份需要國家批准”",
+      "title": "載有 7,000 噸柴油的傾覆油輪將從伊維薩島拖走",
       "summary": [
-        "NHK新聞：東京電力告訴資本聯盟談判代表“出售股份需要國家批准”"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "東京電力告訴資本聯盟談判代表“出售股份需要國家批准”",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261127de82791"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "警方確保ICC主任茜的安全，以最高階別「特別A」加強警惕",
-      "summary": [
-        "NHK新聞：警方確保ICC主任茜的安全，以最高階別「特別A」加強警惕"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "NHK新聞",
-          "title": "警方確保ICC主任茜的安全，以最高階別「特別A」加強警惕",
-          "url": "https://news.web.nhk/newsweb/na/nd-20261127de82788"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "西班牙首相和競爭對手在最後投票中集結支持者",
-      "summary": [
-        "BBC World：西班牙首相和競爭對手在最後投票中集結支持者"
+        "BBC World：載有 7,000 噸柴油的傾覆油輪將從伊維薩島拖走"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "BBC World",
-          "title": "西班牙首相和競爭對手在最後投票中集結支持者",
-          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+          "title": "載有 7,000 噸柴油的傾覆油輪將從伊維薩島拖走",
+          "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "rank": 9,
-      "title": "英國天然氣所有者尋求政府就儲存設施的未來進行緊急談判",
+      "rank": 7,
+      "title": "有食物宿醉嗎？今天快速做這三件事可以讓自己感覺更好。",
       "summary": [
-        "The Guardian：英國天然氣所有者尋求政府就儲存設施的未來進行緊急談判"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "英國天然氣所有者尋求政府就儲存設施的未來進行緊急談判",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaW0tbE5sWWl3REtBb2JfdHd6cE5fMG1CZTlQUzFQWVJwbTRVaDJ3cjJVNWJ2S01nUUxtN2JBN0FrVWZYZk1OVkF4UjE4dU5VOFFyTTVHQTRTdk92TnFmVGU4N0tHY3dOcXBrdHNaeUJzSmxBLWJrSDFmX19idnZ0aHZlYXhvaURwRXNzSGFoSGx4WU5ZYWQxSG03ZWVQbTdSbVhjaTRhWHJJdXowcFd1VEFlLVlCdFVkM2NHWlplOHc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "俄羅斯正統教宗主教呼籲基督徒馴服人工智慧，警告“世界末日”",
-      "summary": [
-        "Washington Post：俄羅斯正統教宗主教呼籲基督徒馴服人工智慧，警告“世界末日”"
+        "Washington Post：有食物宿醉嗎？今天快速做這三件事可以讓自己感覺更好。"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Washington Post",
-          "title": "俄羅斯正統教宗主教呼籲基督徒馴服人工智慧，警告“世界末日”",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObk5ERGtzeDV3T2lpOE5faEZVU2VZbkZGcTRJekwza0J4M2ZZTUpwaVVsY1N6eTJ3d19MUUduRWZoQWluVlNLMGhnaUlQQURfaW1hVUlQWU9nNy1lZ21XLUtzUERZWGVDelhlSkZFbUVkRUlhOEdGN3F0dm9WcV9BbFF6b2d1YzVHcElhb1VuWEdwWG03TW1hOUV5MnctLVFKeFpDVnUxVDZqUnV4VXNtb2dfTnI?oc=5"
+          "title": "有食物宿醉嗎？今天快速做這三件事可以讓自己感覺更好。",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVBGZUx0QUhwSjJjRTRuS3hEQWZlRHlNZlNRaDdLT2JtQXRPZldYRm1MZWJvdW1JNXVQaHcyUEliemNDT0UyaTF2c3lnbERlYW9HNnpDY1lBanVRVklUcktOX2lwM1ZaVmVPTE9Rb2hvNmtKblBxdzQ1eFlhbDJxal8wcTJ2MXd4MXF6YTdGQ2VNNFVGenhFenI0QWVtaF90Y3EwM2ZER2hVaXJabkUtZQ?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "桑切斯呼籲西班牙人去投票，尋求不太可能獲勝",
+      "summary": [
+        "Bloomberg Markets：桑切斯呼籲西班牙人去投票，尋求不太可能獲勝"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Bloomberg Markets",
+          "title": "桑切斯呼籲西班牙人去投票，尋求不太可能獲勝",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/sanchez-seeks-unlikely-win-with-plea-for-spaniards-to-go-vote"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "巴西股市收盤走高；聖保羅證券交易所上漲0.05%",
+      "summary": [
+        "Investing.com：巴西股市收盤走高；聖保羅證券交易所上漲0.05%"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Investing.com",
+          "title": "巴西股市收盤走高；聖保羅證券交易所上漲0.05%",
+          "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-005-5053837"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "伊藤忠商事透過馬來西亞交易為東南亞雲端服務成長做好準備",
+      "summary": [
+        "Nikkei Asia：伊藤忠商事透過馬來西亞交易為東南亞雲端服務成長做好準備"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Nikkei Asia",
+          "title": "伊藤忠商事透過馬來西亞交易為東南亞雲端服務成長做好準備",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRUc3YmlQMi1UTTNvLTdIREVXYlpZbEFNMXFDUDVCWWtKcVB0WV9FMDluRV8wVmlWWHIzZlQwZ1R6Zldrb3h4cUt5dXhNVFZoWDBzeTVFX0ZJRG9UbUdTVFowbUhGcWNaQjBEbkg2WExiZTFGc3cyMWRLa2hRQ1UwWkMyTzk4NkJmUkx2Z1FRTHVRUElianl2WXJncFJDLU9oVlY5eW5IRnctYURrNVBjSzJVdjdFdjFlaHRQazVnaw?oc=5"
         }
       ]
     }
