@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 11:56",
+  "updated_at": "2026-11-28 12:25",
   "taiwan": [
     {
       "rank": 1,
@@ -215,6 +215,33 @@
   "global": [
     {
       "rank": 1,
+      "title": "OpenAI 反訴蘋果竊取商業機密",
+      "summary": [
+        "Financial Times：OpenAI 反訴蘋果竊取商業機密",
+        "Investing.com：根據英國《金融時報》報道，OpenAI 反訴蘋果竊取商業機密",
+        "The Guardian：OpenAI 反訴蘋果涉嫌竊取商業機密"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "Financial Times",
+          "title": "OpenAI 反訴蘋果竊取商業機密",
+          "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1"
+        },
+        {
+          "source": "Investing.com",
+          "title": "根據英國《金融時報》報道，OpenAI 反訴蘋果竊取商業機密",
+          "url": "https://www.investing.com/news/stock-market-news/openai-countersues-apple-for-stealing-trade-secrets-ft-reports-5053798"
+        },
+        {
+          "source": "The Guardian",
+          "title": "OpenAI 反訴蘋果涉嫌竊取商業機密",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSXFKVXgwaFUxNkE1Y1VESzlmazB2TXgxNW1KM28yUjJVZDZFamRUMXRCdDJscGtxT2ZPUnVpeTJiV0FRazA2RjdNZnZRLUVnS0wzOG1YSFd4UXdYTklUZjRBZzNYVkN3eGllVDhIVkFyUlJ4WnlLYU4wTXdpT1J3SEYyZkRSNklRTHNHZEVXLXMyaXc?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "2026 年黑色星期五最佳遊戲顯示器優惠",
       "summary": [
         "Tom's Hardware：2026 年黑色星期五最佳遊戲顯示器優惠",
@@ -235,7 +262,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
       "summary": [
         "The Verge：黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
@@ -256,7 +283,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
       "summary": [
         "Bloomberg Tech：英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
@@ -273,27 +300,6 @@
           "source": "Financial Times",
           "title": "Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍",
           "url": "https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398?syn-25a6b1a6=1"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "OpenAI 反訴蘋果竊取商業機密",
-      "summary": [
-        "Financial Times：OpenAI 反訴蘋果竊取商業機密",
-        "Investing.com：根據英國《金融時報》報道，OpenAI 反訴蘋果竊取商業機密"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "OpenAI 反訴蘋果竊取商業機密",
-          "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Investing.com",
-          "title": "根據英國《金融時報》報道，OpenAI 反訴蘋果竊取商業機密",
-          "url": "https://www.investing.com/news/stock-market-news/openai-countersues-apple-for-stealing-trade-secrets-ft-reports-5053798"
         }
       ]
     },
@@ -377,31 +383,31 @@
     },
     {
       "rank": 9,
-      "title": "挪威股市收盤走高；奧斯陸OBX上漲0.80%",
+      "title": "瑞典股市收盤走高； OMX斯德哥爾摩30指數上漲1.42%",
       "summary": [
-        "Investing.com：挪威股市收盤走高；奧斯陸OBX上漲0.80%"
+        "Investing.com：瑞典股市收盤走高； OMX斯德哥爾摩30指數上漲1.42%"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Investing.com",
-          "title": "挪威股市收盤走高；奧斯陸OBX上漲0.80%",
-          "url": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-080-5053675"
+          "title": "瑞典股市收盤走高； OMX斯德哥爾摩30指數上漲1.42%",
+          "url": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-142-5053731"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "這些是我們在這個黑色星期五發現的最好的遊戲筆記型電腦優惠，適合所有預算",
+      "title": "黑色星期五最佳電腦組裝工具優惠",
       "summary": [
-        "Tom's Hardware：這些是我們在這個黑色星期五發現的最好的遊戲筆記型電腦優惠，適合所有預算"
+        "Tom's Hardware：黑色星期五最佳電腦組裝工具優惠"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Tom's Hardware",
-          "title": "這些是我們在這個黑色星期五發現的最好的遊戲筆記型電腦優惠，適合所有預算",
-          "url": "https://www.tomshardware.com/laptops/gaming-laptops/these-are-the-best-gaming-laptop-deals-weve-found-this-black-friday-to-suit-all-budgets-save-up-to-usd1-200-off-a-range-of-portable-powerhouses"
+          "title": "黑色星期五最佳電腦組裝工具優惠",
+          "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/best-pc-building-tool-deals-screwdrivers-blowers"
         }
       ]
     }
