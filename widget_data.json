@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 19:55",
+  "updated_at": "2026-11-28 20:27",
   "taiwan": [
     {
       "rank": 1,
@@ -291,6 +291,27 @@
     },
     {
       "rank": 3,
+      "title": "OpenAI 反訴蘋果涉嫌竊取商業機密",
+      "summary": [
+        "The Guardian：OpenAI 反訴蘋果涉嫌竊取商業機密",
+        "BBC World：OpenAI 反訴蘋果涉嫌竊取商業機密"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "The Guardian",
+          "title": "OpenAI 反訴蘋果涉嫌竊取商業機密",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSXFKVXgwaFUxNkE1Y1VESzlmazB2TXgxNW1KM28yUjJVZDZFamRUMXRCdDJscGtxT2ZPUnVpeTJiV0FRazA2RjdNZnZRLUVnS0wzOG1YSFd4UXdYTklUZjRBZzNYVkN3eGllVDhIVkFyUlJ4WnlLYU4wTXdpT1J3SEYyZkRSNklRTHNHZEVXLXMyaXc?oc=5"
+        },
+        {
+          "source": "BBC World",
+          "title": "OpenAI 反訴蘋果涉嫌竊取商業機密",
+          "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "金正恩又要訪華？韓國情報機構稱密切關注",
       "summary": [
         "德國之聲：金正恩又要訪華？韓國情報機構稱密切關注",
@@ -311,7 +332,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "無國界醫生表示，以色列對加薩醫療診所的攻擊造成兩名工作人員死亡",
       "summary": [
         "BBC World：無國界醫生表示，以色列對加薩醫療診所的攻擊造成兩名工作人員死亡",
@@ -332,7 +353,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "臺灣「九合一」選舉開始投票 核電政策公投同步舉行",
       "summary": [
         "BBC中文：臺灣「九合一」選舉開始投票 核電政策公投同步舉行"
@@ -347,7 +368,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Adobe 稱美國黑色星期五線上銷售額將突破 130 億美元",
       "summary": [
         "Investing.com：Adobe 稱美國黑色星期五線上銷售額將突破 130 億美元"
@@ -362,7 +383,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "沃爾瑪促銷程式碼：2026 年 11 月 20% 折扣",
       "summary": [
         "Wired：沃爾瑪促銷程式碼：2026 年 11 月 20% 折扣"
@@ -377,7 +398,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "黑色星期五最佳遊戲電腦現場促銷",
       "summary": [
         "Tom's Hardware：黑色星期五最佳遊戲電腦現場促銷"
@@ -392,7 +413,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "我找到了最佳黑色星期五串流優惠（2026 年）：Apple TV、迪士尼、HBO Max",
       "summary": [
         "Wired：我找到了最佳黑色星期五串流優惠（2026 年）：Apple TV、迪士尼、HBO Max"
@@ -403,21 +424,6 @@
           "source": "Wired",
           "title": "我找到了最佳黑色星期五串流優惠（2026 年）：Apple TV、迪士尼、HBO Max",
           "url": "https://www.wired.com/story/black-friday-streaming-deals-11-28-2026/"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "去年，種族仇恨在這個西班牙小鎮爆發。現在，其居民正準備迎接更多",
-      "summary": [
-        "The Guardian：去年，種族仇恨在這個西班牙小鎮爆發。現在，其居民正準備迎接更多"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "The Guardian",
-          "title": "去年，種族仇恨在這個西班牙小鎮爆發。現在，其居民正準備迎接更多",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1lZbU02Y3NDWmIwS1NnVC02dFd6NnJ1Y1Y3cWE0VU5oSmlES3JiQkJrdHU4Umw3cWRHbVU4MVVKTzg4M3RPWVI0WFVRNm1OUkdUZklXZGM0dTRpOEJrR05OSE0yWXp1Q2JKXzVFcWk4bkpEdVQ1SjVON2R5TF9TTi1iZzQwUEhOYVpZYVpaS2pJRlY5?oc=5"
         }
       ]
     }
