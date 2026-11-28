@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-29 02:56",
+  "updated_at": "2026-11-29 03:26",
   "taiwan": [
     {
       "rank": 1,
@@ -94,33 +94,6 @@
     },
     {
       "rank": 4,
-      "title": "關心臺南投票率 陳水扁憂：聽說臺北投票率不高",
-      "summary": [
-        "自由時報：關心臺南投票率 陳水扁憂：聽說臺北投票率不高",
-        "TVBS新聞：雙北好天氣湧投票潮！臺北投票率破68％ 可望達7成",
-        "今周刊：臺北市長開票直播／沈伯洋衝破4萬票、蔣萬安緊咬！北市投票率逼7成，估僅「這2區」相對低（不斷更新）"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "關心臺南投票率 陳水扁憂：聽說臺北投票率不高",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656354"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "雙北好天氣湧投票潮！臺北投票率破68％ 可望達7成",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xZnFNV1lfUjVnek5XSkJDQUE1eEROZ0Ruend6SUc0QlhnX1VPYkhscnhuSHJSSTExRHJyMEc3WXZ4OTRkS2FJMEFlYzJvcnNTMU8w?oc=5"
-        },
-        {
-          "source": "今周刊",
-          "title": "臺北市長開票直播／沈伯洋衝破4萬票、蔣萬安緊咬！北市投票率逼7成，估僅「這2區」相對低（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNV9NSlZVbWpGQVRmcDYya0pqQXI4UUF4QVZ0bFBsTTA3UEdpUmR0QkhKbFhrakZ4VGxHR0NZTkc1bXhTQ0Vna1loM1k4MUJvMzM4dE9tYVBMczdnWEUwZGJjY1NNSUNRTjBGcFpFcTA0Q2psYmNIanROczAzRHhUcw?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "臺中市長／何欣純開票一路贏：未來4年實現承諾「打造國際大城市」！藍天變綠地…江啟臣直說「對不起」",
       "summary": [
         "今周刊：臺中市長／何欣純開票一路贏：未來4年實現承諾「打造國際大城市」！藍天變綠地…江啟臣直說「對不起」",
@@ -147,7 +120,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "173票輸掉雲林縣長  張嘉郡：儘速聲請驗票",
       "summary": [
         "自由時報：173票輸掉雲林縣長  張嘉郡：儘速聲請驗票",
@@ -174,7 +147,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "新竹縣長開票激戰中  鄭朝方暫時領先！（不斷更新）",
       "summary": [
         "自由時報：新竹縣長開票激戰中  鄭朝方暫時領先！（不斷更新）",
@@ -195,7 +168,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "「廢除非核家園」公投即將透過！雙門檻皆達成",
       "summary": [
         "自由時報：「廢除非核家園」公投即將透過！雙門檻皆達成",
@@ -212,6 +185,27 @@
           "source": "今周刊",
           "title": "「廢除非核家園」公投案同意票破700萬已跨過門檻！黃士修：接下來是以核養綠的時代了",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDgxTENBX0R0QmM2a0U3ZTNuNGVZZ3c1dFNSMkxsR3dUTEQ2Z0FXd3VxR0t0dWNvV3ZzeEFtZ2U0Y0FGSTdwbk52YlRfMUNvdFJiSllKNmlraXA3MTgyeDNPanAxdm50YjRIYVcxLW1WaU92eGVmQTRLbzBPUTNpZg?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "核電公投透過 行政院：3原則審慎進行",
+      "summary": [
+        "自由時報：核電公投透過 行政院：3原則審慎進行",
+        "工商時報：核能公投過門檻「非核家園」恐遭否決- 生活"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "核電公投透過 行政院：3原則審慎進行",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656790"
+        },
+        {
+          "source": "工商時報",
+          "title": "核能公投過門檻「非核家園」恐遭否決- 生活",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kMk9zaGVQWmwwMzVmeUFzVDdxTWo1MGNkY1k0aXRlUG8xS1YxRlFyQnI0V3pMVW5SeXJ1Qk9HdDRYQk9KVHZ6Qm02VkNuUGhMTG1OdGNJbjNSc2Q3RGNz?oc=5"
         }
       ]
     },
@@ -303,27 +297,6 @@
     },
     {
       "rank": 3,
-      "title": "美軍在英國皇家空軍基地擊退無人機",
-      "summary": [
-        "Financial Times：美軍在英國皇家空軍基地擊退無人機",
-        "Washington Post：美國擊退無人機入侵英國空軍基地"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "Financial Times",
-          "title": "美軍在英國皇家空軍基地擊退無人機",
-          "url": "https://www.ft.com/content/57795d58-2b9e-45cb-81e3-6c63aee434a4?syn-25a6b1a6=1"
-        },
-        {
-          "source": "Washington Post",
-          "title": "美國擊退無人機入侵英國空軍基地",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3RnSnlGM1lhRXp1eHlwSXFXQlNCbFhjVnRWLXF5Z0UxM1dOb3prU3B4dnFic0UyZVRmM1Nja3pDdldIUDhRdS1ZRVVzSUFZbDJ3SFlKTmt3aGpJSm83WHdwZFFlVjhiV1YydzJLaWMtLUhTa3hWZmNqcXhtcG9QWjVWYUpBNlJTbHNiZTdXdTFsSW93OElITnRQRlJ4bHcxVm15cA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "金正恩又要訪華？韓國情報機構稱密切關注",
       "summary": [
         "德國之聲：金正恩又要訪華？韓國情報機構稱密切關注",
@@ -344,7 +317,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "馬斯克表示，Google有興趣向 SpaceX 租用更多運算能力",
       "summary": [
         "Investing.com：馬斯克表示，Google有興趣向 SpaceX 租用更多運算能力",
@@ -365,7 +338,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "阿富汗官員稱爆炸造成7名學生死亡、近100人受傷",
       "summary": [
         "BBC World：阿富汗官員稱爆炸造成7名學生死亡、近100人受傷",
@@ -386,7 +359,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "無國界醫生表示，以色列對加薩醫療診所的攻擊造成兩名工作人員死亡",
       "summary": [
         "BBC World：無國界醫生表示，以色列對加薩醫療診所的攻擊造成兩名工作人員死亡",
@@ -407,7 +380,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "九合一選前反轉：沈伯洋破天荒取消臺北「選前之夜」，如何影響選情？",
       "summary": [
         "BBC中文：九合一選前反轉：沈伯洋破天荒取消臺北「選前之夜」，如何影響選情？",
@@ -428,7 +401,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "阿根廷停止福克蘭群島石油鑽探的提議被拒絕",
       "summary": [
         "BBC World：阿根廷停止福克蘭群島石油鑽探的提議被拒絕",
@@ -449,7 +422,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "OpenAI 稱蘋果向供應商施壓，要求他們放棄其裝置",
       "summary": [
         "Yahoo Finance：OpenAI 稱蘋果向供應商施壓，要求他們放棄其裝置",
@@ -466,6 +439,21 @@
           "source": "TechCrunch",
           "title": "OpenAI 的新反訴指控蘋果“非法向供應商施壓”",
           "url": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "黑色星期五最佳遊戲電腦現場促銷",
+      "summary": [
+        "Tom's Hardware：黑色星期五最佳遊戲電腦現場促銷"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Tom's Hardware",
+          "title": "黑色星期五最佳遊戲電腦現場促銷",
+          "url": "https://www.tomshardware.com/live/news/black-friday-gaming-pc-deals-2026-day-two"
         }
       ]
     }
