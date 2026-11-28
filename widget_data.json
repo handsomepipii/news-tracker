@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-11-28 17:25",
+  "updated_at": "2026-11-28 17:55",
   "taiwan": [
     {
       "rank": 1,
+      "title": "美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
+      "summary": [
+        "自由時報：美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
+        "經濟日報：美空軍旗艦雲端平臺傳遭駭！恐危及大量敏感軍事資料",
+        "鉅亨網：美國空軍核心雲端平臺Cloud One遭駭！軍機作戰、彈藥庫存資料恐面臨風險"
+      ],
+      "media_count": 3,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5655976"
+        },
+        {
+          "source": "經濟日報",
+          "title": "美空軍旗艦雲端平臺傳遭駭！恐危及大量敏感軍事資料",
+          "url": "https://money.udn.com/money/story/5599/9907028"
+        },
+        {
+          "source": "鉅亨網",
+          "title": "美國空軍核心雲端平臺Cloud One遭駭！軍機作戰、彈藥庫存資料恐面臨風險",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yMEItRjRDbC02WFg3cUVzSlVWcjFnYUl0bzVBY09sWEpqTmd4MEl0NHh2aGc1REthWHFOQU11UTRzWmFSUGg0Y2p0WmJFV0k?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "（專訪）VERIVERY超愛臺灣味！點名崔立於帶路逛臺北 全員爭搶大巨蛋開球",
       "summary": [
         "自由時報：（專訪）VERIVERY超愛臺灣味！點名崔立於帶路逛臺北 全員爭搶大巨蛋開球",
@@ -19,27 +46,6 @@
           "source": "ETtoday",
           "title": "何欣純現身投票所！曝昨夜回家煮餛飩湯當宵夜　盼迎臺中「欣開始」",
           "url": "https://www.ettoday.net/news/20261128/3279811.htm"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
-      "summary": [
-        "自由時報：美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
-        "經濟日報：美空軍旗艦雲端平臺傳遭駭！恐危及大量敏感軍事資料"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5655976"
-        },
-        {
-          "source": "經濟日報",
-          "title": "美空軍旗艦雲端平臺傳遭駭！恐危及大量敏感軍事資料",
-          "url": "https://money.udn.com/money/story/5599/9907028"
         }
       ]
     },
@@ -66,48 +72,27 @@
     },
     {
       "rank": 4,
-      "title": "新北黑心護理之家 還想找點擴大超收",
+      "title": "西班牙耶羅島移民船難 釀14死、84人生還｜20261128 公視午間新聞 ｜ 公視新聞 PNN",
       "summary": [
-        "自由時報：新北黑心護理之家 還想找點擴大超收",
-        "ETtoday：蘆洲黑心護理之家如「人肉倉庫」　還要找點擴大超收"
+        "公視新聞：西班牙耶羅島移民船難 釀14死、84人生還｜20261128 公視午間新聞 ｜ 公視新聞 PNN",
+        "經濟日報：西班牙外海移民船獲救　逾百人遇險14死"
       ],
       "media_count": 2,
       "links": [
         {
-          "source": "自由時報",
-          "title": "新北黑心護理之家 還想找點擴大超收",
-          "url": "https://news.ltn.com.tw/news/life/paper/1780143"
+          "source": "公視新聞",
+          "title": "西班牙耶羅島移民船難 釀14死、84人生還｜20261128 公視午間新聞 ｜ 公視新聞 PNN",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CX0pwRU8zRWdweFpQWVFNWG14MjVDS0k2WGtBNW0tdkRpc0czZERIdElnRjZHU3d3VEtyNGxxQ0RQSXJ2UVZhUmJMcw?oc=5"
         },
         {
-          "source": "ETtoday",
-          "title": "蘆洲黑心護理之家如「人肉倉庫」　還要找點擴大超收",
-          "url": "https://www.ettoday.net/news/20261128/3279731.htm"
+          "source": "經濟日報",
+          "title": "西班牙外海移民船獲救　逾百人遇險14死",
+          "url": "https://money.udn.com/money/story/5599/9907783"
         }
       ]
     },
     {
       "rank": 5,
-      "title": "核能公投案今投票 國民黨籲選民切莫遺漏公投票",
-      "summary": [
-        "自由時報：核能公投案今投票 國民黨籲選民切莫遺漏公投票",
-        "TVBS新聞：2026核電公投開票即時結果》同意票、不同意票與投票率（不斷更新）"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "核能公投案今投票 國民黨籲選民切莫遺漏公投票",
-          "url": "https://news.ltn.com.tw/news/politics/paper/1780187"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "2026核電公投開票即時結果》同意票、不同意票與投票率（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vTmFra0MwajVQZ0JSS0I4VzlBcC1ZYnR6cGc5X2ZMUWt5RC1CcWJGRU03Y0UyRTE3VXpaOG5GT3hCa0lNUEdoNG9mZV9JWWZYbXBF?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "title": "傳南韓國情院為營救情報員 擬向中國提供臺灣情資惹美震怒",
       "summary": [
         "自由時報：傳南韓國情院為營救情報員 擬向中國提供臺灣情資惹美震怒",
@@ -128,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "烏克蘭雷射防空武器首傳戰果　擊落俄羅斯噴射無人機",
       "summary": [
         "經濟日報：烏克蘭雷射防空武器首傳戰果　擊落俄羅斯噴射無人機",
@@ -149,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "12強》晉級告急！遭英國完封太傷 中國隊教頭說話了",
       "summary": [
         "自由時報：12強》晉級告急！遭英國完封太傷 中國隊教頭說話了",
@@ -170,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "20名日本AV女優涉赴韓賣淫！首爾接客「驚人價碼曝光」警通緝主嫌",
       "summary": [
         "ETtoday：20名日本AV女優涉赴韓賣淫！首爾接客「驚人價碼曝光」警通緝主嫌",
@@ -191,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "今日夜溫差10度　午後冷空氣南下「乾冷風大」",
       "summary": [
         "ETtoday：今日夜溫差10度　午後冷空氣南下「乾冷風大」",
@@ -208,6 +193,27 @@
           "source": "自由時報",
           "title": "乾空氣南下明恐跌破12度 下週暖熱白天飆3字頭",
           "url": "https://news.ltn.com.tw/news/life/breakingnews/5655986"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "今晨國際頭條／上海驚見輝達Blackwell晶片　OpenAI反告蘋果竊密",
+      "summary": [
+        "ETtoday：今晨國際頭條／上海驚見輝達Blackwell晶片　OpenAI反告蘋果竊密",
+        "經濟日報：OpenAI反告蘋果　控竊商業機密"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "ETtoday",
+          "title": "今晨國際頭條／上海驚見輝達Blackwell晶片　OpenAI反告蘋果竊密",
+          "url": "https://www.ettoday.net/news/20261128/3279748.htm"
+        },
+        {
+          "source": "經濟日報",
+          "title": "OpenAI反告蘋果　控竊商業機密",
+          "url": "https://money.udn.com/money/story/5599/9907103"
         }
       ]
     }
@@ -353,31 +359,31 @@
     },
     {
       "rank": 9,
-      "title": "法國警方使用催淚瓦斯後，數千名女孩和婦女報告流血和流產",
+      "title": "美農民憂特朗普關稅措施將使出口受阻及成本上升",
       "summary": [
-        "The Guardian：法國警方使用催淚瓦斯後，數千名女孩和婦女報告流血和流產"
+        "法廣RFI：美農民憂特朗普關稅措施將使出口受阻及成本上升"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "The Guardian",
-          "title": "法國警方使用催淚瓦斯後，數千名女孩和婦女報告流血和流產",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeDVtdFh3bl9lb1VXUWNVVDZHSFhiTjU3NDNmdG1kb0VuUjM3YVdNaGlKMmZSdlZRWUxjRXhhb2NDTnM3SzY3ZEVEZ1lpMi1FXzdPTzVaY2NWLWFOVEN4S3RsSVdJRlZKN29PX2NRc1pMT3p0eDFQbTFvc2RoM2ZkNU5iR21kc19iQTFFQ0JqMlpFZjJMXzFUTEl2SlpHTHpacXdkbVYwZDdEMy1KLWlkX0o0TTRhX3hqcFM2bElpczhrc3NPdkNvZHlac1B5M3FDODJualF2UDBGVDByeG5sdHB0ZFBOTmt0N1Bn?oc=5"
+          "source": "法廣RFI",
+          "title": "美農民憂特朗普關稅措施將使出口受阻及成本上升",
+          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261127-%E7%BE%8E%E8%BE%B2%E6%B0%91%E6%86%82%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E6%8E%AA%E6%96%BD%E5%B0%87%E4%BD%BF%E5%87%BA%E5%8F%A3%E5%8F%97%E9%98%BB%E5%8F%8A%E6%88%90%E6%9C%AC%E4%B8%8A%E5%8D%87"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "數十名議員警告總理不要封鎖油田，工黨圍繞著羅斯班克的爭執加深",
+      "title": "法國陷入經濟衰退",
       "summary": [
-        "The Guardian：數十名議員警告總理不要封鎖油田，工黨圍繞著羅斯班克的爭執加深"
+        "法廣RFI：法國陷入經濟衰退"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "The Guardian",
-          "title": "數十名議員警告總理不要封鎖油田，工黨圍繞著羅斯班克的爭執加深",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZjlSck5oYzJOaHdGaUNYVEhhVXk5dVRVQUQ2eVhOS2h2OHF1QUdqdC1TdzU0WDdxS1NYaXkzVXRlbGV4YzFqSHQybnBHYzlTSE5fTnZWVGRUUzhibVAwZl9IeUUzMEpJTjRPel9lOEtVaFhVYUxhX3ZvU0ZhYzVBbWZCNERLUDhFbVdiWlVnR2lzUmlIdWhlQzNURXU3VXRCQzF1SmVyV0cwUWM1MmF5WmJnaUV0ZTgtOXZvWGFOSVpKbUVKa3ZkTXVtNkxpWDIwTUpRZmY2WWktSzh2NThSSQ?oc=5"
+          "source": "法廣RFI",
+          "title": "法國陷入經濟衰退",
+          "url": "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20261127-%E6%B3%95%E5%9C%8B%E9%99%B7%E5%85%A5%E7%B6%93%E6%BF%9F%E8%A1%B0%E9%80%80"
         }
       ]
     }
