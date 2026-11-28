@@ -1,67 +1,8 @@
 {
-  "updated_at": "2026-11-28 08:56",
+  "updated_at": "2026-11-28 09:26",
   "taiwan": [
     {
       "rank": 1,
-      "title": "快訊／蔣萬安凱道破12萬人　10點加碼與石舫亙直播開箱甜蜜小窩",
-      "summary": [
-        "ETtoday：快訊／蔣萬安凱道破12萬人　10點加碼與石舫亙直播開箱甜蜜小窩",
-        "自由時報：11/27 今彩539頭獎開1注！800萬獎落高雄",
-        "TVBS新聞：陳其邁北上助陣 合體蘇巧慧板橋車掃｜LIVE"
-      ],
-      "media_count": 4,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／蔣萬安凱道破12萬人　10點加碼與石舫亙直播開箱甜蜜小窩",
-          "url": "https://www.ettoday.net/news/20261127/3279672.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "11/27 今彩539頭獎開1注！800萬獎落高雄",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5655705"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "陳其邁北上助陣 合體蘇巧慧板橋車掃｜LIVE",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxR1ZHdmRMZlE5ODNUNnJpd3RVQktiSjN0VUdnMndPWmZreEZZVkRIYkpNVWRQRWZ5UkJvMDJoeW1JbnI5Zmg0bE1hazgzR1YtMGQ4VEt3?oc=5"
-        },
-        {
-          "source": "工商時報",
-          "title": "亞航放量上攻返10日線- 日報",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GQXhkaDl2UmJGSHlpQzdyQUlMREJzcFFxNk1MeVhOaE02T3F6U1N6S0ppMHdZNlB5T0ZvWS1kODMyOWtCbjdyU1IzY3Q2YUZIVEVwWUtHWDBfRk4wb3Jz?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "快訊／神秘嘉賓登場！沈伯洋直播人數破40萬　衝YT即時「全球第一」",
-      "summary": [
-        "ETtoday：快訊／神秘嘉賓登場！沈伯洋直播人數破40萬　衝YT即時「全球第一」",
-        "自由時報：賈永婕現身沈柏洋直播！合體賴清德 直播瞬間衝破46萬",
-        "TVBS新聞：沈伯洋選前直播「賈永婕登場破50萬觀看」 登YT全球即時榜第1名"
-      ],
-      "media_count": 3,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "快訊／神秘嘉賓登場！沈伯洋直播人數破40萬　衝YT即時「全球第一」",
-          "url": "https://www.ettoday.net/news/20261127/3279671.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "賈永婕現身沈柏洋直播！合體賴清德 直播瞬間衝破46萬",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5655881"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "沈伯洋選前直播「賈永婕登場破50萬觀看」 登YT全球即時榜第1名",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jREFzd1FIWHRMSFNmUGJZNGoydkpoVjBDbDZwcmtEUm5PYzNxZld5TzE0VVBsZVczbU5lREJTbGxkSlFVVWE1LUV2TnF1RGRHWTRR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "惡劣天氣夾擊美國感恩節 強風豪雨釀大停電 全美數千航班延誤取消",
       "summary": [
         "鉅亨網：惡劣天氣夾擊美國感恩節 強風豪雨釀大停電 全美數千航班延誤取消",
@@ -88,7 +29,28 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "title": "賈永婕現身沈柏洋直播！合體賴清德 直播瞬間衝破46萬",
+      "summary": [
+        "自由時報：賈永婕現身沈柏洋直播！合體賴清德 直播瞬間衝破46萬",
+        "TVBS新聞：沈伯洋選前直播「賈永婕登場破50萬觀看」 登YT全球即時榜第1名"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "賈永婕現身沈柏洋直播！合體賴清德 直播瞬間衝破46萬",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5655881"
+        },
+        {
+          "source": "TVBS新聞",
+          "title": "沈伯洋選前直播「賈永婕登場破50萬觀看」 登YT全球即時榜第1名",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jREFzd1FIWHRMSFNmUGJZNGoydkpoVjBDbDZwcmtEUm5PYzNxZld5TzE0VVBsZVczbU5lREJTbGxkSlFVVWE1LUV2TnF1RGRHWTRR?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "title": "美空軍雲端平臺驚傳遭駭 戰術、人事與後勤資料恐外洩",
       "summary": [
         "經濟日報：美空軍雲端平臺驚傳遭駭 戰術、人事與後勤資料恐外洩",
@@ -109,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "天氣/投票日先放晴再轉涼週日北臺灣降溫較多\"掉3-5度\" 晨探15度下下週回溫明顯高溫上看30度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：天氣/投票日先放晴再轉涼週日北臺灣降溫較多\"掉3-5度\" 晨探15度下下週回溫明顯高溫上看30度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -130,70 +92,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "20261127 8點新世界 完整版（無網路版權內容除外）｜馬斯克送大禮，美國兒童獲贈2股SpaceX，承諾「每年送1股」",
-      "summary": [
-        "公視新聞：20261127 8點新世界 完整版（無網路版權內容除外）｜馬斯克送大禮，美國兒童獲贈2股SpaceX，承諾「每年送1股」",
-        "自由時報：馬斯克叔叔「紅包」加碼！全美兒童2股SpaceX、每年再贈1股"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "公視新聞",
-          "title": "20261127 8點新世界 完整版（無網路版權內容除外）｜馬斯克送大禮，美國兒童獲贈2股SpaceX，承諾「每年送1股」",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00aEtrYmdQd1djbS1icjItM1AzZ3JfTUpYUHpicGl1aUZkV2NDMmRFZWlQWUxGeWZvcFlYMlc5b2VGT3Y1am1JTEp4NA?oc=5"
-        },
-        {
-          "source": "自由時報",
-          "title": "馬斯克叔叔「紅包」加碼！全美兒童2股SpaceX、每年再贈1股",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5655906"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "大進場走20分鐘！江啟臣喊話：你做我的頭家，我來替你做牛做馬",
-      "summary": [
-        "ETtoday：大進場走20分鐘！江啟臣喊話：你做我的頭家，我來替你做牛做馬",
-        "自由時報：選前之夜喊話各位頭家 江啟臣：要求待遇不高 替大家做牛做馬"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "大進場走20分鐘！江啟臣喊話：你做我的頭家，我來替你做牛做馬",
-          "url": "https://www.ettoday.net/news/20261127/3279673.htm"
-        },
-        {
-          "source": "自由時報",
-          "title": "選前之夜喊話各位頭家 江啟臣：要求待遇不高 替大家做牛做馬",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655897"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "創近半世紀新高　主計總處估臺灣經濟成長率上修至13.28％",
-      "summary": [
-        "ETtoday：創近半世紀新高　主計總處估臺灣經濟成長率上修至13.28％",
-        "鉅亨網：臺灣今年經濟成長上修至13.28%近八成上修來自外需"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "ETtoday",
-          "title": "創近半世紀新高　主計總處估臺灣經濟成長率上修至13.28％",
-          "url": "https://finance.ettoday.net/news/3279635"
-        },
-        {
-          "source": "鉅亨網",
-          "title": "臺灣今年經濟成長上修至13.28%近八成上修來自外需",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ld1J4YWJIMDd6LWR5V3NDcHJINHMyRi1LQzF6LXYzTlVnQUZYRGNhNzlGNmhBblUxWV9rdTg5X1NjTjU5cG9XenR5Y1ZWMjA?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 5,
       "title": "不堪燃料價格大漲再倒1家　挪威北歐大西洋航空聲請破產",
       "summary": [
         "經濟日報：不堪燃料價格大漲再倒1家　挪威北歐大西洋航空聲請破產",
@@ -214,7 +113,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "手機漲價兩樣情！Android 使用者乾脆不買、iPhone 果粉照單全收",
       "summary": [
         "ETtoday：手機漲價兩樣情！Android 使用者乾脆不買、iPhone 果粉照單全收",
@@ -231,6 +130,90 @@
           "source": "自由時報",
           "title": "手機漲價大考驗！Android市佔摔出同期新低　iPhone卻越賣越好",
           "url": "https://3c.ltn.com.tw/news/68453"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "友達華亞廠找到新買家 售予矽品處分利益估104億元",
+      "summary": [
+        "鉅亨網：友達華亞廠找到新買家 售予矽品處分利益估104億元",
+        "工商時報：交易案大洗牌！友達華亞廠197億元賣給矽品估處分利益逾百億- 產業"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "鉅亨網",
+          "title": "友達華亞廠找到新買家 售予矽品處分利益估104億元",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mSEg5SDlCZnAzdEFHeVpGaTAyMFM0N1hwa1BxUllqTDhkYUVEc3ZLMUI4MGJ6VHBmNU9CaWFQNndzSk5NSy1sLUNqbzRUeFU?oc=5"
+        },
+        {
+          "source": "工商時報",
+          "title": "交易案大洗牌！友達華亞廠197億元賣給矽品估處分利益逾百億- 產業",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RUFvc0ZKTDY3NzVrcW1LQjJQUllMWGZ1YkJDOHR5QXBZYjhVZGdSWVJzWjFFNW8wT21BSktXWDF0SUQ4RGNieGd2bzI5ZFZHdlB2TE5UbVF6UW5DM3Bj?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "屏檢查獲選舉賭盤每注1萬元　2組頭遭收押",
+      "summary": [
+        "自由時報：屏檢查獲選舉賭盤每注1萬元　2組頭遭收押",
+        "ETtoday：每注1萬元！　選舉賭盤2組頭被收押"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "屏檢查獲選舉賭盤每注1萬元　2組頭遭收押",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5655957"
+        },
+        {
+          "source": "ETtoday",
+          "title": "每注1萬元！　選舉賭盤2組頭被收押",
+          "url": "https://www.ettoday.net/news/20261128/3279726.htm"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "科技股續漲帶動　歐股收紅結束震盪一週",
+      "summary": [
+        "自由時報：科技股續漲帶動　歐股收紅結束震盪一週",
+        "經濟日報：科技股續漲帶動　歐股收紅結束震盪一週"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "科技股續漲帶動　歐股收紅結束震盪一週",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5655962"
+        },
+        {
+          "source": "經濟日報",
+          "title": "科技股續漲帶動　歐股收紅結束震盪一週",
+          "url": "https://money.udn.com/money/story/5599/9906914"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "無人機襲科威特釀2義大利人死亡　聯合國秘書長籲各方剋制",
+      "summary": [
+        "自由時報：無人機襲科威特釀2義大利人死亡　聯合國秘書長籲各方剋制",
+        "經濟日報：無人機襲科威特釀2義大利人死亡　聯合國秘書長籲各方剋制"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "無人機襲科威特釀2義大利人死亡　聯合國秘書長籲各方剋制",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5655964"
+        },
+        {
+          "source": "經濟日報",
+          "title": "無人機襲科威特釀2義大利人死亡　聯合國秘書長籲各方剋制",
+          "url": "https://money.udn.com/money/story/5599/9906921"
         }
       ]
     }
