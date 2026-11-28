@@ -1,8 +1,29 @@
 {
-  "updated_at": "2026-11-28 16:55",
+  "updated_at": "2026-11-28 17:25",
   "taiwan": [
     {
       "rank": 1,
+      "title": "（專訪）VERIVERY超愛臺灣味！點名崔立於帶路逛臺北 全員爭搶大巨蛋開球",
+      "summary": [
+        "自由時報：（專訪）VERIVERY超愛臺灣味！點名崔立於帶路逛臺北 全員爭搶大巨蛋開球",
+        "ETtoday：何欣純現身投票所！曝昨夜回家煮餛飩湯當宵夜　盼迎臺中「欣開始」"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "自由時報",
+          "title": "（專訪）VERIVERY超愛臺灣味！點名崔立於帶路逛臺北 全員爭搶大巨蛋開球",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5655949"
+        },
+        {
+          "source": "ETtoday",
+          "title": "何欣純現身投票所！曝昨夜回家煮餛飩湯當宵夜　盼迎臺中「欣開始」",
+          "url": "https://www.ettoday.net/news/20261128/3279811.htm"
+        }
+      ]
+    },
+    {
+      "rank": 2,
       "title": "美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
       "summary": [
         "自由時報：美國空軍雲端平臺遭駭客入侵 恐危及大量軍事機密",
@@ -23,7 +44,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "蘇巧慧一早投票先摸這裡「帶好運」 讚臺灣民主成熟",
       "summary": [
         "自由時報：蘇巧慧一早投票先摸這裡「帶好運」 讚臺灣民主成熟",
@@ -40,27 +61,6 @@
           "source": "ETtoday",
           "title": "快訊／蘇巧慧一早現身投票　看到人潮很感動：臺灣民主成熟了",
           "url": "https://www.ettoday.net/news/20261128/3279747.htm"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "11／28九合一選舉、公投登場！投票三寶、時間與首投族注意事項全攻略- 要聞",
-      "summary": [
-        "工商時報：11／28九合一選舉、公投登場！投票三寶、時間與首投族注意事項全攻略- 要聞",
-        "ETtoday：快訊／九合一大選登場！總統賴清德現身安平國中投票所完成投票"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "工商時報",
-          "title": "11／28九合一選舉、公投登場！投票三寶、時間與首投族注意事項全攻略- 要聞",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mZW1rX3E3ZV93N0lNUzZyYW0zenl4c3RhSGhWM2dybXJLZWxldnJZX1o4Q1lLSHZPSmNjUnVPMEhSNTFiMU5lY2dWZmhJMFMzY1Q1RDNWQU5yTl9kNzdR?oc=5"
-        },
-        {
-          "source": "ETtoday",
-          "title": "快訊／九合一大選登場！總統賴清德現身安平國中投票所完成投票",
-          "url": "https://www.ettoday.net/news/20261128/3279815.htm"
         }
       ]
     },
@@ -257,6 +257,27 @@
     },
     {
       "rank": 3,
+      "title": "金正恩又要訪華？韓國情報機構稱密切關注",
+      "summary": [
+        "德國之聲：金正恩又要訪華？韓國情報機構稱密切關注",
+        "法廣RFI：韓國情報部門：密切關注金正恩可能訪華的各種動態"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "德國之聲",
+          "title": "金正恩又要訪華？韓國情報機構稱密切關注",
+          "url": "https://www.dw.com/zh/金正恩又要访华？韩国情报机构称密切关注/a-80083800?maca=chi-rss-chi-all-1127-rdf"
+        },
+        {
+          "source": "法廣RFI",
+          "title": "韓國情報部門：密切關注金正恩可能訪華的各種動態",
+          "url": "https://www.rfi.fr/tw/%E6%94%BF%E6%B2%BB/20261128-%E9%9F%93%E5%9C%8B%E6%83%85%E5%A0%B1%E9%83%A8%E9%96%80-%E5%AF%86%E5%88%87%E9%97%9C%E6%B3%A8%E9%87%91%E6%AD%A3%E6%81%A9%E5%8F%AF%E8%83%BD%E8%A8%AA%E8%8F%AF%E7%9A%84%E5%90%84%E7%A8%AE%E5%8B%95%E6%85%8B"
+        }
+      ]
+    },
+    {
+      "rank": 4,
       "title": "臺灣「九合一」選舉開始投票 核電政策公投同步舉行",
       "summary": [
         "BBC中文：臺灣「九合一」選舉開始投票 核電政策公投同步舉行"
@@ -271,7 +292,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Adobe 稱美國黑色星期五線上銷售額將突破 130 億美元",
       "summary": [
         "Investing.com：Adobe 稱美國黑色星期五線上銷售額將突破 130 億美元"
@@ -286,7 +307,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "沃爾瑪促銷程式碼：2026 年 11 月 20% 折扣",
       "summary": [
         "Wired：沃爾瑪促銷程式碼：2026 年 11 月 20% 折扣"
@@ -301,7 +322,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "黑色星期五最佳遊戲電腦現場促銷",
       "summary": [
         "Tom's Hardware：黑色星期五最佳遊戲電腦現場促銷"
@@ -316,7 +337,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "我找到了最佳黑色星期五串流優惠（2026 年）：Apple TV、迪士尼、HBO Max",
       "summary": [
         "Wired：我找到了最佳黑色星期五串流優惠（2026 年）：Apple TV、迪士尼、HBO Max"
@@ -331,47 +352,32 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "臺灣九合一地方選舉：臺當局警告選舉面臨北京幹預風險",
-      "summary": [
-        "法廣RFI：臺灣九合一地方選舉：臺當局警告選舉面臨北京幹預風險"
-      ],
-      "media_count": 1,
-      "links": [
-        {
-          "source": "法廣RFI",
-          "title": "臺灣九合一地方選舉：臺當局警告選舉面臨北京幹預風險",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261127-%E5%8F%B0%E7%81%A3%E4%B9%9D%E5%90%88%E4%B8%80%E5%9C%B0%E6%96%B9%E9%81%B8%E8%88%89-%E5%8F%B0%E7%95%B6%E5%B1%80%E8%AD%A6%E5%91%8A%E9%81%B8%E8%88%89%E9%9D%A2%E8%87%A8%E5%8C%97%E4%BA%AC%E5%B9%B2%E9%A0%90%E9%A2%A8%E9%9A%AA"
-        }
-      ]
-    },
-    {
       "rank": 9,
-      "title": "黃仁勳重掌英偉達 科技界性別歧視爭議再起",
+      "title": "法國警方使用催淚瓦斯後，數千名女孩和婦女報告流血和流產",
       "summary": [
-        "法廣RFI：黃仁勳重掌英偉達 科技界性別歧視爭議再起"
+        "The Guardian：法國警方使用催淚瓦斯後，數千名女孩和婦女報告流血和流產"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "黃仁勳重掌英偉達 科技界性別歧視爭議再起",
-          "url": "https://www.rfi.fr/tw/%E7%A7%91%E6%8A%80%E8%88%87%E6%96%87%E5%8C%96/20261127-%E9%BB%83%E4%BB%81%E5%8B%B3%E9%87%8D%E6%8E%8C%E8%8B%B1%E5%81%89%E9%81%94-%E7%A7%91%E6%8A%80%E7%95%8C%E6%80%A7%E5%88%A5%E6%AD%A7%E8%A6%96%E7%88%AD%E8%AD%B0%E5%86%8D%E8%B5%B7"
+          "source": "The Guardian",
+          "title": "法國警方使用催淚瓦斯後，數千名女孩和婦女報告流血和流產",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeDVtdFh3bl9lb1VXUWNVVDZHSFhiTjU3NDNmdG1kb0VuUjM3YVdNaGlKMmZSdlZRWUxjRXhhb2NDTnM3SzY3ZEVEZ1lpMi1FXzdPTzVaY2NWLWFOVEN4S3RsSVdJRlZKN29PX2NRc1pMT3p0eDFQbTFvc2RoM2ZkNU5iR21kc19iQTFFQ0JqMlpFZjJMXzFUTEl2SlpHTHpacXdkbVYwZDdEMy1KLWlkX0o0TTRhX3hqcFM2bElpczhrc3NPdkNvZHlac1B5M3FDODJualF2UDBGVDByeG5sdHB0ZFBOTmt0N1Bn?oc=5"
         }
       ]
     },
     {
       "rank": 10,
-      "title": "特朗普稱已敦促普京停止在歐洲各地的軍事侵略",
+      "title": "數十名議員警告總理不要封鎖油田，工黨圍繞著羅斯班克的爭執加深",
       "summary": [
-        "法廣RFI：特朗普稱已敦促普京停止在歐洲各地的軍事侵略"
+        "The Guardian：數十名議員警告總理不要封鎖油田，工黨圍繞著羅斯班克的爭執加深"
       ],
       "media_count": 1,
       "links": [
         {
-          "source": "法廣RFI",
-          "title": "特朗普稱已敦促普京停止在歐洲各地的軍事侵略",
-          "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20261127-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B7%B2%E6%95%A6%E4%BF%83%E6%99%AE%E4%BA%AC%E5%81%9C%E6%AD%A2%E5%9C%A8%E6%AD%90%E6%B4%B2%E5%90%84%E5%9C%B0%E7%9A%84%E8%BB%8D%E4%BA%8B%E4%BE%B5%E7%95%A5"
+          "source": "The Guardian",
+          "title": "數十名議員警告總理不要封鎖油田，工黨圍繞著羅斯班克的爭執加深",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZjlSck5oYzJOaHdGaUNYVEhhVXk5dVRVQUQ2eVhOS2h2OHF1QUdqdC1TdzU0WDdxS1NYaXkzVXRlbGV4YzFqSHQybnBHYzlTSE5fTnZWVGRUUzhibVAwZl9IeUUzMEpJTjRPel9lOEtVaFhVYUxhX3ZvU0ZhYzVBbWZCNERLUDhFbVdiWlVnR2lzUmlIdWhlQzNURXU3VXRCQzF1SmVyV0cwUWM1MmF5WmJnaUV0ZTgtOXZvWGFOSVpKbUVKa3ZkTXVtNkxpWDIwTUpRZmY2WWktSzh2NThSSQ?oc=5"
         }
       ]
     }
