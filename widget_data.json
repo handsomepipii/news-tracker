@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 09:26",
+  "updated_at": "2026-11-28 09:56",
   "taiwan": [
     {
       "rank": 1,
@@ -30,27 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "賈永婕現身沈柏洋直播！合體賴清德 直播瞬間衝破46萬",
-      "summary": [
-        "自由時報：賈永婕現身沈柏洋直播！合體賴清德 直播瞬間衝破46萬",
-        "TVBS新聞：沈伯洋選前直播「賈永婕登場破50萬觀看」 登YT全球即時榜第1名"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "自由時報",
-          "title": "賈永婕現身沈柏洋直播！合體賴清德 直播瞬間衝破46萬",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5655881"
-        },
-        {
-          "source": "TVBS新聞",
-          "title": "沈伯洋選前直播「賈永婕登場破50萬觀看」 登YT全球即時榜第1名",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jREFzd1FIWHRMSFNmUGJZNGoydkpoVjBDbDZwcmtEUm5PYzNxZld5TzE0VVBsZVczbU5lREJTbGxkSlFVVWE1LUV2TnF1RGRHWTRR?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "title": "美空軍雲端平臺驚傳遭駭 戰術、人事與後勤資料恐外洩",
       "summary": [
         "經濟日報：美空軍雲端平臺驚傳遭駭 戰術、人事與後勤資料恐外洩",
@@ -71,7 +50,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "天氣/投票日先放晴再轉涼週日北臺灣降溫較多\"掉3-5度\" 晨探15度下下週回溫明顯高溫上看30度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
       "summary": [
         "TVBS新聞：天氣/投票日先放晴再轉涼週日北臺灣降溫較多\"掉3-5度\" 晨探15度下下週回溫明顯高溫上看30度｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網",
@@ -88,6 +67,27 @@
           "source": "ETtoday",
           "title": "今投票日乾空氣南下　吳德榮：明晨最低溫跌破12℃",
           "url": "https://www.ettoday.net/news/20261128/3279728.htm"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "沈伯洋選前直播「賈永婕登場破50萬觀看」 登YT全球即時榜第1名",
+      "summary": [
+        "TVBS新聞：沈伯洋選前直播「賈永婕登場破50萬觀看」 登YT全球即時榜第1名",
+        "自由時報：賈永婕相挺沈伯洋！直播衝破52萬人穩居全球第一 狠甩蔣萬安11倍"
+      ],
+      "media_count": 2,
+      "links": [
+        {
+          "source": "TVBS新聞",
+          "title": "沈伯洋選前直播「賈永婕登場破50萬觀看」 登YT全球即時榜第1名",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jREFzd1FIWHRMSFNmUGJZNGoydkpoVjBDbDZwcmtEUm5PYzNxZld5TzE0VVBsZVczbU5lREJTbGxkSlFVVWE1LUV2TnF1RGRHWTRR?oc=5"
+        },
+        {
+          "source": "自由時報",
+          "title": "賈永婕相挺沈伯洋！直播衝破52萬人穩居全球第一 狠甩蔣萬安11倍",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5655826"
         }
       ]
     },
@@ -269,27 +269,6 @@
     },
     {
       "rank": 3,
-      "title": "廉價航空公司挪威大西洋航空公司因未能獲得資金而在歐洲申請破產",
-      "summary": [
-        "CNBC：廉價航空公司挪威大西洋航空公司因未能獲得資金而在歐洲申請破產",
-        "Investing.com：挪威大西洋航空公司在挪威申請破產"
-      ],
-      "media_count": 2,
-      "links": [
-        {
-          "source": "CNBC",
-          "title": "廉價航空公司挪威大西洋航空公司因未能獲得資金而在歐洲申請破產",
-          "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html"
-        },
-        {
-          "source": "Investing.com",
-          "title": "挪威大西洋航空公司在挪威申請破產",
-          "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-airways-files-for-bankruptcy-in-norway-5053483"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "title": "川普捍衛普丁的友誼，澤倫斯基稱這種友誼“奇怪”",
       "summary": [
         "Washington Post：川普捍衛普丁的友誼，澤倫斯基稱這種友誼“奇怪”",
@@ -310,7 +289,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "人工智慧如何改變黑色星期五",
       "summary": [
         "Bloomberg Tech：人工智慧如何改變黑色星期五",
@@ -331,7 +310,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
       "summary": [
         "The Verge：黑色星期五 AirPods、MacBook 等Apple裝置的最佳優惠",
@@ -352,17 +331,17 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
+      "rank": 6,
+      "title": "英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
       "summary": [
-        "Bloomberg Tech：英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
+        "Bloomberg Tech：英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
         "Financial Times：Verizon 正在就 60 億美元收購 Fidium 交易進行談判，以擴大寬頻覆蓋範圍"
       ],
       "media_count": 2,
       "links": [
         {
           "source": "Bloomberg Tech",
-          "title": "英國《金融時報》表示 Verizon 正在洽談以 60 億美元收購 Fidium",
+          "title": "英國《金融時報》稱 Verizon 正在洽談以 60 億美元收購 Fidium",
           "url": "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says"
         },
         {
@@ -373,7 +352,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "OpenAI 反訴蘋果竊取商業機密",
       "summary": [
         "Financial Times：OpenAI 反訴蘋果竊取商業機密",
@@ -394,22 +373,22 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "為什麼嘉能可股票今天上漲？",
+      "rank": 8,
+      "title": "為什麼相干公司的股票今天飆升？",
       "summary": [
-        "Investing.com：為什麼嘉能可股票今天上漲？"
+        "Investing.com：為什麼相干公司的股票今天飆升？"
       ],
       "media_count": 1,
       "links": [
         {
           "source": "Investing.com",
-          "title": "為什麼嘉能可股票今天上漲？",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-glencore-stock-rallying-today-93CH-5053532"
+          "title": "為什麼相干公司的股票今天飆升？",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-coherent-stock-surging-today-93CH-5053611"
         }
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "黑色星期五最佳遊戲筆記型電腦現場促銷",
       "summary": [
         "Tom's Hardware：黑色星期五最佳遊戲筆記型電腦現場促銷"
@@ -420,6 +399,21 @@
           "source": "Tom's Hardware",
           "title": "黑色星期五最佳遊戲筆記型電腦現場促銷",
           "url": "https://www.tomshardware.com/live/news/best-black-friday-gaming-laptop-deals-live"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
+      "summary": [
+        "Yahoo Finance：Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上"
+      ],
+      "media_count": 1,
+      "links": [
+        {
+          "source": "Yahoo Finance",
+          "title": "Nvidia Blackwell 晶片出現在與 Alice Huang 相關的中國網站上",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV3pxZ1JQb19TUl83aU9NZDBDQlV3M2ZPOFg3bVlSVXgxZHlMWTVObzlmNTBWa0w4YXB0M1VoemRXYTg5cEtITl9jMzJQLVZuWEQyM005alFFYzB0bDNtSW1SS1V1cjF6MlhYSmNJWEZUeFpfOGR4bWJlc0M3Y2tjbWExUUwyekhoWV9EM0JNd2dRVFdJMEY2Q3h3?oc=5"
         }
       ]
     }
